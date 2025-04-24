@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 19:23:10](https://lobste.rs/s/pwxpmq/atuin_desktop_runbooks_run) - [Atuin Desktop: Runbooks that Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-24, 19:12:20](https://lobste.rs/s/edtvb3/how_discord_indexes_trillions_messages) - [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 * [2025-04-24, 19:04:23](https://lobste.rs/s/ewizat/how_i_got_hacked_warning_about_malicious) - [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
 * [2025-04-24, 17:41:12](https://lobste.rs/s/szib3l/trickonometry_math_olympiad) - [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
@@ -17,7 +18,6 @@
 * [2025-04-24, 03:58:29](https://lobste.rs/s/fkw9va/tools_i_love_are_made_by_awful_people) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-23, 23:47:06](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released) - [QEMU version 10.0.0 released](https://www.qemu.org/2025/04/23/qemu-10-0-0/)
 * [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echo_open_hardware_music_player) - [Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
-* [2025-04-23, 23:03:13](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish) - [How to make an Android tablet respect my wish to stay on a WiFi with no internet access?](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish)
 * [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 19:54:44](https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64) - [Searchable Linux Syscall Table for x86_64](https://filippo.io/linux-syscall-table/)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)

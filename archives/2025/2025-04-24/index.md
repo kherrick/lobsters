@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 19:23:10](https://lobste.rs/s/pwxpmq/atuin_desktop_runbooks_run) - [Atuin Desktop: Runbooks that Run](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/)
 * [2025-04-24, 19:12:20](https://lobste.rs/s/edtvb3/how_discord_indexes_trillions_messages) - [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 * [2025-04-24, 19:04:23](https://lobste.rs/s/ewizat/how_i_got_hacked_warning_about_malicious) - [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
 * [2025-04-24, 18:00:44](https://lobste.rs/s/j1dpuv/ai_horseless_carriages) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
