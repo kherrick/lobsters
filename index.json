@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-24, 23:58:28",
+      "https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100"
+    ],
+    [
+      "Implementing Unsure Calculator in 100 lines of Haskell",
+      "https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 23:41:57",
       "https://lobste.rs/s/yo3kj5/path_should_be_system_call"
     ],
@@ -197,16 +207,6 @@
     [
       "QEMU version 10.0.0 released",
       "https://www.qemu.org/2025/04/23/qemu-10-0-0/"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 23:10:19",
-      "https://lobste.rs/s/lwrpus/echo_open_hardware_music_player"
-    ],
-    [
-      "Echo - Open Hardware Music Player",
-      "https://github.com/amachronic/echoplayer"
     ]
   ],
   [
