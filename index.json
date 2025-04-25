@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-25, 14:07:42",
+      "https://lobste.rs/s/ktuuw8/inline_python_inline_python_code"
+    ],
+    [
+      "inline-python: Inline Python code directly in your Rust code",
+      "https://crates.io/crates/inline-python"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 13:45:05",
       "https://lobste.rs/s/icn0oe/don_t_delete_just_don_t"
     ],
@@ -207,16 +217,6 @@
     [
       "GitHub potential leaking of private emails and Hacker One",
       "https://omarabid.com/hacker-one"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 13:27:33",
-      "https://lobste.rs/s/zgj0jz/requirements_change_until_they_don_t"
-    ],
-    [
-      "Requirements change until they don't",
-      "https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/"
     ]
   ],
   [
