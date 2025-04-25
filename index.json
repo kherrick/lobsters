@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-25, 15:58:22",
-      "https://lobste.rs/s/aukxak/differential_coverage_for_debugging"
+      "2025-04-25, 16:19:32",
+      "https://lobste.rs/s/hmjv3a/gcc_15_1_released"
     ],
     [
-      "Differential Coverage for Debugging",
-      "https://research.swtch.com/diffcover"
+      "GCC 15.1 Released",
+      "https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 16:13:20",
+      "https://lobste.rs/s/fcxtsh/pygraph_robust_compiler_support_for_cuda"
+    ],
+    [
+      "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
+      "https://arxiv.org/abs/2503.19779"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Avoid continue",
       "https://www.teamten.com/lawrence/programming/avoid-continue.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 11:54:44",
-      "https://lobste.rs/s/avp6rw/towards_vortex_1_0"
-    ],
-    [
-      "Towards Vortex 1.0",
-      "https://spiraldb.com/post/towards-vortex-10"
     ]
   ]
 ]
