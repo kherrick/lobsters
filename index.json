@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-25, 20:06:05",
+      "https://lobste.rs/s/iqzao8/how_licenses_learn"
+    ],
+    [
+      "How Licenses Learn",
+      "https://james.grimmelmann.net/files/articles/how-licenses-learn.pdf"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 19:46:39",
       "https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for"
     ],
@@ -17,16 +27,6 @@
     [
       "GCC 15.1 Released",
       "https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 16:13:20",
-      "https://lobste.rs/s/fcxtsh/pygraph_robust_compiler_support_for_cuda"
-    ],
-    [
-      "PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch",
-      "https://arxiv.org/abs/2503.19779"
     ]
   ],
   [
