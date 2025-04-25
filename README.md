@@ -2,6 +2,7 @@
 
 * [2025-04-25, 16:19:32](https://lobste.rs/s/hmjv3a/gcc_15_1_released) - [GCC 15.1 Released](https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html)
 * [2025-04-25, 16:13:20](https://lobste.rs/s/fcxtsh/pygraph_robust_compiler_support_for_cuda) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
+* [2025-04-25, 15:58:22](https://lobste.rs/s/aukxak/differential_coverage_for_debugging) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
 * [2025-04-25, 15:28:35](https://lobste.rs/s/1dy62n/devenv_1_6_extensible_ad_hoc_nix) - [devenv 1.6: Extensible Ad-Hoc Nix Environments](https://devenv.sh/blog/2025/04/25/devenv-16-extensible-ad-hoc-nix-environments/)
 * [2025-04-25, 15:04:25](https://lobste.rs/s/0hhmip/new_kind_paper) - [New Kind of Paper](https://mlajtos.mu/posts/new-kind-of-paper)
 * [2025-04-25, 14:07:42](https://lobste.rs/s/ktuuw8/inline_python_inline_python_code) - [inline-python: Inline Python code directly in your Rust code](https://crates.io/crates/inline-python)
@@ -24,7 +25,6 @@
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 13:44:48](https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is) - [Oniguruma, a popular regex library, is archived, the project \"ended\"](https://github.com/kkos/oniguruma)
 * [2025-04-24, 13:35:57](https://lobste.rs/s/uhyijm/github_potential_leaking_private_emails) - [GitHub potential leaking of private emails and Hacker One](https://omarabid.com/hacker-one)
-* [2025-04-24, 12:35:04](https://lobste.rs/s/dtaae5/avoid_continue) - [Avoid continue](https://www.teamten.com/lawrence/programming/avoid-continue.html)
 
 ## [Archives](archives/index.md)
 
