@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-25, 22:48:52](https://lobste.rs/s/7yjohg/actix_request_reply_cache_redis_backed) - [actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications](https://github.com/densumesh/actix-request-reply-cache)
+* [2025-04-25, 22:39:21](https://lobste.rs/s/ljr4im/ats3_xanadu_released) - [ATS3 Xanadu released](https://github.com/githwxi/XATSHOME)
 * [2025-04-25, 22:26:47](https://lobste.rs/s/77vuer/export_google_analytics_data_sheets_via) - [Export Google Analytics data to Sheets via Apps Script](https://technicalwriting.dev/analytics/sheets.html)
 * [2025-04-25, 21:30:48](https://lobste.rs/s/yzjiqj/mceliece_standardization) - [McEliece standardization](https://blog.cr.yp.to/20250423-mceliece.html)
 * [2025-04-25, 21:09:27](https://lobste.rs/s/poyxdo/o_no_you_didn_t) - [O(no) You Didn’t](https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html)
@@ -22,7 +23,6 @@
 * [2025-04-24, 23:58:28](https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100) - [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
 * [2025-04-24, 23:41:57](https://lobste.rs/s/yo3kj5/path_should_be_system_call) - [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 * [2025-04-24, 22:22:29](https://lobste.rs/s/dpeywc/protecting_nats_integrity_open_source) - [Protecting NATS and the integrity of open source: CNCF’s commitment to the community](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
-* [2025-04-24, 21:06:40](https://lobste.rs/s/hopte0/bevy_0_16) - [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
 * [2025-04-24, 19:12:20](https://lobste.rs/s/edtvb3/how_discord_indexes_trillions_messages) - [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 
