@@ -6,6 +6,7 @@
 
 * [2025-04-25, 20:06:05](https://lobste.rs/s/iqzao8/how_licenses_learn) - [How Licenses Learn](https://james.grimmelmann.net/files/articles/how-licenses-learn.pdf)
 * [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
+* [2025-04-25, 17:43:30](https://lobste.rs/s/gcq1i1/beos_file_system_os_geek_retrospective) - [The BeOS file system, an OS geek retrospective](https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/)
 * [2025-04-25, 16:19:32](https://lobste.rs/s/hmjv3a/gcc_15_1_released) - [GCC 15.1 Released](https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html)
 * [2025-04-25, 16:13:20](https://lobste.rs/s/fcxtsh/pygraph_robust_compiler_support_for_cuda) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-25, 15:58:22](https://lobste.rs/s/aukxak/differential_coverage_for_debugging) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
