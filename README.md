@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
 * [2025-04-25, 16:19:32](https://lobste.rs/s/hmjv3a/gcc_15_1_released) - [GCC 15.1 Released](https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html)
 * [2025-04-25, 16:13:20](https://lobste.rs/s/fcxtsh/pygraph_robust_compiler_support_for_cuda) - [PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779)
 * [2025-04-25, 15:58:22](https://lobste.rs/s/aukxak/differential_coverage_for_debugging) - [Differential Coverage for Debugging](https://research.swtch.com/diffcover)
@@ -23,7 +24,6 @@
 * [2025-04-24, 19:12:20](https://lobste.rs/s/edtvb3/how_discord_indexes_trillions_messages) - [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 * [2025-04-24, 19:04:23](https://lobste.rs/s/ewizat/how_i_got_hacked_warning_about_malicious) - [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
-* [2025-04-24, 13:44:48](https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is) - [Oniguruma, a popular regex library, is archived, the project \"ended\"](https://github.com/kkos/oniguruma)
 * [2025-04-24, 13:35:57](https://lobste.rs/s/uhyijm/github_potential_leaking_private_emails) - [GitHub potential leaking of private emails and Hacker One](https://omarabid.com/hacker-one)
 
 ## [Archives](archives/index.md)
