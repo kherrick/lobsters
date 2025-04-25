@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 12:28:17](https://lobste.rs/s/uybibu/another_war_story_hardest_bug_i_ever) - [Another war story: the hardest bug I ever debugged](https://philippweissensteiner.com/another-war-story.html)
 * [2025-04-25, 12:20:06](https://lobste.rs/s/mhgdyq/sql_fiddle_online_sql_compiler_for) - [SQL Fiddle - Online SQL Compiler for learning & practice](https://sqlfiddle.com)
 * [2025-04-25, 09:51:15](https://lobste.rs/s/qcxcys/designing_kar) - [Designing Kar](https://joshleeb.com/posts/kar-design.html)
 * [2025-04-25, 09:45:21](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend)
