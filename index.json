@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-25, 15:58:22",
+      "https://lobste.rs/s/aukxak/differential_coverage_for_debugging"
+    ],
+    [
+      "Differential Coverage for Debugging",
+      "https://research.swtch.com/diffcover"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 15:28:35",
       "https://lobste.rs/s/1dy62n/devenv_1_6_extensible_ad_hoc_nix"
     ],
@@ -107,16 +117,6 @@
     [
       "How decentralized is the fediverse, really?",
       "https://discuss.systems/@ricci/114396317436420669"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 03:15:22",
-      "https://lobste.rs/s/h201mp/cryptoint_library"
-    ],
-    [
-      "The cryptoint library",
-      "https://cr.yp.to/papers/cryptoint-20250424.pdf"
     ]
   ],
   [
