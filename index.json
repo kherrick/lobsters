@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-25, 21:30:48",
+      "https://lobste.rs/s/yzjiqj/mceliece_standardization"
+    ],
+    [
+      "McEliece standardization",
+      "https://blog.cr.yp.to/20250423-mceliece.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-25, 21:09:27",
+      "https://lobste.rs/s/poyxdo/o_no_you_didn_t"
+    ],
+    [
+      "O(no) You Didn’t",
+      "https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html"
+    ]
+  ],
+  [
+    [
       "2025-04-25, 19:46:39",
       "https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-04-25, 02:28:44",
-      "https://lobste.rs/s/rfu1fu/hacking_my_coworker_minecraft"
-    ],
-    [
-      "Hacking My Coworker (In Minecraft)",
-      "https://redvice.org/assets/pdfs/minecraft2025.pdf"
-    ]
-  ],
-  [
-    [
       "2025-04-24, 23:58:28",
       "https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100"
     ],
@@ -217,16 +227,6 @@
     [
       "How Discord Indexes Trillions of Messages",
       "https://discord.com/blog/how-discord-indexes-trillions-of-messages"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 19:04:23",
-      "https://lobste.rs/s/ewizat/how_i_got_hacked_warning_about_malicious"
-    ],
-    [
-      "How I Got Hacked: A Warning about Malicious PoCs",
-      "https://chocapikk.com/posts/2025/s1nk/"
     ]
   ],
   [
