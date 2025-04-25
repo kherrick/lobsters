@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 23:58:28](https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100) - [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
 * [2025-04-24, 23:41:57](https://lobste.rs/s/yo3kj5/path_should_be_system_call) - [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 * [2025-04-24, 22:22:29](https://lobste.rs/s/dpeywc/nats_ownership_reclaimed_by_original) - [NATS ownership reclaimed by original donor from CNCF](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
 * [2025-04-24, 21:06:40](https://lobste.rs/s/hopte0/bevy_0_16) - [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
@@ -20,7 +21,6 @@
 * [2025-04-24, 09:11:35](https://lobste.rs/s/s0jqjx/bluefish) - [Bluefish](https://bluefishjs.org/)
 * [2025-04-24, 03:58:29](https://lobste.rs/s/fkw9va/tools_i_love_are_made_by_awful_people) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-23, 23:47:06](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released) - [QEMU version 10.0.0 released](https://www.qemu.org/2025/04/23/qemu-10-0-0/)
-* [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echo_open_hardware_music_player) - [Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)

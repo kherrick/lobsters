@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 23:58:28](https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100) - [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
 * [2025-04-24, 23:41:57](https://lobste.rs/s/yo3kj5/path_should_be_system_call) - [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 * [2025-04-24, 22:22:29](https://lobste.rs/s/dpeywc/nats_ownership_reclaimed_by_original) - [NATS ownership reclaimed by original donor from CNCF](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
 * [2025-04-24, 21:06:40](https://lobste.rs/s/hopte0/bevy_0_16) - [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
