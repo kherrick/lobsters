@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 05:25:17](https://lobste.rs/s/v3dllz/lost_css_tricks_cohost_org) - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
 * [2025-04-25, 03:55:04](https://lobste.rs/s/jntn1m/how_decentralized_is_fediverse_really) - [How decentralized is the fediverse, really? [mastodon post]](https://discuss.systems/@ricci/114396317436420669)
 * [2025-04-25, 03:15:22](https://lobste.rs/s/h201mp/cryptoint_library) - [The cryptoint library](https://cr.yp.to/papers/cryptoint-20250424.pdf)
 * [2025-04-25, 02:37:54](https://lobste.rs/s/guyqnb/observability_2_0_database_for_it) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
