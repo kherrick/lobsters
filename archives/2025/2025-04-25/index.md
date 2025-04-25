@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 21:30:48](https://lobste.rs/s/yzjiqj/mceliece_standardization) - [McEliece standardization](https://blog.cr.yp.to/20250423-mceliece.html)
+* [2025-04-25, 21:09:27](https://lobste.rs/s/poyxdo/o_no_you_didn_t) - [O(no) You Didn’t](https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html)
 * [2025-04-25, 20:06:05](https://lobste.rs/s/iqzao8/how_licenses_learn) - [How Licenses Learn](https://james.grimmelmann.net/files/articles/how-licenses-learn.pdf)
 * [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
 * [2025-04-25, 17:43:30](https://lobste.rs/s/gcq1i1/beos_file_system_os_geek_retrospective) - [The BeOS file system, an OS geek retrospective](https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/)
