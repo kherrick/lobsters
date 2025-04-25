@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-25, 03:15:22](https://lobste.rs/s/h201mp/cryptoint_library) - [The cryptoint library](https://cr.yp.to/papers/cryptoint-20250424.pdf)
 * [2025-04-25, 02:37:54](https://lobste.rs/s/guyqnb/observability_2_0_database_for_it) - [Observability 2.0 and the Database for It](https://greptime.com/blogs/2025-04-25-greptimedb-observability2-new-database)
 * [2025-04-25, 02:32:02](https://lobste.rs/s/sbvzys/notation_as_tool_thought_1979) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-25, 02:28:44](https://lobste.rs/s/rfu1fu/hacking_my_coworker_minecraft) - [Hacking My Coworker (In Minecraft)](https://redvice.org/assets/pdfs/minecraft2025.pdf)
@@ -24,7 +25,6 @@
 * [2025-04-24, 03:58:29](https://lobste.rs/s/fkw9va/tools_i_love_are_made_by_awful_people) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
-* [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 
 ## [Archives](archives/index.md)
 
