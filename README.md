@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-25, 09:51:15](https://lobste.rs/s/qcxcys/designing_kar) - [Designing Kar](https://joshleeb.com/posts/kar-design.html)
 * [2025-04-25, 09:45:21](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend)
 * [2025-04-25, 08:08:53](https://lobste.rs/s/ncfete/usr_share_units_definitions_units) - [/usr/share/units/definitions.units](https://salsa.debian.org/debian/units/-/raw/master/definitions.units)
 * [2025-04-25, 05:25:17](https://lobste.rs/s/v3dllz/lost_css_tricks_cohost_org) - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
@@ -16,7 +17,6 @@
 * [2025-04-24, 17:41:12](https://lobste.rs/s/szib3l/trickonometry_math_olympiad) - [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 17:35:38](https://lobste.rs/s/do4dwa/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C… in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-* [2025-04-24, 14:52:46](https://lobste.rs/s/8s6cxz/what_if_we_could_rebuild_kafka_from) - [What If We Could Rebuild Kafka From Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 * [2025-04-24, 13:44:48](https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is) - [Oniguruma, a popular regex library, is archived, the project \"ended\"](https://github.com/kkos/oniguruma)
 * [2025-04-24, 13:35:57](https://lobste.rs/s/uhyijm/github_potential_leaking_private_emails) - [GitHub potential leaking of private emails and Hacker One](https://omarabid.com/hacker-one)
 * [2025-04-24, 13:27:33](https://lobste.rs/s/zgj0jz/requirements_change_until_they_don_t) - [Requirements change until they don't](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 09:51:15](https://lobste.rs/s/qcxcys/designing_kar) - [Designing Kar](https://joshleeb.com/posts/kar-design.html)
 * [2025-04-25, 09:45:21](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/k9ll9q/what_are_you_doing_this_weekend)
 * [2025-04-25, 08:08:53](https://lobste.rs/s/ncfete/usr_share_units_definitions_units) - [/usr/share/units/definitions.units](https://salsa.debian.org/debian/units/-/raw/master/definitions.units)
 * [2025-04-25, 07:00:45](https://lobste.rs/s/2r4r9e/binary_ninja_5_0_gallifrey) - [Binary Ninja - 5.0 Gallifrey](https://binary.ninja/2025/04/23/5.0-gallifrey.html)
