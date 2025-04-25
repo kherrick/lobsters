@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-25](index.md)
 
+* [2025-04-25, 15:04:25](https://lobste.rs/s/0hhmip/new_kind_paper) - [New Kind of Paper](https://mlajtos.mu/posts/new-kind-of-paper)
 * [2025-04-25, 14:07:42](https://lobste.rs/s/ktuuw8/inline_python_inline_python_code) - [inline-python: Inline Python code directly in your Rust code](https://crates.io/crates/inline-python)
+* [2025-04-25, 13:45:05](https://lobste.rs/s/icn0oe/don_t_delete_just_don_t_2009) - [Don’t Delete – Just Don’t (2009)](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 * [2025-04-25, 13:45:05](https://lobste.rs/s/icn0oe/don_t_delete_just_don_t) - [Don’t Delete – Just Don’t](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 * [2025-04-25, 12:28:17](https://lobste.rs/s/uybibu/another_war_story_hardest_bug_i_ever) - [Another war story: the hardest bug I ever debugged](https://philippweissensteiner.com/another-war-story.html)
 * [2025-04-25, 12:20:06](https://lobste.rs/s/mhgdyq/sql_fiddle_online_sql_compiler_for) - [SQL Fiddle - Online SQL Compiler for learning & practice](https://sqlfiddle.com)
