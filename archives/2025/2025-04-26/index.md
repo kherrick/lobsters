@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 17:21:31](https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1) - [How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-26, 17:09:35](https://lobste.rs/s/8avzyk/datafusion_database_building_toolkit) - [DataFusion - The Database Building Toolkit](https://www.youtube.com/watch?v=8QNNCr8WfDM)
 * [2025-04-26, 16:23:17](https://lobste.rs/s/1vzqe2/parallel_configure) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-26, 16:03:14](https://lobste.rs/s/7jamj2/ai_coding_parallels_with_semiconductor) - [AI coding: parallels with the Semiconductor Revolution](https://xania.org/202504/ai-in-coding)

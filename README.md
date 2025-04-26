@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-26, 17:21:31](https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1) - [How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away](https://www.youtube.com/watch?v=YcUycQoz0zg)
 * [2025-04-26, 17:09:35](https://lobste.rs/s/8avzyk/datafusion_database_building_toolkit) - [DataFusion - The Database Building Toolkit](https://www.youtube.com/watch?v=8QNNCr8WfDM)
 * [2025-04-26, 16:23:17](https://lobste.rs/s/1vzqe2/parallel_configure) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-26, 16:03:14](https://lobste.rs/s/7jamj2/ai_coding_parallels_with_semiconductor) - [AI coding: parallels with the Semiconductor Revolution](https://xania.org/202504/ai-in-coding)
@@ -12,7 +13,6 @@
 * [2025-04-26, 03:43:01](https://lobste.rs/s/ebcxhd/when_etc_h_sts_breaks_your_substack_editor) - [When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-26, 02:32:25](https://lobste.rs/s/1c9kcg/k_slices_k_dices) - [K Slices, K Dices](https://beyondloom.com/blog/slicedice.html)
 * [2025-04-26, 02:13:00](https://lobste.rs/s/n1s9xa/wanix_virtual_environment_kit_for_local) - [Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9](https://wanix.sh/)
-* [2025-04-25, 22:48:52](https://lobste.rs/s/7yjohg/actix_request_reply_cache_redis_backed) - [actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications](https://github.com/densumesh/actix-request-reply-cache)
 * [2025-04-25, 22:39:21](https://lobste.rs/s/ljr4im/ats3_xanadu_released) - [ATS3 Xanadu released](https://github.com/githwxi/XATSHOME)
 * [2025-04-25, 21:09:27](https://lobste.rs/s/poyxdo/o_no_you_didn_t) - [O(no) You Didn’t](https://mrshiny608.github.io/MrShiny608/optimisation/2025/04/22/OhNoYouDidnt.html)
 * [2025-04-25, 19:46:39](https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for) - [Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems](https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold)
