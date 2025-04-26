@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-26, 21:52:04](https://lobste.rs/s/zhkfsl/past_present_future_sorbet_type_syntax) - [Past, Present, and Future of Sorbet Type Syntax](https://blog.jez.io/history-of-sorbet-syntax/)
+* [2025-04-26, 21:50:25](https://lobste.rs/s/tgr67v/apl_cultivations) - [APL Cultivations](https://xpqz.github.io/cultivations/Intro.html)
 * [2025-04-26, 21:29:45](https://lobste.rs/s/uzswgd/bare_metal_printf_c_standard_library) - [Bare metal printf - C standard library without OS](https://popovicu.com/posts/bare-metal-printf/)
 * [2025-04-26, 20:22:35](https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds) - [rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet](https://codeberg.org/akselmo/rss2remarkable)
 * [2025-04-26, 19:45:44](https://lobste.rs/s/tydvuu/don_t_put_weverything_your_build_flags) - [Don’t put -Weverything in your build flags (2018)](https://quuxplusone.github.io/blog/2018/12/06/dont-use-weverything/)
@@ -23,8 +25,6 @@
 * [2025-04-25, 15:28:35](https://lobste.rs/s/1dy62n/devenv_1_6_extensible_ad_hoc_nix) - [devenv 1.6: Extensible Ad-Hoc Nix Environments](https://devenv.sh/blog/2025/04/25/devenv-16-extensible-ad-hoc-nix-environments/)
 * [2025-04-25, 13:45:05](https://lobste.rs/s/icn0oe/don_t_delete_just_don_t_2009) - [Don’t Delete – Just Don’t (2009)](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 * [2025-04-25, 12:28:17](https://lobste.rs/s/uybibu/another_war_story_hardest_bug_i_ever) - [Another war story: the hardest bug I ever debugged](https://philippweissensteiner.com/another-war-story.html)
-* [2025-04-25, 05:25:17](https://lobste.rs/s/v3dllz/lost_css_tricks_cohost_org) - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
-* [2025-04-24, 23:58:28](https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100) - [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
 
 ## [Archives](archives/index.md)
 
