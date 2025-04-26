@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-26, 21:29:45",
+      "https://lobste.rs/s/uzswgd/bare_metal_printf_c_standard_library"
+    ],
+    [
+      "Bare metal printf - C standard library without OS",
+      "https://popovicu.com/posts/bare-metal-printf/"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 20:22:35",
       "https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds"
     ],
@@ -177,16 +187,6 @@
     [
       "Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems",
       "https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 17:43:30",
-      "https://lobste.rs/s/gcq1i1/beos_file_system_os_geek_retrospective"
-    ],
-    [
-      "The BeOS file system, an OS geek retrospective (2018)",
-      "https://arstechnica.com/information-technology/2018/07/the-beos-filesystem/"
     ]
   ],
   [
