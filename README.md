@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-26, 03:43:01](https://lobste.rs/s/ebcxhd/when_etc_h_sts_breaks_your_substack_editor) - [When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
 * [2025-04-26, 02:32:25](https://lobste.rs/s/1c9kcg/k_slices_k_dices) - [K Slices, K Dices](https://beyondloom.com/blog/slicedice.html)
 * [2025-04-25, 22:48:52](https://lobste.rs/s/7yjohg/actix_request_reply_cache_redis_backed) - [actix-request-reply-cache: A Redis-backed response caching middleware for Actix Web applications](https://github.com/densumesh/actix-request-reply-cache)
 * [2025-04-25, 22:39:21](https://lobste.rs/s/ljr4im/ats3_xanadu_released) - [ATS3 Xanadu released](https://github.com/githwxi/XATSHOME)
@@ -20,7 +21,6 @@
 * [2025-04-25, 08:08:53](https://lobste.rs/s/ncfete/usr_share_units_definitions_units) - [/usr/share/units/definitions.units](https://salsa.debian.org/debian/units/-/raw/master/definitions.units)
 * [2025-04-25, 05:25:17](https://lobste.rs/s/v3dllz/lost_css_tricks_cohost_org) - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
 * [2025-04-25, 03:55:04](https://lobste.rs/s/jntn1m/how_decentralized_is_fediverse_really) - [How decentralized is the fediverse, really?](https://discuss.systems/@ricci/114396317436420669)
-* [2025-04-25, 02:32:02](https://lobste.rs/s/sbvzys/notation_as_tool_thought_1979) - [Notation as a Tool of Thought (1979)](https://www.jsoftware.com/papers/tot.htm)
 * [2025-04-24, 23:58:28](https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100) - [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
 * [2025-04-24, 23:41:57](https://lobste.rs/s/yo3kj5/path_should_be_system_call) - [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 * [2025-04-24, 22:22:29](https://lobste.rs/s/dpeywc/protecting_nats_integrity_open_source) - [Protecting NATS and the integrity of open source: CNCF’s commitment to the community](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
