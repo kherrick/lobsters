@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-26, 21:52:04",
+      "https://lobste.rs/s/zhkfsl/past_present_future_sorbet_type_syntax"
+    ],
+    [
+      "Past, Present, and Future of Sorbet Type Syntax",
+      "https://blog.jez.io/history-of-sorbet-syntax/"
+    ]
+  ],
+  [
+    [
+      "2025-04-26, 21:50:25",
+      "https://lobste.rs/s/tgr67v/apl_cultivations"
+    ],
+    [
+      "APL Cultivations",
+      "https://xpqz.github.io/cultivations/Intro.html"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 21:29:45",
       "https://lobste.rs/s/uzswgd/bare_metal_printf_c_standard_library"
     ],
@@ -227,26 +247,6 @@
     [
       "Another war story: the hardest bug I ever debugged",
       "https://philippweissensteiner.com/another-war-story.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 05:25:17",
-      "https://lobste.rs/s/v3dllz/lost_css_tricks_cohost_org"
-    ],
-    [
-      "The Lost CSS Tricks of Cohost.org",
-      "https://css-tricks.com/the-lost-css-tricks-of-cohost-org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 23:58:28",
-      "https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100"
-    ],
-    [
-      "Implementing Unsure Calculator in 100 lines of Haskell",
-      "https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html"
     ]
   ]
 ]
