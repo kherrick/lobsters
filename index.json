@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-26, 20:22:35",
+      "https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds"
+    ],
+    [
+      "rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet",
+      "https://codeberg.org/akselmo/rss2remarkable"
+    ]
+  ],
+  [
+    [
       "2025-04-26, 19:45:44",
       "https://lobste.rs/s/tydvuu/don_t_put_weverything_your_build_flags"
     ],
@@ -187,16 +197,6 @@
     [
       "GCC 15.1 Released",
       "https://gcc.gnu.org/pipermail/gcc/2025-April/245971.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 15:58:22",
-      "https://lobste.rs/s/aukxak/differential_coverage_for_debugging"
-    ],
-    [
-      "Differential Coverage for Debugging",
-      "https://research.swtch.com/diffcover"
     ]
   ],
   [
