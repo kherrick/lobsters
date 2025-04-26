@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-26, 11:57:33](https://lobste.rs/s/9vwrsb/implementing_silent_hill_s_fog_my_real_ps1) - [Implementing Silent Hill's Fog in My (Real) PS1 Game](https://www.youtube.com/watch?v=EwpFdMJlVP4)
 * [2025-04-26, 09:35:22](https://lobste.rs/s/pipsig/nncp_encrypted_authenticated_onion) - [NNCP: Encrypted, authenticated, onion-routed version of UUCP](https://www.complete.org/nncp/)
 * [2025-04-26, 07:19:40](https://lobste.rs/s/focgny/taxonomy_c_types) - [A taxonomy of C++ types](https://blog.knatten.org/2025/04/25/a-taxonomy-of-c-types/)
 * [2025-04-26, 03:55:24](https://lobste.rs/s/qs0onc/nofl_precise_immix) - [Nofl: A Precise Immix](https://arxiv.org/pdf/2503.16971v1)
@@ -19,7 +20,6 @@
 * [2025-04-25, 13:45:05](https://lobste.rs/s/icn0oe/don_t_delete_just_don_t_2009) - [Don’t Delete – Just Don’t (2009)](https://udidahan.com/2009/09/01/dont-delete-just-dont/)
 * [2025-04-25, 12:28:17](https://lobste.rs/s/uybibu/another_war_story_hardest_bug_i_ever) - [Another war story: the hardest bug I ever debugged](https://philippweissensteiner.com/another-war-story.html)
 * [2025-04-25, 09:51:15](https://lobste.rs/s/qcxcys/designing_kar) - [Designing Kar](https://joshleeb.com/posts/kar-design.html)
-* [2025-04-25, 08:08:53](https://lobste.rs/s/ncfete/usr_share_units_definitions_units) - [/usr/share/units/definitions.units](https://salsa.debian.org/debian/units/-/raw/master/definitions.units)
 * [2025-04-25, 05:25:17](https://lobste.rs/s/v3dllz/lost_css_tricks_cohost_org) - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
 * [2025-04-25, 03:55:04](https://lobste.rs/s/jntn1m/how_decentralized_is_fediverse_really) - [How decentralized is the fediverse, really?](https://discuss.systems/@ricci/114396317436420669)
 * [2025-04-24, 23:58:28](https://lobste.rs/s/lwyo5r/implementing_unsure_calculator_100) - [Implementing Unsure Calculator in 100 lines of Haskell](https://alt-romes.github.io/posts/2025-04-25-unsure-calculator-in-100-lines-of-haskell.html)
