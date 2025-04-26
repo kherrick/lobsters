@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 09:35:22](https://lobste.rs/s/pipsig/nncp_encrypted_authenticated_onion) - [NNCP: Encrypted, authenticated, onion-routed version of UUCP](https://www.complete.org/nncp/)
 * [2025-04-26, 07:19:40](https://lobste.rs/s/focgny/taxonomy_c_types) - [A taxonomy of C++ types](https://blog.knatten.org/2025/04/25/a-taxonomy-of-c-types/)
 * [2025-04-26, 03:55:24](https://lobste.rs/s/qs0onc/nofl_precise_immix) - [Nofl: A Precise Immix](https://arxiv.org/pdf/2503.16971v1)
 * [2025-04-26, 03:43:01](https://lobste.rs/s/ebcxhd/when_etc_h_sts_breaks_your_substack_editor) - [When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack)
