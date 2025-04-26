@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-26](index.md)
 
+* [2025-04-26, 17:09:35](https://lobste.rs/s/8avzyk/datafusion_database_building_toolkit) - [DataFusion - The Database Building Toolkit](https://www.youtube.com/watch?v=8QNNCr8WfDM)
 * [2025-04-26, 16:23:17](https://lobste.rs/s/1vzqe2/parallel_configure) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-26, 16:03:14](https://lobste.rs/s/7jamj2/ai_coding_parallels_with_semiconductor) - [AI coding: parallels with the Semiconductor Revolution](https://xania.org/202504/ai-in-coding)
 * [2025-04-26, 14:45:07](https://lobste.rs/s/thgtxa/ruby_feature_16131_remove_safe_taint) - [Ruby Feature #16131: Remove $SAFE, taint and trust (2019)](https://bugs.ruby-lang.org/issues/16131)
