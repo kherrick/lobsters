@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 20:40:09](https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler) - [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
+* [2025-04-27, 20:38:17](https://lobste.rs/s/zihgia/what_s_new_apt_3_0) - [What's new in APT 3.0](https://lwn.net/Articles/1017315/)
+* [2025-04-27, 20:28:46](https://lobste.rs/s/5jg6pl/unlocking_ractors_object_id) - [Unlocking Ractors: object_id](https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html)
 * [2025-04-27, 18:55:10](https://lobste.rs/s/jcscxj/are_ai_systems_really_tools) - [Are \"AI\" systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/)
 * [2025-04-27, 18:43:48](https://lobste.rs/s/eon9yi/openbsd_7_7_released_april_28_2025) - [OpenBSD 7.7 released April 28, 2025](https://marc.info/?l=openbsd-misc&m=174577758604758&w=2)
 * [2025-04-27, 17:45:46](https://lobste.rs/s/drzmfa/can_shardines_sqlite_multitenancy_with) - [A Can of Shardines: SQLite Multitenancy With Rails](https://blog.julik.nl/2025/04/a-can-of-shardines)
