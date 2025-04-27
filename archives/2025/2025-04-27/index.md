@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-27](index.md)
 
+* [2025-04-27, 21:17:51](https://lobste.rs/s/wwldja/technical_debt_as_theory_building) - [Technical Debt as Theory Building and Practice](https://www.usenix.org/conference/srecon25americas/presentation/lam)
 * [2025-04-27, 20:48:15](https://lobste.rs/s/zonyxg/what_does_use_client_do) - [What Does \"use client\" Do?](https://overreacted.io/what-does-use-client-do/)
 * [2025-04-27, 20:40:09](https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler) - [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
 * [2025-04-27, 20:38:17](https://lobste.rs/s/zihgia/what_s_new_apt_3_0) - [What's new in APT 3.0](https://lwn.net/Articles/1017315/)
