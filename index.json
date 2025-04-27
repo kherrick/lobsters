@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-27, 07:39:04",
+      "https://lobste.rs/s/p63gea/systemd_system_extensions_for_fedora"
+    ],
+    [
+      "systemd system extensions for Fedora image based systems",
+      "https://travier.github.io/fedora-sysexts/"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 06:44:06",
       "https://lobste.rs/s/bigox9/taxonomy_failure_mode_agentic_ai_systems"
     ],
@@ -147,16 +157,6 @@
     [
       "How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away",
       "https://www.youtube.com/watch?v=YcUycQoz0zg"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 17:09:35",
-      "https://lobste.rs/s/8avzyk/datafusion_database_building_toolkit"
-    ],
-    [
-      "DataFusion - The Database Building Toolkit",
-      "https://www.youtube.com/watch?v=8QNNCr8WfDM"
     ]
   ],
   [
