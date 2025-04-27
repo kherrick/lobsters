@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-27, 10:34:13",
+      "https://lobste.rs/s/53mu4h/oxide_friends_half_century_silicon"
+    ],
+    [
+      "Oxide and Friends | A Half-Century of Silicon Valley with Randy Shoup",
+      "https://oxide-and-friends.transistor.fm/episodes/a-half-century-of-silicon-valley-with-randy-shoup"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 08:01:32",
       "https://lobste.rs/s/hnrfdh/comfy_guide"
     ],
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2025-04-26, 14:45:07",
-      "https://lobste.rs/s/thgtxa/ruby_feature_16131_remove_safe_taint"
+      "2025-04-26, 13:19:52",
+      "https://lobste.rs/s/lkxhg6/stop_overbuilding_evals"
     ],
     [
-      "Ruby Feature #16131: Remove $SAFE, taint and trust (2019)",
-      "https://bugs.ruby-lang.org/issues/16131"
+      "Stop overbuilding evals",
+      "https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "NNCP: Encrypted, authenticated, onion-routed version of UUCP",
       "https://www.complete.org/nncp/"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 03:43:01",
-      "https://lobste.rs/s/ebcxhd/when_etc_h_sts_breaks_your_substack_editor"
-    ],
-    [
-      "When /etc/h*sts Breaks Your Substack Editor: An Adventure in Web Content Filtering",
-      "https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack"
     ]
   ],
   [
