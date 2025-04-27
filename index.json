@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-27, 20:48:15",
+      "https://lobste.rs/s/zonyxg/what_does_use_client_do"
+    ],
+    [
+      "What Does \"use client\" Do?",
+      "https://overreacted.io/what-does-use-client-do/"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 20:40:09",
       "https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler"
     ],
@@ -167,16 +177,6 @@
     [
       "Dive into Systems (2020)",
       "https://diveintosystems.org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 22:53:51",
-      "https://lobste.rs/s/utpzij/anatomy_sql_engine"
-    ],
-    [
-      "Anatomy Of A SQL Engine",
-      "https://dolthub.com/blog/2025-04-25-sql-engine-anatomy/"
     ]
   ],
   [
