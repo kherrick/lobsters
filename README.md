@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-27, 07:39:04](https://lobste.rs/s/p63gea/systemd_system_extensions_for_fedora) - [systemd system extensions for Fedora image based systems](https://travier.github.io/fedora-sysexts/)
 * [2025-04-27, 06:44:06](https://lobste.rs/s/bigox9/taxonomy_failure_mode_agentic_ai_systems) - [Taxonomy of Failure Mode in Agentic AI Systems](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/Taxonomy-of-Failure-Mode-in-Agentic-AI-Systems-Whitepaper.pdf)
 * [2025-04-27, 05:23:18](https://lobste.rs/s/n0goy4/not_number) - [Not a Number](https://www.nan.fyi/)
 * [2025-04-27, 05:02:15](https://lobste.rs/s/zczynh/apple_encrypted_archive) - [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive)
@@ -15,7 +16,6 @@
 * [2025-04-26, 20:22:35](https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds) - [rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet](https://codeberg.org/akselmo/rss2remarkable)
 * [2025-04-26, 19:45:44](https://lobste.rs/s/tydvuu/don_t_put_weverything_your_build_flags) - [Don’t put -Weverything in your build flags (2018)](https://quuxplusone.github.io/blog/2018/12/06/dont-use-weverything/)
 * [2025-04-26, 17:21:31](https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1) - [How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away](https://www.youtube.com/watch?v=YcUycQoz0zg)
-* [2025-04-26, 17:09:35](https://lobste.rs/s/8avzyk/datafusion_database_building_toolkit) - [DataFusion - The Database Building Toolkit](https://www.youtube.com/watch?v=8QNNCr8WfDM)
 * [2025-04-26, 16:23:17](https://lobste.rs/s/1vzqe2/parallel_configure) - [Parallel ./configure](https://tavianator.com/2025/configure.html)
 * [2025-04-26, 14:45:07](https://lobste.rs/s/thgtxa/ruby_feature_16131_remove_safe_taint) - [Ruby Feature #16131: Remove $SAFE, taint and trust (2019)](https://bugs.ruby-lang.org/issues/16131)
 * [2025-04-26, 13:19:52](https://lobste.rs/s/lkxhg6/stop_overbuilding_evals) - [Stop overbuilding evals](https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals)
