@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-27, 20:40:09",
+      "https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler"
+    ],
+    [
+      "Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs",
+      "https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 20:38:17",
+      "https://lobste.rs/s/zihgia/what_s_new_apt_3_0"
+    ],
+    [
+      "What's new in APT 3.0",
+      "https://lwn.net/Articles/1017315/"
+    ]
+  ],
+  [
+    [
+      "2025-04-27, 20:28:46",
+      "https://lobste.rs/s/5jg6pl/unlocking_ractors_object_id"
+    ],
+    [
+      "Unlocking Ractors: object_id",
+      "https://byroot.github.io/ruby/performance/2025/04/26/unlocking-ractors-object-id.html"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 18:55:10",
       "https://lobste.rs/s/jcscxj/are_ai_systems_really_tools"
     ],
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2025-04-26, 21:50:25",
-      "https://lobste.rs/s/tgr67v/apl_cultivations"
-    ],
-    [
-      "APL Cultivations",
-      "https://xpqz.github.io/cultivations/Intro.html"
-    ]
-  ],
-  [
-    [
       "2025-04-26, 20:22:35",
       "https://lobste.rs/s/fcai2b/rss2remarkable_script_make_rss_feeds"
     ],
     [
       "rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet",
       "https://codeberg.org/akselmo/rss2remarkable"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 19:45:44",
-      "https://lobste.rs/s/tydvuu/don_t_put_weverything_your_build_flags"
-    ],
-    [
-      "Don’t put -Weverything in your build flags (2018)",
-      "https://quuxplusone.github.io/blog/2018/12/06/dont-use-weverything/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "NNCP: Encrypted, authenticated, onion-routed version of UUCP",
       "https://www.complete.org/nncp/"
-    ]
-  ],
-  [
-    [
-      "2025-04-25, 19:46:39",
-      "https://lobste.rs/s/chpmcp/linus_torvalds_expresses_his_hatred_for"
-    ],
-    [
-      "Linus Torvalds Expresses His Hatred For Case-Insensitive File-Systems",
-      "https://www.phoronix.com/news/Linus-Torvalds-Anti-Case-Fold"
     ]
   ]
 ]
