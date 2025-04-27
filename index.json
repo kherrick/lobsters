@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-27, 17:05:38",
+      "https://lobste.rs/s/mzogmm/how_program_text_adventure_c"
+    ],
+    [
+      "How to Program a Text Adventure in C",
+      "http://helderman.github.io/htpataic/"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 13:32:28",
       "https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings"
     ],
@@ -217,16 +227,6 @@
     [
       "NNCP: Encrypted, authenticated, onion-routed version of UUCP",
       "https://www.complete.org/nncp/"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 02:13:00",
-      "https://lobste.rs/s/n1s9xa/wanix_virtual_environment_kit_for_local"
-    ],
-    [
-      "Wanix :: Virtual environment kit for the local-first web, inspired by Plan 9",
-      "https://wanix.sh/"
     ]
   ],
   [
