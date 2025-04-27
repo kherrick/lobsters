@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2025-04-26, 13:19:52",
-      "https://lobste.rs/s/lkxhg6/stop_overbuilding_evals"
+      "2025-04-26, 14:45:07",
+      "https://lobste.rs/s/thgtxa/ruby_feature_16131_remove_safe_taint"
     ],
     [
-      "Stop overbuilding evals",
-      "https://softwaredoug.com/blog/2025/04/26/stop-overbuilding-evals"
+      "Ruby Feature #16131: Remove $SAFE, taint and trust (2019)",
+      "https://bugs.ruby-lang.org/issues/16131"
     ]
   ],
   [
