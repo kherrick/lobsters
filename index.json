@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-28, 15:36:00",
+      "https://lobste.rs/s/7ousya/audit_rust_p256_crate"
+    ],
+    [
+      "Audit of the Rust p256 Crate",
+      "https://reports.zksecurity.xyz/reports/near-p256/"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 15:22:28",
       "https://lobste.rs/s/5qynev/anticrawl"
     ],
@@ -137,16 +147,6 @@
     [
       "import death; die",
       "https://web.archive.org/web/20240206194712/https://bpa.st/3FGA"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 21:17:51",
-      "https://lobste.rs/s/wwldja/technical_debt_as_theory_building"
-    ],
-    [
-      "Technical Debt as Theory Building and Practice",
-      "https://www.usenix.org/conference/srecon25americas/presentation/lam"
     ]
   ],
   [
