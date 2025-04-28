@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-28, 07:18:53](https://lobste.rs/s/dstgbs/using_haproxy_protect_me_from_scrapers) - [Using HAProxy to protect me from scrapers](https://dgl.cx/2025/04/using-haproxy-to-stop-scrapers)
 * [2025-04-28, 06:30:44](https://lobste.rs/s/xy1rk1/nouveau_rule_based_language_family) - [Nouveau: The Rule Based Language Family](https://nouveau.community/)
 * [2025-04-28, 02:20:47](https://lobste.rs/s/ashwpk/boxie_always_offline_audio_player_for_my_3) - [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-28, 00:58:05](https://lobste.rs/s/azvdtw/how_single_line_code_could_brick_your) - [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
@@ -17,7 +18,6 @@
 * [2025-04-27, 13:32:28](https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings) - [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 08:01:32](https://lobste.rs/s/hnrfdh/comfy_guide) - [Comfy.Guide](https://comfy.guide/)
 * [2025-04-27, 07:58:54](https://lobste.rs/s/hnqkhk/remove_these_tags_from_head) - [Remove these tags from <head>](https://getoutofmyhead.dev/)
-* [2025-04-27, 07:39:04](https://lobste.rs/s/p63gea/systemd_system_extensions_for_fedora) - [systemd system extensions for Fedora image based systems](https://travier.github.io/fedora-sysexts/)
 * [2025-04-27, 05:02:15](https://lobste.rs/s/zczynh/apple_encrypted_archive) - [Apple Encrypted Archive](https://theapplewiki.com/wiki/Apple_Encrypted_Archive)
 * [2025-04-27, 03:33:13](https://lobste.rs/s/lzgrqf/9front_clause_15_common_elements_maus) - [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/)
 * [2025-04-27, 02:23:16](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_cmv) - [Unauthorized Experiment on CMV Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
