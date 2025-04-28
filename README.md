@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-28, 20:51:07](https://lobste.rs/s/lllomq/i486sx_soft_fpu_bring_back_fpu_emulation) - [i486SX_soft_FPU: Bring back FPU emulation for i486SX CPU on NetBSD](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-28, 20:38:45](https://lobste.rs/s/tsr2cw/design_software_engineering_course) - [The design of software engineering course projects](https://austinhenley.com/blog/groupprojects.html)
 * [2025-04-28, 20:37:32](https://lobste.rs/s/szvnbf/giving_software_away_for_free) - [Giving software away for free](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/)
 * [2025-04-28, 20:03:08](https://lobste.rs/s/b1sweu/elo_rating_system_mlb) - [The Elo Rating System in the MLB](https://thelinell.com/posts/2025/elo_in_the_mlb/)
@@ -20,7 +21,6 @@
 * [2025-04-28, 00:58:05](https://lobste.rs/s/azvdtw/how_single_line_code_could_brick_your) - [How a Single Line Of Code Could Brick Your iPhone](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone)
 * [2025-04-28, 00:56:11](https://lobste.rs/s/geord9/watching_o3_guess_photo_s_location_is) - [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
 * [2025-04-28, 00:22:39](https://lobste.rs/s/drhief/import_death_die) - [import death; die](https://web.archive.org/web/20240206194712/https://bpa.st/3FGA)
-* [2025-04-27, 20:48:15](https://lobste.rs/s/zonyxg/what_does_use_client_do) - [What Does \"use client\" Do?](https://overreacted.io/what-does-use-client-do/)
 * [2025-04-27, 20:40:09](https://lobste.rs/s/rm20ex/silent_bugs_matter_study_compiler) - [Silent Bugs Matter: A Study of Compiler-Introduced Security Bugs](https://www.usenix.org/conference/usenixsecurity23/presentation/xu-jianhao)
 * [2025-04-27, 20:38:17](https://lobste.rs/s/zihgia/what_s_new_apt_3_0) - [What's new in APT 3.0](https://lwn.net/Articles/1017315/)
 * [2025-04-27, 18:55:10](https://lobste.rs/s/jcscxj/are_ai_systems_really_tools) - [Are \"AI\" systems really tools?](https://tante.cc/2025/04/27/are-ai-system-really-tools/)
