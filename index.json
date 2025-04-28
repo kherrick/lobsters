@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-28, 00:22:39",
+      "https://lobste.rs/s/drhief/import_death_die"
+    ],
+    [
+      "import death; die",
+      "https://web.archive.org/web/20240206194712/https://bpa.st/3FGA"
+    ]
+  ],
+  [
+    [
       "2025-04-27, 21:17:51",
       "https://lobste.rs/s/wwldja/technical_debt_as_theory_building"
     ],
@@ -227,16 +237,6 @@
     [
       "rss2remarkable - Script to make RSS feeds readable on your reMarkable tablet",
       "https://codeberg.org/akselmo/rss2remarkable"
-    ]
-  ],
-  [
-    [
-      "2025-04-26, 17:21:31",
-      "https://lobste.rs/s/k8kqw0/how_we_diagnosed_fixed_2023_voyager_1"
-    ],
-    [
-      "How We Diagnosed and Fixed the 2023 Voyager 1 Anomaly from 15 Billion Miles Away",
-      "https://www.youtube.com/watch?v=YcUycQoz0zg"
     ]
   ],
   [
