@@ -1,0 +1,3 @@
+# [Published on 2025-04-27](index.md)
+
+* [2025-04-27, 02:23:16](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_r) - [Unauthorized Experiment on r/changemyview Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)

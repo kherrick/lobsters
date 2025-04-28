@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-28](index.md)
 
+* [2025-04-28, 14:35:43](https://lobste.rs/s/4eany6/openbsd_7_7) - [OpenBSD 7.7](https://www.openbsd.org/77.html)
 * [2025-04-28, 13:50:24](https://lobste.rs/s/qom44w/python_sub_micro_gpio) - [Python sub-micro GPIO](https://www.runpyxl.com/gpio)
 * [2025-04-28, 13:07:05](https://lobste.rs/s/lhucq9/burning_data_with_malicious_firewall) - [Burning Data with Malicious Firewall Rules in Azure SQL Server](https://www.varonis.com/blog/malicious-firewall-rules-in-azure-sql)
 * [2025-04-28, 12:37:03](https://lobste.rs/s/eku5qh/computer_architects_can_t_find_average) - [Computer Architects Can't Find the Average](https://dgsq.net/2025-04-27-averages/)
