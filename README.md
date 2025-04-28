@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-28, 16:33:48](https://lobste.rs/s/9ne34p/onemillionchessboards_com) - [onemillionchessboards.com](https://onemillionchessboards.com/)
 * [2025-04-28, 15:36:00](https://lobste.rs/s/7ousya/audit_rust_p256_crate) - [Audit of the Rust p256 Crate](https://reports.zksecurity.xyz/reports/near-p256/)
 * [2025-04-28, 15:22:28](https://lobste.rs/s/5qynev/anticrawl) - [anticrawl](https://flak.tedunangst.com/post/anticrawl)
 * [2025-04-28, 15:11:27](https://lobste.rs/s/uai76x/what_if_we_embraced_simulation_driven) - [What if we embraced simulation-driven development?](https://pierrezemb.fr/posts/simulation-driven-development/)
@@ -22,7 +23,6 @@
 * [2025-04-27, 17:05:38](https://lobste.rs/s/mzogmm/how_program_text_adventure_c) - [How to Program a Text Adventure in C](http://helderman.github.io/htpataic/)
 * [2025-04-27, 13:32:28](https://lobste.rs/s/jsjxzj/sigbovik_2025_conference_proceedings) - [SIGBOVIK 2025 conference proceedings](https://sigbovik.org/2025/proceedings.pdf)
 * [2025-04-27, 07:58:54](https://lobste.rs/s/hnqkhk/remove_these_tags_from_head) - [Remove these tags from <head>](https://getoutofmyhead.dev/)
-* [2025-04-27, 03:33:13](https://lobste.rs/s/lzgrqf/9front_clause_15_common_elements_maus) - [9front “clause 15 common elements of maus and star type” released](https://9front.org/releases/2025/04/26/0/)
 * [2025-04-27, 02:23:16](https://lobste.rs/s/fsyavq/unauthorized_experiment_on_r) - [Unauthorized Experiment on r/changemyview Involving AI-generated Comments](https://www.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/)
 * [2025-04-26, 22:13:13](https://lobste.rs/s/2xti6d/compiler_reminders) - [Compiler reminders](https://jfmengels.net/compiler-reminders)
 
