@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-28, 20:51:07",
+      "https://lobste.rs/s/lllomq/i486sx_soft_fpu_bring_back_fpu_emulation"
+    ],
+    [
+      "i486SX_soft_FPU: Bring back FPU emulation for i486SX CPU on NetBSD",
+      "https://github.com/mezantrop/i486SX_soft_FPU"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 20:38:45",
       "https://lobste.rs/s/tsr2cw/design_software_engineering_course"
     ],
@@ -197,16 +207,6 @@
     [
       "import death; die",
       "https://web.archive.org/web/20240206194712/https://bpa.st/3FGA"
-    ]
-  ],
-  [
-    [
-      "2025-04-27, 20:48:15",
-      "https://lobste.rs/s/zonyxg/what_does_use_client_do"
-    ],
-    [
-      "What Does \"use client\" Do?",
-      "https://overreacted.io/what-does-use-client-do/"
     ]
   ],
   [
