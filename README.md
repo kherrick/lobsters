@@ -8,6 +8,7 @@
 * [2025-04-28, 20:51:07](https://lobste.rs/s/lllomq/i486sx_soft_fpu_bring_back_fpu_emulation) - [i486SX_soft_FPU: Bring back FPU emulation for i486SX CPU on NetBSD](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-28, 20:38:45](https://lobste.rs/s/tsr2cw/design_software_engineering_course) - [The design of software engineering course projects](https://austinhenley.com/blog/groupprojects.html)
 * [2025-04-28, 20:37:32](https://lobste.rs/s/szvnbf/giving_software_away_for_free) - [Giving software away for free](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/)
+* [2025-04-28, 20:05:47](https://lobste.rs/s/b9pw4r/no_engine_gamedev_using_odin_raylib) - [No-engine gamedev using Odin + Raylib](https://zylinski.se/posts/no-engine-gamedev-using-odin-and-raylib/)
 * [2025-04-28, 20:03:08](https://lobste.rs/s/b1sweu/elo_rating_system_mlb) - [The Elo Rating System in the MLB](https://thelinell.com/posts/2025/elo_in_the_mlb/)
 * [2025-04-28, 17:58:55](https://lobste.rs/s/msdbji/generating_mazes_with_inductive_graphs) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 * [2025-04-28, 17:06:49](https://lobste.rs/s/erys14/dependently_typed_assembly_language) - [A Dependently Typed Assembly Language](https://www.cs.cmu.edu/~rwh/papers/dtal/OGI-CSE-99-008.pdf)
@@ -24,7 +25,6 @@
 * [2025-04-28, 06:30:44](https://lobste.rs/s/xy1rk1/nouveau_rule_based_language_family) - [Nouveau: The Rule Based Language Family](https://nouveau.community/)
 * [2025-04-28, 02:20:47](https://lobste.rs/s/ashwpk/boxie_always_offline_audio_player_for_my_3) - [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-28, 00:56:11](https://lobste.rs/s/geord9/watching_o3_guess_photo_s_location_is) - [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
-* [2025-04-27, 07:58:54](https://lobste.rs/s/hnqkhk/remove_these_tags_from_head) - [Remove these tags from <head>](https://getoutofmyhead.dev/)
 
 ## [Archives](archives/index.md)
 
