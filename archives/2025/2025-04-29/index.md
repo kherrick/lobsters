@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 06:54:41](https://lobste.rs/s/8sib9s/markdown_image_uploads_with_easymde) - [Markdown image uploads with EasyMDE and Active Storage](https://avohq.io/blog/markdown-image-uploads-easy-mde-rails)
 * [2025-04-29, 06:35:03](https://lobste.rs/s/nyc9ob/migrating_away_from_rust) - [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-29, 05:52:16](https://lobste.rs/s/9qgzmq/why_did_windows_7_for_few_months_log_on) - [Why did Windows 7, for a few months, log on slower if you have a solid color background?](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121)
 * [2025-04-29, 05:02:11](https://lobste.rs/s/wtzly9/good_regulator_theorem) - [Good regulator theorem](https://en.wikipedia.org/wiki/Good_regulator_theorem)
