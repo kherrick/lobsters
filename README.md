@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-29, 09:18:54](https://lobste.rs/s/oy7h51/reversing_fossilization_computer) - [Reversing the Fossilization of Computer Science Conferences – Communications of the ACM](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 * [2025-04-29, 06:54:41](https://lobste.rs/s/8sib9s/markdown_image_uploads_with_easymde) - [Markdown image uploads with EasyMDE and Active Storage](https://avohq.io/blog/markdown-image-uploads-easy-mde-rails)
 * [2025-04-29, 06:35:03](https://lobste.rs/s/nyc9ob/migrating_away_from_rust) - [Migrating away from Rust](https://deadmoney.gg/news/articles/migrating-away-from-rust)
 * [2025-04-29, 05:02:11](https://lobste.rs/s/wtzly9/good_regulator_theorem) - [Good regulator theorem](https://en.wikipedia.org/wiki/Good_regulator_theorem)
@@ -21,7 +22,6 @@
 * [2025-04-28, 14:35:43](https://lobste.rs/s/4eany6/openbsd_7_7) - [OpenBSD 7.7](https://www.openbsd.org/77.html)
 * [2025-04-28, 13:50:24](https://lobste.rs/s/qom44w/python_sub_micro_gpio) - [Python sub-micro GPIO](https://www.runpyxl.com/gpio)
 * [2025-04-28, 12:37:03](https://lobste.rs/s/eku5qh/computer_architects_can_t_find_average) - [Computer Architects Can't Find the Average](https://dgsq.net/2025-04-27-averages/)
-* [2025-04-28, 08:42:12](https://lobste.rs/s/vwyvcn/optimizing_go_microservices_for_low) - [Optimizing Go Microservices for Low Latency & High Throughput](http://muratdemirci.com.tr/en/optimizing-go-microservices/)
 * [2025-04-28, 07:18:53](https://lobste.rs/s/dstgbs/using_haproxy_protect_me_from_scrapers) - [Using HAProxy to protect me from scrapers](https://dgl.cx/2025/04/using-haproxy-to-stop-scrapers)
 * [2025-04-28, 02:20:47](https://lobste.rs/s/ashwpk/boxie_always_offline_audio_player_for_my_3) - [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 * [2025-04-28, 00:56:11](https://lobste.rs/s/geord9/watching_o3_guess_photo_s_location_is) - [Watching o3 guess a photo’s location is surreal, dystopian and wildly entertaining](https://simonwillison.net/2025/Apr/26/o3-photo-locations/)
