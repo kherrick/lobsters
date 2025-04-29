@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 19:52:49](https://lobste.rs/s/6izi7t/deepseek_fails_ai_alignment_test_shows) - [DeepSeek Fails AI Alignment Test—Shows Psychopathy](https://antipodes.substack.com/p/deepseek-is-also-a-fucking-psychopath)
+* [2025-04-29, 19:48:31](https://lobste.rs/s/krx9gv/starlingx_explainer_what_it_is_what_it_s) - [A StarlingX explainer: what it is and what it’s good for](https://www.windriver.com/blog/From-Edge-to-Enterprise-The-StarlingX-Advantage)
 * [2025-04-29, 16:32:14](https://lobste.rs/s/gmh1nw/archie_anonymous_ftp_search_revival) - [Archie anonymous FTP search revival](http://archie.macdomain.net/)
 * [2025-04-29, 15:12:11](https://lobste.rs/s/hlhfpg/elasticsearch_hybrid_search_recipes) - [Elasticsearch Hybrid Search Recipes - Benchmarked](https://softwaredoug.com/blog/2025/03/13/elasticsearch-hybrid-search-strategies)
 * [2025-04-29, 14:58:53](https://lobste.rs/s/dsybwy/let_s_debug) - [Let's Debug](https://letsdebug.net/)
