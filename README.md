@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-29, 01:33:47](https://lobste.rs/s/xys6af/qwen3_think_deeper_act_faster) - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
 * [2025-04-28, 22:35:21](https://lobste.rs/s/x04hyl/packed_data_support_haskell) - [Packed Data support in Haskell](https://arthi-chaud.github.io/posts/packed/)
 * [2025-04-28, 20:51:07](https://lobste.rs/s/lllomq/i486sx_soft_fpu_bring_back_fpu_emulation) - [i486SX_soft_FPU: Bring back FPU emulation for i486SX CPU on NetBSD](https://github.com/mezantrop/i486SX_soft_FPU)
 * [2025-04-28, 20:38:45](https://lobste.rs/s/tsr2cw/design_software_engineering_course) - [The design of software engineering course projects](https://austinhenley.com/blog/groupprojects.html)
 * [2025-04-28, 20:37:32](https://lobste.rs/s/szvnbf/giving_software_away_for_free) - [Giving software away for free](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/)
-* [2025-04-28, 20:05:47](https://lobste.rs/s/b9pw4r/no_engine_gamedev_using_odin_raylib) - [No-engine gamedev using Odin + Raylib](https://zylinski.se/posts/no-engine-gamedev-using-odin-and-raylib/)
 * [2025-04-28, 20:03:08](https://lobste.rs/s/b1sweu/elo_rating_system_mlb) - [The Elo Rating System in the MLB](https://thelinell.com/posts/2025/elo_in_the_mlb/)
 * [2025-04-28, 17:58:55](https://lobste.rs/s/msdbji/generating_mazes_with_inductive_graphs) - [Generating Mazes with Inductive Graphs (2017)](https://jelv.is/blog/Generating-Mazes-with-Inductive-Graphs/)
 * [2025-04-28, 17:06:49](https://lobste.rs/s/erys14/dependently_typed_assembly_language) - [A Dependently Typed Assembly Language](https://www.cs.cmu.edu/~rwh/papers/dtal/OGI-CSE-99-008.pdf)
