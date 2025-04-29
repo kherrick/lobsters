@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-04-29, 12:28:36",
+      "https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard"
+    ],
+    [
+      "Why performance optimization is hard work",
+      "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 12:23:57",
+      "https://lobste.rs/s/ctopbt/programming_languages_should_have_tree"
+    ],
+    [
+      "Programming languages should have a tree traversal primitive",
+      "https://blog.tylerglaiel.com/p/programming-languages-should-have"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 11:44:50",
       "https://lobste.rs/s/d3neqf/syntactic_musings_on_match_expressions"
     ],
     [
       "Syntactic musings on match expressions",
       "https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 09:18:54",
-      "https://lobste.rs/s/oy7h51/reversing_fossilization_computer"
-    ],
-    [
-      "Reversing the Fossilization of Computer Science Conferences – Communications of the ACM",
-      "https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Packed Data support in Haskell",
       "https://arthi-chaud.github.io/posts/packed/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 20:51:07",
-      "https://lobste.rs/s/lllomq/i486sx_soft_fpu_bring_back_fpu_emulation"
-    ],
-    [
-      "i486SX_soft_FPU: Bring back FPU emulation for i486SX CPU on NetBSD",
-      "https://github.com/mezantrop/i486SX_soft_FPU"
     ]
   ],
   [
