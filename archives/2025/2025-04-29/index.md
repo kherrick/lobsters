@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 20:06:13](https://lobste.rs/s/gbyes1/new_kali_linux_archive_signing_key) - [A New Kali Linux Archive Signing Key](https://www.kali.org/blog/new-kali-archive-signing-key/)
 * [2025-04-29, 19:52:49](https://lobste.rs/s/6izi7t/deepseek_fails_ai_alignment_test_shows) - [DeepSeek Fails AI Alignment Test—Shows Psychopathy](https://antipodes.substack.com/p/deepseek-is-also-a-fucking-psychopath)
 * [2025-04-29, 19:48:31](https://lobste.rs/s/krx9gv/starlingx_explainer_what_it_is_what_it_s) - [A StarlingX explainer: what it is and what it’s good for](https://www.windriver.com/blog/From-Edge-to-Enterprise-The-StarlingX-Advantage)
 * [2025-04-29, 16:32:14](https://lobste.rs/s/gmh1nw/archie_anonymous_ftp_search_revival) - [Archie anonymous FTP search revival](http://archie.macdomain.net/)
