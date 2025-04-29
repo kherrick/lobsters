@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 12:28:36](https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
+* [2025-04-29, 12:23:57](https://lobste.rs/s/ctopbt/programming_languages_should_have_tree) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
 * [2025-04-29, 11:44:50](https://lobste.rs/s/d3neqf/syntactic_musings_on_match_expressions) - [Syntactic musings on match expressions](https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/)
 * [2025-04-29, 09:18:54](https://lobste.rs/s/oy7h51/reversing_fossilization_computer) - [Reversing the Fossilization of Computer Science Conferences – Communications of the ACM](https://cacm.acm.org/blogcacm/reversing-the-fossilization-of-computer-science-conferences/)
 * [2025-04-29, 06:54:41](https://lobste.rs/s/8sib9s/markdown_image_uploads_with_easymde) - [Markdown image uploads with EasyMDE and Active Storage](https://avohq.io/blog/markdown-image-uploads-easy-mde-rails)
