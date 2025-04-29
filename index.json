@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-29, 23:01:59",
+      "https://lobste.rs/s/6necys/quotes_on_notation_design_how_it_affects"
+    ],
+    [
+      "Quotes on notation design & how it affects thought",
+      "https://github.com/kai-qu/notation"
+    ]
+  ],
+  [
+    [
+      "2025-04-29, 22:59:25",
+      "https://lobste.rs/s/7nniv9/prolog_notes"
+    ],
+    [
+      "Prolog Notes",
+      "https://github.com/dtonhofer/prolog_notes"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 22:33:19",
       "https://lobste.rs/s/jtj0ns/between_immutability_memoization_you"
     ],
@@ -27,16 +47,6 @@
     [
       "Comparison with Traditional Mathematics",
       "https://aplwiki.com/wiki/Comparison_with_traditional_mathematics"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 20:54:57",
-      "https://lobste.rs/s/bpf18i/selectric_typewriter_goes_from_trash_can"
-    ],
-    [
-      "Selectric Typewriter Goes From Trash Can To Linux Terminal (2023)",
-      "https://hackaday.com/2023/07/25/selectric-typewriter-goes-from-trash-can-to-linux-terminal/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Qwen3: Think Deeper, Act Faster",
       "https://qwenlm.github.io/blog/qwen3/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 20:38:45",
-      "https://lobste.rs/s/tsr2cw/design_software_engineering_course"
-    ],
-    [
-      "The design of software engineering course projects",
-      "https://austinhenley.com/blog/groupprojects.html"
     ]
   ],
   [
