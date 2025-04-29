@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-29, 13:25:59](https://lobste.rs/s/djq7xn/hello_0_days_my_old_friend_2024_zero_day) - [Hello 0-Days, My Old Friend: A 2024 Zero-Day Exploitation Analysis](https://cloud.google.com/blog/topics/threat-intelligence/2024-zero-day-trends)
 * [2025-04-29, 12:58:52](https://lobste.rs/s/iqrbtk/efficiency_vs_resilience) - [Efficiency vs. Resilience](https://cacm.acm.org/opinion/efficiency-vs-resilience/)
 * [2025-04-29, 12:28:36](https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:23:57](https://lobste.rs/s/ctopbt/programming_languages_should_have_tree) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
@@ -18,7 +19,6 @@
 * [2025-04-28, 16:33:48](https://lobste.rs/s/9ne34p/one_million_chessboards) - [One million chessboards](https://onemillionchessboards.com/)
 * [2025-04-28, 15:36:00](https://lobste.rs/s/7ousya/audit_rust_p256_crate) - [Audit of the Rust p256 Crate](https://reports.zksecurity.xyz/reports/near-p256/)
 * [2025-04-28, 15:22:28](https://lobste.rs/s/5qynev/anticrawl) - [anticrawl](https://flak.tedunangst.com/post/anticrawl)
-* [2025-04-28, 15:11:27](https://lobste.rs/s/uai76x/what_if_we_embraced_simulation_driven) - [What if we embraced simulation-driven development?](https://pierrezemb.fr/posts/simulation-driven-development/)
 * [2025-04-28, 15:00:11](https://lobste.rs/s/ahnsrl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ahnsrl/what_are_you_doing_this_week)
 * [2025-04-28, 14:35:43](https://lobste.rs/s/4eany6/openbsd_7_7) - [OpenBSD 7.7](https://www.openbsd.org/77.html)
 * [2025-04-28, 13:50:24](https://lobste.rs/s/qom44w/python_sub_micro_gpio) - [Python sub-micro GPIO](https://www.runpyxl.com/gpio)
