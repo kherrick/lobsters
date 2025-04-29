@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-04-29, 06:54:41",
-      "https://lobste.rs/s/8sib9s/markdown_image_uploads_with_easymde"
-    ],
-    [
-      "Markdown image uploads with EasyMDE and Active Storage",
-      "https://avohq.io/blog/markdown-image-uploads-easy-mde-rails"
-    ]
-  ],
-  [
-    [
       "2025-04-29, 06:35:03",
       "https://lobste.rs/s/nyc9ob/migrating_away_from_rust"
     ],
@@ -217,6 +207,16 @@
     [
       "Audit of the Rust p256 Crate",
       "https://reports.zksecurity.xyz/reports/near-p256/"
+    ]
+  ],
+  [
+    [
+      "2025-04-28, 15:22:28",
+      "https://lobste.rs/s/5qynev/anticrawl"
+    ],
+    [
+      "anticrawl",
+      "https://flak.tedunangst.com/post/anticrawl"
     ]
   ],
   [
