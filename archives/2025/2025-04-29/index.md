@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 20:54:57](https://lobste.rs/s/bpf18i/selectric_typewriter_goes_from_trash_can) - [Selectric Typewriter Goes From Trash Can To Linux Terminal (2023)](https://hackaday.com/2023/07/25/selectric-typewriter-goes-from-trash-can-to-linux-terminal/)
+* [2025-04-29, 20:52:42](https://lobste.rs/s/7yvu6e/discovering_lispworks_ide) - [Discovering the Lispworks IDE](https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/)
 * [2025-04-29, 20:06:13](https://lobste.rs/s/gbyes1/new_kali_linux_archive_signing_key) - [A New Kali Linux Archive Signing Key](https://www.kali.org/blog/new-kali-archive-signing-key/)
 * [2025-04-29, 19:52:49](https://lobste.rs/s/6izi7t/deepseek_fails_ai_alignment_test_shows) - [DeepSeek Fails AI Alignment Test—Shows Psychopathy](https://antipodes.substack.com/p/deepseek-is-also-a-fucking-psychopath)
 * [2025-04-29, 19:48:31](https://lobste.rs/s/krx9gv/starlingx_explainer_what_it_is_what_it_s) - [A StarlingX explainer: what it is and what it’s good for](https://www.windriver.com/blog/From-Edge-to-Enterprise-The-StarlingX-Advantage)
