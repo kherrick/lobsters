@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-29, 21:02:23](https://lobste.rs/s/lpdbll/comparison_with_traditional) - [Comparison with Traditional Mathematics](https://aplwiki.com/wiki/Comparison_with_traditional_mathematics)
 * [2025-04-29, 20:54:57](https://lobste.rs/s/bpf18i/selectric_typewriter_goes_from_trash_can) - [Selectric Typewriter Goes From Trash Can To Linux Terminal (2023)](https://hackaday.com/2023/07/25/selectric-typewriter-goes-from-trash-can-to-linux-terminal/)
 * [2025-04-29, 20:52:42](https://lobste.rs/s/7yvu6e/discovering_lispworks_ide) - [Discovering the Lispworks IDE](https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/)
 * [2025-04-29, 20:06:13](https://lobste.rs/s/gbyes1/new_kali_linux_archive_signing_key) - [A New Kali Linux Archive Signing Key](https://www.kali.org/blog/new-kali-archive-signing-key/)
 * [2025-04-29, 19:48:31](https://lobste.rs/s/krx9gv/starlingx_explainer_what_it_is_what_it_s) - [A StarlingX explainer: what it is and what it’s good for](https://www.windriver.com/blog/From-Edge-to-Enterprise-The-StarlingX-Advantage)
 * [2025-04-29, 16:32:14](https://lobste.rs/s/gmh1nw/archie_anonymous_ftp_search_revival) - [Archie anonymous FTP search revival](http://archie.macdomain.net/)
 * [2025-04-29, 15:12:11](https://lobste.rs/s/hlhfpg/elasticsearch_hybrid_search_recipes) - [Elasticsearch Hybrid Search Recipes - Benchmarked](https://softwaredoug.com/blog/2025/03/13/elasticsearch-hybrid-search-strategies)
-* [2025-04-29, 14:58:53](https://lobste.rs/s/dsybwy/let_s_debug) - [Let's Debug](https://letsdebug.net/)
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 * [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 13:25:59](https://lobste.rs/s/djq7xn/hello_0_days_my_old_friend_2024_zero_day) - [Hello 0-Days, My Old Friend: A 2024 Zero-Day Exploitation Analysis](https://cloud.google.com/blog/topics/threat-intelligence/2024-zero-day-trends)

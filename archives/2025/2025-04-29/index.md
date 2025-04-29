@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 21:02:23](https://lobste.rs/s/lpdbll/comparison_with_traditional) - [Comparison with Traditional Mathematics](https://aplwiki.com/wiki/Comparison_with_traditional_mathematics)
 * [2025-04-29, 20:54:57](https://lobste.rs/s/bpf18i/selectric_typewriter_goes_from_trash_can) - [Selectric Typewriter Goes From Trash Can To Linux Terminal (2023)](https://hackaday.com/2023/07/25/selectric-typewriter-goes-from-trash-can-to-linux-terminal/)
 * [2025-04-29, 20:52:42](https://lobste.rs/s/7yvu6e/discovering_lispworks_ide) - [Discovering the Lispworks IDE](https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/)
 * [2025-04-29, 20:06:13](https://lobste.rs/s/gbyes1/new_kali_linux_archive_signing_key) - [A New Kali Linux Archive Signing Key](https://www.kali.org/blog/new-kali-archive-signing-key/)
