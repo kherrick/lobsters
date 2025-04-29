@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-29, 16:32:14",
+      "https://lobste.rs/s/gmh1nw/archie_anonymous_ftp_search_revival"
+    ],
+    [
+      "Archie anonymous FTP search revival",
+      "http://archie.macdomain.net/"
+    ]
+  ],
+  [
+    [
       "2025-04-29, 15:12:11",
       "https://lobste.rs/s/hlhfpg/elasticsearch_hybrid_search_recipes"
     ],
@@ -207,16 +217,6 @@
     [
       "Audit of the Rust p256 Crate",
       "https://reports.zksecurity.xyz/reports/near-p256/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 15:22:28",
-      "https://lobste.rs/s/5qynev/anticrawl"
-    ],
-    [
-      "anticrawl",
-      "https://flak.tedunangst.com/post/anticrawl"
     ]
   ],
   [
