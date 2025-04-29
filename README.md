@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-29, 15:12:11](https://lobste.rs/s/hlhfpg/elasticsearch_hybrid_search_recipes) - [Elasticsearch Hybrid Search Recipes - Benchmarked](https://softwaredoug.com/blog/2025/03/13/elasticsearch-hybrid-search-strategies)
-* [2025-04-29, 14:58:53](https://lobste.rs/s/dsybwy/let_s_debug) - [Let's Debug](https://letsdebug.net/)
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 * [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
+* [2025-04-29, 13:25:59](https://lobste.rs/s/djq7xn/hello_0_days_my_old_friend_2024_zero_day) - [Hello 0-Days, My Old Friend: A 2024 Zero-Day Exploitation Analysis](https://cloud.google.com/blog/topics/threat-intelligence/2024-zero-day-trends)
 * [2025-04-29, 12:58:52](https://lobste.rs/s/iqrbtk/efficiency_vs_resilience) - [Efficiency vs. Resilience](https://cacm.acm.org/opinion/efficiency-vs-resilience/)
 * [2025-04-29, 12:28:36](https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
 * [2025-04-29, 12:23:57](https://lobste.rs/s/ctopbt/programming_languages_should_have_tree) - [Programming languages should have a tree traversal primitive](https://blog.tylerglaiel.com/p/programming-languages-should-have)
