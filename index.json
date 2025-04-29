@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-29, 01:33:47",
+      "https://lobste.rs/s/xys6af/qwen3_think_deeper_act_faster"
+    ],
+    [
+      "Qwen3: Think Deeper, Act Faster",
+      "https://qwenlm.github.io/blog/qwen3/"
+    ]
+  ],
+  [
+    [
       "2025-04-28, 22:35:21",
       "https://lobste.rs/s/x04hyl/packed_data_support_haskell"
     ],
@@ -37,16 +47,6 @@
     [
       "Giving software away for free",
       "https://simonwillison.net/2025/Apr/28/give-it-away-for-free/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 20:05:47",
-      "https://lobste.rs/s/b9pw4r/no_engine_gamedev_using_odin_raylib"
-    ],
-    [
-      "No-engine gamedev using Odin + Raylib",
-      "https://zylinski.se/posts/no-engine-gamedev-using-odin-and-raylib/"
     ]
   ],
   [
