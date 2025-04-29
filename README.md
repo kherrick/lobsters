@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
+* [2025-04-29, 14:26:43](https://lobste.rs/s/91yt0u/try_switching_kagi) - [Try switching to Kagi](https://daringfireball.net/2025/04/try_switching_to_kagi)
 * [2025-04-29, 13:25:59](https://lobste.rs/s/djq7xn/hello_0_days_my_old_friend_2024_zero_day) - [Hello 0-Days, My Old Friend: A 2024 Zero-Day Exploitation Analysis](https://cloud.google.com/blog/topics/threat-intelligence/2024-zero-day-trends)
 * [2025-04-29, 12:58:52](https://lobste.rs/s/iqrbtk/efficiency_vs_resilience) - [Efficiency vs. Resilience](https://cacm.acm.org/opinion/efficiency-vs-resilience/)
 * [2025-04-29, 12:28:36](https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
@@ -21,8 +23,6 @@
 * [2025-04-28, 15:22:28](https://lobste.rs/s/5qynev/anticrawl) - [anticrawl](https://flak.tedunangst.com/post/anticrawl)
 * [2025-04-28, 15:00:11](https://lobste.rs/s/ahnsrl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ahnsrl/what_are_you_doing_this_week)
 * [2025-04-28, 14:35:43](https://lobste.rs/s/4eany6/openbsd_7_7) - [OpenBSD 7.7](https://www.openbsd.org/77.html)
-* [2025-04-28, 13:50:24](https://lobste.rs/s/qom44w/python_sub_micro_gpio) - [Python sub-micro GPIO](https://www.runpyxl.com/gpio)
-* [2025-04-28, 12:37:03](https://lobste.rs/s/eku5qh/computer_architects_can_t_find_average) - [Computer Architects Can't Find the Average](https://dgsq.net/2025-04-27-averages/)
 * [2025-04-28, 07:18:53](https://lobste.rs/s/dstgbs/using_haproxy_protect_me_from_scrapers) - [Using HAProxy to protect me from scrapers](https://dgl.cx/2025/04/using-haproxy-to-stop-scrapers)
 * [2025-04-28, 02:20:47](https://lobste.rs/s/ashwpk/boxie_always_offline_audio_player_for_my_3) - [Boxie - an always offline audio player for my 3 year old](https://mariozechner.at/posts/2025-04-20-boxie/)
 
