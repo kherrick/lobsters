@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-29](index.md)
 
+* [2025-04-29, 23:01:59](https://lobste.rs/s/6necys/quotes_on_notation_design_how_it_affects) - [Quotes on notation design & how it affects thought](https://github.com/kai-qu/notation)
+* [2025-04-29, 22:59:25](https://lobste.rs/s/7nniv9/prolog_notes) - [Prolog Notes](https://github.com/dtonhofer/prolog_notes)
 * [2025-04-29, 22:33:19](https://lobste.rs/s/jtj0ns/between_immutability_memoization_you) - [Between immutability and memoization, you might have to choose](https://thoughtbot.com/blog/between-immutability-and-memoization-you-might-have-to-choose)
 * [2025-04-29, 21:42:03](https://lobste.rs/s/9kime6/throwing_it_all_away_how_extreme) - [Throwing it all away - how extreme rewriting changed the way I build databases](https://www.hytradboi.com/2025/03580e19-4646-4fba-91c3-17eaba6935b0-throwing-it-all-away---how-extreme-rewriting-changed-the-way-i-build-databases)
 * [2025-04-29, 21:02:23](https://lobste.rs/s/lpdbll/comparison_with_traditional) - [Comparison with Traditional Mathematics](https://aplwiki.com/wiki/Comparison_with_traditional_mathematics)
