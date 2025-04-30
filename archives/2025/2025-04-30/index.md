@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 14:15:59](https://lobste.rs/s/mtnatk/antithesis_for_founders) - [Antithesis for founders](https://antithesis.com/blog/2025/antithesis_for_founders/)
+* [2025-04-30, 14:15:38](https://lobste.rs/s/v8w4vy/go_doesn_t_believe_frameworks_teams_still) - [Go doesn’t believe in frameworks, but teams still need them](https://encore.dev/blog/go-frameworks)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
 * [2025-04-30, 13:27:41](https://lobste.rs/s/kvw3bc/do_you_really_need_vector_search_database) - [Do you really need a Vector Search Database?](https://fin.ai/research/do-you-really-need-a-vector-search-database/)
 * [2025-04-30, 13:15:59](https://lobste.rs/s/le7piu/mellum_goes_open_source_purpose_built_llm) - [Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face](https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/)

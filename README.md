@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-30, 14:15:59](https://lobste.rs/s/mtnatk/antithesis_for_founders) - [Antithesis for founders](https://antithesis.com/blog/2025/antithesis_for_founders/)
+* [2025-04-30, 14:15:38](https://lobste.rs/s/v8w4vy/go_doesn_t_believe_frameworks_teams_still) - [Go doesn’t believe in frameworks, but teams still need them](https://encore.dev/blog/go-frameworks)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
 * [2025-04-30, 13:27:41](https://lobste.rs/s/kvw3bc/do_you_really_need_vector_search_database) - [Do you really need a Vector Search Database?](https://fin.ai/research/do-you-really-need-a-vector-search-database/)
-* [2025-04-30, 13:15:59](https://lobste.rs/s/le7piu/mellum_goes_open_source_purpose_built_llm) - [Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face](https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/)
 * [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
 * [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
 * [2025-04-30, 11:01:21](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman) - [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
@@ -19,7 +20,6 @@
 * [2025-04-29, 23:01:59](https://lobste.rs/s/6necys/quotes_on_notation_design_how_it_affects) - [Quotes on notation design & how it affects thought](https://github.com/kai-qu/notation)
 * [2025-04-29, 22:59:25](https://lobste.rs/s/7nniv9/prolog_notes) - [Prolog Notes](https://github.com/dtonhofer/prolog_notes)
 * [2025-04-29, 21:42:03](https://lobste.rs/s/9kime6/throwing_it_all_away_how_extreme) - [Throwing it all away - how extreme rewriting changed the way I build databases](https://www.hytradboi.com/2025/03580e19-4646-4fba-91c3-17eaba6935b0-throwing-it-all-away---how-extreme-rewriting-changed-the-way-i-build-databases)
-* [2025-04-29, 20:52:42](https://lobste.rs/s/7yvu6e/discovering_lispworks_ide) - [Discovering the Lispworks IDE](https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/)
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 * [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
 * [2025-04-29, 12:28:36](https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard) - [Why performance optimization is hard work](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/)
