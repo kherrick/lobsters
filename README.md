@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-30, 18:59:01](https://lobste.rs/s/lkngrz/new_tag_vibecoding) - [New tag: vibecoding](https://lobste.rs/s/lkngrz/new_tag_vibecoding)
 * [2025-04-30, 18:31:07](https://lobste.rs/s/zhmlkp/future_osl_jeopardy) - [Future of OSL in jeopardy](https://lists.osuosl.org/pipermail/hosting/2025-April/000639.html)
 * [2025-04-30, 17:15:22](https://lobste.rs/s/leou7z/problem_with_react_update_model) - [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
 * [2025-04-30, 15:33:59](https://lobste.rs/s/vyviku/sharding_real_rails_app) - [Sharding a real Rails app](https://pgdog.dev/blog/sharding-a-real-rails-app)
@@ -13,7 +14,6 @@
 * [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 10:45:19](https://lobste.rs/s/pkcti4/impossible_components) - [Impossible Components](https://overreacted.io/impossible-components/)
 * [2025-04-30, 10:22:33](https://lobste.rs/s/1tlotk/linux_excel) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
-* [2025-04-30, 07:15:33](https://lobste.rs/s/a0lsft/end_end_private_llm_inference) - [End-to-end private LLM inference](https://tinfoil.sh/inference)
 * [2025-04-30, 07:14:32](https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript) - [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)

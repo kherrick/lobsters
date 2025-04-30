@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 18:59:01](https://lobste.rs/s/lkngrz/new_tag_vibecoding) - [New tag: vibecoding](https://lobste.rs/s/lkngrz/new_tag_vibecoding)
 * [2025-04-30, 18:31:07](https://lobste.rs/s/zhmlkp/future_osl_jeopardy) - [Future of OSL in jeopardy](https://lists.osuosl.org/pipermail/hosting/2025-April/000639.html)
 * [2025-04-30, 17:15:22](https://lobste.rs/s/leou7z/problem_with_react_update_model) - [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
 * [2025-04-30, 16:15:31](https://lobste.rs/s/vj57bv/nist_f4_cesium_fountain_atomic_clock) - [NIST F4 Cesium Fountain Atomic Clock Joins Elite Group That Keeps the World on Time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
