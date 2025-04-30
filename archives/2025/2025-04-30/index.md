@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
 * [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
 * [2025-04-30, 11:01:21](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman) - [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
 * [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)

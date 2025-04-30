@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
 * [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
 * [2025-04-30, 11:01:21](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman) - [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
 * [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 10:45:19](https://lobste.rs/s/pkcti4/impossible_components) - [Impossible Components](https://overreacted.io/impossible-components/)
 * [2025-04-30, 10:22:33](https://lobste.rs/s/1tlotk/linux_excel) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
-* [2025-04-30, 07:15:33](https://lobste.rs/s/a0lsft/end_end_private_llm_inference) - [End-to-end private LLM inference](https://tinfoil.sh/inference)
 * [2025-04-30, 07:14:32](https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript) - [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
