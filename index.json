@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-30, 07:15:33",
+      "https://lobste.rs/s/a0lsft/end_end_private_llm_inference"
+    ],
+    [
+      "End-to-end private LLM inference",
+      "https://tinfoil.sh/inference"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 07:14:32",
+      "https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript"
+    ],
+    [
+      "Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints",
+      "https://v8.dev/blog/explicit-compile-hints"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 06:21:20",
       "https://lobste.rs/s/nsfsgp/autosetup"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-04-30, 01:50:47",
-      "https://lobste.rs/s/nmaltp/bbc_1_1985_computer_originated_world_1999"
-    ],
-    [
-      "BBC 1 1985 - A Computer Originated World (1999)",
-      "https://625.uk.com/tv_logos/bbc1_85.htm"
-    ]
-  ],
-  [
-    [
       "2025-04-30, 00:51:19",
       "https://lobste.rs/s/pd3dcc/go_away_release_v0_6_0"
     ],
@@ -107,16 +117,6 @@
     [
       "Prolog Notes",
       "https://github.com/dtonhofer/prolog_notes"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 22:33:19",
-      "https://lobste.rs/s/jtj0ns/between_immutability_memoization_you"
-    ],
-    [
-      "Between immutability and memoization, you might have to choose",
-      "https://thoughtbot.com/blog/between-immutability-and-memoization-you-might-have-to-choose"
     ]
   ],
   [
