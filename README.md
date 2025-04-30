@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 10:45:19](https://lobste.rs/s/pkcti4/impossible_components) - [Impossible Components](https://overreacted.io/impossible-components/)
 * [2025-04-30, 10:22:33](https://lobste.rs/s/1tlotk/linux_excel) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 07:15:33](https://lobste.rs/s/a0lsft/end_end_private_llm_inference) - [End-to-end private LLM inference](https://tinfoil.sh/inference)
 * [2025-04-30, 07:14:32](https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript) - [Giving V8 a Heads-Up: Faster JavaScript Startup with Explicit Compile Hints](https://v8.dev/blog/explicit-compile-hints)
 * [2025-04-30, 06:21:20](https://lobste.rs/s/nsfsgp/autosetup) - [autosetup](https://msteveb.github.io/autosetup/)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
-* [2025-04-30, 04:55:29](https://lobste.rs/s/ftt9ow/abysmal_state_contract_software) - [The Abysmal State of Contract Software Development](https://smustafa.blog/2025/04/30/the-abysmal-state-of-contract-software-development/)
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
 * [2025-04-30, 03:32:34](https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic) - [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
 * [2025-04-30, 02:53:28](https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for) - [The MCP Authorization Spec Is... a Mess for Enterprise](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)

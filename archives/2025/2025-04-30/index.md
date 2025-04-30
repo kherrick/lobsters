@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 10:45:19](https://lobste.rs/s/pkcti4/impossible_components) - [Impossible Components](https://overreacted.io/impossible-components/)
 * [2025-04-30, 10:22:33](https://lobste.rs/s/1tlotk/linux_excel) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
 * [2025-04-30, 07:15:33](https://lobste.rs/s/a0lsft/end_end_private_llm_inference) - [End-to-end private LLM inference](https://tinfoil.sh/inference)
