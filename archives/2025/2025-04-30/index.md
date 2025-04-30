@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 23:51:11](https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 * [2025-04-30, 22:04:30](https://lobste.rs/s/n9fe0w/rise_fall_erlang_at_ericsson_ab_2023) - [The Rise & Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
 * [2025-04-30, 21:07:37](https://lobste.rs/s/g4596m/future_osl_jeopardy_osu_open_source_lab) - [Future of OSL in Jeopardy | OSU Open Source Lab](https://osuosl.org/blog/osl-future/)
 * [2025-04-30, 20:58:13](https://lobste.rs/s/65zlbk/passt_plug_simple_socket_transport) - [passt - Plug A Simple Socket Transport](https://passt.top/passt/about/)
