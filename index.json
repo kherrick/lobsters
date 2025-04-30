@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-30, 20:22:12",
+      "https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation"
+    ],
+    [
+      "Co-dfns versus BQN's implementation",
+      "https://mlochbaum.github.io/BQN/implementation/codfns.html"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 19:29:54",
       "https://lobste.rs/s/kktzes/polishing_your_typography_with_line"
     ],
@@ -227,16 +237,6 @@
     [
       "Jepsen: Amazon RDS for PostgreSQL 17.4",
       "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 12:23:57",
-      "https://lobste.rs/s/ctopbt/programming_languages_should_have_tree"
-    ],
-    [
-      "Programming languages should have a tree traversal primitive",
-      "https://blog.tylerglaiel.com/p/programming-languages-should-have"
     ]
   ],
   [
