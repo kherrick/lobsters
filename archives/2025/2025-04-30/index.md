@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
 * [2025-04-30, 13:27:41](https://lobste.rs/s/kvw3bc/do_you_really_need_vector_search_database) - [Do you really need a Vector Search Database?](https://fin.ai/research/do-you-really-need-a-vector-search-database/)
 * [2025-04-30, 13:15:59](https://lobste.rs/s/le7piu/mellum_goes_open_source_purpose_built_llm) - [Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face](https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/)
 * [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
