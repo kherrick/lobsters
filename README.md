@@ -2,6 +2,7 @@
 
 * [2025-04-30, 18:31:07](https://lobste.rs/s/zhmlkp/future_osl_jeopardy) - [Future of OSL in jeopardy](https://lists.osuosl.org/pipermail/hosting/2025-April/000639.html)
 * [2025-04-30, 17:15:22](https://lobste.rs/s/leou7z/problem_with_react_update_model) - [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
+* [2025-04-30, 15:33:59](https://lobste.rs/s/vyviku/sharding_real_rails_app) - [Sharding a real Rails app](https://pgdog.dev/blog/sharding-a-real-rails-app)
 * [2025-04-30, 15:02:13](https://lobste.rs/s/jlk3iz/simplest_backpropagation_explainer) - [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
 * [2025-04-30, 14:26:01](https://lobste.rs/s/fh0777/automating_code_deletion_with_gemini) - [Automating code deletion with Gemini (and a little Python)](https://technicalwriting.dev/ml/gn.html)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
@@ -19,7 +20,6 @@
 * [2025-04-30, 03:32:34](https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic) - [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
 * [2025-04-30, 00:36:26](https://lobste.rs/s/afvexw/against_horizontal_scroll) - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 * [2025-04-30, 00:12:50](https://lobste.rs/s/lffktu/i_use_zip_bombs_protect_my_server) - [I use Zip Bombs to Protect my Server](https://idiallo.com/blog/zipbomb-protection)
-* [2025-04-29, 23:01:59](https://lobste.rs/s/6necys/quotes_on_notation_design_how_it_affects) - [Quotes on notation design & how it affects thought](https://github.com/kai-qu/notation)
 * [2025-04-29, 21:42:03](https://lobste.rs/s/9kime6/throwing_it_all_away_how_extreme) - [Throwing it all away - how extreme rewriting changed the way I build databases](https://www.hytradboi.com/2025/03580e19-4646-4fba-91c3-17eaba6935b0-throwing-it-all-away---how-extreme-rewriting-changed-the-way-i-build-databases)
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
 * [2025-04-29, 14:30:26](https://lobste.rs/s/dycg15/jepsen_amazon_rds_for_postgresql_17_4) - [Jepsen: Amazon RDS for PostgreSQL 17.4](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4)
