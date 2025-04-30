@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-30, 16:15:31](https://lobste.rs/s/vj57bv/nist_f4_cesium_fountain_atomic_clock) - [NIST F4 Cesium Fountain Atomic Clock Joins Elite Group That Keeps the World on Time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
+* [2025-04-30, 16:13:46](https://lobste.rs/s/sq4cqw/wanix_spirit_plan_9_wasm) - [Wanix: The Spirit of Plan 9 in Wasm](https://www.youtube.com/watch?v=kGBeT8lwbo0)
 * [2025-04-30, 15:02:13](https://lobste.rs/s/jlk3iz/simplest_backpropagation_explainer) - [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
 * [2025-04-30, 14:26:01](https://lobste.rs/s/fh0777/automating_code_deletion_with_gemini) - [Automating code deletion with Gemini (and a little Python)](https://technicalwriting.dev/ml/gn.html)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
@@ -16,7 +17,6 @@
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 * [2025-04-30, 04:35:17](https://lobste.rs/s/gtwmoq/pyrefly_faster_python_type_checker) - [Pyrefly: A faster Python type checker written in Rust](https://pyrefly.org/)
 * [2025-04-30, 03:32:34](https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic) - [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
-* [2025-04-30, 00:51:19](https://lobste.rs/s/pd3dcc/go_away_release_v0_6_0) - [go-away release v0.6.0](https://git.gammaspectra.live/git/go-away/releases/tag/v0.6.0)
 * [2025-04-30, 00:36:26](https://lobste.rs/s/afvexw/against_horizontal_scroll) - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 * [2025-04-30, 00:12:50](https://lobste.rs/s/lffktu/i_use_zip_bombs_protect_my_server) - [I use Zip Bombs to Protect my Server](https://idiallo.com/blog/zipbomb-protection)
 * [2025-04-29, 23:01:59](https://lobste.rs/s/6necys/quotes_on_notation_design_how_it_affects) - [Quotes on notation design & how it affects thought](https://github.com/kai-qu/notation)

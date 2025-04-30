@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
 * [2025-04-30, 16:15:31](https://lobste.rs/s/vj57bv/nist_f4_cesium_fountain_atomic_clock) - [NIST F4 Cesium Fountain Atomic Clock Joins Elite Group That Keeps the World on Time](https://www.nist.gov/news-events/news/2025/04/new-atomic-fountain-clock-joins-elite-group-keeps-world-time)
+* [2025-04-30, 16:13:46](https://lobste.rs/s/sq4cqw/wanix_spirit_plan_9_wasm) - [Wanix: The Spirit of Plan 9 in Wasm](https://www.youtube.com/watch?v=kGBeT8lwbo0)
 * [2025-04-30, 15:33:59](https://lobste.rs/s/vyviku/sharding_real_rails_app) - [Sharding a real Rails app](https://pgdog.dev/blog/sharding-a-real-rails-app)
 * [2025-04-30, 15:02:13](https://lobste.rs/s/jlk3iz/simplest_backpropagation_explainer) - [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
 * [2025-04-30, 14:26:01](https://lobste.rs/s/fh0777/automating_code_deletion_with_gemini) - [Automating code deletion with Gemini (and a little Python)](https://technicalwriting.dev/ml/gn.html)
