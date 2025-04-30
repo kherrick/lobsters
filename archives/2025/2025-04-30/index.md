@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
 * [2025-04-30, 22:04:30](https://lobste.rs/s/n9fe0w/rise_fall_erlang_at_ericsson_ab_2023) - [The Rise & Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
+* [2025-04-30, 21:07:37](https://lobste.rs/s/g4596m/future_osl_jeopardy_osu_open_source_lab) - [Future of OSL in Jeopardy | OSU Open Source Lab](https://osuosl.org/blog/osl-future/)
 * [2025-04-30, 20:58:13](https://lobste.rs/s/65zlbk/passt_plug_simple_socket_transport) - [passt - Plug A Simple Socket Transport](https://passt.top/passt/about/)
 * [2025-04-30, 20:22:12](https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation) - [Co-dfns versus BQN's implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 * [2025-04-30, 19:29:54](https://lobste.rs/s/kktzes/polishing_your_typography_with_line) - [Polishing your typography with line height units](https://webkit.org/blog/16831/line-height-units/)
