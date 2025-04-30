@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-30, 02:53:28](https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for) - [The MCP Authorization Spec Is... a Mess for Enterprise](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)
+* [2025-04-30, 01:50:47](https://lobste.rs/s/nmaltp/bbc_1_1985_computer_originated_world_1999) - [BBC 1 1985 - A Computer Originated World (1999)](https://625.uk.com/tv_logos/bbc1_85.htm)
 * [2025-04-30, 01:07:54](https://lobste.rs/s/p8icyo/world_compiler_backends) - [The world of compiler backends](https://medium.com/packt-hub/the-world-of-compiler-backends-9b27a3e37866)
 * [2025-04-30, 00:51:19](https://lobste.rs/s/pd3dcc/go_away_release_v0_6_0) - [go-away release v0.6.0](https://git.gammaspectra.live/git/go-away/releases/tag/v0.6.0)
 * [2025-04-30, 00:36:26](https://lobste.rs/s/afvexw/against_horizontal_scroll) - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
@@ -11,8 +13,6 @@
 * [2025-04-29, 21:02:23](https://lobste.rs/s/lpdbll/comparison_with_traditional) - [Comparison with Traditional Mathematics](https://aplwiki.com/wiki/Comparison_with_traditional_mathematics)
 * [2025-04-29, 20:54:57](https://lobste.rs/s/bpf18i/selectric_typewriter_goes_from_trash_can) - [Selectric Typewriter Goes From Trash Can To Linux Terminal (2023)](https://hackaday.com/2023/07/25/selectric-typewriter-goes-from-trash-can-to-linux-terminal/)
 * [2025-04-29, 20:52:42](https://lobste.rs/s/7yvu6e/discovering_lispworks_ide) - [Discovering the Lispworks IDE](https://lisp-journey.gitlab.io/blog/discovering-the-lispworks-ide/)
-* [2025-04-29, 20:06:13](https://lobste.rs/s/gbyes1/new_kali_linux_archive_signing_key) - [A New Kali Linux Archive Signing Key](https://www.kali.org/blog/new-kali-archive-signing-key/)
-* [2025-04-29, 19:48:31](https://lobste.rs/s/krx9gv/starlingx_explainer_what_it_is_what_it_s) - [A StarlingX explainer: what it is and what it’s good for](https://www.windriver.com/blog/From-Edge-to-Enterprise-The-StarlingX-Advantage)
 * [2025-04-29, 16:32:14](https://lobste.rs/s/gmh1nw/archie_anonymous_ftp_search_revival) - [Archie anonymous FTP search revival](http://archie.macdomain.net/)
 * [2025-04-29, 15:12:11](https://lobste.rs/s/hlhfpg/elasticsearch_hybrid_search_recipes) - [Elasticsearch Hybrid Search Recipes - Benchmarked](https://softwaredoug.com/blog/2025/03/13/elasticsearch-hybrid-search-strategies)
 * [2025-04-29, 14:53:14](https://lobste.rs/s/bxixuu/cheat_sheet_for_why_using_chatgpt_is_not) - [A cheat sheet for why using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/a-cheat-sheet-for-conversations-about)
