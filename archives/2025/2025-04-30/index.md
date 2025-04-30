@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 03:32:34](https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic) - [[vimrc] Bracket and quote matching and automatic shifting](https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248)
 * [2025-04-30, 02:53:28](https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for) - [The MCP Authorization Spec Is... a Mess for Enterprise](https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/)
 * [2025-04-30, 01:50:47](https://lobste.rs/s/nmaltp/bbc_1_1985_computer_originated_world_1999) - [BBC 1 1985 - A Computer Originated World (1999)](https://625.uk.com/tv_logos/bbc1_85.htm)
 * [2025-04-30, 01:07:54](https://lobste.rs/s/p8icyo/world_compiler_backends) - [The world of compiler backends](https://medium.com/packt-hub/the-world-of-compiler-backends-9b27a3e37866)
