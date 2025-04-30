@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-30, 12:54:51",
+      "https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide"
+    ],
+    [
+      "Firefox Git Migration, the unofficial guide",
+      "https://glandium.org/blog/?p=4370"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 11:02:05",
       "https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple"
     ],
@@ -47,16 +57,6 @@
     [
       "Linux in Excel",
       "https://github.com/NSG650/LinuxInExcel"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 07:15:33",
-      "https://lobste.rs/s/a0lsft/end_end_private_llm_inference"
-    ],
-    [
-      "End-to-end private LLM inference",
-      "https://tinfoil.sh/inference"
     ]
   ],
   [
