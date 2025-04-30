@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-30, 13:27:41",
+      "https://lobste.rs/s/kvw3bc/do_you_really_need_vector_search_database"
+    ],
+    [
+      "Do you really need a Vector Search Database?",
+      "https://fin.ai/research/do-you-really-need-a-vector-search-database/"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 13:15:59",
+      "https://lobste.rs/s/le7piu/mellum_goes_open_source_purpose_built_llm"
+    ],
+    [
+      "Mellum Goes Open Source: A Purpose-Built LLM for Developers, Now on Hugging Face",
+      "https://blog.jetbrains.com/ai/2025/04/mellum-goes-open-source-a-purpose-built-llm-for-developers-now-on-hugging-face/"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 12:54:51",
       "https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide"
     ],
@@ -97,16 +117,6 @@
     [
       "[vimrc] Bracket and quote matching and automatic shifting",
       "https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 02:53:28",
-      "https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for"
-    ],
-    [
-      "The MCP Authorization Spec Is... a Mess for Enterprise",
-      "https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Programming languages should have a tree traversal primitive",
       "https://blog.tylerglaiel.com/p/programming-languages-should-have"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 11:44:50",
-      "https://lobste.rs/s/d3neqf/syntactic_musings_on_match_expressions"
-    ],
-    [
-      "Syntactic musings on match expressions",
-      "https://blog.yoshuawuyts.com/syntactic-musings-on-match-expressions/"
     ]
   ],
   [
