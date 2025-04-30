@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-30, 15:33:59",
+      "https://lobste.rs/s/vyviku/sharding_real_rails_app"
+    ],
+    [
+      "Sharding a real Rails app",
+      "https://pgdog.dev/blog/sharding-a-real-rails-app"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 15:02:13",
       "https://lobste.rs/s/jlk3iz/simplest_backpropagation_explainer"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2025-04-30, 07:15:33",
+      "https://lobste.rs/s/a0lsft/end_end_private_llm_inference"
+    ],
+    [
+      "End-to-end private LLM inference",
+      "https://tinfoil.sh/inference"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 07:14:32",
       "https://lobste.rs/s/82zknx/giving_v8_heads_up_faster_javascript"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-04-29, 22:59:25",
-      "https://lobste.rs/s/7nniv9/prolog_notes"
-    ],
-    [
-      "Prolog Notes",
-      "https://github.com/dtonhofer/prolog_notes"
-    ]
-  ],
-  [
-    [
       "2025-04-29, 21:42:03",
       "https://lobste.rs/s/9kime6/throwing_it_all_away_how_extreme"
     ],
@@ -217,16 +227,6 @@
     [
       "Jepsen: Amazon RDS for PostgreSQL 17.4",
       "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 12:28:36",
-      "https://lobste.rs/s/e4tygw/why_performance_optimization_is_hard"
-    ],
-    [
-      "Why performance optimization is hard work",
-      "https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/"
     ]
   ],
   [
