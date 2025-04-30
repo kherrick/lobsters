@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-30, 13:51:20",
+      "https://lobste.rs/s/pk0lcl/checking_wifi"
+    ],
+    [
+      "checking the wifi",
+      "https://flak.tedunangst.com/post/checking-the-wifi"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 13:27:41",
       "https://lobste.rs/s/kvw3bc/do_you_really_need_vector_search_database"
     ],
@@ -237,16 +247,6 @@
     [
       "Migrating away from Rust",
       "https://deadmoney.gg/news/articles/migrating-away-from-rust"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 01:49:43",
-      "https://lobste.rs/s/zoxm37/what_heck_is_aead_again"
-    ],
-    [
-      "What the heck is AEAD again?",
-      "https://ochagavia.nl/blog/what-the-heck-is-aead-again/"
     ]
   ]
 ]
