@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-30, 03:32:34",
+      "https://lobste.rs/s/j6tfv0/vimrc_bracket_quote_matching_automatic"
+    ],
+    [
+      "[vimrc] Bracket and quote matching and automatic shifting",
+      "https://gist.github.com/wa008/4da70e1970b590497bf057e4358a6248"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 02:53:28",
       "https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for"
     ],
@@ -137,16 +147,6 @@
     [
       "Archie anonymous FTP search revival",
       "http://archie.macdomain.net/"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 15:12:11",
-      "https://lobste.rs/s/hlhfpg/elasticsearch_hybrid_search_recipes"
-    ],
-    [
-      "Elasticsearch Hybrid Search Recipes - Benchmarked",
-      "https://softwaredoug.com/blog/2025/03/13/elasticsearch-hybrid-search-strategies"
     ]
   ],
   [
