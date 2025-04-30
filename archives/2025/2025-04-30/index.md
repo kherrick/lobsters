@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 15:02:13](https://lobste.rs/s/jlk3iz/simplest_backpropagation_explainer) - [Simplest backpropagation explainer without chain rule](https://poonai.xyz/posts/simplest-backpropagation-explainer-without-chain-rule/)
 * [2025-04-30, 14:26:01](https://lobste.rs/s/fh0777/automating_code_deletion_with_gemini) - [Automating code deletion with Gemini (and a little Python)](https://technicalwriting.dev/ml/gn.html)
 * [2025-04-30, 14:15:59](https://lobste.rs/s/mtnatk/antithesis_for_founders) - [Antithesis for founders](https://antithesis.com/blog/2025/antithesis_for_founders/)
 * [2025-04-30, 14:15:38](https://lobste.rs/s/v8w4vy/go_doesn_t_believe_frameworks_teams_still) - [Go doesn’t believe in frameworks, but teams still need them](https://encore.dev/blog/go-frameworks)
