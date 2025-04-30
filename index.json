@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-04-30, 02:53:28",
+      "https://lobste.rs/s/w8cfdb/mcp_authorization_spec_is_mess_for"
+    ],
+    [
+      "The MCP Authorization Spec Is... a Mess for Enterprise",
+      "https://blog.christianposta.com/the-updated-mcp-oauth-spec-is-a-mess/"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 00:51:19",
       "https://lobste.rs/s/pd3dcc/go_away_release_v0_6_0"
     ],
@@ -237,16 +247,6 @@
     [
       "What the heck is AEAD again?",
       "https://ochagavia.nl/blog/what-the-heck-is-aead-again/"
-    ]
-  ],
-  [
-    [
-      "2025-04-28, 20:37:32",
-      "https://lobste.rs/s/szvnbf/giving_software_away_for_free"
-    ],
-    [
-      "Giving software away for free",
-      "https://simonwillison.net/2025/Apr/28/give-it-away-for-free/"
     ]
   ]
 ]
