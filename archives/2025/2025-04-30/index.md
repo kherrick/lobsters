@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-30](index.md)
 
+* [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
+* [2025-04-30, 11:01:21](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman) - [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
 * [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 10:45:19](https://lobste.rs/s/pkcti4/impossible_components) - [Impossible Components](https://overreacted.io/impossible-components/)
 * [2025-04-30, 10:22:33](https://lobste.rs/s/1tlotk/linux_excel) - [Linux in Excel](https://github.com/NSG650/LinuxInExcel)
