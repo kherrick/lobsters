@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-01, 21:19:31](https://lobste.rs/s/99eez4/cofi_free_open_source_coffee_brew_timer) - [Cofi: free and open-source coffee brew timer](https://github.com/rozPierog/Cofi)
 * [2025-05-01, 19:32:18](https://lobste.rs/s/pndvtx/absurdly_complicated_circuitry_for_386) - [The absurdly complicated circuitry for the 386 processor's registers](http://www.righto.com/2025/05/intel-386-register-circuitry.html)
 * [2025-05-01, 19:32:17](https://lobste.rs/s/rpm3th/astro_linker_chrome_extension_fun) - [Astro Linker Chrome Extension - A Fun Personal Project](https://thelinell.com/posts/2025/astro_linker_chrome_extension/)
 * [2025-05-01, 19:24:43](https://lobste.rs/s/camwi9/rvsdg_intermediate_representation_for) - [RVSDG: An Intermediate Representation for Optimizing Compilers (2019)](https://arxiv.org/abs/1912.05036)
@@ -22,7 +23,6 @@
 * [2025-04-30, 23:56:23](https://lobste.rs/s/6o4x71/pwning_ladybird_browser) - [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:51:11](https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 * [2025-04-30, 20:22:12](https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation) - [Co-dfns versus BQN's implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
-* [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 * [2025-04-30, 00:36:26](https://lobste.rs/s/afvexw/against_horizontal_scroll) - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
 
