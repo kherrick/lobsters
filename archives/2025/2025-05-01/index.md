@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 19:24:43](https://lobste.rs/s/camwi9/rvsdg_intermediate_representation_for) - [RVSDG: An Intermediate Representation for Optimizing Compilers (2019)](https://arxiv.org/abs/1912.05036)
 * [2025-05-01, 17:36:01](https://lobste.rs/s/rlwp2g/roons_mechanical_computer_kit) - [Roons: A Mechanical Computer Kit](https://whomtech.com/show-hn/)
 * [2025-05-01, 16:16:10](https://lobste.rs/s/1cpl6v/redis_is_open_source_again) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:20:16](https://lobste.rs/s/ifutfd/journelly_like_tweeting_for_your_eyes) - [Journelly: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
