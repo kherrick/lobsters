@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-01, 18:14:02",
+      "https://lobste.rs/s/6lrfje/designing_type_inference_for_high"
+    ],
+    [
+      "Designing type inference for high quality type errors",
+      "https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html"
+    ]
+  ],
+  [
+    [
       "2025-05-01, 17:36:01",
       "https://lobste.rs/s/rlwp2g/roons_mechanical_computer_kit"
     ],
@@ -157,16 +167,6 @@
     [
       "Curing A Case Of Git-UX (2022)",
       "https://oppi.li/posts/curing_a_case_of_git-UX/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 03:09:03",
-      "https://lobste.rs/s/egqrcs/doom_gpu_flame_graphs"
-    ],
-    [
-      "Doom GPU Flame Graphs",
-      "https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html"
     ]
   ],
   [
