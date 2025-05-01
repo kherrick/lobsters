@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-01, 19:32:18",
+      "https://lobste.rs/s/pndvtx/absurdly_complicated_circuitry_for_386"
+    ],
+    [
+      "The absurdly complicated circuitry for the 386 processor's registers",
+      "http://www.righto.com/2025/05/intel-386-register-circuitry.html"
+    ]
+  ],
+  [
+    [
       "2025-05-01, 19:32:17",
       "https://lobste.rs/s/rpm3th/astro_linker_chrome_extension_fun"
     ],
@@ -197,16 +207,6 @@
     [
       "Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that",
       "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 22:04:30",
-      "https://lobste.rs/s/n9fe0w/rise_fall_erlang_at_ericsson_ab_2023"
-    ],
-    [
-      "The Rise & Fall of Erlang at Ericsson AB (2023)",
-      "https://iknek.github.io/blog/the-erlang-story/"
     ]
   ],
   [
