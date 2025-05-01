@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-01, 13:16:39](https://lobste.rs/s/hetkdt/elm_test_distributions) - [Elm test distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
 * [2025-05-01, 08:37:09](https://lobste.rs/s/a0568e/understanding_kafka_kraft_how) - [Understanding Kafka KRaft: How Controllers and Brokers Talk in the Zookeeper-less World](https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34)
 * [2025-05-01, 06:47:02](https://lobste.rs/s/aa8fks/curing_case_git_ux_2022) - [Curing A Case Of Git-UX (2022)](https://oppi.li/posts/curing_a_case_of_git-UX/)
 * [2025-05-01, 03:09:03](https://lobste.rs/s/egqrcs/doom_gpu_flame_graphs) - [Doom GPU Flame Graphs](https://www.brendangregg.com/blog/2025-05-01/doom-gpu-flame-graphs.html)
@@ -7,7 +8,6 @@
 * [2025-04-30, 23:56:23](https://lobste.rs/s/6o4x71/pwning_ladybird_browser) - [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:51:11](https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
 * [2025-04-30, 22:04:30](https://lobste.rs/s/n9fe0w/rise_fall_erlang_at_ericsson_ab_2023) - [The Rise & Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
-* [2025-04-30, 20:58:13](https://lobste.rs/s/65zlbk/passt_plug_simple_socket_transport) - [passt - Plug A Simple Socket Transport](https://passt.top/passt/about/)
 * [2025-04-30, 20:22:12](https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation) - [Co-dfns versus BQN's implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 * [2025-04-30, 19:29:54](https://lobste.rs/s/kktzes/polishing_your_typography_with_line) - [Polishing your typography with line height units](https://webkit.org/blog/16831/line-height-units/)
 * [2025-04-30, 18:59:01](https://lobste.rs/s/lkngrz/new_tag_vibecoding) - [New tag: vibecoding](https://lobste.rs/s/lkngrz/new_tag_vibecoding)
