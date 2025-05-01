@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 19:32:18](https://lobste.rs/s/pndvtx/absurdly_complicated_circuitry_for_386) - [The absurdly complicated circuitry for the 386 processor's registers](http://www.righto.com/2025/05/intel-386-register-circuitry.html)
 * [2025-05-01, 19:32:17](https://lobste.rs/s/rpm3th/astro_linker_chrome_extension_fun) - [Astro Linker Chrome Extension - A Fun Personal Project](https://thelinell.com/posts/2025/astro_linker_chrome_extension/)
 * [2025-05-01, 19:24:43](https://lobste.rs/s/camwi9/rvsdg_intermediate_representation_for) - [RVSDG: An Intermediate Representation for Optimizing Compilers (2019)](https://arxiv.org/abs/1912.05036)
 * [2025-05-01, 18:14:02](https://lobste.rs/s/6lrfje/designing_type_inference_for_high) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
