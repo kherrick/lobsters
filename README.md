@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
 * [2025-05-01, 13:16:39](https://lobste.rs/s/hetkdt/elm_test_distributions) - [Elm test distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
 * [2025-05-01, 08:37:09](https://lobste.rs/s/a0568e/understanding_kafka_kraft_how) - [Understanding Kafka KRaft: How Controllers and Brokers Talk in the Zookeeper-less World](https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34)
@@ -16,7 +17,6 @@
 * [2025-04-30, 17:15:22](https://lobste.rs/s/leou7z/problem_with_react_update_model) - [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
 * [2025-04-30, 13:51:20](https://lobste.rs/s/pk0lcl/checking_wifi) - [checking the wifi](https://flak.tedunangst.com/post/checking-the-wifi)
 * [2025-04-30, 12:54:51](https://lobste.rs/s/wppbhm/firefox_git_migration_unofficial_guide) - [Firefox Git Migration, the unofficial guide](https://glandium.org/blog/?p=4370)
-* [2025-04-30, 11:02:05](https://lobste.rs/s/qcgntf/airborne_wormable_zero_click_rce_apple) - [AirBorne: Wormable Zero-Click RCE in Apple AirPlay](https://www.oligo.security/blog/airborne)
 * [2025-04-30, 11:01:21](https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman) - [verb: Emacs org-mode alternative to postman](https://github.com/federicotdn/verb)
 * [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)

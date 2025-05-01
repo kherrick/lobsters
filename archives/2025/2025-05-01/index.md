@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
 * [2025-05-01, 13:16:39](https://lobste.rs/s/hetkdt/elm_test_distributions) - [Elm test distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
 * [2025-05-01, 08:37:09](https://lobste.rs/s/a0568e/understanding_kafka_kraft_how) - [Understanding Kafka KRaft: How Controllers and Brokers Talk in the Zookeeper-less World](https://medium.com/@katyagorshkova/understanding-kafka-kraft-how-controllers-and-brokers-talk-in-the-zookeeper-less-world-a5e05a063f34)
