@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-01](index.md)
 
+* [2025-05-01, 14:57:06](https://lobste.rs/s/p3kit4/digital_dams_don_t_hold_why_internet) - [Digital Dams That Don't Hold: Why Internet Censorship Fails as Technical Policy](https://maych.in/blog/why-internet-censorship-fails-as-technical-policy/)
+* [2025-05-01, 14:53:45](https://lobste.rs/s/cswpbf/minidisc_zero_config_service_discovery) - [minidisc: Zero-config service discovery for Tailscale networks](https://github.com/mscheidegger/minidisc)
 * [2025-05-01, 14:27:42](https://lobste.rs/s/7xqcrq/quick_demo_core_async_flow) - [A quick demo of core.async.flow](https://youtu.be/lXFwf3O4BVY)
 * [2025-05-01, 14:23:03](https://lobste.rs/s/ctenw6/e_book_reader_for_e_ink_devices) - [E-book reader for e-ink devices](https://github.com/koreader/koreader)
 * [2025-05-01, 14:22:33](https://lobste.rs/s/eqyon1/easier_layout_with_margin_trim) - [Easier layout with margin-trim](https://webkit.org/blog/16854/margin-trim/)
