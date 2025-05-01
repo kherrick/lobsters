@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-01, 14:57:06",
+      "https://lobste.rs/s/p3kit4/digital_dams_don_t_hold_why_internet"
+    ],
+    [
+      "Digital Dams That Don't Hold: Why Internet Censorship Fails as Technical Policy",
+      "https://maych.in/blog/why-internet-censorship-fails-as-technical-policy/"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 14:53:45",
+      "https://lobste.rs/s/cswpbf/minidisc_zero_config_service_discovery"
+    ],
+    [
+      "minidisc: Zero-config service discovery for Tailscale networks",
+      "https://github.com/mscheidegger/minidisc"
+    ]
+  ],
+  [
+    [
       "2025-05-01, 14:27:42",
       "https://lobste.rs/s/7xqcrq/quick_demo_core_async_flow"
     ],
@@ -37,16 +57,6 @@
     [
       "OSS command-line AI assistant inspired by OpenAI Codex for local LLMs",
       "https://github.com/codingmoh/open-codex"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 14:17:09",
-      "https://lobste.rs/s/nvkc4l/i386_hobby_sperating_system_with"
-    ],
-    [
-      "An i386 Hobby sperating system with graphics, multitasking, networking and an i386 C compiler",
-      "https://github.com/joexbayer/RetrOS-32"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Problem with React Update Model",
       "https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 11:01:21",
-      "https://lobste.rs/s/sqiotr/verb_emacs_org_mode_alternative_postman"
-    ],
-    [
-      "verb: Emacs org-mode alternative to postman",
-      "https://github.com/federicotdn/verb"
     ]
   ],
   [
