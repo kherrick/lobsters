@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-01, 00:41:26",
+      "https://lobste.rs/s/z6xapj/understanding_recent_criticism_chatbot"
+    ],
+    [
+      "Understanding the recent criticism of the Chatbot Arena",
+      "https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/"
+    ]
+  ],
+  [
+    [
+      "2025-04-30, 23:56:23",
+      "https://lobste.rs/s/6o4x71/pwning_ladybird_browser"
+    ],
+    [
+      "Pwning the Ladybird browser",
+      "https://jessie.cafe/posts/pwning-ladybirds-libjs/"
+    ]
+  ],
+  [
+    [
       "2025-04-30, 23:51:11",
       "https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked"
     ],
@@ -17,16 +37,6 @@
     [
       "The Rise & Fall of Erlang at Ericsson AB (2023)",
       "https://iknek.github.io/blog/the-erlang-story/"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 21:07:37",
-      "https://lobste.rs/s/g4596m/future_osl_jeopardy_osu_open_source_lab"
-    ],
-    [
-      "Future of OSL in Jeopardy | OSU Open Source Lab",
-      "https://osuosl.org/blog/osl-future/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Jepsen: Amazon RDS for PostgreSQL 17.4",
       "https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4"
-    ]
-  ],
-  [
-    [
-      "2025-04-29, 06:35:03",
-      "https://lobste.rs/s/nyc9ob/migrating_away_from_rust"
-    ],
-    [
-      "Migrating away from Rust",
-      "https://deadmoney.gg/news/articles/migrating-away-from-rust"
     ]
   ]
 ]
