@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-01, 17:36:01](https://lobste.rs/s/rlwp2g/roons_mechanical_computer_kit) - [Roons: A Mechanical Computer Kit](https://whomtech.com/show-hn/)
 * [2025-05-01, 16:16:10](https://lobste.rs/s/1cpl6v/redis_is_open_source_again) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:20:16](https://lobste.rs/s/ifutfd/journelly_like_tweeting_for_your_eyes) - [Journelly: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
 * [2025-05-01, 14:57:06](https://lobste.rs/s/p3kit4/digital_dams_don_t_hold_why_internet) - [Digital Dams That Don't Hold: Why Internet Censorship Fails as Technical Policy](https://maych.in/blog/why-internet-censorship-fails-as-technical-policy/)
@@ -20,7 +21,6 @@
 * [2025-04-30, 22:04:30](https://lobste.rs/s/n9fe0w/rise_fall_erlang_at_ericsson_ab_2023) - [The Rise & Fall of Erlang at Ericsson AB (2023)](https://iknek.github.io/blog/the-erlang-story/)
 * [2025-04-30, 20:22:12](https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation) - [Co-dfns versus BQN's implementation](https://mlochbaum.github.io/BQN/implementation/codfns.html)
 * [2025-04-30, 18:59:01](https://lobste.rs/s/lkngrz/new_tag_vibecoding) - [New tag: vibecoding](https://lobste.rs/s/lkngrz/new_tag_vibecoding)
-* [2025-04-30, 17:15:22](https://lobste.rs/s/leou7z/problem_with_react_update_model) - [Problem with React Update Model](https://blog.bloomca.me/2025/04/20/problem-with-react-update-model.html)
 * [2025-04-30, 10:55:11](https://lobste.rs/s/xuaafo/swarm_testing_data_structures) - [Swarm Testing Data Structures](https://tigerbeetle.com/blog/2025-04-23-swarm-testing-data-structures/)
 * [2025-04-30, 06:15:29](https://lobste.rs/s/fystnj/elixir_is_not_owned_by_big_tech) - [Elixir is not owned by Big Tech](https://underjord.io/elixir-is-not-owned-by-big-tech.html)
 * [2025-04-30, 00:36:26](https://lobste.rs/s/afvexw/against_horizontal_scroll) - [Against Horizontal Scroll](https://matklad.github.io/2025/04/22/horizontal-scroll.html)
