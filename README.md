@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
 * [2025-05-02, 06:46:22](https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d) - [Correct application of the Lanczos filter in 2D](https://github.com/pixelflinger/lanczos-2d)
 * [2025-05-02, 03:12:54](https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
 * [2025-05-02, 03:09:52](https://lobste.rs/s/9edhzm/bypassing_web_application_firewall_with) - [Bypassing a web application firewall with autocomplete](https://jessie.cafe/posts/bypassing-a-waf-with-autocomplete/)
@@ -9,7 +10,6 @@
 * [2025-05-01, 22:46:45](https://lobste.rs/s/psklqi/deno_s_decline_6_regions_falling) - [Deno’s Decline (6 Regions and Falling)](https://dbushell.com/2025/04/28/denos-decline/)
 * [2025-05-01, 22:03:33](https://lobste.rs/s/ybnr3h/vibe_coding_final_word) - [Vibe Coding, final word](http://funcall.blogspot.com/2025/04/vibe-coding-final-word.html)
 * [2025-05-01, 21:19:31](https://lobste.rs/s/99eez4/cofi_free_open_source_coffee_brew_timer) - [Cofi: free and open-source coffee brew timer](https://github.com/rozPierog/Cofi)
-* [2025-05-01, 21:13:16](https://lobste.rs/s/e1ntal/core_unix_programs) - [Core UNIX Programs](https://wizardzines.com/comics/every-core-unix-program-i-use/)
 * [2025-05-01, 19:24:43](https://lobste.rs/s/camwi9/rvsdg_intermediate_representation_for) - [RVSDG: An Intermediate Representation for Optimizing Compilers (2019)](https://arxiv.org/abs/1912.05036)
 * [2025-05-01, 18:14:02](https://lobste.rs/s/6lrfje/designing_type_inference_for_high) - [Designing type inference for high quality type errors](https://blog.polybdenum.com/2025/02/14/designing-type-inference-for-high-quality-type-errors.html)
 * [2025-05-01, 17:36:01](https://lobste.rs/s/rlwp2g/roons_mechanical_computer_kit) - [Roons: A Mechanical Computer Kit](https://whomtech.com/show-hn/)

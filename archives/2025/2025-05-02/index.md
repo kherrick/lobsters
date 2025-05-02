@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
 * [2025-05-02, 06:46:22](https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d) - [Correct application of the Lanczos filter in 2D](https://github.com/pixelflinger/lanczos-2d)
 * [2025-05-02, 03:12:54](https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
 * [2025-05-02, 03:09:52](https://lobste.rs/s/9edhzm/bypassing_web_application_firewall_with) - [Bypassing a web application firewall with autocomplete](https://jessie.cafe/posts/bypassing-a-waf-with-autocomplete/)
