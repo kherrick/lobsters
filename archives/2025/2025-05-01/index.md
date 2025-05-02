@@ -7,6 +7,7 @@
 * [2025-05-01, 22:46:45](https://lobste.rs/s/psklqi/deno_s_decline_6_regions_falling) - [Deno’s Decline (6 Regions and Falling)](https://dbushell.com/2025/04/28/denos-decline/)
 * [2025-05-01, 22:03:33](https://lobste.rs/s/ybnr3h/vibe_coding_final_word) - [Vibe Coding, final word](http://funcall.blogspot.com/2025/04/vibe-coding-final-word.html)
 * [2025-05-01, 21:19:31](https://lobste.rs/s/99eez4/cofi_free_open_source_coffee_brew_timer) - [Cofi: free and open-source coffee brew timer](https://github.com/rozPierog/Cofi)
+* [2025-05-01, 21:13:16](https://lobste.rs/s/e1ntal/core_unix_programs) - [Core UNIX Programs](https://wizardzines.com/comics/every-core-unix-program-i-use/)
 * [2025-05-01, 19:32:18](https://lobste.rs/s/pndvtx/absurdly_complicated_circuitry_for_386) - [The absurdly complicated circuitry for the 386 processor's registers](http://www.righto.com/2025/05/intel-386-register-circuitry.html)
 * [2025-05-01, 19:32:17](https://lobste.rs/s/rpm3th/astro_linker_chrome_extension_fun) - [Astro Linker Chrome Extension - A Fun Personal Project](https://thelinell.com/posts/2025/astro_linker_chrome_extension/)
 * [2025-05-01, 19:24:43](https://lobste.rs/s/camwi9/rvsdg_intermediate_representation_for) - [RVSDG: An Intermediate Representation for Optimizing Compilers (2019)](https://arxiv.org/abs/1912.05036)
