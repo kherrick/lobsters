@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 12:36:03",
+      "https://lobste.rs/s/oduzbo/pewdiepie_i_installed_linux"
+    ],
+    [
+      "PewDiePie | I installed linux",
+      "https://www.youtube.com/watch?v=pVI_smLgTY0"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 10:45:46",
       "https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj"
     ],
@@ -27,6 +37,16 @@
     [
       "Optimizing Guile Scheme",
       "https://dthompson.us/posts/optimizing-guile-scheme.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 09:52:45",
+      "https://lobste.rs/s/ndvt4n/bloom_filters"
+    ],
+    [
+      "Bloom filters",
+      "https://eli.thegreenplace.net/2025/bloom-filters/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-05-01, 14:22:33",
-      "https://lobste.rs/s/eqyon1/easier_layout_with_margin_trim"
-    ],
-    [
-      "Easier layout with margin-trim",
-      "https://webkit.org/blog/16854/margin-trim/"
-    ]
-  ],
-  [
-    [
       "2025-05-01, 14:12:06",
       "https://lobste.rs/s/hyuadu/faster_way_copy_sqlite_databases_between"
     ],
     [
       "A faster way to copy SQLite databases between computers",
       "https://alexwlchan.net/2025/copying-sqlite-databases/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 14:10:53",
-      "https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for"
-    ],
-    [
-      "git-sqlite: A custom diff and merge driver for sqlite",
-      "https://github.com/cannadayr/git-sqlite"
     ]
   ],
   [
