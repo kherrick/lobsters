@@ -32,10 +32,10 @@
   [
     [
       "2025-05-02, 02:15:58",
-      "https://lobste.rs/s/qqrrga/third_party_cookies_must_be_removed"
+      "https://lobste.rs/s/qqrrga/w3c_draft_tag_finding_remove_3rd_party"
     ],
     [
-      "Third Party Cookies Must Be Removed",
+      "W3C Draft TAG Finding to Remove 3rd Party Cookies",
       "https://w3ctag.github.io/web-without-3p-cookies/"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "Cofi: free and open-source coffee brew timer",
       "https://github.com/rozPierog/Cofi"
+    ]
+  ],
+  [
+    [
+      "2025-05-01, 21:13:16",
+      "https://lobste.rs/s/e1ntal/core_unix_programs"
+    ],
+    [
+      "Core UNIX Programs",
+      "https://wizardzines.com/comics/every-core-unix-program-i-use/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Pwning the Ladybird browser",
       "https://jessie.cafe/posts/pwning-ladybirds-libjs/"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 23:51:11",
-      "https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked"
-    ],
-    [
-      "Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that",
-      "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
     ]
   ]
 ]
