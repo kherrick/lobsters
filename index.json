@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-05-02, 09:52:45",
-      "https://lobste.rs/s/ndvt4n/bloom_filters"
+      "2025-05-02, 10:45:46",
+      "https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj"
     ],
     [
-      "Bloom filters",
-      "https://eli.thegreenplace.net/2025/bloom-filters/"
+      "What I've learned from jj",
+      "https://zerowidth.com/2025/what-ive-learned-from-jj/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 10:37:36",
+      "https://lobste.rs/s/wdtxhm/one_ring_problem_abstraction_our_quest"
+    ],
+    [
+      "The one ring problem: abstraction and our quest for power",
+      "https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 10:35:38",
+      "https://lobste.rs/s/vubugi/optimizing_guile_scheme"
+    ],
+    [
+      "Optimizing Guile Scheme",
+      "https://dthompson.us/posts/optimizing-guile-scheme.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Elm test distributions",
       "https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 00:41:26",
-      "https://lobste.rs/s/z6xapj/understanding_recent_criticism_chatbot"
-    ],
-    [
-      "Understanding the recent criticism of the Chatbot Arena",
-      "https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 23:56:23",
-      "https://lobste.rs/s/6o4x71/pwning_ladybird_browser"
-    ],
-    [
-      "Pwning the Ladybird browser",
-      "https://jessie.cafe/posts/pwning-ladybirds-libjs/"
     ]
   ]
 ]
