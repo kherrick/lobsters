@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-02](index.md)
 
+* [2025-05-02, 17:39:00](https://lobste.rs/s/z4bimm/full_network_atproto_relay_for_34_month) - [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
 * [2025-05-02, 17:36:54](https://lobste.rs/s/dsczpg/prompt_chaining_reimagined_with_type) - [Prompt chaining reimagined with type inference](https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.html)
 * [2025-05-02, 16:08:41](https://lobste.rs/s/b2itx4/reading_zanzibar) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-02, 15:14:45](https://lobste.rs/s/wt6rqx/cost_poison) - [The cost of poison](https://chronicles.mad-scientist.club/tales/the-cost-of-poison/)

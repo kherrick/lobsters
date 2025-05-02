@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-02, 17:39:00](https://lobste.rs/s/z4bimm/full_network_atproto_relay_for_34_month) - [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
 * [2025-05-02, 17:36:54](https://lobste.rs/s/dsczpg/prompt_chaining_reimagined_with_type) - [Prompt chaining reimagined with type inference](https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.html)
 * [2025-05-02, 16:08:41](https://lobste.rs/s/b2itx4/reading_zanzibar) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-02, 15:14:45](https://lobste.rs/s/wt6rqx/cost_poison) - [The cost of poison](https://chronicles.mad-scientist.club/tales/the-cost-of-poison/)
@@ -11,7 +12,6 @@
 * [2025-05-02, 10:35:38](https://lobste.rs/s/vubugi/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2025-05-02, 09:52:45](https://lobste.rs/s/ndvt4n/bloom_filters) - [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
-* [2025-05-02, 03:12:54](https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
 * [2025-05-02, 03:09:52](https://lobste.rs/s/9edhzm/bypassing_web_application_firewall_with) - [Bypassing a web application firewall with autocomplete](https://jessie.cafe/posts/bypassing-a-waf-with-autocomplete/)
 * [2025-05-02, 02:58:44](https://lobste.rs/s/yfahhy/apple_library_primer) - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385)
 * [2025-05-02, 02:15:58](https://lobste.rs/s/qqrrga/w3c_draft_tag_finding_remove_3rd_party) - [W3C Draft TAG Finding to Remove 3rd Party Cookies](https://w3ctag.github.io/web-without-3p-cookies/)
