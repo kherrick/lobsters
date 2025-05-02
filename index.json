@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 13:45:08",
+      "https://lobste.rs/s/utekbr/rye_principles"
+    ],
+    [
+      "Rye principles",
+      "https://ryelang.org/#rye-principles"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 12:36:03",
       "https://lobste.rs/s/oduzbo/pewdiepie_i_installed_linux"
     ],
@@ -147,16 +157,6 @@
     [
       "Cofi: free and open-source coffee brew timer",
       "https://github.com/rozPierog/Cofi"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 19:24:43",
-      "https://lobste.rs/s/camwi9/rvsdg_intermediate_representation_for"
-    ],
-    [
-      "RVSDG: An Intermediate Representation for Optimizing Compilers (2019)",
-      "https://arxiv.org/abs/1912.05036"
     ]
   ],
   [
