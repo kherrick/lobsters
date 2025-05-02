@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-01, 22:46:45](https://lobste.rs/s/psklqi/deno_s_decline_6_regions_falling) - [Deno’s Decline (6 Regions and Falling)](https://dbushell.com/2025/04/28/denos-decline/)
+* [2025-05-01, 22:03:33](https://lobste.rs/s/ybnr3h/vibe_coding_final_word) - [Vibe Coding, final word](http://funcall.blogspot.com/2025/04/vibe-coding-final-word.html)
 * [2025-05-01, 21:19:31](https://lobste.rs/s/99eez4/cofi_free_open_source_coffee_brew_timer) - [Cofi: free and open-source coffee brew timer](https://github.com/rozPierog/Cofi)
 * [2025-05-01, 19:32:18](https://lobste.rs/s/pndvtx/absurdly_complicated_circuitry_for_386) - [The absurdly complicated circuitry for the 386 processor's registers](http://www.righto.com/2025/05/intel-386-register-circuitry.html)
 * [2025-05-01, 19:32:17](https://lobste.rs/s/rpm3th/astro_linker_chrome_extension_fun) - [Astro Linker Chrome Extension - A Fun Personal Project](https://thelinell.com/posts/2025/astro_linker_chrome_extension/)
@@ -19,7 +20,6 @@
 * [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
 * [2025-05-01, 13:16:39](https://lobste.rs/s/hetkdt/elm_test_distributions) - [Elm test distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
-* [2025-05-01, 06:47:02](https://lobste.rs/s/aa8fks/curing_case_git_ux_2022) - [Curing A Case Of Git-UX (2022)](https://oppi.li/posts/curing_a_case_of_git-UX/)
 * [2025-05-01, 00:41:26](https://lobste.rs/s/z6xapj/understanding_recent_criticism_chatbot) - [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/)
 * [2025-04-30, 23:56:23](https://lobste.rs/s/6o4x71/pwning_ladybird_browser) - [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 * [2025-04-30, 23:51:11](https://lobste.rs/s/rnoykc/windows_rdp_lets_you_log_using_revoked) - [Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that](https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/)
