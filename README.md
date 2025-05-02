@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-02, 10:45:46](https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
+* [2025-05-02, 10:45:46](https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj) - [What I’ve learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 * [2025-05-02, 10:37:36](https://lobste.rs/s/wdtxhm/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
 * [2025-05-02, 10:35:38](https://lobste.rs/s/vubugi/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
