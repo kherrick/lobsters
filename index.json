@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-02, 07:30:25",
-      "https://lobste.rs/s/1mcmys/owen_le_blanc_creator_first_linux"
+      "2025-05-02, 09:52:45",
+      "https://lobste.rs/s/ndvt4n/bloom_filters"
     ],
     [
-      "Owen Le Blanc: creator of the first Linux distribution",
-      "https://lwn.net/Articles/1017846/"
+      "Bloom filters",
+      "https://eli.thegreenplace.net/2025/bloom-filters/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "My tips on giving technical talks",
       "https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 06:46:22",
+      "https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d"
+    ],
+    [
+      "Correct application of the Lanczos filter in 2D",
+      "https://github.com/pixelflinger/lanczos-2d"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Easier layout with margin-trim",
       "https://webkit.org/blog/16854/margin-trim/"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 14:17:09",
-      "https://lobste.rs/s/nvkc4l/i386_hobby_operating_system_with"
-    ],
-    [
-      "An i386 Hobby operating system with graphics, multitasking, networking and an i386 C compiler",
-      "https://github.com/joexbayer/RetrOS-32"
     ]
   ],
   [
