@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-02, 09:52:45](https://lobste.rs/s/ndvt4n/bloom_filters) - [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters/)
+* [2025-05-02, 10:45:46](https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj) - [What I've learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
+* [2025-05-02, 10:37:36](https://lobste.rs/s/wdtxhm/one_ring_problem_abstraction_our_quest) - [The one ring problem: abstraction and our quest for power](https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html)
+* [2025-05-02, 10:35:38](https://lobste.rs/s/vubugi/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
 * [2025-05-02, 06:46:22](https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d) - [Correct application of the Lanczos filter in 2D](https://github.com/pixelflinger/lanczos-2d)
 * [2025-05-02, 03:12:54](https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
@@ -23,8 +25,6 @@
 * [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
 * [2025-05-01, 13:16:39](https://lobste.rs/s/hetkdt/elm_test_distributions) - [Elm test distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
-* [2025-05-01, 00:41:26](https://lobste.rs/s/z6xapj/understanding_recent_criticism_chatbot) - [Understanding the recent criticism of the Chatbot Arena](https://simonwillison.net/2025/Apr/30/criticism-of-the-chatbot-arena/)
-* [2025-04-30, 23:56:23](https://lobste.rs/s/6o4x71/pwning_ladybird_browser) - [Pwning the Ladybird browser](https://jessie.cafe/posts/pwning-ladybirds-libjs/)
 
 ## [Archives](archives/index.md)
 
