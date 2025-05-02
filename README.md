@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-02, 17:36:54](https://lobste.rs/s/dsczpg/prompt_chaining_reimagined_with_type) - [Prompt chaining reimagined with type inference](https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.html)
 * [2025-05-02, 16:08:41](https://lobste.rs/s/b2itx4/reading_zanzibar) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-02, 15:14:45](https://lobste.rs/s/wt6rqx/cost_poison) - [The cost of poison](https://chronicles.mad-scientist.club/tales/the-cost-of-poison/)
 * [2025-05-02, 13:45:08](https://lobste.rs/s/utekbr/rye_principles) - [Rye principles](https://ryelang.org/#rye-principles)
@@ -21,7 +22,6 @@
 * [2025-05-01, 17:36:01](https://lobste.rs/s/rlwp2g/roons_mechanical_computer_kit) - [Roons: A Mechanical Computer Kit](https://whomtech.com/show-hn/)
 * [2025-05-01, 16:16:10](https://lobste.rs/s/1cpl6v/redis_is_open_source_again) - [Redis is open source again](https://antirez.com/news/151)
 * [2025-05-01, 15:20:16](https://lobste.rs/s/ifutfd/journelly_like_tweeting_for_your_eyes) - [Journelly: like tweeting but for your eyes only (in plain text)](https://xenodium.com/journelly-like-tweeting-but-for-your-eyes-only)
-* [2025-05-01, 14:53:45](https://lobste.rs/s/cswpbf/minidisc_zero_config_service_discovery) - [minidisc: Zero-config service discovery for Tailscale networks](https://github.com/mscheidegger/minidisc)
 * [2025-05-01, 14:23:03](https://lobste.rs/s/ctenw6/e_book_reader_for_e_ink_devices) - [E-book reader for e-ink devices](https://github.com/koreader/koreader)
 * [2025-05-01, 14:12:06](https://lobste.rs/s/hyuadu/faster_way_copy_sqlite_databases_between) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 13:16:39](https://lobste.rs/s/hetkdt/elm_test_distributions) - [Elm test distributions](https://martin.janiczek.cz/2025/05/01/elm-test-distributions.html)
