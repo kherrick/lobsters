@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-02, 07:30:25](https://lobste.rs/s/1mcmys/owen_le_blanc_creator_first_linux) - [Owen Le Blanc: creator of the first Linux distribution](https://lwn.net/Articles/1017846/)
+* [2025-05-02, 09:52:45](https://lobste.rs/s/ndvt4n/bloom_filters) - [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
+* [2025-05-02, 06:46:22](https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d) - [Correct application of the Lanczos filter in 2D](https://github.com/pixelflinger/lanczos-2d)
 * [2025-05-02, 03:12:54](https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
 * [2025-05-02, 03:09:52](https://lobste.rs/s/9edhzm/bypassing_web_application_firewall_with) - [Bypassing a web application firewall with autocomplete](https://jessie.cafe/posts/bypassing-a-waf-with-autocomplete/)
 * [2025-05-02, 02:58:44](https://lobste.rs/s/yfahhy/apple_library_primer) - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385)
@@ -18,7 +19,6 @@
 * [2025-05-01, 14:53:45](https://lobste.rs/s/cswpbf/minidisc_zero_config_service_discovery) - [minidisc: Zero-config service discovery for Tailscale networks](https://github.com/mscheidegger/minidisc)
 * [2025-05-01, 14:23:03](https://lobste.rs/s/ctenw6/e_book_reader_for_e_ink_devices) - [E-book reader for e-ink devices](https://github.com/koreader/koreader)
 * [2025-05-01, 14:22:33](https://lobste.rs/s/eqyon1/easier_layout_with_margin_trim) - [Easier layout with margin-trim](https://webkit.org/blog/16854/margin-trim/)
-* [2025-05-01, 14:17:09](https://lobste.rs/s/nvkc4l/i386_hobby_operating_system_with) - [An i386 Hobby operating system with graphics, multitasking, networking and an i386 C compiler](https://github.com/joexbayer/RetrOS-32)
 * [2025-05-01, 14:12:06](https://lobste.rs/s/hyuadu/faster_way_copy_sqlite_databases_between) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
