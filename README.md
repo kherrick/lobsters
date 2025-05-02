@@ -18,7 +18,7 @@
 * [2025-05-01, 14:27:42](https://lobste.rs/s/7xqcrq/quick_demo_core_async_flow) - [A quick demo of core.async.flow](https://youtu.be/lXFwf3O4BVY)
 * [2025-05-01, 14:23:03](https://lobste.rs/s/ctenw6/e_book_reader_for_e_ink_devices) - [E-book reader for e-ink devices](https://github.com/koreader/koreader)
 * [2025-05-01, 14:22:33](https://lobste.rs/s/eqyon1/easier_layout_with_margin_trim) - [Easier layout with margin-trim](https://webkit.org/blog/16854/margin-trim/)
-* [2025-05-01, 14:17:09](https://lobste.rs/s/nvkc4l/i386_hobby_sperating_system_with) - [An i386 Hobby sperating system with graphics, multitasking, networking and an i386 C compiler](https://github.com/joexbayer/RetrOS-32)
+* [2025-05-01, 14:17:09](https://lobste.rs/s/nvkc4l/i386_hobby_operating_system_with) - [An i386 Hobby operating system with graphics, multitasking, networking and an i386 C compiler](https://github.com/joexbayer/RetrOS-32)
 * [2025-05-01, 14:12:06](https://lobste.rs/s/hyuadu/faster_way_copy_sqlite_databases_between) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)

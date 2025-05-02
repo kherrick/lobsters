@@ -22,6 +22,7 @@
 * [2025-05-01, 14:22:33](https://lobste.rs/s/eqyon1/easier_layout_with_margin_trim) - [Easier layout with margin-trim](https://webkit.org/blog/16854/margin-trim/)
 * [2025-05-01, 14:19:06](https://lobste.rs/s/dvhaa4/oss_command_line_ai_assistant_inspired_by) - [OSS command-line AI assistant inspired by OpenAI Codex for local LLMs](https://github.com/codingmoh/open-codex)
 * [2025-05-01, 14:17:09](https://lobste.rs/s/nvkc4l/i386_hobby_sperating_system_with) - [An i386 Hobby sperating system with graphics, multitasking, networking and an i386 C compiler](https://github.com/joexbayer/RetrOS-32)
+* [2025-05-01, 14:17:09](https://lobste.rs/s/nvkc4l/i386_hobby_operating_system_with) - [An i386 Hobby operating system with graphics, multitasking, networking and an i386 C compiler](https://github.com/joexbayer/RetrOS-32)
 * [2025-05-01, 14:12:06](https://lobste.rs/s/hyuadu/faster_way_copy_sqlite_databases_between) - [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
 * [2025-05-01, 14:10:53](https://lobste.rs/s/lrko4e/git_sqlite_custom_diff_merge_driver_for) - [git-sqlite: A custom diff and merge driver for sqlite](https://github.com/cannadayr/git-sqlite)
 * [2025-05-01, 13:36:45](https://lobste.rs/s/1jb4l7/making_pypi_s_test_suite_81_faster) - [Making PyPI's test suite 81% faster](https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/)
