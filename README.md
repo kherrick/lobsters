@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-02, 16:08:41](https://lobste.rs/s/b2itx4/reading_zanzibar) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-02, 15:14:45](https://lobste.rs/s/wt6rqx/cost_poison) - [The cost of poison](https://chronicles.mad-scientist.club/tales/the-cost-of-poison/)
 * [2025-05-02, 13:45:08](https://lobste.rs/s/utekbr/rye_principles) - [Rye principles](https://ryelang.org/#rye-principles)
 * [2025-05-02, 13:24:16](https://lobste.rs/s/bifofa/common_lisp_jq_replacement) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
@@ -9,7 +10,6 @@
 * [2025-05-02, 10:35:38](https://lobste.rs/s/vubugi/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2025-05-02, 09:52:45](https://lobste.rs/s/ndvt4n/bloom_filters) - [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 07:23:47](https://lobste.rs/s/ioyjfm/my_tips_on_giving_technical_talks) - [My tips on giving technical talks](https://marcusnoble.co.uk/2025-04-30-my-tips-on-giving-technical-talks/)
-* [2025-05-02, 06:46:22](https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d) - [Correct application of the Lanczos filter in 2D](https://github.com/pixelflinger/lanczos-2d)
 * [2025-05-02, 03:12:54](https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby) - [Fast(er) regular expression engines in Ruby](https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/)
 * [2025-05-02, 03:09:52](https://lobste.rs/s/9edhzm/bypassing_web_application_firewall_with) - [Bypassing a web application firewall with autocomplete](https://jessie.cafe/posts/bypassing-a-waf-with-autocomplete/)
 * [2025-05-02, 02:58:44](https://lobste.rs/s/yfahhy/apple_library_primer) - [An Apple Library Primer](https://developer.apple.com/forums/thread/715385)
