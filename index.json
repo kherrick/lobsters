@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-05-02, 02:21:35",
-      "https://lobste.rs/s/js3xn3/way_manage_your_versioning_changelogs"
+      "2025-05-02, 03:12:54",
+      "https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby"
     ],
     [
-      "A way to manage your versioning and changelogs with a focus on monorepos",
-      "https://github.com/changesets/changesets"
+      "Fast(er) regular expression engines in Ruby",
+      "https://serpapi.com/blog/faster-regular-expression-engines-in-ruby/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 03:09:52",
+      "https://lobste.rs/s/9edhzm/bypassing_web_application_firewall_with"
+    ],
+    [
+      "Bypassing a web application firewall with autocomplete",
+      "https://jessie.cafe/posts/bypassing-a-waf-with-autocomplete/"
+    ]
+  ],
+  [
+    [
+      "2025-05-02, 02:58:44",
+      "https://lobste.rs/s/yfahhy/apple_library_primer"
+    ],
+    [
+      "An Apple Library Primer",
+      "https://developer.apple.com/forums/thread/715385"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Windows RDP lets you log-in using revoked passwords. Microsoft is ok with that",
       "https://arstechnica.com/security/2025/04/windows-rdp-lets-you-log-in-using-revoked-passwords-microsoft-is-ok-with-that/"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 20:22:12",
-      "https://lobste.rs/s/9wyvlg/co_dfns_versus_bqn_s_implementation"
-    ],
-    [
-      "Co-dfns versus BQN's implementation",
-      "https://mlochbaum.github.io/BQN/implementation/codfns.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-30, 00:36:26",
-      "https://lobste.rs/s/afvexw/against_horizontal_scroll"
-    ],
-    [
-      "Against Horizontal Scroll",
-      "https://matklad.github.io/2025/04/22/horizontal-scroll.html"
     ]
   ]
 ]
