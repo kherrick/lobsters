@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-02, 06:46:22",
+      "https://lobste.rs/s/gd2j3d/correct_application_lanczos_filter_2d"
+    ],
+    [
+      "Correct application of the Lanczos filter in 2D",
+      "https://github.com/pixelflinger/lanczos-2d"
+    ]
+  ],
+  [
+    [
       "2025-05-02, 03:12:54",
       "https://lobste.rs/s/dl2xd0/fast_er_regular_expression_engines_ruby"
     ],
@@ -147,16 +157,6 @@
     [
       "minidisc: Zero-config service discovery for Tailscale networks",
       "https://github.com/mscheidegger/minidisc"
-    ]
-  ],
-  [
-    [
-      "2025-05-01, 14:27:42",
-      "https://lobste.rs/s/7xqcrq/quick_demo_core_async_flow"
-    ],
-    [
-      "A quick demo of core.async.flow",
-      "https://youtu.be/lXFwf3O4BVY"
     ]
   ],
   [
