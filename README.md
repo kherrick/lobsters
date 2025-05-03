@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-03, 13:35:17](https://lobste.rs/s/qx04lr/lora_lora_faff) - [A LoRa LoRa Faff](https://planb.nicecupoftea.org/2025/04/29/a-lora-lora-faff/)
 * [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
 * [2025-05-03, 12:58:29](https://lobste.rs/s/mlromb/epub_utils_python_cli_utility_library_for) - [epub-utils: A Python CLI and utility library for manipulating EPUB files](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-03, 11:52:13](https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd) - [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
@@ -21,7 +22,6 @@
 * [2025-05-02, 13:24:16](https://lobste.rs/s/bifofa/common_lisp_jq_replacement) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
 * [2025-05-02, 12:59:18](https://lobste.rs/s/9jn3jg/reflecting_on_year_gamedev_zig) - [Reflecting on a year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 10:45:46](https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj) - [What I’ve learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
-* [2025-05-02, 10:35:38](https://lobste.rs/s/vubugi/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2025-05-02, 09:52:45](https://lobste.rs/s/ndvt4n/bloom_filters) - [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 02:15:12](https://lobste.rs/s/67ijih/day_anubis_saved_our_websites_from_ddos) - [The Day Anubis Saved Our Websites From a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
 * [2025-05-01, 22:46:45](https://lobste.rs/s/psklqi/deno_s_decline_6_regions_falling) - [Deno’s Decline (6 Regions and Falling)](https://dbushell.com/2025/04/28/denos-decline/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 13:35:17](https://lobste.rs/s/qx04lr/lora_lora_faff) - [A LoRa LoRa Faff](https://planb.nicecupoftea.org/2025/04/29/a-lora-lora-faff/)
 * [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
 * [2025-05-03, 12:58:29](https://lobste.rs/s/mlromb/epub_utils_python_cli_utility_library_for) - [epub-utils: A Python CLI and utility library for manipulating EPUB files](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-03, 11:52:13](https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd) - [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
