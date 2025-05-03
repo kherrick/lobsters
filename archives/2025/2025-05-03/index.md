@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 11:52:13](https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd) - [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
 * [2025-05-03, 09:38:40](https://lobste.rs/s/eebdvu/using_c_type_aliasing_avoid_odr_problem) - [Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1](https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134)
 * [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 * [2025-05-03, 07:01:55](https://lobste.rs/s/zlgfiy/circuitpainter_create_pcbs_using) - [circuitpainter: Create PCBs using a simplfiied graphics language](https://github.com/Blinkinlabs/circuitpainter)
