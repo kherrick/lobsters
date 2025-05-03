@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
+* [2025-05-03, 06:17:35](https://lobste.rs/s/emiixp/projecting_sheet_music_onto_smart) - [Projecting sheet music onto smart glasses](https://www.youtube.com/watch?v=j36u2i7PKKE)
 * [2025-05-03, 04:22:56](https://lobste.rs/s/kfadjc/stop_treating_agi_as_north_star_goal_ai) - [Stop treating `AGI' as the north-star goal of AI research](https://arxiv.org/abs/2502.03689)
 * [2025-05-03, 03:36:01](https://lobste.rs/s/4e4fp7/progressive_enhancement_is_moral) - [Progressive enhancement is a moral argument](https://web.archive.org/web/20220316060312/https://whalecoiner.com/articles/progressive-enhancement)
 * [2025-05-03, 02:17:23](https://lobste.rs/s/qoebwd/gitdroid_third_party_android_app_manager) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
