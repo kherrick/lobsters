@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
+* [2025-05-03, 12:58:29](https://lobste.rs/s/mlromb/epub_utils_python_cli_utility_library_for) - [epub-utils: A Python CLI and utility library for manipulating EPUB files](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-03, 11:52:13](https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd) - [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
 * [2025-05-03, 09:38:40](https://lobste.rs/s/eebdvu/using_c_type_aliasing_avoid_odr_problem) - [Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1](https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134)
 * [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
@@ -11,7 +13,6 @@
 * [2025-05-02, 23:27:47](https://lobste.rs/s/harp4z/java_strings_just_got_faster) - [Java Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 * [2025-05-02, 22:25:22](https://lobste.rs/s/avzgat/kate_python_language_server) - [Kate and Python language server](https://akselmo.dev/posts/kate-python-lsp/)
 * [2025-05-02, 22:06:30](https://lobste.rs/s/ilmhdr/cross_platform_software_development_yes) - [Cross-Platform Software Development – Yes, Bytes Can Be 9 Bits](https://old.reddit.com/r/aethernet/comments/1kd79g7/crossplatform_software_development_part_1_yes/)
-* [2025-05-02, 19:45:22](https://lobste.rs/s/ofm4ex/adaptive_hashing) - [Adaptive Hashing](https://quotenil.com/adaptive-hashing.html)
 * [2025-05-02, 18:48:05](https://lobste.rs/s/qmhxwf/seeking_answer_why_can_t_html_alone_do) - [Seeking an Answer: Why can’t HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
 * [2025-05-02, 18:01:12](https://lobste.rs/s/jnleid/starting_on_seamless_c_interop_jank) - [Starting on seamless C++ interop in jank](https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/)
 * [2025-05-02, 17:39:00](https://lobste.rs/s/z4bimm/full_network_atproto_relay_for_34_month) - [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
@@ -24,7 +25,6 @@
 * [2025-05-02, 09:52:45](https://lobste.rs/s/ndvt4n/bloom_filters) - [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters/)
 * [2025-05-02, 02:15:12](https://lobste.rs/s/67ijih/day_anubis_saved_our_websites_from_ddos) - [The Day Anubis Saved Our Websites From a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
 * [2025-05-01, 22:46:45](https://lobste.rs/s/psklqi/deno_s_decline_6_regions_falling) - [Deno’s Decline (6 Regions and Falling)](https://dbushell.com/2025/04/28/denos-decline/)
-* [2025-05-01, 16:16:10](https://lobste.rs/s/1cpl6v/redis_is_open_source_again) - [Redis is open source again](https://antirez.com/news/151)
 
 ## [Archives](archives/index.md)
 
