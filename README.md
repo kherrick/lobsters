@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-03, 19:22:14](https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby) - [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 * [2025-05-03, 18:21:34](https://lobste.rs/s/ay0jkc/progressive_dehancement) - [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
 * [2025-05-03, 18:01:02](https://lobste.rs/s/jk7lxs/alpine_js_alternative) - [Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
 * [2025-05-03, 13:35:17](https://lobste.rs/s/qx04lr/lora_lora_faff) - [A LoRa LoRa Faff](https://planb.nicecupoftea.org/2025/04/29/a-lora-lora-faff/)
 * [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
 * [2025-05-03, 12:58:29](https://lobste.rs/s/mlromb/epub_utils_python_cli_utility_library_for) - [epub-utils: A Python CLI and utility library for manipulating EPUB files](https://github.com/ernestofgonzalez/epub-utils)
 * [2025-05-03, 11:52:13](https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd) - [Post-Quantum Cryptography on NetBSD](https://www.netmeister.org/blog/netbsd-pqc.html)
-* [2025-05-03, 09:38:40](https://lobste.rs/s/eebdvu/using_c_type_aliasing_avoid_odr_problem) - [Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1](https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134)
 * [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 * [2025-05-03, 06:41:13](https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend)
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)

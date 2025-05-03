@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 19:22:14](https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby) - [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 * [2025-05-03, 18:21:34](https://lobste.rs/s/ay0jkc/progressive_dehancement) - [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
 * [2025-05-03, 18:01:02](https://lobste.rs/s/jk7lxs/alpine_js_alternative) - [Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
 * [2025-05-03, 13:35:17](https://lobste.rs/s/qx04lr/lora_lora_faff) - [A LoRa LoRa Faff](https://planb.nicecupoftea.org/2025/04/29/a-lora-lora-faff/)
