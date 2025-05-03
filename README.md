@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-03, 03:36:01](https://lobste.rs/s/4e4fp7/progressive_enhancement_is_moral) - [Progressive enhancement is a moral argument](https://web.archive.org/web/20220316060312/https://whalecoiner.com/articles/progressive-enhancement)
 * [2025-05-03, 02:17:23](https://lobste.rs/s/qoebwd/gitdroid_third_party_android_app_manager) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 * [2025-05-02, 23:27:47](https://lobste.rs/s/harp4z/java_strings_just_got_faster) - [Java Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 * [2025-05-02, 22:25:22](https://lobste.rs/s/avzgat/kate_python_language_server) - [Kate and Python language server](https://akselmo.dev/posts/kate-python-lsp/)
@@ -24,7 +25,6 @@
 * [2025-05-02, 02:15:12](https://lobste.rs/s/67ijih/day_anubis_saved_our_websites_from_ddos) - [The Day Anubis Saved Our Websites From a DDoS Attack](https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/)
 * [2025-05-01, 22:46:45](https://lobste.rs/s/psklqi/deno_s_decline_6_regions_falling) - [Deno’s Decline (6 Regions and Falling)](https://dbushell.com/2025/04/28/denos-decline/)
 * [2025-05-01, 16:16:10](https://lobste.rs/s/1cpl6v/redis_is_open_source_again) - [Redis is open source again](https://antirez.com/news/151)
-* [2025-05-01, 14:23:03](https://lobste.rs/s/ctenw6/e_book_reader_for_e_ink_devices) - [E-book reader for e-ink devices](https://github.com/koreader/koreader)
 
 ## [Archives](archives/index.md)
 
