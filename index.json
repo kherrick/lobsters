@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-03, 11:52:13",
+      "https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd"
+    ],
+    [
+      "Post-Quantum Cryptography on NetBSD",
+      "https://www.netmeister.org/blog/netbsd-pqc.html"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 09:38:40",
       "https://lobste.rs/s/eebdvu/using_c_type_aliasing_avoid_odr_problem"
     ],
@@ -137,16 +147,6 @@
     [
       "A Full-Network ATProto Relay for $34 a Month",
       "https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 17:36:54",
-      "https://lobste.rs/s/dsczpg/prompt_chaining_reimagined_with_type"
-    ],
-    [
-      "Prompt chaining reimagined with type inference",
-      "https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.html"
     ]
   ],
   [
