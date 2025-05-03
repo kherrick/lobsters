@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-03, 19:22:14",
+      "https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby"
+    ],
+    [
+      "Contributions to ruby/spec by Ruby implementation",
+      "https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 18:21:34",
       "https://lobste.rs/s/ay0jkc/progressive_dehancement"
     ],
@@ -57,16 +67,6 @@
     [
       "Post-Quantum Cryptography on NetBSD",
       "https://www.netmeister.org/blog/netbsd-pqc.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 09:38:40",
-      "https://lobste.rs/s/eebdvu/using_c_type_aliasing_avoid_odr_problem"
-    ],
-    [
-      "Using C++ type aliasing to avoid the ODR problem with conditional compilation, part 1",
-      "https://devblogs.microsoft.com/oldnewthing/20250501-00/?p=111134"
     ]
   ],
   [
