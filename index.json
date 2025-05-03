@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-03, 07:01:55",
+      "https://lobste.rs/s/zlgfiy/circuitpainter_create_pcbs_using"
+    ],
+    [
+      "circuitpainter: Create PCBs using a simplfiied graphics language",
+      "https://github.com/Blinkinlabs/circuitpainter"
+    ]
+  ],
+  [
+    [
       "2025-05-03, 06:41:13",
       "https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend"
     ],
@@ -37,16 +47,6 @@
     [
       "Stop treating `AGI' as the north-star goal of AI research",
       "https://arxiv.org/abs/2502.03689"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 02:17:23",
-      "https://lobste.rs/s/qoebwd/gitdroid_third_party_android_app_manager"
-    ],
-    [
-      "GitDroid: A third party Android app manager for apps uploaded to GitHub releases",
-      "https://github.com/TechnicJelle/GitDroid"
     ]
   ],
   [
