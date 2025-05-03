@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 22:55:24](https://lobste.rs/s/tydkji/gorgeous_grub_collection_decent) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 21:32:41](https://lobste.rs/s/x3dflu/better_man_page_viewer) - [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
 * [2025-05-03, 21:11:14](https://lobste.rs/s/lz3jko/how_we_fell_out_love_with_next_js_back_love) - [How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js - Hardcover Blog](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
 * [2025-05-03, 20:37:45](https://lobste.rs/s/uykgta/understanding_j_introduction_j) - [understanding-j: An introduction to the J programming language that gets to the point](https://github.com/bugsbugsbux/understanding-j)
