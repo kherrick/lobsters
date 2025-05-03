@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-03](index.md)
 
+* [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 * [2025-05-03, 07:01:55](https://lobste.rs/s/zlgfiy/circuitpainter_create_pcbs_using) - [circuitpainter: Create PCBs using a simplfiied graphics language](https://github.com/Blinkinlabs/circuitpainter)
 * [2025-05-03, 06:41:13](https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend)
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)

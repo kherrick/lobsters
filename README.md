@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 * [2025-05-03, 07:01:55](https://lobste.rs/s/zlgfiy/circuitpainter_create_pcbs_using) - [circuitpainter: Create PCBs using a simplfiied graphics language](https://github.com/Blinkinlabs/circuitpainter)
 * [2025-05-03, 06:41:13](https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1m6hnb/what_are_you_doing_this_weekend)
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
@@ -13,7 +14,6 @@
 * [2025-05-02, 18:01:12](https://lobste.rs/s/jnleid/starting_on_seamless_c_interop_jank) - [Starting on seamless C++ interop in jank](https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/)
 * [2025-05-02, 17:39:00](https://lobste.rs/s/z4bimm/full_network_atproto_relay_for_34_month) - [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
 * [2025-05-02, 17:36:54](https://lobste.rs/s/dsczpg/prompt_chaining_reimagined_with_type) - [Prompt chaining reimagined with type inference](https://www.haskellforall.com/2025/05/prompt-chaining-reimagined-with-type_2.html)
-* [2025-05-02, 16:08:41](https://lobste.rs/s/b2itx4/reading_zanzibar) - [Reading Zanzibar](https://macwright.com/2025/05/02/reading-zanzibar)
 * [2025-05-02, 15:14:45](https://lobste.rs/s/wt6rqx/cost_poison) - [The cost of poison](https://chronicles.mad-scientist.club/tales/the-cost-of-poison/)
 * [2025-05-02, 13:45:08](https://lobste.rs/s/utekbr/rye_principles) - [Rye principles](https://ryelang.org/#rye-principles)
 * [2025-05-02, 13:24:16](https://lobste.rs/s/bifofa/common_lisp_jq_replacement) - [A Common Lisp jq replacement](https://world-playground-deceit.net/blog/2025/03/a-common-lisp-jq-replacement.html)
