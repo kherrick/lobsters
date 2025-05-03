@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-03, 04:22:56](https://lobste.rs/s/kfadjc/stop_treating_agi_as_north_star_goal_ai) - [Stop treating `AGI' as the north-star goal of AI research](https://arxiv.org/abs/2502.03689)
 * [2025-05-03, 03:36:01](https://lobste.rs/s/4e4fp7/progressive_enhancement_is_moral) - [Progressive enhancement is a moral argument (2016)](https://web.archive.org/web/20220316060312/https://whalecoiner.com/articles/progressive-enhancement)
-* [2025-05-03, 02:17:23](https://lobste.rs/s/qoebwd/gitdroid_third_party_android_app_manager) - [GitDroid: A third party Android app manager for apps uploaded to GitHub releases](https://github.com/TechnicJelle/GitDroid)
 * [2025-05-02, 23:27:47](https://lobste.rs/s/harp4z/java_strings_just_got_faster) - [Java Strings Just Got Faster](https://inside.java/2025/05/01/strings-just-got-faster/)
 * [2025-05-02, 22:25:22](https://lobste.rs/s/avzgat/kate_python_language_server) - [Kate and Python language server](https://akselmo.dev/posts/kate-python-lsp/)
 * [2025-05-02, 22:06:30](https://lobste.rs/s/ilmhdr/cross_platform_software_development_yes) - [Cross-Platform Software Development – Yes, Bytes Can Be 9 Bits](https://old.reddit.com/r/aethernet/comments/1kd79g7/crossplatform_software_development_part_1_yes/)
