@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 14:50:10",
+      "https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed"
+    ],
+    [
+      "Filtering GitHub actions by changed files",
+      "https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 12:26:39",
       "https://lobste.rs/s/xe7pss/spfresh_incremental_place_update_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Stop treating `AGI' as the north-star goal of AI research",
       "https://arxiv.org/abs/2502.03689"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 13:45:08",
-      "https://lobste.rs/s/utekbr/rye_principles"
-    ],
-    [
-      "Rye principles",
-      "https://ryelang.org/#rye-principles"
     ]
   ]
 ]
