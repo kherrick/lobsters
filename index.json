@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 11:32:48",
+      "https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport"
+    ],
+    [
+      "RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication",
+      "https://www.rfc-editor.org/rfc/rfc5081.html"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 10:58:00",
       "https://lobste.rs/s/oyyrx0/new_go_garbage_collector"
     ],
@@ -177,16 +187,6 @@
     [
       "Progressive Dehancement",
       "https://dbushell.com/2025/05/02/progressive-dehancement/"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 18:01:02",
-      "https://lobste.rs/s/jk7lxs/alpine_js_alternative"
-    ],
-    [
-      "Alpine.js Alternative",
-      "https://dev.to/hmpljs/best-alpinejs-alternative-2hme"
     ]
   ],
   [
