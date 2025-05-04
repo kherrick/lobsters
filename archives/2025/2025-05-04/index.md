@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 11:32:48](https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport) - [RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://www.rfc-editor.org/rfc/rfc5081.html)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
 * [2025-05-04, 09:17:21](https://lobste.rs/s/0qpa2n/kangaroo_new_flash_cache_optimized_for) - [Kangaroo: A new flash cache optimized for tiny objects [2021]](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)

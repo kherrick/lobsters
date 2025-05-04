@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 11:32:48](https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport) - [RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://www.rfc-editor.org/rfc/rfc5081.html)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
 * [2025-05-04, 09:17:21](https://lobste.rs/s/0qpa2n/kangaroo_new_flash_cache_optimized_for) - [Kangaroo: A new flash cache optimized for tiny objects [2021]](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
@@ -18,7 +19,6 @@
 * [2025-05-03, 20:37:45](https://lobste.rs/s/uykgta/understanding_j_introduction_j) - [understanding-j: An introduction to the J programming language that gets to the point](https://github.com/bugsbugsbux/understanding-j)
 * [2025-05-03, 19:22:14](https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby) - [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 * [2025-05-03, 18:21:34](https://lobste.rs/s/ay0jkc/progressive_dehancement) - [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
-* [2025-05-03, 18:01:02](https://lobste.rs/s/jk7lxs/alpine_js_alternative) - [Alpine.js Alternative](https://dev.to/hmpljs/best-alpinejs-alternative-2hme)
 * [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
 * [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
