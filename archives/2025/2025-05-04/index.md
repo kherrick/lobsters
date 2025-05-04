@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 17:51:25](https://lobste.rs/s/oghly2/ai_at_edge_architecture_benefits) - [AI at the Edge: Architecture, Benefits and Tradeoffs](https://thenewstack.io/ai-at-the-edge-architecture-benefits-and-tradeoffs/)
 * [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole_den_delimarsky) - [The Beauty Of Having A Pi-hole · Den Delimarsky](https://den.dev/blog/pihole/)
 * [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 16:17:27](https://lobste.rs/s/bewm0n/debugging_logic_circuit_idp_z3) - [Debugging a Logic Circuit in IDP-Z3](https://simonvandevelde.be/posts/Debugging_a_Logic_Circuit_in_IDP-Z3.html)
