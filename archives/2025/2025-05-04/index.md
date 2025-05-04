@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 16:17:27](https://lobste.rs/s/bewm0n/debugging_logic_circuit_idp_z3) - [Debugging a Logic Circuit in IDP-Z3](https://simonvandevelde.be/posts/Debugging_a_Logic_Circuit_in_IDP-Z3.html)
+* [2025-05-04, 15:59:11](https://lobste.rs/s/iulans/stringly_typed) - [Stringly Typed](https://www.stefanjudis.com/blog/stringly-typed/)
+* [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_feather_web_framework_skips_rust) - [feather: Feather🪶: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
 * [2025-05-04, 15:33:41](https://lobste.rs/s/m65t5p/site_for_making_bots_for_fediverse) - [a site for making bots for the fediverse](https://fedibot.club)
 * [2025-05-04, 15:20:25](https://lobste.rs/s/euv4fr/functional_html) - [Functional HTML](https://overreacted.io/functional-html/)
 * [2025-05-04, 14:59:56](https://lobste.rs/s/9tnx49/anemll_artificial_neural_engine_machine) - [Anemll: Artificial Neural Engine Machine Learning Library](https://github.com/Anemll/Anemll)
