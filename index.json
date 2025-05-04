@@ -42,10 +42,10 @@
   [
     [
       "2025-05-04, 17:22:50",
-      "https://lobste.rs/s/tjbv1p/beauty_having_pi_hole_den_delimarsky"
+      "https://lobste.rs/s/tjbv1p/beauty_having_pi_hole"
     ],
     [
-      "The Beauty Of Having A Pi-hole · Den Delimarsky",
+      "The Beauty Of Having A Pi-hole",
       "https://den.dev/blog/pihole/"
     ]
   ],
@@ -97,16 +97,6 @@
     [
       "Filtering GitHub actions by changed files",
       "https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 12:26:39",
-      "https://lobste.rs/s/xe7pss/spfresh_incremental_place_update_for"
-    ],
-    [
-      "SPFresh: Incremental In-Place Update for Billion-Scale Vector Search",
-      "https://arxiv.org/abs/2410.14452"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "A Better Man Page Viewer",
       "https://www.visualmode.dev/a-better-man-page-viewer"
+    ]
+  ],
+  [
+    [
+      "2025-05-03, 19:22:14",
+      "https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby"
+    ],
+    [
+      "Contributions to ruby/spec by Ruby implementation",
+      "https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html"
     ]
   ],
   [
