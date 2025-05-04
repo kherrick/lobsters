@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 09:17:21](https://lobste.rs/s/0qpa2n/kangaroo_new_flash_cache_optimized_for) - [Kangaroo: A new flash cache optimized for tiny objects [2021]](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-04, 07:25:54](https://lobste.rs/s/wrbf0r/mathml_with_pandoc) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-04, 07:22:44](https://lobste.rs/s/0cmy6t/simple_common_lisp_web_app) - [A simple Common Lisp web app](https://www.scotto.me/blog/a-simple-common-lisp-web-app/)
 * [2025-05-04, 07:22:36](https://lobste.rs/s/ebsgja/postgresql_planner_gotcha_with_ctes) - [A PostgreSQL planner gotcha with CTEs DELETE and LIMIT](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)

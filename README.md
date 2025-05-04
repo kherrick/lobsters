@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 09:17:21](https://lobste.rs/s/0qpa2n/kangaroo_new_flash_cache_optimized_for) - [Kangaroo: A new flash cache optimized for tiny objects [2021]](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-04, 07:25:54](https://lobste.rs/s/wrbf0r/mathml_with_pandoc) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-04, 07:22:44](https://lobste.rs/s/0cmy6t/simple_common_lisp_web_app) - [A simple Common Lisp web app](https://www.scotto.me/blog/a-simple-common-lisp-web-app/)
 * [2025-05-04, 07:22:36](https://lobste.rs/s/ebsgja/postgresql_planner_gotcha_with_ctes) - [A PostgreSQL planner gotcha with CTEs DELETE and LIMIT](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
@@ -22,7 +23,6 @@
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 * [2025-05-03, 04:22:56](https://lobste.rs/s/kfadjc/stop_treating_agi_as_north_star_goal_ai) - [Stop treating `AGI' as the north-star goal of AI research](https://arxiv.org/abs/2502.03689)
 * [2025-05-02, 18:48:05](https://lobste.rs/s/qmhxwf/seeking_answer_why_can_t_html_alone_do) - [Seeking an Answer: Why can’t HTML alone do includes?](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/)
-* [2025-05-02, 18:01:12](https://lobste.rs/s/jnleid/starting_on_seamless_c_interop_jank) - [Starting on seamless C++ interop in jank](https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/)
 * [2025-05-02, 13:45:08](https://lobste.rs/s/utekbr/rye_principles) - [Rye principles](https://ryelang.org/#rye-principles)
 * [2025-05-02, 10:45:46](https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj) - [What I’ve learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 
