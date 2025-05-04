@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 18:20:24](https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2025-05-04, 17:51:25](https://lobste.rs/s/oghly2/ai_at_edge_architecture_benefits) - [AI at the Edge: Architecture, Benefits and Tradeoffs](https://thenewstack.io/ai-at-the-edge-architecture-benefits-and-tradeoffs/)
 * [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole_den_delimarsky) - [The Beauty Of Having A Pi-hole · Den Delimarsky](https://den.dev/blog/pihole/)
 * [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
@@ -23,7 +24,6 @@
 * [2025-05-03, 19:22:14](https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby) - [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 * [2025-05-03, 18:21:34](https://lobste.rs/s/ay0jkc/progressive_dehancement) - [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
 * [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)
-* [2025-05-03, 09:24:41](https://lobste.rs/s/iwedy4/don_t_make_google_sell_chrome) - [Don't make Google sell Chrome](https://world.hey.com/dhh/don-t-make-google-sell-chrome-93cefbc6)
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 
 ## [Archives](archives/index.md)
