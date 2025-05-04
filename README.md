@@ -9,7 +9,7 @@
 * [2025-05-04, 18:20:24](https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole) - [The Beauty Of Having A Pi-hole](https://den.dev/blog/pihole/)
 * [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
-* [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_feather_web_framework_skips_rust) - [feather: Feather🪶: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
+* [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_web_framework_skips_rust_s_async) - [Feather: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
 * [2025-05-04, 15:33:41](https://lobste.rs/s/m65t5p/site_for_making_bots_for_fediverse) - [a site for making bots for the fediverse](https://fedibot.club)
 * [2025-05-04, 15:20:25](https://lobste.rs/s/euv4fr/functional_html) - [Functional HTML](https://overreacted.io/functional-html/)
 * [2025-05-04, 14:50:10](https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed) - [Filtering GitHub actions by changed files](https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html)
