@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 15:33:41](https://lobste.rs/s/m65t5p/site_for_making_bots_for_fediverse) - [a site for making bots for the fediverse](https://fedibot.club)
 * [2025-05-04, 15:20:25](https://lobste.rs/s/euv4fr/functional_html) - [Functional HTML](https://overreacted.io/functional-html/)
 * [2025-05-04, 14:59:56](https://lobste.rs/s/9tnx49/anemll_artificial_neural_engine_machine) - [Anemll: Artificial Neural Engine Machine Learning Library](https://github.com/Anemll/Anemll)
 * [2025-05-04, 14:50:10](https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed) - [Filtering GitHub actions by changed files](https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html)
@@ -7,7 +8,6 @@
 * [2025-05-04, 11:32:48](https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport) - [RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://www.rfc-editor.org/rfc/rfc5081.html)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
-* [2025-05-04, 09:17:21](https://lobste.rs/s/0qpa2n/kangaroo_new_flash_cache_optimized_for) - [Kangaroo: A new flash cache optimized for tiny objects [2021]](https://engineering.fb.com/2021/10/26/core-infra/kangaroo/)
 * [2025-05-04, 07:25:54](https://lobste.rs/s/wrbf0r/mathml_with_pandoc) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-04, 07:22:44](https://lobste.rs/s/0cmy6t/simple_common_lisp_web_app) - [A simple Common Lisp web app](https://www.scotto.me/blog/a-simple-common-lisp-web-app/)
 * [2025-05-04, 07:22:36](https://lobste.rs/s/ebsgja/postgresql_planner_gotcha_with_ctes) - [A PostgreSQL planner gotcha with CTEs DELETE and LIMIT](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 15:33:41](https://lobste.rs/s/m65t5p/site_for_making_bots_for_fediverse) - [a site for making bots for the fediverse](https://fedibot.club)
 * [2025-05-04, 15:20:25](https://lobste.rs/s/euv4fr/functional_html) - [Functional HTML](https://overreacted.io/functional-html/)
 * [2025-05-04, 14:59:56](https://lobste.rs/s/9tnx49/anemll_artificial_neural_engine_machine) - [Anemll: Artificial Neural Engine Machine Learning Library](https://github.com/Anemll/Anemll)
 * [2025-05-04, 14:50:10](https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed) - [Filtering GitHub actions by changed files](https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html)
