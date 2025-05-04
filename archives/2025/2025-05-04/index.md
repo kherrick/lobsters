@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 21:47:17](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 21:05:02](https://lobste.rs/s/08nzki/moving_beyond_containers_introducing) - [Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling's Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
