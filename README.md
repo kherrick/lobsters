@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 04:29:37](https://lobste.rs/s/td6ttp/dying_for_beauty) - [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
 * [2025-05-04, 01:57:17](https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 * [2025-05-04, 01:44:42](https://lobste.rs/s/ibye1k/wide_models_active_record_custom) - [Wide Models and Active Record custom validation contexts](https://island94.org/2025/04/wide-models-and-active-record-custom-validation-contexts)
 * [2025-05-04, 00:58:34](https://lobste.rs/s/0tguca/refactoring_rhythm) - [Refactoring Rhythm](https://choly.ca/post/refactor-rhythm/)
@@ -23,7 +24,6 @@
 * [2025-05-02, 18:01:12](https://lobste.rs/s/jnleid/starting_on_seamless_c_interop_jank) - [Starting on seamless C++ interop in jank](https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/)
 * [2025-05-02, 17:39:00](https://lobste.rs/s/z4bimm/full_network_atproto_relay_for_34_month) - [A Full-Network ATProto Relay for $34 a Month](https://whtwnd.com/bnewbold.net/3lo7a2a4qxg2l)
 * [2025-05-02, 13:45:08](https://lobste.rs/s/utekbr/rye_principles) - [Rye principles](https://ryelang.org/#rye-principles)
-* [2025-05-02, 12:59:18](https://lobste.rs/s/9jn3jg/reflecting_on_year_gamedev_zig) - [Reflecting on a year of Gamedev in Zig](https://bgthompson.codeberg.page/blog/one-year-zig-gamedev-reflections/)
 * [2025-05-02, 10:45:46](https://lobste.rs/s/ljtwfv/what_i_ve_learned_from_jj) - [What I’ve learned from jj](https://zerowidth.com/2025/what-ive-learned-from-jj/)
 
 ## [Archives](archives/index.md)
