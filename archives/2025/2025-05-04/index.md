@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 12:26:39](https://lobste.rs/s/xe7pss/spfresh_incremental_place_update_for) - [SPFresh: Incremental In-Place Update for Billion-Scale Vector Search](https://arxiv.org/abs/2410.14452)
 * [2025-05-04, 11:32:48](https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport) - [RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://www.rfc-editor.org/rfc/rfc5081.html)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
