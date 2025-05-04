@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-04, 01:57:17",
+      "https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb"
+    ],
+    [
+      "What went wrong with wireless USB",
+      "http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 01:44:42",
+      "https://lobste.rs/s/ibye1k/wide_models_active_record_custom"
+    ],
+    [
+      "Wide Models and Active Record custom validation contexts",
+      "https://island94.org/2025/04/wide-models-and-active-record-custom-validation-contexts"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 00:58:34",
+      "https://lobste.rs/s/0tguca/refactoring_rhythm"
+    ],
+    [
+      "Refactoring Rhythm",
+      "https://choly.ca/post/refactor-rhythm/"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 00:49:38",
       "https://lobste.rs/s/gwlxu1/hello_my_perverted_friend"
     ],
@@ -35,7 +65,7 @@
       "https://lobste.rs/s/lz3jko/how_we_fell_out_love_with_next_js_back_love"
     ],
     [
-      "How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js - Hardcover Blog",
+      "How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js",
       "https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Alpine.js Alternative",
       "https://dev.to/hmpljs/best-alpinejs-alternative-2hme"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 13:35:17",
-      "https://lobste.rs/s/qx04lr/lora_lora_faff"
-    ],
-    [
-      "A LoRa LoRa Faff",
-      "https://planb.nicecupoftea.org/2025/04/29/a-lora-lora-faff/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-02, 22:25:22",
-      "https://lobste.rs/s/avzgat/kate_python_language_server"
-    ],
-    [
-      "Kate and Python language server",
-      "https://akselmo.dev/posts/kate-python-lsp/"
-    ]
-  ],
-  [
-    [
       "2025-05-02, 18:48:05",
       "https://lobste.rs/s/qmhxwf/seeking_answer_why_can_t_html_alone_do"
     ],
@@ -237,16 +247,6 @@
     [
       "What I’ve learned from jj",
       "https://zerowidth.com/2025/what-ive-learned-from-jj/"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 02:15:12",
-      "https://lobste.rs/s/67ijih/day_anubis_saved_our_websites_from_ddos"
-    ],
-    [
-      "The Day Anubis Saved Our Websites From a DDoS Attack",
-      "https://fabulous.systems/posts/2025/05/anubis-saved-our-websites-from-a-ddos-attack/"
     ]
   ]
 ]
