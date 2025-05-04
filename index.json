@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 09:17:21",
+      "https://lobste.rs/s/0qpa2n/kangaroo_new_flash_cache_optimized_for"
+    ],
+    [
+      "Kangaroo: A new flash cache optimized for tiny objects [2021]",
+      "https://engineering.fb.com/2021/10/26/core-infra/kangaroo/"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 07:25:54",
       "https://lobste.rs/s/wrbf0r/mathml_with_pandoc"
     ],
@@ -217,16 +227,6 @@
     [
       "Seeking an Answer: Why can’t HTML alone do includes?",
       "https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/"
-    ]
-  ],
-  [
-    [
-      "2025-05-02, 18:01:12",
-      "https://lobste.rs/s/jnleid/starting_on_seamless_c_interop_jank"
-    ],
-    [
-      "Starting on seamless C++ interop in jank",
-      "https://jank-lang.org/blog/2025-05-02-starting-seamless-interop/"
     ]
   ],
   [
