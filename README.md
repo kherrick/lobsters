@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 19:17:03](https://lobste.rs/s/yklcli/git_with_me_peer_peer_encrypted_ephemeral) - [Git With Me: Peer-to-peer, encrypted, ephemeral Git collaboration](https://sr.ht/~meejah/git-withme/)
 * [2025-05-04, 18:20:24](https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
-* [2025-05-04, 17:51:25](https://lobste.rs/s/oghly2/ai_at_edge_architecture_benefits) - [AI at the Edge: Architecture, Benefits and Tradeoffs](https://thenewstack.io/ai-at-the-edge-architecture-benefits-and-tradeoffs/)
 * [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole_den_delimarsky) - [The Beauty Of Having A Pi-hole · Den Delimarsky](https://den.dev/blog/pihole/)
 * [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_feather_web_framework_skips_rust) - [feather: Feather🪶: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
