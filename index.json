@@ -92,10 +92,10 @@
   [
     [
       "2025-05-04, 15:59:00",
-      "https://lobste.rs/s/km7sp9/feather_feather_web_framework_skips_rust"
+      "https://lobste.rs/s/km7sp9/feather_web_framework_skips_rust_s_async"
     ],
     [
-      "feather: Feather🪶: A web framework that skips Rust’s async boilerplate and just works",
+      "Feather: A web framework that skips Rust’s async boilerplate and just works",
       "https://github.com/BersisSe/feather"
     ]
   ],
