@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-04, 21:08:06",
+      "https://lobste.rs/s/embsi9/load_store_conflicts"
+    ],
+    [
+      "Load-store conflicts",
+      "https://zeux.io/2025/05/03/load-store-conflicts/"
+    ]
+  ],
+  [
+    [
+      "2025-05-04, 21:05:02",
+      "https://lobste.rs/s/08nzki/moving_beyond_containers_introducing"
+    ],
+    [
+      "Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025",
+      "https://www.youtube.com/watch?v=rHOwhkHv21U"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 20:34:40",
       "https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-05-04, 07:25:54",
-      "https://lobste.rs/s/wrbf0r/mathml_with_pandoc"
-    ],
-    [
-      "MathML with Pandoc",
-      "https://leancrew.com/all-this/2025/05/mathml-with-pandoc/"
-    ]
-  ],
-  [
-    [
       "2025-05-04, 07:22:44",
       "https://lobste.rs/s/0cmy6t/simple_common_lisp_web_app"
     ],
@@ -217,16 +227,6 @@
     [
       "A Better Man Page Viewer",
       "https://www.visualmode.dev/a-better-man-page-viewer"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 19:22:14",
-      "https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby"
-    ],
-    [
-      "Contributions to ruby/spec by Ruby implementation",
-      "https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html"
     ]
   ],
   [
