@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 16:17:27](https://lobste.rs/s/bewm0n/debugging_logic_circuit_idp_z3) - [Debugging a Logic Circuit in IDP-Z3](https://simonvandevelde.be/posts/Debugging_a_Logic_Circuit_in_IDP-Z3.html)
 * [2025-05-04, 15:59:11](https://lobste.rs/s/iulans/stringly_typed) - [Stringly Typed](https://www.stefanjudis.com/blog/stringly-typed/)
 * [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_feather_web_framework_skips_rust) - [feather: Feather🪶: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
@@ -19,7 +20,6 @@
 * [2025-05-04, 00:49:38](https://lobste.rs/s/gwlxu1/hello_my_perverted_friend) - [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html)
 * [2025-05-03, 22:55:24](https://lobste.rs/s/tydkji/gorgeous_grub_collection_decent) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 21:32:41](https://lobste.rs/s/x3dflu/better_man_page_viewer) - [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
-* [2025-05-03, 21:11:14](https://lobste.rs/s/lz3jko/how_we_fell_out_love_with_next_js_back_love) - [How We Fell Out of Love with Next.js and Back in Love with Ruby on Rails & Inertia.js](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js)
 * [2025-05-03, 19:22:14](https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby) - [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 * [2025-05-03, 18:21:34](https://lobste.rs/s/ay0jkc/progressive_dehancement) - [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
 * [2025-05-03, 13:00:31](https://lobste.rs/s/toieoc/jj_tips_tricks) - [jj tips and tricks](https://zerowidth.com/2025/jj-tips-and-tricks/)

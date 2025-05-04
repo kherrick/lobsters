@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
 * [2025-05-04, 16:17:27](https://lobste.rs/s/bewm0n/debugging_logic_circuit_idp_z3) - [Debugging a Logic Circuit in IDP-Z3](https://simonvandevelde.be/posts/Debugging_a_Logic_Circuit_in_IDP-Z3.html)
 * [2025-05-04, 15:59:11](https://lobste.rs/s/iulans/stringly_typed) - [Stringly Typed](https://www.stefanjudis.com/blog/stringly-typed/)
 * [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_feather_web_framework_skips_rust) - [feather: Feather🪶: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
