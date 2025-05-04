@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-04](index.md)
 
+* [2025-05-04, 19:53:59](https://lobste.rs/s/iu01xj/you_can_t_prevent_your_last_outage_no) - [You can’t prevent your last outage, no matter how hard you try](https://surfingcomplexity.blog/2025/05/04/you-cant-prevent-your-last-outage-no-matter-how-hard-you-try/)
 * [2025-05-04, 19:17:03](https://lobste.rs/s/yklcli/git_with_me_peer_peer_encrypted_ephemeral) - [Git With Me: Peer-to-peer, encrypted, ephemeral Git collaboration](https://sr.ht/~meejah/git-withme/)
 * [2025-05-04, 18:20:24](https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode](https://austinhenley.com/blog/firstswiftproject.html)
 * [2025-05-04, 17:51:25](https://lobste.rs/s/oghly2/ai_at_edge_architecture_benefits) - [AI at the Edge: Architecture, Benefits and Tradeoffs](https://thenewstack.io/ai-at-the-edge-architecture-benefits-and-tradeoffs/)
