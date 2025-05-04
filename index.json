@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-04, 06:13:43",
+      "https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000"
+    ],
+    [
+      "Single day Firebase bill for $100,000",
+      "https://serverlesshorrors.com/all/firebase-100k/"
+    ]
+  ],
+  [
+    [
       "2025-05-04, 04:29:37",
       "https://lobste.rs/s/td6ttp/dying_for_beauty"
     ],
@@ -137,16 +147,6 @@
     [
       "epub-utils: A Python CLI and utility library for manipulating EPUB files",
       "https://github.com/ernestofgonzalez/epub-utils"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 11:52:13",
-      "https://lobste.rs/s/j03wkv/post_quantum_cryptography_on_netbsd"
-    ],
-    [
-      "Post-Quantum Cryptography on NetBSD",
-      "https://www.netmeister.org/blog/netbsd-pqc.html"
     ]
   ],
   [
