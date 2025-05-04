@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
+* [2025-05-04, 21:05:02](https://lobste.rs/s/08nzki/moving_beyond_containers_introducing) - [Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling's Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
 * [2025-05-04, 19:53:59](https://lobste.rs/s/iu01xj/you_can_t_prevent_your_last_outage_no) - [You can’t prevent your last outage, no matter how hard you try](https://surfingcomplexity.blog/2025/05/04/you-cant-prevent-your-last-outage-no-matter-how-hard-you-try/)
 * [2025-05-04, 19:17:03](https://lobste.rs/s/yklcli/git_with_me_peer_peer_encrypted_ephemeral) - [Git With Me: Peer-to-peer, encrypted, ephemeral Git collaboration](https://sr.ht/~meejah/git-withme/)
@@ -13,7 +15,6 @@
 * [2025-05-04, 11:32:48](https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport) - [RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication](https://www.rfc-editor.org/rfc/rfc5081.html)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
-* [2025-05-04, 07:25:54](https://lobste.rs/s/wrbf0r/mathml_with_pandoc) - [MathML with Pandoc](https://leancrew.com/all-this/2025/05/mathml-with-pandoc/)
 * [2025-05-04, 07:22:44](https://lobste.rs/s/0cmy6t/simple_common_lisp_web_app) - [A simple Common Lisp web app](https://www.scotto.me/blog/a-simple-common-lisp-web-app/)
 * [2025-05-04, 07:22:36](https://lobste.rs/s/ebsgja/postgresql_planner_gotcha_with_ctes) - [A PostgreSQL planner gotcha with CTEs DELETE and LIMIT](https://www.shayon.dev/post/2025/119/a-postgresql-planner-gotcha-with-ctes-delete-and-limit/)
 * [2025-05-04, 06:13:43](https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000) - [Single day Firebase bill for $100,000](https://serverlesshorrors.com/all/firebase-100k/)
@@ -22,7 +23,6 @@
 * [2025-05-04, 00:49:38](https://lobste.rs/s/gwlxu1/hello_my_perverted_friend) - [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html)
 * [2025-05-03, 22:55:24](https://lobste.rs/s/tydkji/gorgeous_grub_collection_decent) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 21:32:41](https://lobste.rs/s/x3dflu/better_man_page_viewer) - [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
-* [2025-05-03, 19:22:14](https://lobste.rs/s/pbsast/contributions_ruby_spec_by_ruby) - [Contributions to ruby/spec by Ruby implementation](https://eregon.me/blog/2025/05/03/contributions-to-ruby-spec.html)
 * [2025-05-03, 18:21:34](https://lobste.rs/s/ay0jkc/progressive_dehancement) - [Progressive Dehancement](https://dbushell.com/2025/05/02/progressive-dehancement/)
 * [2025-05-03, 06:26:26](https://lobste.rs/s/gz5x1z/replacing_kubernetes_with_systemd_2024) - [Replacing Kubernetes with systemd (2024)](https://blog.yaakov.online/replacing-kubernetes-with-systemd/)
 
