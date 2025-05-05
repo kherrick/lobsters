@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-05, 07:24:06](https://lobste.rs/s/yggamf/fuzzing_with_grammars) - [Fuzzing with Grammars](https://www.fuzzingbook.org/html/Grammars.html)
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 02:41:08](https://lobste.rs/s/vv8azf/ibeacons) - [iBeacons](https://computer.rip/2025-05-04-iBeacons.html)
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
@@ -22,7 +23,6 @@
 * [2025-05-04, 06:13:43](https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000) - [Single day Firebase bill for $100,000](https://serverlesshorrors.com/all/firebase-100k/)
 * [2025-05-04, 04:29:37](https://lobste.rs/s/td6ttp/dying_for_beauty) - [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
 * [2025-05-04, 01:57:17](https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
-* [2025-05-04, 00:49:38](https://lobste.rs/s/gwlxu1/hello_my_perverted_friend) - [Hello my perverted friend](https://hackerfactor.com/blog/index.php?/archives/1066-Hello-my-perverted-friend.html)
 * [2025-05-03, 22:55:24](https://lobste.rs/s/tydkji/gorgeous_grub_collection_decent) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 21:32:41](https://lobste.rs/s/x3dflu/better_man_page_viewer) - [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
 
