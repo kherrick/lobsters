@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-05, 16:07:52](https://lobste.rs/s/9oywn7/v8_javascript_engine_gets_eager) - [V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?](https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/)
 * [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
 * [2025-05-05, 10:10:36](https://lobste.rs/s/okbblr/stop_fighting_your_ros_2_environment) - [Stop Fighting Your ROS 2 Environment: Build Faster, Reproducibly, Anywhere](https://index.0x77.dev/blog/ros-devenv)
@@ -12,7 +13,6 @@
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling's Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
 * [2025-05-04, 19:53:59](https://lobste.rs/s/iu01xj/you_can_t_prevent_your_last_outage_no) - [You can’t prevent your last outage, no matter how hard you try](https://surfingcomplexity.blog/2025/05/04/you-cant-prevent-your-last-outage-no-matter-how-hard-you-try/)
-* [2025-05-04, 19:17:03](https://lobste.rs/s/yklcli/git_with_me_peer_peer_encrypted_ephemeral) - [Git With Me: Peer-to-peer, encrypted, ephemeral Git collaboration](https://sr.ht/~meejah/git-withme/)
 * [2025-05-04, 18:20:24](https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode (2023)](https://austinhenley.com/blog/firstswiftproject.html)
 * [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole) - [The Beauty Of Having A Pi-hole](https://den.dev/blog/pihole/)
 * [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
