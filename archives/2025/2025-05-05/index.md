@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
 * [2025-05-05, 10:10:36](https://lobste.rs/s/okbblr/stop_fighting_your_ros_2_environment) - [Stop Fighting Your ROS 2 Environment: Build Faster, Reproducibly, Anywhere](https://index.0x77.dev/blog/ros-devenv)
 * [2025-05-05, 09:58:31](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week)

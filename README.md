@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
 * [2025-05-05, 10:10:36](https://lobste.rs/s/okbblr/stop_fighting_your_ros_2_environment) - [Stop Fighting Your ROS 2 Environment: Build Faster, Reproducibly, Anywhere](https://index.0x77.dev/blog/ros-devenv)
 * [2025-05-05, 09:58:31](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week)
@@ -7,7 +8,6 @@
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 02:41:08](https://lobste.rs/s/vv8azf/ibeacons) - [iBeacons](https://computer.rip/2025-05-04-iBeacons.html)
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
-* [2025-05-04, 21:47:17](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 21:05:02](https://lobste.rs/s/08nzki/moving_beyond_containers_introducing) - [Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling's Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
