@@ -4,6 +4,7 @@
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 02:41:08](https://lobste.rs/s/vv8azf/ibeacons) - [iBeacons](https://computer.rip/2025-05-04-iBeacons.html)
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
+* [2025-05-04, 21:47:17](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 21:05:02](https://lobste.rs/s/08nzki/moving_beyond_containers_introducing) - [Moving Beyond Containers - Introducing Boxer by Daniel Phillips @Wasm I/O 2025](https://www.youtube.com/watch?v=rHOwhkHv21U)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling's Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
@@ -23,7 +24,6 @@
 * [2025-05-04, 06:13:43](https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000) - [Single day Firebase bill for $100,000](https://serverlesshorrors.com/all/firebase-100k/)
 * [2025-05-04, 04:29:37](https://lobste.rs/s/td6ttp/dying_for_beauty) - [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
 * [2025-05-04, 01:57:17](https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
-* [2025-05-03, 22:55:24](https://lobste.rs/s/tydkji/gorgeous_grub_collection_decent) - [Gorgeous-GRUB: collection of decent community-made GRUB themes](https://github.com/Jacksaur/Gorgeous-GRUB)
 * [2025-05-03, 21:32:41](https://lobste.rs/s/x3dflu/better_man_page_viewer) - [A Better Man Page Viewer](https://www.visualmode.dev/a-better-man-page-viewer)
 
 ## [Archives](archives/index.md)
