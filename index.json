@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-05, 10:10:36",
+      "https://lobste.rs/s/okbblr/stop_fighting_your_ros_2_environment"
+    ],
+    [
+      "Stop Fighting Your ROS 2 Environment: Build Faster, Reproducibly, Anywhere",
+      "https://index.0x77.dev/blog/ros-devenv"
+    ]
+  ],
+  [
+    [
+      "2025-05-05, 09:58:31",
+      "https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 07:24:06",
       "https://lobste.rs/s/yggamf/fuzzing_with_grammars"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-04, 11:32:48",
-      "https://lobste.rs/s/qpumou/rfc_5081_using_openpgp_keys_for_transport"
-    ],
-    [
-      "RFC 5081: Using OpenPGP Keys for Transport Layer Security (TLS) Authentication",
-      "https://www.rfc-editor.org/rfc/rfc5081.html"
-    ]
-  ],
-  [
-    [
       "2025-05-04, 10:58:00",
       "https://lobste.rs/s/oyyrx0/new_go_garbage_collector"
     ],
@@ -237,16 +247,6 @@
     [
       "What went wrong with wireless USB",
       "http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-03, 21:32:41",
-      "https://lobste.rs/s/x3dflu/better_man_page_viewer"
-    ],
-    [
-      "A Better Man Page Viewer",
-      "https://www.visualmode.dev/a-better-man-page-viewer"
     ]
   ]
 ]
