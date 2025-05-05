@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-05, 18:48:06](https://lobste.rs/s/dzjswf/overengineering_pr_create_with_jj) - [Overengineering PR create with jj](https://crespo.business/posts/overeng-pr-create-jj/)
+* [2025-05-05, 18:42:56](https://lobste.rs/s/nkxjgh/future_web_development_is_ai_get_on_get) - [The future of web development is AI. Get on or get left behind](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
 * [2025-05-05, 17:09:21](https://lobste.rs/s/ibslvu/smaller_faster_serialization_for_ruby) - [Smaller, faster serialization for Ruby apps and beyond](https://oldmoe.blog/2025/05/05/smaller-faster-serialization-for-ruby-apps-and-beyond/)
 * [2025-05-05, 16:07:52](https://lobste.rs/s/9oywn7/v8_javascript_engine_gets_eager) - [V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?](https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/)
 * [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
@@ -10,10 +12,8 @@
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 * [2025-05-05, 02:41:08](https://lobste.rs/s/vv8azf/ibeacons) - [iBeacons](https://computer.rip/2025-05-04-iBeacons.html)
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
-* [2025-05-04, 21:47:17](https://lobste.rs/s/jqw7pn/helmdar_3d_scanning_brooklyn_on) - [Helmdar: 3D Scanning Brooklyn on Rollerblades](https://owentrueblood.com/blog/2025/05/04/helmdar/)
 * [2025-05-04, 21:08:06](https://lobste.rs/s/embsi9/load_store_conflicts) - [Load-store conflicts](https://zeux.io/2025/05/03/load-store-conflicts/)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/andreas_kling_s_keynote_presentation_on) - [Andreas Kling's Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
-* [2025-05-04, 19:53:59](https://lobste.rs/s/iu01xj/you_can_t_prevent_your_last_outage_no) - [You can’t prevent your last outage, no matter how hard you try](https://surfingcomplexity.blog/2025/05/04/you-cant-prevent-your-last-outage-no-matter-how-hard-you-try/)
 * [2025-05-04, 18:20:24](https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui) - [My first experience using Swift, SwiftUI, and XCode (2023)](https://austinhenley.com/blog/firstswiftproject.html)
 * [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole) - [The Beauty Of Having A Pi-hole](https://den.dev/blog/pihole/)
 * [2025-05-04, 17:15:19](https://lobste.rs/s/spxkvs/typed_lisp_primer) - [Typed Lisp, A Primer](https://alhassy.com/TypedLisp.html)
