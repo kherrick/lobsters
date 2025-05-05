@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-05, 17:09:21](https://lobste.rs/s/ibslvu/smaller_faster_serialization_for_ruby) - [Smaller, faster serialization for Ruby apps and beyond](https://oldmoe.blog/2025/05/05/smaller-faster-serialization-for-ruby-apps-and-beyond/)
 * [2025-05-05, 16:07:52](https://lobste.rs/s/9oywn7/v8_javascript_engine_gets_eager) - [V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?](https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/)
 * [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
@@ -24,7 +25,6 @@
 * [2025-05-04, 09:47:12](https://lobste.rs/s/g1l4xi/show_me_pull_requests) - [Show me the Pull Requests](https://www.linkedin.com/posts/kittylyst_ai-llms-activity-7321451673275514880-npfA/)
 * [2025-05-04, 06:13:43](https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000) - [Single day Firebase bill for $100,000](https://serverlesshorrors.com/all/firebase-100k/)
 * [2025-05-04, 04:29:37](https://lobste.rs/s/td6ttp/dying_for_beauty) - [Dying for Beauty](https://alan.norbauer.com/articles/dying-for-beauty/)
-* [2025-05-04, 01:57:17](https://lobste.rs/s/kurgp3/what_went_wrong_with_wireless_usb) - [What went wrong with wireless USB](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html)
 
 ## [Archives](archives/index.md)
 

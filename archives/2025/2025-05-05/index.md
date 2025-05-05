@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 17:09:21](https://lobste.rs/s/ibslvu/smaller_faster_serialization_for_ruby) - [Smaller, faster serialization for Ruby apps and beyond](https://oldmoe.blog/2025/05/05/smaller-faster-serialization-for-ruby-apps-and-beyond/)
 * [2025-05-05, 16:07:52](https://lobste.rs/s/9oywn7/v8_javascript_engine_gets_eager) - [V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?](https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/)
 * [2025-05-05, 12:47:23](https://lobste.rs/s/ozgnfx/odin_pragmatic_c_alternative_with_go) - [Odin, A Pragmatic C Alternative with a Go Flavour](https://bitshifter-1.github.io/2025/05/04/odin.html)
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
