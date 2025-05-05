@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-05, 19:13:57",
+      "https://lobste.rs/s/vvcq5z/bridging_gap_between_keyword_semantic"
+    ],
+    [
+      "Bridging the Gap Between Keyword and Semantic Search with SPLADE - Arcturus Labs",
+      "http://arcturus-labs.com/blog/2024/10/09/bridging-the-gap-between-keyword-and-semantic-search-with-splade/"
+    ]
+  ],
+  [
+    [
       "2025-05-05, 18:48:06",
       "https://lobste.rs/s/dzjswf/overengineering_pr_create_with_jj"
     ],
@@ -27,16 +37,6 @@
     [
       "Smaller, faster serialization for Ruby apps and beyond",
       "https://oldmoe.blog/2025/05/05/smaller-faster-serialization-for-ruby-apps-and-beyond/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 16:07:52",
-      "https://lobste.rs/s/9oywn7/v8_javascript_engine_gets_eager"
-    ],
-    [
-      "V8 JavaScript engine gets eager compilation hints, but will devs use sparingly as advised?",
-      "https://devclass.com/2025/05/02/v8-javascript-engine-gets-eager-compilation-hints-but-will-devs-use-sparingly-as-advised/"
     ]
   ],
   [
