@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-05](index.md)
 
+* [2025-05-05, 20:16:55](https://lobste.rs/s/axliit/how_understand_jepsen_report) - [How To Understand That Jepsen Report](https://buttondown.com/jaffray/archive/how-to-understand-that-jepsen-report/)
 * [2025-05-05, 19:13:57](https://lobste.rs/s/vvcq5z/bridging_gap_between_keyword_semantic) - [Bridging the Gap Between Keyword and Semantic Search with SPLADE - Arcturus Labs](http://arcturus-labs.com/blog/2024/10/09/bridging-the-gap-between-keyword-and-semantic-search-with-splade/)
 * [2025-05-05, 18:48:06](https://lobste.rs/s/dzjswf/overengineering_pr_create_with_jj) - [Overengineering PR create with jj](https://crespo.business/posts/overeng-pr-create-jj/)
 * [2025-05-05, 18:42:56](https://lobste.rs/s/nkxjgh/future_web_development_is_ai_get_on_get) - [The future of web development is AI. Get on or get left behind](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
