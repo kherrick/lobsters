@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 18:38:38](https://lobste.rs/s/j6twnf/data_safety_levels_framework_foundation) - [Data Safety Levels Framework: The foundation of how we look at data in Block](https://code.cash.app/dsl-framework)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 13:57:36](https://lobste.rs/s/jeomwb/bitter_lesson_2019) - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
