@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-06, 03:07:47",
+      "https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware"
+    ],
+    [
+      "Podfox: World's First Container-Aware Browser",
+      "https://val.packett.cool/blog/podfox/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 02:54:31",
+      "https://lobste.rs/s/hiwnlo/summer_math_exposition_4"
+    ],
+    [
+      "Summer of Math Exposition 4",
+      "https://some.3b1b.co/"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 02:10:36",
+      "https://lobste.rs/s/r136sv/how_cohesion_coupling_correlate_by_tomas"
+    ],
+    [
+      "How Cohesion and Coupling Correlate by Tomas Tulka",
+      "https://blog.ttulka.com/how-cohesion-and-coupling-correlate/"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 01:55:41",
       "https://lobste.rs/s/cmotm6/data_surrender_trap_how_enterprises_are"
     ],
@@ -97,16 +127,6 @@
     [
       "Augmentation / Replacement",
       "https://olano.dev/blog/augmentation-replacement"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 10:10:36",
-      "https://lobste.rs/s/okbblr/stop_fighting_your_ros_2_environment"
-    ],
-    [
-      "Stop Fighting Your ROS 2 Environment: Build Faster, Reproducibly, Anywhere",
-      "https://index.0x77.dev/blog/ros-devenv"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-05-04, 14:50:10",
-      "https://lobste.rs/s/uuvlrv/filtering_github_actions_by_changed"
-    ],
-    [
-      "Filtering GitHub actions by changed files",
-      "https://nedbatchelder.com/blog/202505/filtering_github_actions_by_changed_files.html"
-    ]
-  ],
-  [
-    [
       "2025-05-04, 10:58:00",
       "https://lobste.rs/s/oyyrx0/new_go_garbage_collector"
     ],
@@ -237,16 +247,6 @@
     [
       "Single day Firebase bill for $100,000",
       "https://serverlesshorrors.com/all/firebase-100k/"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 04:29:37",
-      "https://lobste.rs/s/td6ttp/dying_for_beauty"
-    ],
-    [
-      "Dying for Beauty",
-      "https://alan.norbauer.com/articles/dying-for-beauty/"
     ]
   ]
 ]
