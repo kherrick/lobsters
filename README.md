@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 * [2025-05-06, 03:07:47](https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware) - [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-06, 02:54:31](https://lobste.rs/s/hiwnlo/summer_math_exposition_4) - [Summer of Math Exposition 4](https://some.3b1b.co/)
 * [2025-05-06, 02:10:36](https://lobste.rs/s/r136sv/how_cohesion_coupling_correlate) - [How Cohesion and Coupling Correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate/)
@@ -24,7 +25,6 @@
 * [2025-05-04, 15:59:00](https://lobste.rs/s/km7sp9/feather_web_framework_skips_rust_s_async) - [Feather: A web framework that skips Rust’s async boilerplate and just works](https://github.com/BersisSe/feather)
 * [2025-05-04, 15:33:41](https://lobste.rs/s/m65t5p/site_for_making_bots_for_fediverse) - [a site for making bots for the fediverse](https://fedibot.club)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
-* [2025-05-04, 06:13:43](https://lobste.rs/s/gk9qon/single_day_firebase_bill_for_100_000) - [Single day Firebase bill for $100,000](https://serverlesshorrors.com/all/firebase-100k/)
 
 ## [Archives](archives/index.md)
 
