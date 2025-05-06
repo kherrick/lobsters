@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 23:51:11](https://lobste.rs/s/rdzahf/towards_react_server_components_clojure) - [Towards React Server Components in Clojure, Part 1](https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1)
 * [2025-05-06, 23:44:07](https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented) - [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 22:49:36](https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support) - [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
@@ -24,7 +25,6 @@
 * [2025-05-06, 01:43:47](https://lobste.rs/s/nobvmp/how_prime_factorizations_govern_collatz) - [How prime factorizations govern the Collatz conjecture](http://perette.barella.org/Science/collatz.html)
 * [2025-05-06, 00:01:10](https://lobste.rs/s/tfomzp/implementing_struct_arrays) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
 * [2025-05-05, 18:42:56](https://lobste.rs/s/nkxjgh/future_web_development_is_ai_get_on_get) - [The future of web development is AI. Get on or get left behind](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
-* [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 
 ## [Archives](archives/index.md)
 
