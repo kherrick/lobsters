@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
+* [2025-05-06, 10:24:20](https://lobste.rs/s/qfewoo/what_is_my_fuzzer_doing) - [What is my fuzzer doing?](https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing)
 * [2025-05-06, 07:42:47](https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai) - [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 07:21:23](https://lobste.rs/s/9wqxi5/barycentric_coordinates_2020) - [Barycentric Coordinates (2020)](https://observablehq.com/@infowantstobeseen/barycentric-coordinates)
 * [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
