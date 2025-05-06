@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 23:44:07](https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented) - [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 22:49:36](https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support) - [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
 * [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
@@ -11,7 +12,6 @@
 * [2025-05-06, 12:01:18](https://lobste.rs/s/g55jw9/framebuffer_user_interface) - [Framebuffer user interface](https://github.com/martinfama/fui)
 * [2025-05-06, 12:00:39](https://lobste.rs/s/fklsgz/vectorvfs_filesystem_as_vector_database) - [VectorVFS: Filesystem as a Vector Database](https://vectorvfs.readthedocs.io/en/latest/)
 * [2025-05-06, 11:46:31](https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
-* [2025-05-06, 11:43:33](https://lobste.rs/s/9mzaqa/understanding_memory_management_part_5) - [Understanding Memory Management, Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5/)
 * [2025-05-06, 11:37:02](https://lobste.rs/s/aerdrc/critical_css_generator) - [Critical CSS Generator](https://critical-css-extractor.kigo.studio/)
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)

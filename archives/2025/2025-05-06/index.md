@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 23:44:07](https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented) - [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 22:49:36](https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support) - [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
 * [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
