@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-06, 20:11:11",
+      "https://lobste.rs/s/lgcqey/performance_improvements_jdk_24"
+    ],
+    [
+      "Performance Improvements in JDK 24",
+      "https://inside.java/2025/03/19/performance-improvements-in-jdk24/"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 18:38:38",
       "https://lobste.rs/s/j6twnf/data_safety_levels_framework_foundation"
     ],
@@ -227,16 +237,6 @@
     [
       "The future of web development is AI. Get on or get left behind",
       "https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 17:09:21",
-      "https://lobste.rs/s/ibslvu/smaller_faster_serialization_for_ruby"
-    ],
-    [
-      "Smaller, faster serialization for Ruby apps and beyond",
-      "https://oldmoe.blog/2025/05/05/smaller-faster-serialization-for-ruby-apps-and-beyond/"
     ]
   ],
   [
