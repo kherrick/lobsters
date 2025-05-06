@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-06, 23:51:11",
+      "https://lobste.rs/s/rdzahf/towards_react_server_components_clojure"
+    ],
+    [
+      "Towards React Server Components in Clojure, Part 1",
+      "https://romanliutikov.com/blog/towards-react-server-components-in-clojure-part-1"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 23:44:07",
       "https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented"
     ],
@@ -237,16 +247,6 @@
     [
       "The future of web development is AI. Get on or get left behind",
       "https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 06:38:04",
-      "https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids"
-    ],
-    [
-      "modern-latex: A short guide to LaTeX that avoids legacy cruft",
-      "https://github.com/mrkline/modern-latex"
     ]
   ]
 ]
