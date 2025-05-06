@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
 * [2025-05-06, 18:38:38](https://lobste.rs/s/j6twnf/data_safety_levels_framework_foundation) - [Data Safety Levels Framework: The foundation of how we look at data in Block](https://code.cash.app/dsl-framework)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
