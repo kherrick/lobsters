@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 22:49:36](https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support) - [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
 * [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
@@ -22,7 +23,6 @@
 * [2025-05-06, 02:54:31](https://lobste.rs/s/hiwnlo/summer_math_exposition_4) - [Summer of Math Exposition 4](https://some.3b1b.co/)
 * [2025-05-06, 01:43:47](https://lobste.rs/s/nobvmp/how_prime_factorizations_govern_collatz) - [How prime factorizations govern the Collatz conjecture](http://perette.barella.org/Science/collatz.html)
 * [2025-05-06, 00:01:10](https://lobste.rs/s/tfomzp/implementing_struct_arrays) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
-* [2025-05-05, 18:48:06](https://lobste.rs/s/dzjswf/overengineering_pr_create_with_jj) - [Overengineering PR create with jj](https://crespo.business/posts/overeng-pr-create-jj/)
 * [2025-05-05, 18:42:56](https://lobste.rs/s/nkxjgh/future_web_development_is_ai_get_on_get) - [The future of web development is AI. Get on or get left behind](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 
