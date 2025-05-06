@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 13:57:36](https://lobste.rs/s/jeomwb/bitter_lesson_2019) - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 * [2025-05-06, 12:31:19](https://lobste.rs/s/zp717o/genai_accelerated_tla_challenge) - [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
@@ -22,7 +23,6 @@
 * [2025-05-05, 18:48:06](https://lobste.rs/s/dzjswf/overengineering_pr_create_with_jj) - [Overengineering PR create with jj](https://crespo.business/posts/overeng-pr-create-jj/)
 * [2025-05-05, 18:42:56](https://lobste.rs/s/nkxjgh/future_web_development_is_ai_get_on_get) - [The future of web development is AI. Get on or get left behind](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
 * [2025-05-05, 17:09:21](https://lobste.rs/s/ibslvu/smaller_faster_serialization_for_ruby) - [Smaller, faster serialization for Ruby apps and beyond](https://oldmoe.blog/2025/05/05/smaller-faster-serialization-for-ruby-apps-and-beyond/)
-* [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
 * [2025-05-05, 09:58:31](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week)
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
 
