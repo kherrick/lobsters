@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 07:21:23](https://lobste.rs/s/9wqxi5/barycentric_coordinates_2020) - [Barycentric Coordinates (2020)](https://observablehq.com/@infowantstobeseen/barycentric-coordinates)
 * [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 * [2025-05-06, 03:07:47](https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware) - [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-06, 02:54:31](https://lobste.rs/s/hiwnlo/summer_math_exposition_4) - [Summer of Math Exposition 4](https://some.3b1b.co/)
