@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-06, 10:35:18",
+      "https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu"
+    ],
+    [
+      "An appeal to Apple from Anukari regarding GPU frequency scaling",
+      "https://anukari.com/blog/devlog/an-appeal-to-apple"
+    ]
+  ],
+  [
+    [
+      "2025-05-06, 10:24:20",
+      "https://lobste.rs/s/qfewoo/what_is_my_fuzzer_doing"
+    ],
+    [
+      "What is my fuzzer doing?",
+      "https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 07:42:47",
       "https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-05, 07:24:06",
-      "https://lobste.rs/s/yggamf/fuzzing_with_grammars"
-    ],
-    [
-      "Fuzzing with Grammars",
-      "https://www.fuzzingbook.org/html/Grammars.html"
-    ]
-  ],
-  [
-    [
       "2025-05-05, 06:38:04",
       "https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids"
     ],
@@ -207,16 +217,6 @@
     [
       "Keynote Presentation on the Ladybird Browser",
       "https://www.youtube.com/watch?v=9YM7pDMLvr4"
-    ]
-  ],
-  [
-    [
-      "2025-05-04, 18:20:24",
-      "https://lobste.rs/s/gkfqsa/my_first_experience_using_swift_swiftui"
-    ],
-    [
-      "My first experience using Swift, SwiftUI, and XCode (2023)",
-      "https://austinhenley.com/blog/firstswiftproject.html"
     ]
   ],
   [
