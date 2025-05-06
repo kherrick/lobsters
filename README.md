@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
+* [2025-05-06, 13:57:36](https://lobste.rs/s/jeomwb/bitter_lesson_2019) - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 * [2025-05-06, 12:31:19](https://lobste.rs/s/zp717o/genai_accelerated_tla_challenge) - [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
 * [2025-05-06, 12:08:46](https://lobste.rs/s/cmrkra/rust_qemu_update) - [Rust in QEMU update](https://lore.kernel.org/qemu-devel/d3d1944e-2482-4aa7-b621-596246a08107@gnu.org/T/#u)
 * [2025-05-06, 12:01:18](https://lobste.rs/s/g55jw9/framebuffer_user_interface) - [Framebuffer user interface](https://github.com/martinfama/fui)
 * [2025-05-06, 12:00:39](https://lobste.rs/s/fklsgz/vectorvfs_filesystem_as_vector_database) - [VectorVFS: Filesystem as a Vector Database](https://vectorvfs.readthedocs.io/en/latest/)
 * [2025-05-06, 11:46:31](https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 * [2025-05-06, 11:43:33](https://lobste.rs/s/9mzaqa/understanding_memory_management_part_5) - [Understanding Memory Management, Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5/)
-* [2025-05-06, 11:37:02](https://lobste.rs/s/aerdrc/critical_css_generator) - [Critical CSS Generator](https://critical-css-extractor.kigo.studio/)
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu - Trifecta Tech Foundation](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
 * [2025-05-06, 10:24:20](https://lobste.rs/s/qfewoo/what_is_my_fuzzer_doing) - [What is my fuzzer doing?](https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing)
@@ -24,7 +25,6 @@
 * [2025-05-05, 12:34:11](https://lobste.rs/s/bdvhas/augmentation_replacement) - [Augmentation / Replacement](https://olano.dev/blog/augmentation-replacement)
 * [2025-05-05, 09:58:31](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cpsmuq/what_are_you_doing_this_week)
 * [2025-05-05, 06:38:04](https://lobste.rs/s/akhul3/modern_latex_short_guide_latex_avoids) - [modern-latex: A short guide to LaTeX that avoids legacy cruft](https://github.com/mrkline/modern-latex)
-* [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
 
 ## [Archives](archives/index.md)
 
