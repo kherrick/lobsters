@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-06, 22:49:36",
+      "https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support"
+    ],
+    [
+      "Wikimedia Cloud VPS: IPv6 support",
+      "https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/"
+    ]
+  ],
+  [
+    [
       "2025-05-06, 21:07:38",
       "https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite"
     ],
@@ -217,16 +227,6 @@
     [
       "Implementing a Struct of Arrays",
       "https://brevzin.github.io/c++/2025/05/02/soa/"
-    ]
-  ],
-  [
-    [
-      "2025-05-05, 18:48:06",
-      "https://lobste.rs/s/dzjswf/overengineering_pr_create_with_jj"
-    ],
-    [
-      "Overengineering PR create with jj",
-      "https://crespo.business/posts/overeng-pr-create-jj/"
     ]
   ],
   [
