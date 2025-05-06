@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 11:37:02](https://lobste.rs/s/aerdrc/critical_css_generator) - [Critical CSS Generator](https://critical-css-extractor.kigo.studio/)
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu - Trifecta Tech Foundation](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
 * [2025-05-06, 10:24:20](https://lobste.rs/s/qfewoo/what_is_my_fuzzer_doing) - [What is my fuzzer doing?](https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing)
@@ -22,7 +23,6 @@
 * [2025-05-05, 02:41:08](https://lobste.rs/s/vv8azf/ibeacons) - [iBeacons](https://computer.rip/2025-05-04-iBeacons.html)
 * [2025-05-04, 23:01:45](https://lobste.rs/s/q1lmxq/tech_companies_apparently_do_not) - [Tech Companies Apparently Do Not Understand Why We Dislike AI](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/)
 * [2025-05-04, 20:34:40](https://lobste.rs/s/8dkeup/keynote_presentation_on_ladybird) - [Keynote Presentation on the Ladybird Browser](https://www.youtube.com/watch?v=9YM7pDMLvr4)
-* [2025-05-04, 17:22:50](https://lobste.rs/s/tjbv1p/beauty_having_pi_hole) - [The Beauty Of Having A Pi-hole](https://den.dev/blog/pihole/)
 * [2025-05-04, 15:33:41](https://lobste.rs/s/m65t5p/site_for_making_bots_for_fediverse) - [a site for making bots for the fediverse](https://fedibot.club)
 * [2025-05-04, 10:58:00](https://lobste.rs/s/oyyrx0/new_go_garbage_collector) - [New Go garbage collector](https://bsky.app/profile/michael.express/post/3lo7irdr6ic24)
 
