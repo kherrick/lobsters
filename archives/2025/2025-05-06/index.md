@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-06](index.md)
 
+* [2025-05-06, 12:31:19](https://lobste.rs/s/zp717o/genai_accelerated_tla_challenge) - [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
 * [2025-05-06, 12:08:46](https://lobste.rs/s/cmrkra/rust_qemu_update) - [Rust in QEMU update](https://lore.kernel.org/qemu-devel/d3d1944e-2482-4aa7-b621-596246a08107@gnu.org/T/#u)
 * [2025-05-06, 12:01:18](https://lobste.rs/s/g55jw9/framebuffer_user_interface) - [Framebuffer user interface](https://github.com/martinfama/fui)
 * [2025-05-06, 12:00:39](https://lobste.rs/s/fklsgz/vectorvfs_filesystem_as_vector_database) - [VectorVFS: Filesystem as a Vector Database](https://vectorvfs.readthedocs.io/en/latest/)

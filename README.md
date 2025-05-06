@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-06, 12:31:19](https://lobste.rs/s/zp717o/genai_accelerated_tla_challenge) - [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
 * [2025-05-06, 12:08:46](https://lobste.rs/s/cmrkra/rust_qemu_update) - [Rust in QEMU update](https://lore.kernel.org/qemu-devel/d3d1944e-2482-4aa7-b621-596246a08107@gnu.org/T/#u)
 * [2025-05-06, 12:01:18](https://lobste.rs/s/g55jw9/framebuffer_user_interface) - [Framebuffer user interface](https://github.com/martinfama/fui)
 * [2025-05-06, 12:00:39](https://lobste.rs/s/fklsgz/vectorvfs_filesystem_as_vector_database) - [VectorVFS: Filesystem as a Vector Database](https://vectorvfs.readthedocs.io/en/latest/)
@@ -14,7 +15,6 @@
 * [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 * [2025-05-06, 03:07:47](https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware) - [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-06, 02:54:31](https://lobste.rs/s/hiwnlo/summer_math_exposition_4) - [Summer of Math Exposition 4](https://some.3b1b.co/)
-* [2025-05-06, 02:10:36](https://lobste.rs/s/r136sv/how_cohesion_coupling_correlate) - [How Cohesion and Coupling Correlate](https://blog.ttulka.com/how-cohesion-and-coupling-correlate/)
 * [2025-05-06, 01:55:41](https://lobste.rs/s/cmotm6/data_surrender_trap_how_enterprises_are) - [The Data Surrender Trap: How Enterprises Are Losing Control in the AI Gold Rush—and the Simple Fix](https://www.softinio.com/post/the-data-surrender-trap/)
 * [2025-05-06, 01:43:47](https://lobste.rs/s/nobvmp/how_prime_factorizations_govern_collatz) - [How prime factorizations govern the Collatz conjecture](http://perette.barella.org/Science/collatz.html)
 * [2025-05-06, 00:01:10](https://lobste.rs/s/tfomzp/implementing_struct_arrays) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
