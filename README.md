@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 11:57:55](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities) - [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor)
+* [2025-05-07, 11:57:32](https://lobste.rs/s/nmecik/warpspeed_building_record_replay) - [Warpspeed: Building a record/replay debugger for macOS](https://nickgregory.me/post/2024/06/23/warpspeed/)
 * [2025-05-07, 11:42:00](https://lobste.rs/s/eusyqs/critical_look_at_mcp) - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
@@ -18,8 +20,6 @@
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 13:57:36](https://lobste.rs/s/jeomwb/bitter_lesson_2019) - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 * [2025-05-06, 12:31:19](https://lobste.rs/s/zp717o/genai_accelerated_tla_challenge) - [GenAI-accelerated TLA+ challenge](https://foundation.tlapl.us/challenge/index.html)
-* [2025-05-06, 12:01:18](https://lobste.rs/s/g55jw9/framebuffer_user_interface) - [Framebuffer user interface](https://github.com/martinfama/fui)
-* [2025-05-06, 11:46:31](https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
 * [2025-05-06, 07:42:47](https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai) - [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
