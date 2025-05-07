@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 03:24:58](https://lobste.rs/s/5ilobb/vibe_coding_by_emergent_garden) - [\"Vibe Coding\" by Emergent Garden](https://www.youtube.com/watch?v=1OxBv9Q7Uxo)
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-07, 00:59:59](https://lobste.rs/s/fhcrmq/reverse_engineering_fujitsu_m7mu_relc) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
@@ -24,7 +25,6 @@
 * [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 * [2025-05-06, 03:07:47](https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware) - [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 * [2025-05-06, 00:01:10](https://lobste.rs/s/tfomzp/implementing_struct_arrays) - [Implementing a Struct of Arrays](https://brevzin.github.io/c++/2025/05/02/soa/)
-* [2025-05-05, 18:42:56](https://lobste.rs/s/nkxjgh/future_web_development_is_ai_get_on_get) - [The future of web development is AI. Get on or get left behind](https://alex.party/posts/2025-05-05-the-future-of-web-development-is-ai-get-on-or-get-left-behind/)
 
 ## [Archives](archives/index.md)
 

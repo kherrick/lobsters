@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 03:24:58](https://lobste.rs/s/5ilobb/vibe_coding_by_emergent_garden) - [\"Vibe Coding\" by Emergent Garden](https://www.youtube.com/watch?v=1OxBv9Q7Uxo)
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-07, 00:59:59](https://lobste.rs/s/fhcrmq/reverse_engineering_fujitsu_m7mu_relc) - [Reverse-engineering Fujitsu M7MU RELC hardware compression](https://op-co.de/blog/posts/fujitsu_relc_compression/)
