@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 08:08:47](https://lobste.rs/s/vvac3x/recreating_ios_animation_with_glsl) - [Recreating an iOS Animation with GLSL (interactive tutorial)](https://nmattia.com/posts/2025-05-07-airpods-hearing-test-animation/)
 * [2025-05-07, 07:56:05](https://lobste.rs/s/bcelvl/critical_architecture_software_theory) - [Critical Architecture/Software Theory](https://tomasp.net/architecture/)
 * [2025-05-07, 03:24:58](https://lobste.rs/s/5ilobb/vibe_coding_by_emergent_garden) - [\"Vibe Coding\" by Emergent Garden](https://www.youtube.com/watch?v=1OxBv9Q7Uxo)
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
@@ -21,7 +22,6 @@
 * [2025-05-06, 11:46:31](https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait) - [An Interactive Debugger for Rust Trait Errors](https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/)
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
-* [2025-05-06, 10:24:20](https://lobste.rs/s/qfewoo/what_is_my_fuzzer_doing) - [What is my fuzzer doing?](https://tweedegolf.nl/en/blog/154/what-is-my-fuzzer-doing)
 * [2025-05-06, 07:42:47](https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai) - [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
 * [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 * [2025-05-06, 03:07:47](https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware) - [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
