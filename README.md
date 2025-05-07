@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
 * [2025-05-07, 11:57:55](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities) - [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor)
@@ -23,7 +24,6 @@
 * [2025-05-06, 11:23:22](https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu) - [Memory-safe sudo to become the default in Ubuntu](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/)
 * [2025-05-06, 10:35:18](https://lobste.rs/s/a9rojy/appeal_apple_from_anukari_regarding_gpu) - [An appeal to Apple from Anukari regarding GPU frequency scaling](https://anukari.com/blog/devlog/an-appeal-to-apple)
 * [2025-05-06, 07:42:47](https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai) - [curl now requires disclosing whether AI was used on bug reports](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1)
-* [2025-05-06, 05:49:39](https://lobste.rs/s/68vaxo/interviewing_software_developers_from) - [Interviewing Software Developers: From Junior to Architect in a Single Programming Task](https://old.reddit.com/r/aethernet/comments/1kfwyln/interviewing_software_developers_from_junior_to/)
 * [2025-05-06, 03:07:47](https://lobste.rs/s/yurnq1/podfox_world_s_first_container_aware) - [Podfox: World's First Container-Aware Browser](https://val.packett.cool/blog/podfox/)
 
 ## [Archives](archives/index.md)
