@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-07, 17:16:22",
+      "https://lobste.rs/s/tyeodn/implement_your_language_twice"
+    ],
+    [
+      "Implement your language twice",
+      "https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 17:02:25",
       "https://lobste.rs/s/8jjrva/rust_api_inspired_by_python_powered_by"
     ],
@@ -207,16 +217,6 @@
     [
       "GenAI-accelerated TLA+ challenge",
       "https://foundation.tlapl.us/challenge/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 11:23:22",
-      "https://lobste.rs/s/amexbe/memory_safe_sudo_become_default_ubuntu"
-    ],
-    [
-      "Memory-safe sudo to become the default in Ubuntu",
-      "https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/"
     ]
   ],
   [
