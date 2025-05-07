@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 14:54:40](https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs) - [Newtyped Indices are Proofs](https://eikopf.bearblog.dev/newtyped-indices-are-proofs/)
 * [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)

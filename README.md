@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 14:54:40](https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs) - [Newtyped Indices are Proofs](https://eikopf.bearblog.dev/newtyped-indices-are-proofs/)
 * [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
@@ -16,7 +17,6 @@
 * [2025-05-07, 00:08:15](https://lobste.rs/s/hj8xyd/ocaml_cross_compilation_experiment) - [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
 * [2025-05-06, 23:44:07](https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented) - [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
-* [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 * [2025-05-06, 13:57:36](https://lobste.rs/s/jeomwb/bitter_lesson_2019) - [The Bitter Lesson (2019)](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
