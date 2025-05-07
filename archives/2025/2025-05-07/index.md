@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 07:56:05](https://lobste.rs/s/bcelvl/critical_architecture_software_theory) - [Critical Architecture/Software Theory](https://tomasp.net/architecture/)
 * [2025-05-07, 03:24:58](https://lobste.rs/s/5ilobb/vibe_coding_by_emergent_garden) - [\"Vibe Coding\" by Emergent Garden](https://www.youtube.com/watch?v=1OxBv9Q7Uxo)
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
