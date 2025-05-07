@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 17:39:53](https://lobste.rs/s/qtot7u/magic_software_what_makes_good_engineer) - [The magic of software; or, what makes a good engineer also makes a good engineering organization](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-07, 17:16:22](https://lobste.rs/s/tyeodn/implement_your_language_twice) - [Implement your language twice](https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html)
 * [2025-05-07, 17:02:25](https://lobste.rs/s/8jjrva/rust_api_inspired_by_python_powered_by) - [A Rust API Inspired by Python, Powered by Serde](https://ohadravid.github.io/posts/2025-05-serde-reflect/)
 * [2025-05-07, 15:23:03](https://lobste.rs/s/6icye2/writing_arabic_english_my_journey) - [Writing Arabic in English: My journey in creating a phonetic Arabic keyboard](https://sherifelmetwally.com/writing/writing-arabic-in-english)
@@ -13,7 +14,6 @@
 * [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
 * [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
-* [2025-05-07, 08:08:47](https://lobste.rs/s/vvac3x/recreating_ios_animation_with_glsl) - [Recreating an iOS Animation with GLSL (interactive tutorial)](https://nmattia.com/posts/2025-05-07-airpods-hearing-test-animation/)
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-07, 00:55:44](https://lobste.rs/s/odkudp/lazarus_release_4_0) - [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
