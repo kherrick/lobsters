@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-07](index.md)
 
+* [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
 * [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
 * [2025-05-07, 08:08:47](https://lobste.rs/s/vvac3x/recreating_ios_animation_with_glsl) - [Recreating an iOS Animation with GLSL (interactive tutorial)](https://nmattia.com/posts/2025-05-07-airpods-hearing-test-animation/)
