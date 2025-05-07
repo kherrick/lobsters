@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-07, 11:57:55",
+      "https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities"
+    ],
+    [
+      "Zed Editor adds full AI capabilities",
+      "https://zed.dev/blog/fastest-ai-code-editor"
+    ]
+  ],
+  [
+    [
+      "2025-05-07, 11:57:32",
+      "https://lobste.rs/s/nmecik/warpspeed_building_record_replay"
+    ],
+    [
+      "Warpspeed: Building a record/replay debugger for macOS",
+      "https://nickgregory.me/post/2024/06/23/warpspeed/"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 11:42:00",
       "https://lobste.rs/s/eusyqs/critical_look_at_mcp"
     ],
@@ -177,26 +197,6 @@
     [
       "GenAI-accelerated TLA+ challenge",
       "https://foundation.tlapl.us/challenge/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 12:01:18",
-      "https://lobste.rs/s/g55jw9/framebuffer_user_interface"
-    ],
-    [
-      "Framebuffer user interface",
-      "https://github.com/martinfama/fui"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 11:46:31",
-      "https://lobste.rs/s/eeoz0s/interactive_debugger_for_rust_trait"
-    ],
-    [
-      "An Interactive Debugger for Rust Trait Errors",
-      "https://cel.cs.brown.edu/blog/an-interactive-debugger-for-rust-trait-errors/"
     ]
   ],
   [
