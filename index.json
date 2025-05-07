@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-07, 07:56:05",
+      "https://lobste.rs/s/bcelvl/critical_architecture_software_theory"
+    ],
+    [
+      "Critical Architecture/Software Theory",
+      "https://tomasp.net/architecture/"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 03:24:58",
       "https://lobste.rs/s/5ilobb/vibe_coding_by_emergent_garden"
     ],
@@ -237,16 +247,6 @@
     [
       "Podfox: World's First Container-Aware Browser",
       "https://val.packett.cool/blog/podfox/"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 00:01:10",
-      "https://lobste.rs/s/tfomzp/implementing_struct_arrays"
-    ],
-    [
-      "Implementing a Struct of Arrays",
-      "https://brevzin.github.io/c++/2025/05/02/soa/"
     ]
   ]
 ]
