@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
 * [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
 * [2025-05-07, 08:08:47](https://lobste.rs/s/vvac3x/recreating_ios_animation_with_glsl) - [Recreating an iOS Animation with GLSL (interactive tutorial)](https://nmattia.com/posts/2025-05-07-airpods-hearing-test-animation/)
 * [2025-05-07, 07:56:05](https://lobste.rs/s/bcelvl/critical_architecture_software_theory) - [Critical Architecture/Software Theory](https://tomasp.net/architecture/)
@@ -10,7 +11,6 @@
 * [2025-05-07, 00:55:44](https://lobste.rs/s/odkudp/lazarus_release_4_0) - [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
 * [2025-05-07, 00:08:15](https://lobste.rs/s/hj8xyd/ocaml_cross_compilation_experiment) - [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
 * [2025-05-06, 23:44:07](https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented) - [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
-* [2025-05-06, 22:49:36](https://lobste.rs/s/ozzh1a/wikimedia_cloud_vps_ipv6_support) - [Wikimedia Cloud VPS: IPv6 support](https://techblog.wikimedia.org/2025/05/06/wikimedia-cloud-vps-ipv6-support/)
 * [2025-05-06, 21:07:38](https://lobste.rs/s/tfw1lv/how_build_fleet_networked_offsite) - [How to build a fleet of networked offsite backups using Linux, WireGuard and rsync](https://ounapuu.ee/posts/2024/12/11/wireguard-backup-fleet/)
 * [2025-05-06, 20:11:11](https://lobste.rs/s/lgcqey/performance_improvements_jdk_24) - [Performance Improvements in JDK 24](https://inside.java/2025/03/19/performance-improvements-in-jdk24/)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
