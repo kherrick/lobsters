@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-08, 01:50:13",
+      "https://lobste.rs/s/mcct5l/anemll_large_language_models_for_apple"
+    ],
+    [
+      "ANEMLL: Large Language Models for Apple Neural Engine",
+      "https://www.anemll.com/"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 20:23:56",
       "https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Lazarus release 4.0",
       "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 00:08:15",
-      "https://lobste.rs/s/hj8xyd/ocaml_cross_compilation_experiment"
-    ],
-    [
-      "OCaml cross-compilation: an experiment",
-      "https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment"
     ]
   ],
   [
