@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 01:50:13](https://lobste.rs/s/mcct5l/anemll_large_language_models_for_apple) - [ANEMLL: Large Language Models for Apple Neural Engine](https://www.anemll.com/)
 * [2025-05-07, 20:23:56](https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for) - [How to build small and secure Docker images for Rust (FROM scratch)](https://kerkour.com/rust-docker-from-scratch)
 * [2025-05-07, 19:22:56](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
 * [2025-05-07, 19:06:54](https://lobste.rs/s/arnhsd/how_average_prolog_2017) - [How to Average in Prolog (2017)](https://storytotell.org/how-to-average-in-prolog)
@@ -20,7 +21,6 @@
 * [2025-05-07, 01:50:19](https://lobste.rs/s/ugfqbq/glossary_web_component) - [Glossary Web Component](https://dbushell.com/2025/05/07/glossary-web-component/)
 * [2025-05-07, 01:15:08](https://lobste.rs/s/bqnktb/state_ssl_stacks) - [The state of SSL stacks](https://www.haproxy.com/blog/state-of-ssl-stacks)
 * [2025-05-07, 00:55:44](https://lobste.rs/s/odkudp/lazarus_release_4_0) - [Lazarus release 4.0](https://forum.lazarus.freepascal.org/index.php?topic=71050.0)
-* [2025-05-07, 00:08:15](https://lobste.rs/s/hj8xyd/ocaml_cross_compilation_experiment) - [OCaml cross-compilation: an experiment](https://www.chrisarmstrong.dev/posts/ocaml-cross-compilation-an-experiment)
 * [2025-05-06, 23:44:07](https://lobste.rs/s/ckzbkn/bash_posix_compatible_shell_implemented) - [bash/POSIX-compatible shell implemented in Rust](https://github.com/reubeno/brush)
 * [2025-05-06, 16:37:05](https://lobste.rs/s/d6evnj/nnd_tui_alternative_gdb) - [nnd: A TUI alternative to gdb](https://github.com/al13n321/nnd)
 * [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
