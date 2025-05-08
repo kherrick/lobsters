@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 20:00:31](https://lobste.rs/s/yii8te/pairdrop_peer_peer_file_sharing_your) - [PairDrop: peer-to-peer file sharing in your browser](https://github.com/schlagmichdoch/PairDrop)
+* [2025-05-08, 19:57:38](https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me) - [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-08, 19:41:26](https://lobste.rs/s/rt7mc8/100k_day_cloud_bill_isn_t_bug_it_s_by_design) - [$100K/day cloud bill isn't a Bug – it's by Design](https://old.reddit.com/r/aethernet/comments/1khyt39/100kday_cloud_bill_isnt_a_bug_its_by_design)
 * [2025-05-08, 18:18:59](https://lobste.rs/s/vem9gs/announcing_ivar_ruby_s_missing_instance) - [Announcing Ivar: Ruby’s Missing Instance Variable Typo Warnings](https://avdi.codes/announcing-ivar-rubys-missing-instance-variable-typo-warnings/)
 * [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
