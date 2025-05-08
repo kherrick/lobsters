@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2025-05-08, 13:38:53](https://lobste.rs/s/x6prea/backporting_net_framework_3_5_windows_95) - [Backporting .NET Framework 3.5 to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2025-05-08, 13:17:38](https://lobste.rs/s/p1yqfo/yes_apple_ii_mousecard_irq_is_synced_vbl) - [Yes, the Apple II MouseCard IRQ is synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
@@ -24,7 +25,6 @@
 * [2025-05-07, 11:42:00](https://lobste.rs/s/eusyqs/critical_look_at_mcp) - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
-* [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
 
 ## [Archives](archives/index.md)
 
