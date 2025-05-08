@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 20:58:39](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust) - [Which AI \"arena\" is the one we can actually trust?](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust)
 * [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
 * [2025-05-08, 20:20:31](https://lobste.rs/s/d8oolv/implementing_state_machines_postgresql) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
@@ -11,7 +12,6 @@
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
 * [2025-05-08, 14:33:16](https://lobste.rs/s/cjt4dl/postgresql_18_beta_1_released) - [PostgreSQL 18 Beta 1 Released](https://www.postgresql.org/about/news/postgresql-18-beta-1-released-3070/)
 * [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
-* [2025-05-08, 13:38:53](https://lobste.rs/s/x6prea/backporting_net_framework_3_5_windows_95) - [Backporting .NET Framework 3.5 to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2025-05-08, 13:17:38](https://lobste.rs/s/p1yqfo/yes_apple_ii_mousecard_irq_is_synced_vbl) - [Yes, the Apple II MouseCard IRQ is synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
 * [2025-05-08, 12:41:21](https://lobste.rs/s/zzhid3/path_memory_safety_is_inevitable) - [The Path to Memory Safety is Inevitable](https://hardenedlinux.org/blog/2025-05-07-the-path-to-memory-safety-is-inevitable/)
