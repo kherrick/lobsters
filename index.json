@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-08, 01:15:49",
+      "https://lobste.rs/s/ft6ttd/writing_preloadable_malloc_rust_using"
+    ],
+    [
+      "Writing a preloadable malloc in Rust, using MMTk",
+      "https://www.humprog.org/~stephen/blog/2025/05/02/#replacing-malloc-using-mmtk-in-rust"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 20:23:56",
       "https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for"
     ],
@@ -207,16 +217,6 @@
     [
       "The state of SSL stacks",
       "https://www.haproxy.com/blog/state-of-ssl-stacks"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 00:55:44",
-      "https://lobste.rs/s/odkudp/lazarus_release_4_0"
-    ],
-    [
-      "Lazarus release 4.0",
-      "https://forum.lazarus.freepascal.org/index.php?topic=71050.0"
     ]
   ],
   [
