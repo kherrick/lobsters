@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
 * [2025-05-08, 20:20:31](https://lobste.rs/s/d8oolv/implementing_state_machines_postgresql) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 20:00:31](https://lobste.rs/s/yii8te/pairdrop_peer_peer_file_sharing_your) - [PairDrop: peer-to-peer file sharing in your browser](https://github.com/schlagmichdoch/PairDrop)
@@ -24,7 +25,6 @@
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
 * [2025-05-07, 11:57:55](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities) - [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor)
-* [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 
 ## [Archives](archives/index.md)
 

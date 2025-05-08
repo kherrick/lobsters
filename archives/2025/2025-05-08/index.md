@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
 * [2025-05-08, 20:20:31](https://lobste.rs/s/d8oolv/implementing_state_machines_postgresql) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 20:00:31](https://lobste.rs/s/yii8te/pairdrop_peer_peer_file_sharing_your) - [PairDrop: peer-to-peer file sharing in your browser](https://github.com/schlagmichdoch/PairDrop)
