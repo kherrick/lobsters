@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 * [2025-05-08, 17:18:02](https://lobste.rs/s/xev3l9/another_look_into_postgresql_cte) - [Another look into PostgreSQL CTE materialization and non-idempotent subqueries](https://www.shayon.dev/post/2025/124/another-look-into-postgresql-cte-materialization-and-non-idempotent-subqueries/)
 * [2025-05-08, 15:41:06](https://lobste.rs/s/llf2uu/ai_trouble_with_inaccessible_saas) - [\"AI\", and the trouble with inaccessible SaaS](https://localghost.dev/blog/ai-and-the-trouble-with-inaccessible-saas/)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)

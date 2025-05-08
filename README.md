@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 * [2025-05-08, 17:18:02](https://lobste.rs/s/xev3l9/another_look_into_postgresql_cte) - [Another look into PostgreSQL CTE materialization and non-idempotent subqueries](https://www.shayon.dev/post/2025/124/another-look-into-postgresql-cte-materialization-and-non-idempotent-subqueries/)
 * [2025-05-08, 15:41:06](https://lobste.rs/s/llf2uu/ai_trouble_with_inaccessible_saas) - [\"AI\", and the trouble with inaccessible SaaS](https://localghost.dev/blog/ai-and-the-trouble-with-inaccessible-saas/)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
@@ -19,7 +20,6 @@
 * [2025-05-07, 17:16:22](https://lobste.rs/s/tyeodn/implement_your_language_twice) - [Implement your language twice](https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html)
 * [2025-05-07, 17:02:25](https://lobste.rs/s/8jjrva/rust_api_inspired_by_python_powered_by) - [A Rust API Inspired by Python, Powered by Serde](https://ohadravid.github.io/posts/2025-05-serde-reflect/)
 * [2025-05-07, 15:23:03](https://lobste.rs/s/6icye2/writing_arabic_english_my_journey) - [Writing Arabic in English: My journey in creating a phonetic Arabic keyboard](https://sherifelmetwally.com/writing/writing-arabic-in-english)
-* [2025-05-07, 14:54:40](https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs) - [Newtyped Indices are Proofs](https://eikopf.bearblog.dev/newtyped-indices-are-proofs/)
 * [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
