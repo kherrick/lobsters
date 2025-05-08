@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 14:33:16](https://lobste.rs/s/cjt4dl/postgresql_18_beta_1_released) - [PostgreSQL 18 Beta 1 Released](https://www.postgresql.org/about/news/postgresql-18-beta-1-released-3070/)
 * [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2025-05-08, 13:38:53](https://lobste.rs/s/x6prea/i_ported_thousands_apps_windows_95) - [I ported THOUSANDS of apps to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2025-05-08, 13:38:53](https://lobste.rs/s/x6prea/backporting_net_framework_3_5_windows_95) - [Backporting .NET Framework 3.5 to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)

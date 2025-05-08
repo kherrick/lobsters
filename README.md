@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 14:33:16](https://lobste.rs/s/cjt4dl/postgresql_18_beta_1_released) - [PostgreSQL 18 Beta 1 Released](https://www.postgresql.org/about/news/postgresql-18-beta-1-released-3070/)
 * [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2025-05-08, 13:38:53](https://lobste.rs/s/x6prea/backporting_net_framework_3_5_windows_95) - [Backporting .NET Framework 3.5 to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2025-05-08, 13:17:38](https://lobste.rs/s/p1yqfo/yes_apple_ii_mousecard_irq_is_synced_vbl) - [Yes, the Apple II MouseCard IRQ is synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
@@ -17,7 +18,6 @@
 * [2025-05-07, 17:02:25](https://lobste.rs/s/8jjrva/rust_api_inspired_by_python_powered_by) - [A Rust API Inspired by Python, Powered by Serde](https://ohadravid.github.io/posts/2025-05-serde-reflect/)
 * [2025-05-07, 15:23:03](https://lobste.rs/s/6icye2/writing_arabic_english_my_journey) - [Writing Arabic in English: My journey in creating a phonetic Arabic keyboard](https://sherifelmetwally.com/writing/writing-arabic-in-english)
 * [2025-05-07, 15:18:16](https://lobste.rs/s/vcjamu/are_css_carousels_accessible) - [Are 'CSS Carousels' accessible?](https://www.sarasoueidan.com/blog/css-carousels-accessibility/)
-* [2025-05-07, 14:54:40](https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs) - [Newtyped Indices are Proofs](https://eikopf.bearblog.dev/newtyped-indices-are-proofs/)
 * [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
