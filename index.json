@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-08, 17:18:02",
+      "https://lobste.rs/s/xev3l9/another_look_into_postgresql_cte"
+    ],
+    [
+      "Another look into PostgreSQL CTE materialization and non-idempotent subqueries",
+      "https://www.shayon.dev/post/2025/124/another-look-into-postgresql-cte-materialization-and-non-idempotent-subqueries/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 15:41:06",
       "https://lobste.rs/s/llf2uu/ai_trouble_with_inaccessible_saas"
     ],
@@ -117,16 +127,6 @@
     [
       "Writing a preloadable malloc in Rust, using MMTk",
       "https://www.humprog.org/~stephen/blog/2025/05/02/#replacing-malloc-using-mmtk-in-rust"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 20:23:56",
-      "https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for"
-    ],
-    [
-      "How to build small and secure Docker images for Rust (FROM scratch)",
-      "https://kerkour.com/rust-docker-from-scratch"
     ]
   ],
   [
