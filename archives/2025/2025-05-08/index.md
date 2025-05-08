@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 15:41:06](https://lobste.rs/s/llf2uu/ai_trouble_with_inaccessible_saas) - [\"AI\", and the trouble with inaccessible SaaS](https://localghost.dev/blog/ai-and-the-trouble-with-inaccessible-saas/)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
 * [2025-05-08, 14:33:16](https://lobste.rs/s/cjt4dl/postgresql_18_beta_1_released) - [PostgreSQL 18 Beta 1 Released](https://www.postgresql.org/about/news/postgresql-18-beta-1-released-3070/)
 * [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
