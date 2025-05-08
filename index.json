@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-08, 09:24:15",
+      "https://lobste.rs/s/xnyrve/memory_safety_features_zig"
+    ],
+    [
+      "Memory Safety Features in Zig",
+      "https://gencmurat.com/en/posts/memory-safety-features-in-zig/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 06:39:29",
       "https://lobste.rs/s/ucapd0/sqlite_extension_hub"
     ],
@@ -57,16 +67,6 @@
     [
       "ty: An extremely fast Python type checker and language server, written in Rust",
       "https://github.com/astral-sh/ty"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 19:06:54",
-      "https://lobste.rs/s/arnhsd/how_average_prolog_2017"
-    ],
-    [
-      "How to Average in Prolog (2017)",
-      "https://storytotell.org/how-to-average-in-prolog"
     ]
   ],
   [
