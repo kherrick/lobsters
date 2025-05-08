@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-08, 13:17:38",
+      "https://lobste.rs/s/p1yqfo/yes_apple_ii_mousecard_irq_is_synced_vbl"
+    ],
+    [
+      "Yes, the Apple II MouseCard IRQ is synced to the VBL",
+      "https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 13:05:56",
       "https://lobste.rs/s/oj0kxa/announcing_spritely_oaken"
     ],
@@ -237,16 +247,6 @@
     [
       "The Curse of Knowing How, or; Fixing Everything",
       "https://notashelf.dev/posts/curse-of-knowing"
-    ]
-  ],
-  [
-    [
-      "2025-05-06, 07:42:47",
-      "https://lobste.rs/s/khca1j/curl_now_requires_disclosing_whether_ai"
-    ],
-    [
-      "curl now requires disclosing whether AI was used on bug reports",
-      "https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1"
     ]
   ]
 ]
