@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-08, 19:41:26](https://lobste.rs/s/rt7mc8/100k_day_cloud_bill_isn_t_bug_it_s_by_design) - [$100K/day cloud bill isn't a Bug – it's by Design](https://old.reddit.com/r/aethernet/comments/1khyt39/100kday_cloud_bill_isnt_a_bug_its_by_design)
 * [2025-05-08, 18:18:59](https://lobste.rs/s/vem9gs/announcing_ivar_ruby_s_missing_instance) - [Announcing Ivar: Ruby’s Missing Instance Variable Typo Warnings](https://avdi.codes/announcing-ivar-rubys-missing-instance-variable-typo-warnings/)
 * [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 * [2025-05-08, 17:18:02](https://lobste.rs/s/xev3l9/another_look_into_postgresql_cte) - [Another look into PostgreSQL CTE materialization and non-idempotent subqueries](https://www.shayon.dev/post/2025/124/another-look-into-postgresql-cte-materialization-and-non-idempotent-subqueries/)
+* [2025-05-08, 15:41:06](https://lobste.rs/s/llf2uu/ai_trouble_with_inaccessible_saas) - [\"AI\", and the trouble with inaccessible SaaS](https://localghost.dev/blog/ai-and-the-trouble-with-inaccessible-saas/)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
 * [2025-05-08, 14:33:16](https://lobste.rs/s/cjt4dl/postgresql_18_beta_1_released) - [PostgreSQL 18 Beta 1 Released](https://www.postgresql.org/about/news/postgresql-18-beta-1-released-3070/)
 * [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
