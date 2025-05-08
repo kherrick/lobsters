@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-08, 13:05:56",
+      "https://lobste.rs/s/oj0kxa/announcing_spritely_oaken"
+    ],
+    [
+      "Announcing Spritely Oaken",
+      "https://spritely.institute/news/announcing-spritely-oaken.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-08, 12:41:21",
+      "https://lobste.rs/s/zzhid3/path_memory_safety_is_inevitable"
+    ],
+    [
+      "The Path to Memory Safety is Inevitable",
+      "https://hardenedlinux.org/blog/2025-05-07-the-path-to-memory-safety-is-inevitable/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 09:24:15",
       "https://lobste.rs/s/xnyrve/memory_safety_features_zig"
     ],
@@ -207,26 +227,6 @@
     [
       "Argo CD v3.0.0",
       "https://github.com/argoproj/argo-cd/releases/tag/v3.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 01:50:19",
-      "https://lobste.rs/s/ugfqbq/glossary_web_component"
-    ],
-    [
-      "Glossary Web Component",
-      "https://dbushell.com/2025/05/07/glossary-web-component/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 01:15:08",
-      "https://lobste.rs/s/bqnktb/state_ssl_stacks"
-    ],
-    [
-      "The state of SSL stacks",
-      "https://www.haproxy.com/blog/state-of-ssl-stacks"
     ]
   ],
   [
