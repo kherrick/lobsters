@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-08, 15:41:06",
+      "https://lobste.rs/s/llf2uu/ai_trouble_with_inaccessible_saas"
+    ],
+    [
+      "\"AI\", and the trouble with inaccessible SaaS",
+      "https://localghost.dev/blog/ai-and-the-trouble-with-inaccessible-saas/"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 15:25:12",
       "https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http"
     ],
@@ -97,16 +107,6 @@
     [
       "Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O",
       "https://pganalyze.com/blog/postgres-18-async-io"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 01:50:13",
-      "https://lobste.rs/s/mcct5l/anemll_large_language_models_for_apple"
-    ],
-    [
-      "ANEMLL: Large Language Models for Apple Neural Engine",
-      "https://www.anemll.com/"
     ]
   ],
   [
