@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 21:30:59](https://lobste.rs/s/djfvzs/wikipedia_legally_challenges_flawed) - [Wikipedia legally challenges 'flawed' online safety rules](https://www.bbc.co.uk/news/articles/c62j2gr8866o)
 * [2025-05-08, 20:58:39](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust) - [Which AI \"arena\" is the one we can actually trust?](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust)
 * [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
-* [2025-05-08, 20:20:31](https://lobste.rs/s/d8oolv/implementing_state_machines_postgresql) - [Implementing State Machines in PostgreSQL (2017)](https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/)
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 20:00:31](https://lobste.rs/s/yii8te/pairdrop_peer_peer_file_sharing_your) - [PairDrop: peer-to-peer file sharing in your browser](https://github.com/schlagmichdoch/PairDrop)
 * [2025-05-08, 19:57:38](https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me) - [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
