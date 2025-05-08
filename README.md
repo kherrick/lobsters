@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 13:38:53](https://lobste.rs/s/x6prea/i_ported_thousands_apps_windows_95) - [I ported THOUSANDS of apps to Windows 95](https://www.youtube.com/watch?v=CTUMNtKQLl8)
 * [2025-05-08, 13:17:38](https://lobste.rs/s/p1yqfo/yes_apple_ii_mousecard_irq_is_synced_vbl) - [Yes, the Apple II MouseCard IRQ is synced to the VBL](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/)
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
 * [2025-05-08, 12:41:21](https://lobste.rs/s/zzhid3/path_memory_safety_is_inevitable) - [The Path to Memory Safety is Inevitable](https://hardenedlinux.org/blog/2025-05-07-the-path-to-memory-safety-is-inevitable/)
@@ -24,7 +25,6 @@
 * [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 * [2025-05-07, 09:27:09](https://lobste.rs/s/tzbzxl/performance_profile_visualization) - [Performance Profile Visualization Challenge](https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html)
 * [2025-05-07, 08:33:50](https://lobste.rs/s/5ortw8/argo_cd_v3_0_0) - [Argo CD v3.0.0](https://github.com/argoproj/argo-cd/releases/tag/v3.0.0)
-* [2025-05-06, 14:06:05](https://lobste.rs/s/1t0gpl/curse_knowing_how_fixing_everything) - [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
 
 ## [Archives](archives/index.md)
 
