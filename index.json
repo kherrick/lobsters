@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-08, 22:06:07",
+      "https://lobste.rs/s/gy2cuz/beating_fastest_lexer_generator_rust"
+    ],
+    [
+      "Beating the fastest lexer generator in Rust (2023)",
+      "https://alic.dev/blog/fast-lexing"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 21:30:59",
       "https://lobste.rs/s/djfvzs/wikipedia_legally_challenges_flawed"
     ],
@@ -187,16 +197,6 @@
     [
       "ty: An extremely fast Python type checker and language server, written in Rust",
       "https://github.com/astral-sh/ty"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 17:39:53",
-      "https://lobste.rs/s/qtot7u/magic_software_what_makes_good_engineer"
-    ],
-    [
-      "The magic of software; or, what makes a good engineer also makes a good engineering organization",
-      "https://moxie.org/2024/09/23/a-good-engineer.html"
     ]
   ],
   [
