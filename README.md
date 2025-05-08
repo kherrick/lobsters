@@ -13,6 +13,7 @@
 * [2025-05-08, 06:39:29](https://lobste.rs/s/ucapd0/sqlite_extension_hub) - [SQLite Extension Hub](https://sqlpkg.org/)
 * [2025-05-08, 03:17:31](https://lobste.rs/s/0u2z1x/waiting_for_postgres_18_accelerating) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-08, 01:15:49](https://lobste.rs/s/ft6ttd/writing_preloadable_malloc_rust_using) - [Writing a preloadable malloc in Rust, using MMTk](https://www.humprog.org/~stephen/blog/2025/05/02/#replacing-malloc-using-mmtk-in-rust)
+* [2025-05-07, 20:23:56](https://lobste.rs/s/h8emxa/how_build_small_secure_docker_images_for) - [How to build small and secure Docker images for Rust (FROM scratch)](https://kerkour.com/rust-docker-from-scratch)
 * [2025-05-07, 19:22:56](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
 * [2025-05-07, 17:39:53](https://lobste.rs/s/qtot7u/magic_software_what_makes_good_engineer) - [The magic of software; or, what makes a good engineer also makes a good engineering organization](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-07, 17:16:22](https://lobste.rs/s/tyeodn/implement_your_language_twice) - [Implement your language twice](https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html)
@@ -23,7 +24,6 @@
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 * [2025-05-07, 12:51:10](https://lobste.rs/s/mekmde/finale_how_music_software_dies) - [Finale - How Music Software Dies](https://www.youtube.com/watch?v=Yqaon6YHzaU)
 * [2025-05-07, 11:57:55](https://lobste.rs/s/ueacfz/zed_editor_adds_full_ai_capabilities) - [Zed Editor adds full AI capabilities](https://zed.dev/blog/fastest-ai-code-editor)
-* [2025-05-07, 11:42:00](https://lobste.rs/s/eusyqs/critical_look_at_mcp) - [A Critical Look at MCP](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp)
 * [2025-05-07, 09:34:03](https://lobste.rs/s/7ldnnl/optimizing_common_lisp) - [Optimizing Common Lisp](https://www.fosskers.ca/en/blog/optimizing-common-lisp)
 
 ## [Archives](archives/index.md)
