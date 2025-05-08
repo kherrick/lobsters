@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-08, 22:06:07](https://lobste.rs/s/gy2cuz/beating_fastest_lexer_generator_rust) - [Beating the fastest lexer generator in Rust (2023)](https://alic.dev/blog/fast-lexing)
 * [2025-05-08, 21:30:59](https://lobste.rs/s/djfvzs/wikipedia_legally_challenges_flawed) - [Wikipedia legally challenges 'flawed' online safety rules](https://www.bbc.co.uk/news/articles/c62j2gr8866o)
 * [2025-05-08, 20:58:39](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust) - [Which AI \"arena\" is the one we can actually trust?](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust)
 * [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
@@ -19,7 +20,6 @@
 * [2025-05-08, 06:39:29](https://lobste.rs/s/ucapd0/sqlite_extension_hub) - [SQLite Extension Hub](https://sqlpkg.org/)
 * [2025-05-08, 03:17:31](https://lobste.rs/s/0u2z1x/waiting_for_postgres_18_accelerating) - [Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O](https://pganalyze.com/blog/postgres-18-async-io)
 * [2025-05-07, 19:22:56](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
-* [2025-05-07, 17:39:53](https://lobste.rs/s/qtot7u/magic_software_what_makes_good_engineer) - [The magic of software; or, what makes a good engineer also makes a good engineering organization](https://moxie.org/2024/09/23/a-good-engineer.html)
 * [2025-05-07, 17:16:22](https://lobste.rs/s/tyeodn/implement_your_language_twice) - [Implement your language twice](https://futhark-lang.org/blog/2025-05-07-implement-your-language-twice.html)
 * [2025-05-07, 13:56:17](https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due) - [Removal of Deepin Desktop from openSUSE due to packaging policy violation](https://security.opensuse.org/2025/05/07/deepin-desktop-removal.html)
 * [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)

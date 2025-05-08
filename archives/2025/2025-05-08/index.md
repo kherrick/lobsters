@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-08](index.md)
 
+* [2025-05-08, 22:06:07](https://lobste.rs/s/gy2cuz/beating_fastest_lexer_generator_rust) - [Beating the fastest lexer generator in Rust (2023)](https://alic.dev/blog/fast-lexing)
 * [2025-05-08, 21:30:59](https://lobste.rs/s/djfvzs/wikipedia_legally_challenges_flawed) - [Wikipedia legally challenges 'flawed' online safety rules](https://www.bbc.co.uk/news/articles/c62j2gr8866o)
 * [2025-05-08, 20:58:39](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust) - [Which AI \"arena\" is the one we can actually trust?](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust)
 * [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
