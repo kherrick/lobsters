@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-05-07, 14:54:40",
+      "https://lobste.rs/s/twu7sz/newtyped_indices_are_proofs"
+    ],
+    [
+      "Newtyped Indices are Proofs",
+      "https://eikopf.bearblog.dev/newtyped-indices-are-proofs/"
+    ]
+  ],
+  [
+    [
       "2025-05-07, 13:56:17",
       "https://lobste.rs/s/m2csce/removal_deepin_desktop_from_opensuse_due"
     ],
@@ -237,16 +247,6 @@
     [
       "Optimizing Common Lisp",
       "https://www.fosskers.ca/en/blog/optimizing-common-lisp"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 09:27:09",
-      "https://lobste.rs/s/tzbzxl/performance_profile_visualization"
-    ],
-    [
-      "Performance Profile Visualization Challenge",
-      "https://matklad.github.io/2025/05/06/performance-profile-visualization-challenge.html"
     ]
   ]
 ]
