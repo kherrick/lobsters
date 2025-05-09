@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development) - [branchless development](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 19:43:54](https://lobste.rs/s/8loy9g/ada_china_1994) - [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
 * [2025-05-09, 16:45:16](https://lobste.rs/s/sx3gdk/composition_feature_i_ve_wanted_flox) - [Composition: the feature I've wanted in Flox since I joined the company](https://tinkering.xyz/flox-composition/)
 * [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
@@ -12,7 +13,6 @@
 * [2025-05-09, 06:22:47](https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s) - [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
 * [2025-05-09, 02:03:14](https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one) - [New Edition of FreePascal From Square One](https://www.contrapositivediary.com/?p=5399)
 * [2025-05-09, 01:54:11](https://lobste.rs/s/3jmcpq/building_your_own_atomic_bootc_desktop) - [Building your own Atomic (bootc) Desktop](https://fedoramagazine.org/building-your-own-atomic-bootc-desktop/)
-* [2025-05-09, 00:54:34](https://lobste.rs/s/ciffhb/200_change) - [200 and change](https://pdubroy.github.io/200andchange/)
 * [2025-05-09, 00:11:06](https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error) - [Easy parsing with reasonable error messages in OCaml's Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
 * [2025-05-08, 23:29:41](https://lobste.rs/s/gxmbzs/stability_by_design) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 23:19:46](https://lobste.rs/s/iwortf/so_we_finished_decompiling_lego_island) - [So we finished decompiling LEGO Island](https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D)
