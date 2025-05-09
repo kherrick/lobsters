@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-05-09, 00:54:34",
+      "https://lobste.rs/s/ciffhb/200_change"
+    ],
+    [
+      "200 and change",
+      "https://pdubroy.github.io/200andchange/"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 00:11:06",
       "https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error"
     ],
@@ -217,16 +227,6 @@
     [
       "Build your own ResponseWriter: safer HTTP in Go",
       "https://anto.pt/articles/go-http-responsewriter"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 14:13:02",
-      "https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language"
-    ],
-    [
-      "You can use C-Reduce for any language",
-      "https://bernsteinbear.com/blog/creduce/"
     ]
   ],
   [
