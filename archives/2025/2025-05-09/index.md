@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 21:10:54](https://lobste.rs/s/w37ytr/joys_sorrows_designing_language) - [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development) - [branchless development](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 19:43:54](https://lobste.rs/s/8loy9g/ada_china_1994) - [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
 * [2025-05-09, 16:45:16](https://lobste.rs/s/sx3gdk/composition_feature_i_ve_wanted_flox) - [Composition: the feature I've wanted in Flox since I joined the company](https://tinkering.xyz/flox-composition/)
