@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-09, 05:07:01](https://lobste.rs/s/plwo1g/constexpr_optional_trivial_relocation) - [Constexpr optional and trivial relocation](https://quuxplusone.github.io/blog/2025/05/08/siren-song-2-optional/)
 * [2025-05-09, 02:03:14](https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one) - [New Edition of FreePascal From Square One](https://www.contrapositivediary.com/?p=5399)
 * [2025-05-09, 01:54:11](https://lobste.rs/s/3jmcpq/building_your_own_atomic_bootc_desktop) - [Building your own Atomic (bootc) Desktop](https://fedoramagazine.org/building-your-own-atomic-bootc-desktop/)
 * [2025-05-09, 00:54:34](https://lobste.rs/s/ciffhb/200_change) - [200 and change](https://pdubroy.github.io/200andchange/)
@@ -24,7 +25,6 @@
 * [2025-05-08, 09:24:15](https://lobste.rs/s/xnyrve/memory_safety_features_zig) - [Memory Safety Features in Zig](https://gencmurat.com/en/posts/memory-safety-features-in-zig/)
 * [2025-05-08, 06:39:29](https://lobste.rs/s/ucapd0/sqlite_extension_hub) - [SQLite Extension Hub](https://sqlpkg.org/)
 * [2025-05-07, 19:22:56](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
-* [2025-05-07, 12:55:25](https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use) - [CLion Is Now Free for Non-Commercial Use](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/)
 
 ## [Archives](archives/index.md)
 
