@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-09, 05:07:01",
+      "https://lobste.rs/s/plwo1g/constexpr_optional_trivial_relocation"
+    ],
+    [
+      "Constexpr optional and trivial relocation",
+      "https://quuxplusone.github.io/blog/2025/05/08/siren-song-2-optional/"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 02:03:14",
       "https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one"
     ],
@@ -237,16 +247,6 @@
     [
       "ty: An extremely fast Python type checker and language server, written in Rust",
       "https://github.com/astral-sh/ty"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 12:55:25",
-      "https://lobste.rs/s/neoyui/clion_is_now_free_for_non_commercial_use"
-    ],
-    [
-      "CLion Is Now Free for Non-Commercial Use",
-      "https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/"
     ]
   ]
 ]
