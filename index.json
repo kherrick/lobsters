@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-09, 07:48:25",
+      "https://lobste.rs/s/ysqymn/rusty_nu_posix"
+    ],
+    [
+      "Rusty Nu POSIX",
+      "https://mort.io/blog/nu-posix/"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 06:22:47",
       "https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s"
     ],
@@ -227,16 +237,6 @@
     [
       "Memory Safety Features in Zig",
       "https://gencmurat.com/en/posts/memory-safety-features-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 06:39:29",
-      "https://lobste.rs/s/ucapd0/sqlite_extension_hub"
-    ],
-    [
-      "SQLite Extension Hub",
-      "https://sqlpkg.org/"
     ]
   ],
   [
