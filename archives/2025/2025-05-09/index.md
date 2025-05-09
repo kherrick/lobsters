@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
+* [2025-05-09, 07:48:25](https://lobste.rs/s/ysqymn/rusty_nu_posix) - [Rusty Nu POSIX](https://mort.io/blog/nu-posix/)
 * [2025-05-09, 06:22:47](https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s) - [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
 * [2025-05-09, 05:07:01](https://lobste.rs/s/plwo1g/constexpr_optional_trivial_relocation) - [Constexpr optional and trivial relocation](https://quuxplusone.github.io/blog/2025/05/08/siren-song-2-optional/)
 * [2025-05-09, 02:03:14](https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one) - [New Edition of FreePascal From Square One](https://www.contrapositivediary.com/?p=5399)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-09, 07:48:25](https://lobste.rs/s/ysqymn/rusty_nu_posix) - [Rusty Nu POSIX](https://mort.io/blog/nu-posix/)
 * [2025-05-09, 06:22:47](https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s) - [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
 * [2025-05-09, 02:03:14](https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one) - [New Edition of FreePascal From Square One](https://www.contrapositivediary.com/?p=5399)
 * [2025-05-09, 01:54:11](https://lobste.rs/s/3jmcpq/building_your_own_atomic_bootc_desktop) - [Building your own Atomic (bootc) Desktop](https://fedoramagazine.org/building-your-own-atomic-bootc-desktop/)
@@ -23,7 +24,6 @@
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
 * [2025-05-08, 12:41:21](https://lobste.rs/s/zzhid3/path_memory_safety_is_inevitable) - [The Path to Memory Safety is Inevitable](https://hardenedlinux.org/blog/2025-05-07-the-path-to-memory-safety-is-inevitable/)
 * [2025-05-08, 09:24:15](https://lobste.rs/s/xnyrve/memory_safety_features_zig) - [Memory Safety Features in Zig](https://gencmurat.com/en/posts/memory-safety-features-in-zig/)
-* [2025-05-08, 06:39:29](https://lobste.rs/s/ucapd0/sqlite_extension_hub) - [SQLite Extension Hub](https://sqlpkg.org/)
 * [2025-05-07, 19:22:56](https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server, written in Rust](https://github.com/astral-sh/ty)
 
 ## [Archives](archives/index.md)
