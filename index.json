@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-09, 13:02:45",
+      "https://lobste.rs/s/orlrul/microservices_are_tax_your_startup"
+    ],
+    [
+      "Microservices Are a Tax Your Startup Probably Can’t Afford",
+      "https://nexo.sh/posts/microservices-for-startups/"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 12:07:23",
       "https://lobste.rs/s/rmwfro/static_as_server"
     ],
@@ -167,16 +177,6 @@
     [
       "Rust Dependencies scare Me",
       "https://vincents.dev/blog/rust-dependencies-scare-me/?"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 18:18:59",
-      "https://lobste.rs/s/vem9gs/announcing_ivar_ruby_s_missing_instance"
-    ],
-    [
-      "Announcing Ivar: Ruby’s Missing Instance Variable Typo Warnings",
-      "https://avdi.codes/announcing-ivar-rubys-missing-instance-variable-typo-warnings/"
     ]
   ],
   [
