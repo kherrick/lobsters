@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-09, 13:02:45](https://lobste.rs/s/orlrul/microservices_are_tax_your_startup) - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/)
+* [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 * [2025-05-09, 12:07:23](https://lobste.rs/s/rmwfro/static_as_server) - [Static as a Server](https://overreacted.io/static-as-a-server/)
 * [2025-05-09, 11:25:14](https://lobste.rs/s/t5fvm1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/t5fvm1/what_are_you_doing_this_weekend)
 * [2025-05-09, 11:07:36](https://lobste.rs/s/4r3rcv/wasm_2_0_completed) - [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
