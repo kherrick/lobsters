@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-09, 16:45:16](https://lobste.rs/s/sx3gdk/composition_feature_i_ve_wanted_flox) - [Composition: the feature I've wanted in Flox since I joined the company](https://tinkering.xyz/flox-composition/)
 * [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 * [2025-05-09, 13:02:45](https://lobste.rs/s/orlrul/microservices_are_tax_your_startup) - [Microservices Are a Tax Your Startup Probably Can’t Afford](https://nexo.sh/posts/microservices-for-startups/)
@@ -18,7 +19,6 @@
 * [2025-05-08, 20:58:39](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust) - [Which AI \"arena\" is the one we can actually trust?](https://lobste.rs/s/ukvcyk/which_ai_arena_is_one_we_can_actually_trust)
 * [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
-* [2025-05-08, 20:00:31](https://lobste.rs/s/yii8te/pairdrop_peer_peer_file_sharing_your) - [PairDrop: peer-to-peer file sharing in your browser](https://github.com/schlagmichdoch/PairDrop)
 * [2025-05-08, 19:57:38](https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me) - [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
