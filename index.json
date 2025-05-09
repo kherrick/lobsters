@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-09, 11:25:14",
+      "https://lobste.rs/s/t5fvm1/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/t5fvm1/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-05-09, 11:07:36",
       "https://lobste.rs/s/4r3rcv/wasm_2_0_completed"
     ],
@@ -237,16 +247,6 @@
     [
       "Memory Safety Features in Zig",
       "https://gencmurat.com/en/posts/memory-safety-features-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-05-07, 19:22:56",
-      "https://lobste.rs/s/429q8a/ty_extremely_fast_python_type_checker"
-    ],
-    [
-      "ty: An extremely fast Python type checker and language server, written in Rust",
-      "https://github.com/astral-sh/ty"
     ]
   ]
 ]
