@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-09, 00:11:06",
+      "https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error"
+    ],
+    [
+      "Easy parsing with reasonable error messages in OCaml's Angstrom",
+      "https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f"
+    ]
+  ],
+  [
+    [
       "2025-05-08, 23:29:41",
       "https://lobste.rs/s/gxmbzs/stability_by_design"
     ],
@@ -107,16 +117,6 @@
     [
       "2.5D rendering on PlayDate",
       "https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 17:18:02",
-      "https://lobste.rs/s/xev3l9/another_look_into_postgresql_cte"
-    ],
-    [
-      "Another look into PostgreSQL CTE materialization and non-idempotent subqueries",
-      "https://www.shayon.dev/post/2025/124/another-look-into-postgresql-cte-materialization-and-non-idempotent-subqueries/"
     ]
   ],
   [
