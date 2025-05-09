@@ -11,6 +11,7 @@
 * [2025-05-09, 06:22:47](https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s) - [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
 * [2025-05-09, 02:03:14](https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one) - [New Edition of FreePascal From Square One](https://www.contrapositivediary.com/?p=5399)
 * [2025-05-09, 01:54:11](https://lobste.rs/s/3jmcpq/building_your_own_atomic_bootc_desktop) - [Building your own Atomic (bootc) Desktop](https://fedoramagazine.org/building-your-own-atomic-bootc-desktop/)
+* [2025-05-09, 00:54:34](https://lobste.rs/s/ciffhb/200_change) - [200 and change](https://pdubroy.github.io/200andchange/)
 * [2025-05-09, 00:11:06](https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error) - [Easy parsing with reasonable error messages in OCaml's Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
 * [2025-05-08, 23:29:41](https://lobste.rs/s/gxmbzs/stability_by_design) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 23:19:46](https://lobste.rs/s/iwortf/so_we_finished_decompiling_lego_island) - [So we finished decompiling LEGO Island](https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D)
@@ -22,7 +23,6 @@
 * [2025-05-08, 19:57:38](https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me) - [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
-* [2025-05-08, 14:13:02](https://lobste.rs/s/hpqat3/you_can_use_c_reduce_for_any_language) - [You can use C-Reduce for any language](https://bernsteinbear.com/blog/creduce/)
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
 * [2025-05-08, 09:24:15](https://lobste.rs/s/xnyrve/memory_safety_features_zig) - [Memory Safety Features in Zig](https://gencmurat.com/en/posts/memory-safety-features-in-zig/)
 
