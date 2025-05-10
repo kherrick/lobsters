@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-09](index.md)
 
 * [2025-05-09, 21:10:54](https://lobste.rs/s/w37ytr/joys_sorrows_designing_language) - [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
+* [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development_2015) - [branchless development (2015)](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development) - [branchless development](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 19:43:54](https://lobste.rs/s/8loy9g/ada_china_1994) - [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
 * [2025-05-09, 17:51:08](https://lobste.rs/s/ag5hyv/16_bit_intel_8088_chip_by_charles_bukowski) - [16-bit Intel 8088 Chip by Charles Bukowski](https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski)
