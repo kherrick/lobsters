@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-10, 11:49:55",
+      "https://lobste.rs/s/kldian/introduction_universal_scene"
+    ],
+    [
+      "Introduction to Universal Scene Description (2021)",
+      "https://openusd.org/release/intro.html"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 10:49:34",
       "https://lobste.rs/s/34sjxc/tool_verify_estimates_ii_flexible_proof"
     ],
@@ -67,16 +77,6 @@
     [
       "Tuscolo Static Certificate Transparency Log",
       "https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 05:14:48",
-      "https://lobste.rs/s/oub4lt/analyzing_cve_2025_31191_macos_security"
-    ],
-    [
-      "Analyzing CVE-2025-31191: A macOS security-scoped bookmarks-based sandbox escape",
-      "https://www.microsoft.com/en-us/security/blog/2025/05/01/analyzing-cve-2025-31191-a-macos-security-scoped-bookmarks-based-sandbox-escape/"
     ]
   ],
   [
