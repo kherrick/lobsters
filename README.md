@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-10, 10:04:49](https://lobste.rs/s/zibzwf/performance_investigation_challenge) - [A Performance Investigation Challenge —](https://www.mgaudet.ca/technical/2025/5/9/a-performance-investigation-challenge)
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
 * [2025-05-10, 06:36:52](https://lobste.rs/s/teddrj/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
@@ -12,7 +13,6 @@
 * [2025-05-09, 21:10:54](https://lobste.rs/s/w37ytr/joys_sorrows_designing_language) - [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development_2015) - [branchless development (2015)](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 19:43:54](https://lobste.rs/s/8loy9g/ada_china_1994) - [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
-* [2025-05-09, 17:51:08](https://lobste.rs/s/ag5hyv/16_bit_intel_8088_chip_by_charles_bukowski) - [16-bit Intel 8088 Chip by Charles Bukowski](https://kottke.org/25/05/16-bit-intel-8088-chip-by-charles-bukowski)
 * [2025-05-09, 16:45:16](https://lobste.rs/s/sx3gdk/composition_feature_i_ve_wanted_flox) - [Composition: the feature I've wanted in Flox since I joined the company](https://tinkering.xyz/flox-composition/)
 * [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
