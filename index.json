@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-10, 02:52:44",
+      "https://lobste.rs/s/bququq/spatial_data_management_1979"
+    ],
+    [
+      "Spatial Data-Management (1979)",
+      "https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 02:45:40",
+      "https://lobste.rs/s/12m2f0/algebraic_effects_another_mistake"
+    ],
+    [
+      "Algebraic Effects: Another mistake carried through to perfection?",
+      "https://kjosib.github.io/Counterpoint/effects.html"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 02:33:39",
       "https://lobste.rs/s/9otwa3/formal_analysis_apple_s_imessage_pq3"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-05-09, 02:03:14",
-      "https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one"
-    ],
-    [
-      "New Edition of FreePascal From Square One",
-      "https://www.contrapositivediary.com/?p=5399"
-    ]
-  ],
-  [
-    [
       "2025-05-09, 00:11:06",
       "https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error"
     ],
@@ -227,16 +237,6 @@
     [
       "2.5D rendering on PlayDate",
       "https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 15:25:12",
-      "https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http"
-    ],
-    [
-      "Build your own ResponseWriter: safer HTTP in Go",
-      "https://anto.pt/articles/go-http-responsewriter"
     ]
   ],
   [
