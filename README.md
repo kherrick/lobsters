@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-10, 22:30:45](https://lobste.rs/s/voxxeb/louise_polynomial_time_meta) - [louise: Polynomial-time Meta-Interpretive Learning for logic programming](https://github.com/stassa/louise)
 * [2025-05-10, 21:21:23](https://lobste.rs/s/wvz30t/naked_objects) - [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
 * [2025-05-10, 18:45:17](https://lobste.rs/s/mzxwgb/steps_2012_progress_final_nsf_report) - [STEPS 2012 Progress and Final NSF Report](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
 * [2025-05-10, 16:42:48](https://lobste.rs/s/kxmrsa/dcj11_single_board_computer_pdp_11) - [DCJ11 Single Board Computer (PDP-11)](https://www.5volts.ch/pages/dcj11sbc/)
@@ -24,7 +25,6 @@
 * [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 * [2025-05-09, 11:07:36](https://lobste.rs/s/4r3rcv/wasm_2_0_completed) - [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
-* [2025-05-08, 19:57:38](https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me) - [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 
 ## [Archives](archives/index.md)
 
