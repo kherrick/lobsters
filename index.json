@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-10, 15:21:29",
+      "https://lobste.rs/s/vuolg1/secure_by_design_google_s_perspective_on"
+    ],
+    [
+      "Secure by Design: Google’s Perspective on Memory Safety (2024)",
+      "https://storage.googleapis.com/gweb-research2023-media/pubtools/7665.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 14:30:04",
       "https://lobste.rs/s/wabkap/changelog_slack_is_dead_long_live_zulip"
     ],
@@ -75,7 +85,7 @@
       "https://lobste.rs/s/zibzwf/performance_investigation_challenge"
     ],
     [
-      "A Performance Investigation Challenge —",
+      "A Performance Investigation Challenge",
       "https://www.mgaudet.ca/technical/2025/5/9/a-performance-investigation-challenge"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "Microservices Are a Tax Your Startup Probably Can’t Afford",
       "https://nexo.sh/posts/microservices-for-startups/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 12:07:23",
-      "https://lobste.rs/s/rmwfro/static_as_server"
-    ],
-    [
-      "Static as a Server",
-      "https://overreacted.io/static-as-a-server/"
     ]
   ],
   [
