@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-10, 02:33:39](https://lobste.rs/s/9otwa3/formal_analysis_apple_s_imessage_pq3) - [A Formal Analysis of Apple’s iMessage PQ3 Protocol](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 * [2025-05-09, 21:10:54](https://lobste.rs/s/w37ytr/joys_sorrows_designing_language) - [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development) - [branchless development](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 19:43:54](https://lobste.rs/s/8loy9g/ada_china_1994) - [Ada in China (1994)](https://dl.acm.org/doi/pdf/10.1145/181476.181483)
@@ -24,7 +25,6 @@
 * [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
 * [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
-* [2025-05-08, 09:24:15](https://lobste.rs/s/xnyrve/memory_safety_features_zig) - [Memory Safety Features in Zig](https://gencmurat.com/en/posts/memory-safety-features-in-zig/)
 
 ## [Archives](archives/index.md)
 
