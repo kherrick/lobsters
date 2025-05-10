@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-10, 02:52:44](https://lobste.rs/s/bququq/spatial_data_management_1979) - [Spatial Data-Management (1979)](https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf)
+* [2025-05-10, 02:45:40](https://lobste.rs/s/12m2f0/algebraic_effects_another_mistake) - [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
 * [2025-05-10, 02:33:39](https://lobste.rs/s/9otwa3/formal_analysis_apple_s_imessage_pq3) - [A Formal Analysis of Apple’s iMessage PQ3 Protocol](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 * [2025-05-09, 21:10:54](https://lobste.rs/s/w37ytr/joys_sorrows_designing_language) - [Joys and sorrows of designing a language](https://www.youtube.com/watch?v=Zx5DcBt61bQ)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development) - [branchless development](https://flak.tedunangst.com/post/branchless-development)
@@ -14,7 +16,6 @@
 * [2025-05-09, 11:07:36](https://lobste.rs/s/4r3rcv/wasm_2_0_completed) - [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
 * [2025-05-09, 07:48:25](https://lobste.rs/s/ysqymn/rusty_nu_posix) - [Rusty Nu POSIX](https://mort.io/blog/nu-posix/)
 * [2025-05-09, 06:22:47](https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s) - [eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6](https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/)
-* [2025-05-09, 02:03:14](https://lobste.rs/s/k8jdhj/new_edition_freepascal_from_square_one) - [New Edition of FreePascal From Square One](https://www.contrapositivediary.com/?p=5399)
 * [2025-05-09, 00:11:06](https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error) - [Easy parsing with reasonable error messages in OCaml's Angstrom](https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f)
 * [2025-05-08, 23:29:41](https://lobste.rs/s/gxmbzs/stability_by_design) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 23:19:46](https://lobste.rs/s/iwortf/so_we_finished_decompiling_lego_island) - [So we finished decompiling LEGO Island](https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D)
@@ -23,7 +24,6 @@
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
 * [2025-05-08, 19:57:38](https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me) - [Rust Dependencies scare Me](https://vincents.dev/blog/rust-dependencies-scare-me/?)
 * [2025-05-08, 17:44:54](https://lobste.rs/s/0faoue/2_5d_rendering_on_playdate) - [2.5D rendering on PlayDate](https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering)
-* [2025-05-08, 15:25:12](https://lobste.rs/s/8zmkmw/build_your_own_responsewriter_safer_http) - [Build your own ResponseWriter: safer HTTP in Go](https://anto.pt/articles/go-http-responsewriter)
 * [2025-05-08, 13:05:56](https://lobste.rs/s/oj0kxa/announcing_spritely_oaken) - [Announcing Spritely Oaken](https://spritely.institute/news/announcing-spritely-oaken.html)
 
 ## [Archives](archives/index.md)
