@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-10, 06:28:40",
+      "https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11"
+    ],
+    [
+      "In praise of grobi for auto-configuring X11 monitors",
+      "https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 06:23:29",
+      "https://lobste.rs/s/tz2xog/tuscolo_static_certificate"
+    ],
+    [
+      "Tuscolo Static Certificate Transparency Log",
+      "https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 05:14:48",
       "https://lobste.rs/s/oub4lt/analyzing_cve_2025_31191_macos_security"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-05-09, 06:22:47",
-      "https://lobste.rs/s/ihrrkt/ebpf_mystery_when_is_ipv4_not_ipv4_when_it_s"
-    ],
-    [
-      "eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6",
-      "https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/"
-    ]
-  ],
-  [
-    [
       "2025-05-08, 23:29:41",
       "https://lobste.rs/s/gxmbzs/stability_by_design"
     ],
@@ -237,16 +247,6 @@
     [
       "2.5D rendering on PlayDate",
       "https://www.ligeiagames.com/ligeia-blog/castle-kellmore-rendering"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 13:05:56",
-      "https://lobste.rs/s/oj0kxa/announcing_spritely_oaken"
-    ],
-    [
-      "Announcing Spritely Oaken",
-      "https://spritely.institute/news/announcing-spritely-oaken.html"
     ]
   ]
 ]
