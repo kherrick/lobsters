@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 16:42:48](https://lobste.rs/s/kxmrsa/dcj11_single_board_computer_pdp_11) - [DCJ11 Single Board Computer (PDP-11)](https://www.5volts.ch/pages/dcj11sbc/)
+* [2025-05-10, 16:39:44](https://lobste.rs/s/3edrcj/exploiting_copilot_ai_for_sharepoint) - [Exploiting Copilot AI for SharePoint](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/)
+* [2025-05-10, 16:31:58](https://lobste.rs/s/azcfyx/announcing_lix_2_93_bici_bici) - [Announcing Lix 2.93 “Bici Bici”](https://lix.systems/blog/2025-05-06-lix-2.93-release/)
+* [2025-05-10, 16:29:04](https://lobste.rs/s/biswto/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/)
 * [2025-05-10, 16:20:31](https://lobste.rs/s/dicjhi/reverse_engineering_386_processor_s) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 15:59:48](https://lobste.rs/s/vlyrt4/are_we_serious_about_using_tla_for) - [Are We Serious About Using TLA+ For Statistical Properties?](https://emptysqua.re/blog/are-we-serious-about-statistical-properties-tlaplus/)
 * [2025-05-10, 15:21:29](https://lobste.rs/s/vuolg1/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety (2024)](https://storage.googleapis.com/gweb-research2023-media/pubtools/7665.pdf)
