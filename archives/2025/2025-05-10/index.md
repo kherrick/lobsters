@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 10:27:02](https://lobste.rs/s/x6jqrr/testing_sourcery_ai_github_copilot_for) - [Testing sourcery.ai and GitHub Copilot for cockpit PR reviews](https://piware.de/post/2025-08-09-sourcery/)
 * [2025-05-10, 10:04:49](https://lobste.rs/s/zibzwf/performance_investigation_challenge) - [A Performance Investigation Challenge —](https://www.mgaudet.ca/technical/2025/5/9/a-performance-investigation-challenge)
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
 * [2025-05-10, 06:36:52](https://lobste.rs/s/teddrj/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
