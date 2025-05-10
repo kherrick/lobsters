@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-10, 10:49:34",
+      "https://lobste.rs/s/34sjxc/tool_verify_estimates_ii_flexible_proof"
+    ],
+    [
+      "A tool to verify estimates, II: a flexible proof assistant",
+      "https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 10:27:02",
       "https://lobste.rs/s/x6jqrr/testing_sourcery_ai_github_copilot_for"
     ],
@@ -67,16 +77,6 @@
     [
       "Analyzing CVE-2025-31191: A macOS security-scoped bookmarks-based sandbox escape",
       "https://www.microsoft.com/en-us/security/blog/2025/05/01/analyzing-cve-2025-31191-a-macos-security-scoped-bookmarks-based-sandbox-escape/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 04:51:11",
-      "https://lobste.rs/s/jgqp4i/breaking_sound_barrier_part_i_fuzzing"
-    ],
-    [
-      "Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages",
-      "https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html"
     ]
   ],
   [
