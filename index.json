@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-10, 22:30:45",
+      "https://lobste.rs/s/voxxeb/louise_polynomial_time_meta"
+    ],
+    [
+      "louise: Polynomial-time Meta-Interpretive Learning for logic programming",
+      "https://github.com/stassa/louise"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 21:21:23",
       "https://lobste.rs/s/wvz30t/naked_objects"
     ],
@@ -237,16 +247,6 @@
     [
       "Wasm 2.0 Completed",
       "https://webassembly.org/news/2025-03-20-wasm-2.0/"
-    ]
-  ],
-  [
-    [
-      "2025-05-08, 19:57:38",
-      "https://lobste.rs/s/j3nhhc/rust_dependencies_scare_me"
-    ],
-    [
-      "Rust Dependencies scare Me",
-      "https://vincents.dev/blog/rust-dependencies-scare-me/?"
     ]
   ]
 ]
