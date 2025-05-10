@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-10, 16:20:31",
+      "https://lobste.rs/s/dicjhi/reverse_engineering_386_processor_s"
+    ],
+    [
+      "Reverse engineering the 386 processor's prefetch queue circuitry",
+      "http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-10, 15:59:48",
+      "https://lobste.rs/s/vlyrt4/are_we_serious_about_using_tla_for"
+    ],
+    [
+      "Are We Serious About Using TLA+ For Statistical Properties?",
+      "https://emptysqua.re/blog/are-we-serious-about-statistical-properties-tlaplus/"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 15:21:29",
       "https://lobste.rs/s/vuolg1/secure_by_design_google_s_perspective_on"
     ],
@@ -47,16 +67,6 @@
     [
       "HACKSAT25: The first multi-tenant satellite unikernel security challenge",
       "https://hacksat.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 11:49:55",
-      "https://lobste.rs/s/kldian/introduction_universal_scene"
-    ],
-    [
-      "Introduction to Universal Scene Description (2021)",
-      "https://openusd.org/release/intro.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Tuscolo Static Certificate Transparency Log",
       "https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 04:51:11",
-      "https://lobste.rs/s/jgqp4i/breaking_sound_barrier_part_i_fuzzing"
-    ],
-    [
-      "Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages",
-      "https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html"
     ]
   ],
   [
