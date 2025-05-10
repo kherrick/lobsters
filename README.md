@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-10, 14:25:34](https://lobste.rs/s/gwucam/lume_3_was_released) - [Lume 3 was released](https://lume.land/blog/posts/lume-3/)
 * [2025-05-10, 13:33:49](https://lobste.rs/s/3zhwyb/truenas_core_is_dead_long_live_zvault) - [TrueNAS CORE is Dead – Long Live zVault](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/#truenas-core-dead-long-live-zvault)
 * [2025-05-10, 12:45:37](https://lobste.rs/s/cxdhms/hacksat25_first_multi_tenant_satellite) - [HACKSAT25: The first multi-tenant satellite unikernel security challenge](https://hacksat.dev/)
 * [2025-05-10, 11:49:55](https://lobste.rs/s/kldian/introduction_universal_scene) - [Introduction to Universal Scene Description (2021)](https://openusd.org/release/intro.html)
@@ -11,7 +12,6 @@
 * [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-10, 06:23:29](https://lobste.rs/s/tz2xog/tuscolo_static_certificate) - [Tuscolo Static Certificate Transparency Log](https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m)
 * [2025-05-10, 04:51:11](https://lobste.rs/s/jgqp4i/breaking_sound_barrier_part_i_fuzzing) - [Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages](https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html)
-* [2025-05-10, 02:52:44](https://lobste.rs/s/bququq/spatial_data_management_1979) - [Spatial Data-Management (1979)](https://www.media.mit.edu/speech/papers/1979/bolt_1979_spatial_data-management.pdf)
 * [2025-05-10, 02:45:40](https://lobste.rs/s/12m2f0/algebraic_effects_another_mistake) - [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
 * [2025-05-10, 02:33:39](https://lobste.rs/s/9otwa3/formal_analysis_apple_s_imessage_pq3) - [A Formal Analysis of Apple’s iMessage PQ3 Protocol](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development_2015) - [branchless development (2015)](https://flak.tedunangst.com/post/branchless-development)
