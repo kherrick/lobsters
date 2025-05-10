@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 12:45:37](https://lobste.rs/s/cxdhms/hacksat25_first_multi_tenant_satellite) - [HACKSAT25: The first multi-tenant satellite unikernel security challenge](https://hacksat.dev/)
 * [2025-05-10, 11:49:55](https://lobste.rs/s/kldian/introduction_universal_scene) - [Introduction to Universal Scene Description (2021)](https://openusd.org/release/intro.html)
 * [2025-05-10, 10:49:34](https://lobste.rs/s/34sjxc/tool_verify_estimates_ii_flexible_proof) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 * [2025-05-10, 10:27:02](https://lobste.rs/s/x6jqrr/testing_sourcery_ai_github_copilot_for) - [Testing sourcery.ai and GitHub Copilot for cockpit PR reviews](https://piware.de/post/2025-08-09-sourcery/)
