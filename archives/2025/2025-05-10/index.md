@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 10:49:34](https://lobste.rs/s/34sjxc/tool_verify_estimates_ii_flexible_proof) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 * [2025-05-10, 10:27:02](https://lobste.rs/s/x6jqrr/testing_sourcery_ai_github_copilot_for) - [Testing sourcery.ai and GitHub Copilot for cockpit PR reviews](https://piware.de/post/2025-08-09-sourcery/)
 * [2025-05-10, 10:04:49](https://lobste.rs/s/zibzwf/performance_investigation_challenge) - [A Performance Investigation Challenge —](https://www.mgaudet.ca/technical/2025/5/9/a-performance-investigation-challenge)
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
