@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-10](index.md)
 
+* [2025-05-10, 21:21:23](https://lobste.rs/s/wvz30t/naked_objects) - [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
 * [2025-05-10, 18:45:17](https://lobste.rs/s/mzxwgb/steps_2012_progress_final_nsf_report) - [STEPS 2012 Progress and Final NSF Report](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
 * [2025-05-10, 16:42:48](https://lobste.rs/s/kxmrsa/dcj11_single_board_computer_pdp_11) - [DCJ11 Single Board Computer (PDP-11)](https://www.5volts.ch/pages/dcj11sbc/)
 * [2025-05-10, 16:39:44](https://lobste.rs/s/3edrcj/exploiting_copilot_ai_for_sharepoint) - [Exploiting Copilot AI for SharePoint](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/)
