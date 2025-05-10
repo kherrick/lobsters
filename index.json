@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-10, 04:51:11",
+      "https://lobste.rs/s/jgqp4i/breaking_sound_barrier_part_i_fuzzing"
+    ],
+    [
+      "Breaking the Sound Barrier Part I: Fuzzing CoreAudio with Mach Messages",
+      "https://googleprojectzero.blogspot.com/2025/05/breaking-sound-barrier-part-i-fuzzing.html"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 02:52:44",
       "https://lobste.rs/s/bququq/spatial_data_management_1979"
     ],
@@ -157,16 +167,6 @@
     [
       "eBPF mystery: When is IPv4 not IPv4? When it's pretending to be IPv6",
       "https://blog.gripdev.xyz/2025/05/06/ebpf-mystery-when-is-ipv4-not-ipv4-when-its-ipv6/"
-    ]
-  ],
-  [
-    [
-      "2025-05-09, 00:11:06",
-      "https://lobste.rs/s/up2tdk/easy_parsing_with_reasonable_error"
-    ],
-    [
-      "Easy parsing with reasonable error messages in OCaml's Angstrom",
-      "https://dev.to/yawaramin/easy-parsing-with-reasonable-error-messages-in-ocamls-angstrom-g5f"
     ]
   ],
   [
