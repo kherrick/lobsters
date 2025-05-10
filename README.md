@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-10, 06:36:52](https://lobste.rs/s/teddrj/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-10, 06:23:29](https://lobste.rs/s/tz2xog/tuscolo_static_certificate) - [Tuscolo Static Certificate Transparency Log](https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m)
 * [2025-05-10, 05:14:48](https://lobste.rs/s/oub4lt/analyzing_cve_2025_31191_macos_security) - [Analyzing CVE-2025-31191: A macOS security-scoped bookmarks-based sandbox escape](https://www.microsoft.com/en-us/security/blog/2025/05/01/analyzing-cve-2025-31191-a-macos-security-scoped-bookmarks-based-sandbox-escape/)
@@ -19,7 +20,6 @@
 * [2025-05-09, 11:25:14](https://lobste.rs/s/t5fvm1/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/t5fvm1/what_are_you_doing_this_weekend)
 * [2025-05-09, 11:07:36](https://lobste.rs/s/4r3rcv/wasm_2_0_completed) - [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
 * [2025-05-09, 07:48:25](https://lobste.rs/s/ysqymn/rusty_nu_posix) - [Rusty Nu POSIX](https://mort.io/blog/nu-posix/)
-* [2025-05-08, 23:29:41](https://lobste.rs/s/gxmbzs/stability_by_design) - [Stability by Design](https://potetm.com/devtalk/stability-by-design.html)
 * [2025-05-08, 23:19:46](https://lobste.rs/s/iwortf/so_we_finished_decompiling_lego_island) - [So we finished decompiling LEGO Island](https://youtube.com/watch?v=gthm-0Av93Q&pp=ygUjd2UgZmluaXNoZWQgZGVjb21waWxpbmcgbGVnbyBpc2xhbmQ%3D)
 * [2025-05-08, 20:48:40](https://lobste.rs/s/exup3x/web_browser_telemetry) - [Web Browser telemetry](https://sizeof.cat/post/web-browser-telemetry-2025-edition/)
 * [2025-05-08, 20:10:12](https://lobste.rs/s/r0axbc/reservoir_sampling) - [Reservoir Sampling](https://samwho.dev/reservoir-sampling/)
