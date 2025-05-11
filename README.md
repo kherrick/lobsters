@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-11, 03:00:21](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google) - [Ian Lance Taylor of the Go team leaves Google](https://www.airs.com/blog/archives/670)
+* [2025-05-11, 02:14:28](https://lobste.rs/s/47eqcj/netbsd_10_x_kernel_math_emulation) - [NetBSD 10.x kernel MATH_EMULATION](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
 * [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies - Alex Edwards](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
 * [2025-05-10, 22:30:45](https://lobste.rs/s/voxxeb/louise_polynomial_time_meta) - [louise: Polynomial-time Meta-Interpretive Learning for logic programming](https://github.com/stassa/louise)
 * [2025-05-10, 21:21:23](https://lobste.rs/s/wvz30t/naked_objects) - [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
@@ -14,7 +16,6 @@
 * [2025-05-10, 14:30:04](https://lobste.rs/s/wabkap/changelog_slack_is_dead_long_live_zulip) - [Changelog Slack is dead. Long live Zulip](https://changelog.com/posts/our-slack-is-dead-long-live-zulip)
 * [2025-05-10, 14:25:34](https://lobste.rs/s/gwucam/lume_3_was_released) - [Lume 3 was released](https://lume.land/blog/posts/lume-3/)
 * [2025-05-10, 13:33:49](https://lobste.rs/s/3zhwyb/truenas_core_is_dead_long_live_zvault) - [TrueNAS CORE is Dead – Long Live zVault](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/#truenas-core-dead-long-live-zvault)
-* [2025-05-10, 10:49:34](https://lobste.rs/s/34sjxc/tool_verify_estimates_ii_flexible_proof) - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 * [2025-05-10, 10:27:02](https://lobste.rs/s/x6jqrr/testing_sourcery_ai_github_copilot_for) - [Testing sourcery.ai and GitHub Copilot for cockpit PR reviews](https://piware.de/post/2025-08-09-sourcery/)
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
 * [2025-05-10, 06:36:52](https://lobste.rs/s/teddrj/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
@@ -24,7 +25,6 @@
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development_2015) - [branchless development (2015)](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
-* [2025-05-09, 11:07:36](https://lobste.rs/s/4r3rcv/wasm_2_0_completed) - [Wasm 2.0 Completed](https://webassembly.org/news/2025-03-20-wasm-2.0/)
 
 ## [Archives](archives/index.md)
 
