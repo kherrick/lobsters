@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-11, 05:19:27](https://lobste.rs/s/n12xrd/sierpinski_triangle_my_bitwise) - [Sierpiński triangle? In my bitwise AND?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
 * [2025-05-11, 04:23:45](https://lobste.rs/s/ngbasc/fan_service) - [fan service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:43:26](https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted) - [eBPF agent that captures pre-encrypted network traffic](https://github.com/qpoint-io/qtap)
 * [2025-05-11, 03:39:18](https://lobste.rs/s/xonuxm/open_source_cursor_alternative) - [Open-source Cursor alternative](https://github.com/voideditor/void)
@@ -23,7 +24,6 @@
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
 * [2025-05-10, 06:36:52](https://lobste.rs/s/teddrj/slow_software_for_burning_world) - [Slow Software for a Burning World](https://bonfirenetworks.org/posts/slow_software_for_a_burning_world/)
 * [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
-* [2025-05-10, 02:45:40](https://lobste.rs/s/12m2f0/algebraic_effects_another_mistake) - [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 
 ## [Archives](archives/index.md)

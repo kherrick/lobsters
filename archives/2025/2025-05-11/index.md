@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 05:19:27](https://lobste.rs/s/n12xrd/sierpinski_triangle_my_bitwise) - [Sierpiński triangle? In my bitwise AND?](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise)
 * [2025-05-11, 04:23:45](https://lobste.rs/s/ngbasc/fan_service) - [fan service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:43:26](https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted) - [eBPF agent that captures pre-encrypted network traffic](https://github.com/qpoint-io/qtap)
 * [2025-05-11, 03:39:18](https://lobste.rs/s/xonuxm/open_source_cursor_alternative) - [Open-source Cursor alternative](https://github.com/voideditor/void)
