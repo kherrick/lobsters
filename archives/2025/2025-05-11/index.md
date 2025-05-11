@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 04:23:45](https://lobste.rs/s/ngbasc/fan_service) - [fan service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:43:26](https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted) - [eBPF agent that captures pre-encrypted network traffic](https://github.com/qpoint-io/qtap)
 * [2025-05-11, 03:39:18](https://lobste.rs/s/xonuxm/open_source_cursor_alternative) - [Open-source Cursor alternative](https://github.com/voideditor/void)
 * [2025-05-11, 03:38:30](https://lobste.rs/s/7trmcs/dotless_domains) - [Dotless Domains](https://lab.avl.la/dotless/)
