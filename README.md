@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-11, 15:43:30](https://lobste.rs/s/nkikdh/super_8086_box_pc_xt_emulator_with_adlib) - [Super 8086 Box, PC XT emulator with Adlib, MPU-401, joystick and NE2000 support](https://www.toughdev.com/content/2023/08/super-8086-box-my-home-built-pc-xt-emulator-with-adlib-mpu-401-joystick-and-ne2000-support/)
 * [2025-05-11, 15:16:11](https://lobste.rs/s/ldtzsg/review_documentation_rust_ecosystem) - [A review of documentation in the Rust ecosystem](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 13:37:37](https://lobste.rs/s/myrlhi/how_cursor_indexes_codebases_fast) - [How Cursor Indexes Codebases Fast](https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast)
 * [2025-05-11, 11:16:52](https://lobste.rs/s/extsy5/one_click_rce_asus_s_preinstalled_driver) - [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/)
@@ -18,7 +19,6 @@
 * [2025-05-10, 16:39:44](https://lobste.rs/s/3edrcj/exploiting_copilot_ai_for_sharepoint) - [Exploiting Copilot AI for SharePoint](https://www.pentestpartners.com/security-blog/exploiting-copilot-ai-for-sharepoint/)
 * [2025-05-10, 16:31:58](https://lobste.rs/s/azcfyx/announcing_lix_2_93_bici_bici) - [Announcing Lix 2.93 “Bici Bici”](https://lix.systems/blog/2025-05-06-lix-2.93-release/)
 * [2025-05-10, 16:29:04](https://lobste.rs/s/biswto/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/)
-* [2025-05-10, 16:20:31](https://lobste.rs/s/dicjhi/reverse_engineering_386_processor_s) - [Reverse engineering the 386 processor's prefetch queue circuitry](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html)
 * [2025-05-10, 15:59:48](https://lobste.rs/s/vlyrt4/are_we_serious_about_using_tla_for) - [Are We Serious About Using TLA+ For Statistical Properties?](https://emptysqua.re/blog/are-we-serious-about-statistical-properties-tlaplus/)
 * [2025-05-10, 15:21:29](https://lobste.rs/s/vuolg1/secure_by_design_google_s_perspective_on) - [Secure by Design: Google’s Perspective on Memory Safety (2024)](https://storage.googleapis.com/gweb-research2023-media/pubtools/7665.pdf)
 * [2025-05-10, 14:30:04](https://lobste.rs/s/wabkap/changelog_slack_is_dead_long_live_zulip) - [Changelog Slack is dead. Long live Zulip](https://changelog.com/posts/our-slack-is-dead-long-live-zulip)
