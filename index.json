@@ -1,11 +1,21 @@
 [
   [
     [
-      "2025-05-11, 19:57:15",
-      "https://lobste.rs/s/nxohrr/flattening_rust_s_learning_curve_corrode"
+      "2025-05-11, 20:23:34",
+      "https://lobste.rs/s/xq41xg/plain_vanilla_web"
     ],
     [
-      "Flattening Rust's Learning Curve | corrode Rust Consulting",
+      "Plain Vanilla Web",
+      "https://plainvanillaweb.com/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-11, 19:57:15",
+      "https://lobste.rs/s/nxohrr/flattening_rust_s_learning_curve"
+    ],
+    [
+      "Flattening Rust's Learning Curve",
       "https://corrode.dev/blog/flattening-rusts-learning-curve/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Organize your Go middleware without dependencies",
       "https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 21:21:23",
-      "https://lobste.rs/s/wvz30t/naked_objects"
-    ],
-    [
-      "Naked objects",
-      "https://en.wikipedia.org/wiki/Naked_objects"
     ]
   ],
   [
