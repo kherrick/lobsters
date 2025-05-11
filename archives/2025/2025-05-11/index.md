@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 15:16:11](https://lobste.rs/s/ldtzsg/review_documentation_rust_ecosystem) - [A review of documentation in the Rust ecosystem](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 14:16:35](https://lobste.rs/s/tjcy4o/effect_chatgpt_on_students_learning) - [The effect of ChatGPT on students’ learning performance](https://www.nature.com/articles/s41599-025-04787-y)
 * [2025-05-11, 13:37:37](https://lobste.rs/s/myrlhi/how_cursor_indexes_codebases_fast) - [How Cursor Indexes Codebases Fast](https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast)
 * [2025-05-11, 11:16:52](https://lobste.rs/s/extsy5/one_click_rce_asus_s_preinstalled_driver) - [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/)
