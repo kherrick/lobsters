@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies - Alex Edwards](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
 * [2025-05-10, 22:30:45](https://lobste.rs/s/voxxeb/louise_polynomial_time_meta) - [louise: Polynomial-time Meta-Interpretive Learning for logic programming](https://github.com/stassa/louise)
 * [2025-05-10, 21:21:23](https://lobste.rs/s/wvz30t/naked_objects) - [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
 * [2025-05-10, 18:45:17](https://lobste.rs/s/mzxwgb/steps_2012_progress_final_nsf_report) - [STEPS 2012 Progress and Final NSF Report](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
@@ -20,7 +21,6 @@
 * [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-10, 06:23:29](https://lobste.rs/s/tz2xog/tuscolo_static_certificate) - [Tuscolo Static Certificate Transparency Log](https://bsky.app/profile/filippo.abyssdomain.expert/post/3loquchbrpm2m)
 * [2025-05-10, 02:45:40](https://lobste.rs/s/12m2f0/algebraic_effects_another_mistake) - [Algebraic Effects: Another mistake carried through to perfection?](https://kjosib.github.io/Counterpoint/effects.html)
-* [2025-05-10, 02:33:39](https://lobste.rs/s/9otwa3/formal_analysis_apple_s_imessage_pq3) - [A Formal Analysis of Apple’s iMessage PQ3 Protocol](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-595-linker.pdf)
 * [2025-05-09, 19:56:20](https://lobste.rs/s/bl1xi0/branchless_development_2015) - [branchless development (2015)](https://flak.tedunangst.com/post/branchless-development)
 * [2025-05-09, 15:28:40](https://lobste.rs/s/wsnwqz/can_it_run_doom_archive_all_known_ports) - [Can It Run Doom? An Archive of All Known Ports](https://canitrundoom.org/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
