@@ -7,7 +7,7 @@
 * [2025-05-11, 03:20:11](https://lobste.rs/s/hiacuh/spyder_tutorials) - [Spyder Tutorials](http://www.youtube.com/playlist?list=PLPonohdiDqg9epClEcXoAPUiK0pN5eRoc)
 * [2025-05-11, 03:00:21](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google) - [Ian Lance Taylor of the Go team leaves Google](https://www.airs.com/blog/archives/670)
 * [2025-05-11, 02:14:28](https://lobste.rs/s/47eqcj/netbsd_10_x_kernel_math_emulation) - [NetBSD 10.x kernel MATH_EMULATION](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
-* [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies - Alex Edwards](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
+* [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
 * [2025-05-10, 22:30:45](https://lobste.rs/s/voxxeb/louise_polynomial_time_meta) - [louise: Polynomial-time Meta-Interpretive Learning for logic programming](https://github.com/stassa/louise)
 * [2025-05-10, 21:21:23](https://lobste.rs/s/wvz30t/naked_objects) - [Naked objects](https://en.wikipedia.org/wiki/Naked_objects)
 * [2025-05-10, 18:45:17](https://lobste.rs/s/mzxwgb/steps_2012_progress_final_nsf_report) - [STEPS 2012 Progress and Final NSF Report](https://tinlizzie.org/VPRIPapers/tr2012001_steps.pdf)
