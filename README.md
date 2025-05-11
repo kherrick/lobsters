@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-11, 22:42:13](https://lobste.rs/s/yogr0t/build_ios_apps_on_linux_windows_wsl) - [Build iOS apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
 * [2025-05-11, 21:41:48](https://lobste.rs/s/s64y4t/proposal_net_http_add) - [proposal: net/http: add CrossOriginForgeryHandler](https://github.com/golang/go/issues)
 * [2025-05-11, 21:28:39](https://lobste.rs/s/a07g8p/focusedvalues_swiftui) - [FocusedValues in SwiftUI](https://shadowfacts.net/2025/focused-values/)
 * [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
@@ -7,7 +8,6 @@
 * [2025-05-11, 18:27:45](https://lobste.rs/s/lokpxj/amoeba_microkernel) - [The Amoeba Microkernel](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=755d25b6b7d2057206e46e91162e15ffc06bae73)
 * [2025-05-11, 17:02:21](https://lobste.rs/s/omkgou/software_license_management_with_polar) - [Software License Management with Polar.sh](https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies)
 * [2025-05-11, 16:52:27](https://lobste.rs/s/kltfhx/impressions_on_new_13_inch_framework) - [Impressions on the new 13 inch Framework laptop](https://marius.federated.id/posts/2025/may/framework)
-* [2025-05-11, 15:43:30](https://lobste.rs/s/nkikdh/super_8086_box_pc_xt_emulator_with_adlib) - [Super 8086 Box, PC XT emulator with Adlib, MPU-401, joystick and NE2000 support](https://www.toughdev.com/content/2023/08/super-8086-box-my-home-built-pc-xt-emulator-with-adlib-mpu-401-joystick-and-ne2000-support/)
 * [2025-05-11, 15:16:11](https://lobste.rs/s/ldtzsg/review_documentation_rust_ecosystem) - [A review of documentation in the Rust ecosystem](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/)
 * [2025-05-11, 13:37:37](https://lobste.rs/s/myrlhi/how_cursor_indexes_codebases_fast) - [How Cursor Indexes Codebases Fast](https://read.engineerscodex.com/p/how-cursor-indexes-codebases-fast)
 * [2025-05-11, 11:16:52](https://lobste.rs/s/extsy5/one_click_rce_asus_s_preinstalled_driver) - [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/)
