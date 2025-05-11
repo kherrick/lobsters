@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
+* [2025-05-11, 11:16:52](https://lobste.rs/s/extsy5/one_click_rce_asus_s_preinstalled_driver) - [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 08:40:45](https://lobste.rs/s/w7s0io/caching_behind_elm_s_html_lazy) - [The caching behind Elm's Html.Lazy](https://jfmengels.net/caching-behind-elm-lazy)
 * [2025-05-11, 08:05:44](https://lobste.rs/s/ol4ggm/private_internet_2024) - [Private Internet (2024)](https://kevincox.ca/2024/08/16/private-internet/)
 * [2025-05-11, 07:01:50](https://lobste.rs/s/u9hyan/xkcd_s_is_it_worth_time_considered_harmful) - [XKCD's \"Is It Worth the Time?\" Considered Harmful](https://will-keleher.com/posts/its-not-worth-the-time-yet.html)

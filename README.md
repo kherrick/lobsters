@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-11, 11:16:52](https://lobste.rs/s/extsy5/one_click_rce_asus_s_preinstalled_driver) - [One-click RCE in ASUS’s preinstalled driver software](https://mrbruh.com/asusdriverhub/)
 * [2025-05-11, 08:40:45](https://lobste.rs/s/w7s0io/caching_behind_elm_s_html_lazy) - [The caching behind Elm's Html.Lazy](https://jfmengels.net/caching-behind-elm-lazy)
 * [2025-05-11, 08:05:44](https://lobste.rs/s/ol4ggm/private_internet_2024) - [Private Internet (2024)](https://kevincox.ca/2024/08/16/private-internet/)
 * [2025-05-11, 07:01:50](https://lobste.rs/s/u9hyan/xkcd_s_is_it_worth_time_considered_harmful) - [XKCD's \"Is It Worth the Time?\" Considered Harmful](https://will-keleher.com/posts/its-not-worth-the-time-yet.html)
@@ -23,7 +24,6 @@
 * [2025-05-10, 14:25:34](https://lobste.rs/s/gwucam/lume_3_was_released) - [Lume 3 was released](https://lume.land/blog/posts/lume-3/)
 * [2025-05-10, 13:33:49](https://lobste.rs/s/3zhwyb/truenas_core_is_dead_long_live_zvault) - [TrueNAS CORE is Dead – Long Live zVault](https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/#truenas-core-dead-long-live-zvault)
 * [2025-05-10, 09:01:33](https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got) - [bold linker v0.2.0 release - bold just got faster](https://github.com/kubkon/bold/releases/tag/v0.2.0)
-* [2025-05-10, 06:28:40](https://lobste.rs/s/alodyz/praise_grobi_for_auto_configuring_x11) - [In praise of grobi for auto-configuring X11 monitors](https://michael.stapelberg.ch/posts/2025-05-10-grobi-x11-monitor-autoconfig/)
 * [2025-05-09, 14:29:14](https://lobste.rs/s/zozo8v/write_most_clever_code_you_possibly_can) - [Write the most clever code you possibly can](https://buttondown.com/hillelwayne/archive/write-the-most-clever-code-you-possibly-can/)
 
 ## [Archives](archives/index.md)
