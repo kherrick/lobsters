@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-11, 17:02:21",
+      "https://lobste.rs/s/omkgou/software_license_management_with_polar"
+    ],
+    [
+      "Software License Management with Polar.sh",
+      "https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 16:52:27",
       "https://lobste.rs/s/kltfhx/impressions_on_new_13_inch_framework"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-05-11, 03:43:26",
-      "https://lobste.rs/s/vpg52c/ebpf_agent_captures_pre_encrypted"
-    ],
-    [
-      "eBPF agent that captures pre-encrypted network traffic",
-      "https://github.com/qpoint-io/qtap"
-    ]
-  ],
-  [
-    [
       "2025-05-11, 03:38:30",
       "https://lobste.rs/s/7trmcs/dotless_domains_2021"
     ],
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-05-10, 21:21:23",
+      "https://lobste.rs/s/wvz30t/naked_objects"
+    ],
+    [
+      "Naked objects",
+      "https://en.wikipedia.org/wiki/Naked_objects"
+    ]
+  ],
+  [
+    [
       "2025-05-10, 16:39:44",
       "https://lobste.rs/s/3edrcj/exploiting_copilot_ai_for_sharepoint"
     ],
@@ -197,16 +207,6 @@
     [
       "Are We Serious About Using TLA+ For Statistical Properties?",
       "https://emptysqua.re/blog/are-we-serious-about-statistical-properties-tlaplus/"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 15:21:29",
-      "https://lobste.rs/s/vuolg1/secure_by_design_google_s_perspective_on"
-    ],
-    [
-      "Secure by Design: Google’s Perspective on Memory Safety (2024)",
-      "https://storage.googleapis.com/gweb-research2023-media/pubtools/7665.pdf"
     ]
   ],
   [
