@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-11, 07:01:50",
+      "https://lobste.rs/s/u9hyan/xkcd_s_is_it_worth_time_considered_harmful"
+    ],
+    [
+      "XKCD's \"Is It Worth the Time?\" Considered Harmful",
+      "https://will-keleher.com/posts/its-not-worth-the-time-yet.html"
+    ]
+  ],
+  [
+    [
       "2025-05-11, 06:10:49",
       "https://lobste.rs/s/9wvxpu/mipmap_selection_too_much_detail"
     ],
@@ -37,16 +47,6 @@
     [
       "eBPF agent that captures pre-encrypted network traffic",
       "https://github.com/qpoint-io/qtap"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 03:39:18",
-      "https://lobste.rs/s/xonuxm/open_source_cursor_alternative"
-    ],
-    [
-      "Open-source Cursor alternative",
-      "https://github.com/voideditor/void"
     ]
   ],
   [
