@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-12, 21:17:47](https://lobste.rs/s/kzg0jv/multiple_security_issues_screen) - [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
+* [2025-05-12, 21:06:49](https://lobste.rs/s/3mrqhj/wtfis_passive_hostname_domain_ip_lookup) - [wtfis: passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 20:20:04](https://lobste.rs/s/p51plh/buckaroo_table_ui_expedite_data_analysis) - [Buckaroo - a Table UI to expedite data analysis for notebook environments](https://github.com/paddymul/buckaroo)
 * [2025-05-12, 20:12:21](https://lobste.rs/s/bdug4r/can_you_really_trust_permission_pop_up_on) - [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
@@ -13,7 +14,6 @@
 * [2025-05-12, 14:41:15](https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now) - [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
 * [2025-05-12, 14:30:21](https://lobste.rs/s/vbfa75/avoid_each_with_object_generally) - [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
-* [2025-05-12, 13:58:40](https://lobste.rs/s/zbroum/build_run_your_own_freebsd_native) - [Build and Run Your Own FreeBSD-native Containers with Buildah, Containerfiles and Podman](https://honeyguide.eu/posts/build-own-containers-buildah-podman-freebsd/)
 * [2025-05-12, 10:13:45](https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week)
 * [2025-05-12, 09:38:43](https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain) - [curl's CI job for spotting domain squatting](https://mastodon.social/@bagder/114493950931893559)
 * [2025-05-12, 08:35:00](https://lobste.rs/s/fj4g2x/patela_basement_full_amnesic_servers) - [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
