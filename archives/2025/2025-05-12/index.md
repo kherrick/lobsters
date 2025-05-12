@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 14:41:15](https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now) - [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
+* [2025-05-12, 14:30:21](https://lobste.rs/s/vbfa75/avoid_each_with_object_generally) - [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 * [2025-05-12, 13:58:40](https://lobste.rs/s/zbroum/build_run_your_own_freebsd_native) - [Build and Run Your Own FreeBSD-native Containers with Buildah, Containerfiles and Podman](https://honeyguide.eu/posts/build-own-containers-buildah-podman-freebsd/)
 * [2025-05-12, 13:46:20](https://lobste.rs/s/bhviys/rust_project_goals_2024_stabilizing_rust) - [Rust project goals 2024: Stabilizing Rust in the Linux Kernel](https://www.youtube.com/watch?v=J2M3EGUgq0c)
