@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 20:20:04](https://lobste.rs/s/p51plh/buckaroo_table_ui_expedite_data_analysis) - [Buckaroo - a Table UI to expedite data analysis for notebook environments](https://github.com/paddymul/buckaroo)
 * [2025-05-12, 20:12:21](https://lobste.rs/s/bdug4r/can_you_really_trust_permission_pop_up_on) - [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
 * [2025-05-12, 17:33:54](https://lobste.rs/s/zoudli/two_months_servo_css_nesting_shadow_dom) - [Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more](https://servo.org/blog/2025/05/09/this-month-in-servo/)
