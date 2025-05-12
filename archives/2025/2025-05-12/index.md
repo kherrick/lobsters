@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 22:06:04](https://lobste.rs/s/3h4f6t/modular_verification_mongodb) - [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
 * [2025-05-12, 21:17:47](https://lobste.rs/s/kzg0jv/multiple_security_issues_screen) - [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
 * [2025-05-12, 21:06:49](https://lobste.rs/s/3mrqhj/wtfis_passive_hostname_domain_ip_lookup) - [wtfis: passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
 * [2025-05-12, 20:40:39](https://lobste.rs/s/ifznpb/understanding_lucasarts_imuse_system) - [Understanding LucasArts' iMUSE System](https://github.com/meshula/LabMidi/blob/main/LabMuse/imuse-technical.md)

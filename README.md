@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-12, 22:06:04](https://lobste.rs/s/3h4f6t/modular_verification_mongodb) - [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
 * [2025-05-12, 21:17:47](https://lobste.rs/s/kzg0jv/multiple_security_issues_screen) - [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
-* [2025-05-12, 21:06:49](https://lobste.rs/s/3mrqhj/wtfis_passive_hostname_domain_ip_lookup) - [wtfis: passive hostname, domain and IP lookup tool for non-robots](https://github.com/pirxthepilot/wtfis)
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 20:20:04](https://lobste.rs/s/p51plh/buckaroo_table_ui_expedite_data_analysis) - [Buckaroo - a Table UI to expedite data analysis for notebook environments](https://github.com/paddymul/buckaroo)
 * [2025-05-12, 20:12:21](https://lobste.rs/s/bdug4r/can_you_really_trust_permission_pop_up_on) - [Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)](https://wts.dev/posts/tcc-who/)
