@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-12, 00:38:49](https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure) - [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
 * [2025-05-11, 22:42:13](https://lobste.rs/s/yogr0t/build_ios_apps_on_linux_windows_wsl) - [Build iOS apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
-* [2025-05-11, 21:41:48](https://lobste.rs/s/s64y4t/proposal_net_http_add) - [proposal: net/http: add CrossOriginForgeryHandler](https://github.com/golang/go/issues)
+* [2025-05-11, 21:41:48](https://lobste.rs/s/s64y4t/proposal_net_http_add) - [proposal: net/http: add CrossOriginForgeryHandler](https://github.com/golang/go/issues/73626)
 * [2025-05-11, 21:28:39](https://lobste.rs/s/a07g8p/focusedvalues_swiftui) - [FocusedValues in SwiftUI](https://shadowfacts.net/2025/focused-values/)
 * [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
 * [2025-05-11, 19:57:15](https://lobste.rs/s/nxohrr/flattening_rust_s_learning_curve) - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
@@ -18,7 +19,6 @@
 * [2025-05-11, 04:23:45](https://lobste.rs/s/ngbasc/fan_service) - [fan service](https://flak.tedunangst.com/post/fan-service)
 * [2025-05-11, 03:38:30](https://lobste.rs/s/7trmcs/dotless_domains_2021) - [Dotless Domains (2021)](https://lab.avl.la/dotless/)
 * [2025-05-11, 03:00:21](https://lobste.rs/s/3brire/ian_lance_taylor_go_team_leaves_google) - [Ian Lance Taylor of the Go team leaves Google](https://www.airs.com/blog/archives/670)
-* [2025-05-11, 02:14:28](https://lobste.rs/s/47eqcj/netbsd_10_x_kernel_math_emulation) - [NetBSD 10.x kernel MATH_EMULATION](https://mezzantrop.wordpress.com/2025/02/04/netbsd-10-x-kernel-math_emulation/)
 * [2025-05-11, 01:39:47](https://lobste.rs/s/m3xjzz/organize_your_go_middleware_without) - [Organize your Go middleware without dependencies](https://www.alexedwards.net/blog/organize-your-go-middleware-without-dependencies)
 * [2025-05-10, 16:31:58](https://lobste.rs/s/azcfyx/announcing_lix_2_93_bici_bici) - [Announcing Lix 2.93 “Bici Bici”](https://lix.systems/blog/2025-05-06-lix-2.93-release/)
 * [2025-05-10, 16:29:04](https://lobste.rs/s/biswto/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-11](index.md)
 
 * [2025-05-11, 22:42:13](https://lobste.rs/s/yogr0t/build_ios_apps_on_linux_windows_wsl) - [Build iOS apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
+* [2025-05-11, 21:41:48](https://lobste.rs/s/s64y4t/proposal_net_http_add) - [proposal: net/http: add CrossOriginForgeryHandler](https://github.com/golang/go/issues/73626)
 * [2025-05-11, 21:41:48](https://lobste.rs/s/s64y4t/proposal_net_http_add) - [proposal: net/http: add CrossOriginForgeryHandler](https://github.com/golang/go/issues)
 * [2025-05-11, 21:28:39](https://lobste.rs/s/a07g8p/focusedvalues_swiftui) - [FocusedValues in SwiftUI](https://shadowfacts.net/2025/focused-values/)
 * [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
