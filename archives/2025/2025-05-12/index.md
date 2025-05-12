@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-12](index.md)
 
+* [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
+* [2025-05-12, 13:58:40](https://lobste.rs/s/zbroum/build_run_your_own_freebsd_native) - [Build and Run Your Own FreeBSD-native Containers with Buildah, Containerfiles and Podman](https://honeyguide.eu/posts/build-own-containers-buildah-podman-freebsd/)
 * [2025-05-12, 13:46:20](https://lobste.rs/s/bhviys/rust_project_goals_2024_stabilizing_rust) - [Rust project goals 2024: Stabilizing Rust in the Linux Kernel](https://www.youtube.com/watch?v=J2M3EGUgq0c)
 * [2025-05-12, 10:13:45](https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week)
 * [2025-05-12, 09:38:43](https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain) - [curl's CI job for spotting domain squatting](https://mastodon.social/@bagder/114493950931893559)
