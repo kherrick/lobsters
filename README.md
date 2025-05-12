@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-12, 15:32:10](https://lobste.rs/s/om8y2y/why_bell_labs_worked) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-12, 14:54:01](https://lobste.rs/s/tjbgo2/hyper_typing) - [Hyper-Typing](https://pscanf.com/s/341/)
 * [2025-05-12, 14:51:42](https://lobste.rs/s/xmv5um/demonstrably_secure_software_supply) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 * [2025-05-12, 14:41:15](https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now) - [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
@@ -13,7 +14,6 @@
 * [2025-05-12, 07:00:17](https://lobste.rs/s/p6vstm/stop_saying_responsible_disclosure) - [Stop Saying \"Responsible Disclosure\"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
 * [2025-05-12, 05:54:27](https://lobste.rs/s/6js1hj/flakes_have_failed) - [Flakes Have Failed](https://kilo.bytesize.xyz/flakes-have-failed)
 * [2025-05-12, 03:32:07](https://lobste.rs/s/znb0jo/how_i_ruined_my_vacation_by_reverse) - [How I ruined my vacation by reverse engineering WSC](https://blog.es3n1n.eu/posts/how-i-ruined-my-vacation)
-* [2025-05-12, 03:17:57](https://lobste.rs/s/ghdveg/communicating_chorrectly_with) - [Communicating Chorrectly with a Choreography](https://decomposition.al/zines/communicating-chorrectly-zine.pdf)
 * [2025-05-12, 02:20:58](https://lobste.rs/s/jh71n7/migrating_codeberg) - [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 * [2025-05-12, 00:38:49](https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure) - [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
 * [2025-05-11, 22:42:13](https://lobste.rs/s/yogr0t/build_ios_apps_on_linux_windows_wsl) - [Build iOS apps on Linux and Windows (WSL)](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803)
