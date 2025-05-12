@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-12, 14:54:01",
+      "https://lobste.rs/s/tjbgo2/hyper_typing"
+    ],
+    [
+      "Hyper-Typing",
+      "https://pscanf.com/s/341/"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 14:51:42",
+      "https://lobste.rs/s/xmv5um/demonstrably_secure_software_supply"
+    ],
+    [
+      "Demonstrably Secure Software Supply Chains with Nix",
+      "https://nixcademy.com/posts/secure-supply-chain-with-nix/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 14:41:15",
       "https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now"
     ],
@@ -177,26 +197,6 @@
     [
       "Flattening Rust's Learning Curve",
       "https://corrode.dev/blog/flattening-rusts-learning-curve/"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 18:27:45",
-      "https://lobste.rs/s/lokpxj/amoeba_microkernel"
-    ],
-    [
-      "The Amoeba Microkernel",
-      "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=755d25b6b7d2057206e46e91162e15ffc06bae73"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 17:02:21",
-      "https://lobste.rs/s/omkgou/software_license_management_with_polar"
-    ],
-    [
-      "Software License Management with Polar.sh",
-      "https://www.skatkov.com/posts/2025-05-11-software-license-management-for-dummies"
     ]
   ],
   [
