@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-12, 17:33:54",
+      "https://lobste.rs/s/zoudli/two_months_servo_css_nesting_shadow_dom"
+    ],
+    [
+      "Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more",
+      "https://servo.org/blog/2025/05/09/this-month-in-servo/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 16:35:19",
       "https://lobste.rs/s/oagdxa/spall_code_profiler_runs_your_browser"
     ],
@@ -217,16 +227,6 @@
     [
       "Impressions on the new 13 inch Framework laptop",
       "https://marius.federated.id/posts/2025/may/framework"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 11:16:52",
-      "https://lobste.rs/s/extsy5/one_click_rce_asus_s_preinstalled_driver"
-    ],
-    [
-      "One-click RCE in ASUS’s preinstalled driver software",
-      "https://mrbruh.com/asusdriverhub/"
     ]
   ],
   [
