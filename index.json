@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-12, 17:09:56",
+      "https://lobste.rs/s/idkfrh/last_yast"
+    ],
+    [
+      "The last of YaST?",
+      "https://lwn.net/SubscriberLink/1020408/8c022fd8256693d5/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 16:35:19",
       "https://lobste.rs/s/oagdxa/spall_code_profiler_runs_your_browser"
     ],
@@ -187,16 +197,6 @@
     [
       "Build iOS apps on Linux and Windows (WSL)",
       "https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 21:41:48",
-      "https://lobste.rs/s/s64y4t/proposal_net_http_add"
-    ],
-    [
-      "proposal: net/http: add CrossOriginForgeryHandler",
-      "https://github.com/golang/go/issues/73626"
     ]
   ],
   [
