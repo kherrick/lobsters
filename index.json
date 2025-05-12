@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-12, 02:20:58",
+      "https://lobste.rs/s/jh71n7/migrating_codeberg"
+    ],
+    [
+      "Migrating to Codeberg",
+      "https://guix.gnu.org/blog/2025/migrating-to-codeberg/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 00:38:49",
       "https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure"
     ],
@@ -237,16 +247,6 @@
     [
       "TrueNAS CORE is Dead – Long Live zVault",
       "https://vermaden.wordpress.com/2024/04/20/truenas-core-versus-truenas-scale/#truenas-core-dead-long-live-zvault"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 09:01:33",
-      "https://lobste.rs/s/dvm2cs/bold_linker_v0_2_0_release_bold_just_got"
-    ],
-    [
-      "bold linker v0.2.0 release - bold just got faster",
-      "https://github.com/kubkon/bold/releases/tag/v0.2.0"
     ]
   ]
 ]
