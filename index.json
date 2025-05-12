@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-12, 16:35:19",
+      "https://lobste.rs/s/oagdxa/spall_code_profiler_runs_your_browser"
+    ],
+    [
+      "Spall: a code profiler that runs in your browser",
+      "https://gravitymoth.com/spall/spall-web.html"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 15:32:10",
       "https://lobste.rs/s/om8y2y/why_bell_labs_worked"
     ],
@@ -237,16 +247,6 @@
     [
       "Ian Lance Taylor of the Go team leaves Google",
       "https://www.airs.com/blog/archives/670"
-    ]
-  ],
-  [
-    [
-      "2025-05-10, 16:29:04",
-      "https://lobste.rs/s/biswto/i_want_love_linux_it_doesn_t_love_me_back"
-    ],
-    [
-      "I Want to Love Linux. It Doesn’t Love Me Back",
-      "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/"
     ]
   ]
 ]
