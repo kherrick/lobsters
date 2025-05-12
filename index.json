@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-12, 20:20:04",
+      "https://lobste.rs/s/p51plh/buckaroo_table_ui_expedite_data_analysis"
+    ],
+    [
+      "Buckaroo - a Table UI to expedite data analysis for notebook environments",
+      "https://github.com/paddymul/buckaroo"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 20:12:21",
+      "https://lobste.rs/s/bdug4r/can_you_really_trust_permission_pop_up_on"
+    ],
+    [
+      "Can You Really Trust That Permission Pop-Up On macOS? (CVE-2025-31250)",
+      "https://wts.dev/posts/tcc-who/"
+    ]
+  ],
+  [
+    [
       "2025-05-12, 17:33:54",
       "https://lobste.rs/s/zoudli/two_months_servo_css_nesting_shadow_dom"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-05-12, 13:46:20",
-      "https://lobste.rs/s/bhviys/rust_project_goals_2024_stabilizing_rust"
-    ],
-    [
-      "Rust project goals 2024: Stabilizing Rust in the Linux Kernel",
-      "https://www.youtube.com/watch?v=J2M3EGUgq0c"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 10:13:45",
       "https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week"
     ],
@@ -197,16 +207,6 @@
     [
       "Build iOS apps on Linux and Windows (WSL)",
       "https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 21:41:48",
-      "https://lobste.rs/s/s64y4t/proposal_net_http_add"
-    ],
-    [
-      "proposal: net/http: add CrossOriginForgeryHandler",
-      "https://github.com/golang/go/issues/73626"
     ]
   ],
   [
