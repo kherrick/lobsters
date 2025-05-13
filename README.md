@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-13, 06:50:25](https://lobste.rs/s/yiwfwj/fastvlm_efficient_vision_encoding_for) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://github.com/apple/ml-fastvlm)
 * [2025-05-13, 02:19:27](https://lobste.rs/s/0vjs03/why_do_saturation_luminance_go_all_way_240) - [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
 * [2025-05-13, 01:33:42](https://lobste.rs/s/xjcxwe/ys_yaml_done_wisely) - [YS — YAML Done Wisely](https://yamlscript.org/)
 * [2025-05-12, 23:33:49](https://lobste.rs/s/ba34q8/modern_microframework_for_web) - [A modern microframework for web development in C](https://github.com/savashn/ecewo)
@@ -23,7 +24,6 @@
 * [2025-05-12, 02:20:58](https://lobste.rs/s/jh71n7/migrating_codeberg) - [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 * [2025-05-12, 00:38:49](https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure) - [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
 * [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
-* [2025-05-11, 19:57:15](https://lobste.rs/s/nxohrr/flattening_rust_s_learning_curve) - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-11, 16:52:27](https://lobste.rs/s/kltfhx/impressions_on_new_13_inch_framework) - [Impressions on the new 13 inch Framework laptop](https://marius.federated.id/posts/2025/may/framework)
 
 ## [Archives](archives/index.md)
