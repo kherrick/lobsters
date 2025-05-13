@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 14:26:04](https://lobste.rs/s/ow7lhp/scalable_resilient_data_orchestration) - [Scalable, Resilient Data Orchestration: The Power of Intelligent Systems](https://dzone.com/articles/scalable-data-orchestration-intelligent-systems)
 * [2025-05-13, 13:55:12](https://lobste.rs/s/ubqsls/policy_transience) - [Policy of transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 12:17:29](https://lobste.rs/s/qq89iv/case_for_intransitive_operator) - [A case for intransitive operator precedence (2019)](https://blog.adamant-lang.org/2019/operator-precedence/)
+* [2025-05-13, 11:37:01](https://lobste.rs/s/amu9pd/rip_usenix_atc) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 * [2025-05-13, 11:35:20](https://lobste.rs/s/d7ec0k/animating_ios_widgets) - [Animating iOS widgets](https://www.youtube.com/watch?v=NdJ_y1c_j_I)
 * [2025-05-13, 11:25:12](https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git) - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree)
 * [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update_gtk_development) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
+* [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update) - [An accessibility update](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 10:03:05](https://lobste.rs/s/rmavpb/how_is_stack_memory_allocated_when_using) - [How is Stack memory allocated when using 'push' or 'sub' x86 instructions?](https://stackoverflow.com/a/46791370)
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:40:22](https://lobste.rs/s/rfj14p/base_models_beat_aligned_models_at) - [Base Models Beat Aligned Models at Randomness and Creativity](https://arxiv.org/html/2505.00047v1)

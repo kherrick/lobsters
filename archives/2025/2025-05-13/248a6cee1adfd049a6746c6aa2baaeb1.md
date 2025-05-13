@@ -1,0 +1,3 @@
+# [Published on 2025-05-13](index.md)
+
+* [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update) - [An accessibility update](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
