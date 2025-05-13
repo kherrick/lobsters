@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
+* [2025-05-13, 19:46:51](https://lobste.rs/s/k8g0sf/branch_privilege_injection_exploiting) - [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 18:13:16](https://lobste.rs/s/uuqzso/lzexe_executable_file_compression_on) - [LZEXE - executable file compression on MSDOS](https://cosmodoc.org/topics/lzexe/)
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-13, 16:51:47](https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s) - [Task estimation: Conquering Hofstadter's Law](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
@@ -8,7 +10,6 @@
 * [2025-05-13, 13:55:12](https://lobste.rs/s/ubqsls/policy_transience) - [Policy of transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 12:17:29](https://lobste.rs/s/qq89iv/case_for_intransitive_operator) - [A case for intransitive operator precedence (2019)](https://blog.adamant-lang.org/2019/operator-precedence/)
-* [2025-05-13, 11:37:01](https://lobste.rs/s/amu9pd/rip_usenix_atc) - [RIP Usenix ATC](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 * [2025-05-13, 11:25:12](https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git) - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree)
 * [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update) - [An accessibility update](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
@@ -18,7 +19,6 @@
 * [2025-05-13, 07:01:04](https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer) - [Fx v36 - JSON terminal viewer](https://github.com/antonmedv/fx/releases/tag/36.0.0)
 * [2025-05-13, 02:19:27](https://lobste.rs/s/0vjs03/why_do_saturation_luminance_go_all_way_240) - [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
 * [2025-05-13, 01:33:42](https://lobste.rs/s/xjcxwe/ys_yaml_done_wisely) - [YS — YAML Done Wisely](https://yamlscript.org/)
-* [2025-05-12, 23:33:49](https://lobste.rs/s/ba34q8/modern_microframework_for_web) - [A modern microframework for web development in C](https://github.com/savashn/ecewo)
 * [2025-05-12, 21:17:47](https://lobste.rs/s/kzg0jv/multiple_security_issues_screen) - [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 17:33:54](https://lobste.rs/s/zoudli/two_months_servo_css_nesting_shadow_dom) - [Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more](https://servo.org/blog/2025/05/09/this-month-in-servo/)
