@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-13, 14:26:04",
+      "https://lobste.rs/s/ow7lhp/scalable_resilient_data_orchestration"
+    ],
+    [
+      "Scalable, Resilient Data Orchestration: The Power of Intelligent Systems",
+      "https://dzone.com/articles/scalable-data-orchestration-intelligent-systems"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 13:55:12",
       "https://lobste.rs/s/ubqsls/policy_transience"
     ],
@@ -17,6 +27,16 @@
     [
       "Firefox moves to GitHub",
       "https://github.com/mozilla-firefox/firefox"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 11:37:01",
+      "https://lobste.rs/s/amu9pd/rip_usenix_atc"
+    ],
+    [
+      "RIP Usenix ATC",
+      "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/"
     ]
   ],
   [
@@ -42,10 +62,10 @@
   [
     [
       "2025-05-13, 11:20:33",
-      "https://lobste.rs/s/c5mpmx/accessibility_update_gtk_development"
+      "https://lobste.rs/s/c5mpmx/accessibility_update"
     ],
     [
-      "An accessibility update – GTK Development Blog",
+      "An accessibility update",
       "https://blog.gtk.org/2025/05/12/an-accessibility-update/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-05-12, 20:20:04",
-      "https://lobste.rs/s/p51plh/buckaroo_table_ui_expedite_data_analysis"
-    ],
-    [
-      "Buckaroo - a Table UI to expedite data analysis for notebook environments",
-      "https://github.com/paddymul/buckaroo"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 20:12:21",
       "https://lobste.rs/s/bdug4r/can_you_really_trust_permission_pop_up_on"
     ],
@@ -167,16 +177,6 @@
     [
       "Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more",
       "https://servo.org/blog/2025/05/09/this-month-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 17:09:56",
-      "https://lobste.rs/s/idkfrh/last_yast"
-    ],
-    [
-      "The last of YaST?",
-      "https://lwn.net/SubscriberLink/1020408/8c022fd8256693d5/"
     ]
   ],
   [
