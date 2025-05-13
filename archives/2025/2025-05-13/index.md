@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 11:25:12](https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git) - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree)
+* [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update_gtk_development) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 10:03:05](https://lobste.rs/s/rmavpb/how_is_stack_memory_allocated_when_using) - [How is Stack memory allocated when using 'push' or 'sub' x86 instructions?](https://stackoverflow.com/a/46791370)
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:40:22](https://lobste.rs/s/rfj14p/base_models_beat_aligned_models_at) - [Base Models Beat Aligned Models at Randomness and Creativity](https://arxiv.org/html/2505.00047v1)

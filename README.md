@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-13, 11:25:12](https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git) - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree)
+* [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update_gtk_development) - [An accessibility update – GTK Development Blog](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 10:03:05](https://lobste.rs/s/rmavpb/how_is_stack_memory_allocated_when_using) - [How is Stack memory allocated when using 'push' or 'sub' x86 instructions?](https://stackoverflow.com/a/46791370)
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:29:19](https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster) - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
@@ -16,7 +18,6 @@
 * [2025-05-12, 16:35:19](https://lobste.rs/s/oagdxa/spall_code_profiler_runs_your_browser) - [Spall: a code profiler that runs in your browser](https://gravitymoth.com/spall/spall-web.html)
 * [2025-05-12, 15:32:10](https://lobste.rs/s/om8y2y/why_bell_labs_worked) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-12, 14:54:01](https://lobste.rs/s/tjbgo2/hyper_typing) - [Hyper-Typing](https://pscanf.com/s/341/)
-* [2025-05-12, 14:41:15](https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now) - [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
 * [2025-05-12, 14:30:21](https://lobste.rs/s/vbfa75/avoid_each_with_object_generally) - [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 * [2025-05-12, 10:13:45](https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lqbjgl/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2025-05-12, 07:00:17](https://lobste.rs/s/p6vstm/stop_saying_responsible_disclosure) - [Stop Saying \"Responsible Disclosure\"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
 * [2025-05-12, 02:20:58](https://lobste.rs/s/jh71n7/migrating_codeberg) - [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 * [2025-05-12, 00:38:49](https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure) - [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
-* [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
 
 ## [Archives](archives/index.md)
 
