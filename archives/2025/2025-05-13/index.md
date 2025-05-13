@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 10:03:05](https://lobste.rs/s/rmavpb/how_is_stack_memory_allocated_when_using) - [How is Stack memory allocated when using 'push' or 'sub' x86 instructions?](https://stackoverflow.com/a/46791370)
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:40:22](https://lobste.rs/s/rfj14p/base_models_beat_aligned_models_at) - [Base Models Beat Aligned Models at Randomness and Creativity](https://arxiv.org/html/2505.00047v1)
 * [2025-05-13, 07:29:19](https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster) - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
