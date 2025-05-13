@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-05-13, 11:37:01",
-      "https://lobste.rs/s/amu9pd/rip_usenix_atc"
-    ],
-    [
-      "RIP Usenix ATC",
-      "https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 11:35:49",
       "https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new"
     ],
@@ -197,6 +187,16 @@
     [
       "Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more",
       "https://servo.org/blog/2025/05/09/this-month-in-servo/"
+    ]
+  ],
+  [
+    [
+      "2025-05-12, 15:32:10",
+      "https://lobste.rs/s/om8y2y/why_bell_labs_worked"
+    ],
+    [
+      "Why Bell Labs Worked",
+      "https://1517.substack.com/p/why-bell-labs-worked"
     ]
   ],
   [
