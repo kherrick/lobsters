@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 12:17:29](https://lobste.rs/s/qq89iv/case_for_intransitive_operator) - [A case for intransitive operator precedence (2019)](https://blog.adamant-lang.org/2019/operator-precedence/)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 * [2025-05-13, 11:35:20](https://lobste.rs/s/d7ec0k/animating_ios_widgets) - [Animating iOS widgets](https://www.youtube.com/watch?v=NdJ_y1c_j_I)
 * [2025-05-13, 11:25:12](https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git) - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree)
