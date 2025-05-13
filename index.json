@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-13, 11:25:12",
+      "https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git"
+    ],
+    [
+      "Experiment on your code freely with Git worktree",
+      "https://opensource.com/article/21/4/git-worktree"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 11:20:33",
+      "https://lobste.rs/s/c5mpmx/accessibility_update_gtk_development"
+    ],
+    [
+      "An accessibility update – GTK Development Blog",
+      "https://blog.gtk.org/2025/05/12/an-accessibility-update/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 10:03:05",
       "https://lobste.rs/s/rmavpb/how_is_stack_memory_allocated_when_using"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-12, 14:41:15",
-      "https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now"
-    ],
-    [
-      "Why Vibe When you Can Fly! Machtiani is now Open Source",
-      "https://github.com/tursomari/machtiani"
-    ]
-  ],
-  [
-    [
       "2025-05-12, 14:30:21",
       "https://lobste.rs/s/vbfa75/avoid_each_with_object_generally"
     ],
@@ -237,16 +247,6 @@
     [
       "Windows Todo application built with pure C and the Win32 API",
       "https://github.com/Efeckc17/simple-todo-c"
-    ]
-  ],
-  [
-    [
-      "2025-05-11, 20:23:34",
-      "https://lobste.rs/s/xq41xg/plain_vanilla_web"
-    ],
-    [
-      "Plain Vanilla Web",
-      "https://plainvanillaweb.com/index.html"
     ]
   ]
 ]
