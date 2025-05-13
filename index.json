@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-13, 07:01:04",
+      "https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer"
+    ],
+    [
+      "Fx v36 - JSON terminal viewer",
+      "https://github.com/antonmedv/fx/releases/tag/36.0.0"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 06:50:25",
       "https://lobste.rs/s/yiwfwj/fastvlm_efficient_vision_encoding_for"
     ],
@@ -187,16 +197,6 @@
     [
       "curl's CI job for spotting domain squatting",
       "https://mastodon.social/@bagder/114493950931893559"
-    ]
-  ],
-  [
-    [
-      "2025-05-12, 08:35:00",
-      "https://lobste.rs/s/fj4g2x/patela_basement_full_amnesic_servers"
-    ],
-    [
-      "Patela: A basement full of amnesic servers",
-      "https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/"
     ]
   ],
   [
