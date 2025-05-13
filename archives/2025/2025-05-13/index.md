@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 07:40:22](https://lobste.rs/s/rfj14p/base_models_beat_aligned_models_at) - [Base Models Beat Aligned Models at Randomness and Creativity](https://arxiv.org/html/2505.00047v1)
 * [2025-05-13, 07:29:19](https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster) - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 07:01:04](https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer) - [Fx v36 - JSON terminal viewer](https://github.com/antonmedv/fx/releases/tag/36.0.0)
 * [2025-05-13, 06:50:25](https://lobste.rs/s/yiwfwj/fastvlm_efficient_vision_encoding_for) - [FastVLM: Efficient Vision Encoding for Vision Language Models](https://github.com/apple/ml-fastvlm)
