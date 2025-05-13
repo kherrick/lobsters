@@ -20,10 +20,10 @@
 * [2025-05-12, 09:38:43](https://lobste.rs/s/4abyko/curl_s_ci_job_for_spotting_domain) - [curl's CI job for spotting domain squatting](https://mastodon.social/@bagder/114493950931893559)
 * [2025-05-12, 08:35:00](https://lobste.rs/s/fj4g2x/patela_basement_full_amnesic_servers) - [Patela: A basement full of amnesic servers](https://osservatorionessuno.org/blog/2025/05/patela-a-basement-full-of-amnesic-servers/)
 * [2025-05-12, 07:00:17](https://lobste.rs/s/p6vstm/stop_saying_responsible_disclosure) - [Stop Saying \"Responsible Disclosure\"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
-* [2025-05-12, 05:54:27](https://lobste.rs/s/6js1hj/flakes_have_failed) - [Flakes Have Failed](https://kilo.bytesize.xyz/flakes-have-failed)
 * [2025-05-12, 02:20:58](https://lobste.rs/s/jh71n7/migrating_codeberg) - [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 * [2025-05-12, 00:38:49](https://lobste.rs/s/nll8cd/windows_todo_application_built_with_pure) - [Windows Todo application built with pure C and the Win32 API](https://github.com/Efeckc17/simple-todo-c)
 * [2025-05-11, 20:23:34](https://lobste.rs/s/xq41xg/plain_vanilla_web) - [Plain Vanilla Web](https://plainvanillaweb.com/index.html)
+* [2025-05-11, 19:57:15](https://lobste.rs/s/nxohrr/flattening_rust_s_learning_curve) - [Flattening Rust's Learning Curve](https://corrode.dev/blog/flattening-rusts-learning-curve/)
 * [2025-05-11, 16:52:27](https://lobste.rs/s/kltfhx/impressions_on_new_13_inch_framework) - [Impressions on the new 13 inch Framework laptop](https://marius.federated.id/posts/2025/may/framework)
 
 ## [Archives](archives/index.md)
