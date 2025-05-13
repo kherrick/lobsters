@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
+* [2025-05-13, 14:35:14](https://lobste.rs/s/qnl8c8/thank_you_where_it_s_due) - [A Thank You, Where It’s Due](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-interlude-a-thank-you-where-its-due/)
 * [2025-05-13, 14:26:04](https://lobste.rs/s/ow7lhp/scalable_resilient_data_orchestration) - [Scalable, Resilient Data Orchestration: The Power of Intelligent Systems](https://dzone.com/articles/scalable-data-orchestration-intelligent-systems)
+* [2025-05-13, 14:24:21](https://lobste.rs/s/elnrrz/librewolf_browser) - [LibreWolf Browser](https://librewolf.net/)
 * [2025-05-13, 13:55:12](https://lobste.rs/s/ubqsls/policy_transience) - [Policy of transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 12:17:29](https://lobste.rs/s/qq89iv/case_for_intransitive_operator) - [A case for intransitive operator precedence (2019)](https://blog.adamant-lang.org/2019/operator-precedence/)
