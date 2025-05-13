@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-13, 02:19:27](https://lobste.rs/s/0vjs03/why_do_saturation_luminance_go_all_way_240) - [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
 * [2025-05-13, 01:33:42](https://lobste.rs/s/xjcxwe/ys_yaml_done_wisely) - [YS — YAML Done Wisely](https://yamlscript.org/)
 * [2025-05-12, 23:33:49](https://lobste.rs/s/ba34q8/modern_microframework_for_web) - [A modern microframework for web development in C](https://github.com/savashn/ecewo)
-* [2025-05-12, 22:06:04](https://lobste.rs/s/3h4f6t/modular_verification_mongodb) - [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
 * [2025-05-12, 21:17:47](https://lobste.rs/s/kzg0jv/multiple_security_issues_screen) - [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 20:20:04](https://lobste.rs/s/p51plh/buckaroo_table_ui_expedite_data_analysis) - [Buckaroo - a Table UI to expedite data analysis for notebook environments](https://github.com/paddymul/buckaroo)
