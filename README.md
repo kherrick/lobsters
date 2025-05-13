@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-13, 19:57:51](https://lobste.rs/s/vuzmj1/training_solo_on_limitations_domain) - [Training Solo: On the Limitations of Domain Isolation Against Spectre-v2 Attacks](https://www.vusec.net/projects/training-solo/)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 19:46:51](https://lobste.rs/s/k8g0sf/branch_privilege_injection_exploiting) - [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 18:13:16](https://lobste.rs/s/uuqzso/lzexe_executable_file_compression_on) - [LZEXE - executable file compression on MSDOS](https://cosmodoc.org/topics/lzexe/)
@@ -24,7 +25,6 @@
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 14:54:01](https://lobste.rs/s/tjbgo2/hyper_typing) - [Hyper-Typing](https://pscanf.com/s/341/)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
-* [2025-05-12, 02:20:58](https://lobste.rs/s/jh71n7/migrating_codeberg) - [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 
 ## [Archives](archives/index.md)
 
