@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
-* [2025-05-13, 19:57:51](https://lobste.rs/s/vuzmj1/training_solo_on_limitations_domain) - [Training Solo: On the Limitations of Domain Isolation Against Spectre-v2 Attacks](https://www.vusec.net/projects/training-solo/)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 19:46:51](https://lobste.rs/s/k8g0sf/branch_privilege_injection_exploiting) - [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
+* [2025-05-13, 18:33:29](https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly) - [Cracking The Dave & Buster’s Anomaly](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly)
 * [2025-05-13, 18:13:16](https://lobste.rs/s/uuqzso/lzexe_executable_file_compression_on) - [LZEXE - executable file compression on MSDOS](https://cosmodoc.org/topics/lzexe/)
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-13, 16:51:47](https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s) - [Task estimation: Conquering Hofstadter's Law](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
