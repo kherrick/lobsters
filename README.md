@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-13, 01:33:42](https://lobste.rs/s/xjcxwe/ys_yaml_done_wisely) - [YS — YAML Done Wisely](https://yamlscript.org/)
 * [2025-05-12, 22:06:04](https://lobste.rs/s/3h4f6t/modular_verification_mongodb) - [Modular verification of MongoDB Transactions using TLA+](http://muratbuffalo.blogspot.com/2025/05/modular-verification-of-mongodb.html)
 * [2025-05-12, 21:17:47](https://lobste.rs/s/kzg0jv/multiple_security_issues_screen) - [Multiple Security Issues in Screen](https://security.opensuse.org/2025/05/12/screen-security-issues.html)
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
@@ -10,7 +11,6 @@
 * [2025-05-12, 16:35:19](https://lobste.rs/s/oagdxa/spall_code_profiler_runs_your_browser) - [Spall: a code profiler that runs in your browser](https://gravitymoth.com/spall/spall-web.html)
 * [2025-05-12, 15:32:10](https://lobste.rs/s/om8y2y/why_bell_labs_worked) - [Why Bell Labs Worked](https://1517.substack.com/p/why-bell-labs-worked)
 * [2025-05-12, 14:54:01](https://lobste.rs/s/tjbgo2/hyper_typing) - [Hyper-Typing](https://pscanf.com/s/341/)
-* [2025-05-12, 14:51:42](https://lobste.rs/s/xmv5um/demonstrably_secure_software_supply) - [Demonstrably Secure Software Supply Chains with Nix](https://nixcademy.com/posts/secure-supply-chain-with-nix/)
 * [2025-05-12, 14:41:15](https://lobste.rs/s/kvhhsa/why_vibe_when_you_can_fly_machtiani_is_now) - [Why Vibe When you Can Fly! Machtiani is now Open Source](https://github.com/tursomari/machtiani)
 * [2025-05-12, 14:30:21](https://lobste.rs/s/vbfa75/avoid_each_with_object_generally) - [Avoid #each_with_object (generally)](https://clayshentrup.medium.com/avoid-each-with-object-generally-89e3b2800b38)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
