@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-13, 12:17:29",
+      "https://lobste.rs/s/qq89iv/case_for_intransitive_operator"
+    ],
+    [
+      "A case for intransitive operator precedence (2019)",
+      "https://blog.adamant-lang.org/2019/operator-precedence/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 11:35:49",
       "https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-05-13, 11:35:20",
-      "https://lobste.rs/s/d7ec0k/animating_ios_widgets"
+      "2025-05-13, 11:25:12",
+      "https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git"
     ],
     [
-      "Animating iOS widgets",
-      "https://www.youtube.com/watch?v=NdJ_y1c_j_I"
+      "Experiment on your code freely with Git worktree",
+      "https://opensource.com/article/21/4/git-worktree"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "A programming language made for me",
       "https://zylinski.se/posts/a-programming-language-for-me/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 07:40:22",
-      "https://lobste.rs/s/rfj14p/base_models_beat_aligned_models_at"
-    ],
-    [
-      "Base Models Beat Aligned Models at Randomness and Creativity",
-      "https://arxiv.org/html/2505.00047v1"
     ]
   ],
   [
