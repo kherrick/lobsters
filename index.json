@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-13, 19:57:51",
-      "https://lobste.rs/s/vuzmj1/training_solo_on_limitations_domain"
-    ],
-    [
-      "Training Solo: On the Limitations of Domain Isolation Against Spectre-v2 Attacks",
-      "https://www.vusec.net/projects/training-solo/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 19:48:01",
       "https://lobste.rs/s/kpkczj/first_year_free_threaded_python"
     ],
@@ -37,6 +27,16 @@
     [
       "Branch Privilege Injection: Exploiting Branch Predictor Race Conditions",
       "https://comsec.ethz.ch/research/microarch/branch-privilege-injection/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 18:33:29",
+      "https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly"
+    ],
+    [
+      "Cracking The Dave & Buster’s Anomaly",
+      "https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly"
     ]
   ],
   [
