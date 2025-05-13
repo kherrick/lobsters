@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-13](index.md)
 
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
+* [2025-05-13, 16:51:47](https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s) - [Task estimation: Conquering Hofstadter's Law](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
 * [2025-05-13, 14:47:30](https://lobste.rs/s/nu19ul/apple_unveils_powerful_accessibility) - [Apple unveils powerful accessibility features coming later this year](https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/)
 * [2025-05-13, 14:35:14](https://lobste.rs/s/qnl8c8/thank_you_where_it_s_due) - [A Thank You, Where It’s Due](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-interlude-a-thank-you-where-its-due/)
 * [2025-05-13, 14:26:04](https://lobste.rs/s/ow7lhp/scalable_resilient_data_orchestration) - [Scalable, Resilient Data Orchestration: The Power of Intelligent Systems](https://dzone.com/articles/scalable-data-orchestration-intelligent-systems)

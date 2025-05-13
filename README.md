@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
+* [2025-05-13, 16:51:47](https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s) - [Task estimation: Conquering Hofstadter's Law](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
 * [2025-05-13, 14:47:30](https://lobste.rs/s/nu19ul/apple_unveils_powerful_accessibility) - [Apple unveils powerful accessibility features coming later this year](https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/)
 * [2025-05-13, 14:26:04](https://lobste.rs/s/ow7lhp/scalable_resilient_data_orchestration) - [Scalable, Resilient Data Orchestration: The Power of Intelligent Systems](https://dzone.com/articles/scalable-data-orchestration-intelligent-systems)
 * [2025-05-13, 14:24:21](https://lobste.rs/s/elnrrz/librewolf_browser) - [LibreWolf Browser](https://librewolf.net/)
@@ -23,7 +24,6 @@
 * [2025-05-12, 17:33:54](https://lobste.rs/s/zoudli/two_months_servo_css_nesting_shadow_dom) - [Two months in Servo: CSS nesting, Shadow DOM, Clipboard API, and more](https://servo.org/blog/2025/05/09/this-month-in-servo/)
 * [2025-05-12, 14:54:01](https://lobste.rs/s/tjbgo2/hyper_typing) - [Hyper-Typing](https://pscanf.com/s/341/)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
-* [2025-05-12, 07:00:17](https://lobste.rs/s/p6vstm/stop_saying_responsible_disclosure) - [Stop Saying \"Responsible Disclosure\"](https://www.da.vidbuchanan.co.uk/blog/responsible-disclosure.html)
 * [2025-05-12, 02:20:58](https://lobste.rs/s/jh71n7/migrating_codeberg) - [Migrating to Codeberg](https://guix.gnu.org/blog/2025/migrating-to-codeberg/)
 
 ## [Archives](archives/index.md)
