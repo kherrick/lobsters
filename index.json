@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-14, 17:15:26",
+      "https://lobste.rs/s/rb8mco/greptimedb_as_prometheus_long_term"
+    ],
+    [
+      "GreptimeDB as Prometheus Long-term Storage",
+      "https://blog.anarcher.dev/post/2025/04-13-greptimedb-intro/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 17:04:46",
+      "https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes"
+    ],
+    [
+      "Crowdsourcing Broken QR Codes",
+      "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 15:50:49",
       "https://lobste.rs/s/ularz6/server_wasn_t_meant_exist"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2025-05-13, 18:33:29",
-      "https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly"
-    ],
-    [
-      "Cracking The Dave & Buster’s Anomaly",
-      "https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 16:57:44",
       "https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl"
     ],
     [
       "Writing that changed how I think about PL",
       "https://bernsteinbear.com/blog/pl-writing/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 16:51:47",
-      "https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s"
-    ],
-    [
-      "Task estimation: Conquering Hofstadter's Law",
-      "https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters"
     ]
   ],
   [
