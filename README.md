@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 12:44:49](https://lobste.rs/s/gyfsaq/datavizta_environmental_impacts) - [Datavizta: environmental impacts of digital technology](https://datavizta.boavizta.org/)
 * [2025-05-14, 12:19:54](https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby) - [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
 * [2025-05-14, 12:17:57](https://lobste.rs/s/rmx28b/running_modified_containers_with_podman) - [Running modified containers with podman](https://www.die-welt.net/2025/05/running-modified-containers-with-podman/)
 * [2025-05-14, 11:53:10](https://lobste.rs/s/xmvjel/flowg_distributed_systems_without_raft) - [FlowG - Distributed Systems without Raft (part 2)](https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db)
@@ -19,7 +20,6 @@
 * [2025-05-13, 13:55:12](https://lobste.rs/s/ubqsls/policy_transience) - [Policy of transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
-* [2025-05-13, 11:25:12](https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git) - [Experiment on your code freely with Git worktree](https://opensource.com/article/21/4/git-worktree)
 * [2025-05-13, 11:20:33](https://lobste.rs/s/c5mpmx/accessibility_update) - [An accessibility update](https://blog.gtk.org/2025/05/12/an-accessibility-update/)
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:29:19](https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster) - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
