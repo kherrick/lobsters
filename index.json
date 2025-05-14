@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-14, 14:34:37",
-      "https://lobste.rs/s/cyb7el/using_ai_build_tactical_shooter"
-    ],
-    [
-      "Using AI to build a tactical shooter",
-      "https://www.youtube.com/watch?v=WcpfyZ1yQRA"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 13:26:38",
       "https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also"
     ],
@@ -237,6 +227,16 @@
     [
       "A programming language made for me",
       "https://zylinski.se/posts/a-programming-language-for-me/"
+    ]
+  ],
+  [
+    [
+      "2025-05-13, 07:29:19",
+      "https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster"
+    ],
+    [
+      "Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire",
+      "https://yeet.cx/blog/lock-free-rust/"
     ]
   ],
   [
