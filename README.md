@@ -10,6 +10,7 @@
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 18:33:29](https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly) - [Cracking The Dave & Buster’s Anomaly](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly)
 * [2025-05-13, 18:13:51](https://lobste.rs/s/sj5cwr/makepad_1_0_rust_ui_framework) - [Makepad 1.0 : Rust UI Framework](https://makepad.nl/)
+* [2025-05-13, 18:13:16](https://lobste.rs/s/uuqzso/lzexe_executable_file_compression_on) - [LZEXE - executable file compression on MSDOS](https://cosmodoc.org/topics/lzexe/)
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-13, 14:47:30](https://lobste.rs/s/nu19ul/apple_unveils_powerful_accessibility) - [Apple unveils powerful accessibility features coming later this year](https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/)
 * [2025-05-13, 14:24:21](https://lobste.rs/s/elnrrz/librewolf_browser) - [LibreWolf Browser](https://librewolf.net/)
@@ -23,7 +24,6 @@
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:29:19](https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster) - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 07:01:04](https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer) - [Fx v36 - JSON terminal viewer](https://github.com/antonmedv/fx/releases/tag/36.0.0)
-* [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 
 ## [Archives](archives/index.md)
