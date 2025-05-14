@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-14, 21:08:03",
+      "https://lobste.rs/s/o15bge/scalar_select_anti_pattern"
+    ],
+    [
+      "Scalar Select Anti-Pattern",
+      "https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 20:42:18",
       "https://lobste.rs/s/c94pi7/high_available_mosquitto_mqtt_on"
     ],
@@ -217,16 +227,6 @@
     [
       "Writing that changed how I think about PL",
       "https://bernsteinbear.com/blog/pl-writing/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 14:24:21",
-      "https://lobste.rs/s/elnrrz/librewolf_browser"
-    ],
-    [
-      "LibreWolf Browser",
-      "https://librewolf.net/"
     ]
   ],
   [
