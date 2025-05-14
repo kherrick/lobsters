@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-14, 12:44:49",
+      "https://lobste.rs/s/gyfsaq/datavizta_environmental_impacts"
+    ],
+    [
+      "Datavizta: environmental impacts of digital technology",
+      "https://datavizta.boavizta.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 12:19:54",
       "https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby"
     ],
@@ -187,16 +197,6 @@
     [
       "Preventing outages with pkill's new --require-handler flag",
       "https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 11:25:12",
-      "https://lobste.rs/s/bs3bmj/experiment_on_your_code_freely_with_git"
-    ],
-    [
-      "Experiment on your code freely with Git worktree",
-      "https://opensource.com/article/21/4/git-worktree"
     ]
   ],
   [
