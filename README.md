@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-14, 17:15:26](https://lobste.rs/s/rb8mco/greptimedb_as_prometheus_long_term) - [GreptimeDB as Prometheus Long-term Storage](https://blog.anarcher.dev/post/2025/04-13-greptimedb-intro/)
+* [2025-05-14, 17:17:46](https://lobste.rs/s/26oqqu/why_i_use_webassembly) - [Why I use WebAssembly](https://nasso.dev/blog/why-i-use-wasm)
 * [2025-05-14, 17:04:46](https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes) - [Crowdsourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-14, 15:50:49](https://lobste.rs/s/ularz6/server_wasn_t_meant_exist) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
