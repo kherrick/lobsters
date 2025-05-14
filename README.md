@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 08:55:16](https://lobste.rs/s/watrbl/avian_physics_0_3) - [Avian Physics 0.3](https://joonaa.dev/blog/08/avian-0-3)
+* [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 * [2025-05-14, 08:29:16](https://lobste.rs/s/1muhyf/minus_100_points) - [Minus 100 points](https://learn.microsoft.com/en-us/archive/blogs/ericgu/minus-100-points)
 * [2025-05-14, 06:37:01](https://lobste.rs/s/yixtsg/my_djangocon_europe_2025) - [My DjangoCon Europe 2025](https://www.paulox.net/2025/05/13/my-djangocon-europe-2025/)
@@ -8,9 +10,7 @@
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 18:33:29](https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly) - [Cracking The Dave & Buster’s Anomaly](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly)
 * [2025-05-13, 18:13:51](https://lobste.rs/s/sj5cwr/makepad_1_0_rust_ui_framework) - [Makepad 1.0 : Rust UI Framework](https://makepad.nl/)
-* [2025-05-13, 18:13:16](https://lobste.rs/s/uuqzso/lzexe_executable_file_compression_on) - [LZEXE - executable file compression on MSDOS](https://cosmodoc.org/topics/lzexe/)
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
-* [2025-05-13, 16:51:47](https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s) - [Task estimation: Conquering Hofstadter's Law](https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters)
 * [2025-05-13, 14:47:30](https://lobste.rs/s/nu19ul/apple_unveils_powerful_accessibility) - [Apple unveils powerful accessibility features coming later this year](https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/)
 * [2025-05-13, 14:24:21](https://lobste.rs/s/elnrrz/librewolf_browser) - [LibreWolf Browser](https://librewolf.net/)
 * [2025-05-13, 13:55:12](https://lobste.rs/s/ubqsls/policy_transience) - [Policy of transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
