@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-14, 20:42:18",
+      "https://lobste.rs/s/c94pi7/high_available_mosquitto_mqtt_on"
+    ],
+    [
+      "High Available Mosquitto MQTT on Kubernetes",
+      "https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 20:05:40",
       "https://lobste.rs/s/du21xr/why_we_need_lisp_machines"
     ],
@@ -147,16 +157,6 @@
     [
       "The Database Row That Did and Didn't Exist",
       "http://mistys-internet.website/blog/blog/2025/05/13/the-database-row-that-did-and-didnt-exist"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 08:55:16",
-      "https://lobste.rs/s/watrbl/avian_physics_0_3"
-    ],
-    [
-      "Avian Physics 0.3",
-      "https://joonaa.dev/blog/08/avian-0-3"
     ]
   ],
   [
