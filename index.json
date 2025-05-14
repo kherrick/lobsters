@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-14, 11:53:10",
+      "https://lobste.rs/s/xmvjel/flowg_distributed_systems_without_raft"
+    ],
+    [
+      "FlowG - Distributed Systems without Raft (part 2)",
+      "https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 11:14:40",
       "https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open"
     ],
@@ -111,22 +121,22 @@
   ],
   [
     [
+      "2025-05-13, 18:13:51",
+      "https://lobste.rs/s/sj5cwr/makepad_1_0_rust_ui_framework"
+    ],
+    [
+      "Makepad 1.0 : Rust UI Framework",
+      "https://makepad.nl/"
+    ]
+  ],
+  [
+    [
       "2025-05-13, 16:57:44",
       "https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl"
     ],
     [
       "Writing that changed how I think about PL",
       "https://bernsteinbear.com/blog/pl-writing/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 16:51:47",
-      "https://lobste.rs/s/ajg8ja/task_estimation_conquering_hofstadter_s"
-    ],
-    [
-      "Task estimation: Conquering Hofstadter's Law",
-      "https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Firefox moves to GitHub",
       "https://github.com/mozilla-firefox/firefox"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 12:17:29",
-      "https://lobste.rs/s/qq89iv/case_for_intransitive_operator"
-    ],
-    [
-      "A case for intransitive operator precedence (2019)",
-      "https://blog.adamant-lang.org/2019/operator-precedence/"
     ]
   ],
   [
