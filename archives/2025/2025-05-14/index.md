@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 11:53:10](https://lobste.rs/s/xmvjel/flowg_distributed_systems_without_raft) - [FlowG - Distributed Systems without Raft (part 2)](https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db)
 * [2025-05-14, 11:14:40](https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open) - [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
 * [2025-05-14, 11:11:42](https://lobste.rs/s/mt7ijj/database_row_did_didn_t_exist) - [The Database Row That Did and Didn't Exist](http://mistys-internet.website/blog/blog/2025/05/13/the-database-row-that-did-and-didnt-exist)
 * [2025-05-14, 09:41:59](https://lobste.rs/s/gle6bs/building_launching_scaling_chatgpt) - [Building, launching, and scaling ChatGPT Images](https://newsletter.pragmaticengineer.com/p/chatgpt-images)
