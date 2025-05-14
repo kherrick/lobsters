@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
+* [2025-05-14, 08:29:16](https://lobste.rs/s/1muhyf/minus_100_points) - [Minus 100 points](https://learn.microsoft.com/en-us/archive/blogs/ericgu/minus-100-points)
 * [2025-05-14, 06:37:01](https://lobste.rs/s/yixtsg/my_djangocon_europe_2025) - [My DjangoCon Europe 2025](https://www.paulox.net/2025/05/13/my-djangocon-europe-2025/)
 * [2025-05-14, 03:05:41](https://lobste.rs/s/cxpjdy/misadventures_dtrace_how_debug_macos) - [Misadventures in DTrace: how to debug the macOS kernel](https://jade.fyi/blog/misadventures-in-dtrace/)
-* [2025-05-14, 01:18:36](https://lobste.rs/s/efpmij/computers_can_run_backwards_2017) - [Computers That Can Run Backwards (2017)](https://www.americanscientist.org/article/computers-that-can-run-backwards)
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
-* [2025-05-13, 19:46:51](https://lobste.rs/s/k8g0sf/branch_privilege_injection_exploiting) - [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
 * [2025-05-13, 18:33:29](https://lobste.rs/s/g48gjs/cracking_dave_buster_s_anomaly) - [Cracking The Dave & Buster’s Anomaly](https://rambo.codes/posts/2025-05-12-cracking-the-dave-and-busters-anomaly)
 * [2025-05-13, 18:13:51](https://lobste.rs/s/sj5cwr/makepad_1_0_rust_ui_framework) - [Makepad 1.0 : Rust UI Framework](https://makepad.nl/)
 * [2025-05-13, 18:13:16](https://lobste.rs/s/uuqzso/lzexe_executable_file_compression_on) - [LZEXE - executable file compression on MSDOS](https://cosmodoc.org/topics/lzexe/)
