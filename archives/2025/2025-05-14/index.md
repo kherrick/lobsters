@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 19:44:23](https://lobste.rs/s/s5t6wa/why_i_wrote_fx_web_server) - [Why I wrote the fx web server](https://huijzer.xyz/posts/74)
 * [2025-05-14, 18:21:01](https://lobste.rs/s/q919pi/introducing_oniux_kernel_level_tor) - [Introducing oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 * [2025-05-14, 18:11:43](https://lobste.rs/s/yidvhu/keeping_time_on_stream) - [Keeping time on a stream](https://s2.dev/blog/timestamping)
 * [2025-05-14, 17:17:46](https://lobste.rs/s/26oqqu/why_i_use_webassembly) - [Why I use WebAssembly](https://nasso.dev/blog/why-i-use-wasm)

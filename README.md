@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 19:44:23](https://lobste.rs/s/s5t6wa/why_i_wrote_fx_web_server) - [Why I wrote the fx web server](https://huijzer.xyz/posts/74)
 * [2025-05-14, 18:21:01](https://lobste.rs/s/q919pi/introducing_oniux_kernel_level_tor) - [Introducing oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 * [2025-05-14, 18:11:43](https://lobste.rs/s/yidvhu/keeping_time_on_stream) - [Keeping time on a stream](https://s2.dev/blog/timestamping)
 * [2025-05-14, 17:17:46](https://lobste.rs/s/26oqqu/why_i_use_webassembly) - [Why I use WebAssembly](https://nasso.dev/blog/why-i-use-wasm)
@@ -22,7 +23,6 @@
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-13, 14:47:30](https://lobste.rs/s/nu19ul/apple_unveils_powerful_accessibility) - [Apple unveils powerful accessibility features coming later this year](https://www.apple.com/newsroom/2025/05/apple-unveils-powerful-accessibility-features-coming-later-this-year/)
 * [2025-05-13, 14:24:21](https://lobste.rs/s/elnrrz/librewolf_browser) - [LibreWolf Browser](https://librewolf.net/)
-* [2025-05-13, 13:55:12](https://lobste.rs/s/ubqsls/policy_transience) - [Policy of transience](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/transience/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 
