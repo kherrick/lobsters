@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 15:50:49](https://lobste.rs/s/ularz6/server_wasn_t_meant_exist) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 14:34:37](https://lobste.rs/s/cyb7el/using_ai_build_tactical_shooter) - [Using AI to build a tactical shooter](https://www.youtube.com/watch?v=WcpfyZ1yQRA)
 * [2025-05-14, 14:31:38](https://lobste.rs/s/io9rbo/css_attr_gets_upgrade) - [CSS attr() gets an upgrade](https://developer.chrome.com/blog/advanced-attr)
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
