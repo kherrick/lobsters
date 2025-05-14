@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 09:41:59](https://lobste.rs/s/gle6bs/building_launching_scaling_chatgpt) - [Building, launching, and scaling ChatGPT Images](https://newsletter.pragmaticengineer.com/p/chatgpt-images)
 * [2025-05-14, 08:55:16](https://lobste.rs/s/watrbl/avian_physics_0_3) - [Avian Physics 0.3](https://joonaa.dev/blog/08/avian-0-3)
 * [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
