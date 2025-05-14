@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 03:13:53](https://lobste.rs/s/b97cs0/analyzing_api_design_via_algebraic_laws) - [Analyzing API design via algebraic laws](https://reasonablypolymorphic.com/blog/api-analysis/)
 * [2025-05-14, 03:05:41](https://lobste.rs/s/cxpjdy/misadventures_dtrace_how_debug_macos) - [Misadventures in DTrace: how to debug the macOS kernel](https://jade.fyi/blog/misadventures-in-dtrace/)
-* [2025-05-14, 02:16:18](https://lobste.rs/s/gxkjsp/real_time_vision_language_model_demo) - [Real-time vision language model demo](https://github.com/ngxson/smolvlm-realtime-webcam)
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 19:46:51](https://lobste.rs/s/k8g0sf/branch_privilege_injection_exploiting) - [Branch Privilege Injection: Exploiting Branch Predictor Race Conditions](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/)
