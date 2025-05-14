@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-05-14](index.md)
+
+* [2025-05-14, 01:18:36](https://lobste.rs/s/efpmij/computers_can_run_backwards_2017) - [Computers That Can Run Backwards (2017)](https://www.americanscientist.org/article/computers-that-can-run-backwards)
