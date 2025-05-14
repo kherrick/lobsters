@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-05-14, 18:11:43",
-      "https://lobste.rs/s/yidvhu/keeping_time_on_stream"
-    ],
-    [
-      "Keeping time on a stream",
-      "https://s2.dev/blog/timestamping"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 17:17:46",
       "https://lobste.rs/s/26oqqu/why_i_use_webassembly"
     ],
@@ -97,6 +87,16 @@
     [
       "The Server That Wasn't Meant to Exist",
       "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 14:31:38",
+      "https://lobste.rs/s/io9rbo/css_attr_gets_upgrade"
+    ],
+    [
+      "CSS attr() gets an upgrade",
+      "https://developer.chrome.com/blog/advanced-attr"
     ]
   ],
   [
