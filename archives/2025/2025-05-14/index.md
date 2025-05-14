@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 18:21:01](https://lobste.rs/s/q919pi/introducing_oniux_kernel_level_tor) - [Introducing oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
+* [2025-05-14, 18:11:43](https://lobste.rs/s/yidvhu/keeping_time_on_stream) - [Keeping time on a stream](https://s2.dev/blog/timestamping)
 * [2025-05-14, 17:17:46](https://lobste.rs/s/26oqqu/why_i_use_webassembly) - [Why I use WebAssembly](https://nasso.dev/blog/why-i-use-wasm)
 * [2025-05-14, 17:15:26](https://lobste.rs/s/rb8mco/greptimedb_as_prometheus_long_term) - [GreptimeDB as Prometheus Long-term Storage](https://blog.anarcher.dev/post/2025/04-13-greptimedb-intro/)
 * [2025-05-14, 17:04:46](https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes) - [Crowdsourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
+* [2025-05-14, 17:03:56](https://lobste.rs/s/dwxksp/smalltalk_78_xerox_notetaker_browser) - [Smalltalk-78 Xerox NoteTaker in-browser emulator](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html)
 * [2025-05-14, 15:50:49](https://lobste.rs/s/ularz6/server_wasn_t_meant_exist) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 14:34:37](https://lobste.rs/s/cyb7el/using_ai_build_tactical_shooter) - [Using AI to build a tactical shooter](https://www.youtube.com/watch?v=WcpfyZ1yQRA)
 * [2025-05-14, 14:31:38](https://lobste.rs/s/io9rbo/css_attr_gets_upgrade) - [CSS attr() gets an upgrade](https://developer.chrome.com/blog/advanced-attr)
