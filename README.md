@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 06:37:01](https://lobste.rs/s/yixtsg/my_djangocon_europe_2025) - [My DjangoCon Europe 2025](https://www.paulox.net/2025/05/13/my-djangocon-europe-2025/)
 * [2025-05-14, 03:05:41](https://lobste.rs/s/cxpjdy/misadventures_dtrace_how_debug_macos) - [Misadventures in DTrace: how to debug the macOS kernel](https://jade.fyi/blog/misadventures-in-dtrace/)
 * [2025-05-14, 01:18:36](https://lobste.rs/s/efpmij/computers_can_run_backwards_2017) - [Computers That Can Run Backwards (2017)](https://www.americanscientist.org/article/computers-that-can-run-backwards)
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
@@ -22,7 +23,6 @@
 * [2025-05-13, 08:34:08](https://lobste.rs/s/b4o1h8/programming_language_made_for_me) - [A programming language made for me](https://zylinski.se/posts/a-programming-language-for-me/)
 * [2025-05-13, 07:29:19](https://lobste.rs/s/zcpnge/lock_free_rust_how_build_rollercoaster) - [Lock-Free Rust: How to Build a Rollercoaster While It’s on Fire](https://yeet.cx/blog/lock-free-rust/)
 * [2025-05-13, 07:01:04](https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer) - [Fx v36 - JSON terminal viewer](https://github.com/antonmedv/fx/releases/tag/36.0.0)
-* [2025-05-13, 02:19:27](https://lobste.rs/s/0vjs03/why_do_saturation_luminance_go_all_way_240) - [Why do Saturation and Luminance go all the way to 240, but Hue goes only to 239? And why 239 anyway?](https://devblogs.microsoft.com/oldnewthing/20151013-00/?p=91371)
 * [2025-05-12, 20:37:45](https://lobste.rs/s/tm1x6a/china_just_made_world_s_fastest) - [China Just Made the World's Fastest Transistor and It Is Not Made of Silicon](https://www.zmescience.com/science/news-science/china-just-made-the-worlds-fastest-transistor-and-it-is-not-made-of-silicon/)
 * [2025-05-12, 14:20:45](https://lobste.rs/s/ysluw7/audio_stack_is_crime_scene) - [The Audio Stack Is a Crime Scene](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-2-the-audio-stack-is-a-crime-scene/)
 
