@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 21:08:03](https://lobste.rs/s/o15bge/scalar_select_anti_pattern) - [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-14, 20:42:18](https://lobste.rs/s/c94pi7/high_available_mosquitto_mqtt_on) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
 * [2025-05-14, 20:05:40](https://lobste.rs/s/du21xr/why_we_need_lisp_machines) - [Why we need lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
 * [2025-05-14, 19:55:20](https://lobste.rs/s/8yscq2/good_enough_ten_second_sum_types_for) - [Good enough ten-second sum types for Postgres](https://duckrabbit.tech/articles/pg-epoch.html)
@@ -22,7 +23,6 @@
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
 * [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
-* [2025-05-13, 14:24:21](https://lobste.rs/s/elnrrz/librewolf_browser) - [LibreWolf Browser](https://librewolf.net/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 
