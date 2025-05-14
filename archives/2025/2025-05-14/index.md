@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-14](index.md)
 
+* [2025-05-14, 11:14:40](https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open) - [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
+* [2025-05-14, 11:11:42](https://lobste.rs/s/mt7ijj/database_row_did_didn_t_exist) - [The Database Row That Did and Didn't Exist](http://mistys-internet.website/blog/blog/2025/05/13/the-database-row-that-did-and-didnt-exist)
 * [2025-05-14, 09:41:59](https://lobste.rs/s/gle6bs/building_launching_scaling_chatgpt) - [Building, launching, and scaling ChatGPT Images](https://newsletter.pragmaticengineer.com/p/chatgpt-images)
 * [2025-05-14, 08:55:16](https://lobste.rs/s/watrbl/avian_physics_0_3) - [Avian Physics 0.3](https://joonaa.dev/blog/08/avian-0-3)
 * [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
