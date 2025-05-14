@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-14, 14:31:38](https://lobste.rs/s/io9rbo/css_attr_gets_upgrade) - [CSS attr() gets an upgrade](https://developer.chrome.com/blog/advanced-attr)
+* [2025-05-14, 14:34:37](https://lobste.rs/s/cyb7el/using_ai_build_tactical_shooter) - [Using AI to build a tactical shooter](https://www.youtube.com/watch?v=WcpfyZ1yQRA)
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 13:23:24](https://lobste.rs/s/hiux0l/minorminer_we_turn_your_kid_s_maths) - [MinorMiner: we turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-14, 12:19:54](https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby) - [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
