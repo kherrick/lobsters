@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-14, 20:42:18](https://lobste.rs/s/c94pi7/high_available_mosquitto_mqtt_on) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
 * [2025-05-14, 20:05:40](https://lobste.rs/s/du21xr/why_we_need_lisp_machines) - [Why we need lisp machines](https://fultonsramblings.substack.com/p/why-we-need-lisp-machines)
 * [2025-05-14, 19:55:20](https://lobste.rs/s/8yscq2/good_enough_ten_second_sum_types_for) - [Good enough ten-second sum types for Postgres](https://duckrabbit.tech/articles/pg-epoch.html)
 * [2025-05-14, 19:44:23](https://lobste.rs/s/s5t6wa/why_i_wrote_fx_web_server) - [Why I wrote the fx web server](https://huijzer.xyz/posts/74)
@@ -15,7 +16,6 @@
 * [2025-05-14, 11:53:10](https://lobste.rs/s/xmvjel/flowg_distributed_systems_without_raft) - [FlowG - Distributed Systems without Raft (part 2)](https://david-delassus.medium.com/distributed-systems-without-raft-part-2-81ca31eae4db)
 * [2025-05-14, 11:14:40](https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open) - [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
 * [2025-05-14, 11:11:42](https://lobste.rs/s/mt7ijj/database_row_did_didn_t_exist) - [The Database Row That Did and Didn't Exist](http://mistys-internet.website/blog/blog/2025/05/13/the-database-row-that-did-and-didnt-exist)
-* [2025-05-14, 08:55:16](https://lobste.rs/s/watrbl/avian_physics_0_3) - [Avian Physics 0.3](https://joonaa.dev/blog/08/avian-0-3)
 * [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 * [2025-05-14, 08:29:16](https://lobste.rs/s/1muhyf/minus_100_points_2004) - [Minus 100 points (2004)](https://learn.microsoft.com/en-us/archive/blogs/ericgu/minus-100-points)
