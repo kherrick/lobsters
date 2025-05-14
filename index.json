@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-14, 18:21:01",
+      "https://lobste.rs/s/q919pi/introducing_oniux_kernel_level_tor"
+    ],
+    [
+      "Introducing oniux: Kernel-level Tor isolation for any Linux app",
+      "https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 18:11:43",
+      "https://lobste.rs/s/yidvhu/keeping_time_on_stream"
+    ],
+    [
+      "Keeping time on a stream",
+      "https://s2.dev/blog/timestamping"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 17:17:46",
       "https://lobste.rs/s/26oqqu/why_i_use_webassembly"
     ],
@@ -17,6 +37,16 @@
     [
       "Crowdsourcing Broken QR Codes",
       "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 17:03:56",
+      "https://lobste.rs/s/dwxksp/smalltalk_78_xerox_notetaker_browser"
+    ],
+    [
+      "Smalltalk-78 Xerox NoteTaker in-browser emulator",
+      "https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-05-14, 06:37:01",
-      "https://lobste.rs/s/yixtsg/my_djangocon_europe_2025"
-    ],
-    [
-      "My DjangoCon Europe 2025",
-      "https://www.paulox.net/2025/05/13/my-djangocon-europe-2025/"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 21:50:54",
       "https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax"
     ],
@@ -227,26 +247,6 @@
     [
       "Preventing outages with pkill's new --require-handler flag",
       "https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 08:34:08",
-      "https://lobste.rs/s/b4o1h8/programming_language_made_for_me"
-    ],
-    [
-      "A programming language made for me",
-      "https://zylinski.se/posts/a-programming-language-for-me/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 07:01:04",
-      "https://lobste.rs/s/bxgmid/fx_v36_json_terminal_viewer"
-    ],
-    [
-      "Fx v36 - JSON terminal viewer",
-      "https://github.com/antonmedv/fx/releases/tag/36.0.0"
     ]
   ]
 ]
