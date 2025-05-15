@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-15, 03:03:34](https://lobste.rs/s/eoc08i/zache_simple_ruby_memory_cache) - [Zache: A Simple Ruby In-Memory Cache](https://www.yegor256.com/2019/02/05/zache.html)
+* [2025-05-15, 04:20:12](https://lobste.rs/s/sntjcg/rulecompile_undocumented_ghidra) - [RULECOMPILE - Undocumented Ghidra decompiler rule language](https://msm.lt/re/ghidra/rulecompile/)
+* [2025-05-15, 04:09:36](https://lobste.rs/s/ot7gbr/stop_using_rest_for_state) - [Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
 * [2025-05-15, 02:42:13](https://lobste.rs/s/h9ypzn/breaking_out_restricted_mode_xss_rce) - [Breaking out of restricted mode: XSS to RCE in Visual Studio Code](https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/)
 * [2025-05-15, 02:15:05](https://lobste.rs/s/vwtuni/doom_on_oldest_digital_computer_america) - [Doom on the oldest digital computer in America](https://www.youtube.com/watch?v=no0CkQk7id0)
 * [2025-05-14, 21:53:05](https://lobste.rs/s/djboer/cryptography_behind_passkeys) - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
@@ -17,7 +18,6 @@
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 13:23:24](https://lobste.rs/s/hiux0l/minorminer_we_turn_your_kid_s_maths) - [MinorMiner: we turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-14, 12:19:54](https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby) - [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
-* [2025-05-14, 12:17:57](https://lobste.rs/s/rmx28b/running_modified_containers_with_podman) - [Running modified containers with podman](https://www.die-welt.net/2025/05/running-modified-containers-with-podman/)
 * [2025-05-14, 11:14:40](https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open) - [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
 * [2025-05-14, 11:11:42](https://lobste.rs/s/mt7ijj/database_row_did_didn_t_exist) - [The Database Row That Did and Didn't Exist](http://mistys-internet.website/blog/blog/2025/05/13/the-database-row-that-did-and-didnt-exist)
 * [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
