@@ -8,6 +8,7 @@
 * [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-15, 17:20:21](https://lobste.rs/s/xqshmm/please_please_please) - [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
 * [2025-05-15, 17:12:41](https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security) - [Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs](https://www.phoronix.com/news/Training-Solo-Vulnerability)
+* [2025-05-15, 17:08:16](https://lobste.rs/s/1c5g2a/declaring_friendship_self) - [Declaring a friendship to self](https://www.sandordargo.com/blog/2025/05/14/friend-self)
 * [2025-05-15, 17:07:11](https://lobste.rs/s/6dsauf/lua_for_elixir) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 * [2025-05-15, 13:56:16](https://lobste.rs/s/v5omb5/demystifying_ruby_1_3_it_s_all_about) - [Demystifying Ruby (1/3): It's all about threads](https://blog.papey.fr/post/07-demystifying-ruby-01/)
