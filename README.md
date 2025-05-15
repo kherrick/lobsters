@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-15, 05:09:55](https://lobste.rs/s/ivoh2z/data_is_code) - [Data is code](https://blog.information-superhighway.net/data-is-code)
 * [2025-05-15, 04:20:12](https://lobste.rs/s/sntjcg/rulecompile_undocumented_ghidra) - [RULECOMPILE - Undocumented Ghidra decompiler rule language](https://msm.lt/re/ghidra/rulecompile/)
 * [2025-05-15, 04:09:36](https://lobste.rs/s/ot7gbr/stop_using_rest_for_state) - [Stop using REST for state synchronization](https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/)
 * [2025-05-15, 03:03:34](https://lobste.rs/s/eoc08i/zache_simple_ruby_memory_cache) - [Zache: A Simple Ruby In-Memory Cache](https://www.yegor256.com/2019/02/05/zache.html)
@@ -15,7 +16,6 @@
 * [2025-05-14, 17:17:46](https://lobste.rs/s/26oqqu/why_i_use_webassembly) - [Why I use WebAssembly](https://nasso.dev/blog/why-i-use-wasm)
 * [2025-05-14, 17:04:46](https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes) - [Crowdsourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-14, 15:50:49](https://lobste.rs/s/ularz6/server_wasn_t_meant_exist) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
-* [2025-05-14, 14:31:38](https://lobste.rs/s/io9rbo/css_attr_gets_upgrade) - [CSS attr() gets an upgrade](https://developer.chrome.com/blog/advanced-attr)
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 13:23:24](https://lobste.rs/s/hiux0l/minorminer_we_turn_your_kid_s_maths) - [MinorMiner: we turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-14, 12:19:54](https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby) - [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
