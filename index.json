@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-15, 18:01:12",
+      "https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust"
+    ],
+    [
+      "Announcing Rust 1.87.0 and ten years of Rust",
+      "https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 17:43:44",
+      "https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3"
+    ],
+    [
+      "Introducing lazy trees in Determinate Nix 3.5",
+      "https://determinate.systems/posts/changelog-determinate-nix-352/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 17:20:21",
       "https://lobste.rs/s/xqshmm/please_please_please"
     ],
@@ -57,26 +77,6 @@
     [
       "My 2025 high-end Linux PC",
       "https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 13:00:47",
-      "https://lobste.rs/s/l0duyt/internet_artifacts"
-    ],
-    [
-      "Internet Artifacts",
-      "https://neal.fun/internet-artifacts/irc/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 12:47:50",
-      "https://lobste.rs/s/zjafp9/autogenlib_python_lib_for_vibe_importing"
-    ],
-    [
-      "autogenlib - Python lib for \"vibe importing\", generates the code based on its call site",
-      "https://github.com/cofob/autogenlib"
     ]
   ],
   [
