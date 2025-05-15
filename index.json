@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-15, 05:26:34",
-      "https://lobste.rs/s/j26rjx/lord_sord"
+      "2025-05-15, 05:09:55",
+      "https://lobste.rs/s/ivoh2z/data_is_code"
     ],
     [
-      "Lord of the Sord",
-      "https://www.leadedsolder.com/2025/05/13/sord-m5-pickup-rom-cartridge-pcb.html"
+      "Data is code",
+      "https://blog.information-superhighway.net/data-is-code"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Doom on the oldest digital computer in America",
       "https://www.youtube.com/watch?v=no0CkQk7id0"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 23:27:53",
+      "https://lobste.rs/s/skb8dl/warteschlangensimulator"
+    ],
+    [
+      "Warteschlangensimulator",
+      "https://a-herzog.github.io/Warteschlangensimulator/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The first year of free-threaded Python",
       "https://labs.quansight.org/blog/free-threaded-one-year-recap"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 11:35:49",
-      "https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new"
-    ],
-    [
-      "Preventing outages with pkill's new --require-handler flag",
-      "https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html"
     ]
   ]
 ]
