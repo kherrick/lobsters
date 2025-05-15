@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-15, 21:14:41](https://lobste.rs/s/bnxssi/10_years_stable_rust_infrastructure) - [10 Years of Stable Rust: An Infrastructure Story](https://rustfoundation.org/media/10-years-of-stable-rust-an-infrastructure-story/)
 * [2025-05-15, 21:06:59](https://lobste.rs/s/ppqd3i/initialization_c_is_bonkers_2017) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
 * [2025-05-15, 20:15:31](https://lobste.rs/s/fayqbl/rust_1_0_ten_years_later) - [Rust 1.0, ten years later](https://steveklabnik.com/writing/rust-ten-years-later/)
-* [2025-05-15, 19:46:40](https://lobste.rs/s/mzw6pl/skills_rot_at_machine_speed_ai_is_changing) - [Skills Rot At Machine Speed? AI Is Changing How Developers Learn And Think](https://www.forbes.com/councils/forbestechcouncil/2025/04/28/skills-rot-at-machine-speed-ai-is-changing-how-developers-learn-and-think/)
 * [2025-05-15, 18:53:00](https://lobste.rs/s/auqf51/current_state_tla_development) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 * [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
