@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 18:53:00",
+      "https://lobste.rs/s/auqf51/current_state_tla_development"
+    ],
+    [
+      "The current state of TLA⁺ development",
+      "https://ahelwer.ca/post/2025-05-15-tla-dev-status/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 18:01:12",
       "https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "AI Is Like a Crappy Consultant",
       "https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 08:29:35",
-      "https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust"
-    ],
-    [
-      "$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder",
-      "https://www.memorysafety.org/blog/rav1d-perf-bounty/"
     ]
   ]
 ]
