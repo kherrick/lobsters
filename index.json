@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 21:45:25",
+      "https://lobste.rs/s/ybjgex/leap_year_check_three_instructions"
+    ],
+    [
+      "A leap year check in three instructions",
+      "https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 21:14:41",
       "https://lobste.rs/s/bnxssi/10_years_stable_rust_infrastructure"
     ],
@@ -37,6 +47,16 @@
     [
       "The current state of TLA⁺ development",
       "https://ahelwer.ca/post/2025-05-15-tla-dev-status/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 18:12:00",
+      "https://lobste.rs/s/ojbra9/diagnosing_double_free_concurrency_bug"
+    ],
+    [
+      "Diagnosing a Double-Free Concurrency Bug in Rust's Unbounded Channels",
+      "https://materialize.com/blog/rust-concurrency-bug-unbounded-channels/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-05-15, 07:38:33",
-      "https://lobste.rs/s/zczgl5/temporal_super_resolution_via"
-    ],
-    [
-      "Temporal Super Resolution via Multisampling",
-      "http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 05:09:55",
       "https://lobste.rs/s/ivoh2z/data_is_code"
     ],
@@ -187,16 +197,6 @@
     [
       "Why we need lisp machines",
       "https://fultonsramblings.substack.com/p/why-we-need-lisp-machines"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 19:55:20",
-      "https://lobste.rs/s/8yscq2/good_enough_ten_second_sum_types_for"
-    ],
-    [
-      "Good enough ten-second sum types for Postgres",
-      "https://duckrabbit.tech/articles/pg-epoch.html"
     ]
   ],
   [
