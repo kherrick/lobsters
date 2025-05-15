@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 05:09:55",
+      "https://lobste.rs/s/ivoh2z/data_is_code"
+    ],
+    [
+      "Data is code",
+      "https://blog.information-superhighway.net/data-is-code"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 04:20:12",
       "https://lobste.rs/s/sntjcg/rulecompile_undocumented_ghidra"
     ],
@@ -147,16 +157,6 @@
     [
       "The Server That Wasn't Meant to Exist",
       "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 14:31:38",
-      "https://lobste.rs/s/io9rbo/css_attr_gets_upgrade"
-    ],
-    [
-      "CSS attr() gets an upgrade",
-      "https://developer.chrome.com/blog/advanced-attr"
     ]
   ],
   [
