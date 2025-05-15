@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-15, 02:42:13",
+      "https://lobste.rs/s/h9ypzn/breaking_out_restricted_mode_xss_rce"
+    ],
+    [
+      "Breaking out of restricted mode: XSS to RCE in Visual Studio Code",
+      "https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 02:15:05",
+      "https://lobste.rs/s/vwtuni/doom_on_oldest_digital_computer_america"
+    ],
+    [
+      "Doom on the oldest digital computer in America",
+      "https://www.youtube.com/watch?v=no0CkQk7id0"
+    ]
+  ],
+  [
+    [
       "2025-05-14, 21:53:05",
       "https://lobste.rs/s/djboer/cryptography_behind_passkeys"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-05-14, 08:29:16",
-      "https://lobste.rs/s/1muhyf/minus_100_points_2004"
-    ],
-    [
-      "Minus 100 points (2004)",
-      "https://learn.microsoft.com/en-us/archive/blogs/ericgu/minus-100-points"
-    ]
-  ],
-  [
-    [
       "2025-05-13, 21:50:54",
       "https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax"
     ],
@@ -217,16 +227,6 @@
     [
       "The first year of free-threaded Python",
       "https://labs.quansight.org/blog/free-threaded-one-year-recap"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 16:57:44",
-      "https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl"
-    ],
-    [
-      "Writing that changed how I think about PL",
-      "https://bernsteinbear.com/blog/pl-writing/"
     ]
   ],
   [
