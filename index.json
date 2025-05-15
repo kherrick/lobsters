@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-15, 05:26:34",
+      "https://lobste.rs/s/j26rjx/lord_sord"
+    ],
+    [
+      "Lord of the Sord",
+      "https://www.leadedsolder.com/2025/05/13/sord-m5-pickup-rom-cartridge-pcb.html"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 05:09:55",
       "https://lobste.rs/s/ivoh2z/data_is_code"
     ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2025-05-14, 23:27:53",
-      "https://lobste.rs/s/skb8dl/warteschlangensimulator"
+      "2025-05-15, 01:51:10",
+      "https://lobste.rs/s/hfkcva/micropython_v1_25_0"
     ],
     [
-      "Warteschlangensimulator",
-      "https://a-herzog.github.io/Warteschlangensimulator/"
+      "MicroPython v1.25.0",
+      "https://github.com/micropython/micropython/releases/tag/v1.25.0"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "SMS 2FA is not just insecure, it's also hostile to mountain people",
       "https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 13:23:24",
-      "https://lobste.rs/s/hiux0l/minorminer_we_turn_your_kid_s_maths"
-    ],
-    [
-      "MinorMiner: we turn your kid's maths homework into Bitcoin",
-      "https://robertheaton.com/minor-miner/"
     ]
   ],
   [
