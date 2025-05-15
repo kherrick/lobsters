@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-15, 02:42:13](https://lobste.rs/s/h9ypzn/breaking_out_restricted_mode_xss_rce) - [Breaking out of restricted mode: XSS to RCE in Visual Studio Code](https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/)
+* [2025-05-15, 02:15:05](https://lobste.rs/s/vwtuni/doom_on_oldest_digital_computer_america) - [Doom on the oldest digital computer in America](https://www.youtube.com/watch?v=no0CkQk7id0)
 * [2025-05-14, 21:53:05](https://lobste.rs/s/djboer/cryptography_behind_passkeys) - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
 * [2025-05-14, 21:08:03](https://lobste.rs/s/o15bge/scalar_select_anti_pattern) - [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 * [2025-05-14, 20:42:18](https://lobste.rs/s/c94pi7/high_available_mosquitto_mqtt_on) - [High Available Mosquitto MQTT on Kubernetes](https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html)
@@ -19,10 +21,8 @@
 * [2025-05-14, 11:11:42](https://lobste.rs/s/mt7ijj/database_row_did_didn_t_exist) - [The Database Row That Did and Didn't Exist](http://mistys-internet.website/blog/blog/2025/05/13/the-database-row-that-did-and-didnt-exist)
 * [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)
 * [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
-* [2025-05-14, 08:29:16](https://lobste.rs/s/1muhyf/minus_100_points_2004) - [Minus 100 points (2004)](https://learn.microsoft.com/en-us/archive/blogs/ericgu/minus-100-points)
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
-* [2025-05-13, 16:57:44](https://lobste.rs/s/v2zmv3/writing_changed_how_i_think_about_pl) - [Writing that changed how I think about PL](https://bernsteinbear.com/blog/pl-writing/)
 * [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 
