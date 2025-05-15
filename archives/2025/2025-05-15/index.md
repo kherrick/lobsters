@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 19:46:40](https://lobste.rs/s/mzw6pl/skills_rot_at_machine_speed_ai_is_changing) - [Skills Rot At Machine Speed? AI Is Changing How Developers Learn And Think](https://www.forbes.com/councils/forbestechcouncil/2025/04/28/skills-rot-at-machine-speed-ai-is-changing-how-developers-learn-and-think/)
 * [2025-05-15, 18:53:00](https://lobste.rs/s/auqf51/current_state_tla_development) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:40:12](https://lobste.rs/s/vaholh/sleeping_soundly_with_help_tla_2022) - [Sleeping soundly with the help of TLA+ (2022)](https://blogs.oracle.com/cloud-infrastructure/post/sleeping-soundly-with-the-help-of-tla)
 * [2025-05-15, 18:12:00](https://lobste.rs/s/ojbra9/diagnosing_double_free_concurrency_bug) - [Diagnosing a Double-Free Concurrency Bug in Rust's Unbounded Channels](https://materialize.com/blog/rust-concurrency-bug-unbounded-channels/)
