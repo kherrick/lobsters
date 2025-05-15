@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-05-15, 13:20:19",
-      "https://lobste.rs/s/iak1lt/forget_ips_using_cryptography_verify_bot"
+      "2025-05-15, 13:56:16",
+      "https://lobste.rs/s/v5omb5/demystifying_ruby_1_3_it_s_all_about"
     ],
     [
-      "Forget IPs: using cryptography to verify bot and agent traffic",
-      "https://blog.cloudflare.com/web-bot-auth/"
+      "Demystifying Ruby (1/3): It's all about threads",
+      "https://blog.papey.fr/post/07-demystifying-ruby-01/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 13:48:02",
+      "https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc"
+    ],
+    [
+      "My 2025 high-end Linux PC",
+      "https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 13:00:47",
+      "https://lobste.rs/s/l0duyt/internet_artifacts"
+    ],
+    [
+      "Internet Artifacts",
+      "https://neal.fun/internet-artifacts/irc/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Doom on the oldest digital computer in America",
       "https://www.youtube.com/watch?v=no0CkQk7id0"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 01:51:10",
-      "https://lobste.rs/s/hfkcva/micropython_v1_25_0"
-    ],
-    [
-      "MicroPython v1.25.0",
-      "https://github.com/micropython/micropython/releases/tag/v1.25.0"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder",
       "https://www.memorysafety.org/blog/rav1d-perf-bounty/"
-    ]
-  ],
-  [
-    [
-      "2025-05-13, 21:50:54",
-      "https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax"
-    ],
-    [
-      "The penultimate conditional syntax",
-      "https://dotat.at/@/2025-05-13-if-is.html"
     ]
   ]
 ]
