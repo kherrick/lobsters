@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-15, 13:20:19",
+      "https://lobste.rs/s/iak1lt/forget_ips_using_cryptography_verify_bot"
+    ],
+    [
+      "Forget IPs: using cryptography to verify bot and agent traffic",
+      "https://blog.cloudflare.com/web-bot-auth/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 13:00:47",
       "https://lobste.rs/s/l0duyt/internet_artifacts"
     ],
@@ -177,16 +187,6 @@
     [
       "Why I use WebAssembly",
       "https://nasso.dev/blog/why-i-use-wasm"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 17:04:46",
-      "https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes"
-    ],
-    [
-      "Crowdsourcing Broken QR Codes",
-      "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/"
     ]
   ],
   [
