@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-15, 12:47:50](https://lobste.rs/s/zjafp9/autogenlib_python_lib_for_vibe_importing) - [autogenlib - Python lib for \"vibe importing\", generates the code based on its call site](https://github.com/cofob/autogenlib)
 * [2025-05-15, 09:33:58](https://lobste.rs/s/othcwq/altcha_next_gen_captcha_spam_protection) - [ALTCHA - Next-Gen Captcha and Spam Protection](https://altcha.org/captcha/)
 * [2025-05-15, 07:38:33](https://lobste.rs/s/zczgl5/temporal_super_resolution_via) - [Temporal Super Resolution via Multisampling](http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/)
 * [2025-05-15, 05:26:34](https://lobste.rs/s/j26rjx/lord_sord) - [Lord of the Sord](https://www.leadedsolder.com/2025/05/13/sord-m5-pickup-rom-cartridge-pcb.html)
@@ -19,7 +20,6 @@
 * [2025-05-14, 17:04:46](https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes) - [Crowdsourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-14, 15:50:49](https://lobste.rs/s/ularz6/server_wasn_t_meant_exist) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
-* [2025-05-14, 13:23:24](https://lobste.rs/s/hiux0l/minorminer_we_turn_your_kid_s_maths) - [MinorMiner: we turn your kid's maths homework into Bitcoin](https://robertheaton.com/minor-miner/)
 * [2025-05-14, 12:19:54](https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby) - [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
 * [2025-05-14, 11:14:40](https://lobste.rs/s/gkpmli/if_ai_is_so_good_at_coding_where_are_open) - [If AI is so good at coding … where are the open source contributions?](https://pivot-to-ai.com/2025/05/13/if-ai-is-so-good-at-coding-where-are-the-open-source-contributions/)
 * [2025-05-14, 08:54:07](https://lobste.rs/s/msvjge/ai_is_like_crappy_consultant) - [AI Is Like a Crappy Consultant](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 12:47:50](https://lobste.rs/s/zjafp9/autogenlib_python_lib_for_vibe_importing) - [autogenlib - Python lib for \"vibe importing\", generates the code based on its call site](https://github.com/cofob/autogenlib)
 * [2025-05-15, 09:33:58](https://lobste.rs/s/othcwq/altcha_next_gen_captcha_spam_protection) - [ALTCHA - Next-Gen Captcha and Spam Protection](https://altcha.org/captcha/)
 * [2025-05-15, 07:38:33](https://lobste.rs/s/zczgl5/temporal_super_resolution_via) - [Temporal Super Resolution via Multisampling](http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/)
 * [2025-05-15, 05:26:34](https://lobste.rs/s/j26rjx/lord_sord) - [Lord of the Sord](https://www.leadedsolder.com/2025/05/13/sord-m5-pickup-rom-cartridge-pcb.html)
