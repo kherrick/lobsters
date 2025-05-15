@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-05-15, 18:40:12",
+      "https://lobste.rs/s/vaholh/sleeping_soundly_with_help_tla_2022"
+    ],
+    [
+      "Sleeping soundly with the help of TLA+ (2022)",
+      "https://blogs.oracle.com/cloud-infrastructure/post/sleeping-soundly-with-the-help-of-tla"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 18:12:00",
+      "https://lobste.rs/s/ojbra9/diagnosing_double_free_concurrency_bug"
+    ],
+    [
+      "Diagnosing a Double-Free Concurrency Bug in Rust's Unbounded Channels",
+      "https://materialize.com/blog/rust-concurrency-bug-unbounded-channels/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 18:01:12",
       "https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust"
     ],
@@ -37,16 +57,6 @@
     [
       "Please Please Please",
       "https://we.phorge.it/book/flavor/article/please_please_please/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 17:12:41",
-      "https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security"
-    ],
-    [
-      "Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs",
-      "https://www.phoronix.com/news/Training-Solo-Vulnerability"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Temporal Super Resolution via Multisampling",
       "http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 05:26:34",
-      "https://lobste.rs/s/j26rjx/lord_sord"
-    ],
-    [
-      "Lord of the Sord",
-      "https://www.leadedsolder.com/2025/05/13/sord-m5-pickup-rom-cartridge-pcb.html"
     ]
   ],
   [
