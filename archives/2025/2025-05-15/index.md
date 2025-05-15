@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 17:20:21](https://lobste.rs/s/xqshmm/please_please_please) - [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
 * [2025-05-15, 17:12:41](https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security) - [Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs](https://www.phoronix.com/news/Training-Solo-Vulnerability)
 * [2025-05-15, 17:07:11](https://lobste.rs/s/6dsauf/lua_for_elixir) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
