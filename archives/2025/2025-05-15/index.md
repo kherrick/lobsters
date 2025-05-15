@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 13:56:16](https://lobste.rs/s/v5omb5/demystifying_ruby_1_3_it_s_all_about) - [Demystifying Ruby (1/3): It's all about threads](https://blog.papey.fr/post/07-demystifying-ruby-01/)
+* [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 * [2025-05-15, 13:20:19](https://lobste.rs/s/iak1lt/forget_ips_using_cryptography_verify_bot) - [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
+* [2025-05-15, 13:00:47](https://lobste.rs/s/l0duyt/internet_artifacts) - [Internet Artifacts](https://neal.fun/internet-artifacts/irc/)
 * [2025-05-15, 12:47:50](https://lobste.rs/s/zjafp9/autogenlib_python_lib_for_vibe_importing) - [autogenlib - Python lib for \"vibe importing\", generates the code based on its call site](https://github.com/cofob/autogenlib)
 * [2025-05-15, 09:33:58](https://lobste.rs/s/othcwq/altcha_next_gen_captcha_spam_protection) - [ALTCHA - Next-Gen Captcha and Spam Protection](https://altcha.org/captcha/)
 * [2025-05-15, 07:38:33](https://lobste.rs/s/zczgl5/temporal_super_resolution_via) - [Temporal Super Resolution via Multisampling](http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/)
