@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-15, 03:03:34](https://lobste.rs/s/eoc08i/zache_simple_ruby_memory_cache) - [Zache: A Simple Ruby In-Memory Cache](https://www.yegor256.com/2019/02/05/zache.html)
 * [2025-05-15, 02:42:13](https://lobste.rs/s/h9ypzn/breaking_out_restricted_mode_xss_rce) - [Breaking out of restricted mode: XSS to RCE in Visual Studio Code](https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/)
 * [2025-05-15, 02:15:05](https://lobste.rs/s/vwtuni/doom_on_oldest_digital_computer_america) - [Doom on the oldest digital computer in America](https://www.youtube.com/watch?v=no0CkQk7id0)
 * [2025-05-14, 21:53:05](https://lobste.rs/s/djboer/cryptography_behind_passkeys) - [The cryptography behind passkeys](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/)
@@ -23,7 +24,6 @@
 * [2025-05-14, 08:29:35](https://lobste.rs/s/wvkq5b/20k_bounty_offered_for_optimizing_rust) - [$20K Bounty Offered for Optimizing Rust Code in rav1d AV1 Decoder](https://www.memorysafety.org/blog/rav1d-perf-bounty/)
 * [2025-05-13, 21:50:54](https://lobste.rs/s/9a0x7c/penultimate_conditional_syntax) - [The penultimate conditional syntax](https://dotat.at/@/2025-05-13-if-is.html)
 * [2025-05-13, 19:48:01](https://lobste.rs/s/kpkczj/first_year_free_threaded_python) - [The first year of free-threaded Python](https://labs.quansight.org/blog/free-threaded-one-year-recap)
-* [2025-05-13, 13:04:06](https://lobste.rs/s/0er0sj/firefox_moves_github) - [Firefox moves to GitHub](https://github.com/mozilla-firefox/firefox)
 * [2025-05-13, 11:35:49](https://lobste.rs/s/o4rqpo/preventing_outages_with_pkill_s_new) - [Preventing outages with pkill's new --require-handler flag](https://chrisdown.name/2025/05/13/safer-signal-sending-with-pkill-require-handler.html)
 
 ## [Archives](archives/index.md)
