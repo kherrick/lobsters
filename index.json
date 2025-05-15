@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-05-15, 16:50:58",
-      "https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15"
+      "2025-05-15, 17:12:41",
+      "https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security"
     ],
     [
-      "Asahi Linux Progress Report: Linux 6.15",
-      "https://asahilinux.org/2025/05/progress-report-6-15/"
+      "Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs",
+      "https://www.phoronix.com/news/Training-Solo-Vulnerability"
     ]
   ],
   [
@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2025-05-15, 13:20:19",
-      "https://lobste.rs/s/iak1lt/forget_ips_using_cryptography_verify_bot"
-    ],
-    [
-      "Forget IPs: using cryptography to verify bot and agent traffic",
-      "https://blog.cloudflare.com/web-bot-auth/"
-    ]
-  ],
-  [
-    [
       "2025-05-15, 13:00:47",
       "https://lobste.rs/s/l0duyt/internet_artifacts"
     ],
     [
       "Internet Artifacts",
       "https://neal.fun/internet-artifacts/irc/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 12:47:50",
+      "https://lobste.rs/s/zjafp9/autogenlib_python_lib_for_vibe_importing"
+    ],
+    [
+      "autogenlib - Python lib for \"vibe importing\", generates the code based on its call site",
+      "https://github.com/cofob/autogenlib"
     ]
   ],
   [
