@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-15, 17:07:11",
+      "https://lobste.rs/s/6dsauf/lua_for_elixir"
+    ],
+    [
+      "Lua for Elixir",
+      "https://davelucia.com/blog/lua-elixir"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 13:55:00",
       "https://lobste.rs/s/760luf/rethinking_modern_asynchronous"
     ],
@@ -187,16 +197,6 @@
     [
       "Why I use WebAssembly",
       "https://nasso.dev/blog/why-i-use-wasm"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 15:50:49",
-      "https://lobste.rs/s/ularz6/server_wasn_t_meant_exist"
-    ],
-    [
-      "The Server That Wasn't Meant to Exist",
-      "https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/"
     ]
   ],
   [
