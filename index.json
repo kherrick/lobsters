@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 17:20:21",
+      "https://lobste.rs/s/xqshmm/please_please_please"
+    ],
+    [
+      "Please Please Please",
+      "https://we.phorge.it/book/flavor/article/please_please_please/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 17:12:41",
       "https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security"
     ],
@@ -117,16 +127,6 @@
     [
       "Stop using REST for state synchronization",
       "https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 02:42:13",
-      "https://lobste.rs/s/h9ypzn/breaking_out_restricted_mode_xss_rce"
-    ],
-    [
-      "Breaking out of restricted mode: XSS to RCE in Visual Studio Code",
-      "https://starlabs.sg/blog/2025/05-breaking-out-of-restricted-mode-xss-to-rce-in-visual-studio-code/"
     ]
   ],
   [
