@@ -2,6 +2,7 @@
 
 * [2025-05-15, 13:55:00](https://lobste.rs/s/760luf/rethinking_modern_asynchronous) - [Rethinking Modern Asynchronous Paradigms](https://blog.dogac.dev/modern-asynchronous-paradigms/)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
+* [2025-05-15, 13:20:19](https://lobste.rs/s/iak1lt/forget_ips_using_cryptography_verify_bot) - [Forget IPs: using cryptography to verify bot and agent traffic](https://blog.cloudflare.com/web-bot-auth/)
 * [2025-05-15, 13:00:47](https://lobste.rs/s/l0duyt/internet_artifacts) - [Internet Artifacts](https://neal.fun/internet-artifacts/irc/)
 * [2025-05-15, 12:47:50](https://lobste.rs/s/zjafp9/autogenlib_python_lib_for_vibe_importing) - [autogenlib - Python lib for \"vibe importing\", generates the code based on its call site](https://github.com/cofob/autogenlib)
 * [2025-05-15, 07:38:33](https://lobste.rs/s/zczgl5/temporal_super_resolution_via) - [Temporal Super Resolution via Multisampling](http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/)
@@ -18,7 +19,6 @@
 * [2025-05-14, 19:44:23](https://lobste.rs/s/s5t6wa/why_i_wrote_fx_web_server) - [Why I wrote the fx web server](https://huijzer.xyz/posts/74)
 * [2025-05-14, 18:21:01](https://lobste.rs/s/q919pi/introducing_oniux_kernel_level_tor) - [Introducing oniux: Kernel-level Tor isolation for any Linux app](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/)
 * [2025-05-14, 17:17:46](https://lobste.rs/s/26oqqu/why_i_use_webassembly) - [Why I use WebAssembly](https://nasso.dev/blog/why-i-use-wasm)
-* [2025-05-14, 17:04:46](https://lobste.rs/s/yz2vny/crowdsourcing_broken_qr_codes) - [Crowdsourcing Broken QR Codes](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-05-14, 15:50:49](https://lobste.rs/s/ularz6/server_wasn_t_meant_exist) - [The Server That Wasn't Meant to Exist](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/)
 * [2025-05-14, 13:26:38](https://lobste.rs/s/anrlu2/sms_2fa_is_not_just_insecure_it_s_also) - [SMS 2FA is not just insecure, it's also hostile to mountain people](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people)
 * [2025-05-14, 12:19:54](https://lobste.rs/s/w9eg2a/zjit_has_been_merged_into_ruby) - [ZJIT has been merged into Ruby](https://railsatscale.com/2025-05-14-merge-zjit/)
