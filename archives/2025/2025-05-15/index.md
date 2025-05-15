@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
 * [2025-05-15, 17:12:41](https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security) - [Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs](https://www.phoronix.com/news/Training-Solo-Vulnerability)
+* [2025-05-15, 17:07:11](https://lobste.rs/s/6dsauf/lua_for_elixir) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 * [2025-05-15, 13:56:16](https://lobste.rs/s/v5omb5/demystifying_ruby_1_3_it_s_all_about) - [Demystifying Ruby (1/3): It's all about threads](https://blog.papey.fr/post/07-demystifying-ruby-01/)
 * [2025-05-15, 13:55:00](https://lobste.rs/s/760luf/rethinking_modern_asynchronous) - [Rethinking Modern Asynchronous Paradigms](https://blog.dogac.dev/modern-asynchronous-paradigms/)
