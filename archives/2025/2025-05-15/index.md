@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 22:30:55](https://lobste.rs/s/ho15wo/understanding_task_types_gemini) - [Understanding task types in the Gemini Embedding API](https://technicalwriting.dev/ml/embeddings/tasks/index.html)
 * [2025-05-15, 21:45:25](https://lobste.rs/s/ybjgex/leap_year_check_three_instructions) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 21:14:41](https://lobste.rs/s/bnxssi/10_years_stable_rust_infrastructure) - [10 Years of Stable Rust: An Infrastructure Story](https://rustfoundation.org/media/10-years-of-stable-rust-an-infrastructure-story/)
 * [2025-05-15, 21:06:59](https://lobste.rs/s/ppqd3i/initialization_c_is_bonkers_2017) - [Initialization in C++ is bonkers (2017)](https://blog.tartanllama.xyz/initialization-is-bonkers/)
