@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-15](index.md)
 
+* [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
+* [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-15, 17:20:21](https://lobste.rs/s/xqshmm/please_please_please) - [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
 * [2025-05-15, 17:12:41](https://lobste.rs/s/kk8mro/training_solo_new_set_serious_security) - [Training Solo: New Set Of Serious Security Vulnerabilities Exposed For Intel & Arm CPUs](https://www.phoronix.com/news/Training-Solo-Vulnerability)
 * [2025-05-15, 17:07:11](https://lobste.rs/s/6dsauf/lua_for_elixir) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
