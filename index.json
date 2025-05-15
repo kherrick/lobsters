@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-15, 16:50:58",
+      "https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15"
+    ],
+    [
+      "Asahi Linux Progress Report: Linux 6.15",
+      "https://asahilinux.org/2025/05/progress-report-6-15/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 13:55:00",
       "https://lobste.rs/s/760luf/rethinking_modern_asynchronous"
     ],
@@ -137,16 +147,6 @@
     [
       "Scalar Select Anti-Pattern",
       "https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 20:42:18",
-      "https://lobste.rs/s/c94pi7/high_available_mosquitto_mqtt_on"
-    ],
-    [
-      "High Available Mosquitto MQTT on Kubernetes",
-      "https://raymii.org/s/tutorials/High_Available_Mosquitto_MQTT_Broker_on_Kubernetes.html"
     ]
   ],
   [
