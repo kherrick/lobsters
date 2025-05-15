@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-15, 03:03:34",
-      "https://lobste.rs/s/eoc08i/zache_simple_ruby_memory_cache"
+      "2025-05-15, 04:20:12",
+      "https://lobste.rs/s/sntjcg/rulecompile_undocumented_ghidra"
     ],
     [
-      "Zache: A Simple Ruby In-Memory Cache",
-      "https://www.yegor256.com/2019/02/05/zache.html"
+      "RULECOMPILE - Undocumented Ghidra decompiler rule language",
+      "https://msm.lt/re/ghidra/rulecompile/"
+    ]
+  ],
+  [
+    [
+      "2025-05-15, 04:09:36",
+      "https://lobste.rs/s/ot7gbr/stop_using_rest_for_state"
+    ],
+    [
+      "Stop using REST for state synchronization",
+      "https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "ZJIT has been merged into Ruby",
       "https://railsatscale.com/2025-05-14-merge-zjit/"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 12:17:57",
-      "https://lobste.rs/s/rmx28b/running_modified_containers_with_podman"
-    ],
-    [
-      "Running modified containers with podman",
-      "https://www.die-welt.net/2025/05/running-modified-containers-with-podman/"
     ]
   ],
   [
