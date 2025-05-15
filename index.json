@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 22:30:55",
+      "https://lobste.rs/s/ho15wo/understanding_task_types_gemini"
+    ],
+    [
+      "Understanding task types in the Gemini Embedding API",
+      "https://technicalwriting.dev/ml/embeddings/tasks/index.html"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 21:45:25",
       "https://lobste.rs/s/ybjgex/leap_year_check_three_instructions"
     ],
@@ -47,16 +57,6 @@
     [
       "The current state of TLA⁺ development",
       "https://ahelwer.ca/post/2025-05-15-tla-dev-status/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 18:12:00",
-      "https://lobste.rs/s/ojbra9/diagnosing_double_free_concurrency_bug"
-    ],
-    [
-      "Diagnosing a Double-Free Concurrency Bug in Rust's Unbounded Channels",
-      "https://materialize.com/blog/rust-concurrency-bug-unbounded-channels/"
     ]
   ],
   [
