@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-05-14, 21:53:05",
-      "https://lobste.rs/s/djboer/cryptography_behind_passkeys"
-    ],
-    [
-      "The cryptography behind passkeys",
-      "https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/"
-    ]
-  ],
-  [
-    [
       "2025-05-14, 21:08:03",
       "https://lobste.rs/s/o15bge/scalar_select_anti_pattern"
     ],
@@ -197,6 +187,16 @@
     [
       "SMS 2FA is not just insecure, it's also hostile to mountain people",
       "https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people"
+    ]
+  ],
+  [
+    [
+      "2025-05-14, 13:23:24",
+      "https://lobste.rs/s/hiux0l/minorminer_we_turn_your_kid_s_maths"
+    ],
+    [
+      "MinorMiner: we turn your kid's maths homework into Bitcoin",
+      "https://robertheaton.com/minor-miner/"
     ]
   ],
   [
