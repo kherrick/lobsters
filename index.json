@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-15, 07:38:33",
+      "https://lobste.rs/s/zczgl5/temporal_super_resolution_via"
+    ],
+    [
+      "Temporal Super Resolution via Multisampling",
+      "http://filmicworlds.com/blog/temporal-super-resolution-via-multisampling/"
+    ]
+  ],
+  [
+    [
       "2025-05-15, 05:09:55",
       "https://lobste.rs/s/ivoh2z/data_is_code"
     ],
@@ -27,16 +37,6 @@
     [
       "Stop using REST for state synchronization",
       "https://www.mbid.me/posts/stop-using-rest-for-state-synchronization/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 03:03:34",
-      "https://lobste.rs/s/eoc08i/zache_simple_ruby_memory_cache"
-    ],
-    [
-      "Zache: A Simple Ruby In-Memory Cache",
-      "https://www.yegor256.com/2019/02/05/zache.html"
     ]
   ],
   [
