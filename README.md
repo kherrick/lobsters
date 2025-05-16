@@ -16,7 +16,7 @@
 * [2025-05-16, 09:30:33](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
 * [2025-05-16, 06:55:44](https://lobste.rs/s/hbsfjx/pathfinding) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
-* [2025-05-16, 06:54:48](https://lobste.rs/s/lx91va/refactoring_clojure) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
+* [2025-05-16, 06:54:48](https://lobste.rs/s/lx91va/refactoring_clojure_2018) - [Refactoring Clojure (2018)](https://www.orsolabs.com/post/refactoring-clojure-1/)
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
 * [2025-05-15, 22:12:26](https://lobste.rs/s/my2zbb/stack_overflow_is_almost_dead) - [Stack overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
