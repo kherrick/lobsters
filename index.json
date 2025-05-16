@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 22:15:06",
+      "https://lobste.rs/s/1xy1tp/hmpl_v3_0_small_template_language_for"
+    ],
+    [
+      "HMPL v3.0: Small template language for displaying UI from server to client",
+      "https://github.com/hmpl-language/hmpl/releases/tag/3.0.0"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 21:05:10",
       "https://lobste.rs/s/glcdny/ledger_postgresql_is_fast"
     ],
@@ -87,16 +97,6 @@
     [
       "Classical \"Single user computers\" were a flawed or at least limited idea",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 12:46:37",
-      "https://lobste.rs/s/ynuae0/repair_time_requirements_prevent_data"
-    ],
-    [
-      "Repair Time Requirements to Prevent Data Resurrection in Cassandra & Scylla",
-      "https://msun.io/cassandra-scylla-repairs/"
     ]
   ],
   [
