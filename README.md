@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 11:31:46](https://lobste.rs/s/qrwwoh/leeks_leaks) - [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
 * [2025-05-16, 11:16:20](https://lobste.rs/s/tm4kgf/streamlining_web_app_development_with) - [Streamlining Web App Development With Zeroconf](https://blog.julik.nl/2025/05/dev-subdomains-with-zeroconf)
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
@@ -7,7 +8,6 @@
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
 * [2025-05-16, 06:55:44](https://lobste.rs/s/hbsfjx/pathfinding) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-16, 06:54:48](https://lobste.rs/s/lx91va/refactoring_clojure) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
-* [2025-05-16, 06:53:52](https://lobste.rs/s/huwkim/unravelling_t_strings) - [Unravelling t-strings](https://snarky.ca/unravelling-t-strings/)
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-16, 01:42:27](https://lobste.rs/s/xw5sii/sunbeam_command_line_launcher) - [sunbeam: command-line launcher](https://github.com/pomdtr/sunbeam)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
