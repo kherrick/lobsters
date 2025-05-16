@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 16:36:20",
+      "https://lobste.rs/s/dxy2ms/richer_journelly_org_capture_template"
+    ],
+    [
+      "A richer Journelly org capture template",
+      "https://xenodium.com/a-richer-journelly-org-capture-template"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 15:54:46",
       "https://lobste.rs/s/ypdu8r/gnu_parallel_examples"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing Rust 1.87.0 and ten years of Rust",
       "https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 17:43:44",
-      "https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3"
-    ],
-    [
-      "Introducing lazy trees in Determinate Nix 3.5",
-      "https://determinate.systems/posts/changelog-determinate-nix-352/"
     ]
   ],
   [
