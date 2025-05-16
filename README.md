@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 12:46:37](https://lobste.rs/s/ynuae0/repair_time_requirements_prevent_data) - [Repair Time Requirements to Prevent Data Resurrection in Cassandra & Scylla](https://msun.io/cassandra-scylla-repairs/)
 * [2025-05-16, 12:27:56](https://lobste.rs/s/cfiux3/introducing_virtual_package_moonbit) - [Introducing virtual package in MoonBit](https://www.moonbitlang.com/blog/virtual-package)
 * [2025-05-16, 11:31:46](https://lobste.rs/s/qrwwoh/leeks_leaks) - [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
@@ -19,7 +20,6 @@
 * [2025-05-15, 18:53:00](https://lobste.rs/s/auqf51/current_state_tla_development) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 * [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
-* [2025-05-15, 17:20:21](https://lobste.rs/s/xqshmm/please_please_please) - [Please Please Please](https://we.phorge.it/book/flavor/article/please_please_please/)
 * [2025-05-15, 17:07:11](https://lobste.rs/s/6dsauf/lua_for_elixir) - [Lua for Elixir](https://davelucia.com/blog/lua-elixir)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
