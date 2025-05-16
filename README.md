@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 01:42:27](https://lobste.rs/s/xw5sii/sunbeam_command_line_launcher) - [sunbeam: command-line launcher](https://github.com/pomdtr/sunbeam)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
-* [2025-05-15, 22:30:55](https://lobste.rs/s/ho15wo/understanding_task_types_gemini) - [Understanding task types in the Gemini Embedding API](https://technicalwriting.dev/ml/embeddings/tasks/index.html)
 * [2025-05-15, 22:17:16](https://lobste.rs/s/7ng8bo/computational_public_space) - [Computational Public Space](https://www.youtube.com/watch?v=PixPSNRDNMU)
 * [2025-05-15, 22:12:26](https://lobste.rs/s/my2zbb/stack_overflow_is_almost_dead) - [Stack overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 * [2025-05-15, 21:45:25](https://lobste.rs/s/ybjgex/leap_year_check_three_instructions) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
