@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 23:25:15](https://lobste.rs/s/pwkopz/erlang_red_visual_low_code_flow_based) - [erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
 * [2025-05-16, 23:13:36](https://lobste.rs/s/9y982t/pallene_statically_typed_ahead_time) - [Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance](https://github.com/pallene-lang/pallene/tree/master)
 * [2025-05-16, 22:15:06](https://lobste.rs/s/1xy1tp/hmpl_v3_0_small_template_language_for) - [HMPL v3.0: Small template language for displaying UI from server to client](https://github.com/hmpl-language/hmpl/releases/tag/3.0.0)
 * [2025-05-16, 21:05:10](https://lobste.rs/s/glcdny/ledger_postgresql_is_fast) - [A Ledger In PostgreSQL Is Fast](https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/)

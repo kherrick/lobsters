@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 23:25:15](https://lobste.rs/s/pwkopz/erlang_red_visual_low_code_flow_based) - [erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED](https://github.com/gorenje/erlang-red)
 * [2025-05-16, 23:13:36](https://lobste.rs/s/9y982t/pallene_statically_typed_ahead_time) - [Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance](https://github.com/pallene-lang/pallene/tree/master)
 * [2025-05-16, 22:15:06](https://lobste.rs/s/1xy1tp/hmpl_v3_0_small_template_language_for) - [HMPL v3.0: Small template language for displaying UI from server to client](https://github.com/hmpl-language/hmpl/releases/tag/3.0.0)
 * [2025-05-16, 21:05:10](https://lobste.rs/s/glcdny/ledger_postgresql_is_fast) - [A Ledger In PostgreSQL Is Fast](https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/)
@@ -20,7 +21,6 @@
 * [2025-05-16, 06:54:48](https://lobste.rs/s/lx91va/refactoring_clojure_2018) - [Refactoring Clojure (2018)](https://www.orsolabs.com/post/refactoring-clojure-1/)
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
-* [2025-05-15, 22:12:26](https://lobste.rs/s/my2zbb/stack_overflow_is_almost_dead) - [Stack overflow is almost dead](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/)
 * [2025-05-15, 21:45:25](https://lobste.rs/s/ybjgex/leap_year_check_three_instructions) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
 * [2025-05-15, 18:53:00](https://lobste.rs/s/auqf51/current_state_tla_development) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
