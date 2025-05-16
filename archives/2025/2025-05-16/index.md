@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 09:30:33](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
 * [2025-05-16, 06:55:44](https://lobste.rs/s/hbsfjx/pathfinding) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-16, 06:54:48](https://lobste.rs/s/lx91va/refactoring_clojure) - [Refactoring Clojure](https://www.orsolabs.com/post/refactoring-clojure-1/)
