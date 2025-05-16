@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 23:25:15",
+      "https://lobste.rs/s/pwkopz/erlang_red_visual_low_code_flow_based"
+    ],
+    [
+      "erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED",
+      "https://github.com/gorenje/erlang-red"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 23:13:36",
       "https://lobste.rs/s/9y982t/pallene_statically_typed_ahead_time"
     ],
@@ -197,16 +207,6 @@
     [
       "I don’t like NumPy",
       "https://dynomight.net/numpy/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 22:12:26",
-      "https://lobste.rs/s/my2zbb/stack_overflow_is_almost_dead"
-    ],
-    [
-      "Stack overflow is almost dead",
-      "https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/"
     ]
   ],
   [
