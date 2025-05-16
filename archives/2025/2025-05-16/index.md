@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 12:27:56](https://lobste.rs/s/cfiux3/introducing_virtual_package_moonbit) - [Introducing virtual package in MoonBit](https://www.moonbitlang.com/blog/virtual-package)
 * [2025-05-16, 11:31:46](https://lobste.rs/s/qrwwoh/leeks_leaks) - [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
 * [2025-05-16, 11:16:20](https://lobste.rs/s/tm4kgf/streamlining_web_app_development_with) - [Streamlining Web App Development With Zeroconf](https://blog.julik.nl/2025/05/dev-subdomains-with-zeroconf)

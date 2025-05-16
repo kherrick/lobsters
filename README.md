@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 12:27:56](https://lobste.rs/s/cfiux3/introducing_virtual_package_moonbit) - [Introducing virtual package in MoonBit](https://www.moonbitlang.com/blog/virtual-package)
 * [2025-05-16, 11:31:46](https://lobste.rs/s/qrwwoh/leeks_leaks) - [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
-* [2025-05-16, 11:16:20](https://lobste.rs/s/tm4kgf/streamlining_web_app_development_with) - [Streamlining Web App Development With Zeroconf](https://blog.julik.nl/2025/05/dev-subdomains-with-zeroconf)
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
 * [2025-05-16, 09:30:33](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
