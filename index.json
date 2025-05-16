@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 03:57:28",
+      "https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua"
+    ],
+    [
+      "Teal: a statically-typed dialect of Lua",
+      "https://teal-language.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 03:08:52",
       "https://lobste.rs/s/m7wss7/there_s_more_nugget_wisdom_2023"
     ],
@@ -217,16 +227,6 @@
     [
       "Why I wrote the fx web server",
       "https://huijzer.xyz/posts/74"
-    ]
-  ],
-  [
-    [
-      "2025-05-14, 18:21:01",
-      "https://lobste.rs/s/q919pi/introducing_oniux_kernel_level_tor"
-    ],
-    [
-      "Introducing oniux: Kernel-level Tor isolation for any Linux app",
-      "https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/"
     ]
   ],
   [
