@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 14:55:22](https://lobste.rs/s/7hqd1o/deep_dive_on_new_combinators) - [Deep Dive on New Combinators](https://github.com/codereport/meeting-notes/blob/cb55ebad66137deade7213b66aeec0b9af7bd7e6/2022-03-12-Deep-Dive-on-New-Combinators.md#combinator-introductions)
 * [2025-05-16, 13:53:16](https://lobste.rs/s/ipfzdh/evolution_rust_compiler_errors) - [Evolution of Rust compiler errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 13:24:31](https://lobste.rs/s/plkdy5/classical_single_user_computers_were) - [Classical \"Single user computers\" were a flawed or at least limited idea](https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed)
 * [2025-05-16, 12:46:37](https://lobste.rs/s/ynuae0/repair_time_requirements_prevent_data) - [Repair Time Requirements to Prevent Data Resurrection in Cassandra & Scylla](https://msun.io/cassandra-scylla-repairs/)
@@ -24,7 +25,6 @@
 * [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
-* [2025-05-14, 21:08:03](https://lobste.rs/s/o15bge/scalar_select_anti_pattern) - [Scalar Select Anti-Pattern](https://matklad.github.io/2025/05/14/scalar-select-aniti-pattern.html)
 
 ## [Archives](archives/index.md)
 
