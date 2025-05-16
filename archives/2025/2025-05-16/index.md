@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 18:42:26](https://lobste.rs/s/wnrum7/new_life_hack_using_llms_generate) - [New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks](https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/)
+* [2025-05-16, 18:38:56](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not) - [What Problems are Truly Technical, not Social?](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not)
 * [2025-05-16, 16:36:20](https://lobste.rs/s/dxy2ms/richer_journelly_org_capture_template) - [A richer Journelly org capture template](https://xenodium.com/a-richer-journelly-org-capture-template)
 * [2025-05-16, 15:54:46](https://lobste.rs/s/ypdu8r/gnu_parallel_examples) - [GNU Parallel Examples](https://www.gnu.org/software/parallel/parallel_examples.html)
 * [2025-05-16, 14:55:22](https://lobste.rs/s/7hqd1o/deep_dive_on_new_combinators) - [Deep Dive on New Combinators](https://github.com/codereport/meeting-notes/blob/cb55ebad66137deade7213b66aeec0b9af7bd7e6/2022-03-12-Deep-Dive-on-New-Combinators.md#combinator-introductions)
