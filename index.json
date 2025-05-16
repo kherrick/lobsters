@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-16, 21:05:10",
+      "https://lobste.rs/s/glcdny/ledger_postgresql_is_fast"
+    ],
+    [
+      "A Ledger In PostgreSQL Is Fast",
+      "https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/"
+    ]
+  ],
+  [
+    [
       "2025-05-16, 20:30:28",
       "https://lobste.rs/s/qwmcoa/senior_devs_aren_t_just_faster_they_can"
     ],
@@ -87,16 +97,6 @@
     [
       "Repair Time Requirements to Prevent Data Resurrection in Cassandra & Scylla",
       "https://msun.io/cassandra-scylla-repairs/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 12:27:56",
-      "https://lobste.rs/s/cfiux3/introducing_virtual_package_moonbit"
-    ],
-    [
-      "Introducing virtual package in MoonBit",
-      "https://www.moonbitlang.com/blog/virtual-package"
     ]
   ],
   [
