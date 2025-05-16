@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 16:36:20](https://lobste.rs/s/dxy2ms/richer_journelly_org_capture_template) - [A richer Journelly org capture template](https://xenodium.com/a-richer-journelly-org-capture-template)
 * [2025-05-16, 15:54:46](https://lobste.rs/s/ypdu8r/gnu_parallel_examples) - [GNU Parallel Examples](https://www.gnu.org/software/parallel/parallel_examples.html)
 * [2025-05-16, 14:55:22](https://lobste.rs/s/7hqd1o/deep_dive_on_new_combinators) - [Deep Dive on New Combinators](https://github.com/codereport/meeting-notes/blob/cb55ebad66137deade7213b66aeec0b9af7bd7e6/2022-03-12-Deep-Dive-on-New-Combinators.md#combinator-introductions)
 * [2025-05-16, 13:53:16](https://lobste.rs/s/ipfzdh/evolution_rust_compiler_errors) - [Evolution of Rust compiler errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
@@ -22,7 +23,6 @@
 * [2025-05-15, 20:15:31](https://lobste.rs/s/fayqbl/rust_1_0_ten_years_later) - [Rust 1.0, ten years later](https://steveklabnik.com/writing/rust-ten-years-later/)
 * [2025-05-15, 18:53:00](https://lobste.rs/s/auqf51/current_state_tla_development) - [The current state of TLA⁺ development](https://ahelwer.ca/post/2025-05-15-tla-dev-status/)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
-* [2025-05-15, 17:43:44](https://lobste.rs/s/wgn94m/introducing_lazy_trees_determinate_nix_3) - [Introducing lazy trees in Determinate Nix 3.5](https://determinate.systems/posts/changelog-determinate-nix-352/)
 * [2025-05-15, 16:50:58](https://lobste.rs/s/8rxbcf/asahi_linux_progress_report_linux_6_15) - [Asahi Linux Progress Report: Linux 6.15](https://asahilinux.org/2025/05/progress-report-6-15/)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 
