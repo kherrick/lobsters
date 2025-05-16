@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-16, 21:05:10](https://lobste.rs/s/glcdny/ledger_postgresql_is_fast) - [A Ledger In PostgreSQL Is Fast](https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/)
 * [2025-05-16, 20:30:28](https://lobste.rs/s/qwmcoa/senior_devs_aren_t_just_faster_they_can) - [Senior devs aren't just faster, they can dodge problems juniors are forced to solve](https://boydkane.com/essays/experts)
 * [2025-05-16, 18:42:26](https://lobste.rs/s/wnrum7/new_life_hack_using_llms_generate) - [New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks](https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/)
 * [2025-05-16, 18:38:56](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not) - [What Problems are Truly Technical, not Social?](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not)
@@ -9,7 +10,6 @@
 * [2025-05-16, 13:31:58](https://lobste.rs/s/gvtf7q/detecting_malicious_unicode) - [Detecting malicious Unicode](https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/)
 * [2025-05-16, 13:24:31](https://lobste.rs/s/plkdy5/classical_single_user_computers_were) - [Classical \"Single user computers\" were a flawed or at least limited idea](https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed)
 * [2025-05-16, 12:46:37](https://lobste.rs/s/ynuae0/repair_time_requirements_prevent_data) - [Repair Time Requirements to Prevent Data Resurrection in Cassandra & Scylla](https://msun.io/cassandra-scylla-repairs/)
-* [2025-05-16, 12:27:56](https://lobste.rs/s/cfiux3/introducing_virtual_package_moonbit) - [Introducing virtual package in MoonBit](https://www.moonbitlang.com/blog/virtual-package)
 * [2025-05-16, 11:31:46](https://lobste.rs/s/qrwwoh/leeks_leaks) - [Leeks and leaks](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/)
 * [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
