@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-16](index.md)
 
+* [2025-05-16, 13:53:16](https://lobste.rs/s/ipfzdh/evolution_rust_compiler_errors) - [Evolution of Rust compiler errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 13:33:23](https://lobste.rs/s/v2nlp3/installing_outdoor_gps_antenna_for_more) - [Installing an outdoor GPS antenna for more accurate time](https://www.jeffgeerling.com/blog/2025/installing-outdoor-gps-antenna-more-accurate-time)
 * [2025-05-16, 13:31:58](https://lobste.rs/s/gvtf7q/detecting_malicious_unicode) - [Detecting malicious Unicode](https://daniel.haxx.se/blog/2025/05/16/detecting-malicious-unicode/)
 * [2025-05-16, 13:24:31](https://lobste.rs/s/plkdy5/classical_single_user_computers_were) - [Classical \"Single user computers\" were a flawed or at least limited idea](https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed)
