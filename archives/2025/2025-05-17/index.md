@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 * [2025-05-17, 16:52:44](https://lobste.rs/s/7pvhav/remarks_on_ai_from_nz) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-17, 16:31:32](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
 * [2025-05-17, 16:02:21](https://lobste.rs/s/0ici79/layers_all_way_down_untold_story_shader) - [Layers All The Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
@@ -22,4 +23,5 @@
 * [2025-05-17, 02:41:41](https://lobste.rs/s/q71zkp/superd_user_service_supervisor) - [superd: a user service supervisor](https://sr.ht/~craftyguy/superd/)
 * [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:37:06](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists) - [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
+* [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay_2022) - [Using unwrap() in Rust is Okay (2022)](https://burntsushi.net/unwrap/)
 * [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay) - [Using unwrap() in Rust is Okay](https://burntsushi.net/unwrap/)
