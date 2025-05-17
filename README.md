@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 18:00:31](https://lobste.rs/s/oc6ktn/xata_postgres_with_data_branching_pii) - [Xata: Postgres with data branching and PII anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 * [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 * [2025-05-17, 16:52:44](https://lobste.rs/s/7pvhav/remarks_on_ai_from_nz) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-17, 16:31:32](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
@@ -20,7 +21,6 @@
 * [2025-05-16, 18:42:26](https://lobste.rs/s/wnrum7/new_life_hack_using_llms_generate) - [New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks](https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/)
 * [2025-05-16, 18:38:56](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not) - [What Problems are Truly Technical, not Social?](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not)
 * [2025-05-16, 15:54:46](https://lobste.rs/s/ypdu8r/gnu_parallel_examples) - [GNU Parallel Examples](https://www.gnu.org/software/parallel/parallel_examples.html)
-* [2025-05-16, 14:55:22](https://lobste.rs/s/7hqd1o/deep_dive_on_new_combinators) - [Deep Dive on New Combinators](https://github.com/codereport/meeting-notes/blob/cb55ebad66137deade7213b66aeec0b9af7bd7e6/2022-03-12-Deep-Dive-on-New-Combinators.md#combinator-introductions)
 * [2025-05-16, 13:53:16](https://lobste.rs/s/ipfzdh/evolution_rust_compiler_errors) - [Evolution of Rust compiler errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 13:24:31](https://lobste.rs/s/plkdy5/classical_single_user_computers_were) - [Classical \"Single user computers\" were a flawed or at least limited idea](https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed)
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
