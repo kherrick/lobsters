@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-17, 22:36:32",
+      "https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets"
+    ],
+    [
+      "Postman is logging all your secrets and environment variables",
+      "https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 21:51:33",
       "https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025"
     ],
@@ -227,16 +237,6 @@
     [
       "Evolution of Rust compiler errors",
       "https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 13:24:31",
-      "https://lobste.rs/s/plkdy5/classical_single_user_computers_were"
-    ],
-    [
-      "Classical \"Single user computers\" were a flawed or at least limited idea",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed"
     ]
   ],
   [
