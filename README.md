@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 11:40:00](https://lobste.rs/s/8iz3sl/language_never_was) - [The Language That Never Was](https://blog.celes42.com/the_language_that_never_was.html)
+* [2025-05-17, 11:39:35](https://lobste.rs/s/qzbwqv/implementing_risc_v_hypervisor) - [Implementing a RISC-V hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 08:52:42](https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-17, 03:09:34](https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks) - [Mutexes Are Faster Than Spinlocks](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
-* [2025-05-17, 03:02:16](https://lobste.rs/s/20gz72/programming_martin_lof_s_type_theory) - [Programming in Martin-Lof's Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/)
 * [2025-05-17, 02:46:06](https://lobste.rs/s/836dy7/don_t_use_iso_iec_14977_extended_backus) - [Don’t Use ISO/IEC 14977 Extended Backus-Naur Form (EBNF) (2019, 2023)](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)
 * [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:37:06](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists) - [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
@@ -22,7 +23,6 @@
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
-* [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
 * [2025-05-15, 18:01:12](https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust) - [Announcing Rust 1.87.0 and ten years of Rust](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 * [2025-05-15, 13:48:02](https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc) - [My 2025 high-end Linux PC](https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/)
 
