@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 23:55:41](https://lobste.rs/s/rjmywz/passwords_are_okay_impulsive_internet) - [Passwords are okay, impulsive Internet isn't](https://www.dedoimedo.com/life/passwords-passkeys.html)
 * [2025-05-17, 23:39:35](https://lobste.rs/s/8duxms/fortran_for_c_programmers) - [Fortran For C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
 * [2025-05-17, 22:36:32](https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets) - [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424)
 * [2025-05-17, 21:51:33](https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025) - [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/)
@@ -16,7 +17,6 @@
 * [2025-05-17, 11:39:35](https://lobste.rs/s/qzbwqv/implementing_risc_v_hypervisor) - [Implementing a RISC-V hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 08:52:42](https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
 * [2025-05-17, 03:09:34](https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks_2020) - [Mutexes Are Faster Than Spinlocks (2020)](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
-* [2025-05-17, 02:46:06](https://lobste.rs/s/836dy7/don_t_use_iso_iec_14977_extended_backus) - [Don’t Use ISO/IEC 14977 Extended Backus-Naur Form (EBNF) (2019, 2023)](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)
 * [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:37:06](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists) - [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
 * [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay_2022) - [Using unwrap() in Rust is Okay (2022)](https://burntsushi.net/unwrap/)

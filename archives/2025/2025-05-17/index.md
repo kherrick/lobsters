@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 23:55:41](https://lobste.rs/s/rjmywz/passwords_are_okay_impulsive_internet) - [Passwords are okay, impulsive Internet isn't](https://www.dedoimedo.com/life/passwords-passkeys.html)
 * [2025-05-17, 23:39:35](https://lobste.rs/s/8duxms/fortran_for_c_programmers) - [Fortran For C Programmers](https://flang.llvm.org/docs/FortranForCProgrammers.html)
 * [2025-05-17, 22:36:32](https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets) - [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424)
 * [2025-05-17, 21:51:33](https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025) - [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/)
