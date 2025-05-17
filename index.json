@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-17, 11:40:00",
+      "https://lobste.rs/s/8iz3sl/language_never_was"
+    ],
+    [
+      "The Language That Never Was",
+      "https://blog.celes42.com/the_language_that_never_was.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 11:39:35",
+      "https://lobste.rs/s/qzbwqv/implementing_risc_v_hypervisor"
+    ],
+    [
+      "Implementing a RISC-V hypervisor",
+      "https://seiya.me/blog/riscv-hypervisor"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 08:52:42",
       "https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech"
     ],
@@ -17,16 +37,6 @@
     [
       "Mutexes Are Faster Than Spinlocks",
       "https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 03:02:16",
-      "https://lobste.rs/s/20gz72/programming_martin_lof_s_type_theory"
-    ],
-    [
-      "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
-      "https://www.cse.chalmers.se/research/group/logic/book/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Teal: a statically-typed dialect of Lua",
       "https://teal-language.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 00:11:06",
-      "https://lobste.rs/s/gfu70a/i_don_t_like_numpy"
-    ],
-    [
-      "I don’t like NumPy",
-      "https://dynomight.net/numpy/"
     ]
   ],
   [
