@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-05-17, 03:02:16",
+      "https://lobste.rs/s/20gz72/programming_martin_lof_s_type_theory"
+    ],
+    [
+      "Programming in Martin-Lof's Type Theory: An Introduction (1990)",
+      "https://www.cse.chalmers.se/research/group/logic/book/"
+    ]
+  ],
+  [
+    [
+      "2025-05-17, 02:51:35",
+      "https://lobste.rs/s/n8wg1s/graceful_shutdown_go_practical_patterns"
+    ],
+    [
+      "Graceful Shutdown in Go: Practical Patterns",
+      "https://victoriametrics.com/blog/go-graceful-shutdown/"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 02:46:06",
       "https://lobste.rs/s/836dy7/don_t_use_iso_iec_14977_extended_backus"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-05-16, 11:31:46",
-      "https://lobste.rs/s/qrwwoh/leeks_leaks"
-    ],
-    [
-      "Leeks and leaks",
-      "https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/"
-    ]
-  ],
-  [
-    [
       "2025-05-16, 11:19:11",
       "https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools"
     ],
@@ -177,16 +187,6 @@
     [
       "Jetrelay: A high-performance ATproto relay in 500 LOC",
       "https://www.asayers.com/jetrelay/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 09:30:33",
-      "https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend"
     ]
   ],
   [
