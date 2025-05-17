@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 03:09:34](https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks) - [Mutexes Are Faster Than Spinlocks](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
 * [2025-05-17, 02:46:06](https://lobste.rs/s/836dy7/don_t_use_iso_iec_14977_extended_backus) - [Don’t Use ISO/IEC 14977 Extended Backus-Naur Form (EBNF) (2019, 2023)](https://dwheeler.com/essays/dont-use-iso-14977-ebnf.html)
 * [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay) - [Using unwrap() in Rust is Okay](https://burntsushi.net/unwrap/)
@@ -19,7 +20,6 @@
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
 * [2025-05-16, 09:30:33](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tloidm/what_are_you_doing_this_weekend)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
-* [2025-05-16, 06:55:44](https://lobste.rs/s/hbsfjx/pathfinding) - [Pathfinding](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding)
 * [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 * [2025-05-16, 00:11:06](https://lobste.rs/s/gfu70a/i_don_t_like_numpy) - [I don’t like NumPy](https://dynomight.net/numpy/)
 * [2025-05-15, 21:45:25](https://lobste.rs/s/ybjgex/leap_year_check_three_instructions) - [A leap year check in three instructions](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
