@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-05-17, 02:41:41",
+      "https://lobste.rs/s/q71zkp/superd_user_service_supervisor"
+    ],
+    [
+      "superd: a user service supervisor",
+      "https://sr.ht/~craftyguy/superd/"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 02:39:12",
       "https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022"
     ],
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2025-05-16, 23:25:15",
-      "https://lobste.rs/s/pwkopz/erlang_red_visual_low_code_flow_based"
+      "2025-05-16, 23:13:36",
+      "https://lobste.rs/s/9y982t/pallene_statically_typed_ahead_time"
     ],
     [
-      "erlang-red: Visual low-code flow-based programming environment for Erlang, inspired by Node-RED",
-      "https://github.com/gorenje/erlang-red"
+      "Pallene: a statically typed ahead-of-time compiled sister language to Lua, with a focus on performance",
+      "https://github.com/pallene-lang/pallene/tree/master"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Teal: a statically-typed dialect of Lua",
       "https://teal-language.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 13:48:02",
-      "https://lobste.rs/s/tky59n/my_2025_high_end_linux_pc"
-    ],
-    [
-      "My 2025 high-end Linux PC",
-      "https://michael.stapelberg.ch/posts/2025-05-15-my-2025-high-end-linux-pc/"
     ]
   ]
 ]
