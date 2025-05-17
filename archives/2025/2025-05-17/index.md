@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-17](index.md)
 
+* [2025-05-17, 13:02:12](https://lobste.rs/s/uwy1kb/cheriot_last_ten_years) - [CHERIoT: The last ten years](https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html)
 * [2025-05-17, 12:34:15](https://lobste.rs/s/c2xxxg/when_jorge_luis_borges_met_one_founders_ai) - [When Jorge Luis Borges met one of the founders of AI](http://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-05-17, 11:54:47](https://lobste.rs/s/xv7mks/gnu_taler_v1_0_released) - [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html)
 * [2025-05-17, 11:42:29](https://lobste.rs/s/y6wf4x/vm_escape_oracle_virtualbox_via_vga) - [VM escape in Oracle VirtualBox via VGA device](https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v)
