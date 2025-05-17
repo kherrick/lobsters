@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-05-17, 02:37:06",
+      "https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists"
+    ],
+    [
+      "Static types are for perfectionists",
+      "https://mmapped.blog/posts/38-static-types-perfectionism"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 02:16:53",
       "https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay"
     ],
@@ -217,16 +227,6 @@
     [
       "I don’t like NumPy",
       "https://dynomight.net/numpy/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 21:45:25",
-      "https://lobste.rs/s/ybjgex/leap_year_check_three_instructions"
-    ],
-    [
-      "A leap year check in three instructions",
-      "https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html"
     ]
   ],
   [
