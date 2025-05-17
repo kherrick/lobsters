@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-17, 03:09:34",
+      "https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks"
+    ],
+    [
+      "Mutexes Are Faster Than Spinlocks",
+      "https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 02:46:06",
       "https://lobste.rs/s/836dy7/don_t_use_iso_iec_14977_extended_backus"
     ],
@@ -187,16 +197,6 @@
     [
       "A coherent European/non-US cloud strategy: building railroads for the cloud economy",
       "https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 06:55:44",
-      "https://lobste.rs/s/hbsfjx/pathfinding"
-    ],
-    [
-      "Pathfinding",
-      "https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding"
     ]
   ],
   [
