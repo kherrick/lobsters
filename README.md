@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 20:08:29](https://lobste.rs/s/goqzff/push_ifs_up_fors_down) - [Push Ifs Up And Fors Down](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-17, 19:36:45](https://lobste.rs/s/tst4mo/comparing_parallel_functional_array) - [Comparing Parallel Functional Array Languages: Programming and Performance](https://arxiv.org/abs/2505.08906)
 * [2025-05-17, 18:00:31](https://lobste.rs/s/oc6ktn/xata_postgres_with_data_branching_pii) - [Xata: Postgres with data branching and PII anonymization](https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization)
 * [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
@@ -20,7 +21,6 @@
 * [2025-05-16, 21:05:10](https://lobste.rs/s/glcdny/ledger_postgresql_is_fast) - [A Ledger In PostgreSQL Is Fast](https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/)
 * [2025-05-16, 20:30:28](https://lobste.rs/s/qwmcoa/senior_devs_aren_t_just_faster_they_can) - [Senior devs aren't just faster, they can dodge problems juniors are forced to solve](https://boydkane.com/essays/experts)
 * [2025-05-16, 18:42:26](https://lobste.rs/s/wnrum7/new_life_hack_using_llms_generate) - [New Life Hack: Using LLMs to Generate Constraint Solver Programs for Personal Logistics Tasks](https://emschwartz.me/new-life-hack-using-llms-to-generate-constraint-solver-programs-for-personal-logistics-tasks/)
-* [2025-05-16, 18:38:56](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not) - [What Problems are Truly Technical, not Social?](https://lobste.rs/s/m2y5jx/what_problems_are_truly_technical_not)
 * [2025-05-16, 15:54:46](https://lobste.rs/s/ypdu8r/gnu_parallel_examples) - [GNU Parallel Examples](https://www.gnu.org/software/parallel/parallel_examples.html)
 * [2025-05-16, 13:53:16](https://lobste.rs/s/ipfzdh/evolution_rust_compiler_errors) - [Evolution of Rust compiler errors](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html)
 * [2025-05-16, 13:24:31](https://lobste.rs/s/plkdy5/classical_single_user_computers_were) - [Classical \"Single user computers\" were a flawed or at least limited idea](https://utcc.utoronto.ca/~cks/space/blog/tech/SingleUserComputerFlawed)
