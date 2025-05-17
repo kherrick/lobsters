@@ -17,6 +17,7 @@
 * [2025-05-17, 11:40:00](https://lobste.rs/s/8iz3sl/language_never_was) - [The Language That Never Was](https://blog.celes42.com/the_language_that_never_was.html)
 * [2025-05-17, 11:39:35](https://lobste.rs/s/qzbwqv/implementing_risc_v_hypervisor) - [Implementing a RISC-V hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 08:52:42](https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
+* [2025-05-17, 03:09:34](https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks_2020) - [Mutexes Are Faster Than Spinlocks (2020)](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
 * [2025-05-17, 03:09:34](https://lobste.rs/s/bsv2g8/mutexes_are_faster_than_spinlocks) - [Mutexes Are Faster Than Spinlocks](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
 * [2025-05-17, 03:02:16](https://lobste.rs/s/20gz72/programming_martin_lof_s_type_theory) - [Programming in Martin-Lof's Type Theory: An Introduction (1990)](https://www.cse.chalmers.se/research/group/logic/book/)
 * [2025-05-17, 02:51:35](https://lobste.rs/s/n8wg1s/graceful_shutdown_go_practical_patterns) - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/)
