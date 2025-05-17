@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 12:34:15](https://lobste.rs/s/c2xxxg/when_jorge_luis_borges_met_one_founders_ai) - [When Jorge Luis Borges met one of the founders of AI](http://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of)
 * [2025-05-17, 11:54:47](https://lobste.rs/s/xv7mks/gnu_taler_v1_0_released) - [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html)
-* [2025-05-17, 11:42:29](https://lobste.rs/s/y6wf4x/vm_escape_oracle_virtualbox_via_vga) - [VM escape in Oracle VirtualBox via VGA device](https://github.com/google/security-research/security/advisories/GHSA-qx2m-rcpc-v43v)
 * [2025-05-17, 11:40:00](https://lobste.rs/s/8iz3sl/language_never_was) - [The Language That Never Was](https://blog.celes42.com/the_language_that_never_was.html)
 * [2025-05-17, 11:39:35](https://lobste.rs/s/qzbwqv/implementing_risc_v_hypervisor) - [Implementing a RISC-V hypervisor](https://seiya.me/blog/riscv-hypervisor)
 * [2025-05-17, 08:52:42](https://lobste.rs/s/up3mkh/java_at_30_genius_behind_code_changed_tech) - [Java at 30: The Genius Behind the Code That Changed Tech](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/)
