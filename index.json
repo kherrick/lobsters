@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-17, 13:02:12",
+      "https://lobste.rs/s/uwy1kb/cheriot_last_ten_years"
+    ],
+    [
+      "CHERIoT: The last ten years",
+      "https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html"
+    ]
+  ],
+  [
+    [
       "2025-05-17, 12:34:15",
       "https://lobste.rs/s/c2xxxg/when_jorge_luis_borges_met_one_founders_ai"
     ],
@@ -227,16 +237,6 @@
     [
       "Teal: a statically-typed dialect of Lua",
       "https://teal-language.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-15, 18:01:12",
-      "https://lobste.rs/s/c16bc0/announcing_rust_1_87_0_ten_years_rust"
-    ],
-    [
-      "Announcing Rust 1.87.0 and ten years of Rust",
-      "https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/"
     ]
   ],
   [
