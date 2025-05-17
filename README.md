@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-17, 16:52:44](https://lobste.rs/s/7pvhav/remarks_on_ai_from_nz) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-17, 16:31:32](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
 * [2025-05-17, 16:02:21](https://lobste.rs/s/0ici79/layers_all_way_down_untold_story_shader) - [Layers All The Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
 * [2025-05-17, 15:13:45](https://lobste.rs/s/dlavki/easily_using_ssh_with_fido2_u2f_hardware) - [Easily Using SSH with FIDO2/U2F Hardware Security Keys](https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/)
@@ -24,7 +25,6 @@
 * [2025-05-16, 11:19:11](https://lobste.rs/s/tpge66/ocaml_web_development_essential_tools) - [OCaml Web Development: Essential Tools and Libraries in 2025](https://tarides.com/blog/2025-05-15-ocaml-web-development-essential-tools-and-libraries-in-2025/)
 * [2025-05-16, 10:29:42](https://lobste.rs/s/h1rwdt/jetrelay_high_performance_atproto_relay) - [Jetrelay: A high-performance ATproto relay in 500 LOC](https://www.asayers.com/jetrelay/)
 * [2025-05-16, 08:47:45](https://lobste.rs/s/pdqvn1/coherent_european_non_us_cloud_strategy) - [A coherent European/non-US cloud strategy: building railroads for the cloud economy](https://berthub.eu/articles/posts/a-coherent-non-us-cloud-strategy/)
-* [2025-05-16, 03:57:28](https://lobste.rs/s/bmcr63/teal_statically_typed_dialect_lua) - [Teal: a statically-typed dialect of Lua](https://teal-language.org/)
 
 ## [Archives](archives/index.md)
 
