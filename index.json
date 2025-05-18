@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-18, 21:34:58",
+      "https://lobste.rs/s/mwvvha/mimalloc_cigarette_losing_one_week_my"
+    ],
+    [
+      "Mimalloc Cigarette: Losing one week of my life catching a memory leak",
+      "https://pwy.io/posts/mimalloc-cigarette/"
+    ]
+  ],
+  [
+    [
       "2025-05-18, 21:06:25",
       "https://lobste.rs/s/ytoqjg/agent_recursion"
     ],
@@ -237,16 +247,6 @@
     [
       "GNU Taler v1.0 released",
       "https://www.taler.net/en/news/2025-01.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-16, 20:30:28",
-      "https://lobste.rs/s/qwmcoa/senior_devs_aren_t_just_faster_they_can"
-    ],
-    [
-      "Senior devs aren't just faster, they can dodge problems juniors are forced to solve",
-      "https://boydkane.com/essays/experts"
     ]
   ]
 ]
