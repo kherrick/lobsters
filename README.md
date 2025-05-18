@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-18, 14:22:00](https://lobste.rs/s/gkqbr1/fixing_infamous_basilisk_ii_windows) - [Fixing the infamous Basilisk II Windows “Black Screen” bug](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\"Safe\" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 * [2025-05-18, 12:34:38](https://lobste.rs/s/8nv2u3/freebsd_on_laptop_2018) - [FreeBSD on a Laptop (2018)](https://www.c0ffee.net/blog/freebsd-on-a-laptop/)
 * [2025-05-18, 12:30:43](https://lobste.rs/s/x657ku/working_with_git_patches_apple_mail_2023) - [Working with git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
@@ -8,7 +9,6 @@
 * [2025-05-18, 12:06:22](https://lobste.rs/s/dcysgu/april_2025_rust_osdev) - [April 2025 in Rust OSDev](https://rust-osdev.com/this-month/2025-04/)
 * [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10_baby_steps) - [Rust turns 10: baby steps](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
-* [2025-05-18, 11:58:24](https://lobste.rs/s/lk41av/radiometry_part_1_i_got_it_backwards) - [Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
 * [2025-05-18, 05:32:50](https://lobste.rs/s/olwjn7/mystical) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-18, 04:55:55](https://lobste.rs/s/mrqshv/ending_tls_client_authentication) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 * [2025-05-18, 02:15:50](https://lobste.rs/s/6kovtw/every_programming_language_has_its) - [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)
