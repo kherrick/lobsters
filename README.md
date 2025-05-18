@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-18, 02:15:50](https://lobste.rs/s/6kovtw/every_programming_language_has_its) - [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)
 * [2025-05-18, 00:48:36](https://lobste.rs/s/ezvcin/javascript_s_new_superpower_explicit) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-18, 00:45:44](https://lobste.rs/s/jbvlhu/quic_restarts_slow_problems_udpgrm) - [QUIC restarts, slow problems: udpgrm to the rescue](https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/)
 * [2025-05-18, 00:19:27](https://lobste.rs/s/gqmiln/javascript_library_for_building_parsers) - [A JavaScript library for building parsers, interpreters, compilers, and more](https://ohmjs.org/)
@@ -12,7 +13,6 @@
 * [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 * [2025-05-17, 16:52:44](https://lobste.rs/s/7pvhav/remarks_on_ai_from_nz) - [Remarks on AI from NZ](https://nealstephenson.substack.com/p/remarks-on-ai-from-nz)
 * [2025-05-17, 16:31:32](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
-* [2025-05-17, 16:02:21](https://lobste.rs/s/0ici79/layers_all_way_down_untold_story_shader) - [Layers All The Way Down: The Untold Story of Shader Compilation](https://moonside.games/posts/layers-all-the-way-down/)
 * [2025-05-17, 15:13:45](https://lobste.rs/s/dlavki/easily_using_ssh_with_fido2_u2f_hardware) - [Easily Using SSH with FIDO2/U2F Hardware Security Keys](https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/)
 * [2025-05-17, 13:02:12](https://lobste.rs/s/uwy1kb/cheriot_last_ten_years) - [CHERIoT: The last ten years](https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html)
 * [2025-05-17, 11:54:47](https://lobste.rs/s/xv7mks/gnu_taler_v1_0_released) - [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html)
