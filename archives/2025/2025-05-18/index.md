@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 15:14:00](https://lobste.rs/s/wg4dbj/my_changes_saving_konsole_tab_layouts) - [My changes to saving Konsole tab layouts](https://akselmo.dev/posts/konsole-layout-changes/)
+* [2025-05-18, 15:00:12](https://lobste.rs/s/iqdvbi/survey_database_tls_libraries_2022) - [A Survey of Database TLS Libraries (2022)](https://transactional.blog/blog/2022-database-tls-survey)
 * [2025-05-18, 14:50:40](https://lobste.rs/s/qjo0bn/building_my_childhood_dream_pc) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:22:00](https://lobste.rs/s/gkqbr1/fixing_infamous_basilisk_ii_windows) - [Fixing the infamous Basilisk II Windows “Black Screen” bug](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\"Safe\" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
