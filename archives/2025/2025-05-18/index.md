@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 08:54:50](https://lobste.rs/s/nuknfg/java_native_interface_integration_with) - [Java Native Interface Integration with Rust](https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8)
 * [2025-05-18, 05:32:50](https://lobste.rs/s/olwjn7/mystical) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
 * [2025-05-18, 04:56:14](https://lobste.rs/s/3k83tv/streaming_vs_batch_is_wrong_dichotomy_i) - [\"Streaming vs. Batch\" Is a Wrong Dichotomy, and I Think It's Confusing](https://www.morling.dev/blog/streaming-vs-batch-wrong-dichotomy/)
 * [2025-05-18, 04:55:55](https://lobste.rs/s/mrqshv/ending_tls_client_authentication) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
