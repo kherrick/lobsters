@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-18, 05:32:50](https://lobste.rs/s/olwjn7/mystical) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)
+* [2025-05-18, 04:55:55](https://lobste.rs/s/mrqshv/ending_tls_client_authentication) - [Ending TLS Client Authentication Certificate Support in 2026](https://letsencrypt.org/2025/05/14/ending-tls-client-authentication/)
 * [2025-05-18, 02:15:50](https://lobste.rs/s/6kovtw/every_programming_language_has_its) - [Every programming language has its 'killer' domain](https://huijzer.xyz/posts/67)
 * [2025-05-18, 00:48:36](https://lobste.rs/s/ezvcin/javascript_s_new_superpower_explicit) - [JavaScript's New Superpower: Explicit Resource Management](https://v8.dev/features/explicit-resource-management)
 * [2025-05-18, 00:45:44](https://lobste.rs/s/jbvlhu/quic_restarts_slow_problems_udpgrm) - [QUIC restarts, slow problems: udpgrm to the rescue](https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/)
@@ -19,7 +20,6 @@
 * [2025-05-17, 11:54:47](https://lobste.rs/s/xv7mks/gnu_taler_v1_0_released) - [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html)
 * [2025-05-17, 11:40:00](https://lobste.rs/s/8iz3sl/language_never_was) - [The Language That Never Was](https://blog.celes42.com/the_language_that_never_was.html)
 * [2025-05-17, 11:39:35](https://lobste.rs/s/qzbwqv/implementing_risc_v_hypervisor) - [Implementing a RISC-V hypervisor](https://seiya.me/blog/riscv-hypervisor)
-* [2025-05-17, 02:39:12](https://lobste.rs/s/sw48u6/my_favourite_fonts_use_with_latex_2022) - [My favourite fonts to use with LaTeX (2022)](https://www.lfe.pt/latex/fonts/typography/2022/11/21/latex-fonts-part1.html)
 * [2025-05-17, 02:37:06](https://lobste.rs/s/z8jvte/static_types_are_for_perfectionists) - [Static types are for perfectionists](https://mmapped.blog/posts/38-static-types-perfectionism)
 * [2025-05-17, 02:16:53](https://lobste.rs/s/dyw9in/using_unwrap_rust_is_okay_2022) - [Using unwrap() in Rust is Okay (2022)](https://burntsushi.net/unwrap/)
 * [2025-05-16, 21:05:10](https://lobste.rs/s/glcdny/ledger_postgresql_is_fast) - [A Ledger In PostgreSQL Is Fast](https://www.pgrs.net/2025/05/16/pgledger-in-postgresql-is-fast/)
