@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-18, 21:06:25](https://lobste.rs/s/ytoqjg/agent_recursion) - [Agent Recursion](https://choly.ca/post/agent-recursion/)
 * [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 20:36:51](https://lobste.rs/s/zr2vsn/ios_deep_linking_with_bevy_rust) - [iOS Deep-Linking with Bevy in Rust](https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/)
 * [2025-05-18, 20:11:09](https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s) - [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
@@ -9,7 +10,6 @@
 * [2025-05-18, 14:22:00](https://lobste.rs/s/gkqbr1/fixing_infamous_basilisk_ii_windows) - [Fixing the infamous Basilisk II Windows “Black Screen” bug](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\"Safe\" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 * [2025-05-18, 12:34:38](https://lobste.rs/s/8nv2u3/freebsd_on_laptop_2018) - [FreeBSD on a Laptop (2018)](https://www.c0ffee.net/blog/freebsd-on-a-laptop/)
-* [2025-05-18, 12:30:43](https://lobste.rs/s/x657ku/working_with_git_patches_apple_mail_2023) - [Working with git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
 * [2025-05-18, 12:30:26](https://lobste.rs/s/f5uxc4/x220_thinkpad_is_best_laptop_world_2023) - [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
 * [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10) - [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
