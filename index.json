@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-18, 20:37:38",
+      "https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own"
+    ],
+    [
+      "Ditching Obsidian and building my own",
+      "https://amberwilliams.io/blogs/building-my-own-pkms"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 20:36:51",
+      "https://lobste.rs/s/zr2vsn/ios_deep_linking_with_bevy_rust"
+    ],
+    [
+      "iOS Deep-Linking with Bevy in Rust",
+      "https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/"
+    ]
+  ],
+  [
+    [
       "2025-05-18, 20:11:09",
       "https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-17, 15:13:45",
-      "https://lobste.rs/s/dlavki/easily_using_ssh_with_fido2_u2f_hardware"
-    ],
-    [
-      "Easily Using SSH with FIDO2/U2F Hardware Security Keys",
-      "https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 13:02:12",
       "https://lobste.rs/s/uwy1kb/cheriot_last_ten_years"
     ],
@@ -227,16 +237,6 @@
     [
       "GNU Taler v1.0 released",
       "https://www.taler.net/en/news/2025-01.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 11:40:00",
-      "https://lobste.rs/s/8iz3sl/language_never_was"
-    ],
-    [
-      "The Language That Never Was",
-      "https://blog.celes42.com/the_language_that_never_was.html"
     ]
   ],
   [
