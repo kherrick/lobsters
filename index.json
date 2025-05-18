@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-18, 12:34:38",
+      "https://lobste.rs/s/8nv2u3/freebsd_on_laptop_2018"
+    ],
+    [
+      "FreeBSD on a Laptop (2018)",
+      "https://www.c0ffee.net/blog/freebsd-on-a-laptop/"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 12:30:43",
+      "https://lobste.rs/s/x657ku/working_with_git_patches_apple_mail_2023"
+    ],
+    [
+      "Working with git Patches in Apple Mail (2023)",
+      "https://btxx.org/posts/mail/"
+    ]
+  ],
+  [
+    [
+      "2025-05-18, 12:30:26",
+      "https://lobste.rs/s/f5uxc4/x220_thinkpad_is_best_laptop_world_2023"
+    ],
+    [
+      "The X220 ThinkPad is the Best Laptop in the World (2023)",
+      "https://btxx.org/posts/x220/"
+    ]
+  ],
+  [
+    [
       "2025-05-18, 12:08:43",
       "https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog"
     ],
@@ -91,26 +121,6 @@
   ],
   [
     [
-      "2025-05-18, 00:45:44",
-      "https://lobste.rs/s/jbvlhu/quic_restarts_slow_problems_udpgrm"
-    ],
-    [
-      "QUIC restarts, slow problems: udpgrm to the rescue",
-      "https://blog.cloudflare.com/quic-restarts-slow-problems-udpgrm-to-the-rescue/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 23:55:41",
-      "https://lobste.rs/s/rjmywz/passwords_are_okay_impulsive_internet"
-    ],
-    [
-      "Passwords are okay, impulsive Internet isn't",
-      "https://www.dedoimedo.com/life/passwords-passkeys.html"
-    ]
-  ],
-  [
-    [
       "2025-05-17, 23:39:35",
       "https://lobste.rs/s/8duxms/fortran_for_c_programmers"
     ],
@@ -147,16 +157,6 @@
     [
       "Push Ifs Up And Fors Down (2023)",
       "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 18:00:31",
-      "https://lobste.rs/s/oc6ktn/xata_postgres_with_data_branching_pii"
-    ],
-    [
-      "Xata: Postgres with data branching and PII anonymization",
-      "https://xata.io/blog/xata-postgres-with-data-branching-and-pii-anonymization"
     ]
   ],
   [
