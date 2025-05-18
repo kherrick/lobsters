@@ -16,6 +16,7 @@
 * [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-05-18, 12:06:22](https://lobste.rs/s/dcysgu/april_2025_rust_osdev) - [April 2025 in Rust OSDev](https://rust-osdev.com/this-month/2025-04/)
 * [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10_baby_steps) - [Rust turns 10: baby steps](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
+* [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10) - [Rust turns 10](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2025-05-18, 11:58:24](https://lobste.rs/s/lk41av/radiometry_part_1_i_got_it_backwards) - [Radiometry, part 1: I got it backwards](https://momentsingraphics.de/Radiometry1Backwards.html)
 * [2025-05-18, 08:54:50](https://lobste.rs/s/nuknfg/java_native_interface_integration_with) - [Java Native Interface Integration with Rust](https://medium.com/@greptime/how-to-supercharge-your-java-project-with-rust-a-practical-guide-to-jni-integration-with-a-86f60e9708b8)
