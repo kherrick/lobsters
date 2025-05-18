@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-18, 14:50:40](https://lobste.rs/s/qjo0bn/building_my_childhood_dream_pc) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:22:00](https://lobste.rs/s/gkqbr1/fixing_infamous_basilisk_ii_windows) - [Fixing the infamous Basilisk II Windows “Black Screen” bug](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\"Safe\" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 * [2025-05-18, 12:34:38](https://lobste.rs/s/8nv2u3/freebsd_on_laptop_2018) - [FreeBSD on a Laptop (2018)](https://www.c0ffee.net/blog/freebsd-on-a-laptop/)
 * [2025-05-18, 12:30:43](https://lobste.rs/s/x657ku/working_with_git_patches_apple_mail_2023) - [Working with git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
 * [2025-05-18, 12:30:26](https://lobste.rs/s/f5uxc4/x220_thinkpad_is_best_laptop_world_2023) - [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
 * [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
-* [2025-05-18, 12:06:22](https://lobste.rs/s/dcysgu/april_2025_rust_osdev) - [April 2025 in Rust OSDev](https://rust-osdev.com/this-month/2025-04/)
 * [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10_baby_steps) - [Rust turns 10: baby steps](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2025-05-18, 05:32:50](https://lobste.rs/s/olwjn7/mystical) - [Mystical](https://suberic.net/~dmm/projects/mystical/README.html)

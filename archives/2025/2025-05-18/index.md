@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 14:50:40](https://lobste.rs/s/qjo0bn/building_my_childhood_dream_pc) - [Building my childhood dream PC](https://fabiensanglard.net/2168/index.html)
 * [2025-05-18, 14:22:00](https://lobste.rs/s/gkqbr1/fixing_infamous_basilisk_ii_windows) - [Fixing the infamous Basilisk II Windows “Black Screen” bug](https://www.downtowndougbrown.com/2025/05/how-i-fixed-the-infamous-basilisk-ii-windows-black-screen-bug-in-2013/)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\"Safe\" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
 * [2025-05-18, 12:34:38](https://lobste.rs/s/8nv2u3/freebsd_on_laptop_2018) - [FreeBSD on a Laptop (2018)](https://www.c0ffee.net/blog/freebsd-on-a-laptop/)
