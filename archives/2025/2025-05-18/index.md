@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 12:34:38](https://lobste.rs/s/8nv2u3/freebsd_on_laptop_2018) - [FreeBSD on a Laptop (2018)](https://www.c0ffee.net/blog/freebsd-on-a-laptop/)
+* [2025-05-18, 12:30:43](https://lobste.rs/s/x657ku/working_with_git_patches_apple_mail_2023) - [Working with git Patches in Apple Mail (2023)](https://btxx.org/posts/mail/)
+* [2025-05-18, 12:30:26](https://lobste.rs/s/f5uxc4/x220_thinkpad_is_best_laptop_world_2023) - [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
 * [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-05-18, 12:06:22](https://lobste.rs/s/dcysgu/april_2025_rust_osdev) - [April 2025 in Rust OSDev](https://rust-osdev.com/this-month/2025-04/)
 * [2025-05-18, 12:05:31](https://lobste.rs/s/wwac0i/rust_turns_10_baby_steps) - [Rust turns 10: baby steps](https://smallcultfollowing.com/babysteps/blog/2025/05/15/10-years-of-rust/)
