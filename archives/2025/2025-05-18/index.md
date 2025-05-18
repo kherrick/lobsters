@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-18](index.md)
 
+* [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
+* [2025-05-18, 20:36:51](https://lobste.rs/s/zr2vsn/ios_deep_linking_with_bevy_rust) - [iOS Deep-Linking with Bevy in Rust](https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/)
 * [2025-05-18, 20:11:09](https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s) - [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
 * [2025-05-18, 16:01:41](https://lobste.rs/s/aluo6d/macos_vms_docker_container) - [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-18, 15:14:00](https://lobste.rs/s/wg4dbj/my_changes_saving_konsole_tab_layouts) - [My changes to saving Konsole tab layouts](https://akselmo.dev/posts/konsole-layout-changes/)

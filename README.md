@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
+* [2025-05-18, 20:36:51](https://lobste.rs/s/zr2vsn/ios_deep_linking_with_bevy_rust) - [iOS Deep-Linking with Bevy in Rust](https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/)
 * [2025-05-18, 20:11:09](https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s) - [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
 * [2025-05-18, 16:01:41](https://lobste.rs/s/aluo6d/macos_vms_docker_container) - [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-18, 15:14:00](https://lobste.rs/s/wg4dbj/my_changes_saving_konsole_tab_layouts) - [My changes to saving Konsole tab layouts](https://akselmo.dev/posts/konsole-layout-changes/)
@@ -20,10 +22,8 @@
 * [2025-05-17, 20:08:29](https://lobste.rs/s/goqzff/push_ifs_up_fors_down_2023) - [Push Ifs Up And Fors Down (2023)](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
 * [2025-05-17, 16:31:32](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
-* [2025-05-17, 15:13:45](https://lobste.rs/s/dlavki/easily_using_ssh_with_fido2_u2f_hardware) - [Easily Using SSH with FIDO2/U2F Hardware Security Keys](https://www.complete.org/easily-using-ssh-with-fido2-u2f-hardware-security-keys/)
 * [2025-05-17, 13:02:12](https://lobste.rs/s/uwy1kb/cheriot_last_ten_years) - [CHERIoT: The last ten years](https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html)
 * [2025-05-17, 11:54:47](https://lobste.rs/s/xv7mks/gnu_taler_v1_0_released) - [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html)
-* [2025-05-17, 11:40:00](https://lobste.rs/s/8iz3sl/language_never_was) - [The Language That Never Was](https://blog.celes42.com/the_language_that_never_was.html)
 * [2025-05-16, 20:30:28](https://lobste.rs/s/qwmcoa/senior_devs_aren_t_just_faster_they_can) - [Senior devs aren't just faster, they can dodge problems juniors are forced to solve](https://boydkane.com/essays/experts)
 
 ## [Archives](archives/index.md)
