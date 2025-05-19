@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-19, 15:01:20](https://lobste.rs/s/1debtb/malware_attack_counterattack) - [Malware attack and counterattack](https://www.antoineschmitt.com/malware-attack-and-counterattack/)
 * [2025-05-19, 13:21:49](https://lobste.rs/s/wfpw3u/justification_filler_phrases) - [Justification Filler Phrases](https://serce.me/posts/2025-05-19-justification-filler-phrases)
 * [2025-05-19, 13:12:00](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week)
 * [2025-05-19, 11:23:55](https://lobste.rs/s/glybaa/don_t_guess_my_language) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
@@ -17,7 +18,6 @@
 * [2025-05-18, 23:34:39](https://lobste.rs/s/iqxqcd/little_editor_could) - [The little editor that could](https://www.youtube.com/watch?v=GoyNMFccbow)
 * [2025-05-18, 21:34:58](https://lobste.rs/s/mwvvha/mimalloc_cigarette_losing_one_week_my) - [Mimalloc Cigarette: Losing one week of my life catching a memory leak](https://pwy.io/posts/mimalloc-cigarette/)
 * [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
-* [2025-05-18, 20:36:51](https://lobste.rs/s/zr2vsn/ios_deep_linking_with_bevy_rust) - [iOS Deep-Linking with Bevy in Rust](https://rustunit.com/blog/2025/05-18-bevy-ios-deep-linking/)
 * [2025-05-18, 20:11:09](https://lobste.rs/s/yeq24m/llm_text_chat_is_everywhere_who_s) - [LLM text chat is everywhere. Who’s optimizing its UX?](https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux)
 * [2025-05-18, 16:01:41](https://lobste.rs/s/aluo6d/macos_vms_docker_container) - [macOS VMs in a Docker Container](https://github.com/trycua/cua/tree/main/libs/lumier)
 * [2025-05-18, 13:03:34](https://lobste.rs/s/65b89t/safe_yaml_monster) - [\"Safe\" YAML monster](https://gist.github.com/taramtrampam/fca4e599992909b48a3ba1ce69e215a2)
