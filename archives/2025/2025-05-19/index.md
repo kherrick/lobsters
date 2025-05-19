@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 07:42:19](https://lobste.rs/s/zzqc78/demystifying_ruby_2_3_objects_objects) - [Demystifying Ruby (2/3): Objects, Objects everywhere](https://blog.papey.fr/post/08-ruby-objects/)
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-19, 07:39:03](https://lobste.rs/s/pnpbl5/thinking_expressions) - [Thinking in Expressions](https://corrode.dev/blog/expressions/)
 * [2025-05-19, 07:38:50](https://lobste.rs/s/kol7nv/don_t_worry_about_lifetimes) - [Don't Worry About Lifetimes](https://corrode.dev/blog/lifetimes/)
