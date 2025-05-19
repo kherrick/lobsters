@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-19, 11:23:55](https://lobste.rs/s/glybaa/don_t_guess_my_language) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 * [2025-05-19, 09:44:07](https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic) - [Introducing Obelisk deterministic workflow engine](https://obeli.sk/blog/introducing-obelisk/)
 * [2025-05-19, 08:00:42](https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar) - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
@@ -11,7 +12,6 @@
 * [2025-05-19, 03:47:41](https://lobste.rs/s/b019cn/another_html_css_engine) - [Another HTML/CSS engine](https://github.com/skift-org/vaev)
 * [2025-05-19, 03:43:54](https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine) - [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
-* [2025-05-19, 01:39:38](https://lobste.rs/s/lnr9im/mapgen4_trade_routes) - [Mapgen4 trade routes](https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/)
 * [2025-05-18, 23:34:39](https://lobste.rs/s/iqxqcd/little_editor_could) - [The little editor that could](https://www.youtube.com/watch?v=GoyNMFccbow)
 * [2025-05-18, 21:34:58](https://lobste.rs/s/mwvvha/mimalloc_cigarette_losing_one_week_my) - [Mimalloc Cigarette: Losing one week of my life catching a memory leak](https://pwy.io/posts/mimalloc-cigarette/)
 * [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)

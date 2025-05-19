@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 11:23:55](https://lobste.rs/s/glybaa/don_t_guess_my_language) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 * [2025-05-19, 09:44:07](https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic) - [Introducing Obelisk deterministic workflow engine](https://obeli.sk/blog/introducing-obelisk/)
 * [2025-05-19, 08:00:42](https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar) - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-19, 07:55:39](https://lobste.rs/s/veuo1w/ayllu_code_forge_0_4_has_been_released) - [Ayllu Code Forge 0.4 Has Been Released](https://kevinschoon.com/blog/announcing-ayllu-0.4)
