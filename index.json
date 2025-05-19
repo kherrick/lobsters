@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 13:21:49",
+      "https://lobste.rs/s/wfpw3u/justification_filler_phrases"
+    ],
+    [
+      "Justification Filler Phrases",
+      "https://serce.me/posts/2025-05-19-justification-filler-phrases"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 11:23:55",
       "https://lobste.rs/s/glybaa/don_t_guess_my_language"
     ],
@@ -27,16 +37,6 @@
     [
       "Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android",
       "https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 07:55:39",
-      "https://lobste.rs/s/veuo1w/ayllu_code_forge_0_4_has_been_released"
-    ],
-    [
-      "Ayllu Code Forge 0.4 Has Been Released",
-      "https://kevinschoon.com/blog/announcing-ayllu-0.4"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2025-05-19, 06:08:03",
-      "https://lobste.rs/s/hupjdx/delivering_malware_via_google_calendar"
+      "2025-05-19, 07:23:39",
+      "https://lobste.rs/s/rmce9u/language_compiles_scratch"
     ],
     [
-      "Delivering malware via Google Calendar invites and PUAs in an npm package",
-      "https://www.aikido.dev/blog/youre-invited-delivering-malware-via-google-calendar-invites-and-puas"
+      "Language that compiles to Scratch",
+      "https://github.com/aspizu/goboscript"
     ]
   ],
   [
