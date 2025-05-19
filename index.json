@@ -81,22 +81,22 @@
   ],
   [
     [
-      "2025-05-19, 07:23:39",
-      "https://lobste.rs/s/rmce9u/language_compiles_scratch"
-    ],
-    [
-      "Language that compiles to Scratch",
-      "https://github.com/aspizu/goboscript"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 03:47:41",
       "https://lobste.rs/s/b019cn/another_html_css_engine"
     ],
     [
       "Another HTML/CSS engine",
       "https://github.com/skift-org/vaev"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 03:43:54",
+      "https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine"
+    ],
+    [
+      "Developing Karton, the KDE Virtual Machine Manager",
+      "https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/"
     ]
   ],
   [
