@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 07:27:04](https://lobste.rs/s/sqojzs/how_have_browser_pick_contrasting_color) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
+* [2025-05-19, 07:25:46](https://lobste.rs/s/wogeer/what_every_programmer_should_know_about) - [What Every Programmer Should Know About Enumerative Combinatorics](https://leetarxiv.substack.com/p/counting-integer-compositions)
+* [2025-05-19, 07:24:55](https://lobste.rs/s/kzjcyk/frida_17_0_0_released) - [Frida 17.0.0 Released](https://frida.re/news/2025/05/17/frida-17-0-0-released/)
+* [2025-05-19, 07:23:39](https://lobste.rs/s/rmce9u/language_compiles_scratch) - [Language that compiles to Scratch](https://github.com/aspizu/goboscript)
 * [2025-05-19, 06:08:03](https://lobste.rs/s/hupjdx/delivering_malware_via_google_calendar) - [Delivering malware via Google Calendar invites and PUAs in an npm package](https://www.aikido.dev/blog/youre-invited-delivering-malware-via-google-calendar-invites-and-puas)
 * [2025-05-19, 03:47:41](https://lobste.rs/s/b019cn/another_html_css_engine) - [Another HTML/CSS engine](https://github.com/skift-org/vaev)
 * [2025-05-19, 03:43:54](https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine) - [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
