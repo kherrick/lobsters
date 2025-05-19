@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 19:37:47",
+      "https://lobste.rs/s/gdd7r2/submissions_spring_lisp_game_jam_2025"
+    ],
+    [
+      "Submissions to Spring Lisp Game Jam 2025",
+      "https://itch.io/jam/spring-lisp-game-jam-2025/entries"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 19:10:18",
       "https://lobste.rs/s/wadme2/internationalization_puzzles"
     ],
@@ -217,16 +227,6 @@
     [
       "LLM text chat is everywhere. Who’s optimizing its UX?",
       "https://xenodium.com/llm-text-chat-is-everywhere-whos-optimizing-ux"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 16:01:41",
-      "https://lobste.rs/s/aluo6d/macos_vms_docker_container"
-    ],
-    [
-      "macOS VMs in a Docker Container",
-      "https://github.com/trycua/cua/tree/main/libs/lumier"
     ]
   ],
   [
