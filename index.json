@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 09:44:07",
+      "https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic"
+    ],
+    [
+      "Introducing Obelisk deterministic workflow engine",
+      "https://obeli.sk/blog/introducing-obelisk/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 08:00:42",
       "https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar"
     ],
@@ -237,16 +247,6 @@
     [
       "Postman is logging all your secrets and environment variables",
       "https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 21:51:33",
-      "https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025"
-    ],
-    [
-      "Firefox Security Response to pwn2own 2025",
-      "https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/"
     ]
   ]
 ]
