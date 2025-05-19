@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
 * [2025-05-19, 01:40:39](https://lobste.rs/s/gdyjew/asia_internet_history_first_decade_1980) - [An Asia Internet History: First Decade (1980-1990)](https://sites.google.com/site/internethistoryasia/book1)
 * [2025-05-19, 01:39:38](https://lobste.rs/s/lnr9im/mapgen4_trade_routes) - [Mapgen4 trade routes](https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/)
 * [2025-05-19, 00:33:27](https://lobste.rs/s/xtkhq8/testdesiderata) - [TestDesiderata](https://testdesiderata.com/)
@@ -22,7 +23,6 @@
 * [2025-05-17, 21:51:33](https://lobste.rs/s/evvi8x/firefox_security_response_pwn2own_2025) - [Firefox Security Response to pwn2own 2025](https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/)
 * [2025-05-17, 20:08:29](https://lobste.rs/s/goqzff/push_ifs_up_fors_down_2023) - [Push Ifs Up And Fors Down (2023)](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html)
 * [2025-05-17, 17:27:29](https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful) - [Japan's IC cards are weird and wonderful](https://aruarian.dance/blog/japan-ic-cards/)
-* [2025-05-17, 16:31:32](https://lobste.rs/s/xmhoq2/o2_volte_locating_any_customer_with_phone) - [O2 VoLTE: locating any customer with a phone call](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/)
 * [2025-05-17, 13:02:12](https://lobste.rs/s/uwy1kb/cheriot_last_ten_years) - [CHERIoT: The last ten years](https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html)
 * [2025-05-17, 11:54:47](https://lobste.rs/s/xv7mks/gnu_taler_v1_0_released) - [GNU Taler v1.0 released](https://www.taler.net/en/news/2025-01.html)
 
