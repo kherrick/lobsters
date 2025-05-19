@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 06:08:03",
+      "https://lobste.rs/s/hupjdx/delivering_malware_via_google_calendar"
+    ],
+    [
+      "Delivering malware via Google Calendar invites and PUAs in an npm package",
+      "https://www.aikido.dev/blog/youre-invited-delivering-malware-via-google-calendar-invites-and-puas"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 03:47:41",
       "https://lobste.rs/s/b019cn/another_html_css_engine"
     ],
@@ -217,16 +227,6 @@
     [
       "Firefox Security Response to pwn2own 2025",
       "https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 20:08:29",
-      "https://lobste.rs/s/goqzff/push_ifs_up_fors_down_2023"
-    ],
-    [
-      "Push Ifs Up And Fors Down (2023)",
-      "https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html"
     ]
   ],
   [
