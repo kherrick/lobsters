@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-19, 07:55:39](https://lobste.rs/s/veuo1w/ayllu_code_forge_0_4_has_been_released) - [Ayllu Code Forge 0.4 Has Been Released](https://kevinschoon.com/blog/announcing-ayllu-0.4)
 * [2025-05-19, 07:42:19](https://lobste.rs/s/zzqc78/demystifying_ruby_2_3_objects_objects) - [Demystifying Ruby (2/3): Objects, Objects everywhere](https://blog.papey.fr/post/08-ruby-objects/)
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-19, 07:39:03](https://lobste.rs/s/pnpbl5/thinking_expressions) - [Thinking in Expressions](https://corrode.dev/blog/expressions/)
 * [2025-05-19, 07:38:50](https://lobste.rs/s/kol7nv/don_t_worry_about_lifetimes) - [Don't Worry About Lifetimes](https://corrode.dev/blog/lifetimes/)
 * [2025-05-19, 07:36:28](https://lobste.rs/s/urxhxj/git_move_files_from_one_repo_another_with) - [Git: Move files from one repo to another with history (2021)](https://vivekdhami.com/posts/git-move-repo-files-with-history/)
-* [2025-05-19, 07:35:09](https://lobste.rs/s/6icest/fastest_postgres_inserts) - [The fastest Postgres inserts](https://docs.hatchet.run/blog/fastest-postgres-inserts)
 * [2025-05-19, 03:47:41](https://lobste.rs/s/b019cn/another_html_css_engine) - [Another HTML/CSS engine](https://github.com/skift-org/vaev)
 * [2025-05-19, 03:43:54](https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine) - [Developing Karton, the KDE Virtual Machine Manager](https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
