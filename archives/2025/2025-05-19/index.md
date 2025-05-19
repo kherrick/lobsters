@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
+* [2025-05-19, 07:39:03](https://lobste.rs/s/pnpbl5/thinking_expressions) - [Thinking in Expressions](https://corrode.dev/blog/expressions/)
+* [2025-05-19, 07:38:50](https://lobste.rs/s/kol7nv/don_t_worry_about_lifetimes) - [Don't Worry About Lifetimes](https://corrode.dev/blog/lifetimes/)
+* [2025-05-19, 07:36:28](https://lobste.rs/s/urxhxj/git_move_files_from_one_repo_another_with) - [Git: Move files from one repo to another with history (2021)](https://vivekdhami.com/posts/git-move-repo-files-with-history/)
+* [2025-05-19, 07:35:09](https://lobste.rs/s/6icest/fastest_postgres_inserts) - [The fastest Postgres inserts](https://docs.hatchet.run/blog/fastest-postgres-inserts)
+* [2025-05-19, 07:34:36](https://lobste.rs/s/6m8jml/racket_v8_17) - [Racket v8.17](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
 * [2025-05-19, 07:27:04](https://lobste.rs/s/sqojzs/how_have_browser_pick_contrasting_color) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 * [2025-05-19, 07:25:46](https://lobste.rs/s/wogeer/what_every_programmer_should_know_about) - [What Every Programmer Should Know About Enumerative Combinatorics](https://leetarxiv.substack.com/p/counting-integer-compositions)
 * [2025-05-19, 07:24:55](https://lobste.rs/s/kzjcyk/frida_17_0_0_released) - [Frida 17.0.0 Released](https://frida.re/news/2025/05/17/frida-17-0-0-released/)
