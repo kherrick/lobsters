@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 22:19:27",
+      "https://lobste.rs/s/aeslga/value_model_checking_distributed"
+    ],
+    [
+      "The value of model checking in distributed protocols design",
+      "https://protocols-made-fun.com/modelchecking/2025/04/08/value.html"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 21:21:54",
       "https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine"
     ],
@@ -207,16 +217,6 @@
     [
       "Another HTML/CSS engine",
       "https://github.com/skift-org/vaev"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 03:43:54",
-      "https://lobste.rs/s/yckycf/developing_karton_kde_virtual_machine"
-    ],
-    [
-      "Developing Karton, the KDE Virtual Machine Manager",
-      "https://blogs.kde.org/2025/05/18/gsoc-2025-project-intro-developing-karton-the-kde-virtual-machine-manager/"
     ]
   ],
   [
