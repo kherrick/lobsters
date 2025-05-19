@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 18:07:36](https://lobste.rs/s/qef6s9/microsoft_edit_is_now_open_source) - [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
 * [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-19, 15:28:30](https://lobste.rs/s/4hqkqt/is_winter_coming) - [Is Winter Coming?](https://www.datagubbe.se/winter/)
 * [2025-05-19, 15:14:17](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading) - [New flag options for “misleading” and “clickbait”?](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading)

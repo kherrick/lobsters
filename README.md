@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-19, 18:07:36](https://lobste.rs/s/qef6s9/microsoft_edit_is_now_open_source) - [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
 * [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-19, 15:28:30](https://lobste.rs/s/4hqkqt/is_winter_coming) - [Is Winter Coming?](https://www.datagubbe.se/winter/)
 * [2025-05-19, 15:14:17](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading) - [New flag options for “misleading” and “clickbait”?](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading)
@@ -24,7 +25,6 @@
 * [2025-05-18, 12:30:26](https://lobste.rs/s/f5uxc4/x220_thinkpad_is_best_laptop_world_2023) - [The X220 ThinkPad is the Best Laptop in the World (2023)](https://btxx.org/posts/x220/)
 * [2025-05-18, 12:08:43](https://lobste.rs/s/her8rf/adding_mastodon_comments_your_blog) - [Adding Mastodon Comments to your Blog](https://beej.us/blog/data/mastodon-comments/)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
-* [2025-05-17, 22:36:32](https://lobste.rs/s/tudmqv/postman_is_logging_all_your_secrets) - [Postman is logging all your secrets and environment variables](https://anonymousdata.medium.com/postman-is-logging-all-your-secrets-and-environment-variables-9c316e92d424)
 
 ## [Archives](archives/index.md)
 
