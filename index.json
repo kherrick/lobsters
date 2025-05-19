@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-19, 13:12:00",
+      "https://lobste.rs/s/zthrjb/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/zthrjb/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 11:23:55",
       "https://lobste.rs/s/glybaa/don_t_guess_my_language"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2025-05-19, 07:55:39",
+      "https://lobste.rs/s/veuo1w/ayllu_code_forge_0_4_has_been_released"
+    ],
+    [
+      "Ayllu Code Forge 0.4 Has Been Released",
+      "https://kevinschoon.com/blog/announcing-ayllu-0.4"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 07:39:22",
       "https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways"
     ],
     [
       "Don't Unwrap Options: There Are Better Ways",
       "https://corrode.dev/blog/rust-option-handling-best-practices/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 07:35:09",
-      "https://lobste.rs/s/6icest/fastest_postgres_inserts"
-    ],
-    [
-      "The fastest Postgres inserts",
-      "https://docs.hatchet.run/blog/fastest-postgres-inserts"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "macOS VMs in a Docker Container",
       "https://github.com/trycua/cua/tree/main/libs/lumier"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 14:50:40",
-      "https://lobste.rs/s/qjo0bn/building_my_childhood_dream_pc"
-    ],
-    [
-      "Building my childhood dream PC",
-      "https://fabiensanglard.net/2168/index.html"
     ]
   ],
   [
