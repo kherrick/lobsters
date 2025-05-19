@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 08:00:42](https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar) - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-19, 07:55:39](https://lobste.rs/s/veuo1w/ayllu_code_forge_0_4_has_been_released) - [Ayllu Code Forge 0.4 Has Been Released](https://kevinschoon.com/blog/announcing-ayllu-0.4)
 * [2025-05-19, 07:42:19](https://lobste.rs/s/zzqc78/demystifying_ruby_2_3_objects_objects) - [Demystifying Ruby (2/3): Objects, Objects everywhere](https://blog.papey.fr/post/08-ruby-objects/)
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
