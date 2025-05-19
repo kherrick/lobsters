@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-19](index.md)
 
+* [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
+* [2025-05-19, 15:28:30](https://lobste.rs/s/4hqkqt/is_winter_coming) - [Is Winter Coming?](https://www.datagubbe.se/winter/)
 * [2025-05-19, 15:14:17](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading) - [New flag options for “misleading” and “clickbait”?](https://lobste.rs/s/rvfxuy/new_flag_options_for_misleading)
 * [2025-05-19, 15:14:08](https://lobste.rs/s/lolkdn/too_much_go_misdirection) - [too much go misdirection](https://flak.tedunangst.com/post/too-much-go-misdirection)
 * [2025-05-19, 15:01:20](https://lobste.rs/s/1debtb/malware_attack_counterattack) - [Malware attack and counterattack](https://www.antoineschmitt.com/malware-attack-and-counterattack/)
