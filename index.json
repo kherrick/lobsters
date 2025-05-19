@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-05-19, 07:27:04",
+      "https://lobste.rs/s/sqojzs/how_have_browser_pick_contrasting_color"
+    ],
+    [
+      "How to have the browser pick a contrasting color in CSS",
+      "https://webkit.org/blog/16929/contrast-color/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 07:25:46",
+      "https://lobste.rs/s/wogeer/what_every_programmer_should_know_about"
+    ],
+    [
+      "What Every Programmer Should Know About Enumerative Combinatorics",
+      "https://leetarxiv.substack.com/p/counting-integer-compositions"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 07:24:55",
+      "https://lobste.rs/s/kzjcyk/frida_17_0_0_released"
+    ],
+    [
+      "Frida 17.0.0 Released",
+      "https://frida.re/news/2025/05/17/frida-17-0-0-released/"
+    ]
+  ],
+  [
+    [
+      "2025-05-19, 07:23:39",
+      "https://lobste.rs/s/rmce9u/language_compiles_scratch"
+    ],
+    [
+      "Language that compiles to Scratch",
+      "https://github.com/aspizu/goboscript"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 06:08:03",
       "https://lobste.rs/s/hupjdx/delivering_malware_via_google_calendar"
     ],
@@ -41,32 +81,12 @@
   ],
   [
     [
-      "2025-05-19, 01:40:39",
-      "https://lobste.rs/s/gdyjew/asia_internet_history_first_decade_1980"
-    ],
-    [
-      "An Asia Internet History: First Decade (1980-1990)",
-      "https://sites.google.com/site/internethistoryasia/book1"
-    ]
-  ],
-  [
-    [
       "2025-05-19, 01:39:38",
       "https://lobste.rs/s/lnr9im/mapgen4_trade_routes"
     ],
     [
       "Mapgen4 trade routes",
       "https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 00:33:27",
-      "https://lobste.rs/s/xtkhq8/testdesiderata"
-    ],
-    [
-      "TestDesiderata",
-      "https://testdesiderata.com/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Firefox Security Response to pwn2own 2025",
       "https://blog.mozilla.org/security/2025/05/17/firefox-security-response-to-pwn2own-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 17:27:29",
-      "https://lobste.rs/s/phkxqf/japan_s_ic_cards_are_weird_wonderful"
-    ],
-    [
-      "Japan's IC cards are weird and wonderful",
-      "https://aruarian.dance/blog/japan-ic-cards/"
-    ]
-  ],
-  [
-    [
-      "2025-05-17, 13:02:12",
-      "https://lobste.rs/s/uwy1kb/cheriot_last_ten_years"
-    ],
-    [
-      "CHERIoT: The last ten years",
-      "https://cheriot.org/cheri/history/2025/05/16/last-ten-years.html"
     ]
   ]
 ]
