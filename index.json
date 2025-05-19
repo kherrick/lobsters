@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-19, 11:23:55",
+      "https://lobste.rs/s/glybaa/don_t_guess_my_language"
+    ],
+    [
+      "Don't Guess My Language",
+      "https://vitonsky.net/blog/2025/05/17/language-detection/"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 09:44:07",
       "https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic"
     ],
@@ -107,16 +117,6 @@
     [
       "async/await versus the Calloop Model",
       "https://notgull.net/calloop/"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 01:39:38",
-      "https://lobste.rs/s/lnr9im/mapgen4_trade_routes"
-    ],
-    [
-      "Mapgen4 trade routes",
-      "https://www.redblobgames.com/blog/2025-05-08-mapgen4-trade-routes/"
     ]
   ],
   [
