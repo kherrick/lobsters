@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-19, 22:19:27](https://lobste.rs/s/aeslga/value_model_checking_distributed) - [The value of model checking in distributed protocols design](https://protocols-made-fun.com/modelchecking/2025/04/08/value.html)
+* [2025-05-19, 21:55:36](https://lobste.rs/s/wefsbz/making_modern_email_protocol) - [Making a modern Email protocol](https://youtu.be/nALc9GwZdFc)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
 * [2025-05-19, 19:37:47](https://lobste.rs/s/gdd7r2/submissions_spring_lisp_game_jam_2025) - [Submissions to Spring Lisp Game Jam 2025](https://itch.io/jam/spring-lisp-game-jam-2025/entries)
@@ -21,7 +22,6 @@
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-19, 07:34:36](https://lobste.rs/s/6m8jml/racket_v8_17) - [Racket v8.17](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
 * [2025-05-19, 07:27:04](https://lobste.rs/s/sqojzs/how_have_browser_pick_contrasting_color) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
-* [2025-05-19, 03:47:41](https://lobste.rs/s/b019cn/another_html_css_engine) - [Another HTML/CSS engine](https://github.com/skift-org/vaev)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
 * [2025-05-18, 20:37:38](https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own) - [Ditching Obsidian and building my own](https://amberwilliams.io/blogs/building-my-own-pkms)
 * [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
