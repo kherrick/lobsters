@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 18:39:04](https://lobste.rs/s/0v2f97/finding_hard_24_puzzles_with_planner) - [Finding hard 24 puzzles with planner programming](https://buttondown.com/hillelwayne/archive/finding-hard-24-puzzles-with-planner-programming/)
 * [2025-05-20, 15:50:09](https://lobste.rs/s/hnqnpj/jwno_tiling_wm_for_windows_written_janet) - [Jwno: a tiling WM for Windows, written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 15:43:26](https://lobste.rs/s/79hng1/interview_chief_maintainer_qt_project_on) - [Interview: Chief maintainer of Qt project on language independence, KDE, and the pain of Qt 5 to Qt 6 •](https://devclass.com/2025/05/16/interview-chief-maintainer-of-qt-project-on-language-independence-kde-and-the-pain-of-qt-5-to-qt-6/)
 * [2025-05-20, 15:33:42](https://lobste.rs/s/dtwy2u/open_file_format_for_storing_information) - [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
@@ -13,7 +14,6 @@
 * [2025-05-20, 11:34:34](https://lobste.rs/s/qrrc6x/enlightenmentware) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware)
 * [2025-05-20, 11:17:39](https://lobste.rs/s/5mpy9w/simple_search_engine_from_scratch) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
-* [2025-05-20, 04:46:47](https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-20, 03:42:34](https://lobste.rs/s/srktmw/ann_small_annotation_server_2023) - [Ann, the Small Annotation Server (2023)](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
