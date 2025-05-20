@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 15:43:26](https://lobste.rs/s/79hng1/interview_chief_maintainer_qt_project_on) - [Interview: Chief maintainer of Qt project on language independence, KDE, and the pain of Qt 5 to Qt 6 •](https://devclass.com/2025/05/16/interview-chief-maintainer-of-qt-project-on-language-independence-kde-and-the-pain-of-qt-5-to-qt-6/)
 * [2025-05-20, 15:17:44](https://lobste.rs/s/6psu9y/hypervisor_as_library) - [Hypervisor as a Library](https://seiya.me/blog/hypervisor-as-a-library)
 * [2025-05-20, 14:35:10](https://lobste.rs/s/pgnpyv/compiling_ocaml_ti_84_ce_calculator) - [Compiling OCaml to the TI-84+ CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-20, 13:55:19](https://lobste.rs/s/viwe6p/open_source_can_t_coordinate) - [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
@@ -11,7 +12,6 @@
 * [2025-05-20, 11:17:39](https://lobste.rs/s/5mpy9w/simple_search_engine_from_scratch) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 10:22:23](https://lobste.rs/s/4ukqbf/how_jax_jit_jit_compiler_works_jax_js) - [How the jax.jit() JIT compiler works in jax-js](https://ekzhang.substack.com/p/how-the-jaxjit-jit-compiler-works)
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
-* [2025-05-20, 04:46:47](https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-20, 03:42:34](https://lobste.rs/s/srktmw/ann_small_annotation_server_2023) - [Ann, the Small Annotation Server (2023)](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
