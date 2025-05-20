@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 04:46:47](https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-20, 03:42:34](https://lobste.rs/s/srktmw/ann_small_annotation_server) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-19, 22:19:27](https://lobste.rs/s/aeslga/value_model_checking_distributed) - [The value of model checking in distributed protocols design](https://protocols-made-fun.com/modelchecking/2025/04/08/value.html)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
@@ -24,7 +25,6 @@
 * [2025-05-19, 07:34:36](https://lobste.rs/s/6m8jml/racket_v8_17) - [Racket v8.17](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
 * [2025-05-19, 07:27:04](https://lobste.rs/s/sqojzs/how_have_browser_pick_contrasting_color) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
-* [2025-05-18, 12:04:27](https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut) - [A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 
 ## [Archives](archives/index.md)
 
