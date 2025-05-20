@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-20, 20:11:26](https://lobste.rs/s/aowulr/when_rethinking_codebase_is_better_than) - [When rethinking a codebase is better than a workaround](https://sniffnet.net/news/rethink-over-workaround/)
+* [2025-05-20, 19:36:41](https://lobste.rs/s/z5cyl1/ingredients_productive_monorepo) - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 * [2025-05-20, 19:02:33](https://lobste.rs/s/juveen/optional_rust_freebsd_support_may_2025) - [Optional Rust-In-FreeBSD Support May 2025 Status Report](https://hardenedbsd.org/article/shawn-webb/2025-05-20/optional-rust-freebsd-support-may-2025-status-report)
 * [2025-05-20, 18:55:53](https://lobste.rs/s/7q3ntz/tag_proposal_concatenative) - [Tag Proposal: concatenative](https://lobste.rs/s/7q3ntz/tag_proposal_concatenative)
 * [2025-05-20, 18:39:04](https://lobste.rs/s/0v2f97/finding_hard_24_puzzles_with_planner) - [Finding hard 24 puzzles with planner programming](https://buttondown.com/hillelwayne/archive/finding-hard-24-puzzles-with-planner-programming/)
@@ -18,7 +19,6 @@
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
-* [2025-05-19, 18:18:35](https://lobste.rs/s/aohy4i/python_frozenset_interpretation) - [A Python frozenset interpretation of Dependent Type Theory](https://www.philipzucker.com/frozenset_dtt/)
 * [2025-05-19, 18:07:36](https://lobste.rs/s/qef6s9/microsoft_edit_is_now_open_source) - [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
 * [2025-05-19, 16:51:55](https://lobste.rs/s/v4xwjv/windows_subsystem_for_linux_is_now_open) - [The Windows Subsystem for Linux is now open source](https://blogs.windows.com/windowsdeveloper/2025/05/19/the-windows-subsystem-for-linux-is-now-open-source/)
 * [2025-05-19, 15:28:30](https://lobste.rs/s/4hqkqt/is_winter_coming) - [Is Winter Coming?](https://www.datagubbe.se/winter/)
