@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-20, 04:46:47",
+      "https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using"
+    ],
+    [
+      "Particle Life simulation in browser using WebGPU",
+      "https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html"
+    ]
+  ],
+  [
+    [
       "2025-05-20, 03:42:34",
       "https://lobste.rs/s/srktmw/ann_small_annotation_server"
     ],
@@ -237,16 +247,6 @@
     [
       "async/await versus the Calloop Model",
       "https://notgull.net/calloop/"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 12:04:27",
-      "https://lobste.rs/s/p9lo9w/beginner_s_guide_sourcehut"
-    ],
-    [
-      "A Beginner's Guide to SourceHut",
-      "https://btxx.org/posts/beginners-guide-sourcehut/"
     ]
   ]
 ]
