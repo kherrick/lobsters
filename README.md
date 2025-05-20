@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 13:55:19](https://lobste.rs/s/viwe6p/open_source_can_t_coordinate) - [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-05-20, 13:35:32](https://lobste.rs/s/6ql67o/interview_with_donald_knuth_2008) - [Interview with Donald Knuth (2008)](https://web.archive.org/web/20250320043324/https://www.informit.com/articles/article.aspx?p=1193856)
 * [2025-05-20, 13:34:41](https://lobste.rs/s/erab7d/lisp_cellar_dependent_types_live) - [The Lisp in the Cellar: Dependent Types that Live Upstairs](https://zenodo.org/records/15424968/files/deputy-els.pdf)
-* [2025-05-20, 12:56:46](https://lobste.rs/s/stmgck/lerp_smoothing_is_broken) - [Lerp smoothing is broken](https://www.youtube.com/watch?v=LSNQuFEDOyQ)
 * [2025-05-20, 12:12:40](https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 12:07:07](https://lobste.rs/s/e0pkbl/kicking_tires_on_cedardb_s_sql) - [Kicking the Tires on CedarDB's SQL](https://buttondown.com/jaffray/archive/kicking-the-tires-on-cedardbs-sql/)
 * [2025-05-20, 11:34:34](https://lobste.rs/s/qrrc6x/enlightenmentware) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware)
