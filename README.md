@@ -2,7 +2,7 @@
 
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-20, 05:57:40](https://lobste.rs/s/ptmvyy/ircjournal_real_time_web_irc_log_viewer) - [ircjournal: Real-time web IRC log viewer](https://github.com/zopieux/ircjournal)
-* [2025-05-20, 04:46:47](https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
+* [2025-05-20, 03:42:34](https://lobste.rs/s/srktmw/ann_small_annotation_server) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
 * [2025-05-20, 01:34:02](https://lobste.rs/s/6n9ues/defense_old_pixel) - [In defense of an old pixel](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2025-05-19, 22:19:27](https://lobste.rs/s/aeslga/value_model_checking_distributed) - [The value of model checking in distributed protocols design](https://protocols-made-fun.com/modelchecking/2025/04/08/value.html)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
