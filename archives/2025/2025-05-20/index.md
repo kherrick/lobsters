@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 11:34:34](https://lobste.rs/s/qrrc6x/enlightenmentware) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware)
 * [2025-05-20, 11:17:39](https://lobste.rs/s/5mpy9w/simple_search_engine_from_scratch) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 10:22:23](https://lobste.rs/s/4ukqbf/how_jax_jit_jit_compiler_works_jax_js) - [How the jax.jit() JIT compiler works in jax-js](https://ekzhang.substack.com/p/how-the-jaxjit-jit-compiler-works)
 * [2025-05-20, 07:17:27](https://lobste.rs/s/bo7gil/not_causal_chains_interactions) - [Not causal chains, but interactions and adaptations](https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/)
