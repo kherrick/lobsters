@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-05-19, 20:39:48",
+      "https://lobste.rs/s/x2pvsk/go_s_fips_140_3_compliance"
+    ],
+    [
+      "Go’s FIPS 140-3 Compliance",
+      "https://go.dev/doc/security/fips140"
+    ]
+  ],
+  [
+    [
       "2025-05-19, 20:32:41",
       "https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way"
     ],
@@ -227,16 +237,6 @@
     [
       "async/await versus the Calloop Model",
       "https://notgull.net/calloop/"
-    ]
-  ],
-  [
-    [
-      "2025-05-18, 20:37:38",
-      "https://lobste.rs/s/loggq6/ditching_obsidian_building_my_own"
-    ],
-    [
-      "Ditching Obsidian and building my own",
-      "https://amberwilliams.io/blogs/building-my-own-pkms"
     ]
   ],
   [
