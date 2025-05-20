@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 11:17:39](https://lobste.rs/s/5mpy9w/simple_search_engine_from_scratch) - [A simple search engine from scratch](https://bernsteinbear.com/blog/simple-search/)
 * [2025-05-20, 10:22:23](https://lobste.rs/s/4ukqbf/how_jax_jit_jit_compiler_works_jax_js) - [How the jax.jit() JIT compiler works in jax-js](https://ekzhang.substack.com/p/how-the-jaxjit-jit-compiler-works)
 * [2025-05-20, 07:17:27](https://lobste.rs/s/bo7gil/not_causal_chains_interactions) - [Not causal chains, but interactions and adaptations](https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/)
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
@@ -8,7 +9,6 @@
 * [2025-05-20, 01:34:02](https://lobste.rs/s/6n9ues/defense_old_pixel) - [In defense of an old pixel](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2025-05-19, 22:19:27](https://lobste.rs/s/aeslga/value_model_checking_distributed) - [The value of model checking in distributed protocols design](https://protocols-made-fun.com/modelchecking/2025/04/08/value.html)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
-* [2025-05-19, 20:39:48](https://lobste.rs/s/x2pvsk/go_s_fips_140_3_compliance) - [Go’s FIPS 140-3 Compliance](https://go.dev/doc/security/fips140)
 * [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
 * [2025-05-19, 19:37:47](https://lobste.rs/s/gdd7r2/submissions_spring_lisp_game_jam_2025) - [Submissions to Spring Lisp Game Jam 2025](https://itch.io/jam/spring-lisp-game-jam-2025/entries)
 * [2025-05-19, 19:10:18](https://lobste.rs/s/wadme2/internationalization_puzzles) - [Internationalization puzzles](https://i18n-puzzles.com/)
