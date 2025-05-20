@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 15:17:44](https://lobste.rs/s/6psu9y/hypervisor_as_library) - [Hypervisor as a Library](https://seiya.me/blog/hypervisor-as-a-library)
 * [2025-05-20, 14:35:10](https://lobste.rs/s/pgnpyv/compiling_ocaml_ti_84_ce_calculator) - [Compiling OCaml to the TI-84+ CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-20, 13:55:19](https://lobste.rs/s/viwe6p/open_source_can_t_coordinate) - [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-05-20, 13:35:32](https://lobste.rs/s/6ql67o/interview_with_donald_knuth_2008) - [Interview with Donald Knuth (2008)](https://web.archive.org/web/20250320043324/https://www.informit.com/articles/article.aspx?p=1193856)

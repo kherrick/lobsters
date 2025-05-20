@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 15:17:44](https://lobste.rs/s/6psu9y/hypervisor_as_library) - [Hypervisor as a Library](https://seiya.me/blog/hypervisor-as-a-library)
 * [2025-05-20, 14:35:10](https://lobste.rs/s/pgnpyv/compiling_ocaml_ti_84_ce_calculator) - [Compiling OCaml to the TI-84+ CE Calculator](https://farlow.dev/2025/05/17/ocaml-on-calculator)
 * [2025-05-20, 13:55:19](https://lobste.rs/s/viwe6p/open_source_can_t_coordinate) - [Open Source Can't Coordinate](https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html)
 * [2025-05-20, 13:34:41](https://lobste.rs/s/erab7d/lisp_cellar_dependent_types_live) - [The Lisp in the Cellar: Dependent Types that Live Upstairs](https://zenodo.org/records/15424968/files/deputy-els.pdf)
@@ -14,7 +15,6 @@
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-19, 20:32:41](https://lobste.rs/s/lptak4/building_personal_archive_web_slow_way) - [Building a personal archive of the web, the slow way](https://alexwlchan.net/2025/personal-archive-of-the-web/)
 * [2025-05-19, 19:37:47](https://lobste.rs/s/gdd7r2/submissions_spring_lisp_game_jam_2025) - [Submissions to Spring Lisp Game Jam 2025](https://itch.io/jam/spring-lisp-game-jam-2025/entries)
-* [2025-05-19, 19:10:18](https://lobste.rs/s/wadme2/internationalization_puzzles) - [Internationalization puzzles](https://i18n-puzzles.com/)
 * [2025-05-19, 18:30:54](https://lobste.rs/s/vjhylh/steve_langasek_one_ubuntu_linux_s_leading) - [Steve Langasek, One of Ubuntu Linux's Leading Lights, Has Died](https://thenewstack.io/steve-langasek-one-of-ubuntu-linuxs-leading-lights-has-died/)
 * [2025-05-19, 18:18:35](https://lobste.rs/s/aohy4i/python_frozenset_interpretation) - [A Python frozenset interpretation of Dependent Type Theory](https://www.philipzucker.com/frozenset_dtt/)
 * [2025-05-19, 18:07:36](https://lobste.rs/s/qef6s9/microsoft_edit_is_now_open_source) - [Microsoft Edit is now open source](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/)
