@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 12:56:46](https://lobste.rs/s/stmgck/lerp_smoothing_is_broken) - [Lerp smoothing is broken](https://www.youtube.com/watch?v=LSNQuFEDOyQ)
 * [2025-05-20, 12:12:40](https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 12:07:07](https://lobste.rs/s/e0pkbl/kicking_tires_on_cedardb_s_sql) - [Kicking the Tires on CedarDB's SQL](https://buttondown.com/jaffray/archive/kicking-the-tires-on-cedardbs-sql/)
 * [2025-05-20, 11:34:34](https://lobste.rs/s/qrrc6x/enlightenmentware) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware)

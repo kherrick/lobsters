@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 12:56:46](https://lobste.rs/s/stmgck/lerp_smoothing_is_broken) - [Lerp smoothing is broken](https://www.youtube.com/watch?v=LSNQuFEDOyQ)
 * [2025-05-20, 12:12:40](https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 * [2025-05-20, 12:07:07](https://lobste.rs/s/e0pkbl/kicking_tires_on_cedardb_s_sql) - [Kicking the Tires on CedarDB's SQL](https://buttondown.com/jaffray/archive/kicking-the-tires-on-cedardbs-sql/)
 * [2025-05-20, 11:34:34](https://lobste.rs/s/qrrc6x/enlightenmentware) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware)
@@ -22,7 +23,6 @@
 * [2025-05-19, 13:21:49](https://lobste.rs/s/wfpw3u/justification_filler_phrases) - [Justification Filler Phrases](https://serce.me/posts/2025-05-19-justification-filler-phrases)
 * [2025-05-19, 13:12:00](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zthrjb/what_are_you_doing_this_week)
 * [2025-05-19, 11:23:55](https://lobste.rs/s/glybaa/don_t_guess_my_language) - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
-* [2025-05-19, 09:44:07](https://lobste.rs/s/wlnnvz/introducing_obelisk_deterministic) - [Introducing Obelisk deterministic workflow engine](https://obeli.sk/blog/introducing-obelisk/)
 * [2025-05-19, 08:00:42](https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar) - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 
