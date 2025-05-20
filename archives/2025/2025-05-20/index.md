@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
+* [2025-05-20, 07:17:27](https://lobste.rs/s/bo7gil/not_causal_chains_interactions) - [Not causal chains, but interactions and adaptations](https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/)
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-20, 05:57:40](https://lobste.rs/s/ptmvyy/ircjournal_real_time_web_irc_log_viewer) - [ircjournal: Real-time web IRC log viewer](https://github.com/zopieux/ircjournal)
 * [2025-05-20, 04:46:47](https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)

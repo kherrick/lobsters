@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-20, 07:17:27](https://lobste.rs/s/bo7gil/not_causal_chains_interactions) - [Not causal chains, but interactions and adaptations](https://surfingcomplexity.blog/2025/05/19/not-causal-chains-but-interactions-and-adaptations/)
 * [2025-05-20, 06:24:57](https://lobste.rs/s/xcpfpk/palette_lighting_tricks_on_nintendo_64) - [Palette Lighting Tricks on the Nintendo 64](https://30fps.net/pages/palette-lighting-tricks-n64/)
 * [2025-05-20, 05:57:40](https://lobste.rs/s/ptmvyy/ircjournal_real_time_web_irc_log_viewer) - [ircjournal: Real-time web IRC log viewer](https://github.com/zopieux/ircjournal)
+* [2025-05-20, 04:46:47](https://lobste.rs/s/vmsdiy/particle_life_simulation_browser_using) - [Particle Life simulation in browser using WebGPU](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html)
 * [2025-05-20, 03:42:34](https://lobste.rs/s/srktmw/ann_small_annotation_server) - [Ann, the Small Annotation Server](https://mccd.space/posts/design-pitch-ann/)
-* [2025-05-20, 01:34:02](https://lobste.rs/s/6n9ues/defense_old_pixel) - [In defense of an old pixel](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2025-05-19, 22:19:27](https://lobste.rs/s/aeslga/value_model_checking_distributed) - [The value of model checking in distributed protocols design](https://protocols-made-fun.com/modelchecking/2025/04/08/value.html)
 * [2025-05-19, 21:21:54](https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine) - [Making Video Games in 2025 (without an engine)](https://noelberry.ca/posts/making_games_in_2025/)
 * [2025-05-19, 20:39:48](https://lobste.rs/s/x2pvsk/go_s_fips_140_3_compliance) - [Go’s FIPS 140-3 Compliance](https://go.dev/doc/security/fips140)
@@ -23,7 +24,6 @@
 * [2025-05-19, 08:00:42](https://lobste.rs/s/acpxje/coding_without_laptop_two_weeks_with_ar) - [Coding Without a Laptop - Two Weeks with AR Glasses and Linux on Android](https://holdtherobot.com/blog/2025/05/11/linux-on-android-with-ar-glasses/)
 * [2025-05-19, 07:39:22](https://lobste.rs/s/dymvtx/don_t_unwrap_options_there_are_better_ways) - [Don't Unwrap Options: There Are Better Ways](https://corrode.dev/blog/rust-option-handling-best-practices/)
 * [2025-05-19, 07:34:36](https://lobste.rs/s/6m8jml/racket_v8_17) - [Racket v8.17](https://blog.racket-lang.org/2025/05/racket-v8-17.html)
-* [2025-05-19, 07:27:04](https://lobste.rs/s/sqojzs/how_have_browser_pick_contrasting_color) - [How to have the browser pick a contrasting color in CSS](https://webkit.org/blog/16929/contrast-color/)
 * [2025-05-19, 02:47:20](https://lobste.rs/s/sa8b5n/async_await_versus_calloop_model) - [async/await versus the Calloop Model](https://notgull.net/calloop/)
 
 ## [Archives](archives/index.md)
