@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-21, 22:35:56",
+      "https://lobste.rs/s/3u09yc/idiomatic_errors_clojure"
+    ],
+    [
+      "Idiomatic errors in Clojure",
+      "https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 16:59:08",
       "https://lobste.rs/s/m3wugb/my_technological_regrets"
     ],
@@ -177,16 +187,6 @@
     [
       "KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS",
       "https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 19:36:41",
-      "https://lobste.rs/s/z5cyl1/ingredients_productive_monorepo"
-    ],
-    [
-      "The Ingredients of a Productive Monorepo",
-      "https://blog.swgillespie.me/posts/monorepo-ingredients/"
     ]
   ],
   [
