@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-21, 11:54:07](https://lobste.rs/s/jmg6f5/my_new_hobby_watching_ai_slowly_drive) - [My new hobby: watching AI slowly drive Microsoft employees insane](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/)
 * [2025-05-21, 11:50:03](https://lobste.rs/s/7u3hhv/introducing_roto_compiled_scripting) - [Introducing Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 * [2025-05-21, 11:38:07](https://lobste.rs/s/2lbj9k/we_did_math_on_ai_s_energy_footprint_here_s) - [We did the math on AI’s energy footprint. Here’s the story you haven’t heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
 * [2025-05-21, 10:59:56](https://lobste.rs/s/c6scqf/erlang_otp_28_0_release) - [Erlang/OTP 28.0 Release](https://www.erlang.org/news/180)
-* [2025-05-21, 10:36:03](https://lobste.rs/s/nzioi2/our_journey_through_linux_unix) - [Our Journey Through Linux/Unix Landscapes](https://blog.kalvad.com/our-journey-through-linux-unix-landscapes/)
 * [2025-05-21, 10:14:45](https://lobste.rs/s/96ttp9/reading_code_is_still_most_effective) - [Reading code is still the most effective method to debug multi-thread bug](https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/)
 * [2025-05-21, 07:30:05](https://lobste.rs/s/dtvu8f/building_fast_website_with_mash_stack) - [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
 * [2025-05-21, 01:42:28](https://lobste.rs/s/xk6znl/if_composers_were_hackers) - [If composers were hackers](https://mmapped.blog/posts/18-if-composers-were-hackers)
