@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2025-05-21, 01:42:28",
-      "https://lobste.rs/s/xk6znl/if_composers_were_hackers"
+      "2025-05-21, 06:31:53",
+      "https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust"
     ],
     [
-      "If composers were hackers",
-      "https://mmapped.blog/posts/18-if-composers-were-hackers"
+      "Writing into uninitialized buffers in Rust",
+      "https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/"
     ]
   ],
   [
