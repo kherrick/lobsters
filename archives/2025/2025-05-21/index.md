@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 23:36:07](https://lobste.rs/s/2amnod/gradients_are_new_intervals) - [Gradients are the new intervals](https://www.mattkeeter.com/blog/2025-05-14-gradients/)
 * [2025-05-21, 22:37:05](https://lobste.rs/s/dgxae8/chatgpt_heard_about_eagles_fans) - [ChatGPT Heard About Eagles Fans](https://www.dbreunig.com/2025/05/21/chatgpt-heard-about-eagles-fans.html)
 * [2025-05-21, 22:35:56](https://lobste.rs/s/3u09yc/idiomatic_errors_clojure) - [Idiomatic errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 * [2025-05-21, 17:22:29](https://lobste.rs/s/sqjenk/future_newspapers_is_lies_i_guess) - [The Future of Newspapers is Lies, I Guess](https://aphyr.com/posts/386-the-future-of-newspapers-is-lies-i-guess)
