@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 22:35:56](https://lobste.rs/s/3u09yc/idiomatic_errors_clojure) - [Idiomatic errors in Clojure](https://www.daveliepmann.com/articles/idiomatic-clojure-errors.html)
 * [2025-05-21, 17:22:29](https://lobste.rs/s/sqjenk/future_newspapers_is_lies_i_guess) - [The Future of Newspapers is Lies, I Guess](https://aphyr.com/posts/386-the-future-of-newspapers-is-lies-i-guess)
 * [2025-05-21, 16:59:08](https://lobste.rs/s/m3wugb/my_technological_regrets) - [My Technological Regrets](https://jezenthomas.com/2025/01/my-technological-regrets/)
 * [2025-05-21, 16:55:53](https://lobste.rs/s/mcrlva/subreply_is_back_online) - [Subreply is back online](https://subreply.com/reply/29842)
