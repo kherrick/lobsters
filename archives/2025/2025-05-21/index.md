@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 01:42:28](https://lobste.rs/s/xk6znl/if_composers_were_hackers) - [If composers were hackers](https://mmapped.blog/posts/18-if-composers-were-hackers)
 * [2025-05-21, 00:50:35](https://lobste.rs/s/dmx9e3/apply_coop_matching_people_with_jobs_fit) - [apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
