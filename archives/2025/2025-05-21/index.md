@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 06:31:53](https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust) - [Writing into uninitialized buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-21, 05:00:58](https://lobste.rs/s/6wwcpm/xx_t_can_be_faster) - [$XX^{t}$ Can Be Faster](https://arxiv.org/abs/2505.09814)
 * [2025-05-21, 01:42:28](https://lobste.rs/s/xk6znl/if_composers_were_hackers) - [If composers were hackers](https://mmapped.blog/posts/18-if-composers-were-hackers)
 * [2025-05-21, 00:50:35](https://lobste.rs/s/dmx9e3/apply_coop_matching_people_with_jobs_fit) - [apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
