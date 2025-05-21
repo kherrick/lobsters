@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 15:00:27](https://lobste.rs/s/f01o2f/there_ain_t_no_such_thing_as_free_custom) - [There Ain’t No Such Thing as a Free Custom Memory Allocator](https://arxiv.org/pdf/2206.11728)
 * [2025-05-21, 14:10:03](https://lobste.rs/s/84kjsg/functional_hash_tables_explained) - [Functional hash tables explained](https://spritely.institute/news/functional-hash-tables-explained.html)
 * [2025-05-21, 13:56:49](https://lobste.rs/s/grnyod/erlang_otp_28_highlights) - [Erlang/OTP 28 Highlights](https://www.erlang.org/blog/highlights-otp-28/)
 * [2025-05-21, 13:26:12](https://lobste.rs/s/rff4fc/artiflakery_easy_way_distribute_static) - [Artiflakery, an easy way to distribute static Nix flake artifacts](https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html)
