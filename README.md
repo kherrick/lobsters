@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-21, 10:14:45](https://lobste.rs/s/96ttp9/reading_code_is_still_most_effective) - [Reading code is still the most effective method to debug multi-thread bug](https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/)
 * [2025-05-21, 07:30:05](https://lobste.rs/s/dtvu8f/building_fast_website_with_mash_stack) - [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
 * [2025-05-21, 06:31:53](https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust) - [Writing into uninitialized buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-21, 01:42:28](https://lobste.rs/s/xk6znl/if_composers_were_hackers) - [If composers were hackers](https://mmapped.blog/posts/18-if-composers-were-hackers)
@@ -11,7 +12,6 @@
 * [2025-05-20, 19:36:41](https://lobste.rs/s/z5cyl1/ingredients_productive_monorepo) - [The Ingredients of a Productive Monorepo](https://blog.swgillespie.me/posts/monorepo-ingredients/)
 * [2025-05-20, 19:02:33](https://lobste.rs/s/juveen/optional_rust_freebsd_support_may_2025) - [Optional Rust-In-FreeBSD Support May 2025 Status Report](https://hardenedbsd.org/article/shawn-webb/2025-05-20/optional-rust-freebsd-support-may-2025-status-report)
 * [2025-05-20, 18:55:53](https://lobste.rs/s/7q3ntz/tag_proposal_concatenative) - [Tag Proposal: concatenative](https://lobste.rs/s/7q3ntz/tag_proposal_concatenative)
-* [2025-05-20, 18:39:04](https://lobste.rs/s/0v2f97/finding_hard_24_puzzles_with_planner) - [Finding hard 24 puzzles with planner programming](https://buttondown.com/hillelwayne/archive/finding-hard-24-puzzles-with-planner-programming/)
 * [2025-05-20, 15:50:09](https://lobste.rs/s/hnqnpj/jwno_tiling_wm_for_windows_written_janet) - [Jwno: a tiling WM for Windows, written in Janet](https://agent-kilo.github.io/jwno/)
 * [2025-05-20, 15:43:26](https://lobste.rs/s/79hng1/interview_chief_maintainer_qt_project_on) - [Interview: Chief maintainer of Qt project on language independence, KDE, and the pain of Qt 5 to Qt 6](https://devclass.com/2025/05/16/interview-chief-maintainer-of-qt-project-on-language-independence-kde-and-the-pain-of-qt-5-to-qt-6/)
 * [2025-05-20, 15:33:42](https://lobste.rs/s/dtwy2u/open_file_format_for_storing_information) - [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
