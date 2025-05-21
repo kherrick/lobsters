@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-21, 13:26:12",
+      "https://lobste.rs/s/rff4fc/artiflakery_easy_way_distribute_static"
+    ],
+    [
+      "Artiflakery, an easy way to distribute static Nix flake artifacts",
+      "https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 13:12:27",
+      "https://lobste.rs/s/v9o8pz/good_performance_for_bad_days"
+    ],
+    [
+      "Good Performance for Bad Days",
+      "https://brooker.co.za/blog/2025/05/20/icpe.html"
+    ]
+  ],
+  [
+    [
       "2025-05-21, 11:54:07",
       "https://lobste.rs/s/jmg6f5/my_new_hobby_watching_ai_slowly_drive"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-05-20, 12:56:46",
-      "https://lobste.rs/s/stmgck/lerp_smoothing_is_broken"
-    ],
-    [
-      "Lerp smoothing is broken",
-      "https://www.youtube.com/watch?v=LSNQuFEDOyQ"
-    ]
-  ],
-  [
-    [
       "2025-05-20, 12:12:40",
       "https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly"
     ],
@@ -237,16 +247,6 @@
     [
       "Enlightenmentware",
       "https://mmapped.blog/posts/28-enlightenmentware"
-    ]
-  ],
-  [
-    [
-      "2025-05-19, 21:21:54",
-      "https://lobste.rs/s/uq4igx/making_video_games_2025_without_engine"
-    ],
-    [
-      "Making Video Games in 2025 (without an engine)",
-      "https://noelberry.ca/posts/making_games_in_2025/"
     ]
   ]
 ]
