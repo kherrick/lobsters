@@ -2,7 +2,7 @@
 
 * [2025-05-21, 16:59:08](https://lobste.rs/s/m3wugb/my_technological_regrets) - [My Technological Regrets](https://jezenthomas.com/2025/01/my-technological-regrets/)
 * [2025-05-21, 16:44:42](https://lobste.rs/s/0wxm2u/why_property_testing_finds_bugs_unit) - [Why Property Testing Finds Bugs Unit Testing Does Not [2021]](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/)
-* [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/obsidian_bases) - [Obsidian Bases](https://hachyderm.io/@obsidian@mas.to/114546538911633705)
+* [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/introduction_bases_obsidian_help) - [Introduction to Bases - Obsidian Help](https://help.obsidian.md/bases)
 * [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
 * [2025-05-21, 15:30:47](https://lobste.rs/s/sn6wch/introducing_converse_11_major_leap) - [Introducing Converse 11: A Major Leap Forward for XMPP Webchat](https://opkode.com/blog/2025-05-21-converse-11/)
 * [2025-05-21, 15:00:27](https://lobste.rs/s/f01o2f/there_ain_t_no_such_thing_as_free_custom) - [There Ain’t No Such Thing as a Free Custom Memory Allocator](https://arxiv.org/pdf/2206.11728)
