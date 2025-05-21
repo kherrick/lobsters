@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-05-20](index.md)
 
 * [2025-05-20, 22:19:29](https://lobste.rs/s/srdmcg/litestream_revamped) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
+* [2025-05-20, 22:00:23](https://lobste.rs/s/glf6w3/freebsd_netbsd_zig_cross_compilation) - [FreeBSD and NetBSD Zig Cross-Compilation Support](https://ziglang.org/devlog/2025/#2025-05-20)
 * [2025-05-20, 21:43:07](https://lobste.rs/s/bl1b9q/krebsonsecurity_hit_with_near_record_6_3) - [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS – Krebs on Security](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
 * [2025-05-20, 20:43:52](https://lobste.rs/s/08lasm/from_nitro_junction_testing_production) - [From Nitro to Junction: Testing in Production at Scale](https://www.junctionlabs.io/blog/nitro-testing-in-production)
 * [2025-05-20, 20:11:26](https://lobste.rs/s/aowulr/when_rethinking_codebase_is_better_than) - [When rethinking a codebase is better than a workaround](https://sniffnet.net/news/rethink-over-workaround/)
