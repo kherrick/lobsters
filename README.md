@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-21, 16:55:53](https://lobste.rs/s/mcrlva/subreply_is_back_online) - [Subreply is back online](https://subreply.com/reply/29842)
 * [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/obsidian_bases) - [Obsidian Bases](https://hachyderm.io/@obsidian@mas.to/114546538911633705)
 * [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
 * [2025-05-21, 14:10:03](https://lobste.rs/s/84kjsg/functional_hash_tables_explained) - [Functional hash tables explained](https://spritely.institute/news/functional-hash-tables-explained.html)
@@ -11,7 +12,6 @@
 * [2025-05-21, 10:59:56](https://lobste.rs/s/c6scqf/erlang_otp_28_0_release) - [Erlang/OTP 28.0 Release](https://www.erlang.org/news/180)
 * [2025-05-21, 10:14:45](https://lobste.rs/s/96ttp9/reading_code_is_still_most_effective) - [Reading code is still the most effective method to debug multi-thread bug](https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/)
 * [2025-05-21, 07:30:05](https://lobste.rs/s/dtvu8f/building_fast_website_with_mash_stack) - [Building a fast website with the MASH stack in Rust](https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/)
-* [2025-05-21, 06:31:53](https://lobste.rs/s/hcrgp9/writing_into_uninitialized_buffers_rust) - [Writing into uninitialized buffers in Rust](https://blog.sunfishcode.online/writingintouninitializedbuffersinrust/)
 * [2025-05-21, 00:50:35](https://lobste.rs/s/dmx9e3/apply_coop_matching_people_with_jobs_fit) - [apply.coop - Matching people with jobs that fit their values & passions](https://apply.coop)
 * [2025-05-20, 22:19:29](https://lobste.rs/s/srdmcg/litestream_revamped) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 22:00:23](https://lobste.rs/s/glf6w3/freebsd_netbsd_zig_cross_compilation) - [FreeBSD and NetBSD Zig Cross-Compilation Support](https://ziglang.org/devlog/2025/#2025-05-20)
