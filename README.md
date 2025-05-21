@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-21, 17:22:29](https://lobste.rs/s/sqjenk/future_newspapers_is_lies_i_guess) - [The Future of Newspapers is Lies, I Guess](https://aphyr.com/posts/386-the-future-of-newspapers-is-lies-i-guess)
 * [2025-05-21, 16:55:53](https://lobste.rs/s/mcrlva/subreply_is_back_online) - [Subreply is back online](https://subreply.com/reply/29842)
 * [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/obsidian_bases) - [Obsidian Bases](https://hachyderm.io/@obsidian@mas.to/114546538911633705)
 * [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
-* [2025-05-21, 15:30:47](https://lobste.rs/s/sn6wch/introducing_converse_11_major_leap) - [Introducing Converse 11: A Major Leap Forward for XMPP Webchat](https://opkode.com/blog/2025-05-21-converse-11/)
 * [2025-05-21, 14:10:03](https://lobste.rs/s/84kjsg/functional_hash_tables_explained) - [Functional hash tables explained](https://spritely.institute/news/functional-hash-tables-explained.html)
 * [2025-05-21, 13:56:49](https://lobste.rs/s/grnyod/erlang_otp_28_highlights) - [Erlang/OTP 28 Highlights](https://www.erlang.org/blog/highlights-otp-28/)
 * [2025-05-21, 13:26:12](https://lobste.rs/s/rff4fc/artiflakery_easy_way_distribute_static) - [Artiflakery, an easy way to distribute static Nix flake artifacts](https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html)

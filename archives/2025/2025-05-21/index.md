@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-21](index.md)
 
+* [2025-05-21, 17:22:29](https://lobste.rs/s/sqjenk/future_newspapers_is_lies_i_guess) - [The Future of Newspapers is Lies, I Guess](https://aphyr.com/posts/386-the-future-of-newspapers-is-lies-i-guess)
 * [2025-05-21, 16:55:53](https://lobste.rs/s/mcrlva/subreply_is_back_online) - [Subreply is back online](https://subreply.com/reply/29842)
 * [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/obsidian_bases) - [Obsidian Bases](https://hachyderm.io/@obsidian@mas.to/114546538911633705)
 * [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
