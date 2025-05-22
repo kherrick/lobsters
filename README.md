@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-22, 11:42:04](https://lobste.rs/s/qx0wzy/transpiler_is_meaningless_word) - [Transpiler is a meaningless word](https://people.csail.mit.edu/rachit/post/transpiler/)
+* [2025-05-22, 11:40:02](https://lobste.rs/s/zgnlne/machinist_machine) - [Machinist and Machine](https://punkx.org/jackdoe/misery.html)
 * [2025-05-22, 08:16:41](https://lobste.rs/s/udilua/subreply_is_now_open_source) - [Subreply is now open source](https://github.com/lucianmarin/subreply)
-* [2025-05-22, 07:56:32](https://lobste.rs/s/q1vcrq/encore_s_mcp_server_enables_your_ai_tools) - [Encore's MCP Server enables your AI tools to introspect your application](https://encore.dev/blog/mcp-server)
-* [2025-05-22, 07:53:35](https://lobste.rs/s/uo55b9/root_cause_analysis_postgresql) - [Root Cause Analysis: PostgreSQL MultiXact member exhaustion incidents](https://metronome.com/blog/root-cause-analysis-postgresql-multixact-member-exhaustion-incidents-may-2025)
 * [2025-05-22, 07:00:55](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall) - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/)
 * [2025-05-22, 07:00:22](https://lobste.rs/s/5imt51/oodle_2_9_14_intel_13th_14th_gen_cpus) - [Oodle 2.9.14 and Intel 13th/14th gen CPUs](https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/)
 * [2025-05-22, 06:43:04](https://lobste.rs/s/vo1ue5/libinput_preparing_introduce_lua_based) - [libinput Preparing To Introduce A Lua-Based Plugin System For Modifying Devices/Events](https://www.phoronix.com/news/libinput-Lua-Plugin-System)
