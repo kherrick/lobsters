@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 08:16:41](https://lobste.rs/s/udilua/subreply_is_now_open_source) - [Subreply is now open source](https://github.com/lucianmarin/subreply)
+* [2025-05-22, 07:56:32](https://lobste.rs/s/q1vcrq/encore_s_mcp_server_enables_your_ai_tools) - [Encore's MCP Server enables your AI tools to introspect your application](https://encore.dev/blog/mcp-server)
 * [2025-05-22, 07:53:35](https://lobste.rs/s/uo55b9/root_cause_analysis_postgresql) - [Root Cause Analysis: PostgreSQL MultiXact member exhaustion incidents](https://metronome.com/blog/root-cause-analysis-postgresql-multixact-member-exhaustion-incidents-may-2025)
 * [2025-05-22, 07:14:44](https://lobste.rs/s/1i6nk1/firefox_security_privacy_newsletter) - [Firefox Security Privacy Newsletter 2025 Q1](https://attackanddefense.dev/2025/05/20/firefox-security-privacy-newsletter-2025-q1.html)
 * [2025-05-22, 07:00:55](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall) - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/)
