@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 06:43:04",
+      "https://lobste.rs/s/vo1ue5/libinput_preparing_introduce_lua_based"
+    ],
+    [
+      "libinput Preparing To Introduce A Lua-Based Plugin System For Modifying Devices/Events",
+      "https://www.phoronix.com/news/libinput-Lua-Plugin-System"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 06:24:07",
       "https://lobste.rs/s/fw1rhp/recent_disruptive_changes_from"
     ],
@@ -197,16 +207,6 @@
     [
       "Reading code is still the most effective method to debug multi-thread bug",
       "https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 07:30:05",
-      "https://lobste.rs/s/dtvu8f/building_fast_website_with_mash_stack"
-    ],
-    [
-      "Building a fast website with the MASH stack in Rust",
-      "https://emschwartz.me/building-a-fast-website-with-the-mash-stack-in-rust/"
     ]
   ],
   [
