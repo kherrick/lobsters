@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-22, 08:16:41](https://lobste.rs/s/udilua/subreply_is_now_open_source) - [Subreply is now open source](https://github.com/lucianmarin/subreply)
 * [2025-05-22, 07:56:32](https://lobste.rs/s/q1vcrq/encore_s_mcp_server_enables_your_ai_tools) - [Encore's MCP Server enables your AI tools to introspect your application](https://encore.dev/blog/mcp-server)
 * [2025-05-22, 07:53:35](https://lobste.rs/s/uo55b9/root_cause_analysis_postgresql) - [Root Cause Analysis: PostgreSQL MultiXact member exhaustion incidents](https://metronome.com/blog/root-cause-analysis-postgresql-multixact-member-exhaustion-incidents-may-2025)
 * [2025-05-22, 07:00:55](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall) - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/)
@@ -18,7 +19,6 @@
 * [2025-05-21, 15:30:47](https://lobste.rs/s/sn6wch/introducing_converse_11_major_leap) - [Introducing Converse 11: A Major Leap Forward for XMPP Webchat](https://opkode.com/blog/2025-05-21-converse-11/)
 * [2025-05-21, 15:00:27](https://lobste.rs/s/f01o2f/there_ain_t_no_such_thing_as_free_custom) - [There Ain’t No Such Thing as a Free Custom Memory Allocator](https://arxiv.org/pdf/2206.11728)
 * [2025-05-21, 14:10:03](https://lobste.rs/s/84kjsg/functional_hash_tables_explained) - [Functional hash tables explained](https://spritely.institute/news/functional-hash-tables-explained.html)
-* [2025-05-21, 13:56:49](https://lobste.rs/s/grnyod/erlang_otp_28_highlights) - [Erlang/OTP 28 Highlights](https://www.erlang.org/blog/highlights-otp-28/)
 * [2025-05-21, 13:26:12](https://lobste.rs/s/rff4fc/artiflakery_easy_way_distribute_static) - [Artiflakery, an easy way to distribute static Nix flake artifacts](https://luj.fr/blog/artiflakery-webserver-flake-artifacts.html)
 * [2025-05-21, 11:50:03](https://lobste.rs/s/7u3hhv/introducing_roto_compiled_scripting) - [Introducing Roto: A Compiled Scripting Language for Rust](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/)
 * [2025-05-21, 11:38:07](https://lobste.rs/s/2lbj9k/we_did_math_on_ai_s_energy_footprint_here_s) - [We did the math on AI’s energy footprint. Here’s the story you haven’t heard](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/)
