@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-22](index.md)
 
+* [2025-05-22, 18:06:25](https://lobste.rs/s/ijzow0/loading_pydantic_models_from_json) - [Loading Pydantic models from JSON without running out of memory](https://pythonspeed.com/articles/pydantic-json-memory/)
 * [2025-05-22, 17:03:53](https://lobste.rs/s/ffsgv1/how_get_your_research_paper_accepted) - [How to Get Your Research Paper Accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted)
 * [2025-05-22, 16:54:00](https://lobste.rs/s/pyvepa/investing_what_moves_internet_forward) - [Investing in what moves the internet forward | The Mozilla Blog](https://blog.mozilla.org/en/mozilla/building-whats-next/)
 * [2025-05-22, 15:46:11](https://lobste.rs/s/yobqtg/everything_s_bug_issue) - [Everything’s a bug (or an issue)](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/)
