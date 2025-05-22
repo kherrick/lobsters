@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-22, 06:24:07](https://lobste.rs/s/fw1rhp/recent_disruptive_changes_from) - [Recent disruptive changes from Setuptools](https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/)
 * [2025-05-22, 02:45:02](https://lobste.rs/s/dtzhkh/kotlin_lsp_kotlin_language_server_plugin) - [kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code](https://github.com/Kotlin/kotlin-lsp)
 * [2025-05-22, 01:47:50](https://lobste.rs/s/y2kogj/using_large_language_models_for_commit) - [Using Large Language Models for Commit Message Generation: A Preliminary Study](https://arxiv.org/abs/2401.05926)
 * [2025-05-22, 00:44:38](https://lobste.rs/s/asm7t8/typeid_lua) - [TypeID in Lua](https://push.cx/typeid-in-lua)
@@ -24,7 +25,6 @@
 * [2025-05-20, 22:19:29](https://lobste.rs/s/srdmcg/litestream_revamped) - [Litestream: Revamped](https://fly.io/blog/litestream-revamped/)
 * [2025-05-20, 21:43:07](https://lobste.rs/s/bl1b9q/krebsonsecurity_hit_with_near_record_6_3) - [KrebsOnSecurity Hit With Near-Record 6.3 Tbps DDoS](https://krebsonsecurity.com/2025/05/krebsonsecurity-hit-with-near-record-6-3-tbps-ddos/)
 * [2025-05-20, 15:33:42](https://lobste.rs/s/dtwy2u/open_file_format_for_storing_information) - [An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones](https://f3.forgefriends.org/)
-* [2025-05-20, 12:12:40](https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly) - [Reports of Deno's Demise Have Been Greatly Exaggerated](https://deno.com/blog/greatly-exaggerated)
 
 ## [Archives](archives/index.md)
 
