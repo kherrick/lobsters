@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 02:45:02",
+      "https://lobste.rs/s/dtzhkh/kotlin_lsp_kotlin_language_server_plugin"
+    ],
+    [
+      "kotlin-lsp: Kotlin Language Server and plugin for Visual Studio Code",
+      "https://github.com/Kotlin/kotlin-lsp"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 01:47:50",
       "https://lobste.rs/s/y2kogj/using_large_language_models_for_commit"
     ],
@@ -227,16 +237,6 @@
     [
       "An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones",
       "https://f3.forgefriends.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 13:55:19",
-      "https://lobste.rs/s/viwe6p/open_source_can_t_coordinate"
-    ],
-    [
-      "Open Source Can't Coordinate",
-      "https://matklad.github.io/2025/05/20/open-source-cant-coordinate.html"
     ]
   ],
   [
