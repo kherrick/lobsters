@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 06:24:07",
+      "https://lobste.rs/s/fw1rhp/recent_disruptive_changes_from"
+    ],
+    [
+      "Recent disruptive changes from Setuptools",
+      "https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 02:45:02",
       "https://lobste.rs/s/dtzhkh/kotlin_lsp_kotlin_language_server_plugin"
     ],
@@ -237,16 +247,6 @@
     [
       "An Open File Format for storing the information from a forge such as issues, pull/merge requests, milestones",
       "https://f3.forgefriends.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-20, 12:12:40",
-      "https://lobste.rs/s/glfslx/reports_deno_s_demise_have_been_greatly"
-    ],
-    [
-      "Reports of Deno's Demise Have Been Greatly Exaggerated",
-      "https://deno.com/blog/greatly-exaggerated"
     ]
   ]
 ]
