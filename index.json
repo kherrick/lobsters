@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-05-22, 08:16:41",
-      "https://lobste.rs/s/udilua/subreply_is_now_open_source"
-    ],
-    [
-      "Subreply is now open source",
-      "https://github.com/lucianmarin/subreply"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 07:56:32",
       "https://lobste.rs/s/q1vcrq/encore_s_mcp_server_enables_your_ai_tools"
     ],
@@ -47,6 +37,16 @@
     [
       "Oodle 2.9.14 and Intel 13th/14th gen CPUs",
       "https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 06:43:04",
+      "https://lobste.rs/s/vo1ue5/libinput_preparing_introduce_lua_based"
+    ],
+    [
+      "libinput Preparing To Introduce A Lua-Based Plugin System For Modifying Devices/Events",
+      "https://www.phoronix.com/news/libinput-Lua-Plugin-System"
     ]
   ],
   [
