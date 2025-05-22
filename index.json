@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-22, 11:56:47",
+      "https://lobste.rs/s/j3mzif/making_rav1d_video_decoder_1_faster"
+    ],
+    [
+      "Making the rav1d Video Decoder 1% Faster",
+      "https://ohadravid.github.io/posts/2025-05-rav1d-faster/"
+    ]
+  ],
+  [
+    [
+      "2025-05-22, 11:53:38",
+      "https://lobste.rs/s/ngsbdq/3_years_extremely_remote_work"
+    ],
+    [
+      "3 Years of Extremely Remote Work",
+      "https://www.brendangregg.com/blog/2025-05-22/3-years-of-extremely-remote-work.html"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 11:43:57",
       "https://lobste.rs/s/h0roqw/whippet_gc_notes_on_guile_heuristics_heap"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-05-21, 23:36:07",
-      "https://lobste.rs/s/2amnod/gradients_are_new_intervals"
-    ],
-    [
-      "Gradients are the new intervals",
-      "https://www.mattkeeter.com/blog/2025-05-14-gradients/"
-    ]
-  ],
-  [
-    [
       "2025-05-21, 22:37:05",
       "https://lobste.rs/s/dgxae8/chatgpt_heard_about_eagles_fans"
     ],
@@ -167,16 +177,6 @@
     [
       "Introducing Converse 11: A Major Leap Forward for XMPP Webchat",
       "https://opkode.com/blog/2025-05-21-converse-11/"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 15:00:27",
-      "https://lobste.rs/s/f01o2f/there_ain_t_no_such_thing_as_free_custom"
-    ],
-    [
-      "There Ain’t No Such Thing as a Free Custom Memory Allocator",
-      "https://arxiv.org/pdf/2206.11728"
     ]
   ],
   [
