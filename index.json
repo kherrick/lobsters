@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-22, 18:06:25",
+      "https://lobste.rs/s/ijzow0/loading_pydantic_models_from_json"
+    ],
+    [
+      "Loading Pydantic models from JSON without running out of memory",
+      "https://pythonspeed.com/articles/pydantic-json-memory/"
+    ]
+  ],
+  [
+    [
       "2025-05-22, 17:03:53",
       "https://lobste.rs/s/ffsgv1/how_get_your_research_paper_accepted"
     ],
@@ -217,16 +227,6 @@
     [
       "Vim vs. Kakoune puzzles",
       "https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 10:59:56",
-      "https://lobste.rs/s/c6scqf/erlang_otp_28_0_release"
-    ],
-    [
-      "Erlang/OTP 28.0 Release",
-      "https://www.erlang.org/news/180"
     ]
   ],
   [
