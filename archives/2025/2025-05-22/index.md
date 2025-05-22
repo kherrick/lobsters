@@ -10,6 +10,7 @@
 * [2025-05-22, 17:03:53](https://lobste.rs/s/ffsgv1/how_get_your_research_paper_accepted) - [How to Get Your Research Paper Accepted](https://maxwellforbes.com/posts/how-to-get-a-paper-accepted)
 * [2025-05-22, 16:54:00](https://lobste.rs/s/pyvepa/investing_what_moves_internet_forward) - [Investing in what moves the internet forward | The Mozilla Blog](https://blog.mozilla.org/en/mozilla/building-whats-next/)
 * [2025-05-22, 15:46:11](https://lobste.rs/s/yobqtg/everything_s_bug_issue) - [Everything’s a bug (or an issue)](https://www.bozemanpass.com/everythings-a-bug-or-an-issue/)
+* [2025-05-22, 14:56:55](https://lobste.rs/s/ldazmp/claude_i_write_utility_program) - [Claude and I write a utility program](https://blog.plover.com/tech/gpt/claude-xar.html)
 * [2025-05-22, 14:06:07](https://lobste.rs/s/lgynzs/adventures_symbolic_algebra_with_model) - [Adventures in Symbolic Algebra with Model Context Protocol](https://www.stephendiehl.com/posts/computer_algebra_mcp/)
 * [2025-05-22, 14:02:53](https://lobste.rs/s/73eclo/fast_allocations_ruby_3_5) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
