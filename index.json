@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-05-22, 15:46:11",
-      "https://lobste.rs/s/yobqtg/everything_s_bug_issue"
-    ],
-    [
-      "Everything’s a bug (or an issue)",
-      "https://www.bozemanpass.com/everythings-a-bug-or-an-issue/"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 14:56:55",
       "https://lobste.rs/s/ldazmp/claude_i_write_utility_program"
     ],
@@ -247,6 +237,16 @@
     [
       "Vim vs. Kakoune puzzles",
       "https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025"
+    ]
+  ],
+  [
+    [
+      "2025-05-21, 10:14:45",
+      "https://lobste.rs/s/96ttp9/reading_code_is_still_most_effective"
+    ],
+    [
+      "Reading code is still the most effective method to debug multi-thread bug",
+      "https://nanxiao.me/en/reading-code-is-still-the-most-effective-method-to-debug-multi-thread-bug/"
     ]
   ]
 ]
