@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-23, 13:39:51",
+      "https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 13:34:12",
+      "https://lobste.rs/s/edbibq/pltdi_discord_lightning_talks_2025_05"
+    ],
+    [
+      "PLTDI Discord Lightning Talks 2025-05",
+      "https://www.youtube.com/playlist?list=PLIE7bEVjHIayFWo0g9buPHpBmW44-nnYQ"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 13:16:34",
       "https://lobste.rs/s/kgzubq/nasa_s_whoosh_rocket"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-05-22, 11:43:57",
-      "https://lobste.rs/s/h0roqw/whippet_gc_notes_on_guile_heuristics_heap"
-    ],
-    [
-      "Whippet GC notes on Guile, heuristics, and heap growth",
-      "https://wingolog.org/archives/2025/05/22/whippet-lab-notebook-guile-heuristics-and-heap-growth"
-    ]
-  ],
-  [
-    [
       "2025-05-22, 11:42:04",
       "https://lobste.rs/s/qx0wzy/transpiler_is_meaningless_word_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "TypeID in Lua",
       "https://push.cx/typeid-in-lua"
-    ]
-  ],
-  [
-    [
-      "2025-05-21, 23:58:50",
-      "https://lobste.rs/s/ih8sng/tales_from_mainframe_modernization"
-    ],
-    [
-      "Tales From Mainframe Modernization",
-      "https://oppi.li/posts/tales_from_mainframe_modernization/"
     ]
   ]
 ]
