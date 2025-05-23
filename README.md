@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-23, 14:04:03](https://lobste.rs/s/gdmtsf/collaborative_text_editing_without) - [Collaborative Text Editing without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-23, 13:55:13](https://lobste.rs/s/njfzwx/future_flatpak) - [The future of Flatpak](https://lwn.net/Articles/1020571/)
 * [2025-05-23, 13:50:04](https://lobste.rs/s/yejbvc/those_stealthy_botnets) - [Those Stealthy Botnets](https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/)
 * [2025-05-23, 13:39:51](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend)
@@ -16,7 +17,6 @@
 * [2025-05-22, 19:10:34](https://lobste.rs/s/wmqzei/debugging_memory_leaks_postgres) - [Debugging memory leaks in Postgres, heaptrack edition](https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition)
 * [2025-05-22, 17:59:29](https://lobste.rs/s/qq1y1i/closures_objects_are_equivalent_2013) - [Closures And Objects Are Equivalent (2013)](https://wiki.c2.com/?ClosuresAndObjectsAreEquivalent)
 * [2025-05-22, 14:56:55](https://lobste.rs/s/ldazmp/claude_i_write_utility_program) - [Claude and I write a utility program](https://blog.plover.com/tech/gpt/claude-xar.html)
-* [2025-05-22, 14:02:53](https://lobste.rs/s/73eclo/fast_allocations_ruby_3_5) - [Fast Allocations in Ruby 3.5](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/)
 * [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
 * [2025-05-22, 13:36:30](https://lobste.rs/s/jld6td/another_tale_go_mod_bloat) - [another tale of go.mod bloat](https://flak.tedunangst.com/post/another-tale-of-gomod-bloat)
 * [2025-05-22, 11:56:47](https://lobste.rs/s/j3mzif/making_rav1d_video_decoder_1_faster) - [Making the rav1d Video Decoder 1% Faster](https://ohadravid.github.io/posts/2025-05-rav1d-faster/)
