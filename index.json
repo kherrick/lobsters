@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-23, 14:30:58",
+      "https://lobste.rs/s/y94ihs/making_postgres_distributed_with"
+    ],
+    [
+      "Making Postgres distributed with FoundationDB",
+      "https://fabianlindfors.se/blog/making-postgres-distributed/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 14:30:21",
+      "https://lobste.rs/s/faowua/spaced_repetition_systems_have_gotten"
+    ],
+    [
+      "Spaced Repetition Systems Have Gotten Way Better",
+      "https://domenic.me/fsrs/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 14:29:16",
+      "https://lobste.rs/s/jzntk8/shell_its_problems_handling_whitespace"
+    ],
+    [
+      "The shell and its problems in handling of whitespace (2023)",
+      "https://blog.plover.com/Unix/whitespace.html"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 14:04:03",
       "https://lobste.rs/s/gdmtsf/collaborative_text_editing_without"
     ],
@@ -91,32 +121,12 @@
   ],
   [
     [
-      "2025-05-23, 05:47:27",
-      "https://lobste.rs/s/uxz1p7/openbsd_io_benchmarking_how_many_jobs_are"
-    ],
-    [
-      "OpenBSD IO benchmarking: How Many Jobs Are Worth It?",
-      "https://rsadowski.de/posts/2025/fio_simple_benckmarking/"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 05:11:11",
       "https://lobste.rs/s/8qzhwy/recreating_performant_fish_school"
     ],
     [
       "Recreating performant fish school animation of Abzû",
       "https://youtube.com/watch?v=dQI7y7eSUGU"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 00:10:22",
-      "https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust"
-    ],
-    [
-      "Fork Union: Beyond OpenMP in C++ and Rust?",
-      "https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Oodle 2.9.14 and Intel 13th/14th gen CPUs",
       "https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 00:44:38",
-      "https://lobste.rs/s/asm7t8/typeid_lua"
-    ],
-    [
-      "TypeID in Lua",
-      "https://push.cx/typeid-in-lua"
     ]
   ]
 ]
