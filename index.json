@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-23, 13:55:13",
+      "https://lobste.rs/s/njfzwx/future_flatpak"
+    ],
+    [
+      "The future of Flatpak",
+      "https://lwn.net/Articles/1020571/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 13:50:04",
+      "https://lobste.rs/s/yejbvc/those_stealthy_botnets"
+    ],
+    [
+      "Those Stealthy Botnets",
+      "https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 13:39:51",
       "https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend"
     ],
@@ -97,16 +117,6 @@
     [
       "Hypersystem: a pixel display font for Hypermedia Systems",
       "https://deniz.aksimsek.tr/2025/hypersystem/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 20:32:16",
-      "https://lobste.rs/s/ydxnc6/gradbench_benchmark_suite_for_automatic"
-    ],
-    [
-      "The GradBench Benchmark Suite for Automatic Differentiation",
-      "https://sigkill.dk/blog/2025-04-03-gradbench.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Oodle 2.9.14 and Intel 13th/14th gen CPUs",
       "https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 06:24:07",
-      "https://lobste.rs/s/fw1rhp/recent_disruptive_changes_from"
-    ],
-    [
-      "Recent disruptive changes from Setuptools",
-      "https://lwn.net/SubscriberLink/1020576/fcef31015579a9b1/"
     ]
   ],
   [
