@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 13:39:51](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend)
+* [2025-05-23, 13:34:12](https://lobste.rs/s/edbibq/pltdi_discord_lightning_talks_2025_05) - [PLTDI Discord Lightning Talks 2025-05](https://www.youtube.com/playlist?list=PLIE7bEVjHIayFWo0g9buPHpBmW44-nnYQ)
 * [2025-05-23, 13:16:34](https://lobste.rs/s/kgzubq/nasa_s_whoosh_rocket) - [Nasa's whoosh rocket](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/whoosh-rocket/)
 * [2025-05-23, 11:31:18](https://lobste.rs/s/stplv5/announcing_typescript_native_previews) - [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/)
 * [2025-05-23, 11:19:22](https://lobste.rs/s/k7rtlf/copilot_delusion) - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
