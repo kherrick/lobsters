@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-23, 03:50:51](https://lobste.rs/s/bng5sp/engineering_for_long_term) - [Engineering For The Long Term](https://blog.dshr.org/2024/07/engineering-for-long-term.html)
+* [2025-05-23, 05:11:11](https://lobste.rs/s/8qzhwy/recreating_performant_fish_school) - [Recreating performant fish school animation of Abzû](https://youtube.com/watch?v=dQI7y7eSUGU)
 * [2025-05-23, 00:10:22](https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust) - [Fork Union: Beyond OpenMP in C++ and Rust?](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-05-22, 22:16:54](https://lobste.rs/s/jsoz3t/hypersystem_pixel_display_font_for) - [Hypersystem: a pixel display font for Hypermedia Systems](https://deniz.aksimsek.tr/2025/hypersystem/)
 * [2025-05-22, 20:32:16](https://lobste.rs/s/ydxnc6/gradbench_benchmark_suite_for_automatic) - [The GradBench Benchmark Suite for Automatic Differentiation](https://sigkill.dk/blog/2025-04-03-gradbench.html)
