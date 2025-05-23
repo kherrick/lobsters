@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 22:58:20](https://lobste.rs/s/4gksax/forgotten_apl_influences_2016) - [Forgotten APL Influences (2016)](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2025-05-23, 21:54:50](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) - [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
 * [2025-05-23, 20:14:00](https://lobste.rs/s/l7hobk/indexing_hackage_glean_vs_hiedb) - [Indexing Hackage: Glean vs. hiedb](https://simonmar.github.io/posts/2025-05-22-Glean-Haskell.html)
 * [2025-05-23, 19:47:49](https://lobste.rs/s/unlqyd/nixos_25_05_released) - [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
