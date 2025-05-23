@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-23, 14:30:58](https://lobste.rs/s/y94ihs/making_postgres_distributed_with) - [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
+* [2025-05-23, 14:30:21](https://lobste.rs/s/faowua/spaced_repetition_systems_have_gotten) - [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/)
+* [2025-05-23, 14:29:16](https://lobste.rs/s/jzntk8/shell_its_problems_handling_whitespace) - [The shell and its problems in handling of whitespace (2023)](https://blog.plover.com/Unix/whitespace.html)
 * [2025-05-23, 14:04:03](https://lobste.rs/s/gdmtsf/collaborative_text_editing_without) - [Collaborative Text Editing without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-23, 13:55:13](https://lobste.rs/s/njfzwx/future_flatpak) - [The future of Flatpak](https://lwn.net/Articles/1020571/)
 * [2025-05-23, 13:50:04](https://lobste.rs/s/yejbvc/those_stealthy_botnets) - [Those Stealthy Botnets](https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/)
@@ -9,9 +12,7 @@
 * [2025-05-23, 11:31:18](https://lobste.rs/s/stplv5/announcing_typescript_native_previews) - [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/)
 * [2025-05-23, 11:19:22](https://lobste.rs/s/k7rtlf/copilot_delusion) - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
 * [2025-05-23, 10:32:09](https://lobste.rs/s/gnc6gv/freebsd_status_report_2025q1) - [FreeBSD Status Report 2025Q1](https://www.freebsd.org/status/report-2025-01-2025-03/)
-* [2025-05-23, 05:47:27](https://lobste.rs/s/uxz1p7/openbsd_io_benchmarking_how_many_jobs_are) - [OpenBSD IO benchmarking: How Many Jobs Are Worth It?](https://rsadowski.de/posts/2025/fio_simple_benckmarking/)
 * [2025-05-23, 05:11:11](https://lobste.rs/s/8qzhwy/recreating_performant_fish_school) - [Recreating performant fish school animation of Abzû](https://youtube.com/watch?v=dQI7y7eSUGU)
-* [2025-05-23, 00:10:22](https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust) - [Fork Union: Beyond OpenMP in C++ and Rust?](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-05-22, 22:16:54](https://lobste.rs/s/jsoz3t/hypersystem_pixel_display_font_for) - [Hypersystem: a pixel display font for Hypermedia Systems](https://deniz.aksimsek.tr/2025/hypersystem/)
 * [2025-05-22, 20:01:09](https://lobste.rs/s/zty9jf/async_from_scratch_3_pinned_against_wall) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
 * [2025-05-22, 19:10:34](https://lobste.rs/s/wmqzei/debugging_memory_leaks_postgres) - [Debugging memory leaks in Postgres, heaptrack edition](https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition)
@@ -24,7 +25,6 @@
 * [2025-05-22, 11:42:04](https://lobste.rs/s/qx0wzy/transpiler_is_meaningless_word_2023) - [Transpiler is a meaningless word (2023)](https://people.csail.mit.edu/rachit/post/transpiler/)
 * [2025-05-22, 07:00:55](https://lobste.rs/s/lbf9mb/by_default_signal_doesn_t_recall) - [By Default, Signal Doesn't Recall](https://signal.org/blog/signal-doesnt-recall/)
 * [2025-05-22, 07:00:22](https://lobste.rs/s/5imt51/oodle_2_9_14_intel_13th_14th_gen_cpus) - [Oodle 2.9.14 and Intel 13th/14th gen CPUs](https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/)
-* [2025-05-22, 00:44:38](https://lobste.rs/s/asm7t8/typeid_lua) - [TypeID in Lua](https://push.cx/typeid-in-lua)
 
 ## [Archives](archives/index.md)
 

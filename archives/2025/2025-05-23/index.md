@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-23](index.md)
 
+* [2025-05-23, 14:30:58](https://lobste.rs/s/y94ihs/making_postgres_distributed_with) - [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
+* [2025-05-23, 14:30:21](https://lobste.rs/s/faowua/spaced_repetition_systems_have_gotten) - [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/)
+* [2025-05-23, 14:29:16](https://lobste.rs/s/jzntk8/shell_its_problems_handling_whitespace) - [The shell and its problems in handling of whitespace (2023)](https://blog.plover.com/Unix/whitespace.html)
 * [2025-05-23, 14:04:03](https://lobste.rs/s/gdmtsf/collaborative_text_editing_without) - [Collaborative Text Editing without CRDTs or OT](https://mattweidner.com/2025/05/21/text-without-crdts.html)
 * [2025-05-23, 13:55:13](https://lobste.rs/s/njfzwx/future_flatpak) - [The future of Flatpak](https://lwn.net/Articles/1020571/)
 * [2025-05-23, 13:50:04](https://lobste.rs/s/yejbvc/those_stealthy_botnets) - [Those Stealthy Botnets](https://jan.wildeboer.net/2025/02/Blocking-Stealthy-Botnets/)
