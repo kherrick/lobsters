@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-23, 19:13:55",
+      "https://lobste.rs/s/esdjob/10x_faster_typescript"
+    ],
+    [
+      "A 10x Faster TypeScript",
+      "https://www.youtube.com/watch?v=UJfF3-13aFo"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 19:04:33",
       "https://lobste.rs/s/fgvbsc/why_algebraic_effects"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-05-23, 18:54:46",
-      "https://lobste.rs/s/qxgwjf/securing_form_on_internet_still_pretty"
-    ],
-    [
-      "Securing a Form on the Internet: Still Pretty Difficult",
-      "https://serverascode.com//2025/04/12/securing-a-form-on-the-internet.html"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 18:45:54",
       "https://lobste.rs/s/zvmf7v/emacs_dired_mode_as_file_manager"
     ],
@@ -47,6 +47,16 @@
     [
       "Configuring Jujutsu",
       "https://oppi.li/posts/configuring_jujutsu/"
+    ]
+  ],
+  [
+    [
+      "2025-05-23, 18:06:06",
+      "https://lobste.rs/s/0qfyqz/deep_learning_is_no_intelligence"
+    ],
+    [
+      "Deep Learning is no Intelligence",
+      "https://cullmann.dev/posts/deep-learning-is-no-intelligence/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Debugging memory leaks in Postgres, heaptrack edition",
       "https://www.enterprisedb.com/blog/debugging-memory-leaks-postgres-heaptrack-edition"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 14:56:55",
-      "https://lobste.rs/s/ldazmp/claude_i_write_utility_program"
-    ],
-    [
-      "Claude and I write a utility program",
-      "https://blog.plover.com/tech/gpt/claude-xar.html"
     ]
   ],
   [
