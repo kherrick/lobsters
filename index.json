@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-23, 03:50:51",
+      "https://lobste.rs/s/bng5sp/engineering_for_long_term"
+    ],
+    [
+      "Engineering For The Long Term",
+      "https://blog.dshr.org/2024/07/engineering-for-long-term.html"
+    ]
+  ],
+  [
+    [
       "2025-05-23, 00:10:22",
       "https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust"
     ],
@@ -187,16 +197,6 @@
     [
       "Oodle 2.9.14 and Intel 13th/14th gen CPUs",
       "https://fgiesen.wordpress.com/2025/05/21/oodle-2-9-14-and-intel-13th-14th-gen-cpus/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 06:43:04",
-      "https://lobste.rs/s/vo1ue5/libinput_preparing_introduce_lua_based"
-    ],
-    [
-      "libinput Preparing To Introduce A Lua-Based Plugin System For Modifying Devices/Events",
-      "https://www.phoronix.com/news/libinput-Lua-Plugin-System"
     ]
   ],
   [
