@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-23, 00:10:22](https://lobste.rs/s/fkkp0b/fork_union_beyond_openmp_c_rust) - [Fork Union: Beyond OpenMP in C++ and Rust?](https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/)
 * [2025-05-22, 22:16:54](https://lobste.rs/s/jsoz3t/hypersystem_pixel_display_font_for) - [Hypersystem: a pixel display font for Hypermedia Systems](https://deniz.aksimsek.tr/2025/hypersystem/)
 * [2025-05-22, 22:03:28](https://lobste.rs/s/1iq2t2/visualizing_financial_data_with_duckdb) - [Visualizing Financial Data with DuckDB And Plotly](https://www.pgrs.net/2025/05/22/visualizing-financial-data-with-duckdb-and-plotly/)
 * [2025-05-22, 20:01:09](https://lobste.rs/s/zty9jf/async_from_scratch_3_pinned_against_wall) - [Async from scratch 3: Pinned against the wall](https://natkr.com/2025-05-22-async-from-scratch-3/)
@@ -23,7 +24,6 @@
 * [2025-05-22, 00:44:38](https://lobste.rs/s/asm7t8/typeid_lua) - [TypeID in Lua](https://push.cx/typeid-in-lua)
 * [2025-05-21, 23:58:50](https://lobste.rs/s/ih8sng/tales_from_mainframe_modernization) - [Tales From Mainframe Modernization](https://oppi.li/posts/tales_from_mainframe_modernization/)
 * [2025-05-21, 16:59:08](https://lobste.rs/s/m3wugb/my_technological_regrets) - [My Technological Regrets](https://jezenthomas.com/2025/01/my-technological-regrets/)
-* [2025-05-21, 16:18:30](https://lobste.rs/s/nxroup/introduction_bases_obsidian_help) - [Introduction to Bases - Obsidian Help](https://help.obsidian.md/bases)
 * [2025-05-21, 15:33:09](https://lobste.rs/s/eyceuf/vim_vs_kakoune_puzzles) - [Vim vs. Kakoune puzzles](https://strongly-typed-thoughts.net/blog/vim-kakoune-puzzles-2025)
 
 ## [Archives](archives/index.md)
