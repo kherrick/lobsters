@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-24, 16:37:06](https://lobste.rs/s/nwqz0u/tale_testability_sending_non_send_types) - [A Tale of Testability and Sending Non-Send Types in Rust](https://geo-ant.github.io/blog/2025/rust-testability-and-non-send-types/)
 * [2025-05-24, 14:49:14](https://lobste.rs/s/o8zujx/gail_ai_powered_github_issue_labeler) - [gail: An AI-powered GitHub Issue Labeler](https://github.com/atgreen/gail)
 * [2025-05-24, 14:49:10](https://lobste.rs/s/nykh4s/zen_polymorphism) - [The Zen of Polymorphism](https://www.youtube.com/watch?v=hidy15rK2a4)
 * [2025-05-24, 11:54:37](https://lobste.rs/s/xxvqs7/pain_dots) - [Pain in the dots](https://matthew-brett.github.io/pydagogue/pain_in_dots.html)
@@ -24,7 +25,6 @@
 * [2025-05-23, 13:39:51](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend)
 * [2025-05-23, 11:31:18](https://lobste.rs/s/stplv5/announcing_typescript_native_previews) - [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/)
 * [2025-05-23, 11:19:22](https://lobste.rs/s/k7rtlf/copilot_delusion) - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
-* [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
 
 ## [Archives](archives/index.md)
 
