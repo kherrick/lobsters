@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-24, 14:49:14",
+      "https://lobste.rs/s/o8zujx/gail_ai_powered_github_issue_labeler"
+    ],
+    [
+      "gail: An AI-powered GitHub Issue Labeler",
+      "https://github.com/atgreen/gail"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 14:49:10",
+      "https://lobste.rs/s/nykh4s/zen_polymorphism"
+    ],
+    [
+      "The Zen of Polymorphism",
+      "https://www.youtube.com/watch?v=hidy15rK2a4"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 11:54:37",
       "https://lobste.rs/s/xxvqs7/pain_dots"
     ],
@@ -57,16 +77,6 @@
     [
       "rqlite turns 10: Observations from a decade building Distributed Systems",
       "https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 03:41:29",
-      "https://lobste.rs/s/rwxqnr/de_abstraction_conditional_escape"
-    ],
-    [
-      "De-Abstraction and Conditional Escape Analysis",
-      "https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The Copilot Delusion",
       "https://deplet.ing/the-copilot-delusion/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 10:32:09",
-      "https://lobste.rs/s/gnc6gv/freebsd_status_report_2025q1"
-    ],
-    [
-      "FreeBSD Status Report 2025Q1",
-      "https://www.freebsd.org/status/report-2025-01-2025-03/"
     ]
   ],
   [
