@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-24, 19:48:07](https://lobste.rs/s/wzishi/tachy0n_last_0day_jailbreak) - [tachy0n: The last 0day jailbreak](https://blog.siguza.net/tachy0n/)
 * [2025-05-24, 19:28:42](https://lobste.rs/s/muqrhv/automating_your_job_future_ai_exploit) - [Automating Your Job? The Future of AI and Exploit Development](https://www.youtube.com/watch?v=Y1naY3gupRw)
 * [2025-05-24, 19:16:27](https://lobste.rs/s/uvw5lp/how_i_used_o3_find_cve_2025_37899_remote) - [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 19:04:42](https://lobste.rs/s/m26z0f/lamber_functional_scripting_language) - [lamber: functional scripting language compiling to Lambda Calculus](https://github.com/aartaka/lamber)
 * [2025-05-24, 18:52:16](https://lobste.rs/s/w1k7fr/having_your_compile_time_cake_eating_it) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
-* [2025-05-24, 18:18:04](https://lobste.rs/s/lavnkq/who_needs_graph_theory_anyway) - [Who needs graph theory anyway?](https://www.tumblr.com/readevalprint/97467849358/who-needs-graph-theory-anyway)
 * [2025-05-24, 17:54:06](https://lobste.rs/s/worahh/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2025-05-24, 17:51:49](https://lobste.rs/s/xk3zpc/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2025-05-24, 16:37:06](https://lobste.rs/s/nwqz0u/tale_testability_sending_non_send_types) - [A Tale of Testability and Sending Non-Send Types in Rust](https://geo-ant.github.io/blog/2025/rust-testability-and-non-send-types/)

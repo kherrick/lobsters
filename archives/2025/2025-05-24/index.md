@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 19:48:07](https://lobste.rs/s/wzishi/tachy0n_last_0day_jailbreak) - [tachy0n: The last 0day jailbreak](https://blog.siguza.net/tachy0n/)
 * [2025-05-24, 19:28:42](https://lobste.rs/s/muqrhv/automating_your_job_future_ai_exploit) - [Automating Your Job? The Future of AI and Exploit Development](https://www.youtube.com/watch?v=Y1naY3gupRw)
 * [2025-05-24, 19:16:27](https://lobste.rs/s/uvw5lp/how_i_used_o3_find_cve_2025_37899_remote) - [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 19:04:42](https://lobste.rs/s/m26z0f/lamber_functional_scripting_language) - [lamber: functional scripting language compiling to Lambda Calculus](https://github.com/aartaka/lamber)
