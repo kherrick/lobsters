@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-24, 03:41:29](https://lobste.rs/s/rwxqnr/de_abstraction_conditional_escape) - [De-Abstraction and Conditional Escape Analysis](https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis)
 * [2025-05-24, 00:13:36](https://lobste.rs/s/lzbbkl/reverse_engineering_ios_shortcuts) - [Reverse Engineering iOS Shortcuts Deeplinks](https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts)
 * [2025-05-23, 22:58:20](https://lobste.rs/s/4gksax/forgotten_apl_influences_2016) - [Forgotten APL Influences (2016)](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2025-05-23, 21:54:50](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) - [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
@@ -7,7 +8,6 @@
 * [2025-05-23, 19:47:49](https://lobste.rs/s/unlqyd/nixos_25_05_released) - [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
 * [2025-05-23, 19:13:55](https://lobste.rs/s/esdjob/10x_faster_typescript) - [A 10x Faster TypeScript](https://www.youtube.com/watch?v=UJfF3-13aFo)
 * [2025-05-23, 19:04:33](https://lobste.rs/s/fgvbsc/why_algebraic_effects) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
-* [2025-05-23, 18:57:40](https://lobste.rs/s/um5h8u/brief_history_javascript) - [A brief history of JavaScript](https://deno.com/blog/history-of-javascript)
 * [2025-05-23, 18:45:54](https://lobste.rs/s/zvmf7v/emacs_dired_mode_as_file_manager) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:14:57](https://lobste.rs/s/b56ikw/configuring_jujutsu) - [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
 * [2025-05-23, 14:30:58](https://lobste.rs/s/y94ihs/making_postgres_distributed_with) - [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
