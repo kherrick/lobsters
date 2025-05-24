@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-24, 16:37:06",
+      "https://lobste.rs/s/nwqz0u/tale_testability_sending_non_send_types"
+    ],
+    [
+      "A Tale of Testability and Sending Non-Send Types in Rust",
+      "https://geo-ant.github.io/blog/2025/rust-testability-and-non-send-types/"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 14:49:14",
       "https://lobste.rs/s/o8zujx/gail_ai_powered_github_issue_labeler"
     ],
@@ -237,16 +247,6 @@
     [
       "The Copilot Delusion",
       "https://deplet.ing/the-copilot-delusion/"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 13:42:11",
-      "https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess"
-    ],
-    [
-      "The Future of Customer Support is Lies, I Guess",
-      "https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess"
     ]
   ]
 ]
