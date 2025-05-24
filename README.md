@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-24, 10:40:02](https://lobste.rs/s/udnkwz/ide_for_postgresql_vs_code) - [IDE for PostgreSQL in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-24, 07:52:45](https://lobste.rs/s/2v5n2d/kaleidoscopico) - [Kaleidoscopico](https://www.linusakesson.net/scene/kaleidoscopico/index.php)
 * [2025-05-24, 07:04:22](https://lobste.rs/s/r1co0s/why_i_no_longer_have_old_school_cert_on_my) - [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-24, 06:40:35](https://lobste.rs/s/tvi48r/rqlite_turns_10_observations_from_decade) - [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
@@ -7,7 +8,6 @@
 * [2025-05-24, 00:13:36](https://lobste.rs/s/lzbbkl/reverse_engineering_ios_shortcuts) - [Reverse Engineering iOS Shortcuts Deeplinks](https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts)
 * [2025-05-23, 22:58:20](https://lobste.rs/s/4gksax/forgotten_apl_influences_2016) - [Forgotten APL Influences (2016)](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2025-05-23, 21:54:50](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) - [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
-* [2025-05-23, 20:14:00](https://lobste.rs/s/l7hobk/indexing_hackage_glean_vs_hiedb) - [Indexing Hackage: Glean vs. hiedb](https://simonmar.github.io/posts/2025-05-22-Glean-Haskell.html)
 * [2025-05-23, 19:47:49](https://lobste.rs/s/unlqyd/nixos_25_05_released) - [NixOS 25.05 released](https://nixos.org/blog/announcements/2025/nixos-2505/)
 * [2025-05-23, 19:13:55](https://lobste.rs/s/esdjob/10x_faster_typescript) - [A 10x Faster TypeScript](https://www.youtube.com/watch?v=UJfF3-13aFo)
 * [2025-05-23, 19:04:33](https://lobste.rs/s/fgvbsc/why_algebraic_effects) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
