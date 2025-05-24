@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-24, 19:04:42",
+      "https://lobste.rs/s/m26z0f/lamber_functional_scripting_language"
+    ],
+    [
+      "lamber: functional scripting language compiling to Lambda Calculus",
+      "https://github.com/aartaka/lamber"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 18:52:16",
       "https://lobste.rs/s/w1k7fr/having_your_compile_time_cake_eating_it"
     ],
@@ -57,16 +67,6 @@
     [
       "gail: An AI-powered GitHub Issue Labeler",
       "https://github.com/atgreen/gail"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 14:49:10",
-      "https://lobste.rs/s/nykh4s/zen_polymorphism"
-    ],
-    [
-      "The Zen of Polymorphism",
-      "https://www.youtube.com/watch?v=hidy15rK2a4"
     ]
   ],
   [
