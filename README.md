@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-24, 14:49:14](https://lobste.rs/s/o8zujx/gail_ai_powered_github_issue_labeler) - [gail: An AI-powered GitHub Issue Labeler](https://github.com/atgreen/gail)
+* [2025-05-24, 14:49:10](https://lobste.rs/s/nykh4s/zen_polymorphism) - [The Zen of Polymorphism](https://www.youtube.com/watch?v=hidy15rK2a4)
 * [2025-05-24, 11:54:37](https://lobste.rs/s/xxvqs7/pain_dots) - [Pain in the dots](https://matthew-brett.github.io/pydagogue/pain_in_dots.html)
 * [2025-05-24, 11:43:52](https://lobste.rs/s/ggrjtg/sandboxing_ai_tools_with_guix_containers) - [Sandboxing AI Tools with Guix Containers](https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html)
 * [2025-05-24, 10:40:02](https://lobste.rs/s/udnkwz/ide_for_postgresql_vs_code) - [IDE for PostgreSQL in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 * [2025-05-24, 07:52:45](https://lobste.rs/s/2v5n2d/kaleidoscopico) - [Kaleidoscopico](https://www.linusakesson.net/scene/kaleidoscopico/index.php)
 * [2025-05-24, 07:04:22](https://lobste.rs/s/r1co0s/why_i_no_longer_have_old_school_cert_on_my) - [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 * [2025-05-24, 06:40:35](https://lobste.rs/s/tvi48r/rqlite_turns_10_observations_from_decade) - [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
-* [2025-05-24, 03:41:29](https://lobste.rs/s/rwxqnr/de_abstraction_conditional_escape) - [De-Abstraction and Conditional Escape Analysis](https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis)
 * [2025-05-24, 00:13:36](https://lobste.rs/s/lzbbkl/reverse_engineering_ios_shortcuts) - [Reverse Engineering iOS Shortcuts Deeplinks](https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts)
 * [2025-05-23, 22:58:20](https://lobste.rs/s/4gksax/forgotten_apl_influences_2016) - [Forgotten APL Influences (2016)](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2025-05-23, 21:54:50](https://lobste.rs/s/eo8eww/gcc_compiler_backend_can_now_fully) - [The GCC compiler backend can now fully bootstrap the Rust compiler](https://old.reddit.com/r/rust/comments/1ktph3c/media_the_gcc_compiler_backend_can_now_fully)
@@ -23,7 +24,6 @@
 * [2025-05-23, 13:39:51](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ajfsx/what_are_you_doing_this_weekend)
 * [2025-05-23, 11:31:18](https://lobste.rs/s/stplv5/announcing_typescript_native_previews) - [Announcing TypeScript Native Previews](https://devblogs.microsoft.com/typescript/announcing-typescript-native-previews/)
 * [2025-05-23, 11:19:22](https://lobste.rs/s/k7rtlf/copilot_delusion) - [The Copilot Delusion](https://deplet.ing/the-copilot-delusion/)
-* [2025-05-23, 10:32:09](https://lobste.rs/s/gnc6gv/freebsd_status_report_2025q1) - [FreeBSD Status Report 2025Q1](https://www.freebsd.org/status/report-2025-01-2025-03/)
 * [2025-05-22, 13:42:11](https://lobste.rs/s/4xjsp2/future_customer_support_is_lies_i_guess) - [The Future of Customer Support is Lies, I Guess](https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess)
 
 ## [Archives](archives/index.md)
