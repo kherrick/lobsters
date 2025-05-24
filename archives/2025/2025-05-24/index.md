@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-24](index.md)
 
+* [2025-05-24, 22:15:31](https://lobste.rs/s/g8nnd1/remote_prompt_injection_gitlab_duo_leads) - [Remote Prompt Injection in GitLab Duo Leads to Source Code Theft](https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo)
 * [2025-05-24, 20:52:09](https://lobste.rs/s/2adp0p/there_is_no_diffie_hellman_elliptic_curve) - [There is no Diffie-Hellman but Elliptic Curve Diffie-Hellman](https://keymaterial.net/2025/05/23/there-is-no-diffie-hellman-but-elliptic-curve-diffie-hellman/)
 * [2025-05-24, 20:45:00](https://lobste.rs/s/qjol4n/captchas_don_t_work_any_more_for_ticket) - [CAPTCHAs don't work any more for ticket sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
 * [2025-05-24, 19:48:07](https://lobste.rs/s/wzishi/tachy0n_last_0day_jailbreak) - [tachy0n: The last 0day jailbreak](https://blog.siguza.net/tachy0n/)
