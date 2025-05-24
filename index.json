@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-24, 18:52:16",
+      "https://lobste.rs/s/w1k7fr/having_your_compile_time_cake_eating_it"
+    ],
+    [
+      "Having your compile-time cake and eating it too",
+      "https://0x44.xyz/blog/comptime-1"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 18:18:04",
       "https://lobste.rs/s/lavnkq/who_needs_graph_theory_anyway"
     ],
@@ -147,16 +157,6 @@
     [
       "NixOS 25.05 released",
       "https://nixos.org/blog/announcements/2025/nixos-2505/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 19:13:55",
-      "https://lobste.rs/s/esdjob/10x_faster_typescript"
-    ],
-    [
-      "A 10x Faster TypeScript",
-      "https://www.youtube.com/watch?v=UJfF3-13aFo"
     ]
   ],
   [
