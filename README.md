@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-24, 06:40:35](https://lobste.rs/s/tvi48r/rqlite_turns_10_observations_from_decade) - [rqlite turns 10: Observations from a decade building Distributed Systems](https://philipotoole.com/rqlite-turns-10-lessons-from-a-decade-of-building-distributed-systems/)
 * [2025-05-24, 03:41:29](https://lobste.rs/s/rwxqnr/de_abstraction_conditional_escape) - [De-Abstraction and Conditional Escape Analysis](https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis)
 * [2025-05-24, 00:13:36](https://lobste.rs/s/lzbbkl/reverse_engineering_ios_shortcuts) - [Reverse Engineering iOS Shortcuts Deeplinks](https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts)
 * [2025-05-23, 22:58:20](https://lobste.rs/s/4gksax/forgotten_apl_influences_2016) - [Forgotten APL Influences (2016)](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
@@ -10,7 +11,6 @@
 * [2025-05-23, 19:04:33](https://lobste.rs/s/fgvbsc/why_algebraic_effects) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-23, 18:45:54](https://lobste.rs/s/zvmf7v/emacs_dired_mode_as_file_manager) - [Emacs dired-mode as a file manager](https://lynn.sh/guix-emacs-file-manager.html)
 * [2025-05-23, 18:14:57](https://lobste.rs/s/b56ikw/configuring_jujutsu) - [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
-* [2025-05-23, 18:06:06](https://lobste.rs/s/0qfyqz/deep_learning_is_no_intelligence) - [Deep Learning is no Intelligence](https://cullmann.dev/posts/deep-learning-is-no-intelligence/)
 * [2025-05-23, 14:30:58](https://lobste.rs/s/y94ihs/making_postgres_distributed_with) - [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
 * [2025-05-23, 14:30:21](https://lobste.rs/s/faowua/spaced_repetition_systems_have_gotten) - [Spaced Repetition Systems Have Gotten Way Better](https://domenic.me/fsrs/)
 * [2025-05-23, 14:29:16](https://lobste.rs/s/jzntk8/shell_its_problems_handling_whitespace) - [The shell and its problems in handling of whitespace (2023)](https://blog.plover.com/Unix/whitespace.html)
