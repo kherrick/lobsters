@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-24, 11:54:37",
+      "https://lobste.rs/s/xxvqs7/pain_dots"
+    ],
+    [
+      "Pain in the dots",
+      "https://matthew-brett.github.io/pydagogue/pain_in_dots.html"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 11:43:52",
       "https://lobste.rs/s/ggrjtg/sandboxing_ai_tools_with_guix_containers"
     ],
@@ -57,6 +67,16 @@
     [
       "De-Abstraction and Conditional Escape Analysis",
       "https://github.com/dotnet/runtime/blob/main/docs/design/coreclr/jit/DeabstractionAndConditionalEscapeAnalysis.md#de-abstraction-and-conditional-escape-analysis"
+    ]
+  ],
+  [
+    [
+      "2025-05-24, 00:13:36",
+      "https://lobste.rs/s/lzbbkl/reverse_engineering_ios_shortcuts"
+    ],
+    [
+      "Reverse Engineering iOS Shortcuts Deeplinks",
+      "https://blog.alexbeals.com/posts/reverse-engineering-ios-deeplinking-for-shortcuts"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-23, 14:04:03",
-      "https://lobste.rs/s/gdmtsf/collaborative_text_editing_without"
-    ],
-    [
-      "Collaborative Text Editing without CRDTs or OT",
-      "https://mattweidner.com/2025/05/21/text-without-crdts.html"
-    ]
-  ],
-  [
-    [
       "2025-05-23, 13:55:13",
       "https://lobste.rs/s/njfzwx/future_flatpak"
     ],
@@ -237,16 +247,6 @@
     [
       "The Future of Customer Support is Lies, I Guess",
       "https://aphyr.com/posts/387-the-future-of-customer-support-is-lies-i-guess"
-    ]
-  ],
-  [
-    [
-      "2025-05-22, 11:56:47",
-      "https://lobste.rs/s/j3mzif/making_rav1d_video_decoder_1_faster"
-    ],
-    [
-      "Making the rav1d Video Decoder 1% Faster",
-      "https://ohadravid.github.io/posts/2025-05-rav1d-faster/"
     ]
   ]
 ]
