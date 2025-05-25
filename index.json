@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-25, 04:34:13",
+      "https://lobste.rs/s/dnm7jv/concepts_vs_type_traits"
+    ],
+    [
+      "Concepts vs type traits",
+      "https://akrzemi1.wordpress.com/2025/05/24/concepts-vs-type-traits/"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 03:21:07",
       "https://lobste.rs/s/juxpci/goal_embeddable_scripting_array"
     ],
@@ -227,16 +237,6 @@
     [
       "Making Postgres distributed with FoundationDB",
       "https://fabianlindfors.se/blog/making-postgres-distributed/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 14:30:21",
-      "https://lobste.rs/s/faowua/spaced_repetition_systems_have_gotten"
-    ],
-    [
-      "Spaced Repetition Systems Have Gotten Way Better",
-      "https://domenic.me/fsrs/"
     ]
   ],
   [
