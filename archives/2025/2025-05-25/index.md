@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 13:22:59](https://lobste.rs/s/ipqjvb/how_guarantee_your_red_team_will_fail) - [How to Guarantee Your Red Team Will Fail](https://0xda.de/garden/guarantee-red-team-failure/)
 * [2025-05-25, 12:36:13](https://lobste.rs/s/mkpgoe/on_file_formats) - [On File Formats](https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS)
 * [2025-05-25, 12:33:37](https://lobste.rs/s/qcjjqo/programming_on_34_keys_2022) - [Programming On 34 Keys (2022)](https://oppi.li/posts/programming_on_34_keys/)
 * [2025-05-25, 11:24:35](https://lobste.rs/s/jpxyx9/systematic_design_multi_join_group_by) - [Systematic design of multi-join GROUP BY queries](https://kb.databasedesignbook.com/posts/systematic-design-of-join-queries/)
