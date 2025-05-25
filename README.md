@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-25, 06:06:46](https://lobste.rs/s/20kqik/bypassing_mte_with_cve_2025_0072) - [Bypassing MTE with CVE-2025-0072](https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/)
 * [2025-05-25, 05:01:29](https://lobste.rs/s/gc36ej/reinvent_wheel) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-25, 04:58:35](https://lobste.rs/s/tsqrcl/fedora_43_cleared_ship_with_wayland_only) - [Fedora 43 Cleared To Ship With Wayland-Only GNOME](https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME)
 * [2025-05-25, 04:34:13](https://lobste.rs/s/dnm7jv/concepts_vs_type_traits) - [Concepts vs type traits](https://akrzemi1.wordpress.com/2025/05/24/concepts-vs-type-traits/)
@@ -24,7 +25,6 @@
 * [2025-05-23, 19:04:33](https://lobste.rs/s/fgvbsc/why_algebraic_effects) - [Why Algebraic Effects?](https://antelang.org/blog/why_effects/)
 * [2025-05-23, 18:14:57](https://lobste.rs/s/b56ikw/configuring_jujutsu) - [Configuring Jujutsu](https://oppi.li/posts/configuring_jujutsu/)
 * [2025-05-23, 14:30:58](https://lobste.rs/s/y94ihs/making_postgres_distributed_with) - [Making Postgres distributed with FoundationDB](https://fabianlindfors.se/blog/making-postgres-distributed/)
-* [2025-05-23, 13:55:13](https://lobste.rs/s/njfzwx/future_flatpak) - [The future of Flatpak](https://lwn.net/Articles/1020571/)
 
 ## [Archives](archives/index.md)
 
