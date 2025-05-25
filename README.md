@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-25, 19:50:10](https://lobste.rs/s/qthh5s/how_i_replaced_next_js_for_my_app_with_hmpl) - [How I Replaced Next.js for My App with HMPL.js](https://dev.to/hmpljs/i-replaced-nextjs-for-my-application-with-this-templating-language-2g74)
 * [2025-05-25, 18:52:44](https://lobste.rs/s/jovc75/plwm_x11_window_manager_written_prolog) - [plwm: An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 15:51:04](https://lobste.rs/s/9wauzr/writing_your_own_cups_printer_driver_100) - [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 13:22:59](https://lobste.rs/s/ipqjvb/how_guarantee_your_red_team_will_fail) - [How to Guarantee Your Red Team Will Fail](https://0xda.de/garden/guarantee-red-team-failure/)
@@ -24,7 +25,6 @@
 * [2025-05-24, 17:51:49](https://lobste.rs/s/xk3zpc/building_interactive_web_pages_with) - [Building interactive web pages with Guile Hoot](https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html)
 * [2025-05-24, 14:49:14](https://lobste.rs/s/o8zujx/gail_ai_powered_github_issue_labeler) - [gail: An AI-powered GitHub Issue Labeler](https://github.com/atgreen/gail)
 * [2025-05-24, 11:43:52](https://lobste.rs/s/ggrjtg/sandboxing_ai_tools_with_guix_containers) - [Sandboxing AI Tools with Guix Containers](https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html)
-* [2025-05-24, 07:04:22](https://lobste.rs/s/r1co0s/why_i_no_longer_have_old_school_cert_on_my) - [Why I no longer have an old-school cert on my https site](https://rachelbythebay.com/w/2025/05/22/ssl/)
 
 ## [Archives](archives/index.md)
 
