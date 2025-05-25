@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-25, 05:01:29",
+      "https://lobste.rs/s/gc36ej/reinvent_wheel"
+    ],
+    [
+      "Reinvent the Wheel",
+      "https://endler.dev/2025/reinvent-the-wheel/"
+    ]
+  ],
+  [
+    [
+      "2025-05-25, 04:58:35",
+      "https://lobste.rs/s/tsqrcl/fedora_43_cleared_ship_with_wayland_only"
+    ],
+    [
+      "Fedora 43 Cleared To Ship With Wayland-Only GNOME",
+      "https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 04:34:13",
       "https://lobste.rs/s/dnm7jv/concepts_vs_type_traits"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-05-24, 19:04:42",
-      "https://lobste.rs/s/m26z0f/lamber_functional_scripting_language"
-    ],
-    [
-      "lamber: functional scripting language compiling to Lambda Calculus",
-      "https://github.com/aartaka/lamber"
-    ]
-  ],
-  [
-    [
       "2025-05-24, 18:52:16",
       "https://lobste.rs/s/w1k7fr/having_your_compile_time_cake_eating_it"
     ],
@@ -127,16 +137,6 @@
     [
       "Building interactive web pages with Guile Hoot",
       "https://spritely.institute/news/building-interactive-web-pages-with-guile-hoot.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 16:37:06",
-      "https://lobste.rs/s/nwqz0u/tale_testability_sending_non_send_types"
-    ],
-    [
-      "A Tale of Testability and Sending Non-Send Types in Rust",
-      "https://geo-ant.github.io/blog/2025/rust-testability-and-non-send-types/"
     ]
   ],
   [
