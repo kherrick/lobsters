@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 08:51:38](https://lobste.rs/s/suuuaw/what_works_doesn_t_selling_formal_methods) - [What Works (and Doesn't) Selling Formal Methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
 * [2025-05-25, 08:37:29](https://lobste.rs/s/ymb7hl/from_openapi_spec_mcp_how_we_built_xata_s) - [From OpenAPI spec to MCP: how we built Xata's MCP server](https://xata.io/blog/built-xata-mcp-server)
 * [2025-05-25, 06:45:41](https://lobste.rs/s/dklehn/clojure_mcp) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-25, 06:06:46](https://lobste.rs/s/20kqik/bypassing_mte_with_cve_2025_0072) - [Bypassing MTE with CVE-2025-0072](https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/)
