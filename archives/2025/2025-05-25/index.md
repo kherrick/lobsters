@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 21:08:03](https://lobste.rs/s/bn9qeo/car_physics_for_games) - [Car Physics for Games](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 * [2025-05-25, 20:22:00](https://lobste.rs/s/7fe9er/windows_registry_adventure_7_attack) - [The Windows Registry Adventure #7: Attack surface analysis](https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html)
 * [2025-05-25, 19:50:10](https://lobste.rs/s/qthh5s/how_i_replaced_next_js_for_my_app_with_hmpl) - [How I Replaced Next.js for My App with HMPL.js](https://dev.to/hmpljs/i-replaced-nextjs-for-my-application-with-this-templating-language-2g74)
 * [2025-05-25, 18:52:44](https://lobste.rs/s/jovc75/plwm_x11_window_manager_written_prolog) - [plwm: An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
