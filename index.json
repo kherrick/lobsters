@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-25, 10:21:45",
+      "https://lobste.rs/s/szpyf0/mathpad_mathematical_keypad_for"
+    ],
+    [
+      "Mathpad: A mathematical keypad for students and professionals",
+      "https://github.com/Summa-Cogni/Mathpad"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 08:51:38",
       "https://lobste.rs/s/suuuaw/what_works_doesn_t_selling_formal_methods"
     ],
@@ -27,16 +37,6 @@
     [
       "Clojure MCP",
       "https://github.com/bhauman/clojure-mcp"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 06:06:46",
-      "https://lobste.rs/s/20kqik/bypassing_mte_with_cve_2025_0072"
-    ],
-    [
-      "Bypassing MTE with CVE-2025-0072",
-      "https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/"
     ]
   ],
   [
