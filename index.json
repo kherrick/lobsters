@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-25, 19:50:10",
+      "https://lobste.rs/s/qthh5s/how_i_replaced_next_js_for_my_app_with_hmpl"
+    ],
+    [
+      "How I Replaced Next.js for My App with HMPL.js",
+      "https://dev.to/hmpljs/i-replaced-nextjs-for-my-application-with-this-templating-language-2g74"
+    ]
+  ],
+  [
+    [
       "2025-05-25, 18:52:44",
       "https://lobste.rs/s/jovc75/plwm_x11_window_manager_written_prolog"
     ],
@@ -237,16 +247,6 @@
     [
       "Sandboxing AI Tools with Guix Containers",
       "https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-24, 07:04:22",
-      "https://lobste.rs/s/r1co0s/why_i_no_longer_have_old_school_cert_on_my"
-    ],
-    [
-      "Why I no longer have an old-school cert on my https site",
-      "https://rachelbythebay.com/w/2025/05/22/ssl/"
     ]
   ]
 ]
