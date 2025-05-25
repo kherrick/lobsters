@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-25](index.md)
 
+* [2025-05-25, 08:37:29](https://lobste.rs/s/ymb7hl/from_openapi_spec_mcp_how_we_built_xata_s) - [From OpenAPI spec to MCP: how we built Xata's MCP server](https://xata.io/blog/built-xata-mcp-server)
 * [2025-05-25, 06:45:41](https://lobste.rs/s/dklehn/clojure_mcp) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-25, 06:06:46](https://lobste.rs/s/20kqik/bypassing_mte_with_cve_2025_0072) - [Bypassing MTE with CVE-2025-0072](https://github.blog/security/vulnerability-research/bypassing-mte-with-cve-2025-0072/)
 * [2025-05-25, 05:01:29](https://lobste.rs/s/gc36ej/reinvent_wheel) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
