@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-05-24, 22:15:31",
+      "https://lobste.rs/s/g8nnd1/remote_prompt_injection_gitlab_duo_leads"
+    ],
+    [
+      "Remote Prompt Injection in GitLab Duo Leads to Source Code Theft",
+      "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo"
+    ]
+  ],
+  [
+    [
       "2025-05-24, 20:52:09",
       "https://lobste.rs/s/2adp0p/there_is_no_diffie_hellman_elliptic_curve"
     ],
@@ -217,16 +227,6 @@
     [
       "NixOS 25.05 released",
       "https://nixos.org/blog/announcements/2025/nixos-2505/"
-    ]
-  ],
-  [
-    [
-      "2025-05-23, 19:04:33",
-      "https://lobste.rs/s/fgvbsc/why_algebraic_effects"
-    ],
-    [
-      "Why Algebraic Effects?",
-      "https://antelang.org/blog/why_effects/"
     ]
   ],
   [
