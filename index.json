@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-26, 04:29:55",
+      "https://lobste.rs/s/oygfix/rocknix_is_immutable_linux_distribution"
+    ],
+    [
+      "ROCKNIX is an immutable Linux distribution for handheld gaming devices",
+      "https://rocknix.org/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 03:40:31",
       "https://lobste.rs/s/dy0ljq/smarter_simpler_firefox_address_bar"
     ],
@@ -177,16 +187,6 @@
     [
       "Fedora 43 Cleared To Ship With Wayland-Only GNOME",
       "https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 03:21:07",
-      "https://lobste.rs/s/juxpci/goal_embeddable_scripting_array"
-    ],
-    [
-      "goal - embeddable scripting array language",
-      "https://codeberg.org/anaseto/goal"
     ]
   ],
   [
