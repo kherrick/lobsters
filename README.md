@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-26, 01:47:41](https://lobste.rs/s/v2dhjn/art_propagator_2008) - [Art of the Propagator (2008)](https://dspace.mit.edu/bitstream/handle/1721.1/44215/MIT-CSAIL-TR-2009-002.pdf)
 * [2025-05-25, 23:44:00](https://lobste.rs/s/baogys/design_pressure_invisible_hand_shapes) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 * [2025-05-25, 21:08:03](https://lobste.rs/s/bn9qeo/car_physics_for_games) - [Car Physics for Games](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 * [2025-05-25, 20:22:00](https://lobste.rs/s/7fe9er/windows_registry_adventure_7_attack) - [The Windows Registry Adventure #7: Attack surface analysis](https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html)
@@ -24,7 +25,6 @@
 * [2025-05-24, 19:16:27](https://lobste.rs/s/uvw5lp/how_i_used_o3_find_cve_2025_37899_remote) - [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 18:52:16](https://lobste.rs/s/w1k7fr/having_your_compile_time_cake_eating_it) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 * [2025-05-24, 17:54:06](https://lobste.rs/s/worahh/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
-* [2025-05-24, 11:43:52](https://lobste.rs/s/ggrjtg/sandboxing_ai_tools_with_guix_containers) - [Sandboxing AI Tools with Guix Containers](https://200ok.ch/posts/2025-05-23_sandboxing_ai_tools:_how_guix_containers_keep_your_host_safe_while_empowering_llms.html)
 
 ## [Archives](archives/index.md)
 
