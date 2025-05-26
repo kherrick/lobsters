@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-26, 03:40:31](https://lobste.rs/s/dy0ljq/smarter_simpler_firefox_address_bar) - [A smarter, simpler Firefox address bar](https://blog.mozilla.org/en/firefox/address-bar/)
 * [2025-05-26, 01:47:41](https://lobste.rs/s/v2dhjn/art_propagator_2008) - [Art of the Propagator (2008)](https://dspace.mit.edu/bitstream/handle/1721.1/44215/MIT-CSAIL-TR-2009-002.pdf)
 * [2025-05-25, 23:44:00](https://lobste.rs/s/baogys/design_pressure_invisible_hand_shapes) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 * [2025-05-25, 21:08:03](https://lobste.rs/s/bn9qeo/car_physics_for_games) - [Car Physics for Games](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
@@ -21,7 +22,6 @@
 * [2025-05-25, 01:43:14](https://lobste.rs/s/ozdlss/hierarchical_hypermedia_world_hyper_g) - [The hierarchical hypermedia world of Hyper-G](http://oldvcr.blogspot.com/2025/05/prior-art-dept-hierarchical-hypermedia.html)
 * [2025-05-25, 00:04:48](https://lobste.rs/s/6sidoz/domain_theory_lecture_notes) - [Domain Theory Lecture Notes](https://liamoc.net/forest/dt-001Y/index.xml)
 * [2025-05-24, 20:45:00](https://lobste.rs/s/qjol4n/captchas_don_t_work_any_more_for_ticket) - [CAPTCHAs don't work any more for ticket sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
-* [2025-05-24, 19:48:07](https://lobste.rs/s/wzishi/tachy0n_last_0day_jailbreak) - [tachy0n: The last 0day jailbreak](https://blog.siguza.net/tachy0n/)
 * [2025-05-24, 19:16:27](https://lobste.rs/s/uvw5lp/how_i_used_o3_find_cve_2025_37899_remote) - [How I used o3 to find CVE-2025-37899, a remote zeroday vulnerability in the Linux kernel’s SMB implementation](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/)
 * [2025-05-24, 18:52:16](https://lobste.rs/s/w1k7fr/having_your_compile_time_cake_eating_it) - [Having your compile-time cake and eating it too](https://0x44.xyz/blog/comptime-1)
 * [2025-05-24, 17:54:06](https://lobste.rs/s/worahh/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
