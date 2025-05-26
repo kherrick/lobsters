@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-26, 15:51:00",
+      "https://lobste.rs/s/9u7bsl/scheming_mise_en_abime_bqn"
+    ],
+    [
+      "Scheming a mise-en-abîme in BQN",
+      "https://panadestein.github.io/blog/posts/si.html#fnr.2"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 13:31:00",
       "https://lobste.rs/s/ozianb/what_are_you_doing_this_week"
     ],
@@ -217,16 +227,6 @@
     [
       "Programming On 34 Keys (2022)",
       "https://oppi.li/posts/programming_on_34_keys/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 11:24:35",
-      "https://lobste.rs/s/jpxyx9/systematic_design_multi_join_group_by"
-    ],
-    [
-      "Systematic design of multi-join GROUP BY queries",
-      "https://kb.databasedesignbook.com/posts/systematic-design-of-join-queries/"
     ]
   ],
   [
