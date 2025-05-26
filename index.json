@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-26, 12:35:40",
+      "https://lobste.rs/s/7a2qen/using_git_as_s3"
+    ],
+    [
+      "Using Git as S3",
+      "https://kristun.dev/posts/git-as-s3/"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 12:07:02",
       "https://lobste.rs/s/uvwait/turning_portal_2_into_web_server"
     ],
@@ -157,16 +167,6 @@
     [
       "Writing your own CUPS printer driver in 100 lines of Python",
       "https://behind.pretix.eu/2018/01/20/cups-driver/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 13:22:59",
-      "https://lobste.rs/s/ipqjvb/how_guarantee_your_red_team_will_fail"
-    ],
-    [
-      "How to Guarantee Your Red Team Will Fail",
-      "https://0xda.de/garden/guarantee-red-team-failure/"
     ]
   ],
   [
