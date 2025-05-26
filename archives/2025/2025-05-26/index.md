@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 22:14:45](https://lobste.rs/s/se1hjr/amoeba_distributed_operating_system_for) - [Amoeba: a distributed operating system for the 1990s (1990)](https://www.cs.cornell.edu/home/rvr/papers/Amoeba1990s.pdf)
+* [2025-05-26, 22:13:55](https://lobste.rs/s/3qy3uw/non_pointless_software_projects_for_new) - [Non-Pointless Software Projects for New Devs in the LLM Age](https://cprimozic.net/blog/non-pointless-software-projects-for-new-devs-in-the-llm-age/)
 * [2025-05-26, 21:05:17](https://lobste.rs/s/hxi9jj/access_control_syntax) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
 * [2025-05-26, 20:10:44](https://lobste.rs/s/zoztf9/acronis_true_image_costs_performance) - [Acronis True Image Costs Performance When Not Used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
 * [2025-05-26, 20:10:10](https://lobste.rs/s/ltldco/ash_hybrid_between_getopts_sh_c) - [ash: a hybrid between getopts and 'sh -c'](https://github.com/avamsi/ash)
