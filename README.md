@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-26, 20:10:44](https://lobste.rs/s/zoztf9/acronis_true_image_costs_performance) - [Acronis True Image Costs Performance When Not Used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
+* [2025-05-26, 20:10:10](https://lobste.rs/s/ltldco/ash_hybrid_between_getopts_sh_c) - [ash: a hybrid between getopts and 'sh -c'](https://github.com/avamsi/ash)
+* [2025-05-26, 20:06:15](https://lobste.rs/s/myqawl/jjui_text_user_interface_tui_for_jujutsu) - [jjui: a text user interface (TUI) for the Jujutsu version control system](https://github.com/idursun/jjui)
 * [2025-05-26, 18:27:09](https://lobste.rs/s/w7ezu6/single_process_multiple_interpreters_no) - [Single process, multiple interpreters, no GIL contention - pre-Python3.12](https://basisrobotics.tech/2025/05/26/python/)
 * [2025-05-26, 17:37:25](https://lobste.rs/s/l1gebi/isolates_compressed_references_more) - [Isolates and compressed references: more flexible and efficient memory management for GraalVM](https://medium.com/graalvm/isolates-and-compressed-references-more-flexible-and-efficient-memory-management-for-graalvm-a044cc50b67e)
 * [2025-05-26, 15:51:00](https://lobste.rs/s/9u7bsl/scheming_mise_en_abime_bqn) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html#fnr.2)
@@ -11,7 +14,6 @@
 * [2025-05-26, 12:07:02](https://lobste.rs/s/uvwait/turning_portal_2_into_web_server) - [Turning Portal 2 into a Web Server](https://www.youtube.com/watch?v=-v5vCLLsqbA)
 * [2025-05-26, 11:57:18](https://lobste.rs/s/xzieif/asserting_implications) - [Asserting Implications](https://tigerbeetle.com/blog/2025-05-26-asserting-implications/)
 * [2025-05-26, 10:52:34](https://lobste.rs/s/5anwqo/html_is_like_camera) - [HTML is like a camera](https://robbowen.digital/wrote-about/html-is-like-a-camera/)
-* [2025-05-26, 10:39:21](https://lobste.rs/s/i3hc1p/high_level_group_on_access_data_for) - [High-Level Group on Access to Data for Effective Law Enforcement](https://edri.org/our-work/high-level-group-going-dark-outcome-a-mission-failure/)
 * [2025-05-26, 10:10:04](https://lobste.rs/s/9qt9tf/type_level_bounded_recursion_rust) - [Type-level Bounded Recursion in Rust](https://catgirl.ai/log/typelevel-bounded-recursion/)
 * [2025-05-26, 09:29:23](https://lobste.rs/s/rprjch/you_can_choose_tools_make_you_happy) - [You Can Choose Tools That Make You Happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
 * [2025-05-26, 08:51:58](https://lobste.rs/s/1fu1tm/i_made_font) - [I made a font](https://blog.chay.dev/i-made-a-font/)
@@ -21,9 +23,7 @@
 * [2025-05-26, 01:47:41](https://lobste.rs/s/v2dhjn/art_propagator_2008) - [Art of the Propagator (2008)](https://dspace.mit.edu/bitstream/handle/1721.1/44215/MIT-CSAIL-TR-2009-002.pdf)
 * [2025-05-25, 21:08:03](https://lobste.rs/s/bn9qeo/car_physics_for_games) - [Car Physics for Games](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
 * [2025-05-25, 18:52:44](https://lobste.rs/s/jovc75/plwm_x11_window_manager_written_prolog) - [plwm: An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
-* [2025-05-25, 15:51:04](https://lobste.rs/s/9wauzr/writing_your_own_cups_printer_driver_100) - [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 12:36:13](https://lobste.rs/s/mkpgoe/on_file_formats) - [On File Formats](https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS)
-* [2025-05-25, 12:33:37](https://lobste.rs/s/qcjjqo/programming_on_34_keys_2022) - [Programming On 34 Keys (2022)](https://oppi.li/posts/programming_on_34_keys/)
 * [2025-05-25, 08:51:38](https://lobste.rs/s/suuuaw/what_works_doesn_t_selling_formal_methods) - [What Works (and Doesn't) Selling Formal Methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
 
 ## [Archives](archives/index.md)

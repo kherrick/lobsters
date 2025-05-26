@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 20:10:44](https://lobste.rs/s/zoztf9/acronis_true_image_costs_performance) - [Acronis True Image Costs Performance When Not Used](https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/)
+* [2025-05-26, 20:10:10](https://lobste.rs/s/ltldco/ash_hybrid_between_getopts_sh_c) - [ash: a hybrid between getopts and 'sh -c'](https://github.com/avamsi/ash)
+* [2025-05-26, 20:06:15](https://lobste.rs/s/myqawl/jjui_text_user_interface_tui_for_jujutsu) - [jjui: a text user interface (TUI) for the Jujutsu version control system](https://github.com/idursun/jjui)
 * [2025-05-26, 18:27:09](https://lobste.rs/s/w7ezu6/single_process_multiple_interpreters_no) - [Single process, multiple interpreters, no GIL contention - pre-Python3.12](https://basisrobotics.tech/2025/05/26/python/)
 * [2025-05-26, 17:37:25](https://lobste.rs/s/l1gebi/isolates_compressed_references_more) - [Isolates and compressed references: more flexible and efficient memory management for GraalVM](https://medium.com/graalvm/isolates-and-compressed-references-more-flexible-and-efficient-memory-management-for-graalvm-a044cc50b67e)
 * [2025-05-26, 15:51:00](https://lobste.rs/s/9u7bsl/scheming_mise_en_abime_bqn) - [Scheming a mise-en-abîme in BQN](https://panadestein.github.io/blog/posts/si.html#fnr.2)
