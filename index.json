@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-26, 20:10:44",
+      "https://lobste.rs/s/zoztf9/acronis_true_image_costs_performance"
+    ],
+    [
+      "Acronis True Image Costs Performance When Not Used",
+      "https://randomascii.wordpress.com/2025/05/26/acronis-true-image-costs-performance-when-not-used/"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 20:10:10",
+      "https://lobste.rs/s/ltldco/ash_hybrid_between_getopts_sh_c"
+    ],
+    [
+      "ash: a hybrid between getopts and 'sh -c'",
+      "https://github.com/avamsi/ash"
+    ]
+  ],
+  [
+    [
+      "2025-05-26, 20:06:15",
+      "https://lobste.rs/s/myqawl/jjui_text_user_interface_tui_for_jujutsu"
+    ],
+    [
+      "jjui: a text user interface (TUI) for the Jujutsu version control system",
+      "https://github.com/idursun/jjui"
+    ]
+  ],
+  [
+    [
       "2025-05-26, 18:27:09",
       "https://lobste.rs/s/w7ezu6/single_process_multiple_interpreters_no"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-05-26, 10:39:21",
-      "https://lobste.rs/s/i3hc1p/high_level_group_on_access_data_for"
-    ],
-    [
-      "High-Level Group on Access to Data for Effective Law Enforcement",
-      "https://edri.org/our-work/high-level-group-going-dark-outcome-a-mission-failure/"
-    ]
-  ],
-  [
-    [
       "2025-05-26, 10:10:04",
       "https://lobste.rs/s/9qt9tf/type_level_bounded_recursion_rust"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-05-25, 15:51:04",
-      "https://lobste.rs/s/9wauzr/writing_your_own_cups_printer_driver_100"
-    ],
-    [
-      "Writing your own CUPS printer driver in 100 lines of Python",
-      "https://behind.pretix.eu/2018/01/20/cups-driver/"
-    ]
-  ],
-  [
-    [
       "2025-05-25, 12:36:13",
       "https://lobste.rs/s/mkpgoe/on_file_formats"
     ],
     [
       "On File Formats",
       "https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 12:33:37",
-      "https://lobste.rs/s/qcjjqo/programming_on_34_keys_2022"
-    ],
-    [
-      "Programming On 34 Keys (2022)",
-      "https://oppi.li/posts/programming_on_34_keys/"
     ]
   ],
   [
