@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-26, 06:38:58](https://lobste.rs/s/rxzimw/google_shared_my_phone_number) - [Google Shared My Phone Number](https://danq.me/2025/05/21/google-shared-my-phone-number/)
 * [2025-05-26, 04:29:55](https://lobste.rs/s/oygfix/rocknix_is_immutable_linux_distribution) - [ROCKNIX is an immutable Linux distribution for handheld gaming devices](https://rocknix.org/)
 * [2025-05-26, 03:40:31](https://lobste.rs/s/dy0ljq/smarter_simpler_firefox_address_bar) - [A smarter, simpler Firefox address bar](https://blog.mozilla.org/en/firefox/address-bar/)
 * [2025-05-26, 01:47:41](https://lobste.rs/s/v2dhjn/art_propagator_2008) - [Art of the Propagator (2008)](https://dspace.mit.edu/bitstream/handle/1721.1/44215/MIT-CSAIL-TR-2009-002.pdf)
@@ -16,7 +17,6 @@
 * [2025-05-25, 11:24:35](https://lobste.rs/s/jpxyx9/systematic_design_multi_join_group_by) - [Systematic design of multi-join GROUP BY queries](https://kb.databasedesignbook.com/posts/systematic-design-of-join-queries/)
 * [2025-05-25, 10:21:45](https://lobste.rs/s/szpyf0/mathpad_mathematical_keypad_for) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-25, 08:51:38](https://lobste.rs/s/suuuaw/what_works_doesn_t_selling_formal_methods) - [What Works (and Doesn't) Selling Formal Methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
-* [2025-05-25, 06:45:41](https://lobste.rs/s/dklehn/clojure_mcp) - [Clojure MCP](https://github.com/bhauman/clojure-mcp)
 * [2025-05-25, 05:01:29](https://lobste.rs/s/gc36ej/reinvent_wheel) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
 * [2025-05-25, 04:58:35](https://lobste.rs/s/tsqrcl/fedora_43_cleared_ship_with_wayland_only) - [Fedora 43 Cleared To Ship With Wayland-Only GNOME](https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME)
 * [2025-05-25, 01:43:14](https://lobste.rs/s/ozdlss/hierarchical_hypermedia_world_hyper_g) - [The hierarchical hypermedia world of Hyper-G](http://oldvcr.blogspot.com/2025/05/prior-art-dept-hierarchical-hypermedia.html)
