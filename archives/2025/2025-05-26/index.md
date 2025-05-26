@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-26](index.md)
 
+* [2025-05-26, 12:35:40](https://lobste.rs/s/7a2qen/using_git_as_s3) - [Using Git as S3](https://kristun.dev/posts/git-as-s3/)
 * [2025-05-26, 12:07:02](https://lobste.rs/s/uvwait/turning_portal_2_into_web_server) - [Turning Portal 2 into a Web Server](https://www.youtube.com/watch?v=-v5vCLLsqbA)
 * [2025-05-26, 11:57:18](https://lobste.rs/s/xzieif/asserting_implications) - [Asserting Implications](https://tigerbeetle.com/blog/2025-05-26-asserting-implications/)
 * [2025-05-26, 10:52:34](https://lobste.rs/s/5anwqo/html_is_like_camera) - [HTML is like a camera](https://robbowen.digital/wrote-about/html-is-like-a-camera/)
