@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-26, 13:31:00](https://lobste.rs/s/ozianb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ozianb/what_are_you_doing_this_week)
+* [2025-05-26, 13:30:34](https://lobste.rs/s/n0whur/against_curry_howard_mysticism) - [Against Curry-Howard Mysticism](https://liamoc.net/forest/loc-000S/index.xml)
+* [2025-05-26, 13:27:06](https://lobste.rs/s/csrtzc/dumpy_numpy_except_it_s_ok_if_you_re_dum) - [DumPy: NumPy except it’s OK if you’re dum](https://dynomight.net/dumpy/)
+* [2025-05-26, 13:23:19](https://lobste.rs/s/c43pk1/vibe_coding_experience) - [A Vibe‐Coding Experience](https://github.com/clauderouxster/kriegspiel/wiki/A-Vibe%E2%80%90Coding-Experience)
 * [2025-05-26, 12:35:40](https://lobste.rs/s/7a2qen/using_git_as_s3) - [Using Git as S3](https://kristun.dev/posts/git-as-s3/)
 * [2025-05-26, 12:07:02](https://lobste.rs/s/uvwait/turning_portal_2_into_web_server) - [Turning Portal 2 into a Web Server](https://www.youtube.com/watch?v=-v5vCLLsqbA)
 * [2025-05-26, 11:57:18](https://lobste.rs/s/xzieif/asserting_implications) - [Asserting Implications](https://tigerbeetle.com/blog/2025-05-26-asserting-implications/)
@@ -14,17 +18,13 @@
 * [2025-05-26, 01:47:41](https://lobste.rs/s/v2dhjn/art_propagator_2008) - [Art of the Propagator (2008)](https://dspace.mit.edu/bitstream/handle/1721.1/44215/MIT-CSAIL-TR-2009-002.pdf)
 * [2025-05-25, 23:44:00](https://lobste.rs/s/baogys/design_pressure_invisible_hand_shapes) - [Design Pressure: The Invisible Hand That Shapes Your Code](https://hynek.me/talks/design-pressure/)
 * [2025-05-25, 21:08:03](https://lobste.rs/s/bn9qeo/car_physics_for_games) - [Car Physics for Games](https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html)
-* [2025-05-25, 20:22:00](https://lobste.rs/s/7fe9er/windows_registry_adventure_7_attack) - [The Windows Registry Adventure #7: Attack surface analysis](https://googleprojectzero.blogspot.com/2025/05/the-windows-registry-adventure-7-attack-surface.html)
 * [2025-05-25, 18:52:44](https://lobste.rs/s/jovc75/plwm_x11_window_manager_written_prolog) - [plwm: An X11 window manager written in Prolog](https://github.com/Seeker04/plwm)
 * [2025-05-25, 15:51:04](https://lobste.rs/s/9wauzr/writing_your_own_cups_printer_driver_100) - [Writing your own CUPS printer driver in 100 lines of Python](https://behind.pretix.eu/2018/01/20/cups-driver/)
 * [2025-05-25, 12:36:13](https://lobste.rs/s/mkpgoe/on_file_formats) - [On File Formats](https://solhsa.com/oldernews2025.html#ON-FILE-FORMATS)
 * [2025-05-25, 12:33:37](https://lobste.rs/s/qcjjqo/programming_on_34_keys_2022) - [Programming On 34 Keys (2022)](https://oppi.li/posts/programming_on_34_keys/)
 * [2025-05-25, 11:24:35](https://lobste.rs/s/jpxyx9/systematic_design_multi_join_group_by) - [Systematic design of multi-join GROUP BY queries](https://kb.databasedesignbook.com/posts/systematic-design-of-join-queries/)
-* [2025-05-25, 10:21:45](https://lobste.rs/s/szpyf0/mathpad_mathematical_keypad_for) - [Mathpad: A mathematical keypad for students and professionals](https://github.com/Summa-Cogni/Mathpad)
 * [2025-05-25, 08:51:38](https://lobste.rs/s/suuuaw/what_works_doesn_t_selling_formal_methods) - [What Works (and Doesn't) Selling Formal Methods](https://www.galois.com/articles/what-works-and-doesnt-selling-formal-methods)
 * [2025-05-25, 05:01:29](https://lobste.rs/s/gc36ej/reinvent_wheel) - [Reinvent the Wheel](https://endler.dev/2025/reinvent-the-wheel/)
-* [2025-05-25, 04:58:35](https://lobste.rs/s/tsqrcl/fedora_43_cleared_ship_with_wayland_only) - [Fedora 43 Cleared To Ship With Wayland-Only GNOME](https://www.phoronix.com/news/Fedora-43-Wayland-Only-GNOME)
-* [2025-05-24, 20:45:00](https://lobste.rs/s/qjol4n/captchas_don_t_work_any_more_for_ticket) - [CAPTCHAs don't work any more for ticket sellers](https://behind.pretix.eu/2025/05/23/captchas-are-over/)
 
 ## [Archives](archives/index.md)
 
