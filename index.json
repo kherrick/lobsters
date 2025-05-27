@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-05-27, 01:59:42",
-      "https://lobste.rs/s/neetqy/linux_cgroup_from_first_principles"
+      "2025-05-27, 03:21:47",
+      "https://lobste.rs/s/errguk/memory_access_patterns_are_important"
     ],
     [
-      "Linux cgroup from first principles",
-      "https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles"
+      "Memory Access Patterns Are Important",
+      "https://mechanical-sympathy.blogspot.com/2012/08/memory-access-patterns-are-important.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 03:16:38",
+      "https://lobste.rs/s/znx8q8/five_year_review_bqn_design"
+    ],
+    [
+      "Five-year review of BQN design",
+      "https://mlochbaum.github.io/BQN/commentary/fiveyears.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A smarter, simpler Firefox address bar",
       "https://blog.mozilla.org/en/firefox/address-bar/"
-    ]
-  ],
-  [
-    [
-      "2025-05-25, 21:08:03",
-      "https://lobste.rs/s/bn9qeo/car_physics_for_games"
-    ],
-    [
-      "Car Physics for Games",
-      "https://www.asawicki.info/Mirror/Car%20Physics%20for%20Games/Car%20Physics%20for%20Games.html"
     ]
   ],
   [
