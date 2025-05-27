@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-27, 16:55:56](https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new) - [Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
+* [2025-05-27, 16:09:22](https://lobste.rs/s/wn9h7u/docker) - [Docker](https://icculus.org/openbox/2/docker/)
 * [2025-05-27, 15:32:36](https://lobste.rs/s/woyndc/script_check_codeowners_files_all) - [Script to check CODEOWNERS files in all repositories of a github-organisation](https://github.com/sigio/github-audit-org-codeowner)
 * [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \"tech for good\" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
 * [2025-05-27, 13:28:34](https://lobste.rs/s/gp8wdp/from_zero_full_stack_gren_with_database) - [From Zero to Full Stack Gren with a Database](https://www.youtube.com/watch?v=Ld1Lc10dO2k)
@@ -7,7 +9,6 @@
 * [2025-05-27, 11:38:44](https://lobste.rs/s/vdzcfg/two_types_open_source) - [The two types of open source](https://filiph.net/text/two-types-of-open-source.html)
 * [2025-05-27, 11:02:09](https://lobste.rs/s/doxs7v/love_hate_otel_using_it_while_avoiding) - [love-hate and otel: using it while avoiding complexity](https://github.com/jonjohnsonjr/til/blob/main/post/otel.md)
 * [2025-05-27, 10:38:59](https://lobste.rs/s/owbab5/effekt_language_home) - [Effekt Language: Home](https://effekt-lang.org/)
-* [2025-05-27, 10:37:13](https://lobste.rs/s/9il6wq/relocation_generation_assemblers) - [Relocation generation in assemblers](https://maskray.me/blog/2025-03-16-relocation-generation-in-assemblers)
 * [2025-05-27, 10:29:39](https://lobste.rs/s/zpho44/rust_streams_timeouts_gotcha) - [Rust streams and timeouts gotcha](https://laplab.me/posts/rust-streams-gotcha/)
 * [2025-05-27, 10:12:44](https://lobste.rs/s/vypfzm/hacker_news_now_runs_on_top_common_lisp) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
 * [2025-05-27, 09:49:00](https://lobste.rs/s/y5kllu/mcp_explained_without_hype_fluff) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
@@ -24,7 +25,6 @@
 * [2025-05-26, 11:57:18](https://lobste.rs/s/xzieif/asserting_implications) - [Asserting Implications](https://tigerbeetle.com/blog/2025-05-26-asserting-implications/)
 * [2025-05-26, 09:29:23](https://lobste.rs/s/rprjch/you_can_choose_tools_make_you_happy) - [You Can Choose Tools That Make You Happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
 * [2025-05-26, 08:51:58](https://lobste.rs/s/1fu1tm/i_made_font) - [I made a font](https://blog.chay.dev/i-made-a-font/)
-* [2025-05-26, 03:40:31](https://lobste.rs/s/dy0ljq/smarter_simpler_firefox_address_bar) - [A smarter, simpler Firefox address bar](https://blog.mozilla.org/en/firefox/address-bar/)
 
 ## [Archives](archives/index.md)
 

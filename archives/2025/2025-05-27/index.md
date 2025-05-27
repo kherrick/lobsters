@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 16:55:56](https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new) - [Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
+* [2025-05-27, 16:09:22](https://lobste.rs/s/wn9h7u/docker) - [Docker](https://icculus.org/openbox/2/docker/)
 * [2025-05-27, 15:32:36](https://lobste.rs/s/woyndc/script_check_codeowners_files_all) - [Script to check CODEOWNERS files in all repositories of a github-organisation](https://github.com/sigio/github-audit-org-codeowner)
 * [2025-05-27, 14:46:58](https://lobste.rs/s/usvwlt/letter_arc_members_2025) - [Letter to Arc members 2025](https://browsercompany.substack.com/p/letter-to-arc-members-2025)
 * [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \"tech for good\" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
