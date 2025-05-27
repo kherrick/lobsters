@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 14:46:58](https://lobste.rs/s/usvwlt/letter_arc_members_2025) - [Letter to Arc members 2025](https://browsercompany.substack.com/p/letter-to-arc-members-2025)
 * [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \"tech for good\" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
 * [2025-05-27, 13:28:34](https://lobste.rs/s/gp8wdp/from_zero_full_stack_gren_with_database) - [From Zero to Full Stack Gren with a Database](https://www.youtube.com/watch?v=Ld1Lc10dO2k)
 * [2025-05-27, 11:43:10](https://lobste.rs/s/wbcszy/livestore_is_next_generation_state) - [LiveStore is a next-generation state management framework based on reactive SQLite and git-inspired syncing (via event-sourcing)](https://livestore.dev/)
