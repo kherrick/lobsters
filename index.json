@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-27, 16:55:56",
+      "https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new"
+    ],
+    [
+      "Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers",
+      "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 16:09:22",
+      "https://lobste.rs/s/wn9h7u/docker"
+    ],
+    [
+      "Docker",
+      "https://icculus.org/openbox/2/docker/"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 15:32:36",
       "https://lobste.rs/s/woyndc/script_check_codeowners_files_all"
     ],
@@ -67,16 +87,6 @@
     [
       "Effekt Language: Home",
       "https://effekt-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 10:37:13",
-      "https://lobste.rs/s/9il6wq/relocation_generation_assemblers"
-    ],
-    [
-      "Relocation generation in assemblers",
-      "https://maskray.me/blog/2025-03-16-relocation-generation-in-assemblers"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I made a font",
       "https://blog.chay.dev/i-made-a-font/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 03:40:31",
-      "https://lobste.rs/s/dy0ljq/smarter_simpler_firefox_address_bar"
-    ],
-    [
-      "A smarter, simpler Firefox address bar",
-      "https://blog.mozilla.org/en/firefox/address-bar/"
     ]
   ]
 ]
