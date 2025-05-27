@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 13:28:34",
+      "https://lobste.rs/s/gp8wdp/from_zero_full_stack_gren_with_database"
+    ],
+    [
+      "From Zero to Full Stack Gren with a Database",
+      "https://www.youtube.com/watch?v=Ld1Lc10dO2k"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 11:38:44",
       "https://lobste.rs/s/vdzcfg/two_types_open_source"
     ],
@@ -97,16 +107,6 @@
     [
       "GitHub MCP Exploited: Accessing private repositories via MCP",
       "https://simonwillison.net/2025/May/26/github-mcp-exploited/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 03:21:47",
-      "https://lobste.rs/s/errguk/memory_access_patterns_are_important"
-    ],
-    [
-      "Memory Access Patterns Are Important",
-      "https://mechanical-sympathy.blogspot.com/2012/08/memory-access-patterns-are-important.html"
     ]
   ],
   [
