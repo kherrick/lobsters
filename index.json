@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 11:02:09",
+      "https://lobste.rs/s/doxs7v/love_hate_otel_using_it_while_avoiding"
+    ],
+    [
+      "love-hate and otel: using it while avoiding complexity",
+      "https://github.com/jonjohnsonjr/til/blob/main/post/otel.md"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 10:38:59",
       "https://lobste.rs/s/owbab5/effekt_language_home"
     ],
@@ -47,16 +57,6 @@
     [
       "Tiny Models, Local Throttles: Exploring My Local AI Dev Setup",
       "https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 10:06:30",
-      "https://lobste.rs/s/xjnjwd/github_mcp_exploited_accessing_private"
-    ],
-    [
-      "GitHub MCP Exploited: Accessing private repositories via MCP",
-      "https://invariantlabs.ai/blog/mcp-github-vulnerability"
     ]
   ],
   [
