@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 10:12:44](https://lobste.rs/s/vypfzm/hacker_news_now_runs_on_top_common_lisp) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
+* [2025-05-27, 10:06:52](https://lobste.rs/s/5zxtyf/tiny_models_local_throttles_exploring_my) - [Tiny Models, Local Throttles: Exploring My Local AI Dev Setup](https://blog.nilenso.com/blog/2025/05/06/local-llm-setup/)
+* [2025-05-27, 10:06:30](https://lobste.rs/s/xjnjwd/github_mcp_exploited_accessing_private) - [GitHub MCP Exploited: Accessing private repositories via MCP](https://invariantlabs.ai/blog/mcp-github-vulnerability)
 * [2025-05-27, 09:49:00](https://lobste.rs/s/y5kllu/mcp_explained_without_hype_fluff) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
 * [2025-05-27, 09:01:23](https://lobste.rs/s/dxi2jf/vending_bench_benchmark_for_long_term) - [Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents](https://arxiv.org/pdf/2502.15840)
 * [2025-05-27, 09:00:08](https://lobste.rs/s/r1uzrt/luciole_math_typeface_developed) - [Luciole Math: a typeface developed explicitly for visually impaired academics](https://luciole-vision.com/en/math.html)
