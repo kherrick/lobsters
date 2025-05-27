@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-05-27, 10:38:59",
+      "https://lobste.rs/s/owbab5/effekt_language_home"
+    ],
+    [
+      "Effekt Language: Home",
+      "https://effekt-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 10:37:13",
+      "https://lobste.rs/s/9il6wq/relocation_generation_assemblers"
+    ],
+    [
+      "Relocation generation in assemblers",
+      "https://maskray.me/blog/2025-03-16-relocation-generation-in-assemblers"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 10:29:39",
+      "https://lobste.rs/s/zpho44/rust_streams_timeouts_gotcha"
+    ],
+    [
+      "Rust streams and timeouts gotcha",
+      "https://laplab.me/posts/rust-streams-gotcha/"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 10:12:44",
       "https://lobste.rs/s/vypfzm/hacker_news_now_runs_on_top_common_lisp"
     ],
@@ -37,26 +67,6 @@
     [
       "MCP explained without hype or fluff",
       "https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 09:01:23",
-      "https://lobste.rs/s/dxi2jf/vending_bench_benchmark_for_long_term"
-    ],
-    [
-      "Vending-Bench: A Benchmark for Long-Term Coherence of Autonomous Agents",
-      "https://arxiv.org/pdf/2502.15840"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 09:00:08",
-      "https://lobste.rs/s/r1uzrt/luciole_math_typeface_developed"
-    ],
-    [
-      "Luciole Math: a typeface developed explicitly for visually impaired academics",
-      "https://luciole-vision.com/en/math.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Scheming a mise-en-abîme in BQN",
       "https://panadestein.github.io/blog/posts/si.html#fnr.2"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 13:31:00",
-      "https://lobste.rs/s/ozianb/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/ozianb/what_are_you_doing_this_week"
     ]
   ],
   [
