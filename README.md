@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-27, 18:05:42](https://lobste.rs/s/xafw94/own_your_email_domain) - [Own Your Email Domain](https://matthewsanabria.dev/posts/own-your-email-domain/)
+* [2025-05-27, 18:01:19](https://lobste.rs/s/i9sd2f/teaching_old_hippies_new_tricks) - [Teaching old hippies new tricks](https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/)
 * [2025-05-27, 17:05:27](https://lobste.rs/s/nl5vun/simd_zlib_rs_part_2_compare256_blog_tweede) - [SIMD in zlib-rs (part 2): compare256 - Blog - Tweede golf](https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256)
 * [2025-05-27, 16:55:56](https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new) - [Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 * [2025-05-27, 16:09:22](https://lobste.rs/s/wn9h7u/docker) - [Docker](https://icculus.org/openbox/2/docker/)
@@ -15,10 +17,8 @@
 * [2025-05-27, 09:00:08](https://lobste.rs/s/r1uzrt/luciole_math_typeface_developed) - [Luciole Math: a typeface developed explicitly for visually impaired academics](https://luciole-vision.com/en/math.html)
 * [2025-05-27, 06:52:31](https://lobste.rs/s/aaicyj/github_mcp_exploited_accessing_private) - [GitHub MCP Exploited: Accessing private repositories via MCP](https://simonwillison.net/2025/May/26/github-mcp-exploited/)
 * [2025-05-27, 03:16:38](https://lobste.rs/s/znx8q8/five_year_review_bqn_design) - [Five-year review of BQN design](https://mlochbaum.github.io/BQN/commentary/fiveyears.html)
-* [2025-05-27, 01:59:42](https://lobste.rs/s/neetqy/linux_cgroup_from_first_principles) - [Linux cgroup from first principles](https://fzakaria.com/2025/05/26/linux-cgroup-from-first-principles)
 * [2025-05-26, 22:13:55](https://lobste.rs/s/3qy3uw/non_pointless_software_projects_for_new) - [Non-Pointless Software Projects for New Devs in the LLM Age](https://cprimozic.net/blog/non-pointless-software-projects-for-new-devs-in-the-llm-age/)
 * [2025-05-26, 21:05:17](https://lobste.rs/s/hxi9jj/access_control_syntax) - [Access Control Syntax](https://journal.stuffwithstuff.com/2025/05/26/access-control-syntax/)
-* [2025-05-26, 20:10:10](https://lobste.rs/s/ltldco/ash_hybrid_between_getopts_sh_c) - [ash: a hybrid between getopts and 'sh -c'](https://github.com/avamsi/ash)
 * [2025-05-26, 20:06:15](https://lobste.rs/s/myqawl/jjui_text_user_interface_tui_for_jujutsu) - [jjui: a text user interface (TUI) for the Jujutsu version control system](https://github.com/idursun/jjui)
 * [2025-05-26, 13:30:34](https://lobste.rs/s/n0whur/against_curry_howard_mysticism) - [Against Curry-Howard Mysticism](https://liamoc.net/forest/loc-000S/index.xml)
 * [2025-05-26, 13:27:06](https://lobste.rs/s/csrtzc/dumpy_numpy_except_it_s_ok_if_you_re_dum) - [DumPy: NumPy except it’s OK if you’re dum](https://dynomight.net/dumpy/)
