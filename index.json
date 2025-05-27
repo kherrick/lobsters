@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-27, 19:27:51",
+      "https://lobste.rs/s/wfams6/awesome_emacs_on_macos"
+    ],
+    [
+      "Awesome Emacs on macOS",
+      "https://xenodium.com/awesome-emacs-on-macos"
+    ]
+  ],
+  [
+    [
+      "2025-05-27, 19:24:36",
+      "https://lobste.rs/s/fynvtg/what_difference_faster_hash_makes"
+    ],
+    [
+      "What a Difference a Faster Hash Makes",
+      "https://nickdrozd.github.io/2025/05/27/faster-hash.html"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 18:19:31",
       "https://lobste.rs/s/vosoyt/post_quantum_cryptography_openpgp"
     ],
@@ -197,26 +217,6 @@
     [
       "jjui: a text user interface (TUI) for the Jujutsu version control system",
       "https://github.com/idursun/jjui"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 13:30:34",
-      "https://lobste.rs/s/n0whur/against_curry_howard_mysticism"
-    ],
-    [
-      "Against Curry-Howard Mysticism",
-      "https://liamoc.net/forest/loc-000S/index.xml"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 13:27:06",
-      "https://lobste.rs/s/csrtzc/dumpy_numpy_except_it_s_ok_if_you_re_dum"
-    ],
-    [
-      "DumPy: NumPy except it’s OK if you’re dum",
-      "https://dynomight.net/dumpy/"
     ]
   ],
   [
