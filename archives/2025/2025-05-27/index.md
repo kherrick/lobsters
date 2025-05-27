@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-27](index.md)
 
+* [2025-05-27, 13:28:34](https://lobste.rs/s/gp8wdp/from_zero_full_stack_gren_with_database) - [From Zero to Full Stack Gren with a Database](https://www.youtube.com/watch?v=Ld1Lc10dO2k)
 * [2025-05-27, 11:43:10](https://lobste.rs/s/wbcszy/livestore_is_next_generation_state) - [LiveStore is a next-generation state management framework based on reactive SQLite and git-inspired syncing (via event-sourcing)](https://livestore.dev/)
 * [2025-05-27, 11:41:38](https://lobste.rs/s/7eisrj/building_web_game_2025) - [Building a web game in 2025](https://fika.bar/blogs/paoramen/building-a-web-game-in-2025-01JW6A9YBWM46MXGAQSC9N2QRF)
 * [2025-05-27, 11:38:44](https://lobste.rs/s/vdzcfg/two_types_open_source) - [The two types of open source](https://filiph.net/text/two-types-of-open-source.html)
