@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 06:52:31",
+      "https://lobste.rs/s/aaicyj/github_mcp_exploited_accessing_private"
+    ],
+    [
+      "GitHub MCP Exploited: Accessing private repositories via MCP",
+      "https://simonwillison.net/2025/May/26/github-mcp-exploited/"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 03:21:47",
       "https://lobste.rs/s/errguk/memory_access_patterns_are_important"
     ],
@@ -97,16 +107,6 @@
     [
       "Single process, multiple interpreters, no GIL contention - pre-Python3.12",
       "https://basisrobotics.tech/2025/05/26/python/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 17:37:25",
-      "https://lobste.rs/s/l1gebi/isolates_compressed_references_more"
-    ],
-    [
-      "Isolates and compressed references: more flexible and efficient memory management for GraalVM",
-      "https://medium.com/graalvm/isolates-and-compressed-references-more-flexible-and-efficient-memory-management-for-graalvm-a044cc50b67e"
     ]
   ],
   [
