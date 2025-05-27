@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-27, 17:05:27",
+      "https://lobste.rs/s/nl5vun/simd_zlib_rs_part_2_compare256_blog_tweede"
+    ],
+    [
+      "SIMD in zlib-rs (part 2): compare256 - Blog - Tweede golf",
+      "https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256"
+    ]
+  ],
+  [
+    [
       "2025-05-27, 16:55:56",
       "https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new"
     ],
@@ -67,16 +77,6 @@
     [
       "The two types of open source",
       "https://filiph.net/text/two-types-of-open-source.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 11:02:09",
-      "https://lobste.rs/s/doxs7v/love_hate_otel_using_it_while_avoiding"
-    ],
-    [
-      "love-hate and otel: using it while avoiding complexity",
-      "https://github.com/jonjohnsonjr/til/blob/main/post/otel.md"
     ]
   ],
   [
