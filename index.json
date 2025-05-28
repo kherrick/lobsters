@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-28, 10:22:47",
+      "https://lobste.rs/s/byyxzg/riot_actor_model_multi_core_scheduler"
+    ],
+    [
+      "Riot - An actor-model multi-core scheduler",
+      "https://riot.ml/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 09:40:28",
       "https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by"
     ],
@@ -237,16 +247,6 @@
     [
       "GitHub MCP Exploited: Accessing private repositories via MCP",
       "https://simonwillison.net/2025/May/26/github-mcp-exploited/"
-    ]
-  ],
-  [
-    [
-      "2025-05-26, 09:29:23",
-      "https://lobste.rs/s/rprjch/you_can_choose_tools_make_you_happy"
-    ],
-    [
-      "You Can Choose Tools That Make You Happy",
-      "https://borretti.me/article/you-can-choose-tools-that-make-you-happy"
     ]
   ]
 ]
