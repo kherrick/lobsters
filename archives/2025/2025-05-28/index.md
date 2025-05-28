@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 17:28:20](https://lobste.rs/s/dsludj/linux_mount_namespaces_persistence) - [Linux Mount Namespaces and persistence](https://jmtd.net/log/mount_namespaces/)
+* [2025-05-28, 17:14:58](https://lobste.rs/s/v0yrwa/compiling_neural_net_c_for_1_744x_speedup) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:20:05](https://lobste.rs/s/v5ebdv/classic_hp_16c_programmer_s_calculator) - [The Classic HP 16C Programmer’s Calculator](https://bigdanzblog.wordpress.com/2022/05/04/the-classic-hp-16c-programmers-calculator/)
 * [2025-05-28, 15:09:21](https://lobste.rs/s/dohcyy/making_database_systems_usable) - [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
