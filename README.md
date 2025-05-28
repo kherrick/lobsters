@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-28, 00:10:31](https://lobste.rs/s/7zijjo/add_virtual_threads_python) - [Add Virtual Threads to Python](https://discuss.python.org/t/add-virtual-threads-to-python/91403)
 * [2025-05-27, 23:21:35](https://lobste.rs/s/dlhn3y/failed_backup_server_build) - [Failed Backup Server Build](https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/)
 * [2025-05-27, 22:12:10](https://lobste.rs/s/xuycrp/large_language_models_can_run_tools_your) - [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 21:36:31](https://lobste.rs/s/47b4ds/scrappy_make_little_apps_for_you_your) - [Scrappy: make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
+* [2025-05-27, 20:54:27](https://lobste.rs/s/draut0/why_original_macintosh_had_screen) - [Why the Original Macintosh Had a Screen Resolution of 512x342, and not 512x384 as One Might Expect](https://512pixels.net/2025/05/original-macintosh-resolution/)
 * [2025-05-27, 20:19:53](https://lobste.rs/s/cbd7rn/just_make_it_scale_aurora_dsql_story) - [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
 * [2025-05-27, 19:27:51](https://lobste.rs/s/wfams6/awesome_emacs_on_macos) - [Awesome Emacs on macOS](https://xenodium.com/awesome-emacs-on-macos)
 * [2025-05-27, 19:24:36](https://lobste.rs/s/fynvtg/what_difference_faster_hash_makes) - [What a Difference a Faster Hash Makes](https://nickdrozd.github.io/2025/05/27/faster-hash.html)
-* [2025-05-27, 18:19:31](https://lobste.rs/s/vosoyt/post_quantum_cryptography_openpgp) - [Post-quantum cryptography in OpenPGP](https://openpgp.foo/posts/2025-05-pqc/)
 * [2025-05-27, 18:05:42](https://lobste.rs/s/xafw94/own_your_email_domain) - [Own Your Email Domain](https://matthewsanabria.dev/posts/own-your-email-domain/)
 * [2025-05-27, 18:01:19](https://lobste.rs/s/i9sd2f/teaching_old_hippies_new_tricks) - [Teaching old hippies new tricks](https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/)
 * [2025-05-27, 17:05:27](https://lobste.rs/s/nl5vun/simd_zlib_rs_part_2_compare256_blog_tweede) - [SIMD in zlib-rs (part 2): compare256 - Blog - Tweede golf](https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256)
@@ -23,7 +24,6 @@
 * [2025-05-27, 09:00:08](https://lobste.rs/s/r1uzrt/luciole_math_typeface_developed) - [Luciole Math: a typeface developed explicitly for visually impaired academics](https://luciole-vision.com/en/math.html)
 * [2025-05-27, 06:52:31](https://lobste.rs/s/aaicyj/github_mcp_exploited_accessing_private) - [GitHub MCP Exploited: Accessing private repositories via MCP](https://simonwillison.net/2025/May/26/github-mcp-exploited/)
 * [2025-05-27, 03:16:38](https://lobste.rs/s/znx8q8/five_year_review_bqn_design) - [Five-year review of BQN design](https://mlochbaum.github.io/BQN/commentary/fiveyears.html)
-* [2025-05-26, 11:57:18](https://lobste.rs/s/xzieif/asserting_implications) - [Asserting Implications](https://tigerbeetle.com/blog/2025-05-26-asserting-implications/)
 * [2025-05-26, 09:29:23](https://lobste.rs/s/rprjch/you_can_choose_tools_make_you_happy) - [You Can Choose Tools That Make You Happy](https://borretti.me/article/you-can-choose-tools-that-make-you-happy)
 
 ## [Archives](archives/index.md)
