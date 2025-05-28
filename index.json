@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-28, 08:40:04",
+      "https://lobste.rs/s/a3mikg/async_compute_all_things"
+    ],
+    [
+      "Async compute all the things",
+      "https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 08:33:36",
+      "https://lobste.rs/s/koodxv/thought_on_javascript_proof_work_anti"
+    ],
+    [
+      "A thought on JavaScript \"proof of work\" anti-scraper systems",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 06:32:01",
       "https://lobste.rs/s/kj0aux/firefox_139_adds_experimental_ai_powered"
     ],
@@ -17,16 +37,6 @@
     [
       "flags and usability",
       "https://orib.dev/flags.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 05:53:50",
-      "https://lobste.rs/s/ijlbly/dwarf_as_shared_reverse_engineering"
-    ],
-    [
-      "DWARF as a shared reverse engineering format",
-      "https://lief.re/blog/2025-05-27-dwarf-editor/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "GitHub MCP Exploited: Accessing private repositories via MCP",
       "https://simonwillison.net/2025/May/26/github-mcp-exploited/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 03:16:38",
-      "https://lobste.rs/s/znx8q8/five_year_review_bqn_design"
-    ],
-    [
-      "Five-year review of BQN design",
-      "https://mlochbaum.github.io/BQN/commentary/fiveyears.html"
     ]
   ],
   [
