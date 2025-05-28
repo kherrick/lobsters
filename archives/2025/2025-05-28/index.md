@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 20:40:18](https://lobste.rs/s/pozqrz/link_text_automation_sphinx) - [Link text automation in Sphinx](https://technicalwriting.dev/links/automation.html)
 * [2025-05-28, 19:51:25](https://lobste.rs/s/ghh3w5/using_sat_get_world_record_on_linkedin_s) - [Using SAT to Get the World Record on LinkedIn's Queens](https://ryanberger.me/posts/queens/)
 * [2025-05-28, 19:34:34](https://lobste.rs/s/rqc5yc/compiler_explorer_promise_urls_last) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 19:20:19](https://lobste.rs/s/awmftl/performance_es6_features_relative_es5) - [Performance of ES6 features relative to the ES5 baseline operations per second (2022)](http://incaseofstairs.com/six-speed/)
