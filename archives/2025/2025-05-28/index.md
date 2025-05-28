@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:20:05](https://lobste.rs/s/v5ebdv/classic_hp_16c_programmer_s_calculator) - [The Classic HP 16C Programmer’s Calculator](https://bigdanzblog.wordpress.com/2022/05/04/the-classic-hp-16c-programmers-calculator/)
 * [2025-05-28, 15:09:21](https://lobste.rs/s/dohcyy/making_database_systems_usable) - [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
 * [2025-05-28, 10:57:50](https://lobste.rs/s/1kfzkq/cory_doctorow_on_how_we_lost_internet) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/)
