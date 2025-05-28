@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-28, 17:28:20",
+      "https://lobste.rs/s/dsludj/linux_mount_namespaces_persistence"
+    ],
+    [
+      "Linux Mount Namespaces and persistence",
+      "https://jmtd.net/log/mount_namespaces/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 17:14:58",
+      "https://lobste.rs/s/v0yrwa/compiling_neural_net_c_for_1_744x_speedup"
+    ],
+    [
+      "Compiling a Neural Net to C for a 1,744× speedup",
+      "https://slightknack.dev/blog/difflogic/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 15:36:54",
       "https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-05-27, 13:12:05",
-      "https://lobste.rs/s/nvrvst/bgp_handling_bug_causes_widespread"
-    ],
-    [
-      "BGP handling bug causes widespread internet routing instability",
-      "https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident"
-    ]
-  ],
-  [
-    [
       "2025-05-27, 11:38:44",
       "https://lobste.rs/s/vdzcfg/two_types_open_source"
     ],
@@ -237,16 +247,6 @@
     [
       "Hacker News now runs on top of Common Lisp",
       "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 06:52:31",
-      "https://lobste.rs/s/aaicyj/github_mcp_exploited_accessing_private"
-    ],
-    [
-      "GitHub MCP Exploited: Accessing private repositories via MCP",
-      "https://simonwillison.net/2025/May/26/github-mcp-exploited/"
     ]
   ]
 ]
