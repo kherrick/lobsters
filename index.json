@@ -31,6 +31,26 @@
   ],
   [
     [
+      "2025-05-28, 17:07:55",
+      "https://lobste.rs/s/sd0qfz/mullvad_leta"
+    ],
+    [
+      "Mullvad Leta",
+      "https://leta.mullvad.net"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 16:51:19",
+      "https://lobste.rs/s/fxlce7/ray_tracing_j"
+    ],
+    [
+      "Ray Tracing in J",
+      "https://idle.nprescott.com/2020/ray-tracing-in-j.html"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 15:36:54",
       "https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2025-05-28, 15:09:21",
-      "https://lobste.rs/s/dohcyy/making_database_systems_usable"
+      "2025-05-28, 14:22:10",
+      "https://lobste.rs/s/hbisek/lispos_archives"
     ],
     [
-      "Making database systems usable",
-      "http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html"
+      "LispOS Archives",
+      "http://lists.tunes.org/archives/lispos/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "flags and usability",
       "https://orib.dev/flags.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 00:10:31",
-      "https://lobste.rs/s/7zijjo/add_virtual_threads_python"
-    ],
-    [
-      "Add Virtual Threads to Python",
-      "https://discuss.python.org/t/add-virtual-threads-to-python/91403"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The two types of open source",
       "https://filiph.net/text/two-types-of-open-source.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 10:12:44",
-      "https://lobste.rs/s/vypfzm/hacker_news_now_runs_on_top_common_lisp"
-    ],
-    [
-      "Hacker News now runs on top of Common Lisp",
-      "https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/"
     ]
   ]
 ]
