@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-28, 04:12:28](https://lobste.rs/s/srfxrf/opentpu_open_source_reimplementation) - [OpenTPU: Open source reimplementation of TPU](https://github.com/UCSBarchlab/OpenTPU)
 * [2025-05-28, 00:10:31](https://lobste.rs/s/7zijjo/add_virtual_threads_python) - [Add Virtual Threads to Python](https://discuss.python.org/t/add-virtual-threads-to-python/91403)
 * [2025-05-27, 23:21:35](https://lobste.rs/s/dlhn3y/failed_backup_server_build) - [Failed Backup Server Build](https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/)
 * [2025-05-27, 22:12:10](https://lobste.rs/s/xuycrp/large_language_models_can_run_tools_your) - [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/)
 * [2025-05-27, 21:36:31](https://lobste.rs/s/47b4ds/scrappy_make_little_apps_for_you_your) - [Scrappy: make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
-* [2025-05-27, 20:54:27](https://lobste.rs/s/draut0/why_original_macintosh_had_screen) - [Why the Original Macintosh Had a Screen Resolution of 512x342, and not 512x384 as One Might Expect](https://512pixels.net/2025/05/original-macintosh-resolution/)
 * [2025-05-27, 20:19:53](https://lobste.rs/s/cbd7rn/just_make_it_scale_aurora_dsql_story) - [Just make it scale: An Aurora DSQL story](https://www.allthingsdistributed.com/2025/05/just-make-it-scale-an-aurora-dsql-story.html)
 * [2025-05-27, 19:27:51](https://lobste.rs/s/wfams6/awesome_emacs_on_macos) - [Awesome Emacs on macOS](https://xenodium.com/awesome-emacs-on-macos)
 * [2025-05-27, 19:24:36](https://lobste.rs/s/fynvtg/what_difference_faster_hash_makes) - [What a Difference a Faster Hash Makes](https://nickdrozd.github.io/2025/05/27/faster-hash.html)
