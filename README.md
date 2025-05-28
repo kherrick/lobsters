@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-28, 05:05:06](https://lobste.rs/s/uvozyb/hacker_public_radio_bsd_overview) - [Hacker Public Radio BSD Overview](https://hackerpublicradio.org/eps/hpr4388/index.html)
 * [2025-05-28, 04:12:28](https://lobste.rs/s/srfxrf/opentpu_open_source_reimplementation) - [OpenTPU: Open source reimplementation of TPU](https://github.com/UCSBarchlab/OpenTPU)
 * [2025-05-28, 00:10:31](https://lobste.rs/s/7zijjo/add_virtual_threads_python) - [Add Virtual Threads to Python](https://discuss.python.org/t/add-virtual-threads-to-python/91403)
 * [2025-05-27, 23:21:35](https://lobste.rs/s/dlhn3y/failed_backup_server_build) - [Failed Backup Server Build](https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/)
@@ -17,7 +18,6 @@
 * [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \"tech for good\" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
 * [2025-05-27, 13:12:05](https://lobste.rs/s/nvrvst/bgp_handling_bug_causes_widespread) - [BGP handling bug causes widespread internet routing instability](https://blog.benjojo.co.uk/post/bgp-attr-40-junos-arista-session-reset-incident)
 * [2025-05-27, 11:38:44](https://lobste.rs/s/vdzcfg/two_types_open_source) - [The two types of open source](https://filiph.net/text/two-types-of-open-source.html)
-* [2025-05-27, 10:38:59](https://lobste.rs/s/owbab5/effekt_language_home) - [Effekt Language: Home](https://effekt-lang.org/)
 * [2025-05-27, 10:29:39](https://lobste.rs/s/zpho44/rust_streams_timeouts_gotcha) - [Rust streams and timeouts gotcha](https://laplab.me/posts/rust-streams-gotcha/)
 * [2025-05-27, 10:12:44](https://lobste.rs/s/vypfzm/hacker_news_now_runs_on_top_common_lisp) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
 * [2025-05-27, 09:49:00](https://lobste.rs/s/y5kllu/mcp_explained_without_hype_fluff) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
