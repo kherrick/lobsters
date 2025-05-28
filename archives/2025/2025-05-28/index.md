@@ -9,6 +9,7 @@
 * [2025-05-28, 17:15:30](https://lobste.rs/s/qabqdt/first_smart_homes) - [the first smart homes](https://computer.rip/2025-05-27-the-first-smart-homes.html)
 * [2025-05-28, 17:14:58](https://lobste.rs/s/v0yrwa/compiling_neural_net_c_for_1_744x_speedup) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
+* [2025-05-28, 17:04:45](https://lobste.rs/s/kwmhnq/how_i_take_work_notes_as_developer) - [How I take work notes as a developer](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/)
 * [2025-05-28, 16:51:19](https://lobste.rs/s/fxlce7/ray_tracing_j) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:20:05](https://lobste.rs/s/v5ebdv/classic_hp_16c_programmer_s_calculator) - [The Classic HP 16C Programmer’s Calculator](https://bigdanzblog.wordpress.com/2022/05/04/the-classic-hp-16c-programmers-calculator/)
