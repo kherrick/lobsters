@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-28, 09:40:28",
+      "https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by"
+    ],
+    [
+      "A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix",
+      "https://github.com/leoshimo/vrs"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 08:44:52",
       "https://lobste.rs/s/pslyxg/why_are_2025_05_28_2025_05_28_different_days"
     ],
@@ -127,16 +137,6 @@
     [
       "Teaching old hippies new tricks",
       "https://www.oblomovka.com/wp/2025/01/02/teaching-old-hippies-new-tricks/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 17:05:27",
-      "https://lobste.rs/s/nl5vun/simd_zlib_rs_part_2_compare256"
-    ],
-    [
-      "SIMD in zlib-rs (part 2): compare256",
-      "https://tweedegolf.nl/en/blog/155/simd-in-zlib-rs-part-2-compare256"
     ]
   ],
   [
