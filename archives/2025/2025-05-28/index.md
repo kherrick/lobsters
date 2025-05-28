@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-28](index.md)
 
+* [2025-05-28, 10:57:50](https://lobste.rs/s/1kfzkq/cory_doctorow_on_how_we_lost_internet) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/)
 * [2025-05-28, 10:55:13](https://lobste.rs/s/jg4jon/neither_if_nor_while_neither_map_nor) - [Neither if nor while; neither map nor reduce](https://www.klaro.cards/en/blog/2025/05/27/159-neither-if-nor-while-neither-map-nor-reduce#testing-the-solution)
 * [2025-05-28, 10:22:47](https://lobste.rs/s/byyxzg/riot_actor_model_multi_core_scheduler) - [Riot - An actor-model multi-core scheduler](https://riot.ml/)
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
