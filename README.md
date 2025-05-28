@@ -2,6 +2,7 @@
 
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
 * [2025-05-28, 08:44:52](https://lobste.rs/s/pslyxg/why_are_2025_05_28_2025_05_28_different_days) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
+* [2025-05-28, 08:40:04](https://lobste.rs/s/a3mikg/async_compute_all_things) - [Async compute all the things](https://interplayoflight.wordpress.com/2025/05/27/async-compute-all-the-things/)
 * [2025-05-28, 08:33:36](https://lobste.rs/s/koodxv/thought_on_javascript_proof_work_anti) - [A thought on JavaScript \"proof of work\" anti-scraper systems](https://utcc.utoronto.ca/~cks/space/blog/web/JavaScriptScraperObstacles)
 * [2025-05-28, 08:16:11](https://lobste.rs/s/95ekg3/vibe_coding_for_teams_thoughts_date) - [Vibe coding for teams, thoughts to date](https://laughingmeme.org//2025/05/25/vibe-coding-for-teams.html)
 * [2025-05-28, 06:32:01](https://lobste.rs/s/kj0aux/firefox_139_adds_experimental_ai_powered) - [Firefox 139 adds experimental AI-powered link previews](https://9to5mac.com/2025/05/27/firefox-ai-link-previews/)
@@ -22,7 +23,6 @@
 * [2025-05-27, 11:38:44](https://lobste.rs/s/vdzcfg/two_types_open_source) - [The two types of open source](https://filiph.net/text/two-types-of-open-source.html)
 * [2025-05-27, 10:29:39](https://lobste.rs/s/zpho44/rust_streams_timeouts_gotcha) - [Rust streams and timeouts gotcha](https://laplab.me/posts/rust-streams-gotcha/)
 * [2025-05-27, 10:12:44](https://lobste.rs/s/vypfzm/hacker_news_now_runs_on_top_common_lisp) - [Hacker News now runs on top of Common Lisp](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/)
-* [2025-05-27, 09:49:00](https://lobste.rs/s/y5kllu/mcp_explained_without_hype_fluff) - [MCP explained without hype or fluff](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/)
 * [2025-05-27, 09:00:08](https://lobste.rs/s/r1uzrt/luciole_math_typeface_developed) - [Luciole Math: a typeface developed explicitly for visually impaired academics](https://luciole-vision.com/en/math.html)
 * [2025-05-27, 06:52:31](https://lobste.rs/s/aaicyj/github_mcp_exploited_accessing_private) - [GitHub MCP Exploited: Accessing private repositories via MCP](https://simonwillison.net/2025/May/26/github-mcp-exploited/)
 
