@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-28, 05:53:50](https://lobste.rs/s/ijlbly/dwarf_as_shared_reverse_engineering) - [DWARF as a shared reverse engineering format](https://lief.re/blog/2025-05-27-dwarf-editor/)
 * [2025-05-28, 05:05:06](https://lobste.rs/s/uvozyb/hacker_public_radio_bsd_overview) - [Hacker Public Radio BSD Overview](https://hackerpublicradio.org/eps/hpr4388/index.html)
-* [2025-05-28, 04:12:28](https://lobste.rs/s/srfxrf/opentpu_open_source_reimplementation) - [OpenTPU: Open source reimplementation of TPU](https://github.com/UCSBarchlab/OpenTPU)
 * [2025-05-28, 00:10:31](https://lobste.rs/s/7zijjo/add_virtual_threads_python) - [Add Virtual Threads to Python](https://discuss.python.org/t/add-virtual-threads-to-python/91403)
 * [2025-05-27, 23:21:35](https://lobste.rs/s/dlhn3y/failed_backup_server_build) - [Failed Backup Server Build](https://vermaden.wordpress.com/2025/05/28/failed-backup-server-build/)
 * [2025-05-27, 22:12:10](https://lobste.rs/s/xuycrp/large_language_models_can_run_tools_your) - [Large Language Models can run tools in your terminal with LLM 0.26](https://simonwillison.net/2025/May/27/llm-tools/)
