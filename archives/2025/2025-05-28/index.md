@@ -11,6 +11,7 @@
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 17:04:45](https://lobste.rs/s/kwmhnq/how_i_take_work_notes_as_developer) - [How I take work notes as a developer](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/)
 * [2025-05-28, 16:51:19](https://lobste.rs/s/fxlce7/ray_tracing_j) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
+* [2025-05-28, 15:41:21](https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report) - [2024 Medley Interlisp Annual Report](https://interlisp.org/project/status/2024medleyannualreport/)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 15:20:05](https://lobste.rs/s/v5ebdv/classic_hp_16c_programmer_s_calculator) - [The Classic HP 16C Programmer’s Calculator](https://bigdanzblog.wordpress.com/2022/05/04/the-classic-hp-16c-programmers-calculator/)
 * [2025-05-28, 15:09:21](https://lobste.rs/s/dohcyy/making_database_systems_usable) - [Making database systems usable](http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html)
