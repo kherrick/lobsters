@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 20:05:59](https://lobste.rs/s/sswikt/making_openat_2_friends_more_useful) - [Making openat(2) and friends more useful in practice](https://undeadly.org/cgi?action=article;sid=20250529080623)
+* [2025-05-29, 19:53:27](https://lobste.rs/s/vjil64/kea_dhcp_local_vulnerabilities_many) - [Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions](https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html)
 * [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 * [2025-05-29, 17:21:51](https://lobste.rs/s/omtuek/coming_ai_revolution_distributed) - [The Coming AI Revolution in Distributed Systems](https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html)
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
-* [2025-05-29, 15:57:16](https://lobste.rs/s/iw3j8r/i_optimized_our_proxy_server_handle_one) - [I optimized our proxy server to handle one billion databases](https://turso.tech/blog/we-rewrote-large-parts-of-our-api-in-go)
 * [2025-05-29, 15:55:00](https://lobste.rs/s/1j1muh/learning_c3) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
 * [2025-05-29, 14:51:03](https://lobste.rs/s/9j9wdi/case_for_using_web_browser_as_your) - [The case for using a web browser as your terminal](https://blog.pomdtr.me/posts/tweety-v1/)
 * [2025-05-29, 14:21:06](https://lobste.rs/s/gpntsk/redesigning_initial_bootstrap_sequence) - [Redesigning the Initial Bootstrap Sequence](https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/)
@@ -24,7 +25,6 @@
 * [2025-05-28, 17:35:48](https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
-* [2025-05-28, 08:44:52](https://lobste.rs/s/pslyxg/why_are_2025_05_28_2025_05_28_different_days) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
 
 ## [Archives](archives/index.md)
 
