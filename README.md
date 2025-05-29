@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 17:21:51](https://lobste.rs/s/omtuek/coming_ai_revolution_distributed) - [The Coming AI Revolution in Distributed Systems](https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html)
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 * [2025-05-29, 16:41:10](https://lobste.rs/s/zb5lop/bootstrapping_http_1_1_http_2_http_3) - [Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3](https://www.netmeister.org/blog/http-123.html)
 * [2025-05-29, 15:57:16](https://lobste.rs/s/iw3j8r/i_optimized_our_proxy_server_handle_one) - [I optimized our proxy server to handle one billion databases](https://turso.tech/blog/we-rewrote-large-parts-of-our-api-in-go)
@@ -8,7 +9,6 @@
 * [2025-05-29, 14:21:06](https://lobste.rs/s/gpntsk/redesigning_initial_bootstrap_sequence) - [Redesigning the Initial Bootstrap Sequence](https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/)
 * [2025-05-29, 14:10:59](https://lobste.rs/s/gg9khs/profiling_websites) - [Profiling Websites](https://www.marginalia.nu/log/a_121_profiling_websites/)
 * [2025-05-29, 13:24:28](https://lobste.rs/s/mzm2kk/how_fix_email_encryption) - [How to fix email encryption](https://weddige.eu/en/articles/lets-encrypt-emails/)
-* [2025-05-29, 12:30:35](https://lobste.rs/s/n2fzkf/first_version_elicitation_mcp_draft) - [First version of Elicitation to the MCP draft specification](https://modelcontextprotocol.io/specification/draft/client/elicitation)
 * [2025-05-29, 11:18:04](https://lobste.rs/s/0hfgse/what_s_cooking_on_sourcehut_q2_2025) - [What's cooking on SourceHut? Q2 2025](https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/)
 * [2025-05-29, 10:42:27](https://lobste.rs/s/gwlgay/golden_file_testing) - [Golden File Testing](https://matttproud.com/blog/posts/golden-file-testing.html)
 * [2025-05-29, 10:22:57](https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program) - [Helonium's Hartree-Fock program](https://panadestein.github.io/blog/posts/hf.html)
