@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 09:13:03](https://lobste.rs/s/n7ly8i/3_ways_javascript_frameworks_render_dom) - [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)
 * [2025-05-29, 08:37:08](https://lobste.rs/s/yt8har/wake_up_remix) - [Wake up, Remix](https://remix.run/blog/wake-up-remix)
 * [2025-05-29, 04:58:59](https://lobste.rs/s/4eenfe/workflows_for_ai_coding) - [workflows for ai coding](https://anniecherkaev.com/the-times-they-are-ai-changing)
 * [2025-05-28, 22:36:26](https://lobste.rs/s/uw4lp1/go_may_require_prefaulting_mmap) - [go may require prefaulting mmap](https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap)
-* [2025-05-28, 22:29:28](https://lobste.rs/s/58oxwy/zero_overhead_checks_with_fake_stack) - [Zero-overhead checks with fake stack overflows](https://bernsteinbear.com/blog/overflow-check/)
 * [2025-05-28, 22:02:47](https://lobste.rs/s/029ntw/parking_lot_ffffffffffffffff) - [parking_lot: ffffffffffffffff](https://fly.io/blog/parking-lot-ffffffffffffffff/)
 * [2025-05-28, 21:18:00](https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag) - [Can we fix (or retire) the vibecoding tag?](https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag)
 * [2025-05-28, 20:38:43](https://lobste.rs/s/s6utq0/saying_bye_glitch) - [Saying Bye to Glitch](https://pketh.org/bye-glitch.html)
