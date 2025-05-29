@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-05-28, 22:29:28",
+      "https://lobste.rs/s/58oxwy/zero_overhead_checks_with_fake_stack"
+    ],
+    [
+      "Zero-overhead checks with fake stack overflows",
+      "https://bernsteinbear.com/blog/overflow-check/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 22:02:47",
       "https://lobste.rs/s/029ntw/parking_lot_ffffffffffffffff"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2025-05-28, 19:20:19",
-      "https://lobste.rs/s/awmftl/performance_es6_features_relative_es5"
-    ],
-    [
-      "Performance of ES6 features relative to the ES5 baseline operations per second (2022)",
-      "http://incaseofstairs.com/six-speed/"
-    ]
-  ],
-  [
-    [
       "2025-05-28, 17:35:48",
       "https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse"
     ],
@@ -147,6 +147,16 @@
     [
       "Ray Tracing in J",
       "https://idle.nprescott.com/2020/ray-tracing-in-j.html"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 15:41:21",
+      "https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report"
+    ],
+    [
+      "2024 Medley Interlisp Annual Report",
+      "https://interlisp.org/project/status/2024medleyannualreport/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Scrappy: make little apps for you and your friends",
       "https://pontus.granstrom.me/scrappy/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 19:27:51",
-      "https://lobste.rs/s/wfams6/awesome_emacs_on_macos"
-    ],
-    [
-      "Awesome Emacs on macOS",
-      "https://xenodium.com/awesome-emacs-on-macos"
     ]
   ],
   [
