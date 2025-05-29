@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-29, 06:52:40](https://lobste.rs/s/tweioa/building_distributed_cache_for_s3) - [Building a Distributed Cache for S3](https://clickhouse.com/blog/building-a-distributed-cache-for-s3)
+* [2025-05-29, 08:37:08](https://lobste.rs/s/yt8har/wake_up_remix) - [Wake up, Remix](https://remix.run/blog/wake-up-remix)
 * [2025-05-29, 04:58:59](https://lobste.rs/s/4eenfe/workflows_for_ai_coding) - [workflows for ai coding](https://anniecherkaev.com/the-times-they-are-ai-changing)
 * [2025-05-28, 22:36:26](https://lobste.rs/s/uw4lp1/go_may_require_prefaulting_mmap) - [go may require prefaulting mmap](https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap)
 * [2025-05-28, 22:29:28](https://lobste.rs/s/58oxwy/zero_overhead_checks_with_fake_stack) - [Zero-overhead checks with fake stack overflows](https://bernsteinbear.com/blog/overflow-check/)
