@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-29, 21:40:28",
+      "https://lobste.rs/s/czwd1u/how_instacart_built_modern_search"
+    ],
+    [
+      "How Instacart Built a Modern Search Infrastructure on Postgres",
+      "https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 20:51:02",
       "https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web"
     ],
@@ -177,16 +187,6 @@
     [
       "OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)",
       "https://openbao.org/blog/namespaces-announcement/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 22:36:26",
-      "https://lobste.rs/s/uw4lp1/go_may_require_prefaulting_mmap"
-    ],
-    [
-      "go may require prefaulting mmap",
-      "https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap"
     ]
   ],
   [
