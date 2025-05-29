@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-05-28, 22:29:28",
+      "https://lobste.rs/s/58oxwy/zero_overhead_checks_with_fake_stack"
+    ],
+    [
+      "Zero-overhead checks with fake stack overflows",
+      "https://bernsteinbear.com/blog/overflow-check/"
+    ]
+  ],
+  [
+    [
       "2025-05-28, 22:02:47",
       "https://lobste.rs/s/029ntw/parking_lot_ffffffffffffffff"
     ],
     [
       "parking_lot: ffffffffffffffff",
       "https://fly.io/blog/parking-lot-ffffffffffffffff/"
+    ]
+  ],
+  [
+    [
+      "2025-05-28, 21:18:00",
+      "https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag"
+    ],
+    [
+      "Can we fix (or retire) the vibecoding tag?",
+      "https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Mullvad Leta",
       "https://leta.mullvad.net"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 17:04:45",
-      "https://lobste.rs/s/kwmhnq/how_i_take_work_notes_as_developer"
-    ],
-    [
-      "How I take work notes as a developer",
-      "https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Own Your Email Domain",
       "https://matthewsanabria.dev/posts/own-your-email-domain/"
-    ]
-  ],
-  [
-    [
-      "2025-05-27, 16:55:56",
-      "https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new"
-    ],
-    [
-      "Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers",
-      "https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/"
     ]
   ],
   [
