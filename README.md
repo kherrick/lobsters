@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
+* [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor_lukas_atkinson) - [Net-Negative Cursor | Lukas Atkinson](https://lukasatkinson.de/2025/net-negative-cursor/)
 * [2025-05-29, 20:05:59](https://lobste.rs/s/sswikt/making_openat_2_friends_more_useful) - [Making openat(2) and friends more useful in practice](https://undeadly.org/cgi?action=article;sid=20250529080623)
 * [2025-05-29, 19:53:27](https://lobste.rs/s/vjil64/kea_dhcp_local_vulnerabilities_many) - [Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions](https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html)
 * [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
@@ -11,7 +13,6 @@
 * [2025-05-29, 14:10:59](https://lobste.rs/s/gg9khs/profiling_websites) - [Profiling Websites](https://www.marginalia.nu/log/a_121_profiling_websites/)
 * [2025-05-29, 13:24:28](https://lobste.rs/s/mzm2kk/how_fix_email_encryption) - [How to fix email encryption](https://weddige.eu/en/articles/lets-encrypt-emails/)
 * [2025-05-29, 11:18:04](https://lobste.rs/s/0hfgse/what_s_cooking_on_sourcehut_q2_2025) - [What's cooking on SourceHut? Q2 2025](https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/)
-* [2025-05-29, 10:42:27](https://lobste.rs/s/gwlgay/golden_file_testing) - [Golden File Testing](https://matttproud.com/blog/posts/golden-file-testing.html)
 * [2025-05-29, 10:22:57](https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program) - [Helonium's Hartree-Fock program](https://panadestein.github.io/blog/posts/hf.html)
 * [2025-05-29, 10:05:53](https://lobste.rs/s/e7ybwh/terraria_celeste_ported_webassembly) - [Terraria and Celeste ported to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-29, 10:01:21](https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces) - [OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)](https://openbao.org/blog/namespaces-announcement/)
@@ -23,7 +24,6 @@
 * [2025-05-28, 19:51:25](https://lobste.rs/s/ghh3w5/using_sat_get_world_record_on_linkedin_s) - [Using SAT to Get the World Record on LinkedIn's Queens](https://ryanberger.me/posts/queens/)
 * [2025-05-28, 19:34:34](https://lobste.rs/s/rqc5yc/compiler_explorer_promise_urls_last) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
 * [2025-05-28, 17:35:48](https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
-* [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
 
 ## [Archives](archives/index.md)

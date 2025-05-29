@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
+* [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor_lukas_atkinson) - [Net-Negative Cursor | Lukas Atkinson](https://lukasatkinson.de/2025/net-negative-cursor/)
 * [2025-05-29, 20:05:59](https://lobste.rs/s/sswikt/making_openat_2_friends_more_useful) - [Making openat(2) and friends more useful in practice](https://undeadly.org/cgi?action=article;sid=20250529080623)
 * [2025-05-29, 19:53:27](https://lobste.rs/s/vjil64/kea_dhcp_local_vulnerabilities_many) - [Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions](https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html)
 * [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
