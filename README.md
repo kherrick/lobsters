@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 14:51:03](https://lobste.rs/s/9j9wdi/case_for_using_web_browser_as_your) - [The case for using a web browser as your terminal](https://blog.pomdtr.me/posts/2025-05-29-tweety-v1/)
 * [2025-05-29, 14:32:31](https://lobste.rs/s/z8dg0r/pico_mac_nano_diminutive_macintosh) - [Pico-mac-nano: a diminutive Macintosh facsimile](https://blog.1bitrainbow.com/pico-mac-nano/)
 * [2025-05-29, 14:21:06](https://lobste.rs/s/gpntsk/redesigning_initial_bootstrap_sequence) - [Redesigning the Initial Bootstrap Sequence](https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/)
 * [2025-05-29, 14:10:59](https://lobste.rs/s/gg9khs/profiling_websites) - [Profiling Websites](https://www.marginalia.nu/log/a_121_profiling_websites/)
@@ -24,7 +25,6 @@
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
 * [2025-05-28, 08:44:52](https://lobste.rs/s/pslyxg/why_are_2025_05_28_2025_05_28_different_days) - [Why are 2025/05/28 and 2025-05-28 different days in JavaScript?](https://brandondong.github.io/blog/javascript_dates/)
-* [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \"tech for good\" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
 
 ## [Archives](archives/index.md)
 
