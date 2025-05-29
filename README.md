@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-29, 18:04:47](https://lobste.rs/s/axoaaw/how_do_some_magic_with_indexeddb_2014) - [How to do some magic with indexedDB [2014]](https://www.codeproject.com/Articles/744986/How-to-do-some-magic-with-indexedDB)
+* [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 * [2025-05-29, 17:21:51](https://lobste.rs/s/omtuek/coming_ai_revolution_distributed) - [The Coming AI Revolution in Distributed Systems](https://zfhuang99.github.io/github%20copilot/formal%20verification/tla+/2025/05/24/ai-revolution-in-distributed-systems.html)
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 * [2025-05-29, 15:57:16](https://lobste.rs/s/iw3j8r/i_optimized_our_proxy_server_handle_one) - [I optimized our proxy server to handle one billion databases](https://turso.tech/blog/we-rewrote-large-parts-of-our-api-in-go)
