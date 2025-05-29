@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-28, 22:36:26](https://lobste.rs/s/uw4lp1/go_may_require_prefaulting_mmap) - [go may require prefaulting mmap](https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap)
+* [2025-05-28, 22:29:28](https://lobste.rs/s/58oxwy/zero_overhead_checks_with_fake_stack) - [Zero-overhead checks with fake stack overflows](https://bernsteinbear.com/blog/overflow-check/)
 * [2025-05-28, 22:02:47](https://lobste.rs/s/029ntw/parking_lot_ffffffffffffffff) - [parking_lot: ffffffffffffffff](https://fly.io/blog/parking-lot-ffffffffffffffff/)
+* [2025-05-28, 21:18:00](https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag) - [Can we fix (or retire) the vibecoding tag?](https://lobste.rs/s/djzqbn/can_we_fix_retire_vibecoding_tag)
 * [2025-05-28, 20:38:43](https://lobste.rs/s/s6utq0/saying_bye_glitch) - [Saying Bye to Glitch](https://pketh.org/bye-glitch.html)
 * [2025-05-28, 19:51:25](https://lobste.rs/s/ghh3w5/using_sat_get_world_record_on_linkedin_s) - [Using SAT to Get the World Record on LinkedIn's Queens](https://ryanberger.me/posts/queens/)
 * [2025-05-28, 19:34:34](https://lobste.rs/s/rqc5yc/compiler_explorer_promise_urls_last) - [Compiler Explorer and the Promise of URLs That Last Forever](https://xania.org/202505/compiler-explorer-urls-forever)
@@ -10,7 +12,6 @@
 * [2025-05-28, 17:28:20](https://lobste.rs/s/dsludj/linux_mount_namespaces_persistence) - [Linux Mount Namespaces and persistence](https://jmtd.net/log/mount_namespaces/)
 * [2025-05-28, 17:14:58](https://lobste.rs/s/v0yrwa/compiling_neural_net_c_for_1_744x_speedup) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
-* [2025-05-28, 17:04:45](https://lobste.rs/s/kwmhnq/how_i_take_work_notes_as_developer) - [How I take work notes as a developer](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/)
 * [2025-05-28, 16:51:19](https://lobste.rs/s/fxlce7/ray_tracing_j) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
 * [2025-05-28, 15:41:21](https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report) - [2024 Medley Interlisp Annual Report](https://interlisp.org/project/status/2024medleyannualreport/)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
@@ -23,7 +24,6 @@
 * [2025-05-27, 21:36:31](https://lobste.rs/s/47b4ds/scrappy_make_little_apps_for_you_your) - [Scrappy: make little apps for you and your friends](https://pontus.granstrom.me/scrappy/)
 * [2025-05-27, 19:27:51](https://lobste.rs/s/wfams6/awesome_emacs_on_macos) - [Awesome Emacs on macOS](https://xenodium.com/awesome-emacs-on-macos)
 * [2025-05-27, 18:05:42](https://lobste.rs/s/xafw94/own_your_email_domain) - [Own Your Email Domain](https://matthewsanabria.dev/posts/own-your-email-domain/)
-* [2025-05-27, 16:55:56](https://lobste.rs/s/2uukup/pyrefly_vs_ty_comparing_python_s_two_new) - [Pyrefly vs. ty: Comparing Python’s Two New Rust-Based Type Checkers](https://blog.edward-li.com/tech/comparing-pyrefly-vs-ty/)
 * [2025-05-27, 13:45:20](https://lobste.rs/s/9xx7gs/list_tech_for_good_job_boards) - [List of \"tech for good\" job boards](https://evanhahn.com/list-of-tech-for-good-job-boards/)
 
 ## [Archives](archives/index.md)
