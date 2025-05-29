@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 14:32:31](https://lobste.rs/s/z8dg0r/pico_mac_nano_diminutive_macintosh) - [Pico-mac-nano: a diminutive Macintosh facsimile](https://blog.1bitrainbow.com/pico-mac-nano/)
+* [2025-05-29, 14:21:06](https://lobste.rs/s/gpntsk/redesigning_initial_bootstrap_sequence) - [Redesigning the Initial Bootstrap Sequence](https://blog.rust-lang.org/inside-rust/2025/05/29/redesigning-the-initial-bootstrap-sequence/)
 * [2025-05-29, 14:10:59](https://lobste.rs/s/gg9khs/profiling_websites) - [Profiling Websites](https://www.marginalia.nu/log/a_121_profiling_websites/)
 * [2025-05-29, 13:24:28](https://lobste.rs/s/mzm2kk/how_fix_email_encryption) - [How to fix email encryption](https://weddige.eu/en/articles/lets-encrypt-emails/)
 * [2025-05-29, 13:17:12](https://lobste.rs/s/6uixpp/why_your_ai_coding_assistant_keeps_doing) - [Why Your AI Coding Assistant Keeps Doing It Wrong, and How To Fix It](https://blog.thepete.net/blog/2025/05/22/why-your-ai-coding-assistant-keeps-doing-it-wrong-and-how-to-fix-it/)
