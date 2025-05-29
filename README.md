@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 06:52:40](https://lobste.rs/s/tweioa/building_distributed_cache_for_s3) - [Building a Distributed Cache for S3](https://clickhouse.com/blog/building-a-distributed-cache-for-s3)
 * [2025-05-29, 04:58:59](https://lobste.rs/s/4eenfe/workflows_for_ai_coding) - [workflows for ai coding](https://anniecherkaev.com/the-times-they-are-ai-changing)
 * [2025-05-28, 22:36:26](https://lobste.rs/s/uw4lp1/go_may_require_prefaulting_mmap) - [go may require prefaulting mmap](https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap)
 * [2025-05-28, 22:29:28](https://lobste.rs/s/58oxwy/zero_overhead_checks_with_fake_stack) - [Zero-overhead checks with fake stack overflows](https://bernsteinbear.com/blog/overflow-check/)
@@ -14,7 +15,6 @@
 * [2025-05-28, 17:14:58](https://lobste.rs/s/v0yrwa/compiling_neural_net_c_for_1_744x_speedup) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 16:51:19](https://lobste.rs/s/fxlce7/ray_tracing_j) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
-* [2025-05-28, 15:41:21](https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report) - [2024 Medley Interlisp Annual Report](https://interlisp.org/project/status/2024medleyannualreport/)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 10:57:50](https://lobste.rs/s/1kfzkq/cory_doctorow_on_how_we_lost_internet) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/)
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
