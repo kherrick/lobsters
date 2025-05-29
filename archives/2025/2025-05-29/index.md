@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 13:24:28](https://lobste.rs/s/mzm2kk/how_fix_email_encryption) - [How to fix email encryption](https://weddige.eu/en/articles/lets-encrypt-emails/)
+* [2025-05-29, 13:17:12](https://lobste.rs/s/6uixpp/why_your_ai_coding_assistant_keeps_doing) - [Why Your AI Coding Assistant Keeps Doing It Wrong, and How To Fix It](https://blog.thepete.net/blog/2025/05/22/why-your-ai-coding-assistant-keeps-doing-it-wrong-and-how-to-fix-it/)
 * [2025-05-29, 12:30:35](https://lobste.rs/s/n2fzkf/first_version_elicitation_mcp_draft) - [First version of Elicitation to the MCP draft specification](https://modelcontextprotocol.io/specification/draft/client/elicitation)
 * [2025-05-29, 12:29:27](https://lobste.rs/s/hs7frz/orthogonal_persistence_model) - [Orthogonal Persistence, the Model](https://www.youtube.com/watch?v=stEl-RBJVdA)
 * [2025-05-29, 11:18:04](https://lobste.rs/s/0hfgse/what_s_cooking_on_sourcehut_q2_2025) - [What's cooking on SourceHut? Q2 2025](https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/)
