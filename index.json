@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-29, 16:52:45",
+      "https://lobste.rs/s/loydfp/break_from_programming_languages"
+    ],
+    [
+      "A break from programming languages",
+      "https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 16:41:10",
       "https://lobste.rs/s/zb5lop/bootstrapping_http_1_1_http_2_http_3"
     ],
@@ -217,16 +227,6 @@
     [
       "Mullvad Leta",
       "https://leta.mullvad.net"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 15:36:54",
-      "https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with"
-    ],
-    [
-      "LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux",
-      "https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/"
     ]
   ],
   [
