@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-05-29, 21:50:19](https://lobste.rs/s/cubwue/this_website_does_not_exist) - [This website does not exist](https://thiswebsitedoesnotexist.net/)
+* [2025-05-29, 21:40:28](https://lobste.rs/s/czwd1u/how_instacart_built_modern_search) - [How Instacart Built a Modern Search Infrastructure on Postgres](https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54)
 * [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
 * [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor_lukas_atkinson) - [Net-Negative Cursor | Lukas Atkinson](https://lukasatkinson.de/2025/net-negative-cursor/)
 * [2025-05-29, 20:05:59](https://lobste.rs/s/sswikt/making_openat_2_friends_more_useful) - [Making openat(2) and friends more useful in practice](https://undeadly.org/cgi?action=article;sid=20250529080623)
@@ -18,7 +19,6 @@
 * [2025-05-29, 10:22:57](https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program) - [Helonium's Hartree-Fock program](https://panadestein.github.io/blog/posts/hf.html)
 * [2025-05-29, 10:05:53](https://lobste.rs/s/e7ybwh/terraria_celeste_ported_webassembly) - [Terraria and Celeste ported to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-29, 10:01:21](https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces) - [OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)](https://openbao.org/blog/namespaces-announcement/)
-* [2025-05-28, 22:36:26](https://lobste.rs/s/uw4lp1/go_may_require_prefaulting_mmap) - [go may require prefaulting mmap](https://flak.tedunangst.com/post/go-may-require-prefaulting-mmap)
 * [2025-05-28, 22:02:47](https://lobste.rs/s/029ntw/parking_lot_ffffffffffffffff) - [parking_lot: ffffffffffffffff](https://fly.io/blog/parking-lot-ffffffffffffffff/)
 * [2025-05-28, 20:38:43](https://lobste.rs/s/s6utq0/saying_bye_glitch) - [Saying Bye to Glitch](https://pketh.org/bye-glitch.html)
 * [2025-05-28, 19:51:25](https://lobste.rs/s/ghh3w5/using_sat_get_world_record_on_linkedin_s) - [Using SAT to Get the World Record on LinkedIn's Queens](https://ryanberger.me/posts/queens/)
