@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-29, 06:52:40",
+      "https://lobste.rs/s/tweioa/building_distributed_cache_for_s3"
+    ],
+    [
+      "Building a Distributed Cache for S3",
+      "https://clickhouse.com/blog/building-a-distributed-cache-for-s3"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 04:58:59",
       "https://lobste.rs/s/4eenfe/workflows_for_ai_coding"
     ],
@@ -137,16 +147,6 @@
     [
       "Ray Tracing in J",
       "https://idle.nprescott.com/2020/ray-tracing-in-j.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 15:41:21",
-      "https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report"
-    ],
-    [
-      "2024 Medley Interlisp Annual Report",
-      "https://interlisp.org/project/status/2024medleyannualreport/"
     ]
   ],
   [
