@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 * [2025-05-29, 16:41:10](https://lobste.rs/s/zb5lop/bootstrapping_http_1_1_http_2_http_3) - [Bootstrapping HTTP/1.1, HTTP/2, and HTTP/3](https://www.netmeister.org/blog/http-123.html)
 * [2025-05-29, 15:57:16](https://lobste.rs/s/iw3j8r/i_optimized_our_proxy_server_handle_one) - [I optimized our proxy server to handle one billion databases](https://turso.tech/blog/we-rewrote-large-parts-of-our-api-in-go)
 * [2025-05-29, 15:55:00](https://lobste.rs/s/1j1muh/learning_c3) - [Learning C3](https://alloc.dev/2025/05/29/learning_c3)
