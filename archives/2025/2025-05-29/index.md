@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 12:30:35](https://lobste.rs/s/n2fzkf/first_version_elicitation_mcp_draft) - [First version of Elicitation to the MCP draft specification](https://modelcontextprotocol.io/specification/draft/client/elicitation)
+* [2025-05-29, 12:29:27](https://lobste.rs/s/hs7frz/orthogonal_persistence_model) - [Orthogonal Persistence, the Model](https://www.youtube.com/watch?v=stEl-RBJVdA)
 * [2025-05-29, 11:18:04](https://lobste.rs/s/0hfgse/what_s_cooking_on_sourcehut_q2_2025) - [What's cooking on SourceHut? Q2 2025](https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/)
 * [2025-05-29, 10:42:27](https://lobste.rs/s/gwlgay/golden_file_testing) - [Golden File Testing](https://matttproud.com/blog/posts/golden-file-testing.html)
 * [2025-05-29, 10:22:57](https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program) - [Helonium's Hartree-Fock program](https://panadestein.github.io/blog/posts/hf.html)
