@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-29](index.md)
 
+* [2025-05-29, 10:22:57](https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program) - [Helonium's Hartree-Fock program](https://panadestein.github.io/blog/posts/hf.html)
 * [2025-05-29, 10:05:53](https://lobste.rs/s/e7ybwh/terraria_celeste_ported_webassembly) - [Terraria and Celeste ported to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-29, 10:01:21](https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces) - [OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)](https://openbao.org/blog/namespaces-announcement/)
 * [2025-05-29, 09:13:03](https://lobste.rs/s/n7ly8i/3_ways_javascript_frameworks_render_dom) - [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)

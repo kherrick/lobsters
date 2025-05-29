@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-29, 10:22:57](https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program) - [Helonium's Hartree-Fock program](https://panadestein.github.io/blog/posts/hf.html)
 * [2025-05-29, 10:05:53](https://lobste.rs/s/e7ybwh/terraria_celeste_ported_webassembly) - [Terraria and Celeste ported to WebAssembly](https://velzie.rip/blog/celeste-wasm)
 * [2025-05-29, 10:01:21](https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces) - [OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)](https://openbao.org/blog/namespaces-announcement/)
 * [2025-05-29, 09:13:03](https://lobste.rs/s/n7ly8i/3_ways_javascript_frameworks_render_dom) - [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)
@@ -16,7 +17,6 @@
 * [2025-05-28, 17:14:58](https://lobste.rs/s/v0yrwa/compiling_neural_net_c_for_1_744x_speedup) - [Compiling a Neural Net to C for a 1,744× speedup](https://slightknack.dev/blog/difflogic/)
 * [2025-05-28, 17:07:55](https://lobste.rs/s/sd0qfz/mullvad_leta) - [Mullvad Leta](https://leta.mullvad.net)
 * [2025-05-28, 16:51:19](https://lobste.rs/s/fxlce7/ray_tracing_j) - [Ray Tracing in J](https://idle.nprescott.com/2020/ray-tracing-in-j.html)
-* [2025-05-28, 15:41:21](https://lobste.rs/s/onpmsm/2024_medley_interlisp_annual_report) - [2024 Medley Interlisp Annual Report](https://interlisp.org/project/status/2024medleyannualreport/)
 * [2025-05-28, 15:36:54](https://lobste.rs/s/xe61v2/llm_codegen_go_brrr_parallelization_with) - [LLM Codegen go Brrr – Parallelization with Git Worktrees and Tmux](https://www.skeptrune.com/posts/git-worktrees-agents-and-tmux/)
 * [2025-05-28, 10:57:50](https://lobste.rs/s/1kfzkq/cory_doctorow_on_how_we_lost_internet) - [Cory Doctorow on how we lost the internet](https://lwn.net/SubscriberLink/1021871/ffeed46818908c91/)
 * [2025-05-28, 09:40:28](https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by) - [A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix](https://github.com/leoshimo/vrs)
