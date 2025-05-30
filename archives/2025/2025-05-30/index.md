@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 * [2025-05-30, 06:41:38](https://lobste.rs/s/7qrihr/radix_2_51_trick_2017) - [The radix 2^51 trick (2017)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 06:21:06](https://lobste.rs/s/jhsxpa/three_level_summary_neural_radiance) - [Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting](https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS)
 * [2025-05-30, 04:52:23](https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way) - [Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
