@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-05-29, 10:42:27",
+      "https://lobste.rs/s/gwlgay/golden_file_testing"
+    ],
+    [
+      "Golden File Testing",
+      "https://matttproud.com/blog/posts/golden-file-testing.html"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 10:22:57",
       "https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program"
     ],
@@ -237,16 +247,6 @@
     [
       "I am disappointed in the AI discourse",
       "https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 09:40:28",
-      "https://lobste.rs/s/byk1vh/personal_software_runtime_inspired_by"
-    ],
-    [
-      "A Personal Software Runtime inspired by Emacs, Plan 9, Erlang, Hypermedia, and Unix",
-      "https://github.com/leoshimo/vrs"
     ]
   ]
 ]
