@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-05-30, 06:21:06",
+      "https://lobste.rs/s/jhsxpa/three_level_summary_neural_radiance"
+    ],
+    [
+      "Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting",
+      "https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 04:52:23",
       "https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way"
     ],
@@ -117,16 +127,6 @@
     [
       "Making openat(2) and friends more useful in practice",
       "https://undeadly.org/cgi?action=article;sid=20250529080623"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 19:53:27",
-      "https://lobste.rs/s/vjil64/kea_dhcp_local_vulnerabilities_many"
-    ],
-    [
-      "Kea DHCP: Local Vulnerabilities in many Linux and BSD Distributions",
-      "https://security.opensuse.org/2025/05/28/kea-dhcp-security-issues.html"
     ]
   ],
   [
