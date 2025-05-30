@@ -16,6 +16,7 @@
 * [2025-05-30, 12:48:41](https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2025-05-30, 12:44:55](https://lobste.rs/s/4clijt/types_other_techniques_as_accessibility) - [Types and other techniques as an accessibility tool for the ADHD brain](https://www.youtube.com/watch?v=DG5gLPFKcbk)
 * [2025-05-30, 11:41:54](https://lobste.rs/s/imkvmf/cve_2024_38063_remotely_exploiting) - [CVE-2024-38063 - Remotely Exploiting The Kernel Via IPv6](https://malwaretech.com/2024/08/exploiting-CVE-2024-38063.html)
+* [2025-05-30, 10:52:08](https://lobste.rs/s/lzy7b2/on_interactive_development) - [On Interactive Development](https://lambdaisland.com/blog/2025-05-13-on-interactive)
 * [2025-05-30, 09:54:13](https://lobste.rs/s/5vr5pj/icu4x_2_0_released) - [ICU4X 2.0 released](http://blog.unicode.org/2025/05/icu4x-20-released.html)
 * [2025-05-30, 09:52:07](https://lobste.rs/s/1ch2zd/radix_2_51_trick_256_bit_addition_2020) - [The radix 2^51 trick to 256-bit addition (2020)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
