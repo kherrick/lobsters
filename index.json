@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-30, 09:49:37",
+      "https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production"
+    ],
+    [
+      "When was the last time you broke production and how?",
+      "https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 06:54:21",
       "https://lobste.rs/s/y13fa3/poor_man_s_types"
     ],
@@ -77,16 +87,6 @@
     [
       "This website does not exist",
       "https://thiswebsitedoesnotexist.net/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 21:40:28",
-      "https://lobste.rs/s/czwd1u/how_instacart_built_modern_search"
-    ],
-    [
-      "How Instacart Built a Modern Search Infrastructure on Postgres",
-      "https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54"
     ]
   ],
   [
