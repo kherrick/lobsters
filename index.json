@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-30, 17:13:00",
+      "https://lobste.rs/s/ykhfh0/programming_beyond_practices"
+    ],
+    [
+      "Programming Beyond Practices",
+      "https://notes.skillstopractice.com/pbp.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 16:10:54",
       "https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "What's cooking on SourceHut? Q2 2025",
       "https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 10:01:21",
-      "https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces"
-    ],
-    [
-      "OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)",
-      "https://openbao.org/blog/namespaces-announcement/"
     ]
   ]
 ]
