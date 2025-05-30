@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-05-30, 06:41:38",
-      "https://lobste.rs/s/7qrihr/radix_2_51_trick_2017"
-    ],
-    [
-      "The radix 2^51 trick (2017)",
-      "https://www.chosenplaintext.ca/articles/radix-2-51-trick.html"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 04:52:23",
       "https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way"
     ],
@@ -77,6 +67,16 @@
     [
       "This website does not exist",
       "https://thiswebsitedoesnotexist.net/"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 21:40:28",
+      "https://lobste.rs/s/czwd1u/how_instacart_built_modern_search"
+    ],
+    [
+      "How Instacart Built a Modern Search Infrastructure on Postgres",
+      "https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54"
     ]
   ],
   [
