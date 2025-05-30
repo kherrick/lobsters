@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
 * [2025-05-30, 13:59:32](https://lobste.rs/s/xjmedj/maintaining_open_source_from_prison) - [Maintaining open source from prison](https://youtu.be/isSX8T4OK5U)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access — fireborn](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
@@ -24,7 +25,6 @@
 * [2025-05-29, 14:51:03](https://lobste.rs/s/9j9wdi/case_for_using_web_browser_as_your) - [The case for using a web browser as your terminal](https://blog.pomdtr.me/posts/tweety-v1/)
 * [2025-05-29, 11:18:04](https://lobste.rs/s/0hfgse/what_s_cooking_on_sourcehut_q2_2025) - [What's cooking on SourceHut? Q2 2025](https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/)
 * [2025-05-29, 10:01:21](https://lobste.rs/s/ovdyqg/openbao_v2_3_now_supports_namespaces) - [OpenBao v2.3 now supports Namespaces (HashiCorp Vault fork)](https://openbao.org/blog/namespaces-announcement/)
-* [2025-05-28, 17:35:48](https://lobste.rs/s/42qb2p/i_am_disappointed_ai_discourse) - [I am disappointed in the AI discourse](https://steveklabnik.com/writing/i-am-disappointed-in-the-ai-discourse/)
 
 ## [Archives](archives/index.md)
 
