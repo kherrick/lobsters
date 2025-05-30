@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 18:23:05](https://lobste.rs/s/odnoc2/what_is_racket_doing) - [What is Racket DOING???](https://defn.io/2025/05/30/racket-thread-stack-dumps/)
+* [2025-05-30, 17:51:19](https://lobste.rs/s/hqlvf9/book_shen) - [The Book of Shen](https://shenlanguage.org/TBoS/tbos.html)
 * [2025-05-30, 17:13:00](https://lobste.rs/s/ykhfh0/programming_beyond_practices) - [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
 * [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
 * [2025-05-30, 14:55:50](https://lobste.rs/s/x1eeru/decomplexification) - [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/)
