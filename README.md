@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 * [2025-05-30, 06:21:06](https://lobste.rs/s/jhsxpa/three_level_summary_neural_radiance) - [Three Level Summary: Neural Radiance Fields vs. 3D Gaussian Splatting](https://edwardahn.me/archive/2024/02/19/NeRFvs3DGS)
 * [2025-05-30, 04:52:23](https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way) - [Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/)
@@ -8,7 +9,6 @@
 * [2025-05-29, 23:17:29](https://lobste.rs/s/gwf1mz/revisiting_loop_recognition_c_rust) - [Revisiting Loop Recognition in C++... in Rust](http://blomqu.ist/posts/2025/loop-recognition)
 * [2025-05-29, 22:04:23](https://lobste.rs/s/n1yo1z/grog_mono_repo_build_tool_for_grug_brained) - [Grog: the mono-repo build tool for the grug-brained dev](https://grog.build/)
 * [2025-05-29, 21:50:19](https://lobste.rs/s/cubwue/this_website_does_not_exist) - [This website does not exist](https://thiswebsitedoesnotexist.net/)
-* [2025-05-29, 21:40:28](https://lobste.rs/s/czwd1u/how_instacart_built_modern_search) - [How Instacart Built a Modern Search Infrastructure on Postgres](https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54)
 * [2025-05-29, 21:27:13](https://lobste.rs/s/nl1rei/hellcaptcha_accessibility_theater_at) - [HellCaptcha: Accessibility Theater at Its Worst](https://fireborn.mataroa.blog/blog/hellcaptcha-accessibility-theater-at-its-worst/)
 * [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
 * [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor) - [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
