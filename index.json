@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-05-30, 14:55:50",
+      "https://lobste.rs/s/x1eeru/decomplexification"
+    ],
+    [
+      "Decomplexification",
+      "https://daniel.haxx.se/blog/2025/05/29/decomplexification/"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 13:59:32",
       "https://lobste.rs/s/xjmedj/maintaining_open_source_from_prison"
     ],
@@ -147,16 +157,6 @@
     [
       "Revisiting Loop Recognition in C++... in Rust",
       "http://blomqu.ist/posts/2025/loop-recognition"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 22:04:23",
-      "https://lobste.rs/s/n1yo1z/grog_mono_repo_build_tool_for_grug_brained"
-    ],
-    [
-      "Grog: the mono-repo build tool for the grug-brained dev",
-      "https://grog.build/"
     ]
   ],
   [
