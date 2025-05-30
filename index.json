@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-30, 01:43:05",
+      "https://lobste.rs/s/xv6zge/one_true_lisp_style_guide"
+    ],
+    [
+      "The-One-True-Lisp-Style-Guide",
+      "https://github.com/foxsae/The-One-True-Lisp-Style-Guide"
+    ]
+  ],
+  [
+    [
+      "2025-05-30, 00:57:29",
+      "https://lobste.rs/s/qgsihb/domain_os_design_principles_1989"
+    ],
+    [
+      "Domain/OS Design Principles (1989)",
+      "http://www.bitsavers.org/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-29, 23:17:29",
       "https://lobste.rs/s/gwf1mz/revisiting_loop_recognition_c_rust"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-05-29, 10:42:27",
-      "https://lobste.rs/s/gwlgay/golden_file_testing"
-    ],
-    [
-      "Golden File Testing",
-      "https://matttproud.com/blog/posts/golden-file-testing.html"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 10:22:57",
       "https://lobste.rs/s/hkhmdn/helonium_s_hartree_fock_program"
     ],
@@ -217,16 +227,6 @@
     [
       "Saying Bye to Glitch",
       "https://pketh.org/bye-glitch.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-28, 19:51:25",
-      "https://lobste.rs/s/ghh3w5/using_sat_get_world_record_on_linkedin_s"
-    ],
-    [
-      "Using SAT to Get the World Record on LinkedIn's Queens",
-      "https://ryanberger.me/posts/queens/"
     ]
   ],
   [
