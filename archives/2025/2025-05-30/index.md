@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-30](index.md)
 
+* [2025-05-30, 19:30:54](https://lobste.rs/s/awkvzj/using_slop_forensics_determine_model) - [Using ‘Slop Forensics’ to Determine Model Ancestry](https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html)
 * [2025-05-30, 18:23:05](https://lobste.rs/s/odnoc2/what_is_racket_doing) - [What is Racket DOING???](https://defn.io/2025/05/30/racket-thread-stack-dumps/)
 * [2025-05-30, 17:51:19](https://lobste.rs/s/hqlvf9/book_shen) - [The Book of Shen](https://shenlanguage.org/TBoS/tbos.html)
 * [2025-05-30, 17:13:00](https://lobste.rs/s/ykhfh0/programming_beyond_practices) - [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
