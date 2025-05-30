@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-05-30, 00:57:29",
-      "https://lobste.rs/s/qgsihb/domain_os_design_principles_1989"
-    ],
-    [
-      "Domain/OS Design Principles (1989)",
-      "http://www.bitsavers.org/pdf/apollo/014962-A00_Domain_OS_Design_Principles_Jan89.pdf"
-    ]
-  ],
-  [
-    [
       "2025-05-29, 23:17:29",
       "https://lobste.rs/s/gwf1mz/revisiting_loop_recognition_c_rust"
     ],
@@ -187,6 +177,16 @@
     [
       "What's cooking on SourceHut? Q2 2025",
       "https://sourcehut.org/blog/2025-05-29-whats-cooking-q2/"
+    ]
+  ],
+  [
+    [
+      "2025-05-29, 10:42:27",
+      "https://lobste.rs/s/gwlgay/golden_file_testing"
+    ],
+    [
+      "Golden File Testing",
+      "https://matttproud.com/blog/posts/golden-file-testing.html"
     ]
   ],
   [
