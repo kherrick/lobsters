@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 02:20:00",
+      "https://lobste.rs/s/al3t1f/c_rust_phrasebook"
+    ],
+    [
+      "C++ to Rust Phrasebook",
+      "https://cel.cs.brown.edu/crp/title-page.html"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 01:04:51",
       "https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s"
     ],
@@ -197,16 +207,6 @@
     [
       "Net-Negative Cursor",
       "https://lukasatkinson.de/2025/net-negative-cursor/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 20:05:59",
-      "https://lobste.rs/s/sswikt/making_openat_2_friends_more_useful"
-    ],
-    [
-      "Making openat(2) and friends more useful in practice",
-      "https://undeadly.org/cgi?action=article;sid=20250529080623"
     ]
   ],
   [
