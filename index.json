@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 01:04:51",
+      "https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s"
+    ],
+    [
+      "Improving EC2 boot time from 4s to 2.8s",
+      "https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time"
+    ]
+  ],
+  [
+    [
       "2025-05-30, 19:30:54",
       "https://lobste.rs/s/awkvzj/using_slop_forensics_determine_model"
     ],
@@ -97,16 +107,6 @@
     [
       "Types and other techniques as an accessibility tool for the ADHD brain",
       "https://www.youtube.com/watch?v=DG5gLPFKcbk"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 10:52:08",
-      "https://lobste.rs/s/lzy7b2/on_interactive_development"
-    ],
-    [
-      "On Interactive Development",
-      "https://lambdaisland.com/blog/2025-05-13-on-interactive"
     ]
   ],
   [
