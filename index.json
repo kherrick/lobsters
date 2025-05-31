@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-05-31, 16:31:51",
+      "https://lobste.rs/s/jksuah/configure_your_git"
+    ],
+    [
+      "Configure your Git",
+      "https://www.youtube.com/watch?v=G3NJzFX6XhY"
+    ]
+  ],
+  [
+    [
+      "2025-05-31, 16:29:43",
+      "https://lobste.rs/s/jccyvj/half_spectre_full_exploit_hardening"
+    ],
+    [
+      "Half Spectre, Full Exploit: Hardening Rowhammer Attacks with Half-Spectre Gadgets",
+      "https://download.vusec.net/papers/halfspectre_sp25.pdf"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 14:24:49",
       "https://lobste.rs/s/oteyp3/tclforth_multi_platform_desktop_forth"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-05-30, 17:51:19",
-      "https://lobste.rs/s/hqlvf9/book_shen"
-    ],
-    [
-      "The Book of Shen",
-      "https://shenlanguage.org/TBoS/tbos.html"
-    ]
-  ],
-  [
-    [
       "2025-05-30, 17:13:00",
       "https://lobste.rs/s/ykhfh0/programming_beyond_practices"
     ],
@@ -147,16 +157,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 14:55:50",
-      "https://lobste.rs/s/x1eeru/decomplexification"
-    ],
-    [
-      "Decomplexification",
-      "https://daniel.haxx.se/blog/2025/05/29/decomplexification/"
     ]
   ],
   [
