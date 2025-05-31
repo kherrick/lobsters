@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel - Home](https://melsloop.com)
+* [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel](https://melsloop.com)
 * [2025-05-31, 16:48:40](https://lobste.rs/s/hc0rfn/punchcard_key_backup) - [PunchCard Key Backup](https://volution.ro/pckb/)
 * [2025-05-31, 16:31:51](https://lobste.rs/s/jksuah/configure_your_git) - [Configure your Git](https://www.youtube.com/watch?v=G3NJzFX6XhY)
 * [2025-05-31, 16:29:43](https://lobste.rs/s/jccyvj/half_spectre_full_exploit_hardening) - [Half Spectre, Full Exploit: Hardening Rowhammer Attacks with Half-Spectre Gadgets](https://download.vusec.net/papers/halfspectre_sp25.pdf)
