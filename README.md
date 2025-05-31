@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 08:25:29](https://lobste.rs/s/kdg6ce/inboxes_are_underrated) - [Inboxes are Underrated](https://borretti.me/article/inboxes-are-underrated)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 * [2025-05-31, 07:23:38](https://lobste.rs/s/46rzym/writing_your_own_c_standard_library_part_2) - [Writing your own C++ standard library part 2](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
@@ -20,7 +21,6 @@
 * [2025-05-30, 09:52:07](https://lobste.rs/s/1ch2zd/radix_2_51_trick_256_bit_addition_2020) - [The radix 2^51 trick to 256-bit addition (2020)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
-* [2025-05-30, 04:36:21](https://lobste.rs/s/tsxfuc/linux_6_15_kernel_arrives_it_s_big_victory) - [The Linux 6.15 kernel arrives and it's a big victory for Rust fans](https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/)
 * [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
 * [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor) - [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)

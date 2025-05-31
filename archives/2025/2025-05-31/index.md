@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 08:25:29](https://lobste.rs/s/kdg6ce/inboxes_are_underrated) - [Inboxes are Underrated](https://borretti.me/article/inboxes-are-underrated)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
 * [2025-05-31, 07:23:38](https://lobste.rs/s/46rzym/writing_your_own_c_standard_library_part_2) - [Writing your own C++ standard library part 2](https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html)
