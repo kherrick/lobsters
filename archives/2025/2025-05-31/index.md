@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 11:19:23](https://lobste.rs/s/kutdu8/foss_tools_for_infrastructure_testing) - [FOSS tools for infrastructure testing](https://bitfehler.srht.site/posts/2025-04-04_foss-tools-for-infrastructure-testing.html)
 * [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 08:25:29](https://lobste.rs/s/kdg6ce/inboxes_are_underrated) - [Inboxes are Underrated](https://borretti.me/article/inboxes-are-underrated)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)

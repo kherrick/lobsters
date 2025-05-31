@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-31, 11:19:23](https://lobste.rs/s/kutdu8/foss_tools_for_infrastructure_testing) - [FOSS tools for infrastructure testing](https://bitfehler.srht.site/posts/2025-04-04_foss-tools-for-infrastructure-testing.html)
 * [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 08:25:29](https://lobste.rs/s/kdg6ce/inboxes_are_underrated) - [Inboxes are Underrated](https://borretti.me/article/inboxes-are-underrated)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
@@ -17,7 +18,6 @@
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
 * [2025-05-30, 12:48:41](https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
-* [2025-05-30, 12:44:55](https://lobste.rs/s/4clijt/types_other_techniques_as_accessibility) - [Types and other techniques as an accessibility tool for the ADHD brain](https://www.youtube.com/watch?v=DG5gLPFKcbk)
 * [2025-05-30, 09:52:07](https://lobste.rs/s/1ch2zd/radix_2_51_trick_256_bit_addition_2020) - [The radix 2^51 trick to 256-bit addition (2020)](https://www.chosenplaintext.ca/articles/radix-2-51-trick.html)
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
