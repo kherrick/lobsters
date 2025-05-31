@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel - Home](https://melsloop.com)
 * [2025-05-31, 16:48:40](https://lobste.rs/s/hc0rfn/punchcard_key_backup) - [PunchCard Key Backup](https://volution.ro/pckb/)
 * [2025-05-31, 16:31:51](https://lobste.rs/s/jksuah/configure_your_git) - [Configure your Git](https://www.youtube.com/watch?v=G3NJzFX6XhY)
 * [2025-05-31, 16:29:43](https://lobste.rs/s/jccyvj/half_spectre_full_exploit_hardening) - [Half Spectre, Full Exploit: Hardening Rowhammer Attacks with Half-Spectre Gadgets](https://download.vusec.net/papers/halfspectre_sp25.pdf)
@@ -17,7 +18,6 @@
 * [2025-05-30, 18:23:05](https://lobste.rs/s/odnoc2/what_is_racket_doing) - [What is Racket DOING???](https://defn.io/2025/05/30/racket-thread-stack-dumps/)
 * [2025-05-30, 17:13:00](https://lobste.rs/s/ykhfh0/programming_beyond_practices) - [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
 * [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
-* [2025-05-30, 14:55:50](https://lobste.rs/s/x1eeru/decomplexification) - [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
 * [2025-05-30, 12:48:41](https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
