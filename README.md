@@ -17,6 +17,7 @@
 * [2025-05-30, 18:23:05](https://lobste.rs/s/odnoc2/what_is_racket_doing) - [What is Racket DOING???](https://defn.io/2025/05/30/racket-thread-stack-dumps/)
 * [2025-05-30, 17:13:00](https://lobste.rs/s/ykhfh0/programming_beyond_practices) - [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
 * [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
+* [2025-05-30, 14:55:50](https://lobste.rs/s/x1eeru/decomplexification) - [Decomplexification](https://daniel.haxx.se/blog/2025/05/29/decomplexification/)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
 * [2025-05-30, 12:48:41](https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
@@ -24,7 +25,6 @@
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 * [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
-* [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 
 ## [Archives](archives/index.md)
 
