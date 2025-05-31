@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-05-31, 06:20:18](https://lobste.rs/s/mihdik/beating_kctf_pow_with_avx512ifma_for_51k) - [Beating the kCTF PoW with AVX512IFMA for $51k](https://anemato.de/blog/kctf-vdf)
 * [2025-05-31, 04:41:52](https://lobste.rs/s/kdopjy/simpler_backoff) - [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
 * [2025-05-31, 02:20:00](https://lobste.rs/s/al3t1f/c_rust_phrasebook) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 * [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
@@ -22,7 +23,6 @@
 * [2025-05-29, 21:50:19](https://lobste.rs/s/cubwue/this_website_does_not_exist) - [This website does not exist](https://thiswebsitedoesnotexist.net/)
 * [2025-05-29, 20:51:02](https://lobste.rs/s/qnrz7c/which_new_language_should_i_learn_for_web) - [Which New Language Should I Learn for Web Development?](https://mtlynch.io/notes/which-new-language/)
 * [2025-05-29, 20:37:25](https://lobste.rs/s/dj960n/net_negative_cursor) - [Net-Negative Cursor](https://lukasatkinson.de/2025/net-negative-cursor/)
-* [2025-05-29, 18:28:18](https://lobste.rs/s/giokgl/systems_correctness_practices_at_amazon) - [Systems Correctness Practices at Amazon Web Services](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/)
 * [2025-05-29, 16:52:45](https://lobste.rs/s/loydfp/break_from_programming_languages) - [A break from programming languages](https://lexi-lambda.github.io/blog/2025/05/29/a-break-from-programming-languages/)
 * [2025-05-29, 14:51:03](https://lobste.rs/s/9j9wdi/case_for_using_web_browser_as_your) - [The case for using a web browser as your terminal](https://blog.pomdtr.me/posts/tweety-v1/)
 
