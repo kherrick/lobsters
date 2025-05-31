@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 07:36:53",
+      "https://lobste.rs/s/3fzspa/implementing_forth"
+    ],
+    [
+      "Implementing a Forth",
+      "https://ratfactor.com/forth/implementing"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 07:23:38",
       "https://lobste.rs/s/46rzym/writing_your_own_c_standard_library_part_2"
     ],
@@ -187,16 +197,6 @@
     [
       "The Linux 6.15 kernel arrives and it's a big victory for Rust fans",
       "https://www.zdnet.com/article/the-linux-6-15-kernel-arrives-and-its-big-a-victory-for-rust-fans/"
-    ]
-  ],
-  [
-    [
-      "2025-05-29, 23:17:29",
-      "https://lobste.rs/s/gwf1mz/revisiting_loop_recognition_c_rust"
-    ],
-    [
-      "Revisiting Loop Recognition in C++... in Rust",
-      "http://blomqu.ist/posts/2025/loop-recognition"
     ]
   ],
   [
