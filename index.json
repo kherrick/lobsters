@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-05-31, 07:23:38",
+      "https://lobste.rs/s/46rzym/writing_your_own_c_standard_library_part_2"
+    ],
+    [
+      "Writing your own C++ standard library part 2",
+      "https://nibblestew.blogspot.com/2025/05/writing-your-own-c-standard-library.html"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 06:20:18",
       "https://lobste.rs/s/mihdik/beating_kctf_pow_with_avx512ifma_for_51k"
     ],
@@ -167,16 +177,6 @@
     [
       "A poor man’s types",
       "https://blog.snork.dev/posts/a-poor-man-s-types.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 04:52:23",
-      "https://lobste.rs/s/cinefb/announcing_dotnet_run_app_cs_simpler_way"
-    ],
-    [
-      "Announcing dotnet run app.cs—A simpler way to start with C# and .NET 10",
-      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-run-app/"
     ]
   ],
   [
