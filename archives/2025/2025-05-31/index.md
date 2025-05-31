@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-05-31](index.md)
 
+* [2025-05-31, 22:39:28](https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete) - [Tools built on tree-sitter's concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
+* [2025-05-31, 22:34:49](https://lobste.rs/s/ummpur/kees_cook_account_disabled_for_suspected) - [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
 * [2025-05-31, 21:15:12](https://lobste.rs/s/g7djyy/hey_rust_i_think_i_know_just_what_feeling_is) - [Hey Rust, I think I know just what the feeling is](https://snth.prose.sh/hey_rust)
 * [2025-05-31, 21:15:00](https://lobste.rs/s/hqqszu/precision_clock_mk_iv) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 * [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel - Home](https://melsloop.com)
