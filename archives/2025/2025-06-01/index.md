@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 10:59:56](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past) - [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY)
 * [2025-06-01, 10:32:02](https://lobste.rs/s/buoxqy/how_grow_lsm_tree_towards_bridging_gap) - [How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice](https://arxiv.org/abs/2504.17178)
 * [2025-06-01, 09:34:40](https://lobste.rs/s/4bqk7d/leap_ai_developer_agent_builds_deploys) - [Leap - AI developer agent that builds and deploys apps to your cloud](https://leap.new)
