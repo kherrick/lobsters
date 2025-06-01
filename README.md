@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:02:34](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-06-01, 04:52:52](https://lobste.rs/s/mjpefh/structured_errors_go) - [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
@@ -12,7 +13,6 @@
 * [2025-05-31, 21:15:00](https://lobste.rs/s/hqqszu/precision_clock_mk_iv) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 * [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel](https://melsloop.com)
 * [2025-05-31, 16:48:40](https://lobste.rs/s/hc0rfn/punchcard_key_backup) - [PunchCard Key Backup](https://volution.ro/pckb/)
-* [2025-05-31, 16:31:51](https://lobste.rs/s/jksuah/configure_your_git) - [Configure your Git](https://www.youtube.com/watch?v=G3NJzFX6XhY)
 * [2025-05-31, 14:24:49](https://lobste.rs/s/oteyp3/tclforth_multi_platform_desktop_forth) - [TclForth: Multi-platform desktop Forth based on Tcl/Tk](https://github.com/wejgaard/TclForth)
 * [2025-05-31, 12:26:31](https://lobste.rs/s/zypx6x/tpde_fast_adaptable_compiler_back_end) - [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
 * [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)

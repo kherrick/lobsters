@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-06-01, 05:02:34](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-06-01, 04:52:52](https://lobste.rs/s/mjpefh/structured_errors_go) - [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
