@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 04:52:52",
+      "https://lobste.rs/s/mjpefh/structured_errors_go"
+    ],
+    [
+      "Structured errors in Go",
+      "https://southcla.ws/structured-errors-in-go"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 04:45:50",
       "https://lobste.rs/s/jotkj5/why_use_structured_errors_rust"
     ],
@@ -117,16 +127,6 @@
     [
       "TPDE: A Fast Adaptable Compiler Back-End Framework",
       "https://arxiv.org/abs/2505.22610"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 11:19:23",
-      "https://lobste.rs/s/kutdu8/foss_tools_for_infrastructure_testing"
-    ],
-    [
-      "FOSS tools for infrastructure testing",
-      "https://bitfehler.srht.site/posts/2025-04-04_foss-tools-for-infrastructure-testing.html"
     ]
   ],
   [
