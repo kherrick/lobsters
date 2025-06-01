@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-01, 10:59:56](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past) - [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY)
 * [2025-06-01, 10:32:02](https://lobste.rs/s/buoxqy/how_grow_lsm_tree_towards_bridging_gap) - [How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice](https://arxiv.org/abs/2504.17178)
 * [2025-06-01, 09:34:40](https://lobste.rs/s/4bqk7d/leap_ai_developer_agent_builds_deploys) - [Leap - AI developer agent that builds and deploys apps to your cloud](https://leap.new)
 * [2025-06-01, 07:49:21](https://lobste.rs/s/rzvbe9/lean_companion_analysis_i) - [A Lean companion to “Analysis I”](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
@@ -24,7 +25,6 @@
 * [2025-05-31, 02:20:00](https://lobste.rs/s/al3t1f/c_rust_phrasebook) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 * [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
-* [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 
 ## [Archives](archives/index.md)
 
