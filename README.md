@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-01, 14:33:11](https://lobste.rs/s/bmh4ui/developer_s_perspective_on_g_mate_s_yopy) - [A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)](https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/)
 * [2025-06-01, 12:58:22](https://lobste.rs/s/sv6btr/i_m_open_sourcing_my_custom_benchmark_gui) - [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 10:59:56](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past) - [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY)
@@ -24,7 +25,6 @@
 * [2025-05-31, 04:41:52](https://lobste.rs/s/kdopjy/simpler_backoff) - [Simpler backoff](https://commaok.xyz/post/simple-backoff/)
 * [2025-05-31, 02:20:00](https://lobste.rs/s/al3t1f/c_rust_phrasebook) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 * [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
-* [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 
 ## [Archives](archives/index.md)
 

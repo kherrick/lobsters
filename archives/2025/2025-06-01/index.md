@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-01](index.md)
 
+* [2025-06-01, 14:33:11](https://lobste.rs/s/bmh4ui/developer_s_perspective_on_g_mate_s_yopy) - [A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)](https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/)
 * [2025-06-01, 12:58:22](https://lobste.rs/s/sv6btr/i_m_open_sourcing_my_custom_benchmark_gui) - [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 10:59:56](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past) - [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY)
