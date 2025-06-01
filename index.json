@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 16:47:41",
+      "https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with"
+    ],
+    [
+      "wl-kbptr: Control the mouse pointer with the keyboard on Wayland",
+      "https://github.com/moverest/wl-kbptr"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 16:39:36",
       "https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal"
     ],
@@ -227,16 +237,6 @@
     [
       "Implementing a Forth",
       "https://ratfactor.com/forth/implementing"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 04:41:52",
-      "https://lobste.rs/s/kdopjy/simpler_backoff"
-    ],
-    [
-      "Simpler backoff",
-      "https://commaok.xyz/post/simple-backoff/"
     ]
   ],
   [
