@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-01, 04:45:50](https://lobste.rs/s/jotkj5/why_use_structured_errors_rust) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
+* [2025-06-01, 04:45:10](https://lobste.rs/s/537nqu/gso_challenging_software_optimization) - [GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents](https://arxiv.org/abs/2505.23671)
 * [2025-06-01, 02:13:30](https://lobste.rs/s/sfpnsm/harpoom_course_apple_network_server_can) - [Harpoom: of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
 * [2025-06-01, 02:11:15](https://lobste.rs/s/5ehl08/websockets_guarantee_order_so_why_are_my) - [WebSockets guarantee order - so why are my messages scrambled?](https://www.sitongpeng.com/writing/websockets-guarantee-order-so-why-are-my-messages-scrambled)
 * [2025-05-31, 22:39:28](https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete) - [Tools built on tree-sitter's concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
@@ -19,8 +21,6 @@
 * [2025-05-31, 02:20:00](https://lobste.rs/s/al3t1f/c_rust_phrasebook) - [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp/title-page.html)
 * [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
 * [2025-05-30, 19:30:54](https://lobste.rs/s/awkvzj/using_slop_forensics_determine_model) - [Using ‘Slop Forensics’ to Determine Model Ancestry](https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html)
-* [2025-05-30, 17:13:00](https://lobste.rs/s/ykhfh0/programming_beyond_practices) - [Programming Beyond Practices](https://notes.skillstopractice.com/pbp.pdf)
-* [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
