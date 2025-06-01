@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-01, 19:58:33](https://lobste.rs/s/as9yec/my_experience_with_canonical_s_interview) - [My experience with Canonical's interview process](https://dustri.org/b/my-experience-with-canonicals-interview-process.html)
 * [2025-06-01, 16:47:41](https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with) - [wl-kbptr: Control the mouse pointer with the keyboard on Wayland](https://github.com/moverest/wl-kbptr)
 * [2025-06-01, 16:39:36](https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal) - [Root Shell on Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
@@ -25,6 +24,7 @@
 * [2025-05-31, 14:24:49](https://lobste.rs/s/oteyp3/tclforth_multi_platform_desktop_forth) - [TclForth: Multi-platform desktop Forth based on Tcl/Tk](https://github.com/wejgaard/TclForth)
 * [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 * [2025-05-31, 07:36:53](https://lobste.rs/s/3fzspa/implementing_forth) - [Implementing a Forth](https://ratfactor.com/forth/implementing)
+* [2025-05-31, 01:04:51](https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s) - [Improving EC2 boot time from 4s to 2.8s](https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time)
 
 ## [Archives](archives/index.md)
 
