@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 19:58:33",
+      "https://lobste.rs/s/as9yec/my_experience_with_canonical_s_interview"
+    ],
+    [
+      "My experience with Canonical's interview process",
+      "https://dustri.org/b/my-experience-with-canonicals-interview-process.html"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 16:47:41",
       "https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Implementing a Forth",
       "https://ratfactor.com/forth/implementing"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 01:04:51",
-      "https://lobste.rs/s/plh9e0/improving_ec2_boot_time_from_4s_2_8s"
-    ],
-    [
-      "Improving EC2 boot time from 4s to 2.8s",
-      "https://depot.dev/blog/accelerating-builds-improve-ec2-boot-time"
     ]
   ]
 ]
