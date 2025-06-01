@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-01, 10:32:02",
+      "https://lobste.rs/s/buoxqy/how_grow_lsm_tree_towards_bridging_gap"
+    ],
+    [
+      "How to Grow an LSM-tree? Towards Bridging the Gap Between Theory and Practice",
+      "https://arxiv.org/abs/2504.17178"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 09:34:40",
       "https://lobste.rs/s/4bqk7d/leap_ai_developer_agent_builds_deploys"
     ],
@@ -157,16 +167,6 @@
     [
       "TclForth: Multi-platform desktop Forth based on Tcl/Tk",
       "https://github.com/wejgaard/TclForth"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 12:26:31",
-      "https://lobste.rs/s/zypx6x/tpde_fast_adaptable_compiler_back_end"
-    ],
-    [
-      "TPDE: A Fast Adaptable Compiler Back-End Framework",
-      "https://arxiv.org/abs/2505.22610"
     ]
   ],
   [
