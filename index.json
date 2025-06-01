@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-06-01, 09:34:40",
-      "https://lobste.rs/s/4bqk7d/leap_ai_developer_agent_builds_deploys"
-    ],
-    [
-      "Leap - AI developer agent that builds and deploys apps to your cloud",
-      "https://leap.new"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 07:49:21",
       "https://lobste.rs/s/rzvbe9/lean_companion_analysis_i"
     ],
@@ -97,6 +87,16 @@
     [
       "Why Use Structured Errors in Rust Applications?",
       "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 04:45:10",
+      "https://lobste.rs/s/537nqu/gso_challenging_software_optimization"
+    ],
+    [
+      "GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents",
+      "https://arxiv.org/abs/2505.23671"
     ]
   ],
   [
