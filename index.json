@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-01, 02:13:30",
+      "https://lobste.rs/s/sfpnsm/harpoom_course_apple_network_server_can"
+    ],
+    [
+      "Harpoom: of course the Apple Network Server can be hacked into running Doom",
+      "http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 02:11:15",
+      "https://lobste.rs/s/5ehl08/websockets_guarantee_order_so_why_are_my"
+    ],
+    [
+      "WebSockets guarantee order - so why are my messages scrambled?",
+      "https://www.sitongpeng.com/writing/websockets-guarantee-order-so-why-are-my-messages-scrambled"
+    ]
+  ],
+  [
+    [
       "2025-05-31, 22:39:28",
       "https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete"
     ],
@@ -57,16 +77,6 @@
     [
       "Configure your Git",
       "https://www.youtube.com/watch?v=G3NJzFX6XhY"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 16:29:43",
-      "https://lobste.rs/s/jccyvj/half_spectre_full_exploit_hardening"
-    ],
-    [
-      "Half Spectre, Full Exploit: Hardening Rowhammer Attacks with Half-Spectre Gadgets",
-      "https://download.vusec.net/papers/halfspectre_sp25.pdf"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access",
       "https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 12:48:41",
-      "https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple"
-    ],
-    [
-      "Iconography of the X Window System: The Boot Stipple",
-      "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html"
     ]
   ],
   [
