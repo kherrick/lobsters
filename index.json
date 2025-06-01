@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-01, 04:45:50",
+      "https://lobste.rs/s/jotkj5/why_use_structured_errors_rust"
+    ],
+    [
+      "Why Use Structured Errors in Rust Applications?",
+      "https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/"
+    ]
+  ],
+  [
+    [
+      "2025-06-01, 04:45:10",
+      "https://lobste.rs/s/537nqu/gso_challenging_software_optimization"
+    ],
+    [
+      "GSO: Challenging Software Optimization Tasks for Evaluating SWE-Agents",
+      "https://arxiv.org/abs/2505.23671"
+    ]
+  ],
+  [
+    [
       "2025-06-01, 02:13:30",
       "https://lobste.rs/s/sfpnsm/harpoom_course_apple_network_server_can"
     ],
@@ -187,26 +207,6 @@
     [
       "Using ‘Slop Forensics’ to Determine Model Ancestry",
       "https://www.dbreunig.com/2025/05/30/using-slop-forensics-to-determine-model-ancestry.html"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 17:13:00",
-      "https://lobste.rs/s/ykhfh0/programming_beyond_practices"
-    ],
-    [
-      "Programming Beyond Practices",
-      "https://notes.skillstopractice.com/pbp.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-05-30, 16:10:54",
-      "https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend"
     ]
   ],
   [
