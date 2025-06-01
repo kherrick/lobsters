@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-01, 02:13:30](https://lobste.rs/s/sfpnsm/harpoom_course_apple_network_server_can) - [Harpoom: of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
+* [2025-06-01, 02:11:15](https://lobste.rs/s/5ehl08/websockets_guarantee_order_so_why_are_my) - [WebSockets guarantee order - so why are my messages scrambled?](https://www.sitongpeng.com/writing/websockets-guarantee-order-so-why-are-my-messages-scrambled)
 * [2025-05-31, 22:39:28](https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete) - [Tools built on tree-sitter's concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
 * [2025-05-31, 22:34:49](https://lobste.rs/s/ummpur/kees_cook_account_disabled_for_suspected) - [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
 * [2025-05-31, 21:15:00](https://lobste.rs/s/hqqszu/precision_clock_mk_iv) - [Precision Clock Mk IV](https://mitxela.com/projects/precision_clock_mk_iv)
 * [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel](https://melsloop.com)
 * [2025-05-31, 16:48:40](https://lobste.rs/s/hc0rfn/punchcard_key_backup) - [PunchCard Key Backup](https://volution.ro/pckb/)
 * [2025-05-31, 16:31:51](https://lobste.rs/s/jksuah/configure_your_git) - [Configure your Git](https://www.youtube.com/watch?v=G3NJzFX6XhY)
-* [2025-05-31, 16:29:43](https://lobste.rs/s/jccyvj/half_spectre_full_exploit_hardening) - [Half Spectre, Full Exploit: Hardening Rowhammer Attacks with Half-Spectre Gadgets](https://download.vusec.net/papers/halfspectre_sp25.pdf)
 * [2025-05-31, 14:24:49](https://lobste.rs/s/oteyp3/tclforth_multi_platform_desktop_forth) - [TclForth: Multi-platform desktop Forth based on Tcl/Tk](https://github.com/wejgaard/TclForth)
 * [2025-05-31, 12:26:31](https://lobste.rs/s/zypx6x/tpde_fast_adaptable_compiler_back_end) - [TPDE: A Fast Adaptable Compiler Back-End Framework](https://arxiv.org/abs/2505.22610)
 * [2025-05-31, 11:19:23](https://lobste.rs/s/kutdu8/foss_tools_for_infrastructure_testing) - [FOSS tools for infrastructure testing](https://bitfehler.srht.site/posts/2025-04-04_foss-tools-for-infrastructure-testing.html)
@@ -22,7 +23,6 @@
 * [2025-05-30, 16:10:54](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/xkvw45/what_are_you_doing_this_weekend)
 * [2025-05-30, 13:35:17](https://lobste.rs/s/wjb9ox/minio_removes_web_ui_features_from) - [MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features)
 * [2025-05-30, 12:49:01](https://lobste.rs/s/rtiqxg/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn't Love Me Back: Post 3 – Speakup, BRLTTY, and the Forgotten Infrastructure of Console Access](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-3-speakup-brltty-and-the-forgotten-infrastructure-of-console-access/)
-* [2025-05-30, 12:48:41](https://lobste.rs/s/wmbuqi/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2025-05-30, 09:49:37](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production) - [When was the last time you broke production and how?](https://lobste.rs/s/ytefme/when_was_last_time_you_broke_production)
 * [2025-05-30, 06:54:21](https://lobste.rs/s/y13fa3/poor_man_s_types) - [A poor man’s types](https://blog.snork.dev/posts/a-poor-man-s-types.html)
 
