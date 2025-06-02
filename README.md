@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 09:08:54](https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns) - [Backfilling Postgres TOAST Columns in Debezium Data Change Events](https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/)
 * [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
 * [2025-06-02, 08:05:16](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection) - [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
@@ -24,7 +25,6 @@
 * [2025-05-31, 22:34:49](https://lobste.rs/s/ummpur/kees_cook_account_disabled_for_suspected) - [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
 * [2025-05-31, 18:33:53](https://lobste.rs/s/lc6fou/mel_s_loop_comprehensive_guide_story_mel) - [Mel's Loop - A Comprehensive Guide to The Story of Mel](https://melsloop.com)
 * [2025-05-31, 16:48:40](https://lobste.rs/s/hc0rfn/punchcard_key_backup) - [PunchCard Key Backup](https://volution.ro/pckb/)
-* [2025-05-31, 10:59:15](https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition) - [My Backup Infrastructure, 2025 Edition](https://borretti.me/article/my-backup-infrastructure-2025-edition)
 
 ## [Archives](archives/index.md)
 
