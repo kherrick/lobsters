@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 08:45:45",
+      "https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries"
+    ],
+    [
+      "Designing Error Types in Rust Libraries",
+      "https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 08:05:16",
       "https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection"
     ],
@@ -207,16 +217,6 @@
     [
       "Kees Cook Account Disabled for Suspected Malicous Activity",
       "https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 21:15:00",
-      "https://lobste.rs/s/hqqszu/precision_clock_mk_iv"
-    ],
-    [
-      "Precision Clock Mk IV",
-      "https://mitxela.com/projects/precision_clock_mk_iv"
     ]
   ],
   [
