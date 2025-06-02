@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 23:21:52](https://lobste.rs/s/5qoygo/nlweb_protocol_for_ai_powered_website) - [NLWeb: Protocol for AI-Powered Website Search](https://glama.ai/blog/2025-06-01-what-is-nlweb)
 * [2025-06-02, 22:28:05](https://lobste.rs/s/el02dj/dps8m_performance) - [DPS8M Performance](https://dps8m.gitlab.io/blog/posts/20250602_Performance/)
 * [2025-06-02, 21:48:44](https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:41:53](https://lobste.rs/s/qxgjrq/my_ai_skeptic_friends_are_all_nuts) - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
@@ -22,7 +23,6 @@
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
 * [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
-* [2025-06-02, 08:05:16](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection) - [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 23:21:52](https://lobste.rs/s/5qoygo/nlweb_protocol_for_ai_powered_website) - [NLWeb: Protocol for AI-Powered Website Search](https://glama.ai/blog/2025-06-01-what-is-nlweb)
 * [2025-06-02, 22:28:05](https://lobste.rs/s/el02dj/dps8m_performance) - [DPS8M Performance](https://dps8m.gitlab.io/blog/posts/20250602_Performance/)
 * [2025-06-02, 21:48:44](https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing) - [Conformance Checking at MongoDB: Testing That Our Code Matches Our TLA+ Specs | MongoDB Blog](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs)
 * [2025-06-02, 21:41:53](https://lobste.rs/s/qxgjrq/my_ai_skeptic_friends_are_all_nuts) - [My AI Skeptic Friends Are All Nuts](https://fly.io/blog/youre-all-nuts/)
