@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 15:50:46",
+      "https://lobste.rs/s/uyyi2n/webaim_up_coming_aria"
+    ],
+    [
+      "WebAIM: Up and Coming ARIA",
+      "https://webaim.org/blog/up-and-coming-aria/"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 14:59:52",
       "https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies"
     ],
@@ -137,16 +147,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/usvbn9/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 09:08:54",
-      "https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns"
-    ],
-    [
-      "Backfilling Postgres TOAST Columns in Debezium Data Change Events",
-      "https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/"
     ]
   ],
   [
