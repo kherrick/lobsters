@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 12:00:43",
+      "https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters"
+    ],
+    [
+      "How We Migrated 30+ Kubernetes Clusters to Terraform",
+      "https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 11:38:55",
       "https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming"
     ],
@@ -107,16 +117,6 @@
     [
       "What technology to use for a small NGO website?",
       "https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 14:33:11",
-      "https://lobste.rs/s/bmh4ui/developer_s_perspective_on_g_mate_s_yopy"
-    ],
-    [
-      "A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)",
-      "https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/"
     ]
   ],
   [
