@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 19:53:37](https://lobste.rs/s/xk09xw/public_protected_private_is_unnecessary) - [public/protected/private is an unnecessary feature](https://catern.com/private.html)
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-06-02, 19:38:42](https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates) - [GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)](https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates)
 * [2025-06-02, 19:36:32](https://lobste.rs/s/35vgnd/rss_2_0_specification_2009) - [RSS 2.0 Specification (2009)](https://www.rssboard.org/rss-specification)
@@ -22,7 +23,6 @@
 * [2025-06-02, 08:05:16](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection) - [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
-* [2025-06-01, 16:47:41](https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with) - [wl-kbptr: Control the mouse pointer with the keyboard on Wayland](https://github.com/moverest/wl-kbptr)
 * [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 
