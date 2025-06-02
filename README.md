@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 15:50:46](https://lobste.rs/s/uyyi2n/webaim_up_coming_aria) - [WebAIM: Up and Coming ARIA](https://webaim.org/blog/up-and-coming-aria/)
 * [2025-06-02, 14:59:52](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies) - [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/)
 * [2025-06-02, 14:28:11](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting) - [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust)
 * [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
@@ -14,7 +15,6 @@
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 10:51:58](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure) - [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/)
 * [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
-* [2025-06-02, 09:08:54](https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns) - [Backfilling Postgres TOAST Columns in Debezium Data Change Events](https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/)
 * [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
 * [2025-06-02, 08:05:16](https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection) - [Hypervisors for Memory Introspection and Reverse Engineering](https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
