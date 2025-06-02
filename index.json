@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-02, 13:08:18",
+      "https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse"
+    ],
+    [
+      "The DuckLake Manifesto: SQL as a Lakehouse Format",
+      "https://ducklake.select/manifesto/"
+    ]
+  ],
+  [
+    [
+      "2025-06-02, 12:59:19",
+      "https://lobste.rs/s/wwuqua/posix_you_can_theoretically_use_inode"
+    ],
+    [
+      "In POSIX, you can theoretically use inode zero",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 12:00:43",
       "https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-01, 02:13:30",
-      "https://lobste.rs/s/sfpnsm/harpoom_course_apple_network_server_can"
-    ],
-    [
-      "Harpoom: of course the Apple Network Server can be hacked into running Doom",
-      "http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html"
-    ]
-  ],
-  [
-    [
       "2025-06-01, 02:11:15",
       "https://lobste.rs/s/5ehl08/websockets_guarantee_order_so_why_are_my"
     ],
@@ -237,16 +247,6 @@
     [
       "Kees Cook Account Disabled for Suspected Malicous Activity",
       "https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 16:48:40",
-      "https://lobste.rs/s/hc0rfn/punchcard_key_backup"
-    ],
-    [
-      "PunchCard Key Backup",
-      "https://volution.ro/pckb/"
     ]
   ]
 ]
