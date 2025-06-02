@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 14:28:11",
+      "https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting"
+    ],
+    [
+      "Faster route propagation by rewriting our Traefik gateway in Rust",
+      "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 13:49:20",
       "https://lobste.rs/s/02usbk/gleam_v1_11_0_released"
     ],
@@ -207,16 +217,6 @@
     [
       "Progressive JSON",
       "https://overreacted.io/progressive-json/"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 06:47:22",
-      "https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough"
-    ],
-    [
-      "rsync's defaults are not always enough",
-      "https://rachelbythebay.com/w/2025/05/31/sync/"
     ]
   ],
   [
