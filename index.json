@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 19:36:32",
+      "https://lobste.rs/s/35vgnd/rss_2_0_specification_2009"
+    ],
+    [
+      "RSS 2.0 Specification (2009)",
+      "https://www.rssboard.org/rss-specification"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 18:58:32",
       "https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow"
     ],
@@ -127,16 +137,6 @@
     [
       "In POSIX, you can theoretically use inode zero",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 12:00:43",
-      "https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters"
-    ],
-    [
-      "How We Migrated 30+ Kubernetes Clusters to Terraform",
-      "https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84"
     ]
   ],
   [
