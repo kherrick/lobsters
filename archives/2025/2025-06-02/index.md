@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
+* [2025-06-02, 12:59:19](https://lobste.rs/s/wwuqua/posix_you_can_theoretically_use_inode) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-06-02, 12:00:43](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters) - [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 10:51:58](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure) - [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/)

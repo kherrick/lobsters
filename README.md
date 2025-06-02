@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
+* [2025-06-02, 12:59:19](https://lobste.rs/s/wwuqua/posix_you_can_theoretically_use_inode) - [In POSIX, you can theoretically use inode zero](https://utcc.utoronto.ca/~cks/space/blog/unix/POSIXAllowsZeroInode)
 * [2025-06-02, 12:00:43](https://lobste.rs/s/cfwjgx/how_we_migrated_30_kubernetes_clusters) - [How We Migrated 30+ Kubernetes Clusters to Terraform](https://medium.com/learnings-from-the-paas/how-we-migrated-30-kubernetes-clusters-to-terraform-cd2b1cef8b84)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 10:51:58](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure) - [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/)
@@ -20,11 +22,9 @@
 * [2025-06-01, 05:02:34](https://lobste.rs/s/8ok7jw/using_lots_little_tools_aggressively) - [Using lots of little tools to aggressively reject the bots](https://lambdacreate.com/posts/68)
 * [2025-06-01, 04:52:52](https://lobste.rs/s/mjpefh/structured_errors_go) - [Structured errors in Go](https://southcla.ws/structured-errors-in-go)
 * [2025-06-01, 04:45:50](https://lobste.rs/s/jotkj5/why_use_structured_errors_rust) - [Why Use Structured Errors in Rust Applications?](https://home.expurple.me/posts/why-use-structured-errors-in-rust-applications/)
-* [2025-06-01, 02:13:30](https://lobste.rs/s/sfpnsm/harpoom_course_apple_network_server_can) - [Harpoom: of course the Apple Network Server can be hacked into running Doom](http://oldvcr.blogspot.com/2025/05/harpoom-of-course-apple-network-server.html)
 * [2025-06-01, 02:11:15](https://lobste.rs/s/5ehl08/websockets_guarantee_order_so_why_are_my) - [WebSockets guarantee order - so why are my messages scrambled?](https://www.sitongpeng.com/writing/websockets-guarantee-order-so-why-are-my-messages-scrambled)
 * [2025-05-31, 22:39:28](https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete) - [Tools built on tree-sitter's concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
 * [2025-05-31, 22:34:49](https://lobste.rs/s/ummpur/kees_cook_account_disabled_for_suspected) - [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
-* [2025-05-31, 16:48:40](https://lobste.rs/s/hc0rfn/punchcard_key_backup) - [PunchCard Key Backup](https://volution.ro/pckb/)
 
 ## [Archives](archives/index.md)
 
