@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 09:08:54",
+      "https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns"
+    ],
+    [
+      "Backfilling Postgres TOAST Columns in Debezium Data Change Events",
+      "https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 08:45:45",
       "https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries"
     ],
@@ -237,16 +247,6 @@
     [
       "PunchCard Key Backup",
       "https://volution.ro/pckb/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 10:59:15",
-      "https://lobste.rs/s/ee89ut/my_backup_infrastructure_2025_edition"
-    ],
-    [
-      "My Backup Infrastructure, 2025 Edition",
-      "https://borretti.me/article/my-backup-infrastructure-2025-edition"
     ]
   ]
 ]
