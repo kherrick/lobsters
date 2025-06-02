@@ -2,6 +2,7 @@
 
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-06-02, 19:38:42](https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates) - [GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)](https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates)
+* [2025-06-02, 19:36:32](https://lobste.rs/s/35vgnd/rss_2_0_specification_2009) - [RSS 2.0 Specification (2009)](https://www.rssboard.org/rss-specification)
 * [2025-06-02, 18:58:32](https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow) - [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html)
 * [2025-06-02, 18:56:14](https://lobste.rs/s/wxdkfg/cve_2025_31200_coreaudio_bug_exploited) - [CVE 2025-31200 CoreAudio bug exploited in the wild](https://blog.noahhw.dev/posts/cve-2025-31200/)
 * [2025-06-02, 16:24:32](https://lobste.rs/s/8byzhb/can_chrome_extension_host_terminal) - [Can a chrome extension host a terminal emulator?](https://blog.pomdtr.me/posts/integrated-terminal/)
@@ -23,7 +24,6 @@
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
 * [2025-06-01, 16:47:41](https://lobste.rs/s/qgvx5p/wl_kbptr_control_mouse_pointer_with) - [wl-kbptr: Control the mouse pointer with the keyboard on Wayland](https://github.com/moverest/wl-kbptr)
 * [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
-* [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 
 ## [Archives](archives/index.md)
