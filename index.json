@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 08:05:16",
+      "https://lobste.rs/s/s1jm7e/hypervisors_for_memory_introspection"
+    ],
+    [
+      "Hypervisors for Memory Introspection and Reverse Engineering",
+      "https://secret.club/2025/06/02/hypervisors-for-memory-introspection-and-reverse-engineering.html"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 05:43:54",
       "https://lobste.rs/s/vhi9w8/is_it_javascript"
     ],
@@ -227,16 +237,6 @@
     [
       "PunchCard Key Backup",
       "https://volution.ro/pckb/"
-    ]
-  ],
-  [
-    [
-      "2025-05-31, 14:24:49",
-      "https://lobste.rs/s/oteyp3/tclforth_multi_platform_desktop_forth"
-    ],
-    [
-      "TclForth: Multi-platform desktop Forth based on Tcl/Tk",
-      "https://github.com/wejgaard/TclForth"
     ]
   ],
   [
