@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-02, 22:28:05",
+      "https://lobste.rs/s/el02dj/dps8m_performance"
+    ],
+    [
+      "DPS8M Performance",
+      "https://dps8m.gitlab.io/blog/posts/20250602_Performance/"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 21:48:44",
       "https://lobste.rs/s/giqysi/conformance_checking_at_mongodb_testing"
     ],
@@ -67,16 +77,6 @@
     [
       "AI didn’t kill Stack Overflow",
       "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 18:56:14",
-      "https://lobste.rs/s/wxdkfg/cve_2025_31200_coreaudio_bug_exploited"
-    ],
-    [
-      "CVE 2025-31200 CoreAudio bug exploited in the wild",
-      "https://blog.noahhw.dev/posts/cve-2025-31200/"
     ]
   ],
   [
