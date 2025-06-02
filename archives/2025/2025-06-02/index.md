@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-02](index.md)
 
+* [2025-06-02, 14:59:52](https://lobste.rs/s/piezrc/how_deal_with_rust_dependencies) - [How to deal with Rust dependencies](https://notgull.net/rust-dependencies/)
 * [2025-06-02, 14:28:11](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting) - [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust)
 * [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
 * [2025-06-02, 13:43:38](https://lobste.rs/s/bbeigb/practical_dev_tcp_https_era) - [Practical /dev/tcp in the HTTPS Era](https://blog.pkgforge.dev/https-via-http)
