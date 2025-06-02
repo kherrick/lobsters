@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 14:28:11](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting) - [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust)
 * [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
 * [2025-06-02, 13:43:38](https://lobste.rs/s/bbeigb/practical_dev_tcp_https_era) - [Practical /dev/tcp in the HTTPS Era](https://blog.pkgforge.dev/https-via-http)
 * [2025-06-02, 13:41:22](https://lobste.rs/s/iq5doq/whisperd_linux_voice_text_using_openai) - [WhisperD: linux voice-to-text using OpenAI whisper-1 transcription](https://github.com/icholy/whisperd/)
@@ -21,7 +22,6 @@
 * [2025-06-01, 16:39:36](https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal) - [Root Shell on Credit Card Terminal](https://stefan-gloor.ch/yomani-hack)
 * [2025-06-01, 16:26:29](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website) - [What technology to use for a small NGO website?](https://lobste.rs/s/qmtc8m/what_technology_use_for_small_ngo_website)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
-* [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
 * [2025-05-31, 22:39:28](https://lobste.rs/s/1qmcac/tools_built_on_tree_sitter_s_concrete) - [Tools built on tree-sitter's concrete syntax trees](https://www.scannedinavian.com/tools-built-on-tree-sitters-concrete-syntax-trees.html)
 * [2025-05-31, 22:34:49](https://lobste.rs/s/ummpur/kees_cook_account_disabled_for_suspected) - [Kees Cook Account Disabled for Suspected Malicous Activity](https://lore.kernel.org/all/20250531-resolute-glittering-cuckoo-b6cd91@lemur/)
