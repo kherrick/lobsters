@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 10:51:58](https://lobste.rs/s/3ayxu0/tools_datasets_support_sustain_secure) - [Tools and datasets to support, sustain, and secure critical digital infrastructure](https://ecosyste.ms/)
 * [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
 * [2025-06-02, 09:08:54](https://lobste.rs/s/qz6duz/backfilling_postgres_toast_columns) - [Backfilling Postgres TOAST Columns in Debezium Data Change Events](https://www.morling.dev/blog/backfilling-postgres-toast-columns-debezium-change-events/)
@@ -13,7 +14,6 @@
 * [2025-06-01, 14:33:11](https://lobste.rs/s/bmh4ui/developer_s_perspective_on_g_mate_s_yopy) - [A developer’s perspective on G.Mate’s YOPY Linux PDA (2002)](https://linuxdevices.org/a-developers-perspective-on-gmates-yopy-linux-pda-a/)
 * [2025-06-01, 12:58:22](https://lobste.rs/s/sv6btr/i_m_open_sourcing_my_custom_benchmark_gui) - [I’m Open-Sourcing my Custom Benchmark GUI](https://probablydance.com/2025/05/31/im-open-sourcing-my-custom-benchmark-gui/)
 * [2025-06-01, 11:51:03](https://lobste.rs/s/cae88e/progressive_json) - [Progressive JSON](https://overreacted.io/progressive-json/)
-* [2025-06-01, 10:59:56](https://lobste.rs/s/nzziss/3d_gaussian_splatting_adventure_past) - [The 3D Gaussian Splatting Adventure: Past, Present, Future](https://www.youtube.com/watch?v=DjOqkVIlEGY)
 * [2025-06-01, 07:49:21](https://lobste.rs/s/rzvbe9/lean_companion_analysis_i) - [A Lean companion to “Analysis I”](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/)
 * [2025-06-01, 06:47:22](https://lobste.rs/s/tfdktu/rsync_s_defaults_are_not_always_enough) - [rsync's defaults are not always enough](https://rachelbythebay.com/w/2025/05/31/sync/)
 * [2025-06-01, 06:23:30](https://lobste.rs/s/cyan5l/how_i_like_install_nixos_declaratively) - [How I like to install NixOS (declaratively)](https://michael.stapelberg.ch/posts/2025-06-01-nixos-installation-declarative/)
