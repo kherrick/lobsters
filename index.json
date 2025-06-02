@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-02, 19:38:42",
+      "https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates"
+    ],
+    [
+      "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
+      "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates"
+    ]
+  ],
+  [
+    [
       "2025-06-02, 18:58:32",
       "https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow"
     ],
@@ -207,16 +217,6 @@
     [
       "wl-kbptr: Control the mouse pointer with the keyboard on Wayland",
       "https://github.com/moverest/wl-kbptr"
-    ]
-  ],
-  [
-    [
-      "2025-06-01, 16:39:36",
-      "https://lobste.rs/s/bmq1cs/root_shell_on_credit_card_terminal"
-    ],
-    [
-      "Root Shell on Credit Card Terminal",
-      "https://stefan-gloor.ch/yomani-hack"
     ]
   ],
   [
