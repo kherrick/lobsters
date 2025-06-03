@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-06-03, 15:12:13",
-      "https://lobste.rs/s/khawfe/how_build_high_performance_network"
+      "2025-06-03, 15:36:24",
+      "https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything"
     ],
     [
-      "How to build a high-performance network fuzzer with LibAFL and libdesock",
-      "https://lolcads.github.io/posts/2025/05/high_performance_network_fuzzing/"
+      "What Happens If We Inline Everything?",
+      "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 15:24:42",
+      "https://lobste.rs/s/hpgo0n/garlic_java_decompiler_written_c"
+    ],
+    [
+      "garlic: Java decompiler written in C",
+      "https://github.com/neocanable/garlic"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 15:17:30",
+      "https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial"
+    ],
+    [
+      "Interfacing MCP with Combinatorial, Convex, and SMT Solvers",
+      "https://www.stephendiehl.com/posts/smt_and_mcp_solvers/"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-06-03, 00:44:49",
-      "https://lobste.rs/s/75hp0g/what_s_higher_order_about_so_called_higher"
-    ],
-    [
-      "What's higher-order about so-called higher-order references?",
-      "https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 00:01:36",
       "https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password"
     ],
@@ -177,16 +187,6 @@
     [
       "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
       "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 16:24:32",
-      "https://lobste.rs/s/8byzhb/can_chrome_extension_host_terminal"
-    ],
-    [
-      "Can a chrome extension host a terminal emulator?",
-      "https://blog.pomdtr.me/posts/integrated-terminal/"
     ]
   ],
   [
