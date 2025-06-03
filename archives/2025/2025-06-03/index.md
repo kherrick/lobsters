@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 15:36:24](https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything) - [What Happens If We Inline Everything?](https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html)
+* [2025-06-03, 15:24:42](https://lobste.rs/s/hpgo0n/garlic_java_decompiler_written_c) - [garlic: Java decompiler written in C](https://github.com/neocanable/garlic)
+* [2025-06-03, 15:17:30](https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial) - [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
 * [2025-06-03, 15:12:13](https://lobste.rs/s/khawfe/how_build_high_performance_network) - [How to build a high-performance network fuzzer with LibAFL and libdesock](https://lolcads.github.io/posts/2025/05/high_performance_network_fuzzing/)
 * [2025-06-03, 13:41:56](https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck) - [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
 * [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
