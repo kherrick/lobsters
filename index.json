@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 01:57:47",
+      "https://lobste.rs/s/exhnck/technical_guide_system_calls"
+    ],
+    [
+      "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
+      "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 01:01:36",
       "https://lobste.rs/s/qtyilg/genai_is_our_polyester"
     ],
@@ -157,16 +167,6 @@
     [
       "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
       "https://github.com/icholy/whisperd/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 13:33:09",
-      "https://lobste.rs/s/jg3m3x/my_idea_how_modern_mailing_service_should"
-    ],
-    [
-      "My idea of how a modern mailing service should work (2011)",
-      "https://utcc.utoronto.ca/~cks/space/blog/spam/ModernMailingServiceIdea"
     ]
   ],
   [
