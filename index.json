@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-06-03, 15:24:42",
+      "https://lobste.rs/s/hpgo0n/garlic_java_decompiler_written_c"
+    ],
+    [
+      "garlic: Java decompiler written in C",
+      "https://github.com/neocanable/garlic"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 15:17:30",
       "https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial"
     ],
@@ -157,16 +167,6 @@
     [
       "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
       "https://github.com/stackotter/swift-cross-ui"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 07:06:29",
-      "https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline"
-    ],
-    [
-      "tpde: A fast framework for writing baseline compiler back-ends in C++",
-      "https://github.com/tpde2/tpde"
     ]
   ],
   [
