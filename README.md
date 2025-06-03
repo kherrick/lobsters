@@ -2,6 +2,7 @@
 
 * [2025-06-03, 07:06:29](https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline) - [tpde: A fast framework for writing baseline compiler back-ends in C++](https://github.com/tpde2/tpde)
 * [2025-06-03, 05:20:36](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday) - [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
+* [2025-06-03, 04:04:32](https://lobste.rs/s/mnuuhh/example_splitting_pr) - [Example of Splitting a PR](https://www.jefftk.com/p/example-of-splitting-a-pr)
 * [2025-06-03, 01:57:47](https://lobste.rs/s/exhnck/technical_guide_system_calls) - [Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems](https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html)
 * [2025-06-03, 01:01:36](https://lobste.rs/s/qtyilg/genai_is_our_polyester) - [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-03, 00:44:49](https://lobste.rs/s/75hp0g/what_s_higher_order_about_so_called_higher) - [What's higher-order about so-called higher-order references?](https://www.williamjbowman.com/blog/2025/06/02/what-s-higher-order-about-so-called-higher-order-references/)
@@ -22,7 +23,6 @@
 * [2025-06-02, 13:08:18](https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse) - [The DuckLake Manifesto: SQL as a Lakehouse Format](https://ducklake.select/manifesto/)
 * [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 * [2025-06-02, 09:45:40](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usvbn9/what_are_you_doing_this_week)
-* [2025-06-02, 08:45:45](https://lobste.rs/s/iuvb8a/designing_error_types_rust_libraries) - [Designing Error Types in Rust Libraries](https://d34dl0ck.me/rust-bites-designing-error-types-in-rust-libraries/index.html)
 * [2025-06-02, 05:43:54](https://lobste.rs/s/vhi9w8/is_it_javascript) - [Is It JavaScript?](https://blog.jim-nielsen.com/2025/is-it-javascript/)
 * [2025-06-02, 05:16:49](https://lobste.rs/s/zjbb1m/is_transition_ipv6_inevitable) - [Is the transition to IPv6 inevitable?](https://ipv6.hanazo.no/posts/ipv6-transition-inevitable/)
 
