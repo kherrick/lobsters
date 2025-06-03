@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-03, 16:44:40",
+      "https://lobste.rs/s/ekxcta/why_guis_are_built_at_least_2_5_times"
+    ],
+    [
+      "Why GUIs are built at least 2.5 times",
+      "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 16:39:47",
       "https://lobste.rs/s/vymkqm/don_t_mcblock_me"
     ],
@@ -27,6 +37,16 @@
     [
       "Where did <random> go wrong?",
       "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 15:36:24",
+      "https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything"
+    ],
+    [
+      "What Happens If We Inline Everything?",
+      "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-03, 01:57:47",
-      "https://lobste.rs/s/exhnck/technical_guide_system_calls"
-    ],
-    [
-      "Technical Guide To System Calls: Implementation And Signal Handling In Modern Operating systems",
-      "https://mohitmishra786.github.io/chessman/2025/03/31/Technical-Guide-to-System-Calls-Implementation-and-Signal-Handling-in-Modern-Operating-Systems.html"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 01:01:36",
       "https://lobste.rs/s/qtyilg/genai_is_our_polyester"
     ],
@@ -207,16 +217,6 @@
     [
       "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
       "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 14:28:11",
-      "https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting"
-    ],
-    [
-      "Faster route propagation by rewriting our Traefik gateway in Rust",
-      "https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust"
     ]
   ],
   [
