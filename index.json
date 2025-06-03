@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-03, 19:04:37",
+      "https://lobste.rs/s/qsksxp/zero_cost_tagless_final_rust_with_gadt"
+    ],
+    [
+      "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
+      "https://www.inferara.com/en/blog/rust-tagless-final-gadt/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 18:51:07",
       "https://lobste.rs/s/muabs7/artificial_power_2025_landscape_report"
     ],
@@ -217,16 +227,6 @@
     [
       "Google Logo Ligature Bug",
       "https://www.jefftk.com/p/google-logo-ligature-bug"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 19:38:42",
-      "https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates"
-    ],
-    [
-      "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
-      "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates"
     ]
   ],
   [
