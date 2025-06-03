@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 23:02:31](https://lobste.rs/s/lxebr5/mapping_latitude_longitude_country) - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
 * [2025-06-03, 19:39:20](https://lobste.rs/s/bvcjso/claude_code_is_my_computer) - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 * [2025-06-03, 19:26:01](https://lobste.rs/s/0d0724/alfred_workflow_open_gcp_services_browse) - [An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
