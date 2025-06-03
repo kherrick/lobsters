@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
+* [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
 * [2025-06-03, 19:26:01](https://lobste.rs/s/0d0724/alfred_workflow_open_gcp_services_browse) - [An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:04:42](https://lobste.rs/s/67roga/web_developer_s_guide_midjourney) - [Web Developer's Guide to Midjourney](https://www.skeptrune.com/posts/how-to-use-midjourney/)
 * [2025-06-03, 18:51:07](https://lobste.rs/s/muabs7/artificial_power_2025_landscape_report) - [Artificial Power: 2025 Landscape Report](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)
