@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-03](index.md)
 
 * [2025-06-03, 16:45:21](https://lobste.rs/s/xyhnvt/on_no_syntactic_support_for_error) - [[ On | No ] syntactic support for error handling - The Go Programming Language](https://go.dev/blog/error-syntax)
+* [2025-06-03, 16:44:40](https://lobste.rs/s/ekxcta/why_guis_are_built_at_least_2_5_times) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 * [2025-06-03, 16:39:47](https://lobste.rs/s/vymkqm/don_t_mcblock_me) - [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
 * [2025-06-03, 16:05:50](https://lobste.rs/s/l8y8gg/where_did_random_go_wrong) - [Where did <random> go wrong?](https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf)
 * [2025-06-03, 15:36:24](https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything) - [What Happens If We Inline Everything?](https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html)
