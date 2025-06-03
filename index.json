@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 23:02:31",
+      "https://lobste.rs/s/lxebr5/mapping_latitude_longitude_country"
+    ],
+    [
+      "Mapping latitude and longitude to country, state, or city",
+      "https://austinhenley.com/blog/coord2state.html"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 20:33:36",
       "https://lobste.rs/s/joubld/jujutsu_on_tangled"
     ],
@@ -17,16 +27,6 @@
     [
       "Claude Code is My Computer",
       "https://steipete.me/posts/2025/claude-code-is-my-computer"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 19:26:01",
-      "https://lobste.rs/s/0d0724/alfred_workflow_open_gcp_services_browse"
-    ],
-    [
-      "An Alfred workflow to open GCP services and browse resources within",
-      "https://github.com/dineshgowda24/alfred-gcp-workflow"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "Artificial Power: 2025 Landscape Report",
       "https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 18:25:37",
+      "https://lobste.rs/s/iesqc6/from_prometheus_rrdtool_graphs"
+    ],
+    [
+      "From Prometheus to RRDtool graphs",
+      "https://phala.isatty.net/~amber/hacks/promgraph"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Swift at Apple: migrating the Password Monitoring service from Java",
       "https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 20:43:01",
-      "https://lobste.rs/s/a763eo/tests_should_not_contain_logic"
-    ],
-    [
-      "Tests should not contain logic",
-      "https://blog.snork.dev/posts/tests-should-not-contain-logic.html"
     ]
   ],
   [
