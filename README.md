@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-03, 15:12:13](https://lobste.rs/s/khawfe/how_build_high_performance_network) - [How to build a high-performance network fuzzer with LibAFL and libdesock](https://lolcads.github.io/posts/2025/05/high_performance_network_fuzzing/)
 * [2025-06-03, 13:41:56](https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck) - [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
 * [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-06-03, 11:35:28](https://lobste.rs/s/h9maxf/page_magic_chrome_extension_uses_ai) - [Page Magic: A Chrome extension that uses AI to customize the appearance of any web page](https://github.com/khaledh/pagemagic)
@@ -17,7 +18,6 @@
 * [2025-06-02, 19:53:37](https://lobste.rs/s/xk09xw/public_protected_private_is_unnecessary) - [public/protected/private is an unnecessary feature](https://catern.com/private.html)
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-06-02, 19:38:42](https://lobste.rs/s/dwjgyu/godaddy_issues_thousands_certificates) - [GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)](https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates)
-* [2025-06-02, 18:58:32](https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow) - [AI didn’t kill Stack Overflow](https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html)
 * [2025-06-02, 16:24:32](https://lobste.rs/s/8byzhb/can_chrome_extension_host_terminal) - [Can a chrome extension host a terminal emulator?](https://blog.pomdtr.me/posts/integrated-terminal/)
 * [2025-06-02, 14:28:11](https://lobste.rs/s/nahh5c/faster_route_propagation_by_rewriting) - [Faster route propagation by rewriting our Traefik gateway in Rust](https://rivet.gg/blog/2025-06-02-faster-route-propagation-by-rewriting-our-traefik-gateway-in-rust)
 * [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
