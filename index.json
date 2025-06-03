@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-03, 23:15:06",
+      "https://lobste.rs/s/ocu642/how_compiler_explorer_works_2025"
+    ],
+    [
+      "How Compiler Explorer Works in 2025",
+      "https://xania.org/202506/how-compiler-explorer-works"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 23:07:25",
+      "https://lobste.rs/s/vjnzzj/deep_learning_gets_glory_deep_fact"
+    ],
+    [
+      "Deep learning gets the glory, deep fact checking gets ignored",
+      "https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 23:02:31",
       "https://lobste.rs/s/lxebr5/mapping_latitude_longitude_country"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-06-03, 15:24:42",
-      "https://lobste.rs/s/hpgo0n/garlic_java_decompiler_written_c"
-    ],
-    [
-      "garlic: Java decompiler written in C",
-      "https://github.com/neocanable/garlic"
-    ]
-  ],
-  [
-    [
       "2025-06-03, 15:17:30",
       "https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v1.11.0 released",
       "https://gleam.run/news/gleam-javascript-gets-30-percent-faster/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 11:38:55",
-      "https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming"
-    ],
-    [
-      "A tour of upcoming RFCs for the Hare programming language",
-      "https://harelang.org/blog/2025-06-02-planned-breaking-changes/"
     ]
   ]
 ]
