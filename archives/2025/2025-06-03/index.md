@@ -8,6 +8,7 @@
 * [2025-06-03, 19:39:20](https://lobste.rs/s/bvcjso/claude_code_is_my_computer) - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 * [2025-06-03, 19:26:01](https://lobste.rs/s/0d0724/alfred_workflow_open_gcp_services_browse) - [An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:04:42](https://lobste.rs/s/67roga/web_developer_s_guide_midjourney) - [Web Developer's Guide to Midjourney](https://www.skeptrune.com/posts/how-to-use-midjourney/)
+* [2025-06-03, 19:04:37](https://lobste.rs/s/qsksxp/zero_cost_tagless_final_rust_with_gadt) - [Zero-Cost 'Tagless Final' in Rust with GADT-style Enums](https://www.inferara.com/en/blog/rust-tagless-final-gadt/)
 * [2025-06-03, 18:51:07](https://lobste.rs/s/muabs7/artificial_power_2025_landscape_report) - [Artificial Power: 2025 Landscape Report](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)
 * [2025-06-03, 18:25:37](https://lobste.rs/s/iesqc6/from_prometheus_rrdtool_graphs) - [From Prometheus to RRDtool graphs](https://phala.isatty.net/~amber/hacks/promgraph)
 * [2025-06-03, 17:19:07](https://lobste.rs/s/gjz28s/building_industrial_strength_software) - [Building Industrial Strength Software without Unit Tests](https://chrispenner.ca/posts/transcript-tests)
