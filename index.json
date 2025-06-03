@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 01:01:36",
+      "https://lobste.rs/s/qtyilg/genai_is_our_polyester"
+    ],
+    [
+      "GenAI is Our Polyester",
+      "https://culture.ghost.io/genai-is-our-polyester/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 00:01:36",
       "https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password"
     ],
@@ -147,16 +157,6 @@
     [
       "WhisperD: linux voice-to-text using OpenAI whisper-1 transcription",
       "https://github.com/icholy/whisperd/"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 13:33:54",
-      "https://lobste.rs/s/iqgjau/reducing_cargo_target_directory_size"
-    ],
-    [
-      "Reducing Cargo target directory size with -Zno-embed-metadata",
-      "https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html"
     ]
   ],
   [
