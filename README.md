@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-03, 19:26:01](https://lobste.rs/s/0d0724/alfred_workflow_open_gcp_services_browse) - [An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:04:42](https://lobste.rs/s/67roga/web_developer_s_guide_midjourney) - [Web Developer's Guide to Midjourney](https://www.skeptrune.com/posts/how-to-use-midjourney/)
 * [2025-06-03, 18:51:07](https://lobste.rs/s/muabs7/artificial_power_2025_landscape_report) - [Artificial Power: 2025 Landscape Report](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)
 * [2025-06-03, 18:25:37](https://lobste.rs/s/iesqc6/from_prometheus_rrdtool_graphs) - [From Prometheus to RRDtool graphs](https://phala.isatty.net/~amber/hacks/promgraph)
@@ -16,7 +17,6 @@
 * [2025-06-03, 10:44:06](https://lobste.rs/s/muety7/swift_cross_ui_cross_platform) - [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui)
 * [2025-06-03, 07:06:29](https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline) - [tpde: A fast framework for writing baseline compiler back-ends in C++](https://github.com/tpde2/tpde)
 * [2025-06-03, 05:20:36](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday) - [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
-* [2025-06-03, 04:04:32](https://lobste.rs/s/mnuuhh/example_splitting_pr) - [Example of Splitting a PR](https://www.jefftk.com/p/example-of-splitting-a-pr)
 * [2025-06-03, 01:01:36](https://lobste.rs/s/qtyilg/genai_is_our_polyester) - [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-03, 00:01:36](https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password) - [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-02, 20:43:01](https://lobste.rs/s/a763eo/tests_should_not_contain_logic) - [Tests should not contain logic](https://blog.snork.dev/posts/tests-should-not-contain-logic.html)
