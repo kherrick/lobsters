@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-06-03, 15:36:24",
-      "https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything"
+      "2025-06-03, 16:05:50",
+      "https://lobste.rs/s/l8y8gg/where_did_random_go_wrong"
     ],
     [
-      "What Happens If We Inline Everything?",
-      "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 15:24:42",
-      "https://lobste.rs/s/hpgo0n/garlic_java_decompiler_written_c"
-    ],
-    [
-      "garlic: Java decompiler written in C",
-      "https://github.com/neocanable/garlic"
+      "Where did <random> go wrong?",
+      "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
       "https://github.com/stackotter/swift-cross-ui"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 09:45:29",
+      "https://lobste.rs/s/zn2yv4/ai_coding_assistants_destroy_virtue"
+    ],
+    [
+      "AI coding assistants destroy the virtue of laziness (and possibly impatience too)",
+      "https://slophole.net/post/two-virtues/"
     ]
   ],
   [
