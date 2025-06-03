@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-03, 23:39:53](https://lobste.rs/s/my1wcc/things_are_different_between_system) - [Things are different between system and application monitoring](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring)
 * [2025-06-03, 23:15:06](https://lobste.rs/s/ocu642/how_compiler_explorer_works_2025) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
-* [2025-06-03, 23:07:25](https://lobste.rs/s/vjnzzj/deep_learning_gets_glory_deep_fact) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 23:02:31](https://lobste.rs/s/lxebr5/mapping_latitude_longitude_country) - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
 * [2025-06-03, 19:39:20](https://lobste.rs/s/bvcjso/claude_code_is_my_computer) - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
