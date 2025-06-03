@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 10:44:06",
+      "https://lobste.rs/s/muety7/swift_cross_ui_cross_platform"
+    ],
+    [
+      "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
+      "https://github.com/stackotter/swift-cross-ui"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 07:06:29",
       "https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline"
     ],
@@ -197,16 +207,6 @@
     [
       "Our Grafana and Loki installs have quietly become 'legacy software' here",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaAndLokiLegacyHere"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 13:08:18",
-      "https://lobste.rs/s/qlozpy/ducklake_manifesto_sql_as_lakehouse"
-    ],
-    [
-      "The DuckLake Manifesto: SQL as a Lakehouse Format",
-      "https://ducklake.select/manifesto/"
     ]
   ],
   [
