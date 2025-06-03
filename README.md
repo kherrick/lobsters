@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-03, 23:15:06](https://lobste.rs/s/ocu642/how_compiler_explorer_works_2025) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
+* [2025-06-03, 23:07:25](https://lobste.rs/s/vjnzzj/deep_learning_gets_glory_deep_fact) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 23:02:31](https://lobste.rs/s/lxebr5/mapping_latitude_longitude_country) - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
 * [2025-06-03, 19:39:20](https://lobste.rs/s/bvcjso/claude_code_is_my_computer) - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
@@ -13,7 +15,6 @@
 * [2025-06-03, 16:39:47](https://lobste.rs/s/vymkqm/don_t_mcblock_me) - [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
 * [2025-06-03, 16:05:50](https://lobste.rs/s/l8y8gg/where_did_random_go_wrong) - [Where did <random> go wrong?](https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf)
 * [2025-06-03, 15:36:24](https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything) - [What Happens If We Inline Everything?](https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html)
-* [2025-06-03, 15:24:42](https://lobste.rs/s/hpgo0n/garlic_java_decompiler_written_c) - [garlic: Java decompiler written in C](https://github.com/neocanable/garlic)
 * [2025-06-03, 15:17:30](https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial) - [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
 * [2025-06-03, 13:41:56](https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck) - [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
 * [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
@@ -24,7 +25,6 @@
 * [2025-06-03, 00:01:36](https://lobste.rs/s/yrdozv/swift_at_apple_migrating_password) - [Swift at Apple: migrating the Password Monitoring service from Java](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/)
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
 * [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
-* [2025-06-02, 11:38:55](https://lobste.rs/s/wmk4we/tour_upcoming_rfcs_for_hare_programming) - [A tour of upcoming RFCs for the Hare programming language](https://harelang.org/blog/2025-06-02-planned-breaking-changes/)
 
 ## [Archives](archives/index.md)
 
