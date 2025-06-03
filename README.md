@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-03, 17:19:07](https://lobste.rs/s/gjz28s/building_industrial_strength_software) - [Building Industrial Strength Software without Unit Tests](https://chrispenner.ca/posts/transcript-tests)
 * [2025-06-03, 16:45:21](https://lobste.rs/s/xyhnvt/on_no_syntactic_support_for_error) - [[ On | No ] syntactic support for error handling - The Go Programming Language](https://go.dev/blog/error-syntax)
 * [2025-06-03, 16:44:40](https://lobste.rs/s/ekxcta/why_guis_are_built_at_least_2_5_times) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
 * [2025-06-03, 16:39:47](https://lobste.rs/s/vymkqm/don_t_mcblock_me) - [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
@@ -10,7 +11,6 @@
 * [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
 * [2025-06-03, 11:35:28](https://lobste.rs/s/h9maxf/page_magic_chrome_extension_uses_ai) - [Page Magic: A Chrome extension that uses AI to customize the appearance of any web page](https://github.com/khaledh/pagemagic)
 * [2025-06-03, 10:44:06](https://lobste.rs/s/muety7/swift_cross_ui_cross_platform) - [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui)
-* [2025-06-03, 09:45:29](https://lobste.rs/s/zn2yv4/ai_coding_assistants_destroy_virtue) - [AI coding assistants destroy the virtue of laziness (and possibly impatience too)](https://slophole.net/post/two-virtues/)
 * [2025-06-03, 07:06:29](https://lobste.rs/s/rdfv8s/tpde_fast_framework_for_writing_baseline) - [tpde: A fast framework for writing baseline compiler back-ends in C++](https://github.com/tpde2/tpde)
 * [2025-06-03, 05:20:36](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday) - [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
 * [2025-06-03, 04:04:32](https://lobste.rs/s/mnuuhh/example_splitting_pr) - [Example of Splitting a PR](https://www.jefftk.com/p/example-of-splitting-a-pr)
