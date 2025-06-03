@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
+* [2025-06-03, 19:39:20](https://lobste.rs/s/bvcjso/claude_code_is_my_computer) - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 * [2025-06-03, 19:26:01](https://lobste.rs/s/0d0724/alfred_workflow_open_gcp_services_browse) - [An Alfred workflow to open GCP services and browse resources within](https://github.com/dineshgowda24/alfred-gcp-workflow)
 * [2025-06-03, 19:04:42](https://lobste.rs/s/67roga/web_developer_s_guide_midjourney) - [Web Developer's Guide to Midjourney](https://www.skeptrune.com/posts/how-to-use-midjourney/)
 * [2025-06-03, 18:51:07](https://lobste.rs/s/muabs7/artificial_power_2025_landscape_report) - [Artificial Power: 2025 Landscape Report](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)
-* [2025-06-03, 18:25:37](https://lobste.rs/s/iesqc6/from_prometheus_rrdtool_graphs) - [From Prometheus to RRDtool graphs](https://phala.isatty.net/~amber/hacks/promgraph)
 * [2025-06-03, 17:19:07](https://lobste.rs/s/gjz28s/building_industrial_strength_software) - [Building Industrial Strength Software without Unit Tests](https://chrispenner.ca/posts/transcript-tests)
 * [2025-06-03, 16:45:21](https://lobste.rs/s/xyhnvt/on_no_syntactic_support_for_error) - [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
 * [2025-06-03, 16:44:40](https://lobste.rs/s/ekxcta/why_guis_are_built_at_least_2_5_times) - [Why GUIs are built at least 2.5 times](https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html)
