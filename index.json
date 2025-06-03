@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-03, 15:12:13",
+      "https://lobste.rs/s/khawfe/how_build_high_performance_network"
+    ],
+    [
+      "How to build a high-performance network fuzzer with LibAFL and libdesock",
+      "https://lolcads.github.io/posts/2025/05/high_performance_network_fuzzing/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 13:41:56",
       "https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck"
     ],
@@ -167,16 +177,6 @@
     [
       "GoDaddy Issues Thousands of Certificates That Don't Work in Safari (again)",
       "https://sslmate.com/blog/post/godaddy_issues_thousands_of_broken_certificates"
-    ]
-  ],
-  [
-    [
-      "2025-06-02, 18:58:32",
-      "https://lobste.rs/s/qs7hjo/ai_didn_t_kill_stack_overflow"
-    ],
-    [
-      "AI didn’t kill Stack Overflow",
-      "https://www.infoworld.com/article/3993482/ai-didnt-kill-stack-overflow.html"
     ]
   ],
   [
