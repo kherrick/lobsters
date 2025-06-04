@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-04, 12:32:32",
+      "https://lobste.rs/s/honikk/yet_another_llm"
+    ],
+    [
+      "yet another LLM",
+      "https://www.yetanotherllm.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 11:31:38",
       "https://lobste.rs/s/mokfrm/experimenting_with_no_build_web"
     ],
@@ -147,16 +157,6 @@
     [
       "[ On | No ] syntactic support for error handling",
       "https://go.dev/blog/error-syntax"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 16:44:40",
-      "https://lobste.rs/s/ekxcta/why_guis_are_built_at_least_2_5_times"
-    ],
-    [
-      "Why GUIs are built at least 2.5 times",
-      "https://patricia.no/2025/05/30/why_lean_software_dev_is_wrong.html"
     ]
   ],
   [
