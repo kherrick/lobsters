@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-04, 01:02:35",
+      "https://lobste.rs/s/gcudqw/coding_through_chaos_addiction_recovery"
+    ],
+    [
+      "Coding Through Chaos: Addiction, Recovery and Acceptance",
+      "https://corecursive.com/coding-through-chaos-with-john-walker/"
+    ]
+  ],
+  [
+    [
       "2025-06-03, 23:39:53",
       "https://lobste.rs/s/my1wcc/things_are_different_between_system"
     ],
     [
       "Things are different between system and application monitoring",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring"
+    ]
+  ],
+  [
+    [
+      "2025-06-03, 23:15:06",
+      "https://lobste.rs/s/ocu642/how_compiler_explorer_works_2025"
+    ],
+    [
+      "How Compiler Explorer Works in 2025",
+      "https://xania.org/202506/how-compiler-explorer-works"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
       "https://www.inferara.com/en/blog/rust-tagless-final-gadt/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 18:51:07",
-      "https://lobste.rs/s/muabs7/artificial_power_2025_landscape_report"
-    ],
-    [
-      "Artificial Power: 2025 Landscape Report",
-      "https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Covert Web-to-App Tracking via Localhost on Android",
       "https://localmess.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 11:35:28",
-      "https://lobste.rs/s/h9maxf/page_magic_chrome_extension_uses_ai"
-    ],
-    [
-      "Page Magic: A Chrome extension that uses AI to customize the appearance of any web page",
-      "https://github.com/khaledh/pagemagic"
     ]
   ],
   [
