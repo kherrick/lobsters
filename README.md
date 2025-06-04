@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-04, 15:19:06](https://lobste.rs/s/wxypiq/strange_tale_ischhfd83_when) - [The strange tale of ischhfd83: When cybercriminals eat their own](https://news.sophos.com/en-us/2025/06/04/the-strange-tale-of-ischhfd83-when-cybercriminals-eat-their-own/)
+* [2025-06-04, 15:10:37](https://lobste.rs/s/1gedzj/formalizing_proof_lean_using_github) - [Formalizing a proof in lean using GitHub Copilot and canonical](https://youtu.be/cyyR7j2ChCI)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 14:04:39](https://lobste.rs/s/6wvdsr/no_more_shading_languages_compiling_c) - [No More Shading Languages: Compiling C++ to Vulkan Shaders](https://xol.io/random/vcc-paper.pdf)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
@@ -23,8 +25,6 @@
 * [2025-06-03, 15:36:24](https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything) - [What Happens If We Inline Everything?](https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html)
 * [2025-06-03, 15:17:30](https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial) - [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
 * [2025-06-03, 13:41:56](https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck) - [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
-* [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
-* [2025-06-02, 13:49:20](https://lobste.rs/s/02usbk/gleam_v1_11_0_released) - [Gleam v1.11.0 released](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)
 
 ## [Archives](archives/index.md)
 
