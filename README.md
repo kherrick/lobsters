@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-06-04, 20:12:00](https://lobste.rs/s/wxcki5/works_peter_naur) - [The works of Peter Naur](https://www.naur.com/)
+* [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 19:51:24](https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj) - [gg: GG - Gui for JJ](https://github.com/gulbanana/gg)
 * [2025-06-04, 17:43:52](https://lobste.rs/s/w1mesk/streams_as_web_resources_with_access) - [Streams as web resources with access controls](https://s2.dev/blog/access-control)
 * [2025-06-04, 16:57:38](https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025) - [Goblinville: A Spring Lisp Game Jam 2025 retrospective](https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html)
@@ -24,7 +25,6 @@
 * [2025-06-03, 16:39:47](https://lobste.rs/s/vymkqm/don_t_mcblock_me) - [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
 * [2025-06-03, 16:05:50](https://lobste.rs/s/l8y8gg/where_did_random_go_wrong) - [Where did <random> go wrong?](https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf)
 * [2025-06-03, 15:17:30](https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial) - [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
-* [2025-06-03, 13:41:56](https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck) - [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
 
 ## [Archives](archives/index.md)
 
