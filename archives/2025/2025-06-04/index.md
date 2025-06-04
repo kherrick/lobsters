@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 20:12:00](https://lobste.rs/s/wxcki5/works_peter_naur) - [The works of Peter Naur](https://www.naur.com/)
+* [2025-06-04, 19:51:24](https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj) - [gg: GG - Gui for JJ](https://github.com/gulbanana/gg)
 * [2025-06-04, 17:53:24](https://lobste.rs/s/fkghna/recording_object_snapshots_by_ab_using) - [Recording object snapshots by (ab)using JavaScript proxies](https://sidhion.com/blog/javascript_object_snapshot_prototype/)
 * [2025-06-04, 17:43:52](https://lobste.rs/s/w1mesk/streams_as_web_resources_with_access) - [Streams as web resources with access controls](https://s2.dev/blog/access-control)
 * [2025-06-04, 16:57:38](https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025) - [Goblinville: A Spring Lisp Game Jam 2025 retrospective](https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html)
