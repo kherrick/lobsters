@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-04, 17:43:52",
+      "https://lobste.rs/s/w1mesk/streams_as_web_resources_with_access"
+    ],
+    [
+      "Streams as web resources with access controls",
+      "https://s2.dev/blog/access-control"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 16:57:38",
       "https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025"
     ],
@@ -217,16 +227,6 @@
     [
       "Where did <random> go wrong?",
       "https://codingnest.com/files/What%20Went%20Wrong%20With%20_random__.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 15:36:24",
-      "https://lobste.rs/s/lgeepy/what_happens_if_we_inline_everything"
-    ],
-    [
-      "What Happens If We Inline Everything?",
-      "https://sbaziotis.com/compilers/what-happens-if-we-inline-everything.html"
     ]
   ],
   [
