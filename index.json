@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-06-04, 21:55:35",
+      "https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live"
+    ],
+    [
+      "Redesigned Swift.org is now live",
+      "https://www.swift.org/blog/redesigned-swift-org-is-now-live/"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 20:20:17",
       "https://lobste.rs/s/0rljre/error_monads_hard_way"
     ],
     [
       "Error Monads The Hard Way",
       "https://articles.pragdave.me/p/error-monads-the-hard-way"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 20:12:00",
-      "https://lobste.rs/s/wxcki5/works_peter_naur"
-    ],
-    [
-      "The works of Peter Naur",
-      "https://www.naur.com/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "gg: GG - Gui for JJ",
       "https://github.com/gulbanana/gg"
+    ]
+  ],
+  [
+    [
+      "2025-06-04, 17:43:52",
+      "https://lobste.rs/s/w1mesk/streams_as_web_resources_with_access"
+    ],
+    [
+      "Streams as web resources with access controls",
+      "https://s2.dev/blog/access-control"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "DiffX - Next-Generation Extensible Diff Format",
       "https://diffx.org/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 23:15:06",
-      "https://lobste.rs/s/ocu642/how_compiler_explorer_works_2025"
-    ],
-    [
-      "How Compiler Explorer Works in 2025",
-      "https://xania.org/202506/how-compiler-explorer-works"
     ]
   ],
   [
