@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
 * [2025-06-04, 20:20:17](https://lobste.rs/s/0rljre/error_monads_hard_way) - [Error Monads The Hard Way](https://articles.pragdave.me/p/error-monads-the-hard-way)
 * [2025-06-04, 20:12:00](https://lobste.rs/s/wxcki5/works_peter_naur) - [The works of Peter Naur](https://www.naur.com/)
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
