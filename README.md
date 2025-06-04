@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 * [2025-06-04, 08:38:32](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025) - [What's your go-to message queue in 2025?](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025)
 * [2025-06-04, 05:04:36](https://lobste.rs/s/ph75m1/physicality_new_age_ui) - [Physicality: the new age of UI](https://www.lux.camera/physicality-the-new-age-of-ui/)
 * [2025-06-04, 01:02:35](https://lobste.rs/s/gcudqw/coding_through_chaos_addiction_recovery) - [Coding Through Chaos: Addiction, Recovery and Acceptance](https://corecursive.com/coding-through-chaos-with-john-walker/)
@@ -20,7 +21,6 @@
 * [2025-06-03, 15:17:30](https://lobste.rs/s/pn7sq3/interfacing_mcp_with_combinatorial) - [Interfacing MCP with Combinatorial, Convex, and SMT Solvers](https://www.stephendiehl.com/posts/smt_and_mcp_solvers/)
 * [2025-06-03, 13:41:56](https://lobste.rs/s/fgt681/vibe_coding_case_study_scubaduck) - [Vibe coding case study: ScubaDuck](https://blog.ezyang.com/2025/06/vibe-coding-case-study-scubaduck/)
 * [2025-06-03, 12:32:34](https://lobste.rs/s/0wtqlb/covert_web_app_tracking_via_localhost_on) - [Covert Web-to-App Tracking via Localhost on Android](https://localmess.github.io/)
-* [2025-06-03, 10:44:06](https://lobste.rs/s/muety7/swift_cross_ui_cross_platform) - [swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI](https://github.com/stackotter/swift-cross-ui)
 * [2025-06-03, 05:20:36](https://lobste.rs/s/8nxsog/beachpatrol_cli_automate_your_everyday) - [Beachpatrol: CLI to automate your everyday web browser](https://github.com/sebastiancarlos/beachpatrol)
 * [2025-06-03, 01:01:36](https://lobste.rs/s/qtyilg/genai_is_our_polyester) - [GenAI is Our Polyester](https://culture.ghost.io/genai-is-our-polyester/)
 * [2025-06-02, 19:40:03](https://lobste.rs/s/i43e6e/google_logo_ligature_bug) - [Google Logo Ligature Bug](https://www.jefftk.com/p/google-logo-ligature-bug)
