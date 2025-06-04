@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-04, 01:02:35](https://lobste.rs/s/gcudqw/coding_through_chaos_addiction_recovery) - [Coding Through Chaos: Addiction, Recovery and Acceptance](https://corecursive.com/coding-through-chaos-with-john-walker/)
 * [2025-06-04, 00:51:43](https://lobste.rs/s/j9yk3n/diffx_next_generation_extensible_diff) - [DiffX - Next-Generation Extensible Diff Format](https://diffx.org/)
+* [2025-06-03, 23:45:22](https://lobste.rs/s/tyacrw/handling_bidirectional_control_flow) - [Handling bidirectional control flow](https://dl.acm.org/doi/10.1145/3428207)
 * [2025-06-03, 23:39:53](https://lobste.rs/s/my1wcc/things_are_different_between_system) - [Things are different between system and application monitoring](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SystemVsApplicationMonitoring)
 * [2025-06-03, 23:15:06](https://lobste.rs/s/ocu642/how_compiler_explorer_works_2025) - [How Compiler Explorer Works in 2025](https://xania.org/202506/how-compiler-explorer-works)
 * [2025-06-03, 23:07:25](https://lobste.rs/s/vjnzzj/deep_learning_gets_glory_deep_fact) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
