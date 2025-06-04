@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-04](index.md)
 
+* [2025-06-04, 15:57:58](https://lobste.rs/s/tlvaia/how_reladiff_works_journey_through) - [How Reladiff Works - A Journey Through the Challenges and Techniques of Data Engineering with SQL](https://eshsoft.com/blog/how-reladiff-works)
 * [2025-06-04, 15:19:06](https://lobste.rs/s/wxypiq/strange_tale_ischhfd83_when) - [The strange tale of ischhfd83: When cybercriminals eat their own](https://news.sophos.com/en-us/2025/06/04/the-strange-tale-of-ischhfd83-when-cybercriminals-eat-their-own/)
 * [2025-06-04, 15:10:37](https://lobste.rs/s/1gedzj/formalizing_proof_lean_using_github) - [Formalizing a proof in lean using GitHub Copilot and canonical](https://youtu.be/cyyR7j2ChCI)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
