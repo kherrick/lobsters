@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-04, 09:11:04",
+      "https://lobste.rs/s/n2lvmy/ai_changes_everything"
+    ],
+    [
+      "AI Changes Everything",
+      "https://lucumr.pocoo.org/2025/6/4/changes/"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 08:38:32",
       "https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025"
     ],
@@ -197,16 +207,6 @@
     [
       "Covert Web-to-App Tracking via Localhost on Android",
       "https://localmess.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 10:44:06",
-      "https://lobste.rs/s/muety7/swift_cross_ui_cross_platform"
-    ],
-    [
-      "swift-cross-ui: A cross-platform declarative UI framework, inspired by SwiftUI",
-      "https://github.com/stackotter/swift-cross-ui"
     ]
   ],
   [
