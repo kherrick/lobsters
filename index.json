@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-06-04, 19:51:24",
+      "https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj"
+    ],
+    [
+      "gg: GG - Gui for JJ",
+      "https://github.com/gulbanana/gg"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 16:57:38",
       "https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025"
     ],
@@ -197,16 +207,6 @@
     [
       "jujutsu on tangled",
       "https://blog.tangled.sh/stacking"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 19:04:37",
-      "https://lobste.rs/s/qsksxp/zero_cost_tagless_final_rust_with_gadt"
-    ],
-    [
-      "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
-      "https://www.inferara.com/en/blog/rust-tagless-final-gadt/"
     ]
   ],
   [
