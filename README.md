@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-04, 20:20:17](https://lobste.rs/s/0rljre/error_monads_hard_way) - [Error Monads The Hard Way](https://articles.pragdave.me/p/error-monads-the-hard-way)
 * [2025-06-04, 20:12:00](https://lobste.rs/s/wxcki5/works_peter_naur) - [The works of Peter Naur](https://www.naur.com/)
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
-* [2025-06-04, 19:51:24](https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj) - [gg: GG - Gui for JJ](https://github.com/gulbanana/gg)
 * [2025-06-04, 16:57:38](https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025) - [Goblinville: A Spring Lisp Game Jam 2025 retrospective](https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html)
 * [2025-06-04, 16:44:07](https://lobste.rs/s/oscxsk/when_memory_was_measured_kilobytes_art) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
 * [2025-06-04, 16:31:51](https://lobste.rs/s/33mhv3/dejagnu_2011) - [DejaGNU (2011)](https://www.airs.com/blog/archives/499/)
