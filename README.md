@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 14:04:39](https://lobste.rs/s/6wvdsr/no_more_shading_languages_compiling_c) - [No More Shading Languages: Compiling C++ to Vulkan Shaders](https://xol.io/random/vcc-paper.pdf)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
 * [2025-06-04, 12:32:32](https://lobste.rs/s/honikk/yet_another_llm) - [yet another LLM](https://www.yetanotherllm.com/)
@@ -14,7 +15,6 @@
 * [2025-06-03, 23:07:25](https://lobste.rs/s/vjnzzj/deep_learning_gets_glory_deep_fact) - [Deep learning gets the glory, deep fact checking gets ignored](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html)
 * [2025-06-03, 23:02:31](https://lobste.rs/s/lxebr5/mapping_latitude_longitude_country) - [Mapping latitude and longitude to country, state, or city](https://austinhenley.com/blog/coord2state.html)
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
-* [2025-06-03, 19:39:20](https://lobste.rs/s/bvcjso/claude_code_is_my_computer) - [Claude Code is My Computer](https://steipete.me/posts/2025/claude-code-is-my-computer)
 * [2025-06-03, 19:04:37](https://lobste.rs/s/qsksxp/zero_cost_tagless_final_rust_with_gadt) - [Zero-Cost 'Tagless Final' in Rust with GADT-style Enums](https://www.inferara.com/en/blog/rust-tagless-final-gadt/)
 * [2025-06-03, 17:19:07](https://lobste.rs/s/gjz28s/building_industrial_strength_software) - [Building Industrial Strength Software without Unit Tests](https://chrispenner.ca/posts/transcript-tests)
 * [2025-06-03, 16:45:21](https://lobste.rs/s/xyhnvt/on_no_syntactic_support_for_error) - [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
