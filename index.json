@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-04, 16:44:07",
+      "https://lobste.rs/s/oscxsk/when_memory_was_measured_kilobytes_art"
+    ],
+    [
+      "When memory was measured in kilobytes: The art of efficient vision",
+      "https://www.softwareheritage.org/2025/06/04/history_computer_vision/"
+    ]
+  ],
+  [
+    [
       "2025-06-04, 16:31:51",
       "https://lobste.rs/s/33mhv3/dejagnu_2011"
     ],
@@ -177,16 +187,6 @@
     [
       "Zero-Cost 'Tagless Final' in Rust with GADT-style Enums",
       "https://www.inferara.com/en/blog/rust-tagless-final-gadt/"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 17:19:07",
-      "https://lobste.rs/s/gjz28s/building_industrial_strength_software"
-    ],
-    [
-      "Building Industrial Strength Software without Unit Tests",
-      "https://chrispenner.ca/posts/transcript-tests"
     ]
   ],
   [
