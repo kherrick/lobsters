@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 16:00:19](https://lobste.rs/s/s8u28g/understanding_purl_specification) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
+* [2025-06-05, 15:55:50](https://lobste.rs/s/5jjn4k/boredom_over_beauty_why_code_quality_is) - [Boredom Over Beauty: Why Code Quality is Code Security](https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/edujcv/digital_frame_hacking_cracking_it_open) - [Digital Frame Hacking - Cracking It Open](https://ezhart.com/posts/digital-frame-hacking-1)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/495rx9/which_i_have_opinions_about_parsing) - [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
 * [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
