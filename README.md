@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-05, 08:58:52](https://lobste.rs/s/msfmtr/phptop_php_basic_ressource_profiler_safe) - [phptop: PHP basic ressource profiler safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 06:32:02](https://lobste.rs/s/kg1gsg/storing_arbitrary_data_pokemon_emerald) - [Storing arbitrary data in pokemon emerald](https://sardap.github.io/mon-fs/)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 * [2025-06-05, 01:50:15](https://lobste.rs/s/pd8g13/premature_design_is_not_design) - [Premature Design Is Not Design](https://articles.pragdave.me/p/premature-design-is-not-design)
@@ -17,7 +18,6 @@
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
 * [2025-06-04, 12:32:32](https://lobste.rs/s/honikk/yet_another_llm) - [yet another LLM](https://www.yetanotherllm.com/)
 * [2025-06-04, 11:31:38](https://lobste.rs/s/mokfrm/experimenting_with_no_build_web) - [Experimenting with no-build Web Applications](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
-* [2025-06-04, 11:27:06](https://lobste.rs/s/uqds7a/distance_based_isa_for_efficient) - [Distance-Based ISA for Efficient Register Management](https://www.sigarch.org/distance-based-isa-for-efficient-register-management/)
 * [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 * [2025-06-04, 08:38:32](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025) - [What's your go-to message queue in 2025?](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025)
 * [2025-06-04, 05:04:36](https://lobste.rs/s/ph75m1/physicality_new_age_ui) - [Physicality: the new age of UI](https://www.lux.camera/physicality-the-new-age-of-ui/)
