@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-05, 10:12:55](https://lobste.rs/s/yjbsof/programming_system) - [A programming system](https://andreyor.st/posts/2023-10-18-a-programming-system/)
+* [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
 * [2025-06-05, 08:58:52](https://lobste.rs/s/msfmtr/phptop_php_basic_ressource_profiler_safe) - [phptop: PHP basic ressource profiler safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
@@ -14,7 +16,6 @@
 * [2025-06-04, 16:44:07](https://lobste.rs/s/oscxsk/when_memory_was_measured_kilobytes_art) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
 * [2025-06-04, 16:31:51](https://lobste.rs/s/33mhv3/dejagnu_2011) - [DejaGNU (2011)](https://www.airs.com/blog/archives/499/)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
-* [2025-06-04, 14:04:39](https://lobste.rs/s/6wvdsr/no_more_shading_languages_compiling_c) - [No More Shading Languages: Compiling C++ to Vulkan Shaders](https://xol.io/random/vcc-paper.pdf)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
 * [2025-06-04, 12:32:32](https://lobste.rs/s/honikk/yet_another_llm) - [yet another LLM](https://www.yetanotherllm.com/)
 * [2025-06-04, 11:31:38](https://lobste.rs/s/mokfrm/experimenting_with_no_build_web) - [Experimenting with no-build Web Applications](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
@@ -24,7 +25,6 @@
 * [2025-06-04, 00:51:43](https://lobste.rs/s/j9yk3n/diffx_next_generation_extensible_diff) - [DiffX - Next-Generation Extensible Diff Format](https://diffx.org/)
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
 * [2025-06-03, 16:45:21](https://lobste.rs/s/xyhnvt/on_no_syntactic_support_for_error) - [[ On | No ] syntactic support for error handling](https://go.dev/blog/error-syntax)
-* [2025-06-03, 16:39:47](https://lobste.rs/s/vymkqm/don_t_mcblock_me) - [Don't McBlock me](https://www.schneems.com/2025/06/03/dont-mcblock-me/)
 
 ## [Archives](archives/index.md)
 

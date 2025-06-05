@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 10:12:55](https://lobste.rs/s/yjbsof/programming_system) - [A programming system](https://andreyor.st/posts/2023-10-18-a-programming-system/)
+* [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
 * [2025-06-05, 08:58:52](https://lobste.rs/s/msfmtr/phptop_php_basic_ressource_profiler_safe) - [phptop: PHP basic ressource profiler safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 06:32:02](https://lobste.rs/s/kg1gsg/storing_arbitrary_data_pokemon_emerald) - [Storing arbitrary data in pokemon emerald](https://sardap.github.io/mon-fs/)
