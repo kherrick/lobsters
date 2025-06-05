@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 13:26:05](https://lobste.rs/s/8amahc/is_genai_digital_cocaine) - [Is GenAI Digital Cocaine?](https://makemeacto.substack.com/p/is-genai-digital-cocaine)
+* [2025-06-05, 13:18:28](https://lobste.rs/s/lbmywp/aplearn_machine_learning_library) - [APLearn: machine learning library](https://github.com/BobMcDear/aplearn)
 * [2025-06-05, 12:59:07](https://lobste.rs/s/bbu9pz/consumer_routers_router_security) - [Consumer Routers - Router Security](https://routersecurity.org/consumerrouters.php)
 * [2025-06-05, 10:58:49](https://lobste.rs/s/vtfzri/picking_uncontested_private_ip_subnets) - [Picking uncontested private IP subnets with usage data](https://blog.benjojo.co.uk/post/picking-unused-rfc1918-ip-space)
 * [2025-06-05, 10:21:18](https://lobste.rs/s/mkivgh/nvidia_iso_26262_spark_process) - [NVIDIA ISO-26262 SPARK Process](https://nvidia.github.io/spark-process/)
