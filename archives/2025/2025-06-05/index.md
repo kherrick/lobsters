@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 21:23:11](https://lobste.rs/s/zkavyl/fun_with_futex_building_my_own_mutex_c_for) - [Fun with Futex: building my own mutex in C for funtex](https://blog.fredrb.com/2025/06/02/futex-fun/)
 * [2025-06-05, 20:23:01](https://lobste.rs/s/gllcr5/skribidi_nimble_bidirectional_text) - [Skribidi -  Nimble bidirectional text stack for UIs](https://github.com/memononen/Skribidi)
 * [2025-06-05, 20:06:37](https://lobste.rs/s/kflxi5/east_river_source_control) - [East River Source Control](https://ersc.io)
 * [2025-06-05, 18:27:42](https://lobste.rs/s/p9wjnc/beyond_affine_loop_parallelisation_by) - [Beyond Affine Loop Parallelisation by Recurrence  Duplication](https://deviantabstraction.com/2025/06/03/beyond-affine-loop-parallelisation-by-recurrece-n-duplication/)
