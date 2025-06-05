@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-05, 15:14:12",
+      "https://lobste.rs/s/edujcv/digital_frame_hacking_cracking_it_open"
+    ],
+    [
+      "Digital Frame Hacking - Cracking It Open",
+      "https://ezhart.com/posts/digital-frame-hacking-1"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 15:14:12",
+      "https://lobste.rs/s/495rx9/which_i_have_opinions_about_parsing"
+    ],
+    [
+      "In which I have Opinions about parsing and grammars",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 15:02:07",
+      "https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users"
+    ],
+    [
+      "AI is a gamechanger for TLA+ users",
+      "https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 13:26:05",
       "https://lobste.rs/s/8amahc/is_genai_digital_cocaine"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-06-05, 01:50:15",
-      "https://lobste.rs/s/pd8g13/premature_design_is_not_design"
-    ],
-    [
-      "Premature Design Is Not Design",
-      "https://articles.pragdave.me/p/premature-design-is-not-design"
-    ]
-  ],
-  [
-    [
       "2025-06-05, 00:41:32",
       "https://lobste.rs/s/mwigo2/how_let_s_encrypt_reduced_impact_zombie"
     ],
@@ -147,16 +167,6 @@
     [
       "Goblinville: A Spring Lisp Game Jam 2025 retrospective",
       "https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 16:31:51",
-      "https://lobste.rs/s/33mhv3/dejagnu_2011"
-    ],
-    [
-      "DejaGNU (2011)",
-      "https://www.airs.com/blog/archives/499/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "jujutsu on tangled",
       "https://blog.tangled.sh/stacking"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 16:45:21",
-      "https://lobste.rs/s/xyhnvt/on_no_syntactic_support_for_error"
-    ],
-    [
-      "[ On | No ] syntactic support for error handling",
-      "https://go.dev/blog/error-syntax"
     ]
   ]
 ]
