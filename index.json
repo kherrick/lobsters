@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-05, 10:12:55",
+      "https://lobste.rs/s/yjbsof/programming_system"
+    ],
+    [
+      "A programming system",
+      "https://andreyor.st/posts/2023-10-18-a-programming-system/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 09:55:20",
+      "https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available"
+    ],
+    [
+      "DNS4EU For Public is available",
+      "https://www.joindns4.eu/for-public"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 09:18:04",
       "https://lobste.rs/s/lczxco/linearity_uniqueness"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-06-04, 14:04:39",
-      "https://lobste.rs/s/6wvdsr/no_more_shading_languages_compiling_c"
-    ],
-    [
-      "No More Shading Languages: Compiling C++ to Vulkan Shaders",
-      "https://xol.io/random/vcc-paper.pdf"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 13:54:49",
       "https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server"
     ],
@@ -237,16 +247,6 @@
     [
       "[ On | No ] syntactic support for error handling",
       "https://go.dev/blog/error-syntax"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 16:39:47",
-      "https://lobste.rs/s/vymkqm/don_t_mcblock_me"
-    ],
-    [
-      "Don't McBlock me",
-      "https://www.schneems.com/2025/06/03/dont-mcblock-me/"
     ]
   ]
 ]
