@@ -7,7 +7,6 @@
 * [2025-06-05, 21:34:31](https://lobste.rs/s/ozjedn/machine_code_isn_t_scary) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
 * [2025-06-05, 20:23:01](https://lobste.rs/s/gllcr5/skribidi_nimble_bidirectional_text) - [Skribidi -  Nimble bidirectional text stack for UIs](https://github.com/memononen/Skribidi)
 * [2025-06-05, 20:06:37](https://lobste.rs/s/kflxi5/east_river_source_control) - [East River Source Control](https://ersc.io)
-* [2025-06-05, 18:27:42](https://lobste.rs/s/p9wjnc/beyond_affine_loop_parallelisation_by) - [Beyond Affine Loop Parallelisation by Recurrence  Duplication](https://deviantabstraction.com/2025/06/03/beyond-affine-loop-parallelisation-by-recurrece-n-duplication/)
 * [2025-06-05, 17:07:40](https://lobste.rs/s/zynw2u/reverb_part_1_freeverb) - [Reverb Part 1: “Freeverb”](https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/)
 * [2025-06-05, 16:51:37](https://lobste.rs/s/ggcrok/announcing_bonfire_social_1_0_release) - [Announcing the Bonfire Social 1.0 Release Candidate](https://bonfirenetworks.org//posts/bonfire_social_rc/)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/edujcv/digital_frame_hacking_cracking_it_open) - [Digital Frame Hacking - Cracking It Open](https://ezhart.com/posts/digital-frame-hacking-1)
@@ -25,6 +24,7 @@
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
+* [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 
 ## [Archives](archives/index.md)
 
