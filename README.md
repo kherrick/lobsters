@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-05, 01:50:15](https://lobste.rs/s/pd8g13/premature_design_is_not_design) - [Premature Design Is Not Design](https://articles.pragdave.me/p/premature-design-is-not-design)
 * [2025-06-05, 00:41:32](https://lobste.rs/s/mwigo2/how_let_s_encrypt_reduced_impact_zombie) - [How Let’s Encrypt reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
 * [2025-06-04, 20:20:17](https://lobste.rs/s/0rljre/error_monads_hard_way) - [Error Monads The Hard Way](https://articles.pragdave.me/p/error-monads-the-hard-way)
@@ -10,6 +9,7 @@
 * [2025-06-04, 16:57:38](https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025) - [Goblinville: A Spring Lisp Game Jam 2025 retrospective](https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html)
 * [2025-06-04, 16:44:07](https://lobste.rs/s/oscxsk/when_memory_was_measured_kilobytes_art) - [When memory was measured in kilobytes: The art of efficient vision](https://www.softwareheritage.org/2025/06/04/history_computer_vision/)
 * [2025-06-04, 16:31:51](https://lobste.rs/s/33mhv3/dejagnu_2011) - [DejaGNU (2011)](https://www.airs.com/blog/archives/499/)
+* [2025-06-04, 15:57:58](https://lobste.rs/s/tlvaia/how_reladiff_works_journey_through) - [How Reladiff Works - A Journey Through the Challenges and Techniques of Data Engineering with SQL](https://eshsoft.com/blog/how-reladiff-works)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 14:04:39](https://lobste.rs/s/6wvdsr/no_more_shading_languages_compiling_c) - [No More Shading Languages: Compiling C++ to Vulkan Shaders](https://xol.io/random/vcc-paper.pdf)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
