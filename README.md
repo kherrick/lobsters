@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-05, 20:06:37](https://lobste.rs/s/kflxi5/east_river_source_control) - [East River Source Control](https://ersc.io)
 * [2025-06-05, 18:27:42](https://lobste.rs/s/p9wjnc/beyond_affine_loop_parallelisation_by) - [Beyond Affine Loop Parallelisation by Recurrence  Duplication](https://deviantabstraction.com/2025/06/03/beyond-affine-loop-parallelisation-by-recurrece-n-duplication/)
 * [2025-06-05, 17:07:40](https://lobste.rs/s/zynw2u/reverb_part_1_freeverb) - [Reverb Part 1: “Freeverb”](https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/)
 * [2025-06-05, 16:51:37](https://lobste.rs/s/ggcrok/announcing_bonfire_social_1_0_release) - [Announcing the Bonfire Social 1.0 Release Candidate](https://bonfirenetworks.org//posts/bonfire_social_rc/)
@@ -13,6 +14,7 @@
 * [2025-06-05, 10:12:55](https://lobste.rs/s/yjbsof/programming_system) - [A programming system](https://andreyor.st/posts/2023-10-18-a-programming-system/)
 * [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
+* [2025-06-05, 08:58:52](https://lobste.rs/s/msfmtr/phptop_php_basic_ressource_profiler_safe) - [phptop: PHP basic ressource profiler safe and useful for production sites](https://github.com/bearstech/phptop)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 * [2025-06-05, 00:41:32](https://lobste.rs/s/mwigo2/how_let_s_encrypt_reduced_impact_zombie) - [How Let’s Encrypt reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
@@ -20,10 +22,8 @@
 * [2025-06-04, 19:51:24](https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj) - [gg: GG - Gui for JJ](https://github.com/gulbanana/gg)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
-* [2025-06-04, 11:31:38](https://lobste.rs/s/mokfrm/experimenting_with_no_build_web) - [Experimenting with no-build Web Applications](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
 * [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 * [2025-06-04, 08:38:32](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025) - [What's your go-to message queue in 2025?](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025)
-* [2025-06-04, 05:04:36](https://lobste.rs/s/ph75m1/physicality_new_age_ui) - [Physicality: the new age of UI](https://www.lux.camera/physicality-the-new-age-of-ui/)
 * [2025-06-03, 20:33:36](https://lobste.rs/s/joubld/jujutsu_on_tangled) - [jujutsu on tangled](https://blog.tangled.sh/stacking)
 
 ## [Archives](archives/index.md)
