@@ -2,7 +2,6 @@
 
 * [2025-06-05, 17:07:40](https://lobste.rs/s/zynw2u/reverb_part_1_freeverb) - [Reverb Part 1: “Freeverb”](https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/)
 * [2025-06-05, 16:51:37](https://lobste.rs/s/ggcrok/announcing_bonfire_social_1_0_release) - [Announcing the Bonfire Social 1.0 Release Candidate](https://bonfirenetworks.org//posts/bonfire_social_rc/)
-* [2025-06-05, 16:00:19](https://lobste.rs/s/s8u28g/understanding_purl_specification) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/edujcv/digital_frame_hacking_cracking_it_open) - [Digital Frame Hacking - Cracking It Open](https://ezhart.com/posts/digital-frame-hacking-1)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/495rx9/which_i_have_opinions_about_parsing) - [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
 * [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
@@ -14,6 +13,7 @@
 * [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
+* [2025-06-05, 01:50:15](https://lobste.rs/s/pd8g13/premature_design_is_not_design) - [Premature Design Is Not Design](https://articles.pragdave.me/p/premature-design-is-not-design)
 * [2025-06-05, 00:41:32](https://lobste.rs/s/mwigo2/how_let_s_encrypt_reduced_impact_zombie) - [How Let’s Encrypt reduced the impact of zombie clients](https://letsencrypt.org/2025/06/04/how-we-reduced-the-impact-of-zombie-clients/)
 * [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
