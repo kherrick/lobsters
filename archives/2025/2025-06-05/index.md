@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 17:07:40](https://lobste.rs/s/zynw2u/reverb_part_1_freeverb) - [Reverb Part 1: “Freeverb”](https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/)
 * [2025-06-05, 16:51:37](https://lobste.rs/s/ggcrok/announcing_bonfire_social_1_0_release) - [Announcing the Bonfire Social 1.0 Release Candidate](https://bonfirenetworks.org//posts/bonfire_social_rc/)
 * [2025-06-05, 16:00:19](https://lobste.rs/s/s8u28g/understanding_purl_specification) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
 * [2025-06-05, 15:55:50](https://lobste.rs/s/5jjn4k/boredom_over_beauty_why_code_quality_is) - [Boredom Over Beauty: Why Code Quality is Code Security](https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/)
