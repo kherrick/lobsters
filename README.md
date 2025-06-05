@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-05, 16:51:37](https://lobste.rs/s/ggcrok/announcing_bonfire_social_1_0_release) - [Announcing the Bonfire Social 1.0 Release Candidate](https://bonfirenetworks.org//posts/bonfire_social_rc/)
 * [2025-06-05, 16:00:19](https://lobste.rs/s/s8u28g/understanding_purl_specification) - [Understanding the PURL Specification (Package URL)](https://fossa.com/blog/understanding-purl-specification-package-url/)
 * [2025-06-05, 15:55:50](https://lobste.rs/s/5jjn4k/boredom_over_beauty_why_code_quality_is) - [Boredom Over Beauty: Why Code Quality is Code Security](https://blog.asymmetric.re/boredom-over-beauty-why-code-quality-is-code-security/)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/edujcv/digital_frame_hacking_cracking_it_open) - [Digital Frame Hacking - Cracking It Open](https://ezhart.com/posts/digital-frame-hacking-1)
@@ -17,7 +18,6 @@
 * [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 19:51:24](https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj) - [gg: GG - Gui for JJ](https://github.com/gulbanana/gg)
-* [2025-06-04, 16:57:38](https://lobste.rs/s/fjbrrg/goblinville_spring_lisp_game_jam_2025) - [Goblinville: A Spring Lisp Game Jam 2025 retrospective](https://spritely.institute/news/goblinville-a-spring-lisp-game-jam-2025-retrospective.html)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
 * [2025-06-04, 11:31:38](https://lobste.rs/s/mokfrm/experimenting_with_no_build_web) - [Experimenting with no-build Web Applications](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html)
