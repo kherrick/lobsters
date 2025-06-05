@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-05, 22:51:14",
+      "https://lobste.rs/s/ntopjt/growing_topos_tech_team"
+    ],
+    [
+      "Growing the Topos tech team",
+      "https://topos.institute/blog/2025-05-29-software-team/"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 22:50:22",
+      "https://lobste.rs/s/v46qi0/authentication_with_axum"
+    ],
+    [
+      "Authentication with Axum",
+      "https://mattrighetti.com/2025/05/03/authentication-with-axum"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 22:23:59",
       "https://lobste.rs/s/j1ivqn/phasing_out_bazaar_code_hosting_at"
     ],
@@ -27,6 +47,16 @@
     [
       "Machine Code Isn't Scary",
       "https://jimmyhmiller.com/machine-code-isnt-scary"
+    ]
+  ],
+  [
+    [
+      "2025-06-05, 20:23:01",
+      "https://lobste.rs/s/gllcr5/skribidi_nimble_bidirectional_text"
+    ],
+    [
+      "Skribidi -  Nimble bidirectional text stack for UIs",
+      "https://github.com/memononen/Skribidi"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2025-06-04, 19:51:24",
-      "https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj"
-    ],
-    [
-      "gg: GG - Gui for JJ",
-      "https://github.com/gulbanana/gg"
-    ]
-  ],
-  [
-    [
       "2025-06-04, 14:21:33",
       "https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released"
     ],
@@ -227,26 +247,6 @@
     [
       "Days since last Rust Minecraft server",
       "https://dayssincelastrustmcserver.com/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 09:11:04",
-      "https://lobste.rs/s/n2lvmy/ai_changes_everything"
-    ],
-    [
-      "AI Changes Everything",
-      "https://lucumr.pocoo.org/2025/6/4/changes/"
-    ]
-  ],
-  [
-    [
-      "2025-06-04, 08:38:32",
-      "https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025"
-    ],
-    [
-      "What's your go-to message queue in 2025?",
-      "https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025"
     ]
   ]
 ]
