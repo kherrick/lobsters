@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-05, 21:45:50",
+      "https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust"
+    ],
+    [
+      "Introducing facet: Reflection for Rust",
+      "https://youtu.be/0mqFCqw_XvI"
+    ]
+  ],
+  [
+    [
       "2025-06-05, 21:34:31",
       "https://lobste.rs/s/ozjedn/machine_code_isn_t_scary"
     ],
@@ -237,16 +247,6 @@
     [
       "What's your go-to message queue in 2025?",
       "https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025"
-    ]
-  ],
-  [
-    [
-      "2025-06-03, 20:33:36",
-      "https://lobste.rs/s/joubld/jujutsu_on_tangled"
-    ],
-    [
-      "jujutsu on tangled",
-      "https://blog.tangled.sh/stacking"
     ]
   ]
 ]
