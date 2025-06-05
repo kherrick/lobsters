@@ -1,8 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-05, 22:51:14](https://lobste.rs/s/ntopjt/growing_topos_tech_team) - [Growing the Topos tech team](https://topos.institute/blog/2025-05-29-software-team/)
+* [2025-06-05, 22:50:22](https://lobste.rs/s/v46qi0/authentication_with_axum) - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 * [2025-06-05, 22:23:59](https://lobste.rs/s/j1ivqn/phasing_out_bazaar_code_hosting_at) - [Phasing out Bazaar code hosting at Launchpad](https://discourse.ubuntu.com/t/phasing-out-bazaar-code-hosting/62189)
 * [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
 * [2025-06-05, 21:34:31](https://lobste.rs/s/ozjedn/machine_code_isn_t_scary) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
+* [2025-06-05, 20:23:01](https://lobste.rs/s/gllcr5/skribidi_nimble_bidirectional_text) - [Skribidi -  Nimble bidirectional text stack for UIs](https://github.com/memononen/Skribidi)
 * [2025-06-05, 20:06:37](https://lobste.rs/s/kflxi5/east_river_source_control) - [East River Source Control](https://ersc.io)
 * [2025-06-05, 18:27:42](https://lobste.rs/s/p9wjnc/beyond_affine_loop_parallelisation_by) - [Beyond Affine Loop Parallelisation by Recurrence  Duplication](https://deviantabstraction.com/2025/06/03/beyond-affine-loop-parallelisation-by-recurrece-n-duplication/)
 * [2025-06-05, 17:07:40](https://lobste.rs/s/zynw2u/reverb_part_1_freeverb) - [Reverb Part 1: “Freeverb”](https://reillyspitzfaden.com/posts/2025/06/reverb-part-1/)
@@ -20,11 +23,8 @@
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 * [2025-06-04, 21:55:35](https://lobste.rs/s/n22g02/redesigned_swift_org_is_now_live) - [Redesigned Swift.org is now live](https://www.swift.org/blog/redesigned-swift-org-is-now-live/)
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
-* [2025-06-04, 19:51:24](https://lobste.rs/s/i1yexk/gg_gg_gui_for_jj) - [gg: GG - Gui for JJ](https://github.com/gulbanana/gg)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
-* [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
-* [2025-06-04, 08:38:32](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025) - [What's your go-to message queue in 2025?](https://lobste.rs/s/uwp2hd/what_s_your_go_message_queue_2025)
 
 ## [Archives](archives/index.md)
 

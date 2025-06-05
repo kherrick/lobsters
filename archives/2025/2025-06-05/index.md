@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 22:51:14](https://lobste.rs/s/ntopjt/growing_topos_tech_team) - [Growing the Topos tech team](https://topos.institute/blog/2025-05-29-software-team/)
+* [2025-06-05, 22:50:22](https://lobste.rs/s/v46qi0/authentication_with_axum) - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 * [2025-06-05, 22:23:59](https://lobste.rs/s/j1ivqn/phasing_out_bazaar_code_hosting_at) - [Phasing out Bazaar code hosting at Launchpad](https://discourse.ubuntu.com/t/phasing-out-bazaar-code-hosting/62189)
 * [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
 * [2025-06-05, 21:34:31](https://lobste.rs/s/ozjedn/machine_code_isn_t_scary) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
