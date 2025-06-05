@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-05](index.md)
 
+* [2025-06-05, 15:14:12](https://lobste.rs/s/edujcv/digital_frame_hacking_cracking_it_open) - [Digital Frame Hacking - Cracking It Open](https://ezhart.com/posts/digital-frame-hacking-1)
+* [2025-06-05, 15:14:12](https://lobste.rs/s/495rx9/which_i_have_opinions_about_parsing) - [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
+* [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
 * [2025-06-05, 13:26:05](https://lobste.rs/s/8amahc/is_genai_digital_cocaine) - [Is GenAI Digital Cocaine?](https://makemeacto.substack.com/p/is-genai-digital-cocaine)
 * [2025-06-05, 13:18:28](https://lobste.rs/s/lbmywp/aplearn_machine_learning_library) - [APLearn: machine learning library](https://github.com/BobMcDear/aplearn)
 * [2025-06-05, 12:59:07](https://lobste.rs/s/bbu9pz/consumer_routers_router_security) - [Consumer Routers - Router Security](https://routersecurity.org/consumerrouters.php)
