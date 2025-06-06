@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-06, 01:49:50](https://lobste.rs/s/y5z07p/my_node_js_is_bit_rusty_2023) - [My Node.js is a bit Rusty (2023)](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2025-06-05, 22:51:14](https://lobste.rs/s/ntopjt/growing_topos_tech_team) - [Growing the Topos tech team](https://topos.institute/blog/2025-05-29-software-team/)
 * [2025-06-05, 22:50:22](https://lobste.rs/s/v46qi0/authentication_with_axum) - [Authentication with Axum](https://mattrighetti.com/2025/05/03/authentication-with-axum)
 * [2025-06-05, 22:23:59](https://lobste.rs/s/j1ivqn/phasing_out_bazaar_code_hosting_at) - [Phasing out Bazaar code hosting at Launchpad](https://discourse.ubuntu.com/t/phasing-out-bazaar-code-hosting/62189)
@@ -24,7 +25,6 @@
 * [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
-* [2025-06-04, 09:11:04](https://lobste.rs/s/n2lvmy/ai_changes_everything) - [AI Changes Everything](https://lucumr.pocoo.org/2025/6/4/changes/)
 
 ## [Archives](archives/index.md)
 
