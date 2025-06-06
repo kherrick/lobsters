@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 11:08:17](https://lobste.rs/s/v6lr1v/fuzzer_blind_spots_meet_jepsen) - [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
+* [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:26:41](https://lobste.rs/s/dlpbtw/earnest_guide_symbols_common_lisp) - [An Earnest Guide to Symbols in Common Lisp](https://kevingal.com/blog/cl-symbols.html)
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
 * [2025-06-06, 09:33:06](https://lobste.rs/s/zvszgv/benchmarking_is_hard_sometimes) - [Benchmarking is hard, sometimes](https://vondra.me/posts/benchmarking-is-hard-sometimes/)
