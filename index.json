@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-06, 22:02:02",
+      "https://lobste.rs/s/wnowgw/year_funded_freebsd"
+    ],
+    [
+      "A year of funded FreeBSD",
+      "http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 21:27:42",
       "https://lobste.rs/s/birojb/hacking_is_necessary"
     ],
@@ -167,16 +177,6 @@
     [
       "Jepsen: TigerBeetle 0.16.11",
       "https://jepsen.io/analyses/tigerbeetle-0.16.11"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 10:26:41",
-      "https://lobste.rs/s/dlpbtw/earnest_guide_symbols_common_lisp"
-    ],
-    [
-      "An Earnest Guide to Symbols in Common Lisp",
-      "https://kevingal.com/blog/cl-symbols.html"
     ]
   ],
   [
