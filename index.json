@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-06-06, 09:33:06",
+      "https://lobste.rs/s/zvszgv/benchmarking_is_hard_sometimes"
+    ],
+    [
+      "Benchmarking is hard, sometimes",
+      "https://vondra.me/posts/benchmarking-is-hard-sometimes/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 09:16:07",
       "https://lobste.rs/s/bhzsar/magic_namerefs"
     ],
@@ -157,16 +167,6 @@
     [
       "Introducing facet: Reflection for Rust",
       "https://youtu.be/0mqFCqw_XvI"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 21:34:31",
-      "https://lobste.rs/s/ozjedn/machine_code_isn_t_scary"
-    ],
-    [
-      "Machine Code Isn't Scary",
-      "https://jimmyhmiller.com/machine-code-isnt-scary"
     ]
   ],
   [
