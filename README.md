@@ -14,7 +14,7 @@
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-06, 06:05:08](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza) - [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
-* [2025-06-05, 22:51:14](https://lobste.rs/s/ntopjt/growing_topos_tech_team) - [Growing the Topos tech team](https://topos.institute/blog/2025-05-29-software-team/)
+* [2025-06-06, 01:49:50](https://lobste.rs/s/y5z07p/my_node_js_is_bit_rusty_2023) - [My Node.js is a bit Rusty (2023)](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
 * [2025-06-05, 21:34:31](https://lobste.rs/s/ozjedn/machine_code_isn_t_scary) - [Machine Code Isn't Scary](https://jimmyhmiller.com/machine-code-isnt-scary)
 * [2025-06-05, 20:06:37](https://lobste.rs/s/kflxi5/east_river_source_control) - [East River Source Control](https://ersc.io)
