@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-06, 06:05:08](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza) - [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
 * [2025-06-06, 04:22:28](https://lobste.rs/s/3bgtx3/convolutions_polynomials_flipped) - [Convolutions, Polynomials and Flipped Kernels](https://eli.thegreenplace.net/2025/convolutions-polynomials-and-flipped-kernels/)
 * [2025-06-06, 01:49:50](https://lobste.rs/s/y5z07p/my_node_js_is_bit_rusty_2023) - [My Node.js is a bit Rusty (2023)](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
 * [2025-06-05, 22:51:14](https://lobste.rs/s/ntopjt/growing_topos_tech_team) - [Growing the Topos tech team](https://topos.institute/blog/2025-05-29-software-team/)
@@ -22,7 +23,6 @@
 * [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
-* [2025-06-04, 20:08:56](https://lobste.rs/s/wcnixg/why_i_wrote_beam_book) - [Why I Wrote the BEAM Book](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/)
 * [2025-06-04, 14:21:33](https://lobste.rs/s/vmdggh/jujutsu_v0_30_0_released) - [jujutsu v0.30.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.30.0)
 * [2025-06-04, 13:54:49](https://lobste.rs/s/qegkfj/days_since_last_rust_minecraft_server) - [Days since last Rust Minecraft server](https://dayssincelastrustmcserver.com/)
 
