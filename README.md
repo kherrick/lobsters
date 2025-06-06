@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-06, 11:22:42](https://lobste.rs/s/spmwde/i_let_chatgpt_make_all_my_architectural) - [I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results](https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c)
+* [2025-06-06, 11:14:57](https://lobste.rs/s/ndcp7o/conventional_commit_message_generator) - [Conventional Commit message generator using local LLMs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/)
 * [2025-06-06, 11:08:17](https://lobste.rs/s/v6lr1v/fuzzer_blind_spots_meet_jepsen) - [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:26:41](https://lobste.rs/s/dlpbtw/earnest_guide_symbols_common_lisp) - [An Earnest Guide to Symbols in Common Lisp](https://kevingal.com/blog/cl-symbols.html)
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
-* [2025-06-06, 09:33:06](https://lobste.rs/s/zvszgv/benchmarking_is_hard_sometimes) - [Benchmarking is hard, sometimes](https://vondra.me/posts/benchmarking-is-hard-sometimes/)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-06, 06:05:08](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza) - [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
 * [2025-06-06, 01:49:50](https://lobste.rs/s/y5z07p/my_node_js_is_bit_rusty_2023) - [My Node.js is a bit Rusty (2023)](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
@@ -23,7 +24,6 @@
 * [2025-06-05, 10:58:49](https://lobste.rs/s/vtfzri/picking_uncontested_private_ip_subnets) - [Picking uncontested private IP subnets with usage data](https://blog.benjojo.co.uk/post/picking-unused-rfc1918-ip-space)
 * [2025-06-05, 10:12:55](https://lobste.rs/s/yjbsof/programming_system) - [A programming system](https://andreyor.st/posts/2023-10-18-a-programming-system/)
 * [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
-* [2025-06-05, 09:18:04](https://lobste.rs/s/lczxco/linearity_uniqueness) - [Linearity and uniqueness](https://kcsrk.info/ocaml/modes/oxcaml/2025/06/04/linearity_and_uniqueness/)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 
 ## [Archives](archives/index.md)
