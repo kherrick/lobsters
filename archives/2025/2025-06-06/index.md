@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 20:06:08](https://lobste.rs/s/7izxi1/smalltalk_haskell_lisp_2011) - [Smalltalk, Haskell and Lisp (2011)](https://storytotell.org/smalltalk-haskell-and-lisp)
 * [2025-06-06, 20:06:08](https://lobste.rs/s/7izxi1/smalltalk_haskell_lisp) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
 * [2025-06-06, 18:28:16](https://lobste.rs/s/wrdnsx/next_phase_jank_s_c_interop) - [The next phase of jank's C++ interop](https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/)
 * [2025-06-06, 18:18:27](https://lobste.rs/s/1yt2qz/supercharging_gcp_navigation_with) - [Supercharging GCP Navigation with Alfred](https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/)
