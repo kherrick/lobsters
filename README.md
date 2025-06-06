@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-06-06, 14:54:02](https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
+* [2025-06-06, 14:37:19](https://lobste.rs/s/v8ny3n/apl_interpreter_haskell_2024) - [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 * [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:32:45](https://lobste.rs/s/imidny/git_remote_sqlite_single_file_git_repos) - [git-remote-sqlite: Single-file Git repos that can replicate with Litestream](https://github.com/chrislloyd/git-remote-sqlite)
 * [2025-06-06, 13:27:57](https://lobste.rs/s/3wmstw/small_programs_languages) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
@@ -12,7 +13,6 @@
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:26:41](https://lobste.rs/s/dlpbtw/earnest_guide_symbols_common_lisp) - [An Earnest Guide to Symbols in Common Lisp](https://kevingal.com/blog/cl-symbols.html)
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
-* [2025-06-06, 09:33:06](https://lobste.rs/s/zvszgv/benchmarking_is_hard_sometimes) - [Benchmarking is hard, sometimes](https://vondra.me/posts/benchmarking-is-hard-sometimes/)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-06, 06:05:08](https://lobste.rs/s/mrbuca/i_learned_rust_24_hours_eat_free_pizza) - [I Learned Rust In 24 Hours To Eat Free Pizza Morally](https://medium.com/@sebastiancarlos/i-learned-rust-in-24-hours-to-eat-free-pizza-morally-28ea8312e523)
 * [2025-06-06, 01:49:50](https://lobste.rs/s/y5z07p/my_node_js_is_bit_rusty_2023) - [My Node.js is a bit Rusty (2023)](https://gal.hagever.com/posts/my-node-js-is-a-bit-rusty)
