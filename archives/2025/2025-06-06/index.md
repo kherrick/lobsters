@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 15:45:48](https://lobste.rs/s/guet32/recovering_control_flow_structures) - [Recovering control flow structures without CFGs](https://purplesyringa.moe/blog/recovering-control-flow-structures-without-cfgs/)
 * [2025-06-06, 14:54:02](https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 14:37:19](https://lobste.rs/s/v8ny3n/apl_interpreter_haskell_2024) - [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 * [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
