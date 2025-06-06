@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-06](index.md)
 
+* [2025-06-06, 22:02:02](https://lobste.rs/s/wnowgw/year_funded_freebsd) - [A year of funded FreeBSD](http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 21:27:42](https://lobste.rs/s/birojb/hacking_is_necessary) - [Hacking is Necessary](https://scharenbroch.dev/blog/hacking-is-necessary/)
 * [2025-06-06, 20:06:08](https://lobste.rs/s/7izxi1/smalltalk_haskell_lisp_2011) - [Smalltalk, Haskell and Lisp (2011)](https://storytotell.org/smalltalk-haskell-and-lisp)
 * [2025-06-06, 20:06:08](https://lobste.rs/s/7izxi1/smalltalk_haskell_lisp) - [Smalltalk, Haskell and Lisp](https://storytotell.org/smalltalk-haskell-and-lisp)
