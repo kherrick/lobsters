@@ -3,6 +3,7 @@
 * [2025-06-06, 18:28:16](https://lobste.rs/s/wrdnsx/next_phase_jank_s_c_interop) - [The next phase of jank's C++ interop](https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/)
 * [2025-06-06, 18:18:27](https://lobste.rs/s/1yt2qz/supercharging_gcp_navigation_with) - [Supercharging GCP Navigation with Alfred](https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/)
 * [2025-06-06, 17:07:56](https://lobste.rs/s/6ssfjk/binary_lambda_calculus) - [Binary Lambda Calculus](https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861)
+* [2025-06-06, 16:47:13](https://lobste.rs/s/xiem4j/clips_elevator_pitch) - [CLIPS: An Elevator Pitch](https://ryjo.codes/articles/clips-elevator-pitch.html)
 * [2025-06-06, 15:45:48](https://lobste.rs/s/guet32/recovering_control_flow_structures) - [Recovering control flow structures without CFGs](https://purplesyringa.moe/blog/recovering-control-flow-structures-without-cfgs/)
 * [2025-06-06, 14:54:02](https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
 * [2025-06-06, 14:37:19](https://lobste.rs/s/v8ny3n/apl_interpreter_haskell_2024) - [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
@@ -23,7 +24,6 @@
 * [2025-06-05, 16:51:37](https://lobste.rs/s/ggcrok/announcing_bonfire_social_1_0_release) - [Announcing the Bonfire Social 1.0 Release Candidate](https://bonfirenetworks.org//posts/bonfire_social_rc/)
 * [2025-06-05, 15:14:12](https://lobste.rs/s/495rx9/which_i_have_opinions_about_parsing) - [In which I have Opinions about parsing and grammars](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/parsing/)
 * [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
-* [2025-06-05, 09:55:20](https://lobste.rs/s/mnblkd/dns4eu_for_public_is_available) - [DNS4EU For Public is available](https://www.joindns4.eu/for-public)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 
 ## [Archives](archives/index.md)
