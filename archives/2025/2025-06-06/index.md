@@ -12,6 +12,7 @@
 * [2025-06-06, 11:22:42](https://lobste.rs/s/spmwde/i_let_chatgpt_make_all_my_architectural) - [I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results](https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c)
 * [2025-06-06, 11:14:57](https://lobste.rs/s/ndcp7o/conventional_commit_message_generator) - [Conventional Commit message generator using local LLMs](https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/)
 * [2025-06-06, 11:08:17](https://lobste.rs/s/v6lr1v/fuzzer_blind_spots_meet_jepsen) - [Fuzzer Blind Spots (Meet Jepsen!)](https://tigerbeetle.com/blog/2025-06-06-fuzzer-blind-spots-meet-jepsen/)
+* [2025-06-06, 11:07:06](https://lobste.rs/s/gynzfc/just_fucking_code) - [Just fucking code](https://www.justfuckingcode.com/)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 * [2025-06-06, 10:26:41](https://lobste.rs/s/dlpbtw/earnest_guide_symbols_common_lisp) - [An Earnest Guide to Symbols in Common Lisp](https://kevingal.com/blog/cl-symbols.html)
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
