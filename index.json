@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-07, 04:54:38",
+      "https://lobste.rs/s/gruwz1/gpu_memory_consistency_specifications"
+    ],
+    [
+      "GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling",
+      "https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/"
+    ]
+  ],
+  [
+    [
       "2025-06-06, 22:02:02",
       "https://lobste.rs/s/wnowgw/year_funded_freebsd"
     ],
@@ -17,16 +27,6 @@
     [
       "Hacking is Necessary",
       "https://scharenbroch.dev/blog/hacking-is-necessary/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 20:06:08",
-      "https://lobste.rs/s/7izxi1/smalltalk_haskell_lisp_2011"
-    ],
-    [
-      "Smalltalk, Haskell and Lisp (2011)",
-      "https://storytotell.org/smalltalk-haskell-and-lisp"
     ]
   ],
   [
