@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-07, 10:29:18",
+      "https://lobste.rs/s/kvhjf8/unveiling_endbox"
+    ],
+    [
+      "Unveiling the EndBOX",
+      "https://www.endbasic.dev/2025/06/unveiling-the-endbox.html"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 08:32:01",
       "https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on"
     ],
@@ -157,16 +167,6 @@
     [
       "I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results",
       "https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 11:14:57",
-      "https://lobste.rs/s/ndcp7o/conventional_commit_message_generator"
-    ],
-    [
-      "Conventional Commit message generator using local LLMs",
-      "https://wimpysworld.com/posts/faff-ollama-conventional-commit-generator/"
     ]
   ],
   [
