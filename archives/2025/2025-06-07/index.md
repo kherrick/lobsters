@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 22:43:58](https://lobste.rs/s/xhtiut/making_sense_acquire_release_semantics) - [Making Sense of Acquire-Release Semantics (2023)](https://davekilian.com/acquire-release.html)
 * [2025-06-07, 21:05:32](https://lobste.rs/s/15wvld/mcp_vs_api) - [MCP vs API](https://glama.ai/blog/2025-06-06-mcp-vs-api)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
