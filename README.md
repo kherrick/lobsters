@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-07, 10:34:23](https://lobste.rs/s/k1pj8b/maplibre_newsletter_may_2025) - [MapLibre Newsletter May 2025](https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/)
 * [2025-06-07, 10:29:18](https://lobste.rs/s/kvhjf8/unveiling_endbox) - [Unveiling the EndBOX](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:40:35](https://lobste.rs/s/pk22xl/enable_dark_theme_librewolf) - [Enable Dark Theme in LibreWolf](https://bitwilli.com/enable-dark-theme-in-librewolf)
@@ -23,7 +24,6 @@
 * [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-05, 21:45:50](https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust) - [Introducing facet: Reflection for Rust](https://youtu.be/0mqFCqw_XvI)
-* [2025-06-05, 15:02:07](https://lobste.rs/s/mp34xp/ai_is_gamechanger_for_tla_users) - [AI is a gamechanger for TLA+ users](https://buttondown.com/hillelwayne/archive/ai-is-a-gamechanger-for-tla-users/)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 
 ## [Archives](archives/index.md)
