@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-07, 15:51:00](https://lobste.rs/s/kprwbr/we_made_top_ai_models_compete_game) - [We Made Top AI Models Compete in a Game of Diplomacy. Here’s Who Won](https://every.to/diplomacy)
 * [2025-06-07, 15:14:33](https://lobste.rs/s/yfabqc/thermodynamic_computing) - [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/)
 * [2025-06-07, 12:04:45](https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing) - [Simplifying and Isolating Failure-Inducing Input (Delta Debugging)](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf)
 * [2025-06-07, 12:00:09](https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated) - [I Read All Of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
@@ -22,7 +23,6 @@
 * [2025-06-06, 11:22:42](https://lobste.rs/s/spmwde/i_let_chatgpt_make_all_my_architectural) - [I Let ChatGPT Make All My Architectural Decisions for a Month: The Surprising Results](https://medium.com/@sohail_saifi/i-let-chatgpt-make-all-my-architectural-decisions-for-a-month-the-surprising-results-e21f1254c74c)
 * [2025-06-06, 11:07:06](https://lobste.rs/s/gynzfc/just_fucking_code) - [Just fucking code](https://www.justfuckingcode.com/)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
-* [2025-06-06, 10:16:55](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgytib/what_are_you_doing_this_weekend)
 * [2025-06-06, 09:16:07](https://lobste.rs/s/bhzsar/magic_namerefs) - [magic namerefs](https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb)
 * [2025-06-05, 06:13:51](https://lobste.rs/s/rzskjk/i_think_i_m_done_thinking_about_genai_for) - [I Think I’m Done Thinking About genAI For Now](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html)
 
