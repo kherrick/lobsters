@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 17:46:55](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful) - [How can one write blazing fast yet useful compilers (for lazy pure functional languages)?](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful)
 * [2025-06-07, 17:02:09](https://lobste.rs/s/ntsbnt/memvid_video_based_ai_memory_library) - [memvid: Video-based AI memory library](https://github.com/Olow304/memvid)
 * [2025-06-07, 16:57:32](https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer) - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
