@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-07, 12:04:45",
+      "https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing"
+    ],
+    [
+      "Simplifying and Isolating Failure-Inducing Input (Delta Debugging)",
+      "https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-06-07, 12:00:09",
+      "https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated"
+    ],
+    [
+      "I Read All Of Cloudflare's Claude-Generated Commits",
+      "https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 10:34:23",
       "https://lobste.rs/s/k1pj8b/maplibre_newsletter_may_2025"
     ],
@@ -97,16 +117,6 @@
     [
       "Supercharging GCP Navigation with Alfred",
       "https://dineshgowda.com/posts/supercharging-gcp-navigation-with-alfred/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 17:07:56",
-      "https://lobste.rs/s/6ssfjk/binary_lambda_calculus"
-    ],
-    [
-      "Binary Lambda Calculus",
-      "https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "magic namerefs",
       "https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb"
-    ]
-  ],
-  [
-    [
-      "2025-06-05, 21:45:50",
-      "https://lobste.rs/s/njbvot/introducing_facet_reflection_for_rust"
-    ],
-    [
-      "Introducing facet: Reflection for Rust",
-      "https://youtu.be/0mqFCqw_XvI"
     ]
   ],
   [
