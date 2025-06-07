@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 15:14:33](https://lobste.rs/s/yfabqc/thermodynamic_computing) - [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/)
 * [2025-06-07, 12:04:45](https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing) - [Simplifying and Isolating Failure-Inducing Input (Delta Debugging)](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf)
 * [2025-06-07, 12:00:09](https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated) - [I Read All Of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-07, 10:34:23](https://lobste.rs/s/k1pj8b/maplibre_newsletter_may_2025) - [MapLibre Newsletter May 2025](https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/)
