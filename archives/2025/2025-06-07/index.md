@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 17:02:09](https://lobste.rs/s/ntsbnt/memvid_video_based_ai_memory_library) - [memvid: Video-based AI memory library](https://github.com/Olow304/memvid)
+* [2025-06-07, 16:57:32](https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer) - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
 * [2025-06-07, 16:22:28](https://lobste.rs/s/ubqtpe/what_was_radiant_ai_anyway) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 16:08:02](https://lobste.rs/s/chmlid/nix_2_29_0_with_nix_team_members) - [Nix 2.29.0 with Nix Team members](https://fulltimenix.com/episodes/nix-2-29-0-with-nix-team-members)
 * [2025-06-07, 15:51:00](https://lobste.rs/s/kprwbr/we_made_top_ai_models_compete_game) - [We Made Top AI Models Compete in a Game of Diplomacy. Here’s Who Won](https://every.to/diplomacy)

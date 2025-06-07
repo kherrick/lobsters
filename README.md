@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-07, 17:02:09](https://lobste.rs/s/ntsbnt/memvid_video_based_ai_memory_library) - [memvid: Video-based AI memory library](https://github.com/Olow304/memvid)
+* [2025-06-07, 16:57:32](https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer) - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
 * [2025-06-07, 16:22:28](https://lobste.rs/s/ubqtpe/what_was_radiant_ai_anyway) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 16:08:02](https://lobste.rs/s/chmlid/nix_2_29_0_with_nix_team_members) - [Nix 2.29.0 with Nix Team members](https://fulltimenix.com/episodes/nix-2-29-0-with-nix-team-members)
 * [2025-06-07, 15:14:33](https://lobste.rs/s/yfabqc/thermodynamic_computing) - [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/)
@@ -8,9 +10,7 @@
 * [2025-06-07, 10:34:23](https://lobste.rs/s/k1pj8b/maplibre_newsletter_may_2025) - [MapLibre Newsletter May 2025](https://maplibre.org/news/2025-06-02-maplibre-newsletter-may-2025/)
 * [2025-06-07, 10:29:18](https://lobste.rs/s/kvhjf8/unveiling_endbox) - [Unveiling the EndBOX](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
-* [2025-06-07, 07:40:35](https://lobste.rs/s/pk22xl/enable_dark_theme_librewolf) - [Enable Dark Theme in LibreWolf](https://bitwilli.com/enable-dark-theme-in-librewolf)
 * [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
-* [2025-06-07, 04:54:38](https://lobste.rs/s/gruwz1/gpu_memory_consistency_specifications) - [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/)
 * [2025-06-06, 22:02:02](https://lobste.rs/s/wnowgw/year_funded_freebsd) - [A year of funded FreeBSD](http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 21:27:42](https://lobste.rs/s/birojb/hacking_is_necessary) - [Hacking is Necessary](https://scharenbroch.dev/blog/hacking-is-necessary/)
 * [2025-06-06, 18:28:16](https://lobste.rs/s/wrdnsx/next_phase_jank_s_c_interop) - [The next phase of jank's C++ interop](https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/)
