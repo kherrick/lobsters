@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-07](index.md)
 
+* [2025-06-07, 16:08:02](https://lobste.rs/s/chmlid/nix_2_29_0_with_nix_team_members) - [Nix 2.29.0 with Nix Team members](https://fulltimenix.com/episodes/nix-2-29-0-with-nix-team-members)
 * [2025-06-07, 15:51:00](https://lobste.rs/s/kprwbr/we_made_top_ai_models_compete_game) - [We Made Top AI Models Compete in a Game of Diplomacy. Here’s Who Won](https://every.to/diplomacy)
 * [2025-06-07, 15:14:33](https://lobste.rs/s/yfabqc/thermodynamic_computing) - [Thermodynamic Computing](https://knowm.org/thermodynamic-computing/)
 * [2025-06-07, 12:04:45](https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing) - [Simplifying and Isolating Failure-Inducing Input (Delta Debugging)](https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf)
