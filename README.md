@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
 * [2025-06-07, 04:54:38](https://lobste.rs/s/gruwz1/gpu_memory_consistency_specifications) - [GPU Memory Consistency: Specifications, Testing, and Opportunities for Performance Tooling](https://www.sigarch.org/gpu-memory-consistency-specifications-testing-and-opportunities-for-performance-tooling/)
 * [2025-06-06, 22:02:02](https://lobste.rs/s/wnowgw/year_funded_freebsd) - [A year of funded FreeBSD](http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html)
 * [2025-06-06, 21:27:42](https://lobste.rs/s/birojb/hacking_is_necessary) - [Hacking is Necessary](https://scharenbroch.dev/blog/hacking-is-necessary/)
@@ -8,7 +9,6 @@
 * [2025-06-06, 17:07:56](https://lobste.rs/s/6ssfjk/binary_lambda_calculus) - [Binary Lambda Calculus](https://gist.github.com/tromp/86b3184f852f65bfb814e3ab0987d861)
 * [2025-06-06, 16:47:13](https://lobste.rs/s/xiem4j/clips_elevator_pitch) - [CLIPS: An Elevator Pitch](https://ryjo.codes/articles/clips-elevator-pitch.html)
 * [2025-06-06, 14:54:02](https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand) - [Sharing everything I could understand about gradient noise](https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html)
-* [2025-06-06, 14:37:19](https://lobste.rs/s/v8ny3n/apl_interpreter_haskell_2024) - [APL Interpreter in Haskell (2024)](https://scharenbroch.dev/projects/apl-interpreter/)
 * [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 13:32:45](https://lobste.rs/s/imidny/git_remote_sqlite_single_file_git_repos) - [git-remote-sqlite: Single-file Git repos that can replicate with Litestream](https://github.com/chrislloyd/git-remote-sqlite)
 * [2025-06-06, 13:27:57](https://lobste.rs/s/3wmstw/small_programs_languages) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
