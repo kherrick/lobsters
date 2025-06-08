@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:36:44](https://lobste.rs/s/6vr8ih/why_not_use_new_mta_sts) - [Why not use the new MTA-STS?](https://www.bsdhowto.ch/mtasts.html)

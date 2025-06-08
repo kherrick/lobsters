@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:36:44](https://lobste.rs/s/6vr8ih/why_not_use_new_mta_sts) - [Why not use the new MTA-STS?](https://www.bsdhowto.ch/mtasts.html)
@@ -23,7 +24,6 @@
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
 * [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
-* [2025-06-06, 11:07:06](https://lobste.rs/s/gynzfc/just_fucking_code) - [Just fucking code](https://www.justfuckingcode.com/)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 
 ## [Archives](archives/index.md)
