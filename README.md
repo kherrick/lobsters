@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
+* [2025-06-08, 20:01:29](https://lobste.rs/s/mgrtte/what_next_after_vibe_coding) - [What next after vibe coding](https://mastodon.social/@nixCraft/114649024218795319)
 * [2025-06-08, 19:22:36](https://lobste.rs/s/mj0rin/pocket_linkhut) - [Pocket to linkhut](https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130)
 * [2025-06-08, 19:11:54](https://lobste.rs/s/jk8ccr/simulating_time_with_square_root_space) - [Simulating Time With Square-Root Space](https://people.csail.mit.edu/rrw/time-vs-space.pdf)
 * [2025-06-08, 17:25:28](https://lobste.rs/s/5slj75/training_rust_1_5b_coder_lm_with) - [Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO)](https://ghost.oxen.ai/training-a-rust-1-5b-coder-lm-with-reinforcement-learning-grpo/)
@@ -9,7 +11,6 @@
 * [2025-06-08, 15:32:13](https://lobste.rs/s/atchtb/context7_up_date_documentation_for_llms) - [Context7: Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 * [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
 * [2025-06-08, 13:20:49](https://lobste.rs/s/vi3z47/weaponizing_dependabot_pwn_request_at) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
-* [2025-06-08, 12:36:34](https://lobste.rs/s/wnkajf/binfmtc_binfmt_misc_c_scripting) - [binfmtc - binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
 * [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
@@ -18,7 +19,6 @@
 * [2025-06-08, 08:34:21](https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:24:14](https://lobste.rs/s/uh7lh2/shell_scripting_c) - [Shell scripting in C](https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/)
 * [2025-06-08, 08:20:48](https://lobste.rs/s/ofxowp/getting_started_with_qt_without_nonsense) - [Getting started with Qt, without the nonsense](https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/)
-* [2025-06-08, 02:20:09](https://lobste.rs/s/dki3rs/performance_random_floats) - [Performance of random floats](https://dotat.at/@/2025-06-08-floats.html)
 * [2025-06-08, 01:47:25](https://lobste.rs/s/1u6prg/plan_for_simd) - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
 * [2025-06-07, 21:05:32](https://lobste.rs/s/15wvld/mcp_vs_api) - [MCP vs API](https://glama.ai/blog/2025-06-06-mcp-vs-api)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
