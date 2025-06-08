@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 12:36:34](https://lobste.rs/s/wnkajf/binfmtc_binfmt_misc_c_scripting) - [binfmtc - binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
+* [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
 * [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)

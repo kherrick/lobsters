@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 12:36:34](https://lobste.rs/s/wnkajf/binfmtc_binfmt_misc_c_scripting) - [binfmtc - binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
+* [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
 * [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
@@ -16,14 +18,12 @@
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 17:46:55](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful) - [How can one write blazing fast yet useful compilers (for lazy pure functional languages)?](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful)
-* [2025-06-07, 17:02:09](https://lobste.rs/s/ntsbnt/memvid_video_based_ai_memory_library) - [memvid: Video-based AI memory library](https://github.com/Olow304/memvid)
 * [2025-06-07, 16:57:32](https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer) - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
 * [2025-06-07, 16:22:28](https://lobste.rs/s/ubqtpe/what_was_radiant_ai_anyway) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 12:00:09](https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated) - [I Read All Of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-07, 10:29:18](https://lobste.rs/s/kvhjf8/unveiling_endbox) - [Unveiling the EndBOX](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
-* [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 
 ## [Archives](archives/index.md)
