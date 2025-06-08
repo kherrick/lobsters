@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-08, 02:20:09",
+      "https://lobste.rs/s/dki3rs/performance_random_floats"
+    ],
+    [
+      "Performance of random floats",
+      "https://dotat.at/@/2025-06-08-floats.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 02:00:13",
+      "https://lobste.rs/s/gjvk52/einops"
+    ],
+    [
+      "Einops",
+      "https://einops.rocks"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 01:47:25",
+      "https://lobste.rs/s/1u6prg/plan_for_simd"
+    ],
+    [
+      "A plan for SIMD",
+      "https://linebender.org/blog/a-plan-for-simd/"
+    ]
+  ],
+  [
+    [
       "2025-06-07, 22:43:58",
       "https://lobste.rs/s/xhtiut/making_sense_acquire_release_semantics"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-06-07, 15:14:33",
-      "https://lobste.rs/s/yfabqc/thermodynamic_computing"
-    ],
-    [
-      "Thermodynamic Computing",
-      "https://knowm.org/thermodynamic-computing/"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 12:04:45",
       "https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-06-06, 21:27:42",
-      "https://lobste.rs/s/birojb/hacking_is_necessary"
-    ],
-    [
-      "Hacking is Necessary",
-      "https://scharenbroch.dev/blog/hacking-is-necessary/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 18:28:16",
       "https://lobste.rs/s/wrdnsx/next_phase_jank_s_c_interop"
     ],
     [
       "The next phase of jank's C++ interop",
       "https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 14:54:02",
-      "https://lobste.rs/s/cnnp08/sharing_everything_i_could_understand"
-    ],
-    [
-      "Sharing everything I could understand about gradient noise",
-      "https://blog.pkh.me/p/42-sharing-everything-i-could-understand-about-gradient-noise.html"
     ]
   ],
   [
