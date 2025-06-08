@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-08, 08:24:14",
+      "https://lobste.rs/s/uh7lh2/shell_scripting_c"
+    ],
+    [
+      "Shell scripting in C",
+      "https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 08:20:48",
+      "https://lobste.rs/s/ofxowp/getting_started_with_qt_without_nonsense"
+    ],
+    [
+      "Getting started with QT, without the nonsense",
+      "https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 08:13:32",
+      "https://lobste.rs/s/nmamw0/masochist_s_guide_web_development"
+    ],
+    [
+      "A masochist's guide to web development",
+      "https://sebastiano.tronto.net/blog/2025-06-06-webdev/"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 02:20:09",
       "https://lobste.rs/s/dki3rs/performance_random_floats"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-06-07, 12:04:45",
-      "https://lobste.rs/s/v36nvz/simplifying_isolating_failure_inducing"
-    ],
-    [
-      "Simplifying and Isolating Failure-Inducing Input (Delta Debugging)",
-      "https://www.cs.purdue.edu/homes/xyzhang/fall07/Papers/delta-debugging.pdf"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 12:00:09",
       "https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-06-06, 18:28:16",
-      "https://lobste.rs/s/wrdnsx/next_phase_jank_s_c_interop"
-    ],
-    [
-      "The next phase of jank's C++ interop",
-      "https://jank-lang.org/blog/2025-06-06-next-phase-of-interop/"
-    ]
-  ],
-  [
-    [
       "2025-06-06, 13:43:44",
       "https://lobste.rs/s/dayufo/curate_your_shell_history"
     ],
@@ -237,16 +247,6 @@
     [
       "Jepsen: TigerBeetle 0.16.11",
       "https://jepsen.io/analyses/tigerbeetle-0.16.11"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 09:16:07",
-      "https://lobste.rs/s/bhzsar/magic_namerefs"
-    ],
-    [
-      "magic namerefs",
-      "https://gist.github.com/izabera/e4717562e20eb6cfb6e05f8019883efb"
     ]
   ]
 ]
