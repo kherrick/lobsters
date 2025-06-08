@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:36:44](https://lobste.rs/s/6vr8ih/why_not_use_new_mta_sts) - [Why not use the new MTA-STS?](https://www.bsdhowto.ch/mtasts.html)
 * [2025-06-08, 08:34:21](https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:24:14](https://lobste.rs/s/uh7lh2/shell_scripting_c) - [Shell scripting in C](https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/)
@@ -21,7 +22,6 @@
 * [2025-06-07, 08:32:01](https://lobste.rs/s/sny4ob/tool_for_burning_visible_pictures_on) - [A tool for burning visible pictures on a compact disc surface](https://github.com/arduinocelentano/cdimage)
 * [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
 * [2025-06-06, 13:43:44](https://lobste.rs/s/dayufo/curate_your_shell_history) - [Curate your shell history](https://esham.io/2025/05/shell-history)
-* [2025-06-06, 13:32:45](https://lobste.rs/s/imidny/git_remote_sqlite_single_file_git_repos) - [git-remote-sqlite: Single-file Git repos that can replicate with Litestream](https://github.com/chrislloyd/git-remote-sqlite)
 * [2025-06-06, 13:27:57](https://lobste.rs/s/3wmstw/small_programs_languages) - [Small Programs and Languages](https://ratfactor.com/cards/pl-small)
 * [2025-06-06, 11:07:06](https://lobste.rs/s/gynzfc/just_fucking_code) - [Just fucking code](https://www.justfuckingcode.com/)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)

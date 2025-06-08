@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:36:44](https://lobste.rs/s/6vr8ih/why_not_use_new_mta_sts) - [Why not use the new MTA-STS?](https://www.bsdhowto.ch/mtasts.html)
 * [2025-06-08, 08:34:21](https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:24:14](https://lobste.rs/s/uh7lh2/shell_scripting_c) - [Shell scripting in C](https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/)
