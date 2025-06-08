@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 22:08:35](https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical) - [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract)
+* [2025-06-08, 21:59:27](https://lobste.rs/s/itfghb/poison_everywhere_no_output_from_your_mcp) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
 * [2025-06-08, 20:01:29](https://lobste.rs/s/mgrtte/what_next_after_vibe_coding) - [What next after vibe coding](https://mastodon.social/@nixCraft/114649024218795319)
 * [2025-06-08, 19:22:36](https://lobste.rs/s/mj0rin/pocket_linkhut) - [Pocket to linkhut](https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130)
