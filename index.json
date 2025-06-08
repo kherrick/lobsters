@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-08, 12:36:34",
+      "https://lobste.rs/s/wnkajf/binfmtc_binfmt_misc_c_scripting"
+    ],
+    [
+      "binfmtc - binfmt_misc C scripting interface",
+      "https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 12:26:12",
+      "https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab"
+    ],
+    [
+      "Ditching HAProxy (in my homelab)",
+      "https://arch.dog/bark/ditching-haproxy"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 12:16:57",
       "https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-06-07, 17:02:09",
-      "https://lobste.rs/s/ntsbnt/memvid_video_based_ai_memory_library"
-    ],
-    [
-      "memvid: Video-based AI memory library",
-      "https://github.com/Olow304/memvid"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 16:57:32",
       "https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer"
     ],
@@ -227,16 +237,6 @@
     [
       "First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch",
       "https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 13:43:44",
-      "https://lobste.rs/s/dayufo/curate_your_shell_history"
-    ],
-    [
-      "Curate your shell history",
-      "https://esham.io/2025/05/shell-history"
     ]
   ],
   [
