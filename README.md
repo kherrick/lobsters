@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 23:50:59](https://lobste.rs/s/yzwmfy/software_design_i_see_thick_thin_clients) - [The Software Design I See: Thick–Thin Clients](https://www.piglei.com/articles/en_the_software_design_i_see_thick_thin_clients/)
 * [2025-06-08, 22:08:35](https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical) - [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract)
 * [2025-06-08, 21:59:27](https://lobste.rs/s/itfghb/poison_everywhere_no_output_from_your_mcp) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
@@ -16,7 +17,6 @@
 * [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
-* [2025-06-08, 08:36:44](https://lobste.rs/s/6vr8ih/why_not_use_new_mta_sts) - [Why not use the new MTA-STS?](https://www.bsdhowto.ch/mtasts.html)
 * [2025-06-08, 08:34:21](https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:24:14](https://lobste.rs/s/uh7lh2/shell_scripting_c) - [Shell scripting in C](https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/)
 * [2025-06-08, 08:20:48](https://lobste.rs/s/ofxowp/getting_started_with_qt_without_nonsense) - [Getting started with Qt, without the nonsense](https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/)

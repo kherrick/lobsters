@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 23:50:59](https://lobste.rs/s/yzwmfy/software_design_i_see_thick_thin_clients) - [The Software Design I See: Thick–Thin Clients](https://www.piglei.com/articles/en_the_software_design_i_see_thick_thin_clients/)
 * [2025-06-08, 22:08:35](https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical) - [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract)
 * [2025-06-08, 21:59:27](https://lobste.rs/s/itfghb/poison_everywhere_no_output_from_your_mcp) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
