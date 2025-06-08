@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 15:54:13](https://lobste.rs/s/mq1sfz/how_piefed_federates_flair_on_posts) - [How PieFed federates \"flair\" on posts and comments](https://join.piefed.social/2025/05/10/how-piefed-federates-flair-on-posts-and-comments/)
 * [2025-06-08, 15:34:46](https://lobste.rs/s/snhi5l/if_virtual_threads_are_solution_what_is) - [If Virtual Threads are the solution, what is the problem? (2023)](https://webtide.com/if-virtual-threads-are-the-solution-what-is-the-problem/)
 * [2025-06-08, 15:32:13](https://lobste.rs/s/atchtb/context7_up_date_documentation_for_llms) - [Context7: Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 * [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)

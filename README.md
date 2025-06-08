@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 15:54:13](https://lobste.rs/s/mq1sfz/how_piefed_federates_flair_on_posts) - [How PieFed federates \"flair\" on posts and comments](https://join.piefed.social/2025/05/10/how-piefed-federates-flair-on-posts-and-comments/)
 * [2025-06-08, 15:34:46](https://lobste.rs/s/snhi5l/if_virtual_threads_are_solution_what_is) - [If Virtual Threads are the solution, what is the problem? (2023)](https://webtide.com/if-virtual-threads-are-the-solution-what-is-the-problem/)
 * [2025-06-08, 15:32:13](https://lobste.rs/s/atchtb/context7_up_date_documentation_for_llms) - [Context7: Up-to-date documentation for LLMs and AI code editors](https://context7.com/)
 * [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
@@ -16,7 +17,6 @@
 * [2025-06-08, 08:13:32](https://lobste.rs/s/nmamw0/masochist_s_guide_web_development) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-08, 02:20:09](https://lobste.rs/s/dki3rs/performance_random_floats) - [Performance of random floats](https://dotat.at/@/2025-06-08-floats.html)
 * [2025-06-08, 01:47:25](https://lobste.rs/s/1u6prg/plan_for_simd) - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
-* [2025-06-07, 22:43:58](https://lobste.rs/s/xhtiut/making_sense_acquire_release_semantics) - [Making Sense of Acquire-Release Semantics (2023)](https://davekilian.com/acquire-release.html)
 * [2025-06-07, 21:05:32](https://lobste.rs/s/15wvld/mcp_vs_api) - [MCP vs API](https://glama.ai/blog/2025-06-06-mcp-vs-api)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
