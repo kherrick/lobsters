@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-08, 19:22:36",
+      "https://lobste.rs/s/mj0rin/pocket_linkhut"
+    ],
+    [
+      "Pocket to linkhut",
+      "https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 19:11:54",
+      "https://lobste.rs/s/jk8ccr/simulating_time_with_square_root_space"
+    ],
+    [
+      "Simulating Time With Square-Root Space",
+      "https://people.csail.mit.edu/rrw/time-vs-space.pdf"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 17:25:28",
       "https://lobste.rs/s/5slj75/training_rust_1_5b_coder_lm_with"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-06-08, 08:13:32",
-      "https://lobste.rs/s/nmamw0/masochist_s_guide_web_development"
-    ],
-    [
-      "A masochist's guide to web development",
-      "https://sebastiano.tronto.net/blog/2025-06-06-webdev/"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 02:20:09",
       "https://lobste.rs/s/dki3rs/performance_random_floats"
     ],
@@ -227,16 +237,6 @@
     [
       "How can one write blazing fast yet useful compilers (for lazy pure functional languages)?",
       "https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful"
-    ]
-  ],
-  [
-    [
-      "2025-06-07, 16:57:32",
-      "https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer"
-    ],
-    [
-      "Astonishing discovery by computer scientist: how to squeeze space into time",
-      "https://www.youtube.com/watch?v=8JuWdXrCmWg"
     ]
   ],
   [
