@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-08, 08:36:44",
+      "https://lobste.rs/s/6vr8ih/why_not_use_new_mta_sts"
+    ],
+    [
+      "Why not use the new MTA-STS?",
+      "https://www.bsdhowto.ch/mtasts.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-08, 08:34:21",
+      "https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh"
+    ],
+    [
+      "Why not use DNS over HTTPS (DoH)?",
+      "https://www.bsdhowto.ch/doh.html"
+    ]
+  ],
+  [
+    [
       "2025-06-08, 08:24:14",
       "https://lobste.rs/s/uh7lh2/shell_scripting_c"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-06-07, 16:08:02",
-      "https://lobste.rs/s/chmlid/nix_2_29_0_with_nix_team_members"
-    ],
-    [
-      "Nix 2.29.0 with Nix Team members",
-      "https://fulltimenix.com/episodes/nix-2-29-0-with-nix-team-members"
-    ]
-  ],
-  [
-    [
       "2025-06-07, 12:00:09",
       "https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated"
     ],
@@ -187,16 +197,6 @@
     [
       "First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch",
       "https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/"
-    ]
-  ],
-  [
-    [
-      "2025-06-06, 22:02:02",
-      "https://lobste.rs/s/wnowgw/year_funded_freebsd"
-    ],
-    [
-      "A year of funded FreeBSD",
-      "http://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html"
     ]
   ],
   [
