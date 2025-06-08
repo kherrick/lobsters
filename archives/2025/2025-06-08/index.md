@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 19:22:36](https://lobste.rs/s/mj0rin/pocket_linkhut) - [Pocket to linkhut](https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130)
+* [2025-06-08, 19:11:54](https://lobste.rs/s/jk8ccr/simulating_time_with_square_root_space) - [Simulating Time With Square-Root Space](https://people.csail.mit.edu/rrw/time-vs-space.pdf)
 * [2025-06-08, 17:25:28](https://lobste.rs/s/5slj75/training_rust_1_5b_coder_lm_with) - [Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO) | Oxen.ai](https://ghost.oxen.ai/training-a-rust-1-5b-coder-lm-with-reinforcement-learning-grpo/)
 * [2025-06-08, 17:17:12](https://lobste.rs/s/82zdak/low_impact_keybase_impersonation_issue) - [A Low-Impact Keybase Impersonation Issue on Lobsters](https://www.naff.dev/blog/lobsters-keybase-impersonation)
 * [2025-06-08, 15:54:13](https://lobste.rs/s/mq1sfz/how_piefed_federates_flair_on_posts) - [How PieFed federates \"flair\" on posts and comments](https://join.piefed.social/2025/05/10/how-piefed-federates-flair-on-posts-and-comments/)

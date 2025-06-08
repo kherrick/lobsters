@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 19:22:36](https://lobste.rs/s/mj0rin/pocket_linkhut) - [Pocket to linkhut](https://gist.github.com/gsquire/f2b572da529e7aed1227c51fee1cc130)
+* [2025-06-08, 19:11:54](https://lobste.rs/s/jk8ccr/simulating_time_with_square_root_space) - [Simulating Time With Square-Root Space](https://people.csail.mit.edu/rrw/time-vs-space.pdf)
 * [2025-06-08, 17:25:28](https://lobste.rs/s/5slj75/training_rust_1_5b_coder_lm_with) - [Training a Rust 1.5B Coder LM with Reinforcement Learning (GRPO)](https://ghost.oxen.ai/training-a-rust-1-5b-coder-lm-with-reinforcement-learning-grpo/)
 * [2025-06-08, 17:17:12](https://lobste.rs/s/82zdak/low_impact_keybase_impersonation_issue) - [A Low-Impact Keybase Impersonation Issue on Lobsters](https://www.naff.dev/blog/lobsters-keybase-impersonation)
 * [2025-06-08, 15:54:13](https://lobste.rs/s/mq1sfz/how_piefed_federates_flair_on_posts) - [How PieFed federates \"flair\" on posts and comments](https://join.piefed.social/2025/05/10/how-piefed-federates-flair-on-posts-and-comments/)
@@ -16,14 +18,12 @@
 * [2025-06-08, 08:34:21](https://lobste.rs/s/dnt514/why_not_use_dns_over_https_doh) - [Why not use DNS over HTTPS (DoH)?](https://www.bsdhowto.ch/doh.html)
 * [2025-06-08, 08:24:14](https://lobste.rs/s/uh7lh2/shell_scripting_c) - [Shell scripting in C](https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/)
 * [2025-06-08, 08:20:48](https://lobste.rs/s/ofxowp/getting_started_with_qt_without_nonsense) - [Getting started with Qt, without the nonsense](https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/)
-* [2025-06-08, 08:13:32](https://lobste.rs/s/nmamw0/masochist_s_guide_web_development) - [A masochist's guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 * [2025-06-08, 02:20:09](https://lobste.rs/s/dki3rs/performance_random_floats) - [Performance of random floats](https://dotat.at/@/2025-06-08-floats.html)
 * [2025-06-08, 01:47:25](https://lobste.rs/s/1u6prg/plan_for_simd) - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
 * [2025-06-07, 21:05:32](https://lobste.rs/s/15wvld/mcp_vs_api) - [MCP vs API](https://glama.ai/blog/2025-06-06-mcp-vs-api)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)
 * [2025-06-07, 19:49:02](https://lobste.rs/s/8gp15d/bill_atkinson_dies_from_cancer_at_74) - [Bill Atkinson Dies From Cancer at 74](https://daringfireball.net/linked/2025/06/07/bill-atkinson-rip)
 * [2025-06-07, 17:46:55](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful) - [How can one write blazing fast yet useful compilers (for lazy pure functional languages)?](https://lobste.rs/s/e8abqn/how_can_one_write_blazing_fast_yet_useful)
-* [2025-06-07, 16:57:32](https://lobste.rs/s/an5g0c/astonishing_discovery_by_computer) - [Astonishing discovery by computer scientist: how to squeeze space into time](https://www.youtube.com/watch?v=8JuWdXrCmWg)
 * [2025-06-07, 12:00:09](https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated) - [I Read All Of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 
 ## [Archives](archives/index.md)
