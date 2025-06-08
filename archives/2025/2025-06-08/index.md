@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-08](index.md)
 
+* [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
 * [2025-06-08, 13:20:49](https://lobste.rs/s/vi3z47/weaponizing_dependabot_pwn_request_at) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-08, 12:36:34](https://lobste.rs/s/wnkajf/binfmtc_binfmt_misc_c_scripting) - [binfmtc - binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)

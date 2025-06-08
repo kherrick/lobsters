@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
 * [2025-06-08, 13:20:49](https://lobste.rs/s/vi3z47/weaponizing_dependabot_pwn_request_at) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-08, 12:36:34](https://lobste.rs/s/wnkajf/binfmtc_binfmt_misc_c_scripting) - [binfmtc - binfmt_misc C scripting interface](https://www.netfort.gr.jp/~dancer/software/binfmtc.html.en)
 * [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
@@ -23,7 +24,6 @@
 * [2025-06-07, 16:22:28](https://lobste.rs/s/ubqtpe/what_was_radiant_ai_anyway) - [What was Radiant AI, anyway?](https://blog.paavo.me/radiant-ai/)
 * [2025-06-07, 12:00:09](https://lobste.rs/s/bxpwqt/i_read_all_cloudflare_s_claude_generated) - [I Read All Of Cloudflare's Claude-Generated Commits](https://www.maxemitchell.com/writings/i-read-all-of-cloudflares-claude-generated-commits/)
 * [2025-06-07, 10:29:18](https://lobste.rs/s/kvhjf8/unveiling_endbox) - [Unveiling the EndBOX](https://www.endbasic.dev/2025/06/unveiling-the-endbox.html)
-* [2025-06-07, 07:00:41](https://lobste.rs/s/iv5cyv/first_usermode_exploit_more_nintendo) - [First usermode exploit and more: Nintendo Switch 2 had a busy (hacking) week for its launch](https://wololo.net/2025/06/06/first-usermode-exploit-and-more-nintendo-switch-2-had-a-busy-hacking-week-for-its-launch/)
 * [2025-06-06, 10:54:15](https://lobste.rs/s/oei5fj/jepsen_tigerbeetle_0_16_11) - [Jepsen: TigerBeetle 0.16.11](https://jepsen.io/analyses/tigerbeetle-0.16.11)
 
 ## [Archives](archives/index.md)
