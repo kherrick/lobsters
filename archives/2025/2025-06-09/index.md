@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 14:40:42](https://lobste.rs/s/1lbcze/cross_compiling_zig_on_old_kindle) - [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
+* [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
 * [2025-06-09, 13:12:00](https://lobste.rs/s/u7tsuw/ffs_optimizations_with_dirhash) - [FFS optimizations with dirhash](https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-09, 14:40:42](https://lobste.rs/s/1lbcze/cross_compiling_zig_on_old_kindle) - [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
+* [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
 * [2025-06-09, 13:12:00](https://lobste.rs/s/u7tsuw/ffs_optimizations_with_dirhash) - [FFS optimizations with dirhash](https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/)
@@ -12,10 +14,8 @@
 * [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 * [2025-06-09, 02:16:48](https://lobste.rs/s/8tgpqm/field_notes_from_shipping_real_code_with) - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
-* [2025-06-09, 01:06:36](https://lobste.rs/s/pxt1pp/analyzing_ipv4_trades_with_gnuplot) - [Analyzing ipv4 trades with gnuplot](https://ipv4a-5539ad.gitlab.io/)
 * [2025-06-09, 01:04:28](https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on) - [Unlocking the Motorola G23 (and some words on Motorola)](https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23)
 * [2025-06-09, 00:11:36](https://lobste.rs/s/0zpecd/lisp_machines_computer_s_boom_bust) - [Lisp Machines' Computer’s Boom and Bust](https://www.youtube.com/watch?v=sV7C6Ezl35A)
-* [2025-06-08, 22:08:35](https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical) - [Tesseract Open Source OCR [optical character recognition] Engine](https://github.com/tesseract-ocr/tesseract)
 * [2025-06-08, 21:59:27](https://lobste.rs/s/itfghb/poison_everywhere_no_output_from_your_mcp) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)
 * [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
 * [2025-06-08, 20:01:29](https://lobste.rs/s/mgrtte/what_next_after_vibe_coding) - [What next after vibe coding](https://mastodon.social/@nixCraft/114649024218795319)
