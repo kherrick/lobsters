@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 11:17:08](https://lobste.rs/s/nrxya6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxya6/what_are_you_doing_this_week)
 * [2025-06-09, 06:41:01](https://lobste.rs/s/yxv7q7/sway_1_11_released_with_new_wayland) - [Sway 1.11 Released With New Wayland Protocols & More](https://www.phoronix.com/news/Sway-1.11-Released)
 * [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
@@ -19,7 +20,6 @@
 * [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
 * [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
-* [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:20:48](https://lobste.rs/s/ofxowp/getting_started_with_qt_without_nonsense) - [Getting started with Qt, without the nonsense](https://sebastiano.tronto.net/blog/2025-04-04-qt-minimal/)
 * [2025-06-08, 01:47:25](https://lobste.rs/s/1u6prg/plan_for_simd) - [A plan for SIMD](https://linebender.org/blog/a-plan-for-simd/)
 * [2025-06-07, 20:53:58](https://lobste.rs/s/b9vkel/xq_query_xml_data_using_xpath) - [xq: Query XML data using XPath](https://github.com/linkdd/xq)

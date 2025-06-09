@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 11:17:08](https://lobste.rs/s/nrxya6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxya6/what_are_you_doing_this_week)
 * [2025-06-09, 06:41:01](https://lobste.rs/s/yxv7q7/sway_1_11_released_with_new_wayland) - [Sway 1.11 Released With New Wayland Protocols & More](https://www.phoronix.com/news/Sway-1.11-Released)
 * [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
