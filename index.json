@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-06-09, 18:35:14",
-      "https://lobste.rs/s/mgdqwx/lightweight_diagramming_for"
-    ],
-    [
-      "Lightweight Diagramming for Lightweight Formal Methods",
-      "https://blog.brownplt.org/2025/06/09/copeanddrag.html"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 18:14:33",
       "https://lobste.rs/s/nds4tx/qwen3_embedding_models"
     ],
@@ -131,6 +121,26 @@
   ],
   [
     [
+      "2025-06-09, 13:12:00",
+      "https://lobste.rs/s/u7tsuw/ffs_optimizations_with_dirhash"
+    ],
+    [
+      "FFS optimizations with dirhash",
+      "https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 13:01:59",
+      "https://lobste.rs/s/gawb7x/ruby_gem_naming_art_delightful_obscurity"
+    ],
+    [
+      "Ruby Gem Naming: The Art of Delightful Obscurity",
+      "https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 12:24:44",
       "https://lobste.rs/s/yjshul/how_i_program_with_agents"
     ],
@@ -227,16 +237,6 @@
     [
       "A Low-Impact Keybase Impersonation Issue on Lobsters",
       "https://www.naff.dev/blog/lobsters-keybase-impersonation"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 15:20:19",
-      "https://lobste.rs/s/h72rfa/105_vibe_coded_tools"
-    ],
-    [
-      "105 vibe-coded tools",
-      "https://tools.simonwillison.net/colophon"
     ]
   ],
   [
