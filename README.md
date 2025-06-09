@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
+* [2025-06-09, 18:12:31](https://lobste.rs/s/etkjh7/killing_x11) - [killing X11](https://flak.tedunangst.com/post/killing-X11)
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 17:49:28](https://lobste.rs/s/zj46zn/makefile_md_possibly_use_ful_less) - [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
@@ -12,7 +13,6 @@
 * [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
-* [2025-06-09, 13:12:00](https://lobste.rs/s/u7tsuw/ffs_optimizations_with_dirhash) - [FFS optimizations with dirhash](https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/)
 * [2025-06-09, 13:01:59](https://lobste.rs/s/gawb7x/ruby_gem_naming_art_delightful_obscurity) - [Ruby Gem Naming: The Art of Delightful Obscurity](https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/)
 * [2025-06-09, 12:24:44](https://lobste.rs/s/yjshul/how_i_program_with_agents) - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 12:17:15](https://lobste.rs/s/hjogbb/high_level_os_challenge) - [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)

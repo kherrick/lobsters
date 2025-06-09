@@ -6,6 +6,7 @@
 
 * [2025-06-09, 18:35:14](https://lobste.rs/s/mgdqwx/lightweight_diagramming_for) - [Lightweight Diagramming for Lightweight Formal Methods](https://blog.brownplt.org/2025/06/09/copeanddrag.html)
 * [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
+* [2025-06-09, 18:12:31](https://lobste.rs/s/etkjh7/killing_x11) - [killing X11](https://flak.tedunangst.com/post/killing-X11)
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 17:49:28](https://lobste.rs/s/zj46zn/makefile_md_possibly_use_ful_less) - [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
