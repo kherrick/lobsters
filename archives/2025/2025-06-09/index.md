@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 13:12:00](https://lobste.rs/s/u7tsuw/ffs_optimizations_with_dirhash) - [FFS optimizations with dirhash](https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/)
+* [2025-06-09, 13:01:59](https://lobste.rs/s/gawb7x/ruby_gem_naming_art_delightful_obscurity) - [Ruby Gem Naming: The Art of Delightful Obscurity](https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/)
 * [2025-06-09, 12:24:44](https://lobste.rs/s/yjshul/how_i_program_with_agents) - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 12:17:15](https://lobste.rs/s/hjogbb/high_level_os_challenge) - [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)
 * [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
