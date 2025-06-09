@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
+* [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
+* [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 17:49:28](https://lobste.rs/s/zj46zn/makefile_md_possibly_use_ful_less) - [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
 * [2025-06-09, 17:11:44](https://lobste.rs/s/ujgjkb/illusion_thinking) - [The Illusion of Thinking](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-09, 16:56:09](https://lobste.rs/s/q8zput/radeon_software_for_linux_dropping_amd_s) - [Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers](https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK)
