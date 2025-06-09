@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-09, 18:14:33",
+      "https://lobste.rs/s/nds4tx/qwen3_embedding_models"
+    ],
+    [
+      "Qwen3 embedding models",
+      "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 18:11:51",
+      "https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler"
+    ],
+    [
+      "Why doesn’t Rust care more about compiler performance?",
+      "https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 18:07:43",
+      "https://lobste.rs/s/in8yn9/is_rust_faster_than_c"
+    ],
+    [
+      "Is Rust faster than C?",
+      "https://steveklabnik.com/writing/is-rust-faster-than-c/"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 17:49:28",
       "https://lobste.rs/s/zj46zn/makefile_md_possibly_use_ful_less"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-06-09, 01:06:36",
-      "https://lobste.rs/s/pxt1pp/analyzing_ipv4_trades_with_gnuplot"
-    ],
-    [
-      "Analyzing ipv4 trades with gnuplot",
-      "https://ipv4a-5539ad.gitlab.io/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 01:04:28",
       "https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-06-09, 00:11:36",
-      "https://lobste.rs/s/0zpecd/lisp_machines_computer_s_boom_bust"
-    ],
-    [
-      "Lisp Machines' Computer’s Boom and Bust",
-      "https://www.youtube.com/watch?v=sV7C6Ezl35A"
-    ]
-  ],
-  [
-    [
       "2025-06-08, 20:09:07",
       "https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger"
     ],
     [
       "Pijul - Elpe. Yaks big. Razors bigger",
       "https://pijul.org/posts/2025-06-08-elpe/"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 20:01:29",
-      "https://lobste.rs/s/mgrtte/what_next_after_vibe_coding"
-    ],
-    [
-      "What next after vibe coding",
-      "https://mastodon.social/@nixCraft/114649024218795319"
     ]
   ],
   [
