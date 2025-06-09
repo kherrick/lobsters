@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-09, 19:49:15](https://lobste.rs/s/cfkucy/push_science) - [Push Science](https://paulrcohen.github.io/papers/pushScience.pdf)
 * [2025-06-09, 19:31:06](https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with) - [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 19:11:51](https://lobste.rs/s/ojvpco/rapid_team_transition_bevy_based_engine) - [Rapid Team Transition to a Bevy-Based Engine (JP)](https://www.youtube.com/watch?v=cKSTCA-rc0Y)
 * [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
@@ -22,7 +23,6 @@
 * [2025-06-09, 06:41:01](https://lobste.rs/s/yxv7q7/sway_1_11_released_with_new_wayland) - [Sway 1.11 Released With New Wayland Protocols & More](https://www.phoronix.com/news/Sway-1.11-Released)
 * [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
-* [2025-06-09, 01:04:28](https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on) - [Unlocking the Motorola G23 (and some words on Motorola)](https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23)
 * [2025-06-08, 20:09:07](https://lobste.rs/s/fwldgj/pijul_elpe_yaks_big_razors_bigger) - [Pijul - Elpe. Yaks big. Razors bigger](https://pijul.org/posts/2025-06-08-elpe/)
 * [2025-06-08, 17:17:12](https://lobste.rs/s/82zdak/low_impact_keybase_impersonation_issue) - [A Low-Impact Keybase Impersonation Issue on Lobsters](https://www.naff.dev/blog/lobsters-keybase-impersonation)
 
