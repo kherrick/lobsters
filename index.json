@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-09, 19:31:06",
+      "https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with"
+    ],
+    [
+      "Munal OS: A graphical experimental OS with WASM sandboxing",
+      "https://github.com/Askannz/munal-os"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 19:11:51",
       "https://lobste.rs/s/ojvpco/rapid_team_transition_bevy_based_engine"
     ],
@@ -137,16 +147,6 @@
     [
       "Apple WWDC 2025",
       "https://www.apple.com/apple-events/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 13:01:59",
-      "https://lobste.rs/s/gawb7x/ruby_gem_naming_art_delightful_obscurity"
-    ],
-    [
-      "Ruby Gem Naming: The Art of Delightful Obscurity",
-      "https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/"
     ]
   ],
   [
