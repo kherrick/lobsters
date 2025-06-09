@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-09, 19:31:06](https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with) - [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 19:11:51](https://lobste.rs/s/ojvpco/rapid_team_transition_bevy_based_engine) - [Rapid Team Transition to a Bevy-Based Engine (JP)](https://www.youtube.com/watch?v=cKSTCA-rc0Y)
 * [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
 * [2025-06-09, 18:12:31](https://lobste.rs/s/etkjh7/killing_x11) - [killing X11](https://flak.tedunangst.com/post/killing-X11)
@@ -14,7 +15,6 @@
 * [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
-* [2025-06-09, 13:01:59](https://lobste.rs/s/gawb7x/ruby_gem_naming_art_delightful_obscurity) - [Ruby Gem Naming: The Art of Delightful Obscurity](https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/)
 * [2025-06-09, 12:24:44](https://lobste.rs/s/yjshul/how_i_program_with_agents) - [How I program with Agents](https://crawshaw.io/blog/programming-with-agents)
 * [2025-06-09, 12:17:15](https://lobste.rs/s/hjogbb/high_level_os_challenge) - [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)
 * [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
