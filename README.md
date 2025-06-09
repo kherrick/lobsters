@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-09, 22:42:22](https://lobste.rs/s/ldfeqs/gap_through_which_we_praise_machine) - [The Gap Through Which We Praise the Machine](https://ferd.ca/the-gap-through-which-we-praise-the-machine.html)
+* [2025-06-09, 23:19:18](https://lobste.rs/s/xos8tb/12_development_tools) - [12 Development Tools](https://dev.to/anthonymax/12-open-source-tools-every-developer-should-know-pn2)
 * [2025-06-09, 22:14:11](https://lobste.rs/s/h0pge0/container_tool_for_creating_running) - [container: tool for creating and running Linux containers using lightweight virtual machines on a Mac](https://github.com/apple/container)
 * [2025-06-09, 19:31:06](https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with) - [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
