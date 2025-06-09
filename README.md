@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 * [2025-06-09, 02:16:48](https://lobste.rs/s/8tgpqm/field_notes_from_shipping_real_code_with) - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 * [2025-06-09, 01:06:36](https://lobste.rs/s/pxt1pp/analyzing_ipv4_trades_with_gnuplot) - [Analyzing ipv4 trades with gnuplot](https://ipv4a-5539ad.gitlab.io/)
 * [2025-06-09, 01:04:28](https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on) - [Unlocking the Motorola G23 (and some words on Motorola)](https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23)
@@ -15,7 +16,6 @@
 * [2025-06-08, 15:20:19](https://lobste.rs/s/h72rfa/105_vibe_coded_tools) - [105 vibe-coded tools](https://tools.simonwillison.net/colophon)
 * [2025-06-08, 13:20:49](https://lobste.rs/s/vi3z47/weaponizing_dependabot_pwn_request_at) - [Weaponizing Dependabot: Pwn Request at its finest](https://boostsecurity.io/blog/weaponizing-dependabot-pwn-request-at-its-finest)
 * [2025-06-08, 12:26:12](https://lobste.rs/s/xxoxwe/ditching_haproxy_my_homelab) - [Ditching HAProxy (in my homelab)](https://arch.dog/bark/ditching-haproxy)
-* [2025-06-08, 12:16:57](https://lobste.rs/s/uke2hv/thank_you_datafusion_queries_rust) - [Thank You, DataFusion: Queries in Rust, Without the Pain](http://pierrezemb.fr/posts/thank-you-datafusion/)
 * [2025-06-08, 09:30:44](https://lobste.rs/s/ydtluy/illusion_thinking_understanding) - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)
 * [2025-06-08, 08:48:57](https://lobste.rs/s/1owxr1/too_many_open_files) - [Too Many Open Files](https://mattrighetti.com/2025/06/04/too-many-files-open)
 * [2025-06-08, 08:24:14](https://lobste.rs/s/uh7lh2/shell_scripting_c) - [Shell scripting in C](https://sebastiano.tronto.net/blog/2024-09-20-c-scripting/)
