@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 22:14:11](https://lobste.rs/s/h0pge0/container_tool_for_creating_running) - [container: tool for creating and running Linux containers using lightweight virtual machines on a Mac](https://github.com/apple/container)
 * [2025-06-09, 19:49:15](https://lobste.rs/s/cfkucy/push_science) - [Push Science](https://paulrcohen.github.io/papers/pushScience.pdf)
 * [2025-06-09, 19:31:06](https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with) - [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 19:11:51](https://lobste.rs/s/ojvpco/rapid_team_transition_bevy_based_engine) - [Rapid Team Transition to a Bevy-Based Engine (JP)](https://www.youtube.com/watch?v=cKSTCA-rc0Y)
