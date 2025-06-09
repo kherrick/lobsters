@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 17:49:28](https://lobste.rs/s/zj46zn/makefile_md_possibly_use_ful_less) - [Makefile.md - Possibly Use(ful|less) Polyglot Synthesis of Makefile and Markdown](https://zoo.dev/blog/polyglot-makefile-markdown)
 * [2025-06-09, 17:11:44](https://lobste.rs/s/ujgjkb/illusion_thinking) - [The Illusion of Thinking](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 * [2025-06-09, 16:56:09](https://lobste.rs/s/q8zput/radeon_software_for_linux_dropping_amd_s) - [Radeon Software For Linux Dropping AMD's Proprietary OpenGL/Vulkan Drivers](https://www.phoronix.com/news/Radeon-Software-Drop-Prop-GL-VK)
 * [2025-06-09, 15:22:06](https://lobste.rs/s/wyizli/ai_angst) - [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
