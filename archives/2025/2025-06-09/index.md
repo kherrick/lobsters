@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 11:17:08](https://lobste.rs/s/nrxya6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxya6/what_are_you_doing_this_week)
 * [2025-06-09, 06:41:01](https://lobste.rs/s/yxv7q7/sway_1_11_released_with_new_wayland) - [Sway 1.11 Released With New Wayland Protocols & More](https://www.phoronix.com/news/Sway-1.11-Released)
 * [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
