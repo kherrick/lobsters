@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-09, 14:47:55](https://lobste.rs/s/qjtoox/your_phoenix_application_directly_on) - [Your Phoenix application, directly on your Tailnet](https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e)
 * [2025-06-09, 14:40:42](https://lobste.rs/s/1lbcze/cross_compiling_zig_on_old_kindle) - [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
 * [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
@@ -13,7 +14,6 @@
 * [2025-06-09, 06:41:01](https://lobste.rs/s/yxv7q7/sway_1_11_released_with_new_wayland) - [Sway 1.11 Released With New Wayland Protocols & More](https://www.phoronix.com/news/Sway-1.11-Released)
 * [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
-* [2025-06-09, 02:16:48](https://lobste.rs/s/8tgpqm/field_notes_from_shipping_real_code_with) - [Field Notes From Shipping Real Code With Claude](https://diwank.space/field-notes-from-shipping-real-code-with-claude)
 * [2025-06-09, 01:04:28](https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on) - [Unlocking the Motorola G23 (and some words on Motorola)](https://shomy.is-a.dev/blog/article/unlocking-the-motorola-g23)
 * [2025-06-09, 00:11:36](https://lobste.rs/s/0zpecd/lisp_machines_computer_s_boom_bust) - [Lisp Machines' Computer’s Boom and Bust](https://www.youtube.com/watch?v=sV7C6Ezl35A)
 * [2025-06-08, 21:59:27](https://lobste.rs/s/itfghb/poison_everywhere_no_output_from_your_mcp) - [Poison everywhere: No output from your MCP server is safe](https://www.cyberark.com/resources/threat-research-blog/poison-everywhere-no-output-from-your-mcp-server-is-safe)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 14:47:55](https://lobste.rs/s/qjtoox/your_phoenix_application_directly_on) - [Your Phoenix application, directly on your Tailnet](https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e)
 * [2025-06-09, 14:40:42](https://lobste.rs/s/1lbcze/cross_compiling_zig_on_old_kindle) - [Cross-compiling Zig on an old Kindle](https://samkhawase.com/blog/zig-kindle-gdb/)
 * [2025-06-09, 14:27:32](https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google) - [Bruteforcing the phone number of any Google user](https://brutecat.com/articles/leaking-google-phones)
 * [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
