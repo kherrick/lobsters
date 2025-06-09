@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-09, 14:40:42",
+      "https://lobste.rs/s/1lbcze/cross_compiling_zig_on_old_kindle"
+    ],
+    [
+      "Cross-compiling Zig on an old Kindle",
+      "https://samkhawase.com/blog/zig-kindle-gdb/"
+    ]
+  ],
+  [
+    [
+      "2025-06-09, 14:27:32",
+      "https://lobste.rs/s/1sglvd/bruteforcing_phone_number_any_google"
+    ],
+    [
+      "Bruteforcing the phone number of any Google user",
+      "https://brutecat.com/articles/leaking-google-phones"
+    ]
+  ],
+  [
+    [
       "2025-06-09, 14:02:48",
       "https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-09, 01:06:36",
-      "https://lobste.rs/s/pxt1pp/analyzing_ipv4_trades_with_gnuplot"
-    ],
-    [
-      "Analyzing ipv4 trades with gnuplot",
-      "https://ipv4a-5539ad.gitlab.io/"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 01:04:28",
       "https://lobste.rs/s/h6mvya/unlocking_motorola_g23_some_words_on"
     ],
@@ -147,16 +157,6 @@
     [
       "Lisp Machines' Computer’s Boom and Bust",
       "https://www.youtube.com/watch?v=sV7C6Ezl35A"
-    ]
-  ],
-  [
-    [
-      "2025-06-08, 22:08:35",
-      "https://lobste.rs/s/o6ltxv/tesseract_open_source_ocr_optical"
-    ],
-    [
-      "Tesseract Open Source OCR [optical character recognition] Engine",
-      "https://github.com/tesseract-ocr/tesseract"
     ]
   ],
   [
