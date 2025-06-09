@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-09](index.md)
 
+* [2025-06-09, 14:02:48](https://lobste.rs/s/tcrtpl/ish_grep_like_text_search_with_optimal) - [Ish: Grep-like text search with optimal alignment, built with Mojo](https://github.com/BioRadOpenSource/ish)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
 * [2025-06-09, 13:12:00](https://lobste.rs/s/u7tsuw/ffs_optimizations_with_dirhash) - [FFS optimizations with dirhash](https://rsadowski.de/posts/2025/ffs-optimizations-dirhash/)
 * [2025-06-09, 13:01:59](https://lobste.rs/s/gawb7x/ruby_gem_naming_art_delightful_obscurity) - [Ruby Gem Naming: The Art of Delightful Obscurity](https://stevengharms.com/posts/2025-06-07-the-delightful-art-of-rubys-impenetrable-naming/)
