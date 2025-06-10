@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-10, 16:55:22",
+      "https://lobste.rs/s/iykpuo/green_threads_explained"
+    ],
+    [
+      "Green threads explained",
+      "https://c9x.me/articles/gthreads/intro.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 16:51:16",
+      "https://lobste.rs/s/067s7i/handles_are_better_pointers_2018"
+    ],
+    [
+      "Handles are the better pointers (2018)",
+      "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 16:15:30",
       "https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-09, 22:42:22",
-      "https://lobste.rs/s/ldfeqs/gap_through_which_we_praise_machine"
-    ],
-    [
-      "The Gap Through Which We Praise the Machine",
-      "https://ferd.ca/the-gap-through-which-we-praise-the-machine.html"
-    ]
-  ],
-  [
-    [
       "2025-06-09, 19:31:06",
       "https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with"
     ],
@@ -217,16 +227,6 @@
     [
       "LLMs are cheap",
       "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 06:38:05",
-      "https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse"
-    ],
-    [
-      "Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms",
-      "https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en"
     ]
   ],
   [
