@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 17:14:32](https://lobste.rs/s/uclun9/building_debugger_write_native_x64) - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://nostarch.com/building-a-debugger)
+* [2025-06-10, 16:55:45](https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html)
 * [2025-06-10, 16:55:22](https://lobste.rs/s/iykpuo/green_threads_explained) - [Green threads explained](https://c9x.me/articles/gthreads/intro.html)
 * [2025-06-10, 16:51:16](https://lobste.rs/s/067s7i/handles_are_better_pointers_2018) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2025-06-10, 16:15:30](https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix) - [Why We’re Moving on From Nix](https://blog.railway.com/p/introducing-railpack)
