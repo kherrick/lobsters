@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-10, 17:26:55",
-      "https://lobste.rs/s/i9oacu/partial_keyframes"
-    ],
-    [
-      "Partial Keyframes",
-      "https://www.joshwcomeau.com/animation/partial-keyframes/"
-    ]
-  ],
-  [
-    [
       "2025-06-10, 17:18:36",
       "https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for"
     ],
@@ -47,6 +37,16 @@
     [
       "Zig-style generics are not well-suited for most languages (2022)",
       "https://typesanitizer.com/blog/zig-generics.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-10, 16:55:22",
+      "https://lobste.rs/s/iykpuo/green_threads_explained"
+    ],
+    [
+      "Green threads explained",
+      "https://c9x.me/articles/gthreads/intro.html"
     ]
   ],
   [
