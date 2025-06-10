@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 20:49:40",
+      "https://lobste.rs/s/xpiavv/freebsd_14_3_release_announcement"
+    ],
+    [
+      "FreeBSD 14.3-RELEASE Announcement",
+      "https://freebsd.org/releases/14.3R/announce/"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 19:32:45",
       "https://lobste.rs/s/bdpty0/android_16_is_here"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2025-06-09, 19:31:06",
-      "https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with"
+      "2025-06-09, 22:42:22",
+      "https://lobste.rs/s/ldfeqs/gap_through_which_we_praise_machine"
     ],
     [
-      "Munal OS: A graphical experimental OS with WASM sandboxing",
-      "https://github.com/Askannz/munal-os"
+      "The Gap Through Which We Praise the Machine",
+      "https://ferd.ca/the-gap-through-which-we-praise-the-machine.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Apple WWDC 2025",
       "https://www.apple.com/apple-events/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 12:17:15",
-      "https://lobste.rs/s/hjogbb/high_level_os_challenge"
-    ],
-    [
-      "The high-level OS challenge",
-      "https://ochagavia.nl/blog/the-high-level-os-challenge/"
     ]
   ],
   [
