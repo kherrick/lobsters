@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 19:32:45",
+      "https://lobste.rs/s/bdpty0/android_16_is_here"
+    ],
+    [
+      "Android 16 is here",
+      "https://blog.google/products/android/android-16/"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 17:18:36",
       "https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for"
     ],
@@ -167,16 +177,6 @@
     [
       "Munal OS: A graphical experimental OS with WASM sandboxing",
       "https://github.com/Askannz/munal-os"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 18:14:33",
-      "https://lobste.rs/s/nds4tx/qwen3_embedding_models"
-    ],
-    [
-      "Qwen3 embedding models",
-      "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF"
     ]
   ],
   [
