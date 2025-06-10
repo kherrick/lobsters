@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-06-10, 19:32:45](https://lobste.rs/s/bdpty0/android_16_is_here) - [Android 16 is here](https://blog.google/products/android/android-16/)
+* [2025-06-10, 17:26:55](https://lobste.rs/s/i9oacu/partial_keyframes) - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/)
 * [2025-06-10, 17:18:36](https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for) - [Announcing Multigres: Vitess for Postgres](https://supabase.com/blog/multigres-vitess-for-postgres)
 * [2025-06-10, 17:14:32](https://lobste.rs/s/uclun9/building_debugger_write_native_x64) - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://nostarch.com/building-a-debugger)
 * [2025-06-10, 16:55:45](https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html)
@@ -12,7 +13,6 @@
 * [2025-06-10, 15:25:59](https://lobste.rs/s/fkgmer/malleable_software_restoring_user) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:17:43](https://lobste.rs/s/wj1kn0/tale_two_claudes) - [A tale of two Claudes](https://steveklabnik.com/writing/a-tale-of-two-claudes/)
 * [2025-06-10, 15:11:13](https://lobste.rs/s/lbepej/droneboy_drone_music_application_for) - [Droneboy: Drone music application for Gameboy](https://github.com/purefunktion/Droneboy)
-* [2025-06-10, 14:42:57](https://lobste.rs/s/qcj5qz/history_internet_part_2_high_tech_gold) - [A history of the Internet, part 2: The high-tech gold rush begins](https://arstechnica.com/gadgets/2025/06/a-history-of-the-internet-part-2-the-high-tech-gold-rush-begins/)
 * [2025-06-10, 14:16:06](https://lobste.rs/s/lmbnv0/quarkdown_markdown_with_superpowers) - [Quarkdown - Markdown with superpowers](https://quarkdown.com/)
 * [2025-06-10, 13:03:22](https://lobste.rs/s/1qppei/ai_assisted_coding_for_teams_can_t_get_away) - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/)
 * [2025-06-10, 12:31:42](https://lobste.rs/s/yabqsa/why_agents_are_bad_pair_programmers) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
