@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-10, 21:47:58](https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018) - [Why Doctors Hate Their Computers (2018)](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2025-06-10, 20:49:40](https://lobste.rs/s/xpiavv/freebsd_14_3_release_announcement) - [FreeBSD 14.3-RELEASE Announcement](https://freebsd.org/releases/14.3R/announce/)
 * [2025-06-10, 19:32:45](https://lobste.rs/s/bdpty0/android_16_is_here) - [Android 16 is here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:26:55](https://lobste.rs/s/i9oacu/partial_keyframes) - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/)
@@ -22,7 +23,6 @@
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 15:22:06](https://lobste.rs/s/wyizli/ai_angst) - [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
-* [2025-06-09, 12:17:15](https://lobste.rs/s/hjogbb/high_level_os_challenge) - [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)
 * [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 

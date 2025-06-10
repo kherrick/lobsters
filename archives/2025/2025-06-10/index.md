@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 21:47:58](https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018) - [Why Doctors Hate Their Computers (2018)](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2025-06-10, 20:49:40](https://lobste.rs/s/xpiavv/freebsd_14_3_release_announcement) - [FreeBSD 14.3-RELEASE Announcement](https://freebsd.org/releases/14.3R/announce/)
 * [2025-06-10, 19:32:45](https://lobste.rs/s/bdpty0/android_16_is_here) - [Android 16 is here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:31:24](https://lobste.rs/s/kjmma2/my_unfiltered_take_on_ai_coding_agent) - [My Unfiltered Take on the AI Coding Agent Landscape](https://xxchan.me/ai/2025/06/10/ai-coding-en.html)
