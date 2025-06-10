@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-10, 17:31:24](https://lobste.rs/s/kjmma2/my_unfiltered_take_on_ai_coding_agent) - [My Unfiltered Take on the AI Coding Agent Landscape](https://xxchan.me/ai/2025/06/10/ai-coding-en.html)
 * [2025-06-10, 17:18:36](https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for) - [Announcing Multigres: Vitess for Postgres](https://supabase.com/blog/multigres-vitess-for-postgres)
 * [2025-06-10, 17:14:32](https://lobste.rs/s/uclun9/building_debugger_write_native_x64) - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://nostarch.com/building-a-debugger)
 * [2025-06-10, 16:55:45](https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html)
 * [2025-06-10, 16:55:22](https://lobste.rs/s/iykpuo/green_threads_explained) - [Green threads explained](https://c9x.me/articles/gthreads/intro.html)
+* [2025-06-10, 16:51:16](https://lobste.rs/s/067s7i/handles_are_better_pointers_2018) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2025-06-10, 16:15:30](https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix) - [Why We’re Moving on From Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-10, 15:47:40](https://lobste.rs/s/uafcpg/cve_2025_47934_spoofing_openpgp_js) - [CVE-2025-47934 - Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 15:28:30](https://lobste.rs/s/hao2zr/passing_jean_raymond_abrial) - [Passing of Jean-Raymond Abrial](https://en.wikipedia.org/wiki/Jean-Raymond_Abrial)
