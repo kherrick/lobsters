@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-10, 16:15:30",
+      "https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix"
+    ],
+    [
+      "Why We’re Moving on From Nix",
+      "https://blog.railway.com/p/introducing-railpack"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 15:47:40",
       "https://lobste.rs/s/uafcpg/cve_2025_47934_spoofing_openpgp_js"
     ],
@@ -177,16 +187,6 @@
     [
       "AI Angst",
       "https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 14:47:55",
-      "https://lobste.rs/s/qjtoox/your_phoenix_application_directly_on"
-    ],
-    [
-      "Your Phoenix application, directly on your Tailnet",
-      "https://gist.github.com/Munksgaard/9102f0be2562f7ba1eca32b7e0da643e"
     ]
   ],
   [
