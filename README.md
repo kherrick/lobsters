@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-10, 19:32:45](https://lobste.rs/s/bdpty0/android_16_is_here) - [Android 16 is here](https://blog.google/products/android/android-16/)
 * [2025-06-10, 17:18:36](https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for) - [Announcing Multigres: Vitess for Postgres](https://supabase.com/blog/multigres-vitess-for-postgres)
 * [2025-06-10, 17:14:32](https://lobste.rs/s/uclun9/building_debugger_write_native_x64) - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://nostarch.com/building-a-debugger)
 * [2025-06-10, 16:55:45](https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html)
@@ -17,7 +18,6 @@
 * [2025-06-10, 12:31:42](https://lobste.rs/s/yabqsa/why_agents_are_bad_pair_programmers) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-10, 01:35:05](https://lobste.rs/s/w1ludh/implementing_does_forth_entire_reason_i) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
 * [2025-06-09, 19:31:06](https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with) - [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
-* [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 15:22:06](https://lobste.rs/s/wyizli/ai_angst) - [AI Angst](https://www.tbray.org/ongoing/When/202x/2025/06/06/My-AI-Angst)
