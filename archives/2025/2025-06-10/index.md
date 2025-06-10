@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-10](index.md)
 
+* [2025-06-10, 16:55:22](https://lobste.rs/s/iykpuo/green_threads_explained) - [Green threads explained](https://c9x.me/articles/gthreads/intro.html)
+* [2025-06-10, 16:51:16](https://lobste.rs/s/067s7i/handles_are_better_pointers_2018) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2025-06-10, 16:15:30](https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix) - [Why We’re Moving on From Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-10, 15:47:40](https://lobste.rs/s/uafcpg/cve_2025_47934_spoofing_openpgp_js) - [CVE-2025-47934 - Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 15:28:30](https://lobste.rs/s/hao2zr/passing_jean_raymond_abrial) - [Passing of Jean-Raymond Abrial](https://en.wikipedia.org/wiki/Jean-Raymond_Abrial)

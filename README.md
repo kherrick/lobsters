@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-10, 16:55:22](https://lobste.rs/s/iykpuo/green_threads_explained) - [Green threads explained](https://c9x.me/articles/gthreads/intro.html)
+* [2025-06-10, 16:51:16](https://lobste.rs/s/067s7i/handles_are_better_pointers_2018) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2025-06-10, 16:15:30](https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix) - [Why We’re Moving on From Nix](https://blog.railway.com/p/introducing-railpack)
 * [2025-06-10, 15:47:40](https://lobste.rs/s/uafcpg/cve_2025_47934_spoofing_openpgp_js) - [CVE-2025-47934 - Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 15:28:30](https://lobste.rs/s/hao2zr/passing_jean_raymond_abrial) - [Passing of Jean-Raymond Abrial](https://en.wikipedia.org/wiki/Jean-Raymond_Abrial)
@@ -12,7 +14,6 @@
 * [2025-06-10, 13:03:22](https://lobste.rs/s/1qppei/ai_assisted_coding_for_teams_can_t_get_away) - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/)
 * [2025-06-10, 12:31:42](https://lobste.rs/s/yabqsa/why_agents_are_bad_pair_programmers) - [Why agents are bad pair programmers](https://justin.searls.co/posts/why-agents-are-bad-pair-programmers/)
 * [2025-06-10, 01:35:05](https://lobste.rs/s/w1ludh/implementing_does_forth_entire_reason_i) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
-* [2025-06-09, 22:42:22](https://lobste.rs/s/ldfeqs/gap_through_which_we_praise_machine) - [The Gap Through Which We Praise the Machine](https://ferd.ca/the-gap-through-which-we-praise-the-machine.html)
 * [2025-06-09, 19:31:06](https://lobste.rs/s/g2tfxg/munal_os_graphical_experimental_os_with) - [Munal OS: A graphical experimental OS with WASM sandboxing](https://github.com/Askannz/munal-os)
 * [2025-06-09, 18:14:33](https://lobste.rs/s/nds4tx/qwen3_embedding_models) - [Qwen3 embedding models](https://huggingface.co/Qwen/Qwen3-Embedding-0.6B-GGUF)
 * [2025-06-09, 18:12:31](https://lobste.rs/s/etkjh7/killing_x11) - [killing X11](https://flak.tedunangst.com/post/killing-X11)
@@ -22,7 +23,6 @@
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
 * [2025-06-09, 12:17:15](https://lobste.rs/s/hjogbb/high_level_os_challenge) - [The high-level OS challenge](https://ochagavia.nl/blog/the-high-level-os-challenge/)
 * [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
-* [2025-06-09, 06:38:05](https://lobste.rs/s/akvlo8/two_approaches_solving_quiet_fediverse) - [Two Approaches to Solving the “Quiet Fediverse” Problem: Conversation Backfilling Mechanisms](https://hackers.pub/@hongminhee/2025/quiet-fediverse-two-approaches/en)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 * [2025-06-08, 17:17:12](https://lobste.rs/s/82zdak/low_impact_keybase_impersonation_issue) - [A Low-Impact Keybase Impersonation Issue on Lobsters](https://www.naff.dev/blog/lobsters-keybase-impersonation)
 
