@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-11, 19:23:54",
+      "https://lobste.rs/s/4zk71g/from_zero_demo_newcomer_s_experience"
+    ],
+    [
+      "From zero to demo: a newcomer's experience learning Bevy",
+      "https://www.youtube.com/watch?v=_FIDuLV0ZsA"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 18:19:02",
       "https://lobste.rs/s/wwi92p/finite_atari_machine"
     ],
@@ -167,16 +177,6 @@
     [
       "GNOME introducing stronger dependencies on systemd",
       "https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 04:53:13",
-      "https://lobste.rs/s/fvbwth/mixed_boolean_arithmetic_part_1"
-    ],
-    [
-      "Mixed Boolean-Arithmetic (part 1): Introduction",
-      "https://plzin.github.io/posts/mba"
     ]
   ],
   [
