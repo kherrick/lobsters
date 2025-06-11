@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-11, 15:28:57",
+      "https://lobste.rs/s/v6bdse/source_code_sandboxing"
+    ],
+    [
+      "Source code sandboxing",
+      "https://kristaps.bsd.lv/devsecflops/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 15:28:46",
       "https://lobste.rs/s/jiii0u/verse_language"
     ],
@@ -37,6 +47,26 @@
     [
       "hare-update assists in addressing breaking changes in your code",
       "https://harelang.org/blog/2025-06-11-hare-update/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 12:53:14",
+      "https://lobste.rs/s/kc0ket/bit_more_on_twitter_x_s_new_encrypted"
+    ],
+    [
+      "A bit more on Twitter/X’s new encrypted messaging",
+      "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 12:17:48",
+      "https://lobste.rs/s/mztjuy/demystifying_debuggers"
+    ],
+    [
+      "Demystifying Debuggers",
+      "https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Embracing Swift concurrency",
       "https://developer.apple.com/videos/play/wwdc2025/268/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 01:00:08",
-      "https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize"
-    ],
-    [
-      "Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library",
-      "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "A tale of two Claudes",
       "https://steveklabnik.com/writing/a-tale-of-two-claudes/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 13:03:22",
-      "https://lobste.rs/s/1qppei/ai_assisted_coding_for_teams_can_t_get_away"
-    ],
-    [
-      "AI-assisted coding for teams that can't get away with vibes",
-      "https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 18:07:43",
-      "https://lobste.rs/s/in8yn9/is_rust_faster_than_c"
-    ],
-    [
-      "Is Rust faster than C?",
-      "https://steveklabnik.com/writing/is-rust-faster-than-c/"
     ]
   ]
 ]
