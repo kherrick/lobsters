@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-11, 18:04:39",
+      "https://lobste.rs/s/jjfyic/reflections_on_year_sunlight"
+    ],
+    [
+      "Reflections on a Year of Sunlight",
+      "https://letsencrypt.org/2025/06/11/reflections-on-a-year-of-sunlight/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 18:04:29",
       "https://lobste.rs/s/aadxvm/whatever_happened_sandboxfs"
     ],
@@ -217,16 +227,6 @@
     [
       "Android 16 is here",
       "https://blog.google/products/android/android-16/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 16:55:45",
-      "https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for"
-    ],
-    [
-      "Zig-style generics are not well-suited for most languages (2022)",
-      "https://typesanitizer.com/blog/zig-generics.html"
     ]
   ],
   [
