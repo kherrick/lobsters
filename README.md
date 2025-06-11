@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-11, 04:53:13](https://lobste.rs/s/fvbwth/mixed_boolean_arithmetic_part_1) - [Mixed Boolean-Arithmetic (part 1): Introduction](https://plzin.github.io/posts/mba)
 * [2025-06-11, 04:47:57](https://lobste.rs/s/hgrd1v/embracing_swift_concurrency) - [Embracing Swift concurrency](https://developer.apple.com/videos/play/wwdc2025/268/)
 * [2025-06-11, 01:00:08](https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize) - [Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)
 * [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
@@ -24,7 +25,6 @@
 * [2025-06-10, 01:35:05](https://lobste.rs/s/w1ludh/implementing_does_forth_entire_reason_i) - [Implementing DOES> in Forth, the entire reason I started this mess](https://boston.conman.org/2025/06/09.1)
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
-* [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
 
 ## [Archives](archives/index.md)
 
