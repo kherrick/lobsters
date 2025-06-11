@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-11, 19:23:54](https://lobste.rs/s/4zk71g/from_zero_demo_newcomer_s_experience) - [From zero to demo: a newcomer's experience learning Bevy](https://www.youtube.com/watch?v=_FIDuLV0ZsA)
 * [2025-06-11, 18:19:02](https://lobste.rs/s/wwi92p/finite_atari_machine) - [Finite Atari Machine](https://bbenchoff.github.io/pages/FiniteAtari.html)
 * [2025-06-11, 18:04:39](https://lobste.rs/s/jjfyic/reflections_on_year_sunlight) - [Reflections on a Year of Sunlight](https://letsencrypt.org/2025/06/11/reflections-on-a-year-of-sunlight/)
 * [2025-06-11, 18:04:29](https://lobste.rs/s/aadxvm/whatever_happened_sandboxfs) - [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
@@ -17,7 +18,6 @@
 * [2025-06-11, 07:13:56](https://lobste.rs/s/a0ja5n/patterns_for_failure_free_bounded_space) - [Patterns for failure-free, bounded-space, and bounded-time programming](https://dercuano.github.io/notes/failure-free.html)
 * [2025-06-11, 06:54:09](https://lobste.rs/s/0dpixv/lisp_shell) - [Lisp in a Shell](https://www.youtube.com/watch?v=aeUt0x7EqPY)
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
-* [2025-06-11, 04:53:13](https://lobste.rs/s/fvbwth/mixed_boolean_arithmetic_part_1) - [Mixed Boolean-Arithmetic (part 1): Introduction](https://plzin.github.io/posts/mba)
 * [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
 * [2025-06-11, 00:21:27](https://lobste.rs/s/ab86gm/r9_plan_9_rust) - [R9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2025-06-10, 21:47:58](https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018) - [Why Doctors Hate Their Computers (2018)](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
