@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 14:58:59](https://lobste.rs/s/htzmqf/how_we_tried_book_train_ticket_ended_up) - [How we tried to book a train ticket and ended up with a databreach with 245,000 records (2023)](https://zerforschung.org/posts/freundschaftspass-en/)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-11, 14:01:48](https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking) - [hare-update assists in addressing breaking changes in your code](https://harelang.org/blog/2025-06-11-hare-update/)
 * [2025-06-11, 12:53:14](https://lobste.rs/s/kc0ket/bit_more_on_twitter_x_s_new_encrypted) - [A bit more on Twitter/X’s new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
