@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
 * [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
+* [2025-06-11, 19:44:46](https://lobste.rs/s/ipordg/bypassing_github_actions_policies) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
 * [2025-06-11, 19:23:54](https://lobste.rs/s/4zk71g/from_zero_demo_newcomer_s_experience) - [From zero to demo: a newcomer's experience learning Bevy](https://www.youtube.com/watch?v=_FIDuLV0ZsA)
 * [2025-06-11, 18:19:02](https://lobste.rs/s/wwi92p/finite_atari_machine) - [Finite Atari Machine](https://bbenchoff.github.io/pages/FiniteAtari.html)
 * [2025-06-11, 18:04:39](https://lobste.rs/s/jjfyic/reflections_on_year_sunlight) - [Reflections on a Year of Sunlight](https://letsencrypt.org/2025/06/11/reflections-on-a-year-of-sunlight/)
