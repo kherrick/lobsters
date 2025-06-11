@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
+* [2025-06-11, 12:17:48](https://lobste.rs/s/mztjuy/demystifying_debuggers) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
 * [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 10:06:25](https://lobste.rs/s/b1rxqt/hydroph0bia_cve_2025_4275_trivial) - [Hydroph0bia (CVE-2025-4275) - a trivial SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O, part 1](https://coderush.me/hydroph0bia-part1/)
