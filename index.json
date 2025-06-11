@@ -141,12 +141,12 @@
   ],
   [
     [
-      "2025-06-11, 04:47:57",
-      "https://lobste.rs/s/hgrd1v/embracing_swift_concurrency"
+      "2025-06-11, 01:00:08",
+      "https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize"
     ],
     [
-      "Embracing Swift concurrency",
-      "https://developer.apple.com/videos/play/wwdc2025/268/"
+      "Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library",
+      "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
     ]
   ],
   [
