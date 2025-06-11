@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
 * [2025-06-11, 04:53:13](https://lobste.rs/s/fvbwth/mixed_boolean_arithmetic_part_1) - [Mixed Boolean-Arithmetic (part 1): Introduction](https://plzin.github.io/posts/mba)
 * [2025-06-11, 04:47:57](https://lobste.rs/s/hgrd1v/embracing_swift_concurrency) - [Embracing Swift concurrency](https://developer.apple.com/videos/play/wwdc2025/268/)
 * [2025-06-11, 02:50:30](https://lobste.rs/s/vcrcni/quaternions) - [Quaternions](https://www.youtube.com/watch?v=PMvIWws8WEo)
