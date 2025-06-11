@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 10:06:25](https://lobste.rs/s/b1rxqt/hydroph0bia_cve_2025_4275_trivial) - [Hydroph0bia (CVE-2025-4275) - a trivial SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O, part 1](https://coderush.me/hydroph0bia-part1/)
 * [2025-06-11, 09:31:22](https://lobste.rs/s/2z4amx/red_hat_freedesktop_go_into_mass) - [Red Hat and FreeDesktop Go into Mass Censorship over Xorg Fork](https://youtube.com/watch?v=ujJCyXfWpOo)

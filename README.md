@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
-* [2025-06-11, 10:06:25](https://lobste.rs/s/b1rxqt/hydroph0bia_cve_2025_4275_trivial) - [Hydroph0bia (CVE-2025-4275) - a trivial SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O, part 1](https://coderush.me/hydroph0bia-part1/)
 * [2025-06-11, 09:20:34](https://lobste.rs/s/wiq5rc/ratatui_are_we_embedded_yet_2) - [Ratatui - Are We Embedded Yet? (#2)](https://jslazak.com/are-we-embedded-yet-2/)
 * [2025-06-11, 07:13:56](https://lobste.rs/s/a0ja5n/patterns_for_failure_free_bounded_space) - [Patterns for failure-free, bounded-space, and bounded-time programming](https://dercuano.github.io/notes/failure-free.html)
 * [2025-06-11, 06:54:09](https://lobste.rs/s/0dpixv/lisp_shell) - [Lisp in a Shell](https://www.youtube.com/watch?v=aeUt0x7EqPY)
