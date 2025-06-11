@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-06-11, 15:18:02",
+      "https://lobste.rs/s/5ukgiu/hashtable_packing_problem"
+    ],
+    [
+      "The Hashtable Packing Problem",
+      "https://backscattering.de/chess/hashtable-packing/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 15:02:37",
+      "https://lobste.rs/s/adl5af/proving_completeness_eventually"
+    ],
+    [
+      "Proving completeness of an eventually perfect failure detector in Lean4",
+      "https://protocols-made-fun.com/lean/2025/06/10/lean-epfd-completeness.html"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 14:58:59",
       "https://lobste.rs/s/htzmqf/how_we_tried_book_train_ticket_ended_up"
     ],
@@ -57,16 +77,6 @@
     [
       "A bit more on Twitter/X’s new encrypted messaging",
       "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 12:17:48",
-      "https://lobste.rs/s/mztjuy/demystifying_debuggers"
-    ],
-    [
-      "Demystifying Debuggers",
-      "https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Mixed Boolean-Arithmetic (part 1): Introduction",
       "https://plzin.github.io/posts/mba"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 01:00:08",
-      "https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize"
-    ],
-    [
-      "Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library",
-      "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
     ]
   ],
   [
