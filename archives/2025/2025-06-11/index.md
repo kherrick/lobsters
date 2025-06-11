@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-11](index.md)
 
+* [2025-06-11, 15:28:57](https://lobste.rs/s/v6bdse/source_code_sandboxing) - [Source code sandboxing](https://kristaps.bsd.lv/devsecflops/)
 * [2025-06-11, 15:28:46](https://lobste.rs/s/jiii0u/verse_language) - [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
 * [2025-06-11, 14:58:59](https://lobste.rs/s/htzmqf/how_we_tried_book_train_ticket_ended_up) - [How we tried to book a train ticket and ended up with a databreach with 245,000 records (2023)](https://zerforschung.org/posts/freundschaftspass-en/)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
