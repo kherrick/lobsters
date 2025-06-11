@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
+* [2025-06-11, 00:21:27](https://lobste.rs/s/ab86gm/r9_plan_9_rust) - [R9: Plan 9 in Rust](https://github.com/r9os/r9)
+* [2025-06-11, 00:09:11](https://lobste.rs/s/std7aq/daily_workflow_cuis_smalltalk_book) - [Daily Workflow (The Cuis-Smalltalk Book)](https://drcuis.github.io/TheCuisBook/Daily-Workflow.html)
 * [2025-06-10, 21:47:58](https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018) - [Why Doctors Hate Their Computers (2018)](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2025-06-10, 20:49:40](https://lobste.rs/s/xpiavv/freebsd_14_3_release_announcement) - [FreeBSD 14.3-RELEASE Announcement](https://freebsd.org/releases/14.3R/announce/)
 * [2025-06-10, 19:32:45](https://lobste.rs/s/bdpty0/android_16_is_here) - [Android 16 is here](https://blog.google/products/android/android-16/)
-* [2025-06-10, 17:31:24](https://lobste.rs/s/kjmma2/my_unfiltered_take_on_ai_coding_agent) - [My Unfiltered Take on the AI Coding Agent Landscape](https://xxchan.me/ai/2025/06/10/ai-coding-en.html)
 * [2025-06-10, 17:26:55](https://lobste.rs/s/i9oacu/partial_keyframes) - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/)
 * [2025-06-10, 17:18:36](https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for) - [Announcing Multigres: Vitess for Postgres](https://supabase.com/blog/multigres-vitess-for-postgres)
 * [2025-06-10, 17:14:32](https://lobste.rs/s/uclun9/building_debugger_write_native_x64) - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://nostarch.com/building-a-debugger)
@@ -11,7 +13,6 @@
 * [2025-06-10, 16:55:22](https://lobste.rs/s/iykpuo/green_threads_explained) - [Green threads explained](https://c9x.me/articles/gthreads/intro.html)
 * [2025-06-10, 16:51:16](https://lobste.rs/s/067s7i/handles_are_better_pointers_2018) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2025-06-10, 16:15:30](https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix) - [Why We’re Moving on From Nix](https://blog.railway.com/p/introducing-railpack)
-* [2025-06-10, 15:47:40](https://lobste.rs/s/uafcpg/cve_2025_47934_spoofing_openpgp_js) - [CVE-2025-47934 - Spoofing OpenPGP.js signature verification](https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/)
 * [2025-06-10, 15:28:30](https://lobste.rs/s/hao2zr/passing_jean_raymond_abrial) - [Passing of Jean-Raymond Abrial](https://en.wikipedia.org/wiki/Jean-Raymond_Abrial)
 * [2025-06-10, 15:25:59](https://lobste.rs/s/fkgmer/malleable_software_restoring_user) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:17:43](https://lobste.rs/s/wj1kn0/tale_two_claudes) - [A tale of two Claudes](https://steveklabnik.com/writing/a-tale-of-two-claudes/)
@@ -23,7 +24,6 @@
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
-* [2025-06-09, 11:41:06](https://lobste.rs/s/btogou/llms_are_cheap) - [LLMs are cheap](https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/)
 * [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 
 ## [Archives](archives/index.md)
