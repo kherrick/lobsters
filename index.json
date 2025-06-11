@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-06-11, 10:06:25",
+      "https://lobste.rs/s/b1rxqt/hydroph0bia_cve_2025_4275_trivial"
+    ],
+    [
+      "Hydroph0bia (CVE-2025-4275) - a trivial SecureBoot bypass for UEFI-compatible firmware based on Insyde H2O, part 1",
+      "https://coderush.me/hydroph0bia-part1/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 09:20:34",
       "https://lobste.rs/s/wiq5rc/ratatui_are_we_embedded_yet_2"
     ],
@@ -187,16 +197,6 @@
     [
       "Handles are the better pointers (2018)",
       "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 16:15:30",
-      "https://lobste.rs/s/vnvrv8/why_we_re_moving_on_from_nix"
-    ],
-    [
-      "Why We’re Moving on From Nix",
-      "https://blog.railway.com/p/introducing-railpack"
     ]
   ],
   [
