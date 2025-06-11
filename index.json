@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-06-11, 14:01:48",
+      "https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking"
+    ],
+    [
+      "hare-update assists in addressing breaking changes in your code",
+      "https://harelang.org/blog/2025-06-11-hare-update/"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 12:53:14",
+      "https://lobste.rs/s/kc0ket/bit_more_on_twitter_x_s_new_encrypted"
+    ],
+    [
+      "A bit more on Twitter/X’s new encrypted messaging",
+      "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 12:17:48",
       "https://lobste.rs/s/mztjuy/demystifying_debuggers"
     ],
@@ -97,16 +117,6 @@
     [
       "Embracing Swift concurrency",
       "https://developer.apple.com/videos/play/wwdc2025/268/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 01:00:08",
-      "https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize"
-    ],
-    [
-      "Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library",
-      "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "A tale of two Claudes",
       "https://steveklabnik.com/writing/a-tale-of-two-claudes/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 14:16:06",
-      "https://lobste.rs/s/lmbnv0/quarkdown_markdown_with_superpowers"
-    ],
-    [
-      "Quarkdown - Markdown with superpowers",
-      "https://quarkdown.com/"
     ]
   ],
   [
