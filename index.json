@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-11, 00:43:31",
+      "https://lobste.rs/s/r0wyey/multi_player_serverless_durable"
+    ],
+    [
+      "Multi-player, serverless, durable terminals",
+      "https://s2.dev/blog/s2-term"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 00:21:27",
+      "https://lobste.rs/s/ab86gm/r9_plan_9_rust"
+    ],
+    [
+      "R9: Plan 9 in Rust",
+      "https://github.com/r9os/r9"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 00:09:11",
+      "https://lobste.rs/s/std7aq/daily_workflow_cuis_smalltalk_book"
+    ],
+    [
+      "Daily Workflow (The Cuis-Smalltalk Book)",
+      "https://drcuis.github.io/TheCuisBook/Daily-Workflow.html"
+    ]
+  ],
+  [
+    [
       "2025-06-10, 21:47:58",
       "https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018"
     ],
@@ -27,16 +57,6 @@
     [
       "Android 16 is here",
       "https://blog.google/products/android/android-16/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 17:31:24",
-      "https://lobste.rs/s/kjmma2/my_unfiltered_take_on_ai_coding_agent"
-    ],
-    [
-      "My Unfiltered Take on the AI Coding Agent Landscape",
-      "https://xxchan.me/ai/2025/06/10/ai-coding-en.html"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Why We’re Moving on From Nix",
       "https://blog.railway.com/p/introducing-railpack"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 15:47:40",
-      "https://lobste.rs/s/uafcpg/cve_2025_47934_spoofing_openpgp_js"
-    ],
-    [
-      "CVE-2025-47934 - Spoofing OpenPGP.js signature verification",
-      "https://codeanlabs.com/blog/research/cve-2025-47934-spoofing-openpgp-js-signatures/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Apple WWDC 2025",
       "https://www.apple.com/apple-events/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 11:41:06",
-      "https://lobste.rs/s/btogou/llms_are_cheap"
-    ],
-    [
-      "LLMs are cheap",
-      "https://www.snellman.net/blog/archive/2025-06-02-llms-are-cheap/"
     ]
   ],
   [
