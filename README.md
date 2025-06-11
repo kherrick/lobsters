@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-11, 02:50:30](https://lobste.rs/s/vcrcni/quaternions) - [Quaternions](https://www.youtube.com/watch?v=PMvIWws8WEo)
+* [2025-06-11, 01:00:08](https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize) - [Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)
 * [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
 * [2025-06-11, 00:21:27](https://lobste.rs/s/ab86gm/r9_plan_9_rust) - [R9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2025-06-11, 00:09:11](https://lobste.rs/s/std7aq/daily_workflow_cuis_smalltalk_book) - [Daily Workflow (The Cuis-Smalltalk Book)](https://drcuis.github.io/TheCuisBook/Daily-Workflow.html)
 * [2025-06-10, 21:47:58](https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018) - [Why Doctors Hate Their Computers (2018)](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
 * [2025-06-10, 20:49:40](https://lobste.rs/s/xpiavv/freebsd_14_3_release_announcement) - [FreeBSD 14.3-RELEASE Announcement](https://freebsd.org/releases/14.3R/announce/)
 * [2025-06-10, 19:32:45](https://lobste.rs/s/bdpty0/android_16_is_here) - [Android 16 is here](https://blog.google/products/android/android-16/)
-* [2025-06-10, 17:26:55](https://lobste.rs/s/i9oacu/partial_keyframes) - [Partial Keyframes](https://www.joshwcomeau.com/animation/partial-keyframes/)
 * [2025-06-10, 17:18:36](https://lobste.rs/s/wlepy8/announcing_multigres_vitess_for) - [Announcing Multigres: Vitess for Postgres](https://supabase.com/blog/multigres-vitess-for-postgres)
 * [2025-06-10, 17:14:32](https://lobste.rs/s/uclun9/building_debugger_write_native_x64) - [Building a Debugger: Write a Native x64 Debugger From Scratch](https://nostarch.com/building-a-debugger)
 * [2025-06-10, 16:55:45](https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html)
@@ -24,7 +25,6 @@
 * [2025-06-09, 18:11:51](https://lobste.rs/s/hrk5y5/why_doesn_t_rust_care_more_about_compiler) - [Why doesn’t Rust care more about compiler performance?](https://kobzol.github.io/rust/rustc/2025/06/09/why-doesnt-rust-care-more-about-compiler-performance.html)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 * [2025-06-09, 13:45:56](https://lobste.rs/s/5i3lhl/apple_wwdc_2025) - [Apple WWDC 2025](https://www.apple.com/apple-events/)
-* [2025-06-09, 05:51:39](https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now) - [Zig's self-hosted x86 backend is now default in Debug mode](https://ziglang.org/devlog/2025/?unique/#2025-06-08)
 
 ## [Archives](archives/index.md)
 
