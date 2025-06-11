@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
+* [2025-06-11, 14:01:48](https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking) - [hare-update assists in addressing breaking changes in your code](https://harelang.org/blog/2025-06-11-hare-update/)
+* [2025-06-11, 12:53:14](https://lobste.rs/s/kc0ket/bit_more_on_twitter_x_s_new_encrypted) - [A bit more on Twitter/X’s new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
 * [2025-06-11, 12:17:48](https://lobste.rs/s/mztjuy/demystifying_debuggers) - [Demystifying Debuggers](https://www.rfleury.com/p/demystifying-debuggers-part-1-a-busy)
 * [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
@@ -10,7 +12,6 @@
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
 * [2025-06-11, 04:53:13](https://lobste.rs/s/fvbwth/mixed_boolean_arithmetic_part_1) - [Mixed Boolean-Arithmetic (part 1): Introduction](https://plzin.github.io/posts/mba)
 * [2025-06-11, 04:47:57](https://lobste.rs/s/hgrd1v/embracing_swift_concurrency) - [Embracing Swift concurrency](https://developer.apple.com/videos/play/wwdc2025/268/)
-* [2025-06-11, 01:00:08](https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize) - [Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library](https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/)
 * [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
 * [2025-06-11, 00:21:27](https://lobste.rs/s/ab86gm/r9_plan_9_rust) - [R9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2025-06-11, 00:09:11](https://lobste.rs/s/std7aq/daily_workflow_cuis_smalltalk_book) - [Daily Workflow (The Cuis-Smalltalk Book)](https://drcuis.github.io/TheCuisBook/Daily-Workflow.html)
@@ -22,7 +23,6 @@
 * [2025-06-10, 16:55:45](https://lobste.rs/s/v0jei8/zig_style_generics_are_not_well_suited_for) - [Zig-style generics are not well-suited for most languages (2022)](https://typesanitizer.com/blog/zig-generics.html)
 * [2025-06-10, 15:25:59](https://lobste.rs/s/fkgmer/malleable_software_restoring_user) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:17:43](https://lobste.rs/s/wj1kn0/tale_two_claudes) - [A tale of two Claudes](https://steveklabnik.com/writing/a-tale-of-two-claudes/)
-* [2025-06-10, 14:16:06](https://lobste.rs/s/lmbnv0/quarkdown_markdown_with_superpowers) - [Quarkdown - Markdown with superpowers](https://quarkdown.com/)
 * [2025-06-10, 13:03:22](https://lobste.rs/s/1qppei/ai_assisted_coding_for_teams_can_t_get_away) - [AI-assisted coding for teams that can't get away with vibes](https://blog.nilenso.com/blog/2025/05/29/ai-assisted-coding/)
 * [2025-06-09, 18:07:43](https://lobste.rs/s/in8yn9/is_rust_faster_than_c) - [Is Rust faster than C?](https://steveklabnik.com/writing/is-rust-faster-than-c/)
 
