@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-11, 02:50:30",
+      "https://lobste.rs/s/vcrcni/quaternions"
+    ],
+    [
+      "Quaternions",
+      "https://www.youtube.com/watch?v=PMvIWws8WEo"
+    ]
+  ],
+  [
+    [
+      "2025-06-11, 01:00:08",
+      "https://lobste.rs/s/p8uq6e/rewriting_symcrypt_rust_modernize"
+    ],
+    [
+      "Rewriting SymCrypt in Rust to modernize Microsoft’s cryptographic library",
+      "https://www.microsoft.com/en-us/research/blog/rewriting-symcrypt-in-rust-to-modernize-microsofts-cryptographic-library/"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 00:43:31",
       "https://lobste.rs/s/r0wyey/multi_player_serverless_durable"
     ],
@@ -57,16 +77,6 @@
     [
       "Android 16 is here",
       "https://blog.google/products/android/android-16/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 17:26:55",
-      "https://lobste.rs/s/i9oacu/partial_keyframes"
-    ],
-    [
-      "Partial Keyframes",
-      "https://www.joshwcomeau.com/animation/partial-keyframes/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Apple WWDC 2025",
       "https://www.apple.com/apple-events/"
-    ]
-  ],
-  [
-    [
-      "2025-06-09, 05:51:39",
-      "https://lobste.rs/s/fmof95/zig_s_self_hosted_x86_backend_is_now"
-    ],
-    [
-      "Zig's self-hosted x86 backend is now default in Debug mode",
-      "https://ziglang.org/devlog/2025/?unique/#2025-06-08"
     ]
   ]
 ]
