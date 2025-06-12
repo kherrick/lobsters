@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 08:44:41",
+      "https://lobste.rs/s/7kv4fl/lightweight_merge_queue_using_github"
+    ],
+    [
+      "A Lightweight Merge Queue using GitHub Actions",
+      "https://sketch.dev/blog/lightweight-merge-queue"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 08:13:31",
       "https://lobste.rs/s/qvqykb/ruby_on_rails_audit_complete"
     ],
@@ -227,16 +237,6 @@
     [
       "GNOME introducing stronger dependencies on systemd",
       "https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 15:25:59",
-      "https://lobste.rs/s/fkgmer/malleable_software_restoring_user"
-    ],
-    [
-      "Malleable software: Restoring user agency in a world of locked-down apps",
-      "https://www.inkandswitch.com/essay/malleable-software/"
     ]
   ],
   [
