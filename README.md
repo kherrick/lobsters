@@ -20,7 +20,7 @@
 * [2025-06-11, 14:01:48](https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking) - [hare-update assists in addressing breaking changes in your code](https://harelang.org/blog/2025-06-11-hare-update/)
 * [2025-06-11, 12:53:14](https://lobste.rs/s/kc0ket/bit_more_on_twitter_x_s_new_encrypted) - [A bit more on Twitter/X’s new encrypted messaging](https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/)
 * [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
-* [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
+* [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
 * [2025-06-11, 07:13:56](https://lobste.rs/s/a0ja5n/patterns_for_failure_free_bounded_space) - [Patterns for failure-free, bounded-space, and bounded-time programming](https://dercuano.github.io/notes/failure-free.html)
 * [2025-06-11, 06:54:09](https://lobste.rs/s/0dpixv/lisp_shell) - [Lisp in a Shell](https://www.youtube.com/watch?v=aeUt0x7EqPY)
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
