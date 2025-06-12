@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 03:11:53",
+      "https://lobste.rs/s/bialze/patterns_for_modeling_overlapping"
+    ],
+    [
+      "Patterns for Modeling Overlapping Variant Data in Rust",
+      "https://mcmah309.github.io/posts/patterns-for-modeling-overlapping-variant-data-in-rust"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 02:27:30",
       "https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada"
     ],
@@ -147,16 +157,6 @@
     [
       "Firefox OS's story from a mozilla insider not working on the project",
       "https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 09:20:34",
-      "https://lobste.rs/s/wiq5rc/ratatui_are_we_embedded_yet_2"
-    ],
-    [
-      "Ratatui - Are We Embedded Yet? (#2)",
-      "https://jslazak.com/are-we-embedded-yet-2/"
     ]
   ],
   [
