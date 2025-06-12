@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 14:47:22",
+      "https://lobste.rs/s/kvg7od/python_language_summit_2025"
+    ],
+    [
+      "The Python Language Summit 2025",
+      "https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 13:09:50",
       "https://lobste.rs/s/jumrvj/cp_m_2_2_cp_m_3_0_cp_m_86_concurrent_cp_m_86"
     ],
@@ -237,16 +247,6 @@
     [
       "GNOME introducing stronger dependencies on systemd",
       "https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-06-10, 15:17:43",
-      "https://lobste.rs/s/wj1kn0/tale_two_claudes"
-    ],
-    [
-      "A tale of two Claudes",
-      "https://steveklabnik.com/writing/a-tale-of-two-claudes/"
     ]
   ]
 ]
