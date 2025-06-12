@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 11:40:03](https://lobste.rs/s/0jgelq/analysing_fit_data_with_perl_producing) - [Analysing FIT data with Perl: producing PNG plots](https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/)
 * [2025-06-12, 10:56:36](https://lobste.rs/s/5v0594/distributed_data_protocol_ddp) - [Distributed Data Protocol (DDP) specification - by Meteorjs](https://github.com/meteor/meteor/blob/master/packages/ddp/DDP.md)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
@@ -21,7 +22,6 @@
 * [2025-06-11, 14:01:48](https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking) - [hare-update assists in addressing breaking changes in your code](https://harelang.org/blog/2025-06-11-hare-update/)
 * [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
-* [2025-06-11, 07:13:56](https://lobste.rs/s/a0ja5n/patterns_for_failure_free_bounded_space) - [Patterns for failure-free, bounded-space, and bounded-time programming](https://dercuano.github.io/notes/failure-free.html)
 * [2025-06-11, 06:54:09](https://lobste.rs/s/0dpixv/lisp_shell) - [Lisp in a Shell](https://www.youtube.com/watch?v=aeUt0x7EqPY)
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
 * [2025-06-10, 15:17:43](https://lobste.rs/s/wj1kn0/tale_two_claudes) - [A tale of two Claudes](https://steveklabnik.com/writing/a-tale-of-two-claudes/)

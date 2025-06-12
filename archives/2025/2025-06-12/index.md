@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 11:40:03](https://lobste.rs/s/0jgelq/analysing_fit_data_with_perl_producing) - [Analysing FIT data with Perl: producing PNG plots](https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/)
 * [2025-06-12, 10:56:36](https://lobste.rs/s/5v0594/distributed_data_protocol_ddp) - [Distributed Data Protocol (DDP) specification - by Meteorjs](https://github.com/meteor/meteor/blob/master/packages/ddp/DDP.md)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
