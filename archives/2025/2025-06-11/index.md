@@ -11,6 +11,7 @@
 * [2025-06-11, 18:04:39](https://lobste.rs/s/jjfyic/reflections_on_year_sunlight) - [Reflections on a Year of Sunlight](https://letsencrypt.org/2025/06/11/reflections-on-a-year-of-sunlight/)
 * [2025-06-11, 18:04:29](https://lobste.rs/s/aadxvm/whatever_happened_sandboxfs) - [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 17:54:56](https://lobste.rs/s/vq4cjo/compiler_explorer_cost_transparency) - [Compiler Explorer Cost Transparency](https://xania.org/202506/compiler-explorer-cost-transparency)
+* [2025-06-11, 17:51:20](https://lobste.rs/s/otca3w/pocoo) - [Pocoo](https://www.pocoo.org/)
 * [2025-06-11, 15:28:57](https://lobste.rs/s/v6bdse/source_code_sandboxing) - [Source code sandboxing](https://kristaps.bsd.lv/devsecflops/)
 * [2025-06-11, 15:28:46](https://lobste.rs/s/jiii0u/verse_language) - [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
 * [2025-06-11, 15:18:02](https://lobste.rs/s/5ukgiu/hashtable_packing_problem) - [The Hashtable Packing Problem](https://backscattering.de/chess/hashtable-packing/)
