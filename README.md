@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 05:48:09](https://lobste.rs/s/x9wlaa/eu_launches_eu_based_privacy_focused_dns) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
 * [2025-06-12, 04:26:51](https://lobste.rs/s/alz9cv/webrtc_one_time_permissions_are_here_stay) - [WebRTC One-time permissions are here to stay](https://blog.mozilla.org/webrtc/one-time-permissions-are-here-to-stay/)
 * [2025-06-12, 03:11:53](https://lobste.rs/s/bialze/patterns_for_modeling_overlapping) - [Patterns for Modeling Overlapping Variant Data in Rust](https://mcmah309.github.io/posts/patterns-for-modeling-overlapping-variant-data-in-rust)
 * [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
@@ -21,7 +22,6 @@
 * [2025-06-11, 07:13:56](https://lobste.rs/s/a0ja5n/patterns_for_failure_free_bounded_space) - [Patterns for failure-free, bounded-space, and bounded-time programming](https://dercuano.github.io/notes/failure-free.html)
 * [2025-06-11, 06:54:09](https://lobste.rs/s/0dpixv/lisp_shell) - [Lisp in a Shell](https://www.youtube.com/watch?v=aeUt0x7EqPY)
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
-* [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
 * [2025-06-11, 00:21:27](https://lobste.rs/s/ab86gm/r9_plan_9_rust) - [R9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2025-06-10, 15:25:59](https://lobste.rs/s/fkgmer/malleable_software_restoring_user) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:17:43](https://lobste.rs/s/wj1kn0/tale_two_claudes) - [A tale of two Claudes](https://steveklabnik.com/writing/a-tale-of-two-claudes/)
