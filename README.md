@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 06:39:33](https://lobste.rs/s/p2mqon/ai_boom_drives_150_surge_indirect) - [AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns](https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/)
+* [2025-06-12, 06:29:12](https://lobste.rs/s/e6nh2g/linus_torvalds_rejects_idea_enabling) - [Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel](https://www.phoronix.com/news/Linux-DAMON-By-Default-No)
 * [2025-06-12, 05:48:09](https://lobste.rs/s/x9wlaa/eu_launches_eu_based_privacy_focused_dns) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
-* [2025-06-12, 04:26:51](https://lobste.rs/s/alz9cv/webrtc_one_time_permissions_are_here_stay) - [WebRTC One-time permissions are here to stay](https://blog.mozilla.org/webrtc/one-time-permissions-are-here-to-stay/)
-* [2025-06-12, 03:11:53](https://lobste.rs/s/bialze/patterns_for_modeling_overlapping) - [Patterns for Modeling Overlapping Variant Data in Rust](https://mcmah309.github.io/posts/patterns-for-modeling-overlapping-variant-data-in-rust)
 * [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
 * [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
 * [2025-06-11, 19:44:46](https://lobste.rs/s/ipordg/bypassing_github_actions_policies) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
