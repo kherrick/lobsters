@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 10:56:36",
+      "https://lobste.rs/s/5v0594/distributed_data_protocol_ddp"
+    ],
+    [
+      "Distributed Data Protocol (DDP) specification - by Meteorjs",
+      "https://github.com/meteor/meteor/blob/master/packages/ddp/DDP.md"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 10:17:12",
       "https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel"
     ],
@@ -177,16 +187,6 @@
     [
       "hare-update assists in addressing breaking changes in your code",
       "https://harelang.org/blog/2025-06-11-hare-update/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 12:53:14",
-      "https://lobste.rs/s/kc0ket/bit_more_on_twitter_x_s_new_encrypted"
-    ],
-    [
-      "A bit more on Twitter/X’s new encrypted messaging",
-      "https://blog.cryptographyengineering.com/2025/06/09/a-bit-more-on-twitter-xs-new-encrypted-messaging/"
     ]
   ],
   [
