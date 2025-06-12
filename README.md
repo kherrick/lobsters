@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 15:45:35](https://lobste.rs/s/27gwjc/reflections_on_sudoku_impossibility) - [Reflections on Sudoku, Or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
+* [2025-06-12, 15:39:08](https://lobste.rs/s/on1kuv/open_source_people_are_fighting_kill_open) - [Open Source People are Fighting to Kill Open Source Projects](https://youtube.com/watch?v=WdlhHOLaRgQ)
 * [2025-06-12, 14:47:22](https://lobste.rs/s/kvg7od/python_language_summit_2025) - [The Python Language Summit 2025](https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html)
 * [2025-06-12, 13:09:50](https://lobste.rs/s/jumrvj/cp_m_2_2_cp_m_3_0_cp_m_86_concurrent_cp_m_86) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
 * [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
@@ -12,7 +14,6 @@
 * [2025-06-12, 06:39:33](https://lobste.rs/s/p2mqon/ai_boom_drives_150_surge_indirect) - [AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns](https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/)
 * [2025-06-12, 06:29:12](https://lobste.rs/s/e6nh2g/linus_torvalds_rejects_idea_enabling) - [Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel](https://www.phoronix.com/news/Linux-DAMON-By-Default-No)
 * [2025-06-12, 05:48:09](https://lobste.rs/s/x9wlaa/eu_launches_eu_based_privacy_focused_dns) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
-* [2025-06-12, 04:26:51](https://lobste.rs/s/alz9cv/webrtc_one_time_permissions_are_here_stay) - [WebRTC One-time permissions are here to stay](https://blog.mozilla.org/webrtc/one-time-permissions-are-here-to-stay/)
 * [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
 * [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
 * [2025-06-11, 19:44:46](https://lobste.rs/s/ipordg/bypassing_github_actions_policies) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
@@ -23,7 +24,6 @@
 * [2025-06-11, 14:01:48](https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking) - [hare-update assists in addressing breaking changes in your code](https://harelang.org/blog/2025-06-11-hare-update/)
 * [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
 * [2025-06-11, 11:35:25](https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider) - [Firefox OS's story from a mozilla insider not working on the project (2024)](https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html)
-* [2025-06-11, 06:54:09](https://lobste.rs/s/0dpixv/lisp_shell) - [Lisp in a Shell](https://www.youtube.com/watch?v=aeUt0x7EqPY)
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
 
 ## [Archives](archives/index.md)
