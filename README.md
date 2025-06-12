@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
+* [2025-06-12, 18:30:39](https://lobste.rs/s/o5hhsn/use_after_free_can_bcm_subsystem_leading) - [Use-after-free in CAN BCM subsystem leading to information disclosure (CVE-2023-52922)](https://allelesecurity.com/use-after-free-vulnerability-in-can-bcm-subsystem-leading-to-information-disclosure-cve-2023-52922/)
 * [2025-06-12, 16:54:39](https://lobste.rs/s/vwzni0/diceomatic_dsl_for_making_children_s_dice) - [diceomatic: a DSL for making children's dice games](https://robertheaton.com/diceomatic/)
 * [2025-06-12, 16:19:07](https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 15:45:35](https://lobste.rs/s/27gwjc/reflections_on_sudoku_impossibility) - [Reflections on Sudoku, Or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
@@ -7,7 +9,6 @@
 * [2025-06-12, 13:09:50](https://lobste.rs/s/jumrvj/cp_m_2_2_cp_m_3_0_cp_m_86_concurrent_cp_m_86) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
 * [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
 * [2025-06-12, 11:40:03](https://lobste.rs/s/0jgelq/analysing_fit_data_with_perl_producing) - [Analysing FIT data with Perl: producing PNG plots](https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/)
-* [2025-06-12, 10:56:36](https://lobste.rs/s/5v0594/distributed_data_protocol_ddp) - [Distributed Data Protocol (DDP) specification - by Meteorjs](https://github.com/meteor/meteor/blob/master/packages/ddp/DDP.md)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 * [2025-06-12, 08:13:31](https://lobste.rs/s/qvqykb/ruby_on_rails_audit_complete) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
@@ -17,7 +18,6 @@
 * [2025-06-12, 05:48:09](https://lobste.rs/s/x9wlaa/eu_launches_eu_based_privacy_focused_dns) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
 * [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
 * [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
-* [2025-06-11, 19:44:46](https://lobste.rs/s/ipordg/bypassing_github_actions_policies) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
 * [2025-06-11, 18:04:29](https://lobste.rs/s/aadxvm/whatever_happened_sandboxfs) - [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 15:28:46](https://lobste.rs/s/jiii0u/verse_language) - [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
