@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 04:26:51](https://lobste.rs/s/alz9cv/webrtc_one_time_permissions_are_here_stay) - [WebRTC One-time permissions are here to stay](https://blog.mozilla.org/webrtc/one-time-permissions-are-here-to-stay/)
 * [2025-06-12, 03:11:53](https://lobste.rs/s/bialze/patterns_for_modeling_overlapping) - [Patterns for Modeling Overlapping Variant Data in Rust](https://mcmah309.github.io/posts/patterns-for-modeling-overlapping-variant-data-in-rust)
 * [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
 * [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
 * [2025-06-11, 19:44:46](https://lobste.rs/s/ipordg/bypassing_github_actions_policies) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
+* [2025-06-11, 19:23:54](https://lobste.rs/s/4zk71g/from_zero_demo_newcomer_s_experience) - [From zero to demo: a newcomer's experience learning Bevy](https://www.youtube.com/watch?v=_FIDuLV0ZsA)
 * [2025-06-11, 18:04:39](https://lobste.rs/s/jjfyic/reflections_on_year_sunlight) - [Reflections on a Year of Sunlight](https://letsencrypt.org/2025/06/11/reflections-on-a-year-of-sunlight/)
 * [2025-06-11, 18:04:29](https://lobste.rs/s/aadxvm/whatever_happened_sandboxfs) - [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 17:54:56](https://lobste.rs/s/vq4cjo/compiler_explorer_cost_transparency) - [Compiler Explorer Cost Transparency](https://xania.org/202506/compiler-explorer-cost-transparency)
@@ -21,8 +23,6 @@
 * [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
 * [2025-06-11, 00:43:31](https://lobste.rs/s/r0wyey/multi_player_serverless_durable) - [Multi-player, serverless, durable terminals](https://s2.dev/blog/s2-term)
 * [2025-06-11, 00:21:27](https://lobste.rs/s/ab86gm/r9_plan_9_rust) - [R9: Plan 9 in Rust](https://github.com/r9os/r9)
-* [2025-06-10, 21:47:58](https://lobste.rs/s/nvtogi/why_doctors_hate_their_computers_2018) - [Why Doctors Hate Their Computers (2018)](https://web.archive.org/web/20250104014248/https://www.newyorker.com/magazine/2018/11/12/why-doctors-hate-their-computers)
-* [2025-06-10, 20:49:40](https://lobste.rs/s/xpiavv/freebsd_14_3_release_announcement) - [FreeBSD 14.3-RELEASE Announcement](https://freebsd.org/releases/14.3R/announce/)
 * [2025-06-10, 15:25:59](https://lobste.rs/s/fkgmer/malleable_software_restoring_user) - [Malleable software: Restoring user agency in a world of locked-down apps](https://www.inkandswitch.com/essay/malleable-software/)
 * [2025-06-10, 15:17:43](https://lobste.rs/s/wj1kn0/tale_two_claudes) - [A tale of two Claudes](https://steveklabnik.com/writing/a-tale-of-two-claudes/)
 
