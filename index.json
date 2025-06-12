@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 19:41:54",
+      "https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more"
+    ],
+    [
+      "Frequent reauth doesn't make you more secure",
+      "https://tailscale.com/blog/frequent-reath-security"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 18:41:09",
       "https://lobste.rs/s/yfqldg/architecture_decision_records"
     ],
@@ -227,16 +237,6 @@
     [
       "Avoiding generative models is the rational and responsible thing to do",
       "https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 11:35:25",
-      "https://lobste.rs/s/xsrwpv/firefox_os_s_story_from_mozilla_insider"
-    ],
-    [
-      "Firefox OS's story from a mozilla insider not working on the project (2024)",
-      "https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html"
     ]
   ],
   [
