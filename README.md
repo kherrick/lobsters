@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
 * [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
 * [2025-06-11, 19:44:46](https://lobste.rs/s/ipordg/bypassing_github_actions_policies) - [Bypassing GitHub Actions policies in the dumbest way possible](https://blog.yossarian.net/2025/06/11/github-actions-policies-dumb-bypass)
 * [2025-06-11, 18:04:39](https://lobste.rs/s/jjfyic/reflections_on_year_sunlight) - [Reflections on a Year of Sunlight](https://letsencrypt.org/2025/06/11/reflections-on-a-year-of-sunlight/)
@@ -8,7 +9,6 @@
 * [2025-06-11, 17:51:20](https://lobste.rs/s/otca3w/pocoo) - [Pocoo](https://www.pocoo.org/)
 * [2025-06-11, 15:28:57](https://lobste.rs/s/v6bdse/source_code_sandboxing) - [Source code sandboxing](https://kristaps.bsd.lv/devsecflops/)
 * [2025-06-11, 15:28:46](https://lobste.rs/s/jiii0u/verse_language) - [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
-* [2025-06-11, 15:02:37](https://lobste.rs/s/adl5af/proving_completeness_eventually) - [Proving completeness of an eventually perfect failure detector in Lean4](https://protocols-made-fun.com/lean/2025/06/10/lean-epfd-completeness.html)
 * [2025-06-11, 14:58:59](https://lobste.rs/s/htzmqf/how_we_tried_book_train_ticket_ended_up) - [How we tried to book a train ticket and ended up with a databreach with 245,000 records (2023)](https://zerforschung.org/posts/freundschaftspass-en/)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-11, 14:01:48](https://lobste.rs/s/5yimfy/hare_update_assists_addressing_breaking) - [hare-update assists in addressing breaking changes in your code](https://harelang.org/blog/2025-06-11-hare-update/)
