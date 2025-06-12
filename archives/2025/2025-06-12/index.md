@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 06:55:58](https://lobste.rs/s/w7fnqq/type_based_vs_value_based_reflection) - [Type-based vs Value-based Reflection](https://brevzin.github.io/c++/2025/06/09/reflection-ts/)
+* [2025-06-12, 06:49:35](https://lobste.rs/s/d7wjan/could_llm_create_full_domain_specific) - [Could an LLM create a full Domain-Specific Language?](https://modeling-languages.com/vibe-dsling/)
 * [2025-06-12, 06:39:33](https://lobste.rs/s/p2mqon/ai_boom_drives_150_surge_indirect) - [AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns](https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/)
 * [2025-06-12, 06:29:12](https://lobste.rs/s/e6nh2g/linus_torvalds_rejects_idea_enabling) - [Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel](https://www.phoronix.com/news/Linux-DAMON-By-Default-No)
 * [2025-06-12, 05:48:09](https://lobste.rs/s/x9wlaa/eu_launches_eu_based_privacy_focused_dns) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
