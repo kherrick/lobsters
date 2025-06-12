@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 16:54:39",
+      "https://lobste.rs/s/vwzni0/diceomatic_dsl_for_making_children_s_dice"
+    ],
+    [
+      "diceomatic: a DSL for making children's dice games",
+      "https://robertheaton.com/diceomatic/"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 16:19:07",
       "https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt"
     ],
@@ -177,16 +187,6 @@
     [
       "Whatever happened to sandboxfs?",
       "https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 15:28:57",
-      "https://lobste.rs/s/v6bdse/source_code_sandboxing"
-    ],
-    [
-      "Source code sandboxing",
-      "https://kristaps.bsd.lv/devsecflops/"
     ]
   ],
   [
