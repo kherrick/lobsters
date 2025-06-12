@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 07:50:55](https://lobste.rs/s/omykfd/how_much_eu_is_dns4eu) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 * [2025-06-12, 06:55:58](https://lobste.rs/s/w7fnqq/type_based_vs_value_based_reflection) - [Type-based vs Value-based Reflection](https://brevzin.github.io/c++/2025/06/09/reflection-ts/)
 * [2025-06-12, 06:49:35](https://lobste.rs/s/d7wjan/could_llm_create_full_domain_specific) - [Could an LLM create a full Domain-Specific Language?](https://modeling-languages.com/vibe-dsling/)
 * [2025-06-12, 06:39:33](https://lobste.rs/s/p2mqon/ai_boom_drives_150_surge_indirect) - [AI Boom Drives 150% Surge in Indirect Emissions at Major Tech Firms, UN Warns](https://esgnews.com/ai-boom-drives-150-surge-in-indirect-emissions-at-major-tech-firms-un-warns/)
