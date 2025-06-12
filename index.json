@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 11:40:03",
+      "https://lobste.rs/s/0jgelq/analysing_fit_data_with_perl_producing"
+    ],
+    [
+      "Analysing FIT data with Perl: producing PNG plots",
+      "https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 10:56:36",
       "https://lobste.rs/s/5v0594/distributed_data_protocol_ddp"
     ],
@@ -207,16 +217,6 @@
     [
       "Firefox OS's story from a mozilla insider not working on the project (2024)",
       "https://ludovic.hirlimann.net/2024/01/firefox-oss-story-from-mozila-insider.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 07:13:56",
-      "https://lobste.rs/s/a0ja5n/patterns_for_failure_free_bounded_space"
-    ],
-    [
-      "Patterns for failure-free, bounded-space, and bounded-time programming",
-      "https://dercuano.github.io/notes/failure-free.html"
     ]
   ],
   [
