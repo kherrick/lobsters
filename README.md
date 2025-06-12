@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 * [2025-06-12, 09:03:47](https://lobste.rs/s/8ohkdb/aosp_project_is_coming_end) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
-* [2025-06-12, 08:44:41](https://lobste.rs/s/7kv4fl/lightweight_merge_queue_using_github) - [A Lightweight Merge Queue using GitHub Actions](https://sketch.dev/blog/lightweight-merge-queue)
 * [2025-06-12, 08:13:31](https://lobste.rs/s/qvqykb/ruby_on_rails_audit_complete) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
 * [2025-06-12, 07:56:04](https://lobste.rs/s/lz217g/case_emergency_break_glass) - [In case of emergency, break glass](https://morrick.me/archives/10048)
 * [2025-06-12, 07:50:55](https://lobste.rs/s/omykfd/how_much_eu_is_dns4eu) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)

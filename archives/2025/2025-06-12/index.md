@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 * [2025-06-12, 09:03:47](https://lobste.rs/s/8ohkdb/aosp_project_is_coming_end) - [AOSP project is coming to an end](https://old.reddit.com/r/StallmanWasRight/comments/1l8rhon/aosp_project_is_coming_to_an_end/)
 * [2025-06-12, 08:44:41](https://lobste.rs/s/7kv4fl/lightweight_merge_queue_using_github) - [A Lightweight Merge Queue using GitHub Actions](https://sketch.dev/blog/lightweight-merge-queue)
