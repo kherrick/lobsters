@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-12, 02:27:30",
+      "https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada"
+    ],
+    [
+      "Writing a Verified Postfix Calculator in Ada/SPARK",
+      "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html"
+    ]
+  ],
+  [
+    [
       "2025-06-11, 20:17:32",
       "https://lobste.rs/s/r0spkl/raku_s_core"
     ],
@@ -77,16 +87,6 @@
     [
       "Verse Language",
       "https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference"
-    ]
-  ],
-  [
-    [
-      "2025-06-11, 15:02:37",
-      "https://lobste.rs/s/adl5af/proving_completeness_eventually"
-    ],
-    [
-      "Proving completeness of an eventually perfect failure detector in Lean4",
-      "https://protocols-made-fun.com/lean/2025/06/10/lean-epfd-completeness.html"
     ]
   ],
   [
