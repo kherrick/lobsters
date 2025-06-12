@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-12](index.md)
 
+* [2025-06-12, 08:13:31](https://lobste.rs/s/qvqykb/ruby_on_rails_audit_complete) - [Ruby on Rails Audit Complete](https://ostif.org/ruby-on-rails-audit-complete/)
+* [2025-06-12, 07:56:04](https://lobste.rs/s/lz217g/case_emergency_break_glass) - [In case of emergency, break glass](https://morrick.me/archives/10048)
 * [2025-06-12, 07:50:55](https://lobste.rs/s/omykfd/how_much_eu_is_dns4eu) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
 * [2025-06-12, 06:55:58](https://lobste.rs/s/w7fnqq/type_based_vs_value_based_reflection) - [Type-based vs Value-based Reflection](https://brevzin.github.io/c++/2025/06/09/reflection-ts/)
 * [2025-06-12, 06:49:35](https://lobste.rs/s/d7wjan/could_llm_create_full_domain_specific) - [Could an LLM create a full Domain-Specific Language?](https://modeling-languages.com/vibe-dsling/)
