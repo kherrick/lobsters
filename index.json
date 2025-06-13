@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-13, 18:51:59",
+      "https://lobste.rs/s/hzlk4l/user_space_interrupts_2021"
+    ],
+    [
+      "User-space interrupts (2021)",
+      "https://lwn.net/Articles/871113/"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 18:33:35",
       "https://lobste.rs/s/lied71/fastest_way_detect_vowel_string"
     ],
@@ -217,16 +227,6 @@
     [
       "Frequent reauth doesn't make you more secure",
       "https://tailscale.com/blog/frequent-reath-security"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 18:41:09",
-      "https://lobste.rs/s/yfqldg/architecture_decision_records"
-    ],
-    [
-      "Architecture Decision Records",
-      "https://www.beflagrant.com/blog/adrs"
     ]
   ],
   [
