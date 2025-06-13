@@ -1,17 +1,18 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-13, 02:23:44](https://lobste.rs/s/n8gpfg/three_algorithms_for_ysh_syntax) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
+* [2025-06-13, 02:06:21](https://lobste.rs/s/vfjnar/what_i_talk_about_when_i_talk_about_irs) - [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
+* [2025-06-13, 01:38:58](https://lobste.rs/s/thpska/jemalloc_postmortem) - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 23:39:51](https://lobste.rs/s/ngqs4g/case_for_software_craftsmanship_era) - [The Case for Software Craftsmanship in the Era of Vibes](https://zed.dev/blog/software-craftsmanship-in-the-era-of-vibes)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
-* [2025-06-12, 18:30:39](https://lobste.rs/s/o5hhsn/use_after_free_can_bcm_subsystem_leading) - [Use-after-free in CAN BCM subsystem leading to information disclosure (CVE-2023-52922)](https://allelesecurity.com/use-after-free-vulnerability-in-can-bcm-subsystem-leading-to-information-disclosure-cve-2023-52922/)
 * [2025-06-12, 16:54:39](https://lobste.rs/s/vwzni0/diceomatic_dsl_for_making_children_s_dice) - [diceomatic: a DSL for making children's dice games](https://robertheaton.com/diceomatic/)
 * [2025-06-12, 16:19:07](https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 15:45:35](https://lobste.rs/s/27gwjc/reflections_on_sudoku_impossibility) - [Reflections on Sudoku, Or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
 * [2025-06-12, 14:47:22](https://lobste.rs/s/kvg7od/python_language_summit_2025) - [The Python Language Summit 2025](https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html)
 * [2025-06-12, 13:09:50](https://lobste.rs/s/jumrvj/cp_m_2_2_cp_m_3_0_cp_m_86_concurrent_cp_m_86) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
 * [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
-* [2025-06-12, 11:40:03](https://lobste.rs/s/0jgelq/analysing_fit_data_with_perl_producing) - [Analysing FIT data with Perl: producing PNG plots](https://peateasea.de/analysing-fit-data-with-perl-producing-png-plots/)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
 * [2025-06-12, 07:50:55](https://lobste.rs/s/omykfd/how_much_eu_is_dns4eu) - [How much EU is in DNS4EU?](https://techlog.jenslink.net/posts/dns4eu/)
@@ -24,7 +25,6 @@
 * [2025-06-11, 15:28:46](https://lobste.rs/s/jiii0u/verse_language) - [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
 * [2025-06-11, 11:45:53](https://lobste.rs/s/ee4ufm/avoiding_generative_models_is_rational) - [Avoiding generative models is the rational and responsible thing to do](https://www.baldurbjarnason.com/2025/followup-on-trusting-your-own-judgement/)
-* [2025-06-11, 05:48:00](https://lobste.rs/s/dfshg3/gnome_introducing_stronger) - [GNOME introducing stronger dependencies on systemd](https://blogs.gnome.org/adrianvovk/2025/06/10/gnome-systemd-dependencies/)
 
 ## [Archives](archives/index.md)
 
