@@ -2,6 +2,7 @@
 
 * [2025-06-13, 15:44:42](https://lobste.rs/s/tdjxvv/modularizing_george_cave_s_eink_energy) - [Modularizing George Cave's eInk Energy Dashboard](https://slipway.co/blog/eink-energy-dashboard)
 * [2025-06-13, 15:33:57](https://lobste.rs/s/mgampd/html_warden_html_based_wiki) - [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/)
+* [2025-06-13, 15:12:30](https://lobste.rs/s/oq0ui4/hat_spectre_sat_solvers) - [The Hat, the Spectre and SAT solvers](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)
 * [2025-06-13, 14:23:45](https://lobste.rs/s/unsbmk/oxcaml_jane_street_s_extension_ocaml_is) - [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org)
 * [2025-06-13, 14:06:38](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor) - [Tattoy: a text-based terminal compositor](https://tattoy.sh/)
@@ -19,7 +20,6 @@
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 * [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
-* [2025-06-12, 16:19:07](https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
 * [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 * [2025-06-12, 09:21:05](https://lobste.rs/s/9hzjeh/agentic_coding_recommendations) - [Agentic Coding Recommendations](https://lucumr.pocoo.org/2025/6/12/agentic-coding/)
