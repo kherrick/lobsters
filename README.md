@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
 * [2025-06-13, 02:23:44](https://lobste.rs/s/n8gpfg/three_algorithms_for_ysh_syntax) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
 * [2025-06-13, 02:06:21](https://lobste.rs/s/vfjnar/what_i_talk_about_when_i_talk_about_irs) - [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
@@ -21,7 +22,6 @@
 * [2025-06-12, 06:29:12](https://lobste.rs/s/e6nh2g/linus_torvalds_rejects_idea_enabling) - [Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel](https://www.phoronix.com/news/Linux-DAMON-By-Default-No)
 * [2025-06-12, 05:48:09](https://lobste.rs/s/x9wlaa/eu_launches_eu_based_privacy_focused_dns) - [EU launches EU-based, privacy-focused DNS resolution service](https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/)
 * [2025-06-12, 02:27:30](https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada) - [Writing a Verified Postfix Calculator in Ada/SPARK](https://pyjarrett.github.io/2025/06/10/postfix-calculator.html)
-* [2025-06-11, 20:17:32](https://lobste.rs/s/r0spkl/raku_s_core) - [Raku's \"core\"](https://gist.github.com/raiph/849a4a9d8875542fb86df2b2eda89296)
 * [2025-06-11, 18:04:29](https://lobste.rs/s/aadxvm/whatever_happened_sandboxfs) - [Whatever happened to sandboxfs?](https://blogsystem5.substack.com/p/whatever-happened-to-sandboxfs)
 * [2025-06-11, 15:28:46](https://lobste.rs/s/jiii0u/verse_language) - [Verse Language](https://dev.epicgames.com/documentation/en-us/fortnite/verse-language-reference)
 * [2025-06-11, 14:10:57](https://lobste.rs/s/26ya82/localhost_tracking_explained_it_could) - [“Localhost tracking” explained. It could cost Meta €32b](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could)
