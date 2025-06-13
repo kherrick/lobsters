@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-06-13, 15:12:30",
+      "https://lobste.rs/s/oq0ui4/hat_spectre_sat_solvers"
+    ],
+    [
+      "The Hat, the Spectre and SAT solvers",
+      "https://www.nhatcher.com/post/on-hats-and-sats/"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 14:44:09",
       "https://lobste.rs/s/ztnvjl/introducing_twom_database_format"
     ],
@@ -187,16 +197,6 @@
     [
       "Architecture Decision Records",
       "https://www.beflagrant.com/blog/adrs"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 16:19:07",
-      "https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt"
-    ],
-    [
-      "Solving LinkedIn Queens with SMT",
-      "https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/"
     ]
   ],
   [
