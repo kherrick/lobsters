@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 15:33:57](https://lobste.rs/s/mgampd/html_warden_html_based_wiki) - [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/)
 * [2025-06-13, 15:12:30](https://lobste.rs/s/oq0ui4/hat_spectre_sat_solvers) - [The Hat, the Spectre and SAT solvers](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)
 * [2025-06-13, 14:44:03](https://lobste.rs/s/kbcp5p/100_years_zermelo_s_axiom_choice_what_was) - [100 years of Zermelo’s axiom of choice: What was the problem with it?](https://research.mietek.io/mi.MartinLof2006.html)

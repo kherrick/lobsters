@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-13, 15:33:57](https://lobste.rs/s/mgampd/html_warden_html_based_wiki) - [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/)
 * [2025-06-13, 15:12:30](https://lobste.rs/s/oq0ui4/hat_spectre_sat_solvers) - [The Hat, the Spectre and SAT solvers](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)
-* [2025-06-13, 14:44:03](https://lobste.rs/s/kbcp5p/100_years_zermelo_s_axiom_choice_what_was) - [100 years of Zermelo’s axiom of choice: What was the problem with it?](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:23:45](https://lobste.rs/s/unsbmk/oxcaml_jane_street_s_extension_ocaml_is) - [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org)
 * [2025-06-13, 14:06:38](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor) - [Tattoy: a text-based terminal compositor](https://tattoy.sh/)
 * [2025-06-13, 13:28:21](https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents) - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
