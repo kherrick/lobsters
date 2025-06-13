@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 08:27:14](https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend)
 * [2025-06-13, 08:12:05](https://lobste.rs/s/yy5auy/radicle_desktop_graphical_user) - [Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop)
 * [2025-06-13, 05:54:55](https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously) - [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 05:39:12](https://lobste.rs/s/qe1hnb/quantum_computing_without_linear) - [Quantum Computing without the Linear Algebra](https://eprint.iacr.org/2025/1091.pdf)
