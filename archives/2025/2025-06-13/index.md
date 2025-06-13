@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-13](index.md)
 
+* [2025-06-13, 05:39:12](https://lobste.rs/s/qe1hnb/quantum_computing_without_linear) - [Quantum Computing without the Linear Algebra](https://eprint.iacr.org/2025/1091.pdf)
 * [2025-06-13, 05:26:35](https://lobste.rs/s/1athqu/rendering_crispy_text_on_gpu) - [Rendering crispy text on the GPU](https://osor.io/text)
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-13, 05:39:12](https://lobste.rs/s/qe1hnb/quantum_computing_without_linear) - [Quantum Computing without the Linear Algebra](https://eprint.iacr.org/2025/1091.pdf)
 * [2025-06-13, 05:26:35](https://lobste.rs/s/1athqu/rendering_crispy_text_on_gpu) - [Rendering crispy text on the GPU](https://osor.io/text)
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
@@ -12,7 +13,6 @@
 * [2025-06-12, 18:41:09](https://lobste.rs/s/yfqldg/architecture_decision_records) - [Architecture Decision Records](https://www.beflagrant.com/blog/adrs)
 * [2025-06-12, 16:54:39](https://lobste.rs/s/vwzni0/diceomatic_dsl_for_making_children_s_dice) - [diceomatic: a DSL for making children's dice games](https://robertheaton.com/diceomatic/)
 * [2025-06-12, 16:19:07](https://lobste.rs/s/inheuv/solving_linkedin_queens_with_smt) - [Solving LinkedIn Queens with SMT](https://buttondown.com/hillelwayne/archive/solving-linkedin-queens-with-smt/)
-* [2025-06-12, 15:45:35](https://lobste.rs/s/27gwjc/reflections_on_sudoku_impossibility) - [Reflections on Sudoku, Or the Impossibility of Systematizing Thought](https://rjp.io/blog/2025-06-07-reflections-on-sudoku)
 * [2025-06-12, 14:47:22](https://lobste.rs/s/kvg7od/python_language_summit_2025) - [The Python Language Summit 2025](https://pyfound.blogspot.com/2025/06/python-language-summit-2025.html)
 * [2025-06-12, 13:09:50](https://lobste.rs/s/jumrvj/cp_m_2_2_cp_m_3_0_cp_m_86_concurrent_cp_m_86) - [CP/M 2.2, CP/M 3.0, CP/M-86, Concurrent CP/M-86 listings by Digital Research](http://www.bitsavers.org/pdf/digitalResearch/CPM_Listings)
 * [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
