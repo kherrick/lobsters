@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-13, 13:28:21",
+      "https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents"
+    ],
+    [
+      "Design Patterns for Securing LLM Agents against Prompt Injections",
+      "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/"
+    ]
+  ],
+  [
+    [
       "2025-06-13, 08:27:14",
       "https://lobste.rs/s/dicru5/what_are_you_doing_this_weekend"
     ],
@@ -227,16 +237,6 @@
     [
       "EU launches EU-based, privacy-focused DNS resolution service",
       "https://www.helpnetsecurity.com/2025/06/09/eu-launches-eu-based-privacy-focused-dns-resolution-service/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 02:27:30",
-      "https://lobste.rs/s/uwhv3o/writing_verified_postfix_calculator_ada"
-    ],
-    [
-      "Writing a Verified Postfix Calculator in Ada/SPARK",
-      "https://pyjarrett.github.io/2025/06/10/postfix-calculator.html"
     ]
   ],
   [
