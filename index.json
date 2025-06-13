@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-12, 18:30:39",
+      "https://lobste.rs/s/o5hhsn/use_after_free_can_bcm_subsystem_leading"
+    ],
+    [
+      "Use-after-free in CAN BCM subsystem leading to information disclosure (CVE-2023-52922)",
+      "https://allelesecurity.com/use-after-free-vulnerability-in-can-bcm-subsystem-leading-to-information-disclosure-cve-2023-52922/"
+    ]
+  ],
+  [
+    [
       "2025-06-12, 16:54:39",
       "https://lobste.rs/s/vwzni0/diceomatic_dsl_for_making_children_s_dice"
     ],
@@ -127,16 +137,6 @@
     [
       "Agentic Coding Recommendations",
       "https://lucumr.pocoo.org/2025/6/12/agentic-coding/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 08:13:31",
-      "https://lobste.rs/s/qvqykb/ruby_on_rails_audit_complete"
-    ],
-    [
-      "Ruby on Rails Audit Complete",
-      "https://ostif.org/ruby-on-rails-audit-complete/"
     ]
   ],
   [
