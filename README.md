@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-14, 16:36:55](https://lobste.rs/s/9e8spk/todo_txt_tasks_my_trmnl) - [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
 * [2025-06-14, 13:05:59](https://lobste.rs/s/riogyw/meta_analysis_three_different_notions) - [A meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 12:43:52](https://lobste.rs/s/rrzmo1/exploring_amiga_blog_series_2018) - [\"Exploring the Amiga\" blog series (2018)](https://www.thedigitalcatonline.com/categories/amiga/)
 * [2025-06-14, 12:21:33](https://lobste.rs/s/az487i/adding_public_transport_data_transitous) - [Adding public transport data to Transitous](https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html)
@@ -8,7 +9,6 @@
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 06:17:48](https://lobste.rs/s/btlkeb/datalog_rust) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-14, 06:15:20](https://lobste.rs/s/4tmzdy/implementing_logic_programming) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
-* [2025-06-14, 06:15:19](https://lobste.rs/s/ftjjs7/resa_transparent_reasoning_models_via) - [Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967)
 * [2025-06-14, 04:57:59](https://lobste.rs/s/knxypp/apl_style_patterns_anti_patterns) - [APL Style: Patterns/Anti-patterns](https://sway.cloud.microsoft/b1pRwmzuGjqB30On)
 * [2025-06-14, 02:42:47](https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store) - [filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
