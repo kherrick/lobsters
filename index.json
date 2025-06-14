@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-14, 18:49:15",
+      "https://lobste.rs/s/x4dj2z/inside_apollo_8_ball_fdai_flight_director"
+    ],
+    [
+      "Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)",
+      "http://www.righto.com/2025/06/inside-apollo-fdai.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-14, 18:47:55",
+      "https://lobste.rs/s/bp7rbk/how_final_cartridge_iii_freezer_works"
+    ],
+    [
+      "How the Final Cartridge III Freezer works",
+      "https://www.pagetable.com/?p=1810"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 18:27:31",
       "https://lobste.rs/s/s7katz/mosh_mobile_shell"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-13, 05:54:55",
-      "https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously"
-    ],
-    [
-      "If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system",
-      "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html"
-    ]
-  ],
-  [
-    [
       "2025-06-13, 03:58:47",
       "https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "jemalloc Postmortem",
       "https://jasone.github.io/2025/06/12/jemalloc-postmortem/"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 20:16:58",
-      "https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my"
-    ],
-    [
-      "Cursor YOLO deleted everything in my computer",
-      "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131"
     ]
   ]
 ]
