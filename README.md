@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-14, 13:05:59](https://lobste.rs/s/riogyw/meta_analysis_three_different_notions) - [A meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 12:43:52](https://lobste.rs/s/rrzmo1/exploring_amiga_blog_series_2018) - [\"Exploring the Amiga\" blog series (2018)](https://www.thedigitalcatonline.com/categories/amiga/)
 * [2025-06-14, 12:21:33](https://lobste.rs/s/az487i/adding_public_transport_data_transitous) - [Adding public transport data to Transitous](https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html)
 * [2025-06-14, 10:54:12](https://lobste.rs/s/lwiqw7/model_once_represent_everywhere_uda) - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
@@ -24,7 +25,6 @@
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 01:38:58](https://lobste.rs/s/thpska/jemalloc_postmortem) - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
-* [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
 
 ## [Archives](archives/index.md)
 
