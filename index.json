@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-14, 13:05:59",
+      "https://lobste.rs/s/riogyw/meta_analysis_three_different_notions"
+    ],
+    [
+      "A meta-analysis of three different notions of software complexity",
+      "https://typesanitizer.com/blog/complexity-definitions.html"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 12:43:52",
       "https://lobste.rs/s/rrzmo1/exploring_amiga_blog_series_2018"
     ],
@@ -237,16 +247,6 @@
     [
       "Cursor YOLO deleted everything in my computer",
       "https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131"
-    ]
-  ],
-  [
-    [
-      "2025-06-12, 19:41:54",
-      "https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more"
-    ],
-    [
-      "Frequent reauth doesn't make you more secure",
-      "https://tailscale.com/blog/frequent-reath-security"
     ]
   ]
 ]
