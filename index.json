@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-06-14, 04:02:19",
-      "https://lobste.rs/s/octsu0/builder_ai_did_not_fake_ai_with_700"
-    ],
-    [
-      "Builder.ai did not “fake AI with 700 engineers”",
-      "https://blog.pragmaticengineer.com/builder-ai-did-not-fake-ai/"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 02:42:47",
       "https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store"
     ],
@@ -107,6 +97,16 @@
     [
       "strace tips for better debugging",
       "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/"
+    ]
+  ],
+  [
+    [
+      "2025-06-13, 16:49:11",
+      "https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator"
+    ],
+    [
+      "StarMalloc: verified memory allocator",
+      "https://dl.acm.org/doi/10.1145/3689773"
     ]
   ],
   [
