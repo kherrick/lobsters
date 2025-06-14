@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-14, 04:57:59](https://lobste.rs/s/knxypp/apl_style_patterns_anti_patterns) - [APL Style: Patterns/Anti-patterns](https://sway.cloud.microsoft/b1pRwmzuGjqB30On)
 * [2025-06-14, 02:42:47](https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store) - [filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
 * [2025-06-14, 00:56:08](https://lobste.rs/s/9gjyi0/solving_linkedin_queens_with_apl) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
@@ -23,7 +24,6 @@
 * [2025-06-13, 01:38:58](https://lobste.rs/s/thpska/jemalloc_postmortem) - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
-* [2025-06-12, 12:58:53](https://lobste.rs/s/20bv3j/rumour_google_intends_discontinue) - [Rumour: Google intends to discontinue the Android Open Source Project](https://www.osnews.com/story/142553/rumour-google-intends-to-discontinue-the-android-open-source-project/)
 * [2025-06-12, 10:17:12](https://lobste.rs/s/qaiehy/next_js_15_1_is_unusable_outside_vercel) - [Next.js 15.1+ is unusable outside of Vercel](https://omarabid.com/nextjs-vercel)
 
 ## [Archives](archives/index.md)
