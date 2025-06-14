@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-13, 18:51:59](https://lobste.rs/s/hzlk4l/user_space_interrupts_2021) - [User-space interrupts (2021)](https://lwn.net/Articles/871113/)
+* [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
+* [2025-06-14, 00:56:08](https://lobste.rs/s/9gjyi0/solving_linkedin_queens_with_apl) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-13, 18:33:35](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
 * [2025-06-13, 18:23:08](https://lobste.rs/s/c7udeu/strace_tips_for_better_debugging) - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
 * [2025-06-13, 16:49:11](https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator) - [StarMalloc: verified memory allocator](https://dl.acm.org/doi/10.1145/3689773)
@@ -19,7 +20,6 @@
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 03:30:19](https://lobste.rs/s/1rfknz/macos_tahoe_brings_new_disk_image_format) - [macOS Tahoe brings a new disk image format](https://eclecticlight.co/2025/06/12/macos-tahoe-brings-a-new-disk-image-format/)
 * [2025-06-13, 02:23:44](https://lobste.rs/s/n8gpfg/three_algorithms_for_ysh_syntax) - [Three Algorithms for YSH Syntax Highlighting](https://codeberg.org/oils/oils.vim/src/branch/main/doc/algorithms.md)
-* [2025-06-13, 02:06:21](https://lobste.rs/s/vfjnar/what_i_talk_about_when_i_talk_about_irs) - [What I talk about when I talk about IRs](https://bernsteinbear.com/blog/irs/)
 * [2025-06-13, 01:38:58](https://lobste.rs/s/thpska/jemalloc_postmortem) - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
 * [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 * [2025-06-12, 19:41:54](https://lobste.rs/s/hnetyh/frequent_reauth_doesn_t_make_you_more) - [Frequent reauth doesn't make you more secure](https://tailscale.com/blog/frequent-reath-security)
