@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-14, 02:42:47",
+      "https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store"
+    ],
+    [
+      "filedb: Disk Based Key-Value Store Inspired by Bitcask",
+      "https://github.com/rajivharlalka/filedb"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 01:18:11",
       "https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running"
     ],
@@ -67,16 +77,6 @@
     [
       "HTML WARDen (an HTML-based wiki)",
       "https://ratfactor.com/htmlwarden/"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 15:12:30",
-      "https://lobste.rs/s/oq0ui4/hat_spectre_sat_solvers"
-    ],
-    [
-      "The Hat, the Spectre and SAT solvers",
-      "https://www.nhatcher.com/post/on-hats-and-sats/"
     ]
   ],
   [
