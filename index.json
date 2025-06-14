@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-06-14, 06:15:19",
+      "https://lobste.rs/s/ftjjs7/resa_transparent_reasoning_models_via"
+    ],
+    [
+      "Resa: Transparent Reasoning Models via SAEs",
+      "https://arxiv.org/abs/2506.09967"
+    ]
+  ],
+  [
+    [
       "2025-06-14, 04:57:59",
       "https://lobste.rs/s/knxypp/apl_style_patterns_anti_patterns"
     ],
@@ -127,16 +137,6 @@
     [
       "strace tips for better debugging",
       "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 16:49:11",
-      "https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator"
-    ],
-    [
-      "StarMalloc: verified memory allocator",
-      "https://dl.acm.org/doi/10.1145/3689773"
     ]
   ],
   [
