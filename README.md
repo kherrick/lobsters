@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-14, 02:42:47](https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store) - [filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
 * [2025-06-14, 00:56:08](https://lobste.rs/s/9gjyi0/solving_linkedin_queens_with_apl) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-13, 18:33:35](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
@@ -7,7 +8,6 @@
 * [2025-06-13, 16:49:11](https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator) - [StarMalloc: verified memory allocator](https://dl.acm.org/doi/10.1145/3689773)
 * [2025-06-13, 15:44:42](https://lobste.rs/s/tdjxvv/modularizing_george_cave_s_eink_energy) - [Modularizing George Cave's eInk Energy Dashboard](https://slipway.co/blog/eink-energy-dashboard)
 * [2025-06-13, 15:33:57](https://lobste.rs/s/mgampd/html_warden_html_based_wiki) - [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/)
-* [2025-06-13, 15:12:30](https://lobste.rs/s/oq0ui4/hat_spectre_sat_solvers) - [The Hat, the Spectre and SAT solvers](https://www.nhatcher.com/post/on-hats-and-sats/)
 * [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)
 * [2025-06-13, 14:44:03](https://lobste.rs/s/kbcp5p/100_years_zermelo_s_axiom_choice_what_was) - [100 years of Zermelo’s axiom of choice: What was the problem with it?](https://research.mietek.io/mi.MartinLof2006.html)
 * [2025-06-13, 14:23:45](https://lobste.rs/s/unsbmk/oxcaml_jane_street_s_extension_ocaml_is) - [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org)
