@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-14, 18:49:15](https://lobste.rs/s/x4dj2z/inside_apollo_8_ball_fdai_flight_director) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](http://www.righto.com/2025/06/inside-apollo-fdai.html)
+* [2025-06-14, 18:47:55](https://lobste.rs/s/bp7rbk/how_final_cartridge_iii_freezer_works) - [How the Final Cartridge III Freezer works](https://www.pagetable.com/?p=1810)
 * [2025-06-14, 18:27:31](https://lobste.rs/s/s7katz/mosh_mobile_shell) - [Mosh: the mobile shell](https://mosh.org)
 * [2025-06-14, 18:00:47](https://lobste.rs/s/0nfjph/self_referential_abstractions_quick) - [Self-referential abstractions: A quick look at the wacky epistemology of analog circuitry](https://lcamtuf.coredump.cx/blog/abstractions/)
 * [2025-06-14, 16:36:55](https://lobste.rs/s/9e8spk/todo_txt_tasks_my_trmnl) - [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
@@ -21,10 +23,8 @@
 * [2025-06-13, 14:06:38](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor) - [Tattoy: a text-based terminal compositor](https://tattoy.sh/)
 * [2025-06-13, 13:28:21](https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents) - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
 * [2025-06-13, 08:12:05](https://lobste.rs/s/yy5auy/radicle_desktop_graphical_user) - [Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge](https://radicle.xyz/desktop)
-* [2025-06-13, 05:54:55](https://lobste.rs/s/1xxn8f/if_moon_were_only_1_pixel_tediously) - [If the Moon Were Only 1 Pixel - A tediously accurate map of the solar system](https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 * [2025-06-13, 03:58:47](https://lobste.rs/s/xe4m4f/asterinas_linux_abi_compatible_rust) - [Asterinas: A Linux ABI-compatible, Rust-based framekernel OS](https://asterinas.github.io/2025/06/04/kernel-memory-safety-mission-accomplished.html)
 * [2025-06-13, 01:38:58](https://lobste.rs/s/thpska/jemalloc_postmortem) - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/)
-* [2025-06-12, 20:16:58](https://lobste.rs/s/wo7nug/cursor_yolo_deleted_everything_my) - [Cursor YOLO deleted everything in my computer](https://forum.cursor.com/t/cursor-yolo-deleted-everything-in-my-computer/103131)
 
 ## [Archives](archives/index.md)
 

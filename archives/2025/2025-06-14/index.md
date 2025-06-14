@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 18:49:15](https://lobste.rs/s/x4dj2z/inside_apollo_8_ball_fdai_flight_director) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](http://www.righto.com/2025/06/inside-apollo-fdai.html)
+* [2025-06-14, 18:47:55](https://lobste.rs/s/bp7rbk/how_final_cartridge_iii_freezer_works) - [How the Final Cartridge III Freezer works](https://www.pagetable.com/?p=1810)
 * [2025-06-14, 18:27:31](https://lobste.rs/s/s7katz/mosh_mobile_shell) - [Mosh: the mobile shell](https://mosh.org)
 * [2025-06-14, 18:00:47](https://lobste.rs/s/0nfjph/self_referential_abstractions_quick) - [Self-referential abstractions: A quick look at the wacky epistemology of analog circuitry](https://lcamtuf.coredump.cx/blog/abstractions/)
 * [2025-06-14, 16:36:55](https://lobste.rs/s/9e8spk/todo_txt_tasks_my_trmnl) - [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
