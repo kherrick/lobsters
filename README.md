@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-14, 10:19:03](https://lobste.rs/s/qz1njr/html_spec_change_escaping_attributes) - [HTML spec change: escaping < and > in attributes](https://developer.chrome.com/blog/escape-attributes)
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 06:17:48](https://lobste.rs/s/btlkeb/datalog_rust) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-14, 06:15:20](https://lobste.rs/s/4tmzdy/implementing_logic_programming) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
@@ -10,7 +11,6 @@
 * [2025-06-14, 00:56:08](https://lobste.rs/s/9gjyi0/solving_linkedin_queens_with_apl) - [Solving LinkedIn Queens with APL](https://pitr.ca/2025-06-14-queens)
 * [2025-06-13, 18:33:35](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
 * [2025-06-13, 18:23:08](https://lobste.rs/s/c7udeu/strace_tips_for_better_debugging) - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
-* [2025-06-13, 16:49:11](https://lobste.rs/s/jpfyd6/starmalloc_verified_memory_allocator) - [StarMalloc: verified memory allocator](https://dl.acm.org/doi/10.1145/3689773)
 * [2025-06-13, 15:44:42](https://lobste.rs/s/tdjxvv/modularizing_george_cave_s_eink_energy) - [Modularizing George Cave's eInk Energy Dashboard](https://slipway.co/blog/eink-energy-dashboard)
 * [2025-06-13, 15:33:57](https://lobste.rs/s/mgampd/html_warden_html_based_wiki) - [HTML WARDen (an HTML-based wiki)](https://ratfactor.com/htmlwarden/)
 * [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)

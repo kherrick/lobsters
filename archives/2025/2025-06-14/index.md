@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-14](index.md)
 
+* [2025-06-14, 10:19:03](https://lobste.rs/s/qz1njr/html_spec_change_escaping_attributes) - [HTML spec change: escaping < and > in attributes](https://developer.chrome.com/blog/escape-attributes)
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 06:17:48](https://lobste.rs/s/btlkeb/datalog_rust) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-14, 06:15:20](https://lobste.rs/s/4tmzdy/implementing_logic_programming) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
