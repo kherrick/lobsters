@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 07:05:12",
+      "https://lobste.rs/s/ui5omv/art_lisp_writing"
+    ],
+    [
+      "The Art of Lisp & Writing",
+      "https://www.dreamsongs.com/ArtOfLisp.html"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 00:08:11",
       "https://lobste.rs/s/iiimxs/modular_what_about_mlir_compiler"
     ],
@@ -187,16 +197,6 @@
     [
       "strace tips for better debugging",
       "https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 14:44:09",
-      "https://lobste.rs/s/ztnvjl/introducing_twom_database_format"
-    ],
-    [
-      "Introducing the twom database format",
-      "https://www.fastmail.com/blog/introducing-twom/"
     ]
   ],
   [
