@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 19:52:44",
+      "https://lobste.rs/s/qaqvjx/how_fast_can_rpython_gc_allocate"
+    ],
+    [
+      "How fast can the RPython GC allocate?",
+      "https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 19:37:18",
       "https://lobste.rs/s/ogh0zp/breaking_down_echoleak_first_zero_click"
     ],
@@ -187,16 +197,6 @@
     [
       "Adding public transport data to Transitous",
       "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 10:54:12",
-      "https://lobste.rs/s/lwiqw7/model_once_represent_everywhere_uda"
-    ],
-    [
-      "Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix",
-      "https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d"
     ]
   ],
   [
