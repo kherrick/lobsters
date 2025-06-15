@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-15, 19:52:44](https://lobste.rs/s/qaqvjx/how_fast_can_rpython_gc_allocate) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
 * [2025-06-15, 19:37:18](https://lobste.rs/s/ogh0zp/breaking_down_echoleak_first_zero_click) - [Breaking down ‘EchoLeak’, the First Zero-Click AI Vulnerability Enabling Data Exfiltration from Microsoft 365 Copilot](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 * [2025-06-15, 19:28:26](https://lobste.rs/s/0j5y9e/quick_takes_on_gcp_public_incident_write) - [Quick takes on the GCP public incident write-up](https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/)
 * [2025-06-15, 19:00:04](https://lobste.rs/s/d3rzjl/writing_toy_software_is_joy) - [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/)
@@ -19,7 +20,6 @@
 * [2025-06-14, 16:36:55](https://lobste.rs/s/9e8spk/todo_txt_tasks_my_trmnl) - [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
 * [2025-06-14, 13:05:59](https://lobste.rs/s/riogyw/meta_analysis_three_different_notions) - [A meta-analysis of three different notions of software complexity](https://typesanitizer.com/blog/complexity-definitions.html)
 * [2025-06-14, 12:21:33](https://lobste.rs/s/az487i/adding_public_transport_data_transitous) - [Adding public transport data to Transitous](https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html)
-* [2025-06-14, 10:54:12](https://lobste.rs/s/lwiqw7/model_once_represent_everywhere_uda) - [Model Once, Represent Everywhere: UDA (Unified Data Architecture) at Netflix](https://netflixtechblog.com/uda-unified-data-architecture-6a6aee261d8d)
 * [2025-06-14, 10:19:03](https://lobste.rs/s/qz1njr/html_spec_change_escaping_attributes) - [HTML spec change: escaping < and > in attributes](https://developer.chrome.com/blog/escape-attributes)
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 06:17:48](https://lobste.rs/s/btlkeb/datalog_rust) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
