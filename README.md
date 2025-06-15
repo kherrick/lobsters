@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-15, 07:05:12](https://lobste.rs/s/ui5omv/art_lisp_writing) - [The Art of Lisp & Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 00:08:11](https://lobste.rs/s/iiimxs/modular_what_about_mlir_compiler) - [Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure)
 * [2025-06-14, 18:49:15](https://lobste.rs/s/x4dj2z/inside_apollo_8_ball_fdai_flight_director) - [Inside the Apollo \"8-Ball\" FDAI (Flight Director / Attitude Indicator)](http://www.righto.com/2025/06/inside-apollo-fdai.html)
 * [2025-06-14, 18:47:55](https://lobste.rs/s/bp7rbk/how_final_cartridge_iii_freezer_works) - [How the Final Cartridge III Freezer works](https://www.pagetable.com/?p=1810)
@@ -19,7 +20,6 @@
 * [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
 * [2025-06-13, 18:33:35](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
 * [2025-06-13, 18:23:08](https://lobste.rs/s/c7udeu/strace_tips_for_better_debugging) - [strace tips for better debugging](https://rrampage.github.io/2025/06/13/strace-tips-for-better-debugging/)
-* [2025-06-13, 14:44:09](https://lobste.rs/s/ztnvjl/introducing_twom_database_format) - [Introducing the twom database format](https://www.fastmail.com/blog/introducing-twom/)
 * [2025-06-13, 14:23:45](https://lobste.rs/s/unsbmk/oxcaml_jane_street_s_extension_ocaml_is) - [OxCaml, Jane Street's extension of OCaml is now open-source](https://oxcaml.org)
 * [2025-06-13, 14:06:38](https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor) - [Tattoy: a text-based terminal compositor](https://tattoy.sh/)
 * [2025-06-13, 13:28:21](https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents) - [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/)
