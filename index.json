@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 14:38:00",
+      "https://lobste.rs/s/frq78e/optimizing_for_longevity"
+    ],
+    [
+      "Optimizing for Longevity",
+      "https://ente.io/blog/longevity/"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 14:08:45",
       "https://lobste.rs/s/dygkfr/why_ssl_was_renamed_tls_late_90s_2014"
     ],
@@ -167,16 +177,6 @@
     [
       "Implementing Logic Programming",
       "https://btmc.substack.com/p/implementing-logic-programming"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 02:42:47",
-      "https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store"
-    ],
-    [
-      "filedb: Disk Based Key-Value Store Inspired by Bitcask",
-      "https://github.com/rajivharlalka/filedb"
     ]
   ],
   [
