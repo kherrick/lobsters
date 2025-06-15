@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-15, 14:08:45](https://lobste.rs/s/dygkfr/why_ssl_was_renamed_tls_late_90s_2014) - [Why SSL was renamed to TLS in late 90s (2014)](https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html)
 * [2025-06-15, 10:27:40](https://lobste.rs/s/bvyeh9/breaking_my_security_assignments) - [Breaking my Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-15, 07:05:12](https://lobste.rs/s/ui5omv/art_lisp_writing) - [The Art of Lisp & Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-15, 00:08:11](https://lobste.rs/s/iiimxs/modular_what_about_mlir_compiler) - [Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)](https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure)
@@ -16,7 +17,6 @@
 * [2025-06-14, 07:15:44](https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell) - [Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming](https://contextgeneric.dev/blog/hypershell-release/)
 * [2025-06-14, 06:17:48](https://lobste.rs/s/btlkeb/datalog_rust) - [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md)
 * [2025-06-14, 06:15:20](https://lobste.rs/s/4tmzdy/implementing_logic_programming) - [Implementing Logic Programming](https://btmc.substack.com/p/implementing-logic-programming)
-* [2025-06-14, 04:57:59](https://lobste.rs/s/knxypp/apl_style_patterns_anti_patterns) - [APL Style: Patterns/Anti-patterns](https://sway.cloud.microsoft/b1pRwmzuGjqB30On)
 * [2025-06-14, 02:42:47](https://lobste.rs/s/bqo4pq/filedb_disk_based_key_value_store) - [filedb: Disk Based Key-Value Store Inspired by Bitcask](https://github.com/rajivharlalka/filedb)
 * [2025-06-14, 01:18:11](https://lobste.rs/s/wkrxtl/c2y_hitting_ground_running) - [C2y: Hitting the Ground Running](https://thephd.dev/c2y-hitting-the-ground-running)
 * [2025-06-13, 18:33:35](https://lobste.rs/s/lied71/fastest_way_detect_vowel_string) - [The fastest way to detect a vowel in a string](https://austinhenley.com/blog/vowels.html)
