@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 10:27:40",
+      "https://lobste.rs/s/bvyeh9/breaking_my_security_assignments"
+    ],
+    [
+      "Breaking my Security Assignments",
+      "https://www.akpain.net/blog/breaking-secnet-assignments/"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 07:05:12",
       "https://lobste.rs/s/ui5omv/art_lisp_writing"
     ],
@@ -217,16 +227,6 @@
     [
       "Tattoy: a text-based terminal compositor",
       "https://tattoy.sh/"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 13:28:21",
-      "https://lobste.rs/s/zuadfv/design_patterns_for_securing_llm_agents"
-    ],
-    [
-      "Design Patterns for Securing LLM Agents against Prompt Injections",
-      "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/"
     ]
   ],
   [
