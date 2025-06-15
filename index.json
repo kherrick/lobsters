@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 16:44:48",
+      "https://lobste.rs/s/os8uyh/1x_forth_1999"
+    ],
+    [
+      "1x Forth (1999)",
+      "https://www.ultratechnology.com/1xforth.htm"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 14:59:09",
       "https://lobste.rs/s/hhhvbw/sqlite_vfs_for_remote_databases_via_grpc"
     ],
@@ -227,16 +237,6 @@
     [
       "Tattoy: a text-based terminal compositor",
       "https://tattoy.sh/"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 08:12:05",
-      "https://lobste.rs/s/yy5auy/radicle_desktop_graphical_user"
-    ],
-    [
-      "Radicle Desktop: a graphical user interface for the Radicle peer-to-peer code forge",
-      "https://radicle.xyz/desktop"
     ]
   ],
   [
