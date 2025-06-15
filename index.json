@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-15, 18:17:48",
+      "https://lobste.rs/s/iy730l/modifying_hdmi_dummy_plug_s_edid_using"
+    ],
+    [
+      "Modifying an HDMI dummy plug’s EDID using a Raspberry Pi",
+      "https://www.downtowndougbrown.com/2025/06/modifying-an-hdmi-dummy-plugs-edid-using-a-raspberry-pi/"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 17:26:28",
       "https://lobste.rs/s/rqthj0/simplest_c_callback_from_sumatrapdf"
     ],
@@ -227,16 +237,6 @@
     [
       "OxCaml, Jane Street's extension of OCaml is now open-source",
       "https://oxcaml.org"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 14:06:38",
-      "https://lobste.rs/s/bcxcju/tattoy_text_based_terminal_compositor"
-    ],
-    [
-      "Tattoy: a text-based terminal compositor",
-      "https://tattoy.sh/"
     ]
   ],
   [
