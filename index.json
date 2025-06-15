@@ -2,10 +2,10 @@
   [
     [
       "2025-06-15, 14:59:09",
-      "https://lobste.rs/s/hhhvbw/sqlite_vfs_for_remote_sqlite_databases"
+      "https://lobste.rs/s/hhhvbw/sqlite_vfs_for_remote_databases_via_grpc"
     ],
     [
-      "A SQLite VFS for remote SQLite databases via gRPC",
+      "A SQLite VFS for remote databases via gRPC",
       "https://github.com/danthegoodman1/gRPSQLite"
     ]
   ],
