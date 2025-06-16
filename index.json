@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-06-16, 10:13:51",
+      "https://lobste.rs/s/pobirg/changes_kubernetes_slack"
+    ],
+    [
+      "Changes to Kubernetes Slack",
+      "https://www.kubernetes.dev/blog/2025/06/16/changes-to-kubernetes-slack-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 10:12:49",
+      "https://lobste.rs/s/k7nyyu/rgsql_test_suite_help_you_build_your_own"
+    ],
+    [
+      "rgSQL: A test suite to help you build your own database engine",
+      "https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 10:08:37",
+      "https://lobste.rs/s/zvukta/debugging_tricks_for_intellij"
+    ],
+    [
+      "Debugging tricks for IntelliJ",
+      "https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 10:04:40",
+      "https://lobste.rs/s/joykng/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/joykng/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 08:56:03",
       "https://lobste.rs/s/adcqfz/your_brain_on_chatgpt_accumulation"
     ],
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2025-06-14, 18:47:55",
-      "https://lobste.rs/s/bp7rbk/how_final_cartridge_iii_freezer_works"
-    ],
-    [
-      "How the Final Cartridge III Freezer works",
-      "https://www.pagetable.com/?p=1810"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 18:27:31",
       "https://lobste.rs/s/s7katz/mosh_mobile_shell"
     ],
     [
       "Mosh: the mobile shell",
       "https://mosh.org"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 16:36:55",
-      "https://lobste.rs/s/9e8spk/todo_txt_tasks_my_trmnl"
-    ],
-    [
-      "todo.txt tasks in my TRMNL",
-      "https://akselmo.dev/posts/todotxt-in-my-trmnl/"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 10:19:03",
-      "https://lobste.rs/s/qz1njr/html_spec_change_escaping_attributes"
-    ],
-    [
-      "HTML spec change: escaping < and > in attributes",
-      "https://developer.chrome.com/blog/escape-attributes"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 07:15:44",
-      "https://lobste.rs/s/1swikb/hypershell_type_level_dsl_for_shell"
-    ],
-    [
-      "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
-      "https://contextgeneric.dev/blog/hypershell-release/"
     ]
   ]
 ]
