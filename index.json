@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-16, 20:33:14",
+      "https://lobste.rs/s/cho8tc/retrobootstrapping_rust_for_some_reason"
+    ],
+    [
+      "retrobootstrapping rust for some reason",
+      "https://graydon2.dreamwidth.org/317484.html"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 19:42:53",
       "https://lobste.rs/s/vqsran/matrix_is_cooked"
     ],
@@ -167,16 +177,6 @@
     [
       "Datalog in Minikanren",
       "https://deosjr.github.io/dynamicland/datalog.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 19:52:44",
-      "https://lobste.rs/s/qaqvjx/how_fast_can_rpython_gc_allocate"
-    ],
-    [
-      "How fast can the RPython GC allocate?",
-      "https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html"
     ]
   ],
   [
