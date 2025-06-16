@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-16, 08:14:20",
+      "https://lobste.rs/s/jxnovw/css_classes_considered_harmful"
+    ],
+    [
+      "CSS Classes considered harmful",
+      "https://www.keithcirkel.co.uk/css-classes-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 07:35:31",
       "https://lobste.rs/s/xsmnaz/start_your_own_internet_resiliency_club"
     ],
@@ -167,16 +177,6 @@
     [
       "The Art of Lisp & Writing",
       "https://www.dreamsongs.com/ArtOfLisp.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 00:08:11",
-      "https://lobste.rs/s/iiimxs/modular_what_about_mlir_compiler"
-    ],
-    [
-      "Modular: What about the MLIR compiler infrastructure? (Democratizing AI Compute, Part 8)",
-      "https://www.modular.com/blog/democratizing-ai-compute-part-8-what-about-the-mlir-compiler-infrastructure"
     ]
   ],
   [
