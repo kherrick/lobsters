@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-16, 14:37:30",
+      "https://lobste.rs/s/nngpza/lethal_trifecta_for_ai_agents_private"
+    ],
+    [
+      "The lethal trifecta for AI agents: private data, untrusted content, and external communication",
+      "https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 14:16:55",
       "https://lobste.rs/s/zx6iiy/working_on_databases_from_prison_how_i_got"
     ],
@@ -237,16 +247,6 @@
     [
       "Breaking my Security Assignments",
       "https://www.akpain.net/blog/breaking-secnet-assignments/"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 18:27:31",
-      "https://lobste.rs/s/s7katz/mosh_mobile_shell"
-    ],
-    [
-      "Mosh: the mobile shell",
-      "https://mosh.org"
     ]
   ]
 ]
