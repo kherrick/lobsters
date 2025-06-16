@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-16](index.md)
 
+* [2025-06-16, 15:11:37](https://lobste.rs/s/fiaxp8/selfish_reasons_for_building_accessible) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
+* [2025-06-16, 15:06:40](https://lobste.rs/s/2ivvof/what_happened_lobste_rs_top_rss_feed) - [What happened to the lobste.rs top rss feed?](https://lobste.rs/s/2ivvof/what_happened_lobste_rs_top_rss_feed)
 * [2025-06-16, 14:37:30](https://lobste.rs/s/nngpza/lethal_trifecta_for_ai_agents_private) - [The lethal trifecta for AI agents: private data, untrusted content, and external communication](https://simonwillison.net/2025/Jun/16/the-lethal-trifecta/)
 * [2025-06-16, 14:16:55](https://lobste.rs/s/zx6iiy/working_on_databases_from_prison_how_i_got) - [Working on databases from prison: How I got here, part 2](https://turso.tech/blog/working-on-databases-from-prison)
 * [2025-06-16, 14:12:52](https://lobste.rs/s/yntcyd/mathematical_illustrations_manual) - [Mathematical Illustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www/)
