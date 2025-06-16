@@ -4,7 +4,6 @@
 * [2025-06-16, 10:12:49](https://lobste.rs/s/k7nyyu/rgsql_test_suite_help_you_build_your_own) - [rgSQL: A test suite to help you build your own database engine](https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines)
 * [2025-06-16, 10:08:37](https://lobste.rs/s/zvukta/debugging_tricks_for_intellij) - [Debugging tricks for IntelliJ](https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/)
 * [2025-06-16, 10:04:40](https://lobste.rs/s/joykng/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/joykng/what_are_you_doing_this_week)
-* [2025-06-16, 08:56:03](https://lobste.rs/s/adcqfz/your_brain_on_chatgpt_accumulation) - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
 * [2025-06-16, 08:54:44](https://lobste.rs/s/r9tamc/architectural_approach) - [An Architectural Approach to Decentralization](https://www.infocentral.org/)
 * [2025-06-16, 08:14:20](https://lobste.rs/s/jxnovw/css_classes_considered_harmful) - [CSS Classes considered harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2025-06-16, 07:35:31](https://lobste.rs/s/xsmnaz/start_your_own_internet_resiliency_club) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
@@ -25,6 +24,7 @@
 * [2025-06-15, 10:27:40](https://lobste.rs/s/bvyeh9/breaking_my_security_assignments) - [Breaking my Security Assignments](https://www.akpain.net/blog/breaking-secnet-assignments/)
 * [2025-06-15, 07:05:12](https://lobste.rs/s/ui5omv/art_lisp_writing) - [The Art of Lisp & Writing](https://www.dreamsongs.com/ArtOfLisp.html)
 * [2025-06-14, 18:27:31](https://lobste.rs/s/s7katz/mosh_mobile_shell) - [Mosh: the mobile shell](https://mosh.org)
+* [2025-06-14, 16:36:55](https://lobste.rs/s/9e8spk/todo_txt_tasks_my_trmnl) - [todo.txt tasks in my TRMNL](https://akselmo.dev/posts/todotxt-in-my-trmnl/)
 
 ## [Archives](archives/index.md)
 
