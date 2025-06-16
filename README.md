@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-16, 18:41:55](https://lobste.rs/s/2o1cna/promised_lan) - [The Promised LAN](https://notes.pault.ag/tpl/)
 * [2025-06-16, 16:25:39](https://lobste.rs/s/swjapp/brief_incomplete_mostly_wrong_history) - [A Brief, Incomplete, and Mostly Wrong History of Robotics](https://generalrobots.substack.com/p/a-brief-incomplete-and-mostly-wrong)
 * [2025-06-16, 15:46:48](https://lobste.rs/s/q0zon6/goodbye_dark_inc_hello_darklang_inc) - [Goodbye Dark Inc. - Hello Darklang Inc](https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/)
 * [2025-06-16, 15:11:37](https://lobste.rs/s/fiaxp8/selfish_reasons_for_building_accessible) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
@@ -19,7 +20,6 @@
 * [2025-06-15, 19:52:44](https://lobste.rs/s/qaqvjx/how_fast_can_rpython_gc_allocate) - [How fast can the RPython GC allocate?](https://pypy.org/posts/2025/06/rpython-gc-allocation-speed.html)
 * [2025-06-15, 19:28:26](https://lobste.rs/s/0j5y9e/quick_takes_on_gcp_public_incident_write) - [Quick takes on the GCP public incident write-up](https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/)
 * [2025-06-15, 19:00:04](https://lobste.rs/s/d3rzjl/writing_toy_software_is_joy) - [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/)
-* [2025-06-15, 18:46:19](https://lobste.rs/s/ww7kp7/elixir_pipe_operator) - [The Elixir Pipe Operator](https://dev.to/adolfont/the-elixir-pipe-operator-38fa)
 * [2025-06-15, 17:26:28](https://lobste.rs/s/rqthj0/simplest_c_callback_from_sumatrapdf) - [Simplest C++ callback, from SumatraPDF](https://blog.kowalczyk.info/a-stsj/simplest-c-callback-from-sumatrapdf.html)
 * [2025-06-15, 16:44:48](https://lobste.rs/s/os8uyh/1x_forth_1999) - [1x Forth (1999)](https://www.ultratechnology.com/1xforth.htm)
 * [2025-06-15, 14:59:09](https://lobste.rs/s/hhhvbw/sqlite_vfs_for_remote_databases_via_grpc) - [A SQLite VFS for remote databases via gRPC](https://github.com/danthegoodman1/gRPSQLite)
