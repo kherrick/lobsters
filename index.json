@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-16, 00:54:19",
+      "https://lobste.rs/s/ijyyt9/devtui_swiss_army_app_for_developers"
+    ],
+    [
+      "DevTUI - A Swiss-army app for developers",
+      "https://devtui.com"
+    ]
+  ],
+  [
+    [
+      "2025-06-16, 00:12:02",
+      "https://lobste.rs/s/llzfuy/jokes_humour_public_android_api"
+    ],
+    [
+      "Jokes and Humour in the public Android API",
+      "https://voxelmanip.se/2025/06/14/jokes-and-humour-in-the-public-android-api/"
+    ]
+  ],
+  [
+    [
       "2025-06-15, 23:39:03",
       "https://lobste.rs/s/s6fvfd/building_software_on_top_large_language"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-06-14, 12:21:33",
-      "https://lobste.rs/s/az487i/adding_public_transport_data_transitous"
-    ],
-    [
-      "Adding public transport data to Transitous",
-      "https://www.volkerkrause.eu/2025/06/14/transitous-adding-data.html"
-    ]
-  ],
-  [
-    [
       "2025-06-14, 10:19:03",
       "https://lobste.rs/s/qz1njr/html_spec_change_escaping_attributes"
     ],
@@ -227,16 +237,6 @@
     [
       "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
       "https://contextgeneric.dev/blog/hypershell-release/"
-    ]
-  ],
-  [
-    [
-      "2025-06-14, 06:17:48",
-      "https://lobste.rs/s/btlkeb/datalog_rust"
-    ],
-    [
-      "Datalog in Rust",
-      "https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md"
     ]
   ],
   [
