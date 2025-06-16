@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-16, 07:35:31",
+      "https://lobste.rs/s/xsmnaz/start_your_own_internet_resiliency_club"
+    ],
+    [
+      "Start your own Internet Resiliency Club",
+      "https://bowshock.nl/irc/"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 00:54:19",
       "https://lobste.rs/s/ijyyt9/devtui_swiss_army_app_for_developers"
     ],
@@ -237,16 +247,6 @@
     [
       "Hypershell: A Type-Level DSL for Shell-Scripting in Rust powered by Context-Generic Programming",
       "https://contextgeneric.dev/blog/hypershell-release/"
-    ]
-  ],
-  [
-    [
-      "2025-06-13, 14:23:45",
-      "https://lobste.rs/s/unsbmk/oxcaml_jane_street_s_extension_ocaml_is"
-    ],
-    [
-      "OxCaml, Jane Street's extension of OCaml is now open-source",
-      "https://oxcaml.org"
     ]
   ]
 ]
