@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-17, 17:04:49](https://lobste.rs/s/lcc0y4/kde_plasma_6_4_released) - [KDE Plasma 6.4 released](https://kde.org/announcements/plasma/6/6.4.0/)
 * [2025-06-17, 15:54:50](https://lobste.rs/s/waw8wr/managing_split_dns_multi_tenant) - [Managing split DNS in a multi-tenant Kubernetes setup](https://medium.com/learnings-from-the-paas/a-journey-through-kafkian-splitdns-in-a-multitenant-kubernetes-offering-d5fd274f676f)
 * [2025-06-17, 14:45:29](https://lobste.rs/s/utck4y/what_i_wish_someone_told_me_when_i_was) - [What I Wish Someone Told Me When I Was Getting Into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
 * [2025-06-17, 13:18:20](https://lobste.rs/s/endekb/zb_beta_released) - [zb beta released](https://www.zombiezen.com/blog/2025/06/zb-beta-release/)
@@ -19,7 +20,6 @@
 * [2025-06-16, 23:19:36](https://lobste.rs/s/f4cvx7/triaging_security_issues_reported_by) - [Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·](https://gitlab.gnome.org/GNOME/libxml2/-/issues/913)
 * [2025-06-16, 23:12:12](https://lobste.rs/s/fefns1/xmake_v3_0_released_improve_c_modules) - [Xmake v3.0 released, Improve c++ modules and jobgraph support](https://github.com/xmake-io/xmake/releases/tag/v3.0.0)
 * [2025-06-16, 20:33:14](https://lobste.rs/s/cho8tc/retrobootstrapping_rust_for_some_reason) - [retrobootstrapping rust for some reason](https://graydon2.dreamwidth.org/317484.html)
-* [2025-06-16, 19:42:53](https://lobste.rs/s/vqsran/matrix_is_cooked) - [matrix is cooked](https://paper.wf/alexia/matrix-is-cooked)
 * [2025-06-16, 18:41:55](https://lobste.rs/s/2o1cna/promised_lan) - [The Promised LAN](https://notes.pault.ag/tpl/)
 * [2025-06-16, 15:46:48](https://lobste.rs/s/q0zon6/goodbye_dark_inc_hello_darklang_inc) - [Goodbye Dark Inc. - Hello Darklang Inc](https://blog.darklang.com/goodbye-dark-inc-welcome-darklang-inc/)
 * [2025-06-16, 15:11:37](https://lobste.rs/s/fiaxp8/selfish_reasons_for_building_accessible) - [Selfish reasons for building accessible UIs](https://nolanlawson.com/2025/06/16/selfish-reasons-for-building-accessible-uis/)
