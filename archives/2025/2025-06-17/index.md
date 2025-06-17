@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 09:51:08](https://lobste.rs/s/dx84oc/why_claude_code_feels_like_magic) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 * [2025-06-17, 08:22:24](https://lobste.rs/s/vnwsy0/nexusmods_changes_hands) - [NexusMods Changes Hands](https://www.nexusmods.com/news/15301)
 * [2025-06-17, 06:58:36](https://lobste.rs/s/ivjnne/end_end_encryption_architecturally) - [End-to-End Encryption: Architecturally Necessary](https://labs.ripe.net/author/flindeberg/end-to-end-encryption-architecturally-necessary/)
 * [2025-06-17, 06:16:57](https://lobste.rs/s/oz5ocp/slint_1_12_released_with_wgpu_support_ios) - [Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration](https://slint.dev/blog/slint-1.12-released)
