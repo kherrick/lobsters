@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 13:18:20](https://lobste.rs/s/endekb/zb_beta_released) - [zb beta released](https://www.zombiezen.com/blog/2025/06/zb-beta-release/)
 * [2025-06-17, 12:50:58](https://lobste.rs/s/k5tt4a/is_it_really_foss) - [is it really FOSS?](https://isitreallyfoss.com/)
 * [2025-06-17, 12:45:20](https://lobste.rs/s/thttgw/locally_hosting_internet_connected) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
 * [2025-06-17, 12:35:22](https://lobste.rs/s/z4hrye/is_documentation_like_pineapple_on_pizza) - [Is Documentation Like Pineapple on Pizza?](https://l.idaszak.com/l-docs-like-pineapple-on-pizza)
