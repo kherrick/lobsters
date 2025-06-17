@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 12:50:58](https://lobste.rs/s/k5tt4a/is_it_really_foss) - [is it really FOSS?](https://isitreallyfoss.com/)
+* [2025-06-17, 12:45:20](https://lobste.rs/s/thttgw/locally_hosting_internet_connected) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
+* [2025-06-17, 12:35:22](https://lobste.rs/s/z4hrye/is_documentation_like_pineapple_on_pizza) - [Is Documentation Like Pineapple on Pizza?](https://l.idaszak.com/l-docs-like-pineapple-on-pizza)
 * [2025-06-17, 11:52:29](https://lobste.rs/s/0zeyl0/xenevaos_modern_computing_reimagined) - [XenevaOS - Modern Computing Reimagined](https://www.getxeneva.com/)
 * [2025-06-17, 11:43:53](https://lobste.rs/s/nhshfi/known_pitfalls_c_26_contracts) - [Known pitfalls in C++26 contracts](https://www.youtube.com/watch?v=tzXu5KZGMJk)
 * [2025-06-17, 10:14:44](https://lobste.rs/s/iovrve/type_inference_zoo) - [Type Inference Zoo](https://zoo.cuichen.cc/)
