@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-17, 20:48:04](https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker) - [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 * [2025-06-17, 20:04:34](https://lobste.rs/s/g3wtej/bzip2_crate_switches_from_c_100_rust) - [bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
 * [2025-06-17, 19:33:34](https://lobste.rs/s/ykuoxv/creating_qmi_traces_from_android_phones) - [Creating QMI traces from Android phones with Frida to reverse engineer Voice over LTE](https://postmarketos.org/blog/2025/06/17/volte-project-qmi-sniffing-with-frida/)
 * [2025-06-17, 19:20:23](https://lobste.rs/s/vedkvh/what_google_translate_can_tell_us_about) - [What Google Translate Can Tell Us About Vibecoding](https://ingrids.space/posts/what-google-translate-can-tell-us-about-vibecoding/)
@@ -16,7 +17,6 @@
 * [2025-06-17, 06:16:57](https://lobste.rs/s/oz5ocp/slint_1_12_released_with_wgpu_support_ios) - [Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration](https://slint.dev/blog/slint-1.12-released)
 * [2025-06-17, 04:20:11](https://lobste.rs/s/7dy7ti/nuanced_reality_throttling_it_s_not_just) - [The Nuanced Reality of Throttling: It's Not Just About Preventing Abuse](https://blog.joemag.dev/2025/06/the-nuanced-reality-of-throttling-its.html)
 * [2025-06-17, 03:43:07](https://lobste.rs/s/gsci0f/why_generative_ai_coding_tools_agents_do) - [Why Generative AI Coding Tools and Agents Do Not Work For Me](https://blog.miguelgrinberg.com/post/why-generative-ai-coding-tools-and-agents-do-not-work-for-me)
-* [2025-06-17, 01:16:36](https://lobste.rs/s/2f63at/til_ai_thoughts_on_ai) - [TIL:AI. Thoughts on AI](https://cocoaphony.micro.blog/2025/06/16/tilai-thoughts-on-ai.html)
 * [2025-06-17, 00:50:21](https://lobste.rs/s/6bduaj/phkmalloc) - [phkmalloc](https://phk.freebsd.dk/sagas/phkmalloc/)
 * [2025-06-16, 23:19:36](https://lobste.rs/s/f4cvx7/triaging_security_issues_reported_by) - [Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·](https://gitlab.gnome.org/GNOME/libxml2/-/issues/913)
 * [2025-06-16, 23:12:12](https://lobste.rs/s/fefns1/xmake_v3_0_released_improve_c_modules) - [Xmake v3.0 released, Improve c++ modules and jobgraph support](https://github.com/xmake-io/xmake/releases/tag/v3.0.0)
