@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-17, 01:16:36",
+      "https://lobste.rs/s/2f63at/til_ai_thoughts_on_ai"
+    ],
+    [
+      "TIL:AI. Thoughts on AI",
+      "https://cocoaphony.micro.blog/2025/06/16/tilai-thoughts-on-ai.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 00:50:21",
+      "https://lobste.rs/s/6bduaj/phkmalloc"
+    ],
+    [
+      "phkmalloc",
+      "https://phk.freebsd.dk/sagas/phkmalloc/"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 00:40:09",
+      "https://lobste.rs/s/zeoymy/comment_on_illusion_thinking"
+    ],
+    [
+      "Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity",
+      "https://arxiv.org/pdf/2506.09250"
+    ]
+  ],
+  [
+    [
       "2025-06-16, 23:19:36",
       "https://lobste.rs/s/f4cvx7/triaging_security_issues_reported_by"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2025-06-15, 21:00:59",
-      "https://lobste.rs/s/3rujno/datalog_minikanren"
-    ],
-    [
-      "Datalog in Minikanren",
-      "https://deosjr.github.io/dynamicland/datalog.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 19:28:26",
-      "https://lobste.rs/s/0j5y9e/quick_takes_on_gcp_public_incident_write"
-    ],
-    [
-      "Quick takes on the GCP public incident write-up",
-      "https://surfingcomplexity.blog/2025/06/14/quick-takes-on-the-gcp-public-incident-write-up/"
-    ]
-  ],
-  [
-    [
       "2025-06-15, 19:00:04",
       "https://lobste.rs/s/d3rzjl/writing_toy_software_is_joy"
     ],
@@ -237,16 +247,6 @@
     [
       "Why SSL was renamed to TLS in late 90s (2014)",
       "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 10:27:40",
-      "https://lobste.rs/s/bvyeh9/breaking_my_security_assignments"
-    ],
-    [
-      "Breaking my Security Assignments",
-      "https://www.akpain.net/blog/breaking-secnet-assignments/"
     ]
   ]
 ]
