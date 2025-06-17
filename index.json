@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-06-17, 11:43:53",
+      "https://lobste.rs/s/nhshfi/known_pitfalls_c_26_contracts"
+    ],
+    [
+      "Known pitfalls in C++26 contracts",
+      "https://www.youtube.com/watch?v=tzXu5KZGMJk"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 10:14:44",
       "https://lobste.rs/s/iovrve/type_inference_zoo"
     ],
@@ -227,16 +237,6 @@
     [
       "Working on databases from prison: How I got here, part 2",
       "https://turso.tech/blog/working-on-databases-from-prison"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 10:12:49",
-      "https://lobste.rs/s/k7nyyu/rgsql_test_suite_help_you_build_your_own"
-    ],
-    [
-      "rgSQL: A test suite to help you build your own database engine",
-      "https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines"
     ]
   ],
   [
