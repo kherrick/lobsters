@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-17, 15:54:50](https://lobste.rs/s/waw8wr/managing_split_dns_multi_tenant) - [Managing split DNS in a multi-tenant Kubernetes setup](https://medium.com/learnings-from-the-paas/a-journey-through-kafkian-splitdns-in-a-multitenant-kubernetes-offering-d5fd274f676f)
 * [2025-06-17, 14:45:29](https://lobste.rs/s/utck4y/what_i_wish_someone_told_me_when_i_was) - [What I Wish Someone Told Me When I Was Getting Into ARIA](https://www.smashingmagazine.com/2025/06/what-i-wish-someone-told-me-aria/)
 * [2025-06-17, 13:18:20](https://lobste.rs/s/endekb/zb_beta_released) - [zb beta released](https://www.zombiezen.com/blog/2025/06/zb-beta-release/)
 * [2025-06-17, 12:50:58](https://lobste.rs/s/k5tt4a/is_it_really_foss) - [is it really FOSS?](https://isitreallyfoss.com/)
 * [2025-06-17, 12:45:20](https://lobste.rs/s/thttgw/locally_hosting_internet_connected) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
 * [2025-06-17, 12:35:22](https://lobste.rs/s/z4hrye/is_documentation_like_pineapple_on_pizza) - [Is Documentation Like Pineapple on Pizza?](https://l.idaszak.com/l-docs-like-pineapple-on-pizza)
-* [2025-06-17, 11:43:53](https://lobste.rs/s/nhshfi/known_pitfalls_c_26_contracts) - [Known pitfalls in C++26 contracts](https://www.youtube.com/watch?v=tzXu5KZGMJk)
 * [2025-06-17, 10:14:44](https://lobste.rs/s/iovrve/type_inference_zoo) - [Type Inference Zoo](https://zoo.cuichen.cc/)
 * [2025-06-17, 10:10:23](https://lobste.rs/s/pgusbz/anime_js_v4_is_lightweight_javascript) - [Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com)
 * [2025-06-17, 09:51:08](https://lobste.rs/s/dx84oc/why_claude_code_feels_like_magic) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
