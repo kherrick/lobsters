@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 11:52:29](https://lobste.rs/s/0zeyl0/xenevaos_modern_computing_reimagined) - [XenevaOS - Modern Computing Reimagined](https://www.getxeneva.com/)
 * [2025-06-17, 11:43:53](https://lobste.rs/s/nhshfi/known_pitfalls_c_26_contracts) - [Known pitfalls in C++26 contracts](https://www.youtube.com/watch?v=tzXu5KZGMJk)
 * [2025-06-17, 10:14:44](https://lobste.rs/s/iovrve/type_inference_zoo) - [Type Inference Zoo](https://zoo.cuichen.cc/)
 * [2025-06-17, 10:10:23](https://lobste.rs/s/pgusbz/anime_js_v4_is_lightweight_javascript) - [Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com)
