@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-17, 06:58:36",
+      "https://lobste.rs/s/ivjnne/end_end_encryption_architecturally"
+    ],
+    [
+      "End-to-End Encryption: Architecturally Necessary",
+      "https://labs.ripe.net/author/flindeberg/end-to-end-encryption-architecturally-necessary/"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 06:16:57",
       "https://lobste.rs/s/oz5ocp/slint_1_12_released_with_wgpu_support_ios"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing Toy Software Is A Joy",
       "https://www.jsbarretto.com/blog/software-is-joy/"
-    ]
-  ],
-  [
-    [
-      "2025-06-15, 14:08:45",
-      "https://lobste.rs/s/dygkfr/why_ssl_was_renamed_tls_late_90s_2014"
-    ],
-    [
-      "Why SSL was renamed to TLS in late 90s (2014)",
-      "https://tim.dierks.org/2014/05/security-standards-and-name-changes-in.html"
     ]
   ]
 ]
