@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-17, 08:22:24](https://lobste.rs/s/vnwsy0/nexusmods_changes_hands) - [NexusMods Changes Hands](https://www.nexusmods.com/news/15301)
 * [2025-06-17, 06:58:36](https://lobste.rs/s/ivjnne/end_end_encryption_architecturally) - [End-to-End Encryption: Architecturally Necessary](https://labs.ripe.net/author/flindeberg/end-to-end-encryption-architecturally-necessary/)
 * [2025-06-17, 06:16:57](https://lobste.rs/s/oz5ocp/slint_1_12_released_with_wgpu_support_ios) - [Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration](https://slint.dev/blog/slint-1.12-released)
 * [2025-06-17, 04:20:11](https://lobste.rs/s/7dy7ti/nuanced_reality_throttling_it_s_not_just) - [The Nuanced Reality of Throttling: It's Not Just About Preventing Abuse](https://blog.joemag.dev/2025/06/the-nuanced-reality-of-throttling-its.html)
@@ -21,7 +22,6 @@
 * [2025-06-16, 10:12:49](https://lobste.rs/s/k7nyyu/rgsql_test_suite_help_you_build_your_own) - [rgSQL: A test suite to help you build your own database engine](https://technicaldeft.com/posts/rgsql-a-test-suite-for-database-engines)
 * [2025-06-16, 10:08:37](https://lobste.rs/s/zvukta/debugging_tricks_for_intellij) - [Debugging tricks for IntelliJ](https://andreabergia.com/blog/2025/06/debugging-tricks-for-intellij/)
 * [2025-06-16, 10:04:40](https://lobste.rs/s/joykng/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/joykng/what_are_you_doing_this_week)
-* [2025-06-16, 08:14:20](https://lobste.rs/s/jxnovw/css_classes_considered_harmful) - [CSS Classes considered harmful](https://www.keithcirkel.co.uk/css-classes-considered-harmful/)
 * [2025-06-16, 07:35:31](https://lobste.rs/s/xsmnaz/start_your_own_internet_resiliency_club) - [Start your own Internet Resiliency Club](https://bowshock.nl/irc/)
 * [2025-06-16, 00:54:19](https://lobste.rs/s/ijyyt9/devtui_swiss_army_app_for_developers) - [DevTUI - A Swiss-army app for developers](https://devtui.com)
 * [2025-06-15, 19:00:04](https://lobste.rs/s/d3rzjl/writing_toy_software_is_joy) - [Writing Toy Software Is A Joy](https://www.jsbarretto.com/blog/software-is-joy/)
