@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-17, 21:12:01",
+      "https://lobste.rs/s/dmwtie/from_sdr_fake_hdr_mario_kart_world_on"
+    ],
+    [
+      "From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential",
+      "https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 21:01:41",
+      "https://lobste.rs/s/i4cjur/kicad_wayland_support"
+    ],
+    [
+      "KiCad and Wayland Support",
+      "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 20:48:04",
       "https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker"
     ],
@@ -17,16 +37,6 @@
     [
       "bzip2 crate switches from C to 100% rust",
       "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 19:33:34",
-      "https://lobste.rs/s/ykuoxv/creating_qmi_traces_from_android_phones"
-    ],
-    [
-      "Creating QMI traces from Android phones with Frida to reverse engineer Voice over LTE",
-      "https://postmarketos.org/blog/2025/06/17/volte-project-qmi-sniffing-with-frida/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·",
       "https://gitlab.gnome.org/GNOME/libxml2/-/issues/913"
-    ]
-  ],
-  [
-    [
-      "2025-06-16, 23:12:12",
-      "https://lobste.rs/s/fefns1/xmake_v3_0_released_improve_c_modules"
-    ],
-    [
-      "Xmake v3.0 released, Improve c++ modules and jobgraph support",
-      "https://github.com/xmake-io/xmake/releases/tag/v3.0.0"
     ]
   ],
   [
