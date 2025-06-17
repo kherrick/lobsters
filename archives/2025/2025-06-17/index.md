@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-17](index.md)
 
+* [2025-06-17, 22:37:56](https://lobste.rs/s/dybgho/monads_are_not_like_burritos) - [Monads are not like burritos](https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html)
 * [2025-06-17, 22:12:43](https://lobste.rs/s/2m1q3j/barry_vercoe_who_made_coding_sound) - [Barry Vercoe, who made coding sound accessible to all, has died](https://cdm.link/barry-vercoe/)
 * [2025-06-17, 21:12:01](https://lobste.rs/s/dmwtie/from_sdr_fake_hdr_mario_kart_world_on) - [From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [2025-06-17, 21:01:41](https://lobste.rs/s/i4cjur/kicad_wayland_support) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
