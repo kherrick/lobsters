@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-17, 20:04:34",
+      "https://lobste.rs/s/g3wtej/bzip2_crate_switches_from_c_100_rust"
+    ],
+    [
+      "bzip2 crate switches from C to 100% rust",
+      "https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/"
+    ]
+  ],
+  [
+    [
       "2025-06-17, 19:33:34",
       "https://lobste.rs/s/ykuoxv/creating_qmi_traces_from_android_phones"
     ],
@@ -117,16 +127,6 @@
     [
       "Why Claude Code feels like magic?",
       "https://omarabid.com/claude-magic"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 06:58:36",
-      "https://lobste.rs/s/ivjnne/end_end_encryption_architecturally"
-    ],
-    [
-      "End-to-End Encryption: Architecturally Necessary",
-      "https://labs.ripe.net/author/flindeberg/end-to-end-encryption-architecturally-necessary/"
     ]
   ],
   [
