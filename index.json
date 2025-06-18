@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-18, 08:53:22",
+      "https://lobste.rs/s/ajv5qd/programming_language_design_era_llms"
+    ],
+    [
+      "Programming Language Design in the Era of LLMs: A Return to Mediocrity?",
+      "https://kirancodes.me/posts/log-lang-design-llms.html"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 08:10:44",
       "https://lobste.rs/s/vaktzj/query_your_postgres_database_using_plain"
     ],
@@ -197,16 +207,6 @@
     [
       "Why Claude Code feels like magic?",
       "https://omarabid.com/claude-magic"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 06:16:57",
-      "https://lobste.rs/s/oz5ocp/slint_1_12_released_with_wgpu_support_ios"
-    ],
-    [
-      "Slint 1.12 Released with WGPU Support, iOS Port, and Figma Variables Integration",
-      "https://slint.dev/blog/slint-1.12-released"
     ]
   ],
   [
