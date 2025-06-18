@@ -3,7 +3,7 @@
 * [2025-06-18, 01:39:28](https://lobste.rs/s/nsn0rk/indexeddb_is_weird) - [IndexedDB is Weird](https://qsantos.fr/2025/03/03/indexeddb-is-weird/)
 * [2025-06-18, 01:35:23](https://lobste.rs/s/abfokf/i_wrote_compiler) - [I wrote a compiler](https://blog.singleton.io/posts/2021-01-31-i-wrote-a-compiler/)
 * [2025-06-18, 00:14:02](https://lobste.rs/s/cy2x77/building_json_on_command_line_is) - [Building JSON on the Command Line is Obnoxious](https://blog.stulta.dev/posts/annoying_json/)
-* [2025-06-17, 22:37:56](https://lobste.rs/s/dybgho/monads_are_not_like_burritos) - [Monads are not like burritos](https://byorgey.github.io/blog/posts/2025/06/16/monads-are-not-burritos.html)
+* [2025-06-17, 21:12:01](https://lobste.rs/s/dmwtie/from_sdr_fake_hdr_mario_kart_world_on) - [From SDR to ‘Fake HDR’: Mario Kart World on Switch 2 Undermines Modern Display Potential](https://www.alexandermejia.com/from-sdr-to-fake-hdr-mario-kart-world-on-switch-2-undermines-modern-display-potential/)
 * [2025-06-17, 21:01:41](https://lobste.rs/s/i4cjur/kicad_wayland_support) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
 * [2025-06-17, 20:48:04](https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker) - [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 * [2025-06-17, 20:04:34](https://lobste.rs/s/g3wtej/bzip2_crate_switches_from_c_100_rust) - [bzip2 crate switches from C to 100% rust](https://trifectatech.org/blog/bzip2-crate-switches-from-c-to-rust/)
