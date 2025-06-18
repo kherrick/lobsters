@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
+* [2025-06-18, 14:55:25](https://lobste.rs/s/3mz0b9/getting_lustre_upstream) - [Getting Lustre upstream](https://lwn.net/SubscriberLink/1025268/1d60e7f20fcd5bc2/)
 * [2025-06-18, 14:16:48](https://lobste.rs/s/s9xvjr/notes_on_retries) - [Notes on retries](https://justinblank.com/notebooks/retries.html)
 * [2025-06-18, 14:05:58](https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything) - [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
 * [2025-06-18, 13:49:12](https://lobste.rs/s/h08v9z/plight_misunderstood_memory_ordering) - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
+* [2025-06-18, 14:55:25](https://lobste.rs/s/3mz0b9/getting_lustre_upstream) - [Getting Lustre upstream](https://lwn.net/SubscriberLink/1025268/1d60e7f20fcd5bc2/)
 * [2025-06-18, 14:16:48](https://lobste.rs/s/s9xvjr/notes_on_retries) - [Notes on retries](https://justinblank.com/notebooks/retries.html)
 * [2025-06-18, 14:05:58](https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything) - [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
 * [2025-06-18, 13:49:12](https://lobste.rs/s/h08v9z/plight_misunderstood_memory_ordering) - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
@@ -20,8 +22,6 @@
 * [2025-06-17, 17:04:49](https://lobste.rs/s/lcc0y4/kde_plasma_6_4_released) - [KDE Plasma 6.4 released](https://kde.org/announcements/plasma/6/6.4.0/)
 * [2025-06-17, 13:18:20](https://lobste.rs/s/endekb/zb_beta_released) - [zb beta released](https://www.zombiezen.com/blog/2025/06/zb-beta-release/)
 * [2025-06-17, 12:50:58](https://lobste.rs/s/k5tt4a/is_it_really_foss) - [is it really FOSS?](https://isitreallyfoss.com/)
-* [2025-06-17, 12:45:20](https://lobste.rs/s/thttgw/locally_hosting_internet_connected) - [Locally hosting an internet-connected server](https://mjg59.dreamwidth.org/72095.html)
-* [2025-06-17, 10:10:23](https://lobste.rs/s/pgusbz/anime_js_v4_is_lightweight_javascript) - [Anime.js v4 is a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com)
 * [2025-06-17, 09:51:08](https://lobste.rs/s/dx84oc/why_claude_code_feels_like_magic) - [Why Claude Code feels like magic?](https://omarabid.com/claude-magic)
 * [2025-06-17, 00:50:21](https://lobste.rs/s/6bduaj/phkmalloc) - [phkmalloc](https://phk.freebsd.dk/sagas/phkmalloc/)
 * [2025-06-16, 23:19:36](https://lobste.rs/s/f4cvx7/triaging_security_issues_reported_by) - [Triaging security issues reported by third parties (#913) · Issues · GNOME / libxml2 ·](https://gitlab.gnome.org/GNOME/libxml2/-/issues/913)
