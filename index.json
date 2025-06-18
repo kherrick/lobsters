@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-06-18, 16:23:24",
-      "https://lobste.rs/s/zgoytt/unreasonable_effectiveness_fuzzing_for"
-    ],
-    [
-      "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
-      "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
-    ]
-  ],
-  [
-    [
       "2025-06-18, 15:50:01",
       "https://lobste.rs/s/skgrlr/llm_agents_are_breaking_your_platform_not"
     ],
@@ -57,6 +47,16 @@
     [
       "Moving on from Nix",
       "https://carlosbecker.com/posts/bye-nix/"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 14:55:25",
+      "https://lobste.rs/s/3mz0b9/getting_lustre_upstream"
+    ],
+    [
+      "Getting Lustre upstream",
+      "https://lwn.net/SubscriberLink/1025268/1d60e7f20fcd5bc2/"
     ]
   ],
   [
