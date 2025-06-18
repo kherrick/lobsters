@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 18:11:35](https://lobste.rs/s/tdlede/deep_dive_explainer_on_ink_switch_s_beekem) - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
+* [2025-06-18, 17:57:32](https://lobste.rs/s/rwbtwd/zed_debugger_is_here) - [The Zed Debugger is Here](https://zed.dev/blog/debugger)
 * [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
 * [2025-06-18, 17:22:43](https://lobste.rs/s/xojls9/brute_squad) - [The Brute Squad](https://sourcegraph.com/blog/the-brute-squad)
 * [2025-06-18, 16:23:24](https://lobste.rs/s/zgoytt/unreasonable_effectiveness_fuzzing_for) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
