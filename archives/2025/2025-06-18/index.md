@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 08:10:44](https://lobste.rs/s/vaktzj/query_your_postgres_database_using_plain) - [Query Your Postgres Database Using Plain English](https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158)
 * [2025-06-18, 05:25:25](https://lobste.rs/s/3vztva/using_microsoft_s_new_cli_text_editor_on) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-18, 04:24:56](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai) - [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 * [2025-06-18, 01:39:28](https://lobste.rs/s/nsn0rk/indexeddb_is_weird) - [IndexedDB is Weird](https://qsantos.fr/2025/03/03/indexeddb-is-weird/)
