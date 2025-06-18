@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
+* [2025-06-18, 17:22:43](https://lobste.rs/s/xojls9/brute_squad) - [The Brute Squad](https://sourcegraph.com/blog/the-brute-squad)
 * [2025-06-18, 16:23:24](https://lobste.rs/s/zgoytt/unreasonable_effectiveness_fuzzing_for) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 15:50:01](https://lobste.rs/s/skgrlr/llm_agents_are_breaking_your_platform_not) - [LLM Agents Are Breaking Your Platform, Not Your Architecture](https://www.junctionlabs.io/blog/llm-agents-are-breaking-your-platform-not-your-architecture)
 * [2025-06-18, 15:22:49](https://lobste.rs/s/boq7tt/cock_li_email_provider_data_leak_from) - [Cock.li email provider data leak from roundcube](https://mail.cock.li/)
