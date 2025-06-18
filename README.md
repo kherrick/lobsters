@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-18, 14:16:48](https://lobste.rs/s/s9xvjr/notes_on_retries) - [Notes on retries](https://justinblank.com/notebooks/retries.html)
 * [2025-06-18, 14:05:58](https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything) - [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
 * [2025-06-18, 13:49:12](https://lobste.rs/s/h08v9z/plight_misunderstood_memory_ordering) - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 * [2025-06-18, 12:26:24](https://lobste.rs/s/ydsjiy/shadow_browser_engine_from_scratch) - [Shadow: A browser engine from scratch in Javascript](https://shadow.goose.icu)
 * [2025-06-18, 11:03:04](https://lobste.rs/s/8ragze/hammurabi_rust_recreation_classic_1968) - [hammurabi: A Rust recreation of the classic 1968 BASIC game](https://github.com/stjepangolemac/hammurabi)
 * [2025-06-18, 08:53:22](https://lobste.rs/s/ajv5qd/programming_language_design_era_llms) - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
-* [2025-06-18, 08:10:44](https://lobste.rs/s/vaktzj/query_your_postgres_database_using_plain) - [Query Your Postgres Database Using Plain English](https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158)
 * [2025-06-18, 05:25:25](https://lobste.rs/s/3vztva/using_microsoft_s_new_cli_text_editor_on) - [Using Microsoft's New CLI Text Editor on Ubuntu](https://www.omgubuntu.co.uk/2025/06/microsoft-edit-text-editor-ubuntu)
 * [2025-06-18, 04:24:56](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai) - [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 * [2025-06-18, 01:39:28](https://lobste.rs/s/nsn0rk/indexeddb_is_weird) - [IndexedDB is Weird](https://qsantos.fr/2025/03/03/indexeddb-is-weird/)
