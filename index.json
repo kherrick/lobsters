@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-06-18, 16:23:24",
-      "https://lobste.rs/s/zgoytt/unreasonable_effectiveness_fuzzing_for"
+      "2025-06-18, 17:26:22",
+      "https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend"
     ],
     [
-      "The Unreasonable Effectiveness of Fuzzing for Porting Programs",
-      "https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing"
+      "Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads",
+      "https://boydkane.com/projects/crates-download-ratio"
+    ]
+  ],
+  [
+    [
+      "2025-06-18, 17:22:43",
+      "https://lobste.rs/s/xojls9/brute_squad"
+    ],
+    [
+      "The Brute Squad",
+      "https://sourcegraph.com/blog/the-brute-squad"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "KDE Plasma 6.4 released",
       "https://kde.org/announcements/plasma/6/6.4.0/"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 13:18:20",
-      "https://lobste.rs/s/endekb/zb_beta_released"
-    ],
-    [
-      "zb beta released",
-      "https://www.zombiezen.com/blog/2025/06/zb-beta-release/"
     ]
   ],
   [
