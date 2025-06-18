@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-18, 14:16:48",
+      "https://lobste.rs/s/s9xvjr/notes_on_retries"
+    ],
+    [
+      "Notes on retries",
+      "https://justinblank.com/notebooks/retries.html"
+    ]
+  ],
+  [
+    [
       "2025-06-18, 14:05:58",
       "https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything"
     ],
@@ -47,16 +57,6 @@
     [
       "Programming Language Design in the Era of LLMs: A Return to Mediocrity?",
       "https://kirancodes.me/posts/log-lang-design-llms.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 08:10:44",
-      "https://lobste.rs/s/vaktzj/query_your_postgres_database_using_plain"
-    ],
-    [
-      "Query Your Postgres Database Using Plain English",
-      "https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158"
     ]
   ],
   [
