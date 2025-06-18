@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-18, 18:11:35](https://lobste.rs/s/tdlede/deep_dive_explainer_on_ink_switch_s_beekem) - [A deep-dive explainer on Ink and Switch's BeeKEM protocol](https://meri.garden/a-deep-dive-explainer-on-beekem-protocol/)
 * [2025-06-18, 17:57:32](https://lobste.rs/s/rwbtwd/zed_debugger_is_here) - [The Zed Debugger is Here](https://zed.dev/blog/debugger)
 * [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
+* [2025-06-18, 16:23:24](https://lobste.rs/s/zgoytt/unreasonable_effectiveness_fuzzing_for) - [The Unreasonable Effectiveness of Fuzzing for Porting Programs](https://rjp.io/blog/2025-06-17-unreasonable-effectiveness-of-fuzzing)
 * [2025-06-18, 15:50:01](https://lobste.rs/s/skgrlr/llm_agents_are_breaking_your_platform_not) - [LLM Agents Are Breaking Your Platform, Not Your Architecture](https://www.junctionlabs.io/blog/llm-agents-are-breaking-your-platform-not-your-architecture)
 * [2025-06-18, 15:22:49](https://lobste.rs/s/boq7tt/cock_li_email_provider_data_leak_from) - [Cock.li email provider data leak from roundcube](https://mail.cock.li/)
 * [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
