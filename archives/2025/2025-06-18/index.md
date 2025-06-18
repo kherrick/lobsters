@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-18](index.md)
 
+* [2025-06-18, 11:03:04](https://lobste.rs/s/8ragze/hammurabi_rust_recreation_classic_1968) - [hammurabi: A Rust recreation of the classic 1968 BASIC game](https://github.com/stjepangolemac/hammurabi)
 * [2025-06-18, 08:53:22](https://lobste.rs/s/ajv5qd/programming_language_design_era_llms) - [Programming Language Design in the Era of LLMs: A Return to Mediocrity?](https://kirancodes.me/posts/log-lang-design-llms.html)
 * [2025-06-18, 08:10:44](https://lobste.rs/s/vaktzj/query_your_postgres_database_using_plain) - [Query Your Postgres Database Using Plain English](https://medium.com/@benderv/query-your-postgres-database-using-plain-english-febd2c50a158)
 * [2025-06-18, 08:09:29](https://lobste.rs/s/rgjqbd/your_brain_on_chatgpt) - [Your Brain on ChatGPT](https://www.media.mit.edu/projects/your-brain-on-chatgpt/overview/)
