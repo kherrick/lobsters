@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-19, 15:54:51](https://lobste.rs/s/6sbyyj/16_billion_record_data_breach_no_one_s_ever) - [The 16-billion-record data breach that no one’s ever heard of](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/)
 * [2025-06-19, 15:48:01](https://lobste.rs/s/1xjwe5/programming_considered_harmful) - [Programming Considered Harmful](https://flownet.com/ron/papers/pch.html)
 * [2025-06-19, 15:25:24](https://lobste.rs/s/ibk13a/introduction_competitive_programming) - [Introduction to competitive programming in Haskell](https://byorgey.github.io/blog/posts/2025/06/10/comprog-hs-intro.html)
 * [2025-06-19, 15:17:33](https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle) - [A Dynamic Graph Approach to Immediate Cycle Collection](https://dl.acm.org/doi/10.1145/3735950.3735953)
@@ -10,7 +11,6 @@
 * [2025-06-19, 08:39:22](https://lobste.rs/s/sk0zq9/liberux_nexx_interview_with_liberux) - [Liberux Nexx: An interview with Liberux about their made-in-EU OSHW Linux Phone](https://linmob.net/liberux-nexx-an-interview-with-liberux/)
 * [2025-06-19, 07:26:04](https://lobste.rs/s/6wndbg/files_repository_file_generation_flake) - [files: In-repository file generation flake-parts module](https://github.com/mightyiam/files)
 * [2025-06-19, 07:10:03](https://lobste.rs/s/tmwtbd/more_frontend_web_tricks) - [More Frontend Web Tricks](https://kaiwenwang.com/writing/more-frontend-web-tricks)
-* [2025-06-19, 06:37:21](https://lobste.rs/s/yrqfcz/now_might_be_best_time_learn_software) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
 * [2025-06-19, 06:37:07](https://lobste.rs/s/blwshw/charmbracelet_fang_cli_starter_kit) - [charmbracelet/fang: The CLI starter kit](https://github.com/charmbracelet/fang)
 * [2025-06-19, 00:07:26](https://lobste.rs/s/7l446f/should_we_design_for_iffy_internet) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-18, 23:31:32](https://lobste.rs/s/s0inoo/accessibility_programming_doesn_t_feel) - [Accessibility Programming Doesn't Feel Accessible](https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/)
