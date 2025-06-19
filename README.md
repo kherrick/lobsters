@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-19, 07:10:03](https://lobste.rs/s/tmwtbd/more_frontend_web_tricks) - [More Frontend Web Tricks](https://kaiwenwang.com/writing/more-frontend-web-tricks)
 * [2025-06-19, 06:38:13](https://lobste.rs/s/op2gn3/agentic_engineering_action_with) - [Agentic Engineering in Action with Mitchell Hashimoto](https://www.youtube.com/watch?v=XyQ4ZTS5dGw)
 * [2025-06-19, 06:37:21](https://lobste.rs/s/yrqfcz/now_might_be_best_time_learn_software) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
 * [2025-06-19, 06:37:07](https://lobste.rs/s/blwshw/charmbracelet_fang_cli_starter_kit) - [charmbracelet/fang: The CLI starter kit](https://github.com/charmbracelet/fang)
@@ -24,7 +25,6 @@
 * [2025-06-17, 21:01:41](https://lobste.rs/s/i4cjur/kicad_wayland_support) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
 * [2025-06-17, 20:48:04](https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker) - [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 * [2025-06-17, 18:27:47](https://lobste.rs/s/uqniaz/double_entry_ledgers_missing_primitive) - [Double-Entry Ledgers: The Missing Primitive in Modern Software](https://www.pgrs.net/2025/06/17/double-entry-ledgers-missing-primitive-in-modern-software/)
-* [2025-06-17, 12:50:58](https://lobste.rs/s/k5tt4a/is_it_really_foss) - [is it really FOSS?](https://isitreallyfoss.com/)
 
 ## [Archives](archives/index.md)
 
