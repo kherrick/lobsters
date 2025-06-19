@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-06-19, 14:46:13",
-      "https://lobste.rs/s/exddjl/software_is_changing_again"
+      "2025-06-19, 15:17:33",
+      "https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle"
     ],
     [
-      "Software Is Changing (Again)",
-      "https://www.youtube.com/watch?v=LCEmiRjPEtQ"
+      "A Dynamic Graph Approach to Immediate Cycle Collection",
+      "https://dl.acm.org/doi/10.1145/3735950.3735953"
     ]
   ],
   [
     [
-      "2025-06-19, 13:32:48",
-      "https://lobste.rs/s/jgzsmh/tag_proposal_jargon"
+      "2025-06-19, 15:03:23",
+      "https://lobste.rs/s/mis3e8/posit_thin_triangle_other_tricks_2019"
     ],
     [
-      "Tag proposal: jargon",
-      "https://lobste.rs/s/jgzsmh/tag_proposal_jargon"
+      "posit: thin triangle and other tricks (2019!)",
+      "http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "charmbracelet/fang: The CLI starter kit",
       "https://github.com/charmbracelet/fang"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 06:28:32",
+      "https://lobste.rs/s/h0x2za/new_linux_flaws_enable_full_root_access"
+    ],
+    [
+      "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
+      "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why I Won't Use AI",
       "https://agentultra.com/blog/why-i-wont-use-ai/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-17, 21:01:41",
-      "https://lobste.rs/s/i4cjur/kicad_wayland_support"
-    ],
-    [
-      "KiCad and Wayland Support",
-      "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/"
     ]
   ]
 ]
