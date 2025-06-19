@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-06-19, 06:35:48",
-      "https://lobste.rs/s/rs7a1v/i_feel_open_source_has_turned_into_two"
-    ],
-    [
-      "I feel open source has turned into two worlds",
-      "https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSourceTwoWorlds"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 00:07:26",
       "https://lobste.rs/s/7l446f/should_we_design_for_iffy_internet"
     ],
@@ -247,6 +237,16 @@
     [
       "KiCad and Wayland Support",
       "https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/"
+    ]
+  ],
+  [
+    [
+      "2025-06-17, 20:48:04",
+      "https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker"
+    ],
+    [
+      "Resurrecting a dead torrent tracker and finding 3 million peers",
+      "https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html"
     ]
   ]
 ]
