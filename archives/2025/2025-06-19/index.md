@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 15:17:33](https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle) - [A Dynamic Graph Approach to Immediate Cycle Collection](https://dl.acm.org/doi/10.1145/3735950.3735953)
+* [2025-06-19, 15:03:23](https://lobste.rs/s/mis3e8/posit_thin_triangle_other_tricks_2019) - [posit: thin triangle and other tricks (2019!)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
 * [2025-06-19, 14:46:13](https://lobste.rs/s/exddjl/software_is_changing_again) - [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-19, 13:32:48](https://lobste.rs/s/jgzsmh/tag_proposal_jargon) - [Tag proposal: jargon](https://lobste.rs/s/jgzsmh/tag_proposal_jargon)
 * [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
