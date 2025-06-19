@@ -4,5 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 06:38:13](https://lobste.rs/s/op2gn3/agentic_engineering_action_with) - [Agentic Engineering in Action with Mitchell Hashimoto](https://www.youtube.com/watch?v=XyQ4ZTS5dGw)
+* [2025-06-19, 06:37:21](https://lobste.rs/s/yrqfcz/now_might_be_best_time_learn_software) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
+* [2025-06-19, 06:37:07](https://lobste.rs/s/blwshw/charmbracelet_fang_cli_starter_kit) - [charmbracelet/fang: The CLI starter kit](https://github.com/charmbracelet/fang)
 * [2025-06-19, 06:28:32](https://lobste.rs/s/h0x2za/new_linux_flaws_enable_full_root_access) - [New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions](https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html)
 * [2025-06-19, 00:07:26](https://lobste.rs/s/7l446f/should_we_design_for_iffy_internet) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
