@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-06-19, 15:25:24",
-      "https://lobste.rs/s/ibk13a/introduction_competitive_programming"
-    ],
-    [
-      "Introduction to competitive programming in Haskell",
-      "https://byorgey.github.io/blog/posts/2025/06/10/comprog-hs-intro.html"
-    ]
-  ],
-  [
-    [
       "2025-06-19, 15:17:33",
       "https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle"
     ],
@@ -117,6 +107,16 @@
     [
       "charmbracelet/fang: The CLI starter kit",
       "https://github.com/charmbracelet/fang"
+    ]
+  ],
+  [
+    [
+      "2025-06-19, 06:28:32",
+      "https://lobste.rs/s/h0x2za/new_linux_flaws_enable_full_root_access"
+    ],
+    [
+      "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
+      "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html"
     ]
   ],
   [
