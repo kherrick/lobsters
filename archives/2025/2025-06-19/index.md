@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 10:27:52](https://lobste.rs/s/jnhsdh/2025_stack_overflow_developer_survey) - [2025 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm)
 * [2025-06-19, 10:10:27](https://lobste.rs/s/cjnt2y/rewriting_kafka_rust_async_insights) - [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/)
 * [2025-06-19, 08:52:49](https://lobste.rs/s/qc3ywx/elliptic_curves_as_art) - [Elliptic curves as art](https://elliptic-curves.art/)

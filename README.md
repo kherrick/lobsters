@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 10:27:52](https://lobste.rs/s/jnhsdh/2025_stack_overflow_developer_survey) - [2025 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm)
 * [2025-06-19, 10:10:27](https://lobste.rs/s/cjnt2y/rewriting_kafka_rust_async_insights) - [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/)
 * [2025-06-19, 08:52:49](https://lobste.rs/s/qc3ywx/elliptic_curves_as_art) - [Elliptic curves as art](https://elliptic-curves.art/)
@@ -24,7 +25,6 @@
 * [2025-06-18, 13:49:12](https://lobste.rs/s/h08v9z/plight_misunderstood_memory_ordering) - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 * [2025-06-18, 04:24:56](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai) - [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 * [2025-06-17, 21:01:41](https://lobste.rs/s/i4cjur/kicad_wayland_support) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
-* [2025-06-17, 20:48:04](https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker) - [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 
 ## [Archives](archives/index.md)
 
