@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 16:53:45](https://lobste.rs/s/abtv3h/gui_actor_gui_actor_coordinate_free) - [GUI-Actor: GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents](https://github.com/microsoft/GUI-Actor)
 * [2025-06-19, 16:41:29](https://lobste.rs/s/ac19tp/2048_with_only_64_bits_state) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
 * [2025-06-19, 15:54:51](https://lobste.rs/s/6sbyyj/16_billion_record_data_breach_no_one_s_ever) - [The 16-billion-record data breach that no one’s ever heard of](https://cybernews.com/security/billions-credentials-exposed-infostealers-data-leak/)
 * [2025-06-19, 15:48:01](https://lobste.rs/s/1xjwe5/programming_considered_harmful) - [Programming Considered Harmful](https://flownet.com/ron/papers/pch.html)
