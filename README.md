@@ -9,7 +9,6 @@
 * [2025-06-19, 07:10:03](https://lobste.rs/s/tmwtbd/more_frontend_web_tricks) - [More Frontend Web Tricks](https://kaiwenwang.com/writing/more-frontend-web-tricks)
 * [2025-06-19, 06:37:21](https://lobste.rs/s/yrqfcz/now_might_be_best_time_learn_software) - [Now might be the best time to learn software development](https://substack.com/home/post/p-165655726)
 * [2025-06-19, 06:37:07](https://lobste.rs/s/blwshw/charmbracelet_fang_cli_starter_kit) - [charmbracelet/fang: The CLI starter kit](https://github.com/charmbracelet/fang)
-* [2025-06-19, 06:35:48](https://lobste.rs/s/rs7a1v/i_feel_open_source_has_turned_into_two) - [I feel open source has turned into two worlds](https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSourceTwoWorlds)
 * [2025-06-19, 00:07:26](https://lobste.rs/s/7l446f/should_we_design_for_iffy_internet) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-18, 23:31:32](https://lobste.rs/s/s0inoo/accessibility_programming_doesn_t_feel) - [Accessibility Programming Doesn't Feel Accessible](https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/)
 * [2025-06-18, 22:53:08](https://lobste.rs/s/tuze84/s7_scheme) - [s7 scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html)
@@ -25,6 +24,7 @@
 * [2025-06-18, 13:49:12](https://lobste.rs/s/h08v9z/plight_misunderstood_memory_ordering) - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 * [2025-06-18, 04:24:56](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai) - [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 * [2025-06-17, 21:01:41](https://lobste.rs/s/i4cjur/kicad_wayland_support) - [KiCad and Wayland Support](https://www.kicad.org/blog/2025/06/KiCad-and-Wayland-Support/)
+* [2025-06-17, 20:48:04](https://lobste.rs/s/jamcvc/resurrecting_dead_torrent_tracker) - [Resurrecting a dead torrent tracker and finding 3 million peers](https://kianbradley.com/2025/06/15/resurrecting-a-dead-tracker.html)
 
 ## [Archives](archives/index.md)
 
