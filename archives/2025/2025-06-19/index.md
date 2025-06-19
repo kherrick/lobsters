@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 15:48:01](https://lobste.rs/s/1xjwe5/programming_considered_harmful) - [Programming Considered Harmful](https://flownet.com/ron/papers/pch.html)
 * [2025-06-19, 15:25:24](https://lobste.rs/s/ibk13a/introduction_competitive_programming) - [Introduction to competitive programming in Haskell](https://byorgey.github.io/blog/posts/2025/06/10/comprog-hs-intro.html)
 * [2025-06-19, 15:17:33](https://lobste.rs/s/jtrrow/dynamic_graph_approach_immediate_cycle) - [A Dynamic Graph Approach to Immediate Cycle Collection](https://dl.acm.org/doi/10.1145/3735950.3735953)
 * [2025-06-19, 15:03:23](https://lobste.rs/s/mis3e8/posit_thin_triangle_other_tricks_2019) - [posit: thin triangle and other tricks (2019!)](http://marc-b-reynolds.github.io/math/2019/02/06/Posit1.html)
