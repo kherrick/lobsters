@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-19, 00:07:26](https://lobste.rs/s/7l446f/should_we_design_for_iffy_internet) - [Should we design for iffy internet?](https://bytes.zone/posts/should-we-design-for-iffy-internet/)
 * [2025-06-18, 23:59:43](https://lobste.rs/s/agsbxp/mcp_specification_2025_06_18) - [MCP Specification - 2025-06-18](https://modelcontextprotocol.io/specification/2025-06-18)
 * [2025-06-18, 23:31:32](https://lobste.rs/s/s0inoo/accessibility_programming_doesn_t_feel) - [Accessibility Programming Doesn't Feel Accessible](https://acidiclight.dev/blog/accessibility-does-not-feel-accessible/)
 * [2025-06-18, 22:53:08](https://lobste.rs/s/tuze84/s7_scheme) - [s7 scheme](https://ccrma.stanford.edu/software/snd/snd/s7.html)
@@ -12,7 +13,6 @@
 * [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
 * [2025-06-18, 15:22:49](https://lobste.rs/s/boq7tt/cock_li_email_provider_data_leak_from) - [Cock.li email provider data leak from roundcube](https://mail.cock.li/)
 * [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
-* [2025-06-18, 14:55:25](https://lobste.rs/s/3mz0b9/getting_lustre_upstream) - [Getting Lustre upstream](https://lwn.net/SubscriberLink/1025268/1d60e7f20fcd5bc2/)
 * [2025-06-18, 14:05:58](https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything) - [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
 * [2025-06-18, 13:49:12](https://lobste.rs/s/h08v9z/plight_misunderstood_memory_ordering) - [The plight of the misunderstood memory ordering](https://www.grayolson.me/blog/posts/misunderstood-memory-ordering/)
 * [2025-06-18, 12:26:24](https://lobste.rs/s/ydsjiy/shadow_browser_engine_from_scratch) - [Shadow: A browser engine from scratch in Javascript](https://shadow.goose.icu)
