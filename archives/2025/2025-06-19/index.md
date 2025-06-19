@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-19](index.md)
 
+* [2025-06-19, 14:46:13](https://lobste.rs/s/exddjl/software_is_changing_again) - [Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [2025-06-19, 13:32:48](https://lobste.rs/s/jgzsmh/tag_proposal_jargon) - [Tag proposal: jargon](https://lobste.rs/s/jgzsmh/tag_proposal_jargon)
 * [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 * [2025-06-19, 10:27:52](https://lobste.rs/s/jnhsdh/2025_stack_overflow_developer_survey) - [2025 Stack Overflow Developer Survey](https://stackoverflow.az1.qualtrics.com/jfe/form/SV_1MNG2CYTY2AzkAm)
