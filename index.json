@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 17:35:05",
+      "https://lobste.rs/s/vqvmyl/improvements_udp_hole_punching"
+    ],
+    [
+      "Improvements to the UDP Hole Punching",
+      "https://github.com/kupson/udp-hole-punching/tree/main"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 17:22:18",
       "https://lobste.rs/s/qekbyn/ruby_schema_collection_json_schemas_for"
     ],
@@ -137,16 +147,6 @@
     [
       "Zig And Rust (2023)",
       "https://matklad.github.io/2023/03/26/zig-and-rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 01:44:55",
-      "https://lobste.rs/s/ibipnj/feeling_blue_noroff_inside"
-    ],
-    [
-      "Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion",
-      "https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis"
     ]
   ],
   [
