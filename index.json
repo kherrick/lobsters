@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 15:05:36",
+      "https://lobste.rs/s/ixjwwe/reworking_memory_management_cruby"
+    ],
+    [
+      "Reworking Memory Management in CRuby: A Practitioner Report",
+      "https://blog.peterzhu.ca/assets/ismm_2025.pdf"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 14:02:49",
       "https://lobste.rs/s/xzzfdu/adapting_nnue_pytorch_s_binary_position"
     ],
@@ -127,16 +137,6 @@
     [
       "The Less Humble Programmer (2023)",
       "https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 18:39:01",
-      "https://lobste.rs/s/atxw9h/bibliography_scheme_related_research"
-    ],
-    [
-      "Bibliography of Scheme-related Research (2012)",
-      "https://web.archive.org/web/20180625085633/http://library.readscheme.org/"
     ]
   ],
   [
