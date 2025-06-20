@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 17:14:18](https://lobste.rs/s/midzz9/phoenix_new_remote_ai_runtime_for_phoenix) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 16:08:44](https://lobste.rs/s/astoj9/hail_maintainers_2016) - [Hail the Maintainers (2016)](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
 * [2025-06-20, 16:05:43](https://lobste.rs/s/e0yz3n/gulaschprogrammiernacht_23) - [Gulaschprogrammiernacht 23](https://media.ccc.de/c/gpn23)
 * [2025-06-20, 15:57:29](https://lobste.rs/s/usc3yp/finding_peter_putnam) - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)

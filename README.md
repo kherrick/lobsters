@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-20, 17:14:18](https://lobste.rs/s/midzz9/phoenix_new_remote_ai_runtime_for_phoenix) - [Phoenix.new – The Remote AI Runtime for Phoenix](https://fly.io/blog/phoenix-new-the-remote-ai-runtime/)
 * [2025-06-20, 16:08:44](https://lobste.rs/s/astoj9/hail_maintainers_2016) - [Hail the Maintainers (2016)](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
 * [2025-06-20, 16:05:43](https://lobste.rs/s/e0yz3n/gulaschprogrammiernacht_23) - [Gulaschprogrammiernacht 23](https://media.ccc.de/c/gpn23)
 * [2025-06-20, 15:57:29](https://lobste.rs/s/usc3yp/finding_peter_putnam) - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)
@@ -15,7 +16,6 @@
 * [2025-06-20, 01:44:55](https://lobste.rs/s/ibipnj/feeling_blue_noroff_inside) - [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
 * [2025-06-20, 01:35:36](https://lobste.rs/s/bwbvcn/revisiting_knuth_s_premature) - [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
 * [2025-06-20, 00:18:37](https://lobste.rs/s/4gcvo0/metaobject_protocols_why_we_want_them) - [Metaobject Protocols: Why we want them and what else they can do (1993)](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf)
-* [2025-06-19, 19:56:36](https://lobste.rs/s/ofnqos/less_humble_programmer_2023) - [The Less Humble Programmer (2023)](https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html)
 * [2025-06-19, 18:09:51](https://lobste.rs/s/76i5wh/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 * [2025-06-19, 17:26:54](https://lobste.rs/s/5dbwyr/homegrown_closures_for_uxn) - [Homegrown closures for Uxn](https://krzysckh.org/b/Homegrown-closures-for-uxn.html)
 * [2025-06-19, 16:41:29](https://lobste.rs/s/ac19tp/2048_with_only_64_bits_state) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
