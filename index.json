@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 14:02:49",
+      "https://lobste.rs/s/xzzfdu/adapting_nnue_pytorch_s_binary_position"
+    ],
+    [
+      "Adapting nnue-pytorch's binary position format for Lichess",
+      "https://lichess.org/@/revoof/blog/adapting-nnue-pytorchs-binary-position-format-for-lichess/cpeeAMeY"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 13:44:36",
       "https://lobste.rs/s/2nzhe4/let_s_all_write_good_software"
     ],
@@ -227,16 +237,6 @@
     [
       "Quick notes on a brief agentic coding experience",
       "https://olano.dev/blog/agentic-coding-experience/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 17:57:32",
-      "https://lobste.rs/s/rwbtwd/zed_debugger_is_here"
-    ],
-    [
-      "The Zed Debugger is Here",
-      "https://zed.dev/blog/debugger"
     ]
   ],
   [
