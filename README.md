@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-20, 00:18:37](https://lobste.rs/s/4gcvo0/metaobject_protocols_why_we_want_them) - [Metaobject Protocols: Why we want them and what else they can do](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf)
+* [2025-06-20, 01:44:55](https://lobste.rs/s/ibipnj/feeling_blue_noroff_inside) - [Feeling Blue(Noroff): Inside a Sophisticated DPRK Web3 Intrusion](https://www.huntress.com/blog/inside-bluenoroff-web3-intrusion-analysis)
+* [2025-06-20, 01:35:36](https://lobste.rs/s/bwbvcn/revisiting_knuth_s_premature) - [Revisiting Knuth’s “Premature Optimization” Paper](https://probablydance.com/2025/06/19/revisiting-knuths-premature-optimization-paper/)
+* [2025-06-20, 00:18:37](https://lobste.rs/s/4gcvo0/metaobject_protocols_why_we_want_them) - [Metaobject Protocols: Why we want them and what else they can do (1993)](https://cseweb.ucsd.edu/%7Evahdat/papers/mop.pdf)
 * [2025-06-19, 19:56:36](https://lobste.rs/s/ofnqos/less_humble_programmer_2023) - [The Less Humble Programmer (2023)](https://digitalhumanities.org/dhq/vol/17/2/000698/000698.html)
 * [2025-06-19, 18:39:01](https://lobste.rs/s/atxw9h/bibliography_scheme_related_research) - [Bibliography of Scheme-related Research (2012)](https://web.archive.org/web/20180625085633/http://library.readscheme.org/)
 * [2025-06-19, 18:09:51](https://lobste.rs/s/76i5wh/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
@@ -19,12 +21,10 @@
 * [2025-06-18, 21:39:09](https://lobste.rs/s/1nyzfj/it_s_true_we_don_t_care_about_accessibility) - [It’s True, “We” Don’t Care About Accessibility on Linux](https://tesk.page/2025/06/18/its-true-we-dont-care-about-accessibility-on-linux/)
 * [2025-06-18, 21:08:20](https://lobste.rs/s/5moehg/quick_notes_on_brief_agentic_coding) - [Quick notes on a brief agentic coding experience](https://olano.dev/blog/agentic-coding-experience/)
 * [2025-06-18, 20:16:53](https://lobste.rs/s/ncg3v3/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
-* [2025-06-18, 19:38:23](https://lobste.rs/s/qgmjfe/gcc_glibc_stack_unwinding_relocations) - [GCC, glibc, stack unwinding and relocations – A war story](https://blog.sergiodj.net/posts/gcc-glibc-stack-unwinding-relocations-bug/)
 * [2025-06-18, 17:57:32](https://lobste.rs/s/rwbtwd/zed_debugger_is_here) - [The Zed Debugger is Here](https://zed.dev/blog/debugger)
 * [2025-06-18, 17:26:22](https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend) - [Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads](https://boydkane.com/projects/crates-download-ratio)
 * [2025-06-18, 15:06:53](https://lobste.rs/s/lalc7r/moving_on_from_nix) - [Moving on from Nix](https://carlosbecker.com/posts/bye-nix/)
 * [2025-06-18, 14:05:58](https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything) - [The Server Doesn't Render Anything](https://unplannedobsolescence.com/blog/the-server-doesnt-render/)
-* [2025-06-18, 04:24:56](https://lobste.rs/s/imjzlb/why_i_won_t_use_ai) - [Why I Won't Use AI](https://agentultra.com/blog/why-i-wont-use-ai/index.html)
 
 ## [Archives](archives/index.md)
 
