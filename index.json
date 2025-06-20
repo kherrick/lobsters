@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 02:58:39",
+      "https://lobste.rs/s/hnfoam/zig_rust"
+    ],
+    [
+      "Zig And Rust",
+      "https://matklad.github.io/2023/03/26/zig-and-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 01:44:55",
       "https://lobste.rs/s/ibipnj/feeling_blue_noroff_inside"
     ],
@@ -167,16 +177,6 @@
     [
       "New Linux Flaws Enable Full Root Access via PAM and Udisks Across Major Distributions",
       "https://thehackernews.com/2025/06/new-linux-flaws-enable-full-root-access.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 22:53:08",
-      "https://lobste.rs/s/tuze84/s7_scheme"
-    ],
-    [
-      "s7 scheme",
-      "https://ccrma.stanford.edu/software/snd/snd/s7.html"
     ]
   ],
   [
