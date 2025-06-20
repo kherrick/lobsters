@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-20, 22:03:21](https://lobste.rs/s/sd5nda/mozilla_is_killing_its_pocket_fakespot) - [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
+* [2025-06-20, 22:03:20](https://lobste.rs/s/jk27om/avoid_workspaces_2014) - [Avoid workspaces (2014)](https://blog.z3bra.org/2014/11/avoid-workspaces.html)
 * [2025-06-20, 21:51:08](https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code) - [What are the Most Beautiful/Insightful Code Bases?](https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code)
 * [2025-06-20, 21:35:02](https://lobste.rs/s/w5zxkz/time_i_tried_browsing_web_without_css) - [That Time I Tried Browsing the Web Without CSS](https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/)
-* [2025-06-20, 21:33:22](https://lobste.rs/s/6esqkv/differences_between_orioledb_neon) - [The differences between OrioleDB and Neon](https://www.orioledb.com/blog/orioledb-neon-differences)
-* [2025-06-20, 21:32:36](https://lobste.rs/s/ildter/dispelling_myths_misinformation) - [Dispelling myths and misinformation](https://matrix.org/blog/2025/06/dispelling-myths/)
 * [2025-06-20, 21:13:24](https://lobste.rs/s/tguhdl/breaking_webauthn_fido2_forging) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
 * [2025-06-20, 18:48:39](https://lobste.rs/s/pnkkve/deep_dive_into_svt_av1_s_evolution_part_1) - [Deep Dive into SVT-AV1's Evolution (Part 1)](https://wiki.x266.mov/blog/svt-av1-fourth-deep-dive-p1)
 * [2025-06-20, 18:25:55](https://lobste.rs/s/kzzhx9/pragtical_practical_pragmatic_code) - [Pragtical - The practical and pragmatic code editor](https://pragtical.dev/)
