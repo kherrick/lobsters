@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 16:08:44](https://lobste.rs/s/astoj9/hail_maintainers_2016) - [Hail the Maintainers (2016)](https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more)
+* [2025-06-20, 16:05:43](https://lobste.rs/s/e0yz3n/gulaschprogrammiernacht_23) - [Gulaschprogrammiernacht 23](https://media.ccc.de/c/gpn23)
+* [2025-06-20, 15:57:29](https://lobste.rs/s/usc3yp/finding_peter_putnam) - [Finding Peter Putnam](https://nautil.us/finding-peter-putnam-1218035/)
 * [2025-06-20, 15:05:36](https://lobste.rs/s/ixjwwe/reworking_memory_management_cruby) - [Reworking Memory Management in CRuby: A Practitioner Report](https://blog.peterzhu.ca/assets/ismm_2025.pdf)
 * [2025-06-20, 14:02:49](https://lobste.rs/s/xzzfdu/adapting_nnue_pytorch_s_binary_position) - [Adapting nnue-pytorch's binary position format for Lichess](https://lichess.org/@/revoof/blog/adapting-nnue-pytorchs-binary-position-format-for-lichess/cpeeAMeY)
 * [2025-06-20, 13:44:36](https://lobste.rs/s/2nzhe4/let_s_all_write_good_software) - [Let’s All Write Good Software](https://youtu.be/eZ1mmqlq-mY)
