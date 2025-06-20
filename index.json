@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-06-20, 16:08:44",
+      "https://lobste.rs/s/astoj9/hail_maintainers_2016"
+    ],
+    [
+      "Hail the Maintainers (2016)",
+      "https://aeon.co/essays/innovation-is-overvalued-maintenance-often-matters-more"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 16:05:43",
+      "https://lobste.rs/s/e0yz3n/gulaschprogrammiernacht_23"
+    ],
+    [
+      "Gulaschprogrammiernacht 23",
+      "https://media.ccc.de/c/gpn23"
+    ]
+  ],
+  [
+    [
+      "2025-06-20, 15:57:29",
+      "https://lobste.rs/s/usc3yp/finding_peter_putnam"
+    ],
+    [
+      "Finding Peter Putnam",
+      "https://nautil.us/finding-peter-putnam-1218035/"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 15:05:36",
       "https://lobste.rs/s/ixjwwe/reworking_memory_management_cruby"
     ],
@@ -77,16 +107,6 @@
     [
       "JavaScript broke the web (and called it progress)",
       "https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 05:08:06",
-      "https://lobste.rs/s/uf70vb/achieving_excellence_open_source"
-    ],
-    [
-      "Achieving Excellence in Open Source Software Design",
-      "https://www.youtube.com/watch?v=12TJ-zTgiH0"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "charmbracelet/fang: The CLI starter kit",
       "https://github.com/charmbracelet/fang"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 21:08:20",
-      "https://lobste.rs/s/5moehg/quick_notes_on_brief_agentic_coding"
-    ],
-    [
-      "Quick notes on a brief agentic coding experience",
-      "https://olano.dev/blog/agentic-coding-experience/"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 14:05:58",
-      "https://lobste.rs/s/8t6uxp/server_doesn_t_render_anything"
-    ],
-    [
-      "The Server Doesn't Render Anything",
-      "https://unplannedobsolescence.com/blog/the-server-doesnt-render/"
     ]
   ]
 ]
