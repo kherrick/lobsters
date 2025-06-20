@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 17:22:18",
+      "https://lobste.rs/s/qekbyn/ruby_schema_collection_json_schemas_for"
+    ],
+    [
+      "Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem",
+      "https://github.com/joeldrapper/rubyschema"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 17:14:18",
       "https://lobste.rs/s/midzz9/phoenix_new_remote_ai_runtime_for_phoenix"
     ],
@@ -227,16 +237,6 @@
     [
       "Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust",
       "https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned/"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 08:52:49",
-      "https://lobste.rs/s/qc3ywx/elliptic_curves_as_art"
-    ],
-    [
-      "Elliptic curves as art",
-      "https://elliptic-curves.art/"
     ]
   ],
   [
