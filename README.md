@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-06-20, 23:15:15](https://lobste.rs/s/gkcyzv/running_storing_3_million_llm_ai_requests) - [Running and storing 3+ million LLM AI requests without spending $100,000](https://boyter.org/posts/three-million-llm-requests/)
+* [2025-06-20, 23:27:42](https://lobste.rs/s/ncraze/learn_you_galois_fields_for_great_good) - [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html)
 * [2025-06-20, 22:03:21](https://lobste.rs/s/sd5nda/mozilla_is_killing_its_pocket_fakespot) - [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
 * [2025-06-20, 22:03:20](https://lobste.rs/s/jk27om/avoid_workspaces_2014) - [Avoid workspaces (2014)](https://blog.z3bra.org/2014/11/avoid-workspaces.html)
 * [2025-06-20, 21:51:08](https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code) - [What are the Most Beautiful/Insightful Code Bases?](https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code)
