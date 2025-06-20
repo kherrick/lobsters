@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-20, 08:43:42",
+      "https://lobste.rs/s/la5mgg/infinite_mac_os_x"
+    ],
+    [
+      "Infinite Mac OS X",
+      "https://blog.persistent.info/2025/03/infinite-mac-os-x.html"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 08:10:34",
       "https://lobste.rs/s/jrm2jd/pipelined_state_machine_corruption"
     ],
@@ -227,16 +237,6 @@
     [
       "The Zed Debugger is Here",
       "https://zed.dev/blog/debugger"
-    ]
-  ],
-  [
-    [
-      "2025-06-18, 17:26:22",
-      "https://lobste.rs/s/mwdh7t/analysing_rust_crates_for_weekend"
-    ],
-    [
-      "Analysing Rust crates for weekend (hobbyist) vs weekday (working-dev) downloads",
-      "https://boydkane.com/projects/crates-download-ratio"
     ]
   ],
   [
