@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 16:58:16](https://lobste.rs/s/nxwegm/good_at_job_bad_at_interview_time_rethink) - [Good at the Job, Bad at the Interview: Time to Rethink Hiring](https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie)
 * [2025-06-21, 16:50:05](https://lobste.rs/s/bgm76q/about_plasma_s_x11_session) - [About Plasma’s X11 session](https://pointieststick.com/2025/06/21/about-plasmas-x11-session/)
 * [2025-06-21, 15:10:52](https://lobste.rs/s/cwxos5/remaking_celeste_s_lighting) - [Remaking Celeste's Lighting](https://noelberry.ca/posts/celeste_lighting/)
 * [2025-06-21, 15:00:39](https://lobste.rs/s/zvnxst/reflection_open_implementations_2006) - [Reflection and open implementations (2006)](https://www.dcc.uchile.cl/~etanter/courses/cc71p/2006/reflection_oi.pdf)
