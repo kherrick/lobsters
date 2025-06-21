@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-06-20, 21:51:08",
+      "https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code"
+    ],
+    [
+      "What are the Most Beautiful/Insightful Code Bases?",
+      "https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code"
+    ]
+  ],
+  [
+    [
       "2025-06-20, 21:13:24",
       "https://lobste.rs/s/tguhdl/breaking_webauthn_fido2_forging"
     ],
@@ -237,16 +247,6 @@
     [
       "2048 with only 64 bits of state",
       "https://github.com/izabera/bitwise-challenge-2048"
-    ]
-  ],
-  [
-    [
-      "2025-06-19, 12:00:14",
-      "https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like"
-    ],
-    [
-      "What Would a Kubernetes 2.0 Look Like",
-      "https://matduggan.com/what-would-a-kubernetes-2-0-look-like/"
     ]
   ]
 ]
