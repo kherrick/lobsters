@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 08:57:21](https://lobste.rs/s/5zj5e9/cosmoe_beos_class_library_on_top_wayland) - [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
 * [2025-06-21, 05:07:05](https://lobste.rs/s/zibhyg/praise_normal_engineers) - [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 * [2025-06-21, 04:50:32](https://lobste.rs/s/sht9yv/agi_economy_is_coming_faster_than_you) - [The AGI economy is coming faster than you think](https://www.freethink.com/artificial-intelligence/agi-economy)
 * [2025-06-21, 04:44:14](https://lobste.rs/s/urjnnp/course_ml_has_monads_2011) - [Of Course ML Has Monads! (2011)](https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/)
