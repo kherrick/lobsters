@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-21, 23:44:25](https://lobste.rs/s/ecsykp/see_jane_128_by_arktronics_run_featuring) - [See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
 * [2025-06-21, 23:39:00](https://lobste.rs/s/mrwcem/bind_loose_reference) - [To Bind and Loose a Reference](https://thephd.dev/to-bind-and-loose-a-reference-optional)
 * [2025-06-21, 22:31:11](https://lobste.rs/s/ynhp4q/application_first_media_over_quic) - [Application First - Media over QUIC](https://quic.video/blog/application-first)
 * [2025-06-21, 22:30:23](https://lobste.rs/s/toboca/adding_linear_time_lookbehinds_re2) - [Adding linear-time lookbehinds to RE2](https://systemf.epfl.ch/blog/re2-lookbehinds/)
@@ -18,7 +19,6 @@
 * [2025-06-21, 09:27:08](https://lobste.rs/s/lwtxev/hare_0_25_2_released) - [Hare 0.25.2 released](https://harelang.org/blog/2025-06-21-hare-0.25.2-released/)
 * [2025-06-21, 08:57:21](https://lobste.rs/s/5zj5e9/cosmoe_beos_class_library_on_top_wayland) - [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
 * [2025-06-21, 05:07:05](https://lobste.rs/s/zibhyg/praise_normal_engineers) - [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
-* [2025-06-21, 04:44:14](https://lobste.rs/s/urjnnp/course_ml_has_monads_2011) - [Of Course ML Has Monads! (2011)](https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/)
 * [2025-06-21, 00:28:24](https://lobste.rs/s/b1xxlr/more_undervalued_hardware_companions) - [More Undervalued Hardware Companions](https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/)
 * [2025-06-20, 23:54:19](https://lobste.rs/s/g3ds7c/youtube_s_new_anti_adblock_measures) - [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 * [2025-06-20, 23:51:57](https://lobste.rs/s/f38nbb/all_roads_lead_disaster) - [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
