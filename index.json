@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-21, 20:41:07",
+      "https://lobste.rs/s/injt6g/is_supabase_good_for_managing_oauth_on_ios"
+    ],
+    [
+      "Is supabase good for managing oauth on ios or should i go with firebase?",
+      "https://lobste.rs/s/injt6g/is_supabase_good_for_managing_oauth_on_ios"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 18:57:34",
       "https://lobste.rs/s/nlivz4/balatro_for_nintendo_e_reader"
     ],
@@ -237,16 +247,6 @@
     [
       "Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem",
       "https://github.com/joeldrapper/rubyschema"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 08:43:42",
-      "https://lobste.rs/s/la5mgg/infinite_mac_os_x"
-    ],
-    [
-      "Infinite Mac OS X",
-      "https://blog.persistent.info/2025/03/infinite-mac-os-x.html"
     ]
   ]
 ]
