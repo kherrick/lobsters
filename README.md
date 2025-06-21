@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-21, 21:30:35](https://lobste.rs/s/stgeyk/rhapsody_os_installing_apple_s_lost_x86_os) - [Rhapsody OS: Installing Apple’s Lost x86 OS from 1998 on a 3.4 Ghz i7 CPU & SSD](https://www.youtube.com/watch?v=uE6qp94InBM)
 * [2025-06-21, 20:41:07](https://lobste.rs/s/injt6g/is_supabase_good_for_managing_oauth_on_ios) - [Is supabase good for managing oauth on ios or should i go with firebase?](https://lobste.rs/s/injt6g/is_supabase_good_for_managing_oauth_on_ios)
 * [2025-06-21, 18:57:34](https://lobste.rs/s/nlivz4/balatro_for_nintendo_e_reader) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 * [2025-06-21, 16:58:16](https://lobste.rs/s/nxwegm/good_at_job_bad_at_interview_time_rethink) - [Good at the Job, Bad at the Interview: Time to Rethink Hiring](https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie)
@@ -21,7 +22,6 @@
 * [2025-06-20, 23:54:19](https://lobste.rs/s/g3ds7c/youtube_s_new_anti_adblock_measures) - [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 * [2025-06-20, 23:51:57](https://lobste.rs/s/f38nbb/all_roads_lead_disaster) - [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
 * [2025-06-20, 22:03:21](https://lobste.rs/s/sd5nda/mozilla_is_killing_its_pocket_fakespot) - [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
-* [2025-06-20, 21:13:24](https://lobste.rs/s/tguhdl/breaking_webauthn_fido2_forging) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
 * [2025-06-20, 18:06:11](https://lobste.rs/s/dl5sj9/rolling_ladder_up_behind_us) - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 * [2025-06-20, 17:45:16](https://lobste.rs/s/iquhgy/so_you_want_serialize_some_der) - [So you want to serialize some DER?](https://alexgaynor.net/2025/jun/20/serialize-some-der/)
 * [2025-06-20, 17:22:18](https://lobste.rs/s/qekbyn/ruby_schema_collection_json_schemas_for) - [Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem](https://github.com/joeldrapper/rubyschema)

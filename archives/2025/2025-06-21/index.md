@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 21:30:35](https://lobste.rs/s/stgeyk/rhapsody_os_installing_apple_s_lost_x86_os) - [Rhapsody OS: Installing Apple’s Lost x86 OS from 1998 on a 3.4 Ghz i7 CPU & SSD](https://www.youtube.com/watch?v=uE6qp94InBM)
 * [2025-06-21, 20:41:07](https://lobste.rs/s/injt6g/is_supabase_good_for_managing_oauth_on_ios) - [Is supabase good for managing oauth on ios or should i go with firebase?](https://lobste.rs/s/injt6g/is_supabase_good_for_managing_oauth_on_ios)
 * [2025-06-21, 18:57:34](https://lobste.rs/s/nlivz4/balatro_for_nintendo_e_reader) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 * [2025-06-21, 16:58:16](https://lobste.rs/s/nxwegm/good_at_job_bad_at_interview_time_rethink) - [Good at the Job, Bad at the Interview: Time to Rethink Hiring](https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie)
