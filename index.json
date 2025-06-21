@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-21, 13:48:49",
+      "https://lobste.rs/s/sv6nzd/writing_basic_linux_device_driver_when"
+    ],
+    [
+      "Writing a basic Linux device driver when you know nothing about Linux drivers or USB",
+      "https://crescentro.se/posts/writing-drivers/"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 12:01:38",
       "https://lobste.rs/s/4bn3cy/why_computational_reproducibility"
     ],
@@ -197,16 +207,6 @@
     [
       "Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem",
       "https://github.com/joeldrapper/rubyschema"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 16:05:43",
-      "https://lobste.rs/s/e0yz3n/gulaschprogrammiernacht_23"
-    ],
-    [
-      "Gulaschprogrammiernacht 23",
-      "https://media.ccc.de/c/gpn23"
     ]
   ],
   [
