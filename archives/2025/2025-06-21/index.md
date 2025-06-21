@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 14:41:04](https://lobste.rs/s/rj5w1b/color_everything_css) - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/)
+* [2025-06-21, 14:38:02](https://lobste.rs/s/gqrepd/trip_report_june_2025_iso_c_standards) - [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
 * [2025-06-21, 14:23:10](https://lobste.rs/s/uhbeld/higher_your_favourite_haskell_type) - [higher: Your favourite Haskell type classes for Rust (2023)](https://github.com/bodil/higher)
 * [2025-06-21, 14:04:20](https://lobste.rs/s/ladobm/my_website_is_one_binary) - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2025-06-21, 13:48:49](https://lobste.rs/s/sv6nzd/writing_basic_linux_device_driver_when) - [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
