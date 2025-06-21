@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-21, 15:10:52",
+      "https://lobste.rs/s/cwxos5/remaking_celeste_s_lighting"
+    ],
+    [
+      "Remaking Celeste's Lighting",
+      "https://noelberry.ca/posts/celeste_lighting/"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 15:00:39",
       "https://lobste.rs/s/zvnxst/reflection_open_implementations_2006"
     ],
@@ -37,16 +47,6 @@
     [
       "Trip report: June 2025 ISO C++ standards meeting",
       "https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 14:23:10",
-      "https://lobste.rs/s/uhbeld/higher_your_favourite_haskell_type"
-    ],
-    [
-      "higher: Your favourite Haskell type classes for Rust (2023)",
-      "https://github.com/bodil/higher"
     ]
   ],
   [
