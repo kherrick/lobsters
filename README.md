@@ -10,6 +10,7 @@
 * [2025-06-21, 14:41:04](https://lobste.rs/s/rj5w1b/color_everything_css) - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/)
 * [2025-06-21, 14:38:02](https://lobste.rs/s/gqrepd/trip_report_june_2025_iso_c_standards) - [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
 * [2025-06-21, 14:04:20](https://lobste.rs/s/ladobm/my_website_is_one_binary) - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
+* [2025-06-21, 13:48:49](https://lobste.rs/s/sv6nzd/writing_basic_linux_device_driver_when) - [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
 * [2025-06-21, 12:01:38](https://lobste.rs/s/4bn3cy/why_computational_reproducibility) - [Why computational reproducibility matters](https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html)
 * [2025-06-21, 10:33:12](https://lobste.rs/s/5ubtft/scaling_our_observability_platform) - [Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
 * [2025-06-21, 10:23:04](https://lobste.rs/s/pfwzfa/open_dylan_2025_1_open_dylan_release) - [Open Dylan 2025.1 - Open Dylan Release](https://opendylan.org/release-notes/2025.1.html)
@@ -24,7 +25,6 @@
 * [2025-06-20, 22:03:21](https://lobste.rs/s/sd5nda/mozilla_is_killing_its_pocket_fakespot) - [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
 * [2025-06-20, 18:06:11](https://lobste.rs/s/dl5sj9/rolling_ladder_up_behind_us) - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
 * [2025-06-20, 17:45:16](https://lobste.rs/s/iquhgy/so_you_want_serialize_some_der) - [So you want to serialize some DER?](https://alexgaynor.net/2025/jun/20/serialize-some-der/)
-* [2025-06-20, 17:22:18](https://lobste.rs/s/qekbyn/ruby_schema_collection_json_schemas_for) - [Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem](https://github.com/joeldrapper/rubyschema)
 
 ## [Archives](archives/index.md)
 
