@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-21, 14:41:04",
+      "https://lobste.rs/s/rj5w1b/color_everything_css"
+    ],
+    [
+      "Color Everything in CSS",
+      "https://css-tricks.com/color-everything-in-css/"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 14:38:02",
+      "https://lobste.rs/s/gqrepd/trip_report_june_2025_iso_c_standards"
+    ],
+    [
+      "Trip report: June 2025 ISO C++ standards meeting",
+      "https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 14:23:10",
       "https://lobste.rs/s/uhbeld/higher_your_favourite_haskell_type"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-06-20, 22:03:20",
-      "https://lobste.rs/s/jk27om/avoid_workspaces_2014"
-    ],
-    [
-      "Avoid workspaces (2014)",
-      "https://blog.z3bra.org/2014/11/avoid-workspaces.html"
-    ]
-  ],
-  [
-    [
       "2025-06-20, 21:13:24",
       "https://lobste.rs/s/tguhdl/breaking_webauthn_fido2_forging"
     ],
@@ -217,16 +227,6 @@
     [
       "Ruby Schema, a collection of JSON schemas for YAML/JSON config files in the Ruby ecosystem",
       "https://github.com/joeldrapper/rubyschema"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 11:31:00",
-      "https://lobste.rs/s/4iglq1/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/4iglq1/what_are_you_doing_this_weekend"
     ]
   ],
   [
