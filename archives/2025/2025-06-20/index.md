@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-20](index.md)
 
+* [2025-06-20, 23:54:19](https://lobste.rs/s/g3ds7c/youtube_s_new_anti_adblock_measures) - [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
 * [2025-06-20, 23:51:57](https://lobste.rs/s/f38nbb/all_roads_lead_disaster) - [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
 * [2025-06-20, 23:27:42](https://lobste.rs/s/ncraze/learn_you_galois_fields_for_great_good) - [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html)
 * [2025-06-20, 23:15:15](https://lobste.rs/s/gkcyzv/running_storing_3_million_llm_ai_requests) - [Running and storing 3+ million LLM AI requests without spending $100,000](https://boyter.org/posts/three-million-llm-requests/)
