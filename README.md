@@ -10,6 +10,7 @@
 * [2025-06-20, 23:27:42](https://lobste.rs/s/ncraze/learn_you_galois_fields_for_great_good) - [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html)
 * [2025-06-20, 22:03:21](https://lobste.rs/s/sd5nda/mozilla_is_killing_its_pocket_fakespot) - [Mozilla is killing its Pocket and Fakespot services to focus on Firefox](https://arstechnica.com/gadgets/2025/05/mozilla-is-killing-its-pocket-and-fakespot-services-to-focus-on-firefox/)
 * [2025-06-20, 22:03:20](https://lobste.rs/s/jk27om/avoid_workspaces_2014) - [Avoid workspaces (2014)](https://blog.z3bra.org/2014/11/avoid-workspaces.html)
+* [2025-06-20, 21:51:08](https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code) - [What are the Most Beautiful/Insightful Code Bases?](https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code)
 * [2025-06-20, 21:13:24](https://lobste.rs/s/tguhdl/breaking_webauthn_fido2_forging) - [Breaking WebAuthn, FIDO2, and Forging Passkeys](https://www.nullpt.rs/forging-passkeys)
 * [2025-06-20, 18:25:55](https://lobste.rs/s/kzzhx9/pragtical_practical_pragmatic_code) - [Pragtical - The practical and pragmatic code editor](https://pragtical.dev/)
 * [2025-06-20, 18:06:11](https://lobste.rs/s/dl5sj9/rolling_ladder_up_behind_us) - [Rolling the ladder up behind us](https://xeiaso.net/blog/2025/rolling-ladder-behind-us/)
@@ -24,7 +25,6 @@
 * [2025-06-20, 02:58:39](https://lobste.rs/s/hnfoam/zig_rust_2023) - [Zig And Rust (2023)](https://matklad.github.io/2023/03/26/zig-and-rust.html)
 * [2025-06-19, 18:09:51](https://lobste.rs/s/76i5wh/i_want_love_linux_it_doesn_t_love_me_back) - [I Want to Love Linux. It Doesn’t Love Me Back: Post 4 – Wayland Is Growing Up. And Now We Don’t Have a Choice](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-4-wayland-is-growing-up-and-now-we-dont-have-a-choice/)
 * [2025-06-19, 16:41:29](https://lobste.rs/s/ac19tp/2048_with_only_64_bits_state) - [2048 with only 64 bits of state](https://github.com/izabera/bitwise-challenge-2048)
-* [2025-06-19, 12:00:14](https://lobste.rs/s/kmizrf/what_would_kubernetes_2_0_look_like) - [What Would a Kubernetes 2.0 Look Like](https://matduggan.com/what-would-a-kubernetes-2-0-look-like/)
 
 ## [Archives](archives/index.md)
 
