@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-21, 10:33:12",
+      "https://lobste.rs/s/5ubtft/scaling_our_observability_platform"
+    ],
+    [
+      "Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel",
+      "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 10:23:04",
+      "https://lobste.rs/s/pfwzfa/open_dylan_2025_1_open_dylan_release"
+    ],
+    [
+      "Open Dylan 2025.1 - Open Dylan Release",
+      "https://opendylan.org/release-notes/2025.1.html"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 10:01:57",
       "https://lobste.rs/s/8ahj8b/unexpected_security_footguns_go_s"
     ],
@@ -37,16 +57,6 @@
     [
       "In Praise of “Normal” Engineers",
       "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 04:44:14",
-      "https://lobste.rs/s/urjnnp/course_ml_has_monads_2011"
-    ],
-    [
-      "Of Course ML Has Monads! (2011)",
-      "https://existentialtype.wordpress.com/2011/05/01/of-course-ml-has-monads/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Avoid workspaces (2014)",
       "https://blog.z3bra.org/2014/11/avoid-workspaces.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 21:51:08",
-      "https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code"
-    ],
-    [
-      "What are the Most Beautiful/Insightful Code Bases?",
-      "https://lobste.rs/s/emzwaj/what_are_most_beautiful_insightful_code"
     ]
   ],
   [
