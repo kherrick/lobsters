@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-21, 22:31:11",
+      "https://lobste.rs/s/ynhp4q/application_first_media_over_quic"
+    ],
+    [
+      "Application First - Media over QUIC",
+      "https://quic.video/blog/application-first"
+    ]
+  ],
+  [
+    [
+      "2025-06-21, 22:30:23",
+      "https://lobste.rs/s/toboca/adding_linear_time_lookbehinds_re2"
+    ],
+    [
+      "Adding linear-time lookbehinds to RE2",
+      "https://systemf.epfl.ch/blog/re2-lookbehinds/"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 21:30:35",
       "https://lobste.rs/s/stgeyk/rhapsody_os_installing_apple_s_lost_x86_os"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-06-21, 15:00:39",
-      "https://lobste.rs/s/zvnxst/reflection_open_implementations_2006"
-    ],
-    [
-      "Reflection and open implementations (2006)",
-      "https://www.dcc.uchile.cl/~etanter/courses/cc71p/2006/reflection_oi.pdf"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 14:41:04",
       "https://lobste.rs/s/rj5w1b/color_everything_css"
     ],
@@ -97,16 +107,6 @@
     [
       "my website is one binary",
       "https://j3s.sh/thought/my-website-is-one-binary.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 13:48:49",
-      "https://lobste.rs/s/sv6nzd/writing_basic_linux_device_driver_when"
-    ],
-    [
-      "Writing a basic Linux device driver when you know nothing about Linux drivers or USB",
-      "https://crescentro.se/posts/writing-drivers/"
     ]
   ],
   [
