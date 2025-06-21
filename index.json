@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-06-21, 15:00:39",
+      "https://lobste.rs/s/zvnxst/reflection_open_implementations_2006"
+    ],
+    [
+      "Reflection and open implementations (2006)",
+      "https://www.dcc.uchile.cl/~etanter/courses/cc71p/2006/reflection_oi.pdf"
+    ]
+  ],
+  [
+    [
       "2025-06-21, 14:41:04",
       "https://lobste.rs/s/rj5w1b/color_everything_css"
     ],
@@ -217,16 +227,6 @@
     [
       "So you want to serialize some DER?",
       "https://alexgaynor.net/2025/jun/20/serialize-some-der/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 17:35:05",
-      "https://lobste.rs/s/vqvmyl/improvements_udp_hole_punching"
-    ],
-    [
-      "Improvements to the UDP Hole Punching",
-      "https://github.com/kupson/udp-hole-punching/tree/main"
     ]
   ],
   [
