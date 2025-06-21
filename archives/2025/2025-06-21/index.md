@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-21](index.md)
 
+* [2025-06-21, 15:10:52](https://lobste.rs/s/cwxos5/remaking_celeste_s_lighting) - [Remaking Celeste's Lighting](https://noelberry.ca/posts/celeste_lighting/)
 * [2025-06-21, 15:00:39](https://lobste.rs/s/zvnxst/reflection_open_implementations_2006) - [Reflection and open implementations (2006)](https://www.dcc.uchile.cl/~etanter/courses/cc71p/2006/reflection_oi.pdf)
 * [2025-06-21, 14:58:01](https://lobste.rs/s/kyxrxf/behind_scenes_redpanda_cloud_s_response) - [Behind the scenes: Redpanda Cloud’s response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
 * [2025-06-21, 14:41:04](https://lobste.rs/s/rj5w1b/color_everything_css) - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/)

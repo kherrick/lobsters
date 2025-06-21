@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-21, 15:10:52](https://lobste.rs/s/cwxos5/remaking_celeste_s_lighting) - [Remaking Celeste's Lighting](https://noelberry.ca/posts/celeste_lighting/)
 * [2025-06-21, 15:00:39](https://lobste.rs/s/zvnxst/reflection_open_implementations_2006) - [Reflection and open implementations (2006)](https://www.dcc.uchile.cl/~etanter/courses/cc71p/2006/reflection_oi.pdf)
 * [2025-06-21, 14:58:01](https://lobste.rs/s/kyxrxf/behind_scenes_redpanda_cloud_s_response) - [Behind the scenes: Redpanda Cloud’s response to the GCP outage](https://www.redpanda.com/blog/gcp-outage-june-redpanda-cloud)
 * [2025-06-21, 14:41:04](https://lobste.rs/s/rj5w1b/color_everything_css) - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/)
 * [2025-06-21, 14:38:02](https://lobste.rs/s/gqrepd/trip_report_june_2025_iso_c_standards) - [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
-* [2025-06-21, 14:23:10](https://lobste.rs/s/uhbeld/higher_your_favourite_haskell_type) - [higher: Your favourite Haskell type classes for Rust (2023)](https://github.com/bodil/higher)
 * [2025-06-21, 14:04:20](https://lobste.rs/s/ladobm/my_website_is_one_binary) - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2025-06-21, 12:01:38](https://lobste.rs/s/4bn3cy/why_computational_reproducibility) - [Why computational reproducibility matters](https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html)
 * [2025-06-21, 10:33:12](https://lobste.rs/s/5ubtft/scaling_our_observability_platform) - [Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel](https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel)
