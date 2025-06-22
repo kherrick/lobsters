@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-22, 17:21:42",
+      "https://lobste.rs/s/thwfed/discover_c_26_s_compile_time_reflection"
+    ],
+    [
+      "Discover C++26’s compile-time reflection",
+      "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 17:13:13",
       "https://lobste.rs/s/olfqe5/pallene_language"
     ],
@@ -87,16 +97,6 @@
     [
       "B compiler written in Crust",
       "https://github.com/tsoding/b"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 02:08:31",
-      "https://lobste.rs/s/4t1p6g/compact_representations_for_arrays_lua"
-    ],
-    [
-      "Compact Representations for Arrays in Lua (PDF viewer)",
-      "https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059"
     ]
   ],
   [
