@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-22, 04:28:22](https://lobste.rs/s/obalic/announcing_logtape_1_0_0) - [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 * [2025-06-22, 02:46:23](https://lobste.rs/s/lgum1v/b_compiler_written_crust) - [B compiler written in Crust](https://github.com/tsoding/b)
-* [2025-06-22, 02:08:31](https://lobste.rs/s/4t1p6g/compact_representations_for_arrays_lua) - [Compact Representations for Arrays in Lua (PDF viewer)](https://sol.sbc.org.br/index.php/sblp/article/view/30252/30059)
 * [2025-06-21, 23:44:25](https://lobste.rs/s/ecsykp/see_jane_128_by_arktronics_run_featuring) - [See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
 * [2025-06-21, 23:39:00](https://lobste.rs/s/mrwcem/bind_loose_reference_2020) - [To Bind and Loose a Reference (2020)](https://thephd.dev/to-bind-and-loose-a-reference-optional)
 * [2025-06-21, 22:31:11](https://lobste.rs/s/ynhp4q/application_first_media_over_quic) - [Application First - Media over QUIC](https://quic.video/blog/application-first)
