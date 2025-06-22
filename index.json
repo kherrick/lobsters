@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-22, 06:00:20",
+      "https://lobste.rs/s/flzrp1/basic_facts_about_gpus"
+    ],
+    [
+      "Basic facts about GPUs",
+      "https://damek.github.io/random/basic-facts-about-gpus/"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 04:28:22",
       "https://lobste.rs/s/obalic/announcing_logtape_1_0_0"
     ],
@@ -147,16 +157,6 @@
     [
       "Why computational reproducibility matters",
       "https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-21, 10:33:12",
-      "https://lobste.rs/s/5ubtft/scaling_our_observability_platform"
-    ],
-    [
-      "Scaling our Observability platform beyond 100 Petabytes by embracing wide events and replacing OTel",
-      "https://clickhouse.com/blog/scaling-observability-beyond-100pb-wide-events-replacing-otel"
     ]
   ],
   [
