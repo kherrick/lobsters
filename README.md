@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-22, 18:36:10](https://lobste.rs/s/k3hxc1/cdp_retirement_firefox) - [CDP Retirement in Firefox](https://fxdx.dev/cdp-retirement-in-firefox/)
+* [2025-06-22, 18:19:58](https://lobste.rs/s/nwy2ja/tayga_simple_no_fuss_nat64_for_linux) - [tayga: Simple, no-fuss NAT64 for Linux](https://github.com/apalrd/tayga)
 * [2025-06-22, 17:57:06](https://lobste.rs/s/qapmax/generating_musical_scales) - [Generating Musical Scales](https://petecorey.com/blog/2025/06/22/generating-musical-scales/)
 * [2025-06-22, 17:21:42](https://lobste.rs/s/thwfed/discover_c_26_s_compile_time_reflection) - [Discover C++26’s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
 * [2025-06-22, 17:13:13](https://lobste.rs/s/olfqe5/pallene_language) - [Pallene Language](https://github.com/pallene-lang/pallene)
@@ -11,7 +13,6 @@
 * [2025-06-22, 06:00:20](https://lobste.rs/s/flzrp1/basic_facts_about_gpus) - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-22, 04:28:22](https://lobste.rs/s/obalic/announcing_logtape_1_0_0) - [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 * [2025-06-22, 02:46:23](https://lobste.rs/s/lgum1v/b_compiler_written_crust) - [B compiler written in Crust](https://github.com/tsoding/b)
-* [2025-06-21, 23:44:25](https://lobste.rs/s/ecsykp/see_jane_128_by_arktronics_run_featuring) - [See Jane 128 by Arktronics run (featuring Magic Desk, 3-Plus-1 and the Thomson MO5)](http://oldvcr.blogspot.com/2025/06/see-jane-128-by-arktronics-run.html)
 * [2025-06-21, 22:31:11](https://lobste.rs/s/ynhp4q/application_first_media_over_quic) - [Application First - Media over QUIC](https://quic.video/blog/application-first)
 * [2025-06-21, 22:30:23](https://lobste.rs/s/toboca/adding_linear_time_lookbehinds_re2) - [Adding linear-time lookbehinds to RE2](https://systemf.epfl.ch/blog/re2-lookbehinds/)
 * [2025-06-21, 18:57:34](https://lobste.rs/s/nlivz4/balatro_for_nintendo_e_reader) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
@@ -20,7 +21,6 @@
 * [2025-06-21, 14:38:02](https://lobste.rs/s/gqrepd/trip_report_june_2025_iso_c_standards) - [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
 * [2025-06-21, 14:04:20](https://lobste.rs/s/ladobm/my_website_is_one_binary) - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2025-06-21, 13:48:49](https://lobste.rs/s/sv6nzd/writing_basic_linux_device_driver_when) - [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
-* [2025-06-21, 12:01:38](https://lobste.rs/s/4bn3cy/why_computational_reproducibility) - [Why computational reproducibility matters](https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html)
 * [2025-06-21, 10:01:57](https://lobste.rs/s/8ahj8b/unexpected_security_footguns_go_s) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-21, 08:57:21](https://lobste.rs/s/5zj5e9/cosmoe_beos_class_library_on_top_wayland) - [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
 * [2025-06-21, 00:28:24](https://lobste.rs/s/b1xxlr/more_undervalued_hardware_companions) - [More Undervalued Hardware Companions](https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/)
