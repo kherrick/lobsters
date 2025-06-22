@@ -12,7 +12,7 @@
 * [2025-06-21, 18:57:34](https://lobste.rs/s/nlivz4/balatro_for_nintendo_e_reader) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 * [2025-06-21, 16:58:16](https://lobste.rs/s/nxwegm/good_at_job_bad_at_interview_time_rethink) - [Good at the Job, Bad at the Interview: Time to Rethink Hiring](https://www.linkedin.com/pulse/good-job-bad-interview-time-rethink-hiring-christopher-robertson-jdnie)
 * [2025-06-21, 16:50:05](https://lobste.rs/s/bgm76q/about_plasma_s_x11_session) - [About Plasma’s X11 session](https://pointieststick.com/2025/06/21/about-plasmas-x11-session/)
-* [2025-06-21, 15:10:52](https://lobste.rs/s/cwxos5/remaking_celeste_s_lighting) - [Remaking Celeste's Lighting](https://noelberry.ca/posts/celeste_lighting/)
+* [2025-06-21, 15:10:52](https://lobste.rs/s/cwxos5/remaking_celeste_s_lighting_2017) - [Remaking Celeste's Lighting (2017)](https://noelberry.ca/posts/celeste_lighting/)
 * [2025-06-21, 14:38:02](https://lobste.rs/s/gqrepd/trip_report_june_2025_iso_c_standards) - [Trip report: June 2025 ISO C++ standards meeting](https://herbsutter.com/2025/06/21/trip-report-june-2025-iso-c-standards-meeting-sofia-bulgaria/)
 * [2025-06-21, 14:04:20](https://lobste.rs/s/ladobm/my_website_is_one_binary) - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 * [2025-06-21, 13:48:49](https://lobste.rs/s/sv6nzd/writing_basic_linux_device_driver_when) - [Writing a basic Linux device driver when you know nothing about Linux drivers or USB](https://crescentro.se/posts/writing-drivers/)
