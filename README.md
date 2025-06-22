@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-22, 20:18:53](https://lobste.rs/s/khl7q4/freebsd_kernel_modules_pkg_8) - [FreeBSD Kernel Modules pkg(8) Repositories](https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/)
 * [2025-06-22, 19:33:59](https://lobste.rs/s/wtr13p/macro_story) - [A Macro Story](https://courses.cs.northwestern.edu/325/readings/macro-lesson.html)
 * [2025-06-22, 19:10:06](https://lobste.rs/s/pmiazy/postmarketos_v25_06_one_with_systemd) - [postmarketOS v25.06: the one with systemd](https://postmarketos.org/blog/2025/06/22/v25.06-release/)
 * [2025-06-22, 18:36:10](https://lobste.rs/s/k3hxc1/cdp_retirement_firefox) - [CDP Retirement in Firefox](https://fxdx.dev/cdp-retirement-in-firefox/)
@@ -15,7 +16,6 @@
 * [2025-06-22, 06:00:20](https://lobste.rs/s/flzrp1/basic_facts_about_gpus) - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-22, 04:28:22](https://lobste.rs/s/obalic/announcing_logtape_1_0_0) - [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 * [2025-06-22, 02:46:23](https://lobste.rs/s/lgum1v/b_compiler_written_crust) - [B compiler written in Crust](https://github.com/tsoding/b)
-* [2025-06-21, 22:31:11](https://lobste.rs/s/ynhp4q/application_first_media_over_quic) - [Application First - Media over QUIC](https://quic.video/blog/application-first)
 * [2025-06-21, 22:30:23](https://lobste.rs/s/toboca/adding_linear_time_lookbehinds_re2) - [Adding linear-time lookbehinds to RE2](https://systemf.epfl.ch/blog/re2-lookbehinds/)
 * [2025-06-21, 18:57:34](https://lobste.rs/s/nlivz4/balatro_for_nintendo_e_reader) - [Balatro for the Nintendo E-Reader](https://mattgreer.dev/blog/balatro-for-the-nintendo-ereader/)
 * [2025-06-21, 16:50:05](https://lobste.rs/s/bgm76q/about_plasma_s_x11_session) - [About Plasma’s X11 session](https://pointieststick.com/2025/06/21/about-plasmas-x11-session/)
