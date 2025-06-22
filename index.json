@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-22, 17:13:13",
+      "https://lobste.rs/s/olfqe5/pallene_language"
+    ],
+    [
+      "Pallene Language",
+      "https://github.com/pallene-lang/pallene"
+    ]
+  ],
+  [
+    [
+      "2025-06-22, 17:06:42",
+      "https://lobste.rs/s/a9ve6f/my_first_impressions_gleam"
+    ],
+    [
+      "My First Impressions of Gleam",
+      "https://mtlynch.io/notes/gleam-first-impressions/"
+    ]
+  ],
+  [
+    [
       "2025-06-22, 14:23:52",
       "https://lobste.rs/s/rx7uy1/you_are_what_you_launch_how_software"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-06-21, 05:07:05",
-      "https://lobste.rs/s/zibhyg/praise_normal_engineers"
-    ],
-    [
-      "In Praise of “Normal” Engineers",
-      "https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/"
-    ]
-  ],
-  [
-    [
       "2025-06-21, 00:28:24",
       "https://lobste.rs/s/b1xxlr/more_undervalued_hardware_companions"
     ],
@@ -237,16 +247,6 @@
     [
       "YouTube’s new anti-adblock measures",
       "https://iter.ca/post/yt-adblock/"
-    ]
-  ],
-  [
-    [
-      "2025-06-20, 23:51:57",
-      "https://lobste.rs/s/f38nbb/all_roads_lead_disaster"
-    ],
-    [
-      "All roads lead to disaster",
-      "https://blog.jsbarretto.com/post/all-roads-lead-to-disaster"
     ]
   ]
 ]
