@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-22, 17:13:13](https://lobste.rs/s/olfqe5/pallene_language) - [Pallene Language](https://github.com/pallene-lang/pallene)
+* [2025-06-22, 17:06:42](https://lobste.rs/s/a9ve6f/my_first_impressions_gleam) - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-06-22, 14:23:52](https://lobste.rs/s/rx7uy1/you_are_what_you_launch_how_software) - [you are what you launch: how software became a lifestyle brand](https://omeru.bearblog.dev/lifestyle/)
 * [2025-06-22, 09:16:27](https://lobste.rs/s/46wjpu/gem_gpu_accelerated_emulator_inspired) - [GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research](https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation)
 * [2025-06-22, 09:07:18](https://lobste.rs/s/jazbbc/mental_model_server_components) - [The Mental Model of Server Components](https://saewitz.com/the-mental-model-of-server-components)
@@ -21,10 +23,8 @@
 * [2025-06-21, 12:01:38](https://lobste.rs/s/4bn3cy/why_computational_reproducibility) - [Why computational reproducibility matters](https://blog.khinsen.net/posts/2025/06/20/computational-reproducibility.html)
 * [2025-06-21, 10:01:57](https://lobste.rs/s/8ahj8b/unexpected_security_footguns_go_s) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 * [2025-06-21, 08:57:21](https://lobste.rs/s/5zj5e9/cosmoe_beos_class_library_on_top_wayland) - [Cosmoe: BeOS Class Library on top of Wayland](https://cosmoe.org/index.html)
-* [2025-06-21, 05:07:05](https://lobste.rs/s/zibhyg/praise_normal_engineers) - [In Praise of “Normal” Engineers](https://charity.wtf/2025/06/19/in-praise-of-normal-engineers/)
 * [2025-06-21, 00:28:24](https://lobste.rs/s/b1xxlr/more_undervalued_hardware_companions) - [More Undervalued Hardware Companions](https://vermaden.wordpress.com/2025/06/21/more-undervalued-hardware-companions/)
 * [2025-06-20, 23:54:19](https://lobste.rs/s/g3ds7c/youtube_s_new_anti_adblock_measures) - [YouTube’s new anti-adblock measures](https://iter.ca/post/yt-adblock/)
-* [2025-06-20, 23:51:57](https://lobste.rs/s/f38nbb/all_roads_lead_disaster) - [All roads lead to disaster](https://blog.jsbarretto.com/post/all-roads-lead-to-disaster)
 
 ## [Archives](archives/index.md)
 
