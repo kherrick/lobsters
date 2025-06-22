@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-22](index.md)
 
+* [2025-06-22, 14:23:52](https://lobste.rs/s/rx7uy1/you_are_what_you_launch_how_software) - [you are what you launch: how software became a lifestyle brand](https://omeru.bearblog.dev/lifestyle/)
 * [2025-06-22, 09:16:27](https://lobste.rs/s/46wjpu/gem_gpu_accelerated_emulator_inspired) - [GEM: GPU-Accelerated Emulator-Inspired RTL Simulation | Research](https://research.nvidia.com/publication/2025-06_gem-gpu-accelerated-emulator-inspired-rtl-simulation)
 * [2025-06-22, 09:07:18](https://lobste.rs/s/jazbbc/mental_model_server_components) - [The Mental Model of Server Components](https://saewitz.com/the-mental-model-of-server-components)
 * [2025-06-22, 07:06:42](https://lobste.rs/s/mvoez2/announcing_clippy_feature_freeze) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
