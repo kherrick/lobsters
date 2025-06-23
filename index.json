@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 06:26:42",
+      "https://lobste.rs/s/u6xhiw/telescopes_are_tries_dependent_type"
+    ],
+    [
+      "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
+      "https://www.philipzucker.com/telescope_tries/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 04:41:53",
       "https://lobste.rs/s/tbr1um/implicit_is_better_than_explicit"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing LogTape 1.0.0",
       "https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 02:46:23",
-      "https://lobste.rs/s/lgum1v/b_compiler_written_crust"
-    ],
-    [
-      "B compiler written in Crust",
-      "https://github.com/tsoding/b"
     ]
   ]
 ]
