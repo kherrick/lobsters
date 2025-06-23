@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-23, 13:30:58](https://lobste.rs/s/9gqnkj/solving_linkedin_queens_using_minizinc) - [Solving LinkedIn Queens using MiniZinc](https://zayenz.se/blog/post/linkedin-queens/)
 * [2025-06-23, 13:19:35](https://lobste.rs/s/s9xgbs/json_evolution_go_from_v1_v2) - [JSON evolution in Go: from v1 to v2](https://antonz.org/go-json-v2/)
 * [2025-06-23, 13:04:15](https://lobste.rs/s/boyq8q/announcing_slsa_v1_2_release_candidate_1) - [Announcing SLSA v1.2 Release Candidate 1](https://slsa.dev/blog/2025/06/slsa-v1.2-rc1)
-* [2025-06-23, 13:01:59](https://lobste.rs/s/4hljar/retrospective_on_source_code_control) - [A Retrospective on the Source Code Control System](https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf)
 * [2025-06-23, 12:45:39](https://lobste.rs/s/ib1hj9/family_openssl_forks) - [A family of OpenSSL forks](https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/)
 * [2025-06-23, 12:42:55](https://lobste.rs/s/xw5twr/redmonk_top_20_languages_over_time) - [RedMonk Top 20 Languages Over Time: January 2025](https://redmonk.com/rstephens/2025/06/18/top20-jan2025/)
 * [2025-06-23, 11:45:13](https://lobste.rs/s/vbohdr/introduction_dcj11_pdp_11_on_chip) - [Introduction to the DCJ11 , PDP-11 on a Chip](https://www.5volts.ch/pages/dcj11sbc/010-dcj11-introduction/)
