@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 15:22:07",
+      "https://lobste.rs/s/hvrgxz/go_should_be_more_opinionated"
+    ],
+    [
+      "Go should be more opinionated",
+      "https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 14:46:30",
       "https://lobste.rs/s/ygd1d8/making_tramp_go_brrrr"
     ],
@@ -217,16 +227,6 @@
     [
       "Discover C++26’s compile-time reflection",
       "https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 17:13:13",
-      "https://lobste.rs/s/olfqe5/pallene_language"
-    ],
-    [
-      "Pallene Language",
-      "https://github.com/pallene-lang/pallene"
     ]
   ],
   [
