@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-23](index.md)
 
+* [2025-06-23, 23:11:36](https://lobste.rs/s/yd7cra/google_donates_a2a_linux_foundation) - [Google donates A2A to Linux Foundation](https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/)
+* [2025-06-23, 23:07:55](https://lobste.rs/s/rhjl2n/iwp9_talk_recordings) - [IWP9 talk recordings](https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB)
 * [2025-06-23, 19:56:58](https://lobste.rs/s/ybf4ss/alden_detachable_terminal_sessions) - [alden: detachable terminal sessions without breaking scrollback](https://ansuz.sooke.bc.ca/entry/389)
 * [2025-06-23, 17:26:03](https://lobste.rs/s/doctsl/call_by_meaning_2014) - [Call by Meaning (2014)](https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf)
 * [2025-06-23, 17:21:57](https://lobste.rs/s/6pk5gf/moonbase_alpha_time_nasa_made_meme_video) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)

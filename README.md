@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-23, 23:11:36](https://lobste.rs/s/yd7cra/google_donates_a2a_linux_foundation) - [Google donates A2A to Linux Foundation](https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/)
+* [2025-06-23, 23:07:55](https://lobste.rs/s/rhjl2n/iwp9_talk_recordings) - [IWP9 talk recordings](https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB)
 * [2025-06-23, 19:56:58](https://lobste.rs/s/ybf4ss/alden_detachable_terminal_sessions) - [alden: detachable terminal sessions without breaking scrollback](https://ansuz.sooke.bc.ca/entry/389)
 * [2025-06-23, 17:26:03](https://lobste.rs/s/doctsl/call_by_meaning_2014) - [Call by Meaning (2014)](https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf)
 * [2025-06-23, 17:21:57](https://lobste.rs/s/6pk5gf/moonbase_alpha_time_nasa_made_meme_video) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)
@@ -21,8 +23,6 @@
 * [2025-06-23, 02:34:16](https://lobste.rs/s/5wc5cm/asterinas_new_linux_compatible_kernel) - [Asterinas: a new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
 * [2025-06-23, 02:29:20](https://lobste.rs/s/kk3zx3/makefile_formatter_linter) - [Makefile formatter and linter](https://github.com/EbodShojaei/bake)
 * [2025-06-22, 21:10:35](https://lobste.rs/s/pdrso1/i_wrote_my_phd_thesis_typst) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
-* [2025-06-22, 21:06:19](https://lobste.rs/s/x9s2is/building_my_own_paper_tape_punch) - [Building my own paper tape punch](https://unimplementedtrap.com/paper-tape-punch)
-* [2025-06-22, 17:21:42](https://lobste.rs/s/thwfed/discover_c_26_s_compile_time_reflection) - [Discover C++26’s compile-time reflection](https://lemire.me/blog/2025/06/22/c26-will-include-compile-time-reflection-why-should-you-care/)
 * [2025-06-22, 17:06:42](https://lobste.rs/s/a9ve6f/my_first_impressions_gleam) - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
 * [2025-06-22, 07:06:42](https://lobste.rs/s/mvoez2/announcing_clippy_feature_freeze) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 
