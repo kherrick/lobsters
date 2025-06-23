@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-23, 14:46:30](https://lobste.rs/s/ygd1d8/making_tramp_go_brrrr) - [Making TRAMP go Brrrr…](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 * [2025-06-23, 14:08:42](https://lobste.rs/s/ybarpv/whitesmiths_c_compiler_one_earliest) - [Whitesmiths C compiler: One of the earliest commercial C compilers available](https://github.com/hansake/Whitesmiths-C-compiler)
 * [2025-06-23, 14:00:53](https://lobste.rs/s/obsh1m/how_store_go_pointers_from_assembly) - [How to store Go pointers from assembly](https://mazzo.li/posts/go-asm-pointers.html)
 * [2025-06-23, 13:30:58](https://lobste.rs/s/9gqnkj/solving_linkedin_queens_using_minizinc) - [Solving LinkedIn Queens using MiniZinc](https://zayenz.se/blog/post/linkedin-queens/)
 * [2025-06-23, 13:01:59](https://lobste.rs/s/4hljar/retrospective_on_source_code_control) - [A Retrospective on the Source Code Control System](https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf)
 * [2025-06-23, 12:45:39](https://lobste.rs/s/ib1hj9/family_openssl_forks) - [A family of OpenSSL forks](https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/)
 * [2025-06-23, 12:42:55](https://lobste.rs/s/xw5twr/redmonk_top_20_languages_over_time) - [RedMonk Top 20 Languages Over Time: January 2025](https://redmonk.com/rstephens/2025/06/18/top20-jan2025/)
-* [2025-06-23, 11:45:13](https://lobste.rs/s/vbohdr/introduction_dcj11_pdp_11_on_chip) - [Introduction to the DCJ11 , PDP-11 on a Chip](https://www.5volts.ch/pages/dcj11sbc/010-dcj11-introduction/)
 * [2025-06-23, 11:17:01](https://lobste.rs/s/eyxq10/modeling_world_280_characters) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
 * [2025-06-23, 09:45:30](https://lobste.rs/s/33lu8r/satysfi_statically_typed_functional) - [SATySFi: A statically-typed, functional typesetting system](https://github.com/gfngfn/SATySFi)
 * [2025-06-23, 08:16:17](https://lobste.rs/s/lrtenu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lrtenu/what_are_you_doing_this_week)
