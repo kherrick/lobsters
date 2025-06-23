@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 19:56:58",
+      "https://lobste.rs/s/ybf4ss/alden_detachable_terminal_sessions"
+    ],
+    [
+      "alden: detachable terminal sessions without breaking scrollback",
+      "https://ansuz.sooke.bc.ca/entry/389"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 17:26:03",
       "https://lobste.rs/s/doctsl/call_by_meaning_2014"
     ],
@@ -167,16 +177,6 @@
     [
       "Compressing for the browser in Go",
       "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 03:25:01",
-      "https://lobste.rs/s/eowepp/tabiew_tui_for_viewing_querying_csv_tsv"
-    ],
-    [
-      "tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more",
-      "https://github.com/shshemi/tabiew"
     ]
   ],
   [
