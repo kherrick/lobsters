@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-23, 04:41:53](https://lobste.rs/s/tbr1um/implicit_is_better_than_explicit) - [Implicit is better than explicit](https://sophiabits.com/blog/implicit-is-better-than-explicit)
 * [2025-06-23, 04:35:47](https://lobste.rs/s/ez1fqj/compressing_for_browser_go) - [Compressing for the browser in Go](https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html)
 * [2025-06-23, 03:25:01](https://lobste.rs/s/eowepp/tabiew_tui_for_viewing_querying_csv_tsv) - [tabiew: A TUI for viewing & querying CSV, TSV, JSON, SQLITE, and more](https://github.com/shshemi/tabiew)
 * [2025-06-23, 02:34:16](https://lobste.rs/s/5wc5cm/asterinas_new_linux_compatible_kernel) - [Asterinas: a new Linux-compatible kernel project](https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/)
@@ -24,7 +25,6 @@
 * [2025-06-22, 06:00:20](https://lobste.rs/s/flzrp1/basic_facts_about_gpus) - [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus/)
 * [2025-06-22, 04:28:22](https://lobste.rs/s/obalic/announcing_logtape_1_0_0) - [Announcing LogTape 1.0.0](https://hackers.pub/@hongminhee/2025/announcing-logtape-1-0)
 * [2025-06-22, 02:46:23](https://lobste.rs/s/lgum1v/b_compiler_written_crust) - [B compiler written in Crust](https://github.com/tsoding/b)
-* [2025-06-21, 10:01:57](https://lobste.rs/s/8ahj8b/unexpected_security_footguns_go_s) - [Unexpected security footguns in Go's parsers](https://blog.trailofbits.com/2025/06/17/unexpected-security-footguns-in-gos-parsers/)
 
 ## [Archives](archives/index.md)
 
