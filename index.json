@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 17:26:03",
+      "https://lobste.rs/s/doctsl/call_by_meaning_2014"
+    ],
+    [
+      "Call by Meaning (2014)",
+      "https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 15:22:07",
       "https://lobste.rs/s/hvrgxz/go_should_be_more_opinionated"
     ],
@@ -57,6 +67,16 @@
     [
       "Solving LinkedIn Queens using MiniZinc",
       "https://zayenz.se/blog/post/linkedin-queens/"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 13:19:35",
+      "https://lobste.rs/s/s9xgbs/json_evolution_go_from_v1_v2"
+    ],
+    [
+      "JSON evolution in Go: from v1 to v2",
+      "https://antonz.org/go-json-v2/"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "FreeBSD Kernel Modules pkg(8) Repositories",
       "https://vermaden.wordpress.com/2025/06/22/freebsd-kernel-modules-pkg8-repositories/"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 19:33:59",
-      "https://lobste.rs/s/wtr13p/macro_story"
-    ],
-    [
-      "A Macro Story",
-      "https://courses.cs.northwestern.edu/325/readings/macro-lesson.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 19:10:06",
-      "https://lobste.rs/s/pmiazy/postmarketos_v25_06_one_with_systemd"
-    ],
-    [
-      "postmarketOS v25.06: the one with systemd",
-      "https://postmarketos.org/blog/2025/06/22/v25.06-release/"
     ]
   ],
   [
