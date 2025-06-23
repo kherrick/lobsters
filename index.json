@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-23, 07:28:03",
+      "https://lobste.rs/s/c1mmap/polystate_composable_finite_state"
+    ],
+    [
+      "Polystate: Composable Finite State Machines",
+      "https://github.com/sdzx-1/polystate"
+    ]
+  ],
+  [
+    [
       "2025-06-23, 06:26:42",
       "https://lobste.rs/s/u6xhiw/telescopes_are_tries_dependent_type"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing the Clippy feature freeze",
       "https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/"
-    ]
-  ],
-  [
-    [
-      "2025-06-22, 06:00:20",
-      "https://lobste.rs/s/flzrp1/basic_facts_about_gpus"
-    ],
-    [
-      "Basic facts about GPUs",
-      "https://damek.github.io/random/basic-facts-about-gpus/"
     ]
   ],
   [
