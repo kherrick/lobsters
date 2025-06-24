@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 19:44:31",
+      "https://lobste.rs/s/xnpdci/chromium_s_build_system_is_switching_from"
+    ],
+    [
+      "Chromium's build system is switching from Ninja to Siso for external developers",
+      "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 19:20:11",
       "https://lobste.rs/s/chbuzy/lisp_adventure_on_calm_waters_dead_c"
     ],
@@ -187,16 +197,6 @@
     [
       "Interesting Bits of Postgres Grammar",
       "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 19:56:58",
-      "https://lobste.rs/s/ybf4ss/alden_detachable_terminal_sessions"
-    ],
-    [
-      "alden: detachable terminal sessions without breaking scrollback",
-      "https://ansuz.sooke.bc.ca/entry/389"
     ]
   ],
   [
