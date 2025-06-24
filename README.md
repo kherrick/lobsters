@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-24, 16:33:15](https://lobste.rs/s/pulujk/one_more_re_nightmare_compiler_2021) - [The one-more-re-nightmare compiler (2021)](https://applied-langua.ge/posts/omrn-compiler.html)
 * [2025-06-24, 15:31:56](https://lobste.rs/s/ihlmb2/fixes_for_five_lix_cves) - [Fixes for five Lix CVEs](https://lix.systems/blog/2025-06-24-lix-cves/)
 * [2025-06-24, 15:28:13](https://lobste.rs/s/xzoth8/nix_development_setup_for_factor) - [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
 * [2025-06-24, 14:12:06](https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
@@ -11,7 +12,6 @@
 * [2025-06-24, 09:45:37](https://lobste.rs/s/t3lq2k/bazel_s_original_sins) - [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
 * [2025-06-24, 08:52:32](https://lobste.rs/s/ove4dc/lifetime_dispersion_generational_gc) - [Lifetime Dispersion and Generational GC: An Intellectual Abstract](https://dl.acm.org/doi/10.1145/3735950.3735958)
 * [2025-06-24, 08:14:47](https://lobste.rs/s/gusint/onion_services_design_protocol) - [Onion Services: Design, Protocol and Implementation](https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation)
-* [2025-06-24, 06:43:19](https://lobste.rs/s/y84yvs/why_do_some_language_models_fake) - [Why Do Some Language Models Fake Alignment While Others Don’t?](https://arxiv.org/html/2506.18032v1)
 * [2025-06-24, 06:25:10](https://lobste.rs/s/gqhd8m/firefox_140_released_with_unload_tab_css) - [Firefox 140 Released With \"Unload Tab\", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
 * [2025-06-24, 04:23:18](https://lobste.rs/s/zstycv/skip_design_patterns_architecting_with) - [Skip the Design Patterns Architecting with Nouns and Verbs](https://www.youtube.com/watch?v=v-N6r8lcsNc)
 * [2025-06-24, 01:28:37](https://lobste.rs/s/r0txxp/interesting_bits_postgres_grammar) - [Interesting Bits of Postgres Grammar](https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/)

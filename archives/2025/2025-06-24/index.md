@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 16:33:15](https://lobste.rs/s/pulujk/one_more_re_nightmare_compiler_2021) - [The one-more-re-nightmare compiler (2021)](https://applied-langua.ge/posts/omrn-compiler.html)
 * [2025-06-24, 15:31:56](https://lobste.rs/s/ihlmb2/fixes_for_five_lix_cves) - [Fixes for five Lix CVEs](https://lix.systems/blog/2025-06-24-lix-cves/)
 * [2025-06-24, 15:28:13](https://lobste.rs/s/xzoth8/nix_development_setup_for_factor) - [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
 * [2025-06-24, 14:12:06](https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
