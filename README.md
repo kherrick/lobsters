@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-24, 09:45:37](https://lobste.rs/s/t3lq2k/bazel_s_original_sins) - [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
 * [2025-06-24, 08:52:32](https://lobste.rs/s/ove4dc/lifetime_dispersion_generational_gc) - [Lifetime Dispersion and Generational GC: An Intellectual Abstract](https://dl.acm.org/doi/10.1145/3735950.3735958)
 * [2025-06-24, 08:21:22](https://lobste.rs/s/uguxeq/solving_linkedin_queens_with_haskell) - [Solving LinkedIn Queens with Haskell](https://imiron.io/post/linkedin-queens/)
 * [2025-06-24, 08:14:47](https://lobste.rs/s/gusint/onion_services_design_protocol) - [Onion Services: Design, Protocol and Implementation](https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation)
@@ -11,7 +12,6 @@
 * [2025-06-23, 23:07:55](https://lobste.rs/s/rhjl2n/iwp9_talk_recordings) - [IWP9 talk recordings](https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB)
 * [2025-06-23, 19:56:58](https://lobste.rs/s/ybf4ss/alden_detachable_terminal_sessions) - [alden: detachable terminal sessions without breaking scrollback](https://ansuz.sooke.bc.ca/entry/389)
 * [2025-06-23, 18:54:27](https://lobste.rs/s/tts73s/monotone_functions_cache_lines) - [Monotone Functions and Cache Lines](https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/)
-* [2025-06-23, 17:26:03](https://lobste.rs/s/doctsl/call_by_meaning_2014) - [Call by Meaning (2014)](https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf)
 * [2025-06-23, 17:21:57](https://lobste.rs/s/6pk5gf/moonbase_alpha_time_nasa_made_meme_video) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)
 * [2025-06-23, 15:22:07](https://lobste.rs/s/hvrgxz/go_should_be_more_opinionated) - [Go should be more opinionated](https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/)
 * [2025-06-23, 14:46:30](https://lobste.rs/s/ygd1d8/making_tramp_go_brrrr) - [Making TRAMP go Brrrr…](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
