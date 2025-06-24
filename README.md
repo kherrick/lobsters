@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-24, 01:28:37](https://lobste.rs/s/r0txxp/interesting_bits_postgres_grammar) - [Interesting Bits of Postgres Grammar](https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/)
 * [2025-06-23, 23:11:36](https://lobste.rs/s/yd7cra/google_donates_a2a_linux_foundation) - [Google donates A2A to Linux Foundation](https://developers.googleblog.com/en/google-cloud-donates-a2a-to-linux-foundation/)
 * [2025-06-23, 23:07:55](https://lobste.rs/s/rhjl2n/iwp9_talk_recordings) - [IWP9 talk recordings](https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB)
 * [2025-06-23, 19:56:58](https://lobste.rs/s/ybf4ss/alden_detachable_terminal_sessions) - [alden: detachable terminal sessions without breaking scrollback](https://ansuz.sooke.bc.ca/entry/389)
+* [2025-06-23, 18:54:27](https://lobste.rs/s/tts73s/monotone_functions_cache_lines) - [Monotone Functions and Cache Lines](https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/)
 * [2025-06-23, 17:26:03](https://lobste.rs/s/doctsl/call_by_meaning_2014) - [Call by Meaning (2014)](https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf)
 * [2025-06-23, 17:21:57](https://lobste.rs/s/6pk5gf/moonbase_alpha_time_nasa_made_meme_video) - [Moonbase Alpha: That time NASA made a meme video game](https://www.spacebar.news/moonbase-alpha-nasa-video-game/)
 * [2025-06-23, 15:22:07](https://lobste.rs/s/hvrgxz/go_should_be_more_opinionated) - [Go should be more opinionated](https://eltonminetto.dev/en/post/2025-06-19-go-more-opinated/)
@@ -12,7 +14,6 @@
 * [2025-06-23, 14:00:53](https://lobste.rs/s/obsh1m/how_store_go_pointers_from_assembly) - [How to store Go pointers from assembly](https://mazzo.li/posts/go-asm-pointers.html)
 * [2025-06-23, 13:30:58](https://lobste.rs/s/9gqnkj/solving_linkedin_queens_using_minizinc) - [Solving LinkedIn Queens using MiniZinc](https://zayenz.se/blog/post/linkedin-queens/)
 * [2025-06-23, 13:19:35](https://lobste.rs/s/s9xgbs/json_evolution_go_from_v1_v2) - [JSON evolution in Go: from v1 to v2](https://antonz.org/go-json-v2/)
-* [2025-06-23, 13:01:59](https://lobste.rs/s/4hljar/retrospective_on_source_code_control) - [A Retrospective on the Source Code Control System](https://www.mrochkind.com/mrochkind/docs/SCCSretro2.pdf)
 * [2025-06-23, 12:45:39](https://lobste.rs/s/ib1hj9/family_openssl_forks) - [A family of OpenSSL forks](https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/)
 * [2025-06-23, 12:42:55](https://lobste.rs/s/xw5twr/redmonk_top_20_languages_over_time) - [RedMonk Top 20 Languages Over Time: January 2025](https://redmonk.com/rstephens/2025/06/18/top20-jan2025/)
 * [2025-06-23, 11:17:01](https://lobste.rs/s/eyxq10/modeling_world_280_characters) - [Modeling the World in 280 Characters](https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/)
@@ -24,7 +25,6 @@
 * [2025-06-23, 02:29:20](https://lobste.rs/s/kk3zx3/makefile_formatter_linter) - [Makefile formatter and linter](https://github.com/EbodShojaei/bake)
 * [2025-06-22, 21:10:35](https://lobste.rs/s/pdrso1/i_wrote_my_phd_thesis_typst) - [I wrote my PhD Thesis in Typst](https://fransskarman.com/phd_thesis_in_typst.html)
 * [2025-06-22, 17:06:42](https://lobste.rs/s/a9ve6f/my_first_impressions_gleam) - [My First Impressions of Gleam](https://mtlynch.io/notes/gleam-first-impressions/)
-* [2025-06-22, 07:06:42](https://lobste.rs/s/mvoez2/announcing_clippy_feature_freeze) - [Announcing the Clippy feature freeze](https://blog.rust-lang.org/inside-rust/2025/06/21/announcing-the-clippy-feature-freeze/)
 
 ## [Archives](archives/index.md)
 
