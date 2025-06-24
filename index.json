@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 09:45:37",
+      "https://lobste.rs/s/t3lq2k/bazel_s_original_sins"
+    ],
+    [
+      "Bazel’s Original Sins",
+      "https://fzakaria.com/2025/06/22/bazel-s-original-sins"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 08:52:32",
       "https://lobste.rs/s/ove4dc/lifetime_dispersion_generational_gc"
     ],
@@ -107,16 +117,6 @@
     [
       "Monotone Functions and Cache Lines",
       "https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 17:26:03",
-      "https://lobste.rs/s/doctsl/call_by_meaning_2014"
-    ],
-    [
-      "Call by Meaning (2014)",
-      "https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf"
     ]
   ],
   [
