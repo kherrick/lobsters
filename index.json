@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-24, 06:43:19",
+      "https://lobste.rs/s/y84yvs/why_do_some_language_models_fake"
+    ],
+    [
+      "Why Do Some Language Models Fake Alignment While Others Don’t?",
+      "https://arxiv.org/html/2506.18032v1"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 06:25:10",
+      "https://lobste.rs/s/gqhd8m/firefox_140_released_with_unload_tab_css"
+    ],
+    [
+      "Firefox 140 Released With \"Unload Tab\", CSS Custom Highlighting API",
+      "https://www.phoronix.com/news/Firefox-140"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 04:23:18",
       "https://lobste.rs/s/zstycv/skip_design_patterns_architecting_with"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-06-23, 11:17:01",
-      "https://lobste.rs/s/eyxq10/modeling_world_280_characters"
-    ],
-    [
-      "Modeling the World in 280 Characters",
-      "https://tympanus.net/codrops/2025/06/23/modeling-the-world-in-280-characters/"
-    ]
-  ],
-  [
-    [
       "2025-06-23, 09:45:30",
       "https://lobste.rs/s/33lu8r/satysfi_statically_typed_functional"
     ],
@@ -217,16 +227,6 @@
     [
       "Asterinas: a new Linux-compatible kernel project",
       "https://lwn.net/SubscriberLink/1022920/ad60263cd13c8a13/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 02:29:20",
-      "https://lobste.rs/s/kk3zx3/makefile_formatter_linter"
-    ],
-    [
-      "Makefile formatter and linter",
-      "https://github.com/EbodShojaei/bake"
     ]
   ],
   [
