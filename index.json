@@ -1,11 +1,21 @@
 [
   [
     [
-      "2025-06-24, 14:08:38",
-      "https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird"
+      "2025-06-24, 14:12:06",
+      "https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization"
     ],
     [
-      "Everyone should copy Thunderbird",
+      "The Bitter Lesson is coming for Tokenization",
+      "https://lucalp.dev/bitter-lesson-tokenization-and-blt"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 14:08:38",
+      "https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s"
+    ],
+    [
+      "Everyone should copy Thunderbird's donation model",
       "https://blog.cyrneko.eu/everyone-should-copy-thunderbird"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Onion Services: Design, Protocol and Implementation",
       "https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 06:43:19",
-      "https://lobste.rs/s/y84yvs/why_do_some_language_models_fake"
-    ],
-    [
-      "Why Do Some Language Models Fake Alignment While Others Don’t?",
-      "https://arxiv.org/html/2506.18032v1"
     ]
   ],
   [
