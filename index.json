@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 04:23:18",
+      "https://lobste.rs/s/zstycv/skip_design_patterns_architecting_with"
+    ],
+    [
+      "Skip the Design Patterns Architecting with Nouns and Verbs",
+      "https://www.youtube.com/watch?v=v-N6r8lcsNc"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 01:28:37",
       "https://lobste.rs/s/r0txxp/interesting_bits_postgres_grammar"
     ],
@@ -197,16 +207,6 @@
     [
       "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
       "https://www.philipzucker.com/telescope_tries/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 04:35:47",
-      "https://lobste.rs/s/ez1fqj/compressing_for_browser_go"
-    ],
-    [
-      "Compressing for the browser in Go",
-      "https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html"
     ]
   ],
   [
