@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 08:52:32",
+      "https://lobste.rs/s/ove4dc/lifetime_dispersion_generational_gc"
+    ],
+    [
+      "Lifetime Dispersion and Generational GC: An Intellectual Abstract",
+      "https://dl.acm.org/doi/10.1145/3735950.3735958"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 08:21:22",
       "https://lobste.rs/s/uguxeq/solving_linkedin_queens_with_haskell"
     ],
@@ -197,16 +207,6 @@
     [
       "A family of OpenSSL forks",
       "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 12:42:55",
-      "https://lobste.rs/s/xw5twr/redmonk_top_20_languages_over_time"
-    ],
-    [
-      "RedMonk Top 20 Languages Over Time: January 2025",
-      "https://redmonk.com/rstephens/2025/06/18/top20-jan2025/"
     ]
   ],
   [
