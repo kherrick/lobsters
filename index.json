@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 10:38:37",
+      "https://lobste.rs/s/odv1yf/lr_1_parse_tables_generator"
+    ],
+    [
+      "LR(1) parse-tables generator",
+      "https://github.com/wldfngrs/parser-generator"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 09:45:37",
       "https://lobste.rs/s/t3lq2k/bazel_s_original_sins"
     ],
@@ -47,6 +57,16 @@
     [
       "Fair(er) DRM GPU scheduler",
       "https://blogs.igalia.com/tursulin/fair-er-drm-gpu-scheduler/"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 06:43:19",
+      "https://lobste.rs/s/y84yvs/why_do_some_language_models_fake"
+    ],
+    [
+      "Why Do Some Language Models Fake Alignment While Others Don’t?",
+      "https://arxiv.org/html/2506.18032v1"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Monotone Functions and Cache Lines",
       "https://buttondown.com/jaffray/archive/monotone-functions-and-cache-lines/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 17:26:03",
-      "https://lobste.rs/s/doctsl/call_by_meaning_2014"
-    ],
-    [
-      "Call by Meaning (2014)",
-      "https://tinlizzie.org/VPRIPapers/tr2014003_callbymeaning.pdf"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "A family of OpenSSL forks",
       "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 08:16:17",
-      "https://lobste.rs/s/lrtenu/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/lrtenu/what_are_you_doing_this_week"
     ]
   ],
   [
