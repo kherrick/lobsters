@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-24, 16:49:42",
+      "https://lobste.rs/s/uc6tuv/porting_gpu_shaders_rust_gpu_30x_faster"
+    ],
+    [
+      "Porting GPU shaders to Rust GPU 30x faster with AI",
+      "https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 16:33:15",
       "https://lobste.rs/s/pulujk/one_more_re_nightmare_compiler_2021"
     ],
@@ -197,16 +207,6 @@
     [
       "how i use my terminal",
       "https://jyn.dev/how-i-use-my-terminal/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 14:00:53",
-      "https://lobste.rs/s/obsh1m/how_store_go_pointers_from_assembly"
-    ],
-    [
-      "How to store Go pointers from assembly",
-      "https://mazzo.li/posts/go-asm-pointers.html"
     ]
   ],
   [
