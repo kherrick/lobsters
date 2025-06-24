@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-24](index.md)
 
+* [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 19:44:31](https://lobste.rs/s/xnpdci/chromium_s_build_system_is_switching_from) - [Chromium's build system is switching from Ninja to Siso for external developers](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
 * [2025-06-24, 19:20:11](https://lobste.rs/s/chbuzy/lisp_adventure_on_calm_waters_dead_c) - [A Lisp adventure on the calm waters of the dead C](https://mihaiolteanu.me/language-abstractions)
 * [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)

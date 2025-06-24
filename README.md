@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 19:44:31](https://lobste.rs/s/xnpdci/chromium_s_build_system_is_switching_from) - [Chromium's build system is switching from Ninja to Siso for external developers](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
 * [2025-06-24, 19:20:11](https://lobste.rs/s/chbuzy/lisp_adventure_on_calm_waters_dead_c) - [A Lisp adventure on the calm waters of the dead C](https://mihaiolteanu.me/language-abstractions)
 * [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
@@ -11,7 +12,6 @@
 * [2025-06-24, 14:12:06](https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
 * [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 * [2025-06-24, 13:58:37](https://lobste.rs/s/vyxvaf/finding_27_year_old_easter_egg_power_mac_g3) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
-* [2025-06-24, 12:33:05](https://lobste.rs/s/jtaxsr/blockdiff_how_we_built_our_own_file_format) - [Blockdiff: How we built our own file format for VM disk snapshots](https://cognition.ai/blog/blockdiff)
 * [2025-06-24, 12:14:39](https://lobste.rs/s/k51zlb/waiting_for_sql_202y_vectors) - [Waiting for SQL:202y: Vectors](http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors)
 * [2025-06-24, 10:38:37](https://lobste.rs/s/odv1yf/lr_1_parse_tables_generator) - [LR(1) parse-tables generator](https://github.com/wldfngrs/parser-generator)
 * [2025-06-24, 09:45:37](https://lobste.rs/s/t3lq2k/bazel_s_original_sins) - [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
