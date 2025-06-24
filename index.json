@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-24, 14:08:38",
+      "https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird"
+    ],
+    [
+      "Everyone should copy Thunderbird",
+      "https://blog.cyrneko.eu/everyone-should-copy-thunderbird"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 13:58:37",
+      "https://lobste.rs/s/vyxvaf/finding_27_year_old_easter_egg_power_mac_g3"
+    ],
+    [
+      "Finding a 27-year-old easter egg in the Power Mac G3 ROM",
+      "https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 12:33:05",
       "https://lobste.rs/s/jtaxsr/blockdiff_how_we_built_our_own_file_format"
     ],
@@ -97,16 +117,6 @@
     [
       "Interesting Bits of Postgres Grammar",
       "https://steve.dignam.xyz/2025/06/20/interesting-bits-of-postgres-grammar/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 23:07:55",
-      "https://lobste.rs/s/rhjl2n/iwp9_talk_recordings"
-    ],
-    [
-      "IWP9 talk recordings",
-      "https://youtube.com/playlist?list=PLEZEb6vVXSE-CV_vti2I6tJQNBn6f9swB"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "A family of OpenSSL forks",
       "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 06:26:42",
-      "https://lobste.rs/s/u6xhiw/telescopes_are_tries_dependent_type"
-    ],
-    [
-      "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
-      "https://www.philipzucker.com/telescope_tries/"
     ]
   ],
   [
