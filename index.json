@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-06-24, 08:21:22",
-      "https://lobste.rs/s/uguxeq/solving_linkedin_queens_with_haskell"
-    ],
-    [
-      "Solving LinkedIn Queens with Haskell",
-      "https://imiron.io/post/linkedin-queens/"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 08:14:47",
       "https://lobste.rs/s/gusint/onion_services_design_protocol"
     ],
@@ -227,6 +217,16 @@
     [
       "A family of OpenSSL forks",
       "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/"
+    ]
+  ],
+  [
+    [
+      "2025-06-23, 06:26:42",
+      "https://lobste.rs/s/u6xhiw/telescopes_are_tries_dependent_type"
+    ],
+    [
+      "Telescopes Are Tries: A Dependent Type Shellac on SQLite",
+      "https://www.philipzucker.com/telescope_tries/"
     ]
   ],
   [
