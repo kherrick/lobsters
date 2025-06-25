@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 15:05:17](https://lobste.rs/s/wycybo/openai_charges_by_minute_so_make_minutes) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
+* [2025-06-25, 15:01:26](https://lobste.rs/s/dqz4ye/what_s_new_gleam_1_11) - [What's new in Gleam 1.11](https://www.youtube.com/watch?v=AKIZG0Dq3Bc)
 * [2025-06-25, 14:22:46](https://lobste.rs/s/jbzmbp/how_keys_are_used_filevault_encryption) - [How keys are used in FileVault and encryption](https://eclecticlight.co/2025/06/25/how-keys-are-used-in-filevault-and-encryption/)
 * [2025-06-25, 14:22:23](https://lobste.rs/s/ntl2iw/how_write_compelling_release) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it's running on your competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
