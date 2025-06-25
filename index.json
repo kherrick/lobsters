@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-25, 13:00:11",
+      "https://lobste.rs/s/t8yq3x/reading_nfc_passport_chips_linux"
+    ],
+    [
+      "Reading NFC Passport Chips in Linux",
+      "https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 11:28:22",
       "https://lobste.rs/s/shxzwu/interactive_handbook_on_data_structures"
     ],
@@ -237,16 +247,6 @@
     [
       "Making TRAMP go Brrrr…",
       "https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 14:26:42",
-      "https://lobste.rs/s/hacouy/how_i_use_my_terminal"
-    ],
-    [
-      "how i use my terminal",
-      "https://jyn.dev/how-i-use-my-terminal/"
     ]
   ]
 ]
