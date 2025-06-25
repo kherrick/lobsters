@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-25, 22:45:47](https://lobste.rs/s/6urbwu/implementation_postgres_1990) - [The Implementation of Postgres (1990)](https://dsf.berkeley.edu/papers/ERL-M90-34.pdf)
 * [2025-06-25, 21:17:21](https://lobste.rs/s/5ds35n/coding_material_world) - [Coding in a material world](https://deadsimpletech.com/blog/material_girl)
-* [2025-06-25, 19:29:43](https://lobste.rs/s/3jfcg7/postgresql_branching_xata_vs_neon_vs) - [PostgreSQL Branching: Xata vs. Neon vs. Supabase](https://xata.io/blog/neon-vs-supabase-vs-xata-postgres-branching-part-2)
 * [2025-06-25, 18:03:25](https://lobste.rs/s/p1rxnb/scales_as_multipermutations_0_1_into) - [Scales as Multipermutations of 0 and 1 into Twelve Places](https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/)
 * [2025-06-25, 16:19:46](https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 15:50:50](https://lobste.rs/s/whprju/coding_independent_code_points_cicp_png) - [Coding Independent Code Points (cICP) in PNG, explained](https://svgees.us/blog/cICP.html)
