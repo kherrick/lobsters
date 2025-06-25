@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it's running on your competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
+* [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 13:00:11](https://lobste.rs/s/t8yq3x/reading_nfc_passport_chips_linux) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 11:28:22](https://lobste.rs/s/shxzwu/interactive_handbook_on_data_structures) - [Interactive Handbook on Data Structures and Algorithms](https://cartesian.app/)
 * [2025-06-25, 10:51:26](https://lobste.rs/s/nvztrp/once_more_about_dynamic_cast_real_use_case) - [Once more about dynamic_cast, a real use case](https://www.sandordargo.com/blog/2025/06/25/once-more-about-dynamic-casts)
@@ -8,7 +10,6 @@
 * [2025-06-25, 10:02:54](https://lobste.rs/s/zetevz/printing_web_making_webpages_look_good_on) - [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/)
 * [2025-06-25, 07:13:50](https://lobste.rs/s/pm3z2n/what_heck_just_happened) - [What The Heck Just Happened?](https://code.thheller.com/blog/shadow-cljs/2025/06/24/what-the-heck-just-happened.html)
 * [2025-06-25, 01:28:34](https://lobste.rs/s/ccit25/build_your_first_ios_app_on_linux_windows) - [Build your first iOS app on Linux / Windows](https://xtool.sh/tutorials/xtool/first-app)
-* [2025-06-24, 21:11:17](https://lobste.rs/s/6qxofu/using_lxcfs_together_with_podman) - [Using LXCFS together with Podman](https://www.die-welt.net/2025/06/using-lxcfs-together-with-podman/)
 * [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 19:44:31](https://lobste.rs/s/xnpdci/chromium_s_build_system_is_switching_from) - [Chromium's build system is switching from Ninja to Siso for external developers](https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg)
 * [2025-06-24, 19:20:11](https://lobste.rs/s/chbuzy/lisp_adventure_on_calm_waters_dead_c) - [A Lisp adventure on the calm waters of the dead C](https://mihaiolteanu.me/language-abstractions)
@@ -22,7 +23,6 @@
 * [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 * [2025-06-24, 13:58:37](https://lobste.rs/s/vyxvaf/finding_27_year_old_easter_egg_power_mac_g3) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 * [2025-06-24, 09:45:37](https://lobste.rs/s/t3lq2k/bazel_s_original_sins) - [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
-* [2025-06-24, 08:14:47](https://lobste.rs/s/gusint/onion_services_design_protocol) - [Onion Services: Design, Protocol and Implementation](https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation)
 * [2025-06-24, 06:25:10](https://lobste.rs/s/gqhd8m/firefox_140_released_with_unload_tab_css) - [Firefox 140 Released With \"Unload Tab\", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)
 * [2025-06-23, 14:46:30](https://lobste.rs/s/ygd1d8/making_tramp_go_brrrr) - [Making TRAMP go Brrrr…](https://coredumped.dev/2025/06/18/making-tramp-go-brrrr./)
 
