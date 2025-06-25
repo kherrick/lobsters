@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-25, 15:31:47",
+      "https://lobste.rs/s/gxly2u/web_embeddable_common_lisp"
+    ],
+    [
+      "Web Embeddable Common Lisp",
+      "https://turtleware.eu/static/paste/wecl-test-gl/main.html"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 15:05:17",
       "https://lobste.rs/s/wycybo/openai_charges_by_minute_so_make_minutes"
     ],
@@ -167,16 +177,6 @@
     [
       "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
       "https://whynot.fail/nixos/the-new-dotfile-golf/"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 16:33:15",
-      "https://lobste.rs/s/pulujk/one_more_re_nightmare_compiler_2021"
-    ],
-    [
-      "The one-more-re-nightmare compiler (2021)",
-      "https://applied-langua.ge/posts/omrn-compiler.html"
     ]
   ],
   [
