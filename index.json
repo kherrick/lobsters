@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-25, 15:05:17",
+      "https://lobste.rs/s/wycybo/openai_charges_by_minute_so_make_minutes"
+    ],
+    [
+      "OpenAI Charges by the Minute, So Make the Minutes Shorter",
+      "https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 15:01:26",
+      "https://lobste.rs/s/dqz4ye/what_s_new_gleam_1_11"
+    ],
+    [
+      "What's new in Gleam 1.11",
+      "https://www.youtube.com/watch?v=AKIZG0Dq3Bc"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 14:22:46",
       "https://lobste.rs/s/jbzmbp/how_keys_are_used_filevault_encryption"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-24, 19:44:31",
-      "https://lobste.rs/s/xnpdci/chromium_s_build_system_is_switching_from"
-    ],
-    [
-      "Chromium's build system is switching from Ninja to Siso for external developers",
-      "https://groups.google.com/a/chromium.org/g/chromium-dev/c/v-WOvWUtOpg"
-    ]
-  ],
-  [
-    [
       "2025-06-24, 19:20:11",
       "https://lobste.rs/s/chbuzy/lisp_adventure_on_calm_waters_dead_c"
     ],
@@ -157,16 +167,6 @@
     [
       "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
       "https://whynot.fail/nixos/the-new-dotfile-golf/"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 16:49:42",
-      "https://lobste.rs/s/uc6tuv/porting_gpu_shaders_rust_gpu_30x_faster"
-    ],
-    [
-      "Porting GPU shaders to Rust GPU 30x faster with AI",
-      "https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/"
     ]
   ],
   [
