@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-06-25, 16:44:06",
-      "https://lobste.rs/s/zdqd0c/gemini_cli_open_source_ai_agent_brings"
-    ],
-    [
-      "gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal",
-      "https://github.com/google-gemini/gemini-cli"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 16:19:46",
       "https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address"
     ],
@@ -207,6 +197,16 @@
     [
       "Nix/NixOS is the new “dotfiles golf” - and that’s awesome",
       "https://whynot.fail/nixos/the-new-dotfile-golf/"
+    ]
+  ],
+  [
+    [
+      "2025-06-24, 15:31:56",
+      "https://lobste.rs/s/ihlmb2/fixes_for_five_lix_cves"
+    ],
+    [
+      "Fixes for five Lix CVEs",
+      "https://lix.systems/blog/2025-06-24-lix-cves/"
     ]
   ],
   [
