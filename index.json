@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-25, 15:50:50",
+      "https://lobste.rs/s/whprju/coding_independent_code_points_cicp_png"
+    ],
+    [
+      "Coding Independent Code Points (cICP) in PNG, explained",
+      "https://svgees.us/blog/cICP.html"
+    ]
+  ],
+  [
+    [
       "2025-06-25, 15:47:02",
       "https://lobste.rs/s/utj83j/deep_down_rabbit_hole_bash_overlayfs_30"
     ],
@@ -37,6 +47,16 @@
     [
       "What's new in Gleam 1.11",
       "https://www.youtube.com/watch?v=AKIZG0Dq3Bc"
+    ]
+  ],
+  [
+    [
+      "2025-06-25, 14:22:46",
+      "https://lobste.rs/s/jbzmbp/how_keys_are_used_filevault_encryption"
+    ],
+    [
+      "How keys are used in FileVault and encryption",
+      "https://eclecticlight.co/2025/06/25/how-keys-are-used-in-filevault-and-encryption/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Interactive Handbook on Data Structures and Algorithms",
       "https://cartesian.app/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 10:51:26",
-      "https://lobste.rs/s/nvztrp/once_more_about_dynamic_cast_real_use_case"
-    ],
-    [
-      "Once more about dynamic_cast, a real use case",
-      "https://www.sandordargo.com/blog/2025/06/25/once-more-about-dynamic-casts"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Nix Development Setup for Factor",
       "https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 14:12:06",
-      "https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization"
-    ],
-    [
-      "The Bitter Lesson is coming for Tokenization",
-      "https://lucalp.dev/bitter-lesson-tokenization-and-blt"
     ]
   ],
   [
