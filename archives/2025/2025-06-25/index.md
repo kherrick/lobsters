@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 18:03:25](https://lobste.rs/s/p1rxnb/scales_as_multipermutations_0_1_into) - [Scales as Multipermutations of 0 and 1 into Twelve Places](https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/)
 * [2025-06-25, 16:44:06](https://lobste.rs/s/zdqd0c/gemini_cli_open_source_ai_agent_brings) - [gemini-cli: An open-source AI agent that brings the power of Gemini directly into your terminal](https://github.com/google-gemini/gemini-cli)
 * [2025-06-25, 16:19:46](https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
 * [2025-06-25, 15:50:50](https://lobste.rs/s/whprju/coding_independent_code_points_cicp_png) - [Coding Independent Code Points (cICP) in PNG, explained](https://svgees.us/blog/cICP.html)
