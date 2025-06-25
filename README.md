@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-25, 11:28:22](https://lobste.rs/s/shxzwu/interactive_handbook_on_data_structures) - [Interactive Handbook on Data Structures and Algorithms](https://cartesian.app/)
 * [2025-06-25, 10:51:26](https://lobste.rs/s/nvztrp/once_more_about_dynamic_cast_real_use_case) - [Once more about dynamic_cast, a real use case](https://www.sandordargo.com/blog/2025/06/25/once-more-about-dynamic-casts)
 * [2025-06-25, 10:12:38](https://lobste.rs/s/miklrg/inspecting_service_traffic_with_mirrord) - [Inspecting Service Traffic with mirrord dump](https://metalbear.co/blog/mirrord-dump/)
 * [2025-06-25, 10:11:54](https://lobste.rs/s/oqbljx/bookml_automated_latex_bookdown_style) - [BookML: automated LaTeX to bookdown-style HTML and SCORM](https://vlmantova.github.io/bookml/)
@@ -19,7 +20,6 @@
 * [2025-06-24, 14:12:06](https://lobste.rs/s/hyyggn/bitter_lesson_is_coming_for_tokenization) - [The Bitter Lesson is coming for Tokenization](https://lucalp.dev/bitter-lesson-tokenization-and-blt)
 * [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 * [2025-06-24, 13:58:37](https://lobste.rs/s/vyxvaf/finding_27_year_old_easter_egg_power_mac_g3) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
-* [2025-06-24, 12:14:39](https://lobste.rs/s/k51zlb/waiting_for_sql_202y_vectors) - [Waiting for SQL:202y: Vectors](http://peter.eisentraut.org/blog/2025/06/24/waiting-for-sql-202y-vectors)
 * [2025-06-24, 09:45:37](https://lobste.rs/s/t3lq2k/bazel_s_original_sins) - [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
 * [2025-06-24, 08:14:47](https://lobste.rs/s/gusint/onion_services_design_protocol) - [Onion Services: Design, Protocol and Implementation](https://media.ccc.de/v/gpn23-52-onion-services-design-protocol-and-implementation)
 * [2025-06-24, 06:25:10](https://lobste.rs/s/gqhd8m/firefox_140_released_with_unload_tab_css) - [Firefox 140 Released With \"Unload Tab\", CSS Custom Highlighting API](https://www.phoronix.com/news/Firefox-140)

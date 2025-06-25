@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 11:28:22](https://lobste.rs/s/shxzwu/interactive_handbook_on_data_structures) - [Interactive Handbook on Data Structures and Algorithms](https://cartesian.app/)
 * [2025-06-25, 10:51:26](https://lobste.rs/s/nvztrp/once_more_about_dynamic_cast_real_use_case) - [Once more about dynamic_cast, a real use case](https://www.sandordargo.com/blog/2025/06/25/once-more-about-dynamic-casts)
 * [2025-06-25, 10:12:38](https://lobste.rs/s/miklrg/inspecting_service_traffic_with_mirrord) - [Inspecting Service Traffic with mirrord dump](https://metalbear.co/blog/mirrord-dump/)
 * [2025-06-25, 10:11:54](https://lobste.rs/s/oqbljx/bookml_automated_latex_bookdown_style) - [BookML: automated LaTeX to bookdown-style HTML and SCORM](https://vlmantova.github.io/bookml/)
