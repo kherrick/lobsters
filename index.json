@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-06-24, 12:33:05",
+      "https://lobste.rs/s/jtaxsr/blockdiff_how_we_built_our_own_file_format"
+    ],
+    [
+      "Blockdiff: How we built our own file format for VM disk snapshots",
+      "https://cognition.ai/blog/blockdiff"
+    ]
+  ],
+  [
+    [
       "2025-06-24, 12:14:39",
       "https://lobste.rs/s/k51zlb/waiting_for_sql_202y_vectors"
     ],
@@ -237,16 +247,6 @@
     [
       "how i use my terminal",
       "https://jyn.dev/how-i-use-my-terminal/"
-    ]
-  ],
-  [
-    [
-      "2025-06-23, 12:45:39",
-      "https://lobste.rs/s/ib1hj9/family_openssl_forks"
-    ],
-    [
-      "A family of OpenSSL forks",
-      "https://daniel.haxx.se/blog/2025/06/23/a-family-of-forks/"
     ]
   ]
 ]
