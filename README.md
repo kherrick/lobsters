@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-25, 21:17:21](https://lobste.rs/s/5ds35n/coding_material_world) - [Coding in a material world](https://deadsimpletech.com/blog/material_girl)
 * [2025-06-25, 19:29:43](https://lobste.rs/s/3jfcg7/postgresql_branching_xata_vs_neon_vs) - [PostgreSQL Branching: Xata vs. Neon vs. Supabase](https://xata.io/blog/neon-vs-supabase-vs-xata-postgres-branching-part-2)
 * [2025-06-25, 18:03:25](https://lobste.rs/s/p1rxnb/scales_as_multipermutations_0_1_into) - [Scales as Multipermutations of 0 and 1 into Twelve Places](https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/)
 * [2025-06-25, 16:19:46](https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
@@ -23,7 +24,6 @@
 * [2025-06-24, 18:35:30](https://lobste.rs/s/vxkduy/nix_nixos_is_new_dotfiles_golf_s_awesome) - [Nix/NixOS is the new “dotfiles golf” - and that’s awesome](https://whynot.fail/nixos/the-new-dotfile-golf/)
 * [2025-06-24, 15:28:13](https://lobste.rs/s/xzoth8/nix_development_setup_for_factor) - [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
 * [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
-* [2025-06-24, 13:58:37](https://lobste.rs/s/vyxvaf/finding_27_year_old_easter_egg_power_mac_g3) - [Finding a 27-year-old easter egg in the Power Mac G3 ROM](https://www.downtowndougbrown.com/2025/06/finding-a-27-year-old-easter-egg-in-the-power-mac-g3-rom/)
 * [2025-06-24, 09:45:37](https://lobste.rs/s/t3lq2k/bazel_s_original_sins) - [Bazel’s Original Sins](https://fzakaria.com/2025/06/22/bazel-s-original-sins)
 
 ## [Archives](archives/index.md)
