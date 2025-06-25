@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-25](index.md)
 
+* [2025-06-25, 23:31:41](https://lobste.rs/s/ng5imb/docs_for_ai_agents) - [Docs for AI agents](https://technicalwriting.dev/ai/agents/)
+* [2025-06-25, 23:25:28](https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code) - [QEMU: define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 22:45:47](https://lobste.rs/s/6urbwu/implementation_postgres_1990) - [The Implementation of Postgres (1990)](https://dsf.berkeley.edu/papers/ERL-M90-34.pdf)
 * [2025-06-25, 21:17:21](https://lobste.rs/s/5ds35n/coding_material_world) - [Coding in a material world](https://deadsimpletech.com/blog/material_girl)
 * [2025-06-25, 19:29:43](https://lobste.rs/s/3jfcg7/postgresql_branching_xata_vs_neon_vs) - [PostgreSQL Branching: Xata vs. Neon vs. Supabase](https://xata.io/blog/neon-vs-supabase-vs-xata-postgres-branching-part-2)
