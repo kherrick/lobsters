@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-26, 07:36:04",
+      "https://lobste.rs/s/gdhz3j/let_s_get_real_about_free_speech"
+    ],
+    [
+      "\"Let's get real about free speech\"",
+      "https://huijzer.xyz/posts/94/lets-get-real-about-free-speech"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 07:32:28",
+      "https://lobste.rs/s/bgobdd/how_much_code_does_proc_macro_generate"
+    ],
+    [
+      "How much code does that proc macro generate?",
+      "https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 07:12:03",
       "https://lobste.rs/s/uadhug/overview_research_directions_at_keen"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2025-06-25, 18:03:25",
-      "https://lobste.rs/s/p1rxnb/scales_as_multipermutations_0_1_into"
-    ],
-    [
-      "Scales as Multipermutations of 0 and 1 into Twelve Places",
-      "https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 16:19:46",
       "https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address"
     ],
     [
       "Getting ready to issue IP address certificates",
       "https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 15:50:50",
-      "https://lobste.rs/s/whprju/coding_independent_code_points_cicp_png"
-    ],
-    [
-      "Coding Independent Code Points (cICP) in PNG, explained",
-      "https://svgees.us/blog/cICP.html"
     ]
   ],
   [
