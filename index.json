@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-06-26, 15:56:58",
+      "https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow"
+    ],
+    [
+      "\"Why is the Rust compiler so slow?\"",
+      "https://sharnoff.io/blog/why-rust-compiler-slow"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 15:28:49",
       "https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates"
     ],
@@ -137,16 +147,6 @@
     [
       "RSS Server Side Reader",
       "https://matklad.github.io/2025/06/26/rssssr.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 11:27:24",
-      "https://lobste.rs/s/vyjx1x/security_advisory_airoha_based"
-    ],
-    [
-      "Security Advisory: Airoha-based Bluetooth Headphones and Earbuds",
-      "https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/"
     ]
   ],
   [
