@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-26, 07:12:03",
+      "https://lobste.rs/s/uadhug/overview_research_directions_at_keen"
+    ],
+    [
+      "Overview of Research Directions at Keen Technologies",
+      "https://youtu.be/3pdlTMdo7pY"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 06:38:17",
       "https://lobste.rs/s/qaukc0/png_is_back"
     ],
@@ -47,16 +57,6 @@
     [
       "Paragraph flowing as a fold",
       "https://www.sigwinch.xyz/cs/2024/flow-fold.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 03:13:22",
-      "https://lobste.rs/s/gg6dpw/jan_nano_128k_4b_model_with_super_long"
-    ],
-    [
-      "Jan-nano-128k: A 4B Model with a Super-Long Context Window (Still Outperforms 671B [in MCP])",
-      "https://huggingface.co/Menlo/Jan-nano-128k"
     ]
   ],
   [
