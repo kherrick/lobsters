@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 20:52:48](https://lobste.rs/s/vzgkve/apple_announces_sweeping_app_store) - [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
 * [2025-06-26, 20:08:28](https://lobste.rs/s/7qwju2/adding_trash_can_linux_with_trash_cli) - [Adding a trash can to Linux with trash-cli](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)
 * [2025-06-26, 19:40:25](https://lobste.rs/s/k9fv55/no_time_learn_web_framework_x) - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/)
 * [2025-06-26, 19:14:05](https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal) - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
@@ -12,7 +13,6 @@
 * [2025-06-26, 15:06:55](https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64) - [GCC 15 Continuously Improving AArch64](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving)
 * [2025-06-26, 14:03:43](https://lobste.rs/s/tc2s00/weird_expressions_rust) - [Weird expressions in rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-26, 13:33:45](https://lobste.rs/s/vlpdx6/go_1_25_interactive_tour) - [Go 1.25 interactive tour](https://antonz.org/go-1-25/)
-* [2025-06-26, 13:17:42](https://lobste.rs/s/ry92y2/associated_unassociated_alpha_channel) - [Associated, unassociated alpha channel compositing](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)

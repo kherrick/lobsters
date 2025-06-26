@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 20:52:48](https://lobste.rs/s/vzgkve/apple_announces_sweeping_app_store) - [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
 * [2025-06-26, 20:08:28](https://lobste.rs/s/7qwju2/adding_trash_can_linux_with_trash_cli) - [Adding a trash can to Linux with trash-cli](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)
 * [2025-06-26, 19:40:25](https://lobste.rs/s/k9fv55/no_time_learn_web_framework_x) - [No Time To Learn (Web) Framework X](https://brainbaking.com/post/2025/06/no-time-to-learn-web-framework-x/)
 * [2025-06-26, 19:14:05](https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal) - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
