@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 07:43:23](https://lobste.rs/s/qjjehn/notes_on_type_inference_polymorphism) - [Notes on type inference and polymorphism](https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html)
 * [2025-06-26, 07:36:04](https://lobste.rs/s/gdhz3j/let_s_get_real_about_free_speech) - [\"Let's get real about free speech\"](https://huijzer.xyz/posts/94/lets-get-real-about-free-speech)
 * [2025-06-26, 07:32:28](https://lobste.rs/s/bgobdd/how_much_code_does_proc_macro_generate) - [How much code does that proc macro generate?](https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html)
 * [2025-06-26, 07:12:03](https://lobste.rs/s/uadhug/overview_research_directions_at_keen) - [Overview of Research Directions at Keen Technologies](https://youtu.be/3pdlTMdo7pY)
@@ -23,7 +24,6 @@
 * [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 13:00:11](https://lobste.rs/s/t8yq3x/reading_nfc_passport_chips_linux) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 10:02:54](https://lobste.rs/s/zetevz/printing_web_making_webpages_look_good_on) - [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/)
-* [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 
 ## [Archives](archives/index.md)

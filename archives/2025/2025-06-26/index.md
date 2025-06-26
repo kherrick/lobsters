@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 07:43:23](https://lobste.rs/s/qjjehn/notes_on_type_inference_polymorphism) - [Notes on type inference and polymorphism](https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html)
 * [2025-06-26, 07:36:04](https://lobste.rs/s/gdhz3j/let_s_get_real_about_free_speech) - [\"Let's get real about free speech\"](https://huijzer.xyz/posts/94/lets-get-real-about-free-speech)
 * [2025-06-26, 07:32:28](https://lobste.rs/s/bgobdd/how_much_code_does_proc_macro_generate) - [How much code does that proc macro generate?](https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html)
 * [2025-06-26, 07:12:03](https://lobste.rs/s/uadhug/overview_research_directions_at_keen) - [Overview of Research Directions at Keen Technologies](https://youtu.be/3pdlTMdo7pY)
