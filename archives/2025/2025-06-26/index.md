@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 07:12:03](https://lobste.rs/s/uadhug/overview_research_directions_at_keen) - [Overview of Research Directions at Keen Technologies](https://youtu.be/3pdlTMdo7pY)
 * [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-26, 06:07:47](https://lobste.rs/s/xvzlix/reverse_engineering_microchip_clb_part_1) - [Reverse Engineering the Microchip CLB Part 1: Background and Reverse Engineering the BLEs](http://mcp-clb.markomo.me/P1-Background-and-RE/)
 * [2025-06-26, 05:26:42](https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
