@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 12:53:39](https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process)
+* [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:27:24](https://lobste.rs/s/vyjx1x/security_advisory_airoha_based) - [Security Advisory: Airoha-based Bluetooth Headphones and Earbuds](https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)

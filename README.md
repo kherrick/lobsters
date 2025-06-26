@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 12:53:39](https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process)
+* [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:27:24](https://lobste.rs/s/vyjx1x/security_advisory_airoha_based) - [Security Advisory: Airoha-based Bluetooth Headphones and Earbuds](https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
@@ -12,7 +14,6 @@
 * [2025-06-26, 03:45:22](https://lobste.rs/s/f6kee2/swift_android_workgroup) - [Swift Android Workgroup](https://www.swift.org/android-workgroup/)
 * [2025-06-26, 02:59:10](https://lobste.rs/s/zjft0g/unbearable_anger_broken_audio) - [The Unbearable Anger of Broken Audio](https://arunraghavan.net/2025/06/the-unbearable-anger-of-broken-audio/)
 * [2025-06-26, 00:39:33](https://lobste.rs/s/apcp5c/best_interfaces_we_never_built) - [The best interfaces we never built](https://www.chrbutler.com/the-best-interfaces-we-never-built)
-* [2025-06-25, 23:31:41](https://lobste.rs/s/ng5imb/docs_for_ai_agents) - [Docs for AI agents](https://technicalwriting.dev/ai/agents/)
 * [2025-06-25, 23:25:28](https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code) - [QEMU: define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 21:17:21](https://lobste.rs/s/5ds35n/coding_material_world) - [Coding in a material world](https://deadsimpletech.com/blog/material_girl)
 * [2025-06-25, 16:19:46](https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
@@ -24,7 +25,6 @@
 * [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it's running on your competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 * [2025-06-25, 10:02:54](https://lobste.rs/s/zetevz/printing_web_making_webpages_look_good_on) - [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/)
-* [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 
 ## [Archives](archives/index.md)
 
