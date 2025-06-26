@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-26, 05:26:42",
+      "https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter"
+    ],
+    [
+      "Why Go Rocks for Building a Lua Interpreter",
+      "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 03:45:22",
       "https://lobste.rs/s/f6kee2/swift_android_workgroup"
     ],
@@ -67,16 +77,6 @@
     [
       "QEMU: define policy forbidding use of AI code generators",
       "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 22:45:47",
-      "https://lobste.rs/s/6urbwu/implementation_postgres_1990"
-    ],
-    [
-      "The Implementation of Postgres (1990)",
-      "https://dsf.berkeley.edu/papers/ERL-M90-34.pdf"
     ]
   ],
   [
