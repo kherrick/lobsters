@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 19:14:05](https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal) - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
+* [2025-06-26, 18:58:39](https://lobste.rs/s/llgmmr/announcing_rust_1_88_0) - [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
 * [2025-06-26, 17:26:01](https://lobste.rs/s/xpugii/what_ui_first_distinguished_radio) - [What UI first distinguished radio buttons from checkboxes with circles and squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
+* [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 15:28:49](https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates) - [Cross-Compiling 10,000+ Rust CLI Crates Statically](https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically)
 * [2025-06-26, 15:25:26](https://lobste.rs/s/gf5aiw/reflecting_json_into_c_objects_at_compile) - [Reflecting JSON into C++ Objects at compile time](https://brevzin.github.io/c++/2025/06/26/json-reflection/)
 * [2025-06-26, 15:24:05](https://lobste.rs/s/x8rza7/kde_plasma_6_4_review_worrying_trend) - [KDE Plasma 6.4 review - A worrying trend](https://www.dedoimedo.com/computers/plasma-6-4-review.html)
