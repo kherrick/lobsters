@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-26, 15:25:26",
+      "https://lobste.rs/s/gf5aiw/reflecting_json_into_c_objects_at_compile"
+    ],
+    [
+      "Reflecting JSON into C++ Objects at compile time",
+      "https://brevzin.github.io/c++/2025/06/26/json-reflection/"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 15:06:55",
       "https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64"
     ],
@@ -167,16 +177,6 @@
     [
       "QEMU: define policy forbidding use of AI code generators",
       "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 21:17:21",
-      "https://lobste.rs/s/5ds35n/coding_material_world"
-    ],
-    [
-      "Coding in a material world",
-      "https://deadsimpletech.com/blog/material_girl"
     ]
   ],
   [
