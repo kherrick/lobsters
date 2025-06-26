@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-26, 17:26:01",
+      "https://lobste.rs/s/xpugii/what_ui_first_distinguished_radio"
+    ],
+    [
+      "What UI first distinguished radio buttons from checkboxes with circles and squares?",
+      "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 15:28:49",
       "https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-06-26, 15:24:05",
-      "https://lobste.rs/s/x8rza7/kde_plasma_6_4_review_worrying_trend"
-    ],
-    [
-      "KDE Plasma 6.4 review - A worrying trend",
-      "https://www.dedoimedo.com/computers/plasma-6-4-review.html"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 15:06:55",
       "https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64"
     ],
@@ -47,6 +47,16 @@
     [
       "Weird expressions in rust",
       "https://www.wakunguma.com/blog/rust-weird-expr"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 13:33:45",
+      "https://lobste.rs/s/vlpdx6/go_1_25_interactive_tour"
+    ],
+    [
+      "Go 1.25 interactive tour",
+      "https://antonz.org/go-1-25/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Swift Android Workgroup",
       "https://www.swift.org/android-workgroup/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 00:39:33",
-      "https://lobste.rs/s/apcp5c/best_interfaces_we_never_built"
-    ],
-    [
-      "The best interfaces we never built",
-      "https://www.chrbutler.com/the-best-interfaces-we-never-built"
     ]
   ],
   [
