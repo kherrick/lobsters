@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:27:24](https://lobste.rs/s/vyjx1x/security_advisory_airoha_based) - [Security Advisory: Airoha-based Bluetooth Headphones and Earbuds](https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
 * [2025-06-26, 09:10:59](https://lobste.rs/s/lswhob/introducing_northguard_xinfra_scalable) - [Introducing Northguard and Xinfra: scalable log storage at LinkedIn](https://www.linkedin.com/blog/engineering/infrastructure/introducing-northguard-and-xinfra)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:27:24](https://lobste.rs/s/vyjx1x/security_advisory_airoha_based) - [Security Advisory: Airoha-based Bluetooth Headphones and Earbuds](https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
 * [2025-06-26, 08:14:43](https://lobste.rs/s/3fscqs/crdt_based_messenger_12_lines_bash_using) - [A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder](https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/)
@@ -22,7 +23,6 @@
 * [2025-06-25, 14:22:23](https://lobste.rs/s/ntl2iw/how_write_compelling_release) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it's running on your competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
-* [2025-06-25, 13:00:11](https://lobste.rs/s/t8yq3x/reading_nfc_passport_chips_linux) - [Reading NFC Passport Chips in Linux](https://shkspr.mobi/blog/2025/06/reading-nfc-passport-chips-in-linux/)
 * [2025-06-25, 10:02:54](https://lobste.rs/s/zetevz/printing_web_making_webpages_look_good_on) - [Printing the web: making webpages look good on paper](https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/)
 * [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 
