@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-26, 12:53:39",
+      "https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single"
+    ],
+    [
+      "Running a million-board chess MMO in a single process",
+      "https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 12:39:49",
+      "https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn"
+    ],
+    [
+      "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
+      "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 12:10:26",
       "https://lobste.rs/s/nr9t3s/rss_server_side_reader"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-06-25, 23:31:41",
-      "https://lobste.rs/s/ng5imb/docs_for_ai_agents"
-    ],
-    [
-      "Docs for AI agents",
-      "https://technicalwriting.dev/ai/agents/"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 23:25:28",
       "https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code"
     ],
@@ -237,16 +247,6 @@
     [
       "Printing the web: making webpages look good on paper",
       "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/"
-    ]
-  ],
-  [
-    [
-      "2025-06-24, 18:56:51",
-      "https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling"
-    ],
-    [
-      "forbidden secrets of ancient X11 scaling technology revealed",
-      "https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed"
     ]
   ]
 ]
