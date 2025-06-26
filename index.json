@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-06-26, 20:08:28",
+      "https://lobste.rs/s/7qwju2/adding_trash_can_linux_with_trash_cli"
+    ],
+    [
+      "Adding a trash can to Linux with trash-cli",
+      "https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 19:14:05",
       "https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal"
     ],
     [
       "New zine: The Secret Rules of the Terminal",
       "https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 19:10:32",
+      "https://lobste.rs/s/y81ftk/matrix_v1_15_release"
+    ],
+    [
+      "Matrix v1.15 release",
+      "https://matrix.org/blog/2025/06/26/matrix-v1.15-release/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "What UI first distinguished radio buttons from checkboxes with circles and squares?",
       "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 15:56:58",
-      "https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow"
-    ],
-    [
-      "\"Why is the Rust compiler so slow?\"",
-      "https://sharnoff.io/blog/why-rust-compiler-slow"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Abusing copyright strings to trick software into thinking it's running on your competitor's PC",
       "https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 13:28:10",
-      "https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent"
-    ],
-    [
-      "Gemini CLI: your open-source AI agent",
-      "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/"
     ]
   ]
 ]
