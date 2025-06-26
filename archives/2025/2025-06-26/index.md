@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 07:36:04](https://lobste.rs/s/gdhz3j/let_s_get_real_about_free_speech) - [\"Let's get real about free speech\"](https://huijzer.xyz/posts/94/lets-get-real-about-free-speech)
+* [2025-06-26, 07:32:28](https://lobste.rs/s/bgobdd/how_much_code_does_proc_macro_generate) - [How much code does that proc macro generate?](https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html)
 * [2025-06-26, 07:12:03](https://lobste.rs/s/uadhug/overview_research_directions_at_keen) - [Overview of Research Directions at Keen Technologies](https://youtu.be/3pdlTMdo7pY)
 * [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-26, 06:07:47](https://lobste.rs/s/xvzlix/reverse_engineering_microchip_clb_part_1) - [Reverse Engineering the Microchip CLB Part 1: Background and Reverse Engineering the BLEs](http://mcp-clb.markomo.me/P1-Background-and-RE/)
