@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 13:17:42](https://lobste.rs/s/ry92y2/associated_unassociated_alpha_channel) - [Associated, unassociated alpha channel compositing](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [2025-06-26, 12:53:39](https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process)
 * [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
@@ -12,7 +13,6 @@
 * [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-26, 05:26:42](https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
 * [2025-06-26, 03:45:22](https://lobste.rs/s/f6kee2/swift_android_workgroup) - [Swift Android Workgroup](https://www.swift.org/android-workgroup/)
-* [2025-06-26, 02:59:10](https://lobste.rs/s/zjft0g/unbearable_anger_broken_audio) - [The Unbearable Anger of Broken Audio](https://arunraghavan.net/2025/06/the-unbearable-anger-of-broken-audio/)
 * [2025-06-26, 00:39:33](https://lobste.rs/s/apcp5c/best_interfaces_we_never_built) - [The best interfaces we never built](https://www.chrbutler.com/the-best-interfaces-we-never-built)
 * [2025-06-25, 23:25:28](https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code) - [QEMU: define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 * [2025-06-25, 21:17:21](https://lobste.rs/s/5ds35n/coding_material_world) - [Coding in a material world](https://deadsimpletech.com/blog/material_girl)
