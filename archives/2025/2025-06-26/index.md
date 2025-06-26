@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 15:28:49](https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates) - [Cross-Compiling 10,000+ Rust CLI Crates Statically](https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically)
+* [2025-06-26, 15:06:55](https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64) - [GCC 15 Continuously Improving AArch64](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving)
 * [2025-06-26, 14:03:43](https://lobste.rs/s/tc2s00/weird_expressions_rust) - [Weird expressions in rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-26, 13:17:42](https://lobste.rs/s/ry92y2/associated_unassociated_alpha_channel) - [Associated, unassociated alpha channel compositing](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [2025-06-26, 12:53:39](https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process)
