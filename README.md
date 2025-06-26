@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 01:30:08](https://lobste.rs/s/jp6mwv/hug_css_how_i_approach_css_architecture) - [HUG CSS, how I approach CSS architecture](https://gomakethings.com/hug-css-how-i-approach-css-architecture/)
+* [2025-06-26, 00:58:44](https://lobste.rs/s/mjgw4h/speculative_optimizations_for) - [Speculative Optimizations for WebAssembly using Deopts and Inlining](https://v8.dev/blog/wasm-speculative-optimizations)
+* [2025-06-26, 00:39:33](https://lobste.rs/s/apcp5c/best_interfaces_we_never_built) - [The best interfaces we never built](https://www.chrbutler.com/the-best-interfaces-we-never-built)
 * [2025-06-25, 23:31:41](https://lobste.rs/s/ng5imb/docs_for_ai_agents) - [Docs for AI agents](https://technicalwriting.dev/ai/agents/)
 * [2025-06-25, 23:25:28](https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code) - [QEMU: define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
-* [2025-06-25, 22:45:47](https://lobste.rs/s/6urbwu/implementation_postgres_1990) - [The Implementation of Postgres (1990)](https://dsf.berkeley.edu/papers/ERL-M90-34.pdf)
 * [2025-06-25, 21:17:21](https://lobste.rs/s/5ds35n/coding_material_world) - [Coding in a material world](https://deadsimpletech.com/blog/material_girl)
 * [2025-06-25, 18:03:25](https://lobste.rs/s/p1rxnb/scales_as_multipermutations_0_1_into) - [Scales as Multipermutations of 0 and 1 into Twelve Places](https://petecorey.com/blog/2025/06/25/scales-as-multipermutations-of-0-and-1-into-twelve-places/)
 * [2025-06-25, 16:19:46](https://lobste.rs/s/ljfoxr/getting_ready_issue_ip_address) - [Getting ready to issue IP address certificates](https://community.letsencrypt.org/t/getting-ready-to-issue-ip-address-certificates/238777)
@@ -11,7 +13,6 @@
 * [2025-06-25, 15:31:47](https://lobste.rs/s/gxly2u/web_embeddable_common_lisp) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:05:17](https://lobste.rs/s/wycybo/openai_charges_by_minute_so_make_minutes) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
 * [2025-06-25, 15:01:26](https://lobste.rs/s/dqz4ye/what_s_new_gleam_1_11) - [What's new in Gleam 1.11](https://www.youtube.com/watch?v=AKIZG0Dq3Bc)
-* [2025-06-25, 14:22:46](https://lobste.rs/s/jbzmbp/how_keys_are_used_filevault_encryption) - [How keys are used in FileVault and encryption](https://eclecticlight.co/2025/06/25/how-keys-are-used-in-filevault-and-encryption/)
 * [2025-06-25, 14:22:23](https://lobste.rs/s/ntl2iw/how_write_compelling_release) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it's running on your competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
@@ -23,7 +24,6 @@
 * [2025-06-24, 20:46:13](https://lobste.rs/s/nwtkom/fun_with_uv_pep_723) - [Fun with uv and PEP 723](https://www.cottongeeks.com/articles/2025-06-24-fun-with-uv-and-pep-723)
 * [2025-06-24, 18:56:51](https://lobste.rs/s/ceylzx/forbidden_secrets_ancient_x11_scaling) - [forbidden secrets of ancient X11 scaling technology revealed](https://flak.tedunangst.com/post/forbidden-secrets-of-ancient-X11-scaling-technology-revealed)
 * [2025-06-24, 18:35:30](https://lobste.rs/s/vxkduy/nix_nixos_is_new_dotfiles_golf_s_awesome) - [Nix/NixOS is the new “dotfiles golf” - and that’s awesome](https://whynot.fail/nixos/the-new-dotfile-golf/)
-* [2025-06-24, 15:28:13](https://lobste.rs/s/xzoth8/nix_development_setup_for_factor) - [Nix Development Setup for Factor](https://toast.al/posts/softwarecraft/2025-06-24_factor-nix-dev-environment/)
 * [2025-06-24, 14:08:38](https://lobste.rs/s/onhha0/everyone_should_copy_thunderbird_s) - [Everyone should copy Thunderbird's donation model](https://blog.cyrneko.eu/everyone-should-copy-thunderbird)
 
 ## [Archives](archives/index.md)
