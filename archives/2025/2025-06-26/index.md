@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 08:27:18](https://lobste.rs/s/koza4t/javascript_chose_violence) - [JavaScript Chose Violence](https://martinrue.com/javascript-chose-violence)
+* [2025-06-26, 08:14:43](https://lobste.rs/s/3fscqs/crdt_based_messenger_12_lines_bash_using) - [A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder](https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/)
+* [2025-06-26, 08:10:19](https://lobste.rs/s/vw3pwh/box_combinators) - [Box combinators](https://mmapped.blog/posts/41-box-combinators)
 * [2025-06-26, 07:43:23](https://lobste.rs/s/qjjehn/notes_on_type_inference_polymorphism) - [Notes on type inference and polymorphism](https://blog.snork.dev/posts/notes-on-type-inference-and-polymorphism.html)
 * [2025-06-26, 07:36:04](https://lobste.rs/s/gdhz3j/let_s_get_real_about_free_speech) - [\"Let's get real about free speech\"](https://huijzer.xyz/posts/94/lets-get-real-about-free-speech)
 * [2025-06-26, 07:32:28](https://lobste.rs/s/bgobdd/how_much_code_does_proc_macro_generate) - [How much code does that proc macro generate?](https://nnethercote.github.io/2025/06/26/how-much-code-does-that-proc-macro-generate.html)
