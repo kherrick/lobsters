@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 14:03:43](https://lobste.rs/s/tc2s00/weird_expressions_rust) - [Weird expressions in rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-26, 13:17:42](https://lobste.rs/s/ry92y2/associated_unassociated_alpha_channel) - [Associated, unassociated alpha channel compositing](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [2025-06-26, 12:53:39](https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process)
 * [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)

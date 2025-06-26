@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-26, 14:03:43](https://lobste.rs/s/tc2s00/weird_expressions_rust) - [Weird expressions in rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-26, 13:17:42](https://lobste.rs/s/ry92y2/associated_unassociated_alpha_channel) - [Associated, unassociated alpha channel compositing](https://medium.com/@giz51d/channeling-alpha-bd32afbfadfa)
 * [2025-06-26, 12:53:39](https://lobste.rs/s/whpuvq/running_million_board_chess_mmo_single) - [Running a million-board chess MMO in a single process](https://eieio.games/blog/a-million-realtime-chess-boards-in-a-single-process)
 * [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
@@ -20,7 +21,6 @@
 * [2025-06-25, 15:47:02](https://lobste.rs/s/utj83j/deep_down_rabbit_hole_bash_overlayfs_30) - [Deep down the rabbit hole: Bash, OverlayFS, and a 30-year-old surprise](https://sigma-star.at/blog/2025/06/deep-down-the-rabbit-hole-bash-overlayfs-and-a-30-year-old-surprise/)
 * [2025-06-25, 15:31:47](https://lobste.rs/s/gxly2u/web_embeddable_common_lisp) - [Web Embeddable Common Lisp](https://turtleware.eu/static/paste/wecl-test-gl/main.html)
 * [2025-06-25, 15:05:17](https://lobste.rs/s/wycybo/openai_charges_by_minute_so_make_minutes) - [OpenAI Charges by the Minute, So Make the Minutes Shorter](https://george.mand.is/2025/06/openai-charges-by-the-minute-so-make-the-minutes-shorter/)
-* [2025-06-25, 15:01:26](https://lobste.rs/s/dqz4ye/what_s_new_gleam_1_11) - [What's new in Gleam 1.11](https://www.youtube.com/watch?v=AKIZG0Dq3Bc)
 * [2025-06-25, 14:22:23](https://lobste.rs/s/ntl2iw/how_write_compelling_release) - [How to Write Compelling Release Announcements](https://refactoringenglish.com/chapters/release-announcements/)
 * [2025-06-25, 13:29:32](https://lobste.rs/s/3ste25/abusing_copyright_strings_trick) - [Abusing copyright strings to trick software into thinking it's running on your competitor's PC](https://devblogs.microsoft.com/oldnewthing/20250624-00/?p=111299)
 * [2025-06-25, 13:28:10](https://lobste.rs/s/f9xdsg/gemini_cli_your_open_source_ai_agent) - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
