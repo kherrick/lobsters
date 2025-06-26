@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-26](index.md)
 
+* [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
 * [2025-06-26, 09:10:59](https://lobste.rs/s/lswhob/introducing_northguard_xinfra_scalable) - [Introducing Northguard and Xinfra: scalable log storage at LinkedIn](https://www.linkedin.com/blog/engineering/infrastructure/introducing-northguard-and-xinfra)
 * [2025-06-26, 08:27:18](https://lobste.rs/s/koza4t/javascript_chose_violence) - [JavaScript Chose Violence](https://martinrue.com/javascript-chose-violence)
 * [2025-06-26, 08:14:43](https://lobste.rs/s/3fscqs/crdt_based_messenger_12_lines_bash_using) - [A CRDT-based Messenger in 12 Lines of Bash Using a Synced Folder](https://holdtherobot.com/blog/crdt-messenger-in-12-lines-of-bash/)
