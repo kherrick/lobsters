@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-06-26, 15:24:05",
+      "https://lobste.rs/s/x8rza7/kde_plasma_6_4_review_worrying_trend"
+    ],
+    [
+      "KDE Plasma 6.4 review - A worrying trend",
+      "https://www.dedoimedo.com/computers/plasma-6-4-review.html"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 15:06:55",
       "https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64"
     ],
@@ -77,6 +87,16 @@
     [
       "RSS Server Side Reader",
       "https://matklad.github.io/2025/06/26/rssssr.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 11:27:24",
+      "https://lobste.rs/s/vyjx1x/security_advisory_airoha_based"
+    ],
+    [
+      "Security Advisory: Airoha-based Bluetooth Headphones and Earbuds",
+      "https://insinuator.net/2025/06/airoha-bluetooth-security-vulnerabilities/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-06-25, 21:17:21",
-      "https://lobste.rs/s/5ds35n/coding_material_world"
-    ],
-    [
-      "Coding in a material world",
-      "https://deadsimpletech.com/blog/material_girl"
-    ]
-  ],
-  [
-    [
       "2025-06-25, 15:47:02",
       "https://lobste.rs/s/utj83j/deep_down_rabbit_hole_bash_overlayfs_30"
     ],
@@ -237,16 +247,6 @@
     [
       "Gemini CLI: your open-source AI agent",
       "https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 10:02:54",
-      "https://lobste.rs/s/zetevz/printing_web_making_webpages_look_good_on"
-    ],
-    [
-      "Printing the web: making webpages look good on paper",
-      "https://piccalil.li/blog/printing-the-web-making-webpages-look-good-on-paper/"
     ]
   ]
 ]
