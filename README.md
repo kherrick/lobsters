@@ -18,13 +18,13 @@
 * [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 15:28:49](https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates) - [Cross-Compiling 10,000+ Rust CLI Crates Statically](https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically)
 * [2025-06-26, 15:06:55](https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64) - [GCC 15 Continuously Improving AArch64](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving)
+* [2025-06-26, 14:03:43](https://lobste.rs/s/tc2s00/weird_expressions_rust) - [Weird expressions in rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-26, 13:33:45](https://lobste.rs/s/vlpdx6/go_1_25_interactive_tour) - [Go 1.25 interactive tour](https://antonz.org/go-1-25/)
 * [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
 * [2025-06-26, 11:04:04](https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go) - [Ticket-Driven Development: The Fastest Way to Go Nowhere](https://thecynical.dev/posts/ticket-driven-development/)
 * [2025-06-26, 08:10:19](https://lobste.rs/s/vw3pwh/box_combinators) - [Box combinators](https://mmapped.blog/posts/41-box-combinators)
 * [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
-* [2025-06-26, 05:26:42](https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
 
 ## [Archives](archives/index.md)
 
