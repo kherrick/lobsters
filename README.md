@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-27, 22:42:10](https://lobste.rs/s/levmcb/alternate_histories_computing_2018) - [alternate histories of computing (2018)](https://archive.fosdem.org/2018/schedule/event/alternative_histories/)
 * [2025-06-27, 21:59:24](https://lobste.rs/s/l2dizq/announcing_sniffnet_v1_4_it_s_2x_faster) - [Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files](https://sniffnet.net/news/v1.4/)
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
-* [2025-06-27, 21:32:30](https://lobste.rs/s/qkdlxt/journey_bypassing_ubuntu_s_unprivileged) - [The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
 * [2025-06-27, 20:01:41](https://lobste.rs/s/6oqgv7/python_can_run_mojo_now) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 * [2025-06-27, 19:53:33](https://lobste.rs/s/iwoipn/structuring_arrays_with_algebraic) - [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 * [2025-06-27, 19:08:48](https://lobste.rs/s/ggzbe1/run_coverage_on_tests) - [Run coverage on tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)
