@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 19:08:48](https://lobste.rs/s/ggzbe1/run_coverage_on_tests) - [Run coverage on tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)
 * [2025-06-27, 17:35:59](https://lobste.rs/s/orj2th/parameterized_types_c_using_new_tag) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 17:00:56](https://lobste.rs/s/96xzbg/transmitting_data_via_ultrasound) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 16:25:41](https://lobste.rs/s/52ebj3/integrating_container_use_wsl_for) - [Integrating Container-Use in WSL for Agentic Development](https://blog.techdecline.dev/integrating-container-use-in-wsl-for-agentic-development/)

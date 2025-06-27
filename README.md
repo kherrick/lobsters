@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-27, 19:08:48](https://lobste.rs/s/ggzbe1/run_coverage_on_tests) - [Run coverage on tests](https://hugovk.dev/blog/2025/run-coverage-on-tests/)
 * [2025-06-27, 17:35:59](https://lobste.rs/s/orj2th/parameterized_types_c_using_new_tag) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 17:00:56](https://lobste.rs/s/96xzbg/transmitting_data_via_ultrasound) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 16:25:41](https://lobste.rs/s/52ebj3/integrating_container_use_wsl_for) - [Integrating Container-Use in WSL for Agentic Development](https://blog.techdecline.dev/integrating-container-use-in-wsl-for-agentic-development/)
@@ -18,7 +19,6 @@
 * [2025-06-26, 18:58:39](https://lobste.rs/s/llgmmr/announcing_rust_1_88_0) - [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
 * [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 15:28:49](https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates) - [Cross-Compiling 10,000+ Rust CLI Crates Statically](https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically)
-* [2025-06-26, 15:06:55](https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64) - [GCC 15 Continuously Improving AArch64](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving)
 * [2025-06-26, 13:33:45](https://lobste.rs/s/vlpdx6/go_1_25_interactive_tour) - [Go 1.25 interactive tour](https://antonz.org/go-1-25/)
 * [2025-06-26, 12:39:49](https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn) - [You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
 * [2025-06-26, 12:10:26](https://lobste.rs/s/nr9t3s/rss_server_side_reader) - [RSS Server Side Reader](https://matklad.github.io/2025/06/26/rssssr.html)
