@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-06-26, 14:03:43",
+      "https://lobste.rs/s/tc2s00/weird_expressions_rust"
+    ],
+    [
+      "Weird expressions in rust",
+      "https://www.wakunguma.com/blog/rust-weird-expr"
+    ]
+  ],
+  [
+    [
       "2025-06-26, 13:33:45",
       "https://lobste.rs/s/vlpdx6/go_1_25_interactive_tour"
     ],
@@ -237,16 +247,6 @@
     [
       "PNG is back",
       "https://www.programmax.net/articles/png-is-back/"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 05:26:42",
-      "https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter"
-    ],
-    [
-      "Why Go Rocks for Building a Lua Interpreter",
-      "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
     ]
   ]
 ]
