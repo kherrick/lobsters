@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 17:00:56](https://lobste.rs/s/96xzbg/transmitting_data_via_ultrasound) - [Transmitting data via ultrasound without any special equipment](https://halcy.de/blog/2025/06/27/transmitting-data-via-ultrasound-without-any-special-equipment/)
 * [2025-06-27, 16:25:41](https://lobste.rs/s/52ebj3/integrating_container_use_wsl_for) - [Integrating Container-Use in WSL for Agentic Development](https://blog.techdecline.dev/integrating-container-use-in-wsl-for-agentic-development/)
 * [2025-06-27, 16:16:00](https://lobste.rs/s/ojrbkh/confusing_accountant_with_open_source) - [Confusing an accountant with Open Source funding](https://www.youtube.com/watch?v=VTY-lQ3S1gw)
 * [2025-06-27, 13:34:46](https://lobste.rs/s/2le5gj/richard_feldman_on_new_language_adoption) - [Richard Feldman on new language adoption in the LLM age](https://youtu.be/ZsBHc-J9f8o)
