@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 11:14:54",
+      "https://lobste.rs/s/nkizry/conferences_clarity_smokescreens"
+    ],
+    [
+      "Conferences, Clarity, and Smokescreens",
+      "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 11:07:53",
       "https://lobste.rs/s/pibyff/my_lights_run_on_bash_tomasz_kramkowski"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Go Rocks for Building a Lua Interpreter",
       "https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2025-06-25, 23:25:28",
-      "https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code"
-    ],
-    [
-      "QEMU: define policy forbidding use of AI code generators",
-      "https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048"
     ]
   ]
 ]
