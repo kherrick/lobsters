@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 19:08:48",
+      "https://lobste.rs/s/ggzbe1/run_coverage_on_tests"
+    ],
+    [
+      "Run coverage on tests",
+      "https://hugovk.dev/blog/2025/run-coverage-on-tests/"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 17:35:59",
       "https://lobste.rs/s/orj2th/parameterized_types_c_using_new_tag"
     ],
@@ -177,16 +187,6 @@
     [
       "Cross-Compiling 10,000+ Rust CLI Crates Statically",
       "https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 15:06:55",
-      "https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64"
-    ],
-    [
-      "GCC 15 Continuously Improving AArch64",
-      "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving"
     ]
   ],
   [
