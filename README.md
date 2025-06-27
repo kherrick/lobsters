@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-27, 07:50:31](https://lobste.rs/s/y41wti/simplifying_vulkan_synchronization) - [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
 * [2025-06-27, 06:37:27](https://lobste.rs/s/vagwql/adaptive_simplified_design_system) - [Adaptive, simplified design system colors](https://www.gfor.rest/blog/advanced-design-utils-colors)
 * [2025-06-27, 01:48:22](https://lobste.rs/s/u06sy7/bitsets_match_regular_expressions) - [Bitsets match regular expressions, compactly (2013)](https://pvk.ca/Blog/2013/06/23/bitsets-match-regular-expressions/)
 * [2025-06-27, 00:24:59](https://lobste.rs/s/ozguu9/slightly_better_named_character) - [Slightly better named character reference tokenization than Chrome, Safari, and Firefox](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)
@@ -12,7 +13,6 @@
 * [2025-06-26, 17:26:01](https://lobste.rs/s/xpugii/what_ui_first_distinguished_radio) - [What UI first distinguished radio buttons from checkboxes with circles and squares?](https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar)
 * [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
 * [2025-06-26, 15:28:49](https://lobste.rs/s/dxf36w/cross_compiling_10_000_rust_cli_crates) - [Cross-Compiling 10,000+ Rust CLI Crates Statically](https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically)
-* [2025-06-26, 15:25:26](https://lobste.rs/s/gf5aiw/reflecting_json_into_c_objects_at_compile) - [Reflecting JSON into C++ Objects at compile time](https://brevzin.github.io/c++/2025/06/26/json-reflection/)
 * [2025-06-26, 15:06:55](https://lobste.rs/s/d5prd3/gcc_15_continuously_improving_aarch64) - [GCC 15 Continuously Improving AArch64](https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving)
 * [2025-06-26, 14:03:43](https://lobste.rs/s/tc2s00/weird_expressions_rust) - [Weird expressions in rust](https://www.wakunguma.com/blog/rust-weird-expr)
 * [2025-06-26, 13:33:45](https://lobste.rs/s/vlpdx6/go_1_25_interactive_tour) - [Go 1.25 interactive tour](https://antonz.org/go-1-25/)
