@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-27, 11:55:25](https://lobste.rs/s/7x7pey/memory_safety_is_merely_table_stakes_safe) - [Memory Safety is Merely Table Stakes: Safe Interactions with Foreign Languages through Omniglot](https://www.usenix.org/publications/loginonline/memory-safety-merely-table-stakes)
 * [2025-06-27, 11:14:54](https://lobste.rs/s/nkizry/conferences_clarity_smokescreens) - [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
 * [2025-06-27, 11:07:53](https://lobste.rs/s/pibyff/my_lights_run_on_bash) - [My Lights Run on Bash](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 10:48:35](https://lobste.rs/s/33tzjt/lispmfpga_goal_this_project_is_create) - [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
 * [2025-06-27, 07:50:31](https://lobste.rs/s/y41wti/simplifying_vulkan_synchronization) - [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
 * [2025-06-27, 06:37:27](https://lobste.rs/s/vagwql/adaptive_simplified_design_system) - [Adaptive, simplified design system colors](https://www.gfor.rest/blog/advanced-design-utils-colors)
-* [2025-06-27, 01:48:22](https://lobste.rs/s/u06sy7/bitsets_match_regular_expressions) - [Bitsets match regular expressions, compactly (2013)](https://pvk.ca/Blog/2013/06/23/bitsets-match-regular-expressions/)
 * [2025-06-27, 00:24:59](https://lobste.rs/s/ozguu9/slightly_better_named_character) - [Slightly better named character reference tokenization than Chrome, Safari, and Firefox](https://www.ryanliptak.com/blog/better-named-character-reference-tokenization/)
 * [2025-06-26, 20:52:48](https://lobste.rs/s/vzgkve/apple_announces_sweeping_app_store) - [Apple announces sweeping App Store changes in the EU](https://9to5mac.com/2025/06/26/apple-announces-sweeping-app-store-changes-in-the-eu/)
 * [2025-06-26, 20:08:28](https://lobste.rs/s/7qwju2/adding_trash_can_linux_with_trash_cli) - [Adding a trash can to Linux with trash-cli](https://ittavern.com/adding-a-trash-can-to-linux-with-trash-cli/)
