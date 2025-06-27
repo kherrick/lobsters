@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-27, 11:14:54](https://lobste.rs/s/nkizry/conferences_clarity_smokescreens) - [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
 * [2025-06-27, 11:07:53](https://lobste.rs/s/pibyff/my_lights_run_on_bash_tomasz_kramkowski) - [My Lights Run on Bash - Tomasz Kramkowski](https://kramkow.ski/article/2025/06/27/my_lights_run_on_bash.html)
 * [2025-06-27, 10:48:35](https://lobste.rs/s/33tzjt/lispmfpga_goal_this_project_is_create) - [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
 * [2025-06-27, 07:50:31](https://lobste.rs/s/y41wti/simplifying_vulkan_synchronization) - [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
@@ -24,7 +25,6 @@
 * [2025-06-26, 08:10:19](https://lobste.rs/s/vw3pwh/box_combinators) - [Box combinators](https://mmapped.blog/posts/41-box-combinators)
 * [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 * [2025-06-26, 05:26:42](https://lobste.rs/s/lot0ao/why_go_rocks_for_building_lua_interpreter) - [Why Go Rocks for Building a Lua Interpreter](https://www.zombiezen.com/blog/2025/06/why-go-rocks-for-building-lua-interpreter/)
-* [2025-06-25, 23:25:28](https://lobste.rs/s/aqxant/qemu_define_policy_forbidding_use_ai_code) - [QEMU: define policy forbidding use of AI code generators](https://github.com/qemu/qemu/commit/3d40db0efc22520fa6c399cf73960dced423b048)
 
 ## [Archives](archives/index.md)
 
