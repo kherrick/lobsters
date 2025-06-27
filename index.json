@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 21:32:30",
+      "https://lobste.rs/s/qkdlxt/journey_bypassing_ubuntu_s_unprivileged"
+    ],
+    [
+      "The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction",
+      "https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 20:48:18",
       "https://lobste.rs/s/pnfosx/shell_startup_scripts_2020"
     ],
@@ -27,16 +37,6 @@
     [
       "Python can run Mojo now",
       "https://koaning.io/posts/giving-mojo-a-spin/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 19:59:29",
-      "https://lobste.rs/s/wcxasn/avoiding_postgresql_pitfalls_hidden"
-    ],
-    [
-      "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
-      "https://johnnymetz.com/posts/postgresql-failing-insert/"
     ]
   ],
   [
