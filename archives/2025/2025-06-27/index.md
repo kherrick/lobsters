@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 21:59:24](https://lobste.rs/s/l2dizq/announcing_sniffnet_v1_4_it_s_2x_faster) - [Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files](https://sniffnet.net/news/v1.4/)
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
 * [2025-06-27, 21:32:30](https://lobste.rs/s/qkdlxt/journey_bypassing_ubuntu_s_unprivileged) - [The Journey of Bypassing Ubuntu’s Unprivileged Namespace Restriction](https://u1f383.github.io/linux/2025/06/26/the-journey-of-bypassing-ubuntus-unprivileged-namespace-restriction.html)
 * [2025-06-27, 20:48:18](https://lobste.rs/s/pnfosx/shell_startup_scripts_2020) - [Shell startup scripts (2020)](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
