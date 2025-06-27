@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-06-27, 22:42:10",
-      "https://lobste.rs/s/levmcb/alternate_histories_computing_2018"
+      "2025-06-27, 23:53:35",
+      "https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows"
     ],
     [
-      "alternate histories of computing (2018)",
-      "https://archive.fosdem.org/2018/schedule/event/alternative_histories/"
+      "Cross-compiling Common Lisp for Windows",
+      "https://www.fosskers.ca/en/blog/cl-windows"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 23:53:09",
+      "https://lobste.rs/s/fcsxar/guidelines_for_buildable_testable_code"
+    ],
+    [
+      "Guidelines for buildable and testable code examples",
+      "https://pigweed.dev/docs/contributing/docs/examples.html"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 23:50:01",
+      "https://lobste.rs/s/14xytr/go_is_80_20_language"
+    ],
+    [
+      "Go is an 80/20 language",
+      "https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-06-26, 12:39:49",
-      "https://lobste.rs/s/nwvary/you_don_t_own_word_freedom_full_burn"
-    ],
-    [
-      "You Don’t Own the Word “Freedom”: A Full-Burn Response to the GNU/Linux Comment That Tried to Gatekeep Me Off My Own Machine",
-      "https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 12:10:26",
       "https://lobste.rs/s/nr9t3s/rss_server_side_reader"
     ],
     [
       "RSS Server Side Reader",
       "https://matklad.github.io/2025/06/26/rssssr.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 11:04:04",
-      "https://lobste.rs/s/9ssix0/ticket_driven_development_fastest_way_go"
-    ],
-    [
-      "Ticket-Driven Development: The Fastest Way to Go Nowhere",
-      "https://thecynical.dev/posts/ticket-driven-development/"
     ]
   ],
   [
