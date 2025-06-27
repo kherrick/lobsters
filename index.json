@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 07:50:31",
+      "https://lobste.rs/s/y41wti/simplifying_vulkan_synchronization"
+    ],
+    [
+      "Simplifying Vulkan Synchronization",
+      "https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 06:37:27",
       "https://lobste.rs/s/vagwql/adaptive_simplified_design_system"
     ],
@@ -117,16 +127,6 @@
     [
       "Cross-Compiling 10,000+ Rust CLI Crates Statically",
       "https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 15:25:26",
-      "https://lobste.rs/s/gf5aiw/reflecting_json_into_c_objects_at_compile"
-    ],
-    [
-      "Reflecting JSON into C++ Objects at compile time",
-      "https://brevzin.github.io/c++/2025/06/26/json-reflection/"
     ]
   ],
   [
