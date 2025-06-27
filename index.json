@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-06-27, 16:25:41",
+      "https://lobste.rs/s/52ebj3/integrating_container_use_wsl_for"
+    ],
+    [
+      "Integrating Container-Use in WSL for Agentic Development",
+      "https://blog.techdecline.dev/integrating-container-use-in-wsl-for-agentic-development/"
+    ]
+  ],
+  [
+    [
+      "2025-06-27, 16:16:00",
+      "https://lobste.rs/s/ojrbkh/confusing_accountant_with_open_source"
+    ],
+    [
+      "Confusing an accountant with Open Source funding",
+      "https://www.youtube.com/watch?v=VTY-lQ3S1gw"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 13:34:46",
       "https://lobste.rs/s/2le5gj/richard_feldman_on_new_language_adoption"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-06-26, 17:26:01",
-      "https://lobste.rs/s/xpugii/what_ui_first_distinguished_radio"
-    ],
-    [
-      "What UI first distinguished radio buttons from checkboxes with circles and squares?",
-      "https://retrocomputing.stackexchange.com/questions/31806/what-ui-first-distinguished-radio-buttons-from-checkboxes-with-circles-and-squar"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 15:56:58",
       "https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow"
     ],
@@ -177,16 +187,6 @@
     [
       "GCC 15 Continuously Improving AArch64",
       "https://community.arm.com/arm-community-blogs/b/tools-software-ides-blog/posts/gcc-15-continuously-improving"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 14:03:43",
-      "https://lobste.rs/s/tc2s00/weird_expressions_rust"
-    ],
-    [
-      "Weird expressions in rust",
-      "https://www.wakunguma.com/blog/rust-weird-expr"
     ]
   ],
   [
