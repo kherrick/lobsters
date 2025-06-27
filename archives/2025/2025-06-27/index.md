@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 23:53:35](https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows) - [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
+* [2025-06-27, 23:53:09](https://lobste.rs/s/fcsxar/guidelines_for_buildable_testable_code) - [Guidelines for buildable and testable code examples](https://pigweed.dev/docs/contributing/docs/examples.html)
+* [2025-06-27, 23:50:01](https://lobste.rs/s/14xytr/go_is_80_20_language) - [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
 * [2025-06-27, 22:42:10](https://lobste.rs/s/levmcb/alternate_histories_computing_2018) - [alternate histories of computing (2018)](https://archive.fosdem.org/2018/schedule/event/alternative_histories/)
 * [2025-06-27, 21:59:24](https://lobste.rs/s/l2dizq/announcing_sniffnet_v1_4_it_s_2x_faster) - [Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files](https://sniffnet.net/news/v1.4/)
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
