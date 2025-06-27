@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 20:48:18",
+      "https://lobste.rs/s/pnfosx/shell_startup_scripts_2020"
+    ],
+    [
+      "Shell startup scripts (2020)",
+      "https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 20:38:11",
       "https://lobste.rs/s/oztn3e/android_phones_could_soon_warn_you"
     ],
@@ -27,16 +37,6 @@
     [
       "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
       "https://johnnymetz.com/posts/postgresql-failing-insert/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 19:54:27",
-      "https://lobste.rs/s/xzzn7c/missing_manual_for_signals_state"
-    ],
-    [
-      "The Missing Manual for Signals: State Management for Python Developers",
-      "https://bui.app/the-missing-manual-for-signals-state-management-for-python-developers/"
     ]
   ],
   [
