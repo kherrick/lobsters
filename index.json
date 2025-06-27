@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-27, 01:48:22",
+      "https://lobste.rs/s/u06sy7/bitsets_match_regular_expressions"
+    ],
+    [
+      "Bitsets match regular expressions, compactly (2013)",
+      "https://pvk.ca/Blog/2013/06/23/bitsets-match-regular-expressions/"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 00:24:59",
       "https://lobste.rs/s/ozguu9/slightly_better_named_character"
     ],
@@ -97,16 +107,6 @@
     [
       "Cross-Compiling 10,000+ Rust CLI Crates Statically",
       "https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 15:25:26",
-      "https://lobste.rs/s/gf5aiw/reflecting_json_into_c_objects_at_compile"
-    ],
-    [
-      "Reflecting JSON into C++ Objects at compile time",
-      "https://brevzin.github.io/c++/2025/06/26/json-reflection/"
     ]
   ],
   [
