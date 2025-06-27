@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-27](index.md)
 
+* [2025-06-27, 10:48:35](https://lobste.rs/s/33tzjt/lispmfpga_goal_this_project_is_create) - [LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA](http://www.aviduratas.de/lisp/lispmfpga/index.html)
 * [2025-06-27, 07:50:31](https://lobste.rs/s/y41wti/simplifying_vulkan_synchronization) - [Simplifying Vulkan Synchronization](https://www.khronos.org/blog/so-long-image-layouts-simplifying-vulkan-synchronisation)
 * [2025-06-27, 06:37:27](https://lobste.rs/s/vagwql/adaptive_simplified_design_system) - [Adaptive, simplified design system colors](https://www.gfor.rest/blog/advanced-design-utils-colors)
 * [2025-06-27, 01:48:22](https://lobste.rs/s/u06sy7/bitsets_match_regular_expressions) - [Bitsets match regular expressions, compactly (2013)](https://pvk.ca/Blog/2013/06/23/bitsets-match-regular-expressions/)
