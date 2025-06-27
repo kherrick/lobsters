@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-06-26, 20:21:25",
-      "https://lobste.rs/s/ial8kt/blazing_matrix_products"
-    ],
-    [
-      "Blazing matrix products",
-      "https://panadestein.github.io/blog/posts/mp.html"
-    ]
-  ],
-  [
-    [
       "2025-06-26, 20:08:28",
       "https://lobste.rs/s/7qwju2/adding_trash_can_linux_with_trash_cli"
     ],
@@ -127,6 +117,16 @@
     [
       "Cross-Compiling 10,000+ Rust CLI Crates Statically",
       "https://blog.pkgforge.dev/cross-compiling-10000-rust-cli-crates-statically"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 15:25:26",
+      "https://lobste.rs/s/gf5aiw/reflecting_json_into_c_objects_at_compile"
+    ],
+    [
+      "Reflecting JSON into C++ Objects at compile time",
+      "https://brevzin.github.io/c++/2025/06/26/json-reflection/"
     ]
   ],
   [
