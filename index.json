@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-28, 01:40:05",
+      "https://lobste.rs/s/ts1uyb/omarchy_opinionated_arch_hyprland_setup"
+    ],
+    [
+      "omarchy: Opinionated Arch/Hyprland Setup",
+      "https://github.com/basecamp/omarchy"
+    ]
+  ],
+  [
+    [
       "2025-06-27, 23:53:35",
       "https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows"
     ],
@@ -227,16 +237,6 @@
     [
       "\"Why is the Rust compiler so slow?\"",
       "https://sharnoff.io/blog/why-rust-compiler-slow"
-    ]
-  ],
-  [
-    [
-      "2025-06-26, 12:10:26",
-      "https://lobste.rs/s/nr9t3s/rss_server_side_reader"
-    ],
-    [
-      "RSS Server Side Reader",
-      "https://matklad.github.io/2025/06/26/rssssr.html"
     ]
   ],
   [
