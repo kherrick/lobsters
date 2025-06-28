@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-28, 17:39:22](https://lobste.rs/s/ptsrso/emacsconf_2025_call_for_participation) - [EmacsConf 2025 Call for Participation](https://emacsconf.org/2025/cfp/)
 * [2025-06-28, 15:19:54](https://lobste.rs/s/66rxz9/ai_manager_future_management) - [AI Manager - The Future of Management](https://aimanagers.app)
 * [2025-06-28, 14:09:24](https://lobste.rs/s/6zbrhj/i_really_like_helix_editor) - [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/)
 * [2025-06-28, 13:57:13](https://lobste.rs/s/l6nfum/computer_coding_books_from_usborne_1982) - [Computer and coding books from Usborne (1982-1985)](https://usborne.com/us/books/computer-and-coding-books)
@@ -12,7 +13,6 @@
 * [2025-06-27, 23:53:09](https://lobste.rs/s/fcsxar/guidelines_for_buildable_testable_code) - [Guidelines for buildable and testable code examples](https://pigweed.dev/docs/contributing/docs/examples.html)
 * [2025-06-27, 23:50:01](https://lobste.rs/s/14xytr/go_is_80_20_language) - [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
-* [2025-06-27, 20:48:18](https://lobste.rs/s/pnfosx/shell_startup_scripts_2020) - [Shell startup scripts (2020)](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
 * [2025-06-27, 20:38:11](https://lobste.rs/s/oztn3e/android_phones_could_soon_warn_you) - [Android phones could soon warn you of “Stingrays” snooping on your communications](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
 * [2025-06-27, 20:01:41](https://lobste.rs/s/6oqgv7/python_can_run_mojo_now) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 * [2025-06-27, 19:59:29](https://lobste.rs/s/wcxasn/avoiding_postgresql_pitfalls_hidden) - [Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts](https://johnnymetz.com/posts/postgresql-failing-insert/)
