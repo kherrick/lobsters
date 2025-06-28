@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-28, 06:38:39](https://lobste.rs/s/39mnhf/bcachefs_may_be_headed_out_kernel) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 * [2025-06-28, 01:40:05](https://lobste.rs/s/ts1uyb/omarchy_opinionated_arch_hyprland_setup) - [omarchy: Opinionated Arch/Hyprland Setup](https://github.com/basecamp/omarchy)
 * [2025-06-27, 23:53:35](https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows) - [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 * [2025-06-27, 23:53:09](https://lobste.rs/s/fcsxar/guidelines_for_buildable_testable_code) - [Guidelines for buildable and testable code examples](https://pigweed.dev/docs/contributing/docs/examples.html)
@@ -24,7 +25,6 @@
 * [2025-06-26, 19:14:05](https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal) - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
 * [2025-06-26, 18:58:39](https://lobste.rs/s/llgmmr/announcing_rust_1_88_0) - [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
 * [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
-* [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 
 ## [Archives](archives/index.md)
 
