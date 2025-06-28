@@ -5,7 +5,6 @@
 * [2025-06-27, 23:53:35](https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows) - [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 * [2025-06-27, 23:53:09](https://lobste.rs/s/fcsxar/guidelines_for_buildable_testable_code) - [Guidelines for buildable and testable code examples](https://pigweed.dev/docs/contributing/docs/examples.html)
 * [2025-06-27, 23:50:01](https://lobste.rs/s/14xytr/go_is_80_20_language) - [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
-* [2025-06-27, 21:59:24](https://lobste.rs/s/l2dizq/announcing_sniffnet_v1_4_it_s_2x_faster) - [Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files](https://sniffnet.net/news/v1.4/)
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
 * [2025-06-27, 20:38:11](https://lobste.rs/s/oztn3e/android_phones_could_soon_warn_you) - [Android phones could soon warn you of “Stingrays” snooping on your communications](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
 * [2025-06-27, 20:01:41](https://lobste.rs/s/6oqgv7/python_can_run_mojo_now) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
@@ -25,6 +24,7 @@
 * [2025-06-26, 19:14:05](https://lobste.rs/s/2uixrw/new_zine_secret_rules_terminal) - [New zine: The Secret Rules of the Terminal](https://jvns.ca/blog/2025/06/24/new-zine--the-secret-rules-of-the-terminal/)
 * [2025-06-26, 18:58:39](https://lobste.rs/s/llgmmr/announcing_rust_1_88_0) - [Announcing Rust 1.88.0](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
 * [2025-06-26, 15:56:58](https://lobste.rs/s/72hbqg/why_is_rust_compiler_so_slow) - [\"Why is the Rust compiler so slow?\"](https://sharnoff.io/blog/why-rust-compiler-slow)
+* [2025-06-26, 06:38:17](https://lobste.rs/s/qaukc0/png_is_back) - [PNG is back](https://www.programmax.net/articles/png-is-back/)
 
 ## [Archives](archives/index.md)
 
