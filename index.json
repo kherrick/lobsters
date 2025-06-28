@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-06-27, 21:59:24",
-      "https://lobste.rs/s/l2dizq/announcing_sniffnet_v1_4_it_s_2x_faster"
-    ],
-    [
-      "Announcing Sniffnet v1.4: it’s 2X faster than Wireshark at processing PCAP files",
-      "https://sniffnet.net/news/v1.4/"
-    ]
-  ],
-  [
-    [
       "2025-06-27, 21:54:36",
       "https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend"
     ],
@@ -247,6 +237,16 @@
     [
       "\"Why is the Rust compiler so slow?\"",
       "https://sharnoff.io/blog/why-rust-compiler-slow"
+    ]
+  ],
+  [
+    [
+      "2025-06-26, 06:38:17",
+      "https://lobste.rs/s/qaukc0/png_is_back"
+    ],
+    [
+      "PNG is back",
+      "https://www.programmax.net/articles/png-is-back/"
     ]
   ]
 ]
