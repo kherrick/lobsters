@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-28, 22:10:28](https://lobste.rs/s/p0pozh/fil_c) - [Fil-C](https://github.com/pizlonator/llvm-project-deluge)
 * [2025-06-28, 17:50:58](https://lobste.rs/s/yvkyke/memory_safe_languages_reducing) - [Memory Safe Languages: Reducing Vulnerabilities in Modern Software Development](https://media.defense.gov/2025/Jun/23/2003742198/-1/-1/0/CSI_MEMORY_SAFE_LANGUAGES_REDUCING_VULNERABILITIES_IN_MODERN_SOFTWARE_DEVELOPMENT.PDF)
 * [2025-06-28, 17:39:22](https://lobste.rs/s/ptsrso/emacsconf_2025_call_for_participation) - [EmacsConf 2025 Call for Participation](https://emacsconf.org/2025/cfp/)
 * [2025-06-28, 15:19:54](https://lobste.rs/s/66rxz9/ai_manager_future_management) - [AI Manager - The Future of Management](https://aimanagers.app)
@@ -13,7 +14,6 @@
 * [2025-06-27, 23:53:35](https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows) - [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 * [2025-06-27, 23:50:01](https://lobste.rs/s/14xytr/go_is_80_20_language) - [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
-* [2025-06-27, 20:48:18](https://lobste.rs/s/pnfosx/shell_startup_scripts_2020) - [Shell startup scripts (2020)](https://blog.flowblok.id.au/2013-02/shell-startup-scripts.html)
 * [2025-06-27, 20:38:11](https://lobste.rs/s/oztn3e/android_phones_could_soon_warn_you) - [Android phones could soon warn you of “Stingrays” snooping on your communications](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
 * [2025-06-27, 20:01:41](https://lobste.rs/s/6oqgv7/python_can_run_mojo_now) - [Python can run Mojo now](https://koaning.io/posts/giving-mojo-a-spin/)
 * [2025-06-27, 19:59:29](https://lobste.rs/s/wcxasn/avoiding_postgresql_pitfalls_hidden) - [Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts](https://johnnymetz.com/posts/postgresql-failing-insert/)
