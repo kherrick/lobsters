@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-28, 23:36:02",
+      "https://lobste.rs/s/qd78bl/wayback_experimental_x11_compatibility"
+    ],
+    [
+      "wayback: experimental X11 compatibility layer",
+      "https://github.com/kaniini/wayback"
+    ]
+  ],
+  [
+    [
       "2025-06-28, 23:04:25",
       "https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with"
     ],
@@ -227,16 +237,6 @@
     [
       "Conferences, Clarity, and Smokescreens",
       "https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 10:48:35",
-      "https://lobste.rs/s/33tzjt/lispmfpga_goal_this_project_is_create"
-    ],
-    [
-      "LispmFPGA: the goal of this project is to create a small Lisp-Machine in an FPGA",
-      "http://www.aviduratas.de/lisp/lispmfpga/index.html"
     ]
   ],
   [
