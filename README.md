@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-29, 15:50:00](https://lobste.rs/s/1q5lko/python_gil_removal_reveals_second) - [Python GIL Removal Reveals Second, Stronger GIL Behind It](https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3?source=friends_link)
+* [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 14:22:16](https://lobste.rs/s/c9tweu/rss_as_my_default_web_browser_for_some) - [RSS as my default web browser (for some stuff)](https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/)
 * [2025-06-29, 13:52:57](https://lobste.rs/s/kn7na7/i_made_my_vm_think_it_has_cpu_fan) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-29, 13:08:58](https://lobste.rs/s/zmikbm/starlink_openwrt_eeros_oh_my) - [Starlink, OpenWrt, and Eeros… Oh My](https://btxx.org/posts/starlink-openwrt/)
@@ -9,7 +11,6 @@
 * [2025-06-29, 10:54:38](https://lobste.rs/s/kbxolz/brief_history_web_browsers) - [A brief history of web browsers](https://eclecticlight.co/2025/06/28/a-brief-history-of-web-browsers/)
 * [2025-06-29, 09:01:34](https://lobste.rs/s/dfhenp/webassembly_troubles_part_4_microwasm) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
 * [2025-06-29, 08:23:49](https://lobste.rs/s/lqf7tn/using_internet_without_ipv4) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
-* [2025-06-29, 03:27:18](https://lobste.rs/s/yybmas/gptuner_manual_reading_database_tuning) - [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://github.com/SolidLao/GPTuner)
 * [2025-06-29, 00:01:02](https://lobste.rs/s/kt2ekf/refurb_weekend_gremlin_blasto_arcade) - [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
 * [2025-06-28, 23:36:02](https://lobste.rs/s/qd78bl/wayback_experimental_x11_compatibility) - [wayback: experimental X11 compatibility layer](https://github.com/kaniini/wayback)
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
@@ -22,7 +23,6 @@
 * [2025-06-28, 11:52:40](https://lobste.rs/s/xontfe/medley_interlisp_project_reviving) - [The Medley Interlisp Project: Reviving a Historical Software System](https://interlisp.org/documentation/young-ccece2025.pdf)
 * [2025-06-28, 07:58:01](https://lobste.rs/s/7d4on3/newbie_s_first_contribution_rust_for) - [A Newbie's First Contribution to (Rust for) Linux](https://blog.buenzli.dev/rust-for-linux-first-contrib/)
 * [2025-06-28, 06:38:39](https://lobste.rs/s/39mnhf/bcachefs_may_be_headed_out_kernel) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
-* [2025-06-28, 01:40:05](https://lobste.rs/s/ts1uyb/omarchy_opinionated_arch_hyprland_setup) - [omarchy: Opinionated Arch/Hyprland Setup](https://github.com/basecamp/omarchy)
 * [2025-06-27, 23:53:35](https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows) - [Cross-compiling Common Lisp for Windows](https://www.fosskers.ca/en/blog/cl-windows)
 * [2025-06-27, 23:50:01](https://lobste.rs/s/14xytr/go_is_80_20_language) - [Go is an 80/20 language](https://blog.kowalczyk.info/article/d-2025-06-26/go-is-8020-language.html)
 

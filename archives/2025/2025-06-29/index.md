@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 15:50:00](https://lobste.rs/s/1q5lko/python_gil_removal_reveals_second) - [Python GIL Removal Reveals Second, Stronger GIL Behind It](https://medium.com/@sebastiancarlos/pythons-gil-removal-reveals-second-stronger-gil-behind-it-cdb5b9b4e2b3?source=friends_link)
+* [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 14:22:16](https://lobste.rs/s/c9tweu/rss_as_my_default_web_browser_for_some) - [RSS as my default web browser (for some stuff)](https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/)
 * [2025-06-29, 13:52:57](https://lobste.rs/s/kn7na7/i_made_my_vm_think_it_has_cpu_fan) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-29, 13:45:28](https://lobste.rs/s/0c3gjj/your_brain_on_chatgpt_accumulation) - [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/pdf/2506.08872v1)
