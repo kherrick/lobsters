@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-06-29](index.md)
 
+* [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
+* [2025-06-29, 19:31:20](https://lobste.rs/s/5sc8ui/y_combinator_math_explained) - [Y Combinator (Math) Explained](https://anish.ink/posts/ycombinator.html)
 * [2025-06-29, 18:16:34](https://lobste.rs/s/gyiwkq/agile_was_never_your_problem) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 17:44:47](https://lobste.rs/s/4ribso/zero_trust_for_bring_your_own_cloud_byoc) - [Zero Trust for Bring Your Own Cloud (BYOC)](https://signoz.io/blog/zero-trust-bring-your-own-cloud)
 * [2025-06-29, 17:22:40](https://lobste.rs/s/zdul7r/sql_noir_learn_sql_by_solving_crimes) - [SQL Noir: Learn SQL by Solving Crimes](https://www.sqlnoir.com/)
