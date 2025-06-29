@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 09:01:34",
+      "https://lobste.rs/s/dfhenp/webassembly_troubles_part_4_microwasm"
+    ],
+    [
+      "WebAssembly Troubles part 4: Microwasm (2019)",
+      "http://troubles.md/microwasm/"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 08:23:49",
       "https://lobste.rs/s/lqf7tn/using_internet_without_ipv4"
     ],
@@ -207,16 +217,6 @@
     [
       "Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts",
       "https://johnnymetz.com/posts/postgresql-failing-insert/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 19:53:33",
-      "https://lobste.rs/s/iwoipn/structuring_arrays_with_algebraic"
-    ],
-    [
-      "Structuring Arrays with Algebraic Shapes",
-      "https://dl.acm.org/doi/abs/10.1145/3736112.3736141"
     ]
   ],
   [
