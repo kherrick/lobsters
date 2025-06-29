@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-29, 09:01:34](https://lobste.rs/s/dfhenp/webassembly_troubles_part_4_microwasm) - [WebAssembly Troubles part 4: Microwasm (2019)](http://troubles.md/microwasm/)
 * [2025-06-29, 08:23:49](https://lobste.rs/s/lqf7tn/using_internet_without_ipv4) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-29, 03:27:18](https://lobste.rs/s/yybmas/gptuner_manual_reading_database_tuning) - [GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization](https://github.com/SolidLao/GPTuner)
 * [2025-06-29, 00:01:02](https://lobste.rs/s/kt2ekf/refurb_weekend_gremlin_blasto_arcade) - [Refurb weekend: Gremlin Blasto arcade board](http://oldvcr.blogspot.com/2025/06/refurb-weekend-gremlin-blasto-arcade.html)
@@ -21,7 +22,6 @@
 * [2025-06-27, 21:54:36](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kwrdic/what_are_you_doing_this_weekend)
 * [2025-06-27, 20:38:11](https://lobste.rs/s/oztn3e/android_phones_could_soon_warn_you) - [Android phones could soon warn you of “Stingrays” snooping on your communications](https://arstechnica.com/gadgets/2025/06/future-android-phones-could-warn-you-about-data-stealing-fake-cell-towers/)
 * [2025-06-27, 19:59:29](https://lobste.rs/s/wcxasn/avoiding_postgresql_pitfalls_hidden) - [Avoiding PostgreSQL Pitfalls: The Hidden Cost of Failing Inserts](https://johnnymetz.com/posts/postgresql-failing-insert/)
-* [2025-06-27, 19:53:33](https://lobste.rs/s/iwoipn/structuring_arrays_with_algebraic) - [Structuring Arrays with Algebraic Shapes](https://dl.acm.org/doi/abs/10.1145/3736112.3736141)
 * [2025-06-27, 17:35:59](https://lobste.rs/s/orj2th/parameterized_types_c_using_new_tag) - [Parameterized types in C using the new tag compatibility rule](https://nullprogram.com/blog/2025/06/26/)
 * [2025-06-27, 13:34:46](https://lobste.rs/s/2le5gj/richard_feldman_on_new_language_adoption) - [Richard Feldman on new language adoption in the LLM age](https://youtu.be/ZsBHc-J9f8o)
 * [2025-06-27, 11:14:54](https://lobste.rs/s/nkizry/conferences_clarity_smokescreens) - [Conferences, Clarity, and Smokescreens](https://infrequently.org/2025/06/conferences-clarity-and-smokescreens/)
