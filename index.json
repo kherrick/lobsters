@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 20:28:54",
+      "https://lobste.rs/s/dfa66w/on_error_handling_rust"
+    ],
+    [
+      "On Error Handling in Rust",
+      "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 19:36:32",
       "https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place"
     ],
@@ -187,16 +197,6 @@
     [
       "Fil-C",
       "https://github.com/pizlonator/llvm-project-deluge"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 17:39:22",
-      "https://lobste.rs/s/ptsrso/emacsconf_2025_call_for_participation"
-    ],
-    [
-      "EmacsConf 2025 Call for Participation",
-      "https://emacsconf.org/2025/cfp/"
     ]
   ],
   [
