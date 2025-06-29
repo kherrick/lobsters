@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-29, 17:22:40",
+      "https://lobste.rs/s/zdul7r/sql_noir_learn_sql_by_solving_crimes"
+    ],
+    [
+      "SQL Noir: Learn SQL by Solving Crimes",
+      "https://www.sqlnoir.com/"
+    ]
+  ],
+  [
+    [
       "2025-06-29, 15:50:00",
       "https://lobste.rs/s/1q5lko/python_gil_removal_reveals_second"
     ],
@@ -227,16 +237,6 @@
     [
       "Bcachefs may be headed out of the kernel",
       "https://lwn.net/Articles/1027289/"
-    ]
-  ],
-  [
-    [
-      "2025-06-27, 23:53:35",
-      "https://lobste.rs/s/zyhphz/cross_compiling_common_lisp_for_windows"
-    ],
-    [
-      "Cross-compiling Common Lisp for Windows",
-      "https://www.fosskers.ca/en/blog/cl-windows"
     ]
   ],
   [
