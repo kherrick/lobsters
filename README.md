@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
 * [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 12:36:14](https://lobste.rs/s/nbdwds/typesanitizer_detector_for_strict_type) - [TypeSanitizer: a detector for strict type aliasing violations](https://clang.llvm.org/docs/TypeSanitizer.html)
@@ -12,7 +13,6 @@
 * [2025-06-29, 20:28:54](https://lobste.rs/s/dfa66w/on_error_handling_rust) - [On Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 18:16:34](https://lobste.rs/s/gyiwkq/agile_was_never_your_problem) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
-* [2025-06-29, 17:44:47](https://lobste.rs/s/4ribso/zero_trust_for_bring_your_own_cloud_byoc) - [Zero Trust for Bring Your Own Cloud (BYOC)](https://signoz.io/blog/zero-trust-bring-your-own-cloud)
 * [2025-06-29, 17:22:40](https://lobste.rs/s/zdul7r/sql_noir_learn_sql_by_solving_crimes) - [SQL Noir: Learn SQL by Solving Crimes](https://www.sqlnoir.com/)
 * [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 14:22:16](https://lobste.rs/s/c9tweu/rss_as_my_default_web_browser_for_some) - [RSS as my default web browser (for some stuff)](https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/)

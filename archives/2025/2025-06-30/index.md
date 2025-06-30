@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
 * [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 12:36:14](https://lobste.rs/s/nbdwds/typesanitizer_detector_for_strict_type) - [TypeSanitizer: a detector for strict type aliasing violations](https://clang.llvm.org/docs/TypeSanitizer.html)
