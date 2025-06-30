@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 16:03:38](https://lobste.rs/s/t0ktay/update_on_improving_passkey_support) - [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
 * [2025-06-30, 15:46:20](https://lobste.rs/s/gdfo4p/making_rails_delegated_type_s_clearer) - [Making Rails delegated_type’s clearer](https://kaspth.com/posts/making-rails-delegated_types-clearer)
 * [2025-06-30, 15:19:21](https://lobste.rs/s/7isozy/how_often_is_query_plan_optimal) - [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
 * [2025-06-30, 15:05:01](https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you) - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
@@ -13,7 +14,6 @@
 * [2025-06-30, 10:05:08](https://lobste.rs/s/ksacpj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ksacpj/what_are_you_doing_this_week)
 * [2025-06-30, 09:42:49](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 00:43:22](https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
-* [2025-06-29, 20:28:54](https://lobste.rs/s/dfa66w/on_error_handling_rust) - [On Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 18:16:34](https://lobste.rs/s/gyiwkq/agile_was_never_your_problem) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 17:22:40](https://lobste.rs/s/zdul7r/sql_noir_learn_sql_by_solving_crimes) - [SQL Noir: Learn SQL by Solving Crimes](https://www.sqlnoir.com/)
