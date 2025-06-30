@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 19:58:24",
+      "https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory"
+    ],
+    [
+      "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
+      "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 19:36:27",
       "https://lobste.rs/s/rq7ffv/building_accurate_address_matching"
     ],
@@ -27,16 +37,6 @@
     [
       "Caching is an Abstraction, not an Optimization",
       "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 18:05:34",
-      "https://lobste.rs/s/odtepz/zig_community_mirrors"
-    ],
-    [
-      "Zig Community Mirrors",
-      "https://ziglang.org/download/community-mirrors/"
     ]
   ],
   [
