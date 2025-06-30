@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 09:42:49](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 00:43:22](https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-29, 20:28:54](https://lobste.rs/s/dfa66w/on_error_handling_rust) - [On Error Handling in Rust](https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html)
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
@@ -24,7 +25,6 @@
 * [2025-06-28, 14:09:24](https://lobste.rs/s/6zbrhj/i_really_like_helix_editor) - [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/)
 * [2025-06-28, 13:57:13](https://lobste.rs/s/l6nfum/computer_coding_books_from_usborne_1982) - [Computer and coding books from Usborne (1982-1985)](https://usborne.com/us/books/computer-and-coding-books)
 * [2025-06-28, 07:58:01](https://lobste.rs/s/7d4on3/newbie_s_first_contribution_rust_for) - [A Newbie's First Contribution to (Rust for) Linux](https://blog.buenzli.dev/rust-for-linux-first-contrib/)
-* [2025-06-28, 06:38:39](https://lobste.rs/s/39mnhf/bcachefs_may_be_headed_out_kernel) - [Bcachefs may be headed out of the kernel](https://lwn.net/Articles/1027289/)
 
 ## [Archives](archives/index.md)
 
