@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-06-30, 21:05:24",
+      "https://lobste.rs/s/jeekwf/llvm_instcombine_improve_optimizations"
+    ],
+    [
+      "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
+      "https://simonwillison.net/2025/Jun/30/llvm/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 20:37:26",
       "https://lobste.rs/s/czpczz/hmpl_dom_htmx_alternative_for_writing"
     ],
@@ -217,16 +227,6 @@
     [
       "Agile Was Never Your Problem",
       "https://thecynical.dev/posts/agile-was-never-your-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 17:22:40",
-      "https://lobste.rs/s/zdul7r/sql_noir_learn_sql_by_solving_crimes"
-    ],
-    [
-      "SQL Noir: Learn SQL by Solving Crimes",
-      "https://www.sqlnoir.com/"
     ]
   ],
   [
