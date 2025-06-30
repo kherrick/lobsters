@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
 * [2025-06-30, 18:56:16](https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-06-30, 18:05:34](https://lobste.rs/s/odtepz/zig_community_mirrors) - [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
 * [2025-06-30, 17:03:11](https://lobste.rs/s/luthtz/pironman_5_max_fancy_raspberry_pi_5_tower) - [Pironman 5 Max, A fancy Raspberry Pi 5 Tower PC enclosure with dual M.2](https://www.cnx-software.com/2025/06/29/pironman-5-max-review-a-fancy-raspberry-pi-5-tower-pc-enclosure-with-dual-m-2-pci-sockets-for-ssd-and-or-ai-accelerator/)

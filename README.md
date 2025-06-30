@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
 * [2025-06-30, 18:56:16](https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-06-30, 18:05:34](https://lobste.rs/s/odtepz/zig_community_mirrors) - [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
@@ -23,7 +24,6 @@
 * [2025-06-29, 13:52:57](https://lobste.rs/s/kn7na7/i_made_my_vm_think_it_has_cpu_fan) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
 * [2025-06-29, 13:03:35](https://lobste.rs/s/fphpfx/generative_ai_s_crippling_widespread) - [Generative AI’s crippling and widespread failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 * [2025-06-29, 12:59:21](https://lobste.rs/s/2wxyci/using_podman_hooks_mount_persistent_zfs) - [Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers](https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/)
-* [2025-06-29, 11:45:04](https://lobste.rs/s/oiabdv/bought_myself_ampere_altra_system) - [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 
 ## [Archives](archives/index.md)
