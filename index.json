@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-06-30, 18:05:34",
+      "https://lobste.rs/s/odtepz/zig_community_mirrors"
+    ],
+    [
+      "Zig Community Mirrors",
+      "https://ziglang.org/download/community-mirrors/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 16:48:47",
       "https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data"
     ],
@@ -237,16 +247,6 @@
     [
       "20 years of programming",
       "https://sidhion.com/blog/20_years/"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 23:04:25",
-      "https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with"
-    ],
-    [
-      "Solving `UK Passport Application` with Haskell",
-      "https://jameshaydon.github.io/passport/"
     ]
   ]
 ]
