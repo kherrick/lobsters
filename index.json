@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 10:05:08",
+      "https://lobste.rs/s/ksacpj/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/ksacpj/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 09:42:49",
       "https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Computer and coding books from Usborne (1982-1985)",
       "https://usborne.com/us/books/computer-and-coding-books"
-    ]
-  ],
-  [
-    [
-      "2025-06-28, 07:58:01",
-      "https://lobste.rs/s/7d4on3/newbie_s_first_contribution_rust_for"
-    ],
-    [
-      "A Newbie's First Contribution to (Rust for) Linux",
-      "https://blog.buenzli.dev/rust-for-linux-first-contrib/"
     ]
   ]
 ]
