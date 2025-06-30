@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 16:03:38",
+      "https://lobste.rs/s/t0ktay/update_on_improving_passkey_support"
+    ],
+    [
+      "An update on improving passkey support in Linux",
+      "https://www.iinuwa.xyz/blog/linux-passkeys-update/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 15:46:20",
       "https://lobste.rs/s/gdfo4p/making_rails_delegated_type_s_clearer"
     ],
@@ -127,16 +137,6 @@
     [
       "Use keyword-only arguments in Python dataclasses",
       "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 20:28:54",
-      "https://lobste.rs/s/dfa66w/on_error_handling_rust"
-    ],
-    [
-      "On Error Handling in Rust",
-      "https://felix-knorr.net/posts/2025-06-29-rust-error-handling.html"
     ]
   ],
   [
