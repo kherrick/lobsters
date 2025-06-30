@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 12:36:14](https://lobste.rs/s/nbdwds/typesanitizer_detector_for_strict_type) - [TypeSanitizer: a detector for strict type aliasing violations](https://clang.llvm.org/docs/TypeSanitizer.html)
 * [2025-06-30, 12:35:17](https://lobste.rs/s/hci9kg/critical_correctness_bug_lix) - [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
 * [2025-06-30, 12:31:24](https://lobste.rs/s/fqneuc/tracking_anticheat_updates) - [Tracking Anticheat Updates](https://not-matthias.github.io/posts/anticheat-update-tracking/)

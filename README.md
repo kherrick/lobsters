@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 12:36:14](https://lobste.rs/s/nbdwds/typesanitizer_detector_for_strict_type) - [TypeSanitizer: a detector for strict type aliasing violations](https://clang.llvm.org/docs/TypeSanitizer.html)
 * [2025-06-30, 12:35:17](https://lobste.rs/s/hci9kg/critical_correctness_bug_lix) - [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
 * [2025-06-30, 12:31:24](https://lobste.rs/s/fqneuc/tracking_anticheat_updates) - [Tracking Anticheat Updates](https://not-matthias.github.io/posts/anticheat-update-tracking/)
@@ -19,7 +20,6 @@
 * [2025-06-29, 13:03:35](https://lobste.rs/s/fphpfx/generative_ai_s_crippling_widespread) - [Generative AI’s crippling and widespread failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 * [2025-06-29, 12:59:21](https://lobste.rs/s/2wxyci/using_podman_hooks_mount_persistent_zfs) - [Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers](https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/)
 * [2025-06-29, 11:45:04](https://lobste.rs/s/oiabdv/bought_myself_ampere_altra_system) - [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
-* [2025-06-29, 10:54:38](https://lobste.rs/s/kbxolz/brief_history_web_browsers) - [A brief history of web browsers](https://eclecticlight.co/2025/06/28/a-brief-history-of-web-browsers/)
 * [2025-06-29, 08:23:49](https://lobste.rs/s/lqf7tn/using_internet_without_ipv4) - [Using the Internet without IPv4 connectivity](https://jamesmcm.github.io/blog/no-ipv4/)
 * [2025-06-28, 23:36:02](https://lobste.rs/s/qd78bl/wayback_experimental_x11_compatibility) - [wayback: experimental X11 compatibility layer](https://github.com/kaniini/wayback)
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
