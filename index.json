@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 16:48:47",
+      "https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data"
+    ],
+    [
+      "How I Write Type Safe Generic Data Structures in C",
+      "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 16:27:53",
       "https://lobste.rs/s/a9pkib/role_university_is_resist_ai"
     ],
@@ -177,16 +187,6 @@
     [
       "20 years of programming",
       "https://sidhion.com/blog/20_years/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 14:22:16",
-      "https://lobste.rs/s/c9tweu/rss_as_my_default_web_browser_for_some"
-    ],
-    [
-      "RSS as my default web browser (for some stuff)",
-      "https://neilzone.co.uk/2022/10/rss-as-my-default-web-browser-for-some-stuff/"
     ]
   ],
   [
