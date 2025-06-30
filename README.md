@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 16:27:53](https://lobste.rs/s/a9pkib/role_university_is_resist_ai) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 16:03:38](https://lobste.rs/s/t0ktay/update_on_improving_passkey_support) - [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
 * [2025-06-30, 15:46:20](https://lobste.rs/s/gdfo4p/making_rails_delegated_type_s_clearer) - [Making Rails delegated_type’s clearer](https://kaspth.com/posts/making-rails-delegated_types-clearer)
 * [2025-06-30, 15:19:21](https://lobste.rs/s/7isozy/how_often_is_query_plan_optimal) - [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
@@ -7,7 +8,6 @@
 * [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
 * [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
-* [2025-06-30, 12:36:14](https://lobste.rs/s/nbdwds/typesanitizer_detector_for_strict_type) - [TypeSanitizer: a detector for strict type aliasing violations](https://clang.llvm.org/docs/TypeSanitizer.html)
 * [2025-06-30, 12:35:17](https://lobste.rs/s/hci9kg/critical_correctness_bug_lix) - [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
 * [2025-06-30, 12:31:24](https://lobste.rs/s/fqneuc/tracking_anticheat_updates) - [Tracking Anticheat Updates](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-30, 10:22:14](https://lobste.rs/s/vaqyrt/history_unix_manpages) - [History of UNIX Manpages](https://manpages.bsd.lv/history.html)

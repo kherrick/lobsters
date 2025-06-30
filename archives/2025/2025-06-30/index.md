@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 16:27:53](https://lobste.rs/s/a9pkib/role_university_is_resist_ai) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 16:03:38](https://lobste.rs/s/t0ktay/update_on_improving_passkey_support) - [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
 * [2025-06-30, 15:46:20](https://lobste.rs/s/gdfo4p/making_rails_delegated_type_s_clearer) - [Making Rails delegated_type’s clearer](https://kaspth.com/posts/making-rails-delegated_types-clearer)
 * [2025-06-30, 15:19:21](https://lobste.rs/s/7isozy/how_often_is_query_plan_optimal) - [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
