@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 18:05:34](https://lobste.rs/s/odtepz/zig_community_mirrors) - [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
 * [2025-06-30, 17:03:11](https://lobste.rs/s/luthtz/pironman_5_max_fancy_raspberry_pi_5_tower) - [Pironman 5 Max, A fancy Raspberry Pi 5 Tower PC enclosure with dual M.2](https://www.cnx-software.com/2025/06/29/pironman-5-max-review-a-fancy-raspberry-pi-5-tower-pc-enclosure-with-dual-m-2-pci-sockets-for-ssd-and-or-ai-accelerator/)
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 * [2025-06-30, 16:27:53](https://lobste.rs/s/a9pkib/role_university_is_resist_ai) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
@@ -11,7 +12,6 @@
 * [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
 * [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 12:35:17](https://lobste.rs/s/hci9kg/critical_correctness_bug_lix) - [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
-* [2025-06-30, 12:31:24](https://lobste.rs/s/fqneuc/tracking_anticheat_updates) - [Tracking Anticheat Updates](https://not-matthias.github.io/posts/anticheat-update-tracking/)
 * [2025-06-30, 10:22:14](https://lobste.rs/s/vaqyrt/history_unix_manpages) - [History of UNIX Manpages](https://manpages.bsd.lv/history.html)
 * [2025-06-30, 10:05:08](https://lobste.rs/s/ksacpj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ksacpj/what_are_you_doing_this_week)
 * [2025-06-30, 09:42:49](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
