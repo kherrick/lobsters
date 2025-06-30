@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 20:37:26](https://lobste.rs/s/czpczz/hmpl_dom_htmx_alternative_for_writing) - [HMPL-DOM: The HTMX Alternative for Writing Reactive HTML Without JavaScript](https://github.com/hmpl-language/hmpl-dom)
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 * [2025-06-30, 19:36:27](https://lobste.rs/s/rq7ffv/building_accurate_address_matching) - [Building Accurate Address Matching Systems](https://www.robinlinacre.com/address_matching/)
 * [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)

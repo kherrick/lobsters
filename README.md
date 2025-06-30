@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 20:37:26](https://lobste.rs/s/czpczz/hmpl_dom_htmx_alternative_for_writing) - [HMPL-DOM: The HTMX Alternative for Writing Reactive HTML Without JavaScript](https://github.com/hmpl-language/hmpl-dom)
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 * [2025-06-30, 19:36:27](https://lobste.rs/s/rq7ffv/building_accurate_address_matching) - [Building Accurate Address Matching Systems](https://www.robinlinacre.com/address_matching/)
 * [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
@@ -23,7 +24,6 @@
 * [2025-06-29, 17:22:40](https://lobste.rs/s/zdul7r/sql_noir_learn_sql_by_solving_crimes) - [SQL Noir: Learn SQL by Solving Crimes](https://www.sqlnoir.com/)
 * [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
 * [2025-06-29, 13:52:57](https://lobste.rs/s/kn7na7/i_made_my_vm_think_it_has_cpu_fan) - [I made my VM think it has a CPU fan](https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html)
-* [2025-06-29, 13:03:35](https://lobste.rs/s/fphpfx/generative_ai_s_crippling_widespread) - [Generative AI’s crippling and widespread failure to induce robust models of the world](https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread)
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 
 ## [Archives](archives/index.md)
