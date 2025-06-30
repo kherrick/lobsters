@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 19:20:44",
+      "https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser"
+    ],
+    [
+      "VibeTunnel - access terminal from the browser to command agents",
+      "https://github.com/amantus-ai/vibetunnel"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 18:56:16",
       "https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization"
     ],
@@ -227,16 +237,6 @@
     [
       "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
       "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 11:45:04",
-      "https://lobste.rs/s/oiabdv/bought_myself_ampere_altra_system"
-    ],
-    [
-      "Bought myself an Ampere Altra system",
-      "https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/"
     ]
   ],
   [
