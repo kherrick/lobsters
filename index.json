@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 18:05:34",
+      "https://lobste.rs/s/odtepz/zig_community_mirrors"
+    ],
+    [
+      "Zig Community Mirrors",
+      "https://ziglang.org/download/community-mirrors/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 17:03:11",
       "https://lobste.rs/s/luthtz/pironman_5_max_fancy_raspberry_pi_5_tower"
     ],
@@ -107,16 +117,6 @@
     [
       "Critical correctness bug in Lix",
       "https://lix.systems/blog/2025-06-27-lix-critical-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 12:31:24",
-      "https://lobste.rs/s/fqneuc/tracking_anticheat_updates"
-    ],
-    [
-      "Tracking Anticheat Updates",
-      "https://not-matthias.github.io/posts/anticheat-update-tracking/"
     ]
   ],
   [
