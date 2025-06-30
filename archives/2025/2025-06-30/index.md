@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 23:56:08](https://lobste.rs/s/nid79d/google_developer_search_appliance) - [Google Developer Search Appliance – Proxmox Port](https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar)
 * [2025-06-30, 23:41:15](https://lobste.rs/s/qcjdam/doing_my_day_job_on_chimera_linux) - [Doing My Day Job on Chimera Linux](https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/)
 * [2025-06-30, 21:23:39](https://lobste.rs/s/hulgtt/building_replication_safe_lsm_trees) - [Building Replication-Safe LSM Trees in Postgres](https://www.paradedb.com/blog/lsm_trees_in_postgres)
 * [2025-06-30, 21:05:24](https://lobste.rs/s/jeekwf/llvm_instcombine_improve_optimizations) - [llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code](https://simonwillison.net/2025/Jun/30/llvm/)

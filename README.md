@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 23:56:08](https://lobste.rs/s/nid79d/google_developer_search_appliance) - [Google Developer Search Appliance – Proxmox Port](https://archive.org/details/google-search-appliance-proxmox-40G-image-inside.tar)
 * [2025-06-30, 23:41:15](https://lobste.rs/s/qcjdam/doing_my_day_job_on_chimera_linux) - [Doing My Day Job on Chimera Linux](https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/)
 * [2025-06-30, 21:23:39](https://lobste.rs/s/hulgtt/building_replication_safe_lsm_trees) - [Building Replication-Safe LSM Trees in Postgres](https://www.paradedb.com/blog/lsm_trees_in_postgres)
 * [2025-06-30, 21:05:24](https://lobste.rs/s/jeekwf/llvm_instcombine_improve_optimizations) - [llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code](https://simonwillison.net/2025/Jun/30/llvm/)
-* [2025-06-30, 20:37:26](https://lobste.rs/s/czpczz/hmpl_dom_htmx_alternative_for_writing) - [HMPL-DOM: The HTMX Alternative for Writing Reactive HTML Without JavaScript](https://github.com/hmpl-language/hmpl-dom)
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
 * [2025-06-30, 19:36:27](https://lobste.rs/s/rq7ffv/building_accurate_address_matching) - [Building Accurate Address Matching Systems](https://www.robinlinacre.com/address_matching/)
 * [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
