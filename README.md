@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-06-30, 15:19:21](https://lobste.rs/s/7isozy/how_often_is_query_plan_optimal) - [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
 * [2025-06-30, 15:05:01](https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you) - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 * [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
@@ -23,7 +24,6 @@
 * [2025-06-29, 11:45:04](https://lobste.rs/s/oiabdv/bought_myself_ampere_altra_system) - [Bought myself an Ampere Altra system](https://marcin.juszkiewicz.com.pl/2025/06/27/bought-myself-an-ampere-altra-system/)
 * [2025-06-28, 23:36:02](https://lobste.rs/s/qd78bl/wayback_experimental_x11_compatibility) - [wayback: experimental X11 compatibility layer](https://github.com/kaniini/wayback)
 * [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
-* [2025-06-28, 22:10:28](https://lobste.rs/s/p0pozh/fil_c) - [Fil-C](https://github.com/pizlonator/llvm-project-deluge)
 * [2025-06-28, 14:09:24](https://lobste.rs/s/6zbrhj/i_really_like_helix_editor) - [I really like the Helix editor](https://herecomesthemoon.net/2025/06/i-like-helix/)
 
 ## [Archives](archives/index.md)

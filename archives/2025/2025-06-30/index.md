@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-06-30](index.md)
 
+* [2025-06-30, 15:19:21](https://lobste.rs/s/7isozy/how_often_is_query_plan_optimal) - [How often is the query plan optimal?](https://vondra.me/posts/how-often-is-the-query-plan-optimal/)
 * [2025-06-30, 15:05:01](https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you) - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 * [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
