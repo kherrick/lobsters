@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 21:23:39",
+      "https://lobste.rs/s/hulgtt/building_replication_safe_lsm_trees"
+    ],
+    [
+      "Building Replication-Safe LSM Trees in Postgres",
+      "https://www.paradedb.com/blog/lsm_trees_in_postgres"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 20:37:26",
       "https://lobste.rs/s/czpczz/hmpl_dom_htmx_alternative_for_writing"
     ],
@@ -227,16 +237,6 @@
     [
       "20 years of programming",
       "https://sidhion.com/blog/20_years/"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 13:52:57",
-      "https://lobste.rs/s/kn7na7/i_made_my_vm_think_it_has_cpu_fan"
-    ],
-    [
-      "I made my VM think it has a CPU fan",
-      "https://wbenny.github.io/2025/06/29/i-made-my-vm-think-it-has-a-cpu-fan.html"
     ]
   ],
   [
