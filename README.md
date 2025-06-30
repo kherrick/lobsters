@@ -7,6 +7,7 @@
 * [2025-06-30, 19:36:27](https://lobste.rs/s/rq7ffv/building_accurate_address_matching) - [Building Accurate Address Matching Systems](https://www.robinlinacre.com/address_matching/)
 * [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
 * [2025-06-30, 18:56:16](https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
+* [2025-06-30, 18:05:34](https://lobste.rs/s/odtepz/zig_community_mirrors) - [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 * [2025-06-30, 16:27:53](https://lobste.rs/s/a9pkib/role_university_is_resist_ai) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 16:03:38](https://lobste.rs/s/t0ktay/update_on_improving_passkey_support) - [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
@@ -24,7 +25,6 @@
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
 * [2025-06-29, 18:16:34](https://lobste.rs/s/gyiwkq/agile_was_never_your_problem) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 * [2025-06-29, 15:48:03](https://lobste.rs/s/sgita2/20_years_programming) - [20 years of programming](https://sidhion.com/blog/20_years/)
-* [2025-06-28, 23:04:25](https://lobste.rs/s/wfz7qh/solving_uk_passport_application_with) - [Solving `UK Passport Application` with Haskell](https://jameshaydon.github.io/passport/)
 
 ## [Archives](archives/index.md)
 
