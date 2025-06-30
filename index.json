@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-06-30, 19:36:27",
+      "https://lobste.rs/s/rq7ffv/building_accurate_address_matching"
+    ],
+    [
+      "Building Accurate Address Matching Systems",
+      "https://www.robinlinacre.com/address_matching/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 19:20:44",
       "https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser"
     ],
@@ -227,16 +237,6 @@
     [
       "Generative AI’s crippling and widespread failure to induce robust models of the world",
       "https://garymarcus.substack.com/p/generative-ais-crippling-and-widespread"
-    ]
-  ],
-  [
-    [
-      "2025-06-29, 12:59:21",
-      "https://lobste.rs/s/2wxyci/using_podman_hooks_mount_persistent_zfs"
-    ],
-    [
-      "Using Podman hooks to mount persistent ZFS datasets into ephemeral Containers",
-      "https://people.freebsd.org/~dch/posts/2025-06-27-oci-zfs/"
     ]
   ],
   [
