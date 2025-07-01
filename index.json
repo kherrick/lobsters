@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-01, 22:23:38",
+      "https://lobste.rs/s/go43ol/animating_number_counters"
+    ],
+    [
+      "Animating Number Counters",
+      "https://css-tricks.com/animating-number-counters/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 21:29:47",
       "https://lobste.rs/s/rfllxj/stream_per_agent_session"
     ],
@@ -77,16 +87,6 @@
     [
       "Helix language",
       "https://github.com/helixlang/helix-lang"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 14:22:05",
-      "https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with"
-    ],
-    [
-      "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
-      "https://github.com/topling/toplingdb"
     ]
   ],
   [
