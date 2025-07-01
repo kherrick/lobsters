@@ -8,6 +8,7 @@
 * [2025-06-30, 23:41:15](https://lobste.rs/s/qcjdam/doing_my_day_job_on_chimera_linux) - [Doing My Day Job on Chimera Linux](https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/)
 * [2025-06-30, 21:05:24](https://lobste.rs/s/jeekwf/llvm_instcombine_improve_optimizations) - [llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code](https://simonwillison.net/2025/Jun/30/llvm/)
 * [2025-06-30, 19:58:24](https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory) - [CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege](https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot)
+* [2025-06-30, 19:20:44](https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser) - [VibeTunnel - access terminal from the browser to command agents](https://github.com/amantus-ai/vibetunnel)
 * [2025-06-30, 18:56:16](https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization) - [Caching is an Abstraction, not an Optimization](https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/)
 * [2025-06-30, 18:05:34](https://lobste.rs/s/odtepz/zig_community_mirrors) - [Zig Community Mirrors](https://ziglang.org/download/community-mirrors/)
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
@@ -24,7 +25,6 @@
 * [2025-06-30, 09:42:49](https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c) - [The provenance memory model for C](https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/)
 * [2025-06-30, 00:43:22](https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python) - [Use keyword-only arguments in Python dataclasses](https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/)
 * [2025-06-29, 19:36:32](https://lobste.rs/s/otlxxz/tools_i_love_mise_en_place) - [Tools I love: mise(-en-place)](https://blog.vbang.dk/2025/06/29/tools-i-love-mise/)
-* [2025-06-29, 18:16:34](https://lobste.rs/s/gyiwkq/agile_was_never_your_problem) - [Agile Was Never Your Problem](https://thecynical.dev/posts/agile-was-never-your-problem/)
 
 ## [Archives](archives/index.md)
 
