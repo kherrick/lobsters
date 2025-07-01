@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-01, 14:26:36",
+      "https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong"
+    ],
+    [
+      "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
+      "https://www.youtube.com/watch?v=qQGuQ_4V6WI"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 14:25:48",
+      "https://lobste.rs/s/usceqk/helix_language"
+    ],
+    [
+      "Helix language",
+      "https://github.com/helixlang/helix-lang"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 14:22:05",
       "https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-06-30, 18:56:16",
-      "https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization"
-    ],
-    [
-      "Caching is an Abstraction, not an Optimization",
-      "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 18:05:34",
       "https://lobste.rs/s/odtepz/zig_community_mirrors"
     ],
@@ -177,16 +187,6 @@
     [
       "An update on improving passkey support in Linux",
       "https://www.iinuwa.xyz/blog/linux-passkeys-update/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 15:46:20",
-      "https://lobste.rs/s/gdfo4p/making_rails_delegated_type_s_clearer"
-    ],
-    [
-      "Making Rails delegated_type’s clearer",
-      "https://kaspth.com/posts/making-rails-delegated_types-clearer"
     ]
   ],
   [
