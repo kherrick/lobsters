@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-01, 14:22:05",
+      "https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with"
+    ],
+    [
+      "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
+      "https://github.com/topling/toplingdb"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 14:08:46",
+      "https://lobste.rs/s/ftudlh/input_branches_workflow_flake_part_for"
+    ],
+    [
+      "input-branches: Workflow and flake-part for flake input patching using imported git branches",
+      "https://github.com/mightyiam/input-branches"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 13:58:29",
+      "https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling"
+    ],
+    [
+      "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
+      "https://blog.cloudflare.com/introducing-pay-per-crawl/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 12:48:06",
       "https://lobste.rs/s/yyqk01/from_python_programmer_distributed"
     ],
@@ -87,16 +117,6 @@
     [
       "Doing My Day Job on Chimera Linux",
       "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 21:05:24",
-      "https://lobste.rs/s/jeekwf/llvm_instcombine_improve_optimizations"
-    ],
-    [
-      "llvm: InstCombine: improve optimizations for ceiling division with no overflow—a PR by Alex Gaynor and Claude Code",
-      "https://simonwillison.net/2025/Jun/30/llvm/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "History of UNIX Manpages",
       "https://manpages.bsd.lv/history.html"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 10:05:08",
-      "https://lobste.rs/s/ksacpj/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/ksacpj/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 09:42:49",
-      "https://lobste.rs/s/zjmrkk/provenance_memory_model_for_c"
-    ],
-    [
-      "The provenance memory model for C",
-      "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/"
     ]
   ],
   [
