@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-07-01, 06:11:46",
+      "https://lobste.rs/s/ha3xyn/git_stage_over_git_add"
+    ],
+    [
+      "`git stage` over `git add`",
+      "https://bhoot.dev/2025/git-stage-over-git-add/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 05:59:13",
       "https://lobste.rs/s/re0ogb/people_keep_inventing_prolly_trees"
     ],
@@ -227,16 +237,6 @@
     [
       "The provenance memory model for C",
       "https://gustedt.wordpress.com/2025/06/30/the-provenance-memory-model-for-c/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 00:43:22",
-      "https://lobste.rs/s/cafcxn/use_keyword_only_arguments_python"
-    ],
-    [
-      "Use keyword-only arguments in Python dataclasses",
-      "https://chipx86.blog/2025/06/29/tip-use-keyword-only-arguments-in-python-dataclasses/"
     ]
   ],
   [
