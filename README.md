@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-01, 17:56:59](https://lobste.rs/s/lkxakl/what_should_native_dom_templating_api) - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like)
 * [2025-07-01, 16:52:27](https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025) - [Software engineering with LLMs in 2025: reality check](https://www.youtube.com/watch?v=EO3_qN_Ynsk)
 * [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
+* [2025-07-01, 16:51:12](https://lobste.rs/s/t9ig3o/types_types_common_exotic) - [Types of Types: Common to Exotic](https://www.stephendiehl.com/posts/types_of_types/)
 * [2025-07-01, 15:47:21](https://lobste.rs/s/zmgjwq/emoji_kitchen_browse_google_s_unique) - [Emoji Kitchen - Browse Google's unique emoji combinations](https://emojikitchen.dev/)
 * [2025-07-01, 15:16:36](https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen) - [Exception handling in rustc_codegen_cranelift](https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift)
 * [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
