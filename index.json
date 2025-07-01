@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-07-01, 15:16:36",
-      "https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen"
-    ],
-    [
-      "Exception handling in rustc_codegen_cranelift",
-      "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 14:26:36",
       "https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong"
     ],
@@ -197,6 +187,16 @@
     [
       "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 18:05:34",
+      "https://lobste.rs/s/odtepz/zig_community_mirrors"
+    ],
+    [
+      "Zig Community Mirrors",
+      "https://ziglang.org/download/community-mirrors/"
     ]
   ],
   [
