@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 12:48:06](https://lobste.rs/s/yyqk01/from_python_programmer_distributed) - [From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD](https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/)
 * [2025-07-01, 11:04:42](https://lobste.rs/s/s4b9ws/finding_understanding_bugs_c_compilers) - [Finding and understanding bugs in C compilers (2011)](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:53:11](https://lobste.rs/s/ez7akc/alternative_blanket_implementations) - [Alternative Blanket Implementations for a Single Rust Trait](https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/)
 * [2025-07-01, 07:55:54](https://lobste.rs/s/obxxdr/reflections_on_haskell_rust) - [Reflections on Haskell and Rust](https://academy.fpblock.com/blog/rust-haskell-reflections/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-01, 12:48:06](https://lobste.rs/s/yyqk01/from_python_programmer_distributed) - [From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD](https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/)
 * [2025-07-01, 11:04:42](https://lobste.rs/s/s4b9ws/finding_understanding_bugs_c_compilers) - [Finding and understanding bugs in C compilers (2011)](https://www.cse.unr.edu/~fredh/class/460/S2013/class/Papers/tanna.pdf)
 * [2025-07-01, 10:53:11](https://lobste.rs/s/ez7akc/alternative_blanket_implementations) - [Alternative Blanket Implementations for a Single Rust Trait](https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/)
 * [2025-07-01, 07:55:54](https://lobste.rs/s/obxxdr/reflections_on_haskell_rust) - [Reflections on Haskell and Rust](https://academy.fpblock.com/blog/rust-haskell-reflections/)
@@ -18,7 +19,6 @@
 * [2025-06-30, 15:46:20](https://lobste.rs/s/gdfo4p/making_rails_delegated_type_s_clearer) - [Making Rails delegated_type’s clearer](https://kaspth.com/posts/making-rails-delegated_types-clearer)
 * [2025-06-30, 15:05:01](https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you) - [Tail Latency Might Matter More Than You Think](https://brooker.co.za/blog/2021/04/19/latency.html)
 * [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
-* [2025-06-30, 14:23:07](https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc) - [Maestro now supports GCC](https://blog.lenot.re/a/compiler)
 * [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 * [2025-06-30, 12:35:17](https://lobste.rs/s/hci9kg/critical_correctness_bug_lix) - [Critical correctness bug in Lix](https://lix.systems/blog/2025-06-27-lix-critical-bug/)
 * [2025-06-30, 10:22:14](https://lobste.rs/s/vaqyrt/history_unix_manpages) - [History of UNIX Manpages](https://manpages.bsd.lv/history.html)
