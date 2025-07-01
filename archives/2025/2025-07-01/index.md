@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 14:26:36](https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong) - [FUZZING'25 Keynote: \"Are you sure you belong in academia?\"](https://www.youtube.com/watch?v=qQGuQ_4V6WI)
+* [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
 * [2025-07-01, 14:22:05](https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with) - [Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction](https://github.com/topling/toplingdb)
 * [2025-07-01, 14:08:46](https://lobste.rs/s/ftudlh/input_branches_workflow_flake_part_for) - [input-branches: Workflow and flake-part for flake input patching using imported git branches](https://github.com/mightyiam/input-branches)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
