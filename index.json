@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-01, 06:11:46",
+      "https://lobste.rs/s/ha3xyn/git_stage_over_git_add"
+    ],
+    [
+      "`git stage` over `git add`",
+      "https://bhoot.dev/2025/git-stage-over-git-add/"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 05:59:13",
+      "https://lobste.rs/s/re0ogb/people_keep_inventing_prolly_trees"
+    ],
+    [
+      "People Keep Inventing Prolly Trees",
+      "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 04:59:48",
       "https://lobste.rs/s/4vpj8q/orchestrating_edge_ai_workloads_on"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2025-06-30, 21:23:39",
-      "https://lobste.rs/s/hulgtt/building_replication_safe_lsm_trees"
-    ],
-    [
-      "Building Replication-Safe LSM Trees in Postgres",
-      "https://www.paradedb.com/blog/lsm_trees_in_postgres"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 21:05:24",
       "https://lobste.rs/s/jeekwf/llvm_instcombine_improve_optimizations"
     ],
@@ -57,16 +67,6 @@
     [
       "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 19:20:44",
-      "https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser"
-    ],
-    [
-      "VibeTunnel - access terminal from the browser to command agents",
-      "https://github.com/amantus-ai/vibetunnel"
     ]
   ],
   [
