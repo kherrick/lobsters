@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-01, 21:29:47",
+      "https://lobste.rs/s/rfllxj/stream_per_agent_session"
+    ],
+    [
+      "Stream per agent session",
+      "https://s2.dev/blog/agent-sessions"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 16:52:27",
       "https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025"
     ],
@@ -67,16 +77,6 @@
     [
       "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
       "https://github.com/topling/toplingdb"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 14:08:46",
-      "https://lobste.rs/s/ftudlh/input_branches_workflow_flake_part_for"
-    ],
-    [
-      "input-branches: Workflow and flake-part for flake input patching using imported git branches",
-      "https://github.com/mightyiam/input-branches"
     ]
   ],
   [
