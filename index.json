@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-07-01, 14:22:05",
+      "https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with"
+    ],
+    [
+      "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
+      "https://github.com/topling/toplingdb"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 14:08:46",
       "https://lobste.rs/s/ftudlh/input_branches_workflow_flake_part_for"
     ],
@@ -217,16 +227,6 @@
     [
       "An update on improving passkey support in Linux",
       "https://www.iinuwa.xyz/blog/linux-passkeys-update/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 15:05:01",
-      "https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you"
-    ],
-    [
-      "Tail Latency Might Matter More Than You Think (2021)",
-      "https://brooker.co.za/blog/2021/04/19/latency.html"
     ]
   ],
   [
