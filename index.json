@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-06-30, 19:20:44",
-      "https://lobste.rs/s/97dkxl/vibetunnel_access_terminal_from_browser"
-    ],
-    [
-      "VibeTunnel - access terminal from the browser to command agents",
-      "https://github.com/amantus-ai/vibetunnel"
-    ]
-  ],
-  [
-    [
       "2025-06-30, 18:56:16",
       "https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization"
     ],
@@ -187,6 +177,16 @@
     [
       "That boolean should probably be something else",
       "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/"
+    ]
+  ],
+  [
+    [
+      "2025-06-30, 14:23:07",
+      "https://lobste.rs/s/qg9xxh/maestro_now_supports_gcc"
+    ],
+    [
+      "Maestro now supports GCC",
+      "https://blog.lenot.re/a/compiler"
     ]
   ],
   [
