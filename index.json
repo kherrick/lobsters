@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-07-01, 15:16:36",
+      "https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen"
+    ],
+    [
+      "Exception handling in rustc_codegen_cranelift",
+      "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift"
+    ]
+  ],
+  [
+    [
       "2025-07-01, 14:26:36",
       "https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong"
     ],
@@ -157,16 +167,6 @@
     [
       "People Keep Inventing Prolly Trees",
       "https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 04:59:48",
-      "https://lobste.rs/s/4vpj8q/orchestrating_edge_ai_workloads_on"
-    ],
-    [
-      "Orchestrating Edge AI workloads on a Jetson Orin Nano with Nomad",
-      "https://atodorov.me/2025/06/27/orchestrating-edge-ai-workloads-on-a-jetson-orin-nano-with-nomad/"
     ]
   ],
   [
