@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-01, 14:26:36",
-      "https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong"
+      "2025-07-01, 15:16:36",
+      "https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen"
     ],
     [
-      "FUZZING'25 Keynote: \"Are you sure you belong in academia?\"",
-      "https://www.youtube.com/watch?v=qQGuQ_4V6WI"
+      "Exception handling in rustc_codegen_cranelift",
+      "https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-06-30, 18:56:16",
+      "https://lobste.rs/s/p8nvru/caching_is_abstraction_not_optimization"
+    ],
+    [
+      "Caching is an Abstraction, not an Optimization",
+      "https://buttondown.com/jaffray/archive/caching-is-an-abstraction-not-an-optimization/"
+    ]
+  ],
+  [
+    [
       "2025-06-30, 18:05:34",
       "https://lobste.rs/s/odtepz/zig_community_mirrors"
     ],
@@ -195,7 +205,7 @@
       "https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you"
     ],
     [
-      "Tail Latency Might Matter More Than You Think",
+      "Tail Latency Might Matter More Than You Think (2021)",
       "https://brooker.co.za/blog/2021/04/19/latency.html"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Critical correctness bug in Lix",
       "https://lix.systems/blog/2025-06-27-lix-critical-bug/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 10:22:14",
-      "https://lobste.rs/s/vaqyrt/history_unix_manpages"
-    ],
-    [
-      "History of UNIX Manpages",
-      "https://manpages.bsd.lv/history.html"
     ]
   ],
   [
