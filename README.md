@@ -7,6 +7,7 @@
 * [2025-07-01, 15:16:36](https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen) - [Exception handling in rustc_codegen_cranelift](https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift)
 * [2025-07-01, 14:26:36](https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong) - [FUZZING'25 Keynote: \"Are you sure you belong in academia?\"](https://www.youtube.com/watch?v=qQGuQ_4V6WI)
 * [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
+* [2025-07-01, 14:22:05](https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with) - [Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction](https://github.com/topling/toplingdb)
 * [2025-07-01, 14:08:46](https://lobste.rs/s/ftudlh/input_branches_workflow_flake_part_for) - [input-branches: Workflow and flake-part for flake input patching using imported git branches](https://github.com/mightyiam/input-branches)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 12:48:06](https://lobste.rs/s/yyqk01/from_python_programmer_distributed) - [From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD](https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/)
@@ -22,7 +23,6 @@
 * [2025-06-30, 16:48:47](https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data) - [How I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
 * [2025-06-30, 16:27:53](https://lobste.rs/s/a9pkib/role_university_is_resist_ai) - [The role of the University is to resist AI](https://www.danmcquillan.org/cpct_seminar.html)
 * [2025-06-30, 16:03:38](https://lobste.rs/s/t0ktay/update_on_improving_passkey_support) - [An update on improving passkey support in Linux](https://www.iinuwa.xyz/blog/linux-passkeys-update/)
-* [2025-06-30, 15:05:01](https://lobste.rs/s/tizpzz/tail_latency_might_matter_more_than_you) - [Tail Latency Might Matter More Than You Think (2021)](https://brooker.co.za/blog/2021/04/19/latency.html)
 * [2025-06-30, 14:42:27](https://lobste.rs/s/n15x7u/boolean_should_probably_be_something) - [That boolean should probably be something else](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/)
 * [2025-06-30, 13:19:05](https://lobste.rs/s/vb1owz/reverse_engineering_vercel_s_botid) - [Reverse Engineering Vercel's BotID](https://www.nullpt.rs/reversing-botid)
 
