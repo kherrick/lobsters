@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
 * [2025-07-01, 16:53:58](https://lobste.rs/s/0yjqvh/how_fix_your_context) - [How to Fix Your Context](https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html)
+* [2025-07-01, 16:52:27](https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025) - [Software engineering with LLMs in 2025: reality check](https://www.youtube.com/watch?v=EO3_qN_Ynsk)
+* [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 * [2025-07-01, 15:47:21](https://lobste.rs/s/zmgjwq/emoji_kitchen_browse_google_s_unique) - [Emoji Kitchen - Browse Google's unique emoji combinations](https://emojikitchen.dev/)
 * [2025-07-01, 15:28:53](https://lobste.rs/s/u8ddab/local_llm_tool_calling_which_llm_should) - [Local LLM Tool Calling: Which LLM Should You Use?](https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/)
 * [2025-07-01, 15:16:36](https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen) - [Exception handling in rustc_codegen_cranelift](https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift)
