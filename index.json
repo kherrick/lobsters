@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-01, 15:28:53",
-      "https://lobste.rs/s/u8ddab/local_llm_tool_calling_which_llm_should"
-    ],
-    [
-      "Local LLM Tool Calling: Which LLM Should You Use?",
-      "https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 15:16:36",
       "https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen"
     ],
@@ -47,6 +37,16 @@
     [
       "Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction",
       "https://github.com/topling/toplingdb"
+    ]
+  ],
+  [
+    [
+      "2025-07-01, 14:08:46",
+      "https://lobste.rs/s/ftudlh/input_branches_workflow_flake_part_for"
+    ],
+    [
+      "input-branches: Workflow and flake-part for flake input patching using imported git branches",
+      "https://github.com/mightyiam/input-branches"
     ]
   ],
   [
