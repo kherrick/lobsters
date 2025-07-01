@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-01](index.md)
 
+* [2025-07-01, 15:16:36](https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen) - [Exception handling in rustc_codegen_cranelift](https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift)
 * [2025-07-01, 14:26:36](https://lobste.rs/s/z9uq7z/fuzzing_25_keynote_are_you_sure_you_belong) - [FUZZING'25 Keynote: \"Are you sure you belong in academia?\"](https://www.youtube.com/watch?v=qQGuQ_4V6WI)
 * [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
 * [2025-07-01, 14:22:05](https://lobste.rs/s/yf6az7/cloud_native_lsm_key_value_store_with) - [Cloud native LSM Key-Value Store with searchable compression algo and distributed compaction](https://github.com/topling/toplingdb)
