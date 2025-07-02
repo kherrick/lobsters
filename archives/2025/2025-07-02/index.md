@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 19:40:43](https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 19:38:15](https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for) - [Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing](https://www.youtube.com/watch?v=ux49IvxKQR8)
 * [2025-07-02, 18:45:18](https://lobste.rs/s/lsmcfv/tree_structured_concurrency_ii) - [Tree-Structured Concurrency II: Replacing Background Tasks With Actors](https://blog.yoshuawuyts.com/replacing-tasks-with-actors/)
 * [2025-07-02, 18:12:32](https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up) - [500× faster: Four different ways to speed up your code](https://pythonspeed.com/articles/different-ways-speed/)
