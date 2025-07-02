@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-02, 19:40:43](https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 19:38:15](https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for) - [Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing](https://www.youtube.com/watch?v=ux49IvxKQR8)
 * [2025-07-02, 18:12:32](https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up) - [500× faster: Four different ways to speed up your code](https://pythonspeed.com/articles/different-ways-speed/)
+* [2025-07-02, 17:49:24](https://lobste.rs/s/okcpex/programming_as_theory_building) - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf)
 * [2025-07-02, 17:37:01](https://lobste.rs/s/m6uosj/sslcheck_command_line_tool_check_monitor) - [sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains](https://github.com/i04n/sslcheck)
 * [2025-07-02, 17:20:38](https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel) - [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
 * [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
