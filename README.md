@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-02, 15:42:07](https://lobste.rs/s/teixnn/rapid_prototyping_safe_logless) - [Rapid Prototyping a Safe, Logless Reconfiguration Protocol for MongoDB with TLA+](https://www.mongodb.com/blog/post/technical/rapid-prototyping-safe-logless-reconfiguration-protocol-mongodb-tla-plus)
 * [2025-07-02, 15:13:48](https://lobste.rs/s/1mknp7/counterexamples_positivity) - [Counterexamples of positivity implications in Kähler curvature tensors](https://www.magnusson.io/post/curvature-examples/)
-* [2025-07-02, 15:10:09](https://lobste.rs/s/at4gob/three_years_nix_nixos_good_bad_ugly) - [Three Years of Nix and NixOS: The Good, the Bad, and the Ugly](https://pierrezemb.fr/posts/nixos-good-bad-ugly/)
+* [2025-07-02, 14:49:44](https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing) - [Uncloud -  tool for deploying and managing containerised applications](https://github.com/psviderski/uncloud)
 * [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 10:39:05](https://lobste.rs/s/rmoeg4/how_large_are_large_language_models_2025) - [How large are large language models? (2025)](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
@@ -13,7 +14,6 @@
 * [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
 * [2025-07-01, 23:39:50](https://lobste.rs/s/566tbj/you_must_listen_rfc_2119) - [You MUST listen to RFC 2119](https://ericwbailey.website/published/you-must-listen-to-rfc-2119/)
 * [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
-* [2025-07-01, 21:29:47](https://lobste.rs/s/rfllxj/stream_per_agent_session) - [Stream per agent session](https://s2.dev/blog/agent-sessions)
 * [2025-07-01, 16:52:27](https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025) - [Software engineering with LLMs in 2025: reality check](https://www.youtube.com/watch?v=EO3_qN_Ynsk)
 * [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 * [2025-07-01, 16:51:12](https://lobste.rs/s/t9ig3o/types_types_common_exotic) - [Types of Types: Common to Exotic](https://www.stephendiehl.com/posts/types_of_types/)
