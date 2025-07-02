@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 17:37:01](https://lobste.rs/s/m6uosj/sslcheck_command_line_tool_check_monitor) - [sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains](https://github.com/i04n/sslcheck)
 * [2025-07-02, 17:20:38](https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel) - [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
 * [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
