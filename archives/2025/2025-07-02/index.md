@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
+* [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 10:39:05](https://lobste.rs/s/rmoeg4/how_large_are_large_language_models_2025) - [How large are large language models? (2025)](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
 * [2025-07-02, 08:29:25](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies) - [The web's broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies)
 * [2025-07-02, 06:41:32](https://lobste.rs/s/exxlii/c2rust_migrate_c_code_rust) - [c2rust: Migrate C code to Rust](https://github.com/immunant/c2rust)

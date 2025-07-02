@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
+* [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 10:39:05](https://lobste.rs/s/rmoeg4/how_large_are_large_language_models_2025) - [How large are large language models? (2025)](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
 * [2025-07-02, 08:29:25](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies) - [The web's broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies)
 * [2025-07-02, 06:41:32](https://lobste.rs/s/exxlii/c2rust_migrate_c_code_rust) - [c2rust: Migrate C code to Rust](https://github.com/immunant/c2rust)
@@ -11,7 +13,6 @@
 * [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 * [2025-07-01, 22:23:38](https://lobste.rs/s/go43ol/animating_number_counters) - [Animating Number Counters](https://css-tricks.com/animating-number-counters/)
 * [2025-07-01, 21:29:47](https://lobste.rs/s/rfllxj/stream_per_agent_session) - [Stream per agent session](https://s2.dev/blog/agent-sessions)
-* [2025-07-01, 17:56:59](https://lobste.rs/s/lkxakl/what_should_native_dom_templating_api) - [What should a native DOM templating API look like?](https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like)
 * [2025-07-01, 16:52:27](https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025) - [Software engineering with LLMs in 2025: reality check](https://www.youtube.com/watch?v=EO3_qN_Ynsk)
 * [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 * [2025-07-01, 16:51:12](https://lobste.rs/s/t9ig3o/types_types_common_exotic) - [Types of Types: Common to Exotic](https://www.stephendiehl.com/posts/types_of_types/)
@@ -19,7 +20,6 @@
 * [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 12:48:06](https://lobste.rs/s/yyqk01/from_python_programmer_distributed) - [From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD](https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/)
-* [2025-07-01, 10:53:11](https://lobste.rs/s/ez7akc/alternative_blanket_implementations) - [Alternative Blanket Implementations for a Single Rust Trait](https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/)
 * [2025-07-01, 07:55:54](https://lobste.rs/s/obxxdr/reflections_on_haskell_rust) - [Reflections on Haskell and Rust](https://academy.fpblock.com/blog/rust-haskell-reflections/)
 * [2025-07-01, 06:11:46](https://lobste.rs/s/ha3xyn/git_stage_over_git_add) - [`git stage` over `git add`](https://bhoot.dev/2025/git-stage-over-git-add/)
 * [2025-07-01, 05:59:13](https://lobste.rs/s/re0ogb/people_keep_inventing_prolly_trees) - [People Keep Inventing Prolly Trees](https://www.dolthub.com/blog/2025-06-03-people-keep-inventing-prolly-trees/)
