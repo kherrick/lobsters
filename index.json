@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 06:41:32",
+      "https://lobste.rs/s/exxlii/c2rust_migrate_c_code_rust"
+    ],
+    [
+      "c2rust: Migrate C code to Rust",
+      "https://github.com/immunant/c2rust"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 04:44:53",
       "https://lobste.rs/s/nqatzn/hell_ffix_tetra_master"
     ],
@@ -227,16 +237,6 @@
     [
       "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 16:48:47",
-      "https://lobste.rs/s/s4po4y/how_i_write_type_safe_generic_data"
-    ],
-    [
-      "How I Write Type Safe Generic Data Structures in C",
-      "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/"
     ]
   ],
   [
