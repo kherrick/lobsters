@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 19:38:15](https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for) - [Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing](https://www.youtube.com/watch?v=ux49IvxKQR8)
 * [2025-07-02, 18:45:18](https://lobste.rs/s/lsmcfv/tree_structured_concurrency_ii) - [Tree-Structured Concurrency II: Replacing Background Tasks With Actors](https://blog.yoshuawuyts.com/replacing-tasks-with-actors/)
 * [2025-07-02, 18:12:32](https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up) - [500× faster: Four different ways to speed up your code](https://pythonspeed.com/articles/different-ways-speed/)
 * [2025-07-02, 17:49:24](https://lobste.rs/s/okcpex/programming_as_theory_building) - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf)
