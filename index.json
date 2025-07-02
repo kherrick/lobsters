@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 17:37:01",
+      "https://lobste.rs/s/m6uosj/sslcheck_command_line_tool_check_monitor"
+    ],
+    [
+      "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
+      "https://github.com/i04n/sslcheck"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 17:20:38",
       "https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel"
     ],
@@ -217,16 +227,6 @@
     [
       "Introducing pay per crawl: enabling content owners to charge AI crawlers for access",
       "https://blog.cloudflare.com/introducing-pay-per-crawl/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 07:55:54",
-      "https://lobste.rs/s/obxxdr/reflections_on_haskell_rust"
-    ],
-    [
-      "Reflections on Haskell and Rust",
-      "https://academy.fpblock.com/blog/rust-haskell-reflections/"
     ]
   ],
   [
