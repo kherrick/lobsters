@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-02, 19:40:43",
-      "https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered"
-    ],
-    [
-      "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
-      "https://blog.mgdproductions.com/ikko-activebuds/"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 19:38:15",
       "https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for"
     ],
@@ -27,6 +17,16 @@
     [
       "500× faster: Four different ways to speed up your code",
       "https://pythonspeed.com/articles/different-ways-speed/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 17:49:24",
+      "https://lobste.rs/s/okcpex/programming_as_theory_building"
+    ],
+    [
+      "Programming as Theory Building",
+      "https://pablo.rauzy.name/dev/naur1985programming.pdf"
     ]
   ],
   [
