@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-02, 12:22:26",
+      "https://lobste.rs/s/fewxl0/chapel_programming_language"
+    ],
+    [
+      "The Chapel Programming Language",
+      "https://chapel-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 12:00:53",
+      "https://lobste.rs/s/jovlqw/yet_another_zip_trick"
+    ],
+    [
+      "Yet another ZIP trick",
+      "https://hackarcana.com/article/yet-another-zip-trick"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 10:39:05",
       "https://lobste.rs/s/rmoeg4/how_large_are_large_language_models_2025"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-07-01, 17:56:59",
-      "https://lobste.rs/s/lkxakl/what_should_native_dom_templating_api"
-    ],
-    [
-      "What should a native DOM templating API look like?",
-      "https://justinfagnani.com/2025/06/30/what-should-a-dom-templating-api-look-like"
-    ]
-  ],
-  [
-    [
       "2025-07-01, 16:52:27",
       "https://lobste.rs/s/zssy2h/software_engineering_with_llms_2025"
     ],
@@ -187,16 +197,6 @@
     [
       "From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD",
       "https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 10:53:11",
-      "https://lobste.rs/s/ez7akc/alternative_blanket_implementations"
-    ],
-    [
-      "Alternative Blanket Implementations for a Single Rust Trait",
-      "https://www.greyblake.com/blog/alternative-blanket-implementations-for-single-rust-trait/"
     ]
   ],
   [
