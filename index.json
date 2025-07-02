@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 15:42:07",
+      "https://lobste.rs/s/teixnn/rapid_prototyping_safe_logless"
+    ],
+    [
+      "Rapid Prototyping a Safe, Logless Reconfiguration Protocol for MongoDB with TLA+",
+      "https://www.mongodb.com/blog/post/technical/rapid-prototyping-safe-logless-reconfiguration-protocol-mongodb-tla-plus"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 15:13:48",
       "https://lobste.rs/s/1mknp7/counterexamples_positivity"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2025-07-02, 15:10:09",
-      "https://lobste.rs/s/at4gob/three_years_nix_nixos_good_bad_ugly"
+      "2025-07-02, 14:49:44",
+      "https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing"
     ],
     [
-      "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
-      "https://pierrezemb.fr/posts/nixos-good-bad-ugly/"
+      "Uncloud -  tool for deploying and managing containerised applications",
+      "https://github.com/psviderski/uncloud"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "using Sun Ray thin clients in 2025",
       "https://catstret.ch/202506/sun-ray-shenanigans/"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 21:29:47",
-      "https://lobste.rs/s/rfllxj/stream_per_agent_session"
-    ],
-    [
-      "Stream per agent session",
-      "https://s2.dev/blog/agent-sessions"
     ]
   ],
   [
