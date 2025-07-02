@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
+* [2025-07-02, 19:59:23](https://lobste.rs/s/twznlx/why_i_m_dialing_back_my_llm_usage) - [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
 * [2025-07-02, 19:40:43](https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 19:38:15](https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for) - [Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing](https://www.youtube.com/watch?v=ux49IvxKQR8)
 * [2025-07-02, 18:12:32](https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up) - [500× faster: Four different ways to speed up your code](https://pythonspeed.com/articles/different-ways-speed/)
@@ -9,7 +11,6 @@
 * [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
 * [2025-07-02, 17:04:36](https://lobste.rs/s/ntmbrr/deploying_python_django_kubernetes) - [Deploying Python (Django) to Kubernetes: A practical guide with a complete DevOps Pipeline](https://denibertovic.com/posts/deploying-python-django-to-kubernetes-a-practical-guide-with-a-complete-devops-pipeline/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
-* [2025-07-02, 15:42:07](https://lobste.rs/s/teixnn/rapid_prototyping_safe_logless) - [Rapid Prototyping a Safe, Logless Reconfiguration Protocol for MongoDB with TLA+](https://www.mongodb.com/blog/post/technical/rapid-prototyping-safe-logless-reconfiguration-protocol-mongodb-tla-plus)
 * [2025-07-02, 15:13:48](https://lobste.rs/s/1mknp7/counterexamples_positivity) - [Counterexamples of positivity implications in Kähler curvature tensors](https://www.magnusson.io/post/curvature-examples/)
 * [2025-07-02, 15:10:09](https://lobste.rs/s/at4gob/three_years_nix_nixos_good_bad_ugly) - [Three Years of Nix and NixOS: The Good, the Bad, and the Ugly](https://pierrezemb.fr/posts/nixos-good-bad-ugly/)
 * [2025-07-02, 14:49:44](https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing) - [Uncloud -  tool for deploying and managing containerised applications](https://github.com/psviderski/uncloud)
@@ -24,7 +25,6 @@
 * [2025-07-01, 23:39:50](https://lobste.rs/s/566tbj/you_must_listen_rfc_2119) - [You MUST listen to RFC 2119](https://ericwbailey.website/published/you-must-listen-to-rfc-2119/)
 * [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
-* [2025-07-01, 06:11:46](https://lobste.rs/s/ha3xyn/git_stage_over_git_add) - [`git stage` over `git add`](https://bhoot.dev/2025/git-stage-over-git-add/)
 
 ## [Archives](archives/index.md)
 
