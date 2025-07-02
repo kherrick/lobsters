@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 15:46:36",
+      "https://lobste.rs/s/ozsnir/how_i_scanned_all_github_s_oops_commits_for"
+    ],
+    [
+      "How I Scanned all of GitHub’s “Oops Commits” for Leaked Secrets worth $25k in Bug Bounties",
+      "https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 15:42:07",
       "https://lobste.rs/s/teixnn/rapid_prototyping_safe_logless"
     ],
@@ -157,16 +167,6 @@
     [
       "Parsing Layout, or: Haskell's Syntax is a Mess",
       "https://amelia.how/posts/parsing-layout.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 16:51:12",
-      "https://lobste.rs/s/t9ig3o/types_types_common_exotic"
-    ],
-    [
-      "Types of Types: Common to Exotic",
-      "https://www.stephendiehl.com/posts/types_of_types/"
     ]
   ],
   [
