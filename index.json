@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 19:40:43",
+      "https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered"
+    ],
+    [
+      "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
+      "https://blog.mgdproductions.com/ikko-activebuds/"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 19:38:15",
       "https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for"
     ],
@@ -157,16 +167,6 @@
     [
       "The web's broken deal with AI companies",
       "https://dri.es/the-webs-broken-deal-with-ai-companies"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 06:41:32",
-      "https://lobste.rs/s/exxlii/c2rust_migrate_c_code_rust"
-    ],
-    [
-      "c2rust: Migrate C code to Rust",
-      "https://github.com/immunant/c2rust"
     ]
   ],
   [
