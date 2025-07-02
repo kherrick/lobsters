@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-02, 04:44:53](https://lobste.rs/s/nqatzn/hell_ffix_tetra_master) - [The Hell of FFIX Tetra Master](https://xvw.lol/en/articles/tetra-master.html)
 * [2025-07-02, 03:36:39](https://lobste.rs/s/68zztb/openbao_community_fork_vault_released_v2) - [OpenBao, the community fork of Vault, released v2.3.1 with namespaces](https://github.com/openbao/openbao/releases/tag/v2.3.1)
 * [2025-07-02, 03:20:12](https://lobste.rs/s/tw7pzd/you_should_delete_tests) - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
 * [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
@@ -11,7 +12,6 @@
 * [2025-07-01, 16:52:09](https://lobste.rs/s/uu3keo/parsing_layout_haskell_s_syntax_is_mess) - [Parsing Layout, or: Haskell's Syntax is a Mess](https://amelia.how/posts/parsing-layout.html)
 * [2025-07-01, 16:51:12](https://lobste.rs/s/t9ig3o/types_types_common_exotic) - [Types of Types: Common to Exotic](https://www.stephendiehl.com/posts/types_of_types/)
 * [2025-07-01, 15:47:21](https://lobste.rs/s/zmgjwq/emoji_kitchen_browse_google_s_unique) - [Emoji Kitchen - Browse Google's unique emoji combinations](https://emojikitchen.dev/)
-* [2025-07-01, 15:16:36](https://lobste.rs/s/m08lk8/exception_handling_rustc_codegen) - [Exception handling in rustc_codegen_cranelift](https://tweedegolf.nl/en/blog/157/exception-handling-in-rustc-codegen-cranelift)
 * [2025-07-01, 14:25:48](https://lobste.rs/s/usceqk/helix_language) - [Helix language](https://github.com/helixlang/helix-lang)
 * [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 * [2025-07-01, 12:48:06](https://lobste.rs/s/yyqk01/from_python_programmer_distributed) - [From Python Programmer to Distributed Systems Researcher in 10 Years Without a PhD](https://emptysqua.re/blog/from-python-programmer-to-distributed-systems-researcher-in-10-years/)
