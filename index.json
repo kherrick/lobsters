@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 14:49:44",
+      "https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing"
+    ],
+    [
+      "Uncloud -  tool for deploying and managing containerised applications",
+      "https://github.com/psviderski/uncloud"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 12:22:26",
       "https://lobste.rs/s/fewxl0/chapel_programming_language"
     ],
@@ -237,16 +247,6 @@
     [
       "Doing My Day Job on Chimera Linux",
       "https://www.wezm.net/v2/posts/2025/daily-driving-chimera-for-work/"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 19:58:24",
-      "https://lobste.rs/s/srcfxn/cve_2025_32463_vulnerability_advisory"
-    ],
-    [
-      "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
-      "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot"
     ]
   ]
 ]
