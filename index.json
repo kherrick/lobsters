@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-02, 08:29:25",
+      "https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies"
+    ],
+    [
+      "The web's broken deal with AI companies",
+      "https://dri.es/the-webs-broken-deal-with-ai-companies"
+    ]
+  ],
+  [
+    [
       "2025-07-02, 06:41:32",
       "https://lobste.rs/s/exxlii/c2rust_migrate_c_code_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "CVE-2025-32463 Vulnerability Advisory: Sudo chroot Elevation of Privilege",
       "https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot"
-    ]
-  ],
-  [
-    [
-      "2025-06-30, 14:42:27",
-      "https://lobste.rs/s/n15x7u/boolean_should_probably_be_something"
-    ],
-    [
-      "That boolean should probably be something else",
-      "https://ntietz.com/blog/that-boolean-should-probably-be-something-else/"
     ]
   ]
 ]
