@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-02, 17:49:24",
-      "https://lobste.rs/s/okcpex/programming_as_theory_building"
+      "2025-07-02, 18:12:32",
+      "https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up"
     ],
     [
-      "Programming as Theory Building",
-      "https://pablo.rauzy.name/dev/naur1985programming.pdf"
+      "500× faster: Four different ways to speed up your code",
+      "https://pythonspeed.com/articles/different-ways-speed/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Inequality Union Finds: Baby Steps to Refinement E-graphs",
       "https://www.philipzucker.com/le_find/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 17:04:36",
+      "https://lobste.rs/s/ntmbrr/deploying_python_django_kubernetes"
+    ],
+    [
+      "Deploying Python (Django) to Kubernetes: A practical guide with a complete DevOps Pipeline",
+      "https://denibertovic.com/posts/deploying-python-django-to-kubernetes-a-practical-guide-with-a-complete-devops-pipeline/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Parsing Layout, or: Haskell's Syntax is a Mess",
       "https://amelia.how/posts/parsing-layout.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-01, 15:47:21",
-      "https://lobste.rs/s/zmgjwq/emoji_kitchen_browse_google_s_unique"
-    ],
-    [
-      "Emoji Kitchen - Browse Google's unique emoji combinations",
-      "https://emojikitchen.dev/"
     ]
   ],
   [
