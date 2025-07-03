@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-03, 17:28:44",
+      "https://lobste.rs/s/jwe4fc/speeding_up_postgresql_snapshots"
+    ],
+    [
+      "Speeding up PostgreSQL snapshots, in pgstream",
+      "https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 17:11:33",
       "https://lobste.rs/s/yncgug/introducing_tmux_rs"
     ],
@@ -187,16 +197,6 @@
     [
       "500× faster: Four different ways to speed up your code",
       "https://pythonspeed.com/articles/different-ways-speed/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 17:49:24",
-      "https://lobste.rs/s/okcpex/programming_as_theory_building"
-    ],
-    [
-      "Programming as Theory Building",
-      "https://pablo.rauzy.name/dev/naur1985programming.pdf"
     ]
   ],
   [
