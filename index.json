@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-03, 14:37:01",
-      "https://lobste.rs/s/0lgw02/i_built_torment_nexus_political_podcast"
-    ],
-    [
-      "I Built The Torment Nexus (Political Podcast Edition)",
-      "https://www.jamesrball.com/p/i-built-the-torment-nexus-political"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 14:16:06",
       "https://lobste.rs/s/8we4dn/lucky_13_lobsters"
     ],
@@ -217,6 +207,16 @@
     [
       "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
       "https://pierrezemb.fr/posts/nixos-good-bad-ugly/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 14:49:44",
+      "https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing"
+    ],
+    [
+      "Uncloud -  tool for deploying and managing containerised applications",
+      "https://github.com/psviderski/uncloud"
     ]
   ],
   [
