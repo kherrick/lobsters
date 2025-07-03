@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-03, 07:59:55",
+      "https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next"
+    ],
+    [
+      "Introducing the first alpha of Turso: The next evolution of SQLite",
+      "https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 07:41:08",
       "https://lobste.rs/s/envjuj/i_still_use_vim_i_also_use_ai_it_still_feels"
     ],
@@ -197,16 +207,6 @@
     [
       "The Hell of FFIX Tetra Master",
       "https://xvw.lol/en/articles/tetra-master.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 03:36:39",
-      "https://lobste.rs/s/68zztb/openbao_community_fork_vault_released_v2"
-    ],
-    [
-      "OpenBao, the community fork of Vault, released v2.3.1 with namespaces",
-      "https://github.com/openbao/openbao/releases/tag/v2.3.1"
     ]
   ],
   [
