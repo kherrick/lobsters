@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-03, 08:56:33](https://lobste.rs/s/ik12td/how_manage_configuration_settings_go_web) - [How to manage configuration settings in Go web applications](https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications)
+* [2025-07-03, 08:47:38](https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion) - [RFC 9799: ACME Extensions for \".onion\"](https://datatracker.ietf.org/doc/rfc9799/)
 * [2025-07-03, 08:40:06](https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input) - [Recreating Laravel Cloud’s range input with native HTML](https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 07:41:08](https://lobste.rs/s/envjuj/i_still_use_vim_i_also_use_ai_it_still_feels) - [I Still Use Vim. I Also Use AI. It Still Feels Like Me](https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me)
@@ -17,7 +18,6 @@
 * [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 * [2025-07-02, 15:10:09](https://lobste.rs/s/at4gob/three_years_nix_nixos_good_bad_ugly) - [Three Years of Nix and NixOS: The Good, the Bad, and the Ugly](https://pierrezemb.fr/posts/nixos-good-bad-ugly/)
-* [2025-07-02, 14:49:44](https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing) - [Uncloud -  tool for deploying and managing containerised applications](https://github.com/psviderski/uncloud)
 * [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 08:29:25](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies) - [The web's broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies)
