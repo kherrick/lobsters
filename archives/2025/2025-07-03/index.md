@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 09:05:41](https://lobste.rs/s/wiu8md/writing_code_was_never_bottleneck) - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-07-03, 08:47:38](https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion) - [RFC 9799: ACME Extensions for \".onion\"](https://datatracker.ietf.org/doc/rfc9799/)
 * [2025-07-03, 08:40:06](https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input) - [Recreating Laravel Cloud’s range input with native HTML](https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
