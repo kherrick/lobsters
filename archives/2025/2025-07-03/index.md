@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 14:37:01](https://lobste.rs/s/0lgw02/i_built_torment_nexus_political_podcast) - [I Built The Torment Nexus (Political Podcast Edition)](https://www.jamesrball.com/p/i-built-the-torment-nexus-political)
+* [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 * [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 * [2025-07-03, 12:46:13](https://lobste.rs/s/irjbzn/most_mysterious_bug_i_solved_at_work) - [The most mysterious bug I solved at work](https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work)
 * [2025-07-03, 12:22:38](https://lobste.rs/s/zslatp/goharddrive_leaked_personal_data_for) - [goHardDrive Leaked Personal Data for Thousands of Customers](https://mtlynch.io/goharddrive-leak/)
+* [2025-07-03, 11:38:22](https://lobste.rs/s/koetct/porting_openbsd_risc_v_isa_2020) - [Porting OpenBSD to RISC-V ISA (2020)](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2025-07-03, 09:05:41](https://lobste.rs/s/wiu8md/writing_code_was_never_bottleneck) - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-07-03, 08:56:33](https://lobste.rs/s/ik12td/how_manage_configuration_settings_go_web) - [How to manage configuration settings in Go web applications](https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications)
 * [2025-07-03, 08:47:38](https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion) - [RFC 9799: ACME Extensions for \".onion\"](https://datatracker.ietf.org/doc/rfc9799/)

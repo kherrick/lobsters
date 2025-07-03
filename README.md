@@ -1,8 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-03, 14:37:01](https://lobste.rs/s/0lgw02/i_built_torment_nexus_political_podcast) - [I Built The Torment Nexus (Political Podcast Edition)](https://www.jamesrball.com/p/i-built-the-torment-nexus-political)
+* [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 * [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 * [2025-07-03, 12:46:13](https://lobste.rs/s/irjbzn/most_mysterious_bug_i_solved_at_work) - [The most mysterious bug I solved at work](https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work)
 * [2025-07-03, 12:22:38](https://lobste.rs/s/zslatp/goharddrive_leaked_personal_data_for) - [goHardDrive Leaked Personal Data for Thousands of Customers](https://mtlynch.io/goharddrive-leak/)
+* [2025-07-03, 11:38:22](https://lobste.rs/s/koetct/porting_openbsd_risc_v_isa_2020) - [Porting OpenBSD to RISC-V ISA (2020)](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2025-07-03, 09:05:41](https://lobste.rs/s/wiu8md/writing_code_was_never_bottleneck) - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-07-03, 08:47:38](https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion) - [RFC 9799: ACME Extensions for \".onion\"](https://datatracker.ietf.org/doc/rfc9799/)
 * [2025-07-03, 08:40:06](https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input) - [Recreating Laravel Cloud’s range input with native HTML](https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/)
@@ -19,12 +22,9 @@
 * [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 * [2025-07-02, 15:10:09](https://lobste.rs/s/at4gob/three_years_nix_nixos_good_bad_ugly) - [Three Years of Nix and NixOS: The Good, the Bad, and the Ugly](https://pierrezemb.fr/posts/nixos-good-bad-ugly/)
-* [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 04:44:53](https://lobste.rs/s/nqatzn/hell_ffix_tetra_master) - [The Hell of FFIX Tetra Master](https://xvw.lol/en/articles/tetra-master.html)
 * [2025-07-02, 03:20:12](https://lobste.rs/s/tw7pzd/you_should_delete_tests) - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
-* [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
-* [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 
 ## [Archives](archives/index.md)
 
