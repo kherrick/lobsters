@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-03, 17:46:44](https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are) - [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
 * [2025-07-03, 17:28:44](https://lobste.rs/s/jwe4fc/speeding_up_postgresql_snapshots) - [Speeding up PostgreSQL snapshots, in pgstream](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 16:41:47](https://lobste.rs/s/fbwzai/portability_tar_features) - [Portability of tar features](https://mgorny.pl/articles/portability-of-tar-features.html)
@@ -14,7 +15,6 @@
 * [2025-07-03, 08:40:06](https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input) - [Recreating Laravel Cloud’s range input with native HTML](https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
-* [2025-07-02, 23:17:55](https://lobste.rs/s/w4vmvd/amiga_3000_unix_sun_microsystems_deal_no) - [The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?](https://www.datagubbe.se/amix/)
 * [2025-07-02, 22:39:07](https://lobste.rs/s/boqpjf/can_we_test_it_yes_we_can) - [Can we test it? Yes, we can](https://youtu.be/MqC3tudPH6w)
 * [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
 * [2025-07-02, 19:59:23](https://lobste.rs/s/twznlx/why_i_m_dialing_back_my_llm_usage) - [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
