@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-02](index.md)
 
+* [2025-07-02, 23:17:55](https://lobste.rs/s/w4vmvd/amiga_3000_unix_sun_microsystems_deal_no) - [The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?](https://www.datagubbe.se/amix/)
 * [2025-07-02, 22:39:07](https://lobste.rs/s/boqpjf/can_we_test_it_yes_we_can) - [Can we test it? Yes, we can](https://youtu.be/MqC3tudPH6w)
 * [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
 * [2025-07-02, 19:59:23](https://lobste.rs/s/twznlx/why_i_m_dialing_back_my_llm_usage) - [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-02, 23:17:55](https://lobste.rs/s/w4vmvd/amiga_3000_unix_sun_microsystems_deal_no) - [The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?](https://www.datagubbe.se/amix/)
 * [2025-07-02, 22:39:07](https://lobste.rs/s/boqpjf/can_we_test_it_yes_we_can) - [Can we test it? Yes, we can](https://youtu.be/MqC3tudPH6w)
 * [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
 * [2025-07-02, 19:59:23](https://lobste.rs/s/twznlx/why_i_m_dialing_back_my_llm_usage) - [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
@@ -16,7 +17,6 @@
 * [2025-07-02, 14:49:44](https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing) - [Uncloud -  tool for deploying and managing containerised applications](https://github.com/psviderski/uncloud)
 * [2025-07-02, 12:22:26](https://lobste.rs/s/fewxl0/chapel_programming_language) - [The Chapel Programming Language](https://chapel-lang.org/)
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
-* [2025-07-02, 10:39:05](https://lobste.rs/s/rmoeg4/how_large_are_large_language_models_2025) - [How large are large language models? (2025)](https://gist.github.com/rain-1/cf0419958250d15893d8873682492c3e)
 * [2025-07-02, 08:29:25](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies) - [The web's broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies)
 * [2025-07-02, 04:44:53](https://lobste.rs/s/nqatzn/hell_ffix_tetra_master) - [The Hell of FFIX Tetra Master](https://xvw.lol/en/articles/tetra-master.html)
 * [2025-07-02, 03:36:39](https://lobste.rs/s/68zztb/openbao_community_fork_vault_released_v2) - [OpenBao, the community fork of Vault, released v2.3.1 with namespaces](https://github.com/openbao/openbao/releases/tag/v2.3.1)
