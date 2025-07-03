@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 20:04:25](https://lobste.rs/s/jh7knb/factor_problem_solving) - [Factor Problem Solving](https://github.com/Bubbler-4/factor-problem-solving)
 * [2025-07-03, 17:53:13](https://lobste.rs/s/23kezm/advice_on_how_get_job_at_canonical) - [Advice on how to get a job at Canonical](https://canonical.com/blog/how-to-get-a-job-at-canonical)
