@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-03, 22:21:12",
-      "https://lobste.rs/s/l4p4sc/coding_advent"
-    ],
-    [
-      "Coding in Advent",
-      "https://panadestein.github.io/blog/posts/aoc24.html"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 22:05:56",
       "https://lobste.rs/s/seqz3x/writing_little_gosh"
     ],
@@ -117,6 +107,16 @@
     [
       "goHardDrive Leaked Personal Data for Thousands of Customers",
       "https://mtlynch.io/goharddrive-leak/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 11:38:22",
+      "https://lobste.rs/s/koetct/porting_openbsd_risc_v_isa_2020"
+    ],
+    [
+      "Porting OpenBSD to RISC-V ISA (2020)",
+      "https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf"
     ]
   ],
   [
