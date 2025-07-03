@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 15:42:54](https://lobste.rs/s/xnqmqj/llms_as_compilers) - [LLMs as compilers](https://resync-games.com/blog/engineering/llms-as-compiler)
 * [2025-07-03, 14:56:29](https://lobste.rs/s/vz1z3u/taking_over_60k_spyware_user_accounts) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 * [2025-07-03, 14:37:01](https://lobste.rs/s/0lgw02/i_built_torment_nexus_political_podcast) - [I Built The Torment Nexus (Political Podcast Edition)](https://www.jamesrball.com/p/i-built-the-torment-nexus-political)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
