@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-03, 08:47:38",
+      "https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion"
+    ],
+    [
+      "RFC 9799: ACME Extensions for \".onion\"",
+      "https://datatracker.ietf.org/doc/rfc9799/"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 08:40:06",
       "https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input"
     ],
@@ -167,16 +177,6 @@
     [
       "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
       "https://pierrezemb.fr/posts/nixos-good-bad-ugly/"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 14:49:44",
-      "https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing"
-    ],
-    [
-      "Uncloud -  tool for deploying and managing containerised applications",
-      "https://github.com/psviderski/uncloud"
     ]
   ],
   [
