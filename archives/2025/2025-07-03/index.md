@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 20:04:25](https://lobste.rs/s/jh7knb/factor_problem_solving) - [Factor Problem Solving](https://github.com/Bubbler-4/factor-problem-solving)
 * [2025-07-03, 17:53:13](https://lobste.rs/s/23kezm/advice_on_how_get_job_at_canonical) - [Advice on how to get a job at Canonical](https://canonical.com/blog/how-to-get-a-job-at-canonical)
 * [2025-07-03, 17:46:44](https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are) - [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
