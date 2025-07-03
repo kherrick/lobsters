@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-03, 16:41:47",
+      "https://lobste.rs/s/fbwzai/portability_tar_features"
+    ],
+    [
+      "Portability of tar features",
+      "https://mgorny.pl/articles/portability-of-tar-features.html"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 15:42:54",
       "https://lobste.rs/s/xnqmqj/llms_as_compilers"
     ],
@@ -237,16 +247,6 @@
     [
       "Yet another ZIP trick",
       "https://hackarcana.com/article/yet-another-zip-trick"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 03:20:12",
-      "https://lobste.rs/s/tw7pzd/you_should_delete_tests"
-    ],
-    [
-      "You should delete tests",
-      "https://andre.arko.net/2025/06/30/you-should-delete-tests/"
     ]
   ]
 ]
