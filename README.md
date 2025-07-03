@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-03, 23:05:10](https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 20:04:25](https://lobste.rs/s/jh7knb/factor_problem_solving) - [Factor Problem Solving](https://github.com/Bubbler-4/factor-problem-solving)
@@ -22,7 +23,6 @@
 * [2025-07-02, 19:40:43](https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data](https://blog.mgdproductions.com/ikko-activebuds/)
 * [2025-07-02, 18:12:32](https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up) - [500× faster: Four different ways to speed up your code](https://pythonspeed.com/articles/different-ways-speed/)
 * [2025-07-02, 17:20:38](https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel) - [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
-* [2025-07-02, 17:15:03](https://lobste.rs/s/wahapd/inequality_union_finds_baby_steps) - [Inequality Union Finds: Baby Steps to Refinement E-graphs](https://www.philipzucker.com/le_find/)
 * [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 
