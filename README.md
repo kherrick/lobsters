@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-03, 07:41:08](https://lobste.rs/s/envjuj/i_still_use_vim_i_also_use_ai_it_still_feels) - [I Still Use Vim. I Also Use AI. It Still Feels Like Me](https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
 * [2025-07-02, 23:17:55](https://lobste.rs/s/w4vmvd/amiga_3000_unix_sun_microsystems_deal_no) - [The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?](https://www.datagubbe.se/amix/)
 * [2025-07-02, 22:39:07](https://lobste.rs/s/boqpjf/can_we_test_it_yes_we_can) - [Can we test it? Yes, we can](https://youtu.be/MqC3tudPH6w)
@@ -24,7 +25,6 @@
 * [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
 * [2025-07-01, 23:39:50](https://lobste.rs/s/566tbj/you_must_listen_rfc_2119) - [You MUST listen to RFC 2119](https://ericwbailey.website/published/you-must-listen-to-rfc-2119/)
 * [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
-* [2025-07-01, 13:58:29](https://lobste.rs/s/2yvzv1/introducing_pay_per_crawl_enabling) - [Introducing pay per crawl: enabling content owners to charge AI crawlers for access](https://blog.cloudflare.com/introducing-pay-per-crawl/)
 
 ## [Archives](archives/index.md)
 
