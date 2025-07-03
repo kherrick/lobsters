@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-03, 17:46:44](https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are) - [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
+* [2025-07-03, 17:53:13](https://lobste.rs/s/23kezm/advice_on_how_get_job_at_canonical) - [Advice on how to get a job at Canonical](https://canonical.com/blog/how-to-get-a-job-at-canonical)
 * [2025-07-03, 17:28:44](https://lobste.rs/s/jwe4fc/speeding_up_postgresql_snapshots) - [Speeding up PostgreSQL snapshots, in pgstream](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 16:41:47](https://lobste.rs/s/fbwzai/portability_tar_features) - [Portability of tar features](https://mgorny.pl/articles/portability-of-tar-features.html)
