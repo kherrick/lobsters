@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 07:41:08](https://lobste.rs/s/envjuj/i_still_use_vim_i_also_use_ai_it_still_feels) - [I Still Use Vim. I Also Use AI. It Still Feels Like Me](https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
 * [2025-07-02, 23:17:55](https://lobste.rs/s/w4vmvd/amiga_3000_unix_sun_microsystems_deal_no) - [The Amiga 3000 UNIX and Sun Microsystems: Deal or no deal?](https://www.datagubbe.se/amix/)
@@ -20,7 +21,6 @@
 * [2025-07-02, 12:00:53](https://lobste.rs/s/jovlqw/yet_another_zip_trick) - [Yet another ZIP trick](https://hackarcana.com/article/yet-another-zip-trick)
 * [2025-07-02, 08:29:25](https://lobste.rs/s/6mu4ac/web_s_broken_deal_with_ai_companies) - [The web's broken deal with AI companies](https://dri.es/the-webs-broken-deal-with-ai-companies)
 * [2025-07-02, 04:44:53](https://lobste.rs/s/nqatzn/hell_ffix_tetra_master) - [The Hell of FFIX Tetra Master](https://xvw.lol/en/articles/tetra-master.html)
-* [2025-07-02, 03:36:39](https://lobste.rs/s/68zztb/openbao_community_fork_vault_released_v2) - [OpenBao, the community fork of Vault, released v2.3.1 with namespaces](https://github.com/openbao/openbao/releases/tag/v2.3.1)
 * [2025-07-02, 03:20:12](https://lobste.rs/s/tw7pzd/you_should_delete_tests) - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
 * [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
 * [2025-07-01, 23:39:50](https://lobste.rs/s/566tbj/you_must_listen_rfc_2119) - [You MUST listen to RFC 2119](https://ericwbailey.website/published/you-must-listen-to-rfc-2119/)
