@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
+* [2025-07-03, 20:04:25](https://lobste.rs/s/jh7knb/factor_problem_solving) - [Factor Problem Solving](https://github.com/Bubbler-4/factor-problem-solving)
 * [2025-07-03, 17:46:44](https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are) - [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
 * [2025-07-03, 17:28:44](https://lobste.rs/s/jwe4fc/speeding_up_postgresql_snapshots) - [Speeding up PostgreSQL snapshots, in pgstream](https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
@@ -13,7 +14,6 @@
 * [2025-07-03, 11:38:22](https://lobste.rs/s/koetct/porting_openbsd_risc_v_isa_2020) - [Porting OpenBSD to RISC-V ISA (2020)](https://www.openbsd.org/papers/Porting_OpenBSD_to_RISCV_FinalReport.pdf)
 * [2025-07-03, 09:05:41](https://lobste.rs/s/wiu8md/writing_code_was_never_bottleneck) - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-07-03, 08:47:38](https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion) - [RFC 9799: ACME Extensions for \".onion\"](https://datatracker.ietf.org/doc/rfc9799/)
-* [2025-07-03, 08:40:06](https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input) - [Recreating Laravel Cloud’s range input with native HTML](https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
 * [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
