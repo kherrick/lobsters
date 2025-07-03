@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-07-02, 17:37:01",
-      "https://lobste.rs/s/m6uosj/sslcheck_command_line_tool_check_monitor"
-    ],
-    [
-      "sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains",
-      "https://github.com/i04n/sslcheck"
-    ]
-  ],
-  [
-    [
       "2025-07-02, 17:20:38",
       "https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel"
     ],
@@ -177,6 +167,16 @@
     [
       "Three Years of Nix and NixOS: The Good, the Bad, and the Ugly",
       "https://pierrezemb.fr/posts/nixos-good-bad-ugly/"
+    ]
+  ],
+  [
+    [
+      "2025-07-02, 14:49:44",
+      "https://lobste.rs/s/yw8jai/uncloud_tool_for_deploying_managing"
+    ],
+    [
+      "Uncloud -  tool for deploying and managing containerised applications",
+      "https://github.com/psviderski/uncloud"
     ]
   ],
   [
