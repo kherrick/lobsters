@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-07-03, 17:28:44",
-      "https://lobste.rs/s/jwe4fc/speeding_up_postgresql_snapshots"
-    ],
-    [
-      "Speeding up PostgreSQL snapshots, in pgstream",
-      "https://xata.io/blog/behind-the-scenes-speeding-up-pgstream-snapshots-for-postgresql"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 17:11:33",
       "https://lobste.rs/s/yncgug/introducing_tmux_rs"
     ],
@@ -127,6 +117,16 @@
     [
       "Writing Code Was Never The Bottleneck",
       "https://ordep.dev/posts/writing-code-was-never-the-bottleneck"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 08:56:33",
+      "https://lobste.rs/s/ik12td/how_manage_configuration_settings_go_web"
+    ],
+    [
+      "How to manage configuration settings in Go web applications",
+      "https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications"
     ]
   ],
   [
