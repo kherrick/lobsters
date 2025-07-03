@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-03, 08:47:38](https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion) - [RFC 9799: ACME Extensions for \".onion\"](https://datatracker.ietf.org/doc/rfc9799/)
+* [2025-07-03, 08:40:06](https://lobste.rs/s/fihakk/recreating_laravel_cloud_s_range_input) - [Recreating Laravel Cloud’s range input with native HTML](https://phare.io/blog/recreating-laravel-clouds-range-input-with-native-html/)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 07:41:08](https://lobste.rs/s/envjuj/i_still_use_vim_i_also_use_ai_it_still_feels) - [I Still Use Vim. I Also Use AI. It Still Feels Like Me](https://www.godaddy.com/resources/news/i-still-use-vim-i-also-use-ai-it-still-feels-like-me)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
@@ -8,7 +10,6 @@
 * [2025-07-02, 20:53:56](https://lobste.rs/s/yo1kk1/jujutsu_v0_31_0_released) - [jujutsu v0.31.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.31.0)
 * [2025-07-02, 19:59:23](https://lobste.rs/s/twznlx/why_i_m_dialing_back_my_llm_usage) - [Why I'm Dialing Back My LLM Usage](https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin)
 * [2025-07-02, 19:40:43](https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered) - [Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data](https://blog.mgdproductions.com/ikko-activebuds/)
-* [2025-07-02, 19:38:15](https://lobste.rs/s/oic7ly/fail_faster_staging_fast_randomness_for) - [Fail Faster: Staging and Fast Randomness for High-Performance Property-Based Testing](https://www.youtube.com/watch?v=ux49IvxKQR8)
 * [2025-07-02, 18:12:32](https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up) - [500× faster: Four different ways to speed up your code](https://pythonspeed.com/articles/different-ways-speed/)
 * [2025-07-02, 17:49:24](https://lobste.rs/s/okcpex/programming_as_theory_building) - [Programming as Theory Building](https://pablo.rauzy.name/dev/naur1985programming.pdf)
 * [2025-07-02, 17:37:01](https://lobste.rs/s/m6uosj/sslcheck_command_line_tool_check_monitor) - [sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains](https://github.com/i04n/sslcheck)
@@ -23,7 +24,6 @@
 * [2025-07-02, 04:44:53](https://lobste.rs/s/nqatzn/hell_ffix_tetra_master) - [The Hell of FFIX Tetra Master](https://xvw.lol/en/articles/tetra-master.html)
 * [2025-07-02, 03:20:12](https://lobste.rs/s/tw7pzd/you_should_delete_tests) - [You should delete tests](https://andre.arko.net/2025/06/30/you-should-delete-tests/)
 * [2025-07-02, 01:50:19](https://lobste.rs/s/bon0u7/clamp_median_range) - [clamp / median / range](https://dotat.at/@/2025-07-02-cmp.html)
-* [2025-07-01, 23:39:50](https://lobste.rs/s/566tbj/you_must_listen_rfc_2119) - [You MUST listen to RFC 2119](https://ericwbailey.website/published/you-must-listen-to-rfc-2119/)
 * [2025-07-01, 23:29:25](https://lobste.rs/s/vjto95/using_sun_ray_thin_clients_2025) - [using Sun Ray thin clients in 2025](https://catstret.ch/202506/sun-ray-shenanigans/)
 
 ## [Archives](archives/index.md)
