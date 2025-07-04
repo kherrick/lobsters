@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 13:57:38](https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 * [2025-07-04, 13:38:51](https://lobste.rs/s/765brx/getting_extensions_work_with_free) - [Getting extensions to work with free-threaded Python](https://lwn.net/Articles/1025893/)
 * [2025-07-04, 10:38:54](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend)
 * [2025-07-04, 08:44:16](https://lobste.rs/s/chcyrx/nonce_csp_bypass_using_disk_cache) - [Nonce CSP bypass using Disk Cache](https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache)
