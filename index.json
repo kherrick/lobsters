@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-03, 23:59:49",
+      "https://lobste.rs/s/apuviy/tiny_great_languages_mouse"
+    ],
+    [
+      "Tiny Great Languages: MOUSE",
+      "https://zserge.com/posts/langs-mouse/"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 23:58:36",
+      "https://lobste.rs/s/cnl1yz/anarchy_database_survey_evaluation"
+    ],
+    [
+      "Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility",
+      "https://www.vldb.org/pvldb/volumes/18/paper/Anarchy%20in%20the%20Database%3A%20A%20Survey%20and%20Evaluation%20of%20Database%20Management%20System%20Extensibility"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 23:05:10",
       "https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-07-03, 08:56:33",
-      "https://lobste.rs/s/ik12td/how_manage_configuration_settings_go_web"
-    ],
-    [
-      "How to manage configuration settings in Go web applications",
-      "https://www.alexedwards.net/blog/how-to-manage-configuration-settings-in-go-web-applications"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 08:47:38",
       "https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion"
     ],
@@ -197,16 +207,6 @@
     [
       "Why I'm Dialing Back My LLM Usage",
       "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 19:40:43",
-      "https://lobste.rs/s/mtrkii/exploiting_ikko_activebuds_ai_powered"
-    ],
-    [
-      "Exploiting the IKKO Activebuds \"AI powered\" earbuds, running DOOM, stealing their OpenAI API key and customer data",
-      "https://blog.mgdproductions.com/ikko-activebuds/"
     ]
   ],
   [
