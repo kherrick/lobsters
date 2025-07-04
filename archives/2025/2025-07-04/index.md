@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 17:09:51](https://lobste.rs/s/zhiv3y/supposedly_worthwhile_contract_i_ll) - [A supposedly worthwhile contract I'll never do again](https://ahelwer.ca/post/2025-07-04-tla-contracts/)
 * [2025-07-04, 15:05:00](https://lobste.rs/s/f7dyjt/compression_dictionary_transport) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 * [2025-07-04, 15:02:48](https://lobste.rs/s/s3lg4g/one_billion_cells_another_multiplayer) - [One Billion Cells, Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
 * [2025-07-04, 13:57:38](https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
