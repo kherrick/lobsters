@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-07-03, 22:21:12",
+      "https://lobste.rs/s/l4p4sc/coding_advent"
+    ],
+    [
+      "Coding in Advent",
+      "https://panadestein.github.io/blog/posts/aoc24.html"
+    ]
+  ],
+  [
+    [
       "2025-07-03, 22:05:56",
       "https://lobste.rs/s/seqz3x/writing_little_gosh"
     ],
@@ -87,16 +97,6 @@
     [
       "The scary and surprisingly deep rabbit hole of Rust's temporaries",
       "https://taping-memory.dev/temporaries-rabbit-hole/"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 17:46:44",
-      "https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are"
-    ],
-    [
-      "Taming agentic engineering - Prompts are code, .json/.md files are state",
-      "https://mariozechner.at/posts/2025-06-02-prompts-are-code/"
     ]
   ],
   [
