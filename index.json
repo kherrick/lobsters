@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-04, 08:44:16",
+      "https://lobste.rs/s/chcyrx/nonce_csp_bypass_using_disk_cache"
+    ],
+    [
+      "Nonce CSP bypass using Disk Cache",
+      "https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 08:23:22",
       "https://lobste.rs/s/glyhbl/steam_has_been_flooded_with_games_stolen"
     ],
@@ -127,16 +137,6 @@
     [
       "Introducing tmux-rs",
       "https://richardscollin.github.io/tmux-rs/"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 16:41:47",
-      "https://lobste.rs/s/fbwzai/portability_tar_features"
-    ],
-    [
-      "Portability of tar features",
-      "https://mgorny.pl/articles/portability-of-tar-features.html"
     ]
   ],
   [
