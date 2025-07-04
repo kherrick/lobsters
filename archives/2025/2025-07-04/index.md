@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 20:07:41](https://lobste.rs/s/xajz0a/gremllm_slight_upgrade_gremlins_your) - [gremllm: A slight upgrade to the Gremlins in your code](https://github.com/awwaiid/gremllm)
 * [2025-07-04, 19:11:19](https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish) - [mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk](https://codeberg.org/owl/mawkdown)
 * [2025-07-04, 18:13:53](https://lobste.rs/s/tk9rkb/eternal_mainframe) - [The Eternal Mainframe](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 * [2025-07-04, 17:54:39](https://lobste.rs/s/ljpllk/awesome_standards_curated_list) - [awesome-standards: A curated list of technical standards](https://github.com/donBarbos/awesome-standards)
