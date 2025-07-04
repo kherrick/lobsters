@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-04, 15:05:00",
+      "https://lobste.rs/s/f7dyjt/compression_dictionary_transport"
+    ],
+    [
+      "Compression Dictionary Transport",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 15:02:48",
+      "https://lobste.rs/s/s3lg4g/one_billion_cells_another_multiplayer"
+    ],
+    [
+      "One Billion Cells, Another Multiplayer Demo with Clojure",
+      "https://cells.andersmurphy.com/"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 13:57:38",
       "https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-07-03, 19:49:02",
-      "https://lobste.rs/s/52gism/scary_surprisingly_deep_rabbit_hole_rust"
-    ],
-    [
-      "The scary and surprisingly deep rabbit hole of Rust's temporaries",
-      "https://taping-memory.dev/temporaries-rabbit-hole/"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 17:46:44",
       "https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are"
     ],
@@ -157,16 +167,6 @@
     [
       "Introducing tmux-rs",
       "https://richardscollin.github.io/tmux-rs/"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 14:56:29",
-      "https://lobste.rs/s/vz1z3u/taking_over_60k_spyware_user_accounts"
-    ],
-    [
-      "Taking over 60k spyware user accounts with SQL injection",
-      "https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/"
     ]
   ],
   [
