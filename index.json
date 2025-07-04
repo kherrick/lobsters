@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-04, 20:24:40",
+      "https://lobste.rs/s/741fnr/compact_bitset_implementation_used"
+    ],
+    [
+      "A compact bitset implementation used in Ocarina of Time save files",
+      "https://github.com/jb55/oot_bitset"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 20:07:41",
       "https://lobste.rs/s/xajz0a/gremllm_slight_upgrade_gremlins_your"
     ],
@@ -147,16 +157,6 @@
     [
       "A catamorphic lambda-calculus interpreter",
       "https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 23:59:49",
-      "https://lobste.rs/s/apuviy/tiny_great_languages_mouse"
-    ],
-    [
-      "Tiny Great Languages: MOUSE",
-      "https://zserge.com/posts/langs-mouse/"
     ]
   ],
   [
