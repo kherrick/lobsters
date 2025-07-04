@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-04, 06:31:33](https://lobste.rs/s/gzzo0m/catamorphic_lambda_calculus) - [A catamorphic lambda-calculus interpreter](https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html)
 * [2025-07-04, 02:46:34](https://lobste.rs/s/cdrqny/tools_code_is_all_you_need) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 23:59:49](https://lobste.rs/s/apuviy/tiny_great_languages_mouse) - [Tiny Great Languages: MOUSE](https://zserge.com/posts/langs-mouse/)
 * [2025-07-03, 23:05:10](https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
-* [2025-07-03, 22:21:12](https://lobste.rs/s/l4p4sc/coding_advent) - [Coding in Advent](https://panadestein.github.io/blog/posts/aoc24.html)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 20:04:25](https://lobste.rs/s/jh7knb/factor_problem_solving) - [Factor Problem Solving](https://github.com/Bubbler-4/factor-problem-solving)
