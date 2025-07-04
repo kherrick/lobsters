@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-03](index.md)
 
+* [2025-07-03, 23:59:49](https://lobste.rs/s/apuviy/tiny_great_languages_mouse) - [Tiny Great Languages: MOUSE](https://zserge.com/posts/langs-mouse/)
+* [2025-07-03, 23:58:36](https://lobste.rs/s/cnl1yz/anarchy_database_survey_evaluation) - [Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility](https://www.vldb.org/pvldb/volumes/18/paper/Anarchy%20in%20the%20Database%3A%20A%20Survey%20and%20Evaluation%20of%20Database%20Management%20System%20Extensibility)
 * [2025-07-03, 23:05:10](https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
 * [2025-07-03, 22:21:12](https://lobste.rs/s/l4p4sc/coding_advent) - [Coding in Advent](https://panadestein.github.io/blog/posts/aoc24.html)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
