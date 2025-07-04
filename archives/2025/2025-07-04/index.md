@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 21:29:45](https://lobste.rs/s/qso1sj/nvidia_is_full_shit) - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:31](https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for) - [iris: A neurosymbolic framework for vulnerability detection in code](https://github.com/iris-sast/iris)
 * [2025-07-04, 20:40:14](https://lobste.rs/s/zghfaj/riff_llms_are_software_diamonds) - [Riff: LLMs are Software Diamonds](https://www.evalapply.org/posts/llms-are-diamonds/index.html)
 * [2025-07-04, 20:24:40](https://lobste.rs/s/741fnr/compact_bitset_implementation_used) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
