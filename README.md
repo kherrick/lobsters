@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-04, 08:44:16](https://lobste.rs/s/chcyrx/nonce_csp_bypass_using_disk_cache) - [Nonce CSP bypass using Disk Cache](https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache)
 * [2025-07-04, 08:23:22](https://lobste.rs/s/glyhbl/steam_has_been_flooded_with_games_stolen) - [Steam has been flooded with games stolen from itch.io](https://www.gamepressure.com/newsroom/steam-is-dealing-with-spam-valves-platform-has-been-flooded-with/zb811a)
 * [2025-07-04, 07:59:02](https://lobste.rs/s/0szaso/zig_roadmap_2026) - [Zig Roadmap 2026](https://www.youtube.com/watch?v=x3hOiOcbgeA)
 * [2025-07-04, 07:58:51](https://lobste.rs/s/yb1elm/37_things_i_learned_about_information) - [37 Things I Learned About Information Retrieval in Two Years at a Vector Database Company](https://www.leoniemonigatti.com/blog/what_i_learned.html)
@@ -13,7 +14,6 @@
 * [2025-07-03, 19:49:02](https://lobste.rs/s/52gism/scary_surprisingly_deep_rabbit_hole_rust) - [The scary and surprisingly deep rabbit hole of Rust's temporaries](https://taping-memory.dev/temporaries-rabbit-hole/)
 * [2025-07-03, 17:46:44](https://lobste.rs/s/xdfydi/taming_agentic_engineering_prompts_are) - [Taming agentic engineering - Prompts are code, .json/.md files are state](https://mariozechner.at/posts/2025-06-02-prompts-are-code/)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
-* [2025-07-03, 16:41:47](https://lobste.rs/s/fbwzai/portability_tar_features) - [Portability of tar features](https://mgorny.pl/articles/portability-of-tar-features.html)
 * [2025-07-03, 14:56:29](https://lobste.rs/s/vz1z3u/taking_over_60k_spyware_user_accounts) - [Taking over 60k spyware user accounts with SQL injection](https://ericdaigle.ca/posts/taking-over-60k-spyware-user-accounts/)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 * [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
