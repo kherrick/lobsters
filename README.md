@@ -8,6 +8,7 @@
 * [2025-07-04, 02:46:34](https://lobste.rs/s/cdrqny/tools_code_is_all_you_need) - [Tools: Code Is All You Need](https://lucumr.pocoo.org/2025/7/3/tools/)
 * [2025-07-03, 23:59:49](https://lobste.rs/s/apuviy/tiny_great_languages_mouse) - [Tiny Great Languages: MOUSE](https://zserge.com/posts/langs-mouse/)
 * [2025-07-03, 23:05:10](https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why) - [Project Vend: Can Claude run a small shop? (And why does that matter?)](https://www.anthropic.com/research/project-vend-1)
+* [2025-07-03, 22:21:12](https://lobste.rs/s/l4p4sc/coding_advent) - [Coding in Advent](https://panadestein.github.io/blog/posts/aoc24.html)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 19:52:39](https://lobste.rs/s/8s8chj/our_fullstack_architecture_eta_htmx_lit) - [Our Fullstack Architecture: Eta, HTMX, and Lit](https://www.lorenstew.art/blog/eta-htmx-lit-stack)
@@ -24,7 +25,6 @@
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 * [2025-07-03, 01:40:11](https://lobste.rs/s/pdl32t/copyleft_next) - [copyleft-next](https://next.copyleft.org/)
 * [2025-07-02, 17:20:38](https://lobste.rs/s/tht66b/higgs_bugson_linux_kernel) - [A Higgs-bugson in the Linux Kernel](https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/)
-* [2025-07-02, 16:56:01](https://lobste.rs/s/tnvcca/this_overly_long_variable_name_could_have) - [This Overly Long Variable Name Could Have Been a Comment](https://jonathan-frere.com/posts/names-vs-comments/)
 
 ## [Archives](archives/index.md)
 
