@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-04, 21:11:31",
+      "https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for"
+    ],
+    [
+      "iris: A neurosymbolic framework for vulnerability detection in code",
+      "https://github.com/iris-sast/iris"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 20:40:14",
       "https://lobste.rs/s/zghfaj/riff_llms_are_software_diamonds"
     ],
@@ -127,16 +137,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 08:44:16",
-      "https://lobste.rs/s/chcyrx/nonce_csp_bypass_using_disk_cache"
-    ],
-    [
-      "Nonce CSP bypass using Disk Cache",
-      "https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache"
     ]
   ],
   [
