@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 19:11:19](https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish) - [mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk](https://codeberg.org/owl/mawkdown)
 * [2025-07-04, 18:13:53](https://lobste.rs/s/tk9rkb/eternal_mainframe) - [The Eternal Mainframe](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 * [2025-07-04, 17:54:39](https://lobste.rs/s/ljpllk/awesome_standards_curated_list) - [awesome-standards: A curated list of technical standards](https://github.com/donBarbos/awesome-standards)
 * [2025-07-04, 17:28:00](https://lobste.rs/s/dknqur/git_experts_should_try_jujutsu) - [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/)

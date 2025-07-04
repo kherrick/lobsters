@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-04, 19:11:19](https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish) - [mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk](https://codeberg.org/owl/mawkdown)
 * [2025-07-04, 18:13:53](https://lobste.rs/s/tk9rkb/eternal_mainframe) - [The Eternal Mainframe](https://www.winestockwebdesign.com/Essays/Eternal_Mainframe.html)
 * [2025-07-04, 17:54:39](https://lobste.rs/s/ljpllk/awesome_standards_curated_list) - [awesome-standards: A curated list of technical standards](https://github.com/donBarbos/awesome-standards)
 * [2025-07-04, 17:28:00](https://lobste.rs/s/dknqur/git_experts_should_try_jujutsu) - [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/)
@@ -22,7 +23,6 @@
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 * [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 * [2025-07-03, 12:46:13](https://lobste.rs/s/irjbzn/most_mysterious_bug_i_solved_at_work) - [The most mysterious bug I solved at work](https://cadence.moe/blog/2025-07-02-the-most-mysterious-bug-i-solved-at-work)
-* [2025-07-03, 12:22:38](https://lobste.rs/s/zslatp/goharddrive_leaked_personal_data_for) - [goHardDrive Leaked Personal Data for Thousands of Customers](https://mtlynch.io/goharddrive-leak/)
 * [2025-07-03, 09:05:41](https://lobste.rs/s/wiu8md/writing_code_was_never_bottleneck) - [Writing Code Was Never The Bottleneck](https://ordep.dev/posts/writing-code-was-never-the-bottleneck)
 * [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 
