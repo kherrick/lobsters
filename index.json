@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-07-03, 23:58:36",
-      "https://lobste.rs/s/cnl1yz/anarchy_database_survey_evaluation"
-    ],
-    [
-      "Anarchy in the Database: A Survey and Evaluation of Database Management System Extensibility",
-      "https://www.vldb.org/pvldb/volumes/18/paper/Anarchy%20in%20the%20Database%3A%20A%20Survey%20and%20Evaluation%20of%20Database%20Management%20System%20Extensibility"
-    ]
-  ],
-  [
-    [
       "2025-07-03, 23:05:10",
       "https://lobste.rs/s/m8wmha/project_vend_can_claude_run_small_shop_why"
     ],
     [
       "Project Vend: Can Claude run a small shop? (And why does that matter?)",
       "https://www.anthropic.com/research/project-vend-1"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 22:21:12",
+      "https://lobste.rs/s/l4p4sc/coding_advent"
+    ],
+    [
+      "Coding in Advent",
+      "https://panadestein.github.io/blog/posts/aoc24.html"
     ]
   ],
   [
@@ -51,12 +51,22 @@
   ],
   [
     [
-      "2025-07-03, 20:04:25",
-      "https://lobste.rs/s/jh7knb/factor_problem_solving"
+      "2025-07-03, 19:52:39",
+      "https://lobste.rs/s/8s8chj/our_fullstack_architecture_eta_htmx_lit"
     ],
     [
-      "Factor Problem Solving",
-      "https://github.com/Bubbler-4/factor-problem-solving"
+      "Our Fullstack Architecture: Eta, HTMX, and Lit",
+      "https://www.lorenstew.art/blog/eta-htmx-lit-stack"
+    ]
+  ],
+  [
+    [
+      "2025-07-03, 19:49:02",
+      "https://lobste.rs/s/52gism/scary_surprisingly_deep_rabbit_hole_rust"
+    ],
+    [
+      "The scary and surprisingly deep rabbit hole of Rust's temporaries",
+      "https://taping-memory.dev/temporaries-rabbit-hole/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Why I'm Dialing Back My LLM Usage",
       "https://zed.dev/blog/dialing-back-my-llm-usage-with-alberto-fortin"
-    ]
-  ],
-  [
-    [
-      "2025-07-02, 18:12:32",
-      "https://lobste.rs/s/7abrl9/500x_faster_four_different_ways_speed_up"
-    ],
-    [
-      "500× faster: Four different ways to speed up your code",
-      "https://pythonspeed.com/articles/different-ways-speed/"
     ]
   ],
   [
