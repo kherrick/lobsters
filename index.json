@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-04, 06:31:33",
+      "https://lobste.rs/s/gzzo0m/catamorphic_lambda_calculus"
+    ],
+    [
+      "A catamorphic lambda-calculus interpreter",
+      "https://www.michaelpj.com/blog/2018/04/08/catamorphic-lc-interpreter.html"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 02:46:34",
       "https://lobste.rs/s/cdrqny/tools_code_is_all_you_need"
     ],
@@ -27,16 +37,6 @@
     [
       "Project Vend: Can Claude run a small shop? (And why does that matter?)",
       "https://www.anthropic.com/research/project-vend-1"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 22:21:12",
-      "https://lobste.rs/s/l4p4sc/coding_advent"
-    ],
-    [
-      "Coding in Advent",
-      "https://panadestein.github.io/blog/posts/aoc24.html"
     ]
   ],
   [
