@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-04, 21:11:31](https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for) - [iris: A neurosymbolic framework for vulnerability detection in code](https://github.com/iris-sast/iris)
 * [2025-07-04, 20:40:14](https://lobste.rs/s/zghfaj/riff_llms_are_software_diamonds) - [Riff: LLMs are Software Diamonds](https://www.evalapply.org/posts/llms-are-diamonds/index.html)
 * [2025-07-04, 20:24:40](https://lobste.rs/s/741fnr/compact_bitset_implementation_used) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
 * [2025-07-04, 20:07:41](https://lobste.rs/s/xajz0a/gremllm_slight_upgrade_gremlins_your) - [gremllm: A slight upgrade to the Gremlins in your code](https://github.com/awwaiid/gremllm)
@@ -13,7 +14,6 @@
 * [2025-07-04, 13:57:38](https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 * [2025-07-04, 13:38:51](https://lobste.rs/s/765brx/getting_extensions_work_with_free) - [Getting extensions to work with free-threaded Python](https://lwn.net/Articles/1025893/)
 * [2025-07-04, 10:38:54](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend)
-* [2025-07-04, 08:44:16](https://lobste.rs/s/chcyrx/nonce_csp_bypass_using_disk_cache) - [Nonce CSP bypass using Disk Cache](https://jorianwoltjer.com/blog/p/research/nonce-csp-bypass-using-disk-cache)
 * [2025-07-04, 08:27:02](https://lobste.rs/s/wphcsj/rise_whatever) - [The rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
 * [2025-07-04, 07:59:02](https://lobste.rs/s/0szaso/zig_roadmap_2026) - [Zig Roadmap 2026](https://www.youtube.com/watch?v=x3hOiOcbgeA)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
