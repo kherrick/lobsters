@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-04, 17:28:00",
+      "https://lobste.rs/s/dknqur/git_experts_should_try_jujutsu"
+    ],
+    [
+      "Git experts should try Jujutsu",
+      "https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/"
+    ]
+  ],
+  [
+    [
       "2025-07-04, 17:09:51",
       "https://lobste.rs/s/zhiv3y/supposedly_worthwhile_contract_i_ll"
     ],
@@ -217,16 +227,6 @@
     [
       "Writing Code Was Never The Bottleneck",
       "https://ordep.dev/posts/writing-code-was-never-the-bottleneck"
-    ]
-  ],
-  [
-    [
-      "2025-07-03, 08:47:38",
-      "https://lobste.rs/s/rpb1g7/rfc_9799_acme_extensions_for_onion"
-    ],
-    [
-      "RFC 9799: ACME Extensions for \".onion\"",
-      "https://datatracker.ietf.org/doc/rfc9799/"
     ]
   ],
   [
