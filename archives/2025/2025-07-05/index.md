@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 16:45:25](https://lobste.rs/s/zvolak/broken_ai_discourse_with_steve_klabnik) - [Broken AI Discourse with Steve Klabnik](https://www.youtube.com/watch?v=MrfiUMm2Qxk)
+* [2025-07-05, 16:36:32](https://lobste.rs/s/gzexuv/calculator_on_chip_2015) - [The Calculator-on-a-Chip (2015)](http://www.vintagecalculators.com/html/the_calculator-on-a-chip.html)
 * [2025-07-05, 14:27:06](https://lobste.rs/s/0rafzx/4096_colours_blink_attribute) - [4096 colours and the blink attribute](https://research.exoticsilicon.com/articles/console_4096)
 * [2025-07-05, 14:22:54](https://lobste.rs/s/l40grb/openmw_0_49_0_released) - [OpenMW 0.49.0 Released](https://openmw.org/2025/openmw-0-49-0-released/)
 * [2025-07-05, 14:21:57](https://lobste.rs/s/c55zkg/using_ai_makes_your_brain_lazy_even_after) - [Using AI Makes Your Brain Lazy, Even After You Stop Using It, New Study Shows](https://www.youtube.com/watch?v=H3_6sRXr16M)

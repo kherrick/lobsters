@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-05, 16:45:25](https://lobste.rs/s/zvolak/broken_ai_discourse_with_steve_klabnik) - [Broken AI Discourse with Steve Klabnik](https://www.youtube.com/watch?v=MrfiUMm2Qxk)
+* [2025-07-05, 16:36:32](https://lobste.rs/s/gzexuv/calculator_on_chip_2015) - [The Calculator-on-a-Chip (2015)](http://www.vintagecalculators.com/html/the_calculator-on-a-chip.html)
 * [2025-07-05, 14:27:06](https://lobste.rs/s/0rafzx/4096_colours_blink_attribute) - [4096 colours and the blink attribute](https://research.exoticsilicon.com/articles/console_4096)
 * [2025-07-05, 14:22:54](https://lobste.rs/s/l40grb/openmw_0_49_0_released) - [OpenMW 0.49.0 Released](https://openmw.org/2025/openmw-0-49-0-released/)
 * [2025-07-05, 14:21:57](https://lobste.rs/s/c55zkg/using_ai_makes_your_brain_lazy_even_after) - [Using AI Makes Your Brain Lazy, Even After You Stop Using It, New Study Shows](https://www.youtube.com/watch?v=H3_6sRXr16M)
@@ -12,7 +14,6 @@
 * [2025-07-05, 01:34:23](https://lobste.rs/s/oj22jk/apl87) - [apl87](https://www.jsoftware.com/papers/APL87.htm)
 * [2025-07-05, 00:36:20](https://lobste.rs/s/azrt2y/actix_passport_comprehensive_flexible) - [actix-passport: A comprehensive, flexible authentication framework for actix-web](https://github.com/densumesh/actix-passport)
 * [2025-07-04, 23:55:20](https://lobste.rs/s/9isitx/ittage_indirect_branch_predictor) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
-* [2025-07-04, 22:08:03](https://lobste.rs/s/hbdp4r/godel_s_beavers_limits_knowledge) - [Gödel's beavers, or the limits of knowledge](https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers)
 * [2025-07-04, 21:29:45](https://lobste.rs/s/qso1sj/nvidia_is_full_shit) - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 20:24:40](https://lobste.rs/s/741fnr/compact_bitset_implementation_used) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
 * [2025-07-04, 19:11:19](https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish) - [mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk](https://codeberg.org/owl/mawkdown)
@@ -21,7 +22,6 @@
 * [2025-07-04, 17:09:51](https://lobste.rs/s/zhiv3y/supposedly_worthwhile_contract_i_ll) - [A supposedly worthwhile contract I'll never do again](https://ahelwer.ca/post/2025-07-04-tla-contracts/)
 * [2025-07-04, 15:05:00](https://lobste.rs/s/f7dyjt/compression_dictionary_transport) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
 * [2025-07-04, 13:57:38](https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
-* [2025-07-04, 10:38:54](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend)
 * [2025-07-04, 08:27:02](https://lobste.rs/s/wphcsj/rise_whatever) - [The rise of Whatever](https://eev.ee/blog/2025/07/03/the-rise-of-whatever/)
 * [2025-07-04, 07:59:02](https://lobste.rs/s/0szaso/zig_roadmap_2026) - [Zig Roadmap 2026](https://www.youtube.com/watch?v=x3hOiOcbgeA)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
