@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-05, 00:36:20](https://lobste.rs/s/azrt2y/actix_passport_comprehensive_flexible) - [actix-passport: A comprehensive, flexible authentication framework for actix-web](https://github.com/densumesh/actix-passport)
+* [2025-07-04, 23:55:20](https://lobste.rs/s/9isitx/ittage_indirect_branch_predictor) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 22:08:03](https://lobste.rs/s/hbdp4r/godel_s_beavers_limits_knowledge) - [Gödel's beavers, or the limits of knowledge](https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers)
 * [2025-07-04, 21:29:45](https://lobste.rs/s/qso1sj/nvidia_is_full_shit) - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:31](https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for) - [iris: A neurosymbolic framework for vulnerability detection in code](https://github.com/iris-sast/iris)
@@ -12,7 +14,6 @@
 * [2025-07-04, 17:28:00](https://lobste.rs/s/dknqur/git_experts_should_try_jujutsu) - [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/)
 * [2025-07-04, 17:09:51](https://lobste.rs/s/zhiv3y/supposedly_worthwhile_contract_i_ll) - [A supposedly worthwhile contract I'll never do again](https://ahelwer.ca/post/2025-07-04-tla-contracts/)
 * [2025-07-04, 15:05:00](https://lobste.rs/s/f7dyjt/compression_dictionary_transport) - [Compression Dictionary Transport](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Compression_dictionary_transport)
-* [2025-07-04, 15:02:48](https://lobste.rs/s/s3lg4g/one_billion_cells_another_multiplayer) - [One Billion Cells, Another Multiplayer Demo with Clojure](https://cells.andersmurphy.com/)
 * [2025-07-04, 13:57:38](https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 * [2025-07-04, 13:38:51](https://lobste.rs/s/765brx/getting_extensions_work_with_free) - [Getting extensions to work with free-threaded Python](https://lwn.net/Articles/1025893/)
 * [2025-07-04, 10:38:54](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zixaut/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 * [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
-* [2025-07-03, 07:59:55](https://lobste.rs/s/rxdnnq/introducing_first_alpha_turso_next) - [Introducing the first alpha of Turso: The next evolution of SQLite](https://turso.tech/blog/turso-the-next-evolution-of-sqlite?ref=console.dev)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-04](index.md)
 
+* [2025-07-04, 23:55:20](https://lobste.rs/s/9isitx/ittage_indirect_branch_predictor) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 22:08:03](https://lobste.rs/s/hbdp4r/godel_s_beavers_limits_knowledge) - [Gödel's beavers, or the limits of knowledge](https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers)
 * [2025-07-04, 21:29:45](https://lobste.rs/s/qso1sj/nvidia_is_full_shit) - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:31](https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for) - [iris: A neurosymbolic framework for vulnerability detection in code](https://github.com/iris-sast/iris)
