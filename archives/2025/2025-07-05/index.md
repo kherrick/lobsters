@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 19:03:48](https://lobste.rs/s/0qlwxf/fixing_web) - [Fixing the Web?](https://www.youtube.com/watch?v=9NDkOehZUGs)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
 * [2025-07-05, 18:41:37](https://lobste.rs/s/irlurx/kde_plasma_6_4_has_landed_openbsd) - [KDE Plasma 6.4 has landed in OpenBSD](https://undeadly.org/cgi?action=article;sid=20250705081711)
 * [2025-07-05, 18:15:19](https://lobste.rs/s/d9ocg5/messy_reality_simd_vector_functions) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions)
