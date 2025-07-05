@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 14:27:06](https://lobste.rs/s/0rafzx/4096_colours_blink_attribute) - [4096 colours and the blink attribute](https://research.exoticsilicon.com/articles/console_4096)
+* [2025-07-05, 14:22:54](https://lobste.rs/s/l40grb/openmw_0_49_0_released) - [OpenMW 0.49.0 Released](https://openmw.org/2025/openmw-0-49-0-released/)
+* [2025-07-05, 14:21:57](https://lobste.rs/s/c55zkg/using_ai_makes_your_brain_lazy_even_after) - [Using AI Makes Your Brain Lazy, Even After You Stop Using It, New Study Shows](https://www.youtube.com/watch?v=H3_6sRXr16M)
 * [2025-07-05, 14:10:17](https://lobste.rs/s/9ex6hs/reflections_on_2_years_cpython_s_jit) - [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
 * [2025-07-05, 14:08:26](https://lobste.rs/s/s9a1zl/bgcmd_let_ai_interact_with_any_repl) - [bgcmd: let AI interact with any REPL](https://github.com/izabera/bgcmd)
 * [2025-07-05, 13:14:50](https://lobste.rs/s/ncyfcp/anubis_pilot_project_report_june_2025) - [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
