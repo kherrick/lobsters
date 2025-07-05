@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 09:54:42](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use) - [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
 * [2025-07-05, 09:19:28](https://lobste.rs/s/hpplmq/making_language_models_play_baba_is_you) - [Making Language Models Play Baba is You](https://fi-le.net/baba/)
 * [2025-07-05, 07:01:01](https://lobste.rs/s/tawqoz/ai_s_great_brain_robbery_how_universities) - [AI’s great brain robbery — and how universities can fight back](https://www.thetimes.com/comment/columnists/article/ai-brain-robbery-universities-chatgpt-c6lr03dlz)
 * [2025-07-05, 01:34:23](https://lobste.rs/s/oj22jk/apl87) - [apl87](https://www.jsoftware.com/papers/APL87.htm)

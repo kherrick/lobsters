@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-05, 09:54:42](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use) - [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
 * [2025-07-05, 09:19:28](https://lobste.rs/s/hpplmq/making_language_models_play_baba_is_you) - [Making Language Models Play Baba is You](https://fi-le.net/baba/)
 * [2025-07-05, 07:01:01](https://lobste.rs/s/tawqoz/ai_s_great_brain_robbery_how_universities) - [AI’s great brain robbery — and how universities can fight back](https://www.thetimes.com/comment/columnists/article/ai-brain-robbery-universities-chatgpt-c6lr03dlz)
 * [2025-07-05, 01:34:23](https://lobste.rs/s/oj22jk/apl87) - [apl87](https://www.jsoftware.com/papers/APL87.htm)
@@ -7,7 +8,6 @@
 * [2025-07-04, 23:55:20](https://lobste.rs/s/9isitx/ittage_indirect_branch_predictor) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 21:29:45](https://lobste.rs/s/qso1sj/nvidia_is_full_shit) - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:31](https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for) - [iris: A neurosymbolic framework for vulnerability detection in code](https://github.com/iris-sast/iris)
-* [2025-07-04, 20:40:14](https://lobste.rs/s/zghfaj/riff_llms_are_software_diamonds) - [Riff: LLMs are Software Diamonds](https://www.evalapply.org/posts/llms-are-diamonds/index.html)
 * [2025-07-04, 20:24:40](https://lobste.rs/s/741fnr/compact_bitset_implementation_used) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
 * [2025-07-04, 20:07:41](https://lobste.rs/s/xajz0a/gremllm_slight_upgrade_gremlins_your) - [gremllm: A slight upgrade to the Gremlins in your code](https://github.com/awwaiid/gremllm)
 * [2025-07-04, 19:11:19](https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish) - [mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk](https://codeberg.org/owl/mawkdown)
