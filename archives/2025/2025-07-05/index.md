@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-05](index.md)
 
+* [2025-07-05, 22:34:07](https://lobste.rs/s/gcj9v0/operators_not_users_programmers) - [operators, not users and programmers](https://jyn.dev/operators-not-users-and-programmers/)
 * [2025-07-05, 20:39:01](https://lobste.rs/s/gtud3y/approach_llms_other_reflections) - [Approach to LLMs and Other Reflections](https://matttproud.com/blog/posts/approach-to-llm.html)
 * [2025-07-05, 19:03:48](https://lobste.rs/s/0qlwxf/fixing_web) - [Fixing the Web?](https://www.youtube.com/watch?v=9NDkOehZUGs)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
