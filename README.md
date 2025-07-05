@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-05, 01:34:23](https://lobste.rs/s/oj22jk/apl87) - [apl87](https://www.jsoftware.com/papers/APL87.htm)
 * [2025-07-05, 00:36:20](https://lobste.rs/s/azrt2y/actix_passport_comprehensive_flexible) - [actix-passport: A comprehensive, flexible authentication framework for actix-web](https://github.com/densumesh/actix-passport)
 * [2025-07-04, 23:55:20](https://lobste.rs/s/9isitx/ittage_indirect_branch_predictor) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
 * [2025-07-04, 22:08:03](https://lobste.rs/s/hbdp4r/godel_s_beavers_limits_knowledge) - [Gödel's beavers, or the limits of knowledge](https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers)
@@ -21,7 +22,6 @@
 * [2025-07-04, 07:59:02](https://lobste.rs/s/0szaso/zig_roadmap_2026) - [Zig Roadmap 2026](https://www.youtube.com/watch?v=x3hOiOcbgeA)
 * [2025-07-03, 22:05:56](https://lobste.rs/s/seqz3x/writing_little_gosh) - [writing a little gosh](https://flak.tedunangst.com/post/writing-a-gosh)
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
-* [2025-07-03, 19:52:39](https://lobste.rs/s/8s8chj/our_fullstack_architecture_eta_htmx_lit) - [Our Fullstack Architecture: Eta, HTMX, and Lit](https://www.lorenstew.art/blog/eta-htmx-lit-stack)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 * [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
