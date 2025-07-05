@@ -6,6 +6,7 @@
 * [2025-07-05, 01:34:23](https://lobste.rs/s/oj22jk/apl87) - [apl87](https://www.jsoftware.com/papers/APL87.htm)
 * [2025-07-05, 00:36:20](https://lobste.rs/s/azrt2y/actix_passport_comprehensive_flexible) - [actix-passport: A comprehensive, flexible authentication framework for actix-web](https://github.com/densumesh/actix-passport)
 * [2025-07-04, 23:55:20](https://lobste.rs/s/9isitx/ittage_indirect_branch_predictor) - [The ITTAGE indirect branch predictor](https://blog.nelhage.com/post/ittage-branch-predictor/)
+* [2025-07-04, 22:08:03](https://lobste.rs/s/hbdp4r/godel_s_beavers_limits_knowledge) - [Gödel's beavers, or the limits of knowledge](https://lcamtuf.substack.com/p/monkeys-typewriters-and-busy-beavers)
 * [2025-07-04, 21:29:45](https://lobste.rs/s/qso1sj/nvidia_is_full_shit) - [NVIDIA is full of shit](https://blog.sebin-nyshkim.net/posts/nvidia-is-full-of-shit/)
 * [2025-07-04, 21:11:31](https://lobste.rs/s/y3vhgx/iris_neurosymbolic_framework_for) - [iris: A neurosymbolic framework for vulnerability detection in code](https://github.com/iris-sast/iris)
 * [2025-07-04, 20:24:40](https://lobste.rs/s/741fnr/compact_bitset_implementation_used) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
@@ -24,7 +25,6 @@
 * [2025-07-03, 20:23:30](https://lobste.rs/s/yx4f4i/when_ai_codes_what_s_left_for_me) - [When AI Codes, What’s Left for me?](https://corecursive.com/coding-agents/)
 * [2025-07-03, 17:11:33](https://lobste.rs/s/yncgug/introducing_tmux_rs) - [Introducing tmux-rs](https://richardscollin.github.io/tmux-rs/)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
-* [2025-07-03, 13:07:52](https://lobste.rs/s/msjy28/10_features_d_i_love) - [10 features of D that I love](https://bradley.chatha.dev/blog/dlang-propaganda/features-of-d-that-i-love/)
 
 ## [Archives](archives/index.md)
 
