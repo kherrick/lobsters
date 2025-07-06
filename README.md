@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 18:38:05](https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
 * [2025-07-06, 17:21:35](https://lobste.rs/s/8wkt7e/what_is_opentelemetry_basic_guide) - [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
 * [2025-07-06, 16:51:07](https://lobste.rs/s/dvmslk/apple_pay_vs_alternative_payment) - [Apple Pay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
@@ -19,7 +20,6 @@
 * [2025-07-05, 16:45:25](https://lobste.rs/s/zvolak/broken_ai_discourse_with_steve_klabnik) - [Broken AI Discourse with Steve Klabnik](https://www.youtube.com/watch?v=MrfiUMm2Qxk)
 * [2025-07-05, 14:22:54](https://lobste.rs/s/l40grb/openmw_0_49_0_released) - [OpenMW 0.49.0 Released](https://openmw.org/2025/openmw-0-49-0-released/)
 * [2025-07-05, 14:10:17](https://lobste.rs/s/9ex6hs/reflections_on_2_years_cpython_s_jit) - [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
-* [2025-07-05, 14:08:26](https://lobste.rs/s/s9a1zl/bgcmd_let_ai_interact_with_any_repl) - [bgcmd: let AI interact with any REPL](https://github.com/izabera/bgcmd)
 * [2025-07-05, 13:14:50](https://lobste.rs/s/ncyfcp/anubis_pilot_project_report_june_2025) - [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
 * [2025-07-05, 11:43:59](https://lobste.rs/s/9rdvyj/recent_archive_our_own_outage_was_caused) - [Recent Archive of Our Own outage was caused by integer exhaustion](https://otwarchive.atlassian.net/jira/software/c/projects/AO3/issues/AO3-7031?jql=project%20%3D%20%22AO3%22%20ORDER%20BY%20created%20DESC)
 * [2025-07-05, 09:54:42](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use) - [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
