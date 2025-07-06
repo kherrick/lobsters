@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 23:02:55](https://lobste.rs/s/im0hc6/russ_cox_solves_aoc_2021_day_24_using_go) - [Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]](https://www.youtube.com/watch?v=hmq6veCFo0Y)
 * [2025-07-06, 21:44:16](https://lobste.rs/s/whgc4d/building_rust_compiler_with_gcc) - [Building the Rust compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 * [2025-07-06, 21:00:54](https://lobste.rs/s/umr8oo/theory_building_without_mentor) - [theory building without a mentor](https://jyn.dev/theory-building-without-a-mentor/)
 * [2025-07-06, 20:22:46](https://lobste.rs/s/6jzlj0/linux_portable_operating_system_1997) - [Linux: a Portable Operating System (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
@@ -24,7 +25,6 @@
 * [2025-07-05, 18:41:37](https://lobste.rs/s/irlurx/kde_plasma_6_4_has_landed_openbsd) - [KDE Plasma 6.4 has landed in OpenBSD](https://undeadly.org/cgi?action=article;sid=20250705081711)
 * [2025-07-05, 14:10:17](https://lobste.rs/s/9ex6hs/reflections_on_2_years_cpython_s_jit) - [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
 * [2025-07-05, 13:14:50](https://lobste.rs/s/ncyfcp/anubis_pilot_project_report_june_2025) - [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
-* [2025-07-05, 11:43:59](https://lobste.rs/s/9rdvyj/recent_archive_our_own_outage_was_caused) - [Recent Archive of Our Own outage was caused by integer exhaustion](https://otwarchive.atlassian.net/jira/software/c/projects/AO3/issues/AO3-7031?jql=project%20%3D%20%22AO3%22%20ORDER%20BY%20created%20DESC)
 
 ## [Archives](archives/index.md)
 

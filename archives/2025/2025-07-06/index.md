@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 23:02:55](https://lobste.rs/s/im0hc6/russ_cox_solves_aoc_2021_day_24_using_go) - [Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]](https://www.youtube.com/watch?v=hmq6veCFo0Y)
 * [2025-07-06, 21:44:16](https://lobste.rs/s/whgc4d/building_rust_compiler_with_gcc) - [Building the Rust compiler with GCC](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap.html)
 * [2025-07-06, 21:00:54](https://lobste.rs/s/umr8oo/theory_building_without_mentor) - [theory building without a mentor](https://jyn.dev/theory-building-without-a-mentor/)
 * [2025-07-06, 20:22:46](https://lobste.rs/s/6jzlj0/linux_portable_operating_system_1997) - [Linux: a Portable Operating System (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
