@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 16:51:07](https://lobste.rs/s/dvmslk/apple_pay_vs_alternative_payment) - [Apple Pay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
+* [2025-07-06, 16:50:57](https://lobste.rs/s/gotjgh/quickly_converitng_djot_html_mathml) - [quickly converitng djot to html+mathml](https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html)
 * [2025-07-06, 16:09:51](https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities) - [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
 * [2025-07-06, 09:52:46](https://lobste.rs/s/woinvj/readline_v8_3_release) - [Readline v8.3 release](https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html)
 * [2025-07-06, 09:11:57](https://lobste.rs/s/msqhq3/i_built_gadzetto_com_single_day_using) - [I built Gadzetto.com in a single day using ChatGPT](https://gadzetto.com)
