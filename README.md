@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 19:25:07](https://lobste.rs/s/bfswxu/real_genai_issue) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 19:03:57](https://lobste.rs/s/wwifcy/coalton_toward_safe_flexible_efficient) - [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
 * [2025-07-06, 18:50:34](https://lobste.rs/s/1t3bny/micro_common_lisp) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 18:38:05](https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
@@ -17,7 +18,6 @@
 * [2025-07-05, 23:49:26](https://lobste.rs/s/t6rshk/160_core_risc_v_supercluster_on_single_m_2) - [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
 * [2025-07-05, 18:41:37](https://lobste.rs/s/irlurx/kde_plasma_6_4_has_landed_openbsd) - [KDE Plasma 6.4 has landed in OpenBSD](https://undeadly.org/cgi?action=article;sid=20250705081711)
-* [2025-07-05, 18:15:19](https://lobste.rs/s/d9ocg5/messy_reality_simd_vector_functions) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions)
 * [2025-07-05, 16:45:25](https://lobste.rs/s/zvolak/broken_ai_discourse_with_steve_klabnik) - [Broken AI Discourse with Steve Klabnik](https://www.youtube.com/watch?v=MrfiUMm2Qxk)
 * [2025-07-05, 14:22:54](https://lobste.rs/s/l40grb/openmw_0_49_0_released) - [OpenMW 0.49.0 Released](https://openmw.org/2025/openmw-0-49-0-released/)
 * [2025-07-05, 14:10:17](https://lobste.rs/s/9ex6hs/reflections_on_2_years_cpython_s_jit) - [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly](https://fidget-spinner.github.io/posts/jit-reflections.html)
