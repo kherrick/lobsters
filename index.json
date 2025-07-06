@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-06, 09:52:46",
+      "https://lobste.rs/s/woinvj/readline_v8_3_release"
+    ],
+    [
+      "Readline v8.3 release",
+      "https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 09:11:57",
       "https://lobste.rs/s/msqhq3/i_built_gadzetto_com_single_day_using"
     ],
@@ -197,16 +207,6 @@
     [
       "What clever tools/workflows do you use to manage development environments?",
       "https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use"
-    ]
-  ],
-  [
-    [
-      "2025-07-04, 19:11:19",
-      "https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish"
-    ],
-    [
-      "mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk",
-      "https://codeberg.org/owl/mawkdown"
     ]
   ],
   [
