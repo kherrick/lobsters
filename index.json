@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-06, 18:38:05",
+      "https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen"
+    ],
+    [
+      "Progress report on rustc_codegen_cranelift (June 2025)",
+      "https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 17:29:57",
       "https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad"
     ],
@@ -187,16 +197,6 @@
     [
       "Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly",
       "https://fidget-spinner.github.io/posts/jit-reflections.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 14:08:26",
-      "https://lobste.rs/s/s9a1zl/bgcmd_let_ai_interact_with_any_repl"
-    ],
-    [
-      "bgcmd: let AI interact with any REPL",
-      "https://github.com/izabera/bgcmd"
     ]
   ],
   [
