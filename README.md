@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 16:09:51](https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities) - [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
 * [2025-07-06, 09:52:46](https://lobste.rs/s/woinvj/readline_v8_3_release) - [Readline v8.3 release](https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html)
 * [2025-07-06, 09:09:51](https://lobste.rs/s/msogci/unsoundness_accidental_features_target) - [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
 * [2025-07-06, 08:23:59](https://lobste.rs/s/mgwxnc/overthinking_gis) - [Overthinking GIS](https://scottsexton.co/post/overthinking_gis/)
@@ -8,7 +9,6 @@
 * [2025-07-06, 02:58:57](https://lobste.rs/s/7o4w5p/serving_200_million_requests_per_day_with) - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 * [2025-07-05, 23:49:26](https://lobste.rs/s/t6rshk/160_core_risc_v_supercluster_on_single_m_2) - [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
 * [2025-07-05, 22:34:07](https://lobste.rs/s/gcj9v0/operators_not_users_programmers) - [operators, not users and programmers](https://jyn.dev/operators-not-users-and-programmers/)
-* [2025-07-05, 19:03:48](https://lobste.rs/s/0qlwxf/fixing_web) - [Fixing the Web?](https://www.youtube.com/watch?v=9NDkOehZUGs)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
 * [2025-07-05, 18:41:37](https://lobste.rs/s/irlurx/kde_plasma_6_4_has_landed_openbsd) - [KDE Plasma 6.4 has landed in OpenBSD](https://undeadly.org/cgi?action=article;sid=20250705081711)
 * [2025-07-05, 18:15:19](https://lobste.rs/s/d9ocg5/messy_reality_simd_vector_functions) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions)
