@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
+* [2025-07-06, 17:21:35](https://lobste.rs/s/8wkt7e/what_is_opentelemetry_basic_guide) - [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
 * [2025-07-06, 16:51:07](https://lobste.rs/s/dvmslk/apple_pay_vs_alternative_payment) - [Apple Pay vs. Alternative Payment Services](https://www.taler.net/en/news/2025-05.html)
 * [2025-07-06, 16:50:57](https://lobste.rs/s/gotjgh/quickly_converitng_djot_html_mathml) - [quickly converitng djot to html+mathml](https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html)
 * [2025-07-06, 16:09:51](https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities) - [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
@@ -22,8 +24,6 @@
 * [2025-07-05, 11:43:59](https://lobste.rs/s/9rdvyj/recent_archive_our_own_outage_was_caused) - [Recent Archive of Our Own outage was caused by integer exhaustion](https://otwarchive.atlassian.net/jira/software/c/projects/AO3/issues/AO3-7031?jql=project%20%3D%20%22AO3%22%20ORDER%20BY%20created%20DESC)
 * [2025-07-05, 09:54:42](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use) - [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
 * [2025-07-04, 17:28:00](https://lobste.rs/s/dknqur/git_experts_should_try_jujutsu) - [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/)
-* [2025-07-04, 17:09:51](https://lobste.rs/s/zhiv3y/supposedly_worthwhile_contract_i_ll) - [A supposedly worthwhile contract I'll never do again](https://ahelwer.ca/post/2025-07-04-tla-contracts/)
-* [2025-07-04, 13:57:38](https://lobste.rs/s/1enkhd/i_want_leave_tech_what_do_i_do) - [I want to leave tech: what do I do?](https://write.as/conjure-utopia/lets-say-youre-working-in-tech-and-you-have-a-technical-role-youre-a)
 * [2025-07-03, 14:16:06](https://lobste.rs/s/8we4dn/lucky_13_lobsters) - [Lucky 13 Lobsters](https://lobste.rs/s/8we4dn/lucky_13_lobsters)
 
 ## [Archives](archives/index.md)
