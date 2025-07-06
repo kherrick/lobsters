@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 06:29:19](https://lobste.rs/s/lyzca7/open_webui_changed_its_license_open_webui) - [Open WebUI changed its license to Open WebUI License with a CLA](https://github.com/open-webui/docs/blob/main/docs/license.mdx)
 * [2025-07-06, 05:19:30](https://lobste.rs/s/udyowm/decker_fantasy_camp) - [Decker Fantasy Camp](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
 * [2025-07-06, 02:58:57](https://lobste.rs/s/7o4w5p/serving_200_million_requests_per_day_with) - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 * [2025-07-05, 23:49:26](https://lobste.rs/s/t6rshk/160_core_risc_v_supercluster_on_single_m_2) - [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
@@ -18,7 +19,6 @@
 * [2025-07-05, 13:14:50](https://lobste.rs/s/ncyfcp/anubis_pilot_project_report_june_2025) - [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
 * [2025-07-05, 11:43:59](https://lobste.rs/s/9rdvyj/recent_archive_our_own_outage_was_caused) - [Recent Archive of Our Own outage was caused by integer exhaustion](https://otwarchive.atlassian.net/jira/software/c/projects/AO3/issues/AO3-7031?jql=project%20%3D%20%22AO3%22%20ORDER%20BY%20created%20DESC)
 * [2025-07-05, 09:54:42](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use) - [What clever tools/workflows do you use to manage development environments?](https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use)
-* [2025-07-05, 09:19:28](https://lobste.rs/s/hpplmq/making_language_models_play_baba_is_you) - [Making Language Models Play Baba is You](https://fi-le.net/baba/)
 * [2025-07-04, 20:24:40](https://lobste.rs/s/741fnr/compact_bitset_implementation_used) - [A compact bitset implementation used in Ocarina of Time save files](https://github.com/jb55/oot_bitset)
 * [2025-07-04, 19:11:19](https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish) - [mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk](https://codeberg.org/owl/mawkdown)
 * [2025-07-04, 17:28:00](https://lobste.rs/s/dknqur/git_experts_should_try_jujutsu) - [Git experts should try Jujutsu](https://pksunkara.com/thoughts/git-experts-should-try-jujutsu/)
