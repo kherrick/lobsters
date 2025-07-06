@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-07-06, 09:11:57",
-      "https://lobste.rs/s/msqhq3/i_built_gadzetto_com_single_day_using"
-    ],
-    [
-      "I built Gadzetto.com in a single day using ChatGPT",
-      "https://gadzetto.com"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 09:09:51",
       "https://lobste.rs/s/msogci/unsoundness_accidental_features_target"
     ],
@@ -207,6 +197,16 @@
     [
       "What clever tools/workflows do you use to manage development environments?",
       "https://lobste.rs/s/zupgan/what_clever_tools_workflows_do_you_use"
+    ]
+  ],
+  [
+    [
+      "2025-07-04, 19:11:19",
+      "https://lobste.rs/s/qvz4iu/mawkdown_lightweight_line_oriented_ish"
+    ],
+    [
+      "mawkdown, a lightweight, line-oriented(ish) text markup tool implemented in awk",
+      "https://codeberg.org/owl/mawkdown"
     ]
   ],
   [
