@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 09:52:46](https://lobste.rs/s/woinvj/readline_v8_3_release) - [Readline v8.3 release](https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html)
 * [2025-07-06, 09:11:57](https://lobste.rs/s/msqhq3/i_built_gadzetto_com_single_day_using) - [I built Gadzetto.com in a single day using ChatGPT](https://gadzetto.com)
 * [2025-07-06, 09:09:51](https://lobste.rs/s/msogci/unsoundness_accidental_features_target) - [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
 * [2025-07-06, 08:23:59](https://lobste.rs/s/mgwxnc/overthinking_gis) - [Overthinking GIS](https://scottsexton.co/post/overthinking_gis/)
