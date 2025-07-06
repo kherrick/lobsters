@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 09:11:57](https://lobste.rs/s/msqhq3/i_built_gadzetto_com_single_day_using) - [I built Gadzetto.com in a single day using ChatGPT](https://gadzetto.com)
+* [2025-07-06, 09:09:51](https://lobste.rs/s/msogci/unsoundness_accidental_features_target) - [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
 * [2025-07-06, 08:23:59](https://lobste.rs/s/mgwxnc/overthinking_gis) - [Overthinking GIS](https://scottsexton.co/post/overthinking_gis/)
 * [2025-07-06, 07:28:05](https://lobste.rs/s/bo0um3/are_we_baddies) - [Are we the baddies?](https://geohot.github.io//blog/jekyll/update/2025/07/05/are-we-the-baddies.html)
 * [2025-07-06, 06:29:19](https://lobste.rs/s/lyzca7/open_webui_changed_its_license_open_webui) - [Open WebUI changed its license to Open WebUI License with a CLA](https://github.com/open-webui/docs/blob/main/docs/license.mdx)
