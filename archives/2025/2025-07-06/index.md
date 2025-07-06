@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-06](index.md)
 
+* [2025-07-06, 19:03:57](https://lobste.rs/s/wwifcy/coalton_toward_safe_flexible_efficient) - [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
 * [2025-07-06, 18:50:34](https://lobste.rs/s/1t3bny/micro_common_lisp) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 18:38:05](https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)

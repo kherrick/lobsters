@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-06, 19:03:57](https://lobste.rs/s/wwifcy/coalton_toward_safe_flexible_efficient) - [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
 * [2025-07-06, 18:50:34](https://lobste.rs/s/1t3bny/micro_common_lisp) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 18:38:05](https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
@@ -14,7 +15,6 @@
 * [2025-07-06, 05:19:30](https://lobste.rs/s/udyowm/decker_fantasy_camp) - [Decker Fantasy Camp](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
 * [2025-07-06, 02:58:57](https://lobste.rs/s/7o4w5p/serving_200_million_requests_per_day_with) - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 * [2025-07-05, 23:49:26](https://lobste.rs/s/t6rshk/160_core_risc_v_supercluster_on_single_m_2) - [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
-* [2025-07-05, 22:34:07](https://lobste.rs/s/gcj9v0/operators_not_users_programmers) - [operators, not users and programmers](https://jyn.dev/operators-not-users-and-programmers/)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
 * [2025-07-05, 18:41:37](https://lobste.rs/s/irlurx/kde_plasma_6_4_has_landed_openbsd) - [KDE Plasma 6.4 has landed in OpenBSD](https://undeadly.org/cgi?action=article;sid=20250705081711)
 * [2025-07-05, 18:15:19](https://lobste.rs/s/d9ocg5/messy_reality_simd_vector_functions) - [The messy reality of SIMD (vector) functions](https://johnnysswlab.com/the-messy-reality-of-simd-vector-functions)
