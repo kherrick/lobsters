@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 21:24:25](https://lobste.rs/s/axef4c/applied_cryptography_comprehensive) - [Applied Cryptography: comprehensive, novel course materials released under Creative Commons](https://appliedcryptography.page)
 * [2025-07-07, 20:48:55](https://lobste.rs/s/yctrpk/adding_feature_because_chatgpt) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
 * [2025-07-07, 19:24:05](https://lobste.rs/s/9h88kc/iceberg_right_idea_wrong_spec_part_1_2) - [Iceberg, The Right Idea - The Wrong Spec - Part 1 of 2: History](https://database-doctor.com/posts/iceberg-is-wrong-1.html)
 * [2025-07-07, 18:28:04](https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc) - [Stop putting nix setup in your checked-in .envrc files](https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html)
