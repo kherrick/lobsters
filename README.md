@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-07, 17:48:22](https://lobste.rs/s/w6q3d1/future_forums_is_lies_i_guess) - [The Future of Forums is Lies, I Guess](https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess)
 * [2025-07-07, 17:01:53](https://lobste.rs/s/onmkay/defence_swap_common_misconceptions_2018) - [In defence of swap: common misconceptions (2018)](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2025-07-07, 17:00:56](https://lobste.rs/s/cobucv/automatically_packaging_haskell) - [Automatically Packaging a Haskell Library as a Swift Binary XCFramework](https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html)
 * [2025-07-07, 15:13:54](https://lobste.rs/s/l0xpum/upgrading_my_25gbit_internet_router_vyos) - [Upgrading my 25gbit internet router to VyOS](https://sschueller.github.io/posts/vyos-router-update/)
@@ -20,7 +21,6 @@
 * [2025-07-06, 20:22:46](https://lobste.rs/s/6jzlj0/linux_portable_operating_system_1997) - [Linux: a Portable Operating System (1997)](https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf)
 * [2025-07-06, 19:44:56](https://lobste.rs/s/fwdhpz/belgium_is_unsafe_for_cvd) - [Belgium is unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 * [2025-07-06, 19:25:07](https://lobste.rs/s/bfswxu/real_genai_issue) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
-* [2025-07-06, 19:03:57](https://lobste.rs/s/wwifcy/coalton_toward_safe_flexible_efficient) - [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
 * [2025-07-06, 18:50:34](https://lobste.rs/s/1t3bny/micro_common_lisp) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
 * [2025-07-06, 17:21:35](https://lobste.rs/s/8wkt7e/what_is_opentelemetry_basic_guide) - [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
