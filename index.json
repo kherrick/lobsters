@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-07, 02:16:57",
+      "https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power"
+    ],
+    [
+      "Plasma 6.4 Wayland vs X11, processor and power benchmarks",
+      "https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 23:02:55",
       "https://lobste.rs/s/im0hc6/russ_cox_solves_aoc_2021_day_24_using_go"
     ],
@@ -157,16 +167,6 @@
     [
       "Unsoundness and accidental features in the #[target_feature] attribute",
       "https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 08:23:59",
-      "https://lobste.rs/s/mgwxnc/overthinking_gis"
-    ],
-    [
-      "Overthinking GIS",
-      "https://scottsexton.co/post/overthinking_gis/"
     ]
   ],
   [
