@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-07, 12:24:25](https://lobste.rs/s/mycmd6/deep_dive_good_enough_programming) - [Deep Dive: Good Enough Programming](https://danielbmarkham.com/deep-dive-good-enough-programming/)
 * [2025-07-07, 12:04:44](https://lobste.rs/s/ikxu0o/am_i_online) - [Am I online?](https://antonz.org/is-online/)
 * [2025-07-07, 10:38:49](https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week)
 * [2025-07-07, 10:15:03](https://lobste.rs/s/a55r0w/stop_using_nix_env) - [Stop using nix-env](https://stop-using-nix-env.privatevoid.net/)
@@ -20,6 +19,7 @@
 * [2025-07-06, 19:25:07](https://lobste.rs/s/bfswxu/real_genai_issue) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
 * [2025-07-06, 19:03:57](https://lobste.rs/s/wwifcy/coalton_toward_safe_flexible_efficient) - [Coalton: Toward safe, flexible, and efficient software in Common Lisp](https://www.youtube.com/watch?v=of92m4XNgrM)
 * [2025-07-06, 18:50:34](https://lobste.rs/s/1t3bny/micro_common_lisp) - [Micro Common Lisp](https://t3x.org/mcl/index.html)
+* [2025-07-06, 18:38:05](https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen) - [Progress report on rustc_codegen_cranelift (June 2025)](https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html)
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
 * [2025-07-06, 17:21:35](https://lobste.rs/s/8wkt7e/what_is_opentelemetry_basic_guide) - [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
 * [2025-07-06, 16:09:51](https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities) - [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
