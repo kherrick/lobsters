@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-07, 15:13:54",
+      "https://lobste.rs/s/l0xpum/upgrading_my_25gbit_internet_router_vyos"
+    ],
+    [
+      "Upgrading my 25gbit internet router to VyOS",
+      "https://sschueller.github.io/posts/vyos-router-update/"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 15:03:54",
       "https://lobste.rs/s/vaiijh/prompt_coding_no_code_edits_only_complete"
     ],
@@ -17,6 +27,16 @@
     [
       "Am I online?",
       "https://antonz.org/is-online/"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 10:43:29",
+      "https://lobste.rs/s/q7xynz/jepsen_tigerbeetle"
+    ],
+    [
+      "Jepsen & TigerBeetle",
+      "https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-07-07, 03:42:31",
-      "https://lobste.rs/s/icpspg/taste_matzo_language_for_random_text"
-    ],
-    [
-      "A Taste of Matzo: A Language for Random Text",
-      "https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 02:16:57",
       "https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power"
     ],
@@ -197,16 +207,6 @@
     [
       "Micro Common Lisp",
       "https://t3x.org/mcl/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 18:38:05",
-      "https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen"
-    ],
-    [
-      "Progress report on rustc_codegen_cranelift (June 2025)",
-      "https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html"
     ]
   ],
   [
