@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-07, 12:24:25",
+      "https://lobste.rs/s/mycmd6/deep_dive_good_enough_programming"
+    ],
+    [
+      "Deep Dive: Good Enough Programming",
+      "https://danielbmarkham.com/deep-dive-good-enough-programming/"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 12:04:44",
+      "https://lobste.rs/s/ikxu0o/am_i_online"
+    ],
+    [
+      "Am I online?",
+      "https://antonz.org/is-online/"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 10:38:49",
       "https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week"
     ],
@@ -57,16 +77,6 @@
     [
       "Decrypted Generative Model safety files for Apple Intelligence containing filters",
       "https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 06:54:15",
-      "https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms"
-    ],
-    [
-      "A non-anthropomorphized view of LLMs",
-      "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "What is OpenTelemetry? [a basic guide]",
       "https://signoz.io/blog/what-is-opentelemetry/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 16:50:57",
-      "https://lobste.rs/s/gotjgh/quickly_converting_djot_html_mathml"
-    ],
-    [
-      "quickly converting djot to html+mathml",
-      "https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html"
     ]
   ],
   [
