@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-07, 20:48:55](https://lobste.rs/s/yctrpk/adding_feature_because_chatgpt) - [Adding a feature because ChatGPT incorrectly thinks it exists](https://www.holovaty.com/writing/chatgpt-fake-feature/)
+* [2025-07-07, 19:24:05](https://lobste.rs/s/9h88kc/iceberg_right_idea_wrong_spec_part_1_2) - [Iceberg, The Right Idea - The Wrong Spec - Part 1 of 2: History](https://database-doctor.com/posts/iceberg-is-wrong-1.html)
 * [2025-07-07, 18:28:04](https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc) - [Stop putting nix setup in your checked-in .envrc files](https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html)
 * [2025-07-07, 17:48:22](https://lobste.rs/s/w6q3d1/future_forums_is_lies_i_guess) - [The Future of Forums is Lies, I Guess](https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess)
 * [2025-07-07, 17:37:35](https://lobste.rs/s/rgw1t7/inverse_triangle_inequality) - [Inverse Triangle Inequality](https://matklad.github.io/2025/07/07/inverse-triangle-inequality.html)
@@ -17,7 +18,6 @@
 * [2025-07-07, 09:50:07](https://lobste.rs/s/wnnymx/you_don_t_have_use_nix_manage_your_dotfiles) - [You don't have to use Nix to manage your dotfiles](https://jade.fyi/blog/use-nix-less/)
 * [2025-07-07, 08:17:57](https://lobste.rs/s/yspcyx/building_personalized_micro_agents) - [Building personalized micro agents](https://blog.meain.io/2025/building-personalized-micro-agents/)
 * [2025-07-07, 07:59:40](https://lobste.rs/s/vegxuh/afrinic_hope_hijack_harsh_lessons) - [AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism](https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101)
-* [2025-07-07, 06:54:15](https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
 * [2025-07-07, 03:51:48](https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 02:16:57](https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power) - [Plasma 6.4 Wayland vs X11, processor and power benchmarks](https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html)
