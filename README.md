@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-07, 17:01:53](https://lobste.rs/s/onmkay/defence_swap_common_misconceptions_2018) - [In defence of swap: common misconceptions (2018)](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
+* [2025-07-07, 17:00:56](https://lobste.rs/s/cobucv/automatically_packaging_haskell) - [Automatically Packaging a Haskell Library as a Swift Binary XCFramework](https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html)
 * [2025-07-07, 15:13:54](https://lobste.rs/s/l0xpum/upgrading_my_25gbit_internet_router_vyos) - [Upgrading my 25gbit internet router to VyOS](https://sschueller.github.io/posts/vyos-router-update/)
 * [2025-07-07, 15:03:54](https://lobste.rs/s/vaiijh/prompt_coding_no_code_edits_only_complete) - [Prompt Coding: No code edits, only complete rewrites](https://www.gibney.org/prompt_coding)
 * [2025-07-07, 12:04:44](https://lobste.rs/s/ikxu0o/am_i_online) - [Am I online?](https://antonz.org/is-online/)
@@ -9,7 +11,6 @@
 * [2025-07-07, 09:50:07](https://lobste.rs/s/wnnymx/you_don_t_have_use_nix_manage_your_dotfiles) - [You don't have to use Nix to manage your dotfiles](https://jade.fyi/blog/use-nix-less/)
 * [2025-07-07, 08:17:57](https://lobste.rs/s/yspcyx/building_personalized_micro_agents) - [Building personalized micro agents](https://blog.meain.io/2025/building-personalized-micro-agents/)
 * [2025-07-07, 07:59:40](https://lobste.rs/s/vegxuh/afrinic_hope_hijack_harsh_lessons) - [AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism](https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101)
-* [2025-07-07, 07:28:25](https://lobste.rs/s/zzubcj/decrypted_generative_model_safety_files) - [Decrypted Generative Model safety files for Apple Intelligence containing filters](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
 * [2025-07-07, 06:54:15](https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
 * [2025-07-07, 03:51:48](https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
@@ -24,7 +25,6 @@
 * [2025-07-06, 17:29:57](https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad) - [Conventional Commits makes me sad](https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html)
 * [2025-07-06, 17:21:35](https://lobste.rs/s/8wkt7e/what_is_opentelemetry_basic_guide) - [What is OpenTelemetry? [a basic guide]](https://signoz.io/blog/what-is-opentelemetry/)
 * [2025-07-06, 16:09:51](https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities) - [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
-* [2025-07-06, 02:58:57](https://lobste.rs/s/7o4w5p/serving_200_million_requests_per_day_with) - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 
 ## [Archives](archives/index.md)
 
