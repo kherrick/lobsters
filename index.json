@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-07-07, 06:54:15",
+      "https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms"
+    ],
+    [
+      "A non-anthropomorphized view of LLMs",
+      "http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 06:10:45",
       "https://lobste.rs/s/6ycaam/praise_contrarian_stack"
     ],
@@ -187,16 +197,6 @@
     [
       "Micro Common Lisp",
       "https://t3x.org/mcl/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 18:38:05",
-      "https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen"
-    ],
-    [
-      "Progress report on rustc_codegen_cranelift (June 2025)",
-      "https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html"
     ]
   ],
   [
