@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 08:17:57](https://lobste.rs/s/yspcyx/building_personalized_micro_agents) - [Building personalized micro agents](https://blog.meain.io/2025/building-personalized-micro-agents/)
+* [2025-07-07, 07:59:40](https://lobste.rs/s/vegxuh/afrinic_hope_hijack_harsh_lessons) - [AfriNIC: Hope, Hijack, and the Harsh Lessons of African Multistakeholderism](https://medium.com/@emmanuelvitus/afrinic-hope-hijack-and-the-harsh-lessons-of-african-multistakeholderism-8e8378797101)
 * [2025-07-07, 07:28:25](https://lobste.rs/s/zzubcj/decrypted_generative_model_safety_files) - [Decrypted Generative Model safety files for Apple Intelligence containing filters](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
 * [2025-07-07, 06:54:15](https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
