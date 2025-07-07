@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-07, 17:48:22",
+      "https://lobste.rs/s/w6q3d1/future_forums_is_lies_i_guess"
+    ],
+    [
+      "The Future of Forums is Lies, I Guess",
+      "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 17:01:53",
       "https://lobste.rs/s/onmkay/defence_swap_common_misconceptions_2018"
     ],
@@ -197,16 +207,6 @@
     [
       "The Real GenAI Issue",
       "https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 19:03:57",
-      "https://lobste.rs/s/wwifcy/coalton_toward_safe_flexible_efficient"
-    ],
-    [
-      "Coalton: Toward safe, flexible, and efficient software in Common Lisp",
-      "https://www.youtube.com/watch?v=of92m4XNgrM"
     ]
   ],
   [
