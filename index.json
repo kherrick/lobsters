@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-07, 20:48:55",
+      "https://lobste.rs/s/yctrpk/adding_feature_because_chatgpt"
+    ],
+    [
+      "Adding a feature because ChatGPT incorrectly thinks it exists",
+      "https://www.holovaty.com/writing/chatgpt-fake-feature/"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 18:28:04",
       "https://lobste.rs/s/nm5lho/stop_putting_nix_setup_your_checked_envrc"
     ],
@@ -237,16 +247,6 @@
     [
       "Conventional Commits makes me sad",
       "https://srazkvt.codeberg.page/posts/2025-07-06-conventional-commits-makes-me-sad.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 16:09:51",
-      "https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities"
-    ],
-    [
-      "C mistakes among the vulnerabilities present in curl code",
-      "https://mastodon.social/@bagder/114806766613678922"
     ]
   ]
 ]
