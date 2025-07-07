@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-07, 09:50:07",
+      "https://lobste.rs/s/wnnymx/you_don_t_have_use_nix_manage_your_dotfiles"
+    ],
+    [
+      "You don't have to use Nix to manage your dotfiles",
+      "https://jade.fyi/blog/use-nix-less/"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 08:17:57",
       "https://lobste.rs/s/yspcyx/building_personalized_micro_agents"
     ],
@@ -187,16 +197,6 @@
     [
       "What is OpenTelemetry? [a basic guide]",
       "https://signoz.io/blog/what-is-opentelemetry/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 16:51:07",
-      "https://lobste.rs/s/dvmslk/apple_pay_vs_alternative_payment"
-    ],
-    [
-      "Apple Pay vs. Alternative Payment Services",
-      "https://www.taler.net/en/news/2025-05.html"
     ]
   ],
   [
