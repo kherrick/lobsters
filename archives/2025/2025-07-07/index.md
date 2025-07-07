@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 15:13:54](https://lobste.rs/s/l0xpum/upgrading_my_25gbit_internet_router_vyos) - [Upgrading my 25gbit internet router to VyOS](https://sschueller.github.io/posts/vyos-router-update/)
 * [2025-07-07, 15:03:54](https://lobste.rs/s/vaiijh/prompt_coding_no_code_edits_only_complete) - [Prompt Coding: No code edits, only complete rewrites](https://www.gibney.org/prompt_coding)
 * [2025-07-07, 15:03:54](https://lobste.rs/s/vaiijh/prompt_coding_experiment_no_code_edits) - [Prompt Coding Experiment: No code edits, only complete rewrites](https://www.gibney.org/prompt_coding)
 * [2025-07-07, 12:24:25](https://lobste.rs/s/mycmd6/deep_dive_good_enough_programming) - [Deep Dive: Good Enough Programming](https://danielbmarkham.com/deep-dive-good-enough-programming/)
 * [2025-07-07, 12:04:44](https://lobste.rs/s/ikxu0o/am_i_online) - [Am I online?](https://antonz.org/is-online/)
+* [2025-07-07, 10:43:29](https://lobste.rs/s/q7xynz/jepsen_tigerbeetle) - [Jepsen & TigerBeetle](https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false)
 * [2025-07-07, 10:38:49](https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week)
 * [2025-07-07, 10:15:03](https://lobste.rs/s/a55r0w/stop_using_nix_env) - [Stop using nix-env](https://stop-using-nix-env.privatevoid.net/)
 * [2025-07-07, 09:50:07](https://lobste.rs/s/wnnymx/you_don_t_have_use_nix_manage_your_dotfiles) - [You don't have to use Nix to manage your dotfiles](https://jade.fyi/blog/use-nix-less/)
