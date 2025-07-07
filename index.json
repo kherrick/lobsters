@@ -2,10 +2,10 @@
   [
     [
       "2025-07-07, 15:03:54",
-      "https://lobste.rs/s/vaiijh/prompt_coding_experiment_no_code_edits"
+      "https://lobste.rs/s/vaiijh/prompt_coding_no_code_edits_only_complete"
     ],
     [
-      "Prompt Coding Experiment: No code edits, only complete rewrites",
+      "Prompt Coding: No code edits, only complete rewrites",
       "https://www.gibney.org/prompt_coding"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-07-06, 18:38:05",
+      "https://lobste.rs/s/mbyz63/progress_report_on_rustc_codegen"
+    ],
+    [
+      "Progress report on rustc_codegen_cranelift (June 2025)",
+      "https://bjorn3.github.io/2025/06/30/progress-report-june-2025.html"
+    ]
+  ],
+  [
+    [
       "2025-07-06, 17:29:57",
       "https://lobste.rs/s/phfy8a/conventional_commits_makes_me_sad"
     ],
@@ -217,16 +227,6 @@
     [
       "What is OpenTelemetry? [a basic guide]",
       "https://signoz.io/blog/what-is-opentelemetry/"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 16:50:57",
-      "https://lobste.rs/s/gotjgh/quickly_converting_djot_html_mathml"
-    ],
-    [
-      "quickly converting djot to html+mathml",
-      "https://www.unix.dog/~yosh/blog/djot-to-html-with-mathml.html"
     ]
   ],
   [
