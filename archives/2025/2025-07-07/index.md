@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 15:03:54](https://lobste.rs/s/vaiijh/prompt_coding_experiment_no_code_edits) - [Prompt Coding Experiment: No code edits, only complete rewrites](https://www.gibney.org/prompt_coding)
 * [2025-07-07, 12:24:25](https://lobste.rs/s/mycmd6/deep_dive_good_enough_programming) - [Deep Dive: Good Enough Programming](https://danielbmarkham.com/deep-dive-good-enough-programming/)
 * [2025-07-07, 12:04:44](https://lobste.rs/s/ikxu0o/am_i_online) - [Am I online?](https://antonz.org/is-online/)
 * [2025-07-07, 10:38:49](https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/fwmxc3/what_are_you_doing_this_week)
