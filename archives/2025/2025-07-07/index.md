@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
 * [2025-07-07, 03:51:48](https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:42:31](https://lobste.rs/s/icpspg/taste_matzo_language_for_random_text) - [A Taste of Matzo: A Language for Random Text](https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text)
 * [2025-07-07, 03:27:56](https://lobste.rs/s/rassb2/take_two_eshell) - [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)

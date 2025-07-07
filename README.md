@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
 * [2025-07-07, 03:51:48](https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:42:31](https://lobste.rs/s/icpspg/taste_matzo_language_for_random_text) - [A Taste of Matzo: A Language for Random Text](https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text)
 * [2025-07-07, 03:27:56](https://lobste.rs/s/rassb2/take_two_eshell) - [Take Two: Eshell](http://yummymelon.com/devnull/take-two-eshell.html)
@@ -22,7 +23,6 @@
 * [2025-07-06, 09:09:51](https://lobste.rs/s/msogci/unsoundness_accidental_features_target) - [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
 * [2025-07-06, 05:19:30](https://lobste.rs/s/udyowm/decker_fantasy_camp) - [Decker Fantasy Camp](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
 * [2025-07-06, 02:58:57](https://lobste.rs/s/7o4w5p/serving_200_million_requests_per_day_with) - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
-* [2025-07-05, 23:49:26](https://lobste.rs/s/t6rshk/160_core_risc_v_supercluster_on_single_m_2) - [160 Core RISC-V supercluster on a single M.2](https://www.youtube.com/watch?v=HRfbQJ6FdF0)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
 * [2025-07-05, 13:14:50](https://lobste.rs/s/ncyfcp/anubis_pilot_project_report_june_2025) - [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
 
