@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-07, 07:28:25](https://lobste.rs/s/zzubcj/decrypted_generative_model_safety_files) - [Decrypted Generative Model safety files for Apple Intelligence containing filters](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
+* [2025-07-07, 06:54:15](https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
 * [2025-07-07, 03:51:48](https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:42:31](https://lobste.rs/s/icpspg/taste_matzo_language_for_random_text) - [A Taste of Matzo: A Language for Random Text](https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text)
@@ -21,10 +23,8 @@
 * [2025-07-06, 16:09:51](https://lobste.rs/s/t6mcrr/c_mistakes_among_vulnerabilities) - [C mistakes among the vulnerabilities present in curl code](https://mastodon.social/@bagder/114806766613678922)
 * [2025-07-06, 09:52:46](https://lobste.rs/s/woinvj/readline_v8_3_release) - [Readline v8.3 release](https://lists.gnu.org/archive/html/bug-readline/2025-07/msg00004.html)
 * [2025-07-06, 09:09:51](https://lobste.rs/s/msogci/unsoundness_accidental_features_target) - [Unsoundness and accidental features in the #[target_feature] attribute](https://predr.ag/blog/unsoundness-and-accidental-features-in-target-feature/)
-* [2025-07-06, 05:19:30](https://lobste.rs/s/udyowm/decker_fantasy_camp) - [Decker Fantasy Camp](https://www.arraycast.com/episodes/episode109-deckerfantasycamp)
 * [2025-07-06, 02:58:57](https://lobste.rs/s/7o4w5p/serving_200_million_requests_per_day_with) - [Serving 200 million requests per day with a cgi-bin](https://jacob.gold/posts/serving-200-million-requests-with-cgi-bin/)
 * [2025-07-05, 18:48:08](https://lobste.rs/s/5sxrrp/why_i_got_rid_all_my_neovim_plugins) - [Why I got rid of all my neovim plugins](https://yobibyte.github.io/vim.html)
-* [2025-07-05, 13:14:50](https://lobste.rs/s/ncyfcp/anubis_pilot_project_report_june_2025) - [Anubis Pilot Project Report - June 2025](https://dukespace.lib.duke.edu/server/api/core/bitstreams/816ef134-55cf-49f6-9a8b-1e8a2324b1ff/content)
 
 ## [Archives](archives/index.md)
 

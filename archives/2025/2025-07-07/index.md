@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-07](index.md)
 
+* [2025-07-07, 07:28:25](https://lobste.rs/s/zzubcj/decrypted_generative_model_safety_files) - [Decrypted Generative Model safety files for Apple Intelligence containing filters](https://github.com/BlueFalconHD/apple_generative_model_safety_decrypted)
+* [2025-07-07, 06:54:15](https://lobste.rs/s/4pfkdj/non_anthropomorphized_view_llms) - [A non-anthropomorphized view of LLMs](http://addxorrol.blogspot.com/2025/07/a-non-anthropomorphized-view-of-llms.html)
 * [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
 * [2025-07-07, 03:51:48](https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken) - [Ziglings: Learn Zig by fixing broken programs](https://codeberg.org/ziglings/exercises)
 * [2025-07-07, 03:42:31](https://lobste.rs/s/icpspg/taste_matzo_language_for_random_text) - [A Taste of Matzo: A Language for Random Text](https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text)
