@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-07, 03:51:48",
+      "https://lobste.rs/s/mucqfb/ziglings_learn_zig_by_fixing_broken"
+    ],
+    [
+      "Ziglings: Learn Zig by fixing broken programs",
+      "https://codeberg.org/ziglings/exercises"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 03:42:31",
+      "https://lobste.rs/s/icpspg/taste_matzo_language_for_random_text"
+    ],
+    [
+      "A Taste of Matzo: A Language for Random Text",
+      "https://journal.infinitenegativeutility.com/a-taste-of-matzo-a-language-for-random-text"
+    ]
+  ],
+  [
+    [
+      "2025-07-07, 03:27:56",
+      "https://lobste.rs/s/rassb2/take_two_eshell"
+    ],
+    [
+      "Take Two: Eshell",
+      "http://yummymelon.com/devnull/take-two-eshell.html"
+    ]
+  ],
+  [
+    [
       "2025-07-07, 02:16:57",
       "https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-07-06, 06:29:19",
-      "https://lobste.rs/s/lyzca7/open_webui_changed_its_license_open_webui"
-    ],
-    [
-      "Open WebUI changed its license to Open WebUI License with a CLA",
-      "https://github.com/open-webui/docs/blob/main/docs/license.mdx"
-    ]
-  ],
-  [
-    [
       "2025-07-06, 05:19:30",
       "https://lobste.rs/s/udyowm/decker_fantasy_camp"
     ],
@@ -217,26 +237,6 @@
     [
       "Why I got rid of all my neovim plugins",
       "https://yobibyte.github.io/vim.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 18:41:37",
-      "https://lobste.rs/s/irlurx/kde_plasma_6_4_has_landed_openbsd"
-    ],
-    [
-      "KDE Plasma 6.4 has landed in OpenBSD",
-      "https://undeadly.org/cgi?action=article;sid=20250705081711"
-    ]
-  ],
-  [
-    [
-      "2025-07-05, 14:10:17",
-      "https://lobste.rs/s/9ex6hs/reflections_on_2_years_cpython_s_jit"
-    ],
-    [
-      "Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly",
-      "https://fidget-spinner.github.io/posts/jit-reflections.html"
     ]
   ],
   [
