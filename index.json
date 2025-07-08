@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2025-07-08, 14:39:45",
+      "https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer"
+    ],
+    [
+      "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
+      "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 14:26:27",
+      "https://lobste.rs/s/mjhk6e/how_i_ensure_every_daily_q_less_puzzle_is"
+    ],
+    [
+      "How I ensure every Daily Q-less puzzle is solvable",
+      "https://www.damiensnyder.com/blog/qless-solver/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 14:21:56",
       "https://lobste.rs/s/zlm4fp/how_i_build_software_quickly"
     ],
@@ -37,16 +57,6 @@
     [
       "Enterprise Loop pattern in multiple languages",
       "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 13:59:21",
-      "https://lobste.rs/s/qrygis/making_unsafe_rust_little_safer_find"
-    ],
-    [
-      "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "All Programming Languages are Fast",
       "https://orgpad.info/blog/all-programming-langs-are-fast"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 05:40:28",
-      "https://lobste.rs/s/giycc1/my_first_verified_imperative_program"
-    ],
-    [
-      "My first verified (imperative) program",
-      "https://markushimmel.de/blog/my-first-verified-imperative-program/"
     ]
   ],
   [
