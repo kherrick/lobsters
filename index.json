@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 15:00:03",
+      "https://lobste.rs/s/ww0yad/customize_your_keyboard_shortcuts"
+    ],
+    [
+      "Customize your keyboard shortcuts in Chrome with a Chrome extension",
+      "https://taupiqueur.github.io/chrome-shortcuts"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 14:21:56",
       "https://lobste.rs/s/zlm4fp/how_i_build_software_quickly"
     ],
@@ -27,6 +37,16 @@
     [
       "Enterprise Loop pattern in multiple languages",
       "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 13:59:21",
+      "https://lobste.rs/s/qrygis/making_unsafe_rust_little_safer_find"
+    ],
+    [
+      "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "WebAssembly: Yes, but for What?",
       "https://queue.acm.org/detail.cfm?id=3746171"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 07:15:27",
-      "https://lobste.rs/s/piugxk/programming_extensible_data_types_rust"
-    ],
-    [
-      "Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders",
-      "https://contextgeneric.dev/blog/extensible-datatypes-part-1/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Am I online?",
       "https://antonz.org/is-online/"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 10:43:29",
-      "https://lobste.rs/s/q7xynz/jepsen_tigerbeetle"
-    ],
-    [
-      "Jepsen & TigerBeetle",
-      "https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false"
     ]
   ],
   [
