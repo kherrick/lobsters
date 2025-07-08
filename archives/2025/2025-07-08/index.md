@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 11:38:13](https://lobste.rs/s/ccvkpv/bad_apple_it_s_3288_lean_tactics_spamming) - [“Bad Apple!!” But It’s 3288 Lean Tactics Spamming VSCode](https://unnamed.website/posts/bad-apple-lean-tactic/)
 * [2025-07-08, 11:08:27](https://lobste.rs/s/rfsseb/case_against_which_key_polemic) - [The case against which-key: a polemic](https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic)
 * [2025-07-08, 10:14:02](https://lobste.rs/s/9vvhzr/two_weeks_wayback) - [Two weeks of wayback](https://ariadne.space/2025/07/07/two-weeks-of-wayback.html)
 * [2025-07-08, 10:07:30](https://lobste.rs/s/ifiifz/glitching_google_wifi_pro_from_root_el3) - [Glitching Google WiFi Pro from Root to EL3](https://raelize.com/upload/research/2025/Hw_io-USA-2025_EL3vated-Privileges-Glitching-Google-Wifi-Pro-from-Root-to-EL3_v1.0.pdf)
