@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-08, 01:09:50](https://lobste.rs/s/kvgdjh/how_janet_s_peg_module_works) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
 * [2025-07-07, 23:31:56](https://lobste.rs/s/xenlje/you_should_run_certificate_transparency) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 * [2025-07-07, 22:10:26](https://lobste.rs/s/oapkjg/code_trust_vibrators_pacemakers) - [CODE AND TRUST: vibrators to pacemakers](https://punkx.org/jackdoe/code-and-trust.html)
 * [2025-07-07, 21:24:25](https://lobste.rs/s/axef4c/applied_cryptography_comprehensive) - [Applied Cryptography: comprehensive, novel course materials released under Creative Commons](https://appliedcryptography.page)
@@ -10,7 +11,6 @@
 * [2025-07-07, 17:36:21](https://lobste.rs/s/9f2dnb/generic_interfaces) - [Generic interfaces](https://go.dev/blog/generic-interfaces)
 * [2025-07-07, 17:01:53](https://lobste.rs/s/onmkay/defence_swap_common_misconceptions_2018) - [In defence of swap: common misconceptions (2018)](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2025-07-07, 17:00:56](https://lobste.rs/s/cobucv/automatically_packaging_haskell) - [Automatically Packaging a Haskell Library as a Swift Binary XCFramework](https://alt-romes.github.io/posts/2025-07-05-packaging-a-haskell-library-as-a-swift-binary-xcframework.html)
-* [2025-07-07, 15:38:07](https://lobste.rs/s/jp0blc/case_study_over_engineered_c_code) - [Case study of over-engineered C++ code](https://blog.kowalczyk.info/a-aiow/case-study-of-over-engineered-c-code.html)
 * [2025-07-07, 15:03:54](https://lobste.rs/s/vaiijh/prompt_coding_no_code_edits_only_complete) - [Prompt Coding: No code edits, only complete rewrites](https://www.gibney.org/prompt_coding)
 * [2025-07-07, 12:04:44](https://lobste.rs/s/ikxu0o/am_i_online) - [Am I online?](https://antonz.org/is-online/)
 * [2025-07-07, 10:43:29](https://lobste.rs/s/q7xynz/jepsen_tigerbeetle) - [Jepsen & TigerBeetle](https://open.substack.com/pub/dtornow/p/jepsen-and-tigerbeetle?showWelcomeOnShare=false)
