@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 19:22:54",
+      "https://lobste.rs/s/a8tms4/ai_hallucination_cases_database"
+    ],
+    [
+      "AI Hallucination Cases Database",
+      "https://www.damiencharlotin.com/hallucinations/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 19:16:08",
       "https://lobste.rs/s/awmqgc/cve_2025_48384_breaking_git_with_carriage"
     ],
@@ -67,16 +77,6 @@
     [
       "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
       "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 14:26:27",
-      "https://lobste.rs/s/mjhk6e/how_i_ensure_every_daily_q_less_puzzle_is"
-    ],
-    [
-      "How I ensure every Daily Q-less puzzle is solvable",
-      "https://www.damiensnyder.com/blog/qless-solver/"
     ]
   ],
   [
