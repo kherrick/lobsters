@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 22:15:16](https://lobste.rs/s/gnah5t/aoc_2021_day_1_using_ivy_5m00) - [AoC 2021 Day 1 using Ivy (5m00)](https://www.youtube.com/watch?v=ek1yjc9sSag)
 * [2025-07-08, 21:32:13](https://lobste.rs/s/1wv8nd/c3_0_7_3_small_improvements) - [C3 0.7.3 - Small improvements](https://c3-lang.org/blog/c3-0-7-3-small-improvements/)
 * [2025-07-08, 21:14:37](https://lobste.rs/s/os54bi/systemd_has_been_complete_utter) - [systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
 * [2025-07-08, 19:22:54](https://lobste.rs/s/a8tms4/ai_hallucination_cases_database) - [AI Hallucination Cases Database](https://www.damiencharlotin.com/hallucinations/)
