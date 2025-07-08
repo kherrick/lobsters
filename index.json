@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 21:32:13",
+      "https://lobste.rs/s/1wv8nd/c3_0_7_3_small_improvements"
+    ],
+    [
+      "C3 0.7.3 - Small improvements",
+      "https://c3-lang.org/blog/c3-0-7-3-small-improvements/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 21:14:37",
       "https://lobste.rs/s/os54bi/systemd_has_been_complete_utter"
     ],
@@ -127,16 +137,6 @@
     [
       "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
       "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 13:51:19",
-      "https://lobste.rs/s/4wyzur/bmesh"
-    ],
-    [
-      "BMesh",
-      "https://developer.blender.org/docs/features/objects/mesh/bmesh/"
     ]
   ],
   [
