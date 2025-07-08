@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-08, 16:37:55",
+      "https://lobste.rs/s/sd5w2g/announcing_foks_federated_open_key"
+    ],
+    [
+      "Announcing FOKS, the Federated Open Key Service",
+      "https://blog.foks.pub/posts/introducing/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 15:47:13",
       "https://lobste.rs/s/mf2zg3/which_kubernetes_is_smallest_examining"
     ],
@@ -57,16 +67,6 @@
     [
       "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
       "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 14:07:16",
-      "https://lobste.rs/s/ummi4r/enterprise_loop_pattern_multiple"
-    ],
-    [
-      "Enterprise Loop pattern in multiple languages",
-      "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z"
     ]
   ],
   [
