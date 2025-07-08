@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-08, 16:37:55",
-      "https://lobste.rs/s/sd5w2g/announcing_foks_federated_open_key"
+      "2025-07-08, 17:20:10",
+      "https://lobste.rs/s/l6hadj/multiple_vulnerabilities_fixed_git"
     ],
     [
-      "Announcing FOKS, the Federated Open Key Service",
-      "https://blog.foks.pub/posts/introducing/"
+      "Multiple vulnerabilities fixed in Git",
+      "https://www.openwall.com/lists/oss-security/2025/07/08/4"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Enterprise Loop pattern in multiple languages",
       "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 13:59:21",
+      "https://lobste.rs/s/qrygis/making_unsafe_rust_little_safer_find"
+    ],
+    [
+      "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
+      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
     ]
   ],
   [
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2025-07-08, 05:40:28",
+      "https://lobste.rs/s/giycc1/my_first_verified_imperative_program"
+    ],
+    [
+      "My first verified (imperative) program",
+      "https://markushimmel.de/blog/my-first-verified-imperative-program/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 01:09:50",
       "https://lobste.rs/s/kvgdjh/how_janet_s_peg_module_works"
     ],
@@ -167,16 +187,6 @@
     [
       "CODE AND TRUST: vibrators to pacemakers",
       "https://punkx.org/jackdoe/code-and-trust.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 21:24:25",
-      "https://lobste.rs/s/axef4c/applied_cryptography_comprehensive"
-    ],
-    [
-      "Applied Cryptography: comprehensive, novel course materials released under Creative Commons",
-      "https://appliedcryptography.page"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Am I online?",
       "https://antonz.org/is-online/"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 09:50:07",
-      "https://lobste.rs/s/wnnymx/you_don_t_have_use_nix_manage_your_dotfiles"
-    ],
-    [
-      "You don't have to use Nix to manage your dotfiles",
-      "https://jade.fyi/blog/use-nix-less/"
     ]
   ],
   [
