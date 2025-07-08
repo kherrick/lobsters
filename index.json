@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-07-08, 14:54:27",
+      "https://lobste.rs/s/w8ajcy/mastering_postgres_replication_slots"
+    ],
+    [
+      "Mastering Postgres Replication Slots: Preventing WAL Bloat and Other Production Issues",
+      "https://www.morling.dev/blog/mastering-postgres-replication-slots/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 14:39:45",
       "https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer"
     ],
@@ -227,16 +237,6 @@
     [
       "Generic interfaces",
       "https://go.dev/blog/generic-interfaces"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 12:04:44",
-      "https://lobste.rs/s/ikxu0o/am_i_online"
-    ],
-    [
-      "Am I online?",
-      "https://antonz.org/is-online/"
     ]
   ],
   [
