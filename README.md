@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-08, 16:37:55](https://lobste.rs/s/sd5w2g/announcing_foks_federated_open_key) - [Announcing FOKS, the Federated Open Key Service](https://blog.foks.pub/posts/introducing/)
 * [2025-07-08, 15:47:13](https://lobste.rs/s/mf2zg3/which_kubernetes_is_smallest_examining) - [Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More](https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/)
 * [2025-07-08, 15:00:03](https://lobste.rs/s/ww0yad/customize_your_keyboard_shortcuts) - [Customize your keyboard shortcuts in Chrome with a Chrome extension](https://taupiqueur.github.io/chrome-shortcuts)
 * [2025-07-08, 14:39:45](https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer) - [bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks](https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md)
@@ -13,7 +14,6 @@
 * [2025-07-08, 09:33:55](https://lobste.rs/s/s8kjrr/derive_clone_is_broken) - [#[derive(Clone)] is broken](https://rgbcu.be/blog/derive-broken/)
 * [2025-07-08, 08:32:45](https://lobste.rs/s/cyxkzl/webassembly_yes_for_what) - [WebAssembly: Yes, but for What?](https://queue.acm.org/detail.cfm?id=3746171)
 * [2025-07-08, 06:06:41](https://lobste.rs/s/r9urjr/all_programming_languages_are_fast) - [All Programming Languages are Fast](https://orgpad.info/blog/all-programming-langs-are-fast)
-* [2025-07-08, 05:40:28](https://lobste.rs/s/giycc1/my_first_verified_imperative_program) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 * [2025-07-08, 01:09:50](https://lobste.rs/s/kvgdjh/how_janet_s_peg_module_works) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
 * [2025-07-07, 23:31:56](https://lobste.rs/s/xenlje/you_should_run_certificate_transparency) - [You Should Run a Certificate Transparency Log](https://words.filippo.io/run-sunlight/)
 * [2025-07-07, 22:10:26](https://lobste.rs/s/oapkjg/code_trust_vibrators_pacemakers) - [CODE AND TRUST: vibrators to pacemakers](https://punkx.org/jackdoe/code-and-trust.html)

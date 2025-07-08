@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
+* [2025-07-08, 16:37:55](https://lobste.rs/s/sd5w2g/announcing_foks_federated_open_key) - [Announcing FOKS, the Federated Open Key Service](https://blog.foks.pub/posts/introducing/)
 * [2025-07-08, 15:47:13](https://lobste.rs/s/mf2zg3/which_kubernetes_is_smallest_examining) - [Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More](https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/)
 * [2025-07-08, 15:00:03](https://lobste.rs/s/ww0yad/customize_your_keyboard_shortcuts) - [Customize your keyboard shortcuts in Chrome with a Chrome extension](https://taupiqueur.github.io/chrome-shortcuts)
 * [2025-07-08, 14:54:27](https://lobste.rs/s/w8ajcy/mastering_postgres_replication_slots) - [Mastering Postgres Replication Slots: Preventing WAL Bloat and Other Production Issues](https://www.morling.dev/blog/mastering-postgres-replication-slots/)
