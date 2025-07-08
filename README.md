@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-08, 14:21:56](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 * [2025-07-08, 14:16:50](https://lobste.rs/s/rvmew5/deterministic_simulation_testing_rust) - [Deterministic Simulation Testing in Rust: A Theater Of State Machines](https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust)
-* [2025-07-08, 13:59:21](https://lobste.rs/s/qrygis/making_unsafe_rust_little_safer_find) - [Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan](https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/)
-* [2025-07-08, 13:58:00](https://lobste.rs/s/nree33/unified_memory_management) - [Unified Memory Management](https://buttondown.com/jaffray/archive/unified-memory-management/)
+* [2025-07-08, 14:07:16](https://lobste.rs/s/ummi4r/enterprise_loop_pattern_multiple) - [Enterprise Loop pattern in multiple languages](https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z)
 * [2025-07-08, 13:51:19](https://lobste.rs/s/4wyzur/bmesh) - [BMesh](https://developer.blender.org/docs/features/objects/mesh/bmesh/)
 * [2025-07-08, 11:38:13](https://lobste.rs/s/ccvkpv/bad_apple_it_s_3288_lean_tactics_spamming) - [“Bad Apple!!” But It’s 3288 Lean Tactics Spamming VSCode](https://unnamed.website/posts/bad-apple-lean-tactic/)
 * [2025-07-08, 11:08:27](https://lobste.rs/s/rfsseb/case_against_which_key_polemic) - [The case against which-key: a polemic](https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic)
