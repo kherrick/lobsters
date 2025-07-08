@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 14:21:56",
+      "https://lobste.rs/s/zlm4fp/how_i_build_software_quickly"
+    ],
+    [
+      "How I build software quickly",
+      "https://evanhahn.com/how-i-build-software-quickly/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 14:16:50",
       "https://lobste.rs/s/rvmew5/deterministic_simulation_testing_rust"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2025-07-08, 13:59:21",
-      "https://lobste.rs/s/qrygis/making_unsafe_rust_little_safer_find"
+      "2025-07-08, 14:07:16",
+      "https://lobste.rs/s/ummi4r/enterprise_loop_pattern_multiple"
     ],
     [
-      "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 13:58:00",
-      "https://lobste.rs/s/nree33/unified_memory_management"
-    ],
-    [
-      "Unified Memory Management",
-      "https://buttondown.com/jaffray/archive/unified-memory-management/"
+      "Enterprise Loop pattern in multiple languages",
+      "https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z"
     ]
   ],
   [
