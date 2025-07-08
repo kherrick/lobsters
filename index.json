@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-07-08, 14:54:27",
-      "https://lobste.rs/s/w8ajcy/mastering_postgres_replication_slots"
-    ],
-    [
-      "Mastering Postgres Replication Slots: Preventing WAL Bloat and Other Production Issues",
-      "https://www.morling.dev/blog/mastering-postgres-replication-slots/"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 14:39:45",
       "https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer"
     ],
@@ -137,6 +127,16 @@
     [
       "All Programming Languages are Fast",
       "https://orgpad.info/blog/all-programming-langs-are-fast"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 05:40:28",
+      "https://lobste.rs/s/giycc1/my_first_verified_imperative_program"
+    ],
+    [
+      "My first verified (imperative) program",
+      "https://markushimmel.de/blog/my-first-verified-imperative-program/"
     ]
   ],
   [
