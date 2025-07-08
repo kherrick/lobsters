@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-07-08](index.md)
 
 * [2025-07-08, 15:00:03](https://lobste.rs/s/ww0yad/customize_your_keyboard_shortcuts) - [Customize your keyboard shortcuts in Chrome with a Chrome extension](https://taupiqueur.github.io/chrome-shortcuts)
+* [2025-07-08, 14:39:45](https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer) - [bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks](https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md)
+* [2025-07-08, 14:26:27](https://lobste.rs/s/mjhk6e/how_i_ensure_every_daily_q_less_puzzle_is) - [How I ensure every Daily Q-less puzzle is solvable](https://www.damiensnyder.com/blog/qless-solver/)
 * [2025-07-08, 14:21:56](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 * [2025-07-08, 14:16:50](https://lobste.rs/s/rvmew5/deterministic_simulation_testing_rust) - [Deterministic Simulation Testing in Rust: A Theater Of State Machines](https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust)
 * [2025-07-08, 14:07:16](https://lobste.rs/s/ummi4r/enterprise_loop_pattern_multiple) - [Enterprise Loop pattern in multiple languages](https://github.com/eloop-congress/enterprise-patterns/wiki/Enterpriseloop-von-a-bis-z)
