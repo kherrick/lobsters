@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-08, 09:33:55",
+      "https://lobste.rs/s/s8kjrr/derive_clone_is_broken"
+    ],
+    [
+      "#[derive(Clone)] is broken",
+      "https://rgbcu.be/blog/derive-broken/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 08:32:45",
       "https://lobste.rs/s/cyxkzl/webassembly_yes_for_what"
     ],
@@ -47,6 +57,16 @@
     [
       "Cocoa Basics Part Zero: Introduction",
       "https://blog.xoria.org/cocoa-basics-0/"
+    ]
+  ],
+  [
+    [
+      "2025-07-08, 04:58:17",
+      "https://lobste.rs/s/4vkret/touchfs_context_aware_file_generation"
+    ],
+    [
+      "TouchFS - Context-Aware File Generation",
+      "https://touchfs.io/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-07-07, 17:01:53",
-      "https://lobste.rs/s/onmkay/defence_swap_common_misconceptions_2018"
-    ],
-    [
-      "In defence of swap: common misconceptions (2018)",
-      "https://chrisdown.name/2018/01/02/in-defence-of-swap.html"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 17:00:56",
       "https://lobste.rs/s/cobucv/automatically_packaging_haskell"
     ],
@@ -217,16 +227,6 @@
     [
       "In Praise of the Contrarian Stack",
       "https://hackers.pub/@hongminhee/2025/contrarian-stack/en"
-    ]
-  ],
-  [
-    [
-      "2025-07-06, 23:02:55",
-      "https://lobste.rs/s/im0hc6/russ_cox_solves_aoc_2021_day_24_using_go"
-    ],
-    [
-      "Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]",
-      "https://www.youtube.com/watch?v=hmq6veCFo0Y"
     ]
   ],
   [
