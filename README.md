@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-08, 07:15:27](https://lobste.rs/s/piugxk/programming_extensible_data_types_rust) - [Programming Extensible Data Types in Rust with CGP - Part 1: Modular App Construction and Extensible Builders](https://contextgeneric.dev/blog/extensible-datatypes-part-1/)
 * [2025-07-08, 06:06:41](https://lobste.rs/s/r9urjr/all_programming_languages_are_fast) - [All Programming Languages are Fast](https://orgpad.info/blog/all-programming-langs-are-fast)
 * [2025-07-08, 05:40:28](https://lobste.rs/s/giycc1/my_first_verified_imperative_program) - [My first verified (imperative) program](https://markushimmel.de/blog/my-first-verified-imperative-program/)
 * [2025-07-08, 01:09:50](https://lobste.rs/s/kvgdjh/how_janet_s_peg_module_works) - [How Janet's PEG module works](https://bakpakin.com/writing/how-janets-peg-works.html)
@@ -21,7 +22,6 @@
 * [2025-07-07, 09:50:07](https://lobste.rs/s/wnnymx/you_don_t_have_use_nix_manage_your_dotfiles) - [You don't have to use Nix to manage your dotfiles](https://jade.fyi/blog/use-nix-less/)
 * [2025-07-07, 08:17:57](https://lobste.rs/s/yspcyx/building_personalized_micro_agents) - [Building personalized micro agents](https://blog.meain.io/2025/building-personalized-micro-agents/)
 * [2025-07-07, 06:10:45](https://lobste.rs/s/6ycaam/praise_contrarian_stack) - [In Praise of the Contrarian Stack](https://hackers.pub/@hongminhee/2025/contrarian-stack/en)
-* [2025-07-07, 02:16:57](https://lobste.rs/s/plqfqg/plasma_6_4_wayland_vs_x11_processor_power) - [Plasma 6.4 Wayland vs X11, processor and power benchmarks](https://www.dedoimedo.com/computers/plasma-6-4-performance-wayland-x11-power-cpu-kernel.html)
 * [2025-07-06, 23:02:55](https://lobste.rs/s/im0hc6/russ_cox_solves_aoc_2021_day_24_using_go) - [Russ Cox solves AoC 2021 Day 24 using Go in Acme [Compiler Analysis]](https://www.youtube.com/watch?v=hmq6veCFo0Y)
 * [2025-07-06, 19:44:56](https://lobste.rs/s/fwdhpz/belgium_is_unsafe_for_cvd) - [Belgium is unsafe for CVD](https://floort.net/posts/belgium-unsafe-for-cvd/)
 * [2025-07-06, 19:25:07](https://lobste.rs/s/bfswxu/real_genai_issue) - [The Real GenAI Issue](https://www.tbray.org/ongoing/When/202x/2025/07/06/AI-Manifesto)
