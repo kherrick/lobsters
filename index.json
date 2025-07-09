@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-09, 09:18:01",
+      "https://lobste.rs/s/v1jkvd/infinite_mac_construction_set"
+    ],
+    [
+      "Infinite Mac Construction Set",
+      "https://blog.persistent.info/2025/07/infinite-mac-embedding.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 09:10:03",
+      "https://lobste.rs/s/mpvwna/esim_security"
+    ],
+    [
+      "eSIM security",
+      "https://security-explorations.com/esim-security.html"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 08:20:49",
       "https://lobste.rs/s/baio5y/tree_borrows_paper_is_finally_published"
     ],
@@ -17,6 +37,16 @@
     [
       "Supabase MCP can leak your entire SQL database",
       "https://www.generalanalysis.com/blog/supabase-mcp-blog"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 07:27:51",
+      "https://lobste.rs/s/vwlbig/frame_preference_history_mac_settings"
+    ],
+    [
+      "Frame of preference – A history of Mac settings, 1984–2004",
+      "https://aresluna.org/frame-of-preference/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-07-08, 15:00:03",
-      "https://lobste.rs/s/ww0yad/customize_your_keyboard_shortcuts"
-    ],
-    [
-      "Customize your keyboard shortcuts in Chrome with a Chrome extension",
-      "https://taupiqueur.github.io/chrome-shortcuts"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 14:39:45",
       "https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer"
     ],
@@ -167,26 +187,6 @@
     [
       "How I build software quickly",
       "https://evanhahn.com/how-i-build-software-quickly/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 14:16:50",
-      "https://lobste.rs/s/rvmew5/deterministic_simulation_testing_rust"
-    ],
-    [
-      "Deterministic Simulation Testing in Rust: A Theater Of State Machines",
-      "https://www.polarsignals.com/blog/posts/2025/07/08/dst-rust"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 13:59:21",
-      "https://lobste.rs/s/qrygis/making_unsafe_rust_little_safer_find"
-    ],
-    [
-      "Making Unsafe Rust a Little Safer: Find Memory Errors in Production with GWP-ASan",
-      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-find-memory-errors-in-production-with-gwp-asan/"
     ]
   ],
   [
