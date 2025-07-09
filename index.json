@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-07-09, 00:55:00",
+      "https://lobste.rs/s/xjttka/toml_v0_9"
+    ],
+    [
+      "toml v0.9",
+      "https://epage.github.io/blog/2025/07/toml-09/"
+    ]
+  ],
+  [
+    [
       "2025-07-08, 22:15:16",
       "https://lobste.rs/s/gnah5t/aoc_2021_day_1_using_ivy_5m00"
     ],
@@ -237,16 +247,6 @@
     [
       "Stop putting nix setup in your checked-in .envrc files",
       "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 06:10:45",
-      "https://lobste.rs/s/6ycaam/praise_contrarian_stack"
-    ],
-    [
-      "In Praise of the Contrarian Stack",
-      "https://hackers.pub/@hongminhee/2025/contrarian-stack/en"
     ]
   ]
 ]
