@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 15:08:29](https://lobste.rs/s/iq4abk/is_doc_bot_docs_not) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 * [2025-07-09, 13:55:56](https://lobste.rs/s/cjqmee/summary_may_2025_tc39_plenary) - [Summary of the May 2025 TC39 plenary](https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/)
 * [2025-07-09, 13:08:59](https://lobste.rs/s/nreqbn/hyab_k_means_for_color_quantization) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
 * [2025-07-09, 12:04:45](https://lobste.rs/s/nby00p/just_say_no_broken_json) - [Just say no to broken JSON](https://lemire.me/blog/2025/07/04/just-say-no-to-broken-json/)
