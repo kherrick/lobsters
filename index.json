@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-09, 03:53:59",
+      "https://lobste.rs/s/8ixtyt/agents_don_t_have_agency"
+    ],
+    [
+      "Agents don't have agency",
+      "https://kconner.com/2025/07/08/agents-dont-have-agency.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 02:55:35",
+      "https://lobste.rs/s/zjlygh/phrase_origin_why_do_we_call_functions"
+    ],
+    [
+      "Phrase origin: Why do we “call” functions?",
+      "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 01:11:12",
       "https://lobste.rs/s/tp5eoc/hippocratic_license"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-07-08, 01:09:50",
-      "https://lobste.rs/s/kvgdjh/how_janet_s_peg_module_works"
-    ],
-    [
-      "How Janet's PEG module works",
-      "https://bakpakin.com/writing/how-janets-peg-works.html"
-    ]
-  ],
-  [
-    [
       "2025-07-07, 23:31:56",
       "https://lobste.rs/s/xenlje/you_should_run_certificate_transparency"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop putting nix setup in your checked-in .envrc files",
       "https://offby1.website/posts/stop-putting-nix-setup-in-your-checked-in-envrc-files.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-07, 17:48:22",
-      "https://lobste.rs/s/w6q3d1/future_forums_is_lies_i_guess"
-    ],
-    [
-      "The Future of Forums is Lies, I Guess",
-      "https://aphyr.com/posts/389-the-future-of-forums-is-lies-i-guess"
     ]
   ],
   [
