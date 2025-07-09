@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
 * [2025-07-09, 17:54:25](https://lobste.rs/s/2tx1mx/get_location_iss_using_dns) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-09, 17:36:10](https://lobste.rs/s/nmu0qm/online_searchable_reference_tool_for_c) - [An online searchable reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-09, 17:30:54](https://lobste.rs/s/plwg9q/variadic_generics_ideas_won_t_work_for) - [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
@@ -7,7 +8,6 @@
 * [2025-07-09, 15:08:29](https://lobste.rs/s/iq4abk/is_doc_bot_docs_not) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
 * [2025-07-09, 13:55:56](https://lobste.rs/s/cjqmee/summary_may_2025_tc39_plenary) - [Summary of the May 2025 TC39 plenary](https://blogs.igalia.com/compilers/2025/07/03/summary-of-the-may-2025-tc39-plenary/)
 * [2025-07-09, 13:08:59](https://lobste.rs/s/nreqbn/hyab_k_means_for_color_quantization) - [HyAB k-means for color quantization](https://30fps.net/pages/hyab-kmeans/)
-* [2025-07-09, 12:03:26](https://lobste.rs/s/ogrfql/guile_lab_notebook_on_move) - [Guile lab notebook: on the move](https://wingolog.org/archives/2025/07/08/guile-lab-notebook-on-the-move)
 * [2025-07-09, 11:51:43](https://lobste.rs/s/cil4ao/brut_new_web_framework_for_ruby) - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
 * [2025-07-09, 11:29:05](https://lobste.rs/s/cga7nb/oregon_programming_languages_summer) - [Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods](https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php)
 * [2025-07-09, 10:13:28](https://lobste.rs/s/1tzmmj/client_side_epub_generation) - [Client-side epub generation](https://little.webby.press/)

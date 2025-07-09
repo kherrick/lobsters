@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
 * [2025-07-09, 17:54:25](https://lobste.rs/s/2tx1mx/get_location_iss_using_dns) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-09, 17:36:10](https://lobste.rs/s/nmu0qm/online_searchable_reference_tool_for_c) - [An online searchable reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-09, 17:36:10](https://lobste.rs/s/nmu0qm/home_simd_info) - [Home | SIMD.info](https://simd.info/)
