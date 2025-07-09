@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-09, 13:08:59",
+      "https://lobste.rs/s/nreqbn/hyab_k_means_for_color_quantization"
+    ],
+    [
+      "HyAB k-means for color quantization",
+      "https://30fps.net/pages/hyab-kmeans/"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 12:04:45",
       "https://lobste.rs/s/nby00p/just_say_no_broken_json"
     ],
     [
       "Just say no to broken JSON",
       "https://lemire.me/blog/2025/07/04/just-say-no-to-broken-json/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 11:51:43",
+      "https://lobste.rs/s/cil4ao/brut_new_web_framework_for_ruby"
+    ],
+    [
+      "Brut: A New Web Framework for Ruby",
+      "https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-07-08, 14:39:45",
-      "https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer"
-    ],
-    [
-      "bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks",
-      "https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md"
-    ]
-  ],
-  [
-    [
       "2025-07-08, 14:21:56",
       "https://lobste.rs/s/zlm4fp/how_i_build_software_quickly"
     ],
@@ -217,16 +227,6 @@
     [
       "Two weeks of wayback",
       "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 09:33:55",
-      "https://lobste.rs/s/s8kjrr/derive_clone_is_broken"
-    ],
-    [
-      "#[derive(Clone)] is broken",
-      "https://rgbcu.be/blog/derive-broken/"
     ]
   ],
   [
