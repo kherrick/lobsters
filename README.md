@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-09, 17:36:10](https://lobste.rs/s/nmu0qm/home_simd_info) - [Home | SIMD.info](https://simd.info/)
+* [2025-07-09, 17:54:25](https://lobste.rs/s/2tx1mx/get_location_iss_using_dns) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-09, 17:30:54](https://lobste.rs/s/plwg9q/variadic_generics_ideas_won_t_work_for) - [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
 * [2025-07-09, 16:00:20](https://lobste.rs/s/9hzhgi/roll_your_own_game_ui_with_clay_nanovg) - [Roll your own in-game UI with Clay and NanoVG](https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf)
 * [2025-07-09, 15:08:29](https://lobste.rs/s/iq4abk/is_doc_bot_docs_not) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
