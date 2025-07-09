@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-09](index.md)
 
+* [2025-07-09, 11:29:05](https://lobste.rs/s/cga7nb/oregon_programming_languages_summer) - [Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods](https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php)
 * [2025-07-09, 10:13:28](https://lobste.rs/s/1tzmmj/client_side_epub_generation) - [Client-side epub generation](https://little.webby.press/)
 * [2025-07-09, 09:56:22](https://lobste.rs/s/1lkdsn/context_engineering_guide) - [Context Engineering Guide](https://nlp.elvissaravia.com/p/context-engineering-guide)
 * [2025-07-09, 09:18:01](https://lobste.rs/s/v1jkvd/infinite_mac_construction_set) - [Infinite Mac Construction Set](https://blog.persistent.info/2025/07/infinite-mac-embedding.html)

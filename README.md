@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-09, 11:29:05](https://lobste.rs/s/cga7nb/oregon_programming_languages_summer) - [Oregon Programming Languages Summer School (OPLSS) 2025: Types, Logic, and Formal Methods](https://www.cs.uoregon.edu/research/summerschool/summer25/topics.php)
 * [2025-07-09, 10:13:28](https://lobste.rs/s/1tzmmj/client_side_epub_generation) - [Client-side epub generation](https://little.webby.press/)
 * [2025-07-09, 09:56:22](https://lobste.rs/s/1lkdsn/context_engineering_guide) - [Context Engineering Guide](https://nlp.elvissaravia.com/p/context-engineering-guide)
 * [2025-07-09, 09:18:01](https://lobste.rs/s/v1jkvd/infinite_mac_construction_set) - [Infinite Mac Construction Set](https://blog.persistent.info/2025/07/infinite-mac-embedding.html)
@@ -17,7 +18,6 @@
 * [2025-07-08, 19:06:11](https://lobste.rs/s/s468u9/ibm_power11_hits_market_this_month) - [IBM Power11 hits the market this month](https://www.talospace.com/2025/07/power11-hits-market-this-month.html)
 * [2025-07-08, 17:20:10](https://lobste.rs/s/l6hadj/multiple_vulnerabilities_fixed_git) - [Multiple vulnerabilities fixed in Git](https://www.openwall.com/lists/oss-security/2025/07/08/4)
 * [2025-07-08, 16:37:55](https://lobste.rs/s/sd5w2g/announcing_foks_federated_open_key) - [Announcing FOKS, the Federated Open Key Service](https://blog.foks.pub/posts/introducing/)
-* [2025-07-08, 15:47:13](https://lobste.rs/s/mf2zg3/which_kubernetes_is_smallest_examining) - [Which Kubernetes is the Smallest? Examining Talos Linux, K3s, K0s, and More](https://www.siderolabs.com/blog/which-kubernetes-is-the-smallest/)
 * [2025-07-08, 14:39:45](https://lobste.rs/s/wazjzq/bitchat_is_decentralized_peer_peer) - [bitchat is a decentralized, peer-to-peer messaging application that operates over Bluetooth Low Energy (BLE) mesh networks](https://github.com/jackjackbits/bitchat/blob/main/WHITEPAPER.md)
 * [2025-07-08, 14:21:56](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 * [2025-07-08, 11:08:27](https://lobste.rs/s/rfsseb/case_against_which_key_polemic) - [The case against which-key: a polemic](https://www.matem.unam.mx/~omar/apropos-emacs.html#the-case-against-which-key-a-polemic)
