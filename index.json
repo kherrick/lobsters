@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-10, 03:58:14",
+      "https://lobste.rs/s/gdw8pc/whirlwind_tutorial_on_creating_really"
+    ],
+    [
+      "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
+      "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 02:09:46",
       "https://lobste.rs/s/bhnto9/closures_for_hare"
     ],
@@ -87,16 +97,6 @@
     [
       "Variadic Generics ideas that won’t work for Rust",
       "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 16:59:20",
-      "https://lobste.rs/s/o4jgix/apple_vs_law"
-    ],
-    [
-      "Apple Vs The Law",
-      "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/"
     ]
   ],
   [
