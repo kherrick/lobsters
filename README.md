@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-10, 17:24:35](https://lobste.rs/s/1batvy/measuring_impact_early_2025_ai_on) - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 17:02:20](https://lobste.rs/s/gm4vnt/vibe_coding_casino_rise_programming_by) - [Vibe Coding Casino: Rise of programming by slot machine](https://evrim.zone/blog/opinion/vibes_casino)
 * [2025-07-10, 16:53:13](https://lobste.rs/s/o22yyz/specification_grounding_missing_link) - [Specification Grounding: The Missing Link in Vibe Coding](https://unstract.com/blog/specification-grounding-vibe-coding/)
 * [2025-07-10, 15:46:42](https://lobste.rs/s/fkkoys/coverdrop_blowing_whistle_through_news) - [CoverDrop: Blowing the Whistle Through A News App](https://www.coverdrop.org/)
@@ -8,7 +9,6 @@
 * [2025-07-10, 14:50:25](https://lobste.rs/s/5l2kgz/diffusion_elites_surprisingly_good) - [Diffusion Elites: surprisingly good, simple and embarrassingly parallel](https://blog.christianperone.com/2025/07/diffusion-elites/)
 * [2025-07-10, 14:36:01](https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for) - [What's //go:nosplit for?](https://mcyoung.xyz/2025/07/07/nosplit/)
 * [2025-07-10, 14:32:23](https://lobste.rs/s/uohkhq/multi_player_durable_stream_playground) - [Multi-player Durable Stream Playground](https://s2.dev/playground)
-* [2025-07-10, 13:51:21](https://lobste.rs/s/ixn7eb/haskell_lenses_from_scratch_2021) - [Haskell Lenses From Scratch (2021)](https://www.youtube.com/watch?v=3kduOmZ2Wxw)
 * [2025-07-10, 12:57:49](https://lobste.rs/s/ofymzw/computer_scientists_figure_out_how_prove) - [Computer Scientists Figure Out How To Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 11:26:12](https://lobste.rs/s/hngren/monitoring_my_homelab_simply) - [Monitoring my Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
