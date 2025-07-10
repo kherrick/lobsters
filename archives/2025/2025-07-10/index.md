@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 10:52:50](https://lobste.rs/s/yljjit/optimizing_math_expression_parser_rust) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
 * [2025-07-10, 10:11:59](https://lobste.rs/s/v5urlx/building_modular_interpreters_visitors) - [Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-2/)
 * [2025-07-10, 06:26:27](https://lobste.rs/s/migsbj/unveiling_open_source_heroes_power_our) - [Unveiling the Open Source heroes that power our digital infrastructure](https://maintaine.rs/)

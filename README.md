@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-10, 10:52:50](https://lobste.rs/s/yljjit/optimizing_math_expression_parser_rust) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
 * [2025-07-10, 10:11:59](https://lobste.rs/s/v5urlx/building_modular_interpreters_visitors) - [Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-2/)
 * [2025-07-10, 06:26:27](https://lobste.rs/s/migsbj/unveiling_open_source_heroes_power_our) - [Unveiling the Open Source heroes that power our digital infrastructure](https://maintaine.rs/)
@@ -12,7 +13,6 @@
 * [2025-07-09, 22:55:52](https://lobste.rs/s/ak9mmk/microhs_tiny_haskell_compiler) - [MicroHs, a tiny Haskell Compiler](https://www.youtube.com/watch?v=SJwvPEq4Mok)
 * [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
 * [2025-07-09, 19:28:11](https://lobste.rs/s/luvgtn/vim_fugitive_action_2021) - [Vim Fugitive in action (2021)](https://dzx.fr/blog/introduction-to-vim-fugitive/)
-* [2025-07-09, 18:42:45](https://lobste.rs/s/nbtmv3/ripples_they_cause_world) - [“Ripples They Cause in the World”](https://www.shadowcat.co.uk/2025/07/09/ripples-they-cause-in-the-world/)
 * [2025-07-09, 17:54:25](https://lobste.rs/s/2tx1mx/get_location_iss_using_dns) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-09, 17:30:54](https://lobste.rs/s/plwg9q/variadic_generics_ideas_won_t_work_for) - [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
 * [2025-07-09, 16:53:10](https://lobste.rs/s/fvorwd/quite_few_words_about_async) - [(Quite) A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
