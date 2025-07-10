@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-07-10, 14:36:01",
+      "https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for"
+    ],
+    [
+      "What's //go:nosplit for?",
+      "https://mcyoung.xyz/2025/07/07/nosplit/"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 14:32:23",
+      "https://lobste.rs/s/uohkhq/multi_player_durable_stream_playground"
+    ],
+    [
+      "Multi-player Durable Stream Playground",
+      "https://s2.dev/playground"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 13:51:21",
       "https://lobste.rs/s/ixn7eb/haskell_lenses_from_scratch_2021"
     ],
     [
       "Haskell Lenses From Scratch (2021)",
       "https://www.youtube.com/watch?v=3kduOmZ2Wxw"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 13:42:20",
-      "https://lobste.rs/s/txkekm/orca_build_system"
-    ],
-    [
-      "Orca Build System",
-      "https://orca-app.dev/posts/250710/orca_build_system.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "(Quite) A Few Words About Async",
       "https://yoric.github.io/post/quite-a-few-words-about-async/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 15:08:29",
-      "https://lobste.rs/s/iq4abk/is_doc_bot_docs_not"
-    ],
-    [
-      "Is the doc bot docs, or not?",
-      "https://www.robinsloan.com/lab/what-are-we-even-doing-here/"
     ]
   ],
   [
