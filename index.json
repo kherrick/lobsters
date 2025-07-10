@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-07-10, 15:10:59",
+      "https://lobste.rs/s/eaumem/jai_demo_design_explanation"
+    ],
+    [
+      "Jai Demo and Design Explanation",
+      "https://www.youtube.com/watch?v=IdpD5QIVOKQ"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 14:50:25",
+      "https://lobste.rs/s/5l2kgz/diffusion_elites_surprisingly_good"
+    ],
+    [
+      "Diffusion Elites: surprisingly good, simple and embarrassingly parallel",
+      "https://blog.christianperone.com/2025/07/diffusion-elites/"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 14:36:01",
       "https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for"
     ],
@@ -77,16 +97,6 @@
     [
       "About Clew",
       "https://clew.se/about/"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 10:11:59",
-      "https://lobste.rs/s/v5urlx/building_modular_interpreters_visitors"
-    ],
-    [
-      "Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP",
-      "https://contextgeneric.dev/blog/extensible-datatypes-part-2/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "systemd has been a complete, utter, unmitigated success",
       "https://blog.tjll.net/the-systemd-revolution-has-been-a-success/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 14:21:56",
-      "https://lobste.rs/s/zlm4fp/how_i_build_software_quickly"
-    ],
-    [
-      "How I build software quickly",
-      "https://evanhahn.com/how-i-build-software-quickly/"
     ]
   ]
 ]
