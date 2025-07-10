@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-10, 04:50:01",
+      "https://lobste.rs/s/tvqlqy/functional_functions_comprehensive"
+    ],
+    [
+      "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
+      "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 03:58:14",
       "https://lobste.rs/s/gdw8pc/whirlwind_tutorial_on_creating_really"
     ],
@@ -187,16 +197,6 @@
     [
       "The Tree Borrows paper is finally published",
       "https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 08:16:47",
-      "https://lobste.rs/s/1riirw/supabase_mcp_can_leak_your_entire_sql"
-    ],
-    [
-      "Supabase MCP can leak your entire SQL database",
-      "https://www.generalanalysis.com/blog/supabase-mcp-blog"
     ]
   ],
   [
