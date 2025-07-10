@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-10, 03:58:14](https://lobste.rs/s/gdw8pc/whirlwind_tutorial_on_creating_really) - [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [2025-07-10, 02:09:46](https://lobste.rs/s/bhnto9/closures_for_hare) - [Closures for Hare](https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E)
 * [2025-07-10, 01:49:33](https://lobste.rs/s/idkqmw/writing_very_simple_jit_compiler_about) - [Writing a very simple JIT Compiler in about 1000 lines of C](https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html)
 * [2025-07-10, 00:31:42](https://lobste.rs/s/jb8xjy/using_fs_usage_see_what_files_process_is) - [Using fs_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage)
@@ -9,7 +10,6 @@
 * [2025-07-09, 17:54:25](https://lobste.rs/s/2tx1mx/get_location_iss_using_dns) - [Get the location of the ISS using DNS](https://shkspr.mobi/blog/2025/07/get-the-location-of-the-iss-using-dns/)
 * [2025-07-09, 17:36:10](https://lobste.rs/s/nmu0qm/online_searchable_reference_tool_for_c) - [An online searchable reference tool for C intrinsics of all major SIMD engines](https://simd.info/)
 * [2025-07-09, 17:30:54](https://lobste.rs/s/plwg9q/variadic_generics_ideas_won_t_work_for) - [Variadic Generics ideas that won’t work for Rust](https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/)
-* [2025-07-09, 16:59:20](https://lobste.rs/s/o4jgix/apple_vs_law) - [Apple Vs The Law](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [2025-07-09, 16:53:10](https://lobste.rs/s/fvorwd/quite_few_words_about_async) - [(Quite) A Few Words About Async](https://yoric.github.io/post/quite-a-few-words-about-async/)
 * [2025-07-09, 16:00:20](https://lobste.rs/s/9hzhgi/roll_your_own_game_ui_with_clay_nanovg) - [Roll your own in-game UI with Clay and NanoVG](https://dev.to/linkdd/roll-your-own-in-game-ui-with-clay-and-nanovg-part-2-25pf)
 * [2025-07-09, 15:08:29](https://lobste.rs/s/iq4abk/is_doc_bot_docs_not) - [Is the doc bot docs, or not?](https://www.robinsloan.com/lab/what-are-we-even-doing-here/)
