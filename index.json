@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-10, 13:51:21",
+      "https://lobste.rs/s/ixn7eb/haskell_lenses_from_scratch_2021"
+    ],
+    [
+      "Haskell Lenses From Scratch (2021)",
+      "https://www.youtube.com/watch?v=3kduOmZ2Wxw"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 13:42:20",
       "https://lobste.rs/s/txkekm/orca_build_system"
     ],
@@ -77,16 +87,6 @@
     [
       "Functional Functions - A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas for C",
       "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functional%20Functions.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 03:58:14",
-      "https://lobste.rs/s/gdw8pc/whirlwind_tutorial_on_creating_really"
-    ],
-    [
-      "A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux",
-      "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
     ]
   ],
   [
