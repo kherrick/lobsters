@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-10, 23:04:03",
+      "https://lobste.rs/s/pzqxqm/postgres_listen_notify_does_not_scale"
+    ],
+    [
+      "Postgres LISTEN/NOTIFY does not scale",
+      "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
+    ]
+  ],
+  [
+    [
       "2025-07-10, 20:11:28",
       "https://lobste.rs/s/jjqmuu/almost_catastrophic_openzfs_bug_humans"
     ],
@@ -167,16 +177,6 @@
     [
       "Closures for Hare",
       "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 01:49:33",
-      "https://lobste.rs/s/idkqmw/writing_very_simple_jit_compiler_about"
-    ],
-    [
-      "Writing a very simple JIT Compiler in about 1000 lines of C",
-      "https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html"
     ]
   ],
   [
