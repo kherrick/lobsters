@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 20:11:28](https://lobste.rs/s/jjqmuu/almost_catastrophic_openzfs_bug_humans) - [An (almost) catastrophic OpenZFS bug and the humans that made it (and Rust is here too)](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
 * [2025-07-10, 17:24:35](https://lobste.rs/s/1batvy/measuring_impact_early_2025_ai_on) - [Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 * [2025-07-10, 17:02:20](https://lobste.rs/s/gm4vnt/vibe_coding_casino_rise_programming_by) - [Vibe Coding Casino: Rise of programming by slot machine](https://evrim.zone/blog/opinion/vibes_casino)
 * [2025-07-10, 16:53:13](https://lobste.rs/s/o22yyz/specification_grounding_missing_link) - [Specification Grounding: The Missing Link in Vibe Coding](https://unstract.com/blog/specification-grounding-vibe-coding/)
