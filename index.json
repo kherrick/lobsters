@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-10, 02:09:46",
+      "https://lobste.rs/s/bhnto9/closures_for_hare"
+    ],
+    [
+      "Closures for Hare",
+      "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 01:49:33",
+      "https://lobste.rs/s/idkqmw/writing_very_simple_jit_compiler_about"
+    ],
+    [
+      "Writing a very simple JIT Compiler in about 1000 lines of C",
+      "https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-10, 00:31:42",
+      "https://lobste.rs/s/jb8xjy/using_fs_usage_see_what_files_process_is"
+    ],
+    [
+      "Using fs_usage to see what files a process is using",
+      "https://til.simonwillison.net/macos/fs-usage"
+    ]
+  ],
+  [
+    [
       "2025-07-09, 22:55:52",
       "https://lobste.rs/s/ak9mmk/microhs_tiny_haskell_compiler"
     ],
@@ -57,6 +87,16 @@
     [
       "Variadic Generics ideas that won’t work for Rust",
       "https://poignardazur.github.io//2025/07/09/variadic-generics-dead-ends/"
+    ]
+  ],
+  [
+    [
+      "2025-07-09, 16:59:20",
+      "https://lobste.rs/s/o4jgix/apple_vs_law"
+    ],
+    [
+      "Apple Vs The Law",
+      "https://formularsumo.co.uk/blog/2025/apple-vs-the-law/"
     ]
   ],
   [
@@ -171,42 +211,12 @@
   ],
   [
     [
-      "2025-07-09, 03:53:59",
-      "https://lobste.rs/s/8ixtyt/agents_don_t_have_agency"
-    ],
-    [
-      "Agents don't have agency",
-      "https://kconner.com/2025/07/08/agents-dont-have-agency.html"
-    ]
-  ],
-  [
-    [
       "2025-07-09, 02:55:35",
       "https://lobste.rs/s/zjlygh/phrase_origin_why_do_we_call_functions"
     ],
     [
       "Phrase origin: Why do we “call” functions?",
       "https://quuxplusone.github.io/blog/2025/04/04/etymology-of-call/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 01:11:12",
-      "https://lobste.rs/s/tp5eoc/hippocratic_license"
-    ],
-    [
-      "Hippocratic License",
-      "https://firstdonoharm.dev/version/3/0/cl-eco-media-my-tal-xuar.txt"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 00:55:00",
-      "https://lobste.rs/s/xjttka/toml_v0_9"
-    ],
-    [
-      "toml v0.9",
-      "https://epage.github.io/blog/2025/07/toml-09/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How I build software quickly",
       "https://evanhahn.com/how-i-build-software-quickly/"
-    ]
-  ],
-  [
-    [
-      "2025-07-08, 10:14:02",
-      "https://lobste.rs/s/9vvhzr/two_weeks_wayback"
-    ],
-    [
-      "Two weeks of wayback",
-      "https://ariadne.space/2025/07/07/two-weeks-of-wayback.html"
     ]
   ]
 ]
