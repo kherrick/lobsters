@@ -2,13 +2,14 @@
 
 * [2025-07-10, 15:46:42](https://lobste.rs/s/fkkoys/coverdrop_blowing_whistle_through_news) - [CoverDrop: Blowing the Whistle Through A News App](https://www.coverdrop.org/)
 * [2025-07-10, 15:21:38](https://lobste.rs/s/0yqrym/lessons_from_creating_my_first_text) - [Lessons From Creating My First Text Adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
+* [2025-07-10, 15:10:59](https://lobste.rs/s/eaumem/jai_demo_design_explanation) - [Jai Demo and Design Explanation](https://www.youtube.com/watch?v=IdpD5QIVOKQ)
+* [2025-07-10, 14:50:25](https://lobste.rs/s/5l2kgz/diffusion_elites_surprisingly_good) - [Diffusion Elites: surprisingly good, simple and embarrassingly parallel](https://blog.christianperone.com/2025/07/diffusion-elites/)
 * [2025-07-10, 14:36:01](https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for) - [What's //go:nosplit for?](https://mcyoung.xyz/2025/07/07/nosplit/)
 * [2025-07-10, 14:32:23](https://lobste.rs/s/uohkhq/multi_player_durable_stream_playground) - [Multi-player Durable Stream Playground](https://s2.dev/playground)
 * [2025-07-10, 13:51:21](https://lobste.rs/s/ixn7eb/haskell_lenses_from_scratch_2021) - [Haskell Lenses From Scratch (2021)](https://www.youtube.com/watch?v=3kduOmZ2Wxw)
 * [2025-07-10, 12:57:49](https://lobste.rs/s/ofymzw/computer_scientists_figure_out_how_prove) - [Computer Scientists Figure Out How To Prove Lies](https://www.quantamagazine.org/computer-scientists-figure-out-how-to-prove-lies-20250709/)
 * [2025-07-10, 11:26:12](https://lobste.rs/s/hngren/monitoring_my_homelab_simply) - [Monitoring my Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
-* [2025-07-10, 10:11:59](https://lobste.rs/s/v5urlx/building_modular_interpreters_visitors) - [Building Modular Interpreters and Visitors in Rust with Extensible Variants and CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-2/)
 * [2025-07-10, 06:26:27](https://lobste.rs/s/migsbj/unveiling_open_source_heroes_power_our) - [Unveiling the Open Source heroes that power our digital infrastructure](https://maintaine.rs/)
 * [2025-07-10, 05:43:43](https://lobste.rs/s/nxb8ar/kubernetes_is_not_just_for_black_friday) - [Kubernetes is not just for Black Friday](https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/)
 * [2025-07-10, 03:58:14](https://lobste.rs/s/gdw8pc/whirlwind_tutorial_on_creating_really) - [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
@@ -24,7 +25,6 @@
 * [2025-07-09, 11:51:43](https://lobste.rs/s/cil4ao/brut_new_web_framework_for_ruby) - [Brut: A New Web Framework for Ruby](https://naildrivin5.com/blog/2025/07/08/brut-a-new-web-framework-for-ruby.html)
 * [2025-07-09, 08:20:49](https://lobste.rs/s/baio5y/tree_borrows_paper_is_finally_published) - [The Tree Borrows paper is finally published](https://www.ralfj.de/blog/2025/07/07/tree-borrows-paper.html)
 * [2025-07-08, 21:14:37](https://lobste.rs/s/os54bi/systemd_has_been_complete_utter) - [systemd has been a complete, utter, unmitigated success](https://blog.tjll.net/the-systemd-revolution-has-been-a-success/)
-* [2025-07-08, 14:21:56](https://lobste.rs/s/zlm4fp/how_i_build_software_quickly) - [How I build software quickly](https://evanhahn.com/how-i-build-software-quickly/)
 
 ## [Archives](archives/index.md)
 
