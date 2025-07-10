@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-10](index.md)
 
+* [2025-07-10, 11:47:24](https://lobste.rs/s/wwi6hc/essential_accidental_configuration) - [Essential and accidental configuration](https://jfmengels.net/essential-and-accidental-configuration/)
 * [2025-07-10, 11:26:12](https://lobste.rs/s/hngren/monitoring_my_homelab_simply) - [Monitoring my Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 10:52:50](https://lobste.rs/s/yljjit/optimizing_math_expression_parser_rust) - [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser/)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
