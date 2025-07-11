@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-11, 19:29:00",
+      "https://lobste.rs/s/rqkuul/placing_functions"
+    ],
+    [
+      "Placing functions",
+      "https://blog.yoshuawuyts.com/placing-functions/"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 19:26:05",
       "https://lobste.rs/s/ugyxdj/new_date_wtf"
     ],
@@ -137,16 +147,6 @@
     [
       "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
       "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 05:30:20",
-      "https://lobste.rs/s/68ekgl/writing_ir_from_scratch_survive_write"
-    ],
-    [
-      "Writing an IR from Scratch and survive to write a post",
-      "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
     ]
   ],
   [
