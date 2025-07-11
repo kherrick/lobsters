@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-11, 01:21:06",
+      "https://lobste.rs/s/ljookn/concurrent_programming_with_harmony"
+    ],
+    [
+      "Concurrent Programming with Harmony",
+      "https://harmony.cs.cornell.edu/book/"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 00:38:06",
       "https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challanges"
     ],
@@ -127,16 +137,6 @@
     [
       "Multi-player Durable Stream Playground",
       "https://s2.dev/playground"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 13:51:21",
-      "https://lobste.rs/s/ixn7eb/haskell_lenses_from_scratch_2021"
-    ],
-    [
-      "Haskell Lenses From Scratch (2021)",
-      "https://www.youtube.com/watch?v=3kduOmZ2Wxw"
     ]
   ],
   [
