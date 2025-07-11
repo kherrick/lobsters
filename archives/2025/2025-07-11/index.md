@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 18:01:35](https://lobste.rs/s/w7ft2q/evtx_viewer_windows_event_log_explorer) - [EVTX Viewer - Windows Event Log Explorer](https://omerbenamram.github.io/evtx/)
 * [2025-07-11, 17:39:49](https://lobste.rs/s/c5cxwu/cybersecurity_risk_assessment_request) - [Cybersecurity Risk Assessment Request](https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/)
 * [2025-07-11, 17:21:43](https://lobste.rs/s/eagdbx/jank_is_c) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
 * [2025-07-11, 17:19:55](https://lobste.rs/s/ccyux0/building_simple_router_with_openbsd) - [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/)
