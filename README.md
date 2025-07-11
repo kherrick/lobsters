@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-11, 17:21:43](https://lobste.rs/s/eagdbx/jank_is_c) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
+* [2025-07-11, 17:19:55](https://lobste.rs/s/ccyux0/building_simple_router_with_openbsd) - [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/)
 * [2025-07-11, 15:19:42](https://lobste.rs/s/kphnsz/efficiency_sparse_hash_table) - [Efficiency of a sparse hash table](https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html)
 * [2025-07-11, 13:53:25](https://lobste.rs/s/7jmmgq/intermediaries_network_based) - [Intermediaries in Network-based Ecosystems](https://mydata.org/2025/07/04/intermediaries-in-network-based-ecosystems/)
 * [2025-07-11, 13:33:17](https://lobste.rs/s/35tpxv/clustered_postgresql) - [Clustered PostgreSQL](https://arch.dog/bark/clustered-postgresql)
@@ -20,10 +22,8 @@
 * [2025-07-10, 15:21:38](https://lobste.rs/s/0yqrym/lessons_from_creating_my_first_text) - [Lessons From Creating My First Text Adventure](https://entropicthoughts.com/lessons-from-creating-first-text-adventure)
 * [2025-07-10, 15:10:59](https://lobste.rs/s/eaumem/jai_demo_design_explanation) - [Jai Demo and Design Explanation](https://www.youtube.com/watch?v=IdpD5QIVOKQ)
 * [2025-07-10, 14:36:01](https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for) - [What's //go:nosplit for?](https://mcyoung.xyz/2025/07/07/nosplit/)
-* [2025-07-10, 14:32:23](https://lobste.rs/s/uohkhq/multi_player_durable_stream_playground) - [Multi-player Durable Stream Playground](https://s2.dev/playground)
 * [2025-07-10, 11:26:12](https://lobste.rs/s/hngren/monitoring_my_homelab_simply) - [Monitoring my Homelab, Simply](https://b.tuxes.uk/simple-homelab-monitoring.html)
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
-* [2025-07-10, 05:43:43](https://lobste.rs/s/nxb8ar/kubernetes_is_not_just_for_black_friday) - [Kubernetes is not just for Black Friday](https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/)
 * [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
 
 ## [Archives](archives/index.md)

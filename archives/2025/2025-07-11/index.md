@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 17:21:43](https://lobste.rs/s/eagdbx/jank_is_c) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
+* [2025-07-11, 17:19:55](https://lobste.rs/s/ccyux0/building_simple_router_with_openbsd) - [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/)
 * [2025-07-11, 15:19:42](https://lobste.rs/s/kphnsz/efficiency_sparse_hash_table) - [Efficiency of a sparse hash table](https://ashutoshpg.blogspot.com/2025/07/efficiency-of-sparse-hash-table.html)
 * [2025-07-11, 13:53:25](https://lobste.rs/s/7jmmgq/intermediaries_network_based) - [Intermediaries in Network-based Ecosystems](https://mydata.org/2025/07/04/intermediaries-in-network-based-ecosystems/)
 * [2025-07-11, 13:33:17](https://lobste.rs/s/35tpxv/clustered_postgresql) - [Clustered PostgreSQL](https://arch.dog/bark/clustered-postgresql)
