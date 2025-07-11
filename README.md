@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-11, 06:57:22](https://lobste.rs/s/6bc2lv/sipgate_discovers_null_pointer) - [sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware](https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware)
 * [2025-07-11, 05:30:20](https://lobste.rs/s/68ekgl/writing_ir_from_scratch_survive_write) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2025-07-11, 01:21:06](https://lobste.rs/s/ljookn/concurrent_programming_with_harmony) - [Concurrent Programming with Harmony](https://harmony.cs.cornell.edu/book/)
-* [2025-07-11, 00:38:06](https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challanges) - [Anubis now supports non-JS challanges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
+* [2025-07-11, 00:38:06](https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challenges) - [Anubis now supports non-JS challenges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
 * [2025-07-11, 00:36:34](https://lobste.rs/s/z4jhtb/remembrance_matthew_s_trout_mst) - [A remembrance of Matthew S. Trout (mst)](https://curtispoe.org/blog/rip-mst.html)
 * [2025-07-11, 00:04:16](https://lobste.rs/s/zs83tx/lossless_float_image_compression) - [Lossless float image compression](https://aras-p.info/blog/2025/07/08/Lossless-Float-Image-Compression/)
 * [2025-07-10, 23:04:03](https://lobste.rs/s/pzqxqm/postgres_listen_notify_does_not_scale) - [Postgres LISTEN/NOTIFY does not scale](https://www.recall.ai/blog/postgres-listen-notify-does-not-scale)
@@ -20,7 +21,6 @@
 * [2025-07-10, 10:39:45](https://lobste.rs/s/bvsulo/about_clew) - [About Clew](https://clew.se/about/)
 * [2025-07-10, 06:26:27](https://lobste.rs/s/migsbj/unveiling_open_source_heroes_power_our) - [Unveiling the Open Source heroes that power our digital infrastructure](https://maintaine.rs/)
 * [2025-07-10, 05:43:43](https://lobste.rs/s/nxb8ar/kubernetes_is_not_just_for_black_friday) - [Kubernetes is not just for Black Friday](https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/)
-* [2025-07-10, 02:09:46](https://lobste.rs/s/bhnto9/closures_for_hare) - [Closures for Hare](https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E)
 * [2025-07-10, 00:31:42](https://lobste.rs/s/jb8xjy/using_fs_usage_see_what_files_process_is) - [Using fs_usage to see what files a process is using](https://til.simonwillison.net/macos/fs-usage)
 * [2025-07-09, 22:55:52](https://lobste.rs/s/ak9mmk/microhs_tiny_haskell_compiler) - [MicroHs, a tiny Haskell Compiler](https://www.youtube.com/watch?v=SJwvPEq4Mok)
 * [2025-07-09, 19:40:06](https://lobste.rs/s/n8wej0/hare_by_example) - [Hare by Example](https://harebyexample.org)
