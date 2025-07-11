@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-11, 06:57:22",
+      "https://lobste.rs/s/6bc2lv/sipgate_discovers_null_pointer"
+    ],
+    [
+      "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
+      "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 05:30:20",
       "https://lobste.rs/s/68ekgl/writing_ir_from_scratch_survive_write"
     ],
@@ -22,10 +32,10 @@
   [
     [
       "2025-07-11, 00:38:06",
-      "https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challanges"
+      "https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challenges"
     ],
     [
-      "Anubis now supports non-JS challanges",
+      "Anubis now supports non-JS challenges",
       "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Kubernetes is not just for Black Friday",
       "https://ergaster.org/posts/2025/07/09-kubernetes-black-friday/"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 02:09:46",
-      "https://lobste.rs/s/bhnto9/closures_for_hare"
-    ],
-    [
-      "Closures for Hare",
-      "https://lists.sr.ht/~sircmpwn/hare-rfc/%3CDB54BK1QFAMO.VURD1415NHT3@ddevault.org%3E"
     ]
   ],
   [
