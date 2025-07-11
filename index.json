@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-11, 23:18:53",
+      "https://lobste.rs/s/vuguez/watchwitch_interoperability_privacy"
+    ],
+    [
+      "WatchWitch: Interoperability, Privacy, and Autonomy for the Apple Watch",
+      "https://arxiv.org/abs/2507.07210"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 22:55:47",
       "https://lobste.rs/s/s6yydx/faking_jpeg"
     ],
@@ -227,16 +237,6 @@
     [
       "Jai Demo and Design Explanation",
       "https://www.youtube.com/watch?v=IdpD5QIVOKQ"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 14:36:01",
-      "https://lobste.rs/s/ta3s2j/what_s_go_nosplit_for"
-    ],
-    [
-      "What's //go:nosplit for?",
-      "https://mcyoung.xyz/2025/07/07/nosplit/"
     ]
   ],
   [
