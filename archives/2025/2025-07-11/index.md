@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 07:34:00](https://lobste.rs/s/1r7tgd/not_so_fast_ai_coding_tools_can_actually) - [Not So Fast: AI Coding Tools Can Actually Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
 * [2025-07-11, 06:57:22](https://lobste.rs/s/6bc2lv/sipgate_discovers_null_pointer) - [sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware](https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware)
 * [2025-07-11, 05:30:20](https://lobste.rs/s/68ekgl/writing_ir_from_scratch_survive_write) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2025-07-11, 01:21:06](https://lobste.rs/s/ljookn/concurrent_programming_with_harmony) - [Concurrent Programming with Harmony](https://harmony.cs.cornell.edu/book/)
