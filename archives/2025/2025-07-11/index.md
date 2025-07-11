@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 19:29:00](https://lobste.rs/s/rqkuul/placing_functions) - [Placing functions](https://blog.yoshuawuyts.com/placing-functions/)
 * [2025-07-11, 19:26:05](https://lobste.rs/s/ugyxdj/new_date_wtf) - [new Date(\"wtf\")](https://jsdate.wtf/)
 * [2025-07-11, 19:24:07](https://lobste.rs/s/ltp2yr/wasm_hard_way_porting_chicory_compiler) - [Wasm the Hard Way: Porting the Chicory Compiler to Android](https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/)
 * [2025-07-11, 18:01:35](https://lobste.rs/s/w7ft2q/evtx_viewer_windows_event_log_explorer) - [EVTX Viewer - Windows Event Log Explorer](https://omerbenamram.github.io/evtx/)
