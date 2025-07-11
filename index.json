@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-11, 19:26:05",
+      "https://lobste.rs/s/ugyxdj/new_date_wtf"
+    ],
+    [
+      "new Date(\"wtf\")",
+      "https://jsdate.wtf/"
+    ]
+  ],
+  [
+    [
+      "2025-07-11, 19:24:07",
+      "https://lobste.rs/s/ltp2yr/wasm_hard_way_porting_chicory_compiler"
+    ],
+    [
+      "Wasm the Hard Way: Porting the Chicory Compiler to Android",
+      "https://blog.evacchi.dev/posts/2025/07/11/wasm-the-hard-way-porting-the-chicory-compiler-to-android/"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 18:01:35",
       "https://lobste.rs/s/w7ft2q/evtx_viewer_windows_event_log_explorer"
     ],
@@ -227,26 +247,6 @@
     [
       "Monitoring my Homelab, Simply",
       "https://b.tuxes.uk/simple-homelab-monitoring.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 10:39:45",
-      "https://lobste.rs/s/bvsulo/about_clew"
-    ],
-    [
-      "About Clew",
-      "https://clew.se/about/"
-    ]
-  ],
-  [
-    [
-      "2025-07-09, 19:40:06",
-      "https://lobste.rs/s/n8wej0/hare_by_example"
-    ],
-    [
-      "Hare by Example",
-      "https://harebyexample.org"
     ]
   ]
 ]
