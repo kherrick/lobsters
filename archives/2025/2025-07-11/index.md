@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-11](index.md)
 
+* [2025-07-11, 13:53:25](https://lobste.rs/s/7jmmgq/intermediaries_network_based) - [Intermediaries in Network-based Ecosystems](https://mydata.org/2025/07/04/intermediaries-in-network-based-ecosystems/)
 * [2025-07-11, 13:33:17](https://lobste.rs/s/35tpxv/clustered_postgresql) - [Clustered PostgreSQL](https://arch.dog/bark/clustered-postgresql)
 * [2025-07-11, 13:24:30](https://lobste.rs/s/vzkmtj/forget_borrow_checkers_c3_solved_memory) - [Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
 * [2025-07-11, 13:19:11](https://lobste.rs/s/gd80z9/ai_integration_services_no_code_rewrite) - [AI integration services - no code rewrite](https://keith-mifsud.me/ai-integration-services)
