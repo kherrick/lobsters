@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-12, 20:23:05",
+      "https://lobste.rs/s/9wf7sc/aeron_efficient_reliable_udp_unicast_udp"
+    ],
+    [
+      "aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+      "https://github.com/aeron-io/aeron"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 20:08:20",
       "https://lobste.rs/s/ip3wbn/angr_open_source_binary_analysis"
     ],
@@ -187,16 +197,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 07:34:00",
-      "https://lobste.rs/s/1r7tgd/not_so_fast_ai_coding_tools_can_actually"
-    ],
-    [
-      "Not So Fast: AI Coding Tools Can Actually Reduce Productivity",
-      "https://secondthoughts.ai/p/ai-coding-slowdown"
     ]
   ],
   [
