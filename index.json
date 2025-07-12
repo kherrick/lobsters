@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-12, 22:46:58",
+      "https://lobste.rs/s/4tgs7o/simple_live_reload_for_developing_static"
+    ],
+    [
+      "Simple live reload for developing static sites",
+      "https://leanrada.com/notes/simple-live-reload/"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 21:57:37",
       "https://lobste.rs/s/cbchxp/don_t_animate_height"
     ],
@@ -197,16 +207,6 @@
     [
       "Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes",
       "https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 09:40:31",
-      "https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend"
     ]
   ],
   [
