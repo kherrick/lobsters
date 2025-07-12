@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-07-11, 06:57:22",
+      "https://lobste.rs/s/6bc2lv/sipgate_discovers_null_pointer"
+    ],
+    [
+      "sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware",
+      "https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware"
+    ]
+  ],
+  [
+    [
       "2025-07-11, 00:38:06",
       "https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challenges"
     ],
@@ -207,16 +217,6 @@
     [
       "A remembrance of Matthew S. Trout (mst)",
       "https://curtispoe.org/blog/rip-mst.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-10, 23:04:03",
-      "https://lobste.rs/s/pzqxqm/postgres_listen_notify_does_not_scale"
-    ],
-    [
-      "Postgres LISTEN/NOTIFY does not scale",
-      "https://www.recall.ai/blog/postgres-listen-notify-does-not-scale"
     ]
   ],
   [
