@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-12, 07:01:45",
+      "https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly"
+    ],
+    [
+      "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
+      "https://github.com/vpetersson/dslf"
+    ]
+  ],
+  [
+    [
       "2025-07-12, 01:08:39",
       "https://lobste.rs/s/gw7wq0/hanami_elephant_room"
     ],
@@ -147,16 +157,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 09:22:27",
-      "https://lobste.rs/s/8zc40x/mill_build_tool_v1_0_0_release_highlights"
-    ],
-    [
-      "Mill Build Tool v1.0.0 Release Highlights",
-      "https://mill-build.org/blog/13-mill-build-tool-v1-0-0.html"
     ]
   ],
   [
