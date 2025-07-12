@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-12](index.md)
 
+* [2025-07-12, 20:08:20](https://lobste.rs/s/ip3wbn/angr_open_source_binary_analysis) - [angr (open-source binary analysis platform for Python)](https://angr.io/)
 * [2025-07-12, 16:16:40](https://lobste.rs/s/f0tt1k/working_through_writing_c_compiler) - [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 16:00:55](https://lobste.rs/s/si4u1m/dyson_sphere_program_s_new) - [Dyson Sphere Program's new multithreading framework](https://store.steampowered.com/news/app/1366540/view/543361383085900510)
 * [2025-07-12, 07:01:45](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly) - [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)

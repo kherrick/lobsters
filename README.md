@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-12, 20:08:20](https://lobste.rs/s/ip3wbn/angr_open_source_binary_analysis) - [angr (open-source binary analysis platform for Python)](https://angr.io/)
 * [2025-07-12, 16:16:40](https://lobste.rs/s/f0tt1k/working_through_writing_c_compiler) - [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 16:00:55](https://lobste.rs/s/si4u1m/dyson_sphere_program_s_new) - [Dyson Sphere Program's new multithreading framework](https://store.steampowered.com/news/app/1366540/view/543361383085900510)
 * [2025-07-12, 07:01:45](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly) - [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)
@@ -19,7 +20,6 @@
 * [2025-07-11, 13:24:30](https://lobste.rs/s/vzkmtj/forget_borrow_checkers_c3_solved_memory) - [Forget Borrow Checkers: C3 Solved Memory Lifetimes With Scopes](https://c3-lang.org/blog/forget-borrow-checkers-c3-solved-memory-lifetimes-with-scopes/)
 * [2025-07-11, 09:40:31](https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dtj5hr/what_are_you_doing_this_weekend)
 * [2025-07-11, 07:34:00](https://lobste.rs/s/1r7tgd/not_so_fast_ai_coding_tools_can_actually) - [Not So Fast: AI Coding Tools Can Actually Reduce Productivity](https://secondthoughts.ai/p/ai-coding-slowdown)
-* [2025-07-11, 06:57:22](https://lobste.rs/s/6bc2lv/sipgate_discovers_null_pointer) - [sipgate discovers null-pointer-dereference  in Mediatek VoLTE stack firmware](https://www.sipgate.de/blog/sipgate-discovers-null-pointer-dereference-in-mediatek-volte-stack-firmware)
 * [2025-07-11, 00:38:06](https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challenges) - [Anubis now supports non-JS challenges](https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge)
 * [2025-07-11, 00:36:34](https://lobste.rs/s/z4jhtb/remembrance_matthew_s_trout_mst) - [A remembrance of Matthew S. Trout (mst)](https://curtispoe.org/blog/rip-mst.html)
 * [2025-07-10, 20:11:28](https://lobste.rs/s/jjqmuu/almost_catastrophic_openzfs_bug_humans) - [An (almost) catastrophic OpenZFS bug and the humans that made it (and Rust is here too)](https://despairlabs.com/blog/posts/2025-07-10-an-openzfs-bug-and-the-humans-that-made-it/)
