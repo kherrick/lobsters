@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 16:30:34",
+      "https://lobste.rs/s/rnwozv/detour_detour_through_linux_dynamic"
+    ],
+    [
+      "detour: A detour through the Linux dynamic linker",
+      "https://github.com/graphitemaster/detour"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 14:29:56",
       "https://lobste.rs/s/cxucew/bringing_virtualization_x86"
     ],
@@ -207,16 +217,6 @@
     [
       "Faking a JPEG",
       "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 19:53:43",
-      "https://lobste.rs/s/ogfcwa/measuring_power_network_frequency_using"
-    ],
-    [
-      "Measuring power network frequency using junk you have in your closet",
-      "https://halcy.de/blog/2025/02/09/measuring-power-network-frequency-using-junk-you-have-in-your-closet/"
     ]
   ],
   [
