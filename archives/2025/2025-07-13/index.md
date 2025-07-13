@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 17:19:31](https://lobste.rs/s/v9qbqc/haiku_activity_contract_report_june_2025) - [Haiku Activity & Contract Report, June 2025](https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/)
 * [2025-07-13, 17:03:53](https://lobste.rs/s/m0mwn4/missing_guide_dataflow_analysis_mlir) - [The missing guide to Dataflow Analysis in MLIR](https://lowlevelbits.com/p/the-missing-guide-to-dataflow-analysis)
 * [2025-07-13, 16:58:03](https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 16:57:43](https://lobste.rs/s/gjh1xi/notes_on_graham_s_ansi_common_lisp) - [Notes on Graham's ANSI Common Lisp](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html)
