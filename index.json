@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 14:29:56",
+      "https://lobste.rs/s/cxucew/bringing_virtualization_x86"
+    ],
+    [
+      "Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)",
+      "http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 13:45:39",
       "https://lobste.rs/s/lkbawj/local_chatbot_rag_with_freebsd_knowledge"
     ],
@@ -237,16 +247,6 @@
     [
       "Building a Simple Router with OpenBSD",
       "https://btxx.org/posts/openbsd-router/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 00:38:06",
-      "https://lobste.rs/s/aa7ske/anubis_now_supports_non_js_challenges"
-    ],
-    [
-      "Anubis now supports non-JS challenges",
-      "https://anubis.techaro.lol/blog/release/v1.20.0/#no-js-challenge"
     ]
   ]
 ]
