@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 06:20:11",
+      "https://lobste.rs/s/ubpr2o/migrating_my_nas_from_coreos_flatcar"
+    ],
+    [
+      "Migrating my NAS from CoreOS/Flatcar Linux to NixOS",
+      "https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 02:28:06",
       "https://lobste.rs/s/hul45q/constrained_languages_are_easier"
     ],
@@ -187,16 +197,6 @@
     [
       "new Date(\"wtf\")",
       "https://jsdate.wtf/"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 17:39:49",
-      "https://lobste.rs/s/c5cxwu/cybersecurity_risk_assessment_request"
-    ],
-    [
-      "Cybersecurity Risk Assessment Request",
-      "https://daniel.haxx.se/blog/2025/07/11/cybersecurity-risk-assessment-request/"
     ]
   ],
   [
