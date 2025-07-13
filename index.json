@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 17:48:52",
+      "https://lobste.rs/s/wjdfe5/apple_trace_cache"
+    ],
+    [
+      "Apple Trace Cache",
+      "https://www.realworldtech.com/forum/?threadid=223220"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 17:19:31",
       "https://lobste.rs/s/v9qbqc/haiku_activity_contract_report_june_2025"
     ],
@@ -187,16 +197,6 @@
     [
       "aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
       "https://github.com/aeron-io/aeron"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 20:08:20",
-      "https://lobste.rs/s/ip3wbn/angr_open_source_binary_analysis"
-    ],
-    [
-      "angr (open-source binary analysis platform for Python)",
-      "https://angr.io/"
     ]
   ],
   [
