@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-13, 18:13:39",
+      "https://lobste.rs/s/tpekcr/linux_kernel_pipapo_set_double_free_lpe"
+    ],
+    [
+      "Linux Kernel Pipapo Set Double Free LPE",
+      "https://ssd-disclosure.com/ssd-advisory-linux-kernel-pipapo-set-double-free-lpe/"
+    ]
+  ],
+  [
+    [
       "2025-07-13, 17:48:52",
       "https://lobste.rs/s/wjdfe5/apple_trace_cache"
     ],
@@ -227,16 +237,6 @@
     [
       "Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust",
       "https://github.com/vpetersson/dslf"
-    ]
-  ],
-  [
-    [
-      "2025-07-11, 22:55:47",
-      "https://lobste.rs/s/s6yydx/faking_jpeg"
-    ],
-    [
-      "Faking a JPEG",
-      "https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/"
     ]
   ],
   [
