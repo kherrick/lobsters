@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-13, 18:21:27](https://lobste.rs/s/7o1ilj/exploiting_all_google_kernelctf) - [Exploiting All Google kernelCTF Instances And Debian 12 With A 0-Day For $82k: A RBTree Family Drama (Part One)](https://syst3mfailure.io/rbtree-family-drama/)
 * [2025-07-13, 18:13:39](https://lobste.rs/s/tpekcr/linux_kernel_pipapo_set_double_free_lpe) - [Linux Kernel Pipapo Set Double Free LPE](https://ssd-disclosure.com/ssd-advisory-linux-kernel-pipapo-set-double-free-lpe/)
 * [2025-07-13, 17:48:52](https://lobste.rs/s/wjdfe5/apple_trace_cache) - [Apple Trace Cache](https://www.realworldtech.com/forum/?threadid=223220)
 * [2025-07-13, 17:19:31](https://lobste.rs/s/v9qbqc/haiku_activity_contract_report_june_2025) - [Haiku Activity & Contract Report, June 2025](https://www.haiku-os.org/blog/waddlesplash/2025-07-12-haiku_activity_contract_report_june_2025/)
@@ -8,7 +9,7 @@
 * [2025-07-13, 16:30:34](https://lobste.rs/s/rnwozv/detour_detour_through_linux_dynamic) - [detour: A detour through the Linux dynamic linker](https://github.com/graphitemaster/detour)
 * [2025-07-13, 14:29:56](https://lobste.rs/s/cxucew/bringing_virtualization_x86) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)](https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
 * [2025-07-13, 13:45:39](https://lobste.rs/s/lkbawj/local_chatbot_rag_with_freebsd_knowledge) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
-* [2025-07-13, 09:52:04](https://lobste.rs/s/lree6z/perldelta_what_is_new_for_perl_v5_42_0) - [perldelta - what is new for perl v5.42.0](https://perldoc.perl.org/perldelta)
+* [2025-07-13, 09:52:04](https://lobste.rs/s/lree6z/perldelta_what_is_new_for_perl_v5_42_0) - [perldelta - what is new for perl v5.42.0](https://perldoc.perl.org/5.42.0/perldelta)
 * [2025-07-13, 08:19:04](https://lobste.rs/s/1yqzqb/design_implementation_extensible) - [The Design and Implementation of Extensible Records for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-3/)
 * [2025-07-13, 08:17:48](https://lobste.rs/s/ra4nyf/dict_unpacking_at_home_can_we_have_dict) - [dict-unpacking-at-home: can we have dict unpacking in python?](https://github.com/asottile/dict-unpacking-at-home)
 * [2025-07-13, 06:20:11](https://lobste.rs/s/ubpr2o/migrating_my_nas_from_coreos_flatcar) - [Migrating my NAS from CoreOS/Flatcar Linux to NixOS](https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/)
@@ -20,7 +21,6 @@
 * [2025-07-12, 21:57:37](https://lobste.rs/s/cbchxp/don_t_animate_height) - [Don't animate height](https://www.granola.ai/blog/dont-animate-height)
 * [2025-07-12, 21:45:52](https://lobste.rs/s/wmj7pg/haunted_by_legacy_discovering) - [Haunted by Legacy: Discovering and Exploiting Vulnerable Tunnelling Hosts](https://github.com/vanhoefm/tunneltester)
 * [2025-07-12, 21:44:03](https://lobste.rs/s/ijyz5o/easy_dynamic_dispatch_using_glibc) - [Easy dynamic dispatch using GLIBC Hardware Capabilities](https://www.kvr.at/posts/easy-dynamic-dispatch-using-GLIBC-hardware-capabilities/)
-* [2025-07-12, 20:23:05](https://lobste.rs/s/9wf7sc/aeron_efficient_reliable_udp_unicast_udp) - [aeron: Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/aeron-io/aeron)
 * [2025-07-12, 16:16:40](https://lobste.rs/s/f0tt1k/working_through_writing_c_compiler) - [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 16:00:55](https://lobste.rs/s/si4u1m/dyson_sphere_program_s_new) - [Dyson Sphere Program's new multithreading framework](https://store.steampowered.com/news/app/1366540/view/543361383085900510)
 * [2025-07-12, 07:01:45](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly) - [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)
