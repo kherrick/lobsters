@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-13, 17:03:53](https://lobste.rs/s/m0mwn4/missing_guide_dataflow_analysis_mlir) - [The missing guide to Dataflow Analysis in MLIR](https://lowlevelbits.com/p/the-missing-guide-to-dataflow-analysis)
+* [2025-07-13, 16:58:03](https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
+* [2025-07-13, 16:57:43](https://lobste.rs/s/gjh1xi/notes_on_graham_s_ansi_common_lisp) - [Notes on Graham's ANSI Common Lisp](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html)
 * [2025-07-13, 16:30:34](https://lobste.rs/s/rnwozv/detour_detour_through_linux_dynamic) - [detour: A detour through the Linux dynamic linker](https://github.com/graphitemaster/detour)
 * [2025-07-13, 14:29:56](https://lobste.rs/s/cxucew/bringing_virtualization_x86) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)](https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
 * [2025-07-13, 13:45:39](https://lobste.rs/s/lkbawj/local_chatbot_rag_with_freebsd_knowledge) - [Local Chatbot RAG with FreeBSD Knowledge](https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/)
@@ -20,11 +23,8 @@
 * [2025-07-12, 16:16:40](https://lobste.rs/s/f0tt1k/working_through_writing_c_compiler) - [Working through ‘Writing A C Compiler’](https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/)
 * [2025-07-12, 16:00:55](https://lobste.rs/s/si4u1m/dyson_sphere_program_s_new) - [Dyson Sphere Program's new multithreading framework](https://store.steampowered.com/news/app/1366540/view/543361383085900510)
 * [2025-07-12, 07:01:45](https://lobste.rs/s/btcmpp/damn_small_link_forwarder_dslf_bit_ly) - [Damn Small Link Forwarder (DSLF): a bit.ly replacement written in rust](https://github.com/vpetersson/dslf)
-* [2025-07-12, 01:08:39](https://lobste.rs/s/gw7wq0/hanami_elephant_room) - [Hanami and the elephant in the room](https://hanamirb.org/blog/2025/07/11/hanami-and-the-elephant-in-the-room/)
 * [2025-07-11, 22:55:47](https://lobste.rs/s/s6yydx/faking_jpeg) - [Faking a JPEG](https://www.ty-penguin.org.uk/~auj/blog/2025/03/25/fake-jpeg/)
 * [2025-07-11, 19:26:05](https://lobste.rs/s/ugyxdj/new_date_wtf) - [new Date(\"wtf\")](https://jsdate.wtf/)
-* [2025-07-11, 17:21:43](https://lobste.rs/s/eagdbx/jank_is_c) - [jank is C++](https://jank-lang.org/blog/2025-07-11-jank-is-cpp/)
-* [2025-07-11, 17:19:55](https://lobste.rs/s/ccyux0/building_simple_router_with_openbsd) - [Building a Simple Router with OpenBSD](https://btxx.org/posts/openbsd-router/)
 
 ## [Archives](archives/index.md)
 

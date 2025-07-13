@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-13](index.md)
 
+* [2025-07-13, 17:03:53](https://lobste.rs/s/m0mwn4/missing_guide_dataflow_analysis_mlir) - [The missing guide to Dataflow Analysis in MLIR](https://lowlevelbits.com/p/the-missing-guide-to-dataflow-analysis)
+* [2025-07-13, 16:58:03](https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
+* [2025-07-13, 16:57:43](https://lobste.rs/s/gjh1xi/notes_on_graham_s_ansi_common_lisp) - [Notes on Graham's ANSI Common Lisp](https://courses.cs.northwestern.edu/325/readings/graham/graham-notes.html)
 * [2025-07-13, 16:30:34](https://lobste.rs/s/rnwozv/detour_detour_through_linux_dynamic) - [detour: A detour through the Linux dynamic linker](https://github.com/graphitemaster/detour)
 * [2025-07-13, 14:29:56](https://lobste.rs/s/cxucew/bringing_virtualization_x86) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)](https://web.archive.org/web/20250603150137if_/http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
 * [2025-07-13, 14:29:56](https://lobste.rs/s/cxucew/bringing_virtualization_x86) - [Bringing Virtualization to the x86 Architecture with the Original VMware Workstation (2012)](http://www.cs.columbia.edu/~cdall/candidacy/pdf/Bugnion2012.pdf)
