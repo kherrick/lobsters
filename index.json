@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-14, 12:45:49",
+      "https://lobste.rs/s/9c5i3u/ten_years_running_every_day_visualized"
+    ],
+    [
+      "Ten years of running every day, visualized",
+      "https://nodaysoff.run/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 12:11:40",
       "https://lobste.rs/s/plrsmw/data_alignment_for_speed_myth_reality"
     ],
@@ -237,16 +247,6 @@
     [
       "Zig's New Async I/O",
       "https://kristoff.it/blog/zig-new-async-io/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 22:46:58",
-      "https://lobste.rs/s/4tgs7o/simple_live_reload_for_developing_static"
-    ],
-    [
-      "Simple live reload for developing static sites",
-      "https://leanrada.com/notes/simple-live-reload/"
     ]
   ]
 ]
