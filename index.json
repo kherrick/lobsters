@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-14, 23:49:14",
+      "https://lobste.rs/s/yv1pnw/php_rfc_switching_3_clause_bsd_licence"
+    ],
+    [
+      "PHP RFC: Switching to 3-clause BSD licence",
+      "https://wiki.php.net/rfc/php_license_update"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 20:25:07",
       "https://lobste.rs/s/untq6g/context_rot_how_increasing_input_tokens"
     ],
@@ -237,16 +247,6 @@
     [
       "Programming Language Theory has a public relations problem",
       "https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 16:58:03",
-      "https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting"
-    ],
-    [
-      "Algorithms for making interesting organic simulations",
-      "https://bleuje.com/physarum-explanation/"
     ]
   ]
 ]
