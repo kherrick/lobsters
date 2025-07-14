@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 23:49:14](https://lobste.rs/s/yv1pnw/php_rfc_switching_3_clause_bsd_licence) - [PHP RFC: Switching to 3-clause BSD licence](https://wiki.php.net/rfc/php_license_update)
 * [2025-07-14, 20:25:07](https://lobste.rs/s/untq6g/context_rot_how_increasing_input_tokens) - [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 19:23:46](https://lobste.rs/s/l3mnv9/guessing_player_s_sunrise) - [Guessing the player's sunrise](https://docs.getlost.gg/latest/blog/sun-time/)
 * [2025-07-14, 19:13:16](https://lobste.rs/s/qtfnlu/embedding_user_defined_indexes_apache) - [Embedding User-Defined Indexes in Apache Parquet Files](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)

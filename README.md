@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-14, 23:49:14](https://lobste.rs/s/yv1pnw/php_rfc_switching_3_clause_bsd_licence) - [PHP RFC: Switching to 3-clause BSD licence](https://wiki.php.net/rfc/php_license_update)
 * [2025-07-14, 20:25:07](https://lobste.rs/s/untq6g/context_rot_how_increasing_input_tokens) - [Context Rot: How Increasing Input Tokens Impacts LLM Performance](https://research.trychroma.com/context-rot)
 * [2025-07-14, 19:23:46](https://lobste.rs/s/l3mnv9/guessing_player_s_sunrise) - [Guessing the player's sunrise](https://docs.getlost.gg/latest/blog/sun-time/)
 * [2025-07-14, 19:13:16](https://lobste.rs/s/qtfnlu/embedding_user_defined_indexes_apache) - [Embedding User-Defined Indexes in Apache Parquet Files](https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/)
@@ -24,7 +25,6 @@
 * [2025-07-14, 05:36:50](https://lobste.rs/s/2gmuhq/how_does_screen_work) - [How does a screen work?](https://www.makingsoftware.com/chapters/how-a-screen-works)
 * [2025-07-14, 02:02:46](https://lobste.rs/s/x9s2mu/store_tags_after_payloads) - [Store tags after payloads](https://www.scattered-thoughts.net/writing/store-tags-after-payloads/)
 * [2025-07-13, 20:34:28](https://lobste.rs/s/byp59z/programming_language_theory_has_public) - [Programming Language Theory has a public relations problem](https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/)
-* [2025-07-13, 16:58:03](https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 
 ## [Archives](archives/index.md)
 
