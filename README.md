@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-14, 18:46:44](https://lobste.rs/s/qov0vo/row_polymorphic_programming) - [Row Polymorphic Programming](https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html)
 * [2025-07-14, 17:30:20](https://lobste.rs/s/1l3beg/panasonic_openbsd_3) - [Panasonic + OpenBSD = <3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)
 * [2025-07-14, 17:10:29](https://lobste.rs/s/ysfkjm/creating_deploy_mcp_server_with_smithery) - [Creating and Deploy an MCP Server with Smithery](https://thelinell.com/posts/2025/smithery_mcp_creation/)
 * [2025-07-14, 17:10:04](https://lobste.rs/s/75zw2o/strategies_for_very_fast_lexers) - [Strategies for very fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
@@ -23,7 +24,6 @@
 * [2025-07-13, 20:34:28](https://lobste.rs/s/byp59z/programming_language_theory_has_public) - [Programming Language Theory has a public relations problem](https://happyfellow.bearblog.dev/programming-language-theory-has-a-public-relations-problem/)
 * [2025-07-13, 16:58:03](https://lobste.rs/s/rx4vvq/algorithms_for_making_interesting) - [Algorithms for making interesting organic simulations](https://bleuje.com/physarum-explanation/)
 * [2025-07-13, 16:30:34](https://lobste.rs/s/rnwozv/detour_detour_through_linux_dynamic) - [detour: A detour through the Linux dynamic linker](https://github.com/graphitemaster/detour)
-* [2025-07-13, 06:20:11](https://lobste.rs/s/ubpr2o/migrating_my_nas_from_coreos_flatcar) - [Migrating my NAS from CoreOS/Flatcar Linux to NixOS](https://michael.stapelberg.ch/posts/2025-07-13-nixos-nas-network-storage-config/)
 * [2025-07-13, 00:13:27](https://lobste.rs/s/mtcsug/zig_s_new_async_i_o) - [Zig's New Async I/O](https://kristoff.it/blog/zig-new-async-io/)
 
 ## [Archives](archives/index.md)
