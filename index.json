@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-14, 19:13:16",
+      "https://lobste.rs/s/qtfnlu/embedding_user_defined_indexes_apache"
+    ],
+    [
+      "Embedding User-Defined Indexes in Apache Parquet Files",
+      "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 18:46:44",
       "https://lobste.rs/s/qov0vo/row_polymorphic_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "Algorithms for making interesting organic simulations",
       "https://bleuje.com/physarum-explanation/"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 00:13:27",
-      "https://lobste.rs/s/mtcsug/zig_s_new_async_i_o"
-    ],
-    [
-      "Zig's New Async I/O",
-      "https://kristoff.it/blog/zig-new-async-io/"
     ]
   ]
 ]
