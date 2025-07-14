@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-14, 08:49:01",
+      "https://lobste.rs/s/kidktn/bash_patch_add_shopt_for_implicit_place"
+    ],
+    [
+      "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
+      "https://savannah.gnu.org/patch/?10534"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 07:18:52",
       "https://lobste.rs/s/1hizee/using_usb_foot_pedal_for_vibe_coding"
     ],
@@ -237,16 +247,6 @@
     [
       "Simple live reload for developing static sites",
       "https://leanrada.com/notes/simple-live-reload/"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 21:57:37",
-      "https://lobste.rs/s/cbchxp/don_t_animate_height"
-    ],
-    [
-      "Don't animate height",
-      "https://www.granola.ai/blog/dont-animate-height"
     ]
   ]
 ]
