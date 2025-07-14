@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-14, 14:23:29",
+      "https://lobste.rs/s/q6comq/binding_application_idris"
+    ],
+    [
+      "Binding Application in Idris",
+      "https://andrevidela.com/blog/2025/binding-application/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 12:45:49",
       "https://lobste.rs/s/9c5i3u/ten_years_running_every_day_visualized"
     ],
@@ -207,16 +217,6 @@
     [
       "detour: A detour through the Linux dynamic linker",
       "https://github.com/graphitemaster/detour"
-    ]
-  ],
-  [
-    [
-      "2025-07-13, 09:52:04",
-      "https://lobste.rs/s/lree6z/perldelta_what_is_new_for_perl_v5_42_0"
-    ],
-    [
-      "perldelta - what is new for perl v5.42.0",
-      "https://perldoc.perl.org/5.42.0/perldelta"
     ]
   ],
   [
