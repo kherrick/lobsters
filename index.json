@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-14, 06:13:27",
+      "https://lobste.rs/s/zyiibk/stepanov_s_biggest_blunder"
+    ],
+    [
+      "Stepanov’s biggest blunder",
+      "https://mmapped.blog/posts/43-stepanovs-biggest-blunder"
+    ]
+  ],
+  [
+    [
+      "2025-07-14, 06:00:34",
+      "https://lobste.rs/s/olsvyy/c_portable_assembly_language_1997"
+    ],
+    [
+      "C-: A Portable Assembly Language (1997)",
+      "https://www.microsoft.com/en-us/research/publication/c-a-portable-assembly-language/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 05:57:15",
       "https://lobste.rs/s/hvo6lf/improving_avif_open_source"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-07-13, 13:45:39",
-      "https://lobste.rs/s/lkbawj/local_chatbot_rag_with_freebsd_knowledge"
-    ],
-    [
-      "Local Chatbot RAG with FreeBSD Knowledge",
-      "https://hackacad.net/post/2025-07-12-local-chatbot-rag-with-freebsd-knowledge/"
-    ]
-  ],
-  [
-    [
       "2025-07-13, 09:52:04",
       "https://lobste.rs/s/lree6z/perldelta_what_is_new_for_perl_v5_42_0"
     ],
@@ -237,16 +247,6 @@
     [
       "Don't animate height",
       "https://www.granola.ai/blog/dont-animate-height"
-    ]
-  ],
-  [
-    [
-      "2025-07-12, 16:16:40",
-      "https://lobste.rs/s/f0tt1k/working_through_writing_c_compiler"
-    ],
-    [
-      "Working through ‘Writing A C Compiler’",
-      "https://jollygoodsw.wordpress.com/2025/03/13/working-through-writing-a-c-compiler/"
     ]
   ]
 ]
