@@ -1,0 +1,3 @@
+# [Published on 2025-07-14](index.md)
+
+* [2025-07-14, 17:30:20](https://lobste.rs/s/1l3beg/0x61_panasonic_openbsd_3) - [『 0x61 』- Panasonic + OpenBSD = <3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)

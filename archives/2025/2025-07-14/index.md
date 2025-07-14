@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 17:30:20](https://lobste.rs/s/1l3beg/0x61_panasonic_openbsd_3) - [『 0x61 』- Panasonic + OpenBSD = <3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)
 * [2025-07-14, 17:10:29](https://lobste.rs/s/ysfkjm/creating_deploy_mcp_server_with_smithery) - [Creating and Deploy an MCP Server with Smithery](https://thelinell.com/posts/2025/smithery_mcp_creation/)
 * [2025-07-14, 17:10:04](https://lobste.rs/s/75zw2o/strategies_for_very_fast_lexers) - [Strategies for very fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 17:01:08](https://lobste.rs/s/qhgjks/using_elm_2025) - [Using Elm in 2025](https://engagesoftware.com/news/post/7033/using-elm-in-2025)
