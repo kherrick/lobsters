@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-14](index.md)
 
+* [2025-07-14, 17:10:29](https://lobste.rs/s/ysfkjm/creating_deploy_mcp_server_with_smithery) - [Creating and Deploy an MCP Server with Smithery](https://thelinell.com/posts/2025/smithery_mcp_creation/)
+* [2025-07-14, 17:10:04](https://lobste.rs/s/75zw2o/strategies_for_very_fast_lexers) - [Strategies for very fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
+* [2025-07-14, 17:01:08](https://lobste.rs/s/qhgjks/using_elm_2025) - [Using Elm in 2025](https://engagesoftware.com/news/post/7033/using-elm-in-2025)
 * [2025-07-14, 15:00:39](https://lobste.rs/s/hhxj7i/you_are_box) - [you are in a box](https://jyn.dev/you-are-in-a-box/)
 * [2025-07-14, 14:23:29](https://lobste.rs/s/q6comq/binding_application_idris) - [Binding Application in Idris](https://andrevidela.com/blog/2025/binding-application/)
 * [2025-07-14, 12:45:49](https://lobste.rs/s/9c5i3u/ten_years_running_every_day_visualized) - [Ten years of running every day, visualized](https://nodaysoff.run/)
