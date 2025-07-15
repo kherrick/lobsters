@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 19:45:41",
+      "https://lobste.rs/s/dxq6ei/asking_gemini_write_some_cube_code"
+    ],
+    [
+      "asking gemini to write some cube code",
+      "https://gist.github.com/izabera/788000830d104fa75cebc58e443239e3"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 19:39:47",
       "https://lobste.rs/s/zschiu/introducing_go_cdc_chunkers_chunk"
     ],
@@ -37,16 +47,6 @@
     [
       "Adding lookbehinds to rust-lang/regex",
       "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 15:05:55",
-      "https://lobste.rs/s/c4yg4y/distributed_systems_reliability"
-    ],
-    [
-      "A distributed systems reliability glossary",
-      "https://antithesis.com/resources/reliability_glossary/"
     ]
   ],
   [
