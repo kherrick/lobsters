@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-07-15, 15:05:55",
+      "https://lobste.rs/s/c4yg4y/distributed_systems_reliability"
+    ],
+    [
+      "A distributed systems reliability glossary",
+      "https://antithesis.com/resources/reliability_glossary/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 15:05:26",
       "https://lobste.rs/s/ouvq8x/poor_man_s_bitemporal_data_system_sqlite"
     ],
@@ -187,16 +197,6 @@
     [
       "Diving into Plasma Bigscreen",
       "https://espi.dev/posts/2025/07/plasma-bigscreen/"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 23:49:14",
-      "https://lobste.rs/s/yv1pnw/php_rfc_switching_3_clause_bsd_licence"
-    ],
-    [
-      "PHP RFC: Switching to 3-clause BSD licence",
-      "https://wiki.php.net/rfc/php_license_update"
     ]
   ],
   [
