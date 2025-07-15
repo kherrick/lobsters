@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 19:39:47",
+      "https://lobste.rs/s/zschiu/introducing_go_cdc_chunkers_chunk"
+    ],
+    [
+      "Introducing go-cdc-chunkers: chunk and deduplicate everything",
+      "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 17:50:04",
       "https://lobste.rs/s/deydno/encrypting_files_with_passkeys_age"
     ],
@@ -217,16 +227,6 @@
     [
       "Using Elm in 2025",
       "https://engagesoftware.com/news/post/7033/using-elm-in-2025"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 15:00:39",
-      "https://lobste.rs/s/hhxj7i/you_are_box"
-    ],
-    [
-      "you are in a box",
-      "https://jyn.dev/you-are-in-a-box/"
     ]
   ],
   [
