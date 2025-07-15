@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 17:30:55",
+      "https://lobste.rs/s/wajnta/wikipedia_outage_report_for_may_s_pope"
+    ],
+    [
+      "Wikipedia outage report for May's Pope traffic spike",
+      "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 15:37:35",
       "https://lobste.rs/s/lkw9ys/adding_lookbehinds_rust_lang_regex"
     ],
@@ -237,16 +247,6 @@
     [
       "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
       "https://savannah.gnu.org/patch/?10534"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 02:02:46",
-      "https://lobste.rs/s/x9s2mu/store_tags_after_payloads"
-    ],
-    [
-      "Store tags after payloads",
-      "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/"
     ]
   ]
 ]
