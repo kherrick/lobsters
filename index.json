@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 03:45:05",
+      "https://lobste.rs/s/jwmx9x/diving_into_plasma_bigscreen"
+    ],
+    [
+      "Diving into Plasma Bigscreen",
+      "https://espi.dev/posts/2025/07/plasma-bigscreen/"
+    ]
+  ],
+  [
+    [
       "2025-07-14, 23:49:14",
       "https://lobste.rs/s/yv1pnw/php_rfc_switching_3_clause_bsd_licence"
     ],
@@ -27,16 +37,6 @@
     [
       "Guessing the player's sunrise",
       "https://docs.getlost.gg/latest/blog/sun-time/"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 19:13:16",
-      "https://lobste.rs/s/qtfnlu/embedding_user_defined_indexes_apache"
-    ],
-    [
-      "Embedding User-Defined Indexes in Apache Parquet Files",
-      "https://datafusion.apache.org/blog/2025/07/14/user-defined-parquet-indexes/"
     ]
   ],
   [
