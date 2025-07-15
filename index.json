@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-15, 08:13:21",
+      "https://lobste.rs/s/goyein/automerge_3_0"
+    ],
+    [
+      "Automerge 3.0",
+      "https://automerge.github.io/blog/automerge-3/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 08:07:51",
+      "https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions"
+    ],
+    [
+      "Trying Guix: A Nixer's Impressions",
+      "https://tazj.in/blog/trying-guix"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 08:04:21",
+      "https://lobste.rs/s/w8vouu/when_sigterm_does_nothing_postgres"
+    ],
+    [
+      "When SIGTERM Does Nothing: A Postgres Mystery",
+      "https://clickhouse.com/blog/sigterm-postgres-mystery"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 06:41:46",
       "https://lobste.rs/s/pohsem/initial_implementation_experimental_c"
     ],
@@ -37,16 +67,6 @@
     [
       "PHP RFC: Switching to 3-clause BSD licence",
       "https://wiki.php.net/rfc/php_license_update"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 20:25:07",
-      "https://lobste.rs/s/untq6g/context_rot_how_increasing_input_tokens"
-    ],
-    [
-      "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
-      "https://research.trychroma.com/context-rot"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-14, 10:25:32",
-      "https://lobste.rs/s/y1a8dk/llm_for_software_yo_yo"
-    ],
-    [
-      "The LLM-for-software Yo-yo",
-      "https://tratt.net/laurie/blog/2025/the_llm_for_software_yoyo.html"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 09:40:51",
       "https://lobste.rs/s/j1ps6w/hunt_for_perfect_laptop_continues"
     ],
@@ -217,16 +227,6 @@
     [
       "Improving AVIF in Open Source",
       "https://halide.cx/blog/improving-avif-in-open-source/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 05:36:50",
-      "https://lobste.rs/s/2gmuhq/how_does_screen_work"
-    ],
-    [
-      "How does a screen work?",
-      "https://www.makingsoftware.com/chapters/how-a-screen-works"
     ]
   ],
   [
