@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 06:41:46",
+      "https://lobste.rs/s/pohsem/initial_implementation_experimental_c"
+    ],
+    [
+      "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
+      "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 05:45:28",
       "https://lobste.rs/s/d4egpg/bedrock_tiny_portable_8_bit_virtual"
     ],
@@ -27,16 +37,6 @@
     [
       "PHP RFC: Switching to 3-clause BSD licence",
       "https://wiki.php.net/rfc/php_license_update"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 20:25:07",
-      "https://lobste.rs/s/untq6g/context_rot_how_increasing_input_tokens"
-    ],
-    [
-      "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
-      "https://research.trychroma.com/context-rot"
     ]
   ],
   [
