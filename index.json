@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 09:45:03",
+      "https://lobste.rs/s/f3vn7f/game_trees_hub"
+    ],
+    [
+      "Game of Trees Hub",
+      "https://gothub.org/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 09:35:16",
       "https://lobste.rs/s/kssozd/how_i_keep_up_with_ai_progress"
     ],
@@ -37,16 +47,6 @@
     [
       "Trying Guix: A Nixer's Impressions",
       "https://tazj.in/blog/trying-guix"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 08:04:21",
-      "https://lobste.rs/s/w8vouu/when_sigterm_does_nothing_postgres"
-    ],
-    [
-      "When SIGTERM Does Nothing: A Postgres Mystery",
-      "https://clickhouse.com/blog/sigterm-postgres-mystery"
     ]
   ],
   [
