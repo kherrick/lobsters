@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-15, 13:06:39",
+      "https://lobste.rs/s/r5omhr/openzfs_bug_ported_zig"
+    ],
+    [
+      "OpenZFS Bug Ported to Zig",
+      "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 11:35:03",
       "https://lobste.rs/s/lnn00p/how_get_foreign_keys_horribly_wrong"
     ],
     [
       "How to Get Foreign Keys Horribly Wrong",
       "https://hakibenita.com/django-foreign-keys"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 09:45:03",
+      "https://lobste.rs/s/f3vn7f/game_trees_hub"
+    ],
+    [
+      "Game of Trees Hub",
+      "https://gothub.org/"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-07-14, 18:46:44",
-      "https://lobste.rs/s/qov0vo/row_polymorphic_programming"
-    ],
-    [
-      "Row Polymorphic Programming",
-      "https://www.stranger.systems/posts/by-slug/row-polymorphic-programming.html"
-    ]
-  ],
-  [
-    [
       "2025-07-14, 18:42:16",
       "https://lobste.rs/s/alrfrd/best_c_library"
     ],
@@ -197,16 +207,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/omytrc/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 10:32:25",
-      "https://lobste.rs/s/x3y6ls/upyo_simple_modern_email_sending_library"
-    ],
-    [
-      "Upyo: Simple and modern email sending library for JavaScript",
-      "https://upyo.org/"
     ]
   ],
   [
