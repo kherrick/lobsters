@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-15, 13:11:03](https://lobste.rs/s/8lqcxc/packages_proxies) - [Packages proxies](https://blog.garambrogne.net/packages-proxies-en.html)
 * [2025-07-15, 13:06:39](https://lobste.rs/s/r5omhr/openzfs_bug_ported_zig) - [OpenZFS Bug Ported to Zig](https://andrewkelley.me/post/openzfs-bug-ported-zig.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 * [2025-07-15, 13:11:03](https://lobste.rs/s/8lqcxc/packages_proxies) - [Packages proxies](https://blog.garambrogne.net/packages-proxies-en.html)
 * [2025-07-15, 13:06:39](https://lobste.rs/s/r5omhr/openzfs_bug_ported_zig) - [OpenZFS Bug Ported to Zig](https://andrewkelley.me/post/openzfs-bug-ported-zig.html)
@@ -9,7 +10,6 @@
 * [2025-07-15, 08:56:43](https://lobste.rs/s/zeuzlc/introducing_tcp_udp_solution_ebpf) - [Introducing TCP-in-UDP solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 08:13:21](https://lobste.rs/s/goyein/automerge_3_0) - [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
-* [2025-07-15, 08:04:21](https://lobste.rs/s/w8vouu/when_sigterm_does_nothing_postgres) - [When SIGTERM Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
 * [2025-07-15, 06:41:46](https://lobste.rs/s/pohsem/initial_implementation_experimental_c) - [Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333)
 * [2025-07-15, 05:45:28](https://lobste.rs/s/d4egpg/bedrock_tiny_portable_8_bit_virtual) - [Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)](https://benbridle.com/projects/bedrock.html)
 * [2025-07-15, 03:45:05](https://lobste.rs/s/jwmx9x/diving_into_plasma_bigscreen) - [Diving into Plasma Bigscreen](https://espi.dev/posts/2025/07/plasma-bigscreen/)
