@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2025-07-14, 08:49:01",
-      "https://lobste.rs/s/kidktn/bash_patch_add_shopt_for_implicit_place"
+      "2025-07-14, 02:02:46",
+      "https://lobste.rs/s/x9s2mu/store_tags_after_payloads"
     ],
     [
-      "Bash patch - Add shopt for implicit && in place of ; for functions end of lines",
-      "https://savannah.gnu.org/patch/?10534"
+      "Store tags after payloads",
+      "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/"
     ]
   ]
 ]
