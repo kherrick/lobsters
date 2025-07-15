@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-15, 08:56:43](https://lobste.rs/s/zeuzlc/introducing_tcp_udp_solution_ebpf) - [Introducing TCP-in-UDP solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 08:13:21](https://lobste.rs/s/goyein/automerge_3_0) - [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
 * [2025-07-15, 08:04:21](https://lobste.rs/s/w8vouu/when_sigterm_does_nothing_postgres) - [When SIGTERM Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
@@ -14,7 +15,6 @@
 * [2025-07-14, 17:10:04](https://lobste.rs/s/75zw2o/strategies_for_very_fast_lexers) - [Strategies for very fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategies/)
 * [2025-07-14, 17:01:08](https://lobste.rs/s/qhgjks/using_elm_2025) - [Using Elm in 2025](https://engagesoftware.com/news/post/7033/using-elm-in-2025)
 * [2025-07-14, 15:00:39](https://lobste.rs/s/hhxj7i/you_are_box) - [you are in a box](https://jyn.dev/you-are-in-a-box/)
-* [2025-07-14, 14:23:29](https://lobste.rs/s/q6comq/binding_application_idris) - [Binding Application in Idris](https://andrevidela.com/blog/2025/binding-application/)
 * [2025-07-14, 12:45:49](https://lobste.rs/s/9c5i3u/ten_years_running_every_day_visualized) - [Ten years of running every day, visualized](https://nodaysoff.run/)
 * [2025-07-14, 12:11:40](https://lobste.rs/s/plrsmw/data_alignment_for_speed_myth_reality) - [Data alignment for speed: myth or reality? (2012)](https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/)
 * [2025-07-14, 11:38:15](https://lobste.rs/s/omytrc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/omytrc/what_are_you_doing_this_week)

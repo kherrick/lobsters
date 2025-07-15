@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-15](index.md)
 
+* [2025-07-15, 08:56:43](https://lobste.rs/s/zeuzlc/introducing_tcp_udp_solution_ebpf) - [Introducing TCP-in-UDP solution (eBPF)](https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html)
 * [2025-07-15, 08:13:21](https://lobste.rs/s/goyein/automerge_3_0) - [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
 * [2025-07-15, 08:04:21](https://lobste.rs/s/w8vouu/when_sigterm_does_nothing_postgres) - [When SIGTERM Does Nothing: A Postgres Mystery](https://clickhouse.com/blog/sigterm-postgres-mystery)
