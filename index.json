@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 15:37:35",
+      "https://lobste.rs/s/lkw9ys/adding_lookbehinds_rust_lang_regex"
+    ],
+    [
+      "Adding lookbehinds to rust-lang/regex",
+      "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 15:05:55",
       "https://lobste.rs/s/c4yg4y/distributed_systems_reliability"
     ],
@@ -207,16 +217,6 @@
     [
       "Ten years of running every day, visualized",
       "https://nodaysoff.run/"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 12:11:40",
-      "https://lobste.rs/s/plrsmw/data_alignment_for_speed_myth_reality"
-    ],
-    [
-      "Data alignment for speed: myth or reality? (2012)",
-      "https://lemire.me/blog/2012/05/31/data-alignment-for-speed-myth-or-reality/"
     ]
   ],
   [
