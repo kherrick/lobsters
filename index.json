@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-15, 08:56:43",
+      "https://lobste.rs/s/zeuzlc/introducing_tcp_udp_solution_ebpf"
+    ],
+    [
+      "Introducing TCP-in-UDP solution (eBPF)",
+      "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 08:13:21",
       "https://lobste.rs/s/goyein/automerge_3_0"
     ],
@@ -137,16 +147,6 @@
     [
       "you are in a box",
       "https://jyn.dev/you-are-in-a-box/"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 14:23:29",
-      "https://lobste.rs/s/q6comq/binding_application_idris"
-    ],
-    [
-      "Binding Application in Idris",
-      "https://andrevidela.com/blog/2025/binding-application/"
     ]
   ],
   [
