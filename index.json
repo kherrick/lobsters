@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-07-15, 19:23:56",
+      "https://lobste.rs/s/dpbwfi/hazel_live_functional_programming"
+    ],
+    [
+      "Hazel: A live functional programming environment with typed holes",
+      "https://github.com/hazelgrove/hazel"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 17:50:04",
       "https://lobste.rs/s/deydno/encrypting_files_with_passkeys_age"
     ],
@@ -137,16 +147,6 @@
     [
       "How I keep up with AI progress",
       "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 08:56:43",
-      "https://lobste.rs/s/zeuzlc/introducing_tcp_udp_solution_ebpf"
-    ],
-    [
-      "Introducing TCP-in-UDP solution (eBPF)",
-      "https://blog.mptcp.dev/2025/07/14/TCP-in-UDP.html"
     ]
   ],
   [
