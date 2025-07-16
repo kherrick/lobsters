@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-16, 00:46:36",
+      "https://lobste.rs/s/apenjf/openzfs_bug_ported_c"
+    ],
+    [
+      "OpenZFS Bug Ported to C",
+      "https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 23:52:16",
+      "https://lobste.rs/s/vvslmj/google_wifi_pro_glitching_from_root_el3"
+    ],
+    [
+      "Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization",
+      "https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/"
+    ]
+  ],
+  [
+    [
       "2025-07-15, 20:31:01",
       "https://lobste.rs/s/ppxfaq/helix_25_07_highlights"
     ],
@@ -107,16 +127,6 @@
     [
       "Death by a thousand slops",
       "https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 13:11:03",
-      "https://lobste.rs/s/8lqcxc/packages_proxies"
-    ],
-    [
-      "Packages proxies",
-      "https://blog.garambrogne.net/packages-proxies-en.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Using Elm in 2025",
       "https://engagesoftware.com/news/post/7033/using-elm-in-2025"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 12:45:49",
-      "https://lobste.rs/s/9c5i3u/ten_years_running_every_day_visualized"
-    ],
-    [
-      "Ten years of running every day, visualized",
-      "https://nodaysoff.run/"
     ]
   ]
 ]
