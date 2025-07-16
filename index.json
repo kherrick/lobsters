@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-16, 11:40:41",
+      "https://lobste.rs/s/am00km/let_me_cook_you_vulnerability_exploiting"
+    ],
+    [
+      "Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5",
+      "https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 09:18:50",
       "https://lobste.rs/s/ioznqf/reviving_genius"
     ],
@@ -237,16 +247,6 @@
     [
       "Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)",
       "https://benbridle.com/projects/bedrock.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-14, 17:30:20",
-      "https://lobste.rs/s/1l3beg/panasonic_openbsd_3"
-    ],
-    [
-      "Panasonic + OpenBSD = <3",
-      "https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html"
     ]
   ]
 ]
