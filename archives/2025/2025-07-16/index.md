@@ -11,3 +11,4 @@
 * [2025-07-16, 06:37:35](https://lobste.rs/s/r91kkb/janet_feature_demos) - [Janet Feature Demos](https://github.com/sogaiu/janet-features-demos)
 * [2025-07-16, 01:36:37](https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 * [2025-07-16, 00:46:36](https://lobste.rs/s/apenjf/openzfs_bug_ported_c) - [OpenZFS Bug Ported to C](https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C)
+* [2025-07-16, 00:42:37](https://lobste.rs/s/3hklvn/nixos_declarative_management) - [NixOS: Declarative Management, Imperative Privilege Escalation](https://labs.snyk.io/resources/nixos-deep-dive/)
