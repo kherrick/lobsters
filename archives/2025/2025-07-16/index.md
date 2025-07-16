@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 15:49:14](https://lobste.rs/s/ll46pe/what_people_said_about_openzfs_bug) - [What people said about an OpenZFS bug](https://despairlabs.com/blog/posts/2025-07-13-an-openzfs-bug-and-the-humans-that-made-it-comments/)
 * [2025-07-16, 15:38:24](https://lobste.rs/s/nqdd8y/emulator_bugs_zenki_tenchi_meidou) - [Emulator Bugs: Zenki - Tenchi Meidou](https://jsgroth.dev/blog/posts/emulator-bugs-zenki-tenchi-meidou/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 14:55:26](https://lobste.rs/s/jfyek4/fgl_functional_graph_library_2002) - [FGL: a functional graph library (2002)](http://web.engr.oregonstate.edu/~erwig/fgl/)
