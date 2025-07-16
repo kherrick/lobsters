@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
+* [2025-07-16, 14:06:25](https://lobste.rs/s/ujv6oq/linear_matching_javascript_regular) - [Linear Matching of JavaScript Regular Expressions](https://dl.acm.org/doi/10.1145/3656431)
 * [2025-07-16, 13:23:24](https://lobste.rs/s/oukt2e/gpuhammer_rowhammer_attacks_on_gpu) - [GPUHammer: Rowhammer Attacks on GPU Memories are Practical](https://gpuhammer.com/)
 * [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/geomys/)
 * [2025-07-16, 12:26:36](https://lobste.rs/s/zbknw2/expressive_test_assertions_without) - [Expressive test assertions without testify/assert](https://antonz.org/do-not-testify/)

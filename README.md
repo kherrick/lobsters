@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
+* [2025-07-16, 14:06:25](https://lobste.rs/s/ujv6oq/linear_matching_javascript_regular) - [Linear Matching of JavaScript Regular Expressions](https://dl.acm.org/doi/10.1145/3656431)
 * [2025-07-16, 13:23:24](https://lobste.rs/s/oukt2e/gpuhammer_rowhammer_attacks_on_gpu) - [GPUHammer: Rowhammer Attacks on GPU Memories are Practical](https://gpuhammer.com/)
-* [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/geomys/)
+* [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm (2024)](https://words.filippo.io/geomys/)
 * [2025-07-16, 11:40:41](https://lobste.rs/s/am00km/let_me_cook_you_vulnerability_exploiting) - [Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5](https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5)
 * [2025-07-16, 09:18:50](https://lobste.rs/s/ioznqf/reviving_genius) - [Reviving Genius](https://andrewshaw.nl/blog/reviving-genius)
 * [2025-07-16, 07:33:46](https://lobste.rs/s/y52on2/north_korean_xorindex_malware_hidden_67) - [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/)
@@ -16,7 +18,6 @@
 * [2025-07-15, 17:50:04](https://lobste.rs/s/deydno/encrypting_files_with_passkeys_age) - [Encrypting Files with Passkeys and age](https://words.filippo.io/passkey-encryption/)
 * [2025-07-15, 17:30:55](https://lobste.rs/s/wajnta/wikipedia_outage_report_for_may_s_pope) - [Wikipedia outage report for May's Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
 * [2025-07-15, 15:37:35](https://lobste.rs/s/lkw9ys/adding_lookbehinds_rust_lang_regex) - [Adding lookbehinds to rust-lang/regex](https://systemf.epfl.ch/blog/rust-regex-lookbehinds/)
-* [2025-07-15, 15:05:55](https://lobste.rs/s/c4yg4y/distributed_systems_reliability) - [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/)
 * [2025-07-15, 15:05:26](https://lobste.rs/s/ouvq8x/poor_man_s_bitemporal_data_system_sqlite) - [Poor man's bitemporal data system in SQLite and Clojure](https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html)
 * [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
@@ -24,7 +25,6 @@
 * [2025-07-15, 09:35:16](https://lobste.rs/s/kssozd/how_i_keep_up_with_ai_progress) - [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-15, 08:13:21](https://lobste.rs/s/goyein/automerge_3_0) - [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
-* [2025-07-15, 05:45:28](https://lobste.rs/s/d4egpg/bedrock_tiny_portable_8_bit_virtual) - [Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)](https://benbridle.com/projects/bedrock.html)
 
 ## [Archives](archives/index.md)
 
