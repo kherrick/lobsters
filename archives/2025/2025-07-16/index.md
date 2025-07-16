@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 16:34:57](https://lobste.rs/s/nf1nzf/how_test_reliability_durable_execution) - [How to Test the Reliability of Durable Execution](https://www.dbos.dev/blog/how-to-test-durable-execution)
 * [2025-07-16, 15:49:14](https://lobste.rs/s/ll46pe/what_people_said_about_openzfs_bug) - [What people said about an OpenZFS bug](https://despairlabs.com/blog/posts/2025-07-13-an-openzfs-bug-and-the-humans-that-made-it-comments/)
 * [2025-07-16, 15:45:44](https://lobste.rs/s/anolr5/css_conditionals_with_new_if_function) - [CSS conditionals with the new if() function](https://developer.chrome.com/blog/if-article)
 * [2025-07-16, 15:38:24](https://lobste.rs/s/nqdd8y/emulator_bugs_zenki_tenchi_meidou) - [Emulator Bugs: Zenki - Tenchi Meidou](https://jsgroth.dev/blog/posts/emulator-bugs-zenki-tenchi-meidou/)
