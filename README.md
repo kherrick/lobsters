@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 06:44:58](https://lobste.rs/s/9obenu/where_s_firefox_going_next_you_tell_us) - [Where’s Firefox going next? You tell us](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698)
 * [2025-07-16, 01:36:37](https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
 * [2025-07-16, 00:46:36](https://lobste.rs/s/apenjf/openzfs_bug_ported_c) - [OpenZFS Bug Ported to C](https://flak.tedunangst.com/post/OpenZFS-Bug-Ported-to-C)
-* [2025-07-15, 23:52:16](https://lobste.rs/s/vvslmj/google_wifi_pro_glitching_from_root_el3) - [Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization](https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/)
+* [2025-07-15, 23:02:48](https://lobste.rs/s/izk0ff/shipping_webgpu_on_windows_firefox_141) - [Shipping WebGPU on Windows in Firefox 141](https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/)
 * [2025-07-15, 20:31:01](https://lobste.rs/s/ppxfaq/helix_25_07_highlights) - [Helix 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 20:05:35](https://lobste.rs/s/cfkz4y/compiler_bootstrapping_nixpkgs) - [Compiler bootstrapping in Nixpkgs](https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/)
 * [2025-07-15, 19:39:47](https://lobste.rs/s/zschiu/introducing_go_cdc_chunkers_chunk) - [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
@@ -20,7 +21,6 @@
 * [2025-07-15, 09:35:16](https://lobste.rs/s/kssozd/how_i_keep_up_with_ai_progress) - [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-15, 08:13:21](https://lobste.rs/s/goyein/automerge_3_0) - [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
-* [2025-07-15, 06:41:46](https://lobste.rs/s/pohsem/initial_implementation_experimental_c) - [Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang](https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333)
 * [2025-07-15, 05:45:28](https://lobste.rs/s/d4egpg/bedrock_tiny_portable_8_bit_virtual) - [Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)](https://benbridle.com/projects/bedrock.html)
 * [2025-07-15, 03:45:05](https://lobste.rs/s/jwmx9x/diving_into_plasma_bigscreen) - [Diving into Plasma Bigscreen](https://espi.dev/posts/2025/07/plasma-bigscreen/)
 * [2025-07-14, 18:42:16](https://lobste.rs/s/alrfrd/best_c_library) - [The Best C++ Library](https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people)
