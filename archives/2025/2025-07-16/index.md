@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 14:55:26](https://lobste.rs/s/jfyek4/fgl_functional_graph_library_2002) - [FGL: a functional graph library (2002)](http://web.engr.oregonstate.edu/~erwig/fgl/)
 * [2025-07-16, 14:42:01](https://lobste.rs/s/uw1vee/graph_foundation_models_for_relational) - [Graph foundation models for relational data](https://research.google/blog/graph-foundation-models-for-relational-data/)
 * [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
 * [2025-07-16, 14:06:25](https://lobste.rs/s/ujv6oq/linear_matching_javascript_regular) - [Linear Matching of JavaScript Regular Expressions](https://dl.acm.org/doi/10.1145/3656431)

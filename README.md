@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 14:55:26](https://lobste.rs/s/jfyek4/fgl_functional_graph_library_2002) - [FGL: a functional graph library (2002)](http://web.engr.oregonstate.edu/~erwig/fgl/)
 * [2025-07-16, 14:42:01](https://lobste.rs/s/uw1vee/graph_foundation_models_for_relational) - [Graph foundation models for relational data](https://research.google/blog/graph-foundation-models-for-relational-data/)
-* [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
 * [2025-07-16, 13:23:24](https://lobste.rs/s/oukt2e/gpuhammer_rowhammer_attacks_on_gpu) - [GPUHammer: Rowhammer Attacks on GPU Memories are Practical](https://gpuhammer.com/)
 * [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm (2024)](https://words.filippo.io/geomys/)
 * [2025-07-16, 11:40:41](https://lobste.rs/s/am00km/let_me_cook_you_vulnerability_exploiting) - [Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5](https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5)
