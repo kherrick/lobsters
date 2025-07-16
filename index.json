@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-07-16, 16:34:57",
-      "https://lobste.rs/s/nf1nzf/how_test_reliability_durable_execution"
-    ],
-    [
-      "How to Test the Reliability of Durable Execution",
-      "https://www.dbos.dev/blog/how-to-test-durable-execution"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 15:45:44",
       "https://lobste.rs/s/anolr5/css_conditionals_with_new_if_function"
     ],
@@ -207,6 +197,16 @@
     [
       "Introducing go-cdc-chunkers: chunk and deduplicate everything",
       "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/"
+    ]
+  ],
+  [
+    [
+      "2025-07-15, 19:23:56",
+      "https://lobste.rs/s/dpbwfi/hazel_live_functional_programming"
+    ],
+    [
+      "Hazel: A live functional programming environment with typed holes",
+      "https://github.com/hazelgrove/hazel"
     ]
   ],
   [
