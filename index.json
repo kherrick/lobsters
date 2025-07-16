@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-16, 06:37:35",
+      "https://lobste.rs/s/r91kkb/janet_feature_demos"
+    ],
+    [
+      "Janet Feature Demos",
+      "https://github.com/sogaiu/janet-features-demos"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 01:36:37",
       "https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module"
     ],
@@ -157,16 +167,6 @@
     [
       "OpenZFS Bug Ported to Zig",
       "https://andrewkelley.me/post/openzfs-bug-ported-zig.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 11:35:03",
-      "https://lobste.rs/s/lnn00p/how_get_foreign_keys_horribly_wrong"
-    ],
-    [
-      "How to Get Foreign Keys Horribly Wrong",
-      "https://hakibenita.com/django-foreign-keys"
     ]
   ],
   [
