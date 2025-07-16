@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:03:39](https://lobste.rs/s/4dn4da/cloudflare_1_1_1_1_incident_postmortem_for) - [Cloudflare 1.1.1.1 incident postmortem for July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
-* [2025-07-16, 17:48:06](https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions) - [I'm unsatisfied with easing functions - Dave Pagurek](https://www.davepagurek.com/blog/easing-functions/)
+* [2025-07-16, 17:48:06](https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions) - [I'm unsatisfied with easing functions](https://www.davepagurek.com/blog/easing-functions/)
 * [2025-07-16, 16:34:57](https://lobste.rs/s/nf1nzf/how_test_reliability_durable_execution) - [How to Test the Reliability of Durable Execution](https://www.dbos.dev/blog/how-to-test-durable-execution)
 * [2025-07-16, 15:45:44](https://lobste.rs/s/anolr5/css_conditionals_with_new_if_function) - [CSS conditionals with the new if() function](https://developer.chrome.com/blog/if-article)
-* [2025-07-16, 15:32:49](https://lobste.rs/s/ztmjaf/fedora_sig_changes_python_packaging) - [Fedora SIG changes Python packaging strategy](https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 * [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
