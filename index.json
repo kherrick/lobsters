@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-16, 06:44:58",
+      "https://lobste.rs/s/9obenu/where_s_firefox_going_next_you_tell_us"
+    ],
+    [
+      "Where’s Firefox going next? You tell us",
+      "https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 01:36:37",
       "https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-07-15, 23:52:16",
-      "https://lobste.rs/s/vvslmj/google_wifi_pro_glitching_from_root_el3"
+      "2025-07-15, 23:02:48",
+      "https://lobste.rs/s/izk0ff/shipping_webgpu_on_windows_firefox_141"
     ],
     [
-      "Google Wifi Pro: Glitching from Root to EL3: Part 1 - Characterization",
-      "https://raelize.com/blog/google-wifi-pro-glitching-from-root-to-el3-part-1-characterization/"
+      "Shipping WebGPU on Windows in Firefox 141",
+      "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Trying Guix: A Nixer's Impressions",
       "https://tazj.in/blog/trying-guix"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 06:41:46",
-      "https://lobste.rs/s/pohsem/initial_implementation_experimental_c"
-    ],
-    [
-      "Initial implementation of the experimental C++ Lifetime Safety Analysis (-Wexperimental-lifetime-safety) has just landed in Clang",
-      "https://discourse.llvm.org/t/announcing-the-lifetime-safety-breakout-group/87333"
     ]
   ],
   [
