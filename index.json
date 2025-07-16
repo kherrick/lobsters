@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-07-16, 14:55:26",
-      "https://lobste.rs/s/jfyek4/fgl_functional_graph_library_2002"
+      "2025-07-16, 15:38:24",
+      "https://lobste.rs/s/nqdd8y/emulator_bugs_zenki_tenchi_meidou"
     ],
     [
-      "FGL: a functional graph library (2002)",
-      "http://web.engr.oregonstate.edu/~erwig/fgl/"
+      "Emulator Bugs: Zenki - Tenchi Meidou",
+      "https://jsgroth.dev/blog/posts/emulator-bugs-zenki-tenchi-meidou/"
     ]
   ],
   [
     [
-      "2025-07-16, 14:42:01",
-      "https://lobste.rs/s/uw1vee/graph_foundation_models_for_relational"
+      "2025-07-16, 15:30:06",
+      "https://lobste.rs/s/tfauzy/underused_techniques_for_effective"
     ],
     [
-      "Graph foundation models for relational data",
-      "https://research.google/blog/graph-foundation-models-for-relational-data/"
+      "Underused Techniques for Effective Emails",
+      "https://refactoringenglish.com/chapters/techniques-for-writing-emails/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
       "https://words.filippo.io/geomys/"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 12:26:36",
+      "https://lobste.rs/s/zbknw2/expressive_test_assertions_without"
+    ],
+    [
+      "Expressive test assertions without testify/assert",
+      "https://antonz.org/do-not-testify/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Adding lookbehinds to rust-lang/regex",
       "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 15:05:26",
-      "https://lobste.rs/s/ouvq8x/poor_man_s_bitemporal_data_system_sqlite"
-    ],
-    [
-      "Poor man's bitemporal data system in SQLite and Clojure",
-      "https://www.evalapply.org/posts/poor-mans-time-oriented-data-system/index.html"
     ]
   ],
   [
