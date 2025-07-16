@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 07:33:46](https://lobste.rs/s/y52on2/north_korean_xorindex_malware_hidden_67) - [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/)
 * [2025-07-16, 06:44:58](https://lobste.rs/s/9obenu/where_s_firefox_going_next_you_tell_us) - [Where’s Firefox going next? You tell us](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698)
 * [2025-07-16, 06:37:35](https://lobste.rs/s/r91kkb/janet_feature_demos) - [Janet Feature Demos](https://github.com/sogaiu/janet-features-demos)
 * [2025-07-16, 01:36:37](https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)

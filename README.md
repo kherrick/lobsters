@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 07:33:46](https://lobste.rs/s/y52on2/north_korean_xorindex_malware_hidden_67) - [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/)
 * [2025-07-16, 06:44:58](https://lobste.rs/s/9obenu/where_s_firefox_going_next_you_tell_us) - [Where’s Firefox going next? You tell us](https://connect.mozilla.org/t5/discussions/where-s-firefox-going-next-you-tell-us/m-p/100698)
 * [2025-07-16, 06:37:35](https://lobste.rs/s/r91kkb/janet_feature_demos) - [Janet Feature Demos](https://github.com/sogaiu/janet-features-demos)
 * [2025-07-16, 01:36:37](https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module) - [The FIPS 140-3 Go Cryptographic Module](https://go.dev/blog/fips140)
@@ -22,7 +23,6 @@
 * [2025-07-15, 08:13:21](https://lobste.rs/s/goyein/automerge_3_0) - [Automerge 3.0](https://automerge.github.io/blog/automerge-3/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
 * [2025-07-15, 05:45:28](https://lobste.rs/s/d4egpg/bedrock_tiny_portable_8_bit_virtual) - [Bedrock: A tiny, portable 8-bit virtual computer (uxn fork)](https://benbridle.com/projects/bedrock.html)
-* [2025-07-15, 03:45:05](https://lobste.rs/s/jwmx9x/diving_into_plasma_bigscreen) - [Diving into Plasma Bigscreen](https://espi.dev/posts/2025/07/plasma-bigscreen/)
 * [2025-07-14, 18:42:16](https://lobste.rs/s/alrfrd/best_c_library) - [The Best C++ Library](https://mcyoung.xyz/2025/07/14/best/#fnref:terrible-people)
 * [2025-07-14, 17:30:20](https://lobste.rs/s/1l3beg/panasonic_openbsd_3) - [Panasonic + OpenBSD = <3](https://x61.sh/log/2025/07/03072025160538-panasonic_openbsd.html)
 
