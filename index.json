@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-07-16, 15:45:44",
+      "https://lobste.rs/s/anolr5/css_conditionals_with_new_if_function"
+    ],
+    [
+      "CSS conditionals with the new if() function",
+      "https://developer.chrome.com/blog/if-article"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 15:30:06",
       "https://lobste.rs/s/tfauzy/underused_techniques_for_effective"
     ],
     [
       "Underused Techniques for Effective Emails",
       "https://refactoringenglish.com/chapters/techniques-for-writing-emails/"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 15:22:08",
+      "https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated"
+    ],
+    [
+      "Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations",
+      "https://matrix.org/blog/2025/07/security-predisclosure/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Geomys, a blueprint for a sustainable open source maintenance firm (2024)",
       "https://words.filippo.io/geomys/"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 12:26:36",
-      "https://lobste.rs/s/zbknw2/expressive_test_assertions_without"
-    ],
-    [
-      "Expressive test assertions without testify/assert",
-      "https://antonz.org/do-not-testify/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Hazel: A live functional programming environment with typed holes",
       "https://github.com/hazelgrove/hazel"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 17:50:04",
-      "https://lobste.rs/s/deydno/encrypting_files_with_passkeys_age"
-    ],
-    [
-      "Encrypting Files with Passkeys and age",
-      "https://words.filippo.io/passkey-encryption/"
     ]
   ],
   [
