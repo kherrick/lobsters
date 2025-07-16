@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-16, 16:34:57",
+      "https://lobste.rs/s/nf1nzf/how_test_reliability_durable_execution"
+    ],
+    [
+      "How to Test the Reliability of Durable Execution",
+      "https://www.dbos.dev/blog/how-to-test-durable-execution"
+    ]
+  ],
+  [
+    [
       "2025-07-16, 15:49:14",
       "https://lobste.rs/s/ll46pe/what_people_said_about_openzfs_bug"
     ],
@@ -187,16 +197,6 @@
     [
       "Wikipedia outage report for May's Pope traffic spike",
       "https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 15:37:35",
-      "https://lobste.rs/s/lkw9ys/adding_lookbehinds_rust_lang_regex"
-    ],
-    [
-      "Adding lookbehinds to rust-lang/regex",
-      "https://systemf.epfl.ch/blog/rust-regex-lookbehinds/"
     ]
   ],
   [
