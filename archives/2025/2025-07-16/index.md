@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 15:38:24](https://lobste.rs/s/nqdd8y/emulator_bugs_zenki_tenchi_meidou) - [Emulator Bugs: Zenki - Tenchi Meidou](https://jsgroth.dev/blog/posts/emulator-bugs-zenki-tenchi-meidou/)
+* [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 14:55:26](https://lobste.rs/s/jfyek4/fgl_functional_graph_library_2002) - [FGL: a functional graph library (2002)](http://web.engr.oregonstate.edu/~erwig/fgl/)
 * [2025-07-16, 14:42:01](https://lobste.rs/s/uw1vee/graph_foundation_models_for_relational) - [Graph foundation models for relational data](https://research.google/blog/graph-foundation-models-for-relational-data/)
 * [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
