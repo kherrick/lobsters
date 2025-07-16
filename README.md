@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 23:05:48](https://lobste.rs/s/jkmkpa/scientific_computing_rust) - [Scientific Computing in Rust](https://scientificcomputing.rs/)
 * [2025-07-16, 20:19:04](https://lobste.rs/s/cexvpt/gren_tui_pure_functional_tuis_with_elm) - [gren-tui: Pure functional TUIs with The Elm Architecture](https://github.com/blaix/gren-tui)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:03:39](https://lobste.rs/s/4dn4da/cloudflare_1_1_1_1_incident_postmortem_for) - [Cloudflare 1.1.1.1 incident postmortem for July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
@@ -24,7 +25,6 @@
 * [2025-07-15, 17:30:55](https://lobste.rs/s/wajnta/wikipedia_outage_report_for_may_s_pope) - [Wikipedia outage report for May's Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
 * [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
-* [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
 
 ## [Archives](archives/index.md)
 
