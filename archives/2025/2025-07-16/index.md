@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
+* [2025-07-16, 20:19:04](https://lobste.rs/s/cexvpt/gren_tui_pure_functional_tuis_with_elm) - [gren-tui: Pure functional TUIs with The Elm Architecture](https://github.com/blaix/gren-tui)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:15:35](https://lobste.rs/s/surwoh/reaction_planetscale_postgresql) - [Reaction to the PlanetScale PostgreSQL benchmarks](https://xata.io/blog/reaction-to-the-planetscale-postgresql-benchmarks)
 * [2025-07-16, 18:03:39](https://lobste.rs/s/4dn4da/cloudflare_1_1_1_1_incident_postmortem_for) - [Cloudflare 1.1.1.1 incident postmortem for July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)

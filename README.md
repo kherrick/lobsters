@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-16, 20:19:04](https://lobste.rs/s/cexvpt/gren_tui_pure_functional_tuis_with_elm) - [gren-tui: Pure functional TUIs with The Elm Architecture](https://github.com/blaix/gren-tui)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:03:39](https://lobste.rs/s/4dn4da/cloudflare_1_1_1_1_incident_postmortem_for) - [Cloudflare 1.1.1.1 incident postmortem for July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
 * [2025-07-16, 17:48:06](https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions) - [I'm unsatisfied with easing functions](https://www.davepagurek.com/blog/easing-functions/)
 * [2025-07-16, 16:34:57](https://lobste.rs/s/nf1nzf/how_test_reliability_durable_execution) - [How to Test the Reliability of Durable Execution](https://www.dbos.dev/blog/how-to-test-durable-execution)
+* [2025-07-16, 15:45:44](https://lobste.rs/s/anolr5/css_conditionals_with_new_if_function) - [CSS conditionals with the new if() function](https://developer.chrome.com/blog/if-article)
 * [2025-07-16, 15:32:49](https://lobste.rs/s/ztmjaf/fedora_sig_changes_python_packaging) - [Fedora SIG changes Python packaging strategy](https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
@@ -19,11 +21,9 @@
 * [2025-07-15, 20:31:01](https://lobste.rs/s/ppxfaq/helix_25_07_highlights) - [Helix 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 20:05:35](https://lobste.rs/s/cfkz4y/compiler_bootstrapping_nixpkgs) - [Compiler bootstrapping in Nixpkgs](https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/)
 * [2025-07-15, 19:39:47](https://lobste.rs/s/zschiu/introducing_go_cdc_chunkers_chunk) - [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
-* [2025-07-15, 19:23:56](https://lobste.rs/s/dpbwfi/hazel_live_functional_programming) - [Hazel: A live functional programming environment with typed holes](https://github.com/hazelgrove/hazel)
 * [2025-07-15, 17:30:55](https://lobste.rs/s/wajnta/wikipedia_outage_report_for_may_s_pope) - [Wikipedia outage report for May's Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
 * [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
-* [2025-07-15, 09:35:16](https://lobste.rs/s/kssozd/how_i_keep_up_with_ai_progress) - [How I keep up with AI progress](https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/)
 * [2025-07-15, 08:07:51](https://lobste.rs/s/87dpsv/trying_guix_nixer_s_impressions) - [Trying Guix: A Nixer's Impressions](https://tazj.in/blog/trying-guix)
 
 ## [Archives](archives/index.md)
