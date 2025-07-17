@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-17, 13:12:56](https://lobste.rs/s/b5frit/bundler_v2_7_last_release_before_bundler_4) - [Bundler v2.7: last release before Bundler 4](https://bundler.io/blog/2025/07/17/bundler-v2-7.html)
+* [2025-07-17, 12:55:24](https://lobste.rs/s/7miuzf/terminal_trove_home_all_things_terminal) - [Terminal Trove - The $HOME of all things in the terminal](https://terminaltrove.com/)
 * [2025-07-17, 12:26:20](https://lobste.rs/s/ogq41h/gccrs_june_2025_monthly_report) - [gccrs June 2025 monthly report](https://rust-gcc.github.io/2025/07/17/2025-06-monthly-report.html)
 * [2025-07-17, 12:25:57](https://lobste.rs/s/fy2wcx/we_ve_got_stop_sending_files_each_other) - [We've got to stop sending files to each other](https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/)
 * [2025-07-17, 12:07:33](https://lobste.rs/s/greve7/parsing_protobuf_like_never_before) - [Parsing Protobuf Like Never Before](https://mcyoung.xyz/2025/07/16/hyperpb/)
@@ -12,7 +14,6 @@
 * [2025-07-17, 05:43:20](https://lobste.rs/s/u3ywxf/rust_shaped_hole) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-17, 03:53:25](https://lobste.rs/s/qckjst/iris_webp_fast_efficient_webp_encoder) - [Iris-WebP: Fast, efficient WebP encoder](https://halide.cx/iris)
 * [2025-07-17, 01:50:33](https://lobste.rs/s/nnnmom/blender_hdr_reference_white_issue) - [Blender HDR and the reference white issue](https://blog.sebastianwick.net/posts/blender-hdr-reference-white/)
-* [2025-07-16, 20:19:04](https://lobste.rs/s/cexvpt/gren_tui_pure_functional_tuis_with_elm) - [gren-tui: Pure functional TUIs with The Elm Architecture](https://github.com/blaix/gren-tui)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:03:39](https://lobste.rs/s/4dn4da/cloudflare_1_1_1_1_incident_postmortem_for) - [Cloudflare 1.1.1.1 incident postmortem for July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)
 * [2025-07-16, 17:48:06](https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions) - [I'm unsatisfied with easing functions](https://www.davepagurek.com/blog/easing-functions/)
@@ -20,7 +21,6 @@
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 * [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm (2024)](https://words.filippo.io/geomys/)
-* [2025-07-16, 11:40:41](https://lobste.rs/s/am00km/let_me_cook_you_vulnerability_exploiting) - [Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5](https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5)
 * [2025-07-16, 09:18:50](https://lobste.rs/s/ioznqf/reviving_genius) - [Reviving Genius](https://andrewshaw.nl/blog/reviving-genius)
 * [2025-07-16, 07:33:46](https://lobste.rs/s/y52on2/north_korean_xorindex_malware_hidden_67) - [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/)
 * [2025-07-16, 06:37:35](https://lobste.rs/s/r91kkb/janet_feature_demos) - [Janet Feature Demos](https://github.com/sogaiu/janet-features-demos)
