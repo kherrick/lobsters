@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 23:09:06](https://lobste.rs/s/dm7pow/my_favorite_use_case_for_ai_is_writing_logs) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 20:39:32](https://lobste.rs/s/rnnpqm/casey_muratori_big_oops_anatomy_thirty) - [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI)
 * [2025-07-17, 20:39:32](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake) - [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI)
 * [2025-07-17, 19:18:02](https://lobste.rs/s/dl4cjj/zig_s_fieldparentptr_for_dumbos_like_me) - [Zig's @fieldParentPtr for dumbos like me](https://www.ryanliptak.com/blog/zig-fieldparentptr-for-dumbos/)

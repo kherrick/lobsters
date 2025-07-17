@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-17, 23:09:06](https://lobste.rs/s/dm7pow/my_favorite_use_case_for_ai_is_writing_logs) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 20:39:32](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake) - [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI)
 * [2025-07-17, 16:36:39](https://lobste.rs/s/a29mny/hackers_exploit_blind_spot_by_hiding) - [Hackers exploit a blind spot by hiding malware inside DNS records](https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/)
 * [2025-07-17, 16:30:32](https://lobste.rs/s/tusjpx/mercury_protocol) - [The Mercury Protocol](https://raw.githubusercontent.com/floren/mercury/master/SPEC)
@@ -24,7 +25,6 @@
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 17:48:06](https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions) - [I'm unsatisfied with easing functions](https://www.davepagurek.com/blog/easing-functions/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
-* [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 
 ## [Archives](archives/index.md)
 
