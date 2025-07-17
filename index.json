@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-17, 08:25:02",
-      "https://lobste.rs/s/cuaicj/project_servfail_one_year"
+      "2025-07-17, 09:16:14",
+      "https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022"
     ],
     [
-      "Project SERVFAIL: one year in",
-      "https://sdomi.pl/weblog/25-servfail-first-year/"
+      "C++ Trailing Return Types (2022)",
+      "https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "A Rust shaped hole",
       "https://mnvr.in/rust"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 05:18:35",
+      "https://lobste.rs/s/rnyuy1/think_real_hard_2018"
+    ],
+    [
+      "Think real hard (2018)",
+      "https://www.benkuhn.net/thinkrealhard/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Blender HDR and the reference white issue",
       "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 01:47:13",
-      "https://lobste.rs/s/1lpmim/which_economic_tasks_are_performed_with"
-    ],
-    [
-      "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations",
-      "https://arxiv.org/abs/2503.04761"
     ]
   ],
   [
