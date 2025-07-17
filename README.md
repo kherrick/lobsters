@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-17, 16:08:57](https://lobste.rs/s/savjgl/firefox_dev_says_intel_raptor_lake) - [Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave](https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function)
+* [2025-07-17, 16:01:51](https://lobste.rs/s/4oxkjl/python_make_2025) - [Python and Make in 2025](https://onebadbit.com/posts/2025/07/python-and-make-in-2025/)
 * [2025-07-17, 15:42:57](https://lobste.rs/s/czw9yx/how_i_became_first_linux_user_india) - [How I Became the First Linux User in India](https://medium.com/@vishalmisra/how-i-became-the-first-linux-user-in-india-b86be9d2a6c5)
 * [2025-07-17, 15:19:15](https://lobste.rs/s/lzvc21/why_pull_based_pipelines_are_faster) - [Why pull-based pipelines are faster](https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/)
 * [2025-07-17, 14:58:56](https://lobste.rs/s/udtfpn/zig_s_new_writer) - [Zig's new Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-17, 14:24:13](https://lobste.rs/s/mklbl9/lsr_ls_with_io_uring) - [lsr: ls but with io_uring](https://tangled.sh/@rockorager.dev/lsr)
-* [2025-07-17, 14:21:19](https://lobste.rs/s/v2fuz3/asm_editor) - [Asm Editor](https://asm-editor.specy.app/)
 * [2025-07-17, 13:12:56](https://lobste.rs/s/b5frit/bundler_v2_7_last_release_before_bundler_4) - [Bundler v2.7: last release before Bundler 4](https://bundler.io/blog/2025/07/17/bundler-v2-7.html)
 * [2025-07-17, 12:55:24](https://lobste.rs/s/7miuzf/terminal_trove_home_all_things_terminal) - [Terminal Trove - The $HOME of all things in the terminal](https://terminaltrove.com/)
 * [2025-07-17, 12:45:01](https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests) - [Defeating Dependency Duplication in Tests?](https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests)
@@ -24,7 +25,6 @@
 * [2025-07-16, 17:48:06](https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions) - [I'm unsatisfied with easing functions](https://www.davepagurek.com/blog/easing-functions/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
-* [2025-07-16, 09:18:50](https://lobste.rs/s/ioznqf/reviving_genius) - [Reviving Genius](https://andrewshaw.nl/blog/reviving-genius)
 
 ## [Archives](archives/index.md)
 
