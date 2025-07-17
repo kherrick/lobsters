@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-16](index.md)
 
 * [2025-07-16, 23:05:48](https://lobste.rs/s/jkmkpa/scientific_computing_rust) - [Scientific Computing in Rust](https://scientificcomputing.rs/)
+* [2025-07-16, 22:57:11](https://lobste.rs/s/uedgwg/when_make_lods) - [When to make LODs](https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802)
 * [2025-07-16, 20:19:04](https://lobste.rs/s/cexvpt/gren_tui_pure_functional_tuis_with_elm) - [gren-tui: Pure functional TUIs with The Elm Architecture](https://github.com/blaix/gren-tui)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:15:35](https://lobste.rs/s/surwoh/reaction_planetscale_postgresql) - [Reaction to the PlanetScale PostgreSQL benchmarks](https://xata.io/blog/reaction-to-the-planetscale-postgresql-benchmarks)
