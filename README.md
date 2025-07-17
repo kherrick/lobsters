@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-17, 05:18:35](https://lobste.rs/s/rnyuy1/think_real_hard_2018) - [Think real hard (2018)](https://www.benkuhn.net/thinkrealhard/)
+* [2025-07-17, 05:43:20](https://lobste.rs/s/u3ywxf/rust_shaped_hole) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-17, 04:53:48](https://lobste.rs/s/inooyo/open_sesame_poems_with_entropy) - [Open Sesame: Poems with Entropy](https://www.benwr.net/2025/07/16/opensesame.html)
 * [2025-07-17, 03:53:25](https://lobste.rs/s/qckjst/iris_webp_fast_efficient_webp_encoder) - [Iris-WebP: Fast, efficient WebP encoder](https://halide.cx/iris)
 * [2025-07-17, 02:56:26](https://lobste.rs/s/o7ply0/timep_trap_based_profiler_flamegraph_for) - [timep - trap-based profiler, flamegraph for bash](https://github.com/jkool702/timep)
