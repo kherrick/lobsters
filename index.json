@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-07-17, 14:24:13",
+      "https://lobste.rs/s/mklbl9/lsr_ls_with_io_uring"
+    ],
+    [
+      "lsr: ls but with io_uring",
+      "https://tangled.sh/@rockorager.dev/lsr"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 13:12:56",
       "https://lobste.rs/s/b5frit/bundler_v2_7_last_release_before_bundler_4"
     ],
     [
       "Bundler v2.7: last release before Bundler 4",
       "https://bundler.io/blog/2025/07/17/bundler-v2-7.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 12:55:24",
+      "https://lobste.rs/s/7miuzf/terminal_trove_home_all_things_terminal"
+    ],
+    [
+      "Terminal Trove - The $HOME of all things in the terminal",
+      "https://terminaltrove.com/"
     ]
   ],
   [
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2025-07-17, 11:19:12",
+      "https://lobste.rs/s/zarobw/active_active_replication_extension_for"
+    ],
+    [
+      "Active-active Replication Extension for PostgreSQL by AWS",
+      "https://github.com/aws/pgactive"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 09:16:14",
       "https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-07-17, 04:53:48",
-      "https://lobste.rs/s/inooyo/open_sesame_poems_with_entropy"
-    ],
-    [
-      "Open Sesame: Poems with Entropy",
-      "https://www.benwr.net/2025/07/16/opensesame.html"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 01:50:33",
       "https://lobste.rs/s/nnnmom/blender_hdr_reference_white_issue"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-07-16, 15:32:49",
-      "https://lobste.rs/s/ztmjaf/fedora_sig_changes_python_packaging"
-    ],
-    [
-      "Fedora SIG changes Python packaging strategy",
-      "https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/"
-    ]
-  ],
-  [
-    [
       "2025-07-16, 15:30:06",
       "https://lobste.rs/s/tfauzy/underused_techniques_for_effective"
     ],
@@ -217,16 +227,6 @@
     [
       "Reviving Genius",
       "https://andrewshaw.nl/blog/reviving-genius"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 07:33:46",
-      "https://lobste.rs/s/y52on2/north_korean_xorindex_malware_hidden_67"
-    ],
-    [
-      "North Korean XORIndex malware hidden in 67 malicious npm packages",
-      "https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/"
     ]
   ],
   [
