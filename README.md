@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-17, 03:53:25](https://lobste.rs/s/qckjst/iris_webp_fast_efficient_webp_encoder) - [Iris-WebP: Fast, efficient WebP encoder](https://halide.cx/iris)
+* [2025-07-17, 02:56:26](https://lobste.rs/s/o7ply0/timep_trap_based_profiler_flamegraph_for) - [timep - trap-based profiler, flamegraph for bash](https://github.com/jkool702/timep)
 * [2025-07-17, 02:52:33](https://lobste.rs/s/1h5jiu/wide_reduction_trick_2022) - [A Wide Reduction Trick (2022)](https://words.filippo.io/wide-reduction/)
 * [2025-07-17, 01:50:33](https://lobste.rs/s/nnnmom/blender_hdr_reference_white_issue) - [Blender HDR and the reference white issue](https://blog.sebastianwick.net/posts/blender-hdr-reference-white/)
 * [2025-07-17, 01:47:13](https://lobste.rs/s/1lpmim/which_economic_tasks_are_performed_with) - [Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations](https://arxiv.org/abs/2503.04761)
@@ -23,7 +24,6 @@
 * [2025-07-15, 20:31:01](https://lobste.rs/s/ppxfaq/helix_25_07_highlights) - [Helix 25.07 Highlights](https://helix-editor.com/news/release-25-07-highlights/)
 * [2025-07-15, 19:39:47](https://lobste.rs/s/zschiu/introducing_go_cdc_chunkers_chunk) - [Introducing go-cdc-chunkers: chunk and deduplicate everything](https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/)
 * [2025-07-15, 17:30:55](https://lobste.rs/s/wajnta/wikipedia_outage_report_for_may_s_pope) - [Wikipedia outage report for May's Pope traffic spike](https://wikitech.wikimedia.org/wiki/Incidents/2025-05-08_Papal_announcement_traffic_surge)
-* [2025-07-15, 14:53:54](https://lobste.rs/s/xl4arr/sound_inevitability) - [The sound of inevitability](https://tomrenner.com/posts/llm-inevitabilism/)
 * [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 
 ## [Archives](archives/index.md)
