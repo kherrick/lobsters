@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-17, 07:24:11](https://lobste.rs/s/iclgb7/bypassing_specialization_rust_how_i) - [\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 05:43:20](https://lobste.rs/s/u3ywxf/rust_shaped_hole) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-17, 04:53:48](https://lobste.rs/s/inooyo/open_sesame_poems_with_entropy) - [Open Sesame: Poems with Entropy](https://www.benwr.net/2025/07/16/opensesame.html)
 * [2025-07-17, 03:53:25](https://lobste.rs/s/qckjst/iris_webp_fast_efficient_webp_encoder) - [Iris-WebP: Fast, efficient WebP encoder](https://halide.cx/iris)
@@ -7,7 +8,6 @@
 * [2025-07-17, 02:52:33](https://lobste.rs/s/1h5jiu/wide_reduction_trick_2022) - [A Wide Reduction Trick (2022)](https://words.filippo.io/wide-reduction/)
 * [2025-07-17, 01:50:33](https://lobste.rs/s/nnnmom/blender_hdr_reference_white_issue) - [Blender HDR and the reference white issue](https://blog.sebastianwick.net/posts/blender-hdr-reference-white/)
 * [2025-07-17, 01:47:13](https://lobste.rs/s/1lpmim/which_economic_tasks_are_performed_with) - [Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations](https://arxiv.org/abs/2503.04761)
-* [2025-07-16, 22:57:11](https://lobste.rs/s/uedgwg/when_make_lods) - [When to make LODs](https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802)
 * [2025-07-16, 20:19:04](https://lobste.rs/s/cexvpt/gren_tui_pure_functional_tuis_with_elm) - [gren-tui: Pure functional TUIs with The Elm Architecture](https://github.com/blaix/gren-tui)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 18:03:39](https://lobste.rs/s/4dn4da/cloudflare_1_1_1_1_incident_postmortem_for) - [Cloudflare 1.1.1.1 incident postmortem for July 14, 2025](https://blog.cloudflare.com/cloudflare-1-1-1-1-incident-on-july-14-2025/)

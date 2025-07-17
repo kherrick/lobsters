@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 07:24:11](https://lobste.rs/s/iclgb7/bypassing_specialization_rust_how_i) - [\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 05:43:20](https://lobste.rs/s/u3ywxf/rust_shaped_hole) - [A Rust shaped hole](https://mnvr.in/rust)
 * [2025-07-17, 05:18:35](https://lobste.rs/s/rnyuy1/think_real_hard_2018) - [Think real hard (2018)](https://www.benkuhn.net/thinkrealhard/)
 * [2025-07-17, 04:53:48](https://lobste.rs/s/inooyo/open_sesame_poems_with_entropy) - [Open Sesame: Poems with Entropy](https://www.benwr.net/2025/07/16/opensesame.html)
