@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-07-17, 14:21:19",
+      "https://lobste.rs/s/v2fuz3/asm_editor"
+    ],
+    [
+      "Asm Editor",
+      "https://asm-editor.specy.app/"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 13:12:56",
       "https://lobste.rs/s/b5frit/bundler_v2_7_last_release_before_bundler_4"
     ],
@@ -67,16 +77,6 @@
     [
       "Defeating Dependency Duplication in Tests?",
       "https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 12:26:20",
-      "https://lobste.rs/s/ogq41h/gccrs_june_2025_monthly_report"
-    ],
-    [
-      "gccrs June 2025 monthly report",
-      "https://rust-gcc.github.io/2025/07/17/2025-06-monthly-report.html"
     ]
   ],
   [
