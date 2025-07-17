@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-17, 08:25:02",
+      "https://lobste.rs/s/cuaicj/project_servfail_one_year"
+    ],
+    [
+      "Project SERVFAIL: one year in",
+      "https://sdomi.pl/weblog/25-servfail-first-year/"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 08:11:28",
       "https://lobste.rs/s/zaeqvr/i_was_wrong_about_robots_txt"
     ],
@@ -217,16 +227,6 @@
     [
       "Helix 25.07 Highlights",
       "https://helix-editor.com/news/release-25-07-highlights/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 19:39:47",
-      "https://lobste.rs/s/zschiu/introducing_go_cdc_chunkers_chunk"
-    ],
-    [
-      "Introducing go-cdc-chunkers: chunk and deduplicate everything",
-      "https://plakar.io/posts/2025-07-11/introducing-go-cdc-chunkers-chunk-and-deduplicate-everything/"
     ]
   ],
   [
