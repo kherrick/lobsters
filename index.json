@@ -1,12 +1,52 @@
 [
   [
     [
-      "2025-07-16, 23:05:48",
-      "https://lobste.rs/s/jkmkpa/scientific_computing_rust"
+      "2025-07-17, 02:56:26",
+      "https://lobste.rs/s/o7ply0/timep_trap_based_profiler_flamegraph_for"
     ],
     [
-      "Scientific Computing in Rust",
-      "https://scientificcomputing.rs/"
+      "timep - trap-based profiler, flamegraph for bash",
+      "https://github.com/jkool702/timep"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 02:52:33",
+      "https://lobste.rs/s/1h5jiu/wide_reduction_trick_2022"
+    ],
+    [
+      "A Wide Reduction Trick (2022)",
+      "https://words.filippo.io/wide-reduction/"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 01:50:33",
+      "https://lobste.rs/s/nnnmom/blender_hdr_reference_white_issue"
+    ],
+    [
+      "Blender HDR and the reference white issue",
+      "https://blog.sebastianwick.net/posts/blender-hdr-reference-white/"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 01:47:13",
+      "https://lobste.rs/s/1lpmim/which_economic_tasks_are_performed_with"
+    ],
+    [
+      "Which Economic Tasks are Performed with AI? Evidence from Millions of Claude Conversations",
+      "https://arxiv.org/abs/2503.04761"
+    ]
+  ],
+  [
+    [
+      "2025-07-16, 22:57:11",
+      "https://lobste.rs/s/uedgwg/when_make_lods"
+    ],
+    [
+      "When to make LODs",
+      "https://medium.com/@jasonbooth_86226/when-to-make-lods-c3109c35b802"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "I'm unsatisfied with easing functions",
       "https://www.davepagurek.com/blog/easing-functions/"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 16:34:57",
-      "https://lobste.rs/s/nf1nzf/how_test_reliability_durable_execution"
-    ],
-    [
-      "How to Test the Reliability of Durable Execution",
-      "https://www.dbos.dev/blog/how-to-test-durable-execution"
     ]
   ],
   [
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2025-07-16, 01:36:37",
-      "https://lobste.rs/s/fr2d8a/fips_140_3_go_cryptographic_module"
-    ],
-    [
-      "The FIPS 140-3 Go Cryptographic Module",
-      "https://go.dev/blog/fips140"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 23:02:48",
-      "https://lobste.rs/s/izk0ff/shipping_webgpu_on_windows_firefox_141"
-    ],
-    [
-      "Shipping WebGPU on Windows in Firefox 141",
-      "https://mozillagfx.wordpress.com/2025/07/15/shipping-webgpu-on-windows-in-firefox-141/"
-    ]
-  ],
-  [
-    [
       "2025-07-15, 20:31:01",
       "https://lobste.rs/s/ppxfaq/helix_25_07_highlights"
     ],
     [
       "Helix 25.07 Highlights",
       "https://helix-editor.com/news/release-25-07-highlights/"
-    ]
-  ],
-  [
-    [
-      "2025-07-15, 20:05:35",
-      "https://lobste.rs/s/cfkz4y/compiler_bootstrapping_nixpkgs"
-    ],
-    [
-      "Compiler bootstrapping in Nixpkgs",
-      "https://blog.obsidian.systems/compiler-bootstrapping-in-nixpkgs/"
     ]
   ],
   [
