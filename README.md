@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-17, 04:53:48](https://lobste.rs/s/inooyo/open_sesame_poems_with_entropy) - [Open Sesame: Poems with Entropy](https://www.benwr.net/2025/07/16/opensesame.html)
 * [2025-07-17, 03:53:25](https://lobste.rs/s/qckjst/iris_webp_fast_efficient_webp_encoder) - [Iris-WebP: Fast, efficient WebP encoder](https://halide.cx/iris)
 * [2025-07-17, 02:56:26](https://lobste.rs/s/o7ply0/timep_trap_based_profiler_flamegraph_for) - [timep - trap-based profiler, flamegraph for bash](https://github.com/jkool702/timep)
 * [2025-07-17, 02:52:33](https://lobste.rs/s/1h5jiu/wide_reduction_trick_2022) - [A Wide Reduction Trick (2022)](https://words.filippo.io/wide-reduction/)
@@ -14,7 +15,6 @@
 * [2025-07-16, 15:32:49](https://lobste.rs/s/ztmjaf/fedora_sig_changes_python_packaging) - [Fedora SIG changes Python packaging strategy](https://lwn.net/SubscriberLink/1029354/8e707178c74ae2f8/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 * [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
-* [2025-07-16, 14:14:01](https://lobste.rs/s/gcgqvb/kiro_future_ai_spec_driven_software) - [Kiro and the future of AI spec-driven software development](https://kiro.dev/blog/kiro-and-the-future-of-software-development/)
 * [2025-07-16, 13:23:24](https://lobste.rs/s/oukt2e/gpuhammer_rowhammer_attacks_on_gpu) - [GPUHammer: Rowhammer Attacks on GPU Memories are Practical](https://gpuhammer.com/)
 * [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm (2024)](https://words.filippo.io/geomys/)
 * [2025-07-16, 11:40:41](https://lobste.rs/s/am00km/let_me_cook_you_vulnerability_exploiting) - [Let Me Cook You a Vulnerability: Exploiting the Thermomix TM5](https://www.synacktiv.com/en/publications/let-me-cook-you-a-vulnerability-exploiting-the-thermomix-tm5)
