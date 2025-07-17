@@ -6,6 +6,7 @@
 
 * [2025-07-17, 13:12:56](https://lobste.rs/s/b5frit/bundler_v2_7_last_release_before_bundler_4) - [Bundler v2.7: last release before Bundler 4](https://bundler.io/blog/2025/07/17/bundler-v2-7.html)
 * [2025-07-17, 12:55:24](https://lobste.rs/s/7miuzf/terminal_trove_home_all_things_terminal) - [Terminal Trove - The $HOME of all things in the terminal](https://terminaltrove.com/)
+* [2025-07-17, 12:45:01](https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests) - [Defeating Dependency Duplication in Tests?](https://lobste.rs/s/vpzlcr/defeating_dependency_duplication_tests)
 * [2025-07-17, 12:26:20](https://lobste.rs/s/ogq41h/gccrs_june_2025_monthly_report) - [gccrs June 2025 monthly report](https://rust-gcc.github.io/2025/07/17/2025-06-monthly-report.html)
 * [2025-07-17, 12:25:57](https://lobste.rs/s/fy2wcx/we_ve_got_stop_sending_files_each_other) - [We've got to stop sending files to each other](https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/)
 * [2025-07-17, 12:07:33](https://lobste.rs/s/greve7/parsing_protobuf_like_never_before) - [Parsing Protobuf Like Never Before](https://mcyoung.xyz/2025/07/16/hyperpb/)
