@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 12:26:20](https://lobste.rs/s/ogq41h/gccrs_june_2025_monthly_report) - [gccrs June 2025 monthly report](https://rust-gcc.github.io/2025/07/17/2025-06-monthly-report.html)
+* [2025-07-17, 12:25:57](https://lobste.rs/s/fy2wcx/we_ve_got_stop_sending_files_each_other) - [We've got to stop sending files to each other](https://shkspr.mobi/blog/2025/07/weve-got-to-stop-sending-files-to-each-other/)
+* [2025-07-17, 12:07:33](https://lobste.rs/s/greve7/parsing_protobuf_like_never_before) - [Parsing Protobuf Like Never Before](https://mcyoung.xyz/2025/07/16/hyperpb/)
+* [2025-07-17, 12:00:04](https://lobste.rs/s/cavtz6/firefox_security_privacy_newsletter) - [Firefox Security & Privacy newsletter 2025 Q2](https://attackanddefense.dev/2025/07/17/firefox-security-privacy-newsletter-2025-q2.html)
+* [2025-07-17, 11:54:46](https://lobste.rs/s/s92ylk/two_simple_rules_fix_code_reviews) - [Two Simple Rules to Fix Code Reviews](https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews)
 * [2025-07-17, 11:19:12](https://lobste.rs/s/zarobw/active_active_replication_extension_for) - [Active-active Replication Extension for PostgreSQL by AWS](https://github.com/aws/pgactive)
 * [2025-07-17, 09:16:14](https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022) - [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)
 * [2025-07-17, 08:25:02](https://lobste.rs/s/cuaicj/project_servfail_one_year) - [Project SERVFAIL: one year in](https://sdomi.pl/weblog/25-servfail-first-year/)
