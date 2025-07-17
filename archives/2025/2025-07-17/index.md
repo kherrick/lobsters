@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 11:19:12](https://lobste.rs/s/zarobw/active_active_replication_extension_for) - [Active-active Replication Extension for PostgreSQL by AWS](https://github.com/aws/pgactive)
 * [2025-07-17, 09:16:14](https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022) - [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)
 * [2025-07-17, 08:25:02](https://lobste.rs/s/cuaicj/project_servfail_one_year) - [Project SERVFAIL: one year in](https://sdomi.pl/weblog/25-servfail-first-year/)
 * [2025-07-17, 08:11:28](https://lobste.rs/s/zaeqvr/i_was_wrong_about_robots_txt) - [I was wrong about robots.txt](https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/)
