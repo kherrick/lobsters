@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-17](index.md)
 
+* [2025-07-17, 20:39:32](https://lobste.rs/s/rnnpqm/casey_muratori_big_oops_anatomy_thirty) - [Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025](https://www.youtube.com/watch?v=wo84LFzx5nI)
 * [2025-07-17, 19:18:02](https://lobste.rs/s/dl4cjj/zig_s_fieldparentptr_for_dumbos_like_me) - [Zig's @fieldParentPtr for dumbos like me](https://www.ryanliptak.com/blog/zig-fieldparentptr-for-dumbos/)
 * [2025-07-17, 16:36:39](https://lobste.rs/s/a29mny/hackers_exploit_blind_spot_by_hiding) - [Hackers exploit a blind spot by hiding malware inside DNS records](https://arstechnica.com/security/2025/07/hackers-exploit-a-blind-spot-by-hiding-malware-inside-dns-records/)
 * [2025-07-17, 16:30:32](https://lobste.rs/s/tusjpx/mercury_protocol) - [The Mercury Protocol](https://raw.githubusercontent.com/floren/mercury/master/SPEC)
