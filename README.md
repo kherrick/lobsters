@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-17, 15:19:15](https://lobste.rs/s/lzvc21/why_pull_based_pipelines_are_faster) - [Why pull-based pipelines are faster](https://blog.sequinstream.com/why-pull-based-pipelines-are-faster/)
+* [2025-07-17, 14:58:56](https://lobste.rs/s/udtfpn/zig_s_new_writer) - [Zig's new Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-17, 14:24:13](https://lobste.rs/s/mklbl9/lsr_ls_with_io_uring) - [lsr: ls but with io_uring](https://tangled.sh/@rockorager.dev/lsr)
 * [2025-07-17, 13:12:56](https://lobste.rs/s/b5frit/bundler_v2_7_last_release_before_bundler_4) - [Bundler v2.7: last release before Bundler 4](https://bundler.io/blog/2025/07/17/bundler-v2-7.html)
 * [2025-07-17, 12:55:24](https://lobste.rs/s/7miuzf/terminal_trove_home_all_things_terminal) - [Terminal Trove - The $HOME of all things in the terminal](https://terminaltrove.com/)
@@ -23,8 +25,6 @@
 * [2025-07-16, 15:22:08](https://lobste.rs/s/a5mmlt/pre_disclosure_upcoming_coordinated) - [Pre-disclosure: Upcoming coordinated security fix for all Matrix server implementations](https://matrix.org/blog/2025/07/security-predisclosure/)
 * [2025-07-16, 12:49:47](https://lobste.rs/s/1juicg/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm (2024)](https://words.filippo.io/geomys/)
 * [2025-07-16, 09:18:50](https://lobste.rs/s/ioznqf/reviving_genius) - [Reviving Genius](https://andrewshaw.nl/blog/reviving-genius)
-* [2025-07-16, 06:37:35](https://lobste.rs/s/r91kkb/janet_feature_demos) - [Janet Feature Demos](https://github.com/sogaiu/janet-features-demos)
-* [2025-07-15, 13:42:42](https://lobste.rs/s/pvbjui/death_by_thousand_slops) - [Death by a thousand slops](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/)
 
 ## [Archives](archives/index.md)
 
