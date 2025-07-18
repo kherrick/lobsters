@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-18, 08:22:59",
+      "https://lobste.rs/s/ytnxm6/engineering_end_work"
+    ],
+    [
+      "Engineering the End of Work",
+      "https://schmud.de/posts/2025-07-15-engineering-end-of-work.html"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 03:22:18",
       "https://lobste.rs/s/zcizsx/how_go_1_24_s_swiss_tables_saved_us_hundreds"
     ],
@@ -27,16 +37,6 @@
     [
       "Supporting Faster File Load Times with Memory Optimizations in Rust",
       "https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 01:28:58",
-      "https://lobste.rs/s/zjhb8g/how_we_tracked_down_go_1_24_memory"
-    ],
-    [
-      "How we tracked down a Go 1.24 memory regression across hundreds of pods",
-      "https://www.datadoghq.com/blog/engineering/go-memory-regression/"
     ]
   ],
   [
