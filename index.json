@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-18, 23:43:41",
+      "https://lobste.rs/s/vaqh5i/shutting_down_clear_linux_os"
+    ],
+    [
+      "Shutting down Clear Linux OS",
+      "https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 23:29:11",
       "https://lobste.rs/s/f0um5j/async_rust_is_bad_language"
     ],
@@ -227,16 +237,6 @@
     [
       "lsr: ls but with io_uring",
       "https://tangled.sh/@rockorager.dev/lsr"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 12:07:33",
-      "https://lobste.rs/s/greve7/parsing_protobuf_like_never_before"
-    ],
-    [
-      "Parsing Protobuf Like Never Before",
-      "https://mcyoung.xyz/2025/07/16/hyperpb/"
     ]
   ],
   [
