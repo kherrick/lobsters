@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-18, 20:16:10",
+      "https://lobste.rs/s/s8ldew/current_technology_is_not_ready_for"
+    ],
+    [
+      "The current technology is not ready for proper blending",
+      "https://blog.pkh.me/p/43-the-current-technology-is-not-ready-for-proper-blending.html"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 19:21:17",
       "https://lobste.rs/s/oeuohp/asynchrony_is_not_concurrency"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-07-18, 16:35:51",
+      "https://lobste.rs/s/62s7ct/how_much_computing_power_world"
+    ],
+    [
+      "How much computing power in the world?",
+      "https://lobste.rs/s/62s7ct/how_much_computing_power_world"
+    ]
+  ],
+  [
+    [
       "2025-07-18, 15:56:40",
       "https://lobste.rs/s/fzjq4y/jsonptr_using_wuffs_memory_safe_zero"
     ],
@@ -57,16 +77,6 @@
     [
       "How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs",
       "https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 13:38:53",
-      "https://lobste.rs/s/u22ato/brute_forcing_langley_s_geometry_problem"
-    ],
-    [
-      "Brute-forcing Langley’s geometry problem with field extensions",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/adventitious/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "The Big OOPs: Anatomy of a Thirty-five-year Mistake",
       "https://www.youtube.com/watch?v=wo84LFzx5nI"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 16:30:32",
-      "https://lobste.rs/s/tusjpx/mercury_protocol"
-    ],
-    [
-      "The Mercury Protocol",
-      "https://raw.githubusercontent.com/floren/mercury/master/SPEC"
     ]
   ],
   [
