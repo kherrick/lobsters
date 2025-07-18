@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-18, 12:31:17](https://lobste.rs/s/99mqr2/servo_adds_support_for_network_inspector) - [Servo adds support for network inspector devtools](https://servo.org/blog/2025/07/17/this-month-in-servo/)
+* [2025-07-18, 12:28:26](https://lobste.rs/s/jwbvyr/polycode_encode_binary_file_as_rational) - [polycode: Encode a binary file as a rational polynomial function](https://codeberg.org/cve/polycode)
 * [2025-07-18, 11:04:13](https://lobste.rs/s/dw7vlt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dw7vlt/what_are_you_doing_this_weekend)
 * [2025-07-18, 10:10:55](https://lobste.rs/s/ccizhx/tech_promised_everything_did_it_deliver) - [Tech Promised Everything. Did it deliver?](https://www.youtube.com/watch?v=dVG8W-0p6vg)
 * [2025-07-18, 08:35:22](https://lobste.rs/s/xzxxng/when_root_meets_immutable_openbsd) - [When Root Meets Immutable: OpenBSD chflags vs. Log Tampering](https://rsadowski.de/posts/2025/openbsd-immutable-system-logs/)
@@ -22,8 +24,6 @@
 * [2025-07-17, 12:07:33](https://lobste.rs/s/greve7/parsing_protobuf_like_never_before) - [Parsing Protobuf Like Never Before](https://mcyoung.xyz/2025/07/16/hyperpb/)
 * [2025-07-17, 12:00:04](https://lobste.rs/s/cavtz6/firefox_security_privacy_newsletter) - [Firefox Security & Privacy newsletter 2025 Q2](https://attackanddefense.dev/2025/07/17/firefox-security-privacy-newsletter-2025-q2.html)
 * [2025-07-17, 11:54:46](https://lobste.rs/s/s92ylk/two_simple_rules_fix_code_reviews) - [Two Simple Rules to Fix Code Reviews](https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews)
-* [2025-07-17, 09:16:14](https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022) - [C++ Trailing Return Types (2022)](https://danielsieger.com/blog/2022/01/28/cpp-trailing-return-types.html)
-* [2025-07-17, 08:25:02](https://lobste.rs/s/cuaicj/project_servfail_one_year) - [Project SERVFAIL: one year in](https://sdomi.pl/weblog/25-servfail-first-year/)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 
 ## [Archives](archives/index.md)
