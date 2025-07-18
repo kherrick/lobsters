@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-18, 01:03:14](https://lobste.rs/s/vtssie/this_new_google_chrome_filter_may_kill_web) - [This new Google Chrome filter may kill Web Push Notifications](https://pushpad.xyz/blog/new-chrome-filter-may-kill-web-push-notifications)
-* [2025-07-18, 00:50:41](https://lobste.rs/s/yv7r9s/forgejo_v12) - [Forgejo v12](https://codeberg.org/forgejo/forgejo/milestone/12836)
+* [2025-07-18, 02:25:13](https://lobste.rs/s/l8a8zq/nih_is_far_cheaper_than_wrong_dependency) - [NIH Is Far Cheaper Than The Wrong Dependency](https://lewiscampbell.tech/blog/250718.html)
+* [2025-07-18, 02:24:18](https://lobste.rs/s/pz9rgk/supporting_faster_file_load_times_with) - [Supporting Faster File Load Times with Memory Optimizations in Rust](https://www.figma.com/blog/supporting-faster-file-load-times-with-memory-optimizations-in-rust/)
+* [2025-07-18, 00:50:41](https://lobste.rs/s/yv7r9s/forgejo_v12) - [Forgejo v12](https://forgejo.org/2025-07-release-v12-0/)
 * [2025-07-17, 23:22:56](https://lobste.rs/s/dyvmbe/magic_gathering_deal_infinite_damage_for) - [Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true](https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/)
 * [2025-07-17, 23:09:06](https://lobste.rs/s/dm7pow/my_favorite_use_case_for_ai_is_writing_logs) - [My favorite use-case for AI is writing logs](https://newsletter.vickiboykis.com/archive/my-favorite-use-case-for-ai-is-writing-logs/)
 * [2025-07-17, 20:39:32](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake) - [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI)
@@ -22,7 +23,6 @@
 * [2025-07-17, 08:25:02](https://lobste.rs/s/cuaicj/project_servfail_one_year) - [Project SERVFAIL: one year in](https://sdomi.pl/weblog/25-servfail-first-year/)
 * [2025-07-17, 07:24:11](https://lobste.rs/s/iclgb7/bypassing_specialization_rust_how_i) - [\"Bypassing\" specialization in Rust or How I Learned to Stop Worrying and Love Function Pointers](https://oakchris1955.eu/posts/bypassing_specialization/)
 * [2025-07-17, 05:43:20](https://lobste.rs/s/u3ywxf/rust_shaped_hole) - [A Rust shaped hole](https://mnvr.in/rust)
-* [2025-07-17, 01:50:33](https://lobste.rs/s/nnnmom/blender_hdr_reference_white_issue) - [Blender HDR and the reference white issue](https://blog.sebastianwick.net/posts/blender-hdr-reference-white/)
 * [2025-07-16, 19:48:37](https://lobste.rs/s/4bhrvr/artisanal_handcrafted_git_repositories) - [Artisanal Handcrafted Git Repositories](https://drew.silcock.dev/blog/artisanal-git/)
 * [2025-07-16, 15:30:06](https://lobste.rs/s/tfauzy/underused_techniques_for_effective) - [Underused Techniques for Effective Emails](https://refactoringenglish.com/chapters/techniques-for-writing-emails/)
 
