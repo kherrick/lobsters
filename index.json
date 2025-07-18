@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-18, 01:03:14",
+      "https://lobste.rs/s/vtssie/this_new_google_chrome_filter_may_kill_web"
+    ],
+    [
+      "This new Google Chrome filter may kill Web Push Notifications",
+      "https://pushpad.xyz/blog/new-chrome-filter-may-kill-web-push-notifications"
+    ]
+  ],
+  [
+    [
+      "2025-07-18, 00:50:41",
+      "https://lobste.rs/s/yv7r9s/forgejo_v12"
+    ],
+    [
+      "Forgejo v12",
+      "https://codeberg.org/forgejo/forgejo/milestone/12836"
+    ]
+  ],
+  [
+    [
+      "2025-07-17, 23:22:56",
+      "https://lobste.rs/s/dyvmbe/magic_gathering_deal_infinite_damage_for"
+    ],
+    [
+      "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
+      "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/"
+    ]
+  ],
+  [
+    [
       "2025-07-17, 23:09:06",
       "https://lobste.rs/s/dm7pow/my_favorite_use_case_for_ai_is_writing_logs"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-07-17, 11:19:12",
-      "https://lobste.rs/s/zarobw/active_active_replication_extension_for"
-    ],
-    [
-      "Active-active Replication Extension for PostgreSQL by AWS",
-      "https://github.com/aws/pgactive"
-    ]
-  ],
-  [
-    [
       "2025-07-17, 09:16:14",
       "https://lobste.rs/s/wxsq3f/c_trailing_return_types_2022"
     ],
@@ -177,16 +197,6 @@
     [
       "Project SERVFAIL: one year in",
       "https://sdomi.pl/weblog/25-servfail-first-year/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 08:11:28",
-      "https://lobste.rs/s/zaeqvr/i_was_wrong_about_robots_txt"
-    ],
-    [
-      "I was wrong about robots.txt",
-      "https://evgeniipendragon.com/posts/i-was-wrong-about-robots-txt/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Artisanal Handcrafted Git Repositories",
       "https://drew.silcock.dev/blog/artisanal-git/"
-    ]
-  ],
-  [
-    [
-      "2025-07-16, 17:48:06",
-      "https://lobste.rs/s/qqm5uw/i_m_unsatisfied_with_easing_functions"
-    ],
-    [
-      "I'm unsatisfied with easing functions",
-      "https://www.davepagurek.com/blog/easing-functions/"
     ]
   ],
   [
