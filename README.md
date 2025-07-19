@@ -9,6 +9,7 @@
 * [2025-07-18, 19:21:17](https://lobste.rs/s/oeuohp/asynchrony_is_not_concurrency) - [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
 * [2025-07-18, 19:13:24](https://lobste.rs/s/df2azc/firefox_patch_bin_librewolf_fix_bin_zen) - [firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/)
 * [2025-07-18, 17:08:16](https://lobste.rs/s/datuh1/kap_lang) - [Kap lang](https://kapdemo.dhsdevelopments.com/)
+* [2025-07-18, 16:09:33](https://lobste.rs/s/mae4yg/enough_unix_get_by) - [Enough unix to get by](https://thoughtbot.com/blog/enough-unix-to-get-by)
 * [2025-07-18, 15:56:40](https://lobste.rs/s/fzjq4y/jsonptr_using_wuffs_memory_safe_zero) - [Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder](https://nigeltao.github.io/blog/2020/jsonptr.html)
 * [2025-07-18, 15:49:02](https://lobste.rs/s/hoxhnw/petition_repeal_online_safety_act) - [Petition: Repeal the Online Safety Act](https://petition.parliament.uk/petitions/722903)
 * [2025-07-18, 15:40:23](https://lobste.rs/s/bd0dek/how_i_fixed_ruby_s_most_annoying_problem_60) - [How I Fixed Ruby's Most Annoying Problem: 60-Second Gem Installs](https://mensfeld.pl/2025/07/solving-ruby-rdkafka-installation-problem/)
@@ -23,7 +24,6 @@
 * [2025-07-17, 23:22:56](https://lobste.rs/s/dyvmbe/magic_gathering_deal_infinite_damage_for) - [Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true](https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/)
 * [2025-07-17, 20:39:32](https://lobste.rs/s/rnnpqm/big_oops_anatomy_thirty_five_year_mistake) - [The Big OOPs: Anatomy of a Thirty-five-year Mistake](https://www.youtube.com/watch?v=wo84LFzx5nI)
 * [2025-07-17, 16:08:57](https://lobste.rs/s/savjgl/firefox_dev_says_intel_raptor_lake) - [Firefox dev says Intel Raptor Lake crashes are increasing with rising temperatures in record European heat wave](https://www.tomshardware.com/pc-components/cpus/firefox-dev-says-intel-raptor-lake-crashes-are-increasing-with-rising-temperatures-in-record-european-heat-wave-mozilla-staffs-tracking-overwhelmed-by-intel-crash-reports-team-disables-the-function)
-* [2025-07-17, 14:58:56](https://lobste.rs/s/udtfpn/zig_s_new_writer) - [Zig's new Writer](https://www.openmymind.net/Zigs-New-Writer/)
 * [2025-07-17, 11:54:46](https://lobste.rs/s/s92ylk/two_simple_rules_fix_code_reviews) - [Two Simple Rules to Fix Code Reviews](https://serce.me/posts/2025-07-17-two-simple-rules-to-fix-code-reviews)
 
 ## [Archives](archives/index.md)
