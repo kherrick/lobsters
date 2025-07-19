@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-18](index.md)
 
 * [2025-07-18, 23:43:41](https://lobste.rs/s/vaqh5i/shutting_down_clear_linux_os) - [Shutting down Clear Linux OS](https://community.clearlinux.org/t/all-good-things-come-to-an-end-shutting-down-clear-linux-os/10716)
+* [2025-07-18, 23:29:11](https://lobste.rs/s/f0um5j/async_rust_is_bad_language_2023) - [Async Rust Is A Bad Language (2023)](https://bitbashing.io/async-rust.html)
 * [2025-07-18, 23:29:11](https://lobste.rs/s/f0um5j/async_rust_is_bad_language) - [Async Rust Is A Bad Language](https://bitbashing.io/async-rust.html)
 * [2025-07-18, 22:59:53](https://lobste.rs/s/pz8p8c/super_mario_bros_is_computationally_hard) - [Super Mario Bros is (Computationally) Hard](https://www.youtube.com/watch?v=unLPk4H1hto)
 * [2025-07-18, 22:15:03](https://lobste.rs/s/mqmvmc/stealth_macintosh_portable_case_mod) - [Stealth Macintosh Portable Case Mod](https://biosrhythm.com/?p=2956)
