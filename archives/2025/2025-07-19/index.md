@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-19](index.md)
 
+* [2025-07-19, 16:57:09](https://lobste.rs/s/czx98y/rethinking_cli_interfaces_for_ai) - [Rethinking CLI interfaces for AI](https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/)
 * [2025-07-19, 15:10:43](https://lobste.rs/s/47ckxy/using_leaked_data_examine) - [Using leaked data to examine vulnerabilities in SMS routing and SS7 signalling](https://medium.com/@lighthousereports/using-leaked-data-to-examine-vulnerabilities-in-sms-routing-and-ss7-signalling-8e30298491d9)
 * [2025-07-19, 14:15:06](https://lobste.rs/s/8vq6rx/kubernetes_observability_with) - [Kubernetes Observability with OpenTelemetry Helm Charts [A guide I wish I had, when I started]](https://signoz.io/blog/kubernetes-observability-with-opentelemetry/)
 * [2025-07-19, 13:10:21](https://lobste.rs/s/lmcjqw/he_rewrote_everything_rust_then_we_got) - [He rewrote everything in Rust, then we got fired](https://freedium.cfd/https://medium.com/@ThreadSafeDiaries/he-rewrote-everything-in-rust-then-we-got-fired-293e3e16c2d3)
