@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-19, 14:15:06",
+      "https://lobste.rs/s/8vq6rx/kubernetes_observability_with"
+    ],
+    [
+      "Kubernetes Observability with OpenTelemetry Helm Charts [A guide I wish I had, when I started]",
+      "https://signoz.io/blog/kubernetes-observability-with-opentelemetry/"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 13:10:21",
       "https://lobste.rs/s/lmcjqw/he_rewrote_everything_rust_then_we_got"
     ],
@@ -217,16 +227,6 @@
     [
       "Forgejo v12",
       "https://forgejo.org/2025-07-release-v12-0/"
-    ]
-  ],
-  [
-    [
-      "2025-07-17, 23:22:56",
-      "https://lobste.rs/s/dyvmbe/magic_gathering_deal_infinite_damage_for"
-    ],
-    [
-      "Magic The Gathering - Deal infinite damage for 4GRU, as long as the twin primes conjecture is true",
-      "https://www.reddit.com/r/BadMtgCombos/comments/1feps3y/deal_infinite_damage_for_4gru_as_long_as_the_twin/"
     ]
   ],
   [
