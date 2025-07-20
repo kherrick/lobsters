@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-20](index.md)
 
+* [2025-07-20, 21:00:52](https://lobste.rs/s/hqbhxk/exploring_secrets_layoutpriority) - [Exploring the Secrets of layoutPriority in SwiftUI ZStack](https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/)
 * [2025-07-20, 19:27:01](https://lobste.rs/s/04g8ge/foo_archive) - [The Foo Archive](https://soda.privatevoid.net/foo/)
 * [2025-07-20, 19:14:55](https://lobste.rs/s/tfc3cb/stdio_3_change_file_is_now_opaque) - [stdio(3) change: FILE is now opaque](https://undeadly.org/cgi?action=article;sid=20250717103345)
 * [2025-07-20, 17:00:46](https://lobste.rs/s/ihmxdn/they_re_putting_blue_food_coloring) - [They're putting blue food coloring in everything](https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/)
