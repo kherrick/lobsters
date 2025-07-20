@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-20, 12:22:09",
+      "https://lobste.rs/s/6ifojq/coding_with_llms_summer_2025_update"
+    ],
+    [
+      "Coding with LLMs in the summer of 2025 (an update)",
+      "https://antirez.com/news/154"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 09:40:45",
       "https://lobste.rs/s/szcq9k/async_i_o_on_linux_durability"
     ],
@@ -217,16 +227,6 @@
     [
       "firefox-patch-bin, librewolf-fix-bin and zen-browser-patched-bin AUR packages contain malware",
       "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/7EZTJXLIAQLARQNTMEW2HBWZYE626IFJ/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 15:56:40",
-      "https://lobste.rs/s/fzjq4y/jsonptr_using_wuffs_memory_safe_zero"
-    ],
-    [
-      "Jsonptr: Using Wuffs’ Memory-Safe, Zero-Allocation JSON Decoder (2020)",
-      "https://nigeltao.github.io/blog/2020/jsonptr.html"
     ]
   ],
   [
