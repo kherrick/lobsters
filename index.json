@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-20, 00:13:17",
+      "https://lobste.rs/s/sjzggo/parallelizing_physics_solver"
+    ],
+    [
+      "Parallelizing the physics solver",
+      "https://youtu.be/Kvsvd67XUKw"
+    ]
+  ],
+  [
+    [
       "2025-07-19, 23:35:08",
       "https://lobste.rs/s/jtd0b1/giving_up_on_element_matrix_org"
     ],
@@ -227,16 +237,6 @@
     [
       "Servo adds support for network inspector devtools",
       "https://servo.org/blog/2025/07/17/this-month-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 12:28:26",
-      "https://lobste.rs/s/jwbvyr/polycode_encode_binary_file_as_rational"
-    ],
-    [
-      "polycode: Encode a binary file as a rational polynomial function",
-      "https://codeberg.org/cve/polycode"
     ]
   ],
   [
