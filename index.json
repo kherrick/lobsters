@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-20, 23:15:11",
+      "https://lobste.rs/s/yhhecn/type_level_programming_for_safer"
+    ],
+    [
+      "Type-level programming for safer resource management",
+      "https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 21:54:25",
       "https://lobste.rs/s/dbbau4/how_i_found_myself_game_industry"
     ],
@@ -227,16 +237,6 @@
     [
       "Async Rust Is A Bad Language (2023)",
       "https://bitbashing.io/async-rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 19:21:17",
-      "https://lobste.rs/s/oeuohp/asynchrony_is_not_concurrency"
-    ],
-    [
-      "Asynchrony is not Concurrency",
-      "https://kristoff.it/blog/asynchrony-is-not-concurrency/"
     ]
   ],
   [
