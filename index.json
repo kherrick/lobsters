@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-20, 14:34:07",
+      "https://lobste.rs/s/hikcqp/rust_clippy_performance_status_update"
+    ],
+    [
+      "Rust Clippy performance status update",
+      "https://blog.goose.love/posts/clippy-performance-status-update/"
+    ]
+  ],
+  [
+    [
+      "2025-07-20, 14:33:56",
+      "https://lobste.rs/s/xx0k66/responsible_ai_enterprise_applications"
+    ],
+    [
+      "Responsible AI in Enterprise Applications: A Practitioner's View",
+      "https://www.jjude.com/responsible-ai-in-enterprise-apps/"
+    ]
+  ],
+  [
+    [
       "2025-07-20, 14:04:12",
       "https://lobste.rs/s/7ykaux/introducing_xmlui"
     ],
@@ -87,16 +107,6 @@
     [
       "metap: A Meta-Programming Layer for Python",
       "https://sbaziotis.com/compilers/metap.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 20:13:54",
-      "https://lobste.rs/s/toitpk/trigon_exploiting_coprocessors_for_fun"
-    ],
-    [
-      "Trigon: exploiting coprocessors for fun and for profit (part 2)",
-      "https://alfiecg.uk/2025/07/16/Trigon.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Petition: Repeal the Online Safety Act",
       "https://petition.parliament.uk/petitions/722903"
-    ]
-  ],
-  [
-    [
-      "2025-07-18, 02:25:13",
-      "https://lobste.rs/s/l8a8zq/nih_is_far_cheaper_than_wrong_dependency"
-    ],
-    [
-      "NIH Is Far Cheaper Than The Wrong Dependency",
-      "https://lewiscampbell.tech/blog/250718.html"
     ]
   ]
 ]
