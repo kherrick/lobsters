@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-21, 21:16:10",
+      "https://lobste.rs/s/cvhdvw/garbage_collection_for_systems"
+    ],
+    [
+      "Garbage Collection for Systems Programmers",
+      "https://bitbashing.io/gc-for-systems-programmers.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 21:11:47",
+      "https://lobste.rs/s/j24jqw/vibe_coding_gone_wrong_5_rules_for_safely"
+    ],
+    [
+      "Vibe Coding Gone Wrong: 5 Rules for Safely Using AI",
+      "https://cybercorsairs.com/my-ai-co-pilot-deleted-my-production-database/"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 21:10:55",
+      "https://lobste.rs/s/obhc4f/working_on_programming_language_age_llms"
+    ],
+    [
+      "Working on a Programming Language in the Age of LLMs",
+      "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 20:49:09",
       "https://lobste.rs/s/6uj96z/automating_away_claude_s_bad_habits_with"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-07-20, 21:54:25",
-      "https://lobste.rs/s/dbbau4/how_i_found_myself_game_industry"
-    ],
-    [
-      "How I Found Myself In the Game Industry",
-      "https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html"
-    ]
-  ],
-  [
-    [
       "2025-07-20, 19:14:55",
       "https://lobste.rs/s/tfc3cb/stdio_3_change_file_is_now_opaque"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-07-20, 14:34:07",
-      "https://lobste.rs/s/hikcqp/rust_clippy_performance_status_update"
-    ],
-    [
-      "Rust Clippy performance status update",
-      "https://blog.goose.love/posts/clippy-performance-status-update/"
-    ]
-  ],
-  [
-    [
       "2025-07-20, 14:04:12",
       "https://lobste.rs/s/7ykaux/introducing_xmlui"
     ],
@@ -237,16 +247,6 @@
     [
       "Coding with LLMs in the summer of 2025 (an update)",
       "https://antirez.com/news/154"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 09:40:45",
-      "https://lobste.rs/s/szcq9k/async_i_o_on_linux_durability"
-    ],
-    [
-      "Async I/O on Linux and durability",
-      "https://blog.canoozie.net/async-i-o-on-linux-and-durability/"
     ]
   ]
 ]
