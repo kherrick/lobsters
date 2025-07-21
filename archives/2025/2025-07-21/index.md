@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 21:49:28](https://lobste.rs/s/h8bfgy/sapling) - [Sapling](https://sapling-scm.com/)
 * [2025-07-21, 21:16:10](https://lobste.rs/s/cvhdvw/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2025-07-21, 21:11:47](https://lobste.rs/s/j24jqw/vibe_coding_gone_wrong_5_rules_for_safely) - [Vibe Coding Gone Wrong: 5 Rules for Safely Using AI](https://cybercorsairs.com/my-ai-co-pilot-deleted-my-production-database/)
 * [2025-07-21, 21:10:55](https://lobste.rs/s/obhc4f/working_on_programming_language_age_llms) - [Working on a Programming Language in the Age of LLMs](https://ryelang.org/blog/posts/programming-language-in-age-of-llms/)
