@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 19:48:42](https://lobste.rs/s/lgcpmp/fuzzing_kotlin_compiler) - [Fuzzing the Kotlin Compiler](https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/)
+* [2025-07-21, 19:47:51](https://lobste.rs/s/ddklvz/cppq_simple_reliable_efficient) - [cppq: Simple, reliable & efficient distributed task queues for C++17](https://github.com/h2337/cppq)
 * [2025-07-21, 18:09:56](https://lobste.rs/s/1ylyds/pogocache_fast_caching_software) - [Pogocache - Fast caching software](https://github.com/tidwall/pogocache)
 * [2025-07-21, 16:58:35](https://lobste.rs/s/s6qbyt/file_pilot_inside_engine) - [File Pilot: Inside the Engine](https://www.youtube.com/watch?v=bUOOaXf9qIM)
 * [2025-07-21, 16:54:38](https://lobste.rs/s/4ufubc/reverse_engineering_mysterious_up_data) - [Reverse engineering the mysterious Up-Data Link Test Set from Apollo](https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html)
