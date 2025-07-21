@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 12:34:37](https://lobste.rs/s/qykvpg/deeper_theories_program_design) - [Deeper theories of program design](https://typesanitizer.com/blog/deeper-theories.html)
+* [2025-07-21, 12:13:19](https://lobste.rs/s/adii2s/dissertation_typesetting) - [Dissertation Typesetting Considerations](https://tony-zorman.com/posts/phd-typesetting.html)
+* [2025-07-21, 12:03:27](https://lobste.rs/s/pr5jaq/transformer_explainer_llm_transformer) - [Transformer Explainer: LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/)
 * [2025-07-21, 11:46:33](https://lobste.rs/s/kbgqqw/why_i_want_leave_list) - [The \"Why I want to leave\" list](https://blog.incrementalforgetting.tech/p/the-why-i-want-to-leave-list)
 * [2025-07-21, 11:11:27](https://lobste.rs/s/xeqwij/gren_25s_easier_interop_concurrent_tasks) - [Gren 25S: Easier interop, concurrent tasks and zero-install packages](https://gren-lang.org/news/250721_gren_25s/)
 * [2025-07-21, 10:54:14](https://lobste.rs/s/uhfp4g/perfect_is_enemy_good_wikipedia) - [Perfect is the enemy of good - Wikipedia](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
