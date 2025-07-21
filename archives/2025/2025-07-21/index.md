@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 20:01:06](https://lobste.rs/s/gmnqi9/ai_is_not_other_people) - [AI Is Not Other People](https://maxmcd.com/posts/ai-is-not-other-people/)
 * [2025-07-21, 19:48:42](https://lobste.rs/s/lgcpmp/fuzzing_kotlin_compiler) - [Fuzzing the Kotlin Compiler](https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/)
 * [2025-07-21, 19:47:51](https://lobste.rs/s/ddklvz/cppq_simple_reliable_efficient) - [cppq: Simple, reliable & efficient distributed task queues for C++17](https://github.com/h2337/cppq)
 * [2025-07-21, 18:09:56](https://lobste.rs/s/1ylyds/pogocache_fast_caching_software) - [Pogocache - Fast caching software](https://github.com/tidwall/pogocache)
