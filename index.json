@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-21, 12:34:37",
+      "https://lobste.rs/s/qykvpg/deeper_theories_program_design"
+    ],
+    [
+      "Deeper theories of program design",
+      "https://typesanitizer.com/blog/deeper-theories.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 12:13:19",
+      "https://lobste.rs/s/adii2s/dissertation_typesetting"
+    ],
+    [
+      "Dissertation Typesetting Considerations",
+      "https://tony-zorman.com/posts/phd-typesetting.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 12:03:27",
+      "https://lobste.rs/s/pr5jaq/transformer_explainer_llm_transformer"
+    ],
+    [
+      "Transformer Explainer: LLM Transformer Model Visually Explained",
+      "https://poloclub.github.io/transformer-explainer/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 11:46:33",
       "https://lobste.rs/s/kbgqqw/why_i_want_leave_list"
     ],
@@ -97,16 +127,6 @@
     [
       "How I Found Myself In the Game Industry",
       "https://nothings.org/gamedev/how_i_found_myself_in_the_game_industry.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 21:00:52",
-      "https://lobste.rs/s/hqbhxk/exploring_secrets_layoutpriority"
-    ],
-    [
-      "Exploring the Secrets of layoutPriority in SwiftUI ZStack",
-      "https://fatbobman.com/en/posts/exploring-the-secrets-of-layoutpriority-in-zstack/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-07-19, 23:35:08",
-      "https://lobste.rs/s/jtd0b1/giving_up_on_element_matrix_org"
-    ],
-    [
-      "Giving Up on Element & Matrix.org",
-      "https://xn--gckvb8fzb.com/giving-up-on-element-and-matrixorg/"
-    ]
-  ],
-  [
-    [
       "2025-07-19, 22:50:40",
       "https://lobste.rs/s/z2ehwo/borrowchecker_is_what_i_like_least_about"
     ],
@@ -237,16 +247,6 @@
     [
       "Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA",
       "https://hamy.xyz/blog/2024-02_htmx-for-side-projects"
-    ]
-  ],
-  [
-    [
-      "2025-07-19, 11:03:00",
-      "https://lobste.rs/s/cwmt11/do_you_understand_f_strings"
-    ],
-    [
-      "Do you understand f-strings?",
-      "https://fstrings.wtf/"
     ]
   ]
 ]
