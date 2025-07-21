@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-21, 16:58:35](https://lobste.rs/s/s6qbyt/file_pilot_inside_engine) - [File Pilot: Inside the Engine](https://www.youtube.com/watch?v=bUOOaXf9qIM)
+* [2025-07-21, 16:54:38](https://lobste.rs/s/4ufubc/reverse_engineering_mysterious_up_data) - [Reverse engineering the mysterious Up-Data Link Test Set from Apollo](https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html)
 * [2025-07-21, 15:48:48](https://lobste.rs/s/sdpydb/connmap_x11_desktop_widget_shows) - [connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time](https://github.com/h2337/connmap)
 * [2025-07-21, 15:48:30](https://lobste.rs/s/nfbjbr/ll_lr_parsing_demystified_2013) - [LL and LR Parsing Demystified (2013)](https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html)
 * [2025-07-21, 14:31:34](https://lobste.rs/s/svrctd/rickrolling_turso_db_sqlite_rewrite_rust) - [Rickrolling Turso DB (SQLite rewrite in Rust)](https://avi.im/blag/2025/rickrolling-turso/)
@@ -23,8 +25,6 @@
 * [2025-07-20, 14:04:12](https://lobste.rs/s/7ykaux/introducing_xmlui) - [Introducing XMLUI](https://blog.jonudell.net/2025/07/18/introducing-xmlui/)
 * [2025-07-20, 12:22:09](https://lobste.rs/s/6ifojq/coding_with_llms_summer_2025_update) - [Coding with LLMs in the summer of 2025 (an update)](https://antirez.com/news/154)
 * [2025-07-20, 09:40:45](https://lobste.rs/s/szcq9k/async_i_o_on_linux_durability) - [Async I/O on Linux and durability](https://blog.canoozie.net/async-i-o-on-linux-and-durability/)
-* [2025-07-19, 22:50:40](https://lobste.rs/s/z2ehwo/borrowchecker_is_what_i_like_least_about) - [The borrowchecker is what I like the least about Rust](https://viralinstruction.com/posts/borrowchecker/)
-* [2025-07-19, 22:11:12](https://lobste.rs/s/pv4vxu/why_you_should_choose_htmx_for_your_next) - [Why you should choose HTMX for your next web-based side project - and ditch the crufty MPA and complex SPA](https://hamy.xyz/blog/2024-02_htmx-for-side-projects)
 
 ## [Archives](archives/index.md)
 

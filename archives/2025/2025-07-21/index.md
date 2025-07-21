@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-21](index.md)
 
+* [2025-07-21, 16:58:35](https://lobste.rs/s/s6qbyt/file_pilot_inside_engine) - [File Pilot: Inside the Engine](https://www.youtube.com/watch?v=bUOOaXf9qIM)
+* [2025-07-21, 16:54:38](https://lobste.rs/s/4ufubc/reverse_engineering_mysterious_up_data) - [Reverse engineering the mysterious Up-Data Link Test Set from Apollo](https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html)
 * [2025-07-21, 15:48:48](https://lobste.rs/s/sdpydb/connmap_x11_desktop_widget_shows) - [connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time](https://github.com/h2337/connmap)
 * [2025-07-21, 15:48:30](https://lobste.rs/s/nfbjbr/ll_lr_parsing_demystified_2013) - [LL and LR Parsing Demystified (2013)](https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html)
 * [2025-07-21, 14:31:34](https://lobste.rs/s/svrctd/rickrolling_turso_db_sqlite_rewrite_rust) - [Rickrolling Turso DB (SQLite rewrite in Rust)](https://avi.im/blag/2025/rickrolling-turso/)
