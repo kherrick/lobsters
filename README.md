@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-21, 10:54:14](https://lobste.rs/s/uhfp4g/perfect_is_enemy_good_wikipedia) - [Perfect is the enemy of good - Wikipedia](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 * [2025-07-21, 10:03:07](https://lobste.rs/s/hxgrd2/safe_cell_field_projection_rust_2020) - [Safe Cell field projection in Rust (2020)](https://www.abubalay.com/blog/2020/01/05/cell-field-projection)
 * [2025-07-21, 08:14:44](https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data) - [How do you bundle application data in different languages?](https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data)
 * [2025-07-21, 06:14:13](https://lobste.rs/s/w2prn3/why_some_satellites_use_netbsd) - [Why Some Satellites Use NetBSD?](https://machaddr.substack.com/p/why-some-satellites-use-netbsd)
 * [2025-07-21, 03:38:31](https://lobste.rs/s/zqttvz/esp32_faikin_esp32_based_module_control) - [ESP32-Faikin: ESP32 based module to control Daikin aircon units](https://github.com/revk/ESP32-Faikin)
 * [2025-07-21, 01:40:05](https://lobste.rs/s/25zyzd/tools_trade) - [Tools of the Trade](https://www.youtube.com/watch?v=YNtoDGS4uak)
-* [2025-07-21, 00:59:34](https://lobste.rs/s/bd2ssn/is_there_any_good_onboarding_saas_tool_for) - [Is there any good onboarding SaaS tool for iOS apps?](https://lobste.rs/s/bd2ssn/is_there_any_good_onboarding_saas_tool_for)
 * [2025-07-20, 23:37:07](https://lobste.rs/s/upfxm3/bad_apple_cd_g_on_karaoke_machine) - [Bad Apple!! CD+G on a karaoke machine](https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html)
 * [2025-07-20, 23:32:43](https://lobste.rs/s/tpmdss/why_lexing_parsing_should_be_separate) - [Why Lexing and Parsing Should Be Separate](https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate)
 * [2025-07-20, 23:15:11](https://lobste.rs/s/yhhecn/type_level_programming_for_safer) - [Type-level programming for safer resource management](https://frasertweedale.github.io/blog-fp/posts/2025-07-19-type-nats-and-constraints.html)
