@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-22, 06:23:25",
-      "https://lobste.rs/s/nfqut5/semi_automated_assembly_verification"
+      "2025-07-22, 10:16:55",
+      "https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol"
     ],
     [
-      "Semi-Automated Assembly Verification in Python using pypcode Semantics",
-      "https://www.philipzucker.com/assembly_verify/"
+      "A Self-hosted, BSD-native Gemini Protocol Server Stack – The BSD Cafe Journal",
+      "https://journal.bsd.cafe/2025/07/22/a-self-hosted-bsd-native-gemini-protocol-server-stack/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 10:05:16",
+      "https://lobste.rs/s/2m8sl6/foreword_for_fuzz_testing_book"
+    ],
+    [
+      "Foreword for Fuzz Testing Book",
+      "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Jujutsu For Busy Devs",
       "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 23:39:56",
-      "https://lobste.rs/s/yicxrs/reckless_introduction_hindley_milner"
-    ],
-    [
-      "A reckless introduction to Hindley-Milner type inference",
-      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
     ]
   ],
   [
