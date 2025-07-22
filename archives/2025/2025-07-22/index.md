@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 22:22:15](https://lobste.rs/s/itpokq/python_3_14_release_candidate_1_is_go) - [Python 3.14 release candidate 1 is go](https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html)
 * [2025-07-22, 20:50:25](https://lobste.rs/s/rwl6s2/kelp_ui_library_for_people_who_love_html) - [Kelp: A UI library for people who love HTML, powered by modern CSS and Web Components](https://kelpui.com/)
 * [2025-07-22, 19:56:26](https://lobste.rs/s/xfppsr/nvidia_announced_this_week_they_are) - [NVIDIA announced this week that they are bringing their CUDA software to RISC-V processors](https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V)
 * [2025-07-22, 19:49:56](https://lobste.rs/s/qvdmm8/approximate_first_principal_component) - [Approximate first principal component](https://30fps.net/pages/approximate-first-pc/)
