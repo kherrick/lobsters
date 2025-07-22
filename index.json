@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-07-22, 10:33:16",
-      "https://lobste.rs/s/5fat5j/openai_hallucinates_silences_as_meaning"
-    ],
-    [
-      "OpenAI hallucinates silences as \"ترجمة نانسي قنقر\", meaning \"Translation by Nancy Qunqar\"",
-      "https://news.ycombinator.com/item?id=44643564"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 10:16:55",
       "https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol"
     ],
@@ -207,6 +197,16 @@
     [
       "connmap: X11 desktop widget that shows location of your current network peers on a world map in real-time",
       "https://github.com/h2337/connmap"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 14:31:34",
+      "https://lobste.rs/s/svrctd/rickrolling_turso_db_sqlite_rewrite_rust"
+    ],
+    [
+      "Rickrolling Turso DB (SQLite rewrite in Rust)",
+      "https://avi.im/blag/2025/rickrolling-turso/"
     ]
   ],
   [
