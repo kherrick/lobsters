@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 13:40:34](https://lobste.rs/s/j1hijj/todos_aren_t_for_doing) - [TODOs aren’t for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
+* [2025-07-22, 13:36:20](https://lobste.rs/s/d5ugox/detecting_organic_contaminants_with) - [Detecting Organic Contaminants With Less Data](https://mirawelner.com/posts/spectroscopy.html)
+* [2025-07-22, 13:34:49](https://lobste.rs/s/tbyuze/fedora_must_carefully_embrace_flathub) - [Fedora Must (Carefully) Embrace Flathub](https://blogs.gnome.org/mcatanzaro/2025/07/21/fedora-must-carefully-embrace-flathub/)
+* [2025-07-22, 10:52:24](https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack_2019) - [Anatomy of a SYN-ACK attack (2019)](https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack)
 * [2025-07-22, 10:52:24](https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack) - [Anatomy of a SYN-ACK attack](https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack)
 * [2025-07-22, 10:50:17](https://lobste.rs/s/0ab7g3/comparing_glove80_maltron_keyboards) - [Comparing the Glove80 and Maltron keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
 * [2025-07-22, 10:33:16](https://lobste.rs/s/5fat5j/openai_hallucinates_silences_as_meaning) - [OpenAI hallucinates silences as \"ترجمة نانسي قنقر\", meaning \"Translation by Nancy Qunqar\"](https://news.ycombinator.com/item?id=44643564)
