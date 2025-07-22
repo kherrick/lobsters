@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-22, 19:49:56",
-      "https://lobste.rs/s/qvdmm8/approximate_first_principal_component"
+      "2025-07-22, 19:56:26",
+      "https://lobste.rs/s/xfppsr/nvidia_announced_this_week_they_are"
     ],
     [
-      "Approximate first principal component",
-      "https://30fps.net/pages/approximate-first-pc/"
+      "NVIDIA announced this week that they are bringing their CUDA software to RISC-V processors",
+      "https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Monads as Graphs (2019)",
       "http://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 18:56:31",
+      "https://lobste.rs/s/6feg1a/introducing_swift_erlang_actor_system"
+    ],
+    [
+      "Introducing swift-erlang-actor-system",
+      "https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Working on a Programming Language in the Age of LLMs",
       "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 18:09:56",
-      "https://lobste.rs/s/1ylyds/pogocache_fast_caching_software"
-    ],
-    [
-      "Pogocache - Fast caching software",
-      "https://github.com/tidwall/pogocache"
     ]
   ],
   [
