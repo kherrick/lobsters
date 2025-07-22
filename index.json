@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-21, 23:41:28",
+      "https://lobste.rs/s/j5ahk8/jujutsu_for_busy_devs"
+    ],
+    [
+      "Jujutsu For Busy Devs",
+      "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 23:39:56",
+      "https://lobste.rs/s/yicxrs/reckless_introduction_hindley_milner"
+    ],
+    [
+      "A reckless introduction to Hindley-Milner type inference",
+      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 22:52:49",
       "https://lobste.rs/s/mzrah6/rfc_865_quote_day_protocol"
     ],
@@ -55,7 +75,7 @@
       "https://lobste.rs/s/6uj96z/automating_away_claude_s_bad_habits_with"
     ],
     [
-      "Automating Away Claude's Bad Habits with Hooks | Write-Ahead (b)Log",
+      "Automating Away Claude's Bad Habits with Hooks",
       "https://writeaheadblogg.ing/posts/claude-hooks-auto-fix-trailing-whitespace/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "File Pilot: Inside the Engine",
       "https://www.youtube.com/watch?v=bUOOaXf9qIM"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 16:54:38",
-      "https://lobste.rs/s/4ufubc/reverse_engineering_mysterious_up_data"
-    ],
-    [
-      "Reverse engineering the mysterious Up-Data Link Test Set from Apollo",
-      "https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Dissertation Typesetting Considerations",
       "https://tony-zorman.com/posts/phd-typesetting.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 12:03:27",
-      "https://lobste.rs/s/pr5jaq/transformer_explainer_llm_transformer"
-    ],
-    [
-      "Transformer Explainer: LLM Transformer Model Visually Explained",
-      "https://poloclub.github.io/transformer-explainer/"
     ]
   ],
   [
