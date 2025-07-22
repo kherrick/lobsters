@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-07-22, 06:23:25",
+      "https://lobste.rs/s/nfqut5/semi_automated_assembly_verification"
+    ],
+    [
+      "Semi-Automated Assembly Verification in Python using pypcode Semantics",
+      "https://www.philipzucker.com/assembly_verify/"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 04:27:28",
       "https://lobste.rs/s/r79s3w/devenv_1_8_progress_tui_secretspec"
     ],
@@ -67,6 +77,16 @@
     [
       "Jujutsu For Busy Devs",
       "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
+    ]
+  ],
+  [
+    [
+      "2025-07-21, 23:39:56",
+      "https://lobste.rs/s/yicxrs/reckless_introduction_hindley_milner"
+    ],
+    [
+      "A reckless introduction to Hindley-Milner type inference",
+      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "Fuzzing the Kotlin Compiler",
       "https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 19:47:51",
-      "https://lobste.rs/s/ddklvz/cppq_simple_reliable_efficient"
-    ],
-    [
-      "cppq: Simple, reliable & efficient distributed task queues for C++17",
-      "https://github.com/h2337/cppq"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why Lexing and Parsing Should Be Separate",
       "https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate"
-    ]
-  ],
-  [
-    [
-      "2025-07-20, 17:00:46",
-      "https://lobste.rs/s/ihmxdn/they_re_putting_blue_food_coloring"
-    ],
-    [
-      "They're putting blue food coloring in everything",
-      "https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/"
     ]
   ]
 ]
