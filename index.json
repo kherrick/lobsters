@@ -1,11 +1,41 @@
 [
   [
     [
-      "2025-07-22, 10:52:24",
-      "https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack"
+      "2025-07-22, 13:40:34",
+      "https://lobste.rs/s/j1hijj/todos_aren_t_for_doing"
     ],
     [
-      "Anatomy of a SYN-ACK attack",
+      "TODOs aren’t for doing",
+      "https://sophiebits.com/2025/07/21/todos-arent-for-doing"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 13:36:20",
+      "https://lobste.rs/s/d5ugox/detecting_organic_contaminants_with"
+    ],
+    [
+      "Detecting Organic Contaminants With Less Data",
+      "https://mirawelner.com/posts/spectroscopy.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 13:34:49",
+      "https://lobste.rs/s/tbyuze/fedora_must_carefully_embrace_flathub"
+    ],
+    [
+      "Fedora Must (Carefully) Embrace Flathub",
+      "https://blogs.gnome.org/mcatanzaro/2025/07/21/fedora-must-carefully-embrace-flathub/"
+    ]
+  ],
+  [
+    [
+      "2025-07-22, 10:52:24",
+      "https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack_2019"
+    ],
+    [
+      "Anatomy of a SYN-ACK attack (2019)",
       "https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack"
     ]
   ],
@@ -35,7 +65,7 @@
       "https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol"
     ],
     [
-      "A Self-hosted, BSD-native Gemini Protocol Server Stack – The BSD Cafe Journal",
+      "A Self-hosted, BSD-native Gemini Protocol Server Stack",
       "https://journal.bsd.cafe/2025/07/22/a-self-hosted-bsd-native-gemini-protocol-server-stack/"
     ]
   ],
@@ -77,16 +107,6 @@
     [
       "Jujutsu For Busy Devs",
       "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 23:39:56",
-      "https://lobste.rs/s/yicxrs/reckless_introduction_hindley_milner"
-    ],
-    [
-      "A reckless introduction to Hindley-Milner type inference",
-      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-07-21, 15:48:30",
-      "https://lobste.rs/s/nfbjbr/ll_lr_parsing_demystified_2013"
-    ],
-    [
-      "LL and LR Parsing Demystified (2013)",
-      "https://blog.reverberate.org/2013/07/ll-and-lr-parsing-demystified.html"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 14:31:34",
       "https://lobste.rs/s/svrctd/rickrolling_turso_db_sqlite_rewrite_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "Dissertation Typesetting Considerations",
       "https://tony-zorman.com/posts/phd-typesetting.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 11:11:27",
-      "https://lobste.rs/s/xeqwij/gren_25s_easier_interop_concurrent_tasks"
-    ],
-    [
-      "Gren 25S: Easier interop, concurrent tasks and zero-install packages",
-      "https://gren-lang.org/news/250721_gren_25s/"
     ]
   ],
   [
