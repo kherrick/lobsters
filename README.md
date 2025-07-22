@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-22, 05:41:53](https://lobste.rs/s/sas2kh/parser_interpreter_for_very_small) - [A parser and interpreter for a very small language](https://blog.ploeh.dk/2025/07/07/a-parser-and-interpreter-for-a-very-small-language/)
+* [2025-07-22, 06:23:25](https://lobste.rs/s/nfqut5/semi_automated_assembly_verification) - [Semi-Automated Assembly Verification in Python using pypcode Semantics](https://www.philipzucker.com/assembly_verify/)
+* [2025-07-22, 04:27:28](https://lobste.rs/s/r79s3w/devenv_1_8_progress_tui_secretspec) - [devenv 1.8: Progress TUI, SecretSpec Integration, Listing Tasks, and Smaller Containers](https://devenv.sh/blog/2025/07/22/devenv-18-progress-tui-secretspec-integration-listing-tasks-and-smaller-containers)
 * [2025-07-21, 23:41:28](https://lobste.rs/s/j5ahk8/jujutsu_for_busy_devs) - [Jujutsu For Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
 * [2025-07-21, 23:39:56](https://lobste.rs/s/yicxrs/reckless_introduction_hindley_milner) - [A reckless introduction to Hindley-Milner type inference](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2025-07-21, 22:52:49](https://lobste.rs/s/mzrah6/rfc_865_quote_day_protocol) - [RFC 865: Quote of the Day Protocol](https://datatracker.ietf.org/doc/html/rfc865)
@@ -21,7 +22,6 @@
 * [2025-07-21, 11:11:27](https://lobste.rs/s/xeqwij/gren_25s_easier_interop_concurrent_tasks) - [Gren 25S: Easier interop, concurrent tasks and zero-install packages](https://gren-lang.org/news/250721_gren_25s/)
 * [2025-07-21, 10:03:07](https://lobste.rs/s/hxgrd2/safe_cell_field_projection_rust_2020) - [Safe Cell field projection in Rust (2020)](https://www.abubalay.com/blog/2020/01/05/cell-field-projection)
 * [2025-07-21, 08:14:44](https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data) - [How do you bundle application data in different languages?](https://lobste.rs/s/dvzkbd/how_do_you_bundle_application_data)
-* [2025-07-20, 23:37:07](https://lobste.rs/s/upfxm3/bad_apple_cd_g_on_karaoke_machine) - [Bad Apple!! CD+G on a karaoke machine](https://gashlin.net/blog/pages/2025-07-19-bad-apple-cdg.html)
 * [2025-07-20, 23:32:43](https://lobste.rs/s/tpmdss/why_lexing_parsing_should_be_separate) - [Why Lexing and Parsing Should Be Separate](https://github.com/oils-for-unix/oils/wiki/Why-Lexing-and-Parsing-Should-Be-Separate)
 * [2025-07-20, 17:00:46](https://lobste.rs/s/ihmxdn/they_re_putting_blue_food_coloring) - [They're putting blue food coloring in everything](https://blog.foxtrotluna.social/theyre-putting-blue-food-coloring-in-everything/)
 * [2025-07-20, 12:22:09](https://lobste.rs/s/6ifojq/coding_with_llms_summer_2025_update) - [Coding with LLMs in the summer of 2025 (an update)](https://antirez.com/news/154)
