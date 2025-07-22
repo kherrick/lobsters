@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-22, 16:37:44",
+      "https://lobste.rs/s/kykhhj/trust_deterministic_execution_scale"
+    ],
+    [
+      "Trust Deterministic Execution to Scale & Simplify Your Systems",
+      "https://www.youtube.com/watch?v=siEtKc6Sq2Y"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 14:02:48",
       "https://lobste.rs/s/iodpgb/library_babel"
     ],
@@ -87,16 +97,6 @@
     [
       "Foreword for Fuzz Testing Book",
       "https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 06:23:25",
-      "https://lobste.rs/s/nfqut5/semi_automated_assembly_verification"
-    ],
-    [
-      "Semi-Automated Assembly Verification in Python using pypcode Semantics",
-      "https://www.philipzucker.com/assembly_verify/"
     ]
   ],
   [
