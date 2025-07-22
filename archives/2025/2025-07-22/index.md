@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 10:52:24](https://lobste.rs/s/pb6ghy/anatomy_syn_ack_attack) - [Anatomy of a SYN-ACK attack](https://www.akamai.com/blog/security/anatomy-of-a-syn-ack-attack)
+* [2025-07-22, 10:50:17](https://lobste.rs/s/0ab7g3/comparing_glove80_maltron_keyboards) - [Comparing the Glove80 and Maltron keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
 * [2025-07-22, 10:33:16](https://lobste.rs/s/5fat5j/openai_hallucinates_silences_as_meaning) - [OpenAI hallucinates silences as \"ترجمة نانسي قنقر\", meaning \"Translation by Nancy Qunqar\"](https://news.ycombinator.com/item?id=44643564)
 * [2025-07-22, 10:16:55](https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol) - [A Self-hosted, BSD-native Gemini Protocol Server Stack – The BSD Cafe Journal](https://journal.bsd.cafe/2025/07/22/a-self-hosted-bsd-native-gemini-protocol-server-stack/)
 * [2025-07-22, 10:05:16](https://lobste.rs/s/2m8sl6/foreword_for_fuzz_testing_book) - [Foreword for Fuzz Testing Book](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
