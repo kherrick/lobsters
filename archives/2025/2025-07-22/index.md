@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-22](index.md)
 
+* [2025-07-22, 18:12:55](https://lobste.rs/s/m7oa87/p_verified) - [P Verified](https://b-hilprecht.github.io/2025/07/10/p-verified-log-1-the-need-for-verification.html)
+* [2025-07-22, 18:01:10](https://lobste.rs/s/mmdeza/asymmetry_verification_verifier_s_law) - [Asymmetry of verification and verifier’s law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law)
 * [2025-07-22, 16:50:09](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds) - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
 * [2025-07-22, 16:37:44](https://lobste.rs/s/kykhhj/trust_deterministic_execution_scale) - [Trust Deterministic Execution to Scale & Simplify Your Systems](https://www.youtube.com/watch?v=siEtKc6Sq2Y)
 * [2025-07-22, 14:02:48](https://lobste.rs/s/iodpgb/library_babel) - [Library of Babel](https://libraryofbabel.app/about)
