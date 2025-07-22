@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-22, 14:02:48",
+      "https://lobste.rs/s/iodpgb/library_babel"
+    ],
+    [
+      "Library of Babel",
+      "https://libraryofbabel.app/about"
+    ]
+  ],
+  [
+    [
       "2025-07-22, 13:40:34",
       "https://lobste.rs/s/j1hijj/todos_aren_t_for_doing"
     ],
@@ -167,16 +177,6 @@
     [
       "Automating Away Claude's Bad Habits with Hooks",
       "https://writeaheadblogg.ing/posts/claude-hooks-auto-fix-trailing-whitespace/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 19:48:42",
-      "https://lobste.rs/s/lgcpmp/fuzzing_kotlin_compiler"
-    ],
-    [
-      "Fuzzing the Kotlin Compiler",
-      "https://blog.jetbrains.com/research/2025/07/fuzzing-the-kotlin-compiler/"
     ]
   ],
   [
