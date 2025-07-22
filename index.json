@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-22, 05:41:53",
+      "https://lobste.rs/s/sas2kh/parser_interpreter_for_very_small"
+    ],
+    [
+      "A parser and interpreter for a very small language",
+      "https://blog.ploeh.dk/2025/07/07/a-parser-and-interpreter-for-a-very-small-language/"
+    ]
+  ],
+  [
+    [
       "2025-07-21, 23:41:28",
       "https://lobste.rs/s/j5ahk8/jujutsu_for_busy_devs"
     ],
@@ -107,16 +117,6 @@
     [
       "Pogocache - Fast caching software",
       "https://github.com/tidwall/pogocache"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 16:58:35",
-      "https://lobste.rs/s/s6qbyt/file_pilot_inside_engine"
-    ],
-    [
-      "File Pilot: Inside the Engine",
-      "https://www.youtube.com/watch?v=bUOOaXf9qIM"
     ]
   ],
   [
