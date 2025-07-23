@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-23, 09:00:29](https://lobste.rs/s/9tmoou/what_expect_from_debian_trixie) - [What to expect from Debian/trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
-* [2025-07-23, 08:36:33](https://lobste.rs/s/v1i4i3/revere_proxy_deep_dive) - [Revere proxy deep dive](https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html)
+* [2025-07-23, 08:36:33](https://lobste.rs/s/v1i4i3/reverse_proxy_deep_dive) - [Reverse proxy deep dive](https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html)
 * [2025-07-23, 08:35:57](https://lobste.rs/s/z7l40q/reverse_proxy_deep_dive_part_2_why_http) - [Reverse Proxy Deep Dive Part 2: Why HTTP Parsing at the Edge Is Harder Than It Looks](https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html)
 * [2025-07-23, 07:46:12](https://lobste.rs/s/zvmpbq/fun_with_gzip_bombs_email_clients) - [Fun with Gzip Bombs and Email Clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
 * [2025-07-23, 07:46:00](https://lobste.rs/s/iasb9a/display_next_hackfest_2025) - [Display Next Hackfest 2025](https://zamundaaa.github.io/wayland/2025/07/22/display-next-hackfest-2025.html)
