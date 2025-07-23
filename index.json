@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-07-23, 14:01:50",
-      "https://lobste.rs/s/2i7to2/npm_accidentally_removes_stylus_package"
+      "2025-07-23, 14:35:04",
+      "https://lobste.rs/s/w2l7hb/migrating_zfs_pool_from_raidz1_raidz2"
     ],
     [
-      "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
-      "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/"
+      "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
+      "https://mtlynch.io/raidz1-to-raidz2/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 14:31:47",
+      "https://lobste.rs/s/uemodw/using_radicle_ci_for_development"
+    ],
+    [
+      "Using Radicle CI for Development",
+      "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Jujutsu For Busy Devs",
       "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 21:10:55",
-      "https://lobste.rs/s/obhc4f/working_on_programming_language_age_llms"
-    ],
-    [
-      "Working on a Programming Language in the Age of LLMs",
-      "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
     ]
   ]
 ]
