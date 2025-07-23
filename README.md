@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-23, 16:19:05](https://lobste.rs/s/lzfgwb/superfunctions_solve_color_problem) - [Superfunctions: solve the \"color\" problem of Python](https://github.com/pomponchik/transfunctions)
 * [2025-07-23, 14:35:04](https://lobste.rs/s/w2l7hb/migrating_zfs_pool_from_raidz1_raidz2) - [Migrating a ZFS pool from RAIDZ1 to RAIDZ2](https://mtlynch.io/raidz1-to-raidz2/)
 * [2025-07-23, 13:58:17](https://lobste.rs/s/hkfcaa/obsolescence_guaranteed) - [Obsolescence Guaranteed](https://obsolescence.dev/obsolescence-newsletter-jul-2025.html)
 * [2025-07-23, 13:06:54](https://lobste.rs/s/5hr5yn/computational_tyranny) - [Computational Tyranny](https://happyfellow.bearblog.dev/computational-tyranny/)
@@ -18,7 +19,6 @@
 * [2025-07-22, 20:50:25](https://lobste.rs/s/rwl6s2/kelp_ui_library_for_people_who_love_html) - [Kelp: A UI library for people who love HTML, powered by modern CSS and Web Components](https://kelpui.com/)
 * [2025-07-22, 19:14:59](https://lobste.rs/s/3eonsv/more_than_you_wanted_know_about_how_game) - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 * [2025-07-22, 19:07:34](https://lobste.rs/s/91ukor/monads_as_graphs_2019) - [Monads as Graphs (2019)](http://neilmitchell.blogspot.com/2019/10/monads-as-graphs.html)
-* [2025-07-22, 18:56:31](https://lobste.rs/s/6feg1a/introducing_swift_erlang_actor_system) - [Introducing swift-erlang-actor-system](https://forums.swift.org/t/introducing-swift-erlang-actor-system/81248)
 * [2025-07-22, 16:50:09](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds) - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
 * [2025-07-22, 14:02:48](https://lobste.rs/s/iodpgb/library_babel) - [Library of Babel](https://libraryofbabel.app/about)
 * [2025-07-22, 13:40:34](https://lobste.rs/s/j1hijj/todos_aren_t_for_doing) - [TODOs aren’t for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
