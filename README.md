@@ -6,7 +6,7 @@
 * [2025-07-23, 16:14:40](https://lobste.rs/s/x6qsw2/how_we_discovered_recovered_from) - [How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver](https://matrix.org/blog/2025/07/postgres-corruption-postmortem/)
 * [2025-07-23, 14:35:04](https://lobste.rs/s/w2l7hb/migrating_zfs_pool_from_raidz1_raidz2) - [Migrating a ZFS pool from RAIDZ1 to RAIDZ2](https://mtlynch.io/raidz1-to-raidz2/)
 * [2025-07-23, 14:31:47](https://lobste.rs/s/uemodw/using_radicle_ci_for_development) - [Using Radicle CI for Development](https://radicle.xyz/2025/07/23/using-radicle-ci-for-development)
-* [2025-07-23, 13:58:17](https://lobste.rs/s/hkfcaa/obsolescence_guaranteed) - [Obsolescence Guaranteed](https://obsolescence.dev/obsolescence-newsletter-jul-2025.html)
+* [2025-07-23, 14:01:50](https://lobste.rs/s/2i7to2/npm_accidentally_removes_stylus_package) - [NPM 'accidentally' removes Stylus package, breaks builds and pipelines](https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/)
 * [2025-07-23, 13:06:54](https://lobste.rs/s/5hr5yn/computational_tyranny) - [Computational Tyranny](https://happyfellow.bearblog.dev/computational-tyranny/)
 * [2025-07-23, 13:00:55](https://lobste.rs/s/c53kzb/20_years_linux_on_desktop_part_4) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
 * [2025-07-23, 12:24:54](https://lobste.rs/s/dtmziw/trackweight_use_your_mac_trackpad_as) - [TrackWeight: Use your Mac trackpad as a weighing scale](https://github.com/KrishKrosh/TrackWeight)
