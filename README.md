@@ -2,6 +2,7 @@
 
 * [2025-07-23, 21:23:16](https://lobste.rs/s/fkukju/branch_coverage_won_t_prove_collatz) - [Branch Coverage Won't Prove The Collatz Conjecture](https://concerningquality.com/collatz-conjecture/)
 * [2025-07-23, 20:45:44](https://lobste.rs/s/ludz2l/implementing_dynamic_scope_for_fennel) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
+* [2025-07-23, 20:45:32](https://lobste.rs/s/yd7mzj/developing_our_position_on_ai) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
 * [2025-07-23, 18:21:29](https://lobste.rs/s/sk2yop/you_can_now_disable_all_ai_features_zed) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
 * [2025-07-23, 16:59:16](https://lobste.rs/s/qpakro/promised_lan) - [The Promised LAN](https://tpl.house/)
 * [2025-07-23, 16:19:05](https://lobste.rs/s/lzfgwb/superfunctions_solve_color_problem) - [Superfunctions: solve the \"color\" problem of Python](https://github.com/pomponchik/transfunctions)
@@ -23,7 +24,6 @@
 * [2025-07-22, 19:14:59](https://lobste.rs/s/3eonsv/more_than_you_wanted_know_about_how_game) - [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know/)
 * [2025-07-22, 16:50:09](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds) - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
 * [2025-07-22, 13:40:34](https://lobste.rs/s/j1hijj/todos_aren_t_for_doing) - [TODOs aren’t for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
-* [2025-07-22, 13:34:49](https://lobste.rs/s/tbyuze/fedora_must_carefully_embrace_flathub) - [Fedora Must (Carefully) Embrace Flathub](https://blogs.gnome.org/mcatanzaro/2025/07/21/fedora-must-carefully-embrace-flathub/)
 * [2025-07-22, 10:50:17](https://lobste.rs/s/0ab7g3/comparing_glove80_maltron_keyboards) - [Comparing the Glove80 and Maltron keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
 
 ## [Archives](archives/index.md)
