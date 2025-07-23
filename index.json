@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-23, 11:32:31",
+      "https://lobste.rs/s/ixfukh/font_size_adjust_is_useful"
+    ],
+    [
+      "font-size-adjust Is Useful",
+      "https://matklad.github.io/2025/07/16/font-size-adjust.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 11:19:26",
+      "https://lobste.rs/s/lsww5q/building_systems_simply"
+    ],
+    [
+      "Building Systems, Simply",
+      "https://www.youtube.com/watch?v=jVC4DP-8xLM"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 10:19:00",
       "https://lobste.rs/s/25kvql/what_is_x_forwarded_for_when_can_you_trust"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-07-22, 19:56:26",
-      "https://lobste.rs/s/xfppsr/nvidia_announced_this_week_they_are"
-    ],
-    [
-      "NVIDIA announced this week that they are bringing their CUDA software to RISC-V processors",
-      "https://www.phoronix.com/news/NVIDIA-CUDA-Coming-To-RISC-V"
-    ]
-  ],
-  [
-    [
       "2025-07-22, 19:14:59",
       "https://lobste.rs/s/3eonsv/more_than_you_wanted_know_about_how_game"
     ],
@@ -237,16 +247,6 @@
     [
       "Working on a Programming Language in the Age of LLMs",
       "https://ryelang.org/blog/posts/programming-language-in-age-of-llms/"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 12:13:19",
-      "https://lobste.rs/s/adii2s/dissertation_typesetting"
-    ],
-    [
-      "Dissertation Typesetting Considerations",
-      "https://tony-zorman.com/posts/phd-typesetting.html"
     ]
   ]
 ]
