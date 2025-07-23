@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-23, 08:36:33](https://lobste.rs/s/v1i4i3/revere_proxy_deep_dive) - [Revere proxy deep dive](https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html)
+* [2025-07-23, 08:35:57](https://lobste.rs/s/z7l40q/reverse_proxy_deep_dive_part_2_why_http) - [Reverse Proxy Deep Dive Part 2: Why HTTP Parsing at the Edge Is Harder Than It Looks](https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html)
 * [2025-07-23, 07:46:12](https://lobste.rs/s/zvmpbq/fun_with_gzip_bombs_email_clients) - [Fun with Gzip Bombs and Email Clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
 * [2025-07-23, 07:46:00](https://lobste.rs/s/iasb9a/display_next_hackfest_2025) - [Display Next Hackfest 2025](https://zamundaaa.github.io/wayland/2025/07/22/display-next-hackfest-2025.html)
 * [2025-07-23, 05:52:14](https://lobste.rs/s/wghfos/extending_emacs_with_fennel) - [Extending Emacs with Fennel](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
@@ -19,9 +21,7 @@
 * [2025-07-22, 13:36:20](https://lobste.rs/s/d5ugox/detecting_organic_contaminants_with) - [Detecting Organic Contaminants With Less Data](https://mirawelner.com/posts/spectroscopy.html)
 * [2025-07-22, 13:34:49](https://lobste.rs/s/tbyuze/fedora_must_carefully_embrace_flathub) - [Fedora Must (Carefully) Embrace Flathub](https://blogs.gnome.org/mcatanzaro/2025/07/21/fedora-must-carefully-embrace-flathub/)
 * [2025-07-22, 10:50:17](https://lobste.rs/s/0ab7g3/comparing_glove80_maltron_keyboards) - [Comparing the Glove80 and Maltron keyboards](https://tratt.net/laurie/blog/2025/comparing_the_glove80_and_maltron_keyboards.html)
-* [2025-07-22, 10:16:55](https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol) - [A Self-hosted, BSD-native Gemini Protocol Server Stack](https://journal.bsd.cafe/2025/07/22/a-self-hosted-bsd-native-gemini-protocol-server-stack/)
 * [2025-07-21, 23:41:28](https://lobste.rs/s/j5ahk8/jujutsu_for_busy_devs) - [Jujutsu For Busy Devs](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs)
-* [2025-07-21, 21:49:28](https://lobste.rs/s/h8bfgy/sapling) - [Sapling](https://sapling-scm.com/)
 * [2025-07-21, 21:16:10](https://lobste.rs/s/cvhdvw/garbage_collection_for_systems) - [Garbage Collection for Systems Programmers (2023)](https://bitbashing.io/gc-for-systems-programmers.html)
 * [2025-07-21, 21:10:55](https://lobste.rs/s/obhc4f/working_on_programming_language_age_llms) - [Working on a Programming Language in the Age of LLMs](https://ryelang.org/blog/posts/programming-language-in-age-of-llms/)
 * [2025-07-21, 12:13:19](https://lobste.rs/s/adii2s/dissertation_typesetting) - [Dissertation Typesetting Considerations](https://tony-zorman.com/posts/phd-typesetting.html)
