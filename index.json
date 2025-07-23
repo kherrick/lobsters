@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-23, 14:01:50",
+      "https://lobste.rs/s/2i7to2/npm_accidentally_removes_stylus_package"
+    ],
+    [
+      "NPM 'accidentally' removes Stylus package, breaks builds and pipelines",
+      "https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 13:58:17",
+      "https://lobste.rs/s/hkfcaa/obsolescence_guaranteed"
+    ],
+    [
+      "Obsolescence Guaranteed",
+      "https://obsolescence.dev/obsolescence-newsletter-jul-2025.html"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 13:00:55",
       "https://lobste.rs/s/c53kzb/20_years_linux_on_desktop_part_4"
     ],
@@ -57,26 +77,6 @@
     [
       "What to expect from Debian/trixie",
       "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 08:36:33",
-      "https://lobste.rs/s/v1i4i3/reverse_proxy_deep_dive"
-    ],
-    [
-      "Reverse proxy deep dive",
-      "https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 08:35:57",
-      "https://lobste.rs/s/z7l40q/reverse_proxy_deep_dive_part_2_why_http"
-    ],
-    [
-      "Reverse Proxy Deep Dive Part 2: Why HTTP Parsing at the Edge Is Harder Than It Looks",
-      "https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html"
     ]
   ],
   [
