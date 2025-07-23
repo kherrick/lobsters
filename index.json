@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-23, 08:36:33",
+      "https://lobste.rs/s/v1i4i3/revere_proxy_deep_dive"
+    ],
+    [
+      "Revere proxy deep dive",
+      "https://startwithawhy.com/reverseproxy/2024/01/15/ReverseProxy-Deep-Dive.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-23, 08:35:57",
+      "https://lobste.rs/s/z7l40q/reverse_proxy_deep_dive_part_2_why_http"
+    ],
+    [
+      "Reverse Proxy Deep Dive Part 2: Why HTTP Parsing at the Edge Is Harder Than It Looks",
+      "https://startwithawhy.com/reverseproxy/2025/07/20/ReverseProxy-Deep-Dive-Part2.html"
+    ]
+  ],
+  [
+    [
       "2025-07-23, 07:46:12",
       "https://lobste.rs/s/zvmpbq/fun_with_gzip_bombs_email_clients"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-07-22, 10:16:55",
-      "https://lobste.rs/s/lenqkc/self_hosted_bsd_native_gemini_protocol"
-    ],
-    [
-      "A Self-hosted, BSD-native Gemini Protocol Server Stack",
-      "https://journal.bsd.cafe/2025/07/22/a-self-hosted-bsd-native-gemini-protocol-server-stack/"
-    ]
-  ],
-  [
-    [
       "2025-07-21, 23:41:28",
       "https://lobste.rs/s/j5ahk8/jujutsu_for_busy_devs"
     ],
     [
       "Jujutsu For Busy Devs",
       "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs"
-    ]
-  ],
-  [
-    [
-      "2025-07-21, 21:49:28",
-      "https://lobste.rs/s/h8bfgy/sapling"
-    ],
-    [
-      "Sapling",
-      "https://sapling-scm.com/"
     ]
   ],
   [
