@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-24, 14:19:11](https://lobste.rs/s/cm9bb3/vector_tiles_are_deployed_on) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
 * [2025-07-24, 14:11:35](https://lobste.rs/s/41opbb/arch_linux_dev_blog) - [Arch Linux Dev Blog](https://devblog.archlinux.page/)
 * [2025-07-24, 13:14:09](https://lobste.rs/s/tao1sp/valid_html_zip_bomb) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
 * [2025-07-24, 12:16:28](https://lobste.rs/s/sf2q8y/wayback_0_1_released) - [Wayback 0.1 released](https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/)
@@ -20,7 +21,6 @@
 * [2025-07-23, 14:35:04](https://lobste.rs/s/w2l7hb/migrating_zfs_pool_from_raidz1_raidz2) - [Migrating a ZFS pool from RAIDZ1 to RAIDZ2](https://mtlynch.io/raidz1-to-raidz2/)
 * [2025-07-23, 13:06:54](https://lobste.rs/s/5hr5yn/computational_tyranny) - [Computational Tyranny](https://happyfellow.bearblog.dev/computational-tyranny/)
 * [2025-07-23, 13:00:55](https://lobste.rs/s/c53kzb/20_years_linux_on_desktop_part_4) - [20 years of Linux on the Desktop (part 4)](https://ploum.net/2025-07-23-linux_desktop4.html)
-* [2025-07-23, 12:24:54](https://lobste.rs/s/dtmziw/trackweight_use_your_mac_trackpad_as) - [TrackWeight: Use your Mac trackpad as a weighing scale](https://github.com/KrishKrosh/TrackWeight)
 * [2025-07-23, 11:32:31](https://lobste.rs/s/ixfukh/font_size_adjust_is_useful) - [font-size-adjust Is Useful](https://matklad.github.io/2025/07/16/font-size-adjust.html)
 * [2025-07-23, 09:00:29](https://lobste.rs/s/9tmoou/what_expect_from_debian_trixie) - [What to expect from Debian/trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
 * [2025-07-22, 22:22:15](https://lobste.rs/s/itpokq/python_3_14_release_candidate_1_is_go) - [Python 3.14 release candidate 1 is go](https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html)
