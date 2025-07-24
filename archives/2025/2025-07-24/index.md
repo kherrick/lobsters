@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 15:12:02](https://lobste.rs/s/qfvarg/ai_great_digital_agency_unbundling) - [AI and the great digital agency unbundling](https://dri.es/ai-and-the-great-digital-agency-unbundling)
 * [2025-07-24, 14:48:41](https://lobste.rs/s/b784dz/transformers_without_normalization) - [Transformers without Normalization](https://arxiv.org/pdf/2503.10622)
 * [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 * [2025-07-24, 14:19:11](https://lobste.rs/s/cm9bb3/vector_tiles_are_deployed_on) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)

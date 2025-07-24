@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-24, 15:12:02](https://lobste.rs/s/qfvarg/ai_great_digital_agency_unbundling) - [AI and the great digital agency unbundling](https://dri.es/ai-and-the-great-digital-agency-unbundling)
 * [2025-07-24, 14:48:41](https://lobste.rs/s/b784dz/transformers_without_normalization) - [Transformers without Normalization](https://arxiv.org/pdf/2503.10622)
 * [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 * [2025-07-24, 14:19:11](https://lobste.rs/s/cm9bb3/vector_tiles_are_deployed_on) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
@@ -9,7 +10,6 @@
 * [2025-07-24, 09:12:07](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools) - [How much do you spend on AI-assisted tools?](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools)
 * [2025-07-24, 06:23:36](https://lobste.rs/s/p1fztx/systemd_258_rc1_is_massive_feature) - [systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes](https://www.phoronix.com/news/systemd-258-rc1)
 * [2025-07-24, 06:04:03](https://lobste.rs/s/ucm2ip/jnj_j_janet) - [JNJ: J iN Janet](https://sr.ht/~subsetpark/JNJ/)
-* [2025-07-24, 00:57:51](https://lobste.rs/s/15hetb/custom_mechanical_keyboard_os_specific) - [Custom mechanical keyboard: OS-specific custom RGB lighting with QMK](https://quantum5.ca/2024/06/30/custom-mechanical-keyboard-os-specific-rgb-lighting-qmk/)
 * [2025-07-24, 00:51:11](https://lobste.rs/s/hip584/death_industrial_design_era_dull) - [The Death Of Industrial Design And The Era Of Dull Electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-07-23, 23:50:49](https://lobste.rs/s/fgo66i/kernel) - [Kernel](https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page)
 * [2025-07-23, 22:34:09](https://lobste.rs/s/xtmt3s/vintage_macintosh_programming_book) - [Vintage Macintosh Programming Book Library](https://vintageapple.org/macprogramming/index_year.html)
