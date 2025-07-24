@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 14:48:41](https://lobste.rs/s/b784dz/transformers_without_normalization) - [Transformers without Normalization](https://arxiv.org/pdf/2503.10622)
+* [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 * [2025-07-24, 14:19:11](https://lobste.rs/s/cm9bb3/vector_tiles_are_deployed_on) - [Vector Tiles are deployed on OpenStreetMap.org](https://blog.openstreetmap.org/2025/07/22/vector-tiles-are-deployed-on-openstreetmap-org/)
 * [2025-07-24, 14:11:35](https://lobste.rs/s/41opbb/arch_linux_dev_blog) - [Arch Linux Dev Blog](https://devblog.archlinux.page/)
 * [2025-07-24, 13:14:09](https://lobste.rs/s/tao1sp/valid_html_zip_bomb) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
