@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 18:46:53](https://lobste.rs/s/hvrsfx/fastlanes_file_format) - [The FastLanes File Format](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
 * [2025-07-24, 17:25:59](https://lobste.rs/s/ityek6/jitsi_privacy_flaw_enables_one_click) - [Jitsi privacy flaw that enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-24, 15:38:34](https://lobste.rs/s/b6iupp/code_creation_way_nature_intended) - [Code Creation, The Way Nature Intended](https://pehringer.info/code_creation)
 * [2025-07-24, 15:18:10](https://lobste.rs/s/omasxh/there_is_no_memory_safety_without_thread) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
