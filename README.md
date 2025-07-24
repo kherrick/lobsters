@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-23, 23:50:49](https://lobste.rs/s/fgo66i/kernel) - [Kernel](https://web.cs.wpi.edu/%7Ejshutt/kernel.html#:%7E:text=On%20the%20theoretical%20side%2C%20the,also:%20My%20Academic%20Work%20page)
+* [2025-07-23, 22:34:09](https://lobste.rs/s/xtmt3s/vintage_macintosh_programming_book) - [Vintage Macintosh Programming Book Library](https://vintageapple.org/macprogramming/index_year.html)
 * [2025-07-23, 21:23:16](https://lobste.rs/s/fkukju/branch_coverage_won_t_prove_collatz) - [Branch Coverage Won't Prove The Collatz Conjecture](https://concerningquality.com/collatz-conjecture/)
 * [2025-07-23, 20:45:44](https://lobste.rs/s/ludz2l/implementing_dynamic_scope_for_fennel) - [Implementing dynamic scope for Fennel and Lua](https://andreyor.st/posts/2025-06-09-implementing-dynamic-scope-for-fennel-and-lua/)
 * [2025-07-23, 20:45:32](https://lobste.rs/s/yd7mzj/developing_our_position_on_ai) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
@@ -17,10 +19,8 @@
 * [2025-07-23, 11:19:26](https://lobste.rs/s/lsww5q/building_systems_simply) - [Building Systems, Simply](https://www.youtube.com/watch?v=jVC4DP-8xLM)
 * [2025-07-23, 10:19:00](https://lobste.rs/s/25kvql/what_is_x_forwarded_for_when_can_you_trust) - [What is X-Forwarded-For and when can you trust it?](https://httptoolkit.com/blog/what-is-x-forwarded-for/)
 * [2025-07-23, 09:00:29](https://lobste.rs/s/9tmoou/what_expect_from_debian_trixie) - [What to expect from Debian/trixie](https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/)
-* [2025-07-23, 07:46:12](https://lobste.rs/s/zvmpbq/fun_with_gzip_bombs_email_clients) - [Fun with Gzip Bombs and Email Clients](https://www.grepular.com/Fun_with_Gzip_Bombs_and_Email_Clients)
 * [2025-07-23, 05:52:14](https://lobste.rs/s/wghfos/extending_emacs_with_fennel_2024) - [Extending Emacs with Fennel (2024)](https://andreyor.st/posts/2024-12-20-extending-emacs-with-fennel/)
 * [2025-07-23, 04:08:10](https://lobste.rs/s/txrjel/is_it_feasible_start_local_forum_2025) - [Is it feasible to start a local forum in 2025?](https://lobste.rs/s/txrjel/is_it_feasible_start_local_forum_2025)
-* [2025-07-23, 03:36:36](https://lobste.rs/s/gsvrwc/ai_coding_agents_are_removing) - [AI Coding Agents Are Removing Programming Language Barriers](https://railsatscale.com/2025-07-19-ai-coding-agents-are-removing-programming-language-barriers/)
 * [2025-07-22, 22:22:15](https://lobste.rs/s/itpokq/python_3_14_release_candidate_1_is_go) - [Python 3.14 release candidate 1 is go](https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html)
 * [2025-07-22, 16:50:09](https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds) - [Tailwind is the Worst of All Worlds](https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/)
 * [2025-07-22, 13:40:34](https://lobste.rs/s/j1hijj/todos_aren_t_for_doing) - [TODOs aren’t for doing](https://sophiebits.com/2025/07/21/todos-arent-for-doing)
