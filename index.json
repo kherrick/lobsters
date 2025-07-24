@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-24, 13:14:09",
+      "https://lobste.rs/s/tao1sp/valid_html_zip_bomb"
+    ],
+    [
+      "A valid HTML zip bomb",
+      "https://ache.one/notes/html_zip_bomb"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 12:16:28",
       "https://lobste.rs/s/sf2q8y/wayback_0_1_released"
     ],
@@ -157,16 +167,6 @@
     [
       "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
       "https://mtlynch.io/raidz1-to-raidz2/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 14:31:47",
-      "https://lobste.rs/s/uemodw/using_radicle_ci_for_development"
-    ],
-    [
-      "Using Radicle CI for Development",
-      "https://radicle.xyz/2025/07/23/using-radicle-ci-for-development"
     ]
   ],
   [
