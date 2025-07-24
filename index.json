@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-24, 21:18:04",
+      "https://lobste.rs/s/qpbfsa/new_aarch64_backend"
+    ],
+    [
+      "New Aarch64 Backend",
+      "https://ziglang.org/devlog/2025/#2025-07-23"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 20:21:03",
       "https://lobste.rs/s/llo8k8/racket_as_first_language"
     ],
@@ -197,16 +207,6 @@
     [
       "The Promised LAN",
       "https://tpl.house/"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 16:19:05",
-      "https://lobste.rs/s/lzfgwb/superfunctions_solve_color_problem"
-    ],
-    [
-      "Superfunctions: solve the \"color\" problem of Python",
-      "https://github.com/pomponchik/transfunctions"
     ]
   ],
   [
