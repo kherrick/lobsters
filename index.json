@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-24, 14:48:41",
+      "https://lobste.rs/s/b784dz/transformers_without_normalization"
+    ],
+    [
+      "Transformers without Normalization",
+      "https://arxiv.org/pdf/2503.10622"
+    ]
+  ],
+  [
+    [
+      "2025-07-24, 14:48:30",
+      "https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently"
+    ],
+    [
+      "PSA: SQLite WAL checksums fail silently and may lose data",
+      "https://avi.im/blag/2025/sqlite-wal-checksum/"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 14:19:11",
       "https://lobste.rs/s/cm9bb3/vector_tiles_are_deployed_on"
     ],
@@ -227,26 +247,6 @@
     [
       "What to expect from Debian/trixie",
       "https://michael-prokop.at/blog/2025/07/20/what-to-expect-from-debian-trixie-newintrixie/"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 22:22:15",
-      "https://lobste.rs/s/itpokq/python_3_14_release_candidate_1_is_go"
-    ],
-    [
-      "Python 3.14 release candidate 1 is go",
-      "https://pythoninsider.blogspot.com/2025/07/python-314-release-candidate-1-is-go.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-22, 16:50:09",
-      "https://lobste.rs/s/5u6ydr/tailwind_is_worst_all_worlds"
-    ],
-    [
-      "Tailwind is the Worst of All Worlds",
-      "https://colton.dev/blog/tailwind-is-the-worst-of-all-worlds/"
     ]
   ]
 ]
