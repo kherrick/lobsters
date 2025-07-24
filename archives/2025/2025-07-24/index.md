@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 21:18:04](https://lobste.rs/s/qpbfsa/new_aarch64_backend) - [New Aarch64 Backend](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
 * [2025-07-24, 20:07:27](https://lobste.rs/s/0cwrcl/rfc_9773_acme_renewal_information_ari) - [RFC 9773: ACME Renewal Information (ARI) Extension](https://datatracker.ietf.org/doc/rfc9773/)
 * [2025-07-24, 18:46:53](https://lobste.rs/s/hvrsfx/fastlanes_file_format) - [The FastLanes File Format](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
