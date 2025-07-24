@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 22:52:51](https://lobste.rs/s/abbg3j/when_is_webassembly_going_get_dom_support) - [When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code](https://queue.acm.org/detail.cfm?id=3746174)
+* [2025-07-24, 22:50:56](https://lobste.rs/s/a9frrj/use_your_type_system) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 21:18:04](https://lobste.rs/s/qpbfsa/new_aarch64_backend) - [New Aarch64 Backend](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
 * [2025-07-24, 20:07:27](https://lobste.rs/s/0cwrcl/rfc_9773_acme_renewal_information_ari) - [RFC 9773: ACME Renewal Information (ARI) Extension](https://datatracker.ietf.org/doc/rfc9773/)
