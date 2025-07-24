@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-24](index.md)
 
+* [2025-07-24, 09:12:07](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools) - [How much do you spend on AI-assisted tools?](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools)
 * [2025-07-24, 06:23:36](https://lobste.rs/s/p1fztx/systemd_258_rc1_is_massive_feature) - [systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes](https://www.phoronix.com/news/systemd-258-rc1)
 * [2025-07-24, 06:04:03](https://lobste.rs/s/ucm2ip/jnj_j_janet) - [JNJ: J iN Janet](https://sr.ht/~subsetpark/JNJ/)
 * [2025-07-24, 00:57:51](https://lobste.rs/s/15hetb/custom_mechanical_keyboard_os_specific) - [Custom mechanical keyboard: OS-specific custom RGB lighting with QMK](https://quantum5.ca/2024/06/30/custom-mechanical-keyboard-os-specific-rgb-lighting-qmk/)
