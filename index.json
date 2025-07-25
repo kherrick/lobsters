@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-25, 00:16:35",
+      "https://lobste.rs/s/az8v5r/renting_is_for_suckers"
+    ],
+    [
+      "Renting is for Suckers",
+      "https://andrewkelley.me/post/renting-is-for-suckers.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 00:04:50",
+      "https://lobste.rs/s/ozsbpi/relational_thinking_j"
+    ],
+    [
+      "Relational Thinking in J",
+      "https://storytotell.org/relational-thinking-in-j"
+    ]
+  ],
+  [
+    [
       "2025-07-24, 22:52:51",
       "https://lobste.rs/s/abbg3j/when_is_webassembly_going_get_dom_support"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-07-24, 14:48:41",
-      "https://lobste.rs/s/b784dz/transformers_without_normalization"
-    ],
-    [
-      "Transformers without Normalization",
-      "https://arxiv.org/pdf/2503.10622"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 14:48:30",
       "https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently"
     ],
@@ -207,16 +217,6 @@
     [
       "You Can Now Disable All AI Features in Zed",
       "https://zed.dev/blog/disable-ai-features"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 16:59:16",
-      "https://lobste.rs/s/qpakro/promised_lan"
-    ],
-    [
-      "The Promised LAN",
-      "https://tpl.house/"
     ]
   ],
   [
