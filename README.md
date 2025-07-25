@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-25, 06:47:07](https://lobste.rs/s/klwc0t/simple_sensible_sustainable) - [Simple. Sensible. Sustainable](https://opensourcemaintenancefee.org/)
+* [2025-07-25, 08:18:28](https://lobste.rs/s/bva342/vet_command_line_tool_acts_as_safety_net) - [vet a command-line tool that acts as a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
+* [2025-07-25, 08:16:21](https://lobste.rs/s/7cffqo/celebrating_20_years_mdn) - [Celebrating 20 years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 06:18:27](https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still) - [Three HTTP versions later, forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
 * [2025-07-25, 04:59:45](https://lobste.rs/s/lwluih/webtransport_implementation_c) - [A WebTransport implementation in C](https://github.com/andrewmd5/libwtf)
 * [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
@@ -16,7 +17,6 @@
 * [2025-07-24, 15:18:10](https://lobste.rs/s/omasxh/there_is_no_memory_safety_without_thread) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 14:59:15](https://lobste.rs/s/rmlaoa/fallout_s_memory_model) - [Fallout's Memory Model](https://youtube.com/watch?v=6kB_fko6SIg)
 * [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
-* [2025-07-24, 14:11:35](https://lobste.rs/s/41opbb/arch_linux_dev_blog) - [Arch Linux Dev Blog](https://devblog.archlinux.page/)
 * [2025-07-24, 13:14:09](https://lobste.rs/s/tao1sp/valid_html_zip_bomb) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
 * [2025-07-24, 12:16:28](https://lobste.rs/s/sf2q8y/wayback_0_1_released) - [Wayback 0.1 released](https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/)
 * [2025-07-24, 09:12:07](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools) - [How much do you spend on AI-assisted tools?](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools)
