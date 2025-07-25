@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-25, 04:59:45",
+      "https://lobste.rs/s/lwluih/webtransport_implementation_c"
+    ],
+    [
+      "A WebTransport implementation in C",
+      "https://github.com/andrewmd5/libwtf"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 00:16:35",
       "https://lobste.rs/s/az8v5r/renting_is_for_suckers"
     ],
@@ -217,16 +227,6 @@
     [
       "You Can Now Disable All AI Features in Zed",
       "https://zed.dev/blog/disable-ai-features"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 16:14:40",
-      "https://lobste.rs/s/x6qsw2/how_we_discovered_recovered_from"
-    ],
-    [
-      "How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver",
-      "https://matrix.org/blog/2025/07/postgres-corruption-postmortem/"
     ]
   ],
   [
