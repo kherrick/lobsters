@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-25, 06:47:07",
+      "https://lobste.rs/s/klwc0t/simple_sensible_sustainable"
+    ],
+    [
+      "Simple. Sensible. Sustainable",
+      "https://opensourcemaintenancefee.org/"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 06:18:27",
+      "https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still"
+    ],
+    [
+      "Three HTTP versions later, forms are still a mess",
+      "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/"
+    ]
+  ],
+  [
+    [
       "2025-07-25, 04:59:45",
       "https://lobste.rs/s/lwluih/webtransport_implementation_c"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-07-24, 06:04:03",
-      "https://lobste.rs/s/ucm2ip/jnj_j_janet"
-    ],
-    [
-      "JNJ: J iN Janet",
-      "https://sr.ht/~subsetpark/JNJ/"
-    ]
-  ],
-  [
-    [
       "2025-07-24, 00:51:11",
       "https://lobste.rs/s/hip584/death_industrial_design_era_dull"
     ],
@@ -227,16 +237,6 @@
     [
       "You Can Now Disable All AI Features in Zed",
       "https://zed.dev/blog/disable-ai-features"
-    ]
-  ],
-  [
-    [
-      "2025-07-23, 14:35:04",
-      "https://lobste.rs/s/w2l7hb/migrating_zfs_pool_from_raidz1_raidz2"
-    ],
-    [
-      "Migrating a ZFS pool from RAIDZ1 to RAIDZ2",
-      "https://mtlynch.io/raidz1-to-raidz2/"
     ]
   ],
   [
