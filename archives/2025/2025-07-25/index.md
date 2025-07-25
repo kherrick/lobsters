@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)
+* [2025-07-25, 14:38:42](https://lobste.rs/s/c4bhyg/programming_vehicles_games) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:23:10](https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend)
 * [2025-07-25, 11:16:37](https://lobste.rs/s/1bpslf/433_how_make_font_says_nothing) - [433: How to Make a Font that Says Nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
 * [2025-07-25, 09:14:18](https://lobste.rs/s/xtiwkr/time_i_wasted_weeks_hand_optimizing) - [That time I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)
+* [2025-07-25, 14:38:42](https://lobste.rs/s/c4bhyg/programming_vehicles_games) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
 * [2025-07-25, 14:23:10](https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nz9afc/what_are_you_doing_this_weekend)
 * [2025-07-25, 11:16:37](https://lobste.rs/s/1bpslf/433_how_make_font_says_nothing) - [433: How to Make a Font that Says Nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
 * [2025-07-25, 09:14:18](https://lobste.rs/s/xtiwkr/time_i_wasted_weeks_hand_optimizing) - [That time I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
@@ -15,7 +17,6 @@
 * [2025-07-24, 22:50:56](https://lobste.rs/s/a9frrj/use_your_type_system) - [Use Your Type System](https://www.dzombak.com/blog/2025/07/use-your-type-system/)
 * [2025-07-24, 21:18:04](https://lobste.rs/s/qpbfsa/new_aarch64_backend) - [New Aarch64 Backend](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
-* [2025-07-24, 17:25:59](https://lobste.rs/s/ityek6/jitsi_privacy_flaw_enables_one_click) - [Jitsi privacy flaw that enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-24, 15:18:10](https://lobste.rs/s/omasxh/there_is_no_memory_safety_without_thread) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 14:59:15](https://lobste.rs/s/rmlaoa/fallout_s_memory_model) - [Fallout's Memory Model](https://youtube.com/watch?v=6kB_fko6SIg)
 * [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
@@ -23,7 +24,6 @@
 * [2025-07-24, 12:16:28](https://lobste.rs/s/sf2q8y/wayback_0_1_released) - [Wayback 0.1 released](https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/)
 * [2025-07-24, 09:12:07](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools) - [How much do you spend on AI-assisted tools?](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools)
 * [2025-07-24, 06:23:36](https://lobste.rs/s/p1fztx/systemd_258_rc1_is_massive_feature) - [systemd 258-rc1 Is A Massive Feature Release With New Tools, More Than 260 Changes](https://www.phoronix.com/news/systemd-258-rc1)
-* [2025-07-23, 20:45:32](https://lobste.rs/s/yd7mzj/developing_our_position_on_ai) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
 * [2025-07-23, 18:21:29](https://lobste.rs/s/sk2yop/you_can_now_disable_all_ai_features_zed) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
 
 ## [Archives](archives/index.md)
