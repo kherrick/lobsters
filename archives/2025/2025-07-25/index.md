@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-25](index.md)
 
+* [2025-07-25, 16:56:37](https://lobste.rs/s/zzvbul/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 * [2025-07-25, 16:40:38](https://lobste.rs/s/dgpkwl/pantagruel_readme) - [pantagruel/README](https://github.com/subsetpark/pantagruel/blob/master/README.md)
 * [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 * [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-25, 16:56:37](https://lobste.rs/s/zzvbul/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 * [2025-07-25, 16:40:38](https://lobste.rs/s/dgpkwl/pantagruel_readme) - [pantagruel/README](https://github.com/subsetpark/pantagruel/blob/master/README.md)
 * [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 * [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)
@@ -24,7 +25,6 @@
 * [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
 * [2025-07-24, 13:14:09](https://lobste.rs/s/tao1sp/valid_html_zip_bomb) - [A valid HTML zip bomb](https://ache.one/notes/html_zip_bomb)
 * [2025-07-24, 12:16:28](https://lobste.rs/s/sf2q8y/wayback_0_1_released) - [Wayback 0.1 released](https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/)
-* [2025-07-24, 09:12:07](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools) - [How much do you spend on AI-assisted tools?](https://lobste.rs/s/jcfozl/how_much_do_you_spend_on_ai_assisted_tools)
 
 ## [Archives](archives/index.md)
 
