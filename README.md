@@ -2,6 +2,7 @@
 
 * [2025-07-25, 11:16:37](https://lobste.rs/s/1bpslf/433_how_make_font_says_nothing) - [433: How to Make a Font that Says Nothing](https://untested.sonnet.io/notes/433-how-to-make-a-font-that-says-nothing/)
 * [2025-07-25, 09:14:18](https://lobste.rs/s/xtiwkr/time_i_wasted_weeks_hand_optimizing) - [That time I wasted weeks hand optimizing assembly because I benchmarked on random data](https://www.vidarholen.net/contents/blog/?p=1160)
+* [2025-07-25, 08:44:43](https://lobste.rs/s/xxtnsf/programming_vehicles_games) - [Programming Vehicles in Games](https://www.youtube.com/watch?v=MrIAw980iYg)
 * [2025-07-25, 08:18:28](https://lobste.rs/s/bva342/vet_command_line_tool_acts_as_safety_net) - [vet a command-line tool that acts as a safety net for the risky curl | bash pattern](https://github.com/vet-run/vet)
 * [2025-07-25, 08:16:21](https://lobste.rs/s/7cffqo/celebrating_20_years_mdn) - [Celebrating 20 years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 06:18:27](https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still) - [Three HTTP versions later, forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
@@ -13,7 +14,6 @@
 * [2025-07-24, 21:18:04](https://lobste.rs/s/qpbfsa/new_aarch64_backend) - [New Aarch64 Backend](https://ziglang.org/devlog/2025/#2025-07-23)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
 * [2025-07-24, 18:46:53](https://lobste.rs/s/hvrsfx/fastlanes_file_format) - [The FastLanes File Format](https://github.com/cwida/FastLanes/blob/dev/docs/specification.pdf)
-* [2025-07-24, 17:25:59](https://lobste.rs/s/ityek6/jitsi_privacy_flaw_enables_one_click) - [Jitsi privacy flaw that enables one-click stealth audio and video capture](https://zimzi.substack.com/p/jitsi-privacy-flaw-that-enables-one)
 * [2025-07-24, 15:18:10](https://lobste.rs/s/omasxh/there_is_no_memory_safety_without_thread) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 14:59:15](https://lobste.rs/s/rmlaoa/fallout_s_memory_model) - [Fallout's Memory Model](https://youtube.com/watch?v=6kB_fko6SIg)
 * [2025-07-24, 14:48:30](https://lobste.rs/s/aartyj/psa_sqlite_wal_checksums_fail_silently) - [PSA: SQLite WAL checksums fail silently and may lose data](https://avi.im/blag/2025/sqlite-wal-checksum/)
