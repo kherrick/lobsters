@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-25, 21:02:31](https://lobste.rs/s/6qe3ml/nullable_not_null) - [Nullable but not null](https://efe.me/posts/nullable-but-not-null/)
+* [2025-07-25, 20:55:55](https://lobste.rs/s/3uemyk/rust_running_on_every_major_gpu_platform) - [Rust running on every major GPU platform](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-25, 19:53:06](https://lobste.rs/s/dxhuqb/bringing_decade_old_bicycle_navigator) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 18:27:18](https://lobste.rs/s/ljvdv9/monotonic_wall_clock_time_go_time_package) - [Monotonic and Wall Clock Time in the Go time package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/)
 * [2025-07-25, 17:19:00](https://lobste.rs/s/5fytcr/implementing_functional_language_with) - [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
 * [2025-07-25, 16:56:37](https://lobste.rs/s/zzvbul/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
-* [2025-07-25, 16:40:38](https://lobste.rs/s/dgpkwl/pantagruel_readme) - [pantagruel/README](https://github.com/subsetpark/pantagruel/blob/master/README.md)
 * [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 * [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)
 * [2025-07-25, 14:38:42](https://lobste.rs/s/c4bhyg/programming_vehicles_games) - [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html)
