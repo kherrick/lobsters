@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-25, 04:59:45](https://lobste.rs/s/lwluih/webtransport_implementation_c) - [A WebTransport implementation in C](https://github.com/andrewmd5/libwtf)
 * [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
 * [2025-07-25, 00:04:50](https://lobste.rs/s/ozsbpi/relational_thinking_j) - [Relational Thinking in J](https://storytotell.org/relational-thinking-in-j)
 * [2025-07-24, 22:52:51](https://lobste.rs/s/abbg3j/when_is_webassembly_going_get_dom_support) - [When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code](https://queue.acm.org/detail.cfm?id=3746174)
@@ -22,7 +23,6 @@
 * [2025-07-24, 00:51:11](https://lobste.rs/s/hip584/death_industrial_design_era_dull) - [The Death Of Industrial Design And The Era Of Dull Electronics](https://hackaday.com/2025/07/23/the-death-of-industrial-design-and-the-era-of-dull-electronics/)
 * [2025-07-23, 20:45:32](https://lobste.rs/s/yd7mzj/developing_our_position_on_ai) - [Developing our position on AI](https://www.recurse.com/blog/191-developing-our-position-on-ai)
 * [2025-07-23, 18:21:29](https://lobste.rs/s/sk2yop/you_can_now_disable_all_ai_features_zed) - [You Can Now Disable All AI Features in Zed](https://zed.dev/blog/disable-ai-features)
-* [2025-07-23, 16:14:40](https://lobste.rs/s/x6qsw2/how_we_discovered_recovered_from) - [How we discovered, and recovered from, Postgres corruption on the matrix.org homeserver](https://matrix.org/blog/2025/07/postgres-corruption-postmortem/)
 * [2025-07-23, 14:35:04](https://lobste.rs/s/w2l7hb/migrating_zfs_pool_from_raidz1_raidz2) - [Migrating a ZFS pool from RAIDZ1 to RAIDZ2](https://mtlynch.io/raidz1-to-raidz2/)
 * [2025-07-23, 11:32:31](https://lobste.rs/s/ixfukh/font_size_adjust_is_useful) - [font-size-adjust Is Useful](https://matklad.github.io/2025/07/16/font-size-adjust.html)
 
