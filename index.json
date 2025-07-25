@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-07-25, 17:30:50",
-      "https://lobste.rs/s/ubtloo/implementing_visicalc"
+      "2025-07-25, 18:27:18",
+      "https://lobste.rs/s/ljvdv9/monotonic_wall_clock_time_go_time_package"
     ],
     [
-      "Implementing VisiCalc",
-      "https://rmf.vc/public/Essays/ImplementingVisicalc.pdf"
+      "Monotonic and Wall Clock Time in the Go time package",
+      "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/"
     ]
   ],
   [
@@ -17,6 +17,26 @@
     [
       "Implementing a Functional Language with Graph Reduction",
       "https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 16:56:37",
+      "https://lobste.rs/s/zzvbul/combinatory_programming"
+    ],
+    [
+      "Combinatory Programming",
+      "https://blog.zdsmith.com/posts/combinatory-programming.html"
+    ]
+  ],
+  [
+    [
+      "2025-07-25, 16:40:38",
+      "https://lobste.rs/s/dgpkwl/pantagruel_readme"
+    ],
+    [
+      "pantagruel/README",
+      "https://github.com/subsetpark/pantagruel/blob/master/README.md"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-07-25, 04:59:45",
-      "https://lobste.rs/s/lwluih/webtransport_implementation_c"
-    ],
-    [
-      "A WebTransport implementation in C",
-      "https://github.com/andrewmd5/libwtf"
-    ]
-  ],
-  [
-    [
       "2025-07-25, 00:16:35",
       "https://lobste.rs/s/az8v5r/renting_is_for_suckers"
     ],
@@ -157,16 +167,6 @@
     [
       "Relational Thinking in J",
       "https://storytotell.org/relational-thinking-in-j"
-    ]
-  ],
-  [
-    [
-      "2025-07-24, 22:52:51",
-      "https://lobste.rs/s/abbg3j/when_is_webassembly_going_get_dom_support"
-    ],
-    [
-      "When Is WebAssembly Going to Get DOM Support? Or, how I learned to stop worrying and love glue code",
-      "https://queue.acm.org/detail.cfm?id=3746174"
     ]
   ],
   [
