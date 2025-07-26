@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 12:04:54](https://lobste.rs/s/byakmv/from_async_await_virtual_threads) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
+* [2025-07-26, 11:56:04](https://lobste.rs/s/y1qs6b/hand_drawn_cgi_animating_terrahawks) - [Hand Drawn CGI: Animating the Terrahawks Title Sequence](https://www.youtube.com/watch?v=HI7oEiaR8PU)
 * [2025-07-26, 11:12:27](https://lobste.rs/s/mf5mup/arm_desktop_x86_emulation) - [Arm desktop: x86 emulation](https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/)
 * [2025-07-26, 11:00:03](https://lobste.rs/s/6yqrbm/heredocs_can_make_your_bash_scripts_self) - [Heredocs Can Make Your Bash Scripts Self-Documenting](https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/)
 * [2025-07-26, 10:40:30](https://lobste.rs/s/x3obdr/most_your_projects_are_stupid_please_make) - [Most of your projects are stupid. Please make some actual games](https://www.youtube.com/watch?v=Ca53JTohdN4)

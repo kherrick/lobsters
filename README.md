@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-26, 12:04:54](https://lobste.rs/s/byakmv/from_async_await_virtual_threads) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
+* [2025-07-26, 11:56:04](https://lobste.rs/s/y1qs6b/hand_drawn_cgi_animating_terrahawks) - [Hand Drawn CGI: Animating the Terrahawks Title Sequence](https://www.youtube.com/watch?v=HI7oEiaR8PU)
 * [2025-07-26, 11:12:27](https://lobste.rs/s/mf5mup/arm_desktop_x86_emulation) - [Arm desktop: x86 emulation](https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/)
 * [2025-07-26, 11:00:03](https://lobste.rs/s/6yqrbm/heredocs_can_make_your_bash_scripts_self) - [Heredocs Can Make Your Bash Scripts Self-Documenting](https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/)
 * [2025-07-26, 10:40:30](https://lobste.rs/s/x3obdr/most_your_projects_are_stupid_please_make) - [Most of your projects are stupid. Please make some actual games](https://www.youtube.com/watch?v=Ca53JTohdN4)
@@ -9,7 +11,6 @@
 * [2025-07-25, 22:56:42](https://lobste.rs/s/dfket6/gnome_calendar_new_era_accessibility) - [GNOME Calendar: A New Era of Accessibility Achieved in 90 Days](https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/)
 * [2025-07-25, 21:44:52](https://lobste.rs/s/hol26j/http_1_1_must_die) - [HTTP/1.1 Must Die](https://http1mustdie.com/)
 * [2025-07-25, 21:38:09](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy) - [Lobsters Interview with Technomancy](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy)
-* [2025-07-25, 21:02:31](https://lobste.rs/s/6qe3ml/nullable_not_null) - [Nullable but not null](https://efe.me/posts/nullable-but-not-null/)
 * [2025-07-25, 20:55:55](https://lobste.rs/s/3uemyk/rust_running_on_every_major_gpu_platform) - [Rust running on every major GPU platform](https://rust-gpu.github.io/blog/2025/07/25/rust-on-every-gpu/)
 * [2025-07-25, 19:53:06](https://lobste.rs/s/dxhuqb/bringing_decade_old_bicycle_navigator) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
@@ -23,7 +24,6 @@
 * [2025-07-25, 06:18:27](https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still) - [Three HTTP versions later, forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
 * [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
-* [2025-07-24, 15:18:10](https://lobste.rs/s/omasxh/there_is_no_memory_safety_without_thread) - [There is no memory safety without thread safety](https://www.ralfj.de/blog/2025/07/24/memory-safety.html)
 * [2025-07-24, 12:16:28](https://lobste.rs/s/sf2q8y/wayback_0_1_released) - [Wayback 0.1 released](https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/)
 
 ## [Archives](archives/index.md)
