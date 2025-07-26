@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 21:04:12",
+      "https://lobste.rs/s/stness/test_results_for_amd_zen_5"
+    ],
+    [
+      "Test results for AMD Zen 5",
+      "https://www.agner.org/forum/viewtopic.php?t=287&start=11"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 17:30:02",
       "https://lobste.rs/s/gugsqu/reversing_c64_bubble_bobble_rng"
     ],
@@ -227,16 +237,6 @@
     [
       "Celebrating 20 years of MDN",
       "https://developer.mozilla.org/en-US/blog/mdn-turns-20/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 06:18:27",
-      "https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still"
-    ],
-    [
-      "Three HTTP versions later, forms are still a mess",
-      "https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/"
     ]
   ],
   [
