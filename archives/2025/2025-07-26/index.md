@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 14:36:45](https://lobste.rs/s/8cwich/perfecting_anti_aliasing_on_signed) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-07-26, 14:11:15](https://lobste.rs/s/sba8mw/emacs_arei_async_ide_for_guile) - [emacs-arei Async IDE for Guile](https://git.sr.ht/~abcdw/emacs-arei)
 * [2025-07-26, 12:04:54](https://lobste.rs/s/byakmv/from_async_await_virtual_threads) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
 * [2025-07-26, 11:56:04](https://lobste.rs/s/y1qs6b/hand_drawn_cgi_animating_terrahawks) - [Hand Drawn CGI: Animating the Terrahawks Title Sequence](https://www.youtube.com/watch?v=HI7oEiaR8PU)

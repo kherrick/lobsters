@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-26, 14:36:45](https://lobste.rs/s/8cwich/perfecting_anti_aliasing_on_signed) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-07-26, 14:11:15](https://lobste.rs/s/sba8mw/emacs_arei_async_ide_for_guile) - [emacs-arei Async IDE for Guile](https://git.sr.ht/~abcdw/emacs-arei)
 * [2025-07-26, 12:04:54](https://lobste.rs/s/byakmv/from_async_await_virtual_threads) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
 * [2025-07-26, 11:56:04](https://lobste.rs/s/y1qs6b/hand_drawn_cgi_animating_terrahawks) - [Hand Drawn CGI: Animating the Terrahawks Title Sequence](https://www.youtube.com/watch?v=HI7oEiaR8PU)
@@ -24,7 +25,6 @@
 * [2025-07-25, 06:18:27](https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still) - [Three HTTP versions later, forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
 * [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
 * [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
-* [2025-07-24, 12:16:28](https://lobste.rs/s/sf2q8y/wayback_0_1_released) - [Wayback 0.1 released](https://wayback.freedesktop.org/news/2025/07/23/wayback-0.1-released/)
 
 ## [Archives](archives/index.md)
 
