@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-26](index.md)
 
+* [2025-07-26, 21:57:06](https://lobste.rs/s/juw6wz/resizable_structs_zig) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:04:12](https://lobste.rs/s/stness/test_results_for_amd_zen_5) - [Test results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=11)
 * [2025-07-26, 17:30:02](https://lobste.rs/s/gugsqu/reversing_c64_bubble_bobble_rng) - [Reversing the C64 Bubble Bobble RNG](http://geon.github.io/programming/2025/07/24/bubble-bobble-c64-rng-emulator)
 * [2025-07-26, 16:45:50](https://lobste.rs/s/jfbzwa/optimi_zi_n_g_sudoku_solving) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
