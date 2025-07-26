@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-26, 16:45:50](https://lobste.rs/s/jfbzwa/optimi_zi_n_g_sudoku_solving) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
 * [2025-07-26, 14:56:13](https://lobste.rs/s/78kvoj/clj_coll_clojure_collections_sequences) - [clj-coll: Clojure collections and sequences in Common Lisp](https://github.com/dtenny/clj-coll)
 * [2025-07-26, 14:36:45](https://lobste.rs/s/8cwich/perfecting_anti_aliasing_on_signed) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
 * [2025-07-26, 14:11:15](https://lobste.rs/s/sba8mw/emacs_arei_async_ide_for_guile) - [emacs-arei Async IDE for Guile](https://git.sr.ht/~abcdw/emacs-arei)
@@ -24,7 +25,6 @@
 * [2025-07-25, 08:16:21](https://lobste.rs/s/7cffqo/celebrating_20_years_mdn) - [Celebrating 20 years of MDN](https://developer.mozilla.org/en-US/blog/mdn-turns-20/)
 * [2025-07-25, 06:18:27](https://lobste.rs/s/dzqdtj/three_http_versions_later_forms_are_still) - [Three HTTP versions later, forms are still a mess](https://yorickpeterse.com/articles/three-http-versions-later-forms-are-still-a-mess/)
 * [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
-* [2025-07-24, 20:21:03](https://lobste.rs/s/llo8k8/racket_as_first_language) - [Racket as a first language](https://felleisen.org/matthias/Thoughts/py.html)
 
 ## [Archives](archives/index.md)
 
