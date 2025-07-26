@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 17:30:02",
+      "https://lobste.rs/s/gugsqu/reversing_c64_bubble_bobble_rng"
+    ],
+    [
+      "Reversing the C64 Bubble Bobble RNG",
+      "http://geon.github.io/programming/2025/07/24/bubble-bobble-c64-rng-emulator"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 16:45:50",
       "https://lobste.rs/s/jfbzwa/optimi_zi_n_g_sudoku_solving"
     ],
@@ -177,16 +187,6 @@
     [
       "Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM",
       "https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 18:27:18",
-      "https://lobste.rs/s/ljvdv9/monotonic_wall_clock_time_go_time_package"
-    ],
-    [
-      "Monotonic and Wall Clock Time in the Go time package",
-      "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/"
     ]
   ],
   [
