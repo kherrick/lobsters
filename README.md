@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-26, 11:12:27](https://lobste.rs/s/mf5mup/arm_desktop_x86_emulation) - [Arm desktop: x86 emulation](https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/)
 * [2025-07-26, 11:00:03](https://lobste.rs/s/6yqrbm/heredocs_can_make_your_bash_scripts_self) - [Heredocs Can Make Your Bash Scripts Self-Documenting](https://holdtherobot.com/blog/heredocs-can-make-your-bash-scripts-self-documenting/)
-* [2025-07-26, 10:40:30](https://lobste.rs/s/x3obdr/most_your_projects_are_stupid_please_make) - [Most of your projects are stupid. Please make some actual games](https://www.youtube.com/watch?v=Ca53JTohdN4)
 * [2025-07-26, 09:01:51](https://lobste.rs/s/zditcp/it_s_time_for_modern_css_kill_spa) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
+* [2025-07-26, 04:38:35](https://lobste.rs/s/jmttl2/can_llms_do_accounting) - [Can LLMs Do Accounting?](https://accounting.penrose.com/)
 * [2025-07-26, 03:35:00](https://lobste.rs/s/oosbf5/split_flap) - [Split Flap](https://fx.hot.page/split-flap)
 * [2025-07-25, 22:56:42](https://lobste.rs/s/dfket6/gnome_calendar_new_era_accessibility) - [GNOME Calendar: A New Era of Accessibility Achieved in 90 Days](https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/)
 * [2025-07-25, 21:44:52](https://lobste.rs/s/hol26j/http_1_1_must_die) - [HTTP/1.1 Must Die](https://http1mustdie.com/)
@@ -12,7 +13,6 @@
 * [2025-07-25, 19:53:06](https://lobste.rs/s/dxhuqb/bringing_decade_old_bicycle_navigator) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 18:27:18](https://lobste.rs/s/ljvdv9/monotonic_wall_clock_time_go_time_package) - [Monotonic and Wall Clock Time in the Go time package](https://victoriametrics.com/blog/go-time-monotonic-wall-clock/)
-* [2025-07-25, 17:19:00](https://lobste.rs/s/5fytcr/implementing_functional_language_with) - [Implementing a Functional Language with Graph Reduction](https://thma.github.io/posts/2021-12-27-Implementing-a-functional-language-with-Graph-Reduction.html)
 * [2025-07-25, 16:56:37](https://lobste.rs/s/zzvbul/combinatory_programming) - [Combinatory Programming](https://blog.zdsmith.com/posts/combinatory-programming.html)
 * [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 * [2025-07-25, 14:38:50](https://lobste.rs/s/wvy1o7/montana_mini_computer) - [The MonTana Mini Computer](https://mtmc.cs.montana.edu)
