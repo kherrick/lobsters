@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 14:11:15",
+      "https://lobste.rs/s/sba8mw/emacs_arei_async_ide_for_guile"
+    ],
+    [
+      "emacs-arei Async IDE for Guile",
+      "https://git.sr.ht/~abcdw/emacs-arei"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 12:04:54",
       "https://lobste.rs/s/byakmv/from_async_await_virtual_threads"
     ],
@@ -147,16 +157,6 @@
     [
       "Monotonic and Wall Clock Time in the Go time package",
       "https://victoriametrics.com/blog/go-time-monotonic-wall-clock/"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 16:56:37",
-      "https://lobste.rs/s/zzvbul/combinatory_programming"
-    ],
-    [
-      "Combinatory Programming",
-      "https://blog.zdsmith.com/posts/combinatory-programming.html"
     ]
   ],
   [
