@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-26, 23:05:15",
+      "https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent"
+    ],
+    [
+      "Wren - a small, fast, class-based concurrent scripting language",
+      "https://github.com/wren-lang/wren"
+    ]
+  ],
+  [
+    [
       "2025-07-26, 21:57:06",
       "https://lobste.rs/s/juw6wz/resizable_structs_zig"
     ],
@@ -217,16 +227,6 @@
     [
       "The MonTana Mini Computer",
       "https://mtmc.cs.montana.edu"
-    ]
-  ],
-  [
-    [
-      "2025-07-25, 14:38:42",
-      "https://lobste.rs/s/c4bhyg/programming_vehicles_games"
-    ],
-    [
-      "Programming Vehicles in Games",
-      "https://wassimulator.com/blog/programming/programming_vehicles_in_games.html"
     ]
   ],
   [
