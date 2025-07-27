@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 20:33:06](https://lobste.rs/s/kwgrnv/ipng_networks_certificate_transparency) - [IPng Networks - Certificate Transparency - Part 1](https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/)
 * [2025-07-27, 20:12:16](https://lobste.rs/s/spfpn6/formal_specs_as_sets_behaviors) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 19:40:33](https://lobste.rs/s/ccbtim/protest_footage_blocked_as_online_safety) - [Protest footage blocked as online safety act comes into force](https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/)
 * [2025-07-27, 19:13:03](https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
