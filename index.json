@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-27, 09:53:03",
+      "https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json"
+    ],
+    [
+      "LLMs are bad at returning code in JSON",
+      "https://aider.chat/2024/08/14/code-in-json.html"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 06:54:49",
       "https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick"
     ],
@@ -127,16 +137,6 @@
     [
       "Perfecting anti-aliasing on signed distance functions",
       "https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 14:11:15",
-      "https://lobste.rs/s/sba8mw/emacs_arei_async_ide_for_guile"
-    ],
-    [
-      "emacs-arei Async IDE for Guile",
-      "https://git.sr.ht/~abcdw/emacs-arei"
     ]
   ],
   [
