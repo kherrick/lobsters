@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 19:40:33](https://lobste.rs/s/ccbtim/protest_footage_blocked_as_online_safety) - [Protest footage blocked as online safety act comes into force](https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/)
 * [2025-07-27, 19:13:03](https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
 * [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
 * [2025-07-27, 18:15:00](https://lobste.rs/s/zqlhys/printsim_command_line_python_program) - [printSim: a command-line python program that turns gcode into realistic 3d printer sound](https://github.com/dannyboy1996/printSim)
