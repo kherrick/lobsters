@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-27, 03:37:12](https://lobste.rs/s/xtxvyd/fast_cheap_bulk_storage_using_lvm_cache) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
+* [2025-07-27, 02:49:34](https://lobste.rs/s/6i8us2/exosphere_simple_centralized_patch) - [exosphere: A simple centralized patch management and reporting tool for unix systems](https://github.com/mrdaemon/exosphere)
 * [2025-07-27, 00:31:13](https://lobste.rs/s/og1pru/how_configure_x11_simple_way) - [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html)
 * [2025-07-27, 00:23:12](https://lobste.rs/s/hhcapy/getting_decent_error_reports_bash_when) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-26, 23:05:15](https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent) - [Wren - a small, fast, class-based concurrent scripting language](https://github.com/wren-lang/wren)
 * [2025-07-26, 21:57:06](https://lobste.rs/s/juw6wz/resizable_structs_zig) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
 * [2025-07-26, 21:04:12](https://lobste.rs/s/stness/test_results_for_amd_zen_5) - [Test results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=11)
-* [2025-07-26, 17:30:02](https://lobste.rs/s/gugsqu/reversing_c64_bubble_bobble_rng) - [Reversing the C64 Bubble Bobble RNG](http://geon.github.io/programming/2025/07/24/bubble-bobble-c64-rng-emulator)
 * [2025-07-26, 16:45:50](https://lobste.rs/s/jfbzwa/optimi_zi_n_g_sudoku_solving) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
 * [2025-07-26, 14:56:13](https://lobste.rs/s/78kvoj/clj_coll_clojure_collections_sequences) - [clj-coll: Clojure collections and sequences in Common Lisp](https://github.com/dtenny/clj-coll)
 * [2025-07-26, 14:36:45](https://lobste.rs/s/8cwich/perfecting_anti_aliasing_on_signed) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
@@ -24,7 +25,6 @@
 * [2025-07-25, 19:53:06](https://lobste.rs/s/dxhuqb/bringing_decade_old_bicycle_navigator) - [Bringing a Decade Old Bicycle Navigator Back to Life with Open Source Software (and DOOM)](https://raymii.org/s/blog/Bringing_a_Decade_Old_Bicycle_Navigator_Back_to_Life_with_Open_Source_Software_and_DOOM.html)
 * [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 * [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
-* [2025-07-25, 00:16:35](https://lobste.rs/s/az8v5r/renting_is_for_suckers) - [Renting is for Suckers](https://andrewkelley.me/post/renting-is-for-suckers.html)
 
 ## [Archives](archives/index.md)
 
