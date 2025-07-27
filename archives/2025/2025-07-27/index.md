@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 19:13:03](https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
+* [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
 * [2025-07-27, 18:15:00](https://lobste.rs/s/zqlhys/printsim_command_line_python_program) - [printSim: a command-line python program that turns gcode into realistic 3d printer sound](https://github.com/dannyboy1996/printSim)
 * [2025-07-27, 12:22:35](https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c) - [OverHAuL: Harnessing Automation for C Libraries with Large Language Models](https://kchousos.github.io/BSc-Thesis/)
 * [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
