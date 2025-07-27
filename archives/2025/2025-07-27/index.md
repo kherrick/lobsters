@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
+* [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
 * [2025-07-27, 06:09:40](https://lobste.rs/s/p3bxpe/chaos_ai_agents) - [The Chaos of AI Agents](https://www.youtube.com/watch?v=2YYjPs8t8MI)
 * [2025-07-27, 03:37:12](https://lobste.rs/s/xtxvyd/fast_cheap_bulk_storage_using_lvm_cache) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
 * [2025-07-27, 02:49:34](https://lobste.rs/s/6i8us2/exosphere_simple_centralized_patch) - [exosphere: A simple centralized patch management and reporting tool for unix systems](https://github.com/mrdaemon/exosphere)
