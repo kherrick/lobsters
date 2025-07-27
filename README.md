@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-07-27, 10:54:54](https://lobste.rs/s/z8gz9w/intro_security_with_eggs_please) - [An intro to security, with eggs, please](https://binturo.ng/blog/2025-07-25-ovosec/)
+* [2025-07-27, 12:22:35](https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c) - [OverHAuL: Harnessing Automation for C Libraries with Large Language Models](https://kchousos.github.io/BSc-Thesis/)
+* [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
 * [2025-07-27, 10:39:07](https://lobste.rs/s/wvzkzs/copyparty_portable_file_server_with) - [copyparty: portable file server with resumable uploads, dedup, WebDAV, and more](https://github.com/9001/copyparty)
 * [2025-07-27, 09:53:03](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
@@ -24,7 +25,6 @@
 * [2025-07-26, 04:38:35](https://lobste.rs/s/jmttl2/can_llms_do_accounting) - [Can LLMs Do Accounting?](https://accounting.penrose.com/)
 * [2025-07-26, 03:35:00](https://lobste.rs/s/oosbf5/split_flap) - [Split Flap](https://fx.hot.page/split-flap)
 * [2025-07-25, 21:38:09](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy) - [Lobsters Interview with Technomancy](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy)
-* [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
 
 ## [Archives](archives/index.md)
 
