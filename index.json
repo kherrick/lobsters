@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-27, 18:15:00",
+      "https://lobste.rs/s/zqlhys/printsim_command_line_python_program"
+    ],
+    [
+      "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
+      "https://github.com/dannyboy1996/printSim"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 12:22:35",
       "https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c"
     ],
@@ -227,16 +237,6 @@
     [
       "Can LLMs Do Accounting?",
       "https://accounting.penrose.com/"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 03:35:00",
-      "https://lobste.rs/s/oosbf5/split_flap"
-    ],
-    [
-      "Split Flap",
-      "https://fx.hot.page/split-flap"
     ]
   ],
   [
