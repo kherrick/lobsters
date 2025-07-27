@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-27, 19:13:03",
+      "https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection"
+    ],
+    [
+      "Revontuli Colorscheme Collection",
+      "https://codeberg.org/akselmo/Revontuli"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 19:01:16",
+      "https://lobste.rs/s/jqm47i/til_exception_add_note"
+    ],
+    [
+      "TIL: Exception.add_note",
+      "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
+    ]
+  ],
+  [
+    [
       "2025-07-27, 18:15:00",
       "https://lobste.rs/s/zqlhys/printsim_command_line_python_program"
     ],
@@ -27,16 +47,6 @@
     [
       "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
       "https://github.com/jkoppel/jj-workshop"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 10:54:54",
-      "https://lobste.rs/s/z8gz9w/intro_security_with_eggs_please"
-    ],
-    [
-      "An intro to security, with eggs, please",
-      "https://binturo.ng/blog/2025-07-25-ovosec/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Optimi-Zi(n)g Sudoku-Solving",
       "https://log.pfad.fr/2025/optimi-zig-sudoku-solving/"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 14:56:13",
-      "https://lobste.rs/s/78kvoj/clj_coll_clojure_collections_sequences"
-    ],
-    [
-      "clj-coll: Clojure collections and sequences in Common Lisp",
-      "https://github.com/dtenny/clj-coll"
     ]
   ],
   [
