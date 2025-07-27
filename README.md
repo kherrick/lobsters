@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-27, 09:53:03](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 * [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
 * [2025-07-27, 06:09:40](https://lobste.rs/s/p3bxpe/chaos_ai_agents) - [The Chaos of AI Agents](https://www.youtube.com/watch?v=2YYjPs8t8MI)
@@ -13,7 +14,6 @@
 * [2025-07-26, 16:45:50](https://lobste.rs/s/jfbzwa/optimi_zi_n_g_sudoku_solving) - [Optimi-Zi(n)g Sudoku-Solving](https://log.pfad.fr/2025/optimi-zig-sudoku-solving/)
 * [2025-07-26, 14:56:13](https://lobste.rs/s/78kvoj/clj_coll_clojure_collections_sequences) - [clj-coll: Clojure collections and sequences in Common Lisp](https://github.com/dtenny/clj-coll)
 * [2025-07-26, 14:36:45](https://lobste.rs/s/8cwich/perfecting_anti_aliasing_on_signed) - [Perfecting anti-aliasing on signed distance functions](https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html)
-* [2025-07-26, 14:11:15](https://lobste.rs/s/sba8mw/emacs_arei_async_ide_for_guile) - [emacs-arei Async IDE for Guile](https://git.sr.ht/~abcdw/emacs-arei)
 * [2025-07-26, 12:04:54](https://lobste.rs/s/byakmv/from_async_await_virtual_threads) - [From Async/Await to Virtual Threads](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
 * [2025-07-26, 11:56:04](https://lobste.rs/s/y1qs6b/hand_drawn_cgi_animating_terrahawks) - [Hand Drawn CGI: Animating the Terrahawks Title Sequence](https://www.youtube.com/watch?v=HI7oEiaR8PU)
 * [2025-07-26, 11:12:27](https://lobste.rs/s/mf5mup/arm_desktop_x86_emulation) - [Arm desktop: x86 emulation](https://marcin.juszkiewicz.com.pl/2025/07/22/arm-desktop-emulation/)

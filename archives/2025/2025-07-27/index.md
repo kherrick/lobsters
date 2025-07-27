@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 09:53:03](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 * [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
 * [2025-07-27, 06:09:40](https://lobste.rs/s/p3bxpe/chaos_ai_agents) - [The Chaos of AI Agents](https://www.youtube.com/watch?v=2YYjPs8t8MI)
