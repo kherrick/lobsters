@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-27, 10:39:07](https://lobste.rs/s/wvzkzs/copyparty_portable_file_server_with) - [copyparty: portable file server with resumable uploads, dedup, WebDAV, and more](https://github.com/9001/copyparty)
 * [2025-07-27, 09:53:03](https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json) - [LLMs are bad at returning code in JSON](https://aider.chat/2024/08/14/code-in-json.html)
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 * [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
@@ -24,7 +25,6 @@
 * [2025-07-25, 22:56:42](https://lobste.rs/s/dfket6/gnome_calendar_new_era_accessibility) - [GNOME Calendar: A New Era of Accessibility Achieved in 90 Days](https://tesk.page/2025/07/25/gnome-calendar-a-new-era-of-accessibility-achieved-in-90-days/)
 * [2025-07-25, 21:38:09](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy) - [Lobsters Interview with Technomancy](https://lobste.rs/s/terwiu/lobsters_interview_with_technomancy)
 * [2025-07-25, 19:04:00](https://lobste.rs/s/oy0cov/efficient_computer_s_electron_e1_cpu) - [Efficient Computer's Electron E1 CPU - claims 100x more efficient than ARM](https://morethanmoore.substack.com/p/efficient-computers-electron-e1-cpu)
-* [2025-07-25, 15:12:34](https://lobste.rs/s/slvzea/using_fortune_reinforce_habits) - [Using fortune to reinforce habits](https://www.judy.co.uk/blog/using-fortune-to-reinforce-habits/)
 
 ## [Archives](archives/index.md)
 
