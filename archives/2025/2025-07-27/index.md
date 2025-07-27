@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-27](index.md)
 
+* [2025-07-27, 20:12:16](https://lobste.rs/s/spfpn6/formal_specs_as_sets_behaviors) - [Formal specs as sets of behaviors](https://surfingcomplexity.blog/2025/07/26/formal-specs-as-sets-of-behaviors/)
 * [2025-07-27, 19:40:33](https://lobste.rs/s/ccbtim/protest_footage_blocked_as_online_safety) - [Protest footage blocked as online safety act comes into force](https://freespeechunion.org/protest-footage-blocked-as-online-safety-act-comes-into-force/)
 * [2025-07-27, 19:13:03](https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
 * [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
