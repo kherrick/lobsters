@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-07-28, 10:34:30",
-      "https://lobste.rs/s/mjb8t3/mask_off_moment_for_digital_identity"
-    ],
-    [
-      "The Mask-Off Moment for Digital Identity",
-      "https://newdesigncongress.org/en/note/2025/the-mask-off-moment-for-digital-identity/"
-    ]
-  ],
-  [
-    [
       "2025-07-28, 10:13:07",
       "https://lobste.rs/s/bwpn8i/simd_within_register_how_i_doubled_hash"
     ],
@@ -37,6 +27,16 @@
     [
       "How to Make Websites That Will Require Lots of Your Time and Energy",
       "https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 10:02:14",
+      "https://lobste.rs/s/i4hxlc/approve_merge_requests_with_your_eyes"
+    ],
+    [
+      "Approve merge requests with your eyes closed",
+      "https://blog.jse.li/posts/approval/"
     ]
   ],
   [
@@ -72,21 +72,11 @@
   [
     [
       "2025-07-28, 07:41:11",
-      "https://lobste.rs/s/zs2xhp/eu_age_verification_app_ban_any_android"
+      "https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification"
     ],
     [
-      "EU age verification app to ban any Android system not licensed by Google",
+      "Redditor Speculates that EU age verification app to ban any Android system not licensed by Google",
       "https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 07:25:58",
-      "https://lobste.rs/s/jfixfr/ultimate_meeting_culture"
-    ],
-    [
-      "The ultimate meeting culture",
-      "https://abitmighty.com/posts/the-ultimate-meeting-culture"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "TIL: Exception.add_note",
       "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
+    ]
+  ],
+  [
+    [
+      "2025-07-27, 18:15:00",
+      "https://lobste.rs/s/zqlhys/printsim_command_line_python_program"
+    ],
+    [
+      "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
+      "https://github.com/dannyboy1996/printSim"
     ]
   ],
   [
