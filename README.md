@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 * [2025-07-28, 14:21:42](https://lobste.rs/s/iesijl/following_up_on_python_jit) - [Following up on the Python JIT](https://lwn.net/Articles/1029307/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 * [2025-07-28, 12:06:27](https://lobste.rs/s/jdd06m/no_moar_cookies) - [No moar cookies](https://paretosecurity.com/blog/no-moar-cookies/)
@@ -17,7 +18,6 @@
 * [2025-07-28, 05:16:26](https://lobste.rs/s/r6rbyk/multiplex_command_line_process) - [multiplex: Command-line process mutliplexer](https://github.com/sebastien/multiplex)
 * [2025-07-28, 03:27:34](https://lobste.rs/s/zqinhx/programming_languages_application) - [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org)
 * [2025-07-28, 00:18:58](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds) - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
-* [2025-07-27, 22:07:07](https://lobste.rs/s/obwtbz/designing_flatpack_bed) - [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:02:28](https://lobste.rs/s/0hadx0/how_i_hacked_my_washing_machine) - [How I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
 * [2025-07-27, 19:13:03](https://lobste.rs/s/ehq72u/revontuli_colorscheme_collection) - [Revontuli Colorscheme Collection](https://codeberg.org/akselmo/Revontuli)
 * [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
