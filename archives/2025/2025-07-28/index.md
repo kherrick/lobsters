@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 19:01:46](https://lobste.rs/s/hffqyh/bevy_production_building_modeling_at) - [Bevy in Production: Building Modeling at Metabuild](https://www.youtube.com/watch?v=16r9plbAhXo)
 * [2025-07-28, 18:03:34](https://lobste.rs/s/regzyw/giving_benchmarks_boat) - [Giving Benchmarks a Boat](https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/)
 * [2025-07-28, 17:00:38](https://lobste.rs/s/nled17/jeopardy_world) - [Jeopardy! world](https://hauleth.dev/post/jeopardy-world/)
 * [2025-07-28, 16:40:29](https://lobste.rs/s/gtvleu/sploitlight_analyzing_spotlight_based) - [Sploitlight: Analyzing a Spotlight-based macOS TCC vulnerability](https://www.microsoft.com/en-us/security/blog/2025/07/28/sploitlight-analyzing-a-spotlight-based-macos-tcc-vulnerability/)
