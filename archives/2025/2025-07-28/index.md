@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 14:21:42](https://lobste.rs/s/iesijl/following_up_on_python_jit) - [Following up on the Python JIT](https://lwn.net/Articles/1029307/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 * [2025-07-28, 12:06:27](https://lobste.rs/s/jdd06m/no_moar_cookies) - [No moar cookies](https://paretosecurity.com/blog/no-moar-cookies/)
 * [2025-07-28, 10:34:30](https://lobste.rs/s/mjb8t3/mask_off_moment_for_digital_identity) - [The Mask-Off Moment for Digital Identity](https://newdesigncongress.org/en/note/2025/the-mask-off-moment-for-digital-identity/)
