@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-28, 05:40:42",
+      "https://lobste.rs/s/eqmttb/trane"
+    ],
+    [
+      "[trane]",
+      "https://lisp.trane.studio/?tutor"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 05:16:26",
+      "https://lobste.rs/s/r6rbyk/multiplex_command_line_process"
+    ],
+    [
+      "multiplex: Command-line process mutliplexer",
+      "https://github.com/sebastien/multiplex"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 03:27:34",
       "https://lobste.rs/s/zqinhx/programming_languages_application"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-07-27, 12:22:35",
-      "https://lobste.rs/s/uajkl0/overhaul_harnessing_automation_for_c"
-    ],
-    [
-      "OverHAuL: Harnessing Automation for C Libraries with Large Language Models",
-      "https://kchousos.github.io/BSc-Thesis/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 12:22:19",
       "https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun"
     ],
@@ -147,16 +157,6 @@
     [
       "Specials (2021)",
       "https://www.brendangregg.com/specials.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 03:37:12",
-      "https://lobste.rs/s/xtxvyd/fast_cheap_bulk_storage_using_lvm_cache"
-    ],
-    [
-      "Fast and cheap bulk storage: using LVM to cache HDDs on SSDs",
-      "https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/"
     ]
   ],
   [
