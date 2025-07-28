@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/eu_age_verification_app_ban_any_android) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
 * [2025-07-28, 07:25:58](https://lobste.rs/s/jfixfr/ultimate_meeting_culture) - [The ultimate meeting culture](https://abitmighty.com/posts/the-ultimate-meeting-culture)
 * [2025-07-28, 06:39:26](https://lobste.rs/s/yornw7/many_javascript_runtimes_last_decade) - [The many JavaScript runtimes of the last decade](https://buttondown.com/whatever_jamie/archive/the-many-many-many-javascript-runtimes-of-the-last-decade/)
 * [2025-07-28, 06:28:23](https://lobste.rs/s/4clcyb/yalep_micro_language_based_on_lean_for) - [Yalep - Micro language based on Lean for teaching mathematical high-school proofs](https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep)
@@ -23,7 +24,6 @@
 * [2025-07-27, 00:23:12](https://lobste.rs/s/hhcapy/getting_decent_error_reports_bash_when) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-26, 23:05:15](https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent) - [Wren - a small, fast, class-based concurrent scripting language](https://github.com/wren-lang/wren)
 * [2025-07-26, 21:57:06](https://lobste.rs/s/juw6wz/resizable_structs_zig) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
-* [2025-07-26, 21:04:12](https://lobste.rs/s/stness/test_results_for_amd_zen_5) - [Test results for AMD Zen 5](https://www.agner.org/forum/viewtopic.php?t=287&start=11)
 * [2025-07-26, 09:01:51](https://lobste.rs/s/zditcp/it_s_time_for_modern_css_kill_spa) - [It's time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
 
 ## [Archives](archives/index.md)
