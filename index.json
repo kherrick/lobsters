@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-28, 08:22:10",
+      "https://lobste.rs/s/8reksn/bard_shell"
+    ],
+    [
+      "The Bard and The Shell",
+      "https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 08:06:01",
+      "https://lobste.rs/s/roq3jq/bringing_together_clazy_clang_tidy"
+    ],
+    [
+      "Bringing together Clazy and Clang-Tidy",
+      "https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 07:41:11",
       "https://lobste.rs/s/zs2xhp/eu_age_verification_app_ban_any_android"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-07-27, 06:50:04",
-      "https://lobste.rs/s/8tscsv/specials_2021"
-    ],
-    [
-      "Specials (2021)",
-      "https://www.brendangregg.com/specials.html"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 00:23:12",
       "https://lobste.rs/s/hhcapy/getting_decent_error_reports_bash_when"
     ],
@@ -237,16 +247,6 @@
     [
       "Resizable structs in Zig",
       "https://tristanpemble.com/resizable-structs-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 09:01:51",
-      "https://lobste.rs/s/zditcp/it_s_time_for_modern_css_kill_spa"
-    ],
-    [
-      "It's time for modern CSS to kill the SPA",
-      "https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/"
     ]
   ]
 ]
