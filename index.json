@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-28, 14:21:42",
+      "https://lobste.rs/s/iesijl/following_up_on_python_jit"
+    ],
+    [
+      "Following up on the Python JIT",
+      "https://lwn.net/Articles/1029307/"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 13:05:37",
       "https://lobste.rs/s/r44lr9/ai_tool_i_find_useful"
     ],
@@ -77,16 +87,6 @@
     [
       "The Bard and The Shell",
       "https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 08:06:01",
-      "https://lobste.rs/s/roq3jq/bringing_together_clazy_clang_tidy"
-    ],
-    [
-      "Bringing together Clazy and Clang-Tidy",
-      "https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html"
     ]
   ],
   [
