@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-07-28, 19:01:46](https://lobste.rs/s/hffqyh/bevy_production_building_modeling_at) - [Bevy in Production: Building Modeling at Metabuild](https://www.youtube.com/watch?v=16r9plbAhXo)
+* [2025-07-28, 18:03:34](https://lobste.rs/s/regzyw/giving_benchmarks_boat) - [Giving Benchmarks a Boat](https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/)
 * [2025-07-28, 17:00:38](https://lobste.rs/s/nled17/jeopardy_world) - [Jeopardy! world](https://hauleth.dev/post/jeopardy-world/)
 * [2025-07-28, 16:36:43](https://lobste.rs/s/bf8a5i/from_xml_json_cbor) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
 * [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
@@ -17,7 +18,6 @@
 * [2025-07-28, 06:28:23](https://lobste.rs/s/4clcyb/yalep_micro_language_based_on_lean_for) - [Yalep - Micro language based on Lean for teaching mathematical high-school proofs](https://gricad-gitlab.univ-grenoble-alpes.fr/yalep/Yalep)
 * [2025-07-28, 06:21:15](https://lobste.rs/s/p4ufsf/llvm_integrated_assembler_engineering) - [LLVM integrated assembler: Engineering better fragments](https://maskray.me/blog/2025-07-27-llvm-integrated-assembler-engineering-better-fragments)
 * [2025-07-28, 05:40:42](https://lobste.rs/s/eqmttb/trane) - [[trane]](https://lisp.trane.studio/?tutor)
-* [2025-07-28, 05:16:26](https://lobste.rs/s/r6rbyk/multiplex_command_line_process) - [multiplex: Command-line process mutliplexer](https://github.com/sebastien/multiplex)
 * [2025-07-28, 03:27:34](https://lobste.rs/s/zqinhx/programming_languages_application) - [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org)
 * [2025-07-28, 00:18:58](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds) - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 21:02:28](https://lobste.rs/s/0hadx0/how_i_hacked_my_washing_machine) - [How I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
