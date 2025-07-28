@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 10:13:07](https://lobste.rs/s/bwpn8i/simd_within_register_how_i_doubled_hash) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
+* [2025-07-28, 10:10:41](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week)
+* [2025-07-28, 10:02:36](https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 08:40:07](https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio) - [Dynamic Phase Alignment in Audio](https://www.youtube.com/watch?v=JNCVj_RtdZw)
 * [2025-07-28, 08:22:10](https://lobste.rs/s/8reksn/bard_shell) - [The Bard and The Shell](https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/)
 * [2025-07-28, 08:06:01](https://lobste.rs/s/roq3jq/bringing_together_clazy_clang_tidy) - [Bringing together Clazy and Clang-Tidy](https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html)
