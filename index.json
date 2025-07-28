@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-07-28, 10:13:07",
+      "https://lobste.rs/s/bwpn8i/simd_within_register_how_i_doubled_hash"
+    ],
+    [
+      "SIMD Within a Register: How I Doubled Hash Table Lookup Performance",
+      "https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 10:10:41",
+      "https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 10:02:36",
+      "https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your"
+    ],
+    [
+      "How to Make Websites That Will Require Lots of Your Time and Energy",
+      "https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 08:40:07",
       "https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-07-27, 20:33:06",
-      "https://lobste.rs/s/kwgrnv/certificate_transparency_part_1"
-    ],
-    [
-      "Certificate Transparency - Part 1",
-      "https://ipng.ch/s/articles/2025/07/26/certificate-transparency-part-1/"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 20:12:16",
       "https://lobste.rs/s/spfpn6/formal_specs_as_sets_behaviors"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-07-27, 09:53:03",
-      "https://lobste.rs/s/rgqxgn/llms_are_bad_at_returning_code_json"
-    ],
-    [
-      "LLMs are bad at returning code in JSON",
-      "https://aider.chat/2024/08/14/code-in-json.html"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 06:54:49",
       "https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick"
     ],
     [
       "Development shells with Nix: four quick examples",
       "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 00:23:12",
-      "https://lobste.rs/s/hhcapy/getting_decent_error_reports_bash_when"
-    ],
-    [
-      "Getting decent error reports in Bash when you're using 'set -e'",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports"
     ]
   ],
   [
