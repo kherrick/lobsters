@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-28, 10:34:30",
+      "https://lobste.rs/s/mjb8t3/mask_off_moment_for_digital_identity"
+    ],
+    [
+      "The Mask-Off Moment for Digital Identity",
+      "https://newdesigncongress.org/en/note/2025/the-mask-off-moment-for-digital-identity/"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 10:13:07",
       "https://lobste.rs/s/bwpn8i/simd_within_register_how_i_doubled_hash"
     ],
@@ -197,16 +207,6 @@
     [
       "TIL: Exception.add_note",
       "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 18:15:00",
-      "https://lobste.rs/s/zqlhys/printsim_command_line_python_program"
-    ],
-    [
-      "printSim: a command-line python program that turns gcode into realistic 3d printer sound",
-      "https://github.com/dannyboy1996/printSim"
     ]
   ],
   [
