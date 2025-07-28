@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-28, 16:40:29",
+      "https://lobste.rs/s/gtvleu/sploitlight_analyzing_spotlight_based"
+    ],
+    [
+      "Sploitlight: Analyzing a Spotlight-based macOS TCC vulnerability",
+      "https://www.microsoft.com/en-us/security/blog/2025/07/28/sploitlight-analyzing-a-spotlight-based-macos-tcc-vulnerability/"
+    ]
+  ],
+  [
+    [
+      "2025-07-28, 16:36:43",
+      "https://lobste.rs/s/bf8a5i/from_xml_json_cbor"
+    ],
+    [
+      "From XML to JSON to CBOR",
+      "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
+    ]
+  ],
+  [
+    [
       "2025-07-28, 16:18:45",
       "https://lobste.rs/s/bqwfhe/on_designing_application_uis_for"
     ],
@@ -77,16 +97,6 @@
     [
       "Approve merge requests with your eyes closed",
       "https://blog.jse.li/posts/approval/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 08:40:07",
-      "https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio"
-    ],
-    [
-      "Dynamic Phase Alignment in Audio",
-      "https://www.youtube.com/watch?v=JNCVj_RtdZw"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Development shells with Nix: four quick examples",
       "https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/"
-    ]
-  ],
-  [
-    [
-      "2025-07-26, 23:05:15",
-      "https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent"
-    ],
-    [
-      "Wren - a small, fast, class-based concurrent scripting language",
-      "https://github.com/wren-lang/wren"
     ]
   ]
 ]
