@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-28](index.md)
 
+* [2025-07-28, 08:40:07](https://lobste.rs/s/xnsza0/dynamic_phase_alignment_audio) - [Dynamic Phase Alignment in Audio](https://www.youtube.com/watch?v=JNCVj_RtdZw)
 * [2025-07-28, 08:22:10](https://lobste.rs/s/8reksn/bard_shell) - [The Bard and The Shell](https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/)
 * [2025-07-28, 08:06:01](https://lobste.rs/s/roq3jq/bringing_together_clazy_clang_tidy) - [Bringing together Clazy and Clang-Tidy](https://alex1701c.github.io/2025/07/27/clazy-clangtidy.html)
 * [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/eu_age_verification_app_ban_any_android) - [EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
