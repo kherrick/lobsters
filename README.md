@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-28, 03:27:34](https://lobste.rs/s/zqinhx/programming_languages_application) - [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org)
 * [2025-07-28, 00:18:58](https://lobste.rs/s/hua8nl/enough_ai_copilots_we_need_ai_huds) - [Enough AI copilots! We need AI HUDs](https://www.geoffreylitt.com/2025/07/27/enough-ai-copilots-we-need-ai-huds)
 * [2025-07-27, 22:07:07](https://lobste.rs/s/obwtbz/designing_flatpack_bed) - [Designing a flatpack bed](https://kevinlynagh.com/newsletter/2025_07_flatpack/)
 * [2025-07-27, 21:02:28](https://lobste.rs/s/0hadx0/how_i_hacked_my_washing_machine) - [How I hacked my washing machine](https://nexy.blog/2025/07/27/how-i-hacked-my-washing-machine/)
@@ -15,7 +16,6 @@
 * [2025-07-27, 06:54:49](https://lobste.rs/s/lfovd1/development_shells_with_nix_four_quick) - [Development shells with Nix: four quick examples](https://michael.stapelberg.ch/posts/2025-07-27-dev-shells-with-nix-4-quick-examples/)
 * [2025-07-27, 06:50:04](https://lobste.rs/s/8tscsv/specials_2021) - [Specials (2021)](https://www.brendangregg.com/specials.html)
 * [2025-07-27, 03:37:12](https://lobste.rs/s/xtxvyd/fast_cheap_bulk_storage_using_lvm_cache) - [Fast and cheap bulk storage: using LVM to cache HDDs on SSDs](https://quantum5.ca/2025/05/11/fast-cheap-bulk-storage-using-lvm-to-cache-hdds-on-ssds/)
-* [2025-07-27, 00:31:13](https://lobste.rs/s/og1pru/how_configure_x11_simple_way) - [How to configure X11 in a simple way](https://eugene-andrienko.com/en/it/2025/07/24/x11-configuration-simple.html)
 * [2025-07-27, 00:23:12](https://lobste.rs/s/hhcapy/getting_decent_error_reports_bash_when) - [Getting decent error reports in Bash when you're using 'set -e'](https://utcc.utoronto.ca/~cks/space/blog/programming/BashGoodSetEReports)
 * [2025-07-26, 23:05:15](https://lobste.rs/s/u1dhre/wren_small_fast_class_based_concurrent) - [Wren - a small, fast, class-based concurrent scripting language](https://github.com/wren-lang/wren)
 * [2025-07-26, 21:57:06](https://lobste.rs/s/juw6wz/resizable_structs_zig) - [Resizable structs in Zig](https://tristanpemble.com/resizable-structs-in-zig/)
