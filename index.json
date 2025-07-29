@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 16:18:17",
+      "https://lobste.rs/s/qndrwj/kernelscript_dsl_for_ebpf_centric"
+    ],
+    [
+      "KernelScript: DSL for eBPF-Centric Development",
+      "https://github.com/multikernel/kernelscript"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 16:07:13",
       "https://lobste.rs/s/jyq5hg/2025_stack_overflow_developer_survey"
     ],
@@ -45,7 +55,7 @@
       "https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9"
     ],
     [
-      "Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants - CNX Software",
+      "Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants",
       "https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/"
     ]
   ],
@@ -167,16 +177,6 @@
     [
       "I designed my own ridiculously fast game streaming video codec",
       "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 19:01:46",
-      "https://lobste.rs/s/hffqyh/bevy_production_building_modeling_at"
-    ],
-    [
-      "Bevy in Production: Building Modeling at Metabuild",
-      "https://www.youtube.com/watch?v=16r9plbAhXo"
     ]
   ],
   [
