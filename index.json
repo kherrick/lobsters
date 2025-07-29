@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 19:36:02",
+      "https://lobste.rs/s/xdw1ns/typechecking_is_undecidable_when_type_is"
+    ],
+    [
+      "Typechecking Is Undecidable When 'Type' Is a Type",
+      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 19:15:24",
       "https://lobste.rs/s/uketwa/artificial_intelligence_linux"
     ],
@@ -197,16 +207,6 @@
     [
       "I designed my own ridiculously fast game streaming video codec",
       "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 16:36:43",
-      "https://lobste.rs/s/bf8a5i/from_xml_json_cbor"
-    ],
-    [
-      "From XML to JSON to CBOR",
-      "https://cborbook.com/introduction/from_xml_to_json_to_cbor.html"
     ]
   ],
   [
