@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 15:04:22](https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9) - [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants - CNX Software](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/)
 * [2025-07-29, 13:58:08](https://lobste.rs/s/4n7281/rules_derive_deriving_using_macro_rules) - [rules_derive: deriving using macro_rules](https://matx.com/research/rules_derive)
 * [2025-07-29, 13:14:41](https://lobste.rs/s/wd6fhe/ethersync_peer_peer_collaborative) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
 * [2025-07-29, 12:03:14](https://lobste.rs/s/dp1rdd/i_m_never_going_back_matrix) - [I'm never going back to Matrix](https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/)
