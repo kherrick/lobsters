@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
 * [2025-07-29, 15:30:34](https://lobste.rs/s/xqdty6/pretty_nice_web_framwork) - [A pretty nice web framwork](https://github.com/blaix/prettynice)
 * [2025-07-29, 15:19:09](https://lobste.rs/s/rsdies/advanced_rust_macros_with_derive_deftly) - [Advanced Rust macros with derive-deftly](https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/)
 * [2025-07-29, 15:04:22](https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9) - [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants - CNX Software](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/)
