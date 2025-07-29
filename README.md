@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-29, 03:49:02](https://lobste.rs/s/1sigov/weather_model_based_on_ads_b) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
 * [2025-07-29, 02:48:01](https://lobste.rs/s/jrippd/contraction_hierarchies_hmc_clinic) - [Contraction Hierarchies: HMC Clinic Project Recap](https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic)
 * [2025-07-29, 01:36:21](https://lobste.rs/s/pkfax4/tandy_color_computer_1_composite_video) - [Tandy Color Computer 1 composite video](https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html)
@@ -9,7 +10,6 @@
 * [2025-07-28, 19:01:46](https://lobste.rs/s/hffqyh/bevy_production_building_modeling_at) - [Bevy in Production: Building Modeling at Metabuild](https://www.youtube.com/watch?v=16r9plbAhXo)
 * [2025-07-28, 18:03:34](https://lobste.rs/s/regzyw/giving_benchmarks_boat) - [Giving Benchmarks a Boat](https://buttondown.com/jaffray/archive/giving-benchmarks-a-boat/)
 * [2025-07-28, 17:00:38](https://lobste.rs/s/nled17/jeopardy_world) - [Jeopardy! world](https://hauleth.dev/post/jeopardy-world/)
-* [2025-07-28, 16:36:43](https://lobste.rs/s/bf8a5i/from_xml_json_cbor) - [From XML to JSON to CBOR](https://cborbook.com/introduction/from_xml_to_json_to_cbor.html)
 * [2025-07-28, 16:29:27](https://lobste.rs/s/59sgaj/testing_gcc_based_rust_compiler_backend) - [Testing the GCC-based Rust compiler(backend)](https://fractalfir.github.io/generated_html/cg_gcc_bootstrap_2.html)
 * [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 * [2025-07-28, 14:21:42](https://lobste.rs/s/iesijl/following_up_on_python_jit) - [Following up on the Python JIT](https://lwn.net/Articles/1029307/)
