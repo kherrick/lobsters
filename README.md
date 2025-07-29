@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-29, 07:40:24](https://lobste.rs/s/khuqm7/make_your_own_backup_system_part_2_forging) - [Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold](https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/)
 * [2025-07-29, 03:49:02](https://lobste.rs/s/1sigov/weather_model_based_on_ads_b) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
 * [2025-07-29, 02:48:01](https://lobste.rs/s/jrippd/contraction_hierarchies_hmc_clinic) - [Contraction Hierarchies: HMC Clinic Project Recap](https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic)
@@ -17,7 +18,6 @@
 * [2025-07-28, 12:06:27](https://lobste.rs/s/jdd06m/no_moar_cookies) - [No moar cookies](https://paretosecurity.com/blog/no-moar-cookies/)
 * [2025-07-28, 10:13:07](https://lobste.rs/s/bwpn8i/simd_within_register_how_i_doubled_hash) - [SIMD Within a Register: How I Doubled Hash Table Lookup Performance](https://maltsev.space/blog/012-simd-within-a-register-how-i-doubled-hash-table-lookup-performance)
 * [2025-07-28, 10:10:41](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2ftfd1/what_are_you_doing_this_week)
-* [2025-07-28, 10:02:36](https://lobste.rs/s/gzsg8m/how_make_websites_will_require_lots_your) - [How to Make Websites That Will Require Lots of Your Time and Energy](https://blog.jim-nielsen.com/2025/how-to-make-websites-that-require-lots-of-time-and-energy/)
 * [2025-07-28, 08:22:10](https://lobste.rs/s/8reksn/bard_shell) - [The Bard and The Shell](https://journal.bsd.cafe/2025/07/28/the-bard-and-the-shell/)
 * [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification) - [Redditor Speculates that EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
 * [2025-07-28, 05:40:42](https://lobste.rs/s/eqmttb/trane) - [[trane]](https://lisp.trane.studio/?tutor)
