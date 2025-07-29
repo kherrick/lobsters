@@ -6,4 +6,5 @@
 
 * [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
 * [2025-07-29, 02:48:01](https://lobste.rs/s/jrippd/contraction_hierarchies_hmc_clinic) - [Contraction Hierarchies: HMC Clinic Project Recap](https://blog.appliedcomputing.io/p/contraction-hierarchies-hmc-clinic)
+* [2025-07-29, 01:36:21](https://lobste.rs/s/pkfax4/tandy_color_computer_1_composite_video) - [Tandy Color Computer 1 composite video](https://www.leadedsolder.com/2025/07/15/tandy-trs80-coco-composite-mod-aquarius.html)
 * [2025-07-29, 00:51:24](https://lobste.rs/s/trvu9n/identity_behaviour) - [Identity and behaviour](https://ismaelcelis.com/posts/2025-07-identity-and-behaviour/)
