@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 11:43:17](https://lobste.rs/s/umbpkk/debugging_pixel_8_kernel_via_kgdb) - [Debugging the Pixel 8 kernel via KGDB](https://xairy.io/articles/pixel-kgdb)
 * [2025-07-29, 11:21:54](https://lobste.rs/s/mygrq6/loading_credentials_from_bitwarden_with) - [Loading credentials from Bitwarden with direnv](https://ergaster.org/posts/2025/07/28-direnv-bitwarden-integration/)
 * [2025-07-29, 10:24:11](https://lobste.rs/s/4ns2of/useless_usecallback) - [The Useless useCallback](https://tkdodo.eu/blog/the-useless-use-callback)
 * [2025-07-29, 07:40:24](https://lobste.rs/s/khuqm7/make_your_own_backup_system_part_2_forging) - [Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold](https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/)
