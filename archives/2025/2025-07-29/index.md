@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 21:09:03](https://lobste.rs/s/ctjdsh/eskil_steenberg_i_ve_had_it_with_security) - [Eskil Steenberg – I've had it with the security orthodoxy](https://www.youtube.com/watch?v=SbeNRICgzTA)
 * [2025-07-29, 19:36:02](https://lobste.rs/s/xdw1ns/typechecking_is_undecidable_when_type_is) - [Typechecking Is Undecidable When 'Type' Is a Type](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
 * [2025-07-29, 19:15:24](https://lobste.rs/s/uketwa/artificial_intelligence_linux) - [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/)
 * [2025-07-29, 18:13:50](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like) - [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/)
