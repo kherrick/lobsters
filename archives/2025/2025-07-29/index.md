@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 10:24:11](https://lobste.rs/s/4ns2of/useless_usecallback) - [The Useless useCallback](https://tkdodo.eu/blog/the-useless-use-callback)
 * [2025-07-29, 07:40:24](https://lobste.rs/s/khuqm7/make_your_own_backup_system_part_2_forging) - [Make Your Own Backup System – Part 2: Forging the FreeBSD Backup Stronghold](https://it-notes.dragas.net/2025/07/29/make-your-own-backup-system-part-2-forging-the-freebsd-backup-stronghold/)
 * [2025-07-29, 03:49:02](https://lobste.rs/s/1sigov/weather_model_based_on_ads_b) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
