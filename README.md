@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-29, 15:30:34](https://lobste.rs/s/xqdty6/pretty_nice_web_framwork) - [A pretty nice web framwork](https://github.com/blaix/prettynice)
+* [2025-07-29, 15:19:09](https://lobste.rs/s/rsdies/advanced_rust_macros_with_derive_deftly) - [Advanced Rust macros with derive-deftly](https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/)
 * [2025-07-29, 15:04:22](https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9) - [Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants - CNX Software](https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/)
 * [2025-07-29, 13:58:08](https://lobste.rs/s/4n7281/rules_derive_deriving_using_macro_rules) - [rules_derive: deriving using macro_rules](https://matx.com/research/rules_derive)
 * [2025-07-29, 13:14:41](https://lobste.rs/s/wd6fhe/ethersync_peer_peer_collaborative) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
@@ -22,9 +24,7 @@
 * [2025-07-28, 12:06:27](https://lobste.rs/s/jdd06m/no_moar_cookies) - [No moar cookies](https://paretosecurity.com/blog/no-moar-cookies/)
 * [2025-07-28, 07:41:11](https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification) - [Redditor Speculates that EU age verification app to ban any Android system not licensed by Google](https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/)
 * [2025-07-28, 05:40:42](https://lobste.rs/s/eqmttb/trane) - [[trane]](https://lisp.trane.studio/?tutor)
-* [2025-07-28, 03:27:34](https://lobste.rs/s/zqinhx/programming_languages_application) - [Programming Languages: Application and Interpretation (3rd edition)](https://www.plai.org)
 * [2025-07-27, 19:01:16](https://lobste.rs/s/jqm47i/til_exception_add_note) - [TIL: Exception.add_note](https://daniel.feldroy.com/posts/til-2025-05-exception-add_note)
-* [2025-07-27, 12:22:19](https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun) - [The JJ VCS Workshop: A Zero-to-Hero Speedrun](https://github.com/jkoppel/jj-workshop)
 
 ## [Archives](archives/index.md)
 
