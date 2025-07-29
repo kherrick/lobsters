@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 19:15:24](https://lobste.rs/s/uketwa/artificial_intelligence_linux) - [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/)
 * [2025-07-29, 18:13:50](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like) - [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/)
 * [2025-07-29, 16:52:49](https://lobste.rs/s/aqbs3w/this_was_not_really_quite_simple_building) - [This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft](https://www.youtube.com/watch?v=lebdqAN1pd8)
 * [2025-07-29, 16:18:17](https://lobste.rs/s/qndrwj/kernelscript_dsl_for_ebpf_centric) - [KernelScript: DSL for eBPF-Centric Development](https://github.com/multikernel/kernelscript)
