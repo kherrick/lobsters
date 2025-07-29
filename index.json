@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-29, 15:30:34",
+      "https://lobste.rs/s/xqdty6/pretty_nice_web_framwork"
+    ],
+    [
+      "A pretty nice web framwork",
+      "https://github.com/blaix/prettynice"
+    ]
+  ],
+  [
+    [
+      "2025-07-29, 15:19:09",
+      "https://lobste.rs/s/rsdies/advanced_rust_macros_with_derive_deftly"
+    ],
+    [
+      "Advanced Rust macros with derive-deftly",
+      "https://diziet.pages.torproject.net/rust-derive-deftly/latest/guide/"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 15:04:22",
       "https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-07-28, 03:27:34",
-      "https://lobste.rs/s/zqinhx/programming_languages_application"
-    ],
-    [
-      "Programming Languages: Application and Interpretation (3rd edition)",
-      "https://www.plai.org"
-    ]
-  ],
-  [
-    [
       "2025-07-27, 19:01:16",
       "https://lobste.rs/s/jqm47i/til_exception_add_note"
     ],
     [
       "TIL: Exception.add_note",
       "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 12:22:19",
-      "https://lobste.rs/s/m8ytbz/jj_vcs_workshop_zero_hero_speedrun"
-    ],
-    [
-      "The JJ VCS Workshop: A Zero-to-Hero Speedrun",
-      "https://github.com/jkoppel/jj-workshop"
     ]
   ]
 ]
