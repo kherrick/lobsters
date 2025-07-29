@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-29](index.md)
 
+* [2025-07-29, 16:52:49](https://lobste.rs/s/aqbs3w/this_was_not_really_quite_simple_building) - [This Was Not Really Quite Simple: Building a Redstone Calculator in Minecraft](https://www.youtube.com/watch?v=lebdqAN1pd8)
 * [2025-07-29, 16:18:17](https://lobste.rs/s/qndrwj/kernelscript_dsl_for_ebpf_centric) - [KernelScript: DSL for eBPF-Centric Development](https://github.com/multikernel/kernelscript)
 * [2025-07-29, 16:07:13](https://lobste.rs/s/jyq5hg/2025_stack_overflow_developer_survey) - [2025 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2025/)
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
