@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-29, 16:07:13",
+      "https://lobste.rs/s/jyq5hg/2025_stack_overflow_developer_survey"
+    ],
+    [
+      "2025 Stack Overflow Developer Survey",
+      "https://survey.stackoverflow.co/2025/"
+    ]
+  ],
+  [
+    [
       "2025-07-29, 15:44:51",
       "https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal"
     ],
@@ -237,16 +247,6 @@
     [
       "[trane]",
       "https://lisp.trane.studio/?tutor"
-    ]
-  ],
-  [
-    [
-      "2025-07-27, 19:01:16",
-      "https://lobste.rs/s/jqm47i/til_exception_add_note"
-    ],
-    [
-      "TIL: Exception.add_note",
-      "https://daniel.feldroy.com/posts/til-2025-05-exception-add_note"
     ]
   ]
 ]
