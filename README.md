@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-30, 17:53:25](https://lobste.rs/s/gyzvmq/always_bet_on_text_2014) - [always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
 * [2025-07-30, 17:33:32](https://lobste.rs/s/fb9hgm/interacting_with_text_adventures) - [Interacting With Text Adventures Through Perl](https://entropicthoughts.com/interacting-with-text-adventures-through-perl)
 * [2025-07-30, 16:25:12](https://lobste.rs/s/z7fb8w/crush_glamourous_ai_coding_agent_for_your) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:08:44](https://lobste.rs/s/aew8tt/why_we_need_know_lr_recursive_descent) - [Why We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
@@ -11,7 +12,6 @@
 * [2025-07-30, 14:02:15](https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust) - [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now)
 * [2025-07-30, 13:26:10](https://lobste.rs/s/p9axqd/rfc_862_echo_protocol) - [RFC 862: Echo Protocol](https://datatracker.ietf.org/doc/html/rfc862)
 * [2025-07-30, 13:05:22](https://lobste.rs/s/uyudor/optimize_cpu_performance_with) - [Optimize CPU performance with Instruments](https://developer.apple.com/videos/play/wwdc2025/308/)
-* [2025-07-30, 11:43:01](https://lobste.rs/s/wdbnkt/taming_bias_unbiased_safepoint_based) - [Taming the Bias: Unbiased* Safepoint-Based Stack Walking in JFR](https://mostlynerdless.de/blog/2025/05/20/taming-the-bias-unbiased-safepoint-based-stack-walking-in-jfr/)
 * [2025-07-30, 11:02:23](https://lobste.rs/s/nadv6h/activity_monitor_anatomy) - [Activity Monitor Anatomy](https://www.bazhenov.me/posts/activity-monitor-anatomy/)
 * [2025-07-30, 10:03:14](https://lobste.rs/s/iubohk/phoenix_liveview_v1_1_0) - [Phoenix LiveView v1.1.0](https://hexdocs.pm/phoenix_live_view/changelog.html)
 * [2025-07-30, 07:41:55](https://lobste.rs/s/2qrwtx/nadim_kobeissi_s_applied_cryptography) - [Nadim Kobeissi's Applied Cryptography Course](https://www.youtube.com/watch?v=z6kK7rIbyB0)
