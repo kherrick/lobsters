@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 15:50:48](https://lobste.rs/s/scar6u/verified_assembly_2_memory_risc_v_cuts_for) - [Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code](https://www.philipzucker.com/asm_verify2/)
 * [2025-07-30, 15:42:49](https://lobste.rs/s/k1jqch/html_day_2025_august_2nd) - [HTML Day 2025: August 2nd](https://html.energy/html-day/2025/index.html)
 * [2025-07-30, 15:33:35](https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri) - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623)
 * [2025-07-30, 15:26:16](https://lobste.rs/s/eqbygf/state_html_2025_survey) - [State of HTML 2025 survey](https://survey.devographics.com/en-US/survey/state-of-html/2025)
