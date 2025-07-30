@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-30, 14:21:06",
+      "https://lobste.rs/s/jiqu0t/opsqueue_lightweight_batch_processing"
+    ],
+    [
+      "Opsqueue: lightweight batch processing queue for heavy loads",
+      "https://www.channable.com/tech/introducing-opsqueue"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 14:02:15",
+      "https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust"
+    ],
+    [
+      "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
+      "https://yeet.cx/blog/you-are-the-bios-now"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 13:26:10",
       "https://lobste.rs/s/p9axqd/rfc_862_echo_protocol"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-07-29, 19:15:24",
-      "https://lobste.rs/s/uketwa/artificial_intelligence_linux"
-    ],
-    [
-      "Artificial Intelligence and the Linux Community",
-      "https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 16:18:17",
       "https://lobste.rs/s/qndrwj/kernelscript_dsl_for_ebpf_centric"
     ],
@@ -237,16 +247,6 @@
     [
       "No more Erlang manuals",
       "https://blog.whenhen.com/posts/no-more-erlang-manuals.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 19:28:17",
-      "https://lobste.rs/s/ucvpt5/i_designed_my_own_ridiculously_fast_game"
-    ],
-    [
-      "I designed my own ridiculously fast game streaming video codec",
-      "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
     ]
   ]
 ]
