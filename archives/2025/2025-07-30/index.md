@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 14:21:06](https://lobste.rs/s/jiqu0t/opsqueue_lightweight_batch_processing) - [Opsqueue: lightweight batch processing queue for heavy loads](https://www.channable.com/tech/introducing-opsqueue)
+* [2025-07-30, 14:02:15](https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust) - [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now)
 * [2025-07-30, 13:26:10](https://lobste.rs/s/p9axqd/rfc_862_echo_protocol) - [RFC 862: Echo Protocol](https://datatracker.ietf.org/doc/html/rfc862)
 * [2025-07-30, 13:05:22](https://lobste.rs/s/uyudor/optimize_cpu_performance_with) - [Optimize CPU performance with Instruments](https://developer.apple.com/videos/play/wwdc2025/308/)
 * [2025-07-30, 11:43:01](https://lobste.rs/s/wdbnkt/taming_bias_unbiased_safepoint_based) - [Taming the Bias: Unbiased* Safepoint-Based Stack Walking in JFR](https://mostlynerdless.de/blog/2025/05/20/taming-the-bias-unbiased-safepoint-based-stack-walking-in-jfr/)
