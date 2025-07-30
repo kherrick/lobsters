@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-30, 17:33:32",
+      "https://lobste.rs/s/fb9hgm/interacting_with_text_adventures"
+    ],
+    [
+      "Interacting With Text Adventures Through Perl",
+      "https://entropicthoughts.com/interacting-with-text-adventures-through-perl"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 16:25:12",
       "https://lobste.rs/s/z7fb8w/crush_glamourous_ai_coding_agent_for_your"
     ],
@@ -47,6 +57,16 @@
     [
       "Agentic Coding Things That Didn’t Work",
       "https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 15:13:43",
+      "https://lobste.rs/s/bhs03m/2000_words_about_arrays_tables"
+    ],
+    [
+      "2000 words about arrays and tables",
+      "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-07-29, 19:36:02",
-      "https://lobste.rs/s/xdw1ns/typechecking_is_undecidable_when_type_is"
-    ],
-    [
-      "Typechecking Is Undecidable When 'Type' Is a Type (1989)",
-      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 16:07:13",
       "https://lobste.rs/s/jyq5hg/2025_stack_overflow_developer_survey"
     ],
@@ -237,16 +247,6 @@
     [
       "I'm never going back to Matrix",
       "https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 02:52:58",
-      "https://lobste.rs/s/vmqywc/no_more_erlang_manuals"
-    ],
-    [
-      "No more Erlang manuals",
-      "https://blog.whenhen.com/posts/no-more-erlang-manuals.html"
     ]
   ]
 ]
