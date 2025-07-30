@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 11:43:01](https://lobste.rs/s/wdbnkt/taming_bias_unbiased_safepoint_based) - [Taming the Bias: Unbiased* Safepoint-Based Stack Walking in JFR](https://mostlynerdless.de/blog/2025/05/20/taming-the-bias-unbiased-safepoint-based-stack-walking-in-jfr/)
 * [2025-07-30, 11:02:23](https://lobste.rs/s/nadv6h/activity_monitor_anatomy) - [Activity Monitor Anatomy](https://www.bazhenov.me/posts/activity-monitor-anatomy/)
 * [2025-07-30, 10:03:14](https://lobste.rs/s/iubohk/phoenix_liveview_v1_1_0) - [Phoenix LiveView v1.1.0](https://hexdocs.pm/phoenix_live_view/changelog.html#moving-from-floki-to-lazyhtml)
 * [2025-07-30, 07:41:55](https://lobste.rs/s/2qrwtx/nadim_kobeissi_s_applied_cryptography) - [Nadim Kobeissi's Applied Cryptography Course](https://www.youtube.com/watch?v=z6kK7rIbyB0)
