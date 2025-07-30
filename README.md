@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-30, 07:15:08](https://lobste.rs/s/70mi93/month_using_xmpp_for_every_call_chat_2023) - [A month using XMPP for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-30, 06:43:00](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic) - [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/)
 * [2025-07-30, 06:16:09](https://lobste.rs/s/ikhfqq/pkgbase_removes_freebsd_base_system) - [PKGBASE Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 * [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-29, 23:29:59](https://lobste.rs/s/6xuupj/php_ort_machine_learning_inference_for) - [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/)
-* [2025-07-29, 21:09:03](https://lobste.rs/s/ctjdsh/eskil_steenberg_i_ve_had_it_with_security) - [Eskil Steenberg – I've had it with the security orthodoxy](https://www.youtube.com/watch?v=SbeNRICgzTA)
 * [2025-07-29, 19:36:02](https://lobste.rs/s/xdw1ns/typechecking_is_undecidable_when_type_is) - [Typechecking Is Undecidable When 'Type' Is a Type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
 * [2025-07-29, 19:15:24](https://lobste.rs/s/uketwa/artificial_intelligence_linux) - [Artificial Intelligence and the Linux Community](https://blogs.gnome.org/uraeus/2025/07/29/artificial-intelligence-and-the-linux-community/)
 * [2025-07-29, 18:13:50](https://lobste.rs/s/qf8rlr/what_does_ai_testing_done_right_look_like) - [What does AI testing done right look like?](https://antithesis.com/blog/2025/ai_testing/)
