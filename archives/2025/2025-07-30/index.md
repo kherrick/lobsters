@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-07-30](index.md)
 
+* [2025-07-30, 15:42:49](https://lobste.rs/s/k1jqch/html_day_2025_august_2nd) - [HTML Day 2025: August 2nd](https://html.energy/html-day/2025/index.html)
+* [2025-07-30, 15:33:35](https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri) - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623)
 * [2025-07-30, 15:26:16](https://lobste.rs/s/eqbygf/state_html_2025_survey) - [State of HTML 2025 survey](https://survey.devographics.com/en-US/survey/state-of-html/2025)
 * [2025-07-30, 15:24:03](https://lobste.rs/s/yd42ea/agentic_coding_things_didn_t_work) - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/)
 * [2025-07-30, 15:23:42](https://lobste.rs/s/fugmjg/making_libcurl_work_webassembly) - [Making libcurl work in webassembly](https://jeroen.github.io/notes/webassembly-curl/)
