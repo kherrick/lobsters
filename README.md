@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-30, 06:16:09](https://lobste.rs/s/ikhfqq/pkgbase_removes_freebsd_base_system) - [PKGBASE Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 * [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-29, 23:29:59](https://lobste.rs/s/6xuupj/php_ort_machine_learning_inference_for) - [PHP-ORT: Machine Learning Inference for the Web](https://krakjoe.github.io/ort/)
@@ -23,7 +24,6 @@
 * [2025-07-29, 03:49:02](https://lobste.rs/s/1sigov/weather_model_based_on_ads_b) - [Weather Model based on ADS-B](https://obrhubr.org/adsb-weather-model)
 * [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
 * [2025-07-28, 19:28:17](https://lobste.rs/s/ucvpt5/i_designed_my_own_ridiculously_fast_game) - [I designed my own ridiculously fast game streaming video codec](https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/)
-* [2025-07-28, 16:18:45](https://lobste.rs/s/bqwfhe/on_designing_application_uis_for) - [On designing application UIs for children](https://shaneosullivan.wordpress.com/2025/07/28/on-designing-for-children/)
 * [2025-07-28, 13:05:37](https://lobste.rs/s/r44lr9/ai_tool_i_find_useful) - [An AI tool I find useful](https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html)
 
 ## [Archives](archives/index.md)
