@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-07-30, 15:26:16",
+      "https://lobste.rs/s/eqbygf/state_html_2025_survey"
+    ],
+    [
+      "State of HTML 2025 survey",
+      "https://survey.devographics.com/en-US/survey/state-of-html/2025"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 15:24:03",
+      "https://lobste.rs/s/yd42ea/agentic_coding_things_didn_t_work"
+    ],
+    [
+      "Agentic Coding Things That Didn’t Work",
+      "https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 15:23:42",
+      "https://lobste.rs/s/fugmjg/making_libcurl_work_webassembly"
+    ],
+    [
+      "Making libcurl work in webassembly",
+      "https://jeroen.github.io/notes/webassembly-curl/"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 15:13:43",
+      "https://lobste.rs/s/bhs03m/2000_words_about_arrays_tables"
+    ],
+    [
+      "2000 words about arrays and tables",
+      "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 14:55:52",
       "https://lobste.rs/s/y5va3r/our_100m_series_b"
     ],
@@ -17,16 +57,6 @@
     [
       "Writing memory efficient C structs",
       "https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 14:21:06",
-      "https://lobste.rs/s/jiqu0t/opsqueue_lightweight_batch_processing"
-    ],
-    [
-      "Opsqueue: lightweight batch processing queue for heavy loads",
-      "https://www.channable.com/tech/introducing-opsqueue"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-07-29, 16:18:17",
-      "https://lobste.rs/s/qndrwj/kernelscript_dsl_for_ebpf_centric"
-    ],
-    [
-      "KernelScript: DSL for eBPF-Centric Development",
-      "https://github.com/multikernel/kernelscript"
-    ]
-  ],
-  [
-    [
       "2025-07-29, 16:07:13",
       "https://lobste.rs/s/jyq5hg/2025_stack_overflow_developer_survey"
     ],
@@ -197,26 +217,6 @@
     [
       "A pretty nice web framework",
       "https://github.com/blaix/prettynice"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 15:04:22",
-      "https://lobste.rs/s/l84fkq/raspberry_pi_rp2350_a4_stepping_fixes_e9"
-    ],
-    [
-      "Raspberry Pi RP2350 A4 stepping fixes E9 GPIO Erratum, glitching bugs, introduces 2MB flash variants",
-      "https://www.cnx-software.com/2025/07/29/raspberry-pi-rp2350-a4-stepping-fixes-e9-gpio-erratum-9-glitching-bugs-introduces-2mb-flash-variants/"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 13:58:08",
-      "https://lobste.rs/s/4n7281/rules_derive_deriving_using_macro_rules"
-    ],
-    [
-      "rules_derive: deriving using macro_rules",
-      "https://matx.com/research/rules_derive"
     ]
   ],
   [
