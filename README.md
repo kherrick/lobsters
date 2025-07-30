@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-30, 19:39:18](https://lobste.rs/s/aqiske/emacs_macos_bug) - [Emacs: The MacOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:58:16](https://lobste.rs/s/7nho3g/dive_into_open_chat_protocols) - [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat)
 * [2025-07-30, 17:53:25](https://lobste.rs/s/gyzvmq/always_bet_on_text_2014) - [always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
 * [2025-07-30, 17:33:32](https://lobste.rs/s/fb9hgm/interacting_with_text_adventures) - [Interacting With Text Adventures Through Perl](https://entropicthoughts.com/interacting-with-text-adventures-through-perl)
@@ -24,7 +25,6 @@
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
 * [2025-07-29, 15:30:34](https://lobste.rs/s/xqdty6/pretty_nice_web_framework) - [A pretty nice web framework](https://github.com/blaix/prettynice)
 * [2025-07-29, 13:14:41](https://lobste.rs/s/wd6fhe/ethersync_peer_peer_collaborative) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
-* [2025-07-29, 12:03:14](https://lobste.rs/s/dp1rdd/i_m_never_going_back_matrix) - [I'm never going back to Matrix](https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/)
 
 ## [Archives](archives/index.md)
 
