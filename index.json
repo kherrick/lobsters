@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-30, 13:26:10",
+      "https://lobste.rs/s/p9axqd/rfc_862_echo_protocol"
+    ],
+    [
+      "RFC 862: Echo Protocol",
+      "https://datatracker.ietf.org/doc/html/rfc862"
+    ]
+  ],
+  [
+    [
+      "2025-07-30, 13:05:22",
+      "https://lobste.rs/s/uyudor/optimize_cpu_performance_with"
+    ],
+    [
+      "Optimize CPU performance with Instruments",
+      "https://developer.apple.com/videos/play/wwdc2025/308/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 11:43:01",
       "https://lobste.rs/s/wdbnkt/taming_bias_unbiased_safepoint_based"
     ],
@@ -87,16 +107,6 @@
     [
       "I want to defend Wayland here and explain a crucial piece that I think people are missing",
       "https://ordinary.cafe/@technobaboo/114935252929285259"
-    ]
-  ],
-  [
-    [
-      "2025-07-29, 23:29:59",
-      "https://lobste.rs/s/6xuupj/php_ort_machine_learning_inference_for"
-    ],
-    [
-      "PHP-ORT: Machine Learning Inference for the Web",
-      "https://krakjoe.github.io/ort/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I designed my own ridiculously fast game streaming video codec",
       "https://themaister.net/blog/2025/06/16/i-designed-my-own-ridiculously-fast-game-streaming-video-codec-pyrowave/"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 13:05:37",
-      "https://lobste.rs/s/r44lr9/ai_tool_i_find_useful"
-    ],
-    [
-      "An AI tool I find useful",
-      "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html"
     ]
   ]
 ]
