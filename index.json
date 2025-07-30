@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-30, 18:58:16",
+      "https://lobste.rs/s/7nho3g/dive_into_open_chat_protocols"
+    ],
+    [
+      "A Dive Into Open Chat Protocols",
+      "https://wiki.alopex.li/ADiveIntoOpenChat"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 17:53:25",
       "https://lobste.rs/s/gyzvmq/always_bet_on_text_2014"
     ],
@@ -97,16 +107,6 @@
     [
       "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
       "https://yeet.cx/blog/you-are-the-bios-now"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 13:26:10",
-      "https://lobste.rs/s/p9axqd/rfc_862_echo_protocol"
-    ],
-    [
-      "RFC 862: Echo Protocol",
-      "https://datatracker.ietf.org/doc/html/rfc862"
     ]
   ],
   [
