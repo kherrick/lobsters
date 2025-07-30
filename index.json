@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-30, 04:56:43",
+      "https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem"
+    ],
+    [
+      "bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks",
+      "https://sr.ht/~cismonx/bookmarkfs/"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 03:53:52",
       "https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain"
     ],
@@ -237,16 +247,6 @@
     [
       "An AI tool I find useful",
       "https://notes.billmill.org/blog/2025/07/An_AI_tool_I_find_useful.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-28, 07:41:11",
-      "https://lobste.rs/s/zs2xhp/redditor_speculates_eu_age_verification"
-    ],
-    [
-      "Redditor Speculates that EU age verification app to ban any Android system not licensed by Google",
-      "https://www.reddit.com/r/degoogle/comments/1mau7yl/eu_age_verification_app_to_ban_any_android_system/"
     ]
   ]
 ]
