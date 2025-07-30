@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-30, 17:33:32](https://lobste.rs/s/fb9hgm/interacting_with_text_adventures) - [Interacting With Text Adventures Through Perl](https://entropicthoughts.com/interacting-with-text-adventures-through-perl)
 * [2025-07-30, 16:25:12](https://lobste.rs/s/z7fb8w/crush_glamourous_ai_coding_agent_for_your) - [Crush: The glamourous AI coding agent for your favourite terminal](https://github.com/charmbracelet/crush)
 * [2025-07-30, 16:08:44](https://lobste.rs/s/aew8tt/why_we_need_know_lr_recursive_descent) - [Why We Need to Know LR and Recursive Descent Parsing Techniques](https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html)
 * [2025-07-30, 15:50:48](https://lobste.rs/s/scar6u/verified_assembly_2_memory_risc_v_cuts_for) - [Verified Assembly 2: Memory, RISC-V, Cuts for Invariants, and Ghost Code](https://www.philipzucker.com/asm_verify2/)
 * [2025-07-30, 15:33:35](https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri) - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623)
 * [2025-07-30, 15:24:03](https://lobste.rs/s/yd42ea/agentic_coding_things_didn_t_work) - [Agentic Coding Things That Didn’t Work](https://lucumr.pocoo.org/2025/7/30/things-that-didnt-work/)
+* [2025-07-30, 15:13:43](https://lobste.rs/s/bhs03m/2000_words_about_arrays_tables) - [2000 words about arrays and tables](https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/)
 * [2025-07-30, 14:44:08](https://lobste.rs/s/mrzwqr/writing_memory_efficient_c_structs) - [Writing memory efficient C structs](https://tomscheers.github.io/2025/07/29/writing-memory-efficient-structs-post.html)
 * [2025-07-30, 14:02:15](https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust) - [You Are The BIOS Now: Building A Hypervisor In Rust With KVM](https://yeet.cx/blog/you-are-the-bios-now)
 * [2025-07-30, 13:26:10](https://lobste.rs/s/p9axqd/rfc_862_echo_protocol) - [RFC 862: Echo Protocol](https://datatracker.ietf.org/doc/html/rfc862)
@@ -18,13 +20,11 @@
 * [2025-07-30, 06:16:09](https://lobste.rs/s/ikhfqq/pkgbase_removes_freebsd_base_system) - [PKGBASE Removes FreeBSD Base System Feature](https://lists.freebsd.org/archives/freebsd-pkgbase/2025-July/000590.html)
 * [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
-* [2025-07-29, 19:36:02](https://lobste.rs/s/xdw1ns/typechecking_is_undecidable_when_type_is) - [Typechecking Is Undecidable When 'Type' Is a Type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf?sequence=6)
 * [2025-07-29, 16:07:13](https://lobste.rs/s/jyq5hg/2025_stack_overflow_developer_survey) - [2025 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2025/)
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
 * [2025-07-29, 15:30:34](https://lobste.rs/s/xqdty6/pretty_nice_web_framework) - [A pretty nice web framework](https://github.com/blaix/prettynice)
 * [2025-07-29, 13:14:41](https://lobste.rs/s/wd6fhe/ethersync_peer_peer_collaborative) - [Ethersync: Peer-to-peer collaborative editing of local text files](https://github.com/ethersync/ethersync)
 * [2025-07-29, 12:03:14](https://lobste.rs/s/dp1rdd/i_m_never_going_back_matrix) - [I'm never going back to Matrix](https://shkspr.mobi/blog/2025/07/im-never-going-back-to-matrix/)
-* [2025-07-29, 02:52:58](https://lobste.rs/s/vmqywc/no_more_erlang_manuals) - [No more Erlang manuals](https://blog.whenhen.com/posts/no-more-erlang-manuals.html)
 
 ## [Archives](archives/index.md)
 
