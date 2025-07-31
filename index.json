@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-31, 17:39:38",
+      "https://lobste.rs/s/tuwdze/schematra_sinatra_inspired_chicken_web"
+    ],
+    [
+      "Schematra: Sinatra inspired Chicken web framework",
+      "https://github.com/rolandoam/schematra"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 16:17:25",
       "https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language"
     ],
@@ -187,16 +197,6 @@
     [
       "Crush: The glamourous AI coding agent for your favourite terminal",
       "https://github.com/charmbracelet/crush"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 16:08:44",
-      "https://lobste.rs/s/aew8tt/why_we_need_know_lr_recursive_descent"
-    ],
-    [
-      "Why We Need to Know LR and Recursive Descent Parsing Techniques",
-      "https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html"
     ]
   ],
   [
