@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-31, 04:38:54",
+      "https://lobste.rs/s/rltgp7/tracking_source_locations_futhark"
+    ],
+    [
+      "Tracking source locations in the Futhark compiler",
+      "https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 23:50:20",
       "https://lobste.rs/s/gmsuvq/go_s_race_detector_has_mutex_blind_spot"
     ],
@@ -177,16 +187,6 @@
     [
       "Optimize CPU performance with Instruments",
       "https://developer.apple.com/videos/play/wwdc2025/308/"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 11:02:23",
-      "https://lobste.rs/s/nadv6h/activity_monitor_anatomy"
-    ],
-    [
-      "Activity Monitor Anatomy",
-      "https://www.bazhenov.me/posts/activity-monitor-anatomy/"
     ]
   ],
   [
