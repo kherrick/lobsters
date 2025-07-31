@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 09:30:41](https://lobste.rs/s/mplsem/design_implementation_extensible) - [The Design and Implementation of Extensible Variants for Rust in CGP](https://contextgeneric.dev/blog/extensible-datatypes-part-4/)
 * [2025-07-31, 08:37:57](https://lobste.rs/s/727kdh/a5_py_pentagonal_geospatial_indexing) - [a5-py: Pentagonal geospatial indexing system DGGS](https://github.com/felixpalmer/a5-py)
 * [2025-07-31, 08:02:05](https://lobste.rs/s/olb8w6/mounting_atmosphere) - [Mounting The Atmosphere](https://oppi.li/posts/mounting_the_atmosphere/)
 * [2025-07-31, 04:38:54](https://lobste.rs/s/rltgp7/tracking_source_locations_futhark) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
