@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
 * [2025-07-31, 19:38:53](https://lobste.rs/s/t74b6g/community_contributions) - [Community Contributions](https://philippemnoel.posthaven.com/community-contributions)
+* [2025-07-31, 19:26:42](https://lobste.rs/s/yuxxlr/go_assembly_mutation_testing) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
 * [2025-07-31, 18:41:14](https://lobste.rs/s/swmezp/pypi_phishing_attack_incident_report) - [PyPI Phishing Attack: Incident Report](https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/)
 * [2025-07-31, 18:24:13](https://lobste.rs/s/l82tbf/network_leaderless_replication_for) - [In-Network Leaderless Replication for Distributed Data Stores](https://www.vldb.org/pvldb/vol15/p1337-lee.pdf)
 * [2025-07-31, 18:10:02](https://lobste.rs/s/sqthxf/secure_boot_certificate_rollover_is_real) - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
