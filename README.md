@@ -3,7 +3,7 @@
 * [2025-07-31, 14:47:25](https://lobste.rs/s/43hw9a/math_is_haunted) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-31, 14:37:10](https://lobste.rs/s/e03oa9/what_is_gvisor) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
 * [2025-07-31, 14:06:31](https://lobste.rs/s/gl3oty/local_first_search_tale_frustrated) - [Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs](https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75)
-* [2025-07-31, 13:37:24](https://lobste.rs/s/vouidr/global_constraint_catalog) - [Global Constraint Catalog](https://sofdem.github.io/gccat/gccat/index.html)
+* [2025-07-31, 13:52:21](https://lobste.rs/s/udqowq/from_frustration_power_what_we_learned_at) - [From Frustration to Power: What We Learned at Nixcademy](https://niteo.co/blog/from-frustration-to-power-what-we-learned-at-nixcademy/)
 * [2025-07-31, 12:32:42](https://lobste.rs/s/qwaniu/vanity_import_paths_go) - [Vanity import paths in Go](https://sagikazarmark.hu/blog/vanity-import-paths-in-go/)
 * [2025-07-31, 12:06:32](https://lobste.rs/s/r3k5nr/search_riches_hackers_plant_4g_enabled) - [In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network](https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/)
 * [2025-07-31, 10:51:26](https://lobste.rs/s/yg4vde/sync_primitives_are_functionally) - [Sync primitives are Functionally Complete](http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html)
