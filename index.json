@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-07-31, 03:43:15",
+      "https://lobste.rs/s/8u05xg/architecture_decision_record"
+    ],
+    [
+      "Architecture Decision Record",
+      "https://github.com/joelparkerhenderson/architecture-decision-record"
+    ]
+  ],
+  [
+    [
       "2025-07-30, 23:50:20",
       "https://lobste.rs/s/gmsuvq/go_s_race_detector_has_mutex_blind_spot"
     ],
@@ -167,16 +177,6 @@
     [
       "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
       "https://yeet.cx/blog/you-are-the-bios-now"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 13:26:10",
-      "https://lobste.rs/s/p9axqd/rfc_862_echo_protocol"
-    ],
-    [
-      "RFC 862: Echo Protocol",
-      "https://datatracker.ietf.org/doc/html/rfc862"
     ]
   ],
   [
