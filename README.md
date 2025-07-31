@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-31, 16:17:25](https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language) - [The smallest embeddable scripting language, part 1](https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html)
 * [2025-07-31, 15:28:54](https://lobste.rs/s/ogv8ay/quic_for_kernel) - [QUIC for the kernel](https://lwn.net/Articles/1029851/)
 * [2025-07-31, 14:47:25](https://lobste.rs/s/43hw9a/math_is_haunted) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-31, 14:37:10](https://lobste.rs/s/e03oa9/what_is_gvisor) - [What is gVisor?](https://blog.yelinaung.com/posts/gvisor/)
@@ -9,7 +10,6 @@
 * [2025-07-31, 10:51:26](https://lobste.rs/s/yg4vde/sync_primitives_are_functionally) - [Sync primitives are Functionally Complete](http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html)
 * [2025-07-31, 08:02:05](https://lobste.rs/s/olb8w6/mounting_atmosphere) - [Mounting The Atmosphere](https://oppi.li/posts/mounting_the_atmosphere/)
 * [2025-07-31, 04:38:54](https://lobste.rs/s/rltgp7/tracking_source_locations_futhark) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
-* [2025-07-31, 03:43:15](https://lobste.rs/s/8u05xg/architecture_decision_record) - [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record)
 * [2025-07-31, 01:36:12](https://lobste.rs/s/hpmmo4/build_your_own_minisforum_n5_inspired) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 23:50:20](https://lobste.rs/s/gmsuvq/go_s_race_detector_has_mutex_blind_spot) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
