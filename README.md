@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-31, 19:38:53](https://lobste.rs/s/t74b6g/community_contributions) - [Community Contributions](https://philippemnoel.posthaven.com/community-contributions)
 * [2025-07-31, 18:41:14](https://lobste.rs/s/swmezp/pypi_phishing_attack_incident_report) - [PyPI Phishing Attack: Incident Report](https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/)
 * [2025-07-31, 18:24:13](https://lobste.rs/s/l82tbf/network_leaderless_replication_for) - [In-Network Leaderless Replication for Distributed Data Stores](https://www.vldb.org/pvldb/vol15/p1337-lee.pdf)
 * [2025-07-31, 18:10:02](https://lobste.rs/s/sqthxf/secure_boot_certificate_rollover_is_real) - [Secure boot certificate rollover is real but probably won't hurt you](https://mjg59.dreamwidth.org/72892.html)
@@ -19,7 +20,6 @@
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
 * [2025-07-30, 21:53:38](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty) - [Books about Lisp's \"beauty\"?](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty)
 * [2025-07-30, 20:20:08](https://lobste.rs/s/ykjkon/hype_is_product) - [The Hype is the Product](https://rys.io/en/180.html)
-* [2025-07-30, 19:39:18](https://lobste.rs/s/aqiske/emacs_macos_bug) - [Emacs: The MacOS Bug](https://xlii.space/eng/emacs-the-macos-bug/)
 * [2025-07-30, 18:58:16](https://lobste.rs/s/7nho3g/dive_into_open_chat_protocols) - [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat)
 * [2025-07-30, 17:53:25](https://lobste.rs/s/gyzvmq/always_bet_on_text_2014) - [always bet on text (2014)](https://graydon2.dreamwidth.org/193447.html)
 * [2025-07-30, 15:33:35](https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri) - [[RFC] Upstream target support for CHERI-enabled architectures](https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623)
