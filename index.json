@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-07-31, 18:41:14",
+      "https://lobste.rs/s/swmezp/pypi_phishing_attack_incident_report"
+    ],
+    [
+      "PyPI Phishing Attack: Incident Report",
+      "https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 18:24:13",
+      "https://lobste.rs/s/l82tbf/network_leaderless_replication_for"
+    ],
+    [
+      "In-Network Leaderless Replication for Distributed Data Stores",
+      "https://www.vldb.org/pvldb/vol15/p1337-lee.pdf"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 18:10:02",
       "https://lobste.rs/s/sqthxf/secure_boot_certificate_rollover_is_real"
     ],
@@ -67,16 +87,6 @@
     [
       "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
       "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 13:37:24",
-      "https://lobste.rs/s/vouidr/global_constraint_catalog"
-    ],
-    [
-      "Global Constraint Catalog",
-      "https://sofdem.github.io/gccat/gccat/index.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "[RFC] Upstream target support for CHERI-enabled architectures",
       "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 15:13:43",
-      "https://lobste.rs/s/bhs03m/2000_words_about_arrays_tables"
-    ],
-    [
-      "2000 words about arrays and tables",
-      "https://buttondown.com/hillelwayne/archive/2000-words-about-arrays-and-tables/"
     ]
   ],
   [
