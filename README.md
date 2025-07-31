@@ -2,6 +2,7 @@
 
 * [2025-07-31, 04:38:54](https://lobste.rs/s/rltgp7/tracking_source_locations_futhark) - [Tracking source locations in the Futhark compiler](https://futhark-lang.org/blog/2025-07-29-tracking-source-locations.html)
 * [2025-07-31, 03:43:15](https://lobste.rs/s/8u05xg/architecture_decision_record) - [Architecture Decision Record](https://github.com/joelparkerhenderson/architecture-decision-record)
+* [2025-07-31, 01:36:12](https://lobste.rs/s/hpmmo4/build_your_own_minisforum_n5_inspired) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 23:50:20](https://lobste.rs/s/gmsuvq/go_s_race_detector_has_mutex_blind_spot) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
 * [2025-07-30, 21:53:38](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty) - [Books about Lisp's \"beauty\"?](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty)
@@ -22,7 +23,6 @@
 * [2025-07-30, 10:03:14](https://lobste.rs/s/iubohk/phoenix_liveview_v1_1_0) - [Phoenix LiveView v1.1.0](https://hexdocs.pm/phoenix_live_view/changelog.html)
 * [2025-07-30, 07:15:08](https://lobste.rs/s/70mi93/month_using_xmpp_for_every_call_chat_2023) - [A month using XMPP for every call and chat (2023)](https://neilzone.co.uk/2023/08/a-month-using-xmpp-using-snikket-for-every-call-and-chat/)
 * [2025-07-30, 06:43:00](https://lobste.rs/s/5n6jcp/flat_design_vs_realistic_skeuomorphic) - [Flat design vs realistic (“skeuomorphic”) design](https://www.flatisbad.com/)
-* [2025-07-30, 04:56:43](https://lobste.rs/s/bpeob3/bookmarkfs_fuse_based_pseudo_filesystem) - [bookmarkfs: FUSE-based pseudo-filesystem for managing web browser bookmarks](https://sr.ht/~cismonx/bookmarkfs/)
 * [2025-07-30, 03:53:52](https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain) - [I want to defend Wayland here and explain a crucial piece that I think people are missing](https://ordinary.cafe/@technobaboo/114935252929285259)
 * [2025-07-29, 15:44:51](https://lobste.rs/s/ullr4n/printing_book_at_home_with_minimal) - [Printing a Book at Home with Minimal Equipment](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
 
