@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-31, 18:10:02",
+      "https://lobste.rs/s/sqthxf/secure_boot_certificate_rollover_is_real"
+    ],
+    [
+      "Secure boot certificate rollover is real but probably won't hurt you",
+      "https://mjg59.dreamwidth.org/72892.html"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 17:39:38",
       "https://lobste.rs/s/tuwdze/schematra_sinatra_inspired_chicken_web"
     ],
@@ -57,6 +67,16 @@
     [
       "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
       "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75"
+    ]
+  ],
+  [
+    [
+      "2025-07-31, 13:37:24",
+      "https://lobste.rs/s/vouidr/global_constraint_catalog"
+    ],
+    [
+      "Global Constraint Catalog",
+      "https://sofdem.github.io/gccat/gccat/index.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-07-30, 16:25:12",
-      "https://lobste.rs/s/z7fb8w/crush_glamourous_ai_coding_agent_for_your"
-    ],
-    [
-      "Crush: The glamourous AI coding agent for your favourite terminal",
-      "https://github.com/charmbracelet/crush"
-    ]
-  ],
-  [
-    [
       "2025-07-30, 15:33:35",
       "https://lobste.rs/s/oh2hzs/rfc_upstream_target_support_for_cheri"
     ],
@@ -237,16 +247,6 @@
     [
       "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
       "https://yeet.cx/blog/you-are-the-bios-now"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 03:53:52",
-      "https://lobste.rs/s/o7avvq/i_want_defend_wayland_here_explain"
-    ],
-    [
-      "I want to defend Wayland here and explain a crucial piece that I think people are missing",
-      "https://ordinary.cafe/@technobaboo/114935252929285259"
     ]
   ]
 ]
