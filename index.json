@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-07-31, 08:02:05",
+      "https://lobste.rs/s/olb8w6/mounting_atmosphere"
+    ],
+    [
+      "Mounting The Atmosphere",
+      "https://oppi.li/posts/mounting_the_atmosphere/"
+    ]
+  ],
+  [
+    [
       "2025-07-31, 04:38:54",
       "https://lobste.rs/s/rltgp7/tracking_source_locations_futhark"
     ],
@@ -187,16 +197,6 @@
     [
       "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
       "https://yeet.cx/blog/you-are-the-bios-now"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 13:05:22",
-      "https://lobste.rs/s/uyudor/optimize_cpu_performance_with"
-    ],
-    [
-      "Optimize CPU performance with Instruments",
-      "https://developer.apple.com/videos/play/wwdc2025/308/"
     ]
   ],
   [
