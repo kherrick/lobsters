@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-07-31, 19:38:53](https://lobste.rs/s/t74b6g/community_contributions) - [Community Contributions](https://philippemnoel.posthaven.com/community-contributions)
 * [2025-07-31, 19:26:42](https://lobste.rs/s/yuxxlr/go_assembly_mutation_testing) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
 * [2025-07-31, 18:41:14](https://lobste.rs/s/swmezp/pypi_phishing_attack_incident_report) - [PyPI Phishing Attack: Incident Report](https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/)
@@ -15,7 +16,6 @@
 * [2025-07-31, 12:06:32](https://lobste.rs/s/r3k5nr/search_riches_hackers_plant_4g_enabled) - [In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network](https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/)
 * [2025-07-31, 10:51:26](https://lobste.rs/s/yg4vde/sync_primitives_are_functionally) - [Sync primitives are Functionally Complete](http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html)
 * [2025-07-31, 08:02:05](https://lobste.rs/s/olb8w6/mounting_atmosphere) - [Mounting The Atmosphere](https://oppi.li/posts/mounting_the_atmosphere/)
-* [2025-07-31, 01:36:12](https://lobste.rs/s/hpmmo4/build_your_own_minisforum_n5_inspired) - [Build Your Own Minisforum N5 Inspired Mini NAS: A Comprehensive Guide](https://jackharvest.com/index.php/2025/07/27/build-your-own-minisforum-n5-inspired-mini-nas-a-comprehensive-guide/)
 * [2025-07-30, 23:50:20](https://lobste.rs/s/gmsuvq/go_s_race_detector_has_mutex_blind_spot) - [Go's race detector has a mutex blind spot](https://doublefree.dev/go-race-mutex-blindspot/)
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
 * [2025-07-30, 21:53:38](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty) - [Books about Lisp's \"beauty\"?](https://lobste.rs/s/4hwugo/books_about_lisp_s_beauty)

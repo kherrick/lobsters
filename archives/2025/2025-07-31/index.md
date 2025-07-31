@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-07-31](index.md)
 
+* [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-07-31, 19:38:53](https://lobste.rs/s/t74b6g/community_contributions) - [Community Contributions](https://philippemnoel.posthaven.com/community-contributions)
 * [2025-07-31, 19:26:42](https://lobste.rs/s/yuxxlr/go_assembly_mutation_testing) - [Go Assembly Mutation Testing](https://words.filippo.io/assembly-mutation/)
 * [2025-07-31, 18:41:14](https://lobste.rs/s/swmezp/pypi_phishing_attack_incident_report) - [PyPI Phishing Attack: Incident Report](https://blog.pypi.org/posts/2025-07-31-incident-report-phishing-attack/)
