@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-01, 08:16:24](https://lobste.rs/s/lzkerj/resurrecting_motu_2408_with_adat) - [Resurrecting a MOTU 2408 with ADAT](http://women-and-dreams.blogspot.com/2025/08/resurrecting-motu-2408-with-adat.html)
 * [2025-08-01, 07:32:53](https://lobste.rs/s/lwv3wd/roadiz_modern_headless_cms_built_on) - [Roadiz : A modern headless CMS built on Symfony](https://github.com/roadiz)
 * [2025-08-01, 06:37:09](https://lobste.rs/s/axr1la/age_verification_doesn_t_need_be_privacy) - [Age Verification Doesn’t Need to Be a Privacy Footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
 * [2025-08-01, 05:54:08](https://lobste.rs/s/ch205g/my_favourite_german_word) - [My favourite German word](https://vurt.org/articles/my-favourite-german-word/)
@@ -23,7 +24,6 @@
 * [2025-07-31, 10:51:26](https://lobste.rs/s/yg4vde/sync_primitives_are_functionally) - [Sync primitives are Functionally Complete](http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html)
 * [2025-07-31, 08:02:05](https://lobste.rs/s/olb8w6/mounting_atmosphere) - [Mounting The Atmosphere](https://oppi.li/posts/mounting_the_atmosphere/)
 * [2025-07-30, 22:51:20](https://lobste.rs/s/jkbsfi/i_built_my_blog_with_c_preprocessor_macros) - [I built my blog with C preprocessor macros](https://wheybags.com/blog/macroblog.html)
-* [2025-07-30, 20:20:08](https://lobste.rs/s/ykjkon/hype_is_product) - [The Hype is the Product](https://rys.io/en/180.html)
 * [2025-07-30, 18:58:16](https://lobste.rs/s/7nho3g/dive_into_open_chat_protocols) - [A Dive Into Open Chat Protocols](https://wiki.alopex.li/ADiveIntoOpenChat)
 
 ## [Archives](archives/index.md)
