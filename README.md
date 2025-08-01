@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-01, 17:53:47](https://lobste.rs/s/7pi2pl/remove_ai_summaries) - [Remove AI Summaries](https://github.com/orjahren/remove-ai-summaries)
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 16:17:09](https://lobste.rs/s/otxbcp/free_security_audits_for_erlang_elixir) - [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
@@ -18,7 +19,6 @@
 * [2025-08-01, 00:50:57](https://lobste.rs/s/wzdyfb/our_first_outage_from_llm_written_code) - [Our first outage from LLM-written code](https://sketch.dev/blog/our-first-outage-from-llm-written-code)
 * [2025-08-01, 00:03:44](https://lobste.rs/s/uhrucy/ramblings) - [Ramblings](https://stephango.com/ramblings)
 * [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
-* [2025-07-31, 17:39:38](https://lobste.rs/s/tuwdze/schematra_sinatra_inspired_chicken_web) - [Schematra: Sinatra inspired Chicken web framework](https://github.com/rolandoam/schematra)
 * [2025-07-31, 16:17:25](https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language) - [The smallest embeddable scripting language, part 1](https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html)
 * [2025-07-31, 15:28:54](https://lobste.rs/s/ogv8ay/quic_for_kernel) - [QUIC for the kernel](https://lwn.net/Articles/1029851/)
 * [2025-07-31, 14:47:25](https://lobste.rs/s/43hw9a/math_is_haunted) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
