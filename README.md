@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-01, 13:25:08](https://lobste.rs/s/fwgksy/stack_traces_for_postgres_errors_with) - [Stack traces for Postgres errors with backtrace_functions](https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions)
 * [2025-08-01, 11:03:44](https://lobste.rs/s/nv7a9k/how_nixos_is_built) - [How NixOS is built](https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/)
+* [2025-08-01, 10:53:45](https://lobste.rs/s/8o59lb/hello_world_bismuth) - ['Hello world' in Bismuth](https://enikofox.com/posts/hello-world-in-bismuth/)
 * [2025-08-01, 10:11:10](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend)
 * [2025-08-01, 09:49:09](https://lobste.rs/s/rxkmvd/pride_versioning) - [Pride Versioning](https://pridever.org/)
 * [2025-08-01, 09:44:07](https://lobste.rs/s/qsrdnn/agendafs_filesystem_for_syncing_notes) - [agendafs: A filesystem for syncing notes to your calendar](https://sr.ht/~marcc/agendafs/)
@@ -9,8 +11,6 @@
 * [2025-08-01, 06:37:09](https://lobste.rs/s/axr1la/age_verification_doesn_t_need_be_privacy) - [Age Verification Doesn’t Need to Be a Privacy Footgun](https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/)
 * [2025-08-01, 05:54:08](https://lobste.rs/s/ch205g/my_favourite_german_word) - [My favourite German word](https://vurt.org/articles/my-favourite-german-word/)
 * [2025-08-01, 05:30:55](https://lobste.rs/s/iqyqm3/6_weeks_claude_code) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
-* [2025-08-01, 04:47:12](https://lobste.rs/s/t0inyr/c_26_reflections_adventures_compile_time) - [C++26 Reflections adventures & compile time UML](https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/)
-* [2025-08-01, 01:14:44](https://lobste.rs/s/bs7kvw/we_asked_100_ai_models_write_code_here_s_how) - [We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests](https://www.veracode.com/blog/genai-code-security-report/)
 * [2025-08-01, 00:50:57](https://lobste.rs/s/wzdyfb/our_first_outage_from_llm_written_code) - [Our first outage from LLM-written code](https://sketch.dev/blog/our-first-outage-from-llm-written-code)
 * [2025-08-01, 00:03:44](https://lobste.rs/s/uhrucy/ramblings) - [Ramblings](https://stephango.com/ramblings)
 * [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
