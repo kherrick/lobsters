@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 16:38:34](https://lobste.rs/s/y0hroq/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/y0hroq/lobsters_interview_with_icefox)
+* [2025-08-01, 16:17:09](https://lobste.rs/s/otxbcp/free_security_audits_for_erlang_elixir) - [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
 * [2025-08-01, 14:27:31](https://lobste.rs/s/9fwqhg/long_term_support) - [Long Term Support](https://www.sqlite.org/lts.html)
 * [2025-08-01, 13:25:08](https://lobste.rs/s/fwgksy/stack_traces_for_postgres_errors_with) - [Stack traces for Postgres errors with backtrace_functions](https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions)
