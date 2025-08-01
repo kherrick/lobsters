@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-01, 05:30:55",
+      "https://lobste.rs/s/iqyqm3/6_weeks_claude_code"
+    ],
+    [
+      "6 Weeks of Claude Code",
+      "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 04:47:12",
       "https://lobste.rs/s/t0inyr/c_26_reflections_adventures_compile_time"
     ],
@@ -237,16 +247,6 @@
     [
       "[RFC] Upstream target support for CHERI-enabled architectures",
       "https://discourse.llvm.org/t/rfc-upstream-target-support-for-cheri-enabled-architectures/87623"
-    ]
-  ],
-  [
-    [
-      "2025-07-30, 14:02:15",
-      "https://lobste.rs/s/zwbafr/you_are_bios_now_building_hypervisor_rust"
-    ],
-    [
-      "You Are The BIOS Now: Building A Hypervisor In Rust With KVM",
-      "https://yeet.cx/blog/you-are-the-bios-now"
     ]
   ]
 ]
