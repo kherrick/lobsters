@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-01, 13:25:08",
+      "https://lobste.rs/s/fwgksy/stack_traces_for_postgres_errors_with"
+    ],
+    [
+      "Stack traces for Postgres errors with backtrace_functions",
+      "https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 11:03:44",
       "https://lobste.rs/s/nv7a9k/how_nixos_is_built"
     ],
     [
       "How NixOS is built",
       "https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 10:53:45",
+      "https://lobste.rs/s/8o59lb/hello_world_bismuth"
+    ],
+    [
+      "'Hello world' in Bismuth",
+      "https://enikofox.com/posts/hello-world-in-bismuth/"
     ]
   ],
   [
@@ -87,26 +107,6 @@
     [
       "6 Weeks of Claude Code",
       "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 04:47:12",
-      "https://lobste.rs/s/t0inyr/c_26_reflections_adventures_compile_time"
-    ],
-    [
-      "C++26 Reflections adventures & compile time UML",
-      "https://www.reachablecode.com/2025/07/31/c26-reflections-adventures-compile-time-uml/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 01:14:44",
-      "https://lobste.rs/s/bs7kvw/we_asked_100_ai_models_write_code_here_s_how"
-    ],
-    [
-      "We Asked 100+ AI Models to Write Code. Here’s How Many Failed Security Tests",
-      "https://www.veracode.com/blog/genai-code-security-report/"
     ]
   ],
   [
