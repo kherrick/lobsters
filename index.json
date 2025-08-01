@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-08-01, 09:49:09",
+      "https://lobste.rs/s/rxkmvd/pride_versioning"
+    ],
+    [
+      "Pride Versioning",
+      "https://pridever.org/"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 09:44:07",
+      "https://lobste.rs/s/qsrdnn/agendafs_filesystem_for_syncing_notes"
+    ],
+    [
+      "agendafs: A filesystem for syncing notes to your calendar",
+      "https://sr.ht/~marcc/agendafs/"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 08:52:00",
       "https://lobste.rs/s/dsmzzu/if_odin_had_macros"
     ],
     [
       "If Odin Had Macros",
       "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 08:16:24",
-      "https://lobste.rs/s/lzkerj/resurrecting_motu_2408_with_adat"
-    ],
-    [
-      "Resurrecting a MOTU 2408 with ADAT",
-      "http://women-and-dreams.blogspot.com/2025/08/resurrecting-motu-2408-with-adat.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Local-first search. A tale of frustrated dreams, utopian user experiences and calculated tradeoffs",
       "https://fika.bar/paoramen/local-first-search-01K1B0WM1X4P5SV5QAES0Z5N75"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 12:32:42",
-      "https://lobste.rs/s/qwaniu/vanity_import_paths_go_2019"
-    ],
-    [
-      "Vanity import paths in Go (2019)",
-      "https://sagikazarmark.hu/blog/vanity-import-paths-in-go/"
     ]
   ],
   [
