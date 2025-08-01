@@ -10,6 +10,7 @@
 * [2025-08-01, 10:11:10](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend)
 * [2025-08-01, 09:49:09](https://lobste.rs/s/rxkmvd/pride_versioning) - [Pride Versioning](https://pridever.org/)
 * [2025-08-01, 09:44:07](https://lobste.rs/s/qsrdnn/agendafs_filesystem_for_syncing_notes) - [agendafs: A filesystem for syncing notes to your calendar](https://sr.ht/~marcc/agendafs/)
+* [2025-08-01, 09:41:28](https://lobste.rs/s/zr7r9q/build_parking_sensor_with_esp32_board) - [Build a Parking sensor with ESP32 board, LEDs and Ultrasonic distance sensor](https://www.poeticoding.com/build-a-parking-sensor-with-esp32-board-leds-and-ultrasonic-distance-sensor/)
 * [2025-08-01, 08:52:00](https://lobste.rs/s/dsmzzu/if_odin_had_macros) - [If Odin Had Macros](https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/)
 * [2025-08-01, 08:16:24](https://lobste.rs/s/lzkerj/resurrecting_motu_2408_with_adat) - [Resurrecting a MOTU 2408 with ADAT](http://women-and-dreams.blogspot.com/2025/08/resurrecting-motu-2408-with-adat.html)
 * [2025-08-01, 07:32:53](https://lobste.rs/s/lwv3wd/roadiz_modern_headless_cms_built_on) - [Roadiz : A modern headless CMS built on Symfony](https://github.com/roadiz)
