@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
 * [2025-08-01, 17:53:47](https://lobste.rs/s/7pi2pl/remove_ai_summaries) - [Remove AI Summaries](https://github.com/orjahren/remove-ai-summaries)
+* [2025-08-01, 17:18:16](https://lobste.rs/s/bonzbw/i_couldn_t_submit_pr_so_i_got_hired_fixed_it) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 16:38:34](https://lobste.rs/s/y0hroq/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/y0hroq/lobsters_interview_with_icefox)
 * [2025-08-01, 16:17:09](https://lobste.rs/s/otxbcp/free_security_audits_for_erlang_elixir) - [Free Security Audits for Erlang and Elixir open source projects](https://www.erlang-solutions.com/blog/supporting-the-beam-community-with-free-ci-cd-security-audits/)
