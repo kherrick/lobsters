@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-01, 12:22:55",
-      "https://lobste.rs/s/jdk9z8/vibe_code_is_legacy_code"
-    ],
-    [
-      "Vibe code is legacy code",
-      "https://blog.val.town/vibe-code"
-    ]
-  ],
-  [
-    [
       "2025-08-01, 11:03:44",
       "https://lobste.rs/s/nv7a9k/how_nixos_is_built"
     ],
@@ -47,6 +37,16 @@
     [
       "agendafs: A filesystem for syncing notes to your calendar",
       "https://sr.ht/~marcc/agendafs/"
+    ]
+  ],
+  [
+    [
+      "2025-08-01, 09:41:28",
+      "https://lobste.rs/s/zr7r9q/build_parking_sensor_with_esp32_board"
+    ],
+    [
+      "Build a Parking sensor with ESP32 board, LEDs and Ultrasonic distance sensor",
+      "https://www.poeticoding.com/build-a-parking-sensor-with-esp32-board-leds-and-ultrasonic-distance-sensor/"
     ]
   ],
   [
