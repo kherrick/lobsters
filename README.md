@@ -1,9 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
+* [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
+* [2025-08-02, 11:02:15](https://lobste.rs/s/ogd44u/git_purgatorio_wip_64_bit_port_inferno) - [git: purgatorio – the WIP 64-bit port of Inferno](https://git.9front.org/plan9front/purgatorio/HEAD/info.html)
+* [2025-08-02, 10:59:12](https://lobste.rs/s/jf7ldc/this_month_ladybird_july_2025) - [This Month in Ladybird - July 2025](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 05:23:40](https://lobste.rs/s/pm9hcp/keep_calm_carry_on) - [Keep calm and carry on](https://boston.conman.org/2025/08/01.1)
 * [2025-08-02, 04:26:53](https://lobste.rs/s/6b3ete/jujutsu_for_busy_devs_part_2_how_do_i) - [Jujutsu For Busy Devs, Part 2: \"How Do I...?\"](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1)
 * [2025-08-02, 00:22:14](https://lobste.rs/s/houeoz/candyfloss_ergonomic_python_library_for) - [candyfloss: an ergonomic python library for running video pipelines](https://git.hella.cheap/bob/candyfloss)
-* [2025-08-01, 22:08:53](https://lobste.rs/s/bwy6sv/libvirt_incremental_backups_for_raw) - [libvirt - incremental backups for raw devices](https://abbbi.github.io/datafile/)
 * [2025-08-01, 21:51:33](https://lobste.rs/s/gijhis/unit_testing_principles) - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/)
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 * [2025-08-01, 19:27:43](https://lobste.rs/s/muk05v/reflections_on_matrix_criticism_over) - [Reflections on Matrix criticism over the last week](https://youtu.be/OyuqM7RbX5E)
@@ -12,7 +15,6 @@
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
 * [2025-08-01, 14:27:31](https://lobste.rs/s/9fwqhg/long_term_support) - [Long Term Support](https://www.sqlite.org/lts.html)
-* [2025-08-01, 13:25:08](https://lobste.rs/s/fwgksy/stack_traces_for_postgres_errors_with) - [Stack traces for Postgres errors with backtrace_functions](https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions)
 * [2025-08-01, 12:22:55](https://lobste.rs/s/jdk9z8/vibe_code_is_legacy_code) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 * [2025-08-01, 11:03:44](https://lobste.rs/s/nv7a9k/how_nixos_is_built) - [How NixOS is built](https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/)
 * [2025-08-01, 10:11:10](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend)
@@ -23,8 +25,6 @@
 * [2025-08-01, 05:30:55](https://lobste.rs/s/iqyqm3/6_weeks_claude_code) - [6 Weeks of Claude Code](https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/)
 * [2025-08-01, 00:50:57](https://lobste.rs/s/wzdyfb/our_first_outage_from_llm_written_code) - [Our first outage from LLM-written code](https://sketch.dev/blog/our-first-outage-from-llm-written-code)
 * [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
-* [2025-07-31, 16:17:25](https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language) - [The smallest embeddable scripting language, part 1](https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html)
-* [2025-07-31, 14:47:25](https://lobste.rs/s/43hw9a/math_is_haunted) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 
 ## [Archives](archives/index.md)
 
