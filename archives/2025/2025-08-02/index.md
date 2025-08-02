@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 19:22:58](https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 18:31:50](https://lobste.rs/s/lwufi3/rubik_s_cube_perfect_scramble) - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
 * [2025-08-02, 17:37:38](https://lobste.rs/s/bf14oh/how_reverse_engineer_analog_chip_tda7000) - [How to reverse engineer an analog chip: the TDA7000 FM radio receiver](http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html)
 * [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
