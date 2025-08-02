@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-02, 17:37:38](https://lobste.rs/s/bf14oh/how_reverse_engineer_analog_chip_tda7000) - [How to reverse engineer an analog chip: the TDA7000 FM radio receiver](http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html)
 * [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 * [2025-08-02, 14:32:32](https://lobste.rs/s/fpljpw/unikernel_guide_build_deploy) - [Unikernel Guide: Build & Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-08-02, 13:12:39](https://lobste.rs/s/0jfjcg/executing_arbitrary_python_code_from) - [Executing arbitrary Python code from a comment](https://www.hacktron.ai/blog/posts/python-zip-confusion/)
@@ -15,7 +16,6 @@
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 * [2025-08-01, 19:27:43](https://lobste.rs/s/muk05v/reflections_on_matrix_criticism_over) - [Reflections on Matrix criticism over the last week](https://youtu.be/OyuqM7RbX5E)
 * [2025-08-01, 18:06:07](https://lobste.rs/s/xkynzw/what_declarative_languages_are_2013) - [What Declarative Languages Are (2013)](https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html)
-* [2025-08-01, 17:18:16](https://lobste.rs/s/bonzbw/i_couldn_t_submit_pr_so_i_got_hired_fixed_it) - [I couldn't submit a PR, so I got hired and fixed it myself](https://www.skeptrune.com/posts/doing-the-little-things/)
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
 * [2025-08-01, 14:27:31](https://lobste.rs/s/9fwqhg/long_term_support) - [Long Term Support](https://www.sqlite.org/lts.html)

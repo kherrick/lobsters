@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-02](index.md)
 
+* [2025-08-02, 17:37:38](https://lobste.rs/s/bf14oh/how_reverse_engineer_analog_chip_tda7000) - [How to reverse engineer an analog chip: the TDA7000 FM radio receiver](http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html)
 * [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 * [2025-08-02, 14:32:32](https://lobste.rs/s/fpljpw/unikernel_guide_build_deploy) - [Unikernel Guide: Build & Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-08-02, 13:12:39](https://lobste.rs/s/0jfjcg/executing_arbitrary_python_code_from) - [Executing arbitrary Python code from a comment](https://www.hacktron.ai/blog/posts/python-zip-confusion/)
