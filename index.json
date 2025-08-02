@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-02, 14:36:18",
+      "https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity"
+    ],
+    [
+      "The /o in Ruby regex stands for “oh the humanity!”",
+      "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-02, 14:32:32",
+      "https://lobste.rs/s/fpljpw/unikernel_guide_build_deploy"
+    ],
+    [
+      "Unikernel Guide: Build & Deploy Lightweight, Secure Apps",
+      "https://tallysolutions.com/technology/introduction-to-unikernel-2/"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 13:12:39",
       "https://lobste.rs/s/0jfjcg/executing_arbitrary_python_code_from"
     ],
@@ -217,26 +237,6 @@
     [
       "Age Verification Doesn’t Need to Be a Privacy Footgun",
       "https://soatok.blog/2025/07/31/age-verification-doesnt-need-to-be-a-privacy-footgun/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 05:30:55",
-      "https://lobste.rs/s/iqyqm3/6_weeks_claude_code"
-    ],
-    [
-      "6 Weeks of Claude Code",
-      "https://blog.puzzmo.com/posts/2025/07/30/six-weeks-of-claude-code/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 00:50:57",
-      "https://lobste.rs/s/wzdyfb/our_first_outage_from_llm_written_code"
-    ],
-    [
-      "Our first outage from LLM-written code",
-      "https://sketch.dev/blog/our-first-outage-from-llm-written-code"
     ]
   ],
   [
