@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-08-01, 22:08:53",
+      "https://lobste.rs/s/bwy6sv/libvirt_incremental_backups_for_raw"
+    ],
+    [
+      "libvirt - incremental backups for raw devices",
+      "https://abbbi.github.io/datafile/"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 21:51:33",
       "https://lobste.rs/s/gijhis/unit_testing_principles"
     ],
@@ -227,16 +237,6 @@
     [
       "You might not need tmux",
       "https://bower.sh/you-might-not-need-tmux"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 16:17:25",
-      "https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language"
-    ],
-    [
-      "The smallest embeddable scripting language, part 1",
-      "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html"
     ]
   ],
   [
