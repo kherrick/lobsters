@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-02, 19:22:58",
+      "https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension"
+    ],
+    [
+      "Compressing Icelandic name declension patterns into a 3.27 kB trie",
+      "https://alexharri.com/blog/icelandic-name-declension-trie"
+    ]
+  ],
+  [
+    [
       "2025-08-02, 18:31:50",
       "https://lobste.rs/s/lwufi3/rubik_s_cube_perfect_scramble"
     ],
@@ -227,16 +237,6 @@
     [
       "agendafs: A filesystem for syncing notes to your calendar",
       "https://sr.ht/~marcc/agendafs/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 08:52:00",
-      "https://lobste.rs/s/dsmzzu/if_odin_had_macros"
-    ],
-    [
-      "If Odin Had Macros",
-      "https://www.gingerbill.org/article/2025/07/31/if-odin-had-macros/"
     ]
   ],
   [
