@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-02, 04:26:53](https://lobste.rs/s/6b3ete/jujutsu_for_busy_devs_part_2_how_do_i) - [Jujutsu For Busy Devs, Part 2: \"How Do I...?\"](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1)
 * [2025-08-02, 00:22:14](https://lobste.rs/s/houeoz/candyfloss_ergonomic_python_library_for) - [candyfloss: an ergonomic python library for running video pipelines](https://git.hella.cheap/bob/candyfloss)
 * [2025-08-01, 21:51:33](https://lobste.rs/s/gijhis/unit_testing_principles) - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/)
 * [2025-08-01, 20:48:42](https://lobste.rs/s/rdzvrm/when_flatpak_s_sandbox_cracks_real_life) - [When Flatpak’s Sandbox Cracks: Real‑Life Security Issues Beyond the Ideal | Linux Journal](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
@@ -13,7 +14,6 @@
 * [2025-08-01, 13:25:08](https://lobste.rs/s/fwgksy/stack_traces_for_postgres_errors_with) - [Stack traces for Postgres errors with backtrace_functions](https://www.enterprisedb.com/blog/stack-traces-postgres-errors-backtracefunctions)
 * [2025-08-01, 12:22:55](https://lobste.rs/s/jdk9z8/vibe_code_is_legacy_code) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
 * [2025-08-01, 11:03:44](https://lobste.rs/s/nv7a9k/how_nixos_is_built) - [How NixOS is built](https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/)
-* [2025-08-01, 10:53:45](https://lobste.rs/s/8o59lb/hello_world_bismuth) - ['Hello world' in Bismuth](https://enikofox.com/posts/hello-world-in-bismuth/)
 * [2025-08-01, 10:11:10](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/twphly/what_are_you_doing_this_weekend)
 * [2025-08-01, 09:49:09](https://lobste.rs/s/rxkmvd/pride_versioning) - [Pride Versioning](https://pridever.org/)
 * [2025-08-01, 09:44:07](https://lobste.rs/s/qsrdnn/agendafs_filesystem_for_syncing_notes) - [agendafs: A filesystem for syncing notes to your calendar](https://sr.ht/~marcc/agendafs/)
