@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-02, 00:22:14",
+      "https://lobste.rs/s/houeoz/candyfloss_ergonomic_python_library_for"
+    ],
+    [
+      "candyfloss: an ergonomic python library for running video pipelines",
+      "https://git.hella.cheap/bob/candyfloss"
+    ]
+  ],
+  [
+    [
       "2025-08-01, 21:51:33",
       "https://lobste.rs/s/gijhis/unit_testing_principles"
     ],
@@ -217,16 +227,6 @@
     [
       "The smallest embeddable scripting language, part 1",
       "https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html"
-    ]
-  ],
-  [
-    [
-      "2025-07-31, 15:28:54",
-      "https://lobste.rs/s/ogv8ay/quic_for_kernel"
-    ],
-    [
-      "QUIC for the kernel",
-      "https://lwn.net/Articles/1029851/"
     ]
   ],
   [
