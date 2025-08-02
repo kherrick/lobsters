@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-01](index.md)
 
+* [2025-08-01, 22:08:53](https://lobste.rs/s/bwy6sv/libvirt_incremental_backups_for_raw) - [libvirt - incremental backups for raw devices](https://abbbi.github.io/datafile/)
 * [2025-08-01, 21:51:33](https://lobste.rs/s/gijhis/unit_testing_principles) - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/)
 * [2025-08-01, 20:48:42](https://lobste.rs/s/rdzvrm/when_flatpak_s_sandbox_cracks_real_life) - [When Flatpak’s Sandbox Cracks: Real‑Life Security Issues Beyond the Ideal | Linux Journal](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
