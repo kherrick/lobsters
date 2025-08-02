@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-02, 00:22:14](https://lobste.rs/s/houeoz/candyfloss_ergonomic_python_library_for) - [candyfloss: an ergonomic python library for running video pipelines](https://git.hella.cheap/bob/candyfloss)
 * [2025-08-01, 21:51:33](https://lobste.rs/s/gijhis/unit_testing_principles) - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/)
 * [2025-08-01, 20:48:42](https://lobste.rs/s/rdzvrm/when_flatpak_s_sandbox_cracks_real_life) - [When Flatpak’s Sandbox Cracks: Real‑Life Security Issues Beyond the Ideal | Linux Journal](https://www.linuxjournal.com/content/when-flatpaks-sandbox-cracks-real-life-security-issues-beyond-ideal)
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
@@ -22,7 +23,6 @@
 * [2025-08-01, 00:50:57](https://lobste.rs/s/wzdyfb/our_first_outage_from_llm_written_code) - [Our first outage from LLM-written code](https://sketch.dev/blog/our-first-outage-from-llm-written-code)
 * [2025-07-31, 22:16:45](https://lobste.rs/s/9ha6ab/you_might_not_need_tmux) - [You might not need tmux](https://bower.sh/you-might-not-need-tmux)
 * [2025-07-31, 16:17:25](https://lobste.rs/s/hzr1ke/smallest_embeddable_scripting_language) - [The smallest embeddable scripting language, part 1](https://log.schemescape.com/posts/static-site-generators/smallest-scripting-language.html)
-* [2025-07-31, 15:28:54](https://lobste.rs/s/ogv8ay/quic_for_kernel) - [QUIC for the kernel](https://lwn.net/Articles/1029851/)
 * [2025-07-31, 14:47:25](https://lobste.rs/s/43hw9a/math_is_haunted) - [The Math Is Haunted](https://overreacted.io/the-math-is-haunted/)
 * [2025-07-31, 10:51:26](https://lobste.rs/s/yg4vde/sync_primitives_are_functionally) - [Sync primitives are Functionally Complete](http://kprotty.me/2025/07/31/sync-primitives-are-functionally-complete.html)
 
