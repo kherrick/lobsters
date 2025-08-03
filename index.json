@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-03, 07:28:54",
+      "https://lobste.rs/s/hlj66l/type_safety_back_forth"
+    ],
+    [
+      "Type Safety Back and Forth",
+      "https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 07:21:20",
       "https://lobste.rs/s/uon7sc/parse_don_t_validate"
     ],
@@ -137,16 +147,6 @@
     [
       "Less Glue, More Product: Why Elixir Shrinks Architectural Complexity",
       "https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 11:02:15",
-      "https://lobste.rs/s/ogd44u/purgatorio_wip_64_bit_port_inferno"
-    ],
-    [
-      "purgatorio – the WIP 64-bit port of Inferno",
-      "https://git.9front.org/plan9front/purgatorio/HEAD/info.html"
     ]
   ],
   [
