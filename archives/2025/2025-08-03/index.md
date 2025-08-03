@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 21:32:40](https://lobste.rs/s/avqqha/governance_gnome) - [Governance in GNOME](https://www.bassi.io)
+* [2025-08-03, 21:30:44](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl) - [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)
 * [2025-08-03, 19:16:26](https://lobste.rs/s/7k3hlk/future_software_is_small) - [The Future Of Software Is Small](https://www.aparker.io/post/3lvjepuyf4q2w)
 * [2025-08-03, 18:25:01](https://lobste.rs/s/vxws0m/sub_title) - [Sub/Title](https://subtitle.wackyneighbor.com)
