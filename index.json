@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-03, 11:20:14",
+      "https://lobste.rs/s/k74xzb/injecting_java_from_native_libraries_on"
+    ],
+    [
+      "Injecting Java from native libraries on Android",
+      "https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 07:28:54",
       "https://lobste.rs/s/hlj66l/type_safety_back_forth"
     ],
@@ -237,16 +247,6 @@
     [
       "Wayback 0.2 released",
       "https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/"
-    ]
-  ],
-  [
-    [
-      "2025-08-01, 11:03:44",
-      "https://lobste.rs/s/nv7a9k/how_nixos_is_built"
-    ],
-    [
-      "How NixOS is built",
-      "https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/"
     ]
   ]
 ]
