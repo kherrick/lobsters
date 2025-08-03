@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-03, 05:09:52](https://lobste.rs/s/jcycvq/tagged_unions_are_actually_quite_sexy) - [Tagged Unions are actually quite sexy](https://ciesie.com/post/tagged_unions/)
 * [2025-08-02, 22:49:11](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related) - [How do you backup your non-work-related data?](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related)
 * [2025-08-02, 19:22:58](https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 18:31:50](https://lobste.rs/s/lwufi3/rubik_s_cube_perfect_scramble) - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
@@ -18,7 +19,6 @@
 * [2025-08-01, 21:51:33](https://lobste.rs/s/gijhis/unit_testing_principles) - [Unit Testing Principles](https://olano.dev/blog/unit-testing-principles/)
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 * [2025-08-01, 19:27:43](https://lobste.rs/s/muk05v/reflections_on_matrix_criticism_over) - [Reflections on Matrix criticism over the last week](https://youtu.be/OyuqM7RbX5E)
-* [2025-08-01, 18:06:07](https://lobste.rs/s/xkynzw/what_declarative_languages_are_2013) - [What Declarative Languages Are (2013)](https://semantic-domain.blogspot.com/2013/07/what-declarative-languages-are.html)
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
 * [2025-08-01, 12:22:55](https://lobste.rs/s/jdk9z8/vibe_code_is_legacy_code) - [Vibe code is legacy code](https://blog.val.town/vibe-code)
