@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-03, 11:20:14](https://lobste.rs/s/k74xzb/injecting_java_from_native_libraries_on) - [Injecting Java from native libraries on Android](https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html)
 * [2025-08-03, 07:28:54](https://lobste.rs/s/hlj66l/type_safety_back_forth) - [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 * [2025-08-03, 07:21:20](https://lobste.rs/s/uon7sc/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2025-08-03, 06:37:19](https://lobste.rs/s/zxot3i/real_powerbook_macintosh_application) - [A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
@@ -24,7 +25,6 @@
 * [2025-08-01, 19:27:43](https://lobste.rs/s/muk05v/reflections_on_matrix_criticism_over) - [Reflections on Matrix criticism over the last week](https://youtu.be/OyuqM7RbX5E)
 * [2025-08-01, 16:58:10](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox) - [Lobsters Interview with Icefox](https://lobste.rs/s/2vfx6w/lobsters_interview_with_icefox)
 * [2025-08-01, 14:53:05](https://lobste.rs/s/ku3kej/wayback_0_2_released) - [Wayback 0.2 released](https://wayback.freedesktop.org/news/2025/07/31/wayback-0.2-released/)
-* [2025-08-01, 11:03:44](https://lobste.rs/s/nv7a9k/how_nixos_is_built) - [How NixOS is built](https://blog.erethon.com/blog/2025/07/31/how-nixos-is-built/)
 
 ## [Archives](archives/index.md)
 
