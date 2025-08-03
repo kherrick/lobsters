@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 23:12:36](https://lobste.rs/s/r4gu43/render_your_jupyter_notebooks_opengist) - [Render your Jupyter notebooks in OpenGist](https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist)
 * [2025-08-03, 21:32:40](https://lobste.rs/s/avqqha/governance_gnome) - [Governance in GNOME](https://www.bassi.io)
 * [2025-08-03, 21:30:44](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl) - [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)

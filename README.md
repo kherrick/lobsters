@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-03, 23:12:36](https://lobste.rs/s/r4gu43/render_your_jupyter_notebooks_opengist) - [Render your Jupyter notebooks in OpenGist](https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist)
 * [2025-08-03, 21:32:40](https://lobste.rs/s/avqqha/governance_gnome) - [Governance in GNOME](https://www.bassi.io)
 * [2025-08-03, 21:30:44](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl) - [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)
@@ -18,7 +19,6 @@
 * [2025-08-02, 22:49:11](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related) - [How do you backup your non-work-related data?](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related)
 * [2025-08-02, 19:22:58](https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 18:31:50](https://lobste.rs/s/lwufi3/rubik_s_cube_perfect_scramble) - [The Rubik's Cube Perfect Scramble](https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble)
-* [2025-08-02, 17:37:38](https://lobste.rs/s/bf14oh/how_reverse_engineer_analog_chip_tda7000) - [How to reverse engineer an analog chip: the TDA7000 FM radio receiver](http://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html)
 * [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 * [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer_1996) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
