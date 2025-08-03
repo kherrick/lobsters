@@ -12,6 +12,7 @@
 * [2025-08-02, 14:32:32](https://lobste.rs/s/fpljpw/unikernel_guide_build_deploy) - [Unikernel Guide: Build & Deploy Lightweight, Secure Apps](https://tallysolutions.com/technology/introduction-to-unikernel-2/)
 * [2025-08-02, 13:12:39](https://lobste.rs/s/0jfjcg/executing_arbitrary_python_code_from) - [Executing arbitrary Python code from a comment](https://www.hacktron.ai/blog/posts/python-zip-confusion/)
 * [2025-08-02, 12:34:19](https://lobste.rs/s/rjfxop/bytecode_vm_for_arithmetic_parser) - [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/)
+* [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer_1996) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
 * [2025-08-02, 11:02:15](https://lobste.rs/s/ogd44u/purgatorio_wip_64_bit_port_inferno) - [purgatorio – the WIP 64-bit port of Inferno](https://git.9front.org/plan9front/purgatorio/HEAD/info.html)
