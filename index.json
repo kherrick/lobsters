@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-03, 21:32:40",
+      "https://lobste.rs/s/avqqha/governance_gnome"
+    ],
+    [
+      "Governance in GNOME",
+      "https://www.bassi.io"
+    ]
+  ],
+  [
+    [
+      "2025-08-03, 21:30:44",
+      "https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl"
+    ],
+    [
+      "CriTcl: easily embed C code in Tcl",
+      "https://andreas-kupries.github.io/critcl/"
+    ]
+  ],
+  [
+    [
       "2025-08-03, 20:50:46",
       "https://lobste.rs/s/he44wn/assemblyscript"
     ],
@@ -177,26 +197,6 @@
     [
       "The /o in Ruby regex stands for “oh the humanity!”",
       "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 13:12:39",
-      "https://lobste.rs/s/0jfjcg/executing_arbitrary_python_code_from"
-    ],
-    [
-      "Executing arbitrary Python code from a comment",
-      "https://www.hacktron.ai/blog/posts/python-zip-confusion/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 12:34:19",
-      "https://lobste.rs/s/rjfxop/bytecode_vm_for_arithmetic_parser"
-    ],
-    [
-      "A Bytecode VM for Arithmetic: The Parser",
-      "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/"
     ]
   ],
   [
