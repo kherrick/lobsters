@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)
 * [2025-08-03, 19:16:26](https://lobste.rs/s/7k3hlk/future_software_is_small) - [The Future Of Software Is Small](https://www.aparker.io/post/3lvjepuyf4q2w)
 * [2025-08-03, 18:25:01](https://lobste.rs/s/vxws0m/sub_title) - [Sub/Title](https://subtitle.wackyneighbor.com)
 * [2025-08-03, 13:30:48](https://lobste.rs/s/ocpifu/cchistory_tracking_claude_code_system) - [cchistory: Tracking Claude Code System Prompt and Tool Changes](https://mariozechner.at/posts/2025-08-03-cchistory/)
@@ -22,7 +23,6 @@
 * [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
 * [2025-08-02, 10:59:12](https://lobste.rs/s/jf7ldc/this_month_ladybird_july_2025) - [This Month in Ladybird - July 2025](https://ladybird.org/newsletter/2025-07-31/)
-* [2025-08-02, 05:23:40](https://lobste.rs/s/pm9hcp/keep_calm_carry_on) - [Keep calm and carry on](https://boston.conman.org/2025/08/01.1)
 * [2025-08-02, 04:26:53](https://lobste.rs/s/6b3ete/jujutsu_for_busy_devs_part_2_how_do_i) - [Jujutsu For Busy Devs, Part 2: \"How Do I...?\"](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1)
 * [2025-08-01, 20:47:01](https://lobste.rs/s/mlnvoy/it_s_rude_show_ai_output_people) - [It's rude to show AI output to people](https://distantprovince.by/posts/its-rude-to-show-ai-output-to-people/)
 

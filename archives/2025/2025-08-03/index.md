@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-03](index.md)
 
+* [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)
 * [2025-08-03, 19:16:26](https://lobste.rs/s/7k3hlk/future_software_is_small) - [The Future Of Software Is Small](https://www.aparker.io/post/3lvjepuyf4q2w)
 * [2025-08-03, 18:25:01](https://lobste.rs/s/vxws0m/sub_title) - [Sub/Title](https://subtitle.wackyneighbor.com)
 * [2025-08-03, 13:30:48](https://lobste.rs/s/ocpifu/cchistory_tracking_claude_code_system) - [cchistory: Tracking Claude Code System Prompt and Tool Changes](https://mariozechner.at/posts/2025-08-03-cchistory/)
