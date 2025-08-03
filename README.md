@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-03, 07:28:54](https://lobste.rs/s/hlj66l/type_safety_back_forth) - [Type Safety Back and Forth](https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html)
 * [2025-08-03, 07:21:20](https://lobste.rs/s/uon7sc/parse_don_t_validate) - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2025-08-03, 06:37:19](https://lobste.rs/s/zxot3i/real_powerbook_macintosh_application) - [A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
 * [2025-08-03, 06:13:23](https://lobste.rs/s/zboryt/c_language_enum_tips_tricks_2021) - [C Language Enum Tips & Tricks (2021)](https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/)
@@ -14,7 +15,6 @@
 * [2025-08-02, 12:34:19](https://lobste.rs/s/rjfxop/bytecode_vm_for_arithmetic_parser) - [A Bytecode VM for Arithmetic: The Parser](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-parser/)
 * [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer) - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 * [2025-08-02, 11:02:40](https://lobste.rs/s/nxde0i/less_glue_more_product_why_elixir_shrinks) - [Less Glue, More Product: Why Elixir Shrinks Architectural Complexity](https://iamkonstantin.eu/blog/less-glue-more-product-why-elixir-shrinks-architectural-complexity/)
-* [2025-08-02, 11:02:15](https://lobste.rs/s/ogd44u/purgatorio_wip_64_bit_port_inferno) - [purgatorio – the WIP 64-bit port of Inferno](https://git.9front.org/plan9front/purgatorio/HEAD/info.html)
 * [2025-08-02, 10:59:12](https://lobste.rs/s/jf7ldc/this_month_ladybird_july_2025) - [This Month in Ladybird - July 2025](https://ladybird.org/newsletter/2025-07-31/)
 * [2025-08-02, 05:23:40](https://lobste.rs/s/pm9hcp/keep_calm_carry_on) - [Keep calm and carry on](https://boston.conman.org/2025/08/01.1)
 * [2025-08-02, 04:26:53](https://lobste.rs/s/6b3ete/jujutsu_for_busy_devs_part_2_how_do_i) - [Jujutsu For Busy Devs, Part 2: \"How Do I...?\"](https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1)
