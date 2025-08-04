@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-08-04, 03:08:12",
+      "https://lobste.rs/s/tflj1y/so_you_want_parse_pdf"
+    ],
+    [
+      "So you want to parse a PDF?",
+      "https://eliot-jones.com/2025/8/pdf-parsing-xref"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 02:53:51",
+      "https://lobste.rs/s/t7osqo/q_programming_language"
+    ],
+    [
+      "The Q Programming Language",
+      "https://git.urbach.dev/cli/q"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 02:10:45",
+      "https://lobste.rs/s/gcrajk/parser_for_typescript_types_written"
+    ],
+    [
+      "a parser for typescript types, written in typescript types",
+      "https://github.com/easrng/tsints"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 02:08:41",
+      "https://lobste.rs/s/ddphh5/maybe_fastest_disk_usage_program_on_macos"
+    ],
+    [
+      "Maybe the Fastest Disk Usage Program on macOS",
+      "https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 01:50:42",
+      "https://lobste.rs/s/c3bhxf/unnumbered_ipv4_interfaces"
+    ],
+    [
+      "Unnumbered IPv4 Interfaces",
+      "https://blog.ipspace.net/series/unnumbered-interfaces/"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 00:50:49",
       "https://lobste.rs/s/cgauwh/future_is_not_self_hosted"
     ],
@@ -57,26 +107,6 @@
     [
       "The Future Of Software Is Small",
       "https://www.aparker.io/post/3lvjepuyf4q2w"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 18:25:01",
-      "https://lobste.rs/s/vxws0m/sub_title"
-    ],
-    [
-      "Sub/Title",
-      "https://subtitle.wackyneighbor.com"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 13:30:48",
-      "https://lobste.rs/s/ocpifu/cchistory_tracking_claude_code_system"
-    ],
-    [
-      "cchistory: Tracking Claude Code System Prompt and Tool Changes",
-      "https://mariozechner.at/posts/2025-08-03-cchistory/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-08-02, 18:31:50",
-      "https://lobste.rs/s/lwufi3/rubik_s_cube_perfect_scramble"
-    ],
-    [
-      "The Rubik's Cube Perfect Scramble",
-      "https://www.solutionslookingforproblems.com/post/the-rubik-s-cube-perfect-scramble"
-    ]
-  ],
-  [
-    [
       "2025-08-02, 14:36:18",
       "https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity"
     ],
@@ -217,26 +237,6 @@
     [
       "How to help someone use a computer (1996)",
       "https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 10:59:12",
-      "https://lobste.rs/s/jf7ldc/this_month_ladybird_july_2025"
-    ],
-    [
-      "This Month in Ladybird - July 2025",
-      "https://ladybird.org/newsletter/2025-07-31/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 04:26:53",
-      "https://lobste.rs/s/6b3ete/jujutsu_for_busy_devs_part_2_how_do_i"
-    ],
-    [
-      "Jujutsu For Busy Devs, Part 2: \"How Do I...?\"",
-      "https://maddie.wtf/posts/2025-07-21-jujutsu-for-busy-devs/entry/1"
     ]
   ],
   [
