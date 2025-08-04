@@ -1,10 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-04, 12:59:49](https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s) - [A systematic evaluation of OpenBSD’s mitigations (2019)](https://isopenbsdsecu.re/)
+* [2025-08-04, 12:58:46](https://lobste.rs/s/35rpzk/god_created_men_sam_altman_made_them_equal) - [God created men; Sam Altman made them equal](https://taylor.town/made-them-equal)
+* [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
+* [2025-08-04, 12:37:54](https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right) - [HTMX is hard so let's get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
 * [2025-08-04, 12:12:07](https://lobste.rs/s/grbmwv/writing_good_design_document) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-04, 11:13:16](https://lobste.rs/s/p08x8x/numai_spreadsheet_where_english) - [NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI](https://github.com/clauderouxster/NUMAI/tree/main)
 * [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-04, 10:13:41](https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix) - [Minimal Scala Container Images using Nix](https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html)
-* [2025-08-04, 10:05:58](https://lobste.rs/s/iayoiv/assuming_as_much_as_possible) - [Assuming as Much as Possible](https://www.youtube.com/watch?v=i-h95QIGchY)
 * [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
 * [2025-08-04, 08:51:48](https://lobste.rs/s/luwz03/practical_static_analysis_for_privacy) - [Practical Static Analysis for Privacy Bugs](https://blog.brownplt.org/2025/08/03/paralegal.html)
 * [2025-08-04, 06:52:49](https://lobste.rs/s/giw3j7/measuring_ai_ability_complete_long_tasks) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
@@ -19,12 +22,9 @@
 * [2025-08-03, 21:30:44](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl) - [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/)
 * [2025-08-03, 11:59:36](https://lobste.rs/s/kewo98/why_semantic_html_still_matters) - [Why Semantic HTML Still Matters](https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/)
 * [2025-08-03, 11:57:34](https://lobste.rs/s/ktd0ss/people_still_use_our_old_fashioned_unix) - [People still use our old-fashioned Unix login servers](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed)
-* [2025-08-03, 11:20:14](https://lobste.rs/s/k74xzb/injecting_java_from_native_libraries_on) - [Injecting Java from native libraries on Android](https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html)
 * [2025-08-03, 07:21:20](https://lobste.rs/s/uon7sc/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [2025-08-03, 06:37:19](https://lobste.rs/s/zxot3i/real_powerbook_macintosh_application) - [A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop](http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html)
-* [2025-08-03, 06:13:23](https://lobste.rs/s/zboryt/c_language_enum_tips_tricks_2021) - [C Language Enum Tips & Tricks (2021)](https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/)
 * [2025-08-03, 05:09:52](https://lobste.rs/s/jcycvq/tagged_unions_are_actually_quite_sexy) - [Tagged Unions are actually quite sexy](https://ciesie.com/post/tagged_unions/)
-* [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
 
 ## [Archives](archives/index.md)
 

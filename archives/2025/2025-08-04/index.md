@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 12:59:49](https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s) - [A systematic evaluation of OpenBSD’s mitigations (2019)](https://isopenbsdsecu.re/)
+* [2025-08-04, 12:58:46](https://lobste.rs/s/35rpzk/god_created_men_sam_altman_made_them_equal) - [God created men; Sam Altman made them equal](https://taylor.town/made-them-equal)
+* [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
+* [2025-08-04, 12:37:54](https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right) - [HTMX is hard so let's get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
 * [2025-08-04, 12:12:07](https://lobste.rs/s/grbmwv/writing_good_design_document) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-04, 11:13:16](https://lobste.rs/s/p08x8x/numai_spreadsheet_where_english) - [NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI](https://github.com/clauderouxster/NUMAI/tree/main)
 * [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
