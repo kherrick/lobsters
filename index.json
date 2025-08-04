@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-04, 15:46:47",
+      "https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua"
+    ],
+    [
+      "Introducing luzer, a coverage-guided Lua fuzzing engine",
+      "https://bronevichok.ru/posts/introducing-luzer.html"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 15:11:33",
       "https://lobste.rs/s/wk4xyi/let_s_hax0r_gc_eventually"
     ],
@@ -107,16 +117,6 @@
     [
       "Writing a good design document",
       "https://grantslatton.com/how-to-design-document"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 11:13:16",
-      "https://lobste.rs/s/p08x8x/numai_spreadsheet_where_english"
-    ],
-    [
-      "NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI",
-      "https://github.com/clauderouxster/NUMAI/tree/main"
     ]
   ],
   [
