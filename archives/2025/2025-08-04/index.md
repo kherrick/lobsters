@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 19:57:22](https://lobste.rs/s/sl0kea/destructive_order_tree_traversal) - [Destructive in-order tree traversal](https://morwenn.github.io//algorithms/2025/08/03/TSB002-destructive-inrder-tree-traversal.html)
 * [2025-08-04, 18:07:28](https://lobste.rs/s/q1vfez/generativity_pattern_rust) - [The Generativity Pattern in Rust](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
 * [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
 * [2025-08-04, 17:08:05](https://lobste.rs/s/0l8415/gentle_introduction_fortran) - [A Gentle Introduction To Fortran](https://hackaday.com/2025/08/04/a-gentle-introduction-to-fortran/)
