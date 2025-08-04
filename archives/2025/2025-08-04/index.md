@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
+* [2025-08-04, 10:13:41](https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix) - [Minimal Scala Container Images using Nix](https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html)
+* [2025-08-04, 10:05:58](https://lobste.rs/s/iayoiv/assuming_as_much_as_possible) - [Assuming as Much as Possible](https://www.youtube.com/watch?v=i-h95QIGchY)
 * [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
 * [2025-08-04, 08:51:48](https://lobste.rs/s/luwz03/practical_static_analysis_for_privacy) - [Practical Static Analysis for Privacy Bugs](https://blog.brownplt.org/2025/08/03/paralegal.html)
 * [2025-08-04, 06:52:49](https://lobste.rs/s/giw3j7/measuring_ai_ability_complete_long_tasks) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
