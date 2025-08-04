@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
+* [2025-08-04, 08:51:48](https://lobste.rs/s/luwz03/practical_static_analysis_for_privacy) - [Practical Static Analysis for Privacy Bugs](https://blog.brownplt.org/2025/08/03/paralegal.html)
 * [2025-08-04, 06:52:49](https://lobste.rs/s/giw3j7/measuring_ai_ability_complete_long_tasks) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 * [2025-08-04, 03:08:12](https://lobste.rs/s/tflj1y/so_you_want_parse_pdf) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-04, 02:53:51](https://lobste.rs/s/t7osqo/q_programming_language) - [The Q Programming Language](https://git.urbach.dev/cli/q)
@@ -22,9 +24,7 @@
 * [2025-08-03, 05:48:37](https://lobste.rs/s/lkgcjg/twenty_eighth_international_obfuscated) - [Twenty Eighth International Obfuscated C Code Contest](https://www.ioccc.org/2024/index.html)
 * [2025-08-03, 05:09:52](https://lobste.rs/s/jcycvq/tagged_unions_are_actually_quite_sexy) - [Tagged Unions are actually quite sexy](https://ciesie.com/post/tagged_unions/)
 * [2025-08-02, 22:49:11](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related) - [How do you backup your non-work-related data?](https://lobste.rs/s/ngo3ex/how_do_you_backup_your_non_work_related)
-* [2025-08-02, 19:22:58](https://lobste.rs/s/k3g2l0/compressing_icelandic_name_declension) - [Compressing Icelandic name declension patterns into a 3.27 kB trie](https://alexharri.com/blog/icelandic-name-declension-trie)
 * [2025-08-02, 14:36:18](https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity) - [The /o in Ruby regex stands for “oh the humanity!”](https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html)
-* [2025-08-02, 11:07:31](https://lobste.rs/s/8ygkg5/how_help_someone_use_computer_1996) - [How to help someone use a computer (1996)](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 
 ## [Archives](archives/index.md)
 

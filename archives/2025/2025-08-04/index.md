@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
+* [2025-08-04, 08:51:48](https://lobste.rs/s/luwz03/practical_static_analysis_for_privacy) - [Practical Static Analysis for Privacy Bugs](https://blog.brownplt.org/2025/08/03/paralegal.html)
 * [2025-08-04, 06:52:49](https://lobste.rs/s/giw3j7/measuring_ai_ability_complete_long_tasks) - [Measuring AI Ability to Complete Long Tasks](https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/)
 * [2025-08-04, 03:08:12](https://lobste.rs/s/tflj1y/so_you_want_parse_pdf) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-04, 02:53:51](https://lobste.rs/s/t7osqo/q_programming_language) - [The Q Programming Language](https://git.urbach.dev/cli/q)
