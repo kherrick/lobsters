@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-04, 22:16:41](https://lobste.rs/s/s69lnq/markdown_monster) - [Markdown Monster](https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md)
+* [2025-08-04, 21:53:33](https://lobste.rs/s/24bo0t/toyota_corolla_programming) - [The Toyota Corolla Of Programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 21:00:27](https://lobste.rs/s/b5a2ii/p_fast_trie_lexically_ordered_hash_map) - [p-fast trie: lexically ordered hash map](https://dotat.at/@/2025-08-04-p-fast-trie.html)
 * [2025-08-04, 18:07:28](https://lobste.rs/s/q1vfez/generativity_pattern_rust) - [The Generativity Pattern in Rust](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
 * [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
@@ -21,7 +22,6 @@
 * [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
 * [2025-08-04, 03:08:12](https://lobste.rs/s/tflj1y/so_you_want_parse_pdf) - [So you want to parse a PDF?](https://eliot-jones.com/2025/8/pdf-parsing-xref)
 * [2025-08-04, 02:53:51](https://lobste.rs/s/t7osqo/q_programming_language) - [The Q Programming Language](https://git.urbach.dev/cli/q)
-* [2025-08-04, 02:10:45](https://lobste.rs/s/gcrajk/parser_for_typescript_types_written) - [a parser for typescript types, written in typescript types](https://github.com/easrng/tsints)
 * [2025-08-04, 02:08:41](https://lobste.rs/s/ddphh5/maybe_fastest_disk_usage_program_on_macos) - [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
 * [2025-08-04, 00:50:49](https://lobste.rs/s/cgauwh/future_is_not_self_hosted) - [The Future is NOT Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-08-03, 07:21:20](https://lobste.rs/s/uon7sc/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
