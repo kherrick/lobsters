@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-04, 11:13:16](https://lobste.rs/s/p08x8x/numai_spreadsheet_where_english) - [NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI](https://github.com/clauderouxster/NUMAI/tree/main)
 * [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-04, 10:13:41](https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix) - [Minimal Scala Container Images using Nix](https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html)
 * [2025-08-04, 10:05:58](https://lobste.rs/s/iayoiv/assuming_as_much_as_possible) - [Assuming as Much as Possible](https://www.youtube.com/watch?v=i-h95QIGchY)
@@ -15,7 +16,6 @@
 * [2025-08-03, 23:12:36](https://lobste.rs/s/r4gu43/render_your_jupyter_notebooks_opengist) - [Render your Jupyter notebooks in OpenGist](https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist)
 * [2025-08-03, 21:32:40](https://lobste.rs/s/avqqha/governance_gnome) - [Governance in GNOME](https://www.bassi.io)
 * [2025-08-03, 21:30:44](https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl) - [CriTcl: easily embed C code in Tcl](https://andreas-kupries.github.io/critcl/)
-* [2025-08-03, 20:50:46](https://lobste.rs/s/he44wn/assemblyscript) - [AssemblyScript](https://www.assemblyscript.org/)
 * [2025-08-03, 11:59:36](https://lobste.rs/s/kewo98/why_semantic_html_still_matters) - [Why Semantic HTML Still Matters](https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/)
 * [2025-08-03, 11:57:34](https://lobste.rs/s/ktd0ss/people_still_use_our_old_fashioned_unix) - [People still use our old-fashioned Unix login servers](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed)
 * [2025-08-03, 11:20:14](https://lobste.rs/s/k74xzb/injecting_java_from_native_libraries_on) - [Injecting Java from native libraries on Android](https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html)

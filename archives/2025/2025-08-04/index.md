@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 11:13:16](https://lobste.rs/s/p08x8x/numai_spreadsheet_where_english) - [NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI](https://github.com/clauderouxster/NUMAI/tree/main)
 * [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-04, 10:13:41](https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix) - [Minimal Scala Container Images using Nix](https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html)
 * [2025-08-04, 10:05:58](https://lobste.rs/s/iayoiv/assuming_as_much_as_possible) - [Assuming as Much as Possible](https://www.youtube.com/watch?v=i-h95QIGchY)
