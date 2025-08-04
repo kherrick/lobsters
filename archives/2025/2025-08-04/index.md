@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 18:07:28](https://lobste.rs/s/q1vfez/generativity_pattern_rust) - [The Generativity Pattern in Rust](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
+* [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
+* [2025-08-04, 17:08:05](https://lobste.rs/s/0l8415/gentle_introduction_fortran) - [A Gentle Introduction To Fortran](https://hackaday.com/2025/08/04/a-gentle-introduction-to-fortran/)
 * [2025-08-04, 15:46:47](https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua) - [Introducing luzer, a coverage-guided Lua fuzzing engine](https://bronevichok.ru/posts/introducing-luzer.html)
 * [2025-08-04, 15:11:33](https://lobste.rs/s/wk4xyi/let_s_hax0r_gc_eventually) - [Let's hax0r a GC… (eventually)](https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/)
 * [2025-08-04, 14:45:16](https://lobste.rs/s/qhui4n/complex_iterators_are_slow) - [Complex Iterators are Slow](https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm)
