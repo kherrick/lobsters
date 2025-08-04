@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-04, 15:46:47](https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua) - [Introducing luzer, a coverage-guided Lua fuzzing engine](https://bronevichok.ru/posts/introducing-luzer.html)
 * [2025-08-04, 15:11:33](https://lobste.rs/s/wk4xyi/let_s_hax0r_gc_eventually) - [Let's hax0r a GC… (eventually)](https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/)
 * [2025-08-04, 14:45:16](https://lobste.rs/s/qhui4n/complex_iterators_are_slow) - [Complex Iterators are Slow](https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm)
 * [2025-08-04, 14:38:43](https://lobste.rs/s/fshwoc/netbsd_new_build_cluster_speeds_up_daily) - [NetBSD New build cluster speeds up daily autobuilds](https://blog.netbsd.org/tnf/entry/new_build_cluster_speeds_up)
@@ -11,7 +12,6 @@
 * [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
 * [2025-08-04, 12:37:54](https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right) - [HTMX is hard so let's get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
 * [2025-08-04, 12:12:07](https://lobste.rs/s/grbmwv/writing_good_design_document) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
-* [2025-08-04, 11:13:16](https://lobste.rs/s/p08x8x/numai_spreadsheet_where_english) - [NUMAI: A spreadsheet where English descriptions are translated into JS formulas thanks to AI](https://github.com/clauderouxster/NUMAI/tree/main)
 * [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-04, 10:13:41](https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix) - [Minimal Scala Container Images using Nix](https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html)
 * [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)

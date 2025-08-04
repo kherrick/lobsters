@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 15:46:47](https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua) - [Introducing luzer, a coverage-guided Lua fuzzing engine](https://bronevichok.ru/posts/introducing-luzer.html)
 * [2025-08-04, 15:11:33](https://lobste.rs/s/wk4xyi/let_s_hax0r_gc_eventually) - [Let's hax0r a GC… (eventually)](https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/)
 * [2025-08-04, 14:45:16](https://lobste.rs/s/qhui4n/complex_iterators_are_slow) - [Complex Iterators are Slow](https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm)
 * [2025-08-04, 14:38:43](https://lobste.rs/s/fshwoc/netbsd_new_build_cluster_speeds_up_daily) - [NetBSD New build cluster speeds up daily autobuilds](https://blog.netbsd.org/tnf/entry/new_build_cluster_speeds_up)
