@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-08-04, 13:21:02",
-      "https://lobste.rs/s/7raysa/future_all_food_will_be_cooked_microwave"
+      "2025-08-04, 14:18:39",
+      "https://lobste.rs/s/cihzjk/netbsd_11_0_release_process_underway"
     ],
     [
-      "In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen",
-      "https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/"
+      "NetBSD 11.0 release process underway",
+      "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 14:09:58",
+      "https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice"
+    ],
+    [
+      "How we made JSON.stringify more than twice as fast",
+      "https://v8.dev/blog/json-stringify"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 13:59:08",
+      "https://lobste.rs/s/i81fly/how_perplexity_is_evading_anti_crawling"
+    ],
+    [
+      "How Perplexity is Evading Anti-crawling Measures",
+      "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Minimal Scala Container Images using Nix",
       "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 10:05:58",
+      "https://lobste.rs/s/iayoiv/assuming_as_much_as_possible"
+    ],
+    [
+      "Assuming as Much as Possible",
+      "https://www.youtube.com/watch?v=i-h95QIGchY"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-08-03, 21:32:40",
-      "https://lobste.rs/s/avqqha/governance_gnome"
-    ],
-    [
-      "Governance in GNOME",
-      "https://www.bassi.io"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 21:30:44",
       "https://lobste.rs/s/ogps7m/critcl_easily_embed_c_code_tcl"
     ],
@@ -227,26 +247,6 @@
     [
       "Parse, don’t validate (2019)",
       "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 06:37:19",
-      "https://lobste.rs/s/zxot3i/real_powerbook_macintosh_application"
-    ],
-    [
-      "A real PowerBook: the Macintosh Application Environment on a PA-RISC laptop",
-      "http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 05:09:52",
-      "https://lobste.rs/s/jcycvq/tagged_unions_are_actually_quite_sexy"
-    ],
-    [
-      "Tagged Unions are actually quite sexy",
-      "https://ciesie.com/post/tagged_unions/"
     ]
   ]
 ]
