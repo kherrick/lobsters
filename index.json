@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-04, 18:07:28",
+      "https://lobste.rs/s/q1vfez/generativity_pattern_rust"
+    ],
+    [
+      "The Generativity Pattern in Rust",
+      "https://arhan.sh/blog/the-generativity-pattern-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 17:35:25",
+      "https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you"
+    ],
+    [
+      "A Few Things About the Anchor Element’s href You Might Not Have Known",
+      "https://blog.jim-nielsen.com/2025/href-value-possibilities/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 17:08:05",
+      "https://lobste.rs/s/0l8415/gentle_introduction_fortran"
+    ],
+    [
+      "A Gentle Introduction To Fortran",
+      "https://hackaday.com/2025/08/04/a-gentle-introduction-to-fortran/"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 15:46:47",
       "https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-08-04, 12:12:07",
-      "https://lobste.rs/s/grbmwv/writing_good_design_document"
-    ],
-    [
-      "Writing a good design document",
-      "https://grantslatton.com/how-to-design-document"
-    ]
-  ],
-  [
-    [
       "2025-08-04, 10:33:21",
       "https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta"
     ],
@@ -157,16 +177,6 @@
     [
       "More retrocomputing, less nostalgia",
       "https://datagubbe.se/retnost/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 08:51:48",
-      "https://lobste.rs/s/luwz03/practical_static_analysis_for_privacy"
-    ],
-    [
-      "Practical Static Analysis for Privacy Bugs",
-      "https://blog.brownplt.org/2025/08/03/paralegal.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The Future is NOT Self-Hosted",
       "https://www.drewlyton.com/story/the-future-is-not-self-hosted/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 23:12:36",
-      "https://lobste.rs/s/r4gu43/render_your_jupyter_notebooks_opengist"
-    ],
-    [
-      "Render your Jupyter notebooks in OpenGist",
-      "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist"
     ]
   ],
   [
