@@ -8,6 +8,7 @@
 * [2025-08-04, 14:18:39](https://lobste.rs/s/cihzjk/netbsd_11_0_release_process_underway) - [NetBSD 11.0 release process underway](https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process)
 * [2025-08-04, 14:09:58](https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-04, 13:59:08](https://lobste.rs/s/i81fly/how_perplexity_is_evading_anti_crawling) - [How Perplexity is Evading Anti-crawling Measures](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
+* [2025-08-04, 13:21:02](https://lobste.rs/s/7raysa/future_all_food_will_be_cooked_microwave) - [In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen](https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/)
 * [2025-08-04, 12:59:49](https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s) - [A systematic evaluation of OpenBSD’s mitigations (2019)](https://isopenbsdsecu.re/)
 * [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
 * [2025-08-04, 12:37:54](https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right) - [HTMX is hard so let's get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
@@ -22,7 +23,6 @@
 * [2025-08-04, 02:08:41](https://lobste.rs/s/ddphh5/maybe_fastest_disk_usage_program_on_macos) - [Maybe the Fastest Disk Usage Program on macOS](https://healeycodes.com/maybe-the-fastest-disk-usage-program-on-macos)
 * [2025-08-04, 00:50:49](https://lobste.rs/s/cgauwh/future_is_not_self_hosted) - [The Future is NOT Self-Hosted](https://www.drewlyton.com/story/the-future-is-not-self-hosted/)
 * [2025-08-03, 23:12:36](https://lobste.rs/s/r4gu43/render_your_jupyter_notebooks_opengist) - [Render your Jupyter notebooks in OpenGist](https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist)
-* [2025-08-03, 11:59:36](https://lobste.rs/s/kewo98/why_semantic_html_still_matters) - [Why Semantic HTML Still Matters](https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters/)
 * [2025-08-03, 11:57:34](https://lobste.rs/s/ktd0ss/people_still_use_our_old_fashioned_unix) - [People still use our old-fashioned Unix login servers](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LoginServersStillUsed)
 * [2025-08-03, 07:21:20](https://lobste.rs/s/uon7sc/parse_don_t_validate_2019) - [Parse, don’t validate (2019)](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
