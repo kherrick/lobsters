@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-04, 10:33:21",
+      "https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta"
+    ],
+    [
+      "Rust, Python, and TypeScript: the new trifecta",
+      "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 10:13:41",
+      "https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix"
+    ],
+    [
+      "Minimal Scala Container Images using Nix",
+      "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 10:05:58",
+      "https://lobste.rs/s/iayoiv/assuming_as_much_as_possible"
+    ],
+    [
+      "Assuming as Much as Possible",
+      "https://www.youtube.com/watch?v=i-h95QIGchY"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 09:13:55",
       "https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-08-03, 19:16:26",
-      "https://lobste.rs/s/7k3hlk/future_software_is_small"
-    ],
-    [
-      "The Future Of Software Is Small",
-      "https://www.aparker.io/post/3lvjepuyf4q2w"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 11:59:36",
       "https://lobste.rs/s/kewo98/why_semantic_html_still_matters"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-03, 07:28:54",
-      "https://lobste.rs/s/hlj66l/type_safety_back_forth"
-    ],
-    [
-      "Type Safety Back and Forth",
-      "https://www.parsonsmatt.org/2017/10/11/type_safety_back_and_forth.html"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 07:21:20",
       "https://lobste.rs/s/uon7sc/parse_don_t_validate_2019"
     ],
@@ -207,16 +217,6 @@
     [
       "C Language Enum Tips & Tricks (2021)",
       "https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/"
-    ]
-  ],
-  [
-    [
-      "2025-08-03, 05:48:37",
-      "https://lobste.rs/s/lkgcjg/twenty_eighth_international_obfuscated"
-    ],
-    [
-      "Twenty Eighth International Obfuscated C Code Contest",
-      "https://www.ioccc.org/2024/index.html"
     ]
   ],
   [
