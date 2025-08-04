@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 14:18:39](https://lobste.rs/s/cihzjk/netbsd_11_0_release_process_underway) - [NetBSD 11.0 release process underway](https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process)
+* [2025-08-04, 14:09:58](https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
+* [2025-08-04, 13:59:08](https://lobste.rs/s/i81fly/how_perplexity_is_evading_anti_crawling) - [How Perplexity is Evading Anti-crawling Measures](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 13:21:02](https://lobste.rs/s/7raysa/future_all_food_will_be_cooked_microwave) - [In the Future All Food Will Be Cooked in a Microwave, and if You Can’t Deal With That Then You Need to Get Out of the Kitchen](https://www.colincornaby.me/2025/08/in-the-future-all-food-will-be-cooked-in-a-microwave-and-if-you-cant-deal-with-that-then-you-need-to-get-out-of-the-kitchen/)
 * [2025-08-04, 12:59:49](https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s) - [A systematic evaluation of OpenBSD’s mitigations (2019)](https://isopenbsdsecu.re/)
 * [2025-08-04, 12:58:46](https://lobste.rs/s/35rpzk/god_created_men_sam_altman_made_them_equal) - [God created men; Sam Altman made them equal](https://taylor.town/made-them-equal)
