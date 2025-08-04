@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-08-04, 12:59:49",
+      "https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s"
+    ],
+    [
+      "A systematic evaluation of OpenBSD’s mitigations (2019)",
+      "https://isopenbsdsecu.re/"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 12:58:46",
+      "https://lobste.rs/s/35rpzk/god_created_men_sam_altman_made_them_equal"
+    ],
+    [
+      "God created men; Sam Altman made them equal",
+      "https://taylor.town/made-them-equal"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 12:55:03",
+      "https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who"
+    ],
+    [
+      "Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks",
+      "https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks"
+    ]
+  ],
+  [
+    [
+      "2025-08-04, 12:37:54",
+      "https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right"
+    ],
+    [
+      "HTMX is hard so let's get it right",
+      "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 12:12:07",
       "https://lobste.rs/s/grbmwv/writing_good_design_document"
     ],
@@ -37,16 +77,6 @@
     [
       "Minimal Scala Container Images using Nix",
       "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 10:05:58",
-      "https://lobste.rs/s/iayoiv/assuming_as_much_as_possible"
-    ],
-    [
-      "Assuming as Much as Possible",
-      "https://www.youtube.com/watch?v=i-h95QIGchY"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-08-03, 11:20:14",
-      "https://lobste.rs/s/k74xzb/injecting_java_from_native_libraries_on"
-    ],
-    [
-      "Injecting Java from native libraries on Android",
-      "https://octet-stream.net/b/scb/2025-08-03-injecting-java-from-native-libraries-on-android.html"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 07:21:20",
       "https://lobste.rs/s/uon7sc/parse_don_t_validate_2019"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-08-03, 06:13:23",
-      "https://lobste.rs/s/zboryt/c_language_enum_tips_tricks_2021"
-    ],
-    [
-      "C Language Enum Tips & Tricks (2021)",
-      "https://kubyshkin.name/posts/c-language-enums-tips-and-tricks/"
-    ]
-  ],
-  [
-    [
       "2025-08-03, 05:09:52",
       "https://lobste.rs/s/jcycvq/tagged_unions_are_actually_quite_sexy"
     ],
     [
       "Tagged Unions are actually quite sexy",
       "https://ciesie.com/post/tagged_unions/"
-    ]
-  ],
-  [
-    [
-      "2025-08-02, 14:36:18",
-      "https://lobste.rs/s/efn1an/o_ruby_regex_stands_for_oh_humanity"
-    ],
-    [
-      "The /o in Ruby regex stands for “oh the humanity!”",
-      "https://jpcamara.com/2025/08/02/the-o-in-ruby-regex.html"
     ]
   ]
 ]
