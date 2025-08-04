@@ -2,7 +2,6 @@
 
 * [2025-08-04, 18:07:28](https://lobste.rs/s/q1vfez/generativity_pattern_rust) - [The Generativity Pattern in Rust](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
 * [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
-* [2025-08-04, 17:08:05](https://lobste.rs/s/0l8415/gentle_introduction_fortran) - [A Gentle Introduction To Fortran](https://hackaday.com/2025/08/04/a-gentle-introduction-to-fortran/)
 * [2025-08-04, 15:46:47](https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua) - [Introducing luzer, a coverage-guided Lua fuzzing engine](https://bronevichok.ru/posts/introducing-luzer.html)
 * [2025-08-04, 15:11:33](https://lobste.rs/s/wk4xyi/let_s_hax0r_gc_eventually) - [Let's hax0r a GC… (eventually)](https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/)
 * [2025-08-04, 14:45:16](https://lobste.rs/s/qhui4n/complex_iterators_are_slow) - [Complex Iterators are Slow](https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm)
@@ -15,6 +14,7 @@
 * [2025-08-04, 12:59:49](https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s) - [A systematic evaluation of OpenBSD’s mitigations (2019)](https://isopenbsdsecu.re/)
 * [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
 * [2025-08-04, 12:37:54](https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right) - [HTMX is hard so let's get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
+* [2025-08-04, 12:12:07](https://lobste.rs/s/grbmwv/writing_good_design_document) - [Writing a good design document](https://grantslatton.com/how-to-design-document)
 * [2025-08-04, 10:33:21](https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta) - [Rust, Python, and TypeScript: the new trifecta](https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/)
 * [2025-08-04, 10:13:41](https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix) - [Minimal Scala Container Images using Nix](https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html)
 * [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
