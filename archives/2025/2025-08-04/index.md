@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 21:00:27](https://lobste.rs/s/b5a2ii/p_fast_trie_lexically_ordered_hash_map) - [p-fast trie: lexically ordered hash map](https://dotat.at/@/2025-08-04-p-fast-trie.html)
 * [2025-08-04, 19:57:22](https://lobste.rs/s/sl0kea/destructive_order_tree_traversal) - [Destructive in-order tree traversal](https://morwenn.github.io//algorithms/2025/08/03/TSB002-destructive-inrder-tree-traversal.html)
 * [2025-08-04, 18:07:28](https://lobste.rs/s/q1vfez/generativity_pattern_rust) - [The Generativity Pattern in Rust](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
 * [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
