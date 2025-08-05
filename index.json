@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-05, 19:36:01",
+      "https://lobste.rs/s/k2qbam/gate_level_emulation_intel_4004_4004"
+    ],
+    [
+      "Gate-level emulation of an Intel 4004 in 4004 bytes of C",
+      "https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 19:19:24",
       "https://lobste.rs/s/grh8bo/how_i_make_3d_games"
     ],
@@ -157,16 +167,6 @@
     [
       "PHP 8.5 Adds Pipe Operator: What it means",
       "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 06:09:22",
-      "https://lobste.rs/s/xejkcr/my_ideal_array_language"
-    ],
-    [
-      "My Ideal Array Language",
-      "https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html"
     ]
   ],
   [
