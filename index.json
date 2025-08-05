@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2025-08-05, 19:19:24",
-      "https://lobste.rs/s/grh8bo/how_i_make_3d_games"
-    ],
-    [
-      "How I make 3D Games",
-      "https://www.youtube.com/watch?v=hAWv6AJ8M-Y"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 19:17:28",
       "https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json"
     ],
     [
       "TIL that You can spot base64 encoded JSON, certificates, and private keys",
       "https://ergaster.org/til/base64-encoded-json/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 19:09:11",
+      "https://lobste.rs/s/tpb5a8/digital_hygiene_emails"
+    ],
+    [
+      "Digital hygiene: Emails",
+      "https://herman.bearblog.dev/digital-hygiene-emails/"
     ]
   ],
   [
@@ -57,6 +57,26 @@
     [
       "Rod Burstall: In Memoriam",
       "https://arxiv.org/html/2505.06456v1"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 17:05:32",
+      "https://lobste.rs/s/4vcb3e/open_models_by_openai"
+    ],
+    [
+      "Open models by OpenAI",
+      "https://openai.com/open-models/"
+    ]
+  ],
+  [
+    [
+      "2025-08-05, 16:18:01",
+      "https://lobste.rs/s/fdp7ye/sparc_makes_little_fire"
+    ],
+    [
+      "A SPARC makes a little fire",
+      "https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2025-08-05, 06:47:20",
-      "https://lobste.rs/s/jj06jz/php_8_5_adds_pipe_operator_what_it_means"
-    ],
-    [
-      "PHP 8.5 Adds Pipe Operator: What it means",
-      "https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 04:45:20",
       "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
     ],
     [
       "What trick of the trade took you too long to learn?",
       "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 02:45:50",
-      "https://lobste.rs/s/ztiaan/when_vibe_coding_isn_t_source_code_prompt"
-    ],
-    [
-      "When vibe coding, isn't the source code the prompt?",
-      "https://boston.conman.org/2025/08/04.1"
     ]
   ],
   [
