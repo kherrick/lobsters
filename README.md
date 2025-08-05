@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-05, 17:12:33](https://lobste.rs/s/fcm3tf/rod_burstall_memoriam) - [Rod Burstall: In Memoriam](https://arxiv.org/html/2505.06456v1)
+* [2025-08-05, 17:05:32](https://lobste.rs/s/4vcb3e/open_models_by_openai) - [Open models by OpenAI](https://openai.com/open-models/)
 * [2025-08-05, 16:17:47](https://lobste.rs/s/12odh4/quickshell_building_blocks_for_your) - [Quickshell, building blocks for your desktop](https://quickshell.org/)
 * [2025-08-05, 15:59:09](https://lobste.rs/s/rutoil/no_ai_is_not_making_engineers_10x_as) - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:38:14](https://lobste.rs/s/6isvtq/proxmox_virtual_environment_9_0_with) - [Proxmox Virtual Environment 9.0 with Debian 13 released](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0)
@@ -23,8 +25,6 @@
 * [2025-08-04, 14:09:58](https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
 * [2025-08-04, 13:59:08](https://lobste.rs/s/i81fly/how_perplexity_is_evading_anti_crawling) - [How Perplexity is Evading Anti-crawling Measures](https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/)
 * [2025-08-04, 12:55:03](https://lobste.rs/s/w2f51x/polish_train_maker_is_suing_hackers_who) - [Polish Train Maker Is Suing the Hackers Who Exposed Its Anti-Repair Tricks](https://www.ifixit.com/News/112008/polish-train-maker-is-suing-the-hackers-who-exposed-its-anti-repair-tricks)
-* [2025-08-04, 12:37:54](https://lobste.rs/s/ockeh1/htmx_is_hard_so_let_s_get_it_right) - [HTMX is hard so let's get it right](https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md)
-* [2025-08-04, 09:13:55](https://lobste.rs/s/qqziki/more_retrocomputing_less_nostalgia) - [More retrocomputing, less nostalgia](https://datagubbe.se/retnost/)
 
 ## [Archives](archives/index.md)
 
