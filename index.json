@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-04, 23:13:37",
+      "https://lobste.rs/s/z3zgvi/every_reason_why_i_hate_ai"
+    ],
+    [
+      "Every reason why I hate Ai",
+      "https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 22:16:41",
       "https://lobste.rs/s/s69lnq/markdown_monster"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-08-04, 19:23:57",
+      "https://lobste.rs/s/vfjld7/getting_llm_play_text_adventures"
+    ],
+    [
+      "Getting an LLM to Play Text Adventures",
+      "https://entropicthoughts.com/getting-an-llm-to-play-text-adventures"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 18:07:28",
       "https://lobste.rs/s/q1vfez/generativity_pattern_rust"
     ],
@@ -57,16 +77,6 @@
     [
       "Introducing luzer, a coverage-guided Lua fuzzing engine",
       "https://bronevichok.ru/posts/introducing-luzer.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 15:11:33",
-      "https://lobste.rs/s/wk4xyi/let_s_hax0r_gc_eventually"
-    ],
-    [
-      "Let's hax0r a GC… (eventually)",
-      "https://h4x0r.org/lets-hax0r-a-garbage-collector-eventually/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Rust, Python, and TypeScript: the new trifecta",
       "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 10:13:41",
-      "https://lobste.rs/s/ocqd8m/minimal_scala_container_images_using_nix"
-    ],
-    [
-      "Minimal Scala Container Images using Nix",
-      "https://blog.aiono.dev/posts/minimal-scala-container-images-using-nix.html"
     ]
   ],
   [
