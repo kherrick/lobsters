@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-05, 04:45:20](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn) - [What trick of the trade took you too long to learn?](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn)
 * [2025-08-05, 02:45:50](https://lobste.rs/s/ztiaan/when_vibe_coding_isn_t_source_code_prompt) - [When vibe coding, isn't the source code the prompt?](https://boston.conman.org/2025/08/04.1)
 * [2025-08-04, 23:13:37](https://lobste.rs/s/z3zgvi/every_reason_why_i_hate_ai) - [Every reason why I hate Ai](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 * [2025-08-04, 22:16:41](https://lobste.rs/s/s69lnq/markdown_monster) - [Markdown Monster](https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md)
@@ -10,7 +11,6 @@
 * [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
 * [2025-08-04, 15:46:47](https://lobste.rs/s/fn4ozc/introducing_luzer_coverage_guided_lua) - [Introducing luzer, a coverage-guided Lua fuzzing engine](https://bronevichok.ru/posts/introducing-luzer.html)
 * [2025-08-04, 14:45:16](https://lobste.rs/s/qhui4n/complex_iterators_are_slow) - [Complex Iterators are Slow](https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm)
-* [2025-08-04, 14:38:43](https://lobste.rs/s/fshwoc/netbsd_new_build_cluster_speeds_up_daily) - [NetBSD New build cluster speeds up daily autobuilds](https://blog.netbsd.org/tnf/entry/new_build_cluster_speeds_up)
 * [2025-08-04, 14:35:53](https://lobste.rs/s/ome2lo/friendly_introduction_svg) - [A Friendly Introduction to SVG](https://www.joshwcomeau.com/svg/friendly-introduction-to-svg/)
 * [2025-08-04, 14:18:39](https://lobste.rs/s/cihzjk/netbsd_11_0_release_process_underway) - [NetBSD 11.0 release process underway](https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process)
 * [2025-08-04, 14:09:58](https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice) - [How we made JSON.stringify more than twice as fast](https://v8.dev/blog/json-stringify)
