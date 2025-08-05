@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-05, 12:10:08",
+      "https://lobste.rs/s/j6brbd/psf_has_paused_our_grants_program"
+    ],
+    [
+      "The PSF has paused our Grants Program",
+      "https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 08:55:06",
       "https://lobste.rs/s/rbp9ta/open_sourcing_shaper_minimal_data"
     ],
@@ -167,16 +177,6 @@
     [
       "Introducing luzer, a coverage-guided Lua fuzzing engine",
       "https://bronevichok.ru/posts/introducing-luzer.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 14:45:16",
-      "https://lobste.rs/s/qhui4n/complex_iterators_are_slow"
-    ],
-    [
-      "Complex Iterators are Slow",
-      "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
     ]
   ],
   [
