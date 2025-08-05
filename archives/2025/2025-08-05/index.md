@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 16:17:47](https://lobste.rs/s/12odh4/quickshell_building_blocks_for_your) - [Quickshell, building blocks for your desktop](https://quickshell.org/)
 * [2025-08-05, 15:59:09](https://lobste.rs/s/rutoil/no_ai_is_not_making_engineers_10x_as) - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:38:14](https://lobste.rs/s/6isvtq/proxmox_virtual_environment_9_0_with) - [Proxmox Virtual Environment 9.0 with Debian 13 released](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0)
 * [2025-08-05, 12:34:47](https://lobste.rs/s/99dxb4/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/99dxb4/what_are_you_doing_this_week)

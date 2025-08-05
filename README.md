@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-05, 16:17:47](https://lobste.rs/s/12odh4/quickshell_building_blocks_for_your) - [Quickshell, building blocks for your desktop](https://quickshell.org/)
 * [2025-08-05, 15:59:09](https://lobste.rs/s/rutoil/no_ai_is_not_making_engineers_10x_as) - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)
 * [2025-08-05, 14:38:14](https://lobste.rs/s/6isvtq/proxmox_virtual_environment_9_0_with) - [Proxmox Virtual Environment 9.0 with Debian 13 released](https://www.proxmox.com/en/about/company-details/press-releases/proxmox-virtual-environment-9-0)
 * [2025-08-05, 12:34:47](https://lobste.rs/s/99dxb4/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/99dxb4/what_are_you_doing_this_week)
 * [2025-08-05, 12:19:55](https://lobste.rs/s/jwyylb/what_i_wish_i_knew_when_learning_picat) - [What I Wish I Knew When Learning Picat](https://github.com/dsagman/picat)
 * [2025-08-05, 12:10:08](https://lobste.rs/s/j6brbd/psf_has_paused_our_grants_program) - [The PSF has paused our Grants Program](https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html)
-* [2025-08-05, 10:10:17](https://lobste.rs/s/xajwed/smartbase_iot_adjustable_bed_for_comfort) - [The SmartBase - IoT Adjustable Bed for Comfort and Safety (2019)](https://www.hackster.io/jsinglet/the-smartbase-iot-adjustable-bed-for-comfort-and-safety-775f06)
 * [2025-08-05, 08:54:40](https://lobste.rs/s/a10ymw/pragmatism_programming_proverbs) - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
 * [2025-08-05, 07:11:20](https://lobste.rs/s/2ppwhw/cordoomceps_replacing_amiga_s_brain_with) - [Cordoomceps - replacing an Amiga's brain with Doom](https://mjg59.dreamwidth.org/73001.html)
 * [2025-08-05, 07:09:02](https://lobste.rs/s/0wmqnt/getting_started_with_randomised_testing) - [Getting Started with Randomised Testing](https://lewiscampbell.tech/blog/250805.html)
