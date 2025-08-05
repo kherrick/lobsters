@@ -52,10 +52,10 @@
   [
     [
       "2025-08-05, 06:50:48",
-      "https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_750_lines_odin"
+      "https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_662_lines_odin"
     ],
     [
-      "Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)",
+      "Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)",
       "https://github.com/krig/LISP"
     ]
   ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2025-08-04, 14:45:16",
-      "https://lobste.rs/s/qhui4n/complex_iterators_are_slow"
+      "2025-08-04, 14:18:39",
+      "https://lobste.rs/s/cihzjk/netbsd_11_0_release_process_underway"
     ],
     [
-      "Complex Iterators are Slow",
-      "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
+      "NetBSD 11.0 release process underway",
+      "https://blog.netbsd.org/tnf/entry/netbsd_11_0_release_process"
     ]
   ],
   [
