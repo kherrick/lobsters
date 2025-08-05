@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-05, 19:38:11](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing) - [Have you ever regretted open-sourcing something?](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing)
+* [2025-08-05, 19:36:01](https://lobste.rs/s/k2qbam/gate_level_emulation_intel_4004_4004) - [Gate-level emulation of an Intel 4004 in 4004 bytes of C](https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html)
 * [2025-08-05, 19:19:24](https://lobste.rs/s/grh8bo/how_i_make_3d_games) - [How I make 3D Games](https://www.youtube.com/watch?v=hAWv6AJ8M-Y)
 * [2025-08-05, 19:17:28](https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)
@@ -16,7 +17,6 @@
 * [2025-08-05, 07:09:02](https://lobste.rs/s/0wmqnt/getting_started_with_randomised_testing) - [Getting Started with Randomised Testing](https://lewiscampbell.tech/blog/250805.html)
 * [2025-08-05, 06:50:48](https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_662_lines_odin) - [Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-05, 06:47:20](https://lobste.rs/s/jj06jz/php_8_5_adds_pipe_operator_what_it_means) - [PHP 8.5 Adds Pipe Operator: What it means](https://thephp.foundation/blog/2025/07/11/php-85-adds-pipe-operator/)
-* [2025-08-05, 06:09:22](https://lobste.rs/s/xejkcr/my_ideal_array_language) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
 * [2025-08-05, 04:45:20](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn) - [What trick of the trade took you too long to learn?](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn)
 * [2025-08-05, 02:45:50](https://lobste.rs/s/ztiaan/when_vibe_coding_isn_t_source_code_prompt) - [When vibe coding, isn't the source code the prompt?](https://boston.conman.org/2025/08/04.1)
 * [2025-08-04, 23:13:37](https://lobste.rs/s/z3zgvi/every_reason_why_i_hate_ai) - [Every reason why I hate Ai](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
