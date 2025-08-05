@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-08-05, 12:19:55",
+      "https://lobste.rs/s/jwyylb/what_i_wish_i_knew_when_learning_picat"
+    ],
+    [
+      "What I Wish I Knew When Learning Picat",
+      "https://github.com/dsagman/picat"
+    ]
+  ],
+  [
+    [
       "2025-08-05, 12:10:08",
       "https://lobste.rs/s/j6brbd/psf_has_paused_our_grants_program"
     ],
     [
       "The PSF has paused our Grants Program",
       "https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 08:55:06",
-      "https://lobste.rs/s/rbp9ta/open_sourcing_shaper_minimal_data"
-    ],
-    [
-      "Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics",
-      "https://github.com/taleshape-com/shaper"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-08-04, 14:45:16",
+      "https://lobste.rs/s/qhui4n/complex_iterators_are_slow"
+    ],
+    [
+      "Complex Iterators are Slow",
+      "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 14:09:58",
       "https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice"
     ],
@@ -217,16 +227,6 @@
     [
       "HTMX is hard so let's get it right",
       "https://github.com/BookOfCooks/blog/blob/master/htmx-is-hard-so-lets-get-it-right.md"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 10:33:21",
-      "https://lobste.rs/s/ye0emy/rust_python_typescript_new_trifecta"
-    ],
-    [
-      "Rust, Python, and TypeScript: the new trifecta",
-      "https://smallcultfollowing.com/babysteps/blog/2025/07/31/rs-py-ts-trifecta/"
     ]
   ],
   [
