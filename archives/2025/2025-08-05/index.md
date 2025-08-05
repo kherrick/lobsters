@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 08:55:06](https://lobste.rs/s/rbp9ta/open_sourcing_shaper_minimal_data) - [Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics](https://github.com/taleshape-com/shaper)
+* [2025-08-05, 08:54:40](https://lobste.rs/s/a10ymw/pragmatism_programming_proverbs) - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
 * [2025-08-05, 07:09:02](https://lobste.rs/s/0wmqnt/getting_started_with_randomised_testing) - [Getting Started with Randomised Testing](https://lewiscampbell.tech/blog/250805.html)
 * [2025-08-05, 06:50:48](https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_750_lines_odin) - [Lisp interpreter with GC in <750 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-05, 06:09:22](https://lobste.rs/s/xejkcr/my_ideal_array_language) - [My Ideal Array Language](https://www.ashermancinelli.com/csblog/2025-7-20-Ideal-Array-Language.html)
