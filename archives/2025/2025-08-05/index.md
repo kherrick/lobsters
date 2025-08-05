@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 12:10:08](https://lobste.rs/s/j6brbd/psf_has_paused_our_grants_program) - [The PSF has paused our Grants Program](https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html)
 * [2025-08-05, 08:55:06](https://lobste.rs/s/rbp9ta/open_sourcing_shaper_minimal_data) - [Open Sourcing Shaper: Minimal Data Platform for Embedded Analytics](https://github.com/taleshape-com/shaper)
 * [2025-08-05, 08:54:40](https://lobste.rs/s/a10ymw/pragmatism_programming_proverbs) - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
 * [2025-08-05, 08:40:34](https://lobste.rs/s/rv9vwy/aws_deleted_my_10_year_account_all_data) - [AWS deleted my 10-year account and all data without warning](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/)
