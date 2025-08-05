@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-04](index.md)
 
+* [2025-08-04, 23:13:37](https://lobste.rs/s/z3zgvi/every_reason_why_i_hate_ai) - [Every reason why I hate Ai](https://malwaretech.com/2025/08/every-reason-why-i-hate-ai.html)
 * [2025-08-04, 22:16:41](https://lobste.rs/s/s69lnq/markdown_monster) - [Markdown Monster](https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md)
 * [2025-08-04, 21:53:33](https://lobste.rs/s/24bo0t/toyota_corolla_programming) - [The Toyota Corolla Of Programming](https://deprogrammaticaipsum.com/the-toyota-corolla-of-programming/)
 * [2025-08-04, 21:00:27](https://lobste.rs/s/b5a2ii/p_fast_trie_lexically_ordered_hash_map) - [p-fast trie: lexically ordered hash map](https://dotat.at/@/2025-08-04-p-fast-trie.html)
 * [2025-08-04, 19:57:22](https://lobste.rs/s/sl0kea/destructive_order_tree_traversal) - [Destructive in-order tree traversal](https://morwenn.github.io//algorithms/2025/08/03/TSB002-destructive-inrder-tree-traversal.html)
+* [2025-08-04, 19:23:57](https://lobste.rs/s/vfjld7/getting_llm_play_text_adventures) - [Getting an LLM to Play Text Adventures](https://entropicthoughts.com/getting-an-llm-to-play-text-adventures)
 * [2025-08-04, 18:07:28](https://lobste.rs/s/q1vfez/generativity_pattern_rust) - [The Generativity Pattern in Rust](https://arhan.sh/blog/the-generativity-pattern-in-rust/)
 * [2025-08-04, 17:35:25](https://lobste.rs/s/ty7aep/few_things_about_anchor_element_s_href_you) - [A Few Things About the Anchor Element’s href You Might Not Have Known](https://blog.jim-nielsen.com/2025/href-value-possibilities/)
 * [2025-08-04, 17:08:05](https://lobste.rs/s/0l8415/gentle_introduction_fortran) - [A Gentle Introduction To Fortran](https://hackaday.com/2025/08/04/a-gentle-introduction-to-fortran/)
