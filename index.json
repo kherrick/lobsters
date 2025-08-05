@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-08-04, 14:45:16",
+      "https://lobste.rs/s/qhui4n/complex_iterators_are_slow"
+    ],
+    [
+      "Complex Iterators are Slow",
+      "https://caolan.uk/notes/2025-07-31_complex_iterators_are_slow.cm"
+    ]
+  ],
+  [
+    [
       "2025-08-04, 14:09:58",
       "https://lobste.rs/s/ueocpa/how_we_made_json_stringify_more_than_twice"
     ],
@@ -187,16 +197,6 @@
     [
       "How Perplexity is Evading Anti-crawling Measures",
       "https://blog.cloudflare.com/perplexity-is-using-stealth-undeclared-crawlers-to-evade-website-no-crawl-directives/"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 12:59:49",
-      "https://lobste.rs/s/ge9tvj/systematic_evaluation_openbsd_s"
-    ],
-    [
-      "A systematic evaluation of OpenBSD’s mitigations (2019)",
-      "https://isopenbsdsecu.re/"
     ]
   ],
   [
