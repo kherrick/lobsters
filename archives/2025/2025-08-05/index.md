@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-05](index.md)
 
+* [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)
 * [2025-08-05, 17:12:33](https://lobste.rs/s/fcm3tf/rod_burstall_memoriam) - [Rod Burstall: In Memoriam](https://arxiv.org/html/2505.06456v1)
 * [2025-08-05, 17:05:32](https://lobste.rs/s/4vcb3e/open_models_by_openai) - [Open models by OpenAI](https://openai.com/open-models/)
 * [2025-08-05, 16:18:01](https://lobste.rs/s/fdp7ye/sparc_makes_little_fire) - [A SPARC makes a little fire](https://www.leadedsolder.com/2025/08/05/sparcstation-scsi-termination-fix-magic-smoke.html)
