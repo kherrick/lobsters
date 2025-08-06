@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:26:18](https://lobste.rs/s/wzj0h7/we_shouldn_t_have_needed_lockfiles) - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 15:41:10](https://lobste.rs/s/ndejda/dotfiles_feel_too_intimate_personal) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
 * [2025-08-06, 15:19:24](https://lobste.rs/s/4fcgpi/new_method_is_fastest_way_find_best_routes) - [New Method Is the Fastest Way To Find the Best Routes](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
