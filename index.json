@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-08-06, 21:22:19",
-      "https://lobste.rs/s/5hnejr/easy_implement_arena_friendly_hash_map"
-    ],
-    [
-      "An easy-to-implement, arena-friendly hash map",
-      "https://nullprogram.com/blog/2023/09/30/"
-    ]
-  ],
-  [
-    [
       "2025-08-06, 21:18:21",
       "https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex"
     ],
@@ -67,6 +57,16 @@
     [
       "Implementing Viewstamped Replication protocol (2023)",
       "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 19:05:49",
+      "https://lobste.rs/s/wgtqcx/out_fibbing_cpython_with_plush"
+    ],
+    [
+      "Out-Fibbing CPython with the Plush Interpreter",
+      "https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/"
     ]
   ],
   [
