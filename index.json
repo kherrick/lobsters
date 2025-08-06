@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-06, 21:30:34",
+      "https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing"
+    ],
+    [
+      "What Happens When You Start Panic!ing",
+      "https://www.youtube.com/watch?v=GsnwR-Doeeo"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 21:18:21",
+      "https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex"
+    ],
+    [
+      "LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics",
+      "https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 20:53:06",
+      "https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari"
+    ],
+    [
+      "uBlock Origin Lite for Safari",
+      "https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 19:41:50",
       "https://lobste.rs/s/xoyolt/litestar_is_worth_look"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-08-05, 19:36:01",
-      "https://lobste.rs/s/k2qbam/gate_level_emulation_intel_4004_4004"
-    ],
-    [
-      "Gate-level emulation of an Intel 4004 in 4004 bytes of C",
-      "https://nicholas.carlini.com/writing/2025/ioccc-intel-4004-in-4004-bytes-c.html"
-    ]
-  ],
-  [
-    [
       "2025-08-05, 19:17:28",
       "https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json"
     ],
@@ -227,26 +247,6 @@
     [
       "No, AI is not Making Engineers 10x as Productive",
       "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 04:45:20",
-      "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
-    ],
-    [
-      "What trick of the trade took you too long to learn?",
-      "https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn"
-    ]
-  ],
-  [
-    [
-      "2025-08-04, 22:16:41",
-      "https://lobste.rs/s/s69lnq/markdown_monster"
-    ],
-    [
-      "Markdown Monster",
-      "https://git.sr.ht/~xigoi/markdown-monster/blob/master/monster.md"
     ]
   ]
 ]
