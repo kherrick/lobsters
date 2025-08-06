@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-06, 21:49:02](https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for) - [comptime.ts — compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-06, 21:30:34](https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing) - [What Happens When You Start Panic!ing](https://www.youtube.com/watch?v=GsnwR-Doeeo)
 * [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
@@ -17,7 +18,6 @@
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
 * [2025-08-06, 07:00:13](https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas) - [Rethinking devtools: Escaping the Cloud and SaaS trap](https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas)
 * [2025-08-06, 03:55:07](https://lobste.rs/s/o5bqwn/proper_x86_assembler_haskell_using) - [A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
-* [2025-08-06, 01:06:05](https://lobste.rs/s/lixhpb/cosmopolitan_build_once_run_anywhere_c) - [cosmopolitan: build-once run-anywhere c library](https://github.com/jart/cosmopolitan)
 * [2025-08-06, 00:11:52](https://lobste.rs/s/5blqas/be_careful_with_go_struct_embedding) - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 * [2025-08-05, 19:38:11](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing) - [Have you ever regretted open-sourcing something?](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing)
 * [2025-08-05, 19:17:28](https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)

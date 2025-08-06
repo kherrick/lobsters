@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 21:49:02](https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for) - [comptime.ts — compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-06, 21:30:34](https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing) - [What Happens When You Start Panic!ing](https://www.youtube.com/watch?v=GsnwR-Doeeo)
 * [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
