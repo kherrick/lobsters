@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 11:17:49](https://lobste.rs/s/gis5w9/project_ire_autonomously_identifies) - [Project Ire autonomously identifies malware at scale](https://www.microsoft.com/en-us/research/blog/project-ire-autonomously-identifies-malware-at-scale/)
+* [2025-08-06, 11:16:39](https://lobste.rs/s/jkxa7n/bag_words_have_mercy_on_us) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
 * [2025-08-06, 10:42:09](https://lobste.rs/s/cm59os/what_s_new_gleam_1_12_video_walkthrough) - [What's new in Gleam 1.12? (video walkthrough)](https://www.youtube.com/watch?v=KYvydMeTpzQ)
 * [2025-08-06, 08:25:14](https://lobste.rs/s/6wjkre/python_performance_myths_fairy_tales) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
