@@ -2,8 +2,9 @@
 
 * [2025-08-06, 21:49:02](https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for) - [comptime.ts — compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-06, 21:30:34](https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing) - [What Happens When You Start Panic!ing](https://www.youtube.com/watch?v=GsnwR-Doeeo)
+* [2025-08-06, 21:22:19](https://lobste.rs/s/5hnejr/easy_implement_arena_friendly_hash_map) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 * [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
-* [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
+* [2025-08-06, 20:56:09](https://lobste.rs/s/zpuerf/one_billion_row_challenge_2024) - [One Billion Row Challenge (2024)](https://curiouscoding.nl/posts/1brc/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 19:36:26](https://lobste.rs/s/eije8v/implementing_viewstamped_replication) - [Implementing Viewstamped Replication protocol (2023)](https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/)
 * [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
@@ -21,7 +22,6 @@
 * [2025-08-06, 00:11:52](https://lobste.rs/s/5blqas/be_careful_with_go_struct_embedding) - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 * [2025-08-05, 19:38:11](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing) - [Have you ever regretted open-sourcing something?](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing)
 * [2025-08-05, 19:17:28](https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
-* [2025-08-05, 19:09:11](https://lobste.rs/s/tpb5a8/digital_hygiene_emails) - [Digital hygiene: Emails](https://herman.bearblog.dev/digital-hygiene-emails/)
 * [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)
 * [2025-08-05, 16:17:47](https://lobste.rs/s/12odh4/quickshell_building_blocks_for_your) - [Quickshell, building blocks for your desktop](https://quickshell.org/)
 * [2025-08-05, 15:59:09](https://lobste.rs/s/rutoil/no_ai_is_not_making_engineers_10x_as) - [No, AI is not Making Engineers 10x as Productive](https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/)

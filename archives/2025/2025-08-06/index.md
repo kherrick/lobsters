@@ -6,7 +6,9 @@
 
 * [2025-08-06, 21:49:02](https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for) - [comptime.ts — compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-06, 21:30:34](https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing) - [What Happens When You Start Panic!ing](https://www.youtube.com/watch?v=GsnwR-Doeeo)
+* [2025-08-06, 21:22:19](https://lobste.rs/s/5hnejr/easy_implement_arena_friendly_hash_map) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 * [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
+* [2025-08-06, 20:56:09](https://lobste.rs/s/zpuerf/one_billion_row_challenge_2024) - [One Billion Row Challenge (2024)](https://curiouscoding.nl/posts/1brc/)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 19:36:26](https://lobste.rs/s/eije8v/implementing_viewstamped_replication) - [Implementing Viewstamped Replication protocol (2023)](https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/)
