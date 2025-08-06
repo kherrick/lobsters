@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 15:41:10](https://lobste.rs/s/ndejda/dotfiles_feel_too_intimate_personal) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
 * [2025-08-06, 15:19:24](https://lobste.rs/s/4fcgpi/new_method_is_fastest_way_find_best_routes) - [New Method Is the Fastest Way To Find the Best Routes](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 * [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:28:06](https://lobste.rs/s/7qwokh/scaling_correctness_marc_brooker_on) - [Scaling Correctness: Marc Brooker on a Decade of Formal Methods at AWS](https://podcasts.apple.com/us/podcast/scaling-correctness-marc-brooker-on-a-decade-of/id1828967504?i=1000720862143)

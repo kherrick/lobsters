@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-06, 15:41:10](https://lobste.rs/s/ndejda/dotfiles_feel_too_intimate_personal) - [Dotfiles feel too intimate and personal to share](https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/)
 * [2025-08-06, 15:19:24](https://lobste.rs/s/4fcgpi/new_method_is_fastest_way_find_best_routes) - [New Method Is the Fastest Way To Find the Best Routes](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
 * [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
-* [2025-08-06, 12:48:27](https://lobste.rs/s/ypwq9z/more_than_two_hard_disks_dos) - [More than Two Hard Disks in DOS](https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
 * [2025-08-06, 11:16:39](https://lobste.rs/s/jkxa7n/bag_words_have_mercy_on_us) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
 * [2025-08-06, 08:25:14](https://lobste.rs/s/6wjkre/python_performance_myths_fairy_tales) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
