@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 21:30:34](https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing) - [What Happens When You Start Panic!ing](https://www.youtube.com/watch?v=GsnwR-Doeeo)
+* [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
+* [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 19:36:26](https://lobste.rs/s/eije8v/implementing_viewstamped_replication) - [Implementing Viewstamped Replication protocol (2023)](https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/)
 * [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
