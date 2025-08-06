@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-06, 17:26:18",
+      "https://lobste.rs/s/wzj0h7/we_shouldn_t_have_needed_lockfiles"
+    ],
+    [
+      "We shouldn’t have needed lockfiles",
+      "https://tonsky.me/blog/lockfiles/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 15:41:10",
       "https://lobste.rs/s/ndejda/dotfiles_feel_too_intimate_personal"
     ],
@@ -107,16 +117,6 @@
     [
       "Rethinking devtools: Escaping the Cloud and SaaS trap",
       "https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 06:25:27",
-      "https://lobste.rs/s/umsj7d/wall_confronting_large_language_models"
-    ],
-    [
-      "The wall confronting large language models",
-      "https://arxiv.org/abs/2507.19703"
     ]
   ],
   [
