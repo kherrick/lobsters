@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-06, 14:28:06](https://lobste.rs/s/7qwokh/scaling_correctness_marc_brooker_on) - [Scaling Correctness: Marc Brooker on a Decade of Formal Methods at AWS](https://podcasts.apple.com/us/podcast/scaling-correctness-marc-brooker-on-a-decade-of/id1828967504?i=1000720862143)
+* [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:59:03](https://lobste.rs/s/7ga1ra/zigzag_number_spiral) - [Zigzag Number Spiral](https://susam.net/zigzag-number-spiral.html)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)

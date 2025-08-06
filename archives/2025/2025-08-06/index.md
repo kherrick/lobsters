@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:28:06](https://lobste.rs/s/7qwokh/scaling_correctness_marc_brooker_on) - [Scaling Correctness: Marc Brooker on a Decade of Formal Methods at AWS](https://podcasts.apple.com/us/podcast/scaling-correctness-marc-brooker-on-a-decade-of/id1828967504?i=1000720862143)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 12:48:27](https://lobste.rs/s/ypwq9z/more_than_two_hard_disks_dos) - [More than Two Hard Disks in DOS](https://www.os2museum.com/wp/more-than-two-hard-disks-in-dos/)
