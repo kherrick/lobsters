@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-06, 03:55:07](https://lobste.rs/s/o5bqwn/proper_x86_assembler_haskell_using) - [A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional](http://blog.vmchale.com/article/escardo-oliva-functional)
+* [2025-08-06, 03:37:32](https://lobste.rs/s/gtwfjj/omarchy_is_on_move) - [Omarchy is on the move](https://world.hey.com/dhh/omarchy-is-on-the-move-8f848fa4?__readwiseLocation=)
 * [2025-08-06, 01:06:05](https://lobste.rs/s/lixhpb/cosmopolitan_build_once_run_anywhere_c) - [cosmopolitan: build-once run-anywhere c library](https://github.com/jart/cosmopolitan)
 * [2025-08-06, 00:11:52](https://lobste.rs/s/5blqas/be_careful_with_go_struct_embedding) - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 * [2025-08-05, 19:38:11](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing) - [Have you ever regretted open-sourcing something?](https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing)
@@ -16,8 +18,6 @@
 * [2025-08-05, 12:34:47](https://lobste.rs/s/99dxb4/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/99dxb4/what_are_you_doing_this_week)
 * [2025-08-05, 12:19:55](https://lobste.rs/s/jwyylb/what_i_wish_i_knew_when_learning_picat) - [What I Wish I Knew When Learning Picat](https://github.com/dsagman/picat)
 * [2025-08-05, 12:10:08](https://lobste.rs/s/j6brbd/psf_has_paused_our_grants_program) - [The PSF has paused our Grants Program](https://pyfound.blogspot.com/2025/08/the-psf-has-paused-our-grants-program.html)
-* [2025-08-05, 08:54:40](https://lobste.rs/s/a10ymw/pragmatism_programming_proverbs) - [Pragmatism in Programming Proverbs](https://www.gingerbill.org/article/2020/05/31/progamming-pragmatist-proverbs/)
-* [2025-08-05, 07:11:20](https://lobste.rs/s/2ppwhw/cordoomceps_replacing_amiga_s_brain_with) - [Cordoomceps - replacing an Amiga's brain with Doom](https://mjg59.dreamwidth.org/73001.html)
 * [2025-08-05, 07:09:02](https://lobste.rs/s/0wmqnt/getting_started_with_randomised_testing) - [Getting Started with Randomised Testing](https://lewiscampbell.tech/blog/250805.html)
 * [2025-08-05, 06:50:48](https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_662_lines_odin) - [Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)](https://github.com/krig/LISP)
 * [2025-08-05, 04:45:20](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn) - [What trick of the trade took you too long to learn?](https://lobste.rs/s/a1njck/what_trick_trade_took_you_too_long_learn)
