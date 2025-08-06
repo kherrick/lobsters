@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-08-06, 06:25:27",
+      "https://lobste.rs/s/umsj7d/wall_confronting_large_language_models"
+    ],
+    [
+      "The wall confronting large language models",
+      "https://arxiv.org/abs/2507.19703"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 03:55:07",
       "https://lobste.rs/s/o5bqwn/proper_x86_assembler_haskell_using"
     ],
@@ -217,16 +227,6 @@
     [
       "No, AI is not Making Engineers 10x as Productive",
       "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 06:50:48",
-      "https://lobste.rs/s/xbxuo6/lisp_interpreter_with_gc_662_lines_odin"
-    ],
-    [
-      "Lisp interpreter with GC in 662 lines of Odin (and <500 lines of C)",
-      "https://github.com/krig/LISP"
     ]
   ],
   [
