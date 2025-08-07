@@ -2,8 +2,8 @@
 
 * [2025-08-07, 19:54:17](https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025) - [Who's Hiring? Q3 2025](https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025)
 * [2025-08-07, 19:40:31](https://lobste.rs/s/m9dmt8/komodo_my_first_kde_app) - [KomoDo, my first KDE app](https://akselmo.dev/posts/komodo-my-first-kde-app/)
-* [2025-08-07, 19:18:10](https://lobste.rs/s/kbqk7e/version_museum_visual_history_popular) - [Version Museum: visual history of popular websites and software](https://www.versionmuseum.com/)
 * [2025-08-07, 18:41:34](https://lobste.rs/s/vn29xx/gpt_5_is_here) - [GPT-5 is here](https://openai.com/gpt-5/)
+* [2025-08-07, 18:13:51](https://lobste.rs/s/k7hqes/re_label_save_button_be_publish_better) - [Re-label the \"Save\" button to be \"Publish\", to better indicate to users the outcomes of their action](https://phabricator.wikimedia.org/T131132)
 * [2025-08-07, 16:44:43](https://lobste.rs/s/77oshx/nixpkgs_module_system_config_modules) - [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722)
 * [2025-08-07, 16:01:12](https://lobste.rs/s/jeg0io/more_shell_tricks_first_class_lists_jq_es) - [More shell tricks: first class lists, jq, and the es shell](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html)
 * [2025-08-07, 14:44:39](https://lobste.rs/s/lofllu/jepsen_capela_dda5892) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
