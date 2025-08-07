@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 18:13:51](https://lobste.rs/s/k7hqes/re_label_save_button_be_publish_better) - [Re-label the \"Save\" button to be \"Publish\", to better indicate to users the outcomes of their action](https://phabricator.wikimedia.org/T131132)
 * [2025-08-07, 17:47:25](https://lobste.rs/s/nxagug/legacy_extensions_fixed_for_current) - [Legacy extensions fixed for current Firefox Dev Edition (some extra config needed)](https://github.com/xiaoxiaoflood/firefox-scripts/tree/master/extensions)
 * [2025-08-07, 16:44:43](https://lobste.rs/s/77oshx/nixpkgs_module_system_config_modules) - [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722)
 * [2025-08-07, 16:07:37](https://lobste.rs/s/l06org/google_confirms_it_has_been_hacked_warns) - [Google Confirms It Has Been Hacked — Warns User Data Stolen](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
