@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 06:26:00",
+      "https://lobste.rs/s/boguj4/rfc_9457_problem_details_for_http_apis"
+    ],
+    [
+      "RFC 9457 - Problem Details for HTTP APIs",
+      "https://datatracker.ietf.org/doc/html/rfc9457"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 04:50:46",
       "https://lobste.rs/s/cqosgj/onion_lang"
     ],
@@ -187,16 +197,6 @@
     [
       "Rethinking devtools: Escaping the Cloud and SaaS trap",
       "https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 03:55:07",
-      "https://lobste.rs/s/o5bqwn/proper_x86_assembler_haskell_using"
-    ],
-    [
-      "A Proper X86 Assembler in Haskell Using the Escardó-Oliva Functional",
-      "http://blog.vmchale.com/article/escardo-oliva-functional"
     ]
   ],
   [
