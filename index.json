@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-08-07, 02:51:20",
+      "https://lobste.rs/s/3nitm1/reasoning_about_systems_state_spaces"
+    ],
+    [
+      "Reasoning about systems' state spaces",
+      "https://youtu.be/d9cM8f_qSLQ"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 02:21:52",
       "https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame"
     ],
@@ -227,16 +237,6 @@
     [
       "Why are Windows semiannual updates named H1 and H2?",
       "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 19:17:28",
-      "https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json"
-    ],
-    [
-      "TIL that You can spot base64 encoded JSON, certificates, and private keys",
-      "https://ergaster.org/til/base64-encoded-json/"
     ]
   ],
   [
