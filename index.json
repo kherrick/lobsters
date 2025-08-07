@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 04:50:46",
+      "https://lobste.rs/s/cqosgj/onion_lang"
+    ],
+    [
+      "onion-lang",
+      "https://github.com/sjrsjz/onion-lang"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 02:21:52",
       "https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame"
     ],
@@ -97,16 +107,6 @@
     [
       "We shouldn’t have needed lockfiles",
       "https://tonsky.me/blog/lockfiles/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 15:41:10",
-      "https://lobste.rs/s/ndejda/dotfiles_feel_too_intimate_personal"
-    ],
-    [
-      "Dotfiles feel too intimate and personal to share",
-      "https://hamatti.org/posts/dotfiles-feel-too-intimate-and-personal-to-share/"
     ]
   ],
   [
