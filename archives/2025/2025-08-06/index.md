@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-06](index.md)
 
+* [2025-08-06, 23:37:19](https://lobste.rs/s/dxpufo/bluesky_dictionary) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 * [2025-08-06, 21:49:02](https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for) - [comptime.ts — compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-06, 21:30:34](https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing) - [What Happens When You Start Panic!ing](https://www.youtube.com/watch?v=GsnwR-Doeeo)
 * [2025-08-06, 21:22:19](https://lobste.rs/s/5hnejr/easy_implement_arena_friendly_hash_map) - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
