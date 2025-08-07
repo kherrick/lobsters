@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 14:20:43",
+      "https://lobste.rs/s/2t4kwx/asahi_linux_progress_report_linux_6_16"
+    ],
+    [
+      "Asahi Linux Progress Report: Linux 6.16",
+      "https://asahilinux.org/2025/08/progress-report-6-16/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 13:22:48",
       "https://lobste.rs/s/hcvcd9/we_replaced_passwords_with_something"
     ],
@@ -87,16 +97,6 @@
     [
       "TUI version of dmidecode tool",
       "https://github.com/pythops/dmitui"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 06:26:00",
-      "https://lobste.rs/s/boguj4/rfc_9457_problem_details_for_http_apis"
-    ],
-    [
-      "RFC 9457 - Problem Details for HTTP APIs",
-      "https://datatracker.ietf.org/doc/html/rfc9457"
     ]
   ],
   [
