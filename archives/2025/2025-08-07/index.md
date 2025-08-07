@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 22:45:53](https://lobste.rs/s/nsk2vc/mac_history_echoes_current_mac_operating) - [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
 * [2025-08-07, 21:26:24](https://lobste.rs/s/lgkhhv/disposable_code_is_here_stay_durable_code) - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay)
 * [2025-08-07, 21:20:19](https://lobste.rs/s/7rstas/cursor_cli) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 19:54:17](https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025) - [Who's Hiring? Q3 2025](https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025)

@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 22:45:53](https://lobste.rs/s/nsk2vc/mac_history_echoes_current_mac_operating) - [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
 * [2025-08-07, 21:26:24](https://lobste.rs/s/lgkhhv/disposable_code_is_here_stay_durable_code) - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay)
 * [2025-08-07, 21:20:19](https://lobste.rs/s/7rstas/cursor_cli) - [Cursor CLI](https://cursor.com/cli)
 * [2025-08-07, 19:54:17](https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025) - [Who's Hiring? Q3 2025](https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025)
 * [2025-08-07, 19:40:31](https://lobste.rs/s/m9dmt8/komodo_my_first_kde_app) - [KomoDo, my first KDE app](https://akselmo.dev/posts/komodo-my-first-kde-app/)
-* [2025-08-07, 19:18:10](https://lobste.rs/s/kbqk7e/version_museum_visual_history_popular) - [Version Museum: visual history of popular websites and software](https://www.versionmuseum.com/)
 * [2025-08-07, 18:41:34](https://lobste.rs/s/vn29xx/gpt_5_is_here) - [GPT-5 is here](https://openai.com/gpt-5/)
 * [2025-08-07, 16:44:43](https://lobste.rs/s/77oshx/nixpkgs_module_system_config_modules) - [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722)
 * [2025-08-07, 16:01:12](https://lobste.rs/s/jeg0io/more_shell_tricks_first_class_lists_jq_es) - [More shell tricks: first class lists, jq, and the es shell](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html)
