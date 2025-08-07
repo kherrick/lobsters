@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-07, 16:44:43](https://lobste.rs/s/77oshx/nixpkgs_module_system_config_modules) - [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722)
-* [2025-08-07, 16:07:37](https://lobste.rs/s/l06org/google_confirms_it_has_been_hacked_warns) - [Google Confirms It Has Been Hacked — Warns User Data Stolen](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
 * [2025-08-07, 16:01:12](https://lobste.rs/s/jeg0io/more_shell_tricks_first_class_lists_jq_es) - [More shell tricks: first class lists, jq, and the es shell](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html)
 * [2025-08-07, 14:44:39](https://lobste.rs/s/lofllu/jepsen_capela_dda5892) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 14:20:43](https://lobste.rs/s/2t4kwx/asahi_linux_progress_report_linux_6_16) - [Asahi Linux Progress Report: Linux 6.16](https://asahilinux.org/2025/08/progress-report-6-16/)
@@ -15,6 +14,7 @@
 * [2025-08-07, 08:03:13](https://lobste.rs/s/ry4of8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2025-08-07, 07:36:26](https://lobste.rs/s/gimce2/tui_version_dmidecode_tool) - [TUI version of dmidecode tool](https://github.com/pythops/dmitui)
 * [2025-08-07, 04:50:46](https://lobste.rs/s/cqosgj/onion_lang) - [onion-lang](https://github.com/sjrsjz/onion-lang)
+* [2025-08-07, 02:51:20](https://lobste.rs/s/3nitm1/reasoning_about_systems_state_spaces) - [Reasoning about systems' state spaces](https://youtu.be/d9cM8f_qSLQ)
 * [2025-08-07, 02:21:52](https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
 * [2025-08-06, 23:37:19](https://lobste.rs/s/dxpufo/bluesky_dictionary) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
