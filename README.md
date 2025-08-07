@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 19:40:31](https://lobste.rs/s/m9dmt8/komodo_my_first_kde_app) - [KomoDo, my first KDE app](https://akselmo.dev/posts/komodo-my-first-kde-app/)
 * [2025-08-07, 19:18:10](https://lobste.rs/s/kbqk7e/version_museum_visual_history_popular) - [Version Museum: visual history of popular websites and software](https://www.versionmuseum.com/)
 * [2025-08-07, 18:41:34](https://lobste.rs/s/vn29xx/gpt_5_is_here) - [GPT-5 is here](https://openai.com/gpt-5/)
 * [2025-08-07, 16:44:43](https://lobste.rs/s/77oshx/nixpkgs_module_system_config_modules) - [Nixpkgs module system config modules graph](https://discourse.nixos.org/t/nixpkgs-module-system-config-modules-graph/67722)
@@ -22,7 +23,6 @@
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:26:18](https://lobste.rs/s/wzj0h7/we_shouldn_t_have_needed_lockfiles) - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/)
-* [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
 

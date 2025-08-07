@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 19:40:31](https://lobste.rs/s/m9dmt8/komodo_my_first_kde_app) - [KomoDo, my first KDE app](https://akselmo.dev/posts/komodo-my-first-kde-app/)
 * [2025-08-07, 19:18:10](https://lobste.rs/s/kbqk7e/version_museum_visual_history_popular) - [Version Museum: visual history of popular websites and software](https://www.versionmuseum.com/)
 * [2025-08-07, 18:41:34](https://lobste.rs/s/vn29xx/gpt_5_is_here) - [GPT-5 is here](https://openai.com/gpt-5/)
 * [2025-08-07, 18:13:51](https://lobste.rs/s/k7hqes/re_label_save_button_be_publish_better) - [Re-label the \"Save\" button to be \"Publish\", to better indicate to users the outcomes of their action](https://phabricator.wikimedia.org/T131132)
