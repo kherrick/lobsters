@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 07:36:26",
+      "https://lobste.rs/s/gimce2/tui_version_dmidecode_tool"
+    ],
+    [
+      "TUI version of dmidecode tool",
+      "https://github.com/pythops/dmitui"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 06:26:00",
       "https://lobste.rs/s/boguj4/rfc_9457_problem_details_for_http_apis"
     ],
@@ -97,16 +107,6 @@
     [
       "Litestar is worth a look",
       "https://www.b-list.org/weblog/2025/aug/06/litestar/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 19:36:26",
-      "https://lobste.rs/s/eije8v/implementing_viewstamped_replication"
-    ],
-    [
-      "Implementing Viewstamped Replication protocol (2023)",
-      "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/"
     ]
   ],
   [
