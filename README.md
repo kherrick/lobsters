@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 14:44:39](https://lobste.rs/s/lofllu/jepsen_capela_dda5892) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 14:20:43](https://lobste.rs/s/2t4kwx/asahi_linux_progress_report_linux_6_16) - [Asahi Linux Progress Report: Linux 6.16](https://asahilinux.org/2025/08/progress-report-6-16/)
 * [2025-08-07, 13:22:48](https://lobste.rs/s/hcvcd9/we_replaced_passwords_with_something) - [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
 * [2025-08-07, 12:41:27](https://lobste.rs/s/1jkaez/you_don_t_really_need_monads) - [You don't really need monads](https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads)
@@ -21,7 +22,6 @@
 * [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
-* [2025-08-06, 11:16:39](https://lobste.rs/s/jkxa7n/bag_words_have_mercy_on_us) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
 * [2025-08-05, 19:17:28](https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)

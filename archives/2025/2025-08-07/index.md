@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 14:44:39](https://lobste.rs/s/lofllu/jepsen_capela_dda5892) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 14:20:43](https://lobste.rs/s/2t4kwx/asahi_linux_progress_report_linux_6_16) - [Asahi Linux Progress Report: Linux 6.16](https://asahilinux.org/2025/08/progress-report-6-16/)
 * [2025-08-07, 13:22:48](https://lobste.rs/s/hcvcd9/we_replaced_passwords_with_something) - [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
 * [2025-08-07, 12:41:27](https://lobste.rs/s/1jkaez/you_don_t_really_need_monads) - [You don't really need monads](https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads)
