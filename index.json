@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 08:25:26",
+      "https://lobste.rs/s/foh4ch/jujutsu_support_reviewboard"
+    ],
+    [
+      "Jujutsu support in Reviewboard",
+      "https://reviews.reviewboard.org/r/14336/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 07:36:26",
       "https://lobste.rs/s/gimce2/tui_version_dmidecode_tool"
     ],
@@ -217,16 +227,6 @@
     [
       "Be Careful with Go Struct Embedding",
       "https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 19:38:11",
-      "https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing"
-    ],
-    [
-      "Have you ever regretted open-sourcing something?",
-      "https://lobste.rs/s/uvvpzo/have_you_ever_regretted_open_sourcing"
     ]
   ],
   [
