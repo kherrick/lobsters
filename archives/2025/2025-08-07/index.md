@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 11:29:28](https://lobste.rs/s/gtxyo9/hardmode_triangle_0) - [hardmode-triangle-0](https://glfmn.io/posts/hardmode-triangle-0/)
+* [2025-08-07, 11:27:31](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0) - [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/)
 * [2025-08-07, 11:08:18](https://lobste.rs/s/tpifk2/live_coding_sucks) - [Live coding sucks](https://hadid.dev/posts/living-coding/)
 * [2025-08-07, 10:11:49](https://lobste.rs/s/eusxic/tone_mapping_2019) - [Tone Mapping (2019)](https://64.github.io/tonemapping/)
 * [2025-08-07, 08:25:26](https://lobste.rs/s/foh4ch/jujutsu_support_reviewboard) - [Jujutsu support in Reviewboard](https://reviews.reviewboard.org/r/14336/)

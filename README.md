@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 11:29:28](https://lobste.rs/s/gtxyo9/hardmode_triangle_0) - [hardmode-triangle-0](https://glfmn.io/posts/hardmode-triangle-0/)
+* [2025-08-07, 11:27:31](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0) - [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/)
 * [2025-08-07, 11:08:18](https://lobste.rs/s/tpifk2/live_coding_sucks) - [Live coding sucks](https://hadid.dev/posts/living-coding/)
 * [2025-08-07, 10:11:49](https://lobste.rs/s/eusxic/tone_mapping_2019) - [Tone Mapping (2019)](https://64.github.io/tonemapping/)
 * [2025-08-07, 08:03:13](https://lobste.rs/s/ry4of8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
@@ -18,8 +20,6 @@
 * [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
-* [2025-08-06, 11:16:39](https://lobste.rs/s/jkxa7n/bag_words_have_mercy_on_us) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
-* [2025-08-06, 08:25:14](https://lobste.rs/s/6wjkre/python_performance_myths_fairy_tales) - [Python performance myths and fairy tales](https://lwn.net/SubscriberLink/1031707/73cb0cf917307a93/)
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
 * [2025-08-06, 07:00:13](https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas) - [Rethinking devtools: Escaping the Cloud and SaaS trap](https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas)
 * [2025-08-06, 00:11:52](https://lobste.rs/s/5blqas/be_careful_with_go_struct_embedding) - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
