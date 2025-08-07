@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 12:41:27](https://lobste.rs/s/1jkaez/you_don_t_really_need_monads) - [You don't really need monads](https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads)
 * [2025-08-07, 11:29:28](https://lobste.rs/s/gtxyo9/hardmode_triangle_0) - [hardmode-triangle-0](https://glfmn.io/posts/hardmode-triangle-0/)
 * [2025-08-07, 11:27:31](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0) - [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/)
 * [2025-08-07, 11:08:18](https://lobste.rs/s/tpifk2/live_coding_sucks) - [Live coding sucks](https://hadid.dev/posts/living-coding/)
@@ -11,7 +12,6 @@
 * [2025-08-07, 02:51:20](https://lobste.rs/s/3nitm1/reasoning_about_systems_state_spaces) - [Reasoning about systems' state spaces](https://youtu.be/d9cM8f_qSLQ)
 * [2025-08-07, 02:21:52](https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
 * [2025-08-06, 23:37:19](https://lobste.rs/s/dxpufo/bluesky_dictionary) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
-* [2025-08-06, 21:49:02](https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for) - [comptime.ts — compile-time expressions for TypeScript](https://comptime.js.org/)
 * [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
@@ -20,9 +20,9 @@
 * [2025-08-06, 15:01:12](https://lobste.rs/s/oexn2a/zig_error_patterns) - [zig-error-patterns](https://glfmn.io/posts/zig-error-patterns/)
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
+* [2025-08-06, 11:16:39](https://lobste.rs/s/jkxa7n/bag_words_have_mercy_on_us) - [Bag of words, have mercy on us](https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us)
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
 * [2025-08-06, 07:00:13](https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas) - [Rethinking devtools: Escaping the Cloud and SaaS trap](https://lobste.rs/s/dstkgd/rethinking_devtools_escaping_cloud_saas)
-* [2025-08-06, 00:11:52](https://lobste.rs/s/5blqas/be_careful_with_go_struct_embedding) - [Be Careful with Go Struct Embedding](https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html)
 * [2025-08-05, 19:17:28](https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)
 
