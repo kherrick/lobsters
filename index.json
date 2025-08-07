@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-08-06, 19:36:26",
+      "https://lobste.rs/s/eije8v/implementing_viewstamped_replication"
+    ],
+    [
+      "Implementing Viewstamped Replication protocol (2023)",
+      "https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 18:36:49",
       "https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam v1.12.0 released",
       "https://gleam.run/news/no-more-dependency-management-headaches/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 15:59:09",
-      "https://lobste.rs/s/rutoil/no_ai_is_not_making_engineers_10x_as"
-    ],
-    [
-      "No, AI is not Making Engineers 10x as Productive",
-      "https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"
     ]
   ]
 ]
