@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 07:36:26](https://lobste.rs/s/gimce2/tui_version_dmidecode_tool) - [TUI version of dmidecode tool](https://github.com/pythops/dmitui)
 * [2025-08-07, 06:26:00](https://lobste.rs/s/boguj4/rfc_9457_problem_details_for_http_apis) - [RFC 9457 - Problem Details for HTTP APIs](https://datatracker.ietf.org/doc/html/rfc9457)
 * [2025-08-07, 04:50:46](https://lobste.rs/s/cqosgj/onion_lang) - [onion-lang](https://github.com/sjrsjz/onion-lang)
 * [2025-08-07, 02:51:20](https://lobste.rs/s/3nitm1/reasoning_about_systems_state_spaces) - [Reasoning about systems' state spaces](https://youtu.be/d9cM8f_qSLQ)
@@ -10,7 +11,6 @@
 * [2025-08-06, 20:56:09](https://lobste.rs/s/zpuerf/one_billion_row_challenge_2024) - [One Billion Row Challenge (2024)](https://curiouscoding.nl/posts/1brc/)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
-* [2025-08-06, 19:36:26](https://lobste.rs/s/eije8v/implementing_viewstamped_replication) - [Implementing Viewstamped Replication protocol (2023)](https://distributed-computing-musings.com/2023/10/implementing-viewstamped-replication-protocol/)
 * [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:26:18](https://lobste.rs/s/wzj0h7/we_shouldn_t_have_needed_lockfiles) - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 15:19:24](https://lobste.rs/s/4fcgpi/new_method_is_fastest_way_find_best_routes) - [New Method Is the Fastest Way To Find the Best Routes](https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/)
