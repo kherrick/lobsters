@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 19:40:31",
+      "https://lobste.rs/s/m9dmt8/komodo_my_first_kde_app"
+    ],
+    [
+      "KomoDo, my first KDE app",
+      "https://akselmo.dev/posts/komodo-my-first-kde-app/"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 19:18:10",
       "https://lobste.rs/s/kbqk7e/version_museum_visual_history_popular"
     ],
@@ -217,16 +227,6 @@
     [
       "We shouldn’t have needed lockfiles",
       "https://tonsky.me/blog/lockfiles/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 15:01:12",
-      "https://lobste.rs/s/oexn2a/zig_error_patterns"
-    ],
-    [
-      "zig-error-patterns",
-      "https://glfmn.io/posts/zig-error-patterns/"
     ]
   ],
   [
