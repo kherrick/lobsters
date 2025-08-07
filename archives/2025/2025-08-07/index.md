@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-07](index.md)
 
+* [2025-08-07, 13:22:48](https://lobste.rs/s/hcvcd9/we_replaced_passwords_with_something) - [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
 * [2025-08-07, 12:41:27](https://lobste.rs/s/1jkaez/you_don_t_really_need_monads) - [You don't really need monads](https://muratkasimov.art/Ya/Articles/You-don't-really-need-monads)
 * [2025-08-07, 11:29:28](https://lobste.rs/s/gtxyo9/hardmode_triangle_0) - [hardmode-triangle-0](https://glfmn.io/posts/hardmode-triangle-0/)
 * [2025-08-07, 11:27:31](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0) - [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/)
