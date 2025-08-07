@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-08-07, 02:21:52",
+      "https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame"
+    ],
+    [
+      "HTTP/1.1 must die: the desync endgame",
+      "https://portswigger.net/research/http1-must-die"
+    ]
+  ],
+  [
+    [
+      "2025-08-06, 23:37:19",
+      "https://lobste.rs/s/dxpufo/bluesky_dictionary"
+    ],
+    [
+      "The Bluesky Dictionary",
+      "https://www.avibagla.com/blueskydictionary/"
+    ]
+  ],
+  [
+    [
       "2025-08-06, 21:49:02",
       "https://lobste.rs/s/lu4lt3/comptime_ts_compile_time_expressions_for"
     ],
     [
       "comptime.ts — compile-time expressions for TypeScript",
       "https://comptime.js.org/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 21:30:34",
-      "https://lobste.rs/s/o0ns6o/what_happens_when_you_start_panic_ing"
-    ],
-    [
-      "What Happens When You Start Panic!ing",
-      "https://www.youtube.com/watch?v=GsnwR-Doeeo"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Gleam v1.12.0 released",
       "https://gleam.run/news/no-more-dependency-management-headaches/"
-    ]
-  ],
-  [
-    [
-      "2025-08-05, 16:17:47",
-      "https://lobste.rs/s/12odh4/quickshell_building_blocks_for_your"
-    ],
-    [
-      "Quickshell, building blocks for your desktop",
-      "https://quickshell.org/"
     ]
   ],
   [
