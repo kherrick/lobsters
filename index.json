@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-07, 18:13:51",
+      "https://lobste.rs/s/k7hqes/re_label_save_button_be_publish_better"
+    ],
+    [
+      "Re-label the \"Save\" button to be \"Publish\", to better indicate to users the outcomes of their action",
+      "https://phabricator.wikimedia.org/T131132"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 17:47:25",
       "https://lobste.rs/s/nxagug/legacy_extensions_fixed_for_current"
     ],
@@ -237,16 +247,6 @@
     [
       "The how and why of GitHub to Codeberg",
       "https://www.arscyni.cc/file/codeberg.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 08:14:27",
-      "https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named"
-    ],
-    [
-      "Why are Windows semiannual updates named H1 and H2?",
-      "https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435"
     ]
   ]
 ]
