@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-07, 16:07:37](https://lobste.rs/s/l06org/google_confirms_it_has_been_hacked_warns) - [Google Confirms It Has Been Hacked — Warns User Data Stolen](https://www.forbes.com/sites/daveywinder/2025/08/07/google-confirms-it-has-been-hacked---user-data-stolen/)
+* [2025-08-07, 16:01:12](https://lobste.rs/s/jeg0io/more_shell_tricks_first_class_lists_jq_es) - [More shell tricks: first class lists, jq, and the es shell](https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html)
 * [2025-08-07, 14:44:39](https://lobste.rs/s/lofllu/jepsen_capela_dda5892) - [Jepsen: Capela dda5892](https://jepsen.io/analyses/capela-dda5892)
 * [2025-08-07, 14:20:43](https://lobste.rs/s/2t4kwx/asahi_linux_progress_report_linux_6_16) - [Asahi Linux Progress Report: Linux 6.16](https://asahilinux.org/2025/08/progress-report-6-16/)
 * [2025-08-07, 13:22:48](https://lobste.rs/s/hcvcd9/we_replaced_passwords_with_something) - [We replaced passwords with something worse](https://blog.danielh.cc/blog/passwords)
@@ -15,7 +17,6 @@
 * [2025-08-07, 02:51:20](https://lobste.rs/s/3nitm1/reasoning_about_systems_state_spaces) - [Reasoning about systems' state spaces](https://youtu.be/d9cM8f_qSLQ)
 * [2025-08-07, 02:21:52](https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
 * [2025-08-06, 23:37:19](https://lobste.rs/s/dxpufo/bluesky_dictionary) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
-* [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
 * [2025-08-06, 20:53:06](https://lobste.rs/s/bju4on/ublock_origin_lite_for_safari) - [uBlock Origin Lite for Safari](https://mjtsai.com/blog/2025/08/06/ublock-origin-lite-for-safari/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
 * [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
@@ -24,7 +25,6 @@
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
-* [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)
 
 ## [Archives](archives/index.md)
 
