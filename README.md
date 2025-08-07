@@ -12,6 +12,7 @@
 * [2025-08-07, 08:03:13](https://lobste.rs/s/ry4of8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2025-08-07, 07:36:26](https://lobste.rs/s/gimce2/tui_version_dmidecode_tool) - [TUI version of dmidecode tool](https://github.com/pythops/dmitui)
 * [2025-08-07, 04:50:46](https://lobste.rs/s/cqosgj/onion_lang) - [onion-lang](https://github.com/sjrsjz/onion-lang)
+* [2025-08-07, 02:51:20](https://lobste.rs/s/3nitm1/reasoning_about_systems_state_spaces) - [Reasoning about systems' state spaces](https://youtu.be/d9cM8f_qSLQ)
 * [2025-08-07, 02:21:52](https://lobste.rs/s/ckwndr/http_1_1_must_die_desync_endgame) - [HTTP/1.1 must die: the desync endgame](https://portswigger.net/research/http1-must-die)
 * [2025-08-06, 23:37:19](https://lobste.rs/s/dxpufo/bluesky_dictionary) - [The Bluesky Dictionary](https://www.avibagla.com/blueskydictionary/)
 * [2025-08-06, 21:18:21](https://lobste.rs/s/76maez/lf_ai_data_foundation_hosts_vortex) - [LF AI & Data Foundation Hosts Vortex Project to Power High Performance Data Access for AI and Analytics](https://www.linuxfoundation.org/press/lf-ai-data-foundation-hosts-vortex-project-to-power-high-performance-data-access-for-ai-and-analytics)
@@ -23,7 +24,6 @@
 * [2025-08-06, 14:13:20](https://lobste.rs/s/i5zkhc/why_hx_boost_is_actually_most_important) - [Why hx-boost is actually the most important feature of htmx](https://dev.to/yawaramin/why-hx-boost-is-actually-the-most-important-feature-of-htmx-3nc0)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
 * [2025-08-06, 08:14:27](https://lobste.rs/s/usdqtq/why_are_windows_semiannual_updates_named) - [Why are Windows semiannual updates named H1 and H2?](https://devblogs.microsoft.com/oldnewthing/20250805-00/?p=111435)
-* [2025-08-05, 19:17:28](https://lobste.rs/s/nh8vhk/til_you_can_spot_base64_encoded_json) - [TIL that You can spot base64 encoded JSON, certificates, and private keys](https://ergaster.org/til/base64-encoded-json/)
 * [2025-08-05, 18:07:27](https://lobste.rs/s/fbbuql/gleam_v1_12_0_released) - [Gleam v1.12.0 released](https://gleam.run/news/no-more-dependency-management-headaches/)
 
 ## [Archives](archives/index.md)
