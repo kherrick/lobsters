@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 12:59:03](https://lobste.rs/s/qllaru/http_is_not_simple) - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/)
 * [2025-08-08, 12:31:53](https://lobste.rs/s/y3jsqb/preventing_zip_parser_confusion_attacks) - [Preventing ZIP parser confusion attacks on Python package installers](https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/)
 * [2025-08-08, 12:02:21](https://lobste.rs/s/uzvf6k/introducing_wassette_webassembly_based) - [Introducing Wassette: WebAssembly-based tools for AI agents](https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/)
 * [2025-08-08, 10:43:07](https://lobste.rs/s/ziaooy/ios_client_for_proton_authenticator) - [iOS client for Proton Authenticator](https://github.com/protonpass/ios-authenticator)
