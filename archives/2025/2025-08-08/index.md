@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 19:10:23](https://lobste.rs/s/hct5qg/breaking_sorting_barrier_for_directed) - [Breaking the Sorting Barrier for Directed Single-Source Shortest Paths](https://arxiv.org/abs/2504.17033)
 * [2025-08-08, 17:43:40](https://lobste.rs/s/qq2x8t/lvfs_sustainability_plan) - [LVFS Sustainability Plan](https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/)
 * [2025-08-08, 15:30:03](https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe) - [Hypothesis is now thread-safe](https://hypothesis.works/articles/thread-safe/)
 * [2025-08-08, 15:22:58](https://lobste.rs/s/e6pjbl/i_built_free_fast_paced_match_3_game_i_think) - [I built a free fast-paced match-3 game I think you'll like](https://sqrz.app)
