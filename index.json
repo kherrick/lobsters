@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-08, 15:30:03",
+      "https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe"
+    ],
+    [
+      "Hypothesis is now thread-safe",
+      "https://hypothesis.works/articles/thread-safe/"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 15:00:28",
       "https://lobste.rs/s/fswjtl/programming_as_extended_cognition"
     ],
@@ -47,16 +57,6 @@
     [
       "Introducing Wassette: WebAssembly-based tools for AI agents",
       "https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 10:43:07",
-      "https://lobste.rs/s/ziaooy/ios_client_for_proton_authenticator"
-    ],
-    [
-      "iOS client for Proton Authenticator",
-      "https://github.com/protonpass/ios-authenticator"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-08-07, 21:26:24",
+      "https://lobste.rs/s/lgkhhv/disposable_code_is_here_stay_durable_code"
+    ],
+    [
+      "Disposable Code Is Here to Stay, but Durable Code Is What Runs the World",
+      "https://www.honeycomb.io/blog/disposable-code-is-here-to-stay"
+    ]
+  ],
+  [
+    [
       "2025-08-07, 19:54:17",
       "https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Rust 1.89.0",
       "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/"
-    ]
-  ],
-  [
-    [
-      "2025-08-06, 19:41:50",
-      "https://lobste.rs/s/xoyolt/litestar_is_worth_look"
-    ],
-    [
-      "Litestar is worth a look",
-      "https://www.b-list.org/weblog/2025/aug/06/litestar/"
     ]
   ]
 ]
