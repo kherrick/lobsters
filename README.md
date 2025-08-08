@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-08, 17:43:40](https://lobste.rs/s/qq2x8t/lvfs_sustainability_plan) - [LVFS Sustainability Plan](https://blogs.gnome.org/hughsie/2025/08/08/lvfs-sustainability-plan/)
 * [2025-08-08, 15:30:03](https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe) - [Hypothesis is now thread-safe](https://hypothesis.works/articles/thread-safe/)
 * [2025-08-08, 15:00:28](https://lobste.rs/s/fswjtl/programming_as_extended_cognition) - [Programming as Extended Cognition](https://ieeexplore.ieee.org/document/11119124)
 * [2025-08-08, 13:58:25](https://lobste.rs/s/stxzc8/updated_google_project_zero_disclosure) - [Updated Google Project Zero disclosure policy](https://googleprojectzero.blogspot.com/2025/07/reporting-transparency.html)
@@ -8,7 +9,6 @@
 * [2025-08-08, 12:02:21](https://lobste.rs/s/uzvf6k/introducing_wassette_webassembly_based) - [Introducing Wassette: WebAssembly-based tools for AI agents](https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/)
 * [2025-08-08, 10:34:34](https://lobste.rs/s/xqcpmc/understanding_not_just_clojure_s_comp) - [Understanding not just Clojure's comp function by re-implementing it](https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html)
 * [2025-08-08, 09:34:16](https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation (2024)](https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/)
-* [2025-08-08, 09:17:19](https://lobste.rs/s/o2zxif/oops_safari_i_think_you_spilled_something) - [Oops Safari, I think You Spilled Something](https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/)
 * [2025-08-08, 08:46:10](https://lobste.rs/s/s7wj5y/how_i_ended_up_writing_gleam_for_living) - [How I ended up writing Gleam for a living](https://www.youtube.com/watch?v=BfPRcanTWXA)
 * [2025-08-08, 08:31:14](https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend)
 * [2025-08-08, 07:06:22](https://lobste.rs/s/cn7crr/writing_surtoget_no_with_gleam) - [Writing surtoget.no with gleam](https://lindbakk.com/blog/introducing-surtoget_no)
