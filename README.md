@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-08, 12:31:53](https://lobste.rs/s/y3jsqb/preventing_zip_parser_confusion_attacks) - [Preventing ZIP parser confusion attacks on Python package installers](https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/)
+* [2025-08-08, 12:02:21](https://lobste.rs/s/uzvf6k/introducing_wassette_webassembly_based) - [Introducing Wassette: WebAssembly-based tools for AI agents](https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/)
 * [2025-08-08, 10:43:07](https://lobste.rs/s/ziaooy/ios_client_for_proton_authenticator) - [iOS client for Proton Authenticator](https://github.com/protonpass/ios-authenticator)
 * [2025-08-08, 10:34:34](https://lobste.rs/s/xqcpmc/understanding_not_just_clojure_s_comp) - [Understanding not just Clojure's comp function by re-implementing it](https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html)
 * [2025-08-08, 09:34:16](https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/)
@@ -9,7 +11,6 @@
 * [2025-08-08, 07:06:22](https://lobste.rs/s/cn7crr/writing_surtoget_no_with_gleam) - [Writing surtoget.no with gleam](https://lindbakk.com/blog/introducing-surtoget_no)
 * [2025-08-08, 06:55:32](https://lobste.rs/s/zxppfh/all_cool_kids_are_doing_it) - [All the cool kids are doing it](https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/)
 * [2025-08-08, 05:48:49](https://lobste.rs/s/4cslil/full_chain_exploit_unfused_qualcomm) - [A Full-Chain Exploit of an Unfused Qualcomm Device](https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html)
-* [2025-08-08, 05:40:34](https://lobste.rs/s/lv2ijd/gpt_5_leaked_system_prompt) - [GPT-5 leaked system prompt](https://gist.github.com/maoxiaoke/f6d5b28f9104cd856a2622a084f46fd7)
 * [2025-08-08, 05:39:34](https://lobste.rs/s/lzladd/arenas_rust) - [Arenas in Rust](https://russellw.github.io/arenas)
 * [2025-08-07, 22:45:53](https://lobste.rs/s/nsk2vc/mac_history_echoes_current_mac_operating) - [Mac history echoes in current Mac operating systems](http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html)
 * [2025-08-07, 21:26:24](https://lobste.rs/s/lgkhhv/disposable_code_is_here_stay_durable_code) - [Disposable Code Is Here to Stay, but Durable Code Is What Runs the World](https://www.honeycomb.io/blog/disposable-code-is-here-to-stay)
@@ -24,7 +25,6 @@
 * [2025-08-07, 11:27:31](https://lobste.rs/s/lxvgky/announcing_rust_1_89_0) - [Announcing Rust 1.89.0](https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/)
 * [2025-08-07, 11:08:18](https://lobste.rs/s/tpifk2/live_coding_sucks) - [Live coding sucks](https://hadid.dev/posts/living-coding/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
-* [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
 
 ## [Archives](archives/index.md)
 
