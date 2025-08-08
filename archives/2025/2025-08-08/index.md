@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 13:53:22](https://lobste.rs/s/ec20br/devenv_with_domen_kozar) - [devenv with Domen Kožar](https://fulltimenix.com/episodes/devenv-with-domen-kozar)
+* [2025-08-08, 13:36:25](https://lobste.rs/s/gk3luv/how_long_does_it_take_upgrade_ebook) - [How long does it take to upgrade an eBook?](https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/)
 * [2025-08-08, 12:59:03](https://lobste.rs/s/qllaru/http_is_not_simple) - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/)
 * [2025-08-08, 12:31:53](https://lobste.rs/s/y3jsqb/preventing_zip_parser_confusion_attacks) - [Preventing ZIP parser confusion attacks on Python package installers](https://blog.pypi.org/posts/2025-08-07-wheel-archive-confusion-attacks/)
 * [2025-08-08, 12:02:21](https://lobste.rs/s/uzvf6k/introducing_wassette_webassembly_based) - [Introducing Wassette: WebAssembly-based tools for AI agents](https://opensource.microsoft.com/blog/2025/08/06/introducing-wassette-webassembly-based-tools-for-ai-agents/)
