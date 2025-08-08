@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-08, 19:10:23",
+      "https://lobste.rs/s/hct5qg/breaking_sorting_barrier_for_directed"
+    ],
+    [
+      "Breaking the Sorting Barrier for Directed Single-Source Shortest Paths",
+      "https://arxiv.org/abs/2504.17033"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 17:43:40",
       "https://lobste.rs/s/qq2x8t/lvfs_sustainability_plan"
     ],
@@ -197,16 +207,6 @@
     [
       "GPT-5 is here",
       "https://openai.com/gpt-5/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 16:01:12",
-      "https://lobste.rs/s/jeg0io/more_shell_tricks_first_class_lists_jq_es"
-    ],
-    [
-      "More shell tricks: first class lists, jq, and the es shell",
-      "https://alurm.github.io/blog/2025-08-07-first-class-lists-in-shells.html"
     ]
   ],
   [
