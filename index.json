@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-08, 07:06:22",
+      "https://lobste.rs/s/cn7crr/writing_surtoget_no_with_gleam"
+    ],
+    [
+      "Writing surtoget.no with gleam",
+      "https://lindbakk.com/blog/introducing-surtoget_no"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 06:55:32",
       "https://lobste.rs/s/zxppfh/all_cool_kids_are_doing_it"
     ],
@@ -187,16 +197,6 @@
     [
       "Jujutsu support in Reviewboard",
       "https://reviews.reviewboard.org/r/14336/"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 08:03:13",
-      "https://lobste.rs/s/ry4of8/forsp_forth_lisp_hybrid_lambda_calculus"
-    ],
-    [
-      "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
-      "https://xorvoid.com/forsp.html"
     ]
   ],
   [
