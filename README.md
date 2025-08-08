@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-08, 09:34:16](https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/)
+* [2025-08-08, 09:17:19](https://lobste.rs/s/o2zxif/oops_safari_i_think_you_spilled_something) - [Oops Safari, I think You Spilled Something](https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/)
 * [2025-08-08, 08:46:10](https://lobste.rs/s/s7wj5y/how_i_ended_up_writing_gleam_for_living) - [How I ended up writing Gleam for a living](https://www.youtube.com/watch?v=BfPRcanTWXA)
-* [2025-08-08, 08:31:14](https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend)
 * [2025-08-08, 07:06:22](https://lobste.rs/s/cn7crr/writing_surtoget_no_with_gleam) - [Writing surtoget.no with gleam](https://lindbakk.com/blog/introducing-surtoget_no)
 * [2025-08-08, 06:55:32](https://lobste.rs/s/zxppfh/all_cool_kids_are_doing_it) - [All the cool kids are doing it](https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/)
 * [2025-08-08, 05:48:49](https://lobste.rs/s/4cslil/full_chain_exploit_unfused_qualcomm) - [A Full-Chain Exploit of an Unfused Qualcomm Device](https://hhj4ck.github.io/qualcomm/2025/08/06/secboot-off-qcm2150.html)
@@ -22,7 +23,6 @@
 * [2025-08-07, 11:08:18](https://lobste.rs/s/tpifk2/live_coding_sucks) - [Live coding sucks](https://hadid.dev/posts/living-coding/)
 * [2025-08-07, 08:25:26](https://lobste.rs/s/foh4ch/jujutsu_support_reviewboard) - [Jujutsu support in Reviewboard](https://reviews.reviewboard.org/r/14336/)
 * [2025-08-06, 19:41:50](https://lobste.rs/s/xoyolt/litestar_is_worth_look) - [Litestar is worth a look](https://www.b-list.org/weblog/2025/aug/06/litestar/)
-* [2025-08-06, 18:36:49](https://lobste.rs/s/jrtykf/fast_growable_array_with_stable_pointers) - [A Fast, Growable Array With Stable Pointers in C](https://danielchasehooper.com/posts/segment_array/)
 * [2025-08-06, 17:26:18](https://lobste.rs/s/wzj0h7/we_shouldn_t_have_needed_lockfiles) - [We shouldn’t have needed lockfiles](https://tonsky.me/blog/lockfiles/)
 * [2025-08-06, 11:50:33](https://lobste.rs/s/44ltdp/how_why_github_codeberg) - [The how and why of GitHub to Codeberg](https://www.arscyni.cc/file/codeberg.html)
 

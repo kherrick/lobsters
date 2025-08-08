@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-08](index.md)
 
+* [2025-08-08, 09:34:16](https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/)
+* [2025-08-08, 09:17:19](https://lobste.rs/s/o2zxif/oops_safari_i_think_you_spilled_something) - [Oops Safari, I think You Spilled Something](https://blog.exodusintel.com/2025/08/04/oops-safari-i-think-you-spilled-something/)
 * [2025-08-08, 08:46:10](https://lobste.rs/s/s7wj5y/how_i_ended_up_writing_gleam_for_living) - [How I ended up writing Gleam for a living](https://www.youtube.com/watch?v=BfPRcanTWXA)
 * [2025-08-08, 08:31:14](https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qr1kro/what_are_you_doing_this_weekend)
 * [2025-08-08, 07:06:22](https://lobste.rs/s/cn7crr/writing_surtoget_no_with_gleam) - [Writing surtoget.no with gleam](https://lindbakk.com/blog/introducing-surtoget_no)
