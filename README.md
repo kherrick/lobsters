@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-09, 11:12:34](https://lobste.rs/s/oqgvzm/pianolizer_helps_your_musical_projects) - [Pianolizer Helps Your Musical Projects Distinguish Notes (2022)](https://hackaday.com/2022/04/26/pianolizer-helps-your-musical-projects-distinguish-notes/)
 * [2025-08-09, 09:38:47](https://lobste.rs/s/htrh9u/partially_matching_zig_enums) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 09:35:31](https://lobste.rs/s/vtipaz/on_window_activation) - [On Window Activation](https://blog.broulik.de/2025/08/on-window-activation/)
 * [2025-08-09, 09:22:56](https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring) - [an engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
@@ -10,7 +11,6 @@
 * [2025-08-09, 05:04:38](https://lobste.rs/s/dhjlvv/gnome_49_backlight_changes) - [GNOME 49 Backlight Changes](https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/)
 * [2025-08-09, 05:03:36](https://lobste.rs/s/bzkeu3/perfect_web_app_2023) - [Perfect web app (2023)](https://yoyo-code.com/perfect-web-app/)
 * [2025-08-09, 04:55:49](https://lobste.rs/s/6v9osj/over_engineering_my_homelab_so_i_don_t_pay) - [Over engineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
-* [2025-08-09, 02:46:24](https://lobste.rs/s/vxbmex/efrit_native_elisp_coding_agent_running) - [efrit: A native elisp coding agent running in Emacs](https://github.com/steveyegge/efrit)
 * [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 * [2025-08-09, 01:05:32](https://lobste.rs/s/wnmrkl/spellchecker_used_be_major_feat_software) - [A Spellchecker Used to Be a Major Feat of Software Engineering (2008)](https://prog21.dadgum.com/29.html)
 * [2025-08-08, 21:51:29](https://lobste.rs/s/vzr1b1/introducing_spindle) - [Introducing spindle](https://blog.tangled.sh/ci)
