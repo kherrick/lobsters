@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 15:05:48](https://lobste.rs/s/rlrrgk/notes_on_smaller_rust_2019) - [Notes on a smaller Rust (2019)](https://without.boats/blog/notes-on-a-smaller-rust/)
+* [2025-08-09, 15:03:43](https://lobste.rs/s/vvis5u/what_even_is_distributed_systems) - [What even is distributed systems](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
 * [2025-08-09, 14:41:56](https://lobste.rs/s/pnu5hc/why_racket_why_lisp) - [Why Racket? Why Lisp?](https://practicaltypography.com/why-racket-why-lisp.html)
 * [2025-08-09, 11:35:39](https://lobste.rs/s/qx8lw4/framework_desktop_is_beast) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-09, 11:12:34](https://lobste.rs/s/oqgvzm/pianolizer_helps_your_musical_projects) - [Pianolizer Helps Your Musical Projects Distinguish Notes (2022)](https://hackaday.com/2022/04/26/pianolizer-helps-your-musical-projects-distinguish-notes/)
