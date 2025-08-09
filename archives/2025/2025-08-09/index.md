@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 09:22:56](https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring) - [an engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
+* [2025-08-09, 09:12:14](https://lobste.rs/s/phb7ir/why_i_prefer_human_readable_file_formats) - [Why I prefer human-readable file formats](https://adele.pollux.casa/gemlog/2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 * [2025-08-09, 08:17:48](https://lobste.rs/s/mr2r9f/virtual_6nf) - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
 * [2025-08-09, 07:33:08](https://lobste.rs/s/zuzuex/pytest_fixtures_nuts_bolts_revisited) - [pytest fixtures nuts and bolts - revisited](https://pythontest.com/pytest-fixtures-nuts-bolts-revisited/)
 * [2025-08-09, 05:39:05](https://lobste.rs/s/cjguaf/array_portal) - [Array Portal](https://www.arrayportal.com/)
