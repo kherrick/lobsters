@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-08-09, 05:39:05",
-      "https://lobste.rs/s/cjguaf/array_portal"
-    ],
-    [
-      "Array Portal",
-      "https://www.arrayportal.com/"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 05:13:31",
       "https://lobste.rs/s/viklsv/hoogle_translate"
     ],
@@ -107,6 +97,16 @@
     [
       "Over engineering my homelab so I don't pay cloud providers",
       "https://ergaster.org/posts/2025/08/04-overegineering-homelab/"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 02:46:24",
+      "https://lobste.rs/s/vxbmex/efrit_native_elisp_coding_agent_running"
+    ],
+    [
+      "efrit: A native elisp coding agent running in Emacs",
+      "https://github.com/steveyegge/efrit"
     ]
   ],
   [
