@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 20:09:51](https://lobste.rs/s/lbungv/myths_about_floating_point_numbers_2021) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 * [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 * [2025-08-09, 19:01:03](https://lobste.rs/s/ha35ab/debian_13_trixie_released) - [Debian 13 \"Trixie\" Released](https://www.phoronix.com/news/Debian-13.0-Released)
 * [2025-08-09, 18:59:05](https://lobste.rs/s/vxr9jn/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://micronews.debian.org/2025/1754772107.html)

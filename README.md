@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-09, 20:09:51](https://lobste.rs/s/lbungv/myths_about_floating_point_numbers_2021) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 * [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 * [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:58:47](https://lobste.rs/s/cy5mns/from_chrome_renderer_code_exec_kernel) - [From Chrome renderer code exec to kernel with MSG_OOB](https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html)
@@ -18,7 +19,6 @@
 * [2025-08-09, 04:55:49](https://lobste.rs/s/6v9osj/over_engineering_my_homelab_so_i_don_t_pay) - [Over engineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
 * [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 * [2025-08-09, 01:05:32](https://lobste.rs/s/wnmrkl/spellchecker_used_be_major_feat_software) - [A Spellchecker Used to Be a Major Feat of Software Engineering (2008)](https://prog21.dadgum.com/29.html)
-* [2025-08-08, 21:51:29](https://lobste.rs/s/vzr1b1/introducing_spindle) - [Introducing spindle](https://blog.tangled.sh/ci)
 * [2025-08-08, 21:35:30](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne) - [Lobsters Interview with Hwayne](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne)
 * [2025-08-08, 21:20:21](https://lobste.rs/s/qtm9uv/puzzling_python_program) - [A puzzling Python program](https://jo3-l.dev/posts/python-countdown/)
 * [2025-08-08, 15:30:03](https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe) - [Hypothesis is now thread-safe](https://hypothesis.works/articles/thread-safe/)
