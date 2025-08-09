@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-09, 08:17:48",
+      "https://lobste.rs/s/mr2r9f/virtual_6nf"
+    ],
+    [
+      "Virtual 6NF",
+      "https://minimalmodeling.substack.com/p/virtual-6nf"
+    ]
+  ],
+  [
+    [
       "2025-08-09, 07:33:08",
       "https://lobste.rs/s/zuzuex/pytest_fixtures_nuts_bolts_revisited"
     ],
@@ -57,16 +67,6 @@
     [
       "Accidentally writing a fast SAT solver",
       "https://blog.danielh.cc/blog/sat"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 02:46:24",
-      "https://lobste.rs/s/vxbmex/efrit_native_elisp_coding_agent_running"
-    ],
-    [
-      "efrit: A native elisp coding agent running in Emacs",
-      "https://github.com/steveyegge/efrit"
     ]
   ],
   [
