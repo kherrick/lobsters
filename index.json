@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-09, 01:05:32",
+      "https://lobste.rs/s/wnmrkl/spellchecker_used_be_major_feat_software"
+    ],
+    [
+      "A Spellchecker Used to Be a Major Feat of Software Engineering",
+      "https://prog21.dadgum.com/29.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-08, 21:51:29",
+      "https://lobste.rs/s/vzr1b1/introducing_spindle"
+    ],
+    [
+      "Introducing spindle",
+      "https://blog.tangled.sh/ci"
+    ]
+  ],
+  [
+    [
       "2025-08-08, 21:35:30",
       "https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-08-07, 22:45:53",
-      "https://lobste.rs/s/nsk2vc/mac_history_echoes_current_mac_operating"
-    ],
-    [
-      "Mac history echoes in current Mac operating systems",
-      "http://tenfourfox.blogspot.com/2025/08/mac-history-echoes-in-mac-operating.html"
-    ]
-  ],
-  [
-    [
       "2025-08-07, 19:54:17",
       "https://lobste.rs/s/tiiesw/who_s_hiring_q3_2025"
     ],
@@ -237,16 +247,6 @@
     [
       "We replaced passwords with something worse",
       "https://blog.danielh.cc/blog/passwords"
-    ]
-  ],
-  [
-    [
-      "2025-08-07, 11:27:31",
-      "https://lobste.rs/s/lxvgky/announcing_rust_1_89_0"
-    ],
-    [
-      "Announcing Rust 1.89.0",
-      "https://blog.rust-lang.org/2025/08/07/Rust-1.89.0/"
     ]
   ]
 ]
