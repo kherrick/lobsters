@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 * [2025-08-09, 19:01:03](https://lobste.rs/s/ha35ab/debian_13_trixie_released) - [Debian 13 \"Trixie\" Released](https://www.phoronix.com/news/Debian-13.0-Released)
-* [2025-08-09, 18:59:05](https://lobste.rs/s/vxr9jn/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://micronews.debian.org/2025/1754772107.html)
 * [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:58:47](https://lobste.rs/s/cy5mns/from_chrome_renderer_code_exec_kernel) - [From Chrome renderer code exec to kernel with MSG_OOB](https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html)
 * [2025-08-09, 15:48:40](https://lobste.rs/s/vvntib/why_mcp_s_disregard_for_40_years_rpc_best) - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)

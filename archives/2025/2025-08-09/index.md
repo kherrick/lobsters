@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 * [2025-08-09, 19:01:03](https://lobste.rs/s/ha35ab/debian_13_trixie_released) - [Debian 13 \"Trixie\" Released](https://www.phoronix.com/news/Debian-13.0-Released)
 * [2025-08-09, 18:59:05](https://lobste.rs/s/vxr9jn/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://micronews.debian.org/2025/1754772107.html)
 * [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
