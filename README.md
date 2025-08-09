@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-09, 19:01:03](https://lobste.rs/s/ha35ab/debian_13_trixie_released) - [Debian 13 \"Trixie\" Released](https://www.phoronix.com/news/Debian-13.0-Released)
+* [2025-08-09, 18:59:05](https://lobste.rs/s/vxr9jn/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://micronews.debian.org/2025/1754772107.html)
 * [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:58:47](https://lobste.rs/s/cy5mns/from_chrome_renderer_code_exec_kernel) - [From Chrome renderer code exec to kernel with MSG_OOB](https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html)
-* [2025-08-09, 16:44:28](https://lobste.rs/s/rqk6cs/accessibility_agentic_web) - [Accessibility and the agentic web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 15:48:40](https://lobste.rs/s/vvntib/why_mcp_s_disregard_for_40_years_rpc_best) - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
 * [2025-08-09, 15:36:16](https://lobste.rs/s/lqztqk/irmin_retrospective) - [Irmin Retrospective](https://patrick.sirref.org/irmin-retro/index.xml)
 * [2025-08-09, 15:05:48](https://lobste.rs/s/rlrrgk/notes_on_smaller_rust_2019) - [Notes on a smaller Rust (2019)](https://without.boats/blog/notes-on-a-smaller-rust/)
@@ -21,7 +22,6 @@
 * [2025-08-08, 21:35:30](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne) - [Lobsters Interview with Hwayne](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne)
 * [2025-08-08, 21:20:21](https://lobste.rs/s/qtm9uv/puzzling_python_program) - [A puzzling Python program](https://jo3-l.dev/posts/python-countdown/)
 * [2025-08-08, 15:30:03](https://lobste.rs/s/zrbpds/hypothesis_is_now_thread_safe) - [Hypothesis is now thread-safe](https://hypothesis.works/articles/thread-safe/)
-* [2025-08-08, 15:00:28](https://lobste.rs/s/fswjtl/programming_as_extended_cognition) - [Programming as Extended Cognition](https://ieeexplore.ieee.org/document/11119124)
 * [2025-08-08, 13:36:25](https://lobste.rs/s/gk3luv/how_long_does_it_take_upgrade_ebook) - [How long does it take to upgrade an eBook?](https://shkspr.mobi/blog/2025/08/how-long-does-it-take-to-upgrade-an-ebook/)
 * [2025-08-08, 12:59:03](https://lobste.rs/s/qllaru/http_is_not_simple) - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/)
 * [2025-08-08, 06:55:32](https://lobste.rs/s/zxppfh/all_cool_kids_are_doing_it) - [All the cool kids are doing it](https://www.scattered-thoughts.net/writing/all-the-cool-kids-are-doing-it/)
