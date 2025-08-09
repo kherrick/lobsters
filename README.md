@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:58:47](https://lobste.rs/s/cy5mns/from_chrome_renderer_code_exec_kernel) - [From Chrome renderer code exec to kernel with MSG_OOB](https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html)
 * [2025-08-09, 16:44:28](https://lobste.rs/s/rqk6cs/accessibility_agentic_web) - [Accessibility and the agentic web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 15:48:40](https://lobste.rs/s/vvntib/why_mcp_s_disregard_for_40_years_rpc_best) - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
@@ -12,7 +13,6 @@
 * [2025-08-09, 09:35:31](https://lobste.rs/s/vtipaz/on_window_activation) - [On Window Activation](https://blog.broulik.de/2025/08/on-window-activation/)
 * [2025-08-09, 09:22:56](https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring) - [an engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:12:14](https://lobste.rs/s/phb7ir/why_i_prefer_human_readable_file_formats) - [Why I prefer human-readable file formats](https://adele.pollux.casa/gemlog/2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
-* [2025-08-09, 05:39:05](https://lobste.rs/s/cjguaf/array_portal) - [Array Portal](https://www.arrayportal.com/)
 * [2025-08-09, 05:04:38](https://lobste.rs/s/dhjlvv/gnome_49_backlight_changes) - [GNOME 49 Backlight Changes](https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/)
 * [2025-08-09, 04:55:49](https://lobste.rs/s/6v9osj/over_engineering_my_homelab_so_i_don_t_pay) - [Over engineering my homelab so I don't pay cloud providers](https://ergaster.org/posts/2025/08/04-overegineering-homelab/)
 * [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)

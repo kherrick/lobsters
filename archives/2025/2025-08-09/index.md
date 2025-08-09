@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 16:58:47](https://lobste.rs/s/cy5mns/from_chrome_renderer_code_exec_kernel) - [From Chrome renderer code exec to kernel with MSG_OOB](https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html)
 * [2025-08-09, 16:44:28](https://lobste.rs/s/rqk6cs/accessibility_agentic_web) - [Accessibility and the agentic web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 15:48:40](https://lobste.rs/s/vvntib/why_mcp_s_disregard_for_40_years_rpc_best) - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
