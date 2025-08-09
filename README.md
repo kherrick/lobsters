@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-09, 16:58:47](https://lobste.rs/s/cy5mns/from_chrome_renderer_code_exec_kernel) - [From Chrome renderer code exec to kernel with MSG_OOB](https://googleprojectzero.blogspot.com/2025/08/from-chrome-renderer-code-exec-to-kernel.html)
 * [2025-08-09, 16:44:28](https://lobste.rs/s/rqk6cs/accessibility_agentic_web) - [Accessibility and the agentic web](https://tetralogical.com/blog/2025/08/08/accessibility-and-the-agentic-web/)
 * [2025-08-09, 15:48:40](https://lobste.rs/s/vvntib/why_mcp_s_disregard_for_40_years_rpc_best) - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)
 * [2025-08-09, 15:36:16](https://lobste.rs/s/lqztqk/irmin_retrospective) - [Irmin Retrospective](https://patrick.sirref.org/irmin-retro/index.xml)
@@ -7,7 +8,6 @@
 * [2025-08-09, 15:03:43](https://lobste.rs/s/vvis5u/what_even_is_distributed_systems) - [What even is distributed systems](https://notes.eatonphil.com/2025-08-09-what-even-is-distributed-systems.html)
 * [2025-08-09, 14:41:56](https://lobste.rs/s/pnu5hc/why_racket_why_lisp) - [Why Racket? Why Lisp?](https://practicaltypography.com/why-racket-why-lisp.html)
 * [2025-08-09, 11:35:39](https://lobste.rs/s/qx8lw4/framework_desktop_is_beast) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
-* [2025-08-09, 11:12:34](https://lobste.rs/s/oqgvzm/pianolizer_helps_your_musical_projects) - [Pianolizer Helps Your Musical Projects Distinguish Notes (2022)](https://hackaday.com/2022/04/26/pianolizer-helps-your-musical-projects-distinguish-notes/)
 * [2025-08-09, 09:38:47](https://lobste.rs/s/htrh9u/partially_matching_zig_enums) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
 * [2025-08-09, 09:35:31](https://lobste.rs/s/vtipaz/on_window_activation) - [On Window Activation](https://blog.broulik.de/2025/08/on-window-activation/)
 * [2025-08-09, 09:22:56](https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring) - [an engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
