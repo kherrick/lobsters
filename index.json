@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-08-09, 05:13:31",
-      "https://lobste.rs/s/viklsv/hoogle_translate"
+      "2025-08-09, 05:04:38",
+      "https://lobste.rs/s/dhjlvv/gnome_49_backlight_changes"
     ],
     [
-      "Hoogle Translate",
-      "https://hoogletranslate.com/"
+      "GNOME 49 Backlight Changes",
+      "https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Over engineering my homelab so I don't pay cloud providers",
       "https://ergaster.org/posts/2025/08/04-overegineering-homelab/"
+    ]
+  ],
+  [
+    [
+      "2025-08-09, 04:50:46",
+      "https://lobste.rs/s/hcfzef/accidentally_writing_fast_sat_solver"
+    ],
+    [
+      "Accidentally writing a fast SAT solver",
+      "https://blog.danielh.cc/blog/sat"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Understanding not just Clojure's comp function by re-implementing it",
       "https://www.evalapply.org/posts/lessons-from-reimplementing-clojure-comp-function/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-08, 09:34:16",
-      "https://lobste.rs/s/q5bgc5/abusing_ubuntu_24_04_features_for_root"
-    ],
-    [
-      "Abusing Ubuntu 24.04 features for root privilege escalation (2024)",
-      "https://labs.snyk.io/resources/abusing-ubuntu-root-privilege-escalation/"
     ]
   ],
   [
