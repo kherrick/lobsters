@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 05:39:05](https://lobste.rs/s/cjguaf/array_portal) - [Array Portal](https://www.arrayportal.com/)
+* [2025-08-09, 05:34:40](https://lobste.rs/s/4k3tv6/array_cast) - [The Array Cast](https://www.arraycast.com)
 * [2025-08-09, 05:13:31](https://lobste.rs/s/viklsv/hoogle_translate) - [Hoogle Translate](https://hoogletranslate.com/)
 * [2025-08-09, 05:04:38](https://lobste.rs/s/dhjlvv/gnome_49_backlight_changes) - [GNOME 49 Backlight Changes](https://blog.sebastianwick.net/posts/gnome-49-backlight-changes/)
 * [2025-08-09, 05:03:36](https://lobste.rs/s/bzkeu3/perfect_web_app_2023) - [Perfect web app (2023)](https://yoyo-code.com/perfect-web-app/)
