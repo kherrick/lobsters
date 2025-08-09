@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-09](index.md)
 
+* [2025-08-09, 08:17:48](https://lobste.rs/s/mr2r9f/virtual_6nf) - [Virtual 6NF](https://minimalmodeling.substack.com/p/virtual-6nf)
 * [2025-08-09, 07:33:08](https://lobste.rs/s/zuzuex/pytest_fixtures_nuts_bolts_revisited) - [pytest fixtures nuts and bolts - revisited](https://pythontest.com/pytest-fixtures-nuts-bolts-revisited/)
 * [2025-08-09, 05:39:05](https://lobste.rs/s/cjguaf/array_portal) - [Array Portal](https://www.arrayportal.com/)
 * [2025-08-09, 05:34:40](https://lobste.rs/s/4k3tv6/array_cast) - [The Array Cast](https://www.arraycast.com)
