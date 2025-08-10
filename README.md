@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-10, 15:31:20](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
 * [2025-08-10, 14:56:53](https://lobste.rs/s/ensoxg/resurrecting_google_s_search_appliance) - [Resurrecting Google's Search Appliance](https://www.youtube.com/watch?v=bjrmH7hVBOo)
 * [2025-08-10, 14:23:17](https://lobste.rs/s/8mdoo2/ohyaml_wtf_yaml_quiz) - [ohyaml.wtf | YAML Quiz](https://www.ohyaml.wtf/)
-* [2025-08-10, 14:21:53](https://lobste.rs/s/as3woa/wordpress_playground_run_wordpress) - [WordPress Playground – Run WordPress in the browser via WebAssembly PHP](https://playground.wordpress.net/)
 * [2025-08-10, 14:15:43](https://lobste.rs/s/jrocec/speeding_up_javascript_ecosystem_semver) - [Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
 * [2025-08-10, 12:25:20](https://lobste.rs/s/ygqryc/why_do_we_even_need_simd_instructions) - [Why do we even need SIMD instructions ?](https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/)
 * [2025-08-10, 11:29:32](https://lobste.rs/s/424inu/creating_high_quality_electronics) - [Creating high quality electronics schematics](https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html)
