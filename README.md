@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-10, 09:45:43](https://lobste.rs/s/avxwbl/introducing_rr_chaos_mode_2016) - [Introducing rr Chaos Mode (2016)](https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
 * [2025-08-10, 08:40:03](https://lobste.rs/s/jy5b80/improving_geographical_resilience_for) - [Improving Geographical Resilience For Distributed Open Source Teams with FREON](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)
 * [2025-08-10, 08:32:31](https://lobste.rs/s/cghulj/onion_stack_language_compiled_lua) - [onion: Stack language compiled to lua](https://github.com/yumaikas/onion)
@@ -24,7 +25,6 @@
 * [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 * [2025-08-09, 01:05:32](https://lobste.rs/s/wnmrkl/spellchecker_used_be_major_feat_software) - [A Spellchecker Used to Be a Major Feat of Software Engineering (2008)](https://prog21.dadgum.com/29.html)
 * [2025-08-08, 21:35:30](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne) - [Lobsters Interview with Hwayne](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne)
-* [2025-08-08, 21:20:21](https://lobste.rs/s/qtm9uv/puzzling_python_program) - [A puzzling Python program](https://jo3-l.dev/posts/python-countdown/)
 
 ## [Archives](archives/index.md)
 
