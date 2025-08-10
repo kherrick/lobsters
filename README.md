@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
+* [2025-08-10, 08:40:03](https://lobste.rs/s/jy5b80/improving_geographical_resilience_for) - [Improving Geographical Resilience For Distributed Open Source Teams with FREON](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)
 * [2025-08-10, 08:32:31](https://lobste.rs/s/cghulj/onion_stack_language_compiled_lua) - [onion: Stack language compiled to lua](https://github.com/yumaikas/onion)
 * [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
 * [2025-08-10, 05:29:49](https://lobste.rs/s/2xbhlw/janet_minipbt_translation) - [Janet Minipbt Translation](https://github.com/sogaiu/janet-minipbt-translation)
@@ -17,14 +19,12 @@
 * [2025-08-09, 14:41:56](https://lobste.rs/s/pnu5hc/why_racket_why_lisp_2014) - [Why Racket? Why Lisp? (2014)](https://practicaltypography.com/why-racket-why-lisp.html)
 * [2025-08-09, 11:35:39](https://lobste.rs/s/qx8lw4/framework_desktop_is_beast) - [The Framework Desktop is a beast](https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff)
 * [2025-08-09, 09:38:47](https://lobste.rs/s/htrh9u/partially_matching_zig_enums) - [Partially Matching Zig Enums](https://matklad.github.io/2025/08/08/partially-matching-zig-enums.html)
-* [2025-08-09, 09:35:31](https://lobste.rs/s/vtipaz/on_window_activation) - [On Window Activation](https://blog.broulik.de/2025/08/on-window-activation/)
 * [2025-08-09, 09:22:56](https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring) - [an engineer's perspective on hiring](https://jyn.dev/an-engineers-perspective-on-hiring)
 * [2025-08-09, 09:12:14](https://lobste.rs/s/phb7ir/why_i_prefer_human_readable_file_formats) - [Why I prefer human-readable file formats](https://adele.pollux.casa/gemlog/2025-08-04_why_I_prefer_human-readble_file_formats.gmi)
 * [2025-08-09, 02:44:20](https://lobste.rs/s/5qq2k2/why_is_github_ui_getting_so_much_slower) - [Why is GitHub UI getting so much slower?](https://yoyo-code.com/why-is-github-ui-getting-so-much-slower/)
 * [2025-08-09, 01:05:32](https://lobste.rs/s/wnmrkl/spellchecker_used_be_major_feat_software) - [A Spellchecker Used to Be a Major Feat of Software Engineering (2008)](https://prog21.dadgum.com/29.html)
 * [2025-08-08, 21:35:30](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne) - [Lobsters Interview with Hwayne](https://lobste.rs/s/bc53lh/lobsters_interview_with_hwayne)
 * [2025-08-08, 21:20:21](https://lobste.rs/s/qtm9uv/puzzling_python_program) - [A puzzling Python program](https://jo3-l.dev/posts/python-countdown/)
-* [2025-08-08, 12:59:03](https://lobste.rs/s/qllaru/http_is_not_simple) - [HTTP is not simple](https://daniel.haxx.se/blog/2025/08/08/http-is-not-simple/)
 
 ## [Archives](archives/index.md)
 
