@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-10, 17:46:02](https://lobste.rs/s/pwlkew/copy_link_highlight_nightly_these_weeks) - [Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185](https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/)
 * [2025-08-10, 16:32:38](https://lobste.rs/s/t2e1a7/mcp_accidentally_universal_plugin) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 * [2025-08-10, 15:31:20](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
 * [2025-08-10, 14:56:53](https://lobste.rs/s/ensoxg/resurrecting_google_s_search_appliance) - [Resurrecting Google's Search Appliance](https://www.youtube.com/watch?v=bjrmH7hVBOo)
@@ -17,7 +18,6 @@
 * [2025-08-10, 05:13:28](https://lobste.rs/s/fcwft7/all_on_omarchy_at_37signals) - [All-in on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
 * [2025-08-10, 00:39:33](https://lobste.rs/s/kqv0a7/first_time_i_was_almost_fired_from_apple) - [The First Time I Was Almost Fired From Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
 * [2025-08-09, 23:05:39](https://lobste.rs/s/tvdgb4/gpts_feeling_left_behind) - [GPTs and feeling left behind](https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/)
-* [2025-08-09, 20:09:51](https://lobste.rs/s/lbungv/myths_about_floating_point_numbers_2021) - [Myths About Floating-Point Numbers (2021)](https://www.asawicki.info/news_1741_myths_about_floating-point_numbers)
 * [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 * [2025-08-09, 18:47:28](https://lobste.rs/s/w5eawb/ct_scanner_reveals_surprises_inside_386) - [A CT scanner reveals surprises inside the 386 processor's ceramic package](http://www.righto.com/2025/08/intel-386-package-ct-scan.html)
 * [2025-08-09, 15:48:40](https://lobste.rs/s/vvntib/why_mcp_s_disregard_for_40_years_rpc_best) - [Why MCP’s Disregard for 40 Years of RPC Best Practices Will Burn Enterprises](https://julsimon.medium.com/why-mcps-disregard-for-40-years-of-rpc-best-practices-will-burn-enterprises-8ef85ce5bc9b)

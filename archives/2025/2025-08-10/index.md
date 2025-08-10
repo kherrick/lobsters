@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 17:46:02](https://lobste.rs/s/pwlkew/copy_link_highlight_nightly_these_weeks) - [Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185](https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/)
 * [2025-08-10, 16:32:38](https://lobste.rs/s/t2e1a7/mcp_accidentally_universal_plugin) - [MCP: An (Accidentally) Universal Plugin System](https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin)
 * [2025-08-10, 15:45:54](https://lobste.rs/s/yvb4um/web_is_customer_service_medium) - [The Web Is a Customer Service Medium](https://www.ftrain.com/wwic)
 * [2025-08-10, 15:31:20](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
