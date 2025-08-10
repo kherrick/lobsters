@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 14:23:17](https://lobste.rs/s/8mdoo2/ohyaml_wtf_yaml_quiz) - [ohyaml.wtf | YAML Quiz](https://www.ohyaml.wtf/)
+* [2025-08-10, 14:21:53](https://lobste.rs/s/as3woa/wordpress_playground_run_wordpress) - [WordPress Playground – Run WordPress in the browser via WebAssembly PHP](https://playground.wordpress.net/)
+* [2025-08-10, 14:15:43](https://lobste.rs/s/jrocec/speeding_up_javascript_ecosystem_semver) - [Speeding up the JavaScript ecosystem - Semver](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-12/)
 * [2025-08-10, 12:25:20](https://lobste.rs/s/ygqryc/why_do_we_even_need_simd_instructions) - [Why do we even need SIMD instructions ?](https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/)
 * [2025-08-10, 11:29:32](https://lobste.rs/s/424inu/creating_high_quality_electronics) - [Creating high quality electronics schematics](https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html)
 * [2025-08-10, 10:08:42](https://lobste.rs/s/1z3oiy/elixir_misconceptions_1_don_t_let_it_crash) - [Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
