@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 09:43:58](https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel) - [Fornjot: early-stage b-rep CAD kernel, written in Rust](https://www.fornjot.app/)
+* [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 09:28:00](https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
 * [2025-08-11, 08:38:06](https://lobste.rs/s/uonssp/exploiting_buggy_zilog_c_compiler) - [Exploiting a Buggy Zilog C Compiler](https://farlow.dev/2025/08/08/exploiting-a-buggy-zilog-c-compiler)
 * [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
