@@ -142,10 +142,10 @@
   [
     [
       "2025-08-10, 22:35:44",
-      "https://lobste.rs/s/q1hq70/compiling_lisp_lambda_lifting"
+      "https://lobste.rs/s/q1hq70/compiling_lisp_closure_conversion"
     ],
     [
-      "Compiling a Lisp: Lambda lifting",
+      "Compiling a Lisp: Closure conversion",
       "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
     ]
   ],
