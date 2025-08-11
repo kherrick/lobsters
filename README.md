@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 16:05:30](https://lobste.rs/s/l2tn82/choosing_typeface) - [Choosing typeface](https://imperavi.com/books/ui-typography/basis/choosing-typeface/)
 * [2025-08-11, 15:12:40](https://lobste.rs/s/kvmnkg/takeaway_work_stealing_task_queue) - [Takeaway: a work-stealing task queue library for Rust](https://bal-e.org/speed/krabby/takeaway/)
 * [2025-08-11, 14:25:05](https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 * [2025-08-11, 14:03:35](https://lobste.rs/s/4goopn/algorithmic_underground) - [Algorithmic Underground](https://jmsdnns.com/tech/algo-underground/)
@@ -24,7 +25,6 @@
 * [2025-08-10, 12:25:20](https://lobste.rs/s/ygqryc/why_do_we_even_need_simd_instructions) - [Why do we even need SIMD instructions ?](https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
 * [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
-* [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 
 ## [Archives](archives/index.md)
 
