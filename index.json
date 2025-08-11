@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-11, 08:07:00",
+      "https://lobste.rs/s/egtsjs/doomprompting_is_new_doomscrolling"
+    ],
+    [
+      "Doomprompting Is the New Doomscrolling",
+      "https://www.workingtheorys.com/p/doomprompting"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 07:59:18",
+      "https://lobste.rs/s/jhbii4/fundamental_guide_understanding_dram"
+    ],
+    [
+      "Fundamental guide to understanding DRAM Memory",
+      "https://www.chiplog.io/p/fundamental-guide-to-understanding"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 06:38:28",
       "https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases"
     ],
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2025-08-10, 23:59:12",
-      "https://lobste.rs/s/kscd3m/abusing_entra_oauth_for_fun_access"
-    ],
-    [
-      "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
-      "https://research.eye.security/consent-and-compromise/"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 22:35:44",
       "https://lobste.rs/s/q1hq70/compiling_lisp_lambda_lifting"
     ],
     [
       "Compiling a Lisp: Lambda lifting",
       "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
+    ]
+  ],
+  [
+    [
+      "2025-08-10, 17:46:02",
+      "https://lobste.rs/s/pwlkew/copy_link_highlight_nightly_these_weeks"
+    ],
+    [
+      "Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185",
+      "https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-08-09, 23:05:39",
-      "https://lobste.rs/s/tvdgb4/gpts_feeling_left_behind"
-    ],
-    [
-      "GPTs and feeling left behind",
-      "https://whynothugo.nl/journal/2025/08/06/gpts-and-feeling-left-behind/"
-    ]
-  ],
-  [
-    [
       "2025-08-09, 19:27:19",
       "https://lobste.rs/s/a7ckk1/debian_13_trixie_released"
     ],
     [
       "Debian 13 \"trixie\" released",
       "https://debian.org/News/2025/20250809"
-    ]
-  ],
-  [
-    [
-      "2025-08-09, 09:22:56",
-      "https://lobste.rs/s/7laqgd/engineer_s_perspective_on_hiring"
-    ],
-    [
-      "an engineer's perspective on hiring",
-      "https://jyn.dev/an-engineers-perspective-on-hiring"
     ]
   ],
   [
