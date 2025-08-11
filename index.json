@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-11, 19:36:43",
+      "https://lobste.rs/s/pzp80a/cupid_for_joyful_coding_2022"
+    ],
+    [
+      "CUPID: for joyful coding (2022)",
+      "https://dannorth.net/blog/cupid-for-joyful-coding/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 17:53:46",
       "https://lobste.rs/s/nefxb8/matrix_security_release"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig's Lovely Syntax",
       "https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 12:25:20",
-      "https://lobste.rs/s/ygqryc/why_do_we_even_need_simd_instructions"
-    ],
-    [
-      "Why do we even need SIMD instructions ?",
-      "https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/"
     ]
   ],
   [
