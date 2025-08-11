@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-11, 06:38:28",
+      "https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases"
+    ],
+    [
+      "Unducking Typescript primitive aliases",
+      "https://zerotrickpony.com/unducking/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 01:39:51",
       "https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo"
     ],
@@ -157,16 +167,6 @@
     [
       "Lobsters client for Emacs",
       "https://github.com/tanrax/lobsters.el"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 08:40:03",
-      "https://lobste.rs/s/jy5b80/improving_geographical_resilience_for"
-    ],
-    [
-      "Improving Geographical Resilience For Distributed Open Source Teams with FREON",
-      "https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/"
     ]
   ],
   [
