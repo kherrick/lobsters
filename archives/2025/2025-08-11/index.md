@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
+* [2025-08-11, 19:36:43](https://lobste.rs/s/pzp80a/cupid_for_joyful_coding_2022) - [CUPID: for joyful coding (2022)](https://dannorth.net/blog/cupid-for-joyful-coding/)
 * [2025-08-11, 17:53:46](https://lobste.rs/s/nefxb8/matrix_security_release) - [Matrix Security Release](https://matrix.org/blog/2025/08/security-release/)
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
 * [2025-08-11, 17:24:23](https://lobste.rs/s/tdgjep/github_is_no_longer_independent_at) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
