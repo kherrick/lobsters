@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 15:12:40](https://lobste.rs/s/kvmnkg/takeaway_work_stealing_task_queue) - [Takeaway: a work-stealing task queue library for Rust](https://bal-e.org/speed/krabby/takeaway/)
 * [2025-08-11, 14:25:05](https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 * [2025-08-11, 14:03:35](https://lobste.rs/s/4goopn/algorithmic_underground) - [Algorithmic Underground](https://jmsdnns.com/tech/algo-underground/)
 * [2025-08-11, 13:35:20](https://lobste.rs/s/fdnh5k/rust_type_level_fuckery_2024) - [Rust Type-Level Fuckery (2024)](https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md)
@@ -10,7 +11,6 @@
 * [2025-08-11, 10:31:21](https://lobste.rs/s/t2qits/gleam_s_interoperability_with_erlang) - [Gleam’s Interoperability with Erlang and Elixir](https://www.youtube.com/watch?v=63Z2oNW1Bf4)
 * [2025-08-11, 09:43:58](https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel) - [Fornjot: early-stage b-rep CAD kernel, written in Rust](https://www.fornjot.app/)
 * [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
-* [2025-08-11, 09:28:00](https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
 * [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
 * [2025-08-11, 07:59:18](https://lobste.rs/s/jhbii4/fundamental_guide_understanding_dram) - [Fundamental guide to understanding DRAM Memory](https://www.chiplog.io/p/fundamental-guide-to-understanding)
 * [2025-08-11, 01:39:51](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - [Setting up a CI server for Forgejo](https://robey.lag.net/2025/08/10/forgejo-ci.html)

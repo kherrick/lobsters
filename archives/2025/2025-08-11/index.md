@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 15:12:40](https://lobste.rs/s/kvmnkg/takeaway_work_stealing_task_queue) - [Takeaway: a work-stealing task queue library for Rust](https://bal-e.org/speed/krabby/takeaway/)
 * [2025-08-11, 14:25:05](https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 * [2025-08-11, 14:03:35](https://lobste.rs/s/4goopn/algorithmic_underground) - [Algorithmic Underground](https://jmsdnns.com/tech/algo-underground/)
 * [2025-08-11, 13:35:20](https://lobste.rs/s/fdnh5k/rust_type_level_fuckery_2024) - [Rust Type-Level Fuckery (2024)](https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md)
