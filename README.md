@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 14:03:35](https://lobste.rs/s/4goopn/algorithmic_underground) - [Algorithmic Underground](https://jmsdnns.com/tech/algo-underground/)
 * [2025-08-11, 13:35:20](https://lobste.rs/s/fdnh5k/rust_type_level_fuckery_2024) - [Rust Type-Level Fuckery (2024)](https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md)
 * [2025-08-11, 13:12:41](https://lobste.rs/s/y6cpkw/llm_coding_assistant_census) - [LLM Coding Assistant Census](https://aleyan.com/blog/2025-llm-assistant-census/)
 * [2025-08-11, 12:14:59](https://lobste.rs/s/d1mjpf/openssh_post_quantum_cryptography) - [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
@@ -23,7 +24,6 @@
 * [2025-08-10, 11:29:32](https://lobste.rs/s/424inu/creating_high_quality_electronics) - [Creating high quality electronics schematics](https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
 * [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
-* [2025-08-10, 00:39:33](https://lobste.rs/s/kqv0a7/first_time_i_was_almost_fired_from_apple) - [The First Time I Was Almost Fired From Apple](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
 * [2025-08-09, 19:27:19](https://lobste.rs/s/a7ckk1/debian_13_trixie_released) - [Debian 13 \"trixie\" released](https://debian.org/News/2025/20250809)
 
 ## [Archives](archives/index.md)

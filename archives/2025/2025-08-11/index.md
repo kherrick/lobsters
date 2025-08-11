@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 14:03:35](https://lobste.rs/s/4goopn/algorithmic_underground) - [Algorithmic Underground](https://jmsdnns.com/tech/algo-underground/)
 * [2025-08-11, 13:35:20](https://lobste.rs/s/fdnh5k/rust_type_level_fuckery_2024) - [Rust Type-Level Fuckery (2024)](https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md)
 * [2025-08-11, 13:12:41](https://lobste.rs/s/y6cpkw/llm_coding_assistant_census) - [LLM Coding Assistant Census](https://aleyan.com/blog/2025-llm-assistant-census/)
 * [2025-08-11, 12:14:59](https://lobste.rs/s/d1mjpf/openssh_post_quantum_cryptography) - [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
