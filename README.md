@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 06:38:28](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases) - [Unducking Typescript primitive aliases](https://zerotrickpony.com/unducking/)
 * [2025-08-11, 01:39:51](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - [Setting up a CI server for Forgejo](https://robey.lag.net/2025/08/10/forgejo-ci.html)
 * [2025-08-11, 01:37:33](https://lobste.rs/s/picrzd/chacha12_blake3_secure_simple_fast) - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption](https://kerkour.com/chacha12-blake3)
 * [2025-08-11, 01:16:33](https://lobste.rs/s/7s5obz/creating_longest_possible_ski_jump_games) - [Creating the longest possible Ski Jump in The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup2.html)
@@ -16,7 +17,6 @@
 * [2025-08-10, 10:08:42](https://lobste.rs/s/1z3oiy/elixir_misconceptions_1_don_t_let_it_crash) - [Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-10, 09:45:43](https://lobste.rs/s/avxwbl/introducing_rr_chaos_mode_2016) - [Introducing rr Chaos Mode (2016)](https://robert.ocallahan.org/2016/02/introducing-rr-chaos-mode.html)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
-* [2025-08-10, 08:40:03](https://lobste.rs/s/jy5b80/improving_geographical_resilience_for) - [Improving Geographical Resilience For Distributed Open Source Teams with FREON](https://soatok.blog/2025/08/09/improving-geographical-resilience-for-distributed-open-source-teams-with-freon/)
 * [2025-08-10, 08:32:31](https://lobste.rs/s/cghulj/onion_stack_language_compiled_lua) - [onion: Stack language compiled to lua](https://github.com/yumaikas/onion)
 * [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
 * [2025-08-10, 05:13:28](https://lobste.rs/s/fcwft7/all_on_omarchy_at_37signals) - [All-in on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
