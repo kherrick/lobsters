@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 17:53:46](https://lobste.rs/s/nefxb8/matrix_security_release) - [Matrix Security Release](https://matrix.org/blog/2025/08/security-release/)
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
 * [2025-08-11, 17:21:17](https://lobste.rs/s/dborqj/why_metropolis_hastings_works) - [Why Metropolis–Hastings Works](https://gregorygundersen.com/blog/2019/11/02/metropolis-hastings/)
 * [2025-08-11, 16:22:23](https://lobste.rs/s/9ndggc/this_send_sync_secret_separates) - [This Send/Sync Secret Separates Professional From Amateur Rust Developers](https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur)
@@ -22,7 +23,6 @@
 * [2025-08-11, 00:31:03](https://lobste.rs/s/xvahem/tcp_client_self_connect_2013) - [TCP Client Self-Connect (2013)](https://sgros.blogspot.com/2013/08/tcp-client-self-connect.html)
 * [2025-08-10, 22:35:44](https://lobste.rs/s/q1hq70/compiling_lisp_closure_conversion) - [Compiling a Lisp: Closure conversion](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 * [2025-08-10, 15:31:20](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
-* [2025-08-10, 14:56:53](https://lobste.rs/s/ensoxg/resurrecting_google_s_search_appliance) - [Resurrecting Google's Search Appliance](https://www.youtube.com/watch?v=bjrmH7hVBOo)
 * [2025-08-10, 12:25:20](https://lobste.rs/s/ygqryc/why_do_we_even_need_simd_instructions) - [Why do we even need SIMD instructions ?](https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
 
