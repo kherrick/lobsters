@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-11, 11:09:44",
+      "https://lobste.rs/s/gezsia/bevy_s_fifth_birthday"
+    ],
+    [
+      "Bevy's Fifth Birthday",
+      "https://bevy.org/news/bevys-fifth-birthday/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 10:31:21",
       "https://lobste.rs/s/t2qits/gleam_s_interoperability_with_erlang"
     ],
@@ -187,16 +197,6 @@
     [
       "Creating high quality electronics schematics",
       "https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 10:08:42",
-      "https://lobste.rs/s/1z3oiy/elixir_misconceptions_1_don_t_let_it_crash"
-    ],
-    [
-      "Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"",
-      "https://www.zachdaniel.dev/p/elixir-misconceptions-1"
     ]
   ],
   [
