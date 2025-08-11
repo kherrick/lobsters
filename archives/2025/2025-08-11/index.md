@@ -6,6 +6,7 @@
 
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
 * [2025-08-11, 17:24:23](https://lobste.rs/s/tdgjep/github_is_no_longer_independent_at) - [GitHub is no longer independent at Microsoft after CEO resignation](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition)
+* [2025-08-11, 17:21:17](https://lobste.rs/s/dborqj/why_metropolis_hastings_works) - [Why Metropolis–Hastings Works](https://gregorygundersen.com/blog/2019/11/02/metropolis-hastings/)
 * [2025-08-11, 16:22:23](https://lobste.rs/s/9ndggc/this_send_sync_secret_separates) - [This Send/Sync Secret Separates Professional From Amateur Rust Developers](https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur)
 * [2025-08-11, 16:05:30](https://lobste.rs/s/l2tn82/choosing_typeface) - [Choosing typeface](https://imperavi.com/books/ui-typography/basis/choosing-typeface/)
 * [2025-08-11, 15:48:34](https://lobste.rs/s/hlyyv9/tour_standard_ml_2021) - [A Tour of Standard ML (2021)](https://saityi.github.io/sml-tour/tour/welcome)
