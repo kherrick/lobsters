@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-10](index.md)
 
+* [2025-08-10, 23:59:12](https://lobste.rs/s/kscd3m/abusing_entra_oauth_for_fun_access) - [Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications](https://research.eye.security/consent-and-compromise/)
 * [2025-08-10, 23:40:06](https://lobste.rs/s/nfipyn/web_model_context_api) - [Web Model Context API](https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/WebModelContext/explainer.md)
 * [2025-08-10, 22:35:44](https://lobste.rs/s/q1hq70/compiling_lisp_lambda_lifting) - [Compiling a Lisp: Lambda lifting](https://bernsteinbear.com/blog/compiling-a-lisp-12/)
 * [2025-08-10, 17:46:02](https://lobste.rs/s/pwlkew/copy_link_highlight_nightly_these_weeks) - [Copy Link to Highlight in Nightly – These Weeks in Firefox: Issue 185](https://blog.nightly.mozilla.org/2025/07/28/copy-link-to-highlight-in-nightly-these-weeks-in-firefox-issue-185/)
