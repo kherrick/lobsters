@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 09:28:00](https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
 * [2025-08-11, 08:38:06](https://lobste.rs/s/uonssp/exploiting_buggy_zilog_c_compiler) - [Exploiting a Buggy Zilog C Compiler](https://farlow.dev/2025/08/08/exploiting-a-buggy-zilog-c-compiler)
 * [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
 * [2025-08-11, 08:07:00](https://lobste.rs/s/egtsjs/doomprompting_is_new_doomscrolling) - [Doomprompting Is the New Doomscrolling](https://www.workingtheorys.com/p/doomprompting)
