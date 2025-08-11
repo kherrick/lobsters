@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 08:07:00](https://lobste.rs/s/egtsjs/doomprompting_is_new_doomscrolling) - [Doomprompting Is the New Doomscrolling](https://www.workingtheorys.com/p/doomprompting)
+* [2025-08-11, 07:59:18](https://lobste.rs/s/jhbii4/fundamental_guide_understanding_dram) - [Fundamental guide to understanding DRAM Memory](https://www.chiplog.io/p/fundamental-guide-to-understanding)
 * [2025-08-11, 06:38:28](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases) - [Unducking Typescript primitive aliases](https://zerotrickpony.com/unducking/)
 * [2025-08-11, 01:39:51](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - [Setting up a CI server for Forgejo](https://robey.lag.net/2025/08/10/forgejo-ci.html)
 * [2025-08-11, 01:37:33](https://lobste.rs/s/picrzd/chacha12_blake3_secure_simple_fast) - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption](https://kerkour.com/chacha12-blake3)
