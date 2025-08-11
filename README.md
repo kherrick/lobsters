@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 13:35:20](https://lobste.rs/s/fdnh5k/rust_type_level_fuckery_2024) - [Rust Type-Level Fuckery (2024)](https://github.com/lilyyy411/rust-type-fuckery/blob/main/README.md)
 * [2025-08-11, 13:12:41](https://lobste.rs/s/y6cpkw/llm_coding_assistant_census) - [LLM Coding Assistant Census](https://aleyan.com/blog/2025-llm-assistant-census/)
 * [2025-08-11, 12:14:59](https://lobste.rs/s/d1mjpf/openssh_post_quantum_cryptography) - [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 * [2025-08-11, 11:33:50](https://lobste.rs/s/pdrj5s/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pdrj5s/what_are_you_doing_this_week)
@@ -10,7 +11,6 @@
 * [2025-08-11, 09:28:00](https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with) - [Bypass PostgreSQL catalog overhead with direct partition hash calculations](https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/)
 * [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
 * [2025-08-11, 07:59:18](https://lobste.rs/s/jhbii4/fundamental_guide_understanding_dram) - [Fundamental guide to understanding DRAM Memory](https://www.chiplog.io/p/fundamental-guide-to-understanding)
-* [2025-08-11, 06:38:28](https://lobste.rs/s/lvescn/unducking_typescript_primitive_aliases) - [Unducking Typescript primitive aliases](https://zerotrickpony.com/unducking/)
 * [2025-08-11, 01:39:51](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - [Setting up a CI server for Forgejo](https://robey.lag.net/2025/08/10/forgejo-ci.html)
 * [2025-08-11, 01:37:33](https://lobste.rs/s/picrzd/chacha12_blake3_secure_simple_fast) - [ChaCha12-BLAKE3: Secure, Simple and Fast authenticated and committing encryption](https://kerkour.com/chacha12-blake3)
 * [2025-08-11, 01:16:33](https://lobste.rs/s/7s5obz/creating_longest_possible_ski_jump_games) - [Creating the longest possible Ski Jump in The Games: Winter Challenge](https://mrwint.github.io/winter/writeup/writeup2.html)
