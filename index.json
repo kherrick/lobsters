@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-11, 09:43:58",
+      "https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel"
+    ],
+    [
+      "Fornjot: early-stage b-rep CAD kernel, written in Rust",
+      "https://www.fornjot.app/"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 09:38:47",
+      "https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig"
+    ],
+    [
+      "Faster substring search with SIMD in Zig",
+      "https://aarol.dev/posts/zig-simd-substr/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 09:28:00",
       "https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with"
     ],
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2025-08-10, 23:59:12",
-      "https://lobste.rs/s/kscd3m/abusing_entra_oauth_for_fun_access"
-    ],
-    [
-      "Abusing Entra OAuth for Fun and Access to Internal Microsoft Applications",
-      "https://research.eye.security/consent-and-compromise/"
-    ]
-  ],
-  [
-    [
       "2025-08-10, 22:35:44",
       "https://lobste.rs/s/q1hq70/compiling_lisp_lambda_lifting"
     ],
     [
       "Compiling a Lisp: Lambda lifting",
       "https://bernsteinbear.com/blog/compiling-a-lisp-12/"
-    ]
-  ],
-  [
-    [
-      "2025-08-10, 16:32:38",
-      "https://lobste.rs/s/t2e1a7/mcp_accidentally_universal_plugin"
-    ],
-    [
-      "MCP: An (Accidentally) Universal Plugin System",
-      "https://worksonmymachine.ai/p/mcp-an-accidentally-universal-plugin"
     ]
   ],
   [
