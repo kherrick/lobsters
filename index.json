@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-11, 15:12:40",
+      "https://lobste.rs/s/kvmnkg/takeaway_work_stealing_task_queue"
+    ],
+    [
+      "Takeaway: a work-stealing task queue library for Rust",
+      "https://bal-e.org/speed/krabby/takeaway/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 14:25:05",
       "https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid"
     ],
@@ -97,16 +107,6 @@
     [
       "Faster substring search with SIMD in Zig",
       "https://aarol.dev/posts/zig-simd-substr/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 09:28:00",
-      "https://lobste.rs/s/qviemf/bypass_postgresql_catalog_overhead_with"
-    ],
-    [
-      "Bypass PostgreSQL catalog overhead with direct partition hash calculations",
-      "https://www.shayon.dev/post/2025/221/bypass-postgresql-catalog-overhead-with-direct-partition-hash-calculations/"
     ]
   ],
   [
