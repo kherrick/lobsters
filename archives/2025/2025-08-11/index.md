@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 11:09:44](https://lobste.rs/s/gezsia/bevy_s_fifth_birthday) - [Bevy's Fifth Birthday](https://bevy.org/news/bevys-fifth-birthday/)
 * [2025-08-11, 10:31:21](https://lobste.rs/s/t2qits/gleam_s_interoperability_with_erlang) - [Gleam’s Interoperability with Erlang and Elixir](https://www.youtube.com/watch?v=63Z2oNW1Bf4)
 * [2025-08-11, 09:43:58](https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel) - [Fornjot: early-stage b-rep CAD kernel, written in Rust](https://www.fornjot.app/)
 * [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)

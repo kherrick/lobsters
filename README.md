@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-11, 11:09:44](https://lobste.rs/s/gezsia/bevy_s_fifth_birthday) - [Bevy's Fifth Birthday](https://bevy.org/news/bevys-fifth-birthday/)
 * [2025-08-11, 10:31:21](https://lobste.rs/s/t2qits/gleam_s_interoperability_with_erlang) - [Gleam’s Interoperability with Erlang and Elixir](https://www.youtube.com/watch?v=63Z2oNW1Bf4)
 * [2025-08-11, 09:43:58](https://lobste.rs/s/i84ous/fornjot_early_stage_b_rep_cad_kernel) - [Fornjot: early-stage b-rep CAD kernel, written in Rust](https://www.fornjot.app/)
 * [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
@@ -19,7 +20,6 @@
 * [2025-08-10, 14:23:17](https://lobste.rs/s/8mdoo2/ohyaml_wtf_yaml_quiz) - [ohyaml.wtf | YAML Quiz](https://www.ohyaml.wtf/)
 * [2025-08-10, 12:25:20](https://lobste.rs/s/ygqryc/why_do_we_even_need_simd_instructions) - [Why do we even need SIMD instructions ?](https://lemire.me/blog/2025/08/09/why-do-we-even-need-simd-instructions/)
 * [2025-08-10, 11:29:32](https://lobste.rs/s/424inu/creating_high_quality_electronics) - [Creating high quality electronics schematics](https://blog.poly.nomial.co.uk/2025-08-10-creating-high-quality-electronics-schematics.html)
-* [2025-08-10, 10:08:42](https://lobste.rs/s/1z3oiy/elixir_misconceptions_1_don_t_let_it_crash) - [Elixir Misconceptions #1 - Don't \"let it crash\" but \"let it heal\"](https://www.zachdaniel.dev/p/elixir-misconceptions-1)
 * [2025-08-10, 08:43:48](https://lobste.rs/s/ray4zn/lobsters_client_for_emacs) - [Lobsters client for Emacs](https://github.com/tanrax/lobsters.el)
 * [2025-08-10, 06:49:49](https://lobste.rs/s/okvhei/janetdocs) - [JanetDocs](https://janetdocs.org/)
 * [2025-08-10, 05:13:28](https://lobste.rs/s/fcwft7/all_on_omarchy_at_37signals) - [All-in on Omarchy at 37signals](https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450)
