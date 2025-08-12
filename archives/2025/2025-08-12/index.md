@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 08:54:36](https://lobste.rs/s/odyti6/anything_you_can_do_i_can_do_worse_with) - [Anything you can do, I can do worse with macro_rules (2023)](https://www.youtube.com/watch?v=7uSM60jlkBE)
 * [2025-08-12, 08:15:29](https://lobste.rs/s/en2zdl/history_windows_xp) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
 * [2025-08-12, 08:11:36](https://lobste.rs/s/hs9zf7/mutually_attacking_knights) - [Mutually Attacking Knights](https://susam.net/mutually-attacking-knights.html)
 * [2025-08-12, 07:17:35](https://lobste.rs/s/ykunj2/high_level_cpu_challenge) - [The \"high-level CPU\" challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
