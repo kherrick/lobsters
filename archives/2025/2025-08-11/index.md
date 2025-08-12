@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-11](index.md)
 
+* [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-11, 21:03:28](https://lobste.rs/s/gkpzyh/don_t_forget_flush_by_andrew_kelley) - [Don’t Forget To Flush by Andrew Kelley](https://www.youtube.com/watch?v=f30PceqQWko)
 * [2025-08-11, 21:03:28](https://lobste.rs/s/gkpzyh/don_t_forget_flush) - [Don’t Forget To Flush](https://www.youtube.com/watch?v=f30PceqQWko)
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)

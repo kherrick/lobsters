@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-12, 01:00:54](https://lobste.rs/s/4dl67e/script_migrate_github_repositories) - [Script to migrate GitHub repositories to a Forgejo instance](https://github.com/PatNei/GITHUB2FORGEJO)
+* [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-11, 21:03:28](https://lobste.rs/s/gkpzyh/don_t_forget_flush) - [Don’t Forget To Flush](https://www.youtube.com/watch?v=f30PceqQWko)
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
-* [2025-08-11, 19:36:43](https://lobste.rs/s/pzp80a/cupid_for_joyful_coding_2022) - [CUPID: for joyful coding (2022)](https://dannorth.net/blog/cupid-for-joyful-coding/)
 * [2025-08-11, 19:27:15](https://lobste.rs/s/cxt89q/colour_malarkey_2023) - [Colour Malarkey (2023)](https://www.retrorgb.com/colour-malarkey.html)
 * [2025-08-11, 17:53:46](https://lobste.rs/s/nefxb8/matrix_security_release) - [Matrix Security Release](https://matrix.org/blog/2025/08/security-release/)
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
@@ -17,7 +18,6 @@
 * [2025-08-11, 12:14:59](https://lobste.rs/s/d1mjpf/openssh_post_quantum_cryptography) - [OpenSSH: Post-Quantum Cryptography](https://www.openssh.com/pq.html)
 * [2025-08-11, 11:33:50](https://lobste.rs/s/pdrj5s/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pdrj5s/what_are_you_doing_this_week)
 * [2025-08-11, 11:09:44](https://lobste.rs/s/gezsia/bevy_s_fifth_birthday) - [Bevy's Fifth Birthday](https://bevy.org/news/bevys-fifth-birthday/)
-* [2025-08-11, 10:31:21](https://lobste.rs/s/t2qits/gleam_s_interoperability_with_erlang) - [Gleam’s Interoperability with Erlang and Elixir](https://www.youtube.com/watch?v=63Z2oNW1Bf4)
 * [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
 * [2025-08-11, 01:39:51](https://lobste.rs/s/zzu7bs/setting_up_ci_server_for_forgejo) - [Setting up a CI server for Forgejo](https://robey.lag.net/2025/08/10/forgejo-ci.html)
