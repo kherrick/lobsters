@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-12, 11:34:39",
-      "https://lobste.rs/s/puv5fm/radicle_1_3_0"
+      "2025-08-12, 11:42:31",
+      "https://lobste.rs/s/bguepr/desired_features_git_killer_next"
     ],
     [
-      "Radicle 1.3.0",
-      "https://radicle.xyz/2025/08/12/radicle-1.3.0"
+      "Desired features in a \"git-killer\" (next-generation DVCS)",
+      "https://heidiwaterhouse.com/git-along-now/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-08-11, 17:53:46",
+      "https://lobste.rs/s/nefxb8/matrix_security_release"
+    ],
+    [
+      "Matrix Security Release",
+      "https://matrix.org/blog/2025/08/security-release/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 17:28:47",
       "https://lobste.rs/s/jrutdz/commit_mono"
     ],
@@ -217,16 +227,6 @@
     [
       "Bevy's Fifth Birthday",
       "https://bevy.org/news/bevys-fifth-birthday/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 09:38:47",
-      "https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig"
-    ],
-    [
-      "Faster substring search with SIMD in Zig",
-      "https://aarol.dev/posts/zig-simd-substr/"
     ]
   ],
   [
