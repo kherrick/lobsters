@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-12, 11:34:39](https://lobste.rs/s/puv5fm/radicle_1_3_0) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
+* [2025-08-12, 11:42:31](https://lobste.rs/s/bguepr/desired_features_git_killer_next) - [Desired features in a \"git-killer\" (next-generation DVCS)](https://heidiwaterhouse.com/git-along-now/)
 * [2025-08-12, 10:00:08](https://lobste.rs/s/fmiqeh/best_hello_world_web_development) - [The Best \"Hello World\" in Web Development](https://unplannedobsolescence.com/blog/best-hello-world-web-development/)
 * [2025-08-12, 08:54:36](https://lobste.rs/s/odyti6/anything_you_can_do_i_can_do_worse_with) - [Anything you can do, I can do worse with macro_rules (2023)](https://www.youtube.com/watch?v=7uSM60jlkBE)
 * [2025-08-12, 08:15:29](https://lobste.rs/s/en2zdl/history_windows_xp) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
@@ -15,6 +15,7 @@
 * [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-11, 21:03:28](https://lobste.rs/s/gkpzyh/don_t_forget_flush) - [Don’t Forget To Flush](https://www.youtube.com/watch?v=f30PceqQWko)
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
+* [2025-08-11, 17:53:46](https://lobste.rs/s/nefxb8/matrix_security_release) - [Matrix Security Release](https://matrix.org/blog/2025/08/security-release/)
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
 * [2025-08-11, 16:22:23](https://lobste.rs/s/9ndggc/this_send_sync_secret_separates) - [This Send/Sync Secret Separates Professional From Amateur Rust Developers](https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur)
 * [2025-08-11, 15:48:34](https://lobste.rs/s/hlyyv9/tour_standard_ml_2021) - [A Tour of Standard ML (2021)](https://saityi.github.io/sml-tour/tour/welcome)
@@ -22,7 +23,6 @@
 * [2025-08-11, 14:25:05](https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
 * [2025-08-11, 14:03:35](https://lobste.rs/s/4goopn/algorithmic_underground) - [Algorithmic Underground](https://jmsdnns.com/tech/algo-underground/)
 * [2025-08-11, 11:09:44](https://lobste.rs/s/gezsia/bevy_s_fifth_birthday) - [Bevy's Fifth Birthday](https://bevy.org/news/bevys-fifth-birthday/)
-* [2025-08-11, 09:38:47](https://lobste.rs/s/te7o9n/faster_substring_search_with_simd_zig) - [Faster substring search with SIMD in Zig](https://aarol.dev/posts/zig-simd-substr/)
 * [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
 * [2025-08-10, 15:31:20](https://lobste.rs/s/nxeqtq/zig_s_lovely_syntax) - [Zig's Lovely Syntax](https://matklad.github.io/2025/08/09/zigs-lovely-syntax.html)
 
