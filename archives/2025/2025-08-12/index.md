@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 13:55:47](https://lobste.rs/s/nmyhie/how_i_built_local_first_apps_with_react) - [How I Built Local-First Apps with React Native + RxDB (and Why Your App Probably Needs This Too) | HackerNoon](https://hackernoon.com/how-i-built-local-first-apps-with-react-native-rxdb-and-why-your-app-probably-needs-this-too)
 * [2025-08-12, 13:41:44](https://lobste.rs/s/9tcapq/stylish_bugs) - [stylish bugs](https://flak.tedunangst.com/post/stylish-bugs)
 * [2025-08-12, 13:05:11](https://lobste.rs/s/3xmusq/1_1_1_1_free_app_makes_your_internet_faster) - [1.1.1.1 — The free app that makes your Internet faster](https://one.one.one.one/)
 * [2025-08-12, 11:42:31](https://lobste.rs/s/bguepr/desired_features_git_killer_next) - [Desired features in a \"git-killer\" (next-generation DVCS)](https://heidiwaterhouse.com/git-along-now/)
