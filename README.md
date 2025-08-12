@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-12, 11:13:24](https://lobste.rs/s/lcxxec/eighteen_years_greytrapping_is) - [Eighteen Years of Greytrapping - Is the Weirdness Finally Paying Off?](https://nxdomain.no/~peter/eighteen_years_of_greytrapping.html)
 * [2025-08-12, 10:00:08](https://lobste.rs/s/fmiqeh/best_hello_world_web_development) - [The Best \"Hello World\" in Web Development](https://unplannedobsolescence.com/blog/best-hello-world-web-development/)
 * [2025-08-12, 08:54:36](https://lobste.rs/s/odyti6/anything_you_can_do_i_can_do_worse_with) - [Anything you can do, I can do worse with macro_rules (2023)](https://www.youtube.com/watch?v=7uSM60jlkBE)
 * [2025-08-12, 08:15:29](https://lobste.rs/s/en2zdl/history_windows_xp) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
@@ -14,7 +15,6 @@
 * [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-11, 21:03:28](https://lobste.rs/s/gkpzyh/don_t_forget_flush) - [Don’t Forget To Flush](https://www.youtube.com/watch?v=f30PceqQWko)
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
-* [2025-08-11, 17:53:46](https://lobste.rs/s/nefxb8/matrix_security_release) - [Matrix Security Release](https://matrix.org/blog/2025/08/security-release/)
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
 * [2025-08-11, 16:22:23](https://lobste.rs/s/9ndggc/this_send_sync_secret_separates) - [This Send/Sync Secret Separates Professional From Amateur Rust Developers](https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur)
 * [2025-08-11, 15:48:34](https://lobste.rs/s/hlyyv9/tour_standard_ml_2021) - [A Tour of Standard ML (2021)](https://saityi.github.io/sml-tour/tour/welcome)
