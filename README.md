@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-12, 07:17:35](https://lobste.rs/s/ykunj2/high_level_cpu_challenge) - [The \"high-level CPU\" challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 * [2025-08-12, 05:05:55](https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable) - [My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled](https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/)
 * [2025-08-12, 03:16:14](https://lobste.rs/s/ye4man/sonshi_style_k_keyboard_on_laptop) - [Sonshi-style a.k.a. Keyboard on Laptop](https://xn--gckvb8fzb.com/sonshi-style-aka-keyboard-on-laptop/)
 * [2025-08-12, 03:01:30](https://lobste.rs/s/ghlmkv/ai_reviews_my_mini_webserver) - [ai reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
@@ -9,7 +10,6 @@
 * [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-11, 21:03:28](https://lobste.rs/s/gkpzyh/don_t_forget_flush) - [Don’t Forget To Flush](https://www.youtube.com/watch?v=f30PceqQWko)
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
-* [2025-08-11, 19:27:15](https://lobste.rs/s/cxt89q/colour_malarkey_2023) - [Colour Malarkey (2023)](https://www.retrorgb.com/colour-malarkey.html)
 * [2025-08-11, 17:53:46](https://lobste.rs/s/nefxb8/matrix_security_release) - [Matrix Security Release](https://matrix.org/blog/2025/08/security-release/)
 * [2025-08-11, 17:28:47](https://lobste.rs/s/jrutdz/commit_mono) - [Commit Mono](https://commitmono.com/)
 * [2025-08-11, 16:22:23](https://lobste.rs/s/9ndggc/this_send_sync_secret_separates) - [This Send/Sync Secret Separates Professional From Amateur Rust Developers](https://blog.cuongle.dev/p/this-sendsync-secret-separates-professional-and-amateur)
