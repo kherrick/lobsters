@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-12, 18:41:46",
+      "https://lobste.rs/s/ks1m49/ashet_home_computer"
+    ],
+    [
+      "Ashet Home Computer",
+      "https://ashet.computer/"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 17:43:41",
       "https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c"
     ],
@@ -217,16 +227,6 @@
     [
       "A Tour of Standard ML (2021)",
       "https://saityi.github.io/sml-tour/tour/welcome"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 15:12:40",
-      "https://lobste.rs/s/kvmnkg/takeaway_work_stealing_task_queue"
-    ],
-    [
-      "Takeaway: a work-stealing task queue library for Rust",
-      "https://bal-e.org/speed/krabby/takeaway/"
     ]
   ],
   [
