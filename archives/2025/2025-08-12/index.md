@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
+* [2025-08-12, 08:15:29](https://lobste.rs/s/en2zdl/history_windows_xp) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
 * [2025-08-12, 08:11:36](https://lobste.rs/s/hs9zf7/mutually_attacking_knights) - [Mutually Attacking Knights](https://susam.net/mutually-attacking-knights.html)
 * [2025-08-12, 07:17:35](https://lobste.rs/s/ykunj2/high_level_cpu_challenge) - [The \"high-level CPU\" challenge](https://yosefk.com/blog/the-high-level-cpu-challenge.html)
 * [2025-08-12, 05:05:55](https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable) - [My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled](https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/)
