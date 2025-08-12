@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-12, 01:00:54",
+      "https://lobste.rs/s/4dl67e/script_migrate_github_repositories"
+    ],
+    [
+      "Script to migrate GitHub repositories to a Forgejo instance",
+      "https://github.com/PatNei/GITHUB2FORGEJO"
+    ]
+  ],
+  [
+    [
+      "2025-08-11, 23:00:33",
+      "https://lobste.rs/s/lg9rft/fight_chat_control"
+    ],
+    [
+      "Fight Chat Control",
+      "https://fightchatcontrol.eu/"
+    ]
+  ],
+  [
+    [
       "2025-08-11, 21:03:28",
       "https://lobste.rs/s/gkpzyh/don_t_forget_flush"
     ],
@@ -17,16 +37,6 @@
     [
       "missing.css 1.2.0",
       "https://missing.style/releases/1.2.0/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 19:36:43",
-      "https://lobste.rs/s/pzp80a/cupid_for_joyful_coding_2022"
-    ],
-    [
-      "CUPID: for joyful coding (2022)",
-      "https://dannorth.net/blog/cupid-for-joyful-coding/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Bevy's Fifth Birthday",
       "https://bevy.org/news/bevys-fifth-birthday/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 10:31:21",
-      "https://lobste.rs/s/t2qits/gleam_s_interoperability_with_erlang"
-    ],
-    [
-      "Gleam’s Interoperability with Erlang and Elixir",
-      "https://www.youtube.com/watch?v=63Z2oNW1Bf4"
     ]
   ],
   [
