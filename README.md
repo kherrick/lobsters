@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-12, 17:43:41](https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c) - [How I do (type-safe) container types in C](https://louissven.xyz/article/how_I_do_container_types_in_C.md)
 * [2025-08-12, 16:19:42](https://lobste.rs/s/1fduyi/jenny_s_daily_drivers_freedos_1_4) - [Jenny’s Daily Drivers: FreeDOS 1.4](https://hackaday.com/2025/08/06/jennys-daily-drivers-freedos-1-4/)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 * [2025-08-12, 15:16:57](https://lobste.rs/s/2ifbfv/evaluating_llms_playing_text_adventures) - [Evaluating LLMs Playing Text Adventures](https://entropicthoughts.com/evaluating-llms-playing-text-adventures)
-* [2025-08-12, 14:03:04](https://lobste.rs/s/usd6so/what_is_it_like_be_bat) - [What Is It Like to Be a Bat?](https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F)
 * [2025-08-12, 13:41:44](https://lobste.rs/s/9tcapq/stylish_bugs) - [stylish bugs](https://flak.tedunangst.com/post/stylish-bugs)
 * [2025-08-12, 11:42:31](https://lobste.rs/s/bguepr/desired_features_git_killer_next) - [Desired features in a \"git-killer\" (next-generation DVCS)](https://heidiwaterhouse.com/git-along-now/)
 * [2025-08-12, 11:34:39](https://lobste.rs/s/puv5fm/radicle_1_3_0) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
