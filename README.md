@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-13, 09:42:29](https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker) - [pure: A static analysis file format checker for Zip files](https://github.com/ronomon/pure)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 07:00:26](https://lobste.rs/s/5yyh3p/git_who_git_blame_for_file_trees) - [git-who: Git blame for file trees](https://github.com/sinclairtarget/git-who)
 * [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
@@ -24,7 +25,6 @@
 * [2025-08-12, 03:01:30](https://lobste.rs/s/ghlmkv/ai_reviews_my_mini_webserver) - [ai reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
 * [2025-08-12, 02:35:24](https://lobste.rs/s/3aogtw/uxn) - [uxn](https://100r.co/site/uxn.html)
 * [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
-* [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
 
 ## [Archives](archives/index.md)
 
