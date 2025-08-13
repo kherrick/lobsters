@@ -3,10 +3,11 @@
 * [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 * [2025-08-13, 04:08:45](https://lobste.rs/s/4zxyua/numba_v2_compiler_design) - [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
 * [2025-08-13, 03:57:41](https://lobste.rs/s/gkzkf1/fennel_libraries_as_single_files) - [Fennel libraries as single files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
-* [2025-08-13, 02:01:16](https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still) - [Crowdsourcing Broken QR Codes (Still)](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
+* [2025-08-13, 03:48:20](https://lobste.rs/s/ishtpo/building_web_search_engine_from_scratch) - [Building a web search engine from scratch in two months with 3 billion neural embeddings](https://blog.wilsonl.in/search-engine/)
 * [2025-08-13, 01:18:23](https://lobste.rs/s/86ptga/nyc_s_urban_textscape) - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/)
 * [2025-08-13, 00:01:08](https://lobste.rs/s/fh5wex/go_1_25_release_notes) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 21:13:48](https://lobste.rs/s/a7avpz/introduction_python_rust_interop_for) - [An Introduction to Python-Rust Interop for Scientific Codebases](https://github.com/nrposner/coding_club)
+* [2025-08-12, 19:44:34](https://lobste.rs/s/8iizm7/nimi_sin_make_more_specific_words) - [nimi sin: make more specific words](https://nora.codes/post/nimi-sin/)
 * [2025-08-12, 18:41:46](https://lobste.rs/s/ks1m49/ashet_home_computer) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 17:43:41](https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c) - [How I do (type-safe) container types in C](https://louissven.xyz/article/how_I_do_container_types_in_C.md)
 * [2025-08-12, 16:31:02](https://lobste.rs/s/jfvyez/git_interactive_rebase_order_is_wrong) - [Git Interactive Rebase Order is Wrong (2019)](https://salferrarello.com/git-interactive-rebase-order-is-wrong/)
@@ -24,7 +25,6 @@
 * [2025-08-11, 23:00:33](https://lobste.rs/s/lg9rft/fight_chat_control) - [Fight Chat Control](https://fightchatcontrol.eu/)
 * [2025-08-11, 20:10:48](https://lobste.rs/s/jrrhfu/missing_css_1_2_0) - [missing.css 1.2.0](https://missing.style/releases/1.2.0/)
 * [2025-08-11, 14:25:05](https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid) - [I tried coding with AI, I became lazy and stupid](https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid)
-* [2025-08-11, 08:27:22](https://lobste.rs/s/ea9juv/how_not_build_torment_nexus) - [How to not build the Torment Nexus](https://buttondown.com/monteiro/archive/how-to-not-build-the-torment-nexus/)
 
 ## [Archives](archives/index.md)
 
