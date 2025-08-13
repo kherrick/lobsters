@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-13, 19:45:45",
+      "https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls"
+    ],
+    [
+      "Snooping On Slow Builds (Using Syscalls)",
+      "https://danielchasehooper.com/posts/syscall-build-snooping/"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 18:28:14",
       "https://lobste.rs/s/v8eiev/pyx_python_native_package_registry_now"
     ],
@@ -237,16 +247,6 @@
     [
       "The Best \"Hello World\" in Web Development",
       "https://unplannedobsolescence.com/blog/best-hello-world-web-development/"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 03:01:30",
-      "https://lobste.rs/s/ghlmkv/ai_reviews_my_mini_webserver"
-    ],
-    [
-      "ai reviews my mini webserver",
-      "https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c"
     ]
   ]
 ]
