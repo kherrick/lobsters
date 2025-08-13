@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 18:04:35](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language) - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 17:04:23](https://lobste.rs/s/jp2ajo/physically_based_shading_theory) - [Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2025-shading-course/)
 * [2025-08-13, 16:07:25](https://lobste.rs/s/aclljb/answering_bfdi_s_questions_on_personal) - [Answering the BfDI's questions on personal data in LLMs](https://desfontain.es/blog/bfdi-consultation-ai.html)
 * [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
