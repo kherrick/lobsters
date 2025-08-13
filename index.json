@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-13, 07:53:28",
-      "https://lobste.rs/s/zzmhzp/claude_runs_lldb_screen"
-    ],
-    [
-      "Claude Runs LLDB in Screen",
-      "https://youtu.be/chSL6p5u-74"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 04:23:52",
       "https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2025-08-13, 02:01:16",
+      "https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still"
+    ],
+    [
+      "Crowdsourcing Broken QR Codes (Still)",
+      "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 01:18:23",
       "https://lobste.rs/s/86ptga/nyc_s_urban_textscape"
     ],
@@ -77,6 +77,16 @@
     [
       "An Introduction to Python-Rust Interop for Scientific Codebases",
       "https://github.com/nrposner/coding_club"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 19:44:34",
+      "https://lobste.rs/s/8iizm7/nimi_sin_make_more_specific_words"
+    ],
+    [
+      "nimi sin: make more specific words",
+      "https://nora.codes/post/nimi-sin/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "The \"high-level CPU\" challenge (2008)",
       "https://yosefk.com/blog/the-high-level-cpu-challenge.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 05:05:55",
-      "https://lobste.rs/s/ymwzhn/my_tiny_1000_lines_fastish_embeddable"
-    ],
-    [
-      "My tiny (1000 lines), fastish, embeddable scripting language can be AOT compiled",
-      "https://wareya.wordpress.com/2025/08/11/my-tiny-1000-lines-fastish-embeddable-scripting-language-can-be-aot-compiled/"
     ]
   ],
   [
