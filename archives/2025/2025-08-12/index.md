@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-12](index.md)
 
 * [2025-08-12, 21:13:48](https://lobste.rs/s/a7avpz/introduction_python_rust_interop_for) - [An Introduction to Python-Rust Interop for Scientific Codebases](https://github.com/nrposner/coding_club)
+* [2025-08-12, 19:44:34](https://lobste.rs/s/8iizm7/nimi_sin_make_more_specific_words) - [nimi sin: make more specific words](https://nora.codes/post/nimi-sin/)
 * [2025-08-12, 18:41:46](https://lobste.rs/s/ks1m49/ashet_home_computer) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 17:43:41](https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c) - [How I do (type-safe) container types in C](https://louissven.xyz/article/how_I_do_container_types_in_C.md)
 * [2025-08-12, 16:31:02](https://lobste.rs/s/jfvyez/git_interactive_rebase_order_is_wrong) - [Git Interactive Rebase Order is Wrong (2019)](https://salferrarello.com/git-interactive-rebase-order-is-wrong/)
