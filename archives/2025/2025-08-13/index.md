@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 15:06:08](https://lobste.rs/s/7gkxzt/study_social_media_probably_can_t_be_fixed) - [Study: Social media probably can’t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-13, 14:31:20](https://lobste.rs/s/26zxoe/introducing_nexus_open_source_ai_router) - [Introducing Nexus - the Open-Source AI Router to aggregate, govern, and secure your AI stack](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
 * [2025-08-13, 12:42:03](https://lobste.rs/s/nfo9ec/cra_open_source) - [CRA and Open Source](https://dev.to/lizmat/cra-and-open-source-4ljm)
 * [2025-08-13, 12:26:22](https://lobste.rs/s/rna1d1/starting_with_pytest_s_parametrize) - [Starting with pytest’s parametrize](https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html)
+* [2025-08-13, 10:18:25](https://lobste.rs/s/d3dfvo/writing_your_own_simple_tab_completions) - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 * [2025-08-13, 09:42:29](https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker) - [pure: A static analysis file format checker for Zip files](https://github.com/ronomon/pure)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 07:53:28](https://lobste.rs/s/zzmhzp/claude_runs_lldb_screen) - [Claude Runs LLDB in Screen](https://youtu.be/chSL6p5u-74)
