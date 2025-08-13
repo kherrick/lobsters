@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-13, 21:51:50",
+      "https://lobste.rs/s/jcpcvk/nixidy_kubernetes_gitops_with_nix_argo_cd"
+    ],
+    [
+      "nixidy: Kubernetes GitOps with nix and Argo CD",
+      "https://nixidy.dev"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 19:45:45",
       "https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls"
     ],
@@ -177,16 +187,6 @@
     [
       "Numba v2 Compiler Design",
       "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 03:48:20",
-      "https://lobste.rs/s/ishtpo/building_web_search_engine_from_scratch"
-    ],
-    [
-      "Building a web search engine from scratch in two months with 3 billion neural embeddings",
-      "https://blog.wilsonl.in/search-engine/"
     ]
   ],
   [
