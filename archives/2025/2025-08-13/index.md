@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 22:31:33](https://lobste.rs/s/5e4oh9/our_paint_natural_painting_program) - [Our Paint | A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)
 * [2025-08-13, 21:51:50](https://lobste.rs/s/jcpcvk/nixidy_kubernetes_gitops_with_nix_argo_cd) - [nixidy: Kubernetes GitOps with nix and Argo CD](https://nixidy.dev)
 * [2025-08-13, 20:50:26](https://lobste.rs/s/lnah4w/16_billion_password_story_aka_data_troll) - [That 16 Billion Password Story (AKA \"Data Troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
 * [2025-08-13, 20:41:44](https://lobste.rs/s/1ugmaz/plan_9_desktop_guide) - [Plan 9 Desktop Guide](https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html)
