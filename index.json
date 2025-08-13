@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-13, 03:24:19",
+      "https://lobste.rs/s/oyqcxq/claude_code_is_all_you_need"
+    ],
+    [
+      "Claude Code Is All You Need",
+      "https://dwyer.co.za/static/claude-code-is-all-you-need.html"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 02:01:16",
       "https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2025-08-13, 00:39:51",
-      "https://lobste.rs/s/17ffs1/reverse_engineering_rp3a0_soc_from"
-    ],
-    [
-      "Reverse engineering the RP3A0 SoC from the Raspberry Pi Zero 2W",
-      "https://jonathanclark.dev/rp3a0"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 00:01:08",
       "https://lobste.rs/s/fh5wex/go_1_25_release_notes"
     ],
@@ -47,6 +47,16 @@
     [
       "An Introduction to Python-Rust Interop for Scientific Codebases",
       "https://github.com/nrposner/coding_club"
+    ]
+  ],
+  [
+    [
+      "2025-08-12, 19:44:34",
+      "https://lobste.rs/s/8iizm7/nimi_sin_make_more_specific_words"
+    ],
+    [
+      "nimi sin: make more specific words",
+      "https://nora.codes/post/nimi-sin/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Fight Chat Control",
       "https://fightchatcontrol.eu/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 21:03:28",
-      "https://lobste.rs/s/gkpzyh/don_t_forget_flush"
-    ],
-    [
-      "Don’t Forget To Flush",
-      "https://www.youtube.com/watch?v=f30PceqQWko"
     ]
   ],
   [
