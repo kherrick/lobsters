@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-13, 09:42:29",
+      "https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker"
+    ],
+    [
+      "pure: A static analysis file format checker for Zip files",
+      "https://github.com/ronomon/pure"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 08:01:53",
       "https://lobste.rs/s/ywyzag/factory_timezone"
     ],
@@ -237,16 +247,6 @@
     [
       "missing.css 1.2.0",
       "https://missing.style/releases/1.2.0/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 14:25:05",
-      "https://lobste.rs/s/e9fdbs/i_tried_coding_with_ai_i_became_lazy_stupid"
-    ],
-    [
-      "I tried coding with AI, I became lazy and stupid",
-      "https://thomasorus.com/i-tried-coding-with-ai-i-became-lazy-and-stupid"
     ]
   ]
 ]
