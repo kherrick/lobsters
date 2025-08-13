@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-08-13, 12:42:03",
-      "https://lobste.rs/s/nfo9ec/cra_open_source"
-    ],
-    [
-      "CRA and Open Source",
-      "https://dev.to/lizmat/cra-and-open-source-4ljm"
-    ]
-  ],
-  [
-    [
       "2025-08-13, 12:26:22",
       "https://lobste.rs/s/rna1d1/starting_with_pytest_s_parametrize"
     ],
@@ -137,6 +127,16 @@
     [
       "Numba v2 Compiler Design",
       "https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 03:57:41",
+      "https://lobste.rs/s/gkzkf1/fennel_libraries_as_single_files"
+    ],
+    [
+      "Fennel libraries as single files",
+      "https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/"
     ]
   ],
   [
