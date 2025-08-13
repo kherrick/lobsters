@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-13, 09:42:29",
+      "https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker"
+    ],
+    [
+      "pure: A static analysis file format checker for Zip files",
+      "https://github.com/ronomon/pure"
+    ]
+  ],
+  [
+    [
       "2025-08-13, 08:01:53",
       "https://lobste.rs/s/ywyzag/factory_timezone"
     ],
@@ -237,16 +247,6 @@
     [
       "Fight Chat Control",
       "https://fightchatcontrol.eu/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 20:10:48",
-      "https://lobste.rs/s/jrrhfu/missing_css_1_2_0"
-    ],
-    [
-      "missing.css 1.2.0",
-      "https://missing.style/releases/1.2.0/"
     ]
   ]
 ]
