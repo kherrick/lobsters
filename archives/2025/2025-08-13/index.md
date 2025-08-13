@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
 * [2025-08-13, 12:42:03](https://lobste.rs/s/nfo9ec/cra_open_source) - [CRA and Open Source](https://dev.to/lizmat/cra-and-open-source-4ljm)
+* [2025-08-13, 12:26:22](https://lobste.rs/s/rna1d1/starting_with_pytest_s_parametrize) - [Starting with pytest’s parametrize](https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html)
 * [2025-08-13, 09:42:29](https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker) - [pure: A static analysis file format checker for Zip files](https://github.com/ronomon/pure)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 07:53:28](https://lobste.rs/s/zzmhzp/claude_runs_lldb_screen) - [Claude Runs LLDB in Screen](https://youtu.be/chSL6p5u-74)
