@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-13, 18:28:14](https://lobste.rs/s/v8eiev/pyx_python_native_package_registry_now) - [pyx: a Python-native package registry, now in Beta](https://astral.sh/blog/introducing-pyx)
+* [2025-08-13, 18:18:34](https://lobste.rs/s/iupiot/standard_package_layout_2016) - [Standard Package Layout (2016)](https://www.gobeyond.dev/standard-package-layout/)
 * [2025-08-13, 18:04:35](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language) - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 17:04:23](https://lobste.rs/s/jp2ajo/physically_based_shading_theory) - [Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2025-shading-course/)
-* [2025-08-13, 16:07:25](https://lobste.rs/s/aclljb/answering_bfdi_s_questions_on_personal) - [Answering the BfDI's questions on personal data in LLMs](https://desfontain.es/blog/bfdi-consultation-ai.html)
 * [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
 * [2025-08-13, 15:06:08](https://lobste.rs/s/7gkxzt/study_social_media_probably_can_t_be_fixed) - [Study: Social media probably can’t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
@@ -24,7 +25,6 @@
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 * [2025-08-12, 10:00:08](https://lobste.rs/s/fmiqeh/best_hello_world_web_development) - [The Best \"Hello World\" in Web Development](https://unplannedobsolescence.com/blog/best-hello-world-web-development/)
 * [2025-08-12, 03:01:30](https://lobste.rs/s/ghlmkv/ai_reviews_my_mini_webserver) - [ai reviews my mini webserver](https://gist.github.com/izabera/91f44d29bb9da9a703514e815f71cf8c)
-* [2025-08-12, 02:35:24](https://lobste.rs/s/3aogtw/uxn) - [uxn](https://100r.co/site/uxn.html)
 
 ## [Archives](archives/index.md)
 
