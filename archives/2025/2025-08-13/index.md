@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-13, 14:31:20](https://lobste.rs/s/26zxoe/introducing_nexus_open_source_ai_router) - [Introducing Nexus - the Open-Source AI Router to aggregate, govern, and secure your AI stack](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
 * [2025-08-13, 12:42:03](https://lobste.rs/s/nfo9ec/cra_open_source) - [CRA and Open Source](https://dev.to/lizmat/cra-and-open-source-4ljm)
