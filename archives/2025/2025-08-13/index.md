@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
 * [2025-08-13, 15:06:08](https://lobste.rs/s/7gkxzt/study_social_media_probably_can_t_be_fixed) - [Study: Social media probably can’t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-13, 14:31:20](https://lobste.rs/s/26zxoe/introducing_nexus_open_source_ai_router) - [Introducing Nexus - the Open-Source AI Router to aggregate, govern, and secure your AI stack](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)

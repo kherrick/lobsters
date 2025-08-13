@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
 * [2025-08-13, 15:06:08](https://lobste.rs/s/7gkxzt/study_social_media_probably_can_t_be_fixed) - [Study: Social media probably can’t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-13, 14:31:20](https://lobste.rs/s/26zxoe/introducing_nexus_open_source_ai_router) - [Introducing Nexus - the Open-Source AI Router to aggregate, govern, and secure your AI stack](https://nexusrouter.com/blog/introducing-nexus-the-open-source-ai-router)
@@ -7,7 +8,6 @@
 * [2025-08-13, 12:42:03](https://lobste.rs/s/nfo9ec/cra_open_source) - [CRA and Open Source](https://dev.to/lizmat/cra-and-open-source-4ljm)
 * [2025-08-13, 12:26:22](https://lobste.rs/s/rna1d1/starting_with_pytest_s_parametrize) - [Starting with pytest’s parametrize](https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html)
 * [2025-08-13, 10:18:25](https://lobste.rs/s/d3dfvo/writing_your_own_simple_tab_completions) - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
-* [2025-08-13, 09:42:29](https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker) - [pure: A static analysis file format checker for Zip files](https://github.com/ronomon/pure)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 07:00:26](https://lobste.rs/s/5yyh3p/git_who_git_blame_for_file_trees) - [git-who: Git blame for file trees](https://github.com/sinclairtarget/git-who)
 * [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
