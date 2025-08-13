@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-08-13, 02:01:16",
+      "https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still"
+    ],
+    [
+      "Crowdsourcing Broken QR Codes (Still)",
+      "https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 01:18:23",
+      "https://lobste.rs/s/86ptga/nyc_s_urban_textscape"
+    ],
+    [
+      "NYC’s Urban Textscape",
+      "https://pudding.cool/2025/07/street-view/"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 00:39:51",
+      "https://lobste.rs/s/17ffs1/reverse_engineering_rp3a0_soc_from"
+    ],
+    [
+      "Reverse engineering the RP3A0 SoC from the Raspberry Pi Zero 2W",
+      "https://jonathanclark.dev/rp3a0"
+    ]
+  ],
+  [
+    [
+      "2025-08-13, 00:01:08",
+      "https://lobste.rs/s/fh5wex/go_1_25_release_notes"
+    ],
+    [
+      "Go 1.25 Release Notes",
+      "https://go.dev/doc/go1.25"
+    ]
+  ],
+  [
+    [
       "2025-08-12, 21:13:48",
       "https://lobste.rs/s/a7avpz/introduction_python_rust_interop_for"
     ],
@@ -57,16 +97,6 @@
     [
       "Syncthing v2.0",
       "https://github.com/syncthing/syncthing/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 15:16:57",
-      "https://lobste.rs/s/2ifbfv/evaluating_llms_playing_text_adventures"
-    ],
-    [
-      "Evaluating LLMs Playing Text Adventures",
-      "https://entropicthoughts.com/evaluating-llms-playing-text-adventures"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2025-08-12, 02:21:21",
-      "https://lobste.rs/s/ntu5mv/weathering_software_winter_2022"
-    ],
-    [
-      "Weathering Software Winter (2022)",
-      "https://100r.co/site/weathering_software_winter.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 01:00:54",
-      "https://lobste.rs/s/4dl67e/script_migrate_github_repositories"
-    ],
-    [
-      "Script to migrate GitHub repositories to a Forgejo instance",
-      "https://github.com/PatNei/GITHUB2FORGEJO"
-    ]
-  ],
-  [
-    [
       "2025-08-11, 23:00:33",
       "https://lobste.rs/s/lg9rft/fight_chat_control"
     ],
@@ -217,16 +227,6 @@
     [
       "missing.css 1.2.0",
       "https://missing.style/releases/1.2.0/"
-    ]
-  ],
-  [
-    [
-      "2025-08-11, 17:28:47",
-      "https://lobste.rs/s/jrutdz/commit_mono"
-    ],
-    [
-      "Commit Mono",
-      "https://commitmono.com/"
     ]
   ],
   [
