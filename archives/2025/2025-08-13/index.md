@@ -7,6 +7,7 @@
 * [2025-08-13, 09:42:29](https://lobste.rs/s/xcvyjm/pure_static_analysis_file_format_checker) - [pure: A static analysis file format checker for Zip files](https://github.com/ronomon/pure)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 07:53:28](https://lobste.rs/s/zzmhzp/claude_runs_lldb_screen) - [Claude Runs LLDB in Screen](https://youtu.be/chSL6p5u-74)
+* [2025-08-13, 07:00:26](https://lobste.rs/s/5yyh3p/git_who_git_blame_for_file_trees) - [git-who: Git blame for file trees](https://github.com/sinclairtarget/git-who)
 * [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 * [2025-08-13, 04:08:45](https://lobste.rs/s/4zxyua/numba_v2_compiler_design) - [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
 * [2025-08-13, 03:57:41](https://lobste.rs/s/gkzkf1/fennel_libraries_as_single_files) - [Fennel libraries as single files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
