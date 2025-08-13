@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-13](index.md)
 
+* [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
+* [2025-08-13, 04:08:45](https://lobste.rs/s/4zxyua/numba_v2_compiler_design) - [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
 * [2025-08-13, 03:57:41](https://lobste.rs/s/gkzkf1/fennel_libraries_as_single_files) - [Fennel libraries as single files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
 * [2025-08-13, 03:24:19](https://lobste.rs/s/oyqcxq/claude_code_is_all_you_need) - [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
 * [2025-08-13, 02:01:16](https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still) - [Crowdsourcing Broken QR Codes (Still)](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)

@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
+* [2025-08-13, 04:08:45](https://lobste.rs/s/4zxyua/numba_v2_compiler_design) - [Numba v2 Compiler Design](https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html)
 * [2025-08-13, 03:57:41](https://lobste.rs/s/gkzkf1/fennel_libraries_as_single_files) - [Fennel libraries as single files](https://andreyor.st/posts/2023-08-27-fennel-libraries-as-single-files/)
-* [2025-08-13, 03:24:19](https://lobste.rs/s/oyqcxq/claude_code_is_all_you_need) - [Claude Code Is All You Need](https://dwyer.co.za/static/claude-code-is-all-you-need.html)
 * [2025-08-13, 02:01:16](https://lobste.rs/s/l3qyvk/crowdsourcing_broken_qr_codes_still) - [Crowdsourcing Broken QR Codes (Still)](https://www.humanqr.com/news/qr-code-not-scanning-well-try-to-help/)
 * [2025-08-13, 01:18:23](https://lobste.rs/s/86ptga/nyc_s_urban_textscape) - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view/)
 * [2025-08-13, 00:01:08](https://lobste.rs/s/fh5wex/go_1_25_release_notes) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
@@ -12,7 +13,6 @@
 * [2025-08-12, 16:19:42](https://lobste.rs/s/1fduyi/jenny_s_daily_drivers_freedos_1_4) - [Jenny’s Daily Drivers: FreeDOS 1.4](https://hackaday.com/2025/08/06/jennys-daily-drivers-freedos-1-4/)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 * [2025-08-12, 13:41:44](https://lobste.rs/s/9tcapq/stylish_bugs) - [stylish bugs](https://flak.tedunangst.com/post/stylish-bugs)
-* [2025-08-12, 11:42:31](https://lobste.rs/s/bguepr/desired_features_git_killer_next) - [Desired features in a \"git-killer\" (next-generation DVCS)](https://heidiwaterhouse.com/git-along-now/)
 * [2025-08-12, 11:34:39](https://lobste.rs/s/puv5fm/radicle_1_3_0) - [Radicle 1.3.0](https://radicle.xyz/2025/08/12/radicle-1.3.0)
 * [2025-08-12, 10:00:08](https://lobste.rs/s/fmiqeh/best_hello_world_web_development) - [The Best \"Hello World\" in Web Development](https://unplannedobsolescence.com/blog/best-hello-world-web-development/)
 * [2025-08-12, 08:15:29](https://lobste.rs/s/en2zdl/history_windows_xp) - [The History of Windows XP](https://www.abortretry.fail/p/the-history-of-windows-xp)
