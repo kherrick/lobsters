@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-14, 21:06:37",
+      "https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing"
+    ],
+    [
+      "what is the go proxy even doing?",
+      "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 20:06:30",
       "https://lobste.rs/s/hfojix/syncing_with_postgres_logical"
     ],
@@ -17,16 +27,6 @@
     [
       "Mixbox - Natural Color Mixing Based on Real Pigments (2021)",
       "https://scrtwpns.com/mixbox/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 18:30:07",
-      "https://lobste.rs/s/qn91nw/running_wayland_clients_as_non_root_users"
-    ],
-    [
-      "Running Wayland Clients as Non-Root Users on Yocto",
-      "https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/"
     ]
   ],
   [
