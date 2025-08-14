@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People's Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 * [2025-08-14, 02:31:31](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further) - [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
 * [2025-08-14, 00:58:55](https://lobste.rs/s/vlzay9/madeyoureset_turning_http_2_server) - [MadeYouReset: Turning HTTP/2 Server Against Itself](https://www.imperva.com/blog/madeyoureset-turning-http-2-server-against-itself/)
 * [2025-08-13, 22:31:33](https://lobste.rs/s/5e4oh9/our_paint_natural_painting_program) - [Our Paint | A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)
@@ -8,7 +9,6 @@
 * [2025-08-13, 20:41:44](https://lobste.rs/s/1ugmaz/plan_9_desktop_guide) - [Plan 9 Desktop Guide](https://web.archive.org/web/20250725161816/https://pspodcasting.net/dan/blog/2019/plan9_desktop.html)
 * [2025-08-13, 19:45:45](https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls) - [Snooping On Slow Builds (Using Syscalls)](https://danielchasehooper.com/posts/syscall-build-snooping/)
 * [2025-08-13, 18:28:14](https://lobste.rs/s/v8eiev/pyx_python_native_package_registry_now) - [pyx: a Python-native package registry, now in Beta](https://astral.sh/blog/introducing-pyx)
-* [2025-08-13, 18:18:34](https://lobste.rs/s/iupiot/standard_package_layout_2016) - [Standard Package Layout (2016)](https://www.gobeyond.dev/standard-package-layout/)
 * [2025-08-13, 18:04:35](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language) - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 * [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
 * [2025-08-13, 15:56:43](https://lobste.rs/s/rq9woq/coalton_playground_type_safe_lisp_your) - [Coalton Playground: Type-Safe Lisp in Your Browser](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/)
