@@ -6,6 +6,7 @@
 * [2025-08-14, 10:50:25](https://lobste.rs/s/vqd2oj/emacs_30_2_is_here) - [Emacs 30.2 is here](https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2)
 * [2025-08-14, 07:42:44](https://lobste.rs/s/goxxao/optimizing_your_debian_13_desktop) - [Optimizing Your Debian 13 Desktop](https://teejeetech.com/2025/08/14/debian_13_tips/)
 * [2025-08-14, 06:54:31](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue) - [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast)
+* [2025-08-14, 06:14:09](https://lobste.rs/s/0kvmb9/liveness_analysis_with_datalog) - [Liveness analysis with Datalog](https://bernsteinbear.com/blog/liveness-datalog/)
 * [2025-08-14, 04:57:08](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme) - [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People's Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 * [2025-08-14, 02:31:31](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further) - [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
@@ -23,7 +24,6 @@
 * [2025-08-13, 14:27:40](https://lobste.rs/s/zzw5j1/arch_shares_its_wiki_strategy_with_debian) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-* [2025-08-13, 00:01:08](https://lobste.rs/s/fh5wex/go_1_25_release_notes) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 
 ## [Archives](archives/index.md)
