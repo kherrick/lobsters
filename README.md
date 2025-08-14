@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 19:50:47](https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real) - [Mixbox - Natural Color Mixing Based on Real Pigments (2021)](https://scrtwpns.com/mixbox/)
 * [2025-08-14, 18:30:07](https://lobste.rs/s/qn91nw/running_wayland_clients_as_non_root_users) - [Running Wayland Clients as Non-Root Users on Yocto](https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/)
 * [2025-08-14, 18:22:58](https://lobste.rs/s/1v1slg/jujutsu_with_radicle) - [Jujutsu with Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
 * [2025-08-14, 17:50:23](https://lobste.rs/s/tuodvv/placing_arguments) - [Placing Arguments](https://blog.yoshuawuyts.com/placing-arguments/)
@@ -15,7 +16,6 @@
 * [2025-08-14, 06:54:31](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue) - [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast)
 * [2025-08-14, 04:57:08](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme) - [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People's Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
-* [2025-08-14, 02:31:31](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further) - [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
 * [2025-08-14, 01:12:00](https://lobste.rs/s/6s0n5d/cross_site_request_forgery) - [Cross-Site Request Forgery](https://words.filippo.io/csrf/)
 * [2025-08-13, 22:31:33](https://lobste.rs/s/5e4oh9/our_paint_natural_painting_program) - [Our Paint | A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)
 * [2025-08-13, 21:51:50](https://lobste.rs/s/jcpcvk/nixidy_kubernetes_gitops_with_nix_argo_cd) - [nixidy: Kubernetes GitOps with nix and Argo CD](https://nixidy.dev)
