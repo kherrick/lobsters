@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-14, 17:50:23",
+      "https://lobste.rs/s/tuodvv/placing_arguments"
+    ],
+    [
+      "Placing Arguments",
+      "https://blog.yoshuawuyts.com/placing-arguments/"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 17:33:06",
       "https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers"
     ],
@@ -237,16 +247,6 @@
     [
       "OOMProf - Take a heap profile just before OOMkill using eBPF",
       "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 15:17:16",
-      "https://lobste.rs/s/kvit4x/syncthing_v2_0"
-    ],
-    [
-      "Syncthing v2.0",
-      "https://github.com/syncthing/syncthing/releases/tag/v2.0.0"
     ]
   ]
 ]
