@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 15:44:55](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software_zed) - [Why LLMs Can't Really Build Software - Zed Blog](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 14:53:44](https://lobste.rs/s/pm5vdm/enforce_proper_direnv_setup) - [Enforce Proper direnv Setup](https://joeyates.info/posts/enforce-proper-direnv-setup/)
 * [2025-08-14, 14:10:15](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for) - [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf)
 * [2025-08-14, 12:01:48](https://lobste.rs/s/xzubsr/how_rig_elections) - [How to rig elections](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
@@ -23,7 +24,6 @@
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
 * [2025-08-13, 14:27:40](https://lobste.rs/s/zzw5j1/arch_shares_its_wiki_strategy_with_debian) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
-* [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 
 ## [Archives](archives/index.md)
