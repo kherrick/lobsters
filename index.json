@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-14, 10:54:09",
+      "https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social"
+    ],
+    [
+      "Org-social is a decentralized social network that runs on an Org Mode",
+      "https://github.com/tanrax/org-social"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 10:50:25",
+      "https://lobste.rs/s/vqd2oj/emacs_30_2_is_here"
+    ],
+    [
+      "Emacs 30.2 is here",
+      "https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 07:42:44",
       "https://lobste.rs/s/goxxao/optimizing_your_debian_13_desktop"
     ],
@@ -57,16 +77,6 @@
     [
       "Cross-Site Request Forgery",
       "https://words.filippo.io/csrf/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 00:58:55",
-      "https://lobste.rs/s/vlzay9/madeyoureset_turning_http_2_server"
-    ],
-    [
-      "MadeYouReset: Turning HTTP/2 Server Against Itself",
-      "https://www.imperva.com/blog/madeyoureset-turning-http-2-server-against-itself/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Go 1.25 Release Notes",
       "https://go.dev/doc/go1.25"
-    ]
-  ],
-  [
-    [
-      "2025-08-12, 17:43:41",
-      "https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c"
-    ],
-    [
-      "How I do (type-safe) container types in C",
-      "https://louissven.xyz/article/how_I_do_container_types_in_C.md"
     ]
   ],
   [
