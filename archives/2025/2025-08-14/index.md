@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 10:58:05](https://lobste.rs/s/idpelb/open_source_sustainability_for_fastn) - [Open Source Sustainability for fastn - FifthTry Launches Rust Consultancy](https://fastn.com/podcast/sustainability-and-consultancy/)
 * [2025-08-14, 10:54:09](https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-14, 10:50:25](https://lobste.rs/s/vqd2oj/emacs_30_2_is_here) - [Emacs 30.2 is here](https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2)
 * [2025-08-14, 07:42:44](https://lobste.rs/s/goxxao/optimizing_your_debian_13_desktop) - [Optimizing Your Debian 13 Desktop](https://teejeetech.com/2025/08/14/debian_13_tips/)
