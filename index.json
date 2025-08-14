@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-14, 15:44:55",
+      "https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software_zed"
+    ],
+    [
+      "Why LLMs Can't Really Build Software - Zed Blog",
+      "https://zed.dev/blog/why-llms-cant-build-software"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 14:53:44",
       "https://lobste.rs/s/pm5vdm/enforce_proper_direnv_setup"
     ],
@@ -227,16 +237,6 @@
     [
       "Miegakure SIGGRAPH 2025 Talk",
       "https://www.youtube.com/live/ucRukZM0d1s?t=5203s"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 08:01:53",
-      "https://lobste.rs/s/ywyzag/factory_timezone"
-    ],
-    [
-      "The Factory Timezone",
-      "https://data.iana.org/time-zones/tzdb-2025a/factory"
     ]
   ],
   [
