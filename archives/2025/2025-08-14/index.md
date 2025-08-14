@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 21:06:37](https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing) - [what is the go proxy even doing?](https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing)
 * [2025-08-14, 20:06:30](https://lobste.rs/s/hfojix/syncing_with_postgres_logical) - [Syncing with Postgres: Logical Replication vs. ETL](https://www.paradedb.com/blog/etl_vs_logical_replication)
 * [2025-08-14, 19:50:47](https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real) - [Mixbox - Natural Color Mixing Based on Real Pigments (2021)](https://scrtwpns.com/mixbox/)
 * [2025-08-14, 18:55:33](https://lobste.rs/s/1ghsju/project_hydra_improving_state) - [Project Hydra: Improving state resolution in Matrix](https://matrix.org/blog/2025/08/project-hydra-improving-state-res/)

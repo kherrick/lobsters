@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 21:06:37](https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing) - [what is the go proxy even doing?](https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing)
 * [2025-08-14, 20:06:30](https://lobste.rs/s/hfojix/syncing_with_postgres_logical) - [Syncing with Postgres: Logical Replication vs. ETL](https://www.paradedb.com/blog/etl_vs_logical_replication)
 * [2025-08-14, 19:50:47](https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real) - [Mixbox - Natural Color Mixing Based on Real Pigments (2021)](https://scrtwpns.com/mixbox/)
-* [2025-08-14, 18:30:07](https://lobste.rs/s/qn91nw/running_wayland_clients_as_non_root_users) - [Running Wayland Clients as Non-Root Users on Yocto](https://embeddeduse.com/2025/08/11/running-wayland-clients-as-non-root-users/)
 * [2025-08-14, 18:22:58](https://lobste.rs/s/1v1slg/jujutsu_with_radicle) - [Jujutsu with Radicle](https://radicle.xyz/2025/08/14/jujutsu-with-radicle)
 * [2025-08-14, 17:50:23](https://lobste.rs/s/tuodvv/placing_arguments) - [Placing Arguments](https://blog.yoshuawuyts.com/placing-arguments/)
 * [2025-08-14, 17:33:06](https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers) - [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
