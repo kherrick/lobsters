@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-14, 20:06:30",
+      "https://lobste.rs/s/hfojix/syncing_with_postgres_logical"
+    ],
+    [
+      "Syncing with Postgres: Logical Replication vs. ETL",
+      "https://www.paradedb.com/blog/etl_vs_logical_replication"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 19:50:47",
       "https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real"
     ],
@@ -47,16 +57,6 @@
     [
       "Fun with finite state transducers",
       "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 17:16:07",
-      "https://lobste.rs/s/amihu3/mellea_is_library_for_writing_generative"
-    ],
-    [
-      "Mellea is a library for writing generative programs",
-      "https://mellea.ai"
     ]
   ],
   [
