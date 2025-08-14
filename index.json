@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-14, 17:16:07",
+      "https://lobste.rs/s/amihu3/mellea_is_library_for_writing_generative"
+    ],
+    [
+      "Mellea is a library for writing generative programs",
+      "https://mellea.ai"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 15:44:55",
       "https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software"
     ],
@@ -217,16 +227,6 @@
     [
       "OOMProf - Take a heap profile just before OOMkill using eBPF",
       "https://www.polarsignals.com/blog/posts/2025/08/13/oomprof"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 14:27:40",
-      "https://lobste.rs/s/zzw5j1/arch_shares_its_wiki_strategy_with_debian"
-    ],
-    [
-      "Arch shares its wiki strategy with Debian",
-      "https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/"
     ]
   ],
   [
