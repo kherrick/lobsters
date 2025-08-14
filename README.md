@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 17:50:23](https://lobste.rs/s/tuodvv/placing_arguments) - [Placing Arguments](https://blog.yoshuawuyts.com/placing-arguments/)
 * [2025-08-14, 17:33:06](https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers) - [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
 * [2025-08-14, 17:16:07](https://lobste.rs/s/amihu3/mellea_is_library_for_writing_generative) - [Mellea is a library for writing generative programs](https://mellea.ai)
 * [2025-08-14, 15:44:55](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software) - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software)
@@ -24,7 +25,6 @@
 * [2025-08-13, 16:00:29](https://lobste.rs/s/guo2nf/type_inference_for_plain_data) - [Type inference for plain data](https://www.haskellforall.com/2025/08/type-inference-for-plain-data.html)
 * [2025-08-13, 15:06:08](https://lobste.rs/s/7gkxzt/study_social_media_probably_can_t_be_fixed) - [Study: Social media probably can’t be fixed](https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/)
 * [2025-08-13, 14:53:46](https://lobste.rs/s/cknohu/oomprof_take_heap_profile_just_before) - [OOMProf - Take a heap profile just before OOMkill using eBPF](https://www.polarsignals.com/blog/posts/2025/08/13/oomprof)
-* [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 
 ## [Archives](archives/index.md)
 
