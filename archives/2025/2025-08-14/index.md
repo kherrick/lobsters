@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-14](index.md)
 
+* [2025-08-14, 14:20:53](https://lobste.rs/s/uhfphk/how_build_abstractions_rust) - [How to Build Abstractions in Rust Applications (2023)](http://orodu.net/2023/12/27/rust-abstractions.html)
+* [2025-08-14, 14:10:15](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for) - [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf)
 * [2025-08-14, 12:01:48](https://lobste.rs/s/xzubsr/how_rig_elections) - [How to rig elections](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
 * [2025-08-14, 10:58:05](https://lobste.rs/s/idpelb/open_source_sustainability_for_fastn) - [Open Source Sustainability for fastn - FifthTry Launches Rust Consultancy](https://fastn.com/podcast/sustainability-and-consultancy/)
 * [2025-08-14, 10:54:09](https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
