@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-14, 06:14:09](https://lobste.rs/s/0kvmb9/liveness_analysis_with_datalog) - [Liveness analysis with Datalog](https://bernsteinbear.com/blog/liveness-datalog/)
+* [2025-08-14, 06:54:31](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue) - [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast)
 * [2025-08-14, 04:57:08](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme) - [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
 * [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People's Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 * [2025-08-14, 02:31:31](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further) - [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
