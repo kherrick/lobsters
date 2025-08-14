@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-14, 15:44:55](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software_zed) - [Why LLMs Can't Really Build Software - Zed Blog](https://zed.dev/blog/why-llms-cant-build-software)
+* [2025-08-14, 15:44:55](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software) - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 14:53:44](https://lobste.rs/s/pm5vdm/enforce_proper_direnv_setup) - [Enforce Proper direnv Setup](https://joeyates.info/posts/enforce-proper-direnv-setup/)
 * [2025-08-14, 14:10:15](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for) - [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf)
 * [2025-08-14, 12:01:48](https://lobste.rs/s/xzubsr/how_rig_elections) - [How to rig elections](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
