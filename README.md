@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 12:01:48](https://lobste.rs/s/xzubsr/how_rig_elections) - [How to rig elections](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
 * [2025-08-14, 10:58:05](https://lobste.rs/s/idpelb/open_source_sustainability_for_fastn) - [Open Source Sustainability for fastn - FifthTry Launches Rust Consultancy](https://fastn.com/podcast/sustainability-and-consultancy/)
 * [2025-08-14, 10:54:09](https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-14, 10:50:25](https://lobste.rs/s/vqd2oj/emacs_30_2_is_here) - [Emacs 30.2 is here](https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2)
@@ -22,7 +23,6 @@
 * [2025-08-13, 14:27:40](https://lobste.rs/s/zzw5j1/arch_shares_its_wiki_strategy_with_debian) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
-* [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
 * [2025-08-13, 00:01:08](https://lobste.rs/s/fh5wex/go_1_25_release_notes) - [Go 1.25 Release Notes](https://go.dev/doc/go1.25)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
 
