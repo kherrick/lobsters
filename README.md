@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-14, 02:31:31](https://lobste.rs/s/c7ntzg/all_hyped_up_for_hypercard_further) - [All Hyped Up for HyperCard: Further Adventures with an Apple Legacy Format](https://blogs.loc.gov/thesignal/2021/07/all-hyped-up-for-hypercard-further-adventures-with-an-apple-legacy-format/)
+* [2025-08-14, 00:58:55](https://lobste.rs/s/vlzay9/madeyoureset_turning_http_2_server) - [MadeYouReset: Turning HTTP/2 Server Against Itself](https://www.imperva.com/blog/madeyoureset-turning-http-2-server-against-itself/)
 * [2025-08-13, 22:31:33](https://lobste.rs/s/5e4oh9/our_paint_natural_painting_program) - [Our Paint | A Natural Painting Program](https://www.wellobserve.com/OurPaint/index_en.html)
 * [2025-08-13, 21:51:50](https://lobste.rs/s/jcpcvk/nixidy_kubernetes_gitops_with_nix_argo_cd) - [nixidy: Kubernetes GitOps with nix and Argo CD](https://nixidy.dev)
 * [2025-08-13, 20:50:26](https://lobste.rs/s/lnah4w/16_billion_password_story_aka_data_troll) - [That 16 Billion Password Story (AKA \"Data Troll\")](https://www.troyhunt.com/that-16-billion-password-story-aka-data-troll/)
@@ -15,7 +17,6 @@
 * [2025-08-13, 14:27:40](https://lobste.rs/s/zzw5j1/arch_shares_its_wiki_strategy_with_debian) - [Arch shares its wiki strategy with Debian](https://lwn.net/SubscriberLink/1032604/73596e0c3ed1945a/)
 * [2025-08-13, 13:31:25](https://lobste.rs/s/fqqfia/miegakure_siggraph_2025_talk) - [Miegakure SIGGRAPH 2025 Talk](https://www.youtube.com/live/ucRukZM0d1s?t=5203s)
 * [2025-08-13, 12:26:22](https://lobste.rs/s/rna1d1/starting_with_pytest_s_parametrize) - [Starting with pytest’s parametrize](https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html)
-* [2025-08-13, 10:18:25](https://lobste.rs/s/d3dfvo/writing_your_own_simple_tab_completions) - [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html)
 * [2025-08-13, 08:01:53](https://lobste.rs/s/ywyzag/factory_timezone) - [The Factory Timezone](https://data.iana.org/time-zones/tzdb-2025a/factory)
 * [2025-08-13, 07:00:26](https://lobste.rs/s/5yyh3p/git_who_git_blame_for_file_trees) - [git-who: Git blame for file trees](https://github.com/sinclairtarget/git-who)
 * [2025-08-13, 04:23:52](https://lobste.rs/s/vnwv2r/linear_scan_register_allocation_on_ssa) - [Linear scan register allocation on SSA](https://bernsteinbear.com/blog/linear-scan/)
@@ -24,7 +25,6 @@
 * [2025-08-12, 18:41:46](https://lobste.rs/s/ks1m49/ashet_home_computer) - [Ashet Home Computer](https://ashet.computer/)
 * [2025-08-12, 17:43:41](https://lobste.rs/s/dejmjq/how_i_do_type_safe_container_types_c) - [How I do (type-safe) container types in C](https://louissven.xyz/article/how_I_do_container_types_in_C.md)
 * [2025-08-12, 15:17:16](https://lobste.rs/s/kvit4x/syncthing_v2_0) - [Syncthing v2.0](https://github.com/syncthing/syncthing/releases/tag/v2.0.0)
-* [2025-08-12, 10:00:08](https://lobste.rs/s/fmiqeh/best_hello_world_web_development) - [The Best \"Hello World\" in Web Development](https://unplannedobsolescence.com/blog/best-hello-world-web-development/)
 
 ## [Archives](archives/index.md)
 
