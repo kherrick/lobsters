@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-14, 18:55:33",
+      "https://lobste.rs/s/1ghsju/project_hydra_improving_state"
+    ],
+    [
+      "Project Hydra: Improving state resolution in Matrix",
+      "https://matrix.org/blog/2025/08/project-hydra-improving-state-res/"
+    ]
+  ],
+  [
+    [
       "2025-08-14, 18:30:07",
       "https://lobste.rs/s/qn91nw/running_wayland_clients_as_non_root_users"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2025-08-14, 17:50:23",
-      "https://lobste.rs/s/tuodvv/placing_arguments"
-    ],
-    [
-      "Placing Arguments",
-      "https://blog.yoshuawuyts.com/placing-arguments/"
-    ]
-  ],
-  [
-    [
       "2025-08-14, 17:33:06",
       "https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers"
     ],
     [
       "Fun with finite state transducers",
       "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers"
+    ]
+  ],
+  [
+    [
+      "2025-08-14, 17:16:07",
+      "https://lobste.rs/s/amihu3/mellea_is_library_for_writing_generative"
+    ],
+    [
+      "Mellea is a library for writing generative programs",
+      "https://mellea.ai"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Enforce Proper direnv Setup",
       "https://joeyates.info/posts/enforce-proper-direnv-setup/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 14:20:53",
-      "https://lobste.rs/s/uhfphk/how_build_abstractions_rust"
-    ],
-    [
-      "How to Build Abstractions in Rust Applications (2023)",
-      "http://orodu.net/2023/12/27/rust-abstractions.html"
     ]
   ],
   [
