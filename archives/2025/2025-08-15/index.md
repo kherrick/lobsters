@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:23:35](https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux) - [is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 * [2025-08-15, 17:17:30](https://lobste.rs/s/nx2rcy/bullfrog_dungeon) - [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
 * [2025-08-15, 16:25:36](https://lobste.rs/s/8pofbl/vaultwarden_now_supports_sso_with_oidc) - [Vaultwarden now supports SSO with OIDC](https://news.ycombinator.com/item?id=44911560)
+* [2025-08-15, 16:01:44](https://lobste.rs/s/cvfvvp/your_jailbroken_idevices_may_be_able_run) - [Your jailbroken iDevices may be able to run macOS natively](https://www.reddit.com/r/jailbreak/comments/1mn7mk1/your_jailbroken_idevices_may_be_able_to_run_macos/)
 * [2025-08-15, 15:42:17](https://lobste.rs/s/d2w4rm/nesting_git_repositories) - [Nesting Git Repositories](https://nixpulvis.com/ramblings/2024-04-24-nesting-git-repositories)
 * [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 * [2025-08-15, 14:19:21](https://lobste.rs/s/ruoge2/development_journey_on_game) - [Development Journey on Game Decompilation Using AI](https://gambiconf.substack.com/p/development-journey-on-game-decompilation)
