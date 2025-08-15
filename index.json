@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 19:09:50",
+      "https://lobste.rs/s/qdy0yt/typechecker_zoo"
+    ],
+    [
+      "Typechecker Zoo",
+      "https://sdiehl.github.io/typechecker-zoo/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 18:23:35",
       "https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2025-08-15, 16:01:44",
+      "https://lobste.rs/s/cvfvvp/your_jailbroken_idevices_may_be_able_run"
+    ],
+    [
+      "Your jailbroken iDevices may be able to run macOS natively",
+      "https://www.reddit.com/r/jailbreak/comments/1mn7mk1/your_jailbroken_idevices_may_be_able_to_run_macos/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 15:42:17",
       "https://lobste.rs/s/d2w4rm/nesting_git_repositories"
     ],
@@ -77,16 +97,6 @@
     [
       "An interactive guide to sensor fusion with quaternions",
       "https://quaternion.cafe/"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 12:34:08",
-      "https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com"
-    ],
-    [
-      "Proposal: ban tedunangst.com",
-      "https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "what is the go proxy even doing?",
       "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 20:52:10",
-      "https://lobste.rs/s/zwz8ka/nan_propagation_novel_method_for"
-    ],
-    [
-      "NaN-Propagation: A Novel Method for Sparsity Detection in Black-Box Computational Functions",
-      "https://arxiv.org/abs/2507.23186"
     ]
   ],
   [
