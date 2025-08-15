@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-15, 12:34:08](https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com) - [Proposal: ban tedunangst.com](https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com)
+* [2025-08-15, 12:33:43](https://lobste.rs/s/imoebi/unreasonable_effectiveness_data_2009) - [The Unreasonable Effectiveness of Data (2009)](https://research.google.com/pubs/archive/35179.pdf)
 * [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
 * [2025-08-15, 10:07:53](https://lobste.rs/s/l4rowa/github_actions_safe_sleep_sh) - [GitHub Actions safe_sleep.sh](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh)
 * [2025-08-15, 08:51:06](https://lobste.rs/s/yk6f9n/anaphoric_macros) - [Anaphoric Macros](https://letoverlambda.com/index.cl/guest/chap6.html)
@@ -16,13 +18,11 @@
 * [2025-08-14, 17:33:06](https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers) - [Fun with finite state transducers](https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers)
 * [2025-08-14, 15:44:55](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software) - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software)
 * [2025-08-14, 14:53:44](https://lobste.rs/s/pm5vdm/enforce_proper_direnv_setup) - [Enforce Proper direnv Setup](https://joeyates.info/posts/enforce-proper-direnv-setup/)
-* [2025-08-14, 14:10:15](https://lobste.rs/s/wyec76/lazylog_new_shared_log_abstraction_for) - [LazyLog: A New Shared Log Abstraction for Low-Latency Applications](https://ramalagappan.github.io/pdfs/papers/lazylog.pdf)
 * [2025-08-14, 12:01:48](https://lobste.rs/s/xzubsr/how_rig_elections) - [How to rig elections](https://media.ccc.de/v/why2025-218-how-to-rig-elections)
 * [2025-08-14, 10:54:09](https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social) - [Org-social is a decentralized social network that runs on an Org Mode](https://github.com/tanrax/org-social)
 * [2025-08-14, 10:50:25](https://lobste.rs/s/vqd2oj/emacs_30_2_is_here) - [Emacs 30.2 is here](https://github.com/emacs-mirror/emacs/releases/tag/emacs-30.2)
 * [2025-08-14, 06:54:31](https://lobste.rs/s/y6abdu/taming_beast_comparing_jsonnet_dhall_cue) - [Taming the Beast: Comparing Jsonnet, Dhall, Cue](https://pv.wtf/posts/taming-the-beast)
 * [2025-08-14, 04:57:08](https://lobste.rs/s/m434ps/nginx_introduces_native_support_for_acme) - [NGINX Introduces Native Support for ACME Protocol](https://blog.nginx.org/blog/native-support-for-acme-protocol)
-* [2025-08-14, 03:30:27](https://lobste.rs/s/cts5fi/modifying_other_people_s_software) - [Modifying Other People's Software](https://natkr.com/2025-08-14-modifying-other-peoples-software/)
 * [2025-08-13, 19:45:45](https://lobste.rs/s/zo4nto/snooping_on_slow_builds_using_syscalls) - [Snooping On Slow Builds (Using Syscalls)](https://danielchasehooper.com/posts/syscall-build-snooping/)
 * [2025-08-13, 18:04:35](https://lobste.rs/s/isgyrq/why_i_chose_ocaml_as_my_primary_language) - [Why I chose OCaml as my primary language](https://xvw.lol/en/articles/why-ocaml.html)
 

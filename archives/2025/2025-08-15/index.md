@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-15](index.md)
 
+* [2025-08-15, 12:34:08](https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com) - [Proposal: ban tedunangst.com](https://lobste.rs/s/y6b7an/proposal_ban_tedunangst_com)
+* [2025-08-15, 12:33:43](https://lobste.rs/s/imoebi/unreasonable_effectiveness_data_2009) - [The Unreasonable Effectiveness of Data (2009)](https://research.google.com/pubs/archive/35179.pdf)
 * [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
 * [2025-08-15, 10:07:53](https://lobste.rs/s/l4rowa/github_actions_safe_sleep_sh) - [GitHub Actions safe_sleep.sh](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh)
 * [2025-08-15, 08:51:06](https://lobste.rs/s/yk6f9n/anaphoric_macros) - [Anaphoric Macros](https://letoverlambda.com/index.cl/guest/chap6.html)
