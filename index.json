@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-08-15, 21:25:33",
-      "https://lobste.rs/s/t1bjbx/i_m_building_media_server_out_leftover_pc"
+      "2025-08-15, 22:26:03",
+      "https://lobste.rs/s/racbf7/futzing_fraction"
     ],
     [
-      "I'm building a media server out of leftover PC parts and a 3D printed case",
-      "https://www.tomshardware.com/news/live/3d-printed-media-server"
+      "The Futzing Fraction",
+      "https://blog.glyph.im/2025/08/futzing-fraction.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "In-depth analysis on Valorant's Guarded Regions",
       "https://reversing.info/posts/guardedregions/"
+    ]
+  ],
+  [
+    [
+      "2025-08-15, 19:09:50",
+      "https://lobste.rs/s/qdy0yt/typechecker_zoo"
+    ],
+    [
+      "Typechecker Zoo",
+      "https://sdiehl.github.io/typechecker-zoo/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Jujutsu with Radicle",
       "https://radicle.xyz/2025/08/14/jujutsu-with-radicle"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 17:33:06",
-      "https://lobste.rs/s/kbxhp4/fun_with_finite_state_transducers"
-    ],
-    [
-      "Fun with finite state transducers",
-      "https://blog.yossarian.net/2025/08/14/Fun-with-finite-state-transducers"
     ]
   ],
   [
