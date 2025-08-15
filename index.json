@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 07:35:26",
+      "https://lobste.rs/s/p7eaca/slog_is_aptly_named"
+    ],
+    [
+      "slog is aptly named",
+      "https://flak.tedunangst.com/post/slog-is-aptly-named"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 07:22:29",
       "https://lobste.rs/s/g1a53z/ed25519_support_chrome_making_web_faster"
     ],
@@ -207,16 +217,6 @@
     [
       "Modifying Other People's Software",
       "https://natkr.com/2025-08-14-modifying-other-peoples-software/"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 01:12:00",
-      "https://lobste.rs/s/6s0n5d/cross_site_request_forgery"
-    ],
-    [
-      "Cross-Site Request Forgery",
-      "https://words.filippo.io/csrf/"
     ]
   ],
   [
