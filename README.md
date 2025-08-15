@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-15, 22:26:03](https://lobste.rs/s/racbf7/futzing_fraction) - [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html)
 * [2025-08-15, 22:21:30](https://lobste.rs/s/ckphbm/typechecker_zoo) - [Typechecker Zoo](https://www.stephendiehl.com/posts/typechecker_zoo/)
 * [2025-08-15, 20:12:10](https://lobste.rs/s/vhmplt/depth_analysis_on_valorant_s_guarded) - [In-depth analysis on Valorant's Guarded Regions](https://reversing.info/posts/guardedregions/)
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
@@ -10,7 +11,6 @@
 * [2025-08-15, 16:01:44](https://lobste.rs/s/cvfvvp/your_jailbroken_idevices_may_be_able_run) - [Your jailbroken iDevices may be able to run macOS natively](https://www.reddit.com/r/jailbreak/comments/1mn7mk1/your_jailbroken_idevices_may_be_able_to_run_macos/)
 * [2025-08-15, 15:42:17](https://lobste.rs/s/d2w4rm/nesting_git_repositories) - [Nesting Git Repositories](https://nixpulvis.com/ramblings/2024-04-24-nesting-git-repositories)
 * [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
-* [2025-08-15, 14:19:21](https://lobste.rs/s/ruoge2/development_journey_on_game) - [Development Journey on Game Decompilation Using AI](https://gambiconf.substack.com/p/development-journey-on-game-decompilation)
 * [2025-08-15, 14:15:31](https://lobste.rs/s/mj875x/interactive_guide_sensor_fusion_with) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
 * [2025-08-15, 10:07:53](https://lobste.rs/s/l4rowa/github_actions_safe_sleep_sh) - [GitHub Actions safe_sleep.sh](https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh)
