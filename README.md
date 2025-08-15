@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-15, 22:26:03](https://lobste.rs/s/racbf7/futzing_fraction) - [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html)
+* [2025-08-15, 22:21:30](https://lobste.rs/s/ckphbm/typechecker_zoo) - [Typechecker Zoo](https://www.stephendiehl.com/posts/typechecker_zoo/)
 * [2025-08-15, 20:12:10](https://lobste.rs/s/vhmplt/depth_analysis_on_valorant_s_guarded) - [In-depth analysis on Valorant's Guarded Regions](https://reversing.info/posts/guardedregions/)
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:23:35](https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux) - [is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
