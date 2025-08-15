@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-15, 10:07:53",
+      "https://lobste.rs/s/l4rowa/github_actions_safe_sleep_sh"
+    ],
+    [
+      "GitHub Actions safe_sleep.sh",
+      "https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 08:51:06",
       "https://lobste.rs/s/yk6f9n/anaphoric_macros"
     ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2025-08-14, 19:50:47",
-      "https://lobste.rs/s/ypcgpv/mixbox_natural_color_mixing_based_on_real"
+      "2025-08-14, 20:06:30",
+      "https://lobste.rs/s/hfojix/syncing_with_postgres_logical"
     ],
     [
-      "Mixbox - Natural Color Mixing Based on Real Pigments (2021)",
-      "https://scrtwpns.com/mixbox/"
+      "Syncing with Postgres: Logical Replication vs. ETL",
+      "https://www.paradedb.com/blog/etl_vs_logical_replication"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Snooping On Slow Builds (Using Syscalls)",
       "https://danielchasehooper.com/posts/syscall-build-snooping/"
-    ]
-  ],
-  [
-    [
-      "2025-08-13, 18:28:14",
-      "https://lobste.rs/s/v8eiev/pyx_python_native_package_registry_now"
-    ],
-    [
-      "pyx: a Python-native package registry, now in Beta",
-      "https://astral.sh/blog/introducing-pyx"
     ]
   ],
   [
