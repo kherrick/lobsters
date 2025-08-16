@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 22:54:04](https://lobste.rs/s/b3ia56/everything_i_know_about_good_system) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 22:01:42](https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz) - [Dev Compass - Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 22:00:06](https://lobste.rs/s/rpz1fw/dyna_logic_programming_for_machine) - [Dyna — Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 21:16:58](https://lobste.rs/s/bkpfyt/ambient_age_verification) - [Ambient age verification](https://www.jwz.org/blog/2025/07/ambient-age-verification/)
@@ -24,7 +25,6 @@
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 * [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
-* [2025-08-15, 14:15:31](https://lobste.rs/s/mj875x/interactive_guide_sensor_fusion_with) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 
 ## [Archives](archives/index.md)
 
