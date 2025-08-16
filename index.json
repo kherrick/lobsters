@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-16, 00:54:58",
+      "https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your"
+    ],
+    [
+      "Payment Processor Fun 2025: Making Your Own MSP",
+      "https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 00:15:51",
+      "https://lobste.rs/s/vew3ph/future_large_files_git_is_git"
+    ],
+    [
+      "The future of large files in Git is Git",
+      "https://tylercipriani.com/blog/2025/08/15/git-lfs/"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 22:26:03",
       "https://lobste.rs/s/racbf7/futzing_fraction"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2025-08-15, 22:21:30",
-      "https://lobste.rs/s/ckphbm/typechecker_zoo"
+      "2025-08-15, 21:25:33",
+      "https://lobste.rs/s/t1bjbx/i_m_building_media_server_out_leftover_pc"
     ],
     [
-      "Typechecker Zoo",
-      "https://www.stephendiehl.com/posts/typechecker_zoo/"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 20:12:10",
-      "https://lobste.rs/s/vhmplt/depth_analysis_on_valorant_s_guarded"
-    ],
-    [
-      "In-depth analysis on Valorant's Guarded Regions",
-      "https://reversing.info/posts/guardedregions/"
+      "I'm building a media server out of leftover PC parts and a 3D printed case",
+      "https://www.tomshardware.com/news/live/3d-printed-media-server"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why LLMs Can't Really Build Software",
       "https://zed.dev/blog/why-llms-cant-build-software"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 10:54:09",
-      "https://lobste.rs/s/nvt1zk/org_social_is_decentralized_social"
-    ],
-    [
-      "Org-social is a decentralized social network that runs on an Org Mode",
-      "https://github.com/tanrax/org-social"
     ]
   ]
 ]
