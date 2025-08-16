@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-16, 13:48:12",
+      "https://lobste.rs/s/of0uov/faster_index_i_o_with_nvme_ssds"
+    ],
+    [
+      "Faster Index I/O with NVMe SSDs",
+      "https://www.marginalia.nu/log/a_123_index_io/"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 10:56:16",
       "https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery"
     ],
@@ -177,16 +187,6 @@
     [
       "GitHub Actions safe_sleep.sh",
       "https://github.com/actions/runner/blob/v2.328.0/src/Misc/layoutroot/safe_sleep.sh"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 08:51:06",
-      "https://lobste.rs/s/yk6f9n/anaphoric_macros"
-    ],
-    [
-      "Anaphoric Macros",
-      "https://letoverlambda.com/index.cl/guest/chap6.html"
     ]
   ],
   [
