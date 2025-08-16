@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 19:38:14](https://lobste.rs/s/alizps/better_vocabulary_for_testing) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2025-08-16, 19:09:11](https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with) - [Faceclick: A lightweight Emoji picker with keyword search](https://ratfactor.com/faceclick/index)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
