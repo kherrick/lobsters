@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-16, 22:01:42",
+      "https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz"
+    ],
+    [
+      "Dev Compass - Programming Philosophy Quiz",
+      "https://treeform.github.io/devcompas/"
+    ]
+  ],
+  [
+    [
+      "2025-08-16, 22:00:06",
+      "https://lobste.rs/s/rpz1fw/dyna_logic_programming_for_machine"
+    ],
+    [
+      "Dyna — Logic Programming for Machine Learning",
+      "https://dyna.org/"
+    ]
+  ],
+  [
+    [
       "2025-08-16, 21:16:58",
       "https://lobste.rs/s/bkpfyt/ambient_age_verification"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-08-15, 18:23:35",
-      "https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux"
-    ],
-    [
-      "is OpenBSD 10x faster than Linux?",
-      "https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux"
-    ]
-  ],
-  [
-    [
       "2025-08-15, 17:29:17",
       "https://lobste.rs/s/mkbepn/single_sign_on_for_furries"
     ],
@@ -237,16 +247,6 @@
     [
       "An interactive guide to sensor fusion with quaternions",
       "https://quaternion.cafe/"
-    ]
-  ],
-  [
-    [
-      "2025-08-15, 04:33:56",
-      "https://lobste.rs/s/nu7cjz/why_lean_4_replaced_ocaml_as_my_primary"
-    ],
-    [
-      "Why Lean 4 replaced OCaml as my Primary Language",
-      "https://kirancodes.me/posts/log-ocaml-to-lean.html"
     ]
   ]
 ]
