@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 19:09:11](https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with) - [Faceclick: A lightweight Emoji picker with keyword search](https://ratfactor.com/faceclick/index)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
 * [2025-08-16, 17:57:44](https://lobste.rs/s/zj6vdl/dirty_coding_tricks) - [Dirty Coding Tricks](https://www.gamedeveloper.com/programming/dirty-coding-tricks)

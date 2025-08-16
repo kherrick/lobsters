@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 19:09:11](https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with) - [Faceclick: A lightweight Emoji picker with keyword search](https://ratfactor.com/faceclick/index)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
 * [2025-08-16, 17:57:44](https://lobste.rs/s/zj6vdl/dirty_coding_tricks) - [Dirty Coding Tricks](https://www.gamedeveloper.com/programming/dirty-coding-tricks)
@@ -20,7 +21,6 @@
 * [2025-08-15, 16:25:36](https://lobste.rs/s/8pofbl/vaultwarden_now_supports_sso_with_oidc) - [Vaultwarden now supports SSO with OIDC](https://news.ycombinator.com/item?id=44911560)
 * [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 * [2025-08-15, 14:15:31](https://lobste.rs/s/mj875x/interactive_guide_sensor_fusion_with) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
-* [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
 * [2025-08-15, 07:35:26](https://lobste.rs/s/p7eaca/slog_is_aptly_named) - [slog is aptly named](https://flak.tedunangst.com/post/slog-is-aptly-named)
 * [2025-08-15, 04:34:12](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual) - [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/)
 * [2025-08-15, 04:33:56](https://lobste.rs/s/nu7cjz/why_lean_4_replaced_ocaml_as_my_primary) - [Why Lean 4 replaced OCaml as my Primary Language](https://kirancodes.me/posts/log-ocaml-to-lean.html)
