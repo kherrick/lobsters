@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 20:02:59](https://lobste.rs/s/6udgv3/dicing_onion_mathematically_optimal_way) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
 * [2025-08-16, 19:49:31](https://lobste.rs/s/9dwxgt/various_desktop_linux_tips_for_newbies) - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/)
 * [2025-08-16, 19:38:14](https://lobste.rs/s/alizps/better_vocabulary_for_testing) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
 * [2025-08-16, 19:09:11](https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with) - [Faceclick: A lightweight Emoji picker with keyword search](https://ratfactor.com/faceclick/index)
@@ -24,7 +25,6 @@
 * [2025-08-15, 14:15:31](https://lobste.rs/s/mj875x/interactive_guide_sensor_fusion_with) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 04:34:12](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual) - [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/)
 * [2025-08-15, 04:33:56](https://lobste.rs/s/nu7cjz/why_lean_4_replaced_ocaml_as_my_primary) - [Why Lean 4 replaced OCaml as my Primary Language](https://kirancodes.me/posts/log-ocaml-to-lean.html)
-* [2025-08-14, 22:56:14](https://lobste.rs/s/8hsb3l/we_rewrote_ghostty_gtk_application) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 
 ## [Archives](archives/index.md)
 
