@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
 * [2025-08-16, 17:57:44](https://lobste.rs/s/zj6vdl/dirty_coding_tricks) - [Dirty Coding Tricks](https://www.gamedeveloper.com/programming/dirty-coding-tricks)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
@@ -12,7 +13,6 @@
 * [2025-08-16, 06:07:44](https://lobste.rs/s/yxijut/modernizing_standard_ml_new_jersey) - [Modernizing Standard ML of New Jersey: A Status Report (2023)](https://youtu.be/fJPN_NOJlmc)
 * [2025-08-16, 00:54:58](https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your) - [Payment Processor Fun 2025: Making Your Own MSP](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 00:15:51](https://lobste.rs/s/vew3ph/future_large_files_git_is_git) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
-* [2025-08-15, 22:26:03](https://lobste.rs/s/racbf7/futzing_fraction) - [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html)
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:23:35](https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux) - [is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
