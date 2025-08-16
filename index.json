@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-08-15, 22:26:03",
+      "https://lobste.rs/s/racbf7/futzing_fraction"
+    ],
+    [
+      "The Futzing Fraction",
+      "https://blog.glyph.im/2025/08/futzing-fraction.html"
+    ]
+  ],
+  [
+    [
       "2025-08-15, 21:25:33",
       "https://lobste.rs/s/t1bjbx/i_m_building_media_server_out_leftover_pc"
     ],
@@ -237,16 +247,6 @@
     [
       "We Rewrote the Ghostty GTK Application",
       "https://mitchellh.com/writing/ghostty-gtk-rewrite"
-    ]
-  ],
-  [
-    [
-      "2025-08-14, 21:06:37",
-      "https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing"
-    ],
-    [
-      "what is the go proxy even doing?",
-      "https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing"
     ]
   ]
 ]
