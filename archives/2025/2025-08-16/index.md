@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
 * [2025-08-16, 13:48:12](https://lobste.rs/s/of0uov/faster_index_i_o_with_nvme_ssds) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
 * [2025-08-16, 10:56:16](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) - [proposal: mark/punish ai imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery)
 * [2025-08-16, 06:31:38](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty) - [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803)
