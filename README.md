@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
+* [2025-08-16, 17:57:44](https://lobste.rs/s/zj6vdl/dirty_coding_tricks) - [Dirty Coding Tricks](https://www.gamedeveloper.com/programming/dirty-coding-tricks)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
 * [2025-08-16, 17:08:04](https://lobste.rs/s/qxzgi0/understanding_diffie_hellman_with) - [Understanding Diffie-Hellman with Clocks](https://appliedcryptography.page/gadgets/clocks)
 * [2025-08-16, 15:39:31](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian) - [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
@@ -16,14 +18,12 @@
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 * [2025-08-15, 17:17:30](https://lobste.rs/s/nx2rcy/bullfrog_dungeon) - [Bullfrog in the Dungeon](https://www.filfre.net/2025/08/bullfrog-in-the-dungeon/)
 * [2025-08-15, 16:25:36](https://lobste.rs/s/8pofbl/vaultwarden_now_supports_sso_with_oidc) - [Vaultwarden now supports SSO with OIDC](https://news.ycombinator.com/item?id=44911560)
-* [2025-08-15, 16:01:44](https://lobste.rs/s/cvfvvp/your_jailbroken_idevices_may_be_able_run) - [Your jailbroken iDevices may be able to run macOS natively](https://www.reddit.com/r/jailbreak/comments/1mn7mk1/your_jailbroken_idevices_may_be_able_to_run_macos/)
 * [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 * [2025-08-15, 14:15:31](https://lobste.rs/s/mj875x/interactive_guide_sensor_fusion_with) - [An interactive guide to sensor fusion with quaternions](https://quaternion.cafe/)
 * [2025-08-15, 12:27:10](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/95ukhs/what_are_you_doing_this_weekend)
 * [2025-08-15, 07:35:26](https://lobste.rs/s/p7eaca/slog_is_aptly_named) - [slog is aptly named](https://flak.tedunangst.com/post/slog-is-aptly-named)
 * [2025-08-15, 04:34:12](https://lobste.rs/s/dguris/meta_s_ai_rules_have_let_bots_hold_sensual) - [Meta’s AI rules have let bots hold ‘sensual’ chats with kids, offer false medical info](https://www.reuters.com/investigates/special-report/meta-ai-chatbot-guidelines/)
 * [2025-08-15, 04:33:56](https://lobste.rs/s/nu7cjz/why_lean_4_replaced_ocaml_as_my_primary) - [Why Lean 4 replaced OCaml as my Primary Language](https://kirancodes.me/posts/log-ocaml-to-lean.html)
-* [2025-08-15, 03:47:21](https://lobste.rs/s/wcevj6/your_mac_game_is_probably_rendering) - [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 * [2025-08-14, 22:56:14](https://lobste.rs/s/8hsb3l/we_rewrote_ghostty_gtk_application) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 
 ## [Archives](archives/index.md)

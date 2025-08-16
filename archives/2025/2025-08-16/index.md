@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-16](index.md)
 
+* [2025-08-16, 18:06:40](https://lobste.rs/s/09ziww/meschers_geometry_processing) - [Meschers: Geometry Processing of Impossible Objects](https://anadodik.github.io/publication/meschers/)
+* [2025-08-16, 17:57:44](https://lobste.rs/s/zj6vdl/dirty_coding_tricks) - [Dirty Coding Tricks](https://www.gamedeveloper.com/programming/dirty-coding-tricks)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
 * [2025-08-16, 17:08:04](https://lobste.rs/s/qxzgi0/understanding_diffie_hellman_with) - [Understanding Diffie-Hellman with Clocks](https://appliedcryptography.page/gadgets/clocks)
 * [2025-08-16, 15:39:31](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian) - [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
