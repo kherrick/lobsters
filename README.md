@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 17:08:04](https://lobste.rs/s/qxzgi0/understanding_diffie_hellman_with) - [Understanding Diffie-Hellman with Clocks](https://appliedcryptography.page/gadgets/clocks)
 * [2025-08-16, 15:39:31](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian) - [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
 * [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
 * [2025-08-16, 13:48:12](https://lobste.rs/s/of0uov/faster_index_i_o_with_nvme_ssds) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
@@ -9,7 +10,6 @@
 * [2025-08-16, 00:54:58](https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your) - [Payment Processor Fun 2025: Making Your Own MSP](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 00:15:51](https://lobste.rs/s/vew3ph/future_large_files_git_is_git) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 * [2025-08-15, 22:26:03](https://lobste.rs/s/racbf7/futzing_fraction) - [The Futzing Fraction](https://blog.glyph.im/2025/08/futzing-fraction.html)
-* [2025-08-15, 21:25:33](https://lobste.rs/s/t1bjbx/i_m_building_media_server_out_leftover_pc) - [I'm building a media server out of leftover PC parts and a 3D printed case](https://www.tomshardware.com/news/live/3d-printed-media-server)
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
 * [2025-08-15, 18:23:35](https://lobste.rs/s/q4t1wi/is_openbsd_10x_faster_than_linux) - [is OpenBSD 10x faster than Linux?](https://flak.tedunangst.com/post/is-OpenBSD-10x-faster-than-Linux)
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
