@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-16, 10:56:16](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) - [proposal: mark/punish ai imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery)
 * [2025-08-16, 06:31:38](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty) - [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803)
 * [2025-08-16, 06:07:44](https://lobste.rs/s/yxijut/modernizing_standard_ml_new_jersey) - [Modernizing Standard ML of New Jersey: A Status Report (2023)](https://youtu.be/fJPN_NOJlmc)
 * [2025-08-16, 00:54:58](https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your) - [Payment Processor Fun 2025: Making Your Own MSP](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
@@ -24,7 +25,6 @@
 * [2025-08-15, 03:47:21](https://lobste.rs/s/wcevj6/your_mac_game_is_probably_rendering) - [Your Mac Game Is Probably Rendering Blurry](https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/)
 * [2025-08-14, 22:56:14](https://lobste.rs/s/8hsb3l/we_rewrote_ghostty_gtk_application) - [We Rewrote the Ghostty GTK Application](https://mitchellh.com/writing/ghostty-gtk-rewrite)
 * [2025-08-14, 21:06:37](https://lobste.rs/s/ms94ja/what_is_go_proxy_even_doing) - [what is the go proxy even doing?](https://flak.tedunangst.com/post/what-is-the-go-proxy-even-doing)
-* [2025-08-14, 15:44:55](https://lobste.rs/s/acbnix/why_llms_can_t_really_build_software) - [Why LLMs Can't Really Build Software](https://zed.dev/blog/why-llms-cant-build-software)
 
 ## [Archives](archives/index.md)
 
