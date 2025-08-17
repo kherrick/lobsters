@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 08:57:47](https://lobste.rs/s/oei13t/tech_behind_geotoy) - [The Tech Behind Geotoy](https://cprimozic.net/blog/the-tech-behind-geotoy/)
 * [2025-08-17, 08:45:23](https://lobste.rs/s/elxf4n/passive_microwave_repeaters) - [passive microwave repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 * [2025-08-17, 08:34:58](https://lobste.rs/s/bqazot/how_attention_sinks_keep_language_models) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 * [2025-08-17, 03:22:31](https://lobste.rs/s/a1i2fj/i_throw_itching_powder_at_tulips_2014) - [I Throw Itching Powder at Tulips (2014)](https://dreamsongs.com/Files/Tulips.pdf)
