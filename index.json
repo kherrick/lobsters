@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-17, 15:32:10",
+      "https://lobste.rs/s/75ordk/here_be_dragons_preventing_static_damage"
+    ],
+    [
+      "Here be dragons: Preventing static damage, latchup, and metastability in the 386",
+      "http://www.righto.com/2025/08/static-latchup-metastability-386.html"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 15:11:58",
       "https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve"
     ],
@@ -147,16 +157,6 @@
     [
       "Various desktop Linux tips for newbies",
       "https://akselmo.dev/posts/how-to-linux-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 19:09:11",
-      "https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with"
-    ],
-    [
-      "Faceclick: A lightweight Emoji picker with keyword search",
-      "https://ratfactor.com/faceclick/index"
     ]
   ],
   [
