@@ -15,7 +15,7 @@
 * [2025-08-16, 20:23:09](https://lobste.rs/s/vwviyq/is_gleam_production_ready) - [Is Gleam production ready?](https://lindbakk.com/blog/is-gleam-production-ready-part-1)
 * [2025-08-16, 20:02:59](https://lobste.rs/s/6udgv3/dicing_onion_mathematically_optimal_way) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
 * [2025-08-16, 19:49:31](https://lobste.rs/s/9dwxgt/various_desktop_linux_tips_for_newbies) - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/)
-* [2025-08-16, 19:38:14](https://lobste.rs/s/alizps/better_vocabulary_for_testing) - [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
+* [2025-08-16, 19:09:11](https://lobste.rs/s/wx7gto/faceclick_lightweight_emoji_picker_with) - [Faceclick: A lightweight Emoji picker with keyword search](https://ratfactor.com/faceclick/index)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 17:57:44](https://lobste.rs/s/zj6vdl/dirty_coding_tricks_2009) - [Dirty Coding Tricks (2009)](https://www.gamedeveloper.com/programming/dirty-coding-tricks)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
