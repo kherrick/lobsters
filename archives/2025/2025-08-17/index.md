@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 13:27:41](https://lobste.rs/s/pvmfvc/careful_communication) - [Careful Communication](https://blog.lyall.co/careful-communication/)
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-17, 09:45:22](https://lobste.rs/s/hzpzne/please_don_t_promote_wayland) - [Please don't promote Wayland](https://stoppromotingwayland.netlify.app/)
 * [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
