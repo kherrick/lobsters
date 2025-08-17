@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-16, 22:54:04](https://lobste.rs/s/b3ia56/everything_i_know_about_good_system) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 22:01:42](https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz) - [Dev Compass - Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
 * [2025-08-16, 22:00:06](https://lobste.rs/s/rpz1fw/dyna_logic_programming_for_machine) - [Dyna — Logic Programming for Machine Learning](https://dyna.org/)
@@ -19,7 +20,6 @@
 * [2025-08-16, 13:48:12](https://lobste.rs/s/of0uov/faster_index_i_o_with_nvme_ssds) - [Faster Index I/O with NVMe SSDs](https://www.marginalia.nu/log/a_123_index_io/)
 * [2025-08-16, 10:56:16](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) - [proposal: mark/punish ai imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery)
 * [2025-08-16, 06:31:38](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty) - [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803)
-* [2025-08-16, 06:07:44](https://lobste.rs/s/yxijut/modernizing_standard_ml_new_jersey) - [Modernizing Standard ML of New Jersey: A Status Report (2023)](https://youtu.be/fJPN_NOJlmc)
 * [2025-08-16, 00:54:58](https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your) - [Payment Processor Fun 2025: Making Your Own MSP](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 00:15:51](https://lobste.rs/s/vew3ph/future_large_files_git_is_git) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 * [2025-08-15, 19:09:50](https://lobste.rs/s/qdy0yt/typechecker_zoo) - [Typechecker Zoo](https://sdiehl.github.io/typechecker-zoo/)
