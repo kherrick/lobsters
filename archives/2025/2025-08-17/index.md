@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
 * [2025-08-17, 13:27:41](https://lobste.rs/s/pvmfvc/careful_communication) - [Careful Communication](https://blog.lyall.co/careful-communication/)
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-17, 09:45:22](https://lobste.rs/s/hzpzne/please_don_t_promote_wayland) - [Please don't promote Wayland](https://stoppromotingwayland.netlify.app/)
