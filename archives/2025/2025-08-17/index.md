@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 21:06:41](https://lobste.rs/s/jrdrxz/functional_programming_howto) - [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
+* [2025-08-17, 21:03:03](https://lobste.rs/s/lje7dc/gaussian_processes_for_machine_learning) - [Gaussian Processes for Machine Learning](https://gaussianprocess.org/gpml/chapters/RW.pdf)
 * [2025-08-17, 19:33:02](https://lobste.rs/s/79x88o/consensus_algorithms_at_scale_2020) - [Consensus algorithms at scale (2020)](https://planetscale.com/blog/consensus-algorithms-at-scale-part-1)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
 * [2025-08-17, 17:00:21](https://lobste.rs/s/ggnfy7/wifiscan_rs_cross_platform_rust_crate_for) - [wifiscan-rs - A cross-platform Rust crate for scanning Wi-Fi networks](https://codeberg.org/fuxle/wifiscan-rs)
