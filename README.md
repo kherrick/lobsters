@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-17, 19:33:02](https://lobste.rs/s/79x88o/consensus_algorithms_at_scale_2020) - [Consensus algorithms at scale (2020)](https://planetscale.com/blog/consensus-algorithms-at-scale-part-1)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
 * [2025-08-17, 17:00:21](https://lobste.rs/s/ggnfy7/wifiscan_rs_cross_platform_rust_crate_for) - [wifiscan-rs - A cross-platform Rust crate for scanning Wi-Fi networks](https://codeberg.org/fuxle/wifiscan-rs)
 * [2025-08-17, 16:00:56](https://lobste.rs/s/wub5ol/brief_consideration_input_shapes) - [A brief consideration of input shapes (fuzzing)](https://addisoncrump.info/research/consideration-of-input-shapes/)
@@ -12,7 +13,6 @@
 * [2025-08-17, 08:57:47](https://lobste.rs/s/oei13t/tech_behind_geotoy) - [The Tech Behind Geotoy](https://cprimozic.net/blog/the-tech-behind-geotoy/)
 * [2025-08-17, 08:45:23](https://lobste.rs/s/elxf4n/passive_microwave_repeaters) - [passive microwave repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 * [2025-08-17, 08:34:58](https://lobste.rs/s/bqazot/how_attention_sinks_keep_language_models) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
-* [2025-08-17, 03:22:31](https://lobste.rs/s/a1i2fj/i_throw_itching_powder_at_tulips_2014) - [I Throw Itching Powder at Tulips (2014)](https://dreamsongs.com/Files/Tulips.pdf)
 * [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-16, 22:54:04](https://lobste.rs/s/b3ia56/everything_i_know_about_good_system) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 22:01:42](https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz) - [Dev Compass - Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
