@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-17, 16:00:56](https://lobste.rs/s/wub5ol/brief_consideration_input_shapes) - [A brief consideration of input shapes (fuzzing)](https://addisoncrump.info/research/consideration-of-input-shapes/)
 * [2025-08-17, 15:48:51](https://lobste.rs/s/ztwmik/beyond_booleans_propositions_lean) - [Beyond Booleans: Propositions in Lean](https://overreacted.io/beyond-booleans/)
 * [2025-08-17, 15:32:10](https://lobste.rs/s/75ordk/here_be_dragons_preventing_static_damage) - [Here be dragons: Preventing static damage, latchup, and metastability in the 386](http://www.righto.com/2025/08/static-latchup-metastability-386.html)
 * [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
@@ -23,7 +24,6 @@
 * [2025-08-16, 15:39:31](https://lobste.rs/s/uhwp9p/happy_100000th_birthday_debian) - [Happy 100000th birthday, Debian](https://lists.debian.org/debian-devel-announce/2025/08/msg00006.html)
 * [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
 * [2025-08-16, 10:56:16](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) - [proposal: mark/punish ai imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery)
-* [2025-08-16, 06:31:38](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty) - [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803)
 * [2025-08-16, 00:15:51](https://lobste.rs/s/vew3ph/future_large_files_git_is_git) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 
 ## [Archives](archives/index.md)
