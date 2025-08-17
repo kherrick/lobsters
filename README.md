@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
 * [2025-08-17, 08:57:47](https://lobste.rs/s/oei13t/tech_behind_geotoy) - [The Tech Behind Geotoy](https://cprimozic.net/blog/the-tech-behind-geotoy/)
 * [2025-08-17, 08:45:23](https://lobste.rs/s/elxf4n/passive_microwave_repeaters) - [passive microwave repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 * [2025-08-17, 08:34:58](https://lobste.rs/s/bqazot/how_attention_sinks_keep_language_models) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
@@ -24,7 +25,6 @@
 * [2025-08-16, 06:31:38](https://lobste.rs/s/aftoce/there_is_new_short_domain_name_for_putty) - [There is a new short domain name for PuTTY](https://hachyderm.io/@simontatham/115025974777386803)
 * [2025-08-16, 00:54:58](https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your) - [Payment Processor Fun 2025: Making Your Own MSP](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 00:15:51](https://lobste.rs/s/vew3ph/future_large_files_git_is_git) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
-* [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
 
 ## [Archives](archives/index.md)
 

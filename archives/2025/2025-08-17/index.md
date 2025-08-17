@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-17](index.md)
 
+* [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
 * [2025-08-17, 08:57:47](https://lobste.rs/s/oei13t/tech_behind_geotoy) - [The Tech Behind Geotoy](https://cprimozic.net/blog/the-tech-behind-geotoy/)
 * [2025-08-17, 08:45:23](https://lobste.rs/s/elxf4n/passive_microwave_repeaters) - [passive microwave repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
 * [2025-08-17, 08:34:58](https://lobste.rs/s/bqazot/how_attention_sinks_keep_language_models) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
