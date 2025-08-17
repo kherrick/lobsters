@@ -5,7 +5,6 @@
 * [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-16, 22:54:04](https://lobste.rs/s/b3ia56/everything_i_know_about_good_system) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 22:01:42](https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz) - [Dev Compass - Programming Philosophy Quiz](https://treeform.github.io/devcompas/)
-* [2025-08-16, 22:00:06](https://lobste.rs/s/rpz1fw/dyna_logic_programming_for_machine) - [Dyna — Logic Programming for Machine Learning](https://dyna.org/)
 * [2025-08-16, 21:16:58](https://lobste.rs/s/bkpfyt/ambient_age_verification) - [Ambient age verification](https://www.jwz.org/blog/2025/07/ambient-age-verification/)
 * [2025-08-16, 20:23:09](https://lobste.rs/s/vwviyq/is_gleam_production_ready) - [Is Gleam production ready?](https://lindbakk.com/blog/is-gleam-production-ready-part-1)
 * [2025-08-16, 20:02:59](https://lobste.rs/s/6udgv3/dicing_onion_mathematically_optimal_way) - [Dicing an Onion, the Mathematically Optimal Way](https://pudding.cool/2025/08/onions/)
@@ -25,6 +24,7 @@
 * [2025-08-16, 00:54:58](https://lobste.rs/s/dtwra0/payment_processor_fun_2025_making_your) - [Payment Processor Fun 2025: Making Your Own MSP](https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/)
 * [2025-08-16, 00:15:51](https://lobste.rs/s/vew3ph/future_large_files_git_is_git) - [The future of large files in Git is Git](https://tylercipriani.com/blog/2025/08/15/git-lfs/)
 * [2025-08-15, 17:29:17](https://lobste.rs/s/mkbepn/single_sign_on_for_furries) - [Single Sign On for Furries](https://cendyne.dev/posts/2025-08-15-single-sign-on-for-furries.html)
+* [2025-08-15, 14:24:36](https://lobste.rs/s/grlpzi/is_germany_on_brink_banning_ad_blockers) - [Is Germany on the Brink of Banning Ad Blockers? User Freedom, Privacy, and Security Is At Risk](https://blog.mozilla.org/netpolicy/2025/08/14/is-germany-on-the-brink-of-banning-ad-blockers-user-freedom-privacy-and-security-is-at-risk/)
 
 ## [Archives](archives/index.md)
 
