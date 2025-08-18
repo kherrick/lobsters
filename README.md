@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-18, 11:59:53](https://lobste.rs/s/giy0kl/all_atc_message_routing_germany_was_done) - [All ATC message routing in Germany was done through Emacs](https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/)
 * [2025-08-18, 11:02:04](https://lobste.rs/s/l5qpv2/this_website_is_served_from_nine_neovim) - [This Website is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
 * [2025-08-18, 10:44:11](https://lobste.rs/s/monzbv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/monzbv/what_are_you_doing_this_week)
 * [2025-08-18, 09:36:45](https://lobste.rs/s/tdpcjd/busybee_lightweight_observable) - [BusyBee: Lightweight and observable background processing for .NET applications](https://github.com/mikasjp/BusyBee)
@@ -22,7 +23,6 @@
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
 * [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
-* [2025-08-16, 19:49:31](https://lobste.rs/s/9dwxgt/various_desktop_linux_tips_for_newbies) - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
 
