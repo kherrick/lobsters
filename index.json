@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-18, 04:55:23",
+      "https://lobste.rs/s/qtn7io/systemd_service_hardening"
+    ],
+    [
+      "SystemD Service Hardening",
+      "https://roguesecurity.dev/blog/systemd-hardening"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 04:02:05",
       "https://lobste.rs/s/tuiofz/why_i_prefer_rst_restructuredtext"
     ],
@@ -177,16 +187,6 @@
     [
       "Everything I know about good system design",
       "https://www.seangoedecke.com/good-system-design/"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 21:16:58",
-      "https://lobste.rs/s/bkpfyt/ambient_age_verification"
-    ],
-    [
-      "Ambient age verification",
-      "https://www.jwz.org/blog/2025/07/ambient-age-verification/"
     ]
   ],
   [
