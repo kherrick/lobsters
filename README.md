@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-18, 11:02:04](https://lobste.rs/s/l5qpv2/this_website_is_served_from_nine_neovim) - [This Website is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
 * [2025-08-18, 10:44:11](https://lobste.rs/s/monzbv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/monzbv/what_are_you_doing_this_week)
 * [2025-08-18, 09:36:45](https://lobste.rs/s/tdpcjd/busybee_lightweight_observable) - [BusyBee: Lightweight and observable background processing for .NET applications](https://github.com/mikasjp/BusyBee)
 * [2025-08-18, 09:32:35](https://lobste.rs/s/ohfxkz/we_needed_better_cloud_storage_for_python) - [We Needed Better Cloud Storage for Python so We Built Obstore](https://developmentseed.org/blog/2025-08-01-obstore/)
@@ -18,7 +19,6 @@
 * [2025-08-17, 16:00:56](https://lobste.rs/s/wub5ol/brief_consideration_input_shapes) - [A brief consideration of input shapes (fuzzing)](https://addisoncrump.info/research/consideration-of-input-shapes/)
 * [2025-08-17, 15:48:51](https://lobste.rs/s/ztwmik/beyond_booleans_propositions_lean) - [Beyond Booleans: Propositions in Lean](https://overreacted.io/beyond-booleans/)
 * [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
-* [2025-08-17, 13:27:41](https://lobste.rs/s/pvmfvc/careful_communication) - [Careful Communication](https://blog.lyall.co/careful-communication/)
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
 * [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
