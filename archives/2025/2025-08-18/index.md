@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 14:38:05](https://lobste.rs/s/fexnal/atmos) - [Atmos](https://github.com/atmos-lang/atmos)
+* [2025-08-18, 14:16:25](https://lobste.rs/s/cv9cmo/basic_dependency_injection_ocaml_with) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
 * [2025-08-18, 13:30:26](https://lobste.rs/s/fz6pxz/kagi_reached_50k_users_june) - [Kagi reached 50k users in June](https://blog.kagi.com/50k)
 * [2025-08-18, 13:22:45](https://lobste.rs/s/1qr3zy/gpt_5_goes_hard_on_real_world_programming) - [GPT-5 goes hard on real-world programming](https://www.omerba.dev/blog/gpt-5-evtx-zig-parser)
 * [2025-08-18, 13:21:07](https://lobste.rs/s/gd0joi/asciidots_esolang_based_on_ascii_art) - [AsciiDots: an esolang based on ascii art](https://ajanse.me/asciidots/)
