@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-18, 09:36:45",
+      "https://lobste.rs/s/tdpcjd/busybee_lightweight_observable"
+    ],
+    [
+      "BusyBee: Lightweight and observable background processing for .NET applications",
+      "https://github.com/mikasjp/BusyBee"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 09:32:35",
       "https://lobste.rs/s/ohfxkz/we_needed_better_cloud_storage_for_python"
     ],
@@ -27,16 +37,6 @@
     [
       "A short statistical reasoning test",
       "https://emiruz.com/post/2025-08-17-statistical-reasoning/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 08:31:01",
-      "https://lobste.rs/s/ger59a/clojure_core_async_flow_guide"
-    ],
-    [
-      "Clojure core.async Flow Guide",
-      "https://clojure.github.io/core.async/flow-guide.html"
     ]
   ],
   [
