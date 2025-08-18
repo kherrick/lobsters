@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-18, 05:21:17](https://lobste.rs/s/6jljsk/wrkflw_validate_run_github_actions) - [wrkflw: Validate and Run GitHub Actions locally](https://github.com/bahdotsh/wrkflw)
+* [2025-08-18, 05:15:39](https://lobste.rs/s/kme1ri/recto_truly_2d_language) - [Recto — a truly 2D language](https://masatohagiwara.net/recto.html)
 * [2025-08-18, 04:55:23](https://lobste.rs/s/qtn7io/systemd_service_hardening) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-18, 04:02:05](https://lobste.rs/s/tuiofz/why_i_prefer_rst_restructuredtext) - [Why I prefer rST [reStructuredText] to Markdown](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2025-08-18, 03:52:18](https://lobste.rs/s/7rikhb/system_inside_system) - [The System Inside the System](https://worksonmymachine.ai/p/the-system-inside-the-system)
@@ -16,14 +18,12 @@
 * [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
 * [2025-08-17, 08:57:47](https://lobste.rs/s/oei13t/tech_behind_geotoy) - [The Tech Behind Geotoy](https://cprimozic.net/blog/the-tech-behind-geotoy/)
 * [2025-08-17, 08:45:23](https://lobste.rs/s/elxf4n/passive_microwave_repeaters) - [passive microwave repeaters](https://computer.rip/2025-08-16-passive-microwave-repeaters.html)
-* [2025-08-17, 08:34:58](https://lobste.rs/s/bqazot/how_attention_sinks_keep_language_models) - [How Attention Sinks Keep Language Models Stable](https://hanlab.mit.edu/blog/streamingllm)
 * [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-16, 22:54:04](https://lobste.rs/s/b3ia56/everything_i_know_about_good_system) - [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)
 * [2025-08-16, 20:23:09](https://lobste.rs/s/vwviyq/is_gleam_production_ready) - [Is Gleam production ready?](https://lindbakk.com/blog/is-gleam-production-ready-part-1)
 * [2025-08-16, 19:49:31](https://lobste.rs/s/9dwxgt/various_desktop_linux_tips_for_newbies) - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
-* [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
 * [2025-08-16, 10:56:16](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery) - [proposal: mark/punish ai imagery](https://lobste.rs/s/cpadta/proposal_mark_punish_ai_imagery)
 
 ## [Archives](archives/index.md)
