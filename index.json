@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-08-18, 04:02:05",
+      "https://lobste.rs/s/tuiofz/why_i_prefer_rst_restructuredtext"
+    ],
+    [
+      "Why I prefer rST [reStructuredText] to Markdown",
+      "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 03:52:18",
+      "https://lobste.rs/s/7rikhb/system_inside_system"
+    ],
+    [
+      "The System Inside the System",
+      "https://worksonmymachine.ai/p/the-system-inside-the-system"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 03:32:44",
+      "https://lobste.rs/s/inpnyd/customizing_lisp_repls"
+    ],
+    [
+      "Customizing Lisp REPLs",
+      "https://aartaka.me/customize-repl.html"
+    ]
+  ],
+  [
+    [
       "2025-08-17, 21:03:03",
       "https://lobste.rs/s/lje7dc/gaussian_processes_for_machine_learning"
     ],
     [
       "Gaussian Processes for Machine Learning",
       "https://gaussianprocess.org/gpml/chapters/RW.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 19:33:02",
-      "https://lobste.rs/s/79x88o/consensus_algorithms_at_scale_2020"
-    ],
-    [
-      "Consensus algorithms at scale (2020)",
-      "https://planetscale.com/blog/consensus-algorithms-at-scale-part-1"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-16, 22:01:42",
-      "https://lobste.rs/s/oq4r2r/dev_compass_programming_philosophy_quiz"
-    ],
-    [
-      "Dev Compass - Programming Philosophy Quiz",
-      "https://treeform.github.io/devcompas/"
-    ]
-  ],
-  [
-    [
       "2025-08-16, 21:16:58",
       "https://lobste.rs/s/bkpfyt/ambient_age_verification"
     ],
@@ -187,16 +197,6 @@
     [
       "Is Gleam production ready?",
       "https://lindbakk.com/blog/is-gleam-production-ready-part-1"
-    ]
-  ],
-  [
-    [
-      "2025-08-16, 20:02:59",
-      "https://lobste.rs/s/6udgv3/dicing_onion_mathematically_optimal_way"
-    ],
-    [
-      "Dicing an Onion, the Mathematically Optimal Way",
-      "https://pudding.cool/2025/08/onions/"
     ]
   ],
   [
