@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 08:51:34](https://lobste.rs/s/bnlh45/short_statistical_reasoning_test) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
 * [2025-08-18, 08:31:01](https://lobste.rs/s/ger59a/clojure_core_async_flow_guide) - [Clojure core.async Flow Guide](https://clojure.github.io/core.async/flow-guide.html)
 * [2025-08-18, 08:25:58](https://lobste.rs/s/tagrrs/introducing_illumos_cafe_another_cozy) - [Introducing the illumos Cafe: Another Cozy Corner for OS Diversity](https://it-notes.dragas.net/2025/08/18/introducing-the-illumos-cafe/)
 * [2025-08-18, 08:10:33](https://lobste.rs/s/pddgnt/trick_use_mkmerge_at_top_level_nixos) - [A Trick To Use mkMerge at The Top Level of a NixOS module](https://gist.github.com/udf/4d9301bdc02ab38439fd64fbda06ea43)
