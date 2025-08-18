@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 22:04:04](https://lobste.rs/s/fuaxsi/preventing_domain_resurrection_attacks) - [Preventing Domain Resurrection Attacks (on the Python Package Index)](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
 * [2025-08-18, 19:37:58](https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit) - [How Indirect Prompt Injections Exploit Context, Format, and Salience](https://www.fogel.dev/prompt_injection_cfs_framework)
