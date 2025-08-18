@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-08-18, 13:30:26",
-      "https://lobste.rs/s/fz6pxz/kagi_reached_50k_users_june"
+      "2025-08-18, 14:38:05",
+      "https://lobste.rs/s/fexnal/atmos"
     ],
     [
-      "Kagi reached 50k users in June",
-      "https://blog.kagi.com/50k"
+      "Atmos",
+      "https://github.com/atmos-lang/atmos"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 14:16:25",
+      "https://lobste.rs/s/cv9cmo/basic_dependency_injection_ocaml_with"
+    ],
+    [
+      "Basic dependency injection in OCaml with objects",
+      "https://gr-im.github.io/a/dependency-injection.html"
     ]
   ],
   [
@@ -41,11 +51,21 @@
   ],
   [
     [
+      "2025-08-18, 12:44:06",
+      "https://lobste.rs/s/hvmtob/zfs_scrubs_check_much_less_than_you"
+    ],
+    [
+      "ZFS scrubs check (much) less than you probably think they do (2018)",
+      "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 11:59:53",
       "https://lobste.rs/s/giy0kl/all_atc_message_routing_germany_was_done"
     ],
     [
-      "All ATC message routing in Germany was done through Emacs",
+      "All ATC message routing in Germany was done through Emacs (2021)",
       "https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-08-18, 08:10:33",
-      "https://lobste.rs/s/pddgnt/trick_use_mkmerge_at_top_level_nixos"
-    ],
-    [
-      "A Trick To Use mkMerge at The Top Level of a NixOS module",
-      "https://gist.github.com/udf/4d9301bdc02ab38439fd64fbda06ea43"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 08:10:20",
       "https://lobste.rs/s/hpzxmg/i_tried_every_todo_app_ended_up_with_txt"
     ],
@@ -167,16 +177,6 @@
     [
       "Why I prefer rST [reStructuredText] to Markdown",
       "https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 03:52:18",
-      "https://lobste.rs/s/7rikhb/system_inside_system"
-    ],
-    [
-      "The System Inside the System",
-      "https://worksonmymachine.ai/p/the-system-inside-the-system"
     ]
   ],
   [
