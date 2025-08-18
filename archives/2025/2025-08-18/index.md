@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
 * [2025-08-18, 19:37:58](https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit) - [How Indirect Prompt Injections Exploit Context, Format, and Salience](https://www.fogel.dev/prompt_injection_cfs_framework)
+* [2025-08-18, 19:07:29](https://lobste.rs/s/lm2v4y/making_impossible_states_impossible) - [Making Impossible States Impossible: Type-Safe Domain Modeling with Functional Dependency Injection](https://cekrem.github.io/posts/making-impossible-states-impossible-with-functional-dependency-injection/)
 * [2025-08-18, 17:50:56](https://lobste.rs/s/7ufqz3/introducing_action_native_push) - [Introducing Action Native Push](https://dev.37signals.com/introducing-action-native-push/)
 * [2025-08-18, 17:31:15](https://lobste.rs/s/pjfpro/how_ingest_1_billion_rows_per_second) - [How to ingest 1 billion rows per second in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
 * [2025-08-18, 16:51:56](https://lobste.rs/s/eznxf0/treetable_case_study_q) - [Treetable: a case-study in q](https://archive.vector.org.uk/art10500340)
