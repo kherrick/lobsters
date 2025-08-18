@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 09:36:45](https://lobste.rs/s/tdpcjd/busybee_lightweight_observable) - [BusyBee: Lightweight and observable background processing for .NET applications](https://github.com/mikasjp/BusyBee)
 * [2025-08-18, 09:32:35](https://lobste.rs/s/ohfxkz/we_needed_better_cloud_storage_for_python) - [We Needed Better Cloud Storage for Python so We Built Obstore](https://developmentseed.org/blog/2025-08-01-obstore/)
 * [2025-08-18, 09:03:18](https://lobste.rs/s/bsyd6a/nixos_flakes_book) - [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world/introduction/)
 * [2025-08-18, 08:51:34](https://lobste.rs/s/bnlh45/short_statistical_reasoning_test) - [A short statistical reasoning test](https://emiruz.com/post/2025-08-17-statistical-reasoning/)
