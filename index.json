@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-18, 22:04:04",
+      "https://lobste.rs/s/fuaxsi/preventing_domain_resurrection_attacks"
+    ],
+    [
+      "Preventing Domain Resurrection Attacks (on the Python Package Index)",
+      "https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 21:37:54",
       "https://lobste.rs/s/iyl4vu/phrack_72"
     ],
@@ -27,16 +37,6 @@
     [
       "How Indirect Prompt Injections Exploit Context, Format, and Salience",
       "https://www.fogel.dev/prompt_injection_cfs_framework"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 19:07:29",
-      "https://lobste.rs/s/lm2v4y/making_impossible_states_impossible"
-    ],
-    [
-      "Making Impossible States Impossible: Type-Safe Domain Modeling with Functional Dependency Injection",
-      "https://cekrem.github.io/posts/making-impossible-states-impossible-with-functional-dependency-injection/"
     ]
   ],
   [
