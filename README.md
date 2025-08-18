@@ -3,6 +3,7 @@
 * [2025-08-18, 13:30:26](https://lobste.rs/s/fz6pxz/kagi_reached_50k_users_june) - [Kagi reached 50k users in June](https://blog.kagi.com/50k)
 * [2025-08-18, 13:22:45](https://lobste.rs/s/1qr3zy/gpt_5_goes_hard_on_real_world_programming) - [GPT-5 goes hard on real-world programming](https://www.omerba.dev/blog/gpt-5-evtx-zig-parser)
 * [2025-08-18, 13:21:07](https://lobste.rs/s/gd0joi/asciidots_esolang_based_on_ascii_art) - [AsciiDots: an esolang based on ascii art](https://ajanse.me/asciidots/)
+* [2025-08-18, 13:04:35](https://lobste.rs/s/munhml/preventing_naptr_spam) - [Preventing NAPTR Spam](https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/)
 * [2025-08-18, 11:59:53](https://lobste.rs/s/giy0kl/all_atc_message_routing_germany_was_done) - [All ATC message routing in Germany was done through Emacs](https://www.reddit.com/r/emacs/comments/lly7po/comment/gnvzisy/)
 * [2025-08-18, 11:02:04](https://lobste.rs/s/l5qpv2/this_website_is_served_from_nine_neovim) - [This Website is Served from Nine Neovim Buffers on My Old ThinkPad](https://vim.gabornyeki.com/)
 * [2025-08-18, 10:44:11](https://lobste.rs/s/monzbv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/monzbv/what_are_you_doing_this_week)
@@ -23,7 +24,6 @@
 * [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 * [2025-08-17, 09:34:07](https://lobste.rs/s/n4jqpm/programmer_s_field_guide_assertions) - [A programmer's field guide to assertions](https://typesanitizer.com/blog/assertions.html)
-* [2025-08-17, 00:45:51](https://lobste.rs/s/i8eoxa/enterprise_experience) - [The Enterprise Experience](https://churchofturing.github.io/the-enterprise-experience.html)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
 
 ## [Archives](archives/index.md)
