@@ -4,6 +4,7 @@
 * [2025-08-18, 19:37:58](https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit) - [How Indirect Prompt Injections Exploit Context, Format, and Salience](https://www.fogel.dev/prompt_injection_cfs_framework)
 * [2025-08-18, 19:07:29](https://lobste.rs/s/lm2v4y/making_impossible_states_impossible) - [Making Impossible States Impossible: Type-Safe Domain Modeling with Functional Dependency Injection](https://cekrem.github.io/posts/making-impossible-states-impossible-with-functional-dependency-injection/)
 * [2025-08-18, 17:50:56](https://lobste.rs/s/7ufqz3/introducing_action_native_push) - [Introducing Action Native Push](https://dev.37signals.com/introducing-action-native-push/)
+* [2025-08-18, 16:51:56](https://lobste.rs/s/eznxf0/treetable_case_study_q) - [Treetable: a case-study in q](https://archive.vector.org.uk/art10500340)
 * [2025-08-18, 16:11:34](https://lobste.rs/s/1slbkm/dynamo_dynamodb_aurora_dsql) - [Dynamo, DynamoDB, and Aurora DSQL](https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html)
 * [2025-08-18, 14:38:05](https://lobste.rs/s/fexnal/atmos) - [Atmos](https://github.com/atmos-lang/atmos)
 * [2025-08-18, 14:16:25](https://lobste.rs/s/cv9cmo/basic_dependency_injection_ocaml_with) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
@@ -24,7 +25,6 @@
 * [2025-08-18, 04:02:05](https://lobste.rs/s/tuiofz/why_i_prefer_rst_restructuredtext) - [Why I prefer rST [reStructuredText] to Markdown (2024)](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
 * [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
-* [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
 
 ## [Archives](archives/index.md)
 
