@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-18, 08:10:33](https://lobste.rs/s/pddgnt/trick_use_mkmerge_at_top_level_nixos) - [A Trick To Use mkMerge at The Top Level of a NixOS module](https://gist.github.com/udf/4d9301bdc02ab38439fd64fbda06ea43)
+* [2025-08-18, 08:10:20](https://lobste.rs/s/hpzxmg/i_tried_every_todo_app_ended_up_with_txt) - [I Tried Every Todo App and Ended Up With a .txt File](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-18, 05:21:17](https://lobste.rs/s/6jljsk/wrkflw_validate_run_github_actions) - [wrkflw: Validate and Run GitHub Actions locally](https://github.com/bahdotsh/wrkflw)
 * [2025-08-18, 05:15:39](https://lobste.rs/s/kme1ri/recto_truly_2d_language) - [Recto — a truly 2D language](https://masatohagiwara.net/recto.html)
 * [2025-08-18, 04:55:23](https://lobste.rs/s/qtn7io/systemd_service_hardening) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
@@ -11,7 +13,6 @@
 * [2025-08-17, 17:00:21](https://lobste.rs/s/ggnfy7/wifiscan_rs_cross_platform_rust_crate_for) - [wifiscan-rs - A cross-platform Rust crate for scanning Wi-Fi networks](https://codeberg.org/fuxle/wifiscan-rs)
 * [2025-08-17, 16:00:56](https://lobste.rs/s/wub5ol/brief_consideration_input_shapes) - [A brief consideration of input shapes (fuzzing)](https://addisoncrump.info/research/consideration-of-input-shapes/)
 * [2025-08-17, 15:48:51](https://lobste.rs/s/ztwmik/beyond_booleans_propositions_lean) - [Beyond Booleans: Propositions in Lean](https://overreacted.io/beyond-booleans/)
-* [2025-08-17, 15:32:10](https://lobste.rs/s/75ordk/here_be_dragons_preventing_static_damage) - [Here be dragons: Preventing static damage, latchup, and metastability in the 386](http://www.righto.com/2025/08/static-latchup-metastability-386.html)
 * [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
 * [2025-08-17, 13:27:41](https://lobste.rs/s/pvmfvc/careful_communication) - [Careful Communication](https://blog.lyall.co/careful-communication/)
 * [2025-08-17, 10:05:48](https://lobste.rs/s/khlbuv/llms_aren_t_world_models) - [LLMs aren’t world models](https://yosefk.com/blog/llms-arent-world-models.html)
@@ -24,7 +25,6 @@
 * [2025-08-16, 19:49:31](https://lobste.rs/s/9dwxgt/various_desktop_linux_tips_for_newbies) - [Various desktop Linux tips for newbies](https://akselmo.dev/posts/how-to-linux-2025/)
 * [2025-08-16, 18:52:06](https://lobste.rs/s/rtueva/libxml2_maintainer_ends_embargoed) - [libxml2 Maintainer Ends Embargoed Vulnerability Reports, Citing Unsustainable Burden](https://socket.dev/blog/libxml2-maintainer-ends-embargoed-vulnerability-reports)
 * [2025-08-16, 17:51:53](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival) - [Lobsters Blog Carnival](https://lobste.rs/s/gwh1ys/lobsters_blog_carnival)
-* [2025-08-16, 14:51:21](https://lobste.rs/s/4hc7o5/maintainers_last_resort) - [Maintainers of Last Resort](https://words.filippo.io/last-resort/)
 
 ## [Archives](archives/index.md)
 

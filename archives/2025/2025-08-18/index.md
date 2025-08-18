@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 08:10:33](https://lobste.rs/s/pddgnt/trick_use_mkmerge_at_top_level_nixos) - [A Trick To Use mkMerge at The Top Level of a NixOS module](https://gist.github.com/udf/4d9301bdc02ab38439fd64fbda06ea43)
+* [2025-08-18, 08:10:20](https://lobste.rs/s/hpzxmg/i_tried_every_todo_app_ended_up_with_txt) - [I Tried Every Todo App and Ended Up With a .txt File](https://www.al3rez.com/todo-txt-journey)
 * [2025-08-18, 05:21:17](https://lobste.rs/s/6jljsk/wrkflw_validate_run_github_actions) - [wrkflw: Validate and Run GitHub Actions locally](https://github.com/bahdotsh/wrkflw)
 * [2025-08-18, 05:15:39](https://lobste.rs/s/kme1ri/recto_truly_2d_language) - [Recto — a truly 2D language](https://masatohagiwara.net/recto.html)
 * [2025-08-18, 04:55:23](https://lobste.rs/s/qtn7io/systemd_service_hardening) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
