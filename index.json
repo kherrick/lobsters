@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-18, 09:32:35",
+      "https://lobste.rs/s/ohfxkz/we_needed_better_cloud_storage_for_python"
+    ],
+    [
+      "We Needed Better Cloud Storage for Python so We Built Obstore",
+      "https://developmentseed.org/blog/2025-08-01-obstore/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 09:03:18",
+      "https://lobste.rs/s/bsyd6a/nixos_flakes_book"
+    ],
+    [
+      "NixOS & Flakes Book",
+      "https://nixos-and-flakes.thiscute.world/introduction/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 08:51:34",
       "https://lobste.rs/s/bnlh45/short_statistical_reasoning_test"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-08-17, 17:00:21",
-      "https://lobste.rs/s/ggnfy7/wifiscan_rs_cross_platform_rust_crate_for"
-    ],
-    [
-      "wifiscan-rs - A cross-platform Rust crate for scanning Wi-Fi networks",
-      "https://codeberg.org/fuxle/wifiscan-rs"
-    ]
-  ],
-  [
-    [
       "2025-08-17, 16:00:56",
       "https://lobste.rs/s/wub5ol/brief_consideration_input_shapes"
     ],
@@ -197,16 +207,6 @@
     [
       "A programmer's field guide to assertions",
       "https://typesanitizer.com/blog/assertions.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-17, 08:57:47",
-      "https://lobste.rs/s/oei13t/tech_behind_geotoy"
-    ],
-    [
-      "The Tech Behind Geotoy",
-      "https://cprimozic.net/blog/the-tech-behind-geotoy/"
     ]
   ],
   [
