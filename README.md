@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-18, 22:04:04](https://lobste.rs/s/fuaxsi/preventing_domain_resurrection_attacks) - [Preventing Domain Resurrection Attacks (on the Python Package Index)](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
+* [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
 * [2025-08-18, 19:37:58](https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit) - [How Indirect Prompt Injections Exploit Context, Format, and Salience](https://www.fogel.dev/prompt_injection_cfs_framework)
@@ -24,7 +25,6 @@
 * [2025-08-18, 04:55:23](https://lobste.rs/s/qtn7io/systemd_service_hardening) - [SystemD Service Hardening](https://roguesecurity.dev/blog/systemd-hardening)
 * [2025-08-18, 04:02:05](https://lobste.rs/s/tuiofz/why_i_prefer_rst_restructuredtext) - [Why I prefer rST [reStructuredText] to Markdown (2024)](https://buttondown.com/hillelwayne/archive/why-i-prefer-rst-to-markdown/)
 * [2025-08-17, 18:58:54](https://lobste.rs/s/gvtlpo/email_is_easy_email_address_quiz) - [“Email is Easy” email address quiz](https://e-mail.wtf)
-* [2025-08-17, 15:11:58](https://lobste.rs/s/q6wdpd/who_does_your_assistant_serve) - [Who does your assistant serve?](https://xeiaso.net/blog/2025/who-assistant-serve/)
 
 ## [Archives](archives/index.md)
 
