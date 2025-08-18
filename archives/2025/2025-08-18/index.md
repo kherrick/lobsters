@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 22:52:37](https://lobste.rs/s/6cls8e/intel_outside_hacking_every_intel) - [Intel Outside: Hacking every Intel employee and various internal websites](https://eaton-works.com/2025/08/18/intel-outside-hack/)
 * [2025-08-18, 22:04:04](https://lobste.rs/s/fuaxsi/preventing_domain_resurrection_attacks) - [Preventing Domain Resurrection Attacks (on the Python Package Index)](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
 * [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
