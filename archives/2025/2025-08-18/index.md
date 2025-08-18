@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 17:31:15](https://lobste.rs/s/pjfpro/how_ingest_1_billion_rows_per_second) - [How to ingest 1 billion rows per second in ClickHouse](https://www.tinybird.co/blog-posts/1b-rows-per-second-clickhouse)
 * [2025-08-18, 16:51:56](https://lobste.rs/s/eznxf0/treetable_case_stud_q) - [Treetable: a case-stud in q](https://archive.vector.org.uk/art10500340)
 * [2025-08-18, 16:11:34](https://lobste.rs/s/1slbkm/dynamo_dynamodb_aurora_dsql) - [Dynamo, DynamoDB, and Aurora DSQL](https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html)
 * [2025-08-18, 14:38:05](https://lobste.rs/s/fexnal/atmos) - [Atmos](https://github.com/atmos-lang/atmos)
