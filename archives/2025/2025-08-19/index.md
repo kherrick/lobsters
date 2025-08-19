@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 21:46:41](https://lobste.rs/s/rykbqu/drunken_bishop_2023) - [Drunken Bishop (2023)](https://re.factorcode.org/2023/08/drunken-bishop.html)
 * [2025-08-19, 20:10:33](https://lobste.rs/s/ogjjko/jovial_reverse_polish_notation) - [Jovial Reverse Polish Notation Calculators](https://jrpn.jovial.com/)
 * [2025-08-19, 17:53:27](https://lobste.rs/s/8amms6/crlite_fast_private_comprehensive) - [CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 * [2025-08-19, 16:23:00](https://lobste.rs/s/c417pn/emacs_as_your_video_trimming_tool) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
