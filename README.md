@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-19, 06:26:24](https://lobste.rs/s/3l009s/multimedia_renaissance) - [The Multimedia Renaissance](https://giannirosato.com/blog/post/the-multimedia-renaissance/)
+* [2025-08-19, 04:30:31](https://lobste.rs/s/ik0pjv/left_right_programming) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-19, 04:16:47](https://lobste.rs/s/kf5gi2/memory_filesystems_rust) - [In-memory Filesystems in Rust](https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/)
 * [2025-08-19, 04:08:59](https://lobste.rs/s/bibyfi/why_developers_question_everything) - [Why developers question everything](https://timharek.no/blog/why-developers-question-everything/)
 * [2025-08-19, 01:13:23](https://lobste.rs/s/x9fvbx/persistent_risk_xz_utils_backdoor_still) - [Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images](https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images)
@@ -14,7 +15,6 @@
 * [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
 * [2025-08-18, 17:50:56](https://lobste.rs/s/7ufqz3/introducing_action_native_push) - [Introducing Action Native Push](https://dev.37signals.com/introducing-action-native-push/)
 * [2025-08-18, 16:11:34](https://lobste.rs/s/1slbkm/dynamo_dynamodb_aurora_dsql) - [Dynamo, DynamoDB, and Aurora DSQL](https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html)
-* [2025-08-18, 14:38:05](https://lobste.rs/s/fexnal/atmos) - [Atmos](https://github.com/atmos-lang/atmos)
 * [2025-08-18, 14:16:25](https://lobste.rs/s/cv9cmo/basic_dependency_injection_ocaml_with) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
 * [2025-08-18, 13:22:45](https://lobste.rs/s/1qr3zy/gpt_5_goes_hard_on_real_world_programming) - [GPT-5 goes hard on real-world programming](https://www.omerba.dev/blog/gpt-5-evtx-zig-parser)
 * [2025-08-18, 13:21:07](https://lobste.rs/s/gd0joi/asciidots_esolang_based_on_ascii_art) - [AsciiDots: an esolang based on ascii art](https://ajanse.me/asciidots/)
