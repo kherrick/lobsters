@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-08-19, 01:13:23",
+      "https://lobste.rs/s/x9fvbx/persistent_risk_xz_utils_backdoor_still"
+    ],
+    [
+      "Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images",
+      "https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 00:12:18",
       "https://lobste.rs/s/y7gw78/ai_is_mass_delusion_event"
     ],
@@ -137,16 +147,6 @@
     [
       "Using Nix as a library",
       "https://fzakaria.com/2025/08/17/using-nix-as-a-library"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 17:50:56",
-      "https://lobste.rs/s/7ufqz3/introducing_action_native_push"
-    ],
-    [
-      "Introducing Action Native Push",
-      "https://dev.37signals.com/introducing-action-native-push/"
     ]
   ],
   [
