@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-19, 04:16:47",
+      "https://lobste.rs/s/kf5gi2/memory_filesystems_rust"
+    ],
+    [
+      "In-memory Filesystems in Rust",
+      "https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 04:08:59",
       "https://lobste.rs/s/bibyfi/why_developers_question_everything"
     ],
@@ -157,16 +167,6 @@
     [
       "AsciiDots: an esolang based on ascii art",
       "https://ajanse.me/asciidots/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 12:44:06",
-      "https://lobste.rs/s/hvmtob/zfs_scrubs_check_much_less_than_you"
-    ],
-    [
-      "ZFS scrubs check (much) less than you probably think they do (2018)",
-      "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII"
     ]
   ],
   [
