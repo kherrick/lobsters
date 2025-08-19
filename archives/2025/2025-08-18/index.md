@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-08-18](index.md)
 
+* [2025-08-18, 23:44:47](https://lobste.rs/s/t5ygt3/peculiar_case_japanese_web_design) - [The peculiar case of Japanese web design](https://sabrinas.space)
+* [2025-08-18, 23:19:45](https://lobste.rs/s/bdwpyk/understanding_gnome_shell_s_focus) - [Understanding GNOME Shell’s focus stealing prevention](https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/)
 * [2025-08-18, 22:52:37](https://lobste.rs/s/6cls8e/intel_outside_hacking_every_intel) - [Intel Outside: Hacking every Intel employee and various internal websites](https://eaton-works.com/2025/08/18/intel-outside-hack/)
 * [2025-08-18, 22:04:04](https://lobste.rs/s/fuaxsi/preventing_domain_resurrection_attacks) - [Preventing Domain Resurrection Attacks (on the Python Package Index)](https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/)
+* [2025-08-18, 21:50:15](https://lobste.rs/s/asfwb9/system_guide_five_sample_pc_builds_from) - [System Guide: Five sample PC builds, from $500 to $5,000](https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/)
 * [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
 * [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
