@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-19, 20:10:33](https://lobste.rs/s/ogjjko/jovial_reverse_polish_notation) - [Jovial Reverse Polish Notation Calculators](https://jrpn.jovial.com/)
 * [2025-08-19, 17:53:27](https://lobste.rs/s/8amms6/crlite_fast_private_comprehensive) - [CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox](https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/)
 * [2025-08-19, 16:23:00](https://lobste.rs/s/c417pn/emacs_as_your_video_trimming_tool) - [Emacs as your video-trimming tool](https://xenodium.com/emacs-as-your-video-trimming-tool)
 * [2025-08-19, 16:04:00](https://lobste.rs/s/7mjacp/smalljs) - [SmallJS](https://small-js.org/Home/Home.html)
@@ -14,7 +15,6 @@
 * [2025-08-19, 04:30:31](https://lobste.rs/s/ik0pjv/left_right_programming) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-19, 04:16:47](https://lobste.rs/s/kf5gi2/memory_filesystems_rust) - [In-memory Filesystems in Rust](https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/)
 * [2025-08-19, 04:08:59](https://lobste.rs/s/bibyfi/why_developers_question_everything) - [Why developers question everything](https://timharek.no/blog/why-developers-question-everything/)
-* [2025-08-19, 00:12:18](https://lobste.rs/s/y7gw78/ai_is_mass_delusion_event) - [AI is a mass-delusion event](https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/)
 * [2025-08-18, 23:44:47](https://lobste.rs/s/t5ygt3/peculiar_case_japanese_web_design_2022) - [The peculiar case of Japanese web design (2022)](https://sabrinas.space)
 * [2025-08-18, 23:19:45](https://lobste.rs/s/bdwpyk/understanding_gnome_shell_s_focus) - [Understanding GNOME Shell’s focus stealing prevention](https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/)
 * [2025-08-18, 22:52:37](https://lobste.rs/s/6cls8e/intel_outside_hacking_every_intel) - [Intel Outside: Hacking every Intel employee and various internal websites](https://eaton-works.com/2025/08/18/intel-outside-hack/)
