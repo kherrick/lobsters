@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-08-19, 04:30:31",
+      "https://lobste.rs/s/ik0pjv/left_right_programming"
+    ],
+    [
+      "Left to Right Programming",
+      "https://graic.net/p/left-to-right-programming"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 04:16:47",
       "https://lobste.rs/s/kf5gi2/memory_filesystems_rust"
     ],
@@ -137,16 +147,6 @@
     [
       "Dynamo, DynamoDB, and Aurora DSQL",
       "https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 14:38:05",
-      "https://lobste.rs/s/fexnal/atmos"
-    ],
-    [
-      "Atmos",
-      "https://github.com/atmos-lang/atmos"
     ]
   ],
   [
