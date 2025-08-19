@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-19, 13:54:47",
+      "https://lobste.rs/s/va2mvi/without_futex_it_s_futile"
+    ],
+    [
+      "Without the futex, it's futile",
+      "https://h4x0r.org/futex/"
+    ]
+  ],
+  [
+    [
       "2025-08-19, 13:45:09",
       "https://lobste.rs/s/qyd1yy/making_floppy_disk_from_scratch"
     ],
@@ -77,16 +87,6 @@
     [
       "Why developers question everything",
       "https://timharek.no/blog/why-developers-question-everything/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 01:13:23",
-      "https://lobste.rs/s/x9fvbx/persistent_risk_xz_utils_backdoor_still"
-    ],
-    [
-      "Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images",
-      "https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images"
     ]
   ],
   [
