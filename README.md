@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-19, 07:32:02](https://lobste.rs/s/dcw2ea/prime_number_grid) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 06:26:24](https://lobste.rs/s/3l009s/multimedia_renaissance) - [The Multimedia Renaissance](https://giannirosato.com/blog/post/the-multimedia-renaissance/)
 * [2025-08-19, 04:30:31](https://lobste.rs/s/ik0pjv/left_right_programming) - [Left to Right Programming](https://graic.net/p/left-to-right-programming)
 * [2025-08-19, 04:16:47](https://lobste.rs/s/kf5gi2/memory_filesystems_rust) - [In-memory Filesystems in Rust](https://andre.arko.net/2025/08/18/in-memory-filesystems-in-rust/)
@@ -12,7 +13,6 @@
 * [2025-08-18, 21:50:15](https://lobste.rs/s/asfwb9/system_guide_five_sample_pc_builds_from) - [System Guide: Five sample PC builds, from $500 to $5,000](https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/)
 * [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
-* [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
 * [2025-08-18, 17:50:56](https://lobste.rs/s/7ufqz3/introducing_action_native_push) - [Introducing Action Native Push](https://dev.37signals.com/introducing-action-native-push/)
 * [2025-08-18, 16:11:34](https://lobste.rs/s/1slbkm/dynamo_dynamodb_aurora_dsql) - [Dynamo, DynamoDB, and Aurora DSQL](https://brooker.co.za/blog/2025/08/15/dynamo-dynamodb-dsql.html)
 * [2025-08-18, 14:16:25](https://lobste.rs/s/cv9cmo/basic_dependency_injection_ocaml_with) - [Basic dependency injection in OCaml with objects](https://gr-im.github.io/a/dependency-injection.html)
