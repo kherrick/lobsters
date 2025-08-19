@@ -11,6 +11,7 @@
 * [2025-08-18, 21:50:15](https://lobste.rs/s/asfwb9/system_guide_five_sample_pc_builds_from) - [System Guide: Five sample PC builds, from $500 to $5,000](https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/)
 * [2025-08-18, 21:43:58](https://lobste.rs/s/8lti4g/google_is_killing_open_web) - [Google is killing the open web](https://wok.oblomov.eu/tecnologia/google-killing-open-web/)
 * [2025-08-18, 21:37:54](https://lobste.rs/s/iyl4vu/phrack_72) - [Phrack 72](https://phrack.org/issues/72/1)
+* [2025-08-18, 21:01:40](https://lobste.rs/s/re6xka/using_nix_as_library) - [Using Nix as a library](https://fzakaria.com/2025/08/17/using-nix-as-a-library)
 * [2025-08-18, 20:30:45](https://lobste.rs/s/afimbs/trap_autoregressive_transformers_apl) - [Trap: Autoregressive Transformers in APL](https://github.com/BobMcDear/trap)
 * [2025-08-18, 19:37:58](https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit) - [How Indirect Prompt Injections Exploit Context, Format, and Salience](https://www.fogel.dev/prompt_injection_cfs_framework)
 * [2025-08-18, 19:07:29](https://lobste.rs/s/lm2v4y/making_impossible_states_impossible) - [Making Impossible States Impossible: Type-Safe Domain Modeling with Functional Dependency Injection](https://cekrem.github.io/posts/making-impossible-states-impossible-with-functional-dependency-injection/)
