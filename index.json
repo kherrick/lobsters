@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-08-18, 19:37:58",
-      "https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit"
-    ],
-    [
-      "How Indirect Prompt Injections Exploit Context, Format, and Salience",
-      "https://www.fogel.dev/prompt_injection_cfs_framework"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 17:50:56",
       "https://lobste.rs/s/7ufqz3/introducing_action_native_push"
     ],
@@ -167,6 +157,16 @@
     [
       "AsciiDots: an esolang based on ascii art",
       "https://ajanse.me/asciidots/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 12:44:06",
+      "https://lobste.rs/s/hvmtob/zfs_scrubs_check_much_less_than_you"
+    ],
+    [
+      "ZFS scrubs check (much) less than you probably think they do (2018)",
+      "https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubLimitsII"
     ]
   ],
   [
