@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-19](index.md)
 
+* [2025-08-19, 11:14:32](https://lobste.rs/s/7wwm4h/reserve_first) - [Reserve First](https://matklad.github.io/2025/08/16/reserve-first.html)
 * [2025-08-19, 07:32:02](https://lobste.rs/s/dcw2ea/prime_number_grid) - [Prime Number Grid](https://susam.net/primegrid.html)
 * [2025-08-19, 06:46:57](https://lobste.rs/s/b30klp/sinking_itanic_free_ebook) - [The Sinking of the Itanic: free ebook](http://bitmason.blogspot.com/2024/02/the-sinking-of-itanic-free-ebook.html)
 * [2025-08-19, 06:26:24](https://lobste.rs/s/3l009s/multimedia_renaissance) - [The Multimedia Renaissance](https://giannirosato.com/blog/post/the-multimedia-renaissance/)
