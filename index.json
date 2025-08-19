@@ -1,12 +1,62 @@
 [
   [
     [
+      "2025-08-19, 01:13:23",
+      "https://lobste.rs/s/x9fvbx/persistent_risk_xz_utils_backdoor_still"
+    ],
+    [
+      "Persistent Risk: XZ Utils Backdoor Still Lurking in Docker Images",
+      "https://www.binarly.io/blog/persistent-risk-xz-utils-backdoor-still-lurking-in-docker-images"
+    ]
+  ],
+  [
+    [
+      "2025-08-19, 00:12:18",
+      "https://lobste.rs/s/y7gw78/ai_is_mass_delusion_event"
+    ],
+    [
+      "AI is a mass-delusion event",
+      "https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 23:44:47",
+      "https://lobste.rs/s/t5ygt3/peculiar_case_japanese_web_design"
+    ],
+    [
+      "The peculiar case of Japanese web design",
+      "https://sabrinas.space"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 23:19:45",
+      "https://lobste.rs/s/bdwpyk/understanding_gnome_shell_s_focus"
+    ],
+    [
+      "Understanding GNOME Shell’s focus stealing prevention",
+      "https://blogs.gnome.org/shell-dev/2024/09/20/understanding-gnome-shells-focus-stealing-prevention/"
+    ]
+  ],
+  [
+    [
       "2025-08-18, 22:52:37",
       "https://lobste.rs/s/6cls8e/intel_outside_hacking_every_intel"
     ],
     [
       "Intel Outside: Hacking every Intel employee and various internal websites",
       "https://eaton-works.com/2025/08/18/intel-outside-hack/"
+    ]
+  ],
+  [
+    [
+      "2025-08-18, 21:50:15",
+      "https://lobste.rs/s/asfwb9/system_guide_five_sample_pc_builds_from"
+    ],
+    [
+      "System Guide: Five sample PC builds, from $500 to $5,000",
+      "https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/"
     ]
   ],
   [
@@ -37,16 +87,6 @@
     [
       "Trap: Autoregressive Transformers in APL",
       "https://github.com/BobMcDear/trap"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 19:37:58",
-      "https://lobste.rs/s/rng2ie/how_indirect_prompt_injections_exploit"
-    ],
-    [
-      "How Indirect Prompt Injections Exploit Context, Format, and Salience",
-      "https://www.fogel.dev/prompt_injection_cfs_framework"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2025-08-18, 13:04:35",
-      "https://lobste.rs/s/munhml/preventing_naptr_spam"
-    ],
-    [
-      "Preventing NAPTR Spam",
-      "https://shkspr.mobi/blog/2025/08/preventing-naptr-spam/"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 12:44:06",
       "https://lobste.rs/s/hvmtob/zfs_scrubs_check_much_less_than_you"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-08-18, 09:03:18",
-      "https://lobste.rs/s/bsyd6a/nixos_flakes_book"
-    ],
-    [
-      "NixOS & Flakes Book",
-      "https://nixos-and-flakes.thiscute.world/introduction/"
-    ]
-  ],
-  [
-    [
       "2025-08-18, 08:25:58",
       "https://lobste.rs/s/tagrrs/introducing_illumos_cafe_another_cozy"
     ],
@@ -207,26 +227,6 @@
     [
       "wrkflw: Validate and Run GitHub Actions locally",
       "https://github.com/bahdotsh/wrkflw"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 05:15:39",
-      "https://lobste.rs/s/kme1ri/recto_truly_2d_language"
-    ],
-    [
-      "Recto — a truly 2D language",
-      "https://masatohagiwara.net/recto.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 04:55:23",
-      "https://lobste.rs/s/qtn7io/systemd_service_hardening"
-    ],
-    [
-      "SystemD Service Hardening",
-      "https://roguesecurity.dev/blog/systemd-hardening"
     ]
   ],
   [
