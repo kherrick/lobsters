@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 19:14:34](https://lobste.rs/s/78syo9/default_musl_allocator_considered) - [Default musl allocator considered harmful (to performance)](https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/)
 * [2025-08-20, 19:05:09](https://lobste.rs/s/whcfhc/announcing_proxy_4_next_leap_c) - [Announcing Proxy 4: The Next Leap in C++ Polymorphism](https://devblogs.microsoft.com/cppblog/announcing-proxy-4-the-next-leap-in-c-polymorphism/)
 * [2025-08-20, 18:45:16](https://lobste.rs/s/seffg9/zig_0_15_1_release_notes) - [Zig 0.15.1 Release Notes](https://ziglang.org/download/0.15.1/release-notes.html)
 * [2025-08-20, 16:58:29](https://lobste.rs/s/cufrxi/l2aw_theorem) - [L2AW theorem](https://law-theorem.com/)
