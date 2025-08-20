@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-20, 03:33:44",
+      "https://lobste.rs/s/uwwr6r/monoid_augmented_fifos_deamortised"
+    ],
+    [
+      "Monoid-augmented FIFOs, deamortised",
+      "https://pvk.ca/Blog/2025/08/19/monoid-augmented-fifos/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 00:38:56",
       "https://lobste.rs/s/oqhuo2/git_rfc_introduce_jj_inspired_git_history"
     ],
@@ -17,16 +27,6 @@
     [
       "Change to Custom Directory Alias With Completions in Zsh (2021)",
       "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 22:54:47",
-      "https://lobste.rs/s/49qezb/using_podman_compose_buildkit_emersion"
-    ],
-    [
-      "Using Podman, Compose and BuildKit · emersion",
-      "https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/"
     ]
   ],
   [
