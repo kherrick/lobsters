@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 18:45:16](https://lobste.rs/s/seffg9/zig_0_15_1_release_notes) - [Zig 0.15.1 Release Notes](https://ziglang.org/download/0.15.1/release-notes.html)
 * [2025-08-20, 16:58:29](https://lobste.rs/s/cufrxi/l2aw_theorem) - [L2AW theorem](https://law-theorem.com/)
 * [2025-08-20, 16:49:42](https://lobste.rs/s/5mlh66/proposal_for_inline_llm_instructions) - [A proposal for inline LLM instructions in HTML based on llms.txt](https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html)
 * [2025-08-20, 15:52:16](https://lobste.rs/s/8h67j1/container_aware_gomaxprocs) - [Container-aware GOMAXPROCS](https://go.dev/blog/container-aware-gomaxprocs)
