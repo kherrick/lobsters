@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 20:30:48](https://lobste.rs/s/qw5iyf/why_are_anime_catgirls_blocking_my_access) - [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html)
 * [2025-08-20, 19:14:34](https://lobste.rs/s/78syo9/default_musl_allocator_considered) - [Default musl allocator considered harmful (to performance)](https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/)
 * [2025-08-20, 19:05:09](https://lobste.rs/s/whcfhc/announcing_proxy_4_next_leap_c) - [Announcing Proxy 4: The Next Leap in C++ Polymorphism](https://devblogs.microsoft.com/cppblog/announcing-proxy-4-the-next-leap-in-c-polymorphism/)
 * [2025-08-20, 18:45:16](https://lobste.rs/s/seffg9/zig_0_15_1_release_notes) - [Zig 0.15.1 Release Notes](https://ziglang.org/download/0.15.1/release-notes.html)
