@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-20, 14:53:04",
+      "https://lobste.rs/s/jslvmu/const_trait_counterexamples"
+    ],
+    [
+      "Const Trait Counterexamples",
+      "https://dbeef.dev/const-trait-counterexamples/"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 13:36:47",
       "https://lobste.rs/s/t3q23z/improvements_ocaml_code_editing_basics"
     ],
@@ -237,16 +247,6 @@
     [
       "Google is killing the open web",
       "https://wok.oblomov.eu/tecnologia/google-killing-open-web/"
-    ]
-  ],
-  [
-    [
-      "2025-08-18, 11:02:04",
-      "https://lobste.rs/s/l5qpv2/this_website_is_served_from_nine_neovim"
-    ],
-    [
-      "This Website is Served from Nine Neovim Buffers on My Old ThinkPad",
-      "https://vim.gabornyeki.com/"
     ]
   ]
 ]
