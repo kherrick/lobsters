@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-20, 18:45:16",
+      "https://lobste.rs/s/seffg9/zig_0_15_1_release_notes"
+    ],
+    [
+      "Zig 0.15.1 Release Notes",
+      "https://ziglang.org/download/0.15.1/release-notes.html"
+    ]
+  ],
+  [
+    [
       "2025-08-20, 16:58:29",
       "https://lobste.rs/s/cufrxi/l2aw_theorem"
     ],
@@ -157,16 +167,6 @@
     [
       "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 23:03:34",
-      "https://lobste.rs/s/3uhlzd/change_custom_directory_alias_with"
-    ],
-    [
-      "Change to Custom Directory Alias With Completions in Zsh (2021)",
-      "https://hacdias.com/2021/05/30/cd-alias-completions-zsh/"
     ]
   ],
   [
