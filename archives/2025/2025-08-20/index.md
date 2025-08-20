@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-20](index.md)
 
+* [2025-08-20, 16:49:42](https://lobste.rs/s/5mlh66/proposal_for_inline_llm_instructions) - [A proposal for inline LLM instructions in HTML based on llms.txt](https://vercel.com/blog/a-proposal-for-inline-llm-instructions-in-html)
 * [2025-08-20, 15:52:16](https://lobste.rs/s/8h67j1/container_aware_gomaxprocs) - [Container-aware GOMAXPROCS](https://go.dev/blog/container-aware-gomaxprocs)
 * [2025-08-20, 14:53:04](https://lobste.rs/s/jslvmu/const_trait_counterexamples) - [Const Trait Counterexamples](https://dbeef.dev/const-trait-counterexamples/)
 * [2025-08-20, 13:36:47](https://lobste.rs/s/t3q23z/improvements_ocaml_code_editing_basics) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
