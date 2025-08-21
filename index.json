@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 07:31:51",
+      "https://lobste.rs/s/sm1y3p/faster_loading_credentials_from"
+    ],
+    [
+      "Faster loading of credentials from Bitwarden using rbw",
+      "https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 04:50:00",
       "https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script"
     ],
@@ -217,16 +227,6 @@
     [
       "Git RFC: Introduce jj-inspired git-history(1) command for easy history editing",
       "https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 17:53:27",
-      "https://lobste.rs/s/8amms6/crlite_fast_private_comprehensive"
-    ],
-    [
-      "CRLite: Fast, private, and comprehensive certificate revocation checking in Firefox",
-      "https://hacks.mozilla.org/2025/08/crlite-fast-private-and-comprehensive-certificate-revocation-checking-in-firefox/"
     ]
   ],
   [
