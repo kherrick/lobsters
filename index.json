@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 04:50:00",
+      "https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script"
+    ],
+    [
+      "Building GoReleaser: from shell script to paid product | Carlos Becker",
+      "https://carlosbecker.com/posts/building-goreleaser/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 04:11:46",
       "https://lobste.rs/s/eutnza/nope_strengthening_domain"
     ],
@@ -147,16 +157,6 @@
     [
       "Code Review Can Be Better",
       "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 10:23:29",
-      "https://lobste.rs/s/vldu27/privacy_preserving_age_verification_its"
-    ],
-    [
-      "Privacy-Preserving Age Verification—and Its Limitations",
-      "https://www.cs.columbia.edu/~smb/papers/age-verify.pdf"
     ]
   ],
   [
