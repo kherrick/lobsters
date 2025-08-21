@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 14:24:18",
+      "https://lobste.rs/s/ztpeql/numa_is_new_network_how_per_socket_memory"
+    ],
+    [
+      "NUMA Is the New Network: How Per-Socket Memory Models Are Reshaping Microservice Placement",
+      "https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 14:05:10",
       "https://lobste.rs/s/suoszg/d4d4"
     ],
@@ -67,16 +77,6 @@
     [
       "Optique: Type-safe combinatorial CLI parser for TypeScript",
       "https://optique.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 02:25:24",
-      "https://lobste.rs/s/tbonuw/slice_sast_llm_interprocedural_context"
-    ],
-    [
-      "Slice: SAST + LLM Interprocedural Context Extractor",
-      "https://noperator.dev/posts/slice/"
     ]
   ],
   [
