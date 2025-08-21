@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 17:15:13](https://lobste.rs/s/xoa1sx/core_rust) - [the core of rust](https://jyn.dev/the-core-of-rust/)
 * [2025-08-21, 16:04:26](https://lobste.rs/s/jfqq8g/discrete_optimization_for_on_call) - [Discrete optimization for on-call scheduling (2021)](https://www.rainforestqa.com/blog/discrete-optimization-for-on-call-scheduling)
 * [2025-08-21, 15:51:48](https://lobste.rs/s/nhmsd8/adding_my_home_electricity_uptime_status) - [adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:25:46](https://lobste.rs/s/wthfwo/ledger_2023) - [Ledger. (2023)](https://lock.cmpxchg8b.com/ledger.html)
