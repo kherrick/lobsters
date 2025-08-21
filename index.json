@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 02:25:24",
+      "https://lobste.rs/s/tbonuw/slice_sast_llm_interprocedural_context"
+    ],
+    [
+      "Slice: SAST + LLM Interprocedural Context Extractor",
+      "https://noperator.dev/posts/slice/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 00:31:56",
       "https://lobste.rs/s/hrdrbr/why_does_my_regular_expression_work_x_not_y"
     ],
@@ -217,16 +227,6 @@
     [
       "Emacs as your video-trimming tool",
       "https://xenodium.com/emacs-as-your-video-trimming-tool"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 14:13:05",
-      "https://lobste.rs/s/owhphj/lawnmower_irc_server"
-    ],
-    [
-      "The Lawnmower IRC Server",
-      "https://jotunheimr.idlerpg.net/users/jotun/lawnmower/"
     ]
   ],
   [
