@@ -2,7 +2,7 @@
 
 * [2025-08-21, 16:04:26](https://lobste.rs/s/jfqq8g/discrete_optimization_for_on_call) - [Discrete optimization for on-call scheduling (2021)](https://www.rainforestqa.com/blog/discrete-optimization-for-on-call-scheduling)
 * [2025-08-21, 15:51:48](https://lobste.rs/s/nhmsd8/adding_my_home_electricity_uptime_status) - [adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
-* [2025-08-21, 15:25:46](https://lobste.rs/s/wthfwo/ledger_2023) - [Ledger. (2023)](https://lock.cmpxchg8b.com/ledger.html)
+* [2025-08-21, 15:25:46](https://lobste.rs/s/wthfwo/ledger_2023) - [Ledger (2023)](https://lock.cmpxchg8b.com/ledger.html)
 * [2025-08-21, 15:12:53](https://lobste.rs/s/gayfir/aur_chaos_malware_analysis) - [AUR Chaos malware: an analysis](https://www.mh4ckt3mh4ckt1c4s.xyz/blog/aur-chaos-malware-analysis/)
 * [2025-08-21, 14:53:17](https://lobste.rs/s/worwkg/fun_weirdness_with_ssds) - [Fun and weirdness with SSDs](https://vondra.me/posts/fun-and-weirdness-with-ssds/)
 * [2025-08-21, 14:47:43](https://lobste.rs/s/s4jdny/my_other_email_client_is_daemon) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
