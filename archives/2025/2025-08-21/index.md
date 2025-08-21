@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 19:33:33](https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser) - [Using Common Lisp from inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html)
 * [2025-08-21, 18:27:07](https://lobste.rs/s/fzszai/on_benchmarking_minizinc_linkedin) - [On Benchmarking MiniZinc and the LinkedIn Queens Problem - zayenz.se](https://zayenz.se/blog/post/benchmarking-linkedin-queens/)
 * [2025-08-21, 17:53:30](https://lobste.rs/s/c35dnv/bitnami_deprecation) - [Bitnami Deprecation](https://raesene.github.io/blog/2025/08/21/bitnami-deprecation/)
 * [2025-08-21, 17:15:13](https://lobste.rs/s/xoa1sx/core_rust) - [the core of rust](https://jyn.dev/the-core-of-rust/)
