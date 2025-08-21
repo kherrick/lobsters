@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-08-21, 17:54:19",
+      "https://lobste.rs/s/fc5svd/interim_computer_museum"
+    ],
+    [
+      "The Interim Computer Museum",
+      "https://icm.museum/"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 17:53:30",
       "https://lobste.rs/s/c35dnv/bitnami_deprecation"
     ],
@@ -217,16 +227,6 @@
     [
       "Why are anime catgirls blocking my access to the Linux kernel?",
       "https://lock.cmpxchg8b.com/anubis.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 19:14:34",
-      "https://lobste.rs/s/78syo9/default_musl_allocator_considered"
-    ],
-    [
-      "Default musl allocator considered harmful (to performance)",
-      "https://nickb.dev/blog/default-musl-allocator-considered-harmful-to-performance/"
     ]
   ],
   [
