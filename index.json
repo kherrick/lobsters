@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-21, 20:03:14",
+      "https://lobste.rs/s/ej6pen/grug_design"
+    ],
+    [
+      "grug.design",
+      "https://www.grug.design/know"
+    ]
+  ],
+  [
+    [
+      "2025-08-21, 20:01:00",
+      "https://lobste.rs/s/hty9zp/why_do_software_developers_love"
+    ],
+    [
+      "Why do software developers love complexity?",
+      "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 19:33:33",
       "https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-21, 04:50:00",
-      "https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script"
-    ],
-    [
-      "Building GoReleaser: from shell script to paid product",
-      "https://carlosbecker.com/posts/building-goreleaser/"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 03:08:51",
       "https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli"
     ],
@@ -237,16 +247,6 @@
     [
       "Code Review Can Be Better",
       "https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 09:51:43",
-      "https://lobste.rs/s/sqh8uy/zed_for_windows_what_s_taking_so_long"
-    ],
-    [
-      "Zed for Windows: What's Taking So Long?",
-      "https://zed.dev/blog/windows-progress-report"
     ]
   ]
 ]
