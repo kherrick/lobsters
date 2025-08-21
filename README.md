@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-21, 15:51:48](https://lobste.rs/s/nhmsd8/adding_my_home_electricity_uptime_status) - [adding my home electricity uptime to status.href.cat](https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/)
 * [2025-08-21, 15:25:46](https://lobste.rs/s/wthfwo/ledger_2023) - [Ledger. (2023)](https://lock.cmpxchg8b.com/ledger.html)
 * [2025-08-21, 15:12:53](https://lobste.rs/s/gayfir/aur_chaos_malware_analysis) - [AUR Chaos malware: an analysis](https://www.mh4ckt3mh4ckt1c4s.xyz/blog/aur-chaos-malware-analysis/)
 * [2025-08-21, 14:53:17](https://lobste.rs/s/worwkg/fun_weirdness_with_ssds) - [Fun and weirdness with SSDs](https://vondra.me/posts/fun-and-weirdness-with-ssds/)
@@ -21,7 +22,6 @@
 * [2025-08-20, 18:45:16](https://lobste.rs/s/seffg9/zig_0_15_1_release_notes) - [Zig 0.15.1 Release Notes](https://ziglang.org/download/0.15.1/release-notes.html)
 * [2025-08-20, 15:52:16](https://lobste.rs/s/8h67j1/container_aware_gomaxprocs) - [Container-aware GOMAXPROCS](https://go.dev/blog/container-aware-gomaxprocs)
 * [2025-08-20, 14:53:04](https://lobste.rs/s/jslvmu/const_trait_counterexamples) - [Const Trait Counterexamples](https://dbeef.dev/const-trait-counterexamples/)
-* [2025-08-20, 13:36:47](https://lobste.rs/s/t3q23z/improvements_ocaml_code_editing_basics) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
 * [2025-08-20, 11:03:02](https://lobste.rs/s/zxglnn/code_review_can_be_better) - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
 * [2025-08-20, 09:51:43](https://lobste.rs/s/sqh8uy/zed_for_windows_what_s_taking_so_long) - [Zed for Windows: What's Taking So Long?](https://zed.dev/blog/windows-progress-report)
 * [2025-08-20, 00:38:56](https://lobste.rs/s/oqhuo2/git_rfc_introduce_jj_inspired_git_history) - [Git RFC: Introduce jj-inspired git-history(1) command for easy history editing](https://lore.kernel.org/git/20250819-b4-pks-history-builtin-v1-0-9b77c32688fe@pks.im/)
