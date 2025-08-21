@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 20:03:14](https://lobste.rs/s/ej6pen/grug_design) - [grug.design](https://www.grug.design/know)
+* [2025-08-21, 20:01:00](https://lobste.rs/s/hty9zp/why_do_software_developers_love) - [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
 * [2025-08-21, 19:33:33](https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser) - [Using Common Lisp from inside the Browser](https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html)
 * [2025-08-21, 18:27:07](https://lobste.rs/s/fzszai/on_benchmarking_minizinc_linkedin) - [On Benchmarking MiniZinc and the LinkedIn Queens Problem - zayenz.se](https://zayenz.se/blog/post/benchmarking-linkedin-queens/)
 * [2025-08-21, 17:53:30](https://lobste.rs/s/c35dnv/bitnami_deprecation) - [Bitnami Deprecation](https://raesene.github.io/blog/2025/08/21/bitnami-deprecation/)
