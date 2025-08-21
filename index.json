@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 19:33:33",
+      "https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser"
+    ],
+    [
+      "Using Common Lisp from inside the Browser",
+      "https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 18:27:07",
       "https://lobste.rs/s/fzszai/on_benchmarking_minizinc_linkedin"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2025-08-21, 14:41:54",
+      "https://lobste.rs/s/oxja04/tilus_is_tile_level_kernel_programming"
+    ],
+    [
+      "Tilus is a tile-level kernel programming language, implemented in Python",
+      "https://github.com/NVIDIA/tilus"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 14:35:13",
       "https://lobste.rs/s/pnyraf/new_rust_packaging_model"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-21, 00:31:56",
-      "https://lobste.rs/s/hrdrbr/why_does_my_regular_expression_work_x_not_y"
-    ],
-    [
-      "Why does my regular expression work in X but not in Y?",
-      "https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y"
-    ]
-  ],
-  [
-    [
       "2025-08-20, 21:04:23",
       "https://lobste.rs/s/muv9ja/let_jj_absorb_help_you_keep_clean_commit"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig 0.15.1 Release Notes",
       "https://ziglang.org/download/0.15.1/release-notes.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 14:53:04",
-      "https://lobste.rs/s/jslvmu/const_trait_counterexamples"
-    ],
-    [
-      "Const Trait Counterexamples",
-      "https://dbeef.dev/const-trait-counterexamples/"
     ]
   ],
   [
