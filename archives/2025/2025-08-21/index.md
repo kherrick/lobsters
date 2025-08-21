@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product | Carlos Becker](https://carlosbecker.com/posts/building-goreleaser/)
 * [2025-08-21, 04:11:46](https://lobste.rs/s/eutnza/nope_strengthening_domain) - [NOPE: Strengthening Domain Authentication (RWC 2025)](https://www.youtube.com/watch?v=j8pdfHnTvsU)
 * [2025-08-21, 03:08:51](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli) - [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/)
 * [2025-08-21, 02:25:24](https://lobste.rs/s/tbonuw/slice_sast_llm_interprocedural_context) - [Slice: SAST + LLM Interprocedural Context Extractor](https://noperator.dev/posts/slice/)
