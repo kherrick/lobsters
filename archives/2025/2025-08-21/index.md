@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 14:53:17](https://lobste.rs/s/worwkg/fun_weirdness_with_ssds) - [Fun and weirdness with SSDs](https://vondra.me/posts/fun-and-weirdness-with-ssds/)
+* [2025-08-21, 14:47:43](https://lobste.rs/s/s4jdny/my_other_email_client_is_daemon) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
 * [2025-08-21, 14:45:10](https://lobste.rs/s/5lp2et/hyperclay_single_file_html_apps) - [Hyperclay | Single File HTML APPS](https://hyperclay.com/)
 * [2025-08-21, 14:41:54](https://lobste.rs/s/oxja04/tilus_is_tile_level_kernel_programming) - [Tilus is a tile-level kernel programming language, implemented in Python](https://github.com/NVIDIA/tilus)
 * [2025-08-21, 14:35:13](https://lobste.rs/s/pnyraf/new_rust_packaging_model) - [A New Rust Packaging Model](https://guix.gnu.org/en/blog/2025/a-new-rust-packaging-model/)

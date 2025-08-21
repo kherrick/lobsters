@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-21, 14:53:17](https://lobste.rs/s/worwkg/fun_weirdness_with_ssds) - [Fun and weirdness with SSDs](https://vondra.me/posts/fun-and-weirdness-with-ssds/)
+* [2025-08-21, 14:47:43](https://lobste.rs/s/s4jdny/my_other_email_client_is_daemon) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
 * [2025-08-21, 14:45:10](https://lobste.rs/s/5lp2et/hyperclay_single_file_html_apps) - [Hyperclay | Single File HTML APPS](https://hyperclay.com/)
 * [2025-08-21, 14:41:54](https://lobste.rs/s/oxja04/tilus_is_tile_level_kernel_programming) - [Tilus is a tile-level kernel programming language, implemented in Python](https://github.com/NVIDIA/tilus)
 * [2025-08-21, 14:35:13](https://lobste.rs/s/pnyraf/new_rust_packaging_model) - [A New Rust Packaging Model](https://guix.gnu.org/en/blog/2025/a-new-rust-packaging-model/)
@@ -9,7 +11,6 @@
 * [2025-08-21, 12:24:07](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025) - [The Month of AI Bugs 2025](https://monthofaibugs.com/)
 * [2025-08-21, 07:31:51](https://lobste.rs/s/sm1y3p/faster_loading_credentials_from) - [Faster loading of credentials from Bitwarden using rbw](https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw)
 * [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product | Carlos Becker](https://carlosbecker.com/posts/building-goreleaser/)
-* [2025-08-21, 04:11:46](https://lobste.rs/s/eutnza/nope_strengthening_domain) - [NOPE: Strengthening Domain Authentication (RWC 2025)](https://www.youtube.com/watch?v=j8pdfHnTvsU)
 * [2025-08-21, 03:08:51](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli) - [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/)
 * [2025-08-21, 00:31:56](https://lobste.rs/s/hrdrbr/why_does_my_regular_expression_work_x_not_y) - [Why does my regular expression work in X but not in Y?](https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y)
 * [2025-08-20, 21:04:23](https://lobste.rs/s/muv9ja/let_jj_absorb_help_you_keep_clean_commit) - [Let `jj absorb` help you keep a clean commit history](https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html)
@@ -20,7 +21,6 @@
 * [2025-08-20, 15:52:16](https://lobste.rs/s/8h67j1/container_aware_gomaxprocs) - [Container-aware GOMAXPROCS](https://go.dev/blog/container-aware-gomaxprocs)
 * [2025-08-20, 14:53:04](https://lobste.rs/s/jslvmu/const_trait_counterexamples) - [Const Trait Counterexamples](https://dbeef.dev/const-trait-counterexamples/)
 * [2025-08-20, 13:36:47](https://lobste.rs/s/t3q23z/improvements_ocaml_code_editing_basics) - [Improvements to OCaml code editing: the basics of a refactor engine](https://tarides.com/blog/2025-08-20-internship-report-refactoring-tools-coming-to-merlin/)
-* [2025-08-20, 12:08:29](https://lobste.rs/s/hx1dft/tag_based_logging) - [Tag-based logging](https://mmapped.blog/posts/44-tag-based-logging)
 * [2025-08-20, 11:03:02](https://lobste.rs/s/zxglnn/code_review_can_be_better) - [Code Review Can Be Better](https://tigerbeetle.com/blog/2025-08-04-code-review-can-be-better/)
 * [2025-08-20, 09:51:43](https://lobste.rs/s/sqh8uy/zed_for_windows_what_s_taking_so_long) - [Zed for Windows: What's Taking So Long?](https://zed.dev/blog/windows-progress-report)
 * [2025-08-20, 02:12:51](https://lobste.rs/s/xecakg/long_season_langdev) - [The long season of langdev](https://blog.fogus.me/langdev/long-season.html)
