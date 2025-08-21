@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-21](index.md)
 
+* [2025-08-21, 14:24:18](https://lobste.rs/s/ztpeql/numa_is_new_network_how_per_socket_memory) - [NUMA Is the New Network: How Per-Socket Memory Models Are Reshaping Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 * [2025-08-21, 14:05:10](https://lobste.rs/s/suoszg/d4d4) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-21, 13:18:49](https://lobste.rs/s/8nfhry/conceptual_model_for_storage) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 12:24:07](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025) - [The Month of AI Bugs 2025](https://monthofaibugs.com/)

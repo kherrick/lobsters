@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-21, 14:24:18](https://lobste.rs/s/ztpeql/numa_is_new_network_how_per_socket_memory) - [NUMA Is the New Network: How Per-Socket Memory Models Are Reshaping Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 * [2025-08-21, 14:05:10](https://lobste.rs/s/suoszg/d4d4) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-21, 13:18:49](https://lobste.rs/s/8nfhry/conceptual_model_for_storage) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 12:24:07](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025) - [The Month of AI Bugs 2025](https://monthofaibugs.com/)
@@ -7,7 +8,6 @@
 * [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product | Carlos Becker](https://carlosbecker.com/posts/building-goreleaser/)
 * [2025-08-21, 04:11:46](https://lobste.rs/s/eutnza/nope_strengthening_domain) - [NOPE: Strengthening Domain Authentication (RWC 2025)](https://www.youtube.com/watch?v=j8pdfHnTvsU)
 * [2025-08-21, 03:08:51](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli) - [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/)
-* [2025-08-21, 02:25:24](https://lobste.rs/s/tbonuw/slice_sast_llm_interprocedural_context) - [Slice: SAST + LLM Interprocedural Context Extractor](https://noperator.dev/posts/slice/)
 * [2025-08-21, 00:31:56](https://lobste.rs/s/hrdrbr/why_does_my_regular_expression_work_x_not_y) - [Why does my regular expression work in X but not in Y?](https://unix.stackexchange.com/questions/119905/why-does-my-regular-expression-work-in-x-but-not-in-y)
 * [2025-08-20, 21:04:23](https://lobste.rs/s/muv9ja/let_jj_absorb_help_you_keep_clean_commit) - [Let `jj absorb` help you keep a clean commit history](https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html)
 * [2025-08-20, 20:48:01](https://lobste.rs/s/3bsfgs/nasa_s_10_rules_for_safety_critical_code) - [NASA’s 10 Rules for Safety-Critical Code](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
