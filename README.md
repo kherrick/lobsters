@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-21, 15:25:46](https://lobste.rs/s/wthfwo/ledger_2023) - [Ledger. (2023)](https://lock.cmpxchg8b.com/ledger.html)
 * [2025-08-21, 15:12:53](https://lobste.rs/s/gayfir/aur_chaos_malware_analysis) - [AUR Chaos malware: an analysis](https://www.mh4ckt3mh4ckt1c4s.xyz/blog/aur-chaos-malware-analysis/)
 * [2025-08-21, 14:53:17](https://lobste.rs/s/worwkg/fun_weirdness_with_ssds) - [Fun and weirdness with SSDs](https://vondra.me/posts/fun-and-weirdness-with-ssds/)
 * [2025-08-21, 14:47:43](https://lobste.rs/s/s4jdny/my_other_email_client_is_daemon) - [My other email client is a daemon](https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/)
@@ -8,7 +9,6 @@
 * [2025-08-21, 14:35:13](https://lobste.rs/s/pnyraf/new_rust_packaging_model) - [A New Rust Packaging Model](https://guix.gnu.org/en/blog/2025/a-new-rust-packaging-model/)
 * [2025-08-21, 14:24:18](https://lobste.rs/s/ztpeql/numa_is_new_network_how_per_socket_memory) - [NUMA Is the New Network: How Per-Socket Memory Models Are Reshaping Microservice Placement](https://codemia.io/blog/path/NUMA-Is-the-New-Network-How-Per-Socket-Memory-Models-Are-Reshaping-Microservice-Placement)
 * [2025-08-21, 14:05:10](https://lobste.rs/s/suoszg/d4d4) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
-* [2025-08-21, 13:18:49](https://lobste.rs/s/8nfhry/conceptual_model_for_storage) - [A Conceptual Model for Storage Unification](https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification)
 * [2025-08-21, 12:24:07](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025) - [The Month of AI Bugs 2025](https://monthofaibugs.com/)
 * [2025-08-21, 07:31:51](https://lobste.rs/s/sm1y3p/faster_loading_credentials_from) - [Faster loading of credentials from Bitwarden using rbw](https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw)
 * [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product | Carlos Becker](https://carlosbecker.com/posts/building-goreleaser/)
