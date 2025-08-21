@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-21, 13:18:49",
+      "https://lobste.rs/s/8nfhry/conceptual_model_for_storage"
+    ],
+    [
+      "A Conceptual Model for Storage Unification",
+      "https://jack-vanlightly.com/blog/2025/8/21/a-conceptual-model-for-storage-unification"
+    ]
+  ],
+  [
+    [
       "2025-08-21, 12:24:07",
       "https://lobste.rs/s/cr9eqw/month_ai_bugs_2025"
     ],
@@ -237,16 +247,6 @@
     [
       "Emacs as your video-trimming tool",
       "https://xenodium.com/emacs-as-your-video-trimming-tool"
-    ]
-  ],
-  [
-    [
-      "2025-08-19, 11:14:32",
-      "https://lobste.rs/s/7wwm4h/reserve_first"
-    ],
-    [
-      "Reserve First",
-      "https://matklad.github.io/2025/08/16/reserve-first.html"
     ]
   ]
 ]
