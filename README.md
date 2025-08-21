@@ -16,7 +16,7 @@
 * [2025-08-21, 14:05:10](https://lobste.rs/s/suoszg/d4d4) - [D4d4](https://www.nmichaels.org/musings/d4d4/d4d4/)
 * [2025-08-21, 12:24:07](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025) - [The Month of AI Bugs 2025](https://monthofaibugs.com/)
 * [2025-08-21, 07:31:51](https://lobste.rs/s/sm1y3p/faster_loading_credentials_from) - [Faster loading of credentials from Bitwarden using rbw](https://blog.aleksic.dev/short-note-faster-loading-of-credentials-from-bitwarden-using-rbw)
-* [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product | Carlos Becker](https://carlosbecker.com/posts/building-goreleaser/)
+* [2025-08-21, 04:50:00](https://lobste.rs/s/ywhvfi/building_goreleaser_from_shell_script) - [Building GoReleaser: from shell script to paid product](https://carlosbecker.com/posts/building-goreleaser/)
 * [2025-08-21, 03:08:51](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli) - [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/)
 * [2025-08-20, 21:04:23](https://lobste.rs/s/muv9ja/let_jj_absorb_help_you_keep_clean_commit) - [Let `jj absorb` help you keep a clean commit history](https://www.pauladamsmith.com/blog/2025/08/jj-absorb.html)
 * [2025-08-20, 20:48:01](https://lobste.rs/s/3bsfgs/nasa_s_10_rules_for_safety_critical_code) - [NASA’s 10 Rules for Safety-Critical Code](https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code)
