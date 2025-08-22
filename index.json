@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-22, 16:07:24",
+      "https://lobste.rs/s/u9v6jj/closing_nix_gap_from_environments"
+    ],
+    [
+      "Closing the Nix Gap: From Environments to Packaged Applications for Rust",
+      "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 14:48:27",
       "https://lobste.rs/s/othw2q/go_is_still_not_good"
     ],
@@ -107,16 +117,6 @@
     [
       "The issue of anti-cheat on Linux",
       "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 21:14:16",
-      "https://lobste.rs/s/my8sdy/agent_inference_user_agent_browser_quiz"
-    ],
-    [
-      "Agent Inference - A user-agent / browser quiz",
-      "https://ai.174070135.xyz/"
     ]
   ],
   [
