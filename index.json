@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-22, 17:26:27",
+      "https://lobste.rs/s/lsxzfy/optimizing_our_way_through_metroid"
+    ],
+    [
+      "Optimizing our way through Metroid",
+      "https://antithesis.com/blog/2025/metroid/"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 17:16:03",
       "https://lobste.rs/s/snhdea/w65c832_w65c832_32_bit_6502_fpga"
     ],
@@ -167,16 +177,6 @@
     [
       "Why do software developers love complexity?",
       "https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 19:33:33",
-      "https://lobste.rs/s/e5sio6/using_common_lisp_from_inside_browser"
-    ],
-    [
-      "Using Common Lisp from inside the Browser",
-      "https://turtleware.eu/posts/Using-Common-Lisp-from-inside-the-Browser.html"
     ]
   ],
   [
