@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-22](index.md)
 
+* [2025-08-22, 16:07:24](https://lobste.rs/s/u9v6jj/closing_nix_gap_from_environments) - [Closing the Nix Gap: From Environments to Packaged Applications for Rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 14:48:27](https://lobste.rs/s/othw2q/go_is_still_not_good) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
 * [2025-08-22, 14:38:21](https://lobste.rs/s/cw265v/have_smart_glasses_finally_hit) - [Have smart glasses finally hit an inflection point?](https://torment-nexus.mathewingram.com/have-smart-glasses-finally-hit-an-inflection-point/)
 * [2025-08-22, 14:08:37](https://lobste.rs/s/nhrlya/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
