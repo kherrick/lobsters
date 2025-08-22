@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-22, 14:08:37](https://lobste.rs/s/nhrlya/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head](https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/)
+* [2025-08-22, 13:55:12](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad) - [Lobsters Interview with Matklad](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad)
 * [2025-08-22, 12:24:03](https://lobste.rs/s/62si4z/i_m_too_dumb_for_zig_s_new_io_interface) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 * [2025-08-22, 11:49:52](https://lobste.rs/s/5tcy8c/what_about_using_rel_share_url_expose) - [What about using rel=\"share-url\" to expose sharing intents?](https://shkspr.mobi/blog/2025/08/what-about-using-relshare-url-to-expose-sharing-intents/)
 * [2025-08-22, 10:58:28](https://lobste.rs/s/sufmir/emacs_is_violent_passion) - [Emacs is violent passion](https://mihaiolteanu.me/emacs-is-violent-passion)
@@ -9,7 +11,6 @@
 * [2025-08-22, 05:22:50](https://lobste.rs/s/cfuzzv/introducing_forth_poems) - [Introducing Forth poems](https://youtu.be/YZ4nYqQSyMo)
 * [2025-08-22, 05:20:26](https://lobste.rs/s/hnwcq6/what_hell_is_going_on_right_now) - [What the hell is going on right now?](https://catskull.net/what-the-hell-is-going-on-right-now.html)
 * [2025-08-22, 00:39:07](https://lobste.rs/s/goaf6y/issue_anti_cheat_on_linux) - [The issue of anti-cheat on Linux](https://tulach.cc/the-issue-of-anti-cheat-on-linux/)
-* [2025-08-22, 00:16:30](https://lobste.rs/s/ai2zgo/understanding_go_error_types_pointer_vs) - [Understanding Go Error Types: Pointer vs. Value](https://blog.fillmore-labs.com/posts/errors-1/)
 * [2025-08-21, 21:14:16](https://lobste.rs/s/my8sdy/agent_inference_user_agent_browser_quiz) - [Agent Inference - A user-agent / browser quiz](https://ai.174070135.xyz/)
 * [2025-08-21, 20:03:14](https://lobste.rs/s/ej6pen/grug_design) - [grug.design](https://www.grug.design/know)
 * [2025-08-21, 20:01:00](https://lobste.rs/s/hty9zp/why_do_software_developers_love) - [Why do software developers love complexity?](https://kyrylo.org/software/2025/08/21/why-do-software-developers-love-complexity.html)
@@ -24,7 +25,6 @@
 * [2025-08-21, 12:24:07](https://lobste.rs/s/cr9eqw/month_ai_bugs_2025) - [The Month of AI Bugs 2025](https://monthofaibugs.com/)
 * [2025-08-21, 03:08:51](https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli) - [Optique: Type-safe combinatorial CLI parser for TypeScript](https://optique.dev/)
 * [2025-08-20, 20:30:48](https://lobste.rs/s/qw5iyf/why_are_anime_catgirls_blocking_my_access) - [Why are anime catgirls blocking my access to the Linux kernel?](https://lock.cmpxchg8b.com/anubis.html)
-* [2025-08-20, 18:45:16](https://lobste.rs/s/seffg9/zig_0_15_1_release_notes) - [Zig 0.15.1 Release Notes](https://ziglang.org/download/0.15.1/release-notes.html)
 
 ## [Archives](archives/index.md)
 
