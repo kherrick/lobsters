@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-22, 14:08:37",
+      "https://lobste.rs/s/nhrlya/be_better_programmer_write_little_proofs"
+    ],
+    [
+      "To be a better programmer, write little proofs in your head",
+      "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 13:55:12",
+      "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad"
+    ],
+    [
+      "Lobsters Interview with Matklad",
+      "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 12:24:03",
       "https://lobste.rs/s/62si4z/i_m_too_dumb_for_zig_s_new_io_interface"
     ],
@@ -87,16 +107,6 @@
     [
       "The issue of anti-cheat on Linux",
       "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 00:16:30",
-      "https://lobste.rs/s/ai2zgo/understanding_go_error_types_pointer_vs"
-    ],
-    [
-      "Understanding Go Error Types: Pointer vs. Value",
-      "https://blog.fillmore-labs.com/posts/errors-1/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why are anime catgirls blocking my access to the Linux kernel?",
       "https://lock.cmpxchg8b.com/anubis.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-20, 18:45:16",
-      "https://lobste.rs/s/seffg9/zig_0_15_1_release_notes"
-    ],
-    [
-      "Zig 0.15.1 Release Notes",
-      "https://ziglang.org/download/0.15.1/release-notes.html"
     ]
   ]
 ]
