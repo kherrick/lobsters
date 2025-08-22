@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-22, 17:16:03",
+      "https://lobste.rs/s/snhdea/w65c832_w65c832_32_bit_6502_fpga"
+    ],
+    [
+      "w65c832: W65C832 (32 bit 6502) in an FPGA",
+      "https://github.com/mikeakohn/w65c832"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 17:02:20",
+      "https://lobste.rs/s/rmga0q/bubbletea_rs_rust_implementation"
+    ],
+    [
+      "bubbletea-rs: A rust implementation of Bubbletea",
+      "https://github.com/whit3rabbit/bubbletea-rs"
+    ]
+  ],
+  [
+    [
       "2025-08-22, 16:07:24",
       "https://lobste.rs/s/u9v6jj/closing_nix_gap_from_environments"
     ],
@@ -17,6 +37,16 @@
     [
       "Go is still not good",
       "https://blog.habets.se/2025/07/Go-is-still-not-good.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-22, 14:38:21",
+      "https://lobste.rs/s/cw265v/have_smart_glasses_finally_hit"
+    ],
+    [
+      "Have smart glasses finally hit an inflection point?",
+      "https://torment-nexus.mathewingram.com/have-smart-glasses-finally-hit-an-inflection-point/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2025-08-21, 15:51:48",
-      "https://lobste.rs/s/nhmsd8/adding_my_home_electricity_uptime_status"
-    ],
-    [
-      "adding my home electricity uptime to status.href.cat",
-      "https://aggressivelyparaphrasing.me/2025/08/21/adding-my-home-electricity-uptime-to-status-href-cat/"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 15:25:46",
       "https://lobste.rs/s/wthfwo/ledger_2023"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-08-21, 14:35:13",
-      "https://lobste.rs/s/pnyraf/new_rust_packaging_model"
-    ],
-    [
-      "A New Rust Packaging Model",
-      "https://guix.gnu.org/en/blog/2025/a-new-rust-packaging-model/"
-    ]
-  ],
-  [
-    [
       "2025-08-21, 12:24:07",
       "https://lobste.rs/s/cr9eqw/month_ai_bugs_2025"
     ],
     [
       "The Month of AI Bugs 2025",
       "https://monthofaibugs.com/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 03:08:51",
-      "https://lobste.rs/s/dlobhb/optique_type_safe_combinatorial_cli"
-    ],
-    [
-      "Optique: Type-safe combinatorial CLI parser for TypeScript",
-      "https://optique.dev/"
     ]
   ],
   [
