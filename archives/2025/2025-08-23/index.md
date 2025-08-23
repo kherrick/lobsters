@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 12:53:15](https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 11:38:46](https://lobste.rs/s/fs6bkk/rethinking_linux_cloud_stack_for) - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 * [2025-08-23, 09:17:30](https://lobste.rs/s/fqw11d/developer_s_block) - [Developer's block](https://underlap.org/developers-block/)
 * [2025-08-23, 07:26:40](https://lobste.rs/s/aqw2si/understanding_jujutsu_bookmarks) - [Understanding Jujutsu bookmarks](https://neugierig.org/software/blog/2025/08/jj-bookmarks.html)
