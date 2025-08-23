@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-08-23, 13:08:29",
+      "https://lobste.rs/s/loaaja/anyblox_framework_for_self_decoding"
+    ],
+    [
+      "AnyBlox: A Framework for Self-Decoding Datasets",
+      "https://gienieczko.com/anyblox-paper"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 13:07:33",
       "https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal"
     ],
@@ -237,16 +247,6 @@
     [
       "I'm too dumb for Zig's new IO interface",
       "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 00:39:07",
-      "https://lobste.rs/s/goaf6y/issue_anti_cheat_on_linux"
-    ],
-    [
-      "The issue of anti-cheat on Linux",
-      "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
     ]
   ]
 ]
