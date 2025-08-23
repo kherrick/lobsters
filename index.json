@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 18:32:46",
+      "https://lobste.rs/s/cts0cb/microdot_impossibly_small_web_framework"
+    ],
+    [
+      "microdot: The impossibly small web framework for Python and MicroPython",
+      "https://github.com/miguelgrinberg/microdot"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 14:23:14",
       "https://lobste.rs/s/krs8sm/sxo_optimized_server_side_jsx_build"
     ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2025-08-23, 13:08:29",
+      "https://lobste.rs/s/loaaja/anyblox_framework_for_self_decoding"
+    ],
+    [
+      "AnyBlox: A Framework for Self-Decoding Datasets",
+      "https://gienieczko.com/anyblox-paper"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 13:07:33",
       "https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal"
     ],
@@ -67,16 +87,6 @@
     [
       "RFC 9839 and Bad Unicode",
       "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 11:38:46",
-      "https://lobste.rs/s/fs6bkk/rethinking_linux_cloud_stack_for"
-    ],
-    [
-      "Rethinking the Linux cloud stack for confidential VMs",
-      "https://lwn.net/Articles/1030818/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "bubbletea-rs: A rust implementation of Bubbletea",
       "https://github.com/whit3rabbit/bubbletea-rs"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 16:07:24",
-      "https://lobste.rs/s/u9v6jj/closing_nix_gap_from_environments"
-    ],
-    [
-      "Closing the Nix Gap: From Environments to Packaged Applications for Rust",
-      "https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/"
     ]
   ],
   [
