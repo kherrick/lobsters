@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-23, 23:01:26](https://lobste.rs/s/hwlosr/debdelta) - [debdelta](https://debdelta.debian.net/)
 * [2025-08-23, 21:12:32](https://lobste.rs/s/gndd4i/tamara_towards_triple_modular) - [TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys](https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/)
 * [2025-08-23, 21:04:51](https://lobste.rs/s/tht2qd/webr_r_browser) - [WebR - R in the Browser](https://docs.r-wasm.org/webr/latest/)
 * [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
@@ -11,7 +12,6 @@
 * [2025-08-23, 13:08:38](https://lobste.rs/s/57w3yx/ai_chatbots_undermining_enlightenment) - [AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment)
 * [2025-08-23, 13:07:33](https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal) - [rue: A programming language that is a minimal subset of Rust](https://github.com/steveklabnik/rue)
 * [2025-08-23, 12:53:15](https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
-* [2025-08-23, 11:38:46](https://lobste.rs/s/fs6bkk/rethinking_linux_cloud_stack_for) - [Rethinking the Linux cloud stack for confidential VMs](https://lwn.net/Articles/1030818/)
 * [2025-08-23, 09:17:30](https://lobste.rs/s/fqw11d/developer_s_block) - [Developer's block](https://underlap.org/developers-block/)
 * [2025-08-23, 07:26:40](https://lobste.rs/s/aqw2si/understanding_jujutsu_bookmarks) - [Understanding Jujutsu bookmarks](https://neugierig.org/software/blog/2025/08/jj-bookmarks.html)
 * [2025-08-23, 03:08:06](https://lobste.rs/s/tbo1nr/materialized_views_are_obviously_useful) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 23:01:26](https://lobste.rs/s/hwlosr/debdelta) - [debdelta](https://debdelta.debian.net/)
 * [2025-08-23, 21:12:32](https://lobste.rs/s/gndd4i/tamara_towards_triple_modular) - [TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys](https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/)
 * [2025-08-23, 21:04:51](https://lobste.rs/s/tht2qd/webr_r_browser) - [WebR - R in the Browser](https://docs.r-wasm.org/webr/latest/)
 * [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
