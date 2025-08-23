@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 18:32:46](https://lobste.rs/s/cts0cb/microdot_impossibly_small_web_framework) - [microdot: The impossibly small web framework for Python and MicroPython](https://github.com/miguelgrinberg/microdot)
 * [2025-08-23, 14:23:14](https://lobste.rs/s/krs8sm/sxo_optimized_server_side_jsx_build) - [SXO :: Optimized Server-Side JSX. Build Simple. Build Fast](https://github.com/gc-victor/sxo)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
 * [2025-08-23, 13:59:40](https://lobste.rs/s/gtooez/retry_loop_retry) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:37:04](https://lobste.rs/s/j0uqee/io_uring_ktls_rust_for_zero_syscall_https) - [io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 * [2025-08-23, 13:08:38](https://lobste.rs/s/57w3yx/ai_chatbots_undermining_enlightenment) - [AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment)
-* [2025-08-23, 13:08:29](https://lobste.rs/s/loaaja/anyblox_framework_for_self_decoding) - [AnyBlox: A Framework for Self-Decoding Datasets](https://gienieczko.com/anyblox-paper)
 * [2025-08-23, 13:07:33](https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal) - [rue: A programming language that is a minimal subset of Rust](https://github.com/steveklabnik/rue)
 * [2025-08-23, 12:53:15](https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 09:17:30](https://lobste.rs/s/fqw11d/developer_s_block) - [Developer's block](https://underlap.org/developers-block/)

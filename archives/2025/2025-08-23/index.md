@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-23](index.md)
 
+* [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 18:32:46](https://lobste.rs/s/cts0cb/microdot_impossibly_small_web_framework) - [microdot: The impossibly small web framework for Python and MicroPython](https://github.com/miguelgrinberg/microdot)
 * [2025-08-23, 14:23:14](https://lobste.rs/s/krs8sm/sxo_optimized_server_side_jsx_build) - [SXO :: Optimized Server-Side JSX. Build Simple. Build Fast](https://github.com/gc-victor/sxo)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
