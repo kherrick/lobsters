@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 13:59:40",
+      "https://lobste.rs/s/gtooez/retry_loop_retry"
+    ],
+    [
+      "Retry Loop Retry",
+      "https://matklad.github.io/2025/08/23/retry-loop-retry.html"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 13:37:04",
       "https://lobste.rs/s/j0uqee/io_uring_ktls_rust_for_zero_syscall_https"
     ],
@@ -227,16 +237,6 @@
     [
       "I'm too dumb for Zig's new IO interface",
       "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 05:20:26",
-      "https://lobste.rs/s/hnwcq6/what_hell_is_going_on_right_now"
-    ],
-    [
-      "What the hell is going on right now?",
-      "https://catskull.net/what-the-hell-is-going-on-right-now.html"
     ]
   ],
   [
