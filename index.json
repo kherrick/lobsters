@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-08-23, 13:08:38",
+      "https://lobste.rs/s/57w3yx/ai_chatbots_undermining_enlightenment"
+    ],
+    [
+      "AI Chatbots Undermining the Enlightenment",
+      "https://maggieappleton.com/ai-enlightenment"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 13:08:29",
+      "https://lobste.rs/s/loaaja/anyblox_framework_for_self_decoding"
+    ],
+    [
+      "AnyBlox: A Framework for Self-Decoding Datasets",
+      "https://gienieczko.com/anyblox-paper"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 13:07:33",
+      "https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal"
+    ],
+    [
+      "rue: A programming language that is a minimal subset of Rust",
+      "https://github.com/steveklabnik/rue"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 12:53:15",
       "https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode"
     ],
@@ -67,16 +97,6 @@
     [
       "On the use of LLM assistants for kernel development",
       "https://lwn.net/Articles/1032612/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 22:44:16",
-      "https://lobste.rs/s/roq4rt/adventures_state_space"
-    ],
-    [
-      "Adventures in State Space",
-      "https://www.youtube.com/watch?v=YGLNyHd2w10"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-08-22, 06:22:44",
-      "https://lobste.rs/s/tkydi6/baby_paradox_haskell"
-    ],
-    [
-      "The Baby Paradox in Haskell",
-      "https://blog.jle.im/entry/the-baby-paradox-in-haskell.html"
-    ]
-  ],
-  [
-    [
       "2025-08-22, 05:20:26",
       "https://lobste.rs/s/hnwcq6/what_hell_is_going_on_right_now"
     ],
@@ -237,16 +247,6 @@
     [
       "The issue of anti-cheat on Linux",
       "https://tulach.cc/the-issue-of-anti-cheat-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 20:03:14",
-      "https://lobste.rs/s/ej6pen/grug_design"
-    ],
-    [
-      "grug.design",
-      "https://www.grug.design/know"
     ]
   ]
 ]
