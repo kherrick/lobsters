@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-23, 13:37:04](https://lobste.rs/s/j0uqee/io_uring_ktls_rust_for_zero_syscall_https) - [io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
 * [2025-08-23, 13:08:38](https://lobste.rs/s/57w3yx/ai_chatbots_undermining_enlightenment) - [AI Chatbots Undermining the Enlightenment](https://maggieappleton.com/ai-enlightenment)
 * [2025-08-23, 13:08:29](https://lobste.rs/s/loaaja/anyblox_framework_for_self_decoding) - [AnyBlox: A Framework for Self-Decoding Datasets](https://gienieczko.com/anyblox-paper)
 * [2025-08-23, 13:07:33](https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal) - [rue: A programming language that is a minimal subset of Rust](https://github.com/steveklabnik/rue)
@@ -16,7 +17,6 @@
 * [2025-08-22, 19:04:51](https://lobste.rs/s/xltjpn/nitro_tiny_flexible_init_system_process) - [nitro: a tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 18:51:57](https://lobste.rs/s/kl2nwa/first_moq_cdn_cloudflare) - [The First MoQ CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 17:26:27](https://lobste.rs/s/lsxzfy/optimizing_our_way_through_metroid) - [Optimizing our way through Metroid](https://antithesis.com/blog/2025/metroid/)
-* [2025-08-22, 17:16:03](https://lobste.rs/s/snhdea/w65c832_w65c832_32_bit_6502_fpga) - [w65c832: W65C832 (32 bit 6502) in an FPGA](https://github.com/mikeakohn/w65c832)
 * [2025-08-22, 17:02:20](https://lobste.rs/s/rmga0q/bubbletea_rs_rust_implementation) - [bubbletea-rs: A rust implementation of Bubbletea](https://github.com/whit3rabbit/bubbletea-rs)
 * [2025-08-22, 16:07:24](https://lobste.rs/s/u9v6jj/closing_nix_gap_from_environments) - [Closing the Nix Gap: From Environments to Packaged Applications for Rust](https://devenv.sh/blog/2025/08/22/closing-the-nix-gap-from-environments-to-packaged-applications-for-rust/)
 * [2025-08-22, 14:48:27](https://lobste.rs/s/othw2q/go_is_still_not_good) - [Go is still not good](https://blog.habets.se/2025/07/Go-is-still-not-good.html)
