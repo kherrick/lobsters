@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 09:17:30",
+      "https://lobste.rs/s/fqw11d/developer_s_block"
+    ],
+    [
+      "Developer's block",
+      "https://underlap.org/developers-block/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 07:26:40",
       "https://lobste.rs/s/aqw2si/understanding_jujutsu_bookmarks"
     ],
@@ -237,16 +247,6 @@
     [
       "the core of rust",
       "https://jyn.dev/the-core-of-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-08-21, 14:47:43",
-      "https://lobste.rs/s/s4jdny/my_other_email_client_is_daemon"
-    ],
-    [
-      "My other email client is a daemon",
-      "https://feyor.sh/blog/my-other-email-client-is-a-mail-daemon/"
     ]
   ]
 ]
