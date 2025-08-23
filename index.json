@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 11:38:46",
+      "https://lobste.rs/s/fs6bkk/rethinking_linux_cloud_stack_for"
+    ],
+    [
+      "Rethinking the Linux cloud stack for confidential VMs",
+      "https://lwn.net/Articles/1030818/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 09:17:30",
       "https://lobste.rs/s/fqw11d/developer_s_block"
     ],
@@ -47,16 +57,6 @@
     [
       "On the use of LLM assistants for kernel development",
       "https://lwn.net/Articles/1032612/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 22:44:16",
-      "https://lobste.rs/s/roq4rt/adventures_state_space"
-    ],
-    [
-      "Adventures in State Space",
-      "https://www.youtube.com/watch?v=YGLNyHd2w10"
     ]
   ],
   [
