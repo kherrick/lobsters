@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-23, 14:23:14",
+      "https://lobste.rs/s/krs8sm/sxo_optimized_server_side_jsx_build"
+    ],
+    [
+      "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
+      "https://github.com/gc-victor/sxo"
+    ]
+  ],
+  [
+    [
+      "2025-08-23, 14:22:12",
+      "https://lobste.rs/s/7yj16h/big_o"
+    ],
+    [
+      "Big O",
+      "https://samwho.dev/big-o/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 13:59:40",
       "https://lobste.rs/s/gtooez/retry_loop_retry"
     ],
@@ -27,26 +47,6 @@
     [
       "AI Chatbots Undermining the Enlightenment",
       "https://maggieappleton.com/ai-enlightenment"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 13:08:29",
-      "https://lobste.rs/s/loaaja/anyblox_framework_for_self_decoding"
-    ],
-    [
-      "AnyBlox: A Framework for Self-Decoding Datasets",
-      "https://gienieczko.com/anyblox-paper"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 13:07:33",
-      "https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal"
-    ],
-    [
-      "rue: A programming language that is a minimal subset of Rust",
-      "https://github.com/steveklabnik/rue"
     ]
   ],
   [
