@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-23, 23:01:26",
+      "https://lobste.rs/s/hwlosr/debdelta"
+    ],
+    [
+      "debdelta",
+      "https://debdelta.debian.net/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 21:12:32",
       "https://lobste.rs/s/gndd4i/tamara_towards_triple_modular"
     ],
@@ -107,16 +117,6 @@
     [
       "RFC 9839 and Bad Unicode",
       "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 11:38:46",
-      "https://lobste.rs/s/fs6bkk/rethinking_linux_cloud_stack_for"
-    ],
-    [
-      "Rethinking the Linux cloud stack for confidential VMs",
-      "https://lwn.net/Articles/1030818/"
     ]
   ],
   [
