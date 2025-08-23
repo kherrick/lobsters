@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-08-23, 11:38:46",
+      "https://lobste.rs/s/fs6bkk/rethinking_linux_cloud_stack_for"
+    ],
+    [
+      "Rethinking the Linux cloud stack for confidential VMs",
+      "https://lwn.net/Articles/1030818/"
+    ]
+  ],
+  [
+    [
       "2025-08-23, 09:17:30",
       "https://lobste.rs/s/fqw11d/developer_s_block"
     ],
@@ -217,16 +227,6 @@
     [
       "bubbletea-rs: A rust implementation of Bubbletea",
       "https://github.com/whit3rabbit/bubbletea-rs"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 14:48:27",
-      "https://lobste.rs/s/othw2q/go_is_still_not_good"
-    ],
-    [
-      "Go is still not good",
-      "https://blog.habets.se/2025/07/Go-is-still-not-good.html"
     ]
   ],
   [
