@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 11:58:10",
+      "https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns"
+    ],
+    [
+      "A German ISP tampered with their DNS - specifically to sabotage my website",
+      "https://lina.sh/blog/telefonica-sabotages-me"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 10:02:09",
       "https://lobste.rs/s/bdlpay/great_giana_sisters_commodore_64"
     ],
@@ -167,16 +177,6 @@
     [
       "Retry Loop Retry",
       "https://matklad.github.io/2025/08/23/retry-loop-retry.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 13:37:04",
-      "https://lobste.rs/s/j0uqee/io_uring_ktls_rust_for_zero_syscall_https"
-    ],
-    [
-      "io_uring, kTLS and Rust for zero syscall HTTPS server",
-      "https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html"
     ]
   ],
   [
