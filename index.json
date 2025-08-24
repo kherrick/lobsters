@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 06:54:10",
+      "https://lobste.rs/s/afealr/seed_interactive_software_environment"
+    ],
+    [
+      "seed: Interactive software environment based on Common Lisp",
+      "https://github.com/phantomics/seed"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 06:36:02",
       "https://lobste.rs/s/tnmzkg/neural_nets_vs_cellular_automata"
     ],
@@ -217,16 +227,6 @@
     [
       "The First MoQ CDN: Cloudflare",
       "https://moq.dev/blog/first-cdn/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 17:02:20",
-      "https://lobste.rs/s/rmga0q/bubbletea_rs_rust_implementation"
-    ],
-    [
-      "bubbletea-rs: A rust implementation of Bubbletea",
-      "https://github.com/whit3rabbit/bubbletea-rs"
     ]
   ],
   [
