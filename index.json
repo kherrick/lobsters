@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 22:51:23",
+      "https://lobste.rs/s/cmbnce/marshal_madness_brief_history_ruby"
+    ],
+    [
+      "Marshal madness: A brief history of Ruby deserialization exploits",
+      "https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 21:16:35",
       "https://lobste.rs/s/cya9ki/i_don_t_like_imports"
     ],
@@ -187,16 +197,6 @@
     [
       "how to build a coding agent",
       "https://ghuntley.com/agent/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 06:54:10",
-      "https://lobste.rs/s/afealr/seed_interactive_software_environment"
-    ],
-    [
-      "seed: Interactive software environment based on Common Lisp",
-      "https://github.com/phantomics/seed"
     ]
   ],
   [
