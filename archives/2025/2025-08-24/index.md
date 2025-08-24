@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 22:51:23](https://lobste.rs/s/cmbnce/marshal_madness_brief_history_ruby) - [Marshal madness: A brief history of Ruby deserialization exploits](https://blog.trailofbits.com/2025/08/20/marshal-madness-a-brief-history-of-ruby-deserialization-exploits/)
 * [2025-08-24, 21:16:35](https://lobste.rs/s/cya9ki/i_don_t_like_imports) - [I Don't Like Imports](https://kevincox.ca/2025/07/20/no-imports/)
 * [2025-08-24, 20:50:28](https://lobste.rs/s/etxhbj/automating_pre_push_checks_with_jujutsu) - [Automating Pre-Push Checks with Jujutsu](https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/)
 * [2025-08-24, 20:39:15](https://lobste.rs/s/ypffje/anubis_offload_userscript_offload) - [anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code](https://github.com/DavidBuchanan314/anubis_offload)
