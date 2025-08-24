@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 20:50:28",
+      "https://lobste.rs/s/etxhbj/automating_pre_push_checks_with_jujutsu"
+    ],
+    [
+      "Automating Pre-Push Checks with Jujutsu",
+      "https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 20:39:15",
       "https://lobste.rs/s/ypffje/anubis_offload_userscript_offload"
     ],
@@ -227,16 +237,6 @@
     [
       "Big O",
       "https://samwho.dev/big-o/"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 13:59:40",
-      "https://lobste.rs/s/gtooez/retry_loop_retry"
-    ],
-    [
-      "Retry Loop Retry",
-      "https://matklad.github.io/2025/08/23/retry-loop-retry.html"
     ]
   ],
   [
