@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 14:01:23",
+      "https://lobste.rs/s/lpiufb/interview_with_jon_corbett_cree"
+    ],
+    [
+      "Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework",
+      "https://esoteric.codes/blog/jon-corbett"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 13:21:23",
       "https://lobste.rs/s/8tycd0/surrealdb_is_sacrificing_data"
     ],
@@ -37,16 +47,6 @@
     [
       "The Great Giana Sisters (COMMODORE 64)",
       "http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 09:59:10",
-      "https://lobste.rs/s/d1mgvn/explanation_linux_kernel_memory"
-    ],
-    [
-      "Explanation of the Linux-Kernel Memory Consistency Model",
-      "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
     ]
   ],
   [
