@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 17:25:07](https://lobste.rs/s/9cuaig/update_on_my_racket_exit) - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 16:42:36](https://lobste.rs/s/f8wwq6/introducing_zod_codecs) - [Introducing Zod Codecs](https://colinhacks.com/essays/introducing-zod-codecs)
 * [2025-08-24, 16:27:18](https://lobste.rs/s/htxzoy/which_programming_language_should_i) - [Which Programming Language Should I Teach First?](https://parentheticallyspeaking.org/articles/first-language-wrong-question/)
 * [2025-08-24, 15:42:41](https://lobste.rs/s/2mnmwq/true_names_matter_c) - [True names matter in C++](https://quuxplusone.github.io/blog/2025/08/01/true-names/)
@@ -17,7 +18,6 @@
 * [2025-08-24, 06:54:10](https://lobste.rs/s/afealr/seed_interactive_software_environment) - [seed: Interactive software environment based on Common Lisp](https://github.com/phantomics/seed)
 * [2025-08-24, 04:36:40](https://lobste.rs/s/dsboce/i_hacked_monster_energy_uncovered_their) - [I Hacked Monster Energy and Uncovered Their Employee Training Material](https://bobdahacker.com/blog/monster-energy)
 * [2025-08-24, 04:06:10](https://lobste.rs/s/tjv7ha/line_scan_camera_image_processing_train) - [Line scan camera image processing (train photography)](https://daniel.lawrence.lu/blog/y2025m09d21/)
-* [2025-08-24, 00:17:48](https://lobste.rs/s/b5w9va/reverse_engineering_roadsearch_plus) - [Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU](http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html)
 * [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
 * [2025-08-23, 13:59:40](https://lobste.rs/s/gtooez/retry_loop_retry) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)

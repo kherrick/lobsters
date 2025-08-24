@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 17:25:07](https://lobste.rs/s/9cuaig/update_on_my_racket_exit) - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 16:42:36](https://lobste.rs/s/f8wwq6/introducing_zod_codecs) - [Introducing Zod Codecs](https://colinhacks.com/essays/introducing-zod-codecs)
 * [2025-08-24, 16:27:18](https://lobste.rs/s/htxzoy/which_programming_language_should_i) - [Which Programming Language Should I Teach First?](https://parentheticallyspeaking.org/articles/first-language-wrong-question/)
 * [2025-08-24, 15:42:41](https://lobste.rs/s/2mnmwq/true_names_matter_c) - [True names matter in C++](https://quuxplusone.github.io/blog/2025/08/01/true-names/)
