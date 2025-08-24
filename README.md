@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 20:50:28](https://lobste.rs/s/etxhbj/automating_pre_push_checks_with_jujutsu) - [Automating Pre-Push Checks with Jujutsu](https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/)
 * [2025-08-24, 20:39:15](https://lobste.rs/s/ypffje/anubis_offload_userscript_offload) - [anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code](https://github.com/DavidBuchanan314/anubis_offload)
 * [2025-08-24, 20:25:14](https://lobste.rs/s/lal22i/kruci_post_mortem_ui_library) - [kruci: Post-mortem of a UI library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-08-24, 18:49:56](https://lobste.rs/s/dqvkes/frogmouth_markdown_browser_for_your) - [frogmouth: A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
@@ -23,7 +24,6 @@
 * [2025-08-24, 04:06:10](https://lobste.rs/s/tjv7ha/line_scan_camera_image_processing_train) - [Line scan camera image processing (train photography)](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
-* [2025-08-23, 13:59:40](https://lobste.rs/s/gtooez/retry_loop_retry) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:07:33](https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal) - [rue: A programming language that is a minimal subset of Rust](https://github.com/steveklabnik/rue)
 
 ## [Archives](archives/index.md)

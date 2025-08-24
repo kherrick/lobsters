@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 20:50:28](https://lobste.rs/s/etxhbj/automating_pre_push_checks_with_jujutsu) - [Automating Pre-Push Checks with Jujutsu](https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/)
 * [2025-08-24, 20:39:15](https://lobste.rs/s/ypffje/anubis_offload_userscript_offload) - [anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code](https://github.com/DavidBuchanan314/anubis_offload)
 * [2025-08-24, 20:25:14](https://lobste.rs/s/lal22i/kruci_post_mortem_ui_library) - [kruci: Post-mortem of a UI library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-08-24, 18:49:56](https://lobste.rs/s/dqvkes/frogmouth_markdown_browser_for_your) - [frogmouth: A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
