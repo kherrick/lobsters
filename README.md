@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
+* [2025-08-24, 15:07:06](https://lobste.rs/s/diaied/good_vibes_claude_code_case_study) - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000)
 * [2025-08-24, 14:01:23](https://lobste.rs/s/lpiufb/interview_with_jon_corbett_cree) - [Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework](https://esoteric.codes/blog/jon-corbett)
 * [2025-08-24, 13:21:23](https://lobste.rs/s/8tycd0/surrealdb_is_sacrificing_data) - [SurrealDB is sacrificing data durability to make benchmarks look better](https://blog.cf8.gg/surrealdbs-ch/)
 * [2025-08-24, 12:26:12](https://lobste.rs/s/q7fels/fast_bytecode_vm_for_arithmetic_compiler) - [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/)
 * [2025-08-24, 11:58:10](https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns) - [A German ISP tampered with their DNS - specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:02:09](https://lobste.rs/s/bdlpay/great_giana_sisters_commodore_64) - [The Great Giana Sisters (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html)
-* [2025-08-24, 09:33:49](https://lobste.rs/s/xwnxe8/why_was_apache_kafka_created) - [Why Was Apache Kafka Created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-24, 08:59:09](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend)
 * [2025-08-24, 08:02:30](https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix) - [Secret Management on NixOS with sops-nix](https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/)
 * [2025-08-24, 07:58:36](https://lobste.rs/s/rivvjq/how_build_coding_agent) - [how to build a coding agent](https://ghuntley.com/agent/)
@@ -23,7 +24,6 @@
 * [2025-08-23, 12:53:15](https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
 * [2025-08-23, 07:26:40](https://lobste.rs/s/aqw2si/understanding_jujutsu_bookmarks) - [Understanding Jujutsu bookmarks](https://neugierig.org/software/blog/2025/08/jj-bookmarks.html)
 * [2025-08-23, 03:08:06](https://lobste.rs/s/tbo1nr/materialized_views_are_obviously_useful) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
-* [2025-08-22, 20:03:05](https://lobste.rs/s/ysmsfu/no_google_did_not_unilaterally_decide) - [No, Google Did Not Unilaterally Decide to Kill XSLT](https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/)
 * [2025-08-22, 13:55:12](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad) - [Lobsters Interview with Matklad](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad)
 
 ## [Archives](archives/index.md)

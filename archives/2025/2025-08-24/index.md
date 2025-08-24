@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
+* [2025-08-24, 15:07:06](https://lobste.rs/s/diaied/good_vibes_claude_code_case_study) - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000)
 * [2025-08-24, 14:01:23](https://lobste.rs/s/lpiufb/interview_with_jon_corbett_cree) - [Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework](https://esoteric.codes/blog/jon-corbett)
 * [2025-08-24, 13:21:23](https://lobste.rs/s/8tycd0/surrealdb_is_sacrificing_data) - [SurrealDB is sacrificing data durability to make benchmarks look better](https://blog.cf8.gg/surrealdbs-ch/)
 * [2025-08-24, 12:26:12](https://lobste.rs/s/q7fels/fast_bytecode_vm_for_arithmetic_compiler) - [A Fast Bytecode VM for Arithmetic: The Compiler](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm-compiler/)
