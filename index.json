@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-24, 08:02:30",
+      "https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix"
+    ],
+    [
+      "Secret Management on NixOS with sops-nix",
+      "https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 07:58:36",
+      "https://lobste.rs/s/rivvjq/how_build_coding_agent"
+    ],
+    [
+      "how to build a coding agent",
+      "https://ghuntley.com/agent/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 06:54:10",
       "https://lobste.rs/s/afealr/seed_interactive_software_environment"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-23, 09:17:30",
-      "https://lobste.rs/s/fqw11d/developer_s_block"
-    ],
-    [
-      "Developer's block",
-      "https://underlap.org/developers-block/"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 07:26:40",
       "https://lobste.rs/s/aqw2si/understanding_jujutsu_bookmarks"
     ],
@@ -207,16 +217,6 @@
     [
       "No, Google Did Not Unilaterally Decide to Kill XSLT",
       "https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 19:30:58",
-      "https://lobste.rs/s/pc87c0/why_was_apache_kafka_created"
-    ],
-    [
-      "Why Was Apache Kafka Created?",
-      "https://bigdatastream.substack.com/p/why-was-apache-kafka-created"
     ]
   ],
   [
