@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 15:42:41",
+      "https://lobste.rs/s/2mnmwq/true_names_matter_c"
+    ],
+    [
+      "True names matter in C++",
+      "https://quuxplusone.github.io/blog/2025/08/01/true-names/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 15:38:42",
       "https://lobste.rs/s/ozqdi6/sqlite_with_wal_doesn_t_do_fsync_on_each"
     ],
@@ -237,16 +247,6 @@
     [
       "Materialized views are obviously useful",
       "https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 13:55:12",
-      "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad"
-    ],
-    [
-      "Lobsters Interview with Matklad",
-      "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad"
     ]
   ]
 ]
