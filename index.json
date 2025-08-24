@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 20:39:15",
+      "https://lobste.rs/s/ypffje/anubis_offload_userscript_offload"
+    ],
+    [
+      "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
+      "https://github.com/DavidBuchanan314/anubis_offload"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 20:25:14",
       "https://lobste.rs/s/lal22i/kruci_post_mortem_ui_library"
     ],
@@ -237,16 +247,6 @@
     [
       "rue: A programming language that is a minimal subset of Rust",
       "https://github.com/steveklabnik/rue"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 12:53:15",
-      "https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode"
-    ],
-    [
-      "RFC 9839 and Bad Unicode",
-      "https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839"
     ]
   ]
 ]
