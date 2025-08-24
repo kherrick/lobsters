@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 04:36:40](https://lobste.rs/s/dsboce/i_hacked_monster_energy_uncovered_their) - [I Hacked Monster Energy and Uncovered Their Employee Training Material](https://bobdahacker.com/blog/monster-energy)
 * [2025-08-24, 04:06:10](https://lobste.rs/s/tjv7ha/line_scan_camera_image_processing_train) - [Line scan camera image processing (train photography)](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-24, 00:17:48](https://lobste.rs/s/b5w9va/reverse_engineering_roadsearch_plus) - [Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU](http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html)
 * [2025-08-23, 23:01:26](https://lobste.rs/s/hwlosr/debdelta) - [debdelta](https://debdelta.debian.net/)
@@ -19,7 +20,6 @@
 * [2025-08-23, 03:08:06](https://lobste.rs/s/tbo1nr/materialized_views_are_obviously_useful) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
 * [2025-08-23, 01:14:05](https://lobste.rs/s/sxk1le/9_go_test_assertions_i_use_why) - [The 9 Go test assertions I use (and why)](https://www.alexedwards.net/blog/the-9-go-test-assertions-i-use)
 * [2025-08-22, 20:03:05](https://lobste.rs/s/ysmsfu/no_google_did_not_unilaterally_decide) - [No, Google Did Not Unilaterally Decide to Kill XSLT](https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/)
-* [2025-08-22, 19:52:41](https://lobste.rs/s/0ktx6s/string_formatting_library_65_lines_c) - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
 * [2025-08-22, 19:30:58](https://lobste.rs/s/pc87c0/why_was_apache_kafka_created) - [Why Was Apache Kafka Created?](https://bigdatastream.substack.com/p/why-was-apache-kafka-created)
 * [2025-08-22, 18:51:57](https://lobste.rs/s/kl2nwa/first_moq_cdn_cloudflare) - [The First MoQ CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 17:02:20](https://lobste.rs/s/rmga0q/bubbletea_rs_rust_implementation) - [bubbletea-rs: A rust implementation of Bubbletea](https://github.com/whit3rabbit/bubbletea-rs)
