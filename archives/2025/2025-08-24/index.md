@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 15:38:42](https://lobste.rs/s/ozqdi6/sqlite_with_wal_doesn_t_do_fsync_on_each) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
 * [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
 * [2025-08-24, 15:07:06](https://lobste.rs/s/diaied/good_vibes_claude_code_case_study) - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000)
 * [2025-08-24, 14:01:23](https://lobste.rs/s/lpiufb/interview_with_jon_corbett_cree) - [Interview with Jon Corbett: Cree#, Ancestral Code, and an Indigenous Computing Framework](https://esoteric.codes/blog/jon-corbett)
