@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 04:06:10](https://lobste.rs/s/tjv7ha/line_scan_camera_image_processing_train) - [Line scan camera image processing (train photography)](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-24, 00:17:48](https://lobste.rs/s/b5w9va/reverse_engineering_roadsearch_plus) - [Reverse-engineering Roadsearch Plus, or, roadgeeking with an 8-bit CPU](http://oldvcr.blogspot.com/2025/08/make-your-apple-ii-or-commodore-64.html)
 * [2025-08-23, 23:01:26](https://lobste.rs/s/hwlosr/debdelta) - [debdelta](https://debdelta.debian.net/)
 * [2025-08-23, 21:12:32](https://lobste.rs/s/gndd4i/tamara_towards_triple_modular) - [TaMaRa: Towards a Triple Modular Redundancy Pass for Yosys](https://blog.yosyshq.com/p/tamara-towards-a-triple-modular-redundancy-pass-for-yosys/)
@@ -20,7 +21,6 @@
 * [2025-08-22, 20:03:05](https://lobste.rs/s/ysmsfu/no_google_did_not_unilaterally_decide) - [No, Google Did Not Unilaterally Decide to Kill XSLT](https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/)
 * [2025-08-22, 19:52:41](https://lobste.rs/s/0ktx6s/string_formatting_library_65_lines_c) - [A string formatting library in 65 lines of C++](https://riki.house/fmt)
 * [2025-08-22, 19:30:58](https://lobste.rs/s/pc87c0/why_was_apache_kafka_created) - [Why Was Apache Kafka Created?](https://bigdatastream.substack.com/p/why-was-apache-kafka-created)
-* [2025-08-22, 19:04:51](https://lobste.rs/s/xltjpn/nitro_tiny_flexible_init_system_process) - [nitro: a tiny but flexible init system and process supervisor](https://git.vuxu.org/nitro/about/)
 * [2025-08-22, 18:51:57](https://lobste.rs/s/kl2nwa/first_moq_cdn_cloudflare) - [The First MoQ CDN: Cloudflare](https://moq.dev/blog/first-cdn/)
 * [2025-08-22, 17:02:20](https://lobste.rs/s/rmga0q/bubbletea_rs_rust_implementation) - [bubbletea-rs: A rust implementation of Bubbletea](https://github.com/whit3rabbit/bubbletea-rs)
 * [2025-08-22, 13:55:12](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad) - [Lobsters Interview with Matklad](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad)
