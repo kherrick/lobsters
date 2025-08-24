@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 16:42:36",
+      "https://lobste.rs/s/f8wwq6/introducing_zod_codecs"
+    ],
+    [
+      "Introducing Zod Codecs",
+      "https://colinhacks.com/essays/introducing-zod-codecs"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 16:27:18",
       "https://lobste.rs/s/htxzoy/which_programming_language_should_i"
     ],
@@ -177,16 +187,6 @@
     [
       "Optimizing FizzBuzz in Rust",
       "https://github.com/nrposner/fizzcrate"
-    ]
-  ],
-  [
-    [
-      "2025-08-23, 18:32:46",
-      "https://lobste.rs/s/cts0cb/microdot_impossibly_small_web_framework"
-    ],
-    [
-      "microdot: The impossibly small web framework for Python and MicroPython",
-      "https://github.com/miguelgrinberg/microdot"
     ]
   ],
   [
