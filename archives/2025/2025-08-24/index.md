@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 10:02:09](https://lobste.rs/s/bdlpay/great_giana_sisters_commodore_64) - [The Great Giana Sisters (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html)
+* [2025-08-24, 09:59:10](https://lobste.rs/s/d1mgvn/explanation_linux_kernel_memory) - [Explanation of the Linux-Kernel Memory Consistency Model](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:33:49](https://lobste.rs/s/xwnxe8/why_was_apache_kafka_created) - [Why Was Apache Kafka Created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-24, 08:59:09](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend)
 * [2025-08-24, 08:02:30](https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix) - [Secret Management on NixOS with sops-nix](https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/)

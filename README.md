@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 10:02:09](https://lobste.rs/s/bdlpay/great_giana_sisters_commodore_64) - [The Great Giana Sisters (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html)
+* [2025-08-24, 09:59:10](https://lobste.rs/s/d1mgvn/explanation_linux_kernel_memory) - [Explanation of the Linux-Kernel Memory Consistency Model](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:33:49](https://lobste.rs/s/xwnxe8/why_was_apache_kafka_created) - [Why Was Apache Kafka Created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
 * [2025-08-24, 08:59:09](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend)
 * [2025-08-24, 08:02:30](https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix) - [Secret Management on NixOS with sops-nix](https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/)
@@ -13,7 +15,6 @@
 * [2025-08-23, 21:04:51](https://lobste.rs/s/tht2qd/webr_r_browser) - [WebR - R in the Browser](https://docs.r-wasm.org/webr/latest/)
 * [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 18:32:46](https://lobste.rs/s/cts0cb/microdot_impossibly_small_web_framework) - [microdot: The impossibly small web framework for Python and MicroPython](https://github.com/miguelgrinberg/microdot)
-* [2025-08-23, 14:23:14](https://lobste.rs/s/krs8sm/sxo_optimized_server_side_jsx_build) - [SXO :: Optimized Server-Side JSX. Build Simple. Build Fast](https://github.com/gc-victor/sxo)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
 * [2025-08-23, 13:59:40](https://lobste.rs/s/gtooez/retry_loop_retry) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:37:04](https://lobste.rs/s/j0uqee/io_uring_ktls_rust_for_zero_syscall_https) - [io_uring, kTLS and Rust for zero syscall HTTPS server](https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html)
@@ -24,7 +25,6 @@
 * [2025-08-23, 03:08:06](https://lobste.rs/s/tbo1nr/materialized_views_are_obviously_useful) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
 * [2025-08-22, 20:03:05](https://lobste.rs/s/ysmsfu/no_google_did_not_unilaterally_decide) - [No, Google Did Not Unilaterally Decide to Kill XSLT](https://meyerweb.com/eric/thoughts/2025/08/22/no-google-did-not-unilaterally-decide-to-kill-xslt/)
 * [2025-08-22, 13:55:12](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad) - [Lobsters Interview with Matklad](https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad)
-* [2025-08-22, 12:24:03](https://lobste.rs/s/62si4z/i_m_too_dumb_for_zig_s_new_io_interface) - [I'm too dumb for Zig's new IO interface](https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/)
 
 ## [Archives](archives/index.md)
 
