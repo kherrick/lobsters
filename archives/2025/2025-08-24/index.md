@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-24](index.md)
 
+* [2025-08-24, 11:58:10](https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns) - [A German ISP tampered with their DNS - specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 10:02:09](https://lobste.rs/s/bdlpay/great_giana_sisters_commodore_64) - [The Great Giana Sisters (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html)
 * [2025-08-24, 09:59:10](https://lobste.rs/s/d1mgvn/explanation_linux_kernel_memory) - [Explanation of the Linux-Kernel Memory Consistency Model](https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt)
 * [2025-08-24, 09:33:49](https://lobste.rs/s/xwnxe8/why_was_apache_kafka_created) - [Why Was Apache Kafka Created?](https://bigdata.2minutestreaming.com/p/why-was-apache-kafka-created)
