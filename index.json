@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-24, 10:02:09",
+      "https://lobste.rs/s/bdlpay/great_giana_sisters_commodore_64"
+    ],
+    [
+      "The Great Giana Sisters (COMMODORE 64)",
+      "http://retrovania-vgjunk.blogspot.com/2017/08/the-great-giana-sisters-commodore-64.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 09:59:10",
+      "https://lobste.rs/s/d1mgvn/explanation_linux_kernel_memory"
+    ],
+    [
+      "Explanation of the Linux-Kernel Memory Consistency Model",
+      "https://raw.githubusercontent.com/torvalds/linux/refs/heads/master/tools/memory-model/Documentation/explanation.txt"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 09:33:49",
       "https://lobste.rs/s/xwnxe8/why_was_apache_kafka_created"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-08-23, 14:23:14",
-      "https://lobste.rs/s/krs8sm/sxo_optimized_server_side_jsx_build"
-    ],
-    [
-      "SXO :: Optimized Server-Side JSX. Build Simple. Build Fast",
-      "https://github.com/gc-victor/sxo"
-    ]
-  ],
-  [
-    [
       "2025-08-23, 14:22:12",
       "https://lobste.rs/s/7yj16h/big_o"
     ],
@@ -237,16 +247,6 @@
     [
       "Lobsters Interview with Matklad",
       "https://lobste.rs/s/ntruuu/lobsters_interview_with_matklad"
-    ]
-  ],
-  [
-    [
-      "2025-08-22, 12:24:03",
-      "https://lobste.rs/s/62si4z/i_m_too_dumb_for_zig_s_new_io_interface"
-    ],
-    [
-      "I'm too dumb for Zig's new IO interface",
-      "https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/"
     ]
   ]
 ]
