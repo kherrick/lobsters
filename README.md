@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-24, 20:25:14](https://lobste.rs/s/lal22i/kruci_post_mortem_ui_library) - [kruci: Post-mortem of a UI library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-08-24, 18:49:56](https://lobste.rs/s/dqvkes/frogmouth_markdown_browser_for_your) - [frogmouth: A Markdown browser for your terminal](https://github.com/Textualize/frogmouth)
 * [2025-08-24, 17:25:07](https://lobste.rs/s/9cuaig/update_on_my_racket_exit) - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 16:42:36](https://lobste.rs/s/f8wwq6/introducing_zod_codecs) - [Introducing Zod Codecs](https://colinhacks.com/essays/introducing-zod-codecs)
@@ -24,7 +25,6 @@
 * [2025-08-23, 13:59:40](https://lobste.rs/s/gtooez/retry_loop_retry) - [Retry Loop Retry](https://matklad.github.io/2025/08/23/retry-loop-retry.html)
 * [2025-08-23, 13:07:33](https://lobste.rs/s/grwfgz/rue_programming_language_is_minimal) - [rue: A programming language that is a minimal subset of Rust](https://github.com/steveklabnik/rue)
 * [2025-08-23, 12:53:15](https://lobste.rs/s/qrs9w8/rfc_9839_bad_unicode) - [RFC 9839 and Bad Unicode](https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839)
-* [2025-08-23, 03:08:06](https://lobste.rs/s/tbo1nr/materialized_views_are_obviously_useful) - [Materialized views are obviously useful](https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful)
 
 ## [Archives](archives/index.md)
 
