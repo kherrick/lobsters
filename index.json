@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-24, 15:38:42",
+      "https://lobste.rs/s/ozqdi6/sqlite_with_wal_doesn_t_do_fsync_on_each"
+    ],
+    [
+      "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
+      "https://avi.im/blag/2025/sqlite-fsync/"
+    ]
+  ],
+  [
+    [
       "2025-08-24, 15:09:04",
       "https://lobste.rs/s/kxlsdz/comparing_nitro_runit"
     ],
@@ -107,16 +117,6 @@
     [
       "seed: Interactive software environment based on Common Lisp",
       "https://github.com/phantomics/seed"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 06:36:02",
-      "https://lobste.rs/s/tnmzkg/neural_nets_vs_cellular_automata"
-    ],
-    [
-      "Neural Nets vs. Cellular Automata",
-      "https://www.nets-vs-automata.net/"
     ]
   ],
   [
