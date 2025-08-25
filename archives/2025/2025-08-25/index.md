@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 19:24:58](https://lobste.rs/s/gxenjd/md_file_as_chat_interface_with_editable) - [An md file as a chat interface, with editable history/context, and tool calling](https://github.com/rusiaaman/chat.md)
 * [2025-08-25, 18:25:36](https://lobste.rs/s/yiga8c/nullable_vs_nullable_c) - [Nullable vs nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 16:21:25](https://lobste.rs/s/cvoqyn/barking_up_ratchet_tree_mls_is_neither) - [Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
 * [2025-08-25, 16:06:03](https://lobste.rs/s/nyj82p/sharing_is_scaring_why_is_cloud_file) - [Sharing is Scaring: Why is Cloud File-Sharing Hard?](https://blog.brownplt.org/2025/08/25/cloud-sharing.html)
