@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 13:24:53](https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-25, 12:39:36](https://lobste.rs/s/q6exlw/how_much_power_does_gzip_save_on_iot_web) - [How much power does gzip save on IoT web access?](https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html)
 * [2025-08-25, 11:18:35](https://lobste.rs/s/g3piaw/teletext_north_america) - [teletext in north america](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 11:14:18](https://lobste.rs/s/sh8bqg/what_are_oklch_colors) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 10:54:47](https://lobste.rs/s/0czhsv/who_s_afraid_hard_page_load) - [Who's Afraid of a Hard Page Load?](https://unplannedobsolescence.com/blog/hard-page-load/)
-* [2025-08-25, 09:40:42](https://lobste.rs/s/vbz6k2/elasticsearch_api_compatibility_flowg) - [ElasticSearch API compatibility | FlowG](https://link-society.github.io/flowg/blog/elasticsearch-compatibility)
 * [2025-08-25, 09:36:12](https://lobste.rs/s/ljjpmg/tag_suggestion_scraping) - [Tag Suggestion: scraping](https://lobste.rs/s/ljjpmg/tag_suggestion_scraping)
 * [2025-08-25, 09:11:26](https://lobste.rs/s/btxegl/why_i_read_technical_books) - [Why I Read Technical Books](https://ratfactor.com/b/technical-books)
 * [2025-08-25, 08:51:35](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week)
