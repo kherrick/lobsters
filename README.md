@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 07:20:14](https://lobste.rs/s/n7bchj/once_upon_pipe_west_working_adapter_from) - [Once Upon a Pipe in the West: A working adapter from HDMI to Gardena | jhauser.de](https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena)
 * [2025-08-25, 04:28:20](https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 03:59:50](https://lobste.rs/s/rvgx8d/mario_64_wastes_so_much_memory) - [Mario 64 wastes so much memory](https://youtu.be/oZcbgNdWL7w)
 * [2025-08-25, 02:42:09](https://lobste.rs/s/hvub48/regular_expression_matching_can_be) - [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
@@ -22,7 +23,6 @@
 * [2025-08-24, 11:58:10](https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns) - [A German ISP tampered with their DNS - specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 08:59:09](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ayqmih/what_are_you_doing_this_weekend)
 * [2025-08-24, 08:02:30](https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix) - [Secret Management on NixOS with sops-nix](https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/)
-* [2025-08-24, 07:58:36](https://lobste.rs/s/rivvjq/how_build_coding_agent) - [how to build a coding agent](https://ghuntley.com/agent/)
 * [2025-08-24, 04:06:10](https://lobste.rs/s/tjv7ha/line_scan_camera_image_processing_train) - [Line scan camera image processing (train photography)](https://daniel.lawrence.lu/blog/y2025m09d21/)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
 
