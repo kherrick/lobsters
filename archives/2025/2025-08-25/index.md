@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 12:39:36](https://lobste.rs/s/q6exlw/how_much_power_does_gzip_save_on_iot_web) - [How much power does gzip save on IoT web access?](https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html)
 * [2025-08-25, 11:18:35](https://lobste.rs/s/g3piaw/teletext_north_america) - [teletext in north america](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 11:14:18](https://lobste.rs/s/sh8bqg/what_are_oklch_colors) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 10:54:47](https://lobste.rs/s/0czhsv/who_s_afraid_hard_page_load) - [Who's Afraid of a Hard Page Load?](https://unplannedobsolescence.com/blog/hard-page-load/)

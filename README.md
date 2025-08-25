@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 12:39:36](https://lobste.rs/s/q6exlw/how_much_power_does_gzip_save_on_iot_web) - [How much power does gzip save on IoT web access?](https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html)
 * [2025-08-25, 11:18:35](https://lobste.rs/s/g3piaw/teletext_north_america) - [teletext in north america](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 11:14:18](https://lobste.rs/s/sh8bqg/what_are_oklch_colors) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 10:54:47](https://lobste.rs/s/0czhsv/who_s_afraid_hard_page_load) - [Who's Afraid of a Hard Page Load?](https://unplannedobsolescence.com/blog/hard-page-load/)
@@ -14,7 +15,6 @@
 * [2025-08-25, 02:12:55](https://lobste.rs/s/uq43gz/don_t_pick_weird_subnets_for_embedded) - [Don't pick weird subnets for embedded networks, use VRFs](https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/)
 * [2025-08-24, 23:26:47](https://lobste.rs/s/bk3cyd/ghrc_io_appears_be_malicious) - [ghrc.io Appears to be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 21:16:35](https://lobste.rs/s/cya9ki/i_don_t_like_imports) - [I Don't Like Imports](https://kevincox.ca/2025/07/20/no-imports/)
-* [2025-08-24, 20:50:28](https://lobste.rs/s/etxhbj/automating_pre_push_checks_with_jujutsu) - [Automating Pre-Push Checks with Jujutsu](https://www.aazuspan.dev/blog/automating-pre-push-checks-with-jujutsu/)
 * [2025-08-24, 20:39:15](https://lobste.rs/s/ypffje/anubis_offload_userscript_offload) - [anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code](https://github.com/DavidBuchanan314/anubis_offload)
 * [2025-08-24, 20:25:14](https://lobste.rs/s/lal22i/kruci_post_mortem_ui_library) - [kruci: Post-mortem of a UI library](https://pwy.io/posts/kruci-post-mortem/)
 * [2025-08-24, 16:42:36](https://lobste.rs/s/f8wwq6/introducing_zod_codecs) - [Introducing Zod Codecs](https://colinhacks.com/essays/introducing-zod-codecs)
