@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-25, 02:42:09",
-      "https://lobste.rs/s/hvub48/regular_expression_matching_can_be"
-    ],
-    [
-      "Regular Expression Matching Can Be Simple And Fast (2007)",
-      "https://swtch.com/~rsc/regexp/regexp1.html"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 02:18:30",
       "https://lobste.rs/s/lwaht3/linear_scan_with_lifetime_holes"
     ],
@@ -107,6 +97,16 @@
     [
       "Which Programming Language Should I Teach First?",
       "https://parentheticallyspeaking.org/articles/first-language-wrong-question/"
+    ]
+  ],
+  [
+    [
+      "2025-08-24, 15:42:41",
+      "https://lobste.rs/s/2mnmwq/true_names_matter_c"
+    ],
+    [
+      "True names matter in C++",
+      "https://quuxplusone.github.io/blog/2025/08/01/true-names/"
     ]
   ],
   [
