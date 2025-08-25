@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-25, 18:25:36",
+      "https://lobste.rs/s/yiga8c/nullable_vs_nullable_c"
+    ],
+    [
+      "Nullable vs nullable in C#",
+      "https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 16:21:25",
       "https://lobste.rs/s/cvoqyn/barking_up_ratchet_tree_mls_is_neither"
     ],
@@ -207,16 +217,6 @@
     [
       "Which Programming Language Should I Teach First?",
       "https://parentheticallyspeaking.org/articles/first-language-wrong-question/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 15:38:42",
-      "https://lobste.rs/s/ozqdi6/sqlite_with_wal_doesn_t_do_fsync_on_each"
-    ],
-    [
-      "SQLite (with WAL) doesn't do `fsync` on each commit under default settings",
-      "https://avi.im/blag/2025/sqlite-fsync/"
     ]
   ],
   [
