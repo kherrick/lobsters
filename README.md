@@ -2,6 +2,7 @@
 
 * [2025-08-25, 04:28:20](https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 03:59:50](https://lobste.rs/s/rvgx8d/mario_64_wastes_so_much_memory) - [Mario 64 wastes so much memory](https://youtu.be/oZcbgNdWL7w)
+* [2025-08-25, 02:42:09](https://lobste.rs/s/hvub48/regular_expression_matching_can_be) - [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
 * [2025-08-25, 02:18:30](https://lobste.rs/s/lwaht3/linear_scan_with_lifetime_holes) - [Linear scan with lifetime holes](https://bernsteinbear.com/blog/linear-scan-lifetime-holes/)
 * [2025-08-25, 02:12:55](https://lobste.rs/s/uq43gz/don_t_pick_weird_subnets_for_embedded) - [Don't pick weird subnets for embedded networks, use VRFs](https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/)
 * [2025-08-24, 23:26:47](https://lobste.rs/s/bk3cyd/ghrc_io_appears_be_malicious) - [ghrc.io Appears to be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
@@ -23,7 +24,6 @@
 * [2025-08-24, 08:02:30](https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix) - [Secret Management on NixOS with sops-nix](https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/)
 * [2025-08-24, 07:58:36](https://lobste.rs/s/rivvjq/how_build_coding_agent) - [how to build a coding agent](https://ghuntley.com/agent/)
 * [2025-08-24, 04:06:10](https://lobste.rs/s/tjv7ha/line_scan_camera_image_processing_train) - [Line scan camera image processing (train photography)](https://daniel.lawrence.lu/blog/y2025m09d21/)
-* [2025-08-23, 19:08:57](https://lobste.rs/s/rkedkd/optimizing_fizzbuzz_rust) - [Optimizing FizzBuzz in Rust](https://github.com/nrposner/fizzcrate)
 * [2025-08-23, 14:22:12](https://lobste.rs/s/7yj16h/big_o) - [Big O](https://samwho.dev/big-o/)
 
 ## [Archives](archives/index.md)
