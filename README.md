@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-25, 02:42:09](https://lobste.rs/s/hvub48/regular_expression_matching_can_be) - [Regular Expression Matching Can Be Simple And Fast (2007)](https://swtch.com/~rsc/regexp/regexp1.html)
 * [2025-08-25, 02:18:30](https://lobste.rs/s/lwaht3/linear_scan_with_lifetime_holes) - [Linear scan with lifetime holes](https://bernsteinbear.com/blog/linear-scan-lifetime-holes/)
 * [2025-08-24, 23:26:47](https://lobste.rs/s/bk3cyd/ghrc_io_appears_be_malicious) - [ghrc.io Appears to be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 21:16:35](https://lobste.rs/s/cya9ki/i_don_t_like_imports) - [I Don't Like Imports](https://kevincox.ca/2025/07/20/no-imports/)
@@ -11,6 +10,7 @@
 * [2025-08-24, 17:25:07](https://lobste.rs/s/9cuaig/update_on_my_racket_exit) - [Update on my Racket exit](https://blog.winny.tech/posts/update-on-my-racket-exit/)
 * [2025-08-24, 16:42:36](https://lobste.rs/s/f8wwq6/introducing_zod_codecs) - [Introducing Zod Codecs](https://colinhacks.com/essays/introducing-zod-codecs)
 * [2025-08-24, 16:27:18](https://lobste.rs/s/htxzoy/which_programming_language_should_i) - [Which Programming Language Should I Teach First?](https://parentheticallyspeaking.org/articles/first-language-wrong-question/)
+* [2025-08-24, 15:42:41](https://lobste.rs/s/2mnmwq/true_names_matter_c) - [True names matter in C++](https://quuxplusone.github.io/blog/2025/08/01/true-names/)
 * [2025-08-24, 15:38:42](https://lobste.rs/s/ozqdi6/sqlite_with_wal_doesn_t_do_fsync_on_each) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
 * [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
 * [2025-08-24, 15:07:06](https://lobste.rs/s/diaied/good_vibes_claude_code_case_study) - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000)
