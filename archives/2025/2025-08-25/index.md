@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
 * [2025-08-25, 09:40:42](https://lobste.rs/s/vbz6k2/elasticsearch_api_compatibility_flowg) - [ElasticSearch API compatibility | FlowG](https://link-society.github.io/flowg/blog/elasticsearch-compatibility)
+* [2025-08-25, 09:36:12](https://lobste.rs/s/ljjpmg/tag_suggestion_scraping) - [Tag Suggestion: scraping](https://lobste.rs/s/ljjpmg/tag_suggestion_scraping)
 * [2025-08-25, 09:11:26](https://lobste.rs/s/btxegl/why_i_read_technical_books) - [Why I Read Technical Books](https://ratfactor.com/b/technical-books)
 * [2025-08-25, 08:51:35](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week)
 * [2025-08-25, 07:56:32](https://lobste.rs/s/k5bisx/about_containers_vms) - [About containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
