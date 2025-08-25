@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 08:51:35](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week)
 * [2025-08-25, 07:56:32](https://lobste.rs/s/k5bisx/about_containers_vms) - [About containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
 * [2025-08-25, 07:20:14](https://lobste.rs/s/n7bchj/once_upon_pipe_west_working_adapter_from) - [Once Upon a Pipe in the West: A working adapter from HDMI to Gardena | jhauser.de](https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena)
 * [2025-08-25, 04:28:20](https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
