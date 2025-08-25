@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 16:06:03](https://lobste.rs/s/nyj82p/sharing_is_scaring_why_is_cloud_file) - [Sharing is Scaring: Why is Cloud File-Sharing Hard?](https://blog.brownplt.org/2025/08/25/cloud-sharing.html)
+* [2025-08-25, 15:59:22](https://lobste.rs/s/a6wfg2/making_software_what_is_color_space) - [Making Software: What is a color space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 14:59:42](https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library) - [macOS dotfiles should not go in ~/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-25, 13:24:53](https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-25, 12:39:36](https://lobste.rs/s/q6exlw/how_much_power_does_gzip_save_on_iot_web) - [How much power does gzip save on IoT web access?](https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html)
@@ -21,8 +23,6 @@
 * [2025-08-24, 16:27:18](https://lobste.rs/s/htxzoy/which_programming_language_should_i) - [Which Programming Language Should I Teach First?](https://parentheticallyspeaking.org/articles/first-language-wrong-question/)
 * [2025-08-24, 15:38:42](https://lobste.rs/s/ozqdi6/sqlite_with_wal_doesn_t_do_fsync_on_each) - [SQLite (with WAL) doesn't do `fsync` on each commit under default settings](https://avi.im/blag/2025/sqlite-fsync/)
 * [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
-* [2025-08-24, 15:07:06](https://lobste.rs/s/diaied/good_vibes_claude_code_case_study) - [Good Vibes: A Claude-Code Case-Study](https://taylor.town/diggit-000)
-* [2025-08-24, 13:21:23](https://lobste.rs/s/8tycd0/surrealdb_is_sacrificing_data) - [SurrealDB is sacrificing data durability to make benchmarks look better](https://blog.cf8.gg/surrealdbs-ch/)
 * [2025-08-24, 11:58:10](https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns) - [A German ISP tampered with their DNS - specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 * [2025-08-24, 08:02:30](https://lobste.rs/s/5tvmgp/secret_management_on_nixos_with_sops_nix) - [Secret Management on NixOS with sops-nix](https://michael.stapelberg.ch/posts/2025-08-24-secret-management-with-sops-nix/)
 
