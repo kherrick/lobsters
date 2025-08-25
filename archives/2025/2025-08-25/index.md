@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
 * [2025-08-25, 20:04:15](https://lobste.rs/s/paxo6l/extending_kafka_hard_way_part_1_middle) - [Extending Kafka the Hard Way (Part 1) | Middle of Nowhere](https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/)
 * [2025-08-25, 19:24:58](https://lobste.rs/s/gxenjd/md_file_as_chat_interface_with_editable) - [An md file as a chat interface, with editable history/context, and tool calling](https://github.com/rusiaaman/chat.md)
 * [2025-08-25, 18:25:36](https://lobste.rs/s/yiga8c/nullable_vs_nullable_c) - [Nullable vs nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
