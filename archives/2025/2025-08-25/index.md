@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 21:12:58](https://lobste.rs/s/8mw7xt/precision_encoded_pixels_tiny_yet) - [Precision-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 20:38:06](https://lobste.rs/s/mbh4jl/make_easy_change_hard) - [Make the easy change hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
 * [2025-08-25, 20:04:15](https://lobste.rs/s/paxo6l/extending_kafka_hard_way_part_1_middle) - [Extending Kafka the Hard Way (Part 1) | Middle of Nowhere](https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/)

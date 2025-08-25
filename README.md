@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 21:12:58](https://lobste.rs/s/8mw7xt/precision_encoded_pixels_tiny_yet) - [Precision-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 20:38:06](https://lobste.rs/s/mbh4jl/make_easy_change_hard) - [Make the easy change hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
 * [2025-08-25, 20:04:15](https://lobste.rs/s/paxo6l/extending_kafka_hard_way_part_1_middle) - [Extending Kafka the Hard Way (Part 1) | Middle of Nowhere](https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/)
@@ -9,7 +10,6 @@
 * [2025-08-25, 15:59:22](https://lobste.rs/s/a6wfg2/making_software_what_is_color_space) - [Making Software: What is a color space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 14:59:42](https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library) - [macOS dotfiles should not go in ~/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-25, 13:24:53](https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
-* [2025-08-25, 12:39:36](https://lobste.rs/s/q6exlw/how_much_power_does_gzip_save_on_iot_web) - [How much power does gzip save on IoT web access?](https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html)
 * [2025-08-25, 11:18:35](https://lobste.rs/s/g3piaw/teletext_north_america) - [teletext in north america](https://computer.rip/2025-08-25-teletext-in-north-america.html)
 * [2025-08-25, 11:14:18](https://lobste.rs/s/sh8bqg/what_are_oklch_colors) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)
 * [2025-08-25, 10:54:47](https://lobste.rs/s/0czhsv/who_s_afraid_hard_page_load) - [Who's Afraid of a Hard Page Load?](https://unplannedobsolescence.com/blog/hard-page-load/)
