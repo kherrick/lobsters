@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 20:38:06](https://lobste.rs/s/mbh4jl/make_easy_change_hard) - [Make the easy change hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
 * [2025-08-25, 20:04:15](https://lobste.rs/s/paxo6l/extending_kafka_hard_way_part_1_middle) - [Extending Kafka the Hard Way (Part 1) | Middle of Nowhere](https://blog.evacchi.dev/posts/2025/08/25/extending-kafka-the-hard-way-part-1/)
 * [2025-08-25, 18:25:36](https://lobste.rs/s/yiga8c/nullable_vs_nullable_c) - [Nullable vs nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
@@ -22,7 +23,6 @@
 * [2025-08-24, 23:26:47](https://lobste.rs/s/bk3cyd/ghrc_io_appears_be_malicious) - [ghrc.io Appears to be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 21:16:35](https://lobste.rs/s/cya9ki/i_don_t_like_imports) - [I Don't Like Imports](https://kevincox.ca/2025/07/20/no-imports/)
 * [2025-08-24, 20:39:15](https://lobste.rs/s/ypffje/anubis_offload_userscript_offload) - [anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code](https://github.com/DavidBuchanan314/anubis_offload)
-* [2025-08-24, 16:27:18](https://lobste.rs/s/htxzoy/which_programming_language_should_i) - [Which Programming Language Should I Teach First?](https://parentheticallyspeaking.org/articles/first-language-wrong-question/)
 * [2025-08-24, 15:09:04](https://lobste.rs/s/kxlsdz/comparing_nitro_runit) - [Comparing nitro to runit](https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html)
 * [2025-08-24, 11:58:10](https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns) - [A German ISP tampered with their DNS - specifically to sabotage my website](https://lina.sh/blog/telefonica-sabotages-me)
 
