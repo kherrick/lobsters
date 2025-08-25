@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-25, 09:40:42](https://lobste.rs/s/vbz6k2/elasticsearch_api_compatibility_flowg) - [ElasticSearch API compatibility | FlowG](https://link-society.github.io/flowg/blog/elasticsearch-compatibility)
 * [2025-08-25, 09:11:26](https://lobste.rs/s/btxegl/why_i_read_technical_books) - [Why I Read Technical Books](https://ratfactor.com/b/technical-books)
 * [2025-08-25, 08:51:35](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week)
-* [2025-08-25, 07:56:32](https://lobste.rs/s/k5bisx/about_containers_vms) - [About containers and VMs](https://linuxcontainers.org/incus/docs/main/explanation/containers_and_vms/)
 * [2025-08-25, 07:20:14](https://lobste.rs/s/n7bchj/once_upon_pipe_west_working_adapter_from) - [Once Upon a Pipe in the West: A working adapter from HDMI to Gardena | jhauser.de](https://jhauser.de/once-upon-a-pipe-in-the-west-hdmi-gardena)
 * [2025-08-25, 04:28:20](https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
 * [2025-08-25, 03:59:50](https://lobste.rs/s/rvgx8d/mario_64_wastes_so_much_memory) - [Mario 64 wastes so much memory](https://youtu.be/oZcbgNdWL7w)
