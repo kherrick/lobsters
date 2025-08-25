@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 16:21:25](https://lobste.rs/s/cvoqyn/barking_up_ratchet_tree_mls_is_neither) - [Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
 * [2025-08-25, 16:06:03](https://lobste.rs/s/nyj82p/sharing_is_scaring_why_is_cloud_file) - [Sharing is Scaring: Why is Cloud File-Sharing Hard?](https://blog.brownplt.org/2025/08/25/cloud-sharing.html)
 * [2025-08-25, 15:59:22](https://lobste.rs/s/a6wfg2/making_software_what_is_color_space) - [Making Software: What is a color space?](https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts)
 * [2025-08-25, 14:59:42](https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library) - [macOS dotfiles should not go in ~/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
