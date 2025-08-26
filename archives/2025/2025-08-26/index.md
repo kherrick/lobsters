@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 15:35:30](https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting) - [How my mail notifier avoids interrupting me (2010)](https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
 * [2025-08-26, 14:55:57](https://lobste.rs/s/cfqztj/inspecting_openpgp_certificates) - [Inspecting OpenPGP certificates](https://openpgp.foo/posts/2025-08-certificate-status/)
 * [2025-08-26, 14:50:59](https://lobste.rs/s/9wowb3/qt_model_for_all_c_ranges) - [A Qt Model for all C++ Ranges](https://www.qt.io/blog/a-model-for-all-ranges)

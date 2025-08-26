@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-26, 15:35:30](https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting) - [How my mail notifier avoids interrupting me (2010)](https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
 * [2025-08-26, 14:50:59](https://lobste.rs/s/9wowb3/qt_model_for_all_c_ranges) - [A Qt Model for all C++ Ranges](https://www.qt.io/blog/a-model-for-all-ranges)
 * [2025-08-26, 14:38:27](https://lobste.rs/s/4tou3b/put_ring_on_it_lock_free_mpmc_ring_buffer) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
@@ -13,7 +14,6 @@
 * [2025-08-26, 07:55:29](https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 * [2025-08-26, 06:15:11](https://lobste.rs/s/oe9w7h/apple_vs_facebook_is_kayfabe) - [Apple vs. Facebook is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
 * [2025-08-26, 03:31:41](https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use) - [Xz format inadequate for general use](https://www.nongnu.org/lzip/xz_inadequate.html)
-* [2025-08-26, 03:16:02](https://lobste.rs/s/ou4qlg/summary_everything_we_know_about_kos) - [Summary of everything we know about kOS](https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746)
 * [2025-08-26, 03:03:03](https://lobste.rs/s/x6sye6/inside_windows_3) - [Inside Windows 3](https://www.xtof.info/inside-windows3.html)
 * [2025-08-26, 00:06:16](https://lobste.rs/s/aurzu2/structural_vs_mathematical_under_2023) - [Structural vs. Mathematical “Under” (2023)](https://www.dyalog.com/blog/2023/01/structural-vs-mathematical-under/)
 * [2025-08-25, 21:12:58](https://lobste.rs/s/8mw7xt/prediction_encoded_pixels_tiny_yet) - [Prediction-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP)
