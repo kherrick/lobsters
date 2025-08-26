@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 10:20:10](https://lobste.rs/s/pvr9c7/stable_mutable_references) - [Stable, Mutable References](https://antelang.org/blog/stable_mutable_refs/)
 * [2025-08-26, 08:38:03](https://lobste.rs/s/2jrlab/understand_temporary_allocator) - [Understand the Temporary Allocator; Understand arenas](https://zylinski.se/posts/temporary-allocator-your-first-arena/)
 * [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 08:12:41](https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala) - [Hands on Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)

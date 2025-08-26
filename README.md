@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-26, 10:20:10](https://lobste.rs/s/pvr9c7/stable_mutable_references) - [Stable, Mutable References](https://antelang.org/blog/stable_mutable_refs/)
 * [2025-08-26, 08:38:03](https://lobste.rs/s/2jrlab/understand_temporary_allocator) - [Understand the Temporary Allocator; Understand arenas](https://zylinski.se/posts/temporary-allocator-your-first-arena/)
 * [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 08:12:41](https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala) - [Hands on Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
-* [2025-08-26, 08:05:03](https://lobste.rs/s/1nvggc/design_microservice_architectures) - [Design Microservice Architectures the Right Way](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/)
 * [2025-08-26, 07:55:29](https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 * [2025-08-26, 03:31:41](https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use) - [Xz format inadequate for general use](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2025-08-26, 03:16:02](https://lobste.rs/s/ou4qlg/summary_everything_we_know_about_kos) - [Summary of everything we know about kOS](https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746)
