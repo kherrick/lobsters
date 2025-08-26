@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-26, 21:00:50",
+      "https://lobste.rs/s/ffkdyr/das_problem_mit_german_strings"
+    ],
+    [
+      "Das Problem mit German Strings",
+      "https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 18:48:45",
       "https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded"
     ],
@@ -197,16 +207,6 @@
     [
       "macOS dotfiles should not go in ~/Library/Application Support",
       "https://becca.ooo/blog/macos-dotfiles/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 13:24:53",
-      "https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux"
-    ],
-    [
-      "The Limits of NTP Accuracy on Linux",
-      "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
     ]
   ],
   [
