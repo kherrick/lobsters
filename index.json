@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-26, 13:10:11",
+      "https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on"
+    ],
+    [
+      "Developing an alt text button for images on my website",
+      "https://jamesg.blog/2025/08/17/alt-text-button"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 13:09:01",
+      "https://lobste.rs/s/b0jqgq/we_should_rethink_how_we_teach_people_code"
+    ],
+    [
+      "We should rethink how we teach people to code",
+      "https://deadsimpletech.com/blog/notes_teaching_coding"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 10:20:10",
       "https://lobste.rs/s/pvr9c7/stable_mutable_references"
     ],
@@ -57,16 +77,6 @@
     [
       "Emulating aarch64 in software using JIT compilation and Rust",
       "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 07:29:57",
-      "https://lobste.rs/s/2f1qrt/postmessaged_compromised"
-    ],
-    [
-      "postMessaged and Compromised",
-      "https://msrc.microsoft.com/blog/2025/08/postmessaged-and-compromised/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
       "https://github.com/DavidBuchanan314/anubis_offload"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 11:58:10",
-      "https://lobste.rs/s/ynezsm/german_isp_tampered_with_their_dns"
-    ],
-    [
-      "A German ISP tampered with their DNS - specifically to sabotage my website",
-      "https://lina.sh/blog/telefonica-sabotages-me"
     ]
   ]
 ]
