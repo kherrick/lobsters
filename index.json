@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2025-08-26, 08:12:41",
-      "https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala"
+      "2025-08-26, 08:05:03",
+      "https://lobste.rs/s/1nvggc/design_microservice_architectures"
     ],
     [
-      "Hands on Capture Checking in Scala",
-      "https://nrinaudo.github.io/articles/capture_checking.html"
+      "Design Microservice Architectures the Right Way",
+      "https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Emulating aarch64 in software using JIT compilation and Rust",
       "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 07:29:57",
+      "https://lobste.rs/s/2f1qrt/postmessaged_compromised"
+    ],
+    [
+      "postMessaged and Compromised",
+      "https://msrc.microsoft.com/blog/2025/08/postmessaged-and-compromised/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code",
       "https://github.com/DavidBuchanan314/anubis_offload"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 15:09:04",
-      "https://lobste.rs/s/kxlsdz/comparing_nitro_runit"
-    ],
-    [
-      "Comparing nitro to runit",
-      "https://leahneukirchen.org/blog/archive/2025/08/comparing-nitro-to-runit.html"
     ]
   ],
   [
