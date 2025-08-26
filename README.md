@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:08:48](https://lobste.rs/s/vk0nvp/i_know_when_you_re_vibe_coding) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-08-26, 15:35:30](https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting) - [How my mail notifier avoids interrupting me (2010)](https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
@@ -18,7 +19,6 @@
 * [2025-08-26, 03:31:41](https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use) - [Xz format inadequate for general use](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2025-08-26, 03:03:03](https://lobste.rs/s/x6sye6/inside_windows_3) - [Inside Windows 3](https://www.xtof.info/inside-windows3.html)
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
-* [2025-08-25, 18:25:36](https://lobste.rs/s/yiga8c/nullable_vs_nullable_c) - [Nullable vs nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 14:59:42](https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library) - [macOS dotfiles should not go in ~/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-25, 13:24:53](https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-25, 11:14:18](https://lobste.rs/s/sh8bqg/what_are_oklch_colors) - [What are OKLCH colors?](https://jakub.kr/components/oklch-colors)

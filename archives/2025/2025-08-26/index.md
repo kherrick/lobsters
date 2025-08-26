@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:08:48](https://lobste.rs/s/vk0nvp/i_know_when_you_re_vibe_coding) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-08-26, 15:35:30](https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting) - [How my mail notifier avoids interrupting me (2010)](https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
