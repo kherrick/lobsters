@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-26, 08:38:03](https://lobste.rs/s/2jrlab/understand_temporary_allocator) - [Understand the Temporary Allocator; Understand arenas](https://zylinski.se/posts/temporary-allocator-your-first-arena/)
 * [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 08:12:41](https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala) - [Hands on Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
 * [2025-08-26, 08:05:03](https://lobste.rs/s/1nvggc/design_microservice_architectures) - [Design Microservice Architectures the Right Way](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/)
@@ -13,7 +14,6 @@
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
 * [2025-08-25, 18:25:36](https://lobste.rs/s/yiga8c/nullable_vs_nullable_c) - [Nullable vs nullable in C#](https://einarwh.no/blog/2025/08/25/nullable-vs-nullable/)
 * [2025-08-25, 16:21:25](https://lobste.rs/s/cvoqyn/barking_up_ratchet_tree_mls_is_neither) - [Barking Up The Ratchet Tree – MLS Is Neither Royal Nor Nude](https://soatok.blog/2025/08/25/barking-up-the-ratchet-tree-mls-is-neither-royal-nor-nude/)
-* [2025-08-25, 16:06:03](https://lobste.rs/s/nyj82p/sharing_is_scaring_why_is_cloud_file) - [Sharing is Scaring: Why is Cloud File-Sharing Hard?](https://blog.brownplt.org/2025/08/25/cloud-sharing.html)
 * [2025-08-25, 14:59:42](https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library) - [macOS dotfiles should not go in ~/Library/Application Support](https://becca.ooo/blog/macos-dotfiles/)
 * [2025-08-25, 13:24:53](https://lobste.rs/s/8q8odf/limits_ntp_accuracy_on_linux) - [The Limits of NTP Accuracy on Linux](https://scottstuff.net/posts/2025/05/19/ntp-limits/)
 * [2025-08-25, 11:18:35](https://lobste.rs/s/g3piaw/teletext_north_america) - [teletext in north america](https://computer.rip/2025-08-25-teletext-in-north-america.html)
