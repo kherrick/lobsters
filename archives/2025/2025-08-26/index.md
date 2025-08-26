@@ -7,6 +7,7 @@
 * [2025-08-26, 15:35:30](https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting) - [How my mail notifier avoids interrupting me (2010)](https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
 * [2025-08-26, 14:55:57](https://lobste.rs/s/cfqztj/inspecting_openpgp_certificates) - [Inspecting OpenPGP certificates](https://openpgp.foo/posts/2025-08-certificate-status/)
+* [2025-08-26, 14:53:30](https://lobste.rs/s/wxsnc3/blast_from_past_facit_a2400_terminal) - [Blast from the past: Facit A2400 terminal](https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/)
 * [2025-08-26, 14:50:59](https://lobste.rs/s/9wowb3/qt_model_for_all_c_ranges) - [A Qt Model for all C++ Ranges](https://www.qt.io/blog/a-model-for-all-ranges)
 * [2025-08-26, 14:44:35](https://lobste.rs/s/7ffkhf/model_based_testing_distributed_systems) - [Model-based Testing Distributed Systems with P Language (2021)](https://www.mydistributed.systems/2021/06/p-language.html)
 * [2025-08-26, 14:38:27](https://lobste.rs/s/4tou3b/put_ring_on_it_lock_free_mpmc_ring_buffer) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
