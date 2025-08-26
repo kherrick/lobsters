@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-26, 22:02:16",
+      "https://lobste.rs/s/6mpyts/trying_get_error_backtraces_rust"
+    ],
+    [
+      "Trying to get error backtraces in rust libraries right",
+      "https://www.iroh.computer/blog/error-handling-in-iroh"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 21:57:26",
       "https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I Read Technical Books",
       "https://ratfactor.com/b/technical-books"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 04:28:20",
-      "https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me"
-    ],
-    [
-      "Bro, ban me at the IP level if you don't like me",
-      "https://boston.conman.org/2025/08/21.1"
     ]
   ]
 ]
