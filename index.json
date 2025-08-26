@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-26, 14:22:13",
+      "https://lobste.rs/s/z4oxhm/compositional_datalog_on_sql_relational"
+    ],
+    [
+      "Compositional Datalog on SQL: Relational Algebra of the Environment",
+      "https://www.philipzucker.com/compose_datalog/"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 13:10:11",
       "https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on"
     ],
@@ -57,16 +67,6 @@
     [
       "Hands on Capture Checking in Scala",
       "https://nrinaudo.github.io/articles/capture_checking.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 08:05:03",
-      "https://lobste.rs/s/1nvggc/design_microservice_architectures"
-    ],
-    [
-      "Design Microservice Architectures the Right Way",
-      "https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/"
     ]
   ],
   [
