@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 14:50:59](https://lobste.rs/s/9wowb3/qt_model_for_all_c_ranges) - [A Qt Model for all C++ Ranges](https://www.qt.io/blog/a-model-for-all-ranges)
 * [2025-08-26, 14:44:35](https://lobste.rs/s/7ffkhf/model_based_testing_distributed_systems) - [Model-based Testing Distributed Systems with P Language (2021)](https://www.mydistributed.systems/2021/06/p-language.html)
 * [2025-08-26, 14:38:27](https://lobste.rs/s/4tou3b/put_ring_on_it_lock_free_mpmc_ring_buffer) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-08-26, 14:22:13](https://lobste.rs/s/z4oxhm/compositional_datalog_on_sql_relational) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
