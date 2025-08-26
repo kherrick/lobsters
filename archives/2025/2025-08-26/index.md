@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 14:22:13](https://lobste.rs/s/z4oxhm/compositional_datalog_on_sql_relational) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
 * [2025-08-26, 13:10:11](https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on) - [Developing an alt text button for images on my website](https://jamesg.blog/2025/08/17/alt-text-button)
 * [2025-08-26, 13:09:01](https://lobste.rs/s/b0jqgq/we_should_rethink_how_we_teach_people_code) - [We should rethink how we teach people to code](https://deadsimpletech.com/blog/notes_teaching_coding)
 * [2025-08-26, 10:20:10](https://lobste.rs/s/pvr9c7/stable_mutable_references) - [Stable, Mutable References](https://antelang.org/blog/stable_mutable_refs/)
