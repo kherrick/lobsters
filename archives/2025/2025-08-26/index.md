@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
+* [2025-08-26, 08:12:41](https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala) - [Hands on Capture Checking in Scala](https://nrinaudo.github.io/articles/capture_checking.html)
+* [2025-08-26, 08:05:03](https://lobste.rs/s/1nvggc/design_microservice_architectures) - [Design Microservice Architectures the Right Way](https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/)
+* [2025-08-26, 07:55:29](https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 * [2025-08-26, 07:29:57](https://lobste.rs/s/2f1qrt/postmessaged_compromised) - [postMessaged and Compromised](https://msrc.microsoft.com/blog/2025/08/postmessaged-and-compromised/)
 * [2025-08-26, 06:15:11](https://lobste.rs/s/oe9w7h/apple_vs_facebook_is_kayfabe) - [Apple vs. Facebook is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
 * [2025-08-26, 03:31:41](https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use) - [Xz format inadequate for general use](https://www.nongnu.org/lzip/xz_inadequate.html)
