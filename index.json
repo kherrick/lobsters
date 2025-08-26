@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-08-25, 16:06:03",
+      "https://lobste.rs/s/nyj82p/sharing_is_scaring_why_is_cloud_file"
+    ],
+    [
+      "Sharing is Scaring: Why is Cloud File-Sharing Hard?",
+      "https://blog.brownplt.org/2025/08/25/cloud-sharing.html"
+    ]
+  ],
+  [
+    [
       "2025-08-25, 15:59:22",
       "https://lobste.rs/s/a6wfg2/making_software_what_is_color_space"
     ],
@@ -177,16 +187,6 @@
     [
       "Regular Expression Matching Can Be Simple And Fast (2007)",
       "https://swtch.com/~rsc/regexp/regexp1.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 02:18:30",
-      "https://lobste.rs/s/lwaht3/linear_scan_with_lifetime_holes"
-    ],
-    [
-      "Linear scan with lifetime holes",
-      "https://bernsteinbear.com/blog/linear-scan-lifetime-holes/"
     ]
   ],
   [
