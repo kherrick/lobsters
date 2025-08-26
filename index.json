@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-08-26, 03:16:02",
+      "https://lobste.rs/s/ou4qlg/summary_everything_we_know_about_kos"
+    ],
+    [
+      "Summary of everything we know about kOS",
+      "https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 03:03:03",
       "https://lobste.rs/s/x6sye6/inside_windows_3"
     ],
@@ -187,16 +197,6 @@
     [
       "Bro, ban me at the IP level if you don't like me",
       "https://boston.conman.org/2025/08/21.1"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 02:12:55",
-      "https://lobste.rs/s/uq43gz/don_t_pick_weird_subnets_for_embedded"
-    ],
-    [
-      "Don't pick weird subnets for embedded networks, use VRFs",
-      "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/"
     ]
   ],
   [
