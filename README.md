@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-26, 06:15:11](https://lobste.rs/s/oe9w7h/apple_vs_facebook_is_kayfabe) - [Apple vs. Facebook is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)
 * [2025-08-26, 03:31:41](https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use) - [Xz format inadequate for general use](https://www.nongnu.org/lzip/xz_inadequate.html)
 * [2025-08-26, 03:16:02](https://lobste.rs/s/ou4qlg/summary_everything_we_know_about_kos) - [Summary of everything we know about kOS](https://gist.github.com/chrispsn/da00835bb122c42f429a084df83fd746)
 * [2025-08-26, 03:03:03](https://lobste.rs/s/x6sye6/inside_windows_3) - [Inside Windows 3](https://www.xtof.info/inside-windows3.html)
@@ -20,6 +19,7 @@
 * [2025-08-25, 09:11:26](https://lobste.rs/s/btxegl/why_i_read_technical_books) - [Why I Read Technical Books](https://ratfactor.com/b/technical-books)
 * [2025-08-25, 08:51:35](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yskpd6/what_are_you_doing_this_week)
 * [2025-08-25, 04:28:20](https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me) - [Bro, ban me at the IP level if you don't like me](https://boston.conman.org/2025/08/21.1)
+* [2025-08-25, 02:12:55](https://lobste.rs/s/uq43gz/don_t_pick_weird_subnets_for_embedded) - [Don't pick weird subnets for embedded networks, use VRFs](https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/)
 * [2025-08-24, 23:26:47](https://lobste.rs/s/bk3cyd/ghrc_io_appears_be_malicious) - [ghrc.io Appears to be Malicious](https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/)
 * [2025-08-24, 21:16:35](https://lobste.rs/s/cya9ki/i_don_t_like_imports) - [I Don't Like Imports](https://kevincox.ca/2025/07/20/no-imports/)
 * [2025-08-24, 20:39:15](https://lobste.rs/s/ypffje/anubis_offload_userscript_offload) - [anubis_offload: userscript to offload Anubis PoW to native CPU or GPU code](https://github.com/DavidBuchanan314/anubis_offload)
