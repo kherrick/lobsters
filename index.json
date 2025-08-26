@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-08-26, 08:15:04",
+      "https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool"
+    ],
+    [
+      "rv, a new kind of Ruby management tool",
+      "https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 08:12:41",
+      "https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala"
+    ],
+    [
+      "Hands on Capture Checking in Scala",
+      "https://nrinaudo.github.io/articles/capture_checking.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 08:05:03",
+      "https://lobste.rs/s/1nvggc/design_microservice_architectures"
+    ],
+    [
+      "Design Microservice Architectures the Right Way",
+      "https://www.infoq.com/presentations/microservices-arch-infrastructure-cd/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 07:55:29",
+      "https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit"
+    ],
+    [
+      "Emulating aarch64 in software using JIT compilation and Rust",
+      "https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 07:29:57",
       "https://lobste.rs/s/2f1qrt/postmessaged_compromised"
     ],
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2025-08-25, 15:59:22",
-      "https://lobste.rs/s/a6wfg2/making_software_what_is_color_space"
-    ],
-    [
-      "Making Software: What is a color space?",
-      "https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 14:59:42",
       "https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library"
     ],
@@ -127,16 +157,6 @@
     [
       "The Limits of NTP Accuracy on Linux",
       "https://scottstuff.net/posts/2025/05/19/ntp-limits/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 12:39:36",
-      "https://lobste.rs/s/q6exlw/how_much_power_does_gzip_save_on_iot_web"
-    ],
-    [
-      "How much power does gzip save on IoT web access?",
-      "https://bitbanksoftware.blogspot.com/2025/06/how-much-power-does-gzip-save-on-iot.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-08-25, 08:51:35",
-      "https://lobste.rs/s/yskpd6/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/yskpd6/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2025-08-25, 04:28:20",
       "https://lobste.rs/s/pmfuza/bro_ban_me_at_ip_level_if_you_don_t_like_me"
     ],
@@ -207,16 +217,6 @@
     [
       "ghrc.io Appears to be Malicious",
       "https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"
-    ]
-  ],
-  [
-    [
-      "2025-08-24, 21:16:35",
-      "https://lobste.rs/s/cya9ki/i_don_t_like_imports"
-    ],
-    [
-      "I Don't Like Imports",
-      "https://kevincox.ca/2025/07/20/no-imports/"
     ]
   ],
   [
