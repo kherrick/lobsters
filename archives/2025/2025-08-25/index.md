@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-25](index.md)
 
+* [2025-08-25, 21:12:58](https://lobste.rs/s/8mw7xt/prediction_encoded_pixels_tiny_yet) - [Prediction-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 21:12:58](https://lobste.rs/s/8mw7xt/precision_encoded_pixels_tiny_yet) - [Precision-Encoded Pixels: a tiny yet powerful pixel art compression method](https://github.com/ENDESGA/PEP)
 * [2025-08-25, 20:38:06](https://lobste.rs/s/mbh4jl/make_easy_change_hard) - [Make the easy change hard](https://blog.appliedcomputing.io/p/make-the-easy-change-hard)
 * [2025-08-25, 20:31:25](https://lobste.rs/s/xetwz2/google_wants_make_sideloading_android) - [Google wants to make sideloading Android apps safer by verifying developers’ identities](https://www.androidauthority.com/android-developer-verification-requirements-3590911/)
