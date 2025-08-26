@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-08-26, 06:15:11",
-      "https://lobste.rs/s/oe9w7h/apple_vs_facebook_is_kayfabe"
-    ],
-    [
-      "Apple vs. Facebook is Kayfabe",
-      "https://infrequently.org/2025/08/apple-vs-fb-kayfabe/"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 03:31:41",
       "https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use"
     ],
@@ -197,6 +187,16 @@
     [
       "Bro, ban me at the IP level if you don't like me",
       "https://boston.conman.org/2025/08/21.1"
+    ]
+  ],
+  [
+    [
+      "2025-08-25, 02:12:55",
+      "https://lobste.rs/s/uq43gz/don_t_pick_weird_subnets_for_embedded"
+    ],
+    [
+      "Don't pick weird subnets for embedded networks, use VRFs",
+      "https://blog.brixit.nl/dont-pick-weird-subnets-for-embedded-networks/"
     ]
   ],
   [
