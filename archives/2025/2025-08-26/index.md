@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
+* [2025-08-26, 22:02:16](https://lobste.rs/s/6mpyts/trying_get_error_backtraces_rust) - [Trying to get error backtraces in rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:57:26](https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019) - [Chez Scheme vs. SBCL: a comparison (2019)](https://elmord.org/blog/?entry=20191114-sbcl-chez)
 * [2025-08-26, 21:00:50](https://lobste.rs/s/ffkdyr/das_problem_mit_german_strings) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 * [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
