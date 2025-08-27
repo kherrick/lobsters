@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-27, 11:50:38](https://lobste.rs/s/r7csfh/bi_directional_accountability) - [Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid](https://www.alnewkirk.com/bidirectional-accountability/)
 * [2025-08-27, 11:36:21](https://lobste.rs/s/6yb7yl/how_slow_down_program_why_it_can_be_useful) - [How to Slow Down a Program? And Why it Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:33:26](https://lobste.rs/s/nfin3n/llms_for_software_developers_notes_from) - [LLMs for Software Developers (notes from my talk at NWRUG)](https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/)
 * [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
@@ -20,7 +21,6 @@
 * [2025-08-26, 14:22:13](https://lobste.rs/s/z4oxhm/compositional_datalog_on_sql_relational) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
 * [2025-08-26, 13:10:11](https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on) - [Developing an alt text button for images on my website](https://jamesg.blog/2025/08/17/alt-text-button)
 * [2025-08-26, 13:09:01](https://lobste.rs/s/b0jqgq/we_should_rethink_how_we_teach_people_code) - [We should rethink how we teach people to code](https://deadsimpletech.com/blog/notes_teaching_coding)
-* [2025-08-26, 10:20:10](https://lobste.rs/s/pvr9c7/stable_mutable_references) - [Stable, Mutable References](https://antelang.org/blog/stable_mutable_refs/)
 * [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 07:55:29](https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 * [2025-08-26, 03:31:41](https://lobste.rs/s/hsxtpo/xz_format_inadequate_for_general_use) - [Xz format inadequate for general use](https://www.nongnu.org/lzip/xz_inadequate.html)
