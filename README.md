@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-27, 21:31:21](https://lobste.rs/s/xzev05/how_do_you_communicate_with_your_team) - [How do you communicate with your team/organization?](https://lobste.rs/s/xzev05/how_do_you_communicate_with_your_team)
 * [2025-08-27, 20:20:19](https://lobste.rs/s/ulhomf/vulnerability_might_be_proof_concept) - [The vulnerability might be in the proof-of-concept](https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept)
 * [2025-08-27, 17:17:40](https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities) - [Testing Time (and other asyncronicities)](https://go.dev/blog/testing-time)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
@@ -19,7 +20,6 @@
 * [2025-08-26, 23:38:16](https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc) - [So many conferences are mid. Why was BSC 2025 so good?](https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/)
 * [2025-08-26, 21:57:26](https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019) - [Chez Scheme vs. SBCL: a comparison (2019)](https://elmord.org/blog/?entry=20191114-sbcl-chez)
 * [2025-08-26, 21:00:50](https://lobste.rs/s/ffkdyr/das_problem_mit_german_strings) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
-* [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:08:48](https://lobste.rs/s/vk0nvp/i_know_when_you_re_vibe_coding) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
 * [2025-08-26, 14:38:27](https://lobste.rs/s/4tou3b/put_ring_on_it_lock_free_mpmc_ring_buffer) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
