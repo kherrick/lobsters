@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-08-27, 00:23:39",
+      "https://lobste.rs/s/awqyhq/outlandish_recursive_query_examples"
+    ],
+    [
+      "Outlandish Recursive Query Examples",
+      "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 23:38:16",
       "https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc"
     ],
@@ -237,16 +247,6 @@
     [
       "Google wants to make sideloading Android apps safer by verifying developers’ identities",
       "https://www.androidauthority.com/android-developer-verification-requirements-3590911/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 14:59:42",
-      "https://lobste.rs/s/iv17mx/macos_dotfiles_should_not_go_library"
-    ],
-    [
-      "macOS dotfiles should not go in ~/Library/Application Support",
-      "https://becca.ooo/blog/macos-dotfiles/"
     ]
   ]
 ]
