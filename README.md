@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
 * [2025-08-27, 08:53:49](https://lobste.rs/s/ef2w3b/lessons_from_building_game_engine_from) - [Lessons from Building a Game Engine from Scratch in Gleam](https://www.youtube.com/watch?v=uExwRo_qM-k)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
@@ -19,7 +20,6 @@
 * [2025-08-26, 13:10:11](https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on) - [Developing an alt text button for images on my website](https://jamesg.blog/2025/08/17/alt-text-button)
 * [2025-08-26, 13:09:01](https://lobste.rs/s/b0jqgq/we_should_rethink_how_we_teach_people_code) - [We should rethink how we teach people to code](https://deadsimpletech.com/blog/notes_teaching_coding)
 * [2025-08-26, 10:20:10](https://lobste.rs/s/pvr9c7/stable_mutable_references) - [Stable, Mutable References](https://antelang.org/blog/stable_mutable_refs/)
-* [2025-08-26, 08:38:03](https://lobste.rs/s/2jrlab/understand_temporary_allocator) - [Understand the Temporary Allocator; Understand arenas](https://zylinski.se/posts/temporary-allocator-your-first-arena/)
 * [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 * [2025-08-26, 07:55:29](https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit) - [Emulating aarch64 in software using JIT compilation and Rust](https://pitsidianak.is/blog/posts/2025-08-25_emulating_aarch64_in_software_using_JIT_compilation.html)
 * [2025-08-26, 06:15:11](https://lobste.rs/s/oe9w7h/apple_vs_facebook_is_kayfabe) - [Apple vs. Facebook is Kayfabe](https://infrequently.org/2025/08/apple-vs-fb-kayfabe/)

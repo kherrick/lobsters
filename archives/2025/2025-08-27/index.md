@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
 * [2025-08-27, 08:53:49](https://lobste.rs/s/ef2w3b/lessons_from_building_game_engine_from) - [Lessons from Building a Game Engine from Scratch in Gleam](https://www.youtube.com/watch?v=uExwRo_qM-k)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissectingthe_apple_m1_gpu_end) - [Dissectingthe Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
