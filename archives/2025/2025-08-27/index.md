@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 12:34:19](https://lobste.rs/s/fnem4d/nx_compromised_malware_uses_claude_code) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
+* [2025-08-27, 12:34:04](https://lobste.rs/s/huk4su/parents_teenager_who_took_his_own_life_sue) - [Parents of teenager who took his own life sue OpenAI](https://www.bbc.com/news/articles/cgerwp7rdlvo)
 * [2025-08-27, 11:50:38](https://lobste.rs/s/r7csfh/bi_directional_accountability) - [Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid](https://www.alnewkirk.com/bidirectional-accountability/)
 * [2025-08-27, 11:36:21](https://lobste.rs/s/6yb7yl/how_slow_down_program_why_it_can_be_useful) - [How to Slow Down a Program? And Why it Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:33:26](https://lobste.rs/s/nfin3n/llms_for_software_developers_notes_from) - [LLMs for Software Developers (notes from my talk at NWRUG)](https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/)
