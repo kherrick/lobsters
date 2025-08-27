@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-27, 11:15:54",
+      "https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size"
+    ],
+    [
+      "State of the art for reducing executable size with heavily optimized program",
+      "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 08:53:49",
       "https://lobste.rs/s/ef2w3b/lessons_from_building_game_engine_from"
     ],
@@ -187,16 +197,6 @@
     [
       "Stable, Mutable References",
       "https://antelang.org/blog/stable_mutable_refs/"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 08:38:03",
-      "https://lobste.rs/s/2jrlab/understand_temporary_allocator"
-    ],
-    [
-      "Understand the Temporary Allocator; Understand arenas",
-      "https://zylinski.se/posts/temporary-allocator-your-first-arena/"
     ]
   ],
   [
