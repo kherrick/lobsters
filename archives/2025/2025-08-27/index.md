@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 17:17:40](https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities) - [Testing Time (and other asyncronicities)](https://go.dev/blog/testing-time)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 15:34:15](https://lobste.rs/s/jxssnu/why_ai_isn_t_ready_be_real_coder) - [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)

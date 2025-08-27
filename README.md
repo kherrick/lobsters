@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-27, 17:17:40](https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities) - [Testing Time (and other asyncronicities)](https://go.dev/blog/testing-time)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 15:34:15](https://lobste.rs/s/jxssnu/why_ai_isn_t_ready_be_real_coder) - [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
@@ -23,7 +24,6 @@
 * [2025-08-26, 14:38:27](https://lobste.rs/s/4tou3b/put_ring_on_it_lock_free_mpmc_ring_buffer) - [Put a ring on it: a lock-free MPMC ring buffer](https://h4x0r.org/ring/)
 * [2025-08-26, 14:22:13](https://lobste.rs/s/z4oxhm/compositional_datalog_on_sql_relational) - [Compositional Datalog on SQL: Relational Algebra of the Environment](https://www.philipzucker.com/compose_datalog/)
 * [2025-08-26, 13:10:11](https://lobste.rs/s/eb7isb/developing_alt_text_button_for_images_on) - [Developing an alt text button for images on my website](https://jamesg.blog/2025/08/17/alt-text-button)
-* [2025-08-26, 13:09:01](https://lobste.rs/s/b0jqgq/we_should_rethink_how_we_teach_people_code) - [We should rethink how we teach people to code](https://deadsimpletech.com/blog/notes_teaching_coding)
 * [2025-08-26, 08:15:04](https://lobste.rs/s/mnhgwm/rv_new_kind_ruby_management_tool) - [rv, a new kind of Ruby management tool](https://andre.arko.net/2025/08/25/rv-a-new-kind-of-ruby-management-tool/)
 
 ## [Archives](archives/index.md)
