@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 15:34:15](https://lobste.rs/s/jxssnu/why_ai_isn_t_ready_be_real_coder) - [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
 * [2025-08-27, 15:14:14](https://lobste.rs/s/iekyyu/efficient_array_programming) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 * [2025-08-27, 15:05:32](https://lobste.rs/s/1grazp/exploring_dominion_anoma) - [Exploring the Dominion of Anoma](https://research.anoma.net/t/exploring-the-dominion-of-anoma-a-distributed-operating-system/1055)
