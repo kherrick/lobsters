@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-27, 00:23:39",
+      "https://lobste.rs/s/awqyhq/outlandish_recursive_query_examples"
+    ],
+    [
+      "Outlandish Recursive Query Examples",
+      "https://sqlite.org/lang_with.html#outlandish_recursive_query_examples"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 23:38:16",
       "https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc"
     ],
     [
       "So many conferences are mid. Why was BSC 2025 so good?",
       "https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-08-26, 22:46:19",
+      "https://lobste.rs/s/9z2yuj/gnu_artanis_web_app_framework_for_scheme"
+    ],
+    [
+      "GNU Artanis - Web app framework for Scheme",
+      "https://artanis.dev/"
     ]
   ],
   [
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2025-08-26, 18:03:37",
+      "https://lobste.rs/s/ziivnb/linearizability_testing_s2_with"
+    ],
+    [
+      "Linearizability testing S2 with deterministic simulation",
+      "https://s2.dev/blog/linearizability#collecting-concurrent-histories"
+    ]
+  ],
+  [
+    [
       "2025-08-26, 15:35:30",
       "https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting"
     ],
@@ -77,16 +107,6 @@
     [
       "Give Your Spouse the Gift of a Couple's Email Domain",
       "https://mtlynch.io/couples-email-domain/"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 14:53:30",
-      "https://lobste.rs/s/wxsnc3/blast_from_past_facit_a2400_terminal"
-    ],
-    [
-      "Blast from the past: Facit A2400 terminal",
-      "https://jpmens.net/2025/08/26/blast-from-the-past-facit-a2400-terminal/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-26, 08:12:41",
-      "https://lobste.rs/s/w3cvxy/hands_on_capture_checking_scala"
-    ],
-    [
-      "Hands on Capture Checking in Scala",
-      "https://nrinaudo.github.io/articles/capture_checking.html"
-    ]
-  ],
-  [
-    [
       "2025-08-26, 07:55:29",
       "https://lobste.rs/s/tgwtwl/emulating_aarch64_software_using_jit"
     ],
@@ -227,16 +237,6 @@
     [
       "macOS dotfiles should not go in ~/Library/Application Support",
       "https://becca.ooo/blog/macos-dotfiles/"
-    ]
-  ],
-  [
-    [
-      "2025-08-25, 10:54:47",
-      "https://lobste.rs/s/0czhsv/who_s_afraid_hard_page_load"
-    ],
-    [
-      "Who's Afraid of a Hard Page Load?",
-      "https://unplannedobsolescence.com/blog/hard-page-load/"
     ]
   ],
   [
