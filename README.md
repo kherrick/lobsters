@@ -2,7 +2,6 @@
 
 * [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-27, 13:15:59](https://lobste.rs/s/ppq6hf/implementing_forth_go_c) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
-* [2025-08-27, 11:50:38](https://lobste.rs/s/r7csfh/bi_directional_accountability) - [Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid](https://www.alnewkirk.com/bidirectional-accountability/)
 * [2025-08-27, 11:36:21](https://lobste.rs/s/6yb7yl/how_slow_down_program_why_it_can_be_useful) - [How to Slow Down a Program? And Why it Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:33:26](https://lobste.rs/s/nfin3n/llms_for_software_developers_notes_from) - [LLMs for Software Developers (notes from my talk at NWRUG)](https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/)
 * [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
@@ -13,6 +12,7 @@
 * [2025-08-27, 00:23:39](https://lobste.rs/s/awqyhq/outlandish_recursive_query_examples) - [Outlandish Recursive Query Examples](https://sqlite.org/lang_with.html#outlandish_recursive_query_examples)
 * [2025-08-26, 23:38:16](https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc) - [So many conferences are mid. Why was BSC 2025 so good?](https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/)
 * [2025-08-26, 22:46:19](https://lobste.rs/s/9z2yuj/gnu_artanis_web_app_framework_for_scheme) - [GNU Artanis - Web app framework for Scheme](https://artanis.dev/)
+* [2025-08-26, 22:02:16](https://lobste.rs/s/6mpyts/trying_get_error_backtraces_rust) - [Trying to get error backtraces in rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:57:26](https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019) - [Chez Scheme vs. SBCL: a comparison (2019)](https://elmord.org/blog/?entry=20191114-sbcl-chez)
 * [2025-08-26, 21:00:50](https://lobste.rs/s/ffkdyr/das_problem_mit_german_strings) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 * [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
