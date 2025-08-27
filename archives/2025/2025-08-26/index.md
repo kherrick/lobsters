@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2025-08-26](index.md)
 
 * [2025-08-26, 23:38:16](https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc) - [So many conferences are mid. Why was BSC 2025 so good?](https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/)
+* [2025-08-26, 22:46:19](https://lobste.rs/s/9z2yuj/gnu_artanis_web_app_framework_for_scheme) - [GNU Artanis - Web app framework for Scheme](https://artanis.dev/)
 * [2025-08-26, 22:02:16](https://lobste.rs/s/6mpyts/trying_get_error_backtraces_rust) - [Trying to get error backtraces in rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:57:26](https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019) - [Chez Scheme vs. SBCL: a comparison (2019)](https://elmord.org/blog/?entry=20191114-sbcl-chez)
 * [2025-08-26, 21:00:50](https://lobste.rs/s/ffkdyr/das_problem_mit_german_strings) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 * [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
 * [2025-08-26, 18:08:48](https://lobste.rs/s/vk0nvp/i_know_when_you_re_vibe_coding) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
+* [2025-08-26, 18:03:37](https://lobste.rs/s/ziivnb/linearizability_testing_s2_with) - [Linearizability testing S2 with deterministic simulation](https://s2.dev/blog/linearizability#collecting-concurrent-histories)
 * [2025-08-26, 15:35:30](https://lobste.rs/s/xlzrzs/how_my_mail_notifier_avoids_interrupting) - [How my mail notifier avoids interrupting me (2010)](https://utcc.utoronto.ca/~cks/space/blog/tech/AvoidNotifierInterrupts)
 * [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
 * [2025-08-26, 14:55:57](https://lobste.rs/s/cfqztj/inspecting_openpgp_certificates) - [Inspecting OpenPGP certificates](https://openpgp.foo/posts/2025-08-certificate-status/)
