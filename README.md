@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-27, 08:53:49](https://lobste.rs/s/ef2w3b/lessons_from_building_game_engine_from) - [Lessons from Building a Game Engine from Scratch in Gleam](https://www.youtube.com/watch?v=uExwRo_qM-k)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissectingthe_apple_m1_gpu_end) - [Dissectingthe Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 * [2025-08-27, 01:18:19](https://lobste.rs/s/gljsa0/shared_ptr_t_not_always_atomic_reference) - [shared_ptr<T>: the (not always) atomic reference counted smart pointer (2019)](https://snf.github.io/2019/02/13/shared-ptr-optimization/)
 * [2025-08-27, 00:23:39](https://lobste.rs/s/awqyhq/outlandish_recursive_query_examples) - [Outlandish Recursive Query Examples](https://sqlite.org/lang_with.html#outlandish_recursive_query_examples)
 * [2025-08-26, 23:38:16](https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc) - [So many conferences are mid. Why was BSC 2025 so good?](https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/)
 * [2025-08-26, 22:46:19](https://lobste.rs/s/9z2yuj/gnu_artanis_web_app_framework_for_scheme) - [GNU Artanis - Web app framework for Scheme](https://artanis.dev/)
-* [2025-08-26, 22:02:16](https://lobste.rs/s/6mpyts/trying_get_error_backtraces_rust) - [Trying to get error backtraces in rust libraries right](https://www.iroh.computer/blog/error-handling-in-iroh)
 * [2025-08-26, 21:57:26](https://lobste.rs/s/adttgy/chez_scheme_vs_sbcl_comparison_2019) - [Chez Scheme vs. SBCL: a comparison (2019)](https://elmord.org/blog/?entry=20191114-sbcl-chez)
 * [2025-08-26, 21:00:50](https://lobste.rs/s/ffkdyr/das_problem_mit_german_strings) - [Das Problem mit German Strings](https://www.polarsignals.com/blog/posts/2025/08/26/das-problem-mit-german-strings)
 * [2025-08-26, 18:48:45](https://lobste.rs/s/ddjlh2/how_special_register_groups_invaded) - [How \"special register groups\" invaded computer dictionaries for decades (2019)](https://www.righto.com/2019/10/how-special-register-groups-invaded.html)
