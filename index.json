@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-08-27, 11:33:26",
+      "https://lobste.rs/s/nfin3n/llms_for_software_developers_notes_from"
+    ],
+    [
+      "LLMs for Software Developers (notes from my talk at NWRUG)",
+      "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/"
+    ]
+  ],
+  [
+    [
       "2025-08-27, 11:15:54",
       "https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size"
     ],
@@ -217,16 +227,6 @@
     [
       "Put a ring on it: a lock-free MPMC ring buffer",
       "https://h4x0r.org/ring/"
-    ]
-  ],
-  [
-    [
-      "2025-08-26, 14:22:13",
-      "https://lobste.rs/s/z4oxhm/compositional_datalog_on_sql_relational"
-    ],
-    [
-      "Compositional Datalog on SQL: Relational Algebra of the Environment",
-      "https://www.philipzucker.com/compose_datalog/"
     ]
   ],
   [
