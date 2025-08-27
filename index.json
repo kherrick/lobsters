@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-08-27, 16:03:35",
-      "https://lobste.rs/s/g4cq0o/object_oriented_design_patterns"
+      "2025-08-27, 15:14:14",
+      "https://lobste.rs/s/iekyyu/efficient_array_programming"
     ],
     [
-      "Object-oriented design patterns",
-      "https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 15:34:15",
-      "https://lobste.rs/s/jxssnu/why_ai_isn_t_ready_be_real_coder"
-    ],
-    [
-      "Why AI Isn’t Ready to Be a Real Coder",
-      "https://spectrum.ieee.org/ai-for-coding"
+      "Efficient Array Programming",
+      "https://github.com/razetime/efficient-array-programming"
     ]
   ],
   [
@@ -57,6 +47,16 @@
     [
       "How to Slow Down a Program? And Why it Can Be Useful",
       "https://stefan-marr.de/2025/08/how-to-slow-down-a-program/"
+    ]
+  ],
+  [
+    [
+      "2025-08-27, 11:33:26",
+      "https://lobste.rs/s/nfin3n/llms_for_software_developers_notes_from"
+    ],
+    [
+      "LLMs for Software Developers (notes from my talk at NWRUG)",
+      "https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/"
     ]
   ],
   [
