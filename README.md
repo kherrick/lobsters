@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-08-27, 21:31:21](https://lobste.rs/s/xzev05/how_do_you_communicate_with_your_team) - [How do you communicate with your team/organization?](https://lobste.rs/s/xzev05/how_do_you_communicate_with_your_team)
 * [2025-08-27, 20:20:19](https://lobste.rs/s/ulhomf/vulnerability_might_be_proof_concept) - [The vulnerability might be in the proof-of-concept](https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept)
 * [2025-08-27, 17:17:40](https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities) - [Testing Time (and other asyncronicities)](https://go.dev/blog/testing-time)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
@@ -12,6 +11,7 @@
 * [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-27, 13:15:59](https://lobste.rs/s/ppq6hf/implementing_forth_go_c) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 11:36:21](https://lobste.rs/s/6yb7yl/how_slow_down_program_why_it_can_be_useful) - [How to Slow Down a Program? And Why it Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
+* [2025-08-27, 11:33:26](https://lobste.rs/s/nfin3n/llms_for_software_developers_notes_from) - [LLMs for Software Developers (notes from my talk at NWRUG)](https://theartandscienceofruby.com/llms-for-software-developers-notes-from-my-talk-at-nwrug/)
 * [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
 * [2025-08-27, 08:53:49](https://lobste.rs/s/ef2w3b/lessons_from_building_game_engine_from) - [Lessons from Building a Game Engine from Scratch in Gleam](https://www.youtube.com/watch?v=uExwRo_qM-k)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain<T>](https://nshipster.com/uncertainty/)
