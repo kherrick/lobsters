@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-27](index.md)
 
+* [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
+* [2025-08-27, 13:15:59](https://lobste.rs/s/ppq6hf/implementing_forth_go_c) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 12:34:19](https://lobste.rs/s/fnem4d/nx_compromised_malware_uses_claude_code) - [Nx compromised: malware uses Claude code CLI to explore the filesystem](https://semgrep.dev/blog/2025/security-alert-nx-compromised-to-steal-wallets-and-credentials/)
 * [2025-08-27, 12:34:04](https://lobste.rs/s/huk4su/parents_teenager_who_took_his_own_life_sue) - [Parents of teenager who took his own life sue OpenAI](https://www.bbc.com/news/articles/cgerwp7rdlvo)
 * [2025-08-27, 11:50:38](https://lobste.rs/s/r7csfh/bi_directional_accountability) - [Bi-Directional Accountability: The Leadership Shift Most Organizations Avoid](https://www.alnewkirk.com/bidirectional-accountability/)
