@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
 * [2025-08-28, 15:35:03](https://lobste.rs/s/wh0edi/koka_programming_language) - [The Koka programming language](https://lwn.net/Articles/1033050/)
 * [2025-08-28, 15:30:29](https://lobste.rs/s/1b8ize/optimising_for_maintainability_gleam) - [Optimising for maintainability - Gleam in production at Strand](https://gleam.run/case-studies/strand/)
 * [2025-08-28, 14:50:09](https://lobste.rs/s/lppsch/simple_smalltalk_testing_with_patterns) - [Simple Smalltalk Testing: With Patterns (1994)](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)

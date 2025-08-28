@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
 * [2025-08-28, 15:35:03](https://lobste.rs/s/wh0edi/koka_programming_language) - [The Koka programming language](https://lwn.net/Articles/1033050/)
 * [2025-08-28, 15:30:29](https://lobste.rs/s/1b8ize/optimising_for_maintainability_gleam) - [Optimising for maintainability - Gleam in production at Strand](https://gleam.run/case-studies/strand/)
 * [2025-08-28, 14:50:09](https://lobste.rs/s/lppsch/simple_smalltalk_testing_with_patterns) - [Simple Smalltalk Testing: With Patterns (1994)](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
@@ -19,7 +20,6 @@
 * [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 * [2025-08-28, 05:39:22](https://lobste.rs/s/hzyrkt/update_about_hidden_performa_550) - [An update about the hidden Performa 550 recovery partition](https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/)
 * [2025-08-28, 03:01:30](https://lobste.rs/s/9ir5gz/rust_for_everyone) - [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo)
-* [2025-08-27, 20:20:19](https://lobste.rs/s/ulhomf/vulnerability_might_be_proof_concept) - [The vulnerability might be in the proof-of-concept](https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 14:57:54](https://lobste.rs/s/e22pos/inside_zig_s_new_writer) - [Inside Zig's New Writer](https://joegm.github.io/blog/inside-zigs-new-writer-interface/)
 * [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
