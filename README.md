@@ -2,6 +2,7 @@
 
 * [2025-08-28, 19:08:26](https://lobste.rs/s/xz9ssk/simulating_wealth_distribution_agent) - [Simulating wealth distribution in an agent-based system](https://notebooks.manganiello.tech/fabio/wealth-inequality.ipynb)
 * [2025-08-28, 18:38:02](https://lobste.rs/s/u2wufw/20k_bounty_for_reversing_echelon_bike) - [$20k bounty for reversing Echelon bike redeemed](https://www.youtube.com/watch?v=chPzslZKBhI)
+* [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
 * [2025-08-28, 18:13:13](https://lobste.rs/s/bnc3ue/making_minecraft_spherical) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 * [2025-08-28, 17:25:33](https://lobste.rs/s/8cwfyx/block_ads_trackers) - [Block ads and trackers](https://lichess.org/ads)
 * [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
@@ -22,7 +23,6 @@
 * [2025-08-28, 07:51:44](https://lobste.rs/s/pejee5/basics_anchor_positioning) - [The Basics of Anchor Positioning](https://ishadeed.com/article/anchor-positioning/)
 * [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 * [2025-08-28, 05:39:22](https://lobste.rs/s/hzyrkt/update_about_hidden_performa_550) - [An update about the hidden Performa 550 recovery partition](https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/)
-* [2025-08-28, 03:01:30](https://lobste.rs/s/9ir5gz/rust_for_everyone) - [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 14:57:54](https://lobste.rs/s/e22pos/inside_zig_s_new_writer) - [Inside Zig's New Writer](https://joegm.github.io/blog/inside-zigs-new-writer-interface/)
 
