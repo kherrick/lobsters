@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-28, 13:45:00",
+      "https://lobste.rs/s/q2izsp/power_is_network"
+    ],
+    [
+      "The Power is in the Network",
+      "https://morrisbrodersen.de/the-power-is-in-the-network/"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 13:37:12",
+      "https://lobste.rs/s/ib7eky/sometimes_cpu_cores_are_odd"
+    ],
+    [
+      "Sometimes CPU cores are odd",
+      "https://anubis.techaro.lol/blog/2025/cpu-core-odd"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 13:24:18",
       "https://lobste.rs/s/i0lfhx/anthropic_s_auto_clicking_ai_chrome"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-27, 17:17:40",
-      "https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities"
-    ],
-    [
-      "Testing Time (and other asyncronicities)",
-      "https://go.dev/blog/testing-time"
-    ]
-  ],
-  [
-    [
       "2025-08-27, 17:14:58",
       "https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "Malicious versions of Nx and some supporting plugins were published",
       "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 11:15:54",
-      "https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size"
-    ],
-    [
-      "State of the art for reducing executable size with heavily optimized program",
-      "https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952"
     ]
   ],
   [
