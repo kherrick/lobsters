@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-28, 11:12:18](https://lobste.rs/s/rd5gpm/are_people_s_bosses_really_making_them_use) - [Are people’s bosses really making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
 * [2025-08-28, 08:32:01](https://lobste.rs/s/i1jlzk/desktop_metaphor_must_be_restored_it_s) - [The desktop metaphor must be restored. It’s under attack! (2020)](https://medium.com/@probonopd/the-desktop-metaphor-must-be-restored-its-under-attack-6fcd8fa45cc)
 * [2025-08-28, 08:25:11](https://lobste.rs/s/vb9bex/printing_labels_via_ssh_with_raspberry_pi) - [Printing labels via SSH with Raspberry Pi Zero and Nix](https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/)
 * [2025-08-28, 07:51:44](https://lobste.rs/s/pejee5/basics_anchor_positioning) - [The Basics of Anchor Positioning](https://ishadeed.com/article/anchor-positioning/)
@@ -10,7 +11,6 @@
 * [2025-08-27, 20:13:29](https://lobste.rs/s/nkw0jk/music_break_models_by) - [Music to Break Models By](https://matthodges.com/posts/2025-08-26-music-to-break-models-by/)
 * [2025-08-27, 17:17:40](https://lobste.rs/s/gcwpnc/testing_time_other_asyncronicities) - [Testing Time (and other asyncronicities)](https://go.dev/blog/testing-time)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
-* [2025-08-27, 17:14:30](https://lobste.rs/s/a6tlkb/doxx_viewer_for_microsoft_word_docx_files) - [doxx - A viewer for Microsoft Word .docx files in the terminal](https://terminaltrove.com/doxx/)
 * [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 15:34:15](https://lobste.rs/s/jxssnu/why_ai_isn_t_ready_be_real_coder) - [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
 * [2025-08-27, 15:14:14](https://lobste.rs/s/iekyyu/efficient_array_programming) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
