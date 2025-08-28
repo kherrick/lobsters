@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-28, 14:50:09",
+      "https://lobste.rs/s/lppsch/simple_smalltalk_testing_with_patterns"
+    ],
+    [
+      "Simple Smalltalk Testing: With Patterns (1994)",
+      "https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 14:15:26",
       "https://lobste.rs/s/aupout/superfly_compiler_for_functional_low"
     ],
@@ -217,16 +227,6 @@
     [
       "Malicious versions of Nx and some supporting plugins were published",
       "https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 02:54:28",
-      "https://lobste.rs/s/ibyhse/uncertain_t"
-    ],
-    [
-      "Uncertain<T>",
-      "https://nshipster.com/uncertainty/"
     ]
   ],
   [
