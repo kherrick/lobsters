@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 19:44:36](https://lobste.rs/s/u9kpmw/debian_13_my_list_exciting_new_features) - [Debian 13: My list of exciting new features](https://samueloph.dev/blog/debian-13-my-list-of-exciting-new-things/)
 * [2025-08-28, 19:08:26](https://lobste.rs/s/xz9ssk/simulating_wealth_distribution_agent) - [Simulating wealth distribution in an agent-based system](https://notebooks.manganiello.tech/fabio/wealth-inequality.ipynb)
 * [2025-08-28, 18:38:02](https://lobste.rs/s/u2wufw/20k_bounty_for_reversing_echelon_bike) - [$20k bounty for reversing Echelon bike redeemed](https://www.youtube.com/watch?v=chPzslZKBhI)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
