@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-28, 15:35:03](https://lobste.rs/s/wh0edi/koka_programming_language) - [The Koka programming language](https://lwn.net/Articles/1033050/)
+* [2025-08-28, 15:30:29](https://lobste.rs/s/1b8ize/optimising_for_maintainability_gleam) - [Optimising for maintainability - Gleam in production at Strand](https://gleam.run/case-studies/strand/)
 * [2025-08-28, 14:50:09](https://lobste.rs/s/lppsch/simple_smalltalk_testing_with_patterns) - [Simple Smalltalk Testing: With Patterns (1994)](https://web.archive.org/web/20150315073817/http://www.xprogramming.com/testfram.htm)
 * [2025-08-28, 14:15:26](https://lobste.rs/s/aupout/superfly_compiler_for_functional_low) - [superfly: A compiler for a functional low-level language, targeting tiny computers](https://codeberg.org/Bunny351/superfly)
 * [2025-08-28, 14:12:47](https://lobste.rs/s/ib1oea/i_ll_only_buy_devices_with_grapheneos) - [I'll only buy devices with GrapheneOS](https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/)
@@ -20,7 +21,6 @@
 * [2025-08-28, 03:01:30](https://lobste.rs/s/9ir5gz/rust_for_everyone) - [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo)
 * [2025-08-27, 20:20:19](https://lobste.rs/s/ulhomf/vulnerability_might_be_proof_concept) - [The vulnerability might be in the proof-of-concept](https://sethmlarson.dev/the-vulnerability-is-in-the-proof-of-concept)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
-* [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 14:57:54](https://lobste.rs/s/e22pos/inside_zig_s_new_writer) - [Inside Zig's New Writer](https://joegm.github.io/blog/inside-zigs-new-writer-interface/)
 * [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
