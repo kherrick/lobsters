@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-28, 18:38:02](https://lobste.rs/s/u2wufw/20k_bounty_for_reversing_echelon_bike) - [$20k bounty for reversing Echelon bike redeemed](https://www.youtube.com/watch?v=chPzslZKBhI)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
+* [2025-08-28, 18:13:13](https://lobste.rs/s/bnc3ue/making_minecraft_spherical) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 * [2025-08-28, 17:25:33](https://lobste.rs/s/8cwfyx/block_ads_trackers) - [Block ads and trackers](https://lichess.org/ads)
 * [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
 * [2025-08-28, 15:35:03](https://lobste.rs/s/wh0edi/koka_programming_language) - [The Koka programming language](https://lwn.net/Articles/1033050/)
@@ -16,7 +18,6 @@
 * [2025-08-28, 12:13:29](https://lobste.rs/s/hfp00w/gmp_damages_amd_zen_5_cpus) - [GMP damages AMD Zen 5 CPUs](https://gmplib.org/gmp-zen5)
 * [2025-08-28, 11:38:56](https://lobste.rs/s/ggtdgo/what_interns_have_wrought_2025_edition) - [What the interns have wrought, 2025 edition](https://blog.janestreet.com/wrought-2025/)
 * [2025-08-28, 11:12:18](https://lobste.rs/s/rd5gpm/are_people_s_bosses_really_making_them_use) - [Are people’s bosses really making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
-* [2025-08-28, 08:32:01](https://lobste.rs/s/i1jlzk/desktop_metaphor_must_be_restored_it_s) - [The desktop metaphor must be restored. It’s under attack! (2020)](https://medium.com/@probonopd/the-desktop-metaphor-must-be-restored-its-under-attack-6fcd8fa45cc)
 * [2025-08-28, 08:25:11](https://lobste.rs/s/vb9bex/printing_labels_via_ssh_with_raspberry_pi) - [Printing labels via SSH with Raspberry Pi Zero and Nix](https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/)
 * [2025-08-28, 07:51:44](https://lobste.rs/s/pejee5/basics_anchor_positioning) - [The Basics of Anchor Positioning](https://ishadeed.com/article/anchor-positioning/)
 * [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
@@ -24,7 +25,6 @@
 * [2025-08-28, 03:01:30](https://lobste.rs/s/9ir5gz/rust_for_everyone) - [Rust for Everyone](https://www.youtube.com/watch?v=R0dP-QR5wQo)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 14:57:54](https://lobste.rs/s/e22pos/inside_zig_s_new_writer) - [Inside Zig's New Writer](https://joegm.github.io/blog/inside-zigs-new-writer-interface/)
-* [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 
 ## [Archives](archives/index.md)
 
