@@ -2,6 +2,7 @@
 
 * [2025-08-28, 21:36:41](https://lobste.rs/s/ikj4ff/flat_monthly_subscription_open_source) - [A flat monthly subscription to open-source LLMs](https://synthetic.new/newsletter/entries/subscriptions)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+* [2025-08-28, 20:32:17](https://lobste.rs/s/a3cbx0/finding_bugs_coding_agent_with) - [Finding Bugs in a Coding Agent with Lightweight DST](https://wickstrom.tech/2025-08-28-findings-bugs-coding-agent-lightweight-dst.html)
 * [2025-08-28, 19:44:36](https://lobste.rs/s/u9kpmw/debian_13_my_list_exciting_new_features) - [Debian 13: My list of exciting new features](https://samueloph.dev/blog/debian-13-my-list-of-exciting-new-things/)
 * [2025-08-28, 18:52:33](https://lobste.rs/s/q2lbzh/newton_data_storage) - [Newton Data Storage](http://www.canicula.com/newton/prog/soups.htm)
 * [2025-08-28, 18:38:02](https://lobste.rs/s/u2wufw/20k_bounty_for_reversing_echelon_bike) - [$20k bounty for reversing Echelon bike redeemed](https://www.youtube.com/watch?v=chPzslZKBhI)
@@ -23,7 +24,6 @@
 * [2025-08-28, 08:25:11](https://lobste.rs/s/vb9bex/printing_labels_via_ssh_with_raspberry_pi) - [Printing labels via SSH with Raspberry Pi Zero and Nix](https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/)
 * [2025-08-28, 07:51:44](https://lobste.rs/s/pejee5/basics_anchor_positioning) - [The Basics of Anchor Positioning](https://ishadeed.com/article/anchor-positioning/)
 * [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
-* [2025-08-28, 05:39:22](https://lobste.rs/s/hzyrkt/update_about_hidden_performa_550) - [An update about the hidden Performa 550 recovery partition](https://www.downtowndougbrown.com/2025/08/an-update-about-the-hidden-performa-550-recovery-partition/)
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 
 ## [Archives](archives/index.md)
