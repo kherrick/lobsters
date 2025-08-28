@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-28, 13:24:18](https://lobste.rs/s/i0lfhx/anthropic_s_auto_clicking_ai_chrome) - [Anthropic’s auto-clicking AI Chrome extension raises browser-hijacking concerns](https://arstechnica.com/information-technology/2025/08/new-ai-browser-agents-create-risks-if-sites-hijack-them-with-hidden-instructions/)
 * [2025-08-28, 12:37:01](https://lobste.rs/s/miidtt/rupert_s_property_cut_hole_polyhedron_big) - [Rupert’s property: cut a hole in a polyhedron big enough for an identical copy to slide through](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
 * [2025-08-28, 12:32:36](https://lobste.rs/s/wrxf8l/group_borrowing_zero_cost_memory_safety) - [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
 * [2025-08-28, 12:19:10](https://lobste.rs/s/luvy7m/guessing_game_haskell_style) - [Guessing game: Haskell style](https://entropicthoughts.com/guessing-game-haskell-style)
@@ -20,7 +21,6 @@
 * [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 14:57:54](https://lobste.rs/s/e22pos/inside_zig_s_new_writer) - [Inside Zig's New Writer](https://joegm.github.io/blog/inside-zigs-new-writer-interface/)
 * [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
-* [2025-08-27, 13:15:59](https://lobste.rs/s/ppq6hf/implementing_forth_go_c) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
 * [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
