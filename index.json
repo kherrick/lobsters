@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-08-28, 18:38:02",
+      "https://lobste.rs/s/u2wufw/20k_bounty_for_reversing_echelon_bike"
+    ],
+    [
+      "$20k bounty for reversing Echelon bike redeemed",
+      "https://www.youtube.com/watch?v=chPzslZKBhI"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 18:17:55",
       "https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so"
     ],
     [
       "Writing Mac and iOS Apps Shouldn’t Be So Difficult",
       "https://inessential.com/2025/08/28/easy-app-writing.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 18:13:13",
+      "https://lobste.rs/s/bnc3ue/making_minecraft_spherical"
+    ],
+    [
+      "Making Minecraft Spherical",
+      "https://www.bowerbyte.com/posts/blocky-planet/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-28, 08:32:01",
-      "https://lobste.rs/s/i1jlzk/desktop_metaphor_must_be_restored_it_s"
-    ],
-    [
-      "The desktop metaphor must be restored. It’s under attack! (2020)",
-      "https://medium.com/@probonopd/the-desktop-metaphor-must-be-restored-its-under-attack-6fcd8fa45cc"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 08:25:11",
       "https://lobste.rs/s/vb9bex/printing_labels_via_ssh_with_raspberry_pi"
     ],
@@ -237,16 +247,6 @@
     [
       "Inside Zig's New Writer",
       "https://joegm.github.io/blog/inside-zigs-new-writer-interface/"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 02:47:19",
-      "https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end"
-    ],
-    [
-      "Dissecting the Apple M1 GPU, the end",
-      "https://rosenzweig.io/blog/asahi-gpu-part-n.html"
     ]
   ]
 ]
