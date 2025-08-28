@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
 * [2025-08-28, 17:25:33](https://lobste.rs/s/8cwfyx/block_ads_trackers_lichess_org) - [Block ads and trackers • lichess.org](https://lichess.org/ads)
 * [2025-08-28, 17:25:33](https://lobste.rs/s/8cwfyx/block_ads_trackers) - [Block ads and trackers](https://lichess.org/ads)
 * [2025-08-28, 17:01:25](https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4) - [Tic-tac-toe meets Lean 4](https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/)
