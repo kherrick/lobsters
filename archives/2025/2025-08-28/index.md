@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 12:37:01](https://lobste.rs/s/miidtt/rupert_s_property_cut_hole_polyhedron_big) - [Rupert’s property: cut a hole in a polyhedron big enough for an identical copy to slide through](https://johncarlosbaez.wordpress.com/2025/08/28/a-polyhedron-without-ruperts-property/)
+* [2025-08-28, 12:32:36](https://lobste.rs/s/wrxf8l/group_borrowing_zero_cost_memory_safety) - [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing)
 * [2025-08-28, 12:19:10](https://lobste.rs/s/luvy7m/guessing_game_haskell_style) - [Guessing game: Haskell style](https://entropicthoughts.com/guessing-game-haskell-style)
 * [2025-08-28, 12:13:29](https://lobste.rs/s/hfp00w/gmp_damages_amd_zen_5_cpus) - [GMP damages AMD Zen 5 CPUs](https://gmplib.org/gmp-zen5)
 * [2025-08-28, 11:51:53](https://lobste.rs/s/zmb3h4/notional_design_studio) - [A notional design studio](https://ethanmarcotte.com/wrote/a-notional-design-studio/)
