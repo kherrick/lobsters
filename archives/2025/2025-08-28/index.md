@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-28](index.md)
 
+* [2025-08-28, 21:36:41](https://lobste.rs/s/ikj4ff/flat_monthly_subscription_open_source) - [A flat monthly subscription to open-source LLMs](https://synthetic.new/newsletter/entries/subscriptions)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 20:32:17](https://lobste.rs/s/a3cbx0/finding_bugs_coding_agent_with) - [Finding Bugs in a Coding Agent with Lightweight DST](https://wickstrom.tech/2025-08-28-findings-bugs-coding-agent-lightweight-dst.html)
 * [2025-08-28, 19:44:36](https://lobste.rs/s/u9kpmw/debian_13_my_list_exciting_new_features) - [Debian 13: My list of exciting new features](https://samueloph.dev/blog/debian-13-my-list-of-exciting-new-things/)
