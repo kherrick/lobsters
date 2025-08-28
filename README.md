@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-28, 12:19:10](https://lobste.rs/s/luvy7m/guessing_game_haskell_style) - [Guessing game: Haskell style](https://entropicthoughts.com/guessing-game-haskell-style)
+* [2025-08-28, 12:13:29](https://lobste.rs/s/hfp00w/gmp_damages_amd_zen_5_cpus) - [GMP damages AMD Zen 5 CPUs](https://gmplib.org/gmp-zen5)
+* [2025-08-28, 11:51:53](https://lobste.rs/s/zmb3h4/notional_design_studio) - [A notional design studio](https://ethanmarcotte.com/wrote/a-notional-design-studio/)
 * [2025-08-28, 11:38:56](https://lobste.rs/s/ggtdgo/what_interns_have_wrought_2025_edition) - [What the interns have wrought, 2025 edition](https://blog.janestreet.com/wrought-2025/)
 * [2025-08-28, 11:12:18](https://lobste.rs/s/rd5gpm/are_people_s_bosses_really_making_them_use) - [Are people’s bosses really making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
 * [2025-08-28, 08:32:01](https://lobste.rs/s/i1jlzk/desktop_metaphor_must_be_restored_it_s) - [The desktop metaphor must be restored. It’s under attack! (2020)](https://medium.com/@probonopd/the-desktop-metaphor-must-be-restored-its-under-attack-6fcd8fa45cc)
@@ -14,17 +17,14 @@
 * [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 * [2025-08-27, 16:03:35](https://lobste.rs/s/g4cq0o/object_oriented_design_patterns) - [Object-oriented design patterns](https://oshub.org/projects/retros-32/posts/object-oriented-design-patterns-in-osdev)
 * [2025-08-27, 15:34:15](https://lobste.rs/s/jxssnu/why_ai_isn_t_ready_be_real_coder) - [Why AI Isn’t Ready to Be a Real Coder](https://spectrum.ieee.org/ai-for-coding)
-* [2025-08-27, 15:14:14](https://lobste.rs/s/iekyyu/efficient_array_programming) - [Efficient Array Programming](https://github.com/razetime/efficient-array-programming)
 * [2025-08-27, 14:57:54](https://lobste.rs/s/e22pos/inside_zig_s_new_writer) - [Inside Zig's New Writer](https://joegm.github.io/blog/inside-zigs-new-writer-interface/)
 * [2025-08-27, 13:23:58](https://lobste.rs/s/imehlk/malicious_versions_nx_some_supporting) - [Malicious versions of Nx and some supporting plugins were published](https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c)
 * [2025-08-27, 13:15:59](https://lobste.rs/s/ppq6hf/implementing_forth_go_c) - [Implementing Forth in Go and C](https://eli.thegreenplace.net/2025/implementing-forth-in-go-and-c/)
-* [2025-08-27, 11:36:21](https://lobste.rs/s/6yb7yl/how_slow_down_program_why_it_can_be_useful) - [How to Slow Down a Program? And Why it Can Be Useful](https://stefan-marr.de/2025/08/how-to-slow-down-a-program/)
 * [2025-08-27, 11:15:54](https://lobste.rs/s/7iiuxu/state_art_for_reducing_executable_size) - [State of the art for reducing executable size with heavily optimized program](https://discourse.llvm.org/t/state-of-the-art-for-reducing-executable-size-with-heavily-optimized-program/87952)
 * [2025-08-27, 02:54:28](https://lobste.rs/s/ibyhse/uncertain_t) - [Uncertain<T>](https://nshipster.com/uncertainty/)
 * [2025-08-27, 02:47:19](https://lobste.rs/s/31d67l/dissecting_apple_m1_gpu_end) - [Dissecting the Apple M1 GPU, the end](https://rosenzweig.io/blog/asahi-gpu-part-n.html)
 * [2025-08-26, 23:38:16](https://lobste.rs/s/na4vsd/so_many_conferences_are_mid_why_was_bsc) - [So many conferences are mid. Why was BSC 2025 so good?](https://bgthompson.codeberg.page/blog/thoughts-on-BSC-2025/)
 * [2025-08-26, 18:08:48](https://lobste.rs/s/vk0nvp/i_know_when_you_re_vibe_coding) - [I Know When You're Vibe Coding](https://alexkondov.com/i-know-when-youre-vibe-coding/)
-* [2025-08-26, 14:57:37](https://lobste.rs/s/gus44s/give_your_spouse_gift_couple_s_email) - [Give Your Spouse the Gift of a Couple's Email Domain](https://mtlynch.io/couples-email-domain/)
 
 ## [Archives](archives/index.md)
 
