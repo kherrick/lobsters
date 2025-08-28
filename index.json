@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-28, 20:32:17",
+      "https://lobste.rs/s/a3cbx0/finding_bugs_coding_agent_with"
+    ],
+    [
+      "Finding Bugs in a Coding Agent with Lightweight DST",
+      "https://wickstrom.tech/2025-08-28-findings-bugs-coding-agent-lightweight-dst.html"
+    ]
+  ],
+  [
+    [
       "2025-08-28, 19:44:36",
       "https://lobste.rs/s/u9kpmw/debian_13_my_list_exciting_new_features"
     ],
@@ -17,6 +27,16 @@
     [
       "Simulating wealth distribution in an agent-based system",
       "https://notebooks.manganiello.tech/fabio/wealth-inequality.ipynb"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 18:52:33",
+      "https://lobste.rs/s/q2lbzh/newton_data_storage"
+    ],
+    [
+      "Newton Data Storage",
+      "http://www.canicula.com/newton/prog/soups.htm"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-08-28, 11:38:56",
-      "https://lobste.rs/s/ggtdgo/what_interns_have_wrought_2025_edition"
-    ],
-    [
-      "What the interns have wrought, 2025 edition",
-      "https://blog.janestreet.com/wrought-2025/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 11:12:18",
       "https://lobste.rs/s/rd5gpm/are_people_s_bosses_really_making_them_use"
     ],
@@ -237,16 +247,6 @@
     [
       "The unexpected productivity boost of Rust",
       "https://lubeno.dev/blog/rusts-productivity-curve"
-    ]
-  ],
-  [
-    [
-      "2025-08-27, 14:57:54",
-      "https://lobste.rs/s/e22pos/inside_zig_s_new_writer"
-    ],
-    [
-      "Inside Zig's New Writer",
-      "https://joegm.github.io/blog/inside-zigs-new-writer-interface/"
     ]
   ]
 ]
