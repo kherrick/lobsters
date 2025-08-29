@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-08-29, 03:02:15](https://lobste.rs/s/tbi16r/axis_epmd_you) - [Axis, EPMD, and You](https://nautilus.institute/blog/2025/axis-epmd-and-you/)
+* [2025-08-29, 02:15:46](https://lobste.rs/s/34087c/java_25_s_new_cpu_time_profiler) - [Java 25's new CPU-Time Profiler](https://mostlynerdless.de/blog/2025/06/11/java-25s-new-cpu-time-profiler-1/)
 * [2025-08-29, 01:09:19](https://lobste.rs/s/gft7eu/expert_lsp_official_elixir_language) - [Expert LSP: Official Elixir Language Server](https://github.com/elixir-lang/expert)
 * [2025-08-28, 21:36:41](https://lobste.rs/s/ikj4ff/flat_monthly_subscription_open_source) - [A flat monthly subscription to open-source LLMs](https://synthetic.new/newsletter/entries/subscriptions)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
-* [2025-08-28, 20:32:17](https://lobste.rs/s/a3cbx0/finding_bugs_coding_agent_with) - [Finding Bugs in a Coding Agent with Lightweight DST](https://wickstrom.tech/2025-08-28-findings-bugs-coding-agent-lightweight-dst.html)
 * [2025-08-28, 19:44:36](https://lobste.rs/s/u9kpmw/debian_13_my_list_exciting_new_features) - [Debian 13: My list of exciting new features](https://samueloph.dev/blog/debian-13-my-list-of-exciting-new-things/)
 * [2025-08-28, 18:52:33](https://lobste.rs/s/q2lbzh/newton_data_storage) - [Newton Data Storage](http://www.canicula.com/newton/prog/soups.htm)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
