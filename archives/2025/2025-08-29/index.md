@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
+* [2025-08-29, 17:59:13](https://lobste.rs/s/uiekig/pyret_programming_language_for) - [Pyret: A programming language for programming education](https://pyret.org/)
+* [2025-08-29, 17:19:27](https://lobste.rs/s/hgpdws/sqlite_s_durability_settings_are_mess) - [SQLite's Durability Settings are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 16:48:38](https://lobste.rs/s/1gvza6/best_way_advertise_language) - [The best way to advertise a language](https://www.stylewarning.com/posts/write-programs/)
 * [2025-08-29, 15:50:08](https://lobste.rs/s/gkfnb7/hygguile_ui_with_scheme) - [hygguile: UI with Scheme](https://codeberg.org/jjba23/hygguile)
 * [2025-08-29, 15:28:17](https://lobste.rs/s/imftzh/god_created_real_numbers) - [God created the real numbers](https://www.ethanheilman.com/x/34/index.html)
