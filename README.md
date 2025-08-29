@@ -4,6 +4,7 @@
 * [2025-08-29, 11:26:14](https://lobste.rs/s/w4hd6d/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/w4hd6d/what_are_you_doing_this_weekend)
 * [2025-08-29, 11:19:49](https://lobste.rs/s/7ecrz1/style_your_underlines) - [Style your underlines](https://adactio.com/journal/22084)
 * [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I've Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
+* [2025-08-29, 06:44:07](https://lobste.rs/s/gcsmnd/primitive_tortureboard) - [The primitive tortureboard](https://aresluna.org/the-primitive-tortureboard/)
 * [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-29, 05:40:59](https://lobste.rs/s/fok4qx/which_parsing_approach_2020) - [Which Parsing Approach? (2020)](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2025-08-29, 05:03:14](https://lobste.rs/s/ydjspd/case_for_writing_coding_manually) - [The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
@@ -23,7 +24,6 @@
 * [2025-08-28, 12:19:10](https://lobste.rs/s/luvy7m/guessing_game_haskell_style) - [Guessing game: Haskell style](https://entropicthoughts.com/guessing-game-haskell-style)
 * [2025-08-28, 12:13:29](https://lobste.rs/s/hfp00w/gmp_damages_amd_zen_5_cpus) - [GMP damages AMD Zen 5 CPUs](https://gmplib.org/gmp-zen5)
 * [2025-08-28, 11:12:18](https://lobste.rs/s/rd5gpm/are_people_s_bosses_really_making_them_use) - [Are people’s bosses really making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
-* [2025-08-28, 08:25:11](https://lobste.rs/s/vb9bex/printing_labels_via_ssh_with_raspberry_pi) - [Printing labels via SSH with Raspberry Pi Zero and Nix](https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/)
 * [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 
 ## [Archives](archives/index.md)
