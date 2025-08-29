@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-29, 05:40:59](https://lobste.rs/s/fok4qx/which_parsing_approach) - [Which Parsing Approach?](https://tratt.net/laurie/blog/2020/which_parsing_approach.html)
 * [2025-08-29, 05:03:14](https://lobste.rs/s/ydjspd/case_for_writing_coding_manually) - [The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
 * [2025-08-29, 03:54:25](https://lobste.rs/s/ada1u6/unpacking_passkeys_pwned_possibly_most) - [Unpacking Passkeys Pwned: Possibly the most specious research in decades](https://arstechnica.com/security/2025/08/new-research-claiming-passkeys-can-be-stolen-is-pure-nonsense/)
@@ -24,7 +25,6 @@
 * [2025-08-28, 11:12:18](https://lobste.rs/s/rd5gpm/are_people_s_bosses_really_making_them_use) - [Are people’s bosses really making them use AI tools?](https://piccalil.li/blog/are-peoples-bosses-really-making-them-use-ai/)
 * [2025-08-28, 08:25:11](https://lobste.rs/s/vb9bex/printing_labels_via_ssh_with_raspberry_pi) - [Printing labels via SSH with Raspberry Pi Zero and Nix](https://nmattia.com/posts/2025-08-28-label-printer-rpi-nix/)
 * [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
-* [2025-08-27, 17:14:58](https://lobste.rs/s/fz3mgu/unexpected_productivity_boost_rust) - [The unexpected productivity boost of Rust](https://lubeno.dev/blog/rusts-productivity-curve)
 
 ## [Archives](archives/index.md)
 
