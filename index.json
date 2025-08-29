@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-29, 15:50:08",
+      "https://lobste.rs/s/gkfnb7/hygguile_ui_with_scheme"
+    ],
+    [
+      "hygguile: UI with Scheme",
+      "https://codeberg.org/jjba23/hygguile"
+    ]
+  ],
+  [
+    [
       "2025-08-29, 15:28:17",
       "https://lobste.rs/s/imftzh/god_created_real_numbers"
     ],
@@ -47,6 +57,16 @@
     [
       "An Open Letter to Everyone I've Butted Heads With",
       "https://andrewkelley.me/post/open-letter-everyone-butted-heads.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 06:44:07",
+      "https://lobste.rs/s/gcsmnd/primitive_tortureboard"
+    ],
+    [
+      "The primitive tortureboard",
+      "https://aresluna.org/the-primitive-tortureboard/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-28, 17:01:25",
-      "https://lobste.rs/s/6gla0a/tic_tac_toe_meets_lean_4"
-    ],
-    [
-      "Tic-tac-toe meets Lean 4",
-      "https://ochagavia.nl/blog/tic-tac-toe-meets-lean-4/"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 15:35:03",
       "https://lobste.rs/s/wh0edi/koka_programming_language"
     ],
@@ -197,16 +207,6 @@
     [
       "Sometimes CPU cores are odd",
       "https://anubis.techaro.lol/blog/2025/cpu-core-odd"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 12:32:36",
-      "https://lobste.rs/s/wrxf8l/group_borrowing_zero_cost_memory_safety"
-    ],
-    [
-      "Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions",
-      "https://verdagon.dev/blog/group-borrowing"
     ]
   ],
   [
