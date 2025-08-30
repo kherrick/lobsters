@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-30, 16:47:24](https://lobste.rs/s/adcfj0/gershwin_desktop_os_x_like_desktop) - [gershwin-desktop: OS X-like Desktop Environment available exclusively in GhostBSD as a community flavor](https://github.com/gershwin-desktop/gershwin-desktop)
 * [2025-08-30, 15:56:09](https://lobste.rs/s/mqbcib/aws_has_finally_made_sqs_viable_queuing) - [AWS has finally made SQS a viable queuing solution](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/)
 * [2025-08-30, 15:24:16](https://lobste.rs/s/ag6bcx/web_we_lost_2012) - [The Web We Lost (2012)](https://www.anildash.com//2012/12/13/the_web_we_lost/)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
@@ -13,7 +14,6 @@
 * [2025-08-30, 02:49:07](https://lobste.rs/s/ch6jjw/rationale_for_nickel_configuration) - [The rationale for the Nickel configuration language](https://github.com/tweag/nickel/blob/master/RATIONALE.md)
 * [2025-08-30, 01:29:13](https://lobste.rs/s/suyihr/moof_mind_history_dogcow_1997) - [Moof! in Mind! The history of dogcow (1997)](https://www.storybytes.com/view-moof/articles/mim.html)
 * [2025-08-29, 22:56:22](https://lobste.rs/s/rwtagp/snuffle_salsa_chacha) - [snuffle / salsa / chacha](https://graydon2.dreamwidth.org/319755.html)
-* [2025-08-29, 20:54:14](https://lobste.rs/s/n0hb2u/destructure_as_reminder) - [Destructure as a Reminder](https://home.expurple.me/posts/destructure-as-a-reminder/)
 * [2025-08-29, 20:46:51](https://lobste.rs/s/jx7r3c/do_simplest_thing_could_possibly_work) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 18:23:17](https://lobste.rs/s/acz07b/default_search_engine_wikipedia) - [Default search engine: Wikipedia](https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091)
 * [2025-08-29, 17:59:13](https://lobste.rs/s/uiekig/pyret_programming_language_for) - [Pyret: A programming language for programming education](https://pyret.org/)
