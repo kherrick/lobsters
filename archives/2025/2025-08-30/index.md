@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 22:21:08](https://lobste.rs/s/hr4xja/bootstrapping_forth_for_art) - [Bootstrapping a Forth for Art](https://tia.mat.br/posts/2025/08/30/forth-haiku.html)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
 * [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)

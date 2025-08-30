@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-30, 22:21:08](https://lobste.rs/s/hr4xja/bootstrapping_forth_for_art) - [Bootstrapping a Forth for Art](https://tia.mat.br/posts/2025/08/30/forth-haiku.html)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
 * [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
@@ -23,7 +24,6 @@
 * [2025-08-29, 17:19:27](https://lobste.rs/s/hgpdws/sqlite_s_durability_settings_are_mess) - [SQLite's Durability Settings are a Mess](https://www.agwa.name/blog/post/sqlite_durability)
 * [2025-08-29, 15:28:17](https://lobste.rs/s/imftzh/god_created_real_numbers) - [God created the real numbers](https://www.ethanheilman.com/x/34/index.html)
 * [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I've Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
-* [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## [Archives](archives/index.md)
