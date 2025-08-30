@@ -2,6 +2,7 @@
 
 * [2025-08-30, 08:44:09](https://lobste.rs/s/lgs8qv/triangle_grids) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-30, 07:21:34](https://lobste.rs/s/1t1cr0/rust_ints_rust_enums_with_less) - [Rust ints to Rust enums with less instructions](https://sailor.li/ints-to-enums)
+* [2025-08-30, 07:06:24](https://lobste.rs/s/oyxahw/i_m_concerned_excerpt) - [I'm concerned (excerpt)](https://studium.dev/tech/im-concerned-integrity)
 * [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 06:43:50](https://lobste.rs/s/qumksr/interview_with_julio_barba) - [An Interview With Julio Barba](https://halide.cx/blog/julio-barba-interview/)
 * [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)
@@ -23,7 +24,6 @@
 * [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
-* [2025-08-28, 14:12:47](https://lobste.rs/s/ib1oea/i_ll_only_buy_devices_with_grapheneos) - [I'll only buy devices with GrapheneOS](https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/)
 * [2025-08-28, 13:37:12](https://lobste.rs/s/ib7eky/sometimes_cpu_cores_are_odd) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd)
 
 ## [Archives](archives/index.md)
