@@ -14,6 +14,7 @@
 * [2025-08-30, 02:49:07](https://lobste.rs/s/ch6jjw/rationale_for_nickel_configuration) - [The rationale for the Nickel configuration language](https://github.com/tweag/nickel/blob/master/RATIONALE.md)
 * [2025-08-30, 01:29:13](https://lobste.rs/s/suyihr/moof_mind_history_dogcow_1997) - [Moof! in Mind! The history of dogcow (1997)](https://www.storybytes.com/view-moof/articles/mim.html)
 * [2025-08-29, 22:56:22](https://lobste.rs/s/rwtagp/snuffle_salsa_chacha) - [snuffle / salsa / chacha](https://graydon2.dreamwidth.org/319755.html)
+* [2025-08-29, 20:54:14](https://lobste.rs/s/n0hb2u/destructure_as_reminder) - [Destructure as a Reminder](https://home.expurple.me/posts/destructure-as-a-reminder/)
 * [2025-08-29, 20:46:51](https://lobste.rs/s/jx7r3c/do_simplest_thing_could_possibly_work) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 18:23:17](https://lobste.rs/s/acz07b/default_search_engine_wikipedia) - [Default search engine: Wikipedia](https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091)
 * [2025-08-29, 17:59:13](https://lobste.rs/s/uiekig/pyret_programming_language_for) - [Pyret: A programming language for programming education](https://pyret.org/)
@@ -24,7 +25,6 @@
 * [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I've Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
 * [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
-* [2025-08-28, 13:37:12](https://lobste.rs/s/ib7eky/sometimes_cpu_cores_are_odd) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd)
 
 ## [Archives](archives/index.md)
 
