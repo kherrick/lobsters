@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-30, 07:06:24](https://lobste.rs/s/oyxahw/i_m_concerned_excerpt) - [I'm concerned (excerpt)](https://studium.dev/tech/im-concerned-integrity)
+* [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 06:43:50](https://lobste.rs/s/qumksr/interview_with_julio_barba) - [An Interview With Julio Barba](https://halide.cx/blog/julio-barba-interview/)
 * [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)
 * [2025-08-30, 02:49:07](https://lobste.rs/s/ch6jjw/rationale_for_nickel_configuration) - [The rationale for the Nickel configuration language](https://github.com/tweag/nickel/blob/master/RATIONALE.md)
@@ -18,13 +20,11 @@
 * [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I've Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
 * [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-29, 05:03:14](https://lobste.rs/s/ydjspd/case_for_writing_coding_manually) - [The Case for Writing and Coding Manually](https://www.ssp.sh/brain/will-ai-replace-humans/)
-* [2025-08-29, 01:09:19](https://lobste.rs/s/gft7eu/expert_lsp_official_elixir_language) - [Expert LSP: Official Elixir Language Server](https://github.com/elixir-lang/expert)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
 * [2025-08-28, 18:13:13](https://lobste.rs/s/bnc3ue/making_minecraft_spherical) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 * [2025-08-28, 14:12:47](https://lobste.rs/s/ib1oea/i_ll_only_buy_devices_with_grapheneos) - [I'll only buy devices with GrapheneOS](https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/)
 * [2025-08-28, 13:37:12](https://lobste.rs/s/ib7eky/sometimes_cpu_cores_are_odd) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd)
-* [2025-08-28, 06:09:54](https://lobste.rs/s/dgpbar/open_source_is_one_person) - [Open Source is one person](https://opensourcesecurity.io/2025/08-oss-one-person/)
 
 ## [Archives](archives/index.md)
 
