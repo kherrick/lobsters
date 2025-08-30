@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-08-29](index.md)
 
 * [2025-08-29, 22:56:22](https://lobste.rs/s/rwtagp/snuffle_salsa_chacha) - [snuffle / salsa / chacha](https://graydon2.dreamwidth.org/319755.html)
+* [2025-08-29, 22:47:56](https://lobste.rs/s/d4qlrx/use_claude_code_sciml_repos) - [The use of Claude Code in SciML repos](https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8)
 * [2025-08-29, 20:54:14](https://lobste.rs/s/n0hb2u/destructure_as_reminder) - [Destructure as a Reminder](https://home.expurple.me/posts/destructure-as-a-reminder/)
 * [2025-08-29, 20:46:51](https://lobste.rs/s/jx7r3c/do_simplest_thing_could_possibly_work) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 18:23:17](https://lobste.rs/s/acz07b/default_search_engine_wikipedia) - [Default search engine: Wikipedia](https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091)
