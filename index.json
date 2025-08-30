@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-30, 07:06:24",
+      "https://lobste.rs/s/oyxahw/i_m_concerned_excerpt"
+    ],
+    [
+      "I'm concerned (excerpt)",
+      "https://studium.dev/tech/im-concerned-integrity"
+    ]
+  ],
+  [
+    [
+      "2025-08-30, 07:02:47",
+      "https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end"
+    ],
+    [
+      "10-20x Faster LLVM -O0 Back-End",
+      "https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 06:43:50",
       "https://lobste.rs/s/qumksr/interview_with_julio_barba"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-08-29, 01:09:19",
-      "https://lobste.rs/s/gft7eu/expert_lsp_official_elixir_language"
-    ],
-    [
-      "Expert LSP: Official Elixir Language Server",
-      "https://github.com/elixir-lang/expert"
-    ]
-  ],
-  [
-    [
       "2025-08-28, 20:46:22",
       "https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview"
     ],
@@ -237,16 +247,6 @@
     [
       "Sometimes CPU cores are odd",
       "https://anubis.techaro.lol/blog/2025/cpu-core-odd"
-    ]
-  ],
-  [
-    [
-      "2025-08-28, 06:09:54",
-      "https://lobste.rs/s/dgpbar/open_source_is_one_person"
-    ],
-    [
-      "Open Source is one person",
-      "https://opensourcesecurity.io/2025/08-oss-one-person/"
     ]
   ]
 ]
