@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-30, 15:56:09",
+      "https://lobste.rs/s/mqbcib/aws_has_finally_made_sqs_viable_queuing"
+    ],
+    [
+      "AWS has finally made SQS a viable queuing solution",
+      "https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 15:24:16",
       "https://lobste.rs/s/ag6bcx/web_we_lost_2012"
     ],
@@ -117,16 +127,6 @@
     [
       "snuffle / salsa / chacha",
       "https://graydon2.dreamwidth.org/319755.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 22:47:56",
-      "https://lobste.rs/s/d4qlrx/use_claude_code_sciml_repos"
-    ],
-    [
-      "The use of Claude Code in SciML repos",
-      "https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8"
     ]
   ],
   [
