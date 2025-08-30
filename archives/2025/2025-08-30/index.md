@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 07:21:34](https://lobste.rs/s/1t1cr0/rust_ints_rust_enums_with_less) - [Rust ints to Rust enums with less instructions](https://sailor.li/ints-to-enums)
 * [2025-08-30, 07:06:24](https://lobste.rs/s/oyxahw/i_m_concerned_excerpt) - [I'm concerned (excerpt)](https://studium.dev/tech/im-concerned-integrity)
 * [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 06:43:50](https://lobste.rs/s/qumksr/interview_with_julio_barba) - [An Interview With Julio Barba](https://halide.cx/blog/julio-barba-interview/)
