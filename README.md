@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 18:34:16](https://lobste.rs/s/49xp2r/type_system_for_rcl_2024) - [A type system for RCL (2024)](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-1-introduction)
 * [2025-08-30, 17:54:42](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock) - [Appealing the ban of user friendlysock](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock)
 * [2025-08-30, 17:39:23](https://lobste.rs/s/liiqjz/condor_s_cuzco_risc_v_core_at_hot_chips_2025) - [Condor’s Cuzco RISC-V Core at Hot Chips 2025](https://old.chipsandcheese.com/2025/08/29/condors-cuzco-risc-v-core-at-hot-chips-2025/)
@@ -9,7 +10,6 @@
 * [2025-08-30, 13:35:13](https://lobste.rs/s/lkt7kf/computing_simplified_coverage_polygons) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
 * [2025-08-30, 08:44:09](https://lobste.rs/s/lgs8qv/triangle_grids) - [Triangle Grids](https://kvachev.com/blog/posts/triangular-grid/)
 * [2025-08-30, 07:21:34](https://lobste.rs/s/1t1cr0/rust_ints_rust_enums_with_less) - [Rust ints to Rust enums with less instructions](https://sailor.li/ints-to-enums)
-* [2025-08-30, 07:06:24](https://lobste.rs/s/oyxahw/i_m_concerned_excerpt) - [I'm concerned (excerpt)](https://studium.dev/tech/im-concerned-integrity)
 * [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 06:43:50](https://lobste.rs/s/qumksr/interview_with_julio_barba) - [An Interview With Julio Barba](https://halide.cx/blog/julio-barba-interview/)
 * [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)

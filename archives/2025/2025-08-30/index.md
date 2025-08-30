@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 18:34:16](https://lobste.rs/s/49xp2r/type_system_for_rcl_2024) - [A type system for RCL (2024)](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-1-introduction)
 * [2025-08-30, 17:54:42](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock) - [Appealing the ban of user friendlysock](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock)
 * [2025-08-30, 17:39:23](https://lobste.rs/s/liiqjz/condor_s_cuzco_risc_v_core_at_hot_chips_2025) - [Condor’s Cuzco RISC-V Core at Hot Chips 2025](https://old.chipsandcheese.com/2025/08/29/condors-cuzco-risc-v-core-at-hot-chips-2025/)
