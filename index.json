@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-08-30, 07:06:24",
-      "https://lobste.rs/s/oyxahw/i_m_concerned_excerpt"
-    ],
-    [
-      "I'm concerned (excerpt)",
-      "https://studium.dev/tech/im-concerned-integrity"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 07:02:47",
       "https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end"
     ],
@@ -87,6 +77,16 @@
     [
       "The use of Claude Code in SciML repos",
       "https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8"
+    ]
+  ],
+  [
+    [
+      "2025-08-29, 22:29:14",
+      "https://lobste.rs/s/ivyiey/a16_fusebypass_debug_logic_enabled_on"
+    ],
+    [
+      "A16-FuseBypass: Debug Logic Enabled on Production Apple Silicon",
+      "https://github.com/JGoyd/A16-FuseBypass"
     ]
   ],
   [
