@@ -9,7 +9,6 @@
 * [2025-08-30, 01:29:13](https://lobste.rs/s/suyihr/moof_mind_history_dogcow_1997) - [Moof! in Mind! The history of dogcow (1997)](https://www.storybytes.com/view-moof/articles/mim.html)
 * [2025-08-29, 22:56:22](https://lobste.rs/s/rwtagp/snuffle_salsa_chacha) - [snuffle / salsa / chacha](https://graydon2.dreamwidth.org/319755.html)
 * [2025-08-29, 22:47:56](https://lobste.rs/s/d4qlrx/use_claude_code_sciml_repos) - [The use of Claude Code in SciML repos](https://discourse.julialang.org/t/the-use-of-claude-code-in-sciml-repos/131009/8)
-* [2025-08-29, 22:29:14](https://lobste.rs/s/ivyiey/a16_fusebypass_debug_logic_enabled_on) - [A16-FuseBypass: Debug Logic Enabled on Production Apple Silicon](https://github.com/JGoyd/A16-FuseBypass)
 * [2025-08-29, 20:46:51](https://lobste.rs/s/jx7r3c/do_simplest_thing_could_possibly_work) - [Do the simplest thing that could possibly work](https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/)
 * [2025-08-29, 18:23:17](https://lobste.rs/s/acz07b/default_search_engine_wikipedia) - [Default search engine: Wikipedia](https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091)
 * [2025-08-29, 17:59:13](https://lobste.rs/s/uiekig/pyret_programming_language_for) - [Pyret: A programming language for programming education](https://pyret.org/)
@@ -23,6 +22,7 @@
 * [2025-08-29, 06:12:23](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival) - [Join the Lobsters Blog Carnival](https://lobste.rs/s/0nstyk/join_lobsters_blog_carnival)
 * [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [2025-08-28, 18:17:55](https://lobste.rs/s/cv6v51/writing_mac_ios_apps_shouldn_t_be_so) - [Writing Mac and iOS Apps Shouldn’t Be So Difficult](https://inessential.com/2025/08/28/easy-app-writing.html)
+* [2025-08-28, 18:13:13](https://lobste.rs/s/bnc3ue/making_minecraft_spherical) - [Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet/)
 * [2025-08-28, 14:12:47](https://lobste.rs/s/ib1oea/i_ll_only_buy_devices_with_grapheneos) - [I'll only buy devices with GrapheneOS](https://www.jonashietala.se/blog/2025/08/28/ill_only_buy_devices_with_grapheneos/)
 * [2025-08-28, 13:37:12](https://lobste.rs/s/ib7eky/sometimes_cpu_cores_are_odd) - [Sometimes CPU cores are odd](https://anubis.techaro.lol/blog/2025/cpu-core-odd)
 
