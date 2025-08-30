@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 15:56:09](https://lobste.rs/s/mqbcib/aws_has_finally_made_sqs_viable_queuing) - [AWS has finally made SQS a viable queuing solution](https://aws.amazon.com/blogs/compute/building-resilient-multi-tenant-systems-with-amazon-sqs-fair-queues/)
 * [2025-08-30, 15:24:16](https://lobste.rs/s/ag6bcx/web_we_lost_2012) - [The Web We Lost (2012)](https://www.anildash.com//2012/12/13/the_web_we_lost/)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
 * [2025-08-30, 13:35:13](https://lobste.rs/s/lkt7kf/computing_simplified_coverage_polygons) - [Computing simplified coverage polygons](https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html)
