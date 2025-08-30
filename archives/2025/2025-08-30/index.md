@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-30](index.md)
 
+* [2025-08-30, 17:54:42](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock) - [Appealing the ban of user friendlysock](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock)
 * [2025-08-30, 17:39:23](https://lobste.rs/s/liiqjz/condor_s_cuzco_risc_v_core_at_hot_chips_2025) - [Condor’s Cuzco RISC-V Core at Hot Chips 2025](https://old.chipsandcheese.com/2025/08/29/condors-cuzco-risc-v-core-at-hot-chips-2025/)
 * [2025-08-30, 17:36:50](https://lobste.rs/s/3sf7lt/build_container_services_go_without) - [Build Container Services in Go Without Managing BuildKit](https://depot.dev/blog/from-go-code-to-container-image-with-depot-api)
 * [2025-08-30, 16:47:24](https://lobste.rs/s/adcfj0/gershwin_desktop_os_x_like_desktop) - [gershwin-desktop: OS X-like Desktop Environment available exclusively in GhostBSD as a community flavor](https://github.com/gershwin-desktop/gershwin-desktop)
