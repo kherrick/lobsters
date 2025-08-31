@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-31, 16:06:52](https://lobste.rs/s/opwycf/baby_s_first_type_checker) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:05:37](https://lobste.rs/s/umoeqy/vibe_coding_as_coding_veteran) - [Vibe Coding as a Coding Veteran](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-31, 14:43:35](https://lobste.rs/s/2zmszq/replacing_cache_service_with_database) - [Replacing a cache service with a database](https://avi.im/blag/2025/db-cache/)
@@ -20,7 +21,6 @@
 * [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
 * [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 17:54:42](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock) - [Appealing the ban of user friendlysock](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock)
-* [2025-08-30, 16:47:24](https://lobste.rs/s/adcfj0/gershwin_desktop_os_x_like_desktop) - [gershwin-desktop: OS X-like Desktop Environment available exclusively in GhostBSD as a community flavor](https://github.com/gershwin-desktop/gershwin-desktop)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
 * [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)
