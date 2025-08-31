@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 18:22:06](https://lobste.rs/s/tj6xfb/minimum_viable_cd) - [Minimum Viable CD](https://minimumcd.org/)
+* [2025-08-31, 18:12:24](https://lobste.rs/s/p6vfzp/running_our_docker_registry_on_prem_with) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 * [2025-08-31, 16:06:52](https://lobste.rs/s/opwycf/baby_s_first_type_checker) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:05:37](https://lobste.rs/s/umoeqy/vibe_coding_as_coding_veteran) - [Vibe Coding as a Coding Veteran](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)

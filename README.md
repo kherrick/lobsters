@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-31, 18:22:06](https://lobste.rs/s/tj6xfb/minimum_viable_cd) - [Minimum Viable CD](https://minimumcd.org/)
+* [2025-08-31, 18:12:24](https://lobste.rs/s/p6vfzp/running_our_docker_registry_on_prem_with) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
 * [2025-08-31, 16:06:52](https://lobste.rs/s/opwycf/baby_s_first_type_checker) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:05:37](https://lobste.rs/s/umoeqy/vibe_coding_as_coding_veteran) - [Vibe Coding as a Coding Veteran](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
@@ -16,7 +18,6 @@
 * [2025-08-31, 06:14:57](https://lobste.rs/s/nxtj9t/my_foray_into_vlang) - [My foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 * [2025-08-31, 00:56:30](https://lobste.rs/s/q5cjww/quake_s_pvs_hidden_gem_rendering) - [Quake's PVS: A hidden gem of rendering optimization](https://www.youtube.com/watch?v=IfCRHSIg6zo)
 * [2025-08-31, 00:04:23](https://lobste.rs/s/vn42xa/quirks_common_lisp_types) - [Quirks of Common Lisp Types](https://www.fosskers.ca/en/blog/cl-type-quirks)
-* [2025-08-30, 22:21:08](https://lobste.rs/s/hr4xja/bootstrapping_forth_for_art) - [Bootstrapping a Forth for Art](https://tia.mat.br/posts/2025/08/30/forth-haiku.html)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
 * [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
@@ -24,7 +25,6 @@
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
 * [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)
-* [2025-08-29, 18:23:17](https://lobste.rs/s/acz07b/default_search_engine_wikipedia) - [Default search engine: Wikipedia](https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091)
 
 ## [Archives](archives/index.md)
 
