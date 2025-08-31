@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-31, 07:28:20](https://lobste.rs/s/l1srln/dyslexic_people_working_tech_industry) - [Dyslexic people working in the tech industry](https://www.reddit.com/r/Dyslexia/comments/1n3wi4r/im_looking_for_dyslexic_people_working_in_the/)
 * [2025-08-31, 06:14:57](https://lobste.rs/s/nxtj9t/my_foray_into_vlang) - [My foray into Vlang](https://kristun.dev/posts/my-foray-into-vlang/)
 * [2025-08-31, 00:56:30](https://lobste.rs/s/q5cjww/quake_s_pvs_hidden_gem_rendering) - [Quake's PVS: A hidden gem of rendering optimization](https://www.youtube.com/watch?v=IfCRHSIg6zo)
 * [2025-08-31, 00:04:23](https://lobste.rs/s/vn42xa/quirks_common_lisp_types) - [Quirks of Common Lisp Types](https://www.fosskers.ca/en/blog/cl-type-quirks)
@@ -24,7 +25,6 @@
 * [2025-08-29, 17:59:13](https://lobste.rs/s/uiekig/pyret_programming_language_for) - [Pyret: A programming language for programming education](https://pyret.org/)
 * [2025-08-29, 15:28:17](https://lobste.rs/s/imftzh/god_created_real_numbers) - [God created the real numbers](https://www.ethanheilman.com/x/34/index.html)
 * [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I've Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
-* [2025-08-28, 20:46:22](https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview) - [You no longer need JavaScript: an overview of what makes modern CSS so awesome](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## [Archives](archives/index.md)
 
