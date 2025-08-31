@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-31, 10:57:02",
+      "https://lobste.rs/s/swvxzh/sometimes_software_is_done_why_hugo_why"
+    ],
+    [
+      "Sometimes Software is Done, or Why Hugo Why",
+      "https://commaok.xyz/post/on_hugo/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 10:44:59",
       "https://lobste.rs/s/rdhzeo/run_legal_lte_network_at_home_for_100"
     ],
@@ -207,16 +217,6 @@
     [
       "Linus Torvalds marks bcachefs as \"externally maintained\"",
       "https://lwn.net/Articles/1035736/"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 02:49:07",
-      "https://lobste.rs/s/ch6jjw/rationale_for_nickel_configuration"
-    ],
-    [
-      "The rationale for the Nickel configuration language",
-      "https://github.com/tweag/nickel/blob/master/RATIONALE.md"
     ]
   ],
   [
