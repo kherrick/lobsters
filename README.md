@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-31, 20:47:04](https://lobste.rs/s/yv6nee/vibe_coding_terminal_editor) - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html)
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages) - [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:12:00](https://lobste.rs/s/5j9puq/how_vpn_kill_switch_caused_sudo_hang) - [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/)
@@ -9,7 +10,6 @@
 * [2025-08-31, 15:05:37](https://lobste.rs/s/umoeqy/vibe_coding_as_coding_veteran) - [Vibe Coding as a Coding Veteran](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-31, 14:43:35](https://lobste.rs/s/2zmszq/replacing_cache_service_with_database) - [Replacing a cache service with a database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 14:00:23](https://lobste.rs/s/lvfpzx/is_it_possible_allow_sideloading_keep) - [Is it possible to allow sideloading *and* keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
-* [2025-08-31, 13:42:42](https://lobste.rs/s/qbtfwg/data_engineering_is_not_software) - [Data Engineering is Not Software Engineering (2022)](https://medium.com/better-programming/data-engineering-is-not-software-engineering-af81eb8d3949)
 * [2025-08-31, 12:40:47](https://lobste.rs/s/09czfs/this_telegram_must_be_closely) - [\"This telegram must be closely paraphrased before being communicated to anyone.\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:26:17](https://lobste.rs/s/riahcg/some_minor_bugs_proton_s_new) - [Some minor bugs in Proton's new Authenticator app](https://shkspr.mobi/blog/2025/08/some-minor-bugs-in-protons-new-authenticator-app/)
 * [2025-08-31, 10:57:02](https://lobste.rs/s/swvxzh/sometimes_software_is_done_why_hugo_why) - [Sometimes Software is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)

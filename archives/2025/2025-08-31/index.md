@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 20:47:04](https://lobste.rs/s/yv6nee/vibe_coding_terminal_editor) - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html)
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages) - [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:41:21](https://lobste.rs/s/uol2ss/async_what_is_blocking_2020) - [Async: What is blocking? (2020)](https://ryhl.io/blog/async-what-is-blocking/)
