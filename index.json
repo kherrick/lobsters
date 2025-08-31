@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-31, 00:56:30",
+      "https://lobste.rs/s/q5cjww/quake_s_pvs_hidden_gem_rendering"
+    ],
+    [
+      "Quake's PVS: A hidden gem of rendering optimization",
+      "https://www.youtube.com/watch?v=IfCRHSIg6zo"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 00:04:23",
+      "https://lobste.rs/s/vn42xa/quirks_common_lisp_types"
+    ],
+    [
+      "Quirks of Common Lisp Types",
+      "https://www.fosskers.ca/en/blog/cl-type-quirks"
+    ]
+  ],
+  [
+    [
       "2025-08-30, 22:21:08",
       "https://lobste.rs/s/hr4xja/bootstrapping_forth_for_art"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-08-30, 13:35:13",
-      "https://lobste.rs/s/lkt7kf/computing_simplified_coverage_polygons"
-    ],
-    [
-      "Computing simplified coverage polygons",
-      "https://www.volkerkrause.eu/2025/08/30/simplified-coverage-polygons.html"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 08:44:09",
       "https://lobste.rs/s/lgs8qv/triangle_grids"
     ],
@@ -127,16 +137,6 @@
     [
       "Rust ints to Rust enums with less instructions",
       "https://sailor.li/ints-to-enums"
-    ]
-  ],
-  [
-    [
-      "2025-08-30, 07:06:24",
-      "https://lobste.rs/s/oyxahw/i_m_concerned_excerpt"
-    ],
-    [
-      "I'm concerned (excerpt)",
-      "https://studium.dev/tech/im-concerned-integrity"
     ]
   ],
   [
