@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 13:42:42](https://lobste.rs/s/qbtfwg/data_engineering_is_not_software) - [Data Engineering is Not Software Engineering](https://medium.com/better-programming/data-engineering-is-not-software-engineering-af81eb8d3949)
 * [2025-08-31, 12:40:47](https://lobste.rs/s/09czfs/this_telegram_must_be_closely) - [\"This telegram must be closely paraphrased before being communicated to anyone.\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:26:17](https://lobste.rs/s/riahcg/some_minor_bugs_proton_s_new) - [Some minor bugs in Proton's new Authenticator app](https://shkspr.mobi/blog/2025/08/some-minor-bugs-in-protons-new-authenticator-app/)
 * [2025-08-31, 10:57:02](https://lobste.rs/s/swvxzh/sometimes_software_is_done_why_hugo_why) - [Sometimes Software is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)

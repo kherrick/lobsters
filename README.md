@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-31, 13:42:42](https://lobste.rs/s/qbtfwg/data_engineering_is_not_software) - [Data Engineering is Not Software Engineering](https://medium.com/better-programming/data-engineering-is-not-software-engineering-af81eb8d3949)
 * [2025-08-31, 12:40:47](https://lobste.rs/s/09czfs/this_telegram_must_be_closely) - [\"This telegram must be closely paraphrased before being communicated to anyone.\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 12:26:17](https://lobste.rs/s/riahcg/some_minor_bugs_proton_s_new) - [Some minor bugs in Proton's new Authenticator app](https://shkspr.mobi/blog/2025/08/some-minor-bugs-in-protons-new-authenticator-app/)
 * [2025-08-31, 10:57:02](https://lobste.rs/s/swvxzh/sometimes_software_is_done_why_hugo_why) - [Sometimes Software is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
@@ -23,7 +24,6 @@
 * [2025-08-30, 07:02:47](https://lobste.rs/s/ftk8xs/10_20x_faster_llvm_o0_back_end) - [10-20x Faster LLVM -O0 Back-End](https://discourse.llvm.org/t/tpde-llvm-10-20x-faster-llvm-o0-back-end/86664)
 * [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)
 * [2025-08-29, 18:23:17](https://lobste.rs/s/acz07b/default_search_engine_wikipedia) - [Default search engine: Wikipedia](https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091)
-* [2025-08-29, 17:59:13](https://lobste.rs/s/uiekig/pyret_programming_language_for) - [Pyret: A programming language for programming education](https://pyret.org/)
 * [2025-08-29, 10:13:05](https://lobste.rs/s/daybpw/open_letter_everyone_i_ve_butted_heads) - [An Open Letter to Everyone I've Butted Heads With](https://andrewkelley.me/post/open-letter-everyone-butted-heads.html)
 
 ## [Archives](archives/index.md)
