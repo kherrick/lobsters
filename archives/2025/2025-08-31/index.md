@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 15:05:37](https://lobste.rs/s/umoeqy/vibe_coding_as_coding_veteran) - [Vibe Coding as a Coding Veteran](https://levelup.gitconnected.com/vibe-coding-as-a-coding-veteran-cd370fe2be50)
 * [2025-08-31, 14:43:35](https://lobste.rs/s/2zmszq/replacing_cache_service_with_database) - [Replacing a cache service with a database](https://avi.im/blag/2025/db-cache/)
 * [2025-08-31, 14:00:23](https://lobste.rs/s/lvfpzx/is_it_possible_allow_sideloading_keep) - [Is it possible to allow sideloading *and* keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
