@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-08-31](index.md)
 
+* [2025-08-31, 19:19:46](https://lobste.rs/s/uic1ac/client_side_rce_via_css_injection_google) - [Client-side RCE via CSS Injection in Google Web Designer for Windows](https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce)
 * [2025-08-31, 19:12:00](https://lobste.rs/s/5j9puq/how_vpn_kill_switch_caused_sudo_hang) - [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/)
 * [2025-08-31, 18:22:06](https://lobste.rs/s/tj6xfb/minimum_viable_cd) - [Minimum Viable CD](https://minimumcd.org/)
 * [2025-08-31, 18:12:24](https://lobste.rs/s/p6vfzp/running_our_docker_registry_on_prem_with) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
