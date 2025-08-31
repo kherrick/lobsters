@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-08-31, 22:34:20",
+      "https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992"
+    ],
+    [
+      "Lively Linear Lisp (1992)",
+      "https://www.cs.utexas.edu/users/hunt/research/hash-cons/hash-cons-papers/BakerLinearLisp.pdf"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 20:47:04",
       "https://lobste.rs/s/yv6nee/vibe_coding_terminal_editor"
     ],
@@ -37,16 +47,6 @@
     [
       "Thinking about coding",
       "https://www.robinsloan.com/lab/thinking-about-coding/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 19:19:46",
-      "https://lobste.rs/s/uic1ac/client_side_rce_via_css_injection_google"
-    ],
-    [
-      "Client-side RCE via CSS Injection in Google Web Designer for Windows",
-      "https://balintmagyar.com/articles/google-web-designer-css-injection-client-rce"
     ]
   ],
   [
