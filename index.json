@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-08-31, 18:22:06",
+      "https://lobste.rs/s/tj6xfb/minimum_viable_cd"
+    ],
+    [
+      "Minimum Viable CD",
+      "https://minimumcd.org/"
+    ]
+  ],
+  [
+    [
+      "2025-08-31, 18:12:24",
+      "https://lobste.rs/s/p6vfzp/running_our_docker_registry_on_prem_with"
+    ],
+    [
+      "Running our Docker registry on-prem with Harbor",
+      "https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/"
+    ]
+  ],
+  [
+    [
       "2025-08-31, 16:06:52",
       "https://lobste.rs/s/opwycf/baby_s_first_type_checker"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-08-30, 22:21:08",
-      "https://lobste.rs/s/hr4xja/bootstrapping_forth_for_art"
-    ],
-    [
-      "Bootstrapping a Forth for Art",
-      "https://tia.mat.br/posts/2025/08/30/forth-haiku.html"
-    ]
-  ],
-  [
-    [
       "2025-08-30, 22:08:46",
       "https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2"
     ],
@@ -237,16 +247,6 @@
     [
       "Linus Torvalds marks bcachefs as \"externally maintained\"",
       "https://lwn.net/Articles/1035736/"
-    ]
-  ],
-  [
-    [
-      "2025-08-29, 18:23:17",
-      "https://lobste.rs/s/acz07b/default_search_engine_wikipedia"
-    ],
-    [
-      "Default search engine: Wikipedia",
-      "https://paste.sr.ht/~awal/2310cfca431e9f723df281d02558eaebd77e2091"
     ]
   ]
 ]
