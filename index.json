@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2025-08-29, 20:46:51",
-      "https://lobste.rs/s/jx7r3c/do_simplest_thing_could_possibly_work"
-    ],
-    [
-      "Do the simplest thing that could possibly work",
-      "https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"
-    ]
-  ],
-  [
-    [
       "2025-08-29, 18:23:17",
       "https://lobste.rs/s/acz07b/default_search_engine_wikipedia"
     ],
@@ -247,6 +237,16 @@
     [
       "An Open Letter to Everyone I've Butted Heads With",
       "https://andrewkelley.me/post/open-letter-everyone-butted-heads.html"
+    ]
+  ],
+  [
+    [
+      "2025-08-28, 20:46:22",
+      "https://lobste.rs/s/xx7dbi/you_no_longer_need_javascript_overview"
+    ],
+    [
+      "You no longer need JavaScript: an overview of what makes modern CSS so awesome",
+      "https://lyra.horse/blog/2025/08/you-dont-need-js/"
     ]
   ]
 ]
