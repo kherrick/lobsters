@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages) - [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:12:00](https://lobste.rs/s/5j9puq/how_vpn_kill_switch_caused_sudo_hang) - [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/)
 * [2025-08-31, 18:12:24](https://lobste.rs/s/p6vfzp/running_our_docker_registry_on_prem_with) - [Running our Docker registry on-prem with Harbor](https://dev.37signals.com/running-our-docker-registry-on-prem-with-harbor/)
@@ -24,7 +25,6 @@
 * [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 17:54:42](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock) - [Appealing the ban of user friendlysock](https://lobste.rs/s/zoirhl/appealing_ban_user_friendlysock)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
-* [2025-08-30, 04:02:53](https://lobste.rs/s/tmsqcy/linus_torvalds_marks_bcachefs_as) - [Linus Torvalds marks bcachefs as \"externally maintained\"](https://lwn.net/Articles/1035736/)
 
 ## [Archives](archives/index.md)
 
