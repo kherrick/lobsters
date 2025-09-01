@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 21:36:03](https://lobste.rs/s/d7s2xu/processors_are_getting_wider) - [Processors are getting wider](https://lemire.me/blog/2025/09/01/processors-are-getting-wider/)
 * [2025-09-01, 21:08:31](https://lobste.rs/s/hbtz2s/nimony_design_principles) - [Nimony: Design principles](https://nim-lang.org/araq/nimony.html)
 * [2025-09-01, 21:05:23](https://lobste.rs/s/x5xf4g/bear_is_now_source_available) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 16:35:32](https://lobste.rs/s/gukaij/baba_yaga_license) - [Baba Yaga License](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
