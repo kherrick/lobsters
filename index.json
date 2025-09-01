@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-01, 21:36:03",
+      "https://lobste.rs/s/d7s2xu/processors_are_getting_wider"
+    ],
+    [
+      "Processors are getting wider",
+      "https://lemire.me/blog/2025/09/01/processors-are-getting-wider/"
+    ]
+  ],
+  [
+    [
       "2025-09-01, 21:08:31",
       "https://lobste.rs/s/hbtz2s/nimony_design_principles"
     ],
@@ -167,16 +177,6 @@
     [
       "A Case Study in Rewriting a Critical Service in Rust",
       "https://wxiaoyun.com/blog/rust-rewrite-case-study/"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 22:34:20",
-      "https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992"
-    ],
-    [
-      "Lively Linear Lisp (1992)",
-      "https://www.plover.com/misc/hbaker-archive/LinearLisp.html"
     ]
   ],
   [
