@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 15:18:22](https://lobste.rs/s/sx3ocd/how_is_ultrassembler_so_fast) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 * [2025-09-01, 13:51:27](https://lobste.rs/s/izvlyh/qweremin) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:32:43](https://lobste.rs/s/ewbgui/zfsbackrest_pgbackrest_style_encrypted) - [zfsbackrest: pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)

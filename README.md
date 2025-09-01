@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-01, 15:18:22](https://lobste.rs/s/sx3ocd/how_is_ultrassembler_so_fast) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 * [2025-09-01, 13:51:27](https://lobste.rs/s/izvlyh/qweremin) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:32:43](https://lobste.rs/s/ewbgui/zfsbackrest_pgbackrest_style_encrypted) - [zfsbackrest: pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:14:28](https://lobste.rs/s/r9td7g/ascii_side_moon) - [The ASCII Side of the Moon](https://aleyan.com/projects/ascii-side-of-the-moon/)
 * [2025-09-01, 11:51:55](https://lobste.rs/s/ocmdra/review_nim_2_good_bad_with_example_code) - [A Review of Nim 2: The Good & Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
-* [2025-09-01, 09:30:20](https://lobste.rs/s/q5b8bj/what_every_argument_about_sideloading) - [What Every Argument About Sideloading Gets Wrong](https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html)
 * [2025-09-01, 09:11:42](https://lobste.rs/s/uu8ynw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uu8ynw/what_are_you_doing_this_week)
 * [2025-09-01, 08:04:50](https://lobste.rs/s/qejtqj/passkeys_are_incompatible_with_open) - [Passkeys are incompatible with open-source software](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/)
 * [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
