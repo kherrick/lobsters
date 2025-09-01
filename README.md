@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-09-01, 16:35:32](https://lobste.rs/s/gukaij/baba_yaga_license) - [Baba Yaga License](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
+* [2025-09-01, 16:02:58](https://lobste.rs/s/fdyjno/what_s_cooking_on_sourcehut_q3_2025) - [What's cooking on SourceHut? Q3 2025](https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/)
 * [2025-09-01, 13:51:27](https://lobste.rs/s/izvlyh/qweremin) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:32:43](https://lobste.rs/s/ewbgui/zfsbackrest_pgbackrest_style_encrypted) - [zfsbackrest: pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
@@ -16,7 +17,6 @@
 * [2025-09-01, 01:09:12](https://lobste.rs/s/ifqebf/default_methods_go) - [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/)
 * [2025-09-01, 00:40:06](https://lobste.rs/s/3fwabw/case_study_rewriting_critical_service) - [A Case Study in Rewriting a Critical Service in Rust](https://wxiaoyun.com/blog/rust-rewrite-case-study/)
 * [2025-08-31, 22:34:20](https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992) - [Lively Linear Lisp (1992)](https://www.plover.com/misc/hbaker-archive/LinearLisp.html)
-* [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages_2021) - [1 Problem, 16 Programming Languages (2021)](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:46:11](https://lobste.rs/s/nyubar/thinking_about_coding) - [Thinking about coding](https://www.robinsloan.com/lab/thinking-about-coding/)
 * [2025-08-31, 16:06:52](https://lobste.rs/s/opwycf/baby_s_first_type_checker) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
