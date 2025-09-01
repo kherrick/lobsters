@@ -5,6 +5,7 @@
 * [2025-09-01, 21:05:23](https://lobste.rs/s/x5xf4g/bear_is_now_source_available) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 16:35:32](https://lobste.rs/s/gukaij/baba_yaga_license) - [Baba Yaga License](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
 * [2025-09-01, 16:02:58](https://lobste.rs/s/fdyjno/what_s_cooking_on_sourcehut_q3_2025) - [What's cooking on SourceHut? Q3 2025](https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/)
+* [2025-09-01, 15:18:22](https://lobste.rs/s/sx3ocd/how_is_ultrassembler_so_fast) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
 * [2025-09-01, 13:51:27](https://lobste.rs/s/izvlyh/qweremin) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
 * [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:14:28](https://lobste.rs/s/r9td7g/ascii_side_moon) - [The ASCII Side of the Moon](https://aleyan.com/projects/ascii-side-of-the-moon/)
@@ -23,7 +24,6 @@
 * [2025-08-31, 16:06:52](https://lobste.rs/s/opwycf/baby_s_first_type_checker) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 12:40:47](https://lobste.rs/s/09czfs/this_telegram_must_be_closely) - [\"This telegram must be closely paraphrased before being communicated to anyone.\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
-* [2025-08-31, 10:44:59](https://lobste.rs/s/rdhzeo/run_legal_lte_network_at_home_for_100) - [Run a legal LTE network at home for $100](https://lantian.pub/en/article/modify-computer/legal-lte-network-at-home-for-100-bucks.lantian/)
 * [2025-08-31, 10:03:32](https://lobste.rs/s/ql4odp/three_years_building_no_code_software_for) - [Three years of building no-code software for grassroots political organizations](https://write.as/conjure-utopia/three-years-of-building-no-code-software-for-political-organizations)
 
 ## [Archives](archives/index.md)
