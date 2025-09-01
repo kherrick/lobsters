@@ -21,9 +21,9 @@
 * [2025-08-31, 10:57:02](https://lobste.rs/s/swvxzh/sometimes_software_is_done_why_hugo_why) - [Sometimes Software is Done, or Why Hugo Why](https://commaok.xyz/post/on_hugo/)
 * [2025-08-31, 10:44:59](https://lobste.rs/s/rdhzeo/run_legal_lte_network_at_home_for_100) - [Run a legal LTE network at home for $100](https://lantian.pub/en/article/modify-computer/legal-lte-network-at-home-for-100-bucks.lantian/)
 * [2025-08-31, 10:03:32](https://lobste.rs/s/ql4odp/three_years_building_no_code_software_for) - [Three years of building no-code software for grassroots political organizations](https://write.as/conjure-utopia/three-years-of-building-no-code-software-for-political-organizations)
-* [2025-08-31, 09:34:34](https://lobste.rs/s/fuahm1/freebsd_status_report_second_quarter) - [FreeBSD Status Report Second Quarter 2025](https://www.freebsd.org/status/report-2025-04-2025-06/)
 * [2025-08-31, 07:28:20](https://lobste.rs/s/l1srln/dyslexic_people_working_tech_industry) - [Dyslexic people working in the tech industry](https://www.reddit.com/r/Dyslexia/comments/1n3wi4r/im_looking_for_dyslexic_people_working_in_the/)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
+* [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
 
 ## [Archives](archives/index.md)
