@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 06:23:24](https://lobste.rs/s/kkkmdg/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2025-09-01, 05:28:42](https://lobste.rs/s/dzkasp/stacked_branches_with_lazygit) - [Stacked Branches With Lazygit](https://www.youtube.com/watch?v=M6S-9Y8peDY&list=LL&index=133&pp=gAQBiAQB2AbVAg%3D%3D)
 * [2025-09-01, 01:58:57](https://lobste.rs/s/rfln9k/internet_roadtrip_pathfinder) - [The Internet Roadtrip Pathfinder](https://matdoes.dev/internet-roadtrip-pathfinder)
 * [2025-09-01, 01:55:40](https://lobste.rs/s/bgdaix/why_do_browsers_throttle_javascript) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
