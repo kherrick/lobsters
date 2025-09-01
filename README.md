@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-01, 13:51:27](https://lobste.rs/s/izvlyh/qweremin) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
+* [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:32:43](https://lobste.rs/s/ewbgui/zfsbackrest_pgbackrest_style_encrypted) - [zfsbackrest: pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:14:28](https://lobste.rs/s/r9td7g/ascii_side_moon) - [The ASCII Side of the Moon](https://aleyan.com/projects/ascii-side-of-the-moon/)
 * [2025-09-01, 11:51:55](https://lobste.rs/s/ocmdra/review_nim_2_good_bad_with_example_code) - [A Review of Nim 2: The Good & Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
@@ -17,14 +19,12 @@
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages_2021) - [1 Problem, 16 Programming Languages (2021)](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:46:11](https://lobste.rs/s/nyubar/thinking_about_coding) - [Thinking about coding](https://www.robinsloan.com/lab/thinking-about-coding/)
-* [2025-08-31, 19:12:00](https://lobste.rs/s/5j9puq/how_vpn_kill_switch_caused_sudo_hang) - [How a VPN kill-switch caused sudo to hang](https://anagogistis.com/posts/vpn-sudo-hang/)
 * [2025-08-31, 16:06:52](https://lobste.rs/s/opwycf/baby_s_first_type_checker) - [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 * [2025-08-31, 14:00:23](https://lobste.rs/s/lvfpzx/is_it_possible_allow_sideloading_keep) - [Is it possible to allow sideloading *and* keep users safe?](https://shkspr.mobi/blog/2025/08/is-it-possible-to-allow-sideloading-and-keep-users-safe/)
 * [2025-08-31, 12:40:47](https://lobste.rs/s/09czfs/this_telegram_must_be_closely) - [\"This telegram must be closely paraphrased before being communicated to anyone.\" Why?](https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone)
 * [2025-08-31, 10:44:59](https://lobste.rs/s/rdhzeo/run_legal_lte_network_at_home_for_100) - [Run a legal LTE network at home for $100](https://lantian.pub/en/article/modify-computer/legal-lte-network-at-home-for-100-bucks.lantian/)
 * [2025-08-31, 10:03:32](https://lobste.rs/s/ql4odp/three_years_building_no_code_software_for) - [Three years of building no-code software for grassroots political organizations](https://write.as/conjure-utopia/three-years-of-building-no-code-software-for-political-organizations)
-* [2025-08-31, 07:28:20](https://lobste.rs/s/l1srln/dyslexic_people_working_tech_industry) - [Dyslexic people working in the tech industry](https://www.reddit.com/r/Dyslexia/comments/1n3wi4r/im_looking_for_dyslexic_people_working_in_the/)
 
 ## [Archives](archives/index.md)
 

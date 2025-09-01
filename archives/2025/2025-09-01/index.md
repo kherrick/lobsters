@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 13:51:27](https://lobste.rs/s/izvlyh/qweremin) - [The Qweremin](https://www.linusakesson.net/qweremin/index.php)
+* [2025-09-01, 13:45:09](https://lobste.rs/s/zyinea/c_memory_safety_webkit) - [C++ Memory Safety in WebKit](https://m.youtube.com/watch?v=RLw13wLM5Ko)
 * [2025-09-01, 13:32:43](https://lobste.rs/s/ewbgui/zfsbackrest_pgbackrest_style_encrypted) - [zfsbackrest: pgbackrest style encrypted backups for ZFS filesystems](https://github.com/gargakshit/zfsbackrest)
 * [2025-09-01, 13:14:28](https://lobste.rs/s/r9td7g/ascii_side_moon) - [The ASCII Side of the Moon](https://aleyan.com/projects/ascii-side-of-the-moon/)
 * [2025-09-01, 11:51:55](https://lobste.rs/s/ocmdra/review_nim_2_good_bad_with_example_code) - [A Review of Nim 2: The Good & Bad with Example Code](https://miguel-martin.com/blog/nim2-review)
