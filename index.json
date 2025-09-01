@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-01, 22:36:42",
+      "https://lobste.rs/s/ukn1u3/faster_linking_times_with_1_90_0_stable_on"
+    ],
+    [
+      "Faster linking times with 1.90.0 stable on Linux using the LLD linker",
+      "https://blog.rust-lang.org/2025/09/01/rust-lld-on-1.90.0-stable/"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 22:24:51",
+      "https://lobste.rs/s/p8fj5d/future_32_bit_support_kernel"
+    ],
+    [
+      "The future of 32-bit support in the kernel",
+      "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/"
+    ]
+  ],
+  [
+    [
+      "2025-09-01, 21:44:59",
+      "https://lobste.rs/s/7ijcrm/optimising_spatial_joins_duckdb"
+    ],
+    [
+      "[Optimising] Spatial Joins in DuckDB",
+      "https://duckdb.org/2025/08/08/spatial-joins.html"
+    ]
+  ],
+  [
+    [
       "2025-09-01, 21:36:03",
       "https://lobste.rs/s/d7s2xu/processors_are_getting_wider"
     ],
@@ -71,26 +101,6 @@
   ],
   [
     [
-      "2025-09-01, 13:51:27",
-      "https://lobste.rs/s/izvlyh/qweremin"
-    ],
-    [
-      "The Qweremin",
-      "https://www.linusakesson.net/qweremin/index.php"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 13:45:09",
-      "https://lobste.rs/s/zyinea/c_memory_safety_webkit"
-    ],
-    [
-      "C++ Memory Safety in WebKit",
-      "https://m.youtube.com/watch?v=RLw13wLM5Ko"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 13:14:28",
       "https://lobste.rs/s/r9td7g/ascii_side_moon"
     ],
@@ -117,16 +127,6 @@
     [
       "What Every Argument About Sideloading Gets Wrong",
       "https://hugotunius.se/2025/08/31/what-every-argument-about-sideloading-gets-wrong.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 09:11:42",
-      "https://lobste.rs/s/uu8ynw/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/uu8ynw/what_are_you_doing_this_week"
     ]
   ],
   [
