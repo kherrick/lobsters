@@ -3,6 +3,7 @@
 * [2025-09-01, 01:55:40](https://lobste.rs/s/bgdaix/why_do_browsers_throttle_javascript) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 * [2025-09-01, 01:17:24](https://lobste.rs/s/ravmmh/things_rust_shipped_without_2015) - [things rust shipped without (2015)](https://graydon2.dreamwidth.org/218040.html)
 * [2025-09-01, 01:09:12](https://lobste.rs/s/ifqebf/default_methods_go) - [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/)
+* [2025-09-01, 00:40:06](https://lobste.rs/s/3fwabw/case_study_rewriting_critical_service) - [A Case Study in Rewriting a Critical Service in Rust](https://wxiaoyun.com/blog/rust-rewrite-case-study/)
 * [2025-08-31, 22:34:20](https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992) - [Lively Linear Lisp (1992)](https://www.plover.com/misc/hbaker-archive/LinearLisp.html)
 * [2025-08-31, 20:47:04](https://lobste.rs/s/yv6nee/vibe_coding_terminal_editor) - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html)
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages) - [1 Problem, 16 Programming Languages](https://www.youtube.com/watch?v=UVUjnzpQKUo)
@@ -23,7 +24,6 @@
 * [2025-08-31, 00:04:23](https://lobste.rs/s/vn42xa/quirks_common_lisp_types) - [Quirks of Common Lisp Types](https://www.fosskers.ca/en/blog/cl-type-quirks)
 * [2025-08-30, 22:08:46](https://lobste.rs/s/c6hxxl/netsurf_on_remarkable_2) - [NetSurf on reMarkable 2](https://akselmo.dev/posts/netsurf-on-remarkable-2/)
 * [2025-08-30, 19:39:17](https://lobste.rs/s/k0tzud/why_i_use_debian) - [Why I use Debian](https://blog.liw.fi/posts/2025/why-debian/)
-* [2025-08-30, 19:24:17](https://lobste.rs/s/vfvbqz/are_we_decentralized_yet) - [Are We Decentralized Yet?](https://arewedecentralizedyet.online/)
 * [2025-08-30, 15:19:34](https://lobste.rs/s/nx9ysg/niri_v25_08) - [Niri v25.08](https://github.com/YaLTeR/niri/releases/tag/v25.08)
 
 ## [Archives](archives/index.md)
