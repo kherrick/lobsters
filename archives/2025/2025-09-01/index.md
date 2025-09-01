@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
 * [2025-09-01, 21:36:03](https://lobste.rs/s/d7s2xu/processors_are_getting_wider) - [Processors are getting wider](https://lemire.me/blog/2025/09/01/processors-are-getting-wider/)
+* [2025-09-01, 21:31:26](https://lobste.rs/s/aqp3jc/building_wasm_compiler_roc_series) - [Building a WASM compiler in Roc (series)](https://dusty.phillips.codes/roc/)
 * [2025-09-01, 21:08:31](https://lobste.rs/s/hbtz2s/nimony_design_principles) - [Nimony: Design principles](https://nim-lang.org/araq/nimony.html)
 * [2025-09-01, 21:05:23](https://lobste.rs/s/x5xf4g/bear_is_now_source_available) - [Bear is now source-available](https://herman.bearblog.dev/license/)
+* [2025-09-01, 20:11:19](https://lobste.rs/s/mntyuw/automatic_updating_spotify_status) - [Automatic updating Spotify status... without JavaScript](https://lina.sh/blog/spotify-status-without-js)
 * [2025-09-01, 16:35:32](https://lobste.rs/s/gukaij/baba_yaga_license) - [Baba Yaga License](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
 * [2025-09-01, 16:02:58](https://lobste.rs/s/fdyjno/what_s_cooking_on_sourcehut_q3_2025) - [What's cooking on SourceHut? Q3 2025](https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/)
 * [2025-09-01, 15:18:22](https://lobste.rs/s/sx3ocd/how_is_ultrassembler_so_fast) - [How is Ultrassembler so fast?](https://jghuff.com/articles/ultrassembler-so-fast/)
