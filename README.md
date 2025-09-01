@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
 * [2025-09-01, 06:23:24](https://lobste.rs/s/kkkmdg/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2025-09-01, 05:28:42](https://lobste.rs/s/dzkasp/stacked_branches_with_lazygit) - [Stacked Branches With Lazygit](https://www.youtube.com/watch?v=M6S-9Y8peDY&list=LL&index=133&pp=gAQBiAQB2AbVAg%3D%3D)
 * [2025-09-01, 01:58:57](https://lobste.rs/s/rfln9k/internet_roadtrip_pathfinder) - [The Internet Roadtrip Pathfinder](https://matdoes.dev/internet-roadtrip-pathfinder)
@@ -8,7 +9,6 @@
 * [2025-09-01, 01:09:12](https://lobste.rs/s/ifqebf/default_methods_go) - [Default Methods in Go](https://mcyoung.xyz/2025/08/25/go-default-methods/)
 * [2025-09-01, 00:40:06](https://lobste.rs/s/3fwabw/case_study_rewriting_critical_service) - [A Case Study in Rewriting a Critical Service in Rust](https://wxiaoyun.com/blog/rust-rewrite-case-study/)
 * [2025-08-31, 22:34:20](https://lobste.rs/s/j9oc3z/lively_linear_lisp_1992) - [Lively Linear Lisp (1992)](https://www.plover.com/misc/hbaker-archive/LinearLisp.html)
-* [2025-08-31, 20:47:04](https://lobste.rs/s/yv6nee/vibe_coding_terminal_editor) - [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html)
 * [2025-08-31, 19:56:52](https://lobste.rs/s/b1swcr/1_problem_16_programming_languages_2021) - [1 Problem, 16 Programming Languages (2021)](https://www.youtube.com/watch?v=UVUjnzpQKUo)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
 * [2025-08-31, 19:46:11](https://lobste.rs/s/nyubar/thinking_about_coding) - [Thinking about coding](https://www.robinsloan.com/lab/thinking-about-coding/)

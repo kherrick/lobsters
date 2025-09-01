@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-01](index.md)
 
+* [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
 * [2025-09-01, 06:23:24](https://lobste.rs/s/kkkmdg/unholy_saga_phoenix_hyperspace) - [The Unholy Saga of Phoenix Hyperspace](https://gekk.info/articles/hyperspace.htm)
 * [2025-09-01, 05:28:42](https://lobste.rs/s/dzkasp/stacked_branches_with_lazygit) - [Stacked Branches With Lazygit](https://www.youtube.com/watch?v=M6S-9Y8peDY&list=LL&index=133&pp=gAQBiAQB2AbVAg%3D%3D)
 * [2025-09-01, 01:58:57](https://lobste.rs/s/rfln9k/internet_roadtrip_pathfinder) - [The Internet Roadtrip Pathfinder](https://matdoes.dev/internet-roadtrip-pathfinder)
