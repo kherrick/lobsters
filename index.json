@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-02, 17:31:52",
+      "https://lobste.rs/s/ood3fy/introduction_ada_project_based"
+    ],
+    [
+      "Introduction to Ada: a project-based exploration with rosettas",
+      "https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 17:28:51",
+      "https://lobste.rs/s/yp0rg4/reflections_on_haskell_meta"
+    ],
+    [
+      "Reflections on Haskell@Meta",
+      "https://www.youtube.com/watch?v=gEWBHP0PvRw"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 16:32:11",
       "https://lobste.rs/s/r9akhl/clonos_freebsd_based_distro_for_virtual"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-09-01, 21:31:26",
-      "https://lobste.rs/s/aqp3jc/building_wasm_compiler_roc_series"
-    ],
-    [
-      "Building a WASM compiler in Roc (series)",
-      "https://dusty.phillips.codes/roc/"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 21:08:31",
       "https://lobste.rs/s/hbtz2s/nimony_design_principles"
     ],
@@ -227,16 +237,6 @@
     [
       "End of (Windows) 10",
       "https://endof10.org/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 01:17:24",
-      "https://lobste.rs/s/ravmmh/things_rust_shipped_without_2015"
-    ],
-    [
-      "things rust shipped without (2015)",
-      "https://graydon2.dreamwidth.org/218040.html"
     ]
   ],
   [
