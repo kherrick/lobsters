@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-02, 10:17:15](https://lobste.rs/s/umaxfz/rats_ratchets_2024) - [Of Rats and Ratchets (2024)](https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html)
 * [2025-09-02, 08:40:25](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 07:40:59](https://lobste.rs/s/57djg3/irc_serial_port_s_love_letter_internet) - [IRC - The Serial Port's love letter to Internet Relay Chat](https://www.youtube.com/watch?v=6UbKenFipjo)
 * [2025-09-02, 05:02:07](https://lobste.rs/s/aypgqu/compile_svelte_5_your_head) - [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head)
@@ -23,7 +24,6 @@
 * [2025-09-01, 01:55:40](https://lobste.rs/s/bgdaix/why_do_browsers_throttle_javascript) - [Why do browsers throttle JavaScript timers?](https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/)
 * [2025-09-01, 01:17:24](https://lobste.rs/s/ravmmh/things_rust_shipped_without_2015) - [things rust shipped without (2015)](https://graydon2.dreamwidth.org/218040.html)
 * [2025-08-31, 19:49:47](https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with) - [We need to seriously think about what to do with C++ modules](https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html)
-* [2025-08-31, 19:46:11](https://lobste.rs/s/nyubar/thinking_about_coding) - [Thinking about coding](https://www.robinsloan.com/lab/thinking-about-coding/)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 
 ## [Archives](archives/index.md)
