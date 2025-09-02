@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-02, 21:04:14",
+      "https://lobste.rs/s/ei2xvg/kernel_hack_drill_new_approach"
+    ],
+    [
+      "Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel",
+      "https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 19:47:30",
       "https://lobste.rs/s/em4yrb/why_self_host_9front"
     ],
@@ -187,16 +197,6 @@
     [
       "The future of 32-bit support in the kernel",
       "https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 21:44:59",
-      "https://lobste.rs/s/7ijcrm/optimising_spatial_joins_duckdb"
-    ],
-    [
-      "[Optimising] Spatial Joins in DuckDB",
-      "https://duckdb.org/2025/08/08/spatial-joins.html"
     ]
   ],
   [
