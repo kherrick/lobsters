@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-09-02, 10:17:15](https://lobste.rs/s/umaxfz/rats_ratchets_2024) - [Of Rats and Ratchets (2024)](https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html)
-* [2025-09-02, 08:40:25](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos) - [Debugging Rustler on Illumos](https://system-illumination.org/01-rustler.html)
+* [2025-09-02, 08:40:25](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos) - [Debugging Rustler on illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 07:40:59](https://lobste.rs/s/57djg3/irc_serial_port_s_love_letter_internet) - [IRC - The Serial Port's love letter to Internet Relay Chat](https://www.youtube.com/watch?v=6UbKenFipjo)
 * [2025-09-02, 05:02:07](https://lobste.rs/s/aypgqu/compile_svelte_5_your_head) - [Compile Svelte 5 in your head](https://lihautan.com/compile-svelte-5-in-your-head)
 * [2025-09-02, 01:50:23](https://lobste.rs/s/qk5qw7/next_js_is_infuriating) - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
