@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-02, 12:59:03",
+      "https://lobste.rs/s/lx7ed3/understanding_apache_fluss"
+    ],
+    [
+      "Understanding Apache Fluss",
+      "https://jack-vanlightly.com/blog/2025/9/2/understanding-apache-fluss"
+    ]
+  ],
+  [
+    [
+      "2025-09-02, 12:58:47",
+      "https://lobste.rs/s/rmmccx/aperiodic_tilings_v_refinable_frontier"
+    ],
+    [
+      "Aperiodic Tilings V: the Refinable Frontier",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-refine/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 10:17:15",
       "https://lobste.rs/s/umaxfz/rats_ratchets_2024"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-09-01, 13:45:09",
-      "https://lobste.rs/s/zyinea/c_memory_safety_webkit"
-    ],
-    [
-      "C++ Memory Safety in WebKit",
-      "https://m.youtube.com/watch?v=RLw13wLM5Ko"
-    ]
-  ],
-  [
-    [
       "2025-09-01, 13:14:28",
       "https://lobste.rs/s/r9td7g/ascii_side_moon"
     ],
@@ -227,16 +237,6 @@
     [
       "things rust shipped without (2015)",
       "https://graydon2.dreamwidth.org/218040.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 19:49:47",
-      "https://lobste.rs/s/en1p2u/we_need_seriously_think_about_what_do_with"
-    ],
-    [
-      "We need to seriously think about what to do with C++ modules",
-      "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html"
     ]
   ],
   [
