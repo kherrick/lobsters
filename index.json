@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-02, 23:42:52",
+      "https://lobste.rs/s/kyml3m/passkeys_modern_authentication"
+    ],
+    [
+      "Passkeys and Modern Authentication",
+      "https://lucumr.pocoo.org/2025/9/2/passkeys/"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 21:10:20",
       "https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database"
     ],
@@ -217,16 +227,6 @@
     [
       "Bear is now source-available",
       "https://herman.bearblog.dev/license/"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 16:35:32",
-      "https://lobste.rs/s/gukaij/baba_yaga_license"
-    ],
-    [
-      "Baba Yaga License",
-      "https://smallandnearlysilent.com/baba-yaga/LICENSE.txt"
     ]
   ],
   [
