@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-02, 10:17:15",
+      "https://lobste.rs/s/umaxfz/rats_ratchets_2024"
+    ],
+    [
+      "Of Rats and Ratchets (2024)",
+      "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 08:40:25",
       "https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos"
     ],
@@ -227,16 +237,6 @@
     [
       "We need to seriously think about what to do with C++ modules",
       "https://nibblestew.blogspot.com/2025/08/we-need-to-seriously-think-about-what.html"
-    ]
-  ],
-  [
-    [
-      "2025-08-31, 19:46:11",
-      "https://lobste.rs/s/nyubar/thinking_about_coding"
-    ],
-    [
-      "Thinking about coding",
-      "https://www.robinsloan.com/lab/thinking-about-coding/"
     ]
   ],
   [
