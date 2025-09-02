@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-02](index.md)
 
+* [2025-09-02, 17:31:52](https://lobste.rs/s/ood3fy/introduction_ada_project_based) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
+* [2025-09-02, 17:28:51](https://lobste.rs/s/yp0rg4/reflections_on_haskell_meta) - [Reflections on Haskell@Meta](https://www.youtube.com/watch?v=gEWBHP0PvRw)
 * [2025-09-02, 16:32:11](https://lobste.rs/s/r9akhl/clonos_freebsd_based_distro_for_virtual) - [ClonOS: FreeBSD based distro for virtual hosting platform and appliances](https://clonos.convectix.com/)
 * [2025-09-02, 15:21:35](https://lobste.rs/s/kahscv/beware_sorting_locales) - [Beware of Sorting Locales](https://www.adrianstoll.com/post/beware-of-sorting-locales/)
 * [2025-09-02, 14:45:13](https://lobste.rs/s/mt8qo5/wikidata_mundaneum_triumph_commons) - [Wikidata and Mundaneum - The Triumph of the Commons](https://schmud.de/programs/2025-09-02-wikidata-mundaneum.html)

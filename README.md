@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-02, 17:31:52](https://lobste.rs/s/ood3fy/introduction_ada_project_based) - [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas)
+* [2025-09-02, 17:28:51](https://lobste.rs/s/yp0rg4/reflections_on_haskell_meta) - [Reflections on Haskell@Meta](https://www.youtube.com/watch?v=gEWBHP0PvRw)
 * [2025-09-02, 16:32:11](https://lobste.rs/s/r9akhl/clonos_freebsd_based_distro_for_virtual) - [ClonOS: FreeBSD based distro for virtual hosting platform and appliances](https://clonos.convectix.com/)
 * [2025-09-02, 15:21:35](https://lobste.rs/s/kahscv/beware_sorting_locales) - [Beware of Sorting Locales](https://www.adrianstoll.com/post/beware-of-sorting-locales/)
 * [2025-09-02, 14:45:13](https://lobste.rs/s/mt8qo5/wikidata_mundaneum_triumph_commons) - [Wikidata and Mundaneum - The Triumph of the Commons](https://schmud.de/programs/2025-09-02-wikidata-mundaneum.html)
@@ -14,7 +16,6 @@
 * [2025-09-01, 22:24:51](https://lobste.rs/s/p8fj5d/future_32_bit_support_kernel) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 21:44:59](https://lobste.rs/s/7ijcrm/optimising_spatial_joins_duckdb) - [[Optimising] Spatial Joins in DuckDB](https://duckdb.org/2025/08/08/spatial-joins.html)
 * [2025-09-01, 21:36:03](https://lobste.rs/s/d7s2xu/processors_are_getting_wider) - [Processors are getting wider](https://lemire.me/blog/2025/09/01/processors-are-getting-wider/)
-* [2025-09-01, 21:31:26](https://lobste.rs/s/aqp3jc/building_wasm_compiler_roc_series) - [Building a WASM compiler in Roc (series)](https://dusty.phillips.codes/roc/)
 * [2025-09-01, 21:08:31](https://lobste.rs/s/hbtz2s/nimony_design_principles) - [Nimony: Design principles](https://nim-lang.org/araq/nimony.html)
 * [2025-09-01, 21:05:23](https://lobste.rs/s/x5xf4g/bear_is_now_source_available) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 20:11:19](https://lobste.rs/s/mntyuw/automatic_updating_spotify_status) - [Automatic updating Spotify status... without JavaScript](https://lina.sh/blog/spotify-status-without-js)
@@ -23,7 +24,6 @@
 * [2025-09-01, 13:14:28](https://lobste.rs/s/r9td7g/ascii_side_moon) - [The ASCII Side of the Moon](https://aleyan.com/projects/ascii-side-of-the-moon/)
 * [2025-09-01, 08:04:50](https://lobste.rs/s/qejtqj/passkeys_are_incompatible_with_open) - [Passkeys are incompatible with open-source software](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/)
 * [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
-* [2025-09-01, 01:17:24](https://lobste.rs/s/ravmmh/things_rust_shipped_without_2015) - [things rust shipped without (2015)](https://graydon2.dreamwidth.org/218040.html)
 * [2025-08-31, 15:29:08](https://lobste.rs/s/s4fffm/jujutsu_for_everyone) - [Jujutsu for everyone](https://jj-for-everyone.github.io/)
 
 ## [Archives](archives/index.md)
