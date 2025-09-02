@@ -3,6 +3,7 @@
 * [2025-09-02, 21:10:20](https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database) - [matrix.org Major Outage - Database Incident (September 2nd 2025)](https://status.matrix.org/incidents/mm9hdm78svgv)
 * [2025-09-02, 21:04:14](https://lobste.rs/s/ei2xvg/kernel_hack_drill_new_approach) - [Kernel-hack-drill and a new approach to exploiting CVE-2024-50264 in the Linux kernel](https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html)
 * [2025-09-02, 19:47:30](https://lobste.rs/s/em4yrb/why_self_host_9front) - [why self-host 9front](https://orib.dev/selfhost.html)
+* [2025-09-02, 19:33:42](https://lobste.rs/s/1kql5c/making_xml_human_readable_without_xslt) - [Making XML human-readable without XSLT](https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/)
 * [2025-09-02, 19:16:28](https://lobste.rs/s/srhl5c/using_ai_coding_agents_for_finding) - [Using AI Coding Agents for finding vulnerabilities: strengths, weaknesses, and serious consistency problems](https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex)
 * [2025-09-02, 18:07:12](https://lobste.rs/s/ntnjvx/physically_based_rendering_from_first) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:46:31](https://lobste.rs/s/kjrhtp/python_has_had_async_for_10_years_why_isn_t) - [Python has had async for 10 years -- why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
@@ -24,7 +25,6 @@
 * [2025-09-01, 16:35:32](https://lobste.rs/s/gukaij/baba_yaga_license) - [Baba Yaga License](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
 * [2025-09-01, 16:02:58](https://lobste.rs/s/fdyjno/what_s_cooking_on_sourcehut_q3_2025) - [What's cooking on SourceHut? Q3 2025](https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/)
 * [2025-09-01, 08:04:50](https://lobste.rs/s/qejtqj/passkeys_are_incompatible_with_open) - [Passkeys are incompatible with open-source software](https://www.smokingonabike.com/2025/01/04/passkey-marketing-is-lying-to-you/)
-* [2025-09-01, 06:27:18](https://lobste.rs/s/6d8btd/end_windows_10) - [End of (Windows) 10](https://endof10.org/)
 
 ## [Archives](archives/index.md)
 
