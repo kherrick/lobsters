@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-02, 21:10:20",
+      "https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database"
+    ],
+    [
+      "matrix.org Major Outage - Database Incident (September 2nd 2025)",
+      "https://status.matrix.org/incidents/mm9hdm78svgv"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 19:47:30",
       "https://lobste.rs/s/em4yrb/why_self_host_9front"
     ],
@@ -187,16 +197,6 @@
     [
       "[Optimising] Spatial Joins in DuckDB",
       "https://duckdb.org/2025/08/08/spatial-joins.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-01, 21:36:03",
-      "https://lobste.rs/s/d7s2xu/processors_are_getting_wider"
-    ],
-    [
-      "Processors are getting wider",
-      "https://lemire.me/blog/2025/09/01/processors-are-getting-wider/"
     ]
   ],
   [
