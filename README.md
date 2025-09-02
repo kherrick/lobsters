@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-02, 19:47:30](https://lobste.rs/s/em4yrb/why_self_host_9front) - [why self-host 9front](https://orib.dev/selfhost.html)
 * [2025-09-02, 19:16:28](https://lobste.rs/s/srhl5c/using_ai_coding_agents_for_finding) - [Using AI Coding Agents for finding vulnerabilities: strengths, weaknesses, and serious consistency problems](https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex)
 * [2025-09-02, 18:07:12](https://lobste.rs/s/ntnjvx/physically_based_rendering_from_first) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 17:46:31](https://lobste.rs/s/kjrhtp/python_has_had_async_for_10_years_why_isn_t) - [Python has had async for 10 years -- why isn't it more popular?](https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html)
@@ -19,7 +20,6 @@
 * [2025-09-01, 22:24:51](https://lobste.rs/s/p8fj5d/future_32_bit_support_kernel) - [The future of 32-bit support in the kernel](https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/)
 * [2025-09-01, 21:44:59](https://lobste.rs/s/7ijcrm/optimising_spatial_joins_duckdb) - [[Optimising] Spatial Joins in DuckDB](https://duckdb.org/2025/08/08/spatial-joins.html)
 * [2025-09-01, 21:36:03](https://lobste.rs/s/d7s2xu/processors_are_getting_wider) - [Processors are getting wider](https://lemire.me/blog/2025/09/01/processors-are-getting-wider/)
-* [2025-09-01, 21:08:31](https://lobste.rs/s/hbtz2s/nimony_design_principles) - [Nimony: Design principles](https://nim-lang.org/araq/nimony.html)
 * [2025-09-01, 21:05:23](https://lobste.rs/s/x5xf4g/bear_is_now_source_available) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 * [2025-09-01, 16:35:32](https://lobste.rs/s/gukaij/baba_yaga_license) - [Baba Yaga License](https://smallandnearlysilent.com/baba-yaga/LICENSE.txt)
 * [2025-09-01, 16:02:58](https://lobste.rs/s/fdyjno/what_s_cooking_on_sourcehut_q3_2025) - [What's cooking on SourceHut? Q3 2025](https://sourcehut.org/blog/2025-09-01-whats-cooking-q3-2025/)
