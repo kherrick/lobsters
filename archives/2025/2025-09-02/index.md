@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-02](index.md)
+
+* [2025-09-02, 01:33:38](https://lobste.rs/s/ig1k0s/saturation_triumph_history_how_most) - [Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation](https://notes.hella.cheap/saturation-and-the-triumph-of-history.html)
