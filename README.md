@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-03, 21:07:28](https://lobste.rs/s/pnu6ax/git_exclude_handy_feature_you_might_not) - [Git exclude, a handy feature you might not know about](https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/)
 * [2025-09-03, 19:39:31](https://lobste.rs/s/tu3njx/making_small_clippy_lint) - [Making a small Clippy lint](https://erk.dev/2025/08/21/clippy-lint)
 * [2025-09-03, 19:38:37](https://lobste.rs/s/yvqhaq/slint_1_13_released_with_live_preview_for) - [Slint 1.13 Released with Live-Preview for Rust and C++](https://slint.dev/blog/slint-1.13-released)
 * [2025-09-03, 19:26:07](https://lobste.rs/s/cpzttx/first_gleam_conference_gathering_2026) - [The first Gleam Conference - Gathering 2026](https://gleamgathering.com/)
@@ -24,7 +25,6 @@
 * [2025-09-02, 19:47:30](https://lobste.rs/s/em4yrb/why_self_host_9front) - [why self-host 9front](https://orib.dev/selfhost.html)
 * [2025-09-02, 18:07:12](https://lobste.rs/s/ntnjvx/physically_based_rendering_from_first) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 * [2025-09-02, 10:17:15](https://lobste.rs/s/umaxfz/rats_ratchets_2024) - [Of Rats and Ratchets (2024)](https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html)
-* [2025-09-02, 08:40:25](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos) - [Debugging Rustler on illumos](https://system-illumination.org/01-rustler.html)
 
 ## [Archives](archives/index.md)
 

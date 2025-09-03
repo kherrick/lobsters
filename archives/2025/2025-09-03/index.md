@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 21:07:28](https://lobste.rs/s/pnu6ax/git_exclude_handy_feature_you_might_not) - [Git exclude, a handy feature you might not know about](https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/)
 * [2025-09-03, 19:39:31](https://lobste.rs/s/tu3njx/making_small_clippy_lint) - [Making a small Clippy lint](https://erk.dev/2025/08/21/clippy-lint)
 * [2025-09-03, 19:38:37](https://lobste.rs/s/yvqhaq/slint_1_13_released_with_live_preview_for) - [Slint 1.13 Released with Live-Preview for Rust and C++](https://slint.dev/blog/slint-1.13-released)
 * [2025-09-03, 19:26:07](https://lobste.rs/s/cpzttx/first_gleam_conference_gathering_2026) - [The first Gleam Conference - Gathering 2026](https://gleamgathering.com/)
