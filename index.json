@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-03, 21:29:38",
+      "https://lobste.rs/s/fwa4jd/hledger_v1_50"
+    ],
+    [
+      "hledger v1.50",
+      "https://github.com/simonmichael/hledger/releases/tag/1.50"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 21:07:28",
       "https://lobste.rs/s/pnu6ax/git_exclude_handy_feature_you_might_not"
     ],
     [
       "Git exclude, a handy feature you might not know about",
       "https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/"
+    ]
+  ],
+  [
+    [
+      "2025-09-03, 20:49:06",
+      "https://lobste.rs/s/ao6ngg/building_terminal_applications_with"
+    ],
+    [
+      "Building Terminal Applications With Elixir",
+      "https://www.youtube.com/watch?v=eNbZcWTu0i0"
     ]
   ],
   [
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-09-03, 16:52:01",
-      "https://lobste.rs/s/e4hr8o/your_biggest_customer_might_be_your"
-    ],
-    [
-      "Your Biggest Customer Might Be Your Biggest Bottleneck",
-      "https://densumesh.dev/blog/fair-queue/"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 15:58:10",
       "https://lobste.rs/s/jk6omn/how_we_made_kagi_assistant_load_twice_as"
     ],
@@ -87,16 +97,6 @@
     [
       "Why Rewriting Emacs Is Hard",
       "https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 14:29:06",
-      "https://lobste.rs/s/f41ek6/anatomy_mach_o_structure_code_signing_pac"
-    ],
-    [
-      "The Anatomy of a Mach-O: Structure, Code Signing, and PAC",
-      "https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/"
     ]
   ],
   [
