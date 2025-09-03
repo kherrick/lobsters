@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-03, 13:27:52",
+      "https://lobste.rs/s/1tpdkv/sharing_mutable_reference_between_rust"
+    ],
+    [
+      "Sharing a mutable reference between Rust and Python",
+      "https://blog.lilyf.org/posts/python-mutable-reference/"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 12:58:18",
       "https://lobste.rs/s/8tn4aw/things_kids_do_1975"
     ],
@@ -177,16 +187,6 @@
     [
       "Reflections on Haskell@Meta",
       "https://www.youtube.com/watch?v=gEWBHP0PvRw"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 15:21:35",
-      "https://lobste.rs/s/kahscv/beware_sorting_locales"
-    ],
-    [
-      "Beware of Sorting Locales",
-      "https://www.adrianstoll.com/post/beware-of-sorting-locales/"
     ]
   ],
   [
