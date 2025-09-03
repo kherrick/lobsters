@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 11:25:42](https://lobste.rs/s/qb0qre/video_game_blurs_how_best_one_works) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 11:14:45](https://lobste.rs/s/kdoksz/16_year_odyssey_time_money_wrong_turns) - [The 16 year odyssey of \"time, money, wrong turns and frustration\" it took to finally emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 08:27:17](https://lobste.rs/s/kv4dlm/world_models_old_idea_ai_mount_comeback) - [‘World Models,’ an Old Idea in AI, Mount a Comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
 * [2025-09-03, 07:18:58](https://lobste.rs/s/lkdvc0/search_index_150_lines_haskell) - [Search Index in 150 Lines of Haskell](https://entropicthoughts.com/search-index-150-lines-haskell)
