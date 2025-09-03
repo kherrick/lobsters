@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-03, 21:07:28",
+      "https://lobste.rs/s/pnu6ax/git_exclude_handy_feature_you_might_not"
+    ],
+    [
+      "Git exclude, a handy feature you might not know about",
+      "https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/"
+    ]
+  ],
+  [
+    [
       "2025-09-03, 19:39:31",
       "https://lobste.rs/s/tu3njx/making_small_clippy_lint"
     ],
@@ -237,16 +247,6 @@
     [
       "Of Rats and Ratchets (2024)",
       "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 08:40:25",
-      "https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos"
-    ],
-    [
-      "Debugging Rustler on illumos",
-      "https://system-illumination.org/01-rustler.html"
     ]
   ]
 ]
