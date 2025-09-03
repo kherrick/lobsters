@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-02, 23:42:29",
+      "https://lobste.rs/s/ce22dx/adding_derive_from_rust"
+    ],
+    [
+      "Adding #[derive(From)] to Rust",
+      "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-09-02, 21:10:20",
       "https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database"
     ],
@@ -47,16 +57,6 @@
     [
       "Making XML human-readable without XSLT",
       "https://jakearchibald.com/2025/making-xml-human-readable-without-xslt/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 19:16:28",
-      "https://lobste.rs/s/srhl5c/using_ai_coding_agents_for_finding"
-    ],
-    [
-      "Using AI Coding Agents for finding vulnerabilities: strengths, weaknesses, and serious consistency problems",
-      "https://semgrep.dev/blog/2025/finding-vulnerabilities-in-modern-web-apps-using-claude-code-and-openai-codex"
     ]
   ],
   [
