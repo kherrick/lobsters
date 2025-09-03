@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-03, 17:51:25](https://lobste.rs/s/rshhsu/basic_m6502_microsoft_basic_for_6502) - [BASIC-M6502: Microsoft BASIC for 6502 Microprocessor - Version 1.1](https://github.com/microsoft/BASIC-M6502)
 * [2025-09-03, 16:52:01](https://lobste.rs/s/e4hr8o/your_biggest_customer_might_be_your) - [Your Biggest Customer Might Be Your Biggest Bottleneck](https://densumesh.dev/blog/fair-queue/)
 * [2025-09-03, 15:58:10](https://lobste.rs/s/jk6omn/how_we_made_kagi_assistant_load_twice_as) - [How we made Kagi Assistant load twice as fast](https://jacobwinters.com/kagi-assistant-optimization/)
 * [2025-09-03, 15:38:35](https://lobste.rs/s/e6emz1/abstract_machine_models) - [Abstract Machine Models](https://dr-knz.net/abstract-machine-models.html)
 * [2025-09-03, 14:59:02](https://lobste.rs/s/jeg5l9/why_rewriting_emacs_is_hard) - [Why Rewriting Emacs Is Hard](https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/)
-* [2025-09-03, 14:29:06](https://lobste.rs/s/f41ek6/anatomy_mach_o_structure_code_signing_pac) - [The Anatomy of a Mach-O: Structure, Code Signing, and PAC](https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/)
 * [2025-09-03, 14:01:25](https://lobste.rs/s/jlkxjt/airbus_b612_cockpit_font) - [Airbus B612 cockpit font](https://github.com/polarsys/b612)
 * [2025-09-03, 12:58:18](https://lobste.rs/s/8tn4aw/things_kids_do_1975) - [Things Kids Do (1975)](https://www.youtube.com/watch?v=k3QAVEweMkY)
 * [2025-09-03, 11:48:51](https://lobste.rs/s/hzky9k/wild_performance_tricks) - [Wild Performance Tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
