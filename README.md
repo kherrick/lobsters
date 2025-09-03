@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-03, 11:48:51](https://lobste.rs/s/hzky9k/wild_performance_tricks_david_lattimore) - [Wild Performance Tricks | David Lattimore](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
 * [2025-09-03, 11:25:42](https://lobste.rs/s/qb0qre/video_game_blurs_how_best_one_works) - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 * [2025-09-03, 11:14:45](https://lobste.rs/s/kdoksz/16_year_odyssey_time_money_wrong_turns) - [The 16 year odyssey of \"time, money, wrong turns and frustration\" it took to finally emulate the Pioneer LaserActive](https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/)
 * [2025-09-03, 08:27:17](https://lobste.rs/s/kv4dlm/world_models_old_idea_ai_mount_comeback) - [‘World Models,’ an Old Idea in AI, Mount a Comeback](https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/)
@@ -23,7 +24,6 @@
 * [2025-09-02, 08:40:25](https://lobste.rs/s/nr8kkd/debugging_rustler_on_illumos) - [Debugging Rustler on illumos](https://system-illumination.org/01-rustler.html)
 * [2025-09-02, 07:40:59](https://lobste.rs/s/57djg3/irc_serial_port_s_love_letter_internet) - [IRC - The Serial Port's love letter to Internet Relay Chat](https://www.youtube.com/watch?v=6UbKenFipjo)
 * [2025-09-02, 01:50:23](https://lobste.rs/s/qk5qw7/next_js_is_infuriating) - [Next.js Is Infuriating](https://blog.meca.sh/3lxoty3shjc2z)
-* [2025-09-02, 01:33:38](https://lobste.rs/s/ig1k0s/saturation_triumph_history_how_most) - [Saturation and the Triumph of History: How most of the behavior of Tech Leaders since 2016 can be explained by smartphone market saturation](https://notes.hella.cheap/saturation-and-the-triumph-of-history.html)
 * [2025-09-01, 21:05:23](https://lobste.rs/s/x5xf4g/bear_is_now_source_available) - [Bear is now source-available](https://herman.bearblog.dev/license/)
 
 ## [Archives](archives/index.md)
