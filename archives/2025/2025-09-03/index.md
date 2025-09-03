@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-03](index.md)
 
+* [2025-09-03, 14:01:25](https://lobste.rs/s/jlkxjt/airbus_b612_cockpit_font) - [Airbus B612 cockpit font](https://github.com/polarsys/b612)
 * [2025-09-03, 13:27:52](https://lobste.rs/s/1tpdkv/sharing_mutable_reference_between_rust) - [Sharing a mutable reference between Rust and Python](https://blog.lilyf.org/posts/python-mutable-reference/)
 * [2025-09-03, 12:58:18](https://lobste.rs/s/8tn4aw/things_kids_do_1975) - [Things Kids Do (1975)](https://www.youtube.com/watch?v=k3QAVEweMkY)
 * [2025-09-03, 11:48:51](https://lobste.rs/s/hzky9k/wild_performance_tricks_david_lattimore) - [Wild Performance Tricks | David Lattimore](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
