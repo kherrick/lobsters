@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-03, 15:38:35](https://lobste.rs/s/e6emz1/abstract_machine_models) - [Abstract Machine Models](https://dr-knz.net/abstract-machine-models.html)
 * [2025-09-03, 15:11:51](https://lobste.rs/s/kmiwzp/cookie_chaos_how_bypass_host_secure) - [Cookie Chaos: How to bypass __Host and __Secure cookie prefixes](https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes)
 * [2025-09-03, 14:59:02](https://lobste.rs/s/jeg5l9/why_rewriting_emacs_is_hard) - [Why Rewriting Emacs Is Hard](https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/)
-* [2025-09-03, 14:29:06](https://lobste.rs/s/f41ek6/anatomy_mach_o_structure_code_signing_pac) - [The Anatomy of a Mach-O: Structure, Code Signing, and PAC](https://oliviagallucci.com/the-anatomy-of-a-mach-o-structure-code-signing-and-pac/)
 * [2025-09-03, 14:01:25](https://lobste.rs/s/jlkxjt/airbus_b612_cockpit_font) - [Airbus B612 cockpit font](https://github.com/polarsys/b612)
 * [2025-09-03, 12:58:18](https://lobste.rs/s/8tn4aw/things_kids_do_1975) - [Things Kids Do (1975)](https://www.youtube.com/watch?v=k3QAVEweMkY)
 * [2025-09-03, 11:48:51](https://lobste.rs/s/hzky9k/wild_performance_tricks) - [Wild Performance Tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
