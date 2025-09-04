@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-04, 20:30:30](https://lobste.rs/s/vgvbwa/o_reilly_book_on_vibe_coding_has_been) - [The O'Reilly book on \"Vibe Coding\" has been renamed \"Beyond Vibe Coding\"](https://www.oreilly.com/library/view/vibe-coding-the/9798341634749/)
 * [2025-09-04, 19:50:45](https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:21:25](https://lobste.rs/s/lzr0ug/wal3_write_ahead_log_for_chroma_build_on) - [wal3: A Write-Ahead Log for Chroma, Build on Object Storage](https://trychroma.com/engineering/wal3)
 * [2025-09-04, 18:46:12](https://lobste.rs/s/e3cyxq/integer_programming_2002) - [Integer Programming (2002)](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-04, 15:28:11](https://lobste.rs/s/ubyo2n/embedded_dev_kit_for_endbasic_with_netbsd) - [An embedded dev kit for EndBASIC with NetBSD](https://youtu.be/WZFYTInWAqc)
+* [2025-09-04, 15:04:05](https://lobste.rs/s/qarcsc/diff_stat_for_binary_files) - [`diff --stat` for binary files](https://neugierig.org/software/blog/2025/08/jj-binary-stat.html)
 * [2025-09-04, 14:58:58](https://lobste.rs/s/vdankx/look_out_for_bugs) - [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
 * [2025-09-04, 12:38:10](https://lobste.rs/s/8tfol4/formally_verifying_fp_division_with) - [Formally verifying FP division with Gappa](https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1)
 * [2025-09-04, 12:18:27](https://lobste.rs/s/z4cszc/programming_lang_future) - [The Programming-Lang of the Future](https://vimeo.com/1115794889)
