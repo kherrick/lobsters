@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-04, 01:42:17](https://lobste.rs/s/rbbbdw/linux_kernel_smb_0_day_vulnerability_cve) - [Linux Kernel SMB 0-Day Vulnerability CVE-2025-37899 Uncovered Using ChatGPT o3](https://www.upwind.io/feed/linux-kernel-smb-0-day-vulnerability-cve-2025-37899-uncovered-using-chatgpt-o3)
 * [2025-09-03, 23:01:41](https://lobste.rs/s/tgqg9o/serious_shanns_comic_sans_for_hackers) - [Serious Shanns: Comic Sans for hackers](https://github.com/kaBeech/serious-shanns)
 * [2025-09-03, 22:47:22](https://lobste.rs/s/pqy0pp/where_s_shovelware_why_ai_coding_claims) - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://substack.com/inbox/post/172538377)
 * [2025-09-03, 21:09:47](https://lobste.rs/s/jdqoem/how_big_are_our_embeddings_now_why) - [How big are our embeddings now and why?](https://newsletter.vickiboykis.com/archive/how-big-are-our-embeddings-now-and-why/)
@@ -23,7 +24,6 @@
 * [2025-09-02, 23:42:52](https://lobste.rs/s/kyml3m/passkeys_modern_authentication) - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/)
 * [2025-09-02, 23:42:29](https://lobste.rs/s/ce22dx/adding_derive_from_rust) - [Adding #[derive(From)] to Rust](https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html)
 * [2025-09-02, 21:10:20](https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database) - [matrix.org Major Outage - Database Incident (September 2nd 2025)](https://status.matrix.org/incidents/mm9hdm78svgv)
-* [2025-09-02, 19:47:30](https://lobste.rs/s/em4yrb/why_self_host_9front) - [why self-host 9front](https://orib.dev/selfhost.html)
 * [2025-09-02, 18:07:12](https://lobste.rs/s/ntnjvx/physically_based_rendering_from_first) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 
 ## [Archives](archives/index.md)
