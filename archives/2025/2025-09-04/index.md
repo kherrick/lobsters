@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 22:01:44](https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command) - [maak: The infinitely extensible command runner and automation project build system à la Make](https://codeberg.org/jjba23/maak)
 * [2025-09-04, 21:30:37](https://lobste.rs/s/szneus/fast_accurate_color_depth_conversion) - [Fast and Accurate Color Depth Conversion (2015)](https://threadlocalmutex.com/?p=48)
 * [2025-09-04, 20:30:30](https://lobste.rs/s/vgvbwa/o_reilly_book_on_vibe_coding_has_been) - [The O'Reilly book on \"Vibe Coding\" has been renamed \"Beyond Vibe Coding\"](https://www.oreilly.com/library/view/vibe-coding-the/9798341634749/)
 * [2025-09-04, 19:50:45](https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
@@ -11,6 +12,7 @@
 * [2025-09-04, 18:46:12](https://lobste.rs/s/e3cyxq/integer_programming_2002) - [Integer Programming (2002)](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:46:12](https://lobste.rs/s/e3cyxq/integer_programming_1977) - [Integer Programming (1977)](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
+* [2025-09-04, 18:10:44](https://lobste.rs/s/i79gqs/augment_complement_empower_yourself) - [Augment, Complement and Empower Yourself](https://arttuv.com/writings/augment-complement-empower-yourself/)
 * [2025-09-04, 17:45:06](https://lobste.rs/s/5jmtei/addressing_unauthorized_issuance_tls) - [Addressing the unauthorized issuance of TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 * [2025-09-04, 15:28:11](https://lobste.rs/s/ubyo2n/embedded_dev_kit_for_endbasic_with_netbsd) - [An embedded dev kit for EndBASIC with NetBSD](https://youtu.be/WZFYTInWAqc)
 * [2025-09-04, 15:04:05](https://lobste.rs/s/qarcsc/diff_stat_for_binary_files) - [`diff --stat` for binary files](https://neugierig.org/software/blog/2025/08/jj-binary-stat.html)
