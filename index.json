@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-04, 19:50:45",
+      "https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns"
+    ],
+    [
+      "Classic 8×8-pixel B&W Mac patterns",
+      "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 19:21:25",
+      "https://lobste.rs/s/lzr0ug/wal3_write_ahead_log_for_chroma_build_on"
+    ],
+    [
+      "wal3: A Write-Ahead Log for Chroma, Build on Object Storage",
+      "https://trychroma.com/engineering/wal3"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 18:46:12",
       "https://lobste.rs/s/e3cyxq/integer_programming_2002"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-09-04, 08:08:24",
-      "https://lobste.rs/s/bisfwa/route_layer_process_kafka_messages_with"
-    ],
-    [
-      "Route, Layer and Process Kafka Messages with Tansu Services",
-      "https://blog.tansu.io/articles/route-layer-service"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 07:01:39",
       "https://lobste.rs/s/athmwa/setting_up_cgit_with_caddy_v2_2022"
     ],
@@ -197,16 +207,6 @@
     [
       "BASIC-M6502: Microsoft BASIC for 6502 Microprocessor - Version 1.1",
       "https://github.com/microsoft/BASIC-M6502"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 15:58:10",
-      "https://lobste.rs/s/jk6omn/how_we_made_kagi_assistant_load_twice_as"
-    ],
-    [
-      "How we made Kagi Assistant load twice as fast",
-      "https://jacobwinters.com/kagi-assistant-optimization/"
     ]
   ],
   [
