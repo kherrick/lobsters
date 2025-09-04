@@ -9,6 +9,7 @@
 * [2025-09-04, 11:27:26](https://lobste.rs/s/6tfwtv/why_ml_needs_new_programming_language) - [Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-04, 11:27:26](https://lobste.rs/s/6tfwtv/signals_threads_why_ml_needs_new) - [Signals and Threads | Why ML Needs a New Programming Language](https://signalsandthreads.com/why-ml-needs-a-new-programming-language/)
 * [2025-09-04, 11:01:50](https://lobste.rs/s/pvwg6m/ca_trusted_by_microsoft_mis_issued) - [A CA Trusted by Microsoft Mis-issued Certificates for 1.1.1.1 in May 2025, According to Logs](https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/)
+* [2025-09-04, 10:56:46](https://lobste.rs/s/za9lgt/practical_introduction_parsing_rust) - [A practical introduction to parsing in Rust](https://jhwlr.io/intro-to-parsing/)
 * [2025-09-04, 09:21:38](https://lobste.rs/s/ksxhza/jujutsu_v0_33_0_released) - [jujutsu v0.33.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.33.0)
 * [2025-09-04, 08:51:03](https://lobste.rs/s/akcs1q/strategically_holding_back_bugs_patches) - [Strategically Holding Back Bugs and Patches](https://rya.nc/files/strategically_holding_back_bugs_patches_spw25.pdf)
 * [2025-09-04, 08:08:24](https://lobste.rs/s/bisfwa/route_layer_process_kafka_messages_with) - [Route, Layer and Process Kafka Messages with Tansu Services](https://blog.tansu.io/articles/route-layer-service)
