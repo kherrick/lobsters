@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 18:46:12](https://lobste.rs/s/e3cyxq/integer_programming_2002) - [Integer Programming (2002)](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-04, 17:45:06](https://lobste.rs/s/5jmtei/addressing_unauthorized_issuance_tls) - [Addressing the unauthorized issuance of TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 * [2025-09-04, 15:28:11](https://lobste.rs/s/ubyo2n/embedded_dev_kit_for_endbasic_with_netbsd) - [An embedded dev kit for EndBASIC with NetBSD](https://youtu.be/WZFYTInWAqc)
