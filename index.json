@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-04, 02:30:22",
+      "https://lobste.rs/s/cwimuw/old_type_basic_games_refactored_playable"
+    ],
+    [
+      "Old type-in BASIC games refactored and playable in-browser",
+      "https://basic-code.bearblog.dev"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 01:42:17",
       "https://lobste.rs/s/rbbbdw/linux_kernel_smb_0_day_vulnerability_cve"
     ],
     [
       "Linux Kernel SMB 0-Day Vulnerability CVE-2025-37899 Uncovered Using ChatGPT o3",
       "https://www.upwind.io/feed/linux-kernel-smb-0-day-vulnerability-cve-2025-37899-uncovered-using-chatgpt-o3"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 01:00:50",
+      "https://lobste.rs/s/veies2/welcoming_rust_innovation_lab"
+    ],
+    [
+      "Welcoming the Rust Innovation Lab",
+      "https://blog.rust-lang.org/2025/09/03/welcoming-the-rust-innovation-lab/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-09-03, 15:38:35",
-      "https://lobste.rs/s/e6emz1/abstract_machine_models"
-    ],
-    [
-      "Abstract Machine Models",
-      "https://dr-knz.net/abstract-machine-models.html"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 14:59:02",
       "https://lobste.rs/s/jeg5l9/why_rewriting_emacs_is_hard"
     ],
@@ -227,16 +237,6 @@
     [
       "Adding #[derive(From)] to Rust",
       "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 21:10:20",
-      "https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database"
-    ],
-    [
-      "matrix.org Major Outage - Database Incident (September 2nd 2025)",
-      "https://status.matrix.org/incidents/mm9hdm78svgv"
     ]
   ],
   [
