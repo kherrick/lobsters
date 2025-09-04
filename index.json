@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-09-04, 20:30:30",
-      "https://lobste.rs/s/vgvbwa/o_reilly_book_on_vibe_coding_has_been"
-    ],
-    [
-      "The O'Reilly book on \"Vibe Coding\" has been renamed \"Beyond Vibe Coding\"",
-      "https://www.oreilly.com/library/view/vibe-coding-the/9798341634749/"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 19:50:45",
       "https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns"
     ],
@@ -57,6 +47,16 @@
     [
       "An embedded dev kit for EndBASIC with NetBSD",
       "https://youtu.be/WZFYTInWAqc"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 15:04:05",
+      "https://lobste.rs/s/qarcsc/diff_stat_for_binary_files"
+    ],
+    [
+      "`diff --stat` for binary files",
+      "https://neugierig.org/software/blog/2025/08/jj-binary-stat.html"
     ]
   ],
   [
