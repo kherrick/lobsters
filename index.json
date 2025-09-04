@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 11:01:50",
+      "https://lobste.rs/s/pvwg6m/ca_trusted_by_microsoft_mis_issued"
+    ],
+    [
+      "A CA Trusted by Microsoft Mis-issued Certificates for 1.1.1.1 in May 2025, According to Logs",
+      "https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 09:21:38",
       "https://lobste.rs/s/ksxhza/jujutsu_v0_33_0_released"
     ],
@@ -227,16 +237,6 @@
     [
       "2025 Financial Report and Fundraiser",
       "https://ziglang.org/news/2025-financials/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 23:42:52",
-      "https://lobste.rs/s/kyml3m/passkeys_modern_authentication"
-    ],
-    [
-      "Passkeys and Modern Authentication",
-      "https://lucumr.pocoo.org/2025/9/2/passkeys/"
     ]
   ],
   [
