@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 21:30:37",
+      "https://lobste.rs/s/szneus/fast_accurate_color_depth_conversion"
+    ],
+    [
+      "Fast and Accurate Color Depth Conversion (2015)",
+      "https://threadlocalmutex.com/?p=48"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 19:50:45",
       "https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns"
     ],
@@ -177,16 +187,6 @@
     [
       "Git exclude, a handy feature you might not know about",
       "https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 19:39:31",
-      "https://lobste.rs/s/tu3njx/making_small_clippy_lint"
-    ],
-    [
-      "Making a small Clippy lint",
-      "https://erk.dev/2025/08/21/clippy-lint"
     ]
   ],
   [
