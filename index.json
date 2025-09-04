@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-04, 21:30:37",
-      "https://lobste.rs/s/szneus/fast_accurate_color_depth_conversion"
+      "2025-09-04, 22:01:44",
+      "https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command"
     ],
     [
-      "Fast and Accurate Color Depth Conversion (2015)",
-      "https://threadlocalmutex.com/?p=48"
+      "maak: The infinitely extensible command runner and automation project build system à la Make",
+      "https://codeberg.org/jjba23/maak"
     ]
   ],
   [
@@ -51,22 +51,22 @@
   ],
   [
     [
+      "2025-09-04, 18:10:44",
+      "https://lobste.rs/s/i79gqs/augment_complement_empower_yourself"
+    ],
+    [
+      "Augment, Complement and Empower Yourself",
+      "https://arttuv.com/writings/augment-complement-empower-yourself/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 15:28:11",
       "https://lobste.rs/s/ubyo2n/embedded_dev_kit_for_endbasic_with_netbsd"
     ],
     [
       "An embedded dev kit for EndBASIC with NetBSD",
       "https://youtu.be/WZFYTInWAqc"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 15:04:05",
-      "https://lobste.rs/s/qarcsc/diff_stat_for_binary_files"
-    ],
-    [
-      "`diff --stat` for binary files",
-      "https://neugierig.org/software/blog/2025/08/jj-binary-stat.html"
     ]
   ],
   [
