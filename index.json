@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 18:46:12",
+      "https://lobste.rs/s/e3cyxq/integer_programming_2002"
+    ],
+    [
+      "Integer Programming (2002)",
+      "https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 18:29:48",
       "https://lobste.rs/s/b6ipnz/you_don_t_need_animations"
     ],
@@ -117,16 +127,6 @@
     [
       "Faster Rust builds on Mac",
       "https://nnethercote.github.io/2025/09/04/faster-rust-builds-on-mac.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 01:00:50",
-      "https://lobste.rs/s/veies2/welcoming_rust_innovation_lab"
-    ],
-    [
-      "Welcoming the Rust Innovation Lab",
-      "https://blog.rust-lang.org/2025/09/03/welcoming-the-rust-innovation-lab/"
     ]
   ],
   [
