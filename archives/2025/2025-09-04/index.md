@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 * [2025-09-04, 17:45:06](https://lobste.rs/s/5jmtei/addressing_unauthorized_issuance_tls) - [Addressing the unauthorized issuance of TLS certificates for 1.1.1.1](https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/https://blog.cloudflare.com/unauthorized-issuance-of-certificates-for-1-1-1-1/)
 * [2025-09-04, 15:28:11](https://lobste.rs/s/ubyo2n/embedded_dev_kit_for_endbasic_with_netbsd) - [An embedded dev kit for EndBASIC with NetBSD](https://youtu.be/WZFYTInWAqc)
 * [2025-09-04, 15:04:05](https://lobste.rs/s/qarcsc/diff_stat_for_binary_files) - [`diff --stat` for binary files](https://neugierig.org/software/blog/2025/08/jj-binary-stat.html)
