@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
+* [2025-09-04, 21:30:37](https://lobste.rs/s/szneus/fast_accurate_color_depth_conversion) - [Fast and Accurate Color Depth Conversion (2015)](https://threadlocalmutex.com/?p=48)
 * [2025-09-04, 20:30:30](https://lobste.rs/s/vgvbwa/o_reilly_book_on_vibe_coding_has_been) - [The O'Reilly book on \"Vibe Coding\" has been renamed \"Beyond Vibe Coding\"](https://www.oreilly.com/library/view/vibe-coding-the/9798341634749/)
 * [2025-09-04, 19:50:45](https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:21:25](https://lobste.rs/s/lzr0ug/wal3_write_ahead_log_for_chroma_build_on) - [wal3: A Write-Ahead Log for Chroma, Build on Object Storage](https://trychroma.com/engineering/wal3)
