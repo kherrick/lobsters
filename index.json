@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 20:30:30",
+      "https://lobste.rs/s/vgvbwa/o_reilly_book_on_vibe_coding_has_been"
+    ],
+    [
+      "The O'Reilly book on \"Vibe Coding\" has been renamed \"Beyond Vibe Coding\"",
+      "https://www.oreilly.com/library/view/vibe-coding-the/9798341634749/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 19:50:45",
       "https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns"
     ],
@@ -177,16 +187,6 @@
     [
       "Making a small Clippy lint",
       "https://erk.dev/2025/08/21/clippy-lint"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 19:38:37",
-      "https://lobste.rs/s/yvqhaq/slint_1_13_released_with_live_preview_for"
-    ],
-    [
-      "Slint 1.13 Released with Live-Preview for Rust and C++",
-      "https://slint.dev/blog/slint-1.13-released"
     ]
   ],
   [
