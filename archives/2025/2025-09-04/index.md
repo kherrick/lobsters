@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2025-09-04](index.md)
 
 * [2025-09-04, 22:01:44](https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command) - [maak: The infinitely extensible command runner and automation project build system à la Make](https://codeberg.org/jjba23/maak)
+* [2025-09-04, 21:46:00](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms) - [Let's rename the \"vibecoding\" tag to \"llms\"](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms)
 * [2025-09-04, 21:30:37](https://lobste.rs/s/szneus/fast_accurate_color_depth_conversion) - [Fast and Accurate Color Depth Conversion (2015)](https://threadlocalmutex.com/?p=48)
 * [2025-09-04, 20:30:30](https://lobste.rs/s/vgvbwa/o_reilly_book_on_vibe_coding_has_been) - [The O'Reilly book on \"Vibe Coding\" has been renamed \"Beyond Vibe Coding\"](https://www.oreilly.com/library/view/vibe-coding-the/9798341634749/)
+* [2025-09-04, 20:16:20](https://lobste.rs/s/kqm5ks/glamorous_toolkit_moldable_development) - [Glamorous Toolkit: The Moldable Development Environment](https://github.com/feenkcom/gtoolkit)
 * [2025-09-04, 19:50:45](https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 19:21:25](https://lobste.rs/s/lzr0ug/wal3_write_ahead_log_for_chroma_build_on) - [wal3: A Write-Ahead Log for Chroma, Build on Object Storage](https://trychroma.com/engineering/wal3)
+* [2025-09-04, 19:15:30](https://lobste.rs/s/yvua2g/subverting_code_integrity_checks) - [Subverting code integrity checks to locally backdoor Signal, 1Password, Slack, and more](https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/)
 * [2025-09-04, 18:46:12](https://lobste.rs/s/e3cyxq/integer_programming_2002) - [Integer Programming (2002)](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:46:12](https://lobste.rs/s/e3cyxq/integer_programming_1977) - [Integer Programming (1977)](https://web.mit.edu/15.053/www/AMP-Chapter-09.pdf)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
