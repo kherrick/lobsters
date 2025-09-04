@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-04, 02:30:22](https://lobste.rs/s/cwimuw/old_type_basic_games_refactored_playable) - [Old type-in BASIC games refactored and playable in-browser](https://basic-code.bearblog.dev)
 * [2025-09-04, 01:42:17](https://lobste.rs/s/rbbbdw/linux_kernel_smb_0_day_vulnerability_cve) - [Linux Kernel SMB 0-Day Vulnerability CVE-2025-37899 Uncovered Using ChatGPT o3](https://www.upwind.io/feed/linux-kernel-smb-0-day-vulnerability-cve-2025-37899-uncovered-using-chatgpt-o3)
+* [2025-09-04, 01:00:50](https://lobste.rs/s/veies2/welcoming_rust_innovation_lab) - [Welcoming the Rust Innovation Lab](https://blog.rust-lang.org/2025/09/03/welcoming-the-rust-innovation-lab/)
 * [2025-09-03, 23:01:41](https://lobste.rs/s/tgqg9o/serious_shanns_comic_sans_for_hackers) - [Serious Shanns: Comic Sans for hackers](https://github.com/kaBeech/serious-shanns)
 * [2025-09-03, 22:47:22](https://lobste.rs/s/pqy0pp/where_s_shovelware_why_ai_coding_claims) - [Where's the Shovelware? Why AI Coding Claims Don't Add Up](https://substack.com/inbox/post/172538377)
 * [2025-09-03, 21:09:47](https://lobste.rs/s/jdqoem/how_big_are_our_embeddings_now_why) - [How big are our embeddings now and why?](https://newsletter.vickiboykis.com/archive/how-big-are-our-embeddings-now-and-why/)
@@ -12,7 +14,6 @@
 * [2025-09-03, 17:51:25](https://lobste.rs/s/rshhsu/basic_m6502_microsoft_basic_for_6502) - [BASIC-M6502: Microsoft BASIC for 6502 Microprocessor - Version 1.1](https://github.com/microsoft/BASIC-M6502)
 * [2025-09-03, 16:52:01](https://lobste.rs/s/e4hr8o/your_biggest_customer_might_be_your) - [Your Biggest Customer Might Be Your Biggest Bottleneck](https://densumesh.dev/blog/fair-queue/)
 * [2025-09-03, 15:58:10](https://lobste.rs/s/jk6omn/how_we_made_kagi_assistant_load_twice_as) - [How we made Kagi Assistant load twice as fast](https://jacobwinters.com/kagi-assistant-optimization/)
-* [2025-09-03, 15:38:35](https://lobste.rs/s/e6emz1/abstract_machine_models) - [Abstract Machine Models](https://dr-knz.net/abstract-machine-models.html)
 * [2025-09-03, 14:59:02](https://lobste.rs/s/jeg5l9/why_rewriting_emacs_is_hard) - [Why Rewriting Emacs Is Hard](https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/)
 * [2025-09-03, 14:01:25](https://lobste.rs/s/jlkxjt/airbus_b612_cockpit_font) - [Airbus B612 cockpit font](https://github.com/polarsys/b612)
 * [2025-09-03, 11:48:51](https://lobste.rs/s/hzky9k/wild_performance_tricks) - [Wild Performance Tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
@@ -23,7 +24,6 @@
 * [2025-09-03, 03:25:41](https://lobste.rs/s/0ydman/2025_financial_report_fundraiser) - [2025 Financial Report and Fundraiser](https://ziglang.org/news/2025-financials/)
 * [2025-09-02, 23:42:52](https://lobste.rs/s/kyml3m/passkeys_modern_authentication) - [Passkeys and Modern Authentication](https://lucumr.pocoo.org/2025/9/2/passkeys/)
 * [2025-09-02, 23:42:29](https://lobste.rs/s/ce22dx/adding_derive_from_rust) - [Adding #[derive(From)] to Rust](https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html)
-* [2025-09-02, 21:10:20](https://lobste.rs/s/h5jrbk/matrix_org_major_outage_database) - [matrix.org Major Outage - Database Incident (September 2nd 2025)](https://status.matrix.org/incidents/mm9hdm78svgv)
 * [2025-09-02, 18:07:12](https://lobste.rs/s/ntnjvx/physically_based_rendering_from_first) - [Physically based rendering from first principles](https://imadr.me/pbr/)
 
 ## [Archives](archives/index.md)
