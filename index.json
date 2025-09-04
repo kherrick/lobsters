@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 08:08:24",
+      "https://lobste.rs/s/bisfwa/route_layer_process_kafka_messages_with"
+    ],
+    [
+      "Route, Layer and Process Kafka Messages with Tansu Services",
+      "https://blog.tansu.io/articles/route-layer-service"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 07:01:39",
       "https://lobste.rs/s/athmwa/setting_up_cgit_with_caddy_v2_2022"
     ],
@@ -227,16 +237,6 @@
     [
       "Passkeys and Modern Authentication",
       "https://lucumr.pocoo.org/2025/9/2/passkeys/"
-    ]
-  ],
-  [
-    [
-      "2025-09-02, 23:42:29",
-      "https://lobste.rs/s/ce22dx/adding_derive_from_rust"
-    ],
-    [
-      "Adding #[derive(From)] to Rust",
-      "https://kobzol.github.io/rust/2025/09/02/adding-derive-from-to-rust.html"
     ]
   ],
   [
