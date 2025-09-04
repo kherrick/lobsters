@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 12:38:10",
+      "https://lobste.rs/s/8tfol4/formally_verifying_fp_division_with"
+    ],
+    [
+      "Formally verifying FP division with Gappa",
+      "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 12:18:27",
       "https://lobste.rs/s/z4cszc/programming_lang_future"
     ],
@@ -31,12 +41,32 @@
   ],
   [
     [
+      "2025-09-04, 10:56:46",
+      "https://lobste.rs/s/za9lgt/practical_introduction_parsing_rust"
+    ],
+    [
+      "A practical introduction to parsing in Rust",
+      "https://jhwlr.io/intro-to-parsing/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 09:21:38",
       "https://lobste.rs/s/ksxhza/jujutsu_v0_33_0_released"
     ],
     [
       "jujutsu v0.33.0 released",
       "https://github.com/jj-vcs/jj/releases/tag/v0.33.0"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 08:51:03",
+      "https://lobste.rs/s/akcs1q/strategically_holding_back_bugs_patches"
+    ],
+    [
+      "Strategically Holding Back Bugs and Patches",
+      "https://rya.nc/files/strategically_holding_back_bugs_patches_spw25.pdf"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2025-09-03, 16:52:01",
-      "https://lobste.rs/s/e4hr8o/your_biggest_customer_might_be_your"
-    ],
-    [
-      "Your Biggest Customer Might Be Your Biggest Bottleneck",
-      "https://densumesh.dev/blog/fair-queue/"
-    ]
-  ],
-  [
-    [
       "2025-09-03, 15:58:10",
       "https://lobste.rs/s/jk6omn/how_we_made_kagi_assistant_load_twice_as"
     ],
@@ -227,26 +247,6 @@
     [
       "Video Game Blurs (and how the best one works)",
       "https://blog.frost.kiwi/dual-kawase/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 07:09:52",
-      "https://lobste.rs/s/xdluvl/cpu_utilization_is_lie"
-    ],
-    [
-      "%CPU Utilization Is A Lie",
-      "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 03:25:41",
-      "https://lobste.rs/s/0ydman/2025_financial_report_fundraiser"
-    ],
-    [
-      "2025 Financial Report and Fundraiser",
-      "https://ziglang.org/news/2025-financials/"
     ]
   ]
 ]
