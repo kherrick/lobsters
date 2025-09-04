@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-04, 07:01:39",
+      "https://lobste.rs/s/athmwa/setting_up_cgit_with_caddy_v2_2022"
+    ],
+    [
+      "Setting up cgit with Caddy v2 (2022)",
+      "https://www.sixfoisneuf.fr/posts/setting-up-cgit-with-caddy2/"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 05:58:25",
       "https://lobste.rs/s/mjajol/faster_rust_builds_on_mac"
     ],
@@ -197,16 +207,6 @@
     [
       "%CPU Utilization Is A Lie",
       "https://www.brendanlong.com/cpu-utilization-is-a-lie.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 05:57:23",
-      "https://lobste.rs/s/2dc4y7/new_gabi_elf_spec_available_for_public"
-    ],
-    [
-      "New gABI/ELF Spec Available for Public Review",
-      "https://groups.google.com/g/generic-abi/c/doY6WIIPqhU/"
     ]
   ],
   [
