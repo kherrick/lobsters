@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-05, 17:54:40](https://lobste.rs/s/nxfq2a/embeddinggemma_best_class_open_model_for) - [EmbeddingGemma: Best-in-Class Open Model for On-Device Embeddings](https://developers.googleblog.com/en/introducing-embeddinggemma/)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
@@ -14,7 +15,6 @@
 * [2025-09-05, 03:50:14](https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust) - [Dealing with cancel safety in async Rust](https://rfd.shared.oxide.computer/rfd/400)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 02:40:12](https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language) - [Evolving the OCaml Programming Language (2025)](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
-* [2025-09-04, 22:01:44](https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command) - [maak: The infinitely extensible command runner and automation project build system à la Make](https://codeberg.org/jjba23/maak)
 * [2025-09-04, 21:46:00](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms) - [Let's rename the \"vibecoding\" tag to \"llms\"](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms)
 * [2025-09-04, 19:50:45](https://lobste.rs/s/cruxfx/classic_8x8_pixel_b_w_mac_patterns) - [Classic 8×8-pixel B&W Mac patterns](https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
