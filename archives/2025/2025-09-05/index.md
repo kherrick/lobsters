@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 06:23:19](https://lobste.rs/s/babkll/xmake_v3_0_2_has_been_released_improve_c) - [Xmake v3.0.2 has been released, Improve C++ modules and new native thread support](https://github.com/xmake-io/xmake/releases/tag/v3.0.2)
+* [2025-09-05, 05:57:10](https://lobste.rs/s/rfbvqb/type_checking_is_symptom_not_solution) - [Type Checking is a Symptom, Not a Solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a)
 * [2025-09-05, 05:11:10](https://lobste.rs/s/fdqbmt/your_mcp_doesn_t_need_30_tools_it_needs_code) - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 * [2025-09-05, 05:01:41](https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll) - [If I hear \"design pattern\" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/)
 * [2025-09-05, 05:00:45](https://lobste.rs/s/zru2uc/opt_strict_memory_safety_checking_swift_6) - [Opt-in Strict Memory Safety Checking in Swift 6.2](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0458-strict-memory-safety.md)
