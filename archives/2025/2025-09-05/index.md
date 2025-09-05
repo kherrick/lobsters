@@ -13,5 +13,6 @@
 * [2025-09-05, 05:00:45](https://lobste.rs/s/zru2uc/opt_strict_memory_safety_checking_swift_6) - [Opt-in Strict Memory Safety Checking in Swift 6.2](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0458-strict-memory-safety.md)
 * [2025-09-05, 03:50:14](https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust) - [Dealing with cancel safety in async Rust](https://rfd.shared.oxide.computer/rfd/400)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
+* [2025-09-05, 03:30:31](https://lobste.rs/s/uxbodb/trying_make_sense_casing_conventions_on) - [Trying to Make Sense of Casing Conventions on the Web](https://blog.jim-nielsen.com/2025/casing-on-the-web/)
 * [2025-09-05, 02:40:12](https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language) - [Evolving the OCaml Programming Language (2025)](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 * [2025-09-05, 01:57:21](https://lobste.rs/s/az6oq3/wolves_repository_software_engineering) - [Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack](https://arxiv.org/pdf/2504.17473)
