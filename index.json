@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-09-05, 06:23:19",
+      "https://lobste.rs/s/babkll/xmake_v3_0_2_has_been_released_improve_c"
+    ],
+    [
+      "Xmake v3.0.2 has been released, Improve C++ modules and new native thread support",
+      "https://github.com/xmake-io/xmake/releases/tag/v3.0.2"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 05:57:10",
       "https://lobste.rs/s/rfbvqb/type_checking_is_symptom_not_solution"
     ],
@@ -207,16 +217,6 @@
     [
       "Why ML Needs a New Programming Language",
       "https://signalsandthreads.com/why-ml-needs-a-new-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 11:01:50",
-      "https://lobste.rs/s/pvwg6m/ca_trusted_by_microsoft_mis_issued"
-    ],
-    [
-      "A CA Trusted by Microsoft Mis-issued Certificates for 1.1.1.1 in May 2025, According to Logs",
-      "https://arstechnica.com/security/2025/09/mis-issued-certificates-for-1-1-1-1-dns-service-pose-a-threat-to-the-internet/"
     ]
   ],
   [
