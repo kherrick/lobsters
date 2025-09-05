@@ -1,22 +1,12 @@
 [
   [
     [
-      "2025-09-05, 05:11:10",
-      "https://lobste.rs/s/fdqbmt/your_mcp_doesn_t_need_30_tools_it_needs_code"
+      "2025-09-05, 03:50:14",
+      "https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust"
     ],
     [
-      "Your MCP Doesn’t Need 30 Tools: It Needs Code",
-      "https://lucumr.pocoo.org/2025/8/18/code-mcps/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 05:01:41",
-      "https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll"
-    ],
-    [
-      "If I hear \"design pattern\" one more time, I'll go mad",
-      "https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/"
+      "Dealing with cancel safety in async Rust",
+      "https://rfd.shared.oxide.computer/rfd/400"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "Classic 8×8-pixel B&W Mac patterns",
       "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-04, 19:21:25",
+      "https://lobste.rs/s/lzr0ug/wal3_write_ahead_log_for_chroma_build_on"
+    ],
+    [
+      "wal3: A Write-Ahead Log for Chroma, Build on Object Storage",
+      "https://trychroma.com/engineering/wal3"
     ]
   ],
   [
