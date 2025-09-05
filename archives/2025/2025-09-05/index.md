@@ -7,6 +7,7 @@
 * [2025-09-05, 05:11:10](https://lobste.rs/s/fdqbmt/your_mcp_doesn_t_need_30_tools_it_needs_code) - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 * [2025-09-05, 05:01:41](https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll) - [If I hear \"design pattern\" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/)
 * [2025-09-05, 05:00:45](https://lobste.rs/s/zru2uc/opt_strict_memory_safety_checking_swift_6) - [Opt-in Strict Memory Safety Checking in Swift 6.2](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0458-strict-memory-safety.md)
+* [2025-09-05, 03:50:14](https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust) - [Dealing with cancel safety in async Rust](https://rfd.shared.oxide.computer/rfd/400)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 02:40:12](https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language) - [Evolving the OCaml Programming Language (2025)](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 * [2025-09-05, 01:57:21](https://lobste.rs/s/az6oq3/wolves_repository_software_engineering) - [Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack](https://arxiv.org/pdf/2504.17473)
