@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-05, 01:57:21",
+      "https://lobste.rs/s/az6oq3/wolves_repository_software_engineering"
+    ],
+    [
+      "Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack",
+      "https://arxiv.org/pdf/2504.17473"
+    ]
+  ],
+  [
+    [
       "2025-09-04, 22:01:44",
       "https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command"
     ],
@@ -217,16 +227,6 @@
     [
       "Why Rewriting Emacs Is Hard",
       "https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 14:01:25",
-      "https://lobste.rs/s/jlkxjt/airbus_b612_cockpit_font"
-    ],
-    [
-      "Airbus B612 cockpit font",
-      "https://github.com/polarsys/b612"
     ]
   ],
   [
