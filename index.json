@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-05, 05:01:41",
+      "https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll"
+    ],
+    [
+      "If I hear \"design pattern\" one more time, I'll go mad",
+      "https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 05:00:45",
+      "https://lobste.rs/s/zru2uc/opt_strict_memory_safety_checking_swift_6"
+    ],
+    [
+      "Opt-in Strict Memory Safety Checking in Swift 6.2",
+      "https://github.com/swiftlang/swift-evolution/blob/main/proposals/0458-strict-memory-safety.md"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 03:47:27",
+      "https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector"
+    ],
+    [
+      "Fil's Unbelievable Garbage Collector",
+      "https://fil-c.org/fugc"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 02:40:12",
       "https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-09-04, 19:21:25",
-      "https://lobste.rs/s/lzr0ug/wal3_write_ahead_log_for_chroma_build_on"
-    ],
-    [
-      "wal3: A Write-Ahead Log for Chroma, Build on Object Storage",
-      "https://trychroma.com/engineering/wal3"
-    ]
-  ],
-  [
-    [
       "2025-09-04, 19:15:30",
       "https://lobste.rs/s/yvua2g/subverting_code_integrity_checks"
     ],
@@ -107,16 +127,6 @@
     [
       "Look Out For Bugs",
       "https://matklad.github.io/2025/09/04/look-for-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 12:38:10",
-      "https://lobste.rs/s/8tfol4/formally_verifying_fp_division_with"
-    ],
-    [
-      "Formally verifying FP division with Gappa",
-      "https://community.arm.com/arm-community-blogs/b/embedded-and-microcontrollers-blog/posts/formally-verifying-a-floating-point-division-routine-with-gappa-p1"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Why Rewriting Emacs Is Hard",
       "https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 11:48:51",
-      "https://lobste.rs/s/hzky9k/wild_performance_tricks"
-    ],
-    [
-      "Wild Performance Tricks",
-      "https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html"
     ]
   ],
   [
