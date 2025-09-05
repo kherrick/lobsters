@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-05](index.md)
 
+* [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:42:44](https://lobste.rs/s/m6vk7v/stelvio_aws_for_python_devs_made_simple) - [stelvio: AWS for Python devs - made simple](https://github.com/michal-stlv/stelvio)
 * [2025-09-05, 12:24:01](https://lobste.rs/s/yehlo1/lava_rgb) - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
 * [2025-09-05, 09:05:42](https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend)

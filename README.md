@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:42:44](https://lobste.rs/s/m6vk7v/stelvio_aws_for_python_devs_made_simple) - [stelvio: AWS for Python devs - made simple](https://github.com/michal-stlv/stelvio)
 * [2025-09-05, 12:24:01](https://lobste.rs/s/yehlo1/lava_rgb) - [Lava RGB](https://amaiorano.io/2025/09/03/lava-rgb.html)
 * [2025-09-05, 09:05:42](https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend)
@@ -7,7 +8,6 @@
 * [2025-09-05, 08:00:34](https://lobste.rs/s/noazra/capitalization_initialisms_2009) - [Capitalization of Initialisms (2009)](https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html)
 * [2025-09-05, 07:03:08](https://lobste.rs/s/gsmdft/radicle_1_4_0_lily) - [Radicle 1.4.0 – Lily](https://radicle.xyz/2025/09/04/radicle-1.4.0)
 * [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
-* [2025-09-05, 06:23:19](https://lobste.rs/s/babkll/xmake_v3_0_2_has_been_released_improve_c) - [Xmake v3.0.2 has been released, Improve C++ modules and new native thread support](https://github.com/xmake-io/xmake/releases/tag/v3.0.2)
 * [2025-09-05, 05:57:10](https://lobste.rs/s/rfbvqb/type_checking_is_symptom_not_solution) - [Type Checking is a Symptom, Not a Solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a)
 * [2025-09-05, 05:01:41](https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll) - [If I hear \"design pattern\" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/)
 * [2025-09-05, 03:50:14](https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust) - [Dealing with cancel safety in async Rust](https://rfd.shared.oxide.computer/rfd/400)
