@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-05, 05:11:10](https://lobste.rs/s/fdqbmt/your_mcp_doesn_t_need_30_tools_it_needs_code) - [Your MCP Doesn’t Need 30 Tools: It Needs Code](https://lucumr.pocoo.org/2025/8/18/code-mcps/)
 * [2025-09-05, 05:01:41](https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll) - [If I hear \"design pattern\" one more time, I'll go mad](https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/)
-* [2025-09-05, 05:00:45](https://lobste.rs/s/zru2uc/opt_strict_memory_safety_checking_swift_6) - [Opt-in Strict Memory Safety Checking in Swift 6.2](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0458-strict-memory-safety.md)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 02:40:12](https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language) - [Evolving the OCaml Programming Language (2025)](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 * [2025-09-04, 22:01:44](https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command) - [maak: The infinitely extensible command runner and automation project build system à la Make](https://codeberg.org/jjba23/maak)
