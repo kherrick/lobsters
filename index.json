@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-09-05, 09:05:42",
+      "https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 08:19:28",
       "https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping"
     ],
     [
       "NixOS is the endgame of distrohopping",
       "https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 08:00:34",
+      "https://lobste.rs/s/noazra/capitalization_initialisms_2009"
+    ],
+    [
+      "Capitalization of Initialisms (2009)",
+      "https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Type Checking is a Symptom, Not a Solution",
       "https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a"
+    ]
+  ],
+  [
+    [
+      "2025-09-05, 05:01:41",
+      "https://lobste.rs/s/atvx0k/if_i_hear_design_pattern_one_more_time_i_ll"
+    ],
+    [
+      "If I hear \"design pattern\" one more time, I'll go mad",
+      "https://purplesyringa.moe/blog/if-i-hear-design-pattern-one-more-time-ill-go-mad/"
     ]
   ],
   [
@@ -127,16 +157,6 @@
     [
       "Classic 8×8-pixel B&W Mac patterns",
       "https://www.pauladamsmith.com/blog/2025/09/classic-mac-patterns.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 19:15:30",
-      "https://lobste.rs/s/yvua2g/subverting_code_integrity_checks"
-    ],
-    [
-      "Subverting code integrity checks to locally backdoor Signal, 1Password, Slack, and more",
-      "https://blog.trailofbits.com/2025/09/03/subverting-code-integrity-checks-to-locally-backdoor-signal-1password-slack-and-more/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Where's the Shovelware? Why AI Coding Claims Don't Add Up",
       "https://substack.com/inbox/post/172538377"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 21:07:28",
-      "https://lobste.rs/s/pnu6ax/git_exclude_handy_feature_you_might_not"
-    ],
-    [
-      "Git exclude, a handy feature you might not know about",
-      "https://marijkeluttekes.dev/blog/articles/2025/09/03/git-exclude-a-handy-feature-you-might-not-know-about/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 19:26:07",
-      "https://lobste.rs/s/cpzttx/first_gleam_conference_gathering_2026"
-    ],
-    [
-      "The first Gleam Conference - Gathering 2026",
-      "https://gleamgathering.com/"
     ]
   ]
 ]
