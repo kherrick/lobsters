@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-05, 01:57:21](https://lobste.rs/s/az6oq3/wolves_repository_software_engineering) - [Wolves in the Repository: A Software Engineering Analysis of the XZ Utils Supply Chain Attack](https://arxiv.org/pdf/2504.17473)
+* [2025-09-05, 02:40:12](https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language) - [Evolving the OCaml Programming Language (2025)](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
 * [2025-09-04, 22:01:44](https://lobste.rs/s/kzxxky/maak_infinitely_extensible_command) - [maak: The infinitely extensible command runner and automation project build system à la Make](https://codeberg.org/jjba23/maak)
 * [2025-09-04, 21:46:00](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms) - [Let's rename the \"vibecoding\" tag to \"llms\"](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms)
 * [2025-09-04, 20:16:20](https://lobste.rs/s/kqm5ks/glamorous_toolkit_moldable_development) - [Glamorous Toolkit: The Moldable Development Environment](https://github.com/feenkcom/gtoolkit)
