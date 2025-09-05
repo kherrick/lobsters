@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-05, 07:03:08](https://lobste.rs/s/gsmdft/radicle_1_4_0_lily) - [Radicle 1.4.0 – Lily](https://radicle.xyz/2025/09/04/radicle-1.4.0)
 * [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 06:23:19](https://lobste.rs/s/babkll/xmake_v3_0_2_has_been_released_improve_c) - [Xmake v3.0.2 has been released, Improve C++ modules and new native thread support](https://github.com/xmake-io/xmake/releases/tag/v3.0.2)
-* [2025-09-05, 05:57:10](https://lobste.rs/s/rfbvqb/type_checking_is_symptom_not_solution) - [Type Checking is a Symptom, Not a Solution](https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a)
 * [2025-09-05, 03:50:14](https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust) - [Dealing with cancel safety in async Rust](https://rfd.shared.oxide.computer/rfd/400)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-05, 02:40:12](https://lobste.rs/s/qdsiyi/evolving_ocaml_programming_language) - [Evolving the OCaml Programming Language (2025)](https://kcsrk.info/slides/Evolution_Ashoka_2025.pdf)
