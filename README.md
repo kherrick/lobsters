@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-05, 17:54:40](https://lobste.rs/s/nxfq2a/embeddinggemma_best_class_open_model_for) - [EmbeddingGemma: Best-in-Class Open Model for On-Device Embeddings](https://developers.googleblog.com/en/introducing-embeddinggemma/)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+* [2025-09-05, 16:37:55](https://lobste.rs/s/ks2nbj/icfp_contest_2025) - [ICFP contest 2025](https://icfpcontest2025.github.io/)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:42:44](https://lobste.rs/s/m6vk7v/stelvio_aws_for_python_devs_made_simple) - [stelvio: AWS for Python devs - made simple](https://github.com/michal-stlv/stelvio)
