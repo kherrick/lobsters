@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-09-05, 05:57:10",
+      "https://lobste.rs/s/rfbvqb/type_checking_is_symptom_not_solution"
+    ],
+    [
+      "Type Checking is a Symptom, Not a Solution",
+      "https://programmingsimplicity.substack.com/p/type-checking-is-a-symptom-not-a"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 03:50:14",
       "https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "The first Gleam Conference - Gathering 2026",
       "https://gleamgathering.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-03, 14:59:02",
-      "https://lobste.rs/s/jeg5l9/why_rewriting_emacs_is_hard"
-    ],
-    [
-      "Why Rewriting Emacs Is Hard",
-      "https://kyo.iroiro.party/en/posts/why-rewriting-emacs-is-hard/"
     ]
   ]
 ]
