@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-06, 17:53:26",
+      "https://lobste.rs/s/c1zuvh/local_first_access_control"
+    ],
+    [
+      "Local-first access control",
+      "https://www.inkandswitch.com/keyhive/notebook/"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 16:26:23",
       "https://lobste.rs/s/khzzgy/choose_your_own_adventure"
     ],
@@ -127,16 +137,6 @@
     [
       "Bringing restartable sequences out of the niche",
       "https://lwn.net/Articles/1033955/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 19:48:01",
-      "https://lobste.rs/s/owbdo6/x_design_notes_unifying_ocaml_modules"
-    ],
-    [
-      "X Design Notes: Unifying OCaml Modules and Values",
-      "https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html"
     ]
   ],
   [
