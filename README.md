@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-06, 16:26:23](https://lobste.rs/s/khzzgy/choose_your_own_adventure) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:29:00](https://lobste.rs/s/tfpl4l/odin_does_have_undefined_behavior) - [Odin does have undefined behavior](https://www.youtube.com/watch?v=k8iCkbbBHyg)
 * [2025-09-06, 13:59:51](https://lobste.rs/s/my1p2k/formality_on_demand) - [Formality on demand](https://www.inkandswitch.com/ink/notes/formality-on-demand/)
@@ -21,7 +22,6 @@
 * [2025-09-05, 08:19:28](https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping) - [NixOS is the endgame of distrohopping](https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/)
 * [2025-09-05, 08:00:34](https://lobste.rs/s/noazra/capitalization_initialisms_2009) - [Capitalization of Initialisms (2009)](https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html)
 * [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
-* [2025-09-05, 03:50:14](https://lobste.rs/s/d9jbh9/dealing_with_cancel_safety_async_rust) - [Dealing with cancel safety in async Rust](https://rfd.shared.oxide.computer/rfd/400)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-04, 21:46:00](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms) - [Let's rename the \"vibecoding\" tag to \"llms\"](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-06](index.md)
 
+* [2025-09-06, 16:26:23](https://lobste.rs/s/khzzgy/choose_your_own_adventure) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:29:00](https://lobste.rs/s/tfpl4l/odin_does_have_undefined_behavior) - [Odin does have undefined behavior](https://www.youtube.com/watch?v=k8iCkbbBHyg)
 * [2025-09-06, 13:59:51](https://lobste.rs/s/my1p2k/formality_on_demand) - [Formality on demand](https://www.inkandswitch.com/ink/notes/formality-on-demand/)
