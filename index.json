@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-06, 20:33:06",
+      "https://lobste.rs/s/sp4unw/don_t_write_bugs"
+    ],
+    [
+      "Don't write bugs",
+      "https://www.teamten.com/lawrence/programming/dont-write-bugs.html"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 18:27:15",
       "https://lobste.rs/s/rpvnxu/debugging_dropped_async_task"
     ],
@@ -137,16 +147,6 @@
     [
       "Developing a Space Flight Simulator in Clojure",
       "https://www.wedesoft.de/software/2025/09/05/clojure-game/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 21:05:40",
-      "https://lobste.rs/s/elgdzk/bringing_restartable_sequences_out"
-    ],
-    [
-      "Bringing restartable sequences out of the niche",
-      "https://lwn.net/Articles/1033955/"
     ]
   ],
   [
