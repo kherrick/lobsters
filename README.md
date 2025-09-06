@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
 * [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
 * [2025-09-06, 01:37:54](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
@@ -23,7 +24,6 @@
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-04, 21:46:00](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms) - [Let's rename the \"vibecoding\" tag to \"llms\"](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms)
 * [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
-* [2025-09-04, 14:58:58](https://lobste.rs/s/vdankx/look_out_for_bugs) - [Look Out For Bugs](https://matklad.github.io/2025/09/04/look-for-bugs.html)
 * [2025-09-04, 09:21:38](https://lobste.rs/s/ksxhza/jujutsu_v0_33_0_released) - [jujutsu v0.33.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.33.0)
 
 ## [Archives](archives/index.md)
