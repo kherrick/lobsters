@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-09-05, 19:48:01",
+      "https://lobste.rs/s/owbdo6/x_design_notes_unifying_ocaml_modules"
+    ],
+    [
+      "X Design Notes: Unifying OCaml Modules and Values",
+      "https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html"
+    ]
+  ],
+  [
+    [
       "2025-09-05, 16:44:43",
       "https://lobste.rs/s/felr3h/ray_tracing_one_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "Let's rename the \"vibecoding\" tag to \"llms\"",
       "https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms"
-    ]
-  ],
-  [
-    [
-      "2025-09-04, 18:29:48",
-      "https://lobste.rs/s/b6ipnz/you_don_t_need_animations"
-    ],
-    [
-      "You Don't Need Animations",
-      "https://emilkowal.ski/ui/you-dont-need-animations"
     ]
   ]
 ]
