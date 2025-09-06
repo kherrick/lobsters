@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-06, 14:35:48",
+      "https://lobste.rs/s/9jwjca/oldest_recorded_transaction"
+    ],
+    [
+      "Oldest recorded transaction",
+      "https://avi.im/blag/2025/oldest-txn/"
+    ]
+  ],
+  [
+    [
+      "2025-09-06, 14:29:00",
+      "https://lobste.rs/s/tfpl4l/odin_does_have_undefined_behavior"
+    ],
+    [
+      "Odin does have undefined behavior",
+      "https://www.youtube.com/watch?v=k8iCkbbBHyg"
+    ]
+  ],
+  [
+    [
       "2025-09-06, 13:59:51",
       "https://lobste.rs/s/my1p2k/formality_on_demand"
     ],
@@ -81,32 +101,12 @@
   ],
   [
     [
-      "2025-09-05, 23:07:19",
-      "https://lobste.rs/s/wqsxrn/natural_transformations_as_basis"
-    ],
-    [
-      "Natural transformations as a basis of control",
-      "https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control"
-    ]
-  ],
-  [
-    [
       "2025-09-05, 21:05:40",
       "https://lobste.rs/s/elgdzk/bringing_restartable_sequences_out"
     ],
     [
       "Bringing restartable sequences out of the niche",
       "https://lwn.net/Articles/1033955/"
-    ]
-  ],
-  [
-    [
-      "2025-09-05, 19:48:01",
-      "https://lobste.rs/s/owbdo6/x_design_notes_unifying_ocaml_modules"
-    ],
-    [
-      "X Design Notes: Unifying OCaml Modules and Values",
-      "https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html"
     ]
   ],
   [
