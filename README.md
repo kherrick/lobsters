@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
+* [2025-09-06, 14:29:00](https://lobste.rs/s/tfpl4l/odin_does_have_undefined_behavior) - [Odin does have undefined behavior](https://www.youtube.com/watch?v=k8iCkbbBHyg)
 * [2025-09-06, 13:59:51](https://lobste.rs/s/my1p2k/formality_on_demand) - [Formality on demand](https://www.inkandswitch.com/ink/notes/formality-on-demand/)
 * [2025-09-06, 13:32:18](https://lobste.rs/s/iajqdh/wayland_budgie_desktop_2023) - [Wayland. (Budgie Desktop, 2023)](https://buddiesofbudgie.org/blog/wayland)
 * [2025-09-06, 13:29:41](https://lobste.rs/s/o38gzs/996_there_is_cost_your_lifestyle) - [996 – There is cost to your lifestyle](https://lucumr.pocoo.org/2025/9/4/996/)
@@ -8,9 +10,7 @@
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
 * [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
 * [2025-09-06, 01:37:54](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-* [2025-09-05, 23:07:19](https://lobste.rs/s/wqsxrn/natural_transformations_as_basis) - [Natural transformations as a basis of control](https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control)
 * [2025-09-05, 21:05:40](https://lobste.rs/s/elgdzk/bringing_restartable_sequences_out) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
-* [2025-09-05, 19:48:01](https://lobste.rs/s/owbdo6/x_design_notes_unifying_ocaml_modules) - [X Design Notes: Unifying OCaml Modules and Values](https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-09-05, 16:37:55](https://lobste.rs/s/ks2nbj/icfp_contest_2025) - [ICFP contest 2025](https://icfpcontest2025.github.io/)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
