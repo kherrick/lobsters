@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 * [2025-09-06, 18:27:15](https://lobste.rs/s/rpvnxu/debugging_dropped_async_task) - [Debugging a dropped async Task](https://slugcat.systems/post/25-08-27-debugging-a-dropped-async-task/)
 * [2025-09-06, 18:19:51](https://lobste.rs/s/deaem7/stop_writing_cli_validation_parse_it) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
 * [2025-09-06, 17:53:26](https://lobste.rs/s/c1zuvh/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
@@ -14,7 +15,6 @@
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
 * [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
 * [2025-09-06, 01:37:54](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
-* [2025-09-05, 21:05:40](https://lobste.rs/s/elgdzk/bringing_restartable_sequences_out) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-09-05, 16:37:55](https://lobste.rs/s/ks2nbj/icfp_contest_2025) - [ICFP contest 2025](https://icfpcontest2025.github.io/)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
