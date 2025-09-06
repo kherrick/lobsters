@@ -13,6 +13,7 @@
 * [2025-09-06, 01:37:54](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-05, 23:07:19](https://lobste.rs/s/wqsxrn/natural_transformations_as_basis) - [Natural transformations as a basis of control](https://muratkasimov.art/Ya/Articles/Natural-transformation-as-a-basis-of-control)
 * [2025-09-05, 21:05:40](https://lobste.rs/s/elgdzk/bringing_restartable_sequences_out) - [Bringing restartable sequences out of the niche](https://lwn.net/Articles/1033955/)
+* [2025-09-05, 19:48:01](https://lobste.rs/s/owbdo6/x_design_notes_unifying_ocaml_modules) - [X Design Notes: Unifying OCaml Modules and Values](https://blog.polybdenum.com/2025/08/19/x-design-notes-unifying-ocaml-modules-and-values.html)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-09-05, 16:37:55](https://lobste.rs/s/ks2nbj/icfp_contest_2025) - [ICFP contest 2025](https://icfpcontest2025.github.io/)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
@@ -24,7 +25,6 @@
 * [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 * [2025-09-04, 21:46:00](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms) - [Let's rename the \"vibecoding\" tag to \"llms\"](https://lobste.rs/s/gkzmfy/let_s_rename_vibecoding_tag_llms)
-* [2025-09-04, 18:29:48](https://lobste.rs/s/b6ipnz/you_don_t_need_animations) - [You Don't Need Animations](https://emilkowal.ski/ui/you-dont-need-animations)
 
 ## [Archives](archives/index.md)
 
