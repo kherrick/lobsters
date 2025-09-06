@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-06, 13:59:51](https://lobste.rs/s/my1p2k/formality_on_demand) - [Formality on demand](https://www.inkandswitch.com/ink/notes/formality-on-demand/)
 * [2025-09-06, 13:32:18](https://lobste.rs/s/iajqdh/wayland_budgie_desktop_2023) - [Wayland. (Budgie Desktop, 2023)](https://buddiesofbudgie.org/blog/wayland)
 * [2025-09-06, 13:29:41](https://lobste.rs/s/o38gzs/996_there_is_cost_your_lifestyle) - [996 – There is cost to your lifestyle](https://lucumr.pocoo.org/2025/9/4/996/)
 * [2025-09-06, 13:02:47](https://lobste.rs/s/fsczxj/patterns_vs_patterns) - [Patterns vs. \"Patterns\"](https://perl.plover.com/classes/design/samples/slide012a.html)
@@ -16,7 +17,6 @@
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:54:16](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source) - [Basecamp Campfire is now open source](https://github.com/basecamp/once-campfire)
 * [2025-09-05, 13:42:44](https://lobste.rs/s/m6vk7v/stelvio_aws_for_python_devs_made_simple) - [stelvio: AWS for Python devs - made simple](https://github.com/michal-stlv/stelvio)
-* [2025-09-05, 09:05:42](https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ezmgyy/what_are_you_doing_this_weekend)
 * [2025-09-05, 08:19:28](https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping) - [NixOS is the endgame of distrohopping](https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/)
 * [2025-09-05, 08:00:34](https://lobste.rs/s/noazra/capitalization_initialisms_2009) - [Capitalization of Initialisms (2009)](https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html)
 * [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
