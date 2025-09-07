@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-07, 13:56:39](https://lobste.rs/s/y5iegk/algebraic_effects_practice_with_flix) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 13:50:46](https://lobste.rs/s/htogek/everything_is_u8) - [Everything is a []u8](https://www.openmymind.net/Everything-Is-A-u8-array/)
 * [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
 * [2025-09-07, 12:41:32](https://lobste.rs/s/odeql3/do_you_have_personal_wiki) - [Do you have a personal wiki?](https://lobste.rs/s/odeql3/do_you_have_personal_wiki)
@@ -20,7 +21,6 @@
 * [2025-09-06, 16:26:23](https://lobste.rs/s/khzzgy/choose_your_own_adventure) - [Choose Your Own Adventure](https://www.filfre.net/2025/09/choose-your-own-adventure/)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 14:29:00](https://lobste.rs/s/tfpl4l/odin_does_have_undefined_behavior) - [Odin does have undefined behavior](https://www.youtube.com/watch?v=k8iCkbbBHyg)
-* [2025-09-06, 13:59:51](https://lobste.rs/s/my1p2k/formality_on_demand) - [Formality on demand](https://www.inkandswitch.com/ink/notes/formality-on-demand/)
 * [2025-09-06, 13:29:41](https://lobste.rs/s/o38gzs/996_there_is_cost_your_lifestyle) - [996 – There is cost to your lifestyle](https://lucumr.pocoo.org/2025/9/4/996/)
 * [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
