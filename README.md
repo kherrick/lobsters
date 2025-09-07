@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-07, 05:14:44](https://lobste.rs/s/i4bo8y/resources_laziness_continuation) - [Resources, Laziness, and Continuation-Passing Style](https://journal.infinitenegativeutility.com/resources-laziness-and-continuation-passing-style)
 * [2025-09-07, 01:37:55](https://lobste.rs/s/ms327e/emulating_rust_s_result_jai_with) - [Emulating Rust's Result and ? in Jai with Metaprogramming](https://jamesoswald.dev/posts/jai-result/)
 * [2025-09-07, 01:14:47](https://lobste.rs/s/hu3jkb/secret_web) - [A Secret Web](https://blog.clew.se/posts/secret-web/)
 * [2025-09-07, 00:50:58](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities) - [How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities)
@@ -24,7 +25,6 @@
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:54:16](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source) - [Basecamp Campfire is now open source](https://github.com/basecamp/once-campfire)
 * [2025-09-05, 08:19:28](https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping) - [NixOS is the endgame of distrohopping](https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/)
-* [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 
 ## [Archives](archives/index.md)
 
