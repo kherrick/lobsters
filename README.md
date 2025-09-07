@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-07, 00:50:58](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities) - [How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities)
+* [2025-09-07, 00:07:05](https://lobste.rs/s/rxmc73/copilot_productivity_paradox) - [The CoPilot productivity paradox](https://www.marginalia.nu/log/a_125_ai_assistants/)
 * [2025-09-06, 22:49:49](https://lobste.rs/s/6jbyug/c_26_erroneous_behaviour) - [C++26: erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 * [2025-09-06, 18:27:15](https://lobste.rs/s/rpvnxu/debugging_dropped_async_task) - [Debugging a dropped async Task](https://slugcat.systems/post/25-08-27-debugging-a-dropped-async-task/)
@@ -20,9 +22,7 @@
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:54:16](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source) - [Basecamp Campfire is now open source](https://github.com/basecamp/once-campfire)
-* [2025-09-05, 13:42:44](https://lobste.rs/s/m6vk7v/stelvio_aws_for_python_devs_made_simple) - [stelvio: AWS for Python devs - made simple](https://github.com/michal-stlv/stelvio)
 * [2025-09-05, 08:19:28](https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping) - [NixOS is the endgame of distrohopping](https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/)
-* [2025-09-05, 08:00:34](https://lobste.rs/s/noazra/capitalization_initialisms_2009) - [Capitalization of Initialisms (2009)](https://www.teamten.com/lawrence/writings/capitalization_of_initialisms.html)
 * [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 
