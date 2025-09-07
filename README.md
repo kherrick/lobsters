@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-07, 11:20:33](https://lobste.rs/s/vnkmbc/hitting_peak_file_io_performance_with_zig) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
 * [2025-09-07, 09:15:46](https://lobste.rs/s/77mwn6/difdef_utility_do_n_way_diff_n_way_merge_for) - [difdef: Utility to do an N-way diff and N-way merge, for N>2](https://github.com/Quuxplusone/difdef)
 * [2025-09-07, 06:51:47](https://lobste.rs/s/mwhbyo/bye_intel_hi_amd_i_m_done_after_2_dead_intels) - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 05:49:18](https://lobste.rs/s/vmardk/longhorn_kubernetes_native_filesystem) - [Longhorn – a Kubernetes-native filesystem](https://vegard.blog.engen.priv.no/?p=518)
@@ -24,7 +25,6 @@
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
 * [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
-* [2025-09-05, 08:19:28](https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping) - [NixOS is the endgame of distrohopping](https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/)
 
 ## [Archives](archives/index.md)
 
