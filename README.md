@@ -3,7 +3,7 @@
 * [2025-09-07, 14:20:41](https://lobste.rs/s/maxwh1/engineering_excellence_starts_on_edge) - [Engineering excellence starts on edge](https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59)
 * [2025-09-07, 13:56:39](https://lobste.rs/s/y5iegk/algebraic_effects_practice_with_flix) - [Algebraic Effects in Practice with Flix](https://www.relax.software/blog/flix-effects-intro/)
 * [2025-09-07, 13:50:46](https://lobste.rs/s/htogek/everything_is_u8) - [Everything is a []u8](https://www.openmymind.net/Everything-Is-A-u8-array/)
-* [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions) - [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
+* [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions_2016) - [The Expression Problem and its solutions (2016)](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
 * [2025-09-07, 12:41:32](https://lobste.rs/s/odeql3/do_you_have_personal_wiki) - [Do you have a personal wiki?](https://lobste.rs/s/odeql3/do_you_have_personal_wiki)
 * [2025-09-07, 12:12:01](https://lobste.rs/s/chvsdq/semantic_line_breaks) - [Semantic Line Breaks](https://sembr.org)
 * [2025-09-07, 11:20:33](https://lobste.rs/s/vnkmbc/hitting_peak_file_io_performance_with_zig) - [Hitting Peak File IO Performance with Zig](https://steelcake.com/blog/nvme-zig/)
