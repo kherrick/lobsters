@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 22:21:38](https://lobste.rs/s/hboytm/beyond_markdown_2018) - [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)
 * [2025-09-07, 21:32:45](https://lobste.rs/s/6mhq6t/ever_shared_spotify_link_on_internet) - [Ever shared a Spotify link on the internet? Someone you don't know can now message you](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
 * [2025-09-07, 21:29:39](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for) - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com)
 * [2025-09-07, 20:11:28](https://lobste.rs/s/twnxj9/hilbert_space_treating_functions_as) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)

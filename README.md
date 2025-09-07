@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-07, 22:21:38](https://lobste.rs/s/hboytm/beyond_markdown_2018) - [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)
 * [2025-09-07, 21:32:45](https://lobste.rs/s/6mhq6t/ever_shared_spotify_link_on_internet) - [Ever shared a Spotify link on the internet? Someone you don't know can now message you](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
 * [2025-09-07, 21:29:39](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for) - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com)
 * [2025-09-07, 20:11:28](https://lobste.rs/s/twnxj9/hilbert_space_treating_functions_as) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
@@ -24,7 +25,6 @@
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
-* [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
 
 ## [Archives](archives/index.md)
 
