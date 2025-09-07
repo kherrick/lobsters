@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-07](index.md)
 
+* [2025-09-07, 21:32:45](https://lobste.rs/s/6mhq6t/ever_shared_spotify_link_on_internet) - [Ever shared a Spotify link on the internet? Someone you don't know can now message you](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
+* [2025-09-07, 21:29:39](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for) - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com)
 * [2025-09-07, 20:11:28](https://lobste.rs/s/twnxj9/hilbert_space_treating_functions_as) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
 * [2025-09-07, 17:41:39](https://lobste.rs/s/rxkpdl/nix_sc_member_tomberek_works_for_anduril) - [Nix SC member @tomberek works for Anduril](https://discourse.nixos.org/t/sc-member-tomberek-works-for-anduril/68971)
 * [2025-09-07, 14:20:41](https://lobste.rs/s/maxwh1/engineering_excellence_starts_on_edge) - [Engineering excellence starts on edge](https://world.hey.com/dhh/engineering-excellence-starts-on-edge-c36e4c59)
