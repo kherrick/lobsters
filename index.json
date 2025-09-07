@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-07, 12:41:32",
+      "https://lobste.rs/s/odeql3/do_you_have_personal_wiki"
+    ],
+    [
+      "Do you have a personal wiki?",
+      "https://lobste.rs/s/odeql3/do_you_have_personal_wiki"
+    ]
+  ],
+  [
+    [
+      "2025-09-07, 12:12:01",
+      "https://lobste.rs/s/chvsdq/semantic_line_breaks"
+    ],
+    [
+      "Semantic Line Breaks",
+      "https://sembr.org"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 11:20:33",
       "https://lobste.rs/s/vnkmbc/hitting_peak_file_io_performance_with_zig"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-09-06, 18:27:15",
-      "https://lobste.rs/s/rpvnxu/debugging_dropped_async_task"
-    ],
-    [
-      "Debugging a dropped async Task",
-      "https://slugcat.systems/post/25-08-27-debugging-a-dropped-async-task/"
-    ]
-  ],
-  [
-    [
       "2025-09-06, 18:19:51",
       "https://lobste.rs/s/deaem7/stop_writing_cli_validation_parse_it"
     ],
@@ -197,16 +207,6 @@
     [
       "996 – There is cost to your lifestyle",
       "https://lucumr.pocoo.org/2025/9/4/996/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 13:02:47",
-      "https://lobste.rs/s/fsczxj/patterns_vs_patterns"
-    ],
-    [
-      "Patterns vs. \"Patterns\"",
-      "https://perl.plover.com/classes/design/samples/slide012a.html"
     ]
   ],
   [
