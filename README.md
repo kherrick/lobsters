@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-07, 01:37:55](https://lobste.rs/s/ms327e/emulating_rust_s_result_jai_with) - [Emulating Rust's Result and ? in Jai with Metaprogramming](https://jamesoswald.dev/posts/jai-result/)
+* [2025-09-07, 01:14:47](https://lobste.rs/s/hu3jkb/secret_web) - [A Secret Web](https://blog.clew.se/posts/secret-web/)
 * [2025-09-07, 00:50:58](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities) - [How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities)
 * [2025-09-07, 00:07:05](https://lobste.rs/s/rxmc73/copilot_productivity_paradox) - [The CoPilot productivity paradox](https://www.marginalia.nu/log/a_125_ai_assistants/)
 * [2025-09-06, 22:49:49](https://lobste.rs/s/6jbyug/c_26_erroneous_behaviour) - [C++26: erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
@@ -17,13 +19,11 @@
 * [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 * [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
 * [2025-09-06, 04:08:52](https://lobste.rs/s/m5f6ww/leptos) - [Leptos](https://leptos.dev/)
-* [2025-09-06, 01:37:54](https://lobste.rs/s/sxamda/developing_space_flight_simulator) - [Developing a Space Flight Simulator in Clojure](https://www.wedesoft.de/software/2025/09/05/clojure-game/)
 * [2025-09-05, 16:44:43](https://lobste.rs/s/felr3h/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 * [2025-09-05, 14:57:44](https://lobste.rs/s/o0x7rb/your_mouse_free_setups) - [Your mouse-free setups](https://lobste.rs/s/o0x7rb/your_mouse_free_setups)
 * [2025-09-05, 14:15:31](https://lobste.rs/s/ciqk7x/use_singular_nouns_for_database_table) - [Use singular nouns for database table names](https://www.teamten.com/lawrence/programming/use-singular-nouns-for-database-table-names.html)
 * [2025-09-05, 13:54:16](https://lobste.rs/s/cwnytv/basecamp_campfire_is_now_open_source) - [Basecamp Campfire is now open source](https://github.com/basecamp/once-campfire)
 * [2025-09-05, 08:19:28](https://lobste.rs/s/d30ska/nixos_is_endgame_distrohopping) - [NixOS is the endgame of distrohopping](https://joshblais.com/blog/nixos-is-the-endgame-of-distrohopping/)
-* [2025-09-05, 06:42:05](https://lobste.rs/s/rylewy/sql_needed_structure) - [SQL needed structure](https://www.scattered-thoughts.net/writing/sql-needed-structure/)
 * [2025-09-05, 03:47:27](https://lobste.rs/s/q7b1gm/fil_s_unbelievable_garbage_collector) - [Fil's Unbelievable Garbage Collector](https://fil-c.org/fugc)
 
 ## [Archives](archives/index.md)
