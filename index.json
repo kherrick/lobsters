@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-08, 01:48:27",
+      "https://lobste.rs/s/vryfua/ready_prek_go"
+    ],
+    [
+      "Ready prek go",
+      "https://hugovk.dev/blog/2025/ready-prek-go/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 01:14:21",
+      "https://lobste.rs/s/oyw6ya/css_bed"
+    ],
+    [
+      "CSS Bed",
+      "https://www.cssbed.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 00:17:31",
+      "https://lobste.rs/s/zgnsn4/using_claude_code_modernize_25_year_old"
+    ],
+    [
+      "Using Claude Code to modernize a 25-year-old kernel driver",
+      "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
+    ]
+  ],
+  [
+    [
       "2025-09-07, 22:21:38",
       "https://lobste.rs/s/hboytm/beyond_markdown_2018"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2025-09-07, 01:37:55",
-      "https://lobste.rs/s/ms327e/emulating_rust_s_result_jai_with"
-    ],
-    [
-      "Emulating Rust's Result and ? in Jai with Metaprogramming",
-      "https://jamesoswald.dev/posts/jai-result/"
-    ]
-  ],
-  [
-    [
       "2025-09-07, 01:14:47",
       "https://lobste.rs/s/hu3jkb/secret_web"
     ],
     [
       "A Secret Web",
       "https://blog.clew.se/posts/secret-web/"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 00:50:58",
-      "https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities"
-    ],
-    [
-      "How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?",
-      "https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The day Return became Enter",
       "https://aresluna.org/the-day-return-became-enter/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 10:55:33",
-      "https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is"
-    ],
-    [
-      "Unexplanations: relational algebra is math (2024)",
-      "https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/"
     ]
   ]
 ]
