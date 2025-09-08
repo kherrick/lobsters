@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 18:00:59](https://lobste.rs/s/ygvmor/color_npm_package_compromised) - [color npm package compromised](https://fasterthanli.me/articles/color-npm-package-compromised)
 * [2025-09-08, 16:56:26](https://lobste.rs/s/w9nx3l/introducing_signal_secure_backups) - [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:55:13](https://lobste.rs/s/yw0ehz/tiny_llm_llm_serving_week) - [Tiny LLM - LLM Serving in a Week](https://skyzh.github.io/tiny-llm/)
 * [2025-09-08, 16:44:00](https://lobste.rs/s/wi1rqy/unix_co_creator_brian_kernighan_on_rust) - [Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS](https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/)

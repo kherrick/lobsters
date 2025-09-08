@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-08, 18:00:59](https://lobste.rs/s/ygvmor/color_npm_package_compromised) - [color npm package compromised](https://fasterthanli.me/articles/color-npm-package-compromised)
 * [2025-09-08, 16:56:26](https://lobste.rs/s/w9nx3l/introducing_signal_secure_backups) - [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:55:13](https://lobste.rs/s/yw0ehz/tiny_llm_llm_serving_week) - [Tiny LLM - LLM Serving in a Week](https://skyzh.github.io/tiny-llm/)
 * [2025-09-08, 16:44:00](https://lobste.rs/s/wi1rqy/unix_co_creator_brian_kernighan_on_rust) - [Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS](https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/)
@@ -22,7 +23,6 @@
 * [2025-09-07, 21:29:39](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for) - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com)
 * [2025-09-07, 20:11:28](https://lobste.rs/s/twnxj9/hilbert_space_treating_functions_as) - [Hilbert space: treating functions as vectors](https://eli.thegreenplace.net/2025/hilbert-space-treating-functions-as-vectors/)
 * [2025-09-07, 13:50:46](https://lobste.rs/s/htogek/everything_is_u8) - [Everything is a []u8](https://www.openmymind.net/Everything-Is-A-u8-array/)
-* [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions_2016) - [The Expression Problem and its solutions (2016)](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
 * [2025-09-07, 12:41:32](https://lobste.rs/s/odeql3/do_you_have_personal_wiki) - [Do you have a personal wiki?](https://lobste.rs/s/odeql3/do_you_have_personal_wiki)
 * [2025-09-07, 06:51:47](https://lobste.rs/s/mwhbyo/bye_intel_hi_amd_i_m_done_after_2_dead_intels) - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 
