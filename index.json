@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-08, 04:01:03",
+      "https://lobste.rs/s/eipoef/adventures_porting_wayland_compositor"
+    ],
+    [
+      "Adventures in porting a Wayland Compositor to NetBSD and OpenBSD",
+      "https://youtu.be/oo_8gnWQ4xo"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 01:48:27",
       "https://lobste.rs/s/vryfua/ready_prek_go"
     ],
@@ -217,16 +227,6 @@
     [
       "Stop writing CLI validation. Parse it right the first time",
       "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 17:53:26",
-      "https://lobste.rs/s/c1zuvh/local_first_access_control"
-    ],
-    [
-      "Local-first access control",
-      "https://www.inkandswitch.com/keyhive/notebook/"
     ]
   ],
   [
