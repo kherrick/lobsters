@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-08, 04:01:03](https://lobste.rs/s/eipoef/adventures_porting_wayland_compositor) - [Adventures in porting a Wayland Compositor to NetBSD and OpenBSD](https://youtu.be/oo_8gnWQ4xo)
 * [2025-09-08, 01:48:27](https://lobste.rs/s/vryfua/ready_prek_go) - [Ready prek go](https://hugovk.dev/blog/2025/ready-prek-go/)
 * [2025-09-08, 01:14:21](https://lobste.rs/s/oyw6ya/css_bed) - [CSS Bed](https://www.cssbed.com/)
 * [2025-09-08, 00:17:31](https://lobste.rs/s/zgnsn4/using_claude_code_modernize_25_year_old) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
@@ -22,7 +23,6 @@
 * [2025-09-06, 22:49:49](https://lobste.rs/s/6jbyug/c_26_erroneous_behaviour) - [C++26: erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 * [2025-09-06, 18:19:51](https://lobste.rs/s/deaem7/stop_writing_cli_validation_parse_it) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
-* [2025-09-06, 17:53:26](https://lobste.rs/s/c1zuvh/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
 
