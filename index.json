@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-08, 16:44:00",
+      "https://lobste.rs/s/wi1rqy/unix_co_creator_brian_kernighan_on_rust"
+    ],
+    [
+      "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
+      "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 16:22:14",
       "https://lobste.rs/s/vajzqz/anatomy_billion_download_npm_supply"
     ],
@@ -237,16 +247,6 @@
     [
       "A Secret Web",
       "https://blog.clew.se/posts/secret-web/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 18:19:51",
-      "https://lobste.rs/s/deaem7/stop_writing_cli_validation_parse_it"
-    ],
-    [
-      "Stop writing CLI validation. Parse it right the first time",
-      "https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time"
     ]
   ]
 ]
