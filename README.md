@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-08, 01:48:27](https://lobste.rs/s/vryfua/ready_prek_go) - [Ready prek go](https://hugovk.dev/blog/2025/ready-prek-go/)
+* [2025-09-08, 01:14:21](https://lobste.rs/s/oyw6ya/css_bed) - [CSS Bed](https://www.cssbed.com/)
+* [2025-09-08, 00:17:31](https://lobste.rs/s/zgnsn4/using_claude_code_modernize_25_year_old) - [Using Claude Code to modernize a 25-year-old kernel driver](https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver)
 * [2025-09-07, 22:21:38](https://lobste.rs/s/hboytm/beyond_markdown_2018) - [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)
 * [2025-09-07, 21:32:45](https://lobste.rs/s/6mhq6t/ever_shared_spotify_link_on_internet) - [Ever shared a Spotify link on the internet? Someone you don't know can now message you](https://www.androidauthority.com/psa-spotify-messages-tracker-urls-3593498/)
 * [2025-09-07, 21:29:39](https://lobste.rs/s/a3hcsy/pico_css_minimal_css_framework_for) - [Pico CSS • Minimal CSS Framework for semantic HTML](https://picocss.com)
@@ -14,9 +17,7 @@
 * [2025-09-07, 09:15:46](https://lobste.rs/s/77mwn6/difdef_utility_do_n_way_diff_n_way_merge_for) - [difdef: Utility to do an N-way diff and N-way merge, for N>2](https://github.com/Quuxplusone/difdef)
 * [2025-09-07, 06:51:47](https://lobste.rs/s/mwhbyo/bye_intel_hi_amd_i_m_done_after_2_dead_intels) - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 05:49:18](https://lobste.rs/s/vmardk/longhorn_kubernetes_native_filesystem) - [Longhorn – a Kubernetes-native filesystem](https://vegard.blog.engen.priv.no/?p=518)
-* [2025-09-07, 01:37:55](https://lobste.rs/s/ms327e/emulating_rust_s_result_jai_with) - [Emulating Rust's Result and ? in Jai with Metaprogramming](https://jamesoswald.dev/posts/jai-result/)
 * [2025-09-07, 01:14:47](https://lobste.rs/s/hu3jkb/secret_web) - [A Secret Web](https://blog.clew.se/posts/secret-web/)
-* [2025-09-07, 00:50:58](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities) - [How can I help? Volunteer opportunities: Lobste.rs, OSS, programming, Internet related, other?](https://lobste.rs/s/dnsdwz/how_can_i_help_volunteer_opportunities)
 * [2025-09-07, 00:07:05](https://lobste.rs/s/rxmc73/copilot_productivity_paradox) - [The CoPilot productivity paradox](https://www.marginalia.nu/log/a_125_ai_assistants/)
 * [2025-09-06, 22:49:49](https://lobste.rs/s/6jbyug/c_26_erroneous_behaviour) - [C++26: erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
@@ -24,7 +25,6 @@
 * [2025-09-06, 17:53:26](https://lobste.rs/s/c1zuvh/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/keyhive/notebook/)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
 * [2025-09-06, 12:40:48](https://lobste.rs/s/zml5qc/day_return_became_enter) - [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/)
-* [2025-09-06, 10:55:33](https://lobste.rs/s/t8fc8a/unexplanations_relational_algebra_is) - [Unexplanations: relational algebra is math (2024)](https://www.scattered-thoughts.net/writing/unexplanations-relational-algebra-is-math/)
 
 ## [Archives](archives/index.md)
 
