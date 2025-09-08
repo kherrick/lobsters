@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-08, 05:27:05",
+      "https://lobste.rs/s/eo4uo7/how_i_solved_distributed_queue_problem"
+    ],
+    [
+      "How I solved a distributed queue problem after 15 years | DBOS",
+      "https://www.dbos.dev/blog/durable-queues"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 04:01:03",
       "https://lobste.rs/s/eipoef/adventures_porting_wayland_compositor"
     ],
@@ -237,16 +247,6 @@
     [
       "Oldest recorded transaction",
       "https://avi.im/blag/2025/oldest-txn/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 12:40:48",
-      "https://lobste.rs/s/zml5qc/day_return_became_enter"
-    ],
-    [
-      "The day Return became Enter",
-      "https://aresluna.org/the-day-return-became-enter/"
     ]
   ]
 ]
