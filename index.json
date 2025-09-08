@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-08, 10:39:53",
+      "https://lobste.rs/s/pokmo0/strong_eventual_consistency_big_idea"
+    ],
+    [
+      "Strong Eventual Consistency - The Big Idea behind CRDTs",
+      "https://lewiscampbell.tech/blog/250908.html"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 09:36:50",
       "https://lobste.rs/s/z3iuxt/what_are_you_doing_this_week"
     ],
@@ -217,16 +227,6 @@
     [
       "A Secret Web",
       "https://blog.clew.se/posts/secret-web/"
-    ]
-  ],
-  [
-    [
-      "2025-09-06, 20:33:06",
-      "https://lobste.rs/s/sp4unw/don_t_write_bugs"
-    ],
-    [
-      "Don't write bugs",
-      "https://www.teamten.com/lawrence/programming/dont-write-bugs.html"
     ]
   ],
   [
