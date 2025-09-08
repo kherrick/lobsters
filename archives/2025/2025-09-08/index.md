@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-08](index.md)
 
+* [2025-09-08, 10:39:53](https://lobste.rs/s/pokmo0/strong_eventual_consistency_big_idea) - [Strong Eventual Consistency - The Big Idea behind CRDTs](https://lewiscampbell.tech/blog/250908.html)
 * [2025-09-08, 09:36:50](https://lobste.rs/s/z3iuxt/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/z3iuxt/what_are_you_doing_this_week)
 * [2025-09-08, 08:39:36](https://lobste.rs/s/itj50a/make_invalid_states_unrepresentable) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
 * [2025-09-08, 08:25:21](https://lobste.rs/s/zctogg/vibe_coded_build_system_nx_gets_hacked) - [Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto](https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/)
