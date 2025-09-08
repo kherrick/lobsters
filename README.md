@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-08, 08:39:36](https://lobste.rs/s/itj50a/make_invalid_states_unrepresentable) - ['Make invalid states unrepresentable' considered harmful](https://www.seangoedecke.com/invalid-states/)
 * [2025-09-08, 08:25:21](https://lobste.rs/s/zctogg/vibe_coded_build_system_nx_gets_hacked) - [Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto](https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/)
 * [2025-09-08, 08:13:37](https://lobste.rs/s/7npfkd/geometric_deep_learning_grids_groups) - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (2021)](https://arxiv.org/abs/2104.13478)
 * [2025-09-08, 08:01:17](https://lobste.rs/s/4cnnuw/hashed_sorting_is_typically_faster_than) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
@@ -19,7 +20,6 @@
 * [2025-09-07, 13:24:14](https://lobste.rs/s/6j4xmw/expression_problem_its_solutions_2016) - [The Expression Problem and its solutions (2016)](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions)
 * [2025-09-07, 12:41:32](https://lobste.rs/s/odeql3/do_you_have_personal_wiki) - [Do you have a personal wiki?](https://lobste.rs/s/odeql3/do_you_have_personal_wiki)
 * [2025-09-07, 12:12:01](https://lobste.rs/s/chvsdq/semantic_line_breaks) - [Semantic Line Breaks](https://sembr.org)
-* [2025-09-07, 09:15:46](https://lobste.rs/s/77mwn6/difdef_utility_do_n_way_diff_n_way_merge_for) - [difdef: Utility to do an N-way diff and N-way merge, for N>2](https://github.com/Quuxplusone/difdef)
 * [2025-09-07, 06:51:47](https://lobste.rs/s/mwhbyo/bye_intel_hi_amd_i_m_done_after_2_dead_intels) - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 * [2025-09-07, 01:14:47](https://lobste.rs/s/hu3jkb/secret_web) - [A Secret Web](https://blog.clew.se/posts/secret-web/)
 * [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
