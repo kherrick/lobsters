@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-08, 07:18:20](https://lobste.rs/s/jwreod/deliberate_abstraction) - [Deliberate Abstraction](https://entropicthoughts.com/deliberate-abstraction)
 * [2025-09-08, 05:27:05](https://lobste.rs/s/eo4uo7/how_i_solved_distributed_queue_problem) - [How I solved a distributed queue problem after 15 years | DBOS](https://www.dbos.dev/blog/durable-queues)
 * [2025-09-08, 04:01:03](https://lobste.rs/s/eipoef/adventures_porting_wayland_compositor) - [Adventures in porting a Wayland Compositor to NetBSD and OpenBSD](https://youtu.be/oo_8gnWQ4xo)
 * [2025-09-08, 01:48:27](https://lobste.rs/s/vryfua/ready_prek_go) - [Ready prek go](https://hugovk.dev/blog/2025/ready-prek-go/)
@@ -21,7 +22,6 @@
 * [2025-09-07, 05:49:18](https://lobste.rs/s/vmardk/longhorn_kubernetes_native_filesystem) - [Longhorn – a Kubernetes-native filesystem](https://vegard.blog.engen.priv.no/?p=518)
 * [2025-09-07, 01:14:47](https://lobste.rs/s/hu3jkb/secret_web) - [A Secret Web](https://blog.clew.se/posts/secret-web/)
 * [2025-09-07, 00:07:05](https://lobste.rs/s/rxmc73/copilot_productivity_paradox) - [The CoPilot productivity paradox](https://www.marginalia.nu/log/a_125_ai_assistants/)
-* [2025-09-06, 22:49:49](https://lobste.rs/s/6jbyug/c_26_erroneous_behaviour) - [C++26: erroneous behaviour](https://www.sandordargo.com/blog/2025/02/05/cpp26-erroneous-behaviour)
 * [2025-09-06, 20:33:06](https://lobste.rs/s/sp4unw/don_t_write_bugs) - [Don't write bugs](https://www.teamten.com/lawrence/programming/dont-write-bugs.html)
 * [2025-09-06, 18:19:51](https://lobste.rs/s/deaem7/stop_writing_cli_validation_parse_it) - [Stop writing CLI validation. Parse it right the first time](https://hackers.pub/@hongminhee/2025/stop-writing-cli-validation-parse-it-right-the-first-time)
 * [2025-09-06, 14:35:48](https://lobste.rs/s/9jwjca/oldest_recorded_transaction) - [Oldest recorded transaction](https://avi.im/blag/2025/oldest-txn/)
