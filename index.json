@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-08, 22:19:38",
+      "https://lobste.rs/s/bxyrsn/keenwrite_3_6_3"
+    ],
+    [
+      "KeenWrite 3.6.3",
+      "https://keenwrite.com/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 22:18:48",
+      "https://lobste.rs/s/xowlqa/text_format_feature_matrix"
+    ],
+    [
+      "Text format feature matrix",
+      "https://keenwrite.com/blog/2025/09/08/feature-matrix/"
+    ]
+  ],
+  [
+    [
       "2025-09-08, 19:55:15",
       "https://lobste.rs/s/tiutfj/wikimedia_sunsets_separate_mobile"
     ],
@@ -37,16 +57,6 @@
     [
       "Introducing Signal Secure Backups",
       "https://signal.org/blog/introducing-secure-backups/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 16:55:13",
-      "https://lobste.rs/s/yw0ehz/tiny_llm_llm_serving_week"
-    ],
-    [
-      "Tiny LLM - LLM Serving in a Week",
-      "https://skyzh.github.io/tiny-llm/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Using Claude Code to modernize a 25-year-old kernel driver",
       "https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver"
-    ]
-  ],
-  [
-    [
-      "2025-09-07, 22:21:38",
-      "https://lobste.rs/s/hboytm/beyond_markdown_2018"
-    ],
-    [
-      "Beyond Markdown (2018)",
-      "https://johnmacfarlane.net/beyond-markdown.html"
     ]
   ],
   [
