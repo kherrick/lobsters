@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 17:42:09](https://lobste.rs/s/nut4i6/testing_compiler_optimizations_your) - [Testing the compiler optimizations your code relies on](https://pythonspeed.com/articles/testing-compiler-optimizations/)
 * [2025-09-09, 16:27:25](https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-09, 16:11:39](https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 15:37:56](https://lobste.rs/s/xcbjqt/rich_already_answered) - [Rich Already Answered That](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
 * [2025-09-09, 15:34:48](https://lobste.rs/s/qkborx/building_doom_like_multiplayer_shooter) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
 * [2025-09-09, 15:34:30](https://lobste.rs/s/n7i9vb/how_i_made_ruby_faster_than_ruby) - [How I Made Ruby Faster than Ruby](https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster)
+* [2025-09-09, 15:31:40](https://lobste.rs/s/mcngb7/analyzing_memory_ordering_models_apple) - [Analyzing the memory ordering models of the Apple M1 (2023)](https://www.sciencedirect.com/science/article/pii/S1383762124000390)
 * [2025-09-09, 15:16:35](https://lobste.rs/s/vclmlx/apple_event_for_september_9th_2025) - [Apple Event for September 9th, 2025](https://www.apple.com/apple-events/)
 * [2025-09-09, 15:04:54](https://lobste.rs/s/h7xdec/unauthorized_windows_386) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
 * [2025-09-09, 15:01:32](https://lobste.rs/s/dwbtca/sandboxing_applications_with) - [Sandboxing Applications with Bubblewrap: A Simple Script (2024)](https://sloonz.github.io/posts/sandboxing-3/)
