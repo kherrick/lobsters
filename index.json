@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-09, 15:34:48",
+      "https://lobste.rs/s/qkborx/building_doom_like_multiplayer_shooter"
+    ],
+    [
+      "Building a DOOM-like multiplayer shooter in pure SQL",
+      "https://cedardb.com/blog/doomql/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 15:34:30",
       "https://lobste.rs/s/n7i9vb/how_i_made_ruby_faster_than_ruby"
     ],
@@ -37,16 +47,6 @@
     [
       "Unauthorized Windows/386",
       "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 15:01:32",
-      "https://lobste.rs/s/dwbtca/sandboxing_applications_with"
-    ],
-    [
-      "Sandboxing Applications with Bubblewrap: A Simple Script (2024)",
-      "https://sloonz.github.io/posts/sandboxing-3/"
     ]
   ],
   [
