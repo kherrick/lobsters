@@ -2,12 +2,12 @@
 
 * [2025-09-09, 15:16:35](https://lobste.rs/s/vclmlx/apple_event_for_september_9th_2025) - [Apple Event for September 9th, 2025](https://www.apple.com/apple-events/)
 * [2025-09-09, 15:04:54](https://lobste.rs/s/h7xdec/unauthorized_windows_386) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
+* [2025-09-09, 15:01:32](https://lobste.rs/s/dwbtca/sandboxing_applications_with) - [Sandboxing Applications with Bubblewrap: A Simple Script (2024)](https://sloonz.github.io/posts/sandboxing-3/)
 * [2025-09-09, 13:54:56](https://lobste.rs/s/s19nri/writing_book_age_open_source) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 * [2025-09-09, 13:24:56](https://lobste.rs/s/aleuv7/how_build_python_code_with_bazel_why) - [How to Build Python Code with Bazel (and Why)](https://ohadravid.github.io/posts/2025-09-hello-bazel/)
 * [2025-09-09, 13:23:15](https://lobste.rs/s/mn6ce3/replacing_sgx_with_github_actions_how) - [Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle](https://www.ethanheilman.com/x/35/index.html)
 * [2025-09-09, 13:20:30](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal) - [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
 * [2025-09-09, 10:55:04](https://lobste.rs/s/fumoq5/batched_critical_sections) - [Batched Critical Sections](http://kprotty.me/2025/09/08/batched-critical-sections.html)
-* [2025-09-09, 09:54:51](https://lobste.rs/s/r6yt0r/what_i_learned_building_my_first_jenkins) - [What I Learned Building My First Jenkins Plugin](https://mergify.com/blog/what-i-learned-building-my-first-jenkins-plugin)
 * [2025-09-09, 06:19:44](https://lobste.rs/s/py9ag0/compiling_functional_language_llvm) - [Compiling a functional language to LLVM](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-09, 05:06:49](https://lobste.rs/s/unb7up/gsoc_2025_byte_type_supporting_raw_data) - [GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 03:08:00](https://lobste.rs/s/9oneuy/liquid_glass_browser_refraction_with_css) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
