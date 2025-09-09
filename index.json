@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 16:11:39",
+      "https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json"
+    ],
+    [
+      "A new experimental Go API for JSON",
+      "https://go.dev/blog/jsonv2-exp"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 15:37:56",
       "https://lobste.rs/s/xcbjqt/rich_already_answered"
     ],
@@ -47,6 +57,16 @@
     [
       "Unauthorized Windows/386",
       "https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 15:01:32",
+      "https://lobste.rs/s/dwbtca/sandboxing_applications_with"
+    ],
+    [
+      "Sandboxing Applications with Bubblewrap: A Simple Script (2024)",
+      "https://sloonz.github.io/posts/sandboxing-3/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-08, 22:18:48",
-      "https://lobste.rs/s/xowlqa/text_format_feature_matrix"
-    ],
-    [
-      "Text format feature matrix",
-      "https://keenwrite.com/blog/2025/09/08/feature-matrix/"
-    ]
-  ],
-  [
-    [
       "2025-09-08, 19:55:15",
       "https://lobste.rs/s/tiutfj/wikimedia_sunsets_separate_mobile"
     ],
@@ -227,16 +237,6 @@
     [
       "'Make invalid states unrepresentable' considered harmful",
       "https://www.seangoedecke.com/invalid-states/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 08:25:21",
-      "https://lobste.rs/s/zctogg/vibe_coded_build_system_nx_gets_hacked"
-    ],
-    [
-      "Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto",
-      "https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/"
     ]
   ],
   [
