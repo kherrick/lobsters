@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 10:55:04",
+      "https://lobste.rs/s/fumoq5/batched_critical_sections"
+    ],
+    [
+      "Batched Critical Sections",
+      "http://kprotty.me/2025/09/08/batched-critical-sections.html"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 09:54:51",
       "https://lobste.rs/s/r6yt0r/what_i_learned_building_my_first_jenkins"
     ],
@@ -237,16 +247,6 @@
     [
       "Hashed sorting is typically faster than hash tables",
       "https://reiner.org/hashed-sorting"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 07:18:20",
-      "https://lobste.rs/s/jwreod/deliberate_abstraction"
-    ],
-    [
-      "Deliberate Abstraction",
-      "https://entropicthoughts.com/deliberate-abstraction"
     ]
   ]
 ]
