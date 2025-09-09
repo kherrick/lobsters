@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-09-09, 07:30:57",
-      "https://lobste.rs/s/qlbdbs/can_collations_be_used_over_citext"
+      "2025-09-09, 08:16:31",
+      "https://lobste.rs/s/wxtopc/novel_technique_for_sql_injection_pdo_s"
     ],
     [
-      "Can Collations Be Used Over citext?",
-      "https://www.cybertec-postgresql.com/en/can-collations-be-used-over-citext/"
+      "A Novel Technique for SQL Injection in PDO’s Prepared Statements",
+      "https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 08:11:45",
+      "https://lobste.rs/s/j0jhwk/io_is_special"
+    ],
+    [
+      "IO is special",
+      "https://blog.ploeh.dk/2025/09/08/io-is-special/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Introducing Signal Secure Backups",
       "https://signal.org/blog/introducing-secure-backups/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 16:55:13",
-      "https://lobste.rs/s/yw0ehz/tiny_llm_llm_serving_week"
-    ],
-    [
-      "Tiny LLM - LLM Serving in a Week",
-      "https://skyzh.github.io/tiny-llm/"
     ]
   ],
   [
