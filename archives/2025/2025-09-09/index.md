@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 19:20:39](https://lobste.rs/s/816ygs/how_prove_false_statements_practical) - [How to Prove False Statements: Practical Attacks on Fiat-Shamir](https://eprint.iacr.org/2025/118.pdf)
 * [2025-09-09, 18:29:51](https://lobste.rs/s/wlyzqn/memory_integrity_enforcement_complete) - [Memory Integrity Enforcement: A complete vision for memory safety in Apple devices](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 17:42:09](https://lobste.rs/s/nut4i6/testing_compiler_optimizations_your) - [Testing the compiler optimizations your code relies on](https://pythonspeed.com/articles/testing-compiler-optimizations/)
 * [2025-09-09, 16:27:25](https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
