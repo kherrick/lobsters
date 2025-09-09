@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-09-09, 07:30:57",
+      "https://lobste.rs/s/qlbdbs/can_collations_be_used_over_citext"
+    ],
+    [
+      "Can Collations Be Used Over citext?",
+      "https://www.cybertec-postgresql.com/en/can-collations-be-used-over-citext/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 06:42:12",
       "https://lobste.rs/s/ydgmi6/i_ran_claude_loop_for_three_months_it"
     ],
@@ -147,16 +157,6 @@
     [
       "Introducing Signal Secure Backups",
       "https://signal.org/blog/introducing-secure-backups/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 16:44:00",
-      "https://lobste.rs/s/wi1rqy/unix_co_creator_brian_kernighan_on_rust"
-    ],
-    [
-      "Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS",
-      "https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/"
     ]
   ],
   [
