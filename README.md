@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-09, 09:54:51](https://lobste.rs/s/r6yt0r/what_i_learned_building_my_first_jenkins) - [What I Learned Building My First Jenkins Plugin](https://mergify.com/blog/what-i-learned-building-my-first-jenkins-plugin)
 * [2025-09-09, 08:33:59](https://lobste.rs/s/ayimlh/recreating_apollo_ai_adoption_rate_chart) - [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/)
 * [2025-09-09, 08:16:31](https://lobste.rs/s/wxtopc/novel_technique_for_sql_injection_pdo_s) - [A Novel Technique for SQL Injection in PDO’s Prepared Statements](https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/)
 * [2025-09-09, 06:42:12](https://lobste.rs/s/ydgmi6/i_ran_claude_loop_for_three_months_it) - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/)
@@ -24,7 +25,6 @@
 * [2025-09-08, 08:25:21](https://lobste.rs/s/zctogg/vibe_coded_build_system_nx_gets_hacked) - [Vibe-coded build system NX gets hacked, steals vibe-coders’ crypto](https://pivot-to-ai.com/2025/08/29/vibe-coded-build-system-nx-gets-hacked-steals-vibe-coders-crypto/)
 * [2025-09-08, 08:01:17](https://lobste.rs/s/4cnnuw/hashed_sorting_is_typically_faster_than) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 * [2025-09-08, 07:18:20](https://lobste.rs/s/jwreod/deliberate_abstraction) - [Deliberate Abstraction](https://entropicthoughts.com/deliberate-abstraction)
-* [2025-09-07, 06:51:47](https://lobste.rs/s/mwhbyo/bye_intel_hi_amd_i_m_done_after_2_dead_intels) - [Bye Intel, hi AMD! I’m done after 2 dead Intels](https://michael.stapelberg.ch/posts/2025-09-07-bye-intel-hi-amd-9950x3d/)
 
 ## [Archives](archives/index.md)
 

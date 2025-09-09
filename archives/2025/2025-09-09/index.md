@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 09:54:51](https://lobste.rs/s/r6yt0r/what_i_learned_building_my_first_jenkins) - [What I Learned Building My First Jenkins Plugin](https://mergify.com/blog/what-i-learned-building-my-first-jenkins-plugin)
 * [2025-09-09, 08:33:59](https://lobste.rs/s/ayimlh/recreating_apollo_ai_adoption_rate_chart) - [Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide](https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/)
 * [2025-09-09, 08:16:31](https://lobste.rs/s/wxtopc/novel_technique_for_sql_injection_pdo_s) - [A Novel Technique for SQL Injection in PDO’s Prepared Statements](https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/)
 * [2025-09-09, 08:11:45](https://lobste.rs/s/j0jhwk/io_is_special) - [IO is special](https://blog.ploeh.dk/2025/09/08/io-is-special/)
