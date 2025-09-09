@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-09-09, 19:20:39](https://lobste.rs/s/816ygs/how_prove_false_statements_practical) - [How to Prove False Statements: Practical Attacks on Fiat-Shamir](https://eprint.iacr.org/2025/118.pdf)
-* [2025-09-09, 18:29:51](https://lobste.rs/s/wlyzqn/memory_integrity_enforcement_complete) - [Memory Integrity Enforcement: A complete vision for memory safety in Apple devices](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 17:42:09](https://lobste.rs/s/nut4i6/testing_compiler_optimizations_your) - [Testing the compiler optimizations your code relies on](https://pythonspeed.com/articles/testing-compiler-optimizations/)
 * [2025-09-09, 16:27:25](https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-09, 16:11:39](https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
@@ -25,6 +24,7 @@
 * [2025-09-08, 16:07:27](https://lobste.rs/s/rojvul/fixing_my_gripes_with_github_using_gleam) - [Fixing my gripes with GitHub using Gleam and a Raspberry Pi](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi)
 * [2025-09-08, 14:43:44](https://lobste.rs/s/hnd00z/we_will_not_accept_changes_created_with) - [We will not accept changes created with the aid of \"AI\"](https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md)
 * [2025-09-08, 12:55:13](https://lobste.rs/s/zvdtdn/package_managers_are_evil) - [Package Managers are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
+* [2025-09-08, 08:01:17](https://lobste.rs/s/4cnnuw/hashed_sorting_is_typically_faster_than) - [Hashed sorting is typically faster than hash tables](https://reiner.org/hashed-sorting)
 
 ## [Archives](archives/index.md)
 
