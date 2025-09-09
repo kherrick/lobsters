@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-09, 07:30:57](https://lobste.rs/s/qlbdbs/can_collations_be_used_over_citext) - [Can Collations Be Used Over citext?](https://www.cybertec-postgresql.com/en/can-collations-be-used-over-citext/)
+* [2025-09-09, 08:16:31](https://lobste.rs/s/wxtopc/novel_technique_for_sql_injection_pdo_s) - [A Novel Technique for SQL Injection in PDO’s Prepared Statements](https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/)
+* [2025-09-09, 08:11:45](https://lobste.rs/s/j0jhwk/io_is_special) - [IO is special](https://blog.ploeh.dk/2025/09/08/io-is-special/)
 * [2025-09-09, 06:42:12](https://lobste.rs/s/ydgmi6/i_ran_claude_loop_for_three_months_it) - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/)
 * [2025-09-09, 05:06:49](https://lobste.rs/s/unb7up/gsoc_2025_byte_type_supporting_raw_data) - [GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR](https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/)
 * [2025-09-09, 03:08:00](https://lobste.rs/s/9oneuy/liquid_glass_browser_refraction_with_css) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
@@ -12,7 +13,6 @@
 * [2025-09-08, 19:36:24](https://lobste.rs/s/hsmtfr/cp_sat_primer) - [The CP-SAT Primer](https://d-krupke.github.io/cpsat-primer/)
 * [2025-09-08, 18:00:59](https://lobste.rs/s/ygvmor/color_npm_package_compromised) - [color npm package compromised](https://fasterthanli.me/articles/color-npm-package-compromised)
 * [2025-09-08, 16:56:26](https://lobste.rs/s/w9nx3l/introducing_signal_secure_backups) - [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
-* [2025-09-08, 16:55:13](https://lobste.rs/s/yw0ehz/tiny_llm_llm_serving_week) - [Tiny LLM - LLM Serving in a Week](https://skyzh.github.io/tiny-llm/)
 * [2025-09-08, 16:44:00](https://lobste.rs/s/wi1rqy/unix_co_creator_brian_kernighan_on_rust) - [Unix Co-Creator Brian Kernighan on Rust, Distros and NixOS](https://thenewstack.io/unix-co-creator-brian-kernighan-on-rust-distros-and-nixos/)
 * [2025-09-08, 16:22:14](https://lobste.rs/s/vajzqz/anatomy_billion_download_npm_supply) - [Anatomy of a billion-download NPM supply-chain attack](https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the)
 * [2025-09-08, 16:07:27](https://lobste.rs/s/rojvul/fixing_my_gripes_with_github_using_gleam) - [Fixing my gripes with GitHub using Gleam and a Raspberry Pi](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi)

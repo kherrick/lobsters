@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 08:16:31](https://lobste.rs/s/wxtopc/novel_technique_for_sql_injection_pdo_s) - [A Novel Technique for SQL Injection in PDO’s Prepared Statements](https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/)
+* [2025-09-09, 08:11:45](https://lobste.rs/s/j0jhwk/io_is_special) - [IO is special](https://blog.ploeh.dk/2025/09/08/io-is-special/)
 * [2025-09-09, 07:30:57](https://lobste.rs/s/qlbdbs/can_collations_be_used_over_citext) - [Can Collations Be Used Over citext?](https://www.cybertec-postgresql.com/en/can-collations-be-used-over-citext/)
 * [2025-09-09, 06:42:55](https://lobste.rs/s/n3pizi/introducing_mcp_registry) - [Introducing the MCP Registry](http://blog.modelcontextprotocol.io/posts/2025-09-08-mcp-registry-preview/)
 * [2025-09-09, 06:42:12](https://lobste.rs/s/ydgmi6/i_ran_claude_loop_for_three_months_it) - [i ran Claude in a loop for three months, and it created a genz programming language called cursed](https://ghuntley.com/cursed/)
