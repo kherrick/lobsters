@@ -19,6 +19,7 @@
 * [2025-09-09, 15:04:54](https://lobste.rs/s/h7xdec/unauthorized_windows_386) - [Unauthorized Windows/386](https://virtuallyfun.com/2025/09/06/unauthorized-windows-386/)
 * [2025-09-09, 15:01:32](https://lobste.rs/s/dwbtca/sandboxing_applications_with) - [Sandboxing Applications with Bubblewrap: A Simple Script (2024)](https://sloonz.github.io/posts/sandboxing-3/)
 * [2025-09-09, 14:17:42](https://lobste.rs/s/c651ap/boring_future_genai) - [The Boring Future of GenAI](https://blog.circuitsofimagination.com/2025/09/05/the-boring-future-of-genai.html)
+* [2025-09-09, 14:04:28](https://lobste.rs/s/imp0qy/all_you_need_is_ssh) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 13:54:56](https://lobste.rs/s/s19nri/writing_book_age_open_source) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
 * [2025-09-09, 13:24:56](https://lobste.rs/s/aleuv7/how_build_python_code_with_bazel_why) - [How to Build Python Code with Bazel (and Why)](https://ohadravid.github.io/posts/2025-09-hello-bazel/)
 * [2025-09-09, 13:23:15](https://lobste.rs/s/mn6ce3/replacing_sgx_with_github_actions_how) - [Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle](https://www.ethanheilman.com/x/35/index.html)
