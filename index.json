@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 20:24:10",
+      "https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my"
+    ],
+    [
+      "I don’t want AI agents controlling my laptop",
+      "https://sophiebits.com/2025/09/09/ai-agents-security"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 20:17:32",
       "https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries"
     ],
@@ -167,16 +177,6 @@
     [
       "Compiling a functional language to LLVM",
       "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 05:06:49",
-      "https://lobste.rs/s/unb7up/gsoc_2025_byte_type_supporting_raw_data"
-    ],
-    [
-      "GSoC 2025 - Byte Type: Supporting Raw Data Copies in the LLVM IR",
-      "https://blog.llvm.org/posts/2025-08-29-gsoc-byte-type/"
     ]
   ],
   [
