@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-09, 13:24:56",
+      "https://lobste.rs/s/aleuv7/how_build_python_code_with_bazel_why"
+    ],
+    [
+      "How to Build Python Code with Bazel (and Why)",
+      "https://ohadravid.github.io/posts/2025-09-hello-bazel/"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 13:23:15",
+      "https://lobste.rs/s/mn6ce3/replacing_sgx_with_github_actions_how"
+    ],
+    [
+      "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
+      "https://www.ethanheilman.com/x/35/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-09, 13:20:30",
+      "https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal"
+    ],
+    [
+      "term.everything: Run any GUI app in the terminal",
+      "https://github.com/mmulet/term.everything"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 10:55:04",
       "https://lobste.rs/s/fumoq5/batched_critical_sections"
     ],
@@ -21,32 +51,12 @@
   ],
   [
     [
-      "2025-09-09, 08:33:59",
-      "https://lobste.rs/s/ayimlh/recreating_apollo_ai_adoption_rate_chart"
-    ],
-    [
-      "Recreating the Apollo AI adoption rate chart with GPT-5, Python and Pyodide",
-      "https://simonwillison.net/2025/Sep/9/apollo-ai-adoption/"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 08:16:31",
       "https://lobste.rs/s/wxtopc/novel_technique_for_sql_injection_pdo_s"
     ],
     [
       "A Novel Technique for SQL Injection in PDO’s Prepared Statements",
       "https://slcyber.io/assetnote-security-research-center/a-novel-technique-for-sql-injection-in-pdos-prepared-statements/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 07:30:57",
-      "https://lobste.rs/s/qlbdbs/can_collations_be_used_over_citext"
-    ],
-    [
-      "Can Collations Be Used Over citext?",
-      "https://www.cybertec-postgresql.com/en/can-collations-be-used-over-citext/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Wikimedia sunsets separate mobile domains",
       "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 19:42:09",
-      "https://lobste.rs/s/kpyagy/using_emacs_org_mode_with_databases"
-    ],
-    [
-      "Using Emacs Org-Mode With Databases: A getting-started guide",
-      "https://gitlab.com/ryanprior/emacs-org-data-starter"
     ]
   ],
   [
