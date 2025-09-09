@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-09-09, 06:19:44",
-      "https://lobste.rs/s/py9ag0/compiling_functional_language_llvm"
-    ],
-    [
-      "Compiling a functional language to LLVM",
-      "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 05:06:49",
       "https://lobste.rs/s/unb7up/gsoc_2025_byte_type_supporting_raw_data"
     ],
@@ -127,6 +117,16 @@
     [
       "Introducing Signal Secure Backups",
       "https://signal.org/blog/introducing-secure-backups/"
+    ]
+  ],
+  [
+    [
+      "2025-09-08, 16:55:13",
+      "https://lobste.rs/s/yw0ehz/tiny_llm_llm_serving_week"
+    ],
+    [
+      "Tiny LLM - LLM Serving in a Week",
+      "https://skyzh.github.io/tiny-llm/"
     ]
   ],
   [
