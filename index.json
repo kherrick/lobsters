@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 14:17:42",
+      "https://lobste.rs/s/c651ap/boring_future_genai"
+    ],
+    [
+      "The Boring Future of GenAI",
+      "https://blog.circuitsofimagination.com/2025/09/05/the-boring-future-of-genai.html"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 13:54:56",
       "https://lobste.rs/s/s19nri/writing_book_age_open_source"
     ],
@@ -47,16 +57,6 @@
     [
       "Batched Critical Sections",
       "http://kprotty.me/2025/09/08/batched-critical-sections.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 09:54:51",
-      "https://lobste.rs/s/r6yt0r/what_i_learned_building_my_first_jenkins"
-    ],
-    [
-      "What I Learned Building My First Jenkins Plugin",
-      "https://mergify.com/blog/what-i-learned-building-my-first-jenkins-plugin"
     ]
   ],
   [
