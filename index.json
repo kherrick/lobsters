@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-09-10, 01:54:44",
+      "https://lobste.rs/s/amopnm/lisagui"
+    ],
+    [
+      "LisaGUI",
+      "https://lisagui.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 21:13:12",
       "https://lobste.rs/s/jz3eml/last_programmers"
     ],
@@ -197,16 +207,6 @@
     [
       "How to Build Python Code with Bazel (and Why)",
       "https://ohadravid.github.io/posts/2025-09-hello-bazel/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 13:23:15",
-      "https://lobste.rs/s/mn6ce3/replacing_sgx_with_github_actions_how"
-    ],
-    [
-      "Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle",
-      "https://www.ethanheilman.com/x/35/index.html"
     ]
   ],
   [
