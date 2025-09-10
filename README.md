@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-09, 21:13:12](https://lobste.rs/s/jz3eml/last_programmers) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 20:24:10](https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my) - [I don’t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:17:32](https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
 * [2025-09-09, 19:20:39](https://lobste.rs/s/816ygs/how_prove_false_statements_practical) - [How to Prove False Statements: Practical Attacks on Fiat-Shamir](https://eprint.iacr.org/2025/118.pdf)
@@ -17,7 +18,6 @@
 * [2025-09-09, 13:23:15](https://lobste.rs/s/mn6ce3/replacing_sgx_with_github_actions_how) - [Replacing SGX with GitHub Actions: Or how to turn GitHub Actions into a trusted computing oracle](https://www.ethanheilman.com/x/35/index.html)
 * [2025-09-09, 13:20:30](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal) - [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
 * [2025-09-09, 10:55:04](https://lobste.rs/s/fumoq5/batched_critical_sections) - [Batched Critical Sections](http://kprotty.me/2025/09/08/batched-critical-sections.html)
-* [2025-09-09, 06:19:44](https://lobste.rs/s/py9ag0/compiling_functional_language_llvm) - [Compiling a functional language to LLVM](https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html)
 * [2025-09-09, 03:08:00](https://lobste.rs/s/9oneuy/liquid_glass_browser_refraction_with_css) - [Liquid Glass in the Browser: Refraction with CSS and SVG](https://kube.io/blog/liquid-glass-css-svg/)
 * [2025-09-08, 22:47:55](https://lobste.rs/s/vjuviw/first_ziglang_org_outage) - [The First ziglang.org Outage](https://ziglang.org/news/first-outage/)
 * [2025-09-08, 19:55:15](https://lobste.rs/s/tiutfj/wikimedia_sunsets_separate_mobile) - [Wikimedia sunsets separate mobile domains](https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement)

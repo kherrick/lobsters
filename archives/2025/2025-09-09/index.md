@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-09](index.md)
 
+* [2025-09-09, 21:13:12](https://lobste.rs/s/jz3eml/last_programmers) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 20:24:10](https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my) - [I don’t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:17:32](https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
 * [2025-09-09, 19:20:39](https://lobste.rs/s/816ygs/how_prove_false_statements_practical) - [How to Prove False Statements: Practical Attacks on Fiat-Shamir](https://eprint.iacr.org/2025/118.pdf)
