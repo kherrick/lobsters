@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-10, 16:35:27",
+      "https://lobste.rs/s/wiwfvy/flox_nix_foundation_nvidia_partner_for"
+    ],
+    [
+      "Flox, the Nix Foundation, and NVIDIA Partner for CUDA",
+      "https://flox.dev/blog/flox-the-nix-foundation-and-nvidia-partner-for-cuda/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 15:43:25",
       "https://lobste.rs/s/h6peie/origin_story_merge_queues"
     ],
@@ -147,16 +157,6 @@
     [
       "Memory Integrity Enforcement: A complete vision for memory safety in Apple devices",
       "https://security.apple.com/blog/memory-integrity-enforcement/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 17:42:09",
-      "https://lobste.rs/s/nut4i6/testing_compiler_optimizations_your"
-    ],
-    [
-      "Testing the compiler optimizations your code relies on",
-      "https://pythonspeed.com/articles/testing-compiler-optimizations/"
     ]
   ],
   [
