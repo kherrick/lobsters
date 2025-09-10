@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-10, 16:53:44",
+      "https://lobste.rs/s/nlbe5o/performance_improvements_net_10"
+    ],
+    [
+      "Performance Improvements in .NET 10",
+      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 16:50:10",
       "https://lobste.rs/s/4nqzhv/unicode_17_0_release_announcement"
     ],
@@ -227,16 +237,6 @@
     [
       "term.everything: Run any GUI app in the terminal",
       "https://github.com/mmulet/term.everything"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 10:55:04",
-      "https://lobste.rs/s/fumoq5/batched_critical_sections"
-    ],
-    [
-      "Batched Critical Sections",
-      "http://kprotty.me/2025/09/08/batched-critical-sections.html"
     ]
   ],
   [
