@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-10, 05:24:28",
+      "https://lobste.rs/s/enn0ay/embedding_poisoning_bypassing_safety"
+    ],
+    [
+      "Embedding Poisoning: Bypassing Safety Alignment via Embedding Semantic Shift",
+      "https://arxiv.org/abs/2509.06338"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 21:13:12",
       "https://lobste.rs/s/jz3eml/last_programmers"
     ],
@@ -227,16 +237,6 @@
     [
       "Fixing my gripes with GitHub using Gleam and a Raspberry Pi",
       "https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 14:43:44",
-      "https://lobste.rs/s/hnd00z/we_will_not_accept_changes_created_with"
-    ],
-    [
-      "We will not accept changes created with the aid of \"AI\"",
-      "https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md"
     ]
   ],
   [
