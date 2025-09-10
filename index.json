@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-09, 21:13:12",
+      "https://lobste.rs/s/jz3eml/last_programmers"
+    ],
+    [
+      "The Last Programmers",
+      "https://www.xipu.li/posts/the-last-programmers"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 20:24:10",
       "https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my"
     ],
@@ -167,16 +177,6 @@
     [
       "Batched Critical Sections",
       "http://kprotty.me/2025/09/08/batched-critical-sections.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 06:19:44",
-      "https://lobste.rs/s/py9ag0/compiling_functional_language_llvm"
-    ],
-    [
-      "Compiling a functional language to LLVM",
-      "https://danieljharvey.github.io/posts/2023-02-08-llvm-compiler-part-1.html"
     ]
   ],
   [
