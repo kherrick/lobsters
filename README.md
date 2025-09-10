@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-10, 13:31:55](https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
 * [2025-09-10, 13:14:01](https://lobste.rs/s/55khpr/kerberoasting) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 11:56:23](https://lobste.rs/s/whp654/effects_as_capabilities_scala) - [Effects as Capabilities in Scala](https://nrinaudo.github.io/articles/capabilities.html)
 * [2025-09-10, 11:34:41](https://lobste.rs/s/fnyipj/scaling_asyncio_on_free_threaded_python) - [Scaling asyncio on Free-Threaded Python](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python)
@@ -16,7 +17,6 @@
 * [2025-09-09, 16:11:39](https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 15:37:56](https://lobste.rs/s/xcbjqt/rich_already_answered) - [Rich Already Answered That](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
 * [2025-09-09, 15:34:48](https://lobste.rs/s/qkborx/building_doom_like_multiplayer_shooter) - [Building a DOOM-like multiplayer shooter in pure SQL](https://cedardb.com/blog/doomql/)
-* [2025-09-09, 15:34:30](https://lobste.rs/s/n7i9vb/how_i_made_ruby_faster_than_ruby) - [How I Made Ruby Faster than Ruby](https://noteflakes.com/articles/2025-08-18-how-to-make-ruby-faster)
 * [2025-09-09, 15:16:35](https://lobste.rs/s/vclmlx/apple_event_for_september_9th_2025) - [Apple Event for September 9th, 2025](https://www.apple.com/apple-events/)
 * [2025-09-09, 14:04:28](https://lobste.rs/s/imp0qy/all_you_need_is_ssh) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 13:54:56](https://lobste.rs/s/s19nri/writing_book_age_open_source) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)

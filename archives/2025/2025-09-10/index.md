@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 13:31:55](https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
 * [2025-09-10, 13:14:01](https://lobste.rs/s/55khpr/kerberoasting) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 11:56:23](https://lobste.rs/s/whp654/effects_as_capabilities_scala) - [Effects as Capabilities in Scala](https://nrinaudo.github.io/articles/capabilities.html)
 * [2025-09-10, 11:34:41](https://lobste.rs/s/fnyipj/scaling_asyncio_on_free_threaded_python) - [Scaling asyncio on Free-Threaded Python](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python)
