@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-10, 14:25:39",
+      "https://lobste.rs/s/99cxl3/fenwick_layout_for_interval_trees"
+    ],
+    [
+      "Fenwick layout for interval trees",
+      "https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 13:31:55",
       "https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview"
     ],
@@ -197,16 +207,6 @@
     [
       "Writing a book in the age of open source",
       "https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 13:24:56",
-      "https://lobste.rs/s/aleuv7/how_build_python_code_with_bazel_why"
-    ],
-    [
-      "How to Build Python Code with Bazel (and Why)",
-      "https://ohadravid.github.io/posts/2025-09-hello-bazel/"
     ]
   ],
   [
