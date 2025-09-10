@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-10](index.md)
 
+* [2025-09-10, 09:32:19](https://lobste.rs/s/gjqkbw/love_letter_csv_format_2024) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
 * [2025-09-10, 08:01:14](https://lobste.rs/s/gjvdrw/ten_years_d3d12) - [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12/)
 * [2025-09-10, 07:15:51](https://lobste.rs/s/nl3syv/my_quarterly_system_health_check) - [My Quarterly System Health Check-in](https://blog.nilenso.com/blog/2025/09/05/my-quarterly-system-health-check-in-beyond-the-dashboard/)
 * [2025-09-10, 06:10:50](https://lobste.rs/s/cwdcve/weird_os_built_around_database) - [The Weird OS Built Around a Database](https://www.youtube.com/watch?v=pWZBQMRmW7k)
