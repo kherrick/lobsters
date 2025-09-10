@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-10, 05:24:28](https://lobste.rs/s/enn0ay/embedding_poisoning_bypassing_safety) - [Embedding Poisoning: Bypassing Safety Alignment via Embedding Semantic Shift](https://arxiv.org/abs/2509.06338)
 * [2025-09-09, 21:13:12](https://lobste.rs/s/jz3eml/last_programmers) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 20:24:10](https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my) - [I don’t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:17:32](https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
@@ -23,7 +24,6 @@
 * [2025-09-08, 19:55:15](https://lobste.rs/s/tiutfj/wikimedia_sunsets_separate_mobile) - [Wikimedia sunsets separate mobile domains](https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement)
 * [2025-09-08, 16:56:26](https://lobste.rs/s/w9nx3l/introducing_signal_secure_backups) - [Introducing Signal Secure Backups](https://signal.org/blog/introducing-secure-backups/)
 * [2025-09-08, 16:07:27](https://lobste.rs/s/rojvul/fixing_my_gripes_with_github_using_gleam) - [Fixing my gripes with GitHub using Gleam and a Raspberry Pi](https://giacomocavalieri.me/posts/fixing-my-gripes-with-github-using-gleam-and-a-raspberry-pi)
-* [2025-09-08, 14:43:44](https://lobste.rs/s/hnd00z/we_will_not_accept_changes_created_with) - [We will not accept changes created with the aid of \"AI\"](https://codeberg.org/superseriousbusiness/gotosocial/src/commit/9b7db51436/CODE_OF_CONDUCT.md)
 * [2025-09-08, 12:55:13](https://lobste.rs/s/zvdtdn/package_managers_are_evil) - [Package Managers are Evil](https://www.gingerbill.org/article/2025/09/08/package-managers-are-evil/)
 
 ## [Archives](archives/index.md)
