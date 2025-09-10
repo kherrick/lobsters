@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-10, 14:25:39](https://lobste.rs/s/99cxl3/fenwick_layout_for_interval_trees) - [Fenwick layout for interval trees](https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/)
 * [2025-09-10, 13:31:55](https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
 * [2025-09-10, 13:14:01](https://lobste.rs/s/55khpr/kerberoasting) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 11:56:23](https://lobste.rs/s/whp654/effects_as_capabilities_scala) - [Effects as Capabilities in Scala](https://nrinaudo.github.io/articles/capabilities.html)
@@ -20,7 +21,6 @@
 * [2025-09-09, 15:16:35](https://lobste.rs/s/vclmlx/apple_event_for_september_9th_2025) - [Apple Event for September 9th, 2025](https://www.apple.com/apple-events/)
 * [2025-09-09, 14:04:28](https://lobste.rs/s/imp0qy/all_you_need_is_ssh) - [All You Need Is SSH](https://wrongthink.link/posts/all-you-need-is-ssh/)
 * [2025-09-09, 13:54:56](https://lobste.rs/s/s19nri/writing_book_age_open_source) - [Writing a book in the age of open source](https://blog.incrementalforgetting.tech/p/sculpting-a-book-the-chisel)
-* [2025-09-09, 13:24:56](https://lobste.rs/s/aleuv7/how_build_python_code_with_bazel_why) - [How to Build Python Code with Bazel (and Why)](https://ohadravid.github.io/posts/2025-09-hello-bazel/)
 * [2025-09-09, 13:20:30](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal) - [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
 * [2025-09-09, 10:55:04](https://lobste.rs/s/fumoq5/batched_critical_sections) - [Batched Critical Sections](http://kprotty.me/2025/09/08/batched-critical-sections.html)
 * [2025-09-08, 22:47:55](https://lobste.rs/s/vjuviw/first_ziglang_org_outage) - [The First ziglang.org Outage](https://ziglang.org/news/first-outage/)
