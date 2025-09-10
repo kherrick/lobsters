@@ -2,8 +2,8 @@
 
 * [2025-09-10, 16:53:44](https://lobste.rs/s/nlbe5o/performance_improvements_net_10) - [Performance Improvements in .NET 10](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-10/)
 * [2025-09-10, 16:50:10](https://lobste.rs/s/4nqzhv/unicode_17_0_release_announcement) - [Unicode 17.0 Release Announcement](http://blog.unicode.org/2025/09/unicode-170-release-announcement.html)
-* [2025-09-10, 16:35:27](https://lobste.rs/s/wiwfvy/flox_nix_foundation_nvidia_partner_for) - [Flox, the Nix Foundation, and NVIDIA Partner for CUDA](https://flox.dev/blog/flox-the-nix-foundation-and-nvidia-partner-for-cuda/)
 * [2025-09-10, 15:43:25](https://lobste.rs/s/h6peie/origin_story_merge_queues) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
+* [2025-09-10, 15:31:36](https://lobste.rs/s/qnesth/what_s_new_kotlin_2_2_20) - [What's new in Kotlin 2.2.20](https://kotlinlang.org/docs/whatsnew2220.html)
 * [2025-09-10, 14:46:21](https://lobste.rs/s/8ubfdd/many_hard_leetcode_problems_are_easy) - [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-10, 14:25:39](https://lobste.rs/s/99cxl3/fenwick_layout_for_interval_trees) - [Fenwick layout for interval trees](https://purplesyringa.moe/blog/fenwick-layout-for-interval-trees/)
 * [2025-09-10, 13:31:55](https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
