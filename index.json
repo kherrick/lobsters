@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-10, 16:50:10",
+      "https://lobste.rs/s/4nqzhv/unicode_17_0_release_announcement"
+    ],
+    [
+      "Unicode 17.0 Release Announcement",
+      "http://blog.unicode.org/2025/09/unicode-170-release-announcement.html"
+    ]
+  ],
+  [
+    [
       "2025-09-10, 15:43:25",
       "https://lobste.rs/s/h6peie/origin_story_merge_queues"
     ],
@@ -237,16 +247,6 @@
     [
       "The First ziglang.org Outage",
       "https://ziglang.org/news/first-outage/"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 19:55:15",
-      "https://lobste.rs/s/tiutfj/wikimedia_sunsets_separate_mobile"
-    ],
-    [
-      "Wikimedia sunsets separate mobile domains",
-      "https://www.mediawiki.org/wiki/Requests_for_comment/Mobile_domain_sunsetting/2025_Announcement"
     ]
   ]
 ]
