@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-10, 05:24:28](https://lobste.rs/s/enn0ay/embedding_poisoning_bypassing_safety) - [Embedding Poisoning: Bypassing Safety Alignment via Embedding Semantic Shift](https://arxiv.org/abs/2509.06338)
+* [2025-09-10, 06:10:50](https://lobste.rs/s/cwdcve/weird_os_built_around_database) - [The Weird OS Built Around a Database](https://www.youtube.com/watch?v=pWZBQMRmW7k)
 * [2025-09-09, 21:13:12](https://lobste.rs/s/jz3eml/last_programmers) - [The Last Programmers](https://www.xipu.li/posts/the-last-programmers)
 * [2025-09-09, 20:24:10](https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my) - [I don’t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:17:32](https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
