@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-11, 06:21:10",
+      "https://lobste.rs/s/a5bsen/rfc_ripple_llvm_compiler_interpreted_api"
+    ],
+    [
+      "[RFC] Ripple: An LLVM compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets",
+      "https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 06:18:58",
+      "https://lobste.rs/s/lk9z2f/read_only_guest_tmux_sessions"
+    ],
+    [
+      "Read-only Guest tmux Sessions",
+      "https://brianmckenna.org/blog/guest_tmux"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 05:09:10",
       "https://lobste.rs/s/vvktr7/stop_outsourcing_thinking"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-09-09, 20:17:32",
-      "https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries"
-    ],
-    [
-      "The bloat of edge-case first libraries",
-      "https://43081j.com/2025/09/bloat-of-edge-case-libraries"
-    ]
-  ],
-  [
-    [
       "2025-09-09, 16:27:25",
       "https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary"
     ],
@@ -227,16 +237,6 @@
     [
       "Rich Already Answered That",
       "https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 15:16:35",
-      "https://lobste.rs/s/vclmlx/apple_event_for_september_9th_2025"
-    ],
-    [
-      "Apple Event for September 9th, 2025",
-      "https://www.apple.com/apple-events/"
     ]
   ],
   [
