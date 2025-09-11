@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 15:36:11](https://lobste.rs/s/kxaslm/defeating_nondeterminism_llm_inference) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
+* [2025-09-11, 15:30:51](https://lobste.rs/s/r0g8yj/semlib_llm_powered_data_processing) - [Semlib: LLM-powered Data Processing](https://anishathalye.com/semlib/)
 * [2025-09-11, 15:23:32](https://lobste.rs/s/fetpnl/humanely_dealing_with_humungus_crawlers) - [humanely dealing with humungus crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 * [2025-09-11, 14:52:12](https://lobste.rs/s/nnabcg/introducing_nanonext_breaking_down) - [Introducing nanonext: breaking down language barriers in data science](https://www.tidyverse.org/blog/2025/09/nanonext-1-7-0/)
 * [2025-09-11, 14:40:48](https://lobste.rs/s/jyncoa/racintosh_plus) - [Racintosh Plus](http://www.identity4.com/2025-racintosh-plus/)
