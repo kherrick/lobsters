@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 14:40:48](https://lobste.rs/s/jyncoa/racintosh_plus) - [Racintosh Plus](http://www.identity4.com/2025-racintosh-plus/)
+* [2025-09-11, 14:39:51](https://lobste.rs/s/q6qqvb/network_storage_benchmarks_for_llm) - [Network and Storage Benchmarks for LLM Training on the Cloud](https://maknee.github.io/blog/2025/Network-And-Storage-Training-Skypilot/)
 * [2025-09-11, 12:38:09](https://lobste.rs/s/0pkut7/behind_scenes_bun_install) - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:37:39](https://lobste.rs/s/2ficlc/why_you_should_care_about_keeping_your) - [Why you should care about keeping your design files clean (2018)](https://monzo.com/blog/2018/12/11/design-files-system)
 * [2025-09-11, 11:05:01](https://lobste.rs/s/froexx/how_tz_database_works) - [How the tz database works](https://yatsushi.com/blog/tz-database/)
