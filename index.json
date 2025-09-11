@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-09-09, 18:29:51",
+      "https://lobste.rs/s/wlyzqn/memory_integrity_enforcement_complete"
+    ],
+    [
+      "Memory Integrity Enforcement: A complete vision for memory safety in Apple devices",
+      "https://security.apple.com/blog/memory-integrity-enforcement/"
+    ]
+  ],
+  [
+    [
       "2025-09-09, 16:27:25",
       "https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary"
     ],
@@ -237,16 +247,6 @@
     [
       "term.everything: Run any GUI app in the terminal",
       "https://github.com/mmulet/term.everything"
-    ]
-  ],
-  [
-    [
-      "2025-09-08, 22:47:55",
-      "https://lobste.rs/s/vjuviw/first_ziglang_org_outage"
-    ],
-    [
-      "The First ziglang.org Outage",
-      "https://ziglang.org/news/first-outage/"
     ]
   ]
 ]
