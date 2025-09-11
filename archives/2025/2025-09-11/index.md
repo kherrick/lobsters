@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 12:38:09](https://lobste.rs/s/0pkut7/behind_scenes_bun_install) - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 11:37:39](https://lobste.rs/s/2ficlc/why_you_should_care_about_keeping_your) - [Why you should care about keeping your design files clean (2018)](https://monzo.com/blog/2018/12/11/design-files-system)
 * [2025-09-11, 11:05:01](https://lobste.rs/s/froexx/how_tz_database_works) - [How the tz database works](https://yatsushi.com/blog/tz-database/)
 * [2025-09-11, 10:30:12](https://lobste.rs/s/76687g/first_class_merges_cover_letters) - [First-class merges and cover letters](https://dotat.at/@/2025-09-11-cover-letter.html)
