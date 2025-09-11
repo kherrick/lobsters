@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-11, 15:36:11",
+      "https://lobste.rs/s/kxaslm/defeating_nondeterminism_llm_inference"
+    ],
+    [
+      "Defeating Nondeterminism in LLM Inference",
+      "https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 15:30:51",
+      "https://lobste.rs/s/r0g8yj/semlib_llm_powered_data_processing"
+    ],
+    [
+      "Semlib: LLM-powered Data Processing",
+      "https://anishathalye.com/semlib/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 15:23:32",
       "https://lobste.rs/s/fetpnl/humanely_dealing_with_humungus_crawlers"
     ],
@@ -37,16 +57,6 @@
     [
       "Behind The Scenes of Bun Install",
       "https://bun.com/blog/behind-the-scenes-of-bun-install"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 11:05:01",
-      "https://lobste.rs/s/froexx/how_tz_database_works"
-    ],
-    [
-      "How the tz database works",
-      "https://yatsushi.com/blog/tz-database/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Pay-per-output? AI firms blindsided by beefed up robots.txt instructions",
       "https://arstechnica.com/tech-policy/2025/09/pay-per-output-ai-firms-blindsided-by-beefed-up-robots-txt-instructions/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 01:43:31",
-      "https://lobste.rs/s/jn04wk/from_unit_tests_whole_universe_tests_with"
-    ],
-    [
-      "From Unit Tests to Whole Universe Tests (with Will Wilson)",
-      "https://youtu.be/_xJ4maWhSNU"
     ]
   ],
   [
