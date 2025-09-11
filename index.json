@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-11, 10:30:12",
+      "https://lobste.rs/s/76687g/first_class_merges_cover_letters"
+    ],
+    [
+      "First-class merges and cover letters",
+      "https://dotat.at/@/2025-09-11-cover-letter.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-11, 10:23:27",
+      "https://lobste.rs/s/ujfy7h/slatedb_embedded_database_built_on"
+    ],
+    [
+      "SlateDB: An embedded database built on object storage",
+      "https://slatedb.io/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 08:00:34",
       "https://lobste.rs/s/a17fsv/pgedge_goes_open_source"
     ],
@@ -77,16 +97,6 @@
     [
       "KDE launches its own distribution (again)",
       "https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 19:48:33",
-      "https://lobste.rs/s/pzruab/twisted_dramatic_history_twisted_pair"
-    ],
-    [
-      "TWISTED: The dramatic history of twisted-pair Ethernet",
-      "https://www.youtube.com/watch?v=f8PP5IHsL8Y"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A love letter to the CSV format (2024)",
       "https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/"
-    ]
-  ],
-  [
-    [
-      "2025-09-09, 16:27:25",
-      "https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary"
-    ],
-    [
-      "Formatting code should be unnecessary",
-      "https://maxleiter.com/blog/formatting"
     ]
   ],
   [
