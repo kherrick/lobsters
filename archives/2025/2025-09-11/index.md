@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 21:04:14](https://lobste.rs/s/5hm33t/clojure_view_mars_rover) - [A Clojure view of \"Mars Rover\"](https://www.evalapply.org/posts/clojure-mars-rover/index.html)
 * [2025-09-11, 20:17:42](https://lobste.rs/s/ogfetg/httpjail_monitor_restrict_http_https) - [httpjail: monitor and restrict HTTP/HTTPS requests from processes](https://github.com/coder/httpjail)
 * [2025-09-11, 19:18:16](https://lobste.rs/s/fzzobp/jetzig_web_framework_for_zig) - [Jetzig Web Framework for Zig](https://www.jetzig.dev)
 * [2025-09-11, 17:49:47](https://lobste.rs/s/kxwik9/ann_doom_ada_doom_emacs_ada_language) - [ANN: doom-ada: Doom Emacs Ada language module with syntax highlighting, LSP and Alire support](https://github.com/tomekw/doom-ada)

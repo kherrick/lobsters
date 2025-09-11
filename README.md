@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-11, 21:04:14](https://lobste.rs/s/5hm33t/clojure_view_mars_rover) - [A Clojure view of \"Mars Rover\"](https://www.evalapply.org/posts/clojure-mars-rover/index.html)
 * [2025-09-11, 20:17:42](https://lobste.rs/s/ogfetg/httpjail_monitor_restrict_http_https) - [httpjail: monitor and restrict HTTP/HTTPS requests from processes](https://github.com/coder/httpjail)
 * [2025-09-11, 19:18:16](https://lobste.rs/s/fzzobp/jetzig_web_framework_for_zig) - [Jetzig Web Framework for Zig](https://www.jetzig.dev)
 * [2025-09-11, 17:49:47](https://lobste.rs/s/kxwik9/ann_doom_ada_doom_emacs_ada_language) - [ANN: doom-ada: Doom Emacs Ada language module with syntax highlighting, LSP and Alire support](https://github.com/tomekw/doom-ada)
@@ -13,7 +14,6 @@
 * [2025-09-11, 12:38:09](https://lobste.rs/s/0pkut7/behind_scenes_bun_install) - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 10:30:12](https://lobste.rs/s/76687g/first_class_merges_cover_letters) - [First-class merges and cover letters](https://dotat.at/@/2025-09-11-cover-letter.html)
 * [2025-09-11, 08:00:34](https://lobste.rs/s/a17fsv/pgedge_goes_open_source) - [pgEdge goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source)
-* [2025-09-11, 06:21:10](https://lobste.rs/s/a5bsen/rfc_ripple_llvm_compiler_interpreted_api) - [[RFC] Ripple: An LLVM compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241)
 * [2025-09-11, 06:18:58](https://lobste.rs/s/lk9z2f/read_only_guest_tmux_sessions_2013) - [Read-only Guest tmux Sessions (2013)](https://brianmckenna.org/blog/guest_tmux)
 * [2025-09-11, 05:09:10](https://lobste.rs/s/vvktr7/stop_outsourcing_thinking) - [Stop Outsourcing Thinking](https://vaibhawvipul.github.io/2025/09/10/Stop-outsourcing-thinking.html)
 * [2025-09-11, 03:06:08](https://lobste.rs/s/eaewzd/rust_compiler_performance_survey_2025) - [Rust compiler performance survey 2025 results](https://blog.rust-lang.org/2025/09/10/rust-compiler-performance-survey-2025-results/)
