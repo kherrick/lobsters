@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-11, 02:21:30](https://lobste.rs/s/9rg06t/pay_per_output_ai_firms_blindsided_by) - [Pay-per-output? AI firms blindsided by beefed up robots.txt instructions](https://arstechnica.com/tech-policy/2025/09/pay-per-output-ai-firms-blindsided-by-beefed-up-robots-txt-instructions/)
+* [2025-09-11, 01:43:31](https://lobste.rs/s/jn04wk/from_unit_tests_whole_universe_tests_with) - [From Unit Tests to Whole Universe Tests (with Will Wilson)](https://youtu.be/_xJ4maWhSNU)
 * [2025-09-10, 21:43:26](https://lobste.rs/s/tq985k/kde_launches_its_own_distribution_again) - [KDE launches its own distribution (again)](https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/)
 * [2025-09-10, 19:48:33](https://lobste.rs/s/pzruab/twisted_dramatic_history_twisted_pair) - [TWISTED: The dramatic history of twisted-pair Ethernet](https://www.youtube.com/watch?v=f8PP5IHsL8Y)
 * [2025-09-10, 19:45:40](https://lobste.rs/s/mbeeut/on_weird_economics_semiconductors_genai) - [On the weird economics of semiconductors and GenAI](https://gauthierroussilhe.com/en/articles/how-to-use-computing-power-faster)
@@ -16,10 +18,8 @@
 * [2025-09-10, 11:56:23](https://lobste.rs/s/whp654/effects_as_capabilities_scala) - [Effects as Capabilities in Scala](https://nrinaudo.github.io/articles/capabilities.html)
 * [2025-09-10, 11:34:41](https://lobste.rs/s/fnyipj/scaling_asyncio_on_free_threaded_python) - [Scaling asyncio on Free-Threaded Python](https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python)
 * [2025-09-10, 09:32:19](https://lobste.rs/s/gjqkbw/love_letter_csv_format_2024) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
-* [2025-09-10, 01:54:44](https://lobste.rs/s/amopnm/lisagui) - [LisaGUI](https://lisagui.com/)
 * [2025-09-09, 20:24:10](https://lobste.rs/s/pf12ga/i_don_t_want_ai_agents_controlling_my) - [I don’t want AI agents controlling my laptop](https://sophiebits.com/2025/09/09/ai-agents-security)
 * [2025-09-09, 20:17:32](https://lobste.rs/s/zmwje4/bloat_edge_case_first_libraries) - [The bloat of edge-case first libraries](https://43081j.com/2025/09/bloat-of-edge-case-libraries)
-* [2025-09-09, 18:29:51](https://lobste.rs/s/wlyzqn/memory_integrity_enforcement_complete) - [Memory Integrity Enforcement: A complete vision for memory safety in Apple devices](https://security.apple.com/blog/memory-integrity-enforcement/)
 * [2025-09-09, 16:27:25](https://lobste.rs/s/h4j1vk/formatting_code_should_be_unnecessary) - [Formatting code should be unnecessary](https://maxleiter.com/blog/formatting)
 * [2025-09-09, 16:11:39](https://lobste.rs/s/ukpdhb/new_experimental_go_api_for_json) - [A new experimental Go API for JSON](https://go.dev/blog/jsonv2-exp)
 * [2025-09-09, 15:37:56](https://lobste.rs/s/xcbjqt/rich_already_answered) - [Rich Already Answered That](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f)
