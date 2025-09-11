@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-09-11, 11:05:01",
+      "https://lobste.rs/s/froexx/how_tz_database_works"
+    ],
+    [
+      "How the tz database works",
+      "https://yatsushi.com/blog/tz-database/"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 10:30:12",
       "https://lobste.rs/s/76687g/first_class_merges_cover_letters"
     ],
@@ -217,16 +227,6 @@
     [
       "Unicode 17.0 Release Announcement",
       "http://blog.unicode.org/2025/09/unicode-170-release-announcement.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 15:43:25",
-      "https://lobste.rs/s/h6peie/origin_story_merge_queues"
-    ],
-    [
-      "The Origin Story of Merge Queues",
-      "https://mergify.com/blog/the-origin-story-of-merge-queues"
     ]
   ],
   [
