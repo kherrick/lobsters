@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-11, 20:17:42",
+      "https://lobste.rs/s/ogfetg/httpjail_monitor_restrict_http_https"
+    ],
+    [
+      "httpjail: monitor and restrict HTTP/HTTPS requests from processes",
+      "https://github.com/coder/httpjail"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 19:18:16",
       "https://lobste.rs/s/fzzobp/jetzig_web_framework_for_zig"
     ],
@@ -87,16 +97,6 @@
     [
       "Racintosh Plus",
       "http://www.identity4.com/2025-racintosh-plus/"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 14:39:51",
-      "https://lobste.rs/s/q6qqvb/network_storage_benchmarks_for_llm"
-    ],
-    [
-      "Network and Storage Benchmarks for LLM Training on the Cloud",
-      "https://maknee.github.io/blog/2025/Network-And-Storage-Training-Skypilot/"
     ]
   ],
   [
