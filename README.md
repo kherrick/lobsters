@@ -12,6 +12,7 @@
 * [2025-09-11, 15:23:32](https://lobste.rs/s/fetpnl/humanely_dealing_with_humungus_crawlers) - [humanely dealing with humungus crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 * [2025-09-11, 14:40:48](https://lobste.rs/s/jyncoa/racintosh_plus) - [Racintosh Plus](http://www.identity4.com/2025-racintosh-plus/)
 * [2025-09-11, 12:38:09](https://lobste.rs/s/0pkut7/behind_scenes_bun_install) - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
+* [2025-09-11, 11:05:01](https://lobste.rs/s/froexx/how_tz_database_works) - [How the tz database works](https://yatsushi.com/blog/tz-database/)
 * [2025-09-11, 10:30:12](https://lobste.rs/s/76687g/first_class_merges_cover_letters) - [First-class merges and cover letters](https://dotat.at/@/2025-09-11-cover-letter.html)
 * [2025-09-11, 08:00:34](https://lobste.rs/s/a17fsv/pgedge_goes_open_source) - [pgEdge goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source)
 * [2025-09-11, 06:18:58](https://lobste.rs/s/lk9z2f/read_only_guest_tmux_sessions_2013) - [Read-only Guest tmux Sessions (2013)](https://brianmckenna.org/blog/guest_tmux)
@@ -22,7 +23,6 @@
 * [2025-09-10, 18:55:20](https://lobste.rs/s/8zubqs/arm_is_great_arm_is_terrible_so_is_risc_v) - [ARM is great, ARM is terrible (and so is RISC-V)](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
 * [2025-09-10, 18:39:13](https://lobste.rs/s/jhrpwk/raku) - [Raku](https://raku.org/)
 * [2025-09-10, 16:50:10](https://lobste.rs/s/4nqzhv/unicode_17_0_release_announcement) - [Unicode 17.0 Release Announcement](http://blog.unicode.org/2025/09/unicode-170-release-announcement.html)
-* [2025-09-10, 15:43:25](https://lobste.rs/s/h6peie/origin_story_merge_queues) - [The Origin Story of Merge Queues](https://mergify.com/blog/the-origin-story-of-merge-queues)
 * [2025-09-10, 14:46:21](https://lobste.rs/s/8ubfdd/many_hard_leetcode_problems_are_easy) - [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 * [2025-09-10, 13:14:01](https://lobste.rs/s/55khpr/kerberoasting) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 
