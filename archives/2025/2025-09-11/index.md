@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 14:52:12](https://lobste.rs/s/nnabcg/introducing_nanonext_breaking_down) - [Introducing nanonext: breaking down language barriers in data science](https://www.tidyverse.org/blog/2025/09/nanonext-1-7-0/)
 * [2025-09-11, 14:40:48](https://lobste.rs/s/jyncoa/racintosh_plus) - [Racintosh Plus](http://www.identity4.com/2025-racintosh-plus/)
 * [2025-09-11, 14:39:51](https://lobste.rs/s/q6qqvb/network_storage_benchmarks_for_llm) - [Network and Storage Benchmarks for LLM Training on the Cloud](https://maknee.github.io/blog/2025/Network-And-Storage-Training-Skypilot/)
 * [2025-09-11, 12:38:09](https://lobste.rs/s/0pkut7/behind_scenes_bun_install) - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
