@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-11, 21:04:14",
+      "https://lobste.rs/s/5hm33t/clojure_view_mars_rover"
+    ],
+    [
+      "A Clojure view of \"Mars Rover\"",
+      "https://www.evalapply.org/posts/clojure-mars-rover/index.html"
+    ]
+  ],
+  [
+    [
       "2025-09-11, 20:17:42",
       "https://lobste.rs/s/ogfetg/httpjail_monitor_restrict_http_https"
     ],
@@ -127,16 +137,6 @@
     [
       "pgEdge goes Open Source",
       "https://www.pgedge.com/blog/pgedge-goes-open-source"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 06:21:10",
-      "https://lobste.rs/s/a5bsen/rfc_ripple_llvm_compiler_interpreted_api"
-    ],
-    [
-      "[RFC] Ripple: An LLVM compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets",
-      "https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241"
     ]
   ],
   [
