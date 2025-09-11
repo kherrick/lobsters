@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-11, 17:49:47](https://lobste.rs/s/kxwik9/ann_doom_ada_doom_emacs_ada_language) - [ANN: doom-ada: Doom Emacs Ada language module with syntax highlighting, LSP and Alire support](https://github.com/tomekw/doom-ada)
 * [2025-09-11, 15:59:17](https://lobste.rs/s/jblawy/program_verification_is_not_all_nothing) - [Program verification is not all-or-nothing](https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html)
 * [2025-09-11, 15:44:55](https://lobste.rs/s/oettja/new_case_for_elixir) - [A New Case for Elixir](https://www.youtube.com/watch?v=Q34e3jLWYLU)
 * [2025-09-11, 15:36:11](https://lobste.rs/s/kxaslm/defeating_nondeterminism_llm_inference) - [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
@@ -24,7 +25,6 @@
 * [2025-09-10, 13:31:55](https://lobste.rs/s/duh6vr/jep_401_value_classes_objects_preview) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
 * [2025-09-10, 13:14:01](https://lobste.rs/s/55khpr/kerberoasting) - [Kerberoasting](https://blog.cryptographyengineering.com/2025/09/10/kerberoasting/)
 * [2025-09-10, 09:32:19](https://lobste.rs/s/gjqkbw/love_letter_csv_format_2024) - [A love letter to the CSV format (2024)](https://medialab.sciencespo.fr/en/news/a-love-letter-to-the-csv-format/)
-* [2025-09-09, 13:20:30](https://lobste.rs/s/9m1tto/term_everything_run_any_gui_app_terminal) - [term.everything: Run any GUI app in the terminal](https://github.com/mmulet/term.everything)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 17:49:47](https://lobste.rs/s/kxwik9/ann_doom_ada_doom_emacs_ada_language) - [ANN: doom-ada: Doom Emacs Ada language module with syntax highlighting, LSP and Alire support](https://github.com/tomekw/doom-ada)
 * [2025-09-11, 15:59:17](https://lobste.rs/s/jblawy/program_verification_is_not_all_nothing) - [Program verification is not all-or-nothing](https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html)
 * [2025-09-11, 15:44:55](https://lobste.rs/s/oettja/new_case_for_elixir) - [A New Case for Elixir](https://www.youtube.com/watch?v=Q34e3jLWYLU)
 * [2025-09-11, 15:44:55](https://lobste.rs/s/oettja/keynote_new_case_for_elixir_bruce_tate) - [Keynote: A New Case for Elixir - Bruce Tate and Josh Price | ElixirConf US 2025](https://www.youtube.com/watch?v=Q34e3jLWYLU&t=1238s)
