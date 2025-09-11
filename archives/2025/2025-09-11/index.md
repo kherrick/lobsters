@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-11](index.md)
 
+* [2025-09-11, 10:30:12](https://lobste.rs/s/76687g/first_class_merges_cover_letters) - [First-class merges and cover letters](https://dotat.at/@/2025-09-11-cover-letter.html)
+* [2025-09-11, 10:23:27](https://lobste.rs/s/ujfy7h/slatedb_embedded_database_built_on) - [SlateDB: An embedded database built on object storage](https://slatedb.io/)
 * [2025-09-11, 08:00:34](https://lobste.rs/s/a17fsv/pgedge_goes_open_source) - [pgEdge goes Open Source](https://www.pgedge.com/blog/pgedge-goes-open-source)
 * [2025-09-11, 06:21:10](https://lobste.rs/s/a5bsen/rfc_ripple_llvm_compiler_interpreted_api) - [[RFC] Ripple: An LLVM compiler-interpreted API to support SPMD and loop annotation programming for SIMD targets](https://discourse.llvm.org/t/rfc-ripple-a-compiler-interpreted-api-to-support-spmd-and-loop-annotation-programming-for-simd-targets/88241)
 * [2025-09-11, 06:18:58](https://lobste.rs/s/lk9z2f/read_only_guest_tmux_sessions) - [Read-only Guest tmux Sessions](https://brianmckenna.org/blog/guest_tmux)
