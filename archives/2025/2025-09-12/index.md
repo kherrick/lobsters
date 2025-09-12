@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 12:38:29](https://lobste.rs/s/2remdu/classic_gtk1_gui_library_for_windows) - [Classic GTK1 GUI Library for Windows, Linux and MacOS](https://gitlab.com/robinrowe/gtk1)
 * [2025-09-12, 12:21:45](https://lobste.rs/s/2rjqaf/asts_with_fix_free) - [ASTs with Fix and Free](https://chrispenner.ca/posts/asts-with-fix-and-free)
 * [2025-09-12, 12:17:28](https://lobste.rs/s/xdrwl3/improving_state_machine_code_generation) - [Improving state machine code generation](https://trifectatech.org/blog/improving-state-machine-code-generation/)
 * [2025-09-12, 11:02:37](https://lobste.rs/s/j0genk/debian_upgrade_marathon_3_1_sarge) - [Debian Upgrade Marathon: 3.1 Sarge](https://wrongthink.link/posts/debian-upgrade-marathon-sarge/)
