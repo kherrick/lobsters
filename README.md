@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-12, 13:25:14](https://lobste.rs/s/wummoj/lessons_disabling_rc4_active_directory) - [Lessons in Disabling RC4 in Active Directory](https://syfuhs.net/lessons-in-disabling-rc4-in-active-directory)
 * [2025-09-12, 12:38:29](https://lobste.rs/s/2remdu/classic_gtk1_gui_library_for_windows) - [Classic GTK1 GUI Library for Windows, Linux and MacOS](https://gitlab.com/robinrowe/gtk1)
+* [2025-09-12, 12:34:33](https://lobste.rs/s/hqweys/links_glfmn_io) - [links ~ glfmn.io](https://glfmn.io/links/)
 * [2025-09-12, 12:17:28](https://lobste.rs/s/xdrwl3/improving_state_machine_code_generation) - [Improving state machine code generation](https://trifectatech.org/blog/improving-state-machine-code-generation/)
 * [2025-09-12, 10:48:46](https://lobste.rs/s/hm0hgr/evolution_logical_replication) - [The Evolution of Logical Replication in PostgreSQL: A Firsthand Account](https://www.enterprisedb.com/blog/evolution-logical-replication-postgresql-firsthand-account)
 * [2025-09-12, 09:22:22](https://lobste.rs/s/hkopmb/logging_go_with_slog_practitioner_s_guide) - [Logging in Go with Slog: A Practitioner's Guide](https://www.dash0.com/guides/logging-in-go-with-slog)
