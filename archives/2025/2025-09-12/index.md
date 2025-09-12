@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 13:39:15](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have) - [Fun Friday Question: What Easter Eggs have you Found or Made?](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have)
 * [2025-09-12, 13:25:14](https://lobste.rs/s/wummoj/lessons_disabling_rc4_active_directory) - [Lessons in Disabling RC4 in Active Directory](https://syfuhs.net/lessons-in-disabling-rc4-in-active-directory)
 * [2025-09-12, 12:38:29](https://lobste.rs/s/2remdu/classic_gtk1_gui_library_for_windows) - [Classic GTK1 GUI Library for Windows, Linux and MacOS](https://gitlab.com/robinrowe/gtk1)
 * [2025-09-12, 12:34:33](https://lobste.rs/s/hqweys/links_glfmn_io) - [links ~ glfmn.io](https://glfmn.io/links/)
