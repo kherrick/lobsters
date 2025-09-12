@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-12, 14:54:24](https://lobste.rs/s/exbkdt/oq_terminal_openapi_spec_viewer) - [oq: Terminal OpenAPI Spec viewer](https://github.com/plutov/oq)
 * [2025-09-12, 13:39:15](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have) - [Fun Friday Question: What Easter Eggs have you Found or Made?](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have)
+* [2025-09-12, 13:19:19](https://lobste.rs/s/p9abfj/debian_13_postgres_us_time_zones) - [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-12, 12:38:29](https://lobste.rs/s/2remdu/classic_gtk1_gui_library_for_windows) - [Classic GTK1 GUI Library for Windows, Linux and MacOS](https://gitlab.com/robinrowe/gtk1)
-* [2025-09-12, 12:34:33](https://lobste.rs/s/hqweys/links_glfmn_io) - [links ~ glfmn.io](https://glfmn.io/links/)
 * [2025-09-12, 12:17:28](https://lobste.rs/s/xdrwl3/improving_state_machine_code_generation) - [Improving state machine code generation](https://trifectatech.org/blog/improving-state-machine-code-generation/)
 * [2025-09-12, 10:48:46](https://lobste.rs/s/hm0hgr/evolution_logical_replication) - [The Evolution of Logical Replication in PostgreSQL: A Firsthand Account](https://www.enterprisedb.com/blog/evolution-logical-replication-postgresql-firsthand-account)
 * [2025-09-12, 09:22:22](https://lobste.rs/s/hkopmb/logging_go_with_slog_practitioner_s_guide) - [Logging in Go with Slog: A Practitioner's Guide](https://www.dash0.com/guides/logging-in-go-with-slog)
@@ -23,7 +24,6 @@
 * [2025-09-11, 14:40:48](https://lobste.rs/s/jyncoa/racintosh_plus) - [Racintosh Plus](http://www.identity4.com/2025-racintosh-plus/)
 * [2025-09-11, 12:38:09](https://lobste.rs/s/0pkut7/behind_scenes_bun_install) - [Behind The Scenes of Bun Install](https://bun.com/blog/behind-the-scenes-of-bun-install)
 * [2025-09-11, 10:30:12](https://lobste.rs/s/76687g/first_class_merges_cover_letters) - [First-class merges and cover letters](https://dotat.at/@/2025-09-11-cover-letter.html)
-* [2025-09-11, 05:09:10](https://lobste.rs/s/vvktr7/stop_outsourcing_thinking) - [Stop Outsourcing Thinking](https://vaibhawvipul.github.io/2025/09/10/Stop-outsourcing-thinking.html)
 * [2025-09-10, 14:46:21](https://lobste.rs/s/8ubfdd/many_hard_leetcode_problems_are_easy) - [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 
 ## [Archives](archives/index.md)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 14:54:24](https://lobste.rs/s/exbkdt/oq_terminal_openapi_spec_viewer) - [oq: Terminal OpenAPI Spec viewer](https://github.com/plutov/oq)
 * [2025-09-12, 13:39:15](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have) - [Fun Friday Question: What Easter Eggs have you Found or Made?](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have)
 * [2025-09-12, 13:25:14](https://lobste.rs/s/wummoj/lessons_disabling_rc4_active_directory) - [Lessons in Disabling RC4 in Active Directory](https://syfuhs.net/lessons-in-disabling-rc4-in-active-directory)
+* [2025-09-12, 13:19:19](https://lobste.rs/s/p9abfj/debian_13_postgres_us_time_zones) - [Debian 13, Postgres, and the US/* time zones](https://rachelbythebay.com/w/2025/09/11/debtz/)
 * [2025-09-12, 12:38:29](https://lobste.rs/s/2remdu/classic_gtk1_gui_library_for_windows) - [Classic GTK1 GUI Library for Windows, Linux and MacOS](https://gitlab.com/robinrowe/gtk1)
 * [2025-09-12, 12:34:33](https://lobste.rs/s/hqweys/links_glfmn_io) - [links ~ glfmn.io](https://glfmn.io/links/)
 * [2025-09-12, 12:21:45](https://lobste.rs/s/2rjqaf/asts_with_fix_free) - [ASTs with Fix and Free](https://chrispenner.ca/posts/asts-with-fix-and-free)
