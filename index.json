@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-12, 05:53:21",
+      "https://lobste.rs/s/e11va1/vmscape_exposing_exploiting_incomplete"
+    ],
+    [
+      "VMScape: Exposing and Exploiting Incomplete Branch Predictor Isolation in Cloud Environments",
+      "https://comsec.ethz.ch/research/microarch/vmscape-exposing-and-exploiting-incomplete-branch-predictor-isolation-in-cloud-environments/"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 04:53:18",
       "https://lobste.rs/s/mftjsk/positive_lambda"
     ],
@@ -147,16 +157,6 @@
     [
       "First-class merges and cover letters",
       "https://dotat.at/@/2025-09-11-cover-letter.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-11, 08:00:34",
-      "https://lobste.rs/s/a17fsv/pgedge_goes_open_source"
-    ],
-    [
-      "pgEdge goes Open Source",
-      "https://www.pgedge.com/blog/pgedge-goes-open-source"
     ]
   ],
   [
