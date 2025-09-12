@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-12, 23:01:42](https://lobste.rs/s/ifdi6q/tips_for_installing_windows_98_qemu_utm) - [Tips for installing Windows 98 in QEMU/UTM](https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/)
 * [2025-09-12, 19:10:28](https://lobste.rs/s/j4zqc7/grimoire_css_flexible_utility_class_tool) - [Grimoire CSS - flexible utility class tool](https://grimoirecss.com/)
 * [2025-09-12, 17:55:54](https://lobste.rs/s/t3wns0/what_happens_after_i_m_gone_future_online) - [What Happens After I'm Gone? The Future of the Online Me](https://btxx.org/posts/planning-ahead/)
 * [2025-09-12, 16:37:00](https://lobste.rs/s/5p6h8u/from_19k_4_2m_events_sec_story_sqlite_query) - [From 19k to 4.2M events/sec: story of a SQLite query optimisation](https://mnt.io/articles/from-19k-to-4-2m-events-per-sec-story-of-a-sqlite-query-optimisation/)
@@ -22,7 +23,6 @@
 * [2025-09-11, 20:17:42](https://lobste.rs/s/ogfetg/httpjail_monitor_restrict_http_https) - [httpjail: monitor and restrict HTTP/HTTPS requests from processes](https://github.com/coder/httpjail)
 * [2025-09-11, 19:18:16](https://lobste.rs/s/fzzobp/jetzig_web_framework_for_zig) - [Jetzig Web Framework for Zig](https://www.jetzig.dev)
 * [2025-09-11, 17:06:47](https://lobste.rs/s/fxyvwf/kefir_0_5_0_release_announcement_c17_c23) - [Kefir 0.5.0 Release Announcement (C17/C23 compiler)](https://kefir.protopopov.lv/posts/announce0.html)
-* [2025-09-11, 15:59:17](https://lobste.rs/s/jblawy/program_verification_is_not_all_nothing) - [Program verification is not all-or-nothing](https://lawrencecpaulson.github.io/2025/09/05/All_or_nothing.html)
 * [2025-09-11, 15:23:32](https://lobste.rs/s/fetpnl/humanely_dealing_with_humungus_crawlers) - [humanely dealing with humungus crawlers](https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers)
 * [2025-09-11, 10:30:12](https://lobste.rs/s/76687g/first_class_merges_cover_letters) - [First-class merges and cover letters](https://dotat.at/@/2025-09-11-cover-letter.html)
 
