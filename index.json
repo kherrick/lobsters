@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-12, 10:48:46",
+      "https://lobste.rs/s/hm0hgr/evolution_logical_replication"
+    ],
+    [
+      "The Evolution of Logical Replication in PostgreSQL: A Firsthand Account",
+      "https://www.enterprisedb.com/blog/evolution-logical-replication-postgresql-firsthand-account"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 09:22:22",
       "https://lobste.rs/s/hkopmb/logging_go_with_slog_practitioner_s_guide"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop Outsourcing Thinking",
       "https://vaibhawvipul.github.io/2025/09/10/Stop-outsourcing-thinking.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-10, 18:39:13",
-      "https://lobste.rs/s/jhrpwk/raku"
-    ],
-    [
-      "Raku",
-      "https://raku.org/"
     ]
   ],
   [
