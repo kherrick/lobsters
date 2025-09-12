@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-12, 08:14:40](https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend)
+* [2025-09-12, 08:02:20](https://lobste.rs/s/7aer4y/emacs_wants_you_extend_it_sorting_my) - [Emacs Wants You to Extend It: Sorting My Reading List](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 06:20:47](https://lobste.rs/s/fwx06s/fatnums_alternate_representation_for) - [FatNums: An Alternate Representation for School Arithmetic (2020)](https://parentheticallyspeaking.org/articles/fat-nums/)
 * [2025-09-12, 06:08:36](https://lobste.rs/s/52ctm4/program_inversions_reorder_code_1977) - [Program Inversions to Reorder Code (1977)](https://minds.wisconsin.edu/handle/1793/58028)
 * [2025-09-12, 05:53:21](https://lobste.rs/s/e11va1/vmscape_exposing_exploiting_incomplete) - [VMScape: Exposing and Exploiting Incomplete Branch Predictor Isolation in Cloud Environments](https://comsec.ethz.ch/research/microarch/vmscape-exposing-and-exploiting-incomplete-branch-predictor-isolation-in-cloud-environments/)
@@ -21,8 +23,6 @@
 * [2025-09-11, 06:18:58](https://lobste.rs/s/lk9z2f/read_only_guest_tmux_sessions_2013) - [Read-only Guest tmux Sessions (2013)](https://brianmckenna.org/blog/guest_tmux)
 * [2025-09-11, 05:09:10](https://lobste.rs/s/vvktr7/stop_outsourcing_thinking) - [Stop Outsourcing Thinking](https://vaibhawvipul.github.io/2025/09/10/Stop-outsourcing-thinking.html)
 * [2025-09-11, 03:06:08](https://lobste.rs/s/eaewzd/rust_compiler_performance_survey_2025) - [Rust compiler performance survey 2025 results](https://blog.rust-lang.org/2025/09/10/rust-compiler-performance-survey-2025-results/)
-* [2025-09-11, 02:21:30](https://lobste.rs/s/9rg06t/pay_per_output_ai_firms_blindsided_by) - [Pay-per-output? AI firms blindsided by beefed up robots.txt instructions](https://arstechnica.com/tech-policy/2025/09/pay-per-output-ai-firms-blindsided-by-beefed-up-robots-txt-instructions/)
-* [2025-09-10, 18:55:20](https://lobste.rs/s/8zubqs/arm_is_great_arm_is_terrible_so_is_risc_v) - [ARM is great, ARM is terrible (and so is RISC-V)](https://changelog.complete.org/archives/10858-arm-is-great-arm-is-terrible-and-so-is-risc-v)
 * [2025-09-10, 18:39:13](https://lobste.rs/s/jhrpwk/raku) - [Raku](https://raku.org/)
 * [2025-09-10, 14:46:21](https://lobste.rs/s/8ubfdd/many_hard_leetcode_problems_are_easy) - [Many Hard Leetcode Problems are Easy Constraint Problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 
