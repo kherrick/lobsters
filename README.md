@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-12, 19:10:28](https://lobste.rs/s/j4zqc7/grimoire_css_flexible_utility_class_tool) - [Grimoire CSS - flexible utility class tool](https://grimoirecss.com/)
 * [2025-09-12, 17:55:54](https://lobste.rs/s/t3wns0/what_happens_after_i_m_gone_future_online) - [What Happens After I'm Gone? The Future of the Online Me](https://btxx.org/posts/planning-ahead/)
 * [2025-09-12, 16:37:00](https://lobste.rs/s/5p6h8u/from_19k_4_2m_events_sec_story_sqlite_query) - [From 19k to 4.2M events/sec: story of a SQLite query optimisation](https://mnt.io/articles/from-19k-to-4-2m-events-per-sec-story-of-a-sqlite-query-optimisation/)
 * [2025-09-12, 16:12:28](https://lobste.rs/s/fb75eb/open_edison_mcp_gateway_block_simon) - [open-edison: An MCP Gateway to block Simon Willison's Lethal Trifecta](https://github.com/Edison-Watch/open-edison)
@@ -13,7 +14,6 @@
 * [2025-09-12, 12:17:28](https://lobste.rs/s/xdrwl3/improving_state_machine_code_generation) - [Improving state machine code generation](https://trifectatech.org/blog/improving-state-machine-code-generation/)
 * [2025-09-12, 09:22:22](https://lobste.rs/s/hkopmb/logging_go_with_slog_practitioner_s_guide) - [Logging in Go with Slog: A Practitioner's Guide](https://www.dash0.com/guides/logging-in-go-with-slog)
 * [2025-09-12, 08:55:06](https://lobste.rs/s/t6n1rs/really_simple_licensing) - [Really Simple Licensing](https://rslstandard.org/)
-* [2025-09-12, 08:22:06](https://lobste.rs/s/ax6avy/learning_use_goland) - [Learning to use GoLand](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)
 * [2025-09-12, 08:14:40](https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend)
 * [2025-09-12, 08:02:20](https://lobste.rs/s/7aer4y/emacs_wants_you_extend_it_sorting_my) - [Emacs Wants You to Extend It: Sorting My Reading List](https://edoput.it/2025/04/16/emacs-paradigm-shift.html)
 * [2025-09-12, 06:20:47](https://lobste.rs/s/fwx06s/fatnums_alternate_representation_for) - [FatNums: An Alternate Representation for School Arithmetic (2020)](https://parentheticallyspeaking.org/articles/fat-nums/)
