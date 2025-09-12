@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-12](index.md)
 
+* [2025-09-12, 09:22:22](https://lobste.rs/s/hkopmb/logging_go_with_slog_practitioner_s_guide) - [Logging in Go with Slog: A Practitioner's Guide](https://www.dash0.com/guides/logging-in-go-with-slog)
 * [2025-09-12, 08:55:06](https://lobste.rs/s/t6n1rs/really_simple_licensing) - [Really Simple Licensing](https://rslstandard.org/)
 * [2025-09-12, 08:22:06](https://lobste.rs/s/ax6avy/learning_use_goland) - [Learning to use GoLand](https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/)
 * [2025-09-12, 08:14:40](https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend)
