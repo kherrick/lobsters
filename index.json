@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-12, 08:22:06",
+      "https://lobste.rs/s/ax6avy/learning_use_goland"
+    ],
+    [
+      "Learning to use GoLand",
+      "https://blog.jetbrains.com/go/2025/09/08/goland-can-do-that-ten-secret-superpowers-you-might-not-know/"
+    ]
+  ],
+  [
+    [
       "2025-09-12, 08:14:40",
       "https://lobste.rs/s/gcygu7/what_are_you_doing_this_weekend"
     ],
@@ -37,16 +47,6 @@
     [
       "Program Inversions to Reorder Code (1977)",
       "https://minds.wisconsin.edu/handle/1793/58028"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 05:53:21",
-      "https://lobste.rs/s/e11va1/vmscape_exposing_exploiting_incomplete"
-    ],
-    [
-      "VMScape: Exposing and Exploiting Incomplete Branch Predictor Isolation in Cloud Environments",
-      "https://comsec.ethz.ch/research/microarch/vmscape-exposing-and-exploiting-incomplete-branch-predictor-isolation-in-cloud-environments/"
     ]
   ],
   [
