@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 17:52:39](https://lobste.rs/s/gbigsc/learning_fuzz_with_libafl_by_solving) - [Learning to fuzz with LibAFL by solving puzzles](https://github.com/addisoncrump/parking-game-fuzzer)
+* [2025-09-13, 17:48:27](https://lobste.rs/s/hgizrb/fast_php_toolchain_written_rust) - [A fast PHP toolchain written in Rust](https://github.com/carthage-software/mago)
 * [2025-09-13, 17:29:28](https://lobste.rs/s/6wzply/tebako_cross_platform_self_contained) - [Tebako: cross-platform, self-contained executables](https://www.tebako.org/)
 * [2025-09-13, 17:26:08](https://lobste.rs/s/wrhmk9/trusting_builds_with_bazel_remote) - [Trusting builds with Bazel remote execution](https://blogsystem5.substack.com/p/bazel-remote-execution)
 * [2025-09-13, 16:46:35](https://lobste.rs/s/z4yell/internet_coup) - [The Internet Coup](https://interseclab.org/research/the-internet-coup/)
