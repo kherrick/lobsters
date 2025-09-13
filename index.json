@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-13, 14:44:24",
+      "https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive"
+    ],
+    [
+      "Setsum – order agnostic, additive, subtractive checksum",
+      "https://avi.im/blag/2025/setsum"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 14:22:32",
       "https://lobste.rs/s/i4mslh/my_first_cve"
     ],
@@ -237,16 +247,6 @@
     [
       "Improving state machine code generation",
       "https://trifectatech.org/blog/improving-state-machine-code-generation/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 06:20:47",
-      "https://lobste.rs/s/fwx06s/fatnums_alternate_representation_for"
-    ],
-    [
-      "FatNums: An Alternate Representation for School Arithmetic (2020)",
-      "https://parentheticallyspeaking.org/articles/fat-nums/"
     ]
   ]
 ]
