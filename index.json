@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-13, 14:22:32",
+      "https://lobste.rs/s/i4mslh/my_first_cve"
+    ],
+    [
+      "My first CVE",
+      "https://natkr.com/2025-09-13-my-first-cve/"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 13:31:20",
       "https://lobste.rs/s/ltzzin/pgschema_terraform_style_declarative"
     ],
@@ -227,16 +237,6 @@
     [
       "Improving state machine code generation",
       "https://trifectatech.org/blog/improving-state-machine-code-generation/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 09:22:22",
-      "https://lobste.rs/s/hkopmb/logging_go_with_slog_practitioner_s_guide"
-    ],
-    [
-      "Logging in Go with Slog: A Practitioner's Guide",
-      "https://www.dash0.com/guides/logging-in-go-with-slog"
     ]
   ],
   [
