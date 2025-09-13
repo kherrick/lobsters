@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-13, 14:59:33",
+      "https://lobste.rs/s/aiataw/link_graveyard_snapshot_my_abandoned"
+    ],
+    [
+      "Link Graveyard: A snapshot of my abandoned browser tabs",
+      "https://timkellogg.me/blog/2025/09/13/link-graveyard"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 14:44:24",
       "https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive"
     ],
@@ -17,16 +27,6 @@
     [
       "My first CVE",
       "https://natkr.com/2025-09-13-my-first-cve/"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 13:31:20",
-      "https://lobste.rs/s/ltzzin/pgschema_terraform_style_declarative"
-    ],
-    [
-      "pgschema: Terraform-style, declarative schema migration for Postgres",
-      "https://github.com/pgschema/pgschema"
     ]
   ],
   [
