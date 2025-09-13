@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-13, 15:08:28",
+      "https://lobste.rs/s/tranme/flow_control_programmer_s_text_editor"
+    ],
+    [
+      "Flow Control: a programmer's text editor",
+      "https://github.com/neurocyte/flow"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 14:59:33",
       "https://lobste.rs/s/aiataw/link_graveyard_snapshot_my_abandoned"
     ],
@@ -237,16 +247,6 @@
     [
       "Classic GTK1 GUI Library for Windows, Linux and MacOS",
       "https://gitlab.com/robinrowe/gtk1"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 12:17:28",
-      "https://lobste.rs/s/xdrwl3/improving_state_machine_code_generation"
-    ],
-    [
-      "Improving state machine code generation",
-      "https://trifectatech.org/blog/improving-state-machine-code-generation/"
     ]
   ]
 ]
