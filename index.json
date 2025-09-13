@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-09-13, 13:31:20",
+      "https://lobste.rs/s/ltzzin/pgschema_terraform_style_declarative"
+    ],
+    [
+      "pgschema: Terraform-style, declarative schema migration for Postgres",
+      "https://github.com/pgschema/pgschema"
+    ]
+  ],
+  [
+    [
       "2025-09-13, 12:57:36",
       "https://lobste.rs/s/xinll3/safe_c_proposal_is_not_being_continued"
     ],
@@ -187,16 +197,6 @@
     [
       "What Happens After I'm Gone? The Future of the Online Me",
       "https://btxx.org/posts/planning-ahead/"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 16:37:00",
-      "https://lobste.rs/s/5p6h8u/from_19k_4_2m_events_sec_story_sqlite_query"
-    ],
-    [
-      "From 19k to 4.2M events/sec: story of a SQLite query optimisation",
-      "https://mnt.io/articles/from-19k-to-4-2m-events-per-sec-story-of-a-sqlite-query-optimisation/"
     ]
   ],
   [
