@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 23:13:06](https://lobste.rs/s/lmdyti/pass_unix_password_manager) - [Pass: Unix Password Manager](https://www.passwordstore.org/)
 * [2025-09-13, 21:38:39](https://lobste.rs/s/i07o8h/normal_order_syntax_rules_proving_fix) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
 * [2025-09-13, 20:53:05](https://lobste.rs/s/5mwi0c/text_files_complex_tools_minimalist) - [Text Files > Complex Tools: A Minimalist Snippet Manager](https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html)
 * [2025-09-13, 19:03:48](https://lobste.rs/s/vjgucr/rip_pthread_cancel) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
