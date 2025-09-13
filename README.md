@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-13, 16:46:35](https://lobste.rs/s/z4yell/internet_coup) - [The Internet Coup](https://interseclab.org/research/the-internet-coup/)
 * [2025-09-13, 15:08:28](https://lobste.rs/s/tranme/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://github.com/neurocyte/flow)
 * [2025-09-13, 14:59:33](https://lobste.rs/s/aiataw/link_graveyard_snapshot_my_abandoned) - [Link Graveyard: A snapshot of my abandoned browser tabs](https://timkellogg.me/blog/2025/09/13/link-graveyard)
 * [2025-09-13, 14:44:24](https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive) - [Setsum – order agnostic, additive, subtractive checksum](https://avi.im/blag/2025/setsum)
@@ -19,7 +20,6 @@
 * [2025-09-12, 19:10:28](https://lobste.rs/s/j4zqc7/grimoire_css_flexible_utility_class_tool) - [Grimoire CSS - flexible utility class tool](https://grimoirecss.com/)
 * [2025-09-12, 17:55:54](https://lobste.rs/s/t3wns0/what_happens_after_i_m_gone_future_online) - [What Happens After I'm Gone? The Future of the Online Me](https://btxx.org/posts/planning-ahead/)
 * [2025-09-12, 16:37:00](https://lobste.rs/s/5p6h8u/from_19k_4_2m_events_sec_story_sqlite_query) - [From 19k to 4.2M events/sec: story of a SQLite query optimisation](https://mnt.io/articles/from-19k-to-4-2m-events-per-sec-story-of-a-sqlite-query-optimisation/)
-* [2025-09-12, 15:35:19](https://lobste.rs/s/bzzwb7/phishing_campaign_targeting_crates_io) - [Phishing campaign targeting crates.io users](https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/)
 * [2025-09-12, 15:14:05](https://lobste.rs/s/kltoas/lobsters_interview_with_susam) - [Lobsters Interview with Susam](https://lobste.rs/s/kltoas/lobsters_interview_with_susam)
 * [2025-09-12, 14:54:24](https://lobste.rs/s/exbkdt/oq_terminal_openapi_spec_viewer) - [oq: Terminal OpenAPI Spec viewer](https://github.com/plutov/oq)
 * [2025-09-12, 13:39:15](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have) - [Fun Friday Question: What Easter Eggs have you Found or Made?](https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have)
