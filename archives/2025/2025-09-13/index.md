@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 11:36:37](https://lobste.rs/s/wbjiws/weird_cpu_architectures_mov_only_cpu) - [Weird CPU architectures: the MOV only CPU](https://justanotherelectronicsblog.com/?p=771)
 * [2025-09-13, 10:50:29](https://lobste.rs/s/klmcs5/ai_coding) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 * [2025-09-13, 09:13:59](https://lobste.rs/s/mn2jkz/diesel_2_3_0) - [Diesel 2.3.0](https://diesel.rs/news/2_3_0_release.html)
 * [2025-09-13, 07:28:04](https://lobste.rs/s/cdux3g/africa_s_digital_reset_what_continental) - [AFRICA’S DIGITAL RESET: What the continental internet exchange means for businesses and digital freedom – Business Insider](https://businessinsider.co.tz/africas-digital-reset-what-the-continental-internet-exchange-means-for-businesses-and-digital-freedom/)
