@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 17:29:28](https://lobste.rs/s/6wzply/tebako_cross_platform_self_contained) - [Tebako: cross-platform, self-contained executables](https://www.tebako.org/)
 * [2025-09-13, 17:26:08](https://lobste.rs/s/wrhmk9/trusting_builds_with_bazel_remote) - [Trusting builds with Bazel remote execution](https://blogsystem5.substack.com/p/bazel-remote-execution)
 * [2025-09-13, 16:46:35](https://lobste.rs/s/z4yell/internet_coup) - [The Internet Coup](https://interseclab.org/research/the-internet-coup/)
 * [2025-09-13, 15:08:28](https://lobste.rs/s/tranme/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://github.com/neurocyte/flow)
