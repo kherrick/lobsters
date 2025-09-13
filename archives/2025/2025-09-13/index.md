@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-13](index.md)
 
+* [2025-09-13, 10:50:29](https://lobste.rs/s/klmcs5/ai_coding) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 * [2025-09-13, 09:13:59](https://lobste.rs/s/mn2jkz/diesel_2_3_0) - [Diesel 2.3.0](https://diesel.rs/news/2_3_0_release.html)
 * [2025-09-13, 07:28:04](https://lobste.rs/s/cdux3g/africa_s_digital_reset_what_continental) - [AFRICA’S DIGITAL RESET: What the continental internet exchange means for businesses and digital freedom – Business Insider](https://businessinsider.co.tz/africas-digital-reset-what-the-continental-internet-exchange-means-for-businesses-and-digital-freedom/)
 * [2025-09-13, 07:16:32](https://lobste.rs/s/e1vvkf/linux_6_17_fix_lands_address_regression) - [Linux 6.17 Fix Lands To Address Regression With \"Serious Breakage\" In Hibernation](https://www.phoronix.com/news/Linux-6.17-PM-Hibernation-FIxes)
