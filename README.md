@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-13, 21:38:39](https://lobste.rs/s/i07o8h/normal_order_syntax_rules_proving_fix) - [Normal-order syntax-rules and proving the fix-point of call/cc](https://okmij.org/ftp/Scheme/callcc-calc-page.html)
 * [2025-09-13, 20:53:05](https://lobste.rs/s/5mwi0c/text_files_complex_tools_minimalist) - [Text Files > Complex Tools: A Minimalist Snippet Manager](https://quarters.captaintouch.com/blog/posts/2025-09-13-text-files-%3E-complex-tools:-a-minimalist-snippet-manager.html)
 * [2025-09-13, 19:03:48](https://lobste.rs/s/vjgucr/rip_pthread_cancel) - [RIP pthread_cancel](https://eissing.org/icing/posts/rip_pthread_cancel/)
 * [2025-09-13, 17:52:39](https://lobste.rs/s/gbigsc/learning_fuzz_with_libafl_by_solving) - [Learning to fuzz with LibAFL by solving puzzles](https://github.com/addisoncrump/parking-game-fuzzer)
@@ -7,7 +8,6 @@
 * [2025-09-13, 17:26:08](https://lobste.rs/s/wrhmk9/trusting_builds_with_bazel_remote) - [Trusting builds with Bazel remote execution](https://blogsystem5.substack.com/p/bazel-remote-execution)
 * [2025-09-13, 16:46:35](https://lobste.rs/s/z4yell/internet_coup) - [The Internet Coup](https://interseclab.org/research/the-internet-coup/)
 * [2025-09-13, 15:08:28](https://lobste.rs/s/tranme/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://github.com/neurocyte/flow)
-* [2025-09-13, 14:59:33](https://lobste.rs/s/aiataw/link_graveyard_snapshot_my_abandoned) - [Link Graveyard: A snapshot of my abandoned browser tabs](https://timkellogg.me/blog/2025/09/13/link-graveyard)
 * [2025-09-13, 14:44:24](https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive) - [Setsum – order agnostic, additive, subtractive checksum](https://avi.im/blag/2025/setsum)
 * [2025-09-13, 14:22:32](https://lobste.rs/s/i4mslh/my_first_cve) - [My first CVE](https://natkr.com/2025-09-13-my-first-cve/)
 * [2025-09-13, 12:57:36](https://lobste.rs/s/xinll3/safe_c_proposal_is_not_being_continued) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
