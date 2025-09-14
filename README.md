@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-14, 21:28:23](https://lobste.rs/s/tztq7i/networking_for_system_administrators) - [Networking for System Administrators (2nd Edition)](https://www.kickstarter.com/projects/mwlucas/networking-for-system-administrators-2nd-edition/)
 * [2025-09-14, 20:35:21](https://lobste.rs/s/svxzek/driftdb_experimental_append_only) - [DriftDB: An experimental append-only database with built-in time travel](https://github.com/DavidLiedle/DriftDB)
 * [2025-09-14, 17:28:38](https://lobste.rs/s/yrtjug/unreasonable_effectiveness_modern_sort) - [The unreasonable effectiveness of modern sort algorithms](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/unreasonable/text.md)
 * [2025-09-14, 17:25:20](https://lobste.rs/s/4v5sqd/tag2upload_first_month_debian_forky) - [tag2upload in the first month of Debian forky](https://diziet.dreamwidth.org/20143.html)
@@ -23,7 +24,6 @@
 * [2025-09-13, 14:44:24](https://lobste.rs/s/rfneiu/setsum_order_agnostic_additive) - [Setsum – order agnostic, additive, subtractive checksum](https://avi.im/blag/2025/setsum)
 * [2025-09-13, 14:22:32](https://lobste.rs/s/i4mslh/my_first_cve) - [My first CVE](https://natkr.com/2025-09-13-my-first-cve/)
 * [2025-09-13, 12:57:36](https://lobste.rs/s/xinll3/safe_c_proposal_is_not_being_continued) - [Safe C++ proposal is not being continued](https://sibellavia.lol/posts/2025/09/safe-c-proposal-is-not-being-continued/)
-* [2025-09-13, 11:36:37](https://lobste.rs/s/wbjiws/weird_cpu_architectures_mov_only_cpu) - [Weird CPU architectures: the MOV only CPU](https://justanotherelectronicsblog.com/?p=771)
 * [2025-09-13, 10:50:29](https://lobste.rs/s/klmcs5/ai_coding) - [AI Coding](https://geohot.github.io//blog/jekyll/update/2025/09/12/ai-coding.html)
 
 ## [Archives](archives/index.md)
