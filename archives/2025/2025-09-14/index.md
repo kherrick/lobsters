@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-14](index.md)
 
+* [2025-09-14, 16:40:09](https://lobste.rs/s/6sig0s/on_security_ssh_client_signatures) - [On the Security of SSH Client Signatures](https://arxiv.org/abs/2509.09331)
 * [2025-09-14, 16:21:14](https://lobste.rs/s/bvg2mx/gleam_is_my_new_obsession) - [Gleam is my new obsession](https://ericcodes.io/blog/gleam-my-new-obsession.html)
 * [2025-09-14, 15:42:02](https://lobste.rs/s/aokjpu/writing_operating_system_kernel_from) - [Writing an operating system kernel from scratch](https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/)
 * [2025-09-14, 13:17:34](https://lobste.rs/s/dyezn4/motorola_intel_ibm_make_mainframe_pc_pc_xt) - [Motorola, Intel, IBM Make A Mainframe in a PC - The PC XT/370](https://thechipletter.substack.com/p/motorola-intel-ibm-make-a-mainframe)
