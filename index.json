@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-14, 21:43:24",
+      "https://lobste.rs/s/unnfbb/tsink_embedded_time_series_database_for"
+    ],
+    [
+      "tsink: Embedded time-series database for Rust",
+      "https://github.com/h2337/tsink"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 21:28:23",
       "https://lobste.rs/s/tztq7i/networking_for_system_administrators"
     ],
@@ -187,16 +197,6 @@
     [
       "A fast PHP toolchain written in Rust",
       "https://github.com/carthage-software/mago"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 16:46:35",
-      "https://lobste.rs/s/z4yell/internet_coup"
-    ],
-    [
-      "The Internet Coup",
-      "https://interseclab.org/research/the-internet-coup/"
     ]
   ],
   [
