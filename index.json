@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-14, 03:34:59",
+      "https://lobste.rs/s/kkqhue/few_notes_on_ratelimiting"
+    ],
+    [
+      "a few notes on ratelimiting",
+      "https://dotat.at/@/2025-09-14-ratelimit.html"
+    ]
+  ],
+  [
+    [
       "2025-09-14, 01:05:59",
       "https://lobste.rs/s/y8fio7/bsd_user_4_linux_project"
     ],
@@ -237,16 +247,6 @@
     [
       "Fun Friday Question: What Easter Eggs have you Found or Made?",
       "https://lobste.rs/s/eyjir3/fun_friday_question_what_easter_eggs_have"
-    ]
-  ],
-  [
-    [
-      "2025-09-12, 13:19:19",
-      "https://lobste.rs/s/p9abfj/debian_13_postgres_us_time_zones"
-    ],
-    [
-      "Debian 13, Postgres, and the US/* time zones",
-      "https://rachelbythebay.com/w/2025/09/11/debtz/"
     ]
   ]
 ]
