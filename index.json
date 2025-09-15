@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-15, 10:12:00",
+      "https://lobste.rs/s/jxprbr/algebraic_types_are_not_scary_actually"
+    ],
+    [
+      "Algebraic Types are not Scary, Actually",
+      "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 09:04:38",
       "https://lobste.rs/s/lq0now/org_social_preview_generator"
     ],
@@ -237,16 +247,6 @@
     [
       "Debian 12 installer promotes US/* time zones",
       "https://rachelbythebay.com/w/2025/09/12/tz/"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 19:03:48",
-      "https://lobste.rs/s/vjgucr/rip_pthread_cancel"
-    ],
-    [
-      "RIP pthread_cancel",
-      "https://eissing.org/icing/posts/rip_pthread_cancel/"
     ]
   ]
 ]
