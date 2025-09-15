@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-15, 08:05:55",
+      "https://lobste.rs/s/ylbxri/protecting_rust_against_supply_chain"
+    ],
+    [
+      "Protecting Rust against supply chain attacks",
+      "https://kerkour.com/rust-supply-chain-attacks"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 06:49:01",
       "https://lobste.rs/s/jkc7xi/linking_text_fragments_with_bookmarklet"
     ],
@@ -217,16 +227,6 @@
     [
       "Debian 12 installer promotes US/* time zones",
       "https://rachelbythebay.com/w/2025/09/12/tz/"
-    ]
-  ],
-  [
-    [
-      "2025-09-13, 23:13:06",
-      "https://lobste.rs/s/lmdyti/pass_unix_password_manager"
-    ],
-    [
-      "Pass: Unix Password Manager",
-      "https://www.passwordstore.org/"
     ]
   ],
   [
