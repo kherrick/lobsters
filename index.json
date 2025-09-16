@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-16, 08:26:32",
+      "https://lobste.rs/s/cly8x2/automating_distro_updates_ci"
+    ],
+    [
+      "Automating Distro Updates in CI",
+      "https://paretosecurity.com/blog/automating-distro-updates-in-ci/"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 06:54:17",
       "https://lobste.rs/s/kenxsl/winboat_run_windows_apps_on_linux_with"
     ],
@@ -187,16 +197,6 @@
     [
       "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
       "https://ryelang.org/blog/posts/comparing_tables_to_python/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 06:49:01",
-      "https://lobste.rs/s/jkc7xi/linking_text_fragments_with_bookmarklet"
-    ],
-    [
-      "Linking to text fragments with a bookmarklet",
-      "https://alexwlchan.net/2025/text-fragments-bookmarklet"
     ]
   ],
   [
