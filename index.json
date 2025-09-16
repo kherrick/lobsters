@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-16, 00:16:03",
+      "https://lobste.rs/s/zxkefm/be_careful_when_assigning"
+    ],
+    [
+      "Be Careful When Assigning ArenaAllocators (2024)",
+      "https://www.openmymind.net/Be-Careful-When-Assigning-ArenaAllocators/"
+    ]
+  ],
+  [
+    [
       "2025-09-15, 20:33:10",
       "https://lobste.rs/s/dpysiq/generating_mazes_with_three_algorithms"
     ],
@@ -167,16 +177,6 @@
     [
       "Rye Tables vs Python/Pandas: A Different Way to Wrangle Data",
       "https://ryelang.org/blog/posts/comparing_tables_to_python/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 08:05:55",
-      "https://lobste.rs/s/ylbxri/protecting_rust_against_supply_chain"
-    ],
-    [
-      "Protecting Rust against supply chain attacks",
-      "https://kerkour.com/rust-supply-chain-attacks"
     ]
   ],
   [
