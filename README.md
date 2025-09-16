@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-16, 00:16:03](https://lobste.rs/s/zxkefm/be_careful_when_assigning) - [Be Careful When Assigning ArenaAllocators (2024)](https://www.openmymind.net/Be-Careful-When-Assigning-ArenaAllocators/)
 * [2025-09-15, 20:33:10](https://lobste.rs/s/dpysiq/generating_mazes_with_three_algorithms) - [Generating Mazes with Three Algorithms](https://healeycodes.com/generating-mazes)
 * [2025-09-15, 19:41:07](https://lobste.rs/s/b2nqkr/webkit_features_safari_26_0) - [WebKit Features in Safari 26.0](https://webkit.org/blog/17333/webkit-features-in-safari-26-0/)
 * [2025-09-15, 19:14:58](https://lobste.rs/s/bggqkn/rendezvous_hashing_explained_2020) - [Rendezvous Hashing Explained (2020)](https://randorithms.com/2020/12/26/rendezvous-hashing.html)
@@ -17,7 +18,6 @@
 * [2025-09-15, 10:12:00](https://lobste.rs/s/jxprbr/algebraic_types_are_not_scary_actually) - [Algebraic Types are not Scary, Actually](https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html)
 * [2025-09-15, 09:04:38](https://lobste.rs/s/lq0now/org_social_preview_generator) - [Org Social Preview Generator](https://github.com/tanrax/org-social-preview)
 * [2025-09-15, 08:52:12](https://lobste.rs/s/70eqvf/rye_tables_vs_python_pandas_different_way) - [Rye Tables vs Python/Pandas: A Different Way to Wrangle Data](https://ryelang.org/blog/posts/comparing_tables_to_python/)
-* [2025-09-15, 08:05:55](https://lobste.rs/s/ylbxri/protecting_rust_against_supply_chain) - [Protecting Rust against supply chain attacks](https://kerkour.com/rust-supply-chain-attacks)
 * [2025-09-15, 06:49:01](https://lobste.rs/s/jkc7xi/linking_text_fragments_with_bookmarklet) - [Linking to text fragments with a bookmarklet](https://alexwlchan.net/2025/text-fragments-bookmarklet)
 * [2025-09-15, 05:22:42](https://lobste.rs/s/d7s0di/idea_usr_sbin_has_failed_practice) - [The idea of /usr/sbin has failed in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/UsrSbinFailedInPractice)
 * [2025-09-15, 04:05:11](https://lobste.rs/s/vioikp/moonbit_developers_are_lying_you) - [Moonbit developers are lying to you](https://bitemyapp.com/blog/moonbit-developers-are-lying-to-you/)
