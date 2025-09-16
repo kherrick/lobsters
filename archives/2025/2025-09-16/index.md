@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 19:23:10](https://lobste.rs/s/xkura8/good_times_river_city_bridgetown_2_0_is) - [Good Times in River City: Bridgetown 2.0 is Here](https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/)
 * [2025-09-16, 18:21:55](https://lobste.rs/s/t6mjeq/adios_chicos_25_years_kde) - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
 * [2025-09-16, 15:17:16](https://lobste.rs/s/cnh1si/java_25) - [Java 25](https://openjdk.org/projects/jdk/25/)
 * [2025-09-16, 14:56:04](https://lobste.rs/s/4tlumh/how_implement_outbox_pattern_go_postgres) - [How to implement the Outbox pattern in Go and Postgres](https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2)
