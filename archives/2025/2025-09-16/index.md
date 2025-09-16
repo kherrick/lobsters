@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-16](index.md)
 
+* [2025-09-16, 20:51:11](https://lobste.rs/s/uwa9dw/rupert_s_snub_cube_other_math_holes) - [Rupert's Snub Cube and other Math Holes](http://tom7.org/ruperts/)
 * [2025-09-16, 19:23:10](https://lobste.rs/s/xkura8/good_times_river_city_bridgetown_2_0_is) - [Good Times in River City: Bridgetown 2.0 is Here](https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/)
 * [2025-09-16, 18:48:48](https://lobste.rs/s/ttwdgn/defense_c) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
 * [2025-09-16, 18:21:55](https://lobste.rs/s/t6mjeq/adios_chicos_25_years_kde) - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
