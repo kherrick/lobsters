@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-17, 09:24:15",
+      "https://lobste.rs/s/otzuq0/why_we_re_building_stategraph_terraform"
+    ],
+    [
+      "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
+      "https://stategraph.dev/blog/why-stategraph/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 08:51:45",
       "https://lobste.rs/s/zdjtvp/what_go_proxy_has_been_doing"
     ],
@@ -217,16 +227,6 @@
     [
       "Wanted to spy on my dog, ended up spying on TP-Link",
       "https://kennedn.com/blog/posts/tapo/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 00:30:13",
-      "https://lobste.rs/s/uaz1d9/godot_4_5_release"
-    ],
-    [
-      "Godot 4.5 release",
-      "https://godotengine.org/releases/4.5/"
     ]
   ],
   [
