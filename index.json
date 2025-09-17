@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-17, 00:00:29",
+      "https://lobste.rs/s/g0yhjl/dumb_introduction_z3"
+    ],
+    [
+      "A Dumb Introduction to z3",
+      "https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3/"
+    ]
+  ],
+  [
+    [
+      "2025-09-16, 23:33:02",
+      "https://lobste.rs/s/limhxl/claude_can_sometimes_prove_it"
+    ],
+    [
+      "Claude Can (Sometimes) Prove It",
+      "https://www.galois.com/articles/claude-can-sometimes-prove-it"
+    ]
+  ],
+  [
+    [
       "2025-09-16, 20:51:11",
       "https://lobste.rs/s/uwa9dw/rupert_s_snub_cube_other_math_holes"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-09-16, 08:26:32",
-      "https://lobste.rs/s/cly8x2/automating_distro_updates_ci"
-    ],
-    [
-      "Automating Distro Updates in CI",
-      "https://paretosecurity.com/blog/automating-distro-updates-in-ci/"
-    ]
-  ],
-  [
-    [
       "2025-09-16, 06:35:53",
       "https://lobste.rs/s/t5kbvv/dolphin_progress_report_release_2509"
     ],
@@ -227,16 +237,6 @@
     [
       "React Won by Default – And It's Killing Frontend Innovation",
       "https://www.lorenstew.art/blog/react-won-by-default/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 13:59:11",
-      "https://lobste.rs/s/d26qtj/e_language"
-    ],
-    [
-      "The E Language",
-      "http://erights.org/elang/index.html"
     ]
   ],
   [
