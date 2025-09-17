@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-17, 12:03:16",
+      "https://lobste.rs/s/hrq54n/determination_fifth_busy_beaver_value"
+    ],
+    [
+      "Determination of the fifth Busy Beaver value",
+      "https://arxiv.org/abs/2509.12337"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 11:46:10",
+      "https://lobste.rs/s/ot8nd1/avoiding_common_sync_waitgroup_mistakes"
+    ],
+    [
+      "Avoiding Common sync.WaitGroup Mistakes in Go",
+      "https://www.calhoun.io/avoiding-common-sync-waitgroup-mistakes/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 10:07:48",
       "https://lobste.rs/s/mhq1fo/purevpn_ipv6_leak"
     ],
@@ -47,6 +67,16 @@
     [
       "Our AI policy vs code of conduct and vs reality",
       "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 07:07:41",
+      "https://lobste.rs/s/zzhehz/ioctls_from_rust"
+    ],
+    [
+      "ioctls from Rust",
+      "https://blogsystem5.substack.com/p/ioctls-rust"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Rupert's Snub Cube and other Math Holes",
       "http://tom7.org/ruperts/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 19:45:30",
-      "https://lobste.rs/s/sosca5/i_have_divided_partly_uninformed_views_on"
-    ],
-    [
-      "I have divided (and partly uninformed) views on OpenTelemetry",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenTelemetryDividedViews"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Swift 6.2 Released",
       "https://www.swift.org/blog/swift-6.2-released/"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 06:15:22",
-      "https://lobste.rs/s/6z2p0h/wanted_spy_on_my_dog_ended_up_spying_on_tp"
-    ],
-    [
-      "Wanted to spy on my dog, ended up spying on TP-Link",
-      "https://kennedn.com/blog/posts/tapo/"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 19:00:09",
-      "https://lobste.rs/s/hdoo8z/why_is_name_microsoft_wireless_notebook"
-    ],
-    [
-      "Why is the name of the Microsoft Wireless Notebook Presenter Mouse 8000 hard-coded into the Bluetooth drivers?",
-      "https://devblogs.microsoft.com/oldnewthing/20250915-00/?p=111599"
     ]
   ],
   [
