@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 13:49:17](https://lobste.rs/s/7wzzgt/death_type_classes) - [Death to type classes](https://jappie.me/death-to-type-classes.html)
 * [2025-09-17, 13:16:01](https://lobste.rs/s/jbk7o7/is_github_actions_suitable_for_running) - [Is GitHub Actions suitable for running benchmarks?](https://labs.quansight.org/blog/2021/08/github-actions-benchmarks)
 * [2025-09-17, 12:03:16](https://lobste.rs/s/hrq54n/determination_fifth_busy_beaver_value) - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
 * [2025-09-17, 11:46:10](https://lobste.rs/s/ot8nd1/avoiding_common_sync_waitgroup_mistakes) - [Avoiding Common sync.WaitGroup Mistakes in Go](https://www.calhoun.io/avoiding-common-sync-waitgroup-mistakes/)
