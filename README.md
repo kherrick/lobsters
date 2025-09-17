@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-17, 14:47:44](https://lobste.rs/s/lmy76j/samsung_870_qvo_4tb_sata_ssd_s_how_are_they) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
 * [2025-09-17, 14:29:15](https://lobste.rs/s/w6hc8m/arrival_radar_air_traffic_control_game) - [Arrival Radar Air Traffic Control Game](https://xkqr.org/arrival-radar/)
 * [2025-09-17, 14:23:27](https://lobste.rs/s/ahebdv/iiscv_lisp_based_version_control_system) - [IISCV (Lisp-based Version Control System) - image-based](https://github.com/gassechen/iiscv)
 * [2025-09-17, 14:17:02](https://lobste.rs/s/3sqw4o/devenv_1_9_scaling_nix_projects_using) - [devenv 1.9: Scaling Nix projects using modules and profiles - devenv](https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/)
@@ -24,7 +25,6 @@
 * [2025-09-16, 11:41:32](https://lobste.rs/s/khhbv8/you_want_technology_with_warts) - [You Want Technology With Warts](https://entropicthoughts.com/you-want-technology-with-warts)
 * [2025-09-16, 10:55:53](https://lobste.rs/s/70n6tf/how_i_use_ai) - [How I Use AI](https://timkellogg.me/blog/2025/09/15/ai-tools)
 * [2025-09-16, 10:42:38](https://lobste.rs/s/3pyir2/task_v3_45_released) - [Task v3.45 released](https://github.com/go-task/task/releases/tag/v3.45.3)
-* [2025-09-15, 18:38:47](https://lobste.rs/s/eb404t/ghostty_1_2_0_release_notes) - [Ghostty 1.2.0 - Release Notes](https://ghostty.org/docs/install/release-notes/1-2-0)
 
 ## [Archives](archives/index.md)
 

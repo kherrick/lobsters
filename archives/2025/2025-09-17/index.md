@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 14:47:44](https://lobste.rs/s/lmy76j/samsung_870_qvo_4tb_sata_ssd_s_how_are_they) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
 * [2025-09-17, 14:29:15](https://lobste.rs/s/w6hc8m/arrival_radar_air_traffic_control_game) - [Arrival Radar Air Traffic Control Game](https://xkqr.org/arrival-radar/)
 * [2025-09-17, 14:23:27](https://lobste.rs/s/ahebdv/iiscv_lisp_based_version_control_system) - [IISCV (Lisp-based Version Control System) - image-based](https://github.com/gassechen/iiscv)
 * [2025-09-17, 14:17:02](https://lobste.rs/s/3sqw4o/devenv_1_9_scaling_nix_projects_using) - [devenv 1.9: Scaling Nix projects using modules and profiles - devenv](https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/)
