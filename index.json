@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-17, 09:24:15",
+      "https://lobste.rs/s/otzuq0/why_we_re_building_stategraph_terraform"
+    ],
+    [
+      "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
+      "https://stategraph.dev/blog/why-stategraph/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 08:51:45",
       "https://lobste.rs/s/zdjtvp/what_go_proxy_has_been_doing"
     ],
@@ -237,16 +247,6 @@
     [
       "Ghostty 1.2.0 - Release Notes",
       "https://ghostty.org/docs/install/release-notes/1-2-0"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 10:12:00",
-      "https://lobste.rs/s/jxprbr/algebraic_types_are_not_scary_actually"
-    ],
-    [
-      "Algebraic Types are not Scary, Actually",
-      "https://blog.aiono.dev/posts/algebraic-types-are-not-scary,-actually.html"
     ]
   ]
 ]
