@@ -7,6 +7,7 @@
 * [2025-09-16, 23:33:02](https://lobste.rs/s/limhxl/claude_can_sometimes_prove_it) - [Claude Can (Sometimes) Prove It](https://www.galois.com/articles/claude-can-sometimes-prove-it)
 * [2025-09-16, 20:51:11](https://lobste.rs/s/uwa9dw/rupert_s_snub_cube_other_math_holes) - [Rupert's Snub Cube and other Math Holes](http://tom7.org/ruperts/)
 * [2025-09-16, 19:55:58](https://lobste.rs/s/rhw5xk/when_values_eat_their_young_how_ideal) - [When Values Eat Their Young: How Ideal-Driven Groups Drift into Their Own Shadow](https://kennethreitz.org/essays/2025-08-25-when-values-eat-their-young)
+* [2025-09-16, 19:45:30](https://lobste.rs/s/sosca5/i_have_divided_partly_uninformed_views_on) - [I have divided (and partly uninformed) views on OpenTelemetry](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenTelemetryDividedViews)
 * [2025-09-16, 19:23:10](https://lobste.rs/s/xkura8/good_times_river_city_bridgetown_2_0_is) - [Good Times in River City: Bridgetown 2.0 is Here](https://www.bridgetownrb.com/release/bridgetown-v2-river-city-released/)
 * [2025-09-16, 18:48:48](https://lobste.rs/s/ttwdgn/defense_c) - [In Defense of C++](https://dayvster.com/blog/in-defense-of-cpp/)
 * [2025-09-16, 18:21:55](https://lobste.rs/s/t6mjeq/adios_chicos_25_years_kde) - [Adios Chicos, 25 Years of KDE](https://jriddell.org/2025/09/14/adios-chicos-25-years-of-kde/)
