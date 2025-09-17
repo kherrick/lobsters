@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-17, 05:31:47",
+      "https://lobste.rs/s/jpxmcj/ubuntu_25_10_s_rust_coreutils_transition"
+    ],
+    [
+      "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
+      "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 04:52:26",
       "https://lobste.rs/s/ywbyko/asus_gaming_laptop_acpi_firmware_bug_deep"
     ],
@@ -217,16 +227,6 @@
     [
       "Ghostty 1.2.0 - Release Notes",
       "https://ghostty.org/docs/install/release-notes/1-2-0"
-    ]
-  ],
-  [
-    [
-      "2025-09-15, 18:20:27",
-      "https://lobste.rs/s/at72xo/asciinema_3_0_adds_live_streaming_local"
-    ],
-    [
-      "asciinema 3.0 adds live streaming and local-first recording",
-      "https://blog.asciinema.org/post/three-point-o/"
     ]
   ],
   [
