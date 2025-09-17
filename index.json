@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-09-17, 11:46:10",
+      "https://lobste.rs/s/ot8nd1/avoiding_common_sync_waitgroup_mistakes"
+    ],
+    [
+      "Avoiding Common sync.WaitGroup Mistakes in Go",
+      "https://www.calhoun.io/avoiding-common-sync-waitgroup-mistakes/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 10:07:48",
       "https://lobste.rs/s/mhq1fo/purevpn_ipv6_leak"
     ],
@@ -127,16 +137,6 @@
     [
       "Our AI policy vs code of conduct and vs reality",
       "https://discourse.llvm.org/t/our-ai-policy-vs-code-of-conduct-and-vs-reality/88300"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 07:07:41",
-      "https://lobste.rs/s/zzhehz/ioctls_from_rust"
-    ],
-    [
-      "ioctls from Rust",
-      "https://blogsystem5.substack.com/p/ioctls-rust"
     ]
   ],
   [
