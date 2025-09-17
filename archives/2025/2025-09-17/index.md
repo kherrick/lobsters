@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
+* [2025-09-17, 05:31:47](https://lobste.rs/s/jpxmcj/ubuntu_25_10_s_rust_coreutils_transition) - [Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings](https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf)
 * [2025-09-17, 04:52:26](https://lobste.rs/s/ywbyko/asus_gaming_laptop_acpi_firmware_bug_deep) - [The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation](https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive)
 * [2025-09-17, 02:07:24](https://lobste.rs/s/ksefec/pypi_token_exfiltration_campaign_via) - [PyPI Token Exfiltration Campaign via GitHub Actions Workflows](https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/)
 * [2025-09-17, 01:18:19](https://lobste.rs/s/deqsws/brzozowski_derivatives_exercise) - [Brzozowski Derivatives: Exercise in Combinatory Style](https://blog.zdsmith.com/posts/brzozowski-derivatives-an-exercise-in-combinatory-style.html)
