@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-17, 16:12:36",
+      "https://lobste.rs/s/rsuojg/installing_using_debian_with_my_decades"
+    ],
+    [
+      "Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal",
+      "https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 14:47:44",
       "https://lobste.rs/s/lmy76j/samsung_870_qvo_4tb_sata_ssd_s_how_are_they"
     ],
@@ -77,16 +87,6 @@
     [
       "Determination of the fifth Busy Beaver value",
       "https://arxiv.org/abs/2509.12337"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 11:46:10",
-      "https://lobste.rs/s/ot8nd1/avoiding_common_sync_waitgroup_mistakes"
-    ],
-    [
-      "Avoiding Common sync.WaitGroup Mistakes in Go",
-      "https://www.calhoun.io/avoiding-common-sync-waitgroup-mistakes/"
     ]
   ],
   [
