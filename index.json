@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-09-18, 14:11:31",
+      "https://lobste.rs/s/nhkmkg/website_inspo_collected_at_component"
+    ],
+    [
+      "Website Inspo - Collected at the Component Level",
+      "https://www.inspo.page/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 13:54:46",
       "https://lobste.rs/s/cobbr5/announcing_rust_1_90_0"
     ],
@@ -157,16 +167,6 @@
     [
       "Access logging in 2025",
       "https://neugierig.org/software/blog/2025/09/access-log.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 07:54:51",
-      "https://lobste.rs/s/r7tnyq/sunsetting_rustwasm_github_org"
-    ],
-    [
-      "Sunsetting the rustwasm GitHub org",
-      "https://blog.rust-lang.org/inside-rust/2025/07/21/sunsetting-the-rustwasm-github-org/"
     ]
   ],
   [
