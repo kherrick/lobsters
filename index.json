@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-18, 13:11:35",
+      "https://lobste.rs/s/tptp64/quality_ai_assisted_software_depends_on"
+    ],
+    [
+      "The quality of AI-assisted software depends on unit of work management",
+      "https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 12:52:34",
+      "https://lobste.rs/s/xpbt4h/three_decades_kernelland"
+    ],
+    [
+      "Three decades in kernelland",
+      "https://youtu.be/LS2LGMRzE1I"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 12:16:35",
       "https://lobste.rs/s/gpxh3k/kde_is_now_my_favorite_desktop"
     ],
     [
       "KDE is now my favorite desktop",
       "https://kokada.dev/blog/kde-is-now-my-favorite-desktop/"
+    ]
+  ],
+  [
+    [
+      "2025-09-18, 12:02:45",
+      "https://lobste.rs/s/twm4fg/making_printed_circuit_boards_with_wild"
+    ],
+    [
+      "Making Printed Circuit Boards with Wild Clay",
+      "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2025-09-17, 21:37:28",
-      "https://lobste.rs/s/r6td3c/one_token_rule_them_all_obtaining_global"
-    ],
-    [
-      "One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens",
-      "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 20:16:15",
       "https://lobste.rs/s/pqt0mb/steering_committee_retrospective"
     ],
@@ -157,26 +177,6 @@
     [
       "Arrival Radar Air Traffic Control Game",
       "https://xkqr.org/arrival-radar/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 13:16:01",
-      "https://lobste.rs/s/jbk7o7/is_github_actions_suitable_for_running"
-    ],
-    [
-      "Is GitHub Actions suitable for running benchmarks?",
-      "https://labs.quansight.org/blog/2021/08/github-actions-benchmarks"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 13:08:39",
-      "https://lobste.rs/s/y0btij/zerofs_9p_nfs_block_devices_on_top_s3"
-    ],
-    [
-      "ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage",
-      "https://github.com/Barre/ZeroFS"
     ]
   ],
   [
