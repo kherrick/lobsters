@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-18, 17:40:13](https://lobste.rs/s/xywqtx/podcasts_you_altered_deal_so_i_will_alter) - [Podcasts, You Altered The Deal, So I Will Alter Your App](https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/)
 * [2025-09-18, 16:41:52](https://lobste.rs/s/vrsdxo/configuration_files_are_user_interfaces) - [Configuration files are user interfaces](https://ochagavia.nl/blog/configuration-files-are-user-interfaces/)
 * [2025-09-18, 15:59:03](https://lobste.rs/s/ndlxdv/migrating_my_existing_elixir_app_ash) - [Migrating my Existing Elixir App to Ash Framework](https://blog.1-800-rad-dude.com/posts/2025/07-11-Migrating-my-Existing-Elixir-App-to-Ash-Framework.html)
 * [2025-09-18, 14:59:24](https://lobste.rs/s/5bkb3b/elasticsearch_search_index_not_system) - [Elasticsearch: Search Index, Not System of Record](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
@@ -15,7 +16,6 @@
 * [2025-09-18, 07:54:51](https://lobste.rs/s/r7tnyq/sunsetting_rustwasm_github_org) - [Sunsetting the rustwasm GitHub org](https://blog.rust-lang.org/inside-rust/2025/07/21/sunsetting-the-rustwasm-github-org/)
 * [2025-09-18, 04:55:55](https://lobste.rs/s/whxl2y/nick_wellnhofer_steps_down_as_libxml2) - [Nick Wellnhofer steps down as libxml2 maintainer](https://discourse.gnome.org/t/stepping-down-as-libxml2-maintainer/31398)
 * [2025-09-18, 04:41:17](https://lobste.rs/s/hydvux/we_have_outgrown_process_model) - [We have outgrown the Process model](https://sidhion.com/blog/process_model_outgrown/)
-* [2025-09-18, 04:37:00](https://lobste.rs/s/3tmeh0/monoids_public) - [Monoids in Public](https://blog.veritates.love/monoids_in_public.html)
 * [2025-09-18, 01:16:02](https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia) - [Introducing GNOME 49, “Brescia”](https://release.gnome.org/49/)
 * [2025-09-17, 22:33:26](https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm) - [Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages](https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages)
 * [2025-09-17, 20:16:15](https://lobste.rs/s/pqt0mb/steering_committee_retrospective) - [Steering Committee Retrospective](https://www.haskellforall.com/2025/09/steering-committee-retrospective.html)
