@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 23:13:34](https://lobste.rs/s/8hu6t2/hypervisor_1_000_lines) - [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/)
 * [2025-09-18, 22:41:02](https://lobste.rs/s/zletng/want_piss_off_your_it_department_are_your) - [Want to piss off your IT department? Are your links not malicious looking enough?](https://phishyurl.com)
 * [2025-09-18, 21:23:29](https://lobste.rs/s/t9ipim/cache_crash) - [The Cache Crash](https://www.fastmail.com/blog/the-cache-crash/)
 * [2025-09-18, 20:37:28](https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30) - [Netscape Navigator 2.0 was released 30 years ago today](https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/)
