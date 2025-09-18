@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-09-17](index.md)
 
 * [2025-09-17, 22:33:26](https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm) - [Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages](https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages)
+* [2025-09-17, 21:37:28](https://lobste.rs/s/r6td3c/one_token_rule_them_all_obtaining_global) - [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [2025-09-17, 20:16:15](https://lobste.rs/s/pqt0mb/steering_committee_retrospective) - [Steering Committee Retrospective](https://www.haskellforall.com/2025/09/steering-committee-retrospective.html)
 * [2025-09-17, 18:05:31](https://lobste.rs/s/cg7zbe/django_tasks_exists) - [django.tasks exists](https://theorangeone.net/posts/django-dot-tasks-exists/)
 * [2025-09-17, 17:56:57](https://lobste.rs/s/bqiqjm/wasm_3_0_completed) - [Wasm 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)

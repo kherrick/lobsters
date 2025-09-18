@@ -1,14 +1,15 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-18, 01:16:02](https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia) - [Introducing GNOME 49, “Brescia”](https://release.gnome.org/49/)
+* [2025-09-17, 22:33:26](https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm) - [Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages](https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages)
+* [2025-09-17, 21:37:28](https://lobste.rs/s/r6td3c/one_token_rule_them_all_obtaining_global) - [One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens](https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/)
 * [2025-09-17, 20:16:15](https://lobste.rs/s/pqt0mb/steering_committee_retrospective) - [Steering Committee Retrospective](https://www.haskellforall.com/2025/09/steering-committee-retrospective.html)
 * [2025-09-17, 18:05:31](https://lobste.rs/s/cg7zbe/django_tasks_exists) - [django.tasks exists](https://theorangeone.net/posts/django-dot-tasks-exists/)
 * [2025-09-17, 17:56:57](https://lobste.rs/s/bqiqjm/wasm_3_0_completed) - [Wasm 3.0 Completed](https://webassembly.org/news/2025-09-17-wasm-3.0/)
 * [2025-09-17, 16:12:36](https://lobste.rs/s/rsuojg/installing_using_debian_with_my_decades) - [Installing and Using Debian With My Decades-Old Genuine DEC vt510 Serial Terminal](https://changelog.complete.org/archives/10886-installing-and-using-debian-using-my-decades-old-genuine-dec-vt510-serial-terminal)
-* [2025-09-17, 14:47:44](https://lobste.rs/s/lmy76j/samsung_870_qvo_4tb_sata_ssd_s_how_are_they) - [Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?](https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/)
 * [2025-09-17, 14:29:15](https://lobste.rs/s/w6hc8m/arrival_radar_air_traffic_control_game) - [Arrival Radar Air Traffic Control Game](https://xkqr.org/arrival-radar/)
 * [2025-09-17, 14:23:27](https://lobste.rs/s/ahebdv/iiscv_lisp_based_version_control_system) - [IISCV (Lisp-based Version Control System) - image-based](https://github.com/gassechen/iiscv)
 * [2025-09-17, 14:17:02](https://lobste.rs/s/3sqw4o/devenv_1_9_scaling_nix_projects_using) - [devenv 1.9: Scaling Nix projects using modules and profiles - devenv](https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/)
-* [2025-09-17, 13:49:17](https://lobste.rs/s/7wzzgt/death_type_classes) - [Death to type classes](https://jappie.me/death-to-type-classes.html)
 * [2025-09-17, 13:16:01](https://lobste.rs/s/jbk7o7/is_github_actions_suitable_for_running) - [Is GitHub Actions suitable for running benchmarks?](https://labs.quansight.org/blog/2021/08/github-actions-benchmarks)
 * [2025-09-17, 13:08:39](https://lobste.rs/s/y0btij/zerofs_9p_nfs_block_devices_on_top_s3) - [ZeroFS: 9P, NFS, or block devices on top of S3-compatible storage](https://github.com/Barre/ZeroFS)
 * [2025-09-17, 12:03:16](https://lobste.rs/s/hrq54n/determination_fifth_busy_beaver_value) - [Determination of the fifth Busy Beaver value](https://arxiv.org/abs/2509.12337)
@@ -24,7 +25,6 @@
 * [2025-09-16, 15:17:16](https://lobste.rs/s/cnh1si/java_25) - [Java 25](https://openjdk.org/projects/jdk/25/)
 * [2025-09-16, 14:56:04](https://lobste.rs/s/4tlumh/how_implement_outbox_pattern_go_postgres) - [How to implement the Outbox pattern in Go and Postgres](https://medium.com/@pliutau/how-to-implement-the-outbox-pattern-in-go-and-postgres-e9bc2699cbe2)
 * [2025-09-16, 11:41:32](https://lobste.rs/s/khhbv8/you_want_technology_with_warts) - [You Want Technology With Warts](https://entropicthoughts.com/you-want-technology-with-warts)
-* [2025-09-16, 10:55:53](https://lobste.rs/s/70n6tf/how_i_use_ai) - [How I Use AI](https://timkellogg.me/blog/2025/09/15/ai-tools)
 
 ## [Archives](archives/index.md)
 
