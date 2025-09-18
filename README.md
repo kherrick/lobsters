@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-18, 14:59:24](https://lobste.rs/s/5bkb3b/elasticsearch_was_never_database) - [Elasticsearch Was Never a Database](https://www.paradedb.com/blog/elasticsearch-was-never-a-database)
 * [2025-09-18, 14:46:02](https://lobste.rs/s/yn7jdd/ternfs_exabyte_scale_multi_region) - [TernFS: an exabyte scale, multi-region distributed filesystem](https://www.xtxmarkets.com/tech/2025-ternfs/)
 * [2025-09-18, 13:54:46](https://lobste.rs/s/cobbr5/announcing_rust_1_90_0) - [Announcing Rust 1.90.0](https://blog.rust-lang.org/2025/09/18/Rust-1.90.0/)
 * [2025-09-18, 13:52:50](https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development) - [How can we sandbox our development machines?](https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development)
 * [2025-09-18, 13:11:35](https://lobste.rs/s/tptp64/quality_ai_assisted_software_depends_on) - [The quality of AI-assisted software depends on unit of work management](https://blog.nilenso.com/blog/2025/09/15/ai-unit-of-work/)
-* [2025-09-18, 12:52:34](https://lobste.rs/s/xpbt4h/three_decades_kernelland) - [Three decades in kernelland](https://youtu.be/LS2LGMRzE1I)
 * [2025-09-18, 12:16:35](https://lobste.rs/s/gpxh3k/kde_is_now_my_favorite_desktop) - [KDE is now my favorite desktop](https://kokada.dev/blog/kde-is-now-my-favorite-desktop/)
 * [2025-09-18, 12:02:45](https://lobste.rs/s/twm4fg/making_printed_circuit_boards_with_wild) - [Making Printed Circuit Boards with Wild Clay](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
 * [2025-09-18, 10:08:08](https://lobste.rs/s/ezjbvq/controlling_program_flow_with) - [Controlling program flow with capabilities in Scala](https://nrinaudo.github.io/articles/capabilities_flow.html)
