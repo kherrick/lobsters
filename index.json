@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-18, 08:19:24",
+      "https://lobste.rs/s/d4edzo/go_channels_solve_interface_impedance"
+    ],
+    [
+      "Go channels to solve interface impedance mismatch",
+      "https://dolthub.com/blog/2025-09-12-go-channels-for-period-mismatch/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 07:54:51",
       "https://lobste.rs/s/r7tnyq/sunsetting_rustwasm_github_org_inside"
     ],
@@ -187,16 +197,6 @@
     [
       "PureVPN IPv6 leak",
       "https://anagogistis.com/posts/purevpn-ipv6-leak/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 09:56:53",
-      "https://lobste.rs/s/wm8awb/introducing_obelisk_0_24_1"
-    ],
-    [
-      "Introducing Obelisk 0.24.1",
-      "https://obeli.sk/blog/introducing-obelisk-0-24-1/"
     ]
   ],
   [
