@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-18](index.md)
 
+* [2025-09-18, 08:56:37](https://lobste.rs/s/oo15ry/access_logging_2025) - [Access logging in 2025](https://neugierig.org/software/blog/2025/09/access-log.html)
 * [2025-09-18, 08:19:24](https://lobste.rs/s/d4edzo/go_channels_solve_interface_impedance) - [Go channels to solve interface impedance mismatch](https://dolthub.com/blog/2025-09-12-go-channels-for-period-mismatch/)
 * [2025-09-18, 07:54:51](https://lobste.rs/s/r7tnyq/sunsetting_rustwasm_github_org_inside) - [Sunsetting the rustwasm GitHub org | Inside Rust Blog](https://blog.rust-lang.org/inside-rust/2025/07/21/sunsetting-the-rustwasm-github-org/)
 * [2025-09-18, 07:31:08](https://lobste.rs/s/77pbkj/digging_deeper_into_youtube_s_view_count) - [Digging deeper into YouTube's view count discrepancy](https://www.jeffgeerling.com/blog/2025/digging-deeper-youtubes-view-count-discrepancy)
