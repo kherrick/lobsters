@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-18, 21:23:29",
+      "https://lobste.rs/s/t9ipim/cache_crash"
+    ],
+    [
+      "The Cache Crash",
+      "https://www.fastmail.com/blog/the-cache-crash/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 20:37:28",
       "https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30"
     ],
@@ -237,16 +247,6 @@
     [
       "Arrival Radar Air Traffic Control Game",
       "https://xkqr.org/arrival-radar/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 05:31:47",
-      "https://lobste.rs/s/jpxmcj/ubuntu_25_10_s_rust_coreutils_transition"
-    ],
-    [
-      "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
-      "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf"
     ]
   ]
 ]
