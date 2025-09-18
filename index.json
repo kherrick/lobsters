@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-18, 13:52:50",
+      "https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development"
+    ],
+    [
+      "How can we sandbox our development machines?",
+      "https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 13:11:35",
       "https://lobste.rs/s/tptp64/quality_ai_assisted_software_depends_on"
     ],
@@ -237,16 +247,6 @@
     [
       "Ubuntu 25.10's Rust Coreutils Transition Has Uncovered Performance Shortcomings",
       "https://www.phoronix.com/news/Ubuntu-Rust-Coreutils-Perf"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 04:52:26",
-      "https://lobste.rs/s/ywbyko/asus_gaming_laptop_acpi_firmware_bug_deep"
-    ],
-    [
-      "The ASUS Gaming Laptop ACPI Firmware Bug: A Deep Technical Investigation",
-      "https://github.com/Zephkek/Asus-ROG-Aml-Deep-Dive"
     ]
   ]
 ]
