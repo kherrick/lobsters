@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-18, 14:46:02",
+      "https://lobste.rs/s/yn7jdd/ternfs_exabyte_scale_multi_region"
+    ],
+    [
+      "TernFS: an exabyte scale, multi-region distributed filesystem",
+      "https://www.xtxmarkets.com/tech/2025-ternfs/"
+    ]
+  ],
+  [
+    [
       "2025-09-18, 13:52:50",
       "https://lobste.rs/s/rwgado/how_can_we_sandbox_our_development"
     ],
@@ -207,16 +217,6 @@
     [
       "PureVPN IPv6 leak",
       "https://anagogistis.com/posts/purevpn-ipv6-leak/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 09:24:15",
-      "https://lobste.rs/s/otzuq0/why_we_re_building_stategraph_terraform"
-    ],
-    [
-      "Why We're Building Stategraph: Terraform State as a Distributed Systems Problem",
-      "https://stategraph.dev/blog/why-stategraph/"
     ]
   ],
   [
