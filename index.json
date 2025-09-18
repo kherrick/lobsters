@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-18, 01:16:02",
+      "https://lobste.rs/s/xm1lqy/introducing_gnome_49_brescia"
+    ],
+    [
+      "Introducing GNOME 49, “Brescia”",
+      "https://release.gnome.org/49/"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 22:33:26",
+      "https://lobste.rs/s/ozicir/shai_hulud_novel_self_replicating_worm"
+    ],
+    [
+      "Shai-Hulud: The novel self-replicating worm infecting hundreds of NPM packages",
+      "https://www.sysdig.com/blog/shai-hulud-the-novel-self-replicating-worm-infecting-hundreds-of-npm-packages"
+    ]
+  ],
+  [
+    [
+      "2025-09-17, 21:37:28",
+      "https://lobste.rs/s/r6td3c/one_token_rule_them_all_obtaining_global"
+    ],
+    [
+      "One Token to rule them all - obtaining Global Admin in every Entra ID tenant via Actor tokens",
+      "https://dirkjanm.io/obtaining-global-admin-in-every-entra-id-tenant-with-actor-tokens/"
+    ]
+  ],
+  [
+    [
       "2025-09-17, 20:16:15",
       "https://lobste.rs/s/pqt0mb/steering_committee_retrospective"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2025-09-17, 14:47:44",
-      "https://lobste.rs/s/lmy76j/samsung_870_qvo_4tb_sata_ssd_s_how_are_they"
-    ],
-    [
-      "Samsung 870 QVO 4TB SATA SSD-s: how are they doing after 4 years of use?",
-      "https://ounapuu.ee/posts/2025/09/15/samsung-870-qvo/"
-    ]
-  ],
-  [
-    [
       "2025-09-17, 14:29:15",
       "https://lobste.rs/s/w6hc8m/arrival_radar_air_traffic_control_game"
     ],
@@ -77,16 +97,6 @@
     [
       "devenv 1.9: Scaling Nix projects using modules and profiles - devenv",
       "https://devenv.sh/blog/2025/09/17/devenv-19-scaling-nix-projects-using-modules-and-profiles/"
-    ]
-  ],
-  [
-    [
-      "2025-09-17, 13:49:17",
-      "https://lobste.rs/s/7wzzgt/death_type_classes"
-    ],
-    [
-      "Death to type classes",
-      "https://jappie.me/death-to-type-classes.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "You Want Technology With Warts",
       "https://entropicthoughts.com/you-want-technology-with-warts"
-    ]
-  ],
-  [
-    [
-      "2025-09-16, 10:55:53",
-      "https://lobste.rs/s/70n6tf/how_i_use_ai"
-    ],
-    [
-      "How I Use AI",
-      "https://timkellogg.me/blog/2025/09/15/ai-tools"
     ]
   ]
 ]
