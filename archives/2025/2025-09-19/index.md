@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-19](index.md)
 
+* [2025-09-19, 10:48:01](https://lobste.rs/s/spgto0/evolving_our_real_time_timeseries) - [Evolving our real-time timeseries storage again: Built in Rust for performance at scale](https://www.datadoghq.com/blog/engineering/rust-timeseries-engine/)
+* [2025-09-19, 10:41:28](https://lobste.rs/s/dgmsyu/ec_dma_compliance_workshops) - [EC DMA compliance workshops](https://f-droid.org/2025/09/18/ec-dma-compliance-workshops.html)
 * [2025-09-19, 08:53:53](https://lobste.rs/s/6d4tae/freebsd_vs_smartos_who_s_faster_for_jails) - [FreeBSD vs. SmartOS: Who's Faster for Jails, Zones, and bhyve VMs?](https://it-notes.dragas.net/2025/09/19/freebsd-vs-smartos-whos-faster-for-jails-zones-bhyve/)
 * [2025-09-19, 08:26:41](https://lobste.rs/s/jin16z/ruby_central_s_attack_on_rubygems) - [Ruby Central’s Attack on RubyGems](https://pup-e.com/goodbye-rubygems.pdf)
 * [2025-09-19, 08:05:52](https://lobste.rs/s/lsb77s/playing_minecraft_without_minecraft) - [Playing “Minecraft” without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
