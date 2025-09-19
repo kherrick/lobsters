@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-19, 08:26:41](https://lobste.rs/s/jin16z/ruby_central_s_attack_on_rubygems) - [Ruby Central’s Attack on RubyGems](https://pup-e.com/goodbye-rubygems.pdf)
 * [2025-09-19, 08:05:52](https://lobste.rs/s/lsb77s/playing_minecraft_without_minecraft) - [Playing “Minecraft” without Minecraft (2024)](https://lenowo.org/viewtopic.php?t=5)
 * [2025-09-19, 05:46:34](https://lobste.rs/s/oi2lr9/common_sense_unit_work) - [The common sense unit of work](https://blog.nilenso.com/blog/2025/09/17/the-common-sense-unit-of-work/)
 * [2025-09-19, 05:43:17](https://lobste.rs/s/oa5jn6/faking_adts_gadts_languages_shouldn_t) - [Faking ADTs and GADTs in Languages That Shouldn't Have Them](https://blog.jle.im/entry/faking-adts-and-gadts.html)
 * [2025-09-19, 03:28:18](https://lobste.rs/s/fhltsp/dark_patterns_killed_my_wife_s_windows_11) - [Dark patterns killed my wife’s Windows 11 installation](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
 * [2025-09-18, 23:13:34](https://lobste.rs/s/8hu6t2/hypervisor_1_000_lines) - [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/)
 * [2025-09-18, 22:41:02](https://lobste.rs/s/zletng/want_piss_off_your_it_department_are_your) - [Want to piss off your IT department? Are your links not malicious looking enough?](https://phishyurl.com)
-* [2025-09-18, 21:23:29](https://lobste.rs/s/t9ipim/cache_crash) - [The Cache Crash](https://www.fastmail.com/blog/the-cache-crash/)
 * [2025-09-18, 20:37:28](https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30) - [Netscape Navigator 2.0 was released 30 years ago today](https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/)
 * [2025-09-18, 18:53:37](https://lobste.rs/s/ttj58a/reflection_c_s_decade_defining_rocket) - [Reflection — C++’s decade-defining rocket engine](https://herbsutter.com/2025/09/18/yesterdays-talk-video-posted-reflection-cs-decade-defining-rocket-engine/)
 * [2025-09-18, 17:58:23](https://lobste.rs/s/ihj3xo/history_gem_desktop_environment) - [History of the GEM Desktop Environment](https://nemanjatrifunovic.substack.com/p/history-of-the-gem-desktop-environment)
