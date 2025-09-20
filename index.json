@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-20, 14:26:11",
+      "https://lobste.rs/s/pzhqdb/vulkan_graphics_ocaml_vs_c"
+    ],
+    [
+      "Vulkan graphics in OCaml vs C",
+      "https://roscidus.com/blog/blog/2025/09/20/ocaml-vulkan/"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 13:23:59",
       "https://lobste.rs/s/quagwg/git_introduce_rust_announce_it_will"
     ],
@@ -137,16 +147,6 @@
     [
       "Apple: SSH and FileVault",
       "https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 16:56:23",
-      "https://lobste.rs/s/joxeuf/1k_agentic_project_schemas"
-    ],
-    [
-      "1K+ agentic project schemas reconstructed from posts on related subreddits",
-      "https://altsoph.com/pp/aps/"
     ]
   ],
   [
