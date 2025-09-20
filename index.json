@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-20, 02:00:19",
+      "https://lobste.rs/s/crlwz2/agentic_tui_for_go_codebases"
+    ],
+    [
+      "The Agentic TUI for Go codebases ;)",
+      "https://github.com/piqoni/vogte"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 01:26:12",
+      "https://lobste.rs/s/js25k9/is_zig_s_new_writer_unsafe"
+    ],
+    [
+      "Is Zig's New Writer Unsafe?",
+      "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/"
+    ]
+  ],
+  [
+    [
+      "2025-09-20, 01:10:35",
+      "https://lobste.rs/s/e6r6a3/history_science_hidden_astronomy_code"
+    ],
+    [
+      "The History of a Science Hidden in Astronomy Code",
+      "https://www.youtube.com/watch?v=3bZSCb644_M"
+    ]
+  ],
+  [
+    [
       "2025-09-19, 22:08:11",
       "https://lobste.rs/s/dafc6l/against_protection_stocking_frames"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-09-19, 14:23:51",
-      "https://lobste.rs/s/isdngh/release_automation_testing_on_ci"
-    ],
-    [
-      "Release automation and testing on CI",
-      "https://lucasew.github.io/post/20250919-project-automations/"
-    ]
-  ],
-  [
-    [
       "2025-09-19, 12:25:04",
       "https://lobste.rs/s/6bo13j/type_branding_typescript"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-09-18, 23:13:34",
-      "https://lobste.rs/s/8hu6t2/hypervisor_1_000_lines"
-    ],
-    [
-      "Hypervisor in 1,000 Lines",
-      "https://1000hv.seiya.me/en/"
-    ]
-  ],
-  [
-    [
       "2025-09-18, 20:37:28",
       "https://lobste.rs/s/axzxca/netscape_navigator_2_0_was_released_30"
     ],
     [
       "Netscape Navigator 2.0 was released 30 years ago today",
       "https://www.jwz.org/blog/2025/09/netscape-navigator-2-0-was-released-30-years-ago-today/"
-    ]
-  ],
-  [
-    [
-      "2025-09-18, 18:53:37",
-      "https://lobste.rs/s/ttj58a/reflection_c_s_decade_defining_rocket"
-    ],
-    [
-      "Reflection — C++’s decade-defining rocket engine",
-      "https://herbsutter.com/2025/09/18/yesterdays-talk-video-posted-reflection-cs-decade-defining-rocket-engine/"
     ]
   ],
   [
