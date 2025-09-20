@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-20, 19:06:03",
+      "https://lobste.rs/s/ihggth/tv_time_machine_raspberry_pi_plays_random"
+    ],
+    [
+      "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
+      "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html"
+    ]
+  ],
+  [
+    [
       "2025-09-20, 18:09:37",
       "https://lobste.rs/s/zd6mp6/i_want_cross_platform_tiling_window"
     ],
@@ -187,16 +197,6 @@
     [
       "Type Branding in Typescript",
       "https://azraelsec.sh/2025/09/06/Typescript-Branding/"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 12:09:12",
-      "https://lobste.rs/s/bzfzyd/run_unix_command_multiple_sub_processes"
-    ],
-    [
-      "run a UNIX command in multiple sub-processes with line-buffered I/O",
-      "https://kmx.io/blog/released-runj-v0.1-and-runj-v0.2-run-unix-command-sub-processes-with-line-buffered-io"
     ]
   ],
   [
