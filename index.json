@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2025-09-20, 12:20:56",
-      "https://lobste.rs/s/8kj7sz/protect_your_keys_with_secure_enclave"
-    ],
-    [
-      "Protect your keys with the Secure Enclave",
-      "https://octet-stream.net/b/scb/2025-09-16-protect-your-keys-with-the-secure-enclave.html"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 03:50:32",
       "https://lobste.rs/s/a0zy9r/introducing_forklift_certified_license"
     ],
@@ -247,6 +237,16 @@
     [
       "Is Zig's New Writer Unsafe?",
       "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/"
+    ]
+  ],
+  [
+    [
+      "2025-09-19, 21:44:12",
+      "https://lobste.rs/s/fwz25e/be_simple"
+    ],
+    [
+      "Be Simple",
+      "https://corrode.dev/blog/simple/"
     ]
   ]
 ]
