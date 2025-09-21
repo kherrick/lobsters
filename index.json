@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-21, 19:40:09",
+      "https://lobste.rs/s/4xtjt9/parsing_crusader_kings_iii_data_files"
+    ],
+    [
+      "Parsing Crusader Kings III data files to generate mods",
+      "https://wheybags.com/blog/ck3mods.html"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 18:56:26",
       "https://lobste.rs/s/acbjyb/storing_unwise_amounts_data_javascript"
     ],
@@ -237,16 +247,6 @@
     [
       "Introducing the Forklift Certified License",
       "https://aria.dog/barks/forklift-certified-license/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 01:26:12",
-      "https://lobste.rs/s/js25k9/is_zig_s_new_writer_unsafe"
-    ],
-    [
-      "Is Zig's New Writer Unsafe?",
-      "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/"
     ]
   ]
 ]
