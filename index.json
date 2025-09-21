@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-21, 16:29:15",
+      "https://lobste.rs/s/0lwolc/ts_ignore_is_almost_always_worst_option"
+    ],
+    [
+      "@ts-ignore is almost always the worst option",
+      "https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 16:10:09",
+      "https://lobste.rs/s/0wyas7/simulator_significantly_inspired_by"
+    ],
+    [
+      "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
+      "https://git.sr.ht/~nkali/mv950toy"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 15:58:01",
       "https://lobste.rs/s/rvhyxm/microstacks_megadependencies_over_at"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-20, 21:05:14",
-      "https://lobste.rs/s/fffvzx/brief_history_threads_threading"
-    ],
-    [
-      "A brief history of threads and threading",
-      "https://eclecticlight.co/2025/09/20/a-brief-history-of-threads-and-threading/"
-    ]
-  ],
-  [
-    [
       "2025-09-20, 20:46:01",
       "https://lobste.rs/s/a8ey4q/napkin_project"
     ],
@@ -237,16 +247,6 @@
     [
       "Is Zig's New Writer Unsafe?",
       "https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 21:44:12",
-      "https://lobste.rs/s/fwz25e/be_simple"
-    ],
-    [
-      "Be Simple",
-      "https://corrode.dev/blog/simple/"
     ]
   ]
 ]
