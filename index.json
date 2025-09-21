@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-21, 10:31:32",
+      "https://lobste.rs/s/sf1uml/my_hacking_simulator_runs_on_cyberdeck"
+    ],
+    [
+      "My Hacking Simulator runs on a Cyberdeck",
+      "https://tiniuc.com/hacksim-on-cyberdeck/"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 09:57:04",
       "https://lobste.rs/s/sbib09/beyond_sandbox_domains_rendering"
     ],
@@ -237,16 +247,6 @@
     [
       "Ruby Central’s Attack on RubyGems",
       "https://pup-e.com/goodbye-rubygems.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-09-19, 03:28:18",
-      "https://lobste.rs/s/fhltsp/dark_patterns_killed_my_wife_s_windows_11"
-    ],
-    [
-      "Dark patterns killed my wife’s Windows 11 installation",
-      "https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/"
     ]
   ]
 ]
