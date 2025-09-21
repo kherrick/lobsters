@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-21](index.md)
 
+* [2025-09-21, 21:56:37](https://lobste.rs/s/hgcjod/kernel_security_wild_side_channel) - [Kernel Security in the Wild: Side-Channel-Assisted Exploit Techniques, Kernel-Level Defenses, and Real-World Analysis](https://tugraz.elsevierpure.com/ws/portalfiles/portal/98775241/main.pdf)
 * [2025-09-21, 20:46:37](https://lobste.rs/s/9nofxo/apple_silicon_gpu_support_mojo) - [Apple Silicon GPU support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
 * [2025-09-21, 20:30:19](https://lobste.rs/s/kjcmlf/ai_images_blog_posts_can_we_do_better) - [AI Images in Blog Posts: Can We Do Better?](https://ishan.co/ai-images-in-blog-posts/)
 * [2025-09-21, 19:40:09](https://lobste.rs/s/4xtjt9/parsing_crusader_kings_iii_data_files) - [Parsing Crusader Kings III data files to generate mods](https://wheybags.com/blog/ck3mods.html)
