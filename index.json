@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-21, 21:56:37",
+      "https://lobste.rs/s/hgcjod/kernel_security_wild_side_channel"
+    ],
+    [
+      "Kernel Security in the Wild: Side-Channel-Assisted Exploit Techniques, Kernel-Level Defenses, and Real-World Analysis",
+      "https://tugraz.elsevierpure.com/ws/portalfiles/portal/98775241/main.pdf"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 20:46:37",
       "https://lobste.rs/s/9nofxo/apple_silicon_gpu_support_mojo"
     ],
@@ -237,16 +247,6 @@
     [
       "Git: Introduce Rust and announce that it will become mandatory",
       "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 03:50:32",
-      "https://lobste.rs/s/a0zy9r/introducing_forklift_certified_license"
-    ],
-    [
-      "Introducing the Forklift Certified License",
-      "https://aria.dog/barks/forklift-certified-license/"
     ]
   ]
 ]
