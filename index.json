@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-22, 07:52:53",
+      "https://lobste.rs/s/d82moa/kernel_introduce_multikernel"
+    ],
+    [
+      "kernel: Introduce multikernel architecture support",
+      "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 07:32:06",
       "https://lobste.rs/s/avhvwl/under_hood_vec_t"
     ],
@@ -17,16 +27,6 @@
     [
       "Linux Kernel Runtime Guard (LKRG) 1.0",
       "https://www.openwall.com/presentations/NullconBerlin2025-LKRG/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 05:32:15",
-      "https://lobste.rs/s/tfj2bs/indiafoss_2025_video_livestream"
-    ],
-    [
-      "IndiaFoss 2025 Video Livestream",
-      "https://fossunited.org/indiafoss/livestream"
     ]
   ],
   [
