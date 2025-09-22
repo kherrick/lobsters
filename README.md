@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-22, 16:37:41](https://lobste.rs/s/lvnvnn/testing_is_better_than_dsa) - [Testing is better than DSA](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:18:31](https://lobste.rs/s/vkhfps/steve_jobs_jef_raskin_first_great_war_for) - [Steve Jobs, Jef Raskin, and the first great war for your thumbs](https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/)
 * [2025-09-22, 16:17:54](https://lobste.rs/s/2yk3wp/memory_allocation_go) - [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html)
 * [2025-09-22, 15:50:53](https://lobste.rs/s/lzig6j/story_musium) - [The story of Musium](https://ruudvanasseldonk.com/2025/musium)
@@ -18,7 +19,6 @@
 * [2025-09-21, 23:57:54](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions) - [Are XSLT stylesheets pure functions?](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions)
 * [2025-09-21, 23:55:10](https://lobste.rs/s/okecc9/free_software_commons) - [The free software commons](https://jenniferplusplus.com/the-free-software-commons/)
 * [2025-09-21, 19:40:09](https://lobste.rs/s/4xtjt9/parsing_crusader_kings_iii_data_files) - [Parsing Crusader Kings III data files to generate mods](https://wheybags.com/blog/ck3mods.html)
-* [2025-09-21, 18:56:26](https://lobste.rs/s/acbjyb/storing_unwise_amounts_data_javascript) - [Storing Unwise Amounts of Data in JavaScript Bigints](https://jonathan-frere.com/posts/bigints-are-cool/)
 * [2025-09-21, 16:29:15](https://lobste.rs/s/0lwolc/ts_ignore_is_almost_always_worst_option) - [@ts-ignore is almost always the worst option](https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/)
 * [2025-09-21, 14:43:31](https://lobste.rs/s/olnyhu/dxgi_debugging_microsoft_put_me_on_list) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
 * [2025-09-21, 14:41:34](https://lobste.rs/s/pulpod/i_once_appeared_old_new_thing) - [I Once Appeared in The Old New Thing](https://mtlynch.io/my-old-new-thing-cameo/)
