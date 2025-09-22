@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-22, 14:16:18",
+      "https://lobste.rs/s/oaxcep/cloudflare_is_sponsoring_ladybird"
+    ],
+    [
+      "Cloudflare is sponsoring Ladybird and Omarchy",
+      "https://blog.cloudflare.com/supporting-the-future-of-the-open-web/"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 14:00:01",
+      "https://lobste.rs/s/bkupu6/tips_for_working_with_legacy_code"
+    ],
+    [
+      "Tips for Working with Legacy Code",
+      "https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 13:31:33",
       "https://lobste.rs/s/y7cieb/cap_n_web_new_rpc_system_for_browsers_web"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-09-21, 16:10:09",
-      "https://lobste.rs/s/0wyas7/simulator_significantly_inspired_by"
-    ],
-    [
-      "A simulator significantly inspired by the first commercial transistor computer, the Metrovick 950",
-      "https://git.sr.ht/~nkali/mv950toy"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 14:43:31",
       "https://lobste.rs/s/olnyhu/dxgi_debugging_microsoft_put_me_on_list"
     ],
@@ -237,16 +247,6 @@
     [
       "NixCon 2025 Trip Report",
       "https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 13:23:59",
-      "https://lobste.rs/s/quagwg/git_introduce_rust_announce_it_will"
-    ],
-    [
-      "Git: Introduce Rust and announce that it will become mandatory",
-      "https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/"
     ]
   ]
 ]
