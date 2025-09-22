@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 22:47:42](https://lobste.rs/s/uirhie/libghostty_is_coming) - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-22, 22:08:27](https://lobste.rs/s/a8bwsw/imagining_language_without_booleans) - [Imagining a Language without Booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
 * [2025-09-22, 21:11:38](https://lobste.rs/s/ivs0zx/github_replaces_dashboard_feed_with_ai) - [GitHub replaces dashboard feed with AI-generated shit](https://github.com/dashboard-feed)
 * [2025-09-22, 21:06:48](https://lobste.rs/s/wzh0nw/elite_game_couldn_t_be_written) - [Elite: \"The game that couldn't be written\"](https://www.youtube.com/watch?v=lC4YLMLar5I)
