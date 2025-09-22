@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-22, 21:11:38](https://lobste.rs/s/ivs0zx/github_replaces_dashboard_feed_with_ai) - [GitHub replaces dashboard feed with AI-generated shit](https://github.com/dashboard-feed)
 * [2025-09-22, 21:06:48](https://lobste.rs/s/wzh0nw/elite_game_couldn_t_be_written) - [Elite: \"The game that couldn't be written\"](https://www.youtube.com/watch?v=lC4YLMLar5I)
 * [2025-09-22, 20:30:18](https://lobste.rs/s/zuhb6p/some_observations_concerning_large) - [Some observations concerning large programming efforts (1964)](https://dl.acm.org/doi/10.1145/1464122.1464146)
 * [2025-09-22, 19:16:27](https://lobste.rs/s/xgj8jc/aposd_vs_clean_code_discussion_between) - [aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin](https://github.com/johnousterhout/aposd-vs-clean-code)
@@ -22,7 +23,6 @@
 * [2025-09-21, 23:55:10](https://lobste.rs/s/okecc9/free_software_commons_2024) - [The free software commons (2024)](https://jenniferplusplus.com/the-free-software-commons/)
 * [2025-09-21, 19:40:09](https://lobste.rs/s/4xtjt9/parsing_crusader_kings_iii_data_files) - [Parsing Crusader Kings III data files to generate mods](https://wheybags.com/blog/ck3mods.html)
 * [2025-09-21, 16:29:15](https://lobste.rs/s/0lwolc/ts_ignore_is_almost_always_worst_option) - [@ts-ignore is almost always the worst option](https://evanhahn.com/ts-ignore-is-almost-always-the-worst-option/)
-* [2025-09-21, 14:43:31](https://lobste.rs/s/olnyhu/dxgi_debugging_microsoft_put_me_on_list) - [DXGI debugging: Microsoft put me on a list](https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/)
 * [2025-09-21, 14:41:34](https://lobste.rs/s/pulpod/i_once_appeared_old_new_thing) - [I Once Appeared in The Old New Thing](https://mtlynch.io/my-old-new-thing-cameo/)
 * [2025-09-21, 07:51:09](https://lobste.rs/s/ahvcd2/nixcon_2025_trip_report) - [NixCon 2025 Trip Report](https://michael.stapelberg.ch/posts/2025-09-21-nixcon-2025-trip-report/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 21:11:38](https://lobste.rs/s/ivs0zx/github_replaces_dashboard_feed_with_ai) - [GitHub replaces dashboard feed with AI-generated shit](https://github.com/dashboard-feed)
 * [2025-09-22, 21:06:48](https://lobste.rs/s/wzh0nw/elite_game_couldn_t_be_written) - [Elite: \"The game that couldn't be written\"](https://www.youtube.com/watch?v=lC4YLMLar5I)
 * [2025-09-22, 20:30:18](https://lobste.rs/s/zuhb6p/some_observations_concerning_large) - [Some observations concerning large programming efforts (1964)](https://dl.acm.org/doi/10.1145/1464122.1464146)
 * [2025-09-22, 19:16:27](https://lobste.rs/s/xgj8jc/aposd_vs_clean_code_discussion_between) - [aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin](https://github.com/johnousterhout/aposd-vs-clean-code)
