@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-22, 19:16:27",
+      "https://lobste.rs/s/xgj8jc/aposd_vs_clean_code_discussion_between"
+    ],
+    [
+      "aposd-vs-clean-code: A discussion between John Ousterhout and Robert Martin",
+      "https://github.com/johnousterhout/aposd-vs-clean-code"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 17:03:06",
       "https://lobste.rs/s/irlx1v/flp_theorem"
     ],
@@ -137,16 +147,6 @@
     [
       "Under the hood: Vec<T>",
       "https://marma.dev/articles/2025/under-the-hood-vec-t"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 06:02:45",
-      "https://lobste.rs/s/trvolm/linux_kernel_runtime_guard_lkrg_1_0"
-    ],
-    [
-      "Linux Kernel Runtime Guard (LKRG) 1.0",
-      "https://www.openwall.com/presentations/NullconBerlin2025-LKRG/"
     ]
   ],
   [
