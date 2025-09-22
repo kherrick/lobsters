@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-22, 01:07:37",
+      "https://lobste.rs/s/znojhz/understanding_apple_debug_info"
+    ],
+    [
+      "Understanding Apple Debug Info",
+      "https://www.smileykeith.com/2025/09/21/understanding-apple-debug-info/"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 23:57:54",
+      "https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions"
+    ],
+    [
+      "Are XSLT stylesheets pure functions?",
+      "https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions"
+    ]
+  ],
+  [
+    [
+      "2025-09-21, 23:55:10",
+      "https://lobste.rs/s/okecc9/free_software_commons"
+    ],
+    [
+      "The free software commons",
+      "https://jenniferplusplus.com/the-free-software-commons/"
+    ]
+  ],
+  [
+    [
       "2025-09-21, 21:56:37",
       "https://lobste.rs/s/hgcjod/kernel_security_wild_side_channel"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-09-21, 09:57:04",
-      "https://lobste.rs/s/sbib09/beyond_sandbox_domains_rendering"
-    ],
-    [
-      "Beyond Sandbox Domains: Rendering Untrusted Web Content with SafeContentFrame",
-      "https://bughunters.google.com/blog/6715529872080896/beyond-sandbox-domains-rendering-untrusted-web-content-with-safecontentframe"
-    ]
-  ],
-  [
-    [
       "2025-09-21, 09:02:51",
       "https://lobste.rs/s/oenamh/less_is_safer_how_obsidian_reduces_risk"
     ],
@@ -217,26 +237,6 @@
     [
       "self-reliant programmer manifesto",
       "https://yobibyte.github.io/self_reliant_programmer.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 19:06:03",
-      "https://lobste.rs/s/ihggth/tv_time_machine_raspberry_pi_plays_random"
-    ],
-    [
-      "TV Time Machine: A Raspberry Pi That Plays Random 90s TV",
-      "https://quarters.captaintouch.com/blog/posts/2025-09-20-tv-time-machine-a-raspberry-pi-that-plays-random-90s-tv.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-20, 14:26:11",
-      "https://lobste.rs/s/pzhqdb/vulkan_graphics_ocaml_vs_c"
-    ],
-    [
-      "Vulkan graphics in OCaml vs C",
-      "https://roscidus.com/blog/blog/2025/09/20/ocaml-vulkan/"
     ]
   ],
   [
