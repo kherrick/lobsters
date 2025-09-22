@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 05:32:15](https://lobste.rs/s/tfj2bs/indiafoss_2025_video_livestream) - [IndiaFoss 2025 Video Livestream](https://fossunited.org/indiafoss/livestream)
 * [2025-09-22, 05:25:44](https://lobste.rs/s/7bls0x/cbfc_watch_archive_film_censorship_india) - [CBFC Watch: Archive of film censorship in India](https://cbfc.watch/)
 * [2025-09-22, 05:18:52](https://lobste.rs/s/lsyopo/diagram_chasing) - [Diagram Chasing](https://diagramchasing.fun)
 * [2025-09-22, 04:50:57](https://lobste.rs/s/xy5d4l/japanese_forth_inspired_postfix) - [第四: a Japanese and Forth inspired postfix language](https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8)

@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-22, 05:32:15](https://lobste.rs/s/tfj2bs/indiafoss_2025_video_livestream) - [IndiaFoss 2025 Video Livestream](https://fossunited.org/indiafoss/livestream)
 * [2025-09-22, 05:25:44](https://lobste.rs/s/7bls0x/cbfc_watch_archive_film_censorship_india) - [CBFC Watch: Archive of film censorship in India](https://cbfc.watch/)
 * [2025-09-22, 05:18:52](https://lobste.rs/s/lsyopo/diagram_chasing) - [Diagram Chasing](https://diagramchasing.fun)
 * [2025-09-22, 04:50:57](https://lobste.rs/s/xy5d4l/japanese_forth_inspired_postfix) - [第四: a Japanese and Forth inspired postfix language](https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8)
 * [2025-09-22, 02:04:44](https://lobste.rs/s/jjqdal/multikernel_architecture_proposed_for) - [Multikernel architecture proposed for Linux](https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/)
-* [2025-09-22, 01:07:37](https://lobste.rs/s/znojhz/understanding_apple_debug_info) - [Understanding Apple Debug Info](https://www.smileykeith.com/2025/09/21/understanding-apple-debug-info/)
 * [2025-09-21, 23:57:54](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions) - [Are XSLT stylesheets pure functions?](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions)
 * [2025-09-21, 23:55:10](https://lobste.rs/s/okecc9/free_software_commons) - [The free software commons](https://jenniferplusplus.com/the-free-software-commons/)
 * [2025-09-21, 20:46:37](https://lobste.rs/s/9nofxo/apple_silicon_gpu_support_mojo) - [Apple Silicon GPU support in Mojo](https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295)
