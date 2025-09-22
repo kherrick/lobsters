@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 09:59:48](https://lobste.rs/s/zxxdp0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zxxdp0/what_are_you_doing_this_week)
 * [2025-09-22, 07:52:53](https://lobste.rs/s/d82moa/kernel_introduce_multikernel) - [kernel: Introduce multikernel architecture support](https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/)
 * [2025-09-22, 07:32:06](https://lobste.rs/s/avhvwl/under_hood_vec_t) - [Under the hood: Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
 * [2025-09-22, 06:28:11](https://lobste.rs/s/ofighg/how_i_non_developer_read_tutorial_you) - [How I, a non-developer, read the tutorial you, a developer, wrote for me, a beginner](https://anniemueller.com/posts/how-i-a-non-developer-read-the-tutorial-you-a-developer-wrote-for-me-a-beginner)
