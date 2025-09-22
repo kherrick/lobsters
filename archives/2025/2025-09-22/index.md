@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-22](index.md)
 
+* [2025-09-22, 14:33:31](https://lobste.rs/s/pbwybg/dear_github_no_yaml_anchors_please) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 * [2025-09-22, 14:16:18](https://lobste.rs/s/oaxcep/cloudflare_is_sponsoring_ladybird) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 14:00:01](https://lobste.rs/s/bkupu6/tips_for_working_with_legacy_code) - [Tips for Working with Legacy Code](https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/)
 * [2025-09-22, 13:31:33](https://lobste.rs/s/y7cieb/cap_n_web_new_rpc_system_for_browsers_web) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-22, 14:33:31](https://lobste.rs/s/pbwybg/dear_github_no_yaml_anchors_please) - [Dear GitHub: no YAML anchors, please](https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors)
 * [2025-09-22, 14:16:18](https://lobste.rs/s/oaxcep/cloudflare_is_sponsoring_ladybird) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 14:00:01](https://lobste.rs/s/bkupu6/tips_for_working_with_legacy_code) - [Tips for Working with Legacy Code](https://www.esveo.com/en/blog/tips-for-working-with-legacy-code/)
 * [2025-09-22, 13:31:33](https://lobste.rs/s/y7cieb/cap_n_web_new_rpc_system_for_browsers_web) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
@@ -8,7 +9,6 @@
 * [2025-09-22, 07:52:53](https://lobste.rs/s/d82moa/kernel_introduce_multikernel) - [kernel: Introduce multikernel architecture support](https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/)
 * [2025-09-22, 07:32:06](https://lobste.rs/s/avhvwl/under_hood_vec_t) - [Under the hood: Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
 * [2025-09-22, 06:02:45](https://lobste.rs/s/trvolm/linux_kernel_runtime_guard_lkrg_1_0) - [Linux Kernel Runtime Guard (LKRG) 1.0](https://www.openwall.com/presentations/NullconBerlin2025-LKRG/)
-* [2025-09-22, 05:18:52](https://lobste.rs/s/lsyopo/diagram_chasing) - [Diagram Chasing](https://diagramchasing.fun)
 * [2025-09-22, 04:50:57](https://lobste.rs/s/xy5d4l/japanese_forth_inspired_postfix) - [第四: a Japanese and Forth inspired postfix language](https://gist.github.com/typeswitch-dev/ac86d7e32167c1e5bf311c796cedc1a8)
 * [2025-09-22, 02:04:44](https://lobste.rs/s/jjqdal/multikernel_architecture_proposed_for) - [Multikernel architecture proposed for Linux](https://www.osnews.com/story/143398/multikernel-architecture-proposed-for-linux/)
 * [2025-09-21, 23:57:54](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions) - [Are XSLT stylesheets pure functions?](https://lobste.rs/s/altuop/are_xslt_stylesheets_pure_functions)
