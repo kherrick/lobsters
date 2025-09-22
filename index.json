@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-22, 16:37:41",
+      "https://lobste.rs/s/lvnvnn/testing_is_better_than_dsa"
+    ],
+    [
+      "Testing is better than DSA",
+      "https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 16:18:31",
       "https://lobste.rs/s/vkhfps/steve_jobs_jef_raskin_first_great_war_for"
     ],
@@ -177,16 +187,6 @@
     [
       "Parsing Crusader Kings III data files to generate mods",
       "https://wheybags.com/blog/ck3mods.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-21, 18:56:26",
-      "https://lobste.rs/s/acbjyb/storing_unwise_amounts_data_javascript"
-    ],
-    [
-      "Storing Unwise Amounts of Data in JavaScript Bigints",
-      "https://jonathan-frere.com/posts/bigints-are-cool/"
     ]
   ],
   [
