@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-23, 16:59:35",
+      "https://lobste.rs/s/ga0vwq/fifty_years_open_source_software_supply"
+    ],
+    [
+      "Fifty Years of Open Source Software Supply-Chain Security",
+      "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 16:55:45",
+      "https://lobste.rs/s/slysq6/our_plan_for_more_secure_npm_supply_chain"
+    ],
+    [
+      "Our plan for a more secure npm supply chain",
+      "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 16:51:36",
+      "https://lobste.rs/s/avber1/seven_years_firecracker"
+    ],
+    [
+      "Seven Years of Firecracker",
+      "https://brooker.co.za/blog/2025/09/18/firecracker.html"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 16:41:55",
       "https://lobste.rs/s/b8sz0h/phishing_attacks_with_new_domains_likely"
     ],
@@ -27,16 +57,6 @@
     [
       "From hand-tuned Go to self-optimizing code: Building BitsEvolve",
       "https://www.datadoghq.com/blog/engineering/self-optimizing-system/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 14:31:34",
-      "https://lobste.rs/s/lbfsed/finding_fuzzy_floats_2017"
-    ],
-    [
-      "Finding fuzzy floats (2017)",
-      "https://nedbatchelder.com/blog/201707/finding_fuzzy_floats.html"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-09-22, 16:18:31",
-      "https://lobste.rs/s/vkhfps/steve_jobs_jef_raskin_first_great_war_for"
-    ],
-    [
-      "Steve Jobs, Jef Raskin, and the first great war for your thumbs (2023)",
-      "https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 16:17:54",
       "https://lobste.rs/s/2yk3wp/memory_allocation_go"
     ],
     [
       "Memory Allocation in Go",
       "https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 14:51:33",
-      "https://lobste.rs/s/pfv1tv/long_look_at_netbsd_10_1"
-    ],
-    [
-      "A long look at NetBSD 10.1",
-      "https://distrowatch.com/weekly-mobile.php?issue=20250922#netbsd"
     ]
   ],
   [
