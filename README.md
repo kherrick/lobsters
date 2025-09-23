@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-23, 16:20:57](https://lobste.rs/s/slrphg/preemption_go_2021) - [Preemption in Go (2021)](https://hidetatz.github.io/goroutine_preemption/)
 * [2025-09-23, 15:22:17](https://lobste.rs/s/pbrput/from_hand_tuned_go_self_optimizing_code) - [From hand-tuned Go to self-optimizing code: Building BitsEvolve](https://www.datadoghq.com/blog/engineering/self-optimizing-system/)
 * [2025-09-23, 14:31:34](https://lobste.rs/s/lbfsed/finding_fuzzy_floats_2017) - [Finding fuzzy floats (2017)](https://nedbatchelder.com/blog/201707/finding_fuzzy_floats.html)
 * [2025-09-23, 14:10:16](https://lobste.rs/s/gloou0/symmetric_multiprocessing_hyper) - [Symmetric MultiProcessing, Hyper-Threading and scheduling on Maestro](https://blog.lenot.re/a/smp)
@@ -11,10 +12,10 @@
 * [2025-09-23, 06:40:51](https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0) - [Wild Linker Update - 0.6.0](https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html)
 * [2025-09-23, 03:52:01](https://lobste.rs/s/uthgrs/altoids_by_fistful) - [Altoids by the Fistful](https://www.scottsmitelli.com/articles/altoids-by-the-fistful/)
 * [2025-09-23, 02:11:38](https://lobste.rs/s/yiq42c/ai_generated_workslop_is_destroying) - [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
+* [2025-09-23, 01:48:07](https://lobste.rs/s/popcyd/exploring_grapheneos_secure_allocator) - [Exploring GrapheneOS secure allocator: Hardened Malloc](https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc)
 * [2025-09-22, 22:47:42](https://lobste.rs/s/uirhie/libghostty_is_coming) - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-22, 22:08:27](https://lobste.rs/s/a8bwsw/imagining_language_without_booleans) - [Imagining a Language without Booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
 * [2025-09-22, 20:30:18](https://lobste.rs/s/zuhb6p/some_observations_concerning_large) - [Some observations concerning large programming efforts (1964)](https://dl.acm.org/doi/10.1145/1464122.1464146)
-* [2025-09-22, 17:03:06](https://lobste.rs/s/irlx1v/flp_theorem) - [The FLP theorem](https://shachaf.net/w/flp)
 * [2025-09-22, 16:37:41](https://lobste.rs/s/lvnvnn/testing_is_better_than_data_structures) - [Testing is better than Data Structures and Algorithms](https://nedbatchelder.com/blog/202509/testing_is_better_than_dsa.html)
 * [2025-09-22, 16:18:31](https://lobste.rs/s/vkhfps/steve_jobs_jef_raskin_first_great_war_for) - [Steve Jobs, Jef Raskin, and the first great war for your thumbs (2023)](https://aresluna.org/steve-jobs-jef-raskin-and-the-first-great-war-for-your-thumbs/)
 * [2025-09-22, 16:17:54](https://lobste.rs/s/2yk3wp/memory_allocation_go) - [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html)
@@ -23,7 +24,6 @@
 * [2025-09-22, 14:16:18](https://lobste.rs/s/oaxcep/cloudflare_is_sponsoring_ladybird) - [Cloudflare is sponsoring Ladybird and Omarchy](https://blog.cloudflare.com/supporting-the-future-of-the-open-web/)
 * [2025-09-22, 13:31:33](https://lobste.rs/s/y7cieb/cap_n_web_new_rpc_system_for_browsers_web) - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/)
 * [2025-09-22, 13:06:10](https://lobste.rs/s/xbmvou/why_i_m_spoiled_by_apple_silicon_still_love) - [Why I'm Spoiled By Apple Silicon (But Still Love Framework)](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
-* [2025-09-22, 07:52:53](https://lobste.rs/s/d82moa/kernel_introduce_multikernel) - [kernel: Introduce multikernel architecture support](https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/)
 * [2025-09-22, 07:32:06](https://lobste.rs/s/avhvwl/under_hood_vec_t) - [Under the hood: Vec<T>](https://marma.dev/articles/2025/under-the-hood-vec-t)
 
 ## [Archives](archives/index.md)
