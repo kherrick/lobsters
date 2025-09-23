@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 16:20:57",
+      "https://lobste.rs/s/slrphg/preemption_go_2021"
+    ],
+    [
+      "Preemption in Go (2021)",
+      "https://hidetatz.github.io/goroutine_preemption/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 15:22:17",
       "https://lobste.rs/s/pbrput/from_hand_tuned_go_self_optimizing_code"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-09-23, 01:48:07",
+      "https://lobste.rs/s/popcyd/exploring_grapheneos_secure_allocator"
+    ],
+    [
+      "Exploring GrapheneOS secure allocator: Hardened Malloc",
+      "https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc"
+    ]
+  ],
+  [
+    [
       "2025-09-22, 22:47:42",
       "https://lobste.rs/s/uirhie/libghostty_is_coming"
     ],
@@ -137,16 +157,6 @@
     [
       "Some observations concerning large programming efforts (1964)",
       "https://dl.acm.org/doi/10.1145/1464122.1464146"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 17:03:06",
-      "https://lobste.rs/s/irlx1v/flp_theorem"
-    ],
-    [
-      "The FLP theorem",
-      "https://shachaf.net/w/flp"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 07:52:53",
-      "https://lobste.rs/s/d82moa/kernel_introduce_multikernel"
-    ],
-    [
-      "kernel: Introduce multikernel architecture support",
-      "https://lore.kernel.org/lkml/20250918222607.186488-1-xiyou.wangcong@gmail.com/"
     ]
   ],
   [
