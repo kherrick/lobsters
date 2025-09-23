@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-09-23, 01:48:07",
-      "https://lobste.rs/s/popcyd/exploring_grapheneos_secure_allocator"
-    ],
-    [
-      "Exploring GrapheneOS secure allocator: Hardened Malloc",
-      "https://www.synacktiv.com/en/publications/exploring-grapheneos-secure-allocator-hardened-malloc"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 22:47:42",
       "https://lobste.rs/s/uirhie/libghostty_is_coming"
     ],
@@ -147,6 +137,16 @@
     [
       "Some observations concerning large programming efforts (1964)",
       "https://dl.acm.org/doi/10.1145/1464122.1464146"
+    ]
+  ],
+  [
+    [
+      "2025-09-22, 17:03:06",
+      "https://lobste.rs/s/irlx1v/flp_theorem"
+    ],
+    [
+      "The FLP theorem",
+      "https://shachaf.net/w/flp"
     ]
   ],
   [
