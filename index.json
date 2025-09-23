@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-23, 19:19:53",
+      "https://lobste.rs/s/xfurcn/procedural_rhetoric_opinions_as"
+    ],
+    [
+      "Procedural Rhetoric: Opinions as Algorithms",
+      "https://entropicthoughts.com/reed-on-opinions-as-algorithms"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 19:13:36",
+      "https://lobste.rs/s/iibpk0/128_language_quine_relay_2018"
+    ],
+    [
+      "The 128-Language Quine Relay (2018)",
+      "https://esoteric.codes/blog/the-128-language-quine-relay"
+    ]
+  ],
+  [
+    [
+      "2025-09-23, 17:27:24",
+      "https://lobste.rs/s/hbreew/targetting_specific_characters_with_css"
+    ],
+    [
+      "Targetting specific characters with CSS rules",
+      "https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 16:59:35",
       "https://lobste.rs/s/ga0vwq/fifty_years_open_source_software_supply"
     ],
@@ -47,16 +77,6 @@
     [
       "From hand-tuned Go to self-optimizing code: Building BitsEvolve",
       "https://www.datadoghq.com/blog/engineering/self-optimizing-system/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 14:31:34",
-      "https://lobste.rs/s/lbfsed/finding_fuzzy_floats_2017"
-    ],
-    [
-      "Finding fuzzy floats (2017)",
-      "https://nedbatchelder.com/blog/201707/finding_fuzzy_floats.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-09-22, 20:30:18",
-      "https://lobste.rs/s/zuhb6p/some_observations_concerning_large"
-    ],
-    [
-      "Some observations concerning large programming efforts (1964)",
-      "https://dl.acm.org/doi/10.1145/1464122.1464146"
-    ]
-  ],
-  [
-    [
       "2025-09-22, 16:37:41",
       "https://lobste.rs/s/lvnvnn/testing_is_better_than_data_structures"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I'm Spoiled By Apple Silicon (But Still Love Framework)",
       "https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 07:32:06",
-      "https://lobste.rs/s/avhvwl/under_hood_vec_t"
-    ],
-    [
-      "Under the hood: Vec<T>",
-      "https://marma.dev/articles/2025/under-the-hood-vec-t"
     ]
   ]
 ]
