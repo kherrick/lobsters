@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 19:19:53](https://lobste.rs/s/xfurcn/procedural_rhetoric_opinions_as) - [Procedural Rhetoric: Opinions as Algorithms](https://entropicthoughts.com/reed-on-opinions-as-algorithms)
+* [2025-09-23, 19:13:36](https://lobste.rs/s/iibpk0/128_language_quine_relay_2018) - [The 128-Language Quine Relay (2018)](https://esoteric.codes/blog/the-128-language-quine-relay)
 * [2025-09-23, 17:27:24](https://lobste.rs/s/hbreew/targetting_specific_characters_with_css) - [Targetting specific characters with CSS rules](https://shkspr.mobi/blog/2025/09/targetting-specific-characters-with-css-rules/)
 * [2025-09-23, 16:59:35](https://lobste.rs/s/ga0vwq/fifty_years_open_source_software_supply) - [Fifty Years of Open Source Software Supply-Chain Security](https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/)
 * [2025-09-23, 16:55:45](https://lobste.rs/s/slysq6/our_plan_for_more_secure_npm_supply_chain) - [Our plan for a more secure npm supply chain](https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/)
