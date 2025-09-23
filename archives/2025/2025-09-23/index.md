@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 20:50:32](https://lobste.rs/s/btqhds/confidential_computing_with_openbsd) - [Confidential Computing with OpenBSD](https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM)
 * [2025-09-23, 20:35:51](https://lobste.rs/s/jxrtjp/rust_foundation_signs_joint_statement_on) - [Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship](https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/)
 * [2025-09-23, 19:19:53](https://lobste.rs/s/xfurcn/procedural_rhetoric_opinions_as) - [Procedural Rhetoric: Opinions as Algorithms](https://entropicthoughts.com/reed-on-opinions-as-algorithms)
 * [2025-09-23, 19:13:36](https://lobste.rs/s/iibpk0/128_language_quine_relay_2018) - [The 128-Language Quine Relay (2018)](https://esoteric.codes/blog/the-128-language-quine-relay)
