@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-23, 15:22:17",
+      "https://lobste.rs/s/pbrput/from_hand_tuned_go_self_optimizing_code"
+    ],
+    [
+      "From hand-tuned Go to self-optimizing code: Building BitsEvolve",
+      "https://www.datadoghq.com/blog/engineering/self-optimizing-system/"
+    ]
+  ],
+  [
+    [
       "2025-09-23, 14:31:34",
       "https://lobste.rs/s/lbfsed/finding_fuzzy_floats_2017"
     ],
@@ -137,16 +147,6 @@
     [
       "Some observations concerning large programming efforts (1964)",
       "https://dl.acm.org/doi/10.1145/1464122.1464146"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 17:03:06",
-      "https://lobste.rs/s/irlx1v/flp_theorem"
-    ],
-    [
-      "The FLP theorem",
-      "https://shachaf.net/w/flp"
     ]
   ],
   [
