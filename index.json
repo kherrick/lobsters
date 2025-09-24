@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-24, 20:40:58",
+      "https://lobste.rs/s/o8ibca/crates_io_malicious_crates_faster_log"
+    ],
+    [
+      "crates.io: Malicious crates faster_log and async_println",
+      "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 18:24:35",
       "https://lobste.rs/s/catpmf/realtime_raytracing_bevy_0_17_solari"
     ],
@@ -237,16 +247,6 @@
     [
       "Crypto Miner in hotio/qbittorrent",
       "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 22:08:27",
-      "https://lobste.rs/s/a8bwsw/imagining_language_without_booleans"
-    ],
-    [
-      "Imagining a Language without Booleans",
-      "https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html"
     ]
   ]
 ]
