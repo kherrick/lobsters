@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-24, 10:03:24",
+      "https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens"
+    ],
+    [
+      "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
+      "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 06:36:20",
       "https://lobste.rs/s/capy02/moving_fast_hardware_how_ipod_shipped_6"
     ],
@@ -67,16 +77,6 @@
     [
       "From Rust to Reality: The Hidden Journey of fetch_max",
       "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 00:23:49",
-      "https://lobste.rs/s/b1xtuk/apples_trees_quasimodes"
-    ],
-    [
-      "Apples, Trees, and Quasimodes",
-      "https://systemstack.dev/2025/09/humane-computing/"
     ]
   ],
   [
