@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-09-24, 05:51:36",
+      "https://lobste.rs/s/njnyic/vbare_simple_alternative_protobuf_cap_n"
+    ],
+    [
+      "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
+      "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 05:07:10",
       "https://lobste.rs/s/zfktn9/google_continues_invest_350k_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "Fifty Years of Open Source Software Supply-Chain Security",
       "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 13:41:23",
-      "https://lobste.rs/s/wb9ocu/using_dns_for_responding_acme_challenges"
-    ],
-    [
-      "Using DNS for responding to ACME challenges",
-      "https://hsm.tunnel53.net/article/dns-for-acme-challenges/"
     ]
   ],
   [
