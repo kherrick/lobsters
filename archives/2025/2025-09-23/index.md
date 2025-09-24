@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-23](index.md)
 
+* [2025-09-23, 23:09:31](https://lobste.rs/s/t0ejz7/walking_around_compiler) - [Walking around the compiler](https://bernsteinbear.com/blog/walking-around/)
 * [2025-09-23, 22:55:38](https://lobste.rs/s/shbssy/benjamin_button_reviews_macos) - [Benjamin Button Reviews macOS](https://rakhim.exotext.com/benjamin-button-reviews-macos)
 * [2025-09-23, 20:57:14](https://lobste.rs/s/qrbf0u/what_if_humanity_forgot_how_make_cpus) - [What if Humanity forgot how to make CPUs?](https://www.youtube.com/watch?v=L2OJFqs8bUk)
 * [2025-09-23, 20:50:32](https://lobste.rs/s/btqhds/confidential_computing_with_openbsd) - [Confidential Computing with OpenBSD](https://toobnix.org/w/v7xpcN8MyouxGTnwYt35WM)
