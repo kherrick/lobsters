@@ -8,6 +8,7 @@
 * [2025-09-24, 17:40:22](https://lobste.rs/s/8igt9j/jruby_jdk_25_startup_time_with_aotcache) - [JRuby and JDK 25: Startup Time with AOTCache](https://blog.headius.com/2025/09/jruby-jdk25-startup-time-with-aotcache.html)
 * [2025-09-24, 16:27:40](https://lobste.rs/s/8vj1t9/temporal_rs_is_here_datetime_library) - [Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8 | Boa JS](https://boajs.dev/blog/2025/09/24/temporal-release)
 * [2025-09-24, 15:55:10](https://lobste.rs/s/u1rffj/engineering_fixed_width_bit_packed) - [Engineering a fixed-width bit-packed Integer Vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
+* [2025-09-24, 15:49:29](https://lobste.rs/s/wsmnrg/tuning_aio_postgresql_18) - [Tuning AIO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
 * [2025-09-24, 14:53:26](https://lobste.rs/s/gbqfxb/adventures_cpu_contention) - [Adventures in CPU contention](https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/)
 * [2025-09-24, 13:53:32](https://lobste.rs/s/byiden/unlocking_performance_python_s_free) - [Unlocking Performance in Python's Free-Threaded Future: GC Optimizations](https://labs.quansight.org/blog/free-threaded-gc-3-14)
 * [2025-09-24, 13:51:00](https://lobste.rs/s/f13wey/don_t_even_consider_starting_with) - [Don't even consider starting with Microsoft](https://lionelbarrow.substack.com/p/dont-even-consider-starting-with)
