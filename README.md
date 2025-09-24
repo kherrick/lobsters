@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-24, 23:49:31](https://lobste.rs/s/2v6zx6/cparse_cparse_is_lr_1_lalr_1_parser) - [cparse: cparse is an LR(1) and LALR(1) parser generator](https://github.com/h2337/cparse)
 * [2025-09-24, 20:40:58](https://lobste.rs/s/o8ibca/crates_io_malicious_crates_faster_log) - [crates.io: Malicious crates faster_log and async_println](https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/)
 * [2025-09-24, 18:24:35](https://lobste.rs/s/catpmf/realtime_raytracing_bevy_0_17_solari) - [Realtime Raytracing in Bevy 0.17 (Solari)](https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/)
 * [2025-09-24, 17:40:22](https://lobste.rs/s/8igt9j/jruby_jdk_25_startup_time_with_aotcache) - [JRuby and JDK 25: Startup Time with AOTCache](https://blog.headius.com/2025/09/jruby-jdk25-startup-time-with-aotcache.html)
@@ -11,7 +12,6 @@
 * [2025-09-24, 13:53:32](https://lobste.rs/s/byiden/unlocking_performance_python_s_free) - [Unlocking Performance in Python's Free-Threaded Future: GC Optimizations](https://labs.quansight.org/blog/free-threaded-gc-3-14)
 * [2025-09-24, 13:51:00](https://lobste.rs/s/f13wey/don_t_even_consider_starting_with) - [Don't even consider starting with Microsoft](https://lionelbarrow.substack.com/p/dont-even-consider-starting-with)
 * [2025-09-24, 13:30:40](https://lobste.rs/s/aimofq/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf)
-* [2025-09-24, 12:32:24](https://lobste.rs/s/nknxl2/grammar_induction) - [Grammar induction](https://en.wikipedia.org/wiki/Grammar_induction)
 * [2025-09-24, 10:03:24](https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens) - [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 06:36:20](https://lobste.rs/s/capy02/moving_fast_hardware_how_ipod_shipped_6) - [Moving fast in hardware: how the iPod shipped in 6 months](https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/)
 * [2025-09-24, 05:51:36](https://lobste.rs/s/njnyic/vbare_simple_alternative_protobuf_cap_n) - [VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution](https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance)
