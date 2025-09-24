@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-09-24, 15:49:29",
+      "https://lobste.rs/s/wsmnrg/tuning_aio_postgresql_18"
+    ],
+    [
+      "Tuning AIO in PostgreSQL 18",
+      "https://vondra.me/posts/tuning-aio-in-postgresql-18/"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 14:53:26",
       "https://lobste.rs/s/gbqfxb/adventures_cpu_contention"
     ],
@@ -67,16 +77,6 @@
     [
       "Don't even consider starting with Microsoft",
       "https://lionelbarrow.substack.com/p/dont-even-consider-starting-with"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 13:44:33",
-      "https://lobste.rs/s/xlpqhd/from_steam_floppy_porting_modern"
-    ],
-    [
-      "From Steam to Floppy: Porting Modern TypeScript to Run on DOS",
-      "https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/"
     ]
   ],
   [
