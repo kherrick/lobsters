@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-24, 13:30:40](https://lobste.rs/s/aimofq/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf)
+* [2025-09-24, 13:44:33](https://lobste.rs/s/xlpqhd/from_steam_floppy_porting_modern) - [From Steam to Floppy: Porting Modern TypeScript to Run on DOS](https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/)
 * [2025-09-24, 13:25:52](https://lobste.rs/s/rhvuc5/pixi_global_now_with_desktop_shortcuts) - [pixi global: now with desktop shortcuts and CLI autocompletions](https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions)
 * [2025-09-24, 12:32:24](https://lobste.rs/s/nknxl2/grammar_induction) - [Grammar induction](https://en.wikipedia.org/wiki/Grammar_induction)
 * [2025-09-24, 10:03:24](https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens) - [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
