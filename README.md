@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-24, 15:55:10](https://lobste.rs/s/u1rffj/engineering_fixed_width_bit_packed) - [Engineering a fixed-width bit-packed Integer Vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
+* [2025-09-24, 14:53:26](https://lobste.rs/s/gbqfxb/adventures_cpu_contention) - [Adventures in CPU contention](https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/)
 * [2025-09-24, 13:53:32](https://lobste.rs/s/byiden/unlocking_performance_python_s_free) - [Unlocking Performance in Python's Free-Threaded Future: GC Optimizations](https://labs.quansight.org/blog/free-threaded-gc-3-14)
 * [2025-09-24, 13:51:00](https://lobste.rs/s/f13wey/don_t_even_consider_starting_with) - [Don't even consider starting with Microsoft](https://lionelbarrow.substack.com/p/dont-even-consider-starting-with)
 * [2025-09-24, 13:44:33](https://lobste.rs/s/xlpqhd/from_steam_floppy_porting_modern) - [From Steam to Floppy: Porting Modern TypeScript to Run on DOS](https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/)
@@ -22,8 +24,6 @@
 * [2025-09-23, 13:41:23](https://lobste.rs/s/wb9ocu/using_dns_for_responding_acme_challenges) - [Using DNS for responding to ACME challenges](https://hsm.tunnel53.net/article/dns-for-acme-challenges/)
 * [2025-09-23, 12:30:20](https://lobste.rs/s/x2jobn/go_has_added_valgrind_support) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 10:47:46](https://lobste.rs/s/6wzpji/crypto_miner_hotio_qbittorrent) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
-* [2025-09-23, 06:40:51](https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0) - [Wild Linker Update - 0.6.0](https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html)
-* [2025-09-22, 22:47:42](https://lobste.rs/s/uirhie/libghostty_is_coming) - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-22, 22:08:27](https://lobste.rs/s/a8bwsw/imagining_language_without_booleans) - [Imagining a Language without Booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
 
 ## [Archives](archives/index.md)
