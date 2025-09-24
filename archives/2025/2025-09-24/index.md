@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-24](index.md)
 
+* [2025-09-24, 13:51:00](https://lobste.rs/s/f13wey/don_t_even_consider_starting_with) - [Don't even consider starting with Microsoft](https://lionelbarrow.substack.com/p/dont-even-consider-starting-with)
 * [2025-09-24, 13:44:33](https://lobste.rs/s/xlpqhd/from_steam_floppy_porting_modern) - [From Steam to Floppy: Porting Modern TypeScript to Run on DOS](https://jimb.ly/2025/09/23/qauntumpulse-from-steam-to-floppy/)
 * [2025-09-24, 13:30:40](https://lobste.rs/s/aimofq/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf)
 * [2025-09-24, 13:25:52](https://lobste.rs/s/rhvuc5/pixi_global_now_with_desktop_shortcuts) - [pixi global: now with desktop shortcuts and CLI autocompletions](https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions)
