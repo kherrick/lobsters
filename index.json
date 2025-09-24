@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-24, 15:55:10",
+      "https://lobste.rs/s/u1rffj/engineering_fixed_width_bit_packed"
+    ],
+    [
+      "Engineering a fixed-width bit-packed Integer Vector in Rust",
+      "https://lukefleed.xyz/posts/compressed-fixedvec/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 14:53:26",
+      "https://lobste.rs/s/gbqfxb/adventures_cpu_contention"
+    ],
+    [
+      "Adventures in CPU contention",
+      "https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 13:53:32",
       "https://lobste.rs/s/byiden/unlocking_performance_python_s_free"
     ],
@@ -217,26 +237,6 @@
     [
       "Crypto Miner in hotio/qbittorrent",
       "https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 06:40:51",
-      "https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0"
-    ],
-    [
-      "Wild Linker Update - 0.6.0",
-      "https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-22, 22:47:42",
-      "https://lobste.rs/s/uirhie/libghostty_is_coming"
-    ],
-    [
-      "Libghostty Is Coming",
-      "https://mitchellh.com/writing/libghostty-is-coming"
     ]
   ],
   [
