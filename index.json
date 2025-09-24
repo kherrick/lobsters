@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-09-24, 16:23:31",
+      "https://lobste.rs/s/v7qdfg/php_fractal_bad_design_2012"
+    ],
+    [
+      "PHP: a fractal of bad design (2012)",
+      "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/"
+    ]
+  ],
+  [
+    [
       "2025-09-24, 15:55:10",
       "https://lobste.rs/s/u1rffj/engineering_fixed_width_bit_packed"
     ],
@@ -47,16 +57,6 @@
     [
       "Tuning AIO in PostgreSQL 18",
       "https://vondra.me/posts/tuning-aio-in-postgresql-18/"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 14:53:26",
-      "https://lobste.rs/s/gbqfxb/adventures_cpu_contention"
-    ],
-    [
-      "Adventures in CPU contention",
-      "https://andre.arko.net/2025/09/23/adventures-in-cpu-contention/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Moving fast in hardware: how the iPod shipped in 6 months",
       "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 05:51:36",
+      "https://lobste.rs/s/njnyic/vbare_simple_alternative_protobuf_cap_n"
+    ],
+    [
+      "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
+      "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Fifty Years of Open Source Software Supply-Chain Security",
       "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 13:41:23",
-      "https://lobste.rs/s/wb9ocu/using_dns_for_responding_acme_challenges"
-    ],
-    [
-      "Using DNS for responding to ACME challenges",
-      "https://hsm.tunnel53.net/article/dns-for-acme-challenges/"
     ]
   ],
   [
