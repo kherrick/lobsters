@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-24, 13:30:40](https://lobste.rs/s/aimofq/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf)
+* [2025-09-24, 13:25:52](https://lobste.rs/s/rhvuc5/pixi_global_now_with_desktop_shortcuts) - [pixi global: now with desktop shortcuts and CLI autocompletions](https://prefix.dev/blog/using-pixi-as-a-system-package-manager-with-shortcuts-and-completions)
 * [2025-09-24, 12:32:24](https://lobste.rs/s/nknxl2/grammar_induction) - [Grammar induction](https://en.wikipedia.org/wiki/Grammar_induction)
 * [2025-09-24, 10:03:24](https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens) - [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
 * [2025-09-24, 06:36:20](https://lobste.rs/s/capy02/moving_fast_hardware_how_ipod_shipped_6) - [Moving fast in hardware: how the iPod shipped in 6 months](https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/)
@@ -21,10 +23,8 @@
 * [2025-09-23, 12:30:20](https://lobste.rs/s/x2jobn/go_has_added_valgrind_support) - [Go has added Valgrind support](https://go-review.googlesource.com/c/go/+/674077)
 * [2025-09-23, 10:47:46](https://lobste.rs/s/6wzpji/crypto_miner_hotio_qbittorrent) - [Crypto Miner in hotio/qbittorrent](https://apogliaghi.com/2025/09/crypto-miner-in-hotio/qbittorrent/)
 * [2025-09-23, 06:40:51](https://lobste.rs/s/f6yv3w/wild_linker_update_0_6_0) - [Wild Linker Update - 0.6.0](https://davidlattimore.github.io/posts/2025/09/23/wild-update-0.6.0.html)
-* [2025-09-23, 02:11:38](https://lobste.rs/s/yiq42c/ai_generated_workslop_is_destroying) - [AI-Generated “Workslop” Is Destroying Productivity](https://hbr.org/2025/09/ai-generated-workslop-is-destroying-productivity)
 * [2025-09-22, 22:47:42](https://lobste.rs/s/uirhie/libghostty_is_coming) - [Libghostty Is Coming](https://mitchellh.com/writing/libghostty-is-coming)
 * [2025-09-22, 22:08:27](https://lobste.rs/s/a8bwsw/imagining_language_without_booleans) - [Imagining a Language without Booleans](https://justinpombrio.net/2025/09/22/imagining-a-language-without-booleans.html)
-* [2025-09-22, 13:06:10](https://lobste.rs/s/xbmvou/why_i_m_spoiled_by_apple_silicon_still_love) - [Why I'm Spoiled By Apple Silicon (But Still Love Framework)](https://simonhartcher.com/posts/2025-09-22-why-im-spoiled-by-apple-silicon-but-still-love-framework/)
 
 ## [Archives](archives/index.md)
 
