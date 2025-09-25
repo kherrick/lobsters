@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-25, 14:08:51",
+      "https://lobste.rs/s/smlfkc/this_month_servo_variable_fonts_network"
+    ],
+    [
+      "This month in Servo: variable fonts, network tools, SVG",
+      "https://servo.org/blog/2025/09/25/this-month-in-servo/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 13:59:36",
       "https://lobste.rs/s/et0bry/ceiling_division_mip_map_sizes"
     ],
@@ -167,16 +177,6 @@
     [
       "crates.io: Malicious crates faster_log and async_println",
       "https://blog.rust-lang.org/2025/09/24/crates.io-malicious-crates-fasterlog-and-asyncprintln/"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 18:24:35",
-      "https://lobste.rs/s/catpmf/realtime_raytracing_bevy_0_17_solari"
-    ],
-    [
-      "Realtime Raytracing in Bevy 0.17 (Solari)",
-      "https://jms55.github.io/posts/2025-09-20-solari-bevy-0-17/"
     ]
   ],
   [
