@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-09-25, 01:54:01",
+      "https://lobste.rs/s/7ohiib/naming_tack_symbols"
+    ],
+    [
+      "The Naming of Tack Symbols",
+      "https://www.math.uwaterloo.ca/~ljdickey/apl-rep/tables/note1.html"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 01:11:06",
+      "https://lobste.rs/s/3sg5sy/graal_truffle_tutorial_part_0_what_is"
+    ],
+    [
+      "Graal Truffle tutorial part 0 – what is Truffle?",
+      "https://www.endoflineblog.com/graal-truffle-tutorial-part-0-what-is-truffle"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 00:03:41",
       "https://lobste.rs/s/2womxj/cross_agent_privilege_escalation_when"
     ],
     [
       "Cross-Agent Privilege Escalation: When Agents Free Each Other ·",
       "https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 23:49:31",
+      "https://lobste.rs/s/2v6zx6/cparse_cparse_is_lr_1_lalr_1_parser"
+    ],
+    [
+      "cparse: cparse is an LR(1) and LALR(1) parser generator",
+      "https://github.com/h2337/cparse"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2025-09-24, 13:53:32",
-      "https://lobste.rs/s/byiden/unlocking_performance_python_s_free"
-    ],
-    [
-      "Unlocking Performance in Python's Free-Threaded Future: GC Optimizations",
-      "https://labs.quansight.org/blog/free-threaded-gc-3-14"
-    ]
-  ],
-  [
-    [
       "2025-09-24, 13:51:00",
       "https://lobste.rs/s/f13wey/don_t_even_consider_starting_with"
     ],
@@ -137,16 +157,6 @@
     [
       "Moving fast in hardware: how the iPod shipped in 6 months",
       "https://www.hscott.net/moving-fast-in-hardware-how-the-ipod-shipped-in-6-months/"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 05:51:36",
-      "https://lobste.rs/s/njnyic/vbare_simple_alternative_protobuf_cap_n"
-    ],
-    [
-      "VBARE: A simple alternative to Protobuf & Cap'n Proto for schema evolution",
-      "https://www.rivet.dev/blog/2025-09-24-vbare-simple-schema-evolution-with-maximum-performance"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Fifty Years of Open Source Software Supply-Chain Security",
       "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 12:30:20",
-      "https://lobste.rs/s/x2jobn/go_has_added_valgrind_support"
-    ],
-    [
-      "Go has added Valgrind support",
-      "https://go-review.googlesource.com/c/go/+/674077"
     ]
   ],
   [
