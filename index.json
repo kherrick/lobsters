@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-09-25, 10:36:28",
-      "https://lobste.rs/s/rtjelk/bundler_belongs_ruby_community"
-    ],
-    [
-      "Bundler belongs to the Ruby community",
-      "https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/"
-    ]
-  ],
-  [
-    [
       "2025-09-25, 10:32:24",
       "https://lobste.rs/s/4lva3o/theatre_pull_requests_code_review"
     ],
@@ -87,16 +77,6 @@
     [
       "Helium Browser",
       "https://helium.computer"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 06:55:42",
-      "https://lobste.rs/s/wjornz/open_letter_rails_core_team_ruby"
-    ],
-    [
-      "An open letter to the Rails Core team and Ruby community",
-      "https://github.com/Plan-Vert/open-letter"
     ]
   ],
   [
@@ -157,6 +137,16 @@
     [
       "Use the Force (Feedback) to Solder Small Things",
       "https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 01:54:01",
+      "https://lobste.rs/s/7ohiib/naming_tack_symbols"
+    ],
+    [
+      "The Naming of Tack Symbols",
+      "https://www.math.uwaterloo.ca/~ljdickey/apl-rep/tables/note1.html"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
       "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
+    ]
+  ],
+  [
+    [
+      "2025-09-24, 05:07:10",
+      "https://lobste.rs/s/zfktn9/google_continues_invest_350k_rust"
+    ],
+    [
+      "Google continues to invest 350k in the Rust ecosystem",
+      "https://www.linkedin.com/posts/lars-a-bergstrom_android-rust-security-activity-7376353918022270976-Y73P"
     ]
   ],
   [
