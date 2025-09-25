@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 08:11:19](https://lobste.rs/s/bfhgh2/zed_s_pricing_has_changed_llm_usage_is_now) - [Zed's Pricing Has Changed: LLM Usage Is Now Token-Based](https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based)
+* [2025-09-25, 08:08:02](https://lobste.rs/s/ruifje/raspberry_pi_500_launched) - [Raspberry Pi 500+ launched](https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/)
 * [2025-09-25, 06:18:20](https://lobste.rs/s/tllr5w/hierarchical_field_sort_with_string) - [Hierarchical field sort with string interning](https://nullprogram.com/blog/2025/09/24/)
 * [2025-09-25, 06:13:03](https://lobste.rs/s/5yxfew/cheri_efforts_get_linux_running_on_it) - [CHERI and the efforts to get Linux running on it](https://lwn.net/SubscriberLink/1037974/903c6f9a42f7782a/)
 * [2025-09-25, 06:12:49](https://lobste.rs/s/zph6zo/knotty_domain_specific_language_for) - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
