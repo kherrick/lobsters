@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-09-25, 08:11:19",
-      "https://lobste.rs/s/bfhgh2/zed_s_pricing_has_changed_llm_usage_is_now"
+      "2025-09-25, 09:27:15",
+      "https://lobste.rs/s/g75jje/fundamental_virtual_memory"
     ],
     [
-      "Zed's Pricing Has Changed: LLM Usage Is Now Token-Based",
-      "https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based"
+      "Fundamental of Virtual Memory",
+      "https://nghiant3223.github.io/2025/05/29/fundamental_of_virtual_memory.html"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Raspberry Pi 500+ launched",
       "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 07:31:29",
+      "https://lobste.rs/s/iztrs8/helium_browser"
+    ],
+    [
+      "Helium Browser",
+      "https://helium.computer"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Should Neovim support transitive plugin dependencies?",
       "https://sink.io/jmk/neovim-plugin-deps/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 20:35:51",
-      "https://lobste.rs/s/jxrtjp/rust_foundation_signs_joint_statement_on"
-    ],
-    [
-      "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
-      "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/"
     ]
   ]
 ]
