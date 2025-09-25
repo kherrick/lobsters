@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-25, 08:11:19",
+      "https://lobste.rs/s/bfhgh2/zed_s_pricing_has_changed_llm_usage_is_now"
+    ],
+    [
+      "Zed's Pricing Has Changed: LLM Usage Is Now Token-Based",
+      "https://zed.dev/blog/pricing-change-llm-usage-is-now-token-based"
+    ]
+  ],
+  [
+    [
+      "2025-09-25, 08:08:02",
+      "https://lobste.rs/s/ruifje/raspberry_pi_500_launched"
+    ],
+    [
+      "Raspberry Pi 500+ launched",
+      "https://www.raspberrypi.com/news/the-ultimate-all-in-one-pc-raspberry-pi-500-plus-on-sale-now-at-200/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 06:13:03",
       "https://lobste.rs/s/5yxfew/cheri_efforts_get_linux_running_on_it"
     ],
@@ -81,22 +101,12 @@
   ],
   [
     [
-      "2025-09-25, 00:03:41",
-      "https://lobste.rs/s/2womxj/cross_agent_privilege_escalation_when"
+      "2025-09-24, 22:08:05",
+      "https://lobste.rs/s/2h0qyr/drinking_with_datalog"
     ],
     [
-      "Cross-Agent Privilege Escalation: When Agents Free Each Other ·",
-      "https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 23:49:31",
-      "https://lobste.rs/s/2v6zx6/cparse_cparse_is_lr_1_lalr_1_parser"
-    ],
-    [
-      "cparse: cparse is an LR(1) and LALR(1) parser generator",
-      "https://github.com/h2337/cparse"
+      "Drinking with Datalog",
+      "https://ianthehenry.com/posts/drinking-with-datalog/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Should Neovim support transitive plugin dependencies?",
       "https://sink.io/jmk/neovim-plugin-deps/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 22:55:38",
-      "https://lobste.rs/s/shbssy/benjamin_button_reviews_macos"
-    ],
-    [
-      "Benjamin Button Reviews macOS",
-      "https://rakhim.exotext.com/benjamin-button-reviews-macos"
     ]
   ],
   [
