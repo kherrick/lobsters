@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 13:27:21](https://lobste.rs/s/gi7ac7/what_are_popular_ai_coding_benchmarks) - [What are popular AI coding benchmarks actually measuring?](https://blog.nilenso.com/blog/2025/09/25/swe-benchmarks/)
 * [2025-09-25, 12:50:24](https://lobste.rs/s/6b0ud8/introducing_emacs_agent_shell_powered_by) - [Introducing Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 * [2025-09-25, 10:49:20](https://lobste.rs/s/jqikf7/thoughts_on_cloudflare) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 * [2025-09-25, 10:36:28](https://lobste.rs/s/rtjelk/bundler_belongs_ruby_community) - [Bundler belongs to the Ruby community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/)
