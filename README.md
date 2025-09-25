@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-25, 03:24:57](https://lobste.rs/s/xdghmi/use_force_feedback_solder_small_things) - [Use the Force (Feedback) to Solder Small Things](https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/)
 * [2025-09-25, 01:54:01](https://lobste.rs/s/7ohiib/naming_tack_symbols) - [The Naming of Tack Symbols](https://www.math.uwaterloo.ca/~ljdickey/apl-rep/tables/note1.html)
 * [2025-09-25, 01:11:06](https://lobste.rs/s/3sg5sy/graal_truffle_tutorial_part_0_what_is) - [Graal Truffle tutorial part 0 – what is Truffle?](https://www.endoflineblog.com/graal-truffle-tutorial-part-0-what-is-truffle)
 * [2025-09-25, 00:03:41](https://lobste.rs/s/2womxj/cross_agent_privilege_escalation_when) - [Cross-Agent Privilege Escalation: When Agents Free Each Other ·](https://embracethered.com/blog/posts/2025/cross-agent-privilege-escalation-agents-that-free-each-other/)
@@ -11,7 +12,6 @@
 * [2025-09-24, 16:23:31](https://lobste.rs/s/v7qdfg/php_fractal_bad_design_2012) - [PHP: a fractal of bad design (2012)](https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/)
 * [2025-09-24, 15:55:10](https://lobste.rs/s/u1rffj/engineering_fixed_width_bit_packed) - [Engineering a fixed-width bit-packed Integer Vector in Rust](https://lukefleed.xyz/posts/compressed-fixedvec/)
 * [2025-09-24, 15:49:29](https://lobste.rs/s/wsmnrg/tuning_aio_postgresql_18) - [Tuning AIO in PostgreSQL 18](https://vondra.me/posts/tuning-aio-in-postgresql-18/)
-* [2025-09-24, 15:42:03](https://lobste.rs/s/ywvxqu/growth_swift_server_ecosystem) - [The Growth of the Swift Server Ecosystem](https://www.swift.org/blog/swift-on-the-server-ecosystem/)
 * [2025-09-24, 13:51:00](https://lobste.rs/s/f13wey/don_t_even_consider_starting_with) - [Don't even consider starting with Microsoft](https://lionelbarrow.substack.com/p/dont-even-consider-starting-with)
 * [2025-09-24, 13:30:40](https://lobste.rs/s/aimofq/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/research/papers/kell25substratus.pdf)
 * [2025-09-24, 10:03:24](https://lobste.rs/s/p1mdwu/how_s3_scales_petabytes_second_on_top_tens) - [How S3 scales to petabytes a second on top of tens of millions of slow HDDs](https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives)
