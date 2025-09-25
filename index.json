@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-25, 18:03:43",
+      "https://lobste.rs/s/c1oexv/tracing_jits_real_world_cpython_core_dev"
+    ],
+    [
+      "Tracing JITs in the real world @ CPython Core Dev Sprint",
+      "https://antocuni.eu/2025/09/24/tracing-jits-in-the-real-world--cpython-core-dev-sprint/"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 15:32:36",
       "https://lobste.rs/s/ppm44i/very_early_history_algebraic_data_types"
     ],
@@ -237,16 +247,6 @@
     [
       "How S3 scales to petabytes a second on top of tens of millions of slow HDDs",
       "https://bigdatastream.substack.com/p/how-aws-s3-scales-with-tens-of-millions-of-hard-drives"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 03:41:06",
-      "https://lobste.rs/s/pn4hqe/should_neovim_support_transitive_plugin"
-    ],
-    [
-      "Should Neovim support transitive plugin dependencies?",
-      "https://sink.io/jmk/neovim-plugin-deps/"
     ]
   ]
 ]
