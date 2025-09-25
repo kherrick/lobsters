@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-25, 14:13:40",
+      "https://lobste.rs/s/hy2hxg/announcing_do_v2_0_dependency_injection"
+    ],
+    [
+      "Announcing \"do\" v2.0 - Dependency injection for Go",
+      "https://github.com/samber/do/releases/tag/v2.0.0"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 14:08:51",
       "https://lobste.rs/s/smlfkc/this_month_servo_variable_fonts_network"
     ],
@@ -207,16 +217,6 @@
     [
       "Temporal_rs is here! The datetime library powering Temporal in Boa, Kiesel, and V8",
       "https://boajs.dev/blog/2025/09/24/temporal-release"
-    ]
-  ],
-  [
-    [
-      "2025-09-24, 16:23:31",
-      "https://lobste.rs/s/v7qdfg/php_fractal_bad_design_2012"
-    ],
-    [
-      "PHP: a fractal of bad design (2012)",
-      "https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/"
     ]
   ],
   [
