@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 12:50:24](https://lobste.rs/s/6b0ud8/introducing_emacs_agent_shell_powered_by) - [Introducing Emacs agent-shell (powered by ACP)](https://xenodium.com/introducing-agent-shell)
 * [2025-09-25, 10:49:20](https://lobste.rs/s/jqikf7/thoughts_on_cloudflare) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 * [2025-09-25, 10:36:28](https://lobste.rs/s/rtjelk/bundler_belongs_ruby_community) - [Bundler belongs to the Ruby community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/)
 * [2025-09-25, 10:32:24](https://lobste.rs/s/4lva3o/theatre_pull_requests_code_review) - [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
