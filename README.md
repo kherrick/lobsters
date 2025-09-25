@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-25, 21:58:15](https://lobste.rs/s/mudqlv/zoomer_tries_rss_praise_yarr) - [Zoomer Tries RSS: In Praise of Yarr](https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/)
 * [2025-09-25, 20:45:46](https://lobste.rs/s/2yp6ey/starless_how_we_accidentally_vanished) - [Starless: How we accidentally vanished our most popular GitHub repos](https://www.elastic.co/blog/starless-github-repos)
 * [2025-09-25, 20:04:44](https://lobste.rs/s/idcny5/athlon_64_how_amd_turned_tables_on_intel) - [Athlon 64: How AMD turned the tables on Intel](https://dfarq.homeip.net/athlon-64-how-amd-turned-the-tables-on-intel/)
 * [2025-09-25, 19:04:53](https://lobste.rs/s/vxzaqm/investigating_forged_pdf) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
@@ -18,7 +19,6 @@
 * [2025-09-25, 07:31:29](https://lobste.rs/s/iztrs8/helium_browser) - [Helium Browser](https://helium.computer)
 * [2025-09-25, 06:13:03](https://lobste.rs/s/5yxfew/cheri_efforts_get_linux_running_on_it) - [CHERI and the efforts to get Linux running on it](https://lwn.net/SubscriberLink/1037974/903c6f9a42f7782a/)
 * [2025-09-25, 06:12:49](https://lobste.rs/s/zph6zo/knotty_domain_specific_language_for) - [Knotty: A domain-specific language for knitting patterns](https://t0mpr1c3.github.io/knotty/index.html)
-* [2025-09-25, 05:13:43](https://lobste.rs/s/39ecmg/what_does_actual_functional_programming) - [What Does Actual Functional Programming Look Like?](https://jerf.org/iri/post/2025/fp_lessons_actual_fp/)
 * [2025-09-25, 04:48:30](https://lobste.rs/s/p3wmty/step_right_up_lobsters_blog_carnival) - [¡Step right up to the Lobsters! Blog! Carnival](https://lobste.rs/s/p3wmty/step_right_up_lobsters_blog_carnival)
 * [2025-09-25, 03:56:20](https://lobste.rs/s/5v3efy/how_many_valid_json_strings_are_there) - [How many valid JSON strings are there?](https://qntm.org/jsoncount)
 * [2025-09-25, 03:24:57](https://lobste.rs/s/xdghmi/use_force_feedback_solder_small_things) - [Use the Force (Feedback) to Solder Small Things](https://www.bunniestudios.com/blog/2025/use-the-force-feedback-to-solder-small-things/)
