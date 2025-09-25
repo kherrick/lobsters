@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-25, 03:56:20",
+      "https://lobste.rs/s/5v3efy/how_many_valid_json_strings_are_there"
+    ],
+    [
+      "How many valid JSON strings are there?",
+      "https://qntm.org/jsoncount"
+    ]
+  ],
+  [
+    [
       "2025-09-25, 03:24:57",
       "https://lobste.rs/s/xdghmi/use_force_feedback_solder_small_things"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2025-09-24, 03:38:08",
-      "https://lobste.rs/s/gl18mt/zubanls_mypy_compatible_python_language"
+      "2025-09-24, 01:09:55",
+      "https://lobste.rs/s/bfrugi/from_rust_reality_hidden_journey_fetch"
     ],
     [
-      "ZubanLS: A Mypy-compatible Python Language Server built in Rust",
-      "https://zubanls.com/"
+      "From Rust to Reality: The Hidden Journey of fetch_max",
+      "https://questdb.com/blog/rust-fetch-max-compiler-journey/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Rust Foundation Signs Joint Statement on Open Source Infrastructure Stewardship",
       "https://rustfoundation.org/media/rust-foundation-signs-joint-statement-on-open-source-infrastructure-stewardship/"
-    ]
-  ],
-  [
-    [
-      "2025-09-23, 16:59:35",
-      "https://lobste.rs/s/ga0vwq/fifty_years_open_source_software_supply"
-    ],
-    [
-      "Fifty Years of Open Source Software Supply-Chain Security",
-      "https://cacm.acm.org/practice/fifty-years-of-open-source-software-supply-chain-security/"
     ]
   ],
   [
