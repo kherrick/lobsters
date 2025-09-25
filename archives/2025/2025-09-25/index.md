@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-25](index.md)
 
+* [2025-09-25, 10:49:20](https://lobste.rs/s/jqikf7/thoughts_on_cloudflare) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 * [2025-09-25, 10:36:28](https://lobste.rs/s/rtjelk/bundler_belongs_ruby_community) - [Bundler belongs to the Ruby community](https://andre.arko.net/2025/09/25/bundler-belongs-to-the-ruby-community/)
 * [2025-09-25, 10:32:24](https://lobste.rs/s/4lva3o/theatre_pull_requests_code_review) - [The Theatre of Pull Requests and Code Review](https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review)
 * [2025-09-25, 09:57:18](https://lobste.rs/s/iw0yyl/wind_pole_dragon) - [The Wind, a Pole, and the Dragon](https://entropicthoughts.com/the-wind-a-pole-and-the-dragon)
