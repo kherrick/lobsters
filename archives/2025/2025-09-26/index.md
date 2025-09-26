@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 16:33:52](https://lobste.rs/s/uarqvg/process_tracing_projects) - [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
+* [2025-09-26, 16:31:24](https://lobste.rs/s/znuprv/handling_negative_feedback) - [Handling Negative Feedback](https://youtu.be/clARvO_AthM)
 * [2025-09-26, 16:05:03](https://lobste.rs/s/jtoukh/dotfiles_with_make) - [Dotfiles with make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 * [2025-09-26, 15:48:45](https://lobste.rs/s/mcco3o/qt_jenny_1_0_released) - [Qt Jenny 1.0 Released](https://www.qt.io/blog/qt-jenny-1.0-released)
 * [2025-09-26, 15:46:07](https://lobste.rs/s/1rrcfc/what_happens_when_hackathon_judging_is) - [What happens when hackathon judging is a public benchmark (Hack the North edition)](https://github.com/trycua/cua/blob/main/blog/hack-the-north.md)
