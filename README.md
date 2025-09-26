@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-09-26, 17:11:00](https://lobste.rs/s/b9gdmg/informed_poll) - [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
-* [2025-09-26, 16:43:45](https://lobste.rs/s/wa78s0/gnome_developer_now_homeless_nashville) - [a GNOME developer now homeless in Nashville USA, needs place to stay](https://fosstodon.org/@halfmexican/115244303333681502)
 * [2025-09-26, 16:33:52](https://lobste.rs/s/uarqvg/process_tracing_projects) - [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
 * [2025-09-26, 16:31:24](https://lobste.rs/s/znuprv/handling_negative_feedback) - [Handling Negative Feedback](https://youtu.be/clARvO_AthM)
+* [2025-09-26, 16:05:03](https://lobste.rs/s/jtoukh/dotfiles_with_make) - [Dotfiles with make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 * [2025-09-26, 15:54:08](https://lobste.rs/s/zsec3k/turning_billions_strings_into_integers) - [Turning Billions of Strings into Integers Every Second Without Collisions](https://jazco.dev/2025/09/26/interning/)
 * [2025-09-26, 15:46:07](https://lobste.rs/s/1rrcfc/what_happens_when_hackathon_judging_is) - [What happens when hackathon judging is a public benchmark (Hack the North edition)](https://github.com/trycua/cua/blob/main/blog/hack-the-north.md)
 * [2025-09-26, 15:20:06](https://lobste.rs/s/2awkhh/new_popos_beta_shipped_with_cosmis_de) - [New PopOS beta shipped with Cosmis DE](https://system76.com/pop/pop-beta/)
