@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-26](index.md)
 
+* [2025-09-26, 17:11:00](https://lobste.rs/s/b9gdmg/informed_poll) - [Informed poll](https://pigweed.dev/pw_async2/informed_poll.html)
 * [2025-09-26, 16:43:45](https://lobste.rs/s/wa78s0/gnome_developer_now_homeless_nashville) - [a GNOME developer now homeless in Nashville USA, needs place to stay](https://fosstodon.org/@halfmexican/115244303333681502)
 * [2025-09-26, 16:33:52](https://lobste.rs/s/uarqvg/process_tracing_projects) - [Process Tracing Projects](https://github.com/oils-for-unix/oils/wiki/Process-Tracing-Projects)
 * [2025-09-26, 16:31:24](https://lobste.rs/s/znuprv/handling_negative_feedback) - [Handling Negative Feedback](https://youtu.be/clARvO_AthM)
