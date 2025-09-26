@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-26, 17:11:00",
+      "https://lobste.rs/s/b9gdmg/informed_poll"
+    ],
+    [
+      "Informed poll",
+      "https://pigweed.dev/pw_async2/informed_poll.html"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 16:43:45",
       "https://lobste.rs/s/wa78s0/gnome_developer_now_homeless_nashville"
     ],
@@ -177,16 +187,6 @@
     [
       "PostgreSQL 18 Released",
       "https://www.postgresql.org/about/news/postgresql-18-released-3142/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 13:27:21",
-      "https://lobste.rs/s/gi7ac7/what_are_popular_ai_coding_benchmarks"
-    ],
-    [
-      "What are popular AI coding benchmarks actually measuring?",
-      "https://blog.nilenso.com/blog/2025/09/25/swe-benchmarks/"
     ]
   ],
   [
