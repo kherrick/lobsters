@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-26](index.md)
+
+* [2025-09-26, 04:43:45](https://lobste.rs/s/bmovqc/workaround_for_using_custom_properties) - [A workaround for using custom properties in media queries](https://piccalil.li/blog/a-workaround-for-using-custom-properties-in-media-queries)
