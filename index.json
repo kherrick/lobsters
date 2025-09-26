@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-26, 16:43:45",
+      "https://lobste.rs/s/wa78s0/gnome_developer_now_homeless_nashville"
+    ],
+    [
+      "a GNOME developer now homeless in Nashville USA, needs place to stay",
+      "https://fosstodon.org/@halfmexican/115244303333681502"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 16:33:52",
       "https://lobste.rs/s/uarqvg/process_tracing_projects"
     ],
@@ -17,6 +27,16 @@
     [
       "Handling Negative Feedback",
       "https://youtu.be/clARvO_AthM"
+    ]
+  ],
+  [
+    [
+      "2025-09-26, 15:54:08",
+      "https://lobste.rs/s/zsec3k/turning_billions_strings_into_integers"
+    ],
+    [
+      "Turning Billions of Strings into Integers Every Second Without Collisions",
+      "https://jazco.dev/2025/09/26/interning/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
       "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 13:02:38",
-      "https://lobste.rs/s/9eva08/pgm_index"
-    ],
-    [
-      "The PGM-index",
-      "https://pgm.di.unipi.it/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Thoughts on Cloudflare",
       "https://xn--gckvb8fzb.com/thoughts-on-cloudflare/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 10:32:24",
-      "https://lobste.rs/s/4lva3o/theatre_pull_requests_code_review"
-    ],
-    [
-      "The Theatre of Pull Requests and Code Review",
-      "https://meks.quest/blogs/the-theatre-of-pull-requests-and-code-review"
     ]
   ],
   [
