@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-27, 18:39:47](https://lobste.rs/s/hdupb2/why_today_s_humanoids_won_t_learn) - [Why Today’s Humanoids Won’t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 * [2025-09-27, 16:11:34](https://lobste.rs/s/aly0ym/checkboxes_kill_your_product_2013) - [Checkboxes that kill your product (2013)](https://limi.net/checkboxes)
 * [2025-09-27, 16:04:10](https://lobste.rs/s/7sudgi/live_2025_live_talks_about_live) - [LIVE 2025: live talks about live programming](https://www.youtube.com/watch?v=5m5g4UO5W44)
 * [2025-09-27, 12:28:41](https://lobste.rs/s/oebpl9/meshtastic_64_meshtastic_radio_for) - [Meshtastic 64 - A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
@@ -24,7 +25,6 @@
 * [2025-09-25, 21:58:15](https://lobste.rs/s/mudqlv/zoomer_tries_rss_praise_yarr_2024) - [Zoomer Tries RSS: In Praise of Yarr (2024)](https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/)
 * [2025-09-25, 19:04:53](https://lobste.rs/s/vxzaqm/investigating_forged_pdf) - [Investigating a Forged PDF](https://mjg59.dreamwidth.org/73317.html)
 * [2025-09-25, 15:32:36](https://lobste.rs/s/ppm44i/very_early_history_algebraic_data_types) - [A Very Early History of Algebraic Data Types](https://www.hillelwayne.com/post/algdt-history/)
-* [2025-09-25, 10:49:20](https://lobste.rs/s/jqikf7/thoughts_on_cloudflare) - [Thoughts on Cloudflare](https://xn--gckvb8fzb.com/thoughts-on-cloudflare/)
 
 ## [Archives](archives/index.md)
 
