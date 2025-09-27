@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 16:11:34](https://lobste.rs/s/aly0ym/checkboxes_kill_your_product_2013) - [Checkboxes that kill your product (2013)](https://limi.net/checkboxes)
+* [2025-09-27, 16:04:10](https://lobste.rs/s/7sudgi/live_2025_live_talks_about_live) - [LIVE 2025: live talks about live programming](https://www.youtube.com/watch?v=5m5g4UO5W44)
 * [2025-09-27, 12:28:41](https://lobste.rs/s/oebpl9/meshtastic_64_meshtastic_radio_for) - [Meshtastic 64 - A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-27, 12:24:29](https://lobste.rs/s/ocnhfi/hsbc_publishes_yet_another_claim_quantum) - [HSBC publishes yet another claim of quantum advantage that isn’t](https://scottaaronson.blog/?p=9170)
 * [2025-09-27, 11:04:56](https://lobste.rs/s/wnvj5y/typst_possible_latex_replacement) - [Typst: a possible LaTeX replacement](https://lwn.net/Articles/1037577/)
