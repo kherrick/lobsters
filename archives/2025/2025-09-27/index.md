@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 20:03:15](https://lobste.rs/s/qs36ge/case_for_hybrid_cache_for_object_stores) - [The Case for Hybrid Cache for Object Stores](https://risingwave.com/blog/the-case-for-hybrid-cache-for-object-stores/)
 * [2025-09-27, 18:53:17](https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix) - [Docker Was Too Slow, So We Replaced It: Nix in Production](https://www.youtube.com/watch?v=iPoL03tFBtU)
 * [2025-09-27, 18:47:47](https://lobste.rs/s/axp5qe/building_serverless_wasm_ai_runtime_rust) - [Building a Serverless WASM AI Runtime in Rust](https://www.youtube.com/watch?v=PSkUOIgYs0Y)
 * [2025-09-27, 18:39:47](https://lobste.rs/s/hdupb2/why_today_s_humanoids_won_t_learn) - [Why Today’s Humanoids Won’t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
