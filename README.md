@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-27, 07:31:58](https://lobste.rs/s/cgx2bu/go_s_builtin_new_function_will_take) - [Go's builtin 'new()' function will take an expression in Go 1.26](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression)
 * [2025-09-27, 06:42:53](https://lobste.rs/s/2emtvy/property_based_testing_ocaml_5_s_runtime) - [Property-Based Testing of OCaml 5’s Runtime System](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)
 * [2025-09-27, 02:26:36](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve) - [Fun Friday Question: What's the Best Way you've Broken Prod?](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve)
-* [2025-09-26, 21:39:34](https://lobste.rs/s/sab7vi/go_maps_deep_dive_secrets_behind_o_1) - [Go Maps Deep Dive - The Secrets Behind O(1) Performance, Overflows, and Growth](https://dev.to/arshiargh/go-maps-deep-dive-part-1-the-secrets-behind-o1-performance-overflows-and-growth-227)
 * [2025-09-26, 21:18:37](https://lobste.rs/s/4zlkza/why_decades_old_architecture_decision_is) - [Why a decades old architecture decision is impeding the power of AI computing](https://research.ibm.com/blog/why-von-neumann-architecture-is-impeding-the-power-of-ai-computing)
 * [2025-09-26, 21:08:15](https://lobste.rs/s/tjyzrl/file_system_belongs_kernel_1991) - [The File System Belongs in the Kernel (1991)](https://www.usenix.org/legacy/publications/library/proceedings/mach91/welch.pdf)
 * [2025-09-26, 20:53:07](https://lobste.rs/s/7gtp0y/flight_recorder_go_1_25) - [Flight Recorder in Go 1.25](https://go.dev/blog/flight-recorder)
