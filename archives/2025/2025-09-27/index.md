@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-27](index.md)
 
+* [2025-09-27, 23:40:31](https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv) - [How I Accidentally Created the Fastest CSV Parser Ever Made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 22:42:09](https://lobste.rs/s/szfpjf/go_landlock_go_library_for_linux_landlock) - [go-landlock: A Go library for the Linux Landlock sandboxing feature](https://github.com/landlock-lsm/go-landlock)
 * [2025-09-27, 20:54:15](https://lobste.rs/s/shhayp/first_malicious_mcp_wild_postmark) - [First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 20:50:00](https://lobste.rs/s/fjzyfq/code_mode_better_way_use_mcp) - [Code Mode: the better way to use MCP](https://blog.cloudflare.com/code-mode/)
