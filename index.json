@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-09-27, 18:53:17",
+      "https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix"
+    ],
+    [
+      "Docker Was Too Slow, So We Replaced It: Nix in Production",
+      "https://www.youtube.com/watch?v=iPoL03tFBtU"
+    ]
+  ],
+  [
+    [
+      "2025-09-27, 18:47:47",
+      "https://lobste.rs/s/axp5qe/building_serverless_wasm_ai_runtime_rust"
+    ],
+    [
+      "Building a Serverless WASM AI Runtime in Rust",
+      "https://www.youtube.com/watch?v=PSkUOIgYs0Y"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 18:39:47",
       "https://lobste.rs/s/hdupb2/why_today_s_humanoids_won_t_learn"
     ],
@@ -217,26 +237,6 @@
     [
       "Fast UDP I/O for Firefox in Rust",
       "https://max-inden.de/post/fast-udp-io-in-firefox/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 21:58:15",
-      "https://lobste.rs/s/mudqlv/zoomer_tries_rss_praise_yarr_2024"
-    ],
-    [
-      "Zoomer Tries RSS: In Praise of Yarr (2024)",
-      "https://tudorr.ro/blog/2024-04-04-zoomer-tries-rss/"
-    ]
-  ],
-  [
-    [
-      "2025-09-25, 19:04:53",
-      "https://lobste.rs/s/vxzaqm/investigating_forged_pdf"
-    ],
-    [
-      "Investigating a Forged PDF",
-      "https://mjg59.dreamwidth.org/73317.html"
     ]
   ],
   [
