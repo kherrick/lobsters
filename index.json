@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-27, 23:40:31",
+      "https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv"
+    ],
+    [
+      "How I Accidentally Created the Fastest CSV Parser Ever Made",
+      "https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 22:42:09",
       "https://lobste.rs/s/szfpjf/go_landlock_go_library_for_linux_landlock"
     ],
@@ -237,16 +247,6 @@
     [
       "Rio Terminal: A hardware-accelerated GPU terminal emulator",
       "https://rioterm.com/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 07:23:03",
-      "https://lobste.rs/s/rpcu4t/fast_udp_i_o_for_firefox_rust"
-    ],
-    [
-      "Fast UDP I/O for Firefox in Rust",
-      "https://max-inden.de/post/fast-udp-io-in-firefox/"
     ]
   ]
 ]
