@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-09-26, 21:39:34",
+      "https://lobste.rs/s/sab7vi/go_maps_deep_dive_secrets_behind_o_1"
+    ],
+    [
+      "Go Maps Deep Dive - The Secrets Behind O(1) Performance, Overflows, and Growth",
+      "https://dev.to/arshiargh/go-maps-deep-dive-part-1-the-secrets-behind-o1-performance-overflows-and-growth-227"
+    ]
+  ],
+  [
+    [
       "2025-09-26, 21:18:37",
       "https://lobste.rs/s/4zlkza/why_decades_old_architecture_decision_is"
     ],
@@ -117,16 +127,6 @@
     [
       "Turning Billions of Strings into Integers Every Second Without Collisions",
       "https://jazco.dev/2025/09/26/interning/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 15:46:07",
-      "https://lobste.rs/s/1rrcfc/what_happens_when_hackathon_judging_is"
-    ],
-    [
-      "What happens when hackathon judging is a public benchmark (Hack the North edition)",
-      "https://github.com/trycua/cua/blob/main/blog/hack-the-north.md"
     ]
   ],
   [
