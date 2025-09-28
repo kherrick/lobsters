@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-28, 20:06:48",
+      "https://lobste.rs/s/u6bxmq/c_sigma_easy_use_sigma_proofs_c_using"
+    ],
+    [
+      "c-sigma: Easy-to-use Sigma proofs in C using libsodium",
+      "https://github.com/jedisct1/c-sigma"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 18:09:43",
       "https://lobste.rs/s/vhsrhh/nes_super_mario_bros_arbitrary_code"
     ],
@@ -37,16 +47,6 @@
     [
       "What is \"good taste\" in software engineering?",
       "https://www.seangoedecke.com/taste/"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 16:00:14",
-      "https://lobste.rs/s/boxrhr/failing_understand_exponential_again"
-    ],
-    [
-      "Failing to Understand the Exponential, Again",
-      "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/"
     ]
   ],
   [
