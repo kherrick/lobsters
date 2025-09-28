@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 15:41:23](https://lobste.rs/s/apzcvg/scm2wasm_scheme_wasm_compiler_600_lines_c) - [scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC](https://git.lain.faith/iitalics/scm2wasm)
 * [2025-09-28, 15:22:55](https://lobste.rs/s/g9z6o4/death_utilitarian_programming) - [The death of utilitarian programming](https://lobste.rs/s/g9z6o4/death_utilitarian_programming)
 * [2025-09-28, 14:58:23](https://lobste.rs/s/1e9wix/golden_ratio_as_number_base) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
 * [2025-09-28, 13:27:10](https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)

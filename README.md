@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-28, 15:41:23](https://lobste.rs/s/apzcvg/scm2wasm_scheme_wasm_compiler_600_lines_c) - [scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC](https://git.lain.faith/iitalics/scm2wasm)
 * [2025-09-28, 15:22:55](https://lobste.rs/s/g9z6o4/death_utilitarian_programming) - [The death of utilitarian programming](https://lobste.rs/s/g9z6o4/death_utilitarian_programming)
 * [2025-09-28, 14:58:23](https://lobste.rs/s/1e9wix/golden_ratio_as_number_base) - [The golden ratio as a number base](https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base)
 * [2025-09-28, 13:27:10](https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
@@ -21,7 +22,6 @@
 * [2025-09-27, 18:53:17](https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix) - [Docker Was Too Slow, So We Replaced It: Nix in Production](https://www.youtube.com/watch?v=iPoL03tFBtU)
 * [2025-09-27, 18:39:47](https://lobste.rs/s/hdupb2/why_today_s_humanoids_won_t_learn) - [Why Today’s Humanoids Won’t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 * [2025-09-27, 16:11:34](https://lobste.rs/s/aly0ym/checkboxes_kill_your_product_2013) - [Checkboxes that kill your product (2013)](https://limi.net/checkboxes)
-* [2025-09-27, 12:28:41](https://lobste.rs/s/oebpl9/meshtastic_64_meshtastic_radio_for) - [Meshtastic 64 - A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
 * [2025-09-27, 11:04:56](https://lobste.rs/s/wnvj5y/typst_possible_latex_replacement) - [Typst: a possible LaTeX replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 07:31:58](https://lobste.rs/s/cgx2bu/go_s_builtin_new_function_will_take) - [Go's builtin 'new()' function will take an expression in Go 1.26](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression)
 * [2025-09-27, 02:26:36](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve) - [Fun Friday Question: What's the Best Way you've Broken Prod?](https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve)
