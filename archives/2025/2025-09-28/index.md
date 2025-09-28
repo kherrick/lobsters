@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 18:09:43](https://lobste.rs/s/vhsrhh/nes_super_mario_bros_arbitrary_code) - [NES Super Mario Bros. \"arbitrary code execution\"](https://tasvideos.org/8991S)
 * [2025-09-28, 16:46:22](https://lobste.rs/s/nn17bl/testing_exotic_p2p_vpn) - [Testing \"exotic\" p2p VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
 * [2025-09-28, 16:13:36](https://lobste.rs/s/gchwhh/why_i_m_not_rushing_take_sides_rubygems) - [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
 * [2025-09-28, 16:09:23](https://lobste.rs/s/jki8jl/what_is_good_taste_software_engineering) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
