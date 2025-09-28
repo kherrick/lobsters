@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-09-28, 00:00:39",
+      "https://lobste.rs/s/e6jh5d/statement_from_members_nixos_moderation"
+    ],
+    [
+      "A statement from members of the NixOS moderation team",
+      "https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828"
+    ]
+  ],
+  [
+    [
       "2025-09-27, 23:40:31",
       "https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv"
     ],
@@ -237,16 +247,6 @@
     [
       "Typst: a possible LaTeX replacement",
       "https://lwn.net/Articles/1037577/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 07:31:58",
-      "https://lobste.rs/s/cgx2bu/go_s_builtin_new_function_will_take"
-    ],
-    [
-      "Go's builtin 'new()' function will take an expression in Go 1.26",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression"
     ]
   ]
 ]
