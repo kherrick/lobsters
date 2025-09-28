@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-28, 13:27:10](https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
 * [2025-09-28, 13:08:12](https://lobste.rs/s/4dgsuv/2025_is_bumper_year_for_acorns_so_help) - [2025 is a bumper year for acorns, so help the trees: gather as many as you can & throw them into scrub & wasteland](https://www.bbc.co.uk/weather/articles/c5yepx5k500o)
 * [2025-09-28, 12:57:57](https://lobste.rs/s/9islkn/detaching_graalvm_from_java_ecosystem) - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
 * [2025-09-28, 12:49:21](https://lobste.rs/s/tm7eyr/is_ip_fragmentation_still_considered) - [Is IP fragmentation still considered vulnerable?](https://blog.apnic.net/2025/09/16/is-ip-fragmentation-still-considered-vulnerable/)
@@ -20,7 +21,6 @@
 * [2025-09-27, 16:11:34](https://lobste.rs/s/aly0ym/checkboxes_kill_your_product_2013) - [Checkboxes that kill your product (2013)](https://limi.net/checkboxes)
 * [2025-09-27, 16:04:10](https://lobste.rs/s/7sudgi/live_2025_live_talks_about_live) - [LIVE 2025: live talks about live programming](https://www.youtube.com/watch?v=5m5g4UO5W44)
 * [2025-09-27, 12:28:41](https://lobste.rs/s/oebpl9/meshtastic_64_meshtastic_radio_for) - [Meshtastic 64 - A meshtastic radio for the Commodore 64](http://64jim64.blogspot.com/2025/09/meshtastic-64-meshtastic-radio-for.html)
-* [2025-09-27, 12:24:29](https://lobste.rs/s/ocnhfi/hsbc_publishes_yet_another_claim_quantum) - [HSBC publishes yet another claim of quantum advantage that isn’t](https://scottaaronson.blog/?p=9170)
 * [2025-09-27, 11:04:56](https://lobste.rs/s/wnvj5y/typst_possible_latex_replacement) - [Typst: a possible LaTeX replacement](https://lwn.net/Articles/1037577/)
 * [2025-09-27, 07:31:58](https://lobste.rs/s/cgx2bu/go_s_builtin_new_function_will_take) - [Go's builtin 'new()' function will take an expression in Go 1.26](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression)
 * [2025-09-27, 06:42:53](https://lobste.rs/s/2emtvy/property_based_testing_ocaml_5_s_runtime) - [Property-Based Testing of OCaml 5’s Runtime System](https://janmidtgaard.dk/papers/Midtgaard%3AOLIVIERFEST25.pdf)

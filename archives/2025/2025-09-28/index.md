@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 13:27:10](https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
 * [2025-09-28, 13:08:12](https://lobste.rs/s/4dgsuv/2025_is_bumper_year_for_acorns_so_help) - [2025 is a bumper year for acorns, so help the trees: gather as many as you can & throw them into scrub & wasteland](https://www.bbc.co.uk/weather/articles/c5yepx5k500o)
 * [2025-09-28, 12:57:57](https://lobste.rs/s/9islkn/detaching_graalvm_from_java_ecosystem) - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
 * [2025-09-28, 12:49:21](https://lobste.rs/s/tm7eyr/is_ip_fragmentation_still_considered) - [Is IP fragmentation still considered vulnerable?](https://blog.apnic.net/2025/09/16/is-ip-fragmentation-still-considered-vulnerable/)
