@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-09-28](index.md)
+
+* [2025-09-28, 00:00:39](https://lobste.rs/s/e6jh5d/statement_from_members_nixos_moderation) - [A statement from members of the NixOS moderation team](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828)
