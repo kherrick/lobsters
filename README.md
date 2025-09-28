@@ -18,13 +18,13 @@
 * [2025-09-28, 08:14:02](https://lobste.rs/s/r3xvg7/visual_studio_2026_insiders_is_here) - [Visual Studio 2026 Insiders is here](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)
 * [2025-09-28, 06:08:56](https://lobste.rs/s/hkjviu/sel4_2025_playlist) - [seL4 2025 Playlist](https://youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4)
 * [2025-09-28, 05:11:24](https://lobste.rs/s/0xkiib/linus_torvalds_supposedly_garbage_code) - [Linus Torvalds and the Supposedly “Garbage Code”](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
+* [2025-09-28, 00:00:39](https://lobste.rs/s/e6jh5d/statement_from_members_nixos_moderation) - [A statement from members of the NixOS moderation team](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828)
 * [2025-09-27, 23:40:31](https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv) - [How I Accidentally Created the Fastest CSV Parser Ever Made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 20:54:15](https://lobste.rs/s/shhayp/first_malicious_mcp_wild_postmark) - [First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 18:53:17](https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix) - [Docker Was Too Slow, So We Replaced It: Nix in Production](https://www.youtube.com/watch?v=iPoL03tFBtU)
 * [2025-09-27, 18:39:47](https://lobste.rs/s/hdupb2/why_today_s_humanoids_won_t_learn) - [Why Today’s Humanoids Won’t Learn Dexterity](https://rodneybrooks.com/why-todays-humanoids-wont-learn-dexterity/)
 * [2025-09-27, 16:11:34](https://lobste.rs/s/aly0ym/checkboxes_kill_your_product_2013) - [Checkboxes that kill your product (2013)](https://limi.net/checkboxes)
 * [2025-09-27, 11:04:56](https://lobste.rs/s/wnvj5y/typst_possible_latex_replacement) - [Typst: a possible LaTeX replacement](https://lwn.net/Articles/1037577/)
-* [2025-09-27, 07:31:58](https://lobste.rs/s/cgx2bu/go_s_builtin_new_function_will_take) - [Go's builtin 'new()' function will take an expression in Go 1.26](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression)
 
 ## [Archives](archives/index.md)
 
