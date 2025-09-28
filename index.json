@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-28, 16:13:36",
+      "https://lobste.rs/s/gchwhh/why_i_m_not_rushing_take_sides_rubygems"
+    ],
+    [
+      "Why I'm not rushing to take sides in the RubyGems fiasco",
+      "https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 16:09:23",
+      "https://lobste.rs/s/jki8jl/what_is_good_taste_software_engineering"
+    ],
+    [
+      "What is \"good taste\" in software engineering?",
+      "https://www.seangoedecke.com/taste/"
+    ]
+  ],
+  [
+    [
+      "2025-09-28, 16:00:14",
+      "https://lobste.rs/s/boxrhr/failing_understand_exponential_again"
+    ],
+    [
+      "Failing to Understand the Exponential, Again",
+      "https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 15:41:23",
       "https://lobste.rs/s/apzcvg/scm2wasm_scheme_wasm_compiler_600_lines_c"
     ],
@@ -27,16 +57,6 @@
     [
       "The golden ratio as a number base",
       "https://apieceofthepi.substack.com/p/the-golden-ratio-as-a-number-base"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 13:27:10",
-      "https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean"
-    ],
-    [
-      "When I say \"alphabetical order\", I mean \"alphabetical order\"",
-      "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-09-27, 20:50:00",
-      "https://lobste.rs/s/fjzyfq/code_mode_better_way_use_mcp"
-    ],
-    [
-      "Code Mode: the better way to use MCP",
-      "https://blog.cloudflare.com/code-mode/"
-    ]
-  ],
-  [
-    [
       "2025-09-27, 18:53:17",
       "https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix"
     ],
@@ -237,16 +247,6 @@
     [
       "Go's builtin 'new()' function will take an expression in Go 1.26",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewWithExpression"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 02:26:36",
-      "https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve"
-    ],
-    [
-      "Fun Friday Question: What's the Best Way you've Broken Prod?",
-      "https://lobste.rs/s/ybzisr/fun_friday_question_what_s_best_way_you_ve"
     ]
   ]
 ]
