@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-28, 20:42:55](https://lobste.rs/s/cqlfab/supply_chain_security_for_0_001_why_it_won_t) - [Supply chain security for the 0.001% (and why it won’t catch on)](https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on)
 * [2025-09-28, 19:58:30](https://lobste.rs/s/ijemcw/tag_suggestion_plan9) - [Tag suggestion: plan9](https://lobste.rs/s/ijemcw/tag_suggestion_plan9)
 * [2025-09-28, 18:09:43](https://lobste.rs/s/vhsrhh/nes_super_mario_bros_arbitrary_code) - [NES Super Mario Bros. \"arbitrary code execution\"](https://tasvideos.org/8991S)
 * [2025-09-28, 16:46:22](https://lobste.rs/s/nn17bl/testing_exotic_p2p_vpn) - [Testing \"exotic\" p2p VPN](https://blog.nommy.moe/blog/exotic-mesh-vpn/)
@@ -18,7 +19,6 @@
 * [2025-09-28, 08:14:02](https://lobste.rs/s/r3xvg7/visual_studio_2026_insiders_is_here) - [Visual Studio 2026 Insiders is here](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)
 * [2025-09-28, 06:08:56](https://lobste.rs/s/hkjviu/sel4_2025_playlist) - [seL4 2025 Playlist](https://youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4)
 * [2025-09-28, 05:11:24](https://lobste.rs/s/0xkiib/linus_torvalds_supposedly_garbage_code) - [Linus Torvalds and the Supposedly “Garbage Code”](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
-* [2025-09-28, 00:00:39](https://lobste.rs/s/e6jh5d/statement_from_members_nixos_moderation) - [A statement from members of the NixOS moderation team](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828)
 * [2025-09-27, 23:40:31](https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv) - [How I Accidentally Created the Fastest CSV Parser Ever Made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 20:54:15](https://lobste.rs/s/shhayp/first_malicious_mcp_wild_postmark) - [First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)
 * [2025-09-27, 18:53:17](https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix) - [Docker Was Too Slow, So We Replaced It: Nix in Production](https://www.youtube.com/watch?v=iPoL03tFBtU)
