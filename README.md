@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-28, 05:11:24](https://lobste.rs/s/0xkiib/linus_torvalds_supposedly_garbage_code) - [Linus Torvalds and the Supposedly “Garbage Code”](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
 * [2025-09-28, 04:44:35](https://lobste.rs/s/rq7awi/unite_real_time_operating_system) - [The Unite Real Time Operating System](https://jacquesmattheij.com/unite-operating-system/)
 * [2025-09-28, 00:00:39](https://lobste.rs/s/e6jh5d/statement_from_members_nixos_moderation) - [A statement from members of the NixOS moderation team](https://discourse.nixos.org/t/a-statement-from-members-of-the-moderation-team/69828)
 * [2025-09-27, 23:40:31](https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv) - [How I Accidentally Created the Fastest CSV Parser Ever Made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
@@ -21,7 +22,6 @@
 * [2025-09-26, 20:53:07](https://lobste.rs/s/7gtp0y/flight_recorder_go_1_25) - [Flight Recorder in Go 1.25](https://go.dev/blog/flight-recorder)
 * [2025-09-26, 19:25:05](https://lobste.rs/s/yh2bjm/open_social) - [Open Social](https://overreacted.io/open-social/)
 * [2025-09-26, 17:34:16](https://lobste.rs/s/liau26/redis_is_fast_i_ll_cache_postgres) - [Redis is fast - I'll cache in Postgres](https://dizzy.zone/2025/09/24/Redis-is-fast-Ill-cache-in-Postgres/)
-* [2025-09-26, 16:05:03](https://lobste.rs/s/jtoukh/dotfiles_with_make) - [Dotfiles with make](https://www.matheusmoreira.com/articles/managing-dotfiles-with-make)
 * [2025-09-26, 15:54:08](https://lobste.rs/s/zsec3k/turning_billions_strings_into_integers) - [Turning Billions of Strings into Integers Every Second Without Collisions](https://jazco.dev/2025/09/26/interning/)
 * [2025-09-26, 14:40:29](https://lobste.rs/s/8vyihb/it_is_actually_surprising_earley_can) - [It is actually surprising that Earley can efficiently parse C, ambiguities and all](https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/)
 * [2025-09-26, 12:28:38](https://lobste.rs/s/7a4lle/rio_terminal_hardware_accelerated_gpu) - [Rio Terminal: A hardware-accelerated GPU terminal emulator](https://rioterm.com/)
