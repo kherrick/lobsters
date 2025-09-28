@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-28, 08:14:02",
+      "https://lobste.rs/s/r3xvg7/visual_studio_2026_insiders_is_here"
+    ],
+    [
+      "Visual Studio 2026 Insiders is here",
+      "https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 06:08:56",
       "https://lobste.rs/s/hkjviu/sel4_2025_playlist"
     ],
@@ -227,16 +237,6 @@
     [
       "Turning Billions of Strings into Integers Every Second Without Collisions",
       "https://jazco.dev/2025/09/26/interning/"
-    ]
-  ],
-  [
-    [
-      "2025-09-26, 14:40:29",
-      "https://lobste.rs/s/8vyihb/it_is_actually_surprising_earley_can"
-    ],
-    [
-      "It is actually surprising that Earley can efficiently parse C, ambiguities and all",
-      "https://wareya.wordpress.com/2025/09/25/it-is-actually-surprising-that-earley-can-efficiently-parse-c-ambiguities-and-all/"
     ]
   ],
   [
