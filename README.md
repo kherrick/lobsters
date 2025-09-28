@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-28, 21:50:45](https://lobste.rs/s/dkjswm/stupid_jj_tricks) - [stupid jj tricks](https://andre.arko.net/2025/09/28/stupid-jj-tricks/)
 * [2025-09-28, 20:42:55](https://lobste.rs/s/cqlfab/supply_chain_security_for_0_001_why_it_won_t) - [Supply chain security for the 0.001% (and why it won’t catch on)](https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on)
 * [2025-09-28, 19:58:30](https://lobste.rs/s/ijemcw/tag_suggestion_plan9) - [Tag suggestion: plan9](https://lobste.rs/s/ijemcw/tag_suggestion_plan9)
 * [2025-09-28, 19:09:20](https://lobste.rs/s/sh9xga/j_link_compact_usb_c_issues) - [J-Link Compact USB-C Issues](https://alvarop.com/2025/09/j-link-compact-usb-c-issues/)
@@ -17,7 +18,6 @@
 * [2025-09-28, 09:07:22](https://lobste.rs/s/m9rmop/offline_translator_for_android) - [Offline translator for Android](https://github.com/DavidVentura/firefox-translator)
 * [2025-09-28, 08:28:11](https://lobste.rs/s/gz4zq0/urgency_vs_importance) - [Urgency vs importance](https://archaeologist.dev/artifacts/priorities)
 * [2025-09-28, 08:14:02](https://lobste.rs/s/r3xvg7/visual_studio_2026_insiders_is_here) - [Visual Studio 2026 Insiders is here](https://devblogs.microsoft.com/visualstudio/visual-studio-2026-insiders-is-here/)
-* [2025-09-28, 06:08:56](https://lobste.rs/s/hkjviu/sel4_2025_playlist) - [seL4 2025 Playlist](https://youtube.com/playlist?list=PLtoQeavghzr3jKkKOQxDagndQboRfU_I4)
 * [2025-09-28, 05:11:24](https://lobste.rs/s/0xkiib/linus_torvalds_supposedly_garbage_code) - [Linus Torvalds and the Supposedly “Garbage Code”](https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/)
 * [2025-09-27, 23:40:31](https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv) - [How I Accidentally Created the Fastest CSV Parser Ever Made](https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made)
 * [2025-09-27, 20:54:15](https://lobste.rs/s/shhayp/first_malicious_mcp_wild_postmark) - [First Malicious MCP in the Wild: The Postmark Backdoor That's Stealing Your Emails](https://www.koi.security/blog/postmark-mcp-npm-malicious-backdoor-email-theft)

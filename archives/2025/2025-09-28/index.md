@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-28](index.md)
 
+* [2025-09-28, 21:50:45](https://lobste.rs/s/dkjswm/stupid_jj_tricks) - [stupid jj tricks](https://andre.arko.net/2025/09/28/stupid-jj-tricks/)
 * [2025-09-28, 20:42:55](https://lobste.rs/s/cqlfab/supply_chain_security_for_0_001_why_it_won_t) - [Supply chain security for the 0.001% (and why it won’t catch on)](https://blog.viraptor.info/post/supply-chain-security-for-the-0001-and-why-it-wont-catch-on)
 * [2025-09-28, 20:06:48](https://lobste.rs/s/u6bxmq/c_sigma_easy_use_sigma_proofs_c_using) - [c-sigma: Easy-to-use Sigma proofs in C using libsodium](https://github.com/jedisct1/c-sigma)
 * [2025-09-28, 19:58:30](https://lobste.rs/s/ijemcw/tag_suggestion_plan9) - [Tag suggestion: plan9](https://lobste.rs/s/ijemcw/tag_suggestion_plan9)
