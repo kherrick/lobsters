@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-09-28, 13:27:10",
+      "https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean"
+    ],
+    [
+      "When I say \"alphabetical order\", I mean \"alphabetical order\"",
+      "https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 12:57:57",
       "https://lobste.rs/s/9islkn/detaching_graalvm_from_java_ecosystem"
     ],
@@ -177,16 +187,6 @@
     [
       "How I Accidentally Created the Fastest CSV Parser Ever Made",
       "https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 22:42:09",
-      "https://lobste.rs/s/szfpjf/go_landlock_go_library_for_linux_landlock"
-    ],
-    [
-      "go-landlock: A Go library for the Linux Landlock sandboxing feature",
-      "https://github.com/landlock-lsm/go-landlock"
     ]
   ],
   [
