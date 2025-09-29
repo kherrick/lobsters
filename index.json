@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-09-28, 12:49:21",
+      "https://lobste.rs/s/tm7eyr/is_ip_fragmentation_still_considered"
+    ],
+    [
+      "Is IP fragmentation still considered vulnerable?",
+      "https://blog.apnic.net/2025/09/16/is-ip-fragmentation-still-considered-vulnerable/"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 11:44:44",
       "https://lobste.rs/s/wshruu/small_data"
     ],
@@ -237,16 +247,6 @@
     [
       "How I Accidentally Created the Fastest CSV Parser Ever Made",
       "https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 11:04:56",
-      "https://lobste.rs/s/wnvj5y/typst_possible_latex_replacement"
-    ],
-    [
-      "Typst: a possible LaTeX replacement",
-      "https://lwn.net/Articles/1037577/"
     ]
   ]
 ]
