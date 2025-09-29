@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 17:57:55",
+      "https://lobste.rs/s/ljvnlu/we_built_our_coding_agent_for_slack"
+    ],
+    [
+      "We built our coding agent for Slack instead of the terminal",
+      "https://www.mintlify.com/blog/we-built-our-coding-agent-for-slack"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 17:37:52",
       "https://lobste.rs/s/eayslm/adding_new_instruction_risc_v_backend"
     ],
@@ -167,16 +177,6 @@
     [
       "Comparing Rust to Carbon",
       "https://lwn.net/Articles/1036912/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 04:47:47",
-      "https://lobste.rs/s/ogs7d1/slop_machines_on_interaction_between"
-    ],
-    [
-      "Slop Machines: on the interaction between feed recommender systems and genai",
-      "https://notes.hella.cheap/slop-machines.html"
     ]
   ],
   [
