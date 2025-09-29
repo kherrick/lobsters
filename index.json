@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 21:16:41",
+      "https://lobste.rs/s/t88zhp/gameboy_emulator_runs_everywhere"
+    ],
+    [
+      "The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)",
+      "https://github.com/raphamorim/gameboy"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 18:59:12",
       "https://lobste.rs/s/nd2kgt/std_flip"
     ],
@@ -237,16 +247,6 @@
     [
       "Small Data",
       "https://topicpartition.io/definitions/small-data"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 09:07:22",
-      "https://lobste.rs/s/m9rmop/offline_translator_for_android"
-    ],
-    [
-      "Offline translator for Android",
-      "https://github.com/DavidVentura/firefox-translator"
     ]
   ]
 ]
