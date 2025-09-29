@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 09:46:08",
+      "https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 07:50:08",
       "https://lobste.rs/s/n0gngp/data_on_ai_models"
     ],
@@ -187,16 +197,6 @@
     [
       "Detaching GraalVM from the Java Ecosystem Train",
       "https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 12:49:21",
-      "https://lobste.rs/s/tm7eyr/is_ip_fragmentation_still_considered"
-    ],
-    [
-      "Is IP fragmentation still considered vulnerable?",
-      "https://blog.apnic.net/2025/09/16/is-ip-fragmentation-still-considered-vulnerable/"
     ]
   ],
   [
