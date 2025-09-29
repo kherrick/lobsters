@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 17:37:52",
+      "https://lobste.rs/s/eayslm/adding_new_instruction_risc_v_backend"
+    ],
+    [
+      "Adding a new instruction to RISC-V backend in LLVM",
+      "https://blog.gustavoleite.me/llvm-riscv-instruction"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 16:07:52",
       "https://lobste.rs/s/7kspja/subtleties_sqlite_indexes"
     ],
@@ -197,16 +207,6 @@
     [
       "stupid jj tricks",
       "https://andre.arko.net/2025/09/28/stupid-jj-tricks/"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 19:58:30",
-      "https://lobste.rs/s/ijemcw/tag_suggestion_plan9"
-    ],
-    [
-      "Tag suggestion: plan9",
-      "https://lobste.rs/s/ijemcw/tag_suggestion_plan9"
     ]
   ],
   [
