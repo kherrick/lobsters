@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 19:02:31",
+      "https://lobste.rs/s/30m1r5/non_consensual_technology"
+    ],
+    [
+      "Non-consensual technology",
+      "https://blog.erlend.sh/non-consensual-technology"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 17:57:55",
       "https://lobste.rs/s/ljvnlu/we_built_our_coding_agent_for_slack"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2025-09-29, 17:03:28",
+      "https://lobste.rs/s/gtnuao/introducing_claude_sonnet_4_5"
+    ],
+    [
+      "Introducing Claude Sonnet 4.5",
+      "https://www.anthropic.com/news/claude-sonnet-4-5"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 16:07:52",
       "https://lobste.rs/s/7kspja/subtleties_sqlite_indexes"
     ],
@@ -57,16 +77,6 @@
     [
       "Announcing Software You Can Love 2026",
       "https://mattnite.net/blog/sycl-2026-announcement/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 14:09:13",
-      "https://lobste.rs/s/cay1iq/llm_inference_economics_from_first"
-    ],
-    [
-      "LLM Inference Economics from First Principles",
-      "https://www.tensoreconomics.com/p/llm-inference-economics-from-first"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "In C++ modules globally unique module names seem to be unavoidable",
       "https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 23:02:48",
-      "https://lobste.rs/s/b4zqs1/risc_v_conditional_moves"
-    ],
-    [
-      "RISC-V Conditional Moves",
-      "https://www.corsix.org/content/riscv-conditional-moves"
     ]
   ],
   [
