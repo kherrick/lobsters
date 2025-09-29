@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 10:43:45](https://lobste.rs/s/f5xxtl/does_ai_get_bored) - [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)
 * [2025-09-29, 09:46:08](https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week)
 * [2025-09-29, 07:50:08](https://lobste.rs/s/n0gngp/data_on_ai_models) - [Data on AI Models](https://epoch.ai/data/ai-models)
 * [2025-09-29, 06:54:16](https://lobste.rs/s/29vcxz/perhaps_ai_based_autocomplete_optimizes) - [Perhaps AI-based autocomplete optimizes for the wrong problem](https://lobste.rs/s/29vcxz/perhaps_ai_based_autocomplete_optimizes)
