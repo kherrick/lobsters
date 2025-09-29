@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-09-29, 18:59:12",
+      "https://lobste.rs/s/nd2kgt/std_flip"
+    ],
+    [
+      "std::flip",
+      "https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 17:57:55",
       "https://lobste.rs/s/ljvnlu/we_built_our_coding_agent_for_slack"
     ],
@@ -237,16 +247,6 @@
     [
       "Small Data",
       "https://topicpartition.io/definitions/small-data"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 09:07:22",
-      "https://lobste.rs/s/m9rmop/offline_translator_for_android"
-    ],
-    [
-      "Offline translator for Android",
-      "https://github.com/DavidVentura/firefox-translator"
     ]
   ]
 ]
