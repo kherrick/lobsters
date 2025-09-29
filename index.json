@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-29, 12:38:40",
+      "https://lobste.rs/s/wf4bnp/what_s_new_postgresql_18_developer_s"
+    ],
+    [
+      "What's New in PostgreSQL 18 - a Developer's Perspective",
+      "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 12:36:02",
+      "https://lobste.rs/s/oiiocr/go_proposal_architecture_specific_simd"
+    ],
+    [
+      "Go Proposal: architecture-specific SIMD intrinsics",
+      "https://github.com/golang/go/issues/73787"
+    ]
+  ],
+  [
+    [
+      "2025-09-29, 12:33:44",
+      "https://lobste.rs/s/x7fe8h/dbos_durable_workflow_orchestration"
+    ],
+    [
+      "dbos: Durable Workflow Orchestration with Go and Postgresql",
+      "https://github.com/dbos-inc/dbos-transact-golang"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 11:35:01",
       "https://lobste.rs/s/ayncvk/ai_is_writing_90_code"
     ],
@@ -37,16 +67,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 06:54:16",
-      "https://lobste.rs/s/29vcxz/perhaps_ai_based_autocomplete_optimizes"
-    ],
-    [
-      "Perhaps AI-based autocomplete optimizes for the wrong problem",
-      "https://lobste.rs/s/29vcxz/perhaps_ai_based_autocomplete_optimizes"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-09-28, 16:09:23",
-      "https://lobste.rs/s/jki8jl/what_is_good_taste_software_engineering"
-    ],
-    [
-      "What is \"good taste\" in software engineering?",
-      "https://www.seangoedecke.com/taste/"
-    ]
-  ],
-  [
-    [
       "2025-09-28, 15:41:23",
       "https://lobste.rs/s/apzcvg/scm2wasm_scheme_wasm_compiler_600_lines_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Linus Torvalds and the Supposedly “Garbage Code”",
       "https://giodicanio.com/2025/08/27/linus-torvalds-and-the-supposedly-garbage-code/"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 23:40:31",
-      "https://lobste.rs/s/vryavc/how_i_accidentally_created_fastest_csv"
-    ],
-    [
-      "How I Accidentally Created the Fastest CSV Parser Ever Made",
-      "https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made"
     ]
   ]
 ]
