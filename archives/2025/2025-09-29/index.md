@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 15:25:26](https://lobste.rs/s/rrwwar/announcing_software_you_can_love_2026) - [Announcing Software You Can Love 2026](https://mattnite.net/blog/sycl-2026-announcement/)
 * [2025-09-29, 14:09:13](https://lobste.rs/s/cay1iq/llm_inference_economics_from_first) - [LLM Inference Economics from First Principles](https://www.tensoreconomics.com/p/llm-inference-economics-from-first)
 * [2025-09-29, 13:34:43](https://lobste.rs/s/qzcqyx/code_golfing_tiny_demo_using_maths_pinch) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
 * [2025-09-29, 13:09:53](https://lobste.rs/s/vvlwde/my_concurrency_wishlist_for_xcode_27) - [My (concurrency) Wishlist for Xcode 27](https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/)
