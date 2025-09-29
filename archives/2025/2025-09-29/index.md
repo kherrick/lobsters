@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 22:09:46](https://lobste.rs/s/xnepuz/heuristic_ors_are_expensive) - [Heuristic: Ors Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
 * [2025-09-29, 21:16:41](https://lobste.rs/s/t88zhp/gameboy_emulator_runs_everywhere) - [The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)](https://github.com/raphamorim/gameboy)
 * [2025-09-29, 19:02:31](https://lobste.rs/s/30m1r5/non_consensual_technology) - [Non-consensual technology](https://blog.erlend.sh/non-consensual-technology)
 * [2025-09-29, 18:59:12](https://lobste.rs/s/nd2kgt/std_flip) - [std::flip](https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html)
