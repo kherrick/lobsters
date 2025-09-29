@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 04:07:21",
+      "https://lobste.rs/s/olfuo0/just_let_me_select_text"
+    ],
+    [
+      "Just Let Me Select Text",
+      "https://aartaka.me/select-text.html"
+    ]
+  ],
+  [
+    [
       "2025-09-28, 23:22:35",
       "https://lobste.rs/s/trzzcd/c_modules_globally_unique_module_names"
     ],
@@ -217,16 +227,6 @@
     [
       "How I Accidentally Created the Fastest CSV Parser Ever Made",
       "https://sanixdk.xyz/blogs/how-i-accidentally-created-the-fastest-csv-parser-ever-made"
-    ]
-  ],
-  [
-    [
-      "2025-09-27, 18:53:17",
-      "https://lobste.rs/s/fml20b/docker_was_too_slow_so_we_replaced_it_nix"
-    ],
-    [
-      "Docker Was Too Slow, So We Replaced It: Nix in Production",
-      "https://www.youtube.com/watch?v=iPoL03tFBtU"
     ]
   ],
   [
