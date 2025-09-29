@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-29, 22:09:46",
+      "https://lobste.rs/s/xnepuz/heuristic_ors_are_expensive"
+    ],
+    [
+      "Heuristic: Ors Are Expensive",
+      "https://ethanseal.com/articles/ors-are-expensive"
+    ]
+  ],
+  [
+    [
       "2025-09-29, 21:16:41",
       "https://lobste.rs/s/t88zhp/gameboy_emulator_runs_everywhere"
     ],
@@ -147,16 +157,6 @@
     [
       "AI is writing 90% of the code",
       "https://lucumr.pocoo.org/2025/9/29/90-percent/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 11:30:32",
-      "https://lobste.rs/s/sieihh/spent_hour_so_working_with_claude_write"
-    ],
-    [
-      "Spent an hour or so working with claude to write a minimal static web server in COBOL",
-      "https://github.com/jmsdnns/webbol"
     ]
   ],
   [
