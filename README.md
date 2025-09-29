@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-29, 05:59:35](https://lobste.rs/s/jbaxru/comparing_rust_carbon) - [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/)
 * [2025-09-29, 04:47:47](https://lobste.rs/s/ogs7d1/slop_machines_on_interaction_between) - [Slop Machines: on the interaction between feed recommender systems and genai](https://notes.hella.cheap/slop-machines.html)
 * [2025-09-29, 04:07:21](https://lobste.rs/s/olfuo0/just_let_me_select_text) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
 * [2025-09-28, 23:22:35](https://lobste.rs/s/trzzcd/c_modules_globally_unique_module_names) - [In C++ modules globally unique module names seem to be unavoidable](https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html)
@@ -14,7 +15,6 @@
 * [2025-09-28, 16:09:23](https://lobste.rs/s/jki8jl/what_is_good_taste_software_engineering) - [What is \"good taste\" in software engineering?](https://www.seangoedecke.com/taste/)
 * [2025-09-28, 15:41:23](https://lobste.rs/s/apzcvg/scm2wasm_scheme_wasm_compiler_600_lines_c) - [scm2wasm: A Scheme to WASM compiler in 600 lines of C, making use of WASM GC](https://git.lain.faith/iitalics/scm2wasm)
 * [2025-09-28, 15:22:55](https://lobste.rs/s/g9z6o4/death_utilitarian_programming) - [The death of utilitarian programming](https://lobste.rs/s/g9z6o4/death_utilitarian_programming)
-* [2025-09-28, 13:27:10](https://lobste.rs/s/nqllvf/when_i_say_alphabetical_order_i_mean) - [When I say \"alphabetical order\", I mean \"alphabetical order\"](https://sebastiano.tronto.net/blog/2025-09-28-alphabetic-order/)
 * [2025-09-28, 12:57:57](https://lobste.rs/s/9islkn/detaching_graalvm_from_java_ecosystem) - [Detaching GraalVM from the Java Ecosystem Train](https://blogs.oracle.com/java/post/detaching-graalvm-from-the-java-ecosystem-train)
 * [2025-09-28, 12:49:21](https://lobste.rs/s/tm7eyr/is_ip_fragmentation_still_considered) - [Is IP fragmentation still considered vulnerable?](https://blog.apnic.net/2025/09/16/is-ip-fragmentation-still-considered-vulnerable/)
 * [2025-09-28, 11:44:44](https://lobste.rs/s/wshruu/small_data) - [Small Data](https://topicpartition.io/definitions/small-data)
