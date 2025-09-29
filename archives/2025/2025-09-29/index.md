@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-29](index.md)
 
+* [2025-09-29, 13:34:43](https://lobste.rs/s/qzcqyx/code_golfing_tiny_demo_using_maths_pinch) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
+* [2025-09-29, 13:09:53](https://lobste.rs/s/vvlwde/my_concurrency_wishlist_for_xcode_27) - [My (concurrency) Wishlist for Xcode 27](https://iamkonstantin.eu/blog/my-concurrency-wishlist-for-xcode-27/)
 * [2025-09-29, 12:38:40](https://lobste.rs/s/wf4bnp/what_s_new_postgresql_18_developer_s) - [What's New in PostgreSQL 18 - a Developer's Perspective](https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/)
 * [2025-09-29, 12:36:02](https://lobste.rs/s/oiiocr/go_proposal_architecture_specific_simd) - [Go Proposal: architecture-specific SIMD intrinsics](https://github.com/golang/go/issues/73787)
 * [2025-09-29, 12:33:44](https://lobste.rs/s/x7fe8h/dbos_durable_workflow_orchestration) - [dbos: Durable Workflow Orchestration with Go and Postgresql](https://github.com/dbos-inc/dbos-transact-golang)
