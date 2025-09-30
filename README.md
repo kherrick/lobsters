@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-09-29, 22:09:46](https://lobste.rs/s/xnepuz/heuristic_ors_are_expensive) - [Heuristic: Ors Are Expensive](https://ethanseal.com/articles/ors-are-expensive)
+* [2025-09-29, 23:55:58](https://lobste.rs/s/82vmho/how_much_do_you_really_know_about_media) - [How much do you really know about media queries?](https://frontendmasters.com/blog/learn-media-queries/)
 * [2025-09-29, 21:16:41](https://lobste.rs/s/t88zhp/gameboy_emulator_runs_everywhere) - [The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)](https://github.com/raphamorim/gameboy)
 * [2025-09-29, 18:59:12](https://lobste.rs/s/nd2kgt/std_flip) - [std::flip](https://morwenn.github.io//c++/2025/09/25/TSB004-std-flip.html)
+* [2025-09-29, 18:36:36](https://lobste.rs/s/w8sx2z/io_uring_is_not_event_system_2021) - [io_uring is not an event system (2021)](https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/)
 * [2025-09-29, 18:01:46](https://lobste.rs/s/580mjo/introducing_tdom_html_templating_with_t) - [Introducing tdom: HTML templating with t‑strings](https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/)
 * [2025-09-29, 17:57:55](https://lobste.rs/s/ljvnlu/we_built_our_coding_agent_for_slack) - [We built our coding agent for Slack instead of the terminal](https://www.mintlify.com/blog/we-built-our-coding-agent-for-slack)
 * [2025-09-29, 17:37:52](https://lobste.rs/s/eayslm/adding_new_instruction_risc_v_backend) - [Adding a new instruction to RISC-V backend in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
@@ -23,7 +24,6 @@
 * [2025-09-29, 04:07:21](https://lobste.rs/s/olfuo0/just_let_me_select_text) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
 * [2025-09-28, 23:22:35](https://lobste.rs/s/trzzcd/c_modules_globally_unique_module_names) - [In C++ modules globally unique module names seem to be unavoidable](https://nibblestew.blogspot.com/2025/09/in-c-modules-globally-unique-module.html)
 * [2025-09-28, 21:50:45](https://lobste.rs/s/dkjswm/stupid_jj_tricks) - [stupid jj tricks](https://andre.arko.net/2025/09/28/stupid-jj-tricks/)
-* [2025-09-28, 16:13:36](https://lobste.rs/s/gchwhh/why_i_m_not_rushing_take_sides_rubygems) - [Why I'm not rushing to take sides in the RubyGems fiasco](https://justin.searls.co/posts/why-im-not-rushing-to-take-sides-in-the-rubygems-fiasco/)
 * [2025-09-28, 11:44:44](https://lobste.rs/s/wshruu/small_data) - [Small Data](https://topicpartition.io/definitions/small-data)
 
 ## [Archives](archives/index.md)
