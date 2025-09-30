@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 09:32:38",
+      "https://lobste.rs/s/zycyxn/sguaba_type_safe_spatial_math_rust"
+    ],
+    [
+      "Sguaba: Type-safe spatial math in Rust",
+      "https://www.youtube.com/watch?v=kESBAiTYMoQ"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 07:30:38",
       "https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel"
     ],
@@ -177,16 +187,6 @@
     [
       "Code golfing a tiny demo using maths and a pinch of insanity",
       "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 12:38:40",
-      "https://lobste.rs/s/wf4bnp/what_s_new_postgresql_18_developer_s"
-    ],
-    [
-      "What's New in PostgreSQL 18 - a Developer's Perspective",
-      "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/"
     ]
   ],
   [
