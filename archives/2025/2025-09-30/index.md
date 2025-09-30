@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 14:08:07](https://lobste.rs/s/kppmfx/custom_lnaddress_with_self_hosted) - [Custom LNAddress with Self-Hosted AlbyHub](https://emre.xyz/posts/custom-lnaddress/)
+* [2025-09-30, 14:01:39](https://lobste.rs/s/rouky6/software_essays_shaped_me) - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
+* [2025-09-30, 13:46:47](https://lobste.rs/s/eijurc/deml_directed_acyclic_graph_elevation) - [deml: The Directed Acyclic Graph Elevation Markup Language](https://github.com/Mcmartelle/deml)
 * [2025-09-30, 12:42:39](https://lobste.rs/s/ilj8rw/live_streams_from_all_systems_go_2025) - [Live-Streams from All Systems Go! 2025](https://streaming.media.ccc.de/asg2025)
 * [2025-09-30, 12:35:40](https://lobste.rs/s/sa0ez8/prototype_first_software_design_with) - [Prototype-First Software Design With Agents](https://serce.me/posts/2025-09-30-prototype-first-software-design-with-agents)
 * [2025-09-30, 12:15:25](https://lobste.rs/s/1zmau9/radicle_1_5_0_hibiscus) - [Radicle 1.5.0 – Hibiscus](https://radicle.xyz/2025/09/30/radicle-1.5.0)
