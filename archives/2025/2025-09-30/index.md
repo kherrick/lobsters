@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 15:47:19](https://lobste.rs/s/6bjcok/how_write_complete_gnome_application_lua) - [How to write a complete GNOME application in Lua](https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/)
 * [2025-09-30, 15:26:43](https://lobste.rs/s/nfuocs/more_speculations_on_arenas_c) - [More speculations on arenas in C++](https://nullprogram.com/blog/2025/09/30/)
 * [2025-09-30, 15:21:38](https://lobste.rs/s/l3navw/designing_agentic_loops) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:15:24](https://lobste.rs/s/qq1d0z/investigating_fixing_stoppodsandbox) - [Investigating and fixing \"StopPodSandbox from runtime service failed\" Kubelet errors](https://marcusnoble.co.uk/2025-09-28-investigating-and-fixing-stoppodsandbox-from-runtime-service-failed-kubelet-errors/)

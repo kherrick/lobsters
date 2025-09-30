@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-30, 15:47:19](https://lobste.rs/s/6bjcok/how_write_complete_gnome_application_lua) - [How to write a complete GNOME application in Lua](https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/)
 * [2025-09-30, 15:26:43](https://lobste.rs/s/nfuocs/more_speculations_on_arenas_c) - [More speculations on arenas in C++](https://nullprogram.com/blog/2025/09/30/)
 * [2025-09-30, 15:21:38](https://lobste.rs/s/l3navw/designing_agentic_loops) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 15:15:24](https://lobste.rs/s/qq1d0z/investigating_fixing_stoppodsandbox) - [Investigating and fixing \"StopPodSandbox from runtime service failed\" Kubelet errors](https://marcusnoble.co.uk/2025-09-28-investigating-and-fixing-stoppodsandbox-from-runtime-service-failed-kubelet-errors/)
@@ -16,7 +17,6 @@
 * [2025-09-30, 03:54:35](https://lobste.rs/s/keyec7/subtext_retrospective) - [Subtext Retrospective](https://www.subtext-lang.org/retrospective.html)
 * [2025-09-29, 21:16:41](https://lobste.rs/s/t88zhp/gameboy_emulator_runs_everywhere) - [The Gameboy emulator that runs everywhere (Terminal, Web, Desktop)](https://github.com/raphamorim/gameboy)
 * [2025-09-29, 18:36:36](https://lobste.rs/s/w8sx2z/io_uring_is_not_event_system_2021) - [io_uring is not an event system (2021)](https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/)
-* [2025-09-29, 18:01:46](https://lobste.rs/s/580mjo/introducing_tdom_html_templating_with_t) - [Introducing tdom: HTML templating with t‑strings](https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/)
 * [2025-09-29, 17:57:55](https://lobste.rs/s/ljvnlu/we_built_our_coding_agent_for_slack) - [We built our coding agent for Slack instead of the terminal](https://www.mintlify.com/blog/we-built-our-coding-agent-for-slack)
 * [2025-09-29, 17:03:28](https://lobste.rs/s/gtnuao/introducing_claude_sonnet_4_5) - [Introducing Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 16:07:52](https://lobste.rs/s/7kspja/subtleties_sqlite_indexes) - [Subtleties of SQLite Indexes](https://emschwartz.me/subtleties-of-sqlite-indexes/)
