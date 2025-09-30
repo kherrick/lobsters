@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-30, 05:18:55](https://lobste.rs/s/mhczmh/pidgin_3_0_experiemental_4_2_93_0_has_been) - [Pidgin 3.0 Experiemental 4 (2.93.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/)
 * [2025-09-30, 03:54:35](https://lobste.rs/s/keyec7/subtext_retrospective) - [Subtext Retrospective](https://www.subtext-lang.org/retrospective.html)
 * [2025-09-30, 03:41:08](https://lobste.rs/s/poi5my/safe_zero_copy_operations_c) - [Safe zero-copy operations in C#](https://ssg.dev/safe-zero-copy-operations-in-c/)
 * [2025-09-29, 23:55:58](https://lobste.rs/s/82vmho/how_much_do_you_really_know_about_media) - [How much do you really know about media queries?](https://frontendmasters.com/blog/learn-media-queries/)
@@ -19,7 +20,6 @@
 * [2025-09-29, 12:36:02](https://lobste.rs/s/oiiocr/go_proposal_architecture_specific_simd) - [Go Proposal: architecture-specific SIMD intrinsics](https://github.com/golang/go/issues/73787)
 * [2025-09-29, 11:35:01](https://lobste.rs/s/ayncvk/ai_is_writing_90_code) - [AI is writing 90% of the code](https://lucumr.pocoo.org/2025/9/29/90-percent/)
 * [2025-09-29, 10:43:45](https://lobste.rs/s/f5xxtl/does_ai_get_bored) - [Does AI Get Bored?](https://timkellogg.me/blog/2025/09/27/boredom)
-* [2025-09-29, 09:46:08](https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvyfsg/what_are_you_doing_this_week)
 * [2025-09-29, 06:42:58](https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration) - [F-Droid and Google's Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
 * [2025-09-29, 05:59:35](https://lobste.rs/s/jbaxru/comparing_rust_carbon) - [Comparing Rust to Carbon](https://lwn.net/Articles/1036912/)
 * [2025-09-29, 04:07:21](https://lobste.rs/s/olfuo0/just_let_me_select_text) - [Just Let Me Select Text](https://aartaka.me/select-text.html)
