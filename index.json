@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-09-30, 21:08:02",
+      "https://lobste.rs/s/gxdnb7/bevy_0_17"
+    ],
+    [
+      "Bevy 0.17",
+      "https://bevy.org/news/bevy-0-17/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 21:05:26",
+      "https://lobste.rs/s/c3cwt7/3_critical_ttl_patterns_for_memory"
+    ],
+    [
+      "3 critical TTL patterns for in-memory caching",
+      "https://samuelberthe.substack.com/p/3-critical-ttl-patterns-for-in-memory"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 20:29:18",
+      "https://lobste.rs/s/vgcxcw/systems_programming_with_zig"
+    ],
+    [
+      "Systems Programming with Zig",
+      "https://www.manning.com/books/systems-programming-with-zig"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 20:03:19",
       "https://lobste.rs/s/fcimmd/organize_your_slack_channels_by_how_often"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-09-30, 16:04:26",
-      "https://lobste.rs/s/nsmomr/city2graph"
-    ],
-    [
-      "city2graph",
-      "https://city2graph.net/"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 15:47:19",
       "https://lobste.rs/s/6bjcok/how_write_complete_gnome_application_lua"
     ],
@@ -97,16 +117,6 @@
     [
       "The Software Essays that Shaped Me",
       "https://refactoringenglish.com/blog/software-essays-that-shaped-me/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 13:46:47",
-      "https://lobste.rs/s/eijurc/deml_directed_acyclic_graph_elevation"
-    ],
-    [
-      "deml: The Directed Acyclic Graph Elevation Markup Language",
-      "https://github.com/Mcmartelle/deml"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "F-Droid and Google's Developer Registration Decree",
       "https://f-droid.org/2025/09/29/google-developer-registration-decree.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 04:07:21",
-      "https://lobste.rs/s/olfuo0/just_let_me_select_text"
-    ],
-    [
-      "Just Let Me Select Text",
-      "https://aartaka.me/select-text.html"
     ]
   ]
 ]
