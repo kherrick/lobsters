@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 10:36:39](https://lobste.rs/s/fouac3/comprehension_debt_ticking_time_bomb_llm) - [Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code](https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/)
 * [2025-09-30, 09:32:38](https://lobste.rs/s/zycyxn/sguaba_type_safe_spatial_math_rust) - [Sguaba: Type-safe spatial math in Rust](https://www.youtube.com/watch?v=kESBAiTYMoQ)
 * [2025-09-30, 07:30:38](https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
 * [2025-09-30, 07:12:56](https://lobste.rs/s/fr6pgi/how_we_made_swe_bench_50x_smaller) - [How We Made SWE-Bench 50x Smaller](https://logicstar.ai/blog/how-we-made-swe-bench-50x-smaller)
