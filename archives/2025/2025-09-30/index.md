@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 21:57:19](https://lobste.rs/s/uda4e6/diff_algorithms) - [Diff Algorithms](https://flo.znkr.io/diff/)
 * [2025-09-30, 21:08:02](https://lobste.rs/s/gxdnb7/bevy_0_17) - [Bevy 0.17](https://bevy.org/news/bevy-0-17/)
 * [2025-09-30, 21:05:26](https://lobste.rs/s/c3cwt7/3_critical_ttl_patterns_for_memory) - [3 critical TTL patterns for in-memory caching](https://samuelberthe.substack.com/p/3-critical-ttl-patterns-for-in-memory)
 * [2025-09-30, 20:29:18](https://lobste.rs/s/vgcxcw/systems_programming_with_zig) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
