@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 12:42:39](https://lobste.rs/s/ilj8rw/live_streams_from_all_systems_go_2025) - [Live-Streams from All Systems Go! 2025](https://streaming.media.ccc.de/asg2025)
+* [2025-09-30, 12:35:40](https://lobste.rs/s/sa0ez8/prototype_first_software_design_with) - [Prototype-First Software Design With Agents](https://serce.me/posts/2025-09-30-prototype-first-software-design-with-agents)
 * [2025-09-30, 12:15:25](https://lobste.rs/s/1zmau9/radicle_1_5_0_hibiscus) - [Radicle 1.5.0 – Hibiscus](https://radicle.xyz/2025/09/30/radicle-1.5.0)
 * [2025-09-30, 12:08:50](https://lobste.rs/s/r6elsg/open_printer_is_open_source_inkjet) - [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 12:02:32](https://lobste.rs/s/yfmq0d/expression_problem_rust) - [The expression problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-30, 12:42:39](https://lobste.rs/s/ilj8rw/live_streams_from_all_systems_go_2025) - [Live-Streams from All Systems Go! 2025](https://streaming.media.ccc.de/asg2025)
+* [2025-09-30, 12:35:40](https://lobste.rs/s/sa0ez8/prototype_first_software_design_with) - [Prototype-First Software Design With Agents](https://serce.me/posts/2025-09-30-prototype-first-software-design-with-agents)
 * [2025-09-30, 12:15:25](https://lobste.rs/s/1zmau9/radicle_1_5_0_hibiscus) - [Radicle 1.5.0 – Hibiscus](https://radicle.xyz/2025/09/30/radicle-1.5.0)
 * [2025-09-30, 12:08:50](https://lobste.rs/s/r6elsg/open_printer_is_open_source_inkjet) - [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 * [2025-09-30, 12:02:32](https://lobste.rs/s/yfmq0d/expression_problem_rust) - [The expression problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust/)
@@ -13,8 +15,6 @@
 * [2025-09-29, 18:36:36](https://lobste.rs/s/w8sx2z/io_uring_is_not_event_system_2021) - [io_uring is not an event system (2021)](https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/)
 * [2025-09-29, 18:01:46](https://lobste.rs/s/580mjo/introducing_tdom_html_templating_with_t) - [Introducing tdom: HTML templating with t‑strings](https://davepeck.org/2025/09/22/introducing-tdom-html-templating-with-python-t-strings/)
 * [2025-09-29, 17:57:55](https://lobste.rs/s/ljvnlu/we_built_our_coding_agent_for_slack) - [We built our coding agent for Slack instead of the terminal](https://www.mintlify.com/blog/we-built-our-coding-agent-for-slack)
-* [2025-09-29, 17:37:52](https://lobste.rs/s/eayslm/adding_new_instruction_risc_v_backend) - [Adding a new instruction to RISC-V backend in LLVM](https://blog.gustavoleite.me/llvm-riscv-instruction)
-* [2025-09-29, 17:35:26](https://lobste.rs/s/2ofre3/can_ligo_detect_daylight_savings_time) - [Can LIGO Detect Daylight Savings Time?](https://arxiv.org/abs/2509.11849)
 * [2025-09-29, 17:03:28](https://lobste.rs/s/gtnuao/introducing_claude_sonnet_4_5) - [Introducing Claude Sonnet 4.5](https://www.anthropic.com/news/claude-sonnet-4-5)
 * [2025-09-29, 16:07:52](https://lobste.rs/s/7kspja/subtleties_sqlite_indexes) - [Subtleties of SQLite Indexes](https://emschwartz.me/subtleties-of-sqlite-indexes/)
 * [2025-09-29, 15:50:13](https://lobste.rs/s/adqhqf/unix99_unix_for_ti_99_4a) - [UNIX99: UNIX for the TI-99/4A](https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/)
