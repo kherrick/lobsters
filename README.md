@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-30, 07:30:38](https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
 * [2025-09-30, 05:41:29](https://lobste.rs/s/i7mmpl/brownian_motion_modeling_random_fields) - [Brownian motion: Modeling random fields over arbitrary geometries](https://stopthrowingrocks.github.io/random-fields/)
 * [2025-09-30, 05:40:04](https://lobste.rs/s/fgiaau/matrix_derivation) - [Matrix Derivation](https://stopthrowingrocks.github.io/matrix-derivation/)
 * [2025-09-30, 05:38:52](https://lobste.rs/s/t3t3zr/we_move_as_1) - [we move as 1](https://stopthrowingrocks.github.io/wma1/)
@@ -18,7 +19,6 @@
 * [2025-09-29, 15:50:13](https://lobste.rs/s/adqhqf/unix99_unix_for_ti_99_4a) - [UNIX99: UNIX for the TI-99/4A](https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/)
 * [2025-09-29, 15:25:26](https://lobste.rs/s/rrwwar/announcing_software_you_can_love_2026) - [Announcing Software You Can Love 2026](https://mattnite.net/blog/sycl-2026-announcement/)
 * [2025-09-29, 13:34:43](https://lobste.rs/s/qzcqyx/code_golfing_tiny_demo_using_maths_pinch) - [Code golfing a tiny demo using maths and a pinch of insanity](https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html)
-* [2025-09-29, 12:38:40](https://lobste.rs/s/wf4bnp/what_s_new_postgresql_18_developer_s) - [What's New in PostgreSQL 18 - a Developer's Perspective](https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/)
 * [2025-09-29, 12:36:02](https://lobste.rs/s/oiiocr/go_proposal_architecture_specific_simd) - [Go Proposal: architecture-specific SIMD intrinsics](https://github.com/golang/go/issues/73787)
 * [2025-09-29, 11:35:01](https://lobste.rs/s/ayncvk/ai_is_writing_90_code) - [AI is writing 90% of the code](https://lucumr.pocoo.org/2025/9/29/90-percent/)
 * [2025-09-29, 06:42:58](https://lobste.rs/s/x1sdu5/f_droid_google_s_developer_registration) - [F-Droid and Google's Developer Registration Decree](https://f-droid.org/2025/09/29/google-developer-registration-decree.html)
