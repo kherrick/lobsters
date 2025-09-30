@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 18:32:59",
+      "https://lobste.rs/s/hk8yw5/steel_bank_common_lisp_2_5_9"
+    ],
+    [
+      "Steel Bank Common Lisp 2.5.9",
+      "https://www.sbcl.org/news.html#2.5.9"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 17:31:28",
       "https://lobste.rs/s/cpizty/shellshock_2014_2025"
     ],
@@ -57,16 +67,6 @@
     [
       "Designing agentic loops",
       "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 15:15:24",
-      "https://lobste.rs/s/qq1d0z/investigating_fixing_stoppodsandbox"
-    ],
-    [
-      "Investigating and fixing \"StopPodSandbox from runtime service failed\" Kubelet errors",
-      "https://marcusnoble.co.uk/2025-09-28-investigating-and-fixing-stoppodsandbox-from-runtime-service-failed-kubelet-errors/"
     ]
   ],
   [
