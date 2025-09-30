@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 07:30:38",
+      "https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel"
+    ],
+    [
+      "Bcachefs removed from the mainline kernel",
+      "https://lwn.net/Articles/1040120/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 05:41:29",
       "https://lobste.rs/s/i7mmpl/brownian_motion_modeling_random_fields"
     ],
@@ -177,16 +187,6 @@
     [
       "Code golfing a tiny demo using maths and a pinch of insanity",
       "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 12:38:40",
-      "https://lobste.rs/s/wf4bnp/what_s_new_postgresql_18_developer_s"
-    ],
-    [
-      "What's New in PostgreSQL 18 - a Developer's Perspective",
-      "https://www.bytebase.com/blog/what-is-new-in-postgres-18-for-developer/"
     ]
   ],
   [
