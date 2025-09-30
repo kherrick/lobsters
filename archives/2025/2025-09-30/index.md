@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 07:12:56](https://lobste.rs/s/fr6pgi/how_we_made_swe_bench_50x_smaller) - [How We Made SWE-Bench 50x Smaller](https://logicstar.ai/blog/how-we-made-swe-bench-50x-smaller)
 * [2025-09-30, 05:41:29](https://lobste.rs/s/i7mmpl/brownian_motion_modeling_random_fields) - [Brownian motion: Modeling random fields over arbitrary geometries](https://stopthrowingrocks.github.io/random-fields/)
 * [2025-09-30, 05:40:04](https://lobste.rs/s/fgiaau/matrix_derivation) - [Matrix Derivation](https://stopthrowingrocks.github.io/matrix-derivation/)
 * [2025-09-30, 05:38:52](https://lobste.rs/s/t3t3zr/we_move_as_1) - [we move as 1](https://stopthrowingrocks.github.io/wma1/)
