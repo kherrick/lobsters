@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-09-30](index.md)
 
+* [2025-09-30, 09:32:38](https://lobste.rs/s/zycyxn/sguaba_type_safe_spatial_math_rust) - [Sguaba: Type-safe spatial math in Rust](https://www.youtube.com/watch?v=kESBAiTYMoQ)
 * [2025-09-30, 07:30:38](https://lobste.rs/s/bt97wm/bcachefs_removed_from_mainline_kernel) - [Bcachefs removed from the mainline kernel](https://lwn.net/Articles/1040120/)
 * [2025-09-30, 07:12:56](https://lobste.rs/s/fr6pgi/how_we_made_swe_bench_50x_smaller) - [How We Made SWE-Bench 50x Smaller](https://logicstar.ai/blog/how-we-made-swe-bench-50x-smaller)
 * [2025-09-30, 05:41:29](https://lobste.rs/s/i7mmpl/brownian_motion_modeling_random_fields) - [Brownian motion: Modeling random fields over arbitrary geometries](https://stopthrowingrocks.github.io/random-fields/)
