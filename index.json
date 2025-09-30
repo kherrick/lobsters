@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-09-30, 15:15:24",
+      "https://lobste.rs/s/qq1d0z/investigating_fixing_stoppodsandbox"
+    ],
+    [
+      "Investigating and fixing \"StopPodSandbox from runtime service failed\" Kubelet errors",
+      "https://marcusnoble.co.uk/2025-09-28-investigating-and-fixing-stoppodsandbox-from-runtime-service-failed-kubelet-errors/"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 14:08:07",
       "https://lobste.rs/s/kppmfx/custom_lnaddress_with_self_hosted"
     ],
@@ -197,16 +207,6 @@
     [
       "Announcing Software You Can Love 2026",
       "https://mattnite.net/blog/sycl-2026-announcement/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 13:34:43",
-      "https://lobste.rs/s/qzcqyx/code_golfing_tiny_demo_using_maths_pinch"
-    ],
-    [
-      "Code golfing a tiny demo using maths and a pinch of insanity",
-      "https://blog.pkh.me/p/45-code-golfing-a-tiny-demo-using-maths-and-a-pinch-of-insanity.html"
     ]
   ],
   [
