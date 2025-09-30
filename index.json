@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-09-30, 12:42:39",
-      "https://lobste.rs/s/ilj8rw/live_streams_from_all_systems_go_2025"
+      "2025-09-30, 14:08:07",
+      "https://lobste.rs/s/kppmfx/custom_lnaddress_with_self_hosted"
     ],
     [
-      "Live-Streams from All Systems Go! 2025",
-      "https://streaming.media.ccc.de/asg2025"
+      "Custom LNAddress with Self-Hosted AlbyHub",
+      "https://emre.xyz/posts/custom-lnaddress/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 14:01:39",
+      "https://lobste.rs/s/rouky6/software_essays_shaped_me"
+    ],
+    [
+      "The Software Essays that Shaped Me",
+      "https://refactoringenglish.com/blog/software-essays-that-shaped-me/"
+    ]
+  ],
+  [
+    [
+      "2025-09-30, 13:46:47",
+      "https://lobste.rs/s/eijurc/deml_directed_acyclic_graph_elevation"
+    ],
+    [
+      "deml: The Directed Acyclic Graph Elevation Markup Language",
+      "https://github.com/Mcmartelle/deml"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-09-29, 15:50:13",
-      "https://lobste.rs/s/adqhqf/unix99_unix_for_ti_99_4a"
-    ],
-    [
-      "UNIX99: UNIX for the TI-99/4A",
-      "https://www.osnews.com/story/143436/unix99-unix-for-the-ti-99-4a/"
-    ]
-  ],
-  [
-    [
       "2025-09-29, 15:25:26",
       "https://lobste.rs/s/rrwwar/announcing_software_you_can_love_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "Just Let Me Select Text",
       "https://aartaka.me/select-text.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-28, 21:50:45",
-      "https://lobste.rs/s/dkjswm/stupid_jj_tricks"
-    ],
-    [
-      "stupid jj tricks",
-      "https://andre.arko.net/2025/09/28/stupid-jj-tricks/"
     ]
   ]
 ]
