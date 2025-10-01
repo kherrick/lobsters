@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-09-30, 22:09:29](https://lobste.rs/s/rlohwt/rubygems_stewardship_where_we_are_what_s) - [RubyGems stewardship: Where we are, what’s changing and how we’ll engage](https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/)
 * [2025-09-30, 21:57:19](https://lobste.rs/s/uda4e6/diff_algorithms) - [Diff Algorithms](https://flo.znkr.io/diff/)
 * [2025-09-30, 21:08:02](https://lobste.rs/s/gxdnb7/bevy_0_17) - [Bevy 0.17](https://bevy.org/news/bevy-0-17/)
 * [2025-09-30, 20:29:18](https://lobste.rs/s/vgcxcw/systems_programming_with_zig) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
@@ -9,7 +10,6 @@
 * [2025-09-30, 17:31:28](https://lobste.rs/s/cpizty/shellshock_2014_2025) - [Shellshock (2014, 2025)](https://dwheeler.com/essays/shellshock.html)
 * [2025-09-30, 16:56:23](https://lobste.rs/s/ytwdqu/behind_y_s2_serverless_multiplayer_rooms) - [Behind y-s2: serverless multiplayer rooms](https://s2.dev/blog/durable-yjs-rooms)
 * [2025-09-30, 15:47:19](https://lobste.rs/s/6bjcok/how_write_complete_gnome_application_lua) - [How to write a complete GNOME application in Lua](https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/)
-* [2025-09-30, 15:26:43](https://lobste.rs/s/nfuocs/more_speculations_on_arenas_c) - [More speculations on arenas in C++](https://nullprogram.com/blog/2025/09/30/)
 * [2025-09-30, 15:21:38](https://lobste.rs/s/l3navw/designing_agentic_loops) - [Designing agentic loops](https://simonwillison.net/2025/Sep/30/designing-agentic-loops/)
 * [2025-09-30, 14:01:39](https://lobste.rs/s/rouky6/software_essays_shaped_me) - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
 * [2025-09-30, 12:15:25](https://lobste.rs/s/1zmau9/radicle_1_5_0_hibiscus) - [Radicle 1.5.0 – Hibiscus](https://radicle.xyz/2025/09/30/radicle-1.5.0)
