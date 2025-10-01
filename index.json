@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 13:59:32",
+      "https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no"
+    ],
+    [
+      "Nix Steering Committee vote of no confidence",
+      "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 13:53:03",
       "https://lobste.rs/s/fygftm/f3_open_source_data_file_format_for_future"
     ],
@@ -27,16 +37,6 @@
     [
       "Our efforts, in part, define us",
       "https://weakty.com/posts/efforts/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 08:32:40",
-      "https://lobste.rs/s/i1dy7u/what_s_difference_between_files"
-    ],
-    [
-      "What’s the difference between files and directories in a Unix-like filesystem?",
-      "https://jack23247.github.io/blog/linux/inodes/"
     ]
   ],
   [
@@ -81,22 +81,22 @@
   ],
   [
     [
+      "2025-10-01, 01:44:30",
+      "https://lobste.rs/s/vh58xf/programs_utilities_especially_small"
+    ],
+    [
+      "Programs/utilities (especially small ones) with funny/crude acronyms for their name?",
+      "https://lobste.rs/s/vh58xf/programs_utilities_especially_small"
+    ]
+  ],
+  [
+    [
       "2025-09-30, 22:09:29",
       "https://lobste.rs/s/rlohwt/rubygems_stewardship_where_we_are_what_s"
     ],
     [
       "RubyGems stewardship: Where we are, what’s changing and how we’ll engage",
       "https://rubycentral.org/news/our-stewardship-where-we-are-whats-changing-and-how-well-engage/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 21:57:19",
-      "https://lobste.rs/s/uda4e6/diff_algorithms"
-    ],
-    [
-      "Diff Algorithms",
-      "https://flo.znkr.io/diff/"
     ]
   ],
   [
