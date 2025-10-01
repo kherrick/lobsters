@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-01, 08:32:40",
+      "https://lobste.rs/s/i1dy7u/what_s_difference_between_files"
+    ],
+    [
+      "What’s the difference between files and directories in a Unix-like filesystem?",
+      "https://jack23247.github.io/blog/linux/inodes/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 08:00:11",
       "https://lobste.rs/s/ufpajh/category_theory_illustrated_natural"
     ],
@@ -137,16 +147,6 @@
     [
       "How to write a complete GNOME application in Lua",
       "https://www.vtrlx.ca/posts/2025/howto-complete-lua-gnome-app/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 15:21:38",
-      "https://lobste.rs/s/l3navw/designing_agentic_loops"
-    ],
-    [
-      "Designing agentic loops",
-      "https://simonwillison.net/2025/Sep/30/designing-agentic-loops/"
     ]
   ],
   [
