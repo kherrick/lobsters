@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 19:36:00",
+      "https://lobste.rs/s/vawrag/ip_over_lasers"
+    ],
+    [
+      "IP Over Lasers",
+      "https://www.mikekohn.net/micro/ip_over_lasers.php"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 19:11:17",
       "https://lobste.rs/s/va0frj/serving_half_billion_requests_per_day"
     ],
@@ -157,16 +167,6 @@
     [
       "Generate HTML conveniently and efficiently with Python generators",
       "https://github.com/pcarbonn/fast_html"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 01:44:30",
-      "https://lobste.rs/s/vh58xf/programs_utilities_especially_small"
-    ],
-    [
-      "Programs/utilities (especially small ones) with funny/crude acronyms for their name?",
-      "https://lobste.rs/s/vh58xf/programs_utilities_especially_small"
     ]
   ],
   [
