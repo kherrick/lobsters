@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 08:32:40",
+      "https://lobste.rs/s/i1dy7u/what_s_difference_between_files"
+    ],
+    [
+      "What’s the difference between files and directories in a Unix-like filesystem?",
+      "https://jack23247.github.io/blog/linux/inodes/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 08:00:11",
       "https://lobste.rs/s/ufpajh/category_theory_illustrated_natural"
     ],
@@ -237,16 +247,6 @@
     [
       "Pidgin 3.0 Experimental 4 (2.93.0) has been released",
       "https://discourse.imfreedom.org/t/pidgin-3-0-experimental-4-2-93-0-has-been-released/"
-    ]
-  ],
-  [
-    [
-      "2025-09-29, 15:25:26",
-      "https://lobste.rs/s/rrwwar/announcing_software_you_can_love_2026"
-    ],
-    [
-      "Announcing Software You Can Love 2026",
-      "https://mattnite.net/blog/sycl-2026-announcement/"
     ]
   ]
 ]
