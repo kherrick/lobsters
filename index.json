@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 18:42:19",
+      "https://lobste.rs/s/liw1e8/we_tried_go_s_experimental_green_tea"
+    ],
+    [
+      "We tried Go's experimental Green Tea garbage collector and it didn't help performance",
+      "https://www.dolthub.com/blog/2025-09-26-greentea-gc-with-dolt/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 17:37:05",
       "https://lobste.rs/s/w8xado/is_tech_inevitable"
     ],
@@ -227,16 +237,6 @@
     [
       "Bcachefs removed from the mainline kernel",
       "https://lwn.net/Articles/1040120/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 05:27:06",
-      "https://lobste.rs/s/06ef3a/maml_new_configuration_language_similar"
-    ],
-    [
-      "MAML - a new configuration language (similar to JSON, YAML, and TOML)",
-      "https://maml.dev/"
     ]
   ],
   [
