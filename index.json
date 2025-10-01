@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-10-01, 09:20:46",
+      "https://lobste.rs/s/nisytd/our_efforts_part_define_us"
+    ],
+    [
+      "Our efforts, in part, define us",
+      "https://weakty.com/posts/efforts/"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 08:32:40",
       "https://lobste.rs/s/i1dy7u/what_s_difference_between_files"
     ],
     [
       "What’s the difference between files and directories in a Unix-like filesystem?",
       "https://jack23247.github.io/blog/linux/inodes/"
+    ]
+  ],
+  [
+    [
+      "2025-10-01, 08:04:08",
+      "https://lobste.rs/s/cetldx/register_allocation_go_compiler_2024"
+    ],
+    [
+      "Register allocation in the Go compiler [2024]",
+      "https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-09-30, 17:31:28",
-      "https://lobste.rs/s/cpizty/shellshock_2014_2025"
-    ],
-    [
-      "Shellshock (2014, 2025)",
-      "https://dwheeler.com/essays/shellshock.html"
-    ]
-  ],
-  [
-    [
       "2025-09-30, 16:56:23",
       "https://lobste.rs/s/ytwdqu/behind_y_s2_serverless_multiplayer_rooms"
     ],
@@ -197,16 +207,6 @@
     [
       "Go proposal: Hashers",
       "https://antonz.org/accepted/maphash-hasher/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 10:36:39",
-      "https://lobste.rs/s/fouac3/comprehension_debt_ticking_time_bomb_llm"
-    ],
-    [
-      "Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code",
-      "https://codemanship.wordpress.com/2025/09/30/comprehension-debt-the-ticking-time-bomb-of-llm-generated-code/"
     ]
   ],
   [
