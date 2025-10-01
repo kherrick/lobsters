@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-01, 21:57:04",
+      "https://lobste.rs/s/pxovor/immich_v2_0_0_stable_release"
+    ],
+    [
+      "Immich v2.0.0 - Stable Release",
+      "https://github.com/immich-app/immich/releases/tag/v2.0.0"
+    ]
+  ],
+  [
+    [
       "2025-10-01, 19:36:00",
       "https://lobste.rs/s/vawrag/ip_over_lasers"
     ],
@@ -147,16 +157,6 @@
     [
       "What was the longest time you ever took to return to a software project?",
       "https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 05:30:47",
-      "https://lobste.rs/s/ka3uqb/generate_html_conveniently_efficiently"
-    ],
-    [
-      "Generate HTML conveniently and efficiently with Python generators",
-      "https://github.com/pcarbonn/fast_html"
     ]
   ],
   [
