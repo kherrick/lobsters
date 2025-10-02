@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-02, 20:55:45",
+      "https://lobste.rs/s/kl8oqp/public_record_questions_for_ruby_central"
+    ],
+    [
+      "A public record of questions for Ruby Central",
+      "https://github.com/community-research-on-ruby-governance/questions-for-ruby-central"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 20:52:20",
+      "https://lobste.rs/s/qogioz/shelby_decentralized_hot_storage"
+    ],
+    [
+      "Shelby: Decentralized hot storage protocol competitive with AWS S3 performance",
+      "https://arxiv.org/html/2506.19233v1"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 20:38:31",
       "https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git"
     ],
@@ -17,16 +37,6 @@
     [
       "Where It's at://",
       "https://overreacted.io/where-its-at/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 20:15:47",
-      "https://lobste.rs/s/lp2qpd/risk_rolls_downhill"
-    ],
-    [
-      "Risk Rolls Downhill",
-      "https://corecursive.com/horizon-scandal-with-scott-darlington/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "A Tutorial for the Sam Command Language",
       "https://ratfactor.com/papers/sam-language"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 06:05:07",
-      "https://lobste.rs/s/r5bmxd/rfc_llvm_ai_tool_policy_start_small_no_slop"
-    ],
-    [
-      "[RFC] LLVM AI tool policy: start small, no slop",
-      "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476"
     ]
   ],
   [
