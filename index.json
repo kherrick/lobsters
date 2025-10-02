@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-02, 18:52:08",
+      "https://lobste.rs/s/cpersg/wombat_s_book_nix"
+    ],
+    [
+      "Wombat’s Book of Nix",
+      "https://mhwombat.codeberg.page/nix-book/"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 18:50:20",
+      "https://lobste.rs/s/azb8k5/terminating_elegantly_guide_graceful"
+    ],
+    [
+      "Terminating elegantly: a guide to graceful shutdowns",
+      "https://www.youtube.com/watch?v=t6zVcxT7Br4"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 18:12:01",
       "https://lobste.rs/s/afajjh/nine_http_edge_cases"
     ],
@@ -217,26 +237,6 @@
     [
       "F3: The Open-Source Data File Format for the Future",
       "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 08:00:11",
-      "https://lobste.rs/s/ufpajh/category_theory_illustrated_natural"
-    ],
-    [
-      "Category Theory Illustrated - Natural transformations",
-      "https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 06:19:11",
-      "https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return"
-    ],
-    [
-      "What was the longest time you ever took to return to a software project?",
-      "https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return"
     ]
   ],
   [
