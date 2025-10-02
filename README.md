@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-02, 06:11:31](https://lobste.rs/s/hhohj2/we_have_no_idea_how_models_will_behave) - [“We Have No Idea How Models will Behave in Production until Production”: ML Ops Study [2024]](https://arxiv.org/html/2403.16795v1)
+* [2025-10-02, 06:05:07](https://lobste.rs/s/r5bmxd/rfc_llvm_ai_tool_policy_start_small_no_slop) - [[RFC] LLVM AI tool policy: start small, no slop](https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476)
 * [2025-10-02, 00:37:54](https://lobste.rs/s/m2ovuo/biggest_semantic_mess_futhark) - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
 * [2025-10-01, 23:48:58](https://lobste.rs/s/9o8m3u/primitive_overloading) - [Primitive overloading](https://mlochbaum.github.io/BQN/commentary/overload.html)
 * [2025-10-01, 23:34:33](https://lobste.rs/s/dopdda/jujutsu_v0_34_0_released) - [jujutsu v0.34.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.34.0)
@@ -14,7 +16,6 @@
 * [2025-10-01, 14:32:17](https://lobste.rs/s/ih9wnq/gernot_s_list_systems_benchmarking) - [Gernot's List of Systems Benchmarking Crimes](https://gernot-heiser.org/benchmarking-crimes.html)
 * [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 * [2025-10-01, 13:53:03](https://lobste.rs/s/fygftm/f3_open_source_data_file_format_for_future) - [F3: The Open-Source Data File Format for the Future](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
-* [2025-10-01, 09:20:46](https://lobste.rs/s/nisytd/our_efforts_part_define_us) - [Our efforts, in part, define us](https://weakty.com/posts/efforts/)
 * [2025-10-01, 08:04:08](https://lobste.rs/s/cetldx/register_allocation_go_compiler_2024) - [Register allocation in the Go compiler [2024]](https://vnmakarov.github.io/2024/09/24/register-allocation-in-the-go-compiler.html)
 * [2025-10-01, 08:00:11](https://lobste.rs/s/ufpajh/category_theory_illustrated_natural) - [Category Theory Illustrated - Natural transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
 * [2025-10-01, 06:19:11](https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return) - [What was the longest time you ever took to return to a software project?](https://lobste.rs/s/rthlbj/what_was_longest_time_you_ever_took_return)
@@ -22,7 +23,6 @@
 * [2025-09-30, 20:29:18](https://lobste.rs/s/vgcxcw/systems_programming_with_zig) - [Systems Programming with Zig](https://www.manning.com/books/systems-programming-with-zig)
 * [2025-09-30, 20:03:19](https://lobste.rs/s/fcimmd/organize_your_slack_channels_by_how_often) - [Organize your Slack channels by “How Often”, not “What”](https://aggressivelyparaphrasing.me/2025/09/30/organize-your-slack-channels-by-how-often-not-what/)
 * [2025-09-30, 19:55:31](https://lobste.rs/s/lm3isi/glide_extensible_keyboard_focused_web) - [Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
-* [2025-09-30, 18:32:59](https://lobste.rs/s/hk8yw5/steel_bank_common_lisp_2_5_9) - [Steel Bank Common Lisp 2.5.9](https://www.sbcl.org/news.html#2.5.9)
 * [2025-09-30, 14:01:39](https://lobste.rs/s/rouky6/software_essays_shaped_me) - [The Software Essays that Shaped Me](https://refactoringenglish.com/blog/software-essays-that-shaped-me/)
 * [2025-09-30, 12:08:50](https://lobste.rs/s/r6elsg/open_printer_is_open_source_inkjet) - [Open Printer is an open source inkjet printer with DRM-free ink and roll paper support](https://www.notebookcheck.net/Open-Printer-is-an-open-source-inkjet-printer-with-DRM-free-ink-and-roll-paper-support.1126929.0.html)
 
