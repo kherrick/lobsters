@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-02, 07:52:08",
+      "https://lobste.rs/s/v8lxdc/tutorial_for_sam_command_language"
+    ],
+    [
+      "A Tutorial for the Sam Command Language",
+      "https://ratfactor.com/papers/sam-language"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 06:11:31",
       "https://lobste.rs/s/hhohj2/we_have_no_idea_how_models_will_behave"
     ],
@@ -197,16 +207,6 @@
     [
       "Bevy 0.17",
       "https://bevy.org/news/bevy-0-17/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 20:29:18",
-      "https://lobste.rs/s/vgcxcw/systems_programming_with_zig"
-    ],
-    [
-      "Systems Programming with Zig",
-      "https://www.manning.com/books/systems-programming-with-zig"
     ]
   ],
   [
