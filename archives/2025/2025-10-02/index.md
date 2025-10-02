@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 20:15:47](https://lobste.rs/s/lp2qpd/risk_rolls_downhill) - [Risk Rolls Downhill](https://corecursive.com/horizon-scandal-with-scott-darlington/)
 * [2025-10-02, 20:04:17](https://lobste.rs/s/2ib77w/litestream_v0_5_0_is_here) - [Litestream v0.5.0 is Here](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 18:52:08](https://lobste.rs/s/cpersg/wombat_s_book_nix) - [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
 * [2025-10-02, 18:50:20](https://lobste.rs/s/azb8k5/terminating_elegantly_guide_graceful) - [Terminating elegantly: a guide to graceful shutdowns](https://www.youtube.com/watch?v=t6zVcxT7Br4)
