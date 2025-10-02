@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-02, 20:38:31",
+      "https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git"
+    ],
+    [
+      "Whatever happened to SHA-256 support in Git? (2022)",
+      "https://lwn.net/Articles/898522/"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 20:32:23",
+      "https://lobste.rs/s/yhp6ym/where_it_s_at"
+    ],
+    [
+      "Where It's at://",
+      "https://overreacted.io/where-its-at/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 20:15:47",
       "https://lobste.rs/s/lp2qpd/risk_rolls_downhill"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-10-02, 06:11:31",
-      "https://lobste.rs/s/hhohj2/how_engineers_operationalize_machine"
-    ],
-    [
-      "How Engineers Operationalize Machine Learning",
-      "https://arxiv.org/html/2403.16795v1"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 06:05:07",
       "https://lobste.rs/s/r5bmxd/rfc_llvm_ai_tool_policy_start_small_no_slop"
     ],
@@ -227,16 +237,6 @@
     [
       "Nix Steering Committee vote of no confidence",
       "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 13:53:03",
-      "https://lobste.rs/s/fygftm/f3_open_source_data_file_format_for_future"
-    ],
-    [
-      "F3: The Open-Source Data File Format for the Future",
-      "https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf"
     ]
   ],
   [
