@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-02, 21:48:16",
+      "https://lobste.rs/s/letrig/zluda_update_q3_2025_zluda_5_is_here"
+    ],
+    [
+      "ZLUDA update Q3 2025 – ZLUDA 5 is here",
+      "https://vosen.github.io/ZLUDA/blog/zluda-update-q3-2025/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 21:15:41",
       "https://lobste.rs/s/xcceiy/neural_network_written_completely_jq"
     ],
@@ -187,16 +197,6 @@
     [
       "Immich v2.0.0 - Stable Release",
       "https://github.com/immich-app/immich/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 19:11:17",
-      "https://lobste.rs/s/va0frj/serving_half_billion_requests_per_day"
-    ],
-    [
-      "Serving a half billion requests per day with Rust + CGI",
-      "https://jacob.gold/posts/serving-half-billion-requests-with-rust-cgi/"
     ]
   ],
   [
