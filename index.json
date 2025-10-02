@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-02, 06:11:31",
+      "https://lobste.rs/s/hhohj2/we_have_no_idea_how_models_will_behave"
+    ],
+    [
+      "“We Have No Idea How Models will Behave in Production until Production”: ML Ops Study [2024]",
+      "https://arxiv.org/html/2403.16795v1"
+    ]
+  ],
+  [
+    [
+      "2025-10-02, 06:05:07",
+      "https://lobste.rs/s/r5bmxd/rfc_llvm_ai_tool_policy_start_small_no_slop"
+    ],
+    [
+      "[RFC] LLVM AI tool policy: start small, no slop",
+      "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-start-small-no-slop/88476"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 00:37:54",
       "https://lobste.rs/s/m2ovuo/biggest_semantic_mess_futhark"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-10-01, 09:20:46",
-      "https://lobste.rs/s/nisytd/our_efforts_part_define_us"
-    ],
-    [
-      "Our efforts, in part, define us",
-      "https://weakty.com/posts/efforts/"
-    ]
-  ],
-  [
-    [
       "2025-10-01, 08:04:08",
       "https://lobste.rs/s/cetldx/register_allocation_go_compiler_2024"
     ],
@@ -217,16 +227,6 @@
     [
       "Glide, an extensible, keyboard-focused web browser",
       "https://blog.craigie.dev/introducing-glide/"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 18:32:59",
-      "https://lobste.rs/s/hk8yw5/steel_bank_common_lisp_2_5_9"
-    ],
-    [
-      "Steel Bank Common Lisp 2.5.9",
-      "https://www.sbcl.org/news.html#2.5.9"
     ]
   ],
   [
