@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-02](index.md)
 
+* [2025-10-02, 18:12:01](https://lobste.rs/s/afajjh/nine_http_edge_cases) - [Nine HTTP Edge Cases](https://blog.dochia.dev/blog/http_edge_cases/)
+* [2025-10-02, 18:00:38](https://lobste.rs/s/oezfwk/datafusion_postgres_postgres_protocol) - [datafusion-postgres: postgres protocol adapter for datafusion query engine](https://github.com/datafusion-contrib/datafusion-postgres)
+* [2025-10-02, 17:58:23](https://lobste.rs/s/tp8gzj/empirical_evaluation_property_based) - [An Empirical Evaluation of Property-Based Testing in Python](https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf)
 * [2025-10-02, 16:02:28](https://lobste.rs/s/w8ej0w/custom_carets_users) - [Custom Carets and Users](https://adrianroselli.com/2025/09/custom-carets-and-users-when-the-caret-is-no-longer-a-stick-yes-thats-a-poor-attempt-at-a-pun.html)
 * [2025-10-02, 15:52:21](https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4) - [Installing NixOS on Raspberry Pi 4](https://mtlynch.io/nixos-pi4/)
 * [2025-10-02, 15:33:18](https://lobste.rs/s/p79vuw/i_turned_lego_game_boy_into_working_game) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
