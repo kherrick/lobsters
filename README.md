@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-02, 15:52:21](https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4) - [Installing NixOS on Raspberry Pi 4](https://mtlynch.io/nixos-pi4/)
 * [2025-10-02, 15:33:18](https://lobste.rs/s/p79vuw/i_turned_lego_game_boy_into_working_game) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 * [2025-10-02, 07:52:08](https://lobste.rs/s/v8lxdc/tutorial_for_sam_command_language) - [A Tutorial for the Sam Command Language](https://ratfactor.com/papers/sam-language)
@@ -16,7 +17,6 @@
 * [2025-10-01, 15:57:47](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025) - [Who's Hiring? Q4 2025](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025)
 * [2025-10-01, 15:40:23](https://lobste.rs/s/8nyk1p/stop_trusting_nix_caches) - [Stop Trusting Nix Caches](https://garnix.io/blog/stop-trusting-nix-caches)
 * [2025-10-01, 14:46:43](https://lobste.rs/s/85yaxi/as_gopher_i_m_excited_about_gleam_maybe_you) - [As a Gopher I'm excited about Gleam, maybe you'll be too](https://www.youtube.com/watch?v=ctiRV4rRYYc)
-* [2025-10-01, 14:32:17](https://lobste.rs/s/ih9wnq/gernot_s_list_systems_benchmarking) - [Gernot's List of Systems Benchmarking Crimes](https://gernot-heiser.org/benchmarking-crimes.html)
 * [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 * [2025-10-01, 13:53:03](https://lobste.rs/s/fygftm/f3_open_source_data_file_format_for_future) - [F3: The Open-Source Data File Format for the Future](https://db.cs.cmu.edu/papers/2025/zeng-sigmod2025.pdf)
 * [2025-10-01, 08:00:11](https://lobste.rs/s/ufpajh/category_theory_illustrated_natural) - [Category Theory Illustrated - Natural transformations](https://abuseofnotation.github.io/category-theory-illustrated/11_natural_transformations/)
