@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 03:02:00",
+      "https://lobste.rs/s/cvyvc1/domain_driven_design_clojure_with"
+    ],
+    [
+      "Domain Driven Design in Clojure with generalized Hiccup",
+      "https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 00:44:06",
       "https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate"
     ],
@@ -27,16 +37,6 @@
     [
       "Measuring Reorder Buffer Capacity",
       "https://blog.stuffedcow.net/2013/05/measuring-rob-capacity/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 21:48:16",
-      "https://lobste.rs/s/letrig/zluda_update_q3_2025_zluda_5_is_here"
-    ],
-    [
-      "ZLUDA update Q3 2025 – ZLUDA 5 is here",
-      "https://vosen.github.io/ZLUDA/blog/zluda-update-q3-2025/"
     ]
   ],
   [
