@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-10-02, 17:58:23",
+      "https://lobste.rs/s/tp8gzj/empirical_evaluation_property_based"
+    ],
+    [
+      "An Empirical Evaluation of Property-Based Testing in Python",
+      "https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 15:52:21",
       "https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4"
     ],
@@ -227,16 +237,6 @@
     [
       "Immich v2.0.0 - Stable Release",
       "https://github.com/immich-app/immich/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 17:37:05",
-      "https://lobste.rs/s/w8xado/is_tech_inevitable"
-    ],
-    [
-      "is tech inevitable",
-      "https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/"
     ]
   ],
   [
