@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-10-03, 07:20:44",
+      "https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify"
+    ],
+    [
+      "CI/CD components to generate and verify provenance attestation",
+      "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 04:12:10",
       "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
     ],
@@ -197,16 +207,6 @@
     [
       "Nine HTTP Edge Cases",
       "https://blog.dochia.dev/blog/http_edge_cases/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 15:52:21",
-      "https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4"
-    ],
-    [
-      "Installing NixOS on Raspberry Pi 4",
-      "https://mtlynch.io/nixos-pi4/"
     ]
   ],
   [
