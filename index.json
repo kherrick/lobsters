@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2025-10-02, 18:00:38",
-      "https://lobste.rs/s/oezfwk/datafusion_postgres_postgres_protocol"
+      "2025-10-02, 15:52:21",
+      "https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4"
     ],
     [
-      "datafusion-postgres: postgres protocol adapter for datafusion query engine",
-      "https://github.com/datafusion-contrib/datafusion-postgres"
+      "Installing NixOS on Raspberry Pi 4",
+      "https://mtlynch.io/nixos-pi4/"
     ]
   ],
   [
