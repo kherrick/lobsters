@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-10-03, 07:20:44",
+      "https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify"
+    ],
+    [
+      "CI/CD components to generate and verify provenance attestation",
+      "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 04:12:10",
       "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
     ],
@@ -237,16 +247,6 @@
     [
       "A Tutorial for the Sam Command Language",
       "https://ratfactor.com/papers/sam-language"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 21:57:04",
-      "https://lobste.rs/s/pxovor/immich_v2_0_0_stable_release"
-    ],
-    [
-      "Immich v2.0.0 - Stable Release",
-      "https://github.com/immich-app/immich/releases/tag/v2.0.0"
     ]
   ]
 ]
