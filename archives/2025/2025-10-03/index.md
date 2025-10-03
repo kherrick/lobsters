@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 14:43:12](https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix) - [Fundraising campaign to sustain GNU Guix](https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/)
 * [2025-10-03, 13:26:03](https://lobste.rs/s/gwa7wm/beginner_friendly_issues_across_all) - [Beginner-friendly issues across all repositories](https://tangled.org/goodfirstissues)
 * [2025-10-03, 13:00:22](https://lobste.rs/s/re3nzo/what_on_earth_does_pointer_provenance) - [What on Earth Does Pointer Provenance Have to do With RCU?](https://people.kernel.org/paulmck/what-on-earth-does-lifetime-end-pointer-zap-have-to-do-with-rcu)
 * [2025-10-03, 12:41:20](https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web) - [A threat model for accessibility on the web](https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/)
