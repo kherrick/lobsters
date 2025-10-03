@@ -6,7 +6,7 @@
 * [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 19:11:17](https://lobste.rs/s/bs0mza/procedural_generation_with_wave) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
 * [2025-10-03, 19:08:27](https://lobste.rs/s/mda15f/programming_assembly_without_operating) - [Programming in Assembly without an Operating System](https://www.youtube.com/watch?v=ZFHnbozz7b4)
-* [2025-10-03, 17:50:47](https://lobste.rs/s/bsf7e1/linus_torvalds_lashes_out_at_risc_v_big) - [Linus Torvalds Lashes Out At RISC-V Big Endian Plans - Phoronix](https://www.phoronix.com/news/Torvalds-No-RISC-V-BE)
+* [2025-10-03, 17:50:47](https://lobste.rs/s/bsf7e1/linus_torvalds_lashes_out_at_risc_v_big) - [Linus Torvalds Lashes Out At RISC-V Big Endian Plans](https://www.phoronix.com/news/Torvalds-No-RISC-V-BE)
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
 * [2025-10-03, 16:16:55](https://lobste.rs/s/d4batn/cancelling_async_rust) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:05:29](https://lobste.rs/s/nzukgn/atuin_desktop_runbooks_run) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
