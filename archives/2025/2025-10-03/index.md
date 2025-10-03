@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 16:16:55](https://lobste.rs/s/d4batn/cancelling_async_rust) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
+* [2025-10-03, 16:05:29](https://lobste.rs/s/nzukgn/atuin_desktop_runbooks_run) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
 * [2025-10-03, 15:48:47](https://lobste.rs/s/5dlmct/hey_siri_block_reddit) - [Hey Siri. Block Reddit](https://www.jasontokoph.com/hey-siri-block-reddit/)
 * [2025-10-03, 14:43:12](https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix) - [Fundraising campaign to sustain GNU Guix](https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/)
 * [2025-10-03, 13:26:03](https://lobste.rs/s/gwa7wm/beginner_friendly_issues_across_all) - [Beginner-friendly issues across all repositories](https://tangled.org/goodfirstissues)
