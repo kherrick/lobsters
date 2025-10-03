@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-03, 20:12:32](https://lobste.rs/s/bdvtbu/one_year_postgresql_hacking_workshops) - [One Year of PostgreSQL Hacking Workshops](http://rhaas.blogspot.com/2025/07/one-year-of-hacking-workshops.html)
+* [2025-10-03, 20:36:21](https://lobste.rs/s/pgr2i6/modernizing_gnome) - [Modernizing GNOME](https://www.youtube.com/watch?v=uCAlzx_x6rY)
+* [2025-10-03, 20:36:07](https://lobste.rs/s/vky3qn/fssimu2_fast_ssimulacra2) - [fssimu2: Fast SSIMULACRA2 implementation in Zig](https://github.com/gianni-rosato/fssimu2)
 * [2025-10-03, 19:49:36](https://lobste.rs/s/bqecne/pep_810_explicit_lazy_imports) - [PEP 810: Explicit lazy imports](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131)
 * [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 19:11:17](https://lobste.rs/s/bs0mza/procedural_generation_with_wave) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
@@ -23,7 +24,6 @@
 * [2025-10-02, 20:32:23](https://lobste.rs/s/yhp6ym/where_it_s_at) - [Where It's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 20:04:17](https://lobste.rs/s/2ib77w/litestream_v0_5_0_is_here) - [Litestream v0.5.0 is Here](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 18:52:08](https://lobste.rs/s/cpersg/wombat_s_book_nix) - [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
-* [2025-10-02, 18:12:01](https://lobste.rs/s/afajjh/nine_http_edge_cases) - [Nine HTTP Edge Cases](https://blog.dochia.dev/blog/http_edge_cases/)
 * [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 
 ## [Archives](archives/index.md)

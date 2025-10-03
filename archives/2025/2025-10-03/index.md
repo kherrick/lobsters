@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 20:36:21](https://lobste.rs/s/pgr2i6/modernizing_gnome) - [Modernizing GNOME](https://www.youtube.com/watch?v=uCAlzx_x6rY)
+* [2025-10-03, 20:36:07](https://lobste.rs/s/vky3qn/fssimu2_fast_ssimulacra2) - [fssimu2: Fast SSIMULACRA2 implementation in Zig](https://github.com/gianni-rosato/fssimu2)
 * [2025-10-03, 20:12:32](https://lobste.rs/s/bdvtbu/one_year_postgresql_hacking_workshops) - [One Year of PostgreSQL Hacking Workshops](http://rhaas.blogspot.com/2025/07/one-year-of-hacking-workshops.html)
 * [2025-10-03, 19:49:36](https://lobste.rs/s/bqecne/pep_810_explicit_lazy_imports) - [PEP 810: Explicit lazy imports](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131)
 * [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
