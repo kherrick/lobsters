@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 17:36:32",
+      "https://lobste.rs/s/aro0ic/jank_community_has_stepped_up"
+    ],
+    [
+      "The jank community has stepped up",
+      "https://jank-lang.org/blog/2025-10-03-community/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 16:16:55",
       "https://lobste.rs/s/d4batn/cancelling_async_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Asked to do something illegal at work? Here’s what these software engineers did",
       "https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 07:52:08",
-      "https://lobste.rs/s/v8lxdc/tutorial_for_sam_command_language"
-    ],
-    [
-      "A Tutorial for the Sam Command Language",
-      "https://ratfactor.com/papers/sam-language"
     ]
   ]
 ]
