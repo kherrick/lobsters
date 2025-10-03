@@ -6,6 +6,7 @@
 
 * [2025-10-02, 22:15:38](https://lobste.rs/s/gshtjl/measuring_reorder_buffer_capacity) - [Measuring Reorder Buffer Capacity](https://blog.stuffedcow.net/2013/05/measuring-rob-capacity/)
 * [2025-10-02, 21:48:16](https://lobste.rs/s/letrig/zluda_update_q3_2025_zluda_5_is_here) - [ZLUDA update Q3 2025 – ZLUDA 5 is here](https://vosen.github.io/ZLUDA/blog/zluda-update-q3-2025/)
+* [2025-10-02, 21:34:34](https://lobste.rs/s/0zzvie/c_26_std_optional_t) - [C++26: std::optional<T&>](https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference)
 * [2025-10-02, 21:15:41](https://lobste.rs/s/xcceiy/neural_network_written_completely_jq) - [A neural network written completely in jq (2017)](https://github.com/kevin-albert/jq-neural-network)
 * [2025-10-02, 20:55:45](https://lobste.rs/s/kl8oqp/public_record_questions_for_ruby_central) - [A public record of questions for Ruby Central](https://github.com/community-research-on-ruby-governance/questions-for-ruby-central)
 * [2025-10-02, 20:52:20](https://lobste.rs/s/qogioz/shelby_decentralized_hot_storage) - [Shelby: Decentralized hot storage protocol competitive with AWS S3 performance](https://arxiv.org/html/2506.19233v1)
