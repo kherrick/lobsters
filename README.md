@@ -2,10 +2,12 @@
 
 * [2025-10-03, 00:44:06](https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate) - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/)
 * [2025-10-03, 00:12:38](https://lobste.rs/s/3oyazz/signal_protocol_post_quantum_ratchets) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
+* [2025-10-02, 22:15:38](https://lobste.rs/s/gshtjl/measuring_reorder_buffer_capacity) - [Measuring Reorder Buffer Capacity](https://blog.stuffedcow.net/2013/05/measuring-rob-capacity/)
 * [2025-10-02, 21:48:16](https://lobste.rs/s/letrig/zluda_update_q3_2025_zluda_5_is_here) - [ZLUDA update Q3 2025 – ZLUDA 5 is here](https://vosen.github.io/ZLUDA/blog/zluda-update-q3-2025/)
 * [2025-10-02, 21:15:41](https://lobste.rs/s/xcceiy/neural_network_written_completely_jq) - [A neural network written completely in jq (2017)](https://github.com/kevin-albert/jq-neural-network)
 * [2025-10-02, 20:38:31](https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git) - [Whatever happened to SHA-256 support in Git? (2022)](https://lwn.net/Articles/898522/)
 * [2025-10-02, 20:32:23](https://lobste.rs/s/yhp6ym/where_it_s_at) - [Where It's at://](https://overreacted.io/where-its-at/)
+* [2025-10-02, 20:15:47](https://lobste.rs/s/lp2qpd/risk_rolls_downhill) - [Risk Rolls Downhill](https://corecursive.com/horizon-scandal-with-scott-darlington/)
 * [2025-10-02, 20:04:17](https://lobste.rs/s/2ib77w/litestream_v0_5_0_is_here) - [Litestream v0.5.0 is Here](https://fly.io/blog/litestream-v050-is-here/)
 * [2025-10-02, 18:52:08](https://lobste.rs/s/cpersg/wombat_s_book_nix) - [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
 * [2025-10-02, 18:50:20](https://lobste.rs/s/azb8k5/terminating_elegantly_guide_graceful) - [Terminating elegantly: a guide to graceful shutdowns](https://www.youtube.com/watch?v=t6zVcxT7Br4)
@@ -21,8 +23,6 @@
 * [2025-10-01, 23:34:33](https://lobste.rs/s/dopdda/jujutsu_v0_34_0_released) - [jujutsu v0.34.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.34.0)
 * [2025-10-01, 21:57:04](https://lobste.rs/s/pxovor/immich_v2_0_0_stable_release) - [Immich v2.0.0 - Stable Release](https://github.com/immich-app/immich/releases/tag/v2.0.0)
 * [2025-10-01, 17:37:05](https://lobste.rs/s/w8xado/is_tech_inevitable) - [is tech inevitable](https://deviantabstraction.com/2025/09/29/against-the-tech-inevitability/)
-* [2025-10-01, 15:57:47](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025) - [Who's Hiring? Q4 2025](https://lobste.rs/s/a3wcu0/who_s_hiring_q4_2025)
-* [2025-10-01, 15:40:23](https://lobste.rs/s/8nyk1p/stop_trusting_nix_caches) - [Stop Trusting Nix Caches](https://garnix.io/blog/stop-trusting-nix-caches)
 * [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 * [2025-09-30, 19:55:31](https://lobste.rs/s/lm3isi/glide_extensible_keyboard_focused_web) - [Glide, an extensible, keyboard-focused web browser](https://blog.craigie.dev/introducing-glide/)
 
