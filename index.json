@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 18:34:13",
+      "https://lobste.rs/s/iausq0/pointer_leaks_through_pointer_keyed_data"
+    ],
+    [
+      "Pointer leaks through pointer-keyed data structures",
+      "https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 17:50:47",
+      "https://lobste.rs/s/bsf7e1/linus_torvalds_lashes_out_at_risc_v_big"
+    ],
+    [
+      "Linus Torvalds Lashes Out At RISC-V Big Endian Plans - Phoronix",
+      "https://www.phoronix.com/news/Torvalds-No-RISC-V-BE"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 17:36:32",
       "https://lobste.rs/s/aro0ic/jank_community_has_stepped_up"
     ],
@@ -97,26 +117,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 07:20:44",
-      "https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify"
-    ],
-    [
-      "CI/CD components to generate and verify provenance attestation",
-      "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 04:12:10",
-      "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
-    ],
-    [
-      "How would you approach a browser automation project?",
-      "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
     ]
   ],
   [
