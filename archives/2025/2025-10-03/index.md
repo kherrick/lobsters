@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 21:20:18](https://lobste.rs/s/sbmgs7/alibaba_cloud_fpga_200_kintex_ultrascale) - [Alibaba cloud FPGA: the 200$ Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-03, 21:12:39](https://lobste.rs/s/wqrwdw/end_tt_rss_org) - [The end of tt-rss.org](https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164)
 * [2025-10-03, 20:36:21](https://lobste.rs/s/pgr2i6/modernizing_gnome) - [Modernizing GNOME](https://www.youtube.com/watch?v=uCAlzx_x6rY)
 * [2025-10-03, 20:36:07](https://lobste.rs/s/vky3qn/fssimu2_fast_ssimulacra2) - [fssimu2: Fast SSIMULACRA2 implementation in Zig](https://github.com/gianni-rosato/fssimu2)
