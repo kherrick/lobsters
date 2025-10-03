@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-03](index.md)
 
+* [2025-10-03, 18:34:13](https://lobste.rs/s/iausq0/pointer_leaks_through_pointer_keyed_data) - [Pointer leaks through pointer-keyed data structures](https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html)
+* [2025-10-03, 17:50:47](https://lobste.rs/s/bsf7e1/linus_torvalds_lashes_out_at_risc_v_big) - [Linus Torvalds Lashes Out At RISC-V Big Endian Plans - Phoronix](https://www.phoronix.com/news/Torvalds-No-RISC-V-BE)
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
 * [2025-10-03, 16:16:55](https://lobste.rs/s/d4batn/cancelling_async_rust) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:05:29](https://lobste.rs/s/nzukgn/atuin_desktop_runbooks_run) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)

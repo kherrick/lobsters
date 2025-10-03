@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-03, 18:34:13](https://lobste.rs/s/iausq0/pointer_leaks_through_pointer_keyed_data) - [Pointer leaks through pointer-keyed data structures](https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html)
+* [2025-10-03, 17:50:47](https://lobste.rs/s/bsf7e1/linus_torvalds_lashes_out_at_risc_v_big) - [Linus Torvalds Lashes Out At RISC-V Big Endian Plans - Phoronix](https://www.phoronix.com/news/Torvalds-No-RISC-V-BE)
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
 * [2025-10-03, 16:16:55](https://lobste.rs/s/d4batn/cancelling_async_rust) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:05:29](https://lobste.rs/s/nzukgn/atuin_desktop_runbooks_run) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
@@ -10,8 +12,6 @@
 * [2025-10-03, 12:38:47](https://lobste.rs/s/anuzef/cve_2025_59489_arbitrary_code_execution) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
 * [2025-10-03, 11:15:05](https://lobste.rs/s/cqdtto/we_bought_whole_gpu_so_we_re_damn_well_going) - [We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
 * [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
-* [2025-10-03, 07:20:44](https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify) - [CI/CD components to generate and verify provenance attestation](https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548)
-* [2025-10-03, 04:12:10](https://lobste.rs/s/rzdz98/how_would_you_approach_browser) - [How would you approach a browser automation project?](https://lobste.rs/s/rzdz98/how_would_you_approach_browser)
 * [2025-10-03, 03:02:00](https://lobste.rs/s/cvyvc1/domain_driven_design_clojure_with) - [Domain Driven Design in Clojure with generalized Hiccup](https://www.biotz.io/post/domain-driven-design-in-clojure-with-generalized-hiccup)
 * [2025-10-03, 00:44:06](https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate) - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/)
 * [2025-10-03, 00:12:38](https://lobste.rs/s/3oyazz/signal_protocol_post_quantum_ratchets) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
