@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 04:12:10",
+      "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
+    ],
+    [
+      "How would you approach a browser automation project?",
+      "https://lobste.rs/s/rzdz98/how_would_you_approach_browser"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 03:59:15",
+      "https://lobste.rs/s/dsk4xn/ghosts_unix_past_historical_search_for"
+    ],
+    [
+      "Ghosts of Unix Past: a historical search for design patterns (2010)",
+      "https://lwn.net/Articles/411845/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 03:02:00",
       "https://lobste.rs/s/cvyvc1/domain_driven_design_clojure_with"
     ],
@@ -97,16 +117,6 @@
     [
       "Wombat’s Book of Nix",
       "https://mhwombat.codeberg.page/nix-book/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 18:50:20",
-      "https://lobste.rs/s/azb8k5/terminating_elegantly_guide_graceful"
-    ],
-    [
-      "Terminating elegantly: a guide to graceful shutdowns",
-      "https://www.youtube.com/watch?v=t6zVcxT7Br4"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Nix Steering Committee vote of no confidence",
       "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html"
-    ]
-  ],
-  [
-    [
-      "2025-09-30, 19:55:31",
-      "https://lobste.rs/s/lm3isi/glide_extensible_keyboard_focused_web"
-    ],
-    [
-      "Glide, an extensible, keyboard-focused web browser",
-      "https://blog.craigie.dev/introducing-glide/"
     ]
   ]
 ]
