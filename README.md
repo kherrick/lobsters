@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 19:11:17](https://lobste.rs/s/bs0mza/procedural_generation_with_wave) - [Procedural Generation with Wave Function Collapse](https://www.gridbugs.org/wave-function-collapse/)
 * [2025-10-03, 19:08:27](https://lobste.rs/s/mda15f/programming_assembly_without_operating) - [Programming in Assembly without an Operating System](https://www.youtube.com/watch?v=ZFHnbozz7b4)
 * [2025-10-03, 18:34:13](https://lobste.rs/s/iausq0/pointer_leaks_through_pointer_keyed_data) - [Pointer leaks through pointer-keyed data structures](https://googleprojectzero.blogspot.com/2025/09/pointer-leaks-through-pointer-keyed.html)
@@ -17,7 +18,6 @@
 * [2025-10-03, 00:44:06](https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate) - [Dropping upstream Nix from Determinate Nix Installer](https://determinate.systems/blog/installer-dropping-upstream/)
 * [2025-10-03, 00:12:38](https://lobste.rs/s/3oyazz/signal_protocol_post_quantum_ratchets) - [Signal Protocol and Post-Quantum Ratchets](https://signal.org/blog/spqr/)
 * [2025-10-02, 21:34:34](https://lobste.rs/s/0zzvie/c_26_std_optional_t) - [C++26: std::optional<T&>](https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference)
-* [2025-10-02, 21:15:41](https://lobste.rs/s/xcceiy/neural_network_written_completely_jq) - [A neural network written completely in jq (2017)](https://github.com/kevin-albert/jq-neural-network)
 * [2025-10-02, 20:38:31](https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git) - [Whatever happened to SHA-256 support in Git? (2022)](https://lwn.net/Articles/898522/)
 * [2025-10-02, 20:32:23](https://lobste.rs/s/yhp6ym/where_it_s_at) - [Where It's at://](https://overreacted.io/where-its-at/)
 * [2025-10-02, 20:04:17](https://lobste.rs/s/2ib77w/litestream_v0_5_0_is_here) - [Litestream v0.5.0 is Here](https://fly.io/blog/litestream-v050-is-here/)
