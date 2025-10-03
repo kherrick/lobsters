@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 11:15:05",
+      "https://lobste.rs/s/cqdtto/we_bought_whole_gpu_so_we_re_damn_well_going"
+    ],
+    [
+      "We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU",
+      "https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 11:05:21",
+      "https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 07:20:44",
       "https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-10-02, 17:58:23",
-      "https://lobste.rs/s/tp8gzj/empirical_evaluation_property_based"
-    ],
-    [
-      "An Empirical Evaluation of Property-Based Testing in Python",
-      "https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 15:52:21",
       "https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4"
     ],
@@ -237,16 +247,6 @@
     [
       "Immich v2.0.0 - Stable Release",
       "https://github.com/immich-app/immich/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-10-01, 13:59:32",
-      "https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no"
-    ],
-    [
-      "Nix Steering Committee vote of no confidence",
-      "https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html"
     ]
   ]
 ]
