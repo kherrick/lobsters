@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 00:44:06",
+      "https://lobste.rs/s/be78ef/dropping_upstream_nix_from_determinate"
+    ],
+    [
+      "Dropping upstream Nix from Determinate Nix Installer",
+      "https://determinate.systems/blog/installer-dropping-upstream/"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 00:12:38",
+      "https://lobste.rs/s/3oyazz/signal_protocol_post_quantum_ratchets"
+    ],
+    [
+      "Signal Protocol and Post-Quantum Ratchets",
+      "https://signal.org/blog/spqr/"
+    ]
+  ],
+  [
+    [
       "2025-10-02, 21:48:16",
       "https://lobste.rs/s/letrig/zluda_update_q3_2025_zluda_5_is_here"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2025-10-02, 20:55:45",
-      "https://lobste.rs/s/kl8oqp/public_record_questions_for_ruby_central"
-    ],
-    [
-      "A public record of questions for Ruby Central",
-      "https://github.com/community-research-on-ruby-governance/questions-for-ruby-central"
-    ]
-  ],
-  [
-    [
       "2025-10-02, 20:38:31",
       "https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git"
     ],
@@ -47,16 +57,6 @@
     [
       "Where It's at://",
       "https://overreacted.io/where-its-at/"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 20:15:47",
-      "https://lobste.rs/s/lp2qpd/risk_rolls_downhill"
-    ],
-    [
-      "Risk Rolls Downhill",
-      "https://corecursive.com/horizon-scandal-with-scott-darlington/"
     ]
   ],
   [
