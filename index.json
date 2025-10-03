@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-03, 13:26:03",
+      "https://lobste.rs/s/gwa7wm/beginner_friendly_issues_across_all"
+    ],
+    [
+      "Beginner-friendly issues across all repositories",
+      "https://tangled.org/goodfirstissues"
+    ]
+  ],
+  [
+    [
+      "2025-10-03, 13:00:22",
+      "https://lobste.rs/s/re3nzo/what_on_earth_does_pointer_provenance"
+    ],
+    [
+      "What on Earth Does Pointer Provenance Have to do With RCU?",
+      "https://people.kernel.org/paulmck/what-on-earth-does-lifetime-end-pointer-zap-have-to-do-with-rcu"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 12:41:20",
       "https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web"
     ],
@@ -47,16 +67,6 @@
     [
       "CI/CD components to generate and verify provenance attestation",
       "https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 04:22:15",
-      "https://lobste.rs/s/0gwfaa/new_control_structures_apl_1982"
-    ],
-    [
-      "New Control Structures In APL? (1982)",
-      "https://dl.acm.org/doi/10.1145/586713.586717"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "A Tutorial for the Sam Command Language",
       "https://ratfactor.com/papers/sam-language"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 00:37:54",
-      "https://lobste.rs/s/m2ovuo/biggest_semantic_mess_futhark"
-    ],
-    [
-      "The biggest semantic mess in Futhark",
-      "https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html"
     ]
   ],
   [
