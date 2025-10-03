@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-03, 15:48:47](https://lobste.rs/s/5dlmct/hey_siri_block_reddit) - [Hey Siri. Block Reddit](https://www.jasontokoph.com/hey-siri-block-reddit/)
 * [2025-10-03, 14:43:12](https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix) - [Fundraising campaign to sustain GNU Guix](https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/)
 * [2025-10-03, 13:26:03](https://lobste.rs/s/gwa7wm/beginner_friendly_issues_across_all) - [Beginner-friendly issues across all repositories](https://tangled.org/goodfirstissues)
 * [2025-10-03, 13:00:22](https://lobste.rs/s/re3nzo/what_on_earth_does_pointer_provenance) - [What on Earth Does Pointer Provenance Have to do With RCU?](https://people.kernel.org/paulmck/what-on-earth-does-lifetime-end-pointer-zap-have-to-do-with-rcu)
 * [2025-10-03, 12:41:20](https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web) - [A threat model for accessibility on the web](https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/)
-* [2025-10-03, 12:38:47](https://lobste.rs/s/anuzef/cve_2025_59489_arbitrary_code_execution) - [CVE-2025-59489: Arbitrary Code Execution in Unity Runtime](https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/)
 * [2025-10-03, 11:15:05](https://lobste.rs/s/cqdtto/we_bought_whole_gpu_so_we_re_damn_well_going) - [We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
 * [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
 * [2025-10-03, 07:20:44](https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify) - [CI/CD components to generate and verify provenance attestation](https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548)
