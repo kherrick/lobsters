@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-03, 11:15:05](https://lobste.rs/s/cqdtto/we_bought_whole_gpu_so_we_re_damn_well_going) - [We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
+* [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
 * [2025-10-03, 07:20:44](https://lobste.rs/s/gen7vw/ci_cd_components_generate_verify) - [CI/CD components to generate and verify provenance attestation](https://gitlab.com/groups/gitlab-org/-/epics/15859#note_2540189548)
 * [2025-10-03, 04:22:15](https://lobste.rs/s/0gwfaa/new_control_structures_apl_1982) - [New Control Structures In APL? (1982)](https://dl.acm.org/doi/10.1145/586713.586717)
 * [2025-10-03, 04:12:10](https://lobste.rs/s/rzdz98/how_would_you_approach_browser) - [How would you approach a browser automation project?](https://lobste.rs/s/rzdz98/how_would_you_approach_browser)
@@ -16,7 +18,6 @@
 * [2025-10-02, 18:52:08](https://lobste.rs/s/cpersg/wombat_s_book_nix) - [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book/)
 * [2025-10-02, 18:12:01](https://lobste.rs/s/afajjh/nine_http_edge_cases) - [Nine HTTP Edge Cases](https://blog.dochia.dev/blog/http_edge_cases/)
 * [2025-10-02, 18:00:38](https://lobste.rs/s/oezfwk/datafusion_postgres_postgres_protocol) - [datafusion-postgres: postgres protocol adapter for datafusion query engine](https://github.com/datafusion-contrib/datafusion-postgres)
-* [2025-10-02, 17:58:23](https://lobste.rs/s/tp8gzj/empirical_evaluation_property_based) - [An Empirical Evaluation of Property-Based Testing in Python](https://cseweb.ucsd.edu/~mcoblenz/assets/pdf/OOPSLA_2025_PBT.pdf)
 * [2025-10-02, 15:52:21](https://lobste.rs/s/bzx3ue/installing_nixos_on_raspberry_pi_4) - [Installing NixOS on Raspberry Pi 4](https://mtlynch.io/nixos-pi4/)
 * [2025-10-02, 15:33:18](https://lobste.rs/s/p79vuw/i_turned_lego_game_boy_into_working_game) - [I turned the Lego Game Boy into a working Game Boy](https://blog.nataliethenerd.com/i-turned-the-lego-game-boy-into-a-working-game-boy-part-1/)
 * [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
@@ -24,7 +25,6 @@
 * [2025-10-02, 00:37:54](https://lobste.rs/s/m2ovuo/biggest_semantic_mess_futhark) - [The biggest semantic mess in Futhark](https://futhark-lang.org/blog/2025-09-26-the-biggest-semantic-mess.html)
 * [2025-10-01, 23:34:33](https://lobste.rs/s/dopdda/jujutsu_v0_34_0_released) - [jujutsu v0.34.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.34.0)
 * [2025-10-01, 21:57:04](https://lobste.rs/s/pxovor/immich_v2_0_0_stable_release) - [Immich v2.0.0 - Stable Release](https://github.com/immich-app/immich/releases/tag/v2.0.0)
-* [2025-10-01, 13:59:32](https://lobste.rs/s/jai4yu/nix_steering_committee_vote_no) - [Nix Steering Committee vote of no confidence](https://www.haskellforall.com/2025/10/nix-steering-committee-vote-of-no.html)
 
 ## [Archives](archives/index.md)
 
