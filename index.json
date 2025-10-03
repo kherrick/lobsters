@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-03, 21:20:18",
+      "https://lobste.rs/s/sbmgs7/alibaba_cloud_fpga_200_kintex_ultrascale"
+    ],
+    [
+      "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
+      "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 21:12:39",
       "https://lobste.rs/s/wqrwdw/end_tt_rss_org"
     ],
@@ -197,16 +207,6 @@
     [
       "C++26: std::optional<T&>",
       "https://www.sandordargo.com/blog/2025/10/01/cpp26-optional-of-reference"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 20:38:31",
-      "https://lobste.rs/s/ulyau9/whatever_happened_sha_256_support_git"
-    ],
-    [
-      "Whatever happened to SHA-256 support in Git? (2022)",
-      "https://lwn.net/Articles/898522/"
     ]
   ],
   [
