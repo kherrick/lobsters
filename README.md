@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-04, 17:09:32](https://lobste.rs/s/crua9h/pivot_hell_letting_go_why_i_stopped) - [Pivot hell and letting go: Why i stopped building my first app and moved on](https://saifbuild.substack.com/p/pivot-hell-and-letting-go)
 * [2025-10-04, 16:43:31](https://lobste.rs/s/bokqwe/breaking_provably_correct_leftpad) - [Breaking “provably correct” Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
 * [2025-10-04, 16:12:54](https://lobste.rs/s/vpjhmi/apertus_fully_open_transparent) - [Apertus: a fully open, transparent, multilingual language model](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html)
 * [2025-10-04, 16:10:43](https://lobste.rs/s/lbbxh6/lolremez_polynomial_approximations) - [lolremez: Polynomial Approximations using the Remez Algorithm](https://github.com/samhocevar/lolremez)
@@ -14,6 +13,7 @@
 * [2025-10-04, 01:53:48](https://lobste.rs/s/5u9gm7/don_t_parse_call) - [Don't Parse, Call](https://timkellogg.me/blog/2025/10/03/functions)
 * [2025-10-04, 00:47:00](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future) - [How We're Redesigning Audacity For The Future](https://youtu.be/QYM3TWf_G38)
 * [2025-10-03, 22:46:44](https://lobste.rs/s/d9varu/zig_builds_are_getting_faster) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
+* [2025-10-03, 21:20:18](https://lobste.rs/s/sbmgs7/alibaba_cloud_fpga_200_kintex_ultrascale) - [Alibaba cloud FPGA: the 200$ Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
 * [2025-10-03, 21:12:39](https://lobste.rs/s/wqrwdw/end_tt_rss_org) - [The end of tt-rss.org](https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164)
 * [2025-10-03, 20:36:21](https://lobste.rs/s/pgr2i6/modernizing_gnome) - [Modernizing GNOME](https://www.youtube.com/watch?v=uCAlzx_x6rY)
 * [2025-10-03, 20:36:07](https://lobste.rs/s/vky3qn/fssimu2_fast_ssimulacra2) - [fssimu2: Fast SSIMULACRA2 implementation in Zig](https://github.com/gianni-rosato/fssimu2)
