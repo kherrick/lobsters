@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-10-03, 21:16:12",
+      "https://lobste.rs/s/reut86/zluda_cuda_on_non_nvidia_gpus"
+    ],
+    [
+      "ZLUDA: CUDA on non-NVIDIA GPUs",
+      "https://github.com/vosen/ZLUDA"
+    ]
+  ],
+  [
+    [
       "2025-10-03, 21:12:39",
       "https://lobste.rs/s/wqrwdw/end_tt_rss_org"
     ],
@@ -207,16 +217,6 @@
     [
       "A threat model for accessibility on the web",
       "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 12:38:47",
-      "https://lobste.rs/s/anuzef/cve_2025_59489_arbitrary_code_execution"
-    ],
-    [
-      "CVE-2025-59489: Arbitrary Code Execution in Unity Runtime",
-      "https://flatt.tech/research/posts/arbitrary-code-execution-in-unity-runtime/"
     ]
   ],
   [
