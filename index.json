@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-04, 15:40:05",
+      "https://lobste.rs/s/39qa6r/stone_tools_exploring_retro"
+    ],
+    [
+      "Stone Tools: Exploring retro productivity software from the 8/16-bit era",
+      "https://stonetools.ghost.io/"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 15:30:56",
       "https://lobste.rs/s/koy025/delimited_continuations_lone_lisp"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2025-10-04, 03:55:32",
+      "https://lobste.rs/s/vqm0yu/getting_better_at_software_engineering"
+    ],
+    [
+      "Getting better at software engineering",
+      "https://madhadron.com/getting_better_at_programming.html"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 01:53:48",
       "https://lobste.rs/s/5u9gm7/don_t_parse_call"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-10-03, 21:20:18",
-      "https://lobste.rs/s/sbmgs7/alibaba_cloud_fpga_200_kintex_ultrascale"
-    ],
-    [
-      "Alibaba cloud FPGA: the 200$ Kintex UltraScale+",
-      "https://essenceia.github.io/projects/alibaba_cloud_fpga/"
-    ]
-  ],
-  [
-    [
       "2025-10-03, 21:12:39",
       "https://lobste.rs/s/wqrwdw/end_tt_rss_org"
     ],
@@ -167,16 +177,6 @@
     [
       "WireGuard topologies for self-hosting at home",
       "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 19:11:17",
-      "https://lobste.rs/s/bs0mza/procedural_generation_with_wave"
-    ],
-    [
-      "Procedural Generation with Wave Function Collapse",
-      "https://www.gridbugs.org/wave-function-collapse/"
     ]
   ],
   [
