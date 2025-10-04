@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-04, 14:23:01",
+      "https://lobste.rs/s/sqe654/game_development_history_industry"
+    ],
+    [
+      "Game Development: History, Industry, and Engine Design",
+      "https://spiiin.github.io/blog/490626496/"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 12:38:07",
       "https://lobste.rs/s/by9vog/oswald_object_storage_write_ahead_log"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2025-10-04, 02:59:13",
-      "https://lobste.rs/s/rnekre/optique_0_6_0_shell_completion_support_for"
+      "2025-10-04, 03:55:32",
+      "https://lobste.rs/s/vqm0yu/getting_better_at_software_engineering"
     ],
     [
-      "Optique 0.6.0: Shell completion support for type-safe CLI parsers",
-      "https://hackers.pub/@hongminhee/2025/optique-060"
+      "Getting better at software engineering",
+      "https://madhadron.com/getting_better_at_programming.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-10-02, 20:32:23",
-      "https://lobste.rs/s/yhp6ym/where_it_s_at"
-    ],
-    [
-      "Where It's at://",
-      "https://overreacted.io/where-its-at/"
     ]
   ]
 ]
