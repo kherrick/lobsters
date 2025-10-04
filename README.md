@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-04, 22:39:59](https://lobste.rs/s/tpckdo/my_djangocon_us_2025) - [My DjangoCon US 2025](https://www.paulox.net/2025/10/05/my-djangocon-us-2025/)
 * [2025-10-04, 19:48:15](https://lobste.rs/s/kmtpqb/cuckoo_hashing_improves_simd_hash_tables) - [Cuckoo hashing improves SIMD hash tables](https://reiner.org/cuckoo-hashing)
 * [2025-10-04, 19:14:36](https://lobste.rs/s/rlencm/self_hosting_email_like_it_s_1984) - [Self-Hosting Email Like It’s 1984](https://maxadamski.com/blog/2025/10/email.html)
 * [2025-10-04, 18:41:04](https://lobste.rs/s/rhl369/retiring_test_ipv6_com) - [Retiring test-ipv6.com](https://retire.test-ipv6.com/)
@@ -23,7 +24,6 @@
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
 * [2025-10-03, 16:16:55](https://lobste.rs/s/d4batn/cancelling_async_rust) - [Cancelling async Rust](https://sunshowers.io/posts/cancelling-async-rust/)
 * [2025-10-03, 16:05:29](https://lobste.rs/s/nzukgn/atuin_desktop_runbooks_run) - [Atuin desktop: Runbooks that run](https://github.com/atuinsh/desktop)
-* [2025-10-03, 15:48:47](https://lobste.rs/s/5dlmct/hey_siri_block_reddit) - [Hey Siri. Block Reddit](https://www.jasontokoph.com/hey-siri-block-reddit/)
 * [2025-10-03, 14:43:12](https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix) - [Fundraising campaign to sustain GNU Guix](https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/)
 
 ## [Archives](archives/index.md)
