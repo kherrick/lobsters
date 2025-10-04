@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-04, 12:15:49](https://lobste.rs/s/f9vq85/thunderscan_clever_device_transforms) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 10:36:55](https://lobste.rs/s/dvtmwq/paged_out_issue_7) - [Paged Out! Issue #7](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-04, 06:23:52](https://lobste.rs/s/dvke0c/you_can_t_parse_xml_with_regex_let_s_do_it) - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 * [2025-10-04, 02:59:13](https://lobste.rs/s/rnekre/optique_0_6_0_shell_completion_support_for) - [Optique 0.6.0: Shell completion support for type-safe CLI parsers](https://hackers.pub/@hongminhee/2025/optique-060)
@@ -24,7 +25,6 @@
 * [2025-10-03, 12:41:20](https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web) - [A threat model for accessibility on the web](https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/)
 * [2025-10-03, 11:05:21](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzvlgy/what_are_you_doing_this_weekend)
 * [2025-10-02, 20:32:23](https://lobste.rs/s/yhp6ym/where_it_s_at) - [Where It's at://](https://overreacted.io/where-its-at/)
-* [2025-10-02, 09:53:13](https://lobste.rs/s/8hw5n6/asked_do_something_illegal_at_work_here_s) - [Asked to do something illegal at work? Here’s what these software engineers did](https://blog.pragmaticengineer.com/asked-to-do-something-illegal-at-work/)
 
 ## [Archives](archives/index.md)
 

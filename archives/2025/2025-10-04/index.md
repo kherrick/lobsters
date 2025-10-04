@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 12:15:49](https://lobste.rs/s/f9vq85/thunderscan_clever_device_transforms) - [Thunderscan: A clever device transforms a printer into a scanner](https://www.folklore.org/Thunderscan.html)
 * [2025-10-04, 10:36:55](https://lobste.rs/s/dvtmwq/paged_out_issue_7) - [Paged Out! Issue #7](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-04, 06:23:52](https://lobste.rs/s/dvke0c/you_can_t_parse_xml_with_regex_let_s_do_it) - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 * [2025-10-04, 02:59:13](https://lobste.rs/s/rnekre/optique_0_6_0_shell_completion_support_for) - [Optique 0.6.0: Shell completion support for type-safe CLI parsers](https://hackers.pub/@hongminhee/2025/optique-060)
