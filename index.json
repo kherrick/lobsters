@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-04, 12:38:07",
+      "https://lobste.rs/s/by9vog/oswald_object_storage_write_ahead_log"
+    ],
+    [
+      "OSWALD - Object Storage Write-Ahead Log Device",
+      "https://nvartolomei.com/oswald/"
+    ]
+  ],
+  [
+    [
       "2025-10-04, 12:15:49",
       "https://lobste.rs/s/f9vq85/thunderscan_clever_device_transforms"
     ],
@@ -217,16 +227,6 @@
     [
       "Fundraising campaign to sustain GNU Guix",
       "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 12:41:20",
-      "https://lobste.rs/s/ggwihc/threat_model_for_accessibility_on_web"
-    ],
-    [
-      "A threat model for accessibility on the web",
-      "https://alice.boxhall.au/articles/a-threat-model-for-accessibility-on-the-web/"
     ]
   ],
   [
