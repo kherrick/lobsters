@@ -2,6 +2,7 @@
 
 * [2025-10-04, 19:20:18](https://lobste.rs/s/bmhvok/native_ios_swiftui_client_for_actual) - [Native iOS SwiftUI client for Actual Budget](https://github.com/BearTS/actual-budget-app)
 * [2025-10-04, 19:14:36](https://lobste.rs/s/rlencm/self_hosting_email_like_it_s_1984) - [Self-Hosting Email Like It’s 1984](https://maxadamski.com/blog/2025/10/email.html)
+* [2025-10-04, 18:41:04](https://lobste.rs/s/rhl369/retiring_test_ipv6_com) - [Retiring test-ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-04, 18:23:12](https://lobste.rs/s/6fhm1u/mac_like_experience_on_linux) - [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
 * [2025-10-04, 16:43:31](https://lobste.rs/s/bokqwe/breaking_provably_correct_leftpad) - [Breaking “provably correct” Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
 * [2025-10-04, 16:12:54](https://lobste.rs/s/vpjhmi/apertus_fully_open_transparent) - [Apertus: a fully open, transparent, multilingual language model](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html)
@@ -17,7 +18,6 @@
 * [2025-10-04, 00:47:00](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future) - [How We're Redesigning Audacity For The Future](https://youtu.be/QYM3TWf_G38)
 * [2025-10-03, 22:46:44](https://lobste.rs/s/d9varu/zig_builds_are_getting_faster) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 21:12:39](https://lobste.rs/s/wqrwdw/end_tt_rss_org) - [The end of tt-rss.org](https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164)
-* [2025-10-03, 20:36:21](https://lobste.rs/s/pgr2i6/modernizing_gnome) - [Modernizing GNOME](https://www.youtube.com/watch?v=uCAlzx_x6rY)
 * [2025-10-03, 19:49:36](https://lobste.rs/s/bqecne/pep_810_explicit_lazy_imports) - [PEP 810: Explicit lazy imports](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131)
 * [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
