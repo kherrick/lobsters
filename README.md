@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-04, 10:36:55](https://lobste.rs/s/dvtmwq/paged_out_issue_7) - [Paged Out! Issue #7](https://pagedout.institute/download/PagedOut_007.pdf)
 * [2025-10-04, 06:23:52](https://lobste.rs/s/dvke0c/you_can_t_parse_xml_with_regex_let_s_do_it) - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 * [2025-10-04, 02:59:13](https://lobste.rs/s/rnekre/optique_0_6_0_shell_completion_support_for) - [Optique 0.6.0: Shell completion support for type-safe CLI parsers](https://hackers.pub/@hongminhee/2025/optique-060)
 * [2025-10-04, 01:53:48](https://lobste.rs/s/5u9gm7/don_t_parse_call) - [Don't Parse, Call](https://timkellogg.me/blog/2025/10/03/functions)
@@ -8,7 +9,6 @@
 * [2025-10-03, 22:46:44](https://lobste.rs/s/d9varu/zig_builds_are_getting_faster) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
 * [2025-10-03, 22:28:59](https://lobste.rs/s/efuao3/pep_810_explicit_lazy_imports_peps_python) - [PEP 810 – Explicit lazy imports | peps.python.org](https://peps.python.org/pep-0810/)
 * [2025-10-03, 21:20:18](https://lobste.rs/s/sbmgs7/alibaba_cloud_fpga_200_kintex_ultrascale) - [Alibaba cloud FPGA: the 200$ Kintex UltraScale+](https://essenceia.github.io/projects/alibaba_cloud_fpga/)
-* [2025-10-03, 21:16:12](https://lobste.rs/s/reut86/zluda_cuda_on_non_nvidia_gpus) - [ZLUDA: CUDA on non-NVIDIA GPUs](https://github.com/vosen/ZLUDA)
 * [2025-10-03, 21:12:39](https://lobste.rs/s/wqrwdw/end_tt_rss_org) - [The end of tt-rss.org](https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164)
 * [2025-10-03, 20:36:21](https://lobste.rs/s/pgr2i6/modernizing_gnome) - [Modernizing GNOME](https://www.youtube.com/watch?v=uCAlzx_x6rY)
 * [2025-10-03, 20:36:07](https://lobste.rs/s/vky3qn/fssimu2_fast_ssimulacra2) - [fssimu2: Fast SSIMULACRA2 implementation in Zig](https://github.com/gianni-rosato/fssimu2)
