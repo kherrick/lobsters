@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 15:40:05](https://lobste.rs/s/39qa6r/stone_tools_exploring_retro) - [Stone Tools: Exploring retro productivity software from the 8/16-bit era](https://stonetools.ghost.io/)
 * [2025-10-04, 15:30:56](https://lobste.rs/s/koy025/delimited_continuations_lone_lisp) - [Delimited continuations in lone lisp](https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp)
 * [2025-10-04, 14:23:01](https://lobste.rs/s/sqe654/game_development_history_industry) - [Game Development: History, Industry, and Engine Design](https://spiiin.github.io/blog/490626496/)
 * [2025-10-04, 12:38:07](https://lobste.rs/s/by9vog/oswald_object_storage_write_ahead_log) - [OSWALD - Object Storage Write-Ahead Log Device](https://nvartolomei.com/oswald/)
