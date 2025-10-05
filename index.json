@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 22:44:11",
+      "https://lobste.rs/s/jx047q/premature_generalization"
+    ],
+    [
+      "Premature Generalization",
+      "https://youtu.be/P5lNzRA8rYI"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 21:06:29",
       "https://lobste.rs/s/3p1uht/cargo_subspace_make_rust_analyzer_work"
     ],
@@ -197,16 +207,6 @@
     [
       "Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga",
       "https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 19:48:15",
-      "https://lobste.rs/s/kmtpqb/cuckoo_hashing_improves_simd_hash_tables"
-    ],
-    [
-      "Cuckoo hashing improves SIMD hash tables",
-      "https://reiner.org/cuckoo-hashing"
     ]
   ],
   [
