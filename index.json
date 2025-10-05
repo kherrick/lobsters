@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 07:34:31",
+      "https://lobste.rs/s/znpmup/file_format_gallery_for_kaitai_struct"
+    ],
+    [
+      "File Format Gallery for Kaitai Struct",
+      "https://formats.kaitai.io/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 06:07:41",
       "https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers"
     ],
@@ -197,16 +207,6 @@
     [
       "Zig Builds Are Getting Faster",
       "https://mitchellh.com/writing/zig-builds-getting-faster"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 19:49:36",
-      "https://lobste.rs/s/bqecne/pep_810_explicit_lazy_imports"
-    ],
-    [
-      "PEP 810: Explicit lazy imports",
-      "https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131"
     ]
   ],
   [
