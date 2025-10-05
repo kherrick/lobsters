@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 02:37:34",
+      "https://lobste.rs/s/weihvm/threads_without_locks_2007"
+    ],
+    [
+      "Threads without Locks (2007)",
+      "https://swtch.com/~rsc/talks/threads07/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 02:22:01",
       "https://lobste.rs/s/yefbpm/mesh_spreadsheet_data_code_editor"
     ],
@@ -97,16 +107,6 @@
     [
       "Apertus: a fully open, transparent, multilingual language model",
       "https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 16:10:43",
-      "https://lobste.rs/s/lbbxh6/lolremez_polynomial_approximations"
-    ],
-    [
-      "lolremez: Polynomial Approximations using the Remez Algorithm",
-      "https://github.com/samhocevar/lolremez"
     ]
   ],
   [
