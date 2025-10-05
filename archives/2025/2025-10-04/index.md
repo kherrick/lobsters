@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-04](index.md)
 
+* [2025-10-04, 23:18:33](https://lobste.rs/s/bkmwe4/achieving_period_correct_graphics) - [Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga](https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/)
 * [2025-10-04, 22:39:59](https://lobste.rs/s/tpckdo/my_djangocon_us_2025) - [My DjangoCon US 2025](https://www.paulox.net/2025/10/05/my-djangocon-us-2025/)
 * [2025-10-04, 19:48:15](https://lobste.rs/s/kmtpqb/cuckoo_hashing_improves_simd_hash_tables) - [Cuckoo hashing improves SIMD hash tables](https://reiner.org/cuckoo-hashing)
 * [2025-10-04, 19:20:18](https://lobste.rs/s/bmhvok/native_ios_swiftui_client_for_actual) - [Native iOS SwiftUI client for Actual Budget](https://github.com/BearTS/actual-budget-app)
