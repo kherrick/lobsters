@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 17:57:23](https://lobste.rs/s/q6c4ur/valuetier_org_some_thoughts_on_llms) - [valuetier.org (and some thoughts on LLMs)](https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/)
 * [2025-10-05, 17:23:26](https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child_simon) - [How to Discover the Binary System as a Child - Simon Peyton-Jones](https://www.youtube.com/watch?v=lg0RYLlmjJM)
 * [2025-10-05, 17:23:26](https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child) - [How to Discover the Binary System as a Child](https://www.youtube.com/watch?v=lg0RYLlmjJM)
 * [2025-10-05, 17:11:48](https://lobste.rs/s/dwz05l/temporal_dead_zone_why_typescript) - [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](https://vincentrolfs.dev/blog/ts-var)
