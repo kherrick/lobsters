@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 19:25:19](https://lobste.rs/s/y3yauw/how_why_easyos_is_different) - [How and why EasyOS is different](https://easyos.org/about/how-and-why-easyos-is-different.html)
 * [2025-10-05, 17:57:23](https://lobste.rs/s/q6c4ur/valuetier_org_some_thoughts_on_llms) - [valuetier.org (and some thoughts on LLMs)](https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/)
 * [2025-10-05, 17:23:26](https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child_simon) - [How to Discover the Binary System as a Child - Simon Peyton-Jones](https://www.youtube.com/watch?v=lg0RYLlmjJM)
 * [2025-10-05, 17:23:26](https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child) - [How to Discover the Binary System as a Child](https://www.youtube.com/watch?v=lg0RYLlmjJM)
