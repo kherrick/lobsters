@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-05, 22:44:11](https://lobste.rs/s/jx047q/premature_generalization) - [Premature Generalization](https://youtu.be/P5lNzRA8rYI)
 * [2025-10-05, 21:06:29](https://lobste.rs/s/3p1uht/cargo_subspace_make_rust_analyzer_work) - [cargo-subspace: Make rust-analyzer work better with very large cargo workspaces](https://github.com/ethowitz/cargo-subspace)
 * [2025-10-05, 21:01:27](https://lobste.rs/s/unhv2p/packing_world_for_longest_lines_sight) - [Packing The World For Longest Lines Of Sight](https://tombh.co.uk/packing-world-lines-of-sight)
 * [2025-10-05, 19:25:19](https://lobste.rs/s/y3yauw/how_why_easyos_is_different) - [How and why EasyOS is different](https://easyos.org/about/how-and-why-easyos-is-different.html)
@@ -20,7 +21,6 @@
 * [2025-10-05, 06:07:41](https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 * [2025-10-05, 01:33:01](https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
 * [2025-10-04, 23:18:33](https://lobste.rs/s/bkmwe4/achieving_period_correct_graphics) - [Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga](https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/)
-* [2025-10-04, 19:48:15](https://lobste.rs/s/kmtpqb/cuckoo_hashing_improves_simd_hash_tables) - [Cuckoo hashing improves SIMD hash tables](https://reiner.org/cuckoo-hashing)
 * [2025-10-04, 19:14:36](https://lobste.rs/s/rlencm/self_hosting_email_like_it_s_1984) - [Self-Hosting Email Like It’s 1984](https://maxadamski.com/blog/2025/10/email.html)
 * [2025-10-04, 18:41:04](https://lobste.rs/s/rhl369/retiring_test_ipv6_com) - [Retiring test-ipv6.com](https://retire.test-ipv6.com/)
 * [2025-10-04, 18:23:12](https://lobste.rs/s/6fhm1u/mac_like_experience_on_linux) - [A Mac-like experience on Linux](https://pointieststick.com/2025/10/04/a-mac-like-experience-on-linux/)
