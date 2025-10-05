@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 12:31:26](https://lobste.rs/s/azrzic/86_gb_s_bitpacking_with_arm_simd_single) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 * [2025-10-05, 11:26:36](https://lobste.rs/s/owxdcr/attack_paths_for_exfiltrating_data_using) - [Attack paths for exfiltrating data using 1Password CLI](https://codeberg.org/manchicken/1password-cli-vuln-disclosure)
 * [2025-10-05, 10:21:37](https://lobste.rs/s/rgxngu/wherever_you_get_your_podcasts) - [Wherever you get your Podcasts](https://knotbin.leaflet.pub/3lx3uqveyj22f)
 * [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)

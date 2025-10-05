@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-05, 12:31:26](https://lobste.rs/s/azrzic/86_gb_s_bitpacking_with_arm_simd_single) - [86 GB/s bitpacking with ARM SIMD (single thread)](https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack)
 * [2025-10-05, 11:26:36](https://lobste.rs/s/owxdcr/attack_paths_for_exfiltrating_data_using) - [Attack paths for exfiltrating data using 1Password CLI](https://codeberg.org/manchicken/1password-cli-vuln-disclosure)
 * [2025-10-05, 10:21:37](https://lobste.rs/s/rgxngu/wherever_you_get_your_podcasts) - [Wherever you get your Podcasts](https://knotbin.leaflet.pub/3lx3uqveyj22f)
 * [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
@@ -8,7 +9,6 @@
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-10-05, 07:34:31](https://lobste.rs/s/znpmup/file_format_gallery_for_kaitai_struct) - [File Format Gallery for Kaitai Struct](https://formats.kaitai.io/)
 * [2025-10-05, 06:07:41](https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
-* [2025-10-05, 02:37:34](https://lobste.rs/s/weihvm/threads_without_locks_2007) - [Threads without Locks (2007)](https://swtch.com/~rsc/talks/threads07/)
 * [2025-10-05, 02:22:01](https://lobste.rs/s/yefbpm/mesh_spreadsheet_data_code_editor) - [mesh-spreadsheet: data & code editor](https://github.com/chrispsn/mesh-spreadsheet)
 * [2025-10-05, 01:33:01](https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
 * [2025-10-04, 23:18:33](https://lobste.rs/s/bkmwe4/achieving_period_correct_graphics) - [Achieving period-correct graphics in personal computer emulators - Part 1: The Amiga](https://blog.johnnovak.net/2022/04/15/achieving-period-correct-graphics-in-personal-computer-emulators-part-1-the-amiga/)
