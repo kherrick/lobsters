@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 13:33:16](https://lobste.rs/s/tu789k/personal_data_storage_is_idea_whose_time) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 * [2025-10-05, 13:10:53](https://lobste.rs/s/szoe3m/conventional_commits_considered) - [Conventional Commits considered harmful](https://larr.net/p/cc.html)
 * [2025-10-05, 13:07:31](https://lobste.rs/s/nsl5gr/case_for_learned_index_structures) - [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909)
 * [2025-10-05, 12:54:51](https://lobste.rs/s/atveg7/racketcon_day_2_livestream) - [RacketCon - Day 2 - Livestream](https://con.racket-lang.org/)
