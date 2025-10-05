@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-05, 13:10:53",
+      "https://lobste.rs/s/szoe3m/conventional_commits_considered"
+    ],
+    [
+      "Conventional Commits considered harmful",
+      "https://larr.net/p/cc.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 13:07:31",
+      "https://lobste.rs/s/nsl5gr/case_for_learned_index_structures"
+    ],
+    [
+      "The Case for Learned Index Structures",
+      "https://dl.acm.org/doi/10.1145/3183713.3196909"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 12:54:51",
       "https://lobste.rs/s/atveg7/racketcon_day_2_livestream"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-10-04, 22:39:59",
-      "https://lobste.rs/s/tpckdo/my_djangocon_us_2025"
-    ],
-    [
-      "My DjangoCon US 2025",
-      "https://www.paulox.net/2025/10/05/my-djangocon-us-2025/"
-    ]
-  ],
-  [
-    [
       "2025-10-04, 19:48:15",
       "https://lobste.rs/s/kmtpqb/cuckoo_hashing_improves_simd_hash_tables"
     ],
@@ -187,16 +197,6 @@
     [
       "Breaking “provably correct” Leftpad",
       "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 16:12:54",
-      "https://lobste.rs/s/vpjhmi/apertus_fully_open_transparent"
-    ],
-    [
-      "Apertus: a fully open, transparent, multilingual language model",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html"
     ]
   ],
   [
