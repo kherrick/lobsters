@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 12:31:26",
+      "https://lobste.rs/s/azrzic/86_gb_s_bitpacking_with_arm_simd_single"
+    ],
+    [
+      "86 GB/s bitpacking with ARM SIMD (single thread)",
+      "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 11:26:36",
       "https://lobste.rs/s/owxdcr/attack_paths_for_exfiltrating_data_using"
     ],
@@ -77,16 +87,6 @@
     [
       "What .NET 10 GC Changes Mean for Developers",
       "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 02:37:34",
-      "https://lobste.rs/s/weihvm/threads_without_locks_2007"
-    ],
-    [
-      "Threads without Locks (2007)",
-      "https://swtch.com/~rsc/talks/threads07/"
     ]
   ],
   [
