@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-05, 15:59:24](https://lobste.rs/s/nsrig5/announcing_gobolinux_017_01_passing) - [Announcing GoboLinux 017.01 - Passing the Torch](https://gobolinux.org//news/119.html)
 * [2025-10-05, 14:50:47](https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away) - [Exit the Feed: The Best Coders Should Walk Away](https://abner.page/post/exit-the-feed/)
 * [2025-10-05, 13:33:16](https://lobste.rs/s/tu789k/personal_data_storage_is_idea_whose_time) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 * [2025-10-05, 13:10:53](https://lobste.rs/s/szoe3m/conventional_commits_considered) - [Conventional Commits considered harmful](https://larr.net/p/cc.html)
@@ -9,7 +10,6 @@
 * [2025-10-05, 10:21:37](https://lobste.rs/s/rgxngu/wherever_you_get_your_podcasts) - [Wherever you get your Podcasts](https://knotbin.leaflet.pub/3lx3uqveyj22f)
 * [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:01:59](https://lobste.rs/s/5jplbc/adding_stride_scheduling_xv6) - [Adding Stride Scheduling to xv6](https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/)
-* [2025-10-05, 08:36:18](https://lobste.rs/s/opqxdh/unlocking_modern_cpu_power_next_gen_c) - [Unlocking Modern CPU Power - Next-Gen C++ Optimization Techniques (2024)](https://www.youtube.com/watch?v=wGSSUSeaLgA)
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-10-05, 07:34:31](https://lobste.rs/s/znpmup/file_format_gallery_for_kaitai_struct) - [File Format Gallery for Kaitai Struct](https://formats.kaitai.io/)
 * [2025-10-05, 06:07:41](https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
