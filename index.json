@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-05, 17:11:48",
+      "https://lobste.rs/s/dwz05l/temporal_dead_zone_why_typescript"
+    ],
+    [
+      "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
+      "https://vincentrolfs.dev/blog/ts-var"
+    ]
+  ],
+  [
+    [
+      "2025-10-05, 17:10:35",
+      "https://lobste.rs/s/dckg9i/tesid_textualised_encrypted_sequential"
+    ],
+    [
+      "TESID: Textualised Encrypted Sequential Identifiers",
+      "https://temp.chrismorgan.info/2025-09-17-tesid/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 16:43:08",
       "https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance"
     ],
@@ -227,26 +247,6 @@
     [
       "Paged Out! Issue #7",
       "https://pagedout.institute/download/PagedOut_007.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 22:46:44",
-      "https://lobste.rs/s/d9varu/zig_builds_are_getting_faster"
-    ],
-    [
-      "Zig Builds Are Getting Faster",
-      "https://mitchellh.com/writing/zig-builds-getting-faster"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 16:16:55",
-      "https://lobste.rs/s/d4batn/cancelling_async_rust"
-    ],
-    [
-      "Cancelling async Rust",
-      "https://sunshowers.io/posts/cancelling-async-rust/"
     ]
   ]
 ]
