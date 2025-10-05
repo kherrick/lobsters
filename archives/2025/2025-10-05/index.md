@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
 * [2025-10-05, 17:23:26](https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child_simon) - [How to Discover the Binary System as a Child - Simon Peyton-Jones](https://www.youtube.com/watch?v=lg0RYLlmjJM)
+* [2025-10-05, 17:23:26](https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child) - [How to Discover the Binary System as a Child](https://www.youtube.com/watch?v=lg0RYLlmjJM)
 * [2025-10-05, 17:11:48](https://lobste.rs/s/dwz05l/temporal_dead_zone_why_typescript) - [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](https://vincentrolfs.dev/blog/ts-var)
 * [2025-10-05, 17:10:35](https://lobste.rs/s/dckg9i/tesid_textualised_encrypted_sequential) - [TESID: Textualised Encrypted Sequential Identifiers](https://temp.chrismorgan.info/2025-09-17-tesid/)
 * [2025-10-05, 16:43:08](https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance) - [UUIDv47 = v4 privacy + v7 performance](https://github.com/stateless-me/uuidv47)
