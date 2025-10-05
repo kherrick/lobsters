@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-05, 06:07:41](https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers) - [What .NET 10 GC Changes Mean for Developers](https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/)
 * [2025-10-05, 02:37:34](https://lobste.rs/s/weihvm/threads_without_locks_2007) - [Threads without Locks (2007)](https://swtch.com/~rsc/talks/threads07/)
 * [2025-10-05, 02:22:01](https://lobste.rs/s/yefbpm/mesh_spreadsheet_data_code_editor) - [mesh-spreadsheet: data & code editor](https://github.com/chrispsn/mesh-spreadsheet)
 * [2025-10-05, 01:33:01](https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
@@ -19,7 +20,6 @@
 * [2025-10-04, 01:53:48](https://lobste.rs/s/5u9gm7/don_t_parse_call) - [Don't Parse, Call](https://timkellogg.me/blog/2025/10/03/functions)
 * [2025-10-04, 00:47:00](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future) - [How We're Redesigning Audacity For The Future](https://youtu.be/QYM3TWf_G38)
 * [2025-10-03, 22:46:44](https://lobste.rs/s/d9varu/zig_builds_are_getting_faster) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
-* [2025-10-03, 21:12:39](https://lobste.rs/s/wqrwdw/end_tt_rss_org) - [The end of tt-rss.org](https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164)
 * [2025-10-03, 19:49:36](https://lobste.rs/s/bqecne/pep_810_explicit_lazy_imports) - [PEP 810: Explicit lazy imports](https://discuss.python.org/t/pep-810-explicit-lazy-imports/104131)
 * [2025-10-03, 19:41:27](https://lobste.rs/s/0o2pgj/wireguard_topologies_for_self_hosting_at) - [WireGuard topologies for self-hosting at home](https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/)
 * [2025-10-03, 17:36:32](https://lobste.rs/s/aro0ic/jank_community_has_stepped_up) - [The jank community has stepped up](https://jank-lang.org/blog/2025-10-03-community/)
