@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 06:07:41",
+      "https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers"
+    ],
+    [
+      "What .NET 10 GC Changes Mean for Developers",
+      "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 02:37:34",
       "https://lobste.rs/s/weihvm/threads_without_locks_2007"
     ],
@@ -187,16 +197,6 @@
     [
       "Zig Builds Are Getting Faster",
       "https://mitchellh.com/writing/zig-builds-getting-faster"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 21:12:39",
-      "https://lobste.rs/s/wqrwdw/end_tt_rss_org"
-    ],
-    [
-      "The end of tt-rss.org",
-      "https://community.tt-rss.org/t/the-end-of-tt-rss-org/7164"
     ]
   ],
   [
