@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 16:43:08",
+      "https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance"
+    ],
+    [
+      "UUIDv47 = v4 privacy + v7 performance",
+      "https://github.com/stateless-me/uuidv47"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 15:59:24",
       "https://lobste.rs/s/nsrig5/announcing_gobolinux_017_01_passing"
     ],
@@ -47,16 +57,6 @@
     [
       "The Case for Learned Index Structures",
       "https://dl.acm.org/doi/10.1145/3183713.3196909"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 12:54:51",
-      "https://lobste.rs/s/atveg7/racketcon_day_2_livestream"
-    ],
-    [
-      "RacketCon - Day 2 - Livestream",
-      "https://con.racket-lang.org/"
     ]
   ],
   [
