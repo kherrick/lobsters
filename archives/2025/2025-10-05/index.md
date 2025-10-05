@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-05](index.md)
 
+* [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:01:59](https://lobste.rs/s/5jplbc/adding_stride_scheduling_xv6) - [Adding Stride Scheduling to xv6](https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/)
 * [2025-10-05, 08:36:18](https://lobste.rs/s/opqxdh/unlocking_modern_cpu_power_next_gen_c) - [Unlocking Modern CPU Power - Next-Gen C++ Optimization Techniques (2024)](https://www.youtube.com/watch?v=wGSSUSeaLgA)
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)

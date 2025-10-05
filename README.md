@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 09:01:59](https://lobste.rs/s/5jplbc/adding_stride_scheduling_xv6) - [Adding Stride Scheduling to xv6](https://nickchandler.dev/articles/2025/10/03/lab-report-adding-stride-scheduling-to-xv6/)
 * [2025-10-05, 08:36:18](https://lobste.rs/s/opqxdh/unlocking_modern_cpu_power_next_gen_c) - [Unlocking Modern CPU Power - Next-Gen C++ Optimization Techniques (2024)](https://www.youtube.com/watch?v=wGSSUSeaLgA)
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
@@ -18,7 +19,6 @@
 * [2025-10-04, 16:12:54](https://lobste.rs/s/vpjhmi/apertus_fully_open_transparent) - [Apertus: a fully open, transparent, multilingual language model](https://ethz.ch/en/news-and-events/eth-news/news/2025/09/press-release-apertus-a-fully-open-transparent-multilingual-language-model.html)
 * [2025-10-04, 15:30:56](https://lobste.rs/s/koy025/delimited_continuations_lone_lisp) - [Delimited continuations in lone lisp](https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp)
 * [2025-10-04, 10:36:55](https://lobste.rs/s/dvtmwq/paged_out_issue_7) - [Paged Out! Issue #7](https://pagedout.institute/download/PagedOut_007.pdf)
-* [2025-10-04, 06:23:52](https://lobste.rs/s/dvke0c/you_can_t_parse_xml_with_regex_let_s_do_it) - [You can't parse XML with regex. Let's do it anyways](https://sdomi.pl/weblog/26-nobody-here-is-free-of-sin/)
 * [2025-10-04, 01:53:48](https://lobste.rs/s/5u9gm7/don_t_parse_call) - [Don't Parse, Call](https://timkellogg.me/blog/2025/10/03/functions)
 * [2025-10-04, 00:47:00](https://lobste.rs/s/6gfkgq/how_we_re_redesigning_audacity_for_future) - [How We're Redesigning Audacity For The Future](https://youtu.be/QYM3TWf_G38)
 * [2025-10-03, 22:46:44](https://lobste.rs/s/d9varu/zig_builds_are_getting_faster) - [Zig Builds Are Getting Faster](https://mitchellh.com/writing/zig-builds-getting-faster)
