@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 13:33:16",
+      "https://lobste.rs/s/tu789k/personal_data_storage_is_idea_whose_time"
+    ],
+    [
+      "Personal data storage is an idea whose time has come",
+      "https://blog.muni.town/personal-data-storage-idea/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 13:10:53",
       "https://lobste.rs/s/szoe3m/conventional_commits_considered"
     ],
@@ -37,16 +47,6 @@
     [
       "86 GB/s bitpacking with ARM SIMD (single thread)",
       "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 11:26:36",
-      "https://lobste.rs/s/owxdcr/attack_paths_for_exfiltrating_data_using"
-    ],
-    [
-      "Attack paths for exfiltrating data using 1Password CLI",
-      "https://codeberg.org/manchicken/1password-cli-vuln-disclosure"
     ]
   ],
   [
