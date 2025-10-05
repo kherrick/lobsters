@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 07:44:44",
+      "https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition"
+    ],
+    [
+      "Hashcards: A Plain-Text Spaced Repetition System",
+      "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 07:34:31",
       "https://lobste.rs/s/znpmup/file_format_gallery_for_kaitai_struct"
     ],
@@ -237,16 +247,6 @@
     [
       "Cancelling async Rust",
       "https://sunshowers.io/posts/cancelling-async-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-10-03, 14:43:12",
-      "https://lobste.rs/s/ebared/fundraising_campaign_sustain_gnu_guix"
-    ],
-    [
-      "Fundraising campaign to sustain GNU Guix",
-      "https://guix.gnu.org/en/blog/2025/fundraising-campaign-to-sustain-gnu-guix/"
     ]
   ]
 ]
