@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-05, 17:57:23",
+      "https://lobste.rs/s/q6c4ur/valuetier_org_some_thoughts_on_llms"
+    ],
+    [
+      "valuetier.org (and some thoughts on LLMs)",
+      "https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 17:23:26",
       "https://lobste.rs/s/id2sr5/how_discover_binary_system_as_child"
     ],
@@ -17,16 +27,6 @@
     [
       "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
       "https://vincentrolfs.dev/blog/ts-var"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 17:10:35",
-      "https://lobste.rs/s/dckg9i/tesid_textualised_encrypted_sequential"
-    ],
-    [
-      "TESID: Textualised Encrypted Sequential Identifiers",
-      "https://temp.chrismorgan.info/2025-09-17-tesid/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "The Case for Learned Index Structures",
       "https://dl.acm.org/doi/10.1145/3183713.3196909"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 12:54:51",
-      "https://lobste.rs/s/atveg7/racketcon_day_2_livestream"
-    ],
-    [
-      "RacketCon - Day 2 - Livestream",
-      "https://con.racket-lang.org/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Breaking “provably correct” Leftpad",
       "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 15:30:56",
+      "https://lobste.rs/s/koy025/delimited_continuations_lone_lisp"
+    ],
+    [
+      "Delimited continuations in lone lisp",
+      "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp"
     ]
   ],
   [
