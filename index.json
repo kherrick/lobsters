@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-10-05, 17:10:35",
+      "https://lobste.rs/s/dckg9i/tesid_textualised_encrypted_sequential"
+    ],
+    [
+      "TESID: Textualised Encrypted Sequential Identifiers",
+      "https://temp.chrismorgan.info/2025-09-17-tesid/"
+    ]
+  ],
+  [
+    [
       "2025-10-05, 16:43:08",
       "https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance"
     ],
@@ -227,16 +237,6 @@
     [
       "Breaking “provably correct” Leftpad",
       "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 15:30:56",
-      "https://lobste.rs/s/koy025/delimited_continuations_lone_lisp"
-    ],
-    [
-      "Delimited continuations in lone lisp",
-      "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp"
     ]
   ],
   [
