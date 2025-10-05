@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-10-05, 12:31:26",
-      "https://lobste.rs/s/azrzic/86_gb_s_bitpacking_with_arm_simd_single"
-    ],
-    [
-      "86 GB/s bitpacking with ARM SIMD (single thread)",
-      "https://github.com/ashtonsix/perf-portfolio/tree/main/bytepack"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 10:21:37",
       "https://lobste.rs/s/rgxngu/wherever_you_get_your_podcasts"
     ],
@@ -237,6 +227,16 @@
     [
       "Breaking “provably correct” Leftpad",
       "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
+    ]
+  ],
+  [
+    [
+      "2025-10-04, 15:30:56",
+      "https://lobste.rs/s/koy025/delimited_continuations_lone_lisp"
+    ],
+    [
+      "Delimited continuations in lone lisp",
+      "https://www.matheusmoreira.com/articles/delimited-continuations-in-lone-lisp"
     ]
   ],
   [
