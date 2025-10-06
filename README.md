@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-06, 21:32:14](https://lobste.rs/s/aza9aq/fibonacci_numbers_crate) - [fibonacci-numbers crate](https://docs.rs/crate/fibonacci-numbers/)
 * [2025-10-06, 21:13:36](https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl) - [WebGPU and the price of compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
@@ -7,7 +8,6 @@
 * [2025-10-06, 16:16:03](https://lobste.rs/s/je72sf/openzl_open_source_format_aware) - [OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
 * [2025-10-06, 16:00:34](https://lobste.rs/s/9rn6ts/mere_add_foreign_key_can_wipe_out_your) - [A mere add_foreign_key can wipe out your whole Rails + SQLite production table](https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html)
 * [2025-10-06, 15:54:57](https://lobste.rs/s/uvxpo3/beating_l1_cache_with_value_speculation) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
-* [2025-10-06, 15:39:35](https://lobste.rs/s/eqqb6h/tinqerjs_linq_inspired_orm_for) - [TinqerJS – LINQ Inspired ORM for TypeScript Supporting Postgres, SQLite](https://tinqerjs.org/)
 * [2025-10-06, 15:30:43](https://lobste.rs/s/q79gay/buffalo_buffalo_buffalo) - [buffalo::buffalo::buffalo](https://blog.ganets.ky/Buffalo/)
 * [2025-10-06, 15:15:51](https://lobste.rs/s/5liwbw/why_you_should_be_using_pathlib_2018) - [Why you should be using pathlib (2018)](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 * [2025-10-06, 15:09:21](https://lobste.rs/s/bu1a84/i_brain_coded_static_image_gallery_few) - [I brain coded a static image gallery in a few hours](https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html)
