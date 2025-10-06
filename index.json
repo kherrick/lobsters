@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-06, 12:40:47",
+      "https://lobste.rs/s/8whlqu/ai_home_cooked_software"
+    ],
+    [
+      "AI and Home-Cooked Software",
+      "https://mrkaran.dev/posts/ai-home-cooked-software/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 12:33:43",
+      "https://lobste.rs/s/xlqurj/my_first_contribution_linux"
+    ],
+    [
+      "My First Contribution to Linux",
+      "https://vkoskiv.com/first-linux-patch/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 12:10:55",
       "https://lobste.rs/s/mahsz8/what_are_you_doing_this_week"
     ],
@@ -67,16 +87,6 @@
     [
       "Simple automated deployments using git push (2024)",
       "https://garrido.io/notes/simple-automated-deployments-git-push/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 03:44:33",
-      "https://lobste.rs/s/gg8l3g/server_closet"
-    ],
-    [
-      "The Server in the Closet",
-      "https://robertgreiner.com/the-server-in-the-closet/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The Case for Learned Index Structures",
       "https://dl.acm.org/doi/10.1145/3183713.3196909"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 10:12:21",
-      "https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex"
-    ],
-    [
-      "Hobby Hilbert Simplex",
-      "https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html"
     ]
   ],
   [
