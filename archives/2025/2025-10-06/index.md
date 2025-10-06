@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 14:33:48](https://lobste.rs/s/l1mq2a/nfc_laboratory_nfc_signal_protocol) - [nfc-laboratory: NFC signal and protocol analyzer using SDR receiver](https://github.com/josevcm/nfc-laboratory)
+* [2025-10-06, 14:17:54](https://lobste.rs/s/a2ebrr/nmail_terminal_based_email_client_for) - [nmail: Terminal-based email client for Linux and macOS](https://github.com/d99kris/nmail)
 * [2025-10-06, 13:53:56](https://lobste.rs/s/bgbpx0/introduction_at_protocol) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-10-06, 13:02:09](https://lobste.rs/s/ayuzlt/obelisk_0_25_4_handling_wasm_traps) - [Obelisk 0.25.4 and handling of WASM traps](https://obeli.sk/blog/announcing-obelisk-0-25-4/)
 * [2025-10-06, 12:40:47](https://lobste.rs/s/8whlqu/ai_home_cooked_software) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
