@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-06, 13:02:09",
+      "https://lobste.rs/s/ayuzlt/obelisk_0_25_4_handling_wasm_traps"
+    ],
+    [
+      "Obelisk 0.25.4 and handling of WASM traps",
+      "https://obeli.sk/blog/announcing-obelisk-0-25-4/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 12:40:47",
       "https://lobste.rs/s/8whlqu/ai_home_cooked_software"
     ],
@@ -207,16 +217,6 @@
     [
       "Conventional Commits considered harmful",
       "https://larr.net/p/cc.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 13:07:31",
-      "https://lobste.rs/s/nsl5gr/case_for_learned_index_structures"
-    ],
-    [
-      "The Case for Learned Index Structures",
-      "https://dl.acm.org/doi/10.1145/3183713.3196909"
     ]
   ],
   [
