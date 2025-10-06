@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
 * [2025-10-06, 15:39:35](https://lobste.rs/s/eqqb6h/tinqerjs_linq_inspired_orm_for) - [TinqerJS – LINQ Inspired ORM for TypeScript Supporting Postgres, SQLite](https://tinqerjs.org/)
 * [2025-10-06, 15:30:43](https://lobste.rs/s/q79gay/buffalo_buffalo_buffalo) - [buffalo::buffalo::buffalo](https://blog.ganets.ky/Buffalo/)
 * [2025-10-06, 15:15:51](https://lobste.rs/s/5liwbw/why_you_should_be_using_pathlib_2018) - [Why you should be using pathlib (2018)](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
