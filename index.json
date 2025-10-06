@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-06, 16:48:35",
+      "https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse"
+    ],
+    [
+      "I'm Building a Browser for Reverse Engineers",
+      "https://nullpt.rs/reverse-engineering-browser"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 16:21:09",
       "https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog"
     ],
     [
       "Saving My Commit With `jj evolog`",
       "https://landaire.net/jj-evolog/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 16:16:03",
+      "https://lobste.rs/s/je72sf/openzl_open_source_format_aware"
+    ],
+    [
+      "OpenZL: An Open Source Format-Aware Compression Framework",
+      "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "What are PolyForm licenses?",
       "https://polyformproject.org/what-is-polyform/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 13:02:09",
-      "https://lobste.rs/s/ayuzlt/obelisk_0_25_4_handling_wasm_traps"
-    ],
-    [
-      "Obelisk 0.25.4 and handling of WASM traps",
-      "https://obeli.sk/blog/announcing-obelisk-0-25-4/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Packing The World For Longest Lines Of Sight",
       "https://tombh.co.uk/packing-world-lines-of-sight"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 19:25:19",
-      "https://lobste.rs/s/y3yauw/how_why_easyos_is_different"
-    ],
-    [
-      "How and why EasyOS is different",
-      "https://easyos.org/about/how-and-why-easyos-is-different.html"
     ]
   ],
   [
