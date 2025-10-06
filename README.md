@@ -2,7 +2,7 @@
 
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
-* [2025-10-06, 16:16:03](https://lobste.rs/s/je72sf/openzl_open_source_format_aware) - [OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
+* [2025-10-06, 16:00:34](https://lobste.rs/s/9rn6ts/mere_add_foreign_key_can_wipe_out_your) - [A mere add_foreign_key can wipe out your whole Rails + SQLite production table](https://kyrylo.org/software/2025/09/27/a-mere-add-foreign-key-can-wipe-out-your-whole-rails-sqlite-production-table.html)
 * [2025-10-06, 15:39:35](https://lobste.rs/s/eqqb6h/tinqerjs_linq_inspired_orm_for) - [TinqerJS – LINQ Inspired ORM for TypeScript Supporting Postgres, SQLite](https://tinqerjs.org/)
 * [2025-10-06, 15:30:43](https://lobste.rs/s/q79gay/buffalo_buffalo_buffalo) - [buffalo::buffalo::buffalo](https://blog.ganets.ky/Buffalo/)
 * [2025-10-06, 15:15:51](https://lobste.rs/s/5liwbw/why_you_should_be_using_pathlib_2018) - [Why you should be using pathlib (2018)](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
