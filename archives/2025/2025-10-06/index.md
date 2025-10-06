@@ -7,6 +7,7 @@
 * [2025-10-06, 21:32:14](https://lobste.rs/s/aza9aq/fibonacci_numbers_crate) - [fibonacci-numbers crate](https://docs.rs/crate/fibonacci-numbers/)
 * [2025-10-06, 21:13:36](https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl) - [WebGPU and the price of compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
+* [2025-10-06, 18:29:18](https://lobste.rs/s/2ztwwv/this_month_redox_september_2025) - [This Month in Redox - September 2025](https://www.redox-os.org/news/this-month-250930/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
 * [2025-10-06, 16:16:03](https://lobste.rs/s/je72sf/openzl_open_source_format_aware) - [OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)

@@ -3,6 +3,7 @@
 * [2025-10-06, 21:32:14](https://lobste.rs/s/aza9aq/fibonacci_numbers_crate) - [fibonacci-numbers crate](https://docs.rs/crate/fibonacci-numbers/)
 * [2025-10-06, 21:13:36](https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl) - [WebGPU and the price of compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
+* [2025-10-06, 18:29:18](https://lobste.rs/s/2ztwwv/this_month_redox_september_2025) - [This Month in Redox - September 2025](https://www.redox-os.org/news/this-month-250930/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
 * [2025-10-06, 16:16:03](https://lobste.rs/s/je72sf/openzl_open_source_format_aware) - [OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
@@ -24,7 +25,6 @@
 * [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 21:01:27](https://lobste.rs/s/unhv2p/packing_world_for_longest_lines_sight) - [Packing The World For Longest Lines Of Sight](https://tombh.co.uk/packing-world-lines-of-sight)
 * [2025-10-05, 14:50:47](https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away) - [Exit the Feed: The Best Coders Should Walk Away](https://abner.page/post/exit-the-feed/)
-* [2025-10-05, 13:33:16](https://lobste.rs/s/tu789k/personal_data_storage_is_idea_whose_time) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 
 ## [Archives](archives/index.md)
 
