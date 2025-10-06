@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-06, 21:13:36",
+      "https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl"
+    ],
+    [
+      "WebGPU and the price of compiling WGSL",
+      "https://hugodaniel.com/posts/webgpu-diagnostics/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 19:54:47",
       "https://lobste.rs/s/infxf7/servo_gtk"
     ],
@@ -237,16 +247,6 @@
     [
       "Personal data storage is an idea whose time has come",
       "https://blog.muni.town/personal-data-storage-idea/"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 13:10:53",
-      "https://lobste.rs/s/szoe3m/conventional_commits_considered"
-    ],
-    [
-      "Conventional Commits considered harmful",
-      "https://larr.net/p/cc.html"
     ]
   ]
 ]
