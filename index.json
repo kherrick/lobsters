@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-06, 09:11:31",
+      "https://lobste.rs/s/fogifv/django_one_orm_rule_all_databases"
+    ],
+    [
+      "Django: one ORM to rule all databases",
+      "https://www.paulox.net/2025/10/06/django-orm-comparison/"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 09:08:24",
+      "https://lobste.rs/s/lm0p8u/qnx_operating_system"
+    ],
+    [
+      "The QNX Operating System",
+      "https://www.abortretry.fail/p/the-qnx-operating-system"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 06:22:42",
       "https://lobste.rs/s/uihcec/gem_coop"
     ],
@@ -37,16 +57,6 @@
     [
       "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
       "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 22:44:11",
-      "https://lobste.rs/s/jx047q/premature_generalization"
-    ],
-    [
-      "Premature Generalization",
-      "https://youtu.be/P5lNzRA8rYI"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Hashcards: A Plain-Text Spaced Repetition System",
       "https://borretti.me/article/hashcards-plain-text-spaced-repetition"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 06:07:41",
-      "https://lobste.rs/s/rb8atf/what_net_10_gc_changes_mean_for_developers"
-    ],
-    [
-      "What .NET 10 GC Changes Mean for Developers",
-      "https://roxeem.com/2025/09/30/what-net-10-gc-changes-mean-for-developers/"
     ]
   ],
   [
