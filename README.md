@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-06, 14:45:31](https://lobste.rs/s/5ngjnk/what_are_polyform_licenses) - [What are PolyForm licenses?](https://polyformproject.org/what-is-polyform/)
 * [2025-10-06, 14:33:48](https://lobste.rs/s/l1mq2a/nfc_laboratory_nfc_signal_protocol) - [nfc-laboratory: NFC signal and protocol analyzer using SDR receiver](https://github.com/josevcm/nfc-laboratory)
 * [2025-10-06, 14:17:54](https://lobste.rs/s/a2ebrr/nmail_terminal_based_email_client_for) - [nmail: Terminal-based email client for Linux and macOS](https://github.com/d99kris/nmail)
 * [2025-10-06, 13:53:56](https://lobste.rs/s/bgbpx0/introduction_at_protocol) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
@@ -17,7 +18,6 @@
 * [2025-10-05, 21:06:29](https://lobste.rs/s/3p1uht/cargo_subspace_make_rust_analyzer_work) - [cargo-subspace: Make rust-analyzer work better with very large cargo workspaces](https://github.com/ethowitz/cargo-subspace)
 * [2025-10-05, 21:01:27](https://lobste.rs/s/unhv2p/packing_world_for_longest_lines_sight) - [Packing The World For Longest Lines Of Sight](https://tombh.co.uk/packing-world-lines-of-sight)
 * [2025-10-05, 19:25:19](https://lobste.rs/s/y3yauw/how_why_easyos_is_different) - [How and why EasyOS is different](https://easyos.org/about/how-and-why-easyos-is-different.html)
-* [2025-10-05, 17:57:23](https://lobste.rs/s/q6c4ur/valuetier_org_some_thoughts_on_llms) - [valuetier.org (and some thoughts on LLMs)](https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/)
 * [2025-10-05, 17:11:48](https://lobste.rs/s/dwz05l/temporal_dead_zone_why_typescript) - [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](https://vincentrolfs.dev/blog/ts-var)
 * [2025-10-05, 16:43:08](https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance) - [UUIDv47 = v4 privacy + v7 performance](https://github.com/stateless-me/uuidv47)
 * [2025-10-05, 14:50:47](https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away) - [Exit the Feed: The Best Coders Should Walk Away](https://abner.page/post/exit-the-feed/)

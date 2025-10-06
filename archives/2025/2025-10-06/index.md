@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 14:45:31](https://lobste.rs/s/5ngjnk/what_are_polyform_licenses) - [What are PolyForm licenses?](https://polyformproject.org/what-is-polyform/)
 * [2025-10-06, 14:33:48](https://lobste.rs/s/l1mq2a/nfc_laboratory_nfc_signal_protocol) - [nfc-laboratory: NFC signal and protocol analyzer using SDR receiver](https://github.com/josevcm/nfc-laboratory)
 * [2025-10-06, 14:17:54](https://lobste.rs/s/a2ebrr/nmail_terminal_based_email_client_for) - [nmail: Terminal-based email client for Linux and macOS](https://github.com/d99kris/nmail)
 * [2025-10-06, 13:53:56](https://lobste.rs/s/bgbpx0/introduction_at_protocol) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
