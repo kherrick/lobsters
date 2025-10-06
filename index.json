@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-06, 16:21:09",
+      "https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog"
+    ],
+    [
+      "Saving My Commit With `jj evolog`",
+      "https://landaire.net/jj-evolog/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 15:39:35",
       "https://lobste.rs/s/eqqb6h/tinqerjs_linq_inspired_orm_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Conventional Commits considered harmful",
       "https://larr.net/p/cc.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 01:33:01",
-      "https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app"
-    ],
-    [
-      "Why NetNewsWire Is Not a Web App",
-      "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html"
     ]
   ]
 ]
