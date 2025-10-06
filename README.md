@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-06, 13:53:56](https://lobste.rs/s/bgbpx0/introduction_at_protocol) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-10-06, 13:02:09](https://lobste.rs/s/ayuzlt/obelisk_0_25_4_handling_wasm_traps) - [Obelisk 0.25.4 and handling of WASM traps](https://obeli.sk/blog/announcing-obelisk-0-25-4/)
 * [2025-10-06, 12:40:47](https://lobste.rs/s/8whlqu/ai_home_cooked_software) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
 * [2025-10-06, 12:33:43](https://lobste.rs/s/xlqurj/my_first_contribution_linux) - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
@@ -16,7 +17,6 @@
 * [2025-10-05, 19:25:19](https://lobste.rs/s/y3yauw/how_why_easyos_is_different) - [How and why EasyOS is different](https://easyos.org/about/how-and-why-easyos-is-different.html)
 * [2025-10-05, 17:57:23](https://lobste.rs/s/q6c4ur/valuetier_org_some_thoughts_on_llms) - [valuetier.org (and some thoughts on LLMs)](https://ericphanson.com/blog/2025/valuetier.org-and-some-thoughts-on-llms/)
 * [2025-10-05, 17:11:48](https://lobste.rs/s/dwz05l/temporal_dead_zone_why_typescript) - [The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements](https://vincentrolfs.dev/blog/ts-var)
-* [2025-10-05, 17:10:35](https://lobste.rs/s/dckg9i/tesid_textualised_encrypted_sequential) - [TESID: Textualised Encrypted Sequential Identifiers](https://temp.chrismorgan.info/2025-09-17-tesid/)
 * [2025-10-05, 16:43:08](https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance) - [UUIDv47 = v4 privacy + v7 performance](https://github.com/stateless-me/uuidv47)
 * [2025-10-05, 15:59:24](https://lobste.rs/s/nsrig5/announcing_gobolinux_017_01_passing) - [Announcing GoboLinux 017.01 - Passing the Torch](https://gobolinux.org//news/119.html)
 * [2025-10-05, 14:50:47](https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away) - [Exit the Feed: The Best Coders Should Walk Away](https://abner.page/post/exit-the-feed/)

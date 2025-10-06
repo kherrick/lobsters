@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 13:53:56](https://lobste.rs/s/bgbpx0/introduction_at_protocol) - [Introduction to AT Protocol](https://mackuba.eu/2025/08/20/introduction-to-atproto/)
 * [2025-10-06, 13:02:09](https://lobste.rs/s/ayuzlt/obelisk_0_25_4_handling_wasm_traps) - [Obelisk 0.25.4 and handling of WASM traps](https://obeli.sk/blog/announcing-obelisk-0-25-4/)
 * [2025-10-06, 12:40:47](https://lobste.rs/s/8whlqu/ai_home_cooked_software) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
 * [2025-10-06, 12:33:43](https://lobste.rs/s/xlqurj/my_first_contribution_linux) - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
