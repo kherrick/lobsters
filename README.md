@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-06, 21:58:54](https://lobste.rs/s/2cpfsi/nanopb_protocol_buffers_with_small_code) - [nanopb: Protocol Buffers with small code size](https://github.com/nanopb/nanopb)
 * [2025-10-06, 21:32:14](https://lobste.rs/s/aza9aq/fibonacci_numbers_crate) - [fibonacci-numbers crate](https://docs.rs/crate/fibonacci-numbers/)
 * [2025-10-06, 21:13:36](https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl) - [WebGPU and the price of compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
@@ -23,7 +24,6 @@
 * [2025-10-06, 06:22:42](https://lobste.rs/s/uihcec/gem_coop) - [gem.coop](https://gem.coop/)
 * [2025-10-06, 06:15:28](https://lobste.rs/s/voi3sp/simple_automated_deployments_using_git) - [Simple automated deployments using git push (2024)](https://garrido.io/notes/simple-automated-deployments-git-push/)
 * [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
-* [2025-10-05, 21:01:27](https://lobste.rs/s/unhv2p/packing_world_for_longest_lines_sight) - [Packing The World For Longest Lines Of Sight](https://tombh.co.uk/packing-world-lines-of-sight)
 * [2025-10-05, 14:50:47](https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away) - [Exit the Feed: The Best Coders Should Walk Away](https://abner.page/post/exit-the-feed/)
 
 ## [Archives](archives/index.md)
