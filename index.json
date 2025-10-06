@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-06, 21:32:14",
+      "https://lobste.rs/s/aza9aq/fibonacci_numbers_crate"
+    ],
+    [
+      "fibonacci-numbers crate",
+      "https://docs.rs/crate/fibonacci-numbers/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 21:13:36",
       "https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl"
     ],
@@ -67,16 +77,6 @@
     [
       "Beating the L1 cache with value speculation (2021)",
       "https://mazzo.li/posts/value-speculation.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 15:39:35",
-      "https://lobste.rs/s/eqqb6h/tinqerjs_linq_inspired_orm_for"
-    ],
-    [
-      "TinqerJS – LINQ Inspired ORM for TypeScript Supporting Postgres, SQLite",
-      "https://tinqerjs.org/"
     ]
   ],
   [
