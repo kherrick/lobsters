@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-10-06, 15:54:57",
+      "https://lobste.rs/s/uvxpo3/beating_l1_cache_with_value_speculation"
+    ],
+    [
+      "Beating the L1 cache with value speculation (2021)",
+      "https://mazzo.li/posts/value-speculation.html"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 15:39:35",
       "https://lobste.rs/s/eqqb6h/tinqerjs_linq_inspired_orm_for"
     ],
@@ -207,16 +217,6 @@
     [
       "The Temporal Dead Zone, or why the TypeScript codebase is littered with var statements",
       "https://vincentrolfs.dev/blog/ts-var"
-    ]
-  ],
-  [
-    [
-      "2025-10-05, 16:43:08",
-      "https://lobste.rs/s/ycveqa/uuidv47_v4_privacy_v7_performance"
-    ],
-    [
-      "UUIDv47 = v4 privacy + v7 performance",
-      "https://github.com/stateless-me/uuidv47"
     ]
   ],
   [
