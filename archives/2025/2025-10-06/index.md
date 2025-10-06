@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-06](index.md)
 
+* [2025-10-06, 12:40:47](https://lobste.rs/s/8whlqu/ai_home_cooked_software) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
+* [2025-10-06, 12:33:43](https://lobste.rs/s/xlqurj/my_first_contribution_linux) - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 12:10:55](https://lobste.rs/s/mahsz8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mahsz8/what_are_you_doing_this_week)
 * [2025-10-06, 11:54:26](https://lobste.rs/s/4ftndd/case_for_learning_gpu_programming_with) - [A case for learning GPU programming with a compute-first mindset](https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/)
 * [2025-10-06, 10:41:52](https://lobste.rs/s/2ykcqe/why_do_llms_freak_out_over_seahorse_emoji) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse)

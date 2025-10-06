@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-06, 12:40:47](https://lobste.rs/s/8whlqu/ai_home_cooked_software) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
+* [2025-10-06, 12:33:43](https://lobste.rs/s/xlqurj/my_first_contribution_linux) - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 12:10:55](https://lobste.rs/s/mahsz8/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mahsz8/what_are_you_doing_this_week)
 * [2025-10-06, 11:54:26](https://lobste.rs/s/4ftndd/case_for_learning_gpu_programming_with) - [A case for learning GPU programming with a compute-first mindset](https://themaister.net/blog/2025/10/05/a-case-for-learning-gpu-programming-with-a-compute-first-mindset/)
 * [2025-10-06, 10:41:52](https://lobste.rs/s/2ykcqe/why_do_llms_freak_out_over_seahorse_emoji) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse)
@@ -7,7 +9,6 @@
 * [2025-10-06, 09:08:24](https://lobste.rs/s/lm0p8u/qnx_operating_system) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-06, 06:22:42](https://lobste.rs/s/uihcec/gem_coop) - [gem.coop](https://gem.coop/)
 * [2025-10-06, 06:15:28](https://lobste.rs/s/voi3sp/simple_automated_deployments_using_git) - [Simple automated deployments using git push (2024)](https://garrido.io/notes/simple-automated-deployments-git-push/)
-* [2025-10-06, 03:44:33](https://lobste.rs/s/gg8l3g/server_closet) - [The Server in the Closet](https://robertgreiner.com/the-server-in-the-closet/)
 * [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 * [2025-10-05, 21:06:29](https://lobste.rs/s/3p1uht/cargo_subspace_make_rust_analyzer_work) - [cargo-subspace: Make rust-analyzer work better with very large cargo workspaces](https://github.com/ethowitz/cargo-subspace)
 * [2025-10-05, 21:01:27](https://lobste.rs/s/unhv2p/packing_world_for_longest_lines_sight) - [Packing The World For Longest Lines Of Sight](https://tombh.co.uk/packing-world-lines-of-sight)
@@ -21,7 +22,6 @@
 * [2025-10-05, 13:33:16](https://lobste.rs/s/tu789k/personal_data_storage_is_idea_whose_time) - [Personal data storage is an idea whose time has come](https://blog.muni.town/personal-data-storage-idea/)
 * [2025-10-05, 13:10:53](https://lobste.rs/s/szoe3m/conventional_commits_considered) - [Conventional Commits considered harmful](https://larr.net/p/cc.html)
 * [2025-10-05, 13:07:31](https://lobste.rs/s/nsl5gr/case_for_learned_index_structures) - [The Case for Learned Index Structures](https://dl.acm.org/doi/10.1145/3183713.3196909)
-* [2025-10-05, 10:12:21](https://lobste.rs/s/x6vgkj/hobby_hilbert_simplex) - [Hobby Hilbert Simplex](https://nedbatchelder.com/blog/202509/hobby_hilbert_simplex.html)
 * [2025-10-05, 07:44:44](https://lobste.rs/s/p6aor9/hashcards_plain_text_spaced_repetition) - [Hashcards: A Plain-Text Spaced Repetition System](https://borretti.me/article/hashcards-plain-text-spaced-repetition)
 * [2025-10-05, 01:33:01](https://lobste.rs/s/zb71vu/why_netnewswire_is_not_web_app) - [Why NetNewsWire Is Not a Web App](https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html)
 * [2025-10-04, 16:43:31](https://lobste.rs/s/bokqwe/breaking_provably_correct_leftpad) - [Breaking “provably correct” Leftpad](https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/)
