@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-06, 14:33:48",
+      "https://lobste.rs/s/l1mq2a/nfc_laboratory_nfc_signal_protocol"
+    ],
+    [
+      "nfc-laboratory: NFC signal and protocol analyzer using SDR receiver",
+      "https://github.com/josevcm/nfc-laboratory"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 14:17:54",
+      "https://lobste.rs/s/a2ebrr/nmail_terminal_based_email_client_for"
+    ],
+    [
+      "nmail: Terminal-based email client for Linux and macOS",
+      "https://github.com/d99kris/nmail"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 13:53:56",
       "https://lobste.rs/s/bgbpx0/introduction_at_protocol"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-05, 15:59:24",
-      "https://lobste.rs/s/nsrig5/announcing_gobolinux_017_01_passing"
-    ],
-    [
-      "Announcing GoboLinux 017.01 - Passing the Torch",
-      "https://gobolinux.org//news/119.html"
-    ]
-  ],
-  [
-    [
       "2025-10-05, 14:50:47",
       "https://lobste.rs/s/7myscg/exit_feed_best_coders_should_walk_away"
     ],
@@ -237,16 +247,6 @@
     [
       "Why NetNewsWire Is Not a Web App",
       "https://inessential.com/2025/10/04/why-netnewswire-is-not-web-app.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-04, 16:43:31",
-      "https://lobste.rs/s/bokqwe/breaking_provably_correct_leftpad"
-    ],
-    [
-      "Breaking “provably correct” Leftpad",
-      "https://lukeplant.me.uk/blog/posts/breaking-provably-correct-leftpad/"
     ]
   ]
 ]
