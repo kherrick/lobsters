@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 22:12:02",
+      "https://lobste.rs/s/zfwbni/python_3_14_0_is_now_available"
+    ],
+    [
+      "Python 3.14.0 is now available",
+      "https://blog.python.org/2025/10/python-3140-final-is-here.html"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 20:40:46",
       "https://lobste.rs/s/fza6yj/my_email_tim_cook"
     ],
@@ -47,16 +57,6 @@
     [
       "I vibecoded a port of snig image gallery generator in php",
       "https://github.com/i04n/sphpig"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 18:17:48",
-      "https://lobste.rs/s/nh7fqt/cache_friendly_b_tree_nodes_with_dynamic"
-    ],
-    [
-      "Cache-Friendly B+Tree Nodes With Dynamic Fanout",
-      "https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/"
     ]
   ],
   [
