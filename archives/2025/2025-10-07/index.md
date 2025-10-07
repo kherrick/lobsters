@@ -9,6 +9,7 @@
 * [2025-10-07, 19:35:29](https://lobste.rs/s/pfd5kq/qualcomm_s_buying_arduino_what_it_means) - [Qualcomm's buying Arduino – what it means for makers](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers)
 * [2025-10-07, 18:35:43](https://lobste.rs/s/jdb0hn/putting_dumb_weather_station_on_internet) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 18:23:30](https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery) - [I vibecoded a port of snig image gallery generator in php](https://github.com/i04n/sphpig)
+* [2025-10-07, 18:17:48](https://lobste.rs/s/nh7fqt/cache_friendly_b_tree_nodes_with_dynamic) - [Cache-Friendly B+Tree Nodes With Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/racheting_with_postgres_constraint) - [Racheting with Postgres CONSTRAINT](https://andrewjudson.com/racheting-with-postgres-constraint)
 * [2025-10-07, 16:13:35](https://lobste.rs/s/dtkcvx/agentic_terminal_notepad_s_integral_your) - [An agentic terminal notepad that's integral to your docs](https://visr.sh/)
