@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 20:40:46",
+      "https://lobste.rs/s/fza6yj/my_email_tim_cook"
+    ],
+    [
+      "My Email to Tim Cook",
+      "https://substack.com/inbox/post/175351960"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 20:15:54",
       "https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm"
     ],
@@ -117,16 +127,6 @@
     [
       "Common Lisp implementation of the Forth 2012 Standard",
       "https://github.com/gmpalter/cl-forth/tree/main"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 09:30:56",
-      "https://lobste.rs/s/uj0r38/bringing_numpy_s_type_completeness_score"
-    ],
-    [
-      "Bringing NumPy's type-completeness score to nearly 90%",
-      "https://pyrefly.org/blog/numpy-type-completeness/"
     ]
   ],
   [
