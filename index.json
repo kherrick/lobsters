@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-07, 13:51:41",
-      "https://lobste.rs/s/veok7u/qualcomm_acquire_arduino"
-    ],
-    [
-      "Qualcomm to Acquire Arduino",
-      "https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i"
-    ]
-  ],
-  [
-    [
       "2025-10-07, 12:44:18",
       "https://lobste.rs/s/buwmju/evolution_lua_continued"
     ],
@@ -67,6 +57,16 @@
     [
       "nanopb: Protocol Buffers with small code size",
       "https://github.com/nanopb/nanopb"
+    ]
+  ],
+  [
+    [
+      "2025-10-06, 21:32:14",
+      "https://lobste.rs/s/aza9aq/fibonacci_numbers_crate"
+    ],
+    [
+      "fibonacci-numbers crate",
+      "https://docs.rs/crate/fibonacci-numbers/"
     ]
   ],
   [
