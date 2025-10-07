@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 09:30:56",
+      "https://lobste.rs/s/uj0r38/bringing_numpy_s_type_completeness_score"
+    ],
+    [
+      "Bringing NumPy's type-completeness score to nearly 90%",
+      "https://pyrefly.org/blog/numpy-type-completeness/"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 06:24:25",
       "https://lobste.rs/s/m744cb/fix_iphone_antennagate_2010_was_20_bytes"
     ],
@@ -37,16 +47,6 @@
     [
       "fibonacci-numbers crate",
       "https://docs.rs/crate/fibonacci-numbers/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 21:13:36",
-      "https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl"
-    ],
-    [
-      "WebGPU and the price of compiling WGSL",
-      "https://hugodaniel.com/posts/webgpu-diagnostics/"
     ]
   ],
   [
