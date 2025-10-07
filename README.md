@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/racheting_with_postgres_constraint) - [Racheting with Postgres CONSTRAINT](https://andrewjudson.com/racheting-with-postgres-constraint)
+* [2025-10-07, 15:52:02](https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml) - [Qt 6.10 Released, with Flexbox in QML](https://www.qt.io/blog/qt-6.10-released)
 * [2025-10-07, 15:45:09](https://lobste.rs/s/judd2f/handle_trait) - [The Handle trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/)
 * [2025-10-07, 15:38:51](https://lobste.rs/s/xbxhvq/vibe_engineering) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 * [2025-10-07, 15:27:52](https://lobste.rs/s/17nxrm/python_insider_python_3_14_0_final_is_here) - [Python Insider: Python 3.14.0 (final) is here](https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html)
@@ -10,7 +12,6 @@
 * [2025-10-07, 06:24:25](https://lobste.rs/s/m744cb/fix_iphone_antennagate_2010_was_20_bytes) - [The fix to the iPhone Antennagate in 2010 was 20 bytes](https://hachyderm.io/@samhenrigold/115330105694760262)
 * [2025-10-07, 00:24:12](https://lobste.rs/s/ourwmo/birth_prettier) - [Birth of Prettier](https://blog.vjeux.com/2025/javascript/birth-of-prettier.html)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
-* [2025-10-06, 18:29:18](https://lobste.rs/s/2ztwwv/this_month_redox_september_2025) - [This Month in Redox - September 2025](https://www.redox-os.org/news/this-month-250930/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
 * [2025-10-06, 16:16:03](https://lobste.rs/s/je72sf/openzl_open_source_format_aware) - [OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
@@ -24,7 +25,6 @@
 * [2025-10-06, 10:41:52](https://lobste.rs/s/2ykcqe/why_do_llms_freak_out_over_seahorse_emoji) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse)
 * [2025-10-06, 09:08:24](https://lobste.rs/s/lm0p8u/qnx_operating_system) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-06, 06:22:42](https://lobste.rs/s/uihcec/gem_coop) - [gem.coop](https://gem.coop/)
-* [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 
 ## [Archives](archives/index.md)
 
