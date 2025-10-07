@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-07, 09:30:56](https://lobste.rs/s/uj0r38/bringing_numpy_s_type_completeness_score) - [Bringing NumPy's type-completeness score to nearly 90%](https://pyrefly.org/blog/numpy-type-completeness/)
 * [2025-10-07, 06:24:25](https://lobste.rs/s/m744cb/fix_iphone_antennagate_2010_was_20_bytes) - [The fix to the iPhone Antennagate in 2010 was 20 bytes](https://hachyderm.io/@samhenrigold/115330105694760262)
 * [2025-10-07, 00:24:12](https://lobste.rs/s/ourwmo/birth_prettier) - [Birth of Prettier](https://blog.vjeux.com/2025/javascript/birth-of-prettier.html)
 * [2025-10-06, 21:58:54](https://lobste.rs/s/2cpfsi/nanopb_protocol_buffers_with_small_code) - [nanopb: Protocol Buffers with small code size](https://github.com/nanopb/nanopb)
 * [2025-10-06, 21:32:14](https://lobste.rs/s/aza9aq/fibonacci_numbers_crate) - [fibonacci-numbers crate](https://docs.rs/crate/fibonacci-numbers/)
-* [2025-10-06, 21:13:36](https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl) - [WebGPU and the price of compiling WGSL](https://hugodaniel.com/posts/webgpu-diagnostics/)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
 * [2025-10-06, 18:29:18](https://lobste.rs/s/2ztwwv/this_month_redox_september_2025) - [This Month in Redox - September 2025](https://www.redox-os.org/news/this-month-250930/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
