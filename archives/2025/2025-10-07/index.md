@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 15:03:39](https://lobste.rs/s/tfqrny/python_3_14_0_final_is_here) - [Python 3.14.0 (final) is here](https://discuss.python.org/t/python-3-14-0-final-is-here/104210)
 * [2025-10-07, 13:51:41](https://lobste.rs/s/veok7u/qualcomm_acquire_arduino) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:44:18](https://lobste.rs/s/buwmju/evolution_lua_continued) - [The evolution of Lua, continued](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 11:49:19](https://lobste.rs/s/6uemc8/seeing_like_software_company) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
