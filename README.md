@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/racheting_with_postgres_constraint) - [Racheting with Postgres CONSTRAINT](https://andrewjudson.com/racheting-with-postgres-constraint)
+* [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 15:52:02](https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml) - [Qt 6.10 Released, with Flexbox in QML](https://www.qt.io/blog/qt-6.10-released)
 * [2025-10-07, 15:45:09](https://lobste.rs/s/judd2f/handle_trait) - [The Handle trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/)
 * [2025-10-07, 15:38:51](https://lobste.rs/s/xbxhvq/vibe_engineering) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/racheting_with_postgres_constraint) - [Racheting with Postgres CONSTRAINT](https://andrewjudson.com/racheting-with-postgres-constraint)
 * [2025-10-07, 16:13:35](https://lobste.rs/s/dtkcvx/agentic_terminal_notepad_s_integral_your) - [An agentic terminal notepad that's integral to your docs](https://visr.sh/)
 * [2025-10-07, 15:52:02](https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml) - [Qt 6.10 Released, with Flexbox in QML](https://www.qt.io/blog/qt-6.10-released)
