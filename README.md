@@ -7,6 +7,7 @@
 * [2025-10-07, 18:23:30](https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery) - [I vibecoded a port of snig image gallery generator in php](https://github.com/i04n/sphpig)
 * [2025-10-07, 18:17:48](https://lobste.rs/s/nh7fqt/cache_friendly_b_tree_nodes_with_dynamic) - [Cache-Friendly B+Tree Nodes With Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
+* [2025-10-07, 17:31:48](https://lobste.rs/s/rs1q86/typescript_is_like_c) - [TypeScript is Like C#](https://typescript-is-like-csharp.chrlschn.dev/pages/intro-and-motivation.html)
 * [2025-10-07, 15:52:02](https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml) - [Qt 6.10 Released, with Flexbox in QML](https://www.qt.io/blog/qt-6.10-released)
 * [2025-10-07, 15:45:09](https://lobste.rs/s/judd2f/handle_trait) - [The Handle trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/)
 * [2025-10-07, 15:38:51](https://lobste.rs/s/xbxhvq/vibe_engineering) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
@@ -23,7 +24,6 @@
 * [2025-10-06, 14:45:31](https://lobste.rs/s/5ngjnk/what_are_polyform_licenses) - [What are PolyForm licenses?](https://polyformproject.org/what-is-polyform/)
 * [2025-10-06, 12:33:43](https://lobste.rs/s/xlqurj/my_first_contribution_linux) - [My First Contribution to Linux](https://vkoskiv.com/first-linux-patch/)
 * [2025-10-06, 10:41:52](https://lobste.rs/s/2ykcqe/why_do_llms_freak_out_over_seahorse_emoji) - [Why do LLMs freak out over the seahorse emoji?](https://vgel.me/posts/seahorse)
-* [2025-10-06, 09:08:24](https://lobste.rs/s/lm0p8u/qnx_operating_system) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-06, 06:22:42](https://lobste.rs/s/uihcec/gem_coop) - [gem.coop](https://gem.coop/)
 
 ## [Archives](archives/index.md)
