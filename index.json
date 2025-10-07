@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-07, 18:35:43",
+      "https://lobste.rs/s/jdb0hn/putting_dumb_weather_station_on_internet"
+    ],
+    [
+      "Putting a Dumb Weather Station on the Internet",
+      "https://colincogle.name/blog/byo-weather-station/"
+    ]
+  ],
+  [
+    [
       "2025-10-07, 18:23:30",
       "https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery"
     ],
@@ -147,16 +157,6 @@
     [
       "Saving My Commit With `jj evolog`",
       "https://landaire.net/jj-evolog/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 16:16:03",
-      "https://lobste.rs/s/je72sf/openzl_open_source_format_aware"
-    ],
-    [
-      "OpenZL: An Open Source Format-Aware Compression Framework",
-      "https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/"
     ]
   ],
   [
