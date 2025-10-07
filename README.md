@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-07, 13:51:41](https://lobste.rs/s/veok7u/qualcomm_acquire_arduino) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:44:18](https://lobste.rs/s/buwmju/evolution_lua_continued) - [The evolution of Lua, continued](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 11:49:19](https://lobste.rs/s/6uemc8/seeing_like_software_company) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
 * [2025-10-07, 10:51:18](https://lobste.rs/s/eehniy/common_lisp_implementation_forth_2012) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth/tree/main)
 * [2025-10-07, 06:24:25](https://lobste.rs/s/m744cb/fix_iphone_antennagate_2010_was_20_bytes) - [The fix to the iPhone Antennagate in 2010 was 20 bytes](https://hachyderm.io/@samhenrigold/115330105694760262)
 * [2025-10-07, 00:24:12](https://lobste.rs/s/ourwmo/birth_prettier) - [Birth of Prettier](https://blog.vjeux.com/2025/javascript/birth-of-prettier.html)
 * [2025-10-06, 21:58:54](https://lobste.rs/s/2cpfsi/nanopb_protocol_buffers_with_small_code) - [nanopb: Protocol Buffers with small code size](https://github.com/nanopb/nanopb)
+* [2025-10-06, 21:32:14](https://lobste.rs/s/aza9aq/fibonacci_numbers_crate) - [fibonacci-numbers crate](https://docs.rs/crate/fibonacci-numbers/)
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
 * [2025-10-06, 18:29:18](https://lobste.rs/s/2ztwwv/this_month_redox_september_2025) - [This Month in Redox - September 2025](https://www.redox-os.org/news/this-month-250930/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
