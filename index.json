@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-06, 21:32:14",
+      "https://lobste.rs/s/aza9aq/fibonacci_numbers_crate"
+    ],
+    [
+      "fibonacci-numbers crate",
+      "https://docs.rs/crate/fibonacci-numbers/"
+    ]
+  ],
+  [
+    [
       "2025-10-06, 21:13:36",
       "https://lobste.rs/s/aqoels/webgpu_price_compiling_wgsl"
     ],
@@ -47,16 +57,6 @@
     [
       "This Month in Redox - September 2025",
       "https://www.redox-os.org/news/this-month-250930/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 17:51:47",
-      "https://lobste.rs/s/u49gyi/openssh_10_1_released"
-    ],
-    [
-      "OpenSSH 10.1 released",
-      "https://www.openssh.com/txt/release-10.1"
     ]
   ],
   [
