@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 22:12:02](https://lobste.rs/s/zfwbni/python_3_14_0_is_now_available) - [Python 3.14.0 is now available](https://blog.python.org/2025/10/python-3140-final-is-here.html)
 * [2025-10-07, 20:40:46](https://lobste.rs/s/fza6yj/my_email_tim_cook) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)
 * [2025-10-07, 19:35:29](https://lobste.rs/s/pfd5kq/qualcomm_s_buying_arduino_what_it_means) - [Qualcomm's buying Arduino – what it means for makers](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers)

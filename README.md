@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-07, 22:12:02](https://lobste.rs/s/zfwbni/python_3_14_0_is_now_available) - [Python 3.14.0 is now available](https://blog.python.org/2025/10/python-3140-final-is-here.html)
 * [2025-10-07, 20:40:46](https://lobste.rs/s/fza6yj/my_email_tim_cook) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)
 * [2025-10-07, 19:35:29](https://lobste.rs/s/pfd5kq/qualcomm_s_buying_arduino_what_it_means) - [Qualcomm's buying Arduino – what it means for makers](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers)
 * [2025-10-07, 18:35:43](https://lobste.rs/s/jdb0hn/putting_dumb_weather_station_on_internet) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 18:23:30](https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery) - [I vibecoded a port of snig image gallery generator in php](https://github.com/i04n/sphpig)
-* [2025-10-07, 18:17:48](https://lobste.rs/s/nh7fqt/cache_friendly_b_tree_nodes_with_dynamic) - [Cache-Friendly B+Tree Nodes With Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack/)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 17:31:48](https://lobste.rs/s/rs1q86/typescript_is_like_c) - [TypeScript is Like C#](https://typescript-is-like-csharp.chrlschn.dev/pages/intro-and-motivation.html)
 * [2025-10-07, 15:52:02](https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml) - [Qt 6.10 Released, with Flexbox in QML](https://www.qt.io/blog/qt-6.10-released)
