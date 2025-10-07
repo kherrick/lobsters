@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-07](index.md)
 
+* [2025-10-07, 18:35:43](https://lobste.rs/s/jdb0hn/putting_dumb_weather_station_on_internet) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 18:23:30](https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery) - [I vibecoded a port of snig image gallery generator in php](https://github.com/i04n/sphpig)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/racheting_with_postgres_constraint) - [Racheting with Postgres CONSTRAINT](https://andrewjudson.com/racheting-with-postgres-constraint)

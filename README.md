@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-07, 18:35:43](https://lobste.rs/s/jdb0hn/putting_dumb_weather_station_on_internet) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 18:23:30](https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery) - [I vibecoded a port of snig image gallery generator in php](https://github.com/i04n/sphpig)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 15:52:02](https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml) - [Qt 6.10 Released, with Flexbox in QML](https://www.qt.io/blog/qt-6.10-released)
@@ -15,7 +16,6 @@
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
-* [2025-10-06, 16:16:03](https://lobste.rs/s/je72sf/openzl_open_source_format_aware) - [OpenZL: An Open Source Format-Aware Compression Framework](https://engineering.fb.com/2025/10/06/developer-tools/openzl-open-source-format-aware-compression-framework/)
 * [2025-10-06, 15:30:43](https://lobste.rs/s/q79gay/buffalo_buffalo_buffalo) - [buffalo::buffalo::buffalo](https://blog.ganets.ky/Buffalo/)
 * [2025-10-06, 15:15:51](https://lobste.rs/s/5liwbw/why_you_should_be_using_pathlib_2018) - [Why you should be using pathlib (2018)](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 * [2025-10-06, 15:09:21](https://lobste.rs/s/bu1a84/i_brain_coded_static_image_gallery_few) - [I brain coded a static image gallery in a few hours](https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html)
