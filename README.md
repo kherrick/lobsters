@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-07, 13:51:41](https://lobste.rs/s/veok7u/qualcomm_acquire_arduino) - [Qualcomm to Acquire Arduino](https://www.qualcomm.com/news/releases/2025/10/qualcomm-to-acquire-arduino-accelerating-developers--access-to-i)
 * [2025-10-07, 12:44:18](https://lobste.rs/s/buwmju/evolution_lua_continued) - [The evolution of Lua, continued](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 11:49:19](https://lobste.rs/s/6uemc8/seeing_like_software_company) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
 * [2025-10-07, 10:51:18](https://lobste.rs/s/eehniy/common_lisp_implementation_forth_2012) - [Common Lisp implementation of the Forth 2012 Standard](https://github.com/gmpalter/cl-forth/tree/main)
@@ -23,7 +24,6 @@
 * [2025-10-06, 09:11:31](https://lobste.rs/s/fogifv/django_one_orm_rule_all_databases) - [Django: one ORM to rule all databases](https://www.paulox.net/2025/10/06/django-orm-comparison/)
 * [2025-10-06, 09:08:24](https://lobste.rs/s/lm0p8u/qnx_operating_system) - [The QNX Operating System](https://www.abortretry.fail/p/the-qnx-operating-system)
 * [2025-10-06, 06:22:42](https://lobste.rs/s/uihcec/gem_coop) - [gem.coop](https://gem.coop/)
-* [2025-10-06, 06:15:28](https://lobste.rs/s/voi3sp/simple_automated_deployments_using_git) - [Simple automated deployments using git push (2024)](https://garrido.io/notes/simple-automated-deployments-git-push/)
 * [2025-10-06, 00:42:16](https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean) - [NIRS fire destroys [South Korean] government's cloud storage system, no backups available](https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936)
 
 ## [Archives](archives/index.md)
