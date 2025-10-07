@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-07, 09:30:56",
-      "https://lobste.rs/s/uj0r38/bringing_numpy_s_type_completeness_score"
+      "2025-10-07, 10:51:18",
+      "https://lobste.rs/s/eehniy/common_lisp_implementation_forth_2012"
     ],
     [
-      "Bringing NumPy's type-completeness score to nearly 90%",
-      "https://pyrefly.org/blog/numpy-type-completeness/"
+      "Common Lisp implementation of the Forth 2012 Standard",
+      "https://github.com/gmpalter/cl-forth/tree/main"
     ]
   ],
   [
