@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)
 * [2025-10-07, 19:35:29](https://lobste.rs/s/pfd5kq/qualcomm_s_buying_arduino_what_it_means) - [Qualcomm's buying Arduino – what it means for makers](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers)
 * [2025-10-07, 18:35:43](https://lobste.rs/s/jdb0hn/putting_dumb_weather_station_on_internet) - [Putting a Dumb Weather Station on the Internet](https://colincogle.name/blog/byo-weather-station/)
 * [2025-10-07, 18:23:30](https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery) - [I vibecoded a port of snig image gallery generator in php](https://github.com/i04n/sphpig)
@@ -17,7 +18,6 @@
 * [2025-10-06, 19:54:47](https://lobste.rs/s/infxf7/servo_gtk) - [Servo GTK](https://blogs.gnome.org/nacho/2025/10/01/servo-gtk/)
 * [2025-10-06, 16:48:35](https://lobste.rs/s/syavo2/i_m_building_browser_for_reverse) - [I'm Building a Browser for Reverse Engineers](https://nullpt.rs/reverse-engineering-browser)
 * [2025-10-06, 16:21:09](https://lobste.rs/s/xmlpu8/saving_my_commit_with_jj_evolog) - [Saving My Commit With `jj evolog`](https://landaire.net/jj-evolog/)
-* [2025-10-06, 15:15:51](https://lobste.rs/s/5liwbw/why_you_should_be_using_pathlib_2018) - [Why you should be using pathlib (2018)](https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/)
 * [2025-10-06, 15:09:21](https://lobste.rs/s/bu1a84/i_brain_coded_static_image_gallery_few) - [I brain coded a static image gallery in a few hours](https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html)
 * [2025-10-06, 14:45:31](https://lobste.rs/s/5ngjnk/what_are_polyform_licenses) - [What are PolyForm licenses?](https://polyformproject.org/what-is-polyform/)
 * [2025-10-06, 12:40:47](https://lobste.rs/s/8whlqu/ai_home_cooked_software) - [AI and Home-Cooked Software](https://mrkaran.dev/posts/ai-home-cooked-software/)
