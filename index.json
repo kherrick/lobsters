@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-07, 15:52:02",
-      "https://lobste.rs/s/wttjzm/qt_6_10_released_with_flexbox_qml"
+      "2025-10-07, 16:13:35",
+      "https://lobste.rs/s/dtkcvx/agentic_terminal_notepad_s_integral_your"
     ],
     [
-      "Qt 6.10 Released, with Flexbox in QML",
-      "https://www.qt.io/blog/qt-6.10-released"
+      "An agentic terminal notepad that's integral to your docs",
+      "https://visr.sh/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Common Lisp implementation of the Forth 2012 Standard",
       "https://github.com/gmpalter/cl-forth/tree/main"
+    ]
+  ],
+  [
+    [
+      "2025-10-07, 09:30:56",
+      "https://lobste.rs/s/uj0r38/bringing_numpy_s_type_completeness_score"
+    ],
+    [
+      "Bringing NumPy's type-completeness score to nearly 90%",
+      "https://pyrefly.org/blog/numpy-type-completeness/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "gem.coop",
       "https://gem.coop/"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 00:42:16",
-      "https://lobste.rs/s/zo5arc/nirs_fire_destroys_south_korean"
-    ],
-    [
-      "NIRS fire destroys [South Korean] government's cloud storage system, no backups available",
-      "https://koreajoongangdaily.joins.com/news/2025-10-01/national/socialAffairs/NIRS-fire-destroys-governments-cloud-storage-system-no-backups-available/2412936"
     ]
   ]
 ]
