@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-08, 13:05:00](https://lobste.rs/s/dzv8ff/devenv_1_10_monorepo_nix_support_with) - [devenv 1.10: monorepo Nix support with devenv.yaml imports - devenv](https://devenv.sh/blog/2025/10/07/devenv-110-monorepo-nix-support-with-devenvyaml-imports/)
 * [2025-10-08, 12:36:21](https://lobste.rs/s/yvqwqc/generative_design_novel_bacteriophages) - [Generative design of novel bacteriophages with genome language models](https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1)
 * [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-08, 11:15:17](https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About Reality](https://www.youtube.com/watch?v=GBHGHrlRlKs)
@@ -10,7 +11,6 @@
 * [2025-10-08, 03:56:10](https://lobste.rs/s/agrmoo/stealing_part_production_language_model) - [Stealing Part of a Production Language Model (2024)](https://arxiv.org/abs/2403.06634)
 * [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
 * [2025-10-08, 01:21:05](https://lobste.rs/s/hffbp2/walrus_ingesting_data_at_memory_speeds) - [walrus: ingesting data at memory speeds](https://nubskr.com/2025/10/06/walrus.html)
-* [2025-10-08, 00:24:54](https://lobste.rs/s/hsesqm/n3694_functions_with_data_closures_c) - [N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html)
 * [2025-10-08, 00:10:28](https://lobste.rs/s/6upckb/should_you_use_upper_bound_version) - [Should You Use Upper Bound Version Constraints?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [2025-10-07, 20:40:46](https://lobste.rs/s/fza6yj/my_email_tim_cook) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)

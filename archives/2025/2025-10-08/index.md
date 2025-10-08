@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 13:05:00](https://lobste.rs/s/dzv8ff/devenv_1_10_monorepo_nix_support_with) - [devenv 1.10: monorepo Nix support with devenv.yaml imports - devenv](https://devenv.sh/blog/2025/10/07/devenv-110-monorepo-nix-support-with-devenvyaml-imports/)
 * [2025-10-08, 12:36:21](https://lobste.rs/s/yvqwqc/generative_design_novel_bacteriophages) - [Generative design of novel bacteriophages with genome language models](https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1)
 * [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-08, 11:15:17](https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About Reality](https://www.youtube.com/watch?v=GBHGHrlRlKs)
