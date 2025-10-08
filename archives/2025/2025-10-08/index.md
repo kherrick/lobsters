@@ -1,0 +1,18 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-08](index.md)
+
+* [2025-10-08, 12:36:21](https://lobste.rs/s/yvqwqc/generative_design_novel_bacteriophages) - [Generative design of novel bacteriophages with genome language models](https://www.biorxiv.org/content/10.1101/2025.09.12.675911v1)
+* [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
+* [2025-10-08, 11:15:17](https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About Reality](https://www.youtube.com/watch?v=GBHGHrlRlKs)
+* [2025-10-08, 09:12:47](https://lobste.rs/s/fygpwl/aspipes_working_pipelines_today_pure) - [asPipes: working pipelines today in pure JavaScript](https://github.com/irony/aspipes)
+* [2025-10-08, 07:55:30](https://lobste.rs/s/qf1kck/apache_kafka_creators_confluent_explore) - [Apache Kafka creators Confluent explore company sale](https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/)
+* [2025-10-08, 07:18:38](https://lobste.rs/s/wdhakp/mondrian_introduction_functional) - [The Mondrian introduction to functional optics](http://marcosh.github.io/post/2025/10/07/the-mondrian-introduction-to-functional-optics.html)
+* [2025-10-08, 05:23:12](https://lobste.rs/s/kiksdn/half_year_on_alpine_just_musl_aside) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
+* [2025-10-08, 03:56:10](https://lobste.rs/s/agrmoo/stealing_part_production_language_model) - [Stealing Part of a Production Language Model (2024)](https://arxiv.org/abs/2403.06634)
+* [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
+* [2025-10-08, 01:21:05](https://lobste.rs/s/hffbp2/walrus_ingesting_data_at_memory_speeds) - [walrus: ingesting data at memory speeds](https://nubskr.com/2025/10/06/walrus.html)
+* [2025-10-08, 00:24:54](https://lobste.rs/s/hsesqm/n3694_functions_with_data_closures_c) - [N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html)
+* [2025-10-08, 00:10:28](https://lobste.rs/s/6upckb/should_you_use_upper_bound_version) - [Should You Use Upper Bound Version Constraints?](https://iscinumpy.dev/post/bound-version-constraints/)
