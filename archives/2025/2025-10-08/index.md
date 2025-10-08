@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 16:02:04](https://lobste.rs/s/p0iw9e/python_3_14_is_here_how_fast_is_it) - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
+* [2025-10-08, 15:59:19](https://lobste.rs/s/0tviwm/beyond_indexes_how_open_table_formats) - [Beyond Indexes: How Open Table Formats Optimize Query Performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
 * [2025-10-08, 15:35:55](https://lobste.rs/s/uaaunl/who_needs_git_when_you_have_1m_context) - [Who needs git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
 * [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
