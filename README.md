@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-08, 15:35:55](https://lobste.rs/s/uaaunl/who_needs_git_when_you_have_1m_context) - [Who needs git when you have 1M context windows?](https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html)
 * [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
@@ -24,7 +25,6 @@
 * [2025-10-07, 12:44:18](https://lobste.rs/s/buwmju/evolution_lua_continued) - [The evolution of Lua, continued](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 11:49:19](https://lobste.rs/s/6uemc8/seeing_like_software_company) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
 * [2025-10-07, 06:24:25](https://lobste.rs/s/m744cb/fix_iphone_antennagate_2010_was_20_bytes) - [The fix to the iPhone Antennagate in 2010 was 20 bytes](https://hachyderm.io/@samhenrigold/115330105694760262)
-* [2025-10-06, 15:09:21](https://lobste.rs/s/bu1a84/i_brain_coded_static_image_gallery_few) - [I brain coded a static image gallery in a few hours](https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html)
 
 ## [Archives](archives/index.md)
 
