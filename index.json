@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-08, 14:13:14",
+      "https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving"
+    ],
+    [
+      "Crowdsourced console clocks - proving that SNES sound chips run fast with real data",
+      "https://www.youtube.com/watch?v=ECMa7rFnQ2w"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 13:52:18",
       "https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler"
     ],
@@ -47,16 +57,6 @@
     [
       "asPipes: working pipelines today in pure JavaScript",
       "https://github.com/irony/aspipes"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 07:55:30",
-      "https://lobste.rs/s/qf1kck/apache_kafka_creators_confluent_explore"
-    ],
-    [
-      "Apache Kafka creators Confluent explore company sale",
-      "https://www.reuters.com/business/data-streaming-software-maker-confluent-explores-sale-sources-say-2025-10-08/"
     ]
   ],
   [
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2025-10-08, 00:24:54",
+      "https://lobste.rs/s/hsesqm/n3694_functions_with_data_closures_c"
+    ],
+    [
+      "N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)",
+      "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 00:10:28",
       "https://lobste.rs/s/6upckb/should_you_use_upper_bound_version"
     ],
@@ -147,16 +157,6 @@
     [
       "Qualcomm's buying Arduino – what it means for makers",
       "https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 18:23:30",
-      "https://lobste.rs/s/eypeux/i_vibecoded_port_snig_image_gallery"
-    ],
-    [
-      "I vibecoded a port of snig image gallery generator in php",
-      "https://github.com/i04n/sphpig"
     ]
   ],
   [
