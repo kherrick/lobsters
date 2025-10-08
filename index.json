@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-10-08, 11:15:17",
+      "https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about"
+    ],
+    [
+      "Falsehoods Programmers Believe About Reality",
+      "https://www.youtube.com/watch?v=GBHGHrlRlKs"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 09:12:47",
       "https://lobste.rs/s/fygpwl/aspipes_working_pipelines_today_pure"
     ],
@@ -117,16 +127,6 @@
     [
       "Half an year on Alpine: just musl aside",
       "https://blog.jutty.dev/posts/half-an-year-on-alpine/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 03:56:10",
-      "https://lobste.rs/s/agrmoo/stealing_part_production_language_model"
-    ],
-    [
-      "Stealing Part of a Production Language Model (2024)",
-      "https://arxiv.org/abs/2403.06634"
     ]
   ],
   [
