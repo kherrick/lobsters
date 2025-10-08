@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-08, 14:18:02",
+      "https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain"
+    ],
+    [
+      "Next steps for BPF support in the GNU toolchain",
+      "https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 14:13:14",
       "https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving"
     ],
@@ -117,16 +127,6 @@
     [
       "N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)",
       "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 00:10:28",
-      "https://lobste.rs/s/6upckb/should_you_use_upper_bound_version"
-    ],
-    [
-      "Should You Use Upper Bound Version Constraints?",
-      "https://iscinumpy.dev/post/bound-version-constraints/"
     ]
   ],
   [
