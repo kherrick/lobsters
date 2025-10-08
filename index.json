@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-10-08, 17:57:34",
+      "https://lobste.rs/s/h3olai/c_26_range_support_for_std_optional"
+    ],
+    [
+      "C++26: range support for std::optional",
+      "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 17:10:37",
       "https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control"
     ],
@@ -227,16 +237,6 @@
     [
       "Python Insider: Python 3.14.0 (final) is here",
       "https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 12:44:18",
-      "https://lobste.rs/s/buwmju/evolution_lua_continued"
-    ],
-    [
-      "The evolution of Lua, continued",
-      "https://www.lua.org/doc/cola.pdf"
     ]
   ],
   [
