@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-10-08, 13:38:37",
+      "https://lobste.rs/s/sdecjj/dewaffling_tech_industry"
+    ],
+    [
+      "Dewaffling the tech industry",
+      "https://deadsimpletech.com/blog/dewaffling_tech"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 13:05:00",
       "https://lobste.rs/s/dzv8ff/devenv_1_10_monorepo_nix_support_with"
     ],
@@ -117,16 +127,6 @@
     [
       "walrus: ingesting data at memory speeds",
       "https://nubskr.com/2025/10/06/walrus.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 00:24:54",
-      "https://lobste.rs/s/hsesqm/n3694_functions_with_data_closures_c"
-    ],
-    [
-      "N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)",
-      "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html"
     ]
   ],
   [
