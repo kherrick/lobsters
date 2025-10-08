@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-08, 15:35:55",
+      "https://lobste.rs/s/uaaunl/who_needs_git_when_you_have_1m_context"
+    ],
+    [
+      "Who needs git when you have 1M context windows?",
+      "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 14:18:02",
       "https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain"
     ],
@@ -237,16 +247,6 @@
     [
       "The fix to the iPhone Antennagate in 2010 was 20 bytes",
       "https://hachyderm.io/@samhenrigold/115330105694760262"
-    ]
-  ],
-  [
-    [
-      "2025-10-06, 15:09:21",
-      "https://lobste.rs/s/bu1a84/i_brain_coded_static_image_gallery_few"
-    ],
-    [
-      "I brain coded a static image gallery in a few hours",
-      "https://domm.plix.at/perl/2025_10_braincoded_static_image_gallery.html"
     ]
   ]
 ]
