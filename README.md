@@ -3,6 +3,7 @@
 * [2025-10-08, 17:10:37](https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control) - [Citizen Protest Halts Chat Control](https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/)
 * [2025-10-08, 16:02:04](https://lobste.rs/s/p0iw9e/python_3_14_is_here_how_fast_is_it) - [Python 3.14 Is Here. How Fast Is It?](https://blog.miguelgrinberg.com/post/python-3-14-is-here-how-fast-is-it)
 * [2025-10-08, 15:59:19](https://lobste.rs/s/0tviwm/beyond_indexes_how_open_table_formats) - [Beyond Indexes: How Open Table Formats Optimize Query Performance](https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance)
+* [2025-10-08, 15:45:53](https://lobste.rs/s/kijyiv/you_re_doing_rails_wrong) - [You're doing Rails wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
 * [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
@@ -24,7 +25,6 @@
 * [2025-10-07, 15:27:52](https://lobste.rs/s/17nxrm/python_insider_python_3_14_0_final_is_here) - [Python Insider: Python 3.14.0 (final) is here](https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html)
 * [2025-10-07, 12:44:18](https://lobste.rs/s/buwmju/evolution_lua_continued) - [The evolution of Lua, continued](https://www.lua.org/doc/cola.pdf)
 * [2025-10-07, 11:49:19](https://lobste.rs/s/6uemc8/seeing_like_software_company) - [Seeing like a software company](https://www.seangoedecke.com/seeing-like-a-software-company/)
-* [2025-10-07, 06:24:25](https://lobste.rs/s/m744cb/fix_iphone_antennagate_2010_was_20_bytes) - [The fix to the iPhone Antennagate in 2010 was 20 bytes](https://hachyderm.io/@samhenrigold/115330105694760262)
 
 ## [Archives](archives/index.md)
 
