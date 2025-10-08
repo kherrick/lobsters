@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 13:05:00](https://lobste.rs/s/dzv8ff/devenv_1_10_monorepo_nix_support_with) - [devenv 1.10: monorepo Nix support with devenv.yaml imports - devenv](https://devenv.sh/blog/2025/10/07/devenv-110-monorepo-nix-support-with-devenvyaml-imports/)

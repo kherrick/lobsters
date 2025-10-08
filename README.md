@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 13:05:00](https://lobste.rs/s/dzv8ff/devenv_1_10_monorepo_nix_support_with) - [devenv 1.10: monorepo Nix support with devenv.yaml imports - devenv](https://devenv.sh/blog/2025/10/07/devenv-110-monorepo-nix-support-with-devenvyaml-imports/)
@@ -12,7 +13,6 @@
 * [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
 * [2025-10-08, 01:21:05](https://lobste.rs/s/hffbp2/walrus_ingesting_data_at_memory_speeds) - [walrus: ingesting data at memory speeds](https://nubskr.com/2025/10/06/walrus.html)
 * [2025-10-08, 00:24:54](https://lobste.rs/s/hsesqm/n3694_functions_with_data_closures_c) - [N3694: Functions with Data - Closures in C (A Comprehensive Proposal Overviewing Blocks, Nested Functions, and Lambdas)](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20Functions%20with%20Data%20-%20Closures%20in%20C.html)
-* [2025-10-08, 00:10:28](https://lobste.rs/s/6upckb/should_you_use_upper_bound_version) - [Should You Use Upper Bound Version Constraints?](https://iscinumpy.dev/post/bound-version-constraints/)
 * [2025-10-07, 20:40:46](https://lobste.rs/s/fza6yj/my_email_tim_cook) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)
 * [2025-10-07, 19:35:29](https://lobste.rs/s/pfd5kq/qualcomm_s_buying_arduino_what_it_means) - [Qualcomm's buying Arduino – what it means for makers](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers)
