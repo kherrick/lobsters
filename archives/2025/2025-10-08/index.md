@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-08](index.md)
 
+* [2025-10-08, 22:15:53](https://lobste.rs/s/obvyuo/oral_history_ken_thompson) - [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
 * [2025-10-08, 19:36:03](https://lobste.rs/s/ilcane/huml_human_oriented_markup_language) - [HUML :: Human-oriented Markup Language](https://huml.io)
 * [2025-10-08, 18:46:53](https://lobste.rs/s/xg9xxx/julia_v1_12_release_highlights) - [Julia v1.12 release highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 * [2025-10-08, 17:10:37](https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control) - [Citizen Protest Halts Chat Control](https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/)

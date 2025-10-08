@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-08, 22:15:53](https://lobste.rs/s/obvyuo/oral_history_ken_thompson) - [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
 * [2025-10-08, 19:36:03](https://lobste.rs/s/ilcane/huml_human_oriented_markup_language) - [HUML :: Human-oriented Markup Language](https://huml.io)
 * [2025-10-08, 18:46:53](https://lobste.rs/s/xg9xxx/julia_v1_12_release_highlights) - [Julia v1.12 release highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 * [2025-10-08, 17:10:37](https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control) - [Citizen Protest Halts Chat Control](https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/)
@@ -18,7 +19,6 @@
 * [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
 * [2025-10-07, 20:40:46](https://lobste.rs/s/fza6yj/my_email_tim_cook) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)
-* [2025-10-07, 19:35:29](https://lobste.rs/s/pfd5kq/qualcomm_s_buying_arduino_what_it_means) - [Qualcomm's buying Arduino – what it means for makers](https://www.jeffgeerling.com/blog/2025/qualcomms-buying-arduino-%E2%80%93-what-it-means-makers)
 * [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 15:45:09](https://lobste.rs/s/judd2f/handle_trait) - [The Handle trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/)
 * [2025-10-07, 15:38:51](https://lobste.rs/s/xbxhvq/vibe_engineering) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
