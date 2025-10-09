@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 19:32:27](https://lobste.rs/s/rwvh6g/examples_are_best_documentation) - [Examples are the best documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 * [2025-10-09, 18:49:11](https://lobste.rs/s/biqecl/rubygems_org_aws_root_access_event) - [Rubygems.org AWS Root Access Event – September 2025](https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/)
 * [2025-10-09, 18:06:53](https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 17:06:26](https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions) - [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
