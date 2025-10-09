@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-09, 19:46:25](https://lobste.rs/s/niramb/code_is_never_neutral_why_all_software_is) - [Code is Never Neutral: Why All Software is Political](https://www.youtube.com/watch?v=Kpfff6TS018)
 * [2025-10-09, 19:32:27](https://lobste.rs/s/rwvh6g/examples_are_best_documentation) - [Examples are the best documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 * [2025-10-09, 18:06:53](https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 17:06:26](https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions) - [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
@@ -22,7 +23,6 @@
 * [2025-10-08, 17:10:37](https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control) - [Citizen Protest Halts Chat Control](https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
-* [2025-10-08, 11:15:17](https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About Reality](https://www.youtube.com/watch?v=GBHGHrlRlKs)
 * [2025-10-08, 05:23:12](https://lobste.rs/s/kiksdn/half_year_on_alpine_just_musl_aside) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
 * [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
 
