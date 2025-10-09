@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-09, 06:37:22](https://lobste.rs/s/tqgnx9/fuzzing_as_basis_for_effective) - [Fuzzing as the basis for effective development a case study of LuaJIT](https://www.youtube.com/watch?v=GwHZaynqh98)
 * [2025-10-09, 04:36:36](https://lobste.rs/s/mxpdqp/building_repo_bench) - [Building Repo Bench](https://repoprompt.com/blog/building-repo-bench)
 * [2025-10-08, 22:15:53](https://lobste.rs/s/obvyuo/oral_history_ken_thompson) - [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
 * [2025-10-08, 19:36:03](https://lobste.rs/s/ilcane/huml_human_oriented_markup_language) - [HUML :: Human-oriented Markup Language](https://huml.io)
@@ -20,7 +21,6 @@
 * [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
 * [2025-10-07, 20:40:46](https://lobste.rs/s/fza6yj/my_email_tim_cook) - [My Email to Tim Cook](https://substack.com/inbox/post/175351960)
 * [2025-10-07, 20:15:54](https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm) - [Test your README in a fresh VM](https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/)
-* [2025-10-07, 17:46:28](https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint) - [Ratcheting with Postgres CONSTRAINT](https://andrewjudson.com/ratcheting-with-postgres-constraint)
 * [2025-10-07, 15:45:09](https://lobste.rs/s/judd2f/handle_trait) - [The Handle trait](https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/)
 * [2025-10-07, 15:38:51](https://lobste.rs/s/xbxhvq/vibe_engineering) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 * [2025-10-07, 15:27:52](https://lobste.rs/s/17nxrm/python_insider_python_3_14_0_final_is_here) - [Python Insider: Python 3.14.0 (final) is here](https://pythoninsider.blogspot.com/2025/10/python-3140-final-is-here.html)
