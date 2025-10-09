@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 17:06:26",
+      "https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions"
+    ],
+    [
+      "Fedora floats AI-assisted contributions policy",
+      "https://lwn.net/Articles/1039623/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 16:49:22",
       "https://lobste.rs/s/pydvse/fireman_sam_commodore_64"
     ],
@@ -237,16 +247,6 @@
     [
       "Why we didn't rewrite our feed handler in Rust",
       "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 15:38:51",
-      "https://lobste.rs/s/xbxhvq/vibe_engineering"
-    ],
-    [
-      "Vibe engineering",
-      "https://simonwillison.net/2025/Oct/7/vibe-engineering/"
     ]
   ]
 ]
