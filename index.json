@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 04:36:36",
+      "https://lobste.rs/s/mxpdqp/building_repo_bench"
+    ],
+    [
+      "Building Repo Bench",
+      "https://repoprompt.com/blog/building-repo-bench"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 22:15:53",
       "https://lobste.rs/s/obvyuo/oral_history_ken_thompson"
     ],
@@ -97,16 +107,6 @@
     [
       "How we found a bug in Go's arm64 compiler",
       "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 13:38:37",
-      "https://lobste.rs/s/sdecjj/dewaffling_tech_industry"
-    ],
-    [
-      "Dewaffling the tech industry",
-      "https://deadsimpletech.com/blog/dewaffling_tech"
     ]
   ],
   [
