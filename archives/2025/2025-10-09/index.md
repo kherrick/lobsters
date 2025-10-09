@@ -9,6 +9,7 @@
 * [2025-10-09, 17:06:26](https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions) - [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
 * [2025-10-09, 16:49:22](https://lobste.rs/s/pydvse/fireman_sam_commodore_64) - [Fireman Sam (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html)
 * [2025-10-09, 16:00:48](https://lobste.rs/s/3hamiv/what_is_algebraic_about_algebraic) - [What is Algebraic about Algebraic Effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
+* [2025-10-09, 15:55:05](https://lobste.rs/s/twddhr/two_kinds_relicensing_2023) - [Two Kinds of \"Relicensing\" (2023)](https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing)
 * [2025-10-09, 15:55:05](https://lobste.rs/s/twddhr/two_kinds_relicensing) - [Two Kinds of \"Relicensing\"](https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing)
 * [2025-10-09, 15:40:05](https://lobste.rs/s/0j2e2w/write_stuff_concurrent_write) - [The Write Stuff: Concurrent Write Transactions in SQLite](https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/)
 * [2025-10-09, 15:05:09](https://lobste.rs/s/mczi9m/four_years_five_failures_one_compiler) - [Four years, Five failures, One compiler - The journey](https://daymare.net/blogs/four-years-five-failures-one-compiler/)
