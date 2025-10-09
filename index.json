@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 10:29:38",
+      "https://lobste.rs/s/fysgz3/introducing_react_foundation_new_home"
+    ],
+    [
+      "Introducing the React Foundation: The New Home for React & React Native",
+      "https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 09:55:56",
       "https://lobste.rs/s/n6jiog/how_i_learned_code_using_japanese_method"
     ],
@@ -207,16 +217,6 @@
     [
       "Why we didn't rewrite our feed handler in Rust",
       "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 20:15:54",
-      "https://lobste.rs/s/lpghrw/test_your_readme_fresh_vm"
-    ],
-    [
-      "Test your README in a fresh VM",
-      "https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/"
     ]
   ],
   [
