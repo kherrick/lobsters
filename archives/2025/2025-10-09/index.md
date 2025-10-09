@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-10-09](index.md)
+
+* [2025-10-09, 04:36:36](https://lobste.rs/s/mxpdqp/building_repo_bench) - [Building Repo Bench](https://repoprompt.com/blog/building-repo-bench)

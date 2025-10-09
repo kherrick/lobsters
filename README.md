@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-09, 04:36:36](https://lobste.rs/s/mxpdqp/building_repo_bench) - [Building Repo Bench](https://repoprompt.com/blog/building-repo-bench)
 * [2025-10-08, 22:15:53](https://lobste.rs/s/obvyuo/oral_history_ken_thompson) - [Oral History of Ken Thompson](https://www.youtube.com/watch?v=OmVHkL0IWk4)
 * [2025-10-08, 19:36:03](https://lobste.rs/s/ilcane/huml_human_oriented_markup_language) - [HUML :: Human-oriented Markup Language](https://huml.io)
 * [2025-10-08, 18:46:53](https://lobste.rs/s/xg9xxx/julia_v1_12_release_highlights) - [Julia v1.12 release highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
@@ -10,7 +11,6 @@
 * [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
-* [2025-10-08, 13:38:37](https://lobste.rs/s/sdecjj/dewaffling_tech_industry) - [Dewaffling the tech industry](https://deadsimpletech.com/blog/dewaffling_tech)
 * [2025-10-08, 13:05:00](https://lobste.rs/s/dzv8ff/devenv_1_10_monorepo_nix_support_with) - [devenv 1.10: monorepo Nix support with devenv.yaml imports - devenv](https://devenv.sh/blog/2025/10/07/devenv-110-monorepo-nix-support-with-devenvyaml-imports/)
 * [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 * [2025-10-08, 11:15:17](https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About Reality](https://www.youtube.com/watch?v=GBHGHrlRlKs)
