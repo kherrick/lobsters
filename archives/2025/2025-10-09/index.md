@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-09](index.md)
 
+* [2025-10-09, 09:55:56](https://lobste.rs/s/n6jiog/how_i_learned_code_using_japanese_method) - [How I Learned to Code (using Japanese Method)](https://blog.stackademic.com/how-i-learned-to-code-using-japanese-method-a01a74c35224)
+* [2025-10-09, 09:52:27](https://lobste.rs/s/ivx7ex/interval_calculator) - [Interval Calculator](https://victorpoughon.github.io/interval-calculator/)
 * [2025-10-09, 06:37:22](https://lobste.rs/s/tqgnx9/fuzzing_as_basis_for_effective) - [Fuzzing as the basis for effective development a case study of LuaJIT](https://www.youtube.com/watch?v=GwHZaynqh98)
 * [2025-10-09, 04:36:36](https://lobste.rs/s/mxpdqp/building_repo_bench) - [Building Repo Bench](https://repoprompt.com/blog/building-repo-bench)
