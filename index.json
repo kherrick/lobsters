@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 15:40:05",
+      "https://lobste.rs/s/0j2e2w/write_stuff_concurrent_write"
+    ],
+    [
+      "The Write Stuff: Concurrent Write Transactions in SQLite",
+      "https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 15:05:09",
       "https://lobste.rs/s/mczi9m/four_years_five_failures_one_compiler"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2025-10-08, 17:57:34",
+      "https://lobste.rs/s/h3olai/c_26_range_support_for_std_optional"
+    ],
+    [
+      "C++26: range support for std::optional",
+      "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 17:10:37",
       "https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2025-10-08, 15:59:19",
-      "https://lobste.rs/s/0tviwm/beyond_indexes_how_open_table_formats"
-    ],
-    [
-      "Beyond Indexes: How Open Table Formats Optimize Query Performance",
-      "https://jack-vanlightly.com/blog/2025/10/8/beyond-indexes-how-open-table-formats-optimize-query-performance"
-    ]
-  ],
-  [
-    [
       "2025-10-08, 15:45:53",
       "https://lobste.rs/s/kijyiv/you_re_doing_rails_wrong"
     ],
     [
       "You're doing Rails wrong",
       "https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 15:35:55",
-      "https://lobste.rs/s/uaaunl/who_needs_git_when_you_have_1m_context"
-    ],
-    [
-      "Who needs git when you have 1M context windows?",
-      "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
     ]
   ],
   [
