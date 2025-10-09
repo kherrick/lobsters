@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 15:05:09",
+      "https://lobste.rs/s/mczi9m/four_years_five_failures_one_compiler"
+    ],
+    [
+      "Four years, Five failures, One compiler - The journey",
+      "https://daymare.net/blogs/four-years-five-failures-one-compiler/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 14:35:18",
       "https://lobste.rs/s/c3dnrm/how_store_ordered_information"
     ],
@@ -107,16 +117,6 @@
     [
       "Julia v1.12 release highlights",
       "https://julialang.org/blog/2025/10/julia-1.12-highlights/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 17:57:34",
-      "https://lobste.rs/s/h3olai/c_26_range_support_for_std_optional"
-    ],
-    [
-      "C++26: range support for std::optional",
-      "https://www.sandordargo.com/blog/2025/10/08/cpp26-range-support-for-std-optional"
     ]
   ],
   [
