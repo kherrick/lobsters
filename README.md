@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-09, 17:06:26](https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions) - [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
 * [2025-10-09, 16:49:22](https://lobste.rs/s/pydvse/fireman_sam_commodore_64) - [Fireman Sam (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html)
 * [2025-10-09, 16:00:48](https://lobste.rs/s/3hamiv/what_is_algebraic_about_algebraic) - [What is Algebraic about Algebraic Effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-10-09, 15:55:05](https://lobste.rs/s/twddhr/two_kinds_relicensing) - [Two Kinds of \"Relicensing\"](https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing)
@@ -24,7 +25,6 @@
 * [2025-10-08, 11:15:17](https://lobste.rs/s/jwvbsq/falsehoods_programmers_believe_about) - [Falsehoods Programmers Believe About Reality](https://www.youtube.com/watch?v=GBHGHrlRlKs)
 * [2025-10-08, 05:23:12](https://lobste.rs/s/kiksdn/half_year_on_alpine_just_musl_aside) - [Half an year on Alpine: just musl aside](https://blog.jutty.dev/posts/half-an-year-on-alpine/)
 * [2025-10-08, 03:13:35](https://lobste.rs/s/emvkea/why_we_didn_t_rewrite_our_feed_handler_rust) - [Why we didn't rewrite our feed handler in Rust](https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust)
-* [2025-10-07, 15:38:51](https://lobste.rs/s/xbxhvq/vibe_engineering) - [Vibe engineering](https://simonwillison.net/2025/Oct/7/vibe-engineering/)
 
 ## [Archives](archives/index.md)
 
