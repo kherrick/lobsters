@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 18:06:53",
+      "https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any"
+    ],
+    [
+      "A small number of samples can poison LLMs of any size",
+      "https://www.anthropic.com/research/small-samples-poison"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 17:06:26",
       "https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions"
     ],
@@ -137,16 +147,6 @@
     [
       "Interval Calculator",
       "https://victorpoughon.github.io/interval-calculator/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 06:37:22",
-      "https://lobste.rs/s/tqgnx9/fuzzing_as_basis_for_effective"
-    ],
-    [
-      "Fuzzing as the basis for effective development a case study of LuaJIT",
-      "https://www.youtube.com/watch?v=GwHZaynqh98"
     ]
   ],
   [
