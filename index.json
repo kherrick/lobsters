@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 16:00:48",
+      "https://lobste.rs/s/3hamiv/what_is_algebraic_about_algebraic"
+    ],
+    [
+      "What is Algebraic about Algebraic Effects?",
+      "https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 15:55:05",
       "https://lobste.rs/s/twddhr/two_kinds_relicensing"
     ],
@@ -227,16 +237,6 @@
     [
       "Why we didn't rewrite our feed handler in Rust",
       "https://databento.com/blog/why-we-didnt-rewrite-our-feed-handler-in-rust"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 15:45:09",
-      "https://lobste.rs/s/judd2f/handle_trait"
-    ],
-    [
-      "The Handle trait",
-      "https://smallcultfollowing.com/babysteps/blog/2025/10/07/the-handle-trait/"
     ]
   ],
   [
