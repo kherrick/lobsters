@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-10-08, 15:35:55",
+      "https://lobste.rs/s/uaaunl/who_needs_git_when_you_have_1m_context"
+    ],
+    [
+      "Who needs git when you have 1M context windows?",
+      "https://www.alexmolas.com/2025/07/28/unexpected-benefit-llm.html"
+    ]
+  ],
+  [
+    [
       "2025-10-08, 14:18:02",
       "https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain"
     ],
@@ -117,16 +127,6 @@
     [
       "How we found a bug in Go's arm64 compiler",
       "https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/"
-    ]
-  ],
-  [
-    [
-      "2025-10-08, 13:38:37",
-      "https://lobste.rs/s/sdecjj/dewaffling_tech_industry"
-    ],
-    [
-      "Dewaffling the tech industry",
-      "https://deadsimpletech.com/blog/dewaffling_tech"
     ]
   ],
   [
