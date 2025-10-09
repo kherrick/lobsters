@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-09, 06:37:22",
+      "https://lobste.rs/s/tqgnx9/fuzzing_as_basis_for_effective"
+    ],
+    [
+      "Fuzzing as the basis for effective development a case study of LuaJIT",
+      "https://www.youtube.com/watch?v=GwHZaynqh98"
+    ]
+  ],
+  [
+    [
       "2025-10-09, 04:36:36",
       "https://lobste.rs/s/mxpdqp/building_repo_bench"
     ],
@@ -197,16 +207,6 @@
     [
       "Test your README in a fresh VM",
       "https://shkspr.mobi/blog/2025/10/how-to-actually-test-your-readme/"
-    ]
-  ],
-  [
-    [
-      "2025-10-07, 17:46:28",
-      "https://lobste.rs/s/my7z5g/ratcheting_with_postgres_constraint"
-    ],
-    [
-      "Ratcheting with Postgres CONSTRAINT",
-      "https://andrewjudson.com/ratcheting-with-postgres-constraint"
     ]
   ],
   [
