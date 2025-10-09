@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-09, 16:49:22](https://lobste.rs/s/pydvse/fireman_sam_commodore_64) - [Fireman Sam (COMMODORE 64)](http://retrovania-vgjunk.blogspot.com/2016/11/fireman-sam-commodore-64.html)
 * [2025-10-09, 16:00:48](https://lobste.rs/s/3hamiv/what_is_algebraic_about_algebraic) - [What is Algebraic about Algebraic Effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-10-09, 15:55:05](https://lobste.rs/s/twddhr/two_kinds_relicensing) - [Two Kinds of \"Relicensing\"](https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing)
 * [2025-10-09, 15:40:05](https://lobste.rs/s/0j2e2w/write_stuff_concurrent_write) - [The Write Stuff: Concurrent Write Transactions in SQLite](https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/)
@@ -17,7 +18,6 @@
 * [2025-10-08, 18:46:53](https://lobste.rs/s/xg9xxx/julia_v1_12_release_highlights) - [Julia v1.12 release highlights](https://julialang.org/blog/2025/10/julia-1.12-highlights/)
 * [2025-10-08, 17:10:37](https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control) - [Citizen Protest Halts Chat Control](https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/)
 * [2025-10-08, 15:45:53](https://lobste.rs/s/kijyiv/you_re_doing_rails_wrong) - [You're doing Rails wrong](https://www.bananacurvingmachine.com/articles/you-re-doing-rails-wrong)
-* [2025-10-08, 14:18:02](https://lobste.rs/s/85kfgv/next_steps_for_bpf_support_gnu_toolchain) - [Next steps for BPF support in the GNU toolchain](https://lwn.net/SubscriberLink/1039827/538da8eaa032755e/)
 * [2025-10-08, 14:13:14](https://lobste.rs/s/q4g0o0/crowdsourced_console_clocks_proving) - [Crowdsourced console clocks - proving that SNES sound chips run fast with real data](https://www.youtube.com/watch?v=ECMa7rFnQ2w)
 * [2025-10-08, 13:52:18](https://lobste.rs/s/wl2tp2/how_we_found_bug_go_s_arm64_compiler) - [How we found a bug in Go's arm64 compiler](https://blog.cloudflare.com/how-we-found-a-bug-in-gos-arm64-compiler/)
 * [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
