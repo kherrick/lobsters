@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 12:45:22](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-10, 12:23:57](https://lobste.rs/s/bo0chl/new_breed_analyzers) - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/)
 * [2025-10-10, 12:18:34](https://lobste.rs/s/c0w2jq/zig_creator_andrew_kelley) - [Zig Creator Andrew Kelley](https://www.youtube.com/watch?v=w74rC-6caxE)
+* [2025-10-10, 12:18:34](https://lobste.rs/s/c0w2jq/conversation_between_richard_feldman) - [A Conversation Between Richard Feldman (Roc Creator) and Andrew Kelley (Zig Creator)](https://www.youtube.com/watch?v=w74rC-6caxE)
 * [2025-10-10, 12:07:01](https://lobste.rs/s/rzgfoh/automated_lean_proofs_for_every_type) - [Automated Lean Proofs for Every Type](https://www.galois.com/articles/automated-lean-proofs-for-every-type)
 * [2025-10-10, 11:57:58](https://lobste.rs/s/ugohwe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ugohwe/what_are_you_doing_this_weekend)
 * [2025-10-10, 10:04:13](https://lobste.rs/s/tvstaf/building_ntsc_vhs_simulator_2020) - [Building a NTSC/VHS simulator (2020)](https://www.youtube.com/watch?v=t5xF_9qh7Nw)
