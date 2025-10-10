@@ -4,6 +4,7 @@
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 08:59:05](https://lobste.rs/s/gid0gu/critical_window_shadow_libraries_2024) - [The critical window of shadow libraries (2024)](https://annas-archive.org/blog/critical-window.html)
+* [2025-10-10, 08:45:21](https://lobste.rs/s/izvb9b/multi_core_by_default) - [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default)
 * [2025-10-10, 05:28:08](https://lobste.rs/s/vlreib/is_odin_just_more_boring_c) - [Is Odin Just a More Boring C?](https://dayvster.com/blog/is-odin-just-a-more-boring-c/)
 * [2025-10-10, 05:27:58](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith) - [Lobsters Interview with Zdsmith](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith)
 * [2025-10-09, 23:40:48](https://lobste.rs/s/4dzvlr/finding_vs_code_memory_leak) - [Finding a VS Code Memory Leak](https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/)
@@ -24,7 +25,6 @@
 * [2025-10-09, 10:29:38](https://lobste.rs/s/fysgz3/introducing_react_foundation_new_home) - [Introducing the React Foundation: The New Home for React & React Native](https://engineering.fb.com/2025/10/07/open-source/introducing-the-react-foundation-the-new-home-for-react-react-native/)
 * [2025-10-09, 09:52:27](https://lobste.rs/s/ivx7ex/interval_calculator) - [Interval Calculator](https://victorpoughon.github.io/interval-calculator/)
 * [2025-10-08, 17:10:37](https://lobste.rs/s/jljxt2/citizen_protest_halts_chat_control) - [Citizen Protest Halts Chat Control](https://www.patrick-breyer.de/en/citizen-protest-halts-chat-control-breyer-celebrates-major-victory-for-digital-privacy/)
-* [2025-10-08, 12:25:24](https://lobste.rs/s/ykwhqs/programmer_identity_crisis) - [The Programmer Identity Crisis](https://hojberg.xyz/the-programmer-identity-crisis/)
 
 ## [Archives](archives/index.md)
 
