@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 08:59:05](https://lobste.rs/s/gid0gu/critical_window_shadow_libraries_2024) - [The critical window of shadow libraries (2024)](https://annas-archive.org/blog/critical-window.html)
 * [2025-10-10, 08:45:21](https://lobste.rs/s/izvb9b/multi_core_by_default) - [Multi-Core By Default](https://www.rfleury.com/p/multi-core-by-default)
@@ -15,7 +16,6 @@
 * [2025-10-09, 17:06:26](https://lobste.rs/s/dhegkj/fedora_floats_ai_assisted_contributions) - [Fedora floats AI-assisted contributions policy](https://lwn.net/Articles/1039623/)
 * [2025-10-09, 16:00:48](https://lobste.rs/s/3hamiv/what_is_algebraic_about_algebraic) - [What is Algebraic about Algebraic Effects?](https://interjectedfuture.com/what-is-algebraic-about-algebraic-effects/)
 * [2025-10-09, 15:55:05](https://lobste.rs/s/twddhr/two_kinds_relicensing_2023) - [Two Kinds of \"Relicensing\" (2023)](https://writing.kemitchell.com/2023/09/23/Two-Kinds-Relicensing)
-* [2025-10-09, 15:40:05](https://lobste.rs/s/0j2e2w/write_stuff_concurrent_write) - [The Write Stuff: Concurrent Write Transactions in SQLite](https://oldmoe.blog/2024/07/08/the-write-stuff-concurrent-write-transactions-in-sqlite/)
 * [2025-10-09, 15:05:09](https://lobste.rs/s/mczi9m/four_years_five_failures_one_compiler) - [Four years, Five failures, One compiler - The journey](https://daymare.net/blogs/four-years-five-failures-one-compiler/)
 * [2025-10-09, 14:35:18](https://lobste.rs/s/c3dnrm/how_store_ordered_information) - [How to store ordered information in a Relational Database (2015)](https://softwareengineering.stackexchange.com/questions/304593/how-to-store-ordered-information-in-a-relational-database)
 * [2025-10-09, 14:21:16](https://lobste.rs/s/83xufu/solving_git_s_pain_points_with_jujutsu) - [Solving Git's Pain Points with Jujutsu](https://www.youtube.com/watch?v=ulJ_Pw8qqsE)
