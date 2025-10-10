@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-10, 20:29:27](https://lobste.rs/s/acicvd/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/acicvd/what_are_you_reading_this_week)
 * [2025-10-10, 16:25:35](https://lobste.rs/s/h4itq1/igalia_servo_sovereign_tech_fund) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 15:31:42](https://lobste.rs/s/ri7m8b/mesh_shaders_current_year) - [Mesh Shaders In The Current Year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 15:26:54](https://lobste.rs/s/gxtrdn/major_evolution_apple_security_bounty) - [A major evolution of Apple Security Bounty, with the industry's top awards for the most advanced research](https://security.apple.com/blog/apple-security-bounty-evolved/)
@@ -19,7 +20,6 @@
 * [2025-10-10, 05:28:08](https://lobste.rs/s/vlreib/is_odin_just_more_boring_c) - [Is Odin Just a More Boring C?](https://dayvster.com/blog/is-odin-just-a-more-boring-c/)
 * [2025-10-10, 05:27:58](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith) - [Lobsters Interview with Zdsmith](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith)
 * [2025-10-09, 23:01:09](https://lobste.rs/s/esvr7z/github_will_prioritize_migrating_azure) - [GitHub Will Prioritize Migrating to Azure Over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
-* [2025-10-09, 20:38:52](https://lobste.rs/s/6kfcqo/magnolia_interactive_shell_navigation) - [magnolia: Interactive shell navigation and history](https://codeberg.org/mtmn/magnolia)
 * [2025-10-09, 20:08:02](https://lobste.rs/s/yzfo82/making_slint_desktop_ready) - [Making Slint Desktop-Ready](https://slint.dev/blog/making-slint-desktop-ready)
 * [2025-10-09, 19:32:27](https://lobste.rs/s/rwvh6g/examples_are_best_documentation) - [Examples are the best documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 * [2025-10-09, 18:06:53](https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 20:29:27](https://lobste.rs/s/acicvd/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/acicvd/what_are_you_reading_this_week)
 * [2025-10-10, 16:25:35](https://lobste.rs/s/h4itq1/igalia_servo_sovereign_tech_fund) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 15:31:42](https://lobste.rs/s/ri7m8b/mesh_shaders_current_year) - [Mesh Shaders In The Current Year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 15:26:54](https://lobste.rs/s/gxtrdn/major_evolution_apple_security_bounty) - [A major evolution of Apple Security Bounty, with the industry's top awards for the most advanced research](https://security.apple.com/blog/apple-security-bounty-evolved/)
