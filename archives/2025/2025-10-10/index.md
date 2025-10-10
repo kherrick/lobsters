@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 12:23:57](https://lobste.rs/s/bo0chl/new_breed_analyzers) - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/)
+* [2025-10-10, 12:18:34](https://lobste.rs/s/c0w2jq/zig_creator_andrew_kelley) - [Zig Creator Andrew Kelley](https://www.youtube.com/watch?v=w74rC-6caxE)
+* [2025-10-10, 12:07:01](https://lobste.rs/s/rzgfoh/automated_lean_proofs_for_every_type) - [Automated Lean Proofs for Every Type](https://www.galois.com/articles/automated-lean-proofs-for-every-type)
+* [2025-10-10, 11:57:58](https://lobste.rs/s/ugohwe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ugohwe/what_are_you_doing_this_weekend)
 * [2025-10-10, 10:04:13](https://lobste.rs/s/tvstaf/building_ntsc_vhs_simulator_2020) - [Building a NTSC/VHS simulator (2020)](https://www.youtube.com/watch?v=t5xF_9qh7Nw)
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
