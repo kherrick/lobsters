@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-10](index.md)
 
+* [2025-10-10, 10:04:13](https://lobste.rs/s/tvstaf/building_ntsc_vhs_simulator_2020) - [Building a NTSC/VHS simulator (2020)](https://www.youtube.com/watch?v=t5xF_9qh7Nw)
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 08:59:05](https://lobste.rs/s/gid0gu/critical_window_shadow_libraries_2024) - [The critical window of shadow libraries (2024)](https://annas-archive.org/blog/critical-window.html)
