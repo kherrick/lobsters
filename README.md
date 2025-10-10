@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-10, 16:25:35](https://lobste.rs/s/h4itq1/igalia_servo_sovereign_tech_fund) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 15:31:42](https://lobste.rs/s/ri7m8b/mesh_shaders_current_year) - [Mesh Shaders In The Current Year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
 * [2025-10-10, 15:26:54](https://lobste.rs/s/gxtrdn/major_evolution_apple_security_bounty) - [A major evolution of Apple Security Bounty, with the industry's top awards for the most advanced research](https://security.apple.com/blog/apple-security-bounty-evolved/)
 * [2025-10-10, 15:20:04](https://lobste.rs/s/rahklm/notes_on_switching_helix_from_vim) - [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
@@ -24,7 +25,6 @@
 * [2025-10-09, 18:06:53](https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 * [2025-10-09, 14:18:19](https://lobste.rs/s/digojk/intel_s_open_source_strategy_is_changing) - [Intel's Open-Source Strategy Is Changing At Odds With The Ethos Of Open-Source](https://www.phoronix.com/review/intel-open-source-2025)
 * [2025-10-09, 13:53:00](https://lobste.rs/s/dpm6uh/til_python_s_splitlines_does_lot_more_than) - [TIL: Python's splitlines does a lot more than just newlines](https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/)
-* [2025-10-09, 09:52:27](https://lobste.rs/s/ivx7ex/interval_calculator) - [Interval Calculator](https://victorpoughon.github.io/interval-calculator/)
 
 ## [Archives](archives/index.md)
 
