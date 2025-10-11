@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-11, 17:23:46](https://lobste.rs/s/nhbkr0/less_is_more_recursive_reasoning_with) - [Less is More: Recursive Reasoning with Tiny Networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-11, 16:16:43](https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project) - [WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2](https://github.com/BalajeS/WSL-For-FreeBSD)
+* [2025-10-11, 15:42:10](https://lobste.rs/s/ksrmbf/let_s_take_esoteric_programming) - [Let's Take Esoteric Programming Languages Seriously](https://arxiv.org/abs/2505.15327v2)
+* [2025-10-11, 15:09:47](https://lobste.rs/s/kmx1md/monument_engine_jx) - [Monument Engine: Jx](https://www.monument.ai/m/parallel)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
@@ -24,7 +25,6 @@
 * [2025-10-10, 12:23:57](https://lobste.rs/s/bo0chl/new_breed_analyzers) - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/)
 * [2025-10-10, 12:18:34](https://lobste.rs/s/c0w2jq/conversation_between_richard_feldman) - [A Conversation Between Richard Feldman (Roc Creator) and Andrew Kelley (Zig Creator)](https://www.youtube.com/watch?v=w74rC-6caxE)
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
-* [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 
 ## [Archives](archives/index.md)
 
