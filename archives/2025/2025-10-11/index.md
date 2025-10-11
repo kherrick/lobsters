@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 16:16:43](https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project) - [WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2](https://github.com/BalajeS/WSL-For-FreeBSD)
+* [2025-10-11, 15:42:10](https://lobste.rs/s/ksrmbf/let_s_take_esoteric_programming) - [Let's Take Esoteric Programming Languages Seriously](https://arxiv.org/abs/2505.15327v2)
 * [2025-10-11, 15:09:47](https://lobste.rs/s/kmx1md/monument_engine_jx) - [Monument Engine: Jx](https://www.monument.ai/m/parallel)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:13:07](https://lobste.rs/s/amyxjx/async_rust_with_tokio_i_o_streams) - [Async Rust with Tokio I/O Streams: Backpressure, Concurrency, and Ergonomics](https://biriukov.dev/docs/async-rust-tokio-io/1-async-rust-with-tokio-io-streams-backpressure-concurrency-and-ergonomics/)
