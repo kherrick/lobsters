@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-11, 14:13:07",
+      "https://lobste.rs/s/amyxjx/async_rust_with_tokio_i_o_streams"
+    ],
+    [
+      "Async Rust with Tokio I/O Streams: Backpressure, Concurrency, and Ergonomics",
+      "https://biriukov.dev/docs/async-rust-tokio-io/1-async-rust-with-tokio-io-streams-backpressure-concurrency-and-ergonomics/"
+    ]
+  ],
+  [
+    [
+      "2025-10-11, 14:01:35",
+      "https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web"
+    ],
+    [
+      "The European Accessibility Act will make the Web Better for Everyone",
+      "https://denodell.com/blog/a-better-web-for-everyone-everywhere"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 13:43:20",
       "https://lobste.rs/s/w4hbzk/synthetic_aperture_radar_autofocus"
     ],
@@ -47,16 +67,6 @@
     [
       "Eon -  an Effects-based OCaml Nameserver",
       "https://ryan.freumh.org/eon.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 09:20:05",
-      "https://lobste.rs/s/t6z6om/matrix_multiplication_on_blackwell_part"
-    ],
-    [
-      "Matrix Multiplication on Blackwell: Part 4 - Breaking SOTA",
-      "https://www.modular.com/blog/matrix-multiplication-on-blackwell-part-4---breaking-sota"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why I switched from HTMX to Datastar",
       "https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 19:32:27",
-      "https://lobste.rs/s/rwvh6g/examples_are_best_documentation"
-    ],
-    [
-      "Examples are the best documentation",
-      "https://rakhim.exotext.com/examples-are-the-best-documentation"
     ]
   ]
 ]
