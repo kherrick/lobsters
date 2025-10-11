@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-11, 00:51:23",
+      "https://lobste.rs/s/dvfiby/w11_pdp_11_70_cpu_core_soc"
+    ],
+    [
+      "w11: PDP-11/70 CPU core and SoC",
+      "https://github.com/wfjm/w11"
+    ]
+  ],
+  [
+    [
       "2025-10-11, 00:34:02",
       "https://lobste.rs/s/qdgi53/network_storage_scaling"
     ],
@@ -17,6 +27,16 @@
     [
       "Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming",
       "https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/"
+    ]
+  ],
+  [
+    [
+      "2025-10-10, 21:40:09",
+      "https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content"
+    ],
+    [
+      "Why aren't we recording pre-AI content using a PoE (Proof of Existence) protocol?",
+      "https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises",
       "https://words.filippo.io/compromise-survey/"
-    ]
-  ],
-  [
-    [
-      "2025-10-10, 14:04:51",
-      "https://lobste.rs/s/ifalk6/great_software_quality_collapse_how_we"
-    ],
-    [
-      "The Great Software Quality Collapse: How We Normalized Catastrophe",
-      "https://techtrenches.substack.com/p/the-great-software-quality-collapse"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "GitHub Will Prioritize Migrating to Azure Over Feature Development",
       "https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/"
-    ]
-  ],
-  [
-    [
-      "2025-10-09, 20:08:02",
-      "https://lobste.rs/s/yzfo82/making_slint_desktop_ready"
-    ],
-    [
-      "Making Slint Desktop-Ready",
-      "https://slint.dev/blog/making-slint-desktop-ready"
     ]
   ],
   [
