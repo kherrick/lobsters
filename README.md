@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 08:05:45](https://lobste.rs/s/uljytl/debdroid_debian_on_android_v1_1) - [DebDroid - Debian on Android (v1.1)](https://github.com/NICUP14/DebDroid)
 * [2025-10-11, 07:22:09](https://lobste.rs/s/nbfgjk/lavandula_fast_lightweight_web) - [lavandula: A fast, lightweight web framework in C for building modern web applications](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-11, 06:59:16](https://lobste.rs/s/fuzdrf/ocaml_5_4_release_new_features_fixes_more) - [OCaml 5.4 Release: New Features, Fixes, and More](https://tarides.com/blog/2025-10-10-ocaml-5-4-release-new-features-fixes-and-more/)
 * [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
@@ -24,7 +25,6 @@
 * [2025-10-10, 05:27:58](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith) - [Lobsters Interview with Zdsmith](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith)
 * [2025-10-09, 23:01:09](https://lobste.rs/s/esvr7z/github_will_prioritize_migrating_azure) - [GitHub Will Prioritize Migrating to Azure Over Feature Development](https://thenewstack.io/github-will-prioritize-migrating-to-azure-over-feature-development/)
 * [2025-10-09, 19:32:27](https://lobste.rs/s/rwvh6g/examples_are_best_documentation) - [Examples are the best documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
-* [2025-10-09, 18:06:53](https://lobste.rs/s/pds2zb/small_number_samples_can_poison_llms_any) - [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 
 ## [Archives](archives/index.md)
 
