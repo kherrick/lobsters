@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
 * [2025-10-11, 00:51:23](https://lobste.rs/s/dvfiby/w11_pdp_11_70_cpu_core_soc) - [w11: PDP-11/70 CPU core and SoC](https://github.com/wfjm/w11)
 * [2025-10-11, 00:34:02](https://lobste.rs/s/qdgi53/network_storage_scaling) - [Network Storage and Scaling Characteristics of a Distributed Filesystem](https://maknee.github.io/blog/2025/3FS-Performance-Journal-3/)
 * [2025-10-10, 23:13:38](https://lobste.rs/s/597wpm/beyond_ai_hype_guido_van_rossum_on_python_s) - [Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming](https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/)
 * [2025-10-10, 21:40:09](https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content) - [Why aren't we recording pre-AI content using a PoE (Proof of Existence) protocol?](https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content)
-* [2025-10-10, 21:02:41](https://lobste.rs/s/2a0qp0/illegible_nature_software_development) - [The illegible nature of software development talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
 * [2025-10-10, 20:29:27](https://lobste.rs/s/acicvd/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/acicvd/what_are_you_reading_this_week)
 * [2025-10-10, 16:25:35](https://lobste.rs/s/h4itq1/igalia_servo_sovereign_tech_fund) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 15:31:42](https://lobste.rs/s/ri7m8b/mesh_shaders_current_year) - [Mesh Shaders In The Current Year](https://www.supergoodcode.com/mesh-shaders-in-the-current-year/)
