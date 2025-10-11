@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 17:23:46](https://lobste.rs/s/nhbkr0/less_is_more_recursive_reasoning_with) - [Less is More: Recursive Reasoning with Tiny Networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-11, 16:16:43](https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project) - [WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2](https://github.com/BalajeS/WSL-For-FreeBSD)
-* [2025-10-11, 15:42:10](https://lobste.rs/s/ksrmbf/let_s_take_esoteric_programming) - [Let's Take Esoteric Programming Languages Seriously](https://arxiv.org/abs/2505.15327v2)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
