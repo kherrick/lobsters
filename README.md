@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 08:25:20](https://lobste.rs/s/eakigd/html_s_best_kept_secret_output_tag) - [HTML’s Best Kept Secret: The output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 08:05:45](https://lobste.rs/s/uljytl/debdroid_debian_on_android_v1_1) - [DebDroid - Debian on Android (v1.1)](https://github.com/NICUP14/DebDroid)
 * [2025-10-11, 07:22:09](https://lobste.rs/s/nbfgjk/lavandula_fast_lightweight_web) - [lavandula: A fast, lightweight web framework in C for building modern web applications](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-11, 06:59:16](https://lobste.rs/s/fuzdrf/ocaml_5_4_release_new_features_fixes_more) - [OCaml 5.4 Release: New Features, Fixes, and More](https://tarides.com/blog/2025-10-10-ocaml-5-4-release-new-features-fixes-and-more/)
 * [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
 * [2025-10-11, 00:51:23](https://lobste.rs/s/dvfiby/w11_pdp_11_70_cpu_core_soc) - [w11: PDP-11/70 CPU core and SoC](https://github.com/wfjm/w11)
-* [2025-10-11, 00:34:02](https://lobste.rs/s/qdgi53/network_storage_scaling) - [Network Storage and Scaling Characteristics of a Distributed Filesystem](https://maknee.github.io/blog/2025/3FS-Performance-Journal-3/)
 * [2025-10-10, 23:13:38](https://lobste.rs/s/597wpm/beyond_ai_hype_guido_van_rossum_on_python_s) - [Beyond the AI Hype: Guido van Rossum on Python’s Philosophy, Simplicity, and the Future of Programming](https://www.odbms.org/blog/2025/10/beyond-the-ai-hype-guido-van-rossum-on-pythons-philosophy-simplicity-and-the-future-of-programming/)
 * [2025-10-10, 21:40:09](https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content) - [Why aren't we recording pre-AI content using a PoE (Proof of Existence) protocol?](https://lobste.rs/s/qurbh4/why_aren_t_we_recording_pre_ai_content)
 * [2025-10-10, 21:02:41](https://lobste.rs/s/2a0qp0/illegible_nature_software_development) - [The illegible nature of software development talent](https://surfingcomplexity.blog/2025/10/08/the-illegible-nature-of-software-development-talent/)
