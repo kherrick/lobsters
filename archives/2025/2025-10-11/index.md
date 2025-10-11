@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
+* [2025-10-11, 15:09:47](https://lobste.rs/s/kmx1md/monument_engine_jx) - [Monument Engine: Jx](https://www.monument.ai/m/parallel)
+* [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:13:07](https://lobste.rs/s/amyxjx/async_rust_with_tokio_i_o_streams) - [Async Rust with Tokio I/O Streams: Backpressure, Concurrency, and Ergonomics](https://biriukov.dev/docs/async-rust-tokio-io/1-async-rust-with-tokio-io-streams-backpressure-concurrency-and-ergonomics/)
 * [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
 * [2025-10-11, 13:43:20](https://lobste.rs/s/w4hbzk/synthetic_aperture_radar_autofocus) - [Synthetic aperture radar autofocus and calibration](https://hforsten.com/synthetic-aperture-radar-autofocus-and-calibration.html)

@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 15:09:47](https://lobste.rs/s/kmx1md/monument_engine_jx) - [Monument Engine: Jx](https://www.monument.ai/m/parallel)
+* [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:13:07](https://lobste.rs/s/amyxjx/async_rust_with_tokio_i_o_streams) - [Async Rust with Tokio I/O Streams: Backpressure, Concurrency, and Ergonomics](https://biriukov.dev/docs/async-rust-tokio-io/1-async-rust-with-tokio-io-streams-backpressure-concurrency-and-ergonomics/)
-* [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-11, 10:51:44](https://lobste.rs/s/jlbbjo/on_health_effects_electromagnetic) - [On the Health Effects of Electromagnetic Radiation](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
@@ -22,7 +23,6 @@
 * [2025-10-10, 12:45:22](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-10, 12:23:57](https://lobste.rs/s/bo0chl/new_breed_analyzers) - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/)
 * [2025-10-10, 12:18:34](https://lobste.rs/s/c0w2jq/conversation_between_richard_feldman) - [A Conversation Between Richard Feldman (Roc Creator) and Andrew Kelley (Zig Creator)](https://www.youtube.com/watch?v=w74rC-6caxE)
-* [2025-10-10, 11:57:58](https://lobste.rs/s/ugohwe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ugohwe/what_are_you_doing_this_weekend)
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 
