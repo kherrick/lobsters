@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-11](index.md)
 
 * [2025-10-11, 22:45:23](https://lobste.rs/s/juxp61/testing_two_18_tb_white_label_sata_hard) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
+* [2025-10-11, 22:05:46](https://lobste.rs/s/qh6frl/tinymist_is_integrated_language_service) - [Tinymist is an integrated language service for Typst](https://myriad-dreamin.github.io/tinymist/)
 * [2025-10-11, 21:10:55](https://lobste.rs/s/qar3sx/burrows_wheeler_transform_bwt) - [Burrows-Wheeler Transform (BWT)](https://sandbox.bio/concepts/bwt)
 * [2025-10-11, 17:23:46](https://lobste.rs/s/nhbkr0/less_is_more_recursive_reasoning_with) - [Less is More: Recursive Reasoning with Tiny Networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-11, 16:16:43](https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project) - [WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2](https://github.com/BalajeS/WSL-For-FreeBSD)
