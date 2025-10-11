@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 09:20:05](https://lobste.rs/s/t6z6om/matrix_multiplication_on_blackwell_part) - [Matrix Multiplication on Blackwell: Part 4 - Breaking SOTA](https://www.modular.com/blog/matrix-multiplication-on-blackwell-part-4---breaking-sota)
 * [2025-10-11, 08:25:20](https://lobste.rs/s/eakigd/html_s_best_kept_secret_output_tag) - [HTML’s Best Kept Secret: The output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 08:05:45](https://lobste.rs/s/uljytl/debdroid_debian_on_android_v1_1) - [DebDroid - Debian on Android (v1.1)](https://github.com/NICUP14/DebDroid)
 * [2025-10-11, 07:22:09](https://lobste.rs/s/nbfgjk/lavandula_fast_lightweight_web) - [lavandula: A fast, lightweight web framework in C for building modern web applications](https://github.com/ashtonjamesd/lavandula)
@@ -13,7 +14,6 @@
 * [2025-10-10, 16:25:35](https://lobste.rs/s/h4itq1/igalia_servo_sovereign_tech_fund) - [Igalia, Servo, and the Sovereign Tech Fund](https://www.igalia.com/2025/10/09/Igalia,-Servo,-and-the-Sovereign-Tech-Fund.html)
 * [2025-10-10, 15:26:54](https://lobste.rs/s/gxtrdn/major_evolution_apple_security_bounty) - [A major evolution of Apple Security Bounty, with the industry's top awards for the most advanced research](https://security.apple.com/blog/apple-security-bounty-evolved/)
 * [2025-10-10, 15:20:04](https://lobste.rs/s/rahklm/notes_on_switching_helix_from_vim) - [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
-* [2025-10-10, 15:05:20](https://lobste.rs/s/0ua1s5/retrospective_survey_2024_2025_open) - [A Retrospective Survey of 2024/2025 Open Source Supply Chain Compromises](https://words.filippo.io/compromise-survey/)
 * [2025-10-10, 13:23:09](https://lobste.rs/s/wtmahb/year_gentoo) - [A Year of Gentoo](https://arch.dog/bark/year-of-gentoo)
 * [2025-10-10, 12:45:22](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 * [2025-10-10, 12:23:57](https://lobste.rs/s/bo0chl/new_breed_analyzers) - [A new breed of analyzers](https://daniel.haxx.se/blog/2025/10/10/a-new-breed-of-analyzers/)
