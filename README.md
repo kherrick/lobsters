@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-11, 10:51:44](https://lobste.rs/s/jlbbjo/on_health_effects_electromagnetic) - [On the Health Effects of Electromagnetic Radiation](https://huijzer.xyz/posts/98/printing-a-book-at-home-with-minimal-equipment)
 * [2025-10-11, 10:00:51](https://lobste.rs/s/9xnt9k/eon_effects_based_ocaml_nameserver) - [Eon -  an Effects-based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 09:20:05](https://lobste.rs/s/t6z6om/matrix_multiplication_on_blackwell_part) - [Matrix Multiplication on Blackwell: Part 4 - Breaking SOTA](https://www.modular.com/blog/matrix-multiplication-on-blackwell-part-4---breaking-sota)
@@ -23,7 +24,6 @@
 * [2025-10-10, 09:44:44](https://lobste.rs/s/whbfzn/programming_sun_year_with_daylight) - [Programming in the Sun: A Year with the Daylight Computer](https://wickstrom.tech/2025-10-10-programming-in-the-sun-a-year-with-the-daylight-computer.html)
 * [2025-10-10, 09:32:31](https://lobste.rs/s/nx57oo/why_i_switched_from_htmx_datastar) - [Why I switched from HTMX to Datastar](https://everydaysuperpowers.dev/articles/why-i-switched-from-htmx-to-datastar/)
 * [2025-10-10, 05:28:08](https://lobste.rs/s/vlreib/is_odin_just_more_boring_c) - [Is Odin Just a More Boring C?](https://dayvster.com/blog/is-odin-just-a-more-boring-c/)
-* [2025-10-10, 05:27:58](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith) - [Lobsters Interview with Zdsmith](https://lobste.rs/s/p8hshz/lobsters_interview_with_zdsmith)
 * [2025-10-09, 19:32:27](https://lobste.rs/s/rwvh6g/examples_are_best_documentation) - [Examples are the best documentation](https://rakhim.exotext.com/examples-are-the-best-documentation)
 
 ## [Archives](archives/index.md)
