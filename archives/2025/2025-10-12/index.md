@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-12](index.md)
 
+* [2025-10-12, 20:59:31](https://lobste.rs/s/8jcoxk/django_introducing_django_http) - [Django: Introducing django-http-compression - Adam Johnson](https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/)
 * [2025-10-12, 20:55:10](https://lobste.rs/s/1zi5g0/why_2025_do_we_still_need_3rd_party_app) - [Why, in 2025, do we still need a 3rd party app to write a REST API with Django?](https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html)
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)

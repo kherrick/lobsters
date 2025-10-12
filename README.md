@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-12, 20:59:31](https://lobste.rs/s/8jcoxk/django_introducing_django_http) - [Django: Introducing django-http-compression - Adam Johnson](https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/)
 * [2025-10-12, 20:55:10](https://lobste.rs/s/1zi5g0/why_2025_do_we_still_need_3rd_party_app) - [Why, in 2025, do we still need a 3rd party app to write a REST API with Django?](https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html)
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
@@ -19,7 +20,6 @@
 * [2025-10-12, 06:15:21](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong) - [Three ways \"formally verified\" can go wrong](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-11, 23:54:00](https://lobste.rs/s/iktkkz/lineageos_23_released) - [LineageOS 23 released](https://lineageos.org/Changelog-30/)
 * [2025-10-11, 22:45:23](https://lobste.rs/s/juxp61/testing_two_18_tb_white_label_sata_hard) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
-* [2025-10-11, 22:05:46](https://lobste.rs/s/qh6frl/tinymist_is_integrated_language_service) - [Tinymist is an integrated language service for Typst](https://myriad-dreamin.github.io/tinymist/)
 * [2025-10-11, 21:10:55](https://lobste.rs/s/qar3sx/burrows_wheeler_transform_bwt) - [Burrows-Wheeler Transform (BWT)](https://sandbox.bio/concepts/bwt)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
