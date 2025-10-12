@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-12, 08:33:21](https://lobste.rs/s/gocddb/switch_jujutsu_already_tutorial) - [Switch to Jujutsu already: a tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
 * [2025-10-12, 07:10:44](https://lobste.rs/s/op8abx/sharp_bilinear_filters_big_clean_pixels) - [Sharp Bilinear Filters: Big Clean Pixels for Pixel Art](https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/)
 * [2025-10-12, 06:15:21](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong) - [Three ways \"formally verified\" can go wrong](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-12, 06:00:47](https://lobste.rs/s/3t8fuz/ksmbd_exploiting_cve_2025_37947) - [ksmbd - Exploiting CVE-2025-37947](https://blog.doyensec.com/2025/10/08/ksmbd-3.html)
@@ -16,7 +17,6 @@
 * [2025-10-11, 10:00:51](https://lobste.rs/s/9xnt9k/eon_effects_based_ocaml_nameserver) - [Eon -  an Effects-based OCaml Nameserver](https://ryan.freumh.org/eon.html)
 * [2025-10-11, 08:25:20](https://lobste.rs/s/eakigd/html_s_best_kept_secret_output_tag) - [HTML’s Best Kept Secret: The output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
 * [2025-10-11, 08:05:45](https://lobste.rs/s/uljytl/debdroid_debian_on_android_v1_1) - [DebDroid - Debian on Android (v1.1)](https://github.com/NICUP14/DebDroid)
-* [2025-10-11, 07:22:09](https://lobste.rs/s/nbfgjk/lavandula_fast_lightweight_web) - [lavandula: A fast, lightweight web framework in C for building modern web applications](https://github.com/ashtonjamesd/lavandula)
 * [2025-10-11, 06:59:16](https://lobste.rs/s/fuzdrf/ocaml_5_4_release_new_features_fixes_more) - [OCaml 5.4 Release: New Features, Fixes, and More](https://tarides.com/blog/2025-10-10-ocaml-5-4-release-new-features-fixes-and-more/)
 * [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
