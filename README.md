@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 19:45:32](https://lobste.rs/s/co9e3q/c2bf_c_brainfuck_compiler_written_rust) - [C2BF: A C-to-Brainfuck compiler written in Rust](https://iacgm.pages.dev/posts/c2bf/)
 * [2025-10-12, 19:34:49](https://lobste.rs/s/0arodz/next_js_is_not_good_fit_for_vibe) - [Next.js is not a good fit for vibe engineering](https://fabianlindfors.se/blog/nextjs-vibe-engineering/)
@@ -24,7 +25,6 @@
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-11, 08:25:20](https://lobste.rs/s/eakigd/html_s_best_kept_secret_output_tag) - [HTML’s Best Kept Secret: The output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
-* [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
 
 ## [Archives](archives/index.md)
 
