@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-12, 20:11:37",
+      "https://lobste.rs/s/kz6gvo/abstraction_not_syntax"
+    ],
+    [
+      "Abstraction, not syntax",
+      "https://ruudvanasseldonk.com/2025/abstraction-not-syntax"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 19:45:32",
       "https://lobste.rs/s/co9e3q/c2bf_c_brainfuck_compiler_written_rust"
     ],
@@ -177,16 +187,6 @@
     [
       "Burrows-Wheeler Transform (BWT)",
       "https://sandbox.bio/concepts/bwt"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 16:16:43",
-      "https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project"
-    ],
-    [
-      "WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2",
-      "https://github.com/BalajeS/WSL-For-FreeBSD"
     ]
   ],
   [
