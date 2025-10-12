@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-12](index.md)
 
+* [2025-10-12, 17:03:09](https://lobste.rs/s/r3p9pm/from_source_sorcery_kotlin_native_s) - [From Source to Sorcery - Kotlin Native's Interop Magic](https://staticvar.dev/post/kotlin-native-c-interop/)
+* [2025-10-12, 16:59:46](https://lobste.rs/s/l6yqm8/country_broke_kotlin) - [The Country That Broke Kotlin](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 16:22:42](https://lobste.rs/s/0entkb/introducing_oavif_faster_target_quality) - [Introducing oavif: faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
 * [2025-10-12, 14:43:09](https://lobste.rs/s/alkdsb/fzf_0_66_0_introduces_raw_mode) - [fzf 0.66.0 introduces “--raw mode”](https://github.com/junegunn/fzf/releases/tag/v0.66.0)
 * [2025-10-12, 14:12:34](https://lobste.rs/s/2dhvwd/i_d_like_speak_bellcore_manager) - [I'd like to speak to the Bellcore ManaGeR](https://www.ninakalinina.com/notes/mgr/)
