@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-12, 19:34:49](https://lobste.rs/s/0arodz/next_js_is_not_good_fit_for_vibe) - [Next.js is not a good fit for vibe engineering](https://fabianlindfors.se/blog/nextjs-vibe-engineering/)
 * [2025-10-12, 18:39:05](https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize) - [Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
 * [2025-10-12, 18:02:59](https://lobste.rs/s/hy5a0e/satisfaction_render_pipelines) - [Satisfaction of Render Pipelines](https://azeemba.com/posts/satisfaction-of-render-pipelines.html)
 * [2025-10-12, 17:03:09](https://lobste.rs/s/r3p9pm/from_source_sorcery_kotlin_native_s) - [From Source to Sorcery - Kotlin Native's Interop Magic](https://staticvar.dev/post/kotlin-native-c-interop/)
@@ -16,7 +17,6 @@
 * [2025-10-11, 22:45:23](https://lobste.rs/s/juxp61/testing_two_18_tb_white_label_sata_hard) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
 * [2025-10-11, 22:05:46](https://lobste.rs/s/qh6frl/tinymist_is_integrated_language_service) - [Tinymist is an integrated language service for Typst](https://myriad-dreamin.github.io/tinymist/)
 * [2025-10-11, 21:10:55](https://lobste.rs/s/qar3sx/burrows_wheeler_transform_bwt) - [Burrows-Wheeler Transform (BWT)](https://sandbox.bio/concepts/bwt)
-* [2025-10-11, 17:23:46](https://lobste.rs/s/nhbkr0/less_is_more_recursive_reasoning_with) - [Less is More: Recursive Reasoning with Tiny Networks](https://alexiajm.github.io/2025/09/29/tiny_recursive_models.html)
 * [2025-10-11, 16:16:43](https://lobste.rs/s/favaj0/wsl_for_freebsd_experimental_project) - [WSL-For-FreeBSD: Experimental project to FreeBSD in WSL2](https://github.com/BalajeS/WSL-For-FreeBSD)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
