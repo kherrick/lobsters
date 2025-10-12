@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-12, 20:55:10](https://lobste.rs/s/1zi5g0/why_2025_do_we_still_need_3rd_party_app) - [Why, in 2025, do we still need a 3rd party app to write a REST API with Django?](https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html)
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 19:45:32](https://lobste.rs/s/co9e3q/c2bf_c_brainfuck_compiler_written_rust) - [C2BF: A C-to-Brainfuck compiler written in Rust](https://iacgm.pages.dev/posts/c2bf/)
@@ -21,7 +22,6 @@
 * [2025-10-11, 22:05:46](https://lobste.rs/s/qh6frl/tinymist_is_integrated_language_service) - [Tinymist is an integrated language service for Typst](https://myriad-dreamin.github.io/tinymist/)
 * [2025-10-11, 21:10:55](https://lobste.rs/s/qar3sx/burrows_wheeler_transform_bwt) - [Burrows-Wheeler Transform (BWT)](https://sandbox.bio/concepts/bwt)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
-* [2025-10-11, 14:01:35](https://lobste.rs/s/tvxihj/european_accessibility_act_will_make_web) - [The European Accessibility Act will make the Web Better for Everyone](https://denodell.com/blog/a-better-web-for-everyone-everywhere)
 * [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 * [2025-10-11, 08:25:20](https://lobste.rs/s/eakigd/html_s_best_kept_secret_output_tag) - [HTML’s Best Kept Secret: The output Tag](https://denodell.com/blog/html-best-kept-secret-output-tag)
