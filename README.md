@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-12, 14:12:34](https://lobste.rs/s/2dhvwd/i_d_like_speak_bellcore_manager) - [I'd like to speak to the Bellcore ManaGeR](https://www.ninakalinina.com/notes/mgr/)
 * [2025-10-12, 10:20:52](https://lobste.rs/s/uxfzzv/reason_gcc_is_not_library_2000) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-12, 09:53:29](https://lobste.rs/s/jd4tj8/my_django_on_med_2025) - [My Django On The Med 2025](https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/)
 * [2025-10-12, 08:33:21](https://lobste.rs/s/gocddb/switch_jujutsu_already_tutorial) - [Switch to Jujutsu already: a tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
@@ -23,7 +24,6 @@
 * [2025-10-11, 04:48:04](https://lobste.rs/s/nlx08o/why_it_took_4_years_get_lock_files) - [Why it took 4 years to get a lock files specification](https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/)
 * [2025-10-11, 04:27:52](https://lobste.rs/s/jrb9as/bun_1_3) - [Bun 1.3](https://bun.com/blog/bun-v1.3)
 * [2025-10-10, 15:20:04](https://lobste.rs/s/rahklm/notes_on_switching_helix_from_vim) - [Notes on switching to Helix from vim](https://jvns.ca/blog/2025/10/10/notes-on-switching-to-helix-from-vim/)
-* [2025-10-10, 13:23:09](https://lobste.rs/s/wtmahb/year_gentoo) - [A Year of Gentoo](https://arch.dog/bark/year-of-gentoo)
 * [2025-10-10, 12:45:22](https://lobste.rs/s/cireck/how_check_for_overlapping_intervals) - [How to check for overlapping intervals](https://zayenz.se/blog/post/how-to-check-for-overlapping-intervals/)
 
 ## [Archives](archives/index.md)
