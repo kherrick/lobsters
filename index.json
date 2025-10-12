@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-12, 20:59:31",
+      "https://lobste.rs/s/8jcoxk/django_introducing_django_http"
+    ],
+    [
+      "Django: Introducing django-http-compression - Adam Johnson",
+      "https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/"
+    ]
+  ],
+  [
+    [
       "2025-10-12, 20:55:10",
       "https://lobste.rs/s/1zi5g0/why_2025_do_we_still_need_3rd_party_app"
     ],
@@ -187,16 +197,6 @@
     [
       "Testing two 18 TB white label SATA hard drives from datablocks.dev",
       "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 22:05:46",
-      "https://lobste.rs/s/qh6frl/tinymist_is_integrated_language_service"
-    ],
-    [
-      "Tinymist is an integrated language service for Typst",
-      "https://myriad-dreamin.github.io/tinymist/"
     ]
   ],
   [
