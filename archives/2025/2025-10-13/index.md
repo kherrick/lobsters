@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 10:22:50](https://lobste.rs/s/b6x3lb/it_is_war_out_there_take_control_your) - [It Is A War Out There - Take Control of Your Supply Lines with HtDTY](https://sheep.horse/2025/10/it_is_a_war_out_there_-_take_control_of_your_suppl.html)
+* [2025-10-13, 10:21:21](https://lobste.rs/s/e8rzg7/matrices_can_be_your_friends) - [Matrices can be your Friends](https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html)
+* [2025-10-13, 10:20:43](https://lobste.rs/s/1lmxut/revisiting_sailfishos) - [Revisiting SailfishOS](https://geekyschmidt.com/post/sailfishos-sept25/)
 * [2025-10-13, 09:25:26](https://lobste.rs/s/do4tt3/smolbsd_build_your_own_minimal_bsd_system) - [smolBSD — build your own minimal BSD system](https://smolbsd.org)
 * [2025-10-13, 09:11:47](https://lobste.rs/s/0iwpkr/little_random_could) - [The little Random that could](https://blog.julik.nl/2025/10/the-little-random-that-could)
 * [2025-10-13, 08:17:29](https://lobste.rs/s/4y8nzp/strudel_repl_music_live_coding) - [Strudel REPL - a music live coding environment living in the browser](https://strudel.cc)
