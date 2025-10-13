@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 23:49:52](https://lobste.rs/s/9wr3ae/flash_shell_parser_formatter) - [Flash: shell parser, formatter, and interpreter written in Rust](https://github.com/raphamorim/flash)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
-* [2025-10-13, 20:43:35](https://lobste.rs/s/1dkfoh/push_button_using_luajit_ffi) - [Push the Button: Using LuaJIT + FFI + CoreBluetooth with an async design to automate a trivial task](https://github.com/mogenson/switchbot.lua)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-13, 14:48:37](https://lobste.rs/s/auldc4/litex_first_formal_language_learnable_2) - [Litex: The First Formal Language Learnable in 2 Hours](https://litexlang.com/)
