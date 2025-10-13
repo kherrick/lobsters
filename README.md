@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 09:25:26](https://lobste.rs/s/do4tt3/smolbsd_build_your_own_minimal_bsd_system) - [smolBSD — build your own minimal BSD system](https://smolbsd.org)
 * [2025-10-13, 09:11:47](https://lobste.rs/s/0iwpkr/little_random_could) - [The little Random that could](https://blog.julik.nl/2025/10/the-little-random-that-could)
 * [2025-10-13, 08:17:29](https://lobste.rs/s/4y8nzp/strudel_repl_music_live_coding) - [Strudel REPL - a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 06:37:00](https://lobste.rs/s/ia6vhh/git_developers_talk_about_potentially) - [Git Developers Talk About Potentially Releasing Git 3.0 By The End Of Next Year](https://www.phoronix.com/news/Git-3.0-Release-Talk-2026)
@@ -22,7 +23,6 @@
 * [2025-10-12, 10:20:52](https://lobste.rs/s/uxfzzv/reason_gcc_is_not_library_2000) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-12, 08:33:21](https://lobste.rs/s/gocddb/switch_jujutsu_already_tutorial) - [Switch to Jujutsu already: a tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
 * [2025-10-12, 06:15:21](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong) - [Three ways \"formally verified\" can go wrong](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
-* [2025-10-11, 23:54:00](https://lobste.rs/s/iktkkz/lineageos_23_released) - [LineageOS 23 released](https://lineageos.org/Changelog-30/)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
 * [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 
