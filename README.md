@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 11:45:00](https://lobste.rs/s/bf7uhe/free_software_hasn_t_won) - [Free Software hasn't won](https://dorotac.eu/posts/fosswon/)
+* [2025-10-13, 11:36:36](https://lobste.rs/s/4zj64w/why_did_containers_happen_view_from_ten) - [Why did containers happen? A view from ten years in the trenches by Docker's former CTO Justin Cormack](https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/)
 * [2025-10-13, 10:36:15](https://lobste.rs/s/an26tn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/an26tn/what_are_you_doing_this_week)
 * [2025-10-13, 10:28:47](https://lobste.rs/s/tgfo9p/thoughts_on_remix_3) - [Thoughts on Remix 3](https://frantic.im/remix-3/)
 * [2025-10-13, 10:22:50](https://lobste.rs/s/b6x3lb/it_is_war_out_there_take_control_your) - [It Is A War Out There - Take Control of Your Supply Lines with HtDTY](https://sheep.horse/2025/10/it_is_a_war_out_there_-_take_control_of_your_suppl.html)
@@ -14,7 +16,6 @@
 * [2025-10-13, 05:28:58](https://lobste.rs/s/zoapek/find_where_specific_object_was_allocated) - [Find where a specific object was allocated in JavaScript with DevTools](http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/)
 * [2025-10-13, 04:06:29](https://lobste.rs/s/8dsiow/wireguard_fpga) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 * [2025-10-13, 00:07:56](https://lobste.rs/s/ngjqsm/nsa_ietf_can_attacker_simply_purchase) - [NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
-* [2025-10-12, 20:55:10](https://lobste.rs/s/1zi5g0/why_2025_do_we_still_need_3rd_party_app) - [Why, in 2025, do we still need a 3rd party app to write a REST API with Django?](https://emma.has-a.blog/articles/why-do-we-need-an-external-app-for-rest.html)
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 18:39:05](https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize) - [Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
@@ -24,7 +25,6 @@
 * [2025-10-12, 14:12:34](https://lobste.rs/s/2dhvwd/i_d_like_speak_bellcore_manager) - [I'd like to speak to the Bellcore ManaGeR](https://www.ninakalinina.com/notes/mgr/)
 * [2025-10-12, 10:20:52](https://lobste.rs/s/uxfzzv/reason_gcc_is_not_library_2000) - [The reason GCC is not a library (2000)](https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html)
 * [2025-10-12, 08:33:21](https://lobste.rs/s/gocddb/switch_jujutsu_already_tutorial) - [Switch to Jujutsu already: a tutorial](https://www.stavros.io/posts/switch-to-jujutsu-already-a-tutorial/)
-* [2025-10-12, 06:15:21](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong) - [Three ways \"formally verified\" can go wrong](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 
 ## [Archives](archives/index.md)
 
