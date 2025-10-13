@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 06:37:00](https://lobste.rs/s/ia6vhh/git_developers_talk_about_potentially) - [Git Developers Talk About Potentially Releasing Git 3.0 By The End Of Next Year](https://www.phoronix.com/news/Git-3.0-Release-Talk-2026)
+* [2025-10-13, 06:32:41](https://lobste.rs/s/jr6zfo/critical_github_copilot_vulnerability) - [Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
 * [2025-10-13, 05:51:08](https://lobste.rs/s/7q2c0r/jit_so_you_want_be_faster_than_interpreter) - [JIT: so you want to be faster than an interpreter on modern CPUs…](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-13, 05:28:58](https://lobste.rs/s/zoapek/find_where_specific_object_was_allocated) - [Find where a specific object was allocated in JavaScript with DevTools](http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/)
 * [2025-10-13, 04:08:32](https://lobste.rs/s/goaosf/debugging_go_runtime_crash_one) - [Debugging a Go runtime crash: the one-instruction window](https://www.nsrip.com/posts/oneinstruction.html)
@@ -10,8 +12,8 @@
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 19:45:32](https://lobste.rs/s/co9e3q/c2bf_c_brainfuck_compiler_written_rust) - [C2BF: A C-to-Brainfuck compiler written in Rust](https://iacgm.pages.dev/posts/c2bf/)
+* [2025-10-12, 19:34:49](https://lobste.rs/s/0arodz/next_js_is_not_good_fit_for_vibe) - [Next.js is not a good fit for vibe engineering](https://fabianlindfors.se/blog/nextjs-vibe-engineering/)
 * [2025-10-12, 18:39:05](https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize) - [Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
-* [2025-10-12, 18:02:59](https://lobste.rs/s/hy5a0e/satisfaction_render_pipelines) - [Satisfaction of Render Pipelines](https://azeemba.com/posts/satisfaction-of-render-pipelines.html)
 * [2025-10-12, 16:59:46](https://lobste.rs/s/l6yqm8/country_broke_kotlin) - [The Country That Broke Kotlin](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 16:22:42](https://lobste.rs/s/0entkb/introducing_oavif_faster_target_quality) - [Introducing oavif: faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
 * [2025-10-12, 14:43:09](https://lobste.rs/s/alkdsb/fzf_0_66_0_introduces_raw_mode) - [fzf 0.66.0 introduces “--raw mode”](https://github.com/junegunn/fzf/releases/tag/v0.66.0)
@@ -21,9 +23,7 @@
 * [2025-10-12, 07:10:44](https://lobste.rs/s/op8abx/sharp_bilinear_filters_big_clean_pixels) - [Sharp Bilinear Filters: Big Clean Pixels for Pixel Art](https://bumbershootsoft.wordpress.com/2025/10/11/sharp-bilinear-filters-big-clean-pixels-for-pixel-art/)
 * [2025-10-12, 06:15:21](https://lobste.rs/s/saj9h2/three_ways_formally_verified_can_go_wrong) - [Three ways \"formally verified\" can go wrong](https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/)
 * [2025-10-11, 23:54:00](https://lobste.rs/s/iktkkz/lineageos_23_released) - [LineageOS 23 released](https://lineageos.org/Changelog-30/)
-* [2025-10-11, 22:45:23](https://lobste.rs/s/juxp61/testing_two_18_tb_white_label_sata_hard) - [Testing two 18 TB white label SATA hard drives from datablocks.dev](https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/)
 * [2025-10-11, 15:02:50](https://lobste.rs/s/pkqgq6/vibing_non_trivial_ghostty_feature) - [Vibing a Non-Trivial Ghostty Feature](https://mitchellh.com/writing/non-trivial-vibing)
-* [2025-10-11, 12:03:46](https://lobste.rs/s/lcfs1n/dijkstra_on_foolishness_natural) - [Dijkstra on the foolishness of natural language programming (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 * [2025-10-11, 11:44:57](https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability) - [Liquid Glass Is Cracked, and Usability Suffers in iOS 26](https://www.nngroup.com/articles/liquid-glass/)
 
 ## [Archives](archives/index.md)
