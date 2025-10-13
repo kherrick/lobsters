@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 12:09:59](https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 11:45:00](https://lobste.rs/s/bf7uhe/free_software_hasn_t_won) - [Free Software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-13, 11:36:36](https://lobste.rs/s/4zj64w/why_did_containers_happen_view_from_ten) - [Why did containers happen? A view from ten years in the trenches by Docker's former CTO Justin Cormack](https://buttondown.com/justincormack/archive/ignore-previous-directions-8-devopsdays/)
 * [2025-10-13, 10:36:15](https://lobste.rs/s/an26tn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/an26tn/what_are_you_doing_this_week)
