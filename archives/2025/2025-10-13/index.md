@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-13, 12:47:01](https://lobste.rs/s/wqhj5b/octothorpes) - [Octothorpes](https://octothorp.es)
 * [2025-10-13, 12:09:59](https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 11:45:00](https://lobste.rs/s/bf7uhe/free_software_hasn_t_won) - [Free Software hasn't won](https://dorotac.eu/posts/fosswon/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-13, 12:47:01](https://lobste.rs/s/wqhj5b/octothorpes) - [Octothorpes](https://octothorp.es)
 * [2025-10-13, 12:09:59](https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 11:45:00](https://lobste.rs/s/bf7uhe/free_software_hasn_t_won) - [Free Software hasn't won](https://dorotac.eu/posts/fosswon/)
@@ -19,7 +20,6 @@
 * [2025-10-13, 00:07:56](https://lobste.rs/s/ngjqsm/nsa_ietf_can_attacker_simply_purchase) - [NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
-* [2025-10-12, 18:39:05](https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize) - [Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
 * [2025-10-12, 16:59:46](https://lobste.rs/s/l6yqm8/country_broke_kotlin) - [The Country That Broke Kotlin](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 * [2025-10-12, 16:22:42](https://lobste.rs/s/0entkb/introducing_oavif_faster_target_quality) - [Introducing oavif: faster target quality image compression](https://giannirosato.com/blog/post/oavif/)
 * [2025-10-12, 14:43:09](https://lobste.rs/s/alkdsb/fzf_0_66_0_introduces_raw_mode) - [fzf 0.66.0 introduces “--raw mode”](https://github.com/junegunn/fzf/releases/tag/v0.66.0)
