@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-13, 05:51:08",
+      "https://lobste.rs/s/7q2c0r/jit_so_you_want_be_faster_than_interpreter"
+    ],
+    [
+      "JIT: so you want to be faster than an interpreter on modern CPUs…",
+      "https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 05:28:58",
       "https://lobste.rs/s/zoapek/find_where_specific_object_was_allocated"
     ],
@@ -87,16 +97,6 @@
     [
       "C2BF: A C-to-Brainfuck compiler written in Rust",
       "https://iacgm.pages.dev/posts/c2bf/"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 19:34:49",
-      "https://lobste.rs/s/0arodz/next_js_is_not_good_fit_for_vibe"
-    ],
-    [
-      "Next.js is not a good fit for vibe engineering",
-      "https://fabianlindfors.se/blog/nextjs-vibe-engineering/"
     ]
   ],
   [
