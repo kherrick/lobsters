@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-10-13, 10:36:15",
+      "https://lobste.rs/s/an26tn/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/an26tn/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 10:32:39",
+      "https://lobste.rs/s/kfspok/django_bulk_update_memory_issue"
+    ],
+    [
+      "Django bulk_update memory issue",
+      "https://blog.pecar.me/django-bulk-update-memory-issue"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 10:28:47",
+      "https://lobste.rs/s/tgfo9p/thoughts_on_remix_3"
+    ],
+    [
+      "Thoughts on Remix 3",
+      "https://frantic.im/remix-3/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 10:22:50",
       "https://lobste.rs/s/b6x3lb/it_is_war_out_there_take_control_your"
     ],
     [
       "It Is A War Out There - Take Control of Your Supply Lines with HtDTY",
       "https://sheep.horse/2025/10/it_is_a_war_out_there_-_take_control_of_your_suppl.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 10:21:21",
-      "https://lobste.rs/s/e8rzg7/matrices_can_be_your_friends"
-    ],
-    [
-      "Matrices can be your Friends",
-      "https://www.sjbaker.org/steve/omniv/matrices_can_be_your_friends.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-12, 19:45:32",
-      "https://lobste.rs/s/co9e3q/c2bf_c_brainfuck_compiler_written_rust"
-    ],
-    [
-      "C2BF: A C-to-Brainfuck compiler written in Rust",
-      "https://iacgm.pages.dev/posts/c2bf/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 18:39:05",
       "https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize"
     ],
@@ -237,16 +247,6 @@
     [
       "Three ways \"formally verified\" can go wrong",
       "https://buttondown.com/hillelwayne/archive/three-ways-formally-verified-code-can-go-wrong-in/"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 11:44:57",
-      "https://lobste.rs/s/vulmn4/liquid_glass_is_cracked_usability"
-    ],
-    [
-      "Liquid Glass Is Cracked, and Usability Suffers in iOS 26",
-      "https://www.nngroup.com/articles/liquid-glass/"
     ]
   ]
 ]
