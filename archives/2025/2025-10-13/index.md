@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 20:43:35](https://lobste.rs/s/1dkfoh/push_button_using_luajit_ffi) - [Push the Button: Using LuaJIT + FFI + CoreBluetooth with an async design to automate a trivial task](https://github.com/mogenson/switchbot.lua)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 19:48:54](https://lobste.rs/s/rv68t2/taming_ai_assisted_code_with) - [Taming AI-Assisted Code with Deterministic Workflows](https://obeli.sk/blog/taming-ai-assisted-code/)
 * [2025-10-13, 17:04:23](https://lobste.rs/s/wn5mcf/modern_ios_security_features_deep_dive) - [Modern iOS Security Features -- A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/pdf/2510.09272)
