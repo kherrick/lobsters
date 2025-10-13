@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-13, 04:08:32",
+      "https://lobste.rs/s/goaosf/debugging_go_runtime_crash_one"
+    ],
+    [
+      "Debugging a Go runtime crash: the one-instruction window",
+      "https://www.nsrip.com/posts/oneinstruction.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-13, 04:06:29",
+      "https://lobste.rs/s/8dsiow/wireguard_fpga"
+    ],
+    [
+      "Wireguard FPGA",
+      "https://github.com/chili-chips-ba/wireguard-fpga"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 00:07:56",
       "https://lobste.rs/s/ngjqsm/nsa_ietf_can_attacker_simply_purchase"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-10-12, 17:03:09",
-      "https://lobste.rs/s/r3p9pm/from_source_sorcery_kotlin_native_s"
-    ],
-    [
-      "From Source to Sorcery - Kotlin Native's Interop Magic",
-      "https://staticvar.dev/post/kotlin-native-c-interop/"
-    ]
-  ],
-  [
-    [
       "2025-10-12, 16:59:46",
       "https://lobste.rs/s/l6yqm8/country_broke_kotlin"
     ],
@@ -147,16 +157,6 @@
     [
       "The reason GCC is not a library (2000)",
       "https://gcc.gnu.org/legacy-ml/gcc/2000-01/msg00572.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-12, 09:53:29",
-      "https://lobste.rs/s/jd4tj8/my_django_on_med_2025"
-    ],
-    [
-      "My Django On The Med 2025",
-      "https://www.paulox.net/2025/10/12/my-django-on-the-med-2025/"
     ]
   ],
   [
