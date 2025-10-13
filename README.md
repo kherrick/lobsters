@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 05:51:08](https://lobste.rs/s/7q2c0r/jit_so_you_want_be_faster_than_interpreter) - [JIT: so you want to be faster than an interpreter on modern CPUs…](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-13, 05:28:58](https://lobste.rs/s/zoapek/find_where_specific_object_was_allocated) - [Find where a specific object was allocated in JavaScript with DevTools](http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/)
 * [2025-10-13, 04:08:32](https://lobste.rs/s/goaosf/debugging_go_runtime_crash_one) - [Debugging a Go runtime crash: the one-instruction window](https://www.nsrip.com/posts/oneinstruction.html)
 * [2025-10-13, 04:06:29](https://lobste.rs/s/8dsiow/wireguard_fpga) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
@@ -9,7 +10,6 @@
 * [2025-10-12, 20:38:35](https://lobste.rs/s/kiy2yb/building_multi_step_login_forms_work_well) - [Building multi-step login forms that work well with password managers](https://evertpot.com/multi-step-login-forms-for-password-managers/)
 * [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 19:45:32](https://lobste.rs/s/co9e3q/c2bf_c_brainfuck_compiler_written_rust) - [C2BF: A C-to-Brainfuck compiler written in Rust](https://iacgm.pages.dev/posts/c2bf/)
-* [2025-10-12, 19:34:49](https://lobste.rs/s/0arodz/next_js_is_not_good_fit_for_vibe) - [Next.js is not a good fit for vibe engineering](https://fabianlindfors.se/blog/nextjs-vibe-engineering/)
 * [2025-10-12, 18:39:05](https://lobste.rs/s/q9clwz/using_constraint_satisfaction_optimize) - [Using Constraint Satisfaction to Optimize Item Selection for Bundles in Minecraft](https://www.robw.fyi/2025/10/12/using-constraint-satisfaction-to-optimize-item-selection-for-bundles-in-minecraft/)
 * [2025-10-12, 18:02:59](https://lobste.rs/s/hy5a0e/satisfaction_render_pipelines) - [Satisfaction of Render Pipelines](https://azeemba.com/posts/satisfaction-of-render-pipelines.html)
 * [2025-10-12, 16:59:46](https://lobste.rs/s/l6yqm8/country_broke_kotlin) - [The Country That Broke Kotlin](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
