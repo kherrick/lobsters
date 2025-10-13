@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-13, 05:28:58",
+      "https://lobste.rs/s/zoapek/find_where_specific_object_was_allocated"
+    ],
+    [
+      "Find where a specific object was allocated in JavaScript with DevTools",
+      "http://heikkila.dev/blog/find-where-a-specific-object-was-allocated-in-javascript/"
+    ]
+  ],
+  [
+    [
       "2025-10-13, 04:08:32",
       "https://lobste.rs/s/goaosf/debugging_go_runtime_crash_one"
     ],
@@ -207,16 +217,6 @@
     [
       "Testing two 18 TB white label SATA hard drives from datablocks.dev",
       "https://ounapuu.ee/posts/2025/10/06/datablocks-white-label-drives/"
-    ]
-  ],
-  [
-    [
-      "2025-10-11, 21:10:55",
-      "https://lobste.rs/s/qar3sx/burrows_wheeler_transform_bwt"
-    ],
-    [
-      "Burrows-Wheeler Transform (BWT)",
-      "https://sandbox.bio/concepts/bwt"
     ]
   ],
   [
