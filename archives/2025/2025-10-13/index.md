@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-13](index.md)
 
+* [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 19:48:54](https://lobste.rs/s/rv68t2/taming_ai_assisted_code_with) - [Taming AI-Assisted Code with Deterministic Workflows](https://obeli.sk/blog/taming-ai-assisted-code/)
 * [2025-10-13, 17:04:23](https://lobste.rs/s/wn5mcf/modern_ios_security_features_deep_dive) - [Modern iOS Security Features -- A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/pdf/2510.09272)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)

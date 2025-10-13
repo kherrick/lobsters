@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 19:48:54](https://lobste.rs/s/rv68t2/taming_ai_assisted_code_with) - [Taming AI-Assisted Code with Deterministic Workflows](https://obeli.sk/blog/taming-ai-assisted-code/)
 * [2025-10-13, 17:04:23](https://lobste.rs/s/wn5mcf/modern_ios_security_features_deep_dive) - [Modern iOS Security Features -- A Deep Dive into SPTM, TXM, and Exclaves](https://arxiv.org/pdf/2510.09272)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
@@ -13,7 +14,6 @@
 * [2025-10-13, 10:22:50](https://lobste.rs/s/b6x3lb/it_is_war_out_there_take_control_your) - [It Is A War Out There - Take Control of Your Supply Lines with HtDTY](https://sheep.horse/2025/10/it_is_a_war_out_there_-_take_control_of_your_suppl.html)
 * [2025-10-13, 10:20:43](https://lobste.rs/s/1lmxut/revisiting_sailfishos) - [Revisiting SailfishOS](https://geekyschmidt.com/post/sailfishos-sept25/)
 * [2025-10-13, 09:25:26](https://lobste.rs/s/do4tt3/smolbsd_build_your_own_minimal_bsd_system) - [smolBSD — build your own minimal BSD system](https://smolbsd.org)
-* [2025-10-13, 09:11:47](https://lobste.rs/s/0iwpkr/little_random_could) - [The little Random that could](https://blog.julik.nl/2025/10/the-little-random-that-could)
 * [2025-10-13, 08:17:29](https://lobste.rs/s/4y8nzp/strudel_repl_music_live_coding) - [Strudel REPL - a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 06:37:00](https://lobste.rs/s/ia6vhh/git_developers_talk_about_potentially) - [Git Developers Talk About Potentially Releasing Git 3.0 By The End Of Next Year](https://www.phoronix.com/news/Git-3.0-Release-Talk-2026)
 * [2025-10-13, 06:32:41](https://lobste.rs/s/jr6zfo/critical_github_copilot_vulnerability) - [Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
