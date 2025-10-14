@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-14, 02:52:44](https://lobste.rs/s/mpzemo/pglinter_database_linting_analysis_for) - [pglinter: Database linting and analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
+* [2025-10-14, 02:49:52](https://lobste.rs/s/gmggsr/mptcp_multipath_tcp_for_linux) - [MPTCP / Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
-* [2025-10-13, 20:43:35](https://lobste.rs/s/1dkfoh/push_button_using_luajit_ffi) - [Push the Button: Using LuaJIT + FFI + CoreBluetooth with an async design to automate a trivial task](https://github.com/mogenson/switchbot.lua)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
-* [2025-10-13, 14:48:37](https://lobste.rs/s/auldc4/litex_first_formal_language_learnable_2) - [Litex: The First Formal Language Learnable in 2 Hours](https://litexlang.com/)
 * [2025-10-13, 13:25:44](https://lobste.rs/s/1clwpi/peach_meme_on_crts_pixels_signal_quality) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-13, 12:47:01](https://lobste.rs/s/wqhj5b/octothorpes) - [Octothorpes](https://octothorp.es)
 * [2025-10-13, 12:09:59](https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
