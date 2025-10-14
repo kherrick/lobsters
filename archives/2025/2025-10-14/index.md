@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 18:56:52](https://lobste.rs/s/sxdel7/rumdl_markdown_linter_written_rust) - [rumdl: A Markdown Linter written in Rust](https://github.com/rvben/rumdl)
 * [2025-10-14, 18:26:55](https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t) - [Why your boss isn't worried about AI - \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
+* [2025-10-14, 18:16:35](https://lobste.rs/s/jmpata/benchmarking_postgres_17_vs_18) - [Benchmarking Postgres 17 vs 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
 * [2025-10-14, 17:33:05](https://lobste.rs/s/tsktg2/1_5x_2_2x_gb_s_decoding_throughput_for_delta) - [1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:36:43](https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps) - [Hot Reloading SwiftUI Apps](https://danielchasehooper.com/posts/hot-reloading-swiftui/)
 * [2025-10-14, 16:35:53](https://lobste.rs/s/q54lep/don_t_look_up_there_are_sensitive_internal) - [Don't Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
