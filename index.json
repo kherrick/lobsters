@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-14, 15:14:31",
+      "https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching"
+    ],
+    [
+      "Practical Hurdles In Crab Latching Concurrency",
+      "https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 15:11:18",
+      "https://lobste.rs/s/dkazbx/nanochat_best_chatgpt_100_can_buy"
+    ],
+    [
+      "nanochat: The best ChatGPT that $100 can buy",
+      "https://github.com/karpathy/nanochat"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 15:01:31",
+      "https://lobste.rs/s/5wjnlm/chktag_x86_memory_safety"
+    ],
+    [
+      "ChkTag: x86 Memory Safety",
+      "https://community.intel.com/t5/Blogs/Tech-Innovation/open-intel/ChkTag-x86-Memory-Safety/post/1721490"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 14:33:35",
       "https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking"
     ],
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2025-10-14, 02:49:52",
-      "https://lobste.rs/s/gmggsr/mptcp_multipath_tcp_for_linux"
-    ],
-    [
-      "MPTCP / Multipath TCP for Linux",
-      "https://www.mptcp.dev/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 22:38:51",
       "https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process"
     ],
     [
       "nitro: tiny but flexible init system and process supervisor",
       "https://github.com/leahneukirchen/nitro"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 21:52:20",
-      "https://lobste.rs/s/evbrsw/avian_physics_0_4"
-    ],
-    [
-      "Avian Physics 0.4",
-      "https://joonaa.dev/blog/09/avian-0-4"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "The Peach meme: On CRTs, pixels and signal quality (again)",
       "https://www.datagubbe.se/crt2/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 12:47:01",
-      "https://lobste.rs/s/wqhj5b/octothorpes"
-    ],
-    [
-      "Octothorpes",
-      "https://octothorp.es"
     ]
   ],
   [
