@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem) - [The DHH Problem](https://tomstu.art/the-dhh-problem)
+* [2025-10-14, 19:22:45](https://lobste.rs/s/aueaz4/empty_intervals_are_valid_intervals) - [Empty Intervals are Valid Intervals](https://nigeltao.github.io/blog/2025/empty-intervals.html)
 * [2025-10-14, 18:56:52](https://lobste.rs/s/sxdel7/rumdl_markdown_linter_written_rust) - [rumdl: A Markdown Linter written in Rust](https://github.com/rvben/rumdl)
 * [2025-10-14, 18:26:55](https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t) - [Why your boss isn't worried about AI - \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 * [2025-10-14, 18:16:35](https://lobste.rs/s/jmpata/benchmarking_postgres_17_vs_18) - [Benchmarking Postgres 17 vs 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)

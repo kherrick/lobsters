@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem) - [The DHH Problem](https://tomstu.art/the-dhh-problem)
+* [2025-10-14, 19:22:45](https://lobste.rs/s/aueaz4/empty_intervals_are_valid_intervals) - [Empty Intervals are Valid Intervals](https://nigeltao.github.io/blog/2025/empty-intervals.html)
 * [2025-10-14, 18:56:52](https://lobste.rs/s/sxdel7/rumdl_markdown_linter_written_rust) - [rumdl: A Markdown Linter written in Rust](https://github.com/rvben/rumdl)
 * [2025-10-14, 18:26:55](https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t) - [Why your boss isn't worried about AI - \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 * [2025-10-14, 18:16:35](https://lobste.rs/s/jmpata/benchmarking_postgres_17_vs_18) - [Benchmarking Postgres 17 vs 18](https://planetscale.com/blog/benchmarking-postgres-17-vs-18)
@@ -17,7 +18,6 @@
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 12:29:59](https://lobste.rs/s/vwv14y/let_s_not_encrypt_2019) - [Let's not Encrypt (2019)](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
-* [2025-10-14, 06:49:49](https://lobste.rs/s/nxhkvy/demystifying_scala_3_types_by_bill) - [Demystifying Scala 3 Types By Bill Venners](https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4)
 * [2025-10-14, 06:19:21](https://lobste.rs/s/zljqfm/literate_tracing) - [Literate Tracing](https://arxiv.org/pdf/2510.09073)
 * [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever) - [Django forever](https://jmduke.com/posts/post/django/)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
