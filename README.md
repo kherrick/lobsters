@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-14, 02:52:44](https://lobste.rs/s/mpzemo/pglinter_database_linting_analysis_for) - [pglinter: Database linting and analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)
+* [2025-10-14, 03:31:23](https://lobste.rs/s/yuhk4b/space_efficient_data_structures_for_top_k) - [Space-Efficient Data Structures for Top-k Completion (2013)](http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf)
 * [2025-10-14, 02:49:52](https://lobste.rs/s/gmggsr/mptcp_multipath_tcp_for_linux) - [MPTCP / Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
