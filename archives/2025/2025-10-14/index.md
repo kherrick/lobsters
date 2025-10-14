@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 11:55:30](https://lobste.rs/s/1qcc0y/beads_beads_memory_upgrade_for_your) - [beads: Beads - A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
 * [2025-10-14, 09:10:53](https://lobste.rs/s/9osykc/2022_jsonski_streaming_processing) - [[2022] JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding](https://github.com/AutomataLab/JSONSki)
 * [2025-10-14, 06:49:49](https://lobste.rs/s/nxhkvy/demystifying_scala_3_types_by_bill) - [Demystifying Scala 3 Types By Bill Venners](https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4)
