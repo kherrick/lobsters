@@ -15,7 +15,7 @@
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 12:29:59](https://lobste.rs/s/vwv14y/let_s_not_encrypt_2019) - [Let's not Encrypt (2019)](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
-* [2025-10-14, 09:10:53](https://lobste.rs/s/9osykc/jsonski_streaming_processing_jsonpath) - [JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding (2022)](https://github.com/AutomataLab/JSONSki)
+* [2025-10-14, 06:49:49](https://lobste.rs/s/nxhkvy/demystifying_scala_3_types_by_bill) - [Demystifying Scala 3 Types By Bill Venners](https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4)
 * [2025-10-14, 06:19:21](https://lobste.rs/s/zljqfm/literate_tracing) - [Literate Tracing](https://arxiv.org/pdf/2510.09073)
 * [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever) - [Django forever](https://jmduke.com/posts/post/django/)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
