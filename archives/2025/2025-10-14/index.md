@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:14:31](https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching) - [Practical Hurdles In Crab Latching Concurrency](https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/)
 * [2025-10-14, 15:11:18](https://lobste.rs/s/dkazbx/nanochat_best_chatgpt_100_can_buy) - [nanochat: The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
@@ -12,6 +13,7 @@
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
 * [2025-10-14, 13:24:52](https://lobste.rs/s/r8a4ax/gauguin_descartes_bayes_diurnal_golem_s) - [Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain](https://dl.acm.org/doi/pdf/10.1145/3759429.3762631)
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
+* [2025-10-14, 12:29:59](https://lobste.rs/s/vwv14y/let_s_not_encrypt_2019) - [Let's not Encrypt (2019)](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 12:29:59](https://lobste.rs/s/vwv14y/let_s_not_encrypt) - [Let's not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 11:55:30](https://lobste.rs/s/1qcc0y/beads_beads_memory_upgrade_for_your) - [beads: Beads - A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
