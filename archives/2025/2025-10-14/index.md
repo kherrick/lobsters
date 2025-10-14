@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 16:36:43](https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps) - [Hot Reloading SwiftUI Apps](https://danielchasehooper.com/posts/hot-reloading-swiftui/)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:14:31](https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching) - [Practical Hurdles In Crab Latching Concurrency](https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/)
@@ -17,10 +18,12 @@
 * [2025-10-14, 12:29:59](https://lobste.rs/s/vwv14y/let_s_not_encrypt) - [Let's not Encrypt](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 11:55:30](https://lobste.rs/s/1qcc0y/beads_beads_memory_upgrade_for_your) - [beads: Beads - A memory upgrade for your coding agent](https://github.com/steveyegge/beads)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
+* [2025-10-14, 09:10:53](https://lobste.rs/s/9osykc/jsonski_streaming_processing_jsonpath) - [JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding (2022)](https://github.com/AutomataLab/JSONSki)
 * [2025-10-14, 09:10:53](https://lobste.rs/s/9osykc/2022_jsonski_streaming_processing) - [[2022] JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding](https://github.com/AutomataLab/JSONSki)
 * [2025-10-14, 06:49:49](https://lobste.rs/s/nxhkvy/demystifying_scala_3_types_by_bill) - [Demystifying Scala 3 Types By Bill Venners](https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4)
 * [2025-10-14, 06:19:21](https://lobste.rs/s/zljqfm/literate_tracing) - [Literate Tracing](https://arxiv.org/pdf/2510.09073)
 * [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever_applied_cartography) - [Django forever · Applied Cartography](https://jmduke.com/posts/post/django/)
+* [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever) - [Django forever](https://jmduke.com/posts/post/django/)
 * [2025-10-14, 05:13:12](https://lobste.rs/s/42tbpf/copy_patch_tutorial) - [A  Copy-and-Patch Tutorial](https://transactional.blog/copy-and-patch/tutorial)
 * [2025-10-14, 03:31:23](https://lobste.rs/s/yuhk4b/space_efficient_data_structures_for_top_k) - [Space-Efficient Data Structures for Top-k Completion (2013)](http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf)
 * [2025-10-14, 02:52:44](https://lobste.rs/s/mpzemo/pglinter_database_linting_analysis_for) - [pglinter: Database linting and analysis for PostgreSQL](https://pglinter.readthedocs.io/en/latest/)

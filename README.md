@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-14, 16:36:43](https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps) - [Hot Reloading SwiftUI Apps](https://danielchasehooper.com/posts/hot-reloading-swiftui/)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 15:14:31](https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching) - [Practical Hurdles In Crab Latching Concurrency](https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/)
@@ -11,9 +12,10 @@
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 12:29:59](https://lobste.rs/s/vwv14y/let_s_not_encrypt_2019) - [Let's not Encrypt (2019)](https://michael.orlitzky.com/articles/lets_not_encrypt.xhtml)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
+* [2025-10-14, 09:10:53](https://lobste.rs/s/9osykc/jsonski_streaming_processing_jsonpath) - [JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding (2022)](https://github.com/AutomataLab/JSONSki)
 * [2025-10-14, 06:49:49](https://lobste.rs/s/nxhkvy/demystifying_scala_3_types_by_bill) - [Demystifying Scala 3 Types By Bill Venners](https://watch.softinio.com/w/6Ubx9SPfjXDH2yBke158R4)
 * [2025-10-14, 06:19:21](https://lobste.rs/s/zljqfm/literate_tracing) - [Literate Tracing](https://arxiv.org/pdf/2510.09073)
-* [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever_applied_cartography) - [Django forever · Applied Cartography](https://jmduke.com/posts/post/django/)
+* [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever) - [Django forever](https://jmduke.com/posts/post/django/)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
@@ -21,9 +23,7 @@
 * [2025-10-13, 12:09:59](https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 11:45:00](https://lobste.rs/s/bf7uhe/free_software_hasn_t_won) - [Free Software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-13, 10:28:47](https://lobste.rs/s/tgfo9p/thoughts_on_remix_3) - [Thoughts on Remix 3](https://frantic.im/remix-3/)
-* [2025-10-13, 10:20:43](https://lobste.rs/s/1lmxut/revisiting_sailfishos) - [Revisiting SailfishOS](https://geekyschmidt.com/post/sailfishos-sept25/)
 * [2025-10-13, 09:25:26](https://lobste.rs/s/do4tt3/smolbsd_build_your_own_minimal_bsd_system) - [smolBSD — build your own minimal BSD system](https://smolbsd.org)
-* [2025-10-13, 08:17:29](https://lobste.rs/s/4y8nzp/strudel_repl_music_live_coding) - [Strudel REPL - a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 06:32:41](https://lobste.rs/s/jr6zfo/critical_github_copilot_vulnerability) - [Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
 
 ## [Archives](archives/index.md)
