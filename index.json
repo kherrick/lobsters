@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 16:36:43",
+      "https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps"
+    ],
+    [
+      "Hot Reloading SwiftUI Apps",
+      "https://danielchasehooper.com/posts/hot-reloading-swiftui/"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 16:10:18",
       "https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-10-14, 09:10:53",
+      "https://lobste.rs/s/9osykc/jsonski_streaming_processing_jsonpath"
+    ],
+    [
+      "JSONSki: Streaming Processing of JSONPath Queries with Fast Forwarding (2022)",
+      "https://github.com/AutomataLab/JSONSki"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 06:49:49",
       "https://lobste.rs/s/nxhkvy/demystifying_scala_3_types_by_bill"
     ],
@@ -132,10 +152,10 @@
   [
     [
       "2025-10-14, 06:17:42",
-      "https://lobste.rs/s/fqmjsc/django_forever_applied_cartography"
+      "https://lobste.rs/s/fqmjsc/django_forever"
     ],
     [
-      "Django forever · Applied Cartography",
+      "Django forever",
       "https://jmduke.com/posts/post/django/"
     ]
   ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-10-13, 10:20:43",
-      "https://lobste.rs/s/1lmxut/revisiting_sailfishos"
-    ],
-    [
-      "Revisiting SailfishOS",
-      "https://geekyschmidt.com/post/sailfishos-sept25/"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 09:25:26",
       "https://lobste.rs/s/do4tt3/smolbsd_build_your_own_minimal_bsd_system"
     ],
     [
       "smolBSD — build your own minimal BSD system",
       "https://smolbsd.org"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 08:17:29",
-      "https://lobste.rs/s/4y8nzp/strudel_repl_music_live_coding"
-    ],
-    [
-      "Strudel REPL - a music live coding environment living in the browser",
-      "https://strudel.cc"
     ]
   ],
   [
