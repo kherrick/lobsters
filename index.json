@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-14, 18:56:52",
+      "https://lobste.rs/s/sxdel7/rumdl_markdown_linter_written_rust"
+    ],
+    [
+      "rumdl: A Markdown Linter written in Rust",
+      "https://github.com/rvben/rumdl"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 18:26:55",
       "https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t"
     ],
     [
       "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
       "https://boydkane.com/essays/boss"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 18:16:35",
+      "https://lobste.rs/s/jmpata/benchmarking_postgres_17_vs_18"
+    ],
+    [
+      "Benchmarking Postgres 17 vs 18",
+      "https://planetscale.com/blog/benchmarking-postgres-17-vs-18"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-10-13, 22:38:51",
-      "https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process"
-    ],
-    [
-      "nitro: tiny but flexible init system and process supervisor",
-      "https://github.com/leahneukirchen/nitro"
-    ]
-  ],
-  [
-    [
       "2025-10-13, 20:09:29",
       "https://lobste.rs/s/hwwsxh/zoo_array_languages"
     ],
@@ -207,16 +217,6 @@
     [
       "What Dynamic Typing Is For",
       "https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 12:09:59",
-      "https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit"
-    ],
-    [
-      "We need (at least) ergonomic, explicit handles",
-      "https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/"
     ]
   ],
   [
