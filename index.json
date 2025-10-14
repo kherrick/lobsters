@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 14:33:35",
+      "https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking"
+    ],
+    [
+      "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
+      "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 13:42:17",
       "https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025"
     ],
@@ -237,16 +247,6 @@
     [
       "Critical GitHub Copilot Vulnerability Leaks Private Source Code",
       "https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 04:06:29",
-      "https://lobste.rs/s/8dsiow/wireguard_fpga"
-    ],
-    [
-      "Wireguard FPGA",
-      "https://github.com/chili-chips-ba/wireguard-fpga"
     ]
   ]
 ]
