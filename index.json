@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-14, 11:55:30",
+      "https://lobste.rs/s/1qcc0y/beads_beads_memory_upgrade_for_your"
+    ],
+    [
+      "beads: Beads - A memory upgrade for your coding agent",
+      "https://github.com/steveyegge/beads"
+    ]
+  ],
+  [
+    [
       "2025-10-14, 10:29:11",
       "https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver"
     ],
@@ -237,16 +247,6 @@
     [
       "Wireguard FPGA",
       "https://github.com/chili-chips-ba/wireguard-fpga"
-    ]
-  ],
-  [
-    [
-      "2025-10-13, 00:07:56",
-      "https://lobste.rs/s/ngjqsm/nsa_ietf_can_attacker_simply_purchase"
-    ],
-    [
-      "NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?",
-      "https://blog.cr.yp.to/20251004-weakened.html"
     ]
   ]
 ]
