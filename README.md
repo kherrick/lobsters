@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-14, 17:33:05](https://lobste.rs/s/tsktg2/1_5x_2_2x_gb_s_decoding_throughput_for_delta) - [1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:36:43](https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps) - [Hot Reloading SwiftUI Apps](https://danielchasehooper.com/posts/hot-reloading-swiftui/)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
@@ -19,7 +20,6 @@
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
-* [2025-10-13, 13:25:44](https://lobste.rs/s/1clwpi/peach_meme_on_crts_pixels_signal_quality) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
 * [2025-10-13, 12:09:59](https://lobste.rs/s/7fz2mo/we_need_at_least_ergonomic_explicit) - [We need (at least) ergonomic, explicit handles](https://smallcultfollowing.com/babysteps/blog/2025/10/13/ergonomic-explicit-handles/)
 * [2025-10-13, 11:45:00](https://lobste.rs/s/bf7uhe/free_software_hasn_t_won) - [Free Software hasn't won](https://dorotac.eu/posts/fosswon/)
 * [2025-10-13, 10:28:47](https://lobste.rs/s/tgfo9p/thoughts_on_remix_3) - [Thoughts on Remix 3](https://frantic.im/remix-3/)

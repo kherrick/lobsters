@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 17:33:05](https://lobste.rs/s/tsktg2/1_5x_2_2x_gb_s_decoding_throughput_for_delta) - [1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:36:43](https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps) - [Hot Reloading SwiftUI Apps](https://danielchasehooper.com/posts/hot-reloading-swiftui/)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
