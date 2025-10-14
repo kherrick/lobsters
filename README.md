@@ -7,6 +7,7 @@
 * [2025-10-14, 03:31:23](https://lobste.rs/s/yuhk4b/space_efficient_data_structures_for_top_k) - [Space-Efficient Data Structures for Top-k Completion (2013)](http://groups.di.unipi.it/~ottavian/files/topk_completion_www13.pdf)
 * [2025-10-14, 02:49:52](https://lobste.rs/s/gmggsr/mptcp_multipath_tcp_for_linux) - [MPTCP / Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
+* [2025-10-13, 21:52:20](https://lobste.rs/s/evbrsw/avian_physics_0_4) - [Avian Physics 0.4](https://joonaa.dev/blog/09/avian-0-4)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-13, 13:25:44](https://lobste.rs/s/1clwpi/peach_meme_on_crts_pixels_signal_quality) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
@@ -23,7 +24,6 @@
 * [2025-10-13, 05:51:08](https://lobste.rs/s/7q2c0r/jit_so_you_want_be_faster_than_interpreter) - [JIT: so you want to be faster than an interpreter on modern CPUs…](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-13, 04:06:29](https://lobste.rs/s/8dsiow/wireguard_fpga) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 * [2025-10-13, 00:07:56](https://lobste.rs/s/ngjqsm/nsa_ietf_can_attacker_simply_purchase) - [NSA and IETF: Can an attacker simply purchase standardization of weakened cryptography?](https://blog.cr.yp.to/20251004-weakened.html)
-* [2025-10-12, 20:11:37](https://lobste.rs/s/kz6gvo/abstraction_not_syntax) - [Abstraction, not syntax](https://ruudvanasseldonk.com/2025/abstraction-not-syntax)
 * [2025-10-12, 16:59:46](https://lobste.rs/s/l6yqm8/country_broke_kotlin) - [The Country That Broke Kotlin](https://sam-cooper.medium.com/the-country-that-broke-kotlin-84bdd0afb237)
 
 ## [Archives](archives/index.md)
