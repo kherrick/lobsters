@@ -11,6 +11,7 @@
 * [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever_applied_cartography) - [Django forever · Applied Cartography](https://jmduke.com/posts/post/django/)
 * [2025-10-14, 02:49:52](https://lobste.rs/s/gmggsr/mptcp_multipath_tcp_for_linux) - [MPTCP / Multipath TCP for Linux](https://www.mptcp.dev/)
 * [2025-10-13, 22:38:51](https://lobste.rs/s/wvpc6s/nitro_tiny_flexible_init_system_process) - [nitro: tiny but flexible init system and process supervisor](https://github.com/leahneukirchen/nitro)
+* [2025-10-13, 21:52:20](https://lobste.rs/s/evbrsw/avian_physics_0_4) - [Avian Physics 0.4](https://joonaa.dev/blog/09/avian-0-4)
 * [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 * [2025-10-13, 15:07:52](https://lobste.rs/s/hfdtjm/what_dynamic_typing_is_for) - [What Dynamic Typing Is For](https://unplannedobsolescence.com/blog/what-dynamic-typing-is-for/)
 * [2025-10-13, 13:25:44](https://lobste.rs/s/1clwpi/peach_meme_on_crts_pixels_signal_quality) - [The Peach meme: On CRTs, pixels and signal quality (again)](https://www.datagubbe.se/crt2/)
@@ -23,7 +24,6 @@
 * [2025-10-13, 09:25:26](https://lobste.rs/s/do4tt3/smolbsd_build_your_own_minimal_bsd_system) - [smolBSD — build your own minimal BSD system](https://smolbsd.org)
 * [2025-10-13, 08:17:29](https://lobste.rs/s/4y8nzp/strudel_repl_music_live_coding) - [Strudel REPL - a music live coding environment living in the browser](https://strudel.cc)
 * [2025-10-13, 06:32:41](https://lobste.rs/s/jr6zfo/critical_github_copilot_vulnerability) - [Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
-* [2025-10-13, 05:51:08](https://lobste.rs/s/7q2c0r/jit_so_you_want_be_faster_than_interpreter) - [JIT: so you want to be faster than an interpreter on modern CPUs…](https://www.pinaraf.info/2025/10/jit-so-you-want-to-be-faster-than-an-interpreter-on-modern-cpus/)
 * [2025-10-13, 04:06:29](https://lobste.rs/s/8dsiow/wireguard_fpga) - [Wireguard FPGA](https://github.com/chili-chips-ba/wireguard-fpga)
 
 ## [Archives](archives/index.md)
