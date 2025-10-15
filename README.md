@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-15, 17:42:11](https://lobste.rs/s/ysrvbn/cmux_coding_agent_multiplexer) - [cmux – Coding Agent Multiplexer](https://github.com/coder/cmux)
+* [2025-10-15, 17:27:52](https://lobste.rs/s/8pbyxc/f5_says_nation_state_hackers_stole_source) - [F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data](https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/)
 * [2025-10-15, 17:09:56](https://lobste.rs/s/ccj5nt/porting_from_perl_go_simplifying_for) - [Porting from Perl to Go: Simplifying for Platform Engineering](https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 15:33:54](https://lobste.rs/s/teve66/unfair_flips_world_record_strategy) - [Unfair Flips World Record Strategy](https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/)
@@ -24,7 +25,6 @@
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
-* [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
 
 ## [Archives](archives/index.md)
 
