@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-15, 11:11:58](https://lobste.rs/s/8okzkd/how_ai_hears_accents) - [How AI Hears Accents](https://accent-explorer.boldvoice.com/)
+* [2025-10-15, 10:53:13](https://lobste.rs/s/zqiy8l/why_export_templates_would_be_useful_c) - [Why export templates would be useful in C++ (2010)](http://warp.povusers.org/programming/export_templates.html)
 * [2025-10-15, 09:34:29](https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
 * [2025-10-15, 08:36:25](https://lobste.rs/s/wo7s6i/artisanal_shims_for_bitter_lesson_age) - [Artisanal shims for the bitter lesson age](https://blog.nilenso.com/blog/2025/10/14/bitter-lesson-applied-ai/)
 * [2025-10-15, 06:33:18](https://lobste.rs/s/0midxc/api_design_principle_don_t_tempt_people) - [API design principle: Don't tempt people to divide by zero](https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677)
