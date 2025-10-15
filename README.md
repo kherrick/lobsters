@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-15, 08:36:25](https://lobste.rs/s/wo7s6i/artisanal_shims_for_bitter_lesson_age) - [Artisanal shims for the bitter lesson age](https://blog.nilenso.com/blog/2025/10/14/bitter-lesson-applied-ai/)
 * [2025-10-15, 06:33:18](https://lobste.rs/s/0midxc/api_design_principle_don_t_tempt_people) - [API design principle: Don't tempt people to divide by zero](https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677)
 * [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 * [2025-10-15, 04:52:22](https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
@@ -24,7 +25,6 @@
 * [2025-10-14, 13:24:52](https://lobste.rs/s/r8a4ax/gauguin_descartes_bayes_diurnal_golem_s) - [Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain](https://dl.acm.org/doi/pdf/10.1145/3759429.3762631)
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
-* [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever) - [Django forever](https://jmduke.com/posts/post/django/)
 
 ## [Archives](archives/index.md)
 
