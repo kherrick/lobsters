@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-15, 20:08:07",
+      "https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for"
+    ],
+    [
+      "Paneru - A sliding, tiling window manager for MacOS",
+      "https://github.com/karinushka/paneru"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 19:25:09",
       "https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax"
     ],
@@ -227,16 +237,6 @@
     [
       "Hold Off on Litestream 0.5.0",
       "https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 15:33:00",
-      "https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go"
-    ],
-    [
-      "A modern approach to preventing CSRF in Go",
-      "https://www.alexedwards.net/blog/preventing-csrf-in-go"
     ]
   ],
   [
