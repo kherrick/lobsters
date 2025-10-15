@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-15, 02:20:00",
+      "https://lobste.rs/s/dnf353/from_linearity_borrowing"
+    ],
+    [
+      "From Linearity to Borrowing",
+      "https://dl.acm.org/doi/abs/10.1145/3764117"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 02:13:58",
       "https://lobste.rs/s/zmysvd/old_is_gold_optimizing_single_threaded"
     ],
@@ -47,16 +57,6 @@
     [
       "binmoji: a compact, lossless, 64-bit emoji encoding",
       "https://github.com/jb55/binmoji"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 22:56:17",
-      "https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu"
-    ],
-    [
-      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
-      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
     ]
   ],
   [
