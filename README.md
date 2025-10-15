@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 18:44:08](https://lobste.rs/s/xbrton/modifying_python_repl) - [Modifying the Python REPL](https://treyhunner.com/2025/10/handy-python-repl-modifications/)
 * [2025-10-15, 17:42:11](https://lobste.rs/s/ysrvbn/cmux_coding_agent_multiplexer) - [cmux – Coding Agent Multiplexer](https://github.com/coder/cmux)
 * [2025-10-15, 17:27:52](https://lobste.rs/s/8pbyxc/f5_says_nation_state_hackers_stole_source) - [F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data](https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/)
@@ -14,7 +15,6 @@
 * [2025-10-15, 12:00:06](https://lobste.rs/s/twvpz9/osm_perfect_intersection_editor) - [OSM Perfect Intersection Editor](https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577)
 * [2025-10-15, 10:53:13](https://lobste.rs/s/zqiy8l/why_export_templates_would_be_useful_c) - [Why export templates would be useful in C++ (2010)](http://warp.povusers.org/programming/export_templates.html)
 * [2025-10-15, 09:34:29](https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
-* [2025-10-15, 06:33:18](https://lobste.rs/s/0midxc/api_design_principle_don_t_tempt_people) - [API design principle: Don't tempt people to divide by zero](https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677)
 * [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 * [2025-10-15, 04:52:22](https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-15, 02:20:00](https://lobste.rs/s/dnf353/from_linearity_borrowing) - [From Linearity to Borrowing](https://dl.acm.org/doi/abs/10.1145/3764117)

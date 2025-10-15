@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 18:44:08](https://lobste.rs/s/xbrton/modifying_python_repl) - [Modifying the Python REPL](https://treyhunner.com/2025/10/handy-python-repl-modifications/)
 * [2025-10-15, 17:42:11](https://lobste.rs/s/ysrvbn/cmux_coding_agent_multiplexer) - [cmux – Coding Agent Multiplexer](https://github.com/coder/cmux)
 * [2025-10-15, 17:27:52](https://lobste.rs/s/8pbyxc/f5_says_nation_state_hackers_stole_source) - [F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data](https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/)
