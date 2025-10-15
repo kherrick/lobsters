@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it) | H4X0R****](https://h4x0r.org/vargs/)
+* [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
 * [2025-10-15, 14:43:15](https://lobste.rs/s/ytv7mi/recreating_canon_cat_document_interface) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
+* [2025-10-15, 13:00:40](https://lobste.rs/s/j4v4db/testing_frozen_string_literals) - [Testing Frozen String Literals in Production](https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html)
 * [2025-10-15, 12:50:12](https://lobste.rs/s/1kweb2/reverse_engineering_iwork) - [Reverse Engineering iWork](https://andrews.substack.com/p/reverse-engineering-iwork)
 * [2025-10-15, 12:07:35](https://lobste.rs/s/w3yzd2/garbage_collection_for_rust_finalizer) - [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 12:00:06](https://lobste.rs/s/twvpz9/osm_perfect_intersection_editor) - [OSM Perfect Intersection Editor](https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577)
@@ -19,7 +20,6 @@
 * [2025-10-14, 17:33:05](https://lobste.rs/s/tsktg2/1_5x_2_2x_gb_s_decoding_throughput_for_delta) - [1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
-* [2025-10-14, 15:11:18](https://lobste.rs/s/dkazbx/nanochat_best_chatgpt_100_can_buy) - [nanochat: The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-14, 14:33:35](https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
 * [2025-10-14, 13:24:52](https://lobste.rs/s/r8a4ax/gauguin_descartes_bayes_diurnal_golem_s) - [Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain](https://dl.acm.org/doi/pdf/10.1145/3759429.3762631)
