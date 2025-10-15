@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-15, 12:07:35",
+      "https://lobste.rs/s/w3yzd2/garbage_collection_for_rust_finalizer"
+    ],
+    [
+      "Garbage Collection for Rust: The Finalizer Frontier",
+      "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 12:00:06",
+      "https://lobste.rs/s/twvpz9/osm_perfect_intersection_editor"
+    ],
+    [
+      "OSM Perfect Intersection Editor",
+      "https://www.openstreetmap.org/user/Mikhail%20Kuzin/diary/407577"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 10:53:13",
       "https://lobste.rs/s/zqiy8l/why_export_templates_would_be_useful_c"
     ],
@@ -67,16 +87,6 @@
     [
       "From Linearity to Borrowing",
       "https://dl.acm.org/doi/abs/10.1145/3764117"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 02:01:34",
-      "https://lobste.rs/s/bhakna/can_we_know_whether_profiler_is_accurate"
-    ],
-    [
-      "Can We Know Whether a Profiler is Accurate?",
-      "https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes",
       "https://github.com/ashtonsix/perf-portfolio/tree/main/delta"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 16:36:43",
-      "https://lobste.rs/s/tz55w7/hot_reloading_swiftui_apps"
-    ],
-    [
-      "Hot Reloading SwiftUI Apps",
-      "https://danielchasehooper.com/posts/hot-reloading-swiftui/"
     ]
   ],
   [
