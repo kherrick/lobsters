@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 12:50:12",
+      "https://lobste.rs/s/1kweb2/reverse_engineering_iwork"
+    ],
+    [
+      "Reverse Engineering iWork",
+      "https://andrews.substack.com/p/reverse-engineering-iwork"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 12:07:35",
       "https://lobste.rs/s/w3yzd2/garbage_collection_for_rust_finalizer"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2025-10-14, 22:30:34",
-      "https://lobste.rs/s/urs16o/ruby_community_has_dhh_problem"
+      "2025-10-14, 22:56:17",
+      "https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu"
     ],
     [
-      "The Ruby community has a DHH problem",
-      "https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem"
+      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Why your boss isn't worried about AI - \"can't you just turn it off?\"",
       "https://boydkane.com/essays/boss"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 18:16:35",
-      "https://lobste.rs/s/jmpata/benchmarking_postgres_17_vs_18"
-    ],
-    [
-      "Benchmarking Postgres 17 vs 18",
-      "https://planetscale.com/blog/benchmarking-postgres-17-vs-18"
     ]
   ],
   [
