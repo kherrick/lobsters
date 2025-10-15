@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-14](index.md)
 
+* [2025-10-14, 22:56:17](https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu) - [Unpacking Cloudflare Workers CPU Performance Benchmarks](https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/)
+* [2025-10-14, 22:30:34](https://lobste.rs/s/urs16o/ruby_community_has_dhh_problem) - [The Ruby community has a DHH problem](https://tekin.co.uk/2025/09/the-ruby-community-has-a-dhh-problem)
+* [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem_2014) - [The DHH Problem (2014)](https://tomstu.art/the-dhh-problem)
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem) - [The DHH Problem](https://tomstu.art/the-dhh-problem)
 * [2025-10-14, 19:22:45](https://lobste.rs/s/aueaz4/empty_intervals_are_valid_intervals) - [Empty Intervals are Valid Intervals](https://nigeltao.github.io/blog/2025/empty-intervals.html)
 * [2025-10-14, 18:56:52](https://lobste.rs/s/sxdel7/rumdl_markdown_linter_written_rust) - [rumdl: A Markdown Linter written in Rust](https://github.com/rvben/rumdl)
