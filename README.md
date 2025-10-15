@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-15, 17:42:11](https://lobste.rs/s/ysrvbn/cmux_coding_agent_multiplexer) - [cmux – Coding Agent Multiplexer](https://github.com/coder/cmux)
 * [2025-10-15, 17:09:56](https://lobste.rs/s/ccj5nt/porting_from_perl_go_simplifying_for) - [Porting from Perl to Go: Simplifying for Platform Engineering](https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 15:33:54](https://lobste.rs/s/teve66/unfair_flips_world_record_strategy) - [Unfair Flips World Record Strategy](https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/)
@@ -19,7 +20,6 @@
 * [2025-10-15, 00:07:29](https://lobste.rs/s/p6yk6b/binmoji_compact_lossless_64_bit_emoji) - [binmoji: a compact, lossless, 64-bit emoji encoding](https://github.com/jb55/binmoji)
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem_2014) - [The DHH Problem (2014)](https://tomstu.art/the-dhh-problem)
 * [2025-10-14, 18:26:55](https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t) - [Why your boss isn't worried about AI - \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
-* [2025-10-14, 17:33:05](https://lobste.rs/s/tsktg2/1_5x_2_2x_gb_s_decoding_throughput_for_delta) - [1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
