@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-15, 15:41:58",
+      "https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem"
+    ],
+    [
+      "Pwning the Entire Nix Ecosystem",
+      "https://ptrpa.ws/nixpkgs-actions-abuse"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 15:33:54",
+      "https://lobste.rs/s/teve66/unfair_flips_world_record_strategy"
+    ],
+    [
+      "Unfair Flips World Record Strategy",
+      "https://graham.build/s/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 14:52:20",
       "https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-10-14, 14:33:35",
-      "https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking"
-    ],
-    [
-      "Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering",
-      "https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html"
-    ]
-  ],
-  [
-    [
       "2025-10-14, 13:42:17",
       "https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025"
     ],
     [
       "Meta news on Lix in October 2025",
       "https://lix.systems/blog/2025-10-13-meta-lix-news/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 13:24:52",
-      "https://lobste.rs/s/r8a4ax/gauguin_descartes_bayes_diurnal_golem_s"
-    ],
-    [
-      "Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain",
-      "https://dl.acm.org/doi/pdf/10.1145/3759429.3762631"
     ]
   ],
   [
