@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-10-15, 06:33:18",
+      "https://lobste.rs/s/0midxc/api_design_principle_don_t_tempt_people"
+    ],
+    [
+      "API design principle: Don't tempt people to divide by zero",
+      "https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 05:16:10",
       "https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves"
     ],
@@ -167,16 +177,6 @@
     [
       "FSF announces Librephone project",
       "https://www.fsf.org/news/librephone-project"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 02:20:00",
-      "https://lobste.rs/s/dnf353/from_linearity_borrowing"
-    ],
-    [
-      "From Linearity to Borrowing",
-      "https://dl.acm.org/doi/abs/10.1145/3764117"
     ]
   ],
   [
