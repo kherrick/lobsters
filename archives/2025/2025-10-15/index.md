@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
+* [2025-10-15, 15:33:54](https://lobste.rs/s/teve66/unfair_flips_world_record_strategy) - [Unfair Flips World Record Strategy](https://graham.build/s/)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it) | H4X0R****](https://h4x0r.org/vargs/)
 * [2025-10-15, 14:43:15](https://lobste.rs/s/ytv7mi/recreating_canon_cat_document_interface) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
 * [2025-10-15, 13:00:40](https://lobste.rs/s/j4v4db/testing_frozen_string_literals) - [Testing Frozen String Literals in Production](https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html)

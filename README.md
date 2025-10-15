@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
+* [2025-10-15, 15:33:54](https://lobste.rs/s/teve66/unfair_flips_world_record_strategy) - [Unfair Flips World Record Strategy](https://graham.build/s/)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
 * [2025-10-15, 14:43:15](https://lobste.rs/s/ytv7mi/recreating_canon_cat_document_interface) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
 * [2025-10-15, 13:00:40](https://lobste.rs/s/j4v4db/testing_frozen_string_literals) - [Testing Frozen String Literals in Production](https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html)
@@ -20,9 +22,7 @@
 * [2025-10-14, 17:33:05](https://lobste.rs/s/tsktg2/1_5x_2_2x_gb_s_decoding_throughput_for_delta) - [1.5x to 2.2x GB/s decoding throughput for delta, delta-of-delta and xor-with-previous codes](https://github.com/ashtonsix/perf-portfolio/tree/main/delta)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
-* [2025-10-14, 14:33:35](https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
-* [2025-10-14, 13:24:52](https://lobste.rs/s/r8a4ax/gauguin_descartes_bayes_diurnal_golem_s) - [Gauguin, Descartes, Bayes: A Diurnal Golem’s Brain](https://dl.acm.org/doi/pdf/10.1145/3759429.3762631)
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
 
