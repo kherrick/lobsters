@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 10:53:13",
+      "https://lobste.rs/s/zqiy8l/why_export_templates_would_be_useful_c"
+    ],
+    [
+      "Why export templates would be useful in C++ (2010)",
+      "http://warp.povusers.org/programming/export_templates.html"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 09:34:29",
       "https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint"
     ],
@@ -57,16 +67,6 @@
     [
       "From Linearity to Borrowing",
       "https://dl.acm.org/doi/abs/10.1145/3764117"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 02:13:58",
-      "https://lobste.rs/s/zmysvd/old_is_gold_optimizing_single_threaded"
-    ],
-    [
-      "Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc",
-      "https://arxiv.org/pdf/2510.10219"
     ]
   ],
   [
