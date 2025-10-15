@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 06:33:18",
+      "https://lobste.rs/s/0midxc/api_design_principle_don_t_tempt_people"
+    ],
+    [
+      "API design principle: Don't tempt people to divide by zero",
+      "https://devblogs.microsoft.com/oldnewthing/20251013-00/?p=111677"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 05:16:10",
       "https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves"
     ],
@@ -57,16 +67,6 @@
     [
       "binmoji: a compact, lossless, 64-bit emoji encoding",
       "https://github.com/jb55/binmoji"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 22:56:17",
-      "https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu"
-    ],
-    [
-      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
-      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
     ]
   ],
   [
