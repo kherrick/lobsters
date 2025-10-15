@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-15, 04:52:22",
+      "https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project"
+    ],
+    [
+      "FSF announces Librephone project",
+      "https://www.fsf.org/news/librephone-project"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 02:20:00",
       "https://lobste.rs/s/dnf353/from_linearity_borrowing"
     ],
@@ -167,16 +177,6 @@
     [
       "A modern approach to preventing CSRF in Go",
       "https://www.alexedwards.net/blog/preventing-csrf-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 15:14:31",
-      "https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching"
-    ],
-    [
-      "Practical Hurdles In Crab Latching Concurrency",
-      "https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/"
     ]
   ],
   [
