@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 13:00:40",
+      "https://lobste.rs/s/j4v4db/testing_frozen_string_literals"
+    ],
+    [
+      "Testing Frozen String Literals in Production",
+      "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 12:50:12",
       "https://lobste.rs/s/1kweb2/reverse_engineering_iwork"
     ],
@@ -107,16 +117,6 @@
     [
       "binmoji: a compact, lossless, 64-bit emoji encoding",
       "https://github.com/jb55/binmoji"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 22:56:17",
-      "https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu"
-    ],
-    [
-      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
-      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
     ]
   ],
   [
