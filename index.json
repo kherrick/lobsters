@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-15, 22:11:57",
+      "https://lobste.rs/s/3ujqcs/writing_json_parser_bqn"
+    ],
+    [
+      "Writing a JSON Parser in BQN",
+      "https://tony-zorman.com/posts/bqn-json.html"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 19:25:09",
       "https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax"
     ],
@@ -237,16 +247,6 @@
     [
       "Meta news on Lix in October 2025",
       "https://lix.systems/blog/2025-10-13-meta-lix-news/"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 13:16:39",
-      "https://lobste.rs/s/8bofpm/happy_birthday_kde"
-    ],
-    [
-      "Happy Birthday to KDE",
-      "https://kde.org/fundraisers/yearend2025/"
     ]
   ]
 ]
