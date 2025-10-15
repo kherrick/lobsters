@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-10-15, 02:10:08",
-      "https://lobste.rs/s/b0rv69/measuring_cache_performance_perf_2018"
-    ],
-    [
-      "Measuring cache performance + perf (2018)",
-      "https://josephmuia.ca/2018-09-04-measuring-cache-performance-perf/"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 02:01:34",
       "https://lobste.rs/s/bhakna/can_we_know_whether_profiler_is_accurate"
     ],
@@ -57,6 +47,16 @@
     [
       "binmoji: a compact, lossless, 64-bit emoji encoding",
       "https://github.com/jb55/binmoji"
+    ]
+  ],
+  [
+    [
+      "2025-10-14, 22:56:17",
+      "https://lobste.rs/s/opf77k/unpacking_cloudflare_workers_cpu"
+    ],
+    [
+      "Unpacking Cloudflare Workers CPU Performance Benchmarks",
+      "https://blog.cloudflare.com/unpacking-cloudflare-workers-cpu-performance-benchmarks/"
     ]
   ],
   [
