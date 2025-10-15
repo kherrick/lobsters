@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 * [2025-10-15, 02:13:58](https://lobste.rs/s/zmysvd/old_is_gold_optimizing_single_threaded) - [Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc](https://arxiv.org/pdf/2510.10219)
 * [2025-10-15, 02:10:08](https://lobste.rs/s/b0rv69/measuring_cache_performance_perf_2018) - [Measuring cache performance + perf (2018)](https://josephmuia.ca/2018-09-04-measuring-cache-performance-perf/)
 * [2025-10-15, 02:01:34](https://lobste.rs/s/bhakna/can_we_know_whether_profiler_is_accurate) - [Can We Know Whether a Profiler is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
@@ -24,7 +25,6 @@
 * [2025-10-14, 13:16:39](https://lobste.rs/s/8bofpm/happy_birthday_kde) - [Happy Birthday to KDE](https://kde.org/fundraisers/yearend2025/)
 * [2025-10-14, 10:29:11](https://lobste.rs/s/edejc6/mergiraf_syntax_aware_git_merge_driver) - [Mergiraf - syntax-aware git merge driver](https://mergiraf.org/)
 * [2025-10-14, 06:17:42](https://lobste.rs/s/fqmjsc/django_forever) - [Django forever](https://jmduke.com/posts/post/django/)
-* [2025-10-13, 20:09:29](https://lobste.rs/s/hwwsxh/zoo_array_languages) - [zoo of array languages](https://ktye.github.io/)
 
 ## [Archives](archives/index.md)
 
