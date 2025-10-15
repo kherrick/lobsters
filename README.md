@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
+* [2025-10-15, 04:52:22](https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-15, 02:20:00](https://lobste.rs/s/dnf353/from_linearity_borrowing) - [From Linearity to Borrowing](https://dl.acm.org/doi/abs/10.1145/3764117)
 * [2025-10-15, 02:13:58](https://lobste.rs/s/zmysvd/old_is_gold_optimizing_single_threaded) - [Old is Gold: Optimizing Single-threaded Applications with Exgen-Malloc](https://arxiv.org/pdf/2510.10219)
 * [2025-10-15, 02:01:34](https://lobste.rs/s/bhakna/can_we_know_whether_profiler_is_accurate) - [Can We Know Whether a Profiler is Accurate?](https://stefan-marr.de/2025/10/can-we-know-whether-a-profiler-is-accurate/)
@@ -17,7 +18,6 @@
 * [2025-10-14, 16:35:53](https://lobste.rs/s/q54lep/don_t_look_up_there_are_sensitive_internal) - [Don't Look Up: There Are Sensitive Internal Links in the Clear on GEO Satellites](https://satcom.sysnet.ucsd.edu/docs/dontlookup_ccs25_fullpaper.pdf)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
 * [2025-10-14, 15:33:00](https://lobste.rs/s/fzw9g7/modern_approach_preventing_csrf_go) - [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
-* [2025-10-14, 15:14:31](https://lobste.rs/s/p9fu4a/practical_hurdles_crab_latching) - [Practical Hurdles In Crab Latching Concurrency](https://jacobsherin.com/posts/2025-10-13-bplustree-concurrency-challenges/)
 * [2025-10-14, 15:11:18](https://lobste.rs/s/dkazbx/nanochat_best_chatgpt_100_can_buy) - [nanochat: The best ChatGPT that $100 can buy](https://github.com/karpathy/nanochat)
 * [2025-10-14, 14:33:35](https://lobste.rs/s/bhrvi2/drawing_text_isn_t_simple_benchmarking) - [Drawing Text Isn't Simple: Benchmarking Console vs. Graphical Rendering](https://cv.co.hu/csabi/drawing-text-performance-graphical-vs-console.html)
 * [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
