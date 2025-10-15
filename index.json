@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-15, 13:00:40",
-      "https://lobste.rs/s/j4v4db/testing_frozen_string_literals"
+      "2025-10-15, 14:52:20",
+      "https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are"
     ],
     [
-      "Testing Frozen String Literals in Production",
-      "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html"
+      "Why C variable argument functions are an abomination (and what to do about it) | H4X0R****",
+      "https://h4x0r.org/vargs/"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 14:43:15",
+      "https://lobste.rs/s/ytv7mi/recreating_canon_cat_document_interface"
+    ],
+    [
+      "Recreating the Canon Cat document interface",
+      "https://lab.alexanderobenauer.com/updates/the-jasper-report"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Empty Intervals are Valid Intervals",
       "https://nigeltao.github.io/blog/2025/empty-intervals.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 18:56:52",
-      "https://lobste.rs/s/sxdel7/rumdl_markdown_linter_written_rust"
-    ],
-    [
-      "rumdl: A Markdown Linter written in Rust",
-      "https://github.com/rvben/rumdl"
     ]
   ],
   [
