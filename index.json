@@ -5,7 +5,7 @@
       "https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are"
     ],
     [
-      "Why C variable argument functions are an abomination (and what to do about it) | H4X0R****",
+      "Why C variable argument functions are an abomination (and what to do about it)",
       "https://h4x0r.org/vargs/"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Recreating the Canon Cat document interface",
       "https://lab.alexanderobenauer.com/updates/the-jasper-report"
+    ]
+  ],
+  [
+    [
+      "2025-10-15, 13:00:40",
+      "https://lobste.rs/s/j4v4db/testing_frozen_string_literals"
+    ],
+    [
+      "Testing Frozen String Literals in Production",
+      "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "A modern approach to preventing CSRF in Go",
       "https://www.alexedwards.net/blog/preventing-csrf-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 15:11:18",
-      "https://lobste.rs/s/dkazbx/nanochat_best_chatgpt_100_can_buy"
-    ],
-    [
-      "nanochat: The best ChatGPT that $100 can buy",
-      "https://github.com/karpathy/nanochat"
     ]
   ],
   [
