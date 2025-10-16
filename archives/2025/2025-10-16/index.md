@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 10:19:58](https://lobste.rs/s/cucsmf/nix_connecting_sandbox) - [Nix: connecting to the Sandbox](https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/)
+* [2025-10-16, 10:18:06](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving) - [What’s your go-to strategy for giving engineers access to production?](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving)
 * [2025-10-16, 09:31:15](https://lobste.rs/s/2bnxba/elixir_v1_19_released) - [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-16, 08:34:56](https://lobste.rs/s/w8n1p5/no_silver_bullets_why_understanding) - [No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://arxiv.org/abs/2503.05040)
 * [2025-10-16, 08:16:14](https://lobste.rs/s/1qlrn2/coral_npu_full_stack_platform_for_edge_ai) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
