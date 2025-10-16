@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-16, 12:53:37](https://lobste.rs/s/ltajmd/creating_singleton_class_python_why_you) - [Creating a Singleton Class in Python And Why You (Probably) Don’t Need It](https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python)
+* [2025-10-16, 12:05:32](https://lobste.rs/s/sywcdi/scheme_steering_committee_election) - [Scheme Steering Committee election](https://r7rs.org/sc/)
 * [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
 * [2025-10-16, 10:52:06](https://lobste.rs/s/yd20m3/design_for_trash_can) - [Design for the trash can](https://arpi.se/anders/#design-for-the-trash-can)
 * [2025-10-16, 10:44:47](https://lobste.rs/s/exck0m/cl_tuition_common_lisp_library_for) - [cl-tuition: a Common Lisp library for building TUIs inspired by Charm](https://github.com/atgreen/cl-tuition)
@@ -10,7 +11,6 @@
 * [2025-10-16, 07:24:39](https://lobste.rs/s/5kxx9x/kanagawa_high_level_synthesis_language) - [kanagawa: High level synthesis language for hardware design](https://github.com/microsoft/kanagawa)
 * [2025-10-16, 06:40:22](https://lobste.rs/s/n3gn0p/mnt_september_2025_update) - [MNT September 2025 Update](https://mntre.com/media/reform_md/2025-09-30-september-update.html)
 * [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
-* [2025-10-15, 22:11:57](https://lobste.rs/s/3ujqcs/writing_json_parser_bqn) - [Writing a JSON Parser in BQN](https://tony-zorman.com/posts/bqn-json.html)
 * [2025-10-15, 21:41:45](https://lobste.rs/s/nla8ek/no_silver_bullets_why_understanding) - [No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://johnflournoy.science/no-silver-bullets/)
 * [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
