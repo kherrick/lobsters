@@ -2,6 +2,7 @@
 
 * [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
+* [2025-10-16, 13:44:28](https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows) - [Zed editor is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
 * [2025-10-16, 12:53:37](https://lobste.rs/s/ltajmd/creating_singleton_class_python_why_you) - [Creating a Singleton Class in Python And Why You (Probably) Don’t Need It](https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python)
 * [2025-10-16, 12:05:32](https://lobste.rs/s/sywcdi/scheme_steering_committee_election) - [Scheme Steering Committee election](https://r7rs.org/sc/)
 * [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
@@ -19,7 +20,6 @@
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 15:33:54](https://lobste.rs/s/teve66/unfair_flips_world_record_strategy) - [Unfair Flips World Record Strategy](https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
-* [2025-10-15, 14:43:15](https://lobste.rs/s/ytv7mi/recreating_canon_cat_document_interface) - [Recreating the Canon Cat document interface](https://lab.alexanderobenauer.com/updates/the-jasper-report)
 * [2025-10-15, 12:50:12](https://lobste.rs/s/1kweb2/reverse_engineering_iwork) - [Reverse Engineering iWork](https://andrews.substack.com/p/reverse-engineering-iwork)
 * [2025-10-15, 12:07:35](https://lobste.rs/s/w3yzd2/garbage_collection_for_rust_finalizer) - [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 09:34:29](https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
