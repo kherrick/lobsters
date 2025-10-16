@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 16:41:49](https://lobste.rs/s/ovme33/gamma_correction_on_fragment_shaders) - [Gamma correction on fragment shaders](https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/)
 * [2025-10-16, 15:22:54](https://lobste.rs/s/tqbrwc/hyperflask_flask_based_web_framework) - [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/)
 * [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-16, 16:41:49](https://lobste.rs/s/ovme33/gamma_correction_on_fragment_shaders) - [Gamma correction on fragment shaders](https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/)
 * [2025-10-16, 15:22:54](https://lobste.rs/s/tqbrwc/hyperflask_flask_based_web_framework) - [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/)
 * [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
@@ -12,7 +13,6 @@
 * [2025-10-16, 10:19:58](https://lobste.rs/s/cucsmf/nix_connecting_sandbox) - [Nix: connecting to the Sandbox](https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/)
 * [2025-10-16, 10:18:06](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving) - [What’s your go-to strategy for giving engineers access to production?](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving)
 * [2025-10-16, 09:31:15](https://lobste.rs/s/2bnxba/elixir_v1_19_released) - [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
-* [2025-10-16, 07:24:39](https://lobste.rs/s/5kxx9x/kanagawa_high_level_synthesis_language) - [kanagawa: High level synthesis language for hardware design](https://github.com/microsoft/kanagawa)
 * [2025-10-16, 06:40:22](https://lobste.rs/s/n3gn0p/mnt_september_2025_update) - [MNT September 2025 Update](https://mntre.com/media/reform_md/2025-09-30-september-update.html)
 * [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)
