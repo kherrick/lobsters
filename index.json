@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 23:04:05",
+      "https://lobste.rs/s/jbd5a9/automerge"
+    ],
+    [
+      "Automerge",
+      "https://automerge.org/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 19:27:28",
       "https://lobste.rs/s/knnz1l/python_as_configuration_language_via"
     ],
@@ -217,16 +227,6 @@
     [
       "Reverse Engineering iWork",
       "https://andrews.substack.com/p/reverse-engineering-iwork"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 12:07:35",
-      "https://lobste.rs/s/w3yzd2/garbage_collection_for_rust_finalizer"
-    ],
-    [
-      "Garbage Collection for Rust: The Finalizer Frontier",
-      "https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/"
     ]
   ],
   [
