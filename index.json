@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-16, 10:19:58",
+      "https://lobste.rs/s/cucsmf/nix_connecting_sandbox"
+    ],
+    [
+      "Nix: connecting to the Sandbox",
+      "https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 10:18:06",
+      "https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving"
+    ],
+    [
+      "What’s your go-to strategy for giving engineers access to production?",
+      "https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 09:31:15",
       "https://lobste.rs/s/2bnxba/elixir_v1_19_released"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-10-15, 10:53:13",
-      "https://lobste.rs/s/zqiy8l/why_export_templates_would_be_useful_c"
-    ],
-    [
-      "Why export templates would be useful in C++ (2010)",
-      "http://warp.povusers.org/programming/export_templates.html"
-    ]
-  ],
-  [
-    [
       "2025-10-15, 09:34:29",
       "https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint"
     ],
@@ -237,16 +247,6 @@
     [
       "FSF announces Librephone project",
       "https://www.fsf.org/news/librephone-project"
-    ]
-  ],
-  [
-    [
-      "2025-10-14, 20:11:19",
-      "https://lobste.rs/s/fpri94/dhh_problem_2014"
-    ],
-    [
-      "The DHH Problem (2014)",
-      "https://tomstu.art/the-dhh-problem"
     ]
   ]
 ]
