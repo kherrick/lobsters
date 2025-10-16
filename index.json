@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 15:22:54",
+      "https://lobste.rs/s/tqbrwc/hyperflask_flask_based_web_framework"
+    ],
+    [
+      "Hyperflask - Flask-based Web Framework Integrated with HTMX",
+      "https://hyperflask.dev/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 14:32:47",
       "https://lobste.rs/s/llblp8/introduction_event_theory"
     ],
@@ -27,16 +37,6 @@
     [
       "Zed editor is now available on Windows",
       "https://zed.dev/blog/zed-for-windows-is-here"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 12:53:37",
-      "https://lobste.rs/s/ltajmd/creating_singleton_class_python_why_you"
-    ],
-    [
-      "Creating a Singleton Class in Python And Why You (Probably) Don’t Need It",
-      "https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python"
     ]
   ],
   [
