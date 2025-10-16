@@ -12,6 +12,7 @@
 * [2025-10-15, 18:44:08](https://lobste.rs/s/xbrton/modifying_python_repl) - [Modifying the Python REPL](https://treyhunner.com/2025/10/handy-python-repl-modifications/)
 * [2025-10-15, 17:42:11](https://lobste.rs/s/ysrvbn/cmux_coding_agent_multiplexer) - [cmux – Coding Agent Multiplexer](https://github.com/coder/cmux)
 * [2025-10-15, 17:27:52](https://lobste.rs/s/8pbyxc/f5_says_nation_state_hackers_stole_source) - [F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data](https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/)
+* [2025-10-15, 17:26:33](https://lobste.rs/s/hp6rv9/qnx_resource_manager_rust_message) - [QNX Resource Manager in Rust: Message Passing and Resource Managers](https://membarrier.wordpress.com/2025/09/28/qnx-resource-manager-in-rust-message-passing-and-resource-managers/)
 * [2025-10-15, 17:09:56](https://lobste.rs/s/ccj5nt/porting_from_perl_go_simplifying_for) - [Porting from Perl to Go: Simplifying for Platform Engineering](https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 15:33:54](https://lobste.rs/s/teve66/unfair_flips_world_record_strategy) - [Unfair Flips World Record Strategy](https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/)
