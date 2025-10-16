@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-16, 12:05:32",
-      "https://lobste.rs/s/sywcdi/scheme_steering_committee_election"
+      "2025-10-16, 12:53:37",
+      "https://lobste.rs/s/ltajmd/creating_singleton_class_python_why_you"
     ],
     [
-      "Scheme Steering Committee election",
-      "https://r7rs.org/sc/"
+      "Creating a Singleton Class in Python And Why You (Probably) Don’t Need It",
+      "https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
       "https://github.com/atgreen/cl-tuition"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 10:19:58",
+      "https://lobste.rs/s/cucsmf/nix_connecting_sandbox"
+    ],
+    [
+      "Nix: connecting to the Sandbox",
+      "https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
       "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 17:09:56",
-      "https://lobste.rs/s/ccj5nt/porting_from_perl_go_simplifying_for"
-    ],
-    [
-      "Porting from Perl to Go: Simplifying for Platform Engineering",
-      "https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/"
     ]
   ],
   [
