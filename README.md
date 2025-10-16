@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-16, 19:27:28](https://lobste.rs/s/knnz1l/python_as_configuration_language_via) - [Python as a Configuration Language (via Starlark)](https://openrun.dev/blog/starlark/)
 * [2025-10-16, 19:00:46](https://lobste.rs/s/pxyzvh/introduction_multisets) - [An Introduction to Multisets](https://arxiv.org/abs/2110.12902)
 * [2025-10-16, 16:41:49](https://lobste.rs/s/ovme33/gamma_correction_on_fragment_shaders) - [Gamma correction on fragment shaders](https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/)
 * [2025-10-16, 15:22:54](https://lobste.rs/s/tqbrwc/hyperflask_flask_based_web_framework) - [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/)
@@ -18,7 +19,6 @@
 * [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
-* [2025-10-15, 17:27:52](https://lobste.rs/s/8pbyxc/f5_says_nation_state_hackers_stole_source) - [F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data](https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
 * [2025-10-15, 12:50:12](https://lobste.rs/s/1kweb2/reverse_engineering_iwork) - [Reverse Engineering iWork](https://andrews.substack.com/p/reverse-engineering-iwork)
