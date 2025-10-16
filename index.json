@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 07:24:39",
+      "https://lobste.rs/s/5kxx9x/kanagawa_high_level_synthesis_language"
+    ],
+    [
+      "kanagawa: High level synthesis language for hardware design",
+      "https://github.com/microsoft/kanagawa"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 06:40:22",
       "https://lobste.rs/s/n3gn0p/mnt_september_2025_update"
     ],
@@ -87,16 +97,6 @@
     [
       "F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data",
       "https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 17:26:33",
-      "https://lobste.rs/s/hp6rv9/qnx_resource_manager_rust_message"
-    ],
-    [
-      "QNX Resource Manager in Rust: Message Passing and Resource Managers",
-      "https://membarrier.wordpress.com/2025/09/28/qnx-resource-manager-in-rust-message-passing-and-resource-managers/"
     ]
   ],
   [
