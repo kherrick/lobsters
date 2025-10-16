@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-15](index.md)
 
+* [2025-10-15, 23:45:30](https://lobste.rs/s/lilw2w/i_cheated_at_poker_by_hacking_casino_card) - [I Cheated At Poker By Hacking A Casino Card Shuffling Machine](https://youtu.be/JQ20ilE5DtA)
 * [2025-10-15, 22:11:57](https://lobste.rs/s/3ujqcs/writing_json_parser_bqn) - [Writing a JSON Parser in BQN](https://tony-zorman.com/posts/bqn-json.html)
 * [2025-10-15, 21:41:45](https://lobste.rs/s/nla8ek/no_silver_bullets_why_understanding) - [No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://johnflournoy.science/no-silver-bullets/)
 * [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)

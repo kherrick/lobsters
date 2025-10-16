@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-15, 23:45:30](https://lobste.rs/s/lilw2w/i_cheated_at_poker_by_hacking_casino_card) - [I Cheated At Poker By Hacking A Casino Card Shuffling Machine](https://youtu.be/JQ20ilE5DtA)
 * [2025-10-15, 22:11:57](https://lobste.rs/s/3ujqcs/writing_json_parser_bqn) - [Writing a JSON Parser in BQN](https://tony-zorman.com/posts/bqn-json.html)
 * [2025-10-15, 21:41:45](https://lobste.rs/s/nla8ek/no_silver_bullets_why_understanding) - [No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://johnflournoy.science/no-silver-bullets/)
 * [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)
@@ -24,7 +25,6 @@
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem_2014) - [The DHH Problem (2014)](https://tomstu.art/the-dhh-problem)
 * [2025-10-14, 18:26:55](https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t) - [Why your boss isn't worried about AI - \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 * [2025-10-14, 16:10:18](https://lobste.rs/s/xqk3yj/hold_off_on_litestream_0_5_0) - [Hold Off on Litestream 0.5.0](https://mtlynch.io/notes/hold-off-on-litestream-0.5.0/)
-* [2025-10-14, 13:42:17](https://lobste.rs/s/pkowfh/meta_news_on_lix_october_2025) - [Meta news on Lix in October 2025](https://lix.systems/blog/2025-10-13-meta-lix-news/)
 
 ## [Archives](archives/index.md)
 
