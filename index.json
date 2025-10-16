@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-10-16, 12:53:37",
+      "https://lobste.rs/s/ltajmd/creating_singleton_class_python_why_you"
+    ],
+    [
+      "Creating a Singleton Class in Python And Why You (Probably) Don’t Need It",
+      "https://www.thepythoncodingstack.com/p/creating-a-singleton-class-in-python"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 12:05:32",
       "https://lobste.rs/s/sywcdi/scheme_steering_committee_election"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-10-16, 07:24:39",
+      "https://lobste.rs/s/5kxx9x/kanagawa_high_level_synthesis_language"
+    ],
+    [
+      "kanagawa: High level synthesis language for hardware design",
+      "https://github.com/microsoft/kanagawa"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 06:40:22",
       "https://lobste.rs/s/n3gn0p/mnt_september_2025_update"
     ],
@@ -127,16 +147,6 @@
     [
       "Free applicatives, the handle pattern, and remote systems",
       "https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 21:41:45",
-      "https://lobste.rs/s/nla8ek/no_silver_bullets_why_understanding"
-    ],
-    [
-      "No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic",
-      "https://johnflournoy.science/no-silver-bullets/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Pwning the Entire Nix Ecosystem",
       "https://ptrpa.ws/nixpkgs-actions-abuse"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 15:33:54",
-      "https://lobste.rs/s/teve66/unfair_flips_world_record_strategy"
-    ],
-    [
-      "Unfair Flips World Record Strategy",
-      "https://graham.build/s/a-blog/028-unfair-flips-world-record-strategy/"
     ]
   ],
   [
