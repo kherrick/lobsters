@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 10:44:47",
+      "https://lobste.rs/s/exck0m/cl_tuition_common_lisp_library_for"
+    ],
+    [
+      "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
+      "https://github.com/atgreen/cl-tuition"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 10:19:58",
       "https://lobste.rs/s/cucsmf/nix_connecting_sandbox"
     ],
@@ -27,16 +37,6 @@
     [
       "Elixir v1.19 Released",
       "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 08:34:56",
-      "https://lobste.rs/s/w8n1p5/no_silver_bullets_why_understanding"
-    ],
-    [
-      "No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic",
-      "https://arxiv.org/abs/2503.05040"
     ]
   ],
   [
