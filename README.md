@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-16, 08:16:14](https://lobste.rs/s/1qlrn2/coral_npu_full_stack_platform_for_edge_ai) - [Coral NPU: A full-stack platform for Edge AI](https://research.google/blog/coral-npu-a-full-stack-platform-for-edge-ai/)
 * [2025-10-16, 07:24:39](https://lobste.rs/s/5kxx9x/kanagawa_high_level_synthesis_language) - [kanagawa: High level synthesis language for hardware design](https://github.com/microsoft/kanagawa)
 * [2025-10-16, 06:40:22](https://lobste.rs/s/n3gn0p/mnt_september_2025_update) - [MNT September 2025 Update](https://mntre.com/media/reform_md/2025-09-30-september-update.html)
 * [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
@@ -24,7 +25,6 @@
 * [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 * [2025-10-15, 04:52:22](https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 * [2025-10-14, 20:11:19](https://lobste.rs/s/fpri94/dhh_problem_2014) - [The DHH Problem (2014)](https://tomstu.art/the-dhh-problem)
-* [2025-10-14, 18:26:55](https://lobste.rs/s/roygg3/why_your_boss_isn_t_worried_about_ai_can_t) - [Why your boss isn't worried about AI - \"can't you just turn it off?\"](https://boydkane.com/essays/boss)
 
 ## [Archives](archives/index.md)
 
