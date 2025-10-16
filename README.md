@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-15, 23:45:30](https://lobste.rs/s/lilw2w/i_cheated_at_poker_by_hacking_casino_card) - [I Cheated At Poker By Hacking A Casino Card Shuffling Machine](https://youtu.be/JQ20ilE5DtA)
 * [2025-10-15, 22:11:57](https://lobste.rs/s/3ujqcs/writing_json_parser_bqn) - [Writing a JSON Parser in BQN](https://tony-zorman.com/posts/bqn-json.html)
 * [2025-10-15, 21:41:45](https://lobste.rs/s/nla8ek/no_silver_bullets_why_understanding) - [No Silver Bullets: Why Understanding Software Cycle Time is Messy, Not Magic](https://johnflournoy.science/no-silver-bullets/)
 * [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 18:44:08](https://lobste.rs/s/xbrton/modifying_python_repl) - [Modifying the Python REPL](https://treyhunner.com/2025/10/handy-python-repl-modifications/)
-* [2025-10-15, 17:42:11](https://lobste.rs/s/ysrvbn/cmux_coding_agent_multiplexer) - [cmux – Coding Agent Multiplexer](https://github.com/coder/cmux)
 * [2025-10-15, 17:27:52](https://lobste.rs/s/8pbyxc/f5_says_nation_state_hackers_stole_source) - [F5 Says Nation-State Hackers Stole Source Code and Vulnerability Data](https://www.securityweek.com/f5-blames-nation-state-hackers-for-theft-of-source-code-and-vulnerability-data/amp/)
 * [2025-10-15, 17:09:56](https://lobste.rs/s/ccj5nt/porting_from_perl_go_simplifying_for) - [Porting from Perl to Go: Simplifying for Platform Engineering](https://phoenixtrap.com/2025/10/05/brew-patch-upgrade-go-port/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
