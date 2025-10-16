@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-10-15, 17:26:33",
+      "https://lobste.rs/s/hp6rv9/qnx_resource_manager_rust_message"
+    ],
+    [
+      "QNX Resource Manager in Rust: Message Passing and Resource Managers",
+      "https://membarrier.wordpress.com/2025/09/28/qnx-resource-manager-in-rust-message-passing-and-resource-managers/"
+    ]
+  ],
+  [
+    [
       "2025-10-15, 17:09:56",
       "https://lobste.rs/s/ccj5nt/porting_from_perl_go_simplifying_for"
     ],
@@ -207,16 +217,6 @@
     [
       "FSF announces Librephone project",
       "https://www.fsf.org/news/librephone-project"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 00:07:29",
-      "https://lobste.rs/s/p6yk6b/binmoji_compact_lossless_64_bit_emoji"
-    ],
-    [
-      "binmoji: a compact, lossless, 64-bit emoji encoding",
-      "https://github.com/jb55/binmoji"
     ]
   ],
   [
