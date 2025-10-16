@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-16, 19:27:28](https://lobste.rs/s/knnz1l/python_as_configuration_language_via) - [Python as a Configuration Language (via Starlark)](https://openrun.dev/blog/starlark/)
 * [2025-10-16, 16:41:49](https://lobste.rs/s/ovme33/gamma_correction_on_fragment_shaders) - [Gamma correction on fragment shaders](https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/)
 * [2025-10-16, 15:22:54](https://lobste.rs/s/tqbrwc/hyperflask_flask_based_web_framework) - [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/)
 * [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
@@ -24,7 +25,6 @@
 * [2025-10-15, 12:07:35](https://lobste.rs/s/w3yzd2/garbage_collection_for_rust_finalizer) - [Garbage Collection for Rust: The Finalizer Frontier](https://soft-dev.org/pubs/html/hughes_tratt__garbage_collection_for_rust_the_finalizer_frontier/)
 * [2025-10-15, 09:34:29](https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
 * [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
-* [2025-10-15, 04:52:22](https://lobste.rs/s/g0oxmh/fsf_announces_librephone_project) - [FSF announces Librephone project](https://www.fsf.org/news/librephone-project)
 
 ## [Archives](archives/index.md)
 
