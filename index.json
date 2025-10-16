@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-16, 10:52:06",
+      "https://lobste.rs/s/yd20m3/design_for_trash_can"
+    ],
+    [
+      "Design for the trash can",
+      "https://arpi.se/anders/#design-for-the-trash-can"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 10:44:47",
       "https://lobste.rs/s/exck0m/cl_tuition_common_lisp_library_for"
     ],
@@ -187,16 +197,6 @@
     [
       "Recreating the Canon Cat document interface",
       "https://lab.alexanderobenauer.com/updates/the-jasper-report"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 13:00:40",
-      "https://lobste.rs/s/j4v4db/testing_frozen_string_literals"
-    ],
-    [
-      "Testing Frozen String Literals in Production",
-      "https://intertwingly.net/blog/2025/10/15/Frozen-String-Literals.html"
     ]
   ],
   [
