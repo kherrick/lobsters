@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
+* [2025-10-16, 12:05:32](https://lobste.rs/s/sywcdi/scheme_steering_committee_election) - [Scheme Steering Committee election](https://r7rs.org/sc/)
+* [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
 * [2025-10-16, 10:52:06](https://lobste.rs/s/yd20m3/design_for_trash_can) - [Design for the trash can](https://arpi.se/anders/#design-for-the-trash-can)
 * [2025-10-16, 10:44:47](https://lobste.rs/s/exck0m/cl_tuition_common_lisp_library_for) - [cl-tuition: a Common Lisp library for building TUIs inspired by Charm](https://github.com/atgreen/cl-tuition)
 * [2025-10-16, 10:19:58](https://lobste.rs/s/cucsmf/nix_connecting_sandbox) - [Nix: connecting to the Sandbox](https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/)
