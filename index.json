@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-17, 15:17:21",
+      "https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built"
+    ],
+    [
+      "Bundler 2.6: Enhanced Security with Built-in Checksum Verification",
+      "https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 13:22:54",
       "https://lobste.rs/s/v23clg/world_s_fastest_scrabble_program_1988"
     ],
@@ -37,16 +47,6 @@
     [
       "Demystifying the [Kubernetes] CNI by Writing One From Scratch",
       "https://isovalent.com/blog/post/demystifying-cni/"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 09:30:25",
-      "https://lobste.rs/s/y96cnt/lakehouses_path_low_cost_infinitely"
-    ],
-    [
-      "Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?",
-      "https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability"
     ]
   ],
   [
