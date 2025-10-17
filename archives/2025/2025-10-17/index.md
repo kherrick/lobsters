@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 15:17:21](https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built) - [Bundler 2.6: Enhanced Security with Built-in Checksum Verification](https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/)
 * [2025-10-17, 13:22:54](https://lobste.rs/s/v23clg/world_s_fastest_scrabble_program_1988) - [The World's Fastest Scrabble Program (1988)](https://dl.acm.org/doi/pdf/10.1145/42411.42420)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)

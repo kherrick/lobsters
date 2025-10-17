@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-17, 15:17:21](https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built) - [Bundler 2.6: Enhanced Security with Built-in Checksum Verification](https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/)
 * [2025-10-17, 13:22:54](https://lobste.rs/s/v23clg/world_s_fastest_scrabble_program_1988) - [The World's Fastest Scrabble Program (1988)](https://dl.acm.org/doi/pdf/10.1145/42411.42420)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
 * [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
-* [2025-10-17, 09:30:25](https://lobste.rs/s/y96cnt/lakehouses_path_low_cost_infinitely) - [Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?](https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability)
 * [2025-10-17, 08:25:53](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend)
 * [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-17, 07:17:22](https://lobste.rs/s/yqvpzd/flight_path_gpu_instanced_rendering) - [Flight Path - GPU Instanced Rendering](https://jeantimex.github.io/flight-path/)
