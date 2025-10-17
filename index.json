@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-17, 16:25:21",
+      "https://lobste.rs/s/huqrbu/compilation_is_communication"
+    ],
+    [
+      "Compilation is communication",
+      "https://mmapped.blog/posts/45-compilation-is-communication"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 16:23:23",
+      "https://lobste.rs/s/emkuan/ruby_central_statement_on_rubygems"
+    ],
+    [
+      "Ruby Central Statement on RubyGems & Bundler [moving to ruby GH namespace]",
+      "https://mailchi.mp/0f6383baaf0e/strengthening-the-stewardship-of-rubygems-and-bundler-6718762?e=d6371ffd9a"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 15:17:21",
       "https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-10-16, 19:00:46",
-      "https://lobste.rs/s/pxyzvh/introduction_multisets"
-    ],
-    [
-      "An Introduction to Multisets",
-      "https://arxiv.org/abs/2110.12902"
-    ]
-  ],
-  [
-    [
       "2025-10-16, 18:35:08",
       "https://lobste.rs/s/7tioqn/systems_software_large"
     ],
@@ -207,16 +217,6 @@
     [
       "Design for the trash can",
       "https://arpi.se/anders/#design-for-the-trash-can"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 10:44:47",
-      "https://lobste.rs/s/exck0m/cl_tuition_common_lisp_library_for"
-    ],
-    [
-      "cl-tuition: a Common Lisp library for building TUIs inspired by Charm",
-      "https://github.com/atgreen/cl-tuition"
     ]
   ],
   [
