@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-10-16, 23:17:57",
+      "https://lobste.rs/s/b7v9b3/speculations_on_arenas_non_trivial"
+    ],
+    [
+      "Speculations on arenas and non-trivial destructors",
+      "https://nullprogram.com/blog/2025/10/16/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 23:04:05",
       "https://lobste.rs/s/jbd5a9/automerge"
     ],
     [
       "Automerge",
       "https://automerge.org/"
+    ]
+  ],
+  [
+    [
+      "2025-10-16, 21:41:29",
+      "https://lobste.rs/s/8kguwk/html_dialog_getting_accessibility_ux"
+    ],
+    [
+      "HTML dialog: Getting accessibility and UX right",
+      "https://jaredcunha.com/blog/html-dialog-getting-accessibility-and-ux-right"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Systems Software in the Large",
       "https://oxide.computer/blog/systems-software-in-the-large"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 16:41:49",
-      "https://lobste.rs/s/ovme33/gamma_correction_on_fragment_shaders"
-    ],
-    [
-      "Gamma correction on fragment shaders",
-      "https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Why C variable argument functions are an abomination (and what to do about it)",
       "https://h4x0r.org/vargs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 09:34:29",
-      "https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint"
-    ],
-    [
-      "When you opened a screen shot of a video in Paint, the video was playing in it",
-      "https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681"
     ]
   ],
   [
