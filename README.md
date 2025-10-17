@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-17, 20:55:09](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
 * [2025-10-17, 16:06:52](https://lobste.rs/s/whdjpv/exceptions_vs_status_returns_2003) - [Exceptions vs. status returns (2003)](https://nedbatchelder.com/text/exceptions-vs-status.html)
@@ -22,7 +23,6 @@
 * [2025-10-16, 13:44:28](https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows) - [Zed editor is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
 * [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
 * [2025-10-16, 10:52:06](https://lobste.rs/s/yd20m3/design_for_trash_can) - [Design for the trash can](https://arpi.se/anders/#design-for-the-trash-can)
-* [2025-10-16, 10:19:58](https://lobste.rs/s/cucsmf/nix_connecting_sandbox) - [Nix: connecting to the Sandbox](https://bmcgee.ie/posts/2025/10/nix-connecting-to-the-sandbox/)
 * [2025-10-16, 10:18:06](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving) - [What’s your go-to strategy for giving engineers access to production?](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving)
 * [2025-10-16, 09:31:15](https://lobste.rs/s/2bnxba/elixir_v1_19_released) - [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 
