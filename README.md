@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-17, 07:17:22](https://lobste.rs/s/yqvpzd/flight_path_gpu_instanced_rendering) - [Flight Path - GPU Instanced Rendering](https://jeantimex.github.io/flight-path/)
 * [2025-10-17, 07:06:59](https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste) - [Syntax highlighting is a waste of an information channel](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2025-10-17, 05:21:38](https://lobste.rs/s/rppbwz/ocaml_platform_roadmap_2023) - [OCaml Platform Roadmap (2023)](https://ocaml.org/tools/platform-roadmap)
@@ -22,7 +23,6 @@
 * [2025-10-16, 10:18:06](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving) - [What’s your go-to strategy for giving engineers access to production?](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving)
 * [2025-10-16, 09:31:15](https://lobste.rs/s/2bnxba/elixir_v1_19_released) - [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-16, 06:40:22](https://lobste.rs/s/n3gn0p/mnt_september_2025_update) - [MNT September 2025 Update](https://mntre.com/media/reform_md/2025-09-30-september-update.html)
-* [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
 
