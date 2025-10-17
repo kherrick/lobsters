@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
+* [2025-10-17, 12:49:11](https://lobste.rs/s/18ltch/free_threaded_python_on_github_actions) - [Free-threaded Python on GitHub Actions](https://hugovk.dev/blog/2025/free-threaded-python-on-github-actions/)
 * [2025-10-17, 12:30:58](https://lobste.rs/s/usnuyw/transition_rubygems_repository) - [The Transition of RubyGems Repository Ownership](https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/)
 * [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
 * [2025-10-17, 09:30:25](https://lobste.rs/s/y96cnt/lakehouses_path_low_cost_infinitely) - [Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?](https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability)
