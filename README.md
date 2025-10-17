@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
+* [2025-10-16, 21:40:50](https://lobste.rs/s/jfoew3/effort_create_k8s_cluster_with_1m_active) - [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 19:27:28](https://lobste.rs/s/knnz1l/python_as_configuration_language_via) - [Python as a Configuration Language (via Starlark)](https://openrun.dev/blog/starlark/)
 * [2025-10-16, 19:00:46](https://lobste.rs/s/pxyzvh/introduction_multisets) - [An Introduction to Multisets](https://arxiv.org/abs/2110.12902)
 * [2025-10-16, 18:35:08](https://lobste.rs/s/7tioqn/systems_software_large) - [Systems Software in the Large](https://oxide.computer/blog/systems-software-in-the-large)
@@ -18,7 +19,6 @@
 * [2025-10-16, 09:31:15](https://lobste.rs/s/2bnxba/elixir_v1_19_released) - [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 * [2025-10-16, 06:40:22](https://lobste.rs/s/n3gn0p/mnt_september_2025_update) - [MNT September 2025 Update](https://mntre.com/media/reform_md/2025-09-30-september-update.html)
 * [2025-10-16, 03:34:05](https://lobste.rs/s/qzdnip/free_applicatives_handle_pattern_remote) - [Free applicatives, the handle pattern, and remote systems](https://exploring-better-ways.bellroy.com/free-applicatives-the-handle-pattern-and-remote-systems.html)
-* [2025-10-15, 20:08:07](https://lobste.rs/s/dt0n7w/paneru_sliding_tiling_window_manager_for) - [Paneru - A sliding, tiling window manager for MacOS](https://github.com/karinushka/paneru)
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)

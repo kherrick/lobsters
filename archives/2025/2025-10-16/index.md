@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-16](index.md)
 
 * [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
+* [2025-10-16, 21:40:50](https://lobste.rs/s/jfoew3/effort_create_k8s_cluster_with_1m_active) - [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 19:27:28](https://lobste.rs/s/knnz1l/python_as_configuration_language_via) - [Python as a Configuration Language (via Starlark)](https://openrun.dev/blog/starlark/)
 * [2025-10-16, 19:00:46](https://lobste.rs/s/pxyzvh/introduction_multisets) - [An Introduction to Multisets](https://arxiv.org/abs/2110.12902)
 * [2025-10-16, 18:35:08](https://lobste.rs/s/7tioqn/systems_software_large) - [Systems Software in the Large](https://oxide.computer/blog/systems-software-in-the-large)
