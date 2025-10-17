@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
-* [2025-10-17, 16:12:13](https://lobste.rs/s/x2lqvf/let_s_write_macro_rust) - [Let's write a macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
 * [2025-10-17, 15:17:21](https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built) - [Bundler 2.6: Enhanced Security with Built-in Checksum Verification](https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/)
 * [2025-10-17, 13:22:54](https://lobste.rs/s/v23clg/world_s_fastest_scrabble_program_1988) - [The World's Fastest Scrabble Program (1988)](https://dl.acm.org/doi/pdf/10.1145/42411.42420)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)

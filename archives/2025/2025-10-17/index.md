@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
 * [2025-10-17, 16:23:23](https://lobste.rs/s/emkuan/ruby_central_statement_on_rubygems) - [Ruby Central Statement on RubyGems & Bundler [moving to ruby GH namespace]](https://mailchi.mp/0f6383baaf0e/strengthening-the-stewardship-of-rubygems-and-bundler-6718762?e=d6371ffd9a)
 * [2025-10-17, 16:12:13](https://lobste.rs/s/x2lqvf/let_s_write_macro_rust) - [Let's write a macro in Rust](https://hackeryarn.com/post/rust-macros-1/)
