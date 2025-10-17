@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-17, 07:17:22",
+      "https://lobste.rs/s/yqvpzd/flight_path_gpu_instanced_rendering"
+    ],
+    [
+      "Flight Path - GPU Instanced Rendering",
+      "https://jeantimex.github.io/flight-path/"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 07:06:59",
+      "https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste"
+    ],
+    [
+      "Syntax highlighting is a waste of an information channel",
+      "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 05:21:38",
       "https://lobste.rs/s/rppbwz/ocaml_platform_roadmap_2023"
     ],
@@ -37,16 +57,6 @@
     [
       "Automerge",
       "https://automerge.org/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 21:41:29",
-      "https://lobste.rs/s/8kguwk/html_dialog_getting_accessibility_ux"
-    ],
-    [
-      "HTML dialog: Getting accessibility and UX right",
-      "https://jaredcunha.com/blog/html-dialog-getting-accessibility-and-ux-right"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why C variable argument functions are an abomination (and what to do about it)",
       "https://h4x0r.org/vargs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 05:16:10",
-      "https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves"
-    ],
-    [
-      "I am a programmer, not a rubber-stamp that approves Copilot generated code",
-      "https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html"
     ]
   ]
 ]
