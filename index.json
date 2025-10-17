@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-17, 01:31:09",
+      "https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web"
+    ],
+    [
+      "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
+      "https://blog.pixelmelt.dev/kindle-web-drm/"
+    ]
+  ],
+  [
+    [
       "2025-10-16, 23:04:05",
       "https://lobste.rs/s/jbd5a9/automerge"
     ],
@@ -217,16 +227,6 @@
     [
       "Why C variable argument functions are an abomination (and what to do about it)",
       "https://h4x0r.org/vargs/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 12:50:12",
-      "https://lobste.rs/s/1kweb2/reverse_engineering_iwork"
-    ],
-    [
-      "Reverse Engineering iWork",
-      "https://andrews.substack.com/p/reverse-engineering-iwork"
     ]
   ],
   [
