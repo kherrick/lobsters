@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
+* [2025-10-16, 23:17:57](https://lobste.rs/s/b7v9b3/speculations_on_arenas_non_trivial) - [Speculations on arenas and non-trivial destructors](https://nullprogram.com/blog/2025/10/16/)
 * [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
+* [2025-10-16, 21:41:29](https://lobste.rs/s/8kguwk/html_dialog_getting_accessibility_ux) - [HTML dialog: Getting accessibility and UX right](https://jaredcunha.com/blog/html-dialog-getting-accessibility-and-ux-right)
 * [2025-10-16, 21:40:50](https://lobste.rs/s/jfoew3/effort_create_k8s_cluster_with_1m_active) - [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 19:27:28](https://lobste.rs/s/knnz1l/python_as_configuration_language_via) - [Python as a Configuration Language (via Starlark)](https://openrun.dev/blog/starlark/)
 * [2025-10-16, 19:00:46](https://lobste.rs/s/pxyzvh/introduction_multisets) - [An Introduction to Multisets](https://arxiv.org/abs/2110.12902)
 * [2025-10-16, 18:35:08](https://lobste.rs/s/7tioqn/systems_software_large) - [Systems Software in the Large](https://oxide.computer/blog/systems-software-in-the-large)
-* [2025-10-16, 16:41:49](https://lobste.rs/s/ovme33/gamma_correction_on_fragment_shaders) - [Gamma correction on fragment shaders](https://riccardoscalco.it/blog/gamma-correction-on-fragment-shaders/)
 * [2025-10-16, 15:22:54](https://lobste.rs/s/tqbrwc/hyperflask_flask_based_web_framework) - [Hyperflask - Flask-based Web Framework Integrated with HTMX](https://hyperflask.dev/)
 * [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
@@ -23,7 +24,6 @@
 * [2025-10-15, 19:25:09](https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax) - [I am sorry, but everyone is getting syntax highlighting wrong](https://tonsky.me/blog/syntax-highlighting/)
 * [2025-10-15, 15:41:58](https://lobste.rs/s/gmjcf0/pwning_entire_nix_ecosystem) - [Pwning the Entire Nix Ecosystem](https://ptrpa.ws/nixpkgs-actions-abuse)
 * [2025-10-15, 14:52:20](https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are) - [Why C variable argument functions are an abomination (and what to do about it)](https://h4x0r.org/vargs/)
-* [2025-10-15, 09:34:29](https://lobste.rs/s/gbp005/when_you_opened_screen_shot_video_paint) - [When you opened a screen shot of a video in Paint, the video was playing in it](https://devblogs.microsoft.com/oldnewthing/20251014-00/?p=111681)
 * [2025-10-15, 05:16:10](https://lobste.rs/s/yzsv13/i_am_programmer_not_rubber_stamp_approves) - [I am a programmer, not a rubber-stamp that approves Copilot generated code](https://prahladyeri.github.io/blog/2025/10/i-am-a-programmer.html)
 
 ## [Archives](archives/index.md)
