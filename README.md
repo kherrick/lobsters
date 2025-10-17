@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
 * [2025-10-17, 09:30:25](https://lobste.rs/s/y96cnt/lakehouses_path_low_cost_infinitely) - [Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?](https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability)
 * [2025-10-17, 08:25:53](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend)
 * [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
@@ -17,7 +18,6 @@
 * [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
 * [2025-10-16, 13:44:28](https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows) - [Zed editor is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
-* [2025-10-16, 12:05:32](https://lobste.rs/s/sywcdi/scheme_steering_committee_election) - [Scheme Steering Committee election](https://r7rs.org/sc/)
 * [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
 * [2025-10-16, 10:52:06](https://lobste.rs/s/yd20m3/design_for_trash_can) - [Design for the trash can](https://arpi.se/anders/#design-for-the-trash-can)
 * [2025-10-16, 10:44:47](https://lobste.rs/s/exck0m/cl_tuition_common_lisp_library_for) - [cl-tuition: a Common Lisp library for building TUIs inspired by Charm](https://github.com/atgreen/cl-tuition)
