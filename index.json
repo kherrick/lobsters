@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-17, 16:06:52",
+      "https://lobste.rs/s/whdjpv/exceptions_vs_status_returns_2003"
+    ],
+    [
+      "Exceptions vs. status returns (2003)",
+      "https://nedbatchelder.com/text/exceptions-vs-status.html"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 15:17:21",
       "https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built"
     ],
@@ -127,16 +137,6 @@
     [
       "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
       "https://blog.pixelmelt.dev/kindle-web-drm/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 23:17:57",
-      "https://lobste.rs/s/b7v9b3/speculations_on_arenas_non_trivial"
-    ],
-    [
-      "Speculations on arenas and non-trivial destructors",
-      "https://nullprogram.com/blog/2025/10/16/"
     ]
   ],
   [
