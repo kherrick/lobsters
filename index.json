@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-17, 22:08:16",
+      "https://lobste.rs/s/ualmwx/incremental_construction_minimal"
+    ],
+    [
+      "Incremental Construction of Minimal Acyclic Finite-State Automata (2000)",
+      "https://aclanthology.org/J00-1002.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 20:55:09",
       "https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week"
     ],
@@ -167,16 +177,6 @@
     [
       "An effort to create a K8s cluster with 1M active nodes",
       "https://bchess.github.io/k8s-1m/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 18:35:08",
-      "https://lobste.rs/s/7tioqn/systems_software_large"
-    ],
-    [
-      "Systems Software in the Large",
-      "https://oxide.computer/blog/systems-software-in-the-large"
     ]
   ],
   [
