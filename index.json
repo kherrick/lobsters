@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-17, 09:30:25",
+      "https://lobste.rs/s/y96cnt/lakehouses_path_low_cost_infinitely"
+    ],
+    [
+      "Lakehouses: the path to low-cost, infinitely scalable, and no-lock-in observability?",
+      "https://clickhouse.com/blog/lakehouses-path-to-low-cost-scalable-no-lockin-observability"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 08:25:53",
       "https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "MNT September 2025 Update",
       "https://mntre.com/media/reform_md/2025-09-30-september-update.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 19:25:09",
-      "https://lobste.rs/s/bkoa67/i_am_sorry_everyone_is_getting_syntax"
-    ],
-    [
-      "I am sorry, but everyone is getting syntax highlighting wrong",
-      "https://tonsky.me/blog/syntax-highlighting/"
     ]
   ]
 ]
