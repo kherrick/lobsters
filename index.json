@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-17, 08:25:53",
+      "https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-10-17, 07:23:28",
       "https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview"
     ],
@@ -237,16 +247,6 @@
     [
       "I am sorry, but everyone is getting syntax highlighting wrong",
       "https://tonsky.me/blog/syntax-highlighting/"
-    ]
-  ],
-  [
-    [
-      "2025-10-15, 14:52:20",
-      "https://lobste.rs/s/v96g77/why_c_variable_argument_functions_are"
-    ],
-    [
-      "Why C variable argument functions are an abomination (and what to do about it)",
-      "https://h4x0r.org/vargs/"
     ]
   ]
 ]
