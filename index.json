@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-10-17, 12:30:58",
-      "https://lobste.rs/s/usnuyw/transition_rubygems_repository"
+      "2025-10-17, 12:58:30",
+      "https://lobste.rs/s/hjbfki/lexical_differential_highlighting"
     ],
     [
-      "The Transition of RubyGems Repository Ownership",
-      "https://www.ruby-lang.org/en/news/2025/10/17/rubygems-repository-transition/"
+      "Lexical differential highlighting instead of syntax highlighting",
+      "https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html"
+    ]
+  ],
+  [
+    [
+      "2025-10-17, 12:49:11",
+      "https://lobste.rs/s/18ltch/free_threaded_python_on_github_actions"
+    ],
+    [
+      "Free-threaded Python on GitHub Actions",
+      "https://hugovk.dev/blog/2025/free-threaded-python-on-github-actions/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Elixir v1.19 Released",
       "https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 06:40:22",
-      "https://lobste.rs/s/n3gn0p/mnt_september_2025_update"
-    ],
-    [
-      "MNT September 2025 Update",
-      "https://mntre.com/media/reform_md/2025-09-30-september-update.html"
     ]
   ]
 ]
