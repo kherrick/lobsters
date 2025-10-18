@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 21:06:04](https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from) - [Scheme Reports at Fifty: Where do we go from here?](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-18, 20:55:39](https://lobste.rs/s/tygg3e/design_space_ai_coding_tools) - [The design space of AI coding tools](https://austinhenley.com/blog/aidesignspace.html)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 20:24:41](https://lobste.rs/s/fzi1lj/open_letter_obsidian_team) - [An open letter to the Obsidian team](https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team)
@@ -14,7 +15,6 @@
 * [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
 * [2025-10-18, 06:59:02](https://lobste.rs/s/l9i8br/why_formalize_mathematics_more_than) - [Why formalize mathematics - more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
-* [2025-10-18, 05:18:20](https://lobste.rs/s/omdzze/unix_executable_as_smalltalk_method) - [Unix Executable as Smalltalk Method](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 01:36:19](https://lobste.rs/s/emudbc/how_we_organized_rust_clippy_feature) - [How we organized the Rust Clippy feature freeze](https://blog.goose.love/posts/organizing-a-feature-freeze/)
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
