@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 20:38:50",
+      "https://lobste.rs/s/pk8ee9/ripgrep_15_0_0"
+    ],
+    [
+      "Ripgrep 15.0.0",
+      "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 20:24:41",
       "https://lobste.rs/s/fzi1lj/open_letter_obsidian_team"
     ],
@@ -217,16 +227,6 @@
     [
       "Lexical differential highlighting instead of syntax highlighting (2019)",
       "https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 07:06:59",
-      "https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste"
-    ],
-    [
-      "Syntax highlighting is a waste of an information channel (2020)",
-      "https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/"
     ]
   ],
   [
