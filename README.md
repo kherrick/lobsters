@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 19:27:27](https://lobste.rs/s/vgwtpm/joe_decuir_engineering_notebook_1978) - [Joe Decuir Engineering Notebook 1978](https://archive.org/details/JoeDecuirEngineeringNotebook1978)
 * [2025-10-18, 16:54:42](https://lobste.rs/s/sbmepe/solving_nytimes_pips_puzzle_with) - [Solving the NYTimes Pips puzzle with a constraint solver](http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
@@ -9,7 +10,6 @@
 * [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
 * [2025-10-18, 06:59:02](https://lobste.rs/s/l9i8br/why_formalize_mathematics_more_than) - [Why formalize mathematics - more than catching errors](https://rkirov.github.io/posts/why_lean/)
-* [2025-10-18, 06:16:03](https://lobste.rs/s/ecnszh/txr_bytecode_optimization_case_study) - [TXR Bytecode Optimization Case Study](https://www.nongnu.org/txr/txr-opt.html)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
 * [2025-10-18, 05:18:20](https://lobste.rs/s/omdzze/unix_executable_as_smalltalk_method) - [Unix Executable as Smalltalk Method](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)

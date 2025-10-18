@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 19:27:27](https://lobste.rs/s/vgwtpm/joe_decuir_engineering_notebook_1978) - [Joe Decuir Engineering Notebook 1978](https://archive.org/details/JoeDecuirEngineeringNotebook1978)
 * [2025-10-18, 16:54:42](https://lobste.rs/s/sbmepe/solving_nytimes_pips_puzzle_with) - [Solving the NYTimes Pips puzzle with a constraint solver](http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
