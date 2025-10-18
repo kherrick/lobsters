@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
 * [2025-10-18, 05:31:34](https://lobste.rs/s/axiye4/reap_one_shot_pruning_for_trillion) - [REAP: One-Shot Pruning for Trillion-Parameter Mixture-of-Experts Models](https://www.cerebras.ai/blog/reap)
 * [2025-10-18, 05:18:20](https://lobste.rs/s/omdzze/unix_executable_as_smalltalk_method) - [Unix Executable as Smalltalk Method](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
