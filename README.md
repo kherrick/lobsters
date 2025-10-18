@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
 * [2025-10-18, 21:21:06](https://lobste.rs/s/fvq9ha/micro_machines_bic_23_pcb_with_hardware) - [Micro Machines BIC-23 PCB with hardware ROM patch](https://forums.nesdev.org/viewtopic.php?t=26295)
 * [2025-10-18, 21:06:04](https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from) - [Scheme Reports at Fifty: Where do we go from here?](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-18, 20:55:39](https://lobste.rs/s/tygg3e/design_space_ai_coding_tools) - [The design space of AI coding tools](https://austinhenley.com/blog/aidesignspace.html)
@@ -11,7 +12,6 @@
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 * [2025-10-18, 13:11:18](https://lobste.rs/s/c1l5b2/using_cue_unify_iot_sensor_data) - [Using CUE to unify IoT sensor data](https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/)
-* [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
 * [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
