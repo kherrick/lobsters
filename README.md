@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 21:21:06](https://lobste.rs/s/fvq9ha/micro_machines_bic_23_pcb_with_hardware) - [Micro Machines BIC-23 PCB with hardware ROM patch](https://forums.nesdev.org/viewtopic.php?t=26295)
 * [2025-10-18, 21:06:04](https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from) - [Scheme Reports at Fifty: Where do we go from here?](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
 * [2025-10-18, 20:55:39](https://lobste.rs/s/tygg3e/design_space_ai_coding_tools) - [The design space of AI coding tools](https://austinhenley.com/blog/aidesignspace.html)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
@@ -24,7 +25,6 @@
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting (2019)](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
 * [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
-* [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
 
 ## [Archives](archives/index.md)
 
