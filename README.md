@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 01:36:19](https://lobste.rs/s/emudbc/how_we_organized_rust_clippy_feature) - [How we organized the Rust Clippy feature freeze](https://blog.goose.love/posts/organizing-a-feature-freeze/)
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
@@ -23,7 +24,6 @@
 * [2025-10-16, 21:40:50](https://lobste.rs/s/jfoew3/effort_create_k8s_cluster_with_1m_active) - [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
 * [2025-10-16, 13:44:28](https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows) - [Zed editor is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
-* [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
 * [2025-10-16, 10:18:06](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving) - [What’s your go-to strategy for giving engineers access to production?](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving)
 
 ## [Archives](archives/index.md)
