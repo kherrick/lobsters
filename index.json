@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 11:47:27",
+      "https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code"
+    ],
+    [
+      "Building an Agent That Leverages Throwaway Code",
+      "https://lucumr.pocoo.org/2025/10/17/code/"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 11:11:56",
       "https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier"
     ],
@@ -57,16 +67,6 @@
     [
       "How Tailscale is improving NAT traversal (Part 1)",
       "https://tailscale.com/blog/nat-traversal-improvements-pt-1"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 05:31:34",
-      "https://lobste.rs/s/axiye4/reap_one_shot_pruning_for_trillion"
-    ],
-    [
-      "REAP: One-Shot Pruning for Trillion-Parameter Mixture-of-Experts Models",
-      "https://www.cerebras.ai/blog/reap"
     ]
   ],
   [
