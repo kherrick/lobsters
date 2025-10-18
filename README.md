@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 * [2025-10-18, 13:11:18](https://lobste.rs/s/c1l5b2/using_cue_unify_iot_sensor_data) - [Using CUE to unify IoT sensor data](https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/)
 * [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
 * [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
@@ -19,7 +20,6 @@
 * [2025-10-17, 16:06:52](https://lobste.rs/s/whdjpv/exceptions_vs_status_returns_2003) - [Exceptions vs. status returns (2003)](https://nedbatchelder.com/text/exceptions-vs-status.html)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting (2019)](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
-* [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
 * [2025-10-17, 08:25:53](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend)
 * [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-17, 07:06:59](https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
