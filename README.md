@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 05:18:20](https://lobste.rs/s/omdzze/unix_executable_as_smalltalk_method) - [Unix Executable as Smalltalk Method](https://programmingmadecomplicated.wordpress.com/wp-content/uploads/2025/10/onward25-jakubovic.pdf)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 * [2025-10-18, 01:36:19](https://lobste.rs/s/emudbc/how_we_organized_rust_clippy_feature) - [How we organized the Rust Clippy feature freeze](https://blog.goose.love/posts/organizing-a-feature-freeze/)
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
-* [2025-10-17, 22:08:16](https://lobste.rs/s/ualmwx/incremental_construction_minimal) - [Incremental Construction of Minimal Acyclic Finite-State Automata (2000)](https://aclanthology.org/J00-1002.pdf)
 * [2025-10-17, 20:55:09](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
