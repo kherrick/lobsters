@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 21:21:06",
+      "https://lobste.rs/s/fvq9ha/micro_machines_bic_23_pcb_with_hardware"
+    ],
+    [
+      "Micro Machines BIC-23 PCB with hardware ROM patch",
+      "https://forums.nesdev.org/viewtopic.php?t=26295"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 21:06:04",
       "https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from"
     ],
@@ -237,16 +247,6 @@
     [
       "How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked",
       "https://blog.pixelmelt.dev/kindle-web-drm/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 23:04:05",
-      "https://lobste.rs/s/jbd5a9/automerge"
-    ],
-    [
-      "Automerge",
-      "https://automerge.org/"
     ]
   ]
 ]
