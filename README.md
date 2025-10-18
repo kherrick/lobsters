@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 19:37:26](https://lobste.rs/s/chaivl/on_perfetto_open_source_company) - [On Perfetto, Open Source, and Company Priorities](https://lalitm.com/perfetto-oss-company-prio/)
 * [2025-10-18, 19:27:27](https://lobste.rs/s/vgwtpm/joe_decuir_engineering_notebook_1978) - [Joe Decuir Engineering Notebook 1978](https://archive.org/details/JoeDecuirEngineeringNotebook1978)
 * [2025-10-18, 16:54:42](https://lobste.rs/s/sbmepe/solving_nytimes_pips_puzzle_with) - [Solving the NYTimes Pips puzzle with a constraint solver](http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
@@ -16,7 +17,6 @@
 * [2025-10-18, 01:36:19](https://lobste.rs/s/emudbc/how_we_organized_rust_clippy_feature) - [How we organized the Rust Clippy feature freeze](https://blog.goose.love/posts/organizing-a-feature-freeze/)
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
-* [2025-10-17, 20:55:09](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
