@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 05:31:34",
+      "https://lobste.rs/s/axiye4/reap_one_shot_pruning_for_trillion"
+    ],
+    [
+      "REAP: One-Shot Pruning for Trillion-Parameter Mixture-of-Experts Models",
+      "https://www.cerebras.ai/blog/reap"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 05:18:20",
       "https://lobste.rs/s/omdzze/unix_executable_as_smalltalk_method"
     ],
@@ -237,16 +247,6 @@
     [
       "Zed editor is now available on Windows",
       "https://zed.dev/blog/zed-for-windows-is-here"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 10:18:06",
-      "https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving"
-    ],
-    [
-      "What’s your go-to strategy for giving engineers access to production?",
-      "https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving"
     ]
   ]
 ]
