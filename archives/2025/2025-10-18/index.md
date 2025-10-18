@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-18](index.md)
 
+* [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
 * [2025-10-18, 06:59:02](https://lobste.rs/s/l9i8br/why_formalize_mathematics_more_than) - [Why formalize mathematics - more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-18, 06:16:03](https://lobste.rs/s/ecnszh/txr_bytecode_optimization_case_study) - [TXR Bytecode Optimization Case Study](https://www.nongnu.org/txr/txr-opt.html)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 09:52:54](https://lobste.rs/s/4wipql/scaling_postgres_next_level_at_openai) - [Scaling Postgres to the next level at OpenAI](https://www.youtube.com/watch?v=Ni1SGhNu-Q4)
 * [2025-10-18, 06:59:02](https://lobste.rs/s/l9i8br/why_formalize_mathematics_more_than) - [Why formalize mathematics - more than catching errors](https://rkirov.github.io/posts/why_lean/)
 * [2025-10-18, 06:16:03](https://lobste.rs/s/ecnszh/txr_bytecode_optimization_case_study) - [TXR Bytecode Optimization Case Study](https://www.nongnu.org/txr/txr-opt.html)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
@@ -14,7 +15,6 @@
 * [2025-10-17, 16:25:21](https://lobste.rs/s/huqrbu/compilation_is_communication) - [Compilation is communication](https://mmapped.blog/posts/45-compilation-is-communication)
 * [2025-10-17, 16:06:52](https://lobste.rs/s/whdjpv/exceptions_vs_status_returns_2003) - [Exceptions vs. status returns (2003)](https://nedbatchelder.com/text/exceptions-vs-status.html)
 * [2025-10-17, 15:17:21](https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built) - [Bundler 2.6: Enhanced Security with Built-in Checksum Verification](https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/)
-* [2025-10-17, 13:22:54](https://lobste.rs/s/v23clg/world_s_fastest_scrabble_program_1988) - [The World's Fastest Scrabble Program (1988)](https://dl.acm.org/doi/pdf/10.1145/42411.42420)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting (2019)](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
 * [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
