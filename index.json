@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 05:51:16",
+      "https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal"
+    ],
+    [
+      "How Tailscale is improving NAT traversal (Part 1)",
+      "https://tailscale.com/blog/nat-traversal-improvements-pt-1"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 05:31:34",
       "https://lobste.rs/s/axiye4/reap_one_shot_pruning_for_trillion"
     ],
@@ -237,16 +247,6 @@
     [
       "Forgejo v13.0 is available",
       "https://forgejo.org/2025-10-release-v13-0/"
-    ]
-  ],
-  [
-    [
-      "2025-10-16, 13:44:28",
-      "https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows"
-    ],
-    [
-      "Zed editor is now available on Windows",
-      "https://zed.dev/blog/zed-for-windows-is-here"
     ]
   ]
 ]
