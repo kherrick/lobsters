@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-18, 13:11:18](https://lobste.rs/s/c1l5b2/using_cue_unify_iot_sensor_data) - [Using CUE to unify IoT sensor data](https://aran.dev/posts/cue/using-cue-to-unify-iot-sensor-data/)
 * [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
 * [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
@@ -24,7 +25,6 @@
 * [2025-10-17, 07:06:59](https://lobste.rs/s/ekqs2v/syntax_highlighting_is_waste) - [Syntax highlighting is a waste of an information channel (2020)](https://buttondown.com/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/)
 * [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
-* [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
 
 ## [Archives](archives/index.md)
 
