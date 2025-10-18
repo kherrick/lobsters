@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 11:11:56",
+      "https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier"
+    ],
+    [
+      "Fast calculation of the distance to cubic Bezier curves on the GPU",
+      "https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 10:25:13",
       "https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7"
     ],
@@ -147,16 +157,6 @@
     [
       "Exceptions vs. status returns (2003)",
       "https://nedbatchelder.com/text/exceptions-vs-status.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 15:17:21",
-      "https://lobste.rs/s/kgrikp/bundler_2_6_enhanced_security_with_built"
-    ],
-    [
-      "Bundler 2.6: Enhanced Security with Built-in Checksum Verification",
-      "https://mensfeld.pl/2025/01/the-silent-guardian-why-bundler-checksums-are-a-game-changer-for-your-applications/"
     ]
   ],
   [
