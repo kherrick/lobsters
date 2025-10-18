@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-17](index.md)
 
+* [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
 * [2025-10-17, 22:08:16](https://lobste.rs/s/ualmwx/incremental_construction_minimal) - [Incremental Construction of Minimal Acyclic Finite-State Automata (2000)](https://aclanthology.org/J00-1002.pdf)
 * [2025-10-17, 20:55:09](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week)

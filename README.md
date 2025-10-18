@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
 * [2025-10-17, 22:08:16](https://lobste.rs/s/ualmwx/incremental_construction_minimal) - [Incremental Construction of Minimal Acyclic Finite-State Automata (2000)](https://aclanthology.org/J00-1002.pdf)
 * [2025-10-17, 20:55:09](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/zgr4hf/what_are_you_reading_this_week)
@@ -10,6 +11,7 @@
 * [2025-10-17, 13:22:54](https://lobste.rs/s/v23clg/world_s_fastest_scrabble_program_1988) - [The World's Fastest Scrabble Program (1988)](https://dl.acm.org/doi/pdf/10.1145/42411.42420)
 * [2025-10-17, 13:21:00](https://lobste.rs/s/la69gv/jj_part_4_configuration) - [jj part 4: configuration](https://andre.arko.net/2025/10/15/jj-part-4-configuration/)
 * [2025-10-17, 12:58:30](https://lobste.rs/s/hjbfki/lexical_differential_highlighting) - [Lexical differential highlighting instead of syntax highlighting (2019)](https://wordsandbuttons.online/lexical_differential_highlighting_instead_of_syntax_highlighting.html)
+* [2025-10-17, 11:35:32](https://lobste.rs/s/wclfga/demystifying_kubernetes_cni_by_writing) - [Demystifying the [Kubernetes] CNI by Writing One From Scratch](https://isovalent.com/blog/post/demystifying-cni/)
 * [2025-10-17, 08:25:53](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/bgmyro/what_are_you_doing_this_weekend)
 * [2025-10-17, 07:23:28](https://lobste.rs/s/zfelwy/how_i_almost_got_hacked_by_job_interview) - [How I Almost Got Hacked By A 'Job Interview'](https://blog.daviddodda.com/how-i-almost-got-hacked-by-a-job-interview)
 * [2025-10-17, 07:17:22](https://lobste.rs/s/yqvpzd/flight_path_gpu_instanced_rendering) - [Flight Path - GPU Instanced Rendering](https://jeantimex.github.io/flight-path/)
@@ -18,11 +20,9 @@
 * [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 * [2025-10-16, 23:04:05](https://lobste.rs/s/jbd5a9/automerge) - [Automerge](https://automerge.org/)
 * [2025-10-16, 21:40:50](https://lobste.rs/s/jfoew3/effort_create_k8s_cluster_with_1m_active) - [An effort to create a K8s cluster with 1M active nodes](https://bchess.github.io/k8s-1m/)
-* [2025-10-16, 14:32:47](https://lobste.rs/s/llblp8/introduction_event_theory) - [An Introduction To Event Theory](https://yonkeltron.com/posts/an-introduction-to-event-theory/)
 * [2025-10-16, 14:00:22](https://lobste.rs/s/gk4mhd/forgejo_v13_0_is_available) - [Forgejo v13.0 is available](https://forgejo.org/2025-10-release-v13-0/)
 * [2025-10-16, 13:44:28](https://lobste.rs/s/ktmbwl/zed_editor_is_now_available_on_windows) - [Zed editor is now available on Windows](https://zed.dev/blog/zed-for-windows-is-here)
 * [2025-10-16, 12:01:27](https://lobste.rs/s/elcuwa/colored_highlighter_terminal_tool) - [Colored Highlighter - A terminal tool to highlight specific words in your command output with colors](https://github.com/dtonon/ch)
-* [2025-10-16, 10:52:06](https://lobste.rs/s/yd20m3/design_for_trash_can) - [Design for the trash can](https://arpi.se/anders/#design-for-the-trash-can)
 * [2025-10-16, 10:18:06](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving) - [What’s your go-to strategy for giving engineers access to production?](https://lobste.rs/s/heikad/what_s_your_go_strategy_for_giving)
 * [2025-10-16, 09:31:15](https://lobste.rs/s/2bnxba/elixir_v1_19_released) - [Elixir v1.19 Released](https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/)
 
