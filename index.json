@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-18, 14:31:15",
+      "https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on"
+    ],
+    [
+      "Flowistry: An IDE plugin for Rust that focuses on relevant code",
+      "https://github.com/willcrichton/flowistry"
+    ]
+  ],
+  [
+    [
       "2025-10-18, 13:29:22",
       "https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from"
     ],
@@ -167,16 +177,6 @@
     [
       "Compilation is communication",
       "https://mmapped.blog/posts/45-compilation-is-communication"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 16:06:52",
-      "https://lobste.rs/s/whdjpv/exceptions_vs_status_returns_2003"
-    ],
-    [
-      "Exceptions vs. status returns (2003)",
-      "https://nedbatchelder.com/text/exceptions-vs-status.html"
     ]
   ],
   [
