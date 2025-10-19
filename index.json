@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-10-19, 09:14:30",
+      "https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be"
+    ],
+    [
+      "Hallucinations are inevitable but can be made statistically negligible",
+      "https://doi.org/10.48550/arXiv.2502.12187"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 08:53:08",
       "https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools"
     ],
@@ -217,16 +227,6 @@
     [
       "If you could redesign Linux userland from scratch, what would you do differently?",
       "https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 05:51:16",
-      "https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal"
-    ],
-    [
-      "How Tailscale is improving NAT traversal (Part 1)",
-      "https://tailscale.com/blog/nat-traversal-improvements-pt-1"
     ]
   ],
   [
