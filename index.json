@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-19, 14:22:56",
+      "https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d"
+    ],
+    [
+      "Tracking Down a Regression in Mesa 3D",
+      "https://vkoskiv.com/mesa-regression/"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 14:10:37",
       "https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam"
     ],
@@ -117,16 +127,6 @@
     [
       "Consistent Hashing",
       "https://eli.thegreenplace.net/2025/consistent-hashing"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 07:09:28",
-      "https://lobste.rs/s/rzq0zq/all_you_wanted_know_about_stdio"
-    ],
-    [
-      "All You Wanted to Know About STDIO",
-      "https://memorici.de/posts/make-or-break-stdio/"
     ]
   ],
   [
