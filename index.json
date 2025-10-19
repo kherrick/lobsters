@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-19, 22:20:37",
+      "https://lobste.rs/s/ovn98j/add_rust_binder_driver"
+    ],
+    [
+      "Add Rust Binder Driver",
+      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 21:34:48",
       "https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me"
     ],
@@ -127,16 +137,6 @@
     [
       "Everybody's so Creative",
       "https://daymare.net/blogs/everbody-so-creative/"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 08:53:08",
-      "https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools"
-    ],
-    [
-      "scx: sched_ext schedulers and tools",
-      "https://github.com/sched-ext/scx"
     ]
   ],
   [
