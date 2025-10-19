@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:55:29](https://lobste.rs/s/fb8btf/ai_trading_real_market) - [AI Trading in Real Market](https://nof1.ai/)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 09:14:30](https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be) - [Hallucinations are inevitable but can be made statistically negligible](https://doi.org/10.48550/arXiv.2502.12187)
