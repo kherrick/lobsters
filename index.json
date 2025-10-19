@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-19, 14:10:37",
+      "https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam"
+    ],
+    [
+      "How I made my own web server in Gleam",
+      "https://wskiy.de/blog/making_my_own_web_server_in_gleam"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 13:29:05",
       "https://lobste.rs/s/nqn7ct/balancing_coupling_software_design"
     ],
@@ -237,16 +247,6 @@
     [
       "The Majority AI View",
       "https://www.anildash.com//2025/10/17/the-majority-ai-view/"
-    ]
-  ],
-  [
-    [
-      "2025-10-17, 23:58:48",
-      "https://lobste.rs/s/vw12iy/when_if_is_just_function"
-    ],
-    [
-      "When if is just a function",
-      "https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/"
     ]
   ]
 ]
