@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 07:09:28](https://lobste.rs/s/rzq0zq/all_you_wanted_know_about_stdio) - [All You Wanted to Know About STDIO](https://memorici.de/posts/make-or-break-stdio/)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
@@ -24,7 +25,6 @@
 * [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 * [2025-10-17, 22:35:00](https://lobste.rs/s/qj7qva/every_vibe_coded_website_is_same_page_with) - [Every vibe-coded website is the same page with different words. So I made that page](https://vibe-coded.lol/)
 * [2025-10-17, 17:58:17](https://lobste.rs/s/tcwpdy/claude_skills_may_be_bigger_deal_than_mcp) - [Claude Skills may be a bigger deal than MCP](https://simonwillison.net/2025/Oct/16/claude-skills/)
-* [2025-10-17, 01:31:09](https://lobste.rs/s/hoiiea/how_i_reversed_amazon_s_kindle_web) - [How I Reversed Amazon's Kindle Web Obfuscation Because Their App Sucked](https://blog.pixelmelt.dev/kindle-web-drm/)
 
 ## [Archives](archives/index.md)
 

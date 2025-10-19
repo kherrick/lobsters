@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 07:09:28](https://lobste.rs/s/rzq0zq/all_you_wanted_know_about_stdio) - [All You Wanted to Know About STDIO](https://memorici.de/posts/make-or-break-stdio/)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
