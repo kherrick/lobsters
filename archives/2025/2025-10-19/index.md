@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
 * [2025-10-19, 13:29:05](https://lobste.rs/s/nqn7ct/balancing_coupling_software_design) - [Balancing Coupling in Software Design](https://olano.dev/blog/balancing-coupling/)
 * [2025-10-19, 13:25:44](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)

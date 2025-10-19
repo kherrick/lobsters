@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
 * [2025-10-19, 13:29:05](https://lobste.rs/s/nqn7ct/balancing_coupling_software_design) - [Balancing Coupling in Software Design](https://olano.dev/blog/balancing-coupling/)
 * [2025-10-19, 13:25:44](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
@@ -12,7 +13,6 @@
 * [2025-10-19, 09:14:30](https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be) - [Hallucinations are inevitable but can be made statistically negligible](https://doi.org/10.48550/arXiv.2502.12187)
 * [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
-* [2025-10-19, 07:09:28](https://lobste.rs/s/rzq0zq/all_you_wanted_know_about_stdio) - [All You Wanted to Know About STDIO](https://memorici.de/posts/make-or-break-stdio/)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
 * [2025-10-19, 00:31:49](https://lobste.rs/s/fdu69j/using_pegs_janet) - [Using PEGs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
 * [2025-10-18, 23:01:53](https://lobste.rs/s/kexbxy/knowledge_creates_technical_debt) - [Knowledge creates technical debt](https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/)
