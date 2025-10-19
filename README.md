@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-19, 18:00:19](https://lobste.rs/s/fq7i4s/compare_single_board_computers) - [Compare Single Board Computers](https://sbc.compare/)
 * [2025-10-19, 16:17:10](https://lobste.rs/s/0hhu20/at_t_long_lines_forgotten_system_2018) - [AT&T Long Lines – A Forgotten System (2018)](https://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
 * [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
@@ -11,7 +12,6 @@
 * [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:55:29](https://lobste.rs/s/fb8btf/ai_trading_real_market) - [AI Trading in Real Market](https://nof1.ai/)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/)
-* [2025-10-19, 09:14:30](https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be) - [Hallucinations are inevitable but can be made statistically negligible](https://doi.org/10.48550/arXiv.2502.12187)
 * [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)

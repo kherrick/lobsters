@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 18:00:19](https://lobste.rs/s/fq7i4s/compare_single_board_computers) - [Compare Single Board Computers](https://sbc.compare/)
 * [2025-10-19, 16:17:10](https://lobste.rs/s/0hhu20/at_t_long_lines_forgotten_system_2018) - [AT&T Long Lines – A Forgotten System (2018)](https://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
 * [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
 * [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
