@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-19, 14:10:37](https://lobste.rs/s/vw7ooi/how_i_made_my_own_web_server_gleam) - [How I made my own web server in Gleam](https://wskiy.de/blog/making_my_own_web_server_in_gleam)
 * [2025-10-19, 13:29:05](https://lobste.rs/s/nqn7ct/balancing_coupling_software_design) - [Balancing Coupling in Software Design](https://olano.dev/blog/balancing-coupling/)
 * [2025-10-19, 13:25:44](https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web) - [Improving PixelMelt's Kindle Web Deobfuscator](https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/)
 * [2025-10-19, 13:25:11](https://lobste.rs/s/n5khhu/weird_haskell_feels_easy) - [Weird, but Haskell feels easy](https://xlii.space/eng/haskell-feels-easy/)
@@ -24,7 +25,6 @@
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 * [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
-* [2025-10-17, 23:58:48](https://lobste.rs/s/vw12iy/when_if_is_just_function) - [When if is just a function](https://ryelang.org/blog/posts/if-as-function-blogpost-working-on-it_ver1/)
 
 ## [Archives](archives/index.md)
 
