@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-19, 22:38:49](https://lobste.rs/s/evilia/context_parameters_api_design) - [Context parameters and API design](https://serranofp.com/blog/context-params.html)
+* [2025-10-19, 22:30:11](https://lobste.rs/s/jfbeez/entropy_compression_2013) - [Entropy in Compression (2013)](https://youtu.be/M5c_RFKVkko)
 * [2025-10-19, 22:20:37](https://lobste.rs/s/ovn98j/add_rust_binder_driver) - [Add Rust Binder Driver](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050)
 * [2025-10-19, 21:34:48](https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-19, 18:00:19](https://lobste.rs/s/fq7i4s/compare_single_board_computers) - [Compare Single Board Computers](https://sbc.compare/)
@@ -16,7 +18,6 @@
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 00:32:55](https://lobste.rs/s/wnwwrc/watch) - [./watch](https://dotslashwatch.com)
-* [2025-10-19, 00:31:49](https://lobste.rs/s/fdu69j/using_pegs_janet) - [Using PEGs in Janet](https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html)
 * [2025-10-18, 23:01:53](https://lobste.rs/s/kexbxy/knowledge_creates_technical_debt) - [Knowledge creates technical debt](https://lukeplant.me.uk/blog/posts/knowledge-creates-technical-debt/)
 * [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
 * [2025-10-18, 21:06:04](https://lobste.rs/s/taunq8/scheme_reports_at_fifty_where_do_we_go_from) - [Scheme Reports at Fifty: Where do we go from here?](https://crumbles.blog/posts/2025-10-18-scheme-reports-at-fifty.html)
@@ -24,7 +25,6 @@
 * [2025-10-18, 20:24:41](https://lobste.rs/s/fzi1lj/open_letter_obsidian_team) - [An open letter to the Obsidian team](https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team)
 * [2025-10-18, 19:37:26](https://lobste.rs/s/chaivl/on_perfetto_open_source_company) - [On Perfetto, Open Source, and Company Priorities](https://lalitm.com/perfetto-oss-company-prio/)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
-* [2025-10-18, 04:54:36](https://lobste.rs/s/jba7se/majority_ai_view) - [The Majority AI View](https://www.anildash.com//2025/10/17/the-majority-ai-view/)
 
 ## [Archives](archives/index.md)
 
