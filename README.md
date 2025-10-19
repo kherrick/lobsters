@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-19, 09:14:30](https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be) - [Hallucinations are inevitable but can be made statistically negligible](https://doi.org/10.48550/arXiv.2502.12187)
 * [2025-10-19, 08:53:08](https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools) - [scx: sched_ext schedulers and tools](https://github.com/sched-ext/scx)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 * [2025-10-19, 07:09:28](https://lobste.rs/s/rzq0zq/all_you_wanted_know_about_stdio) - [All You Wanted to Know About STDIO](https://memorici.de/posts/make-or-break-stdio/)
@@ -17,7 +18,6 @@
 * [2025-10-18, 16:54:42](https://lobste.rs/s/sbmepe/solving_nytimes_pips_puzzle_with) - [Solving the NYTimes Pips puzzle with a constraint solver](http://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html)
 * [2025-10-18, 14:31:15](https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on) - [Flowistry: An IDE plugin for Rust that focuses on relevant code](https://github.com/willcrichton/flowistry)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
-* [2025-10-18, 11:47:27](https://lobste.rs/s/f246zn/building_agent_leverages_throwaway_code) - [Building an Agent That Leverages Throwaway Code](https://lucumr.pocoo.org/2025/10/17/code/)
 * [2025-10-18, 11:11:56](https://lobste.rs/s/yvtyvy/fast_calculation_distance_cubic_bezier) - [Fast calculation of the distance to cubic Bezier curves on the GPU](https://blog.pkh.me/p/46-fast-calculation-of-the-distance-to-cubic-bezier-curves-on-the-gpu.html)
 * [2025-10-18, 10:25:13](https://lobste.rs/s/zrrkml/exploring_postgresql_18_s_new_uuidv7) - [Exploring PostgreSQL 18's new UUIDv7 support](https://aiven.io/blog/exploring-postgresql-18-new-uuidv7-support)
 * [2025-10-18, 05:51:16](https://lobste.rs/s/cyfytv/how_tailscale_is_improving_nat_traversal) - [How Tailscale is improving NAT traversal (Part 1)](https://tailscale.com/blog/nat-traversal-improvements-pt-1)
