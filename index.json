@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-19, 13:29:05",
+      "https://lobste.rs/s/nqn7ct/balancing_coupling_software_design"
+    ],
+    [
+      "Balancing Coupling in Software Design",
+      "https://olano.dev/blog/balancing-coupling/"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 13:25:44",
+      "https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web"
+    ],
+    [
+      "Improving PixelMelt's Kindle Web Deobfuscator",
+      "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/"
+    ]
+  ],
+  [
+    [
+      "2025-10-19, 13:25:11",
+      "https://lobste.rs/s/n5khhu/weird_haskell_feels_easy"
+    ],
+    [
+      "Weird, but Haskell feels easy",
+      "https://xlii.space/eng/haskell-feels-easy/"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 12:21:10",
       "https://lobste.rs/s/jgn90f/librebooting_thinkpad_t480"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2025-10-19, 09:14:30",
-      "https://lobste.rs/s/yykymj/hallucinations_are_inevitable_can_be"
-    ],
-    [
-      "Hallucinations are inevitable but can be made statistically negligible",
-      "https://doi.org/10.48550/arXiv.2502.12187"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 08:53:08",
       "https://lobste.rs/s/p1ys1v/scx_sched_ext_schedulers_tools"
     ],
@@ -107,16 +127,6 @@
     [
       "Using PEGs in Janet",
       "https://articles.inqk.net/2020/09/19/how-to-use-pegs-in-janet.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 23:24:47",
-      "https://lobste.rs/s/y7spoj/feed_me_up_scotty"
-    ],
-    [
-      "Feed me up, Scotty",
-      "https://feed-me-up-scotty.vincenttunru.com/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "On Perfetto, Open Source, and Company Priorities",
       "https://lalitm.com/perfetto-oss-company-prio/"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 19:27:27",
-      "https://lobste.rs/s/vgwtpm/joe_decuir_engineering_notebook_1978"
-    ],
-    [
-      "Joe Decuir Engineering Notebook 1978",
-      "https://archive.org/details/JoeDecuirEngineeringNotebook1978"
     ]
   ],
   [
