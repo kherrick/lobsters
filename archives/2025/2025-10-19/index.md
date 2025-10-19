@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-19](index.md)
 
+* [2025-10-19, 22:20:37](https://lobste.rs/s/ovn98j/add_rust_binder_driver) - [Add Rust Binder Driver](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050)
 * [2025-10-19, 21:34:48](https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-19, 18:00:19](https://lobste.rs/s/fq7i4s/compare_single_board_computers) - [Compare Single Board Computers](https://sbc.compare/)
 * [2025-10-19, 16:17:10](https://lobste.rs/s/0hhu20/at_t_long_lines_forgotten_system_2018) - [AT&T Long Lines – A Forgotten System (2018)](https://personal.garrettfuller.org/blog/2018/01/19/att-long-lines-a-forgotten-system/)
