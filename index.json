@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-19, 21:34:48",
+      "https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me"
+    ],
+    [
+      "The Day My Smart Vacuum Turned Against Me",
+      "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/"
+    ]
+  ],
+  [
+    [
       "2025-10-19, 18:00:19",
       "https://lobste.rs/s/fq7i4s/compare_single_board_computers"
     ],
@@ -217,16 +227,6 @@
     [
       "On Perfetto, Open Source, and Company Priorities",
       "https://lalitm.com/perfetto-oss-company-prio/"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 14:31:15",
-      "https://lobste.rs/s/gnvnwp/flowistry_ide_plugin_for_rust_focuses_on"
-    ],
-    [
-      "Flowistry: An IDE plugin for Rust that focuses on relevant code",
-      "https://github.com/willcrichton/flowistry"
     ]
   ],
   [
