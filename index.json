@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 18:45:32",
+      "https://lobste.rs/s/yvebbf/nix_ci_benchmarks"
+    ],
+    [
+      "Nix CI Benchmarks",
+      "https://garnix-io.github.io/benchmarks"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 17:25:56",
       "https://lobste.rs/s/xyg1fu/fil_c"
     ],
@@ -47,16 +57,6 @@
     [
       "In favor of comments, what does empirical engineering says? (2022)",
       "https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 15:01:04",
-      "https://lobste.rs/s/1fgrrl/create_your_own_ai_voice_agent_using"
-    ],
-    [
-      "Create Your Own AI Voice Agent Using EchoKit, ESP32, and Rust",
-      "https://www.instructables.com/Create-Your-Own-AI-Voice-Agent-Using-EchoKit-ESP32/"
     ]
   ],
   [
