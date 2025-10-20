@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-20, 12:48:09](https://lobste.rs/s/iqjdyh/matrix_conference_2025_highlights) - [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
 * [2025-10-20, 11:30:35](https://lobste.rs/s/hbjg4x/go_proposal_compare_ip_subnets) - [Go proposal: Compare IP subnets](https://antonz.org/accepted/netip-prefix-compare/)
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
 * [2025-10-20, 10:04:25](https://lobste.rs/s/xtunoa/we_need_start_doing_web_blocking_for_non) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
+* [2025-10-20, 09:44:58](https://lobste.rs/s/opzhuf/hide_read_comments) - [Hide read comments](https://lobste.rs/s/opzhuf/hide_read_comments)
 * [2025-10-20, 09:22:58](https://lobste.rs/s/mtzj7e/copy_patch_how_it_works) - [Copy-and-Patch: How It Works](https://transactional.blog/copy-and-patch/how-it-works)
 * [2025-10-20, 06:54:33](https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre) - [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 * [2025-10-20, 06:22:02](https://lobste.rs/s/k07a6m/integer_set_library_isl_primer) - [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
@@ -21,9 +23,7 @@
 * [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
-* [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
-* [2025-10-18, 20:24:41](https://lobste.rs/s/fzi1lj/open_letter_obsidian_team) - [An open letter to the Obsidian team](https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 
 ## [Archives](archives/index.md)
