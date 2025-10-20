@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-20, 16:27:16",
+      "https://lobste.rs/s/i6ivt5/continuously_keep_local_mailboxes_sync"
+    ],
+    [
+      "Continuously keep local mailboxes in sync with an IMAP server",
+      "https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 15:59:04",
       "https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops"
     ],
@@ -217,16 +227,6 @@
     [
       "Weird, but Haskell feels easy",
       "https://xlii.space/eng/haskell-feels-easy/"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 12:05:09",
-      "https://lobste.rs/s/m9dkcf/how_i_d_like_my_init_system_service"
-    ],
-    [
-      "How I’d like my init system / service supervisor to be",
-      "https://runxiyu.org/blog/linit/"
     ]
   ],
   [
