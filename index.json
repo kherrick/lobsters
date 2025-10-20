@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-20, 20:26:49",
+      "https://lobste.rs/s/dou6g6/emacs_time_zones"
+    ],
+    [
+      "Emacs time-zones",
+      "https://xenodium.com/emacs-time-zones-mode"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 20:13:31",
+      "https://lobste.rs/s/kqczws/measuring_engineering_productivity"
+    ],
+    [
+      "Measuring Engineering Productivity",
+      "https://justoffbyone.com/posts/measuring-engineering-productivity/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 19:57:22",
+      "https://lobste.rs/s/hxwjvp/aws_experiences_12_hour_multi_service"
+    ],
+    [
+      "AWS experiences 12+ hour multi-service outage",
+      "https://health.aws.amazon.com/health/status?ts=20251020"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 18:45:32",
       "https://lobste.rs/s/yvebbf/nix_ci_benchmarks"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-10-20, 09:44:58",
-      "https://lobste.rs/s/opzhuf/hide_read_comments"
-    ],
-    [
-      "Hide read comments",
-      "https://lobste.rs/s/opzhuf/hide_read_comments"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 06:54:33",
       "https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-10-19, 18:00:19",
-      "https://lobste.rs/s/fq7i4s/compare_single_board_computers"
-    ],
-    [
-      "Compare Single Board Computers",
-      "https://sbc.compare/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 14:22:56",
       "https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d"
     ],
@@ -237,16 +247,6 @@
     [
       "The future of Python web services looks GIL-free",
       "https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 09:34:38",
-      "https://lobste.rs/s/kfjzta/everybody_s_so_creative"
-    ],
-    [
-      "Everybody's so Creative",
-      "https://daymare.net/blogs/everbody-so-creative/"
     ]
   ]
 ]
