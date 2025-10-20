@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 09:22:58",
+      "https://lobste.rs/s/mtzj7e/copy_patch_how_it_works"
+    ],
+    [
+      "Copy-and-Patch: How It Works",
+      "https://transactional.blog/copy-and-patch/how-it-works"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 06:54:33",
       "https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-10-20, 06:04:00",
-      "https://lobste.rs/s/3nizmq/extism_make_all_software_programmable"
+      "2025-10-20, 04:08:45",
+      "https://lobste.rs/s/4ffid5/perfect_jumps_sm64_arctan_straining"
     ],
     [
-      "Extism - make all software programmable. Extend from within",
-      "https://extism.org/"
+      "Perfect Jumps in SM64 - Arctan Straining Explained",
+      "https://youtu.be/_yx0eutBwII"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "How I made my own web server in Gleam",
       "https://wskiy.de/blog/making_my_own_web_server_in_gleam"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 13:29:05",
-      "https://lobste.rs/s/nqn7ct/balancing_coupling_software_design"
-    ],
-    [
-      "Balancing Coupling in Software Design",
-      "https://olano.dev/blog/balancing-coupling/"
     ]
   ],
   [
