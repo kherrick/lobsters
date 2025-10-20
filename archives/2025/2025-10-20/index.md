@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 13:27:01](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week)
+* [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
+* [2025-10-20, 13:12:12](https://lobste.rs/s/iiseif/flink_watermarks_wtf) - [Flink Watermarks…WTF?](https://flink-watermarks.wtf)
 * [2025-10-20, 12:48:09](https://lobste.rs/s/iqjdyh/matrix_conference_2025_highlights) - [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
 * [2025-10-20, 11:30:35](https://lobste.rs/s/hbjg4x/go_proposal_compare_ip_subnets) - [Go proposal: Compare IP subnets](https://antonz.org/accepted/netip-prefix-compare/)
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
