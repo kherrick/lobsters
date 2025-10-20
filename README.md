@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-20, 13:57:49](https://lobste.rs/s/ofpmxn/reframe_technical_debt_as_software_debt) - [Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO](https://www.evalapply.org/posts/software-debt/index.html)
 * [2025-10-20, 13:27:01](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
 * [2025-10-20, 13:12:12](https://lobste.rs/s/iiseif/flink_watermarks_wtf) - [Flink Watermarks…WTF?](https://flink-watermarks.wtf)
@@ -24,7 +25,6 @@
 * [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/)
 * [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
-* [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 
 ## [Archives](archives/index.md)
 
