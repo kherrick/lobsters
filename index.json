@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 13:57:49",
+      "https://lobste.rs/s/ofpmxn/reframe_technical_debt_as_software_debt"
+    ],
+    [
+      "Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO",
+      "https://www.evalapply.org/posts/software-debt/index.html"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 13:27:01",
       "https://lobste.rs/s/dsbwge/what_are_you_doing_this_week"
     ],
@@ -237,16 +247,6 @@
     [
       "Consistent Hashing",
       "https://eli.thegreenplace.net/2025/consistent-hashing"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 20:38:50",
-      "https://lobste.rs/s/pk8ee9/ripgrep_15_0_0"
-    ],
-    [
-      "Ripgrep 15.0.0",
-      "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0"
     ]
   ]
 ]
