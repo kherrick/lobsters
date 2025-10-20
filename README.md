@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-20, 04:08:45](https://lobste.rs/s/4ffid5/perfect_jumps_sm64_arctan_straining) - [Perfect Jumps in SM64 - Arctan Straining Explained](https://youtu.be/_yx0eutBwII)
+* [2025-10-20, 06:22:02](https://lobste.rs/s/k07a6m/integer_set_library_isl_primer) - [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+* [2025-10-20, 06:04:00](https://lobste.rs/s/3nizmq/extism_make_all_software_programmable) - [Extism - make all software programmable. Extend from within](https://extism.org/)
 * [2025-10-20, 04:03:53](https://lobste.rs/s/wsezlo/mars_pathfinder_disaster) - [Mars pathfinder disaster](https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html)
 * [2025-10-20, 03:57:32](https://lobste.rs/s/jihdxj/no_military_funding_2004) - [No Military Funding (2004)](https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html)
 * [2025-10-20, 03:34:15](https://lobste.rs/s/9bubx6/when_it_comes_mcps_everything_we_know) - [When it comes to MCPs, everything we know about API design is wrong](https://blog.fsck.com/2025/10/19/mcps-are-not-like-other-apis/)
@@ -23,7 +24,6 @@
 * [2025-10-18, 21:39:42](https://lobste.rs/s/kdsrtf/software_can_be_finished) - [Software can be finished](https://rosswintle.uk/2025/10/software-can-be-finished/)
 * [2025-10-18, 20:38:50](https://lobste.rs/s/pk8ee9/ripgrep_15_0_0) - [Ripgrep 15.0.0](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
 * [2025-10-18, 20:24:41](https://lobste.rs/s/fzi1lj/open_letter_obsidian_team) - [An open letter to the Obsidian team](https://www.emilebangma.com/Writings/Blog/An-open-letter-to-the-Obsidian-team)
-* [2025-10-18, 19:37:26](https://lobste.rs/s/chaivl/on_perfetto_open_source_company) - [On Perfetto, Open Source, and Company Priorities](https://lalitm.com/perfetto-oss-company-prio/)
 * [2025-10-18, 13:29:22](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from) - [If you could redesign Linux userland from scratch, what would you do differently?](https://lobste.rs/s/ko5i9y/if_you_could_redesign_linux_userland_from)
 
 ## [Archives](archives/index.md)

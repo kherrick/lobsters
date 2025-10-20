@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 06:22:02](https://lobste.rs/s/k07a6m/integer_set_library_isl_primer) - [Integer Set Library (ISL) - A Primer](https://www.jeremykun.com/2025/10/19/isl-a-primer/)
+* [2025-10-20, 06:04:00](https://lobste.rs/s/3nizmq/extism_make_all_software_programmable) - [Extism - make all software programmable. Extend from within](https://extism.org/)
 * [2025-10-20, 04:08:45](https://lobste.rs/s/4ffid5/perfect_jumps_sm64_arctan_straining) - [Perfect Jumps in SM64 - Arctan Straining Explained](https://youtu.be/_yx0eutBwII)
 * [2025-10-20, 04:03:53](https://lobste.rs/s/wsezlo/mars_pathfinder_disaster) - [Mars pathfinder disaster](https://guitarvydas.github.io/2023/10/25/Mars-Pathfinder-Disaster.html)
 * [2025-10-20, 03:57:32](https://lobste.rs/s/jihdxj/no_military_funding_2004) - [No Military Funding (2004)](https://web.eecs.umich.edu/~kuipers/opinions/no-military-funding.html)
