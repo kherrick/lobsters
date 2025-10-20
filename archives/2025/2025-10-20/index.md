@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 20:26:49](https://lobste.rs/s/dou6g6/emacs_time_zones) - [Emacs time-zones](https://xenodium.com/emacs-time-zones-mode)
+* [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)
+* [2025-10-20, 19:57:22](https://lobste.rs/s/hxwjvp/aws_experiences_12_hour_multi_service) - [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 18:45:32](https://lobste.rs/s/yvebbf/nix_ci_benchmarks) - [Nix CI Benchmarks](https://garnix-io.github.io/benchmarks)
 * [2025-10-20, 17:25:56](https://lobste.rs/s/xyg1fu/fil_c) - [Fil-C](https://fil-c.org)
 * [2025-10-20, 17:18:44](https://lobste.rs/s/qza35k/ruby_butler_it_s_time_rethink_rubygems) - [Ruby Butler: It’s Time to Rethink RubyGems and Bundler](https://rubyelders.com/writings/2025-10-ruby-butler-1.html)
