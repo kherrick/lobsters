@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 22:38:23",
+      "https://lobste.rs/s/xdljm2/joy_rediscovering_perl"
+    ],
+    [
+      "The joy of rediscovering Perl",
+      "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 20:37:26",
       "https://lobste.rs/s/iwcmyh/how_i_accidentally_became_puregym_s"
     ],
@@ -197,16 +207,6 @@
     [
       "Three times faster with lazy imports",
       "https://hugovk.dev/blog/2025/lazy-imports/"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 22:20:37",
-      "https://lobste.rs/s/ovn98j/add_rust_binder_driver"
-    ],
-    [
-      "Add Rust Binder Driver",
-      "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=eafedbc7c050"
     ]
   ],
   [
