@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 20:37:26](https://lobste.rs/s/iwcmyh/how_i_accidentally_became_puregym_s) - [How I accidentally became PureGym's unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-10-20, 20:26:49](https://lobste.rs/s/dou6g6/emacs_time_zones) - [Emacs time-zones](https://xenodium.com/emacs-time-zones-mode)
 * [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)
 * [2025-10-20, 19:57:22](https://lobste.rs/s/hxwjvp/aws_experiences_12_hour_multi_service) - [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020)
