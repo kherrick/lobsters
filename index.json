@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 11:30:35",
+      "https://lobste.rs/s/hbjg4x/go_proposal_compare_ip_subnets"
+    ],
+    [
+      "Go proposal: Compare IP subnets",
+      "https://antonz.org/accepted/netip-prefix-compare/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 10:07:58",
       "https://lobste.rs/s/qlof7u/gleam_v1_13_0_released"
     ],
@@ -207,16 +217,6 @@
     [
       "Consistent Hashing",
       "https://eli.thegreenplace.net/2025/consistent-hashing"
-    ]
-  ],
-  [
-    [
-      "2025-10-18, 21:39:42",
-      "https://lobste.rs/s/kdsrtf/software_can_be_finished"
-    ],
-    [
-      "Software can be finished",
-      "https://rosswintle.uk/2025/10/software-can-be-finished/"
     ]
   ],
   [
