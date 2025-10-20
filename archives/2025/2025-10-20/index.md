@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
 * [2025-10-20, 17:25:56](https://lobste.rs/s/xyg1fu/fil_c) - [Fil-C](https://fil-c.org)
+* [2025-10-20, 17:18:44](https://lobste.rs/s/qza35k/ruby_butler_it_s_time_rethink_rubygems) - [Ruby Butler: It’s Time to Rethink RubyGems and Bundler](https://rubyelders.com/writings/2025-10-ruby-butler-1.html)
 * [2025-10-20, 16:27:16](https://lobste.rs/s/i6ivt5/continuously_keep_local_mailboxes_sync) - [Continuously keep local mailboxes in sync with an IMAP server](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-20, 15:12:47](https://lobste.rs/s/fdqnji/favor_comments_what_does_empirical) - [In favor of comments, what does empirical engineering says? (2022)](https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/)
