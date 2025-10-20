@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-20, 14:43:01",
+      "https://lobste.rs/s/px0gr0/how_i_use_claude_code_on_my_phone_with"
+    ],
+    [
+      "How I Use Claude Code on My Phone with Termux and Tailscale",
+      "https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 13:57:49",
       "https://lobste.rs/s/ofpmxn/reframe_technical_debt_as_software_debt"
     ],
@@ -187,16 +197,6 @@
     [
       "How I made my own web server in Gleam",
       "https://wskiy.de/blog/making_my_own_web_server_in_gleam"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 13:25:44",
-      "https://lobste.rs/s/zzpztw/improving_pixelmelt_s_kindle_web"
-    ],
-    [
-      "Improving PixelMelt's Kindle Web Deobfuscator",
-      "https://shkspr.mobi/blog/2025/10/improving-pixelmelts-kindle-web-deobfuscator/"
     ]
   ],
   [
