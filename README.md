@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-20, 15:12:47](https://lobste.rs/s/fdqnji/favor_comments_what_does_empirical) - [In favor of comments, what does empirical engineering says? (2022)](https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/)
 * [2025-10-20, 15:01:04](https://lobste.rs/s/1fgrrl/create_your_own_ai_voice_agent_using) - [Create Your Own AI Voice Agent Using EchoKit, ESP32, and Rust](https://www.instructables.com/Create-Your-Own-AI-Voice-Agent-Using-EchoKit-ESP32/)
 * [2025-10-20, 14:43:01](https://lobste.rs/s/px0gr0/how_i_use_claude_code_on_my_phone_with) - [How I Use Claude Code on My Phone with Termux and Tailscale](https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/)
@@ -24,7 +25,6 @@
 * [2025-10-19, 12:05:09](https://lobste.rs/s/m9dkcf/how_i_d_like_my_init_system_service) - [How I’d like my init system / service supervisor to be](https://runxiyu.org/blog/linit/)
 * [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 * [2025-10-19, 09:34:38](https://lobste.rs/s/kfjzta/everybody_s_so_creative) - [Everybody's so Creative](https://daymare.net/blogs/everbody-so-creative/)
-* [2025-10-19, 08:35:15](https://lobste.rs/s/0gxzau/consistent_hashing) - [Consistent Hashing](https://eli.thegreenplace.net/2025/consistent-hashing)
 
 ## [Archives](archives/index.md)
 
