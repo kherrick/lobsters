@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
 * [2025-10-21, 17:00:29](https://lobste.rs/s/wmcl4k/yet_another_year_with_decker_v1_44_v1_60) - [Yet Another Year With Decker (v1.44 - v1.60)](http://beyondloom.com/blog/unionstate3.html)
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
 * [2025-10-21, 15:15:57](https://lobste.rs/s/tbmns8/tarmageddon_cve_2025_62518_highlights) - [TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
@@ -21,7 +22,6 @@
 * [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)
 * [2025-10-20, 19:57:22](https://lobste.rs/s/hxwjvp/aws_experiences_12_hour_multi_service) - [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 17:25:56](https://lobste.rs/s/xyg1fu/fil_c) - [Fil-C](https://fil-c.org)
-* [2025-10-20, 16:27:16](https://lobste.rs/s/i6ivt5/continuously_keep_local_mailboxes_sync) - [Continuously keep local mailboxes in sync with an IMAP server](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
