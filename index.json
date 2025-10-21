@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-21, 06:47:52",
+      "https://lobste.rs/s/dr08yt/language_support_for_marginalia_search"
+    ],
+    [
+      "Language Support for Marginalia Search",
+      "https://www.marginalia.nu/log/a_126_multilingual/"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 03:28:21",
       "https://lobste.rs/s/lh2obf/how_we_built_websocket_servers_for_vercel"
     ],
@@ -237,16 +247,6 @@
     [
       "The Day My Smart Vacuum Turned Against Me",
       "https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 14:22:56",
-      "https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d"
-    ],
-    [
-      "Tracking Down a Regression in Mesa 3D",
-      "https://vkoskiv.com/mesa-regression/"
     ]
   ]
 ]
