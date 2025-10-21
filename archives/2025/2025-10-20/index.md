@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-10-20](index.md)
 
+* [2025-10-20, 23:41:01](https://lobste.rs/s/povey7/turn_off_cursor_turn_on_your_mind) - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
+* [2025-10-20, 22:32:50](https://lobste.rs/s/kxjcte/atproto_check_fall_2025) - [atproto Check-in (Fall 2025)](https://docs.bsky.app/blog/protocol-checkin-fall-2025)
 * [2025-10-20, 20:37:26](https://lobste.rs/s/iwcmyh/how_i_accidentally_became_puregym_s) - [How I accidentally became PureGym's unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
 * [2025-10-20, 20:26:49](https://lobste.rs/s/dou6g6/emacs_time_zones) - [Emacs time-zones](https://xenodium.com/emacs-time-zones-mode)
 * [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)
