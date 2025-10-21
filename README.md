@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-21, 03:28:21](https://lobste.rs/s/lh2obf/how_we_built_websocket_servers_for_vercel) - [How We Built WebSocket Servers for Vercel Functions](https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/)
 * [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
 * [2025-10-20, 23:41:01](https://lobste.rs/s/povey7/turn_off_cursor_turn_on_your_mind) - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
@@ -24,7 +25,6 @@
 * [2025-10-20, 06:54:33](https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre) - [Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 * [2025-10-19, 21:34:48](https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me) - [The Day My Smart Vacuum Turned Against Me](https://codetiger.github.io/blog/the-day-my-smart-vacuum-turned-against-me/)
 * [2025-10-19, 14:22:56](https://lobste.rs/s/ec4dqf/tracking_down_regression_mesa_3d) - [Tracking Down a Regression in Mesa 3D](https://vkoskiv.com/mesa-regression/)
-* [2025-10-19, 10:43:44](https://lobste.rs/s/huszno/future_python_web_services_looks_gil_free) - [The future of Python web services looks GIL-free](https://blog.baro.dev/p/the-future-of-python-web-services-looks-gil-free)
 
 ## [Archives](archives/index.md)
 
