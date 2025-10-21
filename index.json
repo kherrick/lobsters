@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-21, 06:57:44",
+      "https://lobste.rs/s/hs1cua/progress_update_on_clang_s_new_constant"
+    ],
+    [
+      "Progress update on Clang's new constant expression interpreter",
+      "https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 06:47:52",
       "https://lobste.rs/s/dr08yt/language_support_for_marginalia_search"
     ],
@@ -227,16 +237,6 @@
     [
       "We need to start doing web blocking for non-technical reasons",
       "https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 06:54:33",
-      "https://lobste.rs/s/7ovnze/discussion_benefits_drawbacks_git_pre"
-    ],
-    [
-      "Discussion of the Benefits and Drawbacks of the Git Pre-Commit Hook",
-      "https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html"
     ]
   ],
   [
