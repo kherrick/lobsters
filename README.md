@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
 * [2025-10-20, 23:41:01](https://lobste.rs/s/povey7/turn_off_cursor_turn_on_your_mind) - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
 * [2025-10-20, 22:32:50](https://lobste.rs/s/kxjcte/atproto_check_fall_2025) - [atproto Check-in (Fall 2025)](https://docs.bsky.app/blog/protocol-checkin-fall-2025)
@@ -17,7 +18,6 @@
 * [2025-10-20, 13:57:49](https://lobste.rs/s/ofpmxn/reframe_technical_debt_as_software_debt) - [Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO](https://www.evalapply.org/posts/software-debt/index.html)
 * [2025-10-20, 13:27:01](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
-* [2025-10-20, 12:48:09](https://lobste.rs/s/iqjdyh/matrix_conference_2025_highlights) - [Matrix Conference 2025 Highlights](https://element.io/blog/the-matrix-conference-a-seminal-moment-for-matrix/)
 * [2025-10-20, 11:30:35](https://lobste.rs/s/hbjg4x/go_proposal_compare_ip_subnets) - [Go proposal: Compare IP subnets](https://antonz.org/accepted/netip-prefix-compare/)
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
 * [2025-10-20, 10:04:25](https://lobste.rs/s/xtunoa/we_need_start_doing_web_blocking_for_non) - [We need to start doing web blocking for non-technical reasons](https://utcc.utoronto.ca/~cks/space/blog/web/WeShouldBlockForSocialReasons?showcomments)
