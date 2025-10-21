@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-21, 11:15:02](https://lobste.rs/s/9s7f00/forging_fedora_s_future_with_forgejo) - [Forging Fedora’s Future with Forgejo](https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/)
+* [2025-10-21, 11:12:03](https://lobste.rs/s/0zqebs/my_most_popular_application) - [My most popular application](https://blog.6nok.org/my-most-popular-application/)
 * [2025-10-21, 06:57:44](https://lobste.rs/s/hs1cua/progress_update_on_clang_s_new_constant) - [Progress update on Clang's new constant expression interpreter](https://developers.redhat.com/articles/2025/10/15/clang-bytecode-interpreter-update)
 * [2025-10-21, 06:47:52](https://lobste.rs/s/dr08yt/language_support_for_marginalia_search) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 03:28:21](https://lobste.rs/s/lh2obf/how_we_built_websocket_servers_for_vercel) - [How We Built WebSocket Servers for Vercel Functions](https://www.rivet.dev/blog/2025-10-20-how-we-built-websocket-servers-for-vercel-functions/)
@@ -16,10 +18,8 @@
 * [2025-10-20, 17:18:44](https://lobste.rs/s/qza35k/ruby_butler_it_s_time_rethink_rubygems) - [Ruby Butler: It’s Time to Rethink RubyGems and Bundler](https://rubyelders.com/writings/2025-10-ruby-butler-1.html)
 * [2025-10-20, 16:27:16](https://lobste.rs/s/i6ivt5/continuously_keep_local_mailboxes_sync) - [Continuously keep local mailboxes in sync with an IMAP server](https://whynothugo.nl/journal/2025/10/15/introducing-imapgoose/)
 * [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
-* [2025-10-20, 15:12:47](https://lobste.rs/s/fdqnji/favor_comments_what_does_empirical) - [In favor of comments, what does empirical engineering says? (2022)](https://sadraskol.com/posts/in-favor-of-comments-what-does-empirical-engineering-says/)
 * [2025-10-20, 14:43:01](https://lobste.rs/s/px0gr0/how_i_use_claude_code_on_my_phone_with) - [How I Use Claude Code on My Phone with Termux and Tailscale](https://www.skeptrune.com/posts/claude-code-on-mobile-termux-tailscale/)
 * [2025-10-20, 13:57:49](https://lobste.rs/s/ofpmxn/reframe_technical_debt_as_software_debt) - [Reframe Technical Debt as Software Debt. Treat it like a AAA-rated CDO](https://www.evalapply.org/posts/software-debt/index.html)
-* [2025-10-20, 13:27:01](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dsbwge/what_are_you_doing_this_week)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
 * [2025-10-20, 11:30:35](https://lobste.rs/s/hbjg4x/go_proposal_compare_ip_subnets) - [Go proposal: Compare IP subnets](https://antonz.org/accepted/netip-prefix-compare/)
 * [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
