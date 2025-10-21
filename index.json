@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-10-20, 23:41:01",
+      "https://lobste.rs/s/povey7/turn_off_cursor_turn_on_your_mind"
+    ],
+    [
+      "Turn off Cursor, turn on your mind",
+      "https://allvpv.org/turn-off-cursor/"
+    ]
+  ],
+  [
+    [
       "2025-10-20, 22:38:23",
       "https://lobste.rs/s/xdljm2/joy_rediscovering_perl"
     ],
     [
       "The joy of rediscovering Perl",
       "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/"
+    ]
+  ],
+  [
+    [
+      "2025-10-20, 22:32:50",
+      "https://lobste.rs/s/kxjcte/atproto_check_fall_2025"
+    ],
+    [
+      "atproto Check-in (Fall 2025)",
+      "https://docs.bsky.app/blog/protocol-checkin-fall-2025"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-10-20, 00:28:38",
-      "https://lobste.rs/s/fv1hvp/three_times_faster_with_lazy_imports"
-    ],
-    [
-      "Three times faster with lazy imports",
-      "https://hugovk.dev/blog/2025/lazy-imports/"
-    ]
-  ],
-  [
-    [
       "2025-10-19, 21:34:48",
       "https://lobste.rs/s/aovn8c/day_my_smart_vacuum_turned_against_me"
     ],
@@ -227,16 +237,6 @@
     [
       "Tracking Down a Regression in Mesa 3D",
       "https://vkoskiv.com/mesa-regression/"
-    ]
-  ],
-  [
-    [
-      "2025-10-19, 13:25:11",
-      "https://lobste.rs/s/n5khhu/weird_haskell_feels_easy"
-    ],
-    [
-      "Weird, but Haskell feels easy",
-      "https://xlii.space/eng/haskell-feels-easy/"
     ]
   ],
   [
