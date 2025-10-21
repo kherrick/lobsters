@@ -12,6 +12,7 @@
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
 * [2025-10-21, 15:15:57](https://lobste.rs/s/tbmns8/tarmageddon_cve_2025_62518_highlights) - [TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
 * [2025-10-21, 15:13:55](https://lobste.rs/s/2mjimw/fast_bytecode_vm_for_arithmetic_virtual) - [A Fast Bytecode VM for Arithmetic: The Virtual Machine](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/)
+* [2025-10-21, 15:13:11](https://lobste.rs/s/4ozeaf/openbsd_7_8) - [OpenBSD 7.8](https://www.openbsd.org/78.html)
 * [2025-10-21, 13:11:42](https://lobste.rs/s/o8acsz/streaming_live_video_as_macos) - [Streaming live video as a macOS screensaver using AVFoundation and yt-dlp](https://github.com/hauxir/macos-live-screensaver)
 * [2025-10-21, 13:11:24](https://lobste.rs/s/6hfg9a/tracking_time_without_clock) - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
 * [2025-10-21, 13:09:45](https://lobste.rs/s/kltrqx/just_use_curl) - [Just use cURL](https://justuse.org/curl/)
