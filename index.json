@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-21, 18:36:10",
+      "https://lobste.rs/s/rhmh7d/magit_is_amazing"
+    ],
+    [
+      "Magit is Amazing",
+      "https://heiwiper.com/posts/magit-is-awesome/"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 17:44:22",
       "https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2025-10-21, 16:33:33",
+      "https://lobste.rs/s/c6hkyp/design_scheme_78_lisp_based"
+    ],
+    [
+      "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
+      "https://dl.acm.org/doi/10.1145/359024.359031"
+    ]
+  ],
+  [
+    [
       "2025-10-21, 15:17:38",
       "https://lobste.rs/s/pstg9w/plasma_6_5"
     ],
@@ -37,6 +57,16 @@
     [
       "TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware",
       "https://edera.dev/stories/tarmageddon"
+    ]
+  ],
+  [
+    [
+      "2025-10-21, 15:13:55",
+      "https://lobste.rs/s/2mjimw/fast_bytecode_vm_for_arithmetic_virtual"
+    ],
+    [
+      "A Fast Bytecode VM for Arithmetic: The Virtual Machine",
+      "https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2025-10-20, 22:32:50",
-      "https://lobste.rs/s/kxjcte/atproto_check_fall_2025"
-    ],
-    [
-      "atproto Check-in (Fall 2025)",
-      "https://docs.bsky.app/blog/protocol-checkin-fall-2025"
-    ]
-  ],
-  [
-    [
       "2025-10-20, 20:37:26",
       "https://lobste.rs/s/iwcmyh/how_i_accidentally_became_puregym_s"
     ],
     [
       "How I accidentally became PureGym's unofficial Apple Wallet developer",
       "https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 20:26:49",
-      "https://lobste.rs/s/dou6g6/emacs_time_zones"
-    ],
-    [
-      "Emacs time-zones",
-      "https://xenodium.com/emacs-time-zones-mode"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Servo 0.0.1 Release",
       "https://servo.org/blog/2025/10/20/servo-0.0.1-release/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 10:07:58",
-      "https://lobste.rs/s/qlof7u/gleam_v1_13_0_released"
-    ],
-    [
-      "Gleam v1.13.0 released",
-      "https://gleam.run/news/formalising-external-apis/"
     ]
   ]
 ]
