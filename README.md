@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-21, 19:21:36](https://lobste.rs/s/zyimwf/our_journey_affordable_logging) - [Our journey to affordable logging](https://techblog.cloudkitchens.com/p/our-journey-to-affordable-logging)
 * [2025-10-21, 18:51:58](https://lobste.rs/s/9u7xpi/why_ssa) - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
@@ -18,6 +17,7 @@
 * [2025-10-21, 11:58:06](https://lobste.rs/s/znhl2p/stargrid_brand_new_palm_os_strategy_game) - [StarGrid: Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:15:02](https://lobste.rs/s/9s7f00/forging_fedora_s_future_with_forgejo) - [Forging Fedora’s Future with Forgejo](https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/)
 * [2025-10-21, 11:12:03](https://lobste.rs/s/0zqebs/my_most_popular_application) - [My most popular application](https://blog.6nok.org/my-most-popular-application/)
+* [2025-10-21, 06:47:52](https://lobste.rs/s/dr08yt/language_support_for_marginalia_search) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
 * [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)
