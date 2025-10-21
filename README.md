@@ -1,9 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
 * [2025-10-21, 17:00:29](https://lobste.rs/s/wmcl4k/yet_another_year_with_decker_v1_44_v1_60) - [Yet Another Year With Decker (v1.44 - v1.60)](http://beyondloom.com/blog/unionstate3.html)
+* [2025-10-21, 16:33:33](https://lobste.rs/s/c6hkyp/design_scheme_78_lisp_based) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
 * [2025-10-21, 15:15:57](https://lobste.rs/s/tbmns8/tarmageddon_cve_2025_62518_highlights) - [TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
+* [2025-10-21, 15:13:55](https://lobste.rs/s/2mjimw/fast_bytecode_vm_for_arithmetic_virtual) - [A Fast Bytecode VM for Arithmetic: The Virtual Machine](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/)
 * [2025-10-21, 13:11:42](https://lobste.rs/s/o8acsz/streaming_live_video_as_macos) - [Streaming live video as a macOS screensaver using AVFoundation and yt-dlp](https://github.com/hauxir/macos-live-screensaver)
 * [2025-10-21, 13:11:24](https://lobste.rs/s/6hfg9a/tracking_time_without_clock) - [Tracking Time Without Clock](https://tigerbeetle.com/blog/2025-10-21-clockless-time/)
 * [2025-10-21, 13:09:45](https://lobste.rs/s/kltrqx/just_use_curl) - [Just use cURL](https://justuse.org/curl/)
@@ -16,15 +19,12 @@
 * [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
 * [2025-10-20, 23:41:01](https://lobste.rs/s/povey7/turn_off_cursor_turn_on_your_mind) - [Turn off Cursor, turn on your mind](https://allvpv.org/turn-off-cursor/)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
-* [2025-10-20, 22:32:50](https://lobste.rs/s/kxjcte/atproto_check_fall_2025) - [atproto Check-in (Fall 2025)](https://docs.bsky.app/blog/protocol-checkin-fall-2025)
 * [2025-10-20, 20:37:26](https://lobste.rs/s/iwcmyh/how_i_accidentally_became_puregym_s) - [How I accidentally became PureGym's unofficial Apple Wallet developer](https://drobinin.com/posts/how-i-accidentally-became-puregyms-unofficial-apple-wallet-developer/)
-* [2025-10-20, 20:26:49](https://lobste.rs/s/dou6g6/emacs_time_zones) - [Emacs time-zones](https://xenodium.com/emacs-time-zones-mode)
 * [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)
 * [2025-10-20, 19:57:22](https://lobste.rs/s/hxwjvp/aws_experiences_12_hour_multi_service) - [AWS experiences 12+ hour multi-service outage](https://health.aws.amazon.com/health/status?ts=20251020)
 * [2025-10-20, 17:25:56](https://lobste.rs/s/xyg1fu/fil_c) - [Fil-C](https://fil-c.org)
 * [2025-10-20, 15:59:04](https://lobste.rs/s/6srxig/some_smalltalk_about_ruby_loops) - [Some Smalltalk about Ruby Loops](https://tech.stonecharioteer.com/posts/2025/ruby-loops/)
 * [2025-10-20, 13:22:48](https://lobste.rs/s/63tgtm/servo_0_0_1_release) - [Servo 0.0.1 Release](https://servo.org/blog/2025/10/20/servo-0.0.1-release/)
-* [2025-10-20, 10:07:58](https://lobste.rs/s/qlof7u/gleam_v1_13_0_released) - [Gleam v1.13.0 released](https://gleam.run/news/formalising-external-apis/)
 
 ## [Archives](archives/index.md)
 
