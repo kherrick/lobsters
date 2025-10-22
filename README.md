@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-22, 21:53:14](https://lobste.rs/s/fcka9i/chatgpt_s_atlas_browser_s_anti_web) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
 * [2025-10-22, 20:49:07](https://lobste.rs/s/elts07/django_6_0_beta_1_released) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
 * [2025-10-22, 19:24:56](https://lobste.rs/s/wjqwif/patina_rust_implementation_uefi) - [Patina, a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina)
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
@@ -17,7 +18,6 @@
 * [2025-10-22, 07:28:47](https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration) - [Organizing your Nix configuration without flakes](https://somas.is/note-organizing-nix-configuration-without-flakes.html)
 * [2025-10-22, 07:21:36](https://lobste.rs/s/g7uuii/modshim_override_customize_python) - [modshim: Override and customize Python packages without touching their code](https://github.com/joouha/modshim)
 * [2025-10-22, 05:13:40](https://lobste.rs/s/sljyoc/move_destruct_forget_rust) - [Move, Destruct, Forget, and Rust](https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/)
-* [2025-10-21, 18:51:58](https://lobste.rs/s/9u7xpi/why_ssa) - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
 * [2025-10-21, 17:00:29](https://lobste.rs/s/wmcl4k/yet_another_year_with_decker_v1_44_v1_60) - [Yet Another Year With Decker (v1.44 - v1.60)](http://beyondloom.com/blog/unionstate3.html)

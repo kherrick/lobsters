@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 21:53:14](https://lobste.rs/s/fcka9i/chatgpt_s_atlas_browser_s_anti_web) - [ChatGPT's Atlas: The Browser That's Anti-Web](https://www.anildash.com/2025/10/22/atlas-anti-web-browser/)
 * [2025-10-22, 20:49:07](https://lobste.rs/s/elts07/django_6_0_beta_1_released) - [Django 6.0 beta 1 released](https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/)
 * [2025-10-22, 19:24:56](https://lobste.rs/s/wjqwif/patina_rust_implementation_uefi) - [Patina, a Rust implementation of UEFI firmware](https://github.com/OpenDevicePartnership/patina)
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
