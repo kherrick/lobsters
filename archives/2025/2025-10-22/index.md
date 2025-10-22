@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-22](index.md)
 
+* [2025-10-22, 13:24:47](https://lobste.rs/s/2q5tn0/awesome_tiny_crates_bunch_small_crates) - [awesome-tiny-crates: A bunch of small crates that make writing Rust more fun](https://github.com/nik-rev/awesome-tiny-crates)
 * [2025-10-22, 12:50:55](https://lobste.rs/s/cdrvo7/how_run_1_1s_as_engineering_manager) - [How to Run 1:1s as an Engineering Manager](https://justoffbyone.com/posts/how-to-run-11s/)
 * [2025-10-22, 11:40:14](https://lobste.rs/s/pwsnpd/powerletters_for_rust) - [Powerletters for Rust](https://brson.github.io/2025/10/07/powerletters-for-rust)
 * [2025-10-22, 10:15:51](https://lobste.rs/s/h49oxc/async_dns_resolution) - [Async DNS Resolution](https://ziglang.org/devlog/2025/#2025-10-15)
