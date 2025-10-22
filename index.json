@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 10:15:51",
+      "https://lobste.rs/s/h49oxc/async_dns_resolution"
+    ],
+    [
+      "Async DNS Resolution",
+      "https://ziglang.org/devlog/2025/#2025-10-15"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 09:59:23",
       "https://lobste.rs/s/nlbxqr/advanced_self_aware_ed_1"
     ],
@@ -27,16 +37,6 @@
     [
       "Element: setHTML() method on MDN",
       "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 07:28:47",
-      "https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration"
-    ],
-    [
-      "Organizing your Nix configuration without flakes",
-      "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
     ]
   ],
   [
