@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 07:21:36",
+      "https://lobste.rs/s/g7uuii/modshim_override_customize_python"
+    ],
+    [
+      "modshim: Override and customize Python packages without touching their code",
+      "https://github.com/joouha/modshim"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 05:13:40",
       "https://lobste.rs/s/sljyoc/move_destruct_forget_rust"
     ],
@@ -77,16 +87,6 @@
     [
       "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
       "https://dl.acm.org/doi/10.1145/359024.359031"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 16:29:32",
-      "https://lobste.rs/s/ppakny/how_minecraft_servers_can_track_you"
-    ],
-    [
-      "How Minecraft servers can track you across accounts and IPs using resource packs",
-      "https://alaggydev.github.io/posts/cytooxien/"
     ]
   ],
   [
