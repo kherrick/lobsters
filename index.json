@@ -41,12 +41,32 @@
   ],
   [
     [
+      "2025-10-22, 07:28:47",
+      "https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration"
+    ],
+    [
+      "Organizing your Nix configuration without flakes",
+      "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 07:21:36",
       "https://lobste.rs/s/g7uuii/modshim_override_customize_python"
     ],
     [
       "modshim: Override and customize Python packages without touching their code",
       "https://github.com/joouha/modshim"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 05:37:23",
+      "https://lobste.rs/s/x40nal/why_so_little_love_for_patent_grant_mit"
+    ],
+    [
+      "Why so little love for the patent grant in the MIT License? (2018)",
+      "https://opensource.com/article/18/3/patent-grant-mit-license"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Design of the SCHEME-78 Lisp-based microprocessor (1980)",
       "https://dl.acm.org/doi/10.1145/359024.359031"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 16:29:03",
-      "https://lobste.rs/s/degq8m/glassworm_first_self_propagating_worm"
-    ],
-    [
-      "GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace",
-      "https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "AWS experiences 12+ hour multi-service outage",
       "https://health.aws.amazon.com/health/status?ts=20251020"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 13:22:48",
-      "https://lobste.rs/s/63tgtm/servo_0_0_1_release"
-    ],
-    [
-      "Servo 0.0.1 Release",
-      "https://servo.org/blog/2025/10/20/servo-0.0.1-release/"
     ]
   ]
 ]
