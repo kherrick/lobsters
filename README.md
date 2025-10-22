@@ -2,6 +2,7 @@
 
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:07:28](https://lobste.rs/s/7uzm1p/scripts_i_wrote_i_use_all_time) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
+* [2025-10-22, 15:19:17](https://lobste.rs/s/n9cccn/satisfying_solutions_difficult) - [SATisfying Solutions to Difficult Problems](https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/)
 * [2025-10-22, 15:03:58](https://lobste.rs/s/ikcvvv/slint_1_14_released) - [Slint 1.14 Released](https://slint.dev/blog/slint-1.14-released)
 * [2025-10-22, 13:44:29](https://lobste.rs/s/iuvukw/word_on_omarchy) - [A Word on Omarchy](https://マリウス.com/a-word-on-omarchy/)
 * [2025-10-22, 13:24:47](https://lobste.rs/s/2q5tn0/awesome_tiny_crates_bunch_small_crates) - [awesome-tiny-crates: A bunch of small crates that make writing Rust more fun](https://github.com/nik-rev/awesome-tiny-crates)
@@ -15,7 +16,6 @@
 * [2025-10-22, 07:28:47](https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration) - [Organizing your Nix configuration without flakes](https://somas.is/note-organizing-nix-configuration-without-flakes.html)
 * [2025-10-22, 07:21:36](https://lobste.rs/s/g7uuii/modshim_override_customize_python) - [modshim: Override and customize Python packages without touching their code](https://github.com/joouha/modshim)
 * [2025-10-22, 05:13:40](https://lobste.rs/s/sljyoc/move_destruct_forget_rust) - [Move, Destruct, Forget, and Rust](https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/)
-* [2025-10-21, 23:18:27](https://lobste.rs/s/lo8r1s/greatness_text_adventures) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
 * [2025-10-21, 23:13:29](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh) - [What’s the problem with pipe-curl-into-sh?](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh)
 * [2025-10-21, 18:51:58](https://lobste.rs/s/9u7xpi/why_ssa) - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
