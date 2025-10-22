@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-22, 10:15:51",
-      "https://lobste.rs/s/h49oxc/async_dns_resolution"
+      "2025-10-22, 09:59:23",
+      "https://lobste.rs/s/nlbxqr/advanced_self_aware_ed_1"
     ],
     [
-      "Async DNS Resolution",
-      "https://ziglang.org/devlog/2025/#2025-10-15"
+      "Advanced Self-Aware ed(1)",
+      "https://aartaka.me/advanc-ed.html"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Element: setHTML() method on MDN",
       "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
+    ]
+  ],
+  [
+    [
+      "2025-10-22, 07:28:47",
+      "https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration"
+    ],
+    [
+      "Organizing your Nix configuration without flakes",
+      "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "My most popular application",
       "https://blog.6nok.org/my-most-popular-application/"
-    ]
-  ],
-  [
-    [
-      "2025-10-20, 22:38:23",
-      "https://lobste.rs/s/xdljm2/joy_rediscovering_perl"
-    ],
-    [
-      "The joy of rediscovering Perl",
-      "https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/"
     ]
   ],
   [
