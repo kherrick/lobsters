@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 23:34:51",
+      "https://lobste.rs/s/ew0tqv/redistributing_git_with_nostr"
+    ],
+    [
+      "Redistributing Git with Nostr",
+      "https://fiatjaf.com/18ff5416.html"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 21:53:14",
       "https://lobste.rs/s/fcka9i/chatgpt_s_atlas_browser_s_anti_web"
     ],
@@ -157,16 +167,6 @@
     [
       "Organizing your Nix configuration without flakes",
       "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 07:21:36",
-      "https://lobste.rs/s/g7uuii/modshim_override_customize_python"
-    ],
-    [
-      "modshim: Override and customize Python packages without touching their code",
-      "https://github.com/joouha/modshim"
     ]
   ],
   [
