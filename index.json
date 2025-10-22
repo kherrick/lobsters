@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-22, 19:24:56",
+      "https://lobste.rs/s/wjqwif/patina_rust_implementation_uefi"
+    ],
+    [
+      "Patina, a Rust implementation of UEFI firmware",
+      "https://github.com/OpenDevicePartnership/patina"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 17:22:21",
       "https://lobste.rs/s/ghdv6w/i_see_future_jj"
     ],
@@ -17,16 +27,6 @@
     [
       "Scripts I wrote that I use all the time",
       "https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 15:19:17",
-      "https://lobste.rs/s/n9cccn/satisfying_solutions_difficult"
-    ],
-    [
-      "SATisfying Solutions to Difficult Problems",
-      "https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/"
     ]
   ],
   [
