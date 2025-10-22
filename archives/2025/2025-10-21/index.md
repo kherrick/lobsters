@@ -12,6 +12,7 @@
 * [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
 * [2025-10-21, 17:00:29](https://lobste.rs/s/wmcl4k/yet_another_year_with_decker_v1_44_v1_60) - [Yet Another Year With Decker (v1.44 - v1.60)](http://beyondloom.com/blog/unionstate3.html)
 * [2025-10-21, 16:33:33](https://lobste.rs/s/c6hkyp/design_scheme_78_lisp_based) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
+* [2025-10-21, 16:29:32](https://lobste.rs/s/ppakny/how_minecraft_servers_can_track_you) - [How Minecraft servers can track you across accounts and IPs using resource packs](https://alaggydev.github.io/posts/cytooxien/)
 * [2025-10-21, 16:29:03](https://lobste.rs/s/degq8m/glassworm_first_self_propagating_worm) - [GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
 * [2025-10-21, 15:15:57](https://lobste.rs/s/tbmns8/tarmageddon_cve_2025_62518_highlights) - [TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
