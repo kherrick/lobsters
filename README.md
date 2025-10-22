@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-21, 23:18:27](https://lobste.rs/s/lo8r1s/greatness_text_adventures) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
+* [2025-10-21, 23:13:29](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh) - [What’s the problem with pipe-curl-into-sh?](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh)
 * [2025-10-21, 18:51:58](https://lobste.rs/s/9u7xpi/why_ssa) - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
 * [2025-10-21, 17:44:22](https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical) - [Modal editing is a weird historical contingency we have through sheer happenstance](https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/)
@@ -7,7 +9,6 @@
 * [2025-10-21, 16:33:33](https://lobste.rs/s/c6hkyp/design_scheme_78_lisp_based) - [Design of the SCHEME-78 Lisp-based microprocessor (1980)](https://dl.acm.org/doi/10.1145/359024.359031)
 * [2025-10-21, 16:29:03](https://lobste.rs/s/degq8m/glassworm_first_self_propagating_worm) - [GlassWorm: First Self-Propagating Worm Using Invisible Code Hits OpenVSX Marketplace](https://www.koi.ai/blog/glassworm-first-self-propagating-worm-using-invisible-code-hits-openvsx-marketplace)
 * [2025-10-21, 15:17:38](https://lobste.rs/s/pstg9w/plasma_6_5) - [Plasma 6.5](https://kde.org/announcements/plasma/6/6.5.0/)
-* [2025-10-21, 15:15:57](https://lobste.rs/s/tbmns8/tarmageddon_cve_2025_62518_highlights) - [TARmageddon (CVE-2025-62518) highlights the challenges of open source abandonware](https://edera.dev/stories/tarmageddon)
 * [2025-10-21, 15:13:55](https://lobste.rs/s/2mjimw/fast_bytecode_vm_for_arithmetic_virtual) - [A Fast Bytecode VM for Arithmetic: The Virtual Machine](https://abhinavsarkar.net/posts/arithmetic-bytecode-vm/)
 * [2025-10-21, 15:13:11](https://lobste.rs/s/4ozeaf/openbsd_7_8) - [OpenBSD 7.8](https://www.openbsd.org/78.html)
 * [2025-10-21, 13:11:42](https://lobste.rs/s/o8acsz/streaming_live_video_as_macos) - [Streaming live video as a macOS screensaver using AVFoundation and yt-dlp](https://github.com/hauxir/macos-live-screensaver)
@@ -17,7 +18,6 @@
 * [2025-10-21, 11:58:06](https://lobste.rs/s/znhl2p/stargrid_brand_new_palm_os_strategy_game) - [StarGrid: Brand-New Palm OS Strategy Game in 2025](https://quarters.captaintouch.com/blog/posts/2025-10-21-stargrid-has-arrived,-a-brand-new-palm-os-strategy-game-in-2025.html)
 * [2025-10-21, 11:15:02](https://lobste.rs/s/9s7f00/forging_fedora_s_future_with_forgejo) - [Forging Fedora’s Future with Forgejo](https://communityblog.fedoraproject.org/forging-fedoras-future-with-forgejo/)
 * [2025-10-21, 11:12:03](https://lobste.rs/s/0zqebs/my_most_popular_application) - [My most popular application](https://blog.6nok.org/my-most-popular-application/)
-* [2025-10-21, 06:47:52](https://lobste.rs/s/dr08yt/language_support_for_marginalia_search) - [Language Support for Marginalia Search](https://www.marginalia.nu/log/a_126_multilingual/)
 * [2025-10-21, 00:14:55](https://lobste.rs/s/lhkipb/judo_jujutsu_gui) - [Judo (Jujutsu GUI)](https://judojj.com/)
 * [2025-10-20, 22:38:23](https://lobste.rs/s/xdljm2/joy_rediscovering_perl) - [The joy of rediscovering Perl](https://blog.zerodogg.org/2025/10/13/the-joy-of-rediscovering-perl/)
 * [2025-10-20, 20:13:31](https://lobste.rs/s/kqczws/measuring_engineering_productivity) - [Measuring Engineering Productivity](https://justoffbyone.com/posts/measuring-engineering-productivity/)

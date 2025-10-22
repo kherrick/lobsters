@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-21](index.md)
 
+* [2025-10-21, 23:18:27](https://lobste.rs/s/lo8r1s/greatness_text_adventures) - [The Greatness of Text Adventures](https://entropicthoughts.com/the-greatness-of-text-adventures)
+* [2025-10-21, 23:13:29](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh) - [What’s the problem with pipe-curl-into-sh?](https://lobste.rs/s/ymcbwl/what_s_problem_with_pipe_curl_into_sh)
 * [2025-10-21, 19:21:36](https://lobste.rs/s/zyimwf/our_journey_affordable_logging) - [Our journey to affordable logging](https://techblog.cloudkitchens.com/p/our-journey-to-affordable-logging)
 * [2025-10-21, 18:51:58](https://lobste.rs/s/9u7xpi/why_ssa) - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 * [2025-10-21, 18:36:10](https://lobste.rs/s/rhmh7d/magit_is_amazing) - [Magit is Amazing](https://heiwiper.com/posts/magit-is-awesome/)
