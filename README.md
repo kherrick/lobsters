@@ -8,6 +8,7 @@
 * [2025-10-23, 12:01:01](https://lobste.rs/s/41dhm1/owl_scientific_method_claude_code) - [The Owl, The Scientific Method, and Claude Code: A Debugging Story](https://vsevolod.net/claude-debug/)
 * [2025-10-23, 11:41:34](https://lobste.rs/s/9o5pjv/length_extension_attacks_are_still_thing) - [Length-extension attacks are still a thing](https://00f.net/2025/10/23/length-extension-attacks/)
 * [2025-10-23, 11:02:26](https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this) - [Changes to Advent of Code starting this December](https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/)
+* [2025-10-23, 10:05:28](https://lobste.rs/s/fbxlkj/json_schemas_go) - [JSON Schemas in Go](https://www.airs.com/blog/archives/675)
 * [2025-10-23, 07:58:56](https://lobste.rs/s/d8rtdp/programming_with_less_than_nothing) - [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
 * [2025-10-23, 05:18:21](https://lobste.rs/s/yu0vd7/debian_technical_committee_overrides) - [Debian Technical Committee overrides systemd change](https://lwn.net/Articles/1041316/)
 * [2025-10-23, 03:51:15](https://lobste.rs/s/fyrfe0/async_django_solution_search_problem) - [Async Django: a solution in search of a problem?](https://www.loopwerk.io/articles/2025/async-django-why/)
@@ -24,7 +25,6 @@
 * [2025-10-22, 12:50:55](https://lobste.rs/s/cdrvo7/how_run_1_1s_as_engineering_manager) - [How to Run 1:1s as an Engineering Manager](https://justoffbyone.com/posts/how-to-run-11s/)
 * [2025-10-22, 11:40:14](https://lobste.rs/s/pwsnpd/powerletters_for_rust) - [Powerletters for Rust](https://brson.github.io/2025/10/07/powerletters-for-rust)
 * [2025-10-22, 09:02:41](https://lobste.rs/s/jgwhwy/element_sethtml_method_on_mdn) - [Element: setHTML() method on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML)
-* [2025-10-21, 11:12:03](https://lobste.rs/s/0zqebs/my_most_popular_application) - [My most popular application](https://blog.6nok.org/my-most-popular-application/)
 
 ## [Archives](archives/index.md)
 
