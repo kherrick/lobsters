@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-23, 01:30:24",
+      "https://lobste.rs/s/d3pdfi/my_2_month_beef_with_my_own_linux"
+    ],
+    [
+      "My 2 month beef with my own Linux environment. (Developer cautionary tale)",
+      "https://www.reddit.com/r/linux/comments/1odq7ti/fixing_my_broken_system_while_breaking_my_fixed/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 00:25:15",
+      "https://lobste.rs/s/ugwu6j/triputer_ns32000_family_systems_on_fpga"
+    ],
+    [
+      "TRIPUTER: NS32000-family systems on an FPGA",
+      "http://www.cpu-ns32k.net/TRIPUTER.html"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 00:07:30",
       "https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-10-22, 09:50:48",
-      "https://lobste.rs/s/hlfr6u/simple_minimal_sql_database_migrations"
-    ],
-    [
-      "Simple, minimal SQL database migrations written in Go with generics. Std lib database/sql and SQLX supported OOTB",
-      "https://github.com/padurean/gosmig"
-    ]
-  ],
-  [
-    [
       "2025-10-22, 09:40:38",
       "https://lobste.rs/s/mhmcp4/15_go_subtleties_you_may_not_already_know"
     ],
@@ -187,16 +197,6 @@
     [
       "Magit is Amazing",
       "https://heiwiper.com/posts/magit-is-awesome/"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 17:44:22",
-      "https://lobste.rs/s/ac4ab5/modal_editing_is_weird_historical"
-    ],
-    [
-      "Modal editing is a weird historical contingency we have through sheer happenstance",
-      "https://buttondown.com/hillelwayne/archive/modal-editing-is-a-weird-historical-contingency/"
     ]
   ],
   [
