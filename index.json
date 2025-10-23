@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-10-23, 10:05:28",
+      "https://lobste.rs/s/fbxlkj/json_schemas_go"
+    ],
+    [
+      "JSON Schemas in Go",
+      "https://www.airs.com/blog/archives/675"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 07:58:56",
       "https://lobste.rs/s/d8rtdp/programming_with_less_than_nothing"
     ],
@@ -237,16 +247,6 @@
     [
       "Element: setHTML() method on MDN",
       "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 11:12:03",
-      "https://lobste.rs/s/0zqebs/my_most_popular_application"
-    ],
-    [
-      "My most popular application",
-      "https://blog.6nok.org/my-most-popular-application/"
     ]
   ]
 ]
