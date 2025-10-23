@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 00:07:30",
+      "https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa"
+    ],
+    [
+      "Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust",
+      "https://boajs.dev/blog/2025/10/22/boa-release-21"
+    ]
+  ],
+  [
+    [
       "2025-10-22, 23:34:51",
       "https://lobste.rs/s/ew0tqv/redistributing_git_with_nostr"
     ],
@@ -117,16 +127,6 @@
     [
       "Powerletters for Rust",
       "https://brson.github.io/2025/10/07/powerletters-for-rust"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 10:15:51",
-      "https://lobste.rs/s/h49oxc/async_dns_resolution"
-    ],
-    [
-      "Async DNS Resolution",
-      "https://ziglang.org/devlog/2025/#2025-10-15"
     ]
   ],
   [
