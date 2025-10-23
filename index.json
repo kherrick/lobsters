@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-23, 07:58:56",
+      "https://lobste.rs/s/d8rtdp/programming_with_less_than_nothing"
+    ],
+    [
+      "Programming With Less Than Nothing",
+      "https://joshmoody.org/blog/programming-with-less-than-nothing/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 05:18:21",
       "https://lobste.rs/s/yu0vd7/debian_technical_committee_overrides"
     ],
@@ -207,16 +217,6 @@
     [
       "Organizing your Nix configuration without flakes",
       "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 05:13:40",
-      "https://lobste.rs/s/sljyoc/move_destruct_forget_rust"
-    ],
-    [
-      "Move, Destruct, Forget, and Rust",
-      "https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/"
     ]
   ],
   [
