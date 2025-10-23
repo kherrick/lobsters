@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-23, 14:10:05](https://lobste.rs/s/oyvqp1/is_it_time_regulate_react) - [Is it Time to Regulate React?](https://dbushell.com/2025/10/23/react-regulation/)
 * [2025-10-23, 14:01:07](https://lobste.rs/s/jt4wzq/tuckr_stow_alternative_with_symlink) - [Tuckr - Stow alternative with symlink checking](https://github.com/RaphGL/Tuckr)
+* [2025-10-23, 13:57:16](https://lobste.rs/s/2uidwz/svg_gtk) - [SVG in GTK](https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/)
 * [2025-10-23, 13:22:33](https://lobste.rs/s/hnwmii/4_unconventional_ways_cast_typescript) - [4 Unconventional Ways to Cast in Typescript](https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/)
 * [2025-10-23, 13:04:05](https://lobste.rs/s/dufqpx/i_spent_year_my_life_making_asn_1_compiler_d) - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 12:01:01](https://lobste.rs/s/41dhm1/owl_scientific_method_claude_code) - [The Owl, The Scientific Method, and Claude Code: A Debugging Story](https://vsevolod.net/claude-debug/)
@@ -19,10 +21,8 @@
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:07:28](https://lobste.rs/s/7uzm1p/scripts_i_wrote_i_use_all_time) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 * [2025-10-22, 13:44:29](https://lobste.rs/s/iuvukw/word_on_omarchy) - [A Word on Omarchy](https://マリウス.com/a-word-on-omarchy/)
-* [2025-10-22, 13:24:47](https://lobste.rs/s/2q5tn0/awesome_tiny_crates_bunch_small_crates) - [awesome-tiny-crates: A bunch of small crates that make writing Rust more fun](https://github.com/nik-rev/awesome-tiny-crates)
 * [2025-10-22, 12:50:55](https://lobste.rs/s/cdrvo7/how_run_1_1s_as_engineering_manager) - [How to Run 1:1s as an Engineering Manager](https://justoffbyone.com/posts/how-to-run-11s/)
 * [2025-10-22, 11:40:14](https://lobste.rs/s/pwsnpd/powerletters_for_rust) - [Powerletters for Rust](https://brson.github.io/2025/10/07/powerletters-for-rust)
-* [2025-10-22, 09:40:38](https://lobste.rs/s/mhmcp4/15_go_subtleties_you_may_not_already_know) - [15 Go Subtleties You May Not Already Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 * [2025-10-22, 09:02:41](https://lobste.rs/s/jgwhwy/element_sethtml_method_on_mdn) - [Element: setHTML() method on MDN](https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML)
 * [2025-10-21, 11:12:03](https://lobste.rs/s/0zqebs/my_most_popular_application) - [My most popular application](https://blog.6nok.org/my-most-popular-application/)
 
