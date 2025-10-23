@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-23, 05:18:21",
+      "https://lobste.rs/s/yu0vd7/debian_technical_committee_overrides"
+    ],
+    [
+      "Debian Technical Committee overrides systemd change",
+      "https://lwn.net/Articles/1041316/"
+    ]
+  ],
+  [
+    [
+      "2025-10-23, 03:51:15",
+      "https://lobste.rs/s/fyrfe0/async_django_solution_search_problem"
+    ],
+    [
+      "Async Django: a solution in search of a problem?",
+      "https://www.loopwerk.io/articles/2025/async-django-why/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 03:09:09",
       "https://lobste.rs/s/mw0pus/summary_amazon_dynamodb_service"
     ],
@@ -77,16 +97,6 @@
     [
       "Django 6.0 beta 1 released",
       "https://www.djangoproject.com/weblog/2025/oct/22/django-60-beta-released/"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 19:24:56",
-      "https://lobste.rs/s/wjqwif/patina_rust_implementation_uefi"
-    ],
-    [
-      "Patina, a Rust implementation of UEFI firmware",
-      "https://github.com/OpenDevicePartnership/patina"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Move, Destruct, Forget, and Rust",
       "https://smallcultfollowing.com/babysteps/blog/2025/10/21/move-destruct-leak/"
-    ]
-  ],
-  [
-    [
-      "2025-10-21, 18:36:10",
-      "https://lobste.rs/s/rhmh7d/magit_is_amazing"
-    ],
-    [
-      "Magit is Amazing",
-      "https://heiwiper.com/posts/magit-is-awesome/"
     ]
   ],
   [
