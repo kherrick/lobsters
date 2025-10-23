@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-10-23, 06:50:20",
+      "https://lobste.rs/s/ilcpdo/hacking_formula_1_accessing_max"
+    ],
+    [
+      "Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs",
+      "https://ian.sh/fia"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 05:18:21",
       "https://lobste.rs/s/yu0vd7/debian_technical_committee_overrides"
     ],
@@ -207,16 +217,6 @@
     [
       "Element: setHTML() method on MDN",
       "https://developer.mozilla.org/en-US/docs/Web/API/Element/setHTML"
-    ]
-  ],
-  [
-    [
-      "2025-10-22, 07:28:47",
-      "https://lobste.rs/s/ikcg1l/organizing_your_nix_configuration"
-    ],
-    [
-      "Organizing your Nix configuration without flakes",
-      "https://somas.is/note-organizing-nix-configuration-without-flakes.html"
     ]
   ],
   [
