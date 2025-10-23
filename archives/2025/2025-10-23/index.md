@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 11:02:26](https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this) - [Changes to Advent of Code starting this December](https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/)
 * [2025-10-23, 10:05:28](https://lobste.rs/s/fbxlkj/json_schemas_go) - [JSON Schemas in Go](https://www.airs.com/blog/archives/675)
 * [2025-10-23, 07:58:56](https://lobste.rs/s/d8rtdp/programming_with_less_than_nothing) - [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
 * [2025-10-23, 06:50:20](https://lobste.rs/s/ilcpdo/hacking_formula_1_accessing_max) - [Hacking Formula 1: Accessing Max Verstappen's passport and PII through FIA bugs](https://ian.sh/fia)
