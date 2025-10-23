@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 14:37:17](https://lobste.rs/s/snbmmt/luau_s_performance) - [Luau’s Performance](https://luau.org/performance)
 * [2025-10-23, 14:10:05](https://lobste.rs/s/oyvqp1/is_it_time_regulate_react) - [Is it Time to Regulate React?](https://dbushell.com/2025/10/23/react-regulation/)
 * [2025-10-23, 14:01:07](https://lobste.rs/s/jt4wzq/tuckr_stow_alternative_with_symlink) - [Tuckr - Stow alternative with symlink checking](https://github.com/RaphGL/Tuckr)
 * [2025-10-23, 13:57:16](https://lobste.rs/s/2uidwz/svg_gtk) - [SVG in GTK](https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/)
