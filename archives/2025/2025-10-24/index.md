@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 19:46:51](https://lobste.rs/s/3ifxgp/fire_your_fetch_tool_let_your_agent_use) - [Fire Your Fetch Tool — Let your Agent Use a Browser](https://www.robert-glaser.de/fire-your-fetch-tool-let-your-agent-use-a-browser/)
 * [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
