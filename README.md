@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-24, 15:50:14](https://lobste.rs/s/ngbtiu/web3_is_self_certifying) - [Web3 is Self-Certifying](https://jaygraber.medium.com/web3-is-self-certifying-9dad77fd8d81)
+* [2025-10-24, 15:47:19](https://lobste.rs/s/bl8pns/code_like_surgeon) - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 15:35:42](https://lobste.rs/s/tqsapi/pixi_modern_package_management_for) - [Pixi: Modern package management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
-* [2025-10-24, 14:37:45](https://lobste.rs/s/luojcr/why_cielab_doesn_t_improve_median_cut) - [Why CIELAB doesn’t improve median cut](https://30fps.net/pages/median-cut-lab-problem/)
 * [2025-10-24, 13:36:14](https://lobste.rs/s/mirlh5/nixifying_kubernetes_with_nix_csi) - [Nixifying Kubernetes with nix-csi, easykubenix and dinix](https://discourse.nixos.org/t/nixifying-kubernetes-with-nix-csi-easykubenix-and-dinix/70899)
 * [2025-10-24, 13:34:37](https://lobste.rs/s/magetk/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2025-10-24, 13:32:00](https://lobste.rs/s/pbsq49/building_like_it_s_1984_scrollbars_web) - [Building like it's 1984: Scrollbars in web applications](https://web.archive.org/web/20250110081649/https://height.app/blog/scrollbars-in-web-applications)
@@ -22,7 +23,6 @@
 * [2025-10-23, 13:22:33](https://lobste.rs/s/hnwmii/4_unconventional_ways_cast_typescript) - [4 Unconventional Ways to Cast in Typescript](https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/)
 * [2025-10-23, 11:02:26](https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this) - [Changes to Advent of Code starting this December](https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/)
 * [2025-10-23, 07:58:56](https://lobste.rs/s/d8rtdp/programming_with_less_than_nothing) - [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
-* [2025-10-23, 00:07:30](https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa) - [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21)
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 13:44:29](https://lobste.rs/s/iuvukw/word_on_omarchy) - [A Word on Omarchy](https://マリウス.com/a-word-on-omarchy/)
 
