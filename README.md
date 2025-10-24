@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-24, 11:42:09](https://lobste.rs/s/itk2l2/carbon_values_variables_pointers) - [Carbon values, variables, and pointers](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md)
 * [2025-10-24, 11:27:17](https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic) - [Date bug affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-24, 10:50:47](https://lobste.rs/s/fmazqz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fmazqz/what_are_you_doing_this_weekend)
 * [2025-10-24, 09:55:19](https://lobste.rs/s/rpgncc/html_is_tree) - [html-is-a-tree](https://glfmn.io/posts/html-is-a-tree/)
@@ -23,7 +24,6 @@
 * [2025-10-23, 03:09:09](https://lobste.rs/s/mw0pus/summary_amazon_dynamodb_service) - [Summary of the Amazon DynamoDB Service Disruption in Northern Virginia (US-EAST-1) Region](https://aws.amazon.com/message/101925/)
 * [2025-10-23, 00:07:30](https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa) - [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21)
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
-* [2025-10-22, 17:07:28](https://lobste.rs/s/7uzm1p/scripts_i_wrote_i_use_all_time) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 * [2025-10-22, 13:44:29](https://lobste.rs/s/iuvukw/word_on_omarchy) - [A Word on Omarchy](https://マリウス.com/a-word-on-omarchy/)
 
 ## [Archives](archives/index.md)
