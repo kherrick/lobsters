@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 11:27:17](https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic) - [Date bug affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-24, 10:50:47](https://lobste.rs/s/fmazqz/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fmazqz/what_are_you_doing_this_weekend)
 * [2025-10-24, 09:55:19](https://lobste.rs/s/rpgncc/html_is_tree) - [html-is-a-tree](https://glfmn.io/posts/html-is-a-tree/)
 * [2025-10-24, 09:31:32](https://lobste.rs/s/i33fks/modern_perfect_hashing) - [Modern perfect hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
