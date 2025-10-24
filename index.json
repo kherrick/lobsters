@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-24, 03:00:43",
+      "https://lobste.rs/s/ukolpc/why_dev_null_is_acid_compliant_database"
+    ],
+    [
+      "Why /dev/null Is an ACID Compliant Database",
+      "https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 21:17:13",
       "https://lobste.rs/s/i3igoh/inertia_js_modern_monolith"
     ],
@@ -57,16 +67,6 @@
     [
       "Luau’s Performance",
       "https://luau.org/performance"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 14:30:04",
-      "https://lobste.rs/s/cbmmhp/which_collatz_numbers_do_busy_beavers"
-    ],
-    [
-      "Which Collatz numbers do Busy Beavers simulate (if any)?",
-      "https://gbragafibra.github.io/2025/10/16/collatz_ant11.html"
     ]
   ],
   [
