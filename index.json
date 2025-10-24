@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2025-10-23, 13:04:05",
+      "https://lobste.rs/s/dufqpx/i_spent_year_my_life_making_asn_1_compiler_d"
+    ],
+    [
+      "I spent a year of my life making an ASN.1 compiler in D",
+      "https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"
+    ]
+  ],
+  [
+    [
       "2025-10-23, 11:02:26",
       "https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this"
     ],
@@ -207,16 +217,6 @@
     [
       "Programming With Less Than Nothing",
       "https://joshmoody.org/blog/programming-with-less-than-nothing/"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 05:18:21",
-      "https://lobste.rs/s/yu0vd7/debian_technical_committee_overrides"
-    ],
-    [
-      "Debian Technical Committee overrides systemd change",
-      "https://lwn.net/Articles/1041316/"
     ]
   ],
   [
