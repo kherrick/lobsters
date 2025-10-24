@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-23, 21:17:13](https://lobste.rs/s/i3igoh/inertia_js_modern_monolith) - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 * [2025-10-23, 20:30:54](https://lobste.rs/s/xsrifu/zram_performance_analysis) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 18:48:02](https://lobste.rs/s/17bjta/what_happened_apple_s_legendary) - [What Happened to Apple's Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
 * [2025-10-23, 17:56:13](https://lobste.rs/s/fpevnw/apache_flink_s_95_problem) - [Apache Flink's 95% Problem](https://www.tinybird.co/blog/flink-is-95-problem)
@@ -24,7 +25,6 @@
 * [2025-10-22, 17:22:21](https://lobste.rs/s/ghdv6w/i_see_future_jj) - [I see a future in jj](https://steveklabnik.com/writing/i-see-a-future-in-jj/)
 * [2025-10-22, 17:07:28](https://lobste.rs/s/7uzm1p/scripts_i_wrote_i_use_all_time) - [Scripts I wrote that I use all the time](https://evanhahn.com/scripts-i-wrote-that-i-use-all-the-time/)
 * [2025-10-22, 13:44:29](https://lobste.rs/s/iuvukw/word_on_omarchy) - [A Word on Omarchy](https://マリウス.com/a-word-on-omarchy/)
-* [2025-10-22, 12:50:55](https://lobste.rs/s/cdrvo7/how_run_1_1s_as_engineering_manager) - [How to Run 1:1s as an Engineering Manager](https://justoffbyone.com/posts/how-to-run-11s/)
 
 ## [Archives](archives/index.md)
 

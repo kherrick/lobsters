@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-23](index.md)
 
+* [2025-10-23, 21:17:13](https://lobste.rs/s/i3igoh/inertia_js_modern_monolith) - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 * [2025-10-23, 20:30:54](https://lobste.rs/s/xsrifu/zram_performance_analysis) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 18:48:02](https://lobste.rs/s/17bjta/what_happened_apple_s_legendary) - [What Happened to Apple's Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
 * [2025-10-23, 17:56:13](https://lobste.rs/s/fpevnw/apache_flink_s_95_problem) - [Apache Flink's 95% Problem](https://www.tinybird.co/blog/flink-is-95-problem)
