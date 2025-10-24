@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-10-24, 22:40:28",
-      "https://lobste.rs/s/elcwvs/agentic_loop_treating_testing_as"
-    ],
-    [
-      "The Agentic Loop: Treating testing as a continuous cycle with specialized agents",
-      "https://www.functionize.com/blog/the-agentic-loop-reimagining-the-future-of-qa"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 21:28:42",
       "https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community"
     ],
@@ -67,6 +57,16 @@
     [
       "Reminiscing about Turbo Pascal",
       "https://ilearnt.com/blog/turbopascalvideo/"
+    ]
+  ],
+  [
+    [
+      "2025-10-24, 16:58:20",
+      "https://lobste.rs/s/bcalw3/ron_lsp_type_validation_for_ron_files_out"
+    ],
+    [
+      "RON LSP - Type validation for .ron files (in or out of the ide)",
+      "https://github.com/jasonjmcghee/ron-lsp"
     ]
   ],
   [
