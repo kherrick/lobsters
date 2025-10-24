@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
 * [2025-10-24, 12:15:15](https://lobste.rs/s/upo1ev/openbsd_c_c_toolchain_browser) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
 * [2025-10-24, 11:42:09](https://lobste.rs/s/itk2l2/carbon_values_variables_pointers) - [Carbon values, variables, and pointers](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md)
 * [2025-10-24, 11:27:17](https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic) - [Date bug affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
@@ -10,7 +11,6 @@
 * [2025-10-23, 21:17:13](https://lobste.rs/s/i3igoh/inertia_js_modern_monolith) - [Inertia.js - The Modern Monolith](https://inertiajs.com/)
 * [2025-10-23, 20:30:54](https://lobste.rs/s/xsrifu/zram_performance_analysis) - [Zram Performance Analysis](https://notes.xeome.dev/notes/Zram)
 * [2025-10-23, 18:48:02](https://lobste.rs/s/17bjta/what_happened_apple_s_legendary) - [What Happened to Apple's Legendary Attention to Detail?](https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html)
-* [2025-10-23, 14:44:25](https://lobste.rs/s/3bs8cf/bitmasks_ruby_threads_interrupts_oh_my) - [Bitmasks, Ruby Threads and Interrupts, oh my](https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html)
 * [2025-10-23, 14:37:17](https://lobste.rs/s/snbmmt/luau_s_performance) - [Luau’s Performance](https://luau.org/performance)
 * [2025-10-23, 14:01:07](https://lobste.rs/s/jt4wzq/tuckr_stow_alternative_with_symlink) - [Tuckr - Stow alternative with symlink checking](https://github.com/RaphGL/Tuckr)
 * [2025-10-23, 13:57:16](https://lobste.rs/s/2uidwz/svg_gtk) - [SVG in GTK](https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/)
