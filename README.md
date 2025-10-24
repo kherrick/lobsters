@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-24, 22:40:28](https://lobste.rs/s/elcwvs/agentic_loop_treating_testing_as) - [The Agentic Loop: Treating testing as a continuous cycle with specialized agents](https://www.functionize.com/blog/the-agentic-loop-reimagining-the-future-of-qa)
 * [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:49:59](https://lobste.rs/s/os6vg2/ruby_central_s_weekly_source_truth_update) - [Ruby Central's weekly \"Source of Truth\" update (2025-10-24)](https://rubycentral.org/news/source-of-truth-update-friday-october-24-2025/)
 * [2025-10-24, 19:55:44](https://lobste.rs/s/bsri9a/newpipe_is_turning_10_o) - [NewPipe is turning 10 :O](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
+* [2025-10-24, 16:58:20](https://lobste.rs/s/bcalw3/ron_lsp_type_validation_for_ron_files_out) - [RON LSP - Type validation for .ron files (in or out of the ide)](https://github.com/jasonjmcghee/ron-lsp)
 * [2025-10-24, 16:54:48](https://lobste.rs/s/r1tvik/asahi_linux_progress_report_linux_6_17) - [Asahi Linux Progress Report: Linux 6.17](https://asahilinux.org/2025/10/progress-report-6-17/)
 * [2025-10-24, 16:38:33](https://lobste.rs/s/cnhjj2/how_avoid_fighting_rust_borrow_checker) - [How to Avoid Fighting Rust Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
 * [2025-10-24, 15:51:29](https://lobste.rs/s/4exekd/learning_by_starting_at_end_writing_proof) - [Learning by starting at the end: Writing a Proof in Lean](https://interjectedfuture.com/the-best-way-to-learn-might-be-starting-at-the-end/)
