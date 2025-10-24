@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
-* [2025-10-24, 20:49:59](https://lobste.rs/s/os6vg2/ruby_central_s_weekly_source_truth_update) - [Ruby Central's weekly \"Source of Truth\" update (2025-10-24)](https://rubycentral.org/news/source-of-truth-update-friday-october-24-2025/)
 * [2025-10-24, 19:46:51](https://lobste.rs/s/3ifxgp/fire_your_fetch_tool_let_your_agent_use) - [Fire Your Fetch Tool — Let your Agent Use a Browser](https://www.robert-glaser.de/fire-your-fetch-tool-let-your-agent-use-a-browser/)
 * [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
 * [2025-10-24, 16:58:20](https://lobste.rs/s/bcalw3/ron_lsp_type_validation_for_ron_files_out) - [RON LSP - Type validation for .ron files (in or out of the ide)](https://github.com/jasonjmcghee/ron-lsp)
