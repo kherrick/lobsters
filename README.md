@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-24, 14:37:45](https://lobste.rs/s/luojcr/why_cielab_doesn_t_improve_median_cut) - [Why CIELAB doesn’t improve median cut](https://30fps.net/pages/median-cut-lab-problem/)
 * [2025-10-24, 13:36:14](https://lobste.rs/s/mirlh5/nixifying_kubernetes_with_nix_csi) - [Nixifying Kubernetes with nix-csi, easykubenix and dinix](https://discourse.nixos.org/t/nixifying-kubernetes-with-nix-csi-easykubenix-and-dinix/70899)
 * [2025-10-24, 13:34:37](https://lobste.rs/s/magetk/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2025-10-24, 13:32:00](https://lobste.rs/s/pbsq49/building_like_it_s_1984_scrollbars_web) - [Building like it's 1984: Scrollbars in web applications](https://web.archive.org/web/20250110081649/https://height.app/blog/scrollbars-in-web-applications)
@@ -19,7 +20,6 @@
 * [2025-10-23, 13:57:16](https://lobste.rs/s/2uidwz/svg_gtk) - [SVG in GTK](https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/)
 * [2025-10-23, 13:27:02](https://lobste.rs/s/utkvsl/intel_nova_lake_could_arrive_without) - [Intel \"Nova Lake\" Could Arrive Without AVX10, APX, and AMX Support](https://www.techpowerup.com/342147/intel-nova-lake-could-arrive-without-avx10-apx-and-amx-support)
 * [2025-10-23, 13:22:33](https://lobste.rs/s/hnwmii/4_unconventional_ways_cast_typescript) - [4 Unconventional Ways to Cast in Typescript](https://wolfgirl.dev/blog/2025-10-22-4-unconventional-ways-to-cast-in-typescript/)
-* [2025-10-23, 13:04:05](https://lobste.rs/s/dufqpx/i_spent_year_my_life_making_asn_1_compiler_d) - [I spent a year of my life making an ASN.1 compiler in D](https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/)
 * [2025-10-23, 11:02:26](https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this) - [Changes to Advent of Code starting this December](https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/)
 * [2025-10-23, 07:58:56](https://lobste.rs/s/d8rtdp/programming_with_less_than_nothing) - [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/)
 * [2025-10-23, 00:07:30](https://lobste.rs/s/upi3xa/boa_release_v0_21_new_release_boa) - [Boa release v0.21 - a new release of Boa, a JavaScript engine written in Rust](https://boajs.dev/blog/2025/10/22/boa-release-21)
