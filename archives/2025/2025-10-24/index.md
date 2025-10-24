@@ -6,6 +6,7 @@
 
 * [2025-10-24, 23:37:34](https://lobste.rs/s/zm8htg/technology_for_humans_conversation_with) - [Technology for Humans: Conversation with Ruby Central’s executive director, Shan Cureton](https://youtu.be/nKpo68g9dEk)
 * [2025-10-24, 22:40:28](https://lobste.rs/s/elcwvs/agentic_loop_treating_testing_as) - [The Agentic Loop: Treating testing as a continuous cycle with specialized agents](https://www.functionize.com/blog/the-agentic-loop-reimagining-the-future-of-qa)
+* [2025-10-24, 22:08:29](https://lobste.rs/s/olpuji/how_draw_tetrapod) - [How to draw a tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
 * [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:49:59](https://lobste.rs/s/os6vg2/ruby_central_s_weekly_source_truth_update) - [Ruby Central's weekly \"Source of Truth\" update (2025-10-24)](https://rubycentral.org/news/source-of-truth-update-friday-october-24-2025/)
