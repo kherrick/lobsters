@@ -10,6 +10,7 @@
 * [2025-10-23, 17:56:13](https://lobste.rs/s/fpevnw/apache_flink_s_95_problem) - [Apache Flink's 95% Problem](https://www.tinybird.co/blog/flink-is-95-problem)
 * [2025-10-23, 14:44:25](https://lobste.rs/s/3bs8cf/bitmasks_ruby_threads_interrupts_oh_my) - [Bitmasks, Ruby Threads and Interrupts, oh my](https://jpcamara.com/2025/10/22/bitmasks-threads-and-interrupts-concurrent.html)
 * [2025-10-23, 14:37:17](https://lobste.rs/s/snbmmt/luau_s_performance) - [Luau’s Performance](https://luau.org/performance)
+* [2025-10-23, 14:30:04](https://lobste.rs/s/cbmmhp/which_collatz_numbers_do_busy_beavers) - [Which Collatz numbers do Busy Beavers simulate (if any)?](https://gbragafibra.github.io/2025/10/16/collatz_ant11.html)
 * [2025-10-23, 14:10:05](https://lobste.rs/s/oyvqp1/is_it_time_regulate_react) - [Is it Time to Regulate React?](https://dbushell.com/2025/10/23/react-regulation/)
 * [2025-10-23, 14:01:07](https://lobste.rs/s/jt4wzq/tuckr_stow_alternative_with_symlink) - [Tuckr - Stow alternative with symlink checking](https://github.com/RaphGL/Tuckr)
 * [2025-10-23, 13:57:16](https://lobste.rs/s/2uidwz/svg_gtk) - [SVG in GTK](https://blogs.gnome.org/gtk/2025/10/23/svg-in-gtk/)
