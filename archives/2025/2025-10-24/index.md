@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 15:35:42](https://lobste.rs/s/tqsapi/pixi_modern_package_management_for) - [Pixi: Modern package management for Robotics](https://prefix.dev/blog/reproducible-package-management-for-robotics)
 * [2025-10-24, 14:37:45](https://lobste.rs/s/luojcr/why_cielab_doesn_t_improve_median_cut) - [Why CIELAB doesn’t improve median cut](https://30fps.net/pages/median-cut-lab-problem/)
 * [2025-10-24, 13:36:14](https://lobste.rs/s/mirlh5/nixifying_kubernetes_with_nix_csi) - [Nixifying Kubernetes with nix-csi, easykubenix and dinix](https://discourse.nixos.org/t/nixifying-kubernetes-with-nix-csi-easykubenix-and-dinix/70899)
 * [2025-10-24, 13:34:37](https://lobste.rs/s/magetk/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
