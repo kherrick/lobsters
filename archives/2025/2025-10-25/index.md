@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 12:22:49](https://lobste.rs/s/nbqv9g/synadia_tigerbeetle_pledge_512_000_zig) - [Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/)
 * [2025-10-25, 12:08:10](https://lobste.rs/s/shijge/how_ai_can_turn_us_into_society_p_zombies) - [How AI can turn us into a society of p-zombies](https://prahladyeri.github.io/blog/2025/10/how-ai-can-turn-us-into-society-of-p-zombies.html)
 * [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink's global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)

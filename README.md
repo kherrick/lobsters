@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 12:22:49](https://lobste.rs/s/nbqv9g/synadia_tigerbeetle_pledge_512_000_zig) - [Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/)
 * [2025-10-25, 12:08:10](https://lobste.rs/s/shijge/how_ai_can_turn_us_into_society_p_zombies) - [How AI can turn us into a society of p-zombies](https://prahladyeri.github.io/blog/2025/10/how-ai-can-turn-us-into-society-of-p-zombies.html)
 * [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink's global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)
@@ -21,7 +22,6 @@
 * [2025-10-24, 13:34:37](https://lobste.rs/s/magetk/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
 * [2025-10-24, 12:15:15](https://lobste.rs/s/upo1ev/openbsd_c_c_toolchain_browser) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
-* [2025-10-24, 11:27:17](https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic) - [Date bug affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
 * [2025-10-24, 09:55:19](https://lobste.rs/s/rpgncc/html_is_tree) - [html-is-a-tree](https://glfmn.io/posts/html-is-a-tree/)
 * [2025-10-24, 09:31:32](https://lobste.rs/s/i33fks/modern_perfect_hashing) - [Modern perfect hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 * [2025-10-23, 11:02:26](https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this) - [Changes to Advent of Code starting this December](https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/)
