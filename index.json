@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 07:41:57",
+      "https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit"
+    ],
+    [
+      "Mapping Starlink's global IP transit providers",
+      "https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 07:20:38",
       "https://lobste.rs/s/rrsqyz/learn_x86_64_assembly_by_writing_gui_from"
     ],
@@ -187,16 +197,6 @@
     [
       "OpenBSD C/C++ Toolchain in the Browser",
       "https://openbsd.llvm.moe/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 11:42:09",
-      "https://lobste.rs/s/itk2l2/carbon_values_variables_pointers"
-    ],
-    [
-      "Carbon values, variables, and pointers",
-      "https://github.com/carbon-language/carbon-lang/blob/trunk/docs/design/values.md"
     ]
   ],
   [
