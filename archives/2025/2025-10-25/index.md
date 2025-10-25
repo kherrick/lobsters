@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 21:56:46](https://lobste.rs/s/afrlit/roots_software_development_textile) - [The roots of software development in the textile industry (2024)](https://asawicki.info/news_1776_what_does_software_have_to_do_with_the_linen_industry)
 * [2025-10-25, 20:58:21](https://lobste.rs/s/q2nivc/efficient_implementation_self) - [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:45:34](https://lobste.rs/s/wiauo8/computational_complexity_2023) - [Computational Complexity (2023)](https://samuelhautamaki.eu/Computational_Complexity.pdf)
 * [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)

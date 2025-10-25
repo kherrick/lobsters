@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 21:56:46](https://lobste.rs/s/afrlit/roots_software_development_textile) - [The roots of software development in the textile industry (2024)](https://asawicki.info/news_1776_what_does_software_have_to_do_with_the_linen_industry)
 * [2025-10-25, 20:58:21](https://lobste.rs/s/q2nivc/efficient_implementation_self) - [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:45:34](https://lobste.rs/s/wiauo8/computational_complexity_2023) - [Computational Complexity (2023)](https://samuelhautamaki.eu/Computational_Complexity.pdf)
 * [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
@@ -11,7 +12,6 @@
 * [2025-10-25, 16:44:36](https://lobste.rs/s/i1nkpg/latex_llms_boring_technology) - [LaTeX, LLMs and Boring Technology](https://eli.thegreenplace.net/2025/latex-llms-and-boring-technology/)
 * [2025-10-25, 16:28:46](https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor) - [Jonesing For The Next Disruptor](https://datagubbe.se/llmfix/)
 * [2025-10-25, 15:38:55](https://lobste.rs/s/rhlylo/metalang99_rich_functional_language) - [Metalang99: a rich functional language implemented in C99 preprocessor](https://github.com/hirrolot/metalang99)
-* [2025-10-25, 15:20:02](https://lobste.rs/s/rpiq1m/analysis_iboot_s_image4_parser) - [An analysis of iBoot’s Image4 parser](https://amarioguy.github.io/2025/10/20/iboot_image4_validator.html)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink's global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)
 * [2025-10-25, 07:20:38](https://lobste.rs/s/rrsqyz/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
