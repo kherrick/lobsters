@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 16:44:36",
+      "https://lobste.rs/s/i1nkpg/latex_llms_boring_technology"
+    ],
+    [
+      "LaTeX, LLMs and Boring Technology",
+      "https://eli.thegreenplace.net/2025/latex-llms-and-boring-technology/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 16:28:46",
       "https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor"
     ],
@@ -217,16 +227,6 @@
     [
       "Typst 0.14: Now accessible",
       "https://typst.app/blog/2025/typst-0.14/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 12:15:15",
-      "https://lobste.rs/s/upo1ev/openbsd_c_c_toolchain_browser"
-    ],
-    [
-      "OpenBSD C/C++ Toolchain in the Browser",
-      "https://openbsd.llvm.moe/"
     ]
   ],
   [
