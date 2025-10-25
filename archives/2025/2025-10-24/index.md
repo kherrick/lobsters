@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-24](index.md)
 
+* [2025-10-24, 23:50:31](https://lobste.rs/s/hxwvm7/tag_proposal_conflicts) - [Tag proposal: conflicts](https://lobste.rs/s/hxwvm7/tag_proposal_conflicts)
 * [2025-10-24, 23:37:34](https://lobste.rs/s/zm8htg/technology_for_humans_conversation_with) - [Technology for Humans: Conversation with Ruby Central’s executive director, Shan Cureton](https://youtu.be/nKpo68g9dEk)
 * [2025-10-24, 22:40:28](https://lobste.rs/s/elcwvs/agentic_loop_treating_testing_as) - [The Agentic Loop: Treating testing as a continuous cycle with specialized agents](https://www.functionize.com/blog/the-agentic-loop-reimagining-the-future-of-qa)
 * [2025-10-24, 22:08:29](https://lobste.rs/s/olpuji/how_draw_tetrapod) - [How to draw a tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
