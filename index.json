@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 20:32:32",
+      "https://lobste.rs/s/txi156/learn_apl_notes"
+    ],
+    [
+      "\"Learn APL\" Notes",
+      "https://luksamuk.codes/pages/learn-apl.html"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 19:25:32",
       "https://lobste.rs/s/j1seza/rolling_our_own_s3"
     ],
@@ -217,16 +227,6 @@
     [
       "How to Avoid Fighting Rust Borrow Checker",
       "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 13:34:37",
-      "https://lobste.rs/s/magetk/typst_as_language"
-    ],
-    [
-      "Typst as a Language",
-      "https://justinpombrio.net/2024/11/30/typst.html"
     ]
   ],
   [
