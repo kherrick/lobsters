@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 18:10:42](https://lobste.rs/s/1fcvjc/burning_out) - [Burning out](https://www.interconnects.ai/p/burning-out)
 * [2025-10-25, 17:36:14](https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023) - [Barebones RISC-V OS written in Zig (2023)](https://timmy.moe/blog/barebones-os-zig/)
 * [2025-10-25, 17:26:02](https://lobste.rs/s/lkmimo/programming_modern_systems_like_it_was) - [Programming Modern Systems Like It Was 1984 (2014)](https://prog21.dadgum.com/201.html)
 * [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
@@ -8,7 +9,6 @@
 * [2025-10-25, 16:28:46](https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor) - [Jonesing For The Next Disruptor](https://datagubbe.se/llmfix/)
 * [2025-10-25, 16:27:45](https://lobste.rs/s/r04yas/ruby_stability_at_scale) - [Ruby Stability at Scale](https://youtu.be/9r0xmX0oK5Y)
 * [2025-10-25, 15:38:55](https://lobste.rs/s/rhlylo/metalang99_rich_functional_language) - [Metalang99: a rich functional language implemented in C99 preprocessor](https://github.com/hirrolot/metalang99)
-* [2025-10-25, 15:20:02](https://lobste.rs/s/rpiq1m/analysis_iboot_s_image4_parser) - [An analysis of iBoot’s Image4 parser](https://amarioguy.github.io/2025/10/20/iboot_image4_validator.html)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink's global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)
 * [2025-10-25, 07:20:38](https://lobste.rs/s/rrsqyz/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)

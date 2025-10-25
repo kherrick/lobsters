@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 18:10:42](https://lobste.rs/s/1fcvjc/burning_out) - [Burning out](https://www.interconnects.ai/p/burning-out)
 * [2025-10-25, 17:36:14](https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023) - [Barebones RISC-V OS written in Zig (2023)](https://timmy.moe/blog/barebones-os-zig/)
 * [2025-10-25, 17:26:02](https://lobste.rs/s/lkmimo/programming_modern_systems_like_it_was) - [Programming Modern Systems Like It Was 1984 (2014)](https://prog21.dadgum.com/201.html)
 * [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
