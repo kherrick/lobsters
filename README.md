@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 12:22:49](https://lobste.rs/s/nbqv9g/synadia_tigerbeetle_pledge_512_000_zig) - [Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/)
 * [2025-10-25, 12:08:10](https://lobste.rs/s/shijge/how_ai_can_turn_us_into_society_p_zombies) - [How AI can turn us into a society of p-zombies](https://prahladyeri.github.io/blog/2025/10/how-ai-can-turn-us-into-society-of-p-zombies.html)
 * [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink's global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)
 * [2025-10-25, 07:20:38](https://lobste.rs/s/rrsqyz/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
@@ -10,7 +11,7 @@
 * [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 20:49:59](https://lobste.rs/s/os6vg2/ruby_central_s_weekly_source_truth_update) - [Ruby Central's weekly \"Source of Truth\" update (2025-10-24)](https://rubycentral.org/news/source-of-truth-update-friday-october-24-2025/)
-* [2025-10-24, 19:55:44](https://lobste.rs/s/bsri9a/newpipe_is_turning_10_o) - [NewPipe is turning 10 :O](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
+* [2025-10-24, 19:55:44](https://lobste.rs/s/bsri9a/newpipe_is_turning_10) - [NewPipe is turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
 * [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
 * [2025-10-24, 16:54:48](https://lobste.rs/s/r1tvik/asahi_linux_progress_report_linux_6_17) - [Asahi Linux Progress Report: Linux 6.17](https://asahilinux.org/2025/10/progress-report-6-17/)
@@ -18,7 +19,6 @@
 * [2025-10-24, 15:51:29](https://lobste.rs/s/4exekd/learning_by_starting_at_end_writing_proof) - [Learning by starting at the end: Writing a Proof in Lean](https://interjectedfuture.com/the-best-way-to-learn-might-be-starting-at-the-end/)
 * [2025-10-24, 15:47:19](https://lobste.rs/s/bl8pns/code_like_surgeon) - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 13:34:37](https://lobste.rs/s/magetk/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
-* [2025-10-24, 13:32:00](https://lobste.rs/s/pbsq49/building_like_it_s_1984_scrollbars_web) - [Building like it's 1984: Scrollbars in web applications](https://web.archive.org/web/20250110081649/https://height.app/blog/scrollbars-in-web-applications)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
 * [2025-10-24, 12:15:15](https://lobste.rs/s/upo1ev/openbsd_c_c_toolchain_browser) - [OpenBSD C/C++ Toolchain in the Browser](https://openbsd.llvm.moe/)
 * [2025-10-24, 11:27:17](https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic) - [Date bug affects Ubuntu 25.10 automatic updates](https://lwn.net/Articles/1043103/)
