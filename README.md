@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-25, 02:05:00](https://lobste.rs/s/c9qt43/computer_science_courses_don_t_exist) - [Computer Science Courses that Don't Exist, But Should](https://prog21.dadgum.com/210.html)
+* [2025-10-25, 02:05:00](https://lobste.rs/s/c9qt43/computer_science_courses_don_t_exist) - [Computer Science Courses that Don't Exist, But Should (2015)](https://prog21.dadgum.com/210.html)
 * [2025-10-25, 01:31:27](https://lobste.rs/s/2vu2hn/vision_for_future_low_level_languages) - [A Vision for Future Low-Level Languages](https://antelang.org/blog/vision/)
 * [2025-10-24, 23:50:31](https://lobste.rs/s/hxwvm7/tag_proposal_conflicts) - [Tag proposal: conflicts](https://lobste.rs/s/hxwvm7/tag_proposal_conflicts)
 * [2025-10-24, 22:08:29](https://lobste.rs/s/olpuji/how_draw_tetrapod) - [How to draw a tetrapod](https://dotat.at/@/2025-10-24-tetrapod.html)
