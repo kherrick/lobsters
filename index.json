@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 13:23:02",
+      "https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their"
+    ],
+    [
+      "Mistakes I see engineers making in their code reviews",
+      "https://www.seangoedecke.com/good-code-reviews/"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 12:22:49",
       "https://lobste.rs/s/nbqv9g/synadia_tigerbeetle_pledge_512_000_zig"
     ],
@@ -207,16 +217,6 @@
     [
       "OpenBSD C/C++ Toolchain in the Browser",
       "https://openbsd.llvm.moe/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 11:27:17",
-      "https://lobste.rs/s/bd3leb/date_bug_affects_ubuntu_25_10_automatic"
-    ],
-    [
-      "Date bug affects Ubuntu 25.10 automatic updates",
-      "https://lwn.net/Articles/1043103/"
     ]
   ],
   [
