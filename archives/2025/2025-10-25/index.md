@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 16:28:46](https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor) - [Jonesing For The Next Disruptor](https://datagubbe.se/llmfix/)
+* [2025-10-25, 16:27:45](https://lobste.rs/s/r04yas/ruby_stability_at_scale) - [Ruby Stability at Scale](https://youtu.be/9r0xmX0oK5Y)
 * [2025-10-25, 15:38:55](https://lobste.rs/s/rhlylo/metalang99_rich_functional_language) - [Metalang99: a rich functional language implemented in C99 preprocessor](https://github.com/hirrolot/metalang99)
 * [2025-10-25, 15:20:02](https://lobste.rs/s/rpiq1m/analysis_iboot_s_image4_parser) - [An analysis of iBoot’s Image4 parser](https://amarioguy.github.io/2025/10/20/iboot_image4_validator.html)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
