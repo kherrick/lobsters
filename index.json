@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 20:45:34",
+      "https://lobste.rs/s/wiauo8/computational_complexity_2023"
+    ],
+    [
+      "Computational Complexity (2023)",
+      "https://samuelhautamaki.eu/Computational_Complexity.pdf"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 20:32:32",
       "https://lobste.rs/s/txi156/learn_apl_notes"
     ],
@@ -237,16 +247,6 @@
     [
       "Typst 0.14: Now accessible",
       "https://typst.app/blog/2025/typst-0.14/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 09:31:32",
-      "https://lobste.rs/s/i33fks/modern_perfect_hashing"
-    ],
-    [
-      "Modern perfect hashing",
-      "https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html"
     ]
   ]
 ]
