@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 17:36:14](https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023) - [Barebones RISC-V OS written in Zig (2023)](https://timmy.moe/blog/barebones-os-zig/)
 * [2025-10-25, 17:26:02](https://lobste.rs/s/lkmimo/programming_modern_systems_like_it_was) - [Programming Modern Systems Like It Was 1984 (2014)](https://prog21.dadgum.com/201.html)
 * [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
 * [2025-10-25, 16:59:25](https://lobste.rs/s/obwzso/alpha_launch_well_known_avatar_feedback) - [Alpha launch - .well-known/avatar - feedback wanted](https://shkspr.mobi/blog/2025/10/alpha-launch-well-known-avatar-feedback-wanted/)
@@ -9,7 +10,6 @@
 * [2025-10-25, 15:38:55](https://lobste.rs/s/rhlylo/metalang99_rich_functional_language) - [Metalang99: a rich functional language implemented in C99 preprocessor](https://github.com/hirrolot/metalang99)
 * [2025-10-25, 15:20:02](https://lobste.rs/s/rpiq1m/analysis_iboot_s_image4_parser) - [An analysis of iBoot’s Image4 parser](https://amarioguy.github.io/2025/10/20/iboot_image4_validator.html)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
-* [2025-10-25, 12:22:49](https://lobste.rs/s/nbqv9g/synadia_tigerbeetle_pledge_512_000_zig) - [Synadia and TigerBeetle Pledge $512,000 to the Zig Software Foundation](https://tigerbeetle.com/blog/2025-10-25-synadia-and-tigerbeetle-pledge-512k-to-the-zig-software-foundation/)
 * [2025-10-25, 07:41:57](https://lobste.rs/s/c3mh3l/mapping_starlink_s_global_ip_transit) - [Mapping Starlink's global IP transit providers](https://anuragbhatia.com/post/2025/10/starlink-global-interconnection/)
 * [2025-10-25, 07:20:38](https://lobste.rs/s/rrsqyz/learn_x86_64_assembly_by_writing_gui_from) - [Learn x86-64 assembly by writing a GUI from scratch (2023)](https://gaultier.github.io/blog/x11_x64.html)
 * [2025-10-25, 02:05:00](https://lobste.rs/s/c9qt43/computer_science_courses_don_t_exist) - [Computer Science Courses that Don't Exist, But Should (2015)](https://prog21.dadgum.com/210.html)
