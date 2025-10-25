@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-25, 18:10:42](https://lobste.rs/s/1fcvjc/burning_out) - [Burning out](https://www.interconnects.ai/p/burning-out)
 * [2025-10-25, 17:36:14](https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023) - [Barebones RISC-V OS written in Zig (2023)](https://timmy.moe/blog/barebones-os-zig/)
 * [2025-10-25, 17:26:02](https://lobste.rs/s/lkmimo/programming_modern_systems_like_it_was) - [Programming Modern Systems Like It Was 1984 (2014)](https://prog21.dadgum.com/201.html)
