@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 20:58:21](https://lobste.rs/s/q2nivc/efficient_implementation_self) - [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:45:34](https://lobste.rs/s/wiauo8/computational_complexity_2023) - [Computational Complexity (2023)](https://samuelhautamaki.eu/Computational_Complexity.pdf)
 * [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
 * [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
@@ -21,7 +22,6 @@
 * [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 19:55:44](https://lobste.rs/s/bsri9a/newpipe_is_turning_10) - [NewPipe is turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
 * [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
-* [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
 * [2025-10-24, 16:54:48](https://lobste.rs/s/r1tvik/asahi_linux_progress_report_linux_6_17) - [Asahi Linux Progress Report: Linux 6.17](https://asahilinux.org/2025/10/progress-report-6-17/)
 * [2025-10-24, 16:38:33](https://lobste.rs/s/cnhjj2/how_avoid_fighting_rust_borrow_checker) - [How to Avoid Fighting Rust Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
