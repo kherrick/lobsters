@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-25, 16:28:46",
+      "https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor"
+    ],
+    [
+      "Jonesing For The Next Disruptor",
+      "https://datagubbe.se/llmfix/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 16:27:45",
+      "https://lobste.rs/s/r04yas/ruby_stability_at_scale"
+    ],
+    [
+      "Ruby Stability at Scale",
+      "https://youtu.be/9r0xmX0oK5Y"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 15:38:55",
       "https://lobste.rs/s/rhlylo/metalang99_rich_functional_language"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-10-24, 20:49:59",
-      "https://lobste.rs/s/os6vg2/ruby_central_s_weekly_source_truth_update"
-    ],
-    [
-      "Ruby Central's weekly \"Source of Truth\" update (2025-10-24)",
-      "https://rubycentral.org/news/source-of-truth-update-friday-october-24-2025/"
-    ]
-  ],
-  [
-    [
       "2025-10-24, 19:55:44",
       "https://lobste.rs/s/bsri9a/newpipe_is_turning_10"
     ],
@@ -237,16 +247,6 @@
     [
       "Modern perfect hashing",
       "https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-23, 11:02:26",
-      "https://lobste.rs/s/zlvvd2/changes_advent_code_starting_this"
-    ],
-    [
-      "Changes to Advent of Code starting this December",
-      "https://www.reddit.com/r/adventofcode/comments/1ocwh04/changes_to_advent_of_code_starting_this_december/"
     ]
   ]
 ]
