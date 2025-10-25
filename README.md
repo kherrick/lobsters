@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
+* [2025-10-25, 16:59:25](https://lobste.rs/s/obwzso/alpha_launch_well_known_avatar_feedback) - [Alpha launch - .well-known/avatar - feedback wanted](https://shkspr.mobi/blog/2025/10/alpha-launch-well-known-avatar-feedback-wanted/)
 * [2025-10-25, 16:44:36](https://lobste.rs/s/i1nkpg/latex_llms_boring_technology) - [LaTeX, LLMs and Boring Technology](https://eli.thegreenplace.net/2025/latex-llms-and-boring-technology/)
 * [2025-10-25, 16:28:46](https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor) - [Jonesing For The Next Disruptor](https://datagubbe.se/llmfix/)
 * [2025-10-25, 16:27:45](https://lobste.rs/s/r04yas/ruby_stability_at_scale) - [Ruby Stability at Scale](https://youtu.be/9r0xmX0oK5Y)
@@ -20,10 +22,8 @@
 * [2025-10-24, 18:31:26](https://lobste.rs/s/ynil95/reminiscing_about_turbo_pascal) - [Reminiscing about Turbo Pascal](https://ilearnt.com/blog/turbopascalvideo/)
 * [2025-10-24, 16:54:48](https://lobste.rs/s/r1tvik/asahi_linux_progress_report_linux_6_17) - [Asahi Linux Progress Report: Linux 6.17](https://asahilinux.org/2025/10/progress-report-6-17/)
 * [2025-10-24, 16:38:33](https://lobste.rs/s/cnhjj2/how_avoid_fighting_rust_borrow_checker) - [How to Avoid Fighting Rust Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
-* [2025-10-24, 15:47:19](https://lobste.rs/s/bl8pns/code_like_surgeon) - [Code like a surgeon](https://www.geoffreylitt.com/2025/10/24/code-like-a-surgeon)
 * [2025-10-24, 13:34:37](https://lobste.rs/s/magetk/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
-* [2025-10-24, 09:55:19](https://lobste.rs/s/rpgncc/html_is_tree) - [html-is-a-tree](https://glfmn.io/posts/html-is-a-tree/)
 * [2025-10-24, 09:31:32](https://lobste.rs/s/i33fks/modern_perfect_hashing) - [Modern perfect hashing](https://blog.sesse.net/blog/tech/2025-10-23-21-23_modern_perfect_hashing.html)
 
 ## [Archives](archives/index.md)

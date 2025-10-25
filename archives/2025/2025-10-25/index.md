@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-25](index.md)
 
+* [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
+* [2025-10-25, 16:59:25](https://lobste.rs/s/obwzso/alpha_launch_well_known_avatar_feedback) - [Alpha launch - .well-known/avatar - feedback wanted](https://shkspr.mobi/blog/2025/10/alpha-launch-well-known-avatar-feedback-wanted/)
 * [2025-10-25, 16:44:36](https://lobste.rs/s/i1nkpg/latex_llms_boring_technology) - [LaTeX, LLMs and Boring Technology](https://eli.thegreenplace.net/2025/latex-llms-and-boring-technology/)
 * [2025-10-25, 16:28:46](https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor) - [Jonesing For The Next Disruptor](https://datagubbe.se/llmfix/)
 * [2025-10-25, 16:27:45](https://lobste.rs/s/r04yas/ruby_stability_at_scale) - [Ruby Stability at Scale](https://youtu.be/9r0xmX0oK5Y)
