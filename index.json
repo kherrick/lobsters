@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-25, 21:56:46",
+      "https://lobste.rs/s/afrlit/roots_software_development_textile"
+    ],
+    [
+      "The roots of software development in the textile industry (2024)",
+      "https://asawicki.info/news_1776_what_does_software_have_to_do_with_the_linen_industry"
+    ]
+  ],
+  [
+    [
       "2025-10-25, 20:58:21",
       "https://lobste.rs/s/q2nivc/efficient_implementation_self"
     ],
@@ -107,16 +117,6 @@
     [
       "Metalang99: a rich functional language implemented in C99 preprocessor",
       "https://github.com/hirrolot/metalang99"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 15:20:02",
-      "https://lobste.rs/s/rpiq1m/analysis_iboot_s_image4_parser"
-    ],
-    [
-      "An analysis of iBoot’s Image4 parser",
-      "https://amarioguy.github.io/2025/10/20/iboot_image4_validator.html"
     ]
   ],
   [
