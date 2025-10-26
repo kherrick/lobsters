@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-25, 23:39:12](https://lobste.rs/s/onsz4e/fifteenth_racketcon_playlist_is_now_up) - [(fifteenth RacketCon) playlist is now up](https://www.youtube.com/playlist?list=PLXr4KViVC0qI3GixTBDcayVOZG6DcRFPp)
-* [2025-10-25, 21:56:46](https://lobste.rs/s/afrlit/roots_software_development_textile) - [The roots of software development in the textile industry (2024)](https://asawicki.info/news_1776_what_does_software_have_to_do_with_the_linen_industry)
+* [2025-10-26, 02:08:57](https://lobste.rs/s/vflxfb/overview_attestations_ci) - [An Overview of Attestations in CI](https://github.com/diskuv/dk/blob/V2_4/docs/posts/2025-10-24-overview-ci-attestations.md)
+* [2025-10-26, 02:00:03](https://lobste.rs/s/zrwqum/kde_linux_deep_dive_package_management_is) - [KDE Linux deep dive: package management is amazing, which is why we don’t include it](https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/)
+* [2025-10-26, 01:50:07](https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet) - [WebDAV Isn't Dead Yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
+* [2025-10-26, 01:15:29](https://lobste.rs/s/pmvjqq/retrospective_on_weaknesses_fuzzing) - [Retrospective on weaknesses in fuzzing research](https://addisoncrump.info/research/what-the-hell-are-we-doing/)
 * [2025-10-25, 20:58:21](https://lobste.rs/s/q2nivc/efficient_implementation_self) - [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:45:34](https://lobste.rs/s/wiauo8/computational_complexity_2023) - [Computational Complexity (2023)](https://samuelhautamaki.eu/Computational_Complexity.pdf)
 * [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
@@ -21,8 +23,6 @@
 * [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 20:53:40](https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android) - [Announcing the Swift SDK for Android](https://www.swift.org/blog/nightly-swift-sdk-for-android/)
 * [2025-10-24, 19:55:44](https://lobste.rs/s/bsri9a/newpipe_is_turning_10) - [NewPipe is turning 10](https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/)
-* [2025-10-24, 19:36:48](https://lobste.rs/s/uixchs/image_dithering_eleven_algorithms) - [Image Dithering: Eleven Algorithms and Source Code (2012)](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html)
-* [2025-10-24, 16:54:48](https://lobste.rs/s/r1tvik/asahi_linux_progress_report_linux_6_17) - [Asahi Linux Progress Report: Linux 6.17](https://asahilinux.org/2025/10/progress-report-6-17/)
 * [2025-10-24, 16:38:33](https://lobste.rs/s/cnhjj2/how_avoid_fighting_rust_borrow_checker) - [How to Avoid Fighting Rust Borrow Checker](https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
 
