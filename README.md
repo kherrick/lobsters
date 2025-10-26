@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-26, 11:52:59](https://lobste.rs/s/j0jhfe/we_want_move_ruby_forward) - [We want to move Ruby forward](https://andre.arko.net/2025/10/26/we-want-to-move-ruby-forward/)
+* [2025-10-26, 11:09:22](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week)
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
-* [2025-10-26, 06:39:09](https://lobste.rs/s/xapl8y/sandbox_your_program_using_freebsd_s) - [Sandbox Your Program Using FreeBSD's Capsicum](https://m.youtube.com/watch?v=Ne4l5U_ETAw)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 06:12:11](https://lobste.rs/s/joxxvh/linux_boot_process_from_power_button) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-26, 02:08:57](https://lobste.rs/s/vflxfb/overview_attestations_ci) - [An Overview of Attestations in CI](https://github.com/diskuv/dk/blob/V2_4/docs/posts/2025-10-24-overview-ci-attestations.md)
@@ -10,7 +11,6 @@
 * [2025-10-26, 01:15:29](https://lobste.rs/s/pmvjqq/retrospective_on_weaknesses_fuzzing) - [Retrospective on weaknesses in fuzzing research](https://addisoncrump.info/research/what-the-hell-are-we-doing/)
 * [2025-10-25, 23:39:12](https://lobste.rs/s/onsz4e/fifteenth_racketcon_playlist_is_now_up) - [(fifteenth RacketCon) playlist is now up](https://www.youtube.com/playlist?list=PLXr4KViVC0qI3GixTBDcayVOZG6DcRFPp)
 * [2025-10-25, 20:58:21](https://lobste.rs/s/q2nivc/efficient_implementation_self) - [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
-* [2025-10-25, 20:45:34](https://lobste.rs/s/wiauo8/computational_complexity_2023) - [Computational Complexity (2023)](https://samuelhautamaki.eu/Computational_Complexity.pdf)
 * [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
 * [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
 * [2025-10-25, 17:36:14](https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023) - [Barebones RISC-V OS written in Zig (2023)](https://timmy.moe/blog/barebones-os-zig/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 11:52:59](https://lobste.rs/s/j0jhfe/we_want_move_ruby_forward) - [We want to move Ruby forward](https://andre.arko.net/2025/10/26/we-want-to-move-ruby-forward/)
+* [2025-10-26, 11:09:22](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week)
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
 * [2025-10-26, 06:39:09](https://lobste.rs/s/xapl8y/sandbox_your_program_using_freebsd_s) - [Sandbox Your Program Using FreeBSD's Capsicum](https://m.youtube.com/watch?v=Ne4l5U_ETAw)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
