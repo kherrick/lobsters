@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
 * [2025-10-26, 16:19:51](https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for) - [Formal or not formal? That is the question in AI for theorem proving](https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
@@ -18,7 +19,6 @@
 * [2025-10-25, 20:58:21](https://lobste.rs/s/q2nivc/efficient_implementation_self) - [An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)](https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf)
 * [2025-10-25, 20:32:32](https://lobste.rs/s/txi156/learn_apl_notes) - [\"Learn APL\" Notes](https://luksamuk.codes/pages/learn-apl.html)
 * [2025-10-25, 19:25:32](https://lobste.rs/s/j1seza/rolling_our_own_s3) - [Rolling Our Own S3](https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143)
-* [2025-10-25, 17:36:14](https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023) - [Barebones RISC-V OS written in Zig (2023)](https://timmy.moe/blog/barebones-os-zig/)
 * [2025-10-25, 17:05:23](https://lobste.rs/s/iqs4hv/libera_chat_receives_legal_advice_online) - [Libera Chat receives legal advice that the Online Safety Act does not apply to them](https://libera.chat/news/advised)
 * [2025-10-25, 16:59:25](https://lobste.rs/s/obwzso/alpha_launch_well_known_avatar_feedback) - [Alpha launch - .well-known/avatar - feedback wanted](https://shkspr.mobi/blog/2025/10/alpha-launch-well-known-avatar-feedback-wanted/)
 * [2025-10-25, 16:44:36](https://lobste.rs/s/i1nkpg/latex_llms_boring_technology) - [LaTeX, LLMs and Boring Technology](https://eli.thegreenplace.net/2025/latex-llms-and-boring-technology/)
