@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 21:03:11](https://lobste.rs/s/6yhlxz/on_programming_languages_as_languages) - [On Programming Languages as Languages (2014)](https://programmingzen.com/programming-languages-as-languages/)
 * [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust](https://burntsushi.net/transducers/)
 * [2025-10-26, 18:14:46](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni) - [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/)
