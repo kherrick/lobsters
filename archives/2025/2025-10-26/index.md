@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 17:04:40](https://lobste.rs/s/bvxjxj/why_your_social_org_files_can_have) - [Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-26, 16:50:41](https://lobste.rs/s/mpm6ld/simple_control_flow_for_automatically) - [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/)
 * [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
 * [2025-10-26, 16:19:51](https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for) - [Formal or not formal? That is the question in AI for theorem proving](https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/)
