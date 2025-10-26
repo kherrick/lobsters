@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-26, 06:13:36",
+      "https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models"
+    ],
+    [
+      "The FSF considers large language models",
+      "https://lwn.net/Articles/1040888/"
+    ]
+  ],
+  [
+    [
+      "2025-10-26, 06:12:11",
+      "https://lobste.rs/s/joxxvh/linux_boot_process_from_power_button"
+    ],
+    [
+      "The Linux Boot Process: From Power Button to Kernel",
+      "https://www.0xkato.xyz/linux-boot/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 05:42:45",
       "https://lobste.rs/s/ghmawy/journey_before_main"
     ],
@@ -47,6 +67,16 @@
     [
       "Retrospective on weaknesses in fuzzing research",
       "https://addisoncrump.info/research/what-the-hell-are-we-doing/"
+    ]
+  ],
+  [
+    [
+      "2025-10-25, 23:39:12",
+      "https://lobste.rs/s/onsz4e/fifteenth_racketcon_playlist_is_now_up"
+    ],
+    [
+      "(fifteenth RacketCon) playlist is now up",
+      "https://www.youtube.com/playlist?list=PLXr4KViVC0qI3GixTBDcayVOZG6DcRFPp"
     ]
   ],
   [
@@ -207,36 +237,6 @@
     [
       "Leaving the Freedesktop.org community",
       "https://vt.social/@lina/115431232807081648"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 20:53:40",
-      "https://lobste.rs/s/c3i9bs/announcing_swift_sdk_for_android"
-    ],
-    [
-      "Announcing the Swift SDK for Android",
-      "https://www.swift.org/blog/nightly-swift-sdk-for-android/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 19:55:44",
-      "https://lobste.rs/s/bsri9a/newpipe_is_turning_10"
-    ],
-    [
-      "NewPipe is turning 10",
-      "https://newpipe.net/blog/pinned/announcement/newpipe-turns-10/"
-    ]
-  ],
-  [
-    [
-      "2025-10-24, 16:38:33",
-      "https://lobste.rs/s/cnhjj2/how_avoid_fighting_rust_borrow_checker"
-    ],
-    [
-      "How to Avoid Fighting Rust Borrow Checker",
-      "https://qouteall.fun/qouteall-blog/2025/How%20to%20Avoid%20Fighting%20Rust%20Borrow%20Checker#contagious-borrow-issue"
     ]
   ],
   [
