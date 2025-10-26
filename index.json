@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-26, 16:33:14",
+      "https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use"
+    ],
+    [
+      "Distroless Containers for corporate use: Nix Flakes vs Fedora",
+      "https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 16:19:51",
       "https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for"
     ],
@@ -177,16 +187,6 @@
     [
       "Rolling Our Own S3",
       "https://engineering.nanit.com/how-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 17:36:14",
-      "https://lobste.rs/s/y4utcj/barebones_risc_v_os_written_zig_2023"
-    ],
-    [
-      "Barebones RISC-V OS written in Zig (2023)",
-      "https://timmy.moe/blog/barebones-os-zig/"
     ]
   ],
   [
