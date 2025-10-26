@@ -7,6 +7,7 @@
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 06:12:11](https://lobste.rs/s/joxxvh/linux_boot_process_from_power_button) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
+* [2025-10-26, 05:42:45](https://lobste.rs/s/ghmawy/journey_before_main) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
 * [2025-10-26, 02:08:57](https://lobste.rs/s/vflxfb/overview_attestations_ci) - [An Overview of Attestations in CI](https://github.com/diskuv/dk/blob/V2_4/docs/posts/2025-10-24-overview-ci-attestations.md)
 * [2025-10-26, 02:00:03](https://lobste.rs/s/zrwqum/kde_linux_deep_dive_package_management_is) - [KDE Linux deep dive: package management is amazing, which is why we don’t include it](https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/)
 * [2025-10-26, 01:50:07](https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet) - [WebDAV Isn't Dead Yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
@@ -23,7 +24,6 @@
 * [2025-10-25, 16:28:46](https://lobste.rs/s/ksumsv/jonesing_for_next_disruptor) - [Jonesing For The Next Disruptor](https://datagubbe.se/llmfix/)
 * [2025-10-25, 15:38:55](https://lobste.rs/s/rhlylo/metalang99_rich_functional_language) - [Metalang99: a rich functional language implemented in C99 preprocessor](https://github.com/hirrolot/metalang99)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
-* [2025-10-25, 02:05:00](https://lobste.rs/s/c9qt43/computer_science_courses_don_t_exist) - [Computer Science Courses that Don't Exist, But Should (2015)](https://prog21.dadgum.com/210.html)
 * [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 
 ## [Archives](archives/index.md)
