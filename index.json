@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-26, 18:50:07",
+      "https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust"
+    ],
+    [
+      "Index 1,600,000,000 Keys with Automata and Rust",
+      "https://burntsushi.net/transducers/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 18:14:46",
       "https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni"
     ],
@@ -177,16 +187,6 @@
     [
       "Retrospective on weaknesses in fuzzing research",
       "https://addisoncrump.info/research/what-the-hell-are-we-doing/"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 20:58:21",
-      "https://lobste.rs/s/q2nivc/efficient_implementation_self"
-    ],
-    [
-      "An Efficient Implementation of SELF, a Dynamically-Typed Object-Oriented Language Based on Prototypes (1989)",
-      "https://courses.cs.washington.edu/courses/cse501/15sp/papers/chambers.pdf"
     ]
   ],
   [
