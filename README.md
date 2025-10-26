@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 11:52:59](https://lobste.rs/s/j0jhfe/we_want_move_ruby_forward) - [We want to move Ruby forward](https://andre.arko.net/2025/10/26/we-want-to-move-ruby-forward/)
 * [2025-10-26, 11:09:22](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week)
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
@@ -22,7 +23,6 @@
 * [2025-10-25, 15:38:55](https://lobste.rs/s/rhlylo/metalang99_rich_functional_language) - [Metalang99: a rich functional language implemented in C99 preprocessor](https://github.com/hirrolot/metalang99)
 * [2025-10-25, 13:23:02](https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their) - [Mistakes I see engineers making in their code reviews](https://www.seangoedecke.com/good-code-reviews/)
 * [2025-10-25, 02:05:00](https://lobste.rs/s/c9qt43/computer_science_courses_don_t_exist) - [Computer Science Courses that Don't Exist, But Should (2015)](https://prog21.dadgum.com/210.html)
-* [2025-10-25, 01:31:27](https://lobste.rs/s/2vu2hn/vision_for_future_low_level_languages) - [A Vision for Future Low-Level Languages](https://antelang.org/blog/vision/)
 * [2025-10-24, 21:28:42](https://lobste.rs/s/7abi5d/leaving_freedesktop_org_community) - [Leaving the Freedesktop.org community](https://vt.social/@lina/115431232807081648)
 * [2025-10-24, 12:51:32](https://lobste.rs/s/ea6dik/typst_0_14_now_accessible) - [Typst 0.14: Now accessible](https://typst.app/blog/2025/typst-0.14/)
 
