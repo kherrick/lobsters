@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-26](index.md)
 
+* [2025-10-26, 06:39:09](https://lobste.rs/s/xapl8y/sandbox_your_program_using_freebsd_s) - [Sandbox Your Program Using FreeBSD's Capsicum](https://m.youtube.com/watch?v=Ne4l5U_ETAw)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 06:12:11](https://lobste.rs/s/joxxvh/linux_boot_process_from_power_button) - [The Linux Boot Process: From Power Button to Kernel](https://www.0xkato.xyz/linux-boot/)
 * [2025-10-26, 05:42:45](https://lobste.rs/s/ghmawy/journey_before_main) - [The Journey Before main()](https://amit.prasad.me/blog/before-main)
