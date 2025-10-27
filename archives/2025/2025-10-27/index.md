@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 08:15:03](https://lobste.rs/s/5zpcpt/why_jpeg_xl_ignoring_bit_depth_is_genius) - [Why JPEG XL Ignoring Bit Depth Is Genius (And Why AVIF Can’t Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
 * [2025-10-27, 07:22:48](https://lobste.rs/s/jw5o3e/recreating_lions_commentary_for) - [Recreating Lions' commentary for teaching OS at MIT](https://www.youtube.com/watch?v=uY7CNx-P9ao)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained - Faultlore](https://faultlore.com/blah/compact-unwinding/)

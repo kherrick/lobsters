@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 08:15:03](https://lobste.rs/s/5zpcpt/why_jpeg_xl_ignoring_bit_depth_is_genius) - [Why JPEG XL Ignoring Bit Depth Is Genius (And Why AVIF Can’t Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
 * [2025-10-27, 07:22:48](https://lobste.rs/s/jw5o3e/recreating_lions_commentary_for) - [Recreating Lions' commentary for teaching OS at MIT](https://www.youtube.com/watch?v=uY7CNx-P9ao)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained - Faultlore](https://faultlore.com/blah/compact-unwinding/)
@@ -11,7 +12,6 @@
 * [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-10-26, 18:14:46](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni) - [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/)
 * [2025-10-26, 17:04:40](https://lobste.rs/s/bvxjxj/why_your_social_org_files_can_have) - [Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
-* [2025-10-26, 16:50:41](https://lobste.rs/s/mpm6ld/simple_control_flow_for_automatically) - [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/)
 * [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
