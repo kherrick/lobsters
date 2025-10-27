@@ -21,10 +21,10 @@
 * [2025-10-27, 00:20:34](https://lobste.rs/s/ujuul6/using_homebrew_distribute_early_access) - [Using Homebrew to Distribute Early Access Binaries from Private Github Repositories](https://lgug2z.com/articles/using-homebrew-to-distribute-early-access-binaries-from-private-github-repositories/)
 * [2025-10-26, 21:19:53](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5) - [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/)
 * [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
-* [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
+* [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 
 ## [Archives](archives/index.md)
 
