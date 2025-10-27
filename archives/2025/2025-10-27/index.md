@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 18:44:16](https://lobste.rs/s/zdnyte/re_few_comments_on_age_2019) - [Re: A few comments on ‘age’ (2019)](https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ)
 * [2025-10-27, 18:38:07](https://lobste.rs/s/pjoeje/printing_at_fedex) - [Printing at FedEx](https://v7.robweychert.com/blog/2025/10/printing-at-fedex/)
 * [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
 * [2025-10-27, 17:24:20](https://lobste.rs/s/8k34h8/it_s_not_always_dns) - [It's NOT always DNS](https://notes.pault.ag/its-not-always-dns/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 18:44:16](https://lobste.rs/s/zdnyte/re_few_comments_on_age_2019) - [Re: A few comments on ‘age’ (2019)](https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ)
 * [2025-10-27, 18:38:07](https://lobste.rs/s/pjoeje/printing_at_fedex) - [Printing at FedEx](https://v7.robweychert.com/blog/2025/10/printing-at-fedex/)
 * [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
 * [2025-10-27, 17:24:20](https://lobste.rs/s/8k34h8/it_s_not_always_dns) - [It's NOT always DNS](https://notes.pault.ag/its-not-always-dns/)
@@ -10,7 +11,6 @@
 * [2025-10-27, 16:26:26](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week)
 * [2025-10-27, 16:23:37](https://lobste.rs/s/fmbibl/json_query_small_flexible_expandable) - [JSON Query - a small, flexible, and expandable JSON query language](https://jsonquerylang.org/)
 * [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
-* [2025-10-27, 15:55:11](https://lobste.rs/s/dorxgc/making_software_update_voyager_1) - [Making a software update to Voyager 1](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
