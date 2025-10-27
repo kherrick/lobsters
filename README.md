@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
 * [2025-10-27, 17:24:20](https://lobste.rs/s/8k34h8/it_s_not_always_dns) - [It's NOT always DNS](https://notes.pault.ag/its-not-always-dns/)
 * [2025-10-27, 17:15:38](https://lobste.rs/s/5epuv6/new_calculus_ai_based_coding) - [The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
@@ -15,7 +16,6 @@
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained (2021)](https://faultlore.com/blah/compact-unwinding/)
 * [2025-10-27, 02:39:37](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for) - [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon)
-* [2025-10-27, 01:12:54](https://lobste.rs/s/txlk0m/interactive_hiring_pipeline_calculator) - [Interactive Hiring Pipeline Calculator](https://justoffbyone.com/posts/interactive-hiring-pipeline-calculator/)
 * [2025-10-27, 00:20:34](https://lobste.rs/s/ujuul6/using_homebrew_distribute_early_access) - [Using Homebrew to Distribute Early Access Binaries from Private Github Repositories](https://lgug2z.com/articles/using-homebrew-to-distribute-early-access-binaries-from-private-github-repositories/)
 * [2025-10-26, 21:19:53](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5) - [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/)
 * [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)

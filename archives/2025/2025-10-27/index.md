@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
 * [2025-10-27, 17:24:20](https://lobste.rs/s/8k34h8/it_s_not_always_dns) - [It's NOT always DNS](https://notes.pault.ag/its-not-always-dns/)
 * [2025-10-27, 17:15:38](https://lobste.rs/s/5epuv6/new_calculus_ai_based_coding) - [The New Calculus of AI-based Coding](https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html)
 * [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
