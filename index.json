@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-27, 17:24:20",
+      "https://lobste.rs/s/8k34h8/it_s_not_always_dns"
+    ],
+    [
+      "It's NOT always DNS",
+      "https://notes.pault.ag/its-not-always-dns/"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 17:15:38",
+      "https://lobste.rs/s/5epuv6/new_calculus_ai_based_coding"
+    ],
+    [
+      "The New Calculus of AI-based Coding",
+      "https://blog.joemag.dev/2025/10/the-new-calculus-of-ai-based-coding.html"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 16:52:59",
       "https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra"
     ],
@@ -41,22 +61,22 @@
   ],
   [
     [
-      "2025-10-27, 16:23:37",
-      "https://lobste.rs/s/fmbibl/json_query_small_flexible_expandable"
-    ],
-    [
-      "JSON Query - a small, flexible, and expandable JSON query language",
-      "https://jsonquerylang.org/"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 16:05:46",
       "https://lobste.rs/s/v2xwx7/impossible_optimization"
     ],
     [
       "The Impossible Optimization, and the Metaprogramming To Achieve It",
       "https://verdagon.dev/blog/impossible-optimization"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 15:55:11",
+      "https://lobste.rs/s/dorxgc/making_software_update_voyager_1"
+    ],
+    [
+      "Making a software update to Voyager 1",
+      "https://www.youtube.com/watch?v=p0K7u3B_8rY"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-10-26, 13:09:26",
-      "https://lobste.rs/s/myqo5i/tag_proposal_typesetting"
-    ],
-    [
-      "Tag proposal: typesetting",
-      "https://lobste.rs/s/myqo5i/tag_proposal_typesetting"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 12:59:00",
       "https://lobste.rs/s/9na276/you_already_have_git_server"
     ],
@@ -237,16 +247,6 @@
     [
       "Let's Help NetBSD Cross the Finish Line Before 2025 Ends",
       "https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 01:50:07",
-      "https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet"
-    ],
-    [
-      "WebDAV Isn't Dead Yet",
-      "https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/"
     ]
   ]
 ]
