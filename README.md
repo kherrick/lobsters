@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 12:36:05](https://lobste.rs/s/1jx8hv/how_build_voice_ai_agent_using_open_source) - [How to Build a Voice AI Agent Using Open-Source Tools](https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 09:09:13](https://lobste.rs/s/zvbhjh/why_open_source_may_not_survive_rise) - [Why open source may not survive the rise of generative AI](https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/)
 * [2025-10-27, 08:15:03](https://lobste.rs/s/5zpcpt/why_jpeg_xl_ignoring_bit_depth_is_genius) - [Why JPEG XL Ignoring Bit Depth Is Genius (And Why AVIF Can’t Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
@@ -12,8 +13,8 @@
 * [2025-10-26, 21:19:53](https://lobste.rs/s/yrbzxx/end_shouting_prompts_as_programs_gpt_5) - [The End of Shouting: Prompts as Programs in GPT-5](https://www.robert-glaser.de/prompts-as-programs-in-gpt-5/)
 * [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
 * [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
-* [2025-10-26, 18:14:46](https://lobste.rs/s/lucihi/learning_regular_languages_with_rpni) - [Learning Regular Languages with RPNI Algorithm](https://rahul.gopinath.org/post/2025/10/24/rpni-learning-regular-languages/)
 * [2025-10-26, 17:04:40](https://lobste.rs/s/bvxjxj/why_your_social_org_files_can_have) - [Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
+* [2025-10-26, 16:50:41](https://lobste.rs/s/mpm6ld/simple_control_flow_for_automatically) - [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/)
 * [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
@@ -23,7 +24,6 @@
 * [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
-* [2025-10-26, 02:00:03](https://lobste.rs/s/zrwqum/kde_linux_deep_dive_package_management_is) - [KDE Linux deep dive: package management is amazing, which is why we don’t include it](https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/)
 * [2025-10-26, 01:50:07](https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet) - [WebDAV Isn't Dead Yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 
 ## [Archives](archives/index.md)

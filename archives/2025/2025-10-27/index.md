@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 12:36:05](https://lobste.rs/s/1jx8hv/how_build_voice_ai_agent_using_open_source) - [How to Build a Voice AI Agent Using Open-Source Tools](https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 09:09:13](https://lobste.rs/s/zvbhjh/why_open_source_may_not_survive_rise) - [Why open source may not survive the rise of generative AI](https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/)
 * [2025-10-27, 08:15:03](https://lobste.rs/s/5zpcpt/why_jpeg_xl_ignoring_bit_depth_is_genius) - [Why JPEG XL Ignoring Bit Depth Is Genius (And Why AVIF Can’t Pull It Off)](https://www.fractionalxperience.com/ux-ui-graphic-design-blog/why-jpeg-xl-ignoring-bit-depth-is-genius)
