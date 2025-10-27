@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
 * [2025-10-27, 16:39:31](https://lobste.rs/s/xmkhec/raconn_ssh_multi_hostname) - [Raconn - Ssh multi hostname](https://blog.izissise.net/posts/raconn/)
 * [2025-10-27, 16:38:57](https://lobste.rs/s/9l9wvp/psf_has_withdrawn_1_5_million_proposal_us) - [The PSF has withdrawn a $1.5 million proposal to US government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
 * [2025-10-27, 16:26:26](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week)
