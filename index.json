@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-27, 02:39:37",
+      "https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for"
+    ],
+    [
+      "Token-Oriented Object Notation – JSON for LLMs at half the token cost",
+      "https://github.com/johannschopplich/toon"
+    ]
+  ],
+  [
+    [
+      "2025-10-27, 01:12:54",
+      "https://lobste.rs/s/txlk0m/interactive_hiring_pipeline_calculator"
+    ],
+    [
+      "Interactive Hiring Pipeline Calculator",
+      "https://justoffbyone.com/posts/interactive-hiring-pipeline-calculator/"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 00:20:34",
       "https://lobste.rs/s/ujuul6/using_homebrew_distribute_early_access"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2025-10-26, 16:19:51",
+      "https://lobste.rs/s/fwa9gs/formal_not_formal_is_question_ai_for"
+    ],
+    [
+      "Formal or not formal? That is the question in AI for theorem proving",
+      "https://xenaproject.wordpress.com/2025/10/22/formal-or-not-formal-that-is-the-question-in-ai-for-theorem-proving/"
+    ]
+  ],
+  [
+    [
       "2025-10-26, 15:56:19",
       "https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-10-26, 11:09:22",
-      "https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week"
-    ],
-    [
-      "What are you reading this week?",
-      "https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week"
-    ]
-  ],
-  [
-    [
       "2025-10-26, 09:56:00",
       "https://lobste.rs/s/jhq7ng/property_based_testing_practice"
     ],
@@ -177,16 +197,6 @@
     [
       "The FSF considers large language models",
       "https://lwn.net/Articles/1040888/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 05:42:45",
-      "https://lobste.rs/s/ghmawy/journey_before_main"
-    ],
-    [
-      "The Journey Before main()",
-      "https://amit.prasad.me/blog/before-main"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Libera Chat receives legal advice that the Online Safety Act does not apply to them",
       "https://libera.chat/news/advised"
-    ]
-  ],
-  [
-    [
-      "2025-10-25, 13:23:02",
-      "https://lobste.rs/s/ngei5p/mistakes_i_see_engineers_making_their"
-    ],
-    [
-      "Mistakes I see engineers making in their code reviews",
-      "https://www.seangoedecke.com/good-code-reviews/"
     ]
   ]
 ]
