@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 20:37:02](https://lobste.rs/s/doiett/gleescript_bundle_your_gleam_on_erlang) - [gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file](https://github.com/lpil/gleescript)
 * [2025-10-27, 20:23:48](https://lobste.rs/s/y2iucz/how_open_source_license_scanners_work) - [How Open Source License Scanners Work](https://fossa.com/blog/how-open-source-license-scanners-work/)
 * [2025-10-27, 18:44:16](https://lobste.rs/s/zdnyte/re_few_comments_on_age_2019) - [Re: A few comments on ‘age’ (2019)](https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ)
 * [2025-10-27, 18:38:07](https://lobste.rs/s/pjoeje/printing_at_fedex) - [Printing at FedEx](https://v7.robweychert.com/blog/2025/10/printing-at-fedex/)

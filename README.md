@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 20:37:02](https://lobste.rs/s/doiett/gleescript_bundle_your_gleam_on_erlang) - [gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file](https://github.com/lpil/gleescript)
 * [2025-10-27, 20:23:48](https://lobste.rs/s/y2iucz/how_open_source_license_scanners_work) - [How Open Source License Scanners Work](https://fossa.com/blog/how-open-source-license-scanners-work/)
 * [2025-10-27, 18:44:16](https://lobste.rs/s/zdnyte/re_few_comments_on_age_2019) - [Re: A few comments on ‘age’ (2019)](https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ)
 * [2025-10-27, 18:38:07](https://lobste.rs/s/pjoeje/printing_at_fedex) - [Printing at FedEx](https://v7.robweychert.com/blog/2025/10/printing-at-fedex/)
@@ -24,7 +25,6 @@
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
-* [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 
 ## [Archives](archives/index.md)
 
