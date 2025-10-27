@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
 * [2025-10-27, 20:56:07](https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 20:53:31](https://lobste.rs/s/xxp1tx/why_ip_address_truncation_fails_at) - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 * [2025-10-27, 20:37:02](https://lobste.rs/s/doiett/gleescript_bundle_your_gleam_on_erlang) - [gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file](https://github.com/lpil/gleescript)

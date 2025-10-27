@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
 * [2025-10-27, 20:56:07](https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 20:53:31](https://lobste.rs/s/xxp1tx/why_ip_address_truncation_fails_at) - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 * [2025-10-27, 18:44:16](https://lobste.rs/s/zdnyte/re_few_comments_on_age_2019) - [Re: A few comments on ‘age’ (2019)](https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ)
@@ -15,7 +16,6 @@
 * [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-27, 15:55:11](https://lobste.rs/s/dorxgc/making_software_update_voyager_1) - [Making a software update to Voyager 1](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
-* [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained (2021)](https://faultlore.com/blah/compact-unwinding/)
 * [2025-10-27, 02:39:37](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for) - [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon)
