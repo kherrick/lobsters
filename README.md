@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 12:36:05](https://lobste.rs/s/1jx8hv/how_build_voice_ai_agent_using_open_source) - [How to Build a Voice AI Agent Using Open-Source Tools](https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 09:09:13](https://lobste.rs/s/zvbhjh/why_open_source_may_not_survive_rise) - [Why open source may not survive the rise of generative AI](https://www.zdnet.com/article/why-open-source-may-not-survive-the-rise-of-generative-ai/)
@@ -15,7 +16,6 @@
 * [2025-10-26, 18:50:07](https://lobste.rs/s/82efis/index_1_600_000_000_keys_with_automata_rust) - [Index 1,600,000,000 Keys with Automata and Rust (2015)](https://burntsushi.net/transducers/)
 * [2025-10-26, 17:04:40](https://lobste.rs/s/bvxjxj/why_your_social_org_files_can_have) - [Why Your social.org Files Can Have Millions of Lines Without Any Performance Issues](https://en.andros.dev/blog/4e12225f/why-your-socialorg-files-can-have-millions-of-lines-without-any-performance-issues/)
 * [2025-10-26, 16:50:41](https://lobste.rs/s/mpm6ld/simple_control_flow_for_automatically) - [Simple Control Flow for Automatically Steering Agents](https://www.robw.fyi/2025/10/24/simple-control-flow-for-automatically-steering-agents/)
-* [2025-10-26, 16:33:14](https://lobste.rs/s/cy3xwz/distroless_containers_for_corporate_use) - [Distroless Containers for corporate use: Nix Flakes vs Fedora](https://blog.riemann.cc/digitalisation/2025/10/26/distroless-containers-nix-flakes-vs-fedora/)
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 14:55:47](https://lobste.rs/s/mvj1dc/bug_taught_me_more_about_pytorch_than) - [the bug that taught me more about PyTorch than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
