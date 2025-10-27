@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-27, 15:51:17](https://lobste.rs/s/zhyoag/can_leftist_position_on_use_generative_ai) - [Can a leftist position on the use of generative AI be materially held? - Jacky Alciné](https://www.jacky.wtf/essays/2025/left-ai/)
+* [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
+* [2025-10-27, 15:55:11](https://lobste.rs/s/dorxgc/making_software_update_voyager_1) - [Making a software update to Voyager 1](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 12:36:05](https://lobste.rs/s/1jx8hv/how_build_voice_ai_agent_using_open_source) - [How to Build a Voice AI Agent Using Open-Source Tools](https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
@@ -23,7 +24,6 @@
 * [2025-10-26, 13:09:26](https://lobste.rs/s/myqo5i/tag_proposal_typesetting) - [Tag proposal: typesetting](https://lobste.rs/s/myqo5i/tag_proposal_typesetting)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
-* [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
 * [2025-10-26, 01:50:07](https://lobste.rs/s/hs7gjy/webdav_isn_t_dead_yet) - [WebDAV Isn't Dead Yet](https://blog.feld.me/posts/2025/09/webdav-isnt-dead-yet/)
 
 ## [Archives](archives/index.md)
