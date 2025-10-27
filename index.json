@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-10-27, 20:37:02",
-      "https://lobste.rs/s/doiett/gleescript_bundle_your_gleam_on_erlang"
+      "2025-10-27, 20:56:07",
+      "https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction"
     ],
     [
-      "gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file",
-      "https://github.com/lpil/gleescript"
+      "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
+      "https://dramforever.github.io/easyriscv/"
     ]
   ],
   [
     [
-      "2025-10-27, 20:23:48",
-      "https://lobste.rs/s/y2iucz/how_open_source_license_scanners_work"
+      "2025-10-27, 20:53:31",
+      "https://lobste.rs/s/xxp1tx/why_ip_address_truncation_fails_at"
     ],
     [
-      "How Open Source License Scanners Work",
-      "https://fossa.com/blog/how-open-source-license-scanners-work/"
+      "Why IP address truncation fails at anonymization",
+      "https://00f.net/2025/10/27/ip-anonymization/"
     ]
   ],
   [
@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-10-27, 15:55:11",
+      "https://lobste.rs/s/dorxgc/making_software_update_voyager_1"
+    ],
+    [
+      "Making a software update to Voyager 1",
+      "https://www.youtube.com/watch?v=p0K7u3B_8rY"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 13:35:36",
       "https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go"
     ],
@@ -237,16 +247,6 @@
     [
       "You already have a git server",
       "https://maurycyz.com/misc/easy_git/"
-    ]
-  ],
-  [
-    [
-      "2025-10-26, 12:35:39",
-      "https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before"
-    ],
-    [
-      "Let's Help NetBSD Cross the Finish Line Before 2025 Ends",
-      "https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html"
     ]
   ]
 ]
