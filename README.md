@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-27, 07:22:48](https://lobste.rs/s/jw5o3e/recreating_lions_commentary_for) - [Recreating Lions' commentary for teaching OS at MIT](https://www.youtube.com/watch?v=uY7CNx-P9ao)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-27, 04:25:49](https://lobste.rs/s/rshvwm/apple_compact_unwinding_format) - [The Apple Compact Unwinding Format: Documented and Explained - Faultlore](https://faultlore.com/blah/compact-unwinding/)
 * [2025-10-27, 02:39:37](https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for) - [Token-Oriented Object Notation – JSON for LLMs at half the token cost](https://github.com/johannschopplich/toon)
@@ -18,7 +19,6 @@
 * [2025-10-26, 13:09:26](https://lobste.rs/s/myqo5i/tag_proposal_typesetting) - [Tag proposal: typesetting](https://lobste.rs/s/myqo5i/tag_proposal_typesetting)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
 * [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
-* [2025-10-26, 11:09:22](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week) - [What are you reading this week?](https://lobste.rs/s/gtpkpz/what_are_you_reading_this_week)
 * [2025-10-26, 09:56:00](https://lobste.rs/s/jhq7ng/property_based_testing_practice) - [Property-Based Testing in Practice](https://dl.acm.org/doi/pdf/10.1145/3597503.3639581)
 * [2025-10-26, 06:13:36](https://lobste.rs/s/d7wdhw/fsf_considers_large_language_models) - [The FSF considers large language models](https://lwn.net/Articles/1040888/)
 * [2025-10-26, 02:00:03](https://lobste.rs/s/zrwqum/kde_linux_deep_dive_package_management_is) - [KDE Linux deep dive: package management is amazing, which is why we don’t include it](https://pointieststick.com/2025/10/25/kde-linux-deep-dive-package-management-is-amazing-which-is-why-we-dont-include-it/)
