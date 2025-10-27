@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-27, 20:37:02](https://lobste.rs/s/doiett/gleescript_bundle_your_gleam_on_erlang) - [gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file](https://github.com/lpil/gleescript)
-* [2025-10-27, 20:23:48](https://lobste.rs/s/y2iucz/how_open_source_license_scanners_work) - [How Open Source License Scanners Work](https://fossa.com/blog/how-open-source-license-scanners-work/)
+* [2025-10-27, 20:56:07](https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
+* [2025-10-27, 20:53:31](https://lobste.rs/s/xxp1tx/why_ip_address_truncation_fails_at) - [Why IP address truncation fails at anonymization](https://00f.net/2025/10/27/ip-anonymization/)
 * [2025-10-27, 18:44:16](https://lobste.rs/s/zdnyte/re_few_comments_on_age_2019) - [Re: A few comments on ‘age’ (2019)](https://groups.google.com/g/age-dev/c/r-gwwcN3L-0/m/EhEvUbG5AwAJ)
 * [2025-10-27, 18:38:07](https://lobste.rs/s/pjoeje/printing_at_fedex) - [Printing at FedEx](https://v7.robweychert.com/blog/2025/10/printing-at-fedex/)
 * [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
@@ -13,6 +13,7 @@
 * [2025-10-27, 16:26:26](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0ddyuj/what_are_you_doing_this_week)
 * [2025-10-27, 16:23:37](https://lobste.rs/s/fmbibl/json_query_small_flexible_expandable) - [JSON Query - a small, flexible, and expandable JSON query language](https://jsonquerylang.org/)
 * [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
+* [2025-10-27, 15:55:11](https://lobste.rs/s/dorxgc/making_software_update_voyager_1) - [Making a software update to Voyager 1](https://www.youtube.com/watch?v=p0K7u3B_8rY)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
@@ -24,7 +25,6 @@
 * [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
-* [2025-10-26, 12:35:39](https://lobste.rs/s/wbymah/let_s_help_netbsd_cross_finish_line_before) - [Let's Help NetBSD Cross the Finish Line Before 2025 Ends](https://mail-index.netbsd.org/netbsd-users/2025/10/26/msg033327.html)
 
 ## [Archives](archives/index.md)
 
