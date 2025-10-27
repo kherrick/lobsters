@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-27](index.md)
 
+* [2025-10-27, 15:51:17](https://lobste.rs/s/zhyoag/can_leftist_position_on_use_generative_ai) - [Can a leftist position on the use of generative AI be materially held? - Jacky Alciné](https://www.jacky.wtf/essays/2025/left-ai/)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 12:36:05](https://lobste.rs/s/1jx8hv/how_build_voice_ai_agent_using_open_source) - [How to Build a Voice AI Agent Using Open-Source Tools](https://www.freecodecamp.org/news/how-to-build-a-voice-ai-agent-using-open-source-tools/)
 * [2025-10-27, 10:49:45](https://lobste.rs/s/gsj9gh/bring_microsoft_recall_linux) - [Bring Microsoft Recall to Linux](https://github.com/rolflobker/recall-for-linux)
