@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-28, 21:06:19](https://lobste.rs/s/fhkgvy/understanding_docker_internals) - [Understanding Docker Internals: Building a Container Runtime in Python](https://muhammadraza.me/2024/building-container-runtime-python/)
+* [2025-10-28, 20:46:01](https://lobste.rs/s/rbi212/monte_carlo_modeling_python_with) - [Monte Carlo modeling in Python with probabilit](https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/)
 * [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-28, 19:27:49](https://lobste.rs/s/d5b8ke/yensid_proxy_for_better_nix_remote_builds) - [yensid: A proxy for better Nix remote builds](https://github.com/garnix-io/yensid)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
@@ -8,6 +8,7 @@
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-28, 17:01:41](https://lobste.rs/s/ks4lkm/how_did_windows_95_user_interface_code_get) - [How did the Windows 95 user interface code get brought to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
+* [2025-10-28, 16:53:17](https://lobste.rs/s/t4ojqv/present_potential_future_progressive) - [The present and potential future of progressive image rendering](https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/)
 * [2025-10-28, 15:32:24](https://lobste.rs/s/nxohby/invisicaps_by_example) - [InvisiCaps By Example](https://fil-c.org/invisicaps_by_example)
 * [2025-10-28, 15:06:49](https://lobste.rs/s/swrvge/frozen_string_literals_past_present) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
@@ -18,7 +19,6 @@
 * [2025-10-28, 10:12:16](https://lobste.rs/s/2v0bbs/stackful_coroutine_made_fast) - [Stackful Coroutine Made Fast](https://photonlibos.github.io/blog/stackful-coroutine-made-fast)
 * [2025-10-28, 07:20:20](https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup) - [The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS](https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/)
 * [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
-* [2025-10-28, 00:29:07](https://lobste.rs/s/tirkfe/handwriting_programs_j_2017) - [Handwriting Programs in J (2017)](https://www.hillelwayne.com/handwriting-j/)
 * [2025-10-28, 00:27:34](https://lobste.rs/s/gti2pe/more_than_dns_14_hour_aws_us_east_1_outage) - [More Than DNS: The 14 hour AWS us-east-1 outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
 * [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
