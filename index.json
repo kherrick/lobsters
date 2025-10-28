@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-10-28, 17:34:27",
+      "https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation"
+    ],
+    [
+      "Fil-C: A memory-safe C implementation",
+      "https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 17:11:51",
       "https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode"
     ],
@@ -227,16 +237,6 @@
     [
       "The PSF has withdrawn a $1.5 million proposal to US government grant program",
       "https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 16:05:46",
-      "https://lobste.rs/s/v2xwx7/impossible_optimization"
-    ],
-    [
-      "The Impossible Optimization, and the Metaprogramming To Achieve It",
-      "https://verdagon.dev/blog/impossible-optimization"
     ]
   ],
   [
