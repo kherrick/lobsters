@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-28, 20:22:44",
+      "https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for"
+    ],
+    [
+      "New graph layout algorithm for SpiderMonkey’s SSA compiler",
+      "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 19:27:49",
       "https://lobste.rs/s/d5b8ke/yensid_proxy_for_better_nix_remote_builds"
     ],
@@ -107,16 +117,6 @@
     [
       "Tailscale Services: Define resources on your tailnet, with granular controls",
       "https://tailscale.com/blog/services-beta"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 13:19:16",
-      "https://lobste.rs/s/rzmp5p/firefox_security_privacy_newsletter"
-    ],
-    [
-      "Firefox Security & Privacy Newsletter 2025 Q3",
-      "https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html"
     ]
   ],
   [
