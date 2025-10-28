@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-10-28, 21:06:19",
-      "https://lobste.rs/s/fhkgvy/understanding_docker_internals"
+      "2025-10-28, 20:46:01",
+      "https://lobste.rs/s/rbi212/monte_carlo_modeling_python_with"
     ],
     [
-      "Understanding Docker Internals: Building a Container Runtime in Python",
-      "https://muhammadraza.me/2024/building-container-runtime-python/"
+      "Monte Carlo modeling in Python with probabilit",
+      "https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 16:53:17",
+      "https://lobste.rs/s/t4ojqv/present_potential_future_progressive"
+    ],
+    [
+      "The present and potential future of progressive image rendering",
+      "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Quantifying pass-by-value overhead",
       "https://owen.cafe/posts/struct-sizes/"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 00:29:07",
-      "https://lobste.rs/s/tirkfe/handwriting_programs_j_2017"
-    ],
-    [
-      "Handwriting Programs in J (2017)",
-      "https://www.hillelwayne.com/handwriting-j/"
     ]
   ],
   [
