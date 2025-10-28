@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-28, 17:43:14](https://lobste.rs/s/s9d2n4/indexing_coffee_with_notion) - [Indexing coffee with Notion](https://xvw.lol/en/articles/notion-coffee.html)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-28, 17:01:41](https://lobste.rs/s/ks4lkm/how_did_windows_95_user_interface_code_get) - [How did the Windows 95 user interface code get brought to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
 * [2025-10-28, 16:53:17](https://lobste.rs/s/t4ojqv/present_potential_future_progressive) - [The present and potential future of progressive image rendering](https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/)
@@ -17,7 +18,6 @@
 * [2025-10-28, 00:29:07](https://lobste.rs/s/tirkfe/handwriting_programs_j_2017) - [Handwriting Programs in J (2017)](https://www.hillelwayne.com/handwriting-j/)
 * [2025-10-28, 00:27:34](https://lobste.rs/s/gti2pe/more_than_dns_14_hour_aws_us_east_1_outage) - [More Than DNS: The 14 hour AWS us-east-1 outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
-* [2025-10-27, 20:56:07](https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
 * [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
 * [2025-10-27, 17:24:20](https://lobste.rs/s/8k34h8/it_s_not_always_dns) - [It's NOT always DNS](https://notes.pault.ag/its-not-always-dns/)
 * [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
