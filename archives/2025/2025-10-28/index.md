@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 15:32:24](https://lobste.rs/s/nxohby/invisicaps_by_example) - [InvisiCaps By Example](https://fil-c.org/invisicaps_by_example)
 * [2025-10-28, 15:06:49](https://lobste.rs/s/swrvge/frozen_string_literals_past_present) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:43:05](https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on) - [Tailscale Services: Define resources on your tailnet, with granular controls](https://tailscale.com/blog/services-beta)
