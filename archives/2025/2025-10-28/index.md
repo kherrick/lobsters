@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:43:05](https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on) - [Tailscale Services: Define resources on your tailnet, with granular controls](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 13:42:42](https://lobste.rs/s/hhhknu/largest_study_its_kind_shows_ai) - [Largest study of its kind shows AI assistants misrepresent news content 45% of the time – regardless of language or territory](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
 * [2025-10-28, 13:19:16](https://lobste.rs/s/rzmp5p/firefox_security_privacy_newsletter) - [Firefox Security & Privacy Newsletter 2025 Q3](https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html)

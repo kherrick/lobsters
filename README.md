@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:43:05](https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on) - [Tailscale Services: Define resources on your tailnet, with granular controls](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 13:42:42](https://lobste.rs/s/hhhknu/largest_study_its_kind_shows_ai) - [Largest study of its kind shows AI assistants misrepresent news content 45% of the time – regardless of language or territory](https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content)
 * [2025-10-28, 13:19:16](https://lobste.rs/s/rzmp5p/firefox_security_privacy_newsletter) - [Firefox Security & Privacy Newsletter 2025 Q3](https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html)
 * [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 13:02:44](https://lobste.rs/s/2r4fgl/minicoro_single_header_stackful_cross) - [minicoro: Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)
-* [2025-10-28, 12:04:56](https://lobste.rs/s/htbxpr/modern_networking_firefox_with_max_inden) - [Modern networking in Firefox with Max Inden](https://netstack.fm/#episode-11)
 * [2025-10-28, 10:12:16](https://lobste.rs/s/2v0bbs/stackful_coroutine_made_fast) - [Stackful Coroutine Made Fast](https://photonlibos.github.io/blog/stackful-coroutine-made-fast)
 * [2025-10-28, 07:20:20](https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup) - [The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS](https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/)
 * [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
