@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-28, 17:43:14](https://lobste.rs/s/s9d2n4/indexing_coffee_with_notion) - [Indexing coffee with Notion](https://xvw.lol/en/articles/notion-coffee.html)
+* [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-28, 17:01:41](https://lobste.rs/s/ks4lkm/how_did_windows_95_user_interface_code_get) - [How did the Windows 95 user interface code get brought to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
 * [2025-10-28, 16:53:17](https://lobste.rs/s/t4ojqv/present_potential_future_progressive) - [The present and potential future of progressive image rendering](https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/)
@@ -23,7 +24,6 @@
 * [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
 * [2025-10-27, 16:39:31](https://lobste.rs/s/xmkhec/raconn_ssh_multi_hostname) - [Raconn - Ssh multi hostname](https://blog.izissise.net/posts/raconn/)
 * [2025-10-27, 16:38:57](https://lobste.rs/s/9l9wvp/psf_has_withdrawn_1_5_million_proposal_us) - [The PSF has withdrawn a $1.5 million proposal to US government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
-* [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 
 ## [Archives](archives/index.md)
