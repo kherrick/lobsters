@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:43:14](https://lobste.rs/s/s9d2n4/indexing_coffee_with_notion) - [Indexing coffee with Notion](https://xvw.lol/en/articles/notion-coffee.html)
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
