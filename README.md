@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-28, 19:27:49](https://lobste.rs/s/d5b8ke/yensid_proxy_for_better_nix_remote_builds) - [yensid: A proxy for better Nix remote builds](https://github.com/garnix-io/yensid)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:43:14](https://lobste.rs/s/s9d2n4/indexing_coffee_with_notion) - [Indexing coffee with Notion](https://xvw.lol/en/articles/notion-coffee.html)
@@ -11,7 +12,6 @@
 * [2025-10-28, 15:06:49](https://lobste.rs/s/swrvge/frozen_string_literals_past_present) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:43:05](https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on) - [Tailscale Services: Define resources on your tailnet, with granular controls](https://tailscale.com/blog/services-beta)
-* [2025-10-28, 13:19:16](https://lobste.rs/s/rzmp5p/firefox_security_privacy_newsletter) - [Firefox Security & Privacy Newsletter 2025 Q3](https://attackanddefense.dev/2025/10/28/firefox-security-privacy-newsletter-2025-q3.html)
 * [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 13:02:44](https://lobste.rs/s/2r4fgl/minicoro_single_header_stackful_cross) - [minicoro: Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)
 * [2025-10-28, 11:46:11](https://lobste.rs/s/hqn9se/iroh_blobs) - [iroh-blobs](https://www.iroh.computer/blog/iroh-blobs-0-95-new-features)
