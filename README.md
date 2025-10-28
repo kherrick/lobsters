@@ -9,7 +9,7 @@
 * [2025-10-28, 10:12:16](https://lobste.rs/s/2v0bbs/stackful_coroutine_made_fast) - [Stackful Coroutine Made Fast](https://photonlibos.github.io/blog/stackful-coroutine-made-fast)
 * [2025-10-28, 07:20:20](https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup) - [The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS](https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/)
 * [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
-* [2025-10-28, 00:29:07](https://lobste.rs/s/tirkfe/handwriting_programs_j) - [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/)
+* [2025-10-28, 00:29:07](https://lobste.rs/s/tirkfe/handwriting_programs_j_2017) - [Handwriting Programs in J (2017)](https://www.hillelwayne.com/handwriting-j/)
 * [2025-10-28, 00:27:34](https://lobste.rs/s/gti2pe/more_than_dns_14_hour_aws_us_east_1_outage) - [More Than DNS: The 14 hour AWS us-east-1 outage](https://thundergolfer.com/blog/aws-us-east-1-outage-oct20)
 * [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
 * [2025-10-27, 20:56:07](https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction) - [Easy RISC-V: An interactive introduction to RISC-V assembly programming](https://dramforever.github.io/easyriscv/)
