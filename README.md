@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-28, 07:20:20](https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup) - [The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS](https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/)
 * [2025-10-28, 05:04:15](https://lobste.rs/s/4wco81/slicing_dicing_through_complexity_with) - [Slicing and Dicing Through Complexity with Hanami](https://www.youtube.com/watch?v=5-Ajpoq-5eE)
 * [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
 * [2025-10-28, 00:29:07](https://lobste.rs/s/tirkfe/handwriting_programs_j) - [Handwriting Programs in J](https://www.hillelwayne.com/handwriting-j/)
@@ -22,7 +23,6 @@
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
 * [2025-10-27, 00:20:34](https://lobste.rs/s/ujuul6/using_homebrew_distribute_early_access) - [Using Homebrew to Distribute Early Access Binaries from Private Github Repositories](https://lgug2z.com/articles/using-homebrew-to-distribute-early-access-binaries-from-private-github-repositories/)
 * [2025-10-26, 19:20:43](https://lobste.rs/s/r38zli/when_perfect_code_fails) - [When 'perfect' code fails](https://marma.dev/articles/2025/when-perfect-code-fails)
-* [2025-10-26, 15:56:19](https://lobste.rs/s/vt2gjb/encryption_using_ssh_keys_with_age_linux) - [Encryption using SSH Keys with age in Linux](https://ittavern.com/encryption-using-ssh-keys-with-age-in-linux/)
 * [2025-10-26, 15:01:37](https://lobste.rs/s/rvsica/you_should_feed_bots) - [You should feed the bots](https://maurycyz.com/misc/the_cost_of_trash/)
 * [2025-10-26, 12:59:00](https://lobste.rs/s/9na276/you_already_have_git_server) - [You already have a git server](https://maurycyz.com/misc/easy_git/)
 
