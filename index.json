@@ -2,10 +2,10 @@
   [
     [
       "2025-10-28, 00:51:35",
-      "https://lobste.rs/s/mfxxce/on_pass_by_value_overhead"
+      "https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead"
     ],
     [
-      "On pass-by-value overhead",
+      "Quantifying pass-by-value overhead",
       "https://owen.cafe/posts/struct-sizes/"
     ]
   ],
