@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-28, 17:43:14",
+      "https://lobste.rs/s/s9d2n4/indexing_coffee_with_notion"
+    ],
+    [
+      "Indexing coffee with Notion",
+      "https://xvw.lol/en/articles/notion-coffee.html"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 17:11:51",
       "https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode"
     ],
@@ -167,16 +177,6 @@
     [
       "Recent Rust Changes",
       "https://www.ncameron.org/blog/recent-rust-changes/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 20:56:07",
-      "https://lobste.rs/s/ezbkgj/easy_risc_v_interactive_introduction"
-    ],
-    [
-      "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
-      "https://dramforever.github.io/easyriscv/"
     ]
   ],
   [
