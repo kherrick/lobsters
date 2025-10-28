@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-28, 00:51:35",
+      "https://lobste.rs/s/mfxxce/on_pass_by_value_overhead"
+    ],
+    [
+      "On pass-by-value overhead",
+      "https://owen.cafe/posts/struct-sizes/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 00:29:07",
+      "https://lobste.rs/s/tirkfe/handwriting_programs_j"
+    ],
+    [
+      "Handwriting Programs in J",
+      "https://www.hillelwayne.com/handwriting-j/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 00:27:34",
+      "https://lobste.rs/s/gti2pe/more_than_dns_14_hour_aws_us_east_1_outage"
+    ],
+    [
+      "More Than DNS: The 14 hour AWS us-east-1 outage",
+      "https://thundergolfer.com/blog/aws-us-east-1-outage-oct20"
+    ]
+  ],
+  [
+    [
       "2025-10-27, 21:11:32",
       "https://lobste.rs/s/wcjiql/recent_rust_changes"
     ],
@@ -17,16 +47,6 @@
     [
       "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
       "https://dramforever.github.io/easyriscv/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 20:53:31",
-      "https://lobste.rs/s/xxp1tx/why_ip_address_truncation_fails_at"
-    ],
-    [
-      "Why IP address truncation fails at anonymization",
-      "https://00f.net/2025/10/27/ip-anonymization/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-27, 15:55:11",
-      "https://lobste.rs/s/dorxgc/making_software_update_voyager_1"
-    ],
-    [
-      "Making a software update to Voyager 1",
-      "https://www.youtube.com/watch?v=p0K7u3B_8rY"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 13:35:36",
       "https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go"
     ],
@@ -187,16 +197,6 @@
     [
       "The Apple Compact Unwinding Format: Documented and Explained (2021)",
       "https://faultlore.com/blah/compact-unwinding/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 02:39:37",
-      "https://lobste.rs/s/xv5amc/token_oriented_object_notation_json_for"
-    ],
-    [
-      "Token-Oriented Object Notation – JSON for LLMs at half the token cost",
-      "https://github.com/johannschopplich/toon"
     ]
   ],
   [
