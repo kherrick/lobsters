@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-28, 16:53:17](https://lobste.rs/s/t4ojqv/present_potential_future_progressive) - [The present and potential future of progressive image rendering](https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/)
 * [2025-10-28, 15:32:24](https://lobste.rs/s/nxohby/invisicaps_by_example) - [InvisiCaps By Example](https://fil-c.org/invisicaps_by_example)
 * [2025-10-28, 15:06:49](https://lobste.rs/s/swrvge/frozen_string_literals_past_present) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
@@ -21,7 +22,6 @@
 * [2025-10-27, 16:52:59](https://lobste.rs/s/kdqpcq/why_busy_beaver_hunters_fear_antihydra) - [Why Busy Beaver Hunters Fear the Antihydra](https://benbrubaker.com/why-busy-beaver-hunters-fear-the-antihydra/)
 * [2025-10-27, 16:39:31](https://lobste.rs/s/xmkhec/raconn_ssh_multi_hostname) - [Raconn - Ssh multi hostname](https://blog.izissise.net/posts/raconn/)
 * [2025-10-27, 16:38:57](https://lobste.rs/s/9l9wvp/psf_has_withdrawn_1_5_million_proposal_us) - [The PSF has withdrawn a $1.5 million proposal to US government grant program](https://pyfound.blogspot.com/2025/10/NSF-funding-statement.html)
-* [2025-10-27, 16:23:37](https://lobste.rs/s/fmbibl/json_query_small_flexible_expandable) - [JSON Query - a small, flexible, and expandable JSON query language](https://jsonquerylang.org/)
 * [2025-10-27, 16:05:46](https://lobste.rs/s/v2xwx7/impossible_optimization) - [The Impossible Optimization, and the Metaprogramming To Achieve It](https://verdagon.dev/blog/impossible-optimization)
 * [2025-10-27, 13:35:36](https://lobste.rs/s/5riaf4/cpu_cache_friendly_data_structures_go) - [CPU Cache-Friendly Data Structures in Go](https://skoredin.pro/blog/golang/cpu-cache-friendly-go)
 * [2025-10-27, 04:31:18](https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language) - [How I turned Zig into my favorite language to write network programs in](https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html)
