@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-28, 17:11:51",
+      "https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode"
+    ],
+    [
+      "Linux VM without VM software - User Mode Linux",
+      "https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 17:01:41",
+      "https://lobste.rs/s/ks4lkm/how_did_windows_95_user_interface_code_get"
+    ],
+    [
+      "How did the Windows 95 user interface code get brought to the Windows NT code base?",
+      "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 16:53:17",
       "https://lobste.rs/s/t4ojqv/present_potential_future_progressive"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-10-27, 18:38:07",
-      "https://lobste.rs/s/pjoeje/printing_at_fedex"
-    ],
-    [
-      "Printing at FedEx",
-      "https://v7.robweychert.com/blog/2025/10/printing-at-fedex/"
-    ]
-  ],
-  [
-    [
       "2025-10-27, 18:14:15",
       "https://lobste.rs/s/meya61/ai_sucks_joy_out_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "CPU Cache-Friendly Data Structures in Go",
       "https://skoredin.pro/blog/golang/cpu-cache-friendly-go"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 04:31:18",
-      "https://lobste.rs/s/tlflmb/how_i_turned_zig_into_my_favorite_language"
-    ],
-    [
-      "How I turned Zig into my favorite language to write network programs in",
-      "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"
     ]
   ]
 ]
