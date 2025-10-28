@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-28, 10:12:16",
+      "https://lobste.rs/s/2v0bbs/stackful_coroutine_made_fast"
+    ],
+    [
+      "Stackful Coroutine Made Fast",
+      "https://photonlibos.github.io/blog/stackful-coroutine-made-fast"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 07:20:20",
       "https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup"
     ],
@@ -207,16 +217,6 @@
     [
       "How I turned Zig into my favorite language to write network programs in",
       "https://lalinsky.com/2025/10/26/zio-async-io-for-zig.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 00:20:34",
-      "https://lobste.rs/s/ujuul6/using_homebrew_distribute_early_access"
-    ],
-    [
-      "Using Homebrew to Distribute Early Access Binaries from Private Github Repositories",
-      "https://lgug2z.com/articles/using-homebrew-to-distribute-early-access-binaries-from-private-github-repositories/"
     ]
   ],
   [
