@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-28, 13:43:05",
+      "https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on"
+    ],
+    [
+      "Tailscale Services: Define resources on your tailnet, with granular controls",
+      "https://tailscale.com/blog/services-beta"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 13:42:42",
+      "https://lobste.rs/s/hhhknu/largest_study_its_kind_shows_ai"
+    ],
+    [
+      "Largest study of its kind shows AI assistants misrepresent news content 45% of the time – regardless of language or territory",
+      "https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 13:19:16",
       "https://lobste.rs/s/rzmp5p/firefox_security_privacy_newsletter"
     ],
@@ -37,16 +57,6 @@
     [
       "Modern networking in Firefox with Max Inden",
       "https://netstack.fm/#episode-11"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 11:46:11",
-      "https://lobste.rs/s/hqn9se/iroh_blobs"
-    ],
-    [
-      "iroh-blobs",
-      "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Easy RISC-V: An interactive introduction to RISC-V assembly programming",
       "https://dramforever.github.io/easyriscv/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 20:37:02",
-      "https://lobste.rs/s/doiett/gleescript_bundle_your_gleam_on_erlang"
-    ],
-    [
-      "gleescript:  Bundle your Gleam-on-Erlang project into an escript, a single executable file",
-      "https://github.com/lpil/gleescript"
     ]
   ],
   [
