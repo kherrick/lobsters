@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-29, 09:30:41",
+      "https://lobste.rs/s/3r1zvn/tee_fail_breaking_trusted_execution"
+    ],
+    [
+      "TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition",
+      "https://tee.fail/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 07:19:57",
       "https://lobste.rs/s/ugyv1s/vindication_bubble_sort"
     ],
@@ -197,16 +207,6 @@
     [
       "Stackful Coroutine Made Fast",
       "https://photonlibos.github.io/blog/stackful-coroutine-made-fast"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 07:20:20",
-      "https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup"
-    ],
-    [
-      "The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS",
-      "https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/"
     ]
   ],
   [
