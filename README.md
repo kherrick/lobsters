@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
+* [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:45:57](https://lobste.rs/s/zylfw8/dithering_part_1) - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 14:08:38](https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse) - [What Context Can Bring to Terminal Mouse Clicks](https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html)
@@ -17,7 +18,6 @@
 * [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
 * [2025-10-29, 06:06:36](https://lobste.rs/s/jiazgx/i_built_actually_faster_notion_rust) - [I built an actually faster Notion in Rust](https://imedadel.com/outcrop/)
 * [2025-10-29, 02:51:10](https://lobste.rs/s/4knb8i/writing_c_compiler_zig) - [Writing a C Compiler, in Zig](https://asibahi.github.io/thoughts/c-compiler-1-zig/)
-* [2025-10-28, 23:39:15](https://lobste.rs/s/vocnou/database_backups_dump_files_restic) - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
 * [2025-10-28, 23:08:26](https://lobste.rs/s/i4znrr/filepizza_peer_peer_file_transfers_your) - [filepizza: Peer-to-peer file transfers in your browser](https://github.com/kern/filepizza)
 * [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
