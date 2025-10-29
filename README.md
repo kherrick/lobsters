@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 14:08:38](https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse) - [What Context Can Bring to Terminal Mouse Clicks](https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html)
+* [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 13:24:59](https://lobste.rs/s/obtnuq/disasters_i_ve_seen_microservices_world) - [Disasters I've seen in a microservices world, part II](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf)
 * [2025-10-29, 13:16:31](https://lobste.rs/s/ffrl5l/from_vs_code_helix) - [From VS Code to Helix](https://ergaster.org/posts/2025/10/29-vscode-to-helix/)
 * [2025-10-29, 12:34:32](https://lobste.rs/s/3lsedd/zig_s_new_async_i_o) - [Zig's New Async I/O](https://www.youtube.com/watch?v=mdOxIc0HM04)
@@ -13,7 +15,6 @@
 * [2025-10-29, 02:51:10](https://lobste.rs/s/4knb8i/writing_c_compiler_zig) - [Writing a C Compiler, in Zig](https://asibahi.github.io/thoughts/c-compiler-1-zig/)
 * [2025-10-28, 23:39:15](https://lobste.rs/s/vocnou/database_backups_dump_files_restic) - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
 * [2025-10-28, 23:08:26](https://lobste.rs/s/i4znrr/filepizza_peer_peer_file_transfers_your) - [filepizza: Peer-to-peer file transfers in your browser](https://github.com/kern/filepizza)
-* [2025-10-28, 21:06:19](https://lobste.rs/s/fhkgvy/understanding_docker_internals) - [Understanding Docker Internals: Building a Container Runtime in Python](https://muhammadraza.me/2024/building-container-runtime-python/)
 * [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-28, 19:27:49](https://lobste.rs/s/d5b8ke/yensid_proxy_for_better_nix_remote_builds) - [yensid: A proxy for better Nix remote builds](https://github.com/garnix-io/yensid)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
@@ -24,7 +25,6 @@
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:43:05](https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on) - [Tailscale Services: Define resources on your tailnet, with granular controls](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
-* [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
 
 ## [Archives](archives/index.md)
 
