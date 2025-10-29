@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 14:08:38](https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse) - [What Context Can Bring to Terminal Mouse Clicks](https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html)
 * [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 13:24:59](https://lobste.rs/s/obtnuq/disasters_i_ve_seen_microservices_world) - [Disasters I've seen in a microservices world, part II](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf)
@@ -22,7 +23,6 @@
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-28, 17:01:41](https://lobste.rs/s/ks4lkm/how_did_windows_95_user_interface_code_get) - [How did the Windows 95 user interface code get brought to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
-* [2025-10-28, 15:06:49](https://lobste.rs/s/swrvge/frozen_string_literals_past_present) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 

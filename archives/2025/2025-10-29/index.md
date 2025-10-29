@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 14:08:38](https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse) - [What Context Can Bring to Terminal Mouse Clicks](https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html)
 * [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
 * [2025-10-29, 13:24:59](https://lobste.rs/s/obtnuq/disasters_i_ve_seen_microservices_world) - [Disasters I've seen in a microservices world, part II](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf)
