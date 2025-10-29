@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 13:24:59](https://lobste.rs/s/obtnuq/disasters_i_ve_seen_microservices_world) - [Disasters I've seen in a microservices world, part II](https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf)
 * [2025-10-29, 12:34:32](https://lobste.rs/s/3lsedd/zig_s_new_async_i_o) - [Zig's New Async I/O](https://www.youtube.com/watch?v=mdOxIc0HM04)
+* [2025-10-29, 12:06:52](https://lobste.rs/s/ku4lrn/aws_bare_metal_two_years_later_answering) - [AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
 * [2025-10-29, 10:57:46](https://lobste.rs/s/ej7bes/fdd_diskettes) - [FDD - Diskettes](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-29, 10:42:42](https://lobste.rs/s/9pefoz/first_look_inside_derby_factory_building) - [First look inside the Derby factory building the Elizabeth line’s new trains](https://www.ianvisits.co.uk/articles/first-look-inside-the-derby-factory-building-the-elizabeth-lines-new-trains-84997/)
 * [2025-10-29, 09:30:41](https://lobste.rs/s/3r1zvn/tee_fail_breaking_trusted_execution) - [TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition](https://tee.fail/)
@@ -18,13 +20,11 @@
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
 * [2025-10-28, 17:01:41](https://lobste.rs/s/ks4lkm/how_did_windows_95_user_interface_code_get) - [How did the Windows 95 user interface code get brought to the Windows NT code base?](https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733)
-* [2025-10-28, 15:32:24](https://lobste.rs/s/nxohby/invisicaps_by_example) - [InvisiCaps By Example](https://fil-c.org/invisicaps_by_example)
 * [2025-10-28, 15:06:49](https://lobste.rs/s/swrvge/frozen_string_literals_past_present) - [Frozen String Literals: Past, Present, Future?](https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html)
 * [2025-10-28, 14:31:54](https://lobste.rs/s/zea9uz/brief_history_random_numbers) - [A brief history of random numbers](https://crates.io/crates/oorandom#a-brief-history-of-random-numbers)
 * [2025-10-28, 13:43:05](https://lobste.rs/s/hw49fx/tailscale_services_define_resources_on) - [Tailscale Services: Define resources on your tailnet, with granular controls](https://tailscale.com/blog/services-beta)
 * [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
-* [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
 
 ## [Archives](archives/index.md)
 
