@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 09:30:41](https://lobste.rs/s/3r1zvn/tee_fail_breaking_trusted_execution) - [TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition](https://tee.fail/)
 * [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
 * [2025-10-29, 06:06:36](https://lobste.rs/s/jiazgx/i_built_actually_faster_notion_rust) - [I built an actually faster Notion in Rust](https://imedadel.com/outcrop/)
 * [2025-10-29, 02:51:10](https://lobste.rs/s/4knb8i/writing_c_compiler_zig) - [Writing a C Compiler, in Zig](https://asibahi.github.io/thoughts/c-compiler-1-zig/)
@@ -20,7 +21,6 @@
 * [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 * [2025-10-28, 13:02:44](https://lobste.rs/s/2r4fgl/minicoro_single_header_stackful_cross) - [minicoro: Single header stackful cross-platform coroutine library in pure C](https://github.com/edubart/minicoro)
 * [2025-10-28, 10:12:16](https://lobste.rs/s/2v0bbs/stackful_coroutine_made_fast) - [Stackful Coroutine Made Fast](https://photonlibos.github.io/blog/stackful-coroutine-made-fast)
-* [2025-10-28, 07:20:20](https://lobste.rs/s/i6bmak/evolving_landscape_yocto_project_setup) - [The Evolving Landscape of Yocto Project Setup: bitbake-setup vs. KAS](https://sigma-star.at/blog/2025/10/the-evolving-landscape-of-yocto-project-setup-bitbake-setup-vs.-kas/)
 * [2025-10-28, 00:51:35](https://lobste.rs/s/mfxxce/quantifying_pass_by_value_overhead) - [Quantifying pass-by-value overhead](https://owen.cafe/posts/struct-sizes/)
 * [2025-10-27, 21:11:32](https://lobste.rs/s/wcjiql/recent_rust_changes) - [Recent Rust Changes](https://www.ncameron.org/blog/recent-rust-changes/)
 * [2025-10-27, 18:14:15](https://lobste.rs/s/meya61/ai_sucks_joy_out_programming) - [‘AI’ Sucks the Joy Out of Programming](https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/)
