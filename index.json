@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-10-28, 23:39:15",
+      "https://lobste.rs/s/vocnou/database_backups_dump_files_restic"
+    ],
+    [
+      "Database backups, dump files and restic",
+      "https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 23:08:26",
+      "https://lobste.rs/s/i4znrr/filepizza_peer_peer_file_transfers_your"
+    ],
+    [
+      "filepizza: Peer-to-peer file transfers in your browser",
+      "https://github.com/kern/filepizza"
+    ]
+  ],
+  [
+    [
+      "2025-10-28, 21:06:19",
+      "https://lobste.rs/s/fhkgvy/understanding_docker_internals"
+    ],
+    [
+      "Understanding Docker Internals: Building a Container Runtime in Python",
+      "https://muhammadraza.me/2024/building-container-runtime-python/"
+    ]
+  ],
+  [
+    [
       "2025-10-28, 20:46:01",
       "https://lobste.rs/s/rbi212/monte_carlo_modeling_python_with"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2025-10-28, 16:53:17",
-      "https://lobste.rs/s/t4ojqv/present_potential_future_progressive"
-    ],
-    [
-      "The present and potential future of progressive image rendering",
-      "https://jakearchibald.com/2025/present-and-future-of-progressive-image-rendering/"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 15:32:24",
       "https://lobste.rs/s/nxohby/invisicaps_by_example"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-10-28, 11:46:11",
-      "https://lobste.rs/s/hqn9se/iroh_blobs"
-    ],
-    [
-      "iroh-blobs",
-      "https://www.iroh.computer/blog/iroh-blobs-0-95-new-features"
-    ]
-  ],
-  [
-    [
       "2025-10-28, 10:12:16",
       "https://lobste.rs/s/2v0bbs/stackful_coroutine_made_fast"
     ],
@@ -217,16 +227,6 @@
     [
       "‘AI’ Sucks the Joy Out of Programming",
       "https://alexn.org/blog/2025/10/27/ai-sucks-the-joy-out-of-programming/"
-    ]
-  ],
-  [
-    [
-      "2025-10-27, 17:24:20",
-      "https://lobste.rs/s/8k34h8/it_s_not_always_dns"
-    ],
-    [
-      "It's NOT always DNS",
-      "https://notes.pault.ag/its-not-always-dns/"
     ]
   ],
   [
