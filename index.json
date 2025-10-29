@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-29, 18:37:43",
+      "https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge"
+    ],
+    [
+      "CRDT Documents in Redis with Automerge",
+      "https://github.com/michelp/redis-automerge"
+    ]
+  ],
+  [
+    [
+      "2025-10-29, 15:45:57",
+      "https://lobste.rs/s/zylfw8/dithering_part_1"
+    ],
+    [
+      "Dithering - Part 1",
+      "https://visualrambling.space/dithering-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 15:13:59",
       "https://lobste.rs/s/vd7dgj/normalize_identifying_corporate"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-10-29, 10:57:46",
-      "https://lobste.rs/s/ej7bes/fdd_diskettes"
-    ],
-    [
-      "FDD - Diskettes",
-      "https://retrocmp.de/fdd/diskette/diskette.htm"
-    ]
-  ],
-  [
-    [
       "2025-10-29, 10:42:42",
       "https://lobste.rs/s/9pefoz/first_look_inside_derby_factory_building"
     ],
@@ -187,16 +197,6 @@
     [
       "New graph layout algorithm for SpiderMonkey’s SSA compiler",
       "https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 19:27:49",
-      "https://lobste.rs/s/d5b8ke/yensid_proxy_for_better_nix_remote_builds"
-    ],
-    [
-      "yensid: A proxy for better Nix remote builds",
-      "https://github.com/garnix-io/yensid"
     ]
   ],
   [
