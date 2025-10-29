@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
+* [2025-10-29, 15:45:57](https://lobste.rs/s/zylfw8/dithering_part_1) - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 14:08:38](https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse) - [What Context Can Bring to Terminal Mouse Clicks](https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html)
 * [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
@@ -9,7 +11,6 @@
 * [2025-10-29, 12:34:32](https://lobste.rs/s/3lsedd/zig_s_new_async_i_o) - [Zig's New Async I/O](https://www.youtube.com/watch?v=mdOxIc0HM04)
 * [2025-10-29, 12:07:46](https://lobste.rs/s/fi8ezd/i_built_same_app_10_times_evaluating) - [I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance](https://www.lorenstew.art/blog/10-kanban-boards/)
 * [2025-10-29, 12:06:52](https://lobste.rs/s/ku4lrn/aws_bare_metal_two_years_later_answering) - [AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
-* [2025-10-29, 10:57:46](https://lobste.rs/s/ej7bes/fdd_diskettes) - [FDD - Diskettes](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-29, 10:42:42](https://lobste.rs/s/9pefoz/first_look_inside_derby_factory_building) - [First look inside the Derby factory building the Elizabeth line’s new trains](https://www.ianvisits.co.uk/articles/first-look-inside-the-derby-factory-building-the-elizabeth-lines-new-trains-84997/)
 * [2025-10-29, 09:30:41](https://lobste.rs/s/3r1zvn/tee_fail_breaking_trusted_execution) - [TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition](https://tee.fail/)
 * [2025-10-29, 09:28:14](https://lobste.rs/s/uumlav/springs_bounces_native_css) - [Springs and Bounces in Native CSS](https://www.joshwcomeau.com/animation/linear-timing-function/)
@@ -19,7 +20,6 @@
 * [2025-10-28, 23:39:15](https://lobste.rs/s/vocnou/database_backups_dump_files_restic) - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
 * [2025-10-28, 23:08:26](https://lobste.rs/s/i4znrr/filepizza_peer_peer_file_transfers_your) - [filepizza: Peer-to-peer file transfers in your browser](https://github.com/kern/filepizza)
 * [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
-* [2025-10-28, 19:27:49](https://lobste.rs/s/d5b8ke/yensid_proxy_for_better_nix_remote_builds) - [yensid: A proxy for better Nix remote builds](https://github.com/garnix-io/yensid)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)

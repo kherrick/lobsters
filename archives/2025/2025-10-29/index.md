@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
+* [2025-10-29, 15:45:57](https://lobste.rs/s/zylfw8/dithering_part_1) - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 14:08:38](https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse) - [What Context Can Bring to Terminal Mouse Clicks](https://tratt.net/laurie/blog/2025/what_context_can_bring_to_terminal_mouse_clicks.html)
 * [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
