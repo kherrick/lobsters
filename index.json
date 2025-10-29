@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-10-29, 10:57:46",
+      "https://lobste.rs/s/ej7bes/fdd_diskettes"
+    ],
+    [
+      "FDD - Diskettes",
+      "https://retrocmp.de/fdd/diskette/diskette.htm"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 10:42:42",
       "https://lobste.rs/s/9pefoz/first_look_inside_derby_factory_building"
     ],
@@ -227,16 +237,6 @@
     [
       "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 14:31:54",
-      "https://lobste.rs/s/zea9uz/brief_history_random_numbers"
-    ],
-    [
-      "A brief history of random numbers",
-      "https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"
     ]
   ],
   [
