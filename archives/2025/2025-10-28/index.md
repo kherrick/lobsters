@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-10-28](index.md)
 
+* [2025-10-28, 23:39:15](https://lobste.rs/s/vocnou/database_backups_dump_files_restic) - [Database backups, dump files and restic](https://strugglers.net/posts/2025/database-backups-dump-files-and-restic/)
+* [2025-10-28, 23:08:26](https://lobste.rs/s/i4znrr/filepizza_peer_peer_file_transfers_your) - [filepizza: Peer-to-peer file transfers in your browser](https://github.com/kern/filepizza)
 * [2025-10-28, 21:19:58](https://lobste.rs/s/0fjpsy/keenwrite_3_6_4) - [KeenWrite 3.6.4](https://keenwrite.com/)
 * [2025-10-28, 21:06:19](https://lobste.rs/s/fhkgvy/understanding_docker_internals) - [Understanding Docker Internals: Building a Container Runtime in Python | Muhammad](https://muhammadraza.me/2024/building-container-runtime-python/)
 * [2025-10-28, 20:46:01](https://lobste.rs/s/rbi212/monte_carlo_modeling_python_with) - [Monte Carlo modeling in Python with probabilit](https://tommyodland.com/articles/2025/monte-carlo-modeling-in-python-with-probabilit/)
