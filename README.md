@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
+* [2025-10-29, 17:19:03](https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:45:57](https://lobste.rs/s/zylfw8/dithering_part_1) - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
@@ -12,7 +13,6 @@
 * [2025-10-29, 12:34:32](https://lobste.rs/s/3lsedd/zig_s_new_async_i_o) - [Zig's New Async I/O](https://www.youtube.com/watch?v=mdOxIc0HM04)
 * [2025-10-29, 12:07:46](https://lobste.rs/s/fi8ezd/i_built_same_app_10_times_evaluating) - [I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance](https://www.lorenstew.art/blog/10-kanban-boards/)
 * [2025-10-29, 12:06:52](https://lobste.rs/s/ku4lrn/aws_bare_metal_two_years_later_answering) - [AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
-* [2025-10-29, 10:57:46](https://lobste.rs/s/ej7bes/fdd_diskettes) - [FDD - Diskettes](https://retrocmp.de/fdd/diskette/diskette.htm)
 * [2025-10-29, 10:42:42](https://lobste.rs/s/9pefoz/first_look_inside_derby_factory_building) - [First look inside the Derby factory building the Elizabeth line’s new trains](https://www.ianvisits.co.uk/articles/first-look-inside-the-derby-factory-building-the-elizabeth-lines-new-trains-84997/)
 * [2025-10-29, 09:30:41](https://lobste.rs/s/3r1zvn/tee_fail_breaking_trusted_execution) - [TEE.fail: Breaking Trusted Execution Environments via DDR5 Memory Bus Interposition](https://tee.fail/)
 * [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
