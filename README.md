@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version_andrew) - [Zig's New Async I/O (Text Version) - Andrew Kelley](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
 * [2025-10-29, 17:19:03](https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
@@ -18,7 +19,6 @@
 * [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
 * [2025-10-29, 06:06:36](https://lobste.rs/s/jiazgx/i_built_actually_faster_notion_rust) - [I built an actually faster Notion in Rust](https://imedadel.com/outcrop/)
 * [2025-10-29, 02:51:10](https://lobste.rs/s/4knb8i/writing_c_compiler_zig) - [Writing a C Compiler, in Zig](https://asibahi.github.io/thoughts/c-compiler-1-zig/)
-* [2025-10-28, 23:08:26](https://lobste.rs/s/i4znrr/filepizza_peer_peer_file_transfers_your) - [filepizza: Peer-to-peer file transfers in your browser](https://github.com/kern/filepizza)
 * [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
