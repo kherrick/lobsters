@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-29, 20:53:00](https://lobste.rs/s/wq40br/claude_skills_anywhere_making_them_first) - [Claude Skills, anywhere: making them first-class in Codex CLI](https://www.robert-glaser.de/claude-skills-in-codex-cli/)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version_andrew) - [Zig's New Async I/O (Text Version) - Andrew Kelley](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
+* [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
 * [2025-10-29, 17:19:03](https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:45:57](https://lobste.rs/s/zylfw8/dithering_part_1) - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/)
