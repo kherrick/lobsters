@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-29, 15:13:59",
+      "https://lobste.rs/s/vd7dgj/normalize_identifying_corporate"
+    ],
+    [
+      "Normalize Identifying Corporate Devices in Your Software",
+      "https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/"
+    ]
+  ],
+  [
+    [
       "2025-10-29, 14:08:38",
       "https://lobste.rs/s/xczfam/what_context_can_bring_terminal_mouse"
     ],
@@ -217,16 +227,6 @@
     [
       "How did the Windows 95 user interface code get brought to the Windows NT code base?",
       "https://devblogs.microsoft.com/oldnewthing/20251028-00/?p=111733"
-    ]
-  ],
-  [
-    [
-      "2025-10-28, 15:06:49",
-      "https://lobste.rs/s/swrvge/frozen_string_literals_past_present"
-    ],
-    [
-      "Frozen String Literals: Past, Present, Future?",
-      "https://byroot.github.io/ruby/performance/2025/10/28/string-literals.html"
     ]
   ],
   [
