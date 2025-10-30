@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
+* [2025-10-30, 20:53:53](https://lobste.rs/s/r8jkz9/fix_your_fods) - [Fix your FODs](https://garnix.io/blog/fix-your-fods)
 * [2025-10-30, 19:02:41](https://lobste.rs/s/vebdjk/announcing_rust_1_91_0) - [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
 * [2025-10-30, 18:56:59](https://lobste.rs/s/b2tgba/introducing_aardvark_openai_s_agentic) - [Introducing Aardvark: OpenAI’s agentic security researcher](https://openai.com/index/introducing-aardvark/)
 * [2025-10-30, 17:25:27](https://lobste.rs/s/7ar36r/exploring_improving_thread_safety_numpy) - [Exploring & Improving the Thread Safety of NumPy's Test Suite](https://labs.quansight.org/blog/numpy-thread-safe-test-suite)
