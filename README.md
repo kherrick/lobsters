@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-10-30, 16:51:14](https://lobste.rs/s/gjsffk/rust_clippy_changelog_cat_contest_brief) - [The (rust) Clippy Changelog Cat Contest, a brief retrospective](https://blog.goose.love/posts/history-of-clippy-changelog-cat/)
+* [2025-10-30, 17:25:27](https://lobste.rs/s/7ar36r/exploring_improving_thread_safety_numpy) - [Exploring & Improving the Thread Safety of NumPy's Test Suite](https://labs.quansight.org/blog/numpy-thread-safe-test-suite)
 * [2025-10-30, 15:38:29](https://lobste.rs/s/4a1gx2/math_mode_problem_typst) - [The Math Mode Problem in Typst](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-30, 14:49:47](https://lobste.rs/s/u9o6mz/reliable_django_signals) - [Reliable Django Signals](https://hakibenita.com/django-reliable-signals)
 * [2025-10-30, 14:36:13](https://lobste.rs/s/qyucws/fevela_me_rss_reader_like_client_for_nostr) - [Fevela.me – A RSS reader like client for the Nostr social network](https://github.com/dtonon/fevela)
