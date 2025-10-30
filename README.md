@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-29, 23:30:32](https://lobste.rs/s/z6qhuj/traveling_salesman_game) - [Traveling Salesman Game](https://prolog.univie.ac.at/tspGame/game.html)
 * [2025-10-29, 22:32:28](https://lobste.rs/s/skxrc9/i_m_independently_verifying_go_s) - [I'm Independently Verifying Go's Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
+* [2025-10-29, 20:59:53](https://lobste.rs/s/3jf7it/green_tea_garbage_collector_go) - [The Green Tea Garbage Collector - The Go Programming Language](https://go.dev/blog/greenteagc)
+* [2025-10-29, 20:46:29](https://lobste.rs/s/sd6ska/adding_customizable_frame_contrast_kde) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig's New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 19:02:59](https://lobste.rs/s/q2ghg1/developing_web_server_with_c_fastcgi) - [Developing a web server with C and FastCGI](https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi)
 * [2025-10-29, 18:37:43](https://lobste.rs/s/mwcz77/crdt_documents_redis_with_automerge) - [CRDT Documents in Redis with Automerge](https://github.com/michelp/redis-automerge)
@@ -16,15 +19,12 @@
 * [2025-10-29, 12:34:32](https://lobste.rs/s/3lsedd/zig_s_new_async_i_o) - [Zig's New Async I/O](https://www.youtube.com/watch?v=mdOxIc0HM04)
 * [2025-10-29, 12:07:46](https://lobste.rs/s/fi8ezd/i_built_same_app_10_times_evaluating) - [I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance](https://www.lorenstew.art/blog/10-kanban-boards/)
 * [2025-10-29, 12:06:52](https://lobste.rs/s/ku4lrn/aws_bare_metal_two_years_later_answering) - [AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS](https://oneuptime.com/blog/post/2025-10-29-aws-to-bare-metal-two-years-later/view)
-* [2025-10-29, 10:42:42](https://lobste.rs/s/9pefoz/first_look_inside_derby_factory_building) - [First look inside the Derby factory building the Elizabeth line’s new trains](https://www.ianvisits.co.uk/articles/first-look-inside-the-derby-factory-building-the-elizabeth-lines-new-trains-84997/)
 * [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
 * [2025-10-29, 06:06:36](https://lobste.rs/s/jiazgx/i_built_actually_faster_notion_rust) - [I built an actually faster Notion in Rust](https://imedadel.com/outcrop/)
-* [2025-10-29, 02:51:10](https://lobste.rs/s/4knb8i/writing_c_compiler_zig) - [Writing a C Compiler, in Zig](https://asibahi.github.io/thoughts/c-compiler-1-zig/)
 * [2025-10-28, 20:22:44](https://lobste.rs/s/rhi0ud/new_graph_layout_algorithm_for) - [New graph layout algorithm for SpiderMonkey’s SSA compiler](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html)
 * [2025-10-28, 18:46:33](https://lobste.rs/s/ckm3vb/what_we_talk_about_when_we_talk_about) - [What We Talk About When We Talk About Sideloading](https://f-droid.org/2025/10/28/sideloading.html)
 * [2025-10-28, 17:34:27](https://lobste.rs/s/mg0aur/fil_c_memory_safe_c_implementation) - [Fil-C: A memory-safe C implementation](https://lwn.net/SubscriberLink/1042938/38d8dde9db211cab/)
 * [2025-10-28, 17:11:51](https://lobste.rs/s/skej43/linux_vm_without_vm_software_user_mode) - [Linux VM without VM software - User Mode Linux](https://popovicu.com/posts/linux-vm-without-vm-software-user-mode/)
-* [2025-10-28, 13:08:47](https://lobste.rs/s/fbqozh/your_vibe_coded_slop_pr_is_not_welcome) - [Your vibe coded slop PR is not welcome](https://samsaffron.com/archive/2025/10/27/your-vibe-coded-slop-pr-is-not-welcome)
 
 ## [Archives](archives/index.md)
 

@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-10-29](index.md)
 
+* [2025-10-29, 23:30:32](https://lobste.rs/s/z6qhuj/traveling_salesman_game) - [Traveling Salesman Game](https://prolog.univie.ac.at/tspGame/game.html)
 * [2025-10-29, 22:32:28](https://lobste.rs/s/skxrc9/i_m_independently_verifying_go_s) - [I'm Independently Verifying Go's Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
+* [2025-10-29, 20:59:53](https://lobste.rs/s/3jf7it/green_tea_garbage_collector_go) - [The Green Tea Garbage Collector - The Go Programming Language](https://go.dev/blog/greenteagc)
 * [2025-10-29, 20:53:00](https://lobste.rs/s/wq40br/claude_skills_anywhere_making_them_first) - [Claude Skills, anywhere: making them first-class in Codex CLI](https://www.robert-glaser.de/claude-skills-in-codex-cli/)
+* [2025-10-29, 20:46:29](https://lobste.rs/s/sd6ska/adding_customizable_frame_contrast_kde) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version_andrew) - [Zig's New Async I/O (Text Version) - Andrew Kelley](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig's New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 19:02:59](https://lobste.rs/s/q2ghg1/developing_web_server_with_c_fastcgi) - [Developing a web server with C and FastCGI](https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi)
