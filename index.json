@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-30, 20:53:53",
+      "https://lobste.rs/s/r8jkz9/fix_your_fods"
+    ],
+    [
+      "Fix your FODs",
+      "https://garnix.io/blog/fix-your-fods"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 19:02:41",
       "https://lobste.rs/s/vebdjk/announcing_rust_1_91_0"
     ],
@@ -217,16 +227,6 @@
     [
       "Kafka is Fast - I'll use Postgres",
       "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 12:34:32",
-      "https://lobste.rs/s/3lsedd/zig_s_new_async_i_o"
-    ],
-    [
-      "Zig's New Async I/O",
-      "https://www.youtube.com/watch?v=mdOxIc0HM04"
     ]
   ],
   [
