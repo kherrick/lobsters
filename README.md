@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-30, 14:36:13](https://lobste.rs/s/qyucws/fevela_me_newsreader_like_client_for) - [Fevela.me – A newsreader-like client for the Nostr social network](https://github.com/dtonon/fevela)
 * [2025-10-30, 09:25:39](https://lobste.rs/s/oiisxj/nix_derivation_madness) - [Nix derivation madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-30, 06:31:47](https://lobste.rs/s/xwdzyh/introducing_fnox_secret_manager_pairs) - [Introducing fnox: A secret manager that pairs well with mise](https://fnox.jdx.dev/)
@@ -11,7 +12,6 @@
 * [2025-10-29, 20:59:53](https://lobste.rs/s/3jf7it/green_tea_garbage_collector_go) - [The Green Tea Garbage Collector - The Go Programming Language](https://go.dev/blog/greenteagc)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig's New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 19:02:59](https://lobste.rs/s/q2ghg1/developing_web_server_with_c_fastcgi) - [Developing a web server with C and FastCGI](https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi)
-* [2025-10-29, 17:19:03](https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:45:57](https://lobste.rs/s/zylfw8/dithering_part_1) - [Dithering - Part 1](https://visualrambling.space/dithering-part-1/)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
