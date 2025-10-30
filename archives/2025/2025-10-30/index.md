@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
 * [2025-10-30, 19:02:41](https://lobste.rs/s/vebdjk/announcing_rust_1_91_0) - [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
+* [2025-10-30, 18:56:59](https://lobste.rs/s/b2tgba/introducing_aardvark_openai_s_agentic) - [Introducing Aardvark: OpenAI’s agentic security researcher](https://openai.com/index/introducing-aardvark/)
 * [2025-10-30, 17:25:27](https://lobste.rs/s/7ar36r/exploring_improving_thread_safety_numpy) - [Exploring & Improving the Thread Safety of NumPy's Test Suite](https://labs.quansight.org/blog/numpy-thread-safe-test-suite)
 * [2025-10-30, 16:51:14](https://lobste.rs/s/gjsffk/rust_clippy_changelog_cat_contest_brief) - [The (rust) Clippy Changelog Cat Contest, a brief retrospective](https://blog.goose.love/posts/history-of-clippy-changelog-cat/)
 * [2025-10-30, 15:38:29](https://lobste.rs/s/4a1gx2/math_mode_problem_typst) - [The Math Mode Problem in Typst](https://laurmaedje.github.io/posts/math-mode-problem/)
