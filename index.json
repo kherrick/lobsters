@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-30, 14:36:13",
+      "https://lobste.rs/s/qyucws/fevela_me_newsreader_like_client_for"
+    ],
+    [
+      "Fevela.me – A newsreader-like client for the Nostr social network",
+      "https://github.com/dtonon/fevela"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 09:25:39",
       "https://lobste.rs/s/oiisxj/nix_derivation_madness"
     ],
@@ -107,16 +117,6 @@
     [
       "Developing a web server with C and FastCGI",
       "https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 17:19:03",
-      "https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm"
-    ],
-    [
-      "How to Obsessively Tune WezTerm",
-      "https://rashil2000.me/blogs/tune-wezterm"
     ]
   ],
   [
