@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-30, 06:31:47](https://lobste.rs/s/xwdzyh/introducing_fnox_secret_manager_pairs) - [Introducing fnox: A secret manager that pairs well with mise](https://fnox.jdx.dev/)
 * [2025-10-30, 05:02:14](https://lobste.rs/s/mwxrye/word2vec_style_vector_arithmetic_on_docs) - [word2vec-style vector arithmetic on docs embeddings](https://technicalwriting.dev/embeddings/arithmetic/index.html)
 * [2025-10-30, 00:55:42](https://lobste.rs/s/4hza7h/jujutsu_at_google) - [Jujutsu at Google](https://www.youtube.com/watch?v=v9Ob5yPpC0A&list=PLOU2XLYxmsILM5cRwAK6yKdtKnCK6Y4Oh&index=6)
@@ -7,7 +8,6 @@
 * [2025-10-29, 22:41:30](https://lobste.rs/s/hrum0f/use_xdg_base_directory_specification) - [Use the XDG Base Directory Specification](https://xdgbasedirectoryspecification.com/)
 * [2025-10-29, 22:32:28](https://lobste.rs/s/skxrc9/i_m_independently_verifying_go_s) - [I'm Independently Verifying Go's Reproducible Builds](https://www.agwa.name/blog/post/verifying_go_reproducible_builds)
 * [2025-10-29, 20:59:53](https://lobste.rs/s/3jf7it/green_tea_garbage_collector_go) - [The Green Tea Garbage Collector - The Go Programming Language](https://go.dev/blog/greenteagc)
-* [2025-10-29, 20:46:29](https://lobste.rs/s/sd6ska/adding_customizable_frame_contrast_kde) - [Adding Customizable Frame Contrast to KDE Plasma](https://akselmo.dev/posts/frame-contrast-settings/)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig's New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
 * [2025-10-29, 19:02:59](https://lobste.rs/s/q2ghg1/developing_web_server_with_c_fastcgi) - [Developing a web server with C and FastCGI](https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi)
 * [2025-10-29, 17:19:03](https://lobste.rs/s/rdh2iz/how_obsessively_tune_wezterm) - [How to Obsessively Tune WezTerm](https://rashil2000.me/blogs/tune-wezterm)
