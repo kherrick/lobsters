@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-30, 16:51:14",
+      "https://lobste.rs/s/gjsffk/rust_clippy_changelog_cat_contest_brief"
+    ],
+    [
+      "The (rust) Clippy Changelog Cat Contest, a brief retrospective",
+      "https://blog.goose.love/posts/history-of-clippy-changelog-cat/"
+    ]
+  ],
+  [
+    [
       "2025-10-30, 15:38:29",
       "https://lobste.rs/s/4a1gx2/math_mode_problem_typst"
     ],
@@ -127,16 +137,6 @@
     [
       "Zig's New Async I/O (Text Version)",
       "https://andrewkelley.me/post/zig-new-async-io-text-version.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 19:02:59",
-      "https://lobste.rs/s/q2ghg1/developing_web_server_with_c_fastcgi"
-    ],
-    [
-      "Developing a web server with C and FastCGI",
-      "https://jsloop.net/2025/10/27/developing-a-web-server-with-c-and-fastcgi"
     ]
   ],
   [
