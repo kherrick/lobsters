@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-10-30, 14:49:47](https://lobste.rs/s/u9o6mz/reliable_django_signals) - [Reliable Django Signals](https://hakibenita.com/django-reliable-signals)
-* [2025-10-30, 14:36:13](https://lobste.rs/s/qyucws/fevela_me_newsreader_like_client_for) - [Fevela.me – A newsreader-like client for the Nostr social network](https://github.com/dtonon/fevela)
+* [2025-10-30, 14:36:13](https://lobste.rs/s/qyucws/fevela_me_rss_reader_like_client_for_nostr) - [Fevela.me – A RSS reader like client for the Nostr social network](https://github.com/dtonon/fevela)
 * [2025-10-30, 09:25:39](https://lobste.rs/s/oiisxj/nix_derivation_madness) - [Nix derivation madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-30, 06:31:47](https://lobste.rs/s/xwdzyh/introducing_fnox_secret_manager_pairs) - [Introducing fnox: A secret manager that pairs well with mise](https://fnox.jdx.dev/)
