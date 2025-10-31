@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-31, 14:15:27](https://lobste.rs/s/n727oo/reflection_for_aggregates_2020) - [Reflection for aggregates (2020)](https://akrzemi1.wordpress.com/2020/10/01/reflection-for-aggregates/)
+* [2025-10-31, 14:08:51](https://lobste.rs/s/vcxqwd/rotating_workforce_scheduling_minizinc) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:43:14](https://lobste.rs/s/pyzk5t/ghosts_compilation) - [Ghosts in the Compilation](https://predr.ag/blog/ghosts-in-the-compilation/)
 * [2025-10-31, 13:23:24](https://lobste.rs/s/rps93t/netbsd_gsoc_2025_mentor_summit_munich) - [NetBSD GSOC 2025 Mentor Summit in Munich, Germany: travel notes](https://blog.netbsd.org/tnf/entry/gsoc2025_mentor_summit)
 * [2025-10-31, 11:51:00](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux) - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
@@ -16,9 +18,7 @@
 * [2025-10-30, 19:02:41](https://lobste.rs/s/vebdjk/announcing_rust_1_91_0) - [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
 * [2025-10-30, 16:12:06](https://lobste.rs/s/ukvfgs/language_models_are_injective_hence) - [Language Models are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 15:38:29](https://lobste.rs/s/4a1gx2/math_mode_problem_typst) - [The Math Mode Problem in Typst](https://laurmaedje.github.io/posts/math-mode-problem/)
-* [2025-10-30, 15:33:26](https://lobste.rs/s/bc62mf/conversions_ruby_are_mess) - [Conversions in Ruby are a mess](https://github.com/sampersand/blog/blob/master/conversions.md)
 * [2025-10-30, 15:27:14](https://lobste.rs/s/qagkx2/corrosion_distributed_system_for) - [Corrosion - a distributed system for propagating SQLite state across a cluster of nodes](https://fly.io/blog/corrosion/)
-* [2025-10-30, 14:49:47](https://lobste.rs/s/u9o6mz/reliable_django_signals) - [Reliable Django Signals](https://hakibenita.com/django-reliable-signals)
 * [2025-10-30, 09:25:39](https://lobste.rs/s/oiisxj/nix_derivation_madness) - [Nix derivation madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-30, 05:28:26](https://lobste.rs/s/gbnrii/crunchyroll_is_destroying_its_subtitles) - [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
