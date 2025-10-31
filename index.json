@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 17:16:26",
+      "https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture"
+    ],
+    [
+      "Ubuntu introduces architecture variants",
+      "https://lwn.net/Articles/1044383/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 15:39:00",
       "https://lobste.rs/s/oxgv1l/deep_dive_into_elixir_logger_module"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig's New Async I/O (Text Version)",
       "https://andrewkelley.me/post/zig-new-async-io-text-version.html"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 16:10:22",
-      "https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem"
-    ],
-    [
-      "uv is the best thing to happen to the Python ecosystem in a decade",
-      "https://emily.space/posts/251023-uv"
     ]
   ],
   [
