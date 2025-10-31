@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 14:52:25](https://lobste.rs/s/xkziyp/finding_order_mayhem_novel_concurrency) - [Finding Order in the Mayhem: A Novel Concurrency Testing Tool that Improved the Kotlin Compiler](https://blog.jetbrains.com/research/2025/10/litmuskt-concurrency-testing/)
 * [2025-10-31, 14:15:27](https://lobste.rs/s/n727oo/reflection_for_aggregates_2020) - [Reflection for aggregates (2020)](https://akrzemi1.wordpress.com/2020/10/01/reflection-for-aggregates/)
 * [2025-10-31, 14:08:51](https://lobste.rs/s/vcxqwd/rotating_workforce_scheduling_minizinc) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:43:14](https://lobste.rs/s/pyzk5t/ghosts_compilation) - [Ghosts in the Compilation](https://predr.ag/blog/ghosts-in-the-compilation/)
