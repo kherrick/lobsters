@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-31, 02:06:07](https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata) - [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 * [2025-10-31, 00:00:40](https://lobste.rs/s/q2fuc0/wastrel_profligate_implementation) - [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly)
 * [2025-10-30, 21:42:17](https://lobste.rs/s/mxmohq/learn_multiplatform_z80_assembly) - [Learn Multiplatform Z80 Assembly Programming... With Vampires](https://www.chibiakumas.com/z80/)
@@ -24,7 +25,6 @@
 * [2025-10-29, 16:10:22](https://lobste.rs/s/fluuv7/uv_is_best_thing_happen_python_ecosystem) - [uv is the best thing to happen to the Python ecosystem in a decade](https://emily.space/posts/251023-uv)
 * [2025-10-29, 15:13:59](https://lobste.rs/s/vd7dgj/normalize_identifying_corporate) - [Normalize Identifying Corporate Devices in Your Software](https://lgug2z.com/articles/normalize-identifying-corporate-devices-in-your-software/)
 * [2025-10-29, 14:06:31](https://lobste.rs/s/oj3ce4/kafka_is_fast_i_ll_use_postgres) - [Kafka is Fast - I'll use Postgres](https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks)
-* [2025-10-29, 07:19:57](https://lobste.rs/s/ugyv1s/vindication_bubble_sort) - [The Vindication of Bubble Sort](https://entropicthoughts.com/vindication-of-bubble-sort)
 
 ## [Archives](archives/index.md)
 
