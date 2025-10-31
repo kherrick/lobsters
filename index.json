@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 02:06:07",
+      "https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata"
+    ],
+    [
+      "Hacking India’s largest automaker: Tata Motors",
+      "https://eaton-works.com/2025/10/28/tata-motors-hack/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 01:13:33",
       "https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker"
     ],
@@ -237,16 +247,6 @@
     [
       "Kafka is Fast - I'll use Postgres",
       "https://topicpartition.io/blog/postgres-pubsub-queue-benchmarks"
-    ]
-  ],
-  [
-    [
-      "2025-10-29, 07:19:57",
-      "https://lobste.rs/s/ugyv1s/vindication_bubble_sort"
-    ],
-    [
-      "The Vindication of Bubble Sort",
-      "https://entropicthoughts.com/vindication-of-bubble-sort"
     ]
   ]
 ]
