@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 18:35:54](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend)
 * [2025-10-31, 18:13:21](https://lobste.rs/s/u0cqmn/install_postgresql_18_on_ubuntu_25_10) - [Install PostgreSQL 18 on Ubuntu 25.10](https://www.paulox.net/2025/10/21/install-postgresql-18-on-ubuntu-25-10-questing-quokka/)
 * [2025-10-31, 18:08:36](https://lobste.rs/s/zjkrqv/project_goals_for_2025h2) - [Project goals for 2025H2](https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
