@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 17:16:26](https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture) - [Ubuntu introduces architecture variants](https://lwn.net/Articles/1044383/)
 * [2025-10-31, 15:39:00](https://lobste.rs/s/oxgv1l/deep_dive_into_elixir_logger_module) - [Deep dive into the Elixir Logger module](https://www.honeybadger.io/blog/elixir-logger/)
 * [2025-10-31, 14:08:51](https://lobste.rs/s/vcxqwd/rotating_workforce_scheduling_minizinc) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
@@ -20,7 +21,6 @@
 * [2025-10-30, 16:12:06](https://lobste.rs/s/ukvfgs/language_models_are_injective_hence) - [Language Models are Injective and Hence Invertible](https://arxiv.org/abs/2510.15511)
 * [2025-10-30, 15:38:29](https://lobste.rs/s/4a1gx2/math_mode_problem_typst) - [The Math Mode Problem in Typst](https://laurmaedje.github.io/posts/math-mode-problem/)
 * [2025-10-30, 15:27:14](https://lobste.rs/s/qagkx2/corrosion_distributed_system_for) - [Corrosion - a distributed system for propagating SQLite state across a cluster of nodes](https://fly.io/blog/corrosion/)
-* [2025-10-30, 09:25:39](https://lobste.rs/s/oiisxj/nix_derivation_madness) - [Nix derivation madness](https://fzakaria.com/2025/10/29/nix-derivation-madness)
 * [2025-10-30, 07:31:21](https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages) - [NPM flooded with malicious packages downloaded more than 86,000 times](https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/)
 * [2025-10-30, 05:28:26](https://lobste.rs/s/gbnrii/crunchyroll_is_destroying_its_subtitles) - [Crunchyroll is destroying its subtitles for no good reason](https://daiz.moe/crunchyroll-is-destroying-its-subtitles-for-no-good-reason/)
 * [2025-10-29, 20:06:23](https://lobste.rs/s/rb81fq/zig_s_new_async_i_o_text_version) - [Zig's New Async I/O (Text Version)](https://andrewkelley.me/post/zig-new-async-io-text-version.html)
