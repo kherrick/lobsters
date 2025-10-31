@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-10-31, 18:13:21",
+      "https://lobste.rs/s/u0cqmn/install_postgresql_18_on_ubuntu_25_10"
+    ],
+    [
+      "Install PostgreSQL 18 on Ubuntu 25.10",
+      "https://www.paulox.net/2025/10/21/install-postgresql-18-on-ubuntu-25-10-questing-quokka/"
+    ]
+  ],
+  [
+    [
+      "2025-10-31, 18:08:36",
+      "https://lobste.rs/s/zjkrqv/project_goals_for_2025h2"
+    ],
+    [
+      "Project goals for 2025H2",
+      "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 17:39:59",
       "https://lobste.rs/s/gzxxng/just_use_button"
     ],
@@ -47,16 +67,6 @@
     [
       "Ghosts in the Compilation",
       "https://predr.ag/blog/ghosts-in-the-compilation/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 13:23:24",
-      "https://lobste.rs/s/rps93t/netbsd_gsoc_2025_mentor_summit_munich"
-    ],
-    [
-      "NetBSD GSOC 2025 Mentor Summit in Munich, Germany: travel notes",
-      "https://blog.netbsd.org/tnf/entry/gsoc2025_mentor_summit"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Corrosion - a distributed system for propagating SQLite state across a cluster of nodes",
       "https://fly.io/blog/corrosion/"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 07:31:21",
-      "https://lobste.rs/s/x45btr/npm_flooded_with_malicious_packages"
-    ],
-    [
-      "NPM flooded with malicious packages downloaded more than 86,000 times",
-      "https://arstechnica.com/security/2025/10/npm-flooded-with-malicious-packages-downloaded-more-than-86000-times/"
     ]
   ],
   [
