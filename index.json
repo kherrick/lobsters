@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 19:53:53",
+      "https://lobste.rs/s/qwbqeq/heatmap_diff_viewer_for_code_reviews"
+    ],
+    [
+      "A heatmap diff viewer for code reviews",
+      "https://0github.com/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 18:35:54",
       "https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend"
     ],
@@ -217,16 +227,6 @@
     [
       "The Math Mode Problem in Typst",
       "https://laurmaedje.github.io/posts/math-mode-problem/"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 15:27:14",
-      "https://lobste.rs/s/qagkx2/corrosion_distributed_system_for"
-    ],
-    [
-      "Corrosion - a distributed system for propagating SQLite state across a cluster of nodes",
-      "https://fly.io/blog/corrosion/"
     ]
   ],
   [
