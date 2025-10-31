@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-10-31](index.md)
 
+* [2025-10-31, 20:49:35](https://lobste.rs/s/xbakt6/smol_training_playbook_secrets_building) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-31, 20:10:07](https://lobste.rs/s/2i5jhx/ai_scrapers_request_commented_scripts) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
 * [2025-10-31, 19:53:53](https://lobste.rs/s/qwbqeq/heatmap_diff_viewer_for_code_reviews) - [A heatmap diff viewer for code reviews](https://0github.com/)
 * [2025-10-31, 18:35:54](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend)
