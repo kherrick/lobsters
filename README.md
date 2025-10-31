@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-10-31, 13:23:24](https://lobste.rs/s/rps93t/netbsd_gsoc_2025_mentor_summit_munich) - [NetBSD GSOC 2025 Mentor Summit in Munich, Germany: travel notes](https://blog.netbsd.org/tnf/entry/gsoc2025_mentor_summit)
 * [2025-10-31, 11:51:00](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux) - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
 * [2025-10-31, 10:34:13](https://lobste.rs/s/kxcfcu/advanced_documentation_retrieval_on) - [Advanced Documentation Retrieval on FreeBSD](https://adventurist.me/posts/00306)
 * [2025-10-31, 10:14:12](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4) - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
@@ -8,7 +9,6 @@
 * [2025-10-31, 02:06:07](https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata) - [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
 * [2025-10-31, 00:00:40](https://lobste.rs/s/q2fuc0/wastrel_profligate_implementation) - [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly)
-* [2025-10-30, 21:42:17](https://lobste.rs/s/mxmohq/learn_multiplatform_z80_assembly) - [Learn Multiplatform Z80 Assembly Programming... With Vampires](https://www.chibiakumas.com/z80/)
 * [2025-10-30, 21:42:08](https://lobste.rs/s/o9kqf4/lisp_notes_on_its_past_future_1980) - [LISP: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
 * [2025-10-30, 21:34:11](https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser) - [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-10-30, 20:53:53](https://lobste.rs/s/r8jkz9/fix_your_fods) - [Fix your FODs](https://garnix.io/blog/fix-your-fods)
