@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-10-30](index.md)
 
 * [2025-10-30, 21:42:17](https://lobste.rs/s/mxmohq/learn_multiplatform_z80_assembly) - [Learn Multiplatform Z80 Assembly Programming... With Vampires](https://www.chibiakumas.com/z80/)
+* [2025-10-30, 21:42:08](https://lobste.rs/s/o9kqf4/lisp_notes_on_its_past_future_1980) - [LISP: Notes on its Past and Future (1980)](https://www-formal.stanford.edu/jmc/lisp20th/lisp20th.html)
 * [2025-10-30, 21:34:11](https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser) - [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 * [2025-10-30, 20:53:53](https://lobste.rs/s/r8jkz9/fix_your_fods) - [Fix your FODs](https://garnix.io/blog/fix-your-fods)
 * [2025-10-30, 19:02:41](https://lobste.rs/s/vebdjk/announcing_rust_1_91_0) - [Announcing Rust 1.91.0](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
