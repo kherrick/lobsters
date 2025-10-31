@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-10-31, 17:39:59",
+      "https://lobste.rs/s/gzxxng/just_use_button"
+    ],
+    [
+      "Just use a button",
+      "https://gomakethings.com/just-use-a-button/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 17:16:26",
       "https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture"
     ],
@@ -197,16 +207,6 @@
     [
       "Corrosion - a distributed system for propagating SQLite state across a cluster of nodes",
       "https://fly.io/blog/corrosion/"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 09:25:39",
-      "https://lobste.rs/s/oiisxj/nix_derivation_madness"
-    ],
-    [
-      "Nix derivation madness",
-      "https://fzakaria.com/2025/10/29/nix-derivation-madness"
     ]
   ],
   [
