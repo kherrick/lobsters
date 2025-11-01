@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-01, 15:19:13",
+      "https://lobste.rs/s/oro1e0/open_source_ada_from_gateware"
+    ],
+    [
+      "Open-Source Ada: From Gateware to Application",
+      "https://blog.adacore.com/open-source-ada-from-gateware-to-application"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 13:36:39",
       "https://lobste.rs/s/lt1ahr/deep_dive_into_deeply_recursive_go"
     ],
@@ -107,16 +117,6 @@
     [
       "AI scrapers request commented scripts",
       "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 19:53:53",
-      "https://lobste.rs/s/qwbqeq/heatmap_diff_viewer_for_code_reviews"
-    ],
-    [
-      "A heatmap diff viewer for code reviews",
-      "https://0github.com/"
     ]
   ],
   [
