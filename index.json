@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-01, 21:46:43",
+      "https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict"
+    ],
+    [
+      "De-escalating Tailscale CGNAT conflict",
+      "https://ysun.co/tscgnat/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 20:57:36",
       "https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple"
     ],
@@ -237,16 +247,6 @@
     [
       "My impressions of the MacBook Pro M4",
       "https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 08:34:37",
-      "https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine"
-    ],
-    [
-      "Challenging the Fastest OSS Workflow Engine",
-      "https://obeli.sk/blog/challenging-fastest-workflow-engine/"
     ]
   ]
 ]
