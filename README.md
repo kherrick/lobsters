@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-01, 15:19:13](https://lobste.rs/s/oro1e0/open_source_ada_from_gateware) - [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application)
 * [2025-11-01, 13:36:39](https://lobste.rs/s/lt1ahr/deep_dive_into_deeply_recursive_go) - [A deep dive into deeply recursive Go](https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/)
 * [2025-11-01, 09:07:44](https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward) - [Hard Rust requirements from May onward](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
 * [2025-11-01, 09:05:00](https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems) - [On the purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
@@ -11,7 +12,6 @@
 * [2025-10-31, 20:49:35](https://lobste.rs/s/xbakt6/smol_training_playbook_secrets_building) - [The Smol Training Playbook: The Secrets to Building World-Class LLMs](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
 * [2025-10-31, 20:20:39](https://lobste.rs/s/fzro7f/futurelock) - [Futurelock](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 20:10:07](https://lobste.rs/s/2i5jhx/ai_scrapers_request_commented_scripts) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
-* [2025-10-31, 19:53:53](https://lobste.rs/s/qwbqeq/heatmap_diff_viewer_for_code_reviews) - [A heatmap diff viewer for code reviews](https://0github.com/)
 * [2025-10-31, 18:35:54](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend)
 * [2025-10-31, 18:08:36](https://lobste.rs/s/zjkrqv/project_goals_for_2025h2) - [Project goals for 2025H2](https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)

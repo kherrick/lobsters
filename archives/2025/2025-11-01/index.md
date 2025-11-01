@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 15:19:13](https://lobste.rs/s/oro1e0/open_source_ada_from_gateware) - [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application)
 * [2025-11-01, 13:36:39](https://lobste.rs/s/lt1ahr/deep_dive_into_deeply_recursive_go) - [A deep dive into deeply recursive Go](https://mattermost.com/blog/a-deep-dive-into-deeply-recursive-go/)
 * [2025-11-01, 13:20:04](https://lobste.rs/s/csyarh/tailscale_fall_update_under_8_minutes) - [The Tailscale Fall Update in under 8 minutes](https://youtube.com/watch?v=GV8CVNd5nAI)
 * [2025-11-01, 09:07:44](https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward) - [Hard Rust requirements from May onward](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
