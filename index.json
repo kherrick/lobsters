@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-01, 04:12:39",
+      "https://lobste.rs/s/s6xdrb/rethinking_data_discovery_for_libraries"
+    ],
+    [
+      "Rethinking Data Discovery for Libraries and Digital Humanities",
+      "https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 00:08:22",
       "https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting"
     ],
@@ -57,16 +67,6 @@
     [
       "A heatmap diff viewer for code reviews",
       "https://0github.com/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 19:53:16",
-      "https://lobste.rs/s/s6sls6/changelog_introducing_nix_nario"
-    ],
-    [
-      "Changelog: introducing nix nario",
-      "https://determinate.systems/blog/changelog-determinate-nix-3120/"
     ]
   ],
   [
