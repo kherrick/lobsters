@@ -14,6 +14,7 @@
 * [2025-11-01, 00:08:22](https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-31, 20:20:39](https://lobste.rs/s/fzro7f/futurelock) - [Futurelock](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 20:10:07](https://lobste.rs/s/2i5jhx/ai_scrapers_request_commented_scripts) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
+* [2025-10-31, 19:53:53](https://lobste.rs/s/qwbqeq/heatmap_diff_viewer_for_code_reviews) - [A heatmap diff viewer for code reviews](https://0github.com/)
 * [2025-10-31, 18:35:54](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend)
 * [2025-10-31, 18:08:36](https://lobste.rs/s/zjkrqv/project_goals_for_2025h2) - [Project goals for 2025H2](https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
@@ -24,7 +25,6 @@
 * [2025-10-31, 10:14:12](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4) - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 * [2025-10-31, 08:34:37](https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine) - [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
-* [2025-10-30, 21:34:11](https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser) - [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 
 ## [Archives](archives/index.md)
 
