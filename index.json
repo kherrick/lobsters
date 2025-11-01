@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-01, 09:07:44",
+      "https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward"
+    ],
+    [
+      "Hard Rust requirements from May onward",
+      "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-01, 09:05:00",
+      "https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems"
+    ],
+    [
+      "On the purported benefits of effect systems",
+      "https://typesanitizer.com/blog/effects-convo.html"
+    ]
+  ],
+  [
+    [
       "2025-11-01, 07:24:22",
       "https://lobste.rs/s/liomcb/computer_says_no_error_reporting_for_ltl"
     ],
@@ -47,16 +67,6 @@
     [
       "How We Found 7 TiB of Memory Just Sitting Around",
       "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 23:48:12",
-      "https://lobste.rs/s/gyhqg0/wasm_adventure"
-    ],
-    [
-      "wasm-adventure",
-      "https://github.com/euhmeuh/wasm-adventure"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "GHC now runs in your browser",
       "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 20:53:53",
-      "https://lobste.rs/s/r8jkz9/fix_your_fods"
-    ],
-    [
-      "Fix your FODs",
-      "https://garnix.io/blog/fix-your-fods"
     ]
   ],
   [
