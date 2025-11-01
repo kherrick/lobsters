@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-10-31, 19:53:53",
+      "https://lobste.rs/s/qwbqeq/heatmap_diff_viewer_for_code_reviews"
+    ],
+    [
+      "A heatmap diff viewer for code reviews",
+      "https://0github.com/"
+    ]
+  ],
+  [
+    [
       "2025-10-31, 18:35:54",
       "https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "Roadmap for improving the Swift type checker",
       "https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952"
-    ]
-  ],
-  [
-    [
-      "2025-10-30, 21:34:11",
-      "https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser"
-    ],
-    [
-      "GHC now runs in your browser",
-      "https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"
     ]
   ]
 ]
