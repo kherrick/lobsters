@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-01, 13:20:04](https://lobste.rs/s/csyarh/tailscale_fall_update_under_8_minutes) - [The Tailscale Fall Update in under 8 minutes](https://youtube.com/watch?v=GV8CVNd5nAI)
 * [2025-11-01, 09:07:44](https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward) - [Hard Rust requirements from May onward](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
 * [2025-11-01, 09:05:00](https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems) - [On the purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
 * [2025-11-01, 07:24:22](https://lobste.rs/s/liomcb/computer_says_no_error_reporting_for_ltl) - [Computer Says No: Error Reporting for LTL](https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html)
@@ -15,7 +16,6 @@
 * [2025-10-31, 18:08:36](https://lobste.rs/s/zjkrqv/project_goals_for_2025h2) - [Project goals for 2025H2](https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 17:16:26](https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture) - [Ubuntu introduces architecture variants](https://lwn.net/Articles/1044383/)
-* [2025-10-31, 15:39:00](https://lobste.rs/s/oxgv1l/deep_dive_into_elixir_logger_module) - [Deep dive into the Elixir Logger module](https://www.honeybadger.io/blog/elixir-logger/)
 * [2025-10-31, 14:08:51](https://lobste.rs/s/vcxqwd/rotating_workforce_scheduling_minizinc) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:43:14](https://lobste.rs/s/pyzk5t/ghosts_compilation) - [Ghosts in the Compilation](https://predr.ag/blog/ghosts-in-the-compilation/)
 * [2025-10-31, 11:51:00](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux) - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
