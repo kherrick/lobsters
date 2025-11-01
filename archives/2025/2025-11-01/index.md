@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-01](index.md)
 
+* [2025-11-01, 20:57:36](https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple) - [X.Org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 * [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/port_linux_webassembly) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/linux_kernel_ported_webassembly_demo) - [Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser](https://www.phoronix.com/news/Linux-Kernel-WebAssembly)
 * [2025-11-01, 18:40:00](https://lobste.rs/s/cg6q4y/claude_code_can_debug_low_level) - [Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)
