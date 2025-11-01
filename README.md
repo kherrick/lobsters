@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-01, 04:58:30](https://lobste.rs/s/wnavxh/your_url_is_your_state) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
+* [2025-11-01, 04:56:34](https://lobste.rs/s/r3ckga/intent_deprecate_remove_deprecate) - [Intent to Deprecate and Remove: Deprecate and remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
 * [2025-11-01, 04:12:39](https://lobste.rs/s/s6xdrb/rethinking_data_discovery_for_libraries) - [Rethinking Data Discovery for Libraries and Digital Humanities](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
 * [2025-11-01, 00:08:22](https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-31, 23:48:12](https://lobste.rs/s/gyhqg0/wasm_adventure) - [wasm-adventure](https://github.com/euhmeuh/wasm-adventure)
@@ -15,9 +17,7 @@
 * [2025-10-31, 14:08:51](https://lobste.rs/s/vcxqwd/rotating_workforce_scheduling_minizinc) - [Rotating Workforce Scheduling in MiniZinc](https://zayenz.se/blog/post/rotating-workforce-scheduling/)
 * [2025-10-31, 13:43:14](https://lobste.rs/s/pyzk5t/ghosts_compilation) - [Ghosts in the Compilation](https://predr.ag/blog/ghosts-in-the-compilation/)
 * [2025-10-31, 11:51:00](https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux) - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
-* [2025-10-31, 10:34:13](https://lobste.rs/s/kxcfcu/advanced_documentation_retrieval_on) - [Advanced Documentation Retrieval on FreeBSD](https://adventurist.me/posts/00306)
 * [2025-10-31, 10:14:12](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4) - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
-* [2025-10-31, 08:47:48](https://lobste.rs/s/jb4imt/ghc_9_14_1_rc1_is_now_available) - [GHC 9.14.1-rc1 is now available](https://discourse.haskell.org/t/ghc-9-14-1-rc1-is-now-available/13194)
 * [2025-10-31, 08:34:37](https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine) - [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/)
 * [2025-10-31, 02:06:07](https://lobste.rs/s/ufettb/hacking_india_s_largest_automaker_tata) - [Hacking India’s largest automaker: Tata Motors](https://eaton-works.com/2025/10/28/tata-motors-hack/)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
