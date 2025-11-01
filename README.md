@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/linux_kernel_ported_webassembly_demo) - [Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser](https://www.phoronix.com/news/Linux-Kernel-WebAssembly)
 * [2025-11-01, 18:40:00](https://lobste.rs/s/cg6q4y/claude_code_can_debug_low_level) - [Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)
 * [2025-11-01, 17:55:13](https://lobste.rs/s/ezqbmq/text_rendering_effects_using_gpu) - [Text rendering and effects using GPU-computed distances](https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html)
 * [2025-11-01, 15:19:13](https://lobste.rs/s/oro1e0/open_source_ada_from_gateware) - [Open-Source Ada: From Gateware to Application](https://blog.adacore.com/open-source-ada-from-gateware-to-application)
@@ -23,7 +24,6 @@
 * [2025-10-31, 10:14:12](https://lobste.rs/s/g3qejh/my_impressions_macbook_pro_m4) - [My impressions of the MacBook Pro M4](https://michael.stapelberg.ch/posts/2025-10-31-macbook-pro-m4-impressions/)
 * [2025-10-31, 08:34:37](https://lobste.rs/s/lr21qf/challenging_fastest_oss_workflow_engine) - [Challenging the Fastest OSS Workflow Engine](https://obeli.sk/blog/challenging-fastest-workflow-engine/)
 * [2025-10-31, 01:13:33](https://lobste.rs/s/dnilu3/roadmap_for_improving_swift_type_checker) - [Roadmap for improving the Swift type checker](https://forums.swift.org/t/roadmap-for-improving-the-type-checker/82952)
-* [2025-10-31, 00:00:40](https://lobste.rs/s/q2fuc0/wastrel_profligate_implementation) - [wastrel, a profligate implementation of webassembly](https://wingolog.org/archives/2025/10/30/wastrel-a-profligate-implementation-of-webassembly)
 * [2025-10-30, 21:34:11](https://lobste.rs/s/xpivuc/ghc_now_runs_your_browser) - [GHC now runs in your browser](https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169)
 
 ## [Archives](archives/index.md)
