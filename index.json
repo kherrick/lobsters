@@ -2,11 +2,11 @@
   [
     [
       "2025-11-01, 19:29:47",
-      "https://lobste.rs/s/8txnkh/linux_kernel_ported_webassembly_demo"
+      "https://lobste.rs/s/8txnkh/port_linux_webassembly"
     ],
     [
-      "Linux Kernel Ported To WebAssembly - Demo Lets You Run It In Your Web Browser",
-      "https://www.phoronix.com/news/Linux-Kernel-WebAssembly"
+      "Port of Linux to WebAssembly",
+      "https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/"
     ]
   ],
   [
