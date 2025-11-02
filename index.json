@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-02, 15:10:45",
+      "https://lobste.rs/s/uwyfpy/build_system_tradeoffs"
+    ],
+    [
+      "build system tradeoffs",
+      "https://jyn.dev/build-system-tradeoffs"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 15:00:40",
+      "https://lobste.rs/s/hr2ojn/beautiful_concise_explanation_why_cycle"
+    ],
+    [
+      "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
+      "https://github.com/bagnalla/6502"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 13:12:30",
       "https://lobste.rs/s/ug6vbv/prison_my_own_making"
     ],
@@ -77,16 +97,6 @@
     [
       "Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis",
       "https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 23:18:18",
-      "https://lobste.rs/s/y4is7i/program_ing_finger_trees_coq_2007"
-    ],
-    [
-      "Program-ing Finger Trees in Coq (2007)",
-      "https://sozeau.gitlabpages.inria.fr/www/research/publications/Program-ing_Finger_Trees_in_Coq.pdf"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "AI scrapers request commented scripts",
       "https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 18:08:36",
-      "https://lobste.rs/s/zjkrqv/project_goals_for_2025h2"
-    ],
-    [
-      "Project goals for 2025H2",
-      "https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/"
     ]
   ],
   [
