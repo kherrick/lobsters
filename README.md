@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-02, 12:05:16](https://lobste.rs/s/ryv8c4/moving_tables_across_postgresql) - [Moving tables across PostgreSQL instances](https://ananthakumaran.in/2025/11/02/moving-tables-across-postgres-instances.html)
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 07:03:14](https://lobste.rs/s/s3y1vj/how_i_use_every_claude_code_feature) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
@@ -17,7 +18,6 @@
 * [2025-11-01, 07:24:22](https://lobste.rs/s/liomcb/computer_says_no_error_reporting_for_ltl) - [Computer Says No: Error Reporting for LTL](https://wickstrom.tech/2025-11-01-error-reporting-linear-temporal-logic.html)
 * [2025-11-01, 04:58:30](https://lobste.rs/s/wnavxh/your_url_is_your_state) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-01, 04:56:34](https://lobste.rs/s/r3ckga/intent_deprecate_remove_deprecate) - [Intent to Deprecate and Remove: Deprecate and remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
-* [2025-11-01, 04:12:39](https://lobste.rs/s/s6xdrb/rethinking_data_discovery_for_libraries) - [Rethinking Data Discovery for Libraries and Digital Humanities](https://lil.law.harvard.edu/blog/2025/10/24/rethinking-data-discovery-for-libraries-and-digital-humanities/)
 * [2025-11-01, 00:08:22](https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-31, 20:20:39](https://lobste.rs/s/fzro7f/futurelock) - [Futurelock](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 20:10:07](https://lobste.rs/s/2i5jhx/ai_scrapers_request_commented_scripts) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
