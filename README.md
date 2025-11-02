@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science) - [I ****ing hate Science](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 22:52:04](https://lobste.rs/s/gig2wt/you_don_t_need_anubis) - [You don't need anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 22:50:03](https://lobste.rs/s/7si4dt/nostr_is_deceptively_tricky_understand) - [Nostr is deceptively tricky to understand](https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt)
 * [2025-11-02, 21:55:03](https://lobste.rs/s/k4shdv/skeena_indigenous_typeface) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
@@ -16,7 +17,6 @@
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 07:03:14](https://lobste.rs/s/s3y1vj/how_i_use_every_claude_code_feature) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
-* [2025-11-02, 01:58:43](https://lobste.rs/s/fq3hqh/attacking_macos_xpc_helpers_protocol) - [Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis](https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers)
 * [2025-11-01, 21:46:43](https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict) - [De-escalating Tailscale CGNAT conflict](https://ysun.co/tscgnat/)
 * [2025-11-01, 20:57:36](https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple) - [X.Org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 * [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/port_linux_webassembly) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
