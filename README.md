@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-02, 19:02:40](https://lobste.rs/s/f3oge4/awk_technical_notes_2023) - [AWK technical notes (2023)](https://maximullaris.com/awk_tech_notes.html)
 * [2025-11-02, 18:46:23](https://lobste.rs/s/fsd2eb/react_native_godot_react_native_godot) - [react-native-godot: React Native Godot - Embed Godot Engine in React Native apps](https://github.com/borndotcom/react-native-godot)
 * [2025-11-02, 17:57:10](https://lobste.rs/s/pr4aqv/zapstore) - [Zapstore](https://zapstore.dev/)
 * [2025-11-02, 15:10:45](https://lobste.rs/s/uwyfpy/build_system_tradeoffs) - [build system tradeoffs](https://jyn.dev/build-system-tradeoffs)
@@ -23,7 +24,6 @@
 * [2025-11-01, 09:05:00](https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems) - [On the purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
 * [2025-11-01, 04:58:30](https://lobste.rs/s/wnavxh/your_url_is_your_state) - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html)
 * [2025-11-01, 04:56:34](https://lobste.rs/s/r3ckga/intent_deprecate_remove_deprecate) - [Intent to Deprecate and Remove: Deprecate and remove XSLT](https://groups.google.com/a/chromium.org/g/blink-dev/c/CxL4gYZeSJA/m/yNs4EsD5AQAJ)
-* [2025-10-31, 20:20:39](https://lobste.rs/s/fzro7f/futurelock) - [Futurelock](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 19:02:40](https://lobste.rs/s/f3oge4/awk_technical_notes_2023) - [AWK technical notes (2023)](https://maximullaris.com/awk_tech_notes.html)
 * [2025-11-02, 18:46:23](https://lobste.rs/s/fsd2eb/react_native_godot_react_native_godot) - [react-native-godot: React Native Godot - Embed Godot Engine in React Native apps](https://github.com/borndotcom/react-native-godot)
 * [2025-11-02, 17:57:10](https://lobste.rs/s/pr4aqv/zapstore) - [Zapstore](https://zapstore.dev/)
 * [2025-11-02, 15:10:45](https://lobste.rs/s/uwyfpy/build_system_tradeoffs) - [build system tradeoffs](https://jyn.dev/build-system-tradeoffs)
