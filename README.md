@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-02, 07:03:14](https://lobste.rs/s/s3y1vj/how_i_use_every_claude_code_feature) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
 * [2025-11-02, 01:58:43](https://lobste.rs/s/fq3hqh/attacking_macos_xpc_helpers_protocol) - [Attacking macOS XPC helpers: Protocol reverse engineering and interface analysis](https://tonygo.tech/blog/2025/how-to-attack-macos-application-xpc-helpers)
 * [2025-11-01, 23:18:18](https://lobste.rs/s/y4is7i/program_ing_finger_trees_coq_2007) - [Program-ing Finger Trees in Coq (2007)](https://sozeau.gitlabpages.inria.fr/www/research/publications/Program-ing_Finger_Trees_in_Coq.pdf)
@@ -19,7 +20,6 @@
 * [2025-11-01, 00:08:22](https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting) - [How We Found 7 TiB of Memory Just Sitting Around](https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around)
 * [2025-10-31, 20:20:39](https://lobste.rs/s/fzro7f/futurelock) - [Futurelock](https://rfd.shared.oxide.computer/rfd/0609)
 * [2025-10-31, 20:10:07](https://lobste.rs/s/2i5jhx/ai_scrapers_request_commented_scripts) - [AI scrapers request commented scripts](https://cryptography.dog/blog/AI-scrapers-request-commented-scripts/)
-* [2025-10-31, 18:35:54](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sknsrg/what_are_you_doing_this_weekend)
 * [2025-10-31, 18:08:36](https://lobste.rs/s/zjkrqv/project_goals_for_2025h2) - [Project goals for 2025H2](https://blog.rust-lang.org/2025/10/28/project-goals-2025h2/)
 * [2025-10-31, 17:39:59](https://lobste.rs/s/gzxxng/just_use_button) - [Just use a button](https://gomakethings.com/just-use-a-button/)
 * [2025-10-31, 17:16:26](https://lobste.rs/s/ytgiec/ubuntu_introduces_architecture) - [Ubuntu introduces architecture variants](https://lwn.net/Articles/1044383/)
