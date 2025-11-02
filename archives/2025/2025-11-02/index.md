@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-02](index.md)
 
+* [2025-11-02, 22:50:03](https://lobste.rs/s/7si4dt/nostr_is_deceptively_tricky_understand) - [Nostr is deceptively tricky to understand](https://njump.me/nevent1qqsgnyzctjwpqkgqyvp2tl0megdf5dvrfgqgug6u83k396y0d2uj3qgzyp02geyqgka3lu3zv4wa6dhxmnkacs6epsnqjrzgd0hn3m69pkjm68v4ydt)
 * [2025-11-02, 21:55:03](https://lobste.rs/s/k4shdv/skeena_indigenous_typeface) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
 * [2025-11-02, 21:10:56](https://lobste.rs/s/xtfzxb/making_easy_install_application_python) - [Making an Easy-to-Install Application in Python](https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/)
 * [2025-11-02, 19:02:40](https://lobste.rs/s/f3oge4/awk_technical_notes_2023) - [AWK technical notes (2023)](https://maximullaris.com/awk_tech_notes.html)
