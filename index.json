@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-02, 12:29:18",
+      "https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c_2025"
+    ],
+    [
+      "Notes by djb on using Fil-C (2025)",
+      "https://cr.yp.to/2025/fil-c.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 12:22:47",
+      "https://lobste.rs/s/yzbn8j/thinking_about_thinking_with_llms"
+    ],
+    [
+      "Thinking About Thinking With LLMs",
+      "https://davi.sh/blog/2025/09/thinking-with-llms/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 12:05:16",
       "https://lobste.rs/s/ryv8c4/moving_tables_across_postgresql"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-01, 00:08:22",
-      "https://lobste.rs/s/cjaysk/how_we_found_7_tib_memory_just_sitting"
-    ],
-    [
-      "How We Found 7 TiB of Memory Just Sitting Around",
-      "https://render.com/blog/how-we-found-7-tib-of-memory-just-sitting-around"
-    ]
-  ],
-  [
-    [
       "2025-10-31, 20:20:39",
       "https://lobste.rs/s/fzro7f/futurelock"
     ],
@@ -227,16 +237,6 @@
     [
       "Just use a button",
       "https://gomakethings.com/just-use-a-button/"
-    ]
-  ],
-  [
-    [
-      "2025-10-31, 11:51:00",
-      "https://lobste.rs/s/6c86lq/perfetto_swiss_army_knife_for_linux"
-    ],
-    [
-      "Perfetto: Swiss Army Knife for Linux Client Tracing",
-      "https://lalitm.com/perfetto-swiss-army-knife/"
     ]
   ],
   [
