@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-03, 14:15:23",
+      "https://lobste.rs/s/sbrnnl/c_move_semantics_from_scratch_2022"
+    ],
+    [
+      "C++ move semantics from scratch (2022)",
+      "https://cbarrete.com/move-from-scratch.html"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 13:37:57",
       "https://lobste.rs/s/wtmtx3/how_get_meaningful_feedback_on_your"
     ],
@@ -237,16 +247,6 @@
     [
       "Notes by djb on using Fil-C",
       "https://cr.yp.to/2025/fil-c.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 10:58:36",
-      "https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again"
-    ],
-    [
-      "Using FreeBSD to make self-hosting fun again",
-      "https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/"
     ]
   ]
 ]
