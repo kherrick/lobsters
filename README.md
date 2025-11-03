@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-03, 15:02:25](https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite) - [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
 * [2025-11-03, 13:37:57](https://lobste.rs/s/wtmtx3/how_get_meaningful_feedback_on_your) - [How to Get Meaningful Feedback on Your Design Document](https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/)
 * [2025-11-03, 13:31:19](https://lobste.rs/s/mp8rib/prefer_boring_technology) - [Prefer boring technology](https://itwont.work/blog/prefer-boring-technology)
 * [2025-11-03, 13:06:10](https://lobste.rs/s/bbfa6p/announcing_cgp_serde_modular) - [Announcing cgp-serde: A modular serialization library for Serde powered by Context-Generic Programming](https://contextgeneric.dev/blog/cgp-serde-release/)
 * [2025-11-03, 12:27:46](https://lobste.rs/s/neu41n/soiree_into_symbols_ruby) - [A Soiree into Symbols in Ruby](https://tech.stonecharioteer.com/posts/2025/ruby-symbols/)
 * [2025-11-03, 12:18:50](https://lobste.rs/s/2eofir/a11y_css) - [a11y.css](https://ffoodd.github.io/a11y.css/)
-* [2025-11-03, 11:18:36](https://lobste.rs/s/cj8v8g/writing_asciidoc_parser_rust_asciidocr) - [Writing an Asciidoc Parser in Rust: Asciidocr](https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html)
 * [2025-11-03, 10:47:29](https://lobste.rs/s/wca9sz/cure_verification_first_programming_for) - [Cure - Verification-First Programming for the BEAM](https://cure-lang.org/)
 * [2025-11-03, 09:24:39](https://lobste.rs/s/7rhkpy/absurd_workflows_durable_execution_with) - [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows)
 * [2025-11-03, 06:43:41](https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory) - [Don't give Postgres too much memory](https://vondra.me/posts/dont-give-postgres-too-much-memory/)
