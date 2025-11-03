@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-03, 02:50:44](https://lobste.rs/s/tbdvn9/control_structures_programming) - [Control structures in programming languages](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 01:28:47](https://lobste.rs/s/wjlvlz/monster_splash_double_hires_demo_for) - [\"Monster Splash\" a double-hires demo for Apple IIe](http://www.deater.net/weave/vmwprod/monstersplash/)
 * [2025-11-03, 01:20:07](https://lobste.rs/s/ia2pn6/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html)
 * [2025-11-03, 00:49:56](https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead) - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
@@ -16,6 +17,7 @@
 * [2025-11-02, 15:00:40](https://lobste.rs/s/hr2ojn/beautiful_concise_explanation_why_cycle) - [Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not](https://github.com/bagnalla/6502)
 * [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
 * [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c_2025) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
+* [2025-11-02, 12:22:47](https://lobste.rs/s/yzbn8j/thinking_about_thinking_with_llms) - [Thinking About Thinking With LLMs](https://davi.sh/blog/2025/09/thinking-with-llms/)
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 07:03:14](https://lobste.rs/s/s3y1vj/how_i_use_every_claude_code_feature) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
@@ -23,8 +25,6 @@
 * [2025-11-01, 20:57:36](https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple) - [X.Org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
 * [2025-11-01, 19:29:47](https://lobste.rs/s/8txnkh/port_linux_webassembly) - [Port of Linux to WebAssembly](https://lore.kernel.org/lkml/618f3602-03aa-46a8-b2d4-3c9798c4cd2b@icemanor.se/)
 * [2025-11-01, 18:40:00](https://lobste.rs/s/cg6q4y/claude_code_can_debug_low_level) - [Claude Code Can Debug Low-level Cryptography](https://words.filippo.io/claude-debugging/)
-* [2025-11-01, 09:07:44](https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward) - [Hard Rust requirements from May onward](https://lists.debian.org/debian-devel/2025/10/msg00285.html)
-* [2025-11-01, 09:05:00](https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems) - [On the purported benefits of effect systems](https://typesanitizer.com/blog/effects-convo.html)
 
 ## [Archives](archives/index.md)
 
