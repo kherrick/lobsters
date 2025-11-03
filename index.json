@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2025-11-03, 16:50:22",
-      "https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck"
+      "2025-11-03, 17:39:44",
+      "https://lobste.rs/s/kbp8xn/you_don_t_need_kafka_just_use_postgres"
     ],
     [
-      "We found an embedding indexing bottleneck in JSON parsing",
-      "https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck"
+      "\"You Don't Need Kafka, Just Use Postgres\" Considered Harmful",
+      "https://www.morling.dev/blog/you-dont-need-kafka-just-use-postgres-considered-harmful/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-11-03, 02:50:44",
-      "https://lobste.rs/s/tbdvn9/control_structures_programming"
-    ],
-    [
-      "Control structures in programming languages",
-      "http://xavierleroy.org/control-structures/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 00:49:56",
       "https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead"
     ],
@@ -217,6 +207,16 @@
     [
       "You don't need anubis",
       "https://fxgn.dev/blog/anubis/"
+    ]
+  ],
+  [
+    [
+      "2025-11-02, 21:55:03",
+      "https://lobste.rs/s/k4shdv/skeena_indigenous_typeface"
+    ],
+    [
+      "Skeena Indigenous Typeface",
+      "https://microsoft.github.io/Skeena-Indigenous-Typeface/"
     ]
   ],
   [
