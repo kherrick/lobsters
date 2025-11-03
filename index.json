@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-03, 06:43:41",
+      "https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory"
+    ],
+    [
+      "Don't give Postgres too much memory",
+      "https://vondra.me/posts/dont-give-postgres-too-much-memory/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 06:30:45",
+      "https://lobste.rs/s/j8dni3/why_don_t_you_use_dependent_types"
+    ],
+    [
+      "\"Why don't you use dependent types?\"",
+      "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 05:48:00",
       "https://lobste.rs/s/zsoyox/abstract_syntax_tree_example_c"
     ],
@@ -72,10 +92,10 @@
   [
     [
       "2025-11-02, 23:51:03",
-      "https://lobste.rs/s/q7wvs1/i_ing_hate_science"
+      "https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021"
     ],
     [
-      "I ****ing hate Science",
+      "I ****ing hate Science (2021)",
       "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/"
     ]
   ],
@@ -127,16 +147,6 @@
     [
       "AWK technical notes (2023)",
       "https://maximullaris.com/awk_tech_notes.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 18:46:23",
-      "https://lobste.rs/s/fsd2eb/react_native_godot_react_native_godot"
-    ],
-    [
-      "react-native-godot: React Native Godot - Embed Godot Engine in React Native apps",
-      "https://github.com/borndotcom/react-native-godot"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "De-escalating Tailscale CGNAT conflict",
       "https://ysun.co/tscgnat/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 20:57:36",
-      "https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple"
-    ],
-    [
-      "X.Org Security Advisory: multiple security issues X.Org X server and Xwayland",
-      "https://lists.x.org/archives/xorg-announce/2025-October/003635.html"
     ]
   ],
   [
