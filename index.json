@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 07:54:52",
+      "https://lobste.rs/s/unnblr/apm_paradox_too_much_data_too_few_answers"
+    ],
+    [
+      "The APM paradox: Too much data, too few answers",
+      "https://www.honeybadger.io/blog/apm-paradox/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 06:43:41",
       "https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory"
     ],
@@ -217,16 +227,6 @@
     [
       "Visopsys single developer \"Visual Operating System\"",
       "https://visopsys.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 21:46:43",
-      "https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict"
-    ],
-    [
-      "De-escalating Tailscale CGNAT conflict",
-      "https://ysun.co/tscgnat/"
     ]
   ],
   [
