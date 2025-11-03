@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-03, 05:48:00](https://lobste.rs/s/zsoyox/abstract_syntax_tree_example_c) - [Abstract Syntax Tree: An Example in C](https://keleshev.com/abstract-syntax-tree-an-example-in-c/)
 * [2025-11-03, 04:47:06](https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with) - [Setting up a very simple home router with OpenBSD](https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/)
 * [2025-11-03, 02:50:44](https://lobste.rs/s/tbdvn9/control_structures_programming) - [Control structures in programming languages](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 01:28:47](https://lobste.rs/s/wjlvlz/monster_splash_double_hires_demo_for) - [\"Monster Splash\" a double-hires demo for Apple IIe](http://www.deater.net/weave/vmwprod/monstersplash/)
@@ -18,7 +19,6 @@
 * [2025-11-02, 15:00:40](https://lobste.rs/s/hr2ojn/beautiful_concise_explanation_why_cycle) - [Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not](https://github.com/bagnalla/6502)
 * [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
 * [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c_2025) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
-* [2025-11-02, 12:22:47](https://lobste.rs/s/yzbn8j/thinking_about_thinking_with_llms) - [Thinking About Thinking With LLMs](https://davi.sh/blog/2025/09/thinking-with-llms/)
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
 * [2025-11-01, 21:46:43](https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict) - [De-escalating Tailscale CGNAT conflict](https://ysun.co/tscgnat/)
