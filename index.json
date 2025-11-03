@@ -5,7 +5,7 @@
       "https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck"
     ],
     [
-      "We found an embedding indexing bottleneck in the most unexpected place: JSON parsing",
+      "We found an embedding indexing bottleneck in JSON parsing",
       "https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck"
     ]
   ],
