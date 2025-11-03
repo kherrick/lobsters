@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 19:01:52](https://lobste.rs/s/qcx6fq/i_built_my_own_google_drive) - [I Built My Own Google Drive](https://lorbic.com/i-built-my-own-google-drive/)
 * [2025-11-03, 16:50:22](https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck) - [We found an embedding indexing bottleneck in the most unexpected place: JSON parsing](https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck)
 * [2025-11-03, 16:06:26](https://lobste.rs/s/l6q8rj/cheriot_1_0_released) - [CHERIoT 1.0 Released](https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html)
 * [2025-11-03, 15:41:39](https://lobste.rs/s/nwummg/browser_apis_web_s_free_saas) - [Browser APIs: The Web’s Free SaaS](https://blog.jim-nielsen.com/2025/browser-apis-as-sass/)
