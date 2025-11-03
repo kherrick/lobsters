@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 21:41:43](https://lobste.rs/s/wsrjf8/agent_shell_0_17_improvements_melpa) - [agent-shell 0.17 improvements + MELPA](https://xenodium.com/agent-shell-016-improvements-melpa)
 * [2025-11-03, 21:21:42](https://lobste.rs/s/ek1thj/what_if_you_don_t_need_mcp_at_all) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
+* [2025-11-03, 19:55:50](https://lobste.rs/s/lqvf6n/fetch_ening) - [The fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:40:00](https://lobste.rs/s/yc7dps/rdseed_failure_on_amd_zen_5_processors) - [RDSEED Failure on AMD “Zen 5” Processors](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html)
 * [2025-11-03, 19:36:22](https://lobste.rs/s/flln5g/state_terminal_emulators_2025_errant) - [State of Terminal Emulators in 2025: The Errant Champions · Articles](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 * [2025-11-03, 19:01:52](https://lobste.rs/s/qcx6fq/i_built_my_own_google_drive) - [I Built My Own Google Drive](https://lorbic.com/i-built-my-own-google-drive/)
