@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-03, 09:24:39](https://lobste.rs/s/7rhkpy/absurd_workflows_durable_execution_with) - [Absurd Workflows: Durable Execution With Just Postgres](https://lucumr.pocoo.org/2025/11/3/absurd-workflows)
 * [2025-11-03, 07:54:52](https://lobste.rs/s/unnblr/apm_paradox_too_much_data_too_few_answers) - [The APM paradox: Too much data, too few answers](https://www.honeybadger.io/blog/apm-paradox/)
 * [2025-11-03, 06:43:41](https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory) - [Don't give Postgres too much memory](https://vondra.me/posts/dont-give-postgres-too-much-memory/)
 * [2025-11-03, 06:30:45](https://lobste.rs/s/j8dni3/why_don_t_you_use_dependent_types) - [\"Why don't you use dependent types?\"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
@@ -16,7 +17,6 @@
 * [2025-11-02, 21:55:03](https://lobste.rs/s/k4shdv/skeena_indigenous_typeface) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
 * [2025-11-02, 21:10:56](https://lobste.rs/s/xtfzxb/making_easy_install_application_python) - [Making an Easy-to-Install Application in Python](https://gokmengorgen.net/2025/11/02/making-an-easy-to-install-application-in-python/)
 * [2025-11-02, 19:02:40](https://lobste.rs/s/f3oge4/awk_technical_notes_2023) - [AWK technical notes (2023)](https://maximullaris.com/awk_tech_notes.html)
-* [2025-11-02, 17:57:10](https://lobste.rs/s/pr4aqv/zapstore) - [Zapstore](https://zapstore.dev/)
 * [2025-11-02, 15:10:45](https://lobste.rs/s/uwyfpy/build_system_tradeoffs) - [build system tradeoffs](https://jyn.dev/build-system-tradeoffs)
 * [2025-11-02, 15:00:40](https://lobste.rs/s/hr2ojn/beautiful_concise_explanation_why_cycle) - [Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not](https://github.com/bagnalla/6502)
 * [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
