@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 15:41:39",
+      "https://lobste.rs/s/nwummg/browser_apis_web_s_free_saas"
+    ],
+    [
+      "Browser APIs: The Web’s Free SaaS",
+      "https://blog.jim-nielsen.com/2025/browser-apis-as-sass/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 15:02:25",
       "https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite"
     ],
@@ -17,16 +27,6 @@
     [
       "C++ move semantics from scratch (2022)",
       "https://cbarrete.com/move-from-scratch.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 13:37:57",
-      "https://lobste.rs/s/wtmtx3/how_get_meaningful_feedback_on_your"
-    ],
-    [
-      "How to Get Meaningful Feedback on Your Design Document",
-      "https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "a11y.css",
       "https://ffoodd.github.io/a11y.css/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 11:18:36",
+      "https://lobste.rs/s/cj8v8g/writing_asciidoc_parser_rust_asciidocr"
+    ],
+    [
+      "Writing an Asciidoc Parser in Rust: Asciidocr",
+      "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Control structures in programming languages",
       "http://xavierleroy.org/control-structures/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 01:28:47",
-      "https://lobste.rs/s/wjlvlz/monster_splash_double_hires_demo_for"
-    ],
-    [
-      "\"Monster Splash\" a double-hires demo for Apple IIe",
-      "http://www.deater.net/weave/vmwprod/monstersplash/"
     ]
   ],
   [
