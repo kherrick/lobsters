@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-03, 15:41:39",
-      "https://lobste.rs/s/nwummg/browser_apis_web_s_free_saas"
+      "2025-11-03, 16:50:22",
+      "https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck"
     ],
     [
-      "Browser APIs: The Web’s Free SaaS",
-      "https://blog.jim-nielsen.com/2025/browser-apis-as-sass/"
+      "We found an embedding indexing bottleneck in the most unexpected place: JSON parsing",
+      "https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 16:06:26",
+      "https://lobste.rs/s/l6q8rj/cheriot_1_0_released"
+    ],
+    [
+      "CHERIoT 1.0 Released",
+      "https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Using Assisted-by commit footers instead of banning AI tools",
       "https://xeiaso.net/notes/2025/assisted-by-footer/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 23:58:21",
-      "https://lobste.rs/s/ri4vd2/homotopy_type_theory_for_dummies"
-    ],
-    [
-      "Homotopy Type Theory for Dummies",
-      "http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html"
     ]
   ],
   [
