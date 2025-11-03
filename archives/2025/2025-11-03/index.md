@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 14:15:23](https://lobste.rs/s/sbrnnl/c_move_semantics_from_scratch_2022) - [C++ move semantics from scratch (2022)](https://cbarrete.com/move-from-scratch.html)
 * [2025-11-03, 13:37:57](https://lobste.rs/s/wtmtx3/how_get_meaningful_feedback_on_your) - [How to Get Meaningful Feedback on Your Design Document](https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/)
 * [2025-11-03, 13:31:19](https://lobste.rs/s/mp8rib/prefer_boring_technology) - [Prefer boring technology](https://itwont.work/blog/prefer-boring-technology)
 * [2025-11-03, 13:26:57](https://lobste.rs/s/c9wvmt/table_contents_bookmarklet) - [Table of Contents Bookmarklet](https://zoebijl.github.io/table-of-contents/)
