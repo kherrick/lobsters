@@ -18,7 +18,7 @@
 * [2025-11-02, 15:10:45](https://lobste.rs/s/uwyfpy/build_system_tradeoffs) - [build system tradeoffs](https://jyn.dev/build-system-tradeoffs)
 * [2025-11-02, 15:00:40](https://lobste.rs/s/hr2ojn/beautiful_concise_explanation_why_cycle) - [Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not](https://github.com/bagnalla/6502)
 * [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
-* [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c_2025) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
+* [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
 * [2025-11-01, 21:46:43](https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict) - [De-escalating Tailscale CGNAT conflict](https://ysun.co/tscgnat/)
