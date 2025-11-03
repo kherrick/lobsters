@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-11-03, 16:50:22",
+      "https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck"
+    ],
+    [
+      "We found an embedding indexing bottleneck in JSON parsing",
+      "https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 16:06:26",
       "https://lobste.rs/s/l6q8rj/cheriot_1_0_released"
     ],
@@ -107,6 +117,16 @@
     [
       "Announcing cgp-serde: A modular serialization library for Serde powered by Context-Generic Programming",
       "https://contextgeneric.dev/blog/cgp-serde-release/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 12:27:46",
+      "https://lobste.rs/s/neu41n/soiree_into_symbols_ruby"
+    ],
+    [
+      "A Soiree into Symbols in Ruby",
+      "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-03, 02:50:44",
-      "https://lobste.rs/s/tbdvn9/control_structures_programming"
-    ],
-    [
-      "Control structures in programming languages",
-      "http://xavierleroy.org/control-structures/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 00:49:56",
       "https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead"
     ],
@@ -207,16 +217,6 @@
     [
       "You don't need anubis",
       "https://fxgn.dev/blog/anubis/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 21:55:03",
-      "https://lobste.rs/s/k4shdv/skeena_indigenous_typeface"
-    ],
-    [
-      "Skeena Indigenous Typeface",
-      "https://microsoft.github.io/Skeena-Indigenous-Typeface/"
     ]
   ],
   [
