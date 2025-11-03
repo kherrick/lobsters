@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-03, 04:47:06](https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with) - [Setting up a very simple home router with OpenBSD](https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/)
 * [2025-11-03, 02:50:44](https://lobste.rs/s/tbdvn9/control_structures_programming) - [Control structures in programming languages](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 01:28:47](https://lobste.rs/s/wjlvlz/monster_splash_double_hires_demo_for) - [\"Monster Splash\" a double-hires demo for Apple IIe](http://www.deater.net/weave/vmwprod/monstersplash/)
 * [2025-11-03, 01:20:07](https://lobste.rs/s/ia2pn6/software_substrates_should_there_be_only) - [Software substrates: should there be only one?](https://www.humprog.org/~stephen/blog/research/substrates-should-there-be-only-one.html)
@@ -19,7 +20,6 @@
 * [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c_2025) - [Notes by djb on using Fil-C (2025)](https://cr.yp.to/2025/fil-c.html)
 * [2025-11-02, 12:22:47](https://lobste.rs/s/yzbn8j/thinking_about_thinking_with_llms) - [Thinking About Thinking With LLMs](https://davi.sh/blog/2025/09/thinking-with-llms/)
 * [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
-* [2025-11-02, 07:03:14](https://lobste.rs/s/s3y1vj/how_i_use_every_claude_code_feature) - [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature)
 * [2025-11-02, 04:43:54](https://lobste.rs/s/sv7jos/visopsys_single_developer_visual) - [Visopsys single developer \"Visual Operating System\"](https://visopsys.org/)
 * [2025-11-01, 21:46:43](https://lobste.rs/s/2pi9sn/de_escalating_tailscale_cgnat_conflict) - [De-escalating Tailscale CGNAT conflict](https://ysun.co/tscgnat/)
 * [2025-11-01, 20:57:36](https://lobste.rs/s/rjsfgs/x_org_security_advisory_multiple) - [X.Org Security Advisory: multiple security issues X.Org X server and Xwayland](https://lists.x.org/archives/xorg-announce/2025-October/003635.html)
