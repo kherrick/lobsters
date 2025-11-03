@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-03, 23:08:16",
+      "https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on"
+    ],
+    [
+      "Bluetui - A TUI for managing bluetooth on Linux",
+      "https://github.com/pythops/bluetui"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 21:41:43",
       "https://lobste.rs/s/wsrjf8/agent_shell_0_17_improvements_melpa"
     ],
     [
       "agent-shell 0.17 improvements + MELPA",
       "https://xenodium.com/agent-shell-016-improvements-melpa"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 20:55:57",
+      "https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become"
+    ],
+    [
+      "Learning to read Arthur Whitney's C to become Smart",
+      "https://needleful.net/blog/2024/01/arthur_whitney.html"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-11-03, 16:50:22",
-      "https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck"
-    ],
-    [
-      "We found an embedding indexing bottleneck in JSON parsing",
-      "https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 16:06:26",
       "https://lobste.rs/s/l6q8rj/cheriot_1_0_released"
     ],
@@ -107,16 +117,6 @@
     [
       "Prefer boring technology",
       "https://itwont.work/blog/prefer-boring-technology"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 13:06:10",
-      "https://lobste.rs/s/bbfa6p/announcing_cgp_serde_modular"
-    ],
-    [
-      "Announcing cgp-serde: A modular serialization library for Serde powered by Context-Generic Programming",
-      "https://contextgeneric.dev/blog/cgp-serde-release/"
     ]
   ],
   [
