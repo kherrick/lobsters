@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 11:18:36",
+      "https://lobste.rs/s/cj8v8g/writing_asciidoc_parser_rust_asciidocr"
+    ],
+    [
+      "Writing an Asciidoc Parser in Rust: Asciidocr",
+      "https://www.bikesbooksandbullshit.com/bullshit/2025/01/08/writing-an-asciidoc-parser-in-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 10:47:29",
       "https://lobste.rs/s/wca9sz/cure_verification_first_programming_for"
     ],
@@ -187,16 +197,6 @@
     [
       "build system tradeoffs",
       "https://jyn.dev/build-system-tradeoffs"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 15:00:40",
-      "https://lobste.rs/s/hr2ojn/beautiful_concise_explanation_why_cycle"
-    ],
-    [
-      "Beautiful, concise explanation of why a cycle-accurate 6502 emulator is easier than not",
-      "https://github.com/bagnalla/6502"
     ]
   ],
   [
