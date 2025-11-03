@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-03, 02:50:44",
+      "https://lobste.rs/s/tbdvn9/control_structures_programming"
+    ],
+    [
+      "Control structures in programming languages",
+      "http://xavierleroy.org/control-structures/"
+    ]
+  ],
+  [
+    [
       "2025-11-03, 01:28:47",
       "https://lobste.rs/s/wjlvlz/monster_splash_double_hires_demo_for"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2025-11-02, 12:22:47",
+      "https://lobste.rs/s/yzbn8j/thinking_about_thinking_with_llms"
+    ],
+    [
+      "Thinking About Thinking With LLMs",
+      "https://davi.sh/blog/2025/09/thinking-with-llms/"
+    ]
+  ],
+  [
+    [
       "2025-11-02, 10:58:36",
       "https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again"
     ],
@@ -227,26 +247,6 @@
     [
       "Claude Code Can Debug Low-level Cryptography",
       "https://words.filippo.io/claude-debugging/"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 09:07:44",
-      "https://lobste.rs/s/xj4ncv/hard_rust_requirements_from_may_onward"
-    ],
-    [
-      "Hard Rust requirements from May onward",
-      "https://lists.debian.org/debian-devel/2025/10/msg00285.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-01, 09:05:00",
-      "https://lobste.rs/s/qxmiqs/on_purported_benefits_effect_systems"
-    ],
-    [
-      "On the purported benefits of effect systems",
-      "https://typesanitizer.com/blog/effects-convo.html"
     ]
   ]
 ]
