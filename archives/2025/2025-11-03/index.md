@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-03](index.md)
 
+* [2025-11-03, 15:41:39](https://lobste.rs/s/nwummg/browser_apis_web_s_free_saas) - [Browser APIs: The Web’s Free SaaS](https://blog.jim-nielsen.com/2025/browser-apis-as-sass/)
 * [2025-11-03, 15:02:25](https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite) - [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
 * [2025-11-03, 14:15:23](https://lobste.rs/s/sbrnnl/c_move_semantics_from_scratch_2022) - [C++ move semantics from scratch (2022)](https://cbarrete.com/move-from-scratch.html)
 * [2025-11-03, 13:37:57](https://lobste.rs/s/wtmtx3/how_get_meaningful_feedback_on_your) - [How to Get Meaningful Feedback on Your Design Document](https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/)
