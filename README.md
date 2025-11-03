@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-03, 15:41:39](https://lobste.rs/s/nwummg/browser_apis_web_s_free_saas) - [Browser APIs: The Web’s Free SaaS](https://blog.jim-nielsen.com/2025/browser-apis-as-sass/)
+* [2025-11-03, 16:50:22](https://lobste.rs/s/vtwb1e/we_found_embedding_indexing_bottleneck) - [We found an embedding indexing bottleneck in the most unexpected place: JSON parsing](https://nixiesearch.substack.com/p/we-found-an-embedding-indexing-bottleneck)
+* [2025-11-03, 16:06:26](https://lobste.rs/s/l6q8rj/cheriot_1_0_released) - [CHERIoT 1.0 Released](https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html)
 * [2025-11-03, 15:02:25](https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite) - [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
 * [2025-11-03, 14:15:23](https://lobste.rs/s/sbrnnl/c_move_semantics_from_scratch_2022) - [C++ move semantics from scratch (2022)](https://cbarrete.com/move-from-scratch.html)
 * [2025-11-03, 13:31:19](https://lobste.rs/s/mp8rib/prefer_boring_technology) - [Prefer boring technology](https://itwont.work/blog/prefer-boring-technology)
@@ -16,7 +17,6 @@
 * [2025-11-03, 04:47:06](https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with) - [Setting up a very simple home router with OpenBSD](https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/)
 * [2025-11-03, 02:50:44](https://lobste.rs/s/tbdvn9/control_structures_programming) - [Control structures in programming languages](http://xavierleroy.org/control-structures/)
 * [2025-11-03, 00:49:56](https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead) - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
-* [2025-11-02, 23:58:21](https://lobste.rs/s/ri4vd2/homotopy_type_theory_for_dummies) - [Homotopy Type Theory for Dummies](http://www.chriswarbo.net/blog/2015-09-11-hott_for_dummies.html)
 * [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021) - [I ****ing hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 22:52:04](https://lobste.rs/s/gig2wt/you_don_t_need_anubis) - [You don't need anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 21:55:03](https://lobste.rs/s/k4shdv/skeena_indigenous_typeface) - [Skeena Indigenous Typeface](https://microsoft.github.io/Skeena-Indigenous-Typeface/)
