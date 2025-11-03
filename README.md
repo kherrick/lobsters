@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-03, 15:02:25](https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite) - [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
+* [2025-11-03, 14:15:23](https://lobste.rs/s/sbrnnl/c_move_semantics_from_scratch_2022) - [C++ move semantics from scratch (2022)](https://cbarrete.com/move-from-scratch.html)
 * [2025-11-03, 13:37:57](https://lobste.rs/s/wtmtx3/how_get_meaningful_feedback_on_your) - [How to Get Meaningful Feedback on Your Design Document](https://refactoringenglish.com/chapters/useful-feedback-on-design-docs/)
 * [2025-11-03, 13:31:19](https://lobste.rs/s/mp8rib/prefer_boring_technology) - [Prefer boring technology](https://itwont.work/blog/prefer-boring-technology)
 * [2025-11-03, 13:06:10](https://lobste.rs/s/bbfa6p/announcing_cgp_serde_modular) - [Announcing cgp-serde: A modular serialization library for Serde powered by Context-Generic Programming](https://contextgeneric.dev/blog/cgp-serde-release/)
@@ -24,7 +25,6 @@
 * [2025-11-02, 15:10:45](https://lobste.rs/s/uwyfpy/build_system_tradeoffs) - [build system tradeoffs](https://jyn.dev/build-system-tradeoffs)
 * [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
 * [2025-11-02, 12:29:18](https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c) - [Notes by djb on using Fil-C](https://cr.yp.to/2025/fil-c.html)
-* [2025-11-02, 10:58:36](https://lobste.rs/s/raa8r6/using_freebsd_make_self_hosting_fun_again) - [Using FreeBSD to make self-hosting fun again](https://jsteuernagel.de/posts/using-freebsd-to-make-self-hosting-fun-again/)
 
 ## [Archives](archives/index.md)
 
