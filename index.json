@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-04, 06:56:36",
+      "https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video"
+    ],
+    [
+      "I want a good parallel language [video]",
+      "https://www.youtube.com/watch?v=0-eViUyPwso"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 04:52:39",
       "https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025"
     ],
@@ -27,6 +37,16 @@
     [
       "Free software scares normal people",
       "http://danieldelaney.net/normal/"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 23:08:16",
+      "https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on"
+    ],
+    [
+      "Bluetui - A TUI for managing bluetooth on Linux",
+      "https://github.com/pythops/bluetui"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-03, 10:47:29",
-      "https://lobste.rs/s/wca9sz/cure_verification_first_programming_for"
-    ],
-    [
-      "Cure - Verification-First Programming for the BEAM",
-      "https://cure-lang.org/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 09:24:39",
       "https://lobste.rs/s/7rhkpy/absurd_workflows_durable_execution_with"
     ],
@@ -227,16 +237,6 @@
     [
       "You don't need anubis",
       "https://fxgn.dev/blog/anubis/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 15:10:45",
-      "https://lobste.rs/s/uwyfpy/build_system_tradeoffs"
-    ],
-    [
-      "build system tradeoffs",
-      "https://jyn.dev/build-system-tradeoffs"
     ]
   ],
   [
