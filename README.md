@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
+* [2025-11-04, 14:07:57](https://lobste.rs/s/ugig3v/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-04, 12:37:17](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting) - [Tag proposal: self-hosting](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting)
 * [2025-11-04, 12:30:59](https://lobste.rs/s/pdizwd/aws_dynamodb_outage_analysis) - [AWS DynamoDB Outage Analysis](https://entropicthoughts.com/aws-dynamodb-outage-stpa)
 * [2025-11-04, 11:30:42](https://lobste.rs/s/jfoodj/reagami_minimal_zero_deps_reagent_like) - [reagami: A minimal zero-deps Reagent-like for Squint and ClojureScript](https://github.com/borkdude/reagami)
@@ -22,9 +24,7 @@
 * [2025-11-03, 16:06:26](https://lobste.rs/s/l6q8rj/cheriot_1_0_released) - [CHERIoT 1.0 Released](https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html)
 * [2025-11-03, 15:02:25](https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite) - [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
 * [2025-11-03, 12:18:50](https://lobste.rs/s/2eofir/a11y_css) - [a11y.css](https://ffoodd.github.io/a11y.css/)
-* [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021) - [I ****ing hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 22:52:04](https://lobste.rs/s/gig2wt/you_don_t_need_anubis) - [You don't need anubis](https://fxgn.dev/blog/anubis/)
-* [2025-11-02, 13:12:30](https://lobste.rs/s/ug6vbv/prison_my_own_making) - [A prison of my own making](https://jsteuernagel.de/posts/a-prison-of-my-own-making/)
 
 ## [Archives](archives/index.md)
 

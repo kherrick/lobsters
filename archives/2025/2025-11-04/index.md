@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
+* [2025-11-04, 14:07:57](https://lobste.rs/s/ugig3v/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-04, 12:37:17](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting) - [Tag proposal: self-hosting](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting)
 * [2025-11-04, 12:30:59](https://lobste.rs/s/pdizwd/aws_dynamodb_outage_analysis) - [AWS DynamoDB Outage Analysis](https://entropicthoughts.com/aws-dynamodb-outage-stpa)
 * [2025-11-04, 11:30:42](https://lobste.rs/s/jfoodj/reagami_minimal_zero_deps_reagent_like) - [reagami: A minimal zero-deps Reagent-like for Squint and CLJS](https://github.com/borkdude/reagami)
