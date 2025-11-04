@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-04, 16:37:08](https://lobste.rs/s/xn7tnt/suites_modern_unit_tests_framework_for) - [Suites – modern unit tests framework for TypeScript backends](https://github.com/suites-dev/suites)
+* [2025-11-04, 16:19:59](https://lobste.rs/s/xvwll1/you_don_t_need_kafka_building_message) - [You don't need Kafka: Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
 * [2025-11-04, 15:21:08](https://lobste.rs/s/cuq12x/reforging_rescript_build_system) - [Reforging the ReScript Build System](https://rescript-lang.org/blog/reforging-build-system)
 * [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
 * [2025-11-04, 14:07:57](https://lobste.rs/s/ugig3v/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
