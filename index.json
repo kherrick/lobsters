@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-04, 14:16:31",
+      "https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself"
+    ],
+    [
+      "I made a website that vibe-codes itself",
+      "https://theboard.stavros.io"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 14:07:57",
+      "https://lobste.rs/s/ugig3v/high_performance_2d_graphics_rendering"
+    ],
+    [
+      "High-performance 2D graphics rendering on the CPU using sparse strips",
+      "https://github.com/LaurenzV/master-thesis/blob/main/main.pdf"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 12:37:17",
       "https://lobste.rs/s/uxim1u/tag_proposal_self_hosting"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-11-02, 23:51:03",
-      "https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021"
-    ],
-    [
-      "I ****ing hate Science (2021)",
-      "https://buttondown.com/hillelwayne/archive/i-ing-hate-science/"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 22:52:04",
       "https://lobste.rs/s/gig2wt/you_don_t_need_anubis"
     ],
     [
       "You don't need anubis",
       "https://fxgn.dev/blog/anubis/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 13:12:30",
-      "https://lobste.rs/s/ug6vbv/prison_my_own_making"
-    ],
-    [
-      "A prison of my own making",
-      "https://jsteuernagel.de/posts/a-prison-of-my-own-making/"
     ]
   ]
 ]
