@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 16:37:08](https://lobste.rs/s/xn7tnt/suites_modern_unit_tests_framework_for) - [Suites – modern unit tests framework for TypeScript backends](https://github.com/suites-dev/suites)
 * [2025-11-04, 15:21:08](https://lobste.rs/s/cuq12x/reforging_rescript_build_system) - [Reforging the ReScript Build System](https://rescript-lang.org/blog/reforging-build-system)
 * [2025-11-04, 14:29:52](https://lobste.rs/s/ba2xow/canvas_for_collaborative_ai_agent) - [A canvas for collaborative AI agent orchestration](https://agor.live)
 * [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
