@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-04, 12:30:59",
+      "https://lobste.rs/s/pdizwd/aws_dynamodb_outage_analysis"
+    ],
+    [
+      "AWS DynamoDB Outage Analysis",
+      "https://entropicthoughts.com/aws-dynamodb-outage-stpa"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 11:30:42",
       "https://lobste.rs/s/jfoodj/reagami_minimal_zero_deps_reagent_like"
     ],
@@ -207,16 +217,6 @@
     [
       "Absurd Workflows: Durable Execution With Just Postgres",
       "https://lucumr.pocoo.org/2025/11/3/absurd-workflows"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 06:43:41",
-      "https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory"
-    ],
-    [
-      "Don't give Postgres too much memory",
-      "https://vondra.me/posts/dont-give-postgres-too-much-memory/"
     ]
   ],
   [
