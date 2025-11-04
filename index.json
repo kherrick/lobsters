@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-04, 12:37:17",
+      "https://lobste.rs/s/uxim1u/tag_proposal_self_hosting"
+    ],
+    [
+      "Tag proposal: self-hosting",
+      "https://lobste.rs/s/uxim1u/tag_proposal_self_hosting"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 12:30:59",
       "https://lobste.rs/s/pdizwd/aws_dynamodb_outage_analysis"
     ],
@@ -27,6 +37,16 @@
     [
       "This Month in Redox - October 2025",
       "https://www.redox-os.org/news/this-month-251031/"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 10:49:26",
+      "https://lobste.rs/s/rnt3rk/pain_points_ocaml"
+    ],
+    [
+      "Pain points of OCaml",
+      "https://quamserena.com/2025-11-03/pain-points-of-ocaml"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-11-03, 12:27:46",
-      "https://lobste.rs/s/neu41n/soiree_into_symbols_ruby"
-    ],
-    [
-      "A Soiree into Symbols in Ruby",
-      "https://tech.stonecharioteer.com/posts/2025/ruby-symbols/"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 12:18:50",
       "https://lobste.rs/s/2eofir/a11y_css"
     ],
     [
       "a11y.css",
       "https://ffoodd.github.io/a11y.css/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 09:24:39",
-      "https://lobste.rs/s/7rhkpy/absurd_workflows_durable_execution_with"
-    ],
-    [
-      "Absurd Workflows: Durable Execution With Just Postgres",
-      "https://lucumr.pocoo.org/2025/11/3/absurd-workflows"
     ]
   ],
   [
