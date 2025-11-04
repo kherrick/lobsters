@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-03, 23:08:16",
-      "https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on"
+      "2025-11-04, 00:05:16",
+      "https://lobste.rs/s/oftb3t/free_software_scares_normal_people"
     ],
     [
-      "Bluetui - A TUI for managing bluetooth on Linux",
-      "https://github.com/pythops/bluetui"
+      "Free software scares normal people",
+      "http://danieldelaney.net/normal/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "agent-shell 0.17 improvements + MELPA",
       "https://xenodium.com/agent-shell-016-improvements-melpa"
+    ]
+  ],
+  [
+    [
+      "2025-11-03, 21:09:59",
+      "https://lobste.rs/s/ckuhmd/defeating_kaslr_by_doing_nothing_at_all"
+    ],
+    [
+      "Defeating KASLR by Doing Nothing at All",
+      "https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Setting up a very simple home router with OpenBSD",
       "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 00:49:56",
-      "https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead"
-    ],
-    [
-      "Using Assisted-by commit footers instead of banning AI tools",
-      "https://xeiaso.net/notes/2025/assisted-by-footer/"
     ]
   ],
   [
