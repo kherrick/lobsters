@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-03, 23:08:16](https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on) - [Bluetui - A TUI for managing bluetooth on Linux](https://github.com/pythops/bluetui)
+* [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)
 * [2025-11-03, 21:41:43](https://lobste.rs/s/wsrjf8/agent_shell_0_17_improvements_melpa) - [agent-shell 0.17 improvements + MELPA](https://xenodium.com/agent-shell-016-improvements-melpa)
+* [2025-11-03, 21:09:59](https://lobste.rs/s/ckuhmd/defeating_kaslr_by_doing_nothing_at_all) - [Defeating KASLR by Doing Nothing at All](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
 * [2025-11-03, 20:55:57](https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become) - [Learning to read Arthur Whitney's C to become Smart](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 19:55:50](https://lobste.rs/s/lqvf6n/fetch_ening) - [The fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:40:00](https://lobste.rs/s/yc7dps/rdseed_failure_on_amd_zen_5_processors) - [RDSEED Failure on AMD “Zen 5” Processors](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html)
@@ -19,7 +20,6 @@
 * [2025-11-03, 06:43:41](https://lobste.rs/s/wiokzi/don_t_give_postgres_too_much_memory) - [Don't give Postgres too much memory](https://vondra.me/posts/dont-give-postgres-too-much-memory/)
 * [2025-11-03, 06:30:45](https://lobste.rs/s/j8dni3/why_don_t_you_use_dependent_types) - [\"Why don't you use dependent types?\"](https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html)
 * [2025-11-03, 04:47:06](https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with) - [Setting up a very simple home router with OpenBSD](https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/)
-* [2025-11-03, 00:49:56](https://lobste.rs/s/tthzlh/using_assisted_by_commit_footers_instead) - [Using Assisted-by commit footers instead of banning AI tools](https://xeiaso.net/notes/2025/assisted-by-footer/)
 * [2025-11-02, 23:51:03](https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021) - [I ****ing hate Science (2021)](https://buttondown.com/hillelwayne/archive/i-ing-hate-science/)
 * [2025-11-02, 22:52:04](https://lobste.rs/s/gig2wt/you_don_t_need_anubis) - [You don't need anubis](https://fxgn.dev/blog/anubis/)
 * [2025-11-02, 15:10:45](https://lobste.rs/s/uwyfpy/build_system_tradeoffs) - [build system tradeoffs](https://jyn.dev/build-system-tradeoffs)

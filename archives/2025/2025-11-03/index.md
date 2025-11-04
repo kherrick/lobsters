@@ -7,6 +7,7 @@
 * [2025-11-03, 23:08:16](https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on) - [Bluetui - A TUI for managing bluetooth on Linux](https://github.com/pythops/bluetui)
 * [2025-11-03, 21:41:43](https://lobste.rs/s/wsrjf8/agent_shell_0_17_improvements_melpa) - [agent-shell 0.17 improvements + MELPA](https://xenodium.com/agent-shell-016-improvements-melpa)
 * [2025-11-03, 21:21:42](https://lobste.rs/s/ek1thj/what_if_you_don_t_need_mcp_at_all) - [What if you don't need MCP at all?](https://mariozechner.at/posts/2025-11-02-what-if-you-dont-need-mcp/)
+* [2025-11-03, 21:09:59](https://lobste.rs/s/ckuhmd/defeating_kaslr_by_doing_nothing_at_all) - [Defeating KASLR by Doing Nothing at All](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
 * [2025-11-03, 20:55:57](https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become) - [Learning to read Arthur Whitney's C to become Smart](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 19:55:50](https://lobste.rs/s/lqvf6n/fetch_ening) - [The fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:40:00](https://lobste.rs/s/yc7dps/rdseed_failure_on_amd_zen_5_processors) - [RDSEED Failure on AMD “Zen 5” Processors](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html)
