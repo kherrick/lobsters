@@ -5,7 +5,7 @@
       "https://lobste.rs/s/jfoodj/reagami_minimal_zero_deps_reagent_like"
     ],
     [
-      "reagami: A minimal zero-deps Reagent-like for Squint and CLJS",
+      "reagami: A minimal zero-deps Reagent-like for Squint and ClojureScript",
       "https://github.com/borkdude/reagami"
     ]
   ],
