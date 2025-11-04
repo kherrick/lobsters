@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-04, 09:37:45",
+      "https://lobste.rs/s/ooxamp/jvm_exceptions_are_weird_decompiler"
+    ],
+    [
+      "JVM exceptions are weird: a decompiler perspective",
+      "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 06:56:36",
       "https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video"
     ],
@@ -167,16 +177,6 @@
     [
       "CAST(x AS STRING) casts to integer in SQLite",
       "https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 14:15:23",
-      "https://lobste.rs/s/sbrnnl/c_move_semantics_from_scratch_2022"
-    ],
-    [
-      "C++ move semantics from scratch (2022)",
-      "https://cbarrete.com/move-from-scratch.html"
     ]
   ],
   [
