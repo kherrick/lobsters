@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-04, 17:21:42",
+      "https://lobste.rs/s/ld2jef/on_async_mutexes"
+    ],
+    [
+      "On Async Mutexes",
+      "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 16:19:59",
       "https://lobste.rs/s/xvwll1/you_don_t_need_kafka_building_message"
     ],
@@ -207,16 +217,6 @@
     [
       "State of Terminal Emulators in 2025: The Errant Champions",
       "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 19:01:52",
-      "https://lobste.rs/s/qcx6fq/i_built_my_own_google_drive"
-    ],
-    [
-      "I Built My Own Google Drive",
-      "https://lorbic.com/i-built-my-own-google-drive/"
     ]
   ],
   [
