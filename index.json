@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-04, 04:52:39",
+      "https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025"
+    ],
+    [
+      "What laptops are Lobsters rocking in 2025?",
+      "https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 03:46:39",
+      "https://lobste.rs/s/rxe2bq/webassembly_arch_support_for_linux"
+    ],
+    [
+      "WebAssembly arch support for the Linux kernel",
+      "https://github.com/joelseverin/linux-wasm"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 00:05:16",
       "https://lobste.rs/s/oftb3t/free_software_scares_normal_people"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-11-03, 04:47:06",
-      "https://lobste.rs/s/cm7yfi/setting_up_very_simple_home_router_with"
-    ],
-    [
-      "Setting up a very simple home router with OpenBSD",
-      "https://www.blog.montgomerie.net/posts/2025-10-11-setting-up-a-very-simple-but-ipv6-capable-home-router-with-openbsd-7.7/"
-    ]
-  ],
-  [
-    [
       "2025-11-02, 23:51:03",
       "https://lobste.rs/s/q7wvs1/i_ing_hate_science_2021"
     ],
@@ -237,16 +247,6 @@
     [
       "A prison of my own making",
       "https://jsteuernagel.de/posts/a-prison-of-my-own-making/"
-    ]
-  ],
-  [
-    [
-      "2025-11-02, 12:29:18",
-      "https://lobste.rs/s/zc73xh/notes_by_djb_on_using_fil_c"
-    ],
-    [
-      "Notes by djb on using Fil-C",
-      "https://cr.yp.to/2025/fil-c.html"
     ]
   ]
 ]
