@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-04, 11:30:42](https://lobste.rs/s/jfoodj/reagami_minimal_zero_deps_reagent_like) - [reagami: A minimal zero-deps Reagent-like for Squint and CLJS](https://github.com/borkdude/reagami)
+* [2025-11-04, 11:30:42](https://lobste.rs/s/jfoodj/reagami_minimal_zero_deps_reagent_like) - [reagami: A minimal zero-deps Reagent-like for Squint and ClojureScript](https://github.com/borkdude/reagami)
 * [2025-11-04, 10:58:38](https://lobste.rs/s/isgtqx/this_month_redox_october_2025) - [This Month in Redox - October 2025](https://www.redox-os.org/news/this-month-251031/)
 * [2025-11-04, 06:56:36](https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-04, 05:10:33](https://lobste.rs/s/jrwaey/why_engineers_can_t_be_rational_about) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
