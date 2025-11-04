@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 10:58:38](https://lobste.rs/s/isgtqx/this_month_redox_october_2025) - [This Month in Redox - October 2025](https://www.redox-os.org/news/this-month-251031/)
 * [2025-11-04, 10:49:26](https://lobste.rs/s/rnt3rk/pain_points_ocaml) - [Pain points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 06:56:36](https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-04, 05:10:33](https://lobste.rs/s/jrwaey/why_engineers_can_t_be_rational_about) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)

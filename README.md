@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-04, 10:58:38](https://lobste.rs/s/isgtqx/this_month_redox_october_2025) - [This Month in Redox - October 2025](https://www.redox-os.org/news/this-month-251031/)
 * [2025-11-04, 10:49:26](https://lobste.rs/s/rnt3rk/pain_points_ocaml) - [Pain points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 06:56:36](https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-04, 05:10:33](https://lobste.rs/s/jrwaey/why_engineers_can_t_be_rational_about) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
@@ -8,7 +9,6 @@
 * [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)
 * [2025-11-03, 23:08:16](https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on) - [Bluetui - A TUI for managing bluetooth on Linux](https://github.com/pythops/bluetui)
 * [2025-11-03, 21:41:43](https://lobste.rs/s/wsrjf8/agent_shell_0_17_improvements_melpa) - [agent-shell 0.17 improvements + MELPA](https://xenodium.com/agent-shell-016-improvements-melpa)
-* [2025-11-03, 21:09:59](https://lobste.rs/s/ckuhmd/defeating_kaslr_by_doing_nothing_at_all) - [Defeating KASLR by Doing Nothing at All](https://googleprojectzero.blogspot.com/2025/11/defeating-kaslr-by-doing-nothing-at-all.html)
 * [2025-11-03, 20:55:57](https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become) - [Learning to read Arthur Whitney's C to become Smart](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 19:55:50](https://lobste.rs/s/lqvf6n/fetch_ening) - [The fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:40:00](https://lobste.rs/s/yc7dps/rdseed_failure_on_amd_zen_5_processors) - [RDSEED Failure on AMD “Zen 5” Processors](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html)
