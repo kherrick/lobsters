@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-04, 10:49:26",
+      "https://lobste.rs/s/rnt3rk/pain_points_ocaml"
+    ],
+    [
+      "Pain points of OCaml",
+      "https://quamserena.com/2025-11-03/pain-points-of-ocaml"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 06:56:36",
       "https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video"
     ],
@@ -207,16 +217,6 @@
     [
       "Don't give Postgres too much memory",
       "https://vondra.me/posts/dont-give-postgres-too-much-memory/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 06:30:45",
-      "https://lobste.rs/s/j8dni3/why_don_t_you_use_dependent_types"
-    ],
-    [
-      "\"Why don't you use dependent types?\"",
-      "https://lawrencecpaulson.github.io//2025/11/02/Why-not-dependent.html"
     ]
   ],
   [
