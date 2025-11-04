@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 14:29:52](https://lobste.rs/s/ba2xow/canvas_for_collaborative_ai_agent) - [A canvas for collaborative AI agent orchestration](https://agor.live)
 * [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
 * [2025-11-04, 14:07:57](https://lobste.rs/s/ugig3v/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://github.com/LaurenzV/master-thesis/blob/main/main.pdf)
 * [2025-11-04, 12:37:17](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting) - [Tag proposal: self-hosting](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting)
