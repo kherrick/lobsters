@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-05, 15:24:05",
+      "https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data"
+    ],
+    [
+      "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
+      "https://jstrieb.github.io/posts/random-instructions/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 15:16:59",
+      "https://lobste.rs/s/c2omhk/i_was_boring_meeting_so_i_made_ai"
+    ],
+    [
+      "I was in a boring meeting so I made an AI encyclopedia too",
+      "https://encyclopedai.stavros.io"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 14:55:01",
       "https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly"
     ],
@@ -27,16 +47,6 @@
     [
       "Zensical: A modern static site generator",
       "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 14:05:50",
-      "https://lobste.rs/s/fg3poc/why_baml"
-    ],
-    [
-      "Why BAML?",
-      "https://docs.boundaryml.com/guide/introduction/why-baml"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Tag proposal: self-hosting",
       "https://lobste.rs/s/uxim1u/tag_proposal_self_hosting"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 10:58:38",
-      "https://lobste.rs/s/isgtqx/this_month_redox_october_2025"
-    ],
-    [
-      "This Month in Redox - October 2025",
-      "https://www.redox-os.org/news/this-month-251031/"
     ]
   ],
   [
