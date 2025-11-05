@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 14:39:32](https://lobste.rs/s/929qoz/preventing_kubernetes_from_pulling) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 14:31:49](https://lobste.rs/s/vhfgkd/zensical_modern_static_site_generator) - [Zensical: A modern static site generator](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [2025-11-05, 14:05:50](https://lobste.rs/s/fg3poc/why_baml) - [Why BAML?](https://docs.boundaryml.com/guide/introduction/why-baml)
 * [2025-11-05, 12:27:04](https://lobste.rs/s/8vtfg7/strange_attractors) - [Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)

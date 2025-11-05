@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-05, 14:39:32](https://lobste.rs/s/929qoz/preventing_kubernetes_from_pulling) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 14:31:49](https://lobste.rs/s/vhfgkd/zensical_modern_static_site_generator) - [Zensical: A modern static site generator](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
 * [2025-11-05, 14:05:50](https://lobste.rs/s/fg3poc/why_baml) - [Why BAML?](https://docs.boundaryml.com/guide/introduction/why-baml)
 * [2025-11-05, 12:27:04](https://lobste.rs/s/8vtfg7/strange_attractors) - [Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
@@ -24,7 +25,6 @@
 * [2025-11-04, 05:10:33](https://lobste.rs/s/jrwaey/why_engineers_can_t_be_rational_about) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-04, 04:52:39](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025?](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025)
 * [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)
-* [2025-11-03, 19:36:22](https://lobste.rs/s/flln5g/state_terminal_emulators_2025_errant) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 
 ## [Archives](archives/index.md)
 
