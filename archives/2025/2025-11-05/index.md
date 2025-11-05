@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
+* [2025-11-05, 15:16:59](https://lobste.rs/s/c2omhk/i_was_boring_meeting_so_i_made_ai) - [I was in a boring meeting so I made an AI encyclopedia too](https://encyclopedai.stavros.io)
 * [2025-11-05, 14:55:01](https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 14:39:32](https://lobste.rs/s/929qoz/preventing_kubernetes_from_pulling) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 14:31:49](https://lobste.rs/s/vhfgkd/zensical_modern_static_site_generator) - [Zensical: A modern static site generator](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
