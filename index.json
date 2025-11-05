@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 04:34:59",
+      "https://lobste.rs/s/xk4bug/microsoft_softcard_for_apple_ii_two"
+    ],
+    [
+      "Microsoft SoftCard for Apple II: two processors, same memory",
+      "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 19:31:28",
       "https://lobste.rs/s/cfjvc4/porting_lean_esp32_c3_risc_v"
     ],
@@ -207,16 +217,6 @@
     [
       "The fetch()ening",
       "https://htmx.org/essays/the-fetchening/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 19:40:00",
-      "https://lobste.rs/s/yc7dps/rdseed_failure_on_amd_zen_5_processors"
-    ],
-    [
-      "RDSEED Failure on AMD “Zen 5” Processors",
-      "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html"
     ]
   ],
   [
