@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-11-04, 19:31:28",
-      "https://lobste.rs/s/cfjvc4/porting_lean_esp32_c3_risc_v"
-    ],
-    [
-      "Porting Lean to the ESP32-C3 RISC-V microcontroller",
-      "https://kuruczgy.com/blog/2024/07/31/lean-esp32/"
-    ]
-  ],
-  [
-    [
       "2025-11-04, 18:04:43",
       "https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip"
     ],
@@ -97,6 +87,16 @@
     [
       "On Async Mutexes",
       "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-04, 17:20:57",
+      "https://lobste.rs/s/ei1qwn/pg_lake_postgres_with_iceberg_data_lake"
+    ],
+    [
+      "pg_lake: Postgres with Iceberg and data lake access",
+      "https://github.com/Snowflake-Labs/pg_lake"
     ]
   ],
   [
