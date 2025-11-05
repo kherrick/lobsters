@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_backends) - [A Short Survey of Compiler Backends](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
 * [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-05, 09:44:38](https://lobste.rs/s/rpygtc/inside_isotemp_ocxo107_10_oven) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
@@ -20,7 +21,6 @@
 * [2025-11-04, 10:58:38](https://lobste.rs/s/isgtqx/this_month_redox_october_2025) - [This Month in Redox - October 2025](https://www.redox-os.org/news/this-month-251031/)
 * [2025-11-04, 10:49:26](https://lobste.rs/s/rnt3rk/pain_points_ocaml) - [Pain points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
 * [2025-11-04, 09:37:45](https://lobste.rs/s/ooxamp/jvm_exceptions_are_weird_decompiler) - [JVM exceptions are weird: a decompiler perspective](https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/)
-* [2025-11-04, 06:56:36](https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video) - [I want a good parallel language [video]](https://www.youtube.com/watch?v=0-eViUyPwso)
 * [2025-11-04, 05:10:33](https://lobste.rs/s/jrwaey/why_engineers_can_t_be_rational_about) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-04, 04:52:39](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025?](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025)
 * [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)

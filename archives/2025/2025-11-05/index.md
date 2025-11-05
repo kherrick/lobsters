@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_backends) - [A Short Survey of Compiler Backends](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
 * [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-05, 09:44:38](https://lobste.rs/s/rpygtc/inside_isotemp_ocxo107_10_oven) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
