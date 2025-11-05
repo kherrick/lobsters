@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 16:27:28](https://lobste.rs/s/8vhdqn/lixcon_2026) - [LixCon in 2026](https://lix.systems/blog/2025-11-05-lixcon-2026/)
 * [2025-11-05, 16:05:01](https://lobste.rs/s/543etf/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025 -- collected data](https://alopex.li/data/lobsters-laptops-2025.ods)
 * [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-05, 15:16:59](https://lobste.rs/s/c2omhk/i_was_boring_meeting_so_i_made_ai) - [I was in a boring meeting so I made an AI encyclopedia too](https://encyclopedai.stavros.io)

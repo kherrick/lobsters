@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-05, 16:27:28](https://lobste.rs/s/8vhdqn/lixcon_2026) - [LixCon in 2026](https://lix.systems/blog/2025-11-05-lixcon-2026/)
 * [2025-11-05, 16:05:01](https://lobste.rs/s/543etf/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025 -- collected data](https://alopex.li/data/lobsters-laptops-2025.ods)
 * [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-05, 14:55:01](https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
@@ -18,7 +19,6 @@
 * [2025-11-04, 18:01:22](https://lobste.rs/s/jhklpz/freebsd_officially_supported_oci) - [FreeBSD Officially Supported in OCI Runtime Specification v1.3](https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/)
 * [2025-11-04, 17:21:42](https://lobste.rs/s/ld2jef/on_async_mutexes) - [On Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
 * [2025-11-04, 16:19:59](https://lobste.rs/s/xvwll1/you_don_t_need_kafka_building_message) - [You don't need Kafka: Building a message queue with only two UNIX signals](https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals)
-* [2025-11-04, 15:21:08](https://lobste.rs/s/cuq12x/reforging_rescript_build_system) - [Reforging the ReScript Build System](https://rescript-lang.org/blog/reforging-build-system)
 * [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
 * [2025-11-04, 12:37:17](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting) - [Tag proposal: self-hosting](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting)
 * [2025-11-04, 10:49:26](https://lobste.rs/s/rnt3rk/pain_points_ocaml) - [Pain points of OCaml](https://quamserena.com/2025-11-03/pain-points-of-ocaml)
