@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-04, 19:31:28](https://lobste.rs/s/cfjvc4/porting_lean_esp32_c3_risc_v) - [Porting Lean to the ESP32-C3 RISC-V microcontroller](https://kuruczgy.com/blog/2024/07/31/lean-esp32/)
 * [2025-11-04, 18:04:43](https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 * [2025-11-04, 18:01:22](https://lobste.rs/s/jhklpz/freebsd_officially_supported_oci) - [FreeBSD Officially Supported in OCI Runtime Specification v1.3](https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/)
 * [2025-11-04, 17:21:42](https://lobste.rs/s/ld2jef/on_async_mutexes) - [On Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
@@ -18,7 +19,6 @@
 * [2025-11-04, 04:52:39](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025?](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025)
 * [2025-11-04, 03:46:39](https://lobste.rs/s/rxe2bq/webassembly_arch_support_for_linux) - [WebAssembly arch support for the Linux kernel](https://github.com/joelseverin/linux-wasm)
 * [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)
-* [2025-11-03, 23:08:16](https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on) - [Bluetui - A TUI for managing bluetooth on Linux](https://github.com/pythops/bluetui)
 * [2025-11-03, 20:55:57](https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become) - [Learning to read Arthur Whitney's C to become Smart](https://needleful.net/blog/2024/01/arthur_whitney.html)
 * [2025-11-03, 19:55:50](https://lobste.rs/s/lqvf6n/fetch_ening) - [The fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:40:00](https://lobste.rs/s/yc7dps/rdseed_failure_on_amd_zen_5_processors) - [RDSEED Failure on AMD “Zen 5” Processors](https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html)

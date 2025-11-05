@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-04](index.md)
 
+* [2025-11-04, 19:31:28](https://lobste.rs/s/cfjvc4/porting_lean_esp32_c3_risc_v) - [Porting Lean to the ESP32-C3 RISC-V microcontroller](https://kuruczgy.com/blog/2024/07/31/lean-esp32/)
 * [2025-11-04, 18:04:43](https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 * [2025-11-04, 18:01:22](https://lobste.rs/s/jhklpz/freebsd_officially_supported_oci) - [FreeBSD Officially Supported in OCI Runtime Specification v1.3](https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/)
 * [2025-11-04, 17:21:42](https://lobste.rs/s/ld2jef/on_async_mutexes) - [On Async Mutexes](https://matklad.github.io/2025/11/04/on-async-mutexes.html)
