@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 14:39:32",
+      "https://lobste.rs/s/929qoz/preventing_kubernetes_from_pulling"
+    ],
+    [
+      "Preventing Kubernetes from Pulling the Pause Image from the Internet",
+      "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 14:31:49",
       "https://lobste.rs/s/vhfgkd/zensical_modern_static_site_generator"
     ],
@@ -237,16 +247,6 @@
     [
       "Free software scares normal people",
       "http://danieldelaney.net/normal/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 19:36:22",
-      "https://lobste.rs/s/flln5g/state_terminal_emulators_2025_errant"
-    ],
-    [
-      "State of Terminal Emulators in 2025: The Errant Champions",
-      "https://www.jeffquast.com/post/state-of-terminal-emulation-2025/"
     ]
   ]
 ]
