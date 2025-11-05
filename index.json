@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 11:37:40",
+      "https://lobste.rs/s/ctbibn/short_survey_compiler_backends"
+    ],
+    [
+      "A Short Survey of Compiler Backends",
+      "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 10:35:54",
       "https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version"
     ],
@@ -197,16 +207,6 @@
     [
       "JVM exceptions are weird: a decompiler perspective",
       "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 06:56:36",
-      "https://lobste.rs/s/ijirtg/i_want_good_parallel_language_video"
-    ],
-    [
-      "I want a good parallel language [video]",
-      "https://www.youtube.com/watch?v=0-eViUyPwso"
     ]
   ],
   [
