@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 14:05:50",
+      "https://lobste.rs/s/fg3poc/why_baml"
+    ],
+    [
+      "Why BAML?",
+      "https://docs.boundaryml.com/guide/introduction/why-baml"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 12:27:04",
       "https://lobste.rs/s/8vtfg7/strange_attractors"
     ],
@@ -197,16 +207,6 @@
     [
       "Pain points of OCaml",
       "https://quamserena.com/2025-11-03/pain-points-of-ocaml"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 09:37:45",
-      "https://lobste.rs/s/ooxamp/jvm_exceptions_are_weird_decompiler"
-    ],
-    [
-      "JVM exceptions are weird: a decompiler perspective",
-      "https://purplesyringa.moe/blog/jvm-exceptions-are-weird-a-decompiler-perspective/"
     ]
   ],
   [
