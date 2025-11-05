@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
+* [2025-11-05, 18:54:24](https://lobste.rs/s/bs7gqr/by_power_grayscale) - [By the power of grayscale](https://zserge.com/posts/grayskull/)
 * [2025-11-05, 18:20:31](https://lobste.rs/s/qf0qls/bikeshedding_handle_other_follow_up) - [Bikeshedding `Handle` and other follow-up thoughts](https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 * [2025-11-05, 17:02:48](https://lobste.rs/s/lkuzol/oss_security_runc_container_breakouts) - [oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881](https://www.openwall.com/lists/oss-security/2025/11/05/3)
@@ -17,7 +18,6 @@
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
 * [2025-11-05, 05:33:18](https://lobste.rs/s/mncjin/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://cofault.com/aodt.html)
-* [2025-11-05, 04:34:59](https://lobste.rs/s/xk4bug/microsoft_softcard_for_apple_ii_two) - [Microsoft SoftCard for Apple II: two processors, same memory](https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758)
 * [2025-11-05, 01:59:01](https://lobste.rs/s/xuggiu/mr_tiff) - [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
 * [2025-11-04, 18:04:43](https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 * [2025-11-04, 18:01:22](https://lobste.rs/s/jhklpz/freebsd_officially_supported_oci) - [FreeBSD Officially Supported in OCI Runtime Specification v1.3](https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/)
