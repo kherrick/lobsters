@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-11-05, 16:58:16",
-      "https://lobste.rs/s/sn80to/using_xdp_for_egress_traffic"
-    ],
-    [
-      "Using XDP for Egress Traffic",
-      "https://www.loopholelabs.io/blog/xdp-for-egress-traffic"
-    ]
-  ],
-  [
-    [
       "2025-11-05, 16:27:28",
       "https://lobste.rs/s/8vhdqn/lixcon_2026"
     ],
@@ -77,6 +67,16 @@
     [
       "Recursive macros in C, demystified (once the ugly crying stops)",
       "https://h4x0r.org/big-mac-ro-attack/"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 14:39:32",
+      "https://lobste.rs/s/929qoz/preventing_kubernetes_from_pulling"
+    ],
+    [
+      "Preventing Kubernetes from Pulling the Pause Image from the Internet",
+      "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/"
     ]
   ],
   [
