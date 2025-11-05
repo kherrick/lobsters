@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-05, 21:48:46](https://lobste.rs/s/oza6kh/snakemake) - [Snakemake](https://danmackinlay.name/notebook/snakemake.html)
+* [2025-11-05, 20:49:55](https://lobste.rs/s/msqatl/state_simd_rust_2025) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 18:54:24](https://lobste.rs/s/bs7gqr/by_power_grayscale) - [By the power of grayscale](https://zserge.com/posts/grayskull/)
 * [2025-11-05, 18:20:31](https://lobste.rs/s/qf0qls/bikeshedding_handle_other_follow_up) - [Bikeshedding `Handle` and other follow-up thoughts](https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/)
@@ -15,7 +16,6 @@
 * [2025-11-05, 12:27:04](https://lobste.rs/s/8vtfg7/strange_attractors) - [Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_targets) - [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
 * [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
-* [2025-11-05, 09:44:38](https://lobste.rs/s/rpygtc/inside_isotemp_ocxo107_10_oven) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
 * [2025-11-05, 05:33:18](https://lobste.rs/s/mncjin/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://cofault.com/aodt.html)
