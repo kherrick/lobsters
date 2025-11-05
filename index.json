@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 06:22:49",
+      "https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration"
+    ],
+    [
+      "Things I Don't Like in Configuration Languages",
+      "https://medv.io/blog/things-i-dont-like-in-configuration-languages"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 05:33:18",
       "https://lobste.rs/s/mncjin/what_is_cosh_list_bool_beyond_algebra"
     ],
@@ -17,6 +27,16 @@
     [
       "Microsoft SoftCard for Apple II: two processors, same memory",
       "https://devblogs.microsoft.com/oldnewthing/20251104-00/?p=111758"
+    ]
+  ],
+  [
+    [
+      "2025-11-05, 01:59:01",
+      "https://lobste.rs/s/xuggiu/mr_tiff"
+    ],
+    [
+      "Mr TIFF",
+      "https://inventingthefuture.ghost.io/mr-tiff/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-03, 20:55:57",
-      "https://lobste.rs/s/snct9i/learning_read_arthur_whitney_s_c_become"
-    ],
-    [
-      "Learning to read Arthur Whitney's C to become Smart",
-      "https://needleful.net/blog/2024/01/arthur_whitney.html"
-    ]
-  ],
-  [
-    [
       "2025-11-03, 19:55:50",
       "https://lobste.rs/s/lqvf6n/fetch_ening"
     ],
@@ -237,16 +247,6 @@
     [
       "CHERIoT 1.0 Released",
       "https://cheriot.org/sail/specification/release/2025/11/03/cheriot-1.0.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 15:02:25",
-      "https://lobste.rs/s/tqwmbn/cast_x_as_string_casts_integer_sqlite"
-    ],
-    [
-      "CAST(x AS STRING) casts to integer in SQLite",
-      "https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/"
     ]
   ]
 ]
