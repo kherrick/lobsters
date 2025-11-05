@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-05, 16:05:01](https://lobste.rs/s/543etf/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025 -- collected data](https://alopex.li/data/lobsters-laptops-2025.ods)
 * [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-05, 14:55:01](https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 14:39:32](https://lobste.rs/s/929qoz/preventing_kubernetes_from_pulling) - [Preventing Kubernetes from Pulling the Pause Image from the Internet](https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/)
 * [2025-11-05, 14:31:49](https://lobste.rs/s/vhfgkd/zensical_modern_static_site_generator) - [Zensical: A modern static site generator](https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/)
-* [2025-11-05, 14:05:50](https://lobste.rs/s/fg3poc/why_baml) - [Why BAML?](https://docs.boundaryml.com/guide/introduction/why-baml)
 * [2025-11-05, 12:27:04](https://lobste.rs/s/8vtfg7/strange_attractors) - [Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_targets) - [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
 * [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
