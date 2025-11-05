@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 14:05:50](https://lobste.rs/s/fg3poc/why_baml) - [Why BAML?](https://docs.boundaryml.com/guide/introduction/why-baml)
 * [2025-11-05, 12:27:04](https://lobste.rs/s/8vtfg7/strange_attractors) - [Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_backends) - [A Short Survey of Compiler Backends](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
 * [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
