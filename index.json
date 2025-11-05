@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-04, 19:31:28",
+      "https://lobste.rs/s/cfjvc4/porting_lean_esp32_c3_risc_v"
+    ],
+    [
+      "Porting Lean to the ESP32-C3 RISC-V microcontroller",
+      "https://kuruczgy.com/blog/2024/07/31/lean-esp32/"
+    ]
+  ],
+  [
+    [
       "2025-11-04, 18:04:43",
       "https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip"
     ],
@@ -177,16 +187,6 @@
     [
       "Free software scares normal people",
       "http://danieldelaney.net/normal/"
-    ]
-  ],
-  [
-    [
-      "2025-11-03, 23:08:16",
-      "https://lobste.rs/s/l5zmd0/bluetui_tui_for_managing_bluetooth_on"
-    ],
-    [
-      "Bluetui - A TUI for managing bluetooth on Linux",
-      "https://github.com/pythops/bluetui"
     ]
   ],
   [
