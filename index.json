@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 07:22:12",
+      "https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers"
+    ],
+    [
+      "Announcing the Rust Foundation Maintainers Fund",
+      "https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 06:22:49",
       "https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration"
     ],
@@ -77,16 +87,6 @@
     [
       "On Async Mutexes",
       "https://matklad.github.io/2025/11/04/on-async-mutexes.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 17:20:57",
-      "https://lobste.rs/s/ei1qwn/pg_lake_postgres_with_iceberg_data_lake"
-    ],
-    [
-      "pg_lake: Postgres with Iceberg and data lake access",
-      "https://github.com/Snowflake-Labs/pg_lake"
     ]
   ],
   [
