@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-05, 21:48:46",
+      "https://lobste.rs/s/oza6kh/snakemake"
+    ],
+    [
+      "Snakemake",
+      "https://danmackinlay.name/notebook/snakemake.html"
+    ]
+  ],
+  [
+    [
       "2025-11-05, 18:56:33",
       "https://lobste.rs/s/kiqqjt/announcing_development_on_flirt"
     ],
@@ -207,16 +217,6 @@
     [
       "FreeBSD Officially Supported in OCI Runtime Specification v1.3",
       "https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 16:19:59",
-      "https://lobste.rs/s/xvwll1/you_don_t_need_kafka_building_message"
-    ],
-    [
-      "You don't need Kafka: Building a message queue with only two UNIX signals",
-      "https://leandronsp.com/articles/you-dont-need-kafka-building-a-message-queue-with-only-two-unix-signals"
     ]
   ],
   [
