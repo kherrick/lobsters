@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-05, 09:44:38](https://lobste.rs/s/rpygtc/inside_isotemp_ocxo107_10_oven) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)

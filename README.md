@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-05, 09:44:38](https://lobste.rs/s/rpygtc/inside_isotemp_ocxo107_10_oven) - [Inside an Isotemp OCXO107-10 Oven Controlled Crystal Oscillator](https://tomverbeure.github.io/2025/10/26/Inside-an-Isotemp-OCXO107-10.html)
 * [2025-11-05, 07:22:12](https://lobste.rs/s/cvcjiz/announcing_rust_foundation_maintainers) - [Announcing the Rust Foundation Maintainers Fund](https://rustfoundation.org/media/announcing-the-rust-foundation-maintainers-fund/)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
@@ -23,7 +24,6 @@
 * [2025-11-04, 05:10:33](https://lobste.rs/s/jrwaey/why_engineers_can_t_be_rational_about) - [Why Engineers Can't Be Rational About Programming Languages](https://spf13.com/p/the-hidden-conversation/)
 * [2025-11-04, 04:52:39](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025) - [What laptops are Lobsters rocking in 2025?](https://lobste.rs/s/wjs6o2/what_laptops_are_lobsters_rocking_2025)
 * [2025-11-04, 00:05:16](https://lobste.rs/s/oftb3t/free_software_scares_normal_people) - [Free software scares normal people](http://danieldelaney.net/normal/)
-* [2025-11-03, 19:55:50](https://lobste.rs/s/lqvf6n/fetch_ening) - [The fetch()ening](https://htmx.org/essays/the-fetchening/)
 * [2025-11-03, 19:36:22](https://lobste.rs/s/flln5g/state_terminal_emulators_2025_errant) - [State of Terminal Emulators in 2025: The Errant Champions](https://www.jeffquast.com/post/state-of-terminal-emulation-2025/)
 
 ## [Archives](archives/index.md)
