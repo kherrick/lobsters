@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-06, 08:27:55",
+      "https://lobste.rs/s/t9ojvz/buildxl_sandboxing"
+    ],
+    [
+      "BuildXL Sandboxing",
+      "https://github.com/microsoft/BuildXL/blob/main/Documentation/Specs/Sandboxing.md"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 07:57:00",
       "https://lobste.rs/s/zqfr31/radiant_computer"
     ],
@@ -207,16 +217,6 @@
     [
       "Things I Don't Like in Configuration Languages",
       "https://medv.io/blog/things-i-dont-like-in-configuration-languages"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 05:33:18",
-      "https://lobste.rs/s/mncjin/what_is_cosh_list_bool_beyond_algebra"
-    ],
-    [
-      "What is cosh(List(Bool))? Or beyond algebra: analysis of data types",
-      "https://cofault.com/aodt.html"
     ]
   ],
   [
