@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-06, 02:36:33](https://lobste.rs/s/hjqvde/try_out_jep_401_value_classes_objects) - [Try Out JEP 401 Value Classes and Objects](https://inside.java/2025/10/27/try-jep-401-value-classes/)
 * [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
 * [2025-11-05, 23:45:15](https://lobste.rs/s/otkkyl/lost_ibm_pc_at_model_analyzing_newfound) - [A Lost IBM PC/AT Model? Analyzing a Newfound Old BIOS](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
-* [2025-11-05, 21:48:46](https://lobste.rs/s/oza6kh/snakemake) - [Snakemake](https://danmackinlay.name/notebook/snakemake.html)
 * [2025-11-05, 20:49:55](https://lobste.rs/s/msqatl/state_simd_rust_2025) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 18:54:24](https://lobste.rs/s/bs7gqr/by_power_grayscale) - [By the power of grayscale](https://zserge.com/posts/grayskull/)
