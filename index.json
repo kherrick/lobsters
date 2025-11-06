@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-06, 19:45:49",
+      "https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting"
+    ],
+    [
+      "When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug",
+      "https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 19:23:24",
       "https://lobste.rs/s/zvyspo/mastodon_4_5"
     ],
@@ -227,16 +237,6 @@
     [
       "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
       "https://jstrieb.github.io/posts/random-instructions/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 14:55:01",
-      "https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly"
-    ],
-    [
-      "Recursive macros in C, demystified (once the ugly crying stops)",
-      "https://h4x0r.org/big-mac-ro-attack/"
     ]
   ],
   [
