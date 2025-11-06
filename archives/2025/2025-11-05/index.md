@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-05](index.md)
 
+* [2025-11-05, 23:45:15](https://lobste.rs/s/otkkyl/lost_ibm_pc_at_model_analyzing_newfound) - [A Lost IBM PC/AT Model? Analyzing a Newfound Old BIOS](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 21:48:46](https://lobste.rs/s/oza6kh/snakemake) - [Snakemake](https://danmackinlay.name/notebook/snakemake.html)
 * [2025-11-05, 20:49:55](https://lobste.rs/s/msqatl/state_simd_rust_2025) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 20:33:26](https://lobste.rs/s/kodv73/how_set_slos_drive_improvements_make) - [How to set SLOs, drive improvements, and make friends](https://www.youtube.com/watch?v=RvFaUofjvYM&t=2s)

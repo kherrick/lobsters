@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-05, 23:45:15](https://lobste.rs/s/otkkyl/lost_ibm_pc_at_model_analyzing_newfound) - [A Lost IBM PC/AT Model? Analyzing a Newfound Old BIOS](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 21:48:46](https://lobste.rs/s/oza6kh/snakemake) - [Snakemake](https://danmackinlay.name/notebook/snakemake.html)
 * [2025-11-05, 20:49:55](https://lobste.rs/s/msqatl/state_simd_rust_2025) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
 * [2025-11-05, 20:33:26](https://lobste.rs/s/kodv73/how_set_slos_drive_improvements_make) - [How to set SLOs, drive improvements, and make friends](https://www.youtube.com/watch?v=RvFaUofjvYM&t=2s)
@@ -23,7 +24,6 @@
 * [2025-11-05, 01:59:01](https://lobste.rs/s/xuggiu/mr_tiff) - [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
 * [2025-11-04, 18:04:43](https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 * [2025-11-04, 18:01:22](https://lobste.rs/s/jhklpz/freebsd_officially_supported_oci) - [FreeBSD Officially Supported in OCI Runtime Specification v1.3](https://freebsdfoundation.org/blog/freebsd-officially-supported-in-oci-runtime-specification-v1-3/)
-* [2025-11-04, 14:16:31](https://lobste.rs/s/drrzx2/i_made_website_vibe_codes_itself) - [I made a website that vibe-codes itself](https://theboard.stavros.io)
 * [2025-11-04, 12:37:17](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting) - [Tag proposal: self-hosting](https://lobste.rs/s/uxim1u/tag_proposal_self_hosting)
 
 ## [Archives](archives/index.md)
