@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 14:49:40](https://lobste.rs/s/7quq6b/upgrade_puma_7_unlock_power_fair) - [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/)
 * [2025-11-06, 14:15:11](https://lobste.rs/s/yr6l6l/building_blobd_single_machine_object) - [Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads](https://blog.wilsonl.in/blobd/)
 * [2025-11-06, 13:04:34](https://lobste.rs/s/khcpvl/jujutsu_v0_35_0_released) - [jujutsu v0.35.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.35.0)
@@ -23,7 +24,6 @@
 * [2025-11-05, 14:55:01](https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 12:27:04](https://lobste.rs/s/8vtfg7/strange_attractors) - [Strange Attractors](https://blog.shashanktomar.com/posts/strange-attractors)
 * [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_targets) - [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
-* [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
 
 ## [Archives](archives/index.md)

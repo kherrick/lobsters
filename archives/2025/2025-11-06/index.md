@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 14:49:40](https://lobste.rs/s/7quq6b/upgrade_puma_7_unlock_power_fair) - [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/)
 * [2025-11-06, 14:33:15](https://lobste.rs/s/jnlaxk/on_ai_slop_vs_oss_security) - [On AI Slop vs OSS Security](https://devansh.bearblog.dev/ai-slop/)
 * [2025-11-06, 14:15:11](https://lobste.rs/s/yr6l6l/building_blobd_single_machine_object) - [Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads](https://blog.wilsonl.in/blobd/)
