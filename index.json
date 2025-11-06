@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-06, 10:47:18",
+      "https://lobste.rs/s/qzwcu2/self_hosting_your_mastodon_media_with"
+    ],
+    [
+      "Self-hosting your Mastodon media with SeaweedFS",
+      "https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 08:44:53",
       "https://lobste.rs/s/voume0/security_model_for_systemd"
     ],
@@ -157,16 +167,6 @@
     [
       "Preventing Kubernetes from Pulling the Pause Image from the Internet",
       "https://kyle.cascade.family/posts/preventing-kubernetes-from-pulling-the-pause-image-from-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 14:31:49",
-      "https://lobste.rs/s/vhfgkd/zensical_modern_static_site_generator"
-    ],
-    [
-      "Zensical: A modern static site generator",
-      "https://squidfunk.github.io/mkdocs-material/blog/2025/11/05/zensical/"
     ]
   ],
   [
