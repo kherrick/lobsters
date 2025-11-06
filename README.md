@@ -2,6 +2,7 @@
 
 * [2025-11-06, 17:01:05](https://lobste.rs/s/o0qojo/tla_modeling_aws_outage_dns_race) - [TLA+ Modeling of AWS outage DNS race condition](http://muratbuffalo.blogspot.com/2025/11/tla-modeling-of-aws-outage-dns-race.html)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
+* [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-06, 15:40:35](https://lobste.rs/s/whimuu/8pen_input_method_for_phones_2010) - [The 8pen input method for phones [2010]](https://www.youtube.com/watch?v=q3OuCR0EpGo)
 * [2025-11-06, 14:49:40](https://lobste.rs/s/7quq6b/upgrade_puma_7_unlock_power_fair) - [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/)
 * [2025-11-06, 14:15:11](https://lobste.rs/s/yr6l6l/building_blobd_single_machine_object) - [Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads](https://blog.wilsonl.in/blobd/)
@@ -24,7 +25,6 @@
 * [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-05, 14:55:01](https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
 * [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_targets) - [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
-* [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
 
 ## [Archives](archives/index.md)
 
