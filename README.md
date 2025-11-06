@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-06, 13:04:34](https://lobste.rs/s/khcpvl/jujutsu_v0_35_0_released) - [jujutsu v0.35.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.35.0)
 * [2025-11-06, 12:03:39](https://lobste.rs/s/7xyd7l/how_i_fell_love_with_calendar_txt) - [How I fell in love with calendar.txt](https://ploum.net/2025-09-03-calendar-txt.html)
 * [2025-11-06, 11:24:16](https://lobste.rs/s/ywvatn/note_on_fil_c) - [A note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-06, 11:15:31](https://lobste.rs/s/eqijnm/gem_coop_update_1) - [gem.coop update #1](https://gem.coop/updates/1/)
@@ -23,7 +24,6 @@
 * [2025-11-05, 11:37:40](https://lobste.rs/s/ctbibn/short_survey_compiler_targets) - [A Short Survey of Compiler Targets](https://abhinavsarkar.net/notes/2025-compiler-backend-survey/)
 * [2025-11-05, 10:35:54](https://lobste.rs/s/hk9jux/apps_apple_com_app_store_web_version) - [apps.apple.com: App Store web version](https://github.com/rxliuli/apps.apple.com)
 * [2025-11-05, 06:22:49](https://lobste.rs/s/zhzxfg/things_i_don_t_like_configuration) - [Things I Don't Like in Configuration Languages](https://medv.io/blog/things-i-dont-like-in-configuration-languages)
-* [2025-11-05, 01:59:01](https://lobste.rs/s/xuggiu/mr_tiff) - [Mr TIFF](https://inventingthefuture.ghost.io/mr-tiff/)
 * [2025-11-04, 18:04:43](https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip) - [SocketAddrV6 is not roundtrip serializable](https://sunshowers.io/posts/socketaddrv6-not-roundtrip/)
 
 ## [Archives](archives/index.md)
