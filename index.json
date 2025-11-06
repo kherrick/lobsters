@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-06, 14:33:15",
+      "https://lobste.rs/s/jnlaxk/on_ai_slop_vs_oss_security"
+    ],
+    [
+      "On AI Slop vs OSS Security",
+      "https://devansh.bearblog.dev/ai-slop/"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 14:15:11",
+      "https://lobste.rs/s/yr6l6l/building_blobd_single_machine_object"
+    ],
+    [
+      "Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads",
+      "https://blog.wilsonl.in/blobd/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 13:04:34",
       "https://lobste.rs/s/khcpvl/jujutsu_v0_35_0_released"
     ],
@@ -97,16 +117,6 @@
     [
       "Mörk - a Commonmark compliant markdown parser written in Gleam",
       "https://hexdocs.pm/mork/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 23:45:15",
-      "https://lobste.rs/s/otkkyl/lost_ibm_pc_at_model_analyzing_newfound"
-    ],
-    [
-      "A Lost IBM PC/AT Model? Analyzing a Newfound Old BIOS",
-      "https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Things I Don't Like in Configuration Languages",
       "https://medv.io/blog/things-i-dont-like-in-configuration-languages"
-    ]
-  ],
-  [
-    [
-      "2025-11-04, 18:04:43",
-      "https://lobste.rs/s/vq2xdc/socketaddrv6_is_not_roundtrip"
-    ],
-    [
-      "SocketAddrV6 is not roundtrip serializable",
-      "https://sunshowers.io/posts/socketaddrv6-not-roundtrip/"
     ]
   ]
 ]
