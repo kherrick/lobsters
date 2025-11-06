@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-06](index.md)
 
+* [2025-11-06, 19:45:49](https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting) - [When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-06, 19:23:24](https://lobste.rs/s/zvyspo/mastodon_4_5) - [Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)
 * [2025-11-06, 18:38:40](https://lobste.rs/s/i67ufs/code_research_projects_with_async_coding) - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
 * [2025-11-06, 18:15:44](https://lobste.rs/s/4pf7hy/exceptions_cranelift_wasmtime) - [Exceptions in Cranelift and Wasmtime](https://cfallin.org/blog/2025/11/06/exceptions/)
