@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-06, 22:47:52",
+      "https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah"
+    ],
+    [
+      "Unix V4 tape found at The University of Utah",
+      "https://phanpy.social/#/hachyderm.io/s/115504720323483804"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 19:45:49",
       "https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting"
     ],
@@ -237,16 +247,6 @@
     [
       "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
       "https://jstrieb.github.io/posts/random-instructions/"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 11:37:40",
-      "https://lobste.rs/s/ctbibn/short_survey_compiler_targets"
-    ],
-    [
-      "A Short Survey of Compiler Targets",
-      "https://abhinavsarkar.net/notes/2025-compiler-backend-survey/"
     ]
   ]
 ]
