@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-06, 18:38:40](https://lobste.rs/s/i67ufs/code_research_projects_with_async_coding) - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
+* [2025-11-06, 17:51:09](https://lobste.rs/s/cziig7/man_pages_part_1) - [Man Pages (Part 1)](https://abochannek.github.io/utilities/2024/12/08/man-pages.html)
 * [2025-11-06, 17:01:05](https://lobste.rs/s/o0qojo/tla_modeling_aws_outage_dns_race) - [TLA+ Modeling of AWS outage DNS race condition](http://muratbuffalo.blogspot.com/2025/11/tla-modeling-of-aws-outage-dns-race.html)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
@@ -18,9 +20,7 @@
 * [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 18:54:24](https://lobste.rs/s/bs7gqr/by_power_grayscale) - [By the power of grayscale](https://zserge.com/posts/grayskull/)
-* [2025-11-05, 18:20:31](https://lobste.rs/s/qf0qls/bikeshedding_handle_other_follow_up) - [Bikeshedding `Handle` and other follow-up thoughts](https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
-* [2025-11-05, 17:02:48](https://lobste.rs/s/lkuzol/oss_security_runc_container_breakouts) - [oss-security - runc container breakouts via procfs writes: CVE-2025-31133, CVE-2025-52565, and CVE-2025-52881](https://www.openwall.com/lists/oss-security/2025/11/05/3)
 * [2025-11-05, 16:27:28](https://lobste.rs/s/8vhdqn/lixcon_2026) - [LixCon in 2026](https://lix.systems/blog/2025-11-05-lixcon-2026/)
 * [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
 * [2025-11-05, 14:55:01](https://lobste.rs/s/qxwozm/recursive_macros_c_demystified_once_ugly) - [Recursive macros in C, demystified (once the ugly crying stops)](https://h4x0r.org/big-mac-ro-attack/)
