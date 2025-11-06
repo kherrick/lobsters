@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-06, 19:23:24](https://lobste.rs/s/zvyspo/mastodon_4_5) - [Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)
 * [2025-11-06, 18:38:40](https://lobste.rs/s/i67ufs/code_research_projects_with_async_coding) - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
-* [2025-11-06, 18:15:44](https://lobste.rs/s/4pf7hy/exceptions_cranelift_wasmtime) - [Exceptions in Cranelift and Wasmtime](https://cfallin.org/blog/2025/11/06/exceptions/)
 * [2025-11-06, 17:51:09](https://lobste.rs/s/cziig7/man_pages_part_1) - [Man Pages (Part 1)](https://abochannek.github.io/utilities/2024/12/08/man-pages.html)
 * [2025-11-06, 17:01:05](https://lobste.rs/s/o0qojo/tla_modeling_aws_outage_dns_race) - [TLA+ Modeling of AWS outage DNS race condition](http://muratbuffalo.blogspot.com/2025/11/tla-modeling-of-aws-outage-dns-race.html)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
