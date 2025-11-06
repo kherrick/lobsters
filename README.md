@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
 * [2025-11-05, 23:45:15](https://lobste.rs/s/otkkyl/lost_ibm_pc_at_model_analyzing_newfound) - [A Lost IBM PC/AT Model? Analyzing a Newfound Old BIOS](https://int10h.org/blog/2025/11/lost-ibm-at-model-bios-analysis/)
 * [2025-11-05, 21:48:46](https://lobste.rs/s/oza6kh/snakemake) - [Snakemake](https://danmackinlay.name/notebook/snakemake.html)
 * [2025-11-05, 20:49:55](https://lobste.rs/s/msqatl/state_simd_rust_2025) - [The state of SIMD in Rust in 2025](https://shnatsel.medium.com/the-state-of-simd-in-rust-in-2025-32c263e5f53d)
-* [2025-11-05, 20:33:26](https://lobste.rs/s/kodv73/how_set_slos_drive_improvements_make) - [How to set SLOs, drive improvements, and make friends](https://www.youtube.com/watch?v=RvFaUofjvYM&t=2s)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 18:54:24](https://lobste.rs/s/bs7gqr/by_power_grayscale) - [By the power of grayscale](https://zserge.com/posts/grayskull/)
 * [2025-11-05, 18:20:31](https://lobste.rs/s/qf0qls/bikeshedding_handle_other_follow_up) - [Bikeshedding `Handle` and other follow-up thoughts](https://smallcultfollowing.com/babysteps/blog/2025/11/05/bikeshedding-handle/)
