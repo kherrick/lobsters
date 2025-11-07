@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-07, 09:19:01](https://lobste.rs/s/i0rf97/introduction_incusos) - [Introduction to IncusOS](https://linuxcontainers.org/incus-os/)
+* [2025-11-07, 09:02:03](https://lobste.rs/s/jrg7nx/ai_s_70_problem) - [AI's 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani)
 * [2025-11-07, 08:36:16](https://lobste.rs/s/yw4l5c/results_from_testing_six_ai_models_on) - [Results from Testing Six AI Models on Advanced Security Exploits](https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced)
 * [2025-11-07, 01:09:15](https://lobste.rs/s/dyo3zl/qq_fish_tiny_local_llm_assistant_propose) - [qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run](https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish)
 * [2025-11-06, 23:16:09](https://lobste.rs/s/k9a16c/what_hell_have_you_built) - [What the hell have you built](https://wthhyb.sacha.house/)
@@ -21,7 +22,6 @@
 * [2025-11-06, 11:24:16](https://lobste.rs/s/ywvatn/note_on_fil_c) - [A note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-06, 11:15:31](https://lobste.rs/s/eqijnm/gem_coop_update_1) - [gem.coop update #1](https://gem.coop/updates/1/)
 * [2025-11-06, 10:47:18](https://lobste.rs/s/qzwcu2/self_hosting_your_mastodon_media_with) - [Self-hosting your Mastodon media with SeaweedFS](https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/)
-* [2025-11-06, 08:44:53](https://lobste.rs/s/voume0/security_model_for_systemd) - [A security model for systemd](https://lwn.net/SubscriberLink/1042888/709de1191e6d4e1d/)
 * [2025-11-06, 07:57:00](https://lobste.rs/s/zqfr31/radiant_computer) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
