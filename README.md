@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-07, 17:48:24](https://lobste.rs/s/bxhftq/weird_parts_position_sticky) - [The Weird Parts of position: sticky](https://frontendmasters.com/blog/the-weird-parts-of-position-sticky/)
+* [2025-11-07, 17:56:43](https://lobste.rs/s/lzs973/selfhostllm_gpu_memory_calculator_for) - [SelfHostLLM - GPU Memory Calculator for LLM Inference](https://selfhostllm.org)
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-07, 16:04:37](https://lobste.rs/s/5eskxn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/5eskxn/what_are_you_doing_this_weekend)
 * [2025-11-07, 15:11:37](https://lobste.rs/s/ezcvrd/warpstock_2025_os_2_arcaos) - [Warpstock 2025 (OS/2, ArcaOS)](https://www.youtube.com/watch?v=J4-1Q_2Y_Sk)
