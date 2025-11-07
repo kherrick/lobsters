@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-07, 14:11:59",
-      "https://lobste.rs/s/syxfbv/problems_with_move_semantics_c"
+      "2025-11-07, 14:31:24",
+      "https://lobste.rs/s/jnlwlm/gnome_50_drops_mutter_x11_backend"
     ],
     [
-      "Problems With Move Semantics in C++",
-      "https://youtu.be/Klq-sNxuP2g"
+      "GNOME 50 drops Mutter X11 backend",
+      "https://www.phoronix.com/news/GNOME-Mutter-Drops-X11"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Why I don’t test different designs at the same time",
       "https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 12:06:14",
+      "https://lobste.rs/s/5lrv8d/kroxylicious"
+    ],
+    [
+      "Kroxylicious",
+      "https://kroxylicious.io/overview/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "AI's 70% Problem",
       "https://zed.dev/blog/ai-70-problem-addy-osmani"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 08:36:16",
-      "https://lobste.rs/s/yw4l5c/results_from_testing_six_ai_models_on"
-    ],
-    [
-      "Results from Testing Six AI Models on Advanced Security Exploits",
-      "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced"
     ]
   ],
   [
