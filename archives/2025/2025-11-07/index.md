@@ -13,6 +13,7 @@
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-07, 16:04:37](https://lobste.rs/s/5eskxn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/5eskxn/what_are_you_doing_this_weekend)
 * [2025-11-07, 15:11:37](https://lobste.rs/s/ezcvrd/warpstock_2025_os_2_arcaos) - [Warpstock 2025 (OS/2, ArcaOS)](https://www.youtube.com/watch?v=J4-1Q_2Y_Sk)
+* [2025-11-07, 15:11:37](https://lobste.rs/s/ezcvrd/warpstock_2025_os_2_arcaos) - [Warpstock 2025 (OS/2, ArcaOS)](https://www.youtube.com/@WarpEvents)
 * [2025-11-07, 14:31:24](https://lobste.rs/s/jnlwlm/gnome_50_drops_mutter_x11_backend) - [GNOME 50 drops Mutter X11 backend](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
 * [2025-11-07, 14:28:21](https://lobste.rs/s/08srpl/announcing_magika_1_0_now_faster_smarter) - [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html)
 * [2025-11-07, 14:11:59](https://lobste.rs/s/syxfbv/problems_with_move_semantics_c) - [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
