@@ -12,6 +12,7 @@
 * [2025-11-06, 17:51:09](https://lobste.rs/s/cziig7/man_pages_part_1) - [Man Pages (Part 1)](https://abochannek.github.io/utilities/2024/12/08/man-pages.html)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
+* [2025-11-06, 15:40:35](https://lobste.rs/s/whimuu/8pen_input_method_for_phones_2010) - [The 8pen input method for phones [2010]](https://www.youtube.com/watch?v=q3OuCR0EpGo)
 * [2025-11-06, 14:49:40](https://lobste.rs/s/7quq6b/upgrade_puma_7_unlock_power_fair) - [Upgrade to Puma 7 and Unlock the Power of Fair Scheduled Keep-alive](https://www.heroku.com/blog/upgrade-to-puma-7-and-unlock-the-power-of-fair-scheduled-keep-alive/)
 * [2025-11-06, 14:15:11](https://lobste.rs/s/yr6l6l/building_blobd_single_machine_object) - [Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads](https://blog.wilsonl.in/blobd/)
 * [2025-11-06, 13:04:34](https://lobste.rs/s/khcpvl/jujutsu_v0_35_0_released) - [jujutsu v0.35.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.35.0)
@@ -22,7 +23,6 @@
 * [2025-11-06, 08:44:53](https://lobste.rs/s/voume0/security_model_for_systemd) - [A security model for systemd](https://lwn.net/SubscriberLink/1042888/709de1191e6d4e1d/)
 * [2025-11-06, 07:57:00](https://lobste.rs/s/zqfr31/radiant_computer) - [Radiant Computer](https://radiant.computer)
 * [2025-11-06, 05:44:07](https://lobste.rs/s/ihed37/lob_mob_strange_loops_haskell) - [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
-* [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 
