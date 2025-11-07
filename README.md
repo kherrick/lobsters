@@ -1,12 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-06, 22:47:52](https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah) - [Unix V4 tape found at The University of Utah](https://phanpy.social/#/hachyderm.io/s/115504720323483804)
+* [2025-11-07, 01:09:15](https://lobste.rs/s/dyo3zl/qq_fish_tiny_local_llm_assistant_propose) - [qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run](https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish)
+* [2025-11-06, 23:16:09](https://lobste.rs/s/k9a16c/what_hell_have_you_built) - [What the hell have you built](https://wthhyb.sacha.house/)
+* [2025-11-06, 22:47:52](https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah) - [Unix V4 tape found at The University of Utah](https://discuss.systems/@ricci/115504720054699983)
+* [2025-11-06, 22:39:40](https://lobste.rs/s/kudguy/i_use_typst_now) - [I use Typst now](https://www.christopherbiscardi.com/i-use-typst-now)
 * [2025-11-06, 19:45:49](https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting) - [When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-06, 19:23:24](https://lobste.rs/s/zvyspo/mastodon_4_5) - [Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)
 * [2025-11-06, 18:38:40](https://lobste.rs/s/i67ufs/code_research_projects_with_async_coding) - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
 * [2025-11-06, 18:15:44](https://lobste.rs/s/4pf7hy/exceptions_cranelift_wasmtime) - [Exceptions in Cranelift and Wasmtime](https://cfallin.org/blog/2025/11/06/exceptions/)
 * [2025-11-06, 17:51:09](https://lobste.rs/s/cziig7/man_pages_part_1) - [Man Pages (Part 1)](https://abochannek.github.io/utilities/2024/12/08/man-pages.html)
-* [2025-11-06, 17:01:05](https://lobste.rs/s/o0qojo/tla_modeling_aws_outage_dns_race) - [TLA+ Modeling of AWS outage DNS race condition](http://muratbuffalo.blogspot.com/2025/11/tla-modeling-of-aws-outage-dns-race.html)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-06, 15:40:35](https://lobste.rs/s/whimuu/8pen_input_method_for_phones_2010) - [The 8pen input method for phones [2010]](https://www.youtube.com/watch?v=q3OuCR0EpGo)
@@ -20,11 +22,9 @@
 * [2025-11-06, 08:44:53](https://lobste.rs/s/voume0/security_model_for_systemd) - [A security model for systemd](https://lwn.net/SubscriberLink/1042888/709de1191e6d4e1d/)
 * [2025-11-06, 07:57:00](https://lobste.rs/s/zqfr31/radiant_computer) - [Radiant Computer](https://radiant.computer)
 * [2025-11-06, 05:44:07](https://lobste.rs/s/ihed37/lob_mob_strange_loops_haskell) - [Löb and möb: strange loops in Haskell](https://github.com/quchen/articles/blob/master/loeb-moeb.md)
-* [2025-11-06, 02:36:33](https://lobste.rs/s/hjqvde/try_out_jep_401_value_classes_objects) - [Try Out JEP 401 Value Classes and Objects](https://inside.java/2025/10/27/try-jep-401-value-classes/)
 * [2025-11-06, 02:20:58](https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown) - [Mörk - a Commonmark compliant markdown parser written in Gleam](https://hexdocs.pm/mork/)
 * [2025-11-05, 18:56:33](https://lobste.rs/s/kiqqjt/announcing_development_on_flirt) - [Announcing Development on Flirt](https://blog.buenzli.dev/announcing-development-on-flirt)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
-* [2025-11-05, 15:24:05](https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data) - [Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point](https://jstrieb.github.io/posts/random-instructions/)
 
 ## [Archives](archives/index.md)
 
