@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
+* [2025-11-07, 11:20:14](https://lobste.rs/s/fikz3p/typst_unlit_write_literate_haskell) - [Typst-Unlit: Write literate Haskell programs in Typst](https://cdn.oppi.li/typst-unlit.pdf)
 * [2025-11-07, 10:21:32](https://lobste.rs/s/ycn6zq/how_this_site_is_build) - [How This Site Is Build](https://ryan.freumh.org/how-this-site-is-built.html)
 * [2025-11-07, 09:57:04](https://lobste.rs/s/eghbhu/linking_shrinking_rust_static_libraries) - [Linking and shrinking Rust static libraries: a tale of fire](https://centricular.com/devlog/2025-11/dragonfire/)
 * [2025-11-07, 09:19:01](https://lobste.rs/s/i0rf97/introduction_incusos) - [Introduction to IncusOS](https://linuxcontainers.org/incus-os/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-07, 11:20:14](https://lobste.rs/s/fikz3p/typst_unlit_write_literate_haskell) - [Typst-Unlit: Write literate Haskell programs in Typst](https://cdn.oppi.li/typst-unlit.pdf)
 * [2025-11-07, 09:57:04](https://lobste.rs/s/eghbhu/linking_shrinking_rust_static_libraries) - [Linking and shrinking Rust static libraries: a tale of fire](https://centricular.com/devlog/2025-11/dragonfire/)
 * [2025-11-07, 09:19:01](https://lobste.rs/s/i0rf97/introduction_incusos) - [Introduction to IncusOS](https://linuxcontainers.org/incus-os/)
 * [2025-11-07, 09:02:03](https://lobste.rs/s/jrg7nx/ai_s_70_problem) - [AI's 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani)
@@ -12,7 +13,6 @@
 * [2025-11-06, 19:45:49](https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting) - [When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-06, 19:23:24](https://lobste.rs/s/zvyspo/mastodon_4_5) - [Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)
 * [2025-11-06, 18:38:40](https://lobste.rs/s/i67ufs/code_research_projects_with_async_coding) - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
-* [2025-11-06, 18:15:44](https://lobste.rs/s/4pf7hy/exceptions_cranelift_wasmtime) - [Exceptions in Cranelift and Wasmtime](https://cfallin.org/blog/2025/11/06/exceptions/)
 * [2025-11-06, 17:51:09](https://lobste.rs/s/cziig7/man_pages_part_1) - [Man Pages (Part 1)](https://abochannek.github.io/utilities/2024/12/08/man-pages.html)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
