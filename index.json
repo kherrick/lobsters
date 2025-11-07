@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-11-07, 01:09:15",
+      "https://lobste.rs/s/dyo3zl/qq_fish_tiny_local_llm_assistant_propose"
+    ],
+    [
+      "qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run",
+      "https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 23:16:09",
+      "https://lobste.rs/s/k9a16c/what_hell_have_you_built"
+    ],
+    [
+      "What the hell have you built",
+      "https://wthhyb.sacha.house/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 22:47:52",
       "https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah"
     ],
     [
       "Unix V4 tape found at The University of Utah",
-      "https://phanpy.social/#/hachyderm.io/s/115504720323483804"
+      "https://discuss.systems/@ricci/115504720054699983"
+    ]
+  ],
+  [
+    [
+      "2025-11-06, 22:39:40",
+      "https://lobste.rs/s/kudguy/i_use_typst_now"
+    ],
+    [
+      "I use Typst now",
+      "https://www.christopherbiscardi.com/i-use-typst-now"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Man Pages (Part 1)",
       "https://abochannek.github.io/utilities/2024/12/08/man-pages.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 17:01:05",
-      "https://lobste.rs/s/o0qojo/tla_modeling_aws_outage_dns_race"
-    ],
-    [
-      "TLA+ Modeling of AWS outage DNS race condition",
-      "http://muratbuffalo.blogspot.com/2025/11/tla-modeling-of-aws-outage-dns-race.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-06, 02:36:33",
-      "https://lobste.rs/s/hjqvde/try_out_jep_401_value_classes_objects"
-    ],
-    [
-      "Try Out JEP 401 Value Classes and Objects",
-      "https://inside.java/2025/10/27/try-jep-401-value-classes/"
-    ]
-  ],
-  [
-    [
       "2025-11-06, 02:20:58",
       "https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown"
     ],
@@ -237,16 +247,6 @@
     [
       "Myna: monospace typeface designed for symbol-heavy programming languages",
       "https://github.com/sayyadirfanali/Myna"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 15:24:05",
-      "https://lobste.rs/s/jzw3ih/disassembling_terabytes_random_data"
-    ],
-    [
-      "Disassembling Terabytes of Random Data with Zig and Capstone to Prove a Point",
-      "https://jstrieb.github.io/posts/random-instructions/"
     ]
   ]
 ]
