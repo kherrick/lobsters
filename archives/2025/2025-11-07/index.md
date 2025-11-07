@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-07](index.md)
 
 * [2025-11-07, 14:31:24](https://lobste.rs/s/jnlwlm/gnome_50_drops_mutter_x11_backend) - [GNOME 50 drops Mutter X11 backend](https://www.phoronix.com/news/GNOME-Mutter-Drops-X11)
+* [2025-11-07, 14:28:21](https://lobste.rs/s/08srpl/announcing_magika_1_0_now_faster_smarter) - [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html)
 * [2025-11-07, 14:11:59](https://lobste.rs/s/syxfbv/problems_with_move_semantics_c) - [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
 * [2025-11-07, 12:26:05](https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same) - [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/)
 * [2025-11-07, 12:06:33](https://lobste.rs/s/gym0ir/build_clojurescript_native_desktop_app_5) - [Build a ClojureScript native desktop app in 5 minutes](https://www.youtube.com/watch?v=uEVo8rqJgyw)
