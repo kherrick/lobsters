@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-11-06, 15:40:35",
+      "https://lobste.rs/s/whimuu/8pen_input_method_for_phones_2010"
+    ],
+    [
+      "The 8pen input method for phones [2010]",
+      "https://www.youtube.com/watch?v=q3OuCR0EpGo"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 14:49:40",
       "https://lobste.rs/s/7quq6b/upgrade_puma_7_unlock_power_fair"
     ],
@@ -217,16 +227,6 @@
     [
       "Löb and möb: strange loops in Haskell",
       "https://github.com/quchen/articles/blob/master/loeb-moeb.md"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 02:20:58",
-      "https://lobste.rs/s/u5xabg/mork_commonmark_compliant_markdown"
-    ],
-    [
-      "Mörk - a Commonmark compliant markdown parser written in Gleam",
-      "https://hexdocs.pm/mork/"
     ]
   ],
   [
