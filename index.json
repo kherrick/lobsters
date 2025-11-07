@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2025-11-06, 14:15:11",
+      "https://lobste.rs/s/yr6l6l/building_blobd_single_machine_object"
+    ],
+    [
+      "Building blobd: single-machine object store with sub-millisecond reads and 15 GB/s uploads",
+      "https://blog.wilsonl.in/blobd/"
+    ]
+  ],
+  [
+    [
       "2025-11-06, 13:04:34",
       "https://lobste.rs/s/khcpvl/jujutsu_v0_35_0_released"
     ],
@@ -237,16 +247,6 @@
     [
       "A note on Fil-C",
       "https://graydon2.dreamwidth.org/320265.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-05, 17:14:21",
-      "https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for"
-    ],
-    [
-      "Myna: monospace typeface designed for symbol-heavy programming languages",
-      "https://github.com/sayyadirfanali/Myna"
     ]
   ]
 ]
