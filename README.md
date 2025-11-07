@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-07, 12:26:05](https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same) - [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/)
-* [2025-11-07, 12:06:33](https://lobste.rs/s/gym0ir/build_clojurescript_native_desktop_app_5) - [Build a ClojureScript native desktop app in 5 minutes](https://www.youtube.com/watch?v=uEVo8rqJgyw)
 * [2025-11-07, 11:20:14](https://lobste.rs/s/fikz3p/typst_unlit_write_literate_haskell) - [Typst-Unlit: Write literate Haskell programs in Typst](https://cdn.oppi.li/typst-unlit.pdf)
+* [2025-11-07, 10:59:03](https://lobste.rs/s/mkquz5/error_codes_for_control_flow) - [Error Codes for Control Flow](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html)
+* [2025-11-07, 10:21:32](https://lobste.rs/s/ycn6zq/how_this_site_is_build) - [How This Site Is Build](https://ryan.freumh.org/how-this-site-is-built.html)
 * [2025-11-07, 09:57:04](https://lobste.rs/s/eghbhu/linking_shrinking_rust_static_libraries) - [Linking and shrinking Rust static libraries: a tale of fire](https://centricular.com/devlog/2025-11/dragonfire/)
 * [2025-11-07, 09:19:01](https://lobste.rs/s/i0rf97/introduction_incusos) - [Introduction to IncusOS](https://linuxcontainers.org/incus-os/)
 * [2025-11-07, 09:02:03](https://lobste.rs/s/jrg7nx/ai_s_70_problem) - [AI's 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani)
@@ -23,7 +24,6 @@
 * [2025-11-06, 12:03:39](https://lobste.rs/s/7xyd7l/how_i_fell_love_with_calendar_txt) - [How I fell in love with calendar.txt](https://ploum.net/2025-09-03-calendar-txt.html)
 * [2025-11-06, 11:24:16](https://lobste.rs/s/ywvatn/note_on_fil_c) - [A note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 * [2025-11-06, 10:47:18](https://lobste.rs/s/qzwcu2/self_hosting_your_mastodon_media_with) - [Self-hosting your Mastodon media with SeaweedFS](https://it-notes.dragas.net/2025/11/06/self-hosting-your-mastodon-media-with-seaweedfs/)
-* [2025-11-06, 07:57:00](https://lobste.rs/s/zqfr31/radiant_computer) - [Radiant Computer](https://radiant.computer)
 * [2025-11-05, 17:14:21](https://lobste.rs/s/7w2aj3/myna_monospace_typeface_designed_for) - [Myna: monospace typeface designed for symbol-heavy programming languages](https://github.com/sayyadirfanali/Myna)
 
 ## [Archives](archives/index.md)
