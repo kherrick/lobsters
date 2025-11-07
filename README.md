@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-07, 19:15:34](https://lobste.rs/s/scwreg/ffmpeg_assembly_language_lessons) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-11-07, 19:10:22](https://lobste.rs/s/pexrmo/state_rust_dependency_ecosystem) - [The state of the Rust dependency ecosystem](https://00f.net/2025/10/17/state-of-the-rust-ecosystem/)
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-07, 16:04:37](https://lobste.rs/s/5eskxn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/5eskxn/what_are_you_doing_this_weekend)
@@ -19,7 +20,6 @@
 * [2025-11-06, 20:25:16](https://lobste.rs/s/v3oxx8/you_should_write_agent) - [You Should Write An Agent](https://fly.io/blog/everyone-write-an-agent/)
 * [2025-11-06, 19:45:49](https://lobste.rs/s/jzj4mw/when_your_hash_becomes_string_hunting) - [When Your Hash Becomes a String: Hunting a Ruby Million-to-One Memory Bug](https://mensfeld.pl/2025/11/ruby-ffi-gc-bug-hash-becomes-string/)
 * [2025-11-06, 19:23:24](https://lobste.rs/s/zvyspo/mastodon_4_5) - [Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)
-* [2025-11-06, 18:38:40](https://lobste.rs/s/i67ufs/code_research_projects_with_async_coding) - [Code research projects with async coding agents like Claude Code and Codex](https://simonwillison.net/2025/Nov/6/async-code-research/)
 * [2025-11-06, 16:49:03](https://lobste.rs/s/ct8jav/file_format_uncracked_for_20_years) - [A File Format Uncracked for 20 Years](https://landaire.net/a-file-format-uncracked-for-20-years/)
 * [2025-11-06, 15:51:24](https://lobste.rs/s/gntidf/firefox_forcing_llm_features) - [Firefox Forcing LLM Features](https://equk.co.uk/2025/10/28/firefox-forcing-llm-features/)
 * [2025-11-06, 13:04:34](https://lobste.rs/s/khcpvl/jujutsu_v0_35_0_released) - [jujutsu v0.35.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.35.0)
