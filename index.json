@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-07, 14:11:59",
+      "https://lobste.rs/s/syxfbv/problems_with_move_semantics_c"
+    ],
+    [
+      "Problems With Move Semantics in C++",
+      "https://youtu.be/Klq-sNxuP2g"
+    ]
+  ],
+  [
+    [
       "2025-11-07, 12:26:05",
       "https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same"
     ],
@@ -77,16 +87,6 @@
     [
       "Results from Testing Six AI Models on Advanced Security Exploits",
       "https://blog.kilocode.ai/p/we-tested-6-ai-models-on-3-advanced"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 01:09:15",
-      "https://lobste.rs/s/dyo3zl/qq_fish_tiny_local_llm_assistant_propose"
-    ],
-    [
-      "qq.fish: A tiny, local, LLM assistant to propose commands using LMStudio that (almost) everyone can run",
-      "https://github.com/dzervas/dotfiles/blob/main/home/fish-functions/qq.fish"
     ]
   ],
   [
