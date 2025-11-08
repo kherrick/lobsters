@@ -11,6 +11,7 @@
 * [2025-11-07, 19:27:56](https://lobste.rs/s/9p9dup/why_nextcloud_feels_slow_use) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
 * [2025-11-07, 19:15:34](https://lobste.rs/s/scwreg/ffmpeg_assembly_language_lessons) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-11-07, 19:10:22](https://lobste.rs/s/pexrmo/state_rust_dependency_ecosystem) - [The state of the Rust dependency ecosystem](https://00f.net/2025/10/17/state-of-the-rust-ecosystem/)
+* [2025-11-07, 17:48:24](https://lobste.rs/s/bxhftq/weird_parts_position_sticky) - [The Weird Parts of position: sticky](https://frontendmasters.com/blog/the-weird-parts-of-position-sticky/)
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
 * [2025-11-07, 14:28:21](https://lobste.rs/s/08srpl/announcing_magika_1_0_now_faster_smarter) - [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html)
 * [2025-11-07, 14:11:59](https://lobste.rs/s/syxfbv/problems_with_move_semantics_c) - [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
@@ -22,7 +23,6 @@
 * [2025-11-07, 09:19:01](https://lobste.rs/s/i0rf97/introduction_incusos) - [Introduction to IncusOS](https://linuxcontainers.org/incus-os/)
 * [2025-11-07, 09:02:03](https://lobste.rs/s/jrg7nx/ai_s_70_problem) - [AI's 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani)
 * [2025-11-06, 22:47:52](https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah) - [Unix V4 tape found at The University of Utah](https://discuss.systems/@ricci/115504720054699983)
-* [2025-11-06, 22:39:40](https://lobste.rs/s/kudguy/i_use_typst_now) - [I use Typst now](https://www.christopherbiscardi.com/i-use-typst-now)
 * [2025-11-06, 19:23:24](https://lobste.rs/s/zvyspo/mastodon_4_5) - [Mastodon 4.5](https://blog.joinmastodon.org/2025/11/mastodon-4.5/)
 * [2025-11-06, 11:24:16](https://lobste.rs/s/ywvatn/note_on_fil_c) - [A note on Fil-C](https://graydon2.dreamwidth.org/320265.html)
 
