@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-08, 11:27:34",
+      "https://lobste.rs/s/epolln/valdi_is_cross_platform_ui_framework"
+    ],
+    [
+      "Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity",
+      "https://github.com/Snapchat/Valdi"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 10:33:39",
       "https://lobste.rs/s/wbyo8d/jelly_slider"
     ],
@@ -137,16 +147,6 @@
     [
       "Why I don’t test different designs at the same time",
       "https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 12:06:33",
-      "https://lobste.rs/s/gym0ir/build_clojurescript_native_desktop_app_5"
-    ],
-    [
-      "Build a ClojureScript native desktop app in 5 minutes",
-      "https://www.youtube.com/watch?v=uEVo8rqJgyw"
     ]
   ],
   [
