@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-08, 22:28:16",
+      "https://lobste.rs/s/qzunfk/debugging_beagleboard_usb_boot_with"
+    ],
+    [
+      "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
+      "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 19:02:58",
       "https://lobste.rs/s/ojxoor/gsoc_2025_reports_using_bubblewrap_add"
     ],
@@ -127,16 +137,6 @@
     [
       "The state of the Rust dependency ecosystem",
       "https://00f.net/2025/10/17/state-of-the-rust-ecosystem/"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 17:48:24",
-      "https://lobste.rs/s/bxhftq/weird_parts_position_sticky"
-    ],
-    [
-      "The Weird Parts of position: sticky",
-      "https://frontendmasters.com/blog/the-weird-parts-of-position-sticky/"
     ]
   ],
   [
