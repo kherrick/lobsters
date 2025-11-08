@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-08, 23:43:11",
+      "https://lobste.rs/s/qvajex/trait_constrained_enums_rust"
+    ],
+    [
+      "Trait-Constrained Enums in Rust",
+      "https://kcsongor.github.io/gadts-in-rust/"
+    ]
+  ],
+  [
+    [
       "2025-11-08, 23:17:43",
       "https://lobste.rs/s/mfglpw/dijkstra_s_algorithm_js"
     ],
@@ -207,16 +217,6 @@
     [
       "Error Codes for Control Flow",
       "https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 09:57:04",
-      "https://lobste.rs/s/eghbhu/linking_shrinking_rust_static_libraries"
-    ],
-    [
-      "Linking and shrinking Rust static libraries: a tale of fire",
-      "https://centricular.com/devlog/2025-11/dragonfire/"
     ]
   ],
   [
