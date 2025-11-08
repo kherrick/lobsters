@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-08, 23:43:11](https://lobste.rs/s/qvajex/trait_constrained_enums_rust) - [Trait-Constrained Enums in Rust](https://kcsongor.github.io/gadts-in-rust/)
 * [2025-11-08, 23:17:43](https://lobste.rs/s/mfglpw/dijkstra_s_algorithm_js) - [Dijkstra’s Algorithm in JS](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/graph/dijkstra/README.md)
 * [2025-11-08, 22:28:16](https://lobste.rs/s/qzunfk/debugging_beagleboard_usb_boot_with) - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
 * [2025-11-08, 19:02:58](https://lobste.rs/s/ojxoor/gsoc_2025_reports_using_bubblewrap_add) - [GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD](https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing)
@@ -21,7 +22,6 @@
 * [2025-11-07, 12:26:05](https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same) - [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/)
 * [2025-11-07, 11:20:14](https://lobste.rs/s/fikz3p/typst_unlit_write_literate_haskell) - [Typst-Unlit: Write literate Haskell programs in Typst](https://cdn.oppi.li/typst-unlit.pdf)
 * [2025-11-07, 10:59:03](https://lobste.rs/s/mkquz5/error_codes_for_control_flow) - [Error Codes for Control Flow](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html)
-* [2025-11-07, 09:57:04](https://lobste.rs/s/eghbhu/linking_shrinking_rust_static_libraries) - [Linking and shrinking Rust static libraries: a tale of fire](https://centricular.com/devlog/2025-11/dragonfire/)
 * [2025-11-07, 09:19:01](https://lobste.rs/s/i0rf97/introduction_incusos) - [Introduction to IncusOS](https://linuxcontainers.org/incus-os/)
 * [2025-11-07, 09:02:03](https://lobste.rs/s/jrg7nx/ai_s_70_problem) - [AI's 70% Problem](https://zed.dev/blog/ai-70-problem-addy-osmani)
 * [2025-11-06, 22:47:52](https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah) - [Unix V4 tape found at The University of Utah](https://discuss.systems/@ricci/115504720054699983)
