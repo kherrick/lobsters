@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-09, 16:37:50",
+      "https://lobste.rs/s/44zer0/16_bit_data_pointers_on_rv32"
+    ],
+    [
+      "16-bit Data Pointers on RV32",
+      "https://wren.wtf/shower-thoughts/16-bit-data-pointers-on-rv32/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 15:32:23",
       "https://lobste.rs/s/t0fjqn/sprites_mods_kid_cam_firmware_modding"
     ],
@@ -217,16 +227,6 @@
     [
       "Jelly Slider",
       "https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 10:21:17",
-      "https://lobste.rs/s/zfoetk/profiling_tools_i_use_for_qemu_storage"
-    ],
-    [
-      "Profiling tools I use for QEMU storage performance optimization",
-      "http://blog.vmsplice.net/2025/06/profiling-tools-i-use-for-qemu-storage.html"
     ]
   ],
   [
