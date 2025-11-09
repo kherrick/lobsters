@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-09, 13:29:34",
+      "https://lobste.rs/s/wruah1/return_language_oriented_programming"
+    ],
+    [
+      "The Return of Language-Oriented Programming",
+      "https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 12:48:17",
       "https://lobste.rs/s/cxbkzm/imperative_relational"
     ],
@@ -217,16 +227,6 @@
     [
       "FFmpeg Assembly Language Lessons",
       "https://github.com/FFmpeg/asm-lessons"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 14:11:59",
-      "https://lobste.rs/s/syxfbv/problems_with_move_semantics_c"
-    ],
-    [
-      "Problems With Move Semantics in C++",
-      "https://youtu.be/Klq-sNxuP2g"
     ]
   ],
   [
