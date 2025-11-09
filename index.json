@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-09, 04:16:37",
+      "https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like"
+    ],
+    [
+      "Ironclad, a formally verified Unix-like kernel written in Ada",
+      "https://ironclad-os.org/"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 04:08:51",
+      "https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either"
+    ],
+    [
+      "Why I don't love Rust (either)",
+      "https://cbarrete.com/rust-bad.html"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 03:15:20",
       "https://lobste.rs/s/bcyczw/ofcom_files_part_2_ip_blocking_uk_is_not"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-07, 16:11:29",
-      "https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10"
-    ],
-    [
-      "From web developer to database developer in 10 years",
-      "https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 14:11:59",
       "https://lobste.rs/s/syxfbv/problems_with_move_semantics_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Introduction to IncusOS",
       "https://linuxcontainers.org/incus-os/"
-    ]
-  ],
-  [
-    [
-      "2025-11-06, 22:47:52",
-      "https://lobste.rs/s/l5nsnw/unix_v4_tape_found_at_university_utah"
-    ],
-    [
-      "Unix V4 tape found at The University of Utah",
-      "https://discuss.systems/@ricci/115504720054699983"
     ]
   ]
 ]
