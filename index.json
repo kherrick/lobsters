@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-11-09, 14:52:34",
-      "https://lobste.rs/s/ongxci/1_trillion_tech_stocks_sold_off_as_market"
-    ],
-    [
-      "$1 Trillion in Tech Stocks Sold Off as Market Grows Skeptical of AI",
-      "https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226"
-    ]
-  ],
-  [
-    [
       "2025-11-09, 14:52:32",
       "https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils"
     ],
@@ -157,6 +147,16 @@
     [
       "Trait-Constrained Enums in Rust",
       "https://kcsongor.github.io/gadts-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2025-11-08, 22:28:16",
+      "https://lobste.rs/s/qzunfk/debugging_beagleboard_usb_boot_with"
+    ],
+    [
+      "Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs",
+      "https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/"
     ]
   ],
   [
