@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-09, 12:48:17",
+      "https://lobste.rs/s/cxbkzm/imperative_relational"
+    ],
+    [
+      "Imperative to relational",
+      "https://madhadron.com/imperative_to_relational.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-09, 12:25:12",
+      "https://lobste.rs/s/xhrbh0/building_vector_search_engine_lets_you"
+    ],
+    [
+      "Building a vector search engine that lets you choose precision at query time",
+      "https://clickhouse.com/blog/qbit-vector-search"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 09:52:26",
       "https://lobste.rs/s/qx9qot/forth_is_it_still_relevant"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-11-08, 23:17:43",
-      "https://lobste.rs/s/mfglpw/dijkstra_s_algorithm_js"
-    ],
-    [
-      "Dijkstra’s Algorithm in JS",
-      "https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/graph/dijkstra/README.md"
-    ]
-  ],
-  [
-    [
       "2025-11-08, 22:28:16",
       "https://lobste.rs/s/qzunfk/debugging_beagleboard_usb_boot_with"
     ],
@@ -187,16 +197,6 @@
     [
       "Bootc for workstation use",
       "https://lwn.net/SubscriberLink/1042708/90b68e222a964524/"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 19:35:18",
-      "https://lobste.rs/s/bmen3e/from_milliamperes_microamperes_lessons"
-    ],
-    [
-      "From Milliamperes to Microamperes: Lessons in Low-Power Gadgetmaking",
-      "https://www.crowdsupply.com/teardown/portland-2025/long-talk/from-milliamperes-to-microamperes-lessons-in-low-power-gadgetmaking"
     ]
   ],
   [
