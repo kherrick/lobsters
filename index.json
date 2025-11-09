@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-09, 21:50:31",
+      "https://lobste.rs/s/fdz07i/erase_startup_config_isn_t_enough"
+    ],
+    [
+      "\"erase startup-config\" isn't enough",
+      "https://alyx.sh/posts/erase-startup-config/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 21:03:59",
       "https://lobste.rs/s/zhwdem/plan_for_5_10_faster_free_threaded_jit_by"
     ],
@@ -197,16 +207,6 @@
     [
       "Trait-Constrained Enums in Rust",
       "https://kcsongor.github.io/gadts-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 19:02:58",
-      "https://lobste.rs/s/ojxoor/gsoc_2025_reports_using_bubblewrap_add"
-    ],
-    [
-      "GSOC 2025 Reports: Using bubblewrap to add sandboxing to NetBSD",
-      "https://blog.netbsd.org/tnf/entry/gsoc2025_bubblewrap_sandboxing"
     ]
   ],
   [
