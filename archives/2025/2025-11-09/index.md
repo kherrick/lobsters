@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-09](index.md)
 
+* [2025-11-09, 14:59:13](https://lobste.rs/s/uf12ap/email_verification_protocol_verified) - [email-verification-protocol: verified autofill](https://github.com/WICG/email-verification-protocol)
 * [2025-11-09, 14:52:34](https://lobste.rs/s/ongxci/1_trillion_tech_stocks_sold_off_as_market) - [$1 Trillion in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
 * [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
 * [2025-11-09, 13:29:34](https://lobste.rs/s/wruah1/return_language_oriented_programming) - [The Return of Language-Oriented Programming](https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-09, 14:59:13](https://lobste.rs/s/uf12ap/email_verification_protocol_verified) - [email-verification-protocol: verified autofill](https://github.com/WICG/email-verification-protocol)
 * [2025-11-09, 14:52:34](https://lobste.rs/s/ongxci/1_trillion_tech_stocks_sold_off_as_market) - [$1 Trillion in Tech Stocks Sold Off as Market Grows Skeptical of AI](https://gizmodo.com/1-trillion-in-tech-stocks-sold-off-as-market-grows-skeptical-of-ai-2000683226)
 * [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
 * [2025-11-09, 13:29:34](https://lobste.rs/s/wruah1/return_language_oriented_programming) - [The Return of Language-Oriented Programming](https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/)
@@ -24,7 +25,6 @@
 * [2025-11-08, 10:21:17](https://lobste.rs/s/zfoetk/profiling_tools_i_use_for_qemu_storage) - [Profiling tools I use for QEMU storage performance optimization](http://blog.vmsplice.net/2025/06/profiling-tools-i-use-for-qemu-storage.html)
 * [2025-11-08, 01:40:45](https://lobste.rs/s/1fa70r/bootc_for_workstation_use) - [Bootc for workstation use](https://lwn.net/SubscriberLink/1042708/90b68e222a964524/)
 * [2025-11-07, 19:27:56](https://lobste.rs/s/9p9dup/why_nextcloud_feels_slow_use) - [Why Nextcloud feels slow to use](https://ounapuu.ee/posts/2025/11/03/nextcloud-slow/)
-* [2025-11-07, 10:59:03](https://lobste.rs/s/mkquz5/error_codes_for_control_flow) - [Error Codes for Control Flow](https://matklad.github.io/2025/11/06/error-codes-for-control-flow.html)
 
 ## [Archives](archives/index.md)
 
