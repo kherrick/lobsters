@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-09, 00:55:47](https://lobste.rs/s/jf65nn/fixing_biggest_problem_with_mechanical) - [Fixing the Biggest Problem With Mechanical Keyboards](https://youtu.be/N3FEv1qw4_w)
 * [2025-11-08, 23:43:11](https://lobste.rs/s/qvajex/trait_constrained_enums_rust) - [Trait-Constrained Enums in Rust](https://kcsongor.github.io/gadts-in-rust/)
 * [2025-11-08, 23:17:43](https://lobste.rs/s/mfglpw/dijkstra_s_algorithm_js) - [Dijkstra’s Algorithm in JS](https://github.com/trekhleb/javascript-algorithms/blob/master/src/algorithms/graph/dijkstra/README.md)
 * [2025-11-08, 22:28:16](https://lobste.rs/s/qzunfk/debugging_beagleboard_usb_boot_with) - [Debugging BeagleBoard USB boot with a sniffer: fixing omap_loader on modern PCs](https://www.downtowndougbrown.com/2025/11/debugging-beagleboard-usb-boot-with-a-sniffer-fixing-omap_loader-on-modern-pcs/)
@@ -17,7 +18,6 @@
 * [2025-11-07, 19:15:34](https://lobste.rs/s/scwreg/ffmpeg_assembly_language_lessons) - [FFmpeg Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-11-07, 19:10:22](https://lobste.rs/s/pexrmo/state_rust_dependency_ecosystem) - [The state of the Rust dependency ecosystem](https://00f.net/2025/10/17/state-of-the-rust-ecosystem/)
 * [2025-11-07, 16:11:29](https://lobste.rs/s/ku3ul2/from_web_developer_database_developer_10) - [From web developer to database developer in 10 years](https://notes.eatonphil.com/2025-02-15-from-web-developer-to-database-developer-in-10-years.html)
-* [2025-11-07, 14:28:21](https://lobste.rs/s/08srpl/announcing_magika_1_0_now_faster_smarter) - [Announcing Magika 1.0: now faster, smarter, and rebuilt in Rust](https://opensource.googleblog.com/2025/11/announcing-magika-10-now-faster-smarter.html)
 * [2025-11-07, 14:11:59](https://lobste.rs/s/syxfbv/problems_with_move_semantics_c) - [Problems With Move Semantics in C++](https://youtu.be/Klq-sNxuP2g)
 * [2025-11-07, 12:26:05](https://lobste.rs/s/swncgw/why_i_don_t_test_different_designs_at_same) - [Why I don’t test different designs at the same time](https://adamsilver.io/blog/why-i-dont-test-different-designs-at-the-same-time/)
 * [2025-11-07, 11:20:14](https://lobste.rs/s/fikz3p/typst_unlit_write_literate_haskell) - [Typst-Unlit: Write literate Haskell programs in Typst](https://cdn.oppi.li/typst-unlit.pdf)

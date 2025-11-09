@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-11-09](index.md)
+
+* [2025-11-09, 00:55:47](https://lobste.rs/s/jf65nn/fixing_biggest_problem_with_mechanical) - [Fixing the Biggest Problem With Mechanical Keyboards](https://youtu.be/N3FEv1qw4_w)
