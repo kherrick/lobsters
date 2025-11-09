@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-09, 09:52:26",
+      "https://lobste.rs/s/qx9qot/forth_is_it_still_relevant"
+    ],
+    [
+      "Forth - is it still relevant?",
+      "https://github.com/chochain/eforth"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 07:48:50",
       "https://lobste.rs/s/wktw2e/how_many_options_fit_into_boolean"
     ],
@@ -42,10 +52,10 @@
   [
     [
       "2025-11-09, 04:08:51",
-      "https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either"
+      "https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either_2021"
     ],
     [
-      "Why I don't love Rust (either)",
+      "Why I don't love Rust (either) (2021)",
       "https://cbarrete.com/rust-bad.html"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "FFmpeg Assembly Language Lessons",
       "https://github.com/FFmpeg/asm-lessons"
-    ]
-  ],
-  [
-    [
-      "2025-11-07, 19:10:22",
-      "https://lobste.rs/s/pexrmo/state_rust_dependency_ecosystem"
-    ],
-    [
-      "The state of the Rust dependency ecosystem",
-      "https://00f.net/2025/10/17/state-of-the-rust-ecosystem/"
     ]
   ],
   [
