@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-11-07, 21:13:54",
-      "https://lobste.rs/s/ghkvqm/challenges_benefits_upgrading_sea"
-    ],
-    [
-      "Challenges and Benefits of Upgrading Sea of Thieves From C++14 to C++20",
-      "https://www.youtube.com/watch?v=Nm9-xKsZoNI"
-    ]
-  ],
-  [
-    [
       "2025-11-07, 19:35:18",
       "https://lobste.rs/s/bmen3e/from_milliamperes_microamperes_lessons"
     ],
@@ -217,6 +207,16 @@
     [
       "FFmpeg Assembly Language Lessons",
       "https://github.com/FFmpeg/asm-lessons"
+    ]
+  ],
+  [
+    [
+      "2025-11-07, 19:10:22",
+      "https://lobste.rs/s/pexrmo/state_rust_dependency_ecosystem"
+    ],
+    [
+      "The state of the Rust dependency ecosystem",
+      "https://00f.net/2025/10/17/state-of-the-rust-ecosystem/"
     ]
   ],
   [
