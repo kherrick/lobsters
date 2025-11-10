@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-10, 17:09:49](https://lobste.rs/s/pmnlav/belgian_ai_scientists_resist_use_ai) - [Belgian AI scientists resist the use of AI in academia](https://apache.be/2025/10/24/belgian-ai-scientists-resist-use-ai-academia)
 * [2025-11-10, 16:43:53](https://lobste.rs/s/z5a1nb/natural_language_semantic_analysis) - [Natural Language, Semantic Analysis, and Interactive Fiction (2006)](https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf)
 * [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 * [2025-11-10, 15:32:28](https://lobste.rs/s/pkktfc/sass_css_preprocessor_survived) - [SASS: The CSS Preprocessor That Survived the Apocalypse](https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/)
-* [2025-11-10, 15:25:20](https://lobste.rs/s/necwp9/man_we_knew_loved_as_dhh_is_gone) - [The man we knew and loved as dhh is gone](https://okayfail.com/2025/in-praise-of-dhh.html)
+* [2025-11-10, 15:25:20](https://lobste.rs/s/necwp9/i_m) - [I’m](https://okayfail.com/2025/in-praise-of-dhh.html)
 * [2025-11-10, 14:57:02](https://lobste.rs/s/6jiur6/building_high_performance_ticketing) - [Building a High-Performance Ticketing System with TigerBeetle](https://renerocks.ai/blog/2025-11-02--tigerfans/)
 * [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 13:14:55](https://lobste.rs/s/ni1qi1/android_security_bulletin_november_2025) - [Android security bulletin: November 2025 patch fixes zero-click RCE](https://source.android.com/docs/security/bulletin/2025-11-01)
@@ -24,7 +25,6 @@
 * [2025-11-09, 16:47:54](https://lobste.rs/s/53xbdq/about_keepassxc_s_code_quality_control) - [About KeePassXC’s Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
 * [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
 * [2025-11-09, 12:48:17](https://lobste.rs/s/cxbkzm/imperative_relational) - [Imperative to relational](https://madhadron.com/imperative_to_relational.html)
-* [2025-11-09, 04:16:37](https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like) - [Ironclad, a formally verified Unix-like kernel written in Ada](https://ironclad-os.org/)
 
 ## [Archives](archives/index.md)
 
