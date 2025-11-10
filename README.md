@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-10, 19:54:46](https://lobste.rs/s/6ei6oe/arm_homelab_box_minisforum_ms_r1) - [Arm Homelab-in-a-Box – Minisforum MS-R1](https://youtu.be/WXfd0rOOtkg)
 * [2025-11-10, 18:48:09](https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries) - [Exposing Git Information in Rust Binaries Built With Nix](https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/)
 * [2025-11-10, 18:23:28](https://lobste.rs/s/mytmnl/memory_safety_for_skeptics) - [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
 * [2025-11-10, 17:43:10](https://lobste.rs/s/haoxkc/underwear_fixed_point) - [The Underwear Fixed Point](https://notes.hella.cheap/the-underwear-fixed-point.html)
-* [2025-11-10, 17:28:49](https://lobste.rs/s/w5fdjv/css_extraction_library_for_vite_preact) - [CSS Extraction Library for Vite and Preact](https://github.com/aziis98/preact-css-extract)
 * [2025-11-10, 16:43:53](https://lobste.rs/s/z5a1nb/natural_language_semantic_analysis) - [Natural Language, Semantic Analysis, and Interactive Fiction (2006)](https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf)
 * [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 * [2025-11-10, 15:32:28](https://lobste.rs/s/pkktfc/sass_css_preprocessor_survived) - [SASS: The CSS Preprocessor That Survived the Apocalypse](https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/)
