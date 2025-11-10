@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 11:19:25",
+      "https://lobste.rs/s/ekawwc/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/ekawwc/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 09:42:50",
       "https://lobste.rs/s/ktf9p0/mozilla_museum_2000"
     ],
@@ -167,16 +177,6 @@
     [
       "Imperative to relational",
       "https://madhadron.com/imperative_to_relational.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 12:25:12",
-      "https://lobste.rs/s/xhrbh0/building_vector_search_engine_lets_you"
-    ],
-    [
-      "Building a vector search engine that lets you choose precision at query time",
-      "https://clickhouse.com/blog/qbit-vector-search"
     ]
   ],
   [
