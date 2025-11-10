@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 17:09:49",
+      "https://lobste.rs/s/pmnlav/belgian_ai_scientists_resist_use_ai"
+    ],
+    [
+      "Belgian AI scientists resist the use of AI in academia",
+      "https://apache.be/2025/10/24/belgian-ai-scientists-resist-use-ai-academia"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 16:43:53",
       "https://lobste.rs/s/z5a1nb/natural_language_semantic_analysis"
     ],
@@ -32,10 +42,10 @@
   [
     [
       "2025-11-10, 15:25:20",
-      "https://lobste.rs/s/necwp9/man_we_knew_loved_as_dhh_is_gone"
+      "https://lobste.rs/s/necwp9/i_m"
     ],
     [
-      "The man we knew and loved as dhh is gone",
+      "I’m",
       "https://okayfail.com/2025/in-praise-of-dhh.html"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Imperative to relational",
       "https://madhadron.com/imperative_to_relational.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 04:16:37",
-      "https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like"
-    ],
-    [
-      "Ironclad, a formally verified Unix-like kernel written in Ada",
-      "https://ironclad-os.org/"
     ]
   ]
 ]
