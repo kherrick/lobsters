@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
 * [2025-11-10, 22:39:34](https://lobste.rs/s/zqhnsy/refreshing_apache_xml_infrastructure) - [Refreshing Apache XML Infrastructure](https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/)
+* [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
 * [2025-11-10, 20:43:54](https://lobste.rs/s/dlzkly/rust_hashing_cheat_sheet) - [Rust Hashing Cheat Sheet](https://bd103.github.io/blog/2025-11-10-rust-hashing-cheat-sheet/)
 * [2025-11-10, 19:54:46](https://lobste.rs/s/6ei6oe/arm_homelab_box_minisforum_ms_r1) - [Arm Homelab-in-a-Box – Minisforum MS-R1](https://youtu.be/WXfd0rOOtkg)
 * [2025-11-10, 18:48:09](https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries) - [Exposing Git Information in Rust Binaries Built With Nix](https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/)
