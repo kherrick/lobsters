@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 13:14:55](https://lobste.rs/s/ni1qi1/android_security_bulletin_november_2025) - [Android security bulletin: November 2025 patch fixes zero-click RCE](https://source.android.com/docs/security/bulletin/2025-11-01)
 * [2025-11-10, 12:31:12](https://lobste.rs/s/mzye3p/writing_your_own_beam) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-10, 12:19:02](https://lobste.rs/s/ln3nzt/error_model_2016) - [The Error Model (2016)](https://joeduffyblog.com/2016/02/07/the-error-model/)
@@ -14,7 +15,6 @@
 * [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 * [2025-11-09, 22:58:51](https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test) - [Software design patterns; Are there test cases or recipes for specific patterns?](https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test)
 * [2025-11-09, 21:03:59](https://lobste.rs/s/zhwdem/plan_for_5_10_faster_free_threaded_jit_by) - [A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16](https://fidget-spinner.github.io/posts/faster-jit-plan.html)
-* [2025-11-09, 18:34:57](https://lobste.rs/s/reouib/neovim_vs_emacs_roundtable_w_tj_devries) - [Neovim vs Emacs | Roundtable w/ TJ DeVries, DistroTube, Greg Anders & Joshua Blais](https://www.youtube.com/watch?v=SnhcXR9CKno)
 * [2025-11-09, 18:14:04](https://lobste.rs/s/qpbl8s/acme_user_interface_for_programmers_1994) - [Acme: A User Interface for Programmers (1994)](https://doc.cat-v.org/plan_9/4th_edition/papers/acme/)
 * [2025-11-09, 16:47:54](https://lobste.rs/s/53xbdq/about_keepassxc_s_code_quality_control) - [About KeePassXC’s Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
 * [2025-11-09, 15:32:23](https://lobste.rs/s/t0fjqn/sprites_mods_kid_cam_firmware_modding) - [Sprites mods - Kid-cam firmware modding](https://spritesmods.com/?art=kid_cam)

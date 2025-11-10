@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 13:14:55](https://lobste.rs/s/ni1qi1/android_security_bulletin_november_2025) - [Android security bulletin: November 2025 patch fixes zero-click RCE](https://source.android.com/docs/security/bulletin/2025-11-01)
 * [2025-11-10, 12:31:12](https://lobste.rs/s/mzye3p/writing_your_own_beam) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-10, 12:19:02](https://lobste.rs/s/ln3nzt/error_model_2016) - [The Error Model (2016)](https://joeduffyblog.com/2016/02/07/the-error-model/)
