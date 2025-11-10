@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-10, 02:55:55",
+      "https://lobste.rs/s/undft9/software_synthesizer_modellled_on"
+    ],
+    [
+      "a software synthesizer modellled on Yevgeny Murzin's ANS synthesizer",
+      "https://github.com/frankenbeans/MZ2SYNTH"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 02:29:06",
+      "https://lobste.rs/s/agae3o/error_abi"
+    ],
+    [
+      "Error ABI",
+      "https://matklad.github.io/2025/11/09/error-ABI.html"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 22:58:51",
       "https://lobste.rs/s/ityd7h/software_design_patterns_are_there_test"
     ],
@@ -107,16 +127,6 @@
     [
       "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
       "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 13:29:34",
-      "https://lobste.rs/s/wruah1/return_language_oriented_programming"
-    ],
-    [
-      "The Return of Language-Oriented Programming",
-      "https://blog.evacchi.dev/posts/2025/11/09/the-return-of-language-oriented-programming/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Local First HTMX",
       "https://elijahm.com/posts/local_first_htmx/"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 10:33:39",
-      "https://lobste.rs/s/wbyo8d/jelly_slider"
-    ],
-    [
-      "Jelly Slider",
-      "https://docs.swmansion.com/TypeGPU/examples/#example=rendering--jelly-slider"
     ]
   ]
 ]
