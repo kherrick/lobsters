@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-10](index.md)
 
+* [2025-11-10, 17:28:49](https://lobste.rs/s/w5fdjv/css_extraction_library_for_vite_preact) - [CSS Extraction Library for Vite and Preact](https://github.com/aziis98/preact-css-extract)
 * [2025-11-10, 17:09:49](https://lobste.rs/s/pmnlav/belgian_ai_scientists_resist_use_ai) - [Belgian AI scientists resist the use of AI in academia](https://apache.be/2025/10/24/belgian-ai-scientists-resist-use-ai-academia)
 * [2025-11-10, 16:43:53](https://lobste.rs/s/z5a1nb/natural_language_semantic_analysis) - [Natural Language, Semantic Analysis, and Interactive Fiction (2006)](https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf)
 * [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
