@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-10, 09:42:50](https://lobste.rs/s/ktf9p0/mozilla_museum_2000) - [The Mozilla Museum (2000)](https://home.snafu.de/tilman/mozilla/)
 * [2025-11-10, 08:14:35](https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment) - [What’s your favourite podcast at the moment?](https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment)
 * [2025-11-10, 07:39:37](https://lobste.rs/s/3vyjzk/linux_kernel_looks_bite_bullet_enabling) - [The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 06:37:51](https://lobste.rs/s/tevqkd/marble_fountain) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
@@ -12,7 +13,6 @@
 * [2025-11-09, 18:14:04](https://lobste.rs/s/qpbl8s/acme_user_interface_for_programmers_1994) - [Acme: A User Interface for Programmers (1994)](https://doc.cat-v.org/plan_9/4th_edition/papers/acme/)
 * [2025-11-09, 17:10:29](https://lobste.rs/s/wmjhdx/value_classes_are_new_data_classes) - [Value classes are the new data classes](https://curiouslab.dev/0002-value-classes-are-new-data-casses.html)
 * [2025-11-09, 16:47:54](https://lobste.rs/s/53xbdq/about_keepassxc_s_code_quality_control) - [About KeePassXC’s Code Quality Control](https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/)
-* [2025-11-09, 16:37:50](https://lobste.rs/s/44zer0/16_bit_data_pointers_on_rv32) - [16-bit Data Pointers on RV32](https://wren.wtf/shower-thoughts/16-bit-data-pointers-on-rv32/)
 * [2025-11-09, 15:32:23](https://lobste.rs/s/t0fjqn/sprites_mods_kid_cam_firmware_modding) - [Sprites mods - Kid-cam firmware modding](https://spritesmods.com/?art=kid_cam)
 * [2025-11-09, 14:59:13](https://lobste.rs/s/uf12ap/email_verification_protocol_verified) - [email-verification-protocol: verified autofill](https://github.com/WICG/email-verification-protocol)
 * [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
