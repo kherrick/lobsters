@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-11-09, 16:37:50",
+      "https://lobste.rs/s/44zer0/16_bit_data_pointers_on_rv32"
+    ],
+    [
+      "16-bit Data Pointers on RV32",
+      "https://wren.wtf/shower-thoughts/16-bit-data-pointers-on-rv32/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 15:32:23",
       "https://lobste.rs/s/t0fjqn/sprites_mods_kid_cam_firmware_modding"
     ],
@@ -237,16 +247,6 @@
     [
       "opencloud - an alternative to nextcloud written in Go",
       "https://github.com/opencloud-eu/opencloud"
-    ]
-  ],
-  [
-    [
-      "2025-11-08, 15:34:59",
-      "https://lobste.rs/s/ogyjwm/local_first_htmx"
-    ],
-    [
-      "Local First HTMX",
-      "https://elijahm.com/posts/local_first_htmx/"
     ]
   ]
 ]
