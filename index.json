@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 17:43:10",
+      "https://lobste.rs/s/haoxkc/underwear_fixed_point"
+    ],
+    [
+      "The Underwear Fixed Point",
+      "https://notes.hella.cheap/the-underwear-fixed-point.html"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 17:28:49",
       "https://lobste.rs/s/w5fdjv/css_extraction_library_for_vite_preact"
     ],
@@ -42,10 +52,10 @@
   [
     [
       "2025-11-10, 15:25:20",
-      "https://lobste.rs/s/necwp9/i_m"
+      "https://lobste.rs/s/necwp9/praise_dhh"
     ],
     [
-      "I’m",
+      "In praise of dhh",
       "https://okayfail.com/2025/in-praise-of-dhh.html"
     ]
   ],
@@ -97,6 +107,16 @@
     [
       "The Error Model (2016)",
       "https://joeduffyblog.com/2016/02/07/the-error-model/"
+    ]
+  ],
+  [
+    [
+      "2025-11-10, 11:59:50",
+      "https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines"
+    ],
+    [
+      "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
+      "https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning"
     ]
   ],
   [
@@ -211,42 +231,22 @@
   ],
   [
     [
+      "2025-11-09, 16:47:54",
+      "https://lobste.rs/s/53xbdq/about_keepassxc_s_code_quality_control"
+    ],
+    [
+      "About KeePassXC’s Code Quality Control",
+      "https://keepassxc.org/blog/2025-11-09-about-keepassxcs-code-quality-control/"
+    ]
+  ],
+  [
+    [
       "2025-11-09, 14:52:32",
       "https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils"
     ],
     [
       "The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10",
       "https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 12:48:17",
-      "https://lobste.rs/s/cxbkzm/imperative_relational"
-    ],
-    [
-      "Imperative to relational",
-      "https://madhadron.com/imperative_to_relational.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 04:16:37",
-      "https://lobste.rs/s/eudvwq/ironclad_formally_verified_unix_like"
-    ],
-    [
-      "Ironclad, a formally verified Unix-like kernel written in Ada",
-      "https://ironclad-os.org/"
-    ]
-  ],
-  [
-    [
-      "2025-11-09, 04:08:51",
-      "https://lobste.rs/s/irzh59/why_i_don_t_love_rust_either_2021"
-    ],
-    [
-      "Why I don't love Rust (either) (2021)",
-      "https://cbarrete.com/rust-bad.html"
     ]
   ]
 ]
