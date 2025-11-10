@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-10, 18:48:09",
+      "https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries"
+    ],
+    [
+      "Exposing Git Information in Rust Binaries Built With Nix",
+      "https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/"
+    ]
+  ],
+  [
+    [
       "2025-11-10, 18:23:28",
       "https://lobste.rs/s/mytmnl/memory_safety_for_skeptics"
     ],
@@ -147,16 +157,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/ekawwc/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 09:42:50",
-      "https://lobste.rs/s/ktf9p0/mozilla_museum_2000"
-    ],
-    [
-      "The Mozilla Museum (2000)",
-      "https://home.snafu.de/tilman/mozilla/"
     ]
   ],
   [
