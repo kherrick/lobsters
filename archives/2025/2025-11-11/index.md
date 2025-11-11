@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 18:24:40](https://lobste.rs/s/nyd4p0/rtc_rk808_compensate_for_rockchip) - [rtc: rk808: Compensate for Rockchip calendar deviation on November 31st](https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716)
+* [2025-11-11, 18:24:09](https://lobste.rs/s/hw54as/domain_for_queer_community_by_queer) - [A domain for the Queer Community, by the Queer Community](https://www.dotmeow.org/en/what)
 * [2025-11-11, 17:09:40](https://lobste.rs/s/sag4i3/cache_friendly_low_memory_lanczos) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
 * [2025-11-11, 17:03:46](https://lobste.rs/s/bxb7ed/you_win_some_you_lose_some_on_papercraft) - [You Win Some, You Lose Some: on Papercraft and more](https://noteflakes.com/articles/2025-11-11-win-some-lose-some)
 * [2025-11-11, 16:47:15](https://lobste.rs/s/5hjn9y/empirical_evaluation_property_based) - [An Empirical Evaluation of Property-Based Testing in Python](https://dl.acm.org/doi/pdf/10.1145/3764068)
