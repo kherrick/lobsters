@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-11, 22:49:27",
+      "https://lobste.rs/s/yvtunz/sudo_rs_update_address_two_moderate"
+    ],
+    [
+      "sudo-rs update to address two moderate vulnerabilities",
+      "https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 21:24:42",
       "https://lobste.rs/s/nr2reg/readonly_characters_are_big_deal"
     ],
@@ -177,16 +187,6 @@
     [
       "Just call clone (or alias)",
       "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 05:41:18",
-      "https://lobste.rs/s/ha5lun/installing_using_hp_ux_9"
-    ],
-    [
-      "Installing and using HP-UX 9",
-      "https://thejpster.org.uk/blog/blog-2025-11-08/"
     ]
   ],
   [
