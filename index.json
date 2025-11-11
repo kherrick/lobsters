@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-11-11, 09:54:45",
+      "https://lobste.rs/s/qcsc9a/ad_hoc_profiling"
+    ],
+    [
+      "Ad Hoc Profiling",
+      "https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 09:04:03",
       "https://lobste.rs/s/k427fe/just_call_clone_alias"
     ],
@@ -197,16 +207,6 @@
     [
       "Head in the Zed Cloud",
       "https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 13:14:55",
-      "https://lobste.rs/s/ni1qi1/android_security_bulletin_november_2025"
-    ],
-    [
-      "Android security bulletin: November 2025 patch fixes zero-click RCE",
-      "https://source.android.com/docs/security/bulletin/2025-11-01"
     ]
   ],
   [
