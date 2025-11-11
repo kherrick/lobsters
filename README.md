@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 15:09:36](https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git) - [Grebedoc — static site hosting for git forges](https://grebedoc.dev)
+* [2025-11-11, 15:08:23](https://lobste.rs/s/1bnw6r/how_would_you_like_your_iceberg_sir_stream) - [How Would You Like Your Iceberg Sir? Stream or Batch Ordered?](https://jack-vanlightly.com/blog/2025/11/5/how-would-you-like-your-iceberg-sir-stream-or-batch-ordered)
+* [2025-11-11, 14:59:05](https://lobste.rs/s/socihf/firefox_expands_fingerprint) - [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
 * [2025-11-11, 14:52:37](https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with) - [A hypothetical search engine on S3 with Tantivy and warm cache on NVMe](https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/)
 * [2025-11-11, 14:43:35](https://lobste.rs/s/9skgxp/scaling_hnsws) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 12:14:41](https://lobste.rs/s/8gbtka/dependency_cutout_workflow_pattern) - [The “Dependency Cutout” Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
@@ -8,7 +11,6 @@
 * [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling_2018) - [Ad Hoc Profiling (2018)](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 08:00:31](https://lobste.rs/s/gfurgn/trip_report_november_2025_iso_c_standards) - [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/)
-* [2025-11-11, 07:13:21](https://lobste.rs/s/j74iam/gixy_ng_gixy_fork_with_updated_improved) - [gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]](https://joshua.hu/gixy-ng-new-version-gixy-updated-checks)
 * [2025-11-11, 05:41:18](https://lobste.rs/s/ha5lun/installing_using_hp_ux_9) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
 * [2025-11-11, 00:26:42](https://lobste.rs/s/qj60m9/trmnl_e_ink_dashboard_stay_focused) - [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
@@ -23,8 +25,6 @@
 * [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 12:31:12](https://lobste.rs/s/mzye3p/writing_your_own_beam) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
-* [2025-11-10, 07:39:37](https://lobste.rs/s/3vyjzk/linux_kernel_looks_bite_bullet_enabling) - [The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
-* [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 
 ## [Archives](archives/index.md)
 
