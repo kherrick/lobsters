@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-11, 19:37:40](https://lobste.rs/s/yc3vr8/agentic_pelican_on_bicycle) - [Agentic Pelican on a Bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
+* [2025-11-11, 19:04:50](https://lobste.rs/s/f5phay/catalog_side_effects) - [A catalog of side effects](https://bernsteinbear.com/blog/compiler-effects/)
 * [2025-11-11, 18:24:40](https://lobste.rs/s/nyd4p0/rtc_rk808_compensate_for_rockchip) - [rtc: rk808: Compensate for Rockchip calendar deviation on November 31st](https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716)
 * [2025-11-11, 18:24:09](https://lobste.rs/s/hw54as/domain_for_queer_community_by_queer) - [A domain for the Queer Community, by the Queer Community](https://www.dotmeow.org/en/what)
 * [2025-11-11, 17:09:40](https://lobste.rs/s/sag4i3/cache_friendly_low_memory_lanczos) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
@@ -9,6 +10,7 @@
 * [2025-11-11, 15:51:31](https://lobste.rs/s/uzihto/announcing_net_10) - [Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-11, 15:09:36](https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git) - [Grebedoc — static site hosting for git forges](https://grebedoc.dev)
 * [2025-11-11, 14:59:05](https://lobste.rs/s/socihf/firefox_expands_fingerprint) - [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
+* [2025-11-11, 14:52:37](https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with) - [A hypothetical search engine on S3 with Tantivy and warm cache on NVMe](https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/)
 * [2025-11-11, 14:43:35](https://lobste.rs/s/9skgxp/scaling_hnsws) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 12:14:41](https://lobste.rs/s/8gbtka/dependency_cutout_workflow_pattern) - [The “Dependency Cutout” Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 * [2025-11-11, 11:36:06](https://lobste.rs/s/0zfxtn/zig_c_interop) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
@@ -20,9 +22,7 @@
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
 * [2025-11-11, 00:26:42](https://lobste.rs/s/qj60m9/trmnl_e_ink_dashboard_stay_focused) - [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
-* [2025-11-10, 18:48:09](https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries) - [Exposing Git Information in Rust Binaries Built With Nix](https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/)
 * [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
-* [2025-11-10, 15:25:20](https://lobste.rs/s/necwp9/praise_dhh) - [In praise of dhh](https://okayfail.com/2025/in-praise-of-dhh.html)
 * [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
 

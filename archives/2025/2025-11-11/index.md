@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
 * [2025-11-11, 19:37:40](https://lobste.rs/s/yc3vr8/agentic_pelican_on_bicycle) - [Agentic Pelican on a Bicycle](https://www.robert-glaser.de/agentic-pelican-on-a-bicycle/)
+* [2025-11-11, 19:04:50](https://lobste.rs/s/f5phay/catalog_side_effects) - [A catalog of side effects](https://bernsteinbear.com/blog/compiler-effects/)
 * [2025-11-11, 18:24:40](https://lobste.rs/s/nyd4p0/rtc_rk808_compensate_for_rockchip) - [rtc: rk808: Compensate for Rockchip calendar deviation on November 31st](https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716)
 * [2025-11-11, 18:24:09](https://lobste.rs/s/hw54as/domain_for_queer_community_by_queer) - [A domain for the Queer Community, by the Queer Community](https://www.dotmeow.org/en/what)
 * [2025-11-11, 17:09:40](https://lobste.rs/s/sag4i3/cache_friendly_low_memory_lanczos) - [Cache-Friendly, Low-Memory Lanczos Algorithm in Rust](https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/)
