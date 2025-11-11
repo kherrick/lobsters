@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 05:41:18](https://lobste.rs/s/ha5lun/installing_using_hp_ux_9) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 * [2025-11-11, 05:28:32](https://lobste.rs/s/xey6hv/mojo_mlir_based_performance_portable_hpc) - [Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](https://arxiv.org/pdf/2509.21039)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
 * [2025-11-11, 00:26:42](https://lobste.rs/s/qj60m9/trmnl_e_ink_dashboard_stay_focused) - [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
@@ -24,7 +25,6 @@
 * [2025-11-10, 06:37:42](https://lobste.rs/s/ugx90t/voxel_engine_weekend) - [Voxel Engine in a Weekend](https://daymare.net/blogs/voxel-engine-in-a-weekend/)
 * [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
 * [2025-11-09, 21:03:59](https://lobste.rs/s/zhwdem/plan_for_5_10_faster_free_threaded_jit_by) - [A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16](https://fidget-spinner.github.io/posts/faster-jit-plan.html)
-* [2025-11-09, 14:52:32](https://lobste.rs/s/0rtjwc/new_du_command_lib_cargo_bin_coreutils) - [The new `du` command (in `/lib/cargo/bin/coreutils`) outputs wrong sizes in Ubuntu 25.10](https://askubuntu.com/questions/1559396/the-new-du-command-in-lib-cargo-bin-coreutils-outputs-wrong-sizes-in-ubun)
 
 ## [Archives](archives/index.md)
 
