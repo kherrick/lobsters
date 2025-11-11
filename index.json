@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-11, 12:14:41",
+      "https://lobste.rs/s/8gbtka/dependency_cutout_workflow_pattern"
+    ],
+    [
+      "The “Dependency Cutout” Workflow Pattern",
+      "https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 11:36:06",
       "https://lobste.rs/s/0zfxtn/zig_c_interop"
     ],
@@ -27,16 +37,6 @@
     [
       "A Survival Guide for the AI Age",
       "https://www.youtube.com/watch?v=C7BWgWdhZwE"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 09:54:45",
-      "https://lobste.rs/s/qcsc9a/ad_hoc_profiling"
-    ],
-    [
-      "Ad Hoc Profiling",
-      "https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/"
     ]
   ],
   [
