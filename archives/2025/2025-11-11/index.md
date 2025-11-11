@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 11:11:12](https://lobste.rs/s/b2yzmq/survival_guide_for_ai_age) - [A Survival Guide for the AI Age](https://www.youtube.com/watch?v=C7BWgWdhZwE)
 * [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling) - [Ad Hoc Profiling](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 08:00:31](https://lobste.rs/s/gfurgn/trip_report_november_2025_iso_c_standards) - [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/)
