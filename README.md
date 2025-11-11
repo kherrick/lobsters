@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 05:28:32](https://lobste.rs/s/xey6hv/mojo_mlir_based_performance_portable_hpc) - [Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](https://arxiv.org/pdf/2509.21039)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
 * [2025-11-11, 00:26:42](https://lobste.rs/s/qj60m9/trmnl_e_ink_dashboard_stay_focused) - [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
 * [2025-11-10, 22:39:34](https://lobste.rs/s/zqhnsy/refreshing_apache_xml_infrastructure) - [Refreshing Apache XML Infrastructure](https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
-* [2025-11-10, 19:54:46](https://lobste.rs/s/6ei6oe/arm_homelab_box_minisforum_ms_r1) - [Arm Homelab-in-a-Box – Minisforum MS-R1](https://youtu.be/WXfd0rOOtkg)
 * [2025-11-10, 18:48:09](https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries) - [Exposing Git Information in Rust Binaries Built With Nix](https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/)
 * [2025-11-10, 18:23:28](https://lobste.rs/s/mytmnl/memory_safety_for_skeptics) - [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
 * [2025-11-10, 17:43:10](https://lobste.rs/s/haoxkc/underwear_fixed_point) - [The Underwear Fixed Point](https://notes.hella.cheap/the-underwear-fixed-point.html)
