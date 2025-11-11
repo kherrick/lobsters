@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-11, 18:24:09",
-      "https://lobste.rs/s/hw54as/domain_for_queer_community_by_queer"
-    ],
-    [
-      "A domain for the Queer Community, by the Queer Community",
-      "https://www.dotmeow.org/en/what"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 17:09:40",
       "https://lobste.rs/s/sag4i3/cache_friendly_low_memory_lanczos"
     ],
@@ -77,6 +67,16 @@
     [
       "Firefox expands fingerprint protections: advancing towards a more private web",
       "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 14:52:37",
+      "https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with"
+    ],
+    [
+      "A hypothetical search engine on S3 with Tantivy and warm cache on NVMe",
+      "https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/"
     ]
   ],
   [
