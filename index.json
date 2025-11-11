@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-11, 23:40:54",
+      "https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust"
+    ],
+    [
+      "Servo: A new web engine written in Rust",
+      "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 22:49:27",
       "https://lobste.rs/s/yvtunz/sudo_rs_update_address_two_moderate"
     ],
@@ -77,16 +87,6 @@
     [
       "Cache-Friendly, Low-Memory Lanczos Algorithm in Rust",
       "https://lukefleed.xyz/posts/cache-friendly-low-memory-lanczos/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 17:03:46",
-      "https://lobste.rs/s/bxb7ed/you_win_some_you_lose_some_on_papercraft"
-    ],
-    [
-      "You Win Some, You Lose Some: on Papercraft and more",
-      "https://noteflakes.com/articles/2025-11-11-win-some-lose-some"
     ]
   ],
   [
