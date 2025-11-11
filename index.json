@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-11-11, 14:52:37",
+      "https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with"
+    ],
+    [
+      "A hypothetical search engine on S3 with Tantivy and warm cache on NVMe",
+      "https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 14:43:35",
       "https://lobste.rs/s/9skgxp/scaling_hnsws"
     ],
@@ -137,16 +147,6 @@
     [
       "TRMNL | E-ink dashboard to stay focused",
       "https://usetrmnl.com/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 22:39:34",
-      "https://lobste.rs/s/zqhnsy/refreshing_apache_xml_infrastructure"
-    ],
-    [
-      "Refreshing Apache XML Infrastructure",
-      "https://blog.adamretter.org.uk/refreshing-apache-xml-infrastructure/"
     ]
   ],
   [
