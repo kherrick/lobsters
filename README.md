@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 08:00:31](https://lobste.rs/s/gfurgn/trip_report_november_2025_iso_c_standards) - [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/)
 * [2025-11-11, 07:13:21](https://lobste.rs/s/j74iam/gixy_ng_gixy_fork_with_updated_improved) - [gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]](https://joshua.hu/gixy-ng-new-version-gixy-updated-checks)
 * [2025-11-11, 05:41:18](https://lobste.rs/s/ha5lun/installing_using_hp_ux_9) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
@@ -10,7 +11,6 @@
 * [2025-11-10, 18:48:09](https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries) - [Exposing Git Information in Rust Binaries Built With Nix](https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/)
 * [2025-11-10, 18:23:28](https://lobste.rs/s/mytmnl/memory_safety_for_skeptics) - [Memory Safety for Skeptics](https://queue.acm.org/detail.cfm?id=3773095)
 * [2025-11-10, 17:43:10](https://lobste.rs/s/haoxkc/underwear_fixed_point) - [The Underwear Fixed Point](https://notes.hella.cheap/the-underwear-fixed-point.html)
-* [2025-11-10, 16:43:53](https://lobste.rs/s/z5a1nb/natural_language_semantic_analysis) - [Natural Language, Semantic Analysis, and Interactive Fiction (2006)](https://worrydream.com/refs/Nelson_G_2006_-_Natural_Language,_Semantic_Analysis_and_Interactive_Fiction.pdf)
 * [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 * [2025-11-10, 15:32:28](https://lobste.rs/s/pkktfc/sass_css_preprocessor_survived) - [SASS: The CSS Preprocessor That Survived the Apocalypse](https://en.andros.dev/blog/e9ded1a5/sass-the-css-preprocessor-that-survived-the-apocalypse/)
 * [2025-11-10, 15:25:20](https://lobste.rs/s/necwp9/praise_dhh) - [In praise of dhh](https://okayfail.com/2025/in-praise-of-dhh.html)
