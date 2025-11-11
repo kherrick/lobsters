@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 14:52:37](https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with) - [A hypothetical search engine on S3 with Tantivy and warm cache on NVMe](https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/)
+* [2025-11-11, 14:43:35](https://lobste.rs/s/9skgxp/scaling_hnsws) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 12:14:41](https://lobste.rs/s/8gbtka/dependency_cutout_workflow_pattern) - [The “Dependency Cutout” Workflow Pattern](https://blog.glyph.im/2025/11/dependency-cutout-workflow-pattern.html)
 * [2025-11-11, 11:36:06](https://lobste.rs/s/0zfxtn/zig_c_interop) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
 * [2025-11-11, 11:31:53](https://lobste.rs/s/t2fius/advent_code_on_z_machine) - [Advent of Code on the Z-machine](https://entropicthoughts.com/advent-of-code-on-z-machine)
