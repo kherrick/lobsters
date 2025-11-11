@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-11-11, 05:28:32",
+      "https://lobste.rs/s/xey6hv/mojo_mlir_based_performance_portable_hpc"
+    ],
+    [
+      "Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem",
+      "https://arxiv.org/pdf/2509.21039"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 04:34:21",
       "https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15"
     ],
@@ -227,16 +237,6 @@
     [
       "Marble Fountain",
       "https://willmorrison.net/posts/marble-fountain/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 06:37:42",
-      "https://lobste.rs/s/ugx90t/voxel_engine_weekend"
-    ],
-    [
-      "Voxel Engine in a Weekend",
-      "https://daymare.net/blogs/voxel-engine-in-a-weekend/"
     ]
   ],
   [
