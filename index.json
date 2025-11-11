@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-11, 19:04:50",
+      "https://lobste.rs/s/f5phay/catalog_side_effects"
+    ],
+    [
+      "A catalog of side effects",
+      "https://bernsteinbear.com/blog/compiler-effects/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 18:24:40",
       "https://lobste.rs/s/nyd4p0/rtc_rk808_compensate_for_rockchip"
     ],
@@ -87,6 +97,16 @@
     [
       "Firefox expands fingerprint protections: advancing towards a more private web",
       "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 14:52:37",
+      "https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with"
+    ],
+    [
+      "A hypothetical search engine on S3 with Tantivy and warm cache on NVMe",
+      "https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-11-10, 18:48:09",
-      "https://lobste.rs/s/ii5opg/exposing_git_information_rust_binaries"
-    ],
-    [
-      "Exposing Git Information in Rust Binaries Built With Nix",
-      "https://lgug2z.com/articles/exposing-git-information-in-rust-binaries-built-with-nix/"
-    ]
-  ],
-  [
-    [
       "2025-11-10, 15:51:14",
       "https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices"
     ],
     [
       "Opinion piece: On Zig (and the design choices within)",
       "https://blueberrywren.dev/blog/on-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 15:25:20",
-      "https://lobste.rs/s/necwp9/praise_dhh"
-    ],
-    [
-      "In praise of dhh",
-      "https://okayfail.com/2025/in-praise-of-dhh.html"
     ]
   ],
   [
