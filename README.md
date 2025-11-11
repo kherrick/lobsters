@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling) - [Ad Hoc Profiling](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 08:00:31](https://lobste.rs/s/gfurgn/trip_report_november_2025_iso_c_standards) - [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/)
 * [2025-11-11, 07:13:21](https://lobste.rs/s/j74iam/gixy_ng_gixy_fork_with_updated_improved) - [gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]](https://joshua.hu/gixy-ng-new-version-gixy-updated-checks)
@@ -24,7 +25,6 @@
 * [2025-11-10, 06:37:51](https://lobste.rs/s/tevqkd/marble_fountain) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
 * [2025-11-10, 06:37:42](https://lobste.rs/s/ugx90t/voxel_engine_weekend) - [Voxel Engine in a Weekend](https://daymare.net/blogs/voxel-engine-in-a-weekend/)
 * [2025-11-10, 02:29:06](https://lobste.rs/s/agae3o/error_abi) - [Error ABI](https://matklad.github.io/2025/11/09/error-ABI.html)
-* [2025-11-09, 21:03:59](https://lobste.rs/s/zhwdem/plan_for_5_10_faster_free_threaded_jit_by) - [A Plan for 5-10%* Faster Free-Threaded JIT by Python 3.16](https://fidget-spinner.github.io/posts/faster-jit-plan.html)
 
 ## [Archives](archives/index.md)
 
