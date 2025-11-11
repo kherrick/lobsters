@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 08:00:31](https://lobste.rs/s/gfurgn/trip_report_november_2025_iso_c_standards) - [Trip report: November 2025 ISO C++ standards meeting (Kona, USA)](https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/)
 * [2025-11-11, 07:13:21](https://lobste.rs/s/j74iam/gixy_ng_gixy_fork_with_updated_improved) - [gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]](https://joshua.hu/gixy-ng-new-version-gixy-updated-checks)
 * [2025-11-11, 05:41:18](https://lobste.rs/s/ha5lun/installing_using_hp_ux_9) - [Installing and using HP-UX 9](https://thejpster.org.uk/blog/blog-2025-11-08/)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
@@ -19,7 +20,6 @@
 * [2025-11-10, 12:31:12](https://lobste.rs/s/mzye3p/writing_your_own_beam) - [Writing your own BEAM](https://martin.janiczek.cz/2025/11/09/writing-your-own-beam.html)
 * [2025-11-10, 12:19:02](https://lobste.rs/s/ln3nzt/error_model_2016) - [The Error Model (2016)](https://joeduffyblog.com/2016/02/07/the-error-model/)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
-* [2025-11-10, 08:14:35](https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment) - [What’s your favourite podcast at the moment?](https://lobste.rs/s/kinpl3/what_s_your_favourite_podcast_at_moment)
 * [2025-11-10, 07:39:37](https://lobste.rs/s/3vyjzk/linux_kernel_looks_bite_bullet_enabling) - [The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions](https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext)
 * [2025-11-10, 06:37:51](https://lobste.rs/s/tevqkd/marble_fountain) - [Marble Fountain](https://willmorrison.net/posts/marble-fountain/)
 * [2025-11-10, 06:37:42](https://lobste.rs/s/ugx90t/voxel_engine_weekend) - [Voxel Engine in a Weekend](https://daymare.net/blogs/voxel-engine-in-a-weekend/)
