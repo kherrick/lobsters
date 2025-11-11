@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-11, 15:09:36",
+      "https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git"
+    ],
+    [
+      "Grebedoc — static site hosting for git forges",
+      "https://grebedoc.dev"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 15:08:23",
+      "https://lobste.rs/s/1bnw6r/how_would_you_like_your_iceberg_sir_stream"
+    ],
+    [
+      "How Would You Like Your Iceberg Sir? Stream or Batch Ordered?",
+      "https://jack-vanlightly.com/blog/2025/11/5/how-would-you-like-your-iceberg-sir-stream-or-batch-ordered"
+    ]
+  ],
+  [
+    [
+      "2025-11-11, 14:59:05",
+      "https://lobste.rs/s/socihf/firefox_expands_fingerprint"
+    ],
+    [
+      "Firefox expands fingerprint protections: advancing towards a more private web",
+      "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
+    ]
+  ],
+  [
+    [
       "2025-11-11, 14:52:37",
       "https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with"
     ],
@@ -77,16 +107,6 @@
     [
       "Trip report: November 2025 ISO C++ standards meeting (Kona, USA)",
       "https://herbsutter.com/2025/11/10/trip-report-november-2025-iso-c-standards-meeting-kona-usa/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 07:13:21",
-      "https://lobste.rs/s/j74iam/gixy_ng_gixy_fork_with_updated_improved"
-    ],
-    [
-      "gixy-ng: gixy fork with updated, improved, and new check [ LLMs for plagiarising code ]",
-      "https://joshua.hu/gixy-ng-new-version-gixy-updated-checks"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
       "https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 07:39:37",
-      "https://lobste.rs/s/3vyjzk/linux_kernel_looks_bite_bullet_enabling"
-    ],
-    [
-      "The Linux Kernel Looks To \"Bite The Bullet\" In Enabling Microsoft C Extensions",
-      "https://www.phoronix.com/news/Linux-6.19-Patch-Would-MS-Ext"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 02:29:06",
-      "https://lobste.rs/s/agae3o/error_abi"
-    ],
-    [
-      "Error ABI",
-      "https://matklad.github.io/2025/11/09/error-ABI.html"
     ]
   ]
 ]
