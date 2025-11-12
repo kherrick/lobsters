@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-12, 13:34:00",
-      "https://lobste.rs/s/vgpqjy/fixing_lcd_screen_corruption_tektronix"
-    ],
-    [
-      "Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope",
-      "https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 12:08:51",
       "https://lobste.rs/s/yru06a/brief_look_at_freebsd"
     ],
@@ -67,6 +57,16 @@
     [
       "Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel",
       "https://www.phoronix.com/news/Google-Pixel-10-Google-DTs"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 06:13:17",
+      "https://lobste.rs/s/wf3oia/abstractions_for_asynchronously"
+    ],
+    [
+      "Abstractions for asynchronously working with series of data",
+      "https://worm-blossom.org/ufotofu"
     ]
   ],
   [
