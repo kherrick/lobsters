@@ -4,6 +4,7 @@
 * [2025-11-12, 05:35:27](https://lobste.rs/s/wfxruv/wordle_libreoffice) - [Wordle in LibreOffice](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/)
 * [2025-11-12, 03:01:18](https://lobste.rs/s/7zogyb/reproachfully_presenting_resilient) - [Reproachfully Presenting Resilient Recursive Descent Parsing](https://thunderseethe.dev/posts/parser-base/)
 * [2025-11-12, 02:58:29](https://lobste.rs/s/jghwoj/perkeep_v0_12_released) - [Perkeep v0.12 released](https://github.com/perkeep/perkeep/releases/tag/v0.12)
+* [2025-11-11, 23:55:18](https://lobste.rs/s/n0btpj/how_arch_delta_saves_80_bandwidth_on) - [How arch-delta Saves 80+% Of Bandwidth On Upgrades](https://djugei.github.io/how-arch-delta-works/)
 * [2025-11-11, 23:40:54](https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust) - [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/)
 * [2025-11-11, 22:51:12](https://lobste.rs/s/egoqqc/ffmpeg_google_fund_us_stop_sending_bugs) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 22:49:27](https://lobste.rs/s/yvtunz/sudo_rs_update_address_two_moderate) - [sudo-rs update to address two moderate vulnerabilities](https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623)
@@ -23,7 +24,6 @@
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
-* [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
 
 ## [Archives](archives/index.md)
