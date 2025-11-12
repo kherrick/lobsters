@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-12, 13:34:00",
+      "https://lobste.rs/s/vgpqjy/fixing_lcd_screen_corruption_tektronix"
+    ],
+    [
+      "Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope",
+      "https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 12:08:51",
       "https://lobste.rs/s/yru06a/brief_look_at_freebsd"
     ],
@@ -77,16 +87,6 @@
     [
       "Wordle in LibreOffice",
       "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 03:01:18",
-      "https://lobste.rs/s/7zogyb/reproachfully_presenting_resilient"
-    ],
-    [
-      "Reproachfully Presenting Resilient Recursive Descent Parsing",
-      "https://thunderseethe.dev/posts/parser-base/"
     ]
   ],
   [
