@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-11-12, 21:35:38",
+      "https://lobste.rs/s/v8bgze/linux_process_priorities_demystified"
+    ],
+    [
+      "Linux process priorities demystified",
+      "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 20:11:26",
       "https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam"
     ],
     [
-      "Valve Announces New Steam Machine, Steam Controller & Steam Frame - Phoronix",
+      "Valve Announces New Steam Machine, Steam Controller & Steam Frame",
       "https://www.phoronix.com/news/Steam-Machines-Frame-2026"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Subscripts and sizes should be signed (2018)",
       "https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 05:35:27",
-      "https://lobste.rs/s/wfxruv/wordle_libreoffice"
-    ],
-    [
-      "Wordle in LibreOffice",
-      "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/"
     ]
   ],
   [
