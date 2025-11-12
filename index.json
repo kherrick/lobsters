@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-12, 11:36:25",
+      "https://lobste.rs/s/mvct7p/async_finaliser_deadlocks"
+    ],
+    [
+      "Async and Finaliser Deadlocks",
+      "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 09:34:31",
       "https://lobste.rs/s/p8skua/i_converted_rotary_phone_into_meeting"
     ],
@@ -237,16 +247,6 @@
     [
       "Just call clone (or alias)",
       "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 11:59:50",
-      "https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines"
-    ],
-    [
-      "Vibe Code Warning – from 1k to 10k lines, a personal casestudy",
-      "https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning"
     ]
   ]
 ]
