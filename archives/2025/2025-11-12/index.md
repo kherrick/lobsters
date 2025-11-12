@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 13:34:00](https://lobste.rs/s/vgpqjy/fixing_lcd_screen_corruption_tektronix) - [Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope](https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html)
 * [2025-11-12, 12:08:51](https://lobste.rs/s/yru06a/brief_look_at_freebsd) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-12, 11:36:25](https://lobste.rs/s/mvct7p/async_finaliser_deadlocks) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
 * [2025-11-12, 10:03:01](https://lobste.rs/s/gujl0w/template_interpreters) - [Template Interpreters](https://zackoverflow.dev/writing/template-interpreters/)
