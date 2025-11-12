@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 18:17:35](https://lobste.rs/s/d6hdwo/one_weird_hashing_trick) - [One Weird Hashing Trick](https://notes.hella.cheap/one-weird-hashing-trick.html)
 * [2025-11-12, 15:46:00](https://lobste.rs/s/nilgjh/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2025](https://www.haiku-os.org/blog/waddlesplash/2025-11-11-haiku_activity_contract_report_october_2025/)
 * [2025-11-12, 13:53:17](https://lobste.rs/s/3z4pro/fun_reliable_side_channels_for_cross) - [Fun-reliable side-channels for cross-container communication](https://h4x0r.org/funreliable/)
 * [2025-11-12, 13:34:00](https://lobste.rs/s/vgpqjy/fixing_lcd_screen_corruption_tektronix) - [Fixing LCD Screen Corruption of a Tektronix TDS220 Oscilloscope](https://tomverbeure.github.io/2025/11/03/TDS220-LCD-Corruption-Fix.html)
