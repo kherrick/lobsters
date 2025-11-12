@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 08:52:46](https://lobste.rs/s/fah67j/i_didn_t_reverse_engineer_protocol_for_my) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-12, 08:16:48](https://lobste.rs/s/yllx8e/testing_augment_code_s_new_credit_system) - [Testing Augment Code's New Credit System with 4 Real Tasks](https://blog.kilocode.ai/p/testing-augment-codes-new-credit)
 * [2025-11-12, 07:25:03](https://lobste.rs/s/pqoimv/google_posts_device_trees_for_booting) - [Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
 * [2025-11-12, 06:13:17](https://lobste.rs/s/wf3oia/abstractions_for_asynchronously) - [Abstractions for asynchronously working with series of data](https://worm-blossom.org/ufotofu)
