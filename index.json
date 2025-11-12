@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-12, 08:52:46",
+      "https://lobste.rs/s/fah67j/i_didn_t_reverse_engineer_protocol_for_my"
+    ],
+    [
+      "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
+      "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 08:16:48",
       "https://lobste.rs/s/yllx8e/testing_augment_code_s_new_credit_system"
     ],
@@ -227,16 +237,6 @@
     [
       "Just call clone (or alias)",
       "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/"
-    ]
-  ],
-  [
-    [
-      "2025-11-10, 21:36:00",
-      "https://lobste.rs/s/nmcdan/reimagine_date_picker"
-    ],
-    [
-      "Reimagine the Date Picker",
-      "https://dbushell.com/2025/11/10/pikaday/"
     ]
   ],
   [
