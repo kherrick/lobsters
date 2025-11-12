@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-12, 05:37:26](https://lobste.rs/s/6k8npc/subscripts_sizes_should_be_signed_2018) - [Subscripts and sizes should be signed (2018)](https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf)
+* [2025-11-12, 05:35:27](https://lobste.rs/s/wfxruv/wordle_libreoffice) - [Wordle in LibreOffice](https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/)
 * [2025-11-12, 03:01:18](https://lobste.rs/s/7zogyb/reproachfully_presenting_resilient) - [Reproachfully Presenting Resilient Recursive Descent Parsing](https://thunderseethe.dev/posts/parser-base/)
 * [2025-11-12, 02:58:29](https://lobste.rs/s/jghwoj/perkeep_v0_12_released) - [Perkeep v0.12 released](https://github.com/perkeep/perkeep/releases/tag/v0.12)
 * [2025-11-11, 23:40:54](https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust) - [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/)
@@ -16,10 +18,8 @@
 * [2025-11-11, 15:51:31](https://lobste.rs/s/uzihto/announcing_net_10) - [Announcing .NET 10](https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/)
 * [2025-11-11, 15:09:36](https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git) - [Grebedoc — static site hosting for git forges](https://grebedoc.dev)
 * [2025-11-11, 14:59:05](https://lobste.rs/s/socihf/firefox_expands_fingerprint) - [Firefox expands fingerprint protections: advancing towards a more private web](https://blog.mozilla.org/en/firefox/fingerprinting-protections/)
-* [2025-11-11, 14:52:37](https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with) - [A hypothetical search engine on S3 with Tantivy and warm cache on NVMe](https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/)
 * [2025-11-11, 14:43:35](https://lobste.rs/s/9skgxp/scaling_hnsws) - [Scaling HNSWs](https://antirez.com/news/156)
 * [2025-11-11, 11:36:06](https://lobste.rs/s/0zfxtn/zig_c_interop) - [Zig / C++ Interop](https://tuple.app/blog/zig-cpp-interop)
-* [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling_2018) - [Ad Hoc Profiling (2018)](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
