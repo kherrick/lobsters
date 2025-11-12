@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-11, 23:55:18](https://lobste.rs/s/n0btpj/how_arch_delta_saves_80_bandwidth_on) - [How arch-delta Saves 80+% Of Bandwidth On Upgrades](https://djugei.github.io/how-arch-delta-works/)
 * [2025-11-11, 23:40:54](https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust) - [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/)
+* [2025-11-11, 22:51:12](https://lobste.rs/s/egoqqc/ffmpeg_google_fund_us_stop_sending_bugs) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 22:49:27](https://lobste.rs/s/yvtunz/sudo_rs_update_address_two_moderate) - [sudo-rs update to address two moderate vulnerabilities](https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623)
 * [2025-11-11, 21:24:42](https://lobste.rs/s/nr2reg/readonly_characters_are_big_deal) - [Readonly Characters Are a Big Deal](https://matklad.github.io/2025/11/10/readonly-characters.html)
 * [2025-11-11, 20:11:04](https://lobste.rs/s/ic1xkj/terminal_future) - [the terminal of the future](https://jyn.dev/the-terminal-of-the-future)
@@ -20,9 +22,7 @@
 * [2025-11-11, 09:54:45](https://lobste.rs/s/qcsc9a/ad_hoc_profiling_2018) - [Ad Hoc Profiling (2018)](https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/)
 * [2025-11-11, 09:04:03](https://lobste.rs/s/k427fe/just_call_clone_alias) - [Just call clone (or alias)](https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/)
 * [2025-11-11, 04:34:21](https://lobste.rs/s/ciu0j1/decompression_is_up_30_faster_cpython_3_15) - [Decompression is up to 30% faster in CPython 3.15](https://emmatyping.dev/decompression-is-up-to-30-faster-in-cpython-315.html)
-* [2025-11-11, 00:26:42](https://lobste.rs/s/qj60m9/trmnl_e_ink_dashboard_stay_focused) - [TRMNL | E-ink dashboard to stay focused](https://usetrmnl.com/)
 * [2025-11-10, 21:36:00](https://lobste.rs/s/nmcdan/reimagine_date_picker) - [Reimagine the Date Picker](https://dbushell.com/2025/11/10/pikaday/)
-* [2025-11-10, 15:51:14](https://lobste.rs/s/uclead/opinion_piece_on_zig_design_choices) - [Opinion piece: On Zig (and the design choices within)](https://blueberrywren.dev/blog/on-zig/)
 * [2025-11-10, 14:22:06](https://lobste.rs/s/h6ikaz/head_zed_cloud) - [Head in the Zed Cloud](https://maxdeviant.com/posts/2025/head-in-the-zed-cloud/)
 * [2025-11-10, 11:59:50](https://lobste.rs/s/vbv9il/vibe_code_warning_from_1k_10k_lines) - [Vibe Code Warning – from 1k to 10k lines, a personal casestudy](https://github.com/jackdoe/pico2-swd-riscv?tab=readme-ov-file#0-vibe-code-warning)
 

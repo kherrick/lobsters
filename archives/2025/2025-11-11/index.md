@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-11](index.md)
 
+* [2025-11-11, 23:55:18](https://lobste.rs/s/n0btpj/how_arch_delta_saves_80_bandwidth_on) - [How arch-delta Saves 80+% Of Bandwidth On Upgrades](https://djugei.github.io/how-arch-delta-works/)
 * [2025-11-11, 23:40:54](https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust) - [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/)
+* [2025-11-11, 22:51:12](https://lobste.rs/s/egoqqc/ffmpeg_google_fund_us_stop_sending_bugs) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 22:49:27](https://lobste.rs/s/yvtunz/sudo_rs_update_address_two_moderate) - [sudo-rs update to address two moderate vulnerabilities](https://bugs.launchpad.net/ubuntu/+source/rust-sudo-rs/+bug/2130623)
 * [2025-11-11, 21:24:42](https://lobste.rs/s/nr2reg/readonly_characters_are_big_deal) - [Readonly Characters Are a Big Deal](https://matklad.github.io/2025/11/10/readonly-characters.html)
 * [2025-11-11, 20:11:04](https://lobste.rs/s/ic1xkj/terminal_future) - [the terminal of the future](https://jyn.dev/the-terminal-of-the-future)
