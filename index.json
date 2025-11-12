@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-12, 05:37:26",
+      "https://lobste.rs/s/6k8npc/subscripts_sizes_should_be_signed_2018"
+    ],
+    [
+      "Subscripts and sizes should be signed (2018)",
+      "https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 05:35:27",
+      "https://lobste.rs/s/wfxruv/wordle_libreoffice"
+    ],
+    [
+      "Wordle in LibreOffice",
+      "https://bojidar-bg.dev/blog/2025-11-11-wordle-libreoffice/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 03:01:18",
       "https://lobste.rs/s/7zogyb/reproachfully_presenting_resilient"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-11, 14:52:37",
-      "https://lobste.rs/s/kbtni3/hypothetical_search_engine_on_s3_with"
-    ],
-    [
-      "A hypothetical search engine on S3 with Tantivy and warm cache on NVMe",
-      "https://www.shayon.dev/post/2025/314/a-hypothetical-search-engine-on-s3-with-tantivy-and-warm-cache-on-nvme/"
-    ]
-  ],
-  [
-    [
       "2025-11-11, 14:43:35",
       "https://lobste.rs/s/9skgxp/scaling_hnsws"
     ],
@@ -187,16 +197,6 @@
     [
       "Zig / C++ Interop",
       "https://tuple.app/blog/zig-cpp-interop"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 09:54:45",
-      "https://lobste.rs/s/qcsc9a/ad_hoc_profiling_2018"
-    ],
-    [
-      "Ad Hoc Profiling (2018)",
-      "https://blog.mozilla.org/nnethercote/2018/07/24/ad-hoc-profiling/"
     ]
   ],
   [
