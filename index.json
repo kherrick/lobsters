@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-12, 18:52:13",
+      "https://lobste.rs/s/x10xh7/homebrew_v5_0_0_missing_package_manager"
+    ],
+    [
+      "Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)",
+      "https://brew.sh/2025/11/12/homebrew-5.0.0/"
+    ]
+  ],
+  [
+    [
       "2025-11-12, 18:17:35",
       "https://lobste.rs/s/d6hdwo/one_weird_hashing_trick"
     ],
@@ -237,16 +247,6 @@
     [
       "Firefox expands fingerprint protections: advancing towards a more private web",
       "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 09:04:03",
-      "https://lobste.rs/s/k427fe/just_call_clone_alias"
-    ],
-    [
-      "Just call clone (or alias)",
-      "https://smallcultfollowing.com/babysteps/blog/2025/11/10/just-call-clone/"
     ]
   ]
 ]
