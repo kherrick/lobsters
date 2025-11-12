@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-12](index.md)
 
+* [2025-11-12, 21:51:57](https://lobste.rs/s/ekzild/1_problem_7_libraries_on_gpu) - [1 Problem, 7 Libraries (on the GPU)](https://www.youtube.com/watch?v=EEwREnUdbFs)
 * [2025-11-12, 21:35:38](https://lobste.rs/s/v8bgze/linux_process_priorities_demystified) - [Linux process priorities demystified](https://www.sigma-star.at/blog/2022/02/linux-proc-prios/)
 * [2025-11-12, 20:11:26](https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam) - [Valve Announces New Steam Machine, Steam Controller & Steam Frame - Phoronix](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
 * [2025-11-12, 19:24:56](https://lobste.rs/s/94bkgh/visual_types) - [Visual Types](https://types.kitlangton.com/)
