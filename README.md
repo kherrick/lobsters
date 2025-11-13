@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-13, 07:47:28](https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory) - [A Practical Guide to Transitioning to Memory-Safe Languages](https://queue.acm.org/detail.cfm?id=3773096)
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn't verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-13, 07:21:25](https://lobste.rs/s/adk54c/what_s_new_herb_v0_8) - [What's new in Herb v0.8](https://herb-tools.dev/blog/whats-new-in-herb-v0-8)
 * [2025-11-13, 04:13:04](https://lobste.rs/s/yuwqaq/practical_security_production) - [Practical Security in Production Hardening the C++ Standard Library at massive scale](https://queue.acm.org/detail.cfm?id=3773097)
@@ -18,7 +19,6 @@
 * [2025-11-12, 09:34:31](https://lobste.rs/s/p8skua/i_converted_rotary_phone_into_meeting) - [I converted a rotary phone into a meeting handset](https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/)
 * [2025-11-12, 08:52:46](https://lobste.rs/s/fah67j/i_didn_t_reverse_engineer_protocol_for_my) - [I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours](https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/)
 * [2025-11-12, 07:25:03](https://lobste.rs/s/pqoimv/google_posts_device_trees_for_booting) - [Google Posts Device Trees For Booting Pixel 10 Hardware With The Mainline Linux Kernel](https://www.phoronix.com/news/Google-Pixel-10-Google-DTs)
-* [2025-11-12, 05:37:26](https://lobste.rs/s/6k8npc/subscripts_sizes_should_be_signed_2018) - [Subscripts and sizes should be signed (2018)](https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf)
 * [2025-11-11, 23:40:54](https://lobste.rs/s/bjbyt9/servo_new_web_engine_written_rust) - [Servo: A new web engine written in Rust](https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/)
 * [2025-11-11, 22:51:12](https://lobste.rs/s/egoqqc/ffmpeg_google_fund_us_stop_sending_bugs) - [FFmpeg to Google: Fund Us or Stop Sending Bugs](https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/)
 * [2025-11-11, 20:11:04](https://lobste.rs/s/ic1xkj/terminal_future) - [the terminal of the future](https://jyn.dev/the-terminal-of-the-future)
