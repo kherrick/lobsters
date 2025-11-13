@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 04:13:04",
+      "https://lobste.rs/s/yuwqaq/practical_security_production"
+    ],
+    [
+      "Practical Security in Production Hardening the C++ Standard Library at massive scale",
+      "https://queue.acm.org/detail.cfm?id=3773097"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 03:16:35",
       "https://lobste.rs/s/ojixwz/pgfirstaid_postgresql_health_check"
     ],
@@ -187,16 +197,6 @@
     [
       "FFmpeg to Google: Fund Us or Stop Sending Bugs",
       "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 21:24:42",
-      "https://lobste.rs/s/nr2reg/readonly_characters_are_big_deal"
-    ],
-    [
-      "Readonly Characters Are a Big Deal",
-      "https://matklad.github.io/2025/11/10/readonly-characters.html"
     ]
   ],
   [
