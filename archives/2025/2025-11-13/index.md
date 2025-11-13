@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-11-13](index.md)
+
+* [2025-11-13, 02:48:00](https://lobste.rs/s/qb9dr0/art_vm_firmware_logging) - [the art of (VM) firmware logging](https://www.kraxel.org/blog/2025/10/firmware-logging/)
