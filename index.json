@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 07:21:25",
+      "https://lobste.rs/s/adk54c/what_s_new_herb_v0_8"
+    ],
+    [
+      "What's new in Herb v0.8",
+      "https://herb-tools.dev/blog/whats-new-in-herb-v0-8"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 04:13:04",
       "https://lobste.rs/s/yuwqaq/practical_security_production"
     ],
@@ -237,16 +247,6 @@
     [
       "Grebedoc — static site hosting for git forges",
       "https://grebedoc.dev"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 14:59:05",
-      "https://lobste.rs/s/socihf/firefox_expands_fingerprint"
-    ],
-    [
-      "Firefox expands fingerprint protections: advancing towards a more private web",
-      "https://blog.mozilla.org/en/firefox/fingerprinting-protections/"
     ]
   ]
 ]
