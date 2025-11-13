@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 07:42:29",
+      "https://lobste.rs/s/zqhl3v/android_developer_verification_allow"
+    ],
+    [
+      "Android developer verification: allow experienced users to accept the risks of installing software that isn't verified",
+      "https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 07:21:25",
       "https://lobste.rs/s/adk54c/what_s_new_herb_v0_8"
     ],
@@ -177,16 +187,6 @@
     [
       "Subscripts and sizes should be signed (2018)",
       "https://open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1428r0.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 02:58:29",
-      "https://lobste.rs/s/jghwoj/perkeep_v0_12_released"
-    ],
-    [
-      "Perkeep v0.12 released",
-      "https://github.com/perkeep/perkeep/releases/tag/v0.12"
     ]
   ],
   [
