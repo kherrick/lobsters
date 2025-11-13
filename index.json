@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-13, 13:41:54",
+      "https://lobste.rs/s/bz1mxo/ingress_nginx_retirement_what_you_need"
+    ],
+    [
+      "Ingress NGINX Retirement: What You Need to Know",
+      "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 13:33:13",
+      "https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust"
+    ],
+    [
+      "Patterns for Defensive Programming in Rust",
+      "https://corrode.dev/blog/defensive-programming/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 13:13:02",
       "https://lobste.rs/s/vqi1da/why_fei_fei_li_yann_lecun_are_both_betting"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-12, 08:52:46",
-      "https://lobste.rs/s/fah67j/i_didn_t_reverse_engineer_protocol_for_my"
-    ],
-    [
-      "I didn't reverse-engineer the protocol for my blood pressure monitor in 24 hours",
-      "https://james.belchamber.com/articles/blood-pressure-monitor-reverse-engineering/"
-    ]
-  ],
-  [
-    [
       "2025-11-12, 07:25:03",
       "https://lobste.rs/s/pqoimv/google_posts_device_trees_for_booting"
     ],
@@ -217,16 +227,6 @@
     [
       "FFmpeg to Google: Fund Us or Stop Sending Bugs",
       "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 20:11:04",
-      "https://lobste.rs/s/ic1xkj/terminal_future"
-    ],
-    [
-      "the terminal of the future",
-      "https://jyn.dev/the-terminal-of-the-future"
     ]
   ],
   [
