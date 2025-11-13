@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 15:41:56](https://lobste.rs/s/knelbm/there_is_no_such_thing_as_3_5_inch_floppy) - [There is no such thing as a 3.5 inch floppy disc](https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html)
 * [2025-11-13, 14:43:58](https://lobste.rs/s/6dfpil/parsing_integers_c) - [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
 * [2025-11-13, 14:39:24](https://lobste.rs/s/bfnan4/evaluating_embedding_quality_by_testing) - [Evaluating embedding quality by testing metric properties (Z3 solver)](https://www.testingbranch.com/embedding-quality/)
 * [2025-11-13, 14:29:08](https://lobste.rs/s/zwuqti/testable_dotfiles_management_with) - [Testable Dotfiles Management With Chezmoi](https://shunk031.me/post/testable-dotfiles-management-with-chezmoi/)
