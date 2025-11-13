@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 11:00:34](https://lobste.rs/s/yzr5f6/visual_studio_2026_net_10_c_14_are_released) - [Visual Studio 2026, .NET 10, and C# 14 are released](https://visualstudiomagazine.com/articles/2025/11/12/visual-studio-2026-ga-first-intelligent-developer-environment-ide.aspx)
 * [2025-11-13, 10:19:20](https://lobste.rs/s/95amsd/intermediate_developer) - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/)
 * [2025-11-13, 10:02:43](https://lobste.rs/s/i0z3ha/behind_scenes_on_how_windows_95) - [Behind the scenes on how Windows 95 application compatibility patched broken programs](https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781)
 * [2025-11-13, 09:34:47](https://lobste.rs/s/cj0wpq/truly_first_class_custom_smart_pointers) - [Truly first-class custom smart pointers](https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html)
