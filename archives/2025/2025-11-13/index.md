@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 16:28:40](https://lobste.rs/s/dxiaol/sima_2_gemini_powered_ai_agent_for_3d) - [SIMA 2: A Gemini-powered AI agent for 3D virtual worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 * [2025-11-13, 16:01:30](https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities) - [Synit: Reactivity and object capabilities in the system layer of an OS](https://synit.org/)
 * [2025-11-13, 15:51:03](https://lobste.rs/s/4inlhr/language_design_notes) - [Language Design Notes](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-13, 15:41:56](https://lobste.rs/s/knelbm/there_is_no_such_thing_as_3_5_inch_floppy) - [There is no such thing as a 3.5 inch floppy disc](https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html)
