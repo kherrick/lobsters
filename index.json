@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-13, 09:34:47",
+      "https://lobste.rs/s/cj0wpq/truly_first_class_custom_smart_pointers"
+    ],
+    [
+      "Truly first-class custom smart pointers",
+      "https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-13, 09:30:27",
+      "https://lobste.rs/s/zbrs8i/polysubml_is_broken"
+    ],
+    [
+      "PolySubML is broken",
+      "https://blog.polybdenum.com/2025/11/13/polysubml-is-broken.html"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 07:47:28",
       "https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory"
     ],
@@ -107,16 +127,6 @@
     [
       "One Weird Hashing Trick",
       "https://notes.hella.cheap/one-weird-hashing-trick.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 15:46:00",
-      "https://lobste.rs/s/nilgjh/haiku_activity_contract_report_october"
-    ],
-    [
-      "Haiku Activity & Contract Report, October 2025",
-      "https://www.haiku-os.org/blog/waddlesplash/2025-11-11-haiku_activity_contract_report_october_2025/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A domain for the Queer Community, by the Queer Community",
       "https://www.dotmeow.org/en/what"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 15:09:36",
-      "https://lobste.rs/s/btdj9j/grebedoc_static_site_hosting_for_git"
-    ],
-    [
-      "Grebedoc — static site hosting for git forges",
-      "https://grebedoc.dev"
     ]
   ]
 ]
