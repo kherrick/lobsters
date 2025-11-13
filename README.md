@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-13, 12:12:27](https://lobste.rs/s/m1l3zz/go_proposal_context_aware_dialer_methods) - [Go proposal: Context-aware Dialer methods](https://antonz.org/accepted/net-dialer-context/)
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
 * [2025-11-13, 11:00:34](https://lobste.rs/s/yzr5f6/visual_studio_2026_net_10_c_14_are_released) - [Visual Studio 2026, .NET 10, and C# 14 are released](https://visualstudiomagazine.com/articles/2025/11/12/visual-studio-2026-ga-first-intelligent-developer-environment-ide.aspx)
 * [2025-11-13, 10:02:43](https://lobste.rs/s/i0z3ha/behind_scenes_on_how_windows_95) - [Behind the scenes on how Windows 95 application compatibility patched broken programs](https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781)
@@ -7,7 +8,6 @@
 * [2025-11-13, 07:47:28](https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory) - [A Practical Guide to Transitioning to Memory-Safe Languages](https://queue.acm.org/detail.cfm?id=3773096)
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn't verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-13, 07:21:25](https://lobste.rs/s/adk54c/what_s_new_herb_v0_8) - [What's new in Herb v0.8](https://herb-tools.dev/blog/whats-new-in-herb-v0-8)
-* [2025-11-13, 04:13:04](https://lobste.rs/s/yuwqaq/practical_security_production) - [Practical Security in Production Hardening the C++ Standard Library at massive scale](https://queue.acm.org/detail.cfm?id=3773097)
 * [2025-11-13, 03:16:35](https://lobste.rs/s/ojixwz/pgfirstaid_postgresql_health_check) - [pgFirstAid-The PostgreSQL Health Check](https://github.com/randoneering/pgFirstAid)
 * [2025-11-12, 21:35:38](https://lobste.rs/s/v8bgze/linux_process_priorities_demystified) - [Linux process priorities demystified](https://www.sigma-star.at/blog/2022/02/linux-proc-prios/)
 * [2025-11-12, 20:11:26](https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam) - [Valve Announces New Steam Machine, Steam Controller & Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
