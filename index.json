@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 16:28:40",
+      "https://lobste.rs/s/dxiaol/sima_2_gemini_powered_ai_agent_for_3d"
+    ],
+    [
+      "SIMA 2: A Gemini-powered AI agent for 3D virtual worlds",
+      "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 16:01:30",
       "https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities"
     ],
@@ -237,16 +247,6 @@
     [
       "Servo: A new web engine written in Rust",
       "https://blogs.igalia.com/mrego/servo-a-new-web-engine-written-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 22:51:12",
-      "https://lobste.rs/s/egoqqc/ffmpeg_google_fund_us_stop_sending_bugs"
-    ],
-    [
-      "FFmpeg to Google: Fund Us or Stop Sending Bugs",
-      "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
     ]
   ]
 ]
