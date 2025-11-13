@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 14:29:08](https://lobste.rs/s/zwuqti/testable_dotfiles_management_with) - [Testable Dotfiles Management With Chezmoi](https://shunk031.me/post/testable-dotfiles-management-with-chezmoi/)
 * [2025-11-13, 13:41:54](https://lobste.rs/s/bz1mxo/ingress_nginx_retirement_what_you_need) - [Ingress NGINX Retirement: What You Need to Know](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
 * [2025-11-13, 13:33:13](https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-11-13, 13:13:02](https://lobste.rs/s/vqi1da/why_fei_fei_li_yann_lecun_are_both_betting) - [Why Fei-Fei Li and Yann LeCun Are Both Betting on “World Models” — and How Their Bets Differ](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
