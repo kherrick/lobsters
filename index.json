@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 11:00:34",
+      "https://lobste.rs/s/yzr5f6/visual_studio_2026_net_10_c_14_are_released"
+    ],
+    [
+      "Visual Studio 2026, .NET 10, and C# 14 are released",
+      "https://visualstudiomagazine.com/articles/2025/11/12/visual-studio-2026-ga-first-intelligent-developer-environment-ide.aspx"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 10:19:20",
       "https://lobste.rs/s/95amsd/intermediate_developer"
     ],
@@ -157,16 +167,6 @@
     [
       "Async and Finaliser Deadlocks",
       "https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 10:03:01",
-      "https://lobste.rs/s/gujl0w/template_interpreters"
-    ],
-    [
-      "Template Interpreters",
-      "https://zackoverflow.dev/writing/template-interpreters/"
     ]
   ],
   [
