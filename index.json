@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2025-11-13, 07:47:28",
-      "https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory"
-    ],
-    [
-      "A Practical Guide to Transitioning to Memory-Safe Languages",
-      "https://queue.acm.org/detail.cfm?id=3773096"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 07:42:29",
       "https://lobste.rs/s/zqhl3v/android_developer_verification_allow"
     ],
@@ -177,6 +167,16 @@
     [
       "pgFirstAid-The PostgreSQL Health Check",
       "https://github.com/randoneering/pgFirstAid"
+    ]
+  ],
+  [
+    [
+      "2025-11-12, 21:35:38",
+      "https://lobste.rs/s/v8bgze/linux_process_priorities_demystified"
+    ],
+    [
+      "Linux process priorities demystified",
+      "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/"
     ]
   ],
   [
