@@ -7,6 +7,7 @@
 * [2025-11-13, 17:57:10](https://lobste.rs/s/ctgbk2/another_fedora_flatpak_discussion) - [Another Fedora Flatpak discussion](https://lwn.net/SubscriberLink/1045247/b10b84a92c27c08a/)
 * [2025-11-13, 16:57:41](https://lobste.rs/s/ccy6ey/messing_with_bots) - [Messing with bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-13, 16:28:40](https://lobste.rs/s/dxiaol/sima_2_gemini_powered_ai_agent_for_3d) - [SIMA 2: A Gemini-powered AI agent for 3D virtual worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
+* [2025-11-13, 16:24:29](https://lobste.rs/s/bqhrhj/mechanical_translation_from_cobol) - [Mechanical translation from COBOL to Kotlin using formal methods](https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371)
 * [2025-11-13, 16:01:30](https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities) - [Synit: Reactivity and object capabilities in the system layer of an OS](https://synit.org/)
 * [2025-11-13, 15:51:03](https://lobste.rs/s/4inlhr/language_design_notes) - [Language Design Notes](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-13, 15:41:56](https://lobste.rs/s/knelbm/there_is_no_such_thing_as_3_5_inch_floppy) - [There is no such thing as a 3.5 inch floppy disc](https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html)
