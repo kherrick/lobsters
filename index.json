@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 03:16:35",
+      "https://lobste.rs/s/ojixwz/pgfirstaid_postgresql_health_check"
+    ],
+    [
+      "pgFirstAid-The PostgreSQL Health Check",
+      "https://github.com/randoneering/pgFirstAid"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 02:48:00",
       "https://lobste.rs/s/qb9dr0/art_vm_firmware_logging"
     ],
@@ -217,16 +227,6 @@
     [
       "A domain for the Queer Community, by the Queer Community",
       "https://www.dotmeow.org/en/what"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 15:51:31",
-      "https://lobste.rs/s/uzihto/announcing_net_10"
-    ],
-    [
-      "Announcing .NET 10",
-      "https://devblogs.microsoft.com/dotnet/announcing-dotnet-10/"
     ]
   ],
   [
