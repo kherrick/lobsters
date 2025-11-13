@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 13:13:02](https://lobste.rs/s/vqi1da/why_fei_fei_li_yann_lecun_are_both_betting) - [Why Fei-Fei Li and Yann LeCun Are Both Betting on “World Models” — and How Their Bets Differ](https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/)
 * [2025-11-13, 12:12:27](https://lobste.rs/s/m1l3zz/go_proposal_context_aware_dialer_methods) - [Go proposal: Context-aware Dialer methods](https://antonz.org/accepted/net-dialer-context/)
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
 * [2025-11-13, 11:00:34](https://lobste.rs/s/yzr5f6/visual_studio_2026_net_10_c_14_are_released) - [Visual Studio 2026, .NET 10, and C# 14 are released](https://visualstudiomagazine.com/articles/2025/11/12/visual-studio-2026-ga-first-intelligent-developer-environment-ide.aspx)
