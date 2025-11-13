@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-11-13, 16:24:29",
+      "https://lobste.rs/s/bqhrhj/mechanical_translation_from_cobol"
+    ],
+    [
+      "Mechanical translation from COBOL to Kotlin using formal methods",
+      "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 16:01:30",
       "https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities"
     ],
@@ -167,16 +177,6 @@
     [
       "pgFirstAid-The PostgreSQL Health Check",
       "https://github.com/randoneering/pgFirstAid"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 21:35:38",
-      "https://lobste.rs/s/v8bgze/linux_process_priorities_demystified"
-    ],
-    [
-      "Linux process priorities demystified",
-      "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/"
     ]
   ],
   [
