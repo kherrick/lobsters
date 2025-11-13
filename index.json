@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 16:01:30",
+      "https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities"
+    ],
+    [
+      "Synit: Reactivity and object capabilities in the system layer of an OS",
+      "https://synit.org/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 15:51:03",
       "https://lobste.rs/s/4inlhr/language_design_notes"
     ],
@@ -187,16 +197,6 @@
     [
       "One Weird Hashing Trick",
       "https://notes.hella.cheap/one-weird-hashing-trick.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 13:53:17",
-      "https://lobste.rs/s/3z4pro/fun_reliable_side_channels_for_cross"
-    ],
-    [
-      "Fun-reliable side-channels for cross-container communication",
-      "https://h4x0r.org/funreliable/"
     ]
   ],
   [
