@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 14:43:58](https://lobste.rs/s/6dfpil/parsing_integers_c) - [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
 * [2025-11-13, 14:39:24](https://lobste.rs/s/bfnan4/evaluating_embedding_quality_by_testing) - [Evaluating embedding quality by testing metric properties (Z3 solver)](https://www.testingbranch.com/embedding-quality/)
 * [2025-11-13, 14:29:08](https://lobste.rs/s/zwuqti/testable_dotfiles_management_with) - [Testable Dotfiles Management With Chezmoi](https://shunk031.me/post/testable-dotfiles-management-with-chezmoi/)
 * [2025-11-13, 13:41:54](https://lobste.rs/s/bz1mxo/ingress_nginx_retirement_what_you_need) - [Ingress NGINX Retirement: What You Need to Know](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
