@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-11-13, 16:24:29",
+      "https://lobste.rs/s/bqhrhj/mechanical_translation_from_cobol"
+    ],
+    [
+      "Mechanical translation from COBOL to Kotlin using formal methods",
+      "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 16:01:30",
       "https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities"
     ],
@@ -67,16 +77,6 @@
     [
       "Parsing integers in C",
       "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 14:39:24",
-      "https://lobste.rs/s/bfnan4/evaluating_embedding_quality_by_testing"
-    ],
-    [
-      "Evaluating embedding quality by testing metric properties (Z3 solver)",
-      "https://www.testingbranch.com/embedding-quality/"
     ]
   ],
   [
