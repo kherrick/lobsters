@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 20:06:25",
+      "https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things"
+    ],
+    [
+      "Rust in Android: move fast and fix things",
+      "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 17:57:10",
       "https://lobste.rs/s/ctgbk2/another_fedora_flatpak_discussion"
     ],
@@ -27,16 +37,6 @@
     [
       "SIMA 2: A Gemini-powered AI agent for 3D virtual worlds",
       "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 16:24:29",
-      "https://lobste.rs/s/bqhrhj/mechanical_translation_from_cobol"
-    ],
-    [
-      "Mechanical translation from COBOL to Kotlin using formal methods",
-      "https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-11-13, 07:47:28",
+      "https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory"
+    ],
+    [
+      "A Practical Guide to Transitioning to Memory-Safe Languages",
+      "https://queue.acm.org/detail.cfm?id=3773096"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 07:42:29",
       "https://lobste.rs/s/zqhl3v/android_developer_verification_allow"
     ],
@@ -167,16 +177,6 @@
     [
       "pgFirstAid-The PostgreSQL Health Check",
       "https://github.com/randoneering/pgFirstAid"
-    ]
-  ],
-  [
-    [
-      "2025-11-12, 21:35:38",
-      "https://lobste.rs/s/v8bgze/linux_process_priorities_demystified"
-    ],
-    [
-      "Linux process priorities demystified",
-      "https://www.sigma-star.at/blog/2022/02/linux-proc-prios/"
     ]
   ],
   [
