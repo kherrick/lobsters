@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 10:19:20](https://lobste.rs/s/95amsd/intermediate_developer) - [Intermediate Developer](https://dawranliou.com/blog/intermediate-dev/)
+* [2025-11-13, 10:02:43](https://lobste.rs/s/i0z3ha/behind_scenes_on_how_windows_95) - [Behind the scenes on how Windows 95 application compatibility patched broken programs](https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781)
 * [2025-11-13, 09:34:47](https://lobste.rs/s/cj0wpq/truly_first_class_custom_smart_pointers) - [Truly first-class custom smart pointers](https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html)
 * [2025-11-13, 09:30:27](https://lobste.rs/s/zbrs8i/polysubml_is_broken) - [PolySubML is broken](https://blog.polybdenum.com/2025/11/13/polysubml-is-broken.html)
 * [2025-11-13, 07:47:28](https://lobste.rs/s/yalcc7/practical_guide_transitioning_memory) - [A Practical Guide to Transitioning to Memory-Safe Languages](https://queue.acm.org/detail.cfm?id=3773096)
