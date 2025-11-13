@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 14:29:08",
+      "https://lobste.rs/s/zwuqti/testable_dotfiles_management_with"
+    ],
+    [
+      "Testable Dotfiles Management With Chezmoi",
+      "https://shunk031.me/post/testable-dotfiles-management-with-chezmoi/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 13:41:54",
       "https://lobste.rs/s/bz1mxo/ingress_nginx_retirement_what_you_need"
     ],
@@ -227,16 +237,6 @@
     [
       "FFmpeg to Google: Fund Us or Stop Sending Bugs",
       "https://thenewstack.io/ffmpeg-to-google-fund-us-or-stop-sending-bugs/"
-    ]
-  ],
-  [
-    [
-      "2025-11-11, 18:24:40",
-      "https://lobste.rs/s/nyd4p0/rtc_rk808_compensate_for_rockchip"
-    ],
-    [
-      "rtc: rk808: Compensate for Rockchip calendar deviation on November 31st (2015)",
-      "https://github.com/torvalds/linux/commit/f076ef44a44d02ed91543f820c14c2c7dff53716"
     ]
   ],
   [
