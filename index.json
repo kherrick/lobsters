@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-13, 14:39:24",
+      "https://lobste.rs/s/bfnan4/evaluating_embedding_quality_by_testing"
+    ],
+    [
+      "Evaluating embedding quality by testing metric properties (Z3 solver)",
+      "https://www.testingbranch.com/embedding-quality/"
+    ]
+  ],
+  [
+    [
       "2025-11-13, 14:29:08",
       "https://lobste.rs/s/zwuqti/testable_dotfiles_management_with"
     ],
@@ -27,16 +37,6 @@
     [
       "Patterns for Defensive Programming in Rust",
       "https://corrode.dev/blog/defensive-programming/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 13:13:02",
-      "https://lobste.rs/s/vqi1da/why_fei_fei_li_yann_lecun_are_both_betting"
-    ],
-    [
-      "Why Fei-Fei Li and Yann LeCun Are Both Betting on “World Models” — and How Their Bets Differ",
-      "https://entropytown.com/articles/2025-11-13-world-model-lecun-feifei-li/"
     ]
   ],
   [
