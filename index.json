@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 06:54:12",
+      "https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude"
+    ],
+    [
+      "Nation state threat actor used Claude Code to orchestrate cyber attacks",
+      "https://www.anthropic.com/news/disrupting-AI-espionage"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 06:35:52",
       "https://lobste.rs/s/t3dyna/free_weather_data_with_national_weather"
     ],
@@ -207,16 +217,6 @@
     [
       "What's new in Herb v0.8",
       "https://herb-tools.dev/blog/whats-new-in-herb-v0-8"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 03:16:35",
-      "https://lobste.rs/s/ojixwz/pgfirstaid_postgresql_health_check"
-    ],
-    [
-      "pgFirstAid-The PostgreSQL Health Check",
-      "https://github.com/randoneering/pgFirstAid"
     ]
   ],
   [
