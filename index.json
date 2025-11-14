@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-11-14, 17:34:59",
+      "https://lobste.rs/s/sokew0/version_control_external_content"
+    ],
+    [
+      "Version Control External Content Referenced in Your Blog",
+      "https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 16:25:42",
       "https://lobste.rs/s/rd1tcy/portable_python_self_contained_python"
     ],
     [
       "portable_python: Self-contained Python distribution for Linux",
       "https://github.com/qznc/portable_python"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 16:03:58",
+      "https://lobste.rs/s/towlmt/marimo_reactive_notebook_for_python"
+    ],
+    [
+      "marimo — reactive notebook for Python",
+      "https://github.com/marimo-team/marimo"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-11-14, 09:51:26",
-      "https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration"
-    ],
-    [
-      "Audio-primary content for inspiration in software development?",
-      "https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration"
-    ]
-  ],
-  [
-    [
       "2025-11-14, 09:23:47",
       "https://lobste.rs/s/l4vg9a/this_isn_t_battle"
     ],
@@ -137,16 +147,6 @@
     [
       "Furgit: fast implementation of Git in pure Go",
       "https://github.com/runxiyu/furgit"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 04:44:36",
-      "https://lobste.rs/s/hh7pz4/domain_specific_languages_code"
-    ],
-    [
-      "Domain-specific Languages and Code Synthesis Using Haskell",
-      "https://queue.acm.org/detail.cfm?id=2617811"
     ]
   ],
   [
