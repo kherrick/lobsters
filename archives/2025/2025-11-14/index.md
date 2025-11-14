@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 12:18:42](https://lobste.rs/s/hdr50v/how_deploy_llm_locally) - [How to Deploy LLM Locally](https://blog.lyc8503.net/en/post/local-llm/)
 * [2025-11-14, 10:54:20](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend)
 * [2025-11-14, 09:51:26](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration) - [Audio-primary content for inspiration in software development?](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
