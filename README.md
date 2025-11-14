@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 17:34:59](https://lobste.rs/s/sokew0/version_control_external_content) - [Version Control External Content Referenced in Your Blog](https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/)
 * [2025-11-14, 16:25:42](https://lobste.rs/s/rd1tcy/portable_python_self_contained_python) - [portable_python: Self-contained Python distribution for Linux](https://github.com/qznc/portable_python)
@@ -10,7 +11,6 @@
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-14, 13:07:11](https://lobste.rs/s/zgrrqx/amd_gpus_go_brrr) - [AMD GPUs go brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [2025-11-14, 12:57:01](https://lobste.rs/s/yceoaw/announcing_unikraft_support_for) - [Announcing Unikraft Support for MirageOS Unikernels](https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels)
-* [2025-11-14, 12:18:42](https://lobste.rs/s/hdr50v/how_deploy_llm_locally) - [How to Deploy LLM Locally](https://blog.lyc8503.net/en/post/local-llm/)
 * [2025-11-14, 10:54:20](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
