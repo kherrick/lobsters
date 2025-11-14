@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 14:55:57",
+      "https://lobste.rs/s/jtpw7d/last_couple_years_v8_s_garbage_collector"
+    ],
+    [
+      "the last couple years in v8's garbage collector",
+      "https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 13:14:44",
       "https://lobste.rs/s/k99bvq/structural_regular_expression_engine"
     ],
@@ -157,16 +167,6 @@
     [
       "Messing with bots",
       "https://herman.bearblog.dev/messing-with-bots/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 16:01:30",
-      "https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities"
-    ],
-    [
-      "Synit: Reactivity and object capabilities in the system layer of an OS",
-      "https://synit.org/"
     ]
   ],
   [
