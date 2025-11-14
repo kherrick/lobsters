@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 12:18:42",
+      "https://lobste.rs/s/hdr50v/how_deploy_llm_locally"
+    ],
+    [
+      "How to Deploy LLM Locally",
+      "https://blog.lyc8503.net/en/post/local-llm/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 10:54:20",
       "https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend"
     ],
@@ -127,16 +137,6 @@
     [
       "Rust in Android: move fast and fix things",
       "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 17:57:10",
-      "https://lobste.rs/s/ctgbk2/another_fedora_flatpak_discussion"
-    ],
-    [
-      "Another Fedora Flatpak discussion",
-      "https://lwn.net/SubscriberLink/1045247/b10b84a92c27c08a/"
     ]
   ],
   [
