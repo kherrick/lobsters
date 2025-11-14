@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 19:49:42](https://lobste.rs/s/ylrosp/politics_purely_client_side_apps) - [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 17:34:59](https://lobste.rs/s/sokew0/version_control_external_content) - [Version Control External Content Referenced in Your Blog](https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/)
@@ -24,7 +25,6 @@
 * [2025-11-13, 13:41:54](https://lobste.rs/s/bz1mxo/ingress_nginx_retirement_what_you_need) - [Ingress NGINX Retirement: What You Need to Know](https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/)
 * [2025-11-13, 13:33:13](https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
-* [2025-11-12, 20:11:26](https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam) - [Valve Announces New Steam Machine, Steam Controller & Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
 
 ## [Archives](archives/index.md)
 

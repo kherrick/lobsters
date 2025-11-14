@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 19:49:42](https://lobste.rs/s/ylrosp/politics_purely_client_side_apps) - [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 17:34:59](https://lobste.rs/s/sokew0/version_control_external_content) - [Version Control External Content Referenced in Your Blog](https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/)
