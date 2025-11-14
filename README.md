@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 07:22:10](https://lobste.rs/s/ihwndn/support_call_for_memory_safety) - [Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation](https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
-* [2025-11-14, 06:35:52](https://lobste.rs/s/t3dyna/free_weather_data_with_national_weather) - [Free Weather Data with National Weather Service API](https://clojurecivitas.github.io/scittle/weather/weather_nws_integration.html)
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 * [2025-11-14, 03:33:44](https://lobste.rs/s/3rqy74/logic_cue) - [The Logic of CUE](https://cuelang.org/docs/concept/the-logic-of-cue/)
