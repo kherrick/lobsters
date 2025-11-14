@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-14, 21:21:29",
+      "https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql"
+    ],
+    [
+      "How to use UUIDv7 in Python, Django and PostgreSQL",
+      "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 19:49:42",
       "https://lobste.rs/s/ylrosp/politics_purely_client_side_apps"
     ],
@@ -217,16 +227,6 @@
     [
       "Parsing integers in C",
       "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 13:41:54",
-      "https://lobste.rs/s/bz1mxo/ingress_nginx_retirement_what_you_need"
-    ],
-    [
-      "Ingress NGINX Retirement: What You Need to Know",
-      "https://www.kubernetes.dev/blog/2025/11/12/ingress-nginx-retirement/"
     ]
   ],
   [
