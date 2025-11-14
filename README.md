@@ -8,6 +8,7 @@
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 * [2025-11-14, 04:44:36](https://lobste.rs/s/hh7pz4/domain_specific_languages_code) - [Domain-specific Languages and Code Synthesis Using Haskell](https://queue.acm.org/detail.cfm?id=2617811)
+* [2025-11-14, 03:33:44](https://lobste.rs/s/3rqy74/logic_cue) - [The Logic of CUE](https://cuelang.org/docs/concept/the-logic-of-cue/)
 * [2025-11-14, 00:45:34](https://lobste.rs/s/chgon5/tour_pattern_matcher_expression_pattern) - [Tour of a pattern matcher: expression and pattern expansion](https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html)
 * [2025-11-14, 00:16:43](https://lobste.rs/s/kiee8k/complexity_simplicity) - [The Complexity of Simplicity](https://www.youtube.com/watch?v=Cum5uN2634o)
 * [2025-11-13, 22:56:49](https://lobste.rs/s/absftt/spectral_rendering_part_2_real_time) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
@@ -24,7 +25,6 @@
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn't verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-12, 20:11:26](https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam) - [Valve Announces New Steam Machine, Steam Controller & Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
-* [2025-11-12, 18:52:13](https://lobste.rs/s/x10xh7/homebrew_v5_0_0_missing_package_manager) - [Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)](https://brew.sh/2025/11/12/homebrew-5.0.0/)
 
 ## [Archives](archives/index.md)
 
