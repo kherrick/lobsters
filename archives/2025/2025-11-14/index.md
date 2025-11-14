@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
+* [2025-11-14, 13:07:11](https://lobste.rs/s/zgrrqx/amd_gpus_go_brrr) - [AMD GPUs go brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
+* [2025-11-14, 12:57:01](https://lobste.rs/s/yceoaw/announcing_unikraft_support_for) - [Announcing Unikraft Support for MirageOS Unikernels](https://tarides.com/blog/2025-11-13-announcing-unikraft-support-for-mirageos-unikernels)
 * [2025-11-14, 12:18:42](https://lobste.rs/s/hdr50v/how_deploy_llm_locally) - [How to Deploy LLM Locally](https://blog.lyc8503.net/en/post/local-llm/)
 * [2025-11-14, 10:54:20](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend)
 * [2025-11-14, 09:51:26](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration) - [Audio-primary content for inspiration in software development?](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration)
