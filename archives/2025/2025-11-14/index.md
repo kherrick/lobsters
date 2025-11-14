@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 * [2025-11-14, 07:22:10](https://lobste.rs/s/ihwndn/support_call_for_memory_safety) - [Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation](https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
 * [2025-11-14, 06:35:52](https://lobste.rs/s/t3dyna/free_weather_data_with_national_weather) - [Free Weather Data with National Weather Service API](https://clojurecivitas.github.io/scittle/weather/weather_nws_integration.html)

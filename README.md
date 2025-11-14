@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 * [2025-11-14, 07:22:10](https://lobste.rs/s/ihwndn/support_call_for_memory_safety) - [Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation](https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
@@ -24,7 +25,6 @@
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn't verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-12, 20:11:26](https://lobste.rs/s/a1tixp/valve_announces_new_steam_machine_steam) - [Valve Announces New Steam Machine, Steam Controller & Steam Frame](https://www.phoronix.com/news/Steam-Machines-Frame-2026)
 * [2025-11-12, 18:52:13](https://lobste.rs/s/x10xh7/homebrew_v5_0_0_missing_package_manager) - [Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)](https://brew.sh/2025/11/12/homebrew-5.0.0/)
-* [2025-11-12, 12:08:51](https://lobste.rs/s/yru06a/brief_look_at_freebsd) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 
 ## [Archives](archives/index.md)
 
