@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
+* [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 * [2025-11-14, 04:44:36](https://lobste.rs/s/hh7pz4/domain_specific_languages_code) - [Domain-specific Languages and Code Synthesis Using Haskell](https://queue.acm.org/detail.cfm?id=2617811)
 * [2025-11-14, 00:45:34](https://lobste.rs/s/chgon5/tour_pattern_matcher_expression_pattern) - [Tour of a pattern matcher: expression and pattern expansion](https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html)
 * [2025-11-14, 00:35:38](https://lobste.rs/s/dxgcza/postgres_internals_hiding_plain_sight) - [Postgres Internals Hiding in Plain Sight](https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight)
