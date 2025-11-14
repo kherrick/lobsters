@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 15:25:28](https://lobste.rs/s/9appzu/how_we_avoided_side_channels_our_new_post) - [How we avoided side-channels in our new post-quantum Go cryptography libraries](https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/)
 * [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 14:55:57](https://lobste.rs/s/jtpw7d/last_couple_years_v8_s_garbage_collector) - [the last couple years in v8's garbage collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector)
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
@@ -9,7 +10,6 @@
 * [2025-11-14, 10:54:20](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ndfgai/what_are_you_doing_this_weekend)
 * [2025-11-14, 09:51:26](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration) - [Audio-primary content for inspiration in software development?](https://lobste.rs/s/tldyec/audio_primary_content_for_inspiration)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
-* [2025-11-14, 07:22:10](https://lobste.rs/s/ihwndn/support_call_for_memory_safety) - [Support the call for Memory Safety incentives in EU cybersecurity policies - Trifecta Tech Foundation](https://trifectatech.org/blog/support-memory-safety-incentives-in-eu-cybersecurity-policies/)
 * [2025-11-14, 06:54:12](https://lobste.rs/s/9dkn3m/nation_state_threat_actor_used_claude) - [Nation state threat actor used Claude Code to orchestrate cyber attacks](https://www.anthropic.com/news/disrupting-AI-espionage)
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
