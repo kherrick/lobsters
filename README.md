@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 00:35:38](https://lobste.rs/s/dxgcza/postgres_internals_hiding_plain_sight) - [Postgres Internals Hiding in Plain Sight](https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight)
 * [2025-11-14, 00:02:19](https://lobste.rs/s/7cujvb/wrangling_kubernetes_contexts) - [Wrangling Kubernetes contexts](https://natkr.com/2025-11-14-kubernetes-contexts/)
 * [2025-11-13, 22:56:49](https://lobste.rs/s/absftt/spectral_rendering_part_2_real_time) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 * [2025-11-13, 20:06:25](https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
@@ -24,7 +25,6 @@
 * [2025-11-12, 18:52:13](https://lobste.rs/s/x10xh7/homebrew_v5_0_0_missing_package_manager) - [Homebrew v5.0.0: The Missing Package Manager for macOS (or Linux)](https://brew.sh/2025/11/12/homebrew-5.0.0/)
 * [2025-11-12, 18:17:35](https://lobste.rs/s/d6hdwo/one_weird_hashing_trick) - [One Weird Hashing Trick](https://notes.hella.cheap/one-weird-hashing-trick.html)
 * [2025-11-12, 12:08:51](https://lobste.rs/s/yru06a/brief_look_at_freebsd) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
-* [2025-11-12, 11:36:25](https://lobste.rs/s/mvct7p/async_finaliser_deadlocks) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
 
 ## [Archives](archives/index.md)
 
