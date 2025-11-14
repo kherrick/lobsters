@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 17:34:59](https://lobste.rs/s/sokew0/version_control_external_content) - [Version Control External Content Referenced in Your Blog](https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/)
 * [2025-11-14, 16:25:42](https://lobste.rs/s/rd1tcy/portable_python_self_contained_python) - [portable_python: Self-contained Python distribution for Linux](https://github.com/qznc/portable_python)
 * [2025-11-14, 16:03:58](https://lobste.rs/s/towlmt/marimo_reactive_notebook_for_python) - [marimo — reactive notebook for Python](https://github.com/marimo-team/marimo)
@@ -17,7 +18,6 @@
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 * [2025-11-14, 03:33:44](https://lobste.rs/s/3rqy74/logic_cue) - [The Logic of CUE](https://cuelang.org/docs/concept/the-logic-of-cue/)
 * [2025-11-13, 20:06:25](https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
-* [2025-11-13, 16:57:41](https://lobste.rs/s/ccy6ey/messing_with_bots) - [Messing with bots](https://herman.bearblog.dev/messing-with-bots/)
 * [2025-11-13, 15:51:03](https://lobste.rs/s/4inlhr/language_design_notes) - [Language Design Notes](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [2025-11-13, 15:41:56](https://lobste.rs/s/knelbm/there_is_no_such_thing_as_3_5_inch_floppy) - [There is no such thing as a 3.5 inch floppy disc](https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html)
 * [2025-11-13, 14:43:58](https://lobste.rs/s/6dfpil/parsing_integers_c) - [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)

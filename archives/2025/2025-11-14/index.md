@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-14](index.md)
 
+* [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 17:34:59](https://lobste.rs/s/sokew0/version_control_external_content) - [Version Control External Content Referenced in Your Blog](https://lgug2z.com/articles/version-control-external-content-referenced-in-your-blog/)
 * [2025-11-14, 16:25:42](https://lobste.rs/s/rd1tcy/portable_python_self_contained_python) - [portable_python: Self-contained Python distribution for Linux](https://github.com/qznc/portable_python)
 * [2025-11-14, 16:03:58](https://lobste.rs/s/towlmt/marimo_reactive_notebook_for_python) - [marimo — reactive notebook for Python](https://github.com/marimo-team/marimo)
