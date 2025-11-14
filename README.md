@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 04:44:36](https://lobste.rs/s/hh7pz4/domain_specific_languages_code) - [Domain-specific Languages and Code Synthesis Using Haskell](https://queue.acm.org/detail.cfm?id=2617811)
 * [2025-11-14, 03:33:44](https://lobste.rs/s/3rqy74/logic_cue) - [The Logic of CUE](https://cuelang.org/docs/concept/the-logic-of-cue/)
 * [2025-11-14, 00:45:34](https://lobste.rs/s/chgon5/tour_pattern_matcher_expression_pattern) - [Tour of a pattern matcher: expression and pattern expansion](https://crumbles.blog/posts/2025-11-09-extensible-match-front-end.html)
 * [2025-11-14, 00:35:38](https://lobste.rs/s/dxgcza/postgres_internals_hiding_plain_sight) - [Postgres Internals Hiding in Plain Sight](https://www.crunchydata.com/blog/postgres-internals-hiding-in-plain-sight)
@@ -17,7 +18,6 @@
 * [2025-11-13, 13:33:13](https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust) - [Patterns for Defensive Programming in Rust](https://corrode.dev/blog/defensive-programming/)
 * [2025-11-13, 12:12:27](https://lobste.rs/s/m1l3zz/go_proposal_context_aware_dialer_methods) - [Go proposal: Context-aware Dialer methods](https://antonz.org/accepted/net-dialer-context/)
 * [2025-11-13, 11:16:26](https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git) - [Mergiraf: syntax-aware merging for Git](https://lwn.net/Articles/1042355/)
-* [2025-11-13, 10:02:43](https://lobste.rs/s/i0z3ha/behind_scenes_on_how_windows_95) - [Behind the scenes on how Windows 95 application compatibility patched broken programs](https://devblogs.microsoft.com/oldnewthing/20251111-00/?p=111781)
 * [2025-11-13, 09:34:47](https://lobste.rs/s/cj0wpq/truly_first_class_custom_smart_pointers) - [Truly first-class custom smart pointers](https://nadrieril.github.io/blog/2025/11/11/truly-first-class-custom-smart-pointers.html)
 * [2025-11-13, 07:42:29](https://lobste.rs/s/zqhl3v/android_developer_verification_allow) - [Android developer verification: allow experienced users to accept the risks of installing software that isn't verified](https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html)
 * [2025-11-13, 07:21:25](https://lobste.rs/s/adk54c/what_s_new_herb_v0_8) - [What's new in Herb v0.8](https://herb-tools.dev/blog/whats-new-in-herb-v0-8)
