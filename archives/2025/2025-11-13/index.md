@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-13](index.md)
 
+* [2025-11-13, 22:56:49](https://lobste.rs/s/absftt/spectral_rendering_part_2_real_time) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 * [2025-11-13, 20:06:25](https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 * [2025-11-13, 17:57:10](https://lobste.rs/s/ctgbk2/another_fedora_flatpak_discussion) - [Another Fedora Flatpak discussion](https://lwn.net/SubscriberLink/1045247/b10b84a92c27c08a/)
 * [2025-11-13, 16:57:41](https://lobste.rs/s/ccy6ey/messing_with_bots) - [Messing with bots](https://herman.bearblog.dev/messing-with-bots/)

@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-14, 00:02:19](https://lobste.rs/s/7cujvb/wrangling_kubernetes_contexts) - [Wrangling Kubernetes contexts](https://natkr.com/2025-11-14-kubernetes-contexts/)
+* [2025-11-13, 22:56:49](https://lobste.rs/s/absftt/spectral_rendering_part_2_real_time) - [Spectral rendering, part 2: Real-time rendering](https://momentsingraphics.de/SpectralRendering2Rendering.html)
 * [2025-11-13, 20:06:25](https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
 * [2025-11-13, 17:57:10](https://lobste.rs/s/ctgbk2/another_fedora_flatpak_discussion) - [Another Fedora Flatpak discussion](https://lwn.net/SubscriberLink/1045247/b10b84a92c27c08a/)
 * [2025-11-13, 16:57:41](https://lobste.rs/s/ccy6ey/messing_with_bots) - [Messing with bots](https://herman.bearblog.dev/messing-with-bots/)
-* [2025-11-13, 16:28:40](https://lobste.rs/s/dxiaol/sima_2_gemini_powered_ai_agent_for_3d) - [SIMA 2: A Gemini-powered AI agent for 3D virtual worlds](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/)
 * [2025-11-13, 16:24:29](https://lobste.rs/s/bqhrhj/mechanical_translation_from_cobol) - [Mechanical translation from COBOL to Kotlin using formal methods](https://marcoeg.medium.com/from-cobol-to-kotlin-795920b1f371)
 * [2025-11-13, 16:01:30](https://lobste.rs/s/z0sqo3/synit_reactivity_object_capabilities) - [Synit: Reactivity and object capabilities in the system layer of an OS](https://synit.org/)
 * [2025-11-13, 15:51:03](https://lobste.rs/s/4inlhr/language_design_notes) - [Language Design Notes](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
@@ -24,7 +25,6 @@
 * [2025-11-12, 18:17:35](https://lobste.rs/s/d6hdwo/one_weird_hashing_trick) - [One Weird Hashing Trick](https://notes.hella.cheap/one-weird-hashing-trick.html)
 * [2025-11-12, 12:08:51](https://lobste.rs/s/yru06a/brief_look_at_freebsd) - [A brief look at FreeBSD](https://yorickpeterse.com/articles/a-brief-look-at-freebsd/)
 * [2025-11-12, 11:36:25](https://lobste.rs/s/mvct7p/async_finaliser_deadlocks) - [Async and Finaliser Deadlocks](https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html)
-* [2025-11-12, 09:34:31](https://lobste.rs/s/p8skua/i_converted_rotary_phone_into_meeting) - [I converted a rotary phone into a meeting handset](https://www.stavros.io/posts/i-converted-a-rotary-phone-into-a-meeting-handset/)
 
 ## [Archives](archives/index.md)
 
