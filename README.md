@@ -12,6 +12,7 @@
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
+* [2025-11-14, 22:43:18](https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop) - [No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 21:21:29](https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql) - [How to use UUIDv7 in Python, Django and PostgreSQL](https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 18:38:46](https://lobste.rs/s/ftoj5n/stickertop_art) - [stickertop.art](https://stickertop.art/main/)
@@ -22,7 +23,6 @@
 * [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 14:55:57](https://lobste.rs/s/jtpw7d/last_couple_years_v8_s_garbage_collector) - [the last couple years in v8's garbage collector](https://wingolog.org/archives/2025/11/13/the-last-couple-years-in-v8s-garbage-collector)
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
-* [2025-11-14, 13:07:11](https://lobste.rs/s/zgrrqx/amd_gpus_go_brrr) - [AMD GPUs go brrr](https://hazyresearch.stanford.edu/blog/2025-11-09-amd-brr)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 
