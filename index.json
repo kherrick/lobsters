@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-14, 22:24:31",
+      "https://lobste.rs/s/km1ho1/rmpocalypse_attack_how_catch_22_breaks"
+    ],
+    [
+      "RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP",
+      "https://rmpocalypse.github.io/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 21:21:29",
       "https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql"
     ],
@@ -227,16 +237,6 @@
     [
       "Parsing integers in C",
       "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 13:33:13",
-      "https://lobste.rs/s/ouy4dq/patterns_for_defensive_programming_rust"
-    ],
-    [
-      "Patterns for Defensive Programming in Rust",
-      "https://corrode.dev/blog/defensive-programming/"
     ]
   ],
   [
