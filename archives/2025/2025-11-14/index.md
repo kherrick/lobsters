@@ -6,6 +6,7 @@
 
 * [2025-11-14, 22:43:18](https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop) - [No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 22:24:31](https://lobste.rs/s/km1ho1/rmpocalypse_attack_how_catch_22_breaks) - [RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP](https://rmpocalypse.github.io/)
+* [2025-11-14, 21:51:07](https://lobste.rs/s/jih2ov/just_one_single_history) - [Just One Single History](https://josh-project.github.io/josh/)
 * [2025-11-14, 21:21:29](https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql) - [How to use UUIDv7 in Python, Django and PostgreSQL](https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/)
 * [2025-11-14, 19:49:42](https://lobste.rs/s/ylrosp/politics_purely_client_side_apps) - [The politics of purely client-side apps](https://pfrazee.leaflet.pub/3m5hwua4sh22v)
 * [2025-11-14, 19:10:09](https://lobste.rs/s/lylpsy/smoothsort_demystified_2011) - [Smoothsort Demystified (2011)](https://www.keithschwarz.com/smoothsort/)
