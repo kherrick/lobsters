@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
+* [2025-11-15, 06:21:44](https://lobste.rs/s/orlwqr/code_execution_with_mcp_building_more) - [Code execution with MCP: building more efficient AI agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-14, 22:43:18](https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop) - [No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 22:24:31](https://lobste.rs/s/km1ho1/rmpocalypse_attack_how_catch_22_breaks) - [RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP](https://rmpocalypse.github.io/)
