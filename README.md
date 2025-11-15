@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-15, 22:48:05](https://lobste.rs/s/mdyk4r/rise_subagents) - [The Rise of Subagents](https://www.philschmid.de/the-rise-of-subagents)
 * [2025-11-15, 22:40:49](https://lobste.rs/s/7knpcc/building_robust_permissions_system) - [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 * [2025-11-15, 21:35:34](https://lobste.rs/s/jzgc2q/how_can_web_apps_be_independent_protocol) - [How can web apps be independent protocol clients?](https://fiatjaf.com/6829ad8b.html)
@@ -14,7 +15,6 @@
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
-* [2025-11-14, 22:43:18](https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop) - [No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 21:21:29](https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql) - [How to use UUIDv7 in Python, Django and PostgreSQL](https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 18:38:46](https://lobste.rs/s/ftoj5n/stickertop_art) - [stickertop.art](https://stickertop.art/main/)
