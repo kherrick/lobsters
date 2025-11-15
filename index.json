@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 04:00:05",
+      "https://lobste.rs/s/sw3hlu/ai_world_clocks"
+    ],
+    [
+      "AI World Clocks",
+      "https://clocks.brianmoore.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-15, 03:22:49",
       "https://lobste.rs/s/z0midp/go_s_sweet_16"
     ],
@@ -37,6 +47,16 @@
     [
       "How to use UUIDv7 in Python, Django and PostgreSQL",
       "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 19:49:42",
+      "https://lobste.rs/s/ylrosp/politics_purely_client_side_apps"
+    ],
+    [
+      "The politics of purely client-side apps",
+      "https://pfrazee.leaflet.pub/3m5hwua4sh22v"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-11-14, 03:33:44",
-      "https://lobste.rs/s/3rqy74/logic_cue"
-    ],
-    [
-      "The Logic of CUE",
-      "https://cuelang.org/docs/concept/the-logic-of-cue/"
-    ]
-  ],
-  [
-    [
       "2025-11-13, 20:06:25",
       "https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things"
     ],
     [
       "Rust in Android: move fast and fix things",
       "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 15:51:03",
-      "https://lobste.rs/s/4inlhr/language_design_notes"
-    ],
-    [
-      "Language Design Notes",
-      "https://cs.lmu.edu/~ray/notes/languagedesignnotes/"
     ]
   ],
   [
