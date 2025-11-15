@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-15, 03:22:49",
+      "https://lobste.rs/s/z0midp/go_s_sweet_16"
+    ],
+    [
+      "Go’s Sweet 16",
+      "https://go.dev/blog/16years"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 22:43:18",
       "https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop"
     ],
@@ -27,16 +37,6 @@
     [
       "How to use UUIDv7 in Python, Django and PostgreSQL",
       "https://www.paulox.net//2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 19:10:09",
-      "https://lobste.rs/s/lylpsy/smoothsort_demystified_2011"
-    ],
-    [
-      "Smoothsort Demystified (2011)",
-      "https://www.keithschwarz.com/smoothsort/"
     ]
   ],
   [
