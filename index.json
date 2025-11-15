@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-11-14, 21:51:07",
+      "https://lobste.rs/s/jih2ov/just_one_single_history"
+    ],
+    [
+      "Just One Single History",
+      "https://josh-project.github.io/josh/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 21:21:29",
       "https://lobste.rs/s/svyej1/how_use_uuidv7_python_django_postgresql"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust in Android: move fast and fix things",
       "https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 14:43:58",
-      "https://lobste.rs/s/6dfpil/parsing_integers_c"
-    ],
-    [
-      "Parsing integers in C",
-      "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/"
     ]
   ]
 ]
