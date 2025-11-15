@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-11-14, 19:10:09",
+      "https://lobste.rs/s/lylpsy/smoothsort_demystified_2011"
+    ],
+    [
+      "Smoothsort Demystified (2011)",
+      "https://www.keithschwarz.com/smoothsort/"
+    ]
+  ],
+  [
+    [
       "2025-11-14, 19:03:18",
       "https://lobste.rs/s/9l70qt/announcing_incusos"
     ],
@@ -237,16 +247,6 @@
     [
       "Parsing integers in C",
       "https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/"
-    ]
-  ],
-  [
-    [
-      "2025-11-13, 11:16:26",
-      "https://lobste.rs/s/erdni0/mergiraf_syntax_aware_merging_for_git"
-    ],
-    [
-      "Mergiraf: syntax-aware merging for Git",
-      "https://lwn.net/Articles/1042355/"
     ]
   ]
 ]
