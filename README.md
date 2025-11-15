@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-15, 06:21:44](https://lobste.rs/s/orlwqr/code_execution_with_mcp_building_more) - [Code execution with MCP: building more efficient AI agents](https://www.anthropic.com/engineering/code-execution-with-mcp)
+* [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-14, 22:43:18](https://lobste.rs/s/xmdarh/no_leak_no_problem_bypassing_aslr_with_rop) - [No Leak, No Problem - Bypassing ASLR with a ROP Chain to Gain RCE](https://modzero.com/en/blog/no-leak-no-problem/)
 * [2025-11-14, 22:24:31](https://lobste.rs/s/km1ho1/rmpocalypse_attack_how_catch_22_breaks) - [RMPocalypse Attack: How a Catch-22 Breaks AMD SEV-SNP](https://rmpocalypse.github.io/)
@@ -23,7 +24,6 @@
 * [2025-11-14, 05:23:04](https://lobste.rs/s/3wgqtc/how_get_north_korea_antarctica_vps) - [How to Get a North Korea / Antarctica VPS](https://blog.lyc8503.net/en/post/asn-5-worldwide-servers/)
 * [2025-11-14, 04:48:43](https://lobste.rs/s/xsq6ld/furgit_fast_implementation_git_pure_go) - [Furgit: fast implementation of Git in pure Go](https://github.com/runxiyu/furgit)
 * [2025-11-13, 20:06:25](https://lobste.rs/s/nrrijz/rust_android_move_fast_fix_things) - [Rust in Android: move fast and fix things](https://security.googleblog.com/2025/11/rust-in-android-move-fast-fix-things.html)
-* [2025-11-13, 15:41:56](https://lobste.rs/s/knelbm/there_is_no_such_thing_as_3_5_inch_floppy) - [There is no such thing as a 3.5 inch floppy disc](https://jdebp.uk/FGA/floppy-discs-are-90mm-not-3-and-a-half-inches.html)
 * [2025-11-13, 14:43:58](https://lobste.rs/s/6dfpil/parsing_integers_c) - [Parsing integers in C](https://daniel.haxx.se/blog/2025/11/13/parsing-integers-in-c/)
 
 ## [Archives](archives/index.md)
