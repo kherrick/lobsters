@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-16, 20:14:04",
+      "https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation"
+    ],
+    [
+      "Penrose: From Mathematical Notation to Beautiful Diagrams",
+      "https://www.youtube.com/watch?v=OyD4LIv2PDc"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 20:09:50",
+      "https://lobste.rs/s/snnnga/sprae_hydrate_html_jsx_tree_with_signal"
+    ],
+    [
+      "spræ: Hydrate HTML/JSX tree with signal-powered reactive attributes",
+      "https://dy.github.io/sprae/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 19:19:18",
       "https://lobste.rs/s/sdtywr/fate_small_open_source"
     ],
@@ -47,16 +67,6 @@
     [
       "I think nobody wants AI in Firefox, Mozilla",
       "https://manualdousuario.net/en/mozilla-firefox-window-ai/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 16:30:48",
-      "https://lobste.rs/s/pvgoal/lifting_kotlin_testing_comparing_junit"
-    ],
-    [
-      "Lifting Kotlin testing: Comparing JUnit, Kotlin-test, Kotest, Prepared and TestBalloon",
-      "https://ivan.canet.dev/blog/2025/06/17/state-of-kotlin-tests.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "I can’t recommend Grafana anymore",
       "https://henrikgerdes.me/blog/2025-11-grafana-mess/"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 16:08:21",
-      "https://lobste.rs/s/lvqmcz/compiler_options_hardening_guide_for_c_c"
-    ],
-    [
-      "Compiler Options Hardening Guide for C and C++",
-      "https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html"
     ]
   ],
   [
