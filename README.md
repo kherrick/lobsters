@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 * [2025-11-16, 14:44:59](https://lobste.rs/s/2a2rud/godbolt_s_rule) - [Godbolt's Rule](https://corecursive.com/godbolt-rule-matt-godbolt/)
 * [2025-11-16, 14:39:02](https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version) - [Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature - Phoronix](https://www.phoronix.com/news/Bcachefs-Rebalance-V2)
 * [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
@@ -16,7 +17,6 @@
 * [2025-11-15, 23:15:27](https://lobste.rs/s/8tzd9i/your_project_fucking_sucks) - [your project fucking sucks](https://ficd.sh/blog/your-project-sucks/)
 * [2025-11-15, 22:40:49](https://lobste.rs/s/7knpcc/building_robust_permissions_system) - [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
-* [2025-11-15, 21:35:34](https://lobste.rs/s/jzgc2q/how_can_web_apps_be_independent_protocol) - [How can web apps be independent protocol clients?](https://fiatjaf.com/6829ad8b.html)
 * [2025-11-15, 18:23:52](https://lobste.rs/s/ygmqnn/iceberg_right_idea_wrong_spec_part_2_2_spec) - [Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-11-15, 17:50:49](https://lobste.rs/s/pztoqh/small_functions_considered_harmful_2017) - [Small functions considered harmful (2017)](https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29)
 * [2025-11-15, 16:51:30](https://lobste.rs/s/uksu4y/i_can_t_recommend_grafana_anymore) - [I can’t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 * [2025-11-16, 14:44:59](https://lobste.rs/s/2a2rud/godbolt_s_rule) - [Godbolt's Rule](https://corecursive.com/godbolt-rule-matt-godbolt/)
 * [2025-11-16, 14:39:02](https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version) - [Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature - Phoronix](https://www.phoronix.com/news/Bcachefs-Rebalance-V2)
 * [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
