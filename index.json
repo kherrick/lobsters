@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 20:51:10",
+      "https://lobste.rs/s/hzzm6k/6502_emulator_labview"
+    ],
+    [
+      "A 6502 emulator in LabVIEW",
+      "https://www.crossover-eng.it/view.php?post=post_4"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 20:44:22",
       "https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries"
     ],
@@ -157,16 +167,6 @@
     [
       "Jonathan Blow On Programming Language Design",
       "https://youtu.be/e6crOMC9WCE"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 03:12:14",
-      "https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis"
-    ],
-    [
-      "SuperSonic - SuperCollider's Synthesis Engine in the Browser",
-      "https://sonic-pi.net/supersonic/demo.html"
     ]
   ],
   [
