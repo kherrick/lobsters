@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-16, 16:39:57",
+      "https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla"
+    ],
+    [
+      "I think nobody wants AI in Firefox, Mozilla",
+      "https://manualdousuario.net/en/mozilla-firefox-window-ai/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 16:30:48",
+      "https://lobste.rs/s/pvgoal/lifting_kotlin_testing_comparing_junit"
+    ],
+    [
+      "Lifting Kotlin testing: Comparing JUnit, Kotlin-test, Kotest, Prepared and TestBalloon",
+      "https://ivan.canet.dev/blog/2025/06/17/state-of-kotlin-tests.html"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 16:12:52",
       "https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems"
     ],
@@ -25,7 +45,7 @@
       "https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version"
     ],
     [
-      "Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature - Phoronix",
+      "Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature",
       "https://www.phoronix.com/news/Bcachefs-Rebalance-V2"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-15, 18:23:52",
-      "https://lobste.rs/s/ygmqnn/iceberg_right_idea_wrong_spec_part_2_2_spec"
-    ],
-    [
-      "Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec",
-      "https://www.database-doctor.com/posts/iceberg-is-wrong-2.html"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 17:50:49",
       "https://lobste.rs/s/pztoqh/small_functions_considered_harmful_2017"
     ],
@@ -237,16 +247,6 @@
     [
       "10 patterns for faster python code",
       "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 04:00:05",
-      "https://lobste.rs/s/sw3hlu/ai_world_clocks"
-    ],
-    [
-      "AI World Clocks",
-      "https://clocks.brianmoore.com/"
     ]
   ]
 ]
