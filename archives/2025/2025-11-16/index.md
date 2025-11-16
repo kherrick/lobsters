@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 19:19:18](https://lobste.rs/s/sdtywr/fate_small_open_source) - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:12:42](https://lobste.rs/s/4nocg8/new_online_accounts_system_for_kde) - [A new online accounts system [for KDE]?](https://nicolasfella.de/posts/a-new-online-accounts-system/)
 * [2025-11-16, 18:11:01](https://lobste.rs/s/9zkul4/how_foss_won_why_it_matters) - [How FOSS Won and Why It Matters](https://www.softwaremaxims.com/blog/how-foss-won-consequences)
 * [2025-11-16, 17:47:44](https://lobste.rs/s/fak69p/oblique_strategies_prompts_for) - [Oblique Strategies: Prompts for Programmers](https://kevinlawler.com/prompts)

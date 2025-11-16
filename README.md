@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 19:19:18](https://lobste.rs/s/sdtywr/fate_small_open_source) - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:12:42](https://lobste.rs/s/4nocg8/new_online_accounts_system_for_kde) - [A new online accounts system [for KDE]?](https://nicolasfella.de/posts/a-new-online-accounts-system/)
 * [2025-11-16, 18:11:01](https://lobste.rs/s/9zkul4/how_foss_won_why_it_matters) - [How FOSS Won and Why It Matters](https://www.softwaremaxims.com/blog/how-foss-won-consequences)
 * [2025-11-16, 17:47:44](https://lobste.rs/s/fak69p/oblique_strategies_prompts_for) - [Oblique Strategies: Prompts for Programmers](https://kevinlawler.com/prompts)
@@ -10,7 +11,6 @@
 * [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
-* [2025-11-16, 11:20:14](https://lobste.rs/s/y25lzf/google_releases_codewiki_for_ai_based) - [Google releases CodeWiki for AI-based code documentation](https://codewiki.google/)
 * [2025-11-16, 11:07:34](https://lobste.rs/s/50jlhk/programming_languages_age_ai_agents) - [Programming Languages in the Age of \"AI\" Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
