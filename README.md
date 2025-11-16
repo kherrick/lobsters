@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 14:39:02](https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version) - [Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature - Phoronix](https://www.phoronix.com/news/Bcachefs-Rebalance-V2)
 * [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
@@ -24,7 +25,6 @@
 * [2025-11-15, 13:55:31](https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
-* [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 
 ## [Archives](archives/index.md)
 

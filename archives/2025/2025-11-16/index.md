@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 14:39:02](https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version) - [Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature - Phoronix](https://www.phoronix.com/news/Bcachefs-Rebalance-V2)
 * [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
