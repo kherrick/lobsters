@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 18:12:42](https://lobste.rs/s/4nocg8/new_online_accounts_system_for_kde) - [A new online accounts system [for KDE]?](https://nicolasfella.de/posts/a-new-online-accounts-system/)
+* [2025-11-16, 18:11:01](https://lobste.rs/s/9zkul4/how_foss_won_why_it_matters) - [How FOSS Won and Why It Matters](https://www.softwaremaxims.com/blog/how-foss-won-consequences)
 * [2025-11-16, 17:47:44](https://lobste.rs/s/fak69p/oblique_strategies_prompts_for) - [Oblique Strategies: Prompts for Programmers](https://kevinlawler.com/prompts)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-16, 16:30:48](https://lobste.rs/s/pvgoal/lifting_kotlin_testing_comparing_junit) - [Lifting Kotlin testing: Comparing JUnit, Kotlin-test, Kotest, Prepared and TestBalloon](https://ivan.canet.dev/blog/2025/06/17/state-of-kotlin-tests.html)
