@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-16, 03:16:28](https://lobste.rs/s/jfmy1b/latency_profiling_optimization) - [Latency Profiling and Optimization](https://www.youtube.com/watch?v=lv03NAT4Mwc)
 * [2025-11-16, 03:12:14](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis) - [SuperSonic - SuperCollider's Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
@@ -22,7 +23,6 @@
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
-* [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 
