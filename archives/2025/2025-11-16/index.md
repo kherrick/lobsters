@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
 * [2025-11-16, 11:20:14](https://lobste.rs/s/y25lzf/google_releases_codewiki_for_ai_based) - [Google releases CodeWiki for AI-based code documentation](https://codewiki.google/)
 * [2025-11-16, 11:07:34](https://lobste.rs/s/50jlhk/programming_languages_age_ai_agents) - [Programming Languages in the Age of \"AI\" Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)

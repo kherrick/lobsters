@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
 * [2025-11-16, 11:20:14](https://lobste.rs/s/y25lzf/google_releases_codewiki_for_ai_based) - [Google releases CodeWiki for AI-based code documentation](https://codewiki.google/)
 * [2025-11-16, 11:07:34](https://lobste.rs/s/50jlhk/programming_languages_age_ai_agents) - [Programming Languages in the Age of \"AI\" Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
@@ -23,7 +24,6 @@
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
-* [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
 * [2025-11-14, 09:23:47](https://lobste.rs/s/l4vg9a/this_isn_t_battle) - [This Isn't a Battle](https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/)
 
 ## [Archives](archives/index.md)
