@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 02:04:05",
+      "https://lobste.rs/s/iszli1/when_did_people_favor_composition_over"
+    ],
+    [
+      "When did people favor composition over inheritance?",
+      "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 01:02:55",
       "https://lobste.rs/s/uyqvhe/finding_cpu_design_bug_xbox_360_2018"
     ],
@@ -197,16 +207,6 @@
     [
       "The AI water issue is fake",
       "https://andymasley.substack.com/p/the-ai-water-issue-is-fake"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 16:25:42",
-      "https://lobste.rs/s/rd1tcy/portable_python_self_contained_python"
-    ],
-    [
-      "portable_python: Self-contained Python distribution for Linux",
-      "https://github.com/qznc/portable_python"
     ]
   ],
   [
