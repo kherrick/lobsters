@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_lnaguage) - [Jonathan Blow On Programming Lnaguage Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-16, 03:16:28](https://lobste.rs/s/jfmy1b/latency_profiling_optimization) - [Latency Profiling and Optimization](https://www.youtube.com/watch?v=lv03NAT4Mwc)
 * [2025-11-16, 03:12:14](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis) - [SuperSonic - SuperCollider's Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
 * [2025-11-16, 02:04:05](https://lobste.rs/s/iszli1/when_did_people_favor_composition_over) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
@@ -20,7 +21,6 @@
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 * [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
-* [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
 * [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
