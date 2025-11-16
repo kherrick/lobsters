@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
+* [2025-11-16, 16:30:48](https://lobste.rs/s/pvgoal/lifting_kotlin_testing_comparing_junit) - [Lifting Kotlin testing: Comparing JUnit, Kotlin-test, Kotest, Prepared and TestBalloon](https://ivan.canet.dev/blog/2025/06/17/state-of-kotlin-tests.html)
 * [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 * [2025-11-16, 14:44:59](https://lobste.rs/s/2a2rud/godbolt_s_rule) - [Godbolt's Rule](https://corecursive.com/godbolt-rule-matt-godbolt/)
-* [2025-11-16, 14:39:02](https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version) - [Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature - Phoronix](https://www.phoronix.com/news/Bcachefs-Rebalance-V2)
+* [2025-11-16, 14:39:02](https://lobste.rs/s/xhjjru/bcachefs_rolls_out_metadata_version) - [Bcachefs Rolls Out Metadata Version Reconcile \"rebalance_v2\" Feature](https://www.phoronix.com/news/Bcachefs-Rebalance-V2)
 * [2025-11-16, 14:30:59](https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion) - [A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare](https://github.com/nathan-barry/tiny-diffusion)
 * [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
@@ -17,14 +19,12 @@
 * [2025-11-15, 23:15:27](https://lobste.rs/s/8tzd9i/your_project_fucking_sucks) - [your project fucking sucks](https://ficd.sh/blog/your-project-sucks/)
 * [2025-11-15, 22:40:49](https://lobste.rs/s/7knpcc/building_robust_permissions_system) - [Building a robust permissions system in TypeScript](https://xetera.dev/article/typescript-permissions)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
-* [2025-11-15, 18:23:52](https://lobste.rs/s/ygmqnn/iceberg_right_idea_wrong_spec_part_2_2_spec) - [Iceberg, The Right Idea - The Wrong Spec - Part 2 of 2: The Spec](https://www.database-doctor.com/posts/iceberg-is-wrong-2.html)
 * [2025-11-15, 17:50:49](https://lobste.rs/s/pztoqh/small_functions_considered_harmful_2017) - [Small functions considered harmful (2017)](https://copyconstruct.medium.com/small-functions-considered-harmful-91035d316c29)
 * [2025-11-15, 16:51:30](https://lobste.rs/s/uksu4y/i_can_t_recommend_grafana_anymore) - [I can’t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 16:08:21](https://lobste.rs/s/lvqmcz/compiler_options_hardening_guide_for_c_c) - [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
 * [2025-11-15, 14:27:42](https://lobste.rs/s/4soie8/inconceivable_types_rust_how_make_self) - [The Inconceivable Types of Rust: How to Make Self-Borrows Safe](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
 * [2025-11-15, 13:55:31](https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 * [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
-* [2025-11-15, 04:00:05](https://lobste.rs/s/sw3hlu/ai_world_clocks) - [AI World Clocks](https://clocks.brianmoore.com/)
 
 ## [Archives](archives/index.md)
 
