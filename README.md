@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
 * [2025-11-16, 20:14:04](https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation) - [Penrose: From Mathematical Notation to Beautiful Diagrams](https://www.youtube.com/watch?v=OyD4LIv2PDc)
 * [2025-11-16, 20:09:50](https://lobste.rs/s/snnnga/sprae_hydrate_html_jsx_tree_with_signal) - [spræ: Hydrate HTML/JSX tree with signal-powered reactive attributes](https://dy.github.io/sprae/)
 * [2025-11-16, 19:19:18](https://lobste.rs/s/sdtywr/fate_small_open_source) - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
@@ -24,7 +25,6 @@
 * [2025-11-15, 16:51:30](https://lobste.rs/s/uksu4y/i_can_t_recommend_grafana_anymore) - [I can’t recommend Grafana anymore](https://henrikgerdes.me/blog/2025-11-grafana-mess/)
 * [2025-11-15, 14:27:42](https://lobste.rs/s/4soie8/inconceivable_types_rust_how_make_self) - [The Inconceivable Types of Rust: How to Make Self-Borrows Safe](https://blog.polybdenum.com/2024/06/07/the-inconceivable-types-of-rust-how-to-make-self-borrows-safe.html)
 * [2025-11-15, 13:55:31](https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
-* [2025-11-15, 09:28:38](https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code) - [10 patterns for faster python code](https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/)
 
 ## [Archives](archives/index.md)
 
