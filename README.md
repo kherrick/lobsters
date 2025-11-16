@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 20:51:10](https://lobste.rs/s/hzzm6k/6502_emulator_labview) - [A 6502 emulator in LabVIEW](https://www.crossover-eng.it/view.php?post=post_4)
 * [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
 * [2025-11-16, 20:14:04](https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation) - [Penrose: From Mathematical Notation to Beautiful Diagrams](https://www.youtube.com/watch?v=OyD4LIv2PDc)
 * [2025-11-16, 20:09:50](https://lobste.rs/s/snnnga/sprae_hydrate_html_jsx_tree_with_signal) - [spræ: Hydrate HTML/JSX tree with signal-powered reactive attributes](https://dy.github.io/sprae/)
@@ -16,7 +17,6 @@
 * [2025-11-16, 11:07:34](https://lobste.rs/s/50jlhk/programming_languages_age_ai_agents) - [Programming Languages in the Age of \"AI\" Agents](https://alexn.org/blog/2025/11/16/programming-languages-in-the-age-of-ai-agents/)
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
-* [2025-11-16, 03:12:14](https://lobste.rs/s/whfrui/supersonic_supercollider_s_synthesis) - [SuperSonic - SuperCollider's Synthesis Engine in the Browser](https://sonic-pi.net/supersonic/demo.html)
 * [2025-11-16, 02:04:05](https://lobste.rs/s/iszli1/when_did_people_favor_composition_over) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-16, 01:02:55](https://lobste.rs/s/uyqvhe/finding_cpu_design_bug_xbox_360_2018) - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)

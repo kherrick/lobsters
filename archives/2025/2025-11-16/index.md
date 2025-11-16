@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 20:51:10](https://lobste.rs/s/hzzm6k/6502_emulator_labview) - [A 6502 emulator in LabVIEW](https://www.crossover-eng.it/view.php?post=post_4)
 * [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
 * [2025-11-16, 20:14:04](https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation) - [Penrose: From Mathematical Notation to Beautiful Diagrams](https://www.youtube.com/watch?v=OyD4LIv2PDc)
 * [2025-11-16, 20:09:50](https://lobste.rs/s/snnnga/sprae_hydrate_html_jsx_tree_with_signal) - [spræ: Hydrate HTML/JSX tree with signal-powered reactive attributes](https://dy.github.io/sprae/)
