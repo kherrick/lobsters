@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-16, 02:04:05](https://lobste.rs/s/iszli1/when_did_people_favor_composition_over) - [When did people favor composition over inheritance?](https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/)
 * [2025-11-16, 01:02:55](https://lobste.rs/s/uyqvhe/finding_cpu_design_bug_xbox_360_2018) - [Finding a CPU Design Bug in the Xbox 360 (2018)](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 23:15:27](https://lobste.rs/s/8tzd9i/your_project_fucking_sucks) - [your project fucking sucks](https://ficd.sh/blog/your-project-sucks/)
@@ -20,7 +21,6 @@
 * [2025-11-15, 03:22:49](https://lobste.rs/s/z0midp/go_s_sweet_16) - [Go’s Sweet 16](https://go.dev/blog/16years)
 * [2025-11-14, 19:03:18](https://lobste.rs/s/9l70qt/announcing_incusos) - [Announcing IncusOS](https://discuss.linuxcontainers.org/t/announcing-incusos/25139)
 * [2025-11-14, 17:56:12](https://lobste.rs/s/lywf8s/ai_water_issue_is_fake) - [The AI water issue is fake](https://andymasley.substack.com/p/the-ai-water-issue-is-fake)
-* [2025-11-14, 16:25:42](https://lobste.rs/s/rd1tcy/portable_python_self_contained_python) - [portable_python: Self-contained Python distribution for Linux](https://github.com/qznc/portable_python)
 * [2025-11-14, 15:25:28](https://lobste.rs/s/9appzu/how_we_avoided_side_channels_our_new_post) - [How we avoided side-channels in our new post-quantum Go cryptography libraries](https://blog.trailofbits.com/2025/11/14/how-we-avoided-side-channels-in-our-new-post-quantum-go-cryptography-libraries/)
 * [2025-11-14, 15:20:53](https://lobste.rs/s/4vb7wg/moonpool_ocaml5_imandrax) - [Moonpool and OCaml5 in Imandrax](https://docs.imandra.ai/imandrax/blog/2025-11-12-moonpool-in-imandrax/)
 * [2025-11-14, 13:14:44](https://lobste.rs/s/k99bvq/structural_regular_expression_engine) - [A structural regular expression engine for Rust](https://www.sminez.dev/match-it-again-sam/)
