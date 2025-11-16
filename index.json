@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-16, 14:30:59",
+      "https://lobste.rs/s/3gjcip/tiny_character_level_language_diffusion"
+    ],
+    [
+      "A Tiny, Character-Level Language Diffusion Model Trained on Shakespeare",
+      "https://github.com/nathan-barry/tiny-diffusion"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 14:29:30",
+      "https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written"
+    ],
+    [
+      "brimstone: New JavaScript engine written in Rust",
+      "https://github.com/Hans-Halverson/brimstone"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 13:58:06",
       "https://lobste.rs/s/9vqlf8/production_grade_container_deployment"
     ],
@@ -227,26 +247,6 @@
     [
       "Go’s Sweet 16",
       "https://go.dev/blog/16years"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 17:56:12",
-      "https://lobste.rs/s/lywf8s/ai_water_issue_is_fake"
-    ],
-    [
-      "The AI water issue is fake",
-      "https://andymasley.substack.com/p/the-ai-water-issue-is-fake"
-    ]
-  ],
-  [
-    [
-      "2025-11-14, 09:23:47",
-      "https://lobste.rs/s/l4vg9a/this_isn_t_battle"
-    ],
-    [
-      "This Isn't a Battle",
-      "https://my-notes.dragas.net/2025/11/14/this-isnt-a-battle/"
     ]
   ]
 ]
