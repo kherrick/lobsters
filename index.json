@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2025-11-15, 16:18:56",
-      "https://lobste.rs/s/64jejv/building_serverless_applications_with"
-    ],
-    [
-      "Building serverless applications with Rust on AWS Lambda",
-      "https://aws.amazon.com/blogs/compute/building-serverless-applications-with-rust-on-aws-lambda/"
-    ]
-  ],
-  [
-    [
       "2025-11-15, 16:08:21",
       "https://lobste.rs/s/lvqmcz/compiler_options_hardening_guide_for_c_c"
     ],
@@ -237,6 +227,16 @@
     [
       "The AI water issue is fake",
       "https://andymasley.substack.com/p/the-ai-water-issue-is-fake"
+    ]
+  ],
+  [
+    [
+      "2025-11-14, 13:14:44",
+      "https://lobste.rs/s/k99bvq/structural_regular_expression_engine"
+    ],
+    [
+      "A structural regular expression engine for Rust",
+      "https://www.sminez.dev/match-it-again-sam/"
     ]
   ],
   [
