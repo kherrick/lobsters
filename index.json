@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-16, 20:44:22",
+      "https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries"
+    ],
+    [
+      "Bundle Configuration with Binaries using Nix",
+      "https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/"
+    ]
+  ],
+  [
+    [
       "2025-11-16, 20:14:04",
       "https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation"
     ],
@@ -237,16 +247,6 @@
     [
       "How to write type-safe generics in C",
       "https://raphgl.github.io/blog/generics-in-c.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 09:28:38",
-      "https://lobste.rs/s/1px2ci/10_patterns_for_faster_python_code"
-    ],
-    [
-      "10 patterns for faster python code",
-      "https://blog.jetbrains.com/pycharm/2025/11/10-smart-performance-hacks-for-faster-python-code/"
     ]
   ]
 ]
