@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-16](index.md)
 
+* [2025-11-16, 17:47:44](https://lobste.rs/s/fak69p/oblique_strategies_prompts_for) - [Oblique Strategies: Prompts for Programmers](https://kevinlawler.com/prompts)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-16, 16:30:48](https://lobste.rs/s/pvgoal/lifting_kotlin_testing_comparing_junit) - [Lifting Kotlin testing: Comparing JUnit, Kotlin-test, Kotest, Prepared and TestBalloon](https://ivan.canet.dev/blog/2025/06/17/state-of-kotlin-tests.html)
 * [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
