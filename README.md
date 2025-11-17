@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
 * [2025-11-17, 06:18:09](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt) - [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-17, 02:37:36](https://lobste.rs/s/evuyaq/1961_relay_computer_running_your_browser) - [A 1961 Relay Computer Running in Your Browser](https://minivac.greg.technology/)
@@ -10,7 +11,6 @@
 * [2025-11-16, 23:24:13](https://lobste.rs/s/5lyxyp/why_your_mock_breaks_later) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 * [2025-11-16, 21:47:13](https://lobste.rs/s/zwn6vn/waiting_for_sql_202y_group_by_all) - [Waiting for SQL:202y: GROUP BY ALL](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-16, 21:16:16](https://lobste.rs/s/5t0ing/amd_vs_intel_unicode_benchmark) - [AMD vs. Intel: a Unicode benchmark](https://lemire.me/blog/2025/11/16/amd-vs-intel-a-unicode-benchmark/)
-* [2025-11-16, 21:10:50](https://lobste.rs/s/iysyaf/interpn_fast_interpolation) - [InterpN: Fast Interpolation](https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/)
 * [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
 * [2025-11-16, 19:19:18](https://lobste.rs/s/sdtywr/fate_small_open_source) - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:12:42](https://lobste.rs/s/4nocg8/new_online_accounts_system_for_kde) - [A new online accounts system [for KDE]?](https://nicolasfella.de/posts/a-new-online-accounts-system/)
