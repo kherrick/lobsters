@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-17, 18:54:27",
+      "https://lobste.rs/s/bevihc/memory_corrupting_pong"
+    ],
+    [
+      "Memory-corrupting Pong",
+      "https://arhan.sh/blog/memory-corrupting-pong/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 18:32:55",
       "https://lobste.rs/s/lijpxq/towards_interplanetary_quic_traffic"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2025-11-17, 11:36:32",
+      "https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy"
+    ],
+    [
+      "k-anonymity, the parent of all privacy definitions",
+      "https://desfontain.es/blog/k-anonymity.html"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 11:31:42",
       "https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-11-17, 09:28:15",
-      "https://lobste.rs/s/uq95l0/i_work_for_evil_company_outside_work_i_m"
-    ],
-    [
-      "I Work For an Evil Company, but Outside Work, I’m Actually a Really Good Person",
-      "https://www.mcsweeneys.net/articles/i-work-for-an-evil-company-but-outside-work-im-actually-a-really-good-person"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 08:51:06",
       "https://lobste.rs/s/b1njsq/think_math_write_code_2019"
     ],
@@ -157,16 +167,6 @@
     [
       "The Cameras Tracking You = A Security Nightmare",
       "https://www.youtube.com/watch?v=uB0gr7Fh6lY"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 02:27:59",
-      "https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix"
-    ],
-    [
-      "sit: Create StuffIt archives on Unix systems",
-      "https://github.com/thecloudexpanse/sit"
     ]
   ],
   [
