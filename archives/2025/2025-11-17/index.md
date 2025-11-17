@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 16:26:28](https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for) - [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
 * [2025-11-17, 16:05:57](https://lobste.rs/s/10pdsa/freemdu_open_hardware_software_tools_for) - [FreeMDU: Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 14:58:38](https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type) - [Typechecking is undecideable when 'type' is a type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 14:05:37](https://lobste.rs/s/2242sf/worries_about_open_source_age_llms) - [Worries about Open Source in the age of LLMs](https://www.jvt.me/posts/2025/11/17/llm-oss/)
@@ -14,6 +15,7 @@
 * [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
 * [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
+* [2025-11-17, 10:40:55](https://lobste.rs/s/eefzex/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eefzex/what_are_you_doing_this_week)
 * [2025-11-17, 09:28:15](https://lobste.rs/s/uq95l0/i_work_for_evil_company_outside_work_i_m) - [I Work For an Evil Company, but Outside Work, I’m Actually a Really Good Person](https://www.mcsweeneys.net/articles/i-work-for-an-evil-company-but-outside-work-im-actually-a-really-good-person)
 * [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code_2019) - [Think in Math. Write in Code (2019)](https://www.jmeiners.com/think-in-math/)
 * [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
