@@ -3,6 +3,7 @@
 * [2025-11-17, 14:05:37](https://lobste.rs/s/2242sf/worries_about_open_source_age_llms) - [Worries about Open Source in the age of LLMs](https://www.jvt.me/posts/2025/11/17/llm-oss/)
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
+* [2025-11-17, 11:51:37](https://lobste.rs/s/kejaqc/programming_algebra) - [The Programming of Algebra](https://arxiv.org/abs/2207.00850)
 * [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
 * [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
@@ -23,7 +24,6 @@
 * [2025-11-16, 14:29:30](https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written) - [brimstone: New JavaScript engine written in Rust](https://github.com/Hans-Halverson/brimstone)
 * [2025-11-16, 13:58:06](https://lobste.rs/s/9vqlf8/production_grade_container_deployment) - [Production-Grade Container Deployment with Podman Quadlets](https://blog.hofstede.it/production-grade-container-deployment-with-podman-quadlets/)
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
-* [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 
 ## [Archives](archives/index.md)
