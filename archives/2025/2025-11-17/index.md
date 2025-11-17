@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 22:34:19](https://lobste.rs/s/ijt1su/there_are_no_upsides_object_oriented) - [There are no Upsides to Object Oriented Programming](https://maldus512.medium.com/there-are-no-upsides-to-object-oriented-programming-7ba965786894)
 * [2025-11-17, 22:29:05](https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on) - [A 450 KB static site generator based on Markdown and Lua](https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html)
 * [2025-11-17, 22:05:49](https://lobste.rs/s/wjidvj/how_java_s_floating_point_hurts_everyone) - [How Java’s Floating-Point Hurts Everyone Everywhere (1998)](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
 * [2025-11-17, 21:42:24](https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth) - [Chuck Moore retires from colorforth after latest Windows breaks rendering](https://www.youtube.com/watch?v=MvkGBWXb2oQ)
