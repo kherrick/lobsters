@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 01:57:57](https://lobste.rs/s/rinfdc/ai_ml_for_biology_healthcare_learning) - [AI/ML for Biology & Healthcare: A Learning Path](https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path)
+* [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-17, 00:27:03](https://lobste.rs/s/vk6fqx/goofing_on_meta_s_ai_crawler) - [Goofing on Meta's AI Crawler](https://bruceediger.com/posts/goofing-on-meta/)
-* [2025-11-17, 00:16:22](https://lobste.rs/s/e2ayz5/event_driven_flows) - [Event-driven flows](https://akrzemi1.wordpress.com/2025/11/16/event-driven-flows/)
-* [2025-11-16, 23:24:13](https://lobste.rs/s/5lyxyp/why_your_mock_breaks_later) - [Why your mock breaks later](https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html)
 * [2025-11-16, 21:47:13](https://lobste.rs/s/zwn6vn/waiting_for_sql_202y_group_by_all) - [Waiting for SQL:202y: GROUP BY ALL](http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all)
 * [2025-11-16, 21:16:16](https://lobste.rs/s/5t0ing/amd_vs_intel_unicode_benchmark) - [AMD vs. Intel: a Unicode benchmark](https://lemire.me/blog/2025/11/16/amd-vs-intel-a-unicode-benchmark/)
 * [2025-11-16, 21:10:50](https://lobste.rs/s/iysyaf/interpn_fast_interpolation) - [InterpN: Fast Interpolation](https://jlogan.dev/blog/2025/11/10/2025-11-10-interpn-fast-interpolation/)
