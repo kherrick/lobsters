@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 14:58:38](https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type) - [Typechecking is undecideable when 'type' is a type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 14:05:37](https://lobste.rs/s/2242sf/worries_about_open_source_age_llms) - [Worries about Open Source in the age of LLMs](https://www.jvt.me/posts/2025/11/17/llm-oss/)
 * [2025-11-17, 12:46:45](https://lobste.rs/s/z0nw1q/i_know_you_don_t_want_them_want_ai) - [I know you don’t want them to want AI, but…](https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/)
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)

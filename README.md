@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 14:58:38](https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type) - [Typechecking is undecideable when 'type' is a type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 14:05:37](https://lobste.rs/s/2242sf/worries_about_open_source_age_llms) - [Worries about Open Source in the age of LLMs](https://www.jvt.me/posts/2025/11/17/llm-oss/)
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 11:51:37](https://lobste.rs/s/kejaqc/programming_algebra) - [The Programming of Algebra](https://arxiv.org/abs/2207.00850)
-* [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
 * [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
 * [2025-11-17, 09:28:15](https://lobste.rs/s/uq95l0/i_work_for_evil_company_outside_work_i_m) - [I Work For an Evil Company, but Outside Work, I’m Actually a Really Good Person](https://www.mcsweeneys.net/articles/i-work-for-an-evil-company-but-outside-work-im-actually-a-really-good-person)
