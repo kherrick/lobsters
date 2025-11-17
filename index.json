@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-17, 02:27:59",
+      "https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix"
+    ],
+    [
+      "sit: Create StuffIt archives on Unix systems",
+      "https://github.com/thecloudexpanse/sit"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 00:50:34",
       "https://lobste.rs/s/l1uoqb/javascript_engines_zoo"
     ],
@@ -37,6 +47,16 @@
     [
       "Goofing on Meta's AI Crawler",
       "https://bruceediger.com/posts/goofing-on-meta/"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 23:24:13",
+      "https://lobste.rs/s/5lyxyp/why_your_mock_breaks_later"
+    ],
+    [
+      "Why your mock breaks later",
+      "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Bundle Configuration with Binaries using Nix",
       "https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 20:14:04",
-      "https://lobste.rs/s/bqwcjk/penrose_from_mathematical_notation"
-    ],
-    [
-      "Penrose: From Mathematical Notation to Beautiful Diagrams",
-      "https://www.youtube.com/watch?v=OyD4LIv2PDc"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Jonathan Blow On Programming Language Design",
       "https://youtu.be/e6crOMC9WCE"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 02:04:05",
-      "https://lobste.rs/s/iszli1/when_did_people_favor_composition_over"
-    ],
-    [
-      "When did people favor composition over inheritance?",
-      "https://www.sicpers.info/2025/11/when-did-people-favor-composition-over-inheritance/"
     ]
   ],
   [
