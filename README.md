@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 23:30:49](https://lobste.rs/s/o933h4/programming_program_oriented_language) - [Programming a Program-Oriented-Language](https://www.btbytes.com/docs/POL.pdf)
 * [2025-11-17, 22:29:05](https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on) - [A 450 KB static site generator based on Markdown and Lua](https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html)
 * [2025-11-17, 22:22:20](https://lobste.rs/s/y8nwa2/building_database_from_scratch) - [Building a Database From Scratch](https://stym06.github.io/posts/build-a-db-from-scratch/)
 * [2025-11-17, 21:42:24](https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth) - [Chuck Moore retires from colorforth after latest Windows breaks rendering](https://www.youtube.com/watch?v=MvkGBWXb2oQ)
@@ -18,7 +19,6 @@
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
 * [2025-11-17, 10:40:55](https://lobste.rs/s/eefzex/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eefzex/what_are_you_doing_this_week)
-* [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code_2019) - [Think in Math. Write in Code (2019)](https://www.jmeiners.com/think-in-math/)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
