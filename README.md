@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 20:22:43](https://lobste.rs/s/plohjq/garbage_collection_is_useful) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-17, 19:58:18](https://lobste.rs/s/1xkqad/compiling_ruby_machine_language) - [Compiling Ruby To Machine Language](https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language)
 * [2025-11-17, 18:59:01](https://lobste.rs/s/w0qf6j/sozu_http_reverse_proxy) - [Sōzu HTTP reverse proxy](https://github.com/sozu-proxy/sozu)
 * [2025-11-17, 18:54:27](https://lobste.rs/s/bevihc/memory_corrupting_pong) - [Memory-corrupting Pong](https://arhan.sh/blog/memory-corrupting-pong/)
@@ -16,7 +17,6 @@
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
 * [2025-11-17, 10:40:55](https://lobste.rs/s/eefzex/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eefzex/what_are_you_doing_this_week)
 * [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code_2019) - [Think in Math. Write in Code (2019)](https://www.jmeiners.com/think-in-math/)
-* [2025-11-17, 06:18:09](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt) - [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-17, 00:27:03](https://lobste.rs/s/vk6fqx/goofing_on_meta_s_ai_crawler) - [Goofing on Meta's AI Crawler](https://bruceediger.com/posts/goofing-on-meta/)
