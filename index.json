@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-17, 11:07:37",
+      "https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered"
+    ],
+    [
+      "JupyterLite kernel for Haskell, powered by WebAssembly",
+      "https://github.com/tani/xeus-haskell"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 09:28:15",
+      "https://lobste.rs/s/uq95l0/i_work_for_evil_company_outside_work_i_m"
+    ],
+    [
+      "I Work For an Evil Company, but Outside Work, I’m Actually a Really Good Person",
+      "https://www.mcsweeneys.net/articles/i-work-for-an-evil-company-but-outside-work-im-actually-a-really-good-person"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 08:51:06",
       "https://lobste.rs/s/b1njsq/think_math_write_code"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2025-11-17, 01:57:57",
-      "https://lobste.rs/s/rinfdc/ai_ml_for_biology_healthcare_learning"
-    ],
-    [
-      "AI/ML for Biology & Healthcare: A Learning Path",
-      "https://www.iamtk.co/ai-ml-for-biology-and-healthcare-a-learning-path"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 00:50:34",
       "https://lobste.rs/s/l1uoqb/javascript_engines_zoo"
     ],
@@ -87,16 +97,6 @@
     [
       "Why your mock breaks later",
       "https://nedbatchelder.com/blog/202511/why_your_mock_breaks_later.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 21:47:13",
-      "https://lobste.rs/s/zwn6vn/waiting_for_sql_202y_group_by_all"
-    ],
-    [
-      "Waiting for SQL:202y: GROUP BY ALL",
-      "http://peter.eisentraut.org/blog/2025/11/11/waiting-for-sql-202y-group-by-all"
     ]
   ],
   [
