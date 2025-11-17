@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-17, 06:18:09",
+      "https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt"
+    ],
+    [
+      "FPGA based IBM-PC-XT",
+      "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 03:01:30",
       "https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare"
     ],
@@ -237,16 +247,6 @@
     [
       "$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux",
       "https://github.com/nadimkobeissi/16iax10h-linux-sound-saga"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 13:55:31",
-      "https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c"
-    ],
-    [
-      "How to write type-safe generics in C",
-      "https://raphgl.github.io/blog/generics-in-c.html"
     ]
   ]
 ]
