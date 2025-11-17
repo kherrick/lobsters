@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-11-17, 11:36:32",
+      "https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy"
+    ],
+    [
+      "k-anonymity, the parent of all privacy definitions",
+      "https://desfontain.es/blog/k-anonymity.html"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 11:31:42",
       "https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language"
     ],
@@ -237,16 +247,6 @@
     [
       "librepods: AirPods liberated from Apple's ecosystem",
       "https://github.com/kavishdevar/librepods"
-    ]
-  ],
-  [
-    [
-      "2025-11-15, 23:27:18",
-      "https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without"
-    ],
-    [
-      "Blocking LLM crawlers, without JavaScript",
-      "https://www.owl.is/blogg/blocking-crawlers-without-javascript/"
     ]
   ]
 ]
