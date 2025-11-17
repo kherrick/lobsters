@@ -2,6 +2,7 @@
 
 * [2025-11-17, 18:54:27](https://lobste.rs/s/bevihc/memory_corrupting_pong) - [Memory-corrupting Pong](https://arhan.sh/blog/memory-corrupting-pong/)
 * [2025-11-17, 18:32:55](https://lobste.rs/s/lijpxq/towards_interplanetary_quic_traffic) - [Towards interplanetary QUIC traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
+* [2025-11-17, 17:31:04](https://lobste.rs/s/oaodgm/paper_ai_tigers) - [Paper AI Tigers](https://www.gleech.org/paper)
 * [2025-11-17, 17:18:43](https://lobste.rs/s/90ppkk/pre_pep_rust_for_cpython) - [Pre-PEP: Rust for CPython](https://discuss.python.org/t/pre-pep-rust-for-cpython/104906)
 * [2025-11-17, 16:50:28](https://lobste.rs/s/5vfbpu/launching_2025_state_rust_survey) - [Launching the 2025 State of Rust Survey](https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/)
 * [2025-11-17, 16:30:57](https://lobste.rs/s/wmaczg/google_is_killing_open_web_part_2) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
@@ -11,7 +12,6 @@
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
-* [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
 * [2025-11-17, 10:40:55](https://lobste.rs/s/eefzex/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eefzex/what_are_you_doing_this_week)
 * [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code_2019) - [Think in Math. Write in Code (2019)](https://www.jmeiners.com/think-in-math/)
