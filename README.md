@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 06:18:09](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt) - [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-17, 02:37:36](https://lobste.rs/s/evuyaq/1961_relay_computer_running_your_browser) - [A 1961 Relay Computer Running in Your Browser](https://minivac.greg.technology/)
 * [2025-11-17, 02:27:59](https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
@@ -24,7 +25,6 @@
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
 * [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
-* [2025-11-15, 13:55:31](https://lobste.rs/s/uc3a3b/how_write_type_safe_generics_c) - [How to write type-safe generics in C](https://raphgl.github.io/blog/generics-in-c.html)
 
 ## [Archives](archives/index.md)
 
