@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-17, 22:29:05",
+      "https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on"
+    ],
+    [
+      "A 450 KB static site generator based on Markdown and Lua",
+      "https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-17, 22:05:49",
+      "https://lobste.rs/s/wjidvj/how_java_s_floating_point_hurts_everyone"
+    ],
+    [
+      "How Java’s Floating-Point Hurts Everyone Everywhere (1998)",
+      "https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 21:42:24",
       "https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-17, 06:18:09",
-      "https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt"
-    ],
-    [
-      "FPGA based IBM-PC-XT",
-      "https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 03:01:30",
       "https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare"
     ],
@@ -197,16 +207,6 @@
     [
       "JavaScript engines zoo",
       "https://ivankra.github.io/javascript-zoo/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 00:27:03",
-      "https://lobste.rs/s/vk6fqx/goofing_on_meta_s_ai_crawler"
-    ],
-    [
-      "Goofing on Meta's AI Crawler",
-      "https://bruceediger.com/posts/goofing-on-meta/"
     ]
   ],
   [
