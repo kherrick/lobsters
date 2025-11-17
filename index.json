@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-17, 21:42:24",
+      "https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth"
+    ],
+    [
+      "Chuck Moore retires from colorforth after latest Windows breaks rendering",
+      "https://www.youtube.com/watch?v=MvkGBWXb2oQ"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 21:07:28",
       "https://lobste.rs/s/jrvtgn/add_vlan_opnsense_just_26_clicks_across_6"
     ],
@@ -237,16 +247,6 @@
     [
       "brimstone: New JavaScript engine written in Rust",
       "https://github.com/Hans-Halverson/brimstone"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 10:15:50",
-      "https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s"
-    ],
-    [
-      "librepods: AirPods liberated from Apple's ecosystem",
-      "https://github.com/kavishdevar/librepods"
     ]
   ]
 ]
