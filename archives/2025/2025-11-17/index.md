@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
 * [2025-11-17, 12:46:45](https://lobste.rs/s/z0nw1q/i_know_you_don_t_want_them_want_ai) - [I know you don’t want them to want AI, but…](https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/)
+* [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 11:51:37](https://lobste.rs/s/kejaqc/programming_algebra) - [The Programming of Algebra](https://arxiv.org/abs/2207.00850)
 * [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
 * [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
