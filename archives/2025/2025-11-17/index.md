@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
+* [2025-11-17, 09:28:15](https://lobste.rs/s/uq95l0/i_work_for_evil_company_outside_work_i_m) - [I Work For an Evil Company, but Outside Work, I’m Actually a Really Good Person](https://www.mcsweeneys.net/articles/i-work-for-an-evil-company-but-outside-work-im-actually-a-really-good-person)
 * [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
 * [2025-11-17, 06:18:09](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt) - [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
 * [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
