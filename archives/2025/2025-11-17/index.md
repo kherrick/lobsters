@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 16:50:28](https://lobste.rs/s/5vfbpu/launching_2025_state_rust_survey) - [Launching the 2025 State of Rust Survey](https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/)
+* [2025-11-17, 16:30:57](https://lobste.rs/s/wmaczg/google_is_killing_open_web_part_2) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 16:26:28](https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for) - [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
 * [2025-11-17, 16:05:57](https://lobste.rs/s/10pdsa/freemdu_open_hardware_software_tools_for) - [FreeMDU: Open hardware and software tools for communicating with Miele appliances via their optical diagnostic interface](https://github.com/medusalix/FreeMDU)
 * [2025-11-17, 14:58:38](https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type) - [Typechecking is undecideable when 'type' is a type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
