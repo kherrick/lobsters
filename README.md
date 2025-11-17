@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
+* [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
+* [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
 * [2025-11-17, 09:28:15](https://lobste.rs/s/uq95l0/i_work_for_evil_company_outside_work_i_m) - [I Work For an Evil Company, but Outside Work, I’m Actually a Really Good Person](https://www.mcsweeneys.net/articles/i-work-for-an-evil-company-but-outside-work-im-actually-a-really-good-person)
 * [2025-11-17, 08:51:06](https://lobste.rs/s/b1njsq/think_math_write_code) - [Think in Math. Write in Code](https://www.jmeiners.com/think-in-math/)
 * [2025-11-17, 06:18:09](https://lobste.rs/s/runjph/fpga_based_ibm_pc_xt) - [FPGA based IBM-PC-XT](https://bit-hack.net/2025/11/10/fpga-based-ibm-pc-xt/)
@@ -24,7 +25,6 @@
 * [2025-11-16, 10:15:50](https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s) - [librepods: AirPods liberated from Apple's ecosystem](https://github.com/kavishdevar/librepods)
 * [2025-11-16, 08:43:22](https://lobste.rs/s/m7jvhl/jonathan_blow_on_programming_language) - [Jonathan Blow On Programming Language Design](https://youtu.be/e6crOMC9WCE)
 * [2025-11-15, 23:27:18](https://lobste.rs/s/d1jdeu/blocking_llm_crawlers_without) - [Blocking LLM crawlers, without JavaScript](https://www.owl.is/blogg/blocking-crawlers-without-javascript/)
-* [2025-11-15, 22:11:53](https://lobste.rs/s/rowk9p/1900_bug_bounty_fix_lenovo_legion_pro_7) - [$1900 Bug Bounty to Fix the Lenovo Legion Pro 7 16IAX10H's Speakers on Linux](https://github.com/nadimkobeissi/16iax10h-linux-sound-saga)
 
 ## [Archives](archives/index.md)
 
