@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-11-17, 11:36:32",
-      "https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy"
-    ],
-    [
-      "k-anonymity, the parent of all privacy definitions",
-      "https://desfontain.es/blog/k-anonymity.html"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 11:07:37",
       "https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered"
     ],
@@ -247,6 +237,16 @@
     [
       "brimstone: New JavaScript engine written in Rust",
       "https://github.com/Hans-Halverson/brimstone"
+    ]
+  ],
+  [
+    [
+      "2025-11-16, 10:15:50",
+      "https://lobste.rs/s/vh4tzd/librepods_airpods_liberated_from_apple_s"
+    ],
+    [
+      "librepods: AirPods liberated from Apple's ecosystem",
+      "https://github.com/kavishdevar/librepods"
     ]
   ]
 ]
