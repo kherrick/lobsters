@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-17, 12:46:45](https://lobste.rs/s/z0nw1q/i_know_you_don_t_want_them_want_ai) - [I know you don’t want them to want AI, but…](https://www.anildash.com//2025/11/14/wanting-not-to-want-ai/)
+* [2025-11-17, 14:05:37](https://lobste.rs/s/2242sf/worries_about_open_source_age_llms) - [Worries about Open Source in the age of LLMs](https://www.jvt.me/posts/2025/11/17/llm-oss/)
+* [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 11:36:32](https://lobste.rs/s/ubkuv0/k_anonymity_parent_all_privacy) - [k-anonymity, the parent of all privacy definitions](https://desfontain.es/blog/k-anonymity.html)
 * [2025-11-17, 11:31:42](https://lobste.rs/s/pbn3zy/zigbook_learn_zig_programming_language) - [Zigbook – Learn the Zig Programming Language](https://www.zigbook.net/)
@@ -13,7 +14,6 @@
 * [2025-11-17, 02:27:59](https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-17, 00:27:03](https://lobste.rs/s/vk6fqx/goofing_on_meta_s_ai_crawler) - [Goofing on Meta's AI Crawler](https://bruceediger.com/posts/goofing-on-meta/)
-* [2025-11-16, 20:44:22](https://lobste.rs/s/iqsvk2/bundle_configuration_with_binaries) - [Bundle Configuration with Binaries using Nix](https://www.robw.fyi/2025/11/15/bundle-configuration-with-binaries-using-nix/)
 * [2025-11-16, 19:19:18](https://lobste.rs/s/sdtywr/fate_small_open_source) - [The fate of “small” open source](https://nolanlawson.com/2025/11/16/the-fate-of-small-open-source/)
 * [2025-11-16, 18:11:01](https://lobste.rs/s/9zkul4/how_foss_won_why_it_matters) - [How FOSS Won and Why It Matters](https://www.softwaremaxims.com/blog/how-foss-won-consequences)
 * [2025-11-16, 17:47:44](https://lobste.rs/s/fak69p/oblique_strategies_prompts_for) - [Oblique Strategies: Prompts for Programmers](https://kevinlawler.com/prompts)
