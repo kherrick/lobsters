@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-17](index.md)
 
+* [2025-11-17, 22:29:05](https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on) - [A 450 KB static site generator based on Markdown and Lua](https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html)
+* [2025-11-17, 22:05:49](https://lobste.rs/s/wjidvj/how_java_s_floating_point_hurts_everyone) - [How Java’s Floating-Point Hurts Everyone Everywhere (1998)](https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf)
 * [2025-11-17, 21:42:24](https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth) - [Chuck Moore retires from colorforth after latest Windows breaks rendering](https://www.youtube.com/watch?v=MvkGBWXb2oQ)
 * [2025-11-17, 21:07:28](https://lobste.rs/s/jrvtgn/add_vlan_opnsense_just_26_clicks_across_6) - [Add a VLAN to OPNsense in Just 26 Clicks Across 6 Screens](https://mtlynch.io/notes/opnsense-clicks/)
 * [2025-11-17, 20:22:43](https://lobste.rs/s/plohjq/garbage_collection_is_useful) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
