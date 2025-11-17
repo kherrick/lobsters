@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-17, 17:18:43](https://lobste.rs/s/90ppkk/pre_pep_rust_for_cpython) - [Pre-PEP: Rust for CPython](https://discuss.python.org/t/pre-pep-rust-for-cpython/104906)
 * [2025-11-17, 16:50:28](https://lobste.rs/s/5vfbpu/launching_2025_state_rust_survey) - [Launching the 2025 State of Rust Survey](https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/)
 * [2025-11-17, 16:30:57](https://lobste.rs/s/wmaczg/google_is_killing_open_web_part_2) - [Google is killing the open web, part 2](https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/)
 * [2025-11-17, 16:26:28](https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for) - [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
@@ -18,7 +19,6 @@
 * [2025-11-17, 02:27:59](https://lobste.rs/s/ssdtn7/sit_create_stuffit_archives_on_unix) - [sit: Create StuffIt archives on Unix systems](https://github.com/thecloudexpanse/sit)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-17, 00:27:03](https://lobste.rs/s/vk6fqx/goofing_on_meta_s_ai_crawler) - [Goofing on Meta's AI Crawler](https://bruceediger.com/posts/goofing-on-meta/)
-* [2025-11-16, 17:47:44](https://lobste.rs/s/fak69p/oblique_strategies_prompts_for) - [Oblique Strategies: Prompts for Programmers (2015)](https://kevinlawler.com/prompts)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 * [2025-11-16, 16:12:52](https://lobste.rs/s/qku1qr/living_my_best_sun_microsystems) - [Living my best Sun Microsystems ecosystem life in 2025](https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/)
 * [2025-11-16, 14:44:59](https://lobste.rs/s/2a2rud/godbolt_s_rule) - [Godbolt's Rule](https://corecursive.com/godbolt-rule-matt-godbolt/)
