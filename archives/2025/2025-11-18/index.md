@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-18, 07:24:03](https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver) - [Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects](https://arxiv.org/abs/2511.04427)
 * [2025-11-18, 06:21:31](https://lobste.rs/s/fbzd25/creating_toy_programming_language_with) - [Creating a Toy Programming Language with Actor-Based Parallelism](https://pointersgonewild.com/2025-08-03-creating-a-toy-language-with-actor-based-parallelism/)
 * [2025-11-18, 06:13:40](https://lobste.rs/s/cude7y/digital_signals_theory) - [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
