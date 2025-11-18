@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-18, 12:56:39](https://lobste.rs/s/bb3wu5/do_not_put_your_site_behind_cloudflare_if) - [Do Not Put Your Site Behind Cloudflare if You Don't Need To](https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont)
 * [2025-11-18, 12:28:19](https://lobste.rs/s/gab4og/dst_primer_for_unit_test_maxxers) - [A DST primer for unit test maxxers](https://www.amplifypartners.com/blog-posts/a-dst-primer-for-unit-test-maxxers)
 * [2025-11-18, 11:21:27](https://lobste.rs/s/ndaogy/uselessness_fast_slow_programming) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-18, 10:58:34](https://lobste.rs/s/i8ez2g/small_vanilla_kubernetes_install_on) - [A 'small' vanilla Kubernetes install on NixOS](https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html)
-* [2025-11-18, 10:10:03](https://lobste.rs/s/fptemf/loads_loads_fluffy_kittens) - [Loads and Loads of Fluffy Kittens](https://hazyresearch.stanford.edu/blog/2025-11-17-fluffy-kittens)
 * [2025-11-18, 09:22:50](https://lobste.rs/s/nnor3p/6_years_after_too_much_crypto) - [6 years after too much crypto](https://bfswa.substack.com/p/6-years-after-too-much-crypto)
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-18, 07:24:03](https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver) - [Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects](https://arxiv.org/abs/2511.04427)
