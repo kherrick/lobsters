@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 15:01:46",
+      "https://lobste.rs/s/lqsrgo/announcing_lix_2_94_acai_na_tigela"
+    ],
+    [
+      "Announcing Lix 2.94 “Açaí na tigela”",
+      "https://lix.systems/blog/2025-11-18-lix-2.94-release/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 14:19:46",
       "https://lobste.rs/s/wtnzei/rebecca_heineman_from_homelessness"
     ],
@@ -117,16 +127,6 @@
     [
       "Minimal Periodic Task Runner in Elixir",
       "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 23:30:49",
-      "https://lobste.rs/s/o933h4/programming_program_oriented_language"
-    ],
-    [
-      "Programming a Program-Oriented-Language",
-      "https://www.btbytes.com/docs/POL.pdf"
     ]
   ],
   [
