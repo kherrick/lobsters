@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 16:33:39",
+      "https://lobste.rs/s/psrp8z/google_summer_code_2025_results"
+    ],
+    [
+      "Google Summer of Code 2025 results",
+      "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 16:01:03",
       "https://lobste.rs/s/ei2zx3/ruby_4_0_0_preview2_released"
     ],
@@ -187,16 +197,6 @@
     [
       "Sōzu HTTP reverse proxy",
       "https://github.com/sozu-proxy/sozu"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 18:54:27",
-      "https://lobste.rs/s/bevihc/memory_corrupting_pong"
-    ],
-    [
-      "Memory-corrupting Pong",
-      "https://arhan.sh/blog/memory-corrupting-pong/"
     ]
   ],
   [
