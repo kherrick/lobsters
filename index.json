@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 02:15:30",
+      "https://lobste.rs/s/kznzg3/minimal_periodic_task_runner_elixir"
+    ],
+    [
+      "Minimal Periodic Task Runner in Elixir",
+      "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/"
+    ]
+  ],
+  [
+    [
       "2025-11-17, 23:30:49",
       "https://lobste.rs/s/o933h4/programming_program_oriented_language"
     ],
@@ -237,16 +247,6 @@
     [
       "Living my best Sun Microsystems ecosystem life in 2025",
       "https://www.osnews.com/story/143570/living-my-best-sun-microsystems-ecosystem-life-in-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 14:29:30",
-      "https://lobste.rs/s/ddhd8c/brimstone_new_javascript_engine_written"
-    ],
-    [
-      "brimstone: New JavaScript engine written in Rust",
-      "https://github.com/Hans-Halverson/brimstone"
     ]
   ]
 ]
