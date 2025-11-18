@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-18, 04:11:38",
-      "https://lobste.rs/s/crxugk/count_cachula_local_first_performance"
+      "2025-11-18, 07:24:03",
+      "https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver"
     ],
     [
-      "Count Cachula - Local-first performance without the complexity",
-      "https://countcachula.spooky.click/"
+      "Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects",
+      "https://arxiv.org/abs/2511.04427"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 06:13:40",
+      "https://lobste.rs/s/cude7y/digital_signals_theory"
+    ],
+    [
+      "Digital Signals Theory",
+      "https://brianmcfee.net/dstbook-site/content/intro.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Giving C a Superpower: custom header file (safe_c.h)",
       "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 11:07:37",
-      "https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered"
-    ],
-    [
-      "JupyterLite kernel for Haskell, powered by WebAssembly",
-      "https://github.com/tani/xeus-haskell"
     ]
   ],
   [
