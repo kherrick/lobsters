@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 09:16:15",
+      "https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon"
+    ],
+    [
+      "My next chapter with Mastodon",
+      "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 07:24:03",
       "https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver"
     ],
@@ -37,6 +47,16 @@
     [
       "Minimal Periodic Task Runner in Elixir",
       "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 02:13:26",
+      "https://lobste.rs/s/esdjgw/rank_balanced_trees_2014"
+    ],
+    [
+      "Rank-balanced trees (2014)",
+      "https://sidsen.azurewebsites.net/papers/rb-trees-talg.pdf"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-17, 16:30:57",
-      "https://lobste.rs/s/wmaczg/google_is_killing_open_web_part_2"
-    ],
-    [
-      "Google is killing the open web, part 2",
-      "https://wok.oblomov.eu/tecnologia/google-killing-open-web-2/"
-    ]
-  ],
-  [
-    [
       "2025-11-17, 16:26:28",
       "https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Giving C a Superpower: custom header file (safe_c.h)",
       "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 00:50:34",
-      "https://lobste.rs/s/l1uoqb/javascript_engines_zoo"
-    ],
-    [
-      "JavaScript engines zoo",
-      "https://ivankra.github.io/javascript-zoo/"
     ]
   ],
   [
