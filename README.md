@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-18, 16:33:39](https://lobste.rs/s/psrp8z/google_summer_code_2025_results) - [Google Summer of Code 2025 results](https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/)
 * [2025-11-18, 16:01:03](https://lobste.rs/s/ei2zx3/ruby_4_0_0_preview2_released) - [Ruby 4.0.0 preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
 * [2025-11-18, 15:01:46](https://lobste.rs/s/lqsrgo/announcing_lix_2_94_acai_na_tigela) - [Announcing Lix 2.94 “Açaí na tigela”](https://lix.systems/blog/2025-11-18-lix-2.94-release/)
 * [2025-11-18, 14:19:46](https://lobste.rs/s/wtnzei/rebecca_heineman_from_homelessness) - [Rebecca Heineman - from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
@@ -19,7 +20,6 @@
 * [2025-11-17, 21:07:28](https://lobste.rs/s/jrvtgn/add_vlan_opnsense_just_26_clicks_across_6) - [Add a VLAN to OPNsense in Just 26 Clicks Across 6 Screens](https://mtlynch.io/notes/opnsense-clicks/)
 * [2025-11-17, 20:22:43](https://lobste.rs/s/plohjq/garbage_collection_is_useful) - [Garbage collection is useful](https://dubroy.com/blog/garbage-collection-is-useful/)
 * [2025-11-17, 18:59:01](https://lobste.rs/s/w0qf6j/sozu_http_reverse_proxy) - [Sōzu HTTP reverse proxy](https://github.com/sozu-proxy/sozu)
-* [2025-11-17, 18:54:27](https://lobste.rs/s/bevihc/memory_corrupting_pong) - [Memory-corrupting Pong](https://arhan.sh/blog/memory-corrupting-pong/)
 * [2025-11-17, 18:32:55](https://lobste.rs/s/lijpxq/towards_interplanetary_quic_traffic) - [Towards interplanetary QUIC traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
 * [2025-11-17, 17:18:43](https://lobste.rs/s/90ppkk/pre_pep_rust_for_cpython) - [Pre-PEP: Rust for CPython](https://discuss.python.org/t/pre-pep-rust-for-cpython/104906)
 * [2025-11-17, 16:50:28](https://lobste.rs/s/5vfbpu/launching_2025_state_rust_survey) - [Launching the 2025 State of Rust Survey](https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/)
