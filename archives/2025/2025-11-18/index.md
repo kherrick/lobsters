@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 09:22:50](https://lobste.rs/s/nnor3p/6_years_after_too_much_crypto) - [6 years after too much crypto](https://bfswa.substack.com/p/6-years-after-too-much-crypto)
+* [2025-11-18, 09:18:11](https://lobste.rs/s/yhwyol/when_it_comes_writing_llms_have_won) - [When it comes to writing, LLMs have won](https://lcamtuf.substack.com/p/when-it-comes-to-writing-llms-have)
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-18, 07:24:03](https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver) - [Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects](https://arxiv.org/abs/2511.04427)
 * [2025-11-18, 06:21:31](https://lobste.rs/s/fbzd25/creating_toy_programming_language_with) - [Creating a Toy Programming Language with Actor-Based Parallelism](https://pointersgonewild.com/2025-08-03-creating-a-toy-language-with-actor-based-parallelism/)
