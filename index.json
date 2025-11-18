@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-11-18, 16:01:03",
+      "https://lobste.rs/s/ei2zx3/ruby_4_0_0_preview2_released"
+    ],
+    [
+      "Ruby 4.0.0 preview2 Released",
+      "https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 15:01:46",
       "https://lobste.rs/s/lqsrgo/announcing_lix_2_94_acai_na_tigela"
     ],
     [
       "Announcing Lix 2.94 “Açaí na tigela”",
       "https://lix.systems/blog/2025-11-18-lix-2.94-release/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 14:22:23",
-      "https://lobste.rs/s/t5upoq/announcing_yard_lint_keep_your_ruby"
-    ],
-    [
-      "Announcing YARD-Lint: Keep Your Ruby Documentation Solid",
-      "https://mensfeld.pl/2025/11/yard-lint-ruby-documentation-linter/"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "Digital Signals Theory",
       "https://brianmcfee.net/dstbook-site/content/intro.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 04:59:02",
+      "https://lobste.rs/s/4ybd1v/know_why_you_don_t_like_oop"
+    ],
+    [
+      "Know why you don't like OOP",
+      "https://zylinski.se/posts/know-why-you-dont-like-oop/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Giving C a Superpower: custom header file (safe_c.h)",
       "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
-    ]
-  ],
-  [
-    [
-      "2025-11-16, 16:39:57",
-      "https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla"
-    ],
-    [
-      "I think nobody wants AI in Firefox, Mozilla",
-      "https://manualdousuario.net/en/mozilla-firefox-window-ai/"
     ]
   ]
 ]
