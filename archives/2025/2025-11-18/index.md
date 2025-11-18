@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 10:58:34](https://lobste.rs/s/i8ez2g/small_vanilla_kubernetes_install_on) - [A 'small' vanilla Kubernetes install on NixOS](https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html)
 * [2025-11-18, 09:22:50](https://lobste.rs/s/nnor3p/6_years_after_too_much_crypto) - [6 years after too much crypto](https://bfswa.substack.com/p/6-years-after-too-much-crypto)
 * [2025-11-18, 09:18:11](https://lobste.rs/s/yhwyol/when_it_comes_writing_llms_have_won) - [When it comes to writing, LLMs have won](https://lcamtuf.substack.com/p/when-it-comes-to-writing-llms-have)
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
