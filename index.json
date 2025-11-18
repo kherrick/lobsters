@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-11-18, 09:18:11",
-      "https://lobste.rs/s/yhwyol/when_it_comes_writing_llms_have_won"
-    ],
-    [
-      "When it comes to writing, LLMs have won",
-      "https://lcamtuf.substack.com/p/when-it-comes-to-writing-llms-have"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 09:16:15",
       "https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon"
     ],
@@ -67,6 +57,16 @@
     [
       "Minimal Periodic Task Runner in Elixir",
       "https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 02:13:26",
+      "https://lobste.rs/s/esdjgw/rank_balanced_trees_2014"
+    ],
+    [
+      "Rank-balanced trees (2014)",
+      "https://sidsen.azurewebsites.net/papers/rb-trees-talg.pdf"
     ]
   ],
   [
