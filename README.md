@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-18, 04:11:38](https://lobste.rs/s/crxugk/count_cachula_local_first_performance) - [Count Cachula - Local-first performance without the complexity](https://countcachula.spooky.click/)
+* [2025-11-18, 07:24:03](https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver) - [Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects](https://arxiv.org/abs/2511.04427)
+* [2025-11-18, 06:13:40](https://lobste.rs/s/cude7y/digital_signals_theory) - [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 * [2025-11-18, 02:20:34](https://lobste.rs/s/eycjlq/how_quake_exe_got_its_tcp_ip_stack) - [How quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/)
 * [2025-11-18, 02:15:30](https://lobste.rs/s/kznzg3/minimal_periodic_task_runner_elixir) - [Minimal Periodic Task Runner in Elixir](https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/)
 * [2025-11-18, 00:17:01](https://lobste.rs/s/drmix3/productivity_impact_coding_agents) - [The productivity impact of coding agents](https://cursor.com/blog/productivity)
@@ -22,7 +23,6 @@
 * [2025-11-17, 14:58:38](https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type) - [Typechecking is undecideable when 'type' is a type (1989)](https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf)
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
-* [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 
