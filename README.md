@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-18, 17:38:04](https://lobste.rs/s/gwchzg/whatsapp_census) - [WhatsApp Census](https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf)
 * [2025-11-18, 16:38:15](https://lobste.rs/s/urbviy/inside_rust_s_std_parking_lot_mutexes_who) - [Inside Rust's std and parking_lot mutexes - who wins?](https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win)
 * [2025-11-18, 16:33:39](https://lobste.rs/s/psrp8z/google_summer_code_2025_results) - [Google Summer of Code 2025 results](https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/)
 * [2025-11-18, 16:01:03](https://lobste.rs/s/ei2zx3/ruby_4_0_0_preview2_released) - [Ruby 4.0.0 preview2 Released](https://www.ruby-lang.org/en/news/2025/11/17/ruby-4-0-0-preview2-released/)
@@ -12,7 +13,6 @@
 * [2025-11-18, 09:22:50](https://lobste.rs/s/nnor3p/6_years_after_too_much_crypto) - [6 years after too much crypto](https://bfswa.substack.com/p/6-years-after-too-much-crypto)
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-18, 07:24:03](https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver) - [Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects](https://arxiv.org/abs/2511.04427)
-* [2025-11-18, 06:13:40](https://lobste.rs/s/cude7y/digital_signals_theory) - [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 * [2025-11-18, 04:59:02](https://lobste.rs/s/4ybd1v/know_why_you_don_t_like_oop) - [Know why you don't like OOP](https://zylinski.se/posts/know-why-you-dont-like-oop/)
 * [2025-11-18, 02:20:34](https://lobste.rs/s/eycjlq/how_quake_exe_got_its_tcp_ip_stack) - [How quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/)
 * [2025-11-18, 02:15:30](https://lobste.rs/s/kznzg3/minimal_periodic_task_runner_elixir) - [Minimal Periodic Task Runner in Elixir](https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/)
