@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-18, 16:38:15",
+      "https://lobste.rs/s/urbviy/inside_rust_s_std_parking_lot_mutexes_who"
+    ],
+    [
+      "Inside Rust's std and parking_lot mutexes - who wins?",
+      "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 16:33:39",
       "https://lobste.rs/s/psrp8z/google_summer_code_2025_results"
     ],
@@ -227,16 +237,6 @@
     [
       "Pre-PEP: Rust for CPython",
       "https://discuss.python.org/t/pre-pep-rust-for-cpython/104906"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 16:50:28",
-      "https://lobste.rs/s/5vfbpu/launching_2025_state_rust_survey"
-    ],
-    [
-      "Launching the 2025 State of Rust Survey",
-      "https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/"
     ]
   ],
   [
