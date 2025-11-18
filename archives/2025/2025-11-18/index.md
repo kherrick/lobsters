@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 22:34:33](https://lobste.rs/s/pmsbte/self_hosting_dns_for_no_fun_little_profit) - [Self-hosting DNS for no fun, but a little profit](https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/)
 * [2025-11-18, 19:50:34](https://lobste.rs/s/1rluks/surprise_with_how_handles_its_program) - [A surprise with how '#!' handles its program argument in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments)
 * [2025-11-18, 18:54:19](https://lobste.rs/s/sjkuyp/pebble_rebble_path_forward) - [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward)
 * [2025-11-18, 17:48:44](https://lobste.rs/s/asgxra/ditch_your_mut_ex_you_deserve_better) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)

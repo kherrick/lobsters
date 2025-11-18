@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-18, 22:34:33](https://lobste.rs/s/pmsbte/self_hosting_dns_for_no_fun_little_profit) - [Self-hosting DNS for no fun, but a little profit](https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/)
 * [2025-11-18, 19:50:34](https://lobste.rs/s/1rluks/surprise_with_how_handles_its_program) - [A surprise with how '#!' handles its program argument in practice](https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments)
 * [2025-11-18, 18:54:19](https://lobste.rs/s/sjkuyp/pebble_rebble_path_forward) - [Pebble, Rebble, and a Path Forward](https://ericmigi.com/blog/pebble-rebble-and-a-path-forward)
 * [2025-11-18, 17:48:44](https://lobste.rs/s/asgxra/ditch_your_mut_ex_you_deserve_better) - [Ditch your (mut)ex, you deserve better](https://chrispenner.ca/posts/mutexes)
@@ -15,7 +16,6 @@
 * [2025-11-18, 10:58:34](https://lobste.rs/s/i8ez2g/small_vanilla_kubernetes_install_on) - [A 'small' vanilla Kubernetes install on NixOS](https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html)
 * [2025-11-18, 09:22:50](https://lobste.rs/s/nnor3p/6_years_after_too_much_crypto) - [6 years after too much crypto](https://bfswa.substack.com/p/6-years-after-too-much-crypto)
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
-* [2025-11-18, 07:24:03](https://lobste.rs/s/wg18w9/does_ai_assisted_coding_deliver) - [Does AI-Assisted Coding Deliver? A Difference-in-Differences Study of Cursor's Impact on Software Projects](https://arxiv.org/abs/2511.04427)
 * [2025-11-18, 04:59:02](https://lobste.rs/s/4ybd1v/know_why_you_don_t_like_oop) - [Know why you don't like OOP](https://zylinski.se/posts/know-why-you-dont-like-oop/)
 * [2025-11-18, 02:20:34](https://lobste.rs/s/eycjlq/how_quake_exe_got_its_tcp_ip_stack) - [How quake.exe got its TCP/IP stack](https://fabiensanglard.net/quake_chunnel/)
 * [2025-11-17, 22:29:05](https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on) - [A 450 KB static site generator based on Markdown and Lua](https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html)
