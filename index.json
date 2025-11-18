@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-18, 17:48:44",
+      "https://lobste.rs/s/asgxra/ditch_your_mut_ex_you_deserve_better"
+    ],
+    [
+      "Ditch your (mut)ex, you deserve better",
+      "https://chrispenner.ca/posts/mutexes"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 17:38:04",
       "https://lobste.rs/s/gwchzg/whatsapp_census"
     ],
@@ -207,16 +217,6 @@
     [
       "Garbage collection is useful",
       "https://dubroy.com/blog/garbage-collection-is-useful/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 18:59:01",
-      "https://lobste.rs/s/w0qf6j/sozu_http_reverse_proxy"
-    ],
-    [
-      "Sōzu HTTP reverse proxy",
-      "https://github.com/sozu-proxy/sozu"
     ]
   ],
   [
