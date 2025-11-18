@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-18, 06:21:31](https://lobste.rs/s/fbzd25/creating_toy_programming_language_with) - [Creating a Toy Programming Language with Actor-Based Parallelism](https://pointersgonewild.com/2025-08-03-creating-a-toy-language-with-actor-based-parallelism/)
+* [2025-11-18, 06:13:40](https://lobste.rs/s/cude7y/digital_signals_theory) - [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html)
 * [2025-11-18, 02:15:30](https://lobste.rs/s/kznzg3/minimal_periodic_task_runner_elixir) - [Minimal Periodic Task Runner in Elixir](https://www.jasontokoph.com/tidbits/minimal-periodic-task-runner-in-elixir/)
-* [2025-11-18, 02:13:26](https://lobste.rs/s/esdjgw/rank_balanced_trees_2014) - [Rank-balanced trees (2014)](https://sidsen.azurewebsites.net/papers/rb-trees-talg.pdf)
 * [2025-11-18, 00:17:01](https://lobste.rs/s/drmix3/productivity_impact_coding_agents) - [The productivity impact of coding agents](https://cursor.com/blog/productivity)
 * [2025-11-17, 23:30:49](https://lobste.rs/s/o933h4/programming_program_oriented_language) - [Programming a Program-Oriented-Language](https://www.btbytes.com/docs/POL.pdf)
 * [2025-11-17, 22:34:19](https://lobste.rs/s/ijt1su/there_are_no_upsides_object_oriented) - [There are no Upsides to Object Oriented Programming](https://maldus512.medium.com/there-are-no-upsides-to-object-oriented-programming-7ba965786894)
@@ -22,7 +23,6 @@
 * [2025-11-17, 12:34:24](https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing) - [What if everything was \"Async\", but nothing needed \"Await\"?](https://www.youtube.com/watch?v=tpICs7uG3n8)
 * [2025-11-17, 12:23:58](https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file) - [Giving C a Superpower: custom header file (safe_c.h)](https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/)
 * [2025-11-17, 11:07:37](https://lobste.rs/s/7wukhf/jupyterlite_kernel_for_haskell_powered) - [JupyterLite kernel for Haskell, powered by WebAssembly](https://github.com/tani/xeus-haskell)
-* [2025-11-17, 03:01:30](https://lobste.rs/s/ixt2po/cameras_tracking_you_security_nightmare) - [The Cameras Tracking You = A Security Nightmare](https://www.youtube.com/watch?v=uB0gr7Fh6lY)
 * [2025-11-17, 00:50:34](https://lobste.rs/s/l1uoqb/javascript_engines_zoo) - [JavaScript engines zoo](https://ivankra.github.io/javascript-zoo/)
 * [2025-11-16, 16:39:57](https://lobste.rs/s/grands/i_think_nobody_wants_ai_firefox_mozilla) - [I think nobody wants AI in Firefox, Mozilla](https://manualdousuario.net/en/mozilla-firefox-window-ai/)
 
