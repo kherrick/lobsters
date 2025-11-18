@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 16:38:15",
+      "https://lobste.rs/s/urbviy/inside_rust_s_std_parking_lot_mutexes_who"
+    ],
+    [
+      "Inside Rust's std and parking_lot mutexes - who wins?",
+      "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 16:33:39",
       "https://lobste.rs/s/psrp8z/google_summer_code_2025_results"
     ],
@@ -237,16 +247,6 @@
     [
       "strace-macos: A clone of the strace command for macOS",
       "https://github.com/Mic92/strace-macos"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 12:23:58",
-      "https://lobste.rs/s/ts2xa7/giving_c_superpower_custom_header_file"
-    ],
-    [
-      "Giving C a Superpower: custom header file (safe_c.h)",
-      "https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"
     ]
   ]
 ]
