@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-18, 14:19:46",
+      "https://lobste.rs/s/wtnzei/rebecca_heineman_from_homelessness"
+    ],
+    [
+      "Rebecca Heineman - from homelessness to porting Doom",
+      "https://corecursive.com/doomed-to-fail-with-burger-becky/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 12:56:39",
       "https://lobste.rs/s/bb3wu5/do_not_put_your_site_behind_cloudflare_if"
     ],
@@ -77,6 +87,16 @@
     [
       "Digital Signals Theory",
       "https://brianmcfee.net/dstbook-site/content/intro.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-18, 04:59:02",
+      "https://lobste.rs/s/4ybd1v/know_why_you_don_t_like_oop"
+    ],
+    [
+      "Know why you don't like OOP",
+      "https://zylinski.se/posts/know-why-you-dont-like-oop/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "strace-macos: A clone of the strace command for macOS",
       "https://github.com/Mic92/strace-macos"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 14:58:38",
-      "https://lobste.rs/s/0h7d8k/typechecking_is_undecideable_when_type"
-    ],
-    [
-      "Typechecking is undecideable when 'type' is a type (1989)",
-      "https://dspace.mit.edu/bitstream/handle/1721.1/149366/MIT-LCS-TR-458.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 12:34:24",
-      "https://lobste.rs/s/sneljx/what_if_everything_was_async_nothing"
-    ],
-    [
-      "What if everything was \"Async\", but nothing needed \"Await\"?",
-      "https://www.youtube.com/watch?v=tpICs7uG3n8"
     ]
   ],
   [
