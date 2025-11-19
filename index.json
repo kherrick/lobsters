@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-19, 16:30:58",
+      "https://lobste.rs/s/gdwxd5/why_bsds"
+    ],
+    [
+      "Why BSDs?",
+      "https://blog.thechases.com/posts/why-bsds/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 16:25:32",
+      "https://lobste.rs/s/t7mtqi/inside_global_campaign_hijacking_open"
+    ],
+    [
+      "Inside a global campaign hijacking open-source project identities",
+      "https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 16:18:32",
+      "https://lobste.rs/s/liq0sa/specialized_csv_readers_for_rust"
+    ],
+    [
+      "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
+      "https://docs.rs/simd-csv"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 15:43:43",
       "https://lobste.rs/s/1ckynu/vibesdk_open_source_vibe_coding_platform"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2025-11-18, 18:54:19",
-      "https://lobste.rs/s/sjkuyp/pebble_rebble_path_forward"
-    ],
-    [
-      "Pebble, Rebble, and a Path Forward",
-      "https://ericmigi.com/blog/pebble-rebble-and-a-path-forward"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 17:38:04",
       "https://lobste.rs/s/gwchzg/whatsapp_census"
     ],
     [
       "WhatsApp Census",
       "https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:33:39",
-      "https://lobste.rs/s/psrp8z/google_summer_code_2025_results"
-    ],
-    [
-      "Google Summer of Code 2025 results",
-      "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "My next chapter with Mastodon",
       "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 22:29:05",
-      "https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on"
-    ],
-    [
-      "A 450 KB static site generator based on Markdown and Lua",
-      "https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html"
     ]
   ]
 ]
