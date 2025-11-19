@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-19, 18:21:40",
+      "https://lobste.rs/s/idtphq/twenty_years_django_releases"
+    ],
+    [
+      "Twenty years of Django releases",
+      "https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 18:08:18",
+      "https://lobste.rs/s/vwdvly/are_large_language_models_worth_it"
+    ],
+    [
+      "Are large language models worth it?",
+      "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 17:45:26",
       "https://lobste.rs/s/pkuck9/adventures_upgrading_proxmox"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-11-18, 12:40:48",
-      "https://lobste.rs/s/phd5uy/my_first_fifteen_compilers"
-    ],
-    [
-      "My First Fifteen Compilers",
-      "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/"
-    ]
-  ],
-  [
-    [
       "2025-11-18, 10:58:34",
       "https://lobste.rs/s/i8ez2g/small_vanilla_kubernetes_install_on"
     ],
@@ -237,16 +247,6 @@
     [
       "My next chapter with Mastodon",
       "https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 22:29:05",
-      "https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on"
-    ],
-    [
-      "A 450 KB static site generator based on Markdown and Lua",
-      "https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html"
     ]
   ]
 ]
