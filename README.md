@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-19, 09:10:07](https://lobste.rs/s/gj8uup/static_web_hosting_on_intel_n150_freebsd) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
+* [2025-11-19, 09:02:16](https://lobste.rs/s/fmmbah/introducing_apache_fory_rust_versatile) - [Introducing Apache Fory™ Rust: A Versatile Serialization Framework for the Modern Age](https://fory.apache.org/blog/fory_rust_versatile_serialization_framework/)
 * [2025-11-19, 08:19:24](https://lobste.rs/s/gfl26c/when_high_availability_brings_downtime) - [When high availability brings downtime](https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c)
 * [2025-11-19, 03:49:59](https://lobste.rs/s/wj0k0e/improving_nat_traversal_part_2) - [Improving NAT traversal, part 2: challenges in cloud environments](https://tailscale.com/blog/nat-traversal-improvements-pt-2-cloud-environments)
 * [2025-11-19, 02:54:20](https://lobste.rs/s/nac5wa/cloudflare_outage_on_november_18_2025) - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
@@ -23,7 +24,6 @@
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
 * [2025-11-17, 22:29:05](https://lobste.rs/s/uipd87/450_kb_static_site_generator_based_on) - [A 450 KB static site generator based on Markdown and Lua](https://log.schemescape.com/posts/static-site-generators/smallest-static-site-generator.html)
 * [2025-11-17, 21:42:24](https://lobste.rs/s/wqrzcy/chuck_moore_retires_from_colorforth) - [Chuck Moore retires from colorforth after latest Windows breaks rendering](https://www.youtube.com/watch?v=MvkGBWXb2oQ)
-* [2025-11-17, 18:32:55](https://lobste.rs/s/lijpxq/towards_interplanetary_quic_traffic) - [Towards interplanetary QUIC traffic](https://ochagavia.nl/blog/towards-interplanetary-quic-traffic/)
 * [2025-11-17, 16:26:28](https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for) - [strace-macos: A clone of the strace command for macOS](https://github.com/Mic92/strace-macos)
 
 ## [Archives](archives/index.md)
