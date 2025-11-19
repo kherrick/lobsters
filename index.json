@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 03:49:59",
+      "https://lobste.rs/s/wj0k0e/improving_nat_traversal_part_2"
+    ],
+    [
+      "Improving NAT traversal, part 2: challenges in cloud environments",
+      "https://tailscale.com/blog/nat-traversal-improvements-pt-2-cloud-environments"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 02:54:20",
       "https://lobste.rs/s/nac5wa/cloudflare_outage_on_november_18_2025"
     ],
@@ -147,16 +157,6 @@
     [
       "My First Fifteen Compilers",
       "https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 11:21:27",
-      "https://lobste.rs/s/ndaogy/uselessness_fast_slow_programming"
-    ],
-    [
-      "The Uselessness of \"Fast\" and \"Slow\" in Programming",
-      "https://jerf.org/iri/post/2025/the_uselessness_of_fast/"
     ]
   ],
   [
