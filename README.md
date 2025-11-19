@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-19, 23:21:45](https://lobste.rs/s/uoekej/we_re_now_moving_from_openbsd_freebsd_for) - [We're (now) moving from OpenBSD to FreeBSD for firewalls](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove)
 * [2025-11-19, 22:27:56](https://lobste.rs/s/imxnao/building_hand_wired_cosmos_dactyl_split) - [Building a Hand-wired Cosmos Dactyl Split Keyboard](https://julianyap.com/posts/2025-11-16-1763340628/)
 * [2025-11-19, 22:16:41](https://lobste.rs/s/amboaj/disallow_code_usage_with_custom_clippy) - [Disallow code usage with a custom `clippy.toml`](https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/)
 * [2025-11-19, 20:09:16](https://lobste.rs/s/qauaqt/llms_are_bullshitters_doesn_t_mean_they_re) - [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms)
@@ -17,7 +18,6 @@
 * [2025-11-19, 12:17:50](https://lobste.rs/s/rifpe8/lost_cause_lisp_machines) - [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/)
 * [2025-11-19, 09:10:07](https://lobste.rs/s/gj8uup/static_web_hosting_on_intel_n150_freebsd) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 02:54:20](https://lobste.rs/s/nac5wa/cloudflare_outage_on_november_18_2025) - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
-* [2025-11-18, 23:07:23](https://lobste.rs/s/yit3fo/actor_model_multi_core_scheduler_for) - [An actor-model multi-core scheduler for OCaml 5](https://github.com/riot-ml/riot)
 * [2025-11-18, 22:54:48](https://lobste.rs/s/hhuu5z/experiment_making_typescript_immutable) - [Experiment: making TypeScript immutable-by-default](https://evanhahn.com/typescript-immutability-experiment/)
 * [2025-11-18, 22:41:52](https://lobste.rs/s/0r5kmb/month_chat_oriented_programming) - [A Month of Chat-Oriented Programming](https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/)
 * [2025-11-18, 22:34:33](https://lobste.rs/s/pmsbte/self_hosting_dns_for_no_fun_little_profit) - [Self-hosting DNS for no fun, but a little profit](https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/)
