@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-19, 12:21:33",
+      "https://lobste.rs/s/6ufew7/hachi_image_search_engine"
+    ],
+    [
+      "Hachi:  An Image search engine",
+      "https://eagledot.xyz/hachi.md.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 12:17:50",
+      "https://lobste.rs/s/rifpe8/lost_cause_lisp_machines"
+    ],
+    [
+      "The lost cause of the Lisp machines",
+      "https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 09:10:07",
       "https://lobste.rs/s/gj8uup/static_web_hosting_on_intel_n150_freebsd"
     ],
@@ -117,26 +137,6 @@
     [
       "WhatsApp Census",
       "https://github.com/sbaresearch/whatsapp-census/blob/main/Hey_there_You_are_using_WhatsApp.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:38:15",
-      "https://lobste.rs/s/urbviy/inside_rust_s_std_parking_lot_mutexes_who"
-    ],
-    [
-      "Inside Rust's std and parking_lot mutexes - who wins?",
-      "https://blog.cuongle.dev/p/inside-rusts-std-and-parking-lot-mutexes-who-win"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 16:33:39",
-      "https://lobste.rs/s/psrp8z/google_summer_code_2025_results"
-    ],
-    [
-      "Google Summer of Code 2025 results",
-      "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/"
     ]
   ],
   [
