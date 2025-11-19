@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-11-18, 16:33:39",
+      "https://lobste.rs/s/psrp8z/google_summer_code_2025_results"
+    ],
+    [
+      "Google Summer of Code 2025 results",
+      "https://blog.rust-lang.org/2025/11/18/gsoc-2025-results/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 16:01:03",
       "https://lobste.rs/s/ei2zx3/ruby_4_0_0_preview2_released"
     ],
@@ -237,16 +247,6 @@
     [
       "Chuck Moore retires from colorforth after latest Windows breaks rendering",
       "https://www.youtube.com/watch?v=MvkGBWXb2oQ"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 16:26:28",
-      "https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for"
-    ],
-    [
-      "strace-macos: A clone of the strace command for macOS",
-      "https://github.com/Mic92/strace-macos"
     ]
   ]
 ]
