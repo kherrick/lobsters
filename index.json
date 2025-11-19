@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 02:54:20",
+      "https://lobste.rs/s/nac5wa/cloudflare_outage_on_november_18_2025"
+    ],
+    [
+      "Cloudflare outage on November 18, 2025",
+      "https://blog.cloudflare.com/18-november-2025-outage/"
+    ]
+  ],
+  [
+    [
       "2025-11-18, 23:07:23",
       "https://lobste.rs/s/yit3fo/actor_model_multi_core_scheduler_for"
     ],
@@ -37,16 +47,6 @@
     [
       "Self-hosting DNS for no fun, but a little profit",
       "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 21:14:41",
-      "https://lobste.rs/s/nnhfdb/better_dom_morphing_with_morphlex"
-    ],
-    [
-      "Better DOM Morphing with Morphlex",
-      "https://joel.drapper.me/p/morphlex/"
     ]
   ],
   [
