@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 16:30:58](https://lobste.rs/s/gdwxd5/why_bsds) - [Why BSDs?](https://blog.thechases.com/posts/why-bsds/)
+* [2025-11-19, 16:25:32](https://lobste.rs/s/t7mtqi/inside_global_campaign_hijacking_open) - [Inside a global campaign hijacking open-source project identities](https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/)
+* [2025-11-19, 16:18:32](https://lobste.rs/s/liq0sa/specialized_csv_readers_for_rust) - [Specialized CSV readers for Rust leveraging hybrid SIMD techniques](https://docs.rs/simd-csv)
 * [2025-11-19, 15:43:43](https://lobste.rs/s/1ckynu/vibesdk_open_source_vibe_coding_platform) - [vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack](https://github.com/cloudflare/vibesdk)
 * [2025-11-19, 15:26:12](https://lobste.rs/s/ka65ml/we_should_rename_unwrap_panic) - [We should rename .unwrap() to .or_panic()](https://hachyderm.io/@Mara/115575199307766755)
 * [2025-11-19, 14:03:35](https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters) - [What Makes the Intro to Crafting Interpreters so Good?](https://refactoringenglish.com/blog/crafting-interpreters-intro/)
