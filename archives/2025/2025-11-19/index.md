@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 15:43:43](https://lobste.rs/s/1ckynu/vibesdk_open_source_vibe_coding_platform) - [vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack](https://github.com/cloudflare/vibesdk)
 * [2025-11-19, 15:26:12](https://lobste.rs/s/ka65ml/we_should_rename_unwrap_panic) - [We should rename .unwrap() to .or_panic()](https://hachyderm.io/@Mara/115575199307766755)
 * [2025-11-19, 14:03:35](https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters) - [What Makes the Intro to Crafting Interpreters so Good?](https://refactoringenglish.com/blog/crafting-interpreters-intro/)
 * [2025-11-19, 12:21:33](https://lobste.rs/s/6ufew7/hachi_image_search_engine) - [Hachi:  An Image search engine](https://eagledot.xyz/hachi.md.html)
