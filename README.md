@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-19, 18:42:54](https://lobste.rs/s/0m6yln/what_killed_perl) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
 * [2025-11-19, 18:21:40](https://lobste.rs/s/idtphq/twenty_years_django_releases) - [Twenty years of Django releases](https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/)
 * [2025-11-19, 18:08:18](https://lobste.rs/s/vwdvly/are_large_language_models_worth_it) - [Are large language models worth it?](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html)
 * [2025-11-19, 17:45:26](https://lobste.rs/s/pkuck9/adventures_upgrading_proxmox) - [Adventures in upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
 * [2025-11-19, 16:30:58](https://lobste.rs/s/gdwxd5/why_bsds) - [Why BSDs?](https://blog.thechases.com/posts/why-bsds/)
-* [2025-11-19, 16:25:32](https://lobste.rs/s/t7mtqi/inside_global_campaign_hijacking_open) - [Inside a global campaign hijacking open-source project identities](https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/)
 * [2025-11-19, 16:18:32](https://lobste.rs/s/liq0sa/specialized_csv_readers_for_rust) - [Specialized CSV readers for Rust leveraging hybrid SIMD techniques](https://docs.rs/simd-csv)
 * [2025-11-19, 15:43:43](https://lobste.rs/s/1ckynu/vibesdk_open_source_vibe_coding_platform) - [vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack](https://github.com/cloudflare/vibesdk)
 * [2025-11-19, 14:03:35](https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters) - [What Makes the Intro to Crafting Interpreters so Good?](https://refactoringenglish.com/blog/crafting-interpreters-intro/)
