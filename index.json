@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 22:16:41",
+      "https://lobste.rs/s/amboaj/disallow_code_usage_with_custom_clippy"
+    ],
+    [
+      "Disallow code usage with a custom `clippy.toml`",
+      "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 20:09:16",
       "https://lobste.rs/s/qauaqt/llms_are_bullshitters_doesn_t_mean_they_re"
     ],
@@ -57,16 +67,6 @@
     [
       "Are large language models worth it?",
       "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 17:45:26",
-      "https://lobste.rs/s/pkuck9/adventures_upgrading_proxmox"
-    ],
-    [
-      "Adventures in upgrading Proxmox",
-      "https://blog.vasi.li/adventures-in-upgrading-proxmox/"
     ]
   ],
   [
