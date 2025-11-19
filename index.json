@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 15:26:12",
+      "https://lobste.rs/s/ka65ml/we_should_rename_unwrap_panic"
+    ],
+    [
+      "We should rename .unwrap() to .or_panic()",
+      "https://hachyderm.io/@Mara/115575199307766755"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 14:03:35",
       "https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters"
     ],
@@ -237,16 +247,6 @@
     [
       "Chuck Moore retires from colorforth after latest Windows breaks rendering",
       "https://www.youtube.com/watch?v=MvkGBWXb2oQ"
-    ]
-  ],
-  [
-    [
-      "2025-11-17, 16:26:28",
-      "https://lobste.rs/s/q50ecd/strace_macos_clone_strace_command_for"
-    ],
-    [
-      "strace-macos: A clone of the strace command for macOS",
-      "https://github.com/Mic92/strace-macos"
     ]
   ]
 ]
