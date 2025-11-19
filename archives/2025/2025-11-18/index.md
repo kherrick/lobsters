@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-18](index.md)
 
+* [2025-11-18, 23:07:23](https://lobste.rs/s/yit3fo/actor_model_multi_core_scheduler_for) - [An actor-model multi-core scheduler for OCaml 5](https://github.com/riot-ml/riot)
+* [2025-11-18, 22:54:48](https://lobste.rs/s/hhuu5z/experiment_making_typescript_immutable) - [Experiment: making TypeScript immutable-by-default](https://evanhahn.com/typescript-immutability-experiment/)
 * [2025-11-18, 22:34:33](https://lobste.rs/s/pmsbte/self_hosting_dns_for_no_fun_little_profit) - [Self-hosting DNS for no fun, but a little profit](https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/)
 * [2025-11-18, 21:14:41](https://lobste.rs/s/nnhfdb/better_dom_morphing_with_morphlex) - [Better DOM Morphing with Morphlex](https://joel.drapper.me/p/morphlex/)
 * [2025-11-18, 20:40:59](https://lobste.rs/s/pffunn/crux_cross_platform_app_development_rust) - [crux: Cross-platform app development in Rust](https://github.com/redbadger/crux)
