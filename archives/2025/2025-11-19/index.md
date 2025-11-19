@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 20:09:16](https://lobste.rs/s/qauaqt/llms_are_bullshitters_doesn_t_mean_they_re) - [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms)
+* [2025-11-19, 20:01:52](https://lobste.rs/s/ywczyh/function_inliner_for_wasmtime_cranelift) - [A Function Inliner for Wasmtime and Cranelift](https://fitzgen.com/2025/11/19/inliner.html)
 * [2025-11-19, 19:50:55](https://lobste.rs/s/z7hwno/building_with_distributed_actors_what) - [Building with Distributed Actors: What and Why](https://withblue.ink/2025/11/19/distributed-actors-model.html)
 * [2025-11-19, 18:42:54](https://lobste.rs/s/0m6yln/what_killed_perl) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
 * [2025-11-19, 18:21:40](https://lobste.rs/s/idtphq/twenty_years_django_releases) - [Twenty years of Django releases](https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/)
