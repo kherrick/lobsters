@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-19](index.md)
 
+* [2025-11-19, 17:45:26](https://lobste.rs/s/pkuck9/adventures_upgrading_proxmox) - [Adventures in upgrading Proxmox](https://blog.vasi.li/adventures-in-upgrading-proxmox/)
 * [2025-11-19, 16:47:34](https://lobste.rs/s/xqshw2/questions_for_cloudflare) - [Questions for Cloudflare](https://entropicthoughts.com/questions-for-cloudflare)
 * [2025-11-19, 16:30:58](https://lobste.rs/s/gdwxd5/why_bsds) - [Why BSDs?](https://blog.thechases.com/posts/why-bsds/)
 * [2025-11-19, 16:25:32](https://lobste.rs/s/t7mtqi/inside_global_campaign_hijacking_open) - [Inside a global campaign hijacking open-source project identities](https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/)
