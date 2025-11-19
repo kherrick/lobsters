@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-19, 20:09:16",
+      "https://lobste.rs/s/qauaqt/llms_are_bullshitters_doesn_t_mean_they_re"
+    ],
+    [
+      "LLMs are bullshitters. But that doesn't mean they're not useful",
+      "https://blog.kagi.com/llms"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 20:01:52",
+      "https://lobste.rs/s/ywczyh/function_inliner_for_wasmtime_cranelift"
+    ],
+    [
+      "A Function Inliner for Wasmtime and Cranelift",
+      "https://fitzgen.com/2025/11/19/inliner.html"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 19:50:55",
       "https://lobste.rs/s/z7hwno/building_with_distributed_actors_what"
     ],
@@ -37,16 +57,6 @@
     [
       "Are large language models worth it?",
       "https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 17:45:26",
-      "https://lobste.rs/s/pkuck9/adventures_upgrading_proxmox"
-    ],
-    [
-      "Adventures in upgrading Proxmox",
-      "https://blog.vasi.li/adventures-in-upgrading-proxmox/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared",
       "https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 08:19:24",
-      "https://lobste.rs/s/gfl26c/when_high_availability_brings_downtime"
-    ],
-    [
-      "When high availability brings downtime",
-      "https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c"
     ]
   ],
   [
