@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 19:50:55",
+      "https://lobste.rs/s/z7hwno/building_with_distributed_actors_what"
+    ],
+    [
+      "Building with Distributed Actors: What and Why",
+      "https://withblue.ink/2025/11/19/distributed-actors-model.html"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 18:42:54",
       "https://lobste.rs/s/0m6yln/what_killed_perl"
     ],
@@ -127,16 +137,6 @@
     [
       "When high availability brings downtime",
       "https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 03:49:59",
-      "https://lobste.rs/s/wj0k0e/improving_nat_traversal_part_2"
-    ],
-    [
-      "Improving NAT traversal, part 2: challenges in cloud environments",
-      "https://tailscale.com/blog/nat-traversal-improvements-pt-2-cloud-environments"
     ]
   ],
   [
