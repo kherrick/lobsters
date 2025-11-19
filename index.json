@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-19, 08:19:24",
+      "https://lobste.rs/s/gfl26c/when_high_availability_brings_downtime"
+    ],
+    [
+      "When high availability brings downtime",
+      "https://medium.com/learnings-from-the-paas/when-high-availability-brings-downtime-7a6261b0ef1c"
+    ]
+  ],
+  [
+    [
       "2025-11-19, 03:49:59",
       "https://lobste.rs/s/wj0k0e/improving_nat_traversal_part_2"
     ],
@@ -57,16 +67,6 @@
     [
       "Self-hosting DNS for no fun, but a little profit",
       "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 21:14:41",
-      "https://lobste.rs/s/nnhfdb/better_dom_morphing_with_morphlex"
-    ],
-    [
-      "Better DOM Morphing with Morphlex",
-      "https://joel.drapper.me/p/morphlex/"
     ]
   ],
   [
