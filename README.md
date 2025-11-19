@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-19, 03:49:59](https://lobste.rs/s/wj0k0e/improving_nat_traversal_part_2) - [Improving NAT traversal, part 2: challenges in cloud environments](https://tailscale.com/blog/nat-traversal-improvements-pt-2-cloud-environments)
 * [2025-11-19, 02:54:20](https://lobste.rs/s/nac5wa/cloudflare_outage_on_november_18_2025) - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
 * [2025-11-18, 23:07:23](https://lobste.rs/s/yit3fo/actor_model_multi_core_scheduler_for) - [An actor-model multi-core scheduler for OCaml 5](https://github.com/riot-ml/riot)
 * [2025-11-18, 22:54:48](https://lobste.rs/s/hhuu5z/experiment_making_typescript_immutable) - [Experiment: making TypeScript immutable-by-default](https://evanhahn.com/typescript-immutability-experiment/)
@@ -15,7 +16,6 @@
 * [2025-11-18, 14:19:46](https://lobste.rs/s/wtnzei/rebecca_heineman_from_homelessness) - [Rebecca Heineman - from homelessness to porting Doom](https://corecursive.com/doomed-to-fail-with-burger-becky/)
 * [2025-11-18, 12:56:39](https://lobste.rs/s/bb3wu5/do_not_put_your_site_behind_cloudflare_if) - [Do Not Put Your Site Behind Cloudflare if You Don't Need To](https://huijzer.xyz/posts/123/do-not-put-your-site-behind-cloudflare-if-you-dont)
 * [2025-11-18, 12:40:48](https://lobste.rs/s/phd5uy/my_first_fifteen_compilers) - [My First Fifteen Compilers](https://blog.sigplan.org/2019/07/09/my-first-fifteen-compilers/)
-* [2025-11-18, 11:21:27](https://lobste.rs/s/ndaogy/uselessness_fast_slow_programming) - [The Uselessness of \"Fast\" and \"Slow\" in Programming](https://jerf.org/iri/post/2025/the_uselessness_of_fast/)
 * [2025-11-18, 10:58:34](https://lobste.rs/s/i8ez2g/small_vanilla_kubernetes_install_on) - [A 'small' vanilla Kubernetes install on NixOS](https://stephank.nl/p/2025-11-17-a-small-vanilla-kubernetes-install-on-nixos.html)
 * [2025-11-18, 09:22:50](https://lobste.rs/s/nnor3p/6_years_after_too_much_crypto) - [6 years after too much crypto](https://bfswa.substack.com/p/6-years-after-too-much-crypto)
 * [2025-11-18, 09:16:15](https://lobste.rs/s/t37jcs/my_next_chapter_with_mastodon) - [My next chapter with Mastodon](https://blog.joinmastodon.org/2025/11/my-next-chapter-with-mastodon/)
