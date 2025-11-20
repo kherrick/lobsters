@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 23:17:04](https://lobste.rs/s/8dcpvs/is_c_26_getting_destructive_move) - [Is C++26 getting destructive move semantics?](https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics)
 * [2025-11-20, 21:41:49](https://lobste.rs/s/is1abw/olmo_3_charting_path_through_model_flow) - [Olmo 3: Charting a path through the model flow to lead open-source AI](https://allenai.org/blog/olmo3)
 * [2025-11-20, 21:20:34](https://lobste.rs/s/8bojbq/2025_go_cryptography_state_union) - [2025 Go Cryptography State of the Union](https://words.filippo.io/2025-state/)
 * [2025-11-20, 21:05:00](https://lobste.rs/s/2opemx/finally_run_docker_containers_natively) - [Finally, run Docker containers natively in Proxmox 9.1 (OCI images)](https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html)
