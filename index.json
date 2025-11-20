@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 15:53:30",
+      "https://lobste.rs/s/p9i6g3/open_source_developers_are_exhausted"
+    ],
+    [
+      "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
+      "https://itsfoss.com/news/open-source-developers-are-exhausted/"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 15:42:52",
       "https://lobste.rs/s/g0trax/i_ve_been_thinking_about_agents_mcp_all"
     ],
@@ -45,7 +55,7 @@
       "https://lobste.rs/s/kmdqnf/freer_monads_more_extensible_effects"
     ],
     [
-      "Freer Monads, More Extensible Effects",
+      "Freer Monads, More Extensible Effects (2015)",
       "https://okmij.org/ftp/Haskell/extensible/more.pdf"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Cloudflare outage on November 18, 2025",
       "https://blog.cloudflare.com/18-november-2025-outage/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 22:34:33",
-      "https://lobste.rs/s/pmsbte/self_hosting_dns_for_no_fun_little_profit"
-    ],
-    [
-      "Self-hosting DNS for no fun, but a little profit",
-      "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
     ]
   ]
 ]
