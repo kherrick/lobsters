@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-20, 06:37:50",
+      "https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager"
+    ],
+    [
+      "A battery included hacker's file manager with VIM inspired keybind in a single binary",
+      "https://github.com/houqp/kiorg"
+    ]
+  ],
+  [
+    [
+      "2025-11-20, 06:34:46",
+      "https://lobste.rs/s/it0mbb/procedurally_generating_infinite"
+    ],
+    [
+      "Procedurally Generating Infinite Marble Runs",
+      "https://www.youtube.com/watch?v=ULpNiZU2tpg"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 04:01:47",
       "https://lobste.rs/s/ua1kvs/rfc_hub"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-11-19, 15:43:43",
-      "https://lobste.rs/s/1ckynu/vibesdk_open_source_vibe_coding_platform"
-    ],
-    [
-      "vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
-      "https://github.com/cloudflare/vibesdk"
-    ]
-  ],
-  [
-    [
       "2025-11-19, 14:03:35",
       "https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters"
     ],
@@ -227,16 +237,6 @@
     [
       "Self-hosting DNS for no fun, but a little profit",
       "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 19:50:34",
-      "https://lobste.rs/s/1rluks/surprise_with_how_handles_its_program"
-    ],
-    [
-      "A surprise with how '#!' handles its program argument in practice",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ShebangRelativePathSurprise?showcomments"
     ]
   ],
   [
