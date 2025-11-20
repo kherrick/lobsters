@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 13:56:04",
+      "https://lobste.rs/s/kmdqnf/freer_monads_more_extensible_effects"
+    ],
+    [
+      "Freer Monads, More Extensible Effects",
+      "https://okmij.org/ftp/Haskell/extensible/more.pdf"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 11:20:02",
       "https://lobste.rs/s/j5qgj6/memory_is_slow_disk_is_fast"
     ],
@@ -237,16 +247,6 @@
     [
       "Self-hosting DNS for no fun, but a little profit",
       "https://linderud.dev/blog/self-hosting-dns-for-no-fun-but-a-little-profit/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 14:19:46",
-      "https://lobste.rs/s/wtnzei/rebecca_heineman_from_homelessness"
-    ],
-    [
-      "Rebecca Heineman - from homelessness to porting Doom",
-      "https://corecursive.com/doomed-to-fail-with-burger-becky/"
     ]
   ]
 ]
