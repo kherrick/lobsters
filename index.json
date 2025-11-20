@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 02:44:35",
+      "https://lobste.rs/s/roel5a/50th_anniversary_bitblt"
+    ],
+    [
+      "50th anniversary of BITBLT",
+      "https://mastodon.sdf.org/@fvzappa/115574872559813280"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 01:20:59",
       "https://lobste.rs/s/jzflsc/precise_geolocation_via_wi_fi"
     ],
@@ -17,6 +27,16 @@
     [
       "We're (now) moving from OpenBSD to FreeBSD for firewalls",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenBSDToFreeBSDMove"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 22:27:56",
+      "https://lobste.rs/s/imxnao/building_hand_wired_cosmos_dactyl_split"
+    ],
+    [
+      "Building a Hand-wired Cosmos Dactyl Split Keyboard",
+      "https://julianyap.com/posts/2025-11-16-1763340628/"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Cloudflare outage on November 18, 2025",
       "https://blog.cloudflare.com/18-november-2025-outage/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 22:54:48",
-      "https://lobste.rs/s/hhuu5z/experiment_making_typescript_immutable"
-    ],
-    [
-      "Experiment: making TypeScript immutable-by-default",
-      "https://evanhahn.com/typescript-immutability-experiment/"
-    ]
-  ],
-  [
-    [
-      "2025-11-18, 22:41:52",
-      "https://lobste.rs/s/0r5kmb/month_chat_oriented_programming"
-    ],
-    [
-      "A Month of Chat-Oriented Programming",
-      "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/"
     ]
   ],
   [
