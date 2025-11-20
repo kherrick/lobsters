@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-20, 07:58:26](https://lobste.rs/s/v3pvrs/graphics_api_is_irrelevant) - [Graphics API is irrelevant](https://youtu.be/xNX9H_ZkfNE)
 * [2025-11-20, 06:37:50](https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager) - [A battery included hacker's file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg)
 * [2025-11-20, 06:34:46](https://lobste.rs/s/it0mbb/procedurally_generating_infinite) - [Procedurally Generating Infinite Marble Runs](https://www.youtube.com/watch?v=ULpNiZU2tpg)
 * [2025-11-20, 04:01:47](https://lobste.rs/s/ua1kvs/rfc_hub) - [RFC Hub](https://rfchub.app/)
@@ -19,7 +20,6 @@
 * [2025-11-19, 16:25:32](https://lobste.rs/s/t7mtqi/inside_global_campaign_hijacking_open) - [Inside a global campaign hijacking open-source project identities](https://www.fullstory.com/blog/inside-a-global-campaign-hijacking-open-source-project-identities/)
 * [2025-11-19, 16:18:32](https://lobste.rs/s/liq0sa/specialized_csv_readers_for_rust) - [Specialized CSV readers for Rust leveraging hybrid SIMD techniques](https://docs.rs/simd-csv)
 * [2025-11-19, 14:03:35](https://lobste.rs/s/jlf6y8/what_makes_intro_crafting_interpreters) - [What Makes the Intro to Crafting Interpreters so Good?](https://refactoringenglish.com/blog/crafting-interpreters-intro/)
-* [2025-11-19, 12:21:33](https://lobste.rs/s/6ufew7/hachi_image_search_engine) - [Hachi:  An Image search engine](https://eagledot.xyz/hachi.md.html)
 * [2025-11-19, 12:17:50](https://lobste.rs/s/rifpe8/lost_cause_lisp_machines) - [The lost cause of the Lisp machines](https://www.tfeb.org/fragments/2025/11/18/the-lost-cause-of-the-lisp-machines/)
 * [2025-11-19, 09:10:07](https://lobste.rs/s/gj8uup/static_web_hosting_on_intel_n150_freebsd) - [Static Web Hosting on the Intel N150: FreeBSD, SmartOS, NetBSD, OpenBSD and Linux Compared](https://it-notes.dragas.net/2025/11/19/static-web-hosting-intel-n150-freebsd-smartos-netbsd-openbsd-linux/)
 * [2025-11-19, 02:54:20](https://lobste.rs/s/nac5wa/cloudflare_outage_on_november_18_2025) - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/)
