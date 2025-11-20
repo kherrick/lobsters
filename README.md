@@ -2,6 +2,7 @@
 
 * [2025-11-20, 08:55:43](https://lobste.rs/s/q287dr/numbers_vs_features_protocol_versioning) - [Numbers vs features in protocol versioning (2024)](https://meejah.ca/blog/protocol-versioning)
 * [2025-11-20, 08:36:39](https://lobste.rs/s/zfp36r/context_missing_api_ruby_logger) - [Context: the missing API in ruby logger](https://honeyryderchuck.gitlab.io/2025/11/12/context-missing-api-in-logger.html)
+* [2025-11-20, 07:58:26](https://lobste.rs/s/v3pvrs/graphics_api_is_irrelevant) - [Graphics API is irrelevant](https://youtu.be/xNX9H_ZkfNE)
 * [2025-11-20, 06:37:50](https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager) - [A battery included hacker's file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg)
 * [2025-11-20, 06:34:46](https://lobste.rs/s/it0mbb/procedurally_generating_infinite) - [Procedurally Generating Infinite Marble Runs](https://www.youtube.com/watch?v=ULpNiZU2tpg)
 * [2025-11-20, 04:01:47](https://lobste.rs/s/ua1kvs/rfc_hub) - [RFC Hub](https://rfchub.app/)
@@ -13,7 +14,6 @@
 * [2025-11-19, 22:16:41](https://lobste.rs/s/amboaj/disallow_code_usage_with_custom_clippy) - [Disallow code usage with a custom `clippy.toml`](https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/)
 * [2025-11-19, 20:09:16](https://lobste.rs/s/qauaqt/llms_are_bullshitters_doesn_t_mean_they_re) - [LLMs are bullshitters. But that doesn't mean they're not useful](https://blog.kagi.com/llms)
 * [2025-11-19, 20:01:52](https://lobste.rs/s/ywczyh/function_inliner_for_wasmtime_cranelift) - [A Function Inliner for Wasmtime and Cranelift](https://fitzgen.com/2025/11/19/inliner.html)
-* [2025-11-19, 19:50:55](https://lobste.rs/s/z7hwno/building_with_distributed_actors_what) - [Building with Distributed Actors: What and Why](https://withblue.ink/2025/11/19/distributed-actors-model.html)
 * [2025-11-19, 18:42:54](https://lobste.rs/s/0m6yln/what_killed_perl) - [What Killed Perl?](https://entropicthoughts.com/what-killed-perl)
 * [2025-11-19, 18:21:40](https://lobste.rs/s/idtphq/twenty_years_django_releases) - [Twenty years of Django releases](https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/)
 * [2025-11-19, 18:08:18](https://lobste.rs/s/vwdvly/are_large_language_models_worth_it) - [Are large language models worth it?](https://nicholas.carlini.com/writing/2025/are-llms-worth-it.html)
