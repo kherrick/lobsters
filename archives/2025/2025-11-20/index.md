@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 15:53:30](https://lobste.rs/s/p9i6g3/open_source_developers_are_exhausted) - [Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away](https://itsfoss.com/news/open-source-developers-are-exhausted/)
 * [2025-11-20, 15:42:52](https://lobste.rs/s/g0trax/i_ve_been_thinking_about_agents_mcp_all) - [I’ve been thinking about Agents and MCP all wrong](https://rmoff.net/2025/11/20/ive-been-thinking-about-agents-and-mcp-all-wrong/)
 * [2025-11-20, 15:35:18](https://lobste.rs/s/axcma8/dual_booting_postmarketos_android) - [Dual booting postmarketOS and Android](https://wiki.postmarketos.org/wiki/Dual_Booting/WiP)
 * [2025-11-20, 15:06:03](https://lobste.rs/s/empan7/signal_polls_yes_no_maybe_yes) - [Signal Polls: Yes, no, maybe (yes!)](https://signal.org/blog/polls/)
