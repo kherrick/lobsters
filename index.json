@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-20, 15:35:18",
+      "https://lobste.rs/s/axcma8/dual_booting_postmarketos_android"
+    ],
+    [
+      "Dual booting postmarketOS and Android",
+      "https://wiki.postmarketos.org/wiki/Dual_Booting/WiP"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 15:06:03",
       "https://lobste.rs/s/empan7/signal_polls_yes_no_maybe_yes"
     ],
@@ -157,16 +167,6 @@
     [
       "LLMs are bullshitters. But that doesn't mean they're not useful",
       "https://blog.kagi.com/llms"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 20:01:52",
-      "https://lobste.rs/s/ywczyh/function_inliner_for_wasmtime_cranelift"
-    ],
-    [
-      "A Function Inliner for Wasmtime and Cranelift",
-      "https://fitzgen.com/2025/11/19/inliner.html"
     ]
   ],
   [
