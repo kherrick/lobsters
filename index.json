@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-20, 15:05:53",
+      "https://lobste.rs/s/cr4ihl/what_s_cooking_on_sourcehut_q4_2025"
+    ],
+    [
+      "What's cooking on SourceHut? Q4 2025",
+      "https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/"
+    ]
+  ],
+  [
+    [
       "2025-11-20, 13:56:04",
       "https://lobste.rs/s/kmdqnf/freer_monads_more_extensible_effects"
     ],
@@ -187,16 +197,6 @@
     [
       "Why BSDs?",
       "https://blog.thechases.com/posts/why-bsds/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 16:18:32",
-      "https://lobste.rs/s/liq0sa/specialized_csv_readers_for_rust"
-    ],
-    [
-      "Specialized CSV readers for Rust leveraging hybrid SIMD techniques",
-      "https://docs.rs/simd-csv"
     ]
   ],
   [
