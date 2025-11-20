@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-20](index.md)
 
+* [2025-11-20, 08:36:39](https://lobste.rs/s/zfp36r/context_missing_api_ruby_logger) - [Context: the missing API in ruby logger](https://honeyryderchuck.gitlab.io/2025/11/12/context-missing-api-in-logger.html)
 * [2025-11-20, 07:58:26](https://lobste.rs/s/v3pvrs/graphics_api_is_irrelevant) - [Graphics API is irrelevant](https://youtu.be/xNX9H_ZkfNE)
 * [2025-11-20, 06:37:50](https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager) - [A battery included hacker's file manager with VIM inspired keybind in a single binary](https://github.com/houqp/kiorg)
 * [2025-11-20, 06:34:46](https://lobste.rs/s/it0mbb/procedurally_generating_infinite) - [Procedurally Generating Infinite Marble Runs](https://www.youtube.com/watch?v=ULpNiZU2tpg)
