@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-21, 20:43:22",
+      "https://lobste.rs/s/dkhkq9/nix_sucks_everything_else_is_worse"
+    ],
+    [
+      "Nix Sucks; Everything else is Worse: Building Better Software Supply Chains",
+      "https://www.youtube.com/watch?v=L8BBtBZXKac"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 20:20:48",
       "https://lobste.rs/s/ltjwow/understanding_qcow2_risks_with_qemu"
     ],
@@ -237,16 +247,6 @@
     [
       "Signal Polls: Yes, no, maybe (yes!)",
       "https://signal.org/blog/polls/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 06:37:50",
-      "https://lobste.rs/s/esyfcl/battery_included_hacker_s_file_manager"
-    ],
-    [
-      "A battery included hacker's file manager with VIM inspired keybind in a single binary",
-      "https://github.com/houqp/kiorg"
     ]
   ]
 ]
