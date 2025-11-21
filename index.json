@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-21, 20:43:22",
-      "https://lobste.rs/s/dkhkq9/nix_sucks_everything_else_is_worse"
+      "2025-11-21, 20:36:58",
+      "https://lobste.rs/s/wujuzj/think_you_can_t_interpose_static_binaries"
     ],
     [
-      "Nix Sucks; Everything else is Worse: Building Better Software Supply Chains",
-      "https://www.youtube.com/watch?v=L8BBtBZXKac"
+      "Think you can’t interpose static binaries with LD_PRELOAD? Think again",
+      "https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/"
     ]
   ],
   [
