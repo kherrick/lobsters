@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 20:57:47](https://lobste.rs/s/fwsgcq/impala_tui_for_managing_wifi_on_linux) - [impala - A TUI for managing wifi on Linux](https://github.com/pythops/impala)
 * [2025-11-21, 20:43:22](https://lobste.rs/s/dkhkq9/nix_sucks_everything_else_is_worse) - [Nix Sucks; Everything else is Worse: Building Better Software Supply Chains](https://www.youtube.com/watch?v=L8BBtBZXKac)
 * [2025-11-21, 20:36:58](https://lobste.rs/s/wujuzj/think_you_can_t_interpose_static_binaries) - [Think you can’t interpose static binaries with LD_PRELOAD? Think again](https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/)
 * [2025-11-21, 20:20:48](https://lobste.rs/s/ltjwow/understanding_qcow2_risks_with_qemu) - [Understanding QCOW2 Risks with QEMU cache=none in Proxmox](https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/)
