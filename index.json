@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-21, 20:20:48",
+      "https://lobste.rs/s/ltjwow/understanding_qcow2_risks_with_qemu"
+    ],
+    [
+      "Understanding QCOW2 Risks with QEMU cache=none in Proxmox",
+      "https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 18:36:46",
       "https://lobste.rs/s/bv3570/building_minimal_viable_armv7_emulator"
     ],
@@ -227,16 +237,6 @@
     [
       "Signal Polls: Yes, no, maybe (yes!)",
       "https://signal.org/blog/polls/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 15:05:53",
-      "https://lobste.rs/s/cr4ihl/what_s_cooking_on_sourcehut_q4_2025"
-    ],
-    [
-      "What's cooking on SourceHut? Q4 2025",
-      "https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/"
     ]
   ],
   [
