@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-21, 10:31:44",
+      "https://lobste.rs/s/829yl5/how_why_sweep_async_tasks_under_postgres"
+    ],
+    [
+      "How/Why to Sweep Async Tasks Under a Postgres Table",
+      "https://taylor.town/pg-task"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 10:27:47",
       "https://lobste.rs/s/pucsfk/fawk_llms_can_write_language_interpreter"
     ],
@@ -227,16 +237,6 @@
     [
       "RFC Hub",
       "https://rfchub.app/"
-    ]
-  ],
-  [
-    [
-      "2025-11-19, 22:16:41",
-      "https://lobste.rs/s/amboaj/disallow_code_usage_with_custom_clippy"
-    ],
-    [
-      "Disallow code usage with a custom `clippy.toml`",
-      "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/"
     ]
   ],
   [
