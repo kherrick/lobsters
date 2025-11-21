@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-21, 20:43:22](https://lobste.rs/s/dkhkq9/nix_sucks_everything_else_is_worse) - [Nix Sucks; Everything else is Worse: Building Better Software Supply Chains](https://www.youtube.com/watch?v=L8BBtBZXKac)
+* [2025-11-21, 20:36:58](https://lobste.rs/s/wujuzj/think_you_can_t_interpose_static_binaries) - [Think you can’t interpose static binaries with LD_PRELOAD? Think again](https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/)
 * [2025-11-21, 20:20:48](https://lobste.rs/s/ltjwow/understanding_qcow2_risks_with_qemu) - [Understanding QCOW2 Risks with QEMU cache=none in Proxmox](https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/)
 * [2025-11-21, 18:36:46](https://lobste.rs/s/bv3570/building_minimal_viable_armv7_emulator) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
 * [2025-11-21, 17:58:31](https://lobste.rs/s/8x1hpo/web_pentaculum_satanic_webring_hosted_on) - [web pentaculum - a satanic webring hosted on OpenBSD.amsterdam](https://netr.ing/)
