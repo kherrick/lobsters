@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-21](index.md)
 
+* [2025-11-21, 23:17:07](https://lobste.rs/s/cimr54/reverse_engineering_miele_diagnostic) - [Reverse Engineering the Miele Diagnostic Interface](https://medusalix.github.io/posts/miele-interface/)
 * [2025-11-21, 22:46:44](https://lobste.rs/s/ssawhs/web_playground_for_training_language) - [Web playground for training language models with WebGPU](https://sequence.toys)
 * [2025-11-21, 21:46:32](https://lobste.rs/s/dw3oup/oss_friday_update) - [OSS Friday Update](https://noteflakes.com/articles/2025-11-21-friday-update)
 * [2025-11-21, 20:57:47](https://lobste.rs/s/fwsgcq/impala_tui_for_managing_wifi_on_linux) - [impala - A TUI for managing wifi on Linux](https://github.com/pythops/impala)
