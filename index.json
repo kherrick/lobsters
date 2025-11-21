@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-21, 14:18:41",
+      "https://lobste.rs/s/f2omyv/go_s_runtime_may_someday_start_explicitly"
+    ],
+    [
+      "Go's runtime may someday start explicitly freeing some internal memory",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 13:42:08",
       "https://lobste.rs/s/0squ96/more_tales_about_outages_numeric_limits"
     ],
@@ -177,16 +187,6 @@
     [
       "Firefox 147 Will Support The XDG Base Directory Specification",
       "https://www.phoronix.com/news/Firefox-147-XDG-Base-Directory"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 17:02:55",
-      "https://lobste.rs/s/ul2vxd/django_liveview_2_0_0"
-    ],
-    [
-      "Django LiveView 2.0.0",
-      "https://github.com/Django-LiveView/liveview"
     ]
   ],
   [
