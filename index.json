@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-21, 23:17:07",
+      "https://lobste.rs/s/cimr54/reverse_engineering_miele_diagnostic"
+    ],
+    [
+      "Reverse Engineering the Miele Diagnostic Interface",
+      "https://medusalix.github.io/posts/miele-interface/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 22:46:44",
       "https://lobste.rs/s/ssawhs/web_playground_for_training_language"
     ],
@@ -187,16 +197,6 @@
     [
       "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 22:01:00",
-      "https://lobste.rs/s/smkwo1/how_slide_rules_work"
-    ],
-    [
-      "How Slide Rules Work",
-      "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
     ]
   ],
   [
