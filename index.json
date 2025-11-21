@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-11-20, 23:17:04",
-      "https://lobste.rs/s/8dcpvs/is_c_26_getting_destructive_move"
+      "2025-11-20, 22:01:00",
+      "https://lobste.rs/s/smkwo1/how_slide_rules_work"
     ],
     [
-      "Is C++26 getting destructive move semantics?",
-      "https://stackoverflow.com/questions/79817124/is-c26-getting-destructive-move-semantics"
+      "How Slide Rules Work",
+      "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Zork I, II, and III go Open Source",
       "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 18:24:07",
-      "https://lobste.rs/s/h7hhhn/brownouts_reveal_system_boundaries"
-    ],
-    [
-      "Brownouts reveal system boundaries",
-      "https://jyn.dev/brownouts-reveal-system-boundaries/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Disallow code usage with a custom `clippy.toml`",
       "https://www.schneems.com/2025/11/19/find-accidental-code-usage-with-a-custom-clippytoml/"
+    ]
+  ],
+  [
+    [
+      "2025-11-19, 18:42:54",
+      "https://lobste.rs/s/0m6yln/what_killed_perl"
+    ],
+    [
+      "What Killed Perl?",
+      "https://entropicthoughts.com/what-killed-perl"
     ]
   ],
   [
