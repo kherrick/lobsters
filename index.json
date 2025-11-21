@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-21, 16:10:57",
+      "https://lobste.rs/s/klv6mo/source_code_for_1977_version_zork"
+    ],
+    [
+      "Source code for a 1977 version of Zork",
+      "https://github.com/MITDDC/zork"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 14:48:43",
       "https://lobste.rs/s/rygog1/we_should_all_be_using_dependency"
     ],
@@ -217,16 +227,6 @@
     [
       "What's cooking on SourceHut? Q4 2025",
       "https://sourcehut.org/blog/2025-11-20-whats-cooking-q4-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 11:20:02",
-      "https://lobste.rs/s/j5qgj6/memory_is_slow_disk_is_fast"
-    ],
-    [
-      "Memory is slow, Disk is fast",
-      "https://www.bitflux.ai/blog/memory-is-slow-part2"
     ]
   ],
   [
