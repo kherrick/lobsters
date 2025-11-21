@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-11-21, 20:20:48",
+      "https://lobste.rs/s/ltjwow/understanding_qcow2_risks_with_qemu"
+    ],
+    [
+      "Understanding QCOW2 Risks with QEMU cache=none in Proxmox",
+      "https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/"
+    ]
+  ],
+  [
+    [
       "2025-11-21, 18:36:46",
       "https://lobste.rs/s/bv3570/building_minimal_viable_armv7_emulator"
     ],
@@ -187,16 +197,6 @@
     [
       "How Slide Rules Work",
       "https://amenzwa.github.io/stem/ComputingHistory/HowSlideRulesWork/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 21:20:34",
-      "https://lobste.rs/s/8bojbq/2025_go_cryptography_state_union"
-    ],
-    [
-      "2025 Go Cryptography State of the Union",
-      "https://words.filippo.io/2025-state/"
     ]
   ],
   [
