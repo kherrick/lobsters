@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-22, 15:27:29",
+      "https://lobste.rs/s/eqz3mh/llm_apis_are_synchronization_problem"
+    ],
+    [
+      "LLM APIs are a Synchronization Problem",
+      "https://lucumr.pocoo.org/2025/11/22/llm-apis/"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 15:25:19",
+      "https://lobste.rs/s/95g1kk/migrating_bazel_symbolic_macros"
+    ],
+    [
+      "Migrating to Bazel symbolic macros",
+      "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 11:41:31",
       "https://lobste.rs/s/xdjqc5/move_expressions"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-11-21, 14:18:41",
-      "https://lobste.rs/s/f2omyv/go_s_runtime_may_someday_start_explicitly"
-    ],
-    [
-      "Go's runtime may someday start explicitly freeing some internal memory",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoExplicitMemoryFreeing"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 13:42:08",
       "https://lobste.rs/s/0squ96/more_tales_about_outages_numeric_limits"
     ],
@@ -237,16 +247,6 @@
     [
       "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 15:53:30",
-      "https://lobste.rs/s/p9i6g3/open_source_developers_are_exhausted"
-    ],
-    [
-      "Open Source Developers Are Exhausted, Unpaid, and Ready to Walk Away",
-      "https://itsfoss.com/news/open-source-developers-are-exhausted/"
     ]
   ]
 ]
