@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 21:16:25](https://lobste.rs/s/ao7d7v/reverse_engineer_s_anatomy_macos_boot) - [A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture](http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
 * [2025-11-22, 19:20:53](https://lobste.rs/s/9cvqv4/introducing_f_10) - [Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)
 * [2025-11-22, 19:17:15](https://lobste.rs/s/74xbxj/trying_out_c_26_executors) - [Trying out C++26 executors](https://mropert.github.io/2025/11/21/trying_out_stdexec/)
 * [2025-11-22, 18:42:53](https://lobste.rs/s/fid6eb/run_website_from_old_phone_using) - [Run a website from an old phone using postmarketOS](https://far.computer/how-to/)
