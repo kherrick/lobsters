@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 15:27:29](https://lobste.rs/s/eqz3mh/llm_apis_are_synchronization_problem) - [LLM APIs are a Synchronization Problem](https://lucumr.pocoo.org/2025/11/22/llm-apis/)
+* [2025-11-22, 15:25:19](https://lobste.rs/s/95g1kk/migrating_bazel_symbolic_macros) - [Migrating to Bazel symbolic macros](https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/)
 * [2025-11-22, 11:41:31](https://lobste.rs/s/xdjqc5/move_expressions) - [Move Expressions](https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/)
 * [2025-11-22, 10:30:49](https://lobste.rs/s/pn51sy/hindsight_type_safe_evolvable_event) - [Hindsight – Type-safe and evolvable event sourcing for Haskell](https://hindsight.events/)
 * [2025-11-22, 10:02:45](https://lobste.rs/s/sw5wog/automatic_syntax_error_recovery_2020) - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
