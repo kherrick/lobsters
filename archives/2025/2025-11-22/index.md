@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 10:02:45](https://lobste.rs/s/sw5wog/automatic_syntax_error_recovery_2020) - [Automatic Syntax Error Recovery (2020)](https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html)
 * [2025-11-22, 04:41:58](https://lobste.rs/s/h0pcsg/how_i_learned_vulkan_wrote_small_game) - [How I learned Vulkan and wrote a small game engine with it (2024)](https://edw.is/learning-vulkan/)
 * [2025-11-22, 03:34:48](https://lobste.rs/s/6zjbgm/how_use_views_for_debugging_tools_save) - [How to use views for debugging tools to save time](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-11-22, 03:22:45](https://lobste.rs/s/8wj7r0/what_now_handling_errors_large_systems) - [What Now? Handling Errors in Large Systems](http://brooker.co.za/blog/2025/11/20/what-now.html)
