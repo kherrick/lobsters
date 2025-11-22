@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-11-22](index.md)
 
+* [2025-11-22, 22:00:49](https://lobste.rs/s/uyt89r/windows_arm64_internals_deconstructing) - [Windows ARM64 Internals: Deconstructing Pointer Authentication](https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication)
 * [2025-11-22, 21:16:25](https://lobste.rs/s/ao7d7v/reverse_engineer_s_anatomy_macos_boot) - [A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture](http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/)
 * [2025-11-22, 19:20:53](https://lobste.rs/s/9cvqv4/introducing_f_10) - [Introducing F# 10](https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/)
 * [2025-11-22, 19:17:15](https://lobste.rs/s/74xbxj/trying_out_c_26_executors) - [Trying out C++26 executors](https://mropert.github.io/2025/11/21/trying_out_stdexec/)
+* [2025-11-22, 19:15:57](https://lobste.rs/s/3a72gu/time_c_understanding_chrono_concept) - [Time in C++: Understanding <chrono> and the Concept of Clocks](https://www.sandordargo.com/blog/2025/11/19/clocks-part-1-intro-to-chrono)
 * [2025-11-22, 18:42:53](https://lobste.rs/s/fid6eb/run_website_from_old_phone_using) - [Run a website from an old phone using postmarketOS](https://far.computer/how-to/)
 * [2025-11-22, 18:42:53](https://lobste.rs/s/fid6eb/host_website_from_old_phone_using) - [Host a website from an old phone using postmarketOS](https://far.computer/how-to/)
 * [2025-11-22, 17:35:49](https://lobste.rs/s/dj1xnt/unusual_circuits_intel_386_s_standard) - [Unusual circuits in the Intel 386's standard cell logic](https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html)
