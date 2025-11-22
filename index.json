@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-11-22, 11:41:31",
+      "https://lobste.rs/s/xdjqc5/move_expressions"
+    ],
+    [
+      "Move Expressions",
+      "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 10:30:49",
       "https://lobste.rs/s/pn51sy/hindsight_type_safe_evolvable_event"
     ],
     [
       "Hindsight – Type-safe and evolvable event sourcing for Haskell",
       "https://hindsight.events/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 10:02:45",
-      "https://lobste.rs/s/sw5wog/automatic_syntax_error_recovery_2020"
-    ],
-    [
-      "Automatic Syntax Error Recovery (2020)",
-      "https://tratt.net/laurie/blog/2020/automatic_syntax_error_recovery.html"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "How I learned Vulkan and wrote a small game engine with it (2024)",
       "https://edw.is/learning-vulkan/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 03:34:48",
-      "https://lobste.rs/s/6zjbgm/how_use_views_for_debugging_tools_save"
-    ],
-    [
-      "How to use views for debugging tools to save time",
-      "https://chrispenner.ca/posts/views-for-debugging"
     ]
   ],
   [
@@ -87,6 +77,16 @@
     [
       "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
       "https://mastodon.gamedev.place/@TomF/115589875974658415"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 00:04:16",
+      "https://lobste.rs/s/pg70wu/how_get_started_with_ed_text_editor_2022"
+    ],
+    [
+      "How to get started with the ed text editor (2022)",
+      "https://www.redhat.com/en/blog/introduction-ed-editor"
     ]
   ],
   [
