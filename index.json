@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-22, 22:00:49",
+      "https://lobste.rs/s/uyt89r/windows_arm64_internals_deconstructing"
+    ],
+    [
+      "Windows ARM64 Internals: Deconstructing Pointer Authentication",
+      "https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 21:16:25",
       "https://lobste.rs/s/ao7d7v/reverse_engineer_s_anatomy_macos_boot"
     ],
@@ -17,6 +27,26 @@
     [
       "Introducing F# 10",
       "https://devblogs.microsoft.com/dotnet/introducing-fsharp-10/"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 19:17:15",
+      "https://lobste.rs/s/74xbxj/trying_out_c_26_executors"
+    ],
+    [
+      "Trying out C++26 executors",
+      "https://mropert.github.io/2025/11/21/trying_out_stdexec/"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 19:15:57",
+      "https://lobste.rs/s/3a72gu/time_c_understanding_chrono_concept"
+    ],
+    [
+      "Time in C++: Understanding <chrono> and the Concept of Clocks",
+      "https://www.sandordargo.com/blog/2025/11/19/clocks-part-1-intro-to-chrono"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "LLM APIs are a Synchronization Problem",
       "https://lucumr.pocoo.org/2025/11/22/llm-apis/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 15:25:19",
-      "https://lobste.rs/s/95g1kk/migrating_bazel_symbolic_macros"
-    ],
-    [
-      "Migrating to Bazel symbolic macros",
-      "https://www.tweag.io/blog/2025-11-20-migrating-bazel-symbolic-macros/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-11-22, 00:04:16",
-      "https://lobste.rs/s/pg70wu/how_get_started_with_ed_text_editor_2022"
-    ],
-    [
-      "How to get started with the ed text editor (2022)",
-      "https://www.redhat.com/en/blog/introduction-ed-editor"
-    ]
-  ],
-  [
-    [
       "2025-11-21, 23:17:07",
       "https://lobste.rs/s/cimr54/reverse_engineering_miele_diagnostic"
     ],
@@ -217,16 +227,6 @@
     [
       "Undo, Redo, and the Command Pattern",
       "https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 10:05:43",
-      "https://lobste.rs/s/n2ciff/why_pure_functional_programming_matters"
-    ],
-    [
-      "Why (pure) functional programming matters",
-      "https://www.youtube.com/watch?v=8p5acyD8lGs"
     ]
   ],
   [
