@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-22, 10:30:49",
+      "https://lobste.rs/s/pn51sy/hindsight_type_safe_evolvable_event"
+    ],
+    [
+      "Hindsight – Type-safe and evolvable event sourcing for Haskell",
+      "https://hindsight.events/"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 10:02:45",
       "https://lobste.rs/s/sw5wog/automatic_syntax_error_recovery_2020"
     ],
@@ -197,16 +207,6 @@
     [
       "Why (pure) functional programming matters",
       "https://www.youtube.com/watch?v=8p5acyD8lGs"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 08:52:47",
-      "https://lobste.rs/s/ttfo7o/cross_platform_p2p_wi_fi_how_eu_killed_awdl"
-    ],
-    [
-      "Cross-Platform P2P Wi-Fi: How the EU Killed AWDL",
-      "https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl"
     ]
   ],
   [
