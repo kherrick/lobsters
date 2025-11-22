@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-11-22, 00:15:29",
+      "https://lobste.rs/s/xwkp41/bug_caused_by_door_game_you_may_have_heard"
+    ],
+    [
+      "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
+      "https://mastodon.gamedev.place/@TomF/115589875974658415"
+    ]
+  ],
+  [
+    [
       "2025-11-22, 00:04:16",
       "https://lobste.rs/s/pg70wu/how_get_started_with_ed_text_editor_2022"
     ],
@@ -37,6 +47,16 @@
     [
       "Reverse Engineering the Miele Diagnostic Interface",
       "https://medusalix.github.io/posts/miele-interface/"
+    ]
+  ],
+  [
+    [
+      "2025-11-21, 22:46:44",
+      "https://lobste.rs/s/ssawhs/web_playground_for_training_language"
+    ],
+    [
+      "Web playground for training language models with WebGPU",
+      "https://sequence.toys"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Exploring the Fragmentation of Wayland, an xdotool adventure",
       "https://www.semicomplete.com/blog/xdotool-and-exploring-wayland-fragmentation/"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 21:05:00",
-      "https://lobste.rs/s/2opemx/finally_run_docker_containers_natively"
-    ],
-    [
-      "Finally, run Docker containers natively in Proxmox 9.1 (OCI images)",
-      "https://raymii.org/s/tutorials/Finally_run_Docker_containers_natively_in_Proxmox_9.1.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-20, 19:29:58",
-      "https://lobste.rs/s/wtzy7u/zork_i_ii_iii_go_open_source"
-    ],
-    [
-      "Zork I, II, and III go Open Source",
-      "https://opensource.microsoft.com/blog/2025/11/20/preserving-code-that-shaped-generations-zork-i-ii-and-iii-go-open-source"
     ]
   ],
   [
