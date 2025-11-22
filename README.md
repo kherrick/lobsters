@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-22, 03:34:48](https://lobste.rs/s/6zjbgm/how_use_views_for_debugging_tools_save) - [How to use views for debugging tools to save time](https://chrispenner.ca/posts/views-for-debugging)
 * [2025-11-22, 01:26:34](https://lobste.rs/s/dpky8y/installing_freebsd_15_on_my_desktop) - [Installing FreeBSD 15 on my desktop](https://yorickpeterse.com/articles/installing-freebsd-15-on-my-desktop/)
 * [2025-11-22, 00:31:52](https://lobste.rs/s/tbqdgl/letter_from_codeberg_onwards_upwards) - [Letter from Codeberg: Onwards and upwards](https://blog.codeberg.org/letter-from-codeberg-onwards-and-upwards.html)
 * [2025-11-22, 00:15:29](https://lobste.rs/s/xwkp41/bug_caused_by_door_game_you_may_have_heard) - [A bug caused by a door in a game you may have heard of called \"Half Life 2\"](https://mastodon.gamedev.place/@TomF/115589875974658415)
@@ -11,7 +12,6 @@
 * [2025-11-21, 20:36:58](https://lobste.rs/s/wujuzj/think_you_can_t_interpose_static_binaries) - [Think you can’t interpose static binaries with LD_PRELOAD? Think again](https://balintreczey.hu/blog/think-you-cant-interpose-static-binaries-with-ld_preload-think-again/)
 * [2025-11-21, 20:20:48](https://lobste.rs/s/ltjwow/understanding_qcow2_risks_with_qemu) - [Understanding QCOW2 Risks with QEMU cache=none in Proxmox](https://kb.blockbridge.com/technote/proxmox-qemu-cache-none-qcow2/)
 * [2025-11-21, 18:36:46](https://lobste.rs/s/bv3570/building_minimal_viable_armv7_emulator) - [Building a Minimal Viable Armv7 Emulator from Scratch](https://xnacly.me/posts/2025/building-a-minimal-viable-armv7-emulator/)
-* [2025-11-21, 17:58:31](https://lobste.rs/s/8x1hpo/web_pentaculum_satanic_webring_hosted_on) - [web pentaculum - a satanic webring hosted on OpenBSD.amsterdam](https://netr.ing/)
 * [2025-11-21, 16:10:57](https://lobste.rs/s/klv6mo/source_code_for_1977_version_zork) - [Source code for a 1977 version of Zork](https://github.com/MITDDC/zork)
 * [2025-11-21, 14:48:43](https://lobste.rs/s/rygog1/we_should_all_be_using_dependency) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 * [2025-11-21, 14:28:51](https://lobste.rs/s/ufvdmn/there_s_always_going_be_way_not_code_error) - [There's always going to be a way to not code error handling](https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling)
