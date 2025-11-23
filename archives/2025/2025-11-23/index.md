@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 12:19:52](https://lobste.rs/s/mzuktr/what_does_agpl_require) - [What does the AGPL require?](https://runxiyu.org/blog/agpl/)
+* [2025-11-23, 12:06:25](https://lobste.rs/s/lfujpz/how_deep_is_challenger_deep) - [How Deep is Challenger Deep?](https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859)
 * [2025-11-23, 11:25:03](https://lobste.rs/s/wtxmgv/what_are_you_reading_plan_read_next) - [What are you reading and plan to read next?](https://lobste.rs/s/wtxmgv/what_are_you_reading_plan_read_next)
 * [2025-11-23, 09:38:03](https://lobste.rs/s/drfh9p/parallel_threads_racket_v9_0) - [Parallel Threads in Racket v9.0](https://blog.racket-lang.org/2025/11/parallel-threads.html)
 * [2025-11-23, 09:10:58](https://lobste.rs/s/mzpgdh/svalboard_datahand_forever) - [Svalboard - Datahand forever](https://svalboard.com/)
