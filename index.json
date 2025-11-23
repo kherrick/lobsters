@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-23, 20:26:22",
+      "https://lobste.rs/s/a8fm0p/why_zig_qt_feels_like_doing_impossible"
+    ],
+    [
+      "Why Zig + Qt Feels Like Doing the Impossible Right",
+      "https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 20:13:13",
+      "https://lobste.rs/s/jbwovn/nonpareil_high_fidelity_hp_calculator"
+    ],
+    [
+      "Nonpareil:  High-Fidelity HP Calculator Simulator",
+      "https://nonpareil.brouhaha.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 19:20:58",
       "https://lobste.rs/s/8wztsi/event_sourcing_go_from_zero_production"
     ],
@@ -17,16 +37,6 @@
     [
       "We stopped roadmap work for a week and fixed 189 bugs",
       "https://lalitm.com/fixits-are-good-for-the-soul/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 15:30:38",
-      "https://lobste.rs/s/uvlxdn/windows_vtl2_technical_exploration"
-    ],
-    [
-      "Windows VTL2 Technical Exploration",
-      "https://howknows.github.io/roooot.github.io/VTL2/Windows_VTL2_Technical_Exploration.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Experimenting with Robin Hood hashing",
       "https://twdev.blog/2025/11/robin_hood/"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 21:16:25",
-      "https://lobste.rs/s/ao7d7v/reverse_engineer_s_anatomy_macos_boot"
-    ],
-    [
-      "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
-      "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/"
     ]
   ],
   [
