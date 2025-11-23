@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-23, 20:49:16",
+      "https://lobste.rs/s/aqefyy/cad_new_open_source_programming_language"
+    ],
+    [
+      "µcad: New open source programming language that can generate 2D sketches and 3D objects",
+      "https://microcad.xyz"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 20:46:07",
+      "https://lobste.rs/s/xxq1kw/ntoh_hton_is_bad_api"
+    ],
+    [
+      "ntoh*/hton* is a bad API",
+      "https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 20:26:22",
       "https://lobste.rs/s/a8fm0p/why_zig_qt_feels_like_doing_impossible"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-11-22, 11:41:31",
-      "https://lobste.rs/s/xdjqc5/move_expressions"
-    ],
-    [
-      "Move Expressions",
-      "https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 00:31:52",
       "https://lobste.rs/s/tbqdgl/letter_from_codeberg_onwards_upwards"
     ],
@@ -237,16 +247,6 @@
     [
       "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
       "https://mastodon.gamedev.place/@TomF/115589875974658415"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 14:48:43",
-      "https://lobste.rs/s/rygog1/we_should_all_be_using_dependency"
-    ],
-    [
-      "We should all be using dependency cooldowns",
-      "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"
     ]
   ]
 ]
