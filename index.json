@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-11-23, 18:42:50",
-      "https://lobste.rs/s/psgrus/infosec_black_friday_all_deals_for"
-    ],
-    [
-      "InfoSec-Black-Friday: All the deals for InfoSec related software/tools this Black Friday",
-      "https://github.com/wwwiesel/InfoSec-Black-Friday"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 17:33:36",
       "https://lobste.rs/s/gae4dh/we_stopped_roadmap_work_for_week_fixed_189"
     ],
@@ -167,6 +157,16 @@
     [
       "Experimenting with Robin Hood hashing",
       "https://twdev.blog/2025/11/robin_hood/"
+    ]
+  ],
+  [
+    [
+      "2025-11-22, 21:16:25",
+      "https://lobste.rs/s/ao7d7v/reverse_engineer_s_anatomy_macos_boot"
+    ],
+    [
+      "A Reverse Engineer’s Anatomy of the macOS Boot Chain & Security Architecture",
+      "http://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/"
     ]
   ],
   [
