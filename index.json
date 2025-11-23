@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-23, 09:38:03",
+      "https://lobste.rs/s/drfh9p/parallel_threads_racket_v9_0"
+    ],
+    [
+      "Parallel Threads in Racket v9.0",
+      "https://blog.racket-lang.org/2025/11/parallel-threads.html"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 09:10:58",
       "https://lobste.rs/s/mzpgdh/svalboard_datahand_forever"
     ],
@@ -217,16 +227,6 @@
     [
       "A bug caused by a door in a game you may have heard of called \"Half Life 2\"",
       "https://mastodon.gamedev.place/@TomF/115589875974658415"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 20:57:47",
-      "https://lobste.rs/s/fwsgcq/impala_tui_for_managing_wifi_on_linux"
-    ],
-    [
-      "impala - A TUI for managing wifi on Linux",
-      "https://github.com/pythops/impala"
     ]
   ],
   [
