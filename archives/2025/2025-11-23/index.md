@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 18:42:50](https://lobste.rs/s/psgrus/infosec_black_friday_all_deals_for) - [InfoSec-Black-Friday: All the deals for InfoSec related software/tools this Black Friday](https://github.com/wwwiesel/InfoSec-Black-Friday)
 * [2025-11-23, 17:33:36](https://lobste.rs/s/gae4dh/we_stopped_roadmap_work_for_week_fixed_189) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-23, 15:30:38](https://lobste.rs/s/uvlxdn/windows_vtl2_technical_exploration) - [Windows VTL2 Technical Exploration](https://howknows.github.io/roooot.github.io/VTL2/Windows_VTL2_Technical_Exploration.html)
 * [2025-11-23, 14:03:36](https://lobste.rs/s/scikpb/liballocs_meta_level_run_time_services) - [liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s](https://github.com/stephenrkell/liballocs)
