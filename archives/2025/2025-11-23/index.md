@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 22:46:29](https://lobste.rs/s/ro8wgi/libfive_software_library_set_tools_for) - [libfive: a software library and set of tools for solid modeling](https://libfive.com/)
 * [2025-11-23, 22:39:14](https://lobste.rs/s/ldu1tt/negentropy_set_reconciliation_protocol) - [the negentropy set-reconciliation protocol](https://github.com/hoytech/negentropy)
 * [2025-11-23, 22:08:08](https://lobste.rs/s/c2ec1r/rust_for_malware_development) - [Rust for Malware Development](https://bishopfox.com/blog/rust-for-malware-development)
 * [2025-11-23, 21:35:23](https://lobste.rs/s/ymlwox/caching_is_better_than_mocking) - [Caching is better than mocking](https://federicopereiro.com/caching-ftw/)
