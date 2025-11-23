@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 20:49:16](https://lobste.rs/s/aqefyy/cad_new_open_source_programming_language) - [µcad: New open source programming language that can generate 2D sketches and 3D objects](https://microcad.xyz)
+* [2025-11-23, 20:46:07](https://lobste.rs/s/xxq1kw/ntoh_hton_is_bad_api) - [ntoh*/hton* is a bad API](https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/)
 * [2025-11-23, 20:26:22](https://lobste.rs/s/a8fm0p/why_zig_qt_feels_like_doing_impossible) - [Why Zig + Qt Feels Like Doing the Impossible Right](https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/)
 * [2025-11-23, 20:13:13](https://lobste.rs/s/jbwovn/nonpareil_high_fidelity_hp_calculator) - [Nonpareil:  High-Fidelity HP Calculator Simulator](https://nonpareil.brouhaha.com/)
 * [2025-11-23, 19:20:58](https://lobste.rs/s/8wztsi/event_sourcing_go_from_zero_production) - [Event Sourcing in Go: From Zero to Production](https://skoredin.pro/blog/golang/event-sourcing-go.html)
