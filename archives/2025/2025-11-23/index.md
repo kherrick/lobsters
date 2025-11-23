@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 09:38:03](https://lobste.rs/s/drfh9p/parallel_threads_racket_v9_0) - [Parallel Threads in Racket v9.0](https://blog.racket-lang.org/2025/11/parallel-threads.html)
 * [2025-11-23, 09:10:58](https://lobste.rs/s/mzpgdh/svalboard_datahand_forever) - [Svalboard - Datahand forever](https://svalboard.com/)
 * [2025-11-23, 08:23:56](https://lobste.rs/s/scusuj/qsp_simple_s_expression_parser_for_rust) - [qsp: A simple S-Expression parser for Rust TokenStreams](https://github.com/KnorrFG/qsp)
 * [2025-11-23, 05:28:58](https://lobste.rs/s/4lidxn/trifold_is_tool_quickly_cheaply_host) - [trifold is a tool to quickly & cheaply host static websites using a CDN](https://jpt.sh/projects/trifold/)
