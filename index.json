@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-23, 05:28:58",
+      "https://lobste.rs/s/4lidxn/trifold_is_tool_quickly_cheaply_host"
+    ],
+    [
+      "trifold is a tool to quickly & cheaply host static websites using a CDN",
+      "https://jpt.sh/projects/trifold/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 03:15:12",
       "https://lobste.rs/s/risea0/satisfies_is_my_favorite_typescript"
     ],
@@ -237,16 +247,6 @@
     [
       "We should all be using dependency cooldowns",
       "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 07:45:31",
-      "https://lobste.rs/s/owwjs0/solving_fizz_buzz_with_cosines"
-    ],
-    [
-      "Solving Fizz Buzz with Cosines",
-      "https://susam.net/fizz-buzz-with-cosines.html"
     ]
   ]
 ]
