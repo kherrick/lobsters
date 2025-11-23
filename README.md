@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-23, 17:33:36](https://lobste.rs/s/gae4dh/we_stopped_roadmap_work_for_week_fixed_189) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-23, 15:30:38](https://lobste.rs/s/uvlxdn/windows_vtl2_technical_exploration) - [Windows VTL2 Technical Exploration](https://howknows.github.io/roooot.github.io/VTL2/Windows_VTL2_Technical_Exploration.html)
 * [2025-11-23, 14:03:36](https://lobste.rs/s/scikpb/liballocs_meta_level_run_time_services) - [liballocs: Meta-level run-time services for Unix processes... a.k.a. dragging Unix into the 1980s](https://github.com/stephenrkell/liballocs)
 * [2025-11-23, 13:32:45](https://lobste.rs/s/1nop48/google_revisits_jpeg_xl_chromium_after) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
@@ -23,7 +24,6 @@
 * [2025-11-22, 11:41:31](https://lobste.rs/s/xdjqc5/move_expressions) - [Move Expressions](https://smallcultfollowing.com/babysteps/blog/2025/11/21/move-expressions/)
 * [2025-11-22, 00:31:52](https://lobste.rs/s/tbqdgl/letter_from_codeberg_onwards_upwards) - [Letter from Codeberg: Onwards and upwards](https://blog.codeberg.org/letter-from-codeberg-onwards-and-upwards.html)
 * [2025-11-22, 00:15:29](https://lobste.rs/s/xwkp41/bug_caused_by_door_game_you_may_have_heard) - [A bug caused by a door in a game you may have heard of called \"Half Life 2\"](https://mastodon.gamedev.place/@TomF/115589875974658415)
-* [2025-11-21, 20:49:50](https://lobste.rs/s/zypzg0/helping_valve_power_up_steam_devices) - [Helping Valve to Power Up Steam Devices](https://www.igalia.com/2025/11/helpingvalve.html)
 * [2025-11-21, 14:48:43](https://lobste.rs/s/rygog1/we_should_all_be_using_dependency) - [We should all be using dependency cooldowns](https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns)
 
 ## [Archives](archives/index.md)
