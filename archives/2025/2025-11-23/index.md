@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-23](index.md)
 
+* [2025-11-23, 21:35:23](https://lobste.rs/s/ymlwox/caching_is_better_than_mocking) - [Caching is better than mocking](https://federicopereiro.com/caching-ftw/)
 * [2025-11-23, 20:49:16](https://lobste.rs/s/aqefyy/cad_new_open_source_programming_language) - [µcad: New open source programming language that can generate 2D sketches and 3D objects](https://microcad.xyz)
 * [2025-11-23, 20:46:07](https://lobste.rs/s/xxq1kw/ntoh_hton_is_bad_api) - [ntoh*/hton* is a bad API](https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/)
 * [2025-11-23, 20:26:22](https://lobste.rs/s/a8fm0p/why_zig_qt_feels_like_doing_impossible) - [Why Zig + Qt Feels Like Doing the Impossible Right](https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/)
