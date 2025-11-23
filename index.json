@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-23, 02:54:26",
+      "https://lobste.rs/s/pzcjsl/enough_with_all_raft"
+    ],
+    [
+      "Enough With All The Raft",
+      "https://transactional.blog/talk/enough-with-all-the-raft"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 02:49:17",
+      "https://lobste.rs/s/cpiydc/flux_keyboard"
+    ],
+    [
+      "Flux Keyboard",
+      "https://fluxkeyboard.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-23, 01:22:25",
       "https://lobste.rs/s/s5kub7/dingo_meta_language_for_go"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-11-22, 10:30:49",
-      "https://lobste.rs/s/pn51sy/hindsight_type_safe_evolvable_event"
-    ],
-    [
-      "Hindsight – Type-safe and evolvable event sourcing for Haskell",
-      "https://hindsight.events/"
-    ]
-  ],
-  [
-    [
       "2025-11-22, 04:41:58",
       "https://lobste.rs/s/h0pcsg/how_i_learned_vulkan_wrote_small_game"
     ],
@@ -227,16 +237,6 @@
     [
       "We should all be using dependency cooldowns",
       "https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"
-    ]
-  ],
-  [
-    [
-      "2025-11-21, 13:03:57",
-      "https://lobste.rs/s/lwepwh/undo_redo_command_pattern"
-    ],
-    [
-      "Undo, Redo, and the Command Pattern",
-      "https://www.esveo.com/en/blog/undo-redo-and-the-command-pattern/"
     ]
   ],
   [
