@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-24, 17:00:21](https://lobste.rs/s/gp0ygz/shai_hulud_strikes_again) - [Shai Hulud Strikes Again](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
 * [2025-11-24, 16:48:36](https://lobste.rs/s/we5abg/on_modelling_agent_systems_with_erlang) - [On Modelling Agent Systems with Erlang (2004)](https://erlang.org/workshop/2004/carlosvarela.pdf)
 * [2025-11-24, 16:17:35](https://lobste.rs/s/lpvmll/misunderstanding_dependency_comic) - [Misunderstanding that “Dependency” comic](https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html)
 * [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
+* [2025-11-24, 15:16:26](https://lobste.rs/s/ta9886/open_source_has_too_many_parasocial) - [Open Source Has Too Many Parasocial Relationships](https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/)
 * [2025-11-24, 13:20:39](https://lobste.rs/s/zjxjhc/automating_updates_digital_vigil) - [Automating updates to a digital vigil](https://ntietz.com/blog/automating-updates-to-a-digital-vigil/)
 * [2025-11-24, 11:44:46](https://lobste.rs/s/vpybud/i_put_search_engine_into_lambda_so_you_only) - [I put a search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
 * [2025-11-24, 11:04:26](https://lobste.rs/s/od61og/shai_hulud_returns_over_300_npm_packages) - [Shai-Hulud Returns: Over 300 NPM Packages infected via Fake Bun Runtime Within Hours](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
