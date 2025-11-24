@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 20:07:34](https://lobste.rs/s/jgczrj/counter_galois_onion_improved) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
+* [2025-11-24, 20:01:20](https://lobste.rs/s/alor5k/is_latex_worth_it_2023) - [Is LaTeX worth it? (2023)](https://philipphagenlocher.de/post/is-latex-worth-it/)
 * [2025-11-24, 19:23:35](https://lobste.rs/s/t66357/how_do_we_keep_apps_maintained_on_flathub) - [How do we keep apps maintained on Flathub? (or building a more respectful App Store)](https://tim.siosm.fr/blog/2025/11/24/building-better-app-store-flathub/)
 * [2025-11-24, 18:24:03](https://lobste.rs/s/z2uql6/powerset_s_natural_language_search) - [Powerset’s natural language search system (2012)](http://brenocon.com/blog/2012/10/powersets-natural-language-search-system/)
 * [2025-11-24, 18:23:11](https://lobste.rs/s/luanuy/we_deleted_our_dockerfiles_better_faster) - [We deleted our Dockerfiles: a better, faster way to build container images](https://www.rwx.com/blog/we-deleted-our-dockerfiles)
