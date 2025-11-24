@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-24, 09:50:20",
+      "https://lobste.rs/s/jn95w0/edn_c_fast_zero_copy_edn_extensible_data"
+    ],
+    [
+      "edn.c: A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration",
+      "https://github.com/DotFox/edn.c"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 09:38:48",
       "https://lobste.rs/s/fjf1eh/fifty_shades_oop"
     ],
@@ -67,6 +77,16 @@
     [
       "An open-source photo editor & digital compositor for the web",
       "https://mint.photo/"
+    ]
+  ],
+  [
+    [
+      "2025-11-23, 22:46:29",
+      "https://lobste.rs/s/ro8wgi/libfive_software_library_set_tools_for"
+    ],
+    [
+      "libfive: a software library and set of tools for solid modeling",
+      "https://libfive.com/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-11-23, 09:38:03",
-      "https://lobste.rs/s/drfh9p/parallel_threads_racket_v9_0"
-    ],
-    [
-      "Parallel Threads in Racket v9.0",
-      "https://blog.racket-lang.org/2025/11/parallel-threads.html"
-    ]
-  ],
-  [
-    [
       "2025-11-23, 09:10:58",
       "https://lobste.rs/s/mzpgdh/svalboard_datahand_forever"
     ],
@@ -207,16 +217,6 @@
     [
       "trifold is a tool to quickly & cheaply host static websites using a CDN",
       "https://jpt.sh/projects/trifold/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 03:15:12",
-      "https://lobste.rs/s/risea0/satisfies_is_my_favorite_typescript"
-    ],
-    [
-      "`satisfies` is my favorite TypeScript keyword",
-      "https://sjer.red/blog/2024-12-21/"
     ]
   ],
   [
