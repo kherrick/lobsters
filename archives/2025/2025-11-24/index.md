@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-11-24](index.md)
+
+* [2025-11-24, 01:57:44](https://lobste.rs/s/gw5yp3/open_source_photo_editor_digital) - [An open-source photo editor & digital compositor for the web](https://mint.photo/)
