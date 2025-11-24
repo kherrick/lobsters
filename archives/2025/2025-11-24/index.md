@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 17:00:21](https://lobste.rs/s/gp0ygz/shai_hulud_strikes_again) - [Shai Hulud Strikes Again](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
 * [2025-11-24, 16:48:36](https://lobste.rs/s/we5abg/on_modelling_agent_systems_with_erlang) - [On Modelling Agent Systems with Erlang (2004)](https://erlang.org/workshop/2004/carlosvarela.pdf)
 * [2025-11-24, 16:08:27](https://lobste.rs/s/dpqpah/amper_update_november_2025) - [Amper Update, November 2025 – Extensibility Preview](https://blog.jetbrains.com/amper/2025/11/amper-update-november-2025/)
 * [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
