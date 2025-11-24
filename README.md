@@ -2,7 +2,6 @@
 
 * [2025-11-24, 19:23:35](https://lobste.rs/s/t66357/how_do_we_keep_apps_maintained_on_flathub) - [How do we keep apps maintained on Flathub? (or building a more respectful App Store)](https://tim.siosm.fr/blog/2025/11/24/building-better-app-store-flathub/)
 * [2025-11-24, 18:24:03](https://lobste.rs/s/z2uql6/powerset_s_natural_language_search) - [Powerset’s natural language search system (2012)](http://brenocon.com/blog/2012/10/powersets-natural-language-search-system/)
-* [2025-11-24, 18:23:11](https://lobste.rs/s/luanuy/we_deleted_our_dockerfiles_better_faster) - [We deleted our Dockerfiles: a better, faster way to build container images](https://www.rwx.com/blog/we-deleted-our-dockerfiles)
 * [2025-11-24, 16:17:35](https://lobste.rs/s/lpvmll/misunderstanding_dependency_comic) - [Misunderstanding that “Dependency” comic](https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html)
 * [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
 * [2025-11-24, 15:16:26](https://lobste.rs/s/ta9886/open_source_has_too_many_parasocial) - [Open Source Has Too Many Parasocial Relationships](https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/)
@@ -18,6 +17,7 @@
 * [2025-11-24, 07:22:38](https://lobste.rs/s/5wybjs/making_case_cargo_features_could_be) - [Making the case that Cargo features could be improved to alleviate Rust compile times](https://saghm.com/cargo-features-rust-compile-times/)
 * [2025-11-24, 07:15:56](https://lobste.rs/s/9gx2ig/build_compiler_five_projects) - [Build a Compiler in Five Projects](https://kmicinski.com/functional-programming/2025/11/23/build-a-language/)
 * [2025-11-24, 04:10:33](https://lobste.rs/s/htdedi/with_love_kde_take_moment) - [With Love to KDE: Take a Moment](https://korcenji.neocities.org/Writings/KDE-Take-A-Moment)
+* [2025-11-24, 01:57:44](https://lobste.rs/s/gw5yp3/open_source_photo_editor_digital) - [An open-source photo editor & digital compositor for the web](https://mint.photo/)
 * [2025-11-23, 20:49:16](https://lobste.rs/s/aqefyy/cad_new_open_source_programming_language) - [µcad: New open source programming language that can generate 2D sketches and 3D objects](https://microcad.xyz)
 * [2025-11-23, 20:46:07](https://lobste.rs/s/xxq1kw/ntoh_hton_is_bad_api) - [ntoh*/hton* is a bad API](https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/)
 * [2025-11-23, 20:26:22](https://lobste.rs/s/a8fm0p/why_zig_qt_feels_like_doing_impossible) - [Why Zig + Qt Feels Like Doing the Impossible Right](https://dayvster.com/blog/why-zig-+-qt-feels-like-doing-the-impossible-right/)
