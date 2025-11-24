@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-11-24, 16:48:36",
-      "https://lobste.rs/s/we5abg/on_modelling_agent_systems_with_erlang"
+      "2025-11-24, 18:24:03",
+      "https://lobste.rs/s/z2uql6/powerset_s_natural_language_search"
     ],
     [
-      "On Modelling Agent Systems with Erlang (2004)",
-      "https://erlang.org/workshop/2004/carlosvarela.pdf"
+      "Powerset’s natural language search system (2012)",
+      "http://brenocon.com/blog/2012/10/powersets-natural-language-search-system/"
+    ]
+  ],
+  [
+    [
+      "2025-11-24, 18:23:11",
+      "https://lobste.rs/s/luanuy/we_deleted_our_dockerfiles_better_faster"
+    ],
+    [
+      "We deleted our Dockerfiles: a better, faster way to build container images",
+      "https://www.rwx.com/blog/we-deleted-our-dockerfiles"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "trifold is a tool to quickly & cheaply host static websites using a CDN",
       "https://jpt.sh/projects/trifold/"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 01:22:25",
-      "https://lobste.rs/s/s5kub7/dingo_meta_language_for_go"
-    ],
-    [
-      "dingo: A meta-language for Go",
-      "https://github.com/MadAppGang/dingo"
     ]
   ]
 ]
