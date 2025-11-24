@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-24, 09:38:48",
+      "https://lobste.rs/s/fjf1eh/fifty_shades_oop"
+    ],
+    [
+      "Fifty Shades of OOP",
+      "https://lesleylai.info/en/fifty_shades_of_oop/"
+    ]
+  ],
+  [
+    [
       "2025-11-24, 09:27:56",
       "https://lobste.rs/s/hcjaj0/why_i_still_love_linux"
     ],
@@ -237,16 +247,6 @@
     [
       "dingo: A meta-language for Go",
       "https://github.com/MadAppGang/dingo"
-    ]
-  ],
-  [
-    [
-      "2025-11-22, 18:42:53",
-      "https://lobste.rs/s/fid6eb/host_website_from_old_phone_using"
-    ],
-    [
-      "Host a website from an old phone using postmarketOS",
-      "https://far.computer/how-to/"
     ]
   ]
 ]
