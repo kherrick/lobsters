@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-24](index.md)
 
+* [2025-11-24, 18:24:03](https://lobste.rs/s/z2uql6/powerset_s_natural_language_search) - [Powerset’s natural language search system (2012)](http://brenocon.com/blog/2012/10/powersets-natural-language-search-system/)
+* [2025-11-24, 18:23:11](https://lobste.rs/s/luanuy/we_deleted_our_dockerfiles_better_faster) - [We deleted our Dockerfiles: a better, faster way to build container images](https://www.rwx.com/blog/we-deleted-our-dockerfiles)
 * [2025-11-24, 17:00:21](https://lobste.rs/s/gp0ygz/shai_hulud_strikes_again) - [Shai Hulud Strikes Again](https://www.aikido.dev/blog/shai-hulud-strikes-again-hitting-zapier-ensdomains)
 * [2025-11-24, 16:48:36](https://lobste.rs/s/we5abg/on_modelling_agent_systems_with_erlang) - [On Modelling Agent Systems with Erlang (2004)](https://erlang.org/workshop/2004/carlosvarela.pdf)
 * [2025-11-24, 16:17:35](https://lobste.rs/s/lpvmll/misunderstanding_dependency_comic) - [Misunderstanding that “Dependency” comic](https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html)
