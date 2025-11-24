@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-24, 16:08:27](https://lobste.rs/s/dpqpah/amper_update_november_2025) - [Amper Update, November 2025 – Extensibility Preview](https://blog.jetbrains.com/amper/2025/11/amper-update-november-2025/)
 * [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
 * [2025-11-24, 13:20:39](https://lobste.rs/s/zjxjhc/automating_updates_digital_vigil) - [Automating updates to a digital vigil](https://ntietz.com/blog/automating-updates-to-a-digital-vigil/)
 * [2025-11-24, 11:44:46](https://lobste.rs/s/vpybud/i_put_search_engine_into_lambda_so_you_only) - [I put a search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
@@ -20,7 +21,6 @@
 * [2025-11-23, 17:33:36](https://lobste.rs/s/gae4dh/we_stopped_roadmap_work_for_week_fixed_189) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-23, 13:32:45](https://lobste.rs/s/1nop48/google_revisits_jpeg_xl_chromium_after) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
 * [2025-11-23, 12:19:52](https://lobste.rs/s/mzuktr/what_does_agpl_require) - [What does the AGPL require?](https://runxiyu.org/blog/agpl/)
-* [2025-11-23, 12:06:25](https://lobste.rs/s/lfujpz/how_deep_is_challenger_deep) - [How Deep is Challenger Deep?](https://storymaps.arcgis.com/stories/0d389600f3464e3185a84c199f04e859)
 * [2025-11-23, 09:10:58](https://lobste.rs/s/mzpgdh/svalboard_datahand_forever) - [Svalboard - Datahand forever](https://svalboard.com/)
 * [2025-11-23, 05:28:58](https://lobste.rs/s/4lidxn/trifold_is_tool_quickly_cheaply_host) - [trifold is a tool to quickly & cheaply host static websites using a CDN](https://jpt.sh/projects/trifold/)
 * [2025-11-23, 02:54:26](https://lobste.rs/s/pzcjsl/enough_with_all_raft) - [Enough With All The Raft](https://transactional.blog/talk/enough-with-all-the-raft)
