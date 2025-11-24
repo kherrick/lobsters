@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-24, 22:38:08](https://lobste.rs/s/0frbqq/this_development_cycle_cargo_1_92) - [This Development-cycle in Cargo: 1.92](https://blog.rust-lang.org/inside-rust/2025/11/24/this-development-cycle-in-cargo-1.92/)
 * [2025-11-24, 20:07:34](https://lobste.rs/s/jgczrj/counter_galois_onion_improved) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
-* [2025-11-24, 20:01:20](https://lobste.rs/s/alor5k/is_latex_worth_it_2023) - [Is LaTeX worth it? (2023)](https://philipphagenlocher.de/post/is-latex-worth-it/)
+* [2025-11-24, 19:23:35](https://lobste.rs/s/t66357/how_do_we_keep_apps_maintained_on_flathub) - [How do we keep apps maintained on Flathub? (or building a more respectful App Store)](https://tim.siosm.fr/blog/2025/11/24/building-better-app-store-flathub/)
 * [2025-11-24, 16:48:36](https://lobste.rs/s/we5abg/on_modelling_agent_systems_with_erlang) - [On Modelling Agent Systems with Erlang (2004)](https://erlang.org/workshop/2004/carlosvarela.pdf)
 * [2025-11-24, 16:17:35](https://lobste.rs/s/lpvmll/misunderstanding_dependency_comic) - [Misunderstanding that “Dependency” comic](https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html)
 * [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
@@ -24,7 +25,6 @@
 * [2025-11-23, 17:33:36](https://lobste.rs/s/gae4dh/we_stopped_roadmap_work_for_week_fixed_189) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 * [2025-11-23, 13:32:45](https://lobste.rs/s/1nop48/google_revisits_jpeg_xl_chromium_after) - [Google Revisits JPEG XL in Chromium After Earlier Removal](https://windowsreport.com/google-revisits-jpeg-xl-in-chromium-after-earlier-removal/)
 * [2025-11-23, 12:19:52](https://lobste.rs/s/mzuktr/what_does_agpl_require) - [What does the AGPL require?](https://runxiyu.org/blog/agpl/)
-* [2025-11-23, 05:28:58](https://lobste.rs/s/4lidxn/trifold_is_tool_quickly_cheaply_host) - [trifold is a tool to quickly & cheaply host static websites using a CDN](https://jpt.sh/projects/trifold/)
 
 ## [Archives](archives/index.md)
 
