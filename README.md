@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
 * [2025-11-25, 16:13:54](https://lobste.rs/s/90inaz/orion_1_0) - [Orion 1.0](https://blog.kagi.com/orion)
 * [2025-11-25, 15:36:50](https://lobste.rs/s/al5oib/all_is_solid_melts_into_code) - [All that is solid melts into code](https://www.robinsloan.com/lab/all-that-is-solid/)
 * [2025-11-25, 15:08:07](https://lobste.rs/s/6on99e/event_design_for_streaming_systems) - [Event Design for Streaming Systems: A Primer](https://www.iankduncan.com/engineering/2025-11-14-event-design-for-streaming-systems)
@@ -24,7 +25,6 @@
 * [2025-11-24, 09:50:20](https://lobste.rs/s/jn95w0/edn_c_fast_zero_copy_edn_extensible_data) - [edn.c: A fast, zero-copy EDN (Extensible Data Notation) reader written in C11 with SIMD acceleration](https://github.com/DotFox/edn.c)
 * [2025-11-24, 09:38:48](https://lobste.rs/s/fjf1eh/fifty_shades_oop) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
 * [2025-11-24, 09:27:56](https://lobste.rs/s/hcjaj0/why_i_still_love_linux) - [Why I (still) love Linux](https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/)
-* [2025-11-24, 09:24:08](https://lobste.rs/s/rdezfn/does_dioxus_spark_joy) - [Does Dioxus spark joy?](https://fasterthanli.me/articles/does-dioxus-spark-joy)
 
 ## [Archives](archives/index.md)
 
