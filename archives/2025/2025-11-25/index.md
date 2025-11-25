@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 06:56:01](https://lobste.rs/s/bxggw5/case_against_oop_is_understated_not) - [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
 * [2025-11-25, 06:32:57](https://lobste.rs/s/w05xid/world_s_most_stable_raspberry_pi_81_better) - [World's Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 05:25:56](https://lobste.rs/s/kohapx/jeff_dean_on_important_ai_trends) - [Jeff Dean on Important AI Trends](https://www.youtube.com/watch?v=AnTw_t21ayE)
 * [2025-11-25, 05:17:10](https://lobste.rs/s/p9umds/memories_us) - [memories of .us](https://computer.rip/2025-11-11-dot-us.html)
