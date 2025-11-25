@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 09:31:45](https://lobste.rs/s/hzvyyv/lambda_papers_transcribed) - [The Lambda Papers (transcribed)](https://research.scheme.org/)
 * [2025-11-25, 09:02:48](https://lobste.rs/s/lce1ks/quick_tutorial_get_started_on_org_social) - [Quick tutorial to get started on Org Social](https://en.andros.dev/blog/ddd78757/quick-tutorial-to-get-started-on-org-social/)
 * [2025-11-25, 07:58:27](https://lobste.rs/s/d4dvnk/emacs_for_code_editing) - [emacs for code editing](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
 * [2025-11-25, 07:52:56](https://lobste.rs/s/44ysji/nsa_ietf_part_3_dodging_issues_at_hand_djb) - [NSA and IETF, part 3: Dodging the issues at hand. (djb)](https://blog.cr.yp.to/20251123-dodging.html)

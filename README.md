@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-25, 09:31:45](https://lobste.rs/s/hzvyyv/lambda_papers_transcribed) - [The Lambda Papers (transcribed)](https://research.scheme.org/)
 * [2025-11-25, 09:02:48](https://lobste.rs/s/lce1ks/quick_tutorial_get_started_on_org_social) - [Quick tutorial to get started on Org Social](https://en.andros.dev/blog/ddd78757/quick-tutorial-to-get-started-on-org-social/)
 * [2025-11-25, 07:58:27](https://lobste.rs/s/d4dvnk/emacs_for_code_editing) - [emacs for code editing](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
 * [2025-11-25, 07:52:56](https://lobste.rs/s/44ysji/nsa_ietf_part_3_dodging_issues_at_hand) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
@@ -13,7 +14,6 @@
 * [2025-11-24, 20:07:34](https://lobste.rs/s/jgczrj/counter_galois_onion_improved) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
 * [2025-11-24, 20:01:20](https://lobste.rs/s/alor5k/is_latex_worth_it_2023) - [Is LaTeX worth it? (2023)](https://philipphagenlocher.de/post/is-latex-worth-it/)
 * [2025-11-24, 15:16:26](https://lobste.rs/s/ta9886/open_source_has_too_many_parasocial) - [Open Source Has Too Many Parasocial Relationships](https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/)
-* [2025-11-24, 11:44:46](https://lobste.rs/s/vpybud/i_put_search_engine_into_lambda_so_you_only) - [I put a search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
 * [2025-11-24, 11:04:26](https://lobste.rs/s/od61og/shai_hulud_returns_over_300_npm_packages) - [Shai-Hulud Returns: Over 300 NPM Packages infected via Fake Bun Runtime Within Hours](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
 * [2025-11-24, 10:10:21](https://lobste.rs/s/x5f9en/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/x5f9en/what_are_you_doing_this_week)
 * [2025-11-24, 10:04:16](https://lobste.rs/s/ttsydj/alice_new_build_system_for_ocaml) - [Alice - new build system for Ocaml](https://www.alicecaml.org/)
