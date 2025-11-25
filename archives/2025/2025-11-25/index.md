@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 09:02:48](https://lobste.rs/s/lce1ks/quick_tutorial_get_started_on_org_social) - [Quick tutorial to get started on Org Social](https://en.andros.dev/blog/ddd78757/quick-tutorial-to-get-started-on-org-social/)
 * [2025-11-25, 07:58:27](https://lobste.rs/s/d4dvnk/emacs_for_code_editing) - [emacs for code editing](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
 * [2025-11-25, 07:52:56](https://lobste.rs/s/44ysji/nsa_ietf_part_3_dodging_issues_at_hand_djb) - [NSA and IETF, part 3: Dodging the issues at hand. (djb)](https://blog.cr.yp.to/20251123-dodging.html)
+* [2025-11-25, 07:52:56](https://lobste.rs/s/44ysji/nsa_ietf_part_3_dodging_issues_at_hand) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-25, 06:56:01](https://lobste.rs/s/bxggw5/case_against_oop_is_understated_not) - [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
 * [2025-11-25, 06:32:57](https://lobste.rs/s/w05xid/world_s_most_stable_raspberry_pi_81_better) - [World's Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 05:25:56](https://lobste.rs/s/kohapx/jeff_dean_on_important_ai_trends) - [Jeff Dean on Important AI Trends](https://www.youtube.com/watch?v=AnTw_t21ayE)
