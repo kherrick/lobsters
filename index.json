@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-11-25, 14:26:14",
+      "https://lobste.rs/s/pcv94o/what_does_it_mean_be_massively_against_ai"
+    ],
+    [
+      "What does it mean to be massively against AI?",
+      "https://pythonbynight.com/blog/massively-against-ai"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 14:16:22",
+      "https://lobste.rs/s/jcjp34/apt_rust_requirement_raises_questions"
+    ],
+    [
+      "APT Rust requirement raises questions",
+      "https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/"
+    ]
+  ],
+  [
+    [
+      "2025-11-25, 14:03:08",
+      "https://lobste.rs/s/occlzx/constant_time_support_lands_llvm"
+    ],
+    [
+      "Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level",
+      "https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/"
+    ]
+  ],
+  [
+    [
       "2025-11-25, 12:18:19",
       "https://lobste.rs/s/6zjgo7/hp_dell_disable_hevc_support_built_into"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-11-24, 10:10:21",
-      "https://lobste.rs/s/x5f9en/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/x5f9en/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2025-11-24, 10:04:16",
       "https://lobste.rs/s/ttsydj/alice_new_build_system_for_ocaml"
     ],
@@ -217,26 +237,6 @@
     [
       "Build a Compiler in Five Projects",
       "https://kmicinski.com/functional-programming/2025/11/23/build-a-language/"
-    ]
-  ],
-  [
-    [
-      "2025-11-24, 04:10:33",
-      "https://lobste.rs/s/htdedi/with_love_kde_take_moment"
-    ],
-    [
-      "With Love to KDE: Take a Moment",
-      "https://korcenji.neocities.org/Writings/KDE-Take-A-Moment"
-    ]
-  ],
-  [
-    [
-      "2025-11-23, 20:46:07",
-      "https://lobste.rs/s/xxq1kw/ntoh_hton_is_bad_api"
-    ],
-    [
-      "ntoh*/hton* is a bad API",
-      "https://purplesyringa.moe/blog/ntoh-hton-is-a-bad-api/"
     ]
   ],
   [
