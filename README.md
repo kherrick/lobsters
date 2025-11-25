@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-25, 17:47:05](https://lobste.rs/s/8inolx/we_rewrote_our_startup_from_php_gleam_3) - [We Rewrote Our Startup from PHP to Gleam in 3 Weeks](https://www.radical-elements.com/minor-epiphanies/we-rewrote-our-startup-from-php-to-gleam-in-3-weeks)
 * [2025-11-25, 17:16:15](https://lobste.rs/s/gbjsmn/how_draw_high_fidelity_graphics_when_all) - [How to draw high fidelity graphics when all you have is an x and y coordinate](https://www.makingsoftware.com/chapters/shaders)
 * [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
 * [2025-11-25, 16:13:54](https://lobste.rs/s/90inaz/orion_1_0) - [Orion 1.0](https://blog.kagi.com/orion)
-* [2025-11-25, 15:08:07](https://lobste.rs/s/6on99e/event_design_for_streaming_systems) - [Event Design for Streaming Systems: A Primer](https://www.iankduncan.com/engineering/2025-11-14-event-design-for-streaming-systems)
 * [2025-11-25, 15:01:35](https://lobste.rs/s/emcfyi/optique_0_7_0_smarter_error_messages) - [Optique 0.7.0: Smarter error messages and validation library integrations](https://hackers.pub/@hongminhee/2025/optique-070)
 * [2025-11-25, 14:57:45](https://lobste.rs/s/2zlrjv/ai_smells_on_medium) - [AI Smells on Medium](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
 * [2025-11-25, 14:42:27](https://lobste.rs/s/qzrous/promise_p_graphs) - [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html)
