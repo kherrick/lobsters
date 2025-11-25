@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-25](index.md)
 
+* [2025-11-25, 14:26:14](https://lobste.rs/s/pcv94o/what_does_it_mean_be_massively_against_ai) - [What does it mean to be massively against AI?](https://pythonbynight.com/blog/massively-against-ai)
+* [2025-11-25, 14:16:22](https://lobste.rs/s/jcjp34/apt_rust_requirement_raises_questions) - [APT Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
+* [2025-11-25, 14:03:08](https://lobste.rs/s/occlzx/constant_time_support_lands_llvm) - [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
 * [2025-11-25, 12:18:19](https://lobste.rs/s/6zjgo7/hp_dell_disable_hevc_support_built_into) - [HP and Dell disable HEVC support built into their laptops’ CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
 * [2025-11-25, 11:36:07](https://lobste.rs/s/solqpi/how_good_are_chinese_cpus_benchmarking) - [How good are Chinese CPUs? Benchmarking the Loongson 3A6000](https://lemire.me/blog/2025/11/23/how-good-are-chinese-cpus-benchmarking-the-loongson-3a6000/)
 * [2025-11-25, 09:31:45](https://lobste.rs/s/hzvyyv/lambda_papers_transcribed) - [The Lambda Papers (transcribed)](https://research.scheme.org/)
