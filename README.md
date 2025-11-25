@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-25, 17:16:15](https://lobste.rs/s/gbjsmn/how_draw_high_fidelity_graphics_when_all) - [How to draw high fidelity graphics when all you have is an x and y coordinate](https://www.makingsoftware.com/chapters/shaders)
 * [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
+* [2025-11-25, 16:39:23](https://lobste.rs/s/igvnnq/stop_telling_us_xmpp_should_use_json) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
 * [2025-11-25, 16:13:54](https://lobste.rs/s/90inaz/orion_1_0) - [Orion 1.0](https://blog.kagi.com/orion)
-* [2025-11-25, 15:36:50](https://lobste.rs/s/al5oib/all_is_solid_melts_into_code) - [All that is solid melts into code](https://www.robinsloan.com/lab/all-that-is-solid/)
 * [2025-11-25, 15:08:07](https://lobste.rs/s/6on99e/event_design_for_streaming_systems) - [Event Design for Streaming Systems: A Primer](https://www.iankduncan.com/engineering/2025-11-14-event-design-for-streaming-systems)
 * [2025-11-25, 15:01:35](https://lobste.rs/s/emcfyi/optique_0_7_0_smarter_error_messages) - [Optique 0.7.0: Smarter error messages and validation library integrations](https://hackers.pub/@hongminhee/2025/optique-070)
 * [2025-11-25, 14:57:45](https://lobste.rs/s/2zlrjv/ai_smells_on_medium) - [AI Smells on Medium](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
@@ -18,7 +19,6 @@
 * [2025-11-25, 07:52:56](https://lobste.rs/s/44ysji/nsa_ietf_part_3_dodging_issues_at_hand) - [NSA and IETF, part 3: Dodging the issues at hand](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-25, 06:32:57](https://lobste.rs/s/w05xid/world_s_most_stable_raspberry_pi_81_better) - [World's Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 05:17:10](https://lobste.rs/s/p9umds/memories_us) - [memories of .us](https://computer.rip/2025-11-11-dot-us.html)
-* [2025-11-25, 02:08:11](https://lobste.rs/s/jrccc5/hyperoptic_ipv6_out_order_packets) - [Hyperoptic: IPv6 and Out-of-Order Packets](https://blog.zakkemble.net/hyperoptic-ipv6-and-out-of-order-packets/)
 * [2025-11-24, 23:19:06](https://lobste.rs/s/rl1r8m/rubee) - [RuBee](https://computer.rip/2025-11-22-RuBee.html)
 * [2025-11-24, 20:01:20](https://lobste.rs/s/alor5k/is_latex_worth_it_2023) - [Is LaTeX worth it? (2023)](https://philipphagenlocher.de/post/is-latex-worth-it/)
 * [2025-11-24, 11:04:26](https://lobste.rs/s/od61og/shai_hulud_returns_over_300_npm_packages) - [Shai-Hulud Returns: Over 300 NPM Packages infected via Fake Bun Runtime Within Hours](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
