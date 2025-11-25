@@ -7,6 +7,7 @@
 * [2025-11-25, 14:57:45](https://lobste.rs/s/2zlrjv/ai_smells_on_medium) - [AI Smells on Medium](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
 * [2025-11-25, 14:42:27](https://lobste.rs/s/qzrous/promise_p_graphs) - [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html)
 * [2025-11-25, 14:39:51](https://lobste.rs/s/jgzpxs/towards_pen_paper_style_equational) - [Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation](https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf)
+* [2025-11-25, 14:26:14](https://lobste.rs/s/pcv94o/what_does_it_mean_be_massively_against_ai) - [What does it mean to be massively against AI?](https://pythonbynight.com/blog/massively-against-ai)
 * [2025-11-25, 14:16:22](https://lobste.rs/s/jcjp34/apt_rust_requirement_raises_questions) - [APT Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
 * [2025-11-25, 14:03:08](https://lobste.rs/s/occlzx/constant_time_support_lands_llvm) - [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
 * [2025-11-25, 12:18:19](https://lobste.rs/s/6zjgo7/hp_dell_disable_hevc_support_built_into) - [HP and Dell disable HEVC support built into their laptops’ CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
@@ -24,7 +25,6 @@
 * [2025-11-24, 09:38:48](https://lobste.rs/s/fjf1eh/fifty_shades_oop) - [Fifty Shades of OOP](https://lesleylai.info/en/fifty_shades_of_oop/)
 * [2025-11-24, 09:27:56](https://lobste.rs/s/hcjaj0/why_i_still_love_linux) - [Why I (still) love Linux](https://it-notes.dragas.net/2025/11/24/why-i-still-love-linux/)
 * [2025-11-24, 09:24:08](https://lobste.rs/s/rdezfn/does_dioxus_spark_joy) - [Does Dioxus spark joy?](https://fasterthanli.me/articles/does-dioxus-spark-joy)
-* [2025-11-23, 17:33:36](https://lobste.rs/s/gae4dh/we_stopped_roadmap_work_for_week_fixed_189) - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 
 ## [Archives](archives/index.md)
 
