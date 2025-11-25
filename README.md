@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-25, 07:58:27](https://lobste.rs/s/d4dvnk/emacs_for_code_editing) - [emacs for code editing](https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html)
+* [2025-11-25, 07:52:56](https://lobste.rs/s/44ysji/nsa_ietf_part_3_dodging_issues_at_hand_djb) - [NSA and IETF, part 3: Dodging the issues at hand. (djb)](https://blog.cr.yp.to/20251123-dodging.html)
 * [2025-11-25, 06:56:01](https://lobste.rs/s/bxggw5/case_against_oop_is_understated_not) - [Case against OOP is understated, not overstated (2020)](https://boxbase.org/entries/2020/aug/3/case-against-oop/)
 * [2025-11-25, 06:32:57](https://lobste.rs/s/w05xid/world_s_most_stable_raspberry_pi_81_better) - [World's Most Stable Raspberry Pi? 81% Better NTP with Thermal Management](https://austinsnerdythings.com/2025/11/24/worlds-most-stable-raspberry-pi-81-better-ntp-with-thermal-management/)
 * [2025-11-25, 05:25:56](https://lobste.rs/s/kohapx/jeff_dean_on_important_ai_trends) - [Jeff Dean on Important AI Trends](https://www.youtube.com/watch?v=AnTw_t21ayE)
@@ -10,8 +12,6 @@
 * [2025-11-24, 22:38:08](https://lobste.rs/s/0frbqq/this_development_cycle_cargo_1_92) - [This Development-cycle in Cargo: 1.92](https://blog.rust-lang.org/inside-rust/2025/11/24/this-development-cycle-in-cargo-1.92/)
 * [2025-11-24, 20:07:34](https://lobste.rs/s/jgczrj/counter_galois_onion_improved) - [Counter Galois Onion: Improved encryption for Tor circuit traffic](https://blog.torproject.org/introducing-cgo/)
 * [2025-11-24, 20:01:20](https://lobste.rs/s/alor5k/is_latex_worth_it_2023) - [Is LaTeX worth it? (2023)](https://philipphagenlocher.de/post/is-latex-worth-it/)
-* [2025-11-24, 16:17:35](https://lobste.rs/s/lpvmll/misunderstanding_dependency_comic) - [Misunderstanding that “Dependency” comic](https://bertptrs.nl/2025/11/24/misunderstanding-that-dependency-comic.html)
-* [2025-11-24, 15:38:04](https://lobste.rs/s/w2xqrd/demystifying_determinism_durable) - [Demystifying Determinism in Durable Execution](https://jack-vanlightly.com/blog/2025/11/24/demystifying-determinism-in-durable-execution)
 * [2025-11-24, 15:16:26](https://lobste.rs/s/ta9886/open_source_has_too_many_parasocial) - [Open Source Has Too Many Parasocial Relationships](https://pivotnine.com/blog/open-source-has-too-many-parasocial-relationships/)
 * [2025-11-24, 11:44:46](https://lobste.rs/s/vpybud/i_put_search_engine_into_lambda_so_you_only) - [I put a search engine into a Lambda, so you only pay when you search](https://nixiesearch.substack.com/p/i-put-a-real-search-engine-into-a)
 * [2025-11-24, 11:04:26](https://lobste.rs/s/od61og/shai_hulud_returns_over_300_npm_packages) - [Shai-Hulud Returns: Over 300 NPM Packages infected via Fake Bun Runtime Within Hours](https://helixguard.ai/blog/malicious-sha1hulud-2025-11-24)
