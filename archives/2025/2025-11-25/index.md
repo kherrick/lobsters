@@ -10,6 +10,7 @@
 * [2025-11-25, 17:16:15](https://lobste.rs/s/gbjsmn/how_draw_high_fidelity_graphics_when_all) - [How to draw high fidelity graphics when all you have is an x and y coordinate](https://www.makingsoftware.com/chapters/shaders)
 * [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
 * [2025-11-25, 16:39:23](https://lobste.rs/s/igvnnq/stop_telling_us_xmpp_should_use_json) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
+* [2025-11-25, 16:17:55](https://lobste.rs/s/qfsjp9/mobile_browsers_see_telephone_numbers) - [Mobile browsers see telephone numbers everywhere](https://sethmlarson.dev/mobile-browsers-and-telephone-numbers)
 * [2025-11-25, 16:13:54](https://lobste.rs/s/90inaz/orion_1_0) - [Orion 1.0](https://blog.kagi.com/orion)
 * [2025-11-25, 15:36:50](https://lobste.rs/s/al5oib/all_is_solid_melts_into_code) - [All that is solid melts into code](https://www.robinsloan.com/lab/all-that-is-solid/)
 * [2025-11-25, 15:12:03](https://lobste.rs/s/zyd13m/building_simple_search_engine_actually) - [Building a Simple Search Engine That Actually Works](https://karboosx.net/post/4eZxhBon/building-a-simple-search-engine-that-actually-works)
