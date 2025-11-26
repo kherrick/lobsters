@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 15:59:00",
+      "https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem"
+    ],
+    [
+      "llmfuse: a self-compressing filesystem backed by an LLM",
+      "https://grohan.co/2025/11/25/llmfuse/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 14:53:14",
       "https://lobste.rs/s/yxrkzt/solving_partridge_packing_problem_using"
     ],
@@ -107,16 +117,6 @@
     [
       "Super fast aggregations in PostgreSQL 19",
       "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 02:09:34",
-      "https://lobste.rs/s/q5vjlh/is_this_coregraphics_framework_bug_macos"
-    ],
-    [
-      "Is this a CoreGraphics Framework Bug in macOS Tahoe?",
-      "https://lgug2z.com/articles/is-this-a-coregraphics-framework-bug-in-macos-tahoe/"
     ]
   ],
   [
