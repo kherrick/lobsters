@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-26, 04:13:17](https://lobste.rs/s/whs2zv/super_fast_aggregations_postgresql_19) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
 * [2025-11-26, 02:09:34](https://lobste.rs/s/q5vjlh/is_this_coregraphics_framework_bug_macos) - [Is this a CoreGraphics Framework Bug in macOS Tahoe?](https://lgug2z.com/articles/is-this-a-coregraphics-framework-bug-in-macos-tahoe/)
 * [2025-11-26, 00:27:49](https://lobste.rs/s/vvy1o7/what_they_don_t_tell_you_about_maintaining) - [What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
 * [2025-11-25, 22:30:24](https://lobste.rs/s/tt7izg/stop_hacklore_open_letter) - [Stop Hacklore - An Open Letter](https://www.hacklore.org/letter)
@@ -15,7 +16,6 @@
 * [2025-11-25, 16:13:54](https://lobste.rs/s/90inaz/orion_1_0) - [Orion 1.0](https://blog.kagi.com/orion)
 * [2025-11-25, 14:57:45](https://lobste.rs/s/2zlrjv/ai_smells_on_medium) - [AI Smells on Medium](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
 * [2025-11-25, 14:42:27](https://lobste.rs/s/qzrous/promise_p_graphs) - [The Promise of P-Graphs](https://pavpanchekha.com/blog/p-graphs.html)
-* [2025-11-25, 14:39:51](https://lobste.rs/s/jgzpxs/towards_pen_paper_style_equational) - [Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation](https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf)
 * [2025-11-25, 14:26:14](https://lobste.rs/s/pcv94o/what_does_it_mean_be_massively_against_ai) - [What does it mean to be massively against AI?](https://pythonbynight.com/blog/massively-against-ai)
 * [2025-11-25, 14:16:22](https://lobste.rs/s/jcjp34/apt_rust_requirement_raises_questions) - [APT Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
 * [2025-11-25, 14:03:08](https://lobste.rs/s/occlzx/constant_time_support_lands_llvm) - [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
