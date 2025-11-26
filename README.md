@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-26, 17:28:47](https://lobste.rs/s/9m2esh/s_box_now_open_source) - [s&box now open source](https://github.com/Facepunch/sbox-public)
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:53:14](https://lobste.rs/s/yxrkzt/solving_partridge_packing_problem_using) - [Solving the Partridge Packing Problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 14:40:46](https://lobste.rs/s/h56bfm/how_get_hired_2025) - [How to get hired in 2025](https://tonsky.me/blog/hiring-ai/)
@@ -24,7 +25,6 @@
 * [2025-11-25, 14:57:45](https://lobste.rs/s/2zlrjv/ai_smells_on_medium) - [AI Smells on Medium](https://rmoff.net/2025/11/25/ai-smells-on-medium/)
 * [2025-11-25, 14:16:22](https://lobste.rs/s/jcjp34/apt_rust_requirement_raises_questions) - [APT Rust requirement raises questions](https://lwn.net/SubscriberLink/1046841/5bbf1fc049a18947/)
 * [2025-11-25, 14:03:08](https://lobste.rs/s/occlzx/constant_time_support_lands_llvm) - [Constant-time support lands in LLVM: Protecting cryptographic code at the compiler level](https://blog.trailofbits.com/2025/11/25/constant-time-support-lands-in-llvm-protecting-cryptographic-code-at-the-compiler-level/)
-* [2025-11-25, 12:18:19](https://lobste.rs/s/6zjgo7/hp_dell_disable_hevc_support_built_into) - [HP and Dell disable HEVC support built into their laptops’ CPUs](https://arstechnica.com/gadgets/2025/11/hp-and-dell-disable-hevc-support-built-into-their-laptops-cpus/)
 
 ## [Archives](archives/index.md)
 
