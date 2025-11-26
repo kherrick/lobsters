@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-26, 13:51:07",
+      "https://lobste.rs/s/ilnv7s/building_64_bit_os_from_scratch_with"
+    ],
+    [
+      "Building a 64-bit OS from Scratch with Claude Code",
+      "https://isene.org/2025/11/SimplicityOS.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-26, 13:26:13",
+      "https://lobste.rs/s/ru1n6p/why_strong_consistency"
+    ],
+    [
+      "Why Strong Consistency?",
+      "https://brooker.co.za/blog/2025/11/18/consistency.html"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 12:49:37",
       "https://lobste.rs/s/yycuct/go_proposal_goroutine_metrics"
     ],
@@ -17,16 +37,6 @@
     [
       "Agentic Pelican on a Bicycle: Claude Opus 4.5",
       "https://www.robert-glaser.de/agentic-pelican-on-a-bicycle-claude-opus-4-5/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 12:03:20",
-      "https://lobste.rs/s/3kp1vt/url_c_puzzle"
-    ],
-    [
-      "URL in C Puzzle",
-      "https://susam.net/url-in-c.html"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "We Rewrote Our Startup from PHP to Gleam in 3 Weeks",
       "https://www.radical-elements.com/minor-epiphanies/we-rewrote-our-startup-from-php-to-gleam-in-3-weeks"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 17:16:15",
-      "https://lobste.rs/s/gbjsmn/how_draw_high_fidelity_graphics_when_all"
-    ],
-    [
-      "How to draw high fidelity graphics when all you have is an x and y coordinate",
-      "https://www.makingsoftware.com/chapters/shaders"
     ]
   ],
   [
