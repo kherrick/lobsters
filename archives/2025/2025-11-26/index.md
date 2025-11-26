@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 19:13:07](https://lobste.rs/s/p5k6aa/fail2ban_rce) - [fail2ban RCE](https://www.cve.org/CVERecord?id=CVE-2025-45311)
 * [2025-11-26, 18:51:16](https://lobste.rs/s/jhi104/releasing_packages_with_valet_key_npm) - [Releasing Packages with a Valet Key: npm, PyPI, and beyond](https://byk.im/posts/releasing-packages/)
 * [2025-11-26, 18:44:12](https://lobste.rs/s/eumvac/typeform_is_too_expensive_try_fabform) - [Typeform is Too Expensive – Try Fabform, the Typeform Alternative](https://fabform.io)
 * [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
