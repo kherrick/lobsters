@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-26, 18:51:16](https://lobste.rs/s/jhi104/releasing_packages_with_valet_key_npm) - [Releasing Packages with a Valet Key: npm, PyPI, and beyond](https://byk.im/posts/releasing-packages/)
 * [2025-11-26, 18:44:12](https://lobste.rs/s/eumvac/typeform_is_too_expensive_try_fabform) - [Typeform is Too Expensive – Try Fabform, the Typeform Alternative](https://fabform.io)
+* [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
 * [2025-11-26, 18:34:41](https://lobste.rs/s/7fsqgl/ulid_only_identifier_you_should_use) - [ULID - the ONLY identifier you should use?](https://www.youtube.com/watch?v=otW7nLd8P04)
-* [2025-11-26, 17:28:47](https://lobste.rs/s/9m2esh/s_box_now_open_source) - [s&box now open source](https://github.com/Facepunch/sbox-public)
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:53:14](https://lobste.rs/s/yxrkzt/solving_partridge_packing_problem_using) - [Solving the Partridge Packing Problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 14:40:46](https://lobste.rs/s/h56bfm/how_get_hired_2025) - [How to get hired in 2025](https://tonsky.me/blog/hiring-ai/)
@@ -13,7 +14,6 @@
 * [2025-11-26, 12:03:20](https://lobste.rs/s/3kp1vt/url_c_puzzle) - [URL in C Puzzle](https://susam.net/url-in-c.html)
 * [2025-11-26, 11:59:46](https://lobste.rs/s/zl2ktl/secretspec_0_4_0) - [SecretSpec 0.4.0](https://devenv.sh/blog/2025/11/26/devenv-111-module-changelogs-and-secretspec-040/#secretspec-040)
 * [2025-11-26, 09:24:06](https://lobste.rs/s/jucg4w/i_don_t_care_how_well_your_ai_works) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
-* [2025-11-26, 04:13:17](https://lobste.rs/s/whs2zv/super_fast_aggregations_postgresql_19) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
 * [2025-11-26, 00:27:49](https://lobste.rs/s/vvy1o7/what_they_don_t_tell_you_about_maintaining) - [What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
 * [2025-11-25, 22:30:24](https://lobste.rs/s/tt7izg/stop_hacklore_open_letter) - [Stop Hacklore - An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-25, 19:40:40](https://lobste.rs/s/0rvqxt/look_at_rust_from_2012) - [A look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)

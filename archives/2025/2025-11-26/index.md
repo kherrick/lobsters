@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-11-26](index.md)
 
+* [2025-11-26, 18:51:16](https://lobste.rs/s/jhi104/releasing_packages_with_valet_key_npm) - [Releasing Packages with a Valet Key: npm, PyPI, and beyond](https://byk.im/posts/releasing-packages/)
 * [2025-11-26, 18:44:12](https://lobste.rs/s/eumvac/typeform_is_too_expensive_try_fabform) - [Typeform is Too Expensive – Try Fabform, the Typeform Alternative](https://fabform.io)
+* [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
 * [2025-11-26, 18:34:41](https://lobste.rs/s/7fsqgl/ulid_only_identifier_you_should_use) - [ULID - the ONLY identifier you should use?](https://www.youtube.com/watch?v=otW7nLd8P04)
 * [2025-11-26, 17:28:47](https://lobste.rs/s/9m2esh/s_box_now_open_source) - [s&box now open source](https://github.com/Facepunch/sbox-public)
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
