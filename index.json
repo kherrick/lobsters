@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 05:54:10",
+      "https://lobste.rs/s/f328hy/libinput_1_30_released_with_support_for"
+    ],
+    [
+      "libinput 1.30 Released With Support For Writing Plug-Ins In Lua",
+      "https://www.phoronix.com/news/libinput-1.30-Released"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 04:13:17",
       "https://lobste.rs/s/whs2zv/super_fast_aggregations_postgresql_19"
     ],
@@ -147,16 +157,6 @@
     [
       "AI Smells on Medium",
       "https://rmoff.net/2025/11/25/ai-smells-on-medium/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 14:39:51",
-      "https://lobste.rs/s/jgzpxs/towards_pen_paper_style_equational"
-    ],
-    [
-      "Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation",
-      "https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf"
     ]
   ],
   [
