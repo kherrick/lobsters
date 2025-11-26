@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 04:13:17",
+      "https://lobste.rs/s/whs2zv/super_fast_aggregations_postgresql_19"
+    ],
+    [
+      "Super fast aggregations in PostgreSQL 19",
+      "https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 02:09:34",
       "https://lobste.rs/s/q5vjlh/is_this_coregraphics_framework_bug_macos"
     ],
@@ -147,16 +157,6 @@
     [
       "The Promise of P-Graphs",
       "https://pavpanchekha.com/blog/p-graphs.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 14:39:51",
-      "https://lobste.rs/s/jgzpxs/towards_pen_paper_style_equational"
-    ],
-    [
-      "Towards Pen-and-Paper-Style Equational Reasoning in Interactive Theorem Provers by Equality Saturation",
-      "https://steuwer.info/files/publications/2026/POPL-Lean-Egg.pdf"
     ]
   ],
   [
