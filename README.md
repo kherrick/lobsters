@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:53:14](https://lobste.rs/s/yxrkzt/solving_partridge_packing_problem_using) - [Solving the Partridge Packing Problem using MiniZinc](https://zayenz.se/blog/post/partridge-packing/)
 * [2025-11-26, 14:40:46](https://lobste.rs/s/h56bfm/how_get_hired_2025) - [How to get hired in 2025](https://tonsky.me/blog/hiring-ai/)
 * [2025-11-26, 14:16:17](https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future) - [KDE going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
@@ -11,7 +12,6 @@
 * [2025-11-26, 09:24:06](https://lobste.rs/s/jucg4w/i_don_t_care_how_well_your_ai_works) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
 * [2025-11-26, 05:54:10](https://lobste.rs/s/f328hy/libinput_1_30_released_with_support_for) - [libinput 1.30 Released With Support For Writing Plug-Ins In Lua](https://www.phoronix.com/news/libinput-1.30-Released)
 * [2025-11-26, 04:13:17](https://lobste.rs/s/whs2zv/super_fast_aggregations_postgresql_19) - [Super fast aggregations in PostgreSQL 19](https://www.cybertec-postgresql.com/en/super-fast-aggregations-in-postgresql-19/)
-* [2025-11-26, 02:09:34](https://lobste.rs/s/q5vjlh/is_this_coregraphics_framework_bug_macos) - [Is this a CoreGraphics Framework Bug in macOS Tahoe?](https://lgug2z.com/articles/is-this-a-coregraphics-framework-bug-in-macos-tahoe/)
 * [2025-11-26, 00:27:49](https://lobste.rs/s/vvy1o7/what_they_don_t_tell_you_about_maintaining) - [What They Don't Tell You About Maintaining an Open Source Project](https://andrej.sh/blog/maintaining-open-source-project/)
 * [2025-11-25, 22:30:24](https://lobste.rs/s/tt7izg/stop_hacklore_open_letter) - [Stop Hacklore - An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-25, 19:40:40](https://lobste.rs/s/0rvqxt/look_at_rust_from_2012) - [A look at Rust from 2012](https://purplesyringa.moe/blog/a-look-at-rust-from-2012/)
