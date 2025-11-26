@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-26, 14:53:14",
+      "https://lobste.rs/s/yxrkzt/solving_partridge_packing_problem_using"
+    ],
+    [
+      "Solving the Partridge Packing Problem using MiniZinc",
+      "https://zayenz.se/blog/post/partridge-packing/"
+    ]
+  ],
+  [
+    [
       "2025-11-26, 14:16:17",
       "https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future"
     ],
@@ -237,16 +247,6 @@
     [
       "How good are Chinese CPUs? Benchmarking the Loongson 3A6000",
       "https://lemire.me/blog/2025/11/23/how-good-are-chinese-cpus-benchmarking-the-loongson-3a6000/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 05:17:10",
-      "https://lobste.rs/s/p9umds/memories_us"
-    ],
-    [
-      "memories of .us",
-      "https://computer.rip/2025-11-11-dot-us.html"
     ]
   ]
 ]
