@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-27, 13:40:20",
+      "https://lobste.rs/s/ju12fl/bringing_emacs_support_ocaml_s_lsp_server"
+    ],
+    [
+      "Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot",
+      "https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 13:29:28",
+      "https://lobste.rs/s/cbcksu/unbrickable_pledge"
+    ],
+    [
+      "The Unbrickable Pledge",
+      "https://usetrmnl.com/blog/the-unbrickable-pledge"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 12:41:22",
       "https://lobste.rs/s/bfgdyg/on_idempotency_keys"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-11-26, 00:27:49",
-      "https://lobste.rs/s/vvy1o7/what_they_don_t_tell_you_about_maintaining"
-    ],
-    [
-      "What They Don't Tell You About Maintaining an Open Source Project",
-      "https://andrej.sh/blog/maintaining-open-source-project/"
-    ]
-  ],
-  [
-    [
       "2025-11-25, 22:30:24",
       "https://lobste.rs/s/tt7izg/stop_hacklore_open_letter"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Unison 1.0",
       "https://www.unison-lang.org/unison-1-0/"
-    ]
-  ],
-  [
-    [
-      "2025-11-25, 17:05:43",
-      "https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop"
-    ],
-    [
-      "Unifying Wikipedia mobile and desktop domains",
-      "https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/"
     ]
   ]
 ]
