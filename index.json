@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-11-27, 03:35:31",
+      "https://lobste.rs/s/xyffww/optimizing_ray_tracing_haskell_2020"
+    ],
+    [
+      "Optimizing Ray Tracing in Haskell (2020)",
+      "https://medium.com/@s.nawaz/optimizing-ray-tracing-in-haskell-3dc412fff20a"
+    ]
+  ],
+  [
+    [
       "2025-11-27, 02:20:53",
       "https://lobste.rs/s/miymem/running_unsupported_ios_on_deprecated"
     ],
@@ -117,16 +127,6 @@
     [
       "llmfuse: a self-compressing filesystem backed by an LLM",
       "https://grohan.co/2025/11/25/llmfuse/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 14:53:14",
-      "https://lobste.rs/s/yxrkzt/solving_partridge_packing_problem_using"
-    ],
-    [
-      "Solving the Partridge Packing Problem using MiniZinc",
-      "https://zayenz.se/blog/post/partridge-packing/"
     ]
   ],
   [
