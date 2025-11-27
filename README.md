@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-27, 18:36:20](https://lobste.rs/s/7ketee/same_day_upstream_linux_support_for) - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
 * [2025-11-27, 17:44:55](https://lobste.rs/s/ipk4lg/pointer_pop_quiz) - [Pointer pop quiz](https://dave.cheney.net/2025/11/27/pointer-pop-quiz)
 * [2025-11-27, 17:41:20](https://lobste.rs/s/zzy9fy/electron_vs_tauri) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
 * [2025-11-27, 17:30:27](https://lobste.rs/s/1j7cwz/comparing_obelisk_with_dbos) - [Comparing Obelisk with DBOS](https://obeli.sk/blog/comparing-dbos-part-1/)
@@ -21,7 +22,6 @@
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:16:17](https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future) - [KDE going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
 * [2025-11-26, 13:51:07](https://lobste.rs/s/ilnv7s/building_64_bit_os_from_scratch_with) - [Building a 64-bit OS from Scratch with Claude Code](https://isene.org/2025/11/SimplicityOS.html)
-* [2025-11-26, 12:49:37](https://lobste.rs/s/yycuct/go_proposal_goroutine_metrics) - [Go proposal: Goroutine metrics](https://antonz.org/accepted/goroutine-metrics/)
 * [2025-11-26, 09:24:06](https://lobste.rs/s/jucg4w/i_don_t_care_how_well_your_ai_works) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
 * [2025-11-25, 22:30:24](https://lobste.rs/s/tt7izg/stop_hacklore_open_letter) - [Stop Hacklore - An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-25, 19:26:40](https://lobste.rs/s/ykoj5k/announcing_unison_1_0) - [Announcing Unison 1.0](https://www.unison-lang.org/unison-1-0/)

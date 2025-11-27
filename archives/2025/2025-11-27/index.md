@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 18:36:20](https://lobste.rs/s/7ketee/same_day_upstream_linux_support_for) - [Same-day upstream Linux support for Snapdragon 8 Elite Gen 5 mobile platform](https://www.qualcomm.com/developer/blog/2025/10/same-day-snapdragon-8-elite-gen-5-upstream-linux-support)
 * [2025-11-27, 17:44:55](https://lobste.rs/s/ipk4lg/pointer_pop_quiz) - [Pointer pop quiz](https://dave.cheney.net/2025/11/27/pointer-pop-quiz)
 * [2025-11-27, 17:41:20](https://lobste.rs/s/zzy9fy/electron_vs_tauri) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
 * [2025-11-27, 17:30:27](https://lobste.rs/s/1j7cwz/comparing_obelisk_with_dbos) - [Comparing Obelisk with DBOS](https://obeli.sk/blog/comparing-dbos-part-1/)
