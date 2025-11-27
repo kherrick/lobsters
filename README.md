@@ -2,7 +2,6 @@
 
 * [2025-11-27, 10:58:39](https://lobste.rs/s/vyqtkq/it_s_hard_build_oscillator) - [It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
 * [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
-* [2025-11-27, 06:57:17](https://lobste.rs/s/42f5af/gameshell_game_learn_teach_how_use) - [GameShell: a game to learn (or teach) how to use standard commands in a Unix shell](https://github.com/phyver/GameShell)
 * [2025-11-27, 04:19:36](https://lobste.rs/s/zn9jeu/generalized_worley_noise) - [Generalized Worley Noise](https://ianthehenry.com/posts/generalized-worley-noise/)
 * [2025-11-27, 03:35:31](https://lobste.rs/s/xyffww/optimizing_ray_tracing_haskell_2020) - [Optimizing Ray Tracing in Haskell (2020)](https://medium.com/@s.nawaz/optimizing-ray-tracing-in-haskell-3dc412fff20a)
 * [2025-11-27, 02:20:53](https://lobste.rs/s/miymem/running_unsupported_ios_on_deprecated) - [Running unsupported iOS on deprecated devices](https://nyansatan.github.io/run-unsupported-ios/)
@@ -13,6 +12,7 @@
 * [2025-11-26, 19:13:07](https://lobste.rs/s/p5k6aa/fail2ban_rce) - [fail2ban RCE](https://www.cve.org/CVERecord?id=CVE-2025-45311)
 * [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
 * [2025-11-26, 18:34:41](https://lobste.rs/s/7fsqgl/ulid_only_identifier_you_should_use) - [ULID - the ONLY identifier you should use?](https://www.youtube.com/watch?v=otW7nLd8P04)
+* [2025-11-26, 17:28:47](https://lobste.rs/s/9m2esh/s_box_now_open_source) - [s&box now open source](https://github.com/Facepunch/sbox-public)
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:16:17](https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future) - [KDE going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
 * [2025-11-26, 13:51:07](https://lobste.rs/s/ilnv7s/building_64_bit_os_from_scratch_with) - [Building a 64-bit OS from Scratch with Claude Code](https://isene.org/2025/11/SimplicityOS.html)
