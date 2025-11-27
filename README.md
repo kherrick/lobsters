@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-26, 22:43:17](https://lobste.rs/s/6x5ugm/pypi_shai_hulud_staying_secure_amid) - [PyPI and Shai-Hulud: Staying Secure Amid Emerging Threats](https://blog.pypi.org/posts/2025-11-26-pypi-and-shai-hulud/)
+* [2025-11-27, 01:47:36](https://lobste.rs/s/tvkddz/migrating_main_zig_repository_from) - [Migrating The Main Zig Repository from GitHub to Codeberg](https://ziglang.org/news/migrating-from-github-to-codeberg/)
 * [2025-11-26, 19:44:20](https://lobste.rs/s/nfkli6/liber_indigo_affordances_magic) - [Liber Indigo: The Affordances of Magic](https://www.youtube.com/watch?v=pGpBQgZ5IsI&list=PLsfH1Ahi4SzE-QmrsrtyZubGmi66iP45V)
-* [2025-11-26, 18:51:16](https://lobste.rs/s/jhi104/releasing_packages_with_valet_key_npm) - [Releasing Packages with a Valet Key: npm, PyPI, and beyond](https://byk.im/posts/releasing-packages/)
+* [2025-11-26, 19:13:07](https://lobste.rs/s/p5k6aa/fail2ban_rce) - [fail2ban RCE](https://www.cve.org/CVERecord?id=CVE-2025-45311)
 * [2025-11-26, 18:41:40](https://lobste.rs/s/evzudd/very_fast_64_bit_date_algorithm_30_40) - [A Very Fast 64–Bit Date Algorithm: 30-40% faster](https://www.benjoffe.com/fast-date-64)
 * [2025-11-26, 18:34:41](https://lobste.rs/s/7fsqgl/ulid_only_identifier_you_should_use) - [ULID - the ONLY identifier you should use?](https://www.youtube.com/watch?v=otW7nLd8P04)
 * [2025-11-26, 17:28:00](https://lobste.rs/s/pphczb/how_stealth_addresses_work_monero) - [How stealth addresses work in Monero](https://www.johndcook.com/blog/2025/11/24/monero-stealth-addresses/)
