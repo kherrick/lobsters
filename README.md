@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-27, 12:41:22](https://lobste.rs/s/bfgdyg/on_idempotency_keys) - [On Idempotency Keys](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-27, 10:58:39](https://lobste.rs/s/vyqtkq/it_s_hard_build_oscillator) - [It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
 * [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
 * [2025-11-27, 04:19:36](https://lobste.rs/s/zn9jeu/generalized_worley_noise) - [Generalized Worley Noise](https://ianthehenry.com/posts/generalized-worley-noise/)
@@ -24,7 +25,6 @@
 * [2025-11-25, 22:30:24](https://lobste.rs/s/tt7izg/stop_hacklore_open_letter) - [Stop Hacklore - An Open Letter](https://www.hacklore.org/letter)
 * [2025-11-25, 19:26:40](https://lobste.rs/s/ykoj5k/announcing_unison_1_0) - [Announcing Unison 1.0](https://www.unison-lang.org/unison-1-0/)
 * [2025-11-25, 17:05:43](https://lobste.rs/s/iq1zrm/unifying_wikipedia_mobile_desktop) - [Unifying Wikipedia mobile and desktop domains](https://techblog.wikimedia.org/2025/11/21/unifying-mobile-and-desktop-domains/)
-* [2025-11-25, 16:39:23](https://lobste.rs/s/igvnnq/stop_telling_us_xmpp_should_use_json) - [Stop Telling Us XMPP Should Use JSON](https://www.process-one.net/blog/stop-telling-us-xmpp-should-use-json/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 12:41:22](https://lobste.rs/s/bfgdyg/on_idempotency_keys) - [On Idempotency Keys](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-27, 10:58:39](https://lobste.rs/s/vyqtkq/it_s_hard_build_oscillator) - [It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
 * [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
 * [2025-11-27, 06:57:17](https://lobste.rs/s/42f5af/gameshell_game_learn_teach_how_use) - [GameShell: a game to learn (or teach) how to use standard commands in a Unix shell](https://github.com/phyver/GameShell)
