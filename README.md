@@ -3,7 +3,7 @@
 * [2025-11-27, 13:40:20](https://lobste.rs/s/ju12fl/bringing_emacs_support_ocaml_s_lsp_server) - [Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot](https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/)
 * [2025-11-27, 12:41:22](https://lobste.rs/s/bfgdyg/on_idempotency_keys) - [On Idempotency Keys](https://www.morling.dev/blog/on-idempotency-keys/)
 * [2025-11-27, 10:58:39](https://lobste.rs/s/vyqtkq/it_s_hard_build_oscillator) - [It's hard to build an oscillator](https://lcamtuf.substack.com/p/its-hard-to-build-an-oscillator)
-* [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language (POPL 2026)](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
+* [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
 * [2025-11-27, 04:19:36](https://lobste.rs/s/zn9jeu/generalized_worley_noise) - [Generalized Worley Noise](https://ianthehenry.com/posts/generalized-worley-noise/)
 * [2025-11-27, 03:35:31](https://lobste.rs/s/xyffww/optimizing_ray_tracing_haskell_2020) - [Optimizing Ray Tracing in Haskell (2020)](https://medium.com/@s.nawaz/optimizing-ray-tracing-in-haskell-3dc412fff20a)
 * [2025-11-27, 02:20:53](https://lobste.rs/s/miymem/running_unsupported_ios_on_deprecated) - [Running unsupported iOS on deprecated devices](https://nyansatan.github.io/run-unsupported-ios/)
