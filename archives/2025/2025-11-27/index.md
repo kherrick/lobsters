@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-27](index.md)
 
+* [2025-11-27, 17:13:00](https://lobste.rs/s/e0tujy/input_stack_on_linux_end_end_architecture) - [The Input Stack on Linux An End-To-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
 * [2025-11-27, 16:35:58](https://lobste.rs/s/gclq06/sharing_your_work_is_like_lifting_with) - [Sharing Your Work Is Like Lifting With Your Legs](https://devonzuegel.com/writing-for-an-audience-is-like-lifting-with-your-legs)
 * [2025-11-27, 15:38:14](https://lobste.rs/s/83pere/gitlab_discovers_widespread_npm_supply) - [GitLab discovers widespread npm supply chain attack](https://about.gitlab.com/blog/gitlab-discovers-widespread-npm-supply-chain-attack/)
 * [2025-11-27, 14:53:22](https://lobste.rs/s/iro8m3/lowtype_elegant_types_ruby) - [Lowtype: Elegant types in Ruby](https://codeberg.org/Iow/type)

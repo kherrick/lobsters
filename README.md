@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-27, 17:13:00](https://lobste.rs/s/e0tujy/input_stack_on_linux_end_end_architecture) - [The Input Stack on Linux An End-To-End Architecture Overview](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
 * [2025-11-27, 16:35:58](https://lobste.rs/s/gclq06/sharing_your_work_is_like_lifting_with) - [Sharing Your Work Is Like Lifting With Your Legs](https://devonzuegel.com/writing-for-an-audience-is-like-lifting-with-your-legs)
 * [2025-11-27, 14:53:22](https://lobste.rs/s/iro8m3/lowtype_elegant_types_ruby) - [Lowtype: Elegant types in Ruby](https://codeberg.org/Iow/type)
 * [2025-11-27, 13:40:20](https://lobste.rs/s/ju12fl/bringing_emacs_support_ocaml_s_lsp_server) - [Bringing Emacs Support to OCaml's LSP Server with ocaml-eglot](https://tarides.com/blog/2025-11-27-bringing-emacs-support-to-ocaml-s-lsp-server-with-ocaml-eglot/)
@@ -19,7 +20,6 @@
 * [2025-11-26, 15:59:00](https://lobste.rs/s/vf6xi8/llmfuse_self_compressing_filesystem) - [llmfuse: a self-compressing filesystem backed by an LLM](https://grohan.co/2025/11/25/llmfuse/)
 * [2025-11-26, 14:16:17](https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future) - [KDE going all-in on a Wayland future](https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/)
 * [2025-11-26, 13:51:07](https://lobste.rs/s/ilnv7s/building_64_bit_os_from_scratch_with) - [Building a 64-bit OS from Scratch with Claude Code](https://isene.org/2025/11/SimplicityOS.html)
-* [2025-11-26, 13:26:13](https://lobste.rs/s/ru1n6p/why_strong_consistency) - [Why Strong Consistency?](https://brooker.co.za/blog/2025/11/18/consistency.html)
 * [2025-11-26, 12:49:37](https://lobste.rs/s/yycuct/go_proposal_goroutine_metrics) - [Go proposal: Goroutine metrics](https://antonz.org/accepted/goroutine-metrics/)
 * [2025-11-26, 12:03:20](https://lobste.rs/s/3kp1vt/url_c_puzzle) - [URL in C Puzzle](https://susam.net/url-in-c.html)
 * [2025-11-26, 09:24:06](https://lobste.rs/s/jucg4w/i_don_t_care_how_well_your_ai_works) - [I don't care how well your \"AI\" works](https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html)
