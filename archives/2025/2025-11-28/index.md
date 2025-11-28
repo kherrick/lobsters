@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 12:15:29](https://lobste.rs/s/t8afff/is_anyone_using_project_hummingbird) - [Is anyone using Project Hummingbird?](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/hummingbird)
 * [2025-11-28, 11:16:06](https://lobste.rs/s/ogf9hk/help_my_java_object_vanished_gc_is_not_at) - [Help, My Java Object Vanished (and the GC is Not at Fault)](https://arraying.de/posts/markword/)
 * [2025-11-28, 10:58:18](https://lobste.rs/s/gnpury/fort_knox_for_your_secrets_manage_secrets) - [Fort Knox for your secrets -  Manage secrets with encryption or cloud providers](https://fnox.jdx.dev/guide/what-is-fnox.html)
 * [2025-11-28, 10:46:09](https://lobste.rs/s/60v35g/crdt_dictionary_field_guide_conflict) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary)
