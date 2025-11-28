@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 22:02:57",
+      "https://lobste.rs/s/jxppk7/how_good_engineers_write_bad_code_at_big"
+    ],
+    [
+      "How good engineers write bad code at big companies",
+      "https://www.seangoedecke.com/bad-code-at-big-companies/"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 21:41:19",
       "https://lobste.rs/s/aedmfv/google_shenanigans"
     ],
@@ -237,16 +247,6 @@
     [
       "Lowtype: Elegant types in Ruby",
       "https://codeberg.org/Iow/type"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 09:39:17",
-      "https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional"
-    ],
-    [
-      "Lazy Linearity for a Core Functional Language",
-      "https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html"
     ]
   ]
 ]
