@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 10:46:09",
+      "https://lobste.rs/s/60v35g/crdt_dictionary_field_guide_conflict"
+    ],
+    [
+      "The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types",
+      "https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 09:55:11",
       "https://lobste.rs/s/9rpx3i/what_are_you_doing_this_weekend"
     ],
@@ -37,6 +47,16 @@
     [
       "A foundation for building tools on the AT Protocol using Unison",
       "https://notes.kaushikc.org/3m6kc5nudgc2x"
+    ]
+  ],
+  [
+    [
+      "2025-11-28, 06:44:17",
+      "https://lobste.rs/s/ihf3a1/million_ways_die_from_data_race_go"
+    ],
+    [
+      "A million ways to die from a data race in Go",
+      "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Chat Control: EU lawmakers finally agree on the voluntary scanning of your private chats",
       "https://www.techradar.com/vpn/vpn-privacy-security/chat-control-eu-lawmakers-finally-agree-on-the-voluntary-scanning-of-your-private-chats"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 14:16:17",
-      "https://lobste.rs/s/iwzqi3/kde_going_all_on_wayland_future"
-    ],
-    [
-      "KDE going all-in on a Wayland future",
-      "https://blogs.kde.org/2025/11/26/going-all-in-on-a-wayland-future/"
-    ]
-  ],
-  [
-    [
-      "2025-11-26, 09:24:06",
-      "https://lobste.rs/s/jucg4w/i_don_t_care_how_well_your_ai_works"
-    ],
-    [
-      "I don't care how well your \"AI\" works",
-      "https://fokus.cool/2025/11/25/i-dont-care-how-well-your-ai-works.html"
     ]
   ]
 ]
