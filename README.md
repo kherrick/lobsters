@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-11-28, 18:56:24](https://lobste.rs/s/hqqggb/stopwatch_under_hood_2016) - [Stopwatch under the hood (2016)](https://aakinshin.net/posts/stopwatch/)
+* [2025-11-28, 18:21:55](https://lobste.rs/s/404y8w/tiny_tpu) - [Tiny TPU](https://www.tinytpu.com/)
 * [2025-11-28, 15:59:49](https://lobste.rs/s/0i4chy/don_t_tug_on_you_never_know_what_it_might_be) - [Don't tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:39:28](https://lobste.rs/s/pxk1qt/generating_3d_meshes_from_text) - [Generating 3D Meshes From Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:30:03](https://lobste.rs/s/xbsdvw/bfs_breadth_first_version_unix_find) - [bfs: A breadth-first version of the UNIX find command](https://github.com/tavianator/bfs)
@@ -15,7 +16,6 @@
 * [2025-11-28, 07:47:50](https://lobste.rs/s/9c4iun/foundation_for_building_tools_on_at) - [A foundation for building tools on the AT Protocol using Unison](https://notes.kaushikc.org/3m6kc5nudgc2x)
 * [2025-11-28, 06:44:17](https://lobste.rs/s/ihf3a1/million_ways_die_from_data_race_go) - [A million ways to die from a data race in Go](https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html)
 * [2025-11-28, 05:00:00](https://lobste.rs/s/v6ct3o/ml_kem_mythbusting) - [ML-KEM Mythbusting](https://keymaterial.net/2025/11/27/ml-kem-mythbusting/)
-* [2025-11-28, 04:12:55](https://lobste.rs/s/df9h1t/brief_thoughts_on_recent_cloudflare) - [Brief thoughts on the recent Cloudflare outage](https://surfingcomplexity.blog/2025/11/26/brief-thoughts-on-the-recent-cloudflare-outage/)
 * [2025-11-28, 02:52:32](https://lobste.rs/s/skdenp/what_s_button) - [What's in a Button?](https://belkadan.com/blog/2025/11/Whats-in-a-Button/)
 * [2025-11-27, 22:01:03](https://lobste.rs/s/fynjhj/bauble) - [Bauble](https://bauble.studio/)
 * [2025-11-27, 20:57:47](https://lobste.rs/s/24vb6t/setting_secrets_env_vars) - [Setting secrets in env vars](https://hugovk.dev/blog/2025/secrets-in-env-vars/)
