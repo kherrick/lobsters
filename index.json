@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2025-11-28, 02:52:32",
-      "https://lobste.rs/s/skdenp/what_s_button"
-    ],
-    [
-      "What's in a Button?",
-      "https://belkadan.com/blog/2025/11/Whats-in-a-Button/"
-    ]
-  ],
-  [
-    [
       "2025-11-27, 22:01:03",
       "https://lobste.rs/s/fynjhj/bauble"
     ],
@@ -247,6 +237,16 @@
     [
       "Lazy Linearity for a Core Functional Language",
       "https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html"
+    ]
+  ],
+  [
+    [
+      "2025-11-27, 01:47:36",
+      "https://lobste.rs/s/tvkddz/migrating_zig_organization_from_github"
+    ],
+    [
+      "Migrating The Zig Organization from GitHub to Codeberg",
+      "https://ziglang.org/news/migrating-from-github-to-codeberg/"
     ]
   ]
 ]
