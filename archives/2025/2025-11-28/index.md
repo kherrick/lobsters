@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 09:55:11](https://lobste.rs/s/9rpx3i/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9rpx3i/what_are_you_doing_this_weekend)
 * [2025-11-28, 09:16:58](https://lobste.rs/s/dhb1fl/leak_identity_anonymous_reviewers) - [Leak of identity of anonymous reviewers, authors, and area chairs on OpenReview](https://lobste.rs/s/dhb1fl/leak_identity_anonymous_reviewers)
 * [2025-11-28, 08:45:32](https://lobste.rs/s/ybp9wx/is_matrix_multiplication_ugly) - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
 * [2025-11-28, 07:47:50](https://lobste.rs/s/9c4iun/foundation_for_building_tools_on_at) - [A foundation for building tools on the AT Protocol using Unison](https://notes.kaushikc.org/3m6kc5nudgc2x)
