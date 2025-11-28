@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-28, 21:20:38](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors) - [A Brief History of NSA Backdoors](https://www.ethanheilman.com/x/12/index.html)
+* [2025-11-28, 21:41:19](https://lobste.rs/s/aedmfv/google_shenanigans) - [Google Shenanigans](https://huijzer.xyz/posts/128/google-shenanigans)
 * [2025-11-28, 20:59:33](https://lobste.rs/s/zxwjap/metafun_compile_haskell_like_code_c) - [MetaFun: Compile Haskell-like code to C++ template metaprograms](https://gergo.erdi.hu/projects/metafun/)
 * [2025-11-28, 19:24:05](https://lobste.rs/s/wizzoj/oss_friday_update_fiber_scheduler_is) - [OSS Friday Update - The Fiber Scheduler is Taking Shape](https://noteflakes.com/articles/2025-11-28-friday-update)
 * [2025-11-28, 18:21:55](https://lobste.rs/s/404y8w/tiny_tpu) - [Tiny TPU](https://www.tinytpu.com/)
