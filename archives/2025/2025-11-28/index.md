@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 15:03:51](https://lobste.rs/s/jsuv4d/open_source_motorized_xyz_micro) - [An Open Source Motorized XYZ Micro-Manipulator - Affordable sub µm Motion Control](https://youtube.com/watch?v=MgQbPdiuUTw)
 * [2025-11-28, 14:27:29](https://lobste.rs/s/mdf9nt/fun_with_incident_data_statistical) - [Fun with incident data and statistical process control](https://surfingcomplexity.blog/2025/11/27/fun-with-incident-data-and-statistical-process-control/)
 * [2025-11-28, 14:14:25](https://lobste.rs/s/bhoqqp/1_million_dollar_apple_macintosh) - [A $1 Million Dollar Apple Macintosh PowerBook 170](https://www.ebay.ca/itm/326104837538)
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone's battery](https://far.computer/battery-update/)
