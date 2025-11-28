@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 22:02:57](https://lobste.rs/s/jxppk7/how_good_engineers_write_bad_code_at_big) - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 21:41:19](https://lobste.rs/s/aedmfv/google_shenanigans) - [Google Shenanigans](https://huijzer.xyz/posts/128/google-shenanigans)
 * [2025-11-28, 21:39:39](https://lobste.rs/s/li0ido/it_is_ok_say_css_variables_instead) - [It is OK to Say “CSS Variables” Instead of (or Alongside) “Custom Properties”](https://blog.kizu.dev/css-variables/)
 * [2025-11-28, 21:20:38](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors) - [A Brief History of NSA Backdoors](https://www.ethanheilman.com/x/12/index.html)

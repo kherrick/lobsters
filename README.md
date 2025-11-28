@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-28, 22:02:57](https://lobste.rs/s/jxppk7/how_good_engineers_write_bad_code_at_big) - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 21:41:19](https://lobste.rs/s/aedmfv/google_shenanigans) - [Google Shenanigans](https://huijzer.xyz/posts/128/google-shenanigans)
 * [2025-11-28, 21:39:39](https://lobste.rs/s/li0ido/it_is_ok_say_css_variables_instead) - [It is OK to Say “CSS Variables” Instead of (or Alongside) “Custom Properties”](https://blog.kizu.dev/css-variables/)
 * [2025-11-28, 21:20:38](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors) - [A Brief History of NSA Backdoors](https://www.ethanheilman.com/x/12/index.html)
@@ -24,7 +25,6 @@
 * [2025-11-27, 20:30:43](https://lobste.rs/s/uiueai/bending_emacs_episode_6_overlays) - [Bending Emacs - Episode 6: Overlays](https://xenodium.com/bending-emacs-episode-6-overlays)
 * [2025-11-27, 17:41:20](https://lobste.rs/s/zzy9fy/electron_vs_tauri) - [Electron vs. Tauri](https://www.dolthub.com/blog/2025-11-13-electron-vs-tauri/)
 * [2025-11-27, 14:53:22](https://lobste.rs/s/iro8m3/lowtype_elegant_types_ruby) - [Lowtype: Elegant types in Ruby](https://codeberg.org/Iow/type)
-* [2025-11-27, 09:39:17](https://lobste.rs/s/qbu8jl/lazy_linearity_for_core_functional) - [Lazy Linearity for a Core Functional Language](https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html)
 
 ## [Archives](archives/index.md)
 
