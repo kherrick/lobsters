@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 18:56:24](https://lobste.rs/s/hqqggb/stopwatch_under_hood_2016) - [Stopwatch under the hood (2016)](https://aakinshin.net/posts/stopwatch/)
 * [2025-11-28, 18:21:55](https://lobste.rs/s/404y8w/tiny_tpu) - [Tiny TPU](https://www.tinytpu.com/)
 * [2025-11-28, 15:59:49](https://lobste.rs/s/0i4chy/don_t_tug_on_you_never_know_what_it_might_be) - [Don't tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:39:28](https://lobste.rs/s/pxk1qt/generating_3d_meshes_from_text) - [Generating 3D Meshes From Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
