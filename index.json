@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 06:44:17",
+      "https://lobste.rs/s/ihf3a1/million_ways_die_from_data_race_go"
+    ],
+    [
+      "A million ways to die from a data race in Go",
+      "https://gaultier.github.io/blog/a_million_ways_to_data_race_in_go.html"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 05:00:00",
       "https://lobste.rs/s/v6ct3o/ml_kem_mythbusting"
     ],
@@ -197,16 +207,6 @@
     [
       "Migrating The Zig Organization from GitHub to Codeberg",
       "https://ziglang.org/news/migrating-from-github-to-codeberg/"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 01:34:43",
-      "https://lobste.rs/s/ukbacd/graph_algorithms_rayon"
-    ],
-    [
-      "Graph Algorithms in Rayon",
-      "https://davidlattimore.github.io/posts/2025/11/27/graph-algorithms-in-rayon.html"
     ]
   ],
   [
