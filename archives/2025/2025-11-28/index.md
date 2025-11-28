@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 15:39:28](https://lobste.rs/s/pxk1qt/generating_3d_meshes_from_text) - [Generating 3D Meshes From Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
 * [2025-11-28, 15:30:03](https://lobste.rs/s/xbsdvw/bfs_breadth_first_version_unix_find) - [bfs: A breadth-first version of the UNIX find command](https://github.com/tavianator/bfs)
 * [2025-11-28, 15:03:51](https://lobste.rs/s/jsuv4d/open_source_motorized_xyz_micro) - [An Open Source Motorized XYZ Micro-Manipulator - Affordable sub µm Motion Control](https://youtube.com/watch?v=MgQbPdiuUTw)
 * [2025-11-28, 14:27:29](https://lobste.rs/s/mdf9nt/fun_with_incident_data_statistical) - [Fun with incident data and statistical process control](https://surfingcomplexity.blog/2025/11/27/fun-with-incident-data-and-statistical-process-control/)
