@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-28, 19:29:05",
+      "https://lobste.rs/s/z4d88o/putting_rigid_bodies_rest"
+    ],
+    [
+      "Putting Rigid Bodies to Rest",
+      "https://hbaktash.github.io/projects/putting-rigid-bodies-to-rest/"
+    ]
+  ],
+  [
+    [
       "2025-11-28, 19:24:05",
       "https://lobste.rs/s/wizzoj/oss_friday_update_fiber_scheduler_is"
     ],
@@ -237,16 +247,6 @@
     [
       "Lazy Linearity for a Core Functional Language",
       "https://alt-romes.github.io/posts/2025-11-26-lazy-linearity-popl26.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-27, 01:47:36",
-      "https://lobste.rs/s/tvkddz/migrating_zig_organization_from_github"
-    ],
-    [
-      "Migrating The Zig Organization from GitHub to Codeberg",
-      "https://ziglang.org/news/migrating-from-github-to-codeberg/"
     ]
   ]
 ]
