@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-28](index.md)
 
+* [2025-11-28, 19:55:36](https://lobste.rs/s/bbn4iv/how_monopoly_isp_refuses_fix_upstream) - [How a monopoly ISP refuses to fix upstream infrastructure – The Sacramento Bear](https://sacbear.com/xfinity-wont-fix-internet/)
 * [2025-11-28, 19:29:05](https://lobste.rs/s/z4d88o/putting_rigid_bodies_rest) - [Putting Rigid Bodies to Rest](https://hbaktash.github.io/projects/putting-rigid-bodies-to-rest/)
 * [2025-11-28, 19:24:05](https://lobste.rs/s/wizzoj/oss_friday_update_fiber_scheduler_is) - [OSS Friday Update - The Fiber Scheduler is Taking Shape](https://noteflakes.com/articles/2025-11-28-friday-update)
 * [2025-11-28, 18:56:24](https://lobste.rs/s/hqqggb/stopwatch_under_hood_2016) - [Stopwatch under the hood (2016)](https://aakinshin.net/posts/stopwatch/)
