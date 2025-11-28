@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-28, 15:39:28](https://lobste.rs/s/pxk1qt/generating_3d_meshes_from_text) - [Generating 3D Meshes From Text](https://cprimozic.net/notes/posts/generating-3d-meshes-from-text/)
+* [2025-11-28, 15:59:49](https://lobste.rs/s/0i4chy/don_t_tug_on_you_never_know_what_it_might_be) - [Don't tug on that, you never know what it might be attached to](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 14:14:25](https://lobste.rs/s/bhoqqp/1_million_dollar_apple_macintosh) - [A $1 Million Dollar Apple Macintosh PowerBook 170](https://www.ebay.ca/itm/326104837538)
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone's battery](https://far.computer/battery-update/)
 * [2025-11-28, 12:15:29](https://lobste.rs/s/t8afff/is_anyone_using_project_hummingbird) - [Is anyone using Project Hummingbird?](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux/hummingbird)
