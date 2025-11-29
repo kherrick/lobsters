@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-29, 21:45:59](https://lobste.rs/s/bsm3ck/nomor_call_center_agoda_layanan_agoda) - [Nomor Call Center Agoda: Layanan Agoda Reschedule - Bantuan Pelanggan Agoda](https://sites.google.com/view/nomor-call-center-agoda/bio)
+* [2025-11-29, 22:10:10](https://lobste.rs/s/psril1/computer_wants_lose_your_data_bonus_bits) - [The Computer Wants to Lose Your Data: Bonus Bits](https://blog.sinjakli.co.uk/2025/11/29/the-computer-wants-to-lose-your-data-bonus-bits/)
 * [2025-11-29, 21:23:01](https://lobste.rs/s/seniup/clade_folding_text_editor) - [The Clade folding text editor](https://tibleiz.net/clade/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
 * [2025-11-29, 19:57:57](https://lobste.rs/s/dtylzc/origins_scala_2009) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
