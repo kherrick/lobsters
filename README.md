@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-29, 16:05:37](https://lobste.rs/s/d9ionb/context_plumbing) - [Context plumbing](https://interconnected.org/home/2025/11/28/plumbing)
 * [2025-11-29, 14:22:18](https://lobste.rs/s/gtcrvu/langjam_gamejam_build_programming) - [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)
 * [2025-11-29, 13:59:35](https://lobste.rs/s/dw73zv/symfonycon_2025_talks_slides_code) - [SymfonyCon 2025 talks, slides and code examples are on GitHub](https://github.com/SymfonyCon/2025-talks)
 * [2025-11-29, 12:59:02](https://lobste.rs/s/vthifs/what_do_when_creating_your_codeql) - [What to Do When Creating Your CodeQL Database Fails – and How to Report the Perfect Reproducer Using cvise](https://intrigus.org/research/2025/11/28/what-to-do-when-codeql-database-creation-fails/)
@@ -19,7 +20,6 @@
 * [2025-11-28, 18:21:55](https://lobste.rs/s/404y8w/tiny_tpu) - [Tiny TPU](https://www.tinytpu.com/)
 * [2025-11-28, 15:59:49](https://lobste.rs/s/0i4chy/don_t_tug_on_you_never_know_what_it_might_be) - [Don't tug on that, you never know what it might be attached to (2016)](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:30:03](https://lobste.rs/s/xbsdvw/bfs_breadth_first_version_unix_find) - [bfs: A breadth-first version of the UNIX find command](https://github.com/tavianator/bfs)
-* [2025-11-28, 14:14:25](https://lobste.rs/s/bhoqqp/1_million_dollar_apple_macintosh) - [A $1 Million Dollar Apple Macintosh PowerBook 170](https://www.ebay.ca/itm/326104837538)
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone's battery](https://far.computer/battery-update/)
 * [2025-11-28, 11:16:06](https://lobste.rs/s/ogf9hk/help_my_java_object_vanished_gc_is_not_at) - [Help, My Java Object Vanished (and the GC is Not at Fault)](https://arraying.de/posts/markword/)
 * [2025-11-28, 10:46:09](https://lobste.rs/s/60v35g/crdt_dictionary_field_guide_conflict) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary)
