@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-11-29, 23:06:18](https://lobste.rs/s/spe30e/layanan_reschedule_agoda_24_jam_0813_707) - [Layanan Reschedule Agoda 24 jam 0813 707 1535](https://lobste.rs/s/spe30e/layanan_reschedule_agoda_24_jam_0813_707)
 * [2025-11-29, 23:05:52](https://lobste.rs/s/bx1zij/eraser_dynamic_data_race_detector_for) - [Eraser: A Dynamic Data Race Detector for Multithreaded Programs (1997)](https://web.stanford.edu/class/archive/cs/cs240/cs240.1054/readings/Tocs97.pdf)
 * [2025-11-29, 22:10:10](https://lobste.rs/s/psril1/computer_wants_lose_your_data_bonus_bits) - [The Computer Wants to Lose Your Data: Bonus Bits](https://blog.sinjakli.co.uk/2025/11/29/the-computer-wants-to-lose-your-data-bonus-bits/)
 * [2025-11-29, 21:23:01](https://lobste.rs/s/seniup/clade_folding_text_editor) - [The Clade folding text editor](https://tibleiz.net/clade/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
+* [2025-11-29, 19:57:57](https://lobste.rs/s/dtylzc/origins_scala_2009) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
 * [2025-11-29, 19:51:29](https://lobste.rs/s/xcyhbl/building_ai_agents_for_devops_from_ci_cd) - [Building AI Agents for DevOps: From CI/CD Automation to Autonomous Deployments](https://muhammadraza.me/2025/building-ai-agents-devops-automation/)
 * [2025-11-29, 19:45:04](https://lobste.rs/s/ww6cfs/major_ai_conference_flooded_with_peer) - [Major AI conference flooded with peer reviews written fully by AI](https://www.nature.com/articles/d41586-025-03506-6)
 * [2025-11-29, 16:44:34](https://lobste.rs/s/qtsdoi/schubfach_smallest_state_art_double) - [Schubfach: The smallest state-of-the-art double-to-string implementation](https://vitaut.net/posts/2025/smallest-dtoa/)
