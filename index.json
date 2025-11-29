@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-29, 13:59:35",
+      "https://lobste.rs/s/dw73zv/symfonycon_2025_talks_slides_code"
+    ],
+    [
+      "SymfonyCon 2025 talks, slides and code examples are on GitHub",
+      "https://github.com/SymfonyCon/2025-talks"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 12:59:02",
       "https://lobste.rs/s/vthifs/what_do_when_creating_your_codeql"
     ],
@@ -67,16 +77,6 @@
     [
       "popping-and-locking-zed-theme",
       "https://github.com/randoneering/popping-and-locking-zed-theme"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 03:02:14",
-      "https://lobste.rs/s/uqv5en/git_embigenner_spam_empty_commits"
-    ],
-    [
-      "git-embigenner: Spam empty commits",
-      "https://github.com/veqqq/git-embigenner"
     ]
   ],
   [
