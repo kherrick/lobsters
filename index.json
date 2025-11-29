@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-29, 14:22:18",
+      "https://lobste.rs/s/gtcrvu/langjam_gamejam_build_programming"
+    ],
+    [
+      "Langjam Gamejam: Build a programming language then make a game with it",
+      "https://langjamgamejam.com/"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 13:59:35",
       "https://lobste.rs/s/dw73zv/symfonycon_2025_talks_slides_code"
     ],
@@ -117,16 +127,6 @@
     [
       "A Brief History of NSA Backdoors (2013)",
       "https://www.ethanheilman.com/x/12/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 20:59:33",
-      "https://lobste.rs/s/zxwjap/metafun_compile_haskell_like_code_c"
-    ],
-    [
-      "MetaFun: Compile Haskell-like code to C++ template metaprograms",
-      "https://gergo.erdi.hu/projects/metafun/"
     ]
   ],
   [
