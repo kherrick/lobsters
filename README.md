@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-29, 21:45:59](https://lobste.rs/s/bsm3ck/nomor_call_center_agoda_layanan_agoda) - [Nomor Call Center Agoda: Layanan Agoda Reschedule - Bantuan Pelanggan Agoda](https://sites.google.com/view/nomor-call-center-agoda/bio)
+* [2025-11-29, 21:43:21](https://lobste.rs/s/2vfiaq/layanan_agoda_reschedule) - [Layanan Agoda Reschedule](https://lobste.rs/s/2vfiaq/layanan_agoda_reschedule)
 * [2025-11-29, 21:23:01](https://lobste.rs/s/seniup/clade_folding_text_editor) - [The Clade folding text editor](https://tibleiz.net/clade/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
 * [2025-11-29, 19:57:57](https://lobste.rs/s/dtylzc/origins_scala_2009) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
@@ -19,11 +21,9 @@
 * [2025-11-29, 04:42:51](https://lobste.rs/s/hv9zpj/popping_locking_zed_theme) - [popping-and-locking-zed-theme](https://github.com/randoneering/popping-and-locking-zed-theme)
 * [2025-11-28, 22:02:57](https://lobste.rs/s/jxppk7/how_good_engineers_write_bad_code_at_big) - [How good engineers write bad code at big companies](https://www.seangoedecke.com/bad-code-at-big-companies/)
 * [2025-11-28, 21:20:38](https://lobste.rs/s/0nveim/brief_history_nsa_backdoors_2013) - [A Brief History of NSA Backdoors (2013)](https://www.ethanheilman.com/x/12/index.html)
-* [2025-11-28, 18:21:55](https://lobste.rs/s/404y8w/tiny_tpu) - [Tiny TPU](https://www.tinytpu.com/)
 * [2025-11-28, 15:59:49](https://lobste.rs/s/0i4chy/don_t_tug_on_you_never_know_what_it_might_be) - [Don't tug on that, you never know what it might be attached to (2016)](https://blog.plover.com/2016/07/01/#tmpdir)
 * [2025-11-28, 15:30:03](https://lobste.rs/s/xbsdvw/bfs_breadth_first_version_unix_find) - [bfs: A breadth-first version of the UNIX find command](https://github.com/tavianator/bfs)
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone's battery](https://far.computer/battery-update/)
-* [2025-11-28, 11:16:06](https://lobste.rs/s/ogf9hk/help_my_java_object_vanished_gc_is_not_at) - [Help, My Java Object Vanished (and the GC is Not at Fault)](https://arraying.de/posts/markword/)
 * [2025-11-28, 10:46:09](https://lobste.rs/s/60v35g/crdt_dictionary_field_guide_conflict) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary)
 
 ## [Archives](archives/index.md)
