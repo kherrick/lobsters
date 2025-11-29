@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-29, 16:44:34",
+      "https://lobste.rs/s/qtsdoi/schubfach_smallest_state_art_double"
+    ],
+    [
+      "Schubfach: The smallest state-of-the-art double-to-string implementation",
+      "https://vitaut.net/posts/2025/smallest-dtoa/"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 16:41:56",
       "https://lobste.rs/s/ycwei1/setting_wallpaper_with_less_than_250_kb"
     ],
@@ -137,16 +147,6 @@
     [
       "How good engineers write bad code at big companies",
       "https://www.seangoedecke.com/bad-code-at-big-companies/"
-    ]
-  ],
-  [
-    [
-      "2025-11-28, 21:39:39",
-      "https://lobste.rs/s/li0ido/it_is_ok_say_css_variables_instead"
-    ],
-    [
-      "It is OK to Say “CSS Variables” Instead of (or Alongside) “Custom Properties”",
-      "https://blog.kizu.dev/css-variables/"
     ]
   ],
   [
