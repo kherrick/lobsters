@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-11-29, 12:59:02",
+      "https://lobste.rs/s/vthifs/what_do_when_creating_your_codeql"
+    ],
+    [
+      "What to Do When Creating Your CodeQL Database Fails – and How to Report the Perfect Reproducer Using cvise",
+      "https://intrigus.org/research/2025/11/28/what-to-do-when-codeql-database-creation-fails/"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 12:53:02",
       "https://lobste.rs/s/ehcqlu/airbus_issues_major_a320_recall_due"
     ],
@@ -67,16 +77,6 @@
     [
       "git-embigenner: Spam empty commits",
       "https://github.com/veqqq/git-embigenner"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 02:47:15",
-      "https://lobste.rs/s/bkr0ih/fabric_node_creative_coding_3d_image"
-    ],
-    [
-      "Fabric: Node Creative Coding / 3D / Image Processing tool inspired by Quartz Composer",
-      "https://github.com/Fabric-Project/Fabric"
     ]
   ],
   [
