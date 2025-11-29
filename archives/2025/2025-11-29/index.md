@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 14:22:18](https://lobste.rs/s/gtcrvu/langjam_gamejam_build_programming) - [Langjam Gamejam: Build a programming language then make a game with it](https://langjamgamejam.com/)
 * [2025-11-29, 13:59:35](https://lobste.rs/s/dw73zv/symfonycon_2025_talks_slides_code) - [SymfonyCon 2025 talks, slides and code examples are on GitHub](https://github.com/SymfonyCon/2025-talks)
 * [2025-11-29, 12:59:02](https://lobste.rs/s/vthifs/what_do_when_creating_your_codeql) - [What to Do When Creating Your CodeQL Database Fails – and How to Report the Perfect Reproducer Using cvise](https://intrigus.org/research/2025/11/28/what-to-do-when-codeql-database-creation-fails/)
 * [2025-11-29, 12:53:02](https://lobste.rs/s/ehcqlu/airbus_issues_major_a320_recall_due) - [Airbus issues major A320 recall due to software issue](https://www.reuters.com/business/aerospace-defense/airbus-issues-major-a320-recall-after-flight-control-incident-2025-11-28/)
