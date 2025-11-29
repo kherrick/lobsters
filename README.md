@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-29, 21:23:01](https://lobste.rs/s/seniup/clade_folding_text_editor) - [The Clade folding text editor](https://tibleiz.net/clade/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
 * [2025-11-29, 19:57:57](https://lobste.rs/s/dtylzc/origins_scala_2009) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
 * [2025-11-29, 19:51:29](https://lobste.rs/s/xcyhbl/building_ai_agents_for_devops_from_ci_cd) - [Building AI Agents for DevOps: From CI/CD Automation to Autonomous Deployments](https://muhammadraza.me/2025/building-ai-agents-devops-automation/)
@@ -24,7 +25,6 @@
 * [2025-11-28, 13:57:54](https://lobste.rs/s/l77zlu/update_on_farphone_s_battery) - [An update on the farphone's battery](https://far.computer/battery-update/)
 * [2025-11-28, 11:16:06](https://lobste.rs/s/ogf9hk/help_my_java_object_vanished_gc_is_not_at) - [Help, My Java Object Vanished (and the GC is Not at Fault)](https://arraying.de/posts/markword/)
 * [2025-11-28, 10:46:09](https://lobste.rs/s/60v35g/crdt_dictionary_field_guide_conflict) - [The CRDT Dictionary: A Field Guide to Conflict-Free Replicated Data Types](https://www.iankduncan.com/engineering/2025-11-27-crdt-dictionary)
-* [2025-11-28, 08:45:32](https://lobste.rs/s/ybp9wx/is_matrix_multiplication_ugly) - [Is Matrix Multiplication Ugly?](https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/)
 
 ## [Archives](archives/index.md)
 

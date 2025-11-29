@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-29](index.md)
 
+* [2025-11-29, 21:23:01](https://lobste.rs/s/seniup/clade_folding_text_editor) - [The Clade folding text editor](https://tibleiz.net/clade/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
 * [2025-11-29, 19:57:57](https://lobste.rs/s/dtylzc/origins_scala_2009) - [The Origins of Scala (2009)](https://www.artima.com/articles/the-origins-of-scala)
 * [2025-11-29, 19:51:29](https://lobste.rs/s/xcyhbl/building_ai_agents_for_devops_from_ci_cd) - [Building AI Agents for DevOps: From CI/CD Automation to Autonomous Deployments](https://muhammadraza.me/2025/building-ai-agents-devops-automation/)
