@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
 * [2025-11-30, 17:51:57](https://lobste.rs/s/y9mdbc/linux_kernel_explorer_reverser_dev) - [Linux Kernel Explorer | reverser.dev](https://reverser.dev)
+* [2025-11-30, 17:51:57](https://lobste.rs/s/y9mdbc/linux_kernel_explorer) - [Linux Kernel Explorer](https://reverser.dev)
 * [2025-11-30, 17:50:05](https://lobste.rs/s/nddsix/dotcom_survivor_syndrome_how_perl_s_early) - [Dotcom Survivor Syndrome – How Perl’s Early Success Created the Seeds of Its Downfall](https://perlhacks.com/2025/11/dotcom-survivor-syndrome-how-perls-early-success-created-the-seeds-of-its-downfall/)
 * [2025-11-30, 17:01:27](https://lobste.rs/s/wepzub/interop_mathml_core) - [interop and mathml core](https://conflor.es/blog/2025-11-27-interop-and-mathml/)
 * [2025-11-30, 16:52:13](https://lobste.rs/s/9fjia8/windows_drive_letters_are_not_limited_z) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
