@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 08:47:51](https://lobste.rs/s/dcifcp/oops_it_s_kernel_stack_use_after_free) - [Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers](https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html)
 * [2025-11-30, 03:53:14](https://lobste.rs/s/y6hggq/zigbook_is_plagiarizing_zigtools) - [Zigbook is Plagiarizing the Zigtools Playground](https://zigtools.org/blog/zigbook-plagiarizing-playground/)
 * [2025-11-30, 02:31:37](https://lobste.rs/s/a34m1x/datacenters_space_are_terrible_horrible) - [Datacenters in space are a terrible, horrible, no good idea](https://taranis.ie/datacenters-in-space-are-a-terrible-horrible-no-good-idea/)
 * [2025-11-30, 01:38:09](https://lobste.rs/s/22oqr9/landlock_ing_linux) - [Landlock-ing Linux](https://blog.prizrak.me/post/landlock/)
