@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-11-30, 16:17:29](https://lobste.rs/s/p9s9yx/from_zero_github_starting_new_jj_jujutsu) - [From Zero to GitHub: Starting A New jj (Jujutsu) Repo](https://www.visualmode.dev/from-zero-to-github-starting-a-new-jj-jujutsu-repo)
 * [2025-11-30, 16:10:40](https://lobste.rs/s/cni8ze/github_codeberg_my_experience) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
 * [2025-11-30, 14:59:23](https://lobste.rs/s/gtzhvt/advent_code_2025) - [Advent of Code 2025](https://adventofcode.com/2025)
 * [2025-11-30, 14:22:16](https://lobste.rs/s/qxxu6s/http_query_method) - [The HTTP Query Method](https://datatracker.ietf.org/doc/draft-ietf-httpbis-safe-method-w-body/)
@@ -11,7 +12,6 @@
 * [2025-11-30, 01:38:09](https://lobste.rs/s/22oqr9/landlock_ing_linux) - [Landlock-ing Linux](https://blog.prizrak.me/post/landlock/)
 * [2025-11-30, 00:39:59](https://lobste.rs/s/heciwa/pgfirstaid_postgresql_health_check_blog) - [pgFirstAid-The PostgreSQL Health Check Blog Post](https://randoneering.tech/blog/pgfirstaid/pgfirstaid/)
 * [2025-11-30, 00:16:01](https://lobste.rs/s/yaadqy/elf_python_cli_library_for_advent_code) - [elf: Python CLI and library for Advent of Code with input caching and safe submissions](https://github.com/cak/elf)
-* [2025-11-29, 23:05:52](https://lobste.rs/s/bx1zij/eraser_dynamic_data_race_detector_for) - [Eraser: A Dynamic Data Race Detector for Multithreaded Programs (1997)](https://web.stanford.edu/class/archive/cs/cs240/cs240.1054/readings/Tocs97.pdf)
 * [2025-11-29, 22:10:10](https://lobste.rs/s/psril1/computer_wants_lose_your_data_bonus_bits) - [The Computer Wants to Lose Your Data: Bonus Bits](https://blog.sinjakli.co.uk/2025/11/29/the-computer-wants-to-lose-your-data-bonus-bits/)
 * [2025-11-29, 21:23:01](https://lobste.rs/s/seniup/clade_folding_text_editor) - [The Clade folding text editor](https://tibleiz.net/clade/)
 * [2025-11-29, 20:12:34](https://lobste.rs/s/0u9ig2/imgur_geo_blocked_uk_so_i_geo_unblocked_my) - [Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network](https://blog.tymscar.com/posts/imgurukproxy/)
