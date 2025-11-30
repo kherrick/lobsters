@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-11-30, 00:39:59",
+      "https://lobste.rs/s/heciwa/pgfirstaid_postgresql_health_check_blog"
+    ],
+    [
+      "pgFirstAid-The PostgreSQL Health Check Blog Post",
+      "https://randoneering.tech/blog/pgfirstaid/pgfirstaid/"
+    ]
+  ],
+  [
+    [
+      "2025-11-30, 00:16:01",
+      "https://lobste.rs/s/yaadqy/elf_python_cli_library_for_advent_code"
+    ],
+    [
+      "elf: Python CLI and library for Advent of Code with input caching and safe submissions",
+      "https://github.com/cak/elf"
+    ]
+  ],
+  [
+    [
       "2025-11-29, 23:05:52",
       "https://lobste.rs/s/bx1zij/eraser_dynamic_data_race_detector_for"
     ],
@@ -37,16 +57,6 @@
     [
       "Imgur Geo-Blocked the UK, So I Geo-Unblocked My Entire Network",
       "https://blog.tymscar.com/posts/imgurukproxy/"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 19:57:57",
-      "https://lobste.rs/s/dtylzc/origins_scala_2009"
-    ],
-    [
-      "The Origins of Scala (2009)",
-      "https://www.artima.com/articles/the-origins-of-scala"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "System 7 natively boots on the Mac mini G4",
       "https://macos9lives.com/smforum/index.php?topic=7711.0"
-    ]
-  ],
-  [
-    [
-      "2025-11-29, 16:05:37",
-      "https://lobste.rs/s/d9ionb/context_plumbing"
-    ],
-    [
-      "Context plumbing",
-      "https://interconnected.org/home/2025/11/28/plumbing"
     ]
   ],
   [
