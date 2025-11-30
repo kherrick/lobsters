@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-11-30](index.md)
 
+* [2025-11-30, 20:13:25](https://lobste.rs/s/h6bmm2/hacking_on_remarkable_2) - [Hacking on the reMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
+* [2025-11-30, 20:10:14](https://lobste.rs/s/0kkxgk/you_want_microservices_do_you_need_them) - [You Want Microservices—But Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
 * [2025-11-30, 19:21:43](https://lobste.rs/s/fq1avk/real_time_rendering_with_jpeg_compressed) - [Real-Time Rendering with JPEG-Compressed Textures](https://github.com/elias1518693/jpeg_textures)
 * [2025-11-30, 17:51:57](https://lobste.rs/s/y9mdbc/linux_kernel_explorer_reverser_dev) - [Linux Kernel Explorer | reverser.dev](https://reverser.dev)
 * [2025-11-30, 17:51:57](https://lobste.rs/s/y9mdbc/linux_kernel_explorer) - [Linux Kernel Explorer](https://reverser.dev)
