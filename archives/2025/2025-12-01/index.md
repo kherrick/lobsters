@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 23:16:00](https://lobste.rs/s/3mijhp/complex_end_end_tests_using_guix_g) - [Complex end-to-end tests using Guix G-expressions](https://systemreboot.net/post/complex-end-to-end-tests-using-guix-g-expressions.html)
 * [2025-12-01, 21:42:59](https://lobste.rs/s/xamzjw/paged_out_call_for_pages) - [Paged Out - Call for pages](https://pagedout.institute/?page=cfp.php)
 * [2025-12-01, 21:03:23](https://lobste.rs/s/4wqk4q/benchmarking_read_latency_aws_s3_s3) - [Benchmarking read latency of AWS S3, S3 Express, EBS and Instance store](https://nixiesearch.substack.com/p/benchmarking-read-latency-of-aws)
 * [2025-12-01, 20:04:22](https://lobste.rs/s/xqz5rp/why_so_serious_response_ruby_is_not) - [Why So Serious? (A Response to Ruby Is Not a Serious Programming Language)](https://robbyonrails.com/articles/2025/12/01/why-so-serious/)
