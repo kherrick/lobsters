@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 10:49:48](https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus) - [Building the perfect Linux PC with Linus Torvalds](https://youtu.be/mfv0V1SxbNA)
 * [2025-12-01, 10:36:22](https://lobste.rs/s/6joasa/punycode_my_new_favorite_algorithm) - [Punycode: My New Favorite Algorithm](https://www.iankduncan.com/engineering/2025-12-01-punycode)
 * [2025-12-01, 10:24:25](https://lobste.rs/s/kfnqsw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kfnqsw/what_are_you_doing_this_week)
 * [2025-12-01, 10:14:59](https://lobste.rs/s/jxubs2/internet_handle) - [Internet Handle](https://internethandle.org/)
