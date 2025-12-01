@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 23:37:22](https://lobste.rs/s/fkt2is/claude_4_5_opus_soul_document) - [Claude 4.5 Opus' Soul Document](https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document)
 * [2025-12-01, 23:16:00](https://lobste.rs/s/3mijhp/complex_end_end_tests_using_guix_g) - [Complex end-to-end tests using Guix G-expressions](https://systemreboot.net/post/complex-end-to-end-tests-using-guix-g-expressions.html)
 * [2025-12-01, 21:42:59](https://lobste.rs/s/xamzjw/paged_out_call_for_pages) - [Paged Out - Call for pages](https://pagedout.institute/?page=cfp.php)
 * [2025-12-01, 21:03:23](https://lobste.rs/s/4wqk4q/benchmarking_read_latency_aws_s3_s3) - [Benchmarking read latency of AWS S3, S3 Express, EBS and Instance store](https://nixiesearch.substack.com/p/benchmarking-read-latency-of-aws)
