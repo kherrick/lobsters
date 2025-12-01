@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-01, 07:30:40",
+      "https://lobste.rs/s/vz0vom/http_query_method"
+    ],
+    [
+      "The HTTP QUERY Method",
+      "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 06:45:22",
       "https://lobste.rs/s/wsv9xn/size_matters"
     ],
@@ -97,16 +107,6 @@
     [
       "Real-Time Rendering with JPEG-Compressed Textures",
       "https://github.com/elias1518693/jpeg_textures"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 17:51:57",
-      "https://lobste.rs/s/y9mdbc/linux_kernel_explorer"
-    ],
-    [
-      "Linux Kernel Explorer",
-      "https://reverser.dev"
     ]
   ],
   [
