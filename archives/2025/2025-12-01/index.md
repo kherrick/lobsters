@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-01](index.md)
 
+* [2025-12-01, 13:15:27](https://lobste.rs/s/tdwlso/constructing_word_s_first_jpeg_xl_md5_hash) - [Constructing The Word's First JPEG XL MD5 Hash Quine](https://stackchk.fail/blog/jxl_hashquine_writeup)
 * [2025-12-01, 11:41:05](https://lobste.rs/s/njv6w3/around_world_part_27_planting_trees) - [Around The World, Part 27: Planting trees](https://frozenfractal.com/blog/2025/11/28/around-the-world-27-planting-trees/)
 * [2025-12-01, 11:16:40](https://lobste.rs/s/nduylx/online_documentation_for_qt_6_kde) - [Online Documentation for Qt 6, KDE Frameworks, etc. for C & Zig](https://gist.github.com/rcalixte/63757948a7bf4190b469ff09c5ad7a67)
 * [2025-12-01, 10:49:48](https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus) - [Building the perfect Linux PC with Linus Torvalds](https://youtu.be/mfv0V1SxbNA)
