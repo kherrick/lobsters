@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-01, 07:30:40](https://lobste.rs/s/vz0vom/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-14.html)
 * [2025-12-01, 06:45:22](https://lobste.rs/s/wsv9xn/size_matters) - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 * [2025-12-01, 06:12:33](https://lobste.rs/s/swvr1p/one_jobserver_rule_them_all) - [One jobserver to rule them all](https://blogs.gentoo.org/mgorny/2025/11/30/one-jobserver-to-rule-them-all/)
 * [2025-12-01, 03:59:53](https://lobste.rs/s/ujdmkl/boing) - [Boing](https://boing.greg.technology/)
@@ -10,7 +11,6 @@
 * [2025-11-30, 20:13:25](https://lobste.rs/s/h6bmm2/hacking_on_remarkable_2) - [Hacking on the reMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
 * [2025-11-30, 20:10:14](https://lobste.rs/s/0kkxgk/you_want_microservices_do_you_need_them) - [You Want Microservices—But Do You Need Them?](https://www.docker.com/blog/do-you-really-need-microservices/)
 * [2025-11-30, 19:21:43](https://lobste.rs/s/fq1avk/real_time_rendering_with_jpeg_compressed) - [Real-Time Rendering with JPEG-Compressed Textures](https://github.com/elias1518693/jpeg_textures)
-* [2025-11-30, 17:51:57](https://lobste.rs/s/y9mdbc/linux_kernel_explorer) - [Linux Kernel Explorer](https://reverser.dev)
 * [2025-11-30, 16:52:13](https://lobste.rs/s/9fjia8/windows_drive_letters_are_not_limited_z) - [Windows drive letters are not limited to A-Z](https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/)
 * [2025-11-30, 16:17:29](https://lobste.rs/s/p9s9yx/from_zero_github_starting_new_jj_jujutsu) - [From Zero to GitHub: Starting A New jj (Jujutsu) Repo](https://www.visualmode.dev/from-zero-to-github-starting-a-new-jj-jujutsu-repo)
 * [2025-11-30, 16:10:40](https://lobste.rs/s/cni8ze/github_codeberg_my_experience) - [GitHub to Codeberg: my experience](https://eldred.fr/blog/forge-migration/)
