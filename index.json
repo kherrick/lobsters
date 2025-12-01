@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-01, 11:16:40",
+      "https://lobste.rs/s/nduylx/online_documentation_for_qt_6_kde"
+    ],
+    [
+      "Online Documentation for Qt 6, KDE Frameworks, etc. for C & Zig",
+      "https://gist.github.com/rcalixte/63757948a7bf4190b469ff09c5ad7a67"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 10:49:48",
       "https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus"
     ],
@@ -207,16 +217,6 @@
     [
       "Migrating Dillo from GitHub",
       "https://dillo-browser.org/news/migration-from-github/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 08:47:51",
-      "https://lobste.rs/s/dcifcp/oops_it_s_kernel_stack_use_after_free"
-    ],
-    [
-      "Oops! It's a kernel stack use-after-free: Exploiting NVIDIA's GPU Linux drivers",
-      "https://blog.quarkslab.com/nvidia_gpu_kernel_vmalloc_exploit.html"
     ]
   ],
   [
