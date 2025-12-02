@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-02, 00:25:00",
+      "https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement"
+    ],
+    [
+      "FreeBSD 15.0-RELEASE Announcement",
+      "https://www.freebsd.org/releases/15.0R/announce/"
+    ]
+  ],
+  [
+    [
+      "2025-12-01, 23:37:22",
+      "https://lobste.rs/s/fkt2is/claude_4_5_opus_soul_document"
+    ],
+    [
+      "Claude 4.5 Opus' Soul Document",
+      "https://www.lesswrong.com/posts/vpNG99GhbBoLov9og/claude-4-5-opus-soul-document"
+    ]
+  ],
+  [
+    [
       "2025-12-01, 23:16:00",
       "https://lobste.rs/s/3mijhp/complex_end_end_tests_using_guix_g"
     ],
@@ -87,16 +107,6 @@
     [
       "Constructing The Word's First JPEG XL MD5 Hash Quine",
       "https://stackchk.fail/blog/jxl_hashquine_writeup"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 13:14:23",
-      "https://lobste.rs/s/q6bhuq/medley_interlisp_for_newcomer"
-    ],
-    [
-      "Medley Interlisp for the Newcomer",
-      "https://primer.interlisp.org"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Windows drive letters are not limited to A-Z",
       "https://www.ryanliptak.com/blog/windows-drive-letters-are-not-limited-to-a-z/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 16:10:40",
-      "https://lobste.rs/s/cni8ze/github_codeberg_my_experience"
-    ],
-    [
-      "GitHub to Codeberg: my experience",
-      "https://eldred.fr/blog/forge-migration/"
     ]
   ],
   [
