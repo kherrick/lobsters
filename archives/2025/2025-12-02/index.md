@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 18:56:58](https://lobste.rs/s/kgtuc6/quantifying_information_loss) - [Quantifying Information Loss](https://www.testingbranch.com/information_loss_and_noise/)
 * [2025-12-02, 18:41:43](https://lobste.rs/s/ymwbkg/web_based_markdown_editor_with_no_ai) - [Web-based markdown editor with no AI](https://kraa.io/about)
 * [2025-12-02, 18:38:51](https://lobste.rs/s/2toe3f/noise_stability_ml_model_calibration) - [Noise, Stability, and ML model Calibration](https://www.testingbranch.com/noise_study/)
+* [2025-12-02, 18:36:41](https://lobste.rs/s/kwbowm/acme_challenge_for_persistent_dns_txt) - [ACME Challenge for Persistent DNS TXT Record Validation](https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01)
 * [2025-12-02, 17:54:35](https://lobste.rs/s/xvroiv/progress_on_typescript_7_december_2025) - [Progress on TypeScript 7 - December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 17:25:18](https://lobste.rs/s/tvweri/emacsconf_2025) - [EmacsConf 2025](https://emacsconf.org/2025/)
 * [2025-12-02, 16:44:50](https://lobste.rs/s/tyehi5/solid_state_volumetric_display) - [Solid state volumetric display](https://mastodon.social/@ancientjames/115648797968721973)
