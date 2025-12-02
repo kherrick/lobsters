@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-02, 13:33:17",
+      "https://lobste.rs/s/dxrmkd/when_software_becomes_fast_food"
+    ],
+    [
+      "When software becomes fast food",
+      "https://world.hey.com/joaoqalves/when-software-becomes-fast-food-23147c9b"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 12:30:19",
       "https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking"
     ],
@@ -37,6 +47,16 @@
     [
       "PtrHash: Minimal Perfect Hashing at RAM Throughput",
       "https://curiouscoding.nl/posts/ptrhash/"
+    ]
+  ],
+  [
+    [
+      "2025-12-02, 08:19:54",
+      "https://lobste.rs/s/awuxfp/india_orders_smartphone_makers_preload"
+    ],
+    [
+      "India orders smartphone makers to preload state-owned cyber safety app",
+      "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-01, 16:08:51",
-      "https://lobste.rs/s/yp2ez1/compressing_callstacks_bitpacked_dag"
-    ],
-    [
-      "Compressing callstacks: a bitpacked DAG powered by a keyless hashmap",
-      "https://superluminal.eu/compressing-callstacks/"
-    ]
-  ],
-  [
-    [
       "2025-12-01, 14:06:50",
       "https://lobste.rs/s/i40dxk/off_grid_boat_communications_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Boing",
       "https://boing.greg.technology/"
-    ]
-  ],
-  [
-    [
-      "2025-11-30, 23:38:39",
-      "https://lobste.rs/s/e0s8iu/ty_python_type_checker"
-    ],
-    [
-      "ty - Python type checker",
-      "https://docs.astral.sh/ty/"
     ]
   ],
   [
