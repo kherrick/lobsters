@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-02, 06:26:01",
+      "https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git"
+    ],
+    [
+      "Gitmal - a static pages generator for Git repos",
+      "https://github.com/antonmedv/gitmal"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 03:06:53",
       "https://lobste.rs/s/avpdkm/easiest_way_build_type_checker"
     ],
@@ -137,16 +147,6 @@
     [
       "Punycode: My New Favorite Algorithm",
       "https://www.iankduncan.com/engineering/2025-12-01-punycode"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 10:24:25",
-      "https://lobste.rs/s/kfnqsw/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/kfnqsw/what_are_you_doing_this_week"
     ]
   ],
   [
