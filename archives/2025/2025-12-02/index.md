@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 14:52:22](https://lobste.rs/s/ysvvbi/nixtml_static_website_blog_generator) - [nixtml: Static website and blog generator written in nix](https://github.com/arnarg/nixtml)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
 * [2025-12-02, 14:11:02](https://lobste.rs/s/lhdhzn/solving_aoc_q) - [Solving AoC in Q](https://mkst.github.io/)
