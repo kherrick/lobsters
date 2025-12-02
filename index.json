@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-02, 07:00:11",
+      "https://lobste.rs/s/r2bamx/decreasing_certificate_lifetimes_45"
+    ],
+    [
+      "Decreasing Certificate Lifetimes to 45 Days",
+      "https://letsencrypt.org/2025/12/02/from-90-to-45.html"
+    ]
+  ],
+  [
+    [
       "2025-12-02, 06:26:01",
       "https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git"
     ],
@@ -167,16 +177,6 @@
     [
       "Size Matters",
       "https://matklad.github.io/2025/11/28/size-matters.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 06:12:33",
-      "https://lobste.rs/s/swvr1p/one_jobserver_rule_them_all"
-    ],
-    [
-      "One jobserver to rule them all",
-      "https://blogs.gentoo.org/mgorny/2025/11/30/one-jobserver-to-rule-them-all/"
     ]
   ],
   [
