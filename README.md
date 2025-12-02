@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-02, 11:39:18](https://lobste.rs/s/1naccs/new_ai_slop_signal_code_blocks_with_weird) - [New AI slop signal: code blocks with weird indentation](https://xeiaso.net/notes/2025/slop-signal-indentation/)
+* [2025-12-02, 11:31:23](https://lobste.rs/s/2ucpgd/addressing_adding_situation) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 * [2025-12-02, 09:34:34](https://lobste.rs/s/lfnjvn/ptrhash_minimal_perfect_hashing_at_ram) - [PtrHash: Minimal Perfect Hashing at RAM Throughput](https://curiouscoding.nl/posts/ptrhash/)
 * [2025-12-02, 07:13:22](https://lobste.rs/s/aicwcu/mutation_testing_for_librsvg) - [Mutation testing for librsvg](https://viruta.org/mutation-testing-librsvg.html)
 * [2025-12-02, 07:00:11](https://lobste.rs/s/r2bamx/decreasing_certificate_lifetimes_45) - [Decreasing Certificate Lifetimes to 45 Days](https://letsencrypt.org/2025/12/02/from-90-to-45.html)
@@ -19,12 +21,10 @@
 * [2025-12-01, 10:49:48](https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus) - [Building the perfect Linux PC with Linus Torvalds](https://youtu.be/mfv0V1SxbNA)
 * [2025-12-01, 10:36:22](https://lobste.rs/s/6joasa/punycode_my_new_favorite_algorithm) - [Punycode: My New Favorite Algorithm](https://www.iankduncan.com/engineering/2025-12-01-punycode)
 * [2025-12-01, 10:14:59](https://lobste.rs/s/jxubs2/internet_handle) - [Internet Handle](https://internethandle.org/)
-* [2025-12-01, 06:45:22](https://lobste.rs/s/wsv9xn/size_matters) - [Size Matters](https://matklad.github.io/2025/11/28/size-matters.html)
 * [2025-12-01, 03:59:53](https://lobste.rs/s/ujdmkl/boing) - [Boing](https://boing.greg.technology/)
 * [2025-11-30, 23:38:39](https://lobste.rs/s/e0s8iu/ty_python_type_checker) - [ty - Python type checker](https://docs.astral.sh/ty/)
 * [2025-11-30, 21:38:06](https://lobste.rs/s/bvuwhl/nixos_25_11_released) - [NixOS 25.11 released](https://nixos.org/blog/announcements/2025/nixos-2511/)
 * [2025-11-30, 20:13:25](https://lobste.rs/s/h6bmm2/hacking_on_remarkable_2) - [Hacking on the reMarkable 2](https://sgt.hootr.club/blog/hacking-on-the-remarkable-2/)
-* [2025-11-30, 14:09:19](https://lobste.rs/s/mgwwtl/migrating_dillo_from_github) - [Migrating Dillo from GitHub](https://dillo-browser.org/news/migration-from-github/)
 
 ## [Archives](archives/index.md)
 

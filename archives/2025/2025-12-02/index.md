@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
+* [2025-12-02, 11:39:18](https://lobste.rs/s/1naccs/new_ai_slop_signal_code_blocks_with_weird) - [New AI slop signal: code blocks with weird indentation](https://xeiaso.net/notes/2025/slop-signal-indentation/)
+* [2025-12-02, 11:31:23](https://lobste.rs/s/2ucpgd/addressing_adding_situation) - [Addressing the adding situation](https://xania.org/202512/02-adding-integers)
 * [2025-12-02, 09:34:34](https://lobste.rs/s/lfnjvn/ptrhash_minimal_perfect_hashing_at_ram) - [PtrHash: Minimal Perfect Hashing at RAM Throughput](https://curiouscoding.nl/posts/ptrhash/)
 * [2025-12-02, 08:19:54](https://lobste.rs/s/awuxfp/india_orders_smartphone_makers_preload) - [India orders smartphone makers to preload state-owned cyber safety app](https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/)
 * [2025-12-02, 07:13:22](https://lobste.rs/s/aicwcu/mutation_testing_for_librsvg) - [Mutation testing for librsvg](https://viruta.org/mutation-testing-librsvg.html)
