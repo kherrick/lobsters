@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 13:59:21](https://lobste.rs/s/jcrlmk/desugaring_relationship_between) - [Desugaring the Relationship Between Concrete and Abstract Syntax](https://thunderseethe.dev/posts/desugar-base/)
 * [2025-12-03, 12:44:29](https://lobste.rs/s/hjhrcg/you_can_t_fool_optimiser) - [You can't fool the optimiser](https://xania.org/202512/03-more-adding-integers)
 * [2025-12-03, 10:35:15](https://lobste.rs/s/hd5ci1/it_s_not_always_icache) - [It's Not Always ICache](https://matklad.github.io/2021/07/10/its-not-always-icache.html)
 * [2025-12-03, 09:23:39](https://lobste.rs/s/vj2jto/why_sourcegraph_amp_are_becoming) - [Why Sourcegraph and Amp Are Becoming Independent Companies](https://sourcegraph.com/blog/why-sourcegraph-and-amp-are-becoming-independent-companies)
