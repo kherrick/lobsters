@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 17:54:44](https://lobste.rs/s/6w7mnm/critical_security_vulnerability_react) - [Critical Security Vulnerability in React Server Components](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)
+* [2025-12-03, 17:52:44](https://lobste.rs/s/0lk5b3/cyber_resilience_act_implementation) - [Cyber Resilience Act - Implementation](https://digital-strategy.ec.europa.eu/en/factpages/cyber-resilience-act-implementation)
 * [2025-12-03, 17:15:37](https://lobste.rs/s/mdfzhq/marathon_os_gesture_based_mobile_shell) - [Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10](https://marathonos.xyz/)
 * [2025-12-03, 17:08:13](https://lobste.rs/s/jf3xnv/modernizing_reddit_s_comment_backend) - [Modernizing Reddit's Comment Backend Infrastructure](https://www.reddit.com/r/RedditEng/comments/1mbqto6/modernizing_reddits_comment_backend_infrastructure/)
 * [2025-12-03, 15:39:37](https://lobste.rs/s/bngg1m/teaching_values_machines) - [Teaching Values to Machines](https://lord.technology/2025/12/03/teaching-values-to-machines.html)
