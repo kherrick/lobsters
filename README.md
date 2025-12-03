@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-03, 03:43:23](https://lobste.rs/s/gdpcfi/luarrow_true_pipeline_operators_elegant) - [Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua](https://github.com/aiya000/luarrow.lua)
 * [2025-12-03, 03:18:01](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard) - [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/)
 * [2025-12-03, 02:52:19](https://lobste.rs/s/lsf4hv/roko_s_dancing_basilisk) - [Roko's dancing basilisk](https://boston.conman.org/2025/12/02.1)
 * [2025-12-03, 02:03:39](https://lobste.rs/s/1ullif/how_should_we_peer_review_software) - [How should we peer review software?](https://mirawelner.com/posts/peer_review.html)
@@ -23,7 +24,6 @@
 * [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
 * [2025-12-02, 00:25:00](https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement) - [FreeBSD 15.0-RELEASE Announcement](https://www.freebsd.org/releases/15.0R/announce/)
 * [2025-12-01, 19:33:05](https://lobste.rs/s/dv0uwu/why_xor_eax_eax) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
-* [2025-12-01, 18:20:56](https://lobste.rs/s/gvldct/llms_are_failure_new_ai_winter_is_coming) - [LLMs are a failure. A new AI winter is coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)
 * [2025-12-01, 18:19:04](https://lobste.rs/s/lkvvh7/don_t_click_here) - [Don't Click Here](https://www.dont-click-here.com)
 
 ## [Archives](archives/index.md)
