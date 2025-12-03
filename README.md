@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-03, 20:59:16](https://lobste.rs/s/dxqyh4/ghostty_is_now_non_profit) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [2025-12-03, 20:55:36](https://lobste.rs/s/70rhjl/alpine_linux_3_23_0_released_apk_tools_v3) - [Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge](https://alpinelinux.org/posts/Alpine-3.23.0-released.html)
 * [2025-12-03, 19:39:53](https://lobste.rs/s/tzdr8h/no_room_for_error_case_study_gleam) - [No room for error - A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
 * [2025-12-03, 19:07:03](https://lobste.rs/s/777iyv/37_signals_open_sources_fizzy) - [37 Signals open-sources Fizzy](https://github.com/basecamp/fizzy)
@@ -20,7 +21,6 @@
 * [2025-12-03, 02:03:39](https://lobste.rs/s/1ullif/how_should_we_peer_review_software) - [How should we peer review software?](https://mirawelner.com/posts/peer_review.html)
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 18:41:43](https://lobste.rs/s/ymwbkg/web_based_markdown_editor_with_no_ai) - [Web-based markdown editor with no AI](https://kraa.io/about)
-* [2025-12-02, 18:36:41](https://lobste.rs/s/kwbowm/acme_challenge_for_persistent_dns_txt) - [ACME Challenge for Persistent DNS TXT Record Validation](https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
 * [2025-12-02, 12:30:19](https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking) - [Go proposal: Type-safe error checking](https://antonz.org/accepted/errors-astype/)
