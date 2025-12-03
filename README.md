@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-03, 19:07:03](https://lobste.rs/s/777iyv/37_signals_open_sources_fizzy) - [37 Signals open-sources Fizzy](https://github.com/basecamp/fizzy)
 * [2025-12-03, 18:56:29](https://lobste.rs/s/lo8f8p/teaching_llm_niche_diagraming_language) - [Teaching an LLM a Niche Diagraming Language](https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
 * [2025-12-03, 18:21:35](https://lobste.rs/s/ep3vsw/c_enum_class_error_codes) - [C++ Enum Class and Error Codes](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
 * [2025-12-03, 18:18:39](https://lobste.rs/s/1fbv9j/local_first_is_not_offline_first) - [Local-first is not offline-first](https://shortdiv.com/posts/local-first-is-not-offline-first/)
@@ -19,7 +20,6 @@
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 18:41:43](https://lobste.rs/s/ymwbkg/web_based_markdown_editor_with_no_ai) - [Web-based markdown editor with no AI](https://kraa.io/about)
 * [2025-12-02, 18:36:41](https://lobste.rs/s/kwbowm/acme_challenge_for_persistent_dns_txt) - [ACME Challenge for Persistent DNS TXT Record Validation](https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01)
-* [2025-12-02, 17:54:35](https://lobste.rs/s/xvroiv/progress_on_typescript_7_december_2025) - [Progress on TypeScript 7 - December 2025](https://devblogs.microsoft.com/typescript/progress-on-typescript-7-december-2025/)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
 * [2025-12-02, 12:30:19](https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking) - [Go proposal: Type-safe error checking](https://antonz.org/accepted/errors-astype/)
