@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-12-03, 12:44:29",
+      "https://lobste.rs/s/hjhrcg/you_can_t_fool_optimiser"
+    ],
+    [
+      "You can't fool the optimiser",
+      "https://xania.org/202512/03-more-adding-integers"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 10:35:15",
+      "https://lobste.rs/s/hd5ci1/it_s_not_always_icache"
+    ],
+    [
+      "It's Not Always ICache",
+      "https://matklad.github.io/2021/07/10/its-not-always-icache.html"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 08:05:57",
       "https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs"
     ],
     [
       "Zig's new plan for asynchronous programs",
       "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/"
+    ]
+  ],
+  [
+    [
+      "2025-12-03, 03:59:37",
+      "https://lobste.rs/s/iomcvh/how_large_dom_sizes_affect_interactivity"
+    ],
+    [
+      "How large DOM sizes affect interactivity, and what you can do about it (2023)",
+      "https://web.dev/articles/dom-size-and-interactivity"
     ]
   ],
   [
@@ -32,10 +62,10 @@
   [
     [
       "2025-12-03, 02:53:58",
-      "https://lobste.rs/s/2bqnnc/avoiding_space_leaks_at_all_costs"
+      "https://lobste.rs/s/2bqnnc/avoiding_space_leaks_at_all_costs_2022"
     ],
     [
-      "Avoiding space leaks at all costs",
+      "Avoiding space leaks at all costs (2022)",
       "https://chshersh.com/blog/2022-08-08-space-leak.html"
     ]
   ],
@@ -57,16 +87,6 @@
     [
       "How should we peer review software?",
       "https://mirawelner.com/posts/peer_review.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 20:59:02",
-      "https://lobste.rs/s/wk8i4o/composing_capability_security_conflict"
-    ],
-    [
-      "Composing capability security and conflict-free replicated data types",
-      "https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-12-02, 11:31:23",
-      "https://lobste.rs/s/2ucpgd/addressing_adding_situation"
-    ],
-    [
-      "Addressing the adding situation",
-      "https://xania.org/202512/02-adding-integers"
-    ]
-  ],
-  [
-    [
       "2025-12-02, 07:00:11",
       "https://lobste.rs/s/r2bamx/decreasing_certificate_lifetimes_45"
     ],
@@ -227,16 +237,6 @@
     [
       "Gitmal - a static pages generator for Git repos",
       "https://github.com/antonmedv/gitmal"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 00:25:00",
-      "https://lobste.rs/s/azyiij/freebsd_15_0_release_announcement"
-    ],
-    [
-      "FreeBSD 15.0-RELEASE Announcement",
-      "https://www.freebsd.org/releases/15.0R/announce/"
     ]
   ],
   [
