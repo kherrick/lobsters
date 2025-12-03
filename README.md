@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-03, 20:59:16](https://lobste.rs/s/dxqyh4/ghostty_is_now_non_profit) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
+* [2025-12-03, 20:55:36](https://lobste.rs/s/70rhjl/alpine_linux_3_23_0_released_apk_tools_v3) - [Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge](https://alpinelinux.org/posts/Alpine-3.23.0-released.html)
 * [2025-12-03, 19:39:53](https://lobste.rs/s/tzdr8h/no_room_for_error_case_study_gleam) - [No room for error - A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
 * [2025-12-03, 19:07:03](https://lobste.rs/s/777iyv/37_signals_open_sources_fizzy) - [37 Signals open-sources Fizzy](https://github.com/basecamp/fizzy)
 * [2025-12-03, 18:56:29](https://lobste.rs/s/lo8f8p/teaching_llm_niche_diagraming_language) - [Teaching an LLM a Niche Diagraming Language](https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
