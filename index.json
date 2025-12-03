@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 03:43:23",
+      "https://lobste.rs/s/gdpcfi/luarrow_true_pipeline_operators_elegant"
+    ],
+    [
+      "Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua",
+      "https://github.com/aiya000/luarrow.lua"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 03:18:01",
       "https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard"
     ],
@@ -227,16 +237,6 @@
     [
       "Why xor eax, eax?",
       "https://xania.org/202512/01-xor-eax-eax"
-    ]
-  ],
-  [
-    [
-      "2025-12-01, 18:20:56",
-      "https://lobste.rs/s/gvldct/llms_are_failure_new_ai_winter_is_coming"
-    ],
-    [
-      "LLMs are a failure. A new AI winter is coming",
-      "https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/"
     ]
   ],
   [
