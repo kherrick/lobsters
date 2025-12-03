@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 09:23:39](https://lobste.rs/s/vj2jto/why_sourcegraph_amp_are_becoming) - [Why Sourcegraph and Amp Are Becoming Independent Companies](https://sourcegraph.com/blog/why-sourcegraph-and-amp-are-becoming-independent-companies)
 * [2025-12-03, 08:05:57](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/)
 * [2025-12-03, 03:43:23](https://lobste.rs/s/gdpcfi/luarrow_true_pipeline_operators_elegant) - [Luarrow - True pipeline operators and elegant Haskell-style function composition for Lua](https://github.com/aiya000/luarrow.lua)
 * [2025-12-03, 03:18:01](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard) - [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/)
