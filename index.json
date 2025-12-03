@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 08:05:57",
+      "https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs"
+    ],
+    [
+      "Zig's new plan for asynchronous programs",
+      "https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 03:43:23",
       "https://lobste.rs/s/gdpcfi/luarrow_true_pipeline_operators_elegant"
     ],
@@ -47,16 +57,6 @@
     [
       "How should we peer review software?",
       "https://mirawelner.com/posts/peer_review.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 20:59:02",
-      "https://lobste.rs/s/wk8i4o/composing_capability_security_conflict"
-    ],
-    [
-      "Composing capability security and conflict-free replicated data types",
-      "https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html"
     ]
   ],
   [
