@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-03, 20:59:16",
+      "https://lobste.rs/s/dxqyh4/ghostty_is_now_non_profit"
+    ],
+    [
+      "Ghostty Is Now Non-Profit",
+      "https://mitchellh.com/writing/ghostty-non-profit"
+    ]
+  ],
+  [
+    [
       "2025-12-03, 20:55:36",
       "https://lobste.rs/s/70rhjl/alpine_linux_3_23_0_released_apk_tools_v3"
     ],
@@ -197,16 +207,6 @@
     [
       "Web-based markdown editor with no AI",
       "https://kraa.io/about"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 18:36:41",
-      "https://lobste.rs/s/kwbowm/acme_challenge_for_persistent_dns_txt"
-    ],
-    [
-      "ACME Challenge for Persistent DNS TXT Record Validation",
-      "https://datatracker.ietf.org/doc/html/draft-sheurich-acme-dns-persist-01"
     ]
   ],
   [
