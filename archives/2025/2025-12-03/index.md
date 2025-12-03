@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-03](index.md)
 
+* [2025-12-03, 18:21:35](https://lobste.rs/s/ep3vsw/c_enum_class_error_codes) - [C++ Enum Class and Error Codes](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
+* [2025-12-03, 18:18:39](https://lobste.rs/s/1fbv9j/local_first_is_not_offline_first) - [Local-first is not offline-first](https://shortdiv.com/posts/local-first-is-not-offline-first/)
+* [2025-12-03, 18:09:45](https://lobste.rs/s/eseckq/ferrocene_25_11_0_now_available) - [Ferrocene 25.11.0 now available](https://ferrous-systems.com/blog/ferrocene-25-11-0/)
 * [2025-12-03, 17:54:44](https://lobste.rs/s/6w7mnm/critical_security_vulnerability_react) - [Critical Security Vulnerability in React Server Components](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)
 * [2025-12-03, 17:52:44](https://lobste.rs/s/0lk5b3/cyber_resilience_act_implementation) - [Cyber Resilience Act - Implementation](https://digital-strategy.ec.europa.eu/en/factpages/cyber-resilience-act-implementation)
 * [2025-12-03, 17:15:37](https://lobste.rs/s/mdfzhq/marathon_os_gesture_based_mobile_shell) - [Marathon OS: A gesture-based mobile shell and Linux system inspired by BB10](https://marathonos.xyz/)
