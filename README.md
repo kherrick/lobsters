@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-03, 03:18:01](https://lobste.rs/s/ooaiag/running_linux_on_riscpc_why_is_it_so_hard) - [Running Linux on a RiscPC, why is it so hard?](https://www.thejpster.org.uk/blog/blog-2025-12-02/)
+* [2025-12-03, 02:52:19](https://lobste.rs/s/lsf4hv/roko_s_dancing_basilisk) - [Roko's dancing basilisk](https://boston.conman.org/2025/12/02.1)
 * [2025-12-03, 02:03:39](https://lobste.rs/s/1ullif/how_should_we_peer_review_software) - [How should we peer review software?](https://mirawelner.com/posts/peer_review.html)
-* [2025-12-02, 23:48:19](https://lobste.rs/s/odjs8e/nice_meet_you_synthesizing_practical) - [Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://users.cs.utah.edu/~regehr/papers/popl26.pdf)
 * [2025-12-02, 20:59:02](https://lobste.rs/s/wk8i4o/composing_capability_security_conflict) - [Composing capability security and conflict-free replicated data types](https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html)
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 19:15:54](https://lobste.rs/s/yvb1ve/can_we_build_wechat_mini_apps_using_open) - [Can we build WeChat Mini Apps using open web standards?](https://dmathewwws.com/antler-an-irl-browser)
@@ -24,7 +25,6 @@
 * [2025-12-01, 19:33:05](https://lobste.rs/s/dv0uwu/why_xor_eax_eax) - [Why xor eax, eax?](https://xania.org/202512/01-xor-eax-eax)
 * [2025-12-01, 18:20:56](https://lobste.rs/s/gvldct/llms_are_failure_new_ai_winter_is_coming) - [LLMs are a failure. A new AI winter is coming](https://taranis.ie/llms-are-a-failure-a-new-ai-winter-is-coming/)
 * [2025-12-01, 18:19:04](https://lobste.rs/s/lkvvh7/don_t_click_here) - [Don't Click Here](https://www.dont-click-here.com)
-* [2025-12-01, 10:49:48](https://lobste.rs/s/8eawgd/building_perfect_linux_pc_with_linus) - [Building the perfect Linux PC with Linus Torvalds](https://youtu.be/mfv0V1SxbNA)
 
 ## [Archives](archives/index.md)
 
