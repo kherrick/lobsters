@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-02](index.md)
 
 * [2025-12-02, 23:48:19](https://lobste.rs/s/odjs8e/nice_meet_you_synthesizing_practical) - [Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://users.cs.utah.edu/~regehr/papers/popl26.pdf)
+* [2025-12-02, 20:59:02](https://lobste.rs/s/wk8i4o/composing_capability_security_conflict) - [Composing capability security and conflict-free replicated data types](https://spritely.institute/news/composing-capability-security-and-conflict-free-replicated-data-types.html)
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 19:15:54](https://lobste.rs/s/yvb1ve/can_we_build_wechat_mini_apps_using_open) - [Can we build WeChat Mini Apps using open web standards?](https://dmathewwws.com/antler-an-irl-browser)
 * [2025-12-02, 18:56:58](https://lobste.rs/s/kgtuc6/quantifying_information_loss) - [Quantifying Information Loss](https://www.testingbranch.com/information_loss_and_noise/)
