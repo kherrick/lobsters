@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-04, 07:52:53",
+      "https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released"
+    ],
+    [
+      "SWI-Prolog 10.0.0 released",
+      "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 06:44:38",
       "https://lobste.rs/s/0ujeoo/super_flat_asts"
     ],
@@ -237,16 +247,6 @@
     [
       "My First Impressions of MeshCore Off-Grid Messaging",
       "https://mtlynch.io/first-impressions-of-meshcore/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 06:26:01",
-      "https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git"
-    ],
-    [
-      "Gitmal - a static pages generator for Git repos",
-      "https://github.com/antonmedv/gitmal"
     ]
   ]
 ]
