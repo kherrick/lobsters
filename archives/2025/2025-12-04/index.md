@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 22:20:47](https://lobste.rs/s/d5jx09/what_is_package_manager) - [What is a Package Manager?](https://nesbitt.io/2025/12/02/what-is-a-package-manager.html)
 * [2025-12-04, 21:46:54](https://lobste.rs/s/x7glis/jujutsu_v0_36_0_released) - [jujutsu v0.36.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.36.0)
 * [2025-12-04, 21:23:56](https://lobste.rs/s/7saw1o/8086_microcode_explorer) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
 * [2025-12-04, 21:12:03](https://lobste.rs/s/xisyov/what_is_better_lookup_table_enum_type) - [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
