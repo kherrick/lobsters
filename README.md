@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-04, 07:52:53](https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released) - [SWI-Prolog 10.0.0 released](https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412)
 * [2025-12-04, 06:44:38](https://lobste.rs/s/0ujeoo/super_flat_asts) - [Super-flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 05:32:10](https://lobste.rs/s/feeb0w/foreign_dlopen_call_dlopen_from_static) - [foreign-dlopen: call dlopen from static programs](https://github.com/pfalcon/foreign-dlopen/)
 * [2025-12-04, 04:46:49](https://lobste.rs/s/ymmiqg/technical_tour_deepseek_models_from_v3_v3) - [A Technical Tour of the DeepSeek Models from V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek)
@@ -24,7 +25,6 @@
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
-* [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
 
 ## [Archives](archives/index.md)
 
