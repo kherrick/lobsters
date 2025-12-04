@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-04, 21:01:47](https://lobste.rs/s/v82ecm/javascript_announced_30_years_ago) - [JavaScript Announced 30 Years Ago](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2025-12-04, 20:42:13](https://lobste.rs/s/wkuvhx/hello_blog) - [][ Hello blog](https://nobloat.org/articles/2025-07-01-hello-blog.html)
 * [2025-12-04, 20:41:13](https://lobste.rs/s/4pvwma/fairphone_open_sources_fairphone_5_6) - [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/)
 * [2025-12-04, 20:04:42](https://lobste.rs/s/lmyqtn/bcachefs_1_33_0_reconcile) - [bcachefs 1.33.0 - reconcile](https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/)
 * [2025-12-04, 19:18:10](https://lobste.rs/s/ojl8fn/why_ed_1) - [Why ed(1)?](https://blog.thechases.com/posts/cli/why-ed1/)
 * [2025-12-04, 18:27:17](https://lobste.rs/s/qdenps/apl_for_plan9) - [APL for Plan9](https://apl.pmikkelsen.com/)
-* [2025-12-04, 17:30:01](https://lobste.rs/s/3gv7ga/is_pixelfed_sawing_off_branch_fediverse) - [Is Pixelfed sawing off the branch that the Fediverse is sitting on?](https://ploum.net/2025-12-04-pixelfed-against-fediverse.html)
 * [2025-12-04, 17:07:08](https://lobste.rs/s/ud9u0e/functional_quadtrees) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 16:20:11](https://lobste.rs/s/u0k1h6/django_6_0_released) - [Django 6.0 released](https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/)
 * [2025-12-04, 15:58:18](https://lobste.rs/s/wtzco2/hunting_production_only_proxy_bug) - [Hunting a production-only proxy bug in SvelteKit](https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/)
