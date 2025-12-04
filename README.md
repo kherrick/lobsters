@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-04, 20:04:42](https://lobste.rs/s/lmyqtn/bcachefs_1_33_0_reconcile) - [bcachefs 1.33.0 - reconcile](https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/)
 * [2025-12-04, 18:27:17](https://lobste.rs/s/qdenps/apl_for_plan9) - [APL for Plan9](https://apl.pmikkelsen.com/)
 * [2025-12-04, 17:30:01](https://lobste.rs/s/3gv7ga/is_pixelfed_sawing_off_branch_fediverse) - [Is Pixelfed sawing off the branch that the Fediverse is sitting on?](https://ploum.net/2025-12-04-pixelfed-against-fediverse.html)
 * [2025-12-04, 17:07:08](https://lobste.rs/s/ud9u0e/functional_quadtrees) - [Functional Quadtrees](https://lbjgruppen.com/en/posts/functional-quadtree-clojure)
@@ -24,7 +25,6 @@
 * [2025-12-03, 18:18:39](https://lobste.rs/s/1fbv9j/local_first_is_not_offline_first) - [Local-first is not offline-first](https://shortdiv.com/posts/local-first-is-not-offline-first/)
 * [2025-12-03, 18:09:45](https://lobste.rs/s/eseckq/ferrocene_25_11_0_now_available) - [Ferrocene 25.11.0 now available](https://ferrous-systems.com/blog/ferrocene-25-11-0/)
 * [2025-12-03, 17:54:44](https://lobste.rs/s/6w7mnm/critical_security_vulnerability_react) - [Critical Security Vulnerability in React Server Components](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)
-* [2025-12-03, 08:05:57](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/)
 
 ## [Archives](archives/index.md)
 

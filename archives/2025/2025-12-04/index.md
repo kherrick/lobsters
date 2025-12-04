@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 20:04:42](https://lobste.rs/s/lmyqtn/bcachefs_1_33_0_reconcile) - [bcachefs 1.33.0 - reconcile](https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/)
 * [2025-12-04, 18:27:17](https://lobste.rs/s/qdenps/apl_for_plan9) - [APL for Plan9](https://apl.pmikkelsen.com/)
 * [2025-12-04, 17:30:01](https://lobste.rs/s/3gv7ga/is_pixelfed_sawing_off_branch_fediverse) - [Is Pixelfed sawing off the branch that the Fediverse is sitting on?](https://ploum.net/2025-12-04-pixelfed-against-fediverse.html)
 * [2025-12-04, 17:07:08](https://lobste.rs/s/ud9u0e/functional_quadtrees) - [Functional Quadtrees](https://www.lindelystables.dk/en/posts/functional-quadtree-clojure)
