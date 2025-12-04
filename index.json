@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-04, 10:58:11",
+      "https://lobste.rs/s/dvhbwp/walrus_high_performance_distributed_log"
+    ],
+    [
+      "walrus (High Performance distributed log streaming engine)",
+      "https://github.com/nubskr/walrus"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 10:42:13",
       "https://lobste.rs/s/z8gyu7/on_recreating_lost_sdk_for_42_year_old"
     ],
@@ -237,16 +247,6 @@
     [
       "In defense of lock poisoning in Rust",
       "https://sunshowers.io/posts/on-poisoning/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 16:42:31",
-      "https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal"
-    ],
-    [
-      "zmx: session persistence for terminal processes",
-      "https://github.com/neurosnap/zmx"
     ]
   ]
 ]
