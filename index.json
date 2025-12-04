@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-04, 14:43:45",
-      "https://lobste.rs/s/0nwktg/how_work_with_product_taste_adjust"
+      "2025-12-04, 16:20:11",
+      "https://lobste.rs/s/u0k1h6/django_6_0_released"
     ],
     [
-      "How to work with Product: Taste and Adjust",
-      "https://blog.nilenso.com/blog/2025/11/26/how-to-work-with-product-taste-and-adjust/"
+      "Django 6.0 released",
+      "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 15:58:18",
+      "https://lobste.rs/s/wtzco2/hunting_production_only_proxy_bug"
+    ],
+    [
+      "Hunting a production-only proxy bug in SvelteKit",
+      "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "No room for error - A case study of Gleam in production at Uncover",
       "https://gleam.run/case-studies/uncover/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 19:07:03",
-      "https://lobste.rs/s/777iyv/37_signals_open_sources_fizzy"
-    ],
-    [
-      "37 Signals open-sources Fizzy",
-      "https://github.com/basecamp/fizzy"
     ]
   ],
   [
