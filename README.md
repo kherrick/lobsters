@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-04, 14:43:45](https://lobste.rs/s/0nwktg/how_work_with_product_taste_adjust) - [How to work with Product: Taste and Adjust](https://blog.nilenso.com/blog/2025/11/26/how-to-work-with-product-taste-and-adjust/)
+* [2025-12-04, 16:20:11](https://lobste.rs/s/u0k1h6/django_6_0_released) - [Django 6.0 released](https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/)
+* [2025-12-04, 15:58:18](https://lobste.rs/s/wtzco2/hunting_production_only_proxy_bug) - [Hunting a production-only proxy bug in SvelteKit](https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/)
 * [2025-12-04, 14:04:13](https://lobste.rs/s/omnyrf/svg_filters_clickjacking_2_0) - [SVG Filters - Clickjacking 2.0](https://lyra.horse/blog/2025/12/svg-clickjacking/)
 * [2025-12-04, 11:44:00](https://lobste.rs/s/ffick3/tunnl_gg_expose_localhost_internet) - [tunnl.gg | Expose localhost to the internet](https://tunnl.gg/)
 * [2025-12-04, 11:34:59](https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer) - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
@@ -17,7 +18,6 @@
 * [2025-12-03, 20:59:16](https://lobste.rs/s/dxqyh4/ghostty_is_now_non_profit) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [2025-12-03, 20:55:36](https://lobste.rs/s/70rhjl/alpine_linux_3_23_0_released_apk_tools_v3) - [Alpine Linux 3.23.0 Released: apk-tools v3, linux-stable replaces linux-edge](https://alpinelinux.org/posts/Alpine-3.23.0-released.html)
 * [2025-12-03, 19:39:53](https://lobste.rs/s/tzdr8h/no_room_for_error_case_study_gleam) - [No room for error - A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
-* [2025-12-03, 19:07:03](https://lobste.rs/s/777iyv/37_signals_open_sources_fizzy) - [37 Signals open-sources Fizzy](https://github.com/basecamp/fizzy)
 * [2025-12-03, 18:56:29](https://lobste.rs/s/lo8f8p/teaching_llm_niche_diagraming_language) - [Teaching an LLM a Niche Diagraming Language](https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
 * [2025-12-03, 18:18:39](https://lobste.rs/s/1fbv9j/local_first_is_not_offline_first) - [Local-first is not offline-first](https://shortdiv.com/posts/local-first-is-not-offline-first/)
 * [2025-12-03, 18:09:45](https://lobste.rs/s/eseckq/ferrocene_25_11_0_now_available) - [Ferrocene 25.11.0 now available](https://ferrous-systems.com/blog/ferrocene-25-11-0/)
