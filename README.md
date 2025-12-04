@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-04, 06:44:38](https://lobste.rs/s/0ujeoo/super_flat_asts) - [Super-flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 05:32:10](https://lobste.rs/s/feeb0w/foreign_dlopen_call_dlopen_from_static) - [foreign-dlopen: call dlopen from static programs](https://github.com/pfalcon/foreign-dlopen/)
 * [2025-12-04, 04:46:49](https://lobste.rs/s/ymmiqg/technical_tour_deepseek_models_from_v3_v3) - [A Technical Tour of the DeepSeek Models from V3 to V3.2](https://magazine.sebastianraschka.com/p/technical-deepseek)
 * [2025-12-04, 04:11:16](https://lobste.rs/s/ihdozl/what_i_learned_building_opinionated) - [What I learned building an opinionated and minimal coding agent](https://mariozechner.at/posts/2025-11-30-pi-coding-agent/)
@@ -21,7 +22,6 @@
 * [2025-12-03, 08:05:57](https://lobste.rs/s/uzfrya/zig_s_new_plan_for_asynchronous_programs) - [Zig's new plan for asynchronous programs](https://lwn.net/SubscriberLink/1046084/6cb9e4e1fd82a90d/)
 * [2025-12-03, 02:03:39](https://lobste.rs/s/1ullif/how_should_we_peer_review_software) - [How should we peer review software?](https://mirawelner.com/posts/peer_review.html)
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
-* [2025-12-02, 18:41:43](https://lobste.rs/s/ymwbkg/web_based_markdown_editor_with_no_ai) - [Web-based markdown editor with no AI](https://kraa.io/about)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
 * [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
 * [2025-12-02, 06:26:01](https://lobste.rs/s/c8bzzd/gitmal_static_pages_generator_for_git) - [Gitmal - a static pages generator for Git repos](https://github.com/antonmedv/gitmal)
