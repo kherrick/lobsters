@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-04, 04:46:49",
+      "https://lobste.rs/s/ymmiqg/technical_tour_deepseek_models_from_v3_v3"
+    ],
+    [
+      "A Technical Tour of the DeepSeek Models from V3 to V3.2",
+      "https://magazine.sebastianraschka.com/p/technical-deepseek"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 04:11:16",
       "https://lobste.rs/s/ihdozl/what_i_learned_building_opinionated"
     ],
@@ -227,16 +237,6 @@
     [
       "My First Impressions of MeshCore Off-Grid Messaging",
       "https://mtlynch.io/first-impressions-of-meshcore/"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 12:30:19",
-      "https://lobste.rs/s/dngk6l/go_proposal_type_safe_error_checking"
-    ],
-    [
-      "Go proposal: Type-safe error checking",
-      "https://antonz.org/accepted/errors-astype/"
     ]
   ],
   [
