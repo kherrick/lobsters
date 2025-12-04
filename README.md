@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-04, 10:42:13](https://lobste.rs/s/z8gyu7/on_recreating_lost_sdk_for_42_year_old) - [On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On](https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md)
+* [2025-12-04, 10:32:26](https://lobste.rs/s/psmwt9/human_writes_font) - [The Human Writes Font](https://humanwritesfont.com/)
 * [2025-12-04, 07:52:53](https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released) - [SWI-Prolog 10.0.0 released](https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412)
 * [2025-12-04, 06:44:38](https://lobste.rs/s/0ujeoo/super_flat_asts) - [Super-flat ASTs](https://jhwlr.io/super-flat-ast/)
 * [2025-12-04, 05:32:10](https://lobste.rs/s/feeb0w/foreign_dlopen_call_dlopen_from_static) - [foreign-dlopen: call dlopen from static programs](https://github.com/pfalcon/foreign-dlopen/)
@@ -11,7 +13,6 @@
 * [2025-12-03, 19:39:53](https://lobste.rs/s/tzdr8h/no_room_for_error_case_study_gleam) - [No room for error - A case study of Gleam in production at Uncover](https://gleam.run/case-studies/uncover/)
 * [2025-12-03, 19:07:03](https://lobste.rs/s/777iyv/37_signals_open_sources_fizzy) - [37 Signals open-sources Fizzy](https://github.com/basecamp/fizzy)
 * [2025-12-03, 18:56:29](https://lobste.rs/s/lo8f8p/teaching_llm_niche_diagraming_language) - [Teaching an LLM a Niche Diagraming Language](https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
-* [2025-12-03, 18:21:35](https://lobste.rs/s/ep3vsw/c_enum_class_error_codes) - [C++ Enum Class and Error Codes](https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/)
 * [2025-12-03, 18:18:39](https://lobste.rs/s/1fbv9j/local_first_is_not_offline_first) - [Local-first is not offline-first](https://shortdiv.com/posts/local-first-is-not-offline-first/)
 * [2025-12-03, 18:09:45](https://lobste.rs/s/eseckq/ferrocene_25_11_0_now_available) - [Ferrocene 25.11.0 now available](https://ferrous-systems.com/blog/ferrocene-25-11-0/)
 * [2025-12-03, 17:54:44](https://lobste.rs/s/6w7mnm/critical_security_vulnerability_react) - [Critical Security Vulnerability in React Server Components](https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components)
@@ -24,7 +25,6 @@
 * [2025-12-03, 02:03:39](https://lobste.rs/s/1ullif/how_should_we_peer_review_software) - [How should we peer review software?](https://mirawelner.com/posts/peer_review.html)
 * [2025-12-02, 19:59:53](https://lobste.rs/s/vkyrtf/defense_lock_poisoning_rust) - [In defense of lock poisoning in Rust](https://sunshowers.io/posts/on-poisoning/)
 * [2025-12-02, 16:42:31](https://lobste.rs/s/fvdh2d/zmx_session_persistence_for_terminal) - [zmx: session persistence for terminal processes](https://github.com/neurosnap/zmx)
-* [2025-12-02, 14:20:03](https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid) - [My First Impressions of MeshCore Off-Grid Messaging](https://mtlynch.io/first-impressions-of-meshcore/)
 
 ## [Archives](archives/index.md)
 
