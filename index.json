@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-04, 10:42:13",
+      "https://lobste.rs/s/z8gyu7/on_recreating_lost_sdk_for_42_year_old"
+    ],
+    [
+      "On recreating the lost SDK for a 42-year-old operating system: VisiCorp Visi On",
+      "https://git.sr.ht/~nkali/vision-sdk/tree/main/note/index.md"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 10:32:26",
+      "https://lobste.rs/s/psmwt9/human_writes_font"
+    ],
+    [
+      "The Human Writes Font",
+      "https://humanwritesfont.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 07:52:53",
       "https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released"
     ],
@@ -107,16 +127,6 @@
     [
       "Teaching an LLM a Niche Diagraming Language",
       "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 18:21:35",
-      "https://lobste.rs/s/ep3vsw/c_enum_class_error_codes"
-    ],
-    [
-      "C++ Enum Class and Error Codes",
-      "https://mropert.github.io/2025/12/03/enum_class_error_codes_part3/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "zmx: session persistence for terminal processes",
       "https://github.com/neurosnap/zmx"
-    ]
-  ],
-  [
-    [
-      "2025-12-02, 14:20:03",
-      "https://lobste.rs/s/fd2j1n/my_first_impressions_meshcore_off_grid"
-    ],
-    [
-      "My First Impressions of MeshCore Off-Grid Messaging",
-      "https://mtlynch.io/first-impressions-of-meshcore/"
     ]
   ]
 ]
