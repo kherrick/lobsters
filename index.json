@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-04, 11:44:00",
+      "https://lobste.rs/s/ffick3/tunnl_gg_expose_localhost_internet"
+    ],
+    [
+      "tunnl.gg | Expose localhost to the internet",
+      "https://tunnl.gg/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 11:34:59",
       "https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer"
     ],
@@ -87,16 +97,6 @@
     [
       "foreign-dlopen: call dlopen from static programs",
       "https://github.com/pfalcon/foreign-dlopen/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 04:46:49",
-      "https://lobste.rs/s/ymmiqg/technical_tour_deepseek_models_from_v3_v3"
-    ],
-    [
-      "A Technical Tour of the DeepSeek Models from V3 to V3.2",
-      "https://magazine.sebastianraschka.com/p/technical-deepseek"
     ]
   ],
   [
