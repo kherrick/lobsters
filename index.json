@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-04, 19:18:10",
+      "https://lobste.rs/s/ojl8fn/why_ed_1"
+    ],
+    [
+      "Why ed(1)?",
+      "https://blog.thechases.com/posts/cli/why-ed1/"
+    ]
+  ],
+  [
+    [
       "2025-12-04, 18:27:17",
       "https://lobste.rs/s/qdenps/apl_for_plan9"
     ],
@@ -237,16 +247,6 @@
     [
       "Local-first is not offline-first",
       "https://shortdiv.com/posts/local-first-is-not-offline-first/"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 17:54:44",
-      "https://lobste.rs/s/6w7mnm/critical_security_vulnerability_react"
-    ],
-    [
-      "Critical Security Vulnerability in React Server Components",
-      "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components"
     ]
   ]
 ]
