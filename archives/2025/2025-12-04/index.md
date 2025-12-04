@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 18:27:17](https://lobste.rs/s/qdenps/apl_for_plan9) - [APL for Plan9](https://apl.pmikkelsen.com/)
 * [2025-12-04, 17:30:01](https://lobste.rs/s/3gv7ga/is_pixelfed_sawing_off_branch_fediverse) - [Is Pixelfed sawing off the branch that the Fediverse is sitting on?](https://ploum.net/2025-12-04-pixelfed-against-fediverse.html)
+* [2025-12-04, 17:07:08](https://lobste.rs/s/ud9u0e/functional_quadtrees) - [Functional Quadtrees](https://www.lindelystables.dk/en/posts/functional-quadtree-clojure)
 * [2025-12-04, 16:20:11](https://lobste.rs/s/u0k1h6/django_6_0_released) - [Django 6.0 released](https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/)
 * [2025-12-04, 15:58:18](https://lobste.rs/s/wtzco2/hunting_production_only_proxy_bug) - [Hunting a production-only proxy bug in SvelteKit](https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/)
 * [2025-12-04, 14:43:45](https://lobste.rs/s/0nwktg/how_work_with_product_taste_adjust) - [How to work with Product: Taste and Adjust](https://blog.nilenso.com/blog/2025/11/26/how-to-work-with-product-taste-and-adjust/)
