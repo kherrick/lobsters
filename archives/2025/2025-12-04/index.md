@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-04](index.md)
+
+* [2025-12-04, 00:23:30](https://lobste.rs/s/l0l4xq/trees_j_wiki) - [Trees - J Wiki](https://code.jsoftware.com/wiki/User:Devon_McCormick/Trees)
