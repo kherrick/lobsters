@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-05, 13:02:50",
+      "https://lobste.rs/s/gv0fzl/golang_s_big_miss_on_memory_arenas"
+    ],
+    [
+      "Golang’s Big Miss on Memory Arenas",
+      "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 12:43:01",
+      "https://lobste.rs/s/gdtbbh/performance_revolution_javascript"
+    ],
+    [
+      "The Performance Revolution in JavaScript Tooling",
+      "https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 11:12:00",
       "https://lobste.rs/s/lm8vm2/lisp_style_design"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-12-04, 11:44:00",
-      "https://lobste.rs/s/ffick3/tunnl_gg_expose_localhost_internet"
-    ],
-    [
-      "tunnl.gg | Expose localhost to the internet",
-      "https://tunnl.gg/"
-    ]
-  ],
-  [
-    [
       "2025-12-04, 11:34:59",
       "https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer"
     ],
@@ -237,16 +247,6 @@
     [
       "Ghostty Is Now Non-Profit",
       "https://mitchellh.com/writing/ghostty-non-profit"
-    ]
-  ],
-  [
-    [
-      "2025-12-03, 18:56:29",
-      "https://lobste.rs/s/lo8f8p/teaching_llm_niche_diagraming_language"
-    ],
-    [
-      "Teaching an LLM a Niche Diagraming Language",
-      "https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language"
     ]
   ]
 ]
