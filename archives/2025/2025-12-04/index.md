@@ -12,6 +12,7 @@
 * [2025-12-04, 20:42:13](https://lobste.rs/s/wkuvhx/hello_blog) - [][ Hello blog](https://nobloat.org/articles/2025-07-01-hello-blog.html)
 * [2025-12-04, 20:41:13](https://lobste.rs/s/4pvwma/fairphone_open_sources_fairphone_5_6) - [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/)
 * [2025-12-04, 20:04:42](https://lobste.rs/s/lmyqtn/bcachefs_1_33_0_reconcile) - [bcachefs 1.33.0 - reconcile](https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/)
+* [2025-12-04, 19:58:39](https://lobste.rs/s/asnk6f/rsync_net_technical_notes_q4) - [rsync.net technical notes Q4](https://www.rsync.net/resources/notes/2025-q4-rsync.net_technotes.html)
 * [2025-12-04, 19:18:10](https://lobste.rs/s/ojl8fn/why_ed_1) - [Why ed(1)?](https://blog.thechases.com/posts/cli/why-ed1/)
 * [2025-12-04, 18:27:17](https://lobste.rs/s/qdenps/apl_for_plan9) - [APL for Plan9](https://apl.pmikkelsen.com/)
 * [2025-12-04, 17:30:01](https://lobste.rs/s/3gv7ga/is_pixelfed_sawing_off_branch_fediverse) - [Is Pixelfed sawing off the branch that the Fediverse is sitting on?](https://ploum.net/2025-12-04-pixelfed-against-fediverse.html)
