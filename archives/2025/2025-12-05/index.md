@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 16:50:24](https://lobste.rs/s/shx10i/coupongogo_remote_controlled_crypto) - [Coupongogo: Remote-Controlled Crypto Stealer Targeting Developers on GitHub](https://www.rastersec.com/blog/coupongogo-cryptostealer)
 * [2025-12-05, 16:38:03](https://lobste.rs/s/brah61/when_square_pixels_aren_t_square) - [When square pixels aren’t square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-05, 15:07:51](https://lobste.rs/s/nux2xg/typewriter_plotters) - [Typewriter plotters](https://biosrhythm.com/?p=2143)
 * [2025-12-05, 13:33:05](https://lobste.rs/s/9lbkyn/1600_columns_limit_postgresql_how_many) - [The 1600 columns limit in PostgreSQL - how many columns fit into a table](https://andreas.scherbaum.la/post/2025-12-04_the-1600-columns-limit-in-postgresql-how-many-columns-fit-into-a-table/)
