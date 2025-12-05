@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
 * [2025-12-05, 19:41:33](https://lobste.rs/s/mxujt7/picking_optimal_token_ids) - [Picking Optimal Token IDs](https://notes.hella.cheap/picking-optimal-token-ids.html)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 17:45:46](https://lobste.rs/s/vu84qa/c_style_property_c) - [C#-style property in C++](https://vorbrodt.blog/2025/12/05/c-style-property-in-c/)
