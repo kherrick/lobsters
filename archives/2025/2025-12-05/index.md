@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 17:45:46](https://lobste.rs/s/vu84qa/c_style_property_c) - [C#-style property in C++](https://vorbrodt.blog/2025/12/05/c-style-property-in-c/)
+* [2025-12-05, 17:44:15](https://lobste.rs/s/lh9u4r/s_expression_array_for_lightweight) - [S-Expression Array for Lightweight Immutable Representation (SealIR)](https://github.com/numba/sealir)
 * [2025-12-05, 17:12:29](https://lobste.rs/s/ssksx7/when_video_codec_wins_emmy) - [When a video codec wins an Emmy](https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/)
 * [2025-12-05, 17:05:27](https://lobste.rs/s/jjkbno/eventual_rust_cpython) - [Eventual Rust in CPython](https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/)
 * [2025-12-05, 16:50:24](https://lobste.rs/s/shx10i/coupongogo_remote_controlled_crypto) - [Coupongogo: Remote-Controlled Crypto Stealer Targeting Developers on GitHub](https://www.rastersec.com/blog/coupongogo-cryptostealer)
