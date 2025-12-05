@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-05, 10:54:28",
+      "https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 05:12:20",
       "https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025"
     ],
@@ -137,16 +147,6 @@
     [
       "Django 6.0 released",
       "https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 15:58:18",
-      "https://lobste.rs/s/wtzco2/hunting_production_only_proxy_bug"
-    ],
-    [
-      "Hunting a production-only proxy bug in SvelteKit",
-      "https://drew.silcock.dev/blog/fixing-a-bug-in-sveltekit/"
     ]
   ],
   [
