@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-05, 17:12:29",
-      "https://lobste.rs/s/ssksx7/when_video_codec_wins_emmy"
+      "2025-12-05, 17:45:46",
+      "https://lobste.rs/s/vu84qa/c_style_property_c"
     ],
     [
-      "When a video codec wins an Emmy",
-      "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/"
+      "C#-style property in C++",
+      "https://vorbrodt.blog/2025/12/05/c-style-property-in-c/"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 17:44:15",
+      "https://lobste.rs/s/lh9u4r/s_expression_array_for_lightweight"
+    ],
+    [
+      "S-Expression Array for Lightweight Immutable Representation (SealIR)",
+      "https://github.com/numba/sealir"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Typewriter plotters",
       "https://biosrhythm.com/?p=2143"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 13:33:05",
-      "https://lobste.rs/s/9lbkyn/1600_columns_limit_postgresql_how_many"
-    ],
-    [
-      "The 1600 columns limit in PostgreSQL - how many columns fit into a table",
-      "https://andreas.scherbaum.la/post/2025-12-04_the-1600-columns-limit-in-postgresql-how-many-columns-fit-into-a-table/"
     ]
   ],
   [
