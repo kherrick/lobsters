@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 17:45:46](https://lobste.rs/s/vu84qa/c_style_property_c) - [C#-style property in C++](https://vorbrodt.blog/2025/12/05/c-style-property-in-c/)
 * [2025-12-05, 17:44:15](https://lobste.rs/s/lh9u4r/s_expression_array_for_lightweight) - [S-Expression Array for Lightweight Immutable Representation (SealIR)](https://github.com/numba/sealir)
 * [2025-12-05, 17:34:24](https://lobste.rs/s/fxccgk/resonant_computing_manifesto) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
