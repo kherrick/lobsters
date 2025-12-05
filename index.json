@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2025-12-04, 21:23:56",
-      "https://lobste.rs/s/7saw1o/8086_microcode_explorer"
+      "2025-12-04, 21:12:03",
+      "https://lobste.rs/s/xisyov/what_is_better_lookup_table_enum_type"
     ],
     [
-      "8086 Microcode Explorer",
-      "https://nand2mario.github.io/8086_microcode.html"
+      "What is better: a lookup table or an enum type?",
+      "https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "bcachefs 1.33.0 - reconcile",
       "https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/"
+    ]
+  ],
+  [
+    [
+      "2025-12-04, 19:58:39",
+      "https://lobste.rs/s/asnk6f/rsync_net_technical_notes_q4"
+    ],
+    [
+      "rsync.net technical notes Q4",
+      "https://www.rsync.net/resources/notes/2025-q4-rsync.net_technotes.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "The Human Writes Font",
       "https://humanwritesfont.com/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 09:19:58",
-      "https://lobste.rs/s/fohqx5/if_it_ain_t_broke"
-    ],
-    [
-      "If it ain’t broke, …",
-      "https://www.dra27.uk/blog/platform/2025/12/01/if-it-aint-broke.html"
     ]
   ],
   [
