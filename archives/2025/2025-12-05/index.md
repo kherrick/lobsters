@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 05:12:20](https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025) - [How to speed up the Rust compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html)
+* [2025-12-05, 02:45:11](https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-05, 02:41:30](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks) - [Lobsters Interview with Aks](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks)

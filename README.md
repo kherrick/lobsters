@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-05, 05:12:20](https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025) - [How to speed up the Rust compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html)
+* [2025-12-05, 02:45:11](https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-05, 02:41:30](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks) - [Lobsters Interview with Aks](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks)
 * [2025-12-04, 23:19:14](https://lobste.rs/s/cbyhwk/this_month_redox_november_2025) - [This Month in Redox - November 2025](https://www.redox-os.org/news/this-month-251130/)
 * [2025-12-04, 21:46:54](https://lobste.rs/s/x7glis/jujutsu_v0_36_0_released) - [jujutsu v0.36.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.36.0)
-* [2025-12-04, 21:23:56](https://lobste.rs/s/7saw1o/8086_microcode_explorer) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
 * [2025-12-04, 21:12:03](https://lobste.rs/s/xisyov/what_is_better_lookup_table_enum_type) - [What is better: a lookup table or an enum type?](https://www.cybertec-postgresql.com/en/lookup-table-or-enum-type/)
 * [2025-12-04, 21:01:47](https://lobste.rs/s/v82ecm/javascript_announced_30_years_ago) - [JavaScript Announced 30 Years Ago](https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2025-12-04, 20:42:13](https://lobste.rs/s/wkuvhx/hello_blog) - [][ Hello blog](https://nobloat.org/articles/2025-07-01-hello-blog.html)
@@ -22,7 +23,6 @@
 * [2025-12-04, 10:32:26](https://lobste.rs/s/psmwt9/human_writes_font) - [The Human Writes Font](https://humanwritesfont.com/)
 * [2025-12-04, 07:52:53](https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released) - [SWI-Prolog 10.0.0 released](https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412)
 * [2025-12-04, 06:44:38](https://lobste.rs/s/0ujeoo/super_flat_asts) - [Super-flat ASTs](https://jhwlr.io/super-flat-ast/)
-* [2025-12-04, 05:32:10](https://lobste.rs/s/feeb0w/foreign_dlopen_call_dlopen_from_static) - [foreign-dlopen: call dlopen from static programs](https://github.com/pfalcon/foreign-dlopen/)
 * [2025-12-03, 20:59:16](https://lobste.rs/s/dxqyh4/ghostty_is_now_non_profit) - [Ghostty Is Now Non-Profit](https://mitchellh.com/writing/ghostty-non-profit)
 * [2025-12-03, 18:56:29](https://lobste.rs/s/lo8f8p/teaching_llm_niche_diagraming_language) - [Teaching an LLM a Niche Diagraming Language](https://huy.rocks/everyday/12-01-2025-ai-teaching-an-llm-a-niche-diagraming-language)
 
