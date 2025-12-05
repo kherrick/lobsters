@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-04](index.md)
 
+* [2025-12-04, 23:19:14](https://lobste.rs/s/cbyhwk/this_month_redox_november_2025) - [This Month in Redox - November 2025](https://www.redox-os.org/news/this-month-251130/)
 * [2025-12-04, 22:20:47](https://lobste.rs/s/d5jx09/what_is_package_manager) - [What is a Package Manager?](https://nesbitt.io/2025/12/02/what-is-a-package-manager.html)
 * [2025-12-04, 21:46:54](https://lobste.rs/s/x7glis/jujutsu_v0_36_0_released) - [jujutsu v0.36.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.36.0)
 * [2025-12-04, 21:23:56](https://lobste.rs/s/7saw1o/8086_microcode_explorer) - [8086 Microcode Explorer](https://nand2mario.github.io/8086_microcode.html)
