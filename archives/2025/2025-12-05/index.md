@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 22:12:36](https://lobste.rs/s/h5w2fq/oss_friday_update_shape_ruby_i_o_come) - [OSS Friday Update - The Shape of Ruby I/O to Come](https://noteflakes.com/articles/2025-12-05-friday-update)
+* [2025-12-05, 21:48:52](https://lobste.rs/s/cqruqw/path_mojo_1_0) - [The Path to Mojo 1.0](https://www.modular.com/blog/the-path-to-mojo-1-0)
 * [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
 * [2025-12-05, 19:41:33](https://lobste.rs/s/mxujt7/picking_optimal_token_ids) - [Picking Optimal Token IDs](https://notes.hella.cheap/picking-optimal-token-ids.html)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
