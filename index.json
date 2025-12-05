@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-12-05, 11:12:00",
+      "https://lobste.rs/s/lm8vm2/lisp_style_design"
+    ],
+    [
+      "LISP Style & Design",
+      "https://archive.org/details/miller-and-benson-1990-lisp-style-design"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 10:54:28",
       "https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend"
     ],
@@ -217,16 +227,6 @@
     [
       "PGlite - Embeddable Postgres",
       "https://pglite.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 07:52:53",
-      "https://lobste.rs/s/kiouhn/swi_prolog_10_0_0_released"
-    ],
-    [
-      "SWI-Prolog 10.0.0 released",
-      "https://swi-prolog.discourse.group/t/ann-swi-prolog-10-0-0-stable/9412"
     ]
   ],
   [
