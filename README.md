@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-05, 17:45:46](https://lobste.rs/s/vu84qa/c_style_property_c) - [C#-style property in C++](https://vorbrodt.blog/2025/12/05/c-style-property-in-c/)
 * [2025-12-05, 17:34:24](https://lobste.rs/s/fxccgk/resonant_computing_manifesto) - [The Resonant Computing Manifesto](https://resonantcomputing.org/)
 * [2025-12-05, 17:05:27](https://lobste.rs/s/jjkbno/eventual_rust_cpython) - [Eventual Rust in CPython](https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/)
+* [2025-12-05, 16:38:03](https://lobste.rs/s/brah61/when_square_pixels_aren_t_square) - [When square pixels aren’t square](https://alexwlchan.net/2025/square-pixels/)
 * [2025-12-05, 15:07:51](https://lobste.rs/s/nux2xg/typewriter_plotters) - [Typewriter plotters](https://biosrhythm.com/?p=2143)
 * [2025-12-05, 13:27:25](https://lobste.rs/s/9i16af/layoutz_simple_beautiful_cli_output_for) - [Layoutz – Simple, beautiful CLI output for Haskell 🪶](https://flora.pm/packages/@hackage/layoutz)
 * [2025-12-05, 13:02:50](https://lobste.rs/s/gv0fzl/golang_s_big_miss_on_memory_arenas) - [Golang’s Big Miss on Memory Arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
