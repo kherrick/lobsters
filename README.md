@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-06, 15:53:49](https://lobste.rs/s/sow4fy/i_built_tiny_rss_generator_for_my_advent) - [I built a tiny RSS generator for my Advent of Code solutions](https://hamatti.org/posts/i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions/)
 * [2025-12-06, 10:46:37](https://lobste.rs/s/ly8qtt/what_is_modal) - [What is Modal?](https://modal.cx/blog/what-is-modal/)
 * [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://flow-control.dev)
 * [2025-12-06, 06:10:26](https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis) - [CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones](https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis)
@@ -23,7 +24,6 @@
 * [2025-12-05, 05:12:20](https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025) - [How to speed up the Rust compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html)
 * [2025-12-05, 02:45:11](https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
 * [2025-12-04, 20:42:13](https://lobste.rs/s/wkuvhx/hello_blog) - [][ Hello blog](https://nobloat.org/articles/2025-07-01-hello-blog.html)
-* [2025-12-04, 20:41:13](https://lobste.rs/s/4pvwma/fairphone_open_sources_fairphone_5_6) - [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/)
 * [2025-12-04, 11:34:59](https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer) - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 
 ## [Archives](archives/index.md)
