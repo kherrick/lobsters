@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-06, 18:55:16",
+      "https://lobste.rs/s/x2qsqg/fixed_points_strike_mandates_2012"
+    ],
+    [
+      "Fixed Points and Strike Mandates (2012)",
+      "https://www.pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 17:40:01",
       "https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it"
     ],
@@ -227,16 +237,6 @@
     [
       "Golang’s Big Miss on Memory Arenas",
       "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 05:12:20",
-      "https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025"
-    ],
-    [
-      "How to speed up the Rust compiler in December 2025",
-      "https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html"
     ]
   ],
   [
