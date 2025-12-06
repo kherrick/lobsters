@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-06, 20:18:25",
+      "https://lobste.rs/s/ub1jid/what_lobsters_says_browser_extension"
+    ],
+    [
+      "What Lobsters Says - a browser extension to help you find Lobste.rs discussions",
+      "https://github.com/chase-lambert/what-lobsters-says"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 20:01:51",
       "https://lobste.rs/s/sy3ldq/pocketmage_is_e_ink_pda_for_modern_era"
     ],
@@ -237,16 +247,6 @@
     [
       "Golang’s Big Miss on Memory Arenas",
       "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 02:45:11",
-      "https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig"
-    ],
-    [
-      "Thoughts on Go vs. Rust vs. Zig",
-      "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
     ]
   ]
 ]
