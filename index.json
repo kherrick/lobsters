@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2025-12-06, 03:56:35",
-      "https://lobste.rs/s/dljowr/what_s_point_learning_functional"
+      "2025-12-06, 00:10:43",
+      "https://lobste.rs/s/kqscsb/why_we_built_lightpanda_zig"
     ],
     [
-      "What's the Point of Learning Functional Programming?",
-      "https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp"
+      "Why We Built Lightpanda in Zig",
+      "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig"
     ]
   ],
   [
@@ -57,6 +57,16 @@
     [
       "I want a better build executor",
       "https://jyn.dev/i-want-a-better-build-executor/"
+    ]
+  ],
+  [
+    [
+      "2025-12-05, 19:41:33",
+      "https://lobste.rs/s/mxujt7/picking_optimal_token_ids"
+    ],
+    [
+      "Picking Optimal Token IDs",
+      "https://notes.hella.cheap/picking-optimal-token-ids.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Fairphone open-sources Fairphone 5 and 6 software, and Moments switch",
       "https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 20:04:42",
-      "https://lobste.rs/s/lmyqtn/bcachefs_1_33_0_reconcile"
-    ],
-    [
-      "bcachefs 1.33.0 - reconcile",
-      "https://lore.kernel.org/linux-bcachefs/slvis5ybvo7ch3vxh5yb6turapyq7hai2tddwjriicfxqivnpn@xdpb25wey5xd/"
     ]
   ],
   [
