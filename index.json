@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-06, 06:10:26",
+      "https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis"
+    ],
+    [
+      "CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones",
+      "https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 05:25:17",
       "https://lobste.rs/s/ccin4h/leaving_intel"
     ],
@@ -17,6 +27,16 @@
     [
       "What's the Point of Learning Functional Programming?",
       "https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 00:53:11",
+      "https://lobste.rs/s/hvjedk/reminder_about_framework_laptop"
+    ],
+    [
+      "Reminder about Framework Laptop",
+      "https://community.frame.work/t/framework-supporting-far-right-racists/75986"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "I want a better build executor",
       "https://jyn.dev/i-want-a-better-build-executor/"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 19:41:33",
-      "https://lobste.rs/s/mxujt7/picking_optimal_token_ids"
-    ],
-    [
-      "Picking Optimal Token IDs",
-      "https://notes.hella.cheap/picking-optimal-token-ids.html"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Typewriter plotters",
       "https://biosrhythm.com/?p=2143"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 13:27:25",
-      "https://lobste.rs/s/9i16af/layoutz_simple_beautiful_cli_output_for"
-    ],
-    [
-      "Layoutz – Simple, beautiful CLI output for Haskell 🪶",
-      "https://flora.pm/packages/@hackage/layoutz"
     ]
   ],
   [
