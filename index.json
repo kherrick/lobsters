@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-05, 23:51:21",
+      "https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks"
+    ],
+    [
+      "ARM's barrel shifter tricks",
+      "https://xania.org/202512/05-barrel-shifting-with-arm"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 22:12:36",
       "https://lobste.rs/s/h5w2fq/oss_friday_update_shape_ruby_i_o_come"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-12-05, 19:41:33",
-      "https://lobste.rs/s/mxujt7/picking_optimal_token_ids"
-    ],
-    [
-      "Picking Optimal Token IDs",
-      "https://notes.hella.cheap/picking-optimal-token-ids.html"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 18:30:48",
       "https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor"
     ],
@@ -61,22 +61,22 @@
   ],
   [
     [
+      "2025-12-05, 17:12:29",
+      "https://lobste.rs/s/ssksx7/when_video_codec_wins_emmy"
+    ],
+    [
+      "When a video codec wins an Emmy",
+      "https://blog.mozilla.org/en/mozilla/av1-video-codec-wins-emmy/"
+    ]
+  ],
+  [
+    [
       "2025-12-05, 17:05:27",
       "https://lobste.rs/s/jjkbno/eventual_rust_cpython"
     ],
     [
       "Eventual Rust in CPython",
       "https://lwn.net/SubscriberLink/1046933/d13433b823f559c0/"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 16:50:24",
-      "https://lobste.rs/s/shx10i/coupongogo_remote_controlled_crypto"
-    ],
-    [
-      "Coupongogo: Remote-Controlled Crypto Stealer Targeting Developers on GitHub",
-      "https://www.rastersec.com/blog/coupongogo-cryptostealer"
     ]
   ],
   [
