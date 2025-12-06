@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-06, 17:40:01",
+      "https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it"
+    ],
+    [
+      "GitHub Actions Has a Package Manager, and It Might Be the Worst",
+      "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 17:38:43",
+      "https://lobste.rs/s/m3a3la/perl_s_decline_was_cultural"
+    ],
+    [
+      "Perl's decline was cultural",
+      "https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 17:34:38",
+      "https://lobste.rs/s/r93uje/freebsd_15_why_you_ll_want_it"
+    ],
+    [
+      "FreeBSD 15: Why You’ll Want It",
+      "https://freebsdfoundation.org/blog/freebsd-15-why-youll-want-it/"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 17:08:18",
       "https://lobste.rs/s/6nugny/unaggregating_cloud_watch_metrics"
     ],
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2025-12-05, 23:51:21",
-      "https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks"
-    ],
-    [
-      "ARM's barrel shifter tricks",
-      "https://xania.org/202512/05-barrel-shifting-with-arm"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 22:12:36",
-      "https://lobste.rs/s/h5w2fq/oss_friday_update_shape_ruby_i_o_come"
-    ],
-    [
-      "OSS Friday Update - The Shape of Ruby I/O to Come",
-      "https://noteflakes.com/articles/2025-12-05-friday-update"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 21:48:52",
       "https://lobste.rs/s/cqruqw/path_mojo_1_0"
     ],
@@ -237,16 +247,6 @@
     [
       "Thoughts on Go vs. Rust vs. Zig",
       "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 11:34:59",
-      "https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer"
-    ],
-    [
-      "Why I Ignore The Spotlight as a Staff Engineer",
-      "https://lalitm.com/software-engineering-outside-the-spotlight/"
     ]
   ]
 ]
