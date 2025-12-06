@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-12-06, 06:10:26",
-      "https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis"
-    ],
-    [
-      "CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones",
-      "https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 05:25:17",
       "https://lobste.rs/s/ccin4h/leaving_intel"
     ],
     [
       "Leaving Intel",
       "https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 04:17:31",
+      "https://lobste.rs/s/qghzug/should_css_be_constraints"
+    ],
+    [
+      "Should CSS be Constraints?",
+      "https://pavpanchekha.com/blog/why-css-bad.html"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Reminder about Framework Laptop",
       "https://community.frame.work/t/framework-supporting-far-right-racists/75986"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 00:10:43",
+      "https://lobste.rs/s/kqscsb/why_we_built_lightpanda_zig"
+    ],
+    [
+      "Why We Built Lightpanda in Zig",
+      "https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "The Performance Revolution in JavaScript Tooling",
       "https://blog.appsignal.com/2025/12/03/the-performance-revolution-in-javascript-tooling.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 11:12:00",
-      "https://lobste.rs/s/lm8vm2/lisp_style_design"
-    ],
-    [
-      "LISP Style & Design",
-      "https://archive.org/details/miller-and-benson-1990-lisp-style-design"
     ]
   ],
   [
