@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-06, 06:10:26",
+      "https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis"
+    ],
+    [
+      "CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones",
+      "https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 05:25:17",
       "https://lobste.rs/s/ccin4h/leaving_intel"
     ],
@@ -227,16 +237,6 @@
     [
       "Fairphone open-sources Fairphone 5 and 6 software, and Moments switch",
       "https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 14:04:13",
-      "https://lobste.rs/s/omnyrf/svg_filters_clickjacking_2_0"
-    ],
-    [
-      "SVG Filters - Clickjacking 2.0",
-      "https://lyra.horse/blog/2025/12/svg-clickjacking/"
     ]
   ],
   [
