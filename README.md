@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-06, 17:40:01](https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
+* [2025-12-06, 17:38:43](https://lobste.rs/s/m3a3la/perl_s_decline_was_cultural) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
+* [2025-12-06, 17:34:38](https://lobste.rs/s/r93uje/freebsd_15_why_you_ll_want_it) - [FreeBSD 15: Why You’ll Want It](https://freebsdfoundation.org/blog/freebsd-15-why-youll-want-it/)
 * [2025-12-06, 17:08:18](https://lobste.rs/s/6nugny/unaggregating_cloud_watch_metrics) - [Unaggregating Cloud Watch Metrics](https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html)
 * [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 16:26:34](https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer) - [Diffie-Hellman Key Exchange Visualizer](https://sidney.sh/projects/diffie-visualizer/)
@@ -12,8 +15,6 @@
 * [2025-12-06, 03:56:35](https://lobste.rs/s/dljowr/what_s_point_learning_functional) - [What's the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
 * [2025-12-06, 00:53:11](https://lobste.rs/s/hvjedk/reminder_about_framework_laptop) - [Reminder about Framework Laptop](https://community.frame.work/t/framework-supporting-far-right-racists/75986)
 * [2025-12-06, 00:10:43](https://lobste.rs/s/kqscsb/why_we_built_lightpanda_zig) - [Why We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
-* [2025-12-05, 23:51:21](https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks) - [ARM's barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm)
-* [2025-12-05, 22:12:36](https://lobste.rs/s/h5w2fq/oss_friday_update_shape_ruby_i_o_come) - [OSS Friday Update - The Shape of Ruby I/O to Come](https://noteflakes.com/articles/2025-12-05-friday-update)
 * [2025-12-05, 21:48:52](https://lobste.rs/s/cqruqw/path_mojo_1_0) - [The Path to Mojo 1.0](https://www.modular.com/blog/the-path-to-mojo-1-0)
 * [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
@@ -24,7 +25,6 @@
 * [2025-12-05, 13:02:50](https://lobste.rs/s/gv0fzl/golang_s_big_miss_on_memory_arenas) - [Golang’s Big Miss on Memory Arenas](https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90)
 * [2025-12-05, 05:12:20](https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025) - [How to speed up the Rust compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html)
 * [2025-12-05, 02:45:11](https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
-* [2025-12-04, 11:34:59](https://lobste.rs/s/xdjgbd/why_i_ignore_spotlight_as_staff_engineer) - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 17:40:01](https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
+* [2025-12-06, 17:38:43](https://lobste.rs/s/m3a3la/perl_s_decline_was_cultural) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
+* [2025-12-06, 17:34:38](https://lobste.rs/s/r93uje/freebsd_15_why_you_ll_want_it) - [FreeBSD 15: Why You’ll Want It](https://freebsdfoundation.org/blog/freebsd-15-why-youll-want-it/)
 * [2025-12-06, 17:08:18](https://lobste.rs/s/6nugny/unaggregating_cloud_watch_metrics) - [Unaggregating Cloud Watch Metrics](https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html)
 * [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 16:26:34](https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer) - [Diffie-Hellman Key Exchange Visualizer](https://sidney.sh/projects/diffie-visualizer/)
