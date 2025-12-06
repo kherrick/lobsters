@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 20:01:51](https://lobste.rs/s/sy3ldq/pocketmage_is_e_ink_pda_for_modern_era) - [PocketMage Is an E Ink PDA For the Modern Era](https://www.hackster.io/news/pocketmage-is-an-e-ink-pda-for-the-modern-era-3dac295619c0)
 * [2025-12-06, 19:50:43](https://lobste.rs/s/iaspme/use_python_for_scripting) - [Use Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-06, 18:55:16](https://lobste.rs/s/x2qsqg/fixed_points_strike_mandates_2012) - [Fixed Points and Strike Mandates (2012)](https://www.pvk.ca/Blog/2012/02/19/fixed-points-and-strike-mandates/)
 * [2025-12-06, 17:40:01](https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
