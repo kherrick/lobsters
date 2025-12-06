@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-06, 17:08:18",
+      "https://lobste.rs/s/6nugny/unaggregating_cloud_watch_metrics"
+    ],
+    [
+      "Unaggregating Cloud Watch Metrics",
+      "https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 16:29:54",
       "https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on"
     ],
@@ -227,16 +237,6 @@
     [
       "Thoughts on Go vs. Rust vs. Zig",
       "https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/"
-    ]
-  ],
-  [
-    [
-      "2025-12-04, 20:42:13",
-      "https://lobste.rs/s/wkuvhx/hello_blog"
-    ],
-    [
-      "][ Hello blog",
-      "https://nobloat.org/articles/2025-07-01-hello-blog.html"
     ]
   ],
   [
