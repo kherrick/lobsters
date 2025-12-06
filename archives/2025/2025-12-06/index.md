@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://flow-control.dev)
 * [2025-12-06, 06:10:26](https://lobste.rs/s/jv25vw/cve_2023_20078_technical_analysis) - [CVE-2023-20078 technical analysis: Identifying and triggering a command injection vulnerability in Cisco IP phones](https://www.ibm.com/think/x-force/cve-2023-20078-technical-analysis)
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)

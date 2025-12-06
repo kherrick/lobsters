@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://flow-control.dev)
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-06, 03:56:35](https://lobste.rs/s/dljowr/what_s_point_learning_functional) - [What's the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
@@ -20,7 +21,6 @@
 * [2025-12-05, 10:54:28](https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7nlfjb/what_are_you_doing_this_weekend)
 * [2025-12-05, 05:12:20](https://lobste.rs/s/ihrynz/how_speed_up_rust_compiler_december_2025) - [How to speed up the Rust compiler in December 2025](https://nnethercote.github.io/2025/12/05/how-to-speed-up-the-rust-compiler-in-december-2025.html)
 * [2025-12-05, 02:45:11](https://lobste.rs/s/whiefr/thoughts_on_go_vs_rust_vs_zig) - [Thoughts on Go vs. Rust vs. Zig](https://sinclairtarget.com/blog/2025/08/thoughts-on-go-vs.-rust-vs.-zig/)
-* [2025-12-05, 02:41:30](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks) - [Lobsters Interview with Aks](https://lobste.rs/s/h4yblg/lobsters_interview_with_aks)
 * [2025-12-04, 20:42:13](https://lobste.rs/s/wkuvhx/hello_blog) - [][ Hello blog](https://nobloat.org/articles/2025-07-01-hello-blog.html)
 * [2025-12-04, 20:41:13](https://lobste.rs/s/4pvwma/fairphone_open_sources_fairphone_5_6) - [Fairphone open-sources Fairphone 5 and 6 software, and Moments switch](https://www.fairphone.com/en/2025/12/04/were-big-fans-of-open-source-buildable-code-at-fairphone-heres-why/)
 * [2025-12-04, 14:04:13](https://lobste.rs/s/omnyrf/svg_filters_clickjacking_2_0) - [SVG Filters - Clickjacking 2.0](https://lyra.horse/blog/2025/12/svg-clickjacking/)
