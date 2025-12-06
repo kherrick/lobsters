@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-06](index.md)
 
+* [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
+* [2025-12-06, 16:26:34](https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer) - [Diffie-Hellman Key Exchange Visualizer](https://sidney.sh/projects/diffie-visualizer/)
+* [2025-12-06, 16:10:35](https://lobste.rs/s/fvlcj3/ai_energy_score_v2_refreshed_leaderboard) - [AI Energy Score v2: Refreshed Leaderboard, now with Reasoning](https://huggingface.co/blog/sasha/ai-energy-score-v2)
 * [2025-12-06, 15:53:49](https://lobste.rs/s/sow4fy/i_built_tiny_rss_generator_for_my_advent) - [I built a tiny RSS generator for my Advent of Code solutions](https://hamatti.org/posts/i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions/)
 * [2025-12-06, 10:46:37](https://lobste.rs/s/ly8qtt/what_is_modal) - [What is Modal?](https://modal.cx/blog/what-is-modal/)
 * [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://flow-control.dev)
