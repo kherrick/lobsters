@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-05](index.md)
 
+* [2025-12-05, 23:51:21](https://lobste.rs/s/tmqhxn/arm_s_barrel_shifter_tricks) - [ARM's barrel shifter tricks](https://xania.org/202512/05-barrel-shifting-with-arm)
 * [2025-12-05, 22:12:36](https://lobste.rs/s/h5w2fq/oss_friday_update_shape_ruby_i_o_come) - [OSS Friday Update - The Shape of Ruby I/O to Come](https://noteflakes.com/articles/2025-12-05-friday-update)
 * [2025-12-05, 21:48:52](https://lobste.rs/s/cqruqw/path_mojo_1_0) - [The Path to Mojo 1.0](https://www.modular.com/blog/the-path-to-mojo-1-0)
 * [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
