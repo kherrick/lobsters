@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 19:02:02](https://lobste.rs/s/ldfsmq/defeating_prompt_injections_by_design) - [Defeating Prompt Injections by Design](https://arxiv.org/pdf/2503.18813)
+* [2025-12-07, 18:57:17](https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards) - [F35 Fighter Jet’s C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
 * [2025-12-07, 16:12:54](https://lobste.rs/s/4tvzih/gerrit_code_review_iceberg) - [The Gerrit code review iceberg](https://www.haiku-os.org/blog/pulkomandy/2025-11-24-the_gerrit_pending_review_iceberg/)
 * [2025-12-07, 15:02:16](https://lobste.rs/s/q8znua/kollector_publishing_koreader) - [KOllector - Publishing KOReader Highlights](https://tech.stonecharioteer.com/posts/2025/kollector/)
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
