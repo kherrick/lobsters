@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
+* [2025-12-07, 04:39:04](https://lobste.rs/s/gffbjq/package_manager_design_tradeoffs) - [Package Manager Design Tradeoffs](https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html)
 * [2025-12-07, 03:23:43](https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech) - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 01:45:35](https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore) - [Oblast: a better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:39:25](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes) - [Eurydice: a Rust to C compiler (yes)](http://jonathan.protzenko.fr/2025/10/28/eurydice.html)

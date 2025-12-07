@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
+* [2025-12-07, 04:39:04](https://lobste.rs/s/gffbjq/package_manager_design_tradeoffs) - [Package Manager Design Tradeoffs](https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html)
 * [2025-12-07, 03:23:43](https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech) - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 01:45:35](https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore) - [Oblast: a better Blasto game for the Commodore 64](http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html)
 * [2025-12-07, 01:39:25](https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes) - [Eurydice: a Rust to C compiler (yes)](http://jonathan.protzenko.fr/2025/10/28/eurydice.html)
@@ -15,14 +17,12 @@
 * [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
 * [2025-12-06, 16:26:34](https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer) - [Diffie-Hellman Key Exchange Visualizer](https://sidney.sh/projects/diffie-visualizer/)
 * [2025-12-06, 16:10:35](https://lobste.rs/s/fvlcj3/ai_energy_score_v2_refreshed_leaderboard) - [AI Energy Score v2: Refreshed Leaderboard, now with Reasoning](https://huggingface.co/blog/sasha/ai-energy-score-v2)
-* [2025-12-06, 10:46:37](https://lobste.rs/s/ly8qtt/what_is_modal) - [What is Modal?](https://modal.cx/blog/what-is-modal/)
 * [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://flow-control.dev)
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)
 * [2025-12-06, 03:56:35](https://lobste.rs/s/dljowr/what_s_point_learning_functional) - [What's the Point of Learning Functional Programming?](https://blog.daniel-beskin.com/2025-11-13-point-of-learning-fp)
 * [2025-12-06, 00:53:11](https://lobste.rs/s/hvjedk/reminder_about_framework_laptop) - [Reminder about Framework Laptop](https://community.frame.work/t/framework-supporting-far-right-racists/75986)
 * [2025-12-06, 00:10:43](https://lobste.rs/s/kqscsb/why_we_built_lightpanda_zig) - [Why We Built Lightpanda in Zig](https://lightpanda.io/blog/posts/why-we-built-lightpanda-in-zig)
-* [2025-12-05, 19:50:48](https://lobste.rs/s/iiqv1v/i_want_better_build_executor) - [I want a better build executor](https://jyn.dev/i-want-a-better-build-executor/)
 * [2025-12-05, 18:30:48](https://lobste.rs/s/cgohab/framework_laptop_13_gets_arm_processor) - [Framework Laptop 13 gets ARM processor with 12 cores via third-party upgrade kit](https://www.notebookcheck.net/Framework-Laptop-13-gets-ARM-processor-with-12-cores-via-upgrade-kit.1177930.0.html)
 * [2025-12-05, 15:07:51](https://lobste.rs/s/nux2xg/typewriter_plotters) - [Typewriter plotters](https://biosrhythm.com/?p=2143)
 
