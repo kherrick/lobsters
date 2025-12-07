@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-07, 19:02:02",
+      "https://lobste.rs/s/ldfsmq/defeating_prompt_injections_by_design"
+    ],
+    [
+      "Defeating Prompt Injections by Design",
+      "https://arxiv.org/pdf/2503.18813"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 18:57:17",
+      "https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards"
+    ],
+    [
+      "F35 Fighter Jet’s C++ Coding Standards",
+      "https://www.stroustrup.com/JSF-AV-rules.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 16:12:54",
       "https://lobste.rs/s/4tvzih/gerrit_code_review_iceberg"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-12-07, 01:45:35",
-      "https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore"
-    ],
-    [
-      "Oblast: a better Blasto game for the Commodore 64",
-      "http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html"
-    ]
-  ],
-  [
-    [
       "2025-12-07, 01:39:25",
       "https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes"
     ],
@@ -167,16 +177,6 @@
     [
       "What Lobsters Says - a browser extension to help you find Lobste.rs discussions",
       "https://github.com/chase-lambert/what-lobsters-says"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 20:01:51",
-      "https://lobste.rs/s/sy3ldq/pocketmage_is_e_ink_pda_for_modern_era"
-    ],
-    [
-      "PocketMage Is an E Ink PDA For the Modern Era",
-      "https://www.hackster.io/news/pocketmage-is-an-e-ink-pda-for-the-modern-era-3dac295619c0"
     ]
   ],
   [
