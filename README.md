@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-07, 12:49:14](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for) - [What do you use TypedArrays for in JavaScript/TypeScript?](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for)
 * [2025-12-07, 10:41:48](https://lobste.rs/s/sphzp8/what_s_state_jobseeking_gigseeking) - [What's the State of Jobseeking/Gigseeking/Roleseeking (Dec 2025)?](https://lobste.rs/s/sphzp8/what_s_state_jobseeking_gigseeking)
 * [2025-12-07, 08:37:38](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - [Structural inheritance doesn't work where you expect it to](https://trynova.dev/blog/oops-im-dead)
 * [2025-12-07, 08:26:53](https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces) - [The Wild West of Post-POSIX IO Interfaces](https://youtu.be/abDWZ9D8kEE)
@@ -20,7 +21,6 @@
 * [2025-12-06, 17:38:43](https://lobste.rs/s/m3a3la/perl_s_decline_was_cultural) - [Perl's decline was cultural](https://www.beatworm.co.uk/blog/computers/perls-decline-was-cultural-not-technical)
 * [2025-12-06, 17:34:38](https://lobste.rs/s/r93uje/freebsd_15_why_you_ll_want_it) - [FreeBSD 15: Why You’ll Want It](https://freebsdfoundation.org/blog/freebsd-15-why-youll-want-it/)
 * [2025-12-06, 16:29:54](https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on) - [How I discovered a hidden microphone on a Chinese NanoKVM](https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/)
-* [2025-12-06, 16:26:34](https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer) - [Diffie-Hellman Key Exchange Visualizer](https://sidney.sh/projects/diffie-visualizer/)
 * [2025-12-06, 09:42:13](https://lobste.rs/s/8o9mcu/flow_control_programmer_s_text_editor) - [Flow Control: a programmer's text editor](https://flow-control.dev)
 * [2025-12-06, 05:25:17](https://lobste.rs/s/ccin4h/leaving_intel) - [Leaving Intel](https://www.brendangregg.com/blog//2025-12-05/leaving-intel.html)
 * [2025-12-06, 04:17:31](https://lobste.rs/s/qghzug/should_css_be_constraints) - [Should CSS be Constraints?](https://pavpanchekha.com/blog/why-css-bad.html)

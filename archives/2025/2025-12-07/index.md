@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 12:49:14](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for) - [What do you use TypedArrays for in JavaScript/TypeScript?](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for)
 * [2025-12-07, 10:41:48](https://lobste.rs/s/sphzp8/what_s_state_jobseeking_gigseeking) - [What's the State of Jobseeking/Gigseeking/Roleseeking (Dec 2025)?](https://lobste.rs/s/sphzp8/what_s_state_jobseeking_gigseeking)
 * [2025-12-07, 08:37:38](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - [Structural inheritance doesn't work where you expect it to](https://trynova.dev/blog/oops-im-dead)
 * [2025-12-07, 08:37:05](https://lobste.rs/s/pyaalq/kjs_formal_js_semantics_interpreter) - [KJS: Formal JS Semantics + Interpreter](https://fsl.cs.illinois.edu/publications/park-stefanescu-rosu-2015-pldi.pdf)
