@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-07, 21:16:39](https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 * [2025-12-07, 19:14:45](https://lobste.rs/s/lp2m1v/estimates_are_difficult_for_developers) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 19:02:02](https://lobste.rs/s/ldfsmq/defeating_prompt_injections_by_design) - [Defeating Prompt Injections by Design](https://arxiv.org/pdf/2503.18813)
 * [2025-12-07, 18:57:17](https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards) - [F35 Fighter Jet’s C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
@@ -10,7 +11,6 @@
 * [2025-12-07, 08:37:38](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - [Structural inheritance doesn't work where you expect it to](https://trynova.dev/blog/oops-im-dead)
 * [2025-12-07, 08:26:53](https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces) - [The Wild West of Post-POSIX IO Interfaces](https://youtu.be/abDWZ9D8kEE)
 * [2025-12-07, 07:28:03](https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by) - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/)
-* [2025-12-07, 05:35:11](https://lobste.rs/s/xrn56k/deep_card_conundrum) - [The Deep Card Conundrum](https://frontendmasters.com/blog/the-deep-card-conundrum/)
 * [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
 * [2025-12-07, 04:39:04](https://lobste.rs/s/gffbjq/package_manager_design_tradeoffs) - [Package Manager Design Tradeoffs](https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html)
 * [2025-12-07, 03:23:43](https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech) - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
