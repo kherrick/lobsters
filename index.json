@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-12-07, 01:45:35",
+      "https://lobste.rs/s/c861pn/oblast_better_blasto_game_for_commodore"
+    ],
+    [
+      "Oblast: a better Blasto game for the Commodore 64",
+      "http://oldvcr.blogspot.com/2025/12/oblast-better-blasto-game-for-commodore.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 01:39:25",
+      "https://lobste.rs/s/1kcrn4/eurydice_rust_c_compiler_yes"
+    ],
+    [
+      "Eurydice: a Rust to C compiler (yes)",
+      "http://jonathan.protzenko.fr/2025/10/28/eurydice.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 01:18:06",
+      "https://lobste.rs/s/t5zgds/using_llms_at_oxide"
+    ],
+    [
+      "Using LLMs at Oxide",
+      "https://rfd.shared.oxide.computer/rfd/0576"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 00:23:35",
+      "https://lobste.rs/s/xxlhtw/how_make_macos_screen_saver"
+    ],
+    [
+      "How to make a macOS screen saver",
+      "https://wadetregaskis.com/how-to-make-a-macos-screen-saver/"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 00:05:16",
+      "https://lobste.rs/s/pohl2l/struggling_towards_algebraic_theory"
+    ],
+    [
+      "Struggling Towards an Algebraic Theory of Music",
+      "https://reasonablypolymorphic.com/blog/algebraic-music/index.html"
+    ]
+  ],
+  [
+    [
       "2025-12-06, 20:18:25",
       "https://lobste.rs/s/ub1jid/what_lobsters_says_browser_extension"
     ],
@@ -71,16 +121,6 @@
   ],
   [
     [
-      "2025-12-06, 17:08:18",
-      "https://lobste.rs/s/6nugny/unaggregating_cloud_watch_metrics"
-    ],
-    [
-      "Unaggregating Cloud Watch Metrics",
-      "https://tomlarkworthy.github.io/lopebooks/notebooks/@tomlarkworthy_unaggregating-cloudwatch-metrics.html"
-    ]
-  ],
-  [
-    [
       "2025-12-06, 16:29:54",
       "https://lobste.rs/s/bj04hv/how_i_discovered_hidden_microphone_on"
     ],
@@ -107,16 +147,6 @@
     [
       "AI Energy Score v2: Refreshed Leaderboard, now with Reasoning",
       "https://huggingface.co/blog/sasha/ai-energy-score-v2"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 15:53:49",
-      "https://lobste.rs/s/sow4fy/i_built_tiny_rss_generator_for_my_advent"
-    ],
-    [
-      "I built a tiny RSS generator for my Advent of Code solutions",
-      "https://hamatti.org/posts/i-built-a-tiny-rss-generator-for-my-advent-of-code-solutions/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2025-12-05, 21:48:52",
-      "https://lobste.rs/s/cqruqw/path_mojo_1_0"
-    ],
-    [
-      "The Path to Mojo 1.0",
-      "https://www.modular.com/blog/the-path-to-mojo-1-0"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 19:50:48",
       "https://lobste.rs/s/iiqv1v/i_want_better_build_executor"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-12-05, 17:34:24",
-      "https://lobste.rs/s/fxccgk/resonant_computing_manifesto"
-    ],
-    [
-      "The Resonant Computing Manifesto",
-      "https://resonantcomputing.org/"
-    ]
-  ],
-  [
-    [
       "2025-12-05, 15:07:51",
       "https://lobste.rs/s/nux2xg/typewriter_plotters"
     ],
     [
       "Typewriter plotters",
       "https://biosrhythm.com/?p=2143"
-    ]
-  ],
-  [
-    [
-      "2025-12-05, 13:02:50",
-      "https://lobste.rs/s/gv0fzl/golang_s_big_miss_on_memory_arenas"
-    ],
-    [
-      "Golang’s Big Miss on Memory Arenas",
-      "https://avittig.medium.com/golangs-big-miss-on-memory-arenas-f1375524cc90"
     ]
   ]
 ]
