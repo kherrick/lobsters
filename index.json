@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-07, 21:31:40",
+      "https://lobste.rs/s/ekrauj/measuring_agents_production_survey"
+    ],
+    [
+      "Measuring Agents In Production (survey paper)",
+      "https://arxiv.org/abs/2512.04123"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 21:16:39",
       "https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml"
     ],
@@ -177,16 +187,6 @@
     [
       "Struggling Towards an Algebraic Theory of Music",
       "https://reasonablypolymorphic.com/blog/algebraic-music/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 20:18:25",
-      "https://lobste.rs/s/ub1jid/what_lobsters_says_browser_extension"
-    ],
-    [
-      "What Lobsters Says - a browser extension to help you find Lobste.rs discussions",
-      "https://github.com/chase-lambert/what-lobsters-says"
     ]
   ],
   [
