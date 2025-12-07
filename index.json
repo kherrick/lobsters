@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-07, 08:37:05",
-      "https://lobste.rs/s/pyaalq/kjs_formal_js_semantics_interpreter"
-    ],
-    [
-      "KJS: Formal JS Semantics + Interpreter",
-      "https://fsl.cs.illinois.edu/publications/park-stefanescu-rosu-2015-pldi.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-07, 08:26:53",
       "https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces"
     ],
@@ -197,6 +187,16 @@
     [
       "How I discovered a hidden microphone on a Chinese NanoKVM",
       "https://telefoncek.si/2025/02/2025-02-10-hidden-microphone-on-nanokvm/"
+    ]
+  ],
+  [
+    [
+      "2025-12-06, 16:26:34",
+      "https://lobste.rs/s/rpbofn/diffie_hellman_key_exchange_visualizer"
+    ],
+    [
+      "Diffie-Hellman Key Exchange Visualizer",
+      "https://sidney.sh/projects/diffie-visualizer/"
     ]
   ],
   [
