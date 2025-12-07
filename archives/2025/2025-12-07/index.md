@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-07](index.md)
 
+* [2025-12-07, 07:33:28](https://lobste.rs/s/ya95d0/sinterklaas_likes_playing_on_game_boy) - [Sinterklaas Likes Playing On The Game Boy](https://brainbaking.com/post/2025/12/sinterklaas-likes-playing-on-the-game-boy/)
 * [2025-12-07, 07:28:03](https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by) - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/)
 * [2025-12-07, 05:35:11](https://lobste.rs/s/xrn56k/deep_card_conundrum) - [The Deep Card Conundrum](https://frontendmasters.com/blog/the-deep-card-conundrum/)
 * [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
