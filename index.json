@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-07, 23:18:13",
+      "https://lobste.rs/s/iohaag/pulldash_fast_filterable_github_pr"
+    ],
+    [
+      "Pulldash: Fast, filterable GitHub PR review. Entirely client-side",
+      "https://github.com/coder/pulldash"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 21:31:40",
       "https://lobste.rs/s/ekrauj/measuring_agents_production_survey"
     ],
@@ -127,16 +137,6 @@
     [
       "Vanilla CSS is all you need",
       "https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 04:39:04",
-      "https://lobste.rs/s/gffbjq/package_manager_design_tradeoffs"
-    ],
-    [
-      "Package Manager Design Tradeoffs",
-      "https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html"
     ]
   ],
   [
