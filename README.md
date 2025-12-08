@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-08, 17:32:52](https://lobste.rs/s/getto0/nova_programming_language) - [Nova Programming Language](https://nova-lang.net/)
+* [2025-12-08, 16:29:09](https://lobste.rs/s/zf7gyb/brief_history_gopher) - [A Brief History of Gopher](https://www.youtube.com/watch?v=Flo9kn_nhbg)
 * [2025-12-08, 15:43:42](https://lobste.rs/s/iyzoah/failing_recreate_1996_space_jam_website) - [Failing to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude)
 * [2025-12-08, 15:11:14](https://lobste.rs/s/tiinaw/mac_cleaner_cli_free_open_source_mac) - [Mac Cleaner CLI: Free & Open Source Mac cleanup tool](https://github.com/guhcostan/mac-cleaner-cli)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
