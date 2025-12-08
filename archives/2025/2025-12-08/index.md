@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 15:11:14](https://lobste.rs/s/tiinaw/mac_cleaner_cli_free_open_source_mac) - [Mac Cleaner CLI: Free & Open Source Mac cleanup tool](https://github.com/guhcostan/mac-cleaner-cli)
+* [2025-12-08, 15:09:05](https://lobste.rs/s/gresqq/f_off_contact_page) - [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
+* [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 14:23:48](https://lobste.rs/s/zbruc2/ray_marching_soft_shadows_2d) - [Ray Marching Soft Shadows in 2D](http://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-12-08, 12:00:40](https://lobste.rs/s/tnlaka/150_000_nodes_virtual_dom_no_problem) - [150.000 nodes in a Virtual DOM? No problem](https://www.youtube.com/watch?v=P4ACFrznLOg)
 * [2025-12-08, 11:53:48](https://lobste.rs/s/xq5n1g/golang_optimizations_for_high_volume) - [Golang optimizations for high‑volume services](https://medium.com/@pliutau/golang-optimizations-for-high-volume-services-c8ea8bfd90de)
