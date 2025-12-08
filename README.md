@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-08, 17:32:52](https://lobste.rs/s/getto0/nova_programming_language) - [Nova Programming Language](https://nova-lang.net/)
+* [2025-12-08, 17:25:04](https://lobste.rs/s/bwhgfe/advent_management) - [Advent of Management](https://github.com/thehammer/advent-of-management)
 * [2025-12-08, 16:29:09](https://lobste.rs/s/zf7gyb/brief_history_gopher) - [A Brief History of Gopher](https://www.youtube.com/watch?v=Flo9kn_nhbg)
 * [2025-12-08, 15:43:42](https://lobste.rs/s/iyzoah/failing_recreate_1996_space_jam_website) - [Failing to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude)
-* [2025-12-08, 15:11:14](https://lobste.rs/s/tiinaw/mac_cleaner_cli_free_open_source_mac) - [Mac Cleaner CLI: Free & Open Source Mac cleanup tool](https://github.com/guhcostan/mac-cleaner-cli)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 14:23:48](https://lobste.rs/s/zbruc2/ray_marching_soft_shadows_2d) - [Ray Marching Soft Shadows in 2D](http://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-12-08, 12:00:40](https://lobste.rs/s/tnlaka/150_000_nodes_virtual_dom_no_problem) - [150.000 nodes in a Virtual DOM? No problem](https://www.youtube.com/watch?v=P4ACFrznLOg)
@@ -24,7 +25,6 @@
 * [2025-12-07, 16:12:54](https://lobste.rs/s/4tvzih/gerrit_code_review_iceberg) - [The Gerrit code review iceberg](https://www.haiku-os.org/blog/pulkomandy/2025-11-24-the_gerrit_pending_review_iceberg/)
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
 * [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
-* [2025-12-07, 01:18:06](https://lobste.rs/s/t5zgds/using_llms_at_oxide) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 
 ## [Archives](archives/index.md)
 
