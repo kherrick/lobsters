@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-08, 12:00:40",
+      "https://lobste.rs/s/tnlaka/150_000_nodes_virtual_dom_no_problem"
+    ],
+    [
+      "150.000 nodes in a Virtual DOM? No problem",
+      "https://www.youtube.com/watch?v=P4ACFrznLOg"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 11:53:48",
+      "https://lobste.rs/s/xq5n1g/golang_optimizations_for_high_volume"
+    ],
+    [
+      "Golang optimizations for high‑volume services",
+      "https://medium.com/@pliutau/golang-optimizations-for-high-volume-services-c8ea8bfd90de"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 11:08:29",
       "https://lobste.rs/s/s3ez2s/practical_guide_xhtml"
     ],
@@ -97,16 +117,6 @@
     [
       "From Azure Functions to FreeBSD",
       "https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 04:00:59",
-      "https://lobste.rs/s/qub7p6/idesaster_novel_vulnerability_class_ai"
-    ],
-    [
-      "IDEsaster: A Novel Vulnerability Class in AI IDEs",
-      "https://maccarita.com/posts/idesaster/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Use Python for Scripting",
       "https://hypirion.com/musings/use-python-for-scripting"
-    ]
-  ],
-  [
-    [
-      "2025-12-06, 17:40:01",
-      "https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it"
-    ],
-    [
-      "GitHub Actions Has a Package Manager, and It Might Be the Worst",
-      "https://nesbitt.io/2025/12/06/github-actions-package-manager.html"
     ]
   ],
   [
