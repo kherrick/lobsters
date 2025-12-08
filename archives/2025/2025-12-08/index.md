@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 10:44:35](https://lobste.rs/s/dbqbhm/one_too_many_words_on_at_t_s_2_000_korn_shell) - [One too many words on AT&T's $2,000 Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 * [2025-12-08, 10:11:52](https://lobste.rs/s/zwzwqn/state_elixir_2025_community_survey) - [State of Elixir 2025 - Community Survey Results](https://elixir-hub.com/surveys/2025)
 * [2025-12-08, 09:32:37](https://lobste.rs/s/wr3vrn/commoning_open_source_versus_growth) - [Commoning open-source versus growth-hacking open-source](https://garagehq.deuxfleurs.fr/blog/2025-commoning-opensource/)
 * [2025-12-08, 09:16:50](https://lobste.rs/s/j78zip/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/j78zip/what_are_you_doing_this_week)

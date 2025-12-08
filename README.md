@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-08, 10:44:35](https://lobste.rs/s/dbqbhm/one_too_many_words_on_at_t_s_2_000_korn_shell) - [One too many words on AT&T's $2,000 Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 * [2025-12-08, 10:11:52](https://lobste.rs/s/zwzwqn/state_elixir_2025_community_survey) - [State of Elixir 2025 - Community Survey Results](https://elixir-hub.com/surveys/2025)
 * [2025-12-08, 09:32:37](https://lobste.rs/s/wr3vrn/commoning_open_source_versus_growth) - [Commoning open-source versus growth-hacking open-source](https://garagehq.deuxfleurs.fr/blog/2025-commoning-opensource/)
 * [2025-12-08, 09:16:50](https://lobste.rs/s/j78zip/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/j78zip/what_are_you_doing_this_week)
@@ -19,7 +20,6 @@
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
 * [2025-12-07, 07:28:03](https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by) - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/)
 * [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
-* [2025-12-07, 03:23:43](https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech) - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)
 * [2025-12-07, 01:18:06](https://lobste.rs/s/t5zgds/using_llms_at_oxide) - [Using LLMs at Oxide](https://rfd.shared.oxide.computer/rfd/0576)
 * [2025-12-06, 19:50:43](https://lobste.rs/s/iaspme/use_python_for_scripting) - [Use Python for Scripting](https://hypirion.com/musings/use-python-for-scripting)
 * [2025-12-06, 17:40:01](https://lobste.rs/s/zbqvyu/github_actions_has_package_manager_it) - [GitHub Actions Has a Package Manager, and It Might Be the Worst](https://nesbitt.io/2025/12/06/github-actions-package-manager.html)
