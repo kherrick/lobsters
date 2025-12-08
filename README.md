@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-08, 09:32:37](https://lobste.rs/s/wr3vrn/commoning_open_source_versus_growth) - [Commoning open-source versus growth-hacking open-source](https://garagehq.deuxfleurs.fr/blog/2025-commoning-opensource/)
 * [2025-12-08, 09:16:50](https://lobste.rs/s/j78zip/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/j78zip/what_are_you_doing_this_week)
 * [2025-12-08, 09:02:49](https://lobste.rs/s/4jbw6y/migrating_burningboard_net_mastodon) - [Migrating burningboard.net Mastodon instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
 * [2025-12-08, 08:55:51](https://lobste.rs/s/urbcpw/potential_security_breach_syncthing) - [potential security breach in syncthing-fork](https://mastodon.pirateparty.be/@surfhosting/115674236291033568)
@@ -15,7 +16,6 @@
 * [2025-12-07, 15:02:16](https://lobste.rs/s/q8znua/kollector_publishing_koreader) - [KOllector - Publishing KOReader Highlights](https://tech.stonecharioteer.com/posts/2025/kollector/)
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
 * [2025-12-07, 12:49:14](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for) - [What do you use TypedArrays for in JavaScript/TypeScript?](https://lobste.rs/s/e4pgna/what_do_you_use_typedarrays_for)
-* [2025-12-07, 08:37:38](https://lobste.rs/s/gou975/structural_inheritance_doesn_t_work) - [Structural inheritance doesn't work where you expect it to](https://trynova.dev/blog/oops-im-dead)
 * [2025-12-07, 07:28:03](https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by) - [What I learnt about making websites by reading two thousand web pages](https://alexwlchan.net/2025/learning-how-to-make-websites/)
 * [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
 * [2025-12-07, 03:23:43](https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech) - [Discovering the indieweb with calm tech](https://alexsci.com/blog/calm-tech-discover/)

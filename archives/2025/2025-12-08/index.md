@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 09:32:37](https://lobste.rs/s/wr3vrn/commoning_open_source_versus_growth) - [Commoning open-source versus growth-hacking open-source](https://garagehq.deuxfleurs.fr/blog/2025-commoning-opensource/)
 * [2025-12-08, 09:16:50](https://lobste.rs/s/j78zip/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/j78zip/what_are_you_doing_this_week)
 * [2025-12-08, 09:02:49](https://lobste.rs/s/4jbw6y/migrating_burningboard_net_mastodon) - [Migrating burningboard.net Mastodon instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
 * [2025-12-08, 08:55:51](https://lobste.rs/s/urbcpw/potential_security_breach_syncthing) - [potential security breach in syncthing-fork](https://mastodon.pirateparty.be/@surfhosting/115674236291033568)
