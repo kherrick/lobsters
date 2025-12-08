@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-08, 15:09:05",
-      "https://lobste.rs/s/gresqq/f_off_contact_page"
-    ],
-    [
-      "The f*** off contact page",
-      "https://www.nicchan.me/blog/the-f-off-contact-page/"
-    ]
-  ],
-  [
-    [
       "2025-12-08, 15:01:42",
       "https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help"
     ],
@@ -62,10 +52,10 @@
   [
     [
       "2025-12-08, 11:08:29",
-      "https://lobste.rs/s/s3ez2s/practical_guide_xhtml"
+      "https://lobste.rs/s/s3ez2s/practical_guide_xhtml_2021"
     ],
     [
-      "Practical guide to XHTML",
+      "Practical guide to XHTML (2021)",
       "https://www.nayuki.io/page/practical-guide-to-xhtml"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Why the Sanitizer API is just `setHTML()`",
       "https://frederikbraun.de/why-sethtml.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-07, 19:14:45",
+      "https://lobste.rs/s/lp2m1v/estimates_are_difficult_for_developers"
+    ],
+    [
+      "Estimates are difficult for developers and product owners",
+      "https://thorsell.io/2025/12/07/estimates.html"
     ]
   ],
   [
