@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 09:02:49](https://lobste.rs/s/4jbw6y/migrating_burningboard_net_mastodon) - [Migrating burningboard.net Mastodon instance to a Multi-Jail FreeBSD Setup](https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html)
+* [2025-12-08, 08:55:51](https://lobste.rs/s/urbcpw/potential_security_breach_syncthing) - [potential security breach in syncthing-fork](https://mastodon.pirateparty.be/@surfhosting/115674236291033568)
 * [2025-12-08, 08:14:28](https://lobste.rs/s/n6rfvu/adding_unpack_syntax_rcl) - [Adding unpack syntax to RCL](https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl)
 * [2025-12-08, 07:58:21](https://lobste.rs/s/cae1mg/from_azure_functions_freebsd) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
 * [2025-12-08, 04:00:59](https://lobste.rs/s/qub7p6/idesaster_novel_vulnerability_class_ai) - [IDEsaster: A Novel Vulnerability Class in AI IDEs](https://maccarita.com/posts/idesaster/)
