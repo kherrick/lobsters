@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 23:17:16](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal) - [Prediction: AI will make formal verification go mainstream — Martin Kleppmann’s blog](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-08, 20:47:49](https://lobste.rs/s/pvaalr/deprecations_via_warnings_don_t_work_for) - [Deprecations via warnings don’t work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
 * [2025-12-08, 19:56:14](https://lobste.rs/s/2lglm4/disagreements_over_post_quantum) - [Disagreements over post-quantum encryption for TLS](https://lwn.net/SubscriberLink/1048978/8efe916082e53bfe/)
 * [2025-12-08, 19:34:24](https://lobste.rs/s/fqsavw/addressing_linux_s_missing_pki) - [Addressing Linux's Missing PKI Infrastructure](https://discourse.ubuntu.com/t/addressing-linuxs-missing-pki-infrastructure/73314)
