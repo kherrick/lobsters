@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-08, 09:02:49",
+      "https://lobste.rs/s/4jbw6y/migrating_burningboard_net_mastodon"
+    ],
+    [
+      "Migrating burningboard.net Mastodon instance to a Multi-Jail FreeBSD Setup",
+      "https://blog.hofstede.it/migrating-burningboardnet-mastodon-instance-to-a-multi-jail-freebsd-setup/index.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-08, 08:55:51",
+      "https://lobste.rs/s/urbcpw/potential_security_breach_syncthing"
+    ],
+    [
+      "potential security breach in syncthing-fork",
+      "https://mastodon.pirateparty.be/@surfhosting/115674236291033568"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 08:14:28",
       "https://lobste.rs/s/n6rfvu/adding_unpack_syntax_rcl"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-12-07, 08:26:53",
-      "https://lobste.rs/s/wsq0v7/wild_west_post_posix_io_interfaces"
-    ],
-    [
-      "The Wild West of Post-POSIX IO Interfaces",
-      "https://youtu.be/abDWZ9D8kEE"
-    ]
-  ],
-  [
-    [
       "2025-12-07, 07:28:03",
       "https://lobste.rs/s/ibjifi/what_i_learnt_about_making_websites_by"
     ],
@@ -167,16 +177,6 @@
     [
       "Vanilla CSS is all you need",
       "https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 04:39:04",
-      "https://lobste.rs/s/gffbjq/package_manager_design_tradeoffs"
-    ],
-    [
-      "Package Manager Design Tradeoffs",
-      "https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html"
     ]
   ],
   [
