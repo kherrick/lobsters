@@ -2,14 +2,15 @@
 
 * [2025-12-08, 19:56:14](https://lobste.rs/s/2lglm4/disagreements_over_post_quantum) - [Disagreements over post-quantum encryption for TLS](https://lwn.net/SubscriberLink/1048978/8efe916082e53bfe/)
 * [2025-12-08, 19:34:24](https://lobste.rs/s/fqsavw/addressing_linux_s_missing_pki) - [Addressing Linux's Missing PKI Infrastructure](https://discourse.ubuntu.com/t/addressing-linuxs-missing-pki-infrastructure/73314)
+* [2025-12-08, 19:14:41](https://lobste.rs/s/uaswiw/new_way_watch_your_linux_system_work) - [A New Way to Watch Your Linux System Work](https://www.both.org/?p=12706)
 * [2025-12-08, 19:01:01](https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
+* [2025-12-08, 18:37:48](https://lobste.rs/s/v41nn1/yew_0_22_for_real_this_time) - [Yew 0.22 - For Real This Time](https://yew.rs/blog/2025/11/29/release-0-22)
+* [2025-12-08, 18:20:08](https://lobste.rs/s/xk3zqh/readable_code_is_unreadable) - [Readable Code is Unreadable](https://blog.wilsonb.com/posts/2025-06-06-readable-code-is-unreadable.html)
 * [2025-12-08, 17:32:52](https://lobste.rs/s/getto0/nova_programming_language) - [Nova Programming Language](https://nova-lang.net/)
 * [2025-12-08, 17:25:04](https://lobste.rs/s/bwhgfe/advent_management) - [Advent of Management](https://github.com/thehammer/advent-of-management)
-* [2025-12-08, 16:29:09](https://lobste.rs/s/zf7gyb/brief_history_gopher) - [A Brief History of Gopher](https://www.youtube.com/watch?v=Flo9kn_nhbg)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 14:23:48](https://lobste.rs/s/zbruc2/ray_marching_soft_shadows_2d) - [Ray Marching Soft Shadows in 2D](http://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-12-08, 12:00:40](https://lobste.rs/s/tnlaka/150_000_nodes_virtual_dom_no_problem) - [150.000 nodes in a Virtual DOM? No problem](https://www.youtube.com/watch?v=P4ACFrznLOg)
-* [2025-12-08, 11:53:48](https://lobste.rs/s/xq5n1g/golang_optimizations_for_high_volume) - [Golang optimizations for high‑volume services](https://medium.com/@pliutau/golang-optimizations-for-high-volume-services-c8ea8bfd90de)
 * [2025-12-08, 11:08:29](https://lobste.rs/s/s3ez2s/practical_guide_xhtml_2021) - [Practical guide to XHTML (2021)](https://www.nayuki.io/page/practical-guide-to-xhtml)
 * [2025-12-08, 10:53:43](https://lobste.rs/s/lx05cl/internet_forgets_i_don_t_want) - [The Internet forgets, but I don’t want to](https://alexwlchan.net/2025/social-media-scrapbook/)
 * [2025-12-08, 10:44:35](https://lobste.rs/s/dbqbhm/one_too_many_words_on_at_t_s_2_000_korn_shell) - [One too many words on AT&T's $2,000 Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
@@ -24,7 +25,6 @@
 * [2025-12-07, 21:16:39](https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 * [2025-12-07, 18:57:17](https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards) - [F35 Fighter Jet’s C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
-* [2025-12-07, 04:39:56](https://lobste.rs/s/29tpgl/vanilla_css_is_all_you_need) - [Vanilla CSS is all you need](https://www.zolkos.com/2025/12/03/vanilla-css-is-all-you-need)
 
 ## [Archives](archives/index.md)
 

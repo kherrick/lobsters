@@ -6,7 +6,10 @@
 
 * [2025-12-08, 19:56:14](https://lobste.rs/s/2lglm4/disagreements_over_post_quantum) - [Disagreements over post-quantum encryption for TLS](https://lwn.net/SubscriberLink/1048978/8efe916082e53bfe/)
 * [2025-12-08, 19:34:24](https://lobste.rs/s/fqsavw/addressing_linux_s_missing_pki) - [Addressing Linux's Missing PKI Infrastructure](https://discourse.ubuntu.com/t/addressing-linuxs-missing-pki-infrastructure/73314)
+* [2025-12-08, 19:14:41](https://lobste.rs/s/uaswiw/new_way_watch_your_linux_system_work) - [A New Way to Watch Your Linux System Work](https://www.both.org/?p=12706)
 * [2025-12-08, 19:01:01](https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
+* [2025-12-08, 18:37:48](https://lobste.rs/s/v41nn1/yew_0_22_for_real_this_time) - [Yew 0.22 - For Real This Time](https://yew.rs/blog/2025/11/29/release-0-22)
+* [2025-12-08, 18:20:08](https://lobste.rs/s/xk3zqh/readable_code_is_unreadable) - [Readable Code is Unreadable](https://blog.wilsonb.com/posts/2025-06-06-readable-code-is-unreadable.html)
 * [2025-12-08, 17:32:52](https://lobste.rs/s/getto0/nova_programming_language) - [Nova Programming Language](https://nova-lang.net/)
 * [2025-12-08, 17:25:04](https://lobste.rs/s/bwhgfe/advent_management) - [Advent of Management](https://github.com/thehammer/advent-of-management)
 * [2025-12-08, 16:29:09](https://lobste.rs/s/zf7gyb/brief_history_gopher) - [A Brief History of Gopher](https://www.youtube.com/watch?v=Flo9kn_nhbg)
