@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-08, 16:08:50](https://lobste.rs/s/cjcmic/meilisearch_speeding_up_vector_search) - [Meilisearch: Speeding up vector search 10x with Hannoy](https://blog.kerollmops.com/from-trees-to-graphs-speeding-up-vector-search-10x-with-hannoy)
 * [2025-12-08, 15:43:42](https://lobste.rs/s/iyzoah/failing_recreate_1996_space_jam_website) - [Failing to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude)
-* [2025-12-08, 15:11:14](https://lobste.rs/s/tiinaw/mac_cleaner_cli_free_open_source_mac) - [Mac Cleaner CLI: Free & Open Source Mac cleanup tool](https://github.com/guhcostan/mac-cleaner-cli)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 14:23:48](https://lobste.rs/s/zbruc2/ray_marching_soft_shadows_2d) - [Ray Marching Soft Shadows in 2D](http://www.rykap.com/2020/09/23/distance-fields/)
 * [2025-12-08, 12:00:40](https://lobste.rs/s/tnlaka/150_000_nodes_virtual_dom_no_problem) - [150.000 nodes in a Virtual DOM? No problem](https://www.youtube.com/watch?v=P4ACFrznLOg)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-08](index.md)
 
+* [2025-12-08, 16:08:50](https://lobste.rs/s/cjcmic/meilisearch_speeding_up_vector_search) - [Meilisearch: Speeding up vector search 10x with Hannoy](https://blog.kerollmops.com/from-trees-to-graphs-speeding-up-vector-search-10x-with-hannoy)
 * [2025-12-08, 15:43:42](https://lobste.rs/s/iyzoah/failing_recreate_1996_space_jam_website) - [Failing to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude)
 * [2025-12-08, 15:11:14](https://lobste.rs/s/tiinaw/mac_cleaner_cli_free_open_source_mac) - [Mac Cleaner CLI: Free & Open Source Mac cleanup tool](https://github.com/guhcostan/mac-cleaner-cli)
 * [2025-12-08, 15:09:05](https://lobste.rs/s/gresqq/f_off_contact_page) - [The f*** off contact page](https://www.nicchan.me/blog/the-f-off-contact-page/)
