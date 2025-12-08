@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-12-08, 00:22:52",
+      "https://lobste.rs/s/iuzgps/attempt_at_compelling_articulation"
+    ],
+    [
+      "An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eternal Usefulness",
+      "https://im-just-lee.ing/forth-why-cb234c03.txt"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 23:18:13",
       "https://lobste.rs/s/iohaag/pulldash_fast_filterable_github_pr"
     ],
     [
       "Pulldash: Fast, filterable GitHub PR review. Entirely client-side",
       "https://github.com/coder/pulldash"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 21:31:40",
-      "https://lobste.rs/s/ekrauj/measuring_agents_production_survey"
-    ],
-    [
-      "Measuring Agents In Production (survey paper)",
-      "https://arxiv.org/abs/2512.04123"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-12-07, 04:39:04",
+      "https://lobste.rs/s/gffbjq/package_manager_design_tradeoffs"
+    ],
+    [
+      "Package Manager Design Tradeoffs",
+      "https://nesbitt.io/2025/12/05/package-manager-tradeoffs.html"
+    ]
+  ],
+  [
+    [
       "2025-12-07, 03:23:43",
       "https://lobste.rs/s/jkl29r/discovering_indieweb_with_calm_tech"
     ],
@@ -167,16 +177,6 @@
     [
       "Using LLMs at Oxide",
       "https://rfd.shared.oxide.computer/rfd/0576"
-    ]
-  ],
-  [
-    [
-      "2025-12-07, 00:23:35",
-      "https://lobste.rs/s/xxlhtw/how_make_macos_screen_saver"
-    ],
-    [
-      "How to make a macOS screen saver",
-      "https://wadetregaskis.com/how-to-make-a-macos-screen-saver/"
     ]
   ],
   [
