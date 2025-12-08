@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-08, 15:43:42](https://lobste.rs/s/iyzoah/failing_recreate_1996_space_jam_website) - [Failing to recreate the 1996 Space Jam Website with Claude](https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude)
 * [2025-12-08, 15:11:14](https://lobste.rs/s/tiinaw/mac_cleaner_cli_free_open_source_mac) - [Mac Cleaner CLI: Free & Open Source Mac cleanup tool](https://github.com/guhcostan/mac-cleaner-cli)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 * [2025-12-08, 14:23:48](https://lobste.rs/s/zbruc2/ray_marching_soft_shadows_2d) - [Ray Marching Soft Shadows in 2D](http://www.rykap.com/2020/09/23/distance-fields/)
@@ -19,7 +20,6 @@
 * [2025-12-08, 00:22:52](https://lobste.rs/s/iuzgps/attempt_at_compelling_articulation) - [An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eternal Usefulness](https://im-just-lee.ing/forth-why-cb234c03.txt)
 * [2025-12-07, 23:18:13](https://lobste.rs/s/iohaag/pulldash_fast_filterable_github_pr) - [Pulldash: Fast, filterable GitHub PR review. Entirely client-side](https://github.com/coder/pulldash)
 * [2025-12-07, 21:16:39](https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
-* [2025-12-07, 19:14:45](https://lobste.rs/s/lp2m1v/estimates_are_difficult_for_developers) - [Estimates are difficult for developers and product owners](https://thorsell.io/2025/12/07/estimates.html)
 * [2025-12-07, 18:57:17](https://lobste.rs/s/loqwsc/f35_fighter_jet_s_c_coding_standards) - [F35 Fighter Jet’s C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
 * [2025-12-07, 16:12:54](https://lobste.rs/s/4tvzih/gerrit_code_review_iceberg) - [The Gerrit code review iceberg](https://www.haiku-os.org/blog/pulkomandy/2025-11-24-the_gerrit_pending_review_iceberg/)
 * [2025-12-07, 13:14:01](https://lobste.rs/s/ml4som/it_is_worth_it_optimize_images_for_your) - [It Is Worth It To Optimize Images For Your Site](https://brainbaking.com/post/2025/10/is-it-worth-it-to-optimize-images-for-your-site/)
