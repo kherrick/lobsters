@@ -22,9 +22,9 @@
 * [2025-12-09, 08:41:52](https://lobste.rs/s/a79acd/xkcd_1313_regex_golf_2014) - [xkcd 1313: Regex Golf (2014)](https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb)
 * [2025-12-09, 03:12:55](https://lobste.rs/s/yp9mou/metacode_new_standard_for_machine) - [Metacode: The new standard for machine-readable comments for Python](https://github.com/pomponchik/metacode)
 * [2025-12-08, 23:17:16](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
+* [2025-12-08, 20:47:49](https://lobste.rs/s/pvaalr/deprecations_via_warnings_don_t_work_for) - [Deprecations via warnings don’t work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
 * [2025-12-08, 19:01:01](https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
 * [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
-* [2025-12-08, 10:44:35](https://lobste.rs/s/dbqbhm/one_too_many_words_on_at_t_s_2_000_korn_shell) - [One too many words on AT&T's $2,000 Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 
 ## [Archives](archives/index.md)
 
