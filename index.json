@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-09, 05:13:07",
+      "https://lobste.rs/s/jsghdg/disagreements_over_post_quantum"
+    ],
+    [
+      "Disagreements over post-quantum encryption for TLS",
+      "https://lwn.net/SubscriberLink/1048978/c1437060685f8214/"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 04:58:10",
       "https://lobste.rs/s/wh35st/optique_0_8_0_conditional_parsing_pass"
     ],
@@ -207,16 +217,6 @@
     [
       "potential security breach in syncthing-fork",
       "https://mastodon.pirateparty.be/@surfhosting/115674236291033568"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 08:14:28",
-      "https://lobste.rs/s/n6rfvu/adding_unpack_syntax_rcl"
-    ],
-    [
-      "Adding unpack syntax to RCL",
-      "https://ruudvanasseldonk.com/2025/adding-unpack-to-rcl"
     ]
   ],
   [
