@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-12-08, 20:47:49",
+      "https://lobste.rs/s/pvaalr/deprecations_via_warnings_don_t_work_for"
+    ],
+    [
+      "Deprecations via warnings don’t work for Python libraries",
+      "https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries"
+    ]
+  ],
+  [
+    [
       "2025-12-08, 19:01:01",
       "https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1"
     ],
@@ -237,16 +247,6 @@
     [
       "Icons in Menus Everywhere — Send Help",
       "https://blog.jim-nielsen.com/2025/icons-in-menus/"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 10:44:35",
-      "https://lobste.rs/s/dbqbhm/one_too_many_words_on_at_t_s_2_000_korn_shell"
-    ],
-    [
-      "One too many words on AT&T's $2,000 Korn shell and other Usenet topics",
-      "https://blog.gabornyeki.com/2025-12-usenet/"
     ]
   ]
 ]
