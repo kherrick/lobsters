@@ -2,10 +2,10 @@
 
 * [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don't Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
+* [2025-12-09, 16:28:58](https://lobste.rs/s/y5vgj7/international_workshop_on_plan_9_2026) - [International Workshop on Plan 9: 2026 Edition](https://iwp9.org)
 * [2025-12-09, 15:29:26](https://lobste.rs/s/hekuyc/css_wrapped_2025) - [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/)
 * [2025-12-09, 14:59:01](https://lobste.rs/s/iyycuu/fighting_client_spaghetti_monster_with) - [Fighting the Client Spaghetti Monster with Rust Traits](http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/)
 * [2025-12-09, 14:52:54](https://lobste.rs/s/gzom84/zig_asserts_are_not_c_asserts) - [Zig asserts are not C asserts](https://cryptocode.github.io/blog/docs/assert/)
-* [2025-12-09, 14:47:57](https://lobste.rs/s/mvwzes/linux_kernel_version_numbers) - [Linux kernel version numbers](http://www.kroah.com/log/blog/2025/12/09/linux-kernel-version-numbers/)
 * [2025-12-09, 14:00:00](https://lobste.rs/s/04j2mc/uringmachine_benchmarks) - [UringMachine Benchmarks](https://github.com/digital-fabric/uringmachine/blob/main/benchmark/README.md)
 * [2025-12-09, 13:59:41](https://lobste.rs/s/zcve9a/textkit_2_promised_land) - [TextKit 2 - the promised land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
