@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 12:29:20](https://lobste.rs/s/qr32px/no_aria_is_better_than_bad_aria) - [No ARIA is better than Bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
+* [2025-12-09, 11:59:47](https://lobste.rs/s/yk038o/unofficial_language_server_for_gren_rust) - [Unofficial language server for gren, in rust](https://github.com/lue-bird/gren-language-server-unofficial)
+* [2025-12-09, 11:54:52](https://lobste.rs/s/rvtdbd/apologia_for_lazy_evaluation) - [An apologia for lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2025-12-09, 11:37:14](https://lobste.rs/s/aigol1/offline_cybersecurity_ai_using_rag_local) - [Offline cybersecurity AI using RAG + local LLM (Python, FAISS, Llama 3.1)](https://gitlab.com/sydsec1/Syd)
 * [2025-12-09, 11:15:34](https://lobste.rs/s/j1epfi/join_on_call_roster_it_ll_change_your_life) - [Join the on-call roster, it’ll change your life](https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life)
 * [2025-12-09, 09:55:11](https://lobste.rs/s/gcjtqe/compiler_engineering_practice_part_1) - [Compiler Engineering in Practice - Part 1: What is a Compiler?](https://chisophugis.github.io/2025/12/08/compiler-engineering-in-practice-part-1-what-is-a-compiler.html)

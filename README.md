@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-09, 11:37:14](https://lobste.rs/s/aigol1/offline_cybersecurity_ai_using_rag_local) - [Offline cybersecurity AI using RAG + local LLM (Python, FAISS, Llama 3.1)](https://gitlab.com/sydsec1/Syd)
+* [2025-12-09, 12:29:20](https://lobste.rs/s/qr32px/no_aria_is_better_than_bad_aria) - [No ARIA is better than Bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
+* [2025-12-09, 11:59:47](https://lobste.rs/s/yk038o/unofficial_language_server_for_gren_rust) - [Unofficial language server for gren, in rust](https://github.com/lue-bird/gren-language-server-unofficial)
+* [2025-12-09, 11:54:52](https://lobste.rs/s/rvtdbd/apologia_for_lazy_evaluation) - [An apologia for lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2025-12-09, 11:15:34](https://lobste.rs/s/j1epfi/join_on_call_roster_it_ll_change_your_life) - [Join the on-call roster, it’ll change your life](https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life)
 * [2025-12-09, 09:26:20](https://lobste.rs/s/wft20h/factor_0_101_now_available) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-09, 09:01:28](https://lobste.rs/s/ztpekx/39c3_fahrplan_2025) - [39C3 Fahrplan 2025](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
 * [2025-12-09, 08:41:52](https://lobste.rs/s/a79acd/xkcd_1313_regex_golf_2014) - [xkcd 1313: Regex Golf (2014)](https://nbviewer.org/url/norvig.com/ipython/xkcd1313.ipynb)
-* [2025-12-09, 04:58:10](https://lobste.rs/s/wh35st/optique_0_8_0_conditional_parsing_pass) - [Optique 0.8.0: Conditional parsing, pass-through options, and LogTape integration](https://hackers.pub/@hongminhee/2025/optique-080)
 * [2025-12-09, 03:12:55](https://lobste.rs/s/yp9mou/metacode_new_standard_for_machine) - [Metacode: The new standard for machine-readable comments for Python](https://github.com/pomponchik/metacode)
 * [2025-12-08, 23:17:16](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-08, 20:47:49](https://lobste.rs/s/pvaalr/deprecations_via_warnings_don_t_work_for) - [Deprecations via warnings don’t work for Python libraries](https://sethmlarson.dev/deprecations-via-warnings-dont-work-for-python-libraries)
@@ -22,7 +23,6 @@
 * [2025-12-08, 11:08:29](https://lobste.rs/s/s3ez2s/practical_guide_xhtml_2021) - [Practical guide to XHTML (2021)](https://www.nayuki.io/page/practical-guide-to-xhtml)
 * [2025-12-08, 10:44:35](https://lobste.rs/s/dbqbhm/one_too_many_words_on_at_t_s_2_000_korn_shell) - [One too many words on AT&T's $2,000 Korn shell and other Usenet topics](https://blog.gabornyeki.com/2025-12-usenet/)
 * [2025-12-08, 08:55:51](https://lobste.rs/s/urbcpw/potential_security_breach_syncthing) - [potential security breach in syncthing-fork](https://mastodon.pirateparty.be/@surfhosting/115674236291033568)
-* [2025-12-08, 07:58:21](https://lobste.rs/s/cae1mg/from_azure_functions_freebsd) - [From Azure Functions to FreeBSD](https://jmmv.dev/2025/12/from-azure-functions-to-freebsd.html)
 * [2025-12-08, 00:22:52](https://lobste.rs/s/iuzgps/attempt_at_compelling_articulation) - [An Attempt at a Compelling Articulation of Forth's Practical Strengths and Eternal Usefulness](https://im-just-lee.ing/forth-why-cb234c03.txt)
 * [2025-12-07, 21:16:39](https://lobste.rs/s/fiakvo/why_sanitizer_api_is_just_sethtml) - [Why the Sanitizer API is just `setHTML()`](https://frederikbraun.de/why-sethtml.html)
 
