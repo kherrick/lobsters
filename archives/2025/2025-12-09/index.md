@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-12-09](index.md)
 
+* [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
+* [2025-12-09, 13:14:22](https://lobste.rs/s/ztxobl/designing_rust_fdb_workloads_actually) - [Designing Rust FDB Workloads That Actually Find Bugs](https://pierrezemb.fr/posts/writing-rust-fdb-workloads-that-find-bugs/)
+* [2025-12-09, 13:13:29](https://lobste.rs/s/hs8wwz/semi_interactive_assembly_verification) - [Semi-Interactive Assembly Verification in Knuckledragger](https://www.philipzucker.com/asm_verify4/)
+* [2025-12-09, 12:37:15](https://lobste.rs/s/j92yom/go_proposal_secret_mode) - [Go proposal: Secret mode](https://antonz.org/accepted/runtime-secret/)
 * [2025-12-09, 12:29:20](https://lobste.rs/s/qr32px/no_aria_is_better_than_bad_aria) - [No ARIA is better than Bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
 * [2025-12-09, 11:59:47](https://lobste.rs/s/yk038o/unofficial_language_server_for_gren_rust) - [Unofficial language server for gren, in rust](https://github.com/lue-bird/gren-language-server-unofficial)
 * [2025-12-09, 11:54:52](https://lobste.rs/s/rvtdbd/apologia_for_lazy_evaluation) - [An apologia for lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
