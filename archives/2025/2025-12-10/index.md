@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 14:07:56](https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption) - [RFC 9180 Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
+* [2025-12-10, 13:57:11](https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library) - [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
 * [2025-12-10, 11:51:11](https://lobste.rs/s/xzvepw/get_line_superfast_spsc_queue) - [Get in Line - superfast SPSC Queue](https://abhikja.in/blog/2025-12-07-get-in-line/)
 * [2025-12-10, 11:29:01](https://lobste.rs/s/4bzvsk/memory_leak_regression_testing_with_v8) - [Memory leak regression testing with V8/Node.js](https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/)
 * [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
