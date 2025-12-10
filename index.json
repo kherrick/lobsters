@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-10, 15:37:33",
+      "https://lobste.rs/s/ermqvc/fragile_lock_novel_bypasses_for_saml"
+    ],
+    [
+      "The Fragile Lock: Novel Bypasses For SAML Authentication",
+      "https://portswigger.net/research/the-fragile-lock"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 14:07:56",
       "https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption"
     ],
@@ -227,16 +237,6 @@
     [
       "Factor 0.101 now available",
       "https://re.factorcode.org/2025/12/factor-0-101-now-available.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 09:01:28",
-      "https://lobste.rs/s/ztpekx/39c3_fahrplan_2025"
-    ],
-    [
-      "39C3 Fahrplan 2025",
-      "https://fahrplan.events.ccc.de/congress/2025/fahrplan/"
     ]
   ],
   [
