@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-10, 02:56:43](https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving) - [Looking for guidance on improving an offline security tool I built](https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving)
 * [2025-12-10, 00:41:26](https://lobste.rs/s/yddim2/fear_walking_zig_security_audit_gap) - [Fear of the Walking Zig: The Security Audit Gap](https://generativeai.pub/fear-of-the-walking-zig-the-security-audit-gap-707aec6ceb92)
 * [2025-12-09, 23:34:55](https://lobste.rs/s/i2sdzy/postmortem_intermittent_failure) - [Postmortem: Intermittent Failure in SimKube CI Runners](https://blog.appliedcomputing.io/p/postmortem-intermittent-failure-in)
 * [2025-12-09, 21:58:34](https://lobste.rs/s/33c6po/multiplying_our_way_out_division) - [Multiplying our way out of division](https://xania.org/202512/07-division-again)
@@ -12,7 +13,6 @@
 * [2025-12-09, 14:59:01](https://lobste.rs/s/iyycuu/fighting_client_spaghetti_monster_with) - [Fighting the Client Spaghetti Monster with Rust Traits](http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/)
 * [2025-12-09, 14:52:54](https://lobste.rs/s/gzom84/zig_asserts_are_not_c_asserts) - [Zig asserts are not C asserts](https://cryptocode.github.io/blog/docs/assert/)
 * [2025-12-09, 14:47:57](https://lobste.rs/s/mvwzes/linux_kernel_version_numbers) - [Linux kernel version numbers](http://www.kroah.com/log/blog/2025/12/09/linux-kernel-version-numbers/)
-* [2025-12-09, 14:00:00](https://lobste.rs/s/04j2mc/uringmachine_benchmarks) - [UringMachine Benchmarks](https://github.com/digital-fabric/uringmachine/blob/main/benchmark/README.md)
 * [2025-12-09, 13:59:41](https://lobste.rs/s/zcve9a/textkit_2_promised_land) - [TextKit 2 - the promised land](https://blog.krzyzanowskim.com/2025/08/14/textkit-2-the-promised-land/)
 * [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
 * [2025-12-09, 12:37:15](https://lobste.rs/s/j92yom/go_proposal_secret_mode) - [Go proposal: Secret mode](https://antonz.org/accepted/runtime-secret/)
