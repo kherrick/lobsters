@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 17:00:47](https://lobste.rs/s/h7c6we/iksemel_rusted) - [iksemel rusted](https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html)
 * [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:37:33](https://lobste.rs/s/ermqvc/fragile_lock_novel_bypasses_for_saml) - [The Fragile Lock: Novel Bypasses For SAML Authentication](https://portswigger.net/research/the-fragile-lock)
 * [2025-12-10, 14:07:56](https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption) - [RFC 9180 Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)

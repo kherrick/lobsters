@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-10, 17:00:47](https://lobste.rs/s/h7c6we/iksemel_rusted) - [iksemel rusted](https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html)
 * [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:37:33](https://lobste.rs/s/ermqvc/fragile_lock_novel_bypasses_for_saml) - [The Fragile Lock: Novel Bypasses For SAML Authentication](https://portswigger.net/research/the-fragile-lock)
 * [2025-12-10, 14:07:56](https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption) - [RFC 9180 Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
@@ -14,7 +15,6 @@
 * [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-09, 21:58:34](https://lobste.rs/s/33c6po/multiplying_our_way_out_division) - [Multiplying our way out of division](https://xania.org/202512/07-division-again)
-* [2025-12-09, 19:53:28](https://lobste.rs/s/8utaot/10_years_let_s_encrypt_certificates) - [10 Years of Let's Encrypt Certificates](https://letsencrypt.org/2025/12/09/10-years.html)
 * [2025-12-09, 19:15:09](https://lobste.rs/s/2o4yp6/my_favourite_small_hash_table) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 * [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don't Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
