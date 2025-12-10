@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 18:22:34](https://lobste.rs/s/fzfas8/compressing_embedded_files_go) - [Compressing embedded files in Go](https://vincent.bernat.ch/en/blog/2025-go-embed-compressed)
+* [2025-12-10, 17:59:53](https://lobste.rs/s/9k0wrj/swim_outsourced_heartbeats) - [SWIM: Outsourced Heartbeats](https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/)
 * [2025-12-10, 17:29:29](https://lobste.rs/s/02ok6n/testing_benchmarking_ai_compilers) - [Testing and Benchmarking of AI Compilers](https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers)
 * [2025-12-10, 17:00:47](https://lobste.rs/s/h7c6we/iksemel_rusted) - [iksemel rusted](https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html)
 * [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
