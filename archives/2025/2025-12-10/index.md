@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 15:37:33](https://lobste.rs/s/ermqvc/fragile_lock_novel_bypasses_for_saml) - [The Fragile Lock: Novel Bypasses For SAML Authentication](https://portswigger.net/research/the-fragile-lock)
 * [2025-12-10, 14:07:56](https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption) - [RFC 9180 Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2025-12-10, 13:57:11](https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library) - [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
 * [2025-12-10, 11:51:11](https://lobste.rs/s/xzvepw/get_line_superfast_spsc_queue) - [Get in Line - superfast SPSC Queue](https://abhikja.in/blog/2025-12-07-get-in-line/)
