@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-10, 11:29:01](https://lobste.rs/s/4bzvsk/memory_leak_regression_testing_with_v8) - [Memory leak regression testing with V8/Node.js](https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/)
 * [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 09:42:24](https://lobste.rs/s/yrillw/revisiting_let_s_build_compiler) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 08:53:54](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted) - [New tag suggestion: \"genai-assisted\"](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted)
@@ -7,13 +8,13 @@
 * [2025-12-10, 06:09:43](https://lobste.rs/s/bcz0ro/how_google_maps_quietly_allocates) - [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
+* [2025-12-10, 00:41:26](https://lobste.rs/s/yddim2/fear_walking_zig_security_audit_gap) - [Fear of the Walking Zig: The Security Audit Gap](https://generativeai.pub/fear-of-the-walking-zig-the-security-audit-gap-707aec6ceb92)
 * [2025-12-09, 21:58:34](https://lobste.rs/s/33c6po/multiplying_our_way_out_division) - [Multiplying our way out of division](https://xania.org/202512/07-division-again)
 * [2025-12-09, 19:53:28](https://lobste.rs/s/8utaot/10_years_let_s_encrypt_certificates) - [10 Years of Let's Encrypt Certificates](https://letsencrypt.org/2025/12/09/10-years.html)
 * [2025-12-09, 19:15:09](https://lobste.rs/s/2o4yp6/my_favourite_small_hash_table) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 * [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don't Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
 * [2025-12-09, 15:29:26](https://lobste.rs/s/hekuyc/css_wrapped_2025) - [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/)
-* [2025-12-09, 14:59:01](https://lobste.rs/s/iyycuu/fighting_client_spaghetti_monster_with) - [Fighting the Client Spaghetti Monster with Rust Traits](http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/)
 * [2025-12-09, 14:52:54](https://lobste.rs/s/gzom84/zig_asserts_are_not_c_asserts) - [Zig asserts are not C asserts](https://cryptocode.github.io/blog/docs/assert/)
 * [2025-12-09, 14:47:57](https://lobste.rs/s/mvwzes/linux_kernel_version_numbers) - [Linux kernel version numbers](http://www.kroah.com/log/blog/2025/12/09/linux-kernel-version-numbers/)
 * [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
@@ -24,7 +25,6 @@
 * [2025-12-09, 09:01:28](https://lobste.rs/s/ztpekx/39c3_fahrplan_2025) - [39C3 Fahrplan 2025](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
 * [2025-12-08, 23:17:16](https://lobste.rs/s/zsgdbg/prediction_ai_will_make_formal) - [Prediction: AI will make formal verification go mainstream](https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html)
 * [2025-12-08, 19:01:01](https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1) - [Jepsen: NATS 2.12.1](https://jepsen.io/analyses/nats-2.12.1)
-* [2025-12-08, 15:01:42](https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help) - [Icons in Menus Everywhere — Send Help](https://blog.jim-nielsen.com/2025/icons-in-menus/)
 
 ## [Archives](archives/index.md)
 
