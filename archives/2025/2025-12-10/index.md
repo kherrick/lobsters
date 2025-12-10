@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 19:26:06](https://lobste.rs/s/v5wieg/cdktf_has_been_deprecated) - [CDKTF has been deprecated](https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af)
+* [2025-12-10, 19:23:29](https://lobste.rs/s/r1xdbh/video_on_details_how_trunk_based) - [A video on the details of how Trunk-Based Development worked at MFT Energy](https://youtu.be/CR3LP2n2dWw)
 * [2025-12-10, 18:22:34](https://lobste.rs/s/fzfas8/compressing_embedded_files_go) - [Compressing embedded files in Go](https://vincent.bernat.ch/en/blog/2025-go-embed-compressed)
 * [2025-12-10, 17:59:53](https://lobste.rs/s/9k0wrj/swim_outsourced_heartbeats) - [SWIM: Outsourced Heartbeats](https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/)
 * [2025-12-10, 17:29:29](https://lobste.rs/s/02ok6n/testing_benchmarking_ai_compilers) - [Testing and Benchmarking of AI Compilers](https://www.broune.com/blog/testing-and-benchmarking-of-ai-compilers)
