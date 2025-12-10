@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-10, 11:51:11](https://lobste.rs/s/xzvepw/get_line_superfast_spsc_queue) - [Get in Line - superfast SPSC Queue](https://abhikja.in/blog/2025-12-07-get-in-line/)
 * [2025-12-10, 11:29:01](https://lobste.rs/s/4bzvsk/memory_leak_regression_testing_with_v8) - [Memory leak regression testing with V8/Node.js](https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/)
-* [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 09:42:24](https://lobste.rs/s/yrillw/revisiting_let_s_build_compiler) - [Revisiting \"Let's Build a Compiler\"](https://eli.thegreenplace.net/2025/revisiting-lets-build-a-compiler/)
 * [2025-12-10, 08:53:54](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted) - [New tag suggestion: \"genai-assisted\"](https://lobste.rs/s/po97lh/new_tag_suggestion_genai_assisted)
 * [2025-12-10, 07:04:32](https://lobste.rs/s/h7a3xy/stop_breaking_tls) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
