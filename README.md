@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
 * [2025-12-10, 15:37:33](https://lobste.rs/s/ermqvc/fragile_lock_novel_bypasses_for_saml) - [The Fragile Lock: Novel Bypasses For SAML Authentication](https://portswigger.net/research/the-fragile-lock)
 * [2025-12-10, 14:07:56](https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption) - [RFC 9180 Hybrid Public Key Encryption](https://www.rfc-editor.org/rfc/rfc9180.html)
 * [2025-12-10, 13:57:11](https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library) - [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
@@ -17,7 +18,6 @@
 * [2025-12-09, 19:15:09](https://lobste.rs/s/2o4yp6/my_favourite_small_hash_table) - [My favourite small hash table](https://www.corsix.org/content/my-favourite-small-hash-table)
 * [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don't Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
 * [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
-* [2025-12-09, 15:29:26](https://lobste.rs/s/hekuyc/css_wrapped_2025) - [CSS Wrapped 2025](https://chrome.dev/css-wrapped-2025/)
 * [2025-12-09, 14:52:54](https://lobste.rs/s/gzom84/zig_asserts_are_not_c_asserts) - [Zig asserts are not C asserts](https://cryptocode.github.io/blog/docs/assert/)
 * [2025-12-09, 14:47:57](https://lobste.rs/s/mvwzes/linux_kernel_version_numbers) - [Linux kernel version numbers](http://www.kroah.com/log/blog/2025/12/09/linux-kernel-version-numbers/)
 * [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
