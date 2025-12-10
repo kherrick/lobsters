@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-10, 06:09:43](https://lobste.rs/s/bcz0ro/how_google_maps_quietly_allocates) - [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-10, 02:56:43](https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving) - [Looking for guidance on improving an offline security tool I built](https://lobste.rs/s/qhznjj/looking_for_guidance_on_improving)
@@ -17,7 +18,6 @@
 * [2025-12-09, 13:14:50](https://lobste.rs/s/ekj7q2/world_needs_social_sovereignty) - [The world needs social sovereignty](https://blog.joinmastodon.org/2025/12/the-world-needs-social-sovereignty/)
 * [2025-12-09, 12:37:15](https://lobste.rs/s/j92yom/go_proposal_secret_mode) - [Go proposal: Secret mode](https://antonz.org/accepted/runtime-secret/)
 * [2025-12-09, 12:29:20](https://lobste.rs/s/qr32px/no_aria_is_better_than_bad_aria) - [No ARIA is better than Bad ARIA](https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/)
-* [2025-12-09, 11:54:52](https://lobste.rs/s/rvtdbd/apologia_for_lazy_evaluation) - [An apologia for lazy evaluation](https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html)
 * [2025-12-09, 11:15:34](https://lobste.rs/s/j1epfi/join_on_call_roster_it_ll_change_your_life) - [Join the on-call roster, it’ll change your life](https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life)
 * [2025-12-09, 09:26:20](https://lobste.rs/s/wft20h/factor_0_101_now_available) - [Factor 0.101 now available](https://re.factorcode.org/2025/12/factor-0-101-now-available.html)
 * [2025-12-09, 09:01:28](https://lobste.rs/s/ztpekx/39c3_fahrplan_2025) - [39C3 Fahrplan 2025](https://fahrplan.events.ccc.de/congress/2025/fahrplan/)
