@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-10, 11:29:01",
+      "https://lobste.rs/s/4bzvsk/memory_leak_regression_testing_with_v8"
+    ],
+    [
+      "Memory leak regression testing with V8/Node.js",
+      "https://joyeecheung.github.io/blog/2024/03/17/memory-leak-testing-v8-node-js-1/"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 11:08:47",
       "https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2025-12-10, 00:41:26",
+      "https://lobste.rs/s/yddim2/fear_walking_zig_security_audit_gap"
+    ],
+    [
+      "Fear of the Walking Zig: The Security Audit Gap",
+      "https://generativeai.pub/fear-of-the-walking-zig-the-security-audit-gap-707aec6ceb92"
+    ]
+  ],
+  [
+    [
       "2025-12-09, 21:58:34",
       "https://lobste.rs/s/33c6po/multiplying_our_way_out_division"
     ],
@@ -127,16 +147,6 @@
     [
       "CSS Wrapped 2025",
       "https://chrome.dev/css-wrapped-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 14:59:01",
-      "https://lobste.rs/s/iyycuu/fighting_client_spaghetti_monster_with"
-    ],
-    [
-      "Fighting the Client Spaghetti Monster with Rust Traits",
-      "http://www.gnunicorn.org/writings/spaghetti-monster-clients-rust-traits-final-boss/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Jepsen: NATS 2.12.1",
       "https://jepsen.io/analyses/nats-2.12.1"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 15:01:42",
-      "https://lobste.rs/s/qrepmu/icons_menus_everywhere_send_help"
-    ],
-    [
-      "Icons in Menus Everywhere — Send Help",
-      "https://blog.jim-nielsen.com/2025/icons-in-menus/"
     ]
   ]
 ]
