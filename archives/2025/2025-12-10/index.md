@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 19:36:04](https://lobste.rs/s/pbthr7/maybe_we_don_t_need_server) - [Maybe we don't need a server](https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html)
 * [2025-12-10, 19:26:06](https://lobste.rs/s/v5wieg/cdktf_has_been_deprecated) - [CDKTF has been deprecated](https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af)
 * [2025-12-10, 19:23:29](https://lobste.rs/s/r1xdbh/video_on_details_how_trunk_based) - [A video on the details of how Trunk-Based Development worked at MFT Energy](https://youtu.be/CR3LP2n2dWw)
 * [2025-12-10, 18:22:34](https://lobste.rs/s/fzfas8/compressing_embedded_files_go) - [Compressing embedded files in Go](https://vincent.bernat.ch/en/blog/2025-go-embed-compressed)
