@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-10, 11:08:47",
+      "https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging"
+    ],
+    [
+      "Common Lisp, ASDF, and Quicklisp: packaging explained",
+      "http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 09:42:24",
       "https://lobste.rs/s/yrillw/revisiting_let_s_build_compiler"
     ],
@@ -187,16 +197,6 @@
     [
       "Go proposal: Secret mode",
       "https://antonz.org/accepted/runtime-secret/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 12:29:20",
-      "https://lobste.rs/s/qr32px/no_aria_is_better_than_bad_aria"
-    ],
-    [
-      "No ARIA is better than Bad ARIA",
-      "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/"
     ]
   ],
   [
