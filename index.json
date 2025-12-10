@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-10, 20:31:33",
-      "https://lobste.rs/s/mzspdn/state_haskell_2025_survey"
+      "2025-12-10, 21:09:09",
+      "https://lobste.rs/s/ufudxi/useful_patterns_for_building_html_tools"
     ],
     [
-      "State of Haskell 2025 survey",
-      "https://www.surveymonkey.com/r/6M3Z6NV"
+      "Useful patterns for building HTML tools",
+      "https://simonwillison.net/2025/Dec/10/html-tools/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Maybe we don't need a server",
       "https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-10, 19:26:06",
+      "https://lobste.rs/s/v5wieg/cdktf_has_been_deprecated"
+    ],
+    [
+      "CDKTF has been deprecated",
+      "https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2025-12-10, 15:37:33",
+      "https://lobste.rs/s/ermqvc/fragile_lock_novel_bypasses_for_saml"
+    ],
+    [
+      "The Fragile Lock: Novel Bypasses For SAML Authentication",
+      "https://portswigger.net/research/the-fragile-lock"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 14:07:56",
       "https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption"
     ],
@@ -97,16 +117,6 @@
     [
       "Gin is a very bad software library",
       "https://eblog.fly.dev/ginbad.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 11:51:11",
-      "https://lobste.rs/s/xzvepw/get_line_superfast_spsc_queue"
-    ],
-    [
-      "Get in Line - superfast SPSC Queue",
-      "https://abhikja.in/blog/2025-12-07-get-in-line/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Join the on-call roster, it’ll change your life",
       "https://serce.me/posts/2025-12-09-join-oncall-it-will-change-your-life"
-    ]
-  ],
-  [
-    [
-      "2025-12-08, 19:01:01",
-      "https://lobste.rs/s/q2gai0/jepsen_nats_2_12_1"
-    ],
-    [
-      "Jepsen: NATS 2.12.1",
-      "https://jepsen.io/analyses/nats-2.12.1"
     ]
   ]
 ]
