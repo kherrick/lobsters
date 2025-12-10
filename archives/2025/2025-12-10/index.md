@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 21:09:09](https://lobste.rs/s/ufudxi/useful_patterns_for_building_html_tools) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 20:31:33](https://lobste.rs/s/mzspdn/state_haskell_2025_survey) - [State of Haskell 2025 survey](https://www.surveymonkey.com/r/6M3Z6NV)
 * [2025-12-10, 19:42:08](https://lobste.rs/s/a9wxqv/glic_turn_any_npm_library_into_command) - [glic: Turn any (npm) library into a command-line utility](https://github.com/vagos/glic)
 * [2025-12-10, 19:36:04](https://lobste.rs/s/pbthr7/maybe_we_don_t_need_server) - [Maybe we don't need a server](https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html)
