@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-10](index.md)
 
+* [2025-12-10, 23:52:09](https://lobste.rs/s/ppjpwn/nature_s_many_attempts_evolve_nostr) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
+* [2025-12-10, 23:34:53](https://lobste.rs/s/pacpa4/deconstructing_cap_theorem_for_cm_devops) - [Deconstructing the `CAP theorem' for CM and DevOps](https://markburgess.org/blog_cap.html)
 * [2025-12-10, 23:10:02](https://lobste.rs/s/sibl0p/using_edge_detection_preserve) - [Using edge detection to preserve significant features while downsampling](http://yogthos.net/pixel-mosaic.html)
 * [2025-12-10, 21:09:09](https://lobste.rs/s/ufudxi/useful_patterns_for_building_html_tools) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
 * [2025-12-10, 20:31:33](https://lobste.rs/s/mzspdn/state_haskell_2025_survey) - [State of Haskell 2025 survey](https://www.surveymonkey.com/r/6M3Z6NV)
