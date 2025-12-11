@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 14:02:50](https://lobste.rs/s/yuglsy/ai_optimism_is_class_privilege) - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2025-12-11, 12:11:12](https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown) - [Voiden: API specs, tests, and docs in one Markdown file](https://voiden.md)
 * [2025-12-11, 11:51:37](https://lobste.rs/s/kxndle/pg_exporter_postgresql_metric_exporter) - [pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust](https://github.com/nbari/pg_exporter)
