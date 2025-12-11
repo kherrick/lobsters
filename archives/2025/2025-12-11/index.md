@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 18:34:59](https://lobste.rs/s/djfvzj/helldivers_2_85_reduction_install_size) - [HELLDIVERS 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371)
+* [2025-12-11, 18:18:44](https://lobste.rs/s/ozj9kp/over_10_000_docker_hub_images_found) - [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/)
 * [2025-12-11, 18:05:55](https://lobste.rs/s/qhairc/programmers_software_developers_lost) - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
 * [2025-12-11, 17:59:30](https://lobste.rs/s/p20st3/litestream_vfs) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
 * [2025-12-11, 17:58:36](https://lobste.rs/s/6i1cfa/story_propolice) - [The story of Propolice](http://miod.online.fr/software/openbsd/stories/propolice.html)

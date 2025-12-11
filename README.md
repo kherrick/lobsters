@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-11, 18:34:59](https://lobste.rs/s/djfvzj/helldivers_2_85_reduction_install_size) - [HELLDIVERS 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371)
+* [2025-12-11, 18:18:44](https://lobste.rs/s/ozj9kp/over_10_000_docker_hub_images_found) - [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/)
 * [2025-12-11, 18:05:55](https://lobste.rs/s/qhairc/programmers_software_developers_lost) - [Programmers and software developers lost the plot on naming their tools](https://larr.net/p/namings.html)
 * [2025-12-11, 17:59:30](https://lobste.rs/s/p20st3/litestream_vfs) - [Litestream VFS](https://fly.io/blog/litestream-vfs/)
-* [2025-12-11, 17:58:36](https://lobste.rs/s/6i1cfa/story_propolice) - [The story of Propolice](http://miod.online.fr/software/openbsd/stories/propolice.html)
 * [2025-12-11, 17:28:05](https://lobste.rs/s/ueglwk/cosmic_desktop_is_fantastic_first_draft) - [Cosmic Desktop is a fantastic first draft](https://www.youtube.com/watch?v=ob-Y77kuVwM)
 * [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
 * [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
@@ -10,7 +11,6 @@
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_pracitices) - [Google’s code review pracitices](https://google.github.io/eng-practices/)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
-* [2025-12-11, 11:51:37](https://lobste.rs/s/kxndle/pg_exporter_postgresql_metric_exporter) - [pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust](https://github.com/nbari/pg_exporter)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 05:11:03](https://lobste.rs/s/liwan7/fish_alpinism) - [Fish Alpinism](https://triapul.cz/_/1765291397)
