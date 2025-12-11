@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 20:30:22",
+      "https://lobste.rs/s/6h5puc/sled_command_line_utility_for_advent_code"
+    ],
+    [
+      "sled: A command-line utility for Advent of Code written in Janet",
+      "https://github.com/pyrmont/sled"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 19:48:06",
       "https://lobste.rs/s/u7yz80/installing_every_nixos_package"
     ],
@@ -127,16 +137,6 @@
     [
       "Let's Embed a Go Program into the Linux Kernel",
       "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 12:11:12",
-      "https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown"
-    ],
-    [
-      "Voiden: API specs, tests, and docs in one Markdown file",
-      "https://voiden.md"
     ]
   ],
   [
