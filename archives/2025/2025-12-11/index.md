@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
+* [2025-12-11, 15:36:32](https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for) - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
 * [2025-12-11, 15:01:21](https://lobste.rs/s/sklkcz/how_linux_is_built_greg_kroah_hartman) - [How Linux Is Built - Greg Kroah-Hartman](https://www.youtube.com/watch?v=7agB1vOl-wg)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 14:02:50](https://lobste.rs/s/yuglsy/ai_optimism_is_class_privilege) - [AI optimism is a class privilege](https://joshcollinsworth.com/blog/sloptimism)
