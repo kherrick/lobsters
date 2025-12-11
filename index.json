@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-12-11, 15:45:39",
+      "https://lobste.rs/s/745s7c/colonization_confidence"
+    ],
+    [
+      "The Colonization of Confidence",
+      "https://sightlessscribbles.com/the-colonization-of-confidence/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 15:36:32",
       "https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for"
     ],
     [
       "Application Logging in Python: Recipes for Observability",
       "https://www.dash0.com/guides/logging-in-python"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 15:31:09",
+      "https://lobste.rs/s/jecsli/google_s_code_review_pracitices"
+    ],
+    [
+      "Google’s code review pracitices",
+      "https://google.github.io/eng-practices/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-12-10, 13:57:11",
-      "https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library"
-    ],
-    [
-      "Gin is a very bad software library",
-      "https://eblog.fly.dev/ginbad.html"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 11:08:47",
       "https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust in the kernel is no longer experimental",
       "https://lwn.net/Articles/1049831/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 17:38:51",
-      "https://lobste.rs/s/lrnk2e/you_don_t_need_orm"
-    ],
-    [
-      "You Don't Need an ORM",
-      "https://www.youtube.com/watch?v=XEJxk5VUSTs"
     ]
   ]
 ]
