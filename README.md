@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-11, 20:30:22](https://lobste.rs/s/6h5puc/sled_command_line_utility_for_advent_code) - [sled: A command-line utility for Advent of Code written in Janet](https://github.com/pyrmont/sled)
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
 * [2025-12-11, 19:37:35](https://lobste.rs/s/jyl2j6/pop_os_24_04_lts_released_letter_from_our) - [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder)
 * [2025-12-11, 18:34:59](https://lobste.rs/s/djfvzj/helldivers_2_85_reduction_install_size) - [HELLDIVERS 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371)
@@ -13,7 +14,6 @@
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_pracitices) - [Google’s code review pracitices](https://google.github.io/eng-practices/)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
-* [2025-12-11, 12:11:12](https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown) - [Voiden: API specs, tests, and docs in one Markdown file](https://voiden.md)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 05:11:03](https://lobste.rs/s/liwan7/fish_alpinism) - [Fish Alpinism](https://triapul.cz/_/1765291397)
