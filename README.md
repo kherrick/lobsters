@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
+* [2025-12-11, 15:45:39](https://lobste.rs/s/745s7c/colonization_confidence) - [The Colonization of Confidence](https://sightlessscribbles.com/the-colonization-of-confidence/)
 * [2025-12-11, 15:36:32](https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for) - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
+* [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_pracitices) - [Google’s code review pracitices](https://google.github.io/eng-practices/)
 * [2025-12-11, 15:01:21](https://lobste.rs/s/sklkcz/how_linux_is_built_greg_kroah_hartman) - [How Linux Is Built - Greg Kroah-Hartman](https://www.youtube.com/watch?v=7agB1vOl-wg)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
@@ -18,13 +20,11 @@
 * [2025-12-10, 19:26:06](https://lobste.rs/s/v5wieg/cdktf_has_been_deprecated) - [CDKTF has been deprecated](https://github.com/hashicorp/terraform-cdk/commit/a0c56138e2b4c7b6c128bd7ba08a8e317df852af)
 * [2025-12-10, 18:22:34](https://lobste.rs/s/fzfas8/compressing_embedded_files_go) - [Compressing embedded files in Go](https://vincent.bernat.ch/en/blog/2025-go-embed-compressed)
 * [2025-12-10, 16:03:47](https://lobste.rs/s/foxvd3/size_life) - [Size of Life](https://neal.fun/size-of-life/)
-* [2025-12-10, 13:57:11](https://lobste.rs/s/hmecxz/gin_is_very_bad_software_library) - [Gin is a very bad software library](https://eblog.fly.dev/ginbad.html)
 * [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 07:04:32](https://lobste.rs/s/h7a3xy/stop_breaking_tls) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:09:43](https://lobste.rs/s/bcz0ro/how_google_maps_quietly_allocates) - [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
 * [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
-* [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don't Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
 
 ## [Archives](archives/index.md)
 
