@@ -18,6 +18,7 @@
 * [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
 * [2025-12-11, 15:45:39](https://lobste.rs/s/745s7c/colonization_confidence) - [The Colonization of Confidence](https://sightlessscribbles.com/the-colonization-of-confidence/)
 * [2025-12-11, 15:36:32](https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for) - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
+* [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_practices) - [Google’s code review practices](https://google.github.io/eng-practices/)
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_pracitices) - [Google’s code review pracitices](https://google.github.io/eng-practices/)
 * [2025-12-11, 15:01:21](https://lobste.rs/s/sklkcz/how_linux_is_built_greg_kroah_hartman) - [How Linux Is Built - Greg Kroah-Hartman](https://www.youtube.com/watch?v=7agB1vOl-wg)
 * [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
