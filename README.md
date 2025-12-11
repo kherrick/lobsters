@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
 * [2025-12-11, 15:50:42](https://lobste.rs/s/suc61a/deprecate_like_you_mean_it) - [Deprecate Like You Mean It](https://entropicthoughts.com/deprecate-like-you-mean-it)
 * [2025-12-11, 15:45:39](https://lobste.rs/s/745s7c/colonization_confidence) - [The Colonization of Confidence](https://sightlessscribbles.com/the-colonization-of-confidence/)
 * [2025-12-11, 15:36:32](https://lobste.rs/s/0eg7uy/application_logging_python_recipes_for) - [Application Logging in Python: Recipes for Observability](https://www.dash0.com/guides/logging-in-python)
@@ -23,7 +24,6 @@
 * [2025-12-10, 11:08:47](https://lobste.rs/s/gb6ppu/common_lisp_asdf_quicklisp_packaging) - [Common Lisp, ASDF, and Quicklisp: packaging explained](http://cdegroot.com/programming/commonlisp/2025/11/26/cl-ql-asdf.html)
 * [2025-12-10, 07:04:32](https://lobste.rs/s/h7a3xy/stop_breaking_tls) - [Stop Breaking TLS](https://www.markround.com/blog/2025/12/09/stop-breaking-tls/)
 * [2025-12-10, 06:09:43](https://lobste.rs/s/bcz0ro/how_google_maps_quietly_allocates) - [How Google Maps quietly allocates survival across London’s restaurants - and how I built a dashboard to see through it](https://laurenleek.substack.com/p/how-google-maps-quietly-allocates)
-* [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 
 ## [Archives](archives/index.md)
