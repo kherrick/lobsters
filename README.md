@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-11, 12:11:12](https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown) - [Voiden: API specs, tests, and docs in one Markdown file](https://voiden.md)
 * [2025-12-11, 11:51:37](https://lobste.rs/s/kxndle/pg_exporter_postgresql_metric_exporter) - [pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust](https://github.com/nbari/pg_exporter)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
 * [2025-12-11, 05:11:03](https://lobste.rs/s/liwan7/fish_alpinism) - [Fish Alpinism](https://triapul.cz/_/1765291397)
+* [2025-12-11, 04:39:04](https://lobste.rs/s/3laked/getting_gemini_api_key_is_exercise) - [Getting a Gemini API key is an exercise in frustration](https://ankursethi.com/blog/gemini-api-key-frustration/)
 * [2025-12-10, 23:52:09](https://lobste.rs/s/ppjpwn/nature_s_many_attempts_evolve_nostr) - [Nature's many attempts to evolve a Nostr](https://newsletter.squishy.computer/p/natures-many-attempts-to-evolve-a)
 * [2025-12-10, 23:10:02](https://lobste.rs/s/sibl0p/using_edge_detection_preserve) - [Using edge detection to preserve significant features while downsampling](http://yogthos.net/pixel-mosaic.html)
 * [2025-12-10, 21:09:09](https://lobste.rs/s/ufudxi/useful_patterns_for_building_html_tools) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
@@ -23,8 +25,6 @@
 * [2025-12-10, 05:07:23](https://lobste.rs/s/ki1ihc/do_not_optimize_away) - [Do Not Optimize Away](https://matklad.github.io/2025/12/09/do-not-optimize-away.html)
 * [2025-12-10, 04:25:28](https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental) - [Rust in the kernel is no longer experimental](https://lwn.net/Articles/1049831/)
 * [2025-12-09, 17:38:51](https://lobste.rs/s/lrnk2e/you_don_t_need_orm) - [You Don't Need an ORM](https://www.youtube.com/watch?v=XEJxk5VUSTs)
-* [2025-12-09, 16:36:07](https://lobste.rs/s/nrjotv/why_i_think_jj_vcs_is_worth_your_time) - [why i think jj-vcs is worth your time](https://schpet.com/note/why-i-think-jj-vcs-is-worth-your-time)
-* [2025-12-09, 14:52:54](https://lobste.rs/s/gzom84/zig_asserts_are_not_c_asserts) - [Zig asserts are not C asserts](https://cryptocode.github.io/blog/docs/assert/)
 
 ## [Archives](archives/index.md)
 
