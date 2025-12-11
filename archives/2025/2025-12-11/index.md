@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-11](index.md)
 
 * [2025-12-11, 22:23:20](https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp) - [Oils 0.37.0 - Alpine Linux, YSH, and mycpp](https://oils.pub/blog/2025/12/release-0.37.0.html)
+* [2025-12-11, 22:16:48](https://lobste.rs/s/51gnpw/code_revolutionized_orbital_simulation) - [The Code That Revolutionized Orbital Simulation](https://www.youtube.com/watch?v=nCg3aXn5F3M)
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
 * [2025-12-11, 20:30:22](https://lobste.rs/s/6h5puc/sled_command_line_utility_for_advent_code) - [sled: A command-line utility for Advent of Code written in Janet](https://github.com/pyrmont/sled)
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
