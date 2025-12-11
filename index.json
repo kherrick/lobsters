@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 09:54:54",
+      "https://lobste.rs/s/kirs9q/mmap_go_considered_harmful"
+    ],
+    [
+      "mmap in Go considered harmful",
+      "https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 08:35:31",
       "https://lobste.rs/s/wcw4si/cost_closure_c"
     ],
@@ -101,22 +111,22 @@
   ],
   [
     [
+      "2025-12-10, 17:00:47",
+      "https://lobste.rs/s/h7c6we/iksemel_rusted"
+    ],
+    [
+      "iksemel rusted",
+      "https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html"
+    ]
+  ],
+  [
+    [
       "2025-12-10, 16:03:47",
       "https://lobste.rs/s/foxvd3/size_life"
     ],
     [
       "Size of Life",
       "https://neal.fun/size-of-life/"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 14:07:56",
-      "https://lobste.rs/s/wvgp5t/rfc_9180_hybrid_public_key_encryption"
-    ],
-    [
-      "RFC 9180 Hybrid Public Key Encryption",
-      "https://www.rfc-editor.org/rfc/rfc9180.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Zig asserts are not C asserts",
       "https://cryptocode.github.io/blog/docs/assert/"
-    ]
-  ],
-  [
-    [
-      "2025-12-09, 12:37:15",
-      "https://lobste.rs/s/j92yom/go_proposal_secret_mode"
-    ],
-    [
-      "Go proposal: Secret mode",
-      "https://antonz.org/accepted/runtime-secret/"
     ]
   ],
   [
