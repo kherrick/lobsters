@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 12:48:49",
+      "https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel"
+    ],
+    [
+      "Let's Embed a Go Program into the Linux Kernel",
+      "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 12:11:12",
       "https://lobste.rs/s/kl95d9/voiden_api_specs_tests_docs_one_markdown"
     ],
@@ -137,16 +147,6 @@
     [
       "SWIM: Outsourced Heartbeats",
       "https://benjamincongdon.me/blog/2025/12/09/SWIM-Outsourced-Heartbeats/"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 17:00:47",
-      "https://lobste.rs/s/h7c6we/iksemel_rusted"
-    ],
-    [
-      "iksemel rusted",
-      "https://thinkerf.blogspot.com/2025/12/iksemel-rusted.html"
     ]
   ],
   [
