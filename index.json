@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-11, 18:34:59",
+      "https://lobste.rs/s/djfvzj/helldivers_2_85_reduction_install_size"
+    ],
+    [
+      "HELLDIVERS 2 - 85% reduction in install size with minimal performance impact",
+      "https://store.steampowered.com/news/app/553850/view/491583942944621371"
+    ]
+  ],
+  [
+    [
+      "2025-12-11, 18:18:44",
+      "https://lobste.rs/s/ozj9kp/over_10_000_docker_hub_images_found"
+    ],
+    [
+      "Over 10,000 Docker Hub images found leaking credentials, auth keys",
+      "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 18:05:55",
       "https://lobste.rs/s/qhairc/programmers_software_developers_lost"
     ],
@@ -17,16 +37,6 @@
     [
       "Litestream VFS",
       "https://fly.io/blog/litestream-vfs/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 17:58:36",
-      "https://lobste.rs/s/6i1cfa/story_propolice"
-    ],
-    [
-      "The story of Propolice",
-      "http://miod.online.fr/software/openbsd/stories/propolice.html"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Let's Embed a Go Program into the Linux Kernel",
       "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 11:51:37",
-      "https://lobste.rs/s/kxndle/pg_exporter_postgresql_metric_exporter"
-    ],
-    [
-      "pg_exporter: A PostgreSQL metric exporter for Prometheus written in Rust",
-      "https://github.com/nbari/pg_exporter"
     ]
   ],
   [
