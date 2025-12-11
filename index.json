@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-11, 22:23:20",
+      "https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp"
+    ],
+    [
+      "Oils 0.37.0 - Alpine Linux, YSH, and mycpp",
+      "https://oils.pub/blog/2025/12/release-0.37.0.html"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 20:48:49",
       "https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator"
     ],
@@ -237,16 +247,6 @@
     [
       "Size of Life",
       "https://neal.fun/size-of-life/"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 04:25:28",
-      "https://lobste.rs/s/otc3ak/rust_kernel_is_no_longer_experimental"
-    ],
-    [
-      "Rust in the kernel is no longer experimental",
-      "https://lwn.net/Articles/1049831/"
     ]
   ]
 ]
