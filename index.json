@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 13:37:05",
+      "https://lobste.rs/s/ytelgx/rethinking_sudo_with_object"
+    ],
+    [
+      "Rethinking sudo with object capabilities",
+      "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 12:58:09",
       "https://lobste.rs/s/psiboc/unswitching_loops_for_fun_profit"
     ],
@@ -167,16 +177,6 @@
     [
       "Helldivers 2 - 85% reduction in install size with minimal performance impact",
       "https://store.steampowered.com/news/app/553850/view/491583942944621371"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 18:18:44",
-      "https://lobste.rs/s/ozj9kp/over_10_000_docker_hub_images_found"
-    ],
-    [
-      "Over 10,000 Docker Hub images found leaking credentials, auth keys",
-      "https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/"
     ]
   ],
   [
