@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 14:21:17",
+      "https://lobste.rs/s/q5jsvl/how_run_ministral_3_with_amd_gpu_on_windows"
+    ],
+    [
+      "How to run Ministral 3 with an AMD GPU on Windows",
+      "https://www.50-nuances-octets.fr/en/posts/ministral-3-gpu-amd-windows/"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 13:37:05",
       "https://lobste.rs/s/ytelgx/rethinking_sudo_with_object"
     ],
@@ -137,16 +147,6 @@
     [
       "bidicalc: a bidirectional calculator",
       "https://victorpoughon.github.io/bidicalc/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 20:20:24",
-      "https://lobste.rs/s/2gwbhe/html_first_approach_why_htmx_lightweight"
-    ],
-    [
-      "The HTML-First Approach: Why htmx and Lightweight Frameworks Are Revolutionizing Web Development",
-      "https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-"
     ]
   ],
   [
