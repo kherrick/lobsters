@@ -8,6 +8,7 @@
 * [2025-12-11, 22:16:48](https://lobste.rs/s/51gnpw/code_revolutionized_orbital_simulation) - [The Code That Revolutionized Orbital Simulation](https://www.youtube.com/watch?v=nCg3aXn5F3M)
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
 * [2025-12-11, 20:30:22](https://lobste.rs/s/6h5puc/sled_command_line_utility_for_advent_code) - [sled: A command-line utility for Advent of Code written in Janet](https://github.com/pyrmont/sled)
+* [2025-12-11, 20:20:24](https://lobste.rs/s/2gwbhe/html_first_approach_why_htmx_lightweight) - [The HTML-First Approach: Why htmx and Lightweight Frameworks Are Revolutionizing Web Development](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 * [2025-12-11, 20:19:51](https://lobste.rs/s/9qh9qj/what_i_look_for_ai_assisted_prs) - [What I Look For in AI-Assisted PRs](https://benjamincongdon.me/blog/2025/12/10/What-I-Look-For-in-AI-Assisted-PRs/)
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
 * [2025-12-11, 19:37:35](https://lobste.rs/s/jyl2j6/pop_os_24_04_lts_released_letter_from_our) - [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder)
