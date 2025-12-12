@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 16:00:36",
+      "https://lobste.rs/s/fafy2d/code_centric_journey_into_gleam_language"
+    ],
+    [
+      "A Code Centric Journey Into the Gleam Language",
+      "https://www.youtube.com/watch?v=LMrKEaAi4RI"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 15:44:31",
       "https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for"
     ],
@@ -37,16 +47,6 @@
     [
       "Rethinking sudo with object capabilities",
       "https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 12:58:09",
-      "https://lobste.rs/s/psiboc/unswitching_loops_for_fun_profit"
-    ],
-    [
-      "Unswitching loops for fun and profit",
-      "https://xania.org/202512/12-loop-unswitching"
     ]
   ],
   [
