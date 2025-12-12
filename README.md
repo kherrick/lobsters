@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-12, 10:46:40](https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster) - [Building smaller Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 09:53:15](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend)
 * [2025-12-12, 08:54:36](https://lobste.rs/s/9vbm52/typeslayer_typescript_types) - [Typeslayer - a TypeScript types performance tool](https://youtu.be/IP6EZXzXBzY)
 * [2025-12-12, 06:15:48](https://lobste.rs/s/cxhdjd/freeing_xiaomi_humidifier_from_cloud) - [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
@@ -21,7 +22,6 @@
 * [2025-12-11, 17:28:05](https://lobste.rs/s/ueglwk/cosmic_desktop_is_fantastic_first_draft) - [Cosmic Desktop is a fantastic first draft](https://www.youtube.com/watch?v=ob-Y77kuVwM)
 * [2025-12-11, 16:33:14](https://lobste.rs/s/3ejc1u/announcing_rust_1_92_0) - [Announcing Rust 1.92.0](https://blog.rust-lang.org/2025/12/11/Rust-1.92.0)
 * [2025-12-11, 15:31:09](https://lobste.rs/s/jecsli/google_s_code_review_practices) - [Google’s code review practices](https://google.github.io/eng-practices/)
-* [2025-12-11, 14:30:49](https://lobste.rs/s/7zwc3z/pragmatic_guide_modern_css_colours_part) - [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/)
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
