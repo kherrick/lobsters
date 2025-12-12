@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-12, 14:21:17](https://lobste.rs/s/q5jsvl/how_run_ministral_3_with_amd_gpu_on_windows) - [How to run Ministral 3 with an AMD GPU on Windows](https://www.50-nuances-octets.fr/en/posts/ministral-3-gpu-amd-windows/)
 * [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 * [2025-12-12, 12:58:09](https://lobste.rs/s/psiboc/unswitching_loops_for_fun_profit) - [Unswitching loops for fun and profit](https://xania.org/202512/12-loop-unswitching)
 * [2025-12-12, 11:42:33](https://lobste.rs/s/vtg1wc/simple_habit_saves_my_evenings) - [The Simple Habit That Saves My Evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
@@ -14,7 +15,6 @@
 * [2025-12-12, 00:27:22](https://lobste.rs/s/vvnsdb/notes_on_gamma) - [Notes on Gamma](https://poniesandlight.co.uk/reflect/gamma/)
 * [2025-12-11, 22:23:20](https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp) - [Oils 0.37.0 - Alpine Linux, YSH, and mycpp](https://oils.pub/blog/2025/12/release-0.37.0.html)
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
-* [2025-12-11, 20:20:24](https://lobste.rs/s/2gwbhe/html_first_approach_why_htmx_lightweight) - [The HTML-First Approach: Why htmx and Lightweight Frameworks Are Revolutionizing Web Development](https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-)
 * [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
 * [2025-12-11, 19:37:35](https://lobste.rs/s/jyl2j6/pop_os_24_04_lts_released_letter_from_our) - [Pop!_OS 24.04 LTS Released: A Letter From Our Founder](https://blog.system76.com/post/pop-os-letter-from-our-founder)
 * [2025-12-11, 18:34:59](https://lobste.rs/s/djfvzj/helldivers_2_85_reduction_install_size) - [Helldivers 2 - 85% reduction in install size with minimal performance impact](https://store.steampowered.com/news/app/553850/view/491583942944621371)

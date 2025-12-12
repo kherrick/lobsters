@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 14:21:17](https://lobste.rs/s/q5jsvl/how_run_ministral_3_with_amd_gpu_on_windows) - [How to run Ministral 3 with an AMD GPU on Windows](https://www.50-nuances-octets.fr/en/posts/ministral-3-gpu-amd-windows/)
 * [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 * [2025-12-12, 12:58:09](https://lobste.rs/s/psiboc/unswitching_loops_for_fun_profit) - [Unswitching loops for fun and profit](https://xania.org/202512/12-loop-unswitching)
 * [2025-12-12, 11:42:33](https://lobste.rs/s/vtg1wc/simple_habit_saves_my_evenings) - [The Simple Habit That Saves My Evenings](https://alikhil.dev/posts/the-simple-habit-that-saves-my-evenings/)
