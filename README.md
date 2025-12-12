@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-12, 16:00:36](https://lobste.rs/s/fafy2d/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=LMrKEaAi4RI)
 * [2025-12-12, 15:44:31](https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-12, 15:08:46](https://lobste.rs/s/wqoq6t/building_trustworthy_ai_agents) - [Building Trustworthy AI Agents](https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html)
 * [2025-12-12, 14:21:17](https://lobste.rs/s/q5jsvl/how_run_ministral_3_with_amd_gpu_on_windows) - [How to run Ministral 3 with an AMD GPU on Windows](https://www.50-nuances-octets.fr/en/posts/ministral-3-gpu-amd-windows/)
 * [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
-* [2025-12-12, 12:58:09](https://lobste.rs/s/psiboc/unswitching_loops_for_fun_profit) - [Unswitching loops for fun and profit](https://xania.org/202512/12-loop-unswitching)
 * [2025-12-12, 10:46:40](https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster) - [Building smaller Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 09:53:15](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend)
 * [2025-12-12, 08:54:36](https://lobste.rs/s/9vbm52/typeslayer_typescript_types) - [Typeslayer - a TypeScript types performance tool](https://youtu.be/IP6EZXzXBzY)
