@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-12, 09:53:15](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend)
+* [2025-12-12, 08:54:36](https://lobste.rs/s/9vbm52/typeslayer_typescript_types) - [Typeslayer - a TypeScript types performance tool](https://youtu.be/IP6EZXzXBzY)
 * [2025-12-12, 06:15:48](https://lobste.rs/s/cxhdjd/freeing_xiaomi_humidifier_from_cloud) - [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
 * [2025-12-12, 05:56:21](https://lobste.rs/s/g1o2t8/guarding_my_git_forge_against_ai_scrapers) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 03:55:02](https://lobste.rs/s/kpuita/are_we_stuck_with_same_desktop_ux_forever) - [Are we stuck with the same Desktop UX forever?](https://www.youtube.com/watch?v=1fZTOjd_bOQ)
@@ -23,8 +25,6 @@
 * [2025-12-11, 12:48:49](https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel) - [Let's Embed a Go Program into the Linux Kernel](https://sigma-star.at/blog/2023/07/embedded-go-prog/)
 * [2025-12-11, 09:54:54](https://lobste.rs/s/kirs9q/mmap_go_considered_harmful) - [mmap in Go considered harmful](https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d)
 * [2025-12-11, 08:35:31](https://lobste.rs/s/wcw4si/cost_closure_c) - [The Cost Of a Closure in C](https://thephd.dev/the-cost-of-a-closure-in-c-c2y)
-* [2025-12-10, 21:09:09](https://lobste.rs/s/ufudxi/useful_patterns_for_building_html_tools) - [Useful patterns for building HTML tools](https://simonwillison.net/2025/Dec/10/html-tools/)
-* [2025-12-10, 19:36:04](https://lobste.rs/s/pbthr7/maybe_we_don_t_need_server) - [Maybe we don't need a server](https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html)
 
 ## [Archives](archives/index.md)
 
