@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-12, 12:58:09",
+      "https://lobste.rs/s/psiboc/unswitching_loops_for_fun_profit"
+    ],
+    [
+      "Unswitching loops for fun and profit",
+      "https://xania.org/202512/12-loop-unswitching"
+    ]
+  ],
+  [
+    [
       "2025-12-12, 11:42:33",
       "https://lobste.rs/s/vtg1wc/simple_habit_saves_my_evenings"
     ],
@@ -227,16 +237,6 @@
     [
       "Let's Embed a Go Program into the Linux Kernel",
       "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 09:54:54",
-      "https://lobste.rs/s/kirs9q/mmap_go_considered_harmful"
-    ],
-    [
-      "mmap in Go considered harmful",
-      "https://valyala.medium.com/mmap-in-go-considered-harmful-d92a25cb161d"
     ]
   ],
   [
