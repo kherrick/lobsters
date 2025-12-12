@@ -1,22 +1,42 @@
 [
   [
     [
+      "2025-12-12, 01:48:31",
+      "https://lobste.rs/s/z99i7c/orvalho_spec"
+    ],
+    [
+      "Orvalho Spec",
+      "https://github.com/lucasew/orvalho/blob/main/SPEC.md"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 01:41:22",
+      "https://lobste.rs/s/zyvhp9/pop_goes_population_count"
+    ],
+    [
+      "Pop goes the...population count?",
+      "https://xania.org/202512/11-pop-goes-the-weasel-er-count"
+    ]
+  ],
+  [
+    [
+      "2025-12-12, 00:27:22",
+      "https://lobste.rs/s/vvnsdb/notes_on_gamma"
+    ],
+    [
+      "Notes on Gamma",
+      "https://poniesandlight.co.uk/reflect/gamma/"
+    ]
+  ],
+  [
+    [
       "2025-12-11, 22:23:20",
       "https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp"
     ],
     [
       "Oils 0.37.0 - Alpine Linux, YSH, and mycpp",
       "https://oils.pub/blog/2025/12/release-0.37.0.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 22:16:48",
-      "https://lobste.rs/s/51gnpw/code_revolutionized_orbital_simulation"
-    ],
-    [
-      "The Code That Revolutionized Orbital Simulation",
-      "https://www.youtube.com/watch?v=nCg3aXn5F3M"
     ]
   ],
   [
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2025-12-11, 20:19:51",
-      "https://lobste.rs/s/9qh9qj/what_i_look_for_ai_assisted_prs"
+      "2025-12-11, 20:20:24",
+      "https://lobste.rs/s/2gwbhe/html_first_approach_why_htmx_lightweight"
     ],
     [
-      "What I Look For in AI-Assisted PRs",
-      "https://benjamincongdon.me/blog/2025/12/10/What-I-Look-For-in-AI-Assisted-PRs/"
+      "The HTML-First Approach: Why htmx and Lightweight Frameworks Are Revolutionizing Web Development",
+      "https://www.danieleteti.it/post/html-first-frameworks-htmx-revolution-en/#building-with-html-instead-of-fighting-with-javascript-layers-"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-12-11, 05:11:03",
-      "https://lobste.rs/s/liwan7/fish_alpinism"
-    ],
-    [
-      "Fish Alpinism",
-      "https://triapul.cz/_/1765291397"
-    ]
-  ],
-  [
-    [
       "2025-12-10, 23:52:09",
       "https://lobste.rs/s/ppjpwn/nature_s_many_attempts_evolve_nostr"
     ],
@@ -237,16 +247,6 @@
     [
       "Maybe we don't need a server",
       "https://lecaro.me/20251203-maybe-we-do-not-need-a-server.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-10, 16:03:47",
-      "https://lobste.rs/s/foxvd3/size_life"
-    ],
-    [
-      "Size of Life",
-      "https://neal.fun/size-of-life/"
     ]
   ]
 ]
