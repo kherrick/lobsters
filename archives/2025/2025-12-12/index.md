@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
 * [2025-12-12, 20:41:16](https://lobste.rs/s/fkbmwj/pure_vs_impure_iterators_go) - [Pure vs. impure iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
+* [2025-12-12, 20:36:11](https://lobste.rs/s/azgmvv/post_quantum_cryptography_on_cheriot) - [Post-Quantum Cryptography on CHERIoT](https://cheriot.org/pqc/2025/12/12/pqc-on-cheriot.html)
 * [2025-12-12, 20:26:57](https://lobste.rs/s/lwmaa9/security_issues_with_electronic) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 18:32:39](https://lobste.rs/s/oo7ovk/my_python_setup_december_2025) - [My Python setup, December 2025](https://chrisamico.com/blog/2025-12-07/uv-new-python-setup/)
 * [2025-12-12, 18:21:22](https://lobste.rs/s/23lzm2/50_years_proof_assistants) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
