@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-12](index.md)
 
+* [2025-12-12, 20:26:57](https://lobste.rs/s/lwmaa9/security_issues_with_electronic) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 18:32:39](https://lobste.rs/s/oo7ovk/my_python_setup_december_2025) - [My Python setup, December 2025](https://chrisamico.com/blog/2025-12-07/uv-new-python-setup/)
 * [2025-12-12, 18:21:22](https://lobste.rs/s/23lzm2/50_years_proof_assistants) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)

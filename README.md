@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-12, 20:26:57](https://lobste.rs/s/lwmaa9/security_issues_with_electronic) - [Security Issues with Electronic Invoices](https://invoice.secvuln.info/)
 * [2025-12-12, 18:32:39](https://lobste.rs/s/oo7ovk/my_python_setup_december_2025) - [My Python setup, December 2025](https://chrisamico.com/blog/2025-12-07/uv-new-python-setup/)
 * [2025-12-12, 18:21:22](https://lobste.rs/s/23lzm2/50_years_proof_assistants) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)
-* [2025-12-12, 18:00:47](https://lobste.rs/s/50rzsf/cm0_new_raspberry_pi_you_can_t_buy) - [CM0 - a new Raspberry Pi you can't buy](https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy)
 * [2025-12-12, 17:18:19](https://lobste.rs/s/s9uxqa/django_what_s_new_6_0) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 * [2025-12-12, 16:25:49](https://lobste.rs/s/2dh57o/async_dns) - [async dns](https://flak.tedunangst.com/post/async-dns)
 * [2025-12-12, 16:00:36](https://lobste.rs/s/fafy2d/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=LMrKEaAi4RI)
