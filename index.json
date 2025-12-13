@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-13, 20:55:32",
+      "https://lobste.rs/s/xyr6as/myna_v2_0_contextual_variants_more"
+    ],
+    [
+      "Myna v2.0: contextual variants, more weights (and even supports APL)",
+      "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 20:00:03",
       "https://lobste.rs/s/j90ulf/faster_double_string_conversion"
     ],
     [
       "Faster double-to-string conversion",
       "https://vitaut.net/posts/2025/faster-dtoa/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 19:53:23",
+      "https://lobste.rs/s/ijztws/go_is_portable_until_it_isn_t"
+    ],
+    [
+      "Go is portable, until it isn't",
+      "https://simpleobservability.com/blog/go-portable-until-isnt"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Indexed Reverse Polish Notation, an Alternative to AST",
       "https://burakemir.ch/post/indexed-rpn/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 14:55:24",
-      "https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts"
-    ],
-    [
-      "Skills vs Dynamic MCP Loadouts",
-      "https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Building smaller Docker images faster",
       "https://sgt.hootr.club/blog/docker-protips/"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 05:56:21",
-      "https://lobste.rs/s/g1o2t8/guarding_my_git_forge_against_ai_scrapers"
-    ],
-    [
-      "Guarding My Git Forge Against AI Scrapers",
-      "https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/"
     ]
   ]
 ]
