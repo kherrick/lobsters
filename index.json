@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-13, 03:15:36",
+      "https://lobste.rs/s/52nkjo/cycle_accurate_ym2149_psg_emulator"
+    ],
+    [
+      "Cycle-accurate YM2149 PSG emulator",
+      "https://github.com/slippyex/ym2149-rs"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 03:00:36",
       "https://lobste.rs/s/vpdzua/coming_need_for_formal_specification"
     ],
@@ -127,16 +137,6 @@
     [
       "I couldn't find a logging library that worked for my library, so I made one",
       "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:08:46",
-      "https://lobste.rs/s/wqoq6t/building_trustworthy_ai_agents"
-    ],
-    [
-      "Building Trustworthy AI Agents",
-      "https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html"
     ]
   ],
   [
