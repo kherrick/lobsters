@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-13, 14:55:24](https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts) - [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/)
 * [2025-12-13, 13:29:17](https://lobste.rs/s/pjggcx/state_kernel_rust_experiment) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
 * [2025-12-13, 13:21:50](https://lobste.rs/s/mrdocw/trying_manual_memory_management_go) - [Trying manual memory management in Go](https://www.youtube.com/watch?v=SHmJTgjldgg)
 * [2025-12-13, 12:55:25](https://lobste.rs/s/vx1gr7/please_stop_using_middleware_protect) - [Please stop using middleware to protect your routes (2024)](https://pilcrowonpaper.com/blog/middleware-auth/)
@@ -17,7 +18,6 @@
 * [2025-12-12, 18:32:39](https://lobste.rs/s/oo7ovk/my_python_setup_december_2025) - [My Python setup, December 2025](https://chrisamico.com/blog/2025-12-07/uv-new-python-setup/)
 * [2025-12-12, 18:21:22](https://lobste.rs/s/23lzm2/50_years_proof_assistants) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)
-* [2025-12-12, 17:18:19](https://lobste.rs/s/s9uxqa/django_what_s_new_6_0) - [Django: what’s new in 6.0](https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/)
 * [2025-12-12, 16:25:49](https://lobste.rs/s/2dh57o/async_dns) - [async dns](https://flak.tedunangst.com/post/async-dns)
 * [2025-12-12, 15:44:31](https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
