@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-13, 17:28:35",
+      "https://lobste.rs/s/g535vs/using_nvi_as_minimal_fast_text_editor"
+    ],
+    [
+      "Using nvi as a Minimal and Fast Text Editor",
+      "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 17:19:16",
       "https://lobste.rs/s/zfnnvr/editors_should_have_opt_for_less"
     ],
@@ -27,16 +37,6 @@
     [
       "Indexed Reverse Polish Notation, an Alternative to AST",
       "https://burakemir.ch/post/indexed-rpn/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 14:55:24",
-      "https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts"
-    ],
-    [
-      "Skills vs Dynamic MCP Loadouts",
-      "https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/"
     ]
   ],
   [
