@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-13, 20:00:03",
+      "https://lobste.rs/s/j90ulf/faster_double_string_conversion"
+    ],
+    [
+      "Faster double-to-string conversion",
+      "https://vitaut.net/posts/2025/faster-dtoa/"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 19:40:53",
       "https://lobste.rs/s/zlsrd2/what_is_build_system_anyway"
     ],
@@ -207,16 +217,6 @@
     [
       "YOCaml a framework used to describe static site generator",
       "https://yocaml.github.io/tutorial/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:44:31",
-      "https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for"
-    ],
-    [
-      "I couldn't find a logging library that worked for my library, so I made one",
-      "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
     ]
   ],
   [
