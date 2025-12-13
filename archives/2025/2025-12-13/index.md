@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 10:23:56](https://lobste.rs/s/jgiub1/typeframe_px_88_portable_computing) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
+* [2025-12-13, 10:12:03](https://lobste.rs/s/w4kuap/rich_headers_leveraging_this_mysterious) - [Rich Headers: leveraging this mysterious artifact of the PE format](https://www.virusbulletin.com/virusbulletin/2020/01/vb2019-paper-rich-headers-leveraging-mysterious-artifact-pe-format/)
 * [2025-12-13, 10:01:45](https://lobste.rs/s/kchcqe/can_i_use_https_rrs) - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
 * [2025-12-13, 08:06:41](https://lobste.rs/s/jkwpjw/what_s_point_lightweight_code_with_modern) - [What's the point of lightweight code with modern computers?](https://liam-on-linux.dreamwidth.org/97426.html)
 * [2025-12-13, 07:35:47](https://lobste.rs/s/sikol2/20_years_digital_life_gone_instant_thanks) - [20 Years of Digital Life, Gone in an Instant, thanks to Apple](https://hey.paris/posts/appleid/)
