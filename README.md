@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-13, 13:29:17](https://lobste.rs/s/pjggcx/state_kernel_rust_experiment) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
+* [2025-12-13, 13:21:50](https://lobste.rs/s/mrdocw/trying_manual_memory_management_go) - [Trying manual memory management in Go](https://www.youtube.com/watch?v=SHmJTgjldgg)
 * [2025-12-13, 12:55:25](https://lobste.rs/s/vx1gr7/please_stop_using_middleware_protect) - [Please stop using middleware to protect your routes (2024)](https://pilcrowonpaper.com/blog/middleware-auth/)
-* [2025-12-13, 12:25:31](https://lobste.rs/s/agc8ik/concrete_syntax_matters_actually) - [Concrete syntax matters, actually](https://www.youtube.com/watch?v=kQjrcSMYpaA)
 * [2025-12-13, 10:23:56](https://lobste.rs/s/jgiub1/typeframe_px_88_portable_computing) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 * [2025-12-13, 10:01:45](https://lobste.rs/s/kchcqe/can_i_use_https_rrs) - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
 * [2025-12-13, 08:06:41](https://lobste.rs/s/jkwpjw/what_s_point_lightweight_code_with_modern) - [What's the point of lightweight code with modern computers?](https://liam-on-linux.dreamwidth.org/97426.html)
-* [2025-12-13, 07:22:53](https://lobste.rs/s/ds24fd/oss_friday_update_fibers_are_future_ruby) - [OSS Friday Update - Fibers are the Future of Ruby](https://noteflakes.com/articles/2025-12-12-friday-update)
 * [2025-12-13, 07:19:31](https://lobste.rs/s/klxjty/mostly_complete_unicode_spiral_2022) - [The (Mostly) Complete Unicode Spiral (2022)](https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/)
 * [2025-12-13, 06:55:58](https://lobste.rs/s/npbaul/crypto_fido_security_tokens) - [Crypto, FIDO and Security Tokens](https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?gid=0#gid=0)
 * [2025-12-13, 04:10:48](https://lobste.rs/s/dndrsh/indices_point_between_elements_2015) - [Indices point between elements (2015)](https://blog.nelhage.com/2015/08/indices-point-between-elements/)
