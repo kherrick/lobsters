@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-13, 07:35:47](https://lobste.rs/s/sikol2/20_years_digital_life_gone_instant_thanks) - [20 Years of Digital Life, Gone in an Instant, thanks to Apple](https://hey.paris/posts/appleid/)
 * [2025-12-13, 07:22:53](https://lobste.rs/s/ds24fd/oss_friday_update_fibers_are_future_ruby) - [OSS Friday Update - Fibers are the Future of Ruby](https://noteflakes.com/articles/2025-12-12-friday-update)
 * [2025-12-13, 07:19:31](https://lobste.rs/s/klxjty/mostly_complete_unicode_spiral_2022) - [The (Mostly) Complete Unicode Spiral (2022)](https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/)
 * [2025-12-13, 06:55:58](https://lobste.rs/s/npbaul/crypto_fido_security_tokens) - [Crypto, FIDO and Security Tokens](https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?gid=0#gid=0)
@@ -18,7 +19,6 @@
 * [2025-12-12, 15:44:31](https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 * [2025-12-12, 10:46:40](https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster) - [Building smaller Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
-* [2025-12-12, 09:53:15](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/192yxw/what_are_you_doing_this_weekend)
 * [2025-12-12, 06:15:48](https://lobste.rs/s/cxhdjd/freeing_xiaomi_humidifier_from_cloud) - [Freeing a Xiaomi Humidifier from the Cloud](https://0l.de/blog/2025/11/xiaomi-humidifier/)
 * [2025-12-12, 05:56:21](https://lobste.rs/s/g1o2t8/guarding_my_git_forge_against_ai_scrapers) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
 * [2025-12-12, 03:35:25](https://lobste.rs/s/lzmklx/being_sysadmin_is_hard) - [Being a SysAdmin is hard](https://about.tree.ht/blog/treehut-outages-december-2025)
