@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-12-13, 14:55:24",
+      "https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts"
+    ],
+    [
+      "Skills vs Dynamic MCP Loadouts",
+      "https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 14:55:09",
       "https://lobste.rs/s/lsjmah/rats_play_doom"
     ],
@@ -197,16 +207,6 @@
     [
       "YOCaml a framework used to describe static site generator",
       "https://yocaml.github.io/tutorial/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 15:44:31",
-      "https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for"
-    ],
-    [
-      "I couldn't find a logging library that worked for my library, so I made one",
-      "https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"
     ]
   ],
   [
