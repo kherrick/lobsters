@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-13, 20:00:03](https://lobste.rs/s/j90ulf/faster_double_string_conversion) - [Faster double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-13, 19:40:53](https://lobste.rs/s/zlsrd2/what_is_build_system_anyway) - [what is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
 * [2025-12-13, 17:28:35](https://lobste.rs/s/g535vs/using_nvi_as_minimal_fast_text_editor) - [Using nvi as a Minimal and Fast Text Editor](https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt)
 * [2025-12-13, 17:19:16](https://lobste.rs/s/zfnnvr/editors_should_have_opt_for_less) - [Editors should have an opt-in for less assistance (2024)](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
@@ -21,7 +22,6 @@
 * [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-12, 18:21:22](https://lobste.rs/s/23lzm2/50_years_proof_assistants) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)
-* [2025-12-12, 15:44:31](https://lobste.rs/s/ouph7k/i_couldn_t_find_logging_library_worked_for) - [I couldn't find a logging library that worked for my library, so I made one](https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study)
 * [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 * [2025-12-12, 10:46:40](https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster) - [Building smaller Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 * [2025-12-12, 05:56:21](https://lobste.rs/s/g1o2t8/guarding_my_git_forge_against_ai_scrapers) - [Guarding My Git Forge Against AI Scrapers](https://vulpinecitrus.info/blog/guarding-git-forge-ai-scrapers/)
