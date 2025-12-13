@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-13, 20:55:32",
-      "https://lobste.rs/s/xyr6as/myna_v2_0_contextual_variants_more"
-    ],
-    [
-      "Myna v2.0: contextual variants, more weights (and even supports APL)",
-      "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
       "2025-12-13, 20:00:03",
       "https://lobste.rs/s/j90ulf/faster_double_string_conversion"
     ],
@@ -77,6 +67,16 @@
     [
       "Indexed Reverse Polish Notation, an Alternative to AST",
       "https://burakemir.ch/post/indexed-rpn/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 14:55:24",
+      "https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts"
+    ],
+    [
+      "Skills vs Dynamic MCP Loadouts",
+      "https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/"
     ]
   ],
   [
