@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-13](index.md)
 
+* [2025-12-13, 22:02:23](https://lobste.rs/s/ux5a4b/from_profiling_kernel_patch_journey_ebpf) - [From profiling to kernel patch: the journey to an eBPF performance fix](https://www.rovarma.com/articles/from-profiling-to-kernel-patch-the-journey-to-an-ebpf-performance-fix/)
 * [2025-12-13, 20:55:32](https://lobste.rs/s/xyr6as/myna_v2_0_contextual_variants_more) - [Myna v2.0: contextual variants, more weights (and even supports APL)](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0)
 * [2025-12-13, 20:00:03](https://lobste.rs/s/j90ulf/faster_double_string_conversion) - [Faster double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-13, 19:53:23](https://lobste.rs/s/ijztws/go_is_portable_until_it_isn_t) - [Go is portable, until it isn't](https://simpleobservability.com/blog/go-portable-until-isnt)
