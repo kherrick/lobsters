@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-13, 07:22:53",
+      "https://lobste.rs/s/ds24fd/oss_friday_update_fibers_are_future_ruby"
+    ],
+    [
+      "OSS Friday Update - Fibers are the Future of Ruby",
+      "https://noteflakes.com/articles/2025-12-12-friday-update"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 07:19:31",
+      "https://lobste.rs/s/klxjty/mostly_complete_unicode_spiral_2022"
+    ],
+    [
+      "The (Mostly) Complete Unicode Spiral (2022)",
+      "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 06:55:58",
       "https://lobste.rs/s/npbaul/crypto_fido_security_tokens"
     ],
@@ -17,6 +37,16 @@
     [
       "Indices point between elements (2015)",
       "https://blog.nelhage.com/2015/08/indices-point-between-elements/"
+    ]
+  ],
+  [
+    [
+      "2025-12-13, 03:35:37",
+      "https://lobste.rs/s/oeskiu/color_spaces_gamuts_transformations"
+    ],
+    [
+      "Color Spaces, Gamuts, and Transformations",
+      "https://ari-atori.dev/articles/color-spaces-gamuts-and-transformations.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-12-12, 18:00:47",
-      "https://lobste.rs/s/50rzsf/cm0_new_raspberry_pi_you_can_t_buy"
-    ],
-    [
-      "CM0 - a new Raspberry Pi you can't buy",
-      "https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy"
-    ]
-  ],
-  [
-    [
       "2025-12-12, 17:18:19",
       "https://lobste.rs/s/s9uxqa/django_what_s_new_6_0"
     ],
@@ -127,16 +147,6 @@
     [
       "async dns",
       "https://flak.tedunangst.com/post/async-dns"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 16:00:36",
-      "https://lobste.rs/s/fafy2d/code_centric_journey_into_gleam_language"
-    ],
-    [
-      "A Code Centric Journey Into the Gleam Language",
-      "https://www.youtube.com/watch?v=LMrKEaAi4RI"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Installing Every NixOS Package",
       "https://unnamed.website/posts/installing-every-nixos-package/"
-    ]
-  ],
-  [
-    [
-      "2025-12-11, 12:48:49",
-      "https://lobste.rs/s/x49jb2/let_s_embed_go_program_into_linux_kernel"
-    ],
-    [
-      "Let's Embed a Go Program into the Linux Kernel",
-      "https://sigma-star.at/blog/2023/07/embedded-go-prog/"
     ]
   ]
 ]
