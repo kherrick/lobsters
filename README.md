@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-13, 17:28:35](https://lobste.rs/s/g535vs/using_nvi_as_minimal_fast_text_editor) - [Using nvi as a Minimal and Fast Text Editor](https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt)
 * [2025-12-13, 17:19:16](https://lobste.rs/s/zfnnvr/editors_should_have_opt_for_less) - [Editors should have an opt-in for less assistance (2024)](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
 * [2025-12-13, 17:01:32](https://lobste.rs/s/aoqsqp/i_tried_gleam_for_advent_code_i_get_hype) - [I Tried Gleam for Advent of Code, and I Get the Hype](https://blog.tymscar.com/posts/gleamaoc2025/)
 * [2025-12-13, 16:08:29](https://lobste.rs/s/49dt7g/indexed_reverse_polish_notation) - [Indexed Reverse Polish Notation, an Alternative to AST](https://burakemir.ch/post/indexed-rpn/)
-* [2025-12-13, 14:55:24](https://lobste.rs/s/yxjqu5/skills_vs_dynamic_mcp_loadouts) - [Skills vs Dynamic MCP Loadouts](https://lucumr.pocoo.org/2025/12/13/skills-vs-mcp/)
 * [2025-12-13, 14:55:09](https://lobste.rs/s/lsjmah/rats_play_doom) - [Rats Play Doom](https://ratsplaydoom.com/)
 * [2025-12-13, 13:29:17](https://lobste.rs/s/pjggcx/state_kernel_rust_experiment) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
 * [2025-12-13, 13:21:50](https://lobste.rs/s/mrdocw/trying_manual_memory_management_go) - [Trying manual memory management in Go](https://www.youtube.com/watch?v=SHmJTgjldgg)
