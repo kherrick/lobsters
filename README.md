@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-13, 03:15:36](https://lobste.rs/s/52nkjo/cycle_accurate_ym2149_psg_emulator) - [Cycle-accurate YM2149 PSG emulator](https://github.com/slippyex/ym2149-rs)
+* [2025-12-13, 03:35:37](https://lobste.rs/s/oeskiu/color_spaces_gamuts_transformations) - [Color Spaces, Gamuts, and Transformations](https://ari-atori.dev/articles/color-spaces-gamuts-and-transformations.html)
 * [2025-12-13, 03:00:36](https://lobste.rs/s/vpdzua/coming_need_for_formal_specification) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 * [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-12, 20:41:16](https://lobste.rs/s/fkbmwj/pure_vs_impure_iterators_go) - [Pure vs. impure iterators in Go](https://jub0bs.com/posts/2025-05-29-pure-vs-impure-iterators-in-go/)
