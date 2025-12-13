@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-13, 10:01:45](https://lobste.rs/s/kchcqe/can_i_use_https_rrs) - [Can I use HTTPS RRs?](https://www.netmeister.org/blog/https-caniuse.html)
 * [2025-12-13, 08:06:41](https://lobste.rs/s/jkwpjw/what_s_point_lightweight_code_with_modern) - [What's the point of lightweight code with modern computers?](https://liam-on-linux.dreamwidth.org/97426.html)
 * [2025-12-13, 07:35:47](https://lobste.rs/s/sikol2/20_years_digital_life_gone_instant_thanks) - [20 Years of Digital Life, Gone in an Instant, thanks to Apple](https://hey.paris/posts/appleid/)
 * [2025-12-13, 07:22:53](https://lobste.rs/s/ds24fd/oss_friday_update_fibers_are_future_ruby) - [OSS Friday Update - Fibers are the Future of Ruby](https://noteflakes.com/articles/2025-12-12-friday-update)
@@ -24,7 +25,6 @@
 * [2025-12-12, 03:35:25](https://lobste.rs/s/lzmklx/being_sysadmin_is_hard) - [Being a SysAdmin is hard](https://about.tree.ht/blog/treehut-outages-december-2025)
 * [2025-12-11, 22:23:20](https://lobste.rs/s/lchmal/oils_0_37_0_alpine_linux_ysh_mycpp) - [Oils 0.37.0 - Alpine Linux, YSH, and mycpp](https://oils.pub/blog/2025/12/release-0.37.0.html)
 * [2025-12-11, 20:48:49](https://lobste.rs/s/v5umfb/bidicalc_bidirectional_calculator) - [bidicalc: a bidirectional calculator](https://victorpoughon.github.io/bidicalc/)
-* [2025-12-11, 19:48:06](https://lobste.rs/s/u7yz80/installing_every_nixos_package) - [Installing Every NixOS Package](https://unnamed.website/posts/installing-every-nixos-package/)
 
 ## [Archives](archives/index.md)
 
