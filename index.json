@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 19:01:18",
+      "https://lobste.rs/s/duyqgm/postfix_macros_let_place"
+    ],
+    [
+      "Postfix Macros and let place",
+      "https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 17:24:35",
       "https://lobste.rs/s/xys2jw/baseline_operation_based_evolution"
     ],
@@ -237,16 +247,6 @@
     [
       "The state of the kernel Rust experiment",
       "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 10:23:56",
-      "https://lobste.rs/s/jgiub1/typeframe_px_88_portable_computing"
-    ],
-    [
-      "The Typeframe PX-88 Portable Computing System",
-      "https://www.typeframe.net/"
     ]
   ]
 ]
