@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 14:07:25](https://lobste.rs/s/ues4u6/acme_device_attestation_extension) - [ACME Device Attestation Extension](https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/)
 * [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
 * [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_beta_supports_bold_italic) - [Myna v2.0 Beta: supports bold, italic, contextual alternates, and even APL programming now](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
 * [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_supports_bold_italic) - [Myna v2.0.0 Beta: supports bold, italic, contextual alternates, and even APL programming now](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
