@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 19:56:27",
+      "https://lobste.rs/s/g2itfk/ai_uri_scheme_internet_draft"
+    ],
+    [
+      "AI URI Scheme Internet-Draft",
+      "https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 19:01:18",
       "https://lobste.rs/s/duyqgm/postfix_macros_let_place"
     ],
@@ -237,16 +247,6 @@
     [
       "Rats Play Doom",
       "https://ratsplaydoom.com/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 13:29:17",
-      "https://lobste.rs/s/pjggcx/state_kernel_rust_experiment"
-    ],
-    [
-      "The state of the kernel Rust experiment",
-      "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
     ]
   ]
 ]
