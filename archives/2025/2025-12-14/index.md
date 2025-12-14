@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 02:32:05](https://lobste.rs/s/6awweq/larval_stage_support_engineering_great) - [Larval stage support engineering: great at what doesn’t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
 * [2025-12-14, 00:48:51](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security) - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/)
 * [2025-12-14, 00:34:07](https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced) - [icl: Interactive Common Lisp: an enhanced REPL](https://github.com/atgreen/icl)
