@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 17:24:35](https://lobste.rs/s/xys2jw/baseline_operation_based_evolution) - [Baseline: Operation-Based Evolution and Versioning of Data](https://www.arxiv.org/pdf/2512.09762)
 * [2025-12-14, 16:57:28](https://lobste.rs/s/uecb0e/hyper_util_composable_pools) - [hyper-util Composable Pools](https://seanmonstar.com/blog/hyper-util-composable-pools/)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
