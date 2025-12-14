@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-14, 00:48:51](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security) - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/)
+* [2025-12-14, 00:34:07](https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced) - [icl: Interactive Common Lisp: an enhanced REPL](https://github.com/atgreen/icl)
+* [2025-12-13, 22:02:23](https://lobste.rs/s/ux5a4b/from_profiling_kernel_patch_journey_ebpf) - [From profiling to kernel patch: the journey to an eBPF performance fix](https://www.rovarma.com/articles/from-profiling-to-kernel-patch-the-journey-to-an-ebpf-performance-fix/)
 * [2025-12-13, 20:00:03](https://lobste.rs/s/j90ulf/faster_double_string_conversion) - [Faster double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 * [2025-12-13, 19:53:23](https://lobste.rs/s/ijztws/go_is_portable_until_it_isn_t) - [Go is portable, until it isn't](https://simpleobservability.com/blog/go-portable-until-isnt)
 * [2025-12-13, 19:40:53](https://lobste.rs/s/zlsrd2/what_is_build_system_anyway) - [what is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
@@ -19,11 +22,8 @@
 * [2025-12-13, 07:19:31](https://lobste.rs/s/klxjty/mostly_complete_unicode_spiral_2022) - [The (Mostly) Complete Unicode Spiral (2022)](https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/)
 * [2025-12-13, 06:55:58](https://lobste.rs/s/npbaul/crypto_fido_security_tokens) - [Crypto, FIDO and Security Tokens](https://docs.google.com/spreadsheets/d/1XlwmreiBkt82F4HG965Yp9ncULkgnFpNyfe7WAAtYPk/edit?gid=0#gid=0)
 * [2025-12-13, 04:10:48](https://lobste.rs/s/dndrsh/indices_point_between_elements_2015) - [Indices point between elements (2015)](https://blog.nelhage.com/2015/08/indices-point-between-elements/)
-* [2025-12-13, 03:00:36](https://lobste.rs/s/vpdzua/coming_need_for_formal_specification) - [The Coming Need for Formal Specification](https://benjamincongdon.me/blog/2025/12/12/The-Coming-Need-for-Formal-Specification/)
 * [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
-* [2025-12-12, 18:21:22](https://lobste.rs/s/23lzm2/50_years_proof_assistants) - [50 years of proof assistants](https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)
-* [2025-12-12, 13:37:05](https://lobste.rs/s/ytelgx/rethinking_sudo_with_object) - [Rethinking sudo with object capabilities](https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html)
 * [2025-12-12, 10:46:40](https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster) - [Building smaller Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 
 ## [Archives](archives/index.md)
