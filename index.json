@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 14:19:53",
+      "https://lobste.rs/s/qapljp/improved_my_feedreader_s_writing_web"
+    ],
+    [
+      "Improved My Feedreader’s Writing to the Web",
+      "https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 14:07:25",
       "https://lobste.rs/s/ues4u6/acme_device_attestation_extension"
     ],
@@ -25,7 +35,7 @@
       "https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_supports_bold_italic"
     ],
     [
-      "Myna v2.0.0 Beta: supports bold, italic, contextual alternates, and even APL programming now",
+      "Myna v2.0.0 Beta: supports bold/italic, contextual alternates, and even APL programming now",
       "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "What's the point of lightweight code with modern computers?",
       "https://liam-on-linux.dreamwidth.org/97426.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 07:19:31",
-      "https://lobste.rs/s/klxjty/mostly_complete_unicode_spiral_2022"
-    ],
-    [
-      "The (Mostly) Complete Unicode Spiral (2022)",
-      "https://shkspr.mobi/blog/2022/07/the-mostly-complete-unicode-spiral/"
     ]
   ]
 ]
