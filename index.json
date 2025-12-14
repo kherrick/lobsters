@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 07:23:52",
+      "https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli"
+    ],
+    [
+      "Stop writing if statements for your CLI flags",
+      "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 04:37:15",
       "https://lobste.rs/s/o3daas/build_systems_la_carte"
     ],
@@ -237,16 +247,6 @@
     [
       "YOCaml a framework used to describe static site generator",
       "https://yocaml.github.io/tutorial/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-12, 10:46:40",
-      "https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster"
-    ],
-    [
-      "Building smaller Docker images faster",
-      "https://sgt.hootr.club/blog/docker-protips/"
     ]
   ]
 ]
