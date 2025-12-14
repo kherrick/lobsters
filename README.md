@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-14, 04:37:15](https://lobste.rs/s/o3daas/build_systems_la_carte) - [Build Systems A La Carte](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
 * [2025-12-14, 02:32:05](https://lobste.rs/s/6awweq/larval_stage_support_engineering_great) - [Larval stage support engineering: great at what doesn’t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
 * [2025-12-14, 00:48:51](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security) - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/)
 * [2025-12-14, 00:34:07](https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced) - [icl: Interactive Common Lisp: an enhanced REPL](https://github.com/atgreen/icl)
@@ -13,7 +14,6 @@
 * [2025-12-13, 16:08:29](https://lobste.rs/s/49dt7g/indexed_reverse_polish_notation) - [Indexed Reverse Polish Notation, an Alternative to AST](https://burakemir.ch/post/indexed-rpn/)
 * [2025-12-13, 14:55:09](https://lobste.rs/s/lsjmah/rats_play_doom) - [Rats Play Doom](https://ratsplaydoom.com/)
 * [2025-12-13, 13:29:17](https://lobste.rs/s/pjggcx/state_kernel_rust_experiment) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
-* [2025-12-13, 13:21:50](https://lobste.rs/s/mrdocw/trying_manual_memory_management_go) - [Trying manual memory management in Go](https://www.youtube.com/watch?v=SHmJTgjldgg)
 * [2025-12-13, 12:55:25](https://lobste.rs/s/vx1gr7/please_stop_using_middleware_protect) - [Please stop using middleware to protect your routes (2024)](https://pilcrowonpaper.com/blog/middleware-auth/)
 * [2025-12-13, 12:25:31](https://lobste.rs/s/agc8ik/concrete_syntax_matters_actually) - [Concrete syntax matters, actually](https://www.youtube.com/watch?v=kQjrcSMYpaA)
 * [2025-12-13, 10:23:56](https://lobste.rs/s/jgiub1/typeframe_px_88_portable_computing) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
