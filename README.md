@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 * [2025-12-14, 21:54:23](https://lobste.rs/s/ypqhq5/traceroute_tool_from_scratch_go) - [Traceroute Tool from Scratch in Go](https://kmcd.dev/posts/traceroute/)
 * [2025-12-14, 19:58:49](https://lobste.rs/s/p9sqk4/spectre_meltdown_family_tree_2019) - [Spectre/Meltdown Family Tree (2019)](https://transient.fail/)
 * [2025-12-14, 19:01:18](https://lobste.rs/s/duyqgm/postfix_macros_let_place) - [Postfix Macros and let place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
 * [2025-12-14, 17:24:35](https://lobste.rs/s/xys2jw/baseline_operation_based_evolution) - [Baseline: Operation-Based Evolution and Versioning of Data](https://www.arxiv.org/pdf/2512.09762)
-* [2025-12-14, 16:57:28](https://lobste.rs/s/uecb0e/hyper_util_composable_pools) - [hyper-util Composable Pools](https://seanmonstar.com/blog/hyper-util-composable-pools/)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
 * [2025-12-14, 16:35:12](https://lobste.rs/s/4ixwyf/shai_hulud_complete_post_mortem) - [Shai-Hulud: A complete post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 * [2025-12-14, 21:54:23](https://lobste.rs/s/ypqhq5/traceroute_tool_from_scratch_go) - [Traceroute Tool from Scratch in Go](https://kmcd.dev/posts/traceroute/)
 * [2025-12-14, 19:58:49](https://lobste.rs/s/p9sqk4/spectre_meltdown_family_tree_2019) - [Spectre/Meltdown Family Tree (2019)](https://transient.fail/)
 * [2025-12-14, 19:56:27](https://lobste.rs/s/g2itfk/ai_uri_scheme_internet_draft) - [AI URI Scheme Internet-Draft](https://www.ietf.org/archive/id/draft-sogomonian-ai-uri-scheme-01.html)
