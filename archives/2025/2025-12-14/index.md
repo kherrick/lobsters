@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-14](index.md)
 
+* [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
+* [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
+* [2025-12-14, 16:35:12](https://lobste.rs/s/4ixwyf/shai_hulud_complete_post_mortem) - [Shai-Hulud: A complete post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 15:18:08](https://lobste.rs/s/vp1zbg/tier_list_linux_security_mechanisms_2024) - [Tier list of Linux security mechanisms (2024)](https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/)
 * [2025-12-14, 14:19:53](https://lobste.rs/s/qapljp/improved_my_feedreader_s_writing_web) - [Improved My Feedreader’s Writing to the Web](https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/)
 * [2025-12-14, 14:07:25](https://lobste.rs/s/ues4u6/acme_device_attestation_extension) - [ACME Device Attestation Extension](https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/)
@@ -14,6 +17,7 @@
 * [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_myna_now_supports_bold) - [Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
 * [2025-12-14, 12:43:26](https://lobste.rs/s/hhddvz/goodbye_microservices_from_100s_problem) - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 * [2025-12-14, 11:28:43](https://lobste.rs/s/u5oqny/meta_replaces_selinux_with_ebpf) - [Meta replaces SELinux with eBPF](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
+* [2025-12-14, 11:28:43](https://lobste.rs/s/u5oqny/bpfjailer_ebpf_mandatory_access_control) - [BpfJailer: eBPF Mandatory Access Control](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
 * [2025-12-14, 08:40:41](https://lobste.rs/s/keyz9l/clickhaskell_1_0_0_is_out) - [ClickHaskell 1.0.0 is out](https://github.com/KovalevDima/ClickHaskell)
 * [2025-12-14, 07:23:52](https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli) - [Stop writing if statements for your CLI flags](https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags)
 * [2025-12-14, 04:37:15](https://lobste.rs/s/o3daas/build_systems_la_carte) - [Build Systems A La Carte](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
