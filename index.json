@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-14, 16:57:28",
+      "https://lobste.rs/s/uecb0e/hyper_util_composable_pools"
+    ],
+    [
+      "hyper-util Composable Pools",
+      "https://seanmonstar.com/blog/hyper-util-composable-pools/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 16:43:57",
       "https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents"
     ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2025-12-13, 20:00:03",
+      "https://lobste.rs/s/j90ulf/faster_double_string_conversion"
+    ],
+    [
+      "Faster double-to-string conversion",
+      "https://vitaut.net/posts/2025/faster-dtoa/"
+    ]
+  ],
+  [
+    [
       "2025-12-13, 19:53:23",
       "https://lobste.rs/s/ijztws/go_is_portable_until_it_isn_t"
     ],
@@ -167,16 +187,6 @@
     [
       "what is a build system, anyway?",
       "https://jyn.dev/what-is-a-build-system-anyway/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 17:28:35",
-      "https://lobste.rs/s/g535vs/using_nvi_as_minimal_fast_text_editor"
-    ],
-    [
-      "Using nvi as a Minimal and Fast Text Editor",
-      "https://git.sr.ht/~r1w1s1/code-notes/blob/main/notes/NVI_Editor_Guide.txt"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The state of the kernel Rust experiment",
       "https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 12:25:31",
-      "https://lobste.rs/s/agc8ik/concrete_syntax_matters_actually"
-    ],
-    [
-      "Concrete syntax matters, actually",
-      "https://www.youtube.com/watch?v=kQjrcSMYpaA"
     ]
   ],
   [
