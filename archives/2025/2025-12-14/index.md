@@ -9,6 +9,7 @@
 * [2025-12-14, 14:07:25](https://lobste.rs/s/ues4u6/acme_device_attestation_extension) - [ACME Device Attestation Extension](https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/)
 * [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
 * [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_beta_supports_bold_italic) - [Myna v2.0 Beta: supports bold, italic, contextual alternates, and even APL programming now](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
+* [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_supports_new_variants) - [Myna v2.0.0 Beta: supports new variants and basic APL programming](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
 * [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_supports_bold_italic) - [Myna v2.0.0 Beta: supports bold, italic, contextual alternates, and even APL programming now](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
 * [2025-12-14, 12:43:26](https://lobste.rs/s/hhddvz/goodbye_microservices_from_100s_problem) - [Goodbye Microservices: From 100s of problem children to 1 superstar](https://www.twilio.com/en-us/blog/developers/best-practices/goodbye-microservices)
 * [2025-12-14, 11:28:43](https://lobste.rs/s/u5oqny/meta_replaces_selinux_with_ebpf) - [Meta replaces SELinux with eBPF](https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf)
