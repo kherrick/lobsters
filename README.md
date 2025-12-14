@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-14, 07:23:52](https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli) - [Stop writing if statements for your CLI flags](https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags)
 * [2025-12-14, 04:37:15](https://lobste.rs/s/o3daas/build_systems_la_carte) - [Build Systems A La Carte](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
 * [2025-12-14, 02:32:05](https://lobste.rs/s/6awweq/larval_stage_support_engineering_great) - [Larval stage support engineering: great at what doesn’t scale](https://thundergolfer.com/startups/support/2025/12/13/support-eng-stage-1/)
 * [2025-12-14, 00:48:51](https://lobste.rs/s/6qdrdj/very_unscientific_guide_security) - [A very unscientific guide to the security of various PQC algorithms](https://keymaterial.net/2025/12/13/a-very-unscientific-guide-to-the-security-of-various-pqc-algorithms/)
@@ -24,7 +25,6 @@
 * [2025-12-13, 04:10:48](https://lobste.rs/s/dndrsh/indices_point_between_elements_2015) - [Indices point between elements (2015)](https://blog.nelhage.com/2015/08/indices-point-between-elements/)
 * [2025-12-13, 02:06:05](https://lobste.rs/s/zhfh4t/vacuum_is_lie_about_your_indexes) - [VACUUM Is a Lie: About Your Indexes](https://boringsql.com/posts/vacuum-is-lie/)
 * [2025-12-12, 18:12:05](https://lobste.rs/s/aeu3bf/yocaml_framework_used_describe_static) - [YOCaml a framework used to describe static site generator](https://yocaml.github.io/tutorial/index.html)
-* [2025-12-12, 10:46:40](https://lobste.rs/s/zi1xf6/building_smaller_docker_images_faster) - [Building smaller Docker images faster](https://sgt.hootr.club/blog/docker-protips/)
 
 ## [Archives](archives/index.md)
 
