@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-14, 21:54:23",
+      "https://lobste.rs/s/ypqhq5/traceroute_tool_from_scratch_go"
+    ],
+    [
+      "Traceroute Tool from Scratch in Go",
+      "https://kmcd.dev/posts/traceroute/"
+    ]
+  ],
+  [
+    [
       "2025-12-14, 19:58:49",
       "https://lobste.rs/s/p9sqk4/spectre_meltdown_family_tree_2019"
     ],
@@ -237,16 +247,6 @@
     [
       "I Tried Gleam for Advent of Code, and I Get the Hype",
       "https://blog.tymscar.com/posts/gleamaoc2025/"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 14:55:09",
-      "https://lobste.rs/s/lsjmah/rats_play_doom"
-    ],
-    [
-      "Rats Play Doom",
-      "https://ratsplaydoom.com/"
     ]
   ]
 ]
