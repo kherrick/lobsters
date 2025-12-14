@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-14, 19:01:18](https://lobste.rs/s/duyqgm/postfix_macros_let_place) - [Postfix Macros and let place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
 * [2025-12-14, 17:24:35](https://lobste.rs/s/xys2jw/baseline_operation_based_evolution) - [Baseline: Operation-Based Evolution and Versioning of Data](https://www.arxiv.org/pdf/2512.09762)
 * [2025-12-14, 16:57:28](https://lobste.rs/s/uecb0e/hyper_util_composable_pools) - [hyper-util Composable Pools](https://seanmonstar.com/blog/hyper-util-composable-pools/)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
@@ -24,7 +25,6 @@
 * [2025-12-13, 16:08:29](https://lobste.rs/s/49dt7g/indexed_reverse_polish_notation) - [Indexed Reverse Polish Notation, an Alternative to AST](https://burakemir.ch/post/indexed-rpn/)
 * [2025-12-13, 14:55:09](https://lobste.rs/s/lsjmah/rats_play_doom) - [Rats Play Doom](https://ratsplaydoom.com/)
 * [2025-12-13, 13:29:17](https://lobste.rs/s/pjggcx/state_kernel_rust_experiment) - [The state of the kernel Rust experiment](https://lwn.net/SubscriberLink/1050174/63aa7da43214c3ce/)
-* [2025-12-13, 10:23:56](https://lobste.rs/s/jgiub1/typeframe_px_88_portable_computing) - [The Typeframe PX-88 Portable Computing System](https://www.typeframe.net/)
 
 ## [Archives](archives/index.md)
 
