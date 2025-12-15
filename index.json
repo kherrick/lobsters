@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-12-15, 08:21:58",
-      "https://lobste.rs/s/sxbxfe/experimental_sokol_vulkan_backend"
-    ],
-    [
-      "The experimental Sokol Vulkan backend",
-      "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 07:43:51",
       "https://lobste.rs/s/pitfbt/system_observability_metrics_sampling"
     ],
@@ -237,6 +227,16 @@
     [
       "Build Systems A La Carte (2018)",
       "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-12-14, 00:34:07",
+      "https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced"
+    ],
+    [
+      "icl: Interactive Common Lisp: an enhanced REPL",
+      "https://github.com/atgreen/icl"
     ]
   ],
   [
