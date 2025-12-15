@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-15, 07:10:01](https://lobste.rs/s/2nbzsq/jubilant_python_subprocess_go_codegen) - [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/)
 * [2025-12-15, 06:05:56](https://lobste.rs/s/syj9ml/toon_token_oriented_object_notation) - [TOON: Token-Oriented Object Notation](https://toonformat.dev/)
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-15, 00:05:23](https://lobste.rs/s/v2p3id/let_s_write_toy_ui_library) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
@@ -23,7 +24,6 @@
 * [2025-12-14, 04:37:15](https://lobste.rs/s/o3daas/build_systems_la_carte_2018) - [Build Systems A La Carte (2018)](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf)
 * [2025-12-14, 00:34:07](https://lobste.rs/s/ibjihl/icl_interactive_common_lisp_enhanced) - [icl: Interactive Common Lisp: an enhanced REPL](https://github.com/atgreen/icl)
 * [2025-12-13, 19:40:53](https://lobste.rs/s/zlsrd2/what_is_build_system_anyway) - [what is a build system, anyway?](https://jyn.dev/what-is-a-build-system-anyway/)
-* [2025-12-13, 17:19:16](https://lobste.rs/s/zfnnvr/editors_should_have_opt_for_less) - [Editors should have an opt-in for less assistance (2024)](https://www.da.vidbuchanan.co.uk/blog/annoying-text-editors.html)
 * [2025-12-13, 17:01:32](https://lobste.rs/s/aoqsqp/i_tried_gleam_for_advent_code_i_get_hype) - [I Tried Gleam for Advent of Code, and I Get the Hype](https://blog.tymscar.com/posts/gleamaoc2025/)
 
 ## [Archives](archives/index.md)

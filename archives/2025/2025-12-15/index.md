@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 07:10:01](https://lobste.rs/s/2nbzsq/jubilant_python_subprocess_go_codegen) - [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/)
 * [2025-12-15, 06:05:56](https://lobste.rs/s/syj9ml/toon_token_oriented_object_notation) - [TOON: Token-Oriented Object Notation](https://toonformat.dev/)
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-15, 00:05:23](https://lobste.rs/s/v2p3id/let_s_write_toy_ui_library) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
