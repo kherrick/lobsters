@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 20:10:08](https://lobste.rs/s/ukxbtv/using_e_ink_tablet_as_monitor_for_linux) - [Using E-Ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-15, 19:42:35](https://lobste.rs/s/e62vku/d_bus_is_disgrace_linux_desktop) - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
 * [2025-12-15, 18:07:34](https://lobste.rs/s/mgt6av/swift_configuration_1_0_released) - [Swift Configuration 1.0 released](https://swift.org/blog/swift-configuration-1.0-released/)
 * [2025-12-15, 17:47:21](https://lobste.rs/s/xy3dpm/ironfleet_proving_practical) - [IronFleet: Proving Practical Distributed Systems Correct](https://www.andrew.cmu.edu/user/bparno/papers/ironfleet.pdf)
