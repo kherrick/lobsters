@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 17:47:21",
+      "https://lobste.rs/s/xy3dpm/ironfleet_proving_practical"
+    ],
+    [
+      "IronFleet: Proving Practical Distributed Systems Correct",
+      "https://www.andrew.cmu.edu/user/bparno/papers/ironfleet.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 15:56:38",
       "https://lobste.rs/s/l2icfd/will_turso_be_better_sqlite"
     ],
@@ -237,16 +247,6 @@
     [
       "A distraction-free writing environment",
       "https://github.com/andrewmd5/dawn"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 07:23:52",
-      "https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli"
-    ],
-    [
-      "Stop writing if statements for your CLI flags",
-      "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags"
     ]
   ]
 ]
