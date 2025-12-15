@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-15, 08:21:58",
+      "https://lobste.rs/s/sxbxfe/experimental_sokol_vulkan_backend"
+    ],
+    [
+      "The experimental Sokol Vulkan backend",
+      "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 07:43:51",
       "https://lobste.rs/s/pitfbt/system_observability_metrics_sampling"
     ],
@@ -167,16 +177,6 @@
     [
       "Tier list of Linux security mechanisms (2024)",
       "https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 14:07:25",
-      "https://lobste.rs/s/ues4u6/acme_device_attestation_extension"
-    ],
-    [
-      "ACME Device Attestation Extension",
-      "https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/"
     ]
   ],
   [
