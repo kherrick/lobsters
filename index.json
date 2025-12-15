@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 14:18:30",
+      "https://lobste.rs/s/mldhwy/stopping_systemd_services_under_memory"
+    ],
+    [
+      "Stopping systemd services under memory pressure",
+      "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 14:13:46",
       "https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop writing if statements for your CLI flags",
       "https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 04:37:15",
-      "https://lobste.rs/s/o3daas/build_systems_la_carte_2018"
-    ],
-    [
-      "Build Systems A La Carte (2018)",
-      "https://www.microsoft.com/en-us/research/wp-content/uploads/2018/03/build-systems.pdf"
     ]
   ],
   [
