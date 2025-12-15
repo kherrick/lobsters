@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 08:21:58",
+      "https://lobste.rs/s/sxbxfe/experimental_sokol_vulkan_backend"
+    ],
+    [
+      "The experimental Sokol Vulkan backend",
+      "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 07:43:51",
       "https://lobste.rs/s/pitfbt/system_observability_metrics_sampling"
     ],
@@ -227,16 +237,6 @@
     [
       "icl: Interactive Common Lisp: an enhanced REPL",
       "https://github.com/atgreen/icl"
-    ]
-  ],
-  [
-    [
-      "2025-12-13, 19:40:53",
-      "https://lobste.rs/s/zlsrd2/what_is_build_system_anyway"
-    ],
-    [
-      "what is a build system, anyway?",
-      "https://jyn.dev/what-is-a-build-system-anyway/"
     ]
   ],
   [
