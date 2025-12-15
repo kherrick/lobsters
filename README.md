@@ -2,6 +2,7 @@
 
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-15, 00:05:23](https://lobste.rs/s/v2p3id/let_s_write_toy_ui_library) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
+* [2025-12-15, 00:02:39](https://lobste.rs/s/ktfrjk/world_is_not_desktop_1994) - [The World Is Not A Desktop (1994)](https://dl.acm.org/doi/pdf/10.1145/174800.174801)
 * [2025-12-14, 22:46:31](https://lobste.rs/s/1qdc9j/my_gift_rustdoc_team) - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team)
 * [2025-12-14, 22:45:54](https://lobste.rs/s/07fdbv/advent_swift) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
@@ -12,7 +13,6 @@
 * [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
 * [2025-12-14, 16:35:12](https://lobste.rs/s/4ixwyf/shai_hulud_complete_post_mortem) - [Shai-Hulud: A complete post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
 * [2025-12-14, 15:18:08](https://lobste.rs/s/vp1zbg/tier_list_linux_security_mechanisms_2024) - [Tier list of Linux security mechanisms (2024)](https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/)
-* [2025-12-14, 14:19:53](https://lobste.rs/s/qapljp/improved_my_feedreader_s_writing_web) - [Improved My Feedreader’s Writing to the Web](https://www.zylstra.org/blog/2025/12/improved-my-feedreaders-writing-to-the-web/)
 * [2025-12-14, 14:07:25](https://lobste.rs/s/ues4u6/acme_device_attestation_extension) - [ACME Device Attestation Extension](https://datatracker.ietf.org/doc/draft-ietf-acme-device-attest/)
 * [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
 * [2025-12-14, 13:28:12](https://lobste.rs/s/qcbiec/myna_v2_0_0_beta_myna_now_supports_bold) - [Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming](https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta)
