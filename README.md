@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-15, 21:40:57](https://lobste.rs/s/ek7jpu/expression_language_for_vixen) - [An expression language for Vixen](https://raku-advent.blog/2025/12/15/day-15-an-expression-language-for-vixen/)
+* [2025-12-15, 20:26:38](https://lobste.rs/s/dhvobg/liskell_haskell_semantics_with_lisp) - [Liskell - Haskell Semantics with Lisp Syntax](http://clemens.endorphin.org/ILC07-Liskell-draft.pdf)
 * [2025-12-15, 20:20:58](https://lobste.rs/s/2q5g02/tla_modeling_tips) - [TLA+ modeling tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
 * [2025-12-15, 20:10:08](https://lobste.rs/s/ukxbtv/using_e_ink_tablet_as_monitor_for_linux) - [Using E-Ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-15, 19:42:35](https://lobste.rs/s/e62vku/d_bus_is_disgrace_linux_desktop) - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
@@ -16,7 +18,6 @@
 * [2025-12-15, 09:44:32](https://lobste.rs/s/qawuhq/30_years_br_tags) - [30 Years of <br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-15, 08:37:14](https://lobste.rs/s/khozwx/rust_s_v0_mangling_scheme_nutshell) - [Rust's v0 mangling scheme in a nutshell](https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/)
 * [2025-12-15, 08:21:58](https://lobste.rs/s/sxbxfe/experimental_sokol_vulkan_backend) - [The experimental Sokol Vulkan backend](https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html)
-* [2025-12-15, 07:43:51](https://lobste.rs/s/pitfbt/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://entropicthoughts.com/system-observability-metrics-sampling-tracing)
 * [2025-12-15, 07:10:01](https://lobste.rs/s/2nbzsq/jubilant_python_subprocess_go_codegen) - [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/)
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-15, 00:05:23](https://lobste.rs/s/v2p3id/let_s_write_toy_ui_library) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
@@ -24,7 +25,6 @@
 * [2025-12-14, 22:45:54](https://lobste.rs/s/07fdbv/advent_swift) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
-* [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
 
 ## [Archives](archives/index.md)
 
