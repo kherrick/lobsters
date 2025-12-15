@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 14:18:30](https://lobste.rs/s/mldhwy/stopping_systemd_services_under_memory) - [Stopping systemd services under memory pressure](https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html)
 * [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 * [2025-12-15, 12:26:01](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week)
 * [2025-12-15, 10:05:21](https://lobste.rs/s/qh6lil/chafa_terminal_graphics_for_21st_century) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
