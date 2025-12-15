@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 09:44:32](https://lobste.rs/s/qawuhq/30_years_br_tags) - [30 Years of <br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-15, 08:37:14](https://lobste.rs/s/khozwx/rust_s_v0_mangling_scheme_nutshell) - [Rust's v0 mangling scheme in a nutshell](https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/)
 * [2025-12-15, 08:21:58](https://lobste.rs/s/sxbxfe/experimental_sokol_vulkan_backend) - [The experimental Sokol Vulkan backend](https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html)
 * [2025-12-15, 07:43:51](https://lobste.rs/s/pitfbt/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://entropicthoughts.com/system-observability-metrics-sampling-tracing)
