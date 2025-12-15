@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-15, 07:43:51](https://lobste.rs/s/pitfbt/system_observability_metrics_sampling) - [System Observability: Metrics, Sampling, and Tracing](https://entropicthoughts.com/system-observability-metrics-sampling-tracing)
 * [2025-12-15, 07:10:01](https://lobste.rs/s/2nbzsq/jubilant_python_subprocess_go_codegen) - [Jubilant: Python subprocess and Go codegen](https://benhoyt.com/writings/jubilant/)
 * [2025-12-15, 06:05:56](https://lobste.rs/s/syj9ml/toon_token_oriented_object_notation) - [TOON: Token-Oriented Object Notation](https://toonformat.dev/)
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
@@ -8,7 +9,6 @@
 * [2025-12-14, 22:46:31](https://lobste.rs/s/1qdc9j/my_gift_rustdoc_team) - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team)
 * [2025-12-14, 22:45:54](https://lobste.rs/s/07fdbv/advent_swift) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
-* [2025-12-14, 21:54:23](https://lobste.rs/s/ypqhq5/traceroute_tool_from_scratch_go) - [Traceroute Tool from Scratch in Go](https://kmcd.dev/posts/traceroute/)
 * [2025-12-14, 19:01:18](https://lobste.rs/s/duyqgm/postfix_macros_let_place) - [Postfix Macros and let place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
