@@ -17,6 +17,7 @@
 * [2025-12-15, 06:05:56](https://lobste.rs/s/syj9ml/toon_token_oriented_object_notation) - [TOON: Token-Oriented Object Notation](https://toonformat.dev/)
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-15, 00:05:23](https://lobste.rs/s/v2p3id/let_s_write_toy_ui_library) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
+* [2025-12-15, 00:02:39](https://lobste.rs/s/ktfrjk/world_is_not_desktop_1994) - [The World Is Not A Desktop (1994)](https://dl.acm.org/doi/pdf/10.1145/174800.174801)
 * [2025-12-14, 22:46:31](https://lobste.rs/s/1qdc9j/my_gift_rustdoc_team) - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team)
 * [2025-12-14, 22:45:54](https://lobste.rs/s/07fdbv/advent_swift) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
@@ -24,7 +25,6 @@
 * [2025-12-14, 15:18:08](https://lobste.rs/s/vp1zbg/tier_list_linux_security_mechanisms_2024) - [Tier list of Linux security mechanisms (2024)](https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/)
 * [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
 * [2025-12-14, 07:23:52](https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli) - [Stop writing if statements for your CLI flags](https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags)
-* [2025-12-13, 17:01:32](https://lobste.rs/s/aoqsqp/i_tried_gleam_for_advent_code_i_get_hype) - [I Tried Gleam for Advent of Code, and I Get the Hype](https://blog.tymscar.com/posts/gleamaoc2025/)
 
 ## [Archives](archives/index.md)
 
