@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-15, 21:40:57",
+      "https://lobste.rs/s/ek7jpu/expression_language_for_vixen"
+    ],
+    [
+      "An expression language for Vixen",
+      "https://raku-advent.blog/2025/12/15/day-15-an-expression-language-for-vixen/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 20:26:38",
+      "https://lobste.rs/s/dhvobg/liskell_haskell_semantics_with_lisp"
+    ],
+    [
+      "Liskell - Haskell Semantics with Lisp Syntax",
+      "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 20:20:58",
       "https://lobste.rs/s/2q5g02/tla_modeling_tips"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-12-15, 07:43:51",
-      "https://lobste.rs/s/pitfbt/system_observability_metrics_sampling"
-    ],
-    [
-      "System Observability: Metrics, Sampling, and Tracing",
-      "https://entropicthoughts.com/system-observability-metrics-sampling-tracing"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 07:10:01",
       "https://lobste.rs/s/2nbzsq/jubilant_python_subprocess_go_codegen"
     ],
@@ -237,16 +247,6 @@
     [
       "How I wrote JustHTML using coding agents",
       "https://friendlybit.com/python/writing-justhtml-with-coding-agents/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 13:40:07",
-      "https://lobste.rs/s/7gyuha/distraction_free_writing_environment"
-    ],
-    [
-      "A distraction-free writing environment",
-      "https://github.com/andrewmd5/dawn"
     ]
   ]
 ]
