@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-15, 17:47:21](https://lobste.rs/s/xy3dpm/ironfleet_proving_practical) - [IronFleet: Proving Practical Distributed Systems Correct](https://www.andrew.cmu.edu/user/bparno/papers/ironfleet.pdf)
 * [2025-12-15, 15:56:38](https://lobste.rs/s/l2icfd/will_turso_be_better_sqlite) - [Will Turso Be The Better SQLite?](https://www.youtube.com/watch?v=1JHOY0zqNBY)
 * [2025-12-15, 15:23:55](https://lobste.rs/s/wlb8jt/virtualizing_nvidia_hgx_b200_gpus_with) - [Virtualizing NVidia HGX B200 GPUs with Open Source](https://www.ubicloud.com/blog/virtualizing-nvidia-hgx-b200-gpus-with-open-source)
 * [2025-12-15, 15:13:40](https://lobste.rs/s/z9h9iq/careless_whisper_side_channel_attack) - [\"Careless Whisper\" side-channel attack affects WhatsApp and Signal](https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/)
@@ -24,7 +25,6 @@
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 15:18:08](https://lobste.rs/s/vp1zbg/tier_list_linux_security_mechanisms_2024) - [Tier list of Linux security mechanisms (2024)](https://blog.ce9e.org/posts/2024-06-23-linux-security-mechanisms/)
 * [2025-12-14, 13:40:07](https://lobste.rs/s/7gyuha/distraction_free_writing_environment) - [A distraction-free writing environment](https://github.com/andrewmd5/dawn)
-* [2025-12-14, 07:23:52](https://lobste.rs/s/hzyyyy/stop_writing_if_statements_for_your_cli) - [Stop writing if statements for your CLI flags](https://hackers.pub/@hongminhee/2025/stop-writing-if-statements-for-your-cli-flags)
 
 ## [Archives](archives/index.md)
 
