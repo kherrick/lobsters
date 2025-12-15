@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-15, 06:05:56](https://lobste.rs/s/syj9ml/toon_token_oriented_object_notation) - [TOON: Token-Oriented Object Notation](https://toonformat.dev/)
 * [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-15, 00:05:23](https://lobste.rs/s/v2p3id/let_s_write_toy_ui_library) - [Let's write a toy UI library](https://nakst.gitlab.io/tutorial/ui-part-1.html)
 * [2025-12-15, 00:02:39](https://lobste.rs/s/ktfrjk/world_is_not_desktop_1994) - [The World Is Not A Desktop (1994)](https://dl.acm.org/doi/pdf/10.1145/174800.174801)
@@ -8,7 +9,6 @@
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 * [2025-12-14, 21:54:23](https://lobste.rs/s/ypqhq5/traceroute_tool_from_scratch_go) - [Traceroute Tool from Scratch in Go](https://kmcd.dev/posts/traceroute/)
 * [2025-12-14, 19:01:18](https://lobste.rs/s/duyqgm/postfix_macros_let_place) - [Postfix Macros and let place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
-* [2025-12-14, 17:24:35](https://lobste.rs/s/xys2jw/baseline_operation_based_evolution) - [Baseline: Operation-Based Evolution and Versioning of Data](https://www.arxiv.org/pdf/2512.09762)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
 * [2025-12-14, 16:35:12](https://lobste.rs/s/4ixwyf/shai_hulud_complete_post_mortem) - [Shai-Hulud: A complete post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)
