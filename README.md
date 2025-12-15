@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 * [2025-12-15, 12:26:01](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week)
 * [2025-12-15, 10:05:21](https://lobste.rs/s/qh6lil/chafa_terminal_graphics_for_21st_century) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 09:44:32](https://lobste.rs/s/qawuhq/30_years_br_tags) - [30 Years of <br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
@@ -14,7 +15,6 @@
 * [2025-12-14, 22:46:31](https://lobste.rs/s/1qdc9j/my_gift_rustdoc_team) - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team)
 * [2025-12-14, 22:45:54](https://lobste.rs/s/07fdbv/advent_swift) - [Advent of Swift](https://leahneukirchen.org/blog/archive/2025/12/advent-of-swift.html)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
-* [2025-12-14, 19:01:18](https://lobste.rs/s/duyqgm/postfix_macros_let_place) - [Postfix Macros and let place](https://nadrieril.github.io/blog/2025/12/09/postfix-macros-and-let-place.html)
 * [2025-12-14, 16:43:57](https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents) - [How I wrote JustHTML using coding agents](https://friendlybit.com/python/writing-justhtml-with-coding-agents/)
 * [2025-12-14, 16:35:53](https://lobste.rs/s/oiib0n/very_basic_implementation_virtual) - [A very basic implementation of a virtual continuum fingerboard](https://continuum.awalgarg.me)
 * [2025-12-14, 16:35:12](https://lobste.rs/s/4ixwyf/shai_hulud_complete_post_mortem) - [Shai-Hulud: A complete post-mortem](https://trigger.dev/blog/shai-hulud-postmortem)

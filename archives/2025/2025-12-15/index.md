@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-15](index.md)
 
+* [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 * [2025-12-15, 12:26:01](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gdtrgm/what_are_you_doing_this_week)
 * [2025-12-15, 10:05:21](https://lobste.rs/s/qh6lil/chafa_terminal_graphics_for_21st_century) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 09:44:32](https://lobste.rs/s/qawuhq/30_years_br_tags) - [30 Years of <br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
