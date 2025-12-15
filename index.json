@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-15, 09:44:32",
+      "https://lobste.rs/s/qawuhq/30_years_br_tags"
+    ],
+    [
+      "30 Years of <br> Tags",
+      "https://www.artmann.co/articles/30-years-of-br-tags"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 08:37:14",
       "https://lobste.rs/s/khozwx/rust_s_v0_mangling_scheme_nutshell"
     ],
@@ -187,16 +197,6 @@
     [
       "Myna v2.0.0 beta: Myna now supports bold/italic variants and even APL programming",
       "https://github.com/sayyadirfanali/Myna/releases/tag/v2.0.0.0-beta"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 11:28:43",
-      "https://lobste.rs/s/u5oqny/bpfjailer_ebpf_mandatory_access_control"
-    ],
-    [
-      "BpfJailer: eBPF Mandatory Access Control",
-      "https://lpc.events/event/19/contributions/2159/attachments/1833/3929/BpfJailer%20LPC%202025.pdf"
     ]
   ],
   [
