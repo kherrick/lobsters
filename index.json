@@ -1,6 +1,56 @@
 [
   [
     [
+      "2025-12-16, 16:36:13",
+      "https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue"
+    ],
+    [
+      "File d'attente - file-based job queue",
+      "https://git.sr.ht/~marcc/filed"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:31:01",
+      "https://lobste.rs/s/csqubi/gh_actions_lockfile_generate_verify"
+    ],
+    [
+      "gh-actions-lockfile: generate and verify lockfiles for GitHub Actions",
+      "https://gh-actions-lockfile.net"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:26:17",
+      "https://lobste.rs/s/bgibyk/future_jetbrains_fleet"
+    ],
+    [
+      "The Future of [JetBrains] Fleet",
+      "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:14:06",
+      "https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature"
+    ],
+    [
+      "Odin's Most Misunderstood Feature: `context` - gingerBill",
+      "https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 16:02:29",
+      "https://lobste.rs/s/tdux88/maybe_consider_putting_cutlass_your_cuda"
+    ],
+    [
+      "Maybe consider putting cutlass in your CUDA/Triton kernels",
+      "https://maknee.github.io/blog/2025/Maybe-Consider-Putting-Cutlass-In-Your-CUDA-Kernels/"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 15:39:37",
       "https://lobste.rs/s/li94ve/biscuit_is_specialized_postgresql_index"
     ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2025-12-15, 20:26:38",
-      "https://lobste.rs/s/dhvobg/liskell_haskell_semantics_with_lisp"
-    ],
-    [
-      "Liskell - Haskell Semantics with Lisp Syntax (2007)",
-      "http://clemens.endorphin.org/ILC07-Liskell-draft.pdf"
-    ]
-  ],
-  [
-    [
       "2025-12-15, 20:20:58",
       "https://lobste.rs/s/2q5g02/tla_modeling_tips"
     ],
@@ -157,36 +197,6 @@
     [
       "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
       "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 20:10:08",
-      "https://lobste.rs/s/ukxbtv/using_e_ink_tablet_as_monitor_for_linux"
-    ],
-    [
-      "Using E-Ink tablet as monitor for Linux",
-      "https://alavi.me/blog/e-ink-tablet-as-monitor-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 19:42:35",
-      "https://lobste.rs/s/e62vku/d_bus_is_disgrace_linux_desktop"
-    ],
-    [
-      "D-Bus is a disgrace to the Linux desktop",
-      "https://blog.vaxry.net/articles/2025-dbusSucks"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 15:56:38",
-      "https://lobste.rs/s/l2icfd/will_turso_be_better_sqlite"
-    ],
-    [
-      "Will Turso Be The Better SQLite?",
-      "https://www.youtube.com/watch?v=1JHOY0zqNBY"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Top Gun's Carrier Landing: Exposed",
       "https://relaxing.run/blag/posts/top-gun-landing"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 10:05:21",
-      "https://lobste.rs/s/qh6lil/chafa_terminal_graphics_for_21st_century"
-    ],
-    [
-      "Chafa: Terminal Graphics for the 21st Century",
-      "https://hpjansson.org/chafa/"
     ]
   ],
   [
