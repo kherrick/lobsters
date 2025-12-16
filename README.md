@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-16, 17:25:04](https://lobste.rs/s/avk8kz/determinate_nix_3_0) - [Determinate Nix 3.0](https://determinate.systems/blog/determinate-nix-30/)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
 * [2025-12-16, 16:31:01](https://lobste.rs/s/csqubi/gh_actions_lockfile_generate_verify) - [gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 16:26:17](https://lobste.rs/s/bgibyk/future_jetbrains_fleet) - [The Future of [JetBrains] Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/)
 * [2025-12-16, 16:14:06](https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature) - [Odin's Most Misunderstood Feature: `context`](https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/)
 * [2025-12-16, 16:02:29](https://lobste.rs/s/tdux88/maybe_consider_putting_cutlass_your_cuda) - [Maybe consider putting cutlass in your CUDA/Triton kernels](https://maknee.github.io/blog/2025/Maybe-Consider-Putting-Cutlass-In-Your-CUDA-Kernels/)
 * [2025-12-16, 15:39:37](https://lobste.rs/s/li94ve/biscuit_is_specialized_postgresql_index) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
+* [2025-12-16, 14:30:47](https://lobste.rs/s/lvp0jr/rust_gcc_backend_why_how) - [Rust GCC backend: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:39:30](https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux) - [Announcing Vojtux - Accessible Linux distro which is almost pure Fedora](https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora)
 * [2025-12-16, 13:17:20](https://lobste.rs/s/vcfaoo/illusion_shared_understanding) - [The Illusion of Shared Understanding](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-16, 12:59:29](https://lobste.rs/s/fpeeq0/meet_exe_dev_modern_vms) - [Meet exe.dev, modern VMs](https://blog.exe.dev/meet-exe.dev)
