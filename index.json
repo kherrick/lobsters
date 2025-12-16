@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-16, 01:16:12",
+      "https://lobste.rs/s/wilmno/i_m_just_having_fun"
+    ],
+    [
+      "i'm just having fun",
+      "https://jyn.dev/i-m-just-having-fun/"
+    ]
+  ],
+  [
+    [
+      "2025-12-15, 23:17:55",
+      "https://lobste.rs/s/ukmf3a/radicle_peer_peer_collaboration_with_git"
+    ],
+    [
+      "Radicle: peer-to-peer collaboration with Git",
+      "https://lwn.net/Articles/966869/"
+    ]
+  ],
+  [
+    [
       "2025-12-15, 21:40:57",
       "https://lobste.rs/s/ek7jpu/expression_language_for_vixen"
     ],
@@ -97,16 +117,6 @@
     [
       "Announcing Key Transparency for the Fediverse",
       "https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 14:47:32",
-      "https://lobste.rs/s/ry9pp0/identity_aware_vpn_proxy_for_remote"
-    ],
-    [
-      "Identity-aware VPN and proxy for remote access",
-      "https://github.com/fosrl/pangolin"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The <time> element should actually do something",
       "https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/"
-    ]
-  ],
-  [
-    [
-      "2025-12-14, 16:43:57",
-      "https://lobste.rs/s/hwo6rn/how_i_wrote_justhtml_using_coding_agents"
-    ],
-    [
-      "How I wrote JustHTML using coding agents",
-      "https://friendlybit.com/python/writing-justhtml-with-coding-agents/"
     ]
   ]
 ]
