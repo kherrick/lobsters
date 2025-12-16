@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-16, 21:11:40",
+      "https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker"
+    ],
+    [
+      "ty: An extremely fast Python type checker and language server",
+      "https://astral.sh/blog/ty"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 20:05:21",
       "https://lobste.rs/s/wopu8o/no_graphics_api"
     ],
@@ -197,16 +207,6 @@
     [
       "Radicle: peer-to-peer collaboration with Git (2024)",
       "https://lwn.net/Articles/966869/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 20:20:58",
-      "https://lobste.rs/s/2q5g02/tla_modeling_tips"
-    ],
-    [
-      "TLA+ modeling tips",
-      "http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html"
     ]
   ],
   [
