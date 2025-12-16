@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue) - [File d'attente - file-based job queue](https://git.sr.ht/~marcc/filed)
 * [2025-12-16, 16:31:01](https://lobste.rs/s/csqubi/gh_actions_lockfile_generate_verify) - [gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 16:26:17](https://lobste.rs/s/bgibyk/future_jetbrains_fleet) - [The Future of [JetBrains] Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/)
