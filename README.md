@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-16, 13:39:30](https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux) - [Announcing Vojtux - Accessible Linux distro which is almost pure Fedora](https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora)
+* [2025-12-16, 13:17:20](https://lobste.rs/s/vcfaoo/illusion_shared_understanding) - [The Illusion of Shared Understanding](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-16, 12:59:29](https://lobste.rs/s/fpeeq0/meet_exe_dev_modern_vms) - [Meet exe.dev, modern VMs](https://blog.exe.dev/meet-exe.dev)
 * [2025-12-16, 11:32:51](https://lobste.rs/s/hgm2rc/tool_safety_beautiful_soup_zine_2017) - [Tool Safety: A Beautiful Soup zine (2017)](https://www.crummy.com/software/BeautifulSoup/zine/)
-* [2025-12-16, 11:20:43](https://lobste.rs/s/ucblim/state_html_2025_results) - [State of HTML 2025 results](https://2025.stateofhtml.com/)
 * [2025-12-16, 10:36:13](https://lobste.rs/s/6uu5ys/optimization_countermeasures) - [Optimization Countermeasures](https://mcyoung.xyz/2025/12/15/value-barriers/)
 * [2025-12-16, 09:00:05](https://lobste.rs/s/jxawjl/november_servo_monthly_releases_context) - [November in Servo: monthly releases, context menus, parallel CSS parsing, and more](https://servo.org/blog/2025/12/15/november-in-servo/)
 * [2025-12-16, 08:36:11](https://lobste.rs/s/hkkb61/global_known_hosts_for_ssh_services) - [global known_hosts for ssh services](https://knownhosts.net/)
@@ -16,7 +17,6 @@
 * [2025-12-15, 20:17:50](https://lobste.rs/s/gtpvpi/super_secure_maga_themed_messaging_app) - [\"Super secure\" MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 20:10:08](https://lobste.rs/s/ukxbtv/using_e_ink_tablet_as_monitor_for_linux) - [Using E-Ink tablet as monitor for Linux](https://alavi.me/blog/e-ink-tablet-as-monitor-linux/)
 * [2025-12-15, 19:42:35](https://lobste.rs/s/e62vku/d_bus_is_disgrace_linux_desktop) - [D-Bus is a disgrace to the Linux desktop](https://blog.vaxry.net/articles/2025-dbusSucks)
-* [2025-12-15, 18:07:34](https://lobste.rs/s/mgt6av/swift_configuration_1_0_released) - [Swift Configuration 1.0 released](https://swift.org/blog/swift-configuration-1.0-released/)
 * [2025-12-15, 15:56:38](https://lobste.rs/s/l2icfd/will_turso_be_better_sqlite) - [Will Turso Be The Better SQLite?](https://www.youtube.com/watch?v=1JHOY0zqNBY)
 * [2025-12-15, 15:13:40](https://lobste.rs/s/z9h9iq/careless_whisper_side_channel_attack) - [\"Careless Whisper\" side-channel attack affects WhatsApp and Signal](https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/)
 * [2025-12-15, 15:07:13](https://lobste.rs/s/z0j9gr/announcing_key_transparency_for) - [Announcing Key Transparency for the Fediverse](https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/)
