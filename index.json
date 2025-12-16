@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-16, 13:39:30",
-      "https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux"
+      "2025-12-16, 12:59:29",
+      "https://lobste.rs/s/fpeeq0/meet_exe_dev_modern_vms"
     ],
     [
-      "Announcing Vojtux - Accessible Linux distro which is almost pure Fedora",
-      "https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora"
+      "Meet exe.dev, modern VMs",
+      "https://blog.exe.dev/meet-exe.dev"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Tool Safety: A Beautiful Soup zine (2017)",
       "https://www.crummy.com/software/BeautifulSoup/zine/"
+    ]
+  ],
+  [
+    [
+      "2025-12-16, 11:20:43",
+      "https://lobste.rs/s/ucblim/state_html_2025_results"
+    ],
+    [
+      "State of HTML 2025 results",
+      "https://2025.stateofhtml.com/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Chafa: Terminal Graphics for the 21st Century",
       "https://hpjansson.org/chafa/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 08:37:14",
-      "https://lobste.rs/s/khozwx/rust_s_v0_mangling_scheme_nutshell"
-    ],
-    [
-      "Rust's v0 mangling scheme in a nutshell",
-      "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/"
     ]
   ],
   [
