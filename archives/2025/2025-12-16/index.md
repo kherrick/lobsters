@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 13:39:30](https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux) - [Announcing Vojtux - Accessible Linux distro which is almost pure Fedora](https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora)
 * [2025-12-16, 11:51:47](https://lobste.rs/s/luylma/normals_revisited_revisiting_known) - [normals_revisited: revisiting a known normal transformation in computer graphics (2019)](https://github.com/graphitemaster/normals_revisited)
 * [2025-12-16, 11:32:51](https://lobste.rs/s/hgm2rc/tool_safety_beautiful_soup_zine_2017) - [Tool Safety: A Beautiful Soup zine (2017)](https://www.crummy.com/software/BeautifulSoup/zine/)
 * [2025-12-16, 11:20:43](https://lobste.rs/s/ucblim/state_html_2025_results) - [State of HTML 2025 results](https://2025.stateofhtml.com/)
