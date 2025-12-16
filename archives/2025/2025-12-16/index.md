@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 21:11:40](https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server](https://astral.sh/blog/ty)
 * [2025-12-16, 20:05:21](https://lobste.rs/s/wopu8o/no_graphics_api) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:10:40](https://lobste.rs/s/d25czz/ip_thc_org_reverse_dns_subdomain_cname) - [IP.THC.ORG - Reverse-DNS, Subdomain and CNAME Lookups](https://ip.thc.org/)
 * [2025-12-16, 17:25:04](https://lobste.rs/s/avk8kz/determinate_nix_3_0) - [Determinate Nix 3.0](https://determinate.systems/blog/determinate-nix-30/)

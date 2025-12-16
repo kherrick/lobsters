@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-16, 21:11:40](https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server](https://astral.sh/blog/ty)
 * [2025-12-16, 20:05:21](https://lobste.rs/s/wopu8o/no_graphics_api) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 18:10:40](https://lobste.rs/s/d25czz/ip_thc_org_reverse_dns_subdomain_cname) - [IP.THC.ORG - Reverse-DNS, Subdomain and CNAME Lookups](https://ip.thc.org/)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
@@ -20,7 +21,6 @@
 * [2025-12-16, 01:42:06](https://lobste.rs/s/p1uk1o/are_you_one_is_free_money) - [\"Are you the one?\" is free money](https://blog.owenlacey.dev/posts/are-you-the-one-is-free-money/)
 * [2025-12-16, 01:16:12](https://lobste.rs/s/wilmno/i_m_just_having_fun) - [i'm just having fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-15, 23:17:55](https://lobste.rs/s/ukmf3a/radicle_peer_peer_collaboration_with_git) - [Radicle: peer-to-peer collaboration with Git (2024)](https://lwn.net/Articles/966869/)
-* [2025-12-15, 20:20:58](https://lobste.rs/s/2q5g02/tla_modeling_tips) - [TLA+ modeling tips](http://muratbuffalo.blogspot.com/2025/12/tla-modeling-tips.html)
 * [2025-12-15, 20:17:50](https://lobste.rs/s/gtpvpi/super_secure_maga_themed_messaging_app) - [\"Super secure\" MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
 * [2025-12-15, 15:13:40](https://lobste.rs/s/z9h9iq/careless_whisper_side_channel_attack) - [\"Careless Whisper\" side-channel attack affects WhatsApp and Signal](https://cybernews.com/security/whatsapp-signal-real-time-tracking-battery-drain-flaw/)
 * [2025-12-15, 15:07:13](https://lobste.rs/s/z0j9gr/announcing_key_transparency_for) - [Announcing Key Transparency for the Fediverse](https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/)
