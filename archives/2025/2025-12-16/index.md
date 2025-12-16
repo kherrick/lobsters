@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 18:10:40](https://lobste.rs/s/d25czz/ip_thc_org_reverse_dns_subdomain_cname) - [IP.THC.ORG - Reverse-DNS, Subdomain and CNAME Lookups](https://ip.thc.org/)
 * [2025-12-16, 17:25:04](https://lobste.rs/s/avk8kz/determinate_nix_3_0) - [Determinate Nix 3.0](https://determinate.systems/blog/determinate-nix-30/)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue) - [File d'attente - file-based job queue](https://git.sr.ht/~marcc/filed)

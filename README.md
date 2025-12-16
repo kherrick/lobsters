@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-16, 18:10:40](https://lobste.rs/s/d25czz/ip_thc_org_reverse_dns_subdomain_cname) - [IP.THC.ORG - Reverse-DNS, Subdomain and CNAME Lookups](https://ip.thc.org/)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
 * [2025-12-16, 16:31:01](https://lobste.rs/s/csqubi/gh_actions_lockfile_generate_verify) - [gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 16:26:17](https://lobste.rs/s/bgibyk/future_jetbrains_fleet) - [The Future of [JetBrains] Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/)
@@ -8,7 +9,6 @@
 * [2025-12-16, 15:39:37](https://lobste.rs/s/li94ve/biscuit_is_specialized_postgresql_index) - [Biscuit is a specialized PostgreSQL index for fast pattern matching LIKE queries](https://github.com/CrystallineCore/Biscuit)
 * [2025-12-16, 14:30:47](https://lobste.rs/s/lvp0jr/rust_gcc_backend_why_how) - [Rust GCC backend: Why and how](https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how)
 * [2025-12-16, 13:39:30](https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux) - [Announcing Vojtux - Accessible Linux distro which is almost pure Fedora](https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora)
-* [2025-12-16, 13:17:20](https://lobste.rs/s/vcfaoo/illusion_shared_understanding) - [The Illusion of Shared Understanding](https://highimpactengineering.substack.com/p/the-illusion-of-shared-understanding)
 * [2025-12-16, 12:59:29](https://lobste.rs/s/fpeeq0/meet_exe_dev_modern_vms) - [Meet exe.dev, modern VMs](https://blog.exe.dev/meet-exe.dev)
 * [2025-12-16, 11:32:51](https://lobste.rs/s/hgm2rc/tool_safety_beautiful_soup_zine_2017) - [Tool Safety: A Beautiful Soup zine (2017)](https://www.crummy.com/software/BeautifulSoup/zine/)
 * [2025-12-16, 10:36:13](https://lobste.rs/s/6uu5ys/optimization_countermeasures) - [Optimization Countermeasures](https://mcyoung.xyz/2025/12/15/value-barriers/)
