@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-16, 20:05:21",
+      "https://lobste.rs/s/wopu8o/no_graphics_api"
+    ],
+    [
+      "No Graphics API",
+      "https://www.sebastianaaltonen.com/blog/no-graphics-api"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 18:10:40",
       "https://lobste.rs/s/d25czz/ip_thc_org_reverse_dns_subdomain_cname"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing Key Transparency for the Fediverse",
       "https://soatok.blog/2025/12/15/announcing-key-transparency-fediverse/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 14:18:30",
-      "https://lobste.rs/s/mldhwy/stopping_systemd_services_under_memory"
-    ],
-    [
-      "Stopping systemd services under memory pressure",
-      "https://blog.cyplo.dev/stopping-systemd-services-under-memory-pressure.html"
     ]
   ],
   [
