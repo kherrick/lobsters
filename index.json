@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-16, 07:44:18",
+      "https://lobste.rs/s/mis0ii/torvalds_on_linux_security_modules"
+    ],
+    [
+      "Torvalds On Linux Security Modules",
+      "https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM"
+    ]
+  ],
+  [
+    [
       "2025-12-16, 05:11:33",
       "https://lobste.rs/s/q3j88a/writing_blatant_telegram_clone_using_qt"
     ],
@@ -197,16 +207,6 @@
     [
       "Rust's v0 mangling scheme in a nutshell",
       "https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 08:21:58",
-      "https://lobste.rs/s/sxbxfe/experimental_sokol_vulkan_backend"
-    ],
-    [
-      "The experimental Sokol Vulkan backend",
-      "https://floooh.github.io/2025/12/01/sokol-vulkan-backend-1.html"
     ]
   ],
   [
