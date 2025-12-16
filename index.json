@@ -2,10 +2,10 @@
   [
     [
       "2025-12-16, 16:36:13",
-      "https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue"
+      "https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool"
     ],
     [
-      "File d'attente - file-based job queue",
+      "File d'attente - file-based job queue tool",
       "https://git.sr.ht/~marcc/filed"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature"
     ],
     [
-      "Odin's Most Misunderstood Feature: `context` - gingerBill",
+      "Odin's Most Misunderstood Feature: `context`",
       "https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/"
     ]
   ],
