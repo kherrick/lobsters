@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-16](index.md)
 
+* [2025-12-16, 10:36:13](https://lobste.rs/s/6uu5ys/optimization_countermeasures) - [Optimization Countermeasures](https://mcyoung.xyz/2025/12/15/value-barriers/)
 * [2025-12-16, 09:00:05](https://lobste.rs/s/jxawjl/november_servo_monthly_releases_context) - [November in Servo: monthly releases, context menus, parallel CSS parsing, and more](https://servo.org/blog/2025/12/15/november-in-servo/)
 * [2025-12-16, 08:36:11](https://lobste.rs/s/hkkb61/global_known_hosts_for_ssh_services) - [global known_hosts for ssh services](https://knownhosts.net/)
 * [2025-12-16, 07:44:18](https://lobste.rs/s/mis0ii/torvalds_on_linux_security_modules) - [Torvalds On Linux Security Modules](https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM)

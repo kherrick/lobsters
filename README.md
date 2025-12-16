@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-16, 10:36:13](https://lobste.rs/s/6uu5ys/optimization_countermeasures) - [Optimization Countermeasures](https://mcyoung.xyz/2025/12/15/value-barriers/)
 * [2025-12-16, 09:00:05](https://lobste.rs/s/jxawjl/november_servo_monthly_releases_context) - [November in Servo: monthly releases, context menus, parallel CSS parsing, and more](https://servo.org/blog/2025/12/15/november-in-servo/)
 * [2025-12-16, 08:36:11](https://lobste.rs/s/hkkb61/global_known_hosts_for_ssh_services) - [global known_hosts for ssh services](https://knownhosts.net/)
 * [2025-12-16, 07:44:18](https://lobste.rs/s/mis0ii/torvalds_on_linux_security_modules) - [Torvalds On Linux Security Modules](https://www.phoronix.com/news/Linus-Torvalds-Too-Many-LSM)
@@ -22,7 +23,6 @@
 * [2025-12-15, 10:05:21](https://lobste.rs/s/qh6lil/chafa_terminal_graphics_for_21st_century) - [Chafa: Terminal Graphics for the 21st Century](https://hpjansson.org/chafa/)
 * [2025-12-15, 09:44:32](https://lobste.rs/s/qawuhq/30_years_br_tags) - [30 Years of <br> Tags](https://www.artmann.co/articles/30-years-of-br-tags)
 * [2025-12-15, 08:37:14](https://lobste.rs/s/khozwx/rust_s_v0_mangling_scheme_nutshell) - [Rust's v0 mangling scheme in a nutshell](https://purplesyringa.moe/blog/rusts-v0-mangling-scheme-in-a-nutshell/)
-* [2025-12-15, 03:38:11](https://lobste.rs/s/vcjisp/l5_processing_library_lua_for) - [L5: A Processing Library in Lua for Interactive Artwork](https://l5lua.org/)
 * [2025-12-14, 22:46:31](https://lobste.rs/s/1qdc9j/my_gift_rustdoc_team) - [My gift to the rustdoc team](https://fasterthanli.me/articles/my-gift-to-the-rust-docs-team)
 * [2025-12-14, 22:02:53](https://lobste.rs/s/hrmr9m/time_element_should_actually_do) - [The <time> element should actually do something](https://nolanlawson.com/2025/12/14/the-time-element-should-actually-do-something/)
 
