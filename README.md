@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-17, 04:38:43](https://lobste.rs/s/jrokrz/minimum_viable_benchmark_for_evaluating) - [Minimum Viable Benchmark (for evaluating LLMs)](http://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/)
 * [2025-12-17, 03:35:27](https://lobste.rs/s/q8w2tf/adventures_land_language_servers) - [Adventures in the land of Language Servers](https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers)
 * [2025-12-17, 01:34:04](https://lobste.rs/s/xckds9/how_i_became_spam_vector) - [How I Became a Spam Vector](https://idiallo.com/blog/how-i-became-a-spammer)
 * [2025-12-17, 01:01:36](https://lobste.rs/s/yhiivo/freebsd_adopting_port_maomao) - [FreeBSD adopting a port: maomao](https://evilham.eu/es/blog/2025-FreeBSD-adopting-a-port-maomaowm/)
@@ -24,7 +25,6 @@
 * [2025-12-16, 01:16:12](https://lobste.rs/s/wilmno/i_m_just_having_fun) - [i'm just having fun](https://jyn.dev/i-m-just-having-fun/)
 * [2025-12-15, 23:17:55](https://lobste.rs/s/ukmf3a/radicle_peer_peer_collaboration_with_git) - [Radicle: peer-to-peer collaboration with Git (2024)](https://lwn.net/Articles/966869/)
 * [2025-12-15, 20:17:50](https://lobste.rs/s/gtpvpi/super_secure_maga_themed_messaging_app) - [\"Super secure\" MAGA-themed messaging app leaks everyone's phone number](https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/)
-* [2025-12-15, 14:13:46](https://lobste.rs/s/qbonja/top_gun_s_carrier_landing_exposed) - [Top Gun's Carrier Landing: Exposed](https://relaxing.run/blag/posts/top-gun-landing)
 
 ## [Archives](archives/index.md)
 
