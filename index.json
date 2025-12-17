@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-17, 17:41:14",
+      "https://lobste.rs/s/wj97lz/selective_applicative_functors"
+    ],
+    [
+      "Selective Applicative Functors",
+      "https://blog.veritates.love/selective_applicatives_theoretical_basis.html"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 17:38:12",
       "https://lobste.rs/s/hhoql4/how_do_graphics_drivers_work"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2025-12-17, 16:09:19",
-      "https://lobste.rs/s/wgnk1u/what_does_database_for_ssds_look_like"
+      "2025-12-17, 16:45:48",
+      "https://lobste.rs/s/yhqbqm/inlining_ultimate_optimisation"
     ],
     [
-      "What Does a Database for SSDs Look Like?",
-      "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html"
+      "Inlining - the ultimate optimisation",
+      "https://xania.org/202512/17-inlining-the-ultimate-optimisation"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Odin's Most Misunderstood Feature: `context`",
       "https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 01:16:12",
-      "https://lobste.rs/s/wilmno/i_m_just_having_fun"
-    ],
-    [
-      "i'm just having fun",
-      "https://jyn.dev/i-m-just-having-fun/"
     ]
   ]
 ]
