@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-17, 09:29:30](https://lobste.rs/s/glwlvx/survey_dynamic_array_structures) - [A Survey of Dynamic Array Structures](https://azmr.uk/dyn/)
 * [2025-12-17, 08:49:35](https://lobste.rs/s/igmbgy/keeping_secrets_less_than_two_weeks_ago) - [Keeping secrets, or (less than two weeks ago)](https://kellett.im/a/keeping-secrets)
+* [2025-12-17, 08:45:33](https://lobste.rs/s/x1mn6i/kris_cross_compile_janet_projects_with) - [kris: Cross-compile Janet projects with Zig](https://github.com/pyrmont/kris)
 * [2025-12-17, 07:28:16](https://lobste.rs/s/7jdpgz/qjp_turn_any_json_file_into_quick_tui_menu) - [qjp - turn any json file into a quick TUI menu](https://github.com/plainas/qjp)
 * [2025-12-17, 06:43:21](https://lobste.rs/s/l5nep0/opus_1_6_released) - [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/)
 * [2025-12-17, 04:38:43](https://lobste.rs/s/jrokrz/minimum_viable_benchmark_for_evaluating) - [Minimum Viable Benchmark (for evaluating LLMs)](http://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/)
