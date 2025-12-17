@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-17, 14:42:31",
+      "https://lobste.rs/s/knox4u/how_did_irc_ping_timeouts_end_up_lawsuit"
+    ],
+    [
+      "How did IRC ping timeouts end up in a lawsuit?",
+      "https://mjg59.dreamwidth.org/73777.html"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 14:38:02",
       "https://lobste.rs/s/pa9zzh/safer_container_ecosystem_with_docker"
     ],
     [
       "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
       "https://www.docker.com/blog/docker-hardened-images-for-every-developer/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 14:17:24",
+      "https://lobste.rs/s/c8lmlr/hacker_news_down_for_anyone_else"
+    ],
+    [
+      "Hacker News down for anyone else?",
+      "https://lobste.rs/s/c8lmlr/hacker_news_down_for_anyone_else"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Odin's Most Misunderstood Feature: `context`",
       "https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 14:30:47",
-      "https://lobste.rs/s/lvp0jr/rust_gcc_backend_why_how"
-    ],
-    [
-      "Rust GCC backend: Why and how",
-      "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 09:00:05",
-      "https://lobste.rs/s/jxawjl/november_servo_monthly_releases_context"
-    ],
-    [
-      "November in Servo: monthly releases, context menus, parallel CSS parsing, and more",
-      "https://servo.org/blog/2025/12/15/november-in-servo/"
     ]
   ],
   [
