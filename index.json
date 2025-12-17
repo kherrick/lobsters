@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-17, 13:38:51",
+      "https://lobste.rs/s/csp9j1/original_mozilla_dinosaur_logo_artwork"
+    ],
+    [
+      "The original Mozilla \"Dinosaur\" logo artwork",
+      "https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 13:10:05",
+      "https://lobste.rs/s/ammoxm/yep_passkeys_still_have_problems"
+    ],
+    [
+      "Yep, Passkeys Still Have Problems",
+      "https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 12:15:24",
       "https://lobste.rs/s/baxkxn/how_twitter_is_probably_crawling"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2025-12-16, 16:02:29",
-      "https://lobste.rs/s/tdux88/maybe_consider_putting_cutlass_your_cuda"
-    ],
-    [
-      "Maybe consider putting cutlass in your CUDA/Triton kernels",
-      "https://maknee.github.io/blog/2025/Maybe-Consider-Putting-Cutlass-In-Your-CUDA-Kernels/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 14:30:47",
       "https://lobste.rs/s/lvp0jr/rust_gcc_backend_why_how"
     ],
     [
       "Rust GCC backend: Why and how",
       "https://blog.guillaume-gomez.fr/articles/2025-12-15+Rust+GCC+backend%3A+Why+and+how"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 13:39:30",
-      "https://lobste.rs/s/w5j6io/announcing_vojtux_accessible_linux"
-    ],
-    [
-      "Announcing Vojtux - Accessible Linux distro which is almost pure Fedora",
-      "https://www.freelists.org/post/orca/Announcing-Vojtux-Accessible-Linux-distro-which-is-almost-pure-Fedora"
     ]
   ],
   [
