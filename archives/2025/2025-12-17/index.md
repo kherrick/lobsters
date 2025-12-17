@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 08:45:33](https://lobste.rs/s/x1mn6i/kris_cross_compile_janet_projects_with) - [kris: Cross-compile Janet projects with Zig](https://github.com/pyrmont/kris)
 * [2025-12-17, 08:08:25](https://lobste.rs/s/tuywcm/ai_gnome_shell_extensions) - [AI and GNOME Shell Extensions](https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/)
 * [2025-12-17, 07:28:16](https://lobste.rs/s/7jdpgz/qjp_turn_any_json_file_into_quick_tui_menu) - [qjp - turn any json file into a quick TUI menu](https://github.com/plainas/qjp)
 * [2025-12-17, 06:43:21](https://lobste.rs/s/l5nep0/opus_1_6_released) - [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/)
