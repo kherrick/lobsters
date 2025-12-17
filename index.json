@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-17, 11:27:30",
+      "https://lobste.rs/s/lfd78r/short_circuiting_correlated_subqueries"
+    ],
+    [
+      "Short-Circuiting Correlated Subqueries in SQLite",
+      "https://emschwartz.me/short-circuiting-correlated-subqueries-in-sqlite/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 09:29:30",
       "https://lobste.rs/s/glwlvx/survey_dynamic_array_structures"
     ],
@@ -227,16 +237,6 @@
     [
       "i'm just having fun",
       "https://jyn.dev/i-m-just-having-fun/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 23:17:55",
-      "https://lobste.rs/s/ukmf3a/radicle_peer_peer_collaboration_with_git"
-    ],
-    [
-      "Radicle: peer-to-peer collaboration with Git (2024)",
-      "https://lwn.net/Articles/966869/"
     ]
   ],
   [
