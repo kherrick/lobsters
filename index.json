@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-17, 16:09:19",
+      "https://lobste.rs/s/wgnk1u/what_does_database_for_ssds_look_like"
+    ],
+    [
+      "What Does a Database for SSDs Look Like?",
+      "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 15:45:21",
       "https://lobste.rs/s/b7sjoi/loro_extended_toolkit_for_building_local"
     ],
@@ -27,16 +37,6 @@
     [
       "How did IRC ping timeouts end up in a lawsuit?",
       "https://mjg59.dreamwidth.org/73777.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 14:38:02",
-      "https://lobste.rs/s/pa9zzh/safer_container_ecosystem_with_docker"
-    ],
-    [
-      "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
-      "https://www.docker.com/blog/docker-hardened-images-for-every-developer/"
     ]
   ],
   [
