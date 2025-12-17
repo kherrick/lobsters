@@ -2,6 +2,7 @@
 
 * [2025-12-17, 21:35:58](https://lobste.rs/s/pvkjwy/genuary_2026_prompts_released) - [Genuary 2026: Prompts Released](https://genuary.art)
 * [2025-12-17, 20:49:17](https://lobste.rs/s/vjdthc/introducing_qt_task_tree_module_part_qt_6) - [Introducing the Qt Task Tree Module, Part of Qt 6.11](https://www.qt.io/blog/qt-task-tree-coming-soon-in-qt-6.11)
+* [2025-12-17, 17:41:14](https://lobste.rs/s/wj97lz/selective_applicative_functors) - [Selective Applicative Functors](https://blog.veritates.love/selective_applicatives_theoretical_basis.html)
 * [2025-12-17, 17:38:12](https://lobste.rs/s/hhoql4/how_do_graphics_drivers_work) - [How do graphics drivers work?](https://timur.hu/blog/2025/how-do-graphics-drivers-work)
 * [2025-12-17, 17:31:14](https://lobste.rs/s/nesn9g/linux_kernel_rust_code_sees_its_first_cve) - [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
 * [2025-12-17, 16:45:48](https://lobste.rs/s/yhqbqm/inlining_ultimate_optimisation) - [Inlining - the ultimate optimisation](https://xania.org/202512/17-inlining-the-ultimate-optimisation)
@@ -24,7 +25,6 @@
 * [2025-12-16, 21:11:40](https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server](https://astral.sh/blog/ty)
 * [2025-12-16, 20:05:21](https://lobste.rs/s/wopu8o/no_graphics_api) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
-* [2025-12-16, 16:14:06](https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature) - [Odin's Most Misunderstood Feature: `context`](https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/)
 
 ## [Archives](archives/index.md)
 
