@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-12-17, 12:01:44",
+      "https://lobste.rs/s/sfjtvo/wrong_question_about_type_systems"
+    ],
+    [
+      "The Wrong Question About Type Systems",
+      "https://furkan3ayraktar.github.io/blog/the-wrong-question-about-type-systems.html"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 11:27:30",
       "https://lobste.rs/s/lfd78r/short_circuiting_correlated_subqueries"
     ],
@@ -77,6 +87,16 @@
     [
       "kris: Cross-compile Janet projects with Zig",
       "https://github.com/pyrmont/kris"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 08:08:25",
+      "https://lobste.rs/s/tuywcm/ai_gnome_shell_extensions"
+    ],
+    [
+      "AI and GNOME Shell Extensions",
+      "https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-16, 08:36:11",
-      "https://lobste.rs/s/hkkb61/global_known_hosts_for_ssh_services"
-    ],
-    [
-      "global known_hosts for ssh services",
-      "https://knownhosts.net/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 05:11:33",
       "https://lobste.rs/s/q3j88a/writing_blatant_telegram_clone_using_qt"
     ],
@@ -237,16 +247,6 @@
     [
       "i'm just having fun",
       "https://jyn.dev/i-m-just-having-fun/"
-    ]
-  ],
-  [
-    [
-      "2025-12-15, 20:17:50",
-      "https://lobste.rs/s/gtpvpi/super_secure_maga_themed_messaging_app"
-    ],
-    [
-      "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
-      "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/"
     ]
   ]
 ]
