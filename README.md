@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-17, 15:45:21](https://lobste.rs/s/b7sjoi/loro_extended_toolkit_for_building_local) - [loro-extended: A toolkit for building local-first applications and multi-agent systems with Loro](https://github.com/schoolAI/loro-extended)
+* [2025-12-17, 15:33:24](https://lobste.rs/s/8gnr4x/maintaining_open_source_software_during) - [Maintaining an open source software during Hacktoberfest](https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/)
 * [2025-12-17, 14:42:31](https://lobste.rs/s/knox4u/how_did_irc_ping_timeouts_end_up_lawsuit) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
 * [2025-12-17, 14:38:02](https://lobste.rs/s/pa9zzh/safer_container_ecosystem_with_docker) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
-* [2025-12-17, 14:17:24](https://lobste.rs/s/c8lmlr/hacker_news_down_for_anyone_else) - [Hacker News down for anyone else?](https://lobste.rs/s/c8lmlr/hacker_news_down_for_anyone_else)
 * [2025-12-17, 13:38:51](https://lobste.rs/s/csp9j1/original_mozilla_dinosaur_logo_artwork) - [The original Mozilla \"Dinosaur\" logo artwork](https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/)
 * [2025-12-17, 13:10:05](https://lobste.rs/s/ammoxm/yep_passkeys_still_have_problems) - [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
 * [2025-12-17, 12:15:24](https://lobste.rs/s/baxkxn/how_twitter_is_probably_crawling) - [How Twitter is (probably) crawling the Internet for AI](https://kitsunemimi.pw/notes/posts/how-twitter-is-probably-crawling-the-internet-for-ai.html)
@@ -20,7 +21,6 @@
 * [2025-12-16, 21:11:40](https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker) - [ty: An extremely fast Python type checker and language server](https://astral.sh/blog/ty)
 * [2025-12-16, 20:05:21](https://lobste.rs/s/wopu8o/no_graphics_api) - [No Graphics API](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 * [2025-12-16, 16:36:13](https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool) - [File d'attente - file-based job queue tool](https://git.sr.ht/~marcc/filed)
-* [2025-12-16, 16:31:01](https://lobste.rs/s/csqubi/gh_actions_lockfile_generate_verify) - [gh-actions-lockfile: generate and verify lockfiles for GitHub Actions](https://gh-actions-lockfile.net)
 * [2025-12-16, 16:26:17](https://lobste.rs/s/bgibyk/future_jetbrains_fleet) - [The Future of [JetBrains] Fleet](https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/)
 * [2025-12-16, 16:14:06](https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature) - [Odin's Most Misunderstood Feature: `context`](https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/)
 * [2025-12-16, 05:11:33](https://lobste.rs/s/q3j88a/writing_blatant_telegram_clone_using_qt) - [Writing a blatant Telegram clone using Qt, QML and Rust. And C++](https://kemble.net/blog/provoke/)
