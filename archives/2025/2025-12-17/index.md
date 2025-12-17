@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 07:28:16](https://lobste.rs/s/7jdpgz/qjp_turn_any_json_file_into_quick_tui_menu) - [qjp - turn any json file into a quick TUI menu](https://github.com/plainas/qjp)
 * [2025-12-17, 06:43:21](https://lobste.rs/s/l5nep0/opus_1_6_released) - [Opus 1.6 Released](https://opus-codec.org/demo/opus-1.6/)
 * [2025-12-17, 06:10:10](https://lobste.rs/s/jlve0u/calling_all_arguments) - [Calling all arguments](https://xania.org/202512/16-calling-conventions)
 * [2025-12-17, 04:38:43](https://lobste.rs/s/jrokrz/minimum_viable_benchmark_for_evaluating) - [Minimum Viable Benchmark (for evaluating LLMs)](http://blog.nilenso.com/blog/2025/11/28/minimum-viable-benchmark/)
