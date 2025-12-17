@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-17](index.md)
 
+* [2025-12-17, 14:42:31](https://lobste.rs/s/knox4u/how_did_irc_ping_timeouts_end_up_lawsuit) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
 * [2025-12-17, 14:38:02](https://lobste.rs/s/pa9zzh/safer_container_ecosystem_with_docker) - [A Safer Container Ecosystem with Docker: Free Docker Hardened Images](https://www.docker.com/blog/docker-hardened-images-for-every-developer/)
+* [2025-12-17, 14:17:24](https://lobste.rs/s/c8lmlr/hacker_news_down_for_anyone_else) - [Hacker News down for anyone else?](https://lobste.rs/s/c8lmlr/hacker_news_down_for_anyone_else)
 * [2025-12-17, 13:38:51](https://lobste.rs/s/csp9j1/original_mozilla_dinosaur_logo_artwork) - [The original Mozilla \"Dinosaur\" logo artwork](https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/)
 * [2025-12-17, 13:10:05](https://lobste.rs/s/ammoxm/yep_passkeys_still_have_problems) - [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
 * [2025-12-17, 12:15:24](https://lobste.rs/s/baxkxn/how_twitter_is_probably_crawling) - [How Twitter is (probably) crawling the Internet for AI](https://kitsunemimi.pw/notes/posts/how-twitter-is-probably-crawling-the-internet-for-ai.html)
