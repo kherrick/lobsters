@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-17, 14:38:02",
+      "https://lobste.rs/s/pa9zzh/safer_container_ecosystem_with_docker"
+    ],
+    [
+      "A Safer Container Ecosystem with Docker: Free Docker Hardened Images",
+      "https://www.docker.com/blog/docker-hardened-images-for-every-developer/"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 13:38:51",
       "https://lobste.rs/s/csp9j1/original_mozilla_dinosaur_logo_artwork"
     ],
@@ -87,16 +97,6 @@
     [
       "kris: Cross-compile Janet projects with Zig",
       "https://github.com/pyrmont/kris"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 08:08:25",
-      "https://lobste.rs/s/tuywcm/ai_gnome_shell_extensions"
-    ],
-    [
-      "AI and GNOME Shell Extensions",
-      "https://blogs.gnome.org/jrahmatzadeh/2025/12/06/ai-and-gnome-shell-extensions/"
     ]
   ],
   [
