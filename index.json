@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-17, 17:38:12",
+      "https://lobste.rs/s/hhoql4/how_do_graphics_drivers_work"
+    ],
+    [
+      "How do graphics drivers work?",
+      "https://timur.hu/blog/2025/how-do-graphics-drivers-work"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 17:31:14",
+      "https://lobste.rs/s/nesn9g/linux_kernel_rust_code_sees_its_first_cve"
+    ],
+    [
+      "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
+      "https://www.phoronix.com/news/First-Linux-Rust-CVE"
+    ]
+  ],
+  [
+    [
       "2025-12-17, 16:09:19",
       "https://lobste.rs/s/wgnk1u/what_does_database_for_ssds_look_like"
     ],
@@ -27,6 +47,16 @@
     [
       "Maintaining an open source software during Hacktoberfest",
       "https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 14:53:27",
+      "https://lobste.rs/s/lzfzzi/asahi_linux_progress_report_linux_6_18"
+    ],
+    [
+      "Asahi Linux Progress Report: Linux 6.18",
+      "https://asahilinux.org/2025/12/progress-report-6-18/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-12-17, 03:35:27",
-      "https://lobste.rs/s/q8w2tf/adventures_land_language_servers"
-    ],
-    [
-      "Adventures in the land of Language Servers",
-      "https://speakerdeck.com/kubukoz/adventures-in-the-land-of-language-servers"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 01:34:04",
       "https://lobste.rs/s/xckds9/how_i_became_spam_vector"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-12-16, 16:26:17",
-      "https://lobste.rs/s/bgibyk/future_jetbrains_fleet"
-    ],
-    [
-      "The Future of [JetBrains] Fleet",
-      "https://blog.jetbrains.com/fleet/2025/12/the-future-of-fleet/"
-    ]
-  ],
-  [
-    [
       "2025-12-16, 16:14:06",
       "https://lobste.rs/s/hfnbtt/odin_s_most_misunderstood_feature"
     ],
     [
       "Odin's Most Misunderstood Feature: `context`",
       "https://www.gingerbill.org/article/2025/12/15/odins-most-misunderstood-feature-context/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 05:11:33",
-      "https://lobste.rs/s/q3j88a/writing_blatant_telegram_clone_using_qt"
-    ],
-    [
-      "Writing a blatant Telegram clone using Qt, QML and Rust. And C++",
-      "https://kemble.net/blog/provoke/"
     ]
   ],
   [
