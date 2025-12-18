@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 16:38:41](https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining) - [I got hacked, my server started mining Monero this morning](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 * [2025-12-18, 16:31:33](https://lobste.rs/s/8caabc/hardware_attested_nix_builds) - [Hardware-Attested Nix Builds](https://garnix.io/blog/attested-nix-builds/)
 * [2025-12-18, 16:18:48](https://lobste.rs/s/ohi6xe/tuitar_portable_guitar_training_tool_diy) - [Tuitar – A portable guitar training tool and DIY kit](https://github.com/orhun/tuitar)
 * [2025-12-18, 16:09:54](https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
