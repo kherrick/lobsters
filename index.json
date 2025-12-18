@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-12-17, 17:41:14",
-      "https://lobste.rs/s/wj97lz/selective_applicative_functors"
-    ],
-    [
-      "Selective Applicative Functors",
-      "https://blog.veritates.love/selective_applicatives_theoretical_basis.html"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 17:38:12",
       "https://lobste.rs/s/hhoql4/how_do_graphics_drivers_work"
     ],
@@ -77,6 +67,16 @@
     [
       "What Does a Database for SSDs Look Like?",
       "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-17, 15:45:21",
+      "https://lobste.rs/s/b7sjoi/loro_extended_toolkit_for_building_local"
+    ],
+    [
+      "loro-extended: A toolkit for building local-first applications and multi-agent systems with Loro",
+      "https://github.com/schoolAI/loro-extended"
     ]
   ],
   [
