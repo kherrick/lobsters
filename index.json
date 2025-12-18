@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 17:23:07",
+      "https://lobste.rs/s/hzkqhc/dogalog_prolog_based_livecoding_music"
+    ],
+    [
+      "dogalog: Prolog-based livecoding music environment",
+      "https://github.com/danja/dogalog"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 16:38:41",
       "https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining"
     ],
@@ -177,16 +187,6 @@
     [
       "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
       "https://www.phoronix.com/news/First-Linux-Rust-CVE"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 16:09:19",
-      "https://lobste.rs/s/wgnk1u/what_does_database_for_ssds_look_like"
-    ],
-    [
-      "What Does a Database for SSDs Look Like?",
-      "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html"
     ]
   ],
   [
