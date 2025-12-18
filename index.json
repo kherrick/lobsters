@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-18, 16:38:00",
+      "https://lobste.rs/s/pbz4a7/making_most_bit_arrays"
+    ],
+    [
+      "Making the Most of Bit Arrays",
+      "https://gearsco.de/blog/bit-array-syntax/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 16:31:33",
       "https://lobste.rs/s/8caabc/hardware_attested_nix_builds"
     ],
@@ -237,16 +247,6 @@
     [
       "A Survey of Dynamic Array Structures",
       "https://azmr.uk/dyn/"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 21:11:40",
-      "https://lobste.rs/s/zjq0nl/ty_extremely_fast_python_type_checker"
-    ],
-    [
-      "ty: An extremely fast Python type checker and language server",
-      "https://astral.sh/blog/ty"
     ]
   ]
 ]
