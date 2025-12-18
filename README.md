@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-18, 07:56:26](https://lobste.rs/s/lbvixt/lightning_extra_pytorch_lightning) - [lightning-extra: PyTorch Lightning plugins and utilities for cloud-native machine learning](https://github.com/ocramz/lightning-extra)
 * [2025-12-18, 05:43:50](https://lobste.rs/s/tcnstw/interactive_fluid_typography) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
 * [2025-12-18, 03:31:33](https://lobste.rs/s/rd5yo9/ringspace_proposal_for_human_web) - [Ringspace: A Proposal for the Human Web](https://taggart-tech.com/ringspace/)
 * [2025-12-18, 02:11:30](https://lobste.rs/s/cbdrvp/multimedia_sketchpad) - [A Multimedia Sketchpad](https://beyondloom.com/blog/sketchpad.html)
 * [2025-12-18, 00:06:33](https://lobste.rs/s/kcfrr2/secure_local_configuration_kakoune) - [secure local configuration in kakoune](https://ficd.sh/blog/kak-secure-local-config/)
 * [2025-12-17, 21:35:58](https://lobste.rs/s/pvkjwy/genuary_2026_prompts_released) - [Genuary 2026: Prompts Released](https://genuary.art)
-* [2025-12-17, 20:49:17](https://lobste.rs/s/vjdthc/introducing_qt_task_tree_module_part_qt_6) - [Introducing the Qt Task Tree Module, Part of Qt 6.11](https://www.qt.io/blog/qt-task-tree-coming-soon-in-qt-6.11)
 * [2025-12-17, 17:38:12](https://lobste.rs/s/hhoql4/how_do_graphics_drivers_work) - [How do graphics drivers work?](https://timur.hu/blog/2025/how-do-graphics-drivers-work)
 * [2025-12-17, 17:31:14](https://lobste.rs/s/nesn9g/linux_kernel_rust_code_sees_its_first_cve) - [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
 * [2025-12-17, 16:09:19](https://lobste.rs/s/wgnk1u/what_does_database_for_ssds_look_like) - [What Does a Database for SSDs Look Like?](https://brooker.co.za/blog/2025/12/15/database-for-ssd.html)
