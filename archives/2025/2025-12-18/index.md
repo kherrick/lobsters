@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
 * [2025-12-18, 20:22:58](https://lobste.rs/s/8fcvtj/my_first_win_building_with_agents) - [My first win building with agents](https://olano.dev/blog/agents2)
+* [2025-12-18, 19:43:17](https://lobste.rs/s/dicrsi/please_just_try_htmx) - [Please Just Try HTMX](https://pleasejusttryhtmx.com/)
 * [2025-12-18, 19:43:17](https://lobste.rs/s/dicrsi/please_just_fucking_try_htmx) - [Please Just Fucking Try HTMX](https://pleasejusttryhtmx.com/)
 * [2025-12-18, 19:23:56](https://lobste.rs/s/amzgrw/how_hack_discord_vercel_more_with_one_easy) - [how to hack discord, vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 19:03:49](https://lobste.rs/s/favt88/stop_losing_intent_absent_null_value_rust) - [Stop Losing Intent: Absent, Null, and Value in Rust](https://minikin.me/blog/presence-rs)
