@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 08:45:26",
+      "https://lobste.rs/s/k9cyk3/microsoft_quietly_kills_intellicode"
+    ],
+    [
+      "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
+      "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 07:56:26",
       "https://lobste.rs/s/lbvixt/lightning_extra_pytorch_lightning"
     ],
@@ -237,16 +247,6 @@
     [
       "ty: An extremely fast Python type checker and language server",
       "https://astral.sh/blog/ty"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 20:05:21",
-      "https://lobste.rs/s/wopu8o/no_graphics_api"
-    ],
-    [
-      "No Graphics API",
-      "https://www.sebastianaaltonen.com/blog/no-graphics-api"
     ]
   ]
 ]
