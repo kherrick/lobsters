@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-18, 16:31:33",
+      "https://lobste.rs/s/8caabc/hardware_attested_nix_builds"
+    ],
+    [
+      "Hardware-Attested Nix Builds",
+      "https://garnix.io/blog/attested-nix-builds/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 16:18:48",
+      "https://lobste.rs/s/ohi6xe/tuitar_portable_guitar_training_tool_diy"
+    ],
+    [
+      "Tuitar – A portable guitar training tool and DIY kit",
+      "https://github.com/orhun/tuitar"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 16:09:54",
+      "https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven"
+    ],
+    [
+      "Your job is to deliver code you have proven to work",
+      "https://simonwillison.net/2025/Dec/18/code-proven-to-work/"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 14:38:09",
       "https://lobste.rs/s/yme7vr/partial_inlining"
     ],
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2025-12-17, 12:06:54",
-      "https://lobste.rs/s/2lnu5u/log_level_error_should_mean_something"
-    ],
-    [
-      "Log level 'error' should mean that something needs to be fixed",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorsShouldRequireFixing"
-    ]
-  ],
-  [
-    [
       "2025-12-17, 09:29:30",
       "https://lobste.rs/s/glwlvx/survey_dynamic_array_structures"
     ],
     [
       "A Survey of Dynamic Array Structures",
       "https://azmr.uk/dyn/"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 08:49:35",
-      "https://lobste.rs/s/igmbgy/keeping_secrets_less_than_two_weeks_ago"
-    ],
-    [
-      "Keeping secrets, or (less than two weeks ago)",
-      "https://kellett.im/a/keeping-secrets"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 06:43:21",
-      "https://lobste.rs/s/l5nep0/opus_1_6_released"
-    ],
-    [
-      "Opus 1.6 Released",
-      "https://opus-codec.org/demo/opus-1.6/"
     ]
   ],
   [
