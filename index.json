@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-12-18, 19:03:49",
-      "https://lobste.rs/s/favt88/stop_losing_intent_absent_null_value_rust"
-    ],
-    [
-      "Stop Losing Intent: Absent, Null, and Value in Rust",
-      "https://minikin.me/blog/presence-rs"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 18:39:35",
       "https://lobste.rs/s/rfen9d/headson_head_tail_for_structured_data"
     ],
@@ -57,6 +47,16 @@
     [
       "dogalog: Prolog-based livecoding music environment",
       "https://github.com/danja/dogalog"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 16:45:08",
+      "https://lobste.rs/s/n0gjzd/pg_textsearch_postgresql_extension_for"
+    ],
+    [
+      "pg_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search",
+      "https://github.com/timescale/pg_textsearch"
     ]
   ],
   [
