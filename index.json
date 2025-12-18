@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-18, 03:31:33",
+      "https://lobste.rs/s/rd5yo9/ringspace_proposal_for_human_web"
+    ],
+    [
+      "Ringspace: A Proposal for the Human Web",
+      "https://taggart-tech.com/ringspace/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 02:11:30",
+      "https://lobste.rs/s/cbdrvp/multimedia_sketchpad"
+    ],
+    [
+      "A Multimedia Sketchpad",
+      "https://beyondloom.com/blog/sketchpad.html"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 00:06:33",
       "https://lobste.rs/s/kcfrr2/secure_local_configuration_kakoune"
     ],
@@ -67,16 +87,6 @@
     [
       "What Does a Database for SSDs Look Like?",
       "https://brooker.co.za/blog/2025/12/15/database-for-ssd.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 15:45:21",
-      "https://lobste.rs/s/b7sjoi/loro_extended_toolkit_for_building_local"
-    ],
-    [
-      "loro-extended: A toolkit for building local-first applications and multi-agent systems with Loro",
-      "https://github.com/schoolAI/loro-extended"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "No Graphics API",
       "https://www.sebastianaaltonen.com/blog/no-graphics-api"
-    ]
-  ],
-  [
-    [
-      "2025-12-16, 16:36:13",
-      "https://lobste.rs/s/1dffuf/file_d_attente_file_based_job_queue_tool"
-    ],
-    [
-      "File d'attente - file-based job queue tool",
-      "https://git.sr.ht/~marcc/filed"
     ]
   ]
 ]
