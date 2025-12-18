@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-18, 19:03:49",
+      "https://lobste.rs/s/favt88/stop_losing_intent_absent_null_value_rust"
+    ],
+    [
+      "Stop Losing Intent: Absent, Null, and Value in Rust",
+      "https://minikin.me/blog/presence-rs"
+    ]
+  ],
+  [
+    [
       "2025-12-18, 18:39:35",
       "https://lobste.rs/s/rfen9d/headson_head_tail_for_structured_data"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2025-12-18, 16:45:08",
-      "https://lobste.rs/s/n0gjzd/pg_textsearch_postgresql_extension_for"
-    ],
-    [
-      "pg_textsearch: PostgreSQL extension for BM25 relevance-ranked full-text search",
-      "https://github.com/timescale/pg_textsearch"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 16:38:41",
       "https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining"
     ],
     [
       "I got hacked, my server started mining Monero this morning",
       "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 16:38:00",
+      "https://lobste.rs/s/pbz4a7/making_most_bit_arrays"
+    ],
+    [
+      "Making the Most of Bit Arrays",
+      "https://gearsco.de/blog/bit-array-syntax/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Ringspace: A Proposal for the Human Web",
       "https://taggart-tech.com/ringspace/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 02:11:30",
-      "https://lobste.rs/s/cbdrvp/multimedia_sketchpad"
-    ],
-    [
-      "A Multimedia Sketchpad",
-      "https://beyondloom.com/blog/sketchpad.html"
     ]
   ],
   [
