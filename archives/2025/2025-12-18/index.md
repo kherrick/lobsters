@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-18](index.md)
 
+* [2025-12-18, 18:39:35](https://lobste.rs/s/rfen9d/headson_head_tail_for_structured_data) - [headson: head/tail for structured data - summarize/preview JSON/YAML and source code](https://github.com/kantord/headson)
 * [2025-12-18, 17:23:07](https://lobste.rs/s/hzkqhc/dogalog_prolog_based_livecoding_music) - [dogalog: Prolog-based livecoding music environment](https://github.com/danja/dogalog)
 * [2025-12-18, 16:38:41](https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining) - [I got hacked, my server started mining Monero this morning](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 * [2025-12-18, 16:38:00](https://lobste.rs/s/pbz4a7/making_most_bit_arrays) - [Making the Most of Bit Arrays](https://gearsco.de/blog/bit-array-syntax/)

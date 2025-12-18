@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-18, 18:39:35](https://lobste.rs/s/rfen9d/headson_head_tail_for_structured_data) - [headson: head/tail for structured data - summarize/preview JSON/YAML and source code](https://github.com/kantord/headson)
 * [2025-12-18, 17:23:07](https://lobste.rs/s/hzkqhc/dogalog_prolog_based_livecoding_music) - [dogalog: Prolog-based livecoding music environment](https://github.com/danja/dogalog)
 * [2025-12-18, 16:38:41](https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining) - [I got hacked, my server started mining Monero this morning](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 * [2025-12-18, 16:38:00](https://lobste.rs/s/pbz4a7/making_most_bit_arrays) - [Making the Most of Bit Arrays](https://gearsco.de/blog/bit-array-syntax/)
@@ -24,7 +25,6 @@
 * [2025-12-17, 14:42:31](https://lobste.rs/s/knox4u/how_did_irc_ping_timeouts_end_up_lawsuit) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
 * [2025-12-17, 13:38:51](https://lobste.rs/s/csp9j1/original_mozilla_dinosaur_logo_artwork) - [The original Mozilla \"Dinosaur\" logo artwork](https://www.jwz.org/blog/2025/12/the-original-mozilla-dinosaur-logo-artwork/)
 * [2025-12-17, 13:10:05](https://lobste.rs/s/ammoxm/yep_passkeys_still_have_problems) - [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
-* [2025-12-17, 09:29:30](https://lobste.rs/s/glwlvx/survey_dynamic_array_structures) - [A Survey of Dynamic Array Structures](https://azmr.uk/dyn/)
 
 ## [Archives](archives/index.md)
 
