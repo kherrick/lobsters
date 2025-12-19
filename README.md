@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-19, 01:02:15](https://lobste.rs/s/aop0pm/prompt_caching_10x_cheaper_llm_tokens_how) - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)
 * [2025-12-18, 21:23:24](https://lobste.rs/s/w05bzq/lionsos_design_implementation) - [LionsOS Design, Implementation and Performance](https://arxiv.org/html/2501.06234v2)
 * [2025-12-18, 20:22:58](https://lobste.rs/s/8fcvtj/my_first_win_building_with_agents) - [My first win building with agents](https://olano.dev/blog/agents2)
 * [2025-12-18, 19:43:17](https://lobste.rs/s/dicrsi/please_just_try_htmx) - [Please Just Try HTMX](https://pleasejusttryhtmx.com/)
@@ -9,6 +10,7 @@
 * [2025-12-18, 16:38:41](https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining) - [I got hacked, my server started mining Monero this morning](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 * [2025-12-18, 16:38:00](https://lobste.rs/s/pbz4a7/making_most_bit_arrays) - [Making the Most of Bit Arrays](https://gearsco.de/blog/bit-array-syntax/)
 * [2025-12-18, 16:31:33](https://lobste.rs/s/8caabc/hardware_attested_nix_builds) - [Hardware-Attested Nix Builds](https://garnix.io/blog/attested-nix-builds/)
+* [2025-12-18, 16:18:48](https://lobste.rs/s/ohi6xe/tuitar_portable_guitar_training_tool_diy) - [Tuitar – A portable guitar training tool and DIY kit](https://github.com/orhun/tuitar)
 * [2025-12-18, 16:09:54](https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 * [2025-12-18, 14:38:09](https://lobste.rs/s/yme7vr/partial_inlining) - [Partial inlining](https://xania.org/202512/18-partial-inlining)
 * [2025-12-18, 14:11:05](https://lobste.rs/s/h50lml/toml_1_1_0_released) - [TOML 1.1.0 released](https://github.com/toml-lang/toml/releases/tag/1.1.0)
@@ -18,8 +20,6 @@
 * [2025-12-18, 10:33:03](https://lobste.rs/s/va2vtw/nvme_is_not_hard_disk_2021) - [NVME is not a hard disk (2021)](https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html)
 * [2025-12-18, 08:45:26](https://lobste.rs/s/k9cyk3/microsoft_quietly_kills_intellicode) - [Microsoft quietly kills IntelliCode in favor of the paid Copilot](https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx)
 * [2025-12-18, 05:43:50](https://lobste.rs/s/tcnstw/interactive_fluid_typography) - [Interactive Fluid Typography](https://electricmagicfactory.com/articles/interactive-fluid-typography/)
-* [2025-12-18, 03:31:33](https://lobste.rs/s/rd5yo9/ringspace_proposal_for_human_web) - [Ringspace: A Proposal for the Human Web](https://taggart-tech.com/ringspace/)
-* [2025-12-18, 00:06:33](https://lobste.rs/s/kcfrr2/secure_local_configuration_kakoune) - [secure local configuration in kakoune](https://ficd.sh/blog/kak-secure-local-config/)
 * [2025-12-17, 17:31:14](https://lobste.rs/s/nesn9g/linux_kernel_rust_code_sees_its_first_cve) - [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
 * [2025-12-17, 15:33:24](https://lobste.rs/s/8gnr4x/maintaining_open_source_software_during) - [Maintaining an open source software during Hacktoberfest](https://crocidb.com/post/maintaining-an-oss-during-hacktoberfest/)
 * [2025-12-17, 14:42:31](https://lobste.rs/s/knox4u/how_did_irc_ping_timeouts_end_up_lawsuit) - [How did IRC ping timeouts end up in a lawsuit?](https://mjg59.dreamwidth.org/73777.html)
