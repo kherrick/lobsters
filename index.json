@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-19, 22:47:30",
+      "https://lobste.rs/s/uo16ri/what_do_people_love_about_rust"
+    ],
+    [
+      "What do people love about Rust?",
+      "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 22:04:02",
       "https://lobste.rs/s/gvua4w/list_books_learn_programming_with_ruby"
     ],
@@ -147,16 +157,6 @@
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 04:50:40",
-      "https://lobste.rs/s/1k5vwr/reinventing_dial_up_modem_2019"
-    ],
-    [
-      "Reinventing the dial-up modem (2019)",
-      "https://saket.me/dtmf-tones/"
     ]
   ],
   [
