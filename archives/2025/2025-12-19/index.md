@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 23:18:22](https://lobste.rs/s/qelpuh/performance_hints) - [Performance Hints](https://abseil.io/fast/hints.html)
 * [2025-12-19, 22:47:30](https://lobste.rs/s/uo16ri/what_do_people_love_about_rust) - [What do people love about Rust?](https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/)
 * [2025-12-19, 22:04:02](https://lobste.rs/s/gvua4w/list_books_learn_programming_with_ruby) - [A List of Books to Learn Programming with Ruby and Rails (2023)](https://www.writesoftwarewell.com/books-to-learn-ruby-and-rails/)
 * [2025-12-19, 21:46:19](https://lobste.rs/s/xbry8q/lightest_notes_app_implementation_99_loc) - [The lightest notes app implementation in 99 loc](https://medv.io/notes/#HcmxDcIwEAXQ3lP8LMASNNCzwAl9bCtOzvJdkOhS0VAhpaHKAGyVCTICEq99Jz467Ov7FcJFekJQVHuIwxNRJRKmU7sS27zAUzZk-1_JMTnNMarTkIdaOHB08awjztv8uRN1crhGemKDKW7SDtjX7zOEYyKbdT8=)
