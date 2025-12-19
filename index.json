@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-19, 09:51:01",
+      "https://lobste.rs/s/e6zmjh/go_ahead_self_host_postgres"
+    ],
+    [
+      "Go ahead, self-host Postgres",
+      "https://pierce.dev/notes/go-ahead-self-host-postgres"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 08:56:12",
       "https://lobste.rs/s/juxgre/generate_play_music_playlists_on_apple"
     ],
@@ -207,16 +217,6 @@
     [
       "OBS Studio Gets A New Renderer: How OBS Adopted Metal",
       "https://obsproject.com/blog/obs-studio-gets-a-new-renderer"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 10:33:03",
-      "https://lobste.rs/s/va2vtw/nvme_is_not_hard_disk_2021"
-    ],
-    [
-      "NVME is not a hard disk (2021)",
-      "https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html"
     ]
   ],
   [
