@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 21:46:19](https://lobste.rs/s/xbry8q/lightest_notes_app_implementation_99_loc) - [The lightest notes app implementation in 99 loc](https://medv.io/notes/#HcmxDcIwEAXQ3lP8LMASNNCzwAl9bCtOzvJdkOhS0VAhpaHKAGyVCTICEq99Jz467Ov7FcJFekJQVHuIwxNRJRKmU7sS27zAUzZk-1_JMTnNMarTkIdaOHB08awjztv8uRN1crhGemKDKW7SDtjX7zOEYyKbdT8=)
 * [2025-12-19, 20:57:45](https://lobste.rs/s/lqvi24/rust_s_block_pattern) - [Rust’s Block Pattern](https://notgull.net/block-pattern/)
 * [2025-12-19, 20:26:47](https://lobste.rs/s/s5zoaj/scariest_boot_loader_code) - [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
 * [2025-12-19, 19:25:58](https://lobste.rs/s/yyrioz/pi_5_nas_with_custom_carbon_fibre_panels) - [Pi 5 NAS With Custom Carbon Fibre Panels, Made on the Makera Z1](https://www.the-diy-life.com/pi-5-nas-with-custom-carbon-fibre-panels-made-on-the-makera-z1/)

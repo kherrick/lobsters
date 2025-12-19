@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-19, 21:46:19](https://lobste.rs/s/xbry8q/lightest_notes_app_implementation_99_loc) - [The lightest notes app implementation in 99 loc](https://medv.io/notes/#HcmxDcIwEAXQ3lP8LMASNNCzwAl9bCtOzvJdkOhS0VAhpaHKAGyVCTICEq99Jz467Ov7FcJFekJQVHuIwxNRJRKmU7sS27zAUzZk-1_JMTnNMarTkIdaOHB08awjztv8uRN1crhGemKDKW7SDtjX7zOEYyKbdT8=)
 * [2025-12-19, 20:26:47](https://lobste.rs/s/s5zoaj/scariest_boot_loader_code) - [The scariest boot loader code](http://miod.online.fr/software/openbsd/stories/boot_hppa.html)
 * [2025-12-19, 19:25:58](https://lobste.rs/s/yyrioz/pi_5_nas_with_custom_carbon_fibre_panels) - [Pi 5 NAS With Custom Carbon Fibre Panels, Made on the Makera Z1](https://www.the-diy-life.com/pi-5-nas-with-custom-carbon-fibre-panels-made-on-the-makera-z1/)
 * [2025-12-19, 18:36:23](https://lobste.rs/s/j2mrft/lite_3_json_compatible_zero_copy) - [Lite^3, a JSON-Compatible Zero-Copy Serialization Format](https://github.com/fastserial/lite3)
@@ -19,7 +20,6 @@
 * [2025-12-19, 01:02:15](https://lobste.rs/s/aop0pm/prompt_caching_10x_cheaper_llm_tokens_how) - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)
 * [2025-12-18, 19:43:17](https://lobste.rs/s/dicrsi/please_just_try_htmx) - [Please Just Try HTMX](https://pleasejusttryhtmx.com/)
 * [2025-12-18, 19:23:56](https://lobste.rs/s/amzgrw/how_hack_discord_vercel_more_with_one_easy) - [how to hack discord, vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
-* [2025-12-18, 18:39:35](https://lobste.rs/s/rfen9d/headson_head_tail_for_structured_data) - [headson: head/tail for structured data - summarize/preview JSON/YAML and source code](https://github.com/kantord/headson)
 * [2025-12-18, 16:38:41](https://lobste.rs/s/v139bi/i_got_hacked_my_server_started_mining) - [I got hacked, my server started mining Monero this morning](https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/)
 * [2025-12-18, 16:31:33](https://lobste.rs/s/8caabc/hardware_attested_nix_builds) - [Hardware-Attested Nix Builds](https://garnix.io/blog/attested-nix-builds/)
 * [2025-12-18, 16:09:54](https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
