@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-19, 18:36:23",
+      "https://lobste.rs/s/j2mrft/lite_3_json_compatible_zero_copy"
+    ],
+    [
+      "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
+      "https://github.com/fastserial/lite3"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 17:58:33",
       "https://lobste.rs/s/txgnpv/8_bit_bolero_world_s_most_ambitious"
     ],
@@ -137,16 +147,6 @@
     [
       "Prompt caching: 10x cheaper LLM tokens, but how?",
       "https://ngrok.com/blog/prompt-caching/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 21:23:24",
-      "https://lobste.rs/s/w05bzq/lionsos_design_implementation"
-    ],
-    [
-      "LionsOS Design, Implementation and Performance",
-      "https://arxiv.org/html/2501.06234v2"
     ]
   ],
   [
