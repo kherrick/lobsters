@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-12-19, 09:51:01](https://lobste.rs/s/e6zmjh/go_ahead_self_host_postgres) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres)
-* [2025-12-19, 08:56:12](https://lobste.rs/s/juxgre/generate_play_music_playlists_on_apple) - [generate and play music playlists on apple music](https://github.com/GNtousakis/llm-music)
 * [2025-12-19, 04:50:40](https://lobste.rs/s/1k5vwr/reinventing_dial_up_modem_2019) - [Reinventing the dial-up modem (2019)](https://saket.me/dtmf-tones/)
 * [2025-12-19, 02:37:58](https://lobste.rs/s/3ktgvh/booleans_don_t_exist_ruby_2022) - [Booleans don't exist in Ruby (2022)](https://thoughtbot.com/blog/what-is-a-boolean)
 * [2025-12-19, 01:02:15](https://lobste.rs/s/aop0pm/prompt_caching_10x_cheaper_llm_tokens_how) - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)
@@ -22,6 +21,7 @@
 * [2025-12-18, 13:52:39](https://lobste.rs/s/hlqzhx/dear_acm_you_re_doing_ai_wrong_you_can_still) - [Dear ACM, you're doing AI wrong but you can still get it right](https://anil.recoil.org/notes/acm-ai-recs)
 * [2025-12-18, 13:10:05](https://lobste.rs/s/l6nsa1/remote_code_execution_via_nd6_router) - [Remote code execution via ND6 Router Advertisements](https://www.freebsd.org/security/advisories/FreeBSD-SA-25:12.rtsold.asc)
 * [2025-12-18, 11:12:25](https://lobste.rs/s/eanubs/obs_studio_gets_new_renderer_how_obs) - [OBS Studio Gets A New Renderer: How OBS Adopted Metal](https://obsproject.com/blog/obs-studio-gets-a-new-renderer)
+* [2025-12-18, 10:33:03](https://lobste.rs/s/va2vtw/nvme_is_not_hard_disk_2021) - [NVME is not a hard disk (2021)](https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html)
 * [2025-12-18, 08:45:26](https://lobste.rs/s/k9cyk3/microsoft_quietly_kills_intellicode) - [Microsoft quietly kills IntelliCode in favor of the paid Copilot](https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx)
 * [2025-12-17, 17:31:14](https://lobste.rs/s/nesn9g/linux_kernel_rust_code_sees_its_first_cve) - [Linux Kernel Rust Code Sees Its First CVE Vulnerability](https://www.phoronix.com/news/First-Linux-Rust-CVE)
 * [2025-12-17, 13:10:05](https://lobste.rs/s/ammoxm/yep_passkeys_still_have_problems) - [Yep, Passkeys Still Have Problems](https://fy.blackhats.net.au/blog/2025-12-17-yep-passkeys-still-have-problems/)
