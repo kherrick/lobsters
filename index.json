@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-19, 14:20:51",
+      "https://lobste.rs/s/4f4bd9/finite_state_transducers_for"
+    ],
+    [
+      "Finite-state transducers for substitution tilings",
+      "https://arxiv.org/abs/2512.16595"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 14:20:45",
+      "https://lobste.rs/s/m1teof/wireguard_implementation_written_rust"
+    ],
+    [
+      "WireGuard® implementation written in Rust",
+      "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"
+    ]
+  ],
+  [
+    [
       "2025-12-19, 13:42:19",
       "https://lobste.rs/s/jtgdye/leaseguard_raft_leases_done_right"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-12-18, 11:12:25",
-      "https://lobste.rs/s/eanubs/obs_studio_gets_new_renderer_how_obs"
-    ],
-    [
-      "OBS Studio Gets A New Renderer: How OBS Adopted Metal",
-      "https://obsproject.com/blog/obs-studio-gets-a-new-renderer"
-    ]
-  ],
-  [
-    [
       "2025-12-18, 08:45:26",
       "https://lobste.rs/s/k9cyk3/microsoft_quietly_kills_intellicode"
     ],
     [
       "Microsoft quietly kills IntelliCode in favor of the paid Copilot",
       "https://visualstudiomagazine.com/articles/2025/12/17/microsoft-quietly-kills-intellicode-as-ai-strategy-shifts-to-copilot.aspx"
-    ]
-  ],
-  [
-    [
-      "2025-12-17, 17:31:14",
-      "https://lobste.rs/s/nesn9g/linux_kernel_rust_code_sees_its_first_cve"
-    ],
-    [
-      "Linux Kernel Rust Code Sees Its First CVE Vulnerability",
-      "https://www.phoronix.com/news/First-Linux-Rust-CVE"
     ]
   ]
 ]
