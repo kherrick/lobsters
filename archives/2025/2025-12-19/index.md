@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-19](index.md)
 
+* [2025-12-19, 08:56:12](https://lobste.rs/s/juxgre/generate_play_music_playlists_on_apple) - [generate and play music playlists on apple music](https://github.com/GNtousakis/llm-music)
 * [2025-12-19, 04:50:40](https://lobste.rs/s/1k5vwr/reinventing_dial_up_modem_2019) - [Reinventing the dial-up modem (2019)](https://saket.me/dtmf-tones/)
 * [2025-12-19, 02:37:58](https://lobste.rs/s/3ktgvh/booleans_don_t_exist_ruby_2022) - [Booleans don't exist in Ruby (2022)](https://thoughtbot.com/blog/what-is-a-boolean)
 * [2025-12-19, 01:02:15](https://lobste.rs/s/aop0pm/prompt_caching_10x_cheaper_llm_tokens_how) - [Prompt caching: 10x cheaper LLM tokens, but how?](https://ngrok.com/blog/prompt-caching/)
