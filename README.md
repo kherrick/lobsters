@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-20, 13:13:42](https://lobste.rs/s/codkgd/proving_bounds_for_randomized_maxcut) - [Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 12:08:06](https://lobste.rs/s/jjducr/unifybio_power_tools_for_translational) - [UnifyBio: Power Tools for Translational Data Science - Benjamin Kamphaus](https://www.youtube.com/watch?v=HU-uwSUZETw)
 * [2025-12-20, 07:03:27](https://lobste.rs/s/ofpgev/business_slos) - [Business SLOs](https://medium.com/@haagwee/business-slos-4992d7435ff9)
 * [2025-12-20, 06:33:54](https://lobste.rs/s/cmlspo/decade_on_datomic_davis_shepherd) - [A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)](https://www.youtube.com/watch?v=gJ9UZlr6C6M)
@@ -23,7 +24,6 @@
 * [2025-12-19, 13:42:19](https://lobste.rs/s/jtgdye/leaseguard_raft_leases_done_right) - [LeaseGuard: Raft Leases Done Right](https://emptysqua.re/blog/leaseguard-raft-leader-leases-done-right/)
 * [2025-12-19, 12:30:02](https://lobste.rs/s/phykxt/when_scope_lies_wildcard_pattern_drop) - [When Scope Lies: The Wildcard Pattern Drop Footgun in Rust](https://obeli.sk/blog/when-scope-lies/)
 * [2025-12-19, 09:51:01](https://lobste.rs/s/e6zmjh/go_ahead_self_host_postgres) - [Go ahead, self-host Postgres](https://pierce.dev/notes/go-ahead-self-host-postgres)
-* [2025-12-18, 19:23:56](https://lobste.rs/s/amzgrw/how_hack_discord_vercel_more_with_one_easy) - [how to hack discord, vercel and more with one easy trick](https://kibty.town/blog/mintlify/)
 * [2025-12-18, 16:09:54](https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven) - [Your job is to deliver code you have proven to work](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)
 
 ## [Archives](archives/index.md)
