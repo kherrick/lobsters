@@ -1,12 +1,42 @@
 [
   [
     [
-      "2025-12-20, 00:32:19",
-      "https://lobste.rs/s/adwg2h/unix_v4_tape"
+      "2025-12-20, 02:19:19",
+      "https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes"
     ],
     [
-      "Unix v4 Tape",
-      "https://discuss.systems/@ricci/115748594116050292"
+      "Introducing CSS Grid Lanes",
+      "https://webkit.org/blog/17660/introducing-css-grid-lanes/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 01:10:13",
+      "https://lobste.rs/s/xrjgqz/exposing_game_servers_over_tailscale"
+    ],
+    [
+      "Exposing game servers over Tailscale",
+      "https://chameth.com/exposing-game-servers-over-tailscale/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 00:16:33",
+      "https://lobste.rs/s/jflix6/unix_v4_tape_from_university_utah"
+    ],
+    [
+      "UNIX V4 tape from University of Utah",
+      "https://archive.org/details/utah_unix_v4_raw"
+    ]
+  ],
+  [
+    [
+      "2025-12-19, 23:18:22",
+      "https://lobste.rs/s/qelpuh/performance_hints"
+    ],
+    [
+      "Performance Hints",
+      "https://abseil.io/fast/hints.html"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "What do people love about Rust?",
       "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 22:04:02",
-      "https://lobste.rs/s/gvua4w/list_books_learn_programming_with_ruby"
-    ],
-    [
-      "A List of Books to Learn Programming with Ruby and Rails (2023)",
-      "https://www.writesoftwarewell.com/books-to-learn-ruby-and-rails/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "The scariest boot loader code",
       "http://miod.online.fr/software/openbsd/stories/boot_hppa.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 19:25:58",
-      "https://lobste.rs/s/yyrioz/pi_5_nas_with_custom_carbon_fibre_panels"
-    ],
-    [
-      "Pi 5 NAS With Custom Carbon Fibre Panels, Made on the Makera Z1",
-      "https://www.the-diy-life.com/pi-5-nas-with-custom-carbon-fibre-panels-made-on-the-makera-z1/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Booleans don't exist in Ruby (2022)",
       "https://thoughtbot.com/blog/what-is-a-boolean"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 01:02:15",
-      "https://lobste.rs/s/aop0pm/prompt_caching_10x_cheaper_llm_tokens_how"
-    ],
-    [
-      "Prompt caching: 10x cheaper LLM tokens, but how?",
-      "https://ngrok.com/blog/prompt-caching/"
     ]
   ],
   [
