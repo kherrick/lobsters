@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 13:13:42",
+      "https://lobste.rs/s/codkgd/proving_bounds_for_randomized_maxcut"
+    ],
+    [
+      "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
+      "https://abhamra.com/blog/randomized-maxcut/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 12:08:06",
       "https://lobste.rs/s/jjducr/unifybio_power_tools_for_translational"
     ],
@@ -227,16 +237,6 @@
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 19:23:56",
-      "https://lobste.rs/s/amzgrw/how_hack_discord_vercel_more_with_one_easy"
-    ],
-    [
-      "how to hack discord, vercel and more with one easy trick",
-      "https://kibty.town/blog/mintlify/"
     ]
   ],
   [
