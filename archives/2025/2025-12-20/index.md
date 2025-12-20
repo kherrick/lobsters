@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-20](index.md)
+
+* [2025-12-20, 00:32:19](https://lobste.rs/s/adwg2h/unix_v4_tape) - [Unix v4 Tape](https://discuss.systems/@ricci/115748594116050292)
