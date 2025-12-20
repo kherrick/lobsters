@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 22:38:53](https://lobste.rs/s/zq9zzx/bedrock_2012) - [Bedrock (2012)](https://infrequently.org/2012/04/bedrock/)
 * [2025-12-20, 21:27:12](https://lobste.rs/s/vdexco/granule_statically_typed_linear) - [Granule, a statically-typed linear functional language with graded modal types](https://github.com/granule-project/granule)
 * [2025-12-20, 21:17:47](https://lobste.rs/s/ikae1r/backing_up_spotify) - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
 * [2025-12-20, 20:25:34](https://lobste.rs/s/uob7wm/big_ideas_relay) - [The Big Ideas in Relay](https://youtu.be/yInL1aPZjvI)
