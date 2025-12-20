@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-20, 02:39:37",
-      "https://lobste.rs/s/rf5t2n/pedagogy_recommendations"
-    ],
-    [
-      "Pedagogy Recommendations",
-      "https://parentheticallyspeaking.org/articles/pedagogy-recommendations/"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 02:19:19",
       "https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes"
     ],
@@ -217,6 +207,16 @@
     [
       "I got hacked, my server started mining Monero this morning",
       "https://blog.jakesaunders.dev/my-server-started-mining-monero-this-morning/"
+    ]
+  ],
+  [
+    [
+      "2025-12-18, 16:31:33",
+      "https://lobste.rs/s/8caabc/hardware_attested_nix_builds"
+    ],
+    [
+      "Hardware-Attested Nix Builds",
+      "https://garnix.io/blog/attested-nix-builds/"
     ]
   ],
   [
