@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-20, 15:37:54](https://lobste.rs/s/witasq/detecting_goroutine_leaks_with_synctest) - [Detecting goroutine leaks with synctest/pprof](https://antonz.org/detecting-goroutine-leaks/)
 * [2025-12-20, 15:15:51](https://lobste.rs/s/ipqdsg/targeting_by_reference_shadow_dom) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 * [2025-12-20, 15:03:24](https://lobste.rs/s/wds9um/hash_tables_go_advantage_self_hosted) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 * [2025-12-20, 13:50:26](https://lobste.rs/s/glvd20/mysterious_forces_steering_views_on) - [The Mysterious Forces Steering Views on Hacker News](https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/)
@@ -7,7 +8,6 @@
 * [2025-12-20, 07:03:27](https://lobste.rs/s/ofpgev/business_slos) - [Business SLOs](https://medium.com/@haagwee/business-slos-4992d7435ff9)
 * [2025-12-20, 06:33:54](https://lobste.rs/s/cmlspo/decade_on_datomic_davis_shepherd) - [A Decade on Datomic - Davis Shepherd & Jonathan Indig (Netflix)](https://www.youtube.com/watch?v=gJ9UZlr6C6M)
 * [2025-12-20, 06:22:55](https://lobste.rs/s/rlnnbu/porting_html5_parser_swift) - [Porting an HTML5 Parser to Swift](https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift)
-* [2025-12-20, 05:58:49](https://lobste.rs/s/miqwof/understanding_dart_class_modifiers_by) - [Understanding Dart Class Modifiers by Using Lattices](https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/)
 * [2025-12-20, 02:39:37](https://lobste.rs/s/rf5t2n/pedagogy_recommendations) - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/)
 * [2025-12-20, 02:19:19](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes) - [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-20, 01:10:13](https://lobste.rs/s/xrjgqz/exposing_game_servers_over_tailscale) - [Exposing game servers over Tailscale](https://chameth.com/exposing-game-servers-over-tailscale/)
