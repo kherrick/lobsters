@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 22:38:53",
+      "https://lobste.rs/s/zq9zzx/bedrock_2012"
+    ],
+    [
+      "Bedrock (2012)",
+      "https://infrequently.org/2012/04/bedrock/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 21:27:12",
       "https://lobste.rs/s/vdexco/granule_statically_typed_linear"
     ],
@@ -37,6 +47,16 @@
     [
       "Ruby's website got an overhaul",
       "https://www.ruby-lang.org/en/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 18:52:25",
+      "https://lobste.rs/s/wowkrn/meow_domain_for_queer_community_starts"
+    ],
+    [
+      ".meow, the domain for the Queer Community, starts fundraising",
+      "https://www.kickstarter.com/projects/dotmeow/meow-next-round-gtld-application"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-20, 01:10:13",
-      "https://lobste.rs/s/xrjgqz/exposing_game_servers_over_tailscale"
-    ],
-    [
-      "Exposing game servers over Tailscale",
-      "https://chameth.com/exposing-game-servers-over-tailscale/"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 00:16:33",
       "https://lobste.rs/s/jflix6/unix_v4_tape_from_university_utah"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust’s Block Pattern",
       "https://notgull.net/block-pattern/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 18:36:23",
-      "https://lobste.rs/s/j2mrft/lite_3_json_compatible_zero_copy"
-    ],
-    [
-      "Lite^3, a JSON-Compatible Zero-Copy Serialization Format",
-      "https://github.com/fastserial/lite3"
     ]
   ],
   [
