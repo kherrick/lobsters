@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 13:50:26](https://lobste.rs/s/glvd20/mysterious_forces_steering_views_on) - [The Mysterious Forces Steering Views on Hacker News](https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/)
 * [2025-12-20, 13:13:42](https://lobste.rs/s/codkgd/proving_bounds_for_randomized_maxcut) - [Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 12:08:06](https://lobste.rs/s/jjducr/unifybio_power_tools_for_translational) - [UnifyBio: Power Tools for Translational Data Science - Benjamin Kamphaus](https://www.youtube.com/watch?v=HU-uwSUZETw)
 * [2025-12-20, 07:03:27](https://lobste.rs/s/ofpgev/business_slos) - [Business SLOs](https://medium.com/@haagwee/business-slos-4992d7435ff9)
