@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 20:25:34](https://lobste.rs/s/uob7wm/big_ideas_relay) - [The Big Ideas in Relay](https://youtu.be/yInL1aPZjvI)
 * [2025-12-20, 19:36:16](https://lobste.rs/s/8rpa2g/ruby_s_website_got_overhaul) - [Ruby's website got an overhaul](https://www.ruby-lang.org/en/)
 * [2025-12-20, 18:52:25](https://lobste.rs/s/wowkrn/meow_domain_for_queer_community_starts) - [.meow, the domain for the Queer Community, starts fundraising](https://www.kickstarter.com/projects/dotmeow/meow-next-round-gtld-application)
 * [2025-12-20, 18:26:44](https://lobste.rs/s/dmqgar/automated_equality_checks_c_with) - [Automated Equality Checks in C++ with Reflection (C++26)](https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/)
