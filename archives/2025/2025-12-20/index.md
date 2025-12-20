@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 16:43:03](https://lobste.rs/s/derigv/updated_llm_benchmark_gemini_3_flash) - [Updated LLM Benchmark (Gemini 3 Flash)](https://entropicthoughts.com/updated-llm-benchmark)
 * [2025-12-20, 15:37:54](https://lobste.rs/s/witasq/detecting_goroutine_leaks_with_synctest) - [Detecting goroutine leaks with synctest/pprof](https://antonz.org/detecting-goroutine-leaks/)
 * [2025-12-20, 15:15:51](https://lobste.rs/s/ipqdsg/targeting_by_reference_shadow_dom) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 * [2025-12-20, 15:03:24](https://lobste.rs/s/wds9um/hash_tables_go_advantage_self_hosted) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
