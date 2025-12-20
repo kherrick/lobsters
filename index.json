@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 21:27:12",
+      "https://lobste.rs/s/vdexco/granule_statically_typed_linear"
+    ],
+    [
+      "Granule, a statically-typed linear functional language with graded modal types",
+      "https://github.com/granule-project/granule"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 21:17:47",
       "https://lobste.rs/s/ikae1r/backing_up_spotify"
     ],
@@ -27,16 +37,6 @@
     [
       "Ruby's website got an overhaul",
       "https://www.ruby-lang.org/en/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 18:52:25",
-      "https://lobste.rs/s/wowkrn/meow_domain_for_queer_community_starts"
-    ],
-    [
-      ".meow, the domain for the Queer Community, starts fundraising",
-      "https://www.kickstarter.com/projects/dotmeow/meow-next-round-gtld-application"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
       "https://abhamra.com/blog/randomized-maxcut/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 07:03:27",
+      "https://lobste.rs/s/ofpgev/business_slos"
+    ],
+    [
+      "Business SLOs",
+      "https://medium.com/@haagwee/business-slos-4992d7435ff9"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Go ahead, self-host Postgres",
       "https://pierce.dev/notes/go-ahead-self-host-postgres"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 16:09:54",
-      "https://lobste.rs/s/t7dmam/your_job_is_deliver_code_you_have_proven"
-    ],
-    [
-      "Your job is to deliver code you have proven to work",
-      "https://simonwillison.net/2025/Dec/18/code-proven-to-work/"
     ]
   ]
 ]
