@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 23:32:15",
+      "https://lobste.rs/s/tilcty/i_spent_week_without_ipv4_understand_ipv6"
+    ],
+    [
+      "I spent a WEEK without IPv4 to understand IPv6 transition mechanisms",
+      "https://www.apalrd.net/posts/2023/network_ipv6/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 22:38:53",
       "https://lobste.rs/s/zq9zzx/bedrock_2012"
     ],
@@ -157,16 +167,6 @@
     [
       "Introducing CSS Grid Lanes",
       "https://webkit.org/blog/17660/introducing-css-grid-lanes/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 01:10:13",
-      "https://lobste.rs/s/xrjgqz/exposing_game_servers_over_tailscale"
-    ],
-    [
-      "Exposing game servers over Tailscale",
-      "https://chameth.com/exposing-game-servers-over-tailscale/"
     ]
   ],
   [
