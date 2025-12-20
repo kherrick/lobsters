@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-20](index.md)
 
+* [2025-12-20, 05:58:49](https://lobste.rs/s/miqwof/understanding_dart_class_modifiers_by) - [Understanding Dart Class Modifiers by Using Lattices](https://modulovalue.com/blog/understanding-dart-class-modifiers-lattices/)
 * [2025-12-20, 02:39:37](https://lobste.rs/s/rf5t2n/pedagogy_recommendations) - [Pedagogy Recommendations](https://parentheticallyspeaking.org/articles/pedagogy-recommendations/)
 * [2025-12-20, 02:19:19](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes) - [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
 * [2025-12-20, 01:10:13](https://lobste.rs/s/xrjgqz/exposing_game_servers_over_tailscale) - [Exposing game servers over Tailscale](https://chameth.com/exposing-game-servers-over-tailscale/)
