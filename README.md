@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-20, 18:26:44](https://lobste.rs/s/dmqgar/automated_equality_checks_c_with) - [Automated Equality Checks in C++ with Reflection (C++26)](https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/)
 * [2025-12-20, 16:43:03](https://lobste.rs/s/derigv/updated_llm_benchmark_gemini_3_flash) - [Updated LLM Benchmark (Gemini 3 Flash)](https://entropicthoughts.com/updated-llm-benchmark)
 * [2025-12-20, 15:37:54](https://lobste.rs/s/witasq/detecting_goroutine_leaks_with_synctest) - [Detecting goroutine leaks with synctest/pprof](https://antonz.org/detecting-goroutine-leaks/)
-* [2025-12-20, 15:15:51](https://lobste.rs/s/ipqdsg/targeting_by_reference_shadow_dom) - [Targeting by Reference in the Shadow DOM](https://meyerweb.com/eric/thoughts/2025/12/19/targeting-by-reference-in-the-shadow-dom/)
 * [2025-12-20, 15:03:24](https://lobste.rs/s/wds9um/hash_tables_go_advantage_self_hosted) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 * [2025-12-20, 13:50:26](https://lobste.rs/s/glvd20/mysterious_forces_steering_views_on) - [The Mysterious Forces Steering Views on Hacker News](https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/)
 * [2025-12-20, 13:13:42](https://lobste.rs/s/codkgd/proving_bounds_for_randomized_maxcut) - [Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
