@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-12-20, 20:25:34",
+      "https://lobste.rs/s/uob7wm/big_ideas_relay"
+    ],
+    [
+      "The Big Ideas in Relay",
+      "https://youtu.be/yInL1aPZjvI"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 19:36:16",
       "https://lobste.rs/s/8rpa2g/ruby_s_website_got_overhaul"
     ],
     [
       "Ruby's website got an overhaul",
       "https://www.ruby-lang.org/en/"
+    ]
+  ],
+  [
+    [
+      "2025-12-20, 18:52:25",
+      "https://lobste.rs/s/wowkrn/meow_domain_for_queer_community_starts"
+    ],
+    [
+      ".meow, the domain for the Queer Community, starts fundraising",
+      "https://www.kickstarter.com/projects/dotmeow/meow-next-round-gtld-application"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-19, 20:26:47",
-      "https://lobste.rs/s/s5zoaj/scariest_boot_loader_code"
-    ],
-    [
-      "The scariest boot loader code",
-      "http://miod.online.fr/software/openbsd/stories/boot_hppa.html"
-    ]
-  ],
-  [
-    [
       "2025-12-19, 18:36:23",
       "https://lobste.rs/s/j2mrft/lite_3_json_compatible_zero_copy"
     ],
@@ -197,16 +207,6 @@
     [
       "A love letter to Raycast",
       "https://rmoff.net/2025/12/18/a-love-letter-to-raycast/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 15:44:56",
-      "https://lobste.rs/s/1ey3pm/map_operator_should_be_nodiscard"
-    ],
-    [
-      "map::operator[] should be nodiscard",
-      "https://quuxplusone.github.io/blog/2025/12/18/nodiscard-operator-bracket/"
     ]
   ],
   [
