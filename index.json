@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-20, 12:08:06",
+      "https://lobste.rs/s/jjducr/unifybio_power_tools_for_translational"
+    ],
+    [
+      "UnifyBio: Power Tools for Translational Data Science - Benjamin Kamphaus",
+      "https://www.youtube.com/watch?v=HU-uwSUZETw"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 07:03:27",
       "https://lobste.rs/s/ofpgev/business_slos"
     ],
@@ -237,16 +247,6 @@
     [
       "Your job is to deliver code you have proven to work",
       "https://simonwillison.net/2025/Dec/18/code-proven-to-work/"
-    ]
-  ],
-  [
-    [
-      "2025-12-18, 14:11:05",
-      "https://lobste.rs/s/h50lml/toml_1_1_0_released"
-    ],
-    [
-      "TOML 1.1.0 released",
-      "https://github.com/toml-lang/toml/releases/tag/1.1.0"
     ]
   ]
 ]
