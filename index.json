@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-12-20, 18:26:44",
+      "https://lobste.rs/s/dmqgar/automated_equality_checks_c_with"
+    ],
+    [
+      "Automated Equality Checks in C++ with Reflection (C++26)",
+      "https://lemire.me/blog/2025/11/09/automated-equality-checks-in-c-with-reflection-c26/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 15:03:24",
       "https://lobste.rs/s/wds9um/hash_tables_go_advantage_self_hosted"
     ],
@@ -227,16 +237,6 @@
     [
       "UNIX V4 tape from University of Utah",
       "https://archive.org/details/utah_unix_v4_raw"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 22:47:30",
-      "https://lobste.rs/s/uo16ri/what_do_people_love_about_rust"
-    ],
-    [
-      "What do people love about Rust?",
-      "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust/"
     ]
   ],
   [
