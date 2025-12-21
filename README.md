@@ -2,6 +2,7 @@
 
 * [2025-12-21, 20:05:09](https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue) - [Thirteen years of Rust and the birth of Rue](https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/)
 * [2025-12-21, 18:36:20](https://lobste.rs/s/lyykk0/dumbphone_journey_eight_month_update) - [dumbphone journey -- eight month update](https://blog.frog.equipment/dumbphone-journey-eight-month-update)
+* [2025-12-21, 18:26:36](https://lobste.rs/s/fvvnl4/what_s_new_python_3_15) - [What’s new in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
 * [2025-12-21, 17:29:25](https://lobste.rs/s/qoqfwz/inverse_parentheses) - [Inverse parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-21, 17:24:22](https://lobste.rs/s/csce7j/elf_crimes_program_interpreter_fun) - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
 * [2025-12-21, 16:56:57](https://lobste.rs/s/nefrtj/arin_ipv4_misissue_incident) - [ARIN IPv4 misissue incident](https://www.arin.net/announcements/20251212/)
@@ -18,7 +19,6 @@
 * [2025-12-21, 10:38:30](https://lobste.rs/s/xzxetz/polyproto_refreshingly_simple) - [polyproto: A refreshingly simple decentralised, federated protocol](https://polyproto.org/)
 * [2025-12-21, 09:13:23](https://lobste.rs/s/gsndus/task_injection_exploiting_agency) - [Task Injection – Exploiting agency of autonomous AI agents](https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents?)
 * [2025-12-21, 09:13:17](https://lobste.rs/s/wlyjsj/text_similarity_search_via_normalized) - [Text similarity search via normalized compression distance](https://discourse.haskell.org/t/vibe-coding-text-similarity-search-via-normalized-compression-distance/13440)
-* [2025-12-21, 05:11:59](https://lobste.rs/s/ckgvbp/shooting_myself_foot_with_git_by_accident) - [Shooting myself in the foot with Git by accident](https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops)
 * [2025-12-21, 04:09:23](https://lobste.rs/s/wuvuhk/texas_instruments_cc_40_invades) - [The Texas Instruments CC-40 invades Gopherspace (plus TI-74 BASICALC)](http://oldvcr.blogspot.com/2025/12/the-texas-instruments-cc-40-invades.html)
 * [2025-12-21, 03:26:39](https://lobste.rs/s/wrcgvd/romforth_ultra_portable_small_baremetal) - [romforth: Ultra Portable, Small, Baremetal Forth for various processors](https://github.com/romforth/romforth)
 * [2025-12-21, 00:41:14](https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix) - [Go feature: Modernized go fix](https://antonz.org/accepted/modernized-go-fix/)
