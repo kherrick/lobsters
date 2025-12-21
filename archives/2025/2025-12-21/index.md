@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 11:22:16](https://lobste.rs/s/df96zx/unix_v4_tape_running_simh_pdp11_emu_on_irix) - [The \"UNIX v4 tape\" running in simh PDP11 emu on IRIX](https://oldbytes.space/@flexion/115752573933914452)
 * [2025-12-21, 10:48:57](https://lobste.rs/s/s8kode/tag_proposal_decentralization) - [Tag proposal: decentralization](https://lobste.rs/s/s8kode/tag_proposal_decentralization)
 * [2025-12-21, 10:38:30](https://lobste.rs/s/xzxetz/polyproto_refreshingly_simple) - [polyproto: A refreshingly simple decentralised, federated protocol](https://polyproto.org/)
 * [2025-12-21, 09:13:23](https://lobste.rs/s/gsndus/task_injection_exploiting_agency) - [Task Injection – Exploiting agency of autonomous AI agents](https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents?)
