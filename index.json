@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-21, 09:13:23",
+      "https://lobste.rs/s/gsndus/task_injection_exploiting_agency"
+    ],
+    [
+      "Task Injection – Exploiting agency of autonomous AI agents",
+      "https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents?"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 09:13:17",
+      "https://lobste.rs/s/wlyjsj/text_similarity_search_via_normalized"
+    ],
+    [
+      "Text similarity search via normalized compression distance",
+      "https://discourse.haskell.org/t/vibe-coding-text-similarity-search-via-normalized-compression-distance/13440"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 05:28:13",
       "https://lobste.rs/s/cntutm/introduction_property_based_testing"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-12-21, 03:12:26",
-      "https://lobste.rs/s/nghxxz/faster_practical_modular_inversion"
-    ],
-    [
-      "Faster practical modular inversion",
-      "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 00:41:14",
       "https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix"
     ],
@@ -67,16 +77,6 @@
     [
       "I spent a week without IPv4 to understand IPv6 transition mechanisms",
       "https://www.apalrd.net/posts/2023/network_ipv6/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 22:38:53",
-      "https://lobste.rs/s/zq9zzx/bedrock_2012"
-    ],
-    [
-      "Bedrock (2012)",
-      "https://infrequently.org/2012/04/bedrock/"
     ]
   ],
   [
