@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-21, 22:19:48",
+      "https://lobste.rs/s/rbobxh/logging_sucks_your_logs_are_lying_you"
+    ],
+    [
+      "Logging Sucks - Your Logs Are Lying To You",
+      "https://loggingsucks.com/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 22:06:10",
+      "https://lobste.rs/s/pbxwjt/i_program_on_subway"
+    ],
+    [
+      "I Program on the Subway",
+      "https://www.scd31.com/posts/programming-on-the-subway"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 20:05:09",
       "https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-12-21, 13:34:16",
-      "https://lobste.rs/s/oey5qc/web_html_things_avoid_2017"
-    ],
-    [
-      "Web/HTML things to avoid (2017)",
-      "https://www.catb.org/~esr/html-hell.html"
-    ]
-  ],
-  [
-    [
       "2025-12-21, 11:53:26",
       "https://lobste.rs/s/ascmbo/inner_platform_effect_2006"
     ],
@@ -177,16 +187,6 @@
     [
       "Task Injection – Exploiting agency of autonomous AI agents",
       "https://bughunters.google.com/blog/4823857172971520/task-injection-exploiting-agency-of-autonomous-ai-agents?"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 09:13:17",
-      "https://lobste.rs/s/wlyjsj/text_similarity_search_via_normalized"
-    ],
-    [
-      "Text similarity search via normalized compression distance",
-      "https://discourse.haskell.org/t/vibe-coding-text-similarity-search-via-normalized-compression-distance/13440"
     ]
   ],
   [
