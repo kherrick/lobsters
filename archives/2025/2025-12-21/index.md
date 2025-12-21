@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 11:53:26](https://lobste.rs/s/ascmbo/inner_platform_effect_2006) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
+* [2025-12-21, 11:51:25](https://lobste.rs/s/yyury2/mnemonics_for_hidden_controls_win32) - [Mnemonics for hidden controls in Win32](https://www.abareplace.com/blog/hidden_mnemonics/)
 * [2025-12-21, 11:22:16](https://lobste.rs/s/df96zx/unix_v4_tape_running_simh_pdp11_emu_on_irix) - [The \"UNIX v4 tape\" running in simh PDP11 emu on IRIX](https://oldbytes.space/@flexion/115752573933914452)
 * [2025-12-21, 10:48:57](https://lobste.rs/s/s8kode/tag_proposal_decentralization) - [Tag proposal: decentralization](https://lobste.rs/s/s8kode/tag_proposal_decentralization)
 * [2025-12-21, 10:38:30](https://lobste.rs/s/xzxetz/polyproto_refreshingly_simple) - [polyproto: A refreshingly simple decentralised, federated protocol](https://polyproto.org/)
