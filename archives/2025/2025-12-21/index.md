@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 16:56:57](https://lobste.rs/s/nefrtj/arin_ipv4_misissue_incident) - [ARIN IPv4 misissue incident](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:54:45](https://lobste.rs/s/crvxnv/computational_complexity_new_york_times) - [Computational complexity of New York Times games](https://www.arxiv.org/pdf/2509.10846)
 * [2025-12-21, 15:32:48](https://lobste.rs/s/vvsnhj/exploring_speculative_jit_compilation) - [Exploring Speculative JIT Compilation for Emacs Lisp with Java](https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/)
 * [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can't Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)

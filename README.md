@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-21, 16:56:57](https://lobste.rs/s/nefrtj/arin_ipv4_misissue_incident) - [ARIN IPv4 misissue incident](https://www.arin.net/announcements/20251212/)
 * [2025-12-21, 15:54:45](https://lobste.rs/s/crvxnv/computational_complexity_new_york_times) - [Computational complexity of New York Times games](https://www.arxiv.org/pdf/2509.10846)
 * [2025-12-21, 15:32:48](https://lobste.rs/s/vvsnhj/exploring_speculative_jit_compilation) - [Exploring Speculative JIT Compilation for Emacs Lisp with Java](https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/)
 * [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can't Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)
@@ -24,7 +25,6 @@
 * [2025-12-20, 15:03:24](https://lobste.rs/s/wds9um/hash_tables_go_advantage_self_hosted) - [Hash tables in Go and advantage of self-hosted compilers](https://rushter.com/blog/go-and-hashmaps/)
 * [2025-12-20, 13:50:26](https://lobste.rs/s/glvd20/mysterious_forces_steering_views_on) - [The Mysterious Forces Steering Views on Hacker News](https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/)
 * [2025-12-20, 02:19:19](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes) - [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-* [2025-12-19, 17:53:00](https://lobste.rs/s/3vdhci/help_my_website_is_too_small) - [Help my website is too small](https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/)
 
 ## [Archives](archives/index.md)
 
