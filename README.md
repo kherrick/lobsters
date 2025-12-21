@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can't Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)
 * [2025-12-21, 14:45:15](https://lobste.rs/s/r5hdwa/how_i_protect_my_forgejo_instance_from_ai) - [How I protect my forgejo instance from AI Web Crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
 * [2025-12-21, 14:06:02](https://lobste.rs/s/rgpalc/atomic_time_scale_at_nist_boulder_has) - [The atomic time scale at NIST Boulder has failed](https://journa.host/@w7voa/115754351058263109)
 * [2025-12-21, 13:34:16](https://lobste.rs/s/oey5qc/web_html_things_avoid_2017) - [Web/HTML things to avoid (2017)](https://www.catb.org/~esr/html-hell.html)
@@ -23,7 +24,6 @@
 * [2025-12-20, 13:50:26](https://lobste.rs/s/glvd20/mysterious_forces_steering_views_on) - [The Mysterious Forces Steering Views on Hacker News](https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/)
 * [2025-12-20, 13:13:42](https://lobste.rs/s/codkgd/proving_bounds_for_randomized_maxcut) - [Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4](https://abhamra.com/blog/randomized-maxcut/)
 * [2025-12-20, 02:19:19](https://lobste.rs/s/hgqgdt/introducing_css_grid_lanes) - [Introducing CSS Grid Lanes](https://webkit.org/blog/17660/introducing-css-grid-lanes/)
-* [2025-12-20, 00:16:33](https://lobste.rs/s/jflix6/unix_v4_tape_from_university_utah) - [UNIX V4 tape from University of Utah](https://archive.org/details/utah_unix_v4_raw)
 * [2025-12-19, 17:53:00](https://lobste.rs/s/3vdhci/help_my_website_is_too_small) - [Help my website is too small](https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/)
 
 ## [Archives](archives/index.md)
