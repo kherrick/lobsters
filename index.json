@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 05:11:59",
+      "https://lobste.rs/s/ckgvbp/shooting_myself_foot_with_git_by_accident"
+    ],
+    [
+      "Shooting myself in the foot with Git by accident",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 04:09:23",
       "https://lobste.rs/s/wuvuhk/texas_instruments_cc_40_invades"
     ],
@@ -147,16 +157,6 @@
     [
       "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
       "https://abhamra.com/blog/randomized-maxcut/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 06:22:55",
-      "https://lobste.rs/s/rlnnbu/porting_html5_parser_swift"
-    ],
-    [
-      "Porting an HTML5 Parser to Swift",
-      "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift"
     ]
   ],
   [
