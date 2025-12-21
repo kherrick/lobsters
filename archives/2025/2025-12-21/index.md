@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
 * [2025-12-21, 20:05:09](https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue) - [Thirteen years of Rust and the birth of Rue](https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/)
+* [2025-12-21, 19:03:34](https://lobste.rs/s/o9xmgn/cognitive_burden_garbage_collection_vs) - [The Cognitive Burden of Garbage Collection vs Move Semantics (2023)](https://insanitybit.github.io/2023/06/09/Java-GC-Rust)
 * [2025-12-21, 18:36:20](https://lobste.rs/s/lyykk0/dumbphone_journey_eight_month_update) - [dumbphone journey -- eight month update](https://blog.frog.equipment/dumbphone-journey-eight-month-update)
 * [2025-12-21, 18:26:36](https://lobste.rs/s/fvvnl4/what_s_new_python_3_15) - [What’s new in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
 * [2025-12-21, 17:29:25](https://lobste.rs/s/qoqfwz/inverse_parentheses) - [Inverse parentheses](https://kellett.im/a/inverse-parentheses)

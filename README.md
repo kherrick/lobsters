@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-12-21, 20:05:09](https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue) - [Thirteen years of Rust and the birth of Rue](https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/)
+* [2025-12-21, 19:03:34](https://lobste.rs/s/o9xmgn/cognitive_burden_garbage_collection_vs) - [The Cognitive Burden of Garbage Collection vs Move Semantics (2023)](https://insanitybit.github.io/2023/06/09/Java-GC-Rust)
 * [2025-12-21, 18:36:20](https://lobste.rs/s/lyykk0/dumbphone_journey_eight_month_update) - [dumbphone journey -- eight month update](https://blog.frog.equipment/dumbphone-journey-eight-month-update)
 * [2025-12-21, 18:26:36](https://lobste.rs/s/fvvnl4/what_s_new_python_3_15) - [What’s new in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
 * [2025-12-21, 17:29:25](https://lobste.rs/s/qoqfwz/inverse_parentheses) - [Inverse parentheses](https://kellett.im/a/inverse-parentheses)
 * [2025-12-21, 17:24:22](https://lobste.rs/s/csce7j/elf_crimes_program_interpreter_fun) - [ELF Crimes: Program Interpreter Fun](https://nytpu.com/gemlog/2025-12-21)
 * [2025-12-21, 16:56:57](https://lobste.rs/s/nefrtj/arin_ipv4_misissue_incident) - [ARIN IPv4 misissue incident](https://www.arin.net/announcements/20251212/)
-* [2025-12-21, 15:54:45](https://lobste.rs/s/crvxnv/computational_complexity_new_york_times) - [Computational complexity of New York Times games](https://www.arxiv.org/pdf/2509.10846)
 * [2025-12-21, 15:32:48](https://lobste.rs/s/vvsnhj/exploring_speculative_jit_compilation) - [Exploring Speculative JIT Compilation for Emacs Lisp with Java](https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/)
 * [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can't Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)
 * [2025-12-21, 14:45:15](https://lobste.rs/s/r5hdwa/how_i_protect_my_forgejo_instance_from_ai) - [How I protect my forgejo instance from AI Web Crawlers](https://her.esy.fun/posts/0031-how-i-protect-my-forgejo-instance-from-ai-web-crawlers/index.html)
