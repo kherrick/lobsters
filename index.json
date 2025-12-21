@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 15:54:45",
+      "https://lobste.rs/s/crvxnv/computational_complexity_new_york_times"
+    ],
+    [
+      "Computational complexity of New York Times games",
+      "https://www.arxiv.org/pdf/2509.10846"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 15:32:48",
       "https://lobste.rs/s/vvsnhj/exploring_speculative_jit_compilation"
     ],
@@ -217,16 +227,6 @@
     [
       "The Mysterious Forces Steering Views on Hacker News",
       "https://マリウス.com/the-mysterious-forces-steering-views-on-hacker-news/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 13:13:42",
-      "https://lobste.rs/s/codkgd/proving_bounds_for_randomized_maxcut"
-    ],
-    [
-      "Proving bounds for the Randomized MaxCut Approximation algorithm in Lean4",
-      "https://abhamra.com/blog/randomized-maxcut/"
     ]
   ],
   [
