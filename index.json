@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-21, 18:26:36",
+      "https://lobste.rs/s/fvvnl4/what_s_new_python_3_15"
+    ],
+    [
+      "What’s new in Python 3.15",
+      "https://docs.python.org/3.15/whatsnew/3.15.html"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 17:29:25",
       "https://lobste.rs/s/qoqfwz/inverse_parentheses"
     ],
@@ -177,16 +187,6 @@
     [
       "Text similarity search via normalized compression distance",
       "https://discourse.haskell.org/t/vibe-coding-text-similarity-search-via-normalized-compression-distance/13440"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 05:11:59",
-      "https://lobste.rs/s/ckgvbp/shooting_myself_foot_with_git_by_accident"
-    ],
-    [
-      "Shooting myself in the foot with Git by accident",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GitConcurrentUsageOops"
     ]
   ],
   [
