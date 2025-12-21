@@ -1,11 +1,21 @@
 [
   [
     [
+      "2025-12-21, 00:41:14",
+      "https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix"
+    ],
+    [
+      "Go feature: Modernized go fix",
+      "https://antonz.org/accepted/modernized-go-fix/"
+    ]
+  ],
+  [
+    [
       "2025-12-20, 23:32:15",
       "https://lobste.rs/s/tilcty/i_spent_week_without_ipv4_understand_ipv6"
     ],
     [
-      "I spent a WEEK without IPv4 to understand IPv6 transition mechanisms",
+      "I spent a week without IPv4 to understand IPv6 transition mechanisms",
       "https://www.apalrd.net/posts/2023/network_ipv6/"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Backing up Spotify",
       "https://annas-archive.li/blog/backing-up-spotify.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 20:25:34",
-      "https://lobste.rs/s/uob7wm/big_ideas_relay"
-    ],
-    [
-      "The Big Ideas in Relay",
-      "https://youtu.be/yInL1aPZjvI"
     ]
   ],
   [
