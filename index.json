@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 14:06:02",
+      "https://lobste.rs/s/rgpalc/atomic_time_scale_at_nist_boulder_has"
+    ],
+    [
+      "The atomic time scale at NIST Boulder has failed",
+      "https://journa.host/@w7voa/115754351058263109"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 13:34:16",
       "https://lobste.rs/s/oey5qc/web_html_things_avoid_2017"
     ],
@@ -237,16 +247,6 @@
     [
       "Help my website is too small",
       "https://lukeplant.me.uk/blog/posts/help-my-website-is-too-small/"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 14:20:45",
-      "https://lobste.rs/s/m1teof/wireguard_implementation_written_rust"
-    ],
-    [
-      "WireGuard® implementation written in Rust",
-      "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"
     ]
   ]
 ]
