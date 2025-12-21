@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-21, 03:12:26",
+      "https://lobste.rs/s/nghxxz/faster_practical_modular_inversion"
+    ],
+    [
+      "Faster practical modular inversion",
+      "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
+    ]
+  ],
+  [
+    [
+      "2025-12-21, 01:51:19",
+      "https://lobste.rs/s/1ns3ao/how_capacity_hints_work_go"
+    ],
+    [
+      "How capacity hints work in Go",
+      "https://www.grobinson.net/2023/09/30/how-capacity-hints-work-in-go/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 00:41:14",
       "https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-12-20, 07:03:27",
-      "https://lobste.rs/s/ofpgev/business_slos"
-    ],
-    [
-      "Business SLOs",
-      "https://medium.com/@haagwee/business-slos-4992d7435ff9"
-    ]
-  ],
-  [
-    [
       "2025-12-20, 06:33:54",
       "https://lobste.rs/s/cmlspo/decade_on_datomic_davis_shepherd"
     ],
@@ -227,16 +237,6 @@
     [
       "WireGuard® implementation written in Rust",
       "https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"
-    ]
-  ],
-  [
-    [
-      "2025-12-19, 12:30:02",
-      "https://lobste.rs/s/phykxt/when_scope_lies_wildcard_pattern_drop"
-    ],
-    [
-      "When Scope Lies: The Wildcard Pattern Drop Footgun in Rust",
-      "https://obeli.sk/blog/when-scope-lies/"
     ]
   ],
   [
