@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 15:32:48",
+      "https://lobste.rs/s/vvsnhj/exploring_speculative_jit_compilation"
+    ],
+    [
+      "Exploring Speculative JIT Compilation for Emacs Lisp with Java",
+      "https://kyo.iroiro.party/en/posts/juicemacs-exploring-jit-for-elisp/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 14:59:24",
       "https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility"
     ],
@@ -137,16 +147,6 @@
     [
       "romforth: Ultra Portable, Small, Baremetal Forth for various processors",
       "https://github.com/romforth/romforth"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 03:12:26",
-      "https://lobste.rs/s/nghxxz/faster_practical_modular_inversion"
-    ],
-    [
-      "Faster practical modular inversion",
-      "https://purplesyringa.moe/blog/faster-practical-modular-inversion/"
     ]
   ],
   [
