@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 20:05:09",
+      "https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue"
+    ],
+    [
+      "Thirteen years of Rust and the birth of Rue",
+      "https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 18:36:20",
       "https://lobste.rs/s/lyykk0/dumbphone_journey_eight_month_update"
     ],
@@ -217,16 +227,6 @@
     [
       "I spent a week without IPv4 to understand IPv6 transition mechanisms",
       "https://www.apalrd.net/posts/2023/network_ipv6/"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 21:27:12",
-      "https://lobste.rs/s/vdexco/granule_statically_typed_linear"
-    ],
-    [
-      "Granule, a statically-typed linear functional language with graded modal types",
-      "https://github.com/granule-project/granule"
     ]
   ],
   [
