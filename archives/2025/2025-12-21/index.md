@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 13:34:16](https://lobste.rs/s/oey5qc/web_html_things_avoid) - [Web/HTML things to avoid](https://www.catb.org/~esr/html-hell.html)
 * [2025-12-21, 11:53:26](https://lobste.rs/s/ascmbo/inner_platform_effect_2006) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
 * [2025-12-21, 11:51:25](https://lobste.rs/s/yyury2/mnemonics_for_hidden_controls_win32) - [Mnemonics for hidden controls in Win32](https://www.abareplace.com/blog/hidden_mnemonics/)
 * [2025-12-21, 11:22:16](https://lobste.rs/s/df96zx/unix_v4_tape_running_simh_pdp11_emu_on_irix) - [The \"UNIX v4 tape\" running in simh PDP11 emu on IRIX](https://oldbytes.space/@flexion/115752573933914452)
