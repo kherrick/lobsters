@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-21](index.md)
 
+* [2025-12-21, 14:06:02](https://lobste.rs/s/rgpalc/atomic_time_scale_at_nist_boulder_has) - [The atomic time scale at NIST Boulder has failed](https://journa.host/@w7voa/115754351058263109)
 * [2025-12-21, 13:34:16](https://lobste.rs/s/oey5qc/web_html_things_avoid_2017) - [Web/HTML things to avoid (2017)](https://www.catb.org/~esr/html-hell.html)
 * [2025-12-21, 13:34:16](https://lobste.rs/s/oey5qc/web_html_things_avoid) - [Web/HTML things to avoid](https://www.catb.org/~esr/html-hell.html)
 * [2025-12-21, 11:53:26](https://lobste.rs/s/ascmbo/inner_platform_effect_2006) - [The Inner-Platform Effect (2006)](https://thedailywtf.com/articles/The_Inner-Platform_Effect)
