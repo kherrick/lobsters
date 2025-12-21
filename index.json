@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-21, 22:49:30",
+      "https://lobste.rs/s/yvzvrg/qubes_os_4_3_0_has_been_released"
+    ],
+    [
+      "Qubes OS 4.3.0 has been released",
+      "https://www.qubes-os.org/news/2025/12/21/qubes-os-4-3-0-has-been-released/"
+    ]
+  ],
+  [
+    [
       "2025-12-21, 22:19:48",
       "https://lobste.rs/s/rbobxh/logging_sucks_your_logs_are_lying_you"
     ],
@@ -27,16 +37,6 @@
     [
       "Thirteen years of Rust and the birth of Rue",
       "https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 19:03:34",
-      "https://lobste.rs/s/o9xmgn/cognitive_burden_garbage_collection_vs"
-    ],
-    [
-      "The Cognitive Burden of Garbage Collection vs Move Semantics (2023)",
-      "https://insanitybit.github.io/2023/06/09/Java-GC-Rust"
     ]
   ],
   [
