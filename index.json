@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-22, 08:35:59",
+      "https://lobste.rs/s/j3kwxj/when_simd_fails_floating_point"
+    ],
+    [
+      "When SIMD Fails: Floating Point Associativity",
+      "https://xania.org/202512/21-vectorising-floats"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 05:19:40",
       "https://lobste.rs/s/dodxvz/typed_arrow_first_class_compile_time"
     ],
@@ -207,16 +217,6 @@
     [
       "Tag proposal: decentralization",
       "https://lobste.rs/s/s8kode/tag_proposal_decentralization"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 10:38:30",
-      "https://lobste.rs/s/xzxetz/polyproto_refreshingly_simple"
-    ],
-    [
-      "polyproto: A refreshingly simple decentralised, federated protocol",
-      "https://polyproto.org/"
     ]
   ],
   [
