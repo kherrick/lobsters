@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 14:44:42](https://lobste.rs/s/sv8c9s/privacy_preserving_vaccination_checks) - [Privacy-Preserving Vaccination Checks: A Proof of Concept MPC Deployment with the Frankfurt Health Department](https://sine.foundation/library/mpc-vaccination-check)
 * [2025-12-22, 13:51:47](https://lobste.rs/s/lbpxep/simplistic_comptime_column_safety) - [Simplistic Comptime Column Safety in SQLite Queries](https://kristoff.it/blog/simplistic-comptime-sqlite/)
 * [2025-12-22, 13:38:13](https://lobste.rs/s/vgjkbs/understanding_your_linux_graphics) - [Understanding your Linux graphics driver stack](https://timur.hu/blog/2025/understanding-your-linux-open-source-drivers)
 * [2025-12-22, 11:48:12](https://lobste.rs/s/9skyrx/flocking_quadtrees_clojure) - [Flocking Quadtrees in Clojure](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
