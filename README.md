@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-22, 19:10:36](https://lobste.rs/s/fjlwli/what_s_new_miri_also_there_s_miri_paper) - [What's \"new\" in Miri (and also, there's a Miri paper!)](https://www.ralfj.de/blog/2025/12/22/miri.html)
 * [2025-12-22, 18:43:37](https://lobste.rs/s/2rtmv9/from_zero_qed_informal_introduction) - [From Zero to QED: An informal introduction to formality in Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
 * [2025-12-22, 18:27:57](https://lobste.rs/s/p6gjfj/uncomfortable_necessary_discussion) - [An uncomfortable but necessary discussion about the Debian bug tracker](https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html)
 * [2025-12-22, 18:14:00](https://lobste.rs/s/4qm8zs/towards_secure_peer_peer_app_platform_for) - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
@@ -12,7 +13,6 @@
 * [2025-12-22, 11:05:29](https://lobste.rs/s/fy1dlq/build_your_own_rss_daily_digest_using) - [Build your own RSS daily digest using GitHub Actions/Pages in 5 minutes](https://github.com/piqoni/go-digest)
 * [2025-12-22, 08:42:23](https://lobste.rs/s/k9rvab/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k9rvab/what_are_you_doing_this_week)
 * [2025-12-22, 08:40:47](https://lobste.rs/s/h6pqyr/installing_void_linux_on_zfs_with) - [Installing Void Linux on ZFS with Hibernation Support](https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/)
-* [2025-12-22, 08:35:59](https://lobste.rs/s/j3kwxj/when_simd_fails_floating_point) - [When SIMD Fails: Floating Point Associativity](https://xania.org/202512/21-vectorising-floats)
 * [2025-12-22, 05:19:40](https://lobste.rs/s/dodxvz/typed_arrow_first_class_compile_time) - [typed-arrow: First-class compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-12-22, 00:08:40](https://lobste.rs/s/svqpuu/debian_s_git_transition) - [Debian’s git transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-21, 22:19:48](https://lobste.rs/s/rbobxh/logging_sucks_your_logs_are_lying_you) - [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)

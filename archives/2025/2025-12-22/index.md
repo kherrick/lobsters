@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 19:10:36](https://lobste.rs/s/fjlwli/what_s_new_miri_also_there_s_miri_paper) - [What's \"new\" in Miri (and also, there's a Miri paper!)](https://www.ralfj.de/blog/2025/12/22/miri.html)
 * [2025-12-22, 18:43:37](https://lobste.rs/s/2rtmv9/from_zero_qed_informal_introduction) - [From Zero to QED: An informal introduction to formality in Lean 4](https://sdiehl.github.io/zero-to-qed/01_introduction.html)
 * [2025-12-22, 18:27:57](https://lobste.rs/s/p6gjfj/uncomfortable_necessary_discussion) - [An uncomfortable but necessary discussion about the Debian bug tracker](https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html)
 * [2025-12-22, 18:14:00](https://lobste.rs/s/4qm8zs/towards_secure_peer_peer_app_platform_for) - [Towards a secure peer-to-peer app platform for Clan](https://clan.lol/blog/towards-app-platform-vmtech/)
