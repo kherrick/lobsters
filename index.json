@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-12-22, 13:38:13",
-      "https://lobste.rs/s/vgjkbs/understanding_your_linux_graphics"
-    ],
-    [
-      "Understanding your Linux graphics driver stack",
-      "https://timur.hu/blog/2025/understanding-your-linux-open-source-drivers"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 11:48:12",
       "https://lobste.rs/s/9skyrx/flocking_quadtrees_clojure"
     ],
@@ -87,6 +77,16 @@
     [
       "Installing Void Linux on ZFS with Hibernation Support",
       "https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/"
+    ]
+  ],
+  [
+    [
+      "2025-12-22, 08:35:59",
+      "https://lobste.rs/s/j3kwxj/when_simd_fails_floating_point"
+    ],
+    [
+      "When SIMD Fails: Floating Point Associativity",
+      "https://xania.org/202512/21-vectorising-floats"
     ]
   ],
   [
