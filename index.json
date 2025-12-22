@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 19:10:36",
+      "https://lobste.rs/s/fjlwli/what_s_new_miri_also_there_s_miri_paper"
+    ],
+    [
+      "What's \"new\" in Miri (and also, there's a Miri paper!)",
+      "https://www.ralfj.de/blog/2025/12/22/miri.html"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 18:43:37",
       "https://lobste.rs/s/2rtmv9/from_zero_qed_informal_introduction"
     ],
@@ -117,16 +127,6 @@
     [
       "Installing Void Linux on ZFS with Hibernation Support",
       "https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 08:35:59",
-      "https://lobste.rs/s/j3kwxj/when_simd_fails_floating_point"
-    ],
-    [
-      "When SIMD Fails: Floating Point Associativity",
-      "https://xania.org/202512/21-vectorising-floats"
     ]
   ],
   [
