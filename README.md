@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-22, 07:25:14](https://lobste.rs/s/p87pll/qbasic64_phoenix_4_3_0_released) - [QBasic64 Phoenix 4.3.0 released](https://qb64phoenix.com/forum/showthread.php?tid=4244)
 * [2025-12-22, 05:19:40](https://lobste.rs/s/dodxvz/typed_arrow_first_class_compile_time) - [typed-arrow: First-class compile‑time Arrow schemas for Rust](https://github.com/tonbo-io/typed-arrow)
 * [2025-12-22, 00:08:40](https://lobste.rs/s/svqpuu/debian_s_git_transition) - [Debian’s git transition](https://diziet.dreamwidth.org/20436.html)
 * [2025-12-21, 22:49:30](https://lobste.rs/s/yvzvrg/qubes_os_4_3_0_has_been_released) - [Qubes OS 4.3.0 has been released](https://www.qubes-os.org/news/2025/12/21/qubes-os-4-3-0-has-been-released/)
@@ -24,7 +25,6 @@
 * [2025-12-21, 03:26:39](https://lobste.rs/s/wrcgvd/romforth_ultra_portable_small_baremetal) - [romforth: Ultra Portable, Small, Baremetal Forth for various processors](https://github.com/romforth/romforth)
 * [2025-12-20, 23:32:15](https://lobste.rs/s/tilcty/i_spent_week_without_ipv4_understand_ipv6) - [I spent a week without IPv4 to understand IPv6 transition mechanisms](https://www.apalrd.net/posts/2023/network_ipv6/)
 * [2025-12-20, 21:17:47](https://lobste.rs/s/ikae1r/backing_up_spotify) - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html)
-* [2025-12-20, 19:36:16](https://lobste.rs/s/8rpa2g/ruby_s_website_got_overhaul) - [Ruby's website got an overhaul](https://www.ruby-lang.org/en/)
 
 ## [Archives](archives/index.md)
 
