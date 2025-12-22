@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 05:19:40",
+      "https://lobste.rs/s/dodxvz/typed_arrow_first_class_compile_time"
+    ],
+    [
+      "typed-arrow: First-class compile‑time Arrow schemas for Rust",
+      "https://github.com/tonbo-io/typed-arrow"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 00:08:40",
       "https://lobste.rs/s/svqpuu/debian_s_git_transition"
     ],
@@ -207,16 +217,6 @@
     [
       "romforth: Ultra Portable, Small, Baremetal Forth for various processors",
       "https://github.com/romforth/romforth"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 00:41:14",
-      "https://lobste.rs/s/gs1qkp/go_feature_modernized_go_fix"
-    ],
-    [
-      "Go feature: Modernized go fix",
-      "https://antonz.org/accepted/modernized-go-fix/"
     ]
   ],
   [
