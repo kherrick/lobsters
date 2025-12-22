@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-22, 14:44:42",
+      "https://lobste.rs/s/sv8c9s/privacy_preserving_vaccination_checks"
+    ],
+    [
+      "Privacy-Preserving Vaccination Checks: A Proof of Concept MPC Deployment with the Frankfurt Health Department",
+      "https://sine.foundation/library/mpc-vaccination-check"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 13:51:47",
       "https://lobste.rs/s/lbpxep/simplistic_comptime_column_safety"
     ],
@@ -237,16 +247,6 @@
     [
       "The atomic time scale at NIST Boulder has failed",
       "https://journa.host/@w7voa/115754351058263109"
-    ]
-  ],
-  [
-    [
-      "2025-12-20, 21:17:47",
-      "https://lobste.rs/s/ikae1r/backing_up_spotify"
-    ],
-    [
-      "Backing up Spotify",
-      "https://annas-archive.li/blog/backing-up-spotify.html"
     ]
   ]
 ]
