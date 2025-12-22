@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-22](index.md)
 
+* [2025-12-22, 13:51:47](https://lobste.rs/s/lbpxep/simplistic_comptime_column_safety) - [Simplistic Comptime Column Safety in SQLite Queries](https://kristoff.it/blog/simplistic-comptime-sqlite/)
+* [2025-12-22, 13:38:13](https://lobste.rs/s/vgjkbs/understanding_your_linux_graphics) - [Understanding your Linux graphics driver stack](https://timur.hu/blog/2025/understanding-your-linux-open-source-drivers)
 * [2025-12-22, 11:48:12](https://lobste.rs/s/9skyrx/flocking_quadtrees_clojure) - [Flocking Quadtrees in Clojure](https://www.lbjgruppen.com/en/posts/flocking-quadtrees)
 * [2025-12-22, 11:12:29](https://lobste.rs/s/zzvn7y/i_m_former_cto_here_is_15_sec_coding_test_i) - [I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
 * [2025-12-22, 11:05:29](https://lobste.rs/s/fy1dlq/build_your_own_rss_daily_digest_using) - [Build your own RSS daily digest using GitHub Actions/Pages in 5 minutes](https://github.com/piqoni/go-digest)
