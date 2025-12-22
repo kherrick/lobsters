@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-12-22, 15:25:57",
+      "https://lobste.rs/s/rdotp2/proposed_rust_kernel_extensions_place"
+    ],
+    [
+      "Proposed Rust kernel extensions in place of eBPF",
+      "https://www.phoronix.com/news/Linux-Kernel-Rust-Rex"
+    ]
+  ],
+  [
+    [
       "2025-12-22, 14:44:42",
       "https://lobste.rs/s/sv8c9s/privacy_preserving_vaccination_checks"
     ],
@@ -137,16 +147,6 @@
     [
       "Installing Void Linux on ZFS with Hibernation Support",
       "https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 05:19:40",
-      "https://lobste.rs/s/dodxvz/typed_arrow_first_class_compile_time"
-    ],
-    [
-      "typed-arrow: First-class compile‑time Arrow schemas for Rust",
-      "https://github.com/tonbo-io/typed-arrow"
     ]
   ],
   [
