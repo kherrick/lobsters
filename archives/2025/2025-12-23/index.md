@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 19:09:43](https://lobste.rs/s/zoqaeq/initial_analysis_discovered_unix_v4_tape) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
+* [2025-12-23, 17:30:36](https://lobste.rs/s/ho9fyv/lavd_meta_s_new_default_scheduler) - [LAVD: Meta’s New Default Scheduler](https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf)
 * [2025-12-23, 16:35:53](https://lobste.rs/s/xz6fwz/unix_find_expressions_compiled_bytecode) - [Unix \"find\" expressions compiled to bytecode](https://nullprogram.com/blog/2025/12/23/)
 * [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-23, 15:50:04](https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted) - [folder.zone: Share end-to-end encrypted folders live](https://folder.zone)
