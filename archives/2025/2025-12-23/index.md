@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-23](index.md)
+
+* [2025-12-23, 00:46:51](https://lobste.rs/s/mvqno1/introducing_open_forms) - [Introducing Open Forms](https://www.aryank.in/posts/2025-12-21-introducing-open-forms/)
