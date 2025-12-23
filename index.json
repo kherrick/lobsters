@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-23, 15:47:38",
+      "https://lobste.rs/s/kpvesz/reproducing_nixos_25_11_minimal"
+    ],
+    [
+      "Reproducing the NixOS 25.11 Minimal Installation ISO",
+      "https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 14:57:11",
       "https://lobste.rs/s/hcnzsm/wonder_msbuild"
     ],
@@ -237,16 +247,6 @@
     [
       "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
       "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/"
-    ]
-  ],
-  [
-    [
-      "2025-12-21, 20:05:09",
-      "https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue"
-    ],
-    [
-      "Thirteen years of Rust and the birth of Rue",
-      "https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/"
     ]
   ]
 ]
