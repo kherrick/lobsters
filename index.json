@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-23, 18:59:54",
+      "https://lobste.rs/s/nyqw6y/sqlite_wasm_http_experimental_http_vfs"
+    ],
+    [
+      "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
+      "https://github.com/mmomtchev/sqlite-wasm-http"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 17:30:36",
       "https://lobste.rs/s/ho9fyv/lavd_meta_s_new_default_scheduler"
     ],
@@ -107,16 +117,6 @@
     [
       "Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)",
       "https://github.com/chase-lambert/vigil"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 13:11:02",
-      "https://lobste.rs/s/ymlyce/web_engine_ci_on_shoestring_budget"
-    ],
-    [
-      "Web engine CI on a shoestring budget",
-      "https://youtu.be/-W1mSXdlRqA"
     ]
   ],
   [
