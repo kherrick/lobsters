@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-23, 13:48:00](https://lobste.rs/s/jmj5oa/dirlock) - [dirlock](https://gitlab.steamos.cloud/holo/dirlock)
 * [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
 * [2025-12-23, 13:11:02](https://lobste.rs/s/ymlyce/web_engine_ci_on_shoestring_budget) - [Web engine CI on a shoestring budget](https://youtu.be/-W1mSXdlRqA)
 * [2025-12-23, 11:06:45](https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
+* [2025-12-23, 10:56:27](https://lobste.rs/s/owheki/feature_discussion_replying_multiple) - [Feature discussion: replying to multiple comments in story](https://lobste.rs/s/owheki/feature_discussion_replying_multiple)
 * [2025-12-23, 09:52:07](https://lobste.rs/s/ef5wcv/are_we_loong_yet) - [Are we Loong yet?](https://areweloongyet.com/en/)
 * [2025-12-23, 09:40:53](https://lobste.rs/s/3amelj/why_quantum_cryptanalysis_is_bollocks) - [Why Quantum Cryptanalysis is Bollocks](https://youtu.be/xa4Ok7WNFHY)
 * [2025-12-23, 08:56:50](https://lobste.rs/s/foqwqb/this_meeting_could_have_been_email) - [This Meeting could have been an Email](https://substack.com/inbox/post/182399060)
@@ -21,10 +23,8 @@
 * [2025-12-22, 11:12:29](https://lobste.rs/s/zzvn7y/i_m_former_cto_here_is_15_sec_coding_test_i) - [I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants](https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/)
 * [2025-12-22, 08:40:47](https://lobste.rs/s/h6pqyr/installing_void_linux_on_zfs_with) - [Installing Void Linux on ZFS with Hibernation Support](https://it-notes.dragas.net/2025/12/22/void-linux-zfs-hibernation-guide/)
 * [2025-12-22, 00:08:40](https://lobste.rs/s/svqpuu/debian_s_git_transition) - [Debian’s git transition](https://diziet.dreamwidth.org/20436.html)
-* [2025-12-21, 22:19:48](https://lobste.rs/s/rbobxh/logging_sucks_your_logs_are_lying_you) - [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com/)
 * [2025-12-21, 22:06:10](https://lobste.rs/s/pbxwjt/i_program_on_subway) - [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
 * [2025-12-21, 20:05:09](https://lobste.rs/s/obiiim/thirteen_years_rust_birth_rue) - [Thirteen years of Rust and the birth of Rue](https://steveklabnik.com/writing/thirteen-years-of-rust-and-the-birth-of-rue/)
-* [2025-12-21, 14:59:24](https://lobste.rs/s/rqub7y/you_can_t_opt_out_accessibility) - [You Can't Opt-Out of Accessibility](https://vale.rocks/posts/accessibility-importance)
 
 ## [Archives](archives/index.md)
 

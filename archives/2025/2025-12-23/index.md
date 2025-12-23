@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 13:48:00](https://lobste.rs/s/jmj5oa/dirlock) - [dirlock](https://gitlab.steamos.cloud/holo/dirlock)
 * [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
 * [2025-12-23, 13:11:02](https://lobste.rs/s/ymlyce/web_engine_ci_on_shoestring_budget) - [Web engine CI on a shoestring budget](https://youtu.be/-W1mSXdlRqA)
 * [2025-12-23, 11:06:45](https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
