@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 21:58:43](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing) - [Your favorite pieces of technical writing?](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing)
 * [2025-12-23, 21:47:03](https://lobste.rs/s/aipma8/cpu_cpu_command_go_inspired_by_plan_9_cpu) - [cpu: cpu command in Go, inspired by the Plan 9 cpu command](https://github.com/u-root/cpu)
 * [2025-12-23, 21:46:08](https://lobste.rs/s/fkjkjv/polyglot_image_disk_image_boots_on) - [polyglot-image: A disk image that boots on multiple architectures](https://github.com/blitz/polyglot-image)
 * [2025-12-23, 21:38:45](https://lobste.rs/s/r4icum/mostly_automated_proof_repair_for) - [Mostly Automated Proof Repair for Verified Libraries](https://kirancodes.me/pdfs/sisyphus-pldi23.pdf)
