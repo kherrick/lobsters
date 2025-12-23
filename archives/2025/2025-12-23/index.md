@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
+* [2025-12-23, 13:11:02](https://lobste.rs/s/ymlyce/web_engine_ci_on_shoestring_budget) - [Web engine CI on a shoestring budget](https://youtu.be/-W1mSXdlRqA)
 * [2025-12-23, 11:06:45](https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 10:56:27](https://lobste.rs/s/owheki/feature_discussion_replying_multiple) - [Feature discussion: replying to multiple comments in story](https://lobste.rs/s/owheki/feature_discussion_replying_multiple)
 * [2025-12-23, 09:52:07](https://lobste.rs/s/ef5wcv/are_we_loong_yet) - [Are we Loong yet?](https://areweloongyet.com/en/)
