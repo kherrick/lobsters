@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-23, 15:50:04](https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted) - [folder.zone: Share end-to-end encrypted folders live](https://folder.zone)
-* [2025-12-23, 15:47:38](https://lobste.rs/s/kpvesz/reproducing_nixos_25_11_minimal) - [Reproducing the NixOS 25.11 Minimal Installation ISO](https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/)
 * [2025-12-23, 14:57:11](https://lobste.rs/s/hcnzsm/wonder_msbuild) - [The wonder of MSBuild](https://mmagueta.capivaras.dev/blog/the-wonder-of-msbuild/)
 * [2025-12-23, 14:25:17](https://lobste.rs/s/hq8sig/schrodinger_s_test_dev_mem_case) - [Schrödinger’s test: The /dev/mem case](https://elisa.tech/ambassadors/2025/12/10/schrodingers-test-the-dev-mem-case/)
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
