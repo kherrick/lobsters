@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 21:38:45](https://lobste.rs/s/r4icum/mostly_automated_proof_repair_for) - [Mostly Automated Proof Repair for Verified Libraries](https://kirancodes.me/pdfs/sisyphus-pldi23.pdf)
 * [2025-12-23, 19:09:43](https://lobste.rs/s/zoqaeq/initial_analysis_discovered_unix_v4_tape) - [An initial analysis of the discovered Unix V4 tape](https://www.spinellis.gr/blog/20251223/?yc261223)
 * [2025-12-23, 18:59:54](https://lobste.rs/s/nyqw6y/sqlite_wasm_http_experimental_http_vfs) - [sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM](https://github.com/mmomtchev/sqlite-wasm-http)
 * [2025-12-23, 17:30:36](https://lobste.rs/s/ho9fyv/lavd_meta_s_new_default_scheduler) - [LAVD: Meta’s New Default Scheduler](https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf)
