@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-23](index.md)
 
+* [2025-12-23, 14:41:49](https://lobste.rs/s/f0rn00/logical_gates_on_floquet_codes_via_folds) - [Logical gates on Floquet codes via folds and twists](https://arxiv.org/pdf/2512.17999)
+* [2025-12-23, 14:25:17](https://lobste.rs/s/hq8sig/schrodinger_s_test_dev_mem_case) - [Schrödinger’s test: The /dev/mem case](https://elisa.tech/ambassadors/2025/12/10/schrodingers-test-the-dev-mem-case/)
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
 * [2025-12-23, 13:48:00](https://lobste.rs/s/jmj5oa/dirlock) - [dirlock](https://gitlab.steamos.cloud/holo/dirlock)
 * [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
