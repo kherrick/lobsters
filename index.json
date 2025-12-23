@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-23, 00:46:51",
-      "https://lobste.rs/s/mvqno1/introducing_open_forms"
+      "2025-12-23, 04:56:58",
+      "https://lobste.rs/s/u38wjo/memoization_via_representables_2022"
     ],
     [
-      "Introducing Open Forms",
-      "https://www.aryank.in/posts/2025-12-21-introducing-open-forms/"
+      "Memoization via Representables (2022)",
+      "https://iagoleal.com/posts/representable-memoize/"
+    ]
+  ],
+  [
+    [
+      "2025-12-23, 02:05:38",
+      "https://lobste.rs/s/ldlty4/freebsd_closes_laptop_gap_year_one"
+    ],
+    [
+      "FreeBSD Closes the Laptop Gap: Year One Project Update",
+      "https://freebsdfoundation.org/blog/freebsd-closes-the-laptop-gap-year-one-project-update/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
       "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 11:05:29",
-      "https://lobste.rs/s/fy1dlq/build_your_own_rss_daily_digest_using"
-    ],
-    [
-      "Build your own RSS daily digest using GitHub Actions/Pages in 5 minutes",
-      "https://github.com/piqoni/go-digest"
     ]
   ],
   [
