@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-24, 15:22:36](https://lobste.rs/s/xgfhan/nix_state_sbom) - [Nix State of the SBOM](https://arnout.engelen.eu/blog/nix-state-of-the-sbom/)
+* [2025-12-24, 15:17:35](https://lobste.rs/s/bnjldy/just_time_software) - [Just in time software](https://commaok.xyz/ai/just-in-time-software/)
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 13:35:56](https://lobste.rs/s/8pouzc/tygor_type_safe_backend_for_go_typescript) - [tygor: Type-safe backend for Go + TypeScript apps](https://github.com/ahimsalabs/tygor)
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 12:41:43](https://lobste.rs/s/irewer/implementation_optimized_vector) - [Implementation of optimized vector of strings in C++ in SumatraPDF](https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html)
 * [2025-12-24, 11:07:01](https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200) - [FreeBSD: Installation on a ThinkPad X200 Tablet in 2025](https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/)
 * [2025-12-24, 09:14:26](https://lobste.rs/s/osqlya/couple_3d_aabb_tricks) - [A Couple 3D AABB Tricks](https://gpfault.net/posts/aabb-tricks.html)
-* [2025-12-24, 08:45:08](https://lobste.rs/s/gqhmvm/interactively_visualize_github_actions) - [Interactively visualize GitHub Actions Matrix configurations](https://katexochen.github.io/github-matrix-parser/)
 * [2025-12-24, 06:10:43](https://lobste.rs/s/gnaplv/what_internet_was_like_2003) - [What the Internet Was Like in 2003](https://cybercultural.com/p/internet-2003/)
 * [2025-12-24, 05:28:46](https://lobste.rs/s/3fytym/custom_cross_compiler_with_nix) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-23, 22:37:54](https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997) - [They made me an offer I couldn't refuse (1997)](http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
@@ -23,7 +24,6 @@
 * [2025-12-23, 11:06:45](https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql) - [Instant database clones with PostgreSQL 18](https://boringsql.com/posts/instant-database-clones/)
 * [2025-12-23, 09:52:07](https://lobste.rs/s/ef5wcv/are_we_loong_yet) - [Are we Loong yet?](https://areweloongyet.com/en/)
 * [2025-12-23, 07:38:18](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111) - [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea)
-* [2025-12-22, 21:57:53](https://lobste.rs/s/bhsl9h/i_foretold_mac_app_notarization_is) - [I foretold that Mac app notarization is security theater](https://lapcatsoftware.com/articles/2025/12/5.html)
 * [2025-12-22, 19:50:22](https://lobste.rs/s/qbi2ee/lua_5_5_released) - [Lua 5.5 Released](https://www.lua.org/manual/5.5/readme.html#changes)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 15:22:36](https://lobste.rs/s/xgfhan/nix_state_sbom) - [Nix State of the SBOM](https://arnout.engelen.eu/blog/nix-state-of-the-sbom/)
+* [2025-12-24, 15:17:35](https://lobste.rs/s/bnjldy/just_time_software) - [Just in time software](https://commaok.xyz/ai/just-in-time-software/)
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 13:35:56](https://lobste.rs/s/8pouzc/tygor_type_safe_backend_for_go_typescript) - [tygor: Type-safe backend for Go + TypeScript apps](https://github.com/ahimsalabs/tygor)
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
