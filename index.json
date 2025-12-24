@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-12-24, 08:45:08",
+      "https://lobste.rs/s/gqhmvm/interactively_visualize_github_actions"
+    ],
+    [
+      "Interactively visualize GitHub Actions Matrix configurations",
+      "https://katexochen.github.io/github-matrix-parser/"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 06:10:43",
       "https://lobste.rs/s/gnaplv/what_internet_was_like_2003"
     ],
@@ -77,16 +87,6 @@
     [
       "Custom Cross Compiler with Nix",
       "https://www.hobson.space/posts/nixcross/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 04:35:28",
-      "https://lobste.rs/s/judd04/meta_is_using_linux_scheduler_designed"
-    ],
-    [
-      "Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers",
-      "https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"
     ]
   ],
   [
