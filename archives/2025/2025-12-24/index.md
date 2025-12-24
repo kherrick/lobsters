@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 11:07:01](https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200) - [FreeBSD: Installation on a ThinkPad X200 Tablet in 2025](https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/)
 * [2025-12-24, 09:14:26](https://lobste.rs/s/osqlya/couple_3d_aabb_tricks) - [A Couple 3D AABB Tricks](https://gpfault.net/posts/aabb-tricks.html)
 * [2025-12-24, 08:45:08](https://lobste.rs/s/gqhmvm/interactively_visualize_github_actions) - [Interactively visualize GitHub Actions Matrix configurations](https://katexochen.github.io/github-matrix-parser/)
 * [2025-12-24, 06:10:43](https://lobste.rs/s/gnaplv/what_internet_was_like_2003) - [What the Internet Was Like in 2003](https://cybercultural.com/p/internet-2003/)
