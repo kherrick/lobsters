@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-24, 12:46:10",
+      "https://lobste.rs/s/mi8vrp/avoid_mini_frameworks"
+    ],
+    [
+      "Avoid mini-frameworks",
+      "https://laike9m.com/blog/avoid-mini-frameworks,171/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 12:41:43",
+      "https://lobste.rs/s/irewer/implementation_optimized_vector"
+    ],
+    [
+      "Implementation of optimized vector of strings in C++ in SumatraPDF",
+      "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 11:07:01",
       "https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2025-12-23, 22:09:04",
-      "https://lobste.rs/s/1bzwio/pure_silicon_demo_coding_no_cpu_no_memory"
-    ],
-    [
-      "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
-      "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 21:58:43",
       "https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing"
     ],
@@ -87,16 +97,6 @@
     [
       "cpu: cpu command in Go, inspired by the Plan 9 cpu command",
       "https://github.com/u-root/cpu"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 21:29:49",
-      "https://lobste.rs/s/du0csx/we_asked_four_ai_coding_agents_rebuild"
-    ],
-    [
-      "We asked four AI coding agents to rebuild Minesweeper—the results were explosive",
-      "https://arstechnica.com/ai/2025/12/the-ars-technica-ai-coding-agent-test-minesweeper-edition/"
     ]
   ],
   [
