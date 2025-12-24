@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-12-24, 09:14:26",
-      "https://lobste.rs/s/osqlya/couple_3d_aabb_tricks"
+      "2025-12-24, 11:07:01",
+      "https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200"
     ],
     [
-      "A Couple 3D AABB Tricks",
-      "https://gpfault.net/posts/aabb-tricks.html"
+      "FreeBSD: Installation on a ThinkPad X200 Tablet in 2025",
+      "https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/"
     ]
   ],
   [
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-12-23, 22:09:04",
+      "https://lobste.rs/s/1bzwio/pure_silicon_demo_coding_no_cpu_no_memory"
+    ],
+    [
+      "Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates",
+      "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 21:58:43",
       "https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing"
     ],
@@ -97,16 +107,6 @@
     [
       "An initial analysis of the discovered Unix V4 tape",
       "https://www.spinellis.gr/blog/20251223/?yc261223"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 18:59:54",
-      "https://lobste.rs/s/nyqw6y/sqlite_wasm_http_experimental_http_vfs"
-    ],
-    [
-      "sqlite-wasm-http: An experimental HTTP VFS driver for SQLite WASM",
-      "https://github.com/mmomtchev/sqlite-wasm-http"
     ]
   ],
   [
