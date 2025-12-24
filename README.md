@@ -2,7 +2,7 @@
 
 * [2025-12-24, 08:45:08](https://lobste.rs/s/gqhmvm/interactively_visualize_github_actions) - [Interactively visualize GitHub Actions Matrix configurations](https://katexochen.github.io/github-matrix-parser/)
 * [2025-12-24, 05:28:46](https://lobste.rs/s/3fytym/custom_cross_compiler_with_nix) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
-* [2025-12-24, 04:35:28](https://lobste.rs/s/judd04/meta_is_using_linux_scheduler_designed) - [Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers - Phoronix](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
+* [2025-12-24, 04:35:28](https://lobste.rs/s/judd04/meta_is_using_linux_scheduler_designed) - [Meta Is Using The Linux Scheduler Designed For Valve's Steam Deck On Its Servers](https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server)
 * [2025-12-23, 22:37:54](https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997) - [They made me an offer I couldn't refuse (1997)](http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
 * [2025-12-23, 22:09:04](https://lobste.rs/s/1bzwio/pure_silicon_demo_coding_no_cpu_no_memory) - [Pure Silicon Demo Coding: No CPU, No Memory, Just 4k Gates](https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html)
 * [2025-12-23, 21:58:43](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing) - [Your favorite pieces of technical writing?](https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing)
