@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-24, 16:42:04",
+      "https://lobste.rs/s/dfomel/ai_is_bad_ux"
+    ],
+    [
+      "\"AI\" is bad UX",
+      "https://buttondown.com/apperceptive/archive/ai-is-bad-ux/"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 15:57:22",
       "https://lobste.rs/s/zz45pp/my_2026_open_social_web_predictions"
     ],
@@ -207,16 +217,6 @@
     [
       "Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)",
       "https://github.com/chase-lambert/vigil"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 11:06:45",
-      "https://lobste.rs/s/znesuz/instant_database_clones_with_postgresql"
-    ],
-    [
-      "Instant database clones with PostgreSQL 18",
-      "https://boringsql.com/posts/instant-database-clones/"
     ]
   ],
   [
