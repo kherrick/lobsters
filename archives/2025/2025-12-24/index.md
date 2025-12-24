@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 15:57:22](https://lobste.rs/s/zz45pp/my_2026_open_social_web_predictions) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
 * [2025-12-24, 15:22:36](https://lobste.rs/s/xgfhan/nix_state_sbom) - [Nix State of the SBOM](https://arnout.engelen.eu/blog/nix-state-of-the-sbom/)
 * [2025-12-24, 15:17:35](https://lobste.rs/s/bnjldy/just_time_software) - [Just in time software](https://commaok.xyz/ai/just-in-time-software/)
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
