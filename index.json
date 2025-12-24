@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-24, 09:14:26",
+      "https://lobste.rs/s/osqlya/couple_3d_aabb_tricks"
+    ],
+    [
+      "A Couple 3D AABB Tricks",
+      "https://gpfault.net/posts/aabb-tricks.html"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 08:45:08",
       "https://lobste.rs/s/gqhmvm/interactively_visualize_github_actions"
     ],
@@ -207,16 +217,6 @@
     [
       "The lightest notes app implementation in 111 loc",
       "https://github.com/antonmedv/textarea"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 07:11:39",
-      "https://lobste.rs/s/a9qem9/npm_package_with_56k_downloads_caught"
-    ],
-    [
-      "NPM Package With 56K Downloads Caught Stealing WhatsApp Messages",
-      "https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages"
     ]
   ],
   [
