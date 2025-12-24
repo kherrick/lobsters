@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-24, 18:03:34](https://lobste.rs/s/fexaye/zippop_space_conserving_unzipping) - [ZipPop: a space conserving unzipping script](https://github.com/th0ma5w/ZipPop)
+* [2025-12-24, 18:02:19](https://lobste.rs/s/epoqyk/swanky_python_interactive_development) - [Swanky Python: Interactive development for Python](https://emacsconf.org/2025/talks/swanky/)
+* [2025-12-24, 17:56:58](https://lobste.rs/s/4sn9j4/how_why_i_moved_from_apple_services_my_own) - [How and why I moved from Apple Services to my own server](https://bastiangruber.ca/posts/mass-quitting-apple/)
 * [2025-12-24, 16:42:04](https://lobste.rs/s/dfomel/ai_is_bad_ux) - [\"AI\" is bad UX](https://buttondown.com/apperceptive/archive/ai-is-bad-ux/)
 * [2025-12-24, 15:57:22](https://lobste.rs/s/zz45pp/my_2026_open_social_web_predictions) - [My 2026 Open Social Web Predictions](https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html)
 * [2025-12-24, 15:22:36](https://lobste.rs/s/xgfhan/nix_state_sbom) - [Nix State of the SBOM](https://arnout.engelen.eu/blog/nix-state-of-the-sbom/)
@@ -9,7 +12,6 @@
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 12:41:43](https://lobste.rs/s/irewer/implementation_optimized_vector) - [Implementation of optimized vector of strings in C++ in SumatraPDF](https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html)
 * [2025-12-24, 11:07:01](https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200) - [FreeBSD: Installation on a ThinkPad X200 Tablet in 2025](https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/)
-* [2025-12-24, 09:14:26](https://lobste.rs/s/osqlya/couple_3d_aabb_tricks) - [A Couple 3D AABB Tricks](https://gpfault.net/posts/aabb-tricks.html)
 * [2025-12-24, 06:10:43](https://lobste.rs/s/gnaplv/what_internet_was_like_2003) - [What the Internet Was Like in 2003](https://cybercultural.com/p/internet-2003/)
 * [2025-12-24, 05:28:46](https://lobste.rs/s/3fytym/custom_cross_compiler_with_nix) - [Custom Cross Compiler with Nix](https://www.hobson.space/posts/nixcross/)
 * [2025-12-23, 22:37:54](https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997) - [They made me an offer I couldn't refuse (1997)](http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
@@ -20,11 +22,9 @@
 * [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-23, 15:50:04](https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted) - [folder.zone: Share end-to-end encrypted folders live](https://folder.zone)
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
-* [2025-12-23, 13:48:00](https://lobste.rs/s/jmj5oa/dirlock) - [dirlock](https://gitlab.steamos.cloud/holo/dirlock)
 * [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
 * [2025-12-23, 09:52:07](https://lobste.rs/s/ef5wcv/are_we_loong_yet) - [Are we Loong yet?](https://areweloongyet.com/en/)
 * [2025-12-23, 07:38:18](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111) - [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea)
-* [2025-12-22, 19:50:22](https://lobste.rs/s/qbi2ee/lua_5_5_released) - [Lua 5.5 Released](https://www.lua.org/manual/5.5/readme.html#changes)
 
 ## [Archives](archives/index.md)
 
