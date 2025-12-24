@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-24, 05:28:46",
+      "https://lobste.rs/s/3fytym/custom_cross_compiler_with_nix"
+    ],
+    [
+      "Custom Cross Compiler with Nix",
+      "https://www.hobson.space/posts/nixcross/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 05:11:03",
+      "https://lobste.rs/s/rmicma/attention_from_first_principles"
+    ],
+    [
+      "Attention From First Principles",
+      "https://metaworld.me/blog/public/Attention-From-First-Principles"
+    ]
+  ],
+  [
+    [
       "2025-12-23, 22:37:54",
       "https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-12-22, 19:10:36",
-      "https://lobste.rs/s/fjlwli/what_s_new_miri_also_there_s_miri_paper"
-    ],
-    [
-      "What's \"new\" in Miri (and also, there's a Miri paper!)",
-      "https://www.ralfj.de/blog/2025/12/22/miri.html"
-    ]
-  ],
-  [
-    [
       "2025-12-22, 18:27:57",
       "https://lobste.rs/s/p6gjfj/uncomfortable_necessary_discussion"
     ],
     [
       "An uncomfortable but necessary discussion about the Debian bug tracker",
       "https://nibblestew.blogspot.com/2025/12/an-uncomfortable-but-necessary.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-22, 11:12:29",
-      "https://lobste.rs/s/zzvn7y/i_m_former_cto_here_is_15_sec_coding_test_i"
-    ],
-    [
-      "I’m a former CTO. Here is the 15 sec coding test I used to instantly filter out 50% of unqualified applicants",
-      "https://josezarazua.com/im-a-former-cto-here-is-the-15-sec-coding-test-i-used-to-instantly-filter-out-50-of-unqualified-applicants/"
     ]
   ]
 ]
