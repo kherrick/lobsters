@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 23:35:47](https://lobste.rs/s/shcqvv/dedalus_datalog_time_space_2009) - [Dedalus: Datalog in Time and Space (2009)](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf)
+* [2025-12-24, 23:22:52](https://lobste.rs/s/b1vxmq/datafun_functional_language) - [Datafun - functional language that generalizes Datalog](https://www.rntz.net/datafun/)
 * [2025-12-24, 22:33:17](https://lobste.rs/s/rug4vo/2025_matrix_holiday_special) - [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
 * [2025-12-24, 21:20:13](https://lobste.rs/s/0zxfoh/how_jpeg_screenshots_defeated_our) - [How JPEG Screenshots Defeated Our Beautiful H.264 WebCodecs Pipeline](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
 * [2025-12-24, 21:02:23](https://lobste.rs/s/jzgazg/nostr_compass_1) - [Nostr Compass #1](https://yakihonne.com/article/s/_@nostrcompass.org/aad064a0b1982a80)
