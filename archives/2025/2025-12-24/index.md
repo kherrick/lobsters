@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 13:35:56](https://lobste.rs/s/8pouzc/tygor_type_safe_backend_for_go_typescript) - [tygor: Type-safe backend for Go + TypeScript apps](https://github.com/ahimsalabs/tygor)
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 12:41:43](https://lobste.rs/s/irewer/implementation_optimized_vector) - [Implementation of optimized vector of strings in C++ in SumatraPDF](https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html)
 * [2025-12-24, 11:07:01](https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200) - [FreeBSD: Installation on a ThinkPad X200 Tablet in 2025](https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/)

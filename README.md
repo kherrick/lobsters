@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-24, 13:35:56](https://lobste.rs/s/8pouzc/tygor_type_safe_backend_for_go_typescript) - [tygor: Type-safe backend for Go + TypeScript apps](https://github.com/ahimsalabs/tygor)
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 12:41:43](https://lobste.rs/s/irewer/implementation_optimized_vector) - [Implementation of optimized vector of strings in C++ in SumatraPDF](https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html)
 * [2025-12-24, 11:07:01](https://lobste.rs/s/aqyuga/freebsd_installation_on_thinkpad_x200) - [FreeBSD: Installation on a ThinkPad X200 Tablet in 2025](https://rtfm.co.ua/en/freebsd-installation-on-a-thinkpad-x200-tablet-in-2025/)
@@ -16,7 +17,6 @@
 * [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-23, 15:50:04](https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted) - [folder.zone: Share end-to-end encrypted folders live](https://folder.zone)
 * [2025-12-23, 15:47:38](https://lobste.rs/s/kpvesz/reproducing_nixos_25_11_minimal) - [Reproducing the NixOS 25.11 Minimal Installation ISO](https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/)
-* [2025-12-23, 14:57:11](https://lobste.rs/s/hcnzsm/wonder_msbuild) - [The wonder of MSBuild](https://mmagueta.capivaras.dev/blog/the-wonder-of-msbuild/)
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
 * [2025-12-23, 13:48:00](https://lobste.rs/s/jmj5oa/dirlock) - [dirlock](https://gitlab.steamos.cloud/holo/dirlock)
 * [2025-12-23, 13:30:28](https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig) - [Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)](https://github.com/chase-lambert/vigil)
