@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 20:37:08](https://lobste.rs/s/yaefne/querying_ingest_issues_eu) - [Querying and Ingest issues in EU](https://status.honeycomb.io/incidents/pjzh0mtqw3vt)
+* [2025-12-24, 20:36:49](https://lobste.rs/s/nfakle/wayback_0_3_released) - [Wayback 0.3 Released](https://wayback.freedesktop.org/news/2025/12/22/wayback-0.3-released/)
+* [2025-12-24, 20:29:41](https://lobste.rs/s/8gpquu/my_second_year_linux_desktop_for_gaming) - [(My) Second Year of the Linux Desktop (For Gaming)](https://blog.matthewbrunelle.com/my-second-year-of-the-linux-desktop-for-gaming/)
 * [2025-12-24, 19:35:47](https://lobste.rs/s/ddgreh/curl_2025_review) - [A curl 2025 review](https://daniel.haxx.se/blog/2025/12/23/a-curl-2025-review/)
 * [2025-12-24, 19:05:16](https://lobste.rs/s/g1wsya/cjanet) - [cjanet](https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet)
 * [2025-12-24, 18:03:34](https://lobste.rs/s/fexaye/zippop_space_conserving_unzipping) - [ZipPop: a space conserving unzipping script](https://github.com/th0ma5w/ZipPop)
