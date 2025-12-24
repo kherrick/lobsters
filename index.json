@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-24, 15:57:22",
+      "https://lobste.rs/s/zz45pp/my_2026_open_social_web_predictions"
+    ],
+    [
+      "My 2026 Open Social Web Predictions",
+      "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 15:22:36",
       "https://lobste.rs/s/xgfhan/nix_state_sbom"
     ],
@@ -167,16 +177,6 @@
     [
       "folder.zone: Share end-to-end encrypted folders live",
       "https://folder.zone"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 15:47:38",
-      "https://lobste.rs/s/kpvesz/reproducing_nixos_25_11_minimal"
-    ],
-    [
-      "Reproducing the NixOS 25.11 Minimal Installation ISO",
-      "https://arnout.engelen.eu/blog/reproducing-nixos-25.11-minimal-iso/"
     ]
   ],
   [
