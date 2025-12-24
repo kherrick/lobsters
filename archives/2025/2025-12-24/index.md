@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 19:35:47](https://lobste.rs/s/ddgreh/curl_2025_review) - [A curl 2025 review](https://daniel.haxx.se/blog/2025/12/23/a-curl-2025-review/)
 * [2025-12-24, 19:05:16](https://lobste.rs/s/g1wsya/cjanet) - [cjanet](https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet)
 * [2025-12-24, 18:03:34](https://lobste.rs/s/fexaye/zippop_space_conserving_unzipping) - [ZipPop: a space conserving unzipping script](https://github.com/th0ma5w/ZipPop)
 * [2025-12-24, 18:02:19](https://lobste.rs/s/epoqyk/swanky_python_interactive_development) - [Swanky Python: Interactive development for Python](https://emacsconf.org/2025/talks/swanky/)
