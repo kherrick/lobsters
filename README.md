@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-25, 06:27:46](https://lobste.rs/s/raajxi/announcing_rules_img_faster_path) - [Announcing rules_img: a faster path to container images in Bazel](https://tweag.io/blog/2025-12-18-rules_img/)
+* [2025-12-25, 06:24:29](https://lobste.rs/s/ntunpn/mathematically_extra_complicated) - [Mathematically extra-complicated Secretest Santa 2025](https://youtube.com/watch?v=4pG8_bWpmaE)
+* [2025-12-25, 06:06:14](https://lobste.rs/s/ru2xgh/fucking_approachable_swift_concurrency) - [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-25, 04:50:00](https://lobste.rs/s/xwebbx/ruby_4_0_0_released) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
 * [2025-12-25, 03:40:12](https://lobste.rs/s/z5ae9q/load_store_forwarding_toy_optimizer) - [Load and store forwarding in the Toy Optimizer](https://bernsteinbear.com/blog/toy-load-store/)
 * [2025-12-25, 03:29:58](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from) - [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
@@ -7,7 +10,6 @@
 * [2025-12-25, 01:26:38](https://lobste.rs/s/8xduvx/advent_code_2025_haskell_solution) - [Advent of Code 2025: Haskell Solution Reflections for all 12 Days](https://blog.jle.im/entry/advent-of-code-2025.html)
 * [2025-12-25, 01:16:06](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig) - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 * [2025-12-25, 00:37:08](https://lobste.rs/s/ljfhgy/next_gen_mainboard_designed_with) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in mind](https://mirari.vitasys.nl/our-story/)
-* [2025-12-25, 00:20:08](https://lobste.rs/s/qq9gml/qemu_version_10_2_0_released) - [QEMU version 10.2.0 released](https://www.qemu.org/2025/12/24/qemu-10-2-0/)
 * [2025-12-24, 23:22:52](https://lobste.rs/s/b1vxmq/datafun_functional_language) - [Datafun - functional language that generalizes Datalog](https://www.rntz.net/datafun/)
 * [2025-12-24, 22:33:17](https://lobste.rs/s/rug4vo/2025_matrix_holiday_special) - [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
 * [2025-12-24, 21:20:13](https://lobste.rs/s/0zxfoh/how_jpeg_screenshots_defeated_our) - [How JPEG Screenshots Defeated Our Beautiful H.264 WebCodecs Pipeline](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
@@ -21,10 +23,8 @@
 * [2025-12-24, 14:03:07](https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16) - [I'm returning my Framework 16](https://yorickpeterse.com/articles/im-returning-my-framework-16/)
 * [2025-12-24, 12:46:10](https://lobste.rs/s/mi8vrp/avoid_mini_frameworks) - [Avoid mini-frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/)
 * [2025-12-24, 12:41:43](https://lobste.rs/s/irewer/implementation_optimized_vector) - [Implementation of optimized vector of strings in C++ in SumatraPDF](https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html)
-* [2025-12-23, 22:37:54](https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997) - [They made me an offer I couldn't refuse (1997)](http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/)
 * [2025-12-23, 15:53:35](https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program) - [The Linux kernel is just a program](https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/)
 * [2025-12-23, 14:02:13](https://lobste.rs/s/60fjs1/mquickjs_micro_quickjs_javascript) - [mquickjs: Micro QuickJS Javascript Engine](https://github.com/bellard/mquickjs)
-* [2025-12-23, 07:38:18](https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111) - [The lightest notes app implementation in 111 loc](https://github.com/antonmedv/textarea)
 
 ## [Archives](archives/index.md)
 
