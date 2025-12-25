@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-12-24, 23:35:47",
-      "https://lobste.rs/s/shcqvv/dedalus_datalog_time_space_2009"
+      "2025-12-25, 00:37:08",
+      "https://lobste.rs/s/ljfhgy/next_gen_mainboard_designed_with"
     ],
     [
-      "Dedalus: Datalog in Time and Space (2009)",
-      "http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf"
+      "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in mind",
+      "https://mirari.vitasys.nl/our-story/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 00:20:08",
+      "https://lobste.rs/s/qq9gml/qemu_version_10_2_0_released"
+    ],
+    [
+      "QEMU version 10.2.0 released",
+      "https://www.qemu.org/2025/12/24/qemu-10-2-0/"
+    ]
+  ],
+  [
+    [
+      "2025-12-24, 23:59:09",
+      "https://lobste.rs/s/qmomcg/advent_code_2025_ai_llm_edition"
+    ],
+    [
+      "Advent of Code 2025: The AI LLM Edition",
+      "https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "ZipPop: a space conserving unzipping script",
       "https://github.com/th0ma5w/ZipPop"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 18:02:19",
-      "https://lobste.rs/s/epoqyk/swanky_python_interactive_development"
-    ],
-    [
-      "Swanky Python: Interactive development for Python",
-      "https://emacsconf.org/2025/talks/swanky/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "mquickjs: Micro QuickJS Javascript Engine",
       "https://github.com/bellard/mquickjs"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 13:30:28",
-      "https://lobste.rs/s/zs8egh/vigil_clean_fast_build_watcher_for_zig"
-    ],
-    [
-      "Vigil - A clean, fast build watcher for Zig (inspired by Bacon for Rust)",
-      "https://github.com/chase-lambert/vigil"
     ]
   ],
   [
