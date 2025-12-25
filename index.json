@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-25, 03:40:12",
+      "https://lobste.rs/s/z5ae9q/load_store_forwarding_toy_optimizer"
+    ],
+    [
+      "Load and store forwarding in the Toy Optimizer",
+      "https://bernsteinbear.com/blog/toy-load-store/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 03:30:38",
+      "https://lobste.rs/s/n7sn45/using_vectorize_build_search_engine_160"
+    ],
+    [
+      "Using Vectorize to build a search engine in 160 loc",
+      "https://blog.partykit.io/posts/using-vectorize-to-build-search/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 03:29:58",
+      "https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from"
+    ],
+    [
+      "phoenix - A modern X server written from scratch in Zig",
+      "https://git.dec05eba.com/phoenix/about/"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 01:49:38",
       "https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-12-24, 15:22:36",
-      "https://lobste.rs/s/xgfhan/nix_state_sbom"
-    ],
-    [
-      "Nix State of the SBOM",
-      "https://arnout.engelen.eu/blog/nix-state-of-the-sbom/"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 14:03:07",
       "https://lobste.rs/s/zrgtnx/i_m_returning_my_framework_16"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-12-23, 21:58:43",
-      "https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing"
-    ],
-    [
-      "Your favorite pieces of technical writing?",
-      "https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 15:53:35",
       "https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program"
     ],
     [
       "The Linux kernel is just a program",
       "https://serversfor.dev/linux-inside-out/the-linux-kernel-is-just-a-program/"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 15:50:04",
-      "https://lobste.rs/s/mogfta/folder_zone_share_end_end_encrypted"
-    ],
-    [
-      "folder.zone: Share end-to-end encrypted folders live",
-      "https://folder.zone"
     ]
   ],
   [
