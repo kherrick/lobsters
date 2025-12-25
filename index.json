@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-25, 01:49:38",
+      "https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as"
+    ],
+    [
+      "Package managers keep using git as a database, it never works out",
+      "https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 01:26:38",
+      "https://lobste.rs/s/8xduvx/advent_code_2025_haskell_solution"
+    ],
+    [
+      "Advent of Code 2025: Haskell Solution Reflections for all 12 Days",
+      "https://blog.jle.im/entry/advent-of-code-2025.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 01:16:06",
+      "https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig"
+    ],
+    [
+      "Newtype Index Pattern In Zig",
+      "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 00:37:08",
       "https://lobste.rs/s/ljfhgy/next_gen_mainboard_designed_with"
     ],
@@ -17,16 +47,6 @@
     [
       "QEMU version 10.2.0 released",
       "https://www.qemu.org/2025/12/24/qemu-10-2-0/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 23:59:09",
-      "https://lobste.rs/s/qmomcg/advent_code_2025_ai_llm_edition"
-    ],
-    [
-      "Advent of Code 2025: The AI LLM Edition",
-      "https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-12-24, 15:57:22",
-      "https://lobste.rs/s/zz45pp/my_2026_open_social_web_predictions"
-    ],
-    [
-      "My 2026 Open Social Web Predictions",
-      "https://www.timothychambers.net/2025/12/23/my-open-social-web-predictions.html"
-    ]
-  ],
-  [
-    [
       "2025-12-24, 15:22:36",
       "https://lobste.rs/s/xgfhan/nix_state_sbom"
     ],
@@ -197,16 +207,6 @@
     [
       "Your favorite pieces of technical writing?",
       "https://lobste.rs/s/8ugoxw/your_favorite_pieces_technical_writing"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 21:47:03",
-      "https://lobste.rs/s/aipma8/cpu_cpu_command_go_inspired_by_plan_9_cpu"
-    ],
-    [
-      "cpu: cpu command in Go, inspired by the Plan 9 cpu command",
-      "https://github.com/u-root/cpu"
     ]
   ],
   [
