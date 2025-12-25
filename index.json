@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-12-24, 23:22:52",
+      "https://lobste.rs/s/b1vxmq/datafun_functional_language"
+    ],
+    [
+      "Datafun - functional language that generalizes Datalog",
+      "https://www.rntz.net/datafun/"
+    ]
+  ],
+  [
+    [
       "2025-12-24, 22:33:17",
       "https://lobste.rs/s/rug4vo/2025_matrix_holiday_special"
     ],
@@ -217,16 +227,6 @@
     [
       "cjanet",
       "https://github.com/janet-lang/spork/blob/cjanet-jit/spork/cjanet.janet"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 18:03:34",
-      "https://lobste.rs/s/fexaye/zippop_space_conserving_unzipping"
-    ],
-    [
-      "ZipPop: a space conserving unzipping script",
-      "https://github.com/th0ma5w/ZipPop"
     ]
   ],
   [
