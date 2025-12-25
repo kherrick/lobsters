@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-25, 06:27:46",
+      "https://lobste.rs/s/raajxi/announcing_rules_img_faster_path"
+    ],
+    [
+      "Announcing rules_img: a faster path to container images in Bazel",
+      "https://tweag.io/blog/2025-12-18-rules_img/"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 06:24:29",
+      "https://lobste.rs/s/ntunpn/mathematically_extra_complicated"
+    ],
+    [
+      "Mathematically extra-complicated Secretest Santa 2025",
+      "https://youtube.com/watch?v=4pG8_bWpmaE"
+    ]
+  ],
+  [
+    [
+      "2025-12-25, 06:06:14",
+      "https://lobste.rs/s/ru2xgh/fucking_approachable_swift_concurrency"
+    ],
+    [
+      "Fucking Approachable Swift Concurrency",
+      "https://fuckingapproachableswiftconcurrency.com/en/"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 04:50:00",
       "https://lobste.rs/s/xwebbx/ruby_4_0_0_released"
     ],
@@ -67,16 +97,6 @@
     [
       "The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in mind",
       "https://mirari.vitasys.nl/our-story/"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 00:20:08",
-      "https://lobste.rs/s/qq9gml/qemu_version_10_2_0_released"
-    ],
-    [
-      "QEMU version 10.2.0 released",
-      "https://www.qemu.org/2025/12/24/qemu-10-2-0/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-23, 22:37:54",
-      "https://lobste.rs/s/urk73b/they_made_me_offer_i_couldn_t_refuse_1997"
-    ],
-    [
-      "They made me an offer I couldn't refuse (1997)",
-      "http://jens.mooseyard.com/1997/04/13/they-made-me-an-offer-i-couldnt-refuse/"
-    ]
-  ],
-  [
-    [
       "2025-12-23, 15:53:35",
       "https://lobste.rs/s/eqsxsc/linux_kernel_is_just_program"
     ],
@@ -237,16 +247,6 @@
     [
       "mquickjs: Micro QuickJS Javascript Engine",
       "https://github.com/bellard/mquickjs"
-    ]
-  ],
-  [
-    [
-      "2025-12-23, 07:38:18",
-      "https://lobste.rs/s/st1mpl/lightest_notes_app_implementation_111"
-    ],
-    [
-      "The lightest notes app implementation in 111 loc",
-      "https://github.com/antonmedv/textarea"
     ]
   ]
 ]
