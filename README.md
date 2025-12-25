@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-25, 11:51:40](https://lobste.rs/s/m7rjvj/one_formula_demystifies_3d_graphics) - [One formula that demystifies 3D graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo)
 * [2025-12-25, 08:58:01](https://lobste.rs/s/jsd85u/self_referencing_page_tables_for_x86) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 * [2025-12-25, 08:42:43](https://lobste.rs/s/tfrm9n/gleam_v1_14_happy_holidays_release_2025) - [Gleam v1.14 - the happy holidays release 2025](https://gleam.run/news/the-happy-holidays-2025-release/)
 * [2025-12-25, 08:41:40](https://lobste.rs/s/ylkoln/ssh_tiny_christmas) - [ssh tiny.christmas](https://eieio.games/blog/tiny-christmas/)
@@ -11,7 +12,6 @@
 * [2025-12-25, 01:49:38](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as) - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 * [2025-12-25, 01:16:06](https://lobste.rs/s/qy1wrx/newtype_index_pattern_zig) - [Newtype Index Pattern In Zig](https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html)
 * [2025-12-25, 00:37:08](https://lobste.rs/s/ljfhgy/next_gen_mainboard_designed_with) - [The Next-Gen Mainboard Designed with AmigaOS4 and MorphOS in mind](https://mirari.vitasys.nl/our-story/)
-* [2025-12-25, 00:20:08](https://lobste.rs/s/qq9gml/qemu_version_10_2_0_released) - [QEMU version 10.2.0 released](https://www.qemu.org/2025/12/24/qemu-10-2-0/)
 * [2025-12-24, 23:22:52](https://lobste.rs/s/b1vxmq/datafun_functional_language) - [Datafun - functional language that generalizes Datalog](https://www.rntz.net/datafun/)
 * [2025-12-24, 22:33:17](https://lobste.rs/s/rug4vo/2025_matrix_holiday_special) - [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
 * [2025-12-24, 21:20:13](https://lobste.rs/s/0zxfoh/how_jpeg_screenshots_defeated_our) - [How JPEG Screenshots Defeated Our Beautiful H.264 WebCodecs Pipeline](https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen)
