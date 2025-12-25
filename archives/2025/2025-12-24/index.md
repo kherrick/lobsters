@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-24](index.md)
 
+* [2025-12-24, 23:59:09](https://lobste.rs/s/qmomcg/advent_code_2025_ai_llm_edition) - [Advent of Code 2025: The AI LLM Edition](https://github.com/norvig/pytudes/blob/main/ipynb/Advent-2025-AI.ipynb)
 * [2025-12-24, 23:35:47](https://lobste.rs/s/shcqvv/dedalus_datalog_time_space_2009) - [Dedalus: Datalog in Time and Space (2009)](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-173.pdf)
 * [2025-12-24, 23:22:52](https://lobste.rs/s/b1vxmq/datafun_functional_language) - [Datafun - functional language that generalizes Datalog](https://www.rntz.net/datafun/)
 * [2025-12-24, 22:33:17](https://lobste.rs/s/rug4vo/2025_matrix_holiday_special) - [The 2025 Matrix Holiday Special](https://matrix.org/blog/2025/12/24/matrix-holiday-special/)
