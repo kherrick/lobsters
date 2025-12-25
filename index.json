@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-25, 06:27:46",
+      "https://lobste.rs/s/raajxi/announcing_rules_img_faster_path"
+    ],
+    [
+      "Announcing rules_img: a faster path to container images in Bazel",
+      "https://tweag.io/blog/2025-12-18-rules_img/"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 06:24:29",
       "https://lobste.rs/s/ntunpn/mathematically_extra_complicated"
     ],
@@ -227,16 +237,6 @@
     [
       "Avoid mini-frameworks",
       "https://laike9m.com/blog/avoid-mini-frameworks,171/"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 12:41:43",
-      "https://lobste.rs/s/irewer/implementation_optimized_vector"
-    ],
-    [
-      "Implementation of optimized vector of strings in C++ in SumatraPDF",
-      "https://blog.kowalczyk.info/a-u2y2/implementation-of-optimized-vector-of-strings-in-c-in-sumatrapdf.html"
     ]
   ],
   [
