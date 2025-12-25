@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-25, 21:14:56",
+      "https://lobste.rs/s/t2xoco/released_kc3_v0_1_16"
+    ],
+    [
+      "Released KC3 v0.1.16",
+      "https://www.kmx.io/blog/released-kc3-v0.1.16"
+    ]
+  ],
+  [
+    [
       "2025-12-25, 15:14:42",
       "https://lobste.rs/s/kplced/html_elements_time_forgot"
     ],
@@ -147,16 +157,6 @@
     [
       "Newtype Index Pattern In Zig",
       "https://matklad.github.io/2025/12/23/zig-newtype-index-pattern.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-24, 23:22:52",
-      "https://lobste.rs/s/b1vxmq/datafun_functional_language"
-    ],
-    [
-      "Datafun - functional language that generalizes Datalog",
-      "https://www.rntz.net/datafun/"
     ]
   ],
   [
