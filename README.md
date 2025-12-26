@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-26, 22:18:19](https://lobste.rs/s/aw9zjc/llm_grep_match_lines_using_both_classic) - [llm-grep: Match lines using both classic and semantic regular expressions](https://github.com/vagos/llm-grep)
 * [2025-12-26, 21:42:32](https://lobste.rs/s/oydvli/enabling_c_threads_python_wasm) - [\"Enabling\" C threads in a Python / Wasm environment](https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html)
 * [2025-12-26, 21:29:53](https://lobste.rs/s/9ncsiq/contract_md_naughty_list_for_ai_coding) - [CONTRACT.md: The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/)
 * [2025-12-26, 20:41:47](https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes) - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
@@ -17,7 +18,6 @@
 * [2025-12-26, 12:04:24](https://lobste.rs/s/bjn0cl/i_m_laptop_weirdo_s_why_i_like_my_new) - [I'm a laptop weirdo and that's why I like my new Framework 13](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/)
 * [2025-12-26, 11:17:15](https://lobste.rs/s/n4kxdf/rob_pike_goes_nuclear_over_genai) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 * [2025-12-26, 09:43:09](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend)
-* [2025-12-26, 08:21:09](https://lobste.rs/s/jd62vn/sendspin_music_experience_protocol) - [Sendspin: Music Experience Protocol](https://www.sendspin-audio.com/)
 * [2025-12-26, 06:05:07](https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell) - [Writing an NES emulator in Haskell](https://arthi-chaud.github.io/posts/funes/)
 * [2025-12-26, 01:38:47](https://lobste.rs/s/bnvrfq/ancient_greek_geometry) - [Ancient Greek geometry](https://sciencevsmagic.net/geo/)
 * [2025-12-26, 00:59:00](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle) - [Automating What Backblaze Lifecycle Rules Don't Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/)
