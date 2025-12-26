@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-26, 20:41:47",
+      "https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes"
+    ],
+    [
+      "How I think about Kubernetes",
+      "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 20:39:47",
+      "https://lobste.rs/s/zdbmwm/reimplementing_flashattention_for"
+    ],
+    [
+      "Reimplementing FlashAttention for performance and giggles",
+      "https://aminediro.com/posts/flash_attn/"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 19:41:18",
       "https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-12-26, 10:30:00",
-      "https://lobste.rs/s/ljbktf/beautiful_reprs"
-    ],
-    [
-      "Beautiful reprs",
-      "https://pomponchik.org/notes/beautiful-reprs/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 09:43:09",
       "https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend"
     ],
@@ -227,16 +237,6 @@
     [
       "The HTML Elements Time Forgot",
       "https://htmhell.dev/adventcalendar/2025/22/"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 08:42:43",
-      "https://lobste.rs/s/tfrm9n/gleam_v1_14_happy_holidays_release_2025"
-    ],
-    [
-      "Gleam v1.14 - the happy holidays release 2025",
-      "https://gleam.run/news/the-happy-holidays-2025-release/"
     ]
   ],
   [
