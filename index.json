@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-26, 08:21:09",
+      "https://lobste.rs/s/jd62vn/sendspin_music_experience_protocol"
+    ],
+    [
+      "Sendspin: Music Experience Protocol",
+      "https://www.sendspin-audio.com/"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 06:05:07",
       "https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell"
     ],
@@ -157,16 +167,6 @@
     [
       "ssh tiny.christmas",
       "https://eieio.games/blog/tiny-christmas/"
-    ]
-  ],
-  [
-    [
-      "2025-12-25, 06:27:46",
-      "https://lobste.rs/s/raajxi/announcing_rules_img_faster_path"
-    ],
-    [
-      "Announcing rules_img: a faster path to container images in Bazel",
-      "https://tweag.io/blog/2025-12-18-rules_img/"
     ]
   ],
   [
