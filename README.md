@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-26, 11:17:15](https://lobste.rs/s/n4kxdf/rob_pike_goes_nuclear_over_genai) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 * [2025-12-26, 10:30:00](https://lobste.rs/s/ljbktf/beautiful_reprs) - [Beautiful reprs](https://pomponchik.org/notes/beautiful-reprs/)
 * [2025-12-26, 09:43:09](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend)
 * [2025-12-26, 08:21:09](https://lobste.rs/s/jd62vn/sendspin_music_experience_protocol) - [Sendspin: Music Experience Protocol](https://www.sendspin-audio.com/)
@@ -14,7 +15,6 @@
 * [2025-12-25, 15:14:42](https://lobste.rs/s/kplced/html_elements_time_forgot) - [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/)
 * [2025-12-25, 13:44:32](https://lobste.rs/s/8bvbgm/microsoft_is_finally_killing_rc4) - [Microsoft Is Finally Killing RC4](https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html)
 * [2025-12-25, 13:09:09](https://lobste.rs/s/5mvar3/python_3_15_s_interpreter_for_windows_x86) - [Python 3.15’s interpreter for Windows x86-64 should hopefully be 15% faster](https://fidget-spinner.github.io/posts/no-longer-sorry.html)
-* [2025-12-25, 11:51:40](https://lobste.rs/s/m7rjvj/one_formula_demystifies_3d_graphics) - [One formula that demystifies 3D graphics](https://www.youtube.com/watch?v=qjWkNZ0SXfo)
 * [2025-12-25, 08:58:01](https://lobste.rs/s/jsd85u/self_referencing_page_tables_for_x86) - [Self-referencing Page Tables for the x86-Architecture](https://0l.de/blog/2015/01/bachelor-thesis-abstract/)
 * [2025-12-25, 08:42:43](https://lobste.rs/s/tfrm9n/gleam_v1_14_happy_holidays_release_2025) - [Gleam v1.14 - the happy holidays release 2025](https://gleam.run/news/the-happy-holidays-2025-release/)
 * [2025-12-25, 08:41:40](https://lobste.rs/s/ylkoln/ssh_tiny_christmas) - [ssh tiny.christmas](https://eieio.games/blog/tiny-christmas/)
