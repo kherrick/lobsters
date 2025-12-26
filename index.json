@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-26, 09:43:09",
+      "https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-12-26, 08:21:09",
       "https://lobste.rs/s/jd62vn/sendspin_music_experience_protocol"
     ],
@@ -17,16 +27,6 @@
     [
       "Writing an NES emulator in Haskell",
       "https://arthi-chaud.github.io/posts/funes/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 04:48:09",
-      "https://lobste.rs/s/ou2zm7/toward_policy_for_machine_learning_tools"
-    ],
-    [
-      "Toward a policy for machine-learning tools in kernel development",
-      "https://lwn.net/Articles/1049830/"
     ]
   ],
   [
