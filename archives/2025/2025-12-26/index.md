@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 21:29:53](https://lobste.rs/s/9ncsiq/contract_md_naughty_list_for_ai_coding) - [CONTRACT.md: The Naughty List for AI Coding Agents](https://www.discussdontcode.com/zettels/contract.md-the-naughty-list-for-ai-coding-agents/)
 * [2025-12-26, 20:41:47](https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes) - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 20:39:47](https://lobste.rs/s/zdbmwm/reimplementing_flashattention_for) - [Reimplementing FlashAttention for performance and giggles](https://aminediro.com/posts/flash_attn/)
 * [2025-12-26, 19:41:18](https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for) - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
