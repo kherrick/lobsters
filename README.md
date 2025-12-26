@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-26, 19:41:18](https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for) - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
 * [2025-12-26, 19:17:30](https://lobste.rs/s/yasyrg/simplifying_build_process_for_vst3_rs) - [Simplifying the build process for vst3-rs](https://micahrj.github.io/posts/vst3/)
 * [2025-12-26, 18:44:10](https://lobste.rs/s/69el0u/show_twine_tool_dynamically_trace_calls) - [Show: Twine - A tool to dynamically trace calls in production Elixir systems](https://github.com/ollien/twine)
 * [2025-12-26, 18:16:09](https://lobste.rs/s/dqwid1/how_uv_got_so_fast) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
@@ -23,7 +24,6 @@
 * [2025-12-25, 22:00:54](https://lobste.rs/s/4fmqgd/are_two_heads_better_than_one) - [Are Two Heads Better Than One?](https://eieio.games/blog/two-heads-arent-better-than-one/)
 * [2025-12-25, 15:14:42](https://lobste.rs/s/kplced/html_elements_time_forgot) - [The HTML Elements Time Forgot](https://htmhell.dev/adventcalendar/2025/22/)
 * [2025-12-25, 08:42:43](https://lobste.rs/s/tfrm9n/gleam_v1_14_happy_holidays_release_2025) - [Gleam v1.14 - the happy holidays release 2025](https://gleam.run/news/the-happy-holidays-2025-release/)
-* [2025-12-25, 08:41:40](https://lobste.rs/s/ylkoln/ssh_tiny_christmas) - [ssh tiny.christmas](https://eieio.games/blog/tiny-christmas/)
 * [2025-12-25, 01:49:38](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as) - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)
 
 ## [Archives](archives/index.md)
