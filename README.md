@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-26, 06:05:07](https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell) - [Writing an NES emulator in Haskell](https://arthi-chaud.github.io/posts/funes/)
 * [2025-12-26, 04:48:09](https://lobste.rs/s/ou2zm7/toward_policy_for_machine_learning_tools) - [Toward a policy for machine-learning tools in kernel development](https://lwn.net/Articles/1049830/)
 * [2025-12-26, 01:38:47](https://lobste.rs/s/bnvrfq/ancient_greek_geometry) - [Ancient Greek geometry](https://sciencevsmagic.net/geo/)
 * [2025-12-26, 01:05:00](https://lobste.rs/s/3uzl6a/microarchitecture_what_happens_beneath) - [Microarchitecture: What Happens Beneath](https://www.youtube.com/watch?v=BVVNtG5dgks)
@@ -17,7 +18,6 @@
 * [2025-12-25, 08:41:40](https://lobste.rs/s/ylkoln/ssh_tiny_christmas) - [ssh tiny.christmas](https://eieio.games/blog/tiny-christmas/)
 * [2025-12-25, 06:27:46](https://lobste.rs/s/raajxi/announcing_rules_img_faster_path) - [Announcing rules_img: a faster path to container images in Bazel](https://tweag.io/blog/2025-12-18-rules_img/)
 * [2025-12-25, 06:24:29](https://lobste.rs/s/ntunpn/mathematically_extra_complicated) - [Mathematically extra-complicated Secretest Santa 2025](https://youtube.com/watch?v=4pG8_bWpmaE)
-* [2025-12-25, 06:06:14](https://lobste.rs/s/ru2xgh/fucking_approachable_swift_concurrency) - [Fucking Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)
 * [2025-12-25, 04:50:00](https://lobste.rs/s/xwebbx/ruby_4_0_0_released) - [Ruby 4.0.0 Released](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
 * [2025-12-25, 03:29:58](https://lobste.rs/s/8ayphg/phoenix_modern_x_server_written_from) - [phoenix - A modern X server written from scratch in Zig](https://git.dec05eba.com/phoenix/about/)
 * [2025-12-25, 01:49:38](https://lobste.rs/s/bygvwv/package_managers_keep_using_git_as) - [Package managers keep using git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html)

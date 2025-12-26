@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-26](index.md)
 
+* [2025-12-26, 06:05:07](https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell) - [Writing an NES emulator in Haskell](https://arthi-chaud.github.io/posts/funes/)
 * [2025-12-26, 04:48:09](https://lobste.rs/s/ou2zm7/toward_policy_for_machine_learning_tools) - [Toward a policy for machine-learning tools in kernel development](https://lwn.net/Articles/1049830/)
 * [2025-12-26, 01:38:47](https://lobste.rs/s/bnvrfq/ancient_greek_geometry) - [Ancient Greek geometry](https://sciencevsmagic.net/geo/)
 * [2025-12-26, 01:05:00](https://lobste.rs/s/3uzl6a/microarchitecture_what_happens_beneath) - [Microarchitecture: What Happens Beneath](https://www.youtube.com/watch?v=BVVNtG5dgks)
