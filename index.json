@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-27, 22:36:23",
+      "https://lobste.rs/s/n7u47v/liberating_bluetooth_on_esp32"
+    ],
+    [
+      "Liberating Bluetooth on the ESP32",
+      "https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 22:28:50",
+      "https://lobste.rs/s/dl3hxi/39c3_sign_not_sign_practical"
+    ],
+    [
+      "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
+      "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 22:15:57",
       "https://lobste.rs/s/vngrsv/server_radar_track_hetzner_server_prices"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-12-27, 12:36:54",
-      "https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml"
-    ],
-    [
-      "Linux kernel community discussion on ML/LLM tools in kernel development",
-      "https://lwn.net/Articles/1050355/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 10:48:14",
       "https://lobste.rs/s/72piqg/you_can_t_design_software_you_don_t_work_on"
     ],
@@ -197,16 +207,6 @@
     [
       "Simplifying the build process for vst3-rs",
       "https://micahrj.github.io/posts/vst3/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 18:44:10",
-      "https://lobste.rs/s/69el0u/show_twine_tool_dynamically_trace_calls"
-    ],
-    [
-      "Show: Twine - A tool to dynamically trace calls in production Elixir systems",
-      "https://github.com/ollien/twine"
     ]
   ],
   [
