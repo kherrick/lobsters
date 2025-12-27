@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 13:39:41",
+      "https://lobste.rs/s/ibgvjk/getting_started_with_playdate_on_ubuntu"
+    ],
+    [
+      "Getting started with Playdate on Ubuntu",
+      "https://sethmlarson.dev/getting-started-with-playdate-on-ubuntu"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 12:36:54",
       "https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml"
     ],
@@ -107,16 +117,6 @@
     [
       "How I think about Kubernetes",
       "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 20:39:47",
-      "https://lobste.rs/s/zdbmwm/reimplementing_flashattention_for"
-    ],
-    [
-      "Reimplementing FlashAttention for performance and giggles",
-      "https://aminediro.com/posts/flash_attn/"
     ]
   ],
   [
