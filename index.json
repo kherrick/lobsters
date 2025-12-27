@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 12:36:54",
+      "https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml"
+    ],
+    [
+      "Linux kernel community discussion on ML/LLM tools in kernel development",
+      "https://lwn.net/Articles/1050355/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 11:08:00",
       "https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera"
     ],
@@ -147,16 +157,6 @@
     [
       "How uv got so fast",
       "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 16:49:44",
-      "https://lobste.rs/s/ohipi0/profiling_sampling_statistical"
-    ],
-    [
-      "profiling.sampling: Statistical profiler",
-      "https://docs.python.org/3.15/library/profiling.sampling.html"
     ]
   ],
   [
