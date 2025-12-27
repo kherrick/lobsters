@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 16:49:35",
+      "https://lobste.rs/s/vob9fu/this_png_will_show_different_version_if"
+    ],
+    [
+      "This PNG will show different version if you open it in Chrome than in Safari",
+      "https://lr0.org/blog/p/pngchanges/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 16:23:49",
       "https://lobste.rs/s/hchq1o/hidden_brain_power_behind_programming"
     ],
@@ -137,16 +147,6 @@
     [
       "llm-grep: Match lines using both classic and semantic regular expressions",
       "https://github.com/vagos/llm-grep"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 21:42:32",
-      "https://lobste.rs/s/oydvli/enabling_c_threads_python_wasm"
-    ],
-    [
-      "\"Enabling\" C threads in a Python / Wasm environment",
-      "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html"
     ]
   ],
   [
