@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 14:15:13",
+      "https://lobste.rs/s/kzttyp/39c3_power_cycles_media_ccc_de"
+    ],
+    [
+      "39C3: Power Cycles- media.ccc.de",
+      "https://media.ccc.de/c/39c3"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 13:39:41",
       "https://lobste.rs/s/ibgvjk/getting_started_with_playdate_on_ubuntu"
     ],
@@ -237,16 +247,6 @@
     [
       "Writing an NES emulator in Haskell",
       "https://arthi-chaud.github.io/posts/funes/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 00:59:00",
-      "https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle"
-    ],
-    [
-      "Automating What Backblaze Lifecycle Rules Don't Do Instantly",
-      "https://blog.tymscar.com/posts/backblazeb2cleanup/"
     ]
   ]
 ]
