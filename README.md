@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-27, 14:15:13](https://lobste.rs/s/kzttyp/39c3_power_cycles_media_ccc_de) - [39C3: Power Cycles- media.ccc.de](https://media.ccc.de/c/39c3)
 * [2025-12-27, 13:39:41](https://lobste.rs/s/ibgvjk/getting_started_with_playdate_on_ubuntu) - [Getting started with Playdate on Ubuntu](https://sethmlarson.dev/getting-started-with-playdate-on-ubuntu)
 * [2025-12-27, 12:36:54](https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml) - [Linux kernel community discussion on ML/LLM tools in kernel development](https://lwn.net/Articles/1050355/)
 * [2025-12-27, 11:08:00](https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera) - [Meet Critic: Code Inspection System in Opera Software (2019?)](https://sudonull.com/post/135595)
@@ -24,7 +25,6 @@
 * [2025-12-26, 11:17:15](https://lobste.rs/s/n4kxdf/rob_pike_goes_nuclear_over_genai) - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o)
 * [2025-12-26, 09:43:09](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend)
 * [2025-12-26, 06:05:07](https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell) - [Writing an NES emulator in Haskell](https://arthi-chaud.github.io/posts/funes/)
-* [2025-12-26, 00:59:00](https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle) - [Automating What Backblaze Lifecycle Rules Don't Do Instantly](https://blog.tymscar.com/posts/backblazeb2cleanup/)
 
 ## [Archives](archives/index.md)
 

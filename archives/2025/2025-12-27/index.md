@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 14:15:13](https://lobste.rs/s/kzttyp/39c3_power_cycles_media_ccc_de) - [39C3: Power Cycles- media.ccc.de](https://media.ccc.de/c/39c3)
 * [2025-12-27, 13:39:41](https://lobste.rs/s/ibgvjk/getting_started_with_playdate_on_ubuntu) - [Getting started with Playdate on Ubuntu](https://sethmlarson.dev/getting-started-with-playdate-on-ubuntu)
 * [2025-12-27, 12:36:54](https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml) - [Linux kernel community discussion on ML/LLM tools in kernel development](https://lwn.net/Articles/1050355/)
 * [2025-12-27, 11:08:00](https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera) - [Meet Critic: Code Inspection System in Opera Software (2019?)](https://sudonull.com/post/135595)
