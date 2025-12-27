@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-27, 16:23:49",
+      "https://lobste.rs/s/hchq1o/hidden_brain_power_behind_programming"
+    ],
+    [
+      "The hidden brain power behind programming",
+      "https://web.eecs.umich.edu/~weimerw/p/weimer-icse2024-tms.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 16:05:55",
       "https://lobste.rs/s/xzqmqg/tty_layer_past_present_future"
     ],
@@ -57,16 +67,6 @@
     [
       "Linux kernel community discussion on ML/LLM tools in kernel development",
       "https://lwn.net/Articles/1050355/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 11:08:00",
-      "https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera"
-    ],
-    [
-      "Meet Critic: Code Inspection System in Opera Software (2019?)",
-      "https://sudonull.com/post/135595"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "llm-grep: Match lines using both classic and semantic regular expressions",
       "https://github.com/vagos/llm-grep"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 21:42:32",
+      "https://lobste.rs/s/oydvli/enabling_c_threads_python_wasm"
+    ],
+    [
+      "\"Enabling\" C threads in a Python / Wasm environment",
+      "https://yosefk.com/blog/enabling-c-threads-in-a-python-wasm-environment.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/yswcyu/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 06:05:07",
-      "https://lobste.rs/s/jkomyi/writing_nes_emulator_haskell"
-    ],
-    [
-      "Writing an NES emulator in Haskell",
-      "https://arthi-chaud.github.io/posts/funes/"
     ]
   ]
 ]
