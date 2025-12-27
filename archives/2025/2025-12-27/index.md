@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 22:15:57](https://lobste.rs/s/vngrsv/server_radar_track_hetzner_server_prices) - [Server Radar - Track Hetzner Server Prices & Receive Email Alerts](https://radar.iodev.org/)
+* [2025-12-27, 22:00:20](https://lobste.rs/s/ouzxwu/goodbye_sass) - [Goodbye Sass](https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/)
 * [2025-12-27, 20:56:37](https://lobste.rs/s/387hab/on_llms_programming) - [On LLMs in programming](https://blog.danieljanus.pl/2025/12/27/llms/)
 * [2025-12-27, 18:55:02](https://lobste.rs/s/4fomxu/fastverse_suite_high_performance_low) - [Fastverse: A Suite of High-Performance and Low-Dependency R Packages](https://fastverse.org/fastverse/)
 * [2025-12-27, 18:25:41](https://lobste.rs/s/my90vn/cve_2025_14847_mongobleed) - [CVE-2025-14847: MongoBleed](https://cybersecuritynews.com/mongobleed-poc-exploit-mongodb/)
