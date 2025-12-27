@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-12-27, 12:36:54",
-      "https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml"
-    ],
-    [
-      "Linux kernel community discussion on ML/LLM tools in kernel development",
-      "https://lwn.net/Articles/1050355/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 11:08:00",
       "https://lobste.rs/s/spwojt/meet_critic_code_inspection_system_opera"
     ],
@@ -117,16 +107,6 @@
     [
       "The Rime of the Ancient Maintainer",
       "https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 22:18:19",
-      "https://lobste.rs/s/aw9zjc/llm_grep_match_lines_using_both_classic"
-    ],
-    [
-      "llm-grep: Match lines using both classic and semantic regular expressions",
-      "https://github.com/vagos/llm-grep"
     ]
   ],
   [
@@ -221,12 +201,22 @@
   ],
   [
     [
-      "2025-12-26, 11:17:15",
-      "https://lobste.rs/s/n4kxdf/rob_pike_goes_nuclear_over_genai"
+      "2025-12-26, 12:27:02",
+      "https://lobste.rs/s/byjzpj/gnu_mes_module_system"
     ],
     [
-      "Rob Pike Goes Nuclear over GenAI",
-      "https://imgur.com/nUJCI3o"
+      "GNU Mes and the module system",
+      "https://ekaitz.elenq.tech/fasterMes5.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 12:04:24",
+      "https://lobste.rs/s/bjn0cl/i_m_laptop_weirdo_s_why_i_like_my_new"
+    ],
+    [
+      "I'm a laptop weirdo and that's why I like my new Framework 13",
+      "https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Writing an NES emulator in Haskell",
       "https://arthi-chaud.github.io/posts/funes/"
+    ]
+  ],
+  [
+    [
+      "2025-12-26, 00:59:00",
+      "https://lobste.rs/s/abglcr/automating_what_backblaze_lifecycle"
+    ],
+    [
+      "Automating What Backblaze Lifecycle Rules Don't Do Instantly",
+      "https://blog.tymscar.com/posts/backblazeb2cleanup/"
     ]
   ]
 ]
