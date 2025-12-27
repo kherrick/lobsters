@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-27](index.md)
 
+* [2025-12-27, 17:03:05](https://lobste.rs/s/4qjivz/gpg_fail) - [gpg.fail](https://gpg.fail)
 * [2025-12-27, 16:49:35](https://lobste.rs/s/vob9fu/this_png_will_show_different_version_if) - [This PNG will show different version if you open it in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 16:23:49](https://lobste.rs/s/hchq1o/hidden_brain_power_behind_programming) - [The hidden brain power behind programming](https://web.eecs.umich.edu/~weimerw/p/weimer-icse2024-tms.pdf)
 * [2025-12-27, 16:05:55](https://lobste.rs/s/xzqmqg/tty_layer_past_present_future) - [The TTY Layer: the Past, Present, and Future](https://www.youtube.com/watch?v=g4sZUBS57OQ)

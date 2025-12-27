@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-27, 17:03:05](https://lobste.rs/s/4qjivz/gpg_fail) - [gpg.fail](https://gpg.fail)
 * [2025-12-27, 16:49:35](https://lobste.rs/s/vob9fu/this_png_will_show_different_version_if) - [This PNG will show different version if you open it in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 16:23:49](https://lobste.rs/s/hchq1o/hidden_brain_power_behind_programming) - [The hidden brain power behind programming](https://web.eecs.umich.edu/~weimerw/p/weimer-icse2024-tms.pdf)
 * [2025-12-27, 16:05:55](https://lobste.rs/s/xzqmqg/tty_layer_past_present_future) - [The TTY Layer: the Past, Present, and Future](https://www.youtube.com/watch?v=g4sZUBS57OQ)
@@ -13,7 +14,6 @@
 * [2025-12-27, 08:52:40](https://lobste.rs/s/xmy2nk/qnx_self_hosted_developer_desktop_brings) - [QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop](https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop)
 * [2025-12-27, 08:18:45](https://lobste.rs/s/p2yx0g/39c3_power_cycles_streaming) - [39C3: Power Cycles Streaming](https://streaming.media.ccc.de/39c3)
 * [2025-12-27, 03:44:30](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally) - [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
-* [2025-12-26, 22:33:20](https://lobste.rs/s/ykxhnw/rime_ancient_maintainer) - [The Rime of the Ancient Maintainer](https://www.joanwestenberg.com/the-rime-of-the-ancient-maintainer/)
 * [2025-12-26, 22:18:19](https://lobste.rs/s/aw9zjc/llm_grep_match_lines_using_both_classic) - [llm-grep: Match lines using both classic and semantic regular expressions](https://github.com/vagos/llm-grep)
 * [2025-12-26, 20:41:47](https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes) - [How I think about Kubernetes](https://garnaudov.com/writings/how-i-think-about-kubernetes/)
 * [2025-12-26, 19:41:18](https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for) - [From Intent to Proof: Dafny Verification for Web Apps](https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/)
