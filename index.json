@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-12-27, 12:36:54",
+      "https://lobste.rs/s/w3yajs/linux_kernel_community_discussion_on_ml"
+    ],
+    [
+      "Linux kernel community discussion on ML/LLM tools in kernel development",
+      "https://lwn.net/Articles/1050355/"
+    ]
+  ],
+  [
+    [
       "2025-12-27, 10:48:14",
       "https://lobste.rs/s/72piqg/you_can_t_design_software_you_don_t_work_on"
     ],
@@ -187,16 +197,6 @@
     [
       "How I think about Kubernetes",
       "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 19:41:18",
-      "https://lobste.rs/s/uoz0h9/from_intent_proof_dafny_verification_for"
-    ],
-    [
-      "From Intent to Proof: Dafny Verification for Web Apps",
-      "https://midspiral.com/blog/from-intent-to-proof-dafny-verification-for-web-apps/"
     ]
   ],
   [
