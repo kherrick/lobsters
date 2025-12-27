@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-27](index.md)
+
+* [2025-12-27, 00:01:55](https://lobste.rs/s/cmlfrr/nix_prompt_clean_modular_bash_prompt_with) - [nix-prompt: a clean and modular bash prompt with just the right amount of customization options](https://github.com/nix-tricks/nix-prompt)
