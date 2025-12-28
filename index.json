@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-28, 17:11:29",
+      "https://lobste.rs/s/u8fjey/solve_hi_q_with_alphazero_curriculum"
+    ],
+    [
+      "Solve Hi-Q with AlphaZero and Curriculum Learning",
+      "https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 14:03:56",
       "https://lobste.rs/s/88f05r/i_was_wrong_about_typescript_part_1"
     ],
@@ -187,16 +197,6 @@
     [
       "Why is calling my asm function from Rust slower than calling it from C?",
       "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 14:51:13",
-      "https://lobste.rs/s/kccoly/commandry_command_line_parser_for"
-    ],
-    [
-      "Commandry - A Command-Line Parser for Standard ML",
-      "https://github.com/PerplexSystems/commandry"
     ]
   ],
   [
