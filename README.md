@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-28, 04:24:51](https://lobste.rs/s/fng667/replacing_js_with_just_html) - [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
+* [2025-12-28, 04:23:56](https://lobste.rs/s/c7jhl3/production_bug_made_me_care_about) - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 * [2025-12-28, 04:12:07](https://lobste.rs/s/xcjlvw/rust_errors_without_dependencies) - [Rust Errors Without Dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/)
-* [2025-12-28, 03:26:55](https://lobste.rs/s/juftsh/have_you_tried_turning_it_off_on_again) - [Have you tried turning it off and on again?](https://eblog.fly.dev/onoff.html)
 * [2025-12-28, 00:51:06](https://lobste.rs/s/4zhhy8/petlibro_your_pet_feeder_is_feeding_data) - [Petlibro: Your Pet Feeder Is Feeding Data To Anyone Who Asks](https://bobdahacker.com/blog/petlibro)
 * [2025-12-27, 22:51:18](https://lobste.rs/s/inixlr/release_age_v1_3_0_post_quantum_more) - [Release age v1.3.0: post-quantum (and more)](https://github.com/FiloSottile/age/releases/tag/v1.3.0)
 * [2025-12-27, 22:36:23](https://lobste.rs/s/n7u47v/liberating_bluetooth_on_esp32) - [Liberating Bluetooth on the ESP32](https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq)
@@ -16,7 +17,6 @@
 * [2025-12-27, 15:00:28](https://lobste.rs/s/byxxmk/why_is_calling_my_asm_function_from_rust) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
 * [2025-12-27, 14:51:13](https://lobste.rs/s/kccoly/commandry_command_line_parser_for) - [Commandry - A Command-Line Parser for Standard ML](https://github.com/PerplexSystems/commandry)
 * [2025-12-27, 14:44:11](https://lobste.rs/s/mhciaq/easel_turns_one_one_year_building_my_own) - [Easel Turns One! One year of building my own IDE in Clojure](https://blog.phronemophobic.com/easel-one-year.html)
-* [2025-12-27, 13:39:41](https://lobste.rs/s/ibgvjk/getting_started_with_playdate_on_ubuntu) - [Getting started with Playdate on Ubuntu](https://sethmlarson.dev/getting-started-with-playdate-on-ubuntu)
 * [2025-12-27, 10:48:14](https://lobste.rs/s/72piqg/you_can_t_design_software_you_don_t_work_on) - [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/)
 * [2025-12-27, 10:31:43](https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight) - [Arcan 0.7.1 – Minutes To Midnight](https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/)
 * [2025-12-27, 08:52:40](https://lobste.rs/s/xmy2nk/qnx_self_hosted_developer_desktop_brings) - [QNX Self-Hosted Developer Desktop Brings QNX 8.0 To A Wayland + Xfce Desktop](https://www.phoronix.com/news/QNX-Self-Hosted-Dev-Desktop)
