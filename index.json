@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-12-28, 04:24:51",
+      "https://lobste.rs/s/fng667/replacing_js_with_just_html"
+    ],
+    [
+      "Replacing JS with just HTML",
+      "https://www.htmhell.dev/adventcalendar/2025/27/"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 04:23:56",
+      "https://lobste.rs/s/c7jhl3/production_bug_made_me_care_about"
+    ],
+    [
+      "The production bug that made me care about undefined behavior",
+      "https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 04:12:07",
       "https://lobste.rs/s/xcjlvw/rust_errors_without_dependencies"
     ],
     [
       "Rust Errors Without Dependencies",
       "https://vincents.dev/blog/rust-errors-without-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 03:26:55",
-      "https://lobste.rs/s/juftsh/have_you_tried_turning_it_off_on_again"
-    ],
-    [
-      "Have you tried turning it off and on again?",
-      "https://eblog.fly.dev/onoff.html"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Easel Turns One! One year of building my own IDE in Clojure",
       "https://blog.phronemophobic.com/easel-one-year.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 13:39:41",
-      "https://lobste.rs/s/ibgvjk/getting_started_with_playdate_on_ubuntu"
-    ],
-    [
-      "Getting started with Playdate on Ubuntu",
-      "https://sethmlarson.dev/getting-started-with-playdate-on-ubuntu"
     ]
   ],
   [
