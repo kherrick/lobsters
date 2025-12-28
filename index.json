@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-28, 19:09:51",
+      "https://lobste.rs/s/cogzfg/parsing_advances"
+    ],
+    [
+      "Parsing Advances",
+      "https://matklad.github.io/2025/12/28/parsing-advances.html"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 17:34:26",
       "https://lobste.rs/s/ysubgx/haskelling_my_typst"
     ],
@@ -217,16 +227,6 @@
     [
       "Why is calling my asm function from Rust slower than calling it from C?",
       "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 14:44:11",
-      "https://lobste.rs/s/mhciaq/easel_turns_one_one_year_building_my_own"
-    ],
-    [
-      "Easel Turns One! One year of building my own IDE in Clojure",
-      "https://blog.phronemophobic.com/easel-one-year.html"
     ]
   ],
   [
