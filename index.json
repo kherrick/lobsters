@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-12-28, 00:22:02",
-      "https://lobste.rs/s/skyr0k/pgp_problem_2019"
-    ],
-    [
-      "The PGP problem (2019)",
-      "https://www.latacora.com/blog/2019/07/16/the-pgp-problem/"
-    ]
-  ],
-  [
-    [
       "2025-12-27, 22:51:18",
       "https://lobste.rs/s/inixlr/release_age_v1_3_0_post_quantum_more"
     ],
@@ -97,6 +87,16 @@
     [
       "Windows 2 for the Apricot PC/Xi",
       "https://www.ninakalinina.com/notes/win2apri/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 17:03:05",
+      "https://lobste.rs/s/4qjivz/gpg_fail"
+    ],
+    [
+      "gpg.fail",
+      "https://gpg.fail"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2025-12-26, 20:41:47",
-      "https://lobste.rs/s/mn8h3l/how_i_think_about_kubernetes"
+      "2025-12-26, 19:17:30",
+      "https://lobste.rs/s/yasyrg/simplifying_build_process_for_vst3_rs"
     ],
     [
-      "How I think about Kubernetes",
-      "https://garnaudov.com/writings/how-i-think-about-kubernetes/"
+      "Simplifying the build process for vst3-rs",
+      "https://micahrj.github.io/posts/vst3/"
     ]
   ],
   [
