@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 21:00:38](https://lobste.rs/s/aquucq/mongobleed_explained_simply) - [MongoBleed explained simply](https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply)
 * [2025-12-28, 19:09:51](https://lobste.rs/s/cogzfg/parsing_advances) - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
 * [2025-12-28, 17:34:26](https://lobste.rs/s/ysubgx/haskelling_my_typst) - [Haskelling My Typst](https://unnamed.website/posts/haskelling-my-typst/)
 * [2025-12-28, 17:21:07](https://lobste.rs/s/xs3arv/tiny_types_first_schema_validation_for) - [Tiny, types-first schema validation for TypeScript](https://github.com/easrng/schema)
