@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-28, 14:05:03",
+      "https://lobste.rs/s/ouatwh/i_was_wrong_about_typescript_part_2"
+    ],
+    [
+      "I was wrong about typescript part 2",
+      "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-2"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 14:03:56",
+      "https://lobste.rs/s/88f05r/i_was_wrong_about_typescript_part_1"
+    ],
+    [
+      "I was wrong about typescript part 1",
+      "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 10:30:16",
       "https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm"
     ],
@@ -87,16 +107,6 @@
     [
       "Release age v1.3.0: post-quantum (and more)",
       "https://github.com/FiloSottile/age/releases/tag/v1.3.0"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 22:36:23",
-      "https://lobste.rs/s/n7u47v/liberating_bluetooth_on_esp32"
-    ],
-    [
-      "Liberating Bluetooth on the ESP32",
-      "https://exquisite.tube/w/mEzF442Q4hUXnhQ8HmfZuq"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "pre-commit hooks are fundamentally broken",
       "https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 18:16:09",
-      "https://lobste.rs/s/dqwid1/how_uv_got_so_fast"
-    ],
-    [
-      "How uv got so fast",
-      "https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"
     ]
   ],
   [
