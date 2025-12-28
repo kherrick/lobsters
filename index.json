@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-28, 06:13:01",
+      "https://lobste.rs/s/qwty2k/building_multi_site_kubernetes_cluster"
+    ],
+    [
+      "Building a Multi-Site Kubernetes Cluster with BGP Anycast",
+      "https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 04:24:51",
       "https://lobste.rs/s/fng667/replacing_js_with_just_html"
     ],
@@ -237,16 +247,6 @@
     [
       "TIL: serde's borrowing can be treacherous",
       "https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 15:32:38",
-      "https://lobste.rs/s/j6spka/play_monty_hall_game"
-    ],
-    [
-      "Play the Monty Hall game",
-      "https://monty.donk.systems"
     ]
   ]
 ]
