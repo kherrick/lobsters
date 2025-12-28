@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2025-12-28, 03:26:55",
-      "https://lobste.rs/s/juftsh/have_you_tried_turning_it_off_on_again_2023"
-    ],
-    [
-      "Have you tried turning it off and on again? (2023)",
-      "https://eblog.fly.dev/onoff.html"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 00:51:06",
       "https://lobste.rs/s/4zhhy8/petlibro_your_pet_feeder_is_feeding_data"
     ],
@@ -227,6 +217,16 @@
     [
       "Why is calling my asm function from Rust slower than calling it from C?",
       "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
+    ]
+  ],
+  [
+    [
+      "2025-12-27, 14:44:11",
+      "https://lobste.rs/s/mhciaq/easel_turns_one_one_year_building_my_own"
+    ],
+    [
+      "Easel Turns One! One year of building my own IDE in Clojure",
+      "https://blog.phronemophobic.com/easel-one-year.html"
     ]
   ],
   [
