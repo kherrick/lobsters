@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-28, 10:30:16](https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm) - [Poor code examples cause LLM misalignment in unrelated domains](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
 * [2025-12-28, 08:16:05](https://lobste.rs/s/h5nde9/modern_recommender_model_architecture) - [A Modern Recommender Model Architecture](https://cprimozic.net/blog/anime-recommender-model-architecture/)
 * [2025-12-28, 08:08:16](https://lobste.rs/s/l9jl7h/dangers_ssl_certificates) - [The dangers of SSL certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 * [2025-12-28, 06:13:01](https://lobste.rs/s/qwty2k/building_multi_site_kubernetes_cluster) - [Building a Multi-Site Kubernetes Cluster with BGP Anycast](https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/)
@@ -21,7 +22,6 @@
 * [2025-12-27, 14:44:11](https://lobste.rs/s/mhciaq/easel_turns_one_one_year_building_my_own) - [Easel Turns One! One year of building my own IDE in Clojure](https://blog.phronemophobic.com/easel-one-year.html)
 * [2025-12-27, 10:48:14](https://lobste.rs/s/72piqg/you_can_t_design_software_you_don_t_work_on) - [You can't design software you don't work on](https://seangoedecke.com/you-cant-design-software-you-dont-work-on/)
 * [2025-12-27, 10:31:43](https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight) - [Arcan 0.7.1 – Minutes To Midnight](https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/)
-* [2025-12-27, 08:18:45](https://lobste.rs/s/p2yx0g/39c3_power_cycles_streaming) - [39C3: Power Cycles Streaming](https://streaming.media.ccc.de/39c3)
 * [2025-12-27, 03:44:30](https://lobste.rs/s/pjysyq/pre_commit_hooks_are_fundamentally) - [pre-commit hooks are fundamentally broken](https://jyn.dev/pre-commit-hooks-are-fundamentally-broken/)
 * [2025-12-26, 18:16:09](https://lobste.rs/s/dqwid1/how_uv_got_so_fast) - [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html)
 * [2025-12-26, 16:30:59](https://lobste.rs/s/pl1lmb/til_serde_s_borrowing_can_be_treacherous) - [TIL: serde's borrowing can be treacherous](https://yossarian.net/til/post/serde-s-borrowing-can-be-treacherous/)

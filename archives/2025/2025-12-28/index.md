@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 10:30:16](https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm) - [Poor code examples cause LLM misalignment in unrelated domains](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
 * [2025-12-28, 08:16:05](https://lobste.rs/s/h5nde9/modern_recommender_model_architecture) - [A Modern Recommender Model Architecture](https://cprimozic.net/blog/anime-recommender-model-architecture/)
 * [2025-12-28, 08:08:16](https://lobste.rs/s/l9jl7h/dangers_ssl_certificates) - [The dangers of SSL certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 * [2025-12-28, 06:13:01](https://lobste.rs/s/qwty2k/building_multi_site_kubernetes_cluster) - [Building a Multi-Site Kubernetes Cluster with BGP Anycast](https://kyriakos.papadopoulos.tech/posts/multi-site-kubernetes-bgp/)
