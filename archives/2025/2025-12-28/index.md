@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-28](index.md)
 
+* [2025-12-28, 17:11:29](https://lobste.rs/s/u8fjey/solve_hi_q_with_alphazero_curriculum) - [Solve Hi-Q with AlphaZero and Curriculum Learning](https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/)
 * [2025-12-28, 14:05:03](https://lobste.rs/s/ouatwh/i_was_wrong_about_typescript_part_2) - [I was wrong about typescript part 2](https://chefama.blog/blog/posts/i-was-wrong-about-typescript-2)
 * [2025-12-28, 14:03:56](https://lobste.rs/s/88f05r/i_was_wrong_about_typescript_part_1) - [I was wrong about typescript part 1](https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1)
 * [2025-12-28, 10:30:16](https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm) - [Poor code examples cause LLM misalignment in unrelated domains](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
