@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-28, 04:12:07",
+      "https://lobste.rs/s/xcjlvw/rust_errors_without_dependencies"
+    ],
+    [
+      "Rust Errors Without Dependencies",
+      "https://vincents.dev/blog/rust-errors-without-dependencies/"
+    ]
+  ],
+  [
+    [
+      "2025-12-28, 03:26:55",
+      "https://lobste.rs/s/juftsh/have_you_tried_turning_it_off_on_again"
+    ],
+    [
+      "Have you tried turning it off and on again?",
+      "https://eblog.fly.dev/onoff.html"
+    ]
+  ],
+  [
+    [
       "2025-12-28, 00:51:06",
       "https://lobste.rs/s/4zhhy8/petlibro_your_pet_feeder_is_feeding_data"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-12-26, 19:17:30",
-      "https://lobste.rs/s/yasyrg/simplifying_build_process_for_vst3_rs"
-    ],
-    [
-      "Simplifying the build process for vst3-rs",
-      "https://micahrj.github.io/posts/vst3/"
-    ]
-  ],
-  [
-    [
       "2025-12-26, 18:16:09",
       "https://lobste.rs/s/dqwid1/how_uv_got_so_fast"
     ],
@@ -237,16 +247,6 @@
     [
       "Play the Monty Hall game",
       "https://monty.donk.systems"
-    ]
-  ],
-  [
-    [
-      "2025-12-26, 11:17:15",
-      "https://lobste.rs/s/n4kxdf/rob_pike_goes_nuclear_over_genai"
-    ],
-    [
-      "Rob Pike Goes Nuclear over GenAI",
-      "https://imgur.com/nUJCI3o"
     ]
   ]
 ]
