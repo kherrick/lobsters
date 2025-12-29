@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-29, 00:33:05](https://lobste.rs/s/z9tcxm/how_we_optimize_rocksdb_tikv_write_batch) - [How We Optimize RocksDB in TiKV — Write Batch Optimization](https://medium.com/@siddontang/how-we-optimize-rocksdb-in-tikv-write-batch-optimization-28751a4bdd8b)
+* [2025-12-29, 03:32:58](https://lobste.rs/s/nik5n0/2d_distance_functions) - [2D Distance Functions](https://iquilezles.org)
+* [2025-12-29, 02:45:47](https://lobste.rs/s/asstpu/you_can_make_up_html_tags) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
+* [2025-12-29, 02:34:37](https://lobste.rs/s/wxgtha/consider_nix_flake_for_your_windows_rs) - [Consider a Nix Flake for your windows-rs Project](https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/)
 * [2025-12-28, 23:52:24](https://lobste.rs/s/nqawul/what_unprocessed_photo_looks_like) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
 * [2025-12-28, 23:27:46](https://lobste.rs/s/jqidbd/fast_cvvdp_implementation_c) - [Fast CVVDP implementation in C](https://github.com/halidecx/fcvvdp)
 * [2025-12-28, 23:09:20](https://lobste.rs/s/lem8bj/slaughtering_competition_problems_with) - [Slaughtering Competition Problems with Quantifier Elimination](https://grossack.site/2021/12/22/qe-competition.html)
@@ -10,7 +12,6 @@
 * [2025-12-28, 17:21:07](https://lobste.rs/s/xs3arv/tiny_types_first_schema_validation_for) - [Tiny, types-first schema validation for TypeScript](https://github.com/easrng/schema)
 * [2025-12-28, 17:11:29](https://lobste.rs/s/u8fjey/solve_hi_q_with_alphazero_curriculum) - [Solve Hi-Q with AlphaZero and Curriculum Learning](https://www.robw.fyi/2025/12/28/solve-hi-q-with-alphazero-and-curriculum-learning/)
 * [2025-12-28, 14:03:56](https://lobste.rs/s/88f05r/i_was_wrong_about_typescript_part_1) - [I was wrong about typescript part 1](https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1)
-* [2025-12-28, 10:30:16](https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm) - [Poor code examples cause LLM misalignment in unrelated domains](https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/)
 * [2025-12-28, 08:16:05](https://lobste.rs/s/h5nde9/modern_recommender_model_architecture) - [A Modern Recommender Model Architecture](https://cprimozic.net/blog/anime-recommender-model-architecture/)
 * [2025-12-28, 08:08:16](https://lobste.rs/s/l9jl7h/dangers_ssl_certificates) - [The dangers of SSL certificates](https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/)
 * [2025-12-28, 04:24:51](https://lobste.rs/s/fng667/replacing_js_with_just_html) - [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
@@ -24,7 +25,6 @@
 * [2025-12-27, 17:03:05](https://lobste.rs/s/4qjivz/gpg_fail) - [gpg.fail](https://gpg.fail)
 * [2025-12-27, 16:49:35](https://lobste.rs/s/vob9fu/this_png_will_show_different_version_if) - [This PNG will show different version if you open it in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 15:00:28](https://lobste.rs/s/byxxmk/why_is_calling_my_asm_function_from_rust) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
-* [2025-12-27, 10:31:43](https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight) - [Arcan 0.7.1 – Minutes To Midnight](https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/)
 
 ## [Archives](archives/index.md)
 
