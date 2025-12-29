@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-29, 08:43:11](https://lobste.rs/s/cp4qw3/measuring_out_sync_clocks_on_internet) - [Measuring out-of-sync clocks on the Internet](https://alexsci.com/blog/clock-skew/)
 * [2025-12-29, 07:50:05](https://lobste.rs/s/l4uvzn/kiorg_v1_4_1_modern_battery_included_file) - [Kiorg v1.4.1 - A modern battery included file manager with vim inspired keybind](https://github.com/houqp/kiorg/releases/tag/v1.4.1)
 * [2025-12-29, 05:35:06](https://lobste.rs/s/vyf7cf/my_first_meshtastic_network) - [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 * [2025-12-29, 05:33:56](https://lobste.rs/s/mytglj/huge_binaries) - [Huge binaries](https://fzakaria.com/2025/12/28/huge-binaries)
@@ -8,7 +9,6 @@
 * [2025-12-29, 02:45:47](https://lobste.rs/s/asstpu/you_can_make_up_html_tags) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
 * [2025-12-29, 02:34:37](https://lobste.rs/s/wxgtha/consider_nix_flake_for_your_windows_rs) - [Consider a Nix Flake for your windows-rs Project](https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/)
 * [2025-12-28, 23:52:24](https://lobste.rs/s/nqawul/what_unprocessed_photo_looks_like) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-* [2025-12-28, 23:27:46](https://lobste.rs/s/jqidbd/fast_cvvdp_implementation_c) - [Fast CVVDP implementation in C](https://github.com/halidecx/fcvvdp)
 * [2025-12-28, 23:09:20](https://lobste.rs/s/lem8bj/slaughtering_competition_problems_with) - [Slaughtering Competition Problems with Quantifier Elimination](https://grossack.site/2021/12/22/qe-competition.html)
 * [2025-12-28, 22:17:33](https://lobste.rs/s/eikvgi/experiment_vibe_coding) - [An experiment in vibe coding](https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/)
 * [2025-12-28, 19:09:51](https://lobste.rs/s/cogzfg/parsing_advances) - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
