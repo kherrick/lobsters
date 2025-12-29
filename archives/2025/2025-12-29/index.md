@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 17:03:36](https://lobste.rs/s/gkfdfg/developers_remain_willing_reluctant_use) - [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/)
 * [2025-12-29, 16:42:50](https://lobste.rs/s/dythih/git_s_http_server_side_design_does_not) - [Git's HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos)
 * [2025-12-29, 16:08:10](https://lobste.rs/s/h3ci65/clopus_watcher_autonomous_monitoring) - [Clopus-Watcher: An autonomous monitoring agent](https://denislavgavrilov.com/p/clopus-watcher-an-autonomous-monitoring)
 * [2025-12-29, 16:05:34](https://lobste.rs/s/jgzpwk/static_allocation_with_zig) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
