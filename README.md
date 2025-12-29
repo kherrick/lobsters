@@ -2,7 +2,7 @@
 
 * [2025-12-29, 05:35:06](https://lobste.rs/s/vyf7cf/my_first_meshtastic_network) - [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 * [2025-12-29, 05:33:56](https://lobste.rs/s/mytglj/huge_binaries) - [Huge binaries](https://fzakaria.com/2025/12/28/huge-binaries)
-* [2025-12-29, 05:16:18](https://lobste.rs/s/wwczpv/practical_introduction_finger_trees) - [A Practical Introduction to Finger Trees](https://chrispenner.ca/posts/intro-to-finger-trees)
+* [2025-12-29, 03:32:58](https://lobste.rs/s/nik5n0/2d_distance_functions) - [2D Distance Functions](https://iquilezles.org)
 * [2025-12-29, 02:45:47](https://lobste.rs/s/asstpu/you_can_make_up_html_tags) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
 * [2025-12-29, 02:34:37](https://lobste.rs/s/wxgtha/consider_nix_flake_for_your_windows_rs) - [Consider a Nix Flake for your windows-rs Project](https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/)
 * [2025-12-28, 23:52:24](https://lobste.rs/s/nqawul/what_unprocessed_photo_looks_like) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
