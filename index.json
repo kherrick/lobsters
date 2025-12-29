@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-12-29, 00:33:05",
-      "https://lobste.rs/s/z9tcxm/how_we_optimize_rocksdb_tikv_write_batch"
+      "2025-12-29, 03:32:58",
+      "https://lobste.rs/s/nik5n0/2d_distance_functions"
     ],
     [
-      "How We Optimize RocksDB in TiKV — Write Batch Optimization",
-      "https://medium.com/@siddontang/how-we-optimize-rocksdb-in-tikv-write-batch-optimization-28751a4bdd8b"
+      "2D Distance Functions",
+      "https://iquilezles.org"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 02:45:47",
+      "https://lobste.rs/s/asstpu/you_can_make_up_html_tags"
+    ],
+    [
+      "You can make up HTML tags",
+      "https://maurycyz.com/misc/make-up-tags/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 02:34:37",
+      "https://lobste.rs/s/wxgtha/consider_nix_flake_for_your_windows_rs"
+    ],
+    [
+      "Consider a Nix Flake for your windows-rs Project",
+      "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "I was wrong about typescript part 1",
       "https://chefama.blog/blog/posts/i-was-wrong-about-typescript-1"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 10:30:16",
-      "https://lobste.rs/s/ymkm4j/poor_code_examples_cause_llm"
-    ],
-    [
-      "Poor code examples cause LLM misalignment in unrelated domains",
-      "https://www.quantamagazine.org/the-ai-was-fed-sloppy-code-it-turned-into-something-evil-20250813/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why is calling my asm function from Rust slower than calling it from C?",
       "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 10:31:43",
-      "https://lobste.rs/s/l3cjbq/arcan_0_7_1_minutes_midnight"
-    ],
-    [
-      "Arcan 0.7.1 – Minutes To Midnight",
-      "https://arcan-fe.com/2025/12/27/arcan-0-7-1-minutes-to-midnight/"
     ]
   ]
 ]
