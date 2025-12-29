@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-29, 22:11:00](https://lobste.rs/s/htjhdh/loss32_let_s_build_win32_linux) - [loss32: let's build a Win32/Linux](https://loss32.org/)
 * [2025-12-29, 20:36:40](https://lobste.rs/s/mvee6u/can_bundler_be_as_fast_as_uv) - [Can Bundler Be as Fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2025-12-29, 19:59:20](https://lobste.rs/s/gaogav/how_ruin_all_package_management) - [How to Ruin All of Package Management](https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html)
 * [2025-12-29, 19:47:47](https://lobste.rs/s/3eehzp/1ml_for_non_specialists_introduction) - [1ML for non-specialists: introduction](https://pithlessly.github.io/1ml-intro)
@@ -23,7 +24,6 @@
 * [2025-12-29, 02:45:47](https://lobste.rs/s/asstpu/you_can_make_up_html_tags) - [You can make up HTML tags](https://maurycyz.com/misc/make-up-tags/)
 * [2025-12-29, 02:34:37](https://lobste.rs/s/wxgtha/consider_nix_flake_for_your_windows_rs) - [Consider a Nix Flake for your windows-rs Project](https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/)
 * [2025-12-28, 23:52:24](https://lobste.rs/s/nqawul/what_unprocessed_photo_looks_like) - [What an unprocessed photo looks like](https://maurycyz.com/misc/raw_photo/)
-* [2025-12-28, 22:17:33](https://lobste.rs/s/eikvgi/experiment_vibe_coding) - [An experiment in vibe coding](https://nolanlawson.com/2025/12/28/an-experiment-in-vibe-coding/)
 * [2025-12-28, 19:09:51](https://lobste.rs/s/cogzfg/parsing_advances) - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
 
 ## [Archives](archives/index.md)
