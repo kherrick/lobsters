@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 19:51:19](https://lobste.rs/s/x8azcb/how_nx_pulled_rug_on_us_potential_solution) - [How Nx \"pulled the rug\" on us, a potential solution and lessons learned](https://salvozappa.com/how-nx-pulled-the-rug-on-us.html)
 * [2025-12-29, 19:07:33](https://lobste.rs/s/jpjvtg/mini_rack_homelab_rabbit_hole) - [Mini Rack: the Homelab Rabbit Hole](https://gquetel.fr/misc/mini-rack/)
 * [2025-12-29, 19:04:59](https://lobste.rs/s/x1xqtv/llms_are_not_fun) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:38:48](https://lobste.rs/s/pab6so/silicon_valley_stack_doesn_t_work_here_why) - [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
