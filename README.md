@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-29, 07:50:05](https://lobste.rs/s/l4uvzn/kiorg_v1_4_1_modern_battery_included_file) - [Kiorg v1.4.1 - A modern battery included file manager with vim inspired keybind](https://github.com/houqp/kiorg/releases/tag/v1.4.1)
 * [2025-12-29, 05:35:06](https://lobste.rs/s/vyf7cf/my_first_meshtastic_network) - [My First Meshtastic Network](https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html)
 * [2025-12-29, 05:33:56](https://lobste.rs/s/mytglj/huge_binaries) - [Huge binaries](https://fzakaria.com/2025/12/28/huge-binaries)
 * [2025-12-29, 05:16:18](https://lobste.rs/s/wwczpv/practical_introduction_finger_trees) - [A Practical Introduction to Finger Trees](https://chrispenner.ca/posts/intro-to-finger-trees)
@@ -21,7 +22,6 @@
 * [2025-12-28, 04:23:56](https://lobste.rs/s/c7jhl3/production_bug_made_me_care_about) - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 * [2025-12-28, 04:12:07](https://lobste.rs/s/xcjlvw/rust_errors_without_dependencies) - [Rust Errors Without Dependencies](https://vincents.dev/blog/rust-errors-without-dependencies/)
 * [2025-12-27, 22:28:50](https://lobste.rs/s/dl3hxi/39c3_sign_not_sign_practical) - [39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends](https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i)
-* [2025-12-27, 22:00:20](https://lobste.rs/s/ouzxwu/goodbye_sass) - [Goodbye Sass](https://www.redblobgames.com/blog/2025-12-27-goodbye-sass/)
 * [2025-12-27, 20:56:37](https://lobste.rs/s/387hab/on_llms_programming) - [On LLMs in programming](https://blog.danieljanus.pl/2025/12/27/llms/)
 * [2025-12-27, 16:49:35](https://lobste.rs/s/vob9fu/this_png_will_show_different_version_if) - [This PNG will show different version if you open it in Chrome than in Safari](https://lr0.org/blog/p/pngchanges/)
 * [2025-12-27, 15:00:28](https://lobste.rs/s/byxxmk/why_is_calling_my_asm_function_from_rust) - [Why is calling my asm function from Rust slower than calling it from C?](https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/)
