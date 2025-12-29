@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-29, 05:16:18",
+      "https://lobste.rs/s/wwczpv/practical_introduction_finger_trees"
+    ],
+    [
+      "A Practical Introduction to Finger Trees",
+      "https://chrispenner.ca/posts/intro-to-finger-trees"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 03:32:58",
       "https://lobste.rs/s/nik5n0/2d_distance_functions"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust Errors Without Dependencies",
       "https://vincents.dev/blog/rust-errors-without-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 22:51:18",
-      "https://lobste.rs/s/inixlr/release_age_v1_3_0_post_quantum_more"
-    ],
-    [
-      "Release age v1.3.0: post-quantum (and more)",
-      "https://github.com/FiloSottile/age/releases/tag/v1.3.0"
     ]
   ],
   [
