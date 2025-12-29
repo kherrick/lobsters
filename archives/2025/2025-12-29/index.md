@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 19:07:33](https://lobste.rs/s/jpjvtg/mini_rack_homelab_rabbit_hole) - [Mini Rack: the Homelab Rabbit Hole](https://gquetel.fr/misc/mini-rack/)
+* [2025-12-29, 19:04:59](https://lobste.rs/s/x1xqtv/llms_are_not_fun) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:38:48](https://lobste.rs/s/pab6so/silicon_valley_stack_doesn_t_work_here_why) - [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
 * [2025-12-29, 18:23:08](https://lobste.rs/s/dixnqz/hexacon_2025_keynote_by_ivan_krstic) - [HEXACON 2025 - Keynote by Ivan Krstić](https://www.youtube.com/watch?v=Du8BbJg2Pj4)
 * [2025-12-29, 17:03:36](https://lobste.rs/s/gkfdfg/developers_remain_willing_reluctant_use) - [Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/)
