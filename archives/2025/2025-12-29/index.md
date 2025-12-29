@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 23:40:23](https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy) - [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
+* [2025-12-29, 23:15:07](https://lobste.rs/s/cfzrcx/replacing_python_dateutil_remove_six) - [Replacing python-dateutil to remove six](https://hugovk.dev/blog/2025/minus-six/)
 * [2025-12-29, 22:29:36](https://lobste.rs/s/v39fad/libgodc_write_go_programs_for_sega) - [Libgodc: Write Go Programs for Sega Dreamcast](https://github.com/drpaneas/libgodc)
 * [2025-12-29, 22:11:00](https://lobste.rs/s/htjhdh/loss32_let_s_build_win32_linux) - [loss32: let's build a Win32/Linux](https://loss32.org/)
 * [2025-12-29, 20:36:40](https://lobste.rs/s/mvee6u/can_bundler_be_as_fast_as_uv) - [Can Bundler Be as Fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
