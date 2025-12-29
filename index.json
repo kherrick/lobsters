@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-12-29, 22:29:36",
-      "https://lobste.rs/s/v39fad/libgodc_write_go_programs_for_sega"
+      "2025-12-29, 23:40:23",
+      "https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy"
     ],
     [
-      "Libgodc: Write Go Programs for Sega Dreamcast",
-      "https://github.com/drpaneas/libgodc"
+      "Curl removes all calls to strcpy",
+      "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 23:15:07",
+      "https://lobste.rs/s/cfzrcx/replacing_python_dateutil_remove_six"
+    ],
+    [
+      "Replacing python-dateutil to remove six",
+      "https://hugovk.dev/blog/2025/minus-six/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web",
       "https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 17:03:36",
-      "https://lobste.rs/s/gkfdfg/developers_remain_willing_reluctant_use"
-    ],
-    [
-      "Developers remain willing but reluctant to use AI: The 2025 Developer Survey results are here",
-      "https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/"
     ]
   ],
   [
