@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-29, 16:42:50](https://lobste.rs/s/dythih/git_s_http_server_side_design_does_not) - [Git's HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos)
 * [2025-12-29, 16:08:10](https://lobste.rs/s/h3ci65/clopus_watcher_autonomous_monitoring) - [Clopus-Watcher: An autonomous monitoring agent](https://denislavgavrilov.com/p/clopus-watcher-an-autonomous-monitoring)
 * [2025-12-29, 16:05:34](https://lobste.rs/s/jgzpwk/static_allocation_with_zig) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 15:52:47](https://lobste.rs/s/oakjuc/gps_successor_may_be_needed_due_jamming) - [GPS successor may be needed due to jamming vulnerability](https://undark.org/2025/12/24/gps-attack-new-tech/)
@@ -24,7 +25,6 @@
 * [2025-12-28, 19:09:51](https://lobste.rs/s/cogzfg/parsing_advances) - [Parsing Advances](https://matklad.github.io/2025/12/28/parsing-advances.html)
 * [2025-12-28, 17:21:07](https://lobste.rs/s/xs3arv/tiny_types_first_schema_validation_for) - [Tiny, types-first schema validation for TypeScript](https://github.com/easrng/schema)
 * [2025-12-28, 04:24:51](https://lobste.rs/s/fng667/replacing_js_with_just_html) - [Replacing JS with just HTML](https://www.htmhell.dev/adventcalendar/2025/27/)
-* [2025-12-28, 04:23:56](https://lobste.rs/s/c7jhl3/production_bug_made_me_care_about) - [The production bug that made me care about undefined behavior](https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html)
 
 ## [Archives](archives/index.md)
 

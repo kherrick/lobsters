@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-29](index.md)
 
+* [2025-12-29, 16:42:50](https://lobste.rs/s/dythih/git_s_http_server_side_design_does_not) - [Git's HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos)
 * [2025-12-29, 16:08:10](https://lobste.rs/s/h3ci65/clopus_watcher_autonomous_monitoring) - [Clopus-Watcher: An autonomous monitoring agent](https://denislavgavrilov.com/p/clopus-watcher-an-autonomous-monitoring)
 * [2025-12-29, 16:05:34](https://lobste.rs/s/jgzpwk/static_allocation_with_zig) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 15:52:47](https://lobste.rs/s/oakjuc/gps_successor_may_be_needed_due_jamming) - [GPS successor may be needed due to jamming vulnerability](https://undark.org/2025/12/24/gps-attack-new-tech/)
