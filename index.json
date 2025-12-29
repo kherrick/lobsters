@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-29, 13:00:59",
+      "https://lobste.rs/s/cwdone/why_are_we_worried_about_memory_access"
+    ],
+    [
+      "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
+      "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 12:40:30",
+      "https://lobste.rs/s/ce0ksl/second_great_error_model_convergence"
+    ],
+    [
+      "The Second Great Error Model Convergence",
+      "https://matklad.github.io/2025/12/29/second-error-model-convergence.html"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 10:00:59",
       "https://lobste.rs/s/mjmtxx/what_are_you_doing_this_week"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-12-28, 08:16:05",
-      "https://lobste.rs/s/h5nde9/modern_recommender_model_architecture"
-    ],
-    [
-      "A Modern Recommender Model Architecture",
-      "https://cprimozic.net/blog/anime-recommender-model-architecture/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 04:24:51",
       "https://lobste.rs/s/fng667/replacing_js_with_just_html"
     ],
@@ -217,16 +227,6 @@
     [
       "Rust Errors Without Dependencies",
       "https://vincents.dev/blog/rust-errors-without-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 22:28:50",
-      "https://lobste.rs/s/dl3hxi/39c3_sign_not_sign_practical"
-    ],
-    [
-      "39C3: To sign or not to sign: Practical vulnerabilities in GPG & friends",
-      "https://media.ccc.de/v/39c3-to-sign-or-not-to-sign-practical-vulnerabilities-i"
     ]
   ],
   [
