@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-29, 14:43:39",
+      "https://lobste.rs/s/tnuaff/clock_synchronization_is_nightmare"
+    ],
+    [
+      "Clock Synchronization Is a Nightmare",
+      "https://arpitbhayani.me/blogs/clock-sync-nightmare/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 14:37:09",
+      "https://lobste.rs/s/qicbhv/garbage_collection_rust_got_little"
+    ],
+    [
+      "Garbage collection in Rust got a little better",
+      "https://claytonwramsey.com/blog/dumpster2/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 13:14:03",
       "https://lobste.rs/s/jicnhk/how_dynamically_install_custom_html"
     ],
@@ -67,16 +87,6 @@
     [
       "Trials and Visions of Internet Relay Chat",
       "https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 07:50:05",
-      "https://lobste.rs/s/l4uvzn/kiorg_v1_4_1_modern_battery_included_file"
-    ],
-    [
-      "Kiorg v1.4.1 - A modern battery included file manager with vim inspired keybind",
-      "https://github.com/houqp/kiorg/releases/tag/v1.4.1"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Rust Errors Without Dependencies",
       "https://vincents.dev/blog/rust-errors-without-dependencies/"
-    ]
-  ],
-  [
-    [
-      "2025-12-27, 15:00:28",
-      "https://lobste.rs/s/byxxmk/why_is_calling_my_asm_function_from_rust"
-    ],
-    [
-      "Why is calling my asm function from Rust slower than calling it from C?",
-      "https://ohadravid.github.io/posts/2025-12-rav1d-faster-asm/"
     ]
   ]
 ]
