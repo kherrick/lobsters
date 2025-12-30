@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-30, 17:08:14",
+      "https://lobste.rs/s/wxt9bz/django_on_med_contributor_sprint"
+    ],
+    [
+      "Django On The Med: A Contributor Sprint Retrospective",
+      "https://www.paulox.net/2025/12/30/django-on-the-med-a-contributor-sprint-retrospective/"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 15:43:42",
       "https://lobste.rs/s/ntslcm/memory_safety_is"
     ],
@@ -117,16 +127,6 @@
     [
       "Replacing python-dateutil to remove six",
       "https://hugovk.dev/blog/2025/minus-six/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 23:01:48",
-      "https://lobste.rs/s/grs8wl/xzone_malloc_memory_allocator_for_apple"
-    ],
-    [
-      "xzone malloc: memory allocator for Apple OS platforms",
-      "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md"
     ]
   ],
   [
