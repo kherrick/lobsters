@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-30, 07:33:56](https://lobste.rs/s/nis9lb/charm_ruby_glamorous_terminal_libraries) - [Charm Ruby - Glamorous Terminal Libraries for Ruby](https://charm-ruby.com)
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
 * [2025-12-30, 05:11:11](https://lobste.rs/s/0vpyii/nes_game_genie_technical_notes_2001) - [NES Game Genie Technical Notes (2001)](https://tuxnes.sourceforge.net/gamegenie.html)
 * [2025-12-30, 00:58:46](https://lobste.rs/s/menkib/velox_is_port_tauri_swift) - [Velox is a port of Tauri to Swift](https://github.com/velox-apps/velox)
@@ -16,7 +17,6 @@
 * [2025-12-29, 16:05:34](https://lobste.rs/s/jgzpwk/static_allocation_with_zig) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
 * [2025-12-29, 14:43:39](https://lobste.rs/s/tnuaff/clock_synchronization_is_nightmare) - [Clock Synchronization Is a Nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-29, 14:37:09](https://lobste.rs/s/qicbhv/garbage_collection_rust_got_little) - [Garbage collection in Rust got a little better](https://claytonwramsey.com/blog/dumpster2/)
-* [2025-12-29, 13:14:03](https://lobste.rs/s/jicnhk/how_dynamically_install_custom_html) - [How To Dynamically Install Custom (HTML) Elements](https://heydonworks.com/article/dynamically-loading-custom-elements/)
 * [2025-12-29, 13:00:59](https://lobste.rs/s/cwdone/why_are_we_worried_about_memory_access) - [Why are we worried about memory access semantics? Full barriers should be enough for anybody](https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919)
 * [2025-12-29, 12:40:30](https://lobste.rs/s/ce0ksl/second_great_error_model_convergence) - [The Second Great Error Model Convergence](https://matklad.github.io/2025/12/29/second-error-model-convergence.html)
 * [2025-12-29, 10:00:59](https://lobste.rs/s/mjmtxx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mjmtxx/what_are_you_doing_this_week)
