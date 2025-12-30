@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-30, 18:25:03](https://lobste.rs/s/hvbb37/escaping_containment_security_analysis) - [Escaping Containment: A Security Analysis of FreeBSD Jails](https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails)
 * [2025-12-30, 15:43:42](https://lobste.rs/s/ntslcm/memory_safety_is) - [Memory Safety Is](https://matklad.github.io/2025/12/30/memory-safety-is.html)
 * [2025-12-30, 15:21:17](https://lobste.rs/s/4pyalq/building_react_app_with_formally) - [Building a React App with Formally Verified State](https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/)
 * [2025-12-30, 15:06:28](https://lobste.rs/s/4uhvgb/fedimeteo_how_tiny_4_freebsd_vps_became) - [FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
@@ -12,7 +13,6 @@
 * [2025-12-30, 00:58:46](https://lobste.rs/s/menkib/velox_is_port_tauri_swift) - [Velox is a port of Tauri to Swift](https://github.com/velox-apps/velox)
 * [2025-12-29, 23:40:23](https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy) - [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-29, 23:15:07](https://lobste.rs/s/cfzrcx/replacing_python_dateutil_remove_six) - [Replacing python-dateutil to remove six](https://hugovk.dev/blog/2025/minus-six/)
-* [2025-12-29, 23:01:48](https://lobste.rs/s/grs8wl/xzone_malloc_memory_allocator_for_apple) - [xzone malloc: memory allocator for Apple OS platforms](https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md)
 * [2025-12-29, 22:11:00](https://lobste.rs/s/htjhdh/loss32_let_s_build_win32_linux) - [loss32: let's build a Win32/Linux](https://loss32.org/)
 * [2025-12-29, 20:36:40](https://lobste.rs/s/mvee6u/can_bundler_be_as_fast_as_uv) - [Can Bundler Be as Fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2025-12-29, 19:59:20](https://lobste.rs/s/gaogav/how_ruin_all_package_management) - [How to Ruin All of Package Management](https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html)

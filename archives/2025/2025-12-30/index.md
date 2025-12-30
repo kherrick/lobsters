@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 18:25:03](https://lobste.rs/s/hvbb37/escaping_containment_security_analysis) - [Escaping Containment: A Security Analysis of FreeBSD Jails](https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails)
 * [2025-12-30, 17:08:14](https://lobste.rs/s/wxt9bz/django_on_med_contributor_sprint) - [Django On The Med: A Contributor Sprint Retrospective](https://www.paulox.net/2025/12/30/django-on-the-med-a-contributor-sprint-retrospective/)
 * [2025-12-30, 15:43:42](https://lobste.rs/s/ntslcm/memory_safety_is) - [Memory Safety Is](https://matklad.github.io/2025/12/30/memory-safety-is.html)
 * [2025-12-30, 15:21:17](https://lobste.rs/s/4pyalq/building_react_app_with_formally) - [Building a React App with Formally Verified State](https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/)
