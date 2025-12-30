@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-30, 19:51:50",
+      "https://lobste.rs/s/onushg/desktop_classic_system_spacial"
+    ],
+    [
+      "Desktop Classic System — Spacial computing hearkening back to classic Mac OS",
+      "https://mycophobia.org/dcs/"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 19:46:02",
+      "https://lobste.rs/s/tm1b3f/xous_pure_rust_rethink_embedded"
+    ],
+    [
+      "Xous: A Pure-Rust Rethink of the Embedded Operating System",
+      "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 19:38:29",
       "https://lobste.rs/s/54elmf/some_flexibility_with_go_s_sumdb"
     ],
@@ -17,6 +37,16 @@
     [
       "A vulnerability in libsodium",
       "https://00f.net/2025/12/30/libsodium-vulnerability/"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 19:01:09",
+      "https://lobste.rs/s/8eetdb/conditions_intel_8087_floating_point"
+    ],
+    [
+      "Conditions in the Intel 8087 floating-point chip's microcode",
+      "http://www.righto.com/2025/12/8087-microcode-conditions.html"
     ]
   ],
   [
@@ -111,32 +141,12 @@
   ],
   [
     [
-      "2025-12-30, 00:58:46",
-      "https://lobste.rs/s/menkib/velox_is_port_tauri_swift"
-    ],
-    [
-      "Velox is a port of Tauri to Swift",
-      "https://github.com/velox-apps/velox"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 23:40:23",
       "https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy"
     ],
     [
       "Curl removes all calls to strcpy",
       "https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 23:15:07",
-      "https://lobste.rs/s/cfzrcx/replacing_python_dateutil_remove_six"
-    ],
-    [
-      "Replacing python-dateutil to remove six",
-      "https://hugovk.dev/blog/2025/minus-six/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Can Bundler Be as Fast as uv?",
       "https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 19:59:20",
-      "https://lobste.rs/s/gaogav/how_ruin_all_package_management"
-    ],
-    [
-      "How to Ruin All of Package Management",
-      "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html"
     ]
   ],
   [
