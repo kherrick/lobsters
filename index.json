@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-12-30, 11:10:59",
+      "https://lobste.rs/s/tbstiq/better_code_concurrency_2017"
+    ],
+    [
+      "Better Code: Concurrency (2017)",
+      "https://www.youtube.com/watch?v=zULU6Hhp42w"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 11:05:12",
+      "https://lobste.rs/s/apotbh/hacking_washing_machines"
+    ],
+    [
+      "Hacking washing machines",
+      "https://media.ccc.de/v/39c3-hacking-washing-machines"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 11:03:56",
+      "https://lobste.rs/s/ukpngg/make_shift_shebangs_for_go"
+    ],
+    [
+      "Make-shift shebangs for Go",
+      "https://lorentz.app/blog-item.html?id=go-shebang"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 08:14:49",
       "https://lobste.rs/s/lyge4r/finding_broken_trace_on_my_old_mac_with"
     ],
@@ -27,16 +57,6 @@
     [
       "NES Game Genie Technical Notes (2001)",
       "https://tuxnes.sourceforge.net/gamegenie.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 00:58:46",
-      "https://lobste.rs/s/menkib/velox_is_port_tauri_swift"
-    ],
-    [
-      "Velox is a port of Tauri to Swift",
-      "https://github.com/velox-apps/velox"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-12-29, 14:43:39",
-      "https://lobste.rs/s/tnuaff/clock_synchronization_is_nightmare"
-    ],
-    [
-      "Clock Synchronization Is a Nightmare",
-      "https://arpitbhayani.me/blogs/clock-sync-nightmare/"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 14:37:09",
       "https://lobste.rs/s/qicbhv/garbage_collection_rust_got_little"
     ],
@@ -217,16 +227,6 @@
     [
       "My First Meshtastic Network",
       "https://rickcarlino.com/notes/electronics/my-first-meshtastic-network.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 05:33:56",
-      "https://lobste.rs/s/mytglj/huge_binaries"
-    ],
-    [
-      "Huge binaries",
-      "https://fzakaria.com/2025/12/28/huge-binaries"
     ]
   ],
   [
