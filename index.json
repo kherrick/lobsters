@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-30, 00:58:46",
+      "https://lobste.rs/s/menkib/velox_is_port_tauri_swift"
+    ],
+    [
+      "Velox is a port of Tauri to Swift",
+      "https://github.com/velox-apps/velox"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 00:23:57",
+      "https://lobste.rs/s/rojvw3/introducing_miniray_wgsl_minifier"
+    ],
+    [
+      "Introducing miniray — a WGSL minifier",
+      "https://hugodaniel.com/posts/miniray/"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 23:40:23",
       "https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy"
     ],
@@ -17,6 +37,16 @@
     [
       "Replacing python-dateutil to remove six",
       "https://hugovk.dev/blog/2025/minus-six/"
+    ]
+  ],
+  [
+    [
+      "2025-12-29, 23:01:48",
+      "https://lobste.rs/s/grs8wl/xzone_malloc_memory_allocator_for_apple"
+    ],
+    [
+      "xzone malloc: memory allocator for Apple OS platforms",
+      "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-12-29, 07:52:28",
-      "https://lobste.rs/s/zahhx2/trials_visions_internet_relay_chat"
-    ],
-    [
-      "Trials and Visions of Internet Relay Chat",
-      "https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 05:35:06",
       "https://lobste.rs/s/vyf7cf/my_first_meshtastic_network"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-12-29, 02:34:37",
-      "https://lobste.rs/s/wxgtha/consider_nix_flake_for_your_windows_rs"
-    ],
-    [
-      "Consider a Nix Flake for your windows-rs Project",
-      "https://lgug2z.com/articles/consider-a-nix-flake-for-your-windows-rs-project/"
-    ]
-  ],
-  [
-    [
       "2025-12-28, 23:52:24",
       "https://lobste.rs/s/nqawul/what_unprocessed_photo_looks_like"
     ],
     [
       "What an unprocessed photo looks like",
       "https://maurycyz.com/misc/raw_photo/"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 19:09:51",
-      "https://lobste.rs/s/cogzfg/parsing_advances"
-    ],
-    [
-      "Parsing Advances",
-      "https://matklad.github.io/2025/12/28/parsing-advances.html"
     ]
   ]
 ]
