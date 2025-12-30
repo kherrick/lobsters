@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-30, 19:46:02](https://lobste.rs/s/tm1b3f/xous_pure_rust_rethink_embedded) - [Xous: A Pure-Rust Rethink of the Embedded Operating System](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system)
 * [2025-12-30, 19:38:29](https://lobste.rs/s/54elmf/some_flexibility_with_go_s_sumdb) - [Some flexibility with Go's sumdb](https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb)
 * [2025-12-30, 19:26:59](https://lobste.rs/s/wsyy3a/vulnerability_libsodium) - [A vulnerability in libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
 * [2025-12-30, 18:25:03](https://lobste.rs/s/hvbb37/escaping_containment_security_analysis) - [Escaping Containment: A Security Analysis of FreeBSD Jails](https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails)
@@ -12,6 +11,7 @@
 * [2025-12-30, 11:05:12](https://lobste.rs/s/apotbh/hacking_washing_machines) - [Hacking washing machines](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 11:03:56](https://lobste.rs/s/ukpngg/make_shift_shebangs_for_go) - [Make-shift shebangs for Go](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
+* [2025-12-30, 00:58:46](https://lobste.rs/s/menkib/velox_is_port_tauri_swift) - [Velox is a port of Tauri to Swift](https://github.com/velox-apps/velox)
 * [2025-12-29, 23:40:23](https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy) - [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-29, 23:15:07](https://lobste.rs/s/cfzrcx/replacing_python_dateutil_remove_six) - [Replacing python-dateutil to remove six](https://hugovk.dev/blog/2025/minus-six/)
 * [2025-12-29, 22:11:00](https://lobste.rs/s/htjhdh/loss32_let_s_build_win32_linux) - [loss32: let's build a Win32/Linux](https://loss32.org/)
