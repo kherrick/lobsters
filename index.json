@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-12-30, 19:46:02",
-      "https://lobste.rs/s/tm1b3f/xous_pure_rust_rethink_embedded"
-    ],
-    [
-      "Xous: A Pure-Rust Rethink of the Embedded Operating System",
-      "https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system"
-    ]
-  ],
-  [
-    [
       "2025-12-30, 19:38:29",
       "https://lobste.rs/s/54elmf/some_flexibility_with_go_s_sumdb"
     ],
@@ -117,6 +107,16 @@
     [
       "Glamorous Christmas: Bringing Charm to Ruby",
       "https://marcoroth.dev/posts/glamorous-christmas"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 00:58:46",
+      "https://lobste.rs/s/menkib/velox_is_port_tauri_swift"
+    ],
+    [
+      "Velox is a port of Tauri to Swift",
+      "https://github.com/velox-apps/velox"
     ]
   ],
   [
