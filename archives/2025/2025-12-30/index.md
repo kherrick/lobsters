@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-30](index.md)
 
+* [2025-12-30, 13:33:00](https://lobste.rs/s/bm6gft/restarting_systemd_services_on) - [Restarting systemd services on sustained CPU abuse](https://taoofmac.com/space/til/2025/12/28/1400)
 * [2025-12-30, 11:10:59](https://lobste.rs/s/tbstiq/better_code_concurrency_2017) - [Better Code: Concurrency (2017)](https://www.youtube.com/watch?v=zULU6Hhp42w)
 * [2025-12-30, 11:05:12](https://lobste.rs/s/apotbh/hacking_washing_machines) - [Hacking washing machines](https://media.ccc.de/v/39c3-hacking-washing-machines)
 * [2025-12-30, 11:03:56](https://lobste.rs/s/ukpngg/make_shift_shebangs_for_go) - [Make-shift shebangs for Go](https://lorentz.app/blog-item.html?id=go-shebang)
