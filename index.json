@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-30, 18:25:03",
+      "https://lobste.rs/s/hvbb37/escaping_containment_security_analysis"
+    ],
+    [
+      "Escaping Containment: A Security Analysis of FreeBSD Jails",
+      "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 15:43:42",
       "https://lobste.rs/s/ntslcm/memory_safety_is"
     ],
@@ -117,16 +127,6 @@
     [
       "Replacing python-dateutil to remove six",
       "https://hugovk.dev/blog/2025/minus-six/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 23:01:48",
-      "https://lobste.rs/s/grs8wl/xzone_malloc_memory_allocator_for_apple"
-    ],
-    [
-      "xzone malloc: memory allocator for Apple OS platforms",
-      "https://github.com/apple-oss-distributions/libmalloc/blob/af3c5dc3a540eeec030930b35b1349f4de400206/doc/xzone_malloc.md"
     ]
   ],
   [
