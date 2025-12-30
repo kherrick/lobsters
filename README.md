@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
+* [2025-12-30, 05:11:11](https://lobste.rs/s/0vpyii/nes_game_genie_technical_notes_2001) - [NES Game Genie Technical Notes (2001)](https://tuxnes.sourceforge.net/gamegenie.html)
 * [2025-12-30, 00:58:46](https://lobste.rs/s/menkib/velox_is_port_tauri_swift) - [Velox is a port of Tauri to Swift](https://github.com/velox-apps/velox)
 * [2025-12-29, 23:40:23](https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy) - [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-29, 23:15:07](https://lobste.rs/s/cfzrcx/replacing_python_dateutil_remove_six) - [Replacing python-dateutil to remove six](https://hugovk.dev/blog/2025/minus-six/)
@@ -13,7 +14,6 @@
 * [2025-12-29, 18:38:48](https://lobste.rs/s/pab6so/silicon_valley_stack_doesn_t_work_here_why) - [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
 * [2025-12-29, 16:42:50](https://lobste.rs/s/dythih/git_s_http_server_side_design_does_not) - [Git's HTTP server side design does not scale](https://xeiaso.net/notes/2025/distributed-git-ddos)
 * [2025-12-29, 16:05:34](https://lobste.rs/s/jgzpwk/static_allocation_with_zig) - [Static Allocation with Zig](https://nickmonad.blog/2025/static-allocation-with-zig-kv/)
-* [2025-12-29, 15:52:47](https://lobste.rs/s/oakjuc/gps_successor_may_be_needed_due_jamming) - [GPS successor may be needed due to jamming vulnerability](https://undark.org/2025/12/24/gps-attack-new-tech/)
 * [2025-12-29, 14:43:39](https://lobste.rs/s/tnuaff/clock_synchronization_is_nightmare) - [Clock Synchronization Is a Nightmare](https://arpitbhayani.me/blogs/clock-sync-nightmare/)
 * [2025-12-29, 14:37:09](https://lobste.rs/s/qicbhv/garbage_collection_rust_got_little) - [Garbage collection in Rust got a little better](https://claytonwramsey.com/blog/dumpster2/)
 * [2025-12-29, 13:14:03](https://lobste.rs/s/jicnhk/how_dynamically_install_custom_html) - [How To Dynamically Install Custom (HTML) Elements](https://heydonworks.com/article/dynamically-loading-custom-elements/)
