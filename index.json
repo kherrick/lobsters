@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-12-30, 05:11:11",
+      "https://lobste.rs/s/0vpyii/nes_game_genie_technical_notes_2001"
+    ],
+    [
+      "NES Game Genie Technical Notes (2001)",
+      "https://tuxnes.sourceforge.net/gamegenie.html"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 00:58:46",
       "https://lobste.rs/s/menkib/velox_is_port_tauri_swift"
     ],
@@ -127,16 +137,6 @@
     [
       "Static Allocation with Zig",
       "https://nickmonad.blog/2025/static-allocation-with-zig-kv/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 15:52:47",
-      "https://lobste.rs/s/oakjuc/gps_successor_may_be_needed_due_jamming"
-    ],
-    [
-      "GPS successor may be needed due to jamming vulnerability",
-      "https://undark.org/2025/12/24/gps-attack-new-tech/"
     ]
   ],
   [
