@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-30, 23:06:09",
+      "https://lobste.rs/s/rrty6s/turning_dafny_sets_into_sequences"
+    ],
+    [
+      "Turning Dafny Sets into Sequences",
+      "https://youtu.be/-zAhtW8YFKM?t=210"
+    ]
+  ],
+  [
+    [
       "2025-12-30, 19:51:50",
       "https://lobste.rs/s/onushg/desktop_classic_system_spacial"
     ],
@@ -217,16 +227,6 @@
     [
       "Static Allocation with Zig",
       "https://nickmonad.blog/2025/static-allocation-with-zig-kv/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 14:37:09",
-      "https://lobste.rs/s/qicbhv/garbage_collection_rust_got_little"
-    ],
-    [
-      "Garbage collection in Rust got a little better",
-      "https://claytonwramsey.com/blog/dumpster2/"
     ]
   ],
   [
