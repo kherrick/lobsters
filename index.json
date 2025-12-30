@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-12-29, 19:59:20",
+      "https://lobste.rs/s/gaogav/how_ruin_all_package_management"
+    ],
+    [
+      "How to Ruin All of Package Management",
+      "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html"
+    ]
+  ],
+  [
+    [
       "2025-12-29, 19:04:59",
       "https://lobste.rs/s/x1xqtv/llms_are_not_fun"
     ],
@@ -217,16 +227,6 @@
     [
       "Garbage collection in Rust got a little better",
       "https://claytonwramsey.com/blog/dumpster2/"
-    ]
-  ],
-  [
-    [
-      "2025-12-29, 13:00:59",
-      "https://lobste.rs/s/cwdone/why_are_we_worried_about_memory_access"
-    ],
-    [
-      "Why are we worried about memory access semantics? Full barriers should be enough for anybody",
-      "https://devblogs.microsoft.com/oldnewthing/20251226-00/?p=111919"
     ]
   ],
   [
