@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-31, 10:11:14](https://lobste.rs/s/ozuobo/modular_monolith_microservices_data) - [Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization](https://binaryigor.com/modular-monolith-and-microservices-data.html)
+* [2025-12-31, 09:59:10](https://lobste.rs/s/z3ckd3/fixing_buffer_overflow_unix_v4_like_it_s) - [Fixing a Buffer Overflow in UNIX v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2025-12-31, 09:49:46](https://lobste.rs/s/3cwha2/solid_load_bull) - [A SOLID Load of Bull](https://loup-vaillant.fr/articles/solid-bull)
 * [2025-12-31, 09:29:36](https://lobste.rs/s/7budgm/moving_towards_new_core_os) - [Moving Towards a New \"core:os\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
 * [2025-12-31, 07:34:20](https://lobste.rs/s/13cyor/mastodon_stories_for_systemd_v259) - [Mastodon Stories for systemd v259](https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html)
@@ -10,7 +12,6 @@
 * [2025-12-31, 02:57:38](https://lobste.rs/s/rmolyl/simple_bidirectional_type_inference) - [Simple Bidirectional Type Inference](https://ettolrach.com/blog/bidirectional_inference.html)
 * [2025-12-31, 01:33:03](https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more) - [Why we trust strangers’ open source more than our colleagues’](https://00f.net/2025/09/01/opensource-by-internal-contributors/)
 * [2025-12-30, 23:06:09](https://lobste.rs/s/rrty6s/turning_dafny_sets_into_sequences) - [Turning Dafny Sets into Sequences](https://youtu.be/-zAhtW8YFKM?t=210)
-* [2025-12-30, 19:51:50](https://lobste.rs/s/onushg/desktop_classic_system_spacial) - [Desktop Classic System — Spacial computing hearkening back to classic Mac OS](https://mycophobia.org/dcs/)
 * [2025-12-30, 19:46:02](https://lobste.rs/s/tm1b3f/xous_pure_rust_rethink_embedded) - [Xous: A Pure-Rust Rethink of the Embedded Operating System](https://media.ccc.de/v/39c3-xous-a-pure-rust-rethink-of-the-embedded-operating-system)
 * [2025-12-30, 19:38:29](https://lobste.rs/s/54elmf/some_flexibility_with_go_s_sumdb) - [Some flexibility with Go's sumdb](https://blog.yossarian.net/2025/12/29/Some-flexibility-with-Go-s-sumdb)
 * [2025-12-30, 19:26:59](https://lobste.rs/s/wsyy3a/vulnerability_libsodium) - [A vulnerability in libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
@@ -19,7 +20,6 @@
 * [2025-12-30, 15:21:17](https://lobste.rs/s/4pyalq/building_react_app_with_formally) - [Building a React App with Formally Verified State](https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/)
 * [2025-12-30, 15:06:28](https://lobste.rs/s/4uhvgb/fedimeteo_how_tiny_4_freebsd_vps_became) - [FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 15:06:13](https://lobste.rs/s/0g0ebi/formally_speaking_transpiler_is_useless) - [Formally speaking, \"Transpiler\" is a useless word](https://people.csail.mit.edu/rachit/post/transpiler-formal/)
-* [2025-12-30, 13:33:00](https://lobste.rs/s/bm6gft/restarting_systemd_services_on) - [Restarting systemd services on sustained CPU abuse](https://taoofmac.com/space/til/2025/12/28/1400)
 * [2025-12-30, 11:03:56](https://lobste.rs/s/ukpngg/make_shift_shebangs_for_go) - [Make-shift shebangs for Go](https://lorentz.app/blog-item.html?id=go-shebang)
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
 * [2025-12-29, 23:40:23](https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy) - [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)

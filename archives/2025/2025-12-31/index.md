@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 10:11:14](https://lobste.rs/s/ozuobo/modular_monolith_microservices_data) - [Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization](https://binaryigor.com/modular-monolith-and-microservices-data.html)
+* [2025-12-31, 09:59:10](https://lobste.rs/s/z3ckd3/fixing_buffer_overflow_unix_v4_like_it_s) - [Fixing a Buffer Overflow in UNIX v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2025-12-31, 09:49:46](https://lobste.rs/s/3cwha2/solid_load_bull) - [A SOLID Load of Bull](https://loup-vaillant.fr/articles/solid-bull)
 * [2025-12-31, 09:29:36](https://lobste.rs/s/7budgm/moving_towards_new_core_os) - [Moving Towards a New \"core:os\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
 * [2025-12-31, 07:34:20](https://lobste.rs/s/13cyor/mastodon_stories_for_systemd_v259) - [Mastodon Stories for systemd v259](https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html)
