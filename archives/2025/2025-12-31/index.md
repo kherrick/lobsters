@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 07:34:20](https://lobste.rs/s/13cyor/mastodon_stories_for_systemd_v259) - [Mastodon Stories for systemd v259](https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html)
 * [2025-12-31, 06:51:56](https://lobste.rs/s/rneyai/7_practical_std_chrono_calendar_examples) - [7 Practical std::chrono Calendar Examples (C++20)](https://www.cppstories.com/2025/chrono-calendar-examples/)
 * [2025-12-31, 05:30:08](https://lobste.rs/s/2zuvga/runst_does_not_prevent_resources_from) - [runST does not prevent resources from escaping](https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html)
 * [2025-12-31, 03:52:12](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve) - [What are some interesting projects that you've done this year?](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve)
