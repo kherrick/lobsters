@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-12-31, 17:26:25",
+      "https://lobste.rs/s/whjn41/apple_file_system_reference"
+    ],
+    [
+      "Apple File System Reference",
+      "https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 15:28:47",
       "https://lobste.rs/s/95g7ah/lispme_implementation_scheme_for_palm"
     ],
@@ -67,16 +77,6 @@
     [
       "Who Invented the Transistor?",
       "https://people.idsia.ch/~juergen/who-invented-the-transistor.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 10:11:14",
-      "https://lobste.rs/s/ozuobo/modular_monolith_microservices_data"
-    ],
-    [
-      "Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization",
-      "https://binaryigor.com/modular-monolith-and-microservices-data.html"
     ]
   ],
   [
