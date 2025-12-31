@@ -2,12 +2,12 @@
 
 * [2025-12-31, 18:37:34](https://lobste.rs/s/sp7fkl/on_privacy_control_my_tech_setup) - [On Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 * [2025-12-31, 17:29:40](https://lobste.rs/s/99vome/agents_done_right_framework_vision_for) - [Agents Done Right: A Framework Vision for 2026](https://blog.bryanl.dev/posts/agent-framework-vision/)
+* [2025-12-31, 17:26:25](https://lobste.rs/s/whjn41/apple_file_system_reference) - [Apple File System Reference](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
 * [2025-12-31, 15:28:47](https://lobste.rs/s/95g7ah/lispme_implementation_scheme_for_palm) - [LispMe: An Implementation of Scheme for the Palm Pilot](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62b505a67fdaf3f9bc0212536b65ac26aaedabd1)
 * [2025-12-31, 14:45:17](https://lobste.rs/s/2f072b/web_engine_ci_on_shoestring_budget) - [Web engine CI on a shoestring budget](https://www.azabani.com/2025/12/18/shoestring-web-engine-ci.html)
 * [2025-12-31, 13:36:14](https://lobste.rs/s/zed7dq/eliminate_branches_by_melding_ir) - [Eliminate Branches by Melding IR Instructions](https://arxiv.org/pdf/2512.22390)
 * [2025-12-31, 11:19:31](https://lobste.rs/s/x6ruya/using_corne_split_keyboard_for_half_year) - [Using The Corne Split Keyboard For Half A Year](https://rugu.dev/en/blog/corne/)
 * [2025-12-31, 10:57:11](https://lobste.rs/s/lromlz/who_invented_transistor) - [Who Invented the Transistor?](https://people.idsia.ch/~juergen/who-invented-the-transistor.html)
-* [2025-12-31, 10:11:14](https://lobste.rs/s/ozuobo/modular_monolith_microservices_data) - [Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization](https://binaryigor.com/modular-monolith-and-microservices-data.html)
 * [2025-12-31, 10:08:27](https://lobste.rs/s/4totv7/i_fed_24_years_my_blog_posts_markov_model) - [I Fed 24 Years of My Blog Posts to a Markov Model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-31, 09:59:10](https://lobste.rs/s/z3ckd3/fixing_buffer_overflow_unix_v4_like_it_s) - [Fixing a Buffer Overflow in UNIX v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
 * [2025-12-31, 09:49:46](https://lobste.rs/s/3cwha2/solid_load_bull) - [A SOLID Load of Bull](https://loup-vaillant.fr/articles/solid-bull)
