@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-31, 23:04:40](https://lobste.rs/s/gs5ujg/why_object_arrays_soa_pattern_beat) - [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole](https://www.royalbhati.com/posts/js-array-vs-typedarray)
+* [2025-12-31, 23:28:41](https://lobste.rs/s/csuxqs/atmospheric_computing) - [Atmospheric Computing](https://pfrazee.com/blog/atmospheric-computing)
 * [2025-12-31, 23:01:03](https://lobste.rs/s/shqikf/way_do_open_permissionless_mesh_network) - [A way to do an open and permissionless mesh network](https://fiatjaf.com/582ccd1d.html)
 * [2025-12-31, 22:37:16](https://lobste.rs/s/2qzedz/ai_generated_content_wikipedia_tale) - [AI-generated content in WIkipedia - a tale of caution](https://www.youtube.com/watch?v=fKU0V9hQMnY)
 * [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
