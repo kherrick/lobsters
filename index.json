@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-31, 06:51:56",
+      "https://lobste.rs/s/rneyai/7_practical_std_chrono_calendar_examples"
+    ],
+    [
+      "7 Practical std::chrono Calendar Examples (C++20)",
+      "https://www.cppstories.com/2025/chrono-calendar-examples/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 05:30:08",
       "https://lobste.rs/s/2zuvga/runst_does_not_prevent_resources_from"
     ],
@@ -27,16 +37,6 @@
     [
       "Simple Bidirectional Type Inference",
       "https://ettolrach.com/blog/bidirectional_inference.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 01:35:49",
-      "https://lobste.rs/s/8halcp/openssl_performance_still_under"
-    ],
-    [
-      "OpenSSL Performance Still Under Scrutiny",
-      "https://www.feistyduck.com/newsletter/issue_132_openssl_performance_still_under_scrutiny"
     ]
   ],
   [
