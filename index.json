@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-12-31, 11:19:31",
+      "https://lobste.rs/s/x6ruya/using_corne_split_keyboard_for_half_year"
+    ],
+    [
+      "Using The Corne Split Keyboard For Half A Year",
+      "https://rugu.dev/en/blog/corne/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 10:11:14",
       "https://lobste.rs/s/ozuobo/modular_monolith_microservices_data"
     ],
@@ -147,16 +157,6 @@
     [
       "A vulnerability in libsodium",
       "https://00f.net/2025/12/30/libsodium-vulnerability/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 18:25:03",
-      "https://lobste.rs/s/hvbb37/escaping_containment_security_analysis"
-    ],
-    [
-      "Escaping Containment: A Security Analysis of FreeBSD Jails",
-      "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails"
     ]
   ],
   [
