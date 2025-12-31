@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-12-31](index.md)
+
+* [2025-12-31, 00:07:05](https://lobste.rs/s/kxoxi7/cross_site_scripting_benchmark_python) - [Cross-site Scripting-benchmark of python sanitizers against real browsers](https://github.com/EmilStenstrom/justhtml-xss-bench/)
