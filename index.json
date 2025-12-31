@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-12-31, 03:03:25",
+      "https://lobste.rs/s/amcuhv/what_i_ve_learned_writing_gleam"
+    ],
+    [
+      "What I've Learned Writing Gleam",
+      "https://nohzafk.github.io/posts/2025-12-27-what-i-ve-learned-writting-gleam/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 02:57:38",
       "https://lobste.rs/s/rmolyl/simple_bidirectional_type_inference"
     ],
@@ -47,16 +57,6 @@
     [
       "Why we trust strangers’ open source more than our colleagues’",
       "https://00f.net/2025/09/01/opensource-by-internal-contributors/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 00:07:05",
-      "https://lobste.rs/s/kxoxi7/cross_site_scripting_benchmark_python"
-    ],
-    [
-      "Cross-site Scripting-benchmark of python sanitizers against real browsers",
-      "https://github.com/EmilStenstrom/justhtml-xss-bench/"
     ]
   ],
   [
