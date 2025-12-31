@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 22:50:47](https://lobste.rs/s/wwb2sx/reika_opinionated_dependency_manager) - [Reika: an opinionated dependency manager and build initiator tool](https://fossil.cyberia9.org/reika/index)
 * [2025-12-31, 22:37:16](https://lobste.rs/s/2qzedz/ai_generated_content_wikipedia_tale) - [AI-generated content in WIkipedia - a tale of caution](https://www.youtube.com/watch?v=fKU0V9hQMnY)
 * [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
 * [2025-12-31, 18:37:34](https://lobste.rs/s/sp7fkl/on_privacy_control_my_tech_setup) - [On Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
