@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 18:37:34](https://lobste.rs/s/sp7fkl/on_privacy_control_my_tech_setup) - [On Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 * [2025-12-31, 17:29:40](https://lobste.rs/s/99vome/agents_done_right_framework_vision_for) - [Agents Done Right: A Framework Vision for 2026](https://blog.bryanl.dev/posts/agent-framework-vision/)
 * [2025-12-31, 15:28:47](https://lobste.rs/s/95g7ah/lispme_implementation_scheme_for_palm) - [LispMe: An Implementation of Scheme for the Palm Pilot](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62b505a67fdaf3f9bc0212536b65ac26aaedabd1)
 * [2025-12-31, 14:45:17](https://lobste.rs/s/2f072b/web_engine_ci_on_shoestring_budget) - [Web engine CI on a shoestring budget](https://www.azabani.com/2025/12/18/shoestring-web-engine-ci.html)
