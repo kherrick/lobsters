@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-12-31, 01:35:49",
+      "https://lobste.rs/s/8halcp/openssl_performance_still_under"
+    ],
+    [
+      "OpenSSL Performance Still Under Scrutiny",
+      "https://www.feistyduck.com/newsletter/issue_132_openssl_performance_still_under_scrutiny"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 01:33:03",
+      "https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more"
+    ],
+    [
+      "Why we trust strangers’ open source more than our colleagues’",
+      "https://00f.net/2025/09/01/opensource-by-internal-contributors/"
+    ]
+  ],
+  [
+    [
       "2025-12-31, 00:07:05",
       "https://lobste.rs/s/kxoxi7/cross_site_scripting_benchmark_python"
     ],
@@ -17,6 +37,16 @@
     [
       "Turning Dafny Sets into Sequences",
       "https://youtu.be/-zAhtW8YFKM?t=210"
+    ]
+  ],
+  [
+    [
+      "2025-12-30, 19:51:50",
+      "https://lobste.rs/s/onushg/desktop_classic_system_spacial"
+    ],
+    [
+      "Desktop Classic System — Spacial computing hearkening back to classic Mac OS",
+      "https://mycophobia.org/dcs/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-12-29, 19:59:20",
-      "https://lobste.rs/s/gaogav/how_ruin_all_package_management"
-    ],
-    [
-      "How to Ruin All of Package Management",
-      "https://nesbitt.io/2025/12/27/how-to-ruin-all-of-package-management.html"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 19:04:59",
       "https://lobste.rs/s/x1xqtv/llms_are_not_fun"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-12-29, 16:42:50",
-      "https://lobste.rs/s/dythih/git_s_http_server_side_design_does_not"
-    ],
-    [
-      "Git's HTTP server side design does not scale",
-      "https://xeiaso.net/notes/2025/distributed-git-ddos"
-    ]
-  ],
-  [
-    [
       "2025-12-29, 16:05:34",
       "https://lobste.rs/s/jgzpwk/static_allocation_with_zig"
     ],
@@ -237,16 +247,6 @@
     [
       "The Second Great Error Model Convergence",
       "https://matklad.github.io/2025/12/29/second-error-model-convergence.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-28, 23:52:24",
-      "https://lobste.rs/s/nqawul/what_unprocessed_photo_looks_like"
-    ],
-    [
-      "What an unprocessed photo looks like",
-      "https://maurycyz.com/misc/raw_photo/"
     ]
   ]
 ]
