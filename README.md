@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-31, 09:29:36](https://lobste.rs/s/7budgm/moving_towards_new_core_os) - [Moving Towards a New \"core:os\"](https://odin-lang.org/news/moving-towards-a-new-core-os/)
 * [2025-12-31, 07:34:20](https://lobste.rs/s/13cyor/mastodon_stories_for_systemd_v259) - [Mastodon Stories for systemd v259](https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html)
 * [2025-12-31, 06:51:56](https://lobste.rs/s/rneyai/7_practical_std_chrono_calendar_examples) - [7 Practical std::chrono Calendar Examples (C++20)](https://www.cppstories.com/2025/chrono-calendar-examples/)
 * [2025-12-31, 05:30:08](https://lobste.rs/s/2zuvga/runst_does_not_prevent_resources_from) - [runST does not prevent resources from escaping](https://welltypedwit.ch/posts/runst-does-not-prevent-resources-from-escaping.html)
@@ -22,7 +23,6 @@
 * [2025-12-30, 05:42:00](https://lobste.rs/s/y1yldn/glamorous_christmas_bringing_charm_ruby) - [Glamorous Christmas: Bringing Charm to Ruby](https://marcoroth.dev/posts/glamorous-christmas)
 * [2025-12-29, 23:40:23](https://lobste.rs/s/swdcvg/curl_removes_all_calls_strcpy) - [Curl removes all calls to strcpy](https://daniel.haxx.se/blog/2025/12/29/no-strcpy-either/)
 * [2025-12-29, 22:11:00](https://lobste.rs/s/htjhdh/loss32_let_s_build_win32_linux) - [loss32: let's build a Win32/Linux](https://loss32.org/)
-* [2025-12-29, 20:36:40](https://lobste.rs/s/mvee6u/can_bundler_be_as_fast_as_uv) - [Can Bundler Be as Fast as uv?](https://tenderlovemaking.com/2025/12/29/can-bundler-be-as-fast-as-uv/)
 * [2025-12-29, 19:04:59](https://lobste.rs/s/x1xqtv/llms_are_not_fun) - [LLMs Are Not Fun](https://orib.dev/nofun.html)
 * [2025-12-29, 18:38:48](https://lobste.rs/s/pab6so/silicon_valley_stack_doesn_t_work_here_why) - [The Silicon Valley Stack Doesn’t Work Here: Why Africa Will Lead the Post-Bloat Web](https://paulallies.medium.com/the-silicon-valley-stack-doesnt-work-here-why-africa-will-lead-the-post-bloat-web-e7c34b577c61)
 
