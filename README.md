@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
 * [2025-12-31, 18:37:34](https://lobste.rs/s/sp7fkl/on_privacy_control_my_tech_setup) - [On Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
 * [2025-12-31, 17:29:40](https://lobste.rs/s/99vome/agents_done_right_framework_vision_for) - [Agents Done Right: A Framework Vision for 2026](https://blog.bryanl.dev/posts/agent-framework-vision/)
 * [2025-12-31, 17:26:25](https://lobste.rs/s/whjn41/apple_file_system_reference) - [Apple File System Reference](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
-* [2025-12-31, 17:24:14](https://lobste.rs/s/efyicm/looking_back_at_python_pescara_2025) - [Looking Back at Python Pescara 2025](https://www.paulox.net/2025/12/31/looking-back-at-python-pescara-2025/)
 * [2025-12-31, 15:28:47](https://lobste.rs/s/95g7ah/lispme_implementation_scheme_for_palm) - [LispMe: An Implementation of Scheme for the Palm Pilot](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=62b505a67fdaf3f9bc0212536b65ac26aaedabd1)
 * [2025-12-31, 14:45:17](https://lobste.rs/s/2f072b/web_engine_ci_on_shoestring_budget) - [Web engine CI on a shoestring budget](https://www.azabani.com/2025/12/18/shoestring-web-engine-ci.html)
 * [2025-12-31, 13:36:14](https://lobste.rs/s/zed7dq/eliminate_branches_by_melding_ir) - [Eliminate Branches by Melding IR Instructions](https://arxiv.org/pdf/2512.22390)
