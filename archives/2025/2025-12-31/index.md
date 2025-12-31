@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
 * [2025-12-31, 11:19:31](https://lobste.rs/s/x6ruya/using_corne_split_keyboard_for_half_year) - [Using The Corne Split Keyboard For Half A Year](https://rugu.dev/en/blog/corne/)
+* [2025-12-31, 10:57:11](https://lobste.rs/s/lromlz/who_invented_transistor) - [Who Invented the Transistor?](https://people.idsia.ch/~juergen/who-invented-the-transistor.html)
 * [2025-12-31, 10:11:14](https://lobste.rs/s/ozuobo/modular_monolith_microservices_data) - [Modular Monolith and Microservices: Data ownership, boundaries, consistency and synchronization](https://binaryigor.com/modular-monolith-and-microservices-data.html)
 * [2025-12-31, 10:08:27](https://lobste.rs/s/4totv7/i_fed_24_years_my_blog_posts_markov_model) - [I Fed 24 Years of My Blog Posts to a Markov Model](https://susam.net/fed-24-years-of-posts-to-markov-model.html)
 * [2025-12-31, 09:59:10](https://lobste.rs/s/z3ckd3/fixing_buffer_overflow_unix_v4_like_it_s) - [Fixing a Buffer Overflow in UNIX v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)
