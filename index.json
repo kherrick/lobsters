@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-01, 09:37:54",
+      "https://lobste.rs/s/ki1qtn/writing_windows_95_software_2025"
+    ],
+    [
+      "Writing Windows 95 software in 2025",
+      "https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 09:14:31",
       "https://lobste.rs/s/heusg4/hindsight_github_style_git_activity"
     ],
@@ -237,16 +247,6 @@
     [
       "FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands",
       "https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 15:06:13",
-      "https://lobste.rs/s/0g0ebi/formally_speaking_transpiler_is_useless"
-    ],
-    [
-      "Formally speaking, \"Transpiler\" is a useless word",
-      "https://people.csail.mit.edu/rachit/post/transpiler-formal/"
     ]
   ]
 ]
