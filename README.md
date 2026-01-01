@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-01, 14:14:14](https://lobste.rs/s/kgbaoc/software_taketh_away_faster_than) - [Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 * [2026-01-01, 13:04:07](https://lobste.rs/s/mxqift/one_number_i_trust_plain_text_accounting) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 * [2026-01-01, 11:33:31](https://lobste.rs/s/t5niao/z80_lm_is_2_bit_quantized_language_model) - [Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor](https://github.com/HarryR/z80ai)
 * [2026-01-01, 10:41:28](https://lobste.rs/s/x3b4ds/making_end_end_encrypted_ai_chat_feel_like) - [Making end-to-end encrypted AI chat feel like logging in](https://confer.to/blog/2025/12/passkey-encryption/)
@@ -18,7 +19,6 @@
 * [2025-12-31, 23:01:03](https://lobste.rs/s/shqikf/way_do_open_permissionless_mesh_network) - [A way to do an open and permissionless mesh network](https://fiatjaf.com/582ccd1d.html)
 * [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
 * [2025-12-31, 18:37:34](https://lobste.rs/s/sp7fkl/on_privacy_control_my_tech_setup) - [On Privacy and control. My tech setup](https://toidiu.com/blog/2025-12-25-privacy-and-control/)
-* [2025-12-31, 17:29:40](https://lobste.rs/s/99vome/agents_done_right_framework_vision_for) - [Agents Done Right: A Framework Vision for 2026](https://blog.bryanl.dev/posts/agent-framework-vision/)
 * [2025-12-31, 17:26:25](https://lobste.rs/s/whjn41/apple_file_system_reference_2020) - [Apple File System Reference (2020)](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
 * [2025-12-31, 11:19:31](https://lobste.rs/s/x6ruya/using_corne_split_keyboard_for_half_year) - [Using The Corne Split Keyboard For Half A Year](https://rugu.dev/en/blog/corne/)
 * [2025-12-31, 09:59:10](https://lobste.rs/s/z3ckd3/fixing_buffer_overflow_unix_v4_like_it_s) - [Fixing a Buffer Overflow in UNIX v4 Like It's 1973](https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/)

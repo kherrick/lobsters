@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 14:14:14](https://lobste.rs/s/kgbaoc/software_taketh_away_faster_than) - [Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
 * [2026-01-01, 13:04:07](https://lobste.rs/s/mxqift/one_number_i_trust_plain_text_accounting) - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 * [2026-01-01, 11:33:31](https://lobste.rs/s/t5niao/z80_lm_is_2_bit_quantized_language_model) - [Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor](https://github.com/HarryR/z80ai)
 * [2026-01-01, 10:41:28](https://lobste.rs/s/x3b4ds/making_end_end_encrypted_ai_chat_feel_like) - [Making end-to-end encrypted AI chat feel like logging in](https://confer.to/blog/2025/12/passkey-encryption/)
