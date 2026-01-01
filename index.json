@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-01, 17:09:24",
-      "https://lobste.rs/s/cniequ/wireguard_packet_relay_for_nat_traversal"
+      "2026-01-01, 17:42:51",
+      "https://lobste.rs/s/5ie2jz/lazypromise_async_primitive"
     ],
     [
-      "WireGuard packet relay for NAT traversal",
-      "https://github.com/weiiwang01/wpex"
+      "LazyPromise: an async primitive that complements Signals and supports typed errors",
+      "https://github.com/lazy-promise/lazy-promise"
     ]
   ],
   [
