@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 20:29:24](https://lobste.rs/s/ari1nd/reasons_love_field_programming) - [Reasons to Love the Field of Programming Languages](https://danilafe.com/blog/i_love_programming_languages/)
 * [2026-01-01, 18:33:50](https://lobste.rs/s/gc8x9v/email_privacy_tester) - [Email Privacy Tester](https://www.emailprivacytester.com/)
 * [2026-01-01, 17:58:51](https://lobste.rs/s/cbgqpd/parameter_efficient_fine_tuning) - [Parameter-efficient fine-tuning in tinygrad](https://dxuuu.xyz/peft.html)
 * [2026-01-01, 17:42:51](https://lobste.rs/s/5ie2jz/lazypromise_async_primitive) - [LazyPromise: an async primitive that complements Signals and supports typed errors](https://github.com/lazy-promise/lazy-promise)
