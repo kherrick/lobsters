@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-01, 21:52:27](https://lobste.rs/s/gzzfoo/gdb_jit_interface) - [The GDB JIT interface](https://bernsteinbear.com/blog/gdb-jit/)
 * [2026-01-01, 20:29:24](https://lobste.rs/s/ari1nd/reasons_love_field_programming) - [Reasons to Love the Field of Programming Languages](https://danilafe.com/blog/i_love_programming_languages/)
 * [2026-01-01, 18:33:50](https://lobste.rs/s/gc8x9v/email_privacy_tester) - [Email Privacy Tester](https://www.emailprivacytester.com/)
-* [2026-01-01, 18:31:35](https://lobste.rs/s/mqwa5i/hierarchical_navigable_small_world_hnsw) - [Hierarchical Navigable Small World (HNSW) in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
 * [2026-01-01, 17:58:51](https://lobste.rs/s/cbgqpd/parameter_efficient_fine_tuning) - [Parameter-efficient fine-tuning in tinygrad](https://dxuuu.xyz/peft.html)
 * [2026-01-01, 17:42:51](https://lobste.rs/s/5ie2jz/lazypromise_async_primitive) - [LazyPromise: an async primitive that complements Signals and supports typed errors](https://github.com/lazy-promise/lazy-promise)
 * [2026-01-01, 17:09:24](https://lobste.rs/s/cniequ/wireguard_packet_relay_for_nat_traversal) - [WireGuard packet relay for NAT traversal](https://github.com/weiiwang01/wpex)
