@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-01, 11:33:31",
+      "https://lobste.rs/s/t5niao/z80_lm_is_2_bit_quantized_language_model"
+    ],
+    [
+      "Z80-μLM is a 2-bit quantized language model small enough to run on an 8-bit Z80 processor",
+      "https://github.com/HarryR/z80ai"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 10:41:28",
       "https://lobste.rs/s/x3b4ds/making_end_end_encrypted_ai_chat_feel_like"
     ],
@@ -237,16 +247,6 @@
     [
       "What are some interesting projects that you've done this year?",
       "https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 01:33:03",
-      "https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more"
-    ],
-    [
-      "Why we trust strangers’ open source more than our colleagues’",
-      "https://00f.net/2025/09/01/opensource-by-internal-contributors/"
     ]
   ]
 ]
