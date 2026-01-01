@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-01, 18:31:35",
+      "https://lobste.rs/s/mqwa5i/hierarchical_navigable_small_world_hnsw"
+    ],
+    [
+      "Hierarchical Navigable Small World (HNSW) in PHP",
+      "https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 17:58:51",
       "https://lobste.rs/s/cbgqpd/parameter_efficient_fine_tuning"
     ],
@@ -227,16 +237,6 @@
     [
       "On Privacy and control. My tech setup",
       "https://toidiu.com/blog/2025-12-25-privacy-and-control/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 09:59:10",
-      "https://lobste.rs/s/z3ckd3/fixing_buffer_overflow_unix_v4_like_it_s"
-    ],
-    [
-      "Fixing a Buffer Overflow in UNIX v4 Like It's 1973",
-      "https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/"
     ]
   ],
   [
