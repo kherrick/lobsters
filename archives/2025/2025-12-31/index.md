@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-12-31](index.md)
 
+* [2025-12-31, 23:58:28](https://lobste.rs/s/hj01zc/hp_ux_hits_end_life_today_i_m_sad) - [HP-UX hits end-of-life today, and I’m sad](https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/)
 * [2025-12-31, 23:28:41](https://lobste.rs/s/csuxqs/atmospheric_computing) - [Atmospheric Computing](https://pfrazee.com/blog/atmospheric-computing)
 * [2025-12-31, 23:04:40](https://lobste.rs/s/gs5ujg/why_object_arrays_soa_pattern_beat) - [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole](https://www.royalbhati.com/posts/js-array-vs-typedarray)
 * [2025-12-31, 23:01:03](https://lobste.rs/s/shqikf/way_do_open_permissionless_mesh_network) - [A way to do an open and permissionless mesh network](https://fiatjaf.com/582ccd1d.html)

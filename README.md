@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-12-31, 23:28:41](https://lobste.rs/s/csuxqs/atmospheric_computing) - [Atmospheric Computing](https://pfrazee.com/blog/atmospheric-computing)
+* [2026-01-01, 00:21:21](https://lobste.rs/s/lvtmvw/bokehlicious_selfies_python) - [Bokehlicious Selfies in Python](https://www.rahulrav.com/blog/bokehlicious.html)
+* [2026-01-01, 00:18:53](https://lobste.rs/s/tenl1g/i_canceled_my_programming_book_deal) - [I canceled my programming book deal](https://austinhenley.com/blog/canceledbookdeal.html)
+* [2025-12-31, 23:58:28](https://lobste.rs/s/hj01zc/hp_ux_hits_end_life_today_i_m_sad) - [HP-UX hits end-of-life today, and I’m sad](https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/)
 * [2025-12-31, 23:04:40](https://lobste.rs/s/gs5ujg/why_object_arrays_soa_pattern_beat) - [Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole](https://www.royalbhati.com/posts/js-array-vs-typedarray)
 * [2025-12-31, 23:01:03](https://lobste.rs/s/shqikf/way_do_open_permissionless_mesh_network) - [A way to do an open and permissionless mesh network](https://fiatjaf.com/582ccd1d.html)
 * [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
@@ -21,13 +23,12 @@
 * [2025-12-31, 03:03:25](https://lobste.rs/s/amcuhv/what_i_ve_learned_writing_gleam) - [What I've Learned Writing Gleam](https://nohzafk.github.io/posts/2025-12-27-what-i-ve-learned-writting-gleam/)
 * [2025-12-31, 02:57:38](https://lobste.rs/s/rmolyl/simple_bidirectional_type_inference) - [Simple Bidirectional Type Inference](https://ettolrach.com/blog/bidirectional_inference.html)
 * [2025-12-31, 01:33:03](https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more) - [Why we trust strangers’ open source more than our colleagues’](https://00f.net/2025/09/01/opensource-by-internal-contributors/)
-* [2025-12-30, 19:26:59](https://lobste.rs/s/wsyy3a/vulnerability_libsodium) - [A vulnerability in libsodium](https://00f.net/2025/12/30/libsodium-vulnerability/)
-* [2025-12-30, 15:21:17](https://lobste.rs/s/4pyalq/building_react_app_with_formally) - [Building a React App with Formally Verified State](https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/)
 * [2025-12-30, 15:06:28](https://lobste.rs/s/4uhvgb/fedimeteo_how_tiny_4_freebsd_vps_became) - [FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 * [2025-12-30, 15:06:13](https://lobste.rs/s/0g0ebi/formally_speaking_transpiler_is_useless) - [Formally speaking, \"Transpiler\" is a useless word](https://people.csail.mit.edu/rachit/post/transpiler-formal/)
 
 ## [Archives](archives/index.md)
 
+* [2026](archives/2026/index.md)
 * [2025](archives/2025/index.md)
 * [2024](archives/2024/index.md)
 * [2023](archives/2023/index.md)
