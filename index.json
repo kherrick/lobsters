@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-12-31, 23:28:41",
-      "https://lobste.rs/s/csuxqs/atmospheric_computing"
+      "2026-01-01, 00:21:21",
+      "https://lobste.rs/s/lvtmvw/bokehlicious_selfies_python"
     ],
     [
-      "Atmospheric Computing",
-      "https://pfrazee.com/blog/atmospheric-computing"
+      "Bokehlicious Selfies in Python",
+      "https://www.rahulrav.com/blog/bokehlicious.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 00:18:53",
+      "https://lobste.rs/s/tenl1g/i_canceled_my_programming_book_deal"
+    ],
+    [
+      "I canceled my programming book deal",
+      "https://austinhenley.com/blog/canceledbookdeal.html"
+    ]
+  ],
+  [
+    [
+      "2025-12-31, 23:58:28",
+      "https://lobste.rs/s/hj01zc/hp_ux_hits_end_life_today_i_m_sad"
+    ],
+    [
+      "HP-UX hits end-of-life today, and I’m sad",
+      "https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Why we trust strangers’ open source more than our colleagues’",
       "https://00f.net/2025/09/01/opensource-by-internal-contributors/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 19:26:59",
-      "https://lobste.rs/s/wsyy3a/vulnerability_libsodium"
-    ],
-    [
-      "A vulnerability in libsodium",
-      "https://00f.net/2025/12/30/libsodium-vulnerability/"
-    ]
-  ],
-  [
-    [
-      "2025-12-30, 15:21:17",
-      "https://lobste.rs/s/4pyalq/building_react_app_with_formally"
-    ],
-    [
-      "Building a React App with Formally Verified State",
-      "https://midspiral.com/blog/building-a-react-app-with-formally-verified-state/"
     ]
   ],
   [
