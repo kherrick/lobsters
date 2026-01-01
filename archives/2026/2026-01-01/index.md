@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-01](index.md)
 
+* [2026-01-01, 10:41:28](https://lobste.rs/s/x3b4ds/making_end_end_encrypted_ai_chat_feel_like) - [Making end-to-end encrypted AI chat feel like logging in](https://confer.to/blog/2025/12/passkey-encryption/)
 * [2026-01-01, 10:14:59](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted) - [Confidential computing for self-hosted communities](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted)
 * [2026-01-01, 09:37:54](https://lobste.rs/s/ki1qtn/writing_windows_95_software_2025) - [Writing Windows 95 software in 2025](https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025)
 * [2026-01-01, 09:14:31](https://lobste.rs/s/heusg4/hindsight_github_style_git_activity) - [hindsight: GitHub-style git activity visualizer for terminal](https://github.com/chaosprint/hindsight)

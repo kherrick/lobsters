@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-01, 10:41:28](https://lobste.rs/s/x3b4ds/making_end_end_encrypted_ai_chat_feel_like) - [Making end-to-end encrypted AI chat feel like logging in](https://confer.to/blog/2025/12/passkey-encryption/)
 * [2026-01-01, 10:14:59](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted) - [Confidential computing for self-hosted communities](https://lobste.rs/s/0rq8fz/confidential_computing_for_self_hosted)
 * [2026-01-01, 09:37:54](https://lobste.rs/s/ki1qtn/writing_windows_95_software_2025) - [Writing Windows 95 software in 2025](https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025)
 * [2026-01-01, 09:14:31](https://lobste.rs/s/heusg4/hindsight_github_style_git_activity) - [hindsight: GitHub-style git activity visualizer for terminal](https://github.com/chaosprint/hindsight)
@@ -24,7 +25,6 @@
 * [2025-12-31, 07:34:20](https://lobste.rs/s/13cyor/mastodon_stories_for_systemd_v259) - [Mastodon Stories for systemd v259](https://0pointer.net/blog/mastodon-stories-for-systemd-v259.html)
 * [2025-12-31, 03:52:12](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve) - [What are some interesting projects that you've done this year?](https://lobste.rs/s/npnchn/what_are_some_interesting_projects_you_ve)
 * [2025-12-31, 01:33:03](https://lobste.rs/s/sfmlns/why_we_trust_strangers_open_source_more) - [Why we trust strangers’ open source more than our colleagues’](https://00f.net/2025/09/01/opensource-by-internal-contributors/)
-* [2025-12-30, 15:06:28](https://lobste.rs/s/4uhvgb/fedimeteo_how_tiny_4_freebsd_vps_became) - [FediMeteo: How a Tiny €4 FreeBSD VPS Became a Global Weather Service for Thousands](https://it-notes.dragas.net/2025/02/26/fedimeteo-how-a-tiny-freebsd-vps-became-a-global-weather-service-for-thousands/)
 
 ## [Archives](archives/index.md)
 
