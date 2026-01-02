@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-02, 18:40:01",
+      "https://lobste.rs/s/katown/openttd_15_0_released"
+    ],
+    [
+      "OpenTTD 15.0 released",
+      "https://www.openttd.org/news/2026/01/01/openttd-15-0"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 17:23:34",
       "https://lobste.rs/s/1lcrer/darktable_styles_mimicing_fujifilm_s"
     ],
@@ -187,16 +197,6 @@
     [
       "Extensibility: The \"100% Lisp\" Fallacy",
       "https://kyo.iroiro.party/en/posts/100-percent-lisp/"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 22:46:25",
-      "https://lobste.rs/s/cvfbto/xcc700_mini_c_compiler_for_esp32"
-    ],
-    [
-      "xcc700: mini C compiler for esp32",
-      "https://github.com/valdanylchuk/xcc700"
     ]
   ],
   [
