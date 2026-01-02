@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-02, 15:16:54",
+      "https://lobste.rs/s/olywvo/destination_driven_compilation"
+    ],
+    [
+      "Destination Driven Compilation",
+      "https://tailrecursion.com/~alan/Lisp/DestinationDrivenCompilation.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 15:11:37",
+      "https://lobste.rs/s/hhbvkr/best_stack_for_saas_2026"
+    ],
+    [
+      "Best stack for a SaaS in 2026",
+      "https://forum.pragmaticentrepreneurs.com/t/meilleure-stack-pour-un-saas-en-2026-services-frameworks-devops-ia/24414"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 13:52:52",
       "https://lobste.rs/s/0r8fgx/bespoke_software_is_future"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-01-01, 04:49:09",
-      "https://lobste.rs/s/fq0fyl/statically_linking_pipewire"
-    ],
-    [
-      "Statically Linking PipeWire",
-      "https://gamesbymason.com/blog/2025/statically-linking-pipewire/"
-    ]
-  ],
-  [
-    [
       "2026-01-01, 02:25:12",
       "https://lobste.rs/s/rmenr4/how_do_you_secure_access_your_self_hosted"
     ],
@@ -237,16 +247,6 @@
     [
       "I canceled my programming book deal",
       "https://austinhenley.com/blog/canceledbookdeal.html"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 09:49:46",
-      "https://lobste.rs/s/3cwha2/solid_load_bull"
-    ],
-    [
-      "A SOLID Load of Bull",
-      "https://loup-vaillant.fr/articles/solid-bull"
     ]
   ]
 ]
