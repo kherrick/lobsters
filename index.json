@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-02, 23:34:01",
+      "https://lobste.rs/s/hptqsw/how_html_changes_epub"
+    ],
+    [
+      "How HTML changes in ePub",
+      "https://www.htmhell.dev/adventcalendar/2025/11/"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 22:14:29",
       "https://lobste.rs/s/lifxkp/why_i_switched_away_from_zig_c3"
     ],
@@ -177,16 +187,6 @@
     [
       "10 years of personal finances in plain text files",
       "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/"
-    ]
-  ],
-  [
-    [
-      "2026-01-02, 06:18:20",
-      "https://lobste.rs/s/hccuek/introducing_openworkers_self_hosted"
-    ],
-    [
-      "Introducing OpenWorkers – Self-hosted Cloudflare Workers in Rust",
-      "https://openworkers.com/introducing-openworkers"
     ]
   ],
   [
