@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 15:49:33](https://lobste.rs/s/bdzmde/i_m_brave_enough_say_it_linux_is_good_now_if) - [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
+* [2026-01-02, 15:48:05](https://lobste.rs/s/lmjuup/accounting_for_computer_scientists) - [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 * [2026-01-02, 15:16:54](https://lobste.rs/s/olywvo/destination_driven_compilation) - [Destination Driven Compilation](https://tailrecursion.com/~alan/Lisp/DestinationDrivenCompilation.html)
 * [2026-01-02, 15:11:37](https://lobste.rs/s/hhbvkr/best_stack_for_saas_2026) - [Best stack for a SaaS in 2026](https://forum.pragmaticentrepreneurs.com/t/meilleure-stack-pour-un-saas-en-2026-services-frameworks-devops-ia/24414)
 * [2026-01-02, 13:52:52](https://lobste.rs/s/0r8fgx/bespoke_software_is_future) - [Bespoke software is the future](https://fzakaria.com/2026/01/01/bespoke-software-is-the-future)
