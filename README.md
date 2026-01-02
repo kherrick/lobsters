@@ -3,6 +3,7 @@
 * [2026-01-02, 00:31:10](https://lobste.rs/s/tjvdxk/extensibility_100_lisp_fallacy) - [Extensibility: The \"100% Lisp\" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 * [2026-01-01, 22:46:25](https://lobste.rs/s/cvfbto/xcc700_mini_c_compiler_for_esp32) - [xcc700: mini C compiler for esp32](https://github.com/valdanylchuk/xcc700)
 * [2026-01-01, 21:52:27](https://lobste.rs/s/gzzfoo/gdb_jit_interface) - [The GDB JIT interface](https://bernsteinbear.com/blog/gdb-jit/)
+* [2026-01-01, 21:07:43](https://lobste.rs/s/9evpnj/sorting_with_fibonacci_numbers_knuth) - [Sorting with Fibonacci Numbers and a Knuth Reward Check](https://orlp.net/blog/fibonacci-sort/)
 * [2026-01-01, 20:29:24](https://lobste.rs/s/ari1nd/reasons_love_field_programming) - [Reasons to Love the Field of Programming Languages](https://danilafe.com/blog/i_love_programming_languages/)
 * [2026-01-01, 18:33:50](https://lobste.rs/s/gc8x9v/email_privacy_tester) - [Email Privacy Tester](https://www.emailprivacytester.com/)
 * [2026-01-01, 18:31:35](https://lobste.rs/s/mqwa5i/hierarchical_navigable_small_world_hnsw) - [Hierarchical Navigable Small World (HNSW) in PHP](https://centamori.com/index.php?slug=hierarchical-navigable-small-world-hnsw-php&lang=en)
@@ -22,7 +23,6 @@
 * [2026-01-01, 01:25:44](https://lobste.rs/s/ykqi2f/2025_year_llms) - [2025: The year in LLMs](https://simonwillison.net/2025/Dec/31/the-year-in-llms/)
 * [2026-01-01, 00:18:53](https://lobste.rs/s/tenl1g/i_canceled_my_programming_book_deal) - [I canceled my programming book deal](https://austinhenley.com/blog/canceledbookdeal.html)
 * [2025-12-31, 23:58:28](https://lobste.rs/s/hj01zc/hp_ux_hits_end_life_today_i_m_sad) - [HP-UX hits end-of-life today, and I’m sad](https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/)
-* [2025-12-31, 23:01:03](https://lobste.rs/s/shqikf/way_do_open_permissionless_mesh_network) - [A way to do an open and permissionless mesh network](https://fiatjaf.com/582ccd1d.html)
 * [2025-12-31, 21:34:29](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026) - [What are you planning to learn in 2026?](https://lobste.rs/s/foipu8/what_are_you_planning_learn_2026)
 * [2025-12-31, 09:49:46](https://lobste.rs/s/3cwha2/solid_load_bull) - [A SOLID Load of Bull](https://loup-vaillant.fr/articles/solid-bull)
 
