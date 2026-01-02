@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-02, 12:26:55",
+      "https://lobste.rs/s/lrx8vc/assorted_less_1_tips"
+    ],
+    [
+      "Assorted less(1) tips",
+      "https://blog.thechases.com/posts/assorted-less-tips/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 12:07:38",
+      "https://lobste.rs/s/2ztfac/my_job_as_family_admin_linux_rules_house"
+    ],
+    [
+      "My “job” as family admin or Linux rules the house",
+      "https://blog.bembel.net/2025/12/my-job-as-family-admin-or-linux-rules-the-house/"
+    ]
+  ],
+  [
+    [
       "2026-01-02, 11:34:27",
       "https://lobste.rs/s/pcznch/comment_preserving_cabal_parser"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-01-01, 17:09:24",
-      "https://lobste.rs/s/cniequ/wireguard_packet_relay_for_nat_traversal"
-    ],
-    [
-      "WireGuard packet relay for NAT traversal",
-      "https://github.com/weiiwang01/wpex"
-    ]
-  ],
-  [
-    [
       "2026-01-01, 14:14:14",
       "https://lobste.rs/s/kgbaoc/software_taketh_away_faster_than"
     ],
@@ -177,16 +187,6 @@
     [
       "Writing Windows 95 software in 2025",
       "https://tlxdev.hashnode.dev/writing-windows-95-software-in-2025"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 09:14:31",
-      "https://lobste.rs/s/heusg4/hindsight_github_style_git_activity"
-    ],
-    [
-      "hindsight: GitHub-style git activity visualizer for terminal",
-      "https://github.com/chaosprint/hindsight"
     ]
   ],
   [
