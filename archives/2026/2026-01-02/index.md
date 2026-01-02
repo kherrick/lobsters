@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 22:14:29](https://lobste.rs/s/lifxkp/why_i_switched_away_from_zig_c3) - [Why I switched away from Zig to C3](https://lowbytefox.dev/blog/from-zig-to-c3/)
 * [2026-01-02, 21:12:14](https://lobste.rs/s/trudnc/state_server_2026) - [State of the Server 2026](https://theorangeone.net/posts/state-of-the-server-2026/)
 * [2026-01-02, 19:36:30](https://lobste.rs/s/fcwjie/was_it_really_billion_dollar_mistake) - [Was it really a Billion Dollar Mistake? - gingerBill](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 * [2026-01-02, 19:32:16](https://lobste.rs/s/p7xyqi/webgpu_p5_js) - [WebGPU in p5.js](https://www.davepagurek.com/blog/p5-webgpu/)
