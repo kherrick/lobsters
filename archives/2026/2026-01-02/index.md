@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-02](index.md)
 
+* [2026-01-02, 21:12:14](https://lobste.rs/s/trudnc/state_server_2026) - [State of the Server 2026](https://theorangeone.net/posts/state-of-the-server-2026/)
 * [2026-01-02, 19:36:30](https://lobste.rs/s/fcwjie/was_it_really_billion_dollar_mistake) - [Was it really a Billion Dollar Mistake? - gingerBill](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 * [2026-01-02, 19:32:16](https://lobste.rs/s/p7xyqi/webgpu_p5_js) - [WebGPU in p5.js](https://www.davepagurek.com/blog/p5-webgpu/)
 * [2026-01-02, 18:40:01](https://lobste.rs/s/katown/openttd_15_0_released) - [OpenTTD 15.0 released](https://www.openttd.org/news/2026/01/01/openttd-15-0)
