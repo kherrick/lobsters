@@ -1,9 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-02, 16:09:05](https://lobste.rs/s/eulydi/which_programming_resource_changed_your) - [which programming resource changed your career?](https://lobste.rs/s/eulydi/which_programming_resource_changed_your)
 * [2026-01-02, 15:49:33](https://lobste.rs/s/bdzmde/i_m_brave_enough_say_it_linux_is_good_now_if) - [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
-* [2026-01-02, 15:48:05](https://lobste.rs/s/lmjuup/accounting_for_computer_scientists) - [Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 * [2026-01-02, 15:16:54](https://lobste.rs/s/olywvo/destination_driven_compilation) - [Destination Driven Compilation](https://tailrecursion.com/~alan/Lisp/DestinationDrivenCompilation.html)
-* [2026-01-02, 15:11:37](https://lobste.rs/s/hhbvkr/best_stack_for_saas_2026) - [Best stack for a SaaS in 2026](https://forum.pragmaticentrepreneurs.com/t/meilleure-stack-pour-un-saas-en-2026-services-frameworks-devops-ia/24414)
 * [2026-01-02, 13:52:52](https://lobste.rs/s/0r8fgx/bespoke_software_is_future) - [Bespoke software is the future](https://fzakaria.com/2026/01/01/bespoke-software-is-the-future)
 * [2026-01-02, 12:26:55](https://lobste.rs/s/lrx8vc/assorted_less_1_tips) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 * [2026-01-02, 12:07:38](https://lobste.rs/s/2ztfac/my_job_as_family_admin_linux_rules_house) - [My “job” as family admin or Linux rules the house](https://blog.bembel.net/2025/12/my-job-as-family-admin-or-linux-rules-the-house/)
@@ -17,6 +16,7 @@
 * [2026-01-02, 04:30:26](https://lobste.rs/s/dg03n6/cursed_bundler_using_go_get_install_ruby) - [Cursed Bundler: Using go get to install Ruby Gems](https://nesbitt.io/2025/12/25/cursed-bundler-using-go-get-to-install-ruby-gems.html)
 * [2026-01-02, 00:31:10](https://lobste.rs/s/tjvdxk/extensibility_100_lisp_fallacy) - [Extensibility: The \"100% Lisp\" Fallacy](https://kyo.iroiro.party/en/posts/100-percent-lisp/)
 * [2026-01-01, 22:46:25](https://lobste.rs/s/cvfbto/xcc700_mini_c_compiler_for_esp32) - [xcc700: mini C compiler for esp32](https://github.com/valdanylchuk/xcc700)
+* [2026-01-01, 21:52:27](https://lobste.rs/s/gzzfoo/gdb_jit_interface) - [The GDB JIT interface](https://bernsteinbear.com/blog/gdb-jit/)
 * [2026-01-01, 20:29:24](https://lobste.rs/s/ari1nd/reasons_love_field_programming) - [Reasons to Love the Field of Programming Languages](https://danilafe.com/blog/i_love_programming_languages/)
 * [2026-01-01, 18:33:50](https://lobste.rs/s/gc8x9v/email_privacy_tester) - [Email Privacy Tester](https://www.emailprivacytester.com/)
 * [2026-01-01, 14:14:14](https://lobste.rs/s/kgbaoc/software_taketh_away_faster_than) - [Software taketh away faster than hardware giveth: Why C++ programmers keep growing fast despite competition, safety, and AI](https://herbsutter.com/2025/12/30/software-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai/)
