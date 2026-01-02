@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-02, 00:31:10",
+      "https://lobste.rs/s/tjvdxk/extensibility_100_lisp_fallacy"
+    ],
+    [
+      "Extensibility: The \"100% Lisp\" Fallacy",
+      "https://kyo.iroiro.party/en/posts/100-percent-lisp/"
+    ]
+  ],
+  [
+    [
       "2026-01-01, 22:46:25",
       "https://lobste.rs/s/cvfbto/xcc700_mini_c_compiler_for_esp32"
     ],
@@ -57,6 +67,16 @@
     [
       "Parameter-efficient fine-tuning in tinygrad",
       "https://dxuuu.xyz/peft.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-01, 17:42:51",
+      "https://lobste.rs/s/5ie2jz/lazypromise_async_primitive"
+    ],
+    [
+      "LazyPromise: an async primitive that complements Signals and supports typed errors",
+      "https://github.com/lazy-promise/lazy-promise"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-01-01, 02:34:39",
-      "https://lobste.rs/s/kcz898/silly_diffuse_shading_model"
-    ],
-    [
-      "A silly diffuse shading model",
-      "https://lisyarus.github.io/blog/posts/a-silly-diffuse-shading-model.html"
-    ]
-  ],
-  [
-    [
       "2026-01-01, 02:25:12",
       "https://lobste.rs/s/rmenr4/how_do_you_secure_access_your_self_hosted"
     ],
@@ -207,16 +217,6 @@
     [
       "HP-UX hits end-of-life today, and I’m sad",
       "https://www.osnews.com/story/144094/hp-ux-hits-end-of-life-today-and-im-sad/"
-    ]
-  ],
-  [
-    [
-      "2025-12-31, 23:04:40",
-      "https://lobste.rs/s/gs5ujg/why_object_arrays_soa_pattern_beat"
-    ],
-    [
-      "Why Object of Arrays (SoA pattern) beat interleaved arrays: a JavaScript performance rabbit hole",
-      "https://www.royalbhati.com/posts/js-array-vs-typedarray"
     ]
   ],
   [
