@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 21:42:12](https://lobste.rs/s/sshwph/basic_just_time_compiler_2015) - [A Basic Just-In-Time Compiler (2015)](https://nullprogram.com/blog/2015/03/19/)
 * [2026-01-03, 21:26:07](https://lobste.rs/s/snn5k8/enterprise_integration_patterns) - [Enterprise Integration Patterns: The Routing Slip](https://james-carr.org/posts/2025-01-02-advent-of-eip-day-9-routing-slip/)
 * [2026-01-03, 21:05:49](https://lobste.rs/s/vryfvf/seven_night_sky_spectacles_watch_for_2026) - [Seven night sky spectacles to watch for in 2026](https://www.bbc.com/weather/articles/cn975wrrvy9o)
 * [2026-01-03, 20:46:05](https://lobste.rs/s/kw6ndy/notes_on_expression_problem_type_design) - [Notes on the expression problem and type design](https://www.tedinski.com/2018/03/06/more-on-the-expression-problem.html)
