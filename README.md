@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-03, 07:36:02](https://lobste.rs/s/o085u1/benchmarking_windows_against_itself) - [Benchmarking Windows Against Itself, From Windows XP To Windows 11](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/)
+* [2026-01-03, 03:25:19](https://lobste.rs/s/sdjfjc/gpu_compilation_with_mlir) - [GPU Compilation with MLIR](https://www.stephendiehl.com/posts/mlir_gpu/)
 * [2026-01-03, 02:08:22](https://lobste.rs/s/opvscn/is_tree_sitter_good_enough_2022) - [Is tree-sitter good enough? (2022)](https://blog.jez.io/tree-sitter-limitations/)
 * [2026-01-03, 02:01:17](https://lobste.rs/s/92vjrg/rubyevents_org_2025_wrapped_look_back_at) - [RubyEvents.org 2025 Wrapped - a look back at the Ruby community's year](https://www.rubyevents.org/wrapped)
 * [2026-01-02, 23:34:01](https://lobste.rs/s/hptqsw/how_html_changes_epub) - [How HTML changes in ePub](https://www.htmhell.dev/adventcalendar/2025/11/)
@@ -16,7 +17,6 @@
 * [2026-01-02, 15:16:54](https://lobste.rs/s/olywvo/destination_driven_compilation) - [Destination Driven Compilation](https://tailrecursion.com/~alan/Lisp/DestinationDrivenCompilation.html)
 * [2026-01-02, 13:52:52](https://lobste.rs/s/0r8fgx/bespoke_software_is_future) - [Bespoke software is the future](https://fzakaria.com/2026/01/01/bespoke-software-is-the-future)
 * [2026-01-02, 12:26:55](https://lobste.rs/s/lrx8vc/assorted_less_1_tips) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
-* [2026-01-02, 12:07:38](https://lobste.rs/s/2ztfac/my_job_as_family_admin_linux_rules_house) - [My “job” as family admin or Linux rules the house](https://blog.bembel.net/2025/12/my-job-as-family-admin-or-linux-rules-the-house/)
 * [2026-01-02, 11:34:27](https://lobste.rs/s/pcznch/comment_preserving_cabal_parser) - [A Comment-Preserving Cabal Parser](https://blog.haskell.org/a-comment-preserving-cabal-parser/)
 * [2026-01-02, 10:16:11](https://lobste.rs/s/jhboxh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jhboxh/what_are_you_doing_this_weekend)
 * [2026-01-02, 08:31:51](https://lobste.rs/s/8wl4s5/rust9x_update_rust_1_93_0_beta) - [Rust9x update: Rust 1.93.0-beta](https://seri.tools/blog/rust9x-1-93/)
