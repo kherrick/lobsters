@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-03, 10:15:31",
+      "https://lobste.rs/s/jvqhlv/linux_kernel_security_work"
+    ],
+    [
+      "Linux kernel security work",
+      "http://www.kroah.com/log/blog/2026/01/02/linux-kernel-security-work/"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 09:05:32",
       "https://lobste.rs/s/fdhsz0/freebsd_home_nas_part_2_introduction_pf"
     ],
@@ -27,16 +37,6 @@
     [
       "Benchmarking Windows Against Itself, From Windows XP To Windows 11",
       "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 03:25:19",
-      "https://lobste.rs/s/sdjfjc/gpu_compilation_with_mlir"
-    ],
-    [
-      "GPU Compilation with MLIR",
-      "https://www.stephendiehl.com/posts/mlir_gpu/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Releasing Fjall 3.0",
       "https://fjall-rs.github.io/post/fjall-3/"
+    ]
+  ],
+  [
+    [
+      "2026-01-02, 16:25:38",
+      "https://lobste.rs/s/r54non/proving_liveness_with_tla"
+    ],
+    [
+      "Proving liveness with TLA",
+      "https://roscidus.com/blog/blog/2026/01/01/tla-liveness/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Reasons to Love the Field of Programming Languages",
       "https://danilafe.com/blog/i_love_programming_languages/"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 13:04:07",
-      "https://lobste.rs/s/mxqift/one_number_i_trust_plain_text_accounting"
-    ],
-    [
-      "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
-      "https://lalitm.com/post/one-number-i-trust/"
     ]
   ]
 ]
