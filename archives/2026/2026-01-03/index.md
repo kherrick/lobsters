@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 17:16:24](https://lobste.rs/s/o5e7gm/who_owns_memory_part_1_what_is_object) - [Who Owns the Memory? Part 1: What is an Object?](https://lukefleed.xyz/posts/who-owns-the-memory-pt1/)
+* [2026-01-03, 17:04:30](https://lobste.rs/s/jtzqxs/ken_thompson_on_how_disk_scheduling) - [Ken Thompson on How A Disk Scheduling Algorithm Became Unix](https://www.youtube.com/watch?v=8E2cCqAS9AM)
 * [2026-01-03, 16:03:43](https://lobste.rs/s/awxarg/how_i_browse_web_2026) - [How I browse the web in 2026](https://bastiangruber.ca/posts/how-i-browse-the-web-in-2026/)
 * [2026-01-03, 12:07:39](https://lobste.rs/s/k36s0t/give_your_agentic_processes_name) - [Give your agentic processes a name](https://simonhartcher.com/posts/2025-12-31-give-your-agentic-processes-a-name)
 * [2026-01-03, 11:52:38](https://lobste.rs/s/c8qkpe/bypassing_rp2350_s_secure_boot) - [Bypassing RP2350's Secure Boot](https://media.ccc.de/v/39c3-of-boot-vectors-and-double-glitches-bypassing-rp2350-s-secure-boot)
