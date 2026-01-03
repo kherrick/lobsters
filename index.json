@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-01-03, 05:22:24",
+      "https://lobste.rs/s/dj4ocg/verified_model_based_conformance"
+    ],
+    [
+      "Verified Model-Based Conformance Testing for Dummies",
+      "https://welltyped.systems/blog/verified-conformance-testing-for-dummies"
+    ]
+  ],
+  [
+    [
       "2026-01-03, 02:08:22",
       "https://lobste.rs/s/opvscn/is_tree_sitter_good_enough_2022"
     ],
@@ -237,16 +247,6 @@
     [
       "Designing type-safe sync/async mode support in TypeScript",
       "https://hackers.pub/@hongminhee/2026/typescript-sync-async-type-safety"
-    ]
-  ],
-  [
-    [
-      "2026-01-01, 20:29:24",
-      "https://lobste.rs/s/ari1nd/reasons_love_field_programming"
-    ],
-    [
-      "Reasons to Love the Field of Programming Languages",
-      "https://danilafe.com/blog/i_love_programming_languages/"
     ]
   ]
 ]
