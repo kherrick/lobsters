@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-03, 21:05:49](https://lobste.rs/s/vryfvf/seven_night_sky_spectacles_watch_for_2026) - [Seven night sky spectacles to watch for in 2026](https://www.bbc.com/weather/articles/cn975wrrvy9o)
 * [2026-01-03, 20:46:05](https://lobste.rs/s/kw6ndy/notes_on_expression_problem_type_design) - [Notes on the expression problem and type design](https://www.tedinski.com/2018/03/06/more-on-the-expression-problem.html)
 * [2026-01-03, 19:08:57](https://lobste.rs/s/pbgzs0/git_pkgs_explore_your_dependency_history) - [git-pkgs: explore your dependency history](https://nesbitt.io/2026/01/01/git-pkgs-explore-your-dependency-history.html)
 * [2026-01-03, 18:24:52](https://lobste.rs/s/knttmv/gnu_indirect_function) - [GNU indirect function](https://maskray.me/blog/2021-01-18-gnu-indirect-function)
@@ -23,7 +24,6 @@
 * [2026-01-02, 16:51:28](https://lobste.rs/s/tdxrs5/releasing_fjall_3_0) - [Releasing Fjall 3.0](https://fjall-rs.github.io/post/fjall-3/)
 * [2026-01-02, 16:09:05](https://lobste.rs/s/eulydi/which_programming_resource_changed_your) - [which programming resource changed your career?](https://lobste.rs/s/eulydi/which_programming_resource_changed_your)
 * [2026-01-02, 15:49:33](https://lobste.rs/s/bdzmde/i_m_brave_enough_say_it_linux_is_good_now_if) - [I'm brave enough to say it: Linux is good now, and if you want to feel like you actually own your PC, make 2026 the year of Linux on (your) desktop](https://www.pcgamer.com/software/linux/im-brave-enough-to-say-it-linux-is-good-now-and-if-you-want-to-feel-like-you-actually-own-your-pc-make-2026-the-year-of-linux-on-your-desktop/)
-* [2026-01-02, 15:16:54](https://lobste.rs/s/olywvo/destination_driven_compilation) - [Destination Driven Compilation](https://tailrecursion.com/~alan/Lisp/DestinationDrivenCompilation.html)
 * [2026-01-02, 12:26:55](https://lobste.rs/s/lrx8vc/assorted_less_1_tips) - [Assorted less(1) tips](https://blog.thechases.com/posts/assorted-less-tips/)
 
 ## [Archives](archives/index.md)
