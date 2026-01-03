@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-03](index.md)
 
+* [2026-01-03, 07:36:02](https://lobste.rs/s/o085u1/benchmarking_windows_against_itself) - [Benchmarking Windows Against Itself, From Windows XP To Windows 11](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/)
 * [2026-01-03, 05:22:24](https://lobste.rs/s/dj4ocg/verified_model_based_conformance) - [Verified Model-Based Conformance Testing for Dummies](https://welltyped.systems/blog/verified-conformance-testing-for-dummies)
 * [2026-01-03, 03:25:19](https://lobste.rs/s/sdjfjc/gpu_compilation_with_mlir) - [GPU Compilation with MLIR](https://www.stephendiehl.com/posts/mlir_gpu/)
 * [2026-01-03, 02:08:22](https://lobste.rs/s/opvscn/is_tree_sitter_good_enough_2022) - [Is tree-sitter good enough? (2022)](https://blog.jez.io/tree-sitter-limitations/)
