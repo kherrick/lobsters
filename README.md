@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-04, 20:27:43](https://lobste.rs/s/9nyu9e/lmdb_freelist_b_tree_illustrated_guide) - [LMDB freelist (and B-tree) Illustrated Guide](https://github.com/erigontech/erigon/wiki/LMDB-freelist-illustrated-guide)
+* [2026-01-04, 19:45:38](https://lobste.rs/s/o6ildd/claude_code_on_go) - [Claude Code On-The-Go](https://granda.org/en/2026/01/02/claude-code-on-the-go/)
 * [2026-01-04, 19:30:07](https://lobste.rs/s/amhez5/cheribsd_freebsd_takes_advantage_cheri) - [CheriBSD: FreeBSD that takes advantage of CHERI](https://www.cheribsd.org/)
 * [2026-01-04, 19:30:01](https://lobste.rs/s/kpzqim/utopian_scholastic) - [Utopian Scholastic](https://wol.fm/blog/utopian-scholastic.html)
 * [2026-01-04, 19:23:35](https://lobste.rs/s/lgfui2/signals_vs_query_based_compilers) - [Signals vs Query-Based Compilers](https://marvinh.dev/blog/signals-vs-query-based-compilers/)
@@ -17,7 +18,6 @@
 * [2026-01-04, 11:52:41](https://lobste.rs/s/jxub7u/freebsd_home_nas_part_3_wireguard_vpn) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
 * [2026-01-04, 10:47:31](https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical) - [Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2026-01-04, 08:11:07](https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026) - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
-* [2026-01-04, 05:45:20](https://lobste.rs/s/swytpz/unsigned_char_std_basic_string_c) - [Unsigned char std::basic_string<> in C++](https://berthub.eu/articles/posts/unsigned-char-std-string-cpp/)
 * [2026-01-04, 03:28:32](https://lobste.rs/s/za0nkg/building_tls_1_3_implementation_pure) - [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
 * [2026-01-04, 02:38:49](https://lobste.rs/s/dd21hs/street_fighter_ii_world_warrier_2021) - [Street Fighter II, The World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
 * [2026-01-04, 00:30:46](https://lobste.rs/s/52bxvq/kde_onboarding_is_good_now) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
