@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-04, 12:12:19",
+      "https://lobste.rs/s/qlnufk/3d_printed_origami"
+    ],
+    [
+      "3D printed origami",
+      "https://youtu.be/FNVBK7-h9Fs"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 12:10:20",
+      "https://lobste.rs/s/nmsoao/quick_easy_gpu_random_numbers_d3d11_2013"
+    ],
+    [
+      "Quick And Easy GPU Random Numbers In D3D11 (2013)",
+      "https://www.reedbeta.com/blog/quick-and-easy-gpu-random-numbers-in-d3d11/"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 11:52:41",
       "https://lobste.rs/s/jxub7u/freebsd_home_nas_part_3_wireguard_vpn"
     ],
@@ -197,26 +217,6 @@
     [
       "The Kimwolf Botnet is Stalking Your Local Network",
       "https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 07:36:02",
-      "https://lobste.rs/s/o085u1/benchmarking_windows_against_itself"
-    ],
-    [
-      "Benchmarking Windows Against Itself, From Windows XP To Windows 11",
-      "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/"
-    ]
-  ],
-  [
-    [
-      "2026-01-03, 02:08:22",
-      "https://lobste.rs/s/opvscn/is_tree_sitter_good_enough_2022"
-    ],
-    [
-      "Is tree-sitter good enough? (2022)",
-      "https://blog.jez.io/tree-sitter-limitations/"
     ]
   ],
   [
