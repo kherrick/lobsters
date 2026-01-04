@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 19:23:35](https://lobste.rs/s/lgfui2/signals_vs_query_based_compilers) - [Signals vs Query-Based Compilers](https://marvinh.dev/blog/signals-vs-query-based-compilers/)
 * [2026-01-04, 17:43:17](https://lobste.rs/s/js6ozo/web_development_is_fun_again) - [Web development is fun again](https://ma.ttias.be/web-development-is-fun-again/)
 * [2026-01-04, 16:10:25](https://lobste.rs/s/gupujf/4_ways_improve_perfect_join_algorithm) - [4 Ways to Improve A Perfect Join Algorithm](https://remy.wang/blog/ya-fast.html)
 * [2026-01-04, 15:49:36](https://lobste.rs/s/gmtpog/my_llm_coding_workflow_going_into_2026) - [My LLM coding workflow going into 2026](https://addyosmani.com/blog/ai-coding-workflow/)

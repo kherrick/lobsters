@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-04, 19:23:35](https://lobste.rs/s/lgfui2/signals_vs_query_based_compilers) - [Signals vs Query-Based Compilers](https://marvinh.dev/blog/signals-vs-query-based-compilers/)
 * [2026-01-04, 16:10:25](https://lobste.rs/s/gupujf/4_ways_improve_perfect_join_algorithm) - [4 Ways to Improve A Perfect Join Algorithm](https://remy.wang/blog/ya-fast.html)
 * [2026-01-04, 15:49:36](https://lobste.rs/s/gmtpog/my_llm_coding_workflow_going_into_2026) - [My LLM coding workflow going into 2026](https://addyosmani.com/blog/ai-coding-workflow/)
 * [2026-01-04, 15:38:55](https://lobste.rs/s/b19ydv/audio_dongles_ghost_usb_1) - [Audio dongles and the ghost of USB 1](http://epenguin.imalone.co.uk/2025/06/audio-dongles-and-ghost-of-usb-1.html)
@@ -14,7 +15,6 @@
 * [2026-01-04, 10:47:31](https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical) - [Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2026-01-04, 10:35:41](https://lobste.rs/s/gtm6o1/neural_networks_zero_hero) - [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-04, 08:11:07](https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026) - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
-* [2026-01-04, 07:15:46](https://lobste.rs/s/k41lgd/where_good_ideas_come_from_for_coding) - [Where good ideas come from (for coding agents)](https://sunilpai.dev/posts/seven-ways/)
 * [2026-01-04, 05:45:20](https://lobste.rs/s/swytpz/unsigned_char_std_basic_string_c) - [Unsigned char std::basic_string<> in C++](https://berthub.eu/articles/posts/unsigned-char-std-string-cpp/)
 * [2026-01-04, 03:28:32](https://lobste.rs/s/za0nkg/building_tls_1_3_implementation_pure) - [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
 * [2026-01-04, 02:38:49](https://lobste.rs/s/dd21hs/street_fighter_ii_world_warrier_2021) - [Street Fighter II, The World Warrier (2021)](https://fabiensanglard.net/sf2_warrier/)
