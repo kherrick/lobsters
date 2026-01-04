@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-04, 19:23:35",
-      "https://lobste.rs/s/lgfui2/signals_vs_query_based_compilers"
+      "2026-01-04, 19:30:07",
+      "https://lobste.rs/s/amhez5/cheribsd_freebsd_takes_advantage_cheri"
     ],
     [
-      "Signals vs Query-Based Compilers",
-      "https://marvinh.dev/blog/signals-vs-query-based-compilers/"
+      "CheriBSD: FreeBSD that takes advantage of CHERI",
+      "https://www.cheribsd.org/"
+    ]
+  ],
+  [
+    [
+      "2026-01-04, 19:30:01",
+      "https://lobste.rs/s/kpzqim/utopian_scholastic"
+    ],
+    [
+      "Utopian Scholastic",
+      "https://wol.fm/blog/utopian-scholastic.html"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "win32 on macOS (2019)",
       "https://www.winehq.org/pipermail/wine-devel/2019-December/156602.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 15:30:00",
-      "https://lobste.rs/s/ntkyts/on_scannerless_parsing_again"
-    ],
-    [
-      "On scannerless parsing again",
-      "https://wareya.wordpress.com/2026/01/04/short-bit-on-scannerless-parsing-again/"
     ]
   ],
   [
