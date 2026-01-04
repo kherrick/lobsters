@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 14:06:28](https://lobste.rs/s/wkclnh/chances_are_you_have_fallen_for_at_least) - [Chances are you have fallen for at least one of 10 quantum myths](https://bigthink.com/starts-with-a-bang/10-quantum-myths/)
+* [2026-01-04, 14:03:22](https://lobste.rs/s/garkqn/maybe_comments_should_explain_what_2017) - [Maybe Comments SHOULD Explain 'What' (2017)](https://www.hillelwayne.com/post/what-comments/)
 * [2026-01-04, 13:29:51](https://lobste.rs/s/n9tev4/who_owns_memory_part_2_who_calls_free) - [Who Owns the Memory? Part 2: Who Calls Free?](https://lukefleed.xyz/posts/who-owns-the-memory-pt2/)
 * [2026-01-04, 13:08:33](https://lobste.rs/s/rgkpv3/javascript_engines_zoo) - [JavaScript engines zoo](https://zoo.js.org/)
 * [2026-01-04, 12:12:19](https://lobste.rs/s/qlnufk/3d_printed_origami) - [3D printed origami](https://youtu.be/FNVBK7-h9Fs)
