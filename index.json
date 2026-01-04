@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-04, 19:45:38",
+      "https://lobste.rs/s/o6ildd/claude_code_on_go"
+    ],
+    [
+      "Claude Code On-The-Go",
+      "https://granda.org/en/2026/01/02/claude-code-on-the-go/"
+    ]
+  ],
+  [
+    [
       "2026-01-04, 19:30:07",
       "https://lobste.rs/s/amhez5/cheribsd_freebsd_takes_advantage_cheri"
     ],
@@ -167,16 +177,6 @@
     [
       "Can I finally start using Wayland in 2026?",
       "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 05:45:20",
-      "https://lobste.rs/s/swytpz/unsigned_char_std_basic_string_c"
-    ],
-    [
-      "Unsigned char std::basic_string<> in C++",
-      "https://berthub.eu/articles/posts/unsigned-char-std-string-cpp/"
     ]
   ],
   [
