@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-04, 10:47:31](https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical) - [Saying goodbye to the servers at our physical datacenter - Stack Overflow](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2026-01-04, 10:35:41](https://lobste.rs/s/gtm6o1/neural_networks_zero_hero) - [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-04, 08:11:07](https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026) - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 * [2026-01-04, 07:15:46](https://lobste.rs/s/k41lgd/where_good_ideas_come_from_for_coding) - [Where good ideas come from (for coding agents)](https://sunilpai.dev/posts/seven-ways/)
@@ -20,7 +21,6 @@
 * [2026-01-03, 08:31:24](https://lobste.rs/s/xxyfaq/kimwolf_botnet_is_stalking_your_local) - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/)
 * [2026-01-03, 07:36:02](https://lobste.rs/s/o085u1/benchmarking_windows_against_itself) - [Benchmarking Windows Against Itself, From Windows XP To Windows 11](https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/)
 * [2026-01-03, 02:08:22](https://lobste.rs/s/opvscn/is_tree_sitter_good_enough_2022) - [Is tree-sitter good enough? (2022)](https://blog.jez.io/tree-sitter-limitations/)
-* [2026-01-02, 23:34:01](https://lobste.rs/s/hptqsw/how_html_changes_epub) - [How HTML changes in ePub](https://www.htmhell.dev/adventcalendar/2025/11/)
 * [2026-01-02, 22:14:29](https://lobste.rs/s/lifxkp/why_i_switched_away_from_zig_c3) - [Why I switched away from Zig to C3](https://lowbytefox.dev/blog/from-zig-to-c3/)
 * [2026-01-02, 19:36:30](https://lobste.rs/s/fcwjie/was_it_really_billion_dollar_mistake) - [Was it really a Billion Dollar Mistake?](https://www.gingerbill.org/article/2026/01/02/was-it-really-a-billion-dollar-mistake/)
 * [2026-01-02, 16:09:05](https://lobste.rs/s/eulydi/which_programming_resource_changed_your) - [which programming resource changed your career?](https://lobste.rs/s/eulydi/which_programming_resource_changed_your)

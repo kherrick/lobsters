@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-04](index.md)
 
+* [2026-01-04, 10:47:31](https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical) - [Saying goodbye to the servers at our physical datacenter - Stack Overflow](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2026-01-04, 10:35:41](https://lobste.rs/s/gtm6o1/neural_networks_zero_hero) - [Neural Networks: Zero To Hero](https://karpathy.ai/zero-to-hero.html)
 * [2026-01-04, 08:11:07](https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026) - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 * [2026-01-04, 07:15:46](https://lobste.rs/s/k41lgd/where_good_ideas_come_from_for_coding) - [Where good ideas come from (for coding agents)](https://sunilpai.dev/posts/seven-ways/)
