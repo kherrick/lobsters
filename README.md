@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-04, 13:08:33](https://lobste.rs/s/rgkpv3/javascript_engines_zoo) - [JavaScript engines zoo](https://zoo.js.org/)
 * [2026-01-04, 12:12:19](https://lobste.rs/s/qlnufk/3d_printed_origami) - [3D printed origami](https://youtu.be/FNVBK7-h9Fs)
 * [2026-01-04, 12:10:20](https://lobste.rs/s/nmsoao/quick_easy_gpu_random_numbers_d3d11_2013) - [Quick And Easy GPU Random Numbers In D3D11 (2013)](https://www.reedbeta.com/blog/quick-and-easy-gpu-random-numbers-in-d3d11/)
 * [2026-01-04, 11:52:41](https://lobste.rs/s/jxub7u/freebsd_home_nas_part_3_wireguard_vpn) - [FreeBSD Home NAS, part 3: WireGuard VPN, routing, and Linux peers](https://rtfm.co.ua/en/freebsd-home-nas-part-3-wireguard-vpn-linux-peer-and-routing/)
@@ -14,7 +15,6 @@
 * [2026-01-04, 00:38:03](https://lobste.rs/s/7f58yw/minikv_little_kv_store_implementation) - [minikv: A little KV store implementation in OCaml to practice DB systems things](https://github.com/alpha-convert/minikv)
 * [2026-01-04, 00:30:46](https://lobste.rs/s/52bxvq/kde_onboarding_is_good_now) - [KDE onboarding is good now](https://rabbitictranslator.com/kde-onboarding/)
 * [2026-01-03, 21:26:07](https://lobste.rs/s/snn5k8/enterprise_integration_patterns) - [Enterprise Integration Patterns: The Routing Slip](https://james-carr.org/posts/2025-01-02-advent-of-eip-day-9-routing-slip/)
-* [2026-01-03, 20:46:05](https://lobste.rs/s/kw6ndy/notes_on_expression_problem_type_design) - [Notes on the expression problem and type design (2018)](https://www.tedinski.com/2018/03/06/more-on-the-expression-problem.html)
 * [2026-01-03, 17:33:29](https://lobste.rs/s/ie1366/amiga_desktops_worth_seeing) - [Amiga Desktops Worth Seeing](https://www.datagubbe.se/wbshots/)
 * [2026-01-03, 17:16:24](https://lobste.rs/s/o5e7gm/who_owns_memory_part_1_what_is_object) - [Who Owns the Memory? Part 1: What is an Object?](https://lukefleed.xyz/posts/who-owns-the-memory-pt1/)
 * [2026-01-03, 17:04:30](https://lobste.rs/s/jtzqxs/ken_thompson_on_how_disk_scheduling) - [Ken Thompson on How A Disk Scheduling Algorithm Became Unix](https://www.youtube.com/watch?v=8E2cCqAS9AM)
