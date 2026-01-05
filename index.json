@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-05, 11:15:17",
+      "https://lobste.rs/s/uvx98g/using_ebpf_load_balance_traffic_across"
+    ],
+    [
+      "Using eBPF to load-balance traffic across UDP sockets with Go",
+      "https://vincent.bernat.ch/en/blog/2026-reuseport-ebpf-go"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 10:44:51",
       "https://lobste.rs/s/bnovba/databases_2025_year_review"
     ],
@@ -107,16 +117,6 @@
     [
       "Utopian Scholastic",
       "https://wol.fm/blog/utopian-scholastic.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 19:23:35",
-      "https://lobste.rs/s/lgfui2/signals_vs_query_based_compilers"
-    ],
-    [
-      "Signals vs Query-Based Compilers",
-      "https://marvinh.dev/blog/signals-vs-query-based-compilers/"
     ]
   ],
   [
