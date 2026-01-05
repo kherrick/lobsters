@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-05, 22:08:01](https://lobste.rs/s/df8vju/owning_domain_increase_digital_self) - [Owning a Domain Increase Digital Self-Reliance](https://chuck.is/self-reliant/)
 * [2026-01-05, 20:24:25](https://lobste.rs/s/a4ywjn/nullbrook_archive) - [Nullbrook Archive](https://nullbrook.org/disks)
 * [2026-01-05, 18:45:14](https://lobste.rs/s/6x0nut/change_is_root_all_evil_bugs) - [Change is the root of all (evil) bugs](https://fhur.me/posts/2026/change-is-the-root-of-all-evil-bugs)
 * [2026-01-05, 18:10:50](https://lobste.rs/s/7d6b5i/go_1_26_interactive_tour) - [Go 1.26 interactive tour](https://antonz.org/go-1-26/)
@@ -7,7 +8,6 @@
 * [2026-01-05, 17:32:56](https://lobste.rs/s/l9gkjo/field_guide_sandboxes_for_ai) - [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai)
 * [2026-01-05, 16:30:38](https://lobste.rs/s/gykpyi/who_owns_memory_part_3_how_big_is_your_type) - [Who Owns the Memory? Part 3: How Big Is your Type?](https://lukefleed.xyz/posts/who-owns-the-memory-pt3/)
 * [2026-01-05, 16:20:41](https://lobste.rs/s/fykeur/kelp_new_streaming_log_parser_algorithm) - [Kelp: A New Streaming Log Parser Algorithm](https://www.stonebucklabs.com/blog/kelp-log-parser)
-* [2026-01-05, 15:49:27](https://lobste.rs/s/zyumo7/detect_go_s_silent_arithmetic_bugs_with_go) - [Detect Go’s silent arithmetic bugs with go-panikint](https://blog.trailofbits.com/2025/12/31/detect-gos-silent-arithmetic-bugs-with-go-panikint/)
 * [2026-01-05, 15:27:10](https://lobste.rs/s/tvtppf/komorebi_financial_breakdown_for_2025) - [komorebi Financial Breakdown for 2025](https://lgug2z.com/articles/komorebi-financial-breakdown-for-2025/)
 * [2026-01-05, 14:36:12](https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary) - [Functors, Applicatives, and Monads: The Scary Words You Already Understand](https://cekrem.github.io/posts/functors-applicatives-monads-elm/)
 * [2026-01-05, 14:25:50](https://lobste.rs/s/seun8j/how_github_monopoly_is_destroying_open) - [How GitHub monopoly is destroying the open source ecosystem](https://ploum.net/2026-01-05-unteaching_github.html)

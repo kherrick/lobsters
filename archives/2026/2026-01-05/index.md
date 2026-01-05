@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 22:08:01](https://lobste.rs/s/df8vju/owning_domain_increase_digital_self) - [Owning a Domain Increase Digital Self-Reliance](https://chuck.is/self-reliant/)
 * [2026-01-05, 20:24:25](https://lobste.rs/s/a4ywjn/nullbrook_archive) - [Nullbrook Archive](https://nullbrook.org/disks)
 * [2026-01-05, 18:45:14](https://lobste.rs/s/6x0nut/change_is_root_all_evil_bugs) - [Change is the root of all (evil) bugs](https://fhur.me/posts/2026/change-is-the-root-of-all-evil-bugs)
 * [2026-01-05, 18:10:50](https://lobste.rs/s/7d6b5i/go_1_26_interactive_tour) - [Go 1.26 interactive tour](https://antonz.org/go-1-26/)
