@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-05, 20:24:25",
+      "https://lobste.rs/s/a4ywjn/nullbrook_archive"
+    ],
+    [
+      "Nullbrook Archive",
+      "https://nullbrook.org/disks"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 18:45:14",
+      "https://lobste.rs/s/6x0nut/change_is_root_all_evil_bugs"
+    ],
+    [
+      "Change is the root of all (evil) bugs",
+      "https://fhur.me/posts/2026/change-is-the-root-of-all-evil-bugs"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 18:10:50",
       "https://lobste.rs/s/7d6b5i/go_1_26_interactive_tour"
     ],
@@ -87,16 +107,6 @@
     [
       "It’s hard to justify Tahoe icons",
       "https://tonsky.me/blog/tahoe-icons/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 12:10:34",
-      "https://lobste.rs/s/huhgn0/journal_guardian_journalctl_watcher"
-    ],
-    [
-      "journal-guardian: JournalCTL Watcher with local LLM explanations for errors",
-      "https://github.com/delirehberi/journal-guardian"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Who Owns the Memory? Part 2: Who Calls Free?",
       "https://lukefleed.xyz/posts/who-owns-the-memory-pt2/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 13:08:33",
-      "https://lobste.rs/s/rgkpv3/javascript_engines_zoo"
-    ],
-    [
-      "JavaScript engines zoo",
-      "https://zoo.js.org/"
     ]
   ],
   [
