@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 12:10:34](https://lobste.rs/s/huhgn0/journal_guardian_journalctl_watcher) - [journal-guardian: JournalCTL Watcher with local LLM explanations for errors](https://github.com/delirehberi/journal-guardian)
+* [2026-01-05, 12:09:03](https://lobste.rs/s/ik17dv/rate_limiting_bursty_workloads) - [Rate limiting bursty workloads](https://jean-lopes.github.io/blog/rate-limiting-bursty-workloads.html)
+* [2026-01-05, 12:06:54](https://lobste.rs/s/abzzkn/sneaking_metadata_into_mako_templates) - [Sneaking Metadata into Mako Templates](https://bobrubbens.nl/post/sneaking-metadata-into-mako-templates/)
+* [2026-01-05, 11:56:08](https://lobste.rs/s/cqaquz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/cqaquz/what_are_you_doing_this_week)
 * [2026-01-05, 11:15:17](https://lobste.rs/s/uvx98g/using_ebpf_load_balance_traffic_across) - [Using eBPF to load-balance traffic across UDP sockets with Go](https://vincent.bernat.ch/en/blog/2026-reuseport-ebpf-go)
 * [2026-01-05, 10:44:51](https://lobste.rs/s/bnovba/databases_2025_year_review) - [Databases in 2025: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)
 * [2026-01-05, 09:15:15](https://lobste.rs/s/ifuhev/practical_guide_building_parser_go) - [A Practical guide to building a parser in Go](https://gagor.pro/2026/01/a-practical-guide-to-building-a-parser-in-go/)
