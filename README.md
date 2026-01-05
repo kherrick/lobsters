@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-05, 13:28:01](https://lobste.rs/s/2gvk2r/it_s_hard_justify_tahoe_icons) - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 12:10:34](https://lobste.rs/s/huhgn0/journal_guardian_journalctl_watcher) - [journal-guardian: JournalCTL Watcher with local LLM explanations for errors](https://github.com/delirehberi/journal-guardian)
 * [2026-01-05, 12:09:03](https://lobste.rs/s/ik17dv/rate_limiting_bursty_workloads) - [Rate limiting bursty workloads](https://jean-lopes.github.io/blog/rate-limiting-bursty-workloads.html)
 * [2026-01-05, 12:06:54](https://lobste.rs/s/abzzkn/sneaking_metadata_into_mako_templates) - [Sneaking Metadata into Mako Templates](https://bobrubbens.nl/post/sneaking-metadata-into-mako-templates/)
@@ -24,7 +25,6 @@
 * [2026-01-04, 13:08:33](https://lobste.rs/s/rgkpv3/javascript_engines_zoo) - [JavaScript engines zoo](https://zoo.js.org/)
 * [2026-01-04, 10:47:31](https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical) - [Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2026-01-04, 08:11:07](https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026) - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
-* [2026-01-04, 03:28:32](https://lobste.rs/s/za0nkg/building_tls_1_3_implementation_pure) - [Building a TLS 1.3 Implementation in Pure Common Lisp](https://atgreen.github.io/repl-yell/posts/pure-tls/)
 
 ## [Archives](archives/index.md)
 
