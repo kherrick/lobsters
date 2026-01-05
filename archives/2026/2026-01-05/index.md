@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 14:36:12](https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary) - [Functors, Applicatives, and Monads: The Scary Words You Already Understand](https://cekrem.github.io/posts/functors-applicatives-monads-elm/)
 * [2026-01-05, 14:01:02](https://lobste.rs/s/18wa5g/compiler_engineering_practice_part_2_why) - [Compiler Engineering In Practice - Part 2: Why is a compiler?](https://chisophugis.github.io/2026/01/04/compiler-engineering-in-practice-part-2-why-is-a-compiler.html)
 * [2026-01-05, 13:28:01](https://lobste.rs/s/2gvk2r/it_s_hard_justify_tahoe_icons) - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 12:10:34](https://lobste.rs/s/huhgn0/journal_guardian_journalctl_watcher) - [journal-guardian: JournalCTL Watcher with local LLM explanations for errors](https://github.com/delirehberi/journal-guardian)
