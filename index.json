@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-05, 22:08:01",
+      "https://lobste.rs/s/df8vju/owning_domain_increase_digital_self"
+    ],
+    [
+      "Owning a Domain Increase Digital Self-Reliance",
+      "https://chuck.is/self-reliant/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 20:24:25",
       "https://lobste.rs/s/a4ywjn/nullbrook_archive"
     ],
@@ -67,16 +77,6 @@
     [
       "Kelp: A New Streaming Log Parser Algorithm",
       "https://www.stonebucklabs.com/blog/kelp-log-parser"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 15:49:27",
-      "https://lobste.rs/s/zyumo7/detect_go_s_silent_arithmetic_bugs_with_go"
-    ],
-    [
-      "Detect Go’s silent arithmetic bugs with go-panikint",
-      "https://blog.trailofbits.com/2025/12/31/detect-gos-silent-arithmetic-bugs-with-go-panikint/"
     ]
   ],
   [
