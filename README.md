@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-05, 09:15:15](https://lobste.rs/s/ifuhev/practical_guide_building_parser_go) - [A Practical guide to building a parser in Go](https://gagor.pro/2026/01/a-practical-guide-to-building-a-parser-in-go/)
 * [2026-01-05, 08:28:53](https://lobste.rs/s/ba1o6s/decorative_cryptography) - [Decorative Cryptography](https://dlp.rip/decorative-cryptography)
-* [2026-01-05, 08:15:58](https://lobste.rs/s/fxhyoy/freebsd_home_nas_part_5_zfs_pools_datasets) - [FreeBSD Home NAS, part 5: ZFS pools, datasets, snapshots, and monitoring ZFS health](https://rtfm.co.ua/en/freebsd-home-nas-part-5-zfs-pool-datasets-snapshots-and-zfs-monitoring/)
 * [2026-01-05, 00:31:11](https://lobste.rs/s/f8mhm9/everything_you_need_know_about_email) - [Everything You Need to Know About Email Encryption in 2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/)
 * [2026-01-04, 23:30:36](https://lobste.rs/s/nr6mqg/late_arrival_16_bit_cp_m) - [The Late Arrival of 16-bit CP/M](https://nemanjatrifunovic.substack.com/p/the-late-arrival-of-16-bit-cpm)
 * [2026-01-04, 22:10:07](https://lobste.rs/s/eaxaac/stop_forwarding_errors_start_designing) - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)

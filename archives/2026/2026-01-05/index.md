@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 09:15:15](https://lobste.rs/s/ifuhev/practical_guide_building_parser_go) - [A Practical guide to building a parser in Go](https://gagor.pro/2026/01/a-practical-guide-to-building-a-parser-in-go/)
 * [2026-01-05, 08:28:53](https://lobste.rs/s/ba1o6s/decorative_cryptography) - [Decorative Cryptography](https://dlp.rip/decorative-cryptography)
 * [2026-01-05, 08:15:58](https://lobste.rs/s/fxhyoy/freebsd_home_nas_part_5_zfs_pools_datasets) - [FreeBSD Home NAS, part 5: ZFS pools, datasets, snapshots, and monitoring ZFS health](https://rtfm.co.ua/en/freebsd-home-nas-part-5-zfs-pool-datasets-snapshots-and-zfs-monitoring/)
 * [2026-01-05, 05:43:24](https://lobste.rs/s/dvhjht/using_iperf3_prometheus_for_wan_link) - [Using iperf3 and Prometheus for WAN link monitoring](https://freebsd.uw.cz/2026/01/using-iperf3-and-prometheus-for-wan.html)
