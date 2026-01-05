@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-01-05](index.md)
 
+* [2026-01-05, 15:49:27](https://lobste.rs/s/zyumo7/detect_go_s_silent_arithmetic_bugs_with_go) - [Detect Go’s silent arithmetic bugs with go-panikint](https://blog.trailofbits.com/2025/12/31/detect-gos-silent-arithmetic-bugs-with-go-panikint/)
 * [2026-01-05, 15:27:10](https://lobste.rs/s/tvtppf/komorebi_financial_breakdown_for_2025) - [komorebi Financial Breakdown for 2025](https://lgug2z.com/articles/komorebi-financial-breakdown-for-2025/)
 * [2026-01-05, 14:36:12](https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary) - [Functors, Applicatives, and Monads: The Scary Words You Already Understand](https://cekrem.github.io/posts/functors-applicatives-monads-elm/)
+* [2026-01-05, 14:25:50](https://lobste.rs/s/seun8j/how_github_monopoly_is_destroying_open) - [How Github monopoly is destroying the open source ecosystem](https://ploum.net/2026-01-05-unteaching_github.html)
 * [2026-01-05, 14:01:02](https://lobste.rs/s/18wa5g/compiler_engineering_practice_part_2_why) - [Compiler Engineering In Practice - Part 2: Why is a compiler?](https://chisophugis.github.io/2026/01/04/compiler-engineering-in-practice-part-2-why-is-a-compiler.html)
 * [2026-01-05, 13:28:01](https://lobste.rs/s/2gvk2r/it_s_hard_justify_tahoe_icons) - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 12:10:34](https://lobste.rs/s/huhgn0/journal_guardian_journalctl_watcher) - [journal-guardian: JournalCTL Watcher with local LLM explanations for errors](https://github.com/delirehberi/journal-guardian)

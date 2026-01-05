@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-05, 15:49:27](https://lobste.rs/s/zyumo7/detect_go_s_silent_arithmetic_bugs_with_go) - [Detect Go’s silent arithmetic bugs with go-panikint](https://blog.trailofbits.com/2025/12/31/detect-gos-silent-arithmetic-bugs-with-go-panikint/)
 * [2026-01-05, 15:27:10](https://lobste.rs/s/tvtppf/komorebi_financial_breakdown_for_2025) - [komorebi Financial Breakdown for 2025](https://lgug2z.com/articles/komorebi-financial-breakdown-for-2025/)
-* [2026-01-05, 14:36:12](https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary) - [Functors, Applicatives, and Monads: The Scary Words You Already Understand](https://cekrem.github.io/posts/functors-applicatives-monads-elm/)
+* [2026-01-05, 14:25:50](https://lobste.rs/s/seun8j/how_github_monopoly_is_destroying_open) - [How Github monopoly is destroying the open source ecosystem](https://ploum.net/2026-01-05-unteaching_github.html)
 * [2026-01-05, 13:28:01](https://lobste.rs/s/2gvk2r/it_s_hard_justify_tahoe_icons) - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 * [2026-01-05, 12:10:34](https://lobste.rs/s/huhgn0/journal_guardian_journalctl_watcher) - [journal-guardian: JournalCTL Watcher with local LLM explanations for errors](https://github.com/delirehberi/journal-guardian)
 * [2026-01-05, 12:09:03](https://lobste.rs/s/ik17dv/rate_limiting_bursty_workloads) - [Rate limiting bursty workloads](https://jean-lopes.github.io/blog/rate-limiting-bursty-workloads.html)
@@ -18,7 +19,6 @@
 * [2026-01-04, 19:30:01](https://lobste.rs/s/kpzqim/utopian_scholastic) - [Utopian Scholastic](https://wol.fm/blog/utopian-scholastic.html)
 * [2026-01-04, 16:10:25](https://lobste.rs/s/gupujf/4_ways_improve_perfect_join_algorithm) - [4 Ways to Improve A Perfect Join Algorithm](https://remy.wang/blog/ya-fast.html)
 * [2026-01-04, 15:38:55](https://lobste.rs/s/b19ydv/audio_dongles_ghost_usb_1) - [Audio dongles and the ghost of USB 1](http://epenguin.imalone.co.uk/2025/06/audio-dongles-and-ghost-of-usb-1.html)
-* [2026-01-04, 15:32:54](https://lobste.rs/s/v4a1sp/win32_on_macos_2019) - [win32 on macOS (2019)](https://www.winehq.org/pipermail/wine-devel/2019-December/156602.html)
 * [2026-01-04, 15:30:00](https://lobste.rs/s/ntkyts/on_scannerless_parsing_again) - [On scannerless parsing again](https://wareya.wordpress.com/2026/01/04/short-bit-on-scannerless-parsing-again/)
 * [2026-01-04, 14:03:22](https://lobste.rs/s/garkqn/maybe_comments_should_explain_what_2017) - [Maybe Comments SHOULD Explain 'What' (2017)](https://www.hillelwayne.com/post/what-comments/)
 * [2026-01-04, 13:29:51](https://lobste.rs/s/n9tev4/who_owns_memory_part_2_who_calls_free) - [Who Owns the Memory? Part 2: Who Calls Free?](https://lukefleed.xyz/posts/who-owns-the-memory-pt2/)
