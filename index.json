@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-05, 14:36:12",
+      "https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary"
+    ],
+    [
+      "Functors, Applicatives, and Monads: The Scary Words You Already Understand",
+      "https://cekrem.github.io/posts/functors-applicatives-monads-elm/"
+    ]
+  ],
+  [
+    [
       "2026-01-05, 14:01:02",
       "https://lobste.rs/s/18wa5g/compiler_engineering_practice_part_2_why"
     ],
@@ -77,16 +87,6 @@
     [
       "Databases in 2025: A Year in Review",
       "https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 09:15:15",
-      "https://lobste.rs/s/ifuhev/practical_guide_building_parser_go"
-    ],
-    [
-      "A Practical guide to building a parser in Go",
-      "https://gagor.pro/2026/01/a-practical-guide-to-building-a-parser-in-go/"
     ]
   ],
   [
