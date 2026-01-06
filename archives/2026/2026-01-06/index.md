@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 07:21:43](https://lobste.rs/s/zt9gsb/bgp_2025) - [BGP in 2025](https://www.potaroo.net/ispcol/2026-01/bgp2025.html)
 * [2026-01-06, 06:31:15](https://lobste.rs/s/uhqsjr/building_type_safe_compound_components) - [Building Type-Safe Compound Components](https://tkdodo.eu/blog/building-type-safe-compound-components)
 * [2026-01-06, 04:59:46](https://lobste.rs/s/twojgq/time_travelling_fixing_bugs_with) - [Time Travelling and Fixing Bugs with Property-Based Testing (2019)](https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html)
 * [2026-01-06, 04:28:12](https://lobste.rs/s/9c952c/minimal_keyboard_key_effect_with_css) - [A minimal keyboard key effect with CSS](https://pjg1.site/kbd-css.html)
