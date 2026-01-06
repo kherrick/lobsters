@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-06, 10:50:42](https://lobste.rs/s/eb41bh/aurora_sprint_2026_hack_on_embedded_nix) - [Aurora Sprint 2026 - Hack on Embedded Nix in Iceland](https://aurorasprint.com/)
 * [2026-01-06, 08:57:48](https://lobste.rs/s/eqcmik/no_microsoft_office_didn_t_just_get) - [No, Microsoft Office didn't just get renamed to Microsoft 365 Copilot](https://www.howtogeek.com/no-microsoft-office-didnt-just-get-renamed-to-microsoft-365-copilot/)
 * [2026-01-06, 07:59:56](https://lobste.rs/s/ep8rbp/i_switched_from_vscode_zed) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
 * [2026-01-06, 07:21:43](https://lobste.rs/s/zt9gsb/bgp_2025) - [BGP in 2025](https://www.potaroo.net/ispcol/2026-01/bgp2025.html)
@@ -15,7 +16,6 @@
 * [2026-01-05, 17:38:48](https://lobste.rs/s/0lzrhf/uncloud_self_hosted_cloud_seen_by) - [Uncloud, self hosted Cloud, seen by a developer for developers](https://blog.garambrogne.net/uncloud-en.html)
 * [2026-01-05, 17:32:56](https://lobste.rs/s/l9gkjo/field_guide_sandboxes_for_ai) - [A field guide to sandboxes for AI](https://www.luiscardoso.dev/blog/sandboxes-for-ai)
 * [2026-01-05, 16:30:38](https://lobste.rs/s/gykpyi/who_owns_memory_part_3_how_big_is_your_type) - [Who Owns the Memory? Part 3: How Big Is your Type?](https://lukefleed.xyz/posts/who-owns-the-memory-pt3/)
-* [2026-01-05, 16:20:41](https://lobste.rs/s/fykeur/kelp_new_streaming_log_parser_algorithm) - [Kelp: A New Streaming Log Parser Algorithm](https://www.stonebucklabs.com/blog/kelp-log-parser)
 * [2026-01-05, 15:27:10](https://lobste.rs/s/tvtppf/komorebi_financial_breakdown_for_2025) - [komorebi Financial Breakdown for 2025](https://lgug2z.com/articles/komorebi-financial-breakdown-for-2025/)
 * [2026-01-05, 14:36:12](https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary) - [Functors, Applicatives, and Monads: The Scary Words You Already Understand](https://cekrem.github.io/posts/functors-applicatives-monads-elm/)
 * [2026-01-05, 14:25:50](https://lobste.rs/s/seun8j/how_github_monopoly_is_destroying_open) - [How GitHub monopoly is destroying the open source ecosystem](https://ploum.net/2026-01-05-unteaching_github.html)
