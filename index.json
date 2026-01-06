@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-06, 20:39:36",
+      "https://lobste.rs/s/b0sfwb/high_performance_dbmss_with_io_uring_when"
+    ],
+    [
+      "High-Performance DBMSs with io_uring: When and How to use it",
+      "https://arxiv.org/abs/2512.04859"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 19:26:47",
       "https://lobste.rs/s/uaaaao/diffs_js_library_for_rendering_diffs"
     ],
@@ -137,16 +147,6 @@
     [
       "BGP in 2025",
       "https://www.potaroo.net/ispcol/2026-01/bgp2025.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 04:59:46",
-      "https://lobste.rs/s/twojgq/time_travelling_fixing_bugs_with"
-    ],
-    [
-      "Time Travelling and Fixing Bugs with Property-Based Testing (2019)",
-      "https://wickstrom.tech/2019-11-17-time-travelling-and-fixing-bugs-with-property-based-testing.html"
     ]
   ],
   [
