@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-06, 01:00:28",
-      "https://lobste.rs/s/lsubgl/story_ribbon_2008"
+      "2026-01-06, 03:54:19",
+      "https://lobste.rs/s/2kheyy/i_o_is_no_longer_bottleneck"
     ],
     [
-      "The Story of the Ribbon (2008)",
-      "https://youtu.be/YLZgNHEEnSE"
+      "I/O is no longer the bottleneck?",
+      "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 03:07:08",
+      "https://lobste.rs/s/a8x19t/why_markdown_emphasis_fails_cjk_deep_dive"
+    ],
+    [
+      "Why Markdown emphasis fails in CJK: A deep dive into CommonMark's delimiter rules",
+      "https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8"
     ]
   ],
   [
@@ -17,6 +27,26 @@
     [
       "Building a CPU in Factorio - From D-Flip-Flops to an Operating System",
       "https://www.youtube.com/watch?v=QcQYEAr0Yos"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 23:29:23",
+      "https://lobste.rs/s/jkxnxa/pre_tenuring_v8"
+    ],
+    [
+      "pre-tenuring in v8",
+      "https://wingolog.org/archives/2026/01/05/pre-tenuring-in-v8"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 22:52:07",
+      "https://lobste.rs/s/gp6byg/regexp_lessons"
+    ],
+    [
+      "Regexp Lessons",
+      "https://www.tbray.org/ongoing/When/202x/2026/01/01/Quamina-2026"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "go.sum Is Not a Lockfile",
       "https://words.filippo.io/gosum/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 20:24:25",
-      "https://lobste.rs/s/a4ywjn/nullbrook_archive"
-    ],
-    [
-      "Nullbrook Archive",
-      "https://nullbrook.org/disks"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "21 Lessons From 14 Years at Google",
       "https://addyosmani.com/blog/21-lessons/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 13:29:51",
-      "https://lobste.rs/s/n9tev4/who_owns_memory_part_2_who_calls_free"
-    ],
-    [
-      "Who Owns the Memory? Part 2: Who Calls Free?",
-      "https://lukefleed.xyz/posts/who-owns-the-memory-pt2/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 10:47:31",
-      "https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical"
-    ],
-    [
-      "Saying goodbye to the servers at our physical datacenter",
-      "https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/"
     ]
   ],
   [
