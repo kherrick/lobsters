@@ -2,7 +2,7 @@
 
 * [2026-01-06, 01:00:28](https://lobste.rs/s/lsubgl/story_ribbon_2008) - [The Story of the Ribbon (2008)](https://youtu.be/YLZgNHEEnSE)
 * [2026-01-05, 23:41:58](https://lobste.rs/s/uzh7cu/building_cpu_factorio_from_d_flip_flops) - [Building a CPU in Factorio - From D-Flip-Flops to an Operating System](https://www.youtube.com/watch?v=QcQYEAr0Yos)
-* [2026-01-05, 22:08:01](https://lobste.rs/s/df8vju/owning_domain_increase_digital_self) - [Owning a Domain Increase Digital Self-Reliance](https://chuck.is/self-reliant/)
+* [2026-01-05, 22:08:01](https://lobste.rs/s/df8vju/owning_domain_increases_digital_self) - [Owning a Domain Increases Digital Self-Reliance](https://chuck.is/self-reliant/)
 * [2026-01-05, 20:30:43](https://lobste.rs/s/exv2eq/go_sum_is_not_lockfile) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
 * [2026-01-05, 20:24:25](https://lobste.rs/s/a4ywjn/nullbrook_archive) - [Nullbrook Archive](https://nullbrook.org/disks)
 * [2026-01-05, 18:45:14](https://lobste.rs/s/6x0nut/change_is_root_all_evil_bugs) - [Change is the root of all (evil) bugs](https://fhur.me/posts/2026/change-is-the-root-of-all-evil-bugs)
