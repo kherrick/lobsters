@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-06, 13:01:06",
+      "https://lobste.rs/s/rvgvgj/best_line_length_is_88"
+    ],
+    [
+      "The Best Line Length is 88",
+      "https://blog.glyph.im/2025/08/the-best-line-length.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 12:42:59",
+      "https://lobste.rs/s/bau60s/microservices_fallacy_microliths_2021"
+    ],
+    [
+      "The microservices fallacy - Microliths (2021)",
+      "https://www.ufried.com/blog/microservices_fallacy_10_microliths/"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 12:09:38",
       "https://lobste.rs/s/cvk3lx/adding_insular_script_like_it_s_1626"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-01-05, 23:41:58",
-      "https://lobste.rs/s/uzh7cu/building_cpu_factorio_from_d_flip_flops"
-    ],
-    [
-      "Building a CPU in Factorio - From D-Flip-Flops to an Operating System",
-      "https://www.youtube.com/watch?v=QcQYEAr0Yos"
-    ]
-  ],
-  [
-    [
       "2026-01-05, 22:08:01",
       "https://lobste.rs/s/df8vju/owning_domain_increases_digital_self"
     ],
@@ -237,16 +247,6 @@
     [
       "Everything You Need to Know About Email Encryption in 2026",
       "https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-01-04, 08:11:07",
-      "https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026"
-    ],
-    [
-      "Can I finally start using Wayland in 2026?",
-      "https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/"
     ]
   ]
 ]
