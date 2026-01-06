@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-06, 03:54:19",
-      "https://lobste.rs/s/2kheyy/i_o_is_no_longer_bottleneck"
+      "2026-01-06, 04:28:12",
+      "https://lobste.rs/s/9c952c/minimal_keyboard_key_effect_with_css"
     ],
     [
-      "I/O is no longer the bottleneck?",
-      "https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html"
+      "A minimal keyboard key effect with CSS",
+      "https://pjg1.site/kbd-css.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-06, 03:13:41",
+      "https://lobste.rs/s/eb73xx/so_you_want_chunk_really_fast"
+    ],
+    [
+      "so, you want to chunk really fast?",
+      "https://minha.sh/posts/so,-you-want-to-chunk-really-fast"
     ]
   ],
   [
@@ -27,16 +37,6 @@
     [
       "Building a CPU in Factorio - From D-Flip-Flops to an Operating System",
       "https://www.youtube.com/watch?v=QcQYEAr0Yos"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 23:29:23",
-      "https://lobste.rs/s/jkxnxa/pre_tenuring_v8"
-    ],
-    [
-      "pre-tenuring in v8",
-      "https://wingolog.org/archives/2026/01/05/pre-tenuring-in-v8"
     ]
   ],
   [
