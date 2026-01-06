@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-06, 06:31:15",
-      "https://lobste.rs/s/uhqsjr/building_type_safe_compound_components"
+      "2026-01-06, 07:21:43",
+      "https://lobste.rs/s/zt9gsb/bgp_2025"
     ],
     [
-      "Building Type-Safe Compound Components",
-      "https://tkdodo.eu/blog/building-type-safe-compound-components"
+      "BGP in 2025",
+      "https://www.potaroo.net/ispcol/2026-01/bgp2025.html"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Building a CPU in Factorio - From D-Flip-Flops to an Operating System",
       "https://www.youtube.com/watch?v=QcQYEAr0Yos"
+    ]
+  ],
+  [
+    [
+      "2026-01-05, 22:52:07",
+      "https://lobste.rs/s/gp6byg/regexp_lessons"
+    ],
+    [
+      "Regexp Lessons",
+      "https://www.tbray.org/ongoing/When/202x/2026/01/01/Quamina-2026"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/cqaquz/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 11:15:17",
-      "https://lobste.rs/s/uvx98g/using_ebpf_load_balance_traffic_across"
-    ],
-    [
-      "Using eBPF to load-balance traffic across UDP sockets with Go",
-      "https://vincent.bernat.ch/en/blog/2026-reuseport-ebpf-go"
     ]
   ],
   [
