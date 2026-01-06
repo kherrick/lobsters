@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-06, 23:45:42](https://lobste.rs/s/xtfpdr/this_month_redox_december_2025) - [This Month in Redox - December 2025](https://www.redox-os.org/news/this-month-251231/)
 * [2026-01-06, 23:06:07](https://lobste.rs/s/bffnsm/where_are_all_low_level_jits) - [Where are all the low-level JITs?](https://lobste.rs/s/bffnsm/where_are_all_low_level_jits)
 * [2026-01-06, 20:39:36](https://lobste.rs/s/b0sfwb/high_performance_dbmss_with_io_uring_when) - [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
 * [2026-01-06, 19:26:47](https://lobste.rs/s/uaaaao/diffs_js_library_for_rendering_diffs) - [Diffs - JS library for rendering diffs](https://diffs.com)
@@ -15,7 +16,6 @@
 * [2026-01-06, 11:01:13](https://lobste.rs/s/eflriy/javascript_s_for_loops_are_actually_fast) - [JavaScript's for-of loops are actually fast](https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast)
 * [2026-01-06, 08:57:48](https://lobste.rs/s/eqcmik/no_microsoft_office_didn_t_just_get) - [No, Microsoft Office didn't just get renamed to Microsoft 365 Copilot](https://www.howtogeek.com/no-microsoft-office-didnt-just-get-renamed-to-microsoft-365-copilot/)
 * [2026-01-06, 07:59:56](https://lobste.rs/s/ep8rbp/i_switched_from_vscode_zed) - [I switched from VSCode to Zed](https://tenthousandmeters.com/blog/i-switched-from-vscode-to-zed/)
-* [2026-01-06, 07:21:43](https://lobste.rs/s/zt9gsb/bgp_2025) - [BGP in 2025](https://www.potaroo.net/ispcol/2026-01/bgp2025.html)
 * [2026-01-06, 04:28:12](https://lobste.rs/s/9c952c/minimal_keyboard_key_effect_with_css) - [A minimal keyboard key effect with CSS](https://pjg1.site/kbd-css.html)
 * [2026-01-06, 03:54:19](https://lobste.rs/s/2kheyy/i_o_is_no_longer_bottleneck_2022) - [I/O is no longer the bottleneck? (2022)](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
 * [2026-01-06, 03:13:41](https://lobste.rs/s/eb73xx/so_you_want_chunk_really_fast) - [so, you want to chunk really fast?](https://minha.sh/posts/so,-you-want-to-chunk-really-fast)
