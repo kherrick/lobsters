@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-06](index.md)
 
+* [2026-01-06, 12:09:38](https://lobste.rs/s/cvk3lx/adding_insular_script_like_it_s_1626) - [Adding insular script like it's 1626](https://djmurphy.net/blog/clo-gaelach/)
+* [2026-01-06, 12:06:02](https://lobste.rs/s/ntvlee/easy_horizontal_scrollbar_fixes_for_your) - [Easy (Horizontal Scrollbar) Fixes for Your Blog CSS](https://aartaka.me/easy-fixes.html)
 * [2026-01-06, 11:01:13](https://lobste.rs/s/eflriy/javascript_s_for_loops_are_actually_fast) - [JavaScript's for-of loops are actually fast](https://waspdev.com/articles/2026-01-01/javascript-for-of-loops-are-actually-fast)
 * [2026-01-06, 10:50:42](https://lobste.rs/s/eb41bh/aurora_sprint_2026_hack_on_embedded_nix) - [Aurora Sprint 2026 - Hack on Embedded Nix in Iceland](https://aurorasprint.com/)
 * [2026-01-06, 08:57:48](https://lobste.rs/s/eqcmik/no_microsoft_office_didn_t_just_get) - [No, Microsoft Office didn't just get renamed to Microsoft 365 Copilot](https://www.howtogeek.com/no-microsoft-office-didnt-just-get-renamed-to-microsoft-365-copilot/)
