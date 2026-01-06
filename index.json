@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-06, 17:00:30",
+      "https://lobste.rs/s/uqsbvk/zero_heap_allocation_http_server_using"
+    ],
+    [
+      "Zero heap allocation HTTP server using OxCaml",
+      "https://github.com/avsm/httpz"
+    ]
+  ],
+  [
+    [
       "2026-01-06, 15:10:00",
       "https://lobste.rs/s/5ymlmt/h_neurons_on_existence_impact_origin"
     ],
@@ -207,16 +217,6 @@
     [
       "Who Owns the Memory? Part 3: How Big Is your Type?",
       "https://lukefleed.xyz/posts/who-owns-the-memory-pt3/"
-    ]
-  ],
-  [
-    [
-      "2026-01-05, 14:36:12",
-      "https://lobste.rs/s/ylawx4/functors_applicatives_monads_scary"
-    ],
-    [
-      "Functors, Applicatives, and Monads: The Scary Words You Already Understand",
-      "https://cekrem.github.io/posts/functors-applicatives-monads-elm/"
     ]
   ],
   [
