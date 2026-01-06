@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-06, 01:00:28](https://lobste.rs/s/lsubgl/story_ribbon_2008) - [The Story of the Ribbon (2008)](https://youtu.be/YLZgNHEEnSE)
+* [2026-01-06, 03:54:19](https://lobste.rs/s/2kheyy/i_o_is_no_longer_bottleneck) - [I/O is no longer the bottleneck?](https://stoppels.ch/2022/11/27/io-is-no-longer-the-bottleneck.html)
+* [2026-01-06, 03:07:08](https://lobste.rs/s/a8x19t/why_markdown_emphasis_fails_cjk_deep_dive) - [Why Markdown emphasis fails in CJK: A deep dive into CommonMark's delimiter rules](https://hackers.pub/@yurume/019b912a-cc3b-7e45-9227-d08f0d1eafe8)
 * [2026-01-05, 23:41:58](https://lobste.rs/s/uzh7cu/building_cpu_factorio_from_d_flip_flops) - [Building a CPU in Factorio - From D-Flip-Flops to an Operating System](https://www.youtube.com/watch?v=QcQYEAr0Yos)
+* [2026-01-05, 23:29:23](https://lobste.rs/s/jkxnxa/pre_tenuring_v8) - [pre-tenuring in v8](https://wingolog.org/archives/2026/01/05/pre-tenuring-in-v8)
+* [2026-01-05, 22:52:07](https://lobste.rs/s/gp6byg/regexp_lessons) - [Regexp Lessons](https://www.tbray.org/ongoing/When/202x/2026/01/01/Quamina-2026)
 * [2026-01-05, 22:08:01](https://lobste.rs/s/df8vju/owning_domain_increases_digital_self) - [Owning a Domain Increases Digital Self-Reliance](https://chuck.is/self-reliant/)
 * [2026-01-05, 20:30:43](https://lobste.rs/s/exv2eq/go_sum_is_not_lockfile) - [go.sum Is Not a Lockfile](https://words.filippo.io/gosum/)
-* [2026-01-05, 20:24:25](https://lobste.rs/s/a4ywjn/nullbrook_archive) - [Nullbrook Archive](https://nullbrook.org/disks)
 * [2026-01-05, 18:45:14](https://lobste.rs/s/6x0nut/change_is_root_all_evil_bugs) - [Change is the root of all (evil) bugs](https://fhur.me/posts/2026/change-is-the-root-of-all-evil-bugs)
 * [2026-01-05, 18:10:50](https://lobste.rs/s/7d6b5i/go_1_26_interactive_tour) - [Go 1.26 interactive tour](https://antonz.org/go-1-26/)
 * [2026-01-05, 17:38:48](https://lobste.rs/s/0lzrhf/uncloud_self_hosted_cloud_seen_by) - [Uncloud, self hosted Cloud, seen by a developer for developers](https://blog.garambrogne.net/uncloud-en.html)
@@ -22,8 +24,6 @@
 * [2026-01-05, 00:31:11](https://lobste.rs/s/f8mhm9/everything_you_need_know_about_email) - [Everything You Need to Know About Email Encryption in 2026](https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/)
 * [2026-01-04, 22:10:07](https://lobste.rs/s/eaxaac/stop_forwarding_errors_start_designing) - [Stop Forwarding Errors, Start Designing Them](https://fast.github.io/blog/stop-forwarding-errors-start-designing-them/)
 * [2026-01-04, 21:18:20](https://lobste.rs/s/k4mejj/21_lessons_from_14_years_at_google) - [21 Lessons From 14 Years at Google](https://addyosmani.com/blog/21-lessons/)
-* [2026-01-04, 13:29:51](https://lobste.rs/s/n9tev4/who_owns_memory_part_2_who_calls_free) - [Who Owns the Memory? Part 2: Who Calls Free?](https://lukefleed.xyz/posts/who-owns-the-memory-pt2/)
-* [2026-01-04, 10:47:31](https://lobste.rs/s/gxiqwv/saying_goodbye_servers_at_our_physical) - [Saying goodbye to the servers at our physical datacenter](https://stackoverflow.blog/2025/12/24/the-great-unracking-saying-goodbye-to-the-servers-at-our-physical-datacenter/)
 * [2026-01-04, 08:11:07](https://lobste.rs/s/wewhgh/can_i_finally_start_using_wayland_2026) - [Can I finally start using Wayland in 2026?](https://michael.stapelberg.ch/posts/2026-01-04-wayland-sway-in-2026/)
 
 ## [Archives](archives/index.md)
