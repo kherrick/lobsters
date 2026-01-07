@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
+* [2026-01-07, 14:58:59](https://lobste.rs/s/wzlpbz/hermes_studio_demo_my_react_native) - [Hermes Studio demo (my React Native decompiler and disassembler)](https://www.youtube.com/watch?v=9wi8wMzmg-U)
 * [2026-01-07, 13:40:57](https://lobste.rs/s/vgbfpl/open_source_mapping_for_news_reuters) - [Open Source Mapping for News: Reuters](https://scottreinhardmaps.com/blogs/custom-mapping-projects/custom-reuters-open-source-mapping)
 * [2026-01-07, 13:23:02](https://lobste.rs/s/jcmtaa/a4_paper_stories) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 11:24:34](https://lobste.rs/s/0mdcpr/most_popular_go_dependency_is) - [The most popular Go dependency is…](https://blog.thibaut-rousseau.com/blog/the-most-popular-go-dependency-is/)
