@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 18:18:44](https://lobste.rs/s/iaakvo/watch_me_run_malware_from_npm) - [Watch me run malware from NPM](https://www.youtube.com/watch?v=GqnFNNcycxQ)
+* [2026-01-07, 18:09:38](https://lobste.rs/s/vdcsgu/policy_based_design_versus) - [Policy-Based Design versus Combinatorial Hell](https://becheler.github.io/policy-based-design/)
 * [2026-01-07, 16:41:27](https://lobste.rs/s/t1amkb/brain_data_clojure_2_brainfloj_premise) - [Brain Data in Clojure 2: BrainFloj in Premise and Practice - Lyons](https://www.youtube.com/watch?v=-FJCnrqqMWo)
 * [2026-01-07, 16:17:07](https://lobste.rs/s/23ghn3/judging_type_by_its_pointer_optimizing) - [Judging a Type by Its Pointer: Optimizing GPU Virtual Functions (2021)](https://engineering.purdue.edu/tgrogers/papers/zhang.asplos2021.pdf)
 * [2026-01-07, 16:07:11](https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for) - [voxtype: Voice-to-text with push-to-talk for Wayland compositors](https://github.com/peteonrails/voxtype)

@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-07, 16:41:27](https://lobste.rs/s/t1amkb/brain_data_clojure_2_brainfloj_premise) - [Brain Data in Clojure 2: BrainFloj in Premise and Practice - Lyons](https://www.youtube.com/watch?v=-FJCnrqqMWo)
+* [2026-01-07, 18:18:44](https://lobste.rs/s/iaakvo/watch_me_run_malware_from_npm) - [Watch me run malware from NPM](https://www.youtube.com/watch?v=GqnFNNcycxQ)
+* [2026-01-07, 18:09:38](https://lobste.rs/s/vdcsgu/policy_based_design_versus) - [Policy-Based Design versus Combinatorial Hell](https://becheler.github.io/policy-based-design/)
 * [2026-01-07, 16:07:11](https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for) - [voxtype: Voice-to-text with push-to-talk for Wayland compositors](https://github.com/peteonrails/voxtype)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
 * [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
@@ -24,7 +25,6 @@
 * [2026-01-06, 14:38:19](https://lobste.rs/s/gszn6p/there_were_bgp_anomalies_during) - [There Were BGP Anomalies During The Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-06, 13:01:06](https://lobste.rs/s/rvgvgj/best_line_length_is_88) - [The Best Line Length is 88](https://blog.glyph.im/2025/08/the-best-line-length.html)
 * [2026-01-06, 12:06:02](https://lobste.rs/s/ntvlee/easy_horizontal_scrollbar_fixes_for_your) - [Easy (Horizontal Scrollbar) Fixes for Your Blog CSS](https://aartaka.me/easy-fixes.html)
-* [2026-01-05, 13:28:01](https://lobste.rs/s/2gvk2r/it_s_hard_justify_tahoe_icons) - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons/)
 
 ## [Archives](archives/index.md)
 
