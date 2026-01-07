@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 08:52:26](https://lobste.rs/s/skyxh7/what_is_index_overhead_on_writes) - [What is index overhead on writes?](https://www.depesz.com/2026/01/06/what-is-index-overhead-on-writes/)
+* [2026-01-07, 08:34:12](https://lobste.rs/s/2vbnuj/postgresql_18_returning_enhancements) - [PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications](https://www.pgedge.com/blog/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications)
 * [2026-01-07, 06:23:33](https://lobste.rs/s/7bdvsi/xmpp_metadata) - [XMPP and metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
 * [2026-01-07, 04:46:32](https://lobste.rs/s/gvzpf5/freestyle_linked_lists_tricks) - [Freestyle linked lists tricks](https://nullprogram.com/blog/2025/12/31/)
 * [2026-01-07, 03:40:48](https://lobste.rs/s/ijykmf/why_write_unit_tests_2024) - [Why write unit tests? (2024)](https://henko.net/blog/why-write-unit-tests/)

@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-07, 06:23:33](https://lobste.rs/s/7bdvsi/xmpp_metadata) - [XMPP and metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
+* [2026-01-07, 08:52:26](https://lobste.rs/s/skyxh7/what_is_index_overhead_on_writes) - [What is index overhead on writes?](https://www.depesz.com/2026/01/06/what-is-index-overhead-on-writes/)
+* [2026-01-07, 08:34:12](https://lobste.rs/s/2vbnuj/postgresql_18_returning_enhancements) - [PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications](https://www.pgedge.com/blog/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications)
 * [2026-01-07, 04:46:32](https://lobste.rs/s/gvzpf5/freestyle_linked_lists_tricks) - [Freestyle linked lists tricks](https://nullprogram.com/blog/2025/12/31/)
 * [2026-01-07, 00:20:18](https://lobste.rs/s/1uubbb/why_trans_flag_emoji_is_5_codepoint) - [why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)
 * [2026-01-06, 23:45:42](https://lobste.rs/s/xtfpdr/this_month_redox_december_2025) - [This Month in Redox - December 2025](https://www.redox-os.org/news/this-month-251231/)
@@ -11,7 +12,6 @@
 * [2026-01-06, 17:33:50](https://lobste.rs/s/zly6jq/self_exchange_leaves_us_valid) - [Self-exchange leaves us in a valid but unspecified state](https://aatango.codeberg.page/cpp-self-exchange.html)
 * [2026-01-06, 17:00:30](https://lobste.rs/s/uqsbvk/zero_heap_allocation_http_server_using) - [Zero heap allocation HTTP server using OxCaml](https://github.com/avsm/httpz)
 * [2026-01-06, 15:23:17](https://lobste.rs/s/mg7vml/gemini_protocol_stats) - [Gemini Protocol Stats](https://www.obsessivefacts.com/gemini-proxy?uri=gemini%3A%2F%2Fgemini.bortzmeyer.org%2Fsoftware%2Flupa%2Fstats.gmi)
-* [2026-01-06, 15:10:00](https://lobste.rs/s/5ymlmt/h_neurons_on_existence_impact_origin) - [H-Neurons: On the Existence, Impact, and Origin of Hallucination-Associated Neurons in LLMs](https://arxiv.org/pdf/2512.01797)
 * [2026-01-06, 14:38:19](https://lobste.rs/s/gszn6p/there_were_bgp_anomalies_during) - [There Were BGP Anomalies During The Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-06, 13:01:06](https://lobste.rs/s/rvgvgj/best_line_length_is_88) - [The Best Line Length is 88](https://blog.glyph.im/2025/08/the-best-line-length.html)
 * [2026-01-06, 12:09:38](https://lobste.rs/s/cvk3lx/adding_insular_script_like_it_s_1626) - [Adding insular script like it's 1626](https://djmurphy.net/blog/clo-gaelach/)
