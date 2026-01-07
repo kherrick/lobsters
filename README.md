@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-07, 21:51:19](https://lobste.rs/s/kf1uns/importance_sandboxing) - [The Importance of Sandboxing](https://www.garden-lang.org/blog/sandbox.html)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
-* [2026-01-07, 21:26:10](https://lobste.rs/s/xjbmof/submarine_cable_boom_as_told_by_decade) - [The Submarine Cable Boom as Told by a Decade of TeleGeography Maps](https://blog.telegeography.com/submarine-cables-over-time-through-the-years)
 * [2026-01-07, 20:40:20](https://lobste.rs/s/9uesig/practical_collision_attack_against_long) - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result) - [Relax for the same result](https://sive.rs/relax)
 * [2026-01-07, 20:13:46](https://lobste.rs/s/cepyv8/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 1: Big-O scaling](https://pythonspeed.com/articles/big-o-tests/)
