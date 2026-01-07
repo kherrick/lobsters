@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
+* [2026-01-07, 21:26:10](https://lobste.rs/s/xjbmof/submarine_cable_boom_as_told_by_decade) - [The Submarine Cable Boom as Told by a Decade of TeleGeography Maps](https://blog.telegeography.com/submarine-cables-over-time-through-the-years)
 * [2026-01-07, 21:05:28](https://lobste.rs/s/otiz7i/software_acceleration) - [Software Acceleration and Desynchronization](https://ferd.ca/software-acceleration-and-desynchronization.html)
 * [2026-01-07, 20:40:20](https://lobste.rs/s/9uesig/practical_collision_attack_against_long) - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result) - [Relax for the same result](https://sive.rs/relax)
