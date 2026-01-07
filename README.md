@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-07, 20:40:20](https://lobste.rs/s/9uesig/practical_collision_attack_against_long) - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result) - [Relax for the same result](https://sive.rs/relax)
 * [2026-01-07, 20:13:46](https://lobste.rs/s/cepyv8/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 1: Big-O scaling](https://pythonspeed.com/articles/big-o-tests/)
 * [2026-01-07, 19:59:22](https://lobste.rs/s/ifnvlk/haskell_debugger_for_ghc_9_14) - [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499)
 * [2026-01-07, 19:16:00](https://lobste.rs/s/trwil3/myths_about_logitech_developer_id) - [Myths about Logitech Developer ID certificate expiration](https://lapcatsoftware.com/articles/2026/1/2.html)
 * [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
-* [2026-01-07, 16:17:07](https://lobste.rs/s/23ghn3/judging_type_by_its_pointer_optimizing) - [Judging a Type by Its Pointer: Optimizing GPU Virtual Functions (2021)](https://engineering.purdue.edu/tgrogers/papers/zhang.asplos2021.pdf)
 * [2026-01-07, 16:07:11](https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for) - [voxtype: Voice-to-text with push-to-talk for Wayland compositors](https://github.com/peteonrails/voxtype)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
 * [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
