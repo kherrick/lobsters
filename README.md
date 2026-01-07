@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-07, 16:17:07](https://lobste.rs/s/23ghn3/judging_type_by_its_pointer_optimizing) - [Judging a Type by Its Pointer: Optimizing GPU Virtual Functions (2021)](https://engineering.purdue.edu/tgrogers/papers/zhang.asplos2021.pdf)
+* [2026-01-07, 16:41:27](https://lobste.rs/s/t1amkb/brain_data_clojure_2_brainfloj_premise) - [Brain Data in Clojure 2: BrainFloj in Premise and Practice - Lyons](https://www.youtube.com/watch?v=-FJCnrqqMWo)
 * [2026-01-07, 16:07:11](https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for) - [voxtype: Voice-to-text with push-to-talk for Wayland compositors](https://github.com/peteonrails/voxtype)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
 * [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
