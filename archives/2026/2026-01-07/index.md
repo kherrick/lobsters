@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 18:43:16](https://lobste.rs/s/xuobel/attention_is_bayesian_inference) - [Attention Is Bayesian Inference](https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501)
+* [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
 * [2026-01-07, 18:18:44](https://lobste.rs/s/iaakvo/watch_me_run_malware_from_npm) - [Watch me run malware from NPM](https://www.youtube.com/watch?v=GqnFNNcycxQ)
 * [2026-01-07, 18:09:38](https://lobste.rs/s/vdcsgu/policy_based_design_versus) - [Policy-Based Design versus Combinatorial Hell](https://becheler.github.io/policy-based-design/)
 * [2026-01-07, 16:41:27](https://lobste.rs/s/t1amkb/brain_data_clojure_2_brainfloj_premise) - [Brain Data in Clojure 2: BrainFloj in Premise and Practice - Lyons](https://www.youtube.com/watch?v=-FJCnrqqMWo)

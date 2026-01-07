@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-07, 18:43:16](https://lobste.rs/s/xuobel/attention_is_bayesian_inference) - [Attention Is Bayesian Inference](https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501)
+* [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
 * [2026-01-07, 18:18:44](https://lobste.rs/s/iaakvo/watch_me_run_malware_from_npm) - [Watch me run malware from NPM](https://www.youtube.com/watch?v=GqnFNNcycxQ)
-* [2026-01-07, 18:09:38](https://lobste.rs/s/vdcsgu/policy_based_design_versus) - [Policy-Based Design versus Combinatorial Hell](https://becheler.github.io/policy-based-design/)
 * [2026-01-07, 16:07:11](https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for) - [voxtype: Voice-to-text with push-to-talk for Wayland compositors](https://github.com/peteonrails/voxtype)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
 * [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
@@ -20,7 +21,6 @@
 * [2026-01-06, 20:39:36](https://lobste.rs/s/b0sfwb/high_performance_dbmss_with_io_uring_when) - [High-Performance DBMSs with io_uring: When and How to use it](https://arxiv.org/abs/2512.04859)
 * [2026-01-06, 19:26:47](https://lobste.rs/s/uaaaao/diffs_js_library_for_rendering_diffs) - [Diffs - JS library for rendering diffs](https://diffs.com)
 * [2026-01-06, 19:05:56](https://lobste.rs/s/xa27z2/postgresql_scripting_tips) - [PostgreSQL Scripting Tips](https://www.pgrs.net/2026/01/06/postgresql-scripting-tips/)
-* [2026-01-06, 17:33:50](https://lobste.rs/s/zly6jq/self_exchange_leaves_us_valid) - [Self-exchange leaves us in a valid but unspecified state](https://aatango.codeberg.page/cpp-self-exchange.html)
 * [2026-01-06, 17:00:30](https://lobste.rs/s/uqsbvk/zero_heap_allocation_http_server_using) - [Zero heap allocation HTTP server using OxCaml](https://github.com/avsm/httpz)
 * [2026-01-06, 14:38:19](https://lobste.rs/s/gszn6p/there_were_bgp_anomalies_during) - [There Were BGP Anomalies During The Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
 * [2026-01-06, 13:01:06](https://lobste.rs/s/rvgvgj/best_line_length_is_88) - [The Best Line Length is 88](https://blog.glyph.im/2025/08/the-best-line-length.html)
