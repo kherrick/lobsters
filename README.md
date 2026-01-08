@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-08, 10:05:36](https://lobste.rs/s/36mjlp/introduction_simd_programming_pure_rust) - [Introduction to SIMD programming in pure Rust](https://kerkour.com/introduction-rust-simd)
 * [2026-01-08, 08:33:09](https://lobste.rs/s/igdatc/manchester_garbage_collector_purple) - [The Manchester Garbage Collector and purple-garden's runtime](https://xnacly.me/posts/2026/manchester-garbage-collector/)
 * [2026-01-08, 08:00:22](https://lobste.rs/s/ge1lq7/freebsd_home_nas_part_8_backing_up_nfs) - [FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic](https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/)
 * [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
@@ -16,7 +17,6 @@
 * [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
 * [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
-* [2026-01-07, 14:58:59](https://lobste.rs/s/wzlpbz/hermes_studio_demo_my_react_native) - [Hermes Studio demo (my React Native decompiler and disassembler)](https://www.youtube.com/watch?v=9wi8wMzmg-U)
 * [2026-01-07, 13:40:57](https://lobste.rs/s/vgbfpl/open_source_mapping_for_news_reuters) - [Open Source Mapping for News: Reuters](https://scottreinhardmaps.com/blogs/custom-mapping-projects/custom-reuters-open-source-mapping)
 * [2026-01-07, 13:23:02](https://lobste.rs/s/jcmtaa/a4_paper_stories) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 11:24:34](https://lobste.rs/s/0mdcpr/most_popular_go_dependency_is) - [The most popular Go dependency is…](https://blog.thibaut-rousseau.com/blog/the-most-popular-go-dependency-is/)

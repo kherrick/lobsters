@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 10:05:36](https://lobste.rs/s/36mjlp/introduction_simd_programming_pure_rust) - [Introduction to SIMD programming in pure Rust](https://kerkour.com/introduction-rust-simd)
 * [2026-01-08, 08:33:09](https://lobste.rs/s/igdatc/manchester_garbage_collector_purple) - [The Manchester Garbage Collector and purple-garden's runtime](https://xnacly.me/posts/2026/manchester-garbage-collector/)
 * [2026-01-08, 08:00:22](https://lobste.rs/s/ge1lq7/freebsd_home_nas_part_8_backing_up_nfs) - [FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic](https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/)
 * [2026-01-08, 07:19:06](https://lobste.rs/s/llntjl/run_your_project_dev_container_zed) - [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers)
