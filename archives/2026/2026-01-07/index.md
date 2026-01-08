@@ -12,6 +12,7 @@
 * [2026-01-07, 21:26:10](https://lobste.rs/s/xjbmof/submarine_cable_boom_as_told_by_decade) - [The Submarine Cable Boom as Told by a Decade of TeleGeography Maps](https://blog.telegeography.com/submarine-cables-over-time-through-the-years)
 * [2026-01-07, 21:05:28](https://lobste.rs/s/otiz7i/software_acceleration) - [Software Acceleration and Desynchronization](https://ferd.ca/software-acceleration-and-desynchronization.html)
 * [2026-01-07, 20:40:20](https://lobste.rs/s/9uesig/practical_collision_attack_against_long) - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
+* [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result_2015) - [Relax for the same result (2015)](https://sive.rs/relax)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result) - [Relax for the same result](https://sive.rs/relax)
 * [2026-01-07, 20:13:46](https://lobste.rs/s/cepyv8/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 1: Big-O scaling](https://pythonspeed.com/articles/big-o-tests/)
 * [2026-01-07, 19:59:22](https://lobste.rs/s/ifnvlk/haskell_debugger_for_ghc_9_14) - [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499)
