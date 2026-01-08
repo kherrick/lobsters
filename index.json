@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-01-08, 10:05:36",
+      "https://lobste.rs/s/36mjlp/introduction_simd_programming_pure_rust"
+    ],
+    [
+      "Introduction to SIMD programming in pure Rust",
+      "https://kerkour.com/introduction-rust-simd"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 08:33:09",
       "https://lobste.rs/s/igdatc/manchester_garbage_collector_purple"
     ],
@@ -167,16 +177,6 @@
     [
       "The Haskell Debugger for GHC 9.14",
       "https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 18:24:22",
-      "https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead"
-    ],
-    [
-      "Software craftsmanship is dead",
-      "https://www.pcloadletter.dev/blog/craftsmanship-is-dead/"
     ]
   ],
   [
