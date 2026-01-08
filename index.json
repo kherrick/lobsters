@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-08, 02:38:13",
-      "https://lobste.rs/s/jqprba/web_dependencies_are_broken_can_we_fix"
+      "2026-01-08, 04:05:27",
+      "https://lobste.rs/s/zqly8y/fun_with_algebraic_effects_from_toy"
     ],
     [
-      "Web dependencies are broken. Can we fix them? • Lea Verou",
-      "https://lea.verou.me/blog/2026/web-deps/"
+      "Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations",
+      "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Myths about Logitech Developer ID certificate expiration",
       "https://lapcatsoftware.com/articles/2026/1/2.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 18:43:16",
+      "https://lobste.rs/s/xuobel/attention_is_bayesian_inference"
+    ],
+    [
+      "Attention Is Bayesian Inference",
+      "https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "There Were BGP Anomalies During The Venezuela Blackout",
       "https://loworbitsecurity.com/radar/radar16/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 13:01:06",
-      "https://lobste.rs/s/rvgvgj/best_line_length"
-    ],
-    [
-      "The Best Line Length",
-      "https://blog.glyph.im/2025/08/the-best-line-length.html"
     ]
   ]
 ]
