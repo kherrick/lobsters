@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-07, 23:31:55",
+      "https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using"
+    ],
+    [
+      "embassy: Modern embedded framework, using Rust and async",
+      "https://github.com/embassy-rs/embassy"
+    ]
+  ],
+  [
+    [
+      "2026-01-07, 22:21:20",
+      "https://lobste.rs/s/xmpgfk/numpy_quaddtype_cross_platform_quad_128"
+    ],
+    [
+      "NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy",
+      "https://numpy.org/numpy-user-dtypes/quaddtype/"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 22:11:31",
       "https://lobste.rs/s/6pia5e/some_gleam_projects"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2026-01-07, 21:26:10",
-      "https://lobste.rs/s/xjbmof/submarine_cable_boom_as_told_by_decade"
-    ],
-    [
-      "The Submarine Cable Boom as Told by a Decade of TeleGeography Maps",
-      "https://blog.telegeography.com/submarine-cables-over-time-through-the-years"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 20:40:20",
       "https://lobste.rs/s/9uesig/practical_collision_attack_against_long"
     ],
@@ -47,16 +57,6 @@
     [
       "Relax for the same result",
       "https://sive.rs/relax"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 20:13:46",
-      "https://lobste.rs/s/cepyv8/unit_testing_your_code_s_performance_part"
-    ],
-    [
-      "Unit testing your code’s performance, part 1: Big-O scaling",
-      "https://pythonspeed.com/articles/big-o-tests/"
     ]
   ],
   [
