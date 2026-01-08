@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
+* [2026-01-08, 14:54:42](https://lobste.rs/s/bufcbw/how_i_program_awk) - [How I program in AWK](https://maximullaris.com/program-in-awk.html)
+* [2026-01-08, 14:39:47](https://lobste.rs/s/g3boya/dialogue_between_developer_kid) - [Dialogue Between a Developer and a Kid](https://riggraz.dev/dialogue-developer.html)
 * [2026-01-08, 14:11:36](https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought) - [Cursorless: Voice coding at the speed of thought](https://www.cursorless.org/)
 * [2026-01-08, 13:44:45](https://lobste.rs/s/vfn7pw/some_things_i_ve_learned_about_software) - [Some Things I've Learned About Software](https://www.youtube.com/watch?v=RJgDW2AERr8)
 * [2026-01-08, 13:10:03](https://lobste.rs/s/elj9pq/what_happened_webassembly) - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)

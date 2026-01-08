@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-08, 14:54:42](https://lobste.rs/s/bufcbw/how_i_program_awk) - [How I program in AWK](https://maximullaris.com/program-in-awk.html)
+* [2026-01-08, 14:39:47](https://lobste.rs/s/g3boya/dialogue_between_developer_kid) - [Dialogue Between a Developer and a Kid](https://riggraz.dev/dialogue-developer.html)
 * [2026-01-08, 14:11:36](https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought) - [Cursorless: Voice coding at the speed of thought](https://www.cursorless.org/)
 * [2026-01-08, 13:44:45](https://lobste.rs/s/vfn7pw/some_things_i_ve_learned_about_software) - [Some Things I've Learned About Software](https://www.youtube.com/watch?v=RJgDW2AERr8)
 * [2026-01-08, 13:10:03](https://lobste.rs/s/elj9pq/what_happened_webassembly) - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
@@ -15,7 +17,6 @@
 * [2026-01-07, 20:40:20](https://lobste.rs/s/9uesig/practical_collision_attack_against_long) - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result_2015) - [Relax for the same result (2015)](https://sive.rs/relax)
 * [2026-01-07, 19:59:22](https://lobste.rs/s/ifnvlk/haskell_debugger_for_ghc_9_14) - [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499)
-* [2026-01-07, 19:16:00](https://lobste.rs/s/trwil3/myths_about_logitech_developer_id) - [Myths about Logitech Developer ID certificate expiration](https://lapcatsoftware.com/articles/2026/1/2.html)
 * [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
 * [2026-01-07, 15:00:05](https://lobste.rs/s/zpwlya/effortless_animations_with_css_view) - [Effortless animations with CSS view transitions](https://giacomocavalieri.me/writing/effortless-animations-with-css-view-transitions)
@@ -24,7 +25,6 @@
 * [2026-01-07, 10:29:46](https://lobste.rs/s/jx4zeh/gothub_ssh_signup) - [GoTHub SSH Signup](https://gothub.org/signup.html)
 * [2026-01-07, 08:34:12](https://lobste.rs/s/2vbnuj/postgresql_18_returning_enhancements) - [PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications](https://www.pgedge.com/blog/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications)
 * [2026-01-07, 00:20:18](https://lobste.rs/s/1uubbb/why_trans_flag_emoji_is_5_codepoint) - [why the trans flag emoji is the 5-codepoint sequence it is](https://hecate.pink/blog/2026/trans-flag-emoji/)
-* [2026-01-06, 23:06:07](https://lobste.rs/s/bffnsm/where_are_all_low_level_jits) - [Where are all the low-level JITs?](https://lobste.rs/s/bffnsm/where_are_all_low_level_jits)
 
 ## [Archives](archives/index.md)
 
