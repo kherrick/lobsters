@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-08, 02:38:13",
+      "https://lobste.rs/s/jqprba/web_dependencies_are_broken_can_we_fix"
+    ],
+    [
+      "Web dependencies are broken. Can we fix them? • Lea Verou",
+      "https://lea.verou.me/blog/2026/web-deps/"
+    ]
+  ],
+  [
+    [
       "2026-01-07, 23:31:55",
       "https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using"
     ],
     [
       "embassy: Modern embedded framework, using Rust and async",
       "https://github.com/embassy-rs/embassy"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 22:21:20",
-      "https://lobste.rs/s/xmpgfk/numpy_quaddtype_cross_platform_quad_128"
-    ],
-    [
-      "NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy",
-      "https://numpy.org/numpy-user-dtypes/quaddtype/"
     ]
   ],
   [
