@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-08, 10:05:36",
-      "https://lobste.rs/s/36mjlp/introduction_simd_programming_pure_rust"
+      "2026-01-08, 13:44:45",
+      "https://lobste.rs/s/vfn7pw/some_things_i_ve_learned_about_software"
     ],
     [
-      "Introduction to SIMD programming in pure Rust",
-      "https://kerkour.com/introduction-rust-simd"
+      "Some Things I've Learned About Software",
+      "https://www.youtube.com/watch?v=RJgDW2AERr8"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 13:10:03",
+      "https://lobste.rs/s/elj9pq/what_happened_webassembly"
+    ],
+    [
+      "What Happened To WebAssembly",
+      "https://emnudge.dev/blog/what-happened-to-webassembly/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications",
       "https://www.pgedge.com/blog/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 06:23:33",
-      "https://lobste.rs/s/7bdvsi/xmpp_metadata"
-    ],
-    [
-      "XMPP and metadata",
-      "https://blog.mathieui.net/xmpp-and-metadata.html"
     ]
   ],
   [
