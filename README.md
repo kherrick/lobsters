@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-08, 08:33:09](https://lobste.rs/s/igdatc/manchester_garbage_collector_purple) - [The Manchester Garbage Collector and purple-garden's runtime](https://xnacly.me/posts/2026/manchester-garbage-collector/)
 * [2026-01-08, 08:00:22](https://lobste.rs/s/ge1lq7/freebsd_home_nas_part_8_backing_up_nfs) - [FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic](https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/)
 * [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
 * [2026-01-08, 05:38:11](https://lobste.rs/s/zjbdx9/per_query_energy_consumption_llms) - [Per-query energy consumption of LLMs](https://muxup.com/2026q1/per-query-energy-consumption-of-llms)
@@ -19,7 +20,6 @@
 * [2026-01-07, 13:40:57](https://lobste.rs/s/vgbfpl/open_source_mapping_for_news_reuters) - [Open Source Mapping for News: Reuters](https://scottreinhardmaps.com/blogs/custom-mapping-projects/custom-reuters-open-source-mapping)
 * [2026-01-07, 13:23:02](https://lobste.rs/s/jcmtaa/a4_paper_stories) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
 * [2026-01-07, 11:24:34](https://lobste.rs/s/0mdcpr/most_popular_go_dependency_is) - [The most popular Go dependency is…](https://blog.thibaut-rousseau.com/blog/the-most-popular-go-dependency-is/)
-* [2026-01-07, 11:05:02](https://lobste.rs/s/43g9u2/c_from_scratch_learn_build_safety) - [c-from-scratch: Learn to build safety-critical systems in C](https://github.com/williamofai/c-from-scratch)
 * [2026-01-07, 10:29:46](https://lobste.rs/s/jx4zeh/gothub_ssh_signup) - [GoTHub SSH Signup](https://gothub.org/signup.html)
 * [2026-01-07, 08:34:12](https://lobste.rs/s/2vbnuj/postgresql_18_returning_enhancements) - [PostgreSQL 18 RETURNING Enhancements: A Game Changer for Modern Applications](https://www.pgedge.com/blog/postgresql-18-returning-enhancements-a-game-changer-for-modern-applications)
 * [2026-01-07, 06:23:33](https://lobste.rs/s/7bdvsi/xmpp_metadata) - [XMPP and metadata](https://blog.mathieui.net/xmpp-and-metadata.html)
