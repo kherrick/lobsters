@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-08](index.md)
+
+* [2026-01-08, 02:38:13](https://lobste.rs/s/jqprba/web_dependencies_are_broken_can_we_fix) - [Web dependencies are broken. Can we fix them? • Lea Verou](https://lea.verou.me/blog/2026/web-deps/)
