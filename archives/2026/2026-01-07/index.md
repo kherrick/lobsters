@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-07](index.md)
 
+* [2026-01-07, 23:31:55](https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using) - [embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+* [2026-01-07, 22:21:20](https://lobste.rs/s/xmpgfk/numpy_quaddtype_cross_platform_quad_128) - [NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy](https://numpy.org/numpy-user-dtypes/quaddtype/)
 * [2026-01-07, 22:11:31](https://lobste.rs/s/6pia5e/some_gleam_projects) - [Some Gleam Projects](https://dusty.phillips.codes/2026/01/05/some-gleam-projects/)
 * [2026-01-07, 21:51:19](https://lobste.rs/s/kf1uns/importance_sandboxing) - [The Importance of Sandboxing](https://www.garden-lang.org/blog/sandbox.html)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)

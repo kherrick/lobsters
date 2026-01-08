@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-07, 23:31:55](https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using) - [embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
+* [2026-01-07, 22:21:20](https://lobste.rs/s/xmpgfk/numpy_quaddtype_cross_platform_quad_128) - [NumPy-QuadDType: A cross-platform Quad (128-bit) float Data-Type for NumPy](https://numpy.org/numpy-user-dtypes/quaddtype/)
 * [2026-01-07, 22:11:31](https://lobste.rs/s/6pia5e/some_gleam_projects) - [Some Gleam Projects](https://dusty.phillips.codes/2026/01/05/some-gleam-projects/)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
-* [2026-01-07, 21:26:10](https://lobste.rs/s/xjbmof/submarine_cable_boom_as_told_by_decade) - [The Submarine Cable Boom as Told by a Decade of TeleGeography Maps](https://blog.telegeography.com/submarine-cables-over-time-through-the-years)
 * [2026-01-07, 20:40:20](https://lobste.rs/s/9uesig/practical_collision_attack_against_long) - [Practical Collision Attack Against Long Key IDs in PGP](https://soatok.blog/2026/01/07/practical-collision-attack-against-long-key-ids-in-pgp/)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result) - [Relax for the same result](https://sive.rs/relax)
-* [2026-01-07, 20:13:46](https://lobste.rs/s/cepyv8/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 1: Big-O scaling](https://pythonspeed.com/articles/big-o-tests/)
 * [2026-01-07, 19:59:22](https://lobste.rs/s/ifnvlk/haskell_debugger_for_ghc_9_14) - [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499)
 * [2026-01-07, 19:16:00](https://lobste.rs/s/trwil3/myths_about_logitech_developer_id) - [Myths about Logitech Developer ID certificate expiration](https://lapcatsoftware.com/articles/2026/1/2.html)
 * [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
