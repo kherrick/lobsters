@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-08, 06:41:44",
+      "https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75"
+    ],
+    [
+      "Tailwind Labs loses 80% of revenue and 75% of engineering due to AI",
+      "https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 04:10:34",
       "https://lobste.rs/s/rnxxln/what_would_make_ocaml_serverless_ready"
     ],
@@ -117,16 +127,6 @@
     [
       "Software craftsmanship is dead",
       "https://www.pcloadletter.dev/blog/craftsmanship-is-dead/"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 16:07:11",
-      "https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for"
-    ],
-    [
-      "voxtype: Voice-to-text with push-to-talk for Wayland compositors",
-      "https://github.com/peteonrails/voxtype"
     ]
   ],
   [
