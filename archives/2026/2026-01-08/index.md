@@ -6,6 +6,7 @@
 
 * [2026-01-08, 15:53:35](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years) - [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
 * [2026-01-08, 14:54:42](https://lobste.rs/s/bufcbw/how_i_program_awk) - [How I program in AWK](https://maximullaris.com/program-in-awk.html)
+* [2026-01-08, 14:44:21](https://lobste.rs/s/swcy9e/improving_flatpak_graphics_drivers) - [Improving the Flatpak Graphics Drivers Situation](https://blog.sebastianwick.net/posts/flatpak-graphics-drivers/)
 * [2026-01-08, 14:39:47](https://lobste.rs/s/g3boya/dialogue_between_developer_kid) - [Dialogue Between a Developer and a Kid](https://riggraz.dev/dialogue-developer.html)
 * [2026-01-08, 14:11:36](https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought) - [Cursorless: Voice coding at the speed of thought](https://www.cursorless.org/)
 * [2026-01-08, 13:44:45](https://lobste.rs/s/vfn7pw/some_things_i_ve_learned_about_software) - [Some Things I've Learned About Software](https://www.youtube.com/watch?v=RJgDW2AERr8)

@@ -2,12 +2,12 @@
 
 * [2026-01-08, 15:53:35](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years) - [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
 * [2026-01-08, 14:54:42](https://lobste.rs/s/bufcbw/how_i_program_awk) - [How I program in AWK](https://maximullaris.com/program-in-awk.html)
+* [2026-01-08, 14:44:21](https://lobste.rs/s/swcy9e/improving_flatpak_graphics_drivers) - [Improving the Flatpak Graphics Drivers Situation](https://blog.sebastianwick.net/posts/flatpak-graphics-drivers/)
 * [2026-01-08, 14:39:47](https://lobste.rs/s/g3boya/dialogue_between_developer_kid) - [Dialogue Between a Developer and a Kid](https://riggraz.dev/dialogue-developer.html)
 * [2026-01-08, 14:11:36](https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought) - [Cursorless: Voice coding at the speed of thought](https://www.cursorless.org/)
 * [2026-01-08, 13:44:45](https://lobste.rs/s/vfn7pw/some_things_i_ve_learned_about_software) - [Some Things I've Learned About Software](https://www.youtube.com/watch?v=RJgDW2AERr8)
 * [2026-01-08, 13:10:03](https://lobste.rs/s/elj9pq/what_happened_webassembly) - [What Happened To WebAssembly](https://emnudge.dev/blog/what-happened-to-webassembly/)
 * [2026-01-08, 10:05:36](https://lobste.rs/s/36mjlp/introduction_simd_programming_pure_rust) - [Introduction to SIMD programming in pure Rust](https://kerkour.com/introduction-rust-simd)
-* [2026-01-08, 09:24:25](https://lobste.rs/s/c6ot2d/lessons_from_hash_table_merging) - [Lessons from Hash Table Merging](https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338)
 * [2026-01-08, 08:33:09](https://lobste.rs/s/igdatc/manchester_garbage_collector_purple) - [The Manchester Garbage Collector and purple-garden's runtime](https://xnacly.me/posts/2026/manchester-garbage-collector/)
 * [2026-01-08, 08:00:22](https://lobste.rs/s/ge1lq7/freebsd_home_nas_part_8_backing_up_nfs) - [FreeBSD Home NAS, part 8: Backing up NFS and Samba data with restic](https://rtfm.co.ua/en/freebsd-home-nas-part-8-nfs-and-samba-data-backups-using-restic/)
 * [2026-01-08, 07:19:06](https://lobste.rs/s/llntjl/run_your_project_dev_container_zed) - [Run Your Project in a Dev Container, in Zed](https://zed.dev/blog/dev-containers)
