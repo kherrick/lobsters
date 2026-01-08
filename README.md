@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-08, 02:38:13](https://lobste.rs/s/jqprba/web_dependencies_are_broken_can_we_fix) - [Web dependencies are broken. Can we fix them? • Lea Verou](https://lea.verou.me/blog/2026/web-deps/)
+* [2026-01-08, 04:05:27](https://lobste.rs/s/zqly8y/fun_with_algebraic_effects_from_toy) - [Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations](https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/)
 * [2026-01-07, 23:31:55](https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using) - [embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-07, 22:11:31](https://lobste.rs/s/6pia5e/some_gleam_projects) - [Some Gleam Projects](https://dusty.phillips.codes/2026/01/05/some-gleam-projects/)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
@@ -8,6 +8,7 @@
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result) - [Relax for the same result](https://sive.rs/relax)
 * [2026-01-07, 19:59:22](https://lobste.rs/s/ifnvlk/haskell_debugger_for_ghc_9_14) - [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499)
 * [2026-01-07, 19:16:00](https://lobste.rs/s/trwil3/myths_about_logitech_developer_id) - [Myths about Logitech Developer ID certificate expiration](https://lapcatsoftware.com/articles/2026/1/2.html)
+* [2026-01-07, 18:43:16](https://lobste.rs/s/xuobel/attention_is_bayesian_inference) - [Attention Is Bayesian Inference](https://medium.com/@vishalmisra/attention-is-bayesian-inference-578c25db4501)
 * [2026-01-07, 18:24:22](https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead) - [Software craftsmanship is dead](https://www.pcloadletter.dev/blog/craftsmanship-is-dead/)
 * [2026-01-07, 16:07:11](https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for) - [voxtype: Voice-to-text with push-to-talk for Wayland compositors](https://github.com/peteonrails/voxtype)
 * [2026-01-07, 15:53:21](https://lobste.rs/s/krxqsa/nes_top_gun_landing_hotfix) - [NES Top Gun: landing hotfix](https://relaxing.run/blag/posts/top-gun-sim)
@@ -24,7 +25,6 @@
 * [2026-01-06, 23:06:07](https://lobste.rs/s/bffnsm/where_are_all_low_level_jits) - [Where are all the low-level JITs?](https://lobste.rs/s/bffnsm/where_are_all_low_level_jits)
 * [2026-01-06, 17:00:30](https://lobste.rs/s/uqsbvk/zero_heap_allocation_http_server_using) - [Zero heap allocation HTTP server using OxCaml](https://github.com/avsm/httpz)
 * [2026-01-06, 14:38:19](https://lobste.rs/s/gszn6p/there_were_bgp_anomalies_during) - [There Were BGP Anomalies During The Venezuela Blackout](https://loworbitsecurity.com/radar/radar16/)
-* [2026-01-06, 13:01:06](https://lobste.rs/s/rvgvgj/best_line_length) - [The Best Line Length](https://blog.glyph.im/2025/08/the-best-line-length.html)
 
 ## [Archives](archives/index.md)
 
