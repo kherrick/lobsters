@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-08, 14:54:42",
+      "https://lobste.rs/s/bufcbw/how_i_program_awk"
+    ],
+    [
+      "How I program in AWK",
+      "https://maximullaris.com/program-in-awk.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-08, 14:39:47",
+      "https://lobste.rs/s/g3boya/dialogue_between_developer_kid"
+    ],
+    [
+      "Dialogue Between a Developer and a Kid",
+      "https://riggraz.dev/dialogue-developer.html"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 14:11:36",
       "https://lobste.rs/s/g9qqxm/cursorless_voice_coding_at_speed_thought"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-01-07, 19:16:00",
-      "https://lobste.rs/s/trwil3/myths_about_logitech_developer_id"
-    ],
-    [
-      "Myths about Logitech Developer ID certificate expiration",
-      "https://lapcatsoftware.com/articles/2026/1/2.html"
-    ]
-  ],
-  [
-    [
       "2026-01-07, 18:24:22",
       "https://lobste.rs/s/jbsyhe/software_craftsmanship_is_dead"
     ],
@@ -237,16 +247,6 @@
     [
       "why the trans flag emoji is the 5-codepoint sequence it is",
       "https://hecate.pink/blog/2026/trans-flag-emoji/"
-    ]
-  ],
-  [
-    [
-      "2026-01-06, 23:06:07",
-      "https://lobste.rs/s/bffnsm/where_are_all_low_level_jits"
-    ],
-    [
-      "Where are all the low-level JITs?",
-      "https://lobste.rs/s/bffnsm/where_are_all_low_level_jits"
     ]
   ]
 ]
