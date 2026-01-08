@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-08, 05:38:11",
+      "https://lobste.rs/s/zjbdx9/per_query_energy_consumption_llms"
+    ],
+    [
+      "Per-query energy consumption of LLMs",
+      "https://muxup.com/2026q1/per-query-energy-consumption-of-llms"
+    ]
+  ],
+  [
+    [
       "2026-01-08, 04:10:34",
       "https://lobste.rs/s/rnxxln/what_would_make_ocaml_serverless_ready"
     ],
@@ -117,16 +127,6 @@
     [
       "Software craftsmanship is dead",
       "https://www.pcloadletter.dev/blog/craftsmanship-is-dead/"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 16:07:11",
-      "https://lobste.rs/s/mekflf/voxtype_voice_text_with_push_talk_for"
-    ],
-    [
-      "voxtype: Voice-to-text with push-to-talk for Wayland compositors",
-      "https://github.com/peteonrails/voxtype"
     ]
   ],
   [
