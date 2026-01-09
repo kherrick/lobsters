@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-09, 05:08:49",
+      "https://lobste.rs/s/dhjdmc/template_parameter_deduction"
+    ],
+    [
+      "Template Parameter Deduction: Eliminating Hidden Copies in Generic Code",
+      "https://0xghost.dev/blog/template-parameter-deduction/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 02:13:09",
       "https://lobste.rs/s/fiowgf/i_m_making_game_engine_based_on_dynamic"
     ],
@@ -207,16 +217,6 @@
     [
       "What would make OCaml serverless ready?",
       "https://www.chrisarmstrong.dev/posts/what-would-make-ocaml-serverless-ready"
-    ]
-  ],
-  [
-    [
-      "2026-01-07, 23:31:55",
-      "https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using"
-    ],
-    [
-      "embassy: Modern embedded framework, using Rust and async",
-      "https://github.com/embassy-rs/embassy"
     ]
   ],
   [
