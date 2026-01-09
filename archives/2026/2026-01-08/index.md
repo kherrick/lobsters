@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-08](index.md)
 
 * [2026-01-08, 22:46:18](https://lobste.rs/s/qpltv2/html_parsers_portland) - [HTML parsers in Portland](https://felix.dognebula.com/art/html-parsers-in-portland.html)
+* [2026-01-08, 22:37:51](https://lobste.rs/s/lvny3j/year_typing_my_numpy_fellowship) - [A Year of Typing: My NumPy Fellowship Retrospective](https://blog.scientific-python.org/numpy/fellowship-program-2025-retrospective/)
 * [2026-01-08, 22:22:06](https://lobste.rs/s/a2clkv/data_model_for_git) - [A data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/)
 * [2026-01-08, 22:19:06](https://lobste.rs/s/bjfsrd/why_semver_fails_when_you_patch_old) - [Why SemVer fails when you patch old versions and what to do instead](https://beza1e1.tuxen.de/patching_old_versions.html)
 * [2026-01-08, 20:41:30](https://lobste.rs/s/fou2tb/jujutsu_v0_37_0_released) - [jujutsu v0.37.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.37.0)
