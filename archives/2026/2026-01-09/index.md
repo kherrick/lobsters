@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&&&&&&&&&&&&&&str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
+* [2026-01-09, 14:43:39](https://lobste.rs/s/1eqclp/slidge_im_gateways_from_xmpp_other) - [slidge.im - Gateways from XMPP to Other Networks](https://slidge.im/)
 * [2026-01-09, 14:21:33](https://lobste.rs/s/yvgsct/automatic_tls_certificates_for_common) - [Automatic TLS Certificates for Common Lisp with pure-tls/acme](https://atgreen.github.io/repl-yell/posts/pure-tls-acme/)
 * [2026-01-09, 13:50:24](https://lobste.rs/s/a9tnnx/gbc_boot_animation_88x31_web_button) - [GBC Boot Animation 88×31 Web Button](https://zakhary.dev/blog/gbc-web-button)
 * [2026-01-09, 13:32:39](https://lobste.rs/s/3o5wil/celeste_towerfall_physics) - [Celeste & TowerFall Physics](https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html)
