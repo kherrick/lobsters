@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-09, 19:03:48",
-      "https://lobste.rs/s/kdrelj/adequate_left_associated_binary_numeral"
-    ],
-    [
-      "An Adequate Left-Associated Binary Numeral System in the lambda-Calculus",
-      "https://www.brics.dk/RS/95/42/index.html"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 18:47:25",
       "https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x"
     ],
@@ -47,6 +37,16 @@
     [
       "Which programming languages are most token-efficient?",
       "https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 15:16:22",
+      "https://lobste.rs/s/hmlt2f/handling_secrets_somewhat_securely"
+    ],
+    [
+      "Handling secrets (somewhat) securely in shells",
+      "https://linus.schreibt.jetzt/posts/shell-secrets.html"
     ]
   ],
   [
