@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-09, 15:21:25](https://lobste.rs/s/qhsva1/xous_pure_rust_rethink_embedded) - [Xous: A Pure-Rust Rethink of the Embedded Operating System](https://www.youtube.com/watch?v=BbWWGkyIBGM)
+* [2026-01-09, 15:18:36](https://lobste.rs/s/nx9uwg/which_programming_languages_are_most) - [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
 * [2026-01-09, 14:57:14](https://lobste.rs/s/e7lpyy/i_cannot_ssh_into_my_server_anymore_s_fine) - [I Cannot SSH Into My Server Anymore (And That’s Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
 * [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&&&&&&&&&&&&&&str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
 * [2026-01-09, 14:43:39](https://lobste.rs/s/1eqclp/slidge_im_gateways_from_xmpp_other) - [slidge.im - Gateways from XMPP to Other Networks](https://slidge.im/)
