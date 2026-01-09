@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-09, 15:21:25",
+      "https://lobste.rs/s/qhsva1/xous_pure_rust_rethink_embedded"
+    ],
+    [
+      "Xous: A Pure-Rust Rethink of the Embedded Operating System",
+      "https://www.youtube.com/watch?v=BbWWGkyIBGM"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 14:57:14",
+      "https://lobste.rs/s/e7lpyy/i_cannot_ssh_into_my_server_anymore_s_fine"
+    ],
+    [
+      "I Cannot SSH Into My Server Anymore (And That’s Fine)",
+      "https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 14:47:06",
       "https://lobste.rs/s/jo3dnh/str"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2026-01-09, 05:08:49",
-      "https://lobste.rs/s/dhjdmc/template_parameter_deduction"
-    ],
-    [
-      "Template Parameter Deduction: Eliminating Hidden Copies in Generic Code",
-      "https://0xghost.dev/blog/template-parameter-deduction/"
-    ]
-  ],
-  [
-    [
       "2026-01-09, 02:13:09",
       "https://lobste.rs/s/fiowgf/i_m_making_game_engine_based_on_dynamic"
     ],
@@ -127,16 +137,6 @@
     [
       "HTML parsers in Portland",
       "https://felix.dognebula.com/art/html-parsers-in-portland.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 22:37:51",
-      "https://lobste.rs/s/lvny3j/year_typing_my_numpy_fellowship"
-    ],
-    [
-      "A Year of Typing: My NumPy Fellowship Retrospective",
-      "https://blog.scientific-python.org/numpy/fellowship-program-2025-retrospective/"
     ]
   ],
   [
