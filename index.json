@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-09, 05:08:49",
+      "https://lobste.rs/s/dhjdmc/template_parameter_deduction"
+    ],
+    [
+      "Template Parameter Deduction: Eliminating Hidden Copies in Generic Code",
+      "https://0xghost.dev/blog/template-parameter-deduction/"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 02:13:09",
       "https://lobste.rs/s/fiowgf/i_m_making_game_engine_based_on_dynamic"
     ],
@@ -157,16 +167,6 @@
     [
       "Introduction to SIMD programming in pure Rust",
       "https://kerkour.com/introduction-rust-simd"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 09:24:25",
-      "https://lobste.rs/s/c6ot2d/lessons_from_hash_table_merging"
-    ],
-    [
-      "Lessons from Hash Table Merging",
-      "https://gist.github.com/attractivechaos/d2efc77cc1db56bbd5fc597987e73338"
     ]
   ],
   [
