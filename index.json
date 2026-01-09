@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-09, 21:15:10",
+      "https://lobste.rs/s/jydyuw/garbage_collected_handles_are_lifetime"
+    ],
+    [
+      "Garbage collected handles are lifetime-contravariant",
+      "https://trynova.dev/blog/garbage-collection-is-contrarian"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 20:27:03",
       "https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell"
     ],
     [
       "Prompting 101: Show, don’t tell",
       "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 20:12:21",
-      "https://lobste.rs/s/aezhax/embermarks_firefox_extension_discover"
-    ],
-    [
-      "Embermarks: A Firefox extension to discover forgotten bookmarks",
-      "https://bastiangruber.ca/posts/embermarks-a-firefox-extension/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Answer Set Programming (2019)",
       "https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-01-09, 15:21:19",
+      "https://lobste.rs/s/6rp1jv/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/6rp1jv/what_are_you_doing_this_weekend"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "jxl-rs merged into Chromium",
       "https://github.com/chromium/chromium/commit/3badff27281339878293e935a5e0fbb41da553bf"
-    ]
-  ],
-  [
-    [
-      "2026-01-08, 22:46:18",
-      "https://lobste.rs/s/qpltv2/html_parsers_portland"
-    ],
-    [
-      "HTML parsers in Portland",
-      "https://felix.dognebula.com/art/html-parsers-in-portland.html"
     ]
   ],
   [
