@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-09, 19:03:48",
+      "https://lobste.rs/s/kdrelj/adequate_left_associated_binary_numeral"
+    ],
+    [
+      "An Adequate Left-Associated Binary Numeral System in the lambda-Calculus",
+      "https://www.brics.dk/RS/95/42/index.html"
+    ]
+  ],
+  [
+    [
       "2026-01-09, 18:47:25",
       "https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x"
     ],
@@ -15,7 +25,7 @@
       "https://lobste.rs/s/h8fjkm/making_tools_developers_actually_use"
     ],
     [
-      "Making Tools Developers Actually Use - Michiel Borkent",
+      "Making Tools Developers Actually Use",
       "https://www.youtube.com/watch?v=119qVkHxPkM"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "jxl-rs merged into Chromium",
       "https://github.com/chromium/chromium/commit/3badff27281339878293e935a5e0fbb41da553bf"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 07:13:41",
-      "https://lobste.rs/s/som9pn/project_patchouli_open_source"
-    ],
-    [
-      "Project Patchouli - Open-source electromagnetic drawing tablet hardware",
-      "https://patchouli.readthedocs.io/en/latest/"
     ]
   ],
   [
