@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-09, 05:08:49](https://lobste.rs/s/dhjdmc/template_parameter_deduction) - [Template Parameter Deduction: Eliminating Hidden Copies in Generic Code](https://0xghost.dev/blog/template-parameter-deduction/)
 * [2026-01-09, 02:13:09](https://lobste.rs/s/fiowgf/i_m_making_game_engine_based_on_dynamic) - [I'm making a game engine based on dynamic signed distance fields (SDFs)](https://www.youtube.com/watch?v=il-TXbn5iMA)
 * [2026-01-08, 22:46:18](https://lobste.rs/s/qpltv2/html_parsers_portland) - [HTML parsers in Portland](https://felix.dognebula.com/art/html-parsers-in-portland.html)
 * [2026-01-08, 22:37:51](https://lobste.rs/s/lvny3j/year_typing_my_numpy_fellowship) - [A Year of Typing: My NumPy Fellowship Retrospective](https://blog.scientific-python.org/numpy/fellowship-program-2025-retrospective/)
@@ -21,7 +22,6 @@
 * [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
 * [2026-01-08, 05:38:11](https://lobste.rs/s/zjbdx9/per_query_energy_consumption_llms) - [Per-query energy consumption of LLMs](https://muxup.com/2026q1/per-query-energy-consumption-of-llms)
 * [2026-01-08, 04:10:34](https://lobste.rs/s/rnxxln/what_would_make_ocaml_serverless_ready) - [What would make OCaml serverless ready?](https://www.chrisarmstrong.dev/posts/what-would-make-ocaml-serverless-ready)
-* [2026-01-07, 23:31:55](https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using) - [embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result_2015) - [Relax for the same result (2015)](https://sive.rs/relax)
 * [2026-01-07, 13:23:02](https://lobste.rs/s/jcmtaa/a4_paper_stories) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
