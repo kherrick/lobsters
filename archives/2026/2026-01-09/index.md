@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
+* [2026-01-09, 20:12:21](https://lobste.rs/s/aezhax/embermarks_firefox_extension_discover) - [Embermarks: A Firefox extension to discover forgotten bookmarks](https://bastiangruber.ca/posts/embermarks-a-firefox-extension/)
 * [2026-01-09, 19:03:48](https://lobste.rs/s/kdrelj/adequate_left_associated_binary_numeral) - [An Adequate Left-Associated Binary Numeral System in the lambda-Calculus](https://www.brics.dk/RS/95/42/index.html)
 * [2026-01-09, 18:47:25](https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
 * [2026-01-09, 16:36:27](https://lobste.rs/s/h8fjkm/making_tools_developers_actually_use) - [Making Tools Developers Actually Use - Michiel Borkent](https://www.youtube.com/watch?v=119qVkHxPkM)
