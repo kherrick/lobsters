@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-09](index.md)
 
+* [2026-01-09, 19:03:48](https://lobste.rs/s/kdrelj/adequate_left_associated_binary_numeral) - [An Adequate Left-Associated Binary Numeral System in the lambda-Calculus](https://www.brics.dk/RS/95/42/index.html)
 * [2026-01-09, 18:47:25](https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
 * [2026-01-09, 16:36:27](https://lobste.rs/s/h8fjkm/making_tools_developers_actually_use) - [Making Tools Developers Actually Use - Michiel Borkent](https://www.youtube.com/watch?v=119qVkHxPkM)
 * [2026-01-09, 16:06:58](https://lobste.rs/s/1j4fbo/answer_set_programming_2019) - [Answer Set Programming (2019)](https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf)
