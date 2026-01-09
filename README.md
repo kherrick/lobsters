@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-08, 22:46:18](https://lobste.rs/s/qpltv2/html_parsers_portland) - [HTML parsers in Portland](https://felix.dognebula.com/art/html-parsers-in-portland.html)
 * [2026-01-08, 22:22:06](https://lobste.rs/s/a2clkv/data_model_for_git) - [A data model for Git](https://jvns.ca/blog/2026/01/08/a-data-model-for-git/)
 * [2026-01-08, 22:19:06](https://lobste.rs/s/bjfsrd/why_semver_fails_when_you_patch_old) - [Why SemVer fails when you patch old versions and what to do instead](https://beza1e1.tuxen.de/patching_old_versions.html)
 * [2026-01-08, 20:41:30](https://lobste.rs/s/fou2tb/jujutsu_v0_37_0_released) - [jujutsu v0.37.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.37.0)
+* [2026-01-08, 19:36:51](https://lobste.rs/s/72fowr/dell_seems_be_first_realise_we_don_t) - [Dell seems to be the first to realise we don't actually care about AI PCs](https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/)
 * [2026-01-08, 19:05:23](https://lobste.rs/s/pza074/how_terminals_work) - [How Terminals Work](https://how-terminals-work.vercel.app/)
 * [2026-01-08, 15:53:35](https://lobste.rs/s/y0tzkt/clang_hardening_cheat_sheet_ten_years) - [Clang Hardening Cheat Sheet - Ten Years Later](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html)
 * [2026-01-08, 14:54:42](https://lobste.rs/s/bufcbw/how_i_program_awk) - [How I program in AWK](https://maximullaris.com/program-in-awk.html)
@@ -18,13 +20,11 @@
 * [2026-01-08, 06:41:44](https://lobste.rs/s/dzcugr/tailwind_labs_loses_80_revenue_75) - [Tailwind Labs loses 80% of revenue and 75% of engineering due to AI](https://adams-morning-walk.transistor.fm/episodes/we-had-six-months-left)
 * [2026-01-08, 05:38:11](https://lobste.rs/s/zjbdx9/per_query_energy_consumption_llms) - [Per-query energy consumption of LLMs](https://muxup.com/2026q1/per-query-energy-consumption-of-llms)
 * [2026-01-08, 04:10:34](https://lobste.rs/s/rnxxln/what_would_make_ocaml_serverless_ready) - [What would make OCaml serverless ready?](https://www.chrisarmstrong.dev/posts/what-would-make-ocaml-serverless-ready)
-* [2026-01-08, 04:05:27](https://lobste.rs/s/zqly8y/fun_with_algebraic_effects_from_toy) - [Fun with Algebraic Effects - from Toy Examples to Hardcaml Simulations](https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/)
 * [2026-01-07, 23:31:55](https://lobste.rs/s/lyh36g/embassy_modern_embedded_framework_using) - [embassy: Modern embedded framework, using Rust and async](https://github.com/embassy-rs/embassy)
 * [2026-01-07, 21:29:01](https://lobste.rs/s/3bccy3/acm_is_now_fully_open_access) - [ACM is Now Fully Open Access](https://www.acm.org/articles/bulletins/2026/january/acm-open-access)
 * [2026-01-07, 20:19:34](https://lobste.rs/s/6gsmoh/relax_for_same_result_2015) - [Relax for the same result (2015)](https://sive.rs/relax)
 * [2026-01-07, 19:59:22](https://lobste.rs/s/ifnvlk/haskell_debugger_for_ghc_9_14) - [The Haskell Debugger for GHC 9.14](https://discourse.haskell.org/t/the-haskell-debugger-for-ghc-9-14/13499)
 * [2026-01-07, 13:23:02](https://lobste.rs/s/jcmtaa/a4_paper_stories) - [A4 Paper Stories](https://susam.net/a4-paper-stories.html)
-* [2026-01-07, 10:29:46](https://lobste.rs/s/jx4zeh/gothub_ssh_signup) - [GoTHub SSH Signup](https://gothub.org/signup.html)
 
 ## [Archives](archives/index.md)
 
