@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 17:01:04](https://lobste.rs/s/j5poff/openchaos_dev) - [OpenChaos.dev](https://www.openchaos.dev/)
 * [2026-01-10, 14:41:15](https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point) - [Pulling a New Proof from Knuth’s Fixed-Point Printer](https://research.swtch.com/fp-knuth)
 * [2026-01-10, 14:17:57](https://lobste.rs/s/2fejib/comparative_analysis_low_dimensional) - [Comparative Analysis of Low-Dimensional Features and Tree-Based Ensembles for Malware Detection Systems (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057637)
 * [2026-01-10, 14:11:57](https://lobste.rs/s/njgulu/womangling) - [Womangling](https://noratrieb.github.io/womangling/)
