@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 14:17:57](https://lobste.rs/s/2fejib/comparative_analysis_low_dimensional) - [Comparative Analysis of Low-Dimensional Features and Tree-Based Ensembles for Malware Detection Systems (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057637)
 * [2026-01-10, 13:07:06](https://lobste.rs/s/miifex/llms_have_burned_billions_couldn_t_build) - [LLMs have burned Billions but couldn't build another Tailwind](https://omarabid.com/tailwind-ai)
 * [2026-01-10, 12:15:20](https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem) - [Continuous Snapshotting Filesystem](https://nilfs.sourceforge.io/en/index.html)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
