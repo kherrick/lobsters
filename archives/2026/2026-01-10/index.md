@@ -8,6 +8,7 @@
 * [2026-01-10, 19:16:07](https://lobste.rs/s/fr9s2n/v16_beacon_full_uplink_conversation) - [V16 beacon full uplink conversation](https://destevez.net/2026/01/v16-beacon-full-uplink-conversation/)
 * [2026-01-10, 18:44:45](https://lobste.rs/s/zi022d/jj_tug) - [jj tug](https://shaddy.dev/notes/jj-tug/)
 * [2026-01-10, 17:01:04](https://lobste.rs/s/j5poff/openchaos_dev) - [OpenChaos.dev](https://www.openchaos.dev/)
+* [2026-01-10, 14:43:35](https://lobste.rs/s/4qb3gs/annote_writing_java_using_only) - [annote: Writing java using only annotations](https://github.com/kusoroadeolu/annote)
 * [2026-01-10, 14:41:15](https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point) - [Pulling a New Proof from Knuth’s Fixed-Point Printer](https://research.swtch.com/fp-knuth)
 * [2026-01-10, 14:17:57](https://lobste.rs/s/2fejib/comparative_analysis_low_dimensional) - [Comparative Analysis of Low-Dimensional Features and Tree-Based Ensembles for Malware Detection Systems (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057637)
 * [2026-01-10, 14:11:57](https://lobste.rs/s/njgulu/womangling) - [Womangling](https://noratrieb.github.io/womangling/)
