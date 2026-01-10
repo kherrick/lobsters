@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-10, 06:59:11](https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15) - [Type inference of all constructs and the next 15 months](https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/)
 * [2026-01-10, 03:08:04](https://lobste.rs/s/hf8g8k/phosh_2025_retrospect) - [Phosh 2025 in Retrospect](https://phosh.mobi/posts/phosh-2025-in-retrospect/)
 * [2026-01-10, 00:08:24](https://lobste.rs/s/6phxzm/how_markdown_took_over_world) - [How Markdown took over the world](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/)
 * [2026-01-09, 23:36:57](https://lobste.rs/s/mdggwb/introducing_ektupy) - [Introducing EktuPy](https://kushaldas.in/posts/introducing-ektupy.html)
 * [2026-01-09, 21:15:10](https://lobste.rs/s/jydyuw/garbage_collected_handles_are_lifetime) - [Garbage collected handles are lifetime-contravariant](https://trynova.dev/blog/garbage-collection-is-contrarian)
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
 * [2026-01-09, 18:47:25](https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x) - [How we made Python's packaging library 3x faster](https://iscinumpy.dev/post/packaging-faster/)
-* [2026-01-09, 16:36:27](https://lobste.rs/s/h8fjkm/making_tools_developers_actually_use) - [Making Tools Developers Actually Use](https://www.youtube.com/watch?v=119qVkHxPkM)
 * [2026-01-09, 16:06:58](https://lobste.rs/s/1j4fbo/answer_set_programming_2019) - [Answer Set Programming (2019)](https://www.cs.utexas.edu/~vl/teaching/378/ASP.pdf)
 * [2026-01-09, 15:21:19](https://lobste.rs/s/6rp1jv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6rp1jv/what_are_you_doing_this_weekend)
 * [2026-01-09, 15:18:36](https://lobste.rs/s/nx9uwg/which_programming_languages_are_most) - [Which programming languages are most token-efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/)
