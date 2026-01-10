@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-10](index.md)
 
+* [2026-01-10, 10:33:29](https://lobste.rs/s/gcwkbw/year_work_on_alpm_project) - [A year of work on the ALPM project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
 * [2026-01-10, 09:05:10](https://lobste.rs/s/ddpboi/gleam_s_design_compiler) - [Gleam’s Design and Compiler](https://youtu.be/WC_j91qogyY)
 * [2026-01-10, 07:18:30](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang) - [Tag Proposal: logic-lang](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang)

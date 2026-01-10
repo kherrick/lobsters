@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-10, 10:33:29](https://lobste.rs/s/gcwkbw/year_work_on_alpm_project) - [A year of work on the ALPM project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
 * [2026-01-10, 07:18:30](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang) - [Tag Proposal: logic-lang](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang)
-* [2026-01-10, 03:15:11](https://lobste.rs/s/ofxi6r/sanctum_1_0_0_small_reviewable_capable_pq) - [Sanctum 1.0.0 - small, reviewable, capable, PQ-secure and fully privilege separated novel VPN daemon and protocol](https://chants.conclave.se/260106-sanctum-1_0_0/)
 * [2026-01-10, 03:08:04](https://lobste.rs/s/hf8g8k/phosh_2025_retrospect) - [Phosh 2025 in Retrospect](https://phosh.mobi/posts/phosh-2025-in-retrospect/)
 * [2026-01-10, 00:08:24](https://lobste.rs/s/6phxzm/how_markdown_took_over_world) - [How Markdown took over the world](https://anildash.com/2026/01/09/how-markdown-took-over-the-world/)
 * [2026-01-09, 23:36:57](https://lobste.rs/s/mdggwb/introducing_ektupy) - [Introducing EktuPy](https://kushaldas.in/posts/introducing-ektupy.html)
