@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-10, 23:29:57",
+      "https://lobste.rs/s/ty9jft/writing_mutexes_from_scratch_go"
+    ],
+    [
+      "Writing mutexes from scratch in Go",
+      "https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 20:05:25",
       "https://lobste.rs/s/vlzg2m/finding_fixing_ghostty_s_largest_memory"
     ],
@@ -147,16 +157,6 @@
     [
       "Type inference of all constructs and the next 15 months",
       "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 03:15:11",
-      "https://lobste.rs/s/ofxi6r/sanctum_1_0_0_small_reviewable_capable_pq"
-    ],
-    [
-      "Sanctum 1.0.0 - small, reviewable, capable, PQ-secure and fully privilege separated novel VPN daemon and protocol",
-      "https://chants.conclave.se/260106-sanctum-1_0_0/"
     ]
   ],
   [
