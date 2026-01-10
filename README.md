@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 * [2026-01-10, 11:35:56](https://lobste.rs/s/brf6gk/bare_metal_programming_with_risc_v_guide) - [Bare metal programming with RISC-V guide (2023)](https://popovicu.com/posts/bare-metal-programming-risc-v/)
-* [2026-01-10, 11:33:07](https://lobste.rs/s/a9i8uh/don_t_snipe_me_space_intentional_flash) - [Don’t snipe me in space - intentional flash corruption for STM32 microcontrollers](https://blog.010.one/Dont-snipe-me-in-space-intentional-flash-corruption-for-stm32-microcontrollers)
 * [2026-01-10, 10:33:29](https://lobste.rs/s/gcwkbw/year_work_on_alpm_project) - [A year of work on the ALPM project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
 * [2026-01-10, 07:18:30](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang) - [Tag Proposal: logic-lang](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang)
