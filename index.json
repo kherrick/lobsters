@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-10, 12:15:20",
+      "https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem"
+    ],
+    [
+      "Continuous Snapshotting Filesystem",
+      "https://nilfs.sourceforge.io/en/index.html"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 11:55:32",
       "https://lobste.rs/s/osmrzx/how_i_use_jujutsu"
     ],
     [
       "How I use Jujutsu",
       "https://abhinavsarkar.net/posts/jj-usage/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 11:35:56",
-      "https://lobste.rs/s/brf6gk/bare_metal_programming_with_risc_v_guide"
-    ],
-    [
-      "Bare metal programming with RISC-V guide (2023)",
-      "https://popovicu.com/posts/bare-metal-programming-risc-v/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Tag Proposal: logic-lang",
       "https://lobste.rs/s/igbrxv/tag_proposal_logic_lang"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 06:59:11",
+      "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15"
+    ],
+    [
+      "Type inference of all constructs and the next 15 months",
+      "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "slidge.im - Gateways from XMPP to Other Networks",
       "https://slidge.im/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 14:21:33",
-      "https://lobste.rs/s/yvgsct/automatic_tls_certificates_for_common"
-    ],
-    [
-      "Automatic TLS Certificates for Common Lisp with pure-tls/acme",
-      "https://atgreen.github.io/repl-yell/posts/pure-tls-acme/"
     ]
   ],
   [
