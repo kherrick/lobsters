@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-01-10, 14:43:35",
+      "https://lobste.rs/s/4qb3gs/annote_writing_java_using_only"
+    ],
+    [
+      "annote: Writing java using only annotations",
+      "https://github.com/kusoroadeolu/annote"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 14:41:15",
       "https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point"
     ],
@@ -167,16 +177,6 @@
     [
       "Prompting 101: Show, don’t tell",
       "https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 18:47:25",
-      "https://lobste.rs/s/yzdhxz/how_we_made_python_s_packaging_library_3x"
-    ],
-    [
-      "How we made Python's packaging library 3x faster",
-      "https://iscinumpy.dev/post/packaging-faster/"
     ]
   ],
   [
