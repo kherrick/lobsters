@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-10, 13:07:06](https://lobste.rs/s/miifex/llms_have_burned_billions_couldn_t_build) - [LLMs have burned Billions but couldn't build another Tailwind](https://omarabid.com/tailwind-ai)
 * [2026-01-10, 12:15:20](https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem) - [Continuous Snapshotting Filesystem](https://nilfs.sourceforge.io/en/index.html)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 * [2026-01-10, 10:33:29](https://lobste.rs/s/gcwkbw/year_work_on_alpm_project) - [A year of work on the ALPM project](https://devblog.archlinux.page/2026/a-year-of-work-on-the-alpm-project/)
@@ -18,7 +19,6 @@
 * [2026-01-09, 15:16:22](https://lobste.rs/s/hmlt2f/handling_secrets_somewhat_securely) - [Handling secrets (somewhat) securely in shells](https://linus.schreibt.jetzt/posts/shell-secrets.html)
 * [2026-01-09, 14:57:14](https://lobste.rs/s/e7lpyy/i_cannot_ssh_into_my_server_anymore_s_fine) - [I Cannot SSH Into My Server Anymore (And That’s Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
 * [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&&&&&&&&&&&&&&str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
-* [2026-01-09, 14:43:39](https://lobste.rs/s/1eqclp/slidge_im_gateways_from_xmpp_other) - [slidge.im - Gateways from XMPP to Other Networks](https://slidge.im/)
 * [2026-01-09, 13:32:39](https://lobste.rs/s/3o5wil/celeste_towerfall_physics) - [Celeste & TowerFall Physics](https://www.maddymakesgames.com/articles/celeste_and_towerfall_physics/index.html)
 * [2026-01-09, 11:47:51](https://lobste.rs/s/sew4le/shell_scripts) - [Shell scripts](https://f5n.org/blog/2026/shell-scripts/)
 * [2026-01-09, 09:51:19](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
