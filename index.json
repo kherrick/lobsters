@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-10, 06:59:11",
+      "https://lobste.rs/s/dzvt0w/type_inference_all_constructs_next_15"
+    ],
+    [
+      "Type inference of all constructs and the next 15 months",
+      "https://elixir-lang.org/blog/2026/01/09/type-inference-of-all-and-next-15/"
+    ]
+  ],
+  [
+    [
       "2026-01-10, 03:08:04",
       "https://lobste.rs/s/hf8g8k/phosh_2025_retrospect"
     ],
@@ -57,16 +67,6 @@
     [
       "How we made Python's packaging library 3x faster",
       "https://iscinumpy.dev/post/packaging-faster/"
-    ]
-  ],
-  [
-    [
-      "2026-01-09, 16:36:27",
-      "https://lobste.rs/s/h8fjkm/making_tools_developers_actually_use"
-    ],
-    [
-      "Making Tools Developers Actually Use",
-      "https://www.youtube.com/watch?v=119qVkHxPkM"
     ]
   ],
   [
