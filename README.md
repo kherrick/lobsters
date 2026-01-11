@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 18:03:37](https://lobste.rs/s/u6lchj/we_default_addition) - [We default to addition](https://www.ufried.com/blog/addition_bias/)
 * [2026-01-11, 16:53:30](https://lobste.rs/s/qjpsyf/airfrog_tiny_sub_5_wireless_co_processor) - [Airfrog: Tiny sub-$5 wireless co-processor for ARM MCUs](https://www.youtube.com/watch?v=XY2RdaR9DeU)
 * [2026-01-11, 15:14:14](https://lobste.rs/s/p3u2du/kim1_demo_for_kim_1_s_50th_birthday) - [KIM1-Demo: for the KIM-1's 50th birthday](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
@@ -21,7 +22,6 @@
 * [2026-01-10, 18:44:45](https://lobste.rs/s/zi022d/jj_tug) - [jj tug](https://shaddy.dev/notes/jj-tug/)
 * [2026-01-10, 17:01:04](https://lobste.rs/s/j5poff/openchaos_dev) - [OpenChaos.dev](https://www.openchaos.dev/)
 * [2026-01-10, 14:41:15](https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point) - [Pulling a New Proof from Knuth’s Fixed-Point Printer](https://research.swtch.com/fp-knuth)
-* [2026-01-10, 12:15:20](https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem) - [Continuous Snapshotting Filesystem](https://nilfs.sourceforge.io/en/index.html)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)

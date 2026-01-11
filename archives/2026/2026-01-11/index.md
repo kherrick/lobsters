@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 18:03:37](https://lobste.rs/s/u6lchj/we_default_addition) - [We default to addition](https://www.ufried.com/blog/addition_bias/)
 * [2026-01-11, 16:53:30](https://lobste.rs/s/qjpsyf/airfrog_tiny_sub_5_wireless_co_processor) - [Airfrog: Tiny sub-$5 wireless co-processor for ARM MCUs](https://www.youtube.com/watch?v=XY2RdaR9DeU)
 * [2026-01-11, 15:14:14](https://lobste.rs/s/p3u2du/kim1_demo_for_kim_1_s_50th_birthday) - [KIM1-Demo: for the KIM-1's 50th birthday](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
