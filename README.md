@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 16:53:30](https://lobste.rs/s/qjpsyf/airfrog_tiny_sub_5_wireless_co_processor) - [Airfrog: Tiny sub-$5 wireless co-processor for ARM MCUs](https://www.youtube.com/watch?v=XY2RdaR9DeU)
 * [2026-01-11, 15:14:14](https://lobste.rs/s/p3u2du/kim1_demo_for_kim_1_s_50th_birthday) - [KIM1-Demo: for the KIM-1's 50th birthday](https://github.com/netzherpes/KIM1-Demo)
 * [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
 * [2026-01-11, 14:23:57](https://lobste.rs/s/gopuzu/std_move_doesn_t_move_anything_deep_dive) - [std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
@@ -24,7 +25,6 @@
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
-* [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&&&&&&&&&&&&&&str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
 
 ## [Archives](archives/index.md)
 
