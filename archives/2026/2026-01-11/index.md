@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 10:23:20](https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
+* [2026-01-11, 10:03:30](https://lobste.rs/s/weiyij/i_replaced_redis_with_postgresql_it_s) - [I Replaced Redis with PostgreSQL (And It's Faster)](https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942)
 * [2026-01-11, 09:13:05](https://lobste.rs/s/q4zgly/how_safe_is_rust_ecosystem_deep_dive_into) - [How Safe is the Rust Ecosystem? A Deep Dive into crates.io](https://mr-leshiy-blog.web.app/blog/crates_io_analysis/)
 * [2026-01-11, 08:07:57](https://lobste.rs/s/fr9pyv/whenwords_relative_time_formatting) - [whenwords: A relative time formatting library, with no code](https://github.com/dbreunig/whenwords)
 * [2026-01-11, 08:07:54](https://lobste.rs/s/v7w5ud/linus_is_vibe_coding) - [Linus is vibe coding](https://github.com/torvalds/AudioNoise)
