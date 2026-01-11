@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-11, 15:14:14",
+      "https://lobste.rs/s/p3u2du/kim1_demo_for_kim_1_s_50th_birthday"
+    ],
+    [
+      "KIM1-Demo: for the KIM-1's 50th birthday",
+      "https://github.com/netzherpes/KIM1-Demo"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 15:05:25",
+      "https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon"
+    ],
+    [
+      "Asahi Linux - Porting Linux to Apple Silicon",
+      "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 14:23:57",
       "https://lobste.rs/s/gopuzu/std_move_doesn_t_move_anything_deep_dive"
     ],
@@ -187,26 +207,6 @@
     [
       "Pulling a New Proof from Knuth’s Fixed-Point Printer",
       "https://research.swtch.com/fp-knuth"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 14:11:57",
-      "https://lobste.rs/s/njgulu/learn_c_itanium_symbol_mangling"
-    ],
-    [
-      "Learn C++ Itanium Symbol Mangling",
-      "https://noratrieb.github.io/womangling/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 12:15:20",
-      "https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem"
-    ],
-    [
-      "Continuous Snapshotting Filesystem",
-      "https://nilfs.sourceforge.io/en/index.html"
     ]
   ],
   [
