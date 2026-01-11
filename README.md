@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 12:51:19](https://lobste.rs/s/k7xslg/pmu_counters_on_apple_silicon) - [PMU Counters on Apple Silicon](https://blog.bugsiki.dev/posts/apple-pmu/)
 * [2026-01-11, 11:20:57](https://lobste.rs/s/ftwkvo/hobbyist_maintainer_economic_gravity) - [The Hobbyist Maintainer Economic Gravity Well](https://softwaremaxims.com/blog/hobbyist-gravity-well)
 * [2026-01-11, 10:41:50](https://lobste.rs/s/djvda5/create_semi_working_desktop_only_based_on) - [Create a semi-working desktop only based on runtime Windows 3.10 shipped with Windows 95 installer](https://tech.lgbt/@nina_kali_nina/115871854239918291)
 * [2026-01-11, 10:23:20](https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
@@ -21,7 +22,6 @@
 * [2026-01-10, 12:15:20](https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem) - [Continuous Snapshotting Filesystem](https://nilfs.sourceforge.io/en/index.html)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
-* [2026-01-10, 07:18:30](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang) - [Tag Proposal: logic-lang](https://lobste.rs/s/igbrxv/tag_proposal_logic_lang)
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
 * [2026-01-09, 14:57:14](https://lobste.rs/s/e7lpyy/i_cannot_ssh_into_my_server_anymore_s_fine) - [I Cannot SSH Into My Server Anymore (And That’s Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
 * [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&&&&&&&&&&&&&&str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
