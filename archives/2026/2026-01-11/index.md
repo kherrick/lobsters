@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 23:13:30](https://lobste.rs/s/ehtrmf/turntiles_nyt_style_word_game_i_made_for_my) - [Turntiles, an NYT style word game I made for my parents](https://github.com/wheybags/turntiles)
 * [2026-01-11, 21:40:24](https://lobste.rs/s/vnzeuh/when_msvc_musttail_attribute_silently) - [When msvc::musttail attribute silently fails](https://www.abareplace.com/blog/musttail/)
 * [2026-01-11, 21:29:18](https://lobste.rs/s/wcsrvd/mitigating_billion_dollar_mistake) - [Mitigating the Billion Dollar Mistake](https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/)
 * [2026-01-11, 20:38:37](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting) - [Who are people currently using as hosting providers?](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 23:13:30](https://lobste.rs/s/ehtrmf/turntiles_nyt_style_word_game_i_made_for_my) - [Turntiles, an NYT style word game I made for my parents](https://github.com/wheybags/turntiles)
 * [2026-01-11, 21:40:24](https://lobste.rs/s/vnzeuh/when_msvc_musttail_attribute_silently) - [When msvc::musttail attribute silently fails](https://www.abareplace.com/blog/musttail/)
 * [2026-01-11, 21:29:18](https://lobste.rs/s/wcsrvd/mitigating_billion_dollar_mistake) - [Mitigating the Billion Dollar Mistake](https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/)
 * [2026-01-11, 20:38:37](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting) - [Who are people currently using as hosting providers?](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting)
@@ -24,7 +25,6 @@
 * [2026-01-11, 07:28:52](https://lobste.rs/s/r1wjyf/80_rye_20_time_1_3) - [80% of Rye in 20% of the Time [1/3]](https://ryelang.org/blog/posts/learn_80_rye_in_20_time_code/)
 * [2026-01-10, 20:05:25](https://lobste.rs/s/vlzg2m/finding_fixing_ghostty_s_largest_memory) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 18:44:45](https://lobste.rs/s/zi022d/jj_tug) - [jj tug](https://shaddy.dev/notes/jj-tug/)
-* [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 
 ## [Archives](archives/index.md)
 
