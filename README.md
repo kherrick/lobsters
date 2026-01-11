@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 19:33:42](https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy) - [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health)
+* [2026-01-11, 19:32:26](https://lobste.rs/s/1mjti7/1160_prs_improve_rust_2025) - [1160 PRs to improve Rust in 2025](https://kobzol.github.io/rust/rustc/2026/01/05/my-rust-contributions-in-2025.html)
 * [2026-01-11, 19:23:35](https://lobste.rs/s/8nwjov/llvm_bad_parts) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-11, 18:30:13](https://lobste.rs/s/ta6ngj/google_automatically_emails_13_year_olds) - [Google automatically emails 13 year olds to allow them to opt out of parental supervision](https://support.google.com/families/answer/7106787?hl=en)
-* [2026-01-11, 18:22:51](https://lobste.rs/s/w2rtvh/gomponents_html_components_pure_go) - [gomponents, HTML components in pure Go](https://www.gomponents.com)
 * [2026-01-11, 18:03:37](https://lobste.rs/s/u6lchj/we_default_addition) - [We default to addition](https://www.ufried.com/blog/addition_bias/)
 * [2026-01-11, 16:53:30](https://lobste.rs/s/qjpsyf/airfrog_tiny_sub_5_wireless_co_processor) - [Airfrog: Tiny sub-$5 wireless co-processor for ARM MCUs](https://www.youtube.com/watch?v=XY2RdaR9DeU)
 * [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
@@ -23,7 +24,6 @@
 * [2026-01-10, 20:05:25](https://lobste.rs/s/vlzg2m/finding_fixing_ghostty_s_largest_memory) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 18:44:45](https://lobste.rs/s/zi022d/jj_tug) - [jj tug](https://shaddy.dev/notes/jj-tug/)
 * [2026-01-10, 17:01:04](https://lobste.rs/s/j5poff/openchaos_dev) - [OpenChaos.dev](https://www.openchaos.dev/)
-* [2026-01-10, 14:41:15](https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point) - [Pulling a New Proof from Knuth’s Fixed-Point Printer](https://research.swtch.com/fp-knuth)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 
 ## [Archives](archives/index.md)

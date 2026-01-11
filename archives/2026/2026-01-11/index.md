@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 19:33:42](https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy) - [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health)
+* [2026-01-11, 19:32:26](https://lobste.rs/s/1mjti7/1160_prs_improve_rust_2025) - [1160 PRs to improve Rust in 2025](https://kobzol.github.io/rust/rustc/2026/01/05/my-rust-contributions-in-2025.html)
 * [2026-01-11, 19:23:35](https://lobste.rs/s/8nwjov/llvm_bad_parts) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-11, 18:30:13](https://lobste.rs/s/ta6ngj/google_automatically_emails_13_year_olds) - [Google automatically emails 13 year olds to allow them to opt out of parental supervision](https://support.google.com/families/answer/7106787?hl=en)
 * [2026-01-11, 18:22:51](https://lobste.rs/s/w2rtvh/gomponents_html_components_pure_go) - [gomponents, HTML components in pure Go](https://www.gomponents.com)
