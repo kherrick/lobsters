@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-11, 21:40:24",
+      "https://lobste.rs/s/vnzeuh/when_msvc_musttail_attribute_silently"
+    ],
+    [
+      "When msvc::musttail attribute silently fails",
+      "https://www.abareplace.com/blog/musttail/"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 21:29:18",
       "https://lobste.rs/s/wcsrvd/mitigating_billion_dollar_mistake"
     ],
@@ -227,16 +237,6 @@
     [
       "jj tug",
       "https://shaddy.dev/notes/jj-tug/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 17:01:04",
-      "https://lobste.rs/s/j5poff/openchaos_dev"
-    ],
-    [
-      "OpenChaos.dev",
-      "https://www.openchaos.dev/"
     ]
   ],
   [
