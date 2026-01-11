@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 09:13:05](https://lobste.rs/s/q4zgly/how_safe_is_rust_ecosystem_deep_dive_into) - [How Safe is the Rust Ecosystem? A Deep Dive into crates.io](https://mr-leshiy-blog.web.app/blog/crates_io_analysis/)
 * [2026-01-11, 08:07:57](https://lobste.rs/s/fr9pyv/whenwords_relative_time_formatting) - [whenwords: A relative time formatting library, with no code](https://github.com/dbreunig/whenwords)
 * [2026-01-11, 08:07:54](https://lobste.rs/s/v7w5ud/linus_is_vibe_coding) - [Linus is vibe coding](https://github.com/torvalds/AudioNoise)
 * [2026-01-11, 07:59:28](https://lobste.rs/s/kc88fv/unique_performance_optimization_for_3d) - [A Unique Performance Optimization for a 3D Geometry Language](https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/)
