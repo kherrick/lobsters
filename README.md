@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 00:38:54](https://lobste.rs/s/xjiqml/code_let_live) - [Code And Let Live](https://fly.io/blog/code-and-let-live/)
 * [2026-01-10, 23:29:57](https://lobste.rs/s/ty9jft/writing_mutexes_from_scratch_go) - [Writing mutexes from scratch in Go](https://rybicki.io/blog/2026/01/01/mutexes-from-scratch-in-go.html)
 * [2026-01-10, 20:05:25](https://lobste.rs/s/vlzg2m/finding_fixing_ghostty_s_largest_memory) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 * [2026-01-10, 19:16:07](https://lobste.rs/s/fr9s2n/v16_beacon_full_uplink_conversation) - [V16 beacon full uplink conversation](https://destevez.net/2026/01/v16-beacon-full-uplink-conversation/)
@@ -7,7 +8,6 @@
 * [2026-01-10, 17:01:04](https://lobste.rs/s/j5poff/openchaos_dev) - [OpenChaos.dev](https://www.openchaos.dev/)
 * [2026-01-10, 14:43:35](https://lobste.rs/s/4qb3gs/annote_writing_java_using_only) - [annote: Writing java using only annotations](https://github.com/kusoroadeolu/annote)
 * [2026-01-10, 14:41:15](https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point) - [Pulling a New Proof from Knuth’s Fixed-Point Printer](https://research.swtch.com/fp-knuth)
-* [2026-01-10, 14:17:57](https://lobste.rs/s/2fejib/comparative_analysis_low_dimensional) - [Comparative Analysis of Low-Dimensional Features and Tree-Based Ensembles for Malware Detection Systems (2020)](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9057637)
 * [2026-01-10, 14:11:57](https://lobste.rs/s/njgulu/learn_c_itanium_symbol_mangling) - [Learn C++ Itanium Symbol Mangling](https://noratrieb.github.io/womangling/)
 * [2026-01-10, 12:15:20](https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem) - [Continuous Snapshotting Filesystem](https://nilfs.sourceforge.io/en/index.html)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
