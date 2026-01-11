@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-11, 19:40:08",
+      "https://lobste.rs/s/g17atl/curious_case_stack_pivot_detection"
+    ],
+    [
+      "The Curious Case of Stack Pivot Detection",
+      "https://seclists.org/oss-sec/2026/q1/48"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 19:33:42",
       "https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy"
     ],
@@ -167,16 +177,6 @@
     [
       "A Unique Performance Optimization for a 3D Geometry Language",
       "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 07:57:02",
-      "https://lobste.rs/s/qdmztk/markdown_is_disaster_why_what_do_instead"
-    ],
-    [
-      "Markdown Is a Disaster: Why and What to Do Instead",
-      "https://www.karl-voit.at/2025/08/17/Markdown-disaster/"
     ]
   ],
   [
