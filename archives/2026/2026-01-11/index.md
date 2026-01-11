@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-11](index.md)
 
+* [2026-01-11, 15:14:14](https://lobste.rs/s/p3u2du/kim1_demo_for_kim_1_s_50th_birthday) - [KIM1-Demo: for the KIM-1's 50th birthday](https://github.com/netzherpes/KIM1-Demo)
+* [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
 * [2026-01-11, 14:23:57](https://lobste.rs/s/gopuzu/std_move_doesn_t_move_anything_deep_dive) - [std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
 * [2026-01-11, 14:08:39](https://lobste.rs/s/vtmulo/implementing_tiny_cpu_rasterizer) - [Implementing a tiny CPU rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html)
 * [2026-01-11, 13:33:04](https://lobste.rs/s/3kuj1i/towards_disaggregated_agent_filesystem) - [Towards a Disaggregated Agent Filesystem on Object Storage](https://penberg.org/blog/disaggregated-agentfs.html)

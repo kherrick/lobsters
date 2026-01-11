@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-11, 15:14:14](https://lobste.rs/s/p3u2du/kim1_demo_for_kim_1_s_50th_birthday) - [KIM1-Demo: for the KIM-1's 50th birthday](https://github.com/netzherpes/KIM1-Demo)
+* [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
 * [2026-01-11, 14:23:57](https://lobste.rs/s/gopuzu/std_move_doesn_t_move_anything_deep_dive) - [std::move doesn't move anything: A deep dive into Value Categories](https://0xghost.dev/blog/std-move-deep-dive/)
 * [2026-01-11, 14:08:39](https://lobste.rs/s/vtmulo/implementing_tiny_cpu_rasterizer) - [Implementing a tiny CPU rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer-part-1.html)
 * [2026-01-11, 13:33:04](https://lobste.rs/s/3kuj1i/towards_disaggregated_agent_filesystem) - [Towards a Disaggregated Agent Filesystem on Object Storage](https://penberg.org/blog/disaggregated-agentfs.html)
@@ -19,8 +21,6 @@
 * [2026-01-10, 18:44:45](https://lobste.rs/s/zi022d/jj_tug) - [jj tug](https://shaddy.dev/notes/jj-tug/)
 * [2026-01-10, 17:01:04](https://lobste.rs/s/j5poff/openchaos_dev) - [OpenChaos.dev](https://www.openchaos.dev/)
 * [2026-01-10, 14:41:15](https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point) - [Pulling a New Proof from Knuth’s Fixed-Point Printer](https://research.swtch.com/fp-knuth)
-* [2026-01-10, 14:11:57](https://lobste.rs/s/njgulu/learn_c_itanium_symbol_mangling) - [Learn C++ Itanium Symbol Mangling](https://noratrieb.github.io/womangling/)
-* [2026-01-10, 12:15:20](https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem) - [Continuous Snapshotting Filesystem](https://nilfs.sourceforge.io/en/index.html)
 * [2026-01-10, 11:55:32](https://lobste.rs/s/osmrzx/how_i_use_jujutsu) - [How I use Jujutsu](https://abhinavsarkar.net/posts/jj-usage/)
 * [2026-01-10, 09:16:26](https://lobste.rs/s/bstbd6/hongdown_opinionated_markdown) - [Hongdown: An opinionated Markdown formatter in Rust](https://github.com/dahlia/hongdown)
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
