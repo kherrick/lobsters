@@ -3,6 +3,7 @@
 * [2026-01-11, 08:07:57](https://lobste.rs/s/fr9pyv/whenwords_relative_time_formatting) - [whenwords: A relative time formatting library, with no code](https://github.com/dbreunig/whenwords)
 * [2026-01-11, 08:07:54](https://lobste.rs/s/v7w5ud/linus_is_vibe_coding) - [Linus is vibe coding](https://github.com/torvalds/AudioNoise)
 * [2026-01-11, 07:59:28](https://lobste.rs/s/kc88fv/unique_performance_optimization_for_3d) - [A Unique Performance Optimization for a 3D Geometry Language](https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/)
+* [2026-01-11, 07:57:02](https://lobste.rs/s/qdmztk/markdown_is_disaster_why_what_do_instead) - [Markdown Is a Disaster: Why and What to Do Instead](https://www.karl-voit.at/2025/08/17/Markdown-disaster/)
 * [2026-01-11, 07:28:52](https://lobste.rs/s/r1wjyf/80_rye_20_time_1_3) - [80% of Rye in 20% of the Time [1/3]](https://ryelang.org/blog/posts/learn_80_rye_in_20_time_code/)
 * [2026-01-11, 02:33:18](https://lobste.rs/s/k9dwgt/16_best_practices_for_reducing) - [16 Best Practices for Reducing Dependabot Noise](https://nesbitt.io/2026/01/10/16-best-practices-for-reducing-dependabot-noise.html)
 * [2026-01-11, 00:38:54](https://lobste.rs/s/xjiqml/code_let_live) - [Code And Let Live](https://fly.io/blog/code-and-let-live/)
@@ -24,7 +25,6 @@
 * [2026-01-09, 20:27:03](https://lobste.rs/s/zdwvdw/prompting_101_show_don_t_tell) - [Prompting 101: Show, don’t tell](https://www.haskellforall.com/2026/01/prompting-101-show-dont-tell.html)
 * [2026-01-09, 14:57:14](https://lobste.rs/s/e7lpyy/i_cannot_ssh_into_my_server_anymore_s_fine) - [I Cannot SSH Into My Server Anymore (And That’s Fine)](https://soap.coffee/~lthms/posts/i-cannot-ssh-into-my-server-anymore.html)
 * [2026-01-09, 14:47:06](https://lobste.rs/s/jo3dnh/str) - [&&&&&&&&&&&&&&str](https://ohadravid.github.io/posts/2026-01-09-fourteen-ref/)
-* [2026-01-09, 09:51:19](https://lobste.rs/s/zfrf8k/european_commission_issues_call_for) - [European Commission issues call for evidence on open source](https://lwn.net/Articles/1053107/)
 
 ## [Archives](archives/index.md)
 
