@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-01-11, 13:33:04",
-      "https://lobste.rs/s/3kuj1i/towards_disaggregated_agent_filesystem"
-    ],
-    [
-      "Towards a Disaggregated Agent Filesystem on Object Storage",
-      "https://penberg.org/blog/disaggregated-agentfs.html"
-    ]
-  ],
-  [
-    [
       "2026-01-11, 12:51:19",
       "https://lobste.rs/s/k7xslg/pmu_counters_on_apple_silicon"
     ],
@@ -217,6 +207,16 @@
     [
       "Pulling a New Proof from Knuth’s Fixed-Point Printer",
       "https://research.swtch.com/fp-knuth"
+    ]
+  ],
+  [
+    [
+      "2026-01-10, 12:15:20",
+      "https://lobste.rs/s/i9nrlh/continuous_snapshotting_filesystem"
+    ],
+    [
+      "Continuous Snapshotting Filesystem",
+      "https://nilfs.sourceforge.io/en/index.html"
     ]
   ],
   [
