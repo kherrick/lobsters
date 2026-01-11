@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-11, 10:23:20",
+      "https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype"
+    ],
+    [
+      "Don't fall into the anti-AI hype",
+      "https://antirez.com/news/158"
+    ]
+  ],
+  [
+    [
+      "2026-01-11, 10:03:30",
+      "https://lobste.rs/s/weiyij/i_replaced_redis_with_postgresql_it_s"
+    ],
+    [
+      "I Replaced Redis with PostgreSQL (And It's Faster)",
+      "https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942"
+    ]
+  ],
+  [
+    [
       "2026-01-11, 09:13:05",
       "https://lobste.rs/s/q4zgly/how_safe_is_rust_ecosystem_deep_dive_into"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-10, 14:43:35",
-      "https://lobste.rs/s/4qb3gs/annote_writing_java_using_only"
-    ],
-    [
-      "annote: Writing java using only annotations",
-      "https://github.com/kusoroadeolu/annote"
-    ]
-  ],
-  [
-    [
       "2026-01-10, 14:41:15",
       "https://lobste.rs/s/tkq2bb/pulling_new_proof_from_knuth_s_fixed_point"
     ],
@@ -177,16 +187,6 @@
     [
       "How I use Jujutsu",
       "https://abhinavsarkar.net/posts/jj-usage/"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 11:35:56",
-      "https://lobste.rs/s/brf6gk/bare_metal_programming_with_risc_v_guide"
-    ],
-    [
-      "Bare metal programming with RISC-V guide (2023)",
-      "https://popovicu.com/posts/bare-metal-programming-risc-v/"
     ]
   ],
   [
