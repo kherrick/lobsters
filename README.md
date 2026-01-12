@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-12, 14:19:22](https://lobste.rs/s/tyyi9z/j_incunabulum) - [The J Incunabulum](https://tony-zorman.com/posts/j-incunabulum.html)
+* [2026-01-12, 14:04:57](https://lobste.rs/s/70isfv/how_make_damn_website) - [How to Make a Damn Website](https://lmnt.me/blog/how-to-make-a-damn-website.html)
 * [2026-01-12, 13:19:17](https://lobste.rs/s/j9xv8v/we_rolled_our_own_documentation_site) - [we rolled our own documentation site](https://blog.tangled.org/docs)
 * [2026-01-12, 12:41:07](https://lobste.rs/s/r4wccr/rise_future_fall_discord) - [The rise (and future fall) of Discord](https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/)
 * [2026-01-12, 12:31:35](https://lobste.rs/s/hxzs2d/examining_iran_s_internet_status_amid) - [Examining Iran’s Internet Status Amid Escalating Protests](https://filter.watch/english/2026/01/09/network-monitoring-january-2026-internet-repression-in-times-of-protest/)
@@ -20,7 +21,6 @@
 * [2026-01-11, 18:03:37](https://lobste.rs/s/u6lchj/we_default_addition) - [We default to addition](https://www.ufried.com/blog/addition_bias/)
 * [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
 * [2026-01-11, 11:20:57](https://lobste.rs/s/ftwkvo/hobbyist_maintainer_economic_gravity) - [The Hobbyist Maintainer Economic Gravity Well](https://softwaremaxims.com/blog/hobbyist-gravity-well)
-* [2026-01-11, 10:41:50](https://lobste.rs/s/djvda5/create_semi_working_desktop_only_based_on) - [Create a semi-working desktop only based on runtime Windows 3.10 shipped with Windows 95 installer](https://tech.lgbt/@nina_kali_nina/115871854239918291)
 * [2026-01-11, 10:23:20](https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
 * [2026-01-11, 10:03:30](https://lobste.rs/s/weiyij/i_replaced_redis_with_postgresql_it_s) - [I Replaced Redis with PostgreSQL (And It's Faster)](https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942)
 * [2026-01-11, 07:59:28](https://lobste.rs/s/kc88fv/unique_performance_optimization_for_3d) - [A Unique Performance Optimization for a 3D Geometry Language](https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/)
