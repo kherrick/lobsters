@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_s_big_mistake) - [Anthropic's big mistake](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-12, 10:20:41](https://lobste.rs/s/oidyvo/frameworks_for_understanding_databases) - [frameworks for understanding databases](https://www.bitsxpages.com/p/frameworks-for-understanding-databases)
+* [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
 * [2026-01-12, 09:00:39](https://lobste.rs/s/jo4j8r/one_thousand_words) - [One Thousand Words](https://drewmayo.com/1000-words/index.html)
 * [2026-01-12, 07:19:33](https://lobste.rs/s/hhtuqh/three_inverse_laws_robotics) - [Three Inverse Laws of Robotics](https://susam.net/inverse-laws-of-robotics.html)
 * [2026-01-12, 07:11:35](https://lobste.rs/s/wwswgd/great_calculator_debate_educators) - [The great calculator debate: Educators disagree over their place in the classroom (1986)](https://www.csmonitor.com/1986/0509/dcalc-f.html)
