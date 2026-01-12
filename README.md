@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-12, 14:19:22](https://lobste.rs/s/tyyi9z/j_incunabulum) - [The J Incunabulum](https://tony-zorman.com/posts/j-incunabulum.html)
 * [2026-01-12, 13:19:17](https://lobste.rs/s/j9xv8v/we_rolled_our_own_documentation_site) - [we rolled our own documentation site](https://blog.tangled.org/docs)
 * [2026-01-12, 12:31:35](https://lobste.rs/s/hxzs2d/examining_iran_s_internet_status_amid) - [Examining Iran’s Internet Status Amid Escalating Protests](https://filter.watch/english/2026/01/09/network-monitoring-january-2026-internet-repression-in-times-of-protest/)
 * [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_blocks_third_party_tools_using) - [Anthropic blocks third-party tools using Claude Code OAuth tokens](https://archaeologist.dev/artifacts/anthropic)
+* [2026-01-12, 10:20:41](https://lobste.rs/s/oidyvo/frameworks_for_understanding_databases) - [frameworks for understanding databases](https://www.bitsxpages.com/p/frameworks-for-understanding-databases)
 * [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
 * [2026-01-12, 07:19:33](https://lobste.rs/s/hhtuqh/three_inverse_laws_robotics) - [Three Inverse Laws of Robotics](https://susam.net/inverse-laws-of-robotics.html)
 * [2026-01-12, 04:18:46](https://lobste.rs/s/jmbwp2/coolest_feature_python_3_14) - [The coolest feature in Python 3.14](https://savannah.dev/posts/the-coolest-feature-in-314/)
@@ -14,7 +16,6 @@
 * [2026-01-11, 20:38:37](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting) - [Who are people currently using as hosting providers?](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting)
 * [2026-01-11, 20:17:08](https://lobste.rs/s/kiryys/whatsapp_is_untrustable) - [WhatsApp is untrustable](https://toki.la/posts/whatsapp)
 * [2026-01-11, 19:33:42](https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy) - [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health)
-* [2026-01-11, 19:32:26](https://lobste.rs/s/1mjti7/1160_prs_improve_rust_2025) - [1160 PRs to improve Rust in 2025](https://kobzol.github.io/rust/rustc/2026/01/05/my-rust-contributions-in-2025.html)
 * [2026-01-11, 19:23:35](https://lobste.rs/s/8nwjov/llvm_bad_parts) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 * [2026-01-11, 18:03:37](https://lobste.rs/s/u6lchj/we_default_addition) - [We default to addition](https://www.ufried.com/blog/addition_bias/)
 * [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
@@ -24,7 +25,6 @@
 * [2026-01-11, 10:03:30](https://lobste.rs/s/weiyij/i_replaced_redis_with_postgresql_it_s) - [I Replaced Redis with PostgreSQL (And It's Faster)](https://dev.to/polliog/i-replaced-redis-with-postgresql-and-its-faster-4942)
 * [2026-01-11, 07:59:28](https://lobste.rs/s/kc88fv/unique_performance_optimization_for_3d) - [A Unique Performance Optimization for a 3D Geometry Language](https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/)
 * [2026-01-11, 07:28:52](https://lobste.rs/s/r1wjyf/80_rye_20_time_1_3) - [80% of Rye in 20% of the Time [1/3]](https://ryelang.org/blog/posts/learn_80_rye_in_20_time_code/)
-* [2026-01-10, 20:05:25](https://lobste.rs/s/vlzg2m/finding_fixing_ghostty_s_largest_memory) - [Finding and Fixing Ghostty's Largest Memory Leak](https://mitchellh.com/writing/ghostty-memory-leak-fix)
 
 ## [Archives](archives/index.md)
 
