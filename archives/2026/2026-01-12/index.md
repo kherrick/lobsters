@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 13:19:17](https://lobste.rs/s/j9xv8v/we_rolled_our_own_documentation_site) - [we rolled our own documentation site](https://blog.tangled.org/docs)
 * [2026-01-12, 12:31:35](https://lobste.rs/s/hxzs2d/examining_iran_s_internet_status_amid) - [Examining Iran’s Internet Status Amid Escalating Protests](https://filter.watch/english/2026/01/09/network-monitoring-january-2026-internet-repression-in-times-of-protest/)
 * [2026-01-12, 12:21:02](https://lobste.rs/s/nxt40e/friction_logs_2018) - [Friction Logs (2018)](https://thagomizer.com/blog/2018/08/22/friction-logs.html)
 * [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_s_big_mistake) - [Anthropic's big mistake](https://archaeologist.dev/artifacts/anthropic)
+* [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_blocks_third_party_tools_using) - [Anthropic blocks third-party tools using Claude Code OAuth tokens](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-12, 10:20:41](https://lobste.rs/s/oidyvo/frameworks_for_understanding_databases) - [frameworks for understanding databases](https://www.bitsxpages.com/p/frameworks-for-understanding-databases)
 * [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
 * [2026-01-12, 09:00:39](https://lobste.rs/s/jo4j8r/one_thousand_words) - [One Thousand Words](https://drewmayo.com/1000-words/index.html)
