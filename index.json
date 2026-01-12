@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-12, 04:06:23",
+      "https://lobste.rs/s/ypq8u0/typical_pdf"
+    ],
+    [
+      "A Typical PDF",
+      "https://hackerfactor.com/blog/index.php?/archives/1085-A-Typical-PDF.html"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 03:15:19",
       "https://lobste.rs/s/hibsvc/patela_v2_from_certificates_hardware"
     ],
@@ -157,16 +167,6 @@
     [
       "Asahi Linux - Porting Linux to Apple Silicon",
       "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 14:23:57",
-      "https://lobste.rs/s/gopuzu/std_move_doesn_t_move_anything_deep_dive"
-    ],
-    [
-      "std::move doesn't move anything: A deep dive into Value Categories",
-      "https://0xghost.dev/blog/std-move-deep-dive/"
     ]
   ],
   [
