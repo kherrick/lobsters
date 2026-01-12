@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 12:31:35](https://lobste.rs/s/hxzs2d/examining_iran_s_internet_status_amid) - [Examining Iran’s Internet Status Amid Escalating Protests](https://filter.watch/english/2026/01/09/network-monitoring-january-2026-internet-repression-in-times-of-protest/)
+* [2026-01-12, 12:21:02](https://lobste.rs/s/nxt40e/friction_logs_2018) - [Friction Logs (2018)](https://thagomizer.com/blog/2018/08/22/friction-logs.html)
 * [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_s_big_mistake) - [Anthropic's big mistake](https://archaeologist.dev/artifacts/anthropic)
 * [2026-01-12, 10:20:41](https://lobste.rs/s/oidyvo/frameworks_for_understanding_databases) - [frameworks for understanding databases](https://www.bitsxpages.com/p/frameworks-for-understanding-databases)
 * [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
