@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-12, 10:20:41",
-      "https://lobste.rs/s/oidyvo/frameworks_for_understanding_databases"
+      "2026-01-12, 11:04:44",
+      "https://lobste.rs/s/mhgog9/anthropic_s_big_mistake"
     ],
     [
-      "frameworks for understanding databases",
-      "https://www.bitsxpages.com/p/frameworks-for-understanding-databases"
+      "Anthropic's big mistake",
+      "https://archaeologist.dev/artifacts/anthropic"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 10:17:39",
+      "https://lobste.rs/s/b5dqak/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/b5dqak/what_are_you_doing_this_week"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Asahi Linux - Porting Linux to Apple Silicon",
       "https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 12:51:19",
-      "https://lobste.rs/s/k7xslg/pmu_counters_on_apple_silicon"
-    ],
-    [
-      "PMU Counters on Apple Silicon",
-      "https://blog.bugsiki.dev/posts/apple-pmu/"
     ]
   ],
   [
