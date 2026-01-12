@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-12, 02:26:05",
+      "https://lobste.rs/s/c3mrfr/large_feeds_rfc_5005"
+    ],
+    [
+      "Large feeds and RFC 5005",
+      "https://alexschroeder.ch/view/2025-09-10-large-feeds"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 01:56:34",
       "https://lobste.rs/s/prsi0f/rethinking_helix"
     ],
@@ -237,16 +247,6 @@
     [
       "Finding and Fixing Ghostty's Largest Memory Leak",
       "https://mitchellh.com/writing/ghostty-memory-leak-fix"
-    ]
-  ],
-  [
-    [
-      "2026-01-10, 18:44:45",
-      "https://lobste.rs/s/zi022d/jj_tug"
-    ],
-    [
-      "jj tug",
-      "https://shaddy.dev/notes/jj-tug/"
     ]
   ]
 ]
