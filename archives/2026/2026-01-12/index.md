@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 09:00:39](https://lobste.rs/s/jo4j8r/one_thousand_words) - [One Thousand Words](https://drewmayo.com/1000-words/index.html)
 * [2026-01-12, 07:19:33](https://lobste.rs/s/hhtuqh/three_inverse_laws_robotics) - [Three Inverse Laws of Robotics](https://susam.net/inverse-laws-of-robotics.html)
 * [2026-01-12, 07:11:35](https://lobste.rs/s/wwswgd/great_calculator_debate_educators) - [The great calculator debate: Educators disagree over their place in the classroom (1986)](https://www.csmonitor.com/1986/0509/dcalc-f.html)
 * [2026-01-12, 04:18:46](https://lobste.rs/s/jmbwp2/coolest_feature_python_3_14) - [The coolest feature in Python 3.14](https://savannah.dev/posts/the-coolest-feature-in-314/)
