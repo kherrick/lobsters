@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-12](index.md)
 
+* [2026-01-12, 21:50:59](https://lobste.rs/s/dropll/overview_ramp_s_internal_background) - [Overview of Ramp's internal background coding agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [2026-01-12, 20:15:19](https://lobste.rs/s/h5e24r/how_stick_with_your_projects_even_when) - [How to stick with your projects, even when they're janky](https://www.youtube.com/watch?v=Alfq8RG80Ns)
 * [2026-01-12, 18:57:41](https://lobste.rs/s/8qcrxm/building_scion_25_gbit_s_workstation) - [Building the SCION 25 Gbit/s Workstation](https://github.com/scionassociation/blog-25gbit-workstation)
 * [2026-01-12, 18:43:28](https://lobste.rs/s/wddfsw/building_high_end_ai_desktop) - [Building a High-End AI Desktop](https://dnhkng.github.io/posts/hopper/)

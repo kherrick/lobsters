@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-12, 21:50:59](https://lobste.rs/s/dropll/overview_ramp_s_internal_background) - [Overview of Ramp's internal background coding agent](https://builders.ramp.com/post/why-we-built-our-background-agent)
 * [2026-01-12, 20:15:19](https://lobste.rs/s/h5e24r/how_stick_with_your_projects_even_when) - [How to stick with your projects, even when they're janky](https://www.youtube.com/watch?v=Alfq8RG80Ns)
 * [2026-01-12, 18:57:41](https://lobste.rs/s/8qcrxm/building_scion_25_gbit_s_workstation) - [Building the SCION 25 Gbit/s Workstation](https://github.com/scionassociation/blog-25gbit-workstation)
 * [2026-01-12, 18:43:28](https://lobste.rs/s/wddfsw/building_high_end_ai_desktop) - [Building a High-End AI Desktop](https://dnhkng.github.io/posts/hopper/)
@@ -18,7 +19,6 @@
 * [2026-01-12, 01:56:34](https://lobste.rs/s/prsi0f/rethinking_helix) - [Rethinking Helix](https://asta.boserup.eu/forest/rethinking-helix/)
 * [2026-01-11, 23:47:34](https://lobste.rs/s/yvgfh8/struggle_resizing_windows_on_macos_tahoe) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 23:13:30](https://lobste.rs/s/ehtrmf/turntiles_nyt_style_word_game_i_made_for_my) - [Turntiles, an NYT style word game I made for my parents](https://github.com/wheybags/turntiles)
-* [2026-01-11, 21:29:18](https://lobste.rs/s/wcsrvd/mitigating_billion_dollar_mistake) - [Mitigating the Billion Dollar Mistake](https://www.gingerbill.org/article/2026/01/11/mitigating-the-billion-dollar-mistake/)
 * [2026-01-11, 20:38:37](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting) - [Who are people currently using as hosting providers?](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting)
 * [2026-01-11, 20:17:08](https://lobste.rs/s/kiryys/whatsapp_is_untrustable) - [WhatsApp is untrustable](https://toki.la/posts/whatsapp)
 * [2026-01-11, 19:33:42](https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy) - [Keeping 20,000 GPUs healthy](https://modal.com/blog/gpu-health)
