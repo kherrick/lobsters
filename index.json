@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-12, 18:43:28",
+      "https://lobste.rs/s/wddfsw/building_high_end_ai_desktop"
+    ],
+    [
+      "Building a High-End AI Desktop",
+      "https://dnhkng.github.io/posts/hopper/"
+    ]
+  ],
+  [
+    [
       "2026-01-12, 17:41:52",
       "https://lobste.rs/s/atz78i/text_based_web_browsers"
     ],
@@ -237,16 +247,6 @@
     [
       "Don't fall into the anti-AI hype",
       "https://antirez.com/news/158"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 07:59:28",
-      "https://lobste.rs/s/kc88fv/unique_performance_optimization_for_3d"
-    ],
-    [
-      "A Unique Performance Optimization for a 3D Geometry Language",
-      "https://cprimozic.net/notes/posts/persistent-expr-memo-optimization-for-geoscript/"
     ]
   ]
 ]
