@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-13, 10:14:59",
+      "https://lobste.rs/s/zkvvo9/hidden_cost_postgresql_arrays"
+    ],
+    [
+      "The hidden cost of PostgreSQL arrays",
+      "https://boringsql.com/posts/good-bad-arrays/"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 09:31:45",
       "https://lobste.rs/s/ui99tz/date_is_out_temporal_is"
     ],
@@ -207,16 +217,6 @@
     [
       "The struggle of resizing windows on macOS Tahoe",
       "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 20:38:37",
-      "https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting"
-    ],
-    [
-      "Who are people currently using as hosting providers?",
-      "https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting"
     ]
   ],
   [
