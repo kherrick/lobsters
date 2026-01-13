@@ -1,11 +1,31 @@
 [
   [
     [
+      "2026-01-13, 18:30:59",
+      "https://lobste.rs/s/flirvs/server_first_web_component_architecture"
+    ],
+    [
+      "Server-First Web Component Architecture: SXO + Reactive Component",
+      "https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p"
+    ]
+  ],
+  [
+    [
+      "2026-01-13, 18:29:44",
+      "https://lobste.rs/s/oiksow/ever_wanted_look_at_yourself_braille"
+    ],
+    [
+      "Ever wanted to look at yourself... in Braille?",
+      "https://github.com/nishantJoshi00/dith"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 17:09:26",
       "https://lobste.rs/s/zymqza/forklifts_facts_functions_building"
     ],
     [
-      "Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic - Pote",
+      "Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic",
       "https://www.youtube.com/watch?v=NV02r1Y1B-8"
     ]
   ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-01-12, 18:43:28",
-      "https://lobste.rs/s/wddfsw/building_high_end_ai_desktop"
-    ],
-    [
-      "Building a High-End AI Desktop",
-      "https://dnhkng.github.io/posts/hopper/"
-    ]
-  ],
-  [
-    [
       "2026-01-12, 17:41:52",
       "https://lobste.rs/s/atz78i/text_based_web_browsers"
     ],
@@ -237,16 +247,6 @@
     [
       "The struggle of resizing windows on macOS Tahoe",
       "https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 20:17:08",
-      "https://lobste.rs/s/kiryys/whatsapp_is_untrustable"
-    ],
-    [
-      "WhatsApp is untrustable",
-      "https://toki.la/posts/whatsapp"
     ]
   ]
 ]
