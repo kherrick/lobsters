@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 11:38:59](https://lobste.rs/s/5ttvyj/more_assorted_notes_on_liquid_glass_2025) - [More assorted notes on Liquid Glass (2025)](https://morrick.me/archives/10068)
 * [2026-01-13, 10:14:59](https://lobste.rs/s/zkvvo9/hidden_cost_postgresql_arrays) - [The hidden cost of PostgreSQL arrays](https://boringsql.com/posts/good-bad-arrays/)
 * [2026-01-13, 09:31:45](https://lobste.rs/s/ui99tz/date_is_out_temporal_is) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
 * [2026-01-13, 08:47:47](https://lobste.rs/s/2q9tel/state_datahaskell_q1_2026) - [State of DataHaskell Q1 2026](https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html)
