@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-13, 05:03:35](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what) - [Your CLI's completion should know what options you've already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion)
 * [2026-01-13, 02:19:16](https://lobste.rs/s/n8cqal/remarks_on_sframe) - [Remarks on SFrame](https://maskray.me/blog/2025-09-28-remarks-on-sframe)
 * [2026-01-13, 00:19:34](https://lobste.rs/s/o0lw2d/grounding_llms_with_recursive_code) - [Grounding LLMs with Recursive Code Execution](https://yogthos.net/posts/2026-01-12-recursive-language-model.html)
 * [2026-01-12, 20:15:19](https://lobste.rs/s/h5e24r/how_stick_with_your_projects_even_when) - [How to stick with your projects, even when they're janky](https://www.youtube.com/watch?v=Alfq8RG80Ns)
@@ -23,7 +24,6 @@
 * [2026-01-11, 20:38:37](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting) - [Who are people currently using as hosting providers?](https://lobste.rs/s/hcpnrj/who_are_people_currently_using_as_hosting)
 * [2026-01-11, 20:17:08](https://lobste.rs/s/kiryys/whatsapp_is_untrustable) - [WhatsApp is untrustable](https://toki.la/posts/whatsapp)
 * [2026-01-11, 19:23:35](https://lobste.rs/s/8nwjov/llvm_bad_parts) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
-* [2026-01-11, 15:05:25](https://lobste.rs/s/jbrnz8/asahi_linux_porting_linux_apple_silicon) - [Asahi Linux - Porting Linux to Apple Silicon](https://media.ccc.de/v/39c3-asahi-linux-porting-linux-to-apple-silicon)
 * [2026-01-11, 10:23:20](https://lobste.rs/s/cmsfbu/don_t_fall_into_anti_ai_hype) - [Don't fall into the anti-AI hype](https://antirez.com/news/158)
 
 ## [Archives](archives/index.md)
