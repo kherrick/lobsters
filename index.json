@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-13, 17:09:26",
+      "https://lobste.rs/s/zymqza/forklifts_facts_functions_building"
+    ],
+    [
+      "Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic - Pote",
+      "https://www.youtube.com/watch?v=NV02r1Y1B-8"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 16:51:10",
       "https://lobste.rs/s/njh5jz/i_made_typescript_native_code_compiler"
     ],
@@ -127,16 +137,6 @@
     [
       "State of DataHaskell Q1 2026",
       "https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 08:19:36",
-      "https://lobste.rs/s/dvcaun/how_github_could_secure_npm"
-    ],
-    [
-      "How GitHub could secure npm",
-      "https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/"
     ]
   ],
   [
