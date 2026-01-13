@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-13, 08:19:36](https://lobste.rs/s/dvcaun/how_github_could_secure_npm) - [How GitHub could secure npm](https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/)
 * [2026-01-13, 06:09:55](https://lobste.rs/s/qk9tqb/detecting_mime_types_go) - [Detecting MIME Types in Go](https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/)
 * [2026-01-13, 05:03:35](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what) - [Your CLI's completion should know what options you've already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion)
 * [2026-01-13, 02:19:16](https://lobste.rs/s/n8cqal/remarks_on_sframe) - [Remarks on SFrame](https://maskray.me/blog/2025-09-28-remarks-on-sframe)
@@ -17,7 +18,6 @@
 * [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
 * [2026-01-12, 07:19:33](https://lobste.rs/s/hhtuqh/three_inverse_laws_robotics) - [Three Inverse Laws of Robotics](https://susam.net/inverse-laws-of-robotics.html)
 * [2026-01-12, 04:18:46](https://lobste.rs/s/jmbwp2/coolest_feature_python_3_14) - [The coolest feature in Python 3.14](https://savannah.dev/posts/the-coolest-feature-in-314/)
-* [2026-01-12, 04:06:23](https://lobste.rs/s/ypq8u0/typical_pdf) - [A Typical PDF](https://hackerfactor.com/blog/index.php?/archives/1085-A-Typical-PDF.html)
 * [2026-01-12, 01:56:34](https://lobste.rs/s/prsi0f/rethinking_helix) - [Rethinking Helix](https://asta.boserup.eu/forest/rethinking-helix/)
 * [2026-01-11, 23:47:34](https://lobste.rs/s/yvgfh8/struggle_resizing_windows_on_macos_tahoe) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 23:13:30](https://lobste.rs/s/ehtrmf/turntiles_nyt_style_word_game_i_made_for_my) - [Turntiles, an NYT style word game I made for my parents](https://github.com/wheybags/turntiles)
