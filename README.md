@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-13, 21:53:41](https://lobste.rs/s/gv8v8s/small_kafka_tansu_sqlite_on_free_t3_micro) - [Small Kafka: Tansu + SQLite on a free t3.micro (AWS Free Tier)](https://blog.tansu.io/articles/broker-aws-free-tier)
+* [2026-01-13, 21:46:21](https://lobste.rs/s/k5yvju/bevy_0_18) - [Bevy 0.18](https://bevy.org/news/bevy-0-18/)
 * [2026-01-13, 21:13:19](https://lobste.rs/s/pwj9ue/truffleruby_33_is_released) - [TruffleRuby 33 is Released](https://truffleruby.dev/blog/truffleruby-33-is-released)
 * [2026-01-13, 18:30:59](https://lobste.rs/s/flirvs/server_first_web_component_architecture) - [Server-First Web Component Architecture: SXO + Reactive Component](https://dev.to/gc-victor/the-server-first-web-component-architecture-sxo-reactive-components-n4p)
 * [2026-01-13, 17:09:26](https://lobste.rs/s/zymqza/forklifts_facts_functions_building) - [Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic](https://www.youtube.com/watch?v=NV02r1Y1B-8)
