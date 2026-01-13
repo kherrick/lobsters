@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 09:31:45](https://lobste.rs/s/ui99tz/date_is_out_temporal_is) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
 * [2026-01-13, 08:47:47](https://lobste.rs/s/2q9tel/state_datahaskell_q1_2026) - [State of DataHaskell Q1 2026](https://datahaskell.org/blog/2026/01/12/state-of-datahaskell-q1-2026.html)
 * [2026-01-13, 08:19:36](https://lobste.rs/s/dvcaun/how_github_could_secure_npm) - [How GitHub could secure npm](https://humanwhocodes.com/blog/2026/01/how-github-could-secure-npm/)
 * [2026-01-13, 06:09:55](https://lobste.rs/s/qk9tqb/detecting_mime_types_go) - [Detecting MIME Types in Go](https://rnemeth90.github.io/posts/2024-03-27-golang-detect-file-type/)
