@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-01-13, 02:19:16",
+      "https://lobste.rs/s/n8cqal/remarks_on_sframe"
+    ],
+    [
+      "Remarks on SFrame",
+      "https://maskray.me/blog/2025-09-28-remarks-on-sframe"
+    ]
+  ],
+  [
+    [
       "2026-01-13, 00:19:34",
       "https://lobste.rs/s/o0lw2d/grounding_llms_with_recursive_code"
     ],
     [
       "Grounding LLMs with Recursive Code Execution",
       "https://yogthos.net/posts/2026-01-12-recursive-language-model.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-12, 21:50:59",
-      "https://lobste.rs/s/dropll/overview_ramp_s_internal_background"
-    ],
-    [
-      "Overview of Ramp's internal background coding agent",
-      "https://builders.ramp.com/post/why-we-built-our-background-agent"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Building the SCION 25 Gbit/s Workstation",
       "https://github.com/scionassociation/blog-25gbit-workstation"
+    ]
+  ],
+  [
+    [
+      "2026-01-12, 18:43:28",
+      "https://lobste.rs/s/wddfsw/building_high_end_ai_desktop"
+    ],
+    [
+      "Building a High-End AI Desktop",
+      "https://dnhkng.github.io/posts/hopper/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "WhatsApp is untrustable",
       "https://toki.la/posts/whatsapp"
-    ]
-  ],
-  [
-    [
-      "2026-01-11, 19:33:42",
-      "https://lobste.rs/s/aevhq8/keeping_20_000_gpus_healthy"
-    ],
-    [
-      "Keeping 20,000 GPUs healthy",
-      "https://modal.com/blog/gpu-health"
     ]
   ],
   [
