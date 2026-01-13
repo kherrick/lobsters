@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 13:47:21](https://lobste.rs/s/pk3rnu/solving_factorio_with_terraform_youtube) - [Solving Factorio with Terraform - YouTube](https://www.youtube.com/watch?v=uU06vKlCNXk)
+* [2026-01-13, 13:42:52](https://lobste.rs/s/07xsx9/hybrid_quota_linear_rate_limiter) - [hybrid quota-linear rate limiter](https://dotat.at/@/2026-01-12-hqlr.html)
 * [2026-01-13, 12:55:31](https://lobste.rs/s/bufy06/win8de_windows_8_like_de_for_linux) - [Win8DE: windows 8 like de for linux](https://github.com/er-bharat/Win8DE)
 * [2026-01-13, 12:29:27](https://lobste.rs/s/qgfhc3/hitex_press_spam_factory_for_ai_generated) - [HiTeX Press: A spam factory for AI-generated books](https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books)
 * [2026-01-13, 11:38:59](https://lobste.rs/s/5ttvyj/more_assorted_notes_on_liquid_glass_2025) - [More assorted notes on Liquid Glass (2025)](https://morrick.me/archives/10068)

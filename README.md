@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-13, 13:47:21](https://lobste.rs/s/pk3rnu/solving_factorio_with_terraform_youtube) - [Solving Factorio with Terraform - YouTube](https://www.youtube.com/watch?v=uU06vKlCNXk)
+* [2026-01-13, 13:42:52](https://lobste.rs/s/07xsx9/hybrid_quota_linear_rate_limiter) - [hybrid quota-linear rate limiter](https://dotat.at/@/2026-01-12-hqlr.html)
 * [2026-01-13, 12:55:31](https://lobste.rs/s/bufy06/win8de_windows_8_like_de_for_linux) - [Win8DE: windows 8 like de for linux](https://github.com/er-bharat/Win8DE)
 * [2026-01-13, 12:29:27](https://lobste.rs/s/qgfhc3/hitex_press_spam_factory_for_ai_generated) - [HiTeX Press: A spam factory for AI-generated books](https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books)
 * [2026-01-13, 11:38:59](https://lobste.rs/s/5ttvyj/more_assorted_notes_on_liquid_glass_2025) - [More assorted notes on Liquid Glass (2025)](https://morrick.me/archives/10068)
@@ -19,12 +21,10 @@
 * [2026-01-12, 13:19:17](https://lobste.rs/s/j9xv8v/we_rolled_our_own_documentation_site) - [we rolled our own documentation site](https://blog.tangled.org/docs)
 * [2026-01-12, 12:41:07](https://lobste.rs/s/r4wccr/rise_future_fall_discord_2024) - [The rise (and future fall) of Discord (2024)](https://slugcat.systems/post/24-12-12-the-rise-and-future-fall-of-discord/)
 * [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_blocks_third_party_tools_using) - [Anthropic blocks third-party tools using Claude Code OAuth tokens](https://archaeologist.dev/artifacts/anthropic)
-* [2026-01-12, 10:17:39](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/b5dqak/what_are_you_doing_this_week)
 * [2026-01-12, 07:19:33](https://lobste.rs/s/hhtuqh/three_inverse_laws_robotics) - [Three Inverse Laws of Robotics](https://susam.net/inverse-laws-of-robotics.html)
 * [2026-01-12, 01:56:34](https://lobste.rs/s/prsi0f/rethinking_helix) - [Rethinking Helix](https://asta.boserup.eu/forest/rethinking-helix/)
 * [2026-01-11, 23:47:34](https://lobste.rs/s/yvgfh8/struggle_resizing_windows_on_macos_tahoe) - [The struggle of resizing windows on macOS Tahoe](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 * [2026-01-11, 20:17:08](https://lobste.rs/s/kiryys/whatsapp_is_untrustable) - [WhatsApp is untrustable](https://toki.la/posts/whatsapp)
-* [2026-01-11, 19:23:35](https://lobste.rs/s/8nwjov/llvm_bad_parts) - [LLVM: The bad parts](https://www.npopov.com/2026/01/11/LLVM-The-bad-parts.html)
 
 ## [Archives](archives/index.md)
 
