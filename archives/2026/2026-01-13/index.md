@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 14:22:40](https://lobste.rs/s/svclo4/volumetric_cloud_rendering_jack) - [Volumetric Cloud Rendering - Jack Tollenaar](https://www.jacktollenaar.top/articles/clouds.html)
+* [2026-01-13, 14:22:31](https://lobste.rs/s/xvirlc/rethinking_geolocation_on_internet) - [Rethinking Geolocation on the Internet](https://pulse.internetsociety.org/blog/rethinking-geolocation-on-the-internet)
 * [2026-01-13, 13:47:21](https://lobste.rs/s/pk3rnu/solving_factorio_with_terraform_youtube) - [Solving Factorio with Terraform - YouTube](https://www.youtube.com/watch?v=uU06vKlCNXk)
 * [2026-01-13, 13:42:52](https://lobste.rs/s/07xsx9/hybrid_quota_linear_rate_limiter) - [hybrid quota-linear rate limiter](https://dotat.at/@/2026-01-12-hqlr.html)
 * [2026-01-13, 12:55:31](https://lobste.rs/s/bufy06/win8de_windows_8_like_de_for_linux) - [Win8DE: windows 8 like de for linux](https://github.com/er-bharat/Win8DE)
