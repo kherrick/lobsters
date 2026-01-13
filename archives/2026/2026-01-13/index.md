@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-13](index.md)
 
+* [2026-01-13, 12:55:31](https://lobste.rs/s/bufy06/win8de_windows_8_like_de_for_linux) - [Win8DE: windows 8 like de for linux](https://github.com/er-bharat/Win8DE)
+* [2026-01-13, 12:29:27](https://lobste.rs/s/qgfhc3/hitex_press_spam_factory_for_ai_generated) - [HiTeX Press: A spam factory for AI-generated books](https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books)
 * [2026-01-13, 11:38:59](https://lobste.rs/s/5ttvyj/more_assorted_notes_on_liquid_glass_2025) - [More assorted notes on Liquid Glass (2025)](https://morrick.me/archives/10068)
 * [2026-01-13, 10:14:59](https://lobste.rs/s/zkvvo9/hidden_cost_postgresql_arrays) - [The hidden cost of PostgreSQL arrays](https://boringsql.com/posts/good-bad-arrays/)
 * [2026-01-13, 09:31:45](https://lobste.rs/s/ui99tz/date_is_out_temporal_is) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
