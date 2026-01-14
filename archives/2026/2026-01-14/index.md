@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 07:15:15](https://lobste.rs/s/pqtwqn/voidlink_cloud_native_malware_framework) - [VoidLink: The Cloud-Native Malware Framework Weaponizing Linux Infrastructure](https://blog.checkpoint.com/research/voidlink-the-cloud-native-malware-framework-weaponizing-linux-infrastructure/)
 * [2026-01-14, 06:10:18](https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai) - [Why We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-14, 03:47:56](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020) - [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
