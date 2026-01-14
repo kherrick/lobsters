@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-14, 03:47:56](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020) - [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
 * [2026-01-14, 02:42:41](https://lobste.rs/s/cgzwem/how_40_line_fix_eliminated_400x) - [How a 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 * [2026-01-14, 02:28:57](https://lobste.rs/s/7eokzy/stop_using_natural_language_interfaces) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
@@ -12,7 +13,6 @@
 * [2026-01-13, 16:24:44](https://lobste.rs/s/3bhiap/signal_creator_moxie_marlinspike_wants) - [Signal creator Moxie Marlinspike wants to do for AI what he did for messaging](https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/)
 * [2026-01-13, 16:23:31](https://lobste.rs/s/sfhgtx/cathedral_megachurch_bazaar) - [The Cathedral, the Megachurch, and the Bazaar](https://opensourcesecurity.io/2026/01-cathedral-megachurch-bazaar/)
 * [2026-01-13, 15:38:45](https://lobste.rs/s/6skrep/ai_coding_assistants_are_getting_worse) - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
-* [2026-01-13, 14:22:40](https://lobste.rs/s/svclo4/volumetric_cloud_rendering) - [Volumetric Cloud Rendering](https://www.jacktollenaar.top/articles/clouds.html)
 * [2026-01-13, 13:47:21](https://lobste.rs/s/pk3rnu/solving_factorio_with_terraform) - [Solving Factorio with Terraform](https://www.youtube.com/watch?v=uU06vKlCNXk)
 * [2026-01-13, 13:42:52](https://lobste.rs/s/07xsx9/hybrid_quota_linear_rate_limiter) - [hybrid quota-linear rate limiter](https://dotat.at/@/2026-01-12-hqlr.html)
 * [2026-01-13, 12:55:31](https://lobste.rs/s/bufy06/win8de_windows_8_like_de_for_linux) - [Win8DE: windows 8 like de for linux](https://github.com/er-bharat/Win8DE)
