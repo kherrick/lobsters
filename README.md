@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-14, 00:34:48](https://lobste.rs/s/clc84v/i_m_happy_engineer_now) - [I'm a Happy engineer now](https://blog.denv.it/posts/im-happy-engineer-now/)
 * [2026-01-13, 21:53:41](https://lobste.rs/s/gv8v8s/small_kafka_tansu_sqlite_on_free_t3_micro) - [Small Kafka: Tansu + SQLite on a free t3.micro (AWS Free Tier)](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-13, 21:46:21](https://lobste.rs/s/k5yvju/bevy_0_18) - [Bevy 0.18](https://bevy.org/news/bevy-0-18/)
 * [2026-01-13, 21:13:19](https://lobste.rs/s/pwj9ue/truffleruby_33_is_released) - [TruffleRuby 33 is Released](https://truffleruby.dev/blog/truffleruby-33-is-released)
@@ -24,7 +25,6 @@
 * [2026-01-12, 17:17:35](https://lobste.rs/s/ygqmfr/bad_dye_job) - [Bad Dye Job](https://daringfireball.net/2025/12/bad_dye_job)
 * [2026-01-12, 14:04:57](https://lobste.rs/s/70isfv/how_make_damn_website) - [How to Make a Damn Website](https://lmnt.me/blog/how-to-make-a-damn-website.html)
 * [2026-01-12, 13:19:17](https://lobste.rs/s/j9xv8v/we_rolled_our_own_documentation_site) - [we rolled our own documentation site](https://blog.tangled.org/docs)
-* [2026-01-12, 11:04:44](https://lobste.rs/s/mhgog9/anthropic_blocks_third_party_tools_using) - [Anthropic blocks third-party tools using Claude Code OAuth tokens](https://archaeologist.dev/artifacts/anthropic)
 
 ## [Archives](archives/index.md)
 

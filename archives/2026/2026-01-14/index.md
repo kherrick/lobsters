@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-01-14](index.md)
+
+* [2026-01-14, 00:34:48](https://lobste.rs/s/clc84v/i_m_happy_engineer_now) - [I'm a Happy engineer now](https://blog.denv.it/posts/im-happy-engineer-now/)
