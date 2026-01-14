@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-14, 20:52:21",
+      "https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix"
+    ],
+    [
+      "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
+      "https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 19:31:57",
       "https://lobste.rs/s/mj7k0s/coding_on_phone_what_i_learned_building"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2026-01-14, 19:12:28",
-      "https://lobste.rs/s/esgrcq/why_language_interpreters_virtual"
+      "2026-01-14, 19:04:52",
+      "https://lobste.rs/s/pxaxqn/my_gripes_with_prolog"
     ],
     [
-      "Why language interpreters and virtual machines are slow",
-      "https://mortoray.com/why-language-interpreters-are-slow/"
+      "My Gripes with Prolog",
+      "https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Just the Browser",
       "https://justthebrowser.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 07:15:15",
-      "https://lobste.rs/s/pqtwqn/voidlink_cloud_native_malware_framework"
-    ],
-    [
-      "VoidLink: The Cloud-Native Malware Framework Weaponizing Linux Infrastructure",
-      "https://blog.checkpoint.com/research/voidlink-the-cloud-native-malware-framework-weaponizing-linux-infrastructure/"
     ]
   ],
   [
