@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 19:16:11](https://lobste.rs/s/jluhmx/chat_is_least_interesting_interface_llms) - [Chat is the least interesting interface to LLMs](https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html)
+* [2026-01-14, 19:04:52](https://lobste.rs/s/pxaxqn/my_gripes_with_prolog) - [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
 * [2026-01-14, 15:57:00](https://lobste.rs/s/wh52mr/scrollbars_scrollbars) - [Scrollbars in Scrollbars](https://matoseb.com/scrollbars-scrollbars/)
 * [2026-01-14, 15:56:06](https://lobste.rs/s/ytheao/permission_begin_learning) - [permission to begin learning](https://ficd.sh/blog/permission-to-begin-learning/)
 * [2026-01-14, 15:44:42](https://lobste.rs/s/yxg4xt/verifying_state_reconciliation) - [Verifying State & Reconciliation in Collaborative Web Apps](https://midspiral.com/blog/verifying-state-reconciliation-in-collaborative-web-apps/)
