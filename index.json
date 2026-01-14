@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-14, 10:57:54",
+      "https://lobste.rs/s/j2e4em/black_white_array_new_data_structure_for"
+    ],
+    [
+      "Black-White Array: A New Data Structure for Dynamic Data Sets",
+      "https://arxiv.org/abs/2004.09051"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 10:34:16",
       "https://lobste.rs/s/oxlocc/how_build_good_software"
     ],
@@ -107,16 +117,6 @@
     [
       "TruffleRuby 33 is Released",
       "https://truffleruby.dev/blog/truffleruby-33-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 17:09:26",
-      "https://lobste.rs/s/zymqza/forklifts_facts_functions_building"
-    ],
-    [
-      "Forklifts, Facts, and Functions: Building a Warehouse Management System with Clojure+Datomic",
-      "https://www.youtube.com/watch?v=NV02r1Y1B-8"
     ]
   ],
   [
