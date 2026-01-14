@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-14, 19:16:11](https://lobste.rs/s/jluhmx/chat_is_least_interesting_interface_llms) - [Chat is the least interesting interface to LLMs](https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html)
+* [2026-01-14, 19:12:28](https://lobste.rs/s/esgrcq/why_language_interpreters_virtual) - [Why language interpreters and virtual machines are slow](https://mortoray.com/why-language-interpreters-are-slow/)
 * [2026-01-14, 19:04:52](https://lobste.rs/s/pxaxqn/my_gripes_with_prolog) - [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
 * [2026-01-14, 15:57:00](https://lobste.rs/s/wh52mr/scrollbars_scrollbars) - [Scrollbars in Scrollbars](https://matoseb.com/scrollbars-scrollbars/)
 * [2026-01-14, 15:44:42](https://lobste.rs/s/yxg4xt/verifying_state_reconciliation) - [Verifying State & Reconciliation in Collaborative Web Apps](https://midspiral.com/blog/verifying-state-reconciliation-in-collaborative-web-apps/)
@@ -18,7 +19,6 @@
 * [2026-01-14, 03:47:56](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020) - [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
 * [2026-01-14, 02:42:41](https://lobste.rs/s/cgzwem/how_40_line_fix_eliminated_400x) - [How a 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
-* [2026-01-14, 02:28:57](https://lobste.rs/s/7eokzy/stop_using_natural_language_interfaces) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
 * [2026-01-13, 21:46:21](https://lobste.rs/s/k5yvju/bevy_0_18) - [Bevy 0.18](https://bevy.org/news/bevy-0-18/)
 * [2026-01-13, 21:13:19](https://lobste.rs/s/pwj9ue/truffleruby_33_is_released) - [TruffleRuby 33 is Released](https://truffleruby.dev/blog/truffleruby-33-is-released)
 * [2026-01-13, 16:28:04](https://lobste.rs/s/mb07nn/anthropic_invests_1_5_million_python) - [Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html)
