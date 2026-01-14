@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 20:52:21](https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix) - [SelfCI - a minimalistic local-first Unix-philosophy-abiding CI](https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU)
 * [2026-01-14, 19:31:57](https://lobste.rs/s/mj7k0s/coding_on_phone_what_i_learned_building) - [Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks](https://rahulpandita.me/blog/2026-01-14-Mobile-Development)
 * [2026-01-14, 19:16:11](https://lobste.rs/s/jluhmx/chat_is_least_interesting_interface_llms) - [Chat is the least interesting interface to LLMs](https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html)
 * [2026-01-14, 19:12:28](https://lobste.rs/s/esgrcq/why_language_interpreters_virtual) - [Why language interpreters and virtual machines are slow](https://mortoray.com/why-language-interpreters-are-slow/)

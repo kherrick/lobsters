@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-14, 20:52:21](https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix) - [SelfCI - a minimalistic local-first Unix-philosophy-abiding CI](https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU)
 * [2026-01-14, 19:31:57](https://lobste.rs/s/mj7k0s/coding_on_phone_what_i_learned_building) - [Coding on a Phone: What I Learned Building Software on Mobile in the Last Three Weeks](https://rahulpandita.me/blog/2026-01-14-Mobile-Development)
 * [2026-01-14, 19:16:11](https://lobste.rs/s/jluhmx/chat_is_least_interesting_interface_llms) - [Chat is the least interesting interface to LLMs](https://www.haskellforall.com/2026/01/chat-is-least-interesting-interface-to.html)
-* [2026-01-14, 19:12:28](https://lobste.rs/s/esgrcq/why_language_interpreters_virtual) - [Why language interpreters and virtual machines are slow](https://mortoray.com/why-language-interpreters-are-slow/)
+* [2026-01-14, 19:04:52](https://lobste.rs/s/pxaxqn/my_gripes_with_prolog) - [My Gripes with Prolog](https://buttondown.com/hillelwayne/archive/my-gripes-with-prolog/)
 * [2026-01-14, 15:57:00](https://lobste.rs/s/wh52mr/scrollbars_scrollbars) - [Scrollbars in Scrollbars](https://matoseb.com/scrollbars-scrollbars/)
 * [2026-01-14, 15:44:42](https://lobste.rs/s/yxg4xt/verifying_state_reconciliation) - [Verifying State & Reconciliation in Collaborative Web Apps](https://midspiral.com/blog/verifying-state-reconciliation-in-collaborative-web-apps/)
 * [2026-01-14, 15:19:12](https://lobste.rs/s/ixqdco/artificial_stupidintelligence_airport) - [Artificial StupidIntelligence and Airport Sinks](https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/)
@@ -14,7 +15,6 @@
 * [2026-01-14, 10:57:54](https://lobste.rs/s/j2e4em/black_white_array_new_data_structure_for) - [Black-White Array: A New Data Structure for Dynamic Data Sets](https://arxiv.org/abs/2004.09051)
 * [2026-01-14, 10:34:16](https://lobste.rs/s/oxlocc/how_build_good_software) - [How to Build Good Software](https://knowledge.csc.gov.sg/ethos-issue-21/how-to-build-good-software/)
 * [2026-01-14, 08:10:28](https://lobste.rs/s/knwdud/just_browser) - [Just the Browser](https://justthebrowser.com/)
-* [2026-01-14, 07:15:15](https://lobste.rs/s/pqtwqn/voidlink_cloud_native_malware_framework) - [VoidLink: The Cloud-Native Malware Framework Weaponizing Linux Infrastructure](https://blog.checkpoint.com/research/voidlink-the-cloud-native-malware-framework-weaponizing-linux-infrastructure/)
 * [2026-01-14, 06:10:18](https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai) - [Why We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-14, 03:47:56](https://lobste.rs/s/ummoom/build_your_own_programming_language_2020) - [Build your own programming language (2020)](https://thesephist.com/posts/pl/)
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
