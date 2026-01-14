@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-14, 15:04:31",
+      "https://lobste.rs/s/dtzmta/keeping_bandcamp_human"
+    ],
+    [
+      "Keeping Bandcamp Human",
+      "https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 14:44:28",
       "https://lobste.rs/s/vnkwyb/my_opinion_on_spelling_run_time_vs_run_time"
     ],
     [
       "My Opinion on Spelling Run Time vs. Run-time vs. Runtime",
       "https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 14:11:16",
+      "https://lobste.rs/s/9jc8z9/from_passwords_passkeys"
+    ],
+    [
+      "From passwords to passkeys",
+      "https://ssg.dev/from-passwords-to-passkeys/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-13, 21:53:41",
-      "https://lobste.rs/s/gv8v8s/small_kafka_tansu_sqlite_on_free_t3_micro"
-    ],
-    [
-      "Small Kafka: Tansu + SQLite on a free t3.micro (AWS Free Tier)",
-      "https://blog.tansu.io/articles/broker-aws-free-tier"
-    ]
-  ],
-  [
-    [
       "2026-01-13, 21:46:21",
       "https://lobste.rs/s/k5yvju/bevy_0_18"
     ],
@@ -217,16 +227,6 @@
     [
       "More assorted notes on Liquid Glass (2025)",
       "https://morrick.me/archives/10068"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 10:14:59",
-      "https://lobste.rs/s/zkvvo9/hidden_cost_postgresql_arrays"
-    ],
-    [
-      "The hidden cost of PostgreSQL arrays",
-      "https://boringsql.com/posts/good-bad-arrays/"
     ]
   ],
   [
