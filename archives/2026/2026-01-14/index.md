@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-14](index.md)
 
+* [2026-01-14, 15:04:31](https://lobste.rs/s/dtzmta/keeping_bandcamp_human) - [Keeping Bandcamp Human](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/)
 * [2026-01-14, 14:44:28](https://lobste.rs/s/vnkwyb/my_opinion_on_spelling_run_time_vs_run_time) - [My Opinion on Spelling Run Time vs. Run-time vs. Runtime](https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/)
+* [2026-01-14, 14:11:16](https://lobste.rs/s/9jc8z9/from_passwords_passkeys) - [From passwords to passkeys](https://ssg.dev/from-passwords-to-passkeys/)
 * [2026-01-14, 12:14:57](https://lobste.rs/s/gz3qlq/node_js_mitigating_denial_service) - [Node.js — Mitigating Denial-of-Service Vulnerability from Unrecoverable Stack Space Exhaustion for React, Next.js, and APM Users](https://nodejs.org/en/blog/vulnerability/january-2026-dos-mitigation-async-hooks)
 * [2026-01-14, 12:12:39](https://lobste.rs/s/6vnavr/servo_2025_stats) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
 * [2026-01-14, 11:54:54](https://lobste.rs/s/wyvqyq/interactive_ebpf_playground) - [Interactive eBPF playground](https://ebpf.party)

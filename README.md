@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-14, 15:04:31](https://lobste.rs/s/dtzmta/keeping_bandcamp_human) - [Keeping Bandcamp Human](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/)
 * [2026-01-14, 14:44:28](https://lobste.rs/s/vnkwyb/my_opinion_on_spelling_run_time_vs_run_time) - [My Opinion on Spelling Run Time vs. Run-time vs. Runtime](https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/)
+* [2026-01-14, 14:11:16](https://lobste.rs/s/9jc8z9/from_passwords_passkeys) - [From passwords to passkeys](https://ssg.dev/from-passwords-to-passkeys/)
 * [2026-01-14, 12:12:39](https://lobste.rs/s/6vnavr/servo_2025_stats) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
 * [2026-01-14, 11:54:54](https://lobste.rs/s/wyvqyq/interactive_ebpf_playground) - [Interactive eBPF playground](https://ebpf.party)
 * [2026-01-14, 11:25:11](https://lobste.rs/s/cydp2t/porting_minijinja_go_with_agent) - [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/)
@@ -13,7 +15,6 @@
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
 * [2026-01-14, 02:42:41](https://lobste.rs/s/cgzwem/how_40_line_fix_eliminated_400x) - [How a 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 * [2026-01-14, 02:28:57](https://lobste.rs/s/7eokzy/stop_using_natural_language_interfaces) - [Stop using natural language interfaces](https://tidepool.leaflet.pub/3mcbegnuf2k2i)
-* [2026-01-13, 21:53:41](https://lobste.rs/s/gv8v8s/small_kafka_tansu_sqlite_on_free_t3_micro) - [Small Kafka: Tansu + SQLite on a free t3.micro (AWS Free Tier)](https://blog.tansu.io/articles/broker-aws-free-tier)
 * [2026-01-13, 21:46:21](https://lobste.rs/s/k5yvju/bevy_0_18) - [Bevy 0.18](https://bevy.org/news/bevy-0-18/)
 * [2026-01-13, 21:13:19](https://lobste.rs/s/pwj9ue/truffleruby_33_is_released) - [TruffleRuby 33 is Released](https://truffleruby.dev/blog/truffleruby-33-is-released)
 * [2026-01-13, 16:28:04](https://lobste.rs/s/mb07nn/anthropic_invests_1_5_million_python) - [Anthropic invests $1.5 million in the Python Software Foundation and open source security](https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html)
@@ -22,7 +23,6 @@
 * [2026-01-13, 12:55:31](https://lobste.rs/s/bufy06/win8de_windows_8_like_de_for_linux) - [Win8DE: windows 8 like de for linux](https://github.com/er-bharat/Win8DE)
 * [2026-01-13, 12:29:27](https://lobste.rs/s/qgfhc3/hitex_press_spam_factory_for_ai_generated) - [HiTeX Press: A spam factory for AI-generated books](https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books)
 * [2026-01-13, 11:38:59](https://lobste.rs/s/5ttvyj/more_assorted_notes_on_liquid_glass_2025) - [More assorted notes on Liquid Glass (2025)](https://morrick.me/archives/10068)
-* [2026-01-13, 10:14:59](https://lobste.rs/s/zkvvo9/hidden_cost_postgresql_arrays) - [The hidden cost of PostgreSQL arrays](https://boringsql.com/posts/good-bad-arrays/)
 * [2026-01-13, 09:31:45](https://lobste.rs/s/ui99tz/date_is_out_temporal_is) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
 * [2026-01-13, 05:03:35](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what) - [Your CLI's completion should know what options you've already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion)
 
