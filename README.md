@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-14, 15:56:06](https://lobste.rs/s/ytheao/permission_begin_learning) - [permission to begin learning](https://ficd.sh/blog/permission-to-begin-learning/)
 * [2026-01-14, 15:44:42](https://lobste.rs/s/yxg4xt/verifying_state_reconciliation) - [Verifying State & Reconciliation in Collaborative Web Apps](https://midspiral.com/blog/verifying-state-reconciliation-in-collaborative-web-apps/)
-* [2026-01-14, 15:19:12](https://lobste.rs/s/ixqdco/artificial_stupidintelligence_airport) - [Artificial StupidIntelligence and Airport Sinks](https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/)
 * [2026-01-14, 14:44:28](https://lobste.rs/s/vnkwyb/my_opinion_on_spelling_run_time_vs_run_time) - [My Opinion on Spelling Run Time vs. Run-time vs. Runtime](https://bobrubbens.nl/post/my-opinion-on-spelling-runtime/)
 * [2026-01-14, 14:11:16](https://lobste.rs/s/9jc8z9/from_passwords_passkeys) - [From passwords to passkeys](https://ssg.dev/from-passwords-to-passkeys/)
 * [2026-01-14, 12:12:39](https://lobste.rs/s/6vnavr/servo_2025_stats) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
