@@ -24,7 +24,7 @@
 * [2026-01-13, 15:38:45](https://lobste.rs/s/6skrep/ai_coding_assistants_are_getting_worse) - [AI Coding Assistants Are Getting Worse](https://spectrum.ieee.org/ai-coding-degrades)
 * [2026-01-13, 12:29:27](https://lobste.rs/s/qgfhc3/hitex_press_spam_factory_for_ai_generated) - [HiTeX Press: A spam factory for AI-generated books](https://laurent.le-brun.eu/blog/hitex-a-spam-factory-for-ai-generated-books)
 * [2026-01-13, 11:38:59](https://lobste.rs/s/5ttvyj/more_assorted_notes_on_liquid_glass_2025) - [More assorted notes on Liquid Glass (2025)](https://morrick.me/archives/10068)
-* [2026-01-13, 05:03:35](https://lobste.rs/s/5se1tq/your_cli_s_completion_should_know_what) - [Your CLI's completion should know what options you've already typed](https://hackers.pub/@hongminhee/2026/optique-context-aware-cli-completion)
+* [2026-01-13, 09:31:45](https://lobste.rs/s/ui99tz/date_is_out_temporal_is) - [Date is out, Temporal is in](https://piccalil.li/blog/date-is-out-and-temporal-is-in/)
 
 ## [Archives](archives/index.md)
 
