@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2026-01-14, 21:10:57",
-      "https://lobste.rs/s/ev8log/rickroll_rustc"
+      "2026-01-14, 22:23:42",
+      "https://lobste.rs/s/hqyoa2/i_built_2x_faster_lexer_then_discovered_i_o"
     ],
     [
-      "Rickroll in rustc",
-      "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68"
+      "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
+      "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Scrollbars in Scrollbars",
       "https://matoseb.com/scrollbars-scrollbars/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 15:19:12",
+      "https://lobste.rs/s/ixqdco/artificial_stupidintelligence_airport"
+    ],
+    [
+      "Artificial StupidIntelligence and Airport Sinks",
+      "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "How a 40-Line Fix Eliminated a 400x Performance Gap",
       "https://questdb.com/blog/jvm-current-thread-user-time/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 21:46:21",
-      "https://lobste.rs/s/k5yvju/bevy_0_18"
-    ],
-    [
-      "Bevy 0.18",
-      "https://bevy.org/news/bevy-0-18/"
     ]
   ],
   [
