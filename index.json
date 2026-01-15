@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2026-01-14, 23:31:28",
+      "https://lobste.rs/s/hljkrv/my_ai_got_github_account"
+    ],
+    [
+      "My AI got a Github account",
+      "https://www.maragu.dev/blog/my-ai-got-a-github-account"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 22:50:08",
       "https://lobste.rs/s/o9acsn/state_openssl_for_pyca_cryptography"
     ],
     [
       "The State of OpenSSL for pyca/cryptography",
       "https://cryptography.io/en/latest/statements/state-of-openssl/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 21:10:57",
+      "https://lobste.rs/s/ev8log/rickroll_rustc"
+    ],
+    [
+      "Rickroll in rustc",
+      "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2026-01-14, 19:12:28",
-      "https://lobste.rs/s/esgrcq/why_language_interpreters_virtual"
-    ],
-    [
-      "Why language interpreters and virtual machines are slow",
-      "https://mortoray.com/why-language-interpreters-are-slow/"
-    ]
-  ],
-  [
-    [
       "2026-01-14, 19:04:52",
       "https://lobste.rs/s/pxaxqn/my_gripes_with_prolog"
     ],
@@ -107,16 +117,6 @@
     [
       "Scrollbars in Scrollbars",
       "https://matoseb.com/scrollbars-scrollbars/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 15:19:12",
-      "https://lobste.rs/s/ixqdco/artificial_stupidintelligence_airport"
-    ],
-    [
-      "Artificial StupidIntelligence and Airport Sinks",
-      "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/"
     ]
   ],
   [
