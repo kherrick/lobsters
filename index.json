@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-01-15, 08:19:39",
-      "https://lobste.rs/s/z1re5b/on_floss_training_llms"
-    ],
-    [
-      "On FLOSS and training LLMs",
-      "https://chronicles.mad-scientist.club/tales/on-floss-and-training-llms/"
-    ]
-  ],
-  [
-    [
       "2026-01-15, 08:10:06",
       "https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots"
     ],
@@ -107,6 +97,16 @@
     [
       "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
       "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
+    ]
+  ],
+  [
+    [
+      "2026-01-14, 21:10:57",
+      "https://lobste.rs/s/ev8log/rickroll_rustc"
+    ],
+    [
+      "Rickroll in rustc",
+      "https://github.com/rust-lang/rust/blob/main/tests/ui/attributes/check-cfg_attr-ice.rs#L9-L68"
     ]
   ],
   [
