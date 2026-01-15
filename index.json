@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-15, 12:27:40",
+      "https://lobste.rs/s/pddded/why_senior_engineers_let_bad_projects"
+    ],
+    [
+      "Why Senior Engineers Let Bad Projects Fail",
+      "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/"
+    ]
+  ],
+  [
+    [
+      "2026-01-15, 11:44:04",
+      "https://lobste.rs/s/fbkls4/people_who_built_wikipedia_technically"
+    ],
+    [
+      "The people who built Wikipedia, technically (2021)",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-01-31/Technology_report"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 10:59:32",
       "https://lobste.rs/s/isnir7/mysql_vs_postgresql_performance"
     ],
@@ -57,16 +77,6 @@
     [
       "Claude Cowork Exfiltrates Files",
       "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 04:44:21",
-      "https://lobste.rs/s/kbolvv/finding_fixing_50_000_goroutine_leak"
-    ],
-    [
-      "Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production",
-      "https://skoredin.pro/blog/golang/goroutine-leak-debugging"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Just the Browser",
       "https://justthebrowser.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 06:10:18",
-      "https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai"
-    ],
-    [
-      "Why We Don't Use AI",
-      "https://yarnspinner.dev/blog/why-we-dont-use-ai/"
     ]
   ],
   [
