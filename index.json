@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 22:04:48",
+      "https://lobste.rs/s/ijrlrq/how_parametrize_exception_testing"
+    ],
+    [
+      "How to parametrize exception testing in PyTest?",
+      "https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 20:30:28",
       "https://lobste.rs/s/ywvwhg/twc_security_party_group_education_event"
     ],
@@ -157,16 +167,6 @@
     [
       "The State of OpenSSL for pyca/cryptography",
       "https://cryptography.io/en/latest/statements/state-of-openssl/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 22:23:42",
-      "https://lobste.rs/s/hqyoa2/i_built_2x_faster_lexer_then_discovered_i_o"
-    ],
-    [
-      "I built a 2x faster lexer, then discovered I/O was the real bottleneck",
-      "https://modulovalue.com/blog/syscall-overhead-tar-gz-io-performance/"
     ]
   ],
   [
