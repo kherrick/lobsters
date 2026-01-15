@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-15, 04:44:21](https://lobste.rs/s/kbolvv/finding_fixing_50_000_goroutine_leak) - [Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production](https://skoredin.pro/blog/golang/goroutine-leak-debugging)
 * [2026-01-15, 00:47:22](https://lobste.rs/s/8hjgvt/writing_anteforth_forth_like_spark) - [Writing Anteforth, a Forth-like in SPARK](https://pyjarrett.github.io/2026/01/13/anteforth.html)
 * [2026-01-15, 00:06:45](https://lobste.rs/s/urlzyd/scaling_long_running_autonomous_coding) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 23:31:28](https://lobste.rs/s/hljkrv/my_ai_got_github_account) - [My AI got a Github account](https://www.maragu.dev/blog/my-ai-got-a-github-account)
@@ -18,7 +19,6 @@
 * [2026-01-14, 12:12:39](https://lobste.rs/s/6vnavr/servo_2025_stats) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
 * [2026-01-14, 11:54:54](https://lobste.rs/s/wyvqyq/interactive_ebpf_playground) - [Interactive eBPF playground](https://ebpf.party)
 * [2026-01-14, 11:25:11](https://lobste.rs/s/cydp2t/porting_minijinja_go_with_agent) - [Porting MiniJinja to Go With an Agent](https://lucumr.pocoo.org/2026/1/14/minijinja-go-port/)
-* [2026-01-14, 10:57:54](https://lobste.rs/s/j2e4em/black_white_array_new_data_structure_for) - [Black-White Array: A New Data Structure for Dynamic Data Sets](https://arxiv.org/abs/2004.09051)
 * [2026-01-14, 08:10:28](https://lobste.rs/s/knwdud/just_browser) - [Just the Browser](https://justthebrowser.com/)
 * [2026-01-14, 06:10:18](https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai) - [Why We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-14, 02:44:21](https://lobste.rs/s/pfj3mi/rust_at_volvo_cars) - [Rust at Volvo Cars](https://www.youtube.com/watch?v=vBofCW8j70A)
