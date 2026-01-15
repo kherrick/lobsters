@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 08:10:06",
+      "https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots"
+    ],
+    [
+      "Lobsters Battlestations and Screenshots (2026)",
+      "https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 07:05:31",
       "https://lobste.rs/s/busryv/claude_cowork_exfiltrates_files"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-01-14, 19:12:28",
+      "https://lobste.rs/s/esgrcq/why_language_interpreters_virtual"
+    ],
+    [
+      "Why language interpreters and virtual machines are slow",
+      "https://mortoray.com/why-language-interpreters-are-slow/"
+    ]
+  ],
+  [
+    [
       "2026-01-14, 19:04:52",
       "https://lobste.rs/s/pxaxqn/my_gripes_with_prolog"
     ],
@@ -147,16 +167,6 @@
     [
       "Scrollbars in Scrollbars",
       "https://matoseb.com/scrollbars-scrollbars/"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 15:19:12",
-      "https://lobste.rs/s/ixqdco/artificial_stupidintelligence_airport"
-    ],
-    [
-      "Artificial StupidIntelligence and Airport Sinks",
-      "https://www.deobald.ca/essays/2026-01-13-artificial-stupidintelligence-and-airport-sinks/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How a 40-Line Fix Eliminated a 400x Performance Gap",
       "https://questdb.com/blog/jvm-current-thread-user-time/"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 21:13:19",
-      "https://lobste.rs/s/pwj9ue/truffleruby_33_is_released"
-    ],
-    [
-      "TruffleRuby 33 is Released",
-      "https://truffleruby.dev/blog/truffleruby-33-is-released"
     ]
   ]
 ]
