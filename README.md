@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-15, 12:27:40](https://lobste.rs/s/pddded/why_senior_engineers_let_bad_projects) - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
+* [2026-01-15, 11:44:04](https://lobste.rs/s/fbkls4/people_who_built_wikipedia_technically) - [The people who built Wikipedia, technically (2021)](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-01-31/Technology_report)
 * [2026-01-15, 10:59:32](https://lobste.rs/s/isnir7/mysql_vs_postgresql_performance) - [MySQL vs PostgreSQL Performance: throughput & latency, reads & writes](https://binaryigor.com/mysql-vs-postgresql-performance.html)
 * [2026-01-15, 09:15:51](https://lobste.rs/s/whv98g/codeless_code_fables_koans_for_software) - [Codeless Code - Fables & Koans for the Software Engineer](https://thecodelesscode.com)
 * [2026-01-15, 09:11:29](https://lobste.rs/s/7cucs1/discoveries_continuations) - [The discoveries of continuations](https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/reynolds-discoveries.pdf)
 * [2026-01-15, 08:38:27](https://lobste.rs/s/hshaq4/alternatives_minio_for_single_node_local) - [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
 * [2026-01-15, 08:10:06](https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2026)](https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots)
 * [2026-01-15, 07:05:31](https://lobste.rs/s/busryv/claude_cowork_exfiltrates_files) - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
-* [2026-01-15, 04:44:21](https://lobste.rs/s/kbolvv/finding_fixing_50_000_goroutine_leak) - [Finding and Fixing a 50,000 Goroutine Leak That Nearly Killed Production](https://skoredin.pro/blog/golang/goroutine-leak-debugging)
 * [2026-01-15, 00:47:22](https://lobste.rs/s/8hjgvt/writing_anteforth_forth_like_spark) - [Writing Anteforth, a Forth-like in SPARK](https://pyjarrett.github.io/2026/01/13/anteforth.html)
 * [2026-01-15, 00:06:45](https://lobste.rs/s/urlzyd/scaling_long_running_autonomous_coding) - [Scaling long-running autonomous coding](https://cursor.com/blog/scaling-agents)
 * [2026-01-14, 22:50:08](https://lobste.rs/s/o9acsn/state_openssl_for_pyca_cryptography) - [The State of OpenSSL for pyca/cryptography](https://cryptography.io/en/latest/statements/state-of-openssl/)
@@ -23,7 +24,6 @@
 * [2026-01-14, 12:12:39](https://lobste.rs/s/6vnavr/servo_2025_stats) - [Servo 2025 Stats](https://blogs.igalia.com/mrego/servo-2025-stats/)
 * [2026-01-14, 11:54:54](https://lobste.rs/s/wyvqyq/interactive_ebpf_playground) - [Interactive eBPF playground](https://ebpf.party)
 * [2026-01-14, 08:10:28](https://lobste.rs/s/knwdud/just_browser) - [Just the Browser](https://justthebrowser.com/)
-* [2026-01-14, 06:10:18](https://lobste.rs/s/jsw3wk/why_we_don_t_use_ai) - [Why We Don't Use AI](https://yarnspinner.dev/blog/why-we-dont-use-ai/)
 * [2026-01-14, 02:42:41](https://lobste.rs/s/cgzwem/how_40_line_fix_eliminated_400x) - [How a 40-Line Fix Eliminated a 400x Performance Gap](https://questdb.com/blog/jvm-current-thread-user-time/)
 
 ## [Archives](archives/index.md)
