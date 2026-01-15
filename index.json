@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-15, 07:05:31",
+      "https://lobste.rs/s/busryv/claude_cowork_exfiltrates_files"
+    ],
+    [
+      "Claude Cowork Exfiltrates Files",
+      "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"
+    ]
+  ],
+  [
+    [
       "2026-01-15, 04:44:21",
       "https://lobste.rs/s/kbolvv/finding_fixing_50_000_goroutine_leak"
     ],
@@ -237,16 +247,6 @@
     [
       "TruffleRuby 33 is Released",
       "https://truffleruby.dev/blog/truffleruby-33-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-01-13, 16:28:04",
-      "https://lobste.rs/s/mb07nn/anthropic_invests_1_5_million_python"
-    ],
-    [
-      "Anthropic invests $1.5 million in the Python Software Foundation and open source security",
-      "https://pyfound.blogspot.com/2025/12/anthropic-invests-in-python.html"
     ]
   ]
 ]
