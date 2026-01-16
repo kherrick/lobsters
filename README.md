@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-16, 09:25:55](https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend)
+* [2026-01-16, 09:12:07](https://lobste.rs/s/hr7ajl/postgresql_gleam_with_pog_squirrel) - [PostgreSQL in Gleam with pog, squirrel, and cigogne](https://nulltree.xyz/articles/basic-postgres-setup-in-gleam/)
 * [2026-01-16, 07:37:07](https://lobste.rs/s/gpvztk/stackwarp_vulnerability) - [StackWarp Vulnerability](https://stackwarpattack.com/)
 * [2026-01-16, 06:24:49](https://lobste.rs/s/go7hr7/histomat_f_oss_we_should_reclaim_llms_not) - [Histomat of F/OSS: We should reclaim LLMs, not reject them](https://writings.hongminhee.org/2026/01/histomat-foss-llm/)
 * [2026-01-16, 04:13:20](https://lobste.rs/s/ngrqg1/my_projects_2025) - [My Projects in 2025](https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025)
@@ -9,7 +11,6 @@
 * [2026-01-16, 00:15:53](https://lobste.rs/s/e3xhzq/why_is_zig_so_cool) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2026-01-16, 00:01:51](https://lobste.rs/s/esmvsj/http_ratelimit_headers) - [HTTP RateLimit headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
 * [2026-01-15, 22:04:48](https://lobste.rs/s/ijrlrq/how_parametrize_exception_testing) - [How to parametrize exception testing in PyTest?](https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html)
-* [2026-01-15, 20:30:28](https://lobste.rs/s/ywvwhg/twc_security_party_group_education_event) - [TWC Security Party - Group education event for tech workers to improve their privacy and make friends - Jan 26, 17:30 ET](https://dev.techworkerscoalition.org/u/secparty)
 * [2026-01-15, 18:48:51](https://lobste.rs/s/wt74cp/reverse_engineering_my_cloud_connected_e) - [Reverse engineering my cloud-connected e-scooter and finding the master key to unlock all scooters](https://blog.nns.ee/2026/01/06/aike-ble/)
 * [2026-01-15, 15:49:33](https://lobste.rs/s/aijblh/new_social_web_working_group_at_w3c) - [New Social Web Working Group at W3C](https://socialwebfoundation.org/2026/01/15/new-social-web-working-group-at-w3c/)
 * [2026-01-15, 15:16:58](https://lobste.rs/s/2sl7bs/going_immutable_on_macos) - [Going immutable on macOS](https://carette.xyz/posts/going_immutable_macos/)
@@ -23,7 +24,6 @@
 * [2026-01-15, 09:15:51](https://lobste.rs/s/whv98g/codeless_code_fables_koans_for_software) - [Codeless Code - Fables & Koans for the Software Engineer](https://thecodelesscode.com)
 * [2026-01-15, 08:38:27](https://lobste.rs/s/hshaq4/alternatives_minio_for_single_node_local) - [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
 * [2026-01-15, 08:10:06](https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2026)](https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots)
-* [2026-01-15, 07:05:31](https://lobste.rs/s/busryv/claude_cowork_exfiltrates_files) - [Claude Cowork Exfiltrates Files](https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files)
 * [2026-01-14, 20:52:21](https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix) - [SelfCI - a minimalistic local-first Unix-philosophy-abiding CI](https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU)
 
 ## [Archives](archives/index.md)
