@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-16, 16:03:37",
+      "https://lobste.rs/s/boyarm/6_day_ip_address_certificates_are"
+    ],
+    [
+      "6-day and IP Address Certificates are Generally Available",
+      "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 14:42:47",
       "https://lobste.rs/s/dggcj3/astro_technology_company_joins"
     ],
@@ -157,16 +167,6 @@
     [
       "HTTP RateLimit headers",
       "https://dotat.at/@/2026-01-13-http-ratelimit.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 22:04:48",
-      "https://lobste.rs/s/ijrlrq/how_parametrize_exception_testing"
-    ],
-    [
-      "How to parametrize exception testing in PyTest?",
-      "https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html"
     ]
   ],
   [
