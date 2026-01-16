@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-16, 16:22:31",
+      "https://lobste.rs/s/d1m8cw/openbsd_current_now_runs_as_guest_under"
+    ],
+    [
+      "OpenBSD-current now runs as guest under Apple Hypervisor",
+      "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 16:03:37",
       "https://lobste.rs/s/boyarm/6_day_ip_address_certificates_are"
     ],
     [
       "6-day and IP Address Certificates are Generally Available",
       "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 15:57:05",
+      "https://lobste.rs/s/ajmcb6/designated_initializers_best_feature_c"
+    ],
+    [
+      "Designated Initializers, the best feature of C++20",
+      "https://mropert.github.io/2026/01/15/designed_initializers/"
     ]
   ],
   [
@@ -47,26 +67,6 @@
     [
       "Glasgow Interface Explorer Code of Conduct",
       "https://glasgow-embedded.org/latest/conduct.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 12:41:35",
-      "https://lobste.rs/s/taxbgk/implementing_co_small_language_with"
-    ],
-    [
-      "Implementing Co, a Small Language With Coroutines #5: Adding Sleep",
-      "https://abhinavsarkar.net/posts/implementing-co-5/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 11:37:27",
-      "https://lobste.rs/s/vlzucv/experimental_high_dynamic_range_video"
-    ],
-    [
-      "Experimental High Dynamic Range video playback on Windows in Firefox Nightly 148",
-      "https://mozillagfx.wordpress.com/2026/01/16/experimental-high-dynamic-range-video-playback-on-windows-in-firefox-nightly-148/"
     ]
   ],
   [
