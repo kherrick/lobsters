@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 12:55:44](https://lobste.rs/s/krjjdr/patching_wii_news_channel_serve_local) - [Patching the Wii News Channel to serve local news](https://raulnegron.me/2025/wii-news-pr/)
+* [2026-01-16, 12:43:15](https://lobste.rs/s/bxwek7/glasgow_interface_explorer_code_conduct) - [Glasgow Interface Explorer Code of Conduct](https://glasgow-embedded.org/latest/conduct.html)
+* [2026-01-16, 12:41:35](https://lobste.rs/s/taxbgk/implementing_co_small_language_with) - [Implementing Co, a Small Language With Coroutines #5: Adding Sleep](https://abhinavsarkar.net/posts/implementing-co-5/)
 * [2026-01-16, 12:14:24](https://lobste.rs/s/gac7jl/primecoin_cunningham_prime_chains) - [Primecoin and Cunningham Prime Chains](https://www.johndcook.com/blog/2026/01/10/prime-chains/)
 * [2026-01-16, 10:34:11](https://lobste.rs/s/xaxgtt/modern_java) - [Modern Java](https://javabook.mccue.dev)
 * [2026-01-16, 10:01:31](https://lobste.rs/s/x59zd7/magic_better_software_conference) - [The Magic of the Better Software Conference](https://www.rfleury.com/p/the-magic-of-the-better-software)
