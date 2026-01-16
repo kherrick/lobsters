@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
 * [2026-01-16, 20:01:27](https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl) - [Cutting LLM token Usage by ~80% using REPL driven document analysis](https://yogthos.net/posts/2026-01-16-lattice-mcp.html)
+* [2026-01-16, 19:30:04](https://lobste.rs/s/0m2min/weird_generalization_inductive) - [Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs](https://arxiv.org/abs/2512.09742)
 * [2026-01-16, 19:20:58](https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator) - [smalloc: a simple memory allocator](https://github.com/zooko/smalloc)
 * [2026-01-16, 19:00:55](https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries) - [What are your favorite drawing libraries?](https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries)
 * [2026-01-16, 17:01:27](https://lobste.rs/s/b9elrl/why_duckdb_is_my_first_choice_for_data) - [Why DuckDB is my first choice for data processing](https://www.robinlinacre.com/recommend_duckdb/)
