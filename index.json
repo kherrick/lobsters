@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-16, 14:48:03",
-      "https://lobste.rs/s/ahv2me/state_rust_cryptography_2026"
+      "2026-01-16, 15:01:31",
+      "https://lobste.rs/s/4seyoj/read_once_write_once_not_for_rust"
     ],
     [
-      "The State of Rust Cryptography in 2026",
-      "https://kerkour.com/rust-cryptography-ecosystem-2026"
+      "READ_ONCE(), WRITE_ONCE(), but not for Rust",
+      "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
     ]
   ],
   [
