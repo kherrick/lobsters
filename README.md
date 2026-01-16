@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-16, 19:00:55](https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries) - [What are your favorite drawing libraries?](https://lobste.rs/s/dtnmwy/what_are_your_favorite_drawing_libraries)
 * [2026-01-16, 16:22:31](https://lobste.rs/s/d1m8cw/openbsd_current_now_runs_as_guest_under) - [OpenBSD-current now runs as guest under Apple Hypervisor](https://www.undeadly.org/cgi?action=article;sid=20260115203619)
 * [2026-01-16, 16:03:37](https://lobste.rs/s/boyarm/6_day_ip_address_certificates_are) - [6-day and IP Address Certificates are Generally Available](https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html)
 * [2026-01-16, 15:57:05](https://lobste.rs/s/ajmcb6/designated_initializers_best_feature_c) - [Designated Initializers, the best feature of C++20](https://mropert.github.io/2026/01/15/designed_initializers/)
@@ -13,7 +14,6 @@
 * [2026-01-16, 10:34:11](https://lobste.rs/s/xaxgtt/modern_java) - [Modern Java](https://javabook.mccue.dev)
 * [2026-01-16, 10:01:31](https://lobste.rs/s/x59zd7/magic_better_software_conference) - [The Magic of the Better Software Conference](https://www.rfleury.com/p/the-magic-of-the-better-software)
 * [2026-01-16, 09:25:55](https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend)
-* [2026-01-16, 07:37:07](https://lobste.rs/s/gpvztk/stackwarp_vulnerability) - [StackWarp Vulnerability](https://stackwarpattack.com/)
 * [2026-01-16, 06:24:49](https://lobste.rs/s/go7hr7/histomat_f_oss_we_should_reclaim_llms_not) - [Histomat of F/OSS: We should reclaim LLMs, not reject them](https://writings.hongminhee.org/2026/01/histomat-foss-llm/)
 * [2026-01-16, 02:14:15](https://lobste.rs/s/jqntdm/0_click_exploit_chain_for_pixel_9_part_1) - [A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby](https://projectzero.google/2026/01/pixel-0-click-part-1.html)
 * [2026-01-16, 02:07:44](https://lobste.rs/s/xyiyri/integration_tests_are_best_tests) - [Integration tests are best tests](https://jayconrod.com/posts/133/integration-tests-are-best-tests)
