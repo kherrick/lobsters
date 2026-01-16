@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
+* [2026-01-16, 04:13:20](https://lobste.rs/s/ngrqg1/my_projects_2025) - [My Projects in 2025](https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025)
 * [2026-01-16, 03:49:48](https://lobste.rs/s/ihxq0c/cryptography_30_years_apart_ascon_on_hp) - [Cryptography 30 years apart: Ascon on an HP-16C](https://dram.page/p/ascon-hp16c/)
 * [2026-01-16, 02:18:18](https://lobste.rs/s/09tygd/quint_visualizer_graphviz_like) - [Quint Visualizer: a GraphViz-like visualizer for Quint traces](https://quint-visualizer.noghartt.dev/)
 * [2026-01-16, 02:14:15](https://lobste.rs/s/jqntdm/0_click_exploit_chain_for_pixel_9_part_1) - [A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby](https://projectzero.google/2026/01/pixel-0-click-part-1.html)

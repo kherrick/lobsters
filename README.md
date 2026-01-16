@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-16, 04:13:20](https://lobste.rs/s/ngrqg1/my_projects_2025) - [My Projects in 2025](https://simonhartcher.com/posts/2026-01-16-my-projects-in-2025)
 * [2026-01-16, 03:49:48](https://lobste.rs/s/ihxq0c/cryptography_30_years_apart_ascon_on_hp) - [Cryptography 30 years apart: Ascon on an HP-16C](https://dram.page/p/ascon-hp16c/)
 * [2026-01-16, 02:18:18](https://lobste.rs/s/09tygd/quint_visualizer_graphviz_like) - [Quint Visualizer: a GraphViz-like visualizer for Quint traces](https://quint-visualizer.noghartt.dev/)
 * [2026-01-16, 02:14:15](https://lobste.rs/s/jqntdm/0_click_exploit_chain_for_pixel_9_part_1) - [A 0-click exploit chain for the Pixel 9, part 1: Decoding Dolby](https://projectzero.google/2026/01/pixel-0-click-part-1.html)
-* [2026-01-16, 02:07:44](https://lobste.rs/s/xyiyri/integration_tests_are_best_tests) - [Integration tests are best tests](https://jayconrod.com/posts/133/integration-tests-are-best-tests)
 * [2026-01-16, 00:15:53](https://lobste.rs/s/e3xhzq/why_is_zig_so_cool) - [Why is Zig so Cool?](https://nilostolte.github.io/tech/articles/ZigCool.html)
 * [2026-01-16, 00:01:51](https://lobste.rs/s/esmvsj/http_ratelimit_headers) - [HTTP RateLimit headers](https://dotat.at/@/2026-01-13-http-ratelimit.html)
 * [2026-01-15, 22:04:48](https://lobste.rs/s/ijrlrq/how_parametrize_exception_testing) - [How to parametrize exception testing in PyTest?](https://borutzki.github.io/2026/01/15/how-to-parametrize-exception-testing-in-pytest.html)
