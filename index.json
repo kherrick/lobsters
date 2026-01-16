@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-16, 19:30:04",
+      "https://lobste.rs/s/0m2min/weird_generalization_inductive"
+    ],
+    [
+      "Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs",
+      "https://arxiv.org/abs/2512.09742"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 19:20:58",
       "https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator"
     ],
@@ -237,16 +247,6 @@
     [
       "Lobsters Battlestations and Screenshots (2026)",
       "https://lobste.rs/s/r7rdk7/lobsters_battlestations_screenshots"
-    ]
-  ],
-  [
-    [
-      "2026-01-14, 20:52:21",
-      "https://lobste.rs/s/xa4ndh/selfci_minimalistic_local_first_unix"
-    ],
-    [
-      "SelfCI - a minimalistic local-first Unix-philosophy-abiding CI",
-      "https://app.radicle.xyz/nodes/radicle.dpc.pw/rad:z2tDzYbAXxTQEKTGFVwiJPajkbeDU"
     ]
   ]
 ]
