@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-16, 12:14:24",
-      "https://lobste.rs/s/gac7jl/primecoin_cunningham_prime_chains"
+      "2026-01-16, 12:55:44",
+      "https://lobste.rs/s/krjjdr/patching_wii_news_channel_serve_local"
     ],
     [
-      "Primecoin and Cunningham Prime Chains",
-      "https://www.johndcook.com/blog/2026/01/10/prime-chains/"
+      "Patching the Wii News Channel to serve local news",
+      "https://raulnegron.me/2025/wii-news-pr/"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 12:43:15",
+      "https://lobste.rs/s/bxwek7/glasgow_interface_explorer_code_conduct"
+    ],
+    [
+      "Glasgow Interface Explorer Code of Conduct",
+      "https://glasgow-embedded.org/latest/conduct.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 12:41:35",
+      "https://lobste.rs/s/taxbgk/implementing_co_small_language_with"
+    ],
+    [
+      "Implementing Co, a Small Language With Coroutines #5: Adding Sleep",
+      "https://abhinavsarkar.net/posts/implementing-co-5/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/jkxpni/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 09:12:07",
-      "https://lobste.rs/s/hr7ajl/postgresql_gleam_with_pog_squirrel"
-    ],
-    [
-      "PostgreSQL in Gleam with pog, squirrel, and cigogne",
-      "https://nulltree.xyz/articles/basic-postgres-setup-in-gleam/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Reverse engineering my cloud-connected e-scooter and finding the master key to unlock all scooters",
       "https://blog.nns.ee/2026/01/06/aike-ble/"
-    ]
-  ],
-  [
-    [
-      "2026-01-15, 15:49:33",
-      "https://lobste.rs/s/aijblh/new_social_web_working_group_at_w3c"
-    ],
-    [
-      "New Social Web Working Group at W3C",
-      "https://socialwebfoundation.org/2026/01/15/new-social-web-working-group-at-w3c/"
     ]
   ],
   [
