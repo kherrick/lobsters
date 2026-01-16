@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-16, 20:01:27",
+      "https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl"
+    ],
+    [
+      "Cutting LLM token Usage by ~80% using REPL driven document analysis",
+      "https://yogthos.net/posts/2026-01-16-lattice-mcp.html"
+    ]
+  ],
+  [
+    [
       "2026-01-16, 19:20:58",
       "https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator"
     ],
@@ -57,16 +67,6 @@
     [
       "READ_ONCE(), WRITE_ONCE(), but not for Rust",
       "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 14:48:03",
-      "https://lobste.rs/s/ahv2me/state_rust_cryptography_2026"
-    ],
-    [
-      "The State of Rust Cryptography in 2026",
-      "https://kerkour.com/rust-cryptography-ecosystem-2026"
     ]
   ],
   [
