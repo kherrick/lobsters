@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-16](index.md)
 
 * [2026-01-16, 23:59:42](https://lobste.rs/s/j65xcd/cursor_s_latest_browser_experiment) - [Cursor's latest \"browser experiment\" implied success without evidence](https://embedding-shapes.github.io/cursor-implied-success-without-evidence/)
+* [2026-01-16, 23:46:42](https://lobste.rs/s/dd9ip1/myths_we_tell_ourselves_about_software) - [Myths we tell ourselves about software engineering](https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8)
 * [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 * [2026-01-16, 20:01:27](https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl) - [Cutting LLM token Usage by ~80% using REPL driven document analysis](https://yogthos.net/posts/2026-01-16-lattice-mcp.html)
 * [2026-01-16, 19:30:04](https://lobste.rs/s/0m2min/weird_generalization_inductive) - [Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs](https://arxiv.org/abs/2512.09742)
