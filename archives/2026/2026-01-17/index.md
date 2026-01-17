@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 18:40:37](https://lobste.rs/s/qryaka/malloc_maleficarum_2005) - [The Malloc Maleficarum (2005)](https://seclists.org/bugtraq/2005/Oct/118)
 * [2026-01-17, 17:00:00](https://lobste.rs/s/ou4jhh/l_for_price_one_on_benefits_using_more_than) - [L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing](https://eprint.iacr.org/2026/061.pdf)
 * [2026-01-17, 16:39:53](https://lobste.rs/s/0mvdau/my_new_minimal_static_site_generator) - [My new minimal static site generator](https://maurycyz.com/misc/new_ssg/)
 * [2026-01-17, 15:32:12](https://lobste.rs/s/87hezy/i_hotreload_rust_so_can_you) - [I hotreload Rust and so can you](https://kampffrosch94.github.io/posts/hotreloading_rust/)
