@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-01-17, 03:12:38",
-      "https://lobste.rs/s/diqtq5/github_copilot_now_supports_opencode"
-    ],
-    [
-      "GitHub Copilot now supports OpenCode",
-      "https://github.blog/changelog/2026-01-16-github-copilot-now-supports-opencode/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 23:46:42",
       "https://lobste.rs/s/dd9ip1/myths_we_tell_ourselves_about_software"
     ],
@@ -147,6 +137,16 @@
     [
       "The Astro Technology Company joins Cloudflare",
       "https://astro.build/blog/joining-cloudflare/"
+    ]
+  ],
+  [
+    [
+      "2026-01-16, 13:39:06",
+      "https://lobste.rs/s/nkss2q/ergonomic_abstractions_for_numerical"
+    ],
+    [
+      "Ergonomic abstractions for numerical computing: My story so far",
+      "http://ocramz.github.io/posts/2026-01-16-ergonomics-numerical.html"
     ]
   ],
   [
