@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-17, 18:40:37",
+      "https://lobste.rs/s/qryaka/malloc_maleficarum_2005"
+    ],
+    [
+      "The Malloc Maleficarum (2005)",
+      "https://seclists.org/bugtraq/2005/Oct/118"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 17:00:00",
       "https://lobste.rs/s/ou4jhh/l_for_price_one_on_benefits_using_more_than"
     ],
@@ -197,16 +207,6 @@
     [
       "READ_ONCE(), WRITE_ONCE(), but not for Rust",
       "https://lwn.net/SubscriberLink/1053142/8ec93e58d5d3cc06/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 14:42:47",
-      "https://lobste.rs/s/dggcj3/astro_technology_company_joins"
-    ],
-    [
-      "The Astro Technology Company joins Cloudflare",
-      "https://astro.build/blog/joining-cloudflare/"
     ]
   ],
   [
