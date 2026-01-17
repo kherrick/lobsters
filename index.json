@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-17, 15:32:12",
+      "https://lobste.rs/s/87hezy/i_hotreload_rust_so_can_you"
+    ],
+    [
+      "I hotreload Rust and so can you",
+      "https://kampffrosch94.github.io/posts/hotreloading_rust/"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 14:34:17",
       "https://lobste.rs/s/vp39cr/ascii_characters_are_not_pixels_deep_dive"
     ],
@@ -217,16 +227,6 @@
     [
       "Histomat of F/OSS: We should reclaim LLMs, not reject them",
       "https://writings.hongminhee.org/2026/01/histomat-foss-llm/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 00:15:53",
-      "https://lobste.rs/s/e3xhzq/why_is_zig_so_cool"
-    ],
-    [
-      "Why is Zig so Cool?",
-      "https://nilostolte.github.io/tech/articles/ZigCool.html"
     ]
   ],
   [
