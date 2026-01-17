@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 22:39:28](https://lobste.rs/s/dtir1a/why_we_ve_tried_replace_developers_every) - [Why We've Tried to Replace Developers Every Decade Since 1969](https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html)
 * [2026-01-17, 22:08:57](https://lobste.rs/s/0lh5rd/you_had_one_job_why_twenty_years_devops_has) - [“You Had One Job”: Why Twenty Years of DevOps Has Failed to Do it](https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it)
 * [2026-01-17, 21:35:44](https://lobste.rs/s/hntdgv/if_writing_code_is_easy_part_why_would_i) - [If writing the code is the easy part, why would I want someone else to write it?](https://tldraw.dev/blog/stay-away-from-my-trash)
 * [2026-01-17, 21:07:03](https://lobste.rs/s/31iwyd/malware_peddlers_are_now_hijacking_snap) - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/)
