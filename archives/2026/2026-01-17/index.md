@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-17](index.md)
 
+* [2026-01-17, 19:03:58](https://lobste.rs/s/wjbvwq/ai_plays_rollercoaster_tycoon) - [AI Plays Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-17, 18:54:14](https://lobste.rs/s/60yo7s/rust_s_culture_semantic_precision) - [Rust's Culture of Semantic Precision](https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/)
 * [2026-01-17, 18:40:37](https://lobste.rs/s/qryaka/malloc_maleficarum_2005) - [The Malloc Maleficarum (2005)](https://seclists.org/bugtraq/2005/Oct/118)
 * [2026-01-17, 17:00:00](https://lobste.rs/s/ou4jhh/l_for_price_one_on_benefits_using_more_than) - [L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing](https://eprint.iacr.org/2026/061.pdf)

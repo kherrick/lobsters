@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-17, 19:03:58](https://lobste.rs/s/wjbvwq/ai_plays_rollercoaster_tycoon) - [AI Plays Rollercoaster Tycoon](https://labs.ramp.com/rct)
 * [2026-01-17, 18:54:14](https://lobste.rs/s/60yo7s/rust_s_culture_semantic_precision) - [Rust's Culture of Semantic Precision](https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/)
 * [2026-01-17, 18:40:37](https://lobste.rs/s/qryaka/malloc_maleficarum_2005) - [The Malloc Maleficarum (2005)](https://seclists.org/bugtraq/2005/Oct/118)
 * [2026-01-17, 17:00:00](https://lobste.rs/s/ou4jhh/l_for_price_one_on_benefits_using_more_than) - [L for the Price of One: On the Benefits of Using more than t+1 Parties in Threshold Signing](https://eprint.iacr.org/2026/061.pdf)
@@ -13,7 +14,6 @@
 * [2026-01-17, 07:23:41](https://lobste.rs/s/s55ewk/kip_programming_language_based_on) - [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
 * [2026-01-17, 06:15:02](https://lobste.rs/s/n8qgs8/emoji_design_convergence_review_2018) - [Emoji Design Convergence Review: 2018 - 2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
 * [2026-01-17, 05:33:17](https://lobste.rs/s/fgdiw1/how_clickhouse_handles_strings) - [How ClickHouse handles strings](https://rushter.com/blog/clickhouse-strings/)
-* [2026-01-16, 23:46:42](https://lobste.rs/s/dd9ip1/myths_we_tell_ourselves_about_software) - [Myths we tell ourselves about software engineering](https://medium.com/feenk/rewilding-software-engineering-ca3ad1e612d8)
 * [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 * [2026-01-16, 20:01:27](https://lobste.rs/s/xankns/cutting_llm_token_usage_by_80_using_repl) - [Cutting LLM token Usage by ~80% using REPL driven document analysis](https://yogthos.net/posts/2026-01-16-lattice-mcp.html)
 * [2026-01-16, 19:20:58](https://lobste.rs/s/ubcsl9/smalloc_simple_memory_allocator) - [smalloc: a simple memory allocator](https://github.com/zooko/smalloc)
