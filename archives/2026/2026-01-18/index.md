@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 09:35:02](https://lobste.rs/s/m5u098/clan_2025_wrap_up_from_infrastructure_new) - [Clan 2025 Wrap-Up: From Infrastructure to a New Computing Paradigm](https://clan.lol/blog/2025-wrap-up/)
+* [2026-01-18, 09:26:39](https://lobste.rs/s/x6nwl5/daniel_s_first_20_000_curl_commits) - [Daniel's first 20,000 curl commits](https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/)
 * [2026-01-18, 09:08:12](https://lobste.rs/s/aegd9e/gnome_village) - [The Gnome Village](https://happihacking.com/blog/posts/2025/the-gnome-village/)
 * [2026-01-18, 08:18:08](https://lobste.rs/s/4wr7ye/social_filesystem) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 * [2026-01-18, 07:14:10](https://lobste.rs/s/cuvmci/air_traffic_control_ibm_9020) - [air traffic control: the IBM 9020](https://computer.rip/2026-01-17-air-traffic-control-9020.html)
