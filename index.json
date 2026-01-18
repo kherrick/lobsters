@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-18, 04:24:48",
+      "https://lobste.rs/s/vokwbo/jquery_4_0_0_released"
+    ],
+    [
+      "jQuery 4.0.0 Released",
+      "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
+    ]
+  ],
+  [
+    [
       "2026-01-18, 02:31:24",
       "https://lobste.rs/s/mihtmk/vaultgemma_differentially_private_llm"
     ],
@@ -147,16 +157,6 @@
     [
       "Pushing the smallest possible change to production",
       "https://ankursethi.com/blog/smallest-possible-change/"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 08:50:48",
-      "https://lobste.rs/s/xqsqsm/drone_hacking_part_1_dumping_firmware"
-    ],
-    [
-      "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
-      "https://neodyme.io/en/blog/drone_hacking_part_1"
     ]
   ],
   [
