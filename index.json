@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-18, 09:35:02",
+      "https://lobste.rs/s/m5u098/clan_2025_wrap_up_from_infrastructure_new"
+    ],
+    [
+      "Clan 2025 Wrap-Up: From Infrastructure to a New Computing Paradigm",
+      "https://clan.lol/blog/2025-wrap-up/"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 09:26:39",
+      "https://lobste.rs/s/x6nwl5/daniel_s_first_20_000_curl_commits"
+    ],
+    [
+      "Daniel's first 20,000 curl commits",
+      "https://daniel.haxx.se/blog/2026/01/17/my-first-20000-curl-commits/"
+    ]
+  ],
+  [
+    [
       "2026-01-18, 09:08:12",
       "https://lobste.rs/s/aegd9e/gnome_village"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-17, 05:33:17",
-      "https://lobste.rs/s/fgdiw1/how_clickhouse_handles_strings"
-    ],
-    [
-      "How ClickHouse handles strings",
-      "https://rushter.com/blog/clickhouse-strings/"
-    ]
-  ],
-  [
-    [
       "2026-01-16, 21:47:22",
       "https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool"
     ],
@@ -237,16 +247,6 @@
     [
       "smalloc: a simple memory allocator",
       "https://github.com/zooko/smalloc"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 16:22:31",
-      "https://lobste.rs/s/d1m8cw/openbsd_current_now_runs_as_guest_under"
-    ],
-    [
-      "OpenBSD-current now runs as guest under Apple Hypervisor",
-      "https://www.undeadly.org/cgi?action=article;sid=20260115203619"
     ]
   ]
 ]
