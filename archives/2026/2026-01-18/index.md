@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 19:17:55](https://lobste.rs/s/yc77zp/crow_crobots_robotic_combat_for_training) - [CROW: CROBOTS robotic combat for training World Model AIs](https://github.com/dcgrigsby/crow)
 * [2026-01-18, 17:21:30](https://lobste.rs/s/woqh3d/wasm_mutate_fast_effective_binary) - [Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly](https://arxiv.org/pdf/2309.07638)
 * [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
 * [2026-01-18, 16:12:35](https://lobste.rs/s/fttvmi/removal_gtk2_from_forky_debian_14) - [Removal of GTK2 from forky (Debian 14)](https://lists.debian.org/debian-devel/2026/01/msg00090.html)
