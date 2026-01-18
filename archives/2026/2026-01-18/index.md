@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 17:21:30](https://lobste.rs/s/woqh3d/wasm_mutate_fast_effective_binary) - [Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly](https://arxiv.org/pdf/2309.07638)
+* [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
 * [2026-01-18, 16:12:35](https://lobste.rs/s/fttvmi/removal_gtk2_from_forky_debian_14) - [Removal of GTK2 from forky (Debian 14)](https://lists.debian.org/debian-devel/2026/01/msg00090.html)
 * [2026-01-18, 16:11:31](https://lobste.rs/s/iz3wsu/installing_android_on_nintendo_switch) - [Installing Android on the Nintendo Switch](https://blog.omgmog.net/post/android-on-the-nintendo-switch/)
 * [2026-01-18, 15:49:59](https://lobste.rs/s/b6veve/some_c_habits_i_employ_for_modern_day) - [some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)

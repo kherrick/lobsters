@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-18, 17:21:30](https://lobste.rs/s/woqh3d/wasm_mutate_fast_effective_binary) - [Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly](https://arxiv.org/pdf/2309.07638)
+* [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
 * [2026-01-18, 16:12:35](https://lobste.rs/s/fttvmi/removal_gtk2_from_forky_debian_14) - [Removal of GTK2 from forky (Debian 14)](https://lists.debian.org/debian-devel/2026/01/msg00090.html)
 * [2026-01-18, 16:11:31](https://lobste.rs/s/iz3wsu/installing_android_on_nintendo_switch) - [Installing Android on the Nintendo Switch](https://blog.omgmog.net/post/android-on-the-nintendo-switch/)
 * [2026-01-18, 15:49:59](https://lobste.rs/s/b6veve/some_c_habits_i_employ_for_modern_day) - [some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
@@ -20,10 +22,8 @@
 * [2026-01-17, 16:39:53](https://lobste.rs/s/0mvdau/my_new_minimal_static_site_generator) - [My new minimal static site generator](https://maurycyz.com/misc/new_ssg/)
 * [2026-01-17, 15:32:12](https://lobste.rs/s/87hezy/i_hotreload_rust_so_can_you) - [I hotreload Rust and so can you](https://kampffrosch94.github.io/posts/hotreloading_rust/)
 * [2026-01-17, 14:34:17](https://lobste.rs/s/vp39cr/ascii_characters_are_not_pixels_deep_dive) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
-* [2026-01-17, 13:32:55](https://lobste.rs/s/c4q8d8/fun_things_do_with_your_vm_370_machine) - [Fun things to do with your VM/370 machine](https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html)
 * [2026-01-17, 12:48:13](https://lobste.rs/s/kbkcbe/website_end_all_websites) - [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
 * [2026-01-17, 07:23:41](https://lobste.rs/s/s55ewk/kip_programming_language_based_on) - [kip: A programming language based on grammatical cases of Turkish](https://github.com/joom/kip)
-* [2026-01-17, 06:15:02](https://lobste.rs/s/n8qgs8/emoji_design_convergence_review_2018) - [Emoji Design Convergence Review: 2018 - 2026](https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/)
 * [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 
 ## [Archives](archives/index.md)
