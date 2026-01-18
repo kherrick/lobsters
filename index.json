@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2026-01-17, 13:32:55",
+      "https://lobste.rs/s/c4q8d8/fun_things_do_with_your_vm_370_machine"
+    ],
+    [
+      "Fun things to do with your VM/370 machine",
+      "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html"
+    ]
+  ],
+  [
+    [
       "2026-01-17, 12:48:13",
       "https://lobste.rs/s/kbkcbe/website_end_all_websites"
     ],
@@ -137,6 +147,16 @@
     [
       "Pushing the smallest possible change to production",
       "https://ankursethi.com/blog/smallest-possible-change/"
+    ]
+  ],
+  [
+    [
+      "2026-01-17, 08:50:48",
+      "https://lobste.rs/s/xqsqsm/drone_hacking_part_1_dumping_firmware"
+    ],
+    [
+      "Drone Hacking Part 1: Dumping Firmware and Bruteforcing ECC",
+      "https://neodyme.io/en/blog/drone_hacking_part_1"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "6-day and IP Address Certificates are Generally Available",
       "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 12:55:44",
-      "https://lobste.rs/s/krjjdr/patching_wii_news_channel_serve_local"
-    ],
-    [
-      "Patching the Wii News Channel to serve local news",
-      "https://raulnegron.me/2025/wii-news-pr/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 10:34:11",
-      "https://lobste.rs/s/xaxgtt/modern_java"
-    ],
-    [
-      "Modern Java",
-      "https://javabook.mccue.dev"
     ]
   ]
 ]
