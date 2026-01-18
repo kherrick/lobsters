@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-18](index.md)
 
+* [2026-01-18, 20:01:33](https://lobste.rs/s/y5llsg/time_c_creating_your_own_clocks_with) - [Time in C++: Creating Your Own Clocks with <chrono>](https://www.sandordargo.com/blog/2026/01/14/clocks-part-7-custom-clocks)
 * [2026-01-18, 19:17:55](https://lobste.rs/s/yc77zp/crow_crobots_robotic_combat_for_training) - [CROW: CROBOTS robotic combat for training World Model AIs](https://github.com/dcgrigsby/crow)
 * [2026-01-18, 17:21:30](https://lobste.rs/s/woqh3d/wasm_mutate_fast_effective_binary) - [Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly](https://arxiv.org/pdf/2309.07638)
 * [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
