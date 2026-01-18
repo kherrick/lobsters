@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-18, 20:17:20",
-      "https://lobste.rs/s/fxcspf/writing_first_tooling_second"
+      "2026-01-18, 22:34:20",
+      "https://lobste.rs/s/2nwmxo/everything_wrong_with_material_3"
     ],
     [
-      "Writing First, Tooling Second",
-      "https://susam.net/writing-first-tooling-second.html"
+      "Everything Wrong with Material 3 Expressive",
+      "https://xylight.dev/posts/everything-wrong-with-m3e"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 22:18:31",
+      "https://lobste.rs/s/56ynjc/on_coming_industrialisation_exploit"
+    ],
+    [
+      "On the Coming Industrialisation of Exploit Generation with LLMs",
+      "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "jQuery 4.0.0 Released",
       "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 02:31:24",
-      "https://lobste.rs/s/mihtmk/vaultgemma_differentially_private_llm"
-    ],
-    [
-      "VaultGemma: A differentially private LLM (2025)",
-      "https://arxiv.org/pdf/2510.15001"
     ]
   ],
   [
