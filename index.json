@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-18, 17:21:30",
+      "https://lobste.rs/s/woqh3d/wasm_mutate_fast_effective_binary"
+    ],
+    [
+      "Wasm-Mutate: Fast and Effective Binary Diversification for WebAssembly",
+      "https://arxiv.org/pdf/2309.07638"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 17:17:04",
+      "https://lobste.rs/s/ngwloq/how_lobsters_front_page_works"
+    ],
+    [
+      "How the Lobsters front page works",
+      "https://atharvaraykar.com/lobsters/"
+    ]
+  ],
+  [
+    [
       "2026-01-18, 16:12:35",
       "https://lobste.rs/s/fttvmi/removal_gtk2_from_forky_debian_14"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-17, 13:32:55",
-      "https://lobste.rs/s/c4q8d8/fun_things_do_with_your_vm_370_machine"
-    ],
-    [
-      "Fun things to do with your VM/370 machine",
-      "https://rbanffy.github.io/fun-with-old-mainframes.github.io/fun-with-vm370.html"
-    ]
-  ],
-  [
-    [
       "2026-01-17, 12:48:13",
       "https://lobste.rs/s/kbkcbe/website_end_all_websites"
     ],
@@ -227,16 +237,6 @@
     [
       "kip: A programming language based on grammatical cases of Turkish",
       "https://github.com/joom/kip"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 06:15:02",
-      "https://lobste.rs/s/n8qgs8/emoji_design_convergence_review_2018"
-    ],
-    [
-      "Emoji Design Convergence Review: 2018 - 2026",
-      "https://blog.emojipedia.org/emoji-design-convergence-review-2018-2026/"
     ]
   ],
   [
