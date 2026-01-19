@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-18, 23:40:52](https://lobste.rs/s/nb8w6p/if_not_lessons_then_what) - [If Not Lessons, Then What?](https://third-bit.com/2026/01/18/if-not-lessons-then-what/)
+* [2026-01-19, 00:48:49](https://lobste.rs/s/fi2pw6/debian_taco_towards_gitsecdevops_debian) - [Debian Taco - Towards a GitSecDevOps Debian](https://blog.josefsson.org/2026/01/09/debian-taco-towards-a-gitsecdevops-debian/)
 * [2026-01-18, 23:23:56](https://lobste.rs/s/p21oso/river_classic_river_0_3_x_forever) - [river-classic: river 0.3.x forever](https://codeberg.org/river/river-classic)
 * [2026-01-18, 22:34:20](https://lobste.rs/s/2nwmxo/everything_wrong_with_material_3) - [Everything Wrong with Material 3 Expressive](https://xylight.dev/posts/everything-wrong-with-m3e)
+* [2026-01-18, 22:18:31](https://lobste.rs/s/56ynjc/on_coming_industrialisation_exploit) - [On the Coming Industrialisation of Exploit Generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
 * [2026-01-18, 20:17:20](https://lobste.rs/s/fxcspf/writing_first_tooling_second) - [Writing First, Tooling Second](https://susam.net/writing-first-tooling-second.html)
 * [2026-01-18, 20:01:33](https://lobste.rs/s/y5llsg/time_c_creating_your_own_clocks_with) - [Time in C++: Creating Your Own Clocks with <chrono>](https://www.sandordargo.com/blog/2026/01/14/clocks-part-7-custom-clocks)
 * [2026-01-18, 19:17:55](https://lobste.rs/s/yc77zp/crow_crobots_robotic_combat_for_training) - [CROW: CROBOTS robotic combat for training World Model AIs](https://github.com/dcgrigsby/crow)
@@ -24,7 +25,6 @@
 * [2026-01-17, 18:54:14](https://lobste.rs/s/60yo7s/rust_s_culture_semantic_precision) - [Rust's Culture of Semantic Precision](https://www.alilleybrinker.com/mini/rusts-culture-of-semantic-precision/)
 * [2026-01-17, 14:34:17](https://lobste.rs/s/vp39cr/ascii_characters_are_not_pixels_deep_dive) - [ASCII characters are not pixels: a deep dive into ASCII rendering](https://alexharri.com/blog/ascii-rendering)
 * [2026-01-17, 12:48:13](https://lobste.rs/s/kbkcbe/website_end_all_websites) - [A Website To End All Websites](https://henry.codes/writing/a-website-to-destroy-all-websites/)
-* [2026-01-16, 21:47:22](https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool) - [I set all 376 Vim options and I'm still a fool](https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/)
 
 ## [Archives](archives/index.md)
 
