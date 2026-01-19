@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-01-18, 23:40:52",
-      "https://lobste.rs/s/nb8w6p/if_not_lessons_then_what"
+      "2026-01-19, 00:48:49",
+      "https://lobste.rs/s/fi2pw6/debian_taco_towards_gitsecdevops_debian"
     ],
     [
-      "If Not Lessons, Then What?",
-      "https://third-bit.com/2026/01/18/if-not-lessons-then-what/"
+      "Debian Taco - Towards a GitSecDevOps Debian",
+      "https://blog.josefsson.org/2026/01/09/debian-taco-towards-a-gitsecdevops-debian/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Everything Wrong with Material 3 Expressive",
       "https://xylight.dev/posts/everything-wrong-with-m3e"
+    ]
+  ],
+  [
+    [
+      "2026-01-18, 22:18:31",
+      "https://lobste.rs/s/56ynjc/on_coming_industrialisation_exploit"
+    ],
+    [
+      "On the Coming Industrialisation of Exploit Generation with LLMs",
+      "https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A Website To End All Websites",
       "https://henry.codes/writing/a-website-to-destroy-all-websites/"
-    ]
-  ],
-  [
-    [
-      "2026-01-16, 21:47:22",
-      "https://lobste.rs/s/0ashr1/i_set_all_376_vim_options_i_m_still_fool"
-    ],
-    [
-      "I set all 376 Vim options and I'm still a fool",
-      "https://evanhahn.com/i-set-all-376-vim-options-and-im-still-a-fool/"
     ]
   ]
 ]
