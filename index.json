@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-19, 22:21:20",
+      "https://lobste.rs/s/nbsclr/floating_point_printing_parsing_can_be"
+    ],
+    [
+      "Floating-Point Printing and Parsing Can Be Simple And Fast",
+      "https://research.swtch.com/fp"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 22:07:47",
       "https://lobste.rs/s/fsqjwr/personal_infrastructure_setup_2026"
     ],
@@ -207,16 +217,6 @@
     [
       "How the Lobsters front page works",
       "https://atharvaraykar.com/lobsters/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 16:12:35",
-      "https://lobste.rs/s/fttvmi/removal_gtk2_from_forky_debian_14"
-    ],
-    [
-      "Removal of GTK2 from forky (Debian 14)",
-      "https://lists.debian.org/debian-devel/2026/01/msg00090.html"
     ]
   ],
   [
