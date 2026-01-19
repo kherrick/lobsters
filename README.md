@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-19, 00:48:49](https://lobste.rs/s/fi2pw6/debian_taco_towards_gitsecdevops_debian) - [Debian Taco - Towards a GitSecDevOps Debian](https://blog.josefsson.org/2026/01/09/debian-taco-towards-a-gitsecdevops-debian/)
+* [2026-01-19, 02:25:35](https://lobste.rs/s/docfzx/people_cannot_just_pay_attention_boring) - [People cannot \"just pay attention\" to (boring, routine) things](https://utcc.utoronto.ca/~cks/space/blog/tech/PeopleCannotPayAttention)
 * [2026-01-18, 23:23:56](https://lobste.rs/s/p21oso/river_classic_river_0_3_x_forever) - [river-classic: river 0.3.x forever](https://codeberg.org/river/river-classic)
 * [2026-01-18, 22:34:20](https://lobste.rs/s/2nwmxo/everything_wrong_with_material_3) - [Everything Wrong with Material 3 Expressive](https://xylight.dev/posts/everything-wrong-with-m3e)
 * [2026-01-18, 22:18:31](https://lobste.rs/s/56ynjc/on_coming_industrialisation_exploit) - [On the Coming Industrialisation of Exploit Generation with LLMs](https://sean.heelan.io/2026/01/18/on-the-coming-industrialisation-of-exploit-generation-with-llms/)
