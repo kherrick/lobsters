@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 18:36:41](https://lobste.rs/s/bemom7/incredible_overcomplexity_shadcn_radio) - [The Incredible Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-19, 15:21:50](https://lobste.rs/s/igcrnj/creusot_0_9_0_launching_creusot_devlog) - [Creusot 0.9.0: Launching the Creusot Devlog](https://creusot-rs.github.io/devlog/2026-01-19/)
 * [2026-01-19, 15:03:13](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week)
 * [2026-01-19, 13:45:14](https://lobste.rs/s/efxvf7/creating_virtual_block_devices_with_ublk) - [Creating virtual block devices with ublk](https://jpospisil.com/posts/2026-01-13-creating-virtual-block-devices-with-ublk)
