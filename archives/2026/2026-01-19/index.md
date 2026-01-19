@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 09:40:21](https://lobste.rs/s/2j0llr/tpm_on_embedded_systems_pitfalls_caveats) - [TPM on Embedded Systems: Pitfalls and Caveats](https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/)
 * [2026-01-19, 06:28:55](https://lobste.rs/s/f6zsyd/are_arrays_functions) - [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
 * [2026-01-19, 05:35:58](https://lobste.rs/s/25bxlc/simulating_ladybug_clock_puzzle) - [Simulating the ladybug clock puzzle](https://austinhenley.com/blog/ladybugclock.html)
 * [2026-01-19, 05:20:42](https://lobste.rs/s/nssu3g/cardputer_ulisp_machine) - [Cardputer uLisp Machine](http://www.ulisp.com/show?52G4)
