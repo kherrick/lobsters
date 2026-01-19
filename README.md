@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-19, 20:11:38](https://lobste.rs/s/bv4yod/only_two_markup_languages) - [The Only Two Markup Languages](https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/)
+* [2026-01-19, 19:59:50](https://lobste.rs/s/ekkm0z/understanding_c_ownership_system) - [Understanding C++ Ownership System](https://blog.aiono.dev/posts/understanding-c++-ownership-system.html)
 * [2026-01-19, 18:36:41](https://lobste.rs/s/bemom7/incredible_overcomplexity_shadcn_radio) - [The Incredible Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-19, 15:21:50](https://lobste.rs/s/igcrnj/creusot_0_9_0_launching_creusot_devlog) - [Creusot 0.9.0: Launching the Creusot Devlog](https://creusot-rs.github.io/devlog/2026-01-19/)
 * [2026-01-19, 15:03:13](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week)
@@ -7,7 +9,6 @@
 * [2026-01-19, 13:16:39](https://lobste.rs/s/zagyj5/follow_up_new_sponsors_strengthen_alpine) - [Follow-Up: New Sponsors Strengthen Alpine Linux’s Infrastructure and CI Ecosystem](https://alpinelinux.org/posts/2026-01-18-new-sponsors-strenghten-infrastructure.html)
 * [2026-01-19, 11:21:45](https://lobste.rs/s/8nv2w5/tale_udp_tracking_hytale_server_auto_stop) - [A Tale of UDP tracking: Hytale server auto stop and start with systemd](https://nwildner.com/posts/2026-01-19-hytale/)
 * [2026-01-19, 11:11:58](https://lobste.rs/s/mesp1d/2025_medley_interlisp_annual_report) - [2025 Medley Interlisp Annual Report](https://interlisp.org/project/status/2025medleyannualreport/)
-* [2026-01-19, 10:23:15](https://lobste.rs/s/oek5so/balanced_allocation_considerations) - [Balanced allocation: considerations from large scale service environments](https://arxiv.org/pdf/2601.10874)
 * [2026-01-19, 10:01:03](https://lobste.rs/s/cqp4m6/avx_512_first_impressions_on_performance) - [AVX-512: First impressions on performance and programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 * [2026-01-19, 06:28:55](https://lobste.rs/s/f6zsyd/are_arrays_functions) - [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
 * [2026-01-19, 05:35:58](https://lobste.rs/s/25bxlc/simulating_ladybug_clock_puzzle) - [Simulating the ladybug clock puzzle](https://austinhenley.com/blog/ladybugclock.html)
@@ -24,7 +25,6 @@
 * [2026-01-18, 11:02:03](https://lobste.rs/s/0pxvyd/agent_psychosis_are_we_going_insane) - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
 * [2026-01-18, 08:18:08](https://lobste.rs/s/4wr7ye/social_filesystem) - [A Social Filesystem](https://overreacted.io/a-social-filesystem/)
 * [2026-01-18, 04:24:48](https://lobste.rs/s/vokwbo/jquery_4_0_0_released) - [jQuery 4.0.0 Released](https://blog.jquery.com/2026/01/17/jquery-4-0-0/)
-* [2026-01-17, 21:07:03](https://lobste.rs/s/31iwyd/malware_peddlers_are_now_hijacking_snap) - [Malware Peddlers Are Now Hijacking Snap Publisher Domains](https://blog.popey.com/2026/01/malware-purveyors-taking-over-published-snap-email-domains/)
 
 ## [Archives](archives/index.md)
 

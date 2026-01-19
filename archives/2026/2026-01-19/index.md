@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 20:11:38](https://lobste.rs/s/bv4yod/only_two_markup_languages) - [The Only Two Markup Languages](https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/)
+* [2026-01-19, 19:59:50](https://lobste.rs/s/ekkm0z/understanding_c_ownership_system) - [Understanding C++ Ownership System](https://blog.aiono.dev/posts/understanding-c++-ownership-system.html)
 * [2026-01-19, 18:36:41](https://lobste.rs/s/bemom7/incredible_overcomplexity_shadcn_radio) - [The Incredible Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
 * [2026-01-19, 15:21:50](https://lobste.rs/s/igcrnj/creusot_0_9_0_launching_creusot_devlog) - [Creusot 0.9.0: Launching the Creusot Devlog](https://creusot-rs.github.io/devlog/2026-01-19/)
 * [2026-01-19, 15:03:13](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week)
