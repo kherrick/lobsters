@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 11:21:45](https://lobste.rs/s/8nv2w5/tale_udp_tracking_hytale_server_auto_stop) - [A Tale of UDP tracking: Hytale server auto stop and start with systemd](https://nwildner.com/posts/2026-01-19-hytale/)
+* [2026-01-19, 11:11:58](https://lobste.rs/s/mesp1d/2025_medley_interlisp_annual_report) - [2025 Medley Interlisp Annual Report](https://interlisp.org/project/status/2025medleyannualreport/)
 * [2026-01-19, 10:23:15](https://lobste.rs/s/oek5so/balanced_allocation_considerations) - [Balanced allocation: considerations from large scale service environments](https://arxiv.org/pdf/2601.10874)
 * [2026-01-19, 10:01:03](https://lobste.rs/s/cqp4m6/avx_512_first_impressions_on_performance) - [AVX-512: First impressions on performance and programmability](https://shihab-shahriar.github.io//blog/2026/AVX-512-First-Impressions-on-Performance-and-Programmability/)
 * [2026-01-19, 09:40:21](https://lobste.rs/s/2j0llr/tpm_on_embedded_systems_pitfalls_caveats) - [TPM on Embedded Systems: Pitfalls and Caveats](https://sigma-star.at/blog/2026/01/tpm-on-embedded-systems-pitfalls-and-caveats/)
