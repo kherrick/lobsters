@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-19, 10:23:15",
+      "https://lobste.rs/s/oek5so/balanced_allocation_considerations"
+    ],
+    [
+      "Balanced allocation: considerations from large scale service environments",
+      "https://arxiv.org/pdf/2601.10874"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 10:01:03",
       "https://lobste.rs/s/cqp4m6/avx_512_first_impressions_on_performance"
     ],
@@ -207,16 +217,6 @@
     [
       "jQuery 4.0.0 Released",
       "https://blog.jquery.com/2026/01/17/jquery-4-0-0/"
-    ]
-  ],
-  [
-    [
-      "2026-01-17, 22:39:28",
-      "https://lobste.rs/s/dtir1a/why_we_ve_tried_replace_developers_every"
-    ],
-    [
-      "Why We've Tried to Replace Developers Every Decade Since 1969",
-      "https://www.caimito.net/en/blog/2025/12/07/the-recurring-dream-of-replacing-developers.html"
     ]
   ],
   [
