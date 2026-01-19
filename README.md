@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-19, 20:37:35](https://lobste.rs/s/xa7vqf/bc_crunch_tiny_lossless_compressor_for_bc) - [bc_crunch: tiny lossless compressor for BC/DXT texture streams](https://github.com/Geolm/bc_crunch)
 * [2026-01-19, 20:23:19](https://lobste.rs/s/f1cmlk/faster_restart_windows_95_when_you_hold) - [Faster restart of Windows 95 when you hold the shift key](https://devblogs.microsoft.com/oldnewthing/20260119-06/?p=111995)
-* [2026-01-19, 20:21:24](https://lobste.rs/s/eyunqw/computing_with_projected_light_folk) - [computing with projected light: the folk computer](https://youtu.be/hrXEtG3JILo)
 * [2026-01-19, 20:11:38](https://lobste.rs/s/bv4yod/only_two_markup_languages) - [The Only Two Markup Languages](https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/)
 * [2026-01-19, 19:59:50](https://lobste.rs/s/ekkm0z/understanding_c_ownership_system) - [Understanding C++ Ownership System](https://blog.aiono.dev/posts/understanding-c++-ownership-system.html)
 * [2026-01-19, 18:36:41](https://lobste.rs/s/bemom7/incredible_overcomplexity_shadcn_radio) - [The Incredible Overcomplexity of the Shadcn Radio Button](https://paulmakeswebsites.com/writing/shadcn-radio-button/)
