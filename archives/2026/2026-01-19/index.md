@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-19](index.md)
 
+* [2026-01-19, 15:21:50](https://lobste.rs/s/igcrnj/creusot_0_9_0_launching_creusot_devlog) - [Creusot 0.9.0: Launching the Creusot Devlog](https://creusot-rs.github.io/devlog/2026-01-19/)
+* [2026-01-19, 15:03:13](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/2u1av3/what_are_you_doing_this_week)
 * [2026-01-19, 13:45:14](https://lobste.rs/s/efxvf7/creating_virtual_block_devices_with_ublk) - [Creating virtual block devices with ublk](https://jpospisil.com/posts/2026-01-13-creating-virtual-block-devices-with-ublk)
 * [2026-01-19, 13:16:39](https://lobste.rs/s/zagyj5/follow_up_new_sponsors_strengthen_alpine) - [Follow-Up: New Sponsors Strengthen Alpine Linux’s Infrastructure and CI Ecosystem | Alpine Linux](https://alpinelinux.org/posts/2026-01-18-new-sponsors-strenghten-infrastructure.html)
 * [2026-01-19, 11:21:45](https://lobste.rs/s/8nv2w5/tale_udp_tracking_hytale_server_auto_stop) - [A Tale of UDP tracking: Hytale server auto stop and start with systemd](https://nwildner.com/posts/2026-01-19-hytale/)
