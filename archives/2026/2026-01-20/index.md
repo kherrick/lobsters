@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 09:01:25](https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+* [2026-01-20, 08:48:42](https://lobste.rs/s/zwfx0h/apple_s_protect_mail_activity_doesn_t_work) - [Apple's \"Protect Mail Activity\" Doesn't Work](https://www.grepular.com/Apples_Protect_Mail_Activity_Doesnt_Work)
 * [2026-01-20, 08:31:31](https://lobste.rs/s/5jvboe/lessons_from_creating_gaming_oriented) - [Lessons from creating a gaming-oriented scheduler](https://lwn.net/Articles/1051430/)
 * [2026-01-20, 08:26:26](https://lobste.rs/s/iszcfp/i_was_top_0_01_cursor_user_here_s_why_i) - [I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0](https://blog.silennai.com/claude-code)
 * [2026-01-20, 07:45:05](https://lobste.rs/s/vgjnvf/3_counterproductive_communication) - [3 Counterproductive Communication Patterns Holding Back Security Researchers](https://discernibleinc.com/blog/3-counterproductive-communication-patterns-holding-back-security-researchers)
