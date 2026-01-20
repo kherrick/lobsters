@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-20, 04:28:28](https://lobste.rs/s/arf2zk/my_favorite_np_complete_problem_2016) - [My favorite NP-complete problem (2016)](https://www.youtube.com/watch?v=BJBnR5Sn-sc)
 * [2026-01-20, 03:55:21](https://lobste.rs/s/ymhppr/llms_your_career) - [LLMs and your career](https://notes.eatonphil.com/2026-01-19-llms-and-your-career.html)
 * [2026-01-20, 03:30:36](https://lobste.rs/s/x8hrkv/high_cardinality_metrics_how_prometheus) - [High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale](https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse/)
 * [2026-01-20, 01:23:58](https://lobste.rs/s/yzsckk/prediction_within_15_years_microsoft) - [Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution](https://gamesbymason.com/blog/2026/microsoft/)
@@ -20,7 +21,6 @@
 * [2026-01-19, 06:28:55](https://lobste.rs/s/f6zsyd/are_arrays_functions) - [Are arrays functions?](https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html)
 * [2026-01-19, 04:08:49](https://lobste.rs/s/txknsm/my_thoughts_on_gas_town_after_10_000_hours) - [My thoughts on Gas Town after 10,000 hours of Claude Code](https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code)
 * [2026-01-19, 02:25:35](https://lobste.rs/s/docfzx/people_cannot_just_pay_attention_boring) - [People cannot \"just pay attention\" to (boring, routine) things](https://utcc.utoronto.ca/~cks/space/blog/tech/PeopleCannotPayAttention)
-* [2026-01-18, 23:23:56](https://lobste.rs/s/p21oso/river_classic_river_0_3_x_forever) - [river-classic: river 0.3.x forever](https://codeberg.org/river/river-classic)
 * [2026-01-18, 22:34:20](https://lobste.rs/s/2nwmxo/everything_wrong_with_material_3) - [Everything Wrong with Material 3 Expressive](https://xylight.dev/posts/everything-wrong-with-m3e)
 * [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
 * [2026-01-18, 15:49:59](https://lobste.rs/s/b6veve/some_c_habits_i_employ_for_modern_day) - [some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
