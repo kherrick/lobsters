@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-20, 16:43:31",
+      "https://lobste.rs/s/1y3v8c/visualizing_delaunay_triangulation"
+    ],
+    [
+      "Visualizing Delaunay Triangulation (2022)",
+      "https://ianthehenry.com/posts/delaunay/"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 16:39:26",
       "https://lobste.rs/s/qywnk6/rust_s_standard_library_on_gpu"
     ],
@@ -217,16 +227,6 @@
     [
       "Understanding C++ Ownership System",
       "https://blog.aiono.dev/posts/understanding-c++-ownership-system.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 18:36:41",
-      "https://lobste.rs/s/bemom7/incredible_overcomplexity_shadcn_radio"
-    ],
-    [
-      "The Incredible Overcomplexity of the Shadcn Radio Button",
-      "https://paulmakeswebsites.com/writing/shadcn-radio-button/"
     ]
   ],
   [
