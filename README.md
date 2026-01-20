@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-20, 09:44:51](https://lobste.rs/s/egujjx/ai_is_still_making_code_worse_new_cmu_study) - [AI Is still making code worse: A new CMU study confirms (2025)](https://blog.robbowley.net/2025/12/04/ai-is-still-making-code-worse-a-new-cmu-study-confirms/)
-* [2026-01-20, 09:28:05](https://lobste.rs/s/o08dqx/nanolang_tiny_experimental_language) - [nanolang: A tiny experimental language designed to be targeted by coding LLMs](https://github.com/jordanhubbard/nanolang)
 * [2026-01-20, 09:01:25](https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
+* [2026-01-20, 08:48:42](https://lobste.rs/s/zwfx0h/apple_s_protect_mail_activity_doesn_t_work) - [Apple's \"Protect Mail Activity\" Doesn't Work](https://www.grepular.com/Apples_Protect_Mail_Activity_Doesnt_Work)
 * [2026-01-20, 08:31:31](https://lobste.rs/s/5jvboe/lessons_from_creating_gaming_oriented) - [Lessons from creating a gaming-oriented scheduler](https://lwn.net/Articles/1051430/)
 * [2026-01-20, 06:08:05](https://lobste.rs/s/u9mo7b/3d_printing_my_laptop_ergonomic_setup) - [3D printing my laptop ergonomic setup](https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
 * [2026-01-20, 05:19:35](https://lobste.rs/s/r4bdft/c_26_reflection_hearts_qrangemodel) - [C++26 Reflection hearts QRangeModel](https://www.qt.io/blog/c26-reflection-qrangemodel)
