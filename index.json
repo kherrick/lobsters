@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-20, 09:44:51",
+      "https://lobste.rs/s/egujjx/ai_is_still_making_code_worse_new_cmu_study"
+    ],
+    [
+      "AI Is still making code worse: A new CMU study confirms (2025)",
+      "https://blog.robbowley.net/2025/12/04/ai-is-still-making-code-worse-a-new-cmu-study-confirms/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 09:28:05",
+      "https://lobste.rs/s/o08dqx/nanolang_tiny_experimental_language"
+    ],
+    [
+      "nanolang: A tiny experimental language designed to be targeted by coding LLMs",
+      "https://github.com/jordanhubbard/nanolang"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 09:01:25",
       "https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-01-20, 08:48:42",
-      "https://lobste.rs/s/zwfx0h/apple_s_protect_mail_activity_doesn_t_work"
+      "2026-01-20, 08:31:31",
+      "https://lobste.rs/s/5jvboe/lessons_from_creating_gaming_oriented"
     ],
     [
-      "Apple's \"Protect Mail Activity\" Doesn't Work",
-      "https://www.grepular.com/Apples_Protect_Mail_Activity_Doesnt_Work"
+      "Lessons from creating a gaming-oriented scheduler",
+      "https://lwn.net/Articles/1051430/"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale",
       "https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 02:42:45",
-      "https://lobste.rs/s/py23pa/basis_universal_v2"
-    ],
-    [
-      "Basis Universal v2",
-      "https://github.com/BinomialLLC/basis_universal"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Creating virtual block devices with ublk",
       "https://jpospisil.com/posts/2026-01-13-creating-virtual-block-devices-with-ublk"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 13:16:39",
-      "https://lobste.rs/s/zagyj5/follow_up_new_sponsors_strengthen_alpine"
-    ],
-    [
-      "Follow-Up: New Sponsors Strengthen Alpine Linux’s Infrastructure and CI Ecosystem",
-      "https://alpinelinux.org/posts/2026-01-18-new-sponsors-strenghten-infrastructure.html"
     ]
   ],
   [
