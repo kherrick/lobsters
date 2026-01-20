@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 19:06:07](https://lobste.rs/s/ezyebi/where_i_m_at_with_ai) - [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
+* [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
 * [2026-01-20, 17:00:06](https://lobste.rs/s/l1xqzx/long_now_web_inside_internet_archive_s) - [The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
 * [2026-01-20, 16:43:31](https://lobste.rs/s/1y3v8c/visualizing_delaunay_triangulation) - [Visualizing Delaunay Triangulation (2022)](https://ianthehenry.com/posts/delaunay/)
 * [2026-01-20, 16:39:26](https://lobste.rs/s/qywnk6/rust_s_standard_library_on_gpu) - [Rust's standard library on the GPU](https://vectorware.com/blog/rust-std-on-gpu/)
