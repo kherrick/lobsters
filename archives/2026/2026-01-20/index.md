@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 20:40:26](https://lobste.rs/s/nu0ge3/deep_learning_as_program_synthesis) - [Deep learning as program synthesis](https://www.lesswrong.com/posts/Dw8mskAvBX37MxvXo/deep-learning-as-program-synthesis-1)
 * [2026-01-20, 20:01:18](https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had) - [How would software look if hardware had stopped improving long ago?](https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had)
 * [2026-01-20, 19:06:07](https://lobste.rs/s/ezyebi/where_i_m_at_with_ai) - [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
 * [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
