@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-20, 02:42:45",
-      "https://lobste.rs/s/py23pa/basis_universal_v2"
+      "2026-01-20, 03:55:21",
+      "https://lobste.rs/s/ymhppr/llms_your_career"
     ],
     [
-      "Basis Universal v2",
-      "https://github.com/BinomialLLC/basis_universal"
+      "LLMs and your career",
+      "https://notes.eatonphil.com/2026-01-19-llms-and-your-career.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 03:30:36",
+      "https://lobste.rs/s/x8hrkv/high_cardinality_metrics_how_prometheus"
+    ],
+    [
+      "High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale",
+      "https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Faster restart of Windows 95 when you hold the shift key",
       "https://devblogs.microsoft.com/oldnewthing/20260119-06/?p=111995"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 20:21:24",
-      "https://lobste.rs/s/eyunqw/computing_with_projected_light_folk"
-    ],
-    [
-      "computing with projected light: the folk computer",
-      "https://youtu.be/hrXEtG3JILo"
     ]
   ],
   [
