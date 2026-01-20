@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-20, 14:24:13",
+      "https://lobste.rs/s/hrsaz6/unconventional_postgresql"
+    ],
+    [
+      "Unconventional PostgreSQL Optimizations",
+      "https://hakibenita.com/postgresql-unconventional-optimizations"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 13:48:11",
+      "https://lobste.rs/s/nsjybj/why_alter_table_is_such_problem_for_sqlite"
+    ],
+    [
+      "Why ALTER TABLE is such a problem for SQLite",
+      "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 12:12:54",
+      "https://lobste.rs/s/1obt9w/lost_art_xml"
+    ],
+    [
+      "The lost art of XML",
+      "https://marcosmagueta.com/blog/the-lost-art-of-xml/"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 10:54:51",
       "https://lobste.rs/s/fsq2qu/static_site_generator_written_posix"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-01-20, 05:19:35",
-      "https://lobste.rs/s/r4bdft/c_26_reflection_hearts_qrangemodel"
-    ],
-    [
-      "C++26 Reflection hearts QRangeModel",
-      "https://www.qt.io/blog/c26-reflection-qrangemodel"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 05:08:08",
       "https://lobste.rs/s/mkrhf6/what_came_first_cname_record"
     ],
@@ -87,16 +107,6 @@
     [
       "LLMs and your career",
       "https://notes.eatonphil.com/2026-01-19-llms-and-your-career.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 03:30:36",
-      "https://lobste.rs/s/x8hrkv/high_cardinality_metrics_how_prometheus"
-    ],
-    [
-      "High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale",
-      "https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "The Incredible Overcomplexity of the Shadcn Radio Button",
       "https://paulmakeswebsites.com/writing/shadcn-radio-button/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 15:03:13",
-      "https://lobste.rs/s/2u1av3/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/2u1av3/what_are_you_doing_this_week"
     ]
   ],
   [
