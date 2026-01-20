@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-20, 10:54:51",
+      "https://lobste.rs/s/fsq2qu/static_site_generator_written_posix"
+    ],
+    [
+      "A static site generator written in POSIX shell",
+      "https://aashvik.com/posts/shell-ssg"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 09:44:51",
       "https://lobste.rs/s/egujjx/ai_is_still_making_code_worse_new_cmu_study"
     ],
@@ -117,16 +127,6 @@
     [
       "Personal infrastructure setup 2026",
       "https://linderud.dev/blog/personal-infrastructure-setup-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 20:37:35",
-      "https://lobste.rs/s/xa7vqf/bc_crunch_tiny_lossless_compressor_for_bc"
-    ],
-    [
-      "bc_crunch: tiny lossless compressor for BC/DXT texture streams",
-      "https://github.com/Geolm/bc_crunch"
     ]
   ],
   [
