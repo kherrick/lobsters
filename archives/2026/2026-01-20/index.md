@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 08:31:31](https://lobste.rs/s/5jvboe/lessons_from_creating_gaming_oriented) - [Lessons from creating a gaming-oriented scheduler](https://lwn.net/Articles/1051430/)
+* [2026-01-20, 08:26:26](https://lobste.rs/s/iszcfp/i_was_top_0_01_cursor_user_here_s_why_i) - [I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0](https://blog.silennai.com/claude-code)
 * [2026-01-20, 07:45:05](https://lobste.rs/s/vgjnvf/3_counterproductive_communication) - [3 Counterproductive Communication Patterns Holding Back Security Researchers](https://discernibleinc.com/blog/3-counterproductive-communication-patterns-holding-back-security-researchers)
 * [2026-01-20, 06:08:05](https://lobste.rs/s/u9mo7b/3d_printing_my_laptop_ergonomic_setup) - [3D printing my laptop ergonomic setup](https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
 * [2026-01-20, 05:19:35](https://lobste.rs/s/r4bdft/c_26_reflection_hearts_qrangemodel) - [C++26 Reflection hearts QRangeModel](https://www.qt.io/blog/c26-reflection-qrangemodel)
