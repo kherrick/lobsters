@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-20, 15:55:08",
-      "https://lobste.rs/s/sxfpbp/nvidia_stock_crash_prediction"
+      "2026-01-20, 16:14:51",
+      "https://lobste.rs/s/smh8hs/venus_v5_released_modern_oo_standard"
     ],
     [
-      "Nvidia Stock Crash Prediction",
-      "https://entropicthoughts.com/nvidia-stock-crash-prediction"
+      "Venus v5 released: Modern OO standard library (and more) for Perl 5",
+      "https://www.reddit.com/r/perl/comments/1qi4sf8/venus_v5_released_modern_oo_standard_library_and/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 16:12:34",
+      "https://lobste.rs/s/kvviy0/type_safe_eval_grace"
+    ],
+    [
+      "Type-safe eval in Grace",
+      "https://haskellforall.com/2026/01/typesafe-eval"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "My week with opencode",
       "https://deadsimpletech.com/blog/week_with_opencode"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 12:23:41",
+      "https://lobste.rs/s/tq0yv5/jule_programming_language"
+    ],
+    [
+      "The Jule Programming Language",
+      "https://jule.dev/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-19, 11:21:45",
-      "https://lobste.rs/s/8nv2w5/tale_udp_tracking_hytale_server_auto_stop"
-    ],
-    [
-      "A Tale of UDP tracking: Hytale server auto stop and start with systemd",
-      "https://nwildner.com/posts/2026-01-19-hytale/"
-    ]
-  ],
-  [
-    [
       "2026-01-19, 06:28:55",
       "https://lobste.rs/s/f6zsyd/are_arrays_functions"
     ],
@@ -237,16 +247,6 @@
     [
       "How the Lobsters front page works",
       "https://atharvaraykar.com/lobsters/"
-    ]
-  ],
-  [
-    [
-      "2026-01-18, 11:02:03",
-      "https://lobste.rs/s/0pxvyd/agent_psychosis_are_we_going_insane"
-    ],
-    [
-      "Agent Psychosis: Are We Going Insane?",
-      "https://lucumr.pocoo.org/2026/1/18/agent-psychosis/"
     ]
   ]
 ]
