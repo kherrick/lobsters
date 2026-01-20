@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-01-20, 20:01:18",
-      "https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had"
-    ],
-    [
-      "How would software look if hardware had stopped improving long ago?",
-      "https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 19:18:28",
       "https://lobste.rs/s/cnkpcm/little_sound_dj"
     ],
@@ -51,12 +41,32 @@
   ],
   [
     [
+      "2026-01-20, 18:09:16",
+      "https://lobste.rs/s/6xnhvt/building_your_own_efficient_uint128_c"
+    ],
+    [
+      "Building Your Own Efficient uint128 in C++",
+      "https://solidean.com/blog/2026/building-your-own-u128/"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 17:00:06",
       "https://lobste.rs/s/l1xqzx/long_now_web_inside_internet_archive_s"
     ],
     [
       "The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting",
       "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 16:43:31",
+      "https://lobste.rs/s/1y3v8c/visualizing_delaunay_triangulation"
+    ],
+    [
+      "Visualizing Delaunay Triangulation (2022)",
+      "https://ianthehenry.com/posts/delaunay/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Lessons from creating a gaming-oriented scheduler",
       "https://lwn.net/Articles/1051430/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 05:08:08",
-      "https://lobste.rs/s/mkrhf6/what_came_first_cname_record"
-    ],
-    [
-      "What came first: the CNAME or the A record?",
-      "https://blog.cloudflare.com/cname-a-record-order-dns-standards/"
     ]
   ],
   [
