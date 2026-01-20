@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-20, 17:00:06",
+      "https://lobste.rs/s/l1xqzx/long_now_web_inside_internet_archive_s"
+    ],
+    [
+      "The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting",
+      "https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 16:39:26",
+      "https://lobste.rs/s/qywnk6/rust_s_standard_library_on_gpu"
+    ],
+    [
+      "Rust's standard library on the GPU",
+      "https://vectorware.com/blog/rust-std-on-gpu/"
+    ]
+  ],
+  [
+    [
       "2026-01-20, 16:14:51",
       "https://lobste.rs/s/smh8hs/venus_v5_released_modern_oo_standard"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-20, 06:08:05",
-      "https://lobste.rs/s/u9mo7b/3d_printing_my_laptop_ergonomic_setup"
-    ],
-    [
-      "3D printing my laptop ergonomic setup",
-      "https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 05:08:08",
       "https://lobste.rs/s/mkrhf6/what_came_first_cname_record"
     ],
@@ -217,16 +227,6 @@
     [
       "The Incredible Overcomplexity of the Shadcn Radio Button",
       "https://paulmakeswebsites.com/writing/shadcn-radio-button/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 06:28:55",
-      "https://lobste.rs/s/f6zsyd/are_arrays_functions"
-    ],
-    [
-      "Are arrays functions?",
-      "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
     ]
   ],
   [
