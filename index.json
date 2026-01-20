@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-20, 07:45:05",
-      "https://lobste.rs/s/vgjnvf/3_counterproductive_communication"
+      "2026-01-20, 08:31:31",
+      "https://lobste.rs/s/5jvboe/lessons_from_creating_gaming_oriented"
     ],
     [
-      "3 Counterproductive Communication Patterns Holding Back Security Researchers",
-      "https://discernibleinc.com/blog/3-counterproductive-communication-patterns-holding-back-security-researchers"
+      "Lessons from creating a gaming-oriented scheduler",
+      "https://lwn.net/Articles/1051430/"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 08:26:26",
+      "https://lobste.rs/s/iszcfp/i_was_top_0_01_cursor_user_here_s_why_i"
+    ],
+    [
+      "I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0",
+      "https://blog.silennai.com/claude-code"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 06:08:05",
+      "https://lobste.rs/s/u9mo7b/3d_printing_my_laptop_ergonomic_setup"
+    ],
+    [
+      "3D printing my laptop ergonomic setup",
+      "https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale",
       "https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 02:42:45",
-      "https://lobste.rs/s/py23pa/basis_universal_v2"
-    ],
-    [
-      "Basis Universal v2",
-      "https://github.com/BinomialLLC/basis_universal"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The Incredible Overcomplexity of the Shadcn Radio Button",
       "https://paulmakeswebsites.com/writing/shadcn-radio-button/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 15:21:50",
-      "https://lobste.rs/s/igcrnj/creusot_0_9_0_launching_creusot_devlog"
-    ],
-    [
-      "Creusot 0.9.0: Launching the Creusot Devlog",
-      "https://creusot-rs.github.io/devlog/2026-01-19/"
     ]
   ],
   [
