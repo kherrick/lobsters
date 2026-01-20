@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 20:01:18](https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had) - [How would software look if hardware had stopped improving long ago?](https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had)
 * [2026-01-20, 19:06:07](https://lobste.rs/s/ezyebi/where_i_m_at_with_ai) - [Where I'm at with AI](https://paulosman.me/2026/01/18/where-im-at-with-ai/)
 * [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
 * [2026-01-20, 17:00:06](https://lobste.rs/s/l1xqzx/long_now_web_inside_internet_archive_s) - [The Long Now of the Web: Inside the Internet Archive’s Fight Against Forgetting](https://hackernoon.com/the-long-now-of-the-web-inside-the-internet-archives-fight-against-forgetting)
