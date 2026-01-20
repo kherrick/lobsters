@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 21:25:21](https://lobste.rs/s/xfugsm/designing_service_with_indieauth_email) - [Designing a service with IndieAuth and email-based login](https://jamesg.blog/2026/01/20/indieauth-email-login-design/)
 * [2026-01-20, 21:13:05](https://lobste.rs/s/8hsnqv/on_coding_with_llms) - [On coding with LLMs](https://www.abareplace.com/blog/ai/)
 * [2026-01-20, 20:40:26](https://lobste.rs/s/nu0ge3/deep_learning_as_program_synthesis) - [Deep learning as program synthesis](https://www.lesswrong.com/posts/Dw8mskAvBX37MxvXo/deep-learning-as-program-synthesis-1)
 * [2026-01-20, 20:01:18](https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had) - [How would software look if hardware had stopped improving long ago?](https://lobste.rs/s/wlxuty/how_would_software_look_if_hardware_had)
