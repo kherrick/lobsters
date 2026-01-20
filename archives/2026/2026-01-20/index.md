@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-20](index.md)
 
+* [2026-01-20, 06:08:05](https://lobste.rs/s/u9mo7b/3d_printing_my_laptop_ergonomic_setup) - [3D printing my laptop ergonomic setup](https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
 * [2026-01-20, 05:19:35](https://lobste.rs/s/r4bdft/c_26_reflection_hearts_qrangemodel) - [C++26 Reflection hearts QRangeModel](https://www.qt.io/blog/c26-reflection-qrangemodel)
 * [2026-01-20, 05:08:08](https://lobste.rs/s/mkrhf6/what_came_first_cname_record) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-20, 04:28:28](https://lobste.rs/s/arf2zk/my_favorite_np_complete_problem_2016) - [My favorite NP-complete problem (2016)](https://www.youtube.com/watch?v=BJBnR5Sn-sc)
