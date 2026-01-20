@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-20, 02:42:45",
+      "https://lobste.rs/s/py23pa/basis_universal_v2"
+    ],
+    [
+      "Basis Universal v2",
+      "https://github.com/BinomialLLC/basis_universal"
+    ]
+  ],
+  [
+    [
+      "2026-01-20, 01:23:58",
+      "https://lobste.rs/s/yzsckk/prediction_within_15_years_microsoft"
+    ],
+    [
+      "Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution",
+      "https://gamesbymason.com/blog/2026/microsoft/"
+    ]
+  ],
+  [
+    [
       "2026-01-19, 22:21:20",
       "https://lobste.rs/s/nbsclr/floating_point_printing_parsing_can_be"
     ],
@@ -157,26 +177,6 @@
     [
       "Are arrays functions?",
       "https://futhark-lang.org/blog/2026-01-16-are-arrays-functions.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 05:35:58",
-      "https://lobste.rs/s/25bxlc/simulating_ladybug_clock_puzzle"
-    ],
-    [
-      "Simulating the ladybug clock puzzle",
-      "https://austinhenley.com/blog/ladybugclock.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 05:20:42",
-      "https://lobste.rs/s/nssu3g/cardputer_ulisp_machine"
-    ],
-    [
-      "Cardputer uLisp Machine",
-      "http://www.ulisp.com/show?52G4"
     ]
   ],
   [
