@@ -2,6 +2,7 @@
 
 * [2026-01-20, 06:08:05](https://lobste.rs/s/u9mo7b/3d_printing_my_laptop_ergonomic_setup) - [3D printing my laptop ergonomic setup](https://ntietz.com/blog/3d-printing-my-laptop-ergonomic-setup/)
 * [2026-01-20, 05:19:35](https://lobste.rs/s/r4bdft/c_26_reflection_hearts_qrangemodel) - [C++26 Reflection hearts QRangeModel](https://www.qt.io/blog/c26-reflection-qrangemodel)
+* [2026-01-20, 05:08:08](https://lobste.rs/s/mkrhf6/what_came_first_cname_record) - [What came first: the CNAME or the A record?](https://blog.cloudflare.com/cname-a-record-order-dns-standards/)
 * [2026-01-20, 03:55:21](https://lobste.rs/s/ymhppr/llms_your_career) - [LLMs and your career](https://notes.eatonphil.com/2026-01-19-llms-and-your-career.html)
 * [2026-01-20, 03:30:36](https://lobste.rs/s/x8hrkv/high_cardinality_metrics_how_prometheus) - [High Cardinality Metrics: How Prometheus and ClickHouse Handle Scale](https://last9.io/blog/high-cardinality-metrics-prometheus-clickhouse/)
 * [2026-01-20, 02:42:45](https://lobste.rs/s/py23pa/basis_universal_v2) - [Basis Universal v2](https://github.com/BinomialLLC/basis_universal)
@@ -23,7 +24,6 @@
 * [2026-01-19, 04:08:49](https://lobste.rs/s/txknsm/my_thoughts_on_gas_town_after_10_000_hours) - [My thoughts on Gas Town after 10,000 hours of Claude Code](https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code)
 * [2026-01-19, 02:25:35](https://lobste.rs/s/docfzx/people_cannot_just_pay_attention_boring) - [People cannot \"just pay attention\" to (boring, routine) things](https://utcc.utoronto.ca/~cks/space/blog/tech/PeopleCannotPayAttention)
 * [2026-01-18, 17:17:04](https://lobste.rs/s/ngwloq/how_lobsters_front_page_works) - [How the Lobsters front page works](https://atharvaraykar.com/lobsters/)
-* [2026-01-18, 15:49:59](https://lobste.rs/s/b6veve/some_c_habits_i_employ_for_modern_day) - [some C habits I employ for the modern day](https://www.unix.dog/~yosh/blog/c-habits-for-me.html)
 * [2026-01-18, 11:02:03](https://lobste.rs/s/0pxvyd/agent_psychosis_are_we_going_insane) - [Agent Psychosis: Are We Going Insane?](https://lucumr.pocoo.org/2026/1/18/agent-psychosis/)
 
 ## [Archives](archives/index.md)
