@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 10:07:03](https://lobste.rs/s/hzj99p/building_blog_gleam) - [Building a Blog in Gleam](https://gearsco.de/blog/blog-in-gleam/)
 * [2026-01-21, 09:50:50](https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic) - [Real programming vs. interviews: A dyslexic perspective](https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic)
 * [2026-01-21, 09:00:27](https://lobste.rs/s/hfdojo/faster_horses_not_trains) - [Faster horses, not trains](https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/)
 * [2026-01-21, 07:28:52](https://lobste.rs/s/ssfhmp/introduction_xet_hugging_face_s_storage) - [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
