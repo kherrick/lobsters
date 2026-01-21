@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-21, 18:03:04",
+      "https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really"
+    ],
+    [
+      "Hate is a strong word, but I really really really don’t like Windows 11",
+      "https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 16:56:51",
       "https://lobste.rs/s/s8un6w/pandas_3_0_0_released"
     ],
@@ -227,16 +237,6 @@
     [
       "Why ALTER TABLE is such a problem for SQLite",
       "https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 10:54:51",
-      "https://lobste.rs/s/fsq2qu/static_site_generator_written_posix"
-    ],
-    [
-      "A static site generator written in POSIX shell",
-      "https://aashvik.com/posts/shell-ssg"
     ]
   ],
   [
