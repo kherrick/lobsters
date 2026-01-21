@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-21, 09:50:50](https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic) - [Real programming vs. interviews: A dyslexic perspective](https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic)
 * [2026-01-21, 09:00:27](https://lobste.rs/s/hfdojo/faster_horses_not_trains) - [Faster horses, not trains](https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/)
 * [2026-01-21, 07:28:52](https://lobste.rs/s/ssfhmp/introduction_xet_hugging_face_s_storage) - [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
 * [2026-01-21, 03:58:15](https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how) - [I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format](https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/)
@@ -14,7 +15,6 @@
 * [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
 * [2026-01-20, 16:39:26](https://lobste.rs/s/qywnk6/rust_s_standard_library_on_gpu) - [Rust's standard library on the GPU](https://vectorware.com/blog/rust-std-on-gpu/)
 * [2026-01-20, 16:12:34](https://lobste.rs/s/kvviy0/type_safe_eval_grace) - [Type-safe eval in Grace](https://haskellforall.com/2026/01/typesafe-eval)
-* [2026-01-20, 14:38:22](https://lobste.rs/s/tldid3/ip_addresses_through_2025) - [IP Addresses Through 2025](https://www.potaroo.net/ispcol/2026-01/addr2025.html)
 * [2026-01-20, 14:24:13](https://lobste.rs/s/hrsaz6/unconventional_postgresql) - [Unconventional PostgreSQL Optimizations](https://hakibenita.com/postgresql-unconventional-optimizations)
 * [2026-01-20, 13:48:11](https://lobste.rs/s/nsjybj/why_alter_table_is_such_problem_for_sqlite) - [Why ALTER TABLE is such a problem for SQLite](https://www.sqlite.org/lang_altertable.html#why_alter_table_is_such_a_problem_for_sqlite)
 * [2026-01-20, 13:16:22](https://lobste.rs/s/oxeeyz/my_week_with_opencode) - [My week with opencode](https://deadsimpletech.com/blog/week_with_opencode)
