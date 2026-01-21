@@ -6,6 +6,7 @@
 
 * [2026-01-21, 21:28:48](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text) - [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
 * [2026-01-21, 18:18:27](https://lobste.rs/s/zgqp6i/how_binary_dependencies_work_across) - [How Binary Dependencies Work Across Different Languages](https://vlad.website/how-binary-dependencies-work/)
+* [2026-01-21, 18:10:35](https://lobste.rs/s/wa4xqd/libcurl_memory_use_some_years_later) - [libcurl memory use some years later](https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/)
 * [2026-01-21, 18:03:04](https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really) - [Hate is a strong word, but I really really really don’t like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11)
 * [2026-01-21, 16:56:51](https://lobste.rs/s/s8un6w/pandas_3_0_0_released) - [pandas 3.0.0 released](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0)
 * [2026-01-21, 16:53:36](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement) - [Lobsters Blog Carnival Announcement](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
