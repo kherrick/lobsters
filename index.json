@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-21, 23:28:35",
+      "https://lobste.rs/s/ybb9xu/inside_starrocks_why_joins_are_faster"
+    ],
+    [
+      "Inside StarRocks: Why Joins Are Faster Than You’d Expect",
+      "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 21:28:48",
       "https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text"
     ],
@@ -187,16 +197,6 @@
     [
       "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required",
       "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 19:18:28",
-      "https://lobste.rs/s/cnkpcm/little_sound_dj"
-    ],
-    [
-      "Little Sound Dj",
-      "https://www.littlesounddj.com/lsd/index.php"
     ]
   ],
   [
