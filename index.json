@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-21, 18:18:27",
+      "https://lobste.rs/s/zgqp6i/how_binary_dependencies_work_across"
+    ],
+    [
+      "How Binary Dependencies Work Across Different Languages",
+      "https://vlad.website/how-binary-dependencies-work/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 18:03:04",
       "https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really"
     ],
@@ -197,16 +207,6 @@
     [
       "Reliable Signals of Honest Intent",
       "https://zanlib.dev/blog/reliable-signals-of-honest-intent/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 16:39:26",
-      "https://lobste.rs/s/qywnk6/rust_s_standard_library_on_gpu"
-    ],
-    [
-      "Rust's standard library on the GPU",
-      "https://vectorware.com/blog/rust-std-on-gpu/"
     ]
   ],
   [
