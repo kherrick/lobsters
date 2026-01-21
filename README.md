@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
 * [2026-01-21, 12:54:26](https://lobste.rs/s/t1mmsv/art_craftsmanship_monozukuri_age_ai) - [The Art of Craftsmanship (Monozukuri) in the Age of AI - Raphael Amorim](https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/)
 * [2026-01-21, 12:47:52](https://lobste.rs/s/itkq4m/nested_code_fences_markdown) - [Nested Code Fences in Markdown](https://susam.net/nested-code-fences.html)
@@ -9,7 +10,6 @@
 * [2026-01-21, 03:58:15](https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how) - [I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format](https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/)
 * [2026-01-21, 02:09:15](https://lobste.rs/s/mpnhom/why_not_tail_recursion) - [Why not tail recursion?](https://futhark-lang.org/blog/2026-01-20-why-not-tail-recursion.html)
 * [2026-01-21, 02:07:05](https://lobste.rs/s/fxrdwz/building_javascript_runtime_one_month) - [Building a javascript runtime in one month](https://s.tail.so/js-in-one-month)
-* [2026-01-20, 21:25:21](https://lobste.rs/s/xfugsm/designing_service_with_indieauth_email) - [Designing a service with IndieAuth and email-based login](https://jamesg.blog/2026/01/20/indieauth-email-login-design/)
 * [2026-01-20, 21:14:03](https://lobste.rs/s/cxwenf/i_made_zig_compute_33_million_satellite) - [I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required](https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/)
 * [2026-01-20, 19:18:28](https://lobste.rs/s/cnkpcm/little_sound_dj) - [Little Sound Dj](https://www.littlesounddj.com/lsd/index.php)
 * [2026-01-20, 19:08:22](https://lobste.rs/s/udglku/building_critical_infrastructure_with) - [Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics](https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/)
