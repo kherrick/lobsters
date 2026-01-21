@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-21](index.md)
 
+* [2026-01-21, 16:53:36](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement) - [Lobsters Blog Carnival Announcement](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
+* [2026-01-21, 16:13:02](https://lobste.rs/s/grm2jb/making_lsp_for_great_good) - [Making an LSP for great good](https://thunderseethe.dev/posts/lsp-base/)
+* [2026-01-21, 15:22:10](https://lobste.rs/s/zntutr/skip_is_now_free_open_source) - [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 15:19:55](https://lobste.rs/s/wee6qk/vibecoding_2) - [Vibecoding #2](https://matklad.github.io/2026/01/20/vibecoding-2.html)
 * [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
