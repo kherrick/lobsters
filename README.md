@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-21, 09:00:27](https://lobste.rs/s/hfdojo/faster_horses_not_trains) - [Faster horses, not trains](https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/)
+* [2026-01-21, 07:28:52](https://lobste.rs/s/ssfhmp/introduction_xet_hugging_face_s_storage) - [An introduction to XET, Hugging Face's storage system (part 1)](https://00f.net/2026/01/19/xet-intro-1/)
 * [2026-01-21, 03:58:15](https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how) - [I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format](https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/)
 * [2026-01-21, 02:09:15](https://lobste.rs/s/mpnhom/why_not_tail_recursion) - [Why not tail recursion?](https://futhark-lang.org/blog/2026-01-20-why-not-tail-recursion.html)
 * [2026-01-21, 02:07:05](https://lobste.rs/s/fxrdwz/building_javascript_runtime_one_month) - [Building a javascript runtime in one month](https://s.tail.so/js-in-one-month)
@@ -23,7 +24,6 @@
 * [2026-01-20, 09:01:25](https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
 * [2026-01-20, 01:23:58](https://lobste.rs/s/yzsckk/prediction_within_15_years_microsoft) - [Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution](https://gamesbymason.com/blog/2026/microsoft/)
 * [2026-01-19, 22:21:20](https://lobste.rs/s/nbsclr/floating_point_printing_parsing_can_be) - [Floating-Point Printing and Parsing Can Be Simple And Fast](https://research.swtch.com/fp)
-* [2026-01-19, 22:07:47](https://lobste.rs/s/fsqjwr/personal_infrastructure_setup_2026) - [Personal infrastructure setup 2026](https://linderud.dev/blog/personal-infrastructure-setup-2026/)
 * [2026-01-19, 20:11:38](https://lobste.rs/s/bv4yod/only_two_markup_languages) - [The Only Two Markup Languages](https://www.gingerbill.org/article/2026/01/19/two-families-of-markup-languages/)
 
 ## [Archives](archives/index.md)
