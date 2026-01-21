@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-21, 15:19:55",
+      "https://lobste.rs/s/wee6qk/vibecoding_2"
+    ],
+    [
+      "Vibecoding #2",
+      "https://matklad.github.io/2026/01/20/vibecoding-2.html"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 14:58:45",
       "https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2026-01-21, 11:52:15",
+      "https://lobste.rs/s/m4hkml/emudevz_game_about_building_emulators"
+    ],
+    [
+      "EmuDevz: A game about building emulators",
+      "https://github.com/afska/emudevz"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 10:07:03",
       "https://lobste.rs/s/hzj99p/building_blog_gleam"
     ],
@@ -57,16 +77,6 @@
     [
       "Real programming vs. interviews: A dyslexic perspective",
       "https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 09:00:27",
-      "https://lobste.rs/s/hfdojo/faster_horses_not_trains"
-    ],
-    [
-      "Faster horses, not trains",
-      "https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution",
       "https://gamesbymason.com/blog/2026/microsoft/"
-    ]
-  ],
-  [
-    [
-      "2026-01-19, 22:21:20",
-      "https://lobste.rs/s/nbsclr/floating_point_printing_parsing_can_be"
-    ],
-    [
-      "Floating-Point Printing and Parsing Can Be Simple And Fast",
-      "https://research.swtch.com/fp"
     ]
   ]
 ]
