@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-21, 16:53:36",
+      "https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement"
+    ],
+    [
+      "Lobsters Blog Carnival Announcement",
+      "https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:13:02",
+      "https://lobste.rs/s/grm2jb/making_lsp_for_great_good"
+    ],
+    [
+      "Making an LSP for great good",
+      "https://thunderseethe.dev/posts/lsp-base/"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 15:22:10",
+      "https://lobste.rs/s/zntutr/skip_is_now_free_open_source"
+    ],
+    [
+      "Skip Is Now Free and Open Source",
+      "https://skip.dev/blog/skip-is-free/"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 15:19:55",
       "https://lobste.rs/s/wee6qk/vibecoding_2"
     ],
@@ -35,7 +65,7 @@
       "https://lobste.rs/s/t1mmsv/art_craftsmanship_monozukuri_age_ai"
     ],
     [
-      "The Art of Craftsmanship (Monozukuri) in the Age of AI - Raphael Amorim",
+      "The Art of Craftsmanship (Monozukuri) in the Age of AI",
       "https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/"
     ]
   ],
@@ -77,6 +107,16 @@
     [
       "Real programming vs. interviews: A dyslexic perspective",
       "https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 09:00:27",
+      "https://lobste.rs/s/hfdojo/faster_horses_not_trains"
+    ],
+    [
+      "Faster horses, not trains",
+      "https://blog.robbowley.net/2025/12/16/faster-horses-not-trains-yet/"
     ]
   ],
   [
@@ -127,16 +167,6 @@
     [
       "Little Sound Dj",
       "https://www.littlesounddj.com/lsd/index.php"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 19:08:22",
-      "https://lobste.rs/s/udglku/building_critical_infrastructure_with"
-    ],
-    [
-      "Building Critical Infrastructure with htmx: Network Automation for the Paris 2024 Olympics",
-      "https://htmx.org/essays/paris-2024-olympics-htmx-network-automation/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2026-01-20, 13:16:22",
-      "https://lobste.rs/s/oxeeyz/my_week_with_opencode"
-    ],
-    [
-      "My week with opencode",
-      "https://deadsimpletech.com/blog/week_with_opencode"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 12:23:41",
-      "https://lobste.rs/s/tq0yv5/jule_programming_language"
-    ],
-    [
-      "The Jule Programming Language",
-      "https://jule.dev/"
-    ]
-  ],
-  [
-    [
       "2026-01-20, 10:54:51",
       "https://lobste.rs/s/fsq2qu/static_site_generator_written_posix"
     ],
@@ -237,16 +247,6 @@
     [
       "Giving University Exams in the Age of Chatbots",
       "https://ploum.net/2026-01-19-exam-with-chatbots.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 01:23:58",
-      "https://lobste.rs/s/yzsckk/prediction_within_15_years_microsoft"
-    ],
-    [
-      "Prediction: Within 15 years Microsoft will discontinue Windows in favor of a Windows themed Linux distribution",
-      "https://gamesbymason.com/blog/2026/microsoft/"
     ]
   ]
 ]
