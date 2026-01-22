@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 14:11:32](https://lobste.rs/s/l61c2k/announcing_rust_1_93_0) - [Announcing Rust 1.93.0](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/)
 * [2026-01-22, 13:13:42](https://lobste.rs/s/ap4amt/vibe_kanban_orchestrate_ai_coding_agents) - [Vibe Kanban - Orchestrate AI Coding Agents](https://www.vibekanban.com/)
 * [2026-01-22, 12:50:52](https://lobste.rs/s/kv9qov/cslib_focused_effort_on_formalizing) - [CSLib: A Focused Effort on Formalizing Computer Science in Lean](https://www.cslib.io/)
 * [2026-01-22, 12:07:49](https://lobste.rs/s/pylhoc/rpi3_running_freebsd_12_clocks_390_days) - [RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server [bsky]](https://bsky.app/profile/atmosx.bsky.social/post/3mcz5g6vpmc2l)
