@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-22, 10:32:08",
+      "https://lobste.rs/s/bndnsg/runjak_codes_adversarial_coding_test"
+    ],
+    [
+      "runjak.codes: An adversarial coding test",
+      "https://runjak.codes/posts/2026-01-21-adversarial-coding-test/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 10:29:10",
+      "https://lobste.rs/s/m0twb1/your_app_subscription_is_now_my_weekend"
+    ],
+    [
+      "Your App Subscription Is Now My Weekend Project",
+      "https://rselbach.com/your-sub-is-now-my-weekend-project/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 10:09:41",
+      "https://lobste.rs/s/edn4nn/subagents_commands_skills_are"
+    ],
+    [
+      "Subagents, Commands and Skills Are Converging",
+      "https://www.vivekhaldar.com/articles/claude-code-subagents-commands-skills-converging/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 07:58:50",
       "https://lobste.rs/s/yegxsx/waiting_for_dawn_search_search_index"
     ],
@@ -57,16 +87,6 @@
     [
       "Results from the 2025 Go Developer Survey",
       "https://go.dev/blog/survey2025"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 23:28:35",
-      "https://lobste.rs/s/ybb9xu/inside_starrocks_why_joins_are_faster"
-    ],
-    [
-      "Inside StarRocks: Why Joins Are Faster Than You’d Expect",
-      "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-01-21, 09:50:50",
-      "https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic"
-    ],
-    [
-      "Real programming vs. interviews: A dyslexic perspective",
-      "https://lobste.rs/s/lesn5t/real_programming_vs_interviews_dyslexic"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 03:58:15",
       "https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how"
     ],
@@ -217,16 +227,6 @@
     [
       "Building a javascript runtime in one month",
       "https://s.tail.so/js-in-one-month"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 21:14:03",
-      "https://lobste.rs/s/cxwenf/i_made_zig_compute_33_million_satellite"
-    ],
-    [
-      "I Made Zig Compute 33 Million Satellite Positions in 3 Seconds. No GPU Required",
-      "https://atempleton.bearblog.dev/i-made-zig-compute-33-million-satellite-positions-in-3-seconds-no-gpu-required/"
     ]
   ],
   [
