@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-01-21, 23:18:29",
+      "https://lobste.rs/s/7i8euj/moon_rabbit_msx2_gopher_browser"
+    ],
+    [
+      "moon-rabbit: MSX2 Gopher browser",
+      "https://github.com/nihirash/moon-rabbit"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 21:28:48",
       "https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text"
     ],
@@ -177,16 +187,6 @@
     [
       "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
       "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 02:09:15",
-      "https://lobste.rs/s/mpnhom/why_not_tail_recursion"
-    ],
-    [
-      "Why not tail recursion?",
-      "https://futhark-lang.org/blog/2026-01-20-why-not-tail-recursion.html"
     ]
   ],
   [
