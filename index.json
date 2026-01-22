@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2026-01-22, 05:32:40",
-      "https://lobste.rs/s/jqpyop/best_practices_for_ownership_glib"
-    ],
-    [
-      "Best Practices for Ownership in GLib",
-      "https://blog.sebastianwick.net/posts/glib-ownership-best-practices/"
-    ]
-  ],
-  [
-    [
       "2026-01-22, 02:13:53",
       "https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error"
     ],
@@ -157,6 +147,16 @@
     [
       "Hate is a strong word, but I really really really don’t like Windows 11",
       "https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:56:51",
+      "https://lobste.rs/s/s8un6w/pandas_3_0_0_released"
+    ],
+    [
+      "pandas 3.0.0 released",
+      "https://github.com/pandas-dev/pandas/releases/tag/v3.0.0"
     ]
   ],
   [
