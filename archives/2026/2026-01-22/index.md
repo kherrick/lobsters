@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 18:33:12](https://lobste.rs/s/141j2p/code_only_agent) - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
+* [2026-01-22, 18:31:23](https://lobste.rs/s/sbakto/protocol_for_package_management) - [A Protocol for Package Management](https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html)
+* [2026-01-22, 18:07:19](https://lobste.rs/s/eznb24/js_returns_undefined) - [JS Returns Undefined](https://ylovits.github.io/returns-undefined/)
 * [2026-01-22, 17:23:54](https://lobste.rs/s/zscbag/you_can_average_percentiles_2016) - [You CAN Average Percentiles (2016)](https://rpubs.com/jrauser/percentiles)
 * [2026-01-22, 15:12:14](https://lobste.rs/s/skjato/ghost_wi_fi) - [Ghost in the Wi-Fi](https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/)
 * [2026-01-22, 15:12:07](https://lobste.rs/s/4rfmml/architecture_for_disposable_systems) - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
