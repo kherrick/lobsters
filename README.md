@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-22, 19:00:37](https://lobste.rs/s/t9kzm7/cta_hierarchy_wild) - [CTA Hierarchy in the Wild](https://blog.jim-nielsen.com/2026/cta-hierarchy/)
+* [2026-01-22, 18:52:02](https://lobste.rs/s/nlz3a6/i_was_banned_from_claude_for_scaffolding) - [I was banned from Claude for scaffolding a CLAUDE.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [2026-01-22, 18:33:12](https://lobste.rs/s/141j2p/code_only_agent) - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
-* [2026-01-22, 18:31:23](https://lobste.rs/s/sbakto/protocol_for_package_management) - [A Protocol for Package Management](https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html)
 * [2026-01-22, 18:07:19](https://lobste.rs/s/eznb24/js_returns_undefined) - [JS Returns Undefined](https://ylovits.github.io/returns-undefined/)
 * [2026-01-22, 15:12:14](https://lobste.rs/s/skjato/ghost_wi_fi) - [Ghost in the Wi-Fi](https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/)
 * [2026-01-22, 15:12:07](https://lobste.rs/s/4rfmml/architecture_for_disposable_systems) - [Architecture for Disposable Systems](https://tuananh.net/2026/01/15/architecture-for-disposable-systems/)
@@ -23,7 +24,6 @@
 * [2026-01-21, 15:22:10](https://lobste.rs/s/zntutr/skip_is_now_free_open_source) - [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
-* [2026-01-21, 03:58:15](https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how) - [I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format](https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/)
 * [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
 
 ## [Archives](archives/index.md)
