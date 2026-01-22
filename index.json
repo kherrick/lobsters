@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-22, 21:18:12",
+      "https://lobste.rs/s/spemfa/remotely_unlocking_encrypted_hard_disk"
+    ],
+    [
+      "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
+      "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 21:12:32",
       "https://lobste.rs/s/mph7rn/vnccc_vnc_wrapped_claude_code"
     ],
@@ -217,16 +227,6 @@
     [
       "Lobsters Blog Carnival Announcement",
       "https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 15:22:10",
-      "https://lobste.rs/s/zntutr/skip_is_now_free_open_source"
-    ],
-    [
-      "Skip Is Now Free and Open Source",
-      "https://skip.dev/blog/skip-is-free/"
     ]
   ],
   [
