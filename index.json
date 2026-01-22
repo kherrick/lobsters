@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-22, 05:32:40",
+      "https://lobste.rs/s/jqpyop/best_practices_for_ownership_glib"
+    ],
+    [
+      "Best Practices for Ownership in GLib",
+      "https://blog.sebastianwick.net/posts/glib-ownership-best-practices/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 02:13:53",
       "https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error"
     ],
@@ -157,16 +167,6 @@
     [
       "Nested Code Fences in Markdown",
       "https://susam.net/nested-code-fences.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 10:07:03",
-      "https://lobste.rs/s/hzj99p/building_blog_gleam"
-    ],
-    [
-      "Building a Blog in Gleam",
-      "https://gearsco.de/blog/blog-in-gleam/"
     ]
   ],
   [
