@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-22, 15:12:14",
+      "https://lobste.rs/s/skjato/ghost_wi_fi"
+    ],
+    [
+      "Ghost in the Wi-Fi",
+      "https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 15:12:07",
+      "https://lobste.rs/s/4rfmml/architecture_for_disposable_systems"
+    ],
+    [
+      "Architecture for Disposable Systems",
+      "https://tuananh.net/2026/01/15/architecture-for-disposable-systems/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 14:11:32",
       "https://lobste.rs/s/l61c2k/announcing_rust_1_93_0"
     ],
@@ -35,7 +55,7 @@
       "https://lobste.rs/s/pylhoc/rpi3_running_freebsd_12_clocks_390_days"
     ],
     [
-      "RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server [bsky]",
+      "RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server",
       "https://bsky.app/profile/atmosx.bsky.social/post/3mcz5g6vpmc2l"
     ]
   ],
@@ -141,22 +161,22 @@
   ],
   [
     [
-      "2026-01-21, 16:56:51",
-      "https://lobste.rs/s/s8un6w/pandas_3_0_0_released"
-    ],
-    [
-      "pandas 3.0.0 released",
-      "https://github.com/pandas-dev/pandas/releases/tag/v3.0.0"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 16:53:36",
       "https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement"
     ],
     [
       "Lobsters Blog Carnival Announcement",
       "https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement"
+    ]
+  ],
+  [
+    [
+      "2026-01-21, 16:13:02",
+      "https://lobste.rs/s/grm2jb/making_lsp_for_great_good"
+    ],
+    [
+      "Making an LSP for great good",
+      "https://thunderseethe.dev/posts/lsp-base/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-01-21, 12:54:26",
-      "https://lobste.rs/s/t1mmsv/art_craftsmanship_monozukuri_age_ai"
-    ],
-    [
-      "The Art of Craftsmanship (Monozukuri) in the Age of AI",
-      "https://rapha.land/the-art-of-craftsmanship-monozukuri-in-the-age-of-ai/"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 12:47:52",
       "https://lobste.rs/s/itkq4m/nested_code_fences_markdown"
     ],
@@ -227,16 +237,6 @@
     [
       "I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format",
       "https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 02:07:05",
-      "https://lobste.rs/s/fxrdwz/building_javascript_runtime_one_month"
-    ],
-    [
-      "Building a javascript runtime in one month",
-      "https://s.tail.so/js-in-one-month"
     ]
   ],
   [
