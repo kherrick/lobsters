@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-22, 13:13:42](https://lobste.rs/s/ap4amt/vibe_kanban_orchestrate_ai_coding_agents) - [Vibe Kanban - Orchestrate AI Coding Agents](https://www.vibekanban.com/)
+* [2026-01-22, 12:50:52](https://lobste.rs/s/kv9qov/cslib_focused_effort_on_formalizing) - [CSLib: A Focused Effort on Formalizing Computer Science in Lean](https://www.cslib.io/)
 * [2026-01-22, 12:07:49](https://lobste.rs/s/pylhoc/rpi3_running_freebsd_12_clocks_390_days) - [RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server [bsky]](https://bsky.app/profile/atmosx.bsky.social/post/3mcz5g6vpmc2l)
 * [2026-01-22, 11:34:13](https://lobste.rs/s/8vtlcw/goodjob_solid_queue_sidekiq_active_job) - [GoodJob, Solid Queue, Sidekiq, Active Job, in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026)
 * [2026-01-22, 10:32:08](https://lobste.rs/s/bndnsg/adversarial_coding_test) - [An adversarial coding test](https://runjak.codes/posts/2026-01-21-adversarial-coding-test/)
@@ -10,7 +12,6 @@
 * [2026-01-22, 02:13:53](https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error) - [Don't Trip[wire] Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
 * [2026-01-21, 23:46:24](https://lobste.rs/s/oq8n8r/results_from_2025_go_developer_survey) - [Results from the 2025 Go Developer Survey](https://go.dev/blog/survey2025)
 * [2026-01-21, 21:28:48](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text) - [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
-* [2026-01-21, 18:10:35](https://lobste.rs/s/wa4xqd/libcurl_memory_use_some_years_later) - [libcurl memory use some years later](https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/)
 * [2026-01-21, 18:03:04](https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really) - [Hate is a strong word, but I really really really don’t like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11)
 * [2026-01-21, 16:56:51](https://lobste.rs/s/s8un6w/pandas_3_0_0_released) - [pandas 3.0.0 released](https://github.com/pandas-dev/pandas/releases/tag/v3.0.0)
 * [2026-01-21, 16:53:36](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement) - [Lobsters Blog Carnival Announcement](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
@@ -24,7 +25,6 @@
 * [2026-01-21, 03:58:15](https://lobste.rs/s/v653ds/i_got_into_argument_on_discord_about_how) - [I got into an argument on Discord about how inefficient CBR/CBZ is, so I wrote a new file format](https://old.reddit.com/r/selfhosted/comments/1qi64pr/i_got_into_an_argument_on_discord_about_how/)
 * [2026-01-21, 02:07:05](https://lobste.rs/s/fxrdwz/building_javascript_runtime_one_month) - [Building a javascript runtime in one month](https://s.tail.so/js-in-one-month)
 * [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
-* [2026-01-20, 09:01:25](https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots) - [Giving University Exams in the Age of Chatbots](https://ploum.net/2026-01-19-exam-with-chatbots.html)
 
 ## [Archives](archives/index.md)
 
