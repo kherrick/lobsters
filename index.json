@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-01-22, 17:23:54",
-      "https://lobste.rs/s/zscbag/you_can_average_percentiles_2016"
+      "2026-01-22, 18:33:12",
+      "https://lobste.rs/s/141j2p/code_only_agent"
     ],
     [
-      "You CAN Average Percentiles (2016)",
-      "https://rpubs.com/jrauser/percentiles"
+      "The Code-Only Agent",
+      "https://rijnard.com/blog/the-code-only-agent"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 18:31:23",
+      "https://lobste.rs/s/sbakto/protocol_for_package_management"
+    ],
+    [
+      "A Protocol for Package Management",
+      "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 18:07:19",
+      "https://lobste.rs/s/eznb24/js_returns_undefined"
+    ],
+    [
+      "JS Returns Undefined",
+      "https://ylovits.github.io/returns-undefined/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-01-21, 15:19:55",
-      "https://lobste.rs/s/wee6qk/vibecoding_2"
-    ],
-    [
-      "Vibecoding #2",
-      "https://matklad.github.io/2026/01/20/vibecoding-2.html"
-    ]
-  ],
-  [
-    [
       "2026-01-21, 14:58:45",
       "https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side"
     ],
@@ -217,16 +227,6 @@
     [
       "FOSS for digital sovereignty in the EU",
       "https://www.more-magic.net/posts/open-source-in-the-eu.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 12:47:52",
-      "https://lobste.rs/s/itkq4m/nested_code_fences_markdown"
-    ],
-    [
-      "Nested Code Fences in Markdown",
-      "https://susam.net/nested-code-fences.html"
     ]
   ],
   [
