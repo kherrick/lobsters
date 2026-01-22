@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 23:23:54](https://lobste.rs/s/jumnjp/we_built_museum_exhibit_about_1990s_game) - [We built a museum exhibit about a 1990s game hint line, with a physical binder](https://yarnspinner.dev/blog/hint-line-93/)
 * [2026-01-22, 21:18:12](https://lobste.rs/s/spemfa/remotely_unlocking_encrypted_hard_disk) - [remotely unlocking an encrypted hard disk with systemd initrd on Arch](https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/)
 * [2026-01-22, 21:12:32](https://lobste.rs/s/mph7rn/vnccc_vnc_wrapped_claude_code) - [vnccc: vnc wrapped claude code](https://github.com/pgray/vnccc)
 * [2026-01-22, 20:05:45](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
