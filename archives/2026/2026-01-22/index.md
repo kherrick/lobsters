@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 10:32:08](https://lobste.rs/s/bndnsg/runjak_codes_adversarial_coding_test) - [runjak.codes: An adversarial coding test](https://runjak.codes/posts/2026-01-21-adversarial-coding-test/)
+* [2026-01-22, 10:29:10](https://lobste.rs/s/m0twb1/your_app_subscription_is_now_my_weekend) - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project/)
+* [2026-01-22, 10:09:41](https://lobste.rs/s/edn4nn/subagents_commands_skills_are) - [Subagents, Commands and Skills Are Converging](https://www.vivekhaldar.com/articles/claude-code-subagents-commands-skills-converging/)
 * [2026-01-22, 07:58:50](https://lobste.rs/s/yegxsx/waiting_for_dawn_search_search_index) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-22, 06:36:32](https://lobste.rs/s/0lm8so/secure_boot_tpm_anti_cheat_engines) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)
 * [2026-01-22, 05:36:59](https://lobste.rs/s/bxwcaf/high_level_quality_service_interface) - [A high-level quality-of-service interface](https://lwn.net/Articles/1051982/)
