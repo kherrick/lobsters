@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-22, 20:05:45](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
+* [2026-01-22, 19:00:37](https://lobste.rs/s/t9kzm7/cta_hierarchy_wild) - [CTA Hierarchy in the Wild](https://blog.jim-nielsen.com/2026/cta-hierarchy/)
 * [2026-01-22, 18:52:02](https://lobste.rs/s/nlz3a6/i_was_banned_from_claude_for_scaffolding) - [I was banned from Claude for scaffolding a CLAUDE.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
 * [2026-01-22, 18:33:12](https://lobste.rs/s/141j2p/code_only_agent) - [The Code-Only Agent](https://rijnard.com/blog/the-code-only-agent)
 * [2026-01-22, 18:07:19](https://lobste.rs/s/eznb24/js_returns_undefined) - [JS Returns Undefined](https://ylovits.github.io/returns-undefined/)
@@ -20,11 +22,9 @@
 * [2026-01-21, 21:28:48](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text) - [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
 * [2026-01-21, 18:03:04](https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really) - [Hate is a strong word, but I really really really don’t like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11)
 * [2026-01-21, 16:53:36](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement) - [Lobsters Blog Carnival Announcement](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
-* [2026-01-21, 16:13:02](https://lobste.rs/s/grm2jb/making_lsp_for_great_good) - [Making an LSP for great good](https://thunderseethe.dev/posts/lsp-base/)
 * [2026-01-21, 15:22:10](https://lobste.rs/s/zntutr/skip_is_now_free_open_source) - [Skip Is Now Free and Open Source](https://skip.dev/blog/skip-is-free/)
 * [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
-* [2026-01-20, 19:01:44](https://lobste.rs/s/qy6azg/reliable_signals_honest_intent) - [Reliable Signals of Honest Intent](https://zanlib.dev/blog/reliable-signals-of-honest-intent/)
 
 ## [Archives](archives/index.md)
 
