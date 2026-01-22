@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-21, 23:28:35",
+      "https://lobste.rs/s/ybb9xu/inside_starrocks_why_joins_are_faster"
+    ],
+    [
+      "Inside StarRocks: Why Joins Are Faster Than You’d Expect",
+      "https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"
+    ]
+  ],
+  [
+    [
       "2026-01-21, 21:28:48",
       "https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text"
     ],
@@ -207,16 +217,6 @@
     [
       "Reliable Signals of Honest Intent",
       "https://zanlib.dev/blog/reliable-signals-of-honest-intent/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 16:12:34",
-      "https://lobste.rs/s/kvviy0/type_safe_eval_grace"
-    ],
-    [
-      "Type-safe eval in Grace",
-      "https://haskellforall.com/2026/01/typesafe-eval"
     ]
   ],
   [
