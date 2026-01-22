@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-22](index.md)
 
+* [2026-01-22, 21:12:32](https://lobste.rs/s/mph7rn/vnccc_vnc_wrapped_claude_code) - [vnccc: vnc wrapped claude code](https://github.com/pgray/vnccc)
 * [2026-01-22, 20:05:45](https://lobste.rs/s/7oqiqi/ssh_has_no_host_header) - [SSH has no Host header](https://blog.exe.dev/ssh-host-header)
 * [2026-01-22, 19:00:37](https://lobste.rs/s/t9kzm7/cta_hierarchy_wild) - [CTA Hierarchy in the Wild](https://blog.jim-nielsen.com/2026/cta-hierarchy/)
 * [2026-01-22, 18:52:02](https://lobste.rs/s/nlz3a6/i_was_banned_from_claude_for_scaffolding) - [I was banned from Claude for scaffolding a CLAUDE.md file](https://hugodaniel.com/posts/claude-code-banned-me/)
