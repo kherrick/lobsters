@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-22, 13:13:42",
+      "https://lobste.rs/s/ap4amt/vibe_kanban_orchestrate_ai_coding_agents"
+    ],
+    [
+      "Vibe Kanban - Orchestrate AI Coding Agents",
+      "https://www.vibekanban.com/"
+    ]
+  ],
+  [
+    [
+      "2026-01-22, 12:50:52",
+      "https://lobste.rs/s/kv9qov/cslib_focused_effort_on_formalizing"
+    ],
+    [
+      "CSLib: A Focused Effort on Formalizing Computer Science in Lean",
+      "https://www.cslib.io/"
+    ]
+  ],
+  [
+    [
       "2026-01-22, 12:07:49",
       "https://lobste.rs/s/pylhoc/rpi3_running_freebsd_12_clocks_390_days"
     ],
@@ -97,16 +117,6 @@
     [
       "FSNotes 7 - Remarkable fast plain text notes",
       "https://fsnot.es/v7/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 18:10:35",
-      "https://lobste.rs/s/wa4xqd/libcurl_memory_use_some_years_later"
-    ],
-    [
-      "libcurl memory use some years later",
-      "https://daniel.haxx.se/blog/2026/01/21/libcurl-memory-use-some-years-later/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Reliable Signals of Honest Intent",
       "https://zanlib.dev/blog/reliable-signals-of-honest-intent/"
-    ]
-  ],
-  [
-    [
-      "2026-01-20, 09:01:25",
-      "https://lobste.rs/s/parmy3/giving_university_exams_age_chatbots"
-    ],
-    [
-      "Giving University Exams in the Age of Chatbots",
-      "https://ploum.net/2026-01-19-exam-with-chatbots.html"
     ]
   ]
 ]
