@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-23, 10:06:14",
+      "https://lobste.rs/s/q1l1t0/replacing_protobuf_with_rust_go_5_times"
+    ],
+    [
+      "Replacing Protobuf with Rust to go 5 times faster",
+      "https://pgdog.dev/blog/replace-protobuf-with-rust"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 10:00:33",
       "https://lobste.rs/s/qhickw/explainer_tree_sitter_vs_lsp"
     ],
@@ -227,16 +237,6 @@
     [
       "Secure Boot, TPM and Anti-Cheat Engines",
       "https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 02:13:53",
-      "https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error"
-    ],
-    [
-      "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
-      "https://mitchellh.com/writing/tripwire"
     ]
   ],
   [
