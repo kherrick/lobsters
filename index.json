@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-23, 15:15:46",
+      "https://lobste.rs/s/wwmwed/moral_character_cryptographic_work_2015"
+    ],
+    [
+      "The Moral Character of Cryptographic Work (2015)",
+      "https://www.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 15:02:16",
       "https://lobste.rs/s/nqbuzi/ai_good_instructor_terrible_educator"
     ],
     [
       "AI: Good Instructor, Terrible Educator",
       "https://www.linkedin.com/pulse/ai-good-instructor-terrible-educator-nadim-kobeissi-qcmnf"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 14:45:54",
+      "https://lobste.rs/s/uluua1/scaling_postgresql_power_800_million"
+    ],
+    [
+      "Scaling PostgreSQL to power 800 million ChatGPT users",
+      "https://openai.com/index/scaling-postgresql/"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "CTA Hierarchy in the Wild",
       "https://blog.jim-nielsen.com/2026/cta-hierarchy/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 18:31:23",
-      "https://lobste.rs/s/sbakto/protocol_for_package_management"
-    ],
-    [
-      "A Protocol for Package Management",
-      "https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 15:12:14",
-      "https://lobste.rs/s/skjato/ghost_wi_fi"
-    ],
-    [
-      "Ghost in the Wi-Fi",
-      "https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/"
     ]
   ],
   [
