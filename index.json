@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-23, 14:04:59",
+      "https://lobste.rs/s/wn2gyb/firefox_linux_2025"
+    ],
+    [
+      "Firefox & Linux in 2025",
+      "https://mastransky.wordpress.com/2026/01/23/firefox-linux-in-2025/"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 13:56:22",
+      "https://lobste.rs/s/b95hk4/interfaces_traits_c"
+    ],
+    [
+      "Interfaces and traits in C",
+      "https://antonz.org/interfaces-in-c/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 13:31:49",
       "https://lobste.rs/s/5ogdk7/what_has_docker_become"
     ],
@@ -97,16 +117,6 @@
     [
       "Why does SSH send 100 packets per keystroke?",
       "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 02:21:48",
-      "https://lobste.rs/s/pxhhjn/implementation_apollo_guidance"
-    ],
-    [
-      "Implementation of the Apollo Guidance Computer in an FPGA",
-      "https://github.com/mikeakohn/apollo11_fpga"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Your App Subscription Is Now My Weekend Project",
       "https://rselbach.com/your-sub-is-now-my-weekend-project/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 07:58:50",
-      "https://lobste.rs/s/yegxsx/waiting_for_dawn_search_search_index"
-    ],
-    [
-      "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-      "https://blog.kagi.com/waiting-dawn-search"
     ]
   ],
   [
