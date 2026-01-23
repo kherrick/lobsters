@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-23, 10:06:14",
+      "https://lobste.rs/s/q1l1t0/replacing_protobuf_with_rust_go_5_times"
+    ],
+    [
+      "Replacing Protobuf with Rust to go 5 times faster",
+      "https://pgdog.dev/blog/replace-protobuf-with-rust"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 10:00:33",
+      "https://lobste.rs/s/qhickw/explainer_tree_sitter_vs_lsp"
+    ],
+    [
+      "Explainer: Tree-sitter vs. LSP",
+      "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 08:16:31",
       "https://lobste.rs/s/uujlga/webracket_language_is_subset_racket"
     ],
@@ -217,26 +237,6 @@
     [
       "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
       "https://mitchellh.com/writing/tripwire"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 21:28:48",
-      "https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text"
-    ],
-    [
-      "FSNotes 7 - Remarkable fast plain text notes",
-      "https://fsnot.es/v7/"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 14:58:45",
-      "https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side"
-    ],
-    [
-      "So, why *should* GNOME support server side decorations?",
-      "https://blister.zip/posts/gnome-ssd/"
     ]
   ],
   [
