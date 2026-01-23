@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-23, 02:04:57",
+      "https://lobste.rs/s/ezskz5/dynamic_ghc_matrix_github_ci"
+    ],
+    [
+      "Dynamic GHC matrix in GitHub CI",
+      "https://hasufell.github.io/posts/2026-01-22-dynamic-ghcup-action.html"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 01:34:45",
       "https://lobste.rs/s/seutjn/compiling_scheme_webassembly"
     ],
@@ -117,16 +127,6 @@
     [
       "Announcing Rust 1.93.0",
       "https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 12:50:52",
-      "https://lobste.rs/s/kv9qov/cslib_focused_effort_on_formalizing"
-    ],
-    [
-      "CSLib: A Focused Effort on Formalizing Computer Science in Lean",
-      "https://www.cslib.io/"
     ]
   ],
   [
