@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-23, 01:34:45",
+      "https://lobste.rs/s/seutjn/compiling_scheme_webassembly"
+    ],
+    [
+      "Compiling Scheme to WebAssembly",
+      "https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 00:39:28",
       "https://lobste.rs/s/zgrqdi/open_folder_all_your_agents_are_mine"
     ],
@@ -37,16 +47,6 @@
     [
       "remotely unlocking an encrypted hard disk with systemd initrd on Arch",
       "https://jyn.dev/remotely-unlocking-an-encrypted-hard-disk/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 21:12:32",
-      "https://lobste.rs/s/mph7rn/vnccc_vnc_wrapped_claude_code"
-    ],
-    [
-      "vnccc: vnc wrapped claude code",
-      "https://github.com/pgray/vnccc"
     ]
   ],
   [
