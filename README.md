@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-23, 07:40:07](https://lobste.rs/s/uskrd1/maintaining_shadow_branches_for_github) - [Maintaining shadow branches for GitHub PRs](https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs)
 * [2026-01-23, 06:34:12](https://lobste.rs/s/iyowrd/selectively_disabling_http_1_0_http_1_1) - [Selectively Disabling HTTP/1.0 and HTTP/1.1](https://markmcb.com/web/selectively_disabling_http_1/)
 * [2026-01-23, 02:39:31](https://lobste.rs/s/go7npe/why_does_ssh_send_100_packets_per) - [Why does SSH send 100 packets per keystroke?](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/)
+* [2026-01-23, 01:51:55](https://lobste.rs/s/cw1abp/learning_low_level_computing_c_by_making) - [Learning Low-Level Computing and C++ by Making a Game Boy Emulator - The Making of GameByte](https://byteofmelon.com/blog/2026/making-of-gamebyte)
 * [2026-01-23, 01:34:45](https://lobste.rs/s/seutjn/compiling_scheme_webassembly) - [Compiling Scheme to WebAssembly](https://eli.thegreenplace.net/2026/compiling-scheme-to-webassembly/)
 * [2026-01-23, 00:39:28](https://lobste.rs/s/zgrqdi/exploit_cursor_agents_create_persistent) - [Exploit Cursor Agents to create persistent, distributed threats](https://ike.io/open-a-folder-all-your-agents-are-mine/)
 * [2026-01-23, 00:12:09](https://lobste.rs/s/ijyacx/overrun_with_ai_slop_curl_scraps_bug) - [Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"](https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/)
@@ -13,7 +15,6 @@
 * [2026-01-22, 18:31:23](https://lobste.rs/s/sbakto/protocol_for_package_management) - [A Protocol for Package Management](https://nesbitt.io/2026/01/22/a-protocol-for-package-management.html)
 * [2026-01-22, 15:12:14](https://lobste.rs/s/skjato/ghost_wi_fi) - [Ghost in the Wi-Fi](https://josephmate.github.io/2026-01-20-ghost-in-the-wifi/)
 * [2026-01-22, 14:11:32](https://lobste.rs/s/l61c2k/announcing_rust_1_93_0) - [Announcing Rust 1.93.0](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/)
-* [2026-01-22, 12:07:49](https://lobste.rs/s/pylhoc/rpi3_running_freebsd_12_clocks_390_days) - [RPi3 running FreeBSD 12 clocks 390 days uptime as a Radius server](https://bsky.app/profile/atmosx.bsky.social/post/3mcz5g6vpmc2l)
 * [2026-01-22, 11:34:13](https://lobste.rs/s/8vtlcw/goodjob_solid_queue_sidekiq_active_job) - [GoodJob, Solid Queue, Sidekiq, Active Job, in 2026](https://island94.org/2026/01/goodjob-solid-queue-sidekiq-active-job-in-2026)
 * [2026-01-22, 10:32:08](https://lobste.rs/s/bndnsg/adversarial_coding_test) - [An adversarial coding test](https://runjak.codes/posts/2026-01-21-adversarial-coding-test/)
 * [2026-01-22, 10:29:10](https://lobste.rs/s/m0twb1/your_app_subscription_is_now_my_weekend) - [Your App Subscription Is Now My Weekend Project](https://rselbach.com/your-sub-is-now-my-weekend-project/)
@@ -22,7 +23,6 @@
 * [2026-01-22, 02:13:53](https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error) - [Don't Trip[wire] Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
 * [2026-01-21, 23:46:24](https://lobste.rs/s/oq8n8r/results_from_2025_go_developer_survey) - [Results from the 2025 Go Developer Survey](https://go.dev/blog/survey2025)
 * [2026-01-21, 21:28:48](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text) - [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
-* [2026-01-21, 18:03:04](https://lobste.rs/s/t5pb5f/hate_is_strong_word_i_really_really_really) - [Hate is a strong word, but I really really really don’t like Windows 11](https://blog.urara.pl/hate-is-a-strong-word-but-i-really-really-really-don't-like-windows-11)
 * [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
 
