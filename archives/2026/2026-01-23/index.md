@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-23](index.md)
 
+* [2026-01-23, 18:20:43](https://lobste.rs/s/3zsexb/rheo_typesetting_static_site_engine) - [Rheo - Typesetting and static site engine based on Typst](https://github.com/freecomputinglab/rheo)
 * [2026-01-23, 17:19:32](https://lobste.rs/s/cqvzzy/teemux_zero_config_log_multiplexer_with) - [teemux: Zero-config log multiplexer with built-in MCP server](https://github.com/gajus/teemux)
 * [2026-01-23, 17:14:20](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend)
 * [2026-01-23, 16:45:06](https://lobste.rs/s/cqrtbd/portable_cartesian_brace_expansion_your) - [Portable (cartesian) brace expansion in your shell](https://neosmart.net/blog/portable-cartesian-brace-expansion-in-your-shell/)
