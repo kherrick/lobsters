@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-23, 09:05:39](https://lobste.rs/s/ncfrbj/gptzero_finds_100_new_hallucinations) - [GPTZero finds 100 new hallucinations in NeurIPS 2025 accepted papers](https://gptzero.me/news/neurips/)
 * [2026-01-23, 08:16:31](https://lobste.rs/s/uujlga/webracket_language_is_subset_racket) - [The WebRacket language is a subset of Racket that compiles to WebAssembly](https://github.com/soegaard/webracket)
 * [2026-01-23, 07:40:07](https://lobste.rs/s/uskrd1/maintaining_shadow_branches_for_github) - [Maintaining shadow branches for GitHub PRs](https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs)
 * [2026-01-23, 06:34:12](https://lobste.rs/s/iyowrd/selectively_disabling_http_1_0_http_1_1) - [Selectively Disabling HTTP/1.0 and HTTP/1.1](https://markmcb.com/web/selectively_disabling_http_1/)
@@ -23,6 +22,7 @@
 * [2026-01-22, 07:58:50](https://lobste.rs/s/yegxsx/waiting_for_dawn_search_search_index) - [Waiting for dawn in search: Search index, Google rulings and impact on Kagi](https://blog.kagi.com/waiting-dawn-search)
 * [2026-01-22, 06:36:32](https://lobste.rs/s/0lm8so/secure_boot_tpm_anti_cheat_engines) - [Secure Boot, TPM and Anti-Cheat Engines](https://andrewmoore.ca/blog/post/anticheat-secure-boot-tpm/)
 * [2026-01-22, 02:13:53](https://lobste.rs/s/pb4kco/don_t_trip_wire_yourself_testing_error) - [Don't Trip[wire] Yourself: Testing Error Recovery in Zig](https://mitchellh.com/writing/tripwire)
+* [2026-01-21, 21:28:48](https://lobste.rs/s/koy1fz/fsnotes_7_remarkable_fast_plain_text) - [FSNotes 7 - Remarkable fast plain text notes](https://fsnot.es/v7/)
 * [2026-01-21, 14:58:45](https://lobste.rs/s/zjje5x/so_why_should_gnome_support_server_side) - [So, why *should* GNOME support server side decorations?](https://blister.zip/posts/gnome-ssd/)
 * [2026-01-21, 13:11:23](https://lobste.rs/s/oxjhnd/foss_for_digital_sovereignty_eu) - [FOSS for digital sovereignty in the EU](https://www.more-magic.net/posts/open-source-in-the-eu.html)
 
