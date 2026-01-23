@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-23, 18:47:19",
+      "https://lobste.rs/s/rua81a/open_widevine_support_added_chromium"
+    ],
+    [
+      "(Open) Widevine support added to the chromium port",
+      "https://undeadly.org/cgi?action=article;sid=20260118112808"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 18:25:17",
       "https://lobste.rs/s/dsjhhw/isometric_nyc"
     ],
@@ -177,16 +187,6 @@
     [
       "Why does SSH send 100 packets per keystroke?",
       "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 00:39:28",
-      "https://lobste.rs/s/zgrqdi/exploit_cursor_agents_create_persistent"
-    ],
-    [
-      "Exploit Cursor Agents to create persistent, distributed threats",
-      "https://ike.io/open-a-folder-all-your-agents-are-mine/"
     ]
   ],
   [
