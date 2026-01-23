@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-01-23, 02:21:48",
+      "https://lobste.rs/s/pxhhjn/implementation_apollo_guidance"
+    ],
+    [
+      "Implementation of the Apollo Guidance Computer in an FPGA",
+      "https://github.com/mikeakohn/apollo11_fpga"
+    ]
+  ],
+  [
+    [
       "2026-01-23, 01:51:55",
       "https://lobste.rs/s/cw1abp/learning_low_level_computing_c_by_making"
     ],
@@ -207,16 +217,6 @@
     [
       "Don't Trip[wire] Yourself: Testing Error Recovery in Zig",
       "https://mitchellh.com/writing/tripwire"
-    ]
-  ],
-  [
-    [
-      "2026-01-21, 23:46:24",
-      "https://lobste.rs/s/oq8n8r/results_from_2025_go_developer_survey"
-    ],
-    [
-      "Results from the 2025 Go Developer Survey",
-      "https://go.dev/blog/survey2025"
     ]
   ],
   [
