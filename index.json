@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 18:54:00",
+      "https://lobste.rs/s/i7zvfc/cua_bench_benchmark_for_ai_agents_gui"
+    ],
+    [
+      "Cua-Bench – a benchmark for AI agents in GUI environments",
+      "https://github.com/trycua/cua-bench"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 18:05:49",
       "https://lobste.rs/s/abqeyo/obvious_things_c_should_do"
     ],
@@ -37,16 +47,6 @@
     [
       "Telegraph Key(singular)board:Morse for the modern era",
       "https://hannahilea.com/blog/telegraph-key-singular-board/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 08:37:36",
-      "https://lobste.rs/s/mstij5/vivace_graph_v3_cl_graph_database_prolog"
-    ],
-    [
-      "vivace-graph-v3: CL graph database & Prolog implementation",
-      "https://github.com/kraison/vivace-graph-v3"
     ]
   ],
   [
