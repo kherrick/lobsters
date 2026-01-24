@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
+* [2026-01-24, 15:15:15](https://lobste.rs/s/sppr7m/coi_webassembly_for_modern_web) - [Coi - WebAssembly for the Modern Web](https://io-eric.github.io/coi/)
 * [2026-01-24, 13:51:22](https://lobste.rs/s/h6lbry/telegraph_key_singular_board_morse_for) - [Telegraph Key(singular)board:Morse for the modern era](https://hannahilea.com/blog/telegraph-key-singular-board/)
 * [2026-01-24, 09:05:34](https://lobste.rs/s/mabl0w/creating_html_spoilers_element_with_no_js) - [Creating an HTML “spoilers” element with no JS (2024)](https://www.wavebeem.com/blog/2024/spoilers-element-no-js/)
 * [2026-01-24, 08:37:36](https://lobste.rs/s/mstij5/vivace_graph_v3_cl_graph_database_prolog) - [vivace-graph-v3: CL graph database & Prolog implementation](https://github.com/kraison/vivace-graph-v3)
