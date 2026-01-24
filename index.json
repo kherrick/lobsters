@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 20:06:55",
+      "https://lobste.rs/s/ldu468/statutory_turing_complete_language_17th"
+    ],
+    [
+      "STATUTORY: A Turing-complete language in 17th-century legal English",
+      "https://github.com/scordata/statutory"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 18:54:00",
       "https://lobste.rs/s/i7zvfc/cua_bench_benchmark_for_ai_agents_gui"
     ],
@@ -17,6 +27,16 @@
     [
       "Obvious Things C Should Do",
       "https://www.digitalmars.com/articles/Cobvious.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 17:58:06",
+      "https://lobste.rs/s/eahe0a/welcome_town_al_gasr"
+    ],
+    [
+      "Welcome to Town Al-Gasr",
+      "http://muratbuffalo.blogspot.com/2026/01/welcome-to-town-al-gasr.html"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-01-23, 17:14:20",
-      "https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/7jshu6/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 14:04:59",
       "https://lobste.rs/s/wn2gyb/firefox_linux_2025"
     ],
@@ -227,16 +237,6 @@
     [
       "Explainer: Tree-sitter vs. LSP",
       "https://lambdaland.org/posts/2026-01-21_tree-sitter_vs_lsp/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 07:40:07",
-      "https://lobste.rs/s/uskrd1/maintaining_shadow_branches_for_github"
-    ],
-    [
-      "Maintaining shadow branches for GitHub PRs",
-      "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs"
     ]
   ],
   [
