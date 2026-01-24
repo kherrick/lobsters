@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-01-24](index.md)
 
 * [2026-01-24, 13:51:22](https://lobste.rs/s/h6lbry/telegraph_key_singular_board_morse_for) - [Telegraph Key(singular)board:Morse for the modern era](https://hannahilea.com/blog/telegraph-key-singular-board/)
+* [2026-01-24, 08:37:36](https://lobste.rs/s/mstij5/vivace_graph_v3_cl_graph_database_prolog) - [vivace-graph-v3: CL graph database & Prolog implementation](https://github.com/kraison/vivace-graph-v3)
 * [2026-01-24, 08:15:38](https://lobste.rs/s/mcaxcn/lispe_lisp_interpreter_with_data) - [lispE: Lisp interpreter with Data Structure, Pattern Programming, High level Functions, Lazy Evaluation](https://github.com/naver/lispe)
 * [2026-01-24, 08:12:27](https://lobste.rs/s/lk5qjr/modetc_move_your_dotfiles_from_kernel) - [modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
 * [2026-01-24, 07:37:22](https://lobste.rs/s/kgdkq3/mikrotik_first_look_getting_started) - [MikroTik first look and getting started](https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/)
