@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-01-23, 14:45:54",
-      "https://lobste.rs/s/uluua1/scaling_postgresql_power_800_million"
-    ],
-    [
-      "Scaling PostgreSQL to power 800 million ChatGPT users",
-      "https://openai.com/index/scaling-postgresql/"
-    ]
-  ],
-  [
-    [
       "2026-01-23, 14:04:59",
       "https://lobste.rs/s/wn2gyb/firefox_linux_2025"
     ],
@@ -237,6 +227,16 @@
     [
       "Maintaining shadow branches for GitHub PRs",
       "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs"
+    ]
+  ],
+  [
+    [
+      "2026-01-23, 06:34:12",
+      "https://lobste.rs/s/iyowrd/selectively_disabling_http_1_0_http_1_1"
+    ],
+    [
+      "Selectively Disabling HTTP/1.0 and HTTP/1.1",
+      "https://markmcb.com/web/selectively_disabling_http_1/"
     ]
   ],
   [
