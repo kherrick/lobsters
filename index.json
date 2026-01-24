@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-01-24, 08:37:36",
+      "https://lobste.rs/s/mstij5/vivace_graph_v3_cl_graph_database_prolog"
+    ],
+    [
+      "vivace-graph-v3: CL graph database & Prolog implementation",
+      "https://github.com/kraison/vivace-graph-v3"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 08:15:38",
       "https://lobste.rs/s/mcaxcn/lispe_lisp_interpreter_with_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
       "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/"
-    ]
-  ],
-  [
-    [
-      "2026-01-22, 20:05:45",
-      "https://lobste.rs/s/7oqiqi/ssh_has_no_host_header"
-    ],
-    [
-      "SSH has no Host header",
-      "https://blog.exe.dev/ssh-host-header"
     ]
   ]
 ]
