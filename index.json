@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-24, 16:39:37",
+      "https://lobste.rs/s/2qsmw8/e9p_pure_erlang_9p_implementation"
+    ],
+    [
+      "e9p - pure Erlang 9p implementation",
+      "https://tangled.org/hauleth.dev/e9p"
+    ]
+  ],
+  [
+    [
       "2026-01-24, 15:15:15",
       "https://lobste.rs/s/sppr7m/coi_webassembly_for_modern_web"
     ],
@@ -17,6 +27,16 @@
     [
       "Telegraph Key(singular)board:Morse for the modern era",
       "https://hannahilea.com/blog/telegraph-key-singular-board/"
+    ]
+  ],
+  [
+    [
+      "2026-01-24, 08:37:36",
+      "https://lobste.rs/s/mstij5/vivace_graph_v3_cl_graph_database_prolog"
+    ],
+    [
+      "vivace-graph-v3: CL graph database & Prolog implementation",
+      "https://github.com/kraison/vivace-graph-v3"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Maintaining shadow branches for GitHub PRs",
       "https://maskray.me/blog/2026-01-22-maintaining-shadow-branches-for-github-prs"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 06:34:12",
-      "https://lobste.rs/s/iyowrd/selectively_disabling_http_1_0_http_1_1"
-    ],
-    [
-      "Selectively Disabling HTTP/1.0 and HTTP/1.1",
-      "https://markmcb.com/web/selectively_disabling_http_1/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 02:39:31",
-      "https://lobste.rs/s/go7npe/why_does_ssh_send_100_packets_per"
-    ],
-    [
-      "Why does SSH send 100 packets per keystroke?",
-      "https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/"
     ]
   ],
   [
