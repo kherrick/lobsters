@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 23:03:05](https://lobste.rs/s/uqfh4p/screeps_how_game_about_programming) - [Screeps: How a game about programming exposed thousands of players to remote code execution](https://outsidetheasylum.blog/screeps/)
 * [2026-01-25, 21:47:14](https://lobste.rs/s/xo4mfg/hand_crafting_domain_specific) - [Hand-Crafting Domain-Specific Compression with an LLM](https://engineering.nanit.com/hand-crafting-domain-specific-compression-with-an-llm-3c42f5c2b070)
 * [2026-01-25, 21:39:24](https://lobste.rs/s/sbtjef/spreadsheets_vi_json) - [spreadsheets + vi + json](https://awalgarg.me/untitled_project)
 * [2026-01-25, 20:58:18](https://lobste.rs/s/au4xen/gas_town_s_agent_patterns_design) - [Gas Town’s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
