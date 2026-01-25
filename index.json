@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-25, 20:58:18",
+      "https://lobste.rs/s/au4xen/gas_town_s_agent_patterns_design"
+    ],
+    [
+      "Gas Town’s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale",
+      "https://maggieappleton.com/gastown"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 19:51:45",
       "https://lobste.rs/s/xmwgtx/how_think_about_gas_town"
     ],
@@ -237,16 +247,6 @@
     [
       "Coi - WebAssembly for the Modern Web",
       "https://io-eric.github.io/coi/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 07:37:22",
-      "https://lobste.rs/s/kgdkq3/mikrotik_first_look_getting_started"
-    ],
-    [
-      "MikroTik first look and getting started",
-      "https://rtfm.co.ua/en/mikrotik-first-look-and-getting-started/"
     ]
   ]
 ]
