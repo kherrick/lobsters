@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 18:38:49](https://lobste.rs/s/cmvafz/corsproxy) - [CorsProxy](https://corsproxy.io)
 * [2026-01-25, 17:59:43](https://lobste.rs/s/kqt13j/visitor_as_sum_type_2018) - [Visitor as a sum type (2018)](https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/)
 * [2026-01-25, 17:48:30](https://lobste.rs/s/pnhbjw/allowlist_for_gitignore) - [Allowlist for .gitignore](https://blog.izissise.net/posts/gitignoreallowlist/)
 * [2026-01-25, 17:24:35](https://lobste.rs/s/u0silk/39c3_ai_agent_ai_spy) - [39C3 - AI Agent, AI Spy](https://youtu.be/0ANECpNdt-4)

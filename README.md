@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-25, 18:38:49](https://lobste.rs/s/cmvafz/corsproxy) - [CorsProxy](https://corsproxy.io)
 * [2026-01-25, 17:59:43](https://lobste.rs/s/kqt13j/visitor_as_sum_type_2018) - [Visitor as a sum type (2018)](https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/)
 * [2026-01-25, 17:48:30](https://lobste.rs/s/pnhbjw/allowlist_for_gitignore) - [Allowlist for .gitignore](https://blog.izissise.net/posts/gitignoreallowlist/)
 * [2026-01-25, 17:24:35](https://lobste.rs/s/u0silk/39c3_ai_agent_ai_spy) - [39C3 - AI Agent, AI Spy](https://youtu.be/0ANECpNdt-4)
@@ -20,7 +21,6 @@
 * [2026-01-24, 21:50:44](https://lobste.rs/s/iuzuw1/doing_gigabit_ethernet_over_my_british) - [Doing Gigabit Ethernet Over My British Phone Wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
 * [2026-01-24, 21:31:36](https://lobste.rs/s/cw6f2s/ai_tribalism) - [AI tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
 * [2026-01-24, 18:05:49](https://lobste.rs/s/abqeyo/obvious_things_c_should_do) - [Obvious Things C Should Do](https://www.digitalmars.com/articles/Cobvious.html)
-* [2026-01-24, 17:58:06](https://lobste.rs/s/eahe0a/welcome_town_al_gasr) - [Welcome to Town Al-Gasr](http://muratbuffalo.blogspot.com/2026/01/welcome-to-town-al-gasr.html)
 * [2026-01-24, 16:39:37](https://lobste.rs/s/2qsmw8/e9p_pure_erlang_9p_implementation) - [e9p - pure Erlang 9p implementation](https://tangled.org/hauleth.dev/e9p)
 * [2026-01-24, 15:15:15](https://lobste.rs/s/sppr7m/coi_webassembly_for_modern_web) - [Coi - WebAssembly for the Modern Web](https://io-eric.github.io/coi/)
 * [2026-01-24, 08:12:27](https://lobste.rs/s/lk5qjr/modetc_move_your_dotfiles_from_kernel) - [modetc: Move your dotfiles from kernel space](https://maxwell.eurofusion.eu/git/rnhmjoj/modetc)
