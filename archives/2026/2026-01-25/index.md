@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 17:24:35](https://lobste.rs/s/u0silk/39c3_ai_agent_ai_spy) - [39C3 - AI Agent, AI Spy](https://youtu.be/0ANECpNdt-4)
 * [2026-01-25, 16:22:07](https://lobste.rs/s/4jiqup/software_patches_nixos_for_fun) - [Software patches in NixOS for fun and productivity](https://log.pfad.fr/2026/software-patching-in-nixos/)
 * [2026-01-25, 16:00:16](https://lobste.rs/s/o3amdz/because_coordination_is_expensive) - [Because coordination is expensive](https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/)
 * [2026-01-25, 14:20:01](https://lobste.rs/s/vzatmm/welcome_email_expiration_date) - [Welcome to the \"Email Expiration Date\" initiative](https://www.zerocarbon.email/)
