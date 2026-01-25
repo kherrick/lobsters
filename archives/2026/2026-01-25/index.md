@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 11:14:50](https://lobste.rs/s/w4veub/stackmaxxing_for_recursion_world_record) - [Stackmaxxing for a recursion world record](https://www.youtube.com/watch?v=WQKSyPYF0-Y)
+* [2026-01-25, 11:09:11](https://lobste.rs/s/xefxir/bouncy_ball_will_always_bounce_back) - [Bouncy Ball will always bounce back](https://filipfila.wordpress.com/2026/01/25/bouncy-ball-will-always-bounce-back/)
 * [2026-01-25, 08:05:34](https://lobste.rs/s/zktaom/hands_on_with_two_apple_network_server) - [Hands-on with two Apple Network Server prototype ROMs](http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html)
 * [2026-01-25, 07:26:09](https://lobste.rs/s/fytmc2/target_1_baseten) - [Target 1: Baseten](https://www.silares.com/targets/target-1-baseten)
 * [2026-01-25, 06:56:57](https://lobste.rs/s/upkphl/introducing_kitty_cards) - [Introducing Kitty Cards](https://lmno.lol/alvaro/introducing-kitty-cards)
