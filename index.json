@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-25, 17:48:30",
+      "https://lobste.rs/s/pnhbjw/allowlist_for_gitignore"
+    ],
+    [
+      "Allowlist for .gitignore",
+      "https://blog.izissise.net/posts/gitignoreallowlist/"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 17:24:35",
       "https://lobste.rs/s/u0silk/39c3_ai_agent_ai_spy"
     ],
@@ -237,16 +247,6 @@
     [
       "December in Servo",
       "https://servo.org/blog/2026/01/23/december-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-01-23, 13:26:09",
-      "https://lobste.rs/s/x0qrlm/agents_md_as_dark_signal"
-    ],
-    [
-      "AGENTS.md as a dark signal",
-      "https://joshmock.com/post/2026-agents-md-as-a-dark-signal/"
     ]
   ]
 ]
