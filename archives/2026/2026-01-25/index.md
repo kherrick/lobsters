@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-25](index.md)
 
+* [2026-01-25, 20:58:18](https://lobste.rs/s/au4xen/gas_town_s_agent_patterns_design) - [Gas Town’s Agent Patterns, Design Bottlenecks, and Vibecoding at Scale](https://maggieappleton.com/gastown)
 * [2026-01-25, 19:51:45](https://lobste.rs/s/xmwgtx/how_think_about_gas_town) - [How to think about Gas Town](https://steveklabnik.com/writing/how-to-think-about-gas-town/)
 * [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 18:59:38](https://lobste.rs/s/qajpk1/frozen_insight_moving_world) - [Frozen Insight in a Moving World](https://jdu.github.io/2026-01-25-frozen-insights-in-a-moving-world.html)
