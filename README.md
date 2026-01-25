@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 18:59:38](https://lobste.rs/s/qajpk1/frozen_insight_moving_world) - [Frozen Insight in a Moving World](https://jdu.github.io/2026-01-25-frozen-insights-in-a-moving-world.html)
 * [2026-01-25, 18:38:49](https://lobste.rs/s/cmvafz/corsproxy) - [CorsProxy](https://corsproxy.io)
 * [2026-01-25, 17:59:43](https://lobste.rs/s/kqt13j/visitor_as_sum_type_2018) - [Visitor as a sum type (2018)](https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/)
@@ -17,7 +18,6 @@
 * [2026-01-25, 06:56:57](https://lobste.rs/s/upkphl/introducing_kitty_cards) - [Introducing Kitty Cards](https://lmno.lol/alvaro/introducing-kitty-cards)
 * [2026-01-25, 06:11:57](https://lobste.rs/s/7hxrjv/home_router_recommendations) - [Home router recommendations](https://lobste.rs/s/7hxrjv/home_router_recommendations)
 * [2026-01-25, 04:46:41](https://lobste.rs/s/weixyl/value_things) - [The Value of Things](https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/)
-* [2026-01-25, 01:48:20](https://lobste.rs/s/izkcdg/here_s_how_generate_truly_random_number) - [Here's how to generate a truly random number with quantum physics](https://www.popsci.com/technology/free-random-number-generator/)
 * [2026-01-24, 22:14:14](https://lobste.rs/s/pdsego/i_added_bluesky_comment_section_my_blog) - [I added a Bluesky comment section to my blog](https://micahcantor.com/blog/bluesky-comment-section.html)
 * [2026-01-24, 21:50:44](https://lobste.rs/s/iuzuw1/doing_gigabit_ethernet_over_my_british) - [Doing Gigabit Ethernet Over My British Phone Wires](https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/)
 * [2026-01-24, 21:31:36](https://lobste.rs/s/cw6f2s/ai_tribalism) - [AI tribalism](https://nolanlawson.com/2026/01/24/ai-tribalism/)
