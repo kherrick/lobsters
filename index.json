@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-25, 08:05:34",
+      "https://lobste.rs/s/zktaom/hands_on_with_two_apple_network_server"
+    ],
+    [
+      "Hands-on with two Apple Network Server prototype ROMs",
+      "http://oldvcr.blogspot.com/2026/01/hands-on-with-two-apple-network-server.html"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 07:26:09",
       "https://lobste.rs/s/fytmc2/target_1_baseten"
     ],
@@ -147,16 +157,6 @@
     [
       "Telegraph Key(singular)board:Morse for the modern era",
       "https://hannahilea.com/blog/telegraph-key-singular-board/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 08:15:38",
-      "https://lobste.rs/s/mcaxcn/lispe_lisp_interpreter_with_data"
-    ],
-    [
-      "lispE: Lisp interpreter with Data Structure, Pattern Programming, High level Functions, Lazy Evaluation",
-      "https://github.com/naver/lispe"
     ]
   ],
   [
