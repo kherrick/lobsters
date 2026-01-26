@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 08:43:25](https://lobste.rs/s/sztkjg/end_curl_bug_bounty) - [The end of the curl bug-bounty](https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/)
 * [2026-01-26, 07:49:09](https://lobste.rs/s/u7bjzq/why_there_s_no_european_google) - [Why there’s no European Google?](https://ploum.net/2026-01-22-why-no-european-google.html)
 * [2026-01-26, 07:43:31](https://lobste.rs/s/yeggfc/what_s_new_pandas_3) - [What's new in pandas 3](https://datapythonista.me/blog/whats-new-in-pandas-3)
 * [2026-01-26, 06:46:27](https://lobste.rs/s/laiwnt/browser_is_sandbox) - [the browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox)
