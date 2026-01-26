@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 15:48:51](https://lobste.rs/s/7t4i0i/porting_doom_my_webassembly_vm) - [Porting DOOM to my WebAssembly VM](https://irreducible.io/blog/porting-doom-to-wasm/)
+* [2026-01-26, 15:38:37](https://lobste.rs/s/cycn1o/intent_envelope_proofs_for_completeness) - [The Intent Envelope: Proofs for Completeness, Not Just Soundness](https://midspiral.com/blog/intent-envelope-proofs-for-completeness-not-just-soundness/)
 * [2026-01-26, 12:44:59](https://lobste.rs/s/nktckk/mcclim_7guis_part_1_counter) - [McCLIM and 7GUIs - Part 1: The Counter](https://turtleware.eu/posts/McCLIM-and-7GUIs---Part-1-The-Counter.html)
 * [2026-01-26, 11:46:03](https://lobste.rs/s/rjfmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rjfmon/what_are_you_doing_this_week)
 * [2026-01-26, 11:42:25](https://lobste.rs/s/vyrmdi/implementing_transcendental_functions) - [Implementing the transcendental functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
