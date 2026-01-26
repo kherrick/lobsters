@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-26, 09:41:37",
+      "https://lobste.rs/s/cyx4ba/apple_what_have_you_done"
+    ],
+    [
+      "Apple, What Have You Done?",
+      "https://onlinegoddess.net/2026/01/apple-what-have-you-done/"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 08:43:25",
       "https://lobste.rs/s/sztkjg/end_curl_bug_bounty"
     ],
@@ -67,16 +77,6 @@
     [
       "sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference",
       "https://github.com/karans4/sysp"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 00:44:14",
-      "https://lobste.rs/s/xsm4pn/testing_exceptions_caches"
-    ],
-    [
-      "Testing: exceptions and caches",
-      "https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches"
     ]
   ],
   [
