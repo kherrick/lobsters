@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-26, 01:23:10",
+      "https://lobste.rs/s/d4y8rq/sysp_systems_lisp_compiling_c_with"
+    ],
+    [
+      "sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference",
+      "https://github.com/karans4/sysp"
+    ]
+  ],
+  [
+    [
+      "2026-01-26, 00:44:14",
+      "https://lobste.rs/s/xsm4pn/testing_exceptions_caches"
+    ],
+    [
+      "Testing: exceptions and caches",
+      "https://nedbatchelder.com/blog/202601/testing_exceptions_and_caches"
+    ]
+  ],
+  [
+    [
       "2026-01-25, 23:03:05",
       "https://lobste.rs/s/uqfh4p/screeps_how_game_about_programming"
     ],
@@ -47,16 +67,6 @@
     [
       "I Was Right About ATProto Key Management",
       "https://notes.nora.codes/atproto-again/"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 18:59:38",
-      "https://lobste.rs/s/qajpk1/frozen_insight_moving_world"
-    ],
-    [
-      "Frozen Insight in a Moving World",
-      "https://jdu.github.io/2026-01-25-frozen-insights-in-a-moving-world.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "I added a Bluesky comment section to my blog",
       "https://micahcantor.com/blog/bluesky-comment-section.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 21:50:44",
-      "https://lobste.rs/s/iuzuw1/doing_gigabit_ethernet_over_my_british"
-    ],
-    [
-      "Doing Gigabit Ethernet Over My British Phone Wires",
-      "https://thehftguy.com/2026/01/22/doing-gigabit-ethernet-over-my-british-phone-wires/"
     ]
   ],
   [
