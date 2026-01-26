@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-26, 19:46:59",
+      "https://lobste.rs/s/pimgzd/kubernetes_remote_code_execution_via"
+    ],
+    [
+      "Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission",
+      "https://grahamhelton.com/blog/nodes-proxy-rce"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 19:16:10",
       "https://lobste.rs/s/pircdi/home_lab_developments"
     ],
@@ -237,16 +247,6 @@
     [
       "Welcome to the \"Email Expiration Date\" initiative",
       "https://www.zerocarbon.email/"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 11:38:53",
-      "https://lobste.rs/s/ylgyhu/lament_for_aperture_app_we_ll_never_get"
-    ],
-    [
-      "A Lament For Aperture, The App We'll Never Get Over Losing",
-      "https://ikennd.ac/blog/2026/01/old-man-yells-at-modern-software-design/"
     ]
   ]
 ]
