@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-01-26, 14:42:11",
+      "https://lobste.rs/s/zojcpq/reversing_abstractions_existential"
+    ],
+    [
+      "Reversing abstractions: an existential crisis",
+      "https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 12:44:59",
       "https://lobste.rs/s/nktckk/mcclim_7guis_part_1_counter"
     ],
@@ -237,16 +247,6 @@
     [
       "Software patches in NixOS for fun and productivity",
       "https://log.pfad.fr/2026/software-patching-in-nixos/"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 14:20:01",
-      "https://lobste.rs/s/vzatmm/welcome_email_expiration_date"
-    ],
-    [
-      "Welcome to the \"Email Expiration Date\" initiative",
-      "https://www.zerocarbon.email/"
     ]
   ]
 ]
