@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-26, 08:43:25",
+      "https://lobste.rs/s/sztkjg/end_curl_bug_bounty"
+    ],
+    [
+      "The end of the curl bug-bounty",
+      "https://daniel.haxx.se/blog/2026/01/26/the-end-of-the-curl-bug-bounty/"
+    ]
+  ],
+  [
+    [
       "2026-01-26, 07:49:09",
       "https://lobste.rs/s/u7bjzq/why_there_s_no_european_google"
     ],
@@ -237,16 +247,6 @@
     [
       "AI tribalism",
       "https://nolanlawson.com/2026/01/24/ai-tribalism/"
-    ]
-  ],
-  [
-    [
-      "2026-01-24, 18:05:49",
-      "https://lobste.rs/s/abqeyo/obvious_things_c_should_do"
-    ],
-    [
-      "Obvious Things C Should Do",
-      "https://www.digitalmars.com/articles/Cobvious.html"
     ]
   ]
 ]
