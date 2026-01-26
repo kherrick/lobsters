@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-26, 07:43:31](https://lobste.rs/s/yeggfc/what_s_new_pandas_3) - [What's new in pandas 3](https://datapythonista.me/blog/whats-new-in-pandas-3)
 * [2026-01-26, 06:46:27](https://lobste.rs/s/laiwnt/browser_is_sandbox) - [the browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox)
 * [2026-01-26, 05:11:02](https://lobste.rs/s/ve0986/exploring_linux_on_loongarch_mini_pc) - [Exploring Linux on a LoongArch Mini PC](https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/)
 * [2026-01-26, 05:09:38](https://lobste.rs/s/kvvxkl/enclosure_feedback_loop_how_llms) - [The Enclosure feedback loop, or how LLMs sabotage existing programming practices by privatizing a public good](https://michiel.buddingh.eu/enclosure-feedback-loop)
@@ -14,7 +15,6 @@
 * [2026-01-25, 17:59:43](https://lobste.rs/s/kqt13j/visitor_as_sum_type_2018) - [Visitor as a sum type (2018)](https://blog.ploeh.dk/2018/06/25/visitor-as-a-sum-type/)
 * [2026-01-25, 17:48:30](https://lobste.rs/s/pnhbjw/allowlist_for_gitignore) - [Allowlist for .gitignore](https://blog.izissise.net/posts/gitignoreallowlist/)
 * [2026-01-25, 16:22:07](https://lobste.rs/s/4jiqup/software_patches_nixos_for_fun) - [Software patches in NixOS for fun and productivity](https://log.pfad.fr/2026/software-patching-in-nixos/)
-* [2026-01-25, 16:00:16](https://lobste.rs/s/o3amdz/because_coordination_is_expensive) - [Because coordination is expensive](https://surfingcomplexity.blog/2026/01/24/because-coordination-is-expensive/)
 * [2026-01-25, 14:20:01](https://lobste.rs/s/vzatmm/welcome_email_expiration_date) - [Welcome to the \"Email Expiration Date\" initiative](https://www.zerocarbon.email/)
 * [2026-01-25, 13:55:53](https://lobste.rs/s/yryapx/indieweb_small_web) - [The IndieWeb and Small web](https://christiano.dev/post/indieweb_smallweb/)
 * [2026-01-25, 12:50:35](https://lobste.rs/s/utenv0/is_it_worth_it) - [Is It Worth It?](https://griffin.com/blog/is-it-worth-it)

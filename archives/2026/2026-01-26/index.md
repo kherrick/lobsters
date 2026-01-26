@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 07:43:31](https://lobste.rs/s/yeggfc/what_s_new_pandas_3) - [What's new in pandas 3](https://datapythonista.me/blog/whats-new-in-pandas-3)
 * [2026-01-26, 06:46:27](https://lobste.rs/s/laiwnt/browser_is_sandbox) - [the browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox)
 * [2026-01-26, 05:11:02](https://lobste.rs/s/ve0986/exploring_linux_on_loongarch_mini_pc) - [Exploring Linux on a LoongArch Mini PC](https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/)
 * [2026-01-26, 05:09:38](https://lobste.rs/s/kvvxkl/enclosure_feedback_loop_how_llms) - [The Enclosure feedback loop, or how LLMs sabotage existing programming practices by privatizing a public good](https://michiel.buddingh.eu/enclosure-feedback-loop)
