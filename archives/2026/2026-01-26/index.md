@@ -6,6 +6,7 @@
 
 * [2026-01-26, 19:46:59](https://lobste.rs/s/pimgzd/kubernetes_remote_code_execution_via) - [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce)
 * [2026-01-26, 19:16:10](https://lobste.rs/s/pircdi/home_lab_developments) - [Home Lab Developments](https://zitseng.com/archives/25229)
+* [2026-01-26, 19:12:17](https://lobste.rs/s/gu8y4b/godot_4_6_release_it_s_all_about_your_flow) - [Godot 4.6 Release: It's all about your flow](https://godotengine.org/releases/4.6/)
 * [2026-01-26, 17:46:27](https://lobste.rs/s/luhxc7/juicessh_give_me_my_pro_features_back) - [JuiceSSH - Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
 * [2026-01-26, 17:15:27](https://lobste.rs/s/bpqtph/state_linux_music_players_2026) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
 * [2026-01-26, 17:14:33](https://lobste.rs/s/cm3wkh/fedora_asahi_remix_is_now_working_on_apple) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
