@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 07:49:09](https://lobste.rs/s/u7bjzq/why_there_s_no_european_google) - [Why there’s no European Google?](https://ploum.net/2026-01-22-why-no-european-google.html)
 * [2026-01-26, 07:43:31](https://lobste.rs/s/yeggfc/what_s_new_pandas_3) - [What's new in pandas 3](https://datapythonista.me/blog/whats-new-in-pandas-3)
 * [2026-01-26, 06:46:27](https://lobste.rs/s/laiwnt/browser_is_sandbox) - [the browser is the sandbox](https://aifoc.us/the-browser-is-the-sandbox)
 * [2026-01-26, 05:11:02](https://lobste.rs/s/ve0986/exploring_linux_on_loongarch_mini_pc) - [Exploring Linux on a LoongArch Mini PC](https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/)
