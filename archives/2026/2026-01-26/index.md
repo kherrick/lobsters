@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 10:48:56](https://lobste.rs/s/sbtvge/check_my_extension_for_make_tab_chaos) - [Check my extension for make tab chaos manageable in Chrome](https://lobste.rs/s/sbtvge/check_my_extension_for_make_tab_chaos)
 * [2026-01-26, 10:19:18](https://lobste.rs/s/izn3wf/long_branches_compilers_assemblers) - [Long branches in compilers, assemblers, and linkers](https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers)
 * [2026-01-26, 10:18:32](https://lobste.rs/s/qqfg0q/announcing_maplibre_tile_modern) - [Announcing MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 * [2026-01-26, 09:41:37](https://lobste.rs/s/cyx4ba/apple_what_have_you_done) - [Apple, What Have You Done?](https://onlinegoddess.net/2026/01/apple-what-have-you-done/)
