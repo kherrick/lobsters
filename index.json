@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-27, 07:29:31",
+      "https://lobste.rs/s/cozesw/nixtamal_fulfilling_pure_input_pinning"
+    ],
+    [
+      "Nixtamal: Fulfilling, Pure Input Pinning for Nix",
+      "https://nixtamal.toast.al"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 05:24:49",
       "https://lobste.rs/s/0ce6xl/writing_lisp_jit_interpreter_with"
     ],
@@ -227,16 +237,6 @@
     [
       "sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference",
       "https://github.com/karans4/sysp"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 23:03:05",
-      "https://lobste.rs/s/uqfh4p/screeps_how_game_about_programming"
-    ],
-    [
-      "Screeps: How a game about programming exposed thousands of players to remote code execution",
-      "https://outsidetheasylum.blog/screeps/"
     ]
   ],
   [
