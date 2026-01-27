@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-27, 14:48:30",
+      "https://lobste.rs/s/fieyyz/fuzzing_lua_oss_fuzz"
+    ],
+    [
+      "Fuzzing Lua in OSS-Fuzz",
+      "https://groups.google.com/g/lua-l/c/tTyuSALLuEM"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 14:35:55",
       "https://lobste.rs/s/nkyp8j/ruby_users_forum_is_now_live"
     ],
@@ -197,16 +207,6 @@
     [
       "McCLIM and 7GUIs - Part 1: The Counter",
       "https://turtleware.eu/posts/McCLIM-and-7GUIs---Part-1-The-Counter.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 10:18:32",
-      "https://lobste.rs/s/qqfg0q/announcing_maplibre_tile_modern"
-    ],
-    [
-      "Announcing MapLibre Tile: a modern and efficient vector tile format",
-      "https://maplibre.org/news/2026-01-23-mlt-release/"
     ]
   ],
   [
