@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-27, 02:52:16",
+      "https://lobste.rs/s/xm5n6w/hallucination_stations_on_some_basic"
+    ],
+    [
+      "Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models",
+      "https://arxiv.org/pdf/2507.07505"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 01:21:31",
       "https://lobste.rs/s/gl7ik4/sra_archive_very_simple_random_access"
     ],
@@ -237,16 +247,6 @@
     [
       "I Was Right About ATProto Key Management",
       "https://notes.nora.codes/atproto-again/"
-    ]
-  ],
-  [
-    [
-      "2026-01-25, 17:48:30",
-      "https://lobste.rs/s/pnhbjw/allowlist_for_gitignore"
-    ],
-    [
-      "Allowlist for .gitignore",
-      "https://blog.izissise.net/posts/gitignoreallowlist/"
     ]
   ]
 ]
