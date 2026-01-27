@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 11:53:37](https://lobste.rs/s/xzz2mg/i_made_my_own_git) - [I made my own git](https://tonystr.net/blog/git_immitation)
+* [2026-01-27, 10:46:17](https://lobste.rs/s/0v7mxy/places_telnet) - [Places to Telnet](https://telnet.org/htm/places.htm)
 * [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
 * [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala_2016) - [The rise and fall of Scala (2016)](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)
 * [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala) - [The rise and fall of Scala](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)

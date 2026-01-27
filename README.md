@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-27, 11:53:37](https://lobste.rs/s/xzz2mg/i_made_my_own_git) - [I made my own git](https://tonystr.net/blog/git_immitation)
+* [2026-01-27, 10:46:17](https://lobste.rs/s/0v7mxy/places_telnet) - [Places to Telnet](https://telnet.org/htm/places.htm)
 * [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
 * [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala_2016) - [The rise and fall of Scala (2016)](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)
 * [2026-01-27, 09:26:04](https://lobste.rs/s/lna6pe/postmarketos_2026_01_monthly_blog_post) - [postmarketOS in 2026-01: monthly blog post reboot](https://postmarketos.org/blog/2026/01/25/pmOS-update-2026-01/)
@@ -10,7 +12,6 @@
 * [2026-01-27, 05:28:12](https://lobste.rs/s/rbrqii/brainfuck_optimization_strategies_2015) - [Brainfuck optimization strategies (2015)](http://calmerthanyouare.org/2015/01/07/optimizing-brainfuck.html)
 * [2026-01-27, 05:24:49](https://lobste.rs/s/0ce6xl/writing_lisp_jit_interpreter_with) - [Writing a Lisp JIT Interpreter with GraalVM Truffle](https://kyo.iroiro.party/en/posts/emacs-lisp-interpreter-with-graalvm-truffle/)
 * [2026-01-27, 04:10:29](https://lobste.rs/s/tfhspy/arcan_explained_browser_for_different) - [Arcan Explained – A browser for different webs](https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/)
-* [2026-01-27, 02:52:16](https://lobste.rs/s/xm5n6w/hallucination_stations_on_some_basic) - [Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/pdf/2507.07505)
 * [2026-01-26, 23:55:42](https://lobste.rs/s/ifyc4b/microsoft_obeys_court_orders_provide) - [Microsoft obeys court orders to provide Windows BitLocker recovery keys](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 * [2026-01-26, 19:48:07](https://lobste.rs/s/h2b2zs/simplify_your_code_functional_core) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2026-01-26, 19:16:10](https://lobste.rs/s/pircdi/home_lab_developments) - [Home Lab Developments](https://zitseng.com/archives/25229)
@@ -24,7 +25,6 @@
 * [2026-01-26, 07:49:09](https://lobste.rs/s/u7bjzq/why_there_s_no_european_google) - [Why there’s no European Google?](https://ploum.net/2026-01-22-why-no-european-google.html)
 * [2026-01-26, 05:09:38](https://lobste.rs/s/kvvxkl/enclosure_feedback_loop_how_llms) - [The Enclosure feedback loop, or how LLMs sabotage existing programming practices by privatizing a public good](https://michiel.buddingh.eu/enclosure-feedback-loop)
 * [2026-01-26, 01:43:12](https://lobste.rs/s/ue0bau/zerobrew_is_rust_based_5_20x_faster_drop) - [zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative](https://github.com/lucasgelfond/zerobrew)
-* [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
 
 ## [Archives](archives/index.md)
 
