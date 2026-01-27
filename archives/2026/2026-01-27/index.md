@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
+* [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala) - [The rise and fall of Scala](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)
 * [2026-01-27, 09:26:04](https://lobste.rs/s/lna6pe/postmarketos_2026_01_monthly_blog_post) - [postmarketOS in 2026-01: monthly blog post reboot](https://postmarketos.org/blog/2026/01/25/pmOS-update-2026-01/)
 * [2026-01-27, 09:21:47](https://lobste.rs/s/hf6q1n/why_ai_coding_advice_contradicts_itself) - [Why AI Coding Advice Contradicts Itself](https://www.anup.io/why-ai-coding-advice-contradicts-itself/)
 * [2026-01-27, 08:34:50](https://lobste.rs/s/neudsm/for_love_troff_2020) - [For the love of Troff (2020)](http://www.schemamania.org/troff/for-the-love-of-troff.pdf)
