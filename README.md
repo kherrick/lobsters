@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-27, 21:02:47](https://lobste.rs/s/atvvjp/it_is_incorrect_normalize_http_url_paths) - [It is incorrect to “normalize” // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 * [2026-01-27, 19:40:59](https://lobste.rs/s/vfofzr/blocking_claude) - [Blocking Claude](https://aphyr.com/posts/403-blocking-claude)
 * [2026-01-27, 18:55:13](https://lobste.rs/s/igpevt/lobsters_vibecoding_challenge_winter) - [Lobsters Vibecoding Challenge (Winter 2025-2026)](https://gist.github.com/MostAwesomeDude/bb8cbfd005a33f5dd262d1f20a63a693)
 * [2026-01-27, 18:08:48](https://lobste.rs/s/kaftkn/i_started_identifying_corporate_devices) - [I Started Identifying Corporate Devices in My Software](https://lgug2z.com/articles/i-started-identifying-corporate-devices-in-my-software/)
@@ -17,7 +18,6 @@
 * [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
 * [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala_2016) - [The rise and fall of Scala (2016)](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)
 * [2026-01-27, 09:21:47](https://lobste.rs/s/hf6q1n/why_ai_coding_advice_contradicts_itself) - [Why AI Coding Advice Contradicts Itself](https://www.anup.io/why-ai-coding-advice-contradicts-itself/)
-* [2026-01-27, 08:58:00](https://lobste.rs/s/ppf0pm/spinning_around_please_don_t) - [Spinning around: Please don't](https://www.siliceum.com/en/blog/post/spinning-around/)
 * [2026-01-27, 08:34:50](https://lobste.rs/s/neudsm/for_love_troff_2020) - [For the love of Troff (2020)](http://www.schemamania.org/troff/for-the-love-of-troff.pdf)
 * [2026-01-27, 07:29:31](https://lobste.rs/s/cozesw/nixtamal_fulfilling_pure_input_pinning) - [Nixtamal: Fulfilling, Pure Input Pinning for Nix](https://nixtamal.toast.al)
 * [2026-01-27, 04:10:29](https://lobste.rs/s/tfhspy/arcan_explained_browser_for_different) - [Arcan Explained – A browser for different webs](https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/)
