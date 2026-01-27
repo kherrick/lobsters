@@ -15,6 +15,7 @@
 * [2026-01-26, 12:44:59](https://lobste.rs/s/nktckk/mcclim_7guis_part_1_counter) - [McCLIM and 7GUIs - Part 1: The Counter](https://turtleware.eu/posts/McCLIM-and-7GUIs---Part-1-The-Counter.html)
 * [2026-01-26, 11:46:03](https://lobste.rs/s/rjfmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rjfmon/what_are_you_doing_this_week)
 * [2026-01-26, 11:42:25](https://lobste.rs/s/vyrmdi/implementing_transcendental_functions) - [Implementing the transcendental functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
+* [2026-01-26, 10:19:18](https://lobste.rs/s/izn3wf/long_branches_compilers_assemblers) - [Long branches in compilers, assemblers, and linkers](https://maskray.me/blog/2026-01-25-long-branches-in-compilers-assemblers-and-linkers)
 * [2026-01-26, 10:18:32](https://lobste.rs/s/qqfg0q/announcing_maplibre_tile_modern) - [Announcing MapLibre Tile: a modern and efficient vector tile format](https://maplibre.org/news/2026-01-23-mlt-release/)
 * [2026-01-26, 09:41:37](https://lobste.rs/s/cyx4ba/apple_what_have_you_done) - [Apple, What Have You Done?](https://onlinegoddess.net/2026/01/apple-what-have-you-done/)
 * [2026-01-26, 07:49:09](https://lobste.rs/s/u7bjzq/why_there_s_no_european_google) - [Why there’s no European Google?](https://ploum.net/2026-01-22-why-no-european-google.html)
@@ -23,7 +24,6 @@
 * [2026-01-26, 01:43:12](https://lobste.rs/s/ue0bau/zerobrew_is_rust_based_5_20x_faster_drop) - [zerobrew is a Rust-based, 5-20x faster drop-in Homebrew alternative](https://github.com/lucasgelfond/zerobrew)
 * [2026-01-26, 01:23:10](https://lobste.rs/s/d4y8rq/sysp_systems_lisp_compiling_c_with) - [sysp: Systems Lisp compiling to C with homoiconic macros, refcounted memory, Hindley-Milner type inference](https://github.com/karans4/sysp)
 * [2026-01-25, 23:03:05](https://lobste.rs/s/uqfh4p/screeps_how_game_about_programming) - [Screeps: How a game about programming exposed thousands of players to remote code execution](https://outsidetheasylum.blog/screeps/)
-* [2026-01-25, 19:51:45](https://lobste.rs/s/xmwgtx/how_think_about_gas_town) - [How to think about Gas Town](https://steveklabnik.com/writing/how-to-think-about-gas-town/)
 * [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
 
 ## [Archives](archives/index.md)
