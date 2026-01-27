@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-27, 13:33:47](https://lobste.rs/s/xhqliz/bugs_apple_loves) - [Bugs Apple Loves](https://www.bugsappleloves.com/)
 * [2026-01-27, 11:53:37](https://lobste.rs/s/xzz2mg/i_made_my_own_git) - [I made my own git](https://tonystr.net/blog/git_immitation)
 * [2026-01-27, 10:46:17](https://lobste.rs/s/0v7mxy/places_telnet) - [Places to Telnet](https://telnet.org/htm/places.htm)
 * [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
@@ -14,7 +15,6 @@
 * [2026-01-27, 04:10:29](https://lobste.rs/s/tfhspy/arcan_explained_browser_for_different) - [Arcan Explained – A browser for different webs](https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/)
 * [2026-01-26, 23:55:42](https://lobste.rs/s/ifyc4b/microsoft_obeys_court_orders_provide) - [Microsoft obeys court orders to provide Windows BitLocker recovery keys](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 * [2026-01-26, 19:48:07](https://lobste.rs/s/h2b2zs/simplify_your_code_functional_core) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
-* [2026-01-26, 19:16:10](https://lobste.rs/s/pircdi/home_lab_developments) - [Home Lab Developments](https://zitseng.com/archives/25229)
 * [2026-01-26, 19:12:17](https://lobste.rs/s/gu8y4b/godot_4_6_release_it_s_all_about_your_flow) - [Godot 4.6 Release: It's all about your flow](https://godotengine.org/releases/4.6/)
 * [2026-01-26, 17:15:27](https://lobste.rs/s/bpqtph/state_linux_music_players_2026) - [The state of Linux music players in 2026](https://crescentro.se/posts/linux-music-players-2026/)
 * [2026-01-26, 17:14:33](https://lobste.rs/s/cm3wkh/fedora_asahi_remix_is_now_working_on_apple) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
