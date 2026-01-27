@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-27, 14:35:55",
+      "https://lobste.rs/s/nkyp8j/ruby_users_forum_is_now_live"
+    ],
+    [
+      "The Ruby Users Forum Is Now Live",
+      "https://www.rubyforum.org/"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 14:13:44",
+      "https://lobste.rs/s/fdbsyl/c_shaped_hole_package_management"
+    ],
+    [
+      "The C-Shaped Hole in Package Management",
+      "https://nesbitt.io/2026/01/27/the-c-shaped-hole-in-package-management.html"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 13:33:47",
       "https://lobste.rs/s/xhqliz/bugs_apple_loves"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-01-26, 19:48:07",
-      "https://lobste.rs/s/h2b2zs/simplify_your_code_functional_core"
-    ],
-    [
-      "Simplify Your Code: Functional Core, Imperative Shell",
-      "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 19:12:17",
       "https://lobste.rs/s/gu8y4b/godot_4_6_release_it_s_all_about_your_flow"
     ],
@@ -177,16 +187,6 @@
     [
       "Fedora Asahi Remix is now working on Apple M3",
       "https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 15:48:51",
-      "https://lobste.rs/s/7t4i0i/porting_doom_my_webassembly_vm"
-    ],
-    [
-      "Porting DOOM to my WebAssembly VM",
-      "https://irreducible.io/blog/porting-doom-to-wasm/"
     ]
   ],
   [
