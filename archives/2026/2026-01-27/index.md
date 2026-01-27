@@ -9,6 +9,7 @@
 * [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala) - [The rise and fall of Scala](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)
 * [2026-01-27, 09:26:04](https://lobste.rs/s/lna6pe/postmarketos_2026_01_monthly_blog_post) - [postmarketOS in 2026-01: monthly blog post reboot](https://postmarketos.org/blog/2026/01/25/pmOS-update-2026-01/)
 * [2026-01-27, 09:21:47](https://lobste.rs/s/hf6q1n/why_ai_coding_advice_contradicts_itself) - [Why AI Coding Advice Contradicts Itself](https://www.anup.io/why-ai-coding-advice-contradicts-itself/)
+* [2026-01-27, 08:58:00](https://lobste.rs/s/ppf0pm/spinning_around_please_don_t) - [Spinning around: Please don't](https://www.siliceum.com/en/blog/post/spinning-around/)
 * [2026-01-27, 08:34:50](https://lobste.rs/s/neudsm/for_love_troff_2020) - [For the love of Troff (2020)](http://www.schemamania.org/troff/for-the-love-of-troff.pdf)
 * [2026-01-27, 07:29:31](https://lobste.rs/s/cozesw/nixtamal_fulfilling_pure_input_pinning) - [Nixtamal: Fulfilling, Pure Input Pinning for Nix](https://nixtamal.toast.al)
 * [2026-01-27, 05:28:12](https://lobste.rs/s/rbrqii/brainfuck_optimization_strategies_2015) - [Brainfuck optimization strategies (2015)](http://calmerthanyouare.org/2015/01/07/optimizing-brainfuck.html)
