@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-27, 09:26:04",
+      "https://lobste.rs/s/lna6pe/postmarketos_2026_01_monthly_blog_post"
+    ],
+    [
+      "postmarketOS in 2026-01: monthly blog post reboot",
+      "https://postmarketos.org/blog/2026/01/25/pmOS-update-2026-01/"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 09:21:47",
+      "https://lobste.rs/s/hf6q1n/why_ai_coding_advice_contradicts_itself"
+    ],
+    [
+      "Why AI Coding Advice Contradicts Itself",
+      "https://www.anup.io/why-ai-coding-advice-contradicts-itself/"
+    ]
+  ],
+  [
+    [
+      "2026-01-27, 08:34:50",
+      "https://lobste.rs/s/neudsm/for_love_troff_2020"
+    ],
+    [
+      "For the love of Troff (2020)",
+      "http://www.schemamania.org/troff/for-the-love-of-troff.pdf"
+    ]
+  ],
+  [
+    [
       "2026-01-27, 07:29:31",
       "https://lobste.rs/s/cozesw/nixtamal_fulfilling_pure_input_pinning"
     ],
@@ -47,16 +77,6 @@
     [
       "Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models",
       "https://arxiv.org/pdf/2507.07505"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 01:21:31",
-      "https://lobste.rs/s/gl7ik4/sra_archive_very_simple_random_access"
-    ],
-    [
-      "sra-archive: Very simple random access archive format",
-      "https://github.com/sorvi-platform/sra-archive"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-01-26, 11:42:25",
-      "https://lobste.rs/s/vyrmdi/implementing_transcendental_functions"
-    ],
-    [
-      "Implementing the transcendental functions in Ivy",
-      "https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html"
-    ]
-  ],
-  [
-    [
       "2026-01-26, 10:18:32",
       "https://lobste.rs/s/qqfg0q/announcing_maplibre_tile_modern"
     ],
@@ -207,16 +217,6 @@
     [
       "Why there’s no European Google?",
       "https://ploum.net/2026-01-22-why-no-european-google.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-26, 05:11:02",
-      "https://lobste.rs/s/ve0986/exploring_linux_on_loongarch_mini_pc"
-    ],
-    [
-      "Exploring Linux on a LoongArch Mini PC",
-      "https://www.wezm.net/v2/posts/2026/loongarch-mini-pc-m700s/"
     ]
   ],
   [
