@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-27, 02:52:16](https://lobste.rs/s/xm5n6w/hallucination_stations_on_some_basic) - [Hallucination Stations: On Some Basic Limitations of Transformer-Based Language Models](https://arxiv.org/pdf/2507.07505)
 * [2026-01-27, 01:21:31](https://lobste.rs/s/gl7ik4/sra_archive_very_simple_random_access) - [sra-archive: Very simple random access archive format](https://github.com/sorvi-platform/sra-archive)
 * [2026-01-26, 23:55:42](https://lobste.rs/s/ifyc4b/microsoft_obeys_court_orders_provide) - [Microsoft obeys court orders to provide Windows BitLocker recovery keys](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
 * [2026-01-26, 19:48:07](https://lobste.rs/s/h2b2zs/simplify_your_code_functional_core) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
@@ -24,7 +25,6 @@
 * [2026-01-25, 23:03:05](https://lobste.rs/s/uqfh4p/screeps_how_game_about_programming) - [Screeps: How a game about programming exposed thousands of players to remote code execution](https://outsidetheasylum.blog/screeps/)
 * [2026-01-25, 19:51:45](https://lobste.rs/s/xmwgtx/how_think_about_gas_town) - [How to think about Gas Town](https://steveklabnik.com/writing/how-to-think-about-gas-town/)
 * [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
-* [2026-01-25, 17:48:30](https://lobste.rs/s/pnhbjw/allowlist_for_gitignore) - [Allowlist for .gitignore](https://blog.izissise.net/posts/gitignoreallowlist/)
 
 ## [Archives](archives/index.md)
 
