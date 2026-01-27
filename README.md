@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-26, 19:46:59](https://lobste.rs/s/pimgzd/kubernetes_remote_code_execution_via) - [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce)
+* [2026-01-27, 01:21:31](https://lobste.rs/s/gl7ik4/sra_archive_very_simple_random_access) - [sra-archive: Very simple random access archive format](https://github.com/sorvi-platform/sra-archive)
+* [2026-01-26, 23:55:42](https://lobste.rs/s/ifyc4b/microsoft_obeys_court_orders_provide) - [Microsoft obeys court orders to provide Windows BitLocker recovery keys](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
+* [2026-01-26, 19:48:07](https://lobste.rs/s/h2b2zs/simplify_your_code_functional_core) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2026-01-26, 19:16:10](https://lobste.rs/s/pircdi/home_lab_developments) - [Home Lab Developments](https://zitseng.com/archives/25229)
 * [2026-01-26, 19:12:17](https://lobste.rs/s/gu8y4b/godot_4_6_release_it_s_all_about_your_flow) - [Godot 4.6 Release: It's all about your flow](https://godotengine.org/releases/4.6/)
 * [2026-01-26, 17:46:27](https://lobste.rs/s/luhxc7/juicessh_give_me_my_pro_features_back) - [JuiceSSH - Give me my pro features back](https://nproject.io/blog/juicessh-give-me-back-my-pro-features/)
@@ -8,7 +10,6 @@
 * [2026-01-26, 17:14:33](https://lobste.rs/s/cm3wkh/fedora_asahi_remix_is_now_working_on_apple) - [Fedora Asahi Remix is now working on Apple M3](https://bsky.app/profile/did:plc:okydh7e54e2nok65kjxdklvd/post/3mdd55paffk2o)
 * [2026-01-26, 15:48:51](https://lobste.rs/s/7t4i0i/porting_doom_my_webassembly_vm) - [Porting DOOM to my WebAssembly VM](https://irreducible.io/blog/porting-doom-to-wasm/)
 * [2026-01-26, 15:38:37](https://lobste.rs/s/cycn1o/intent_envelope_proofs_for_completeness) - [The Intent Envelope: Proofs for Completeness, Not Just Soundness](https://midspiral.com/blog/intent-envelope-proofs-for-completeness-not-just-soundness/)
-* [2026-01-26, 14:42:11](https://lobste.rs/s/zojcpq/reversing_abstractions_existential) - [Reversing abstractions: an existential crisis](https://www.humprog.org/~stephen/blog/research/recovering-abstraction.html)
 * [2026-01-26, 12:44:59](https://lobste.rs/s/nktckk/mcclim_7guis_part_1_counter) - [McCLIM and 7GUIs - Part 1: The Counter](https://turtleware.eu/posts/McCLIM-and-7GUIs---Part-1-The-Counter.html)
 * [2026-01-26, 11:46:03](https://lobste.rs/s/rjfmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rjfmon/what_are_you_doing_this_week)
 * [2026-01-26, 11:42:25](https://lobste.rs/s/vyrmdi/implementing_transcendental_functions) - [Implementing the transcendental functions in Ivy](https://commandcenter.blogspot.com/2026/01/implementing-transcendental-functions.html)
@@ -24,7 +25,6 @@
 * [2026-01-25, 19:51:45](https://lobste.rs/s/xmwgtx/how_think_about_gas_town) - [How to think about Gas Town](https://steveklabnik.com/writing/how-to-think-about-gas-town/)
 * [2026-01-25, 19:29:25](https://lobste.rs/s/5qylwg/i_was_right_about_atproto_key_management) - [I Was Right About ATProto Key Management](https://notes.nora.codes/atproto-again/)
 * [2026-01-25, 17:48:30](https://lobste.rs/s/pnhbjw/allowlist_for_gitignore) - [Allowlist for .gitignore](https://blog.izissise.net/posts/gitignoreallowlist/)
-* [2026-01-25, 16:22:07](https://lobste.rs/s/4jiqup/software_patches_nixos_for_fun) - [Software patches in NixOS for fun and productivity](https://log.pfad.fr/2026/software-patching-in-nixos/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-26](index.md)
 
+* [2026-01-26, 23:55:42](https://lobste.rs/s/ifyc4b/microsoft_obeys_court_orders_provide) - [Microsoft obeys court orders to provide Windows BitLocker recovery keys](https://www.windowscentral.com/microsoft/windows-11/microsoft-bitlocker-encryption-keys-give-fbi-legal-order-privacy-nightmare)
+* [2026-01-26, 19:48:07](https://lobste.rs/s/h2b2zs/simplify_your_code_functional_core) - [Simplify Your Code: Functional Core, Imperative Shell](https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html)
 * [2026-01-26, 19:46:59](https://lobste.rs/s/pimgzd/kubernetes_remote_code_execution_via) - [Kubernetes Remote Code Execution Via Nodes/Proxy GET Permission](https://grahamhelton.com/blog/nodes-proxy-rce)
 * [2026-01-26, 19:16:10](https://lobste.rs/s/pircdi/home_lab_developments) - [Home Lab Developments](https://zitseng.com/archives/25229)
 * [2026-01-26, 19:12:17](https://lobste.rs/s/gu8y4b/godot_4_6_release_it_s_all_about_your_flow) - [Godot 4.6 Release: It's all about your flow](https://godotengine.org/releases/4.6/)
