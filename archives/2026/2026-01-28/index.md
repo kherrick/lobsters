@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 18:19:47](https://lobste.rs/s/fyn2jy/breaking_thunderbird_free_from_linux) - [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/)
 * [2026-01-28, 16:55:02](https://lobste.rs/s/ma9rdc/code_review_is_dead_long_live_code_review) - [Code review is dead, long live code review](https://evnm.substack.com/p/code-review-is-dead-long-live-code)
 * [2026-01-28, 16:34:54](https://lobste.rs/s/pnrw6j/ariel_os_is_library_operating_system_for) - [Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust](https://github.com/ariel-os/ariel-os)
 * [2026-01-28, 16:31:25](https://lobste.rs/s/bklgmd/one_human_one_agent_one_browser_from) - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/)
