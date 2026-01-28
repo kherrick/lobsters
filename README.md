@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-28, 16:55:02](https://lobste.rs/s/ma9rdc/code_review_is_dead_long_live_code_review) - [Code review is dead, long live code review](https://evnm.substack.com/p/code-review-is-dead-long-live-code)
+* [2026-01-28, 16:34:54](https://lobste.rs/s/pnrw6j/ariel_os_is_library_operating_system_for) - [Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust](https://github.com/ariel-os/ariel-os)
+* [2026-01-28, 16:31:25](https://lobste.rs/s/bklgmd/one_human_one_agent_one_browser_from) - [One Human + One Agent = One Browser From Scratch](https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/)
 * [2026-01-28, 16:20:07](https://lobste.rs/s/zxwgrs/accessing_luks_ext4_drives_from_macos) - [Accessing LUKS and ext4 drives from macOS](https://nmattia.com/posts/2026-01-13-using-luks-on-macos/)
 * [2026-01-28, 14:38:39](https://lobste.rs/s/m0krf8/there_back_again_from_quickstrom) - [There and Back Again: From Quickstrom to Bombadil](https://wickstrom.tech/2026-01-28-there-and-back-again-from-quickstrom-to-bombadil.html)
 * [2026-01-28, 13:44:48](https://lobste.rs/s/rcffs8/make_ts) - [make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
-* [2026-01-28, 12:24:13](https://lobste.rs/s/yt1a6v/data_consistency_transactions_delays) - [Data Consistency: transactions, delays and long-running processes](https://binaryigor.com/data-consistency-transactions-delays-processes.html)
 * [2026-01-28, 11:59:30](https://lobste.rs/s/1omm6b/uefigame_win_boot_lose_shutdown) - [UEFIGame: \"Win -> Boot, Lose -> Shutdown\"](https://github.com/mycroftsnm/UEFIGame)
 * [2026-01-28, 09:37:34](https://lobste.rs/s/0x2zgn/time_machine_inside_freebsd_jail) - [Time Machine inside a FreeBSD jail](https://it-notes.dragas.net/2026/01/28/time-machine-freebsd-jail/)
 * [2026-01-28, 08:42:23](https://lobste.rs/s/2a2fgl/neocities_is_blocked_by_bing) - [Neocities Is Blocked by Bing](https://blog.neocities.org/blog/2026/01/27/bing-block.html)
