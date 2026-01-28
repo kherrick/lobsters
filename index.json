@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-28, 04:24:34",
+      "https://lobste.rs/s/rxowxr/use_z_not_with_python_regular_expressions"
+    ],
+    [
+      "Use “\\A...\\z”, not “^...$” with Python regular expressions",
+      "https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 03:28:42",
       "https://lobste.rs/s/ukutpb/monkeyball_online"
     ],
@@ -177,16 +187,6 @@
     [
       "Bugs Apple Loves",
       "https://www.bugsappleloves.com/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 11:53:37",
-      "https://lobste.rs/s/xzz2mg/i_made_my_own_git"
-    ],
-    [
-      "I made my own git",
-      "https://tonystr.net/blog/git_immitation"
     ]
   ],
   [
