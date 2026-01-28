@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-28, 15:37:53](https://lobste.rs/s/dhhiyl/we_read_json_schema_spec_so_you_don_t_have) - [We read the JSON Schema spec so you don't have to](https://blog.dottxt.ai/dotjson-has-good-schema-support.html)
 * [2026-01-28, 14:38:39](https://lobste.rs/s/m0krf8/there_back_again_from_quickstrom) - [There and Back Again: From Quickstrom to Bombadil](https://wickstrom.tech/2026-01-28-there-and-back-again-from-quickstrom-to-bombadil.html)
 * [2026-01-28, 13:44:48](https://lobste.rs/s/rcffs8/make_ts) - [make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
 * [2026-01-28, 12:24:13](https://lobste.rs/s/yt1a6v/data_consistency_transactions_delays) - [Data Consistency: transactions, delays and long-running processes](https://binaryigor.com/data-consistency-transactions-delays-processes.html)
@@ -10,7 +11,6 @@
 * [2026-01-28, 07:42:25](https://lobste.rs/s/pjuesf/rise_sanityware) - [The Rise of Sanityware](https://thatshubham.com/blog/2026.html)
 * [2026-01-28, 04:24:34](https://lobste.rs/s/rxowxr/use_z_not_with_python_regular_expressions) - [Use “\\A...\\z”, not “^...$” with Python regular expressions](https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions)
 * [2026-01-28, 03:28:42](https://lobste.rs/s/ukutpb/monkeyball_online) - [MonkeyBall Online](https://monkeyball-online.pages.dev/)
-* [2026-01-27, 22:31:32](https://lobste.rs/s/wb3mj9/lichess_el) - [lichess.el](https://github.com/tmythicator/lichess.el)
 * [2026-01-27, 22:08:16](https://lobste.rs/s/aqhrie/barev_xmpp_flavoured_p2p_protocol) - [Barev - XMPP flavoured p2p protocol](https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348)
 * [2026-01-27, 21:22:07](https://lobste.rs/s/7cdb2b/pure_go_linux_environment_written_by) - [A \"Pure Go\" Linux environment, written by Claude](https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/)
 * [2026-01-27, 21:02:47](https://lobste.rs/s/atvvjp/it_is_incorrect_normalize_http_url_paths) - [It is incorrect to “normalize” // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
