@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 16:55:02](https://lobste.rs/s/ma9rdc/code_review_is_dead_long_live_code_review) - [Code review is dead, long live code review](https://evnm.substack.com/p/code-review-is-dead-long-live-code)
+* [2026-01-28, 16:20:07](https://lobste.rs/s/zxwgrs/accessing_luks_ext4_drives_from_macos) - [Accessing LUKS and ext4 drives from macOS](https://nmattia.com/posts/2026-01-13-using-luks-on-macos/)
 * [2026-01-28, 15:37:53](https://lobste.rs/s/dhhiyl/we_read_json_schema_spec_so_you_don_t_have) - [We read the JSON Schema spec so you don't have to](https://blog.dottxt.ai/dotjson-has-good-schema-support.html)
 * [2026-01-28, 14:38:39](https://lobste.rs/s/m0krf8/there_back_again_from_quickstrom) - [There and Back Again: From Quickstrom to Bombadil](https://wickstrom.tech/2026-01-28-there-and-back-again-from-quickstrom-to-bombadil.html)
 * [2026-01-28, 13:44:48](https://lobste.rs/s/rcffs8/make_ts) - [make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
