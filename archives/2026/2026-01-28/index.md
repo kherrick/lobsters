@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"](https://mastodon.social/@nzbr@chaos.social/115973847937505106)
+* [2026-01-28, 18:35:18](https://lobste.rs/s/tvprul/why_i_still_teach_opengl_es_3_0) - [Why I still teach OpenGL ES 3.0](https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html)
 * [2026-01-28, 18:19:47](https://lobste.rs/s/fyn2jy/breaking_thunderbird_free_from_linux) - [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/)
 * [2026-01-28, 16:55:02](https://lobste.rs/s/ma9rdc/code_review_is_dead_long_live_code_review) - [Code review is dead, long live code review](https://evnm.substack.com/p/code-review-is-dead-long-live-code)
 * [2026-01-28, 16:34:54](https://lobste.rs/s/pnrw6j/ariel_os_is_library_operating_system_for) - [Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust](https://github.com/ariel-os/ariel-os)
