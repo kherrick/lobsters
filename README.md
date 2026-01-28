@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-27, 22:31:32](https://lobste.rs/s/wb3mj9/lichess_el) - [lichess.el](https://github.com/tmythicator/lichess.el)
 * [2026-01-27, 21:22:07](https://lobste.rs/s/7cdb2b/pure_go_linux_environment_written_by) - [A \"Pure Go\" Linux environment, written by Claude](https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/)
 * [2026-01-27, 21:02:47](https://lobste.rs/s/atvvjp/it_is_incorrect_normalize_http_url_paths) - [It is incorrect to “normalize” // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
 * [2026-01-27, 19:40:59](https://lobste.rs/s/vfofzr/blocking_claude) - [Blocking Claude](https://aphyr.com/posts/403-blocking-claude)
@@ -18,7 +19,6 @@
 * [2026-01-27, 11:53:37](https://lobste.rs/s/xzz2mg/i_made_my_own_git) - [I made my own git](https://tonystr.net/blog/git_immitation)
 * [2026-01-27, 10:46:17](https://lobste.rs/s/0v7mxy/places_telnet) - [Places to Telnet](https://telnet.org/htm/places.htm)
 * [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
-* [2026-01-27, 10:03:30](https://lobste.rs/s/oktde4/rise_fall_scala_2016) - [The rise and fall of Scala (2016)](https://www.beyondjava.net/newsflash-the-rise-and-fall-of-scala)
 * [2026-01-27, 09:21:47](https://lobste.rs/s/hf6q1n/why_ai_coding_advice_contradicts_itself) - [Why AI Coding Advice Contradicts Itself](https://www.anup.io/why-ai-coding-advice-contradicts-itself/)
 * [2026-01-27, 07:29:31](https://lobste.rs/s/cozesw/nixtamal_fulfilling_pure_input_pinning) - [Nixtamal: Fulfilling, Pure Input Pinning for Nix](https://nixtamal.toast.al)
 * [2026-01-27, 04:10:29](https://lobste.rs/s/tfhspy/arcan_explained_browser_for_different) - [Arcan Explained – A browser for different webs](https://arcan-fe.com/2026/01/26/arcan-explained-a-browser-for-different-webs/)

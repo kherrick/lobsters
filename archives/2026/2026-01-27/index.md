@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-27](index.md)
 
+* [2026-01-27, 22:31:32](https://lobste.rs/s/wb3mj9/lichess_el) - [lichess.el](https://github.com/tmythicator/lichess.el)
 * [2026-01-27, 22:08:16](https://lobste.rs/s/aqhrie/barev_xmpp_flavoured_p2p_protocol) - [Barev - XMPP flavoured p2p protocol](https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348)
 * [2026-01-27, 21:22:07](https://lobste.rs/s/7cdb2b/pure_go_linux_environment_written_by) - [A \"Pure Go\" Linux environment, written by Claude, directed by Fabrice Bellard](https://www.jtolio.com/2026/01/a-pure-go-linux-environment-written-by-claude-directed-by-fabrice-bellard/)
 * [2026-01-27, 21:02:47](https://lobste.rs/s/atvvjp/it_is_incorrect_normalize_http_url_paths) - [It is incorrect to “normalize” // in HTTP URL paths](https://runxiyu.org/comp/doubleslash/)
