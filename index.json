@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-28, 13:44:48",
+      "https://lobste.rs/s/rcffs8/make_ts"
+    ],
+    [
+      "make.ts",
+      "https://matklad.github.io/2026/01/27/make-ts.html"
+    ]
+  ],
+  [
+    [
       "2026-01-28, 12:24:13",
       "https://lobste.rs/s/yt1a6v/data_consistency_transactions_delays"
     ],
@@ -237,16 +247,6 @@
     [
       "Why AI Coding Advice Contradicts Itself",
       "https://www.anup.io/why-ai-coding-advice-contradicts-itself/"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 07:29:31",
-      "https://lobste.rs/s/cozesw/nixtamal_fulfilling_pure_input_pinning"
-    ],
-    [
-      "Nixtamal: Fulfilling, Pure Input Pinning for Nix",
-      "https://nixtamal.toast.al"
     ]
   ]
 ]
