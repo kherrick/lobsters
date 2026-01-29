@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-29, 09:22:36",
+      "https://lobste.rs/s/a3qcah/9front_gefs_service_pack_1_released"
+    ],
+    [
+      "9front \"GEFS SERVICE PACK 1\" released",
+      "https://9front.org/releases/2026/01/24/0/"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 09:20:16",
+      "https://lobste.rs/s/g0ep2s/30_years_reactos"
+    ],
+    [
+      "30 years of ReactOS",
+      "https://reactos.org/blogs/30yrs-of-ros/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 08:28:41",
       "https://lobste.rs/s/pimcz4/simple_http_tunnel_ngrok_alternative"
     ],
@@ -57,16 +77,6 @@
     [
       "I still don't understand this SYN attack, but now I can block it easily",
       "https://boston.conman.org/2026/01/28.2"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 19:58:47",
-      "https://lobste.rs/s/inbdqy/why_you_should_probably_tell_your"
-    ],
-    [
-      "Why you should probably tell your audience what your blog posts are about as early as possible",
-      "https://www.marginalia.nu/log/a_129_finding_audience/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Use “\\A...\\z”, not “^...$” with Python regular expressions",
       "https://sethmlarson.dev/use-backslash-A-and-z-not-%5E-and-%24-with-python-regular-expressions"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 22:08:16",
-      "https://lobste.rs/s/aqhrie/barev_xmpp_flavoured_p2p_protocol"
-    ],
-    [
-      "Barev - XMPP flavoured p2p protocol",
-      "https://discourse.imfreedom.org/t/barev-xmpp-flavoured-p2p-protocol/348"
     ]
   ],
   [
