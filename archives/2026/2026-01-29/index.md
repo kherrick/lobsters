@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 23:15:55](https://lobste.rs/s/wmsanp/colorblind_friendly_design_guide_for) - [Colorblind-Friendly Design Guide for Developing Apps](https://github.com/Terryc21/XcodeResources/blob/main/Colorblind_Accessibility_Guide.md)
 * [2026-01-29, 21:19:58](https://lobste.rs/s/vxjeui/building_docs_like_product) - [Building Docs Like a Product](https://emschwartz.me/building-docs-like-a-product/)
 * [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil's ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 20:15:48](https://lobste.rs/s/vt1xac/gadgetbridge) - [Gadgetbridge](https://gadgetbridge.org)
