@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-01-29, 05:31:07",
+      "https://lobste.rs/s/651hoq/bf_tree_modern_concurrent_larger_than"
+    ],
+    [
+      "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
+      "https://github.com/microsoft/bf-tree/"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 04:39:10",
       "https://lobste.rs/s/hcw4pb/some_notes_on_starting_use_django"
     ],
@@ -67,16 +77,6 @@
     [
       "Can AI companies become profitable?",
       "https://epoch.ai/gradient-updates/can-ai-companies-become-profitable"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 02:59:28",
-      "https://lobste.rs/s/qonvof/arm_mte_performance_practice_extended"
-    ],
-    [
-      "ARM MTE Performance in Practice (Extended Version)",
-      "https://arxiv.org/pdf/2601.11786"
     ]
   ],
   [
