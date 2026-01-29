@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-29, 21:19:58](https://lobste.rs/s/vxjeui/building_docs_like_product) - [Building Docs Like a Product](https://emschwartz.me/building-docs-like-a-product/)
+* [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil's ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 20:15:48](https://lobste.rs/s/vt1xac/gadgetbridge) - [Gadgetbridge](https://gadgetbridge.org)
 * [2026-01-29, 19:42:26](https://lobste.rs/s/9dqubn/crazy_jumpman) - [crazy-jumpman](https://codeberg.org/pgeorgi/crazy-jumpman/#english)
 * [2026-01-29, 19:36:38](https://lobste.rs/s/klojnf/sentry_releases_new_cli_for_developers) - [Sentry releases new CLI for developers and agents](https://cli.sentry.dev/)
 * [2026-01-29, 16:41:09](https://lobste.rs/s/gc7ase/pagelove_building_better_web_for_humans) - [Pagelove: Building a better web — for humans and machines](https://page.love/blog/04-the-shape-of-pagelove.html)
-* [2026-01-29, 16:38:49](https://lobste.rs/s/0aw9fv/category_theory_inclusivity) - [Category Theory and Inclusivity](https://youtu.be/HVMxSbJPr4g)
 * [2026-01-29, 16:08:20](https://lobste.rs/s/zcfnh9/micropythonos_ultimate_micropython) - [MicroPythonOS - The Ultimate MicroPython Operating System](https://micropythonos.com/)
 * [2026-01-29, 16:07:35](https://lobste.rs/s/b7lh3o/beta_testing_webusbunpinner_tool) - [Beta testing of WebUSBUnpinner - a tool to investigate platform worker's privacy and rights violations](https://reversing.works/posts/2026/01/help-reversing.works-empower-workers-by-testing-our-tool/)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
@@ -24,7 +25,6 @@
 * [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"](https://chaos.social/@nzbr/115973847897716839)
 * [2026-01-28, 16:34:54](https://lobste.rs/s/pnrw6j/ariel_os_is_library_operating_system_for) - [Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust](https://github.com/ariel-os/ariel-os)
 * [2026-01-28, 13:44:48](https://lobste.rs/s/rcffs8/make_ts) - [make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
-* [2026-01-28, 11:59:30](https://lobste.rs/s/1omm6b/uefigame_win_boot_lose_shutdown) - [UEFIGame: \"Win -> Boot, Lose -> Shutdown\"](https://github.com/mycroftsnm/UEFIGame)
 
 ## [Archives](archives/index.md)
 

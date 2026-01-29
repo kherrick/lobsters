@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 21:19:58](https://lobste.rs/s/vxjeui/building_docs_like_product) - [Building Docs Like a Product](https://emschwartz.me/building-docs-like-a-product/)
+* [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil's ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 20:15:48](https://lobste.rs/s/vt1xac/gadgetbridge) - [Gadgetbridge](https://gadgetbridge.org)
 * [2026-01-29, 19:42:26](https://lobste.rs/s/9dqubn/crazy_jumpman) - [crazy-jumpman](https://codeberg.org/pgeorgi/crazy-jumpman/#english)
 * [2026-01-29, 19:36:38](https://lobste.rs/s/klojnf/sentry_releases_new_cli_for_developers) - [Sentry releases new CLI for developers and agents](https://cli.sentry.dev/)
