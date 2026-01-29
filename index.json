@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-01-29, 05:31:07",
-      "https://lobste.rs/s/651hoq/bf_tree_modern_concurrent_larger_than"
-    ],
-    [
-      "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
-      "https://github.com/microsoft/bf-tree/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 04:39:10",
       "https://lobste.rs/s/hcw4pb/some_notes_on_starting_use_django"
     ],
@@ -31,12 +21,42 @@
   ],
   [
     [
+      "2026-01-29, 02:59:28",
+      "https://lobste.rs/s/qonvof/arm_mte_performance_practice_extended"
+    ],
+    [
+      "ARM MTE Performance in Practice (Extended Version)",
+      "https://arxiv.org/pdf/2601.11786"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 01:30:42",
       "https://lobste.rs/s/0f7x2a/i_still_don_t_understand_this_syn_attack"
     ],
     [
       "I still don't understand this SYN attack, but now I can block it easily",
       "https://boston.conman.org/2026/01/28.2"
+    ]
+  ],
+  [
+    [
+      "2026-01-29, 00:24:24",
+      "https://lobste.rs/s/6laiec/isolation_permissiveness_distributed"
+    ],
+    [
+      "Isolation & Permissiveness of Distributed Transactions in MongoDB",
+      "https://www.mongodb.com/company/blog/engineering/formal-methods-beyond-correctness-isolation-permissiveness-distributed-transactions"
+    ]
+  ],
+  [
+    [
+      "2026-01-28, 19:58:47",
+      "https://lobste.rs/s/inbdqy/why_you_should_probably_tell_your"
+    ],
+    [
+      "Why you should probably tell your audience what your blog posts are about as early as possible",
+      "https://www.marginalia.nu/log/a_129_finding_audience/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't",
       "https://tech.lgbt/@JadedBlueEyes/115967791152135761"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 14:38:32",
-      "https://lobste.rs/s/rjw7zn/t_concise_language_for_manipulating_text"
-    ],
-    [
-      "t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq",
-      "https://github.com/alecthomas/t"
-    ]
-  ],
-  [
-    [
-      "2026-01-27, 13:33:47",
-      "https://lobste.rs/s/xhqliz/bugs_apple_loves"
-    ],
-    [
-      "Bugs Apple Loves",
-      "https://www.bugsappleloves.com/"
     ]
   ]
 ]
