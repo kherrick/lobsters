@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-29, 23:15:55",
+      "https://lobste.rs/s/wmsanp/colorblind_friendly_design_guide_for"
+    ],
+    [
+      "Colorblind-Friendly Design Guide for Developing Apps",
+      "https://github.com/Terryc21/XcodeResources/blob/main/Colorblind_Accessibility_Guide.md"
+    ]
+  ],
+  [
+    [
       "2026-01-29, 21:19:58",
       "https://lobste.rs/s/vxjeui/building_docs_like_product"
     ],
@@ -227,16 +237,6 @@
     [
       "\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"",
       "https://chaos.social/@nzbr/115973847897716839"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 16:34:54",
-      "https://lobste.rs/s/pnrw6j/ariel_os_is_library_operating_system_for"
-    ],
-    [
-      "Ariel OS is a library operating system for secure, memory-safe, low-power Internet of Things, written in Rust",
-      "https://github.com/ariel-os/ariel-os"
     ]
   ],
   [
