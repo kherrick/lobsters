@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-28](index.md)
 
+* [2026-01-28, 19:58:47](https://lobste.rs/s/inbdqy/why_you_should_probably_tell_your) - [Why you should probably tell your audience what your blog posts are about as early as possible](https://www.marginalia.nu/log/a_129_finding_audience/)
 * [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"](https://mastodon.social/@nzbr@chaos.social/115973847937505106)
 * [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"](https://chaos.social/@nzbr/115973847897716839)
 * [2026-01-28, 18:35:18](https://lobste.rs/s/tvprul/why_i_still_teach_opengl_es_3_0) - [Why I still teach OpenGL ES 3.0](https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html)
