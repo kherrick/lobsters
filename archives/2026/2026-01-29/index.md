@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-29](index.md)
 
+* [2026-01-29, 10:48:44](https://lobste.rs/s/k8aiot/zig_mxn_supply_chain_problem) - [Zig and the M×N Supply Chain Problem](https://nesbitt.io/2026/01/29/zig-and-the-mxn-supply-chain-problem.html)
 * [2026-01-29, 09:34:06](https://lobste.rs/s/97wsdw/phantom_obligation) - [Phantom Obligation](https://terrygodier.com/phantom-obligation)
 * [2026-01-29, 09:22:36](https://lobste.rs/s/a3qcah/9front_gefs_service_pack_1_released) - [9front \"GEFS SERVICE PACK 1\" released](https://9front.org/releases/2026/01/24/0/)
 * [2026-01-29, 09:20:16](https://lobste.rs/s/g0ep2s/30_years_reactos) - [30 years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
