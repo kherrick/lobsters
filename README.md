@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-29, 05:31:07](https://lobste.rs/s/651hoq/bf_tree_modern_concurrent_larger_than) - [Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index](https://github.com/microsoft/bf-tree/)
 * [2026-01-29, 04:39:10](https://lobste.rs/s/hcw4pb/some_notes_on_starting_use_django) - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
+* [2026-01-29, 04:11:40](https://lobste.rs/s/eqgc61/can_ai_companies_become_profitable) - [Can AI companies become profitable?](https://epoch.ai/gradient-updates/can-ai-companies-become-profitable)
 * [2026-01-29, 01:30:42](https://lobste.rs/s/0f7x2a/i_still_don_t_understand_this_syn_attack) - [I still don't understand this SYN attack, but now I can block it easily](https://boston.conman.org/2026/01/28.2)
-* [2026-01-29, 00:24:24](https://lobste.rs/s/6laiec/isolation_permissiveness_distributed) - [Isolation & Permissiveness of Distributed Transactions in MongoDB](https://www.mongodb.com/company/blog/engineering/formal-methods-beyond-correctness-isolation-permissiveness-distributed-transactions)
 * [2026-01-28, 19:56:09](https://lobste.rs/s/avdx9j/bootstrap_chain_for_nixos_which_builds) - [\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"](https://chaos.social/@nzbr/115973847897716839)
 * [2026-01-28, 18:35:18](https://lobste.rs/s/tvprul/why_i_still_teach_opengl_es_3_0) - [Why I still teach OpenGL ES 3.0](https://eliasfarhan.ch/jekyll/update/2026/01/27/why-i-teach-opengles.html)
 * [2026-01-28, 18:19:47](https://lobste.rs/s/fyn2jy/breaking_thunderbird_free_from_linux) - [Breaking Thunderbird Free from Linux Package Lag](https://blog.melashri.net/posts/thunderbird-auto-update-linux/)
@@ -24,7 +25,6 @@
 * [2026-01-27, 16:22:52](https://lobste.rs/s/csxfc6/cloudflare_claimed_they_implemented) - [Cloudflare claimed they implemented Matrix on Cloudflare workers. They didn't](https://tech.lgbt/@JadedBlueEyes/115967791152135761)
 * [2026-01-27, 14:38:32](https://lobste.rs/s/rjw7zn/t_concise_language_for_manipulating_text) - [t: a concise language for manipulating text, replacing common usage patterns of Unix utilities like grep, sed, cut, awk, sort, and uniq](https://github.com/alecthomas/t)
 * [2026-01-27, 13:33:47](https://lobste.rs/s/xhqliz/bugs_apple_loves) - [Bugs Apple Loves](https://www.bugsappleloves.com/)
-* [2026-01-27, 10:06:36](https://lobste.rs/s/seknf5/how_get_european_cloud) - [But how to get to that European cloud?](https://berthub.eu/articles/posts/now-how-to-get-that-european-cloud/)
 
 ## [Archives](archives/index.md)
 
