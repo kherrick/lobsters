@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-30, 19:30:31",
-      "https://lobste.rs/s/sly5xe/notification_underload"
+      "2026-01-30, 19:55:53",
+      "https://lobste.rs/s/ffpbht/book_verse"
     ],
     [
-      "Notification underload",
-      "https://zuma9pt5.com/notification-underload/"
+      "Book of Verse",
+      "https://verselang.github.io/book/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 19:25:41",
+      "https://lobste.rs/s/wmszcd/moltbook_is_most_interesting_place_on"
+    ],
+    [
+      "Moltbook is the most interesting place on the internet right now",
+      "https://simonwillison.net/2026/Jan/30/moltbook/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "How to Choose Colors for Your CLI Applications (2023)",
       "https://blog.xoria.org/terminal-colors/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 15:05:55",
-      "https://lobste.rs/s/x2pwi5/introducing_fluux_messenger_modern_xmpp"
-    ],
-    [
-      "Introducing Fluux Messenger: A Modern XMPP Client Born from a Holiday Coding Session",
-      "https://www.process-one.net/blog/introducing-fluux-messenger-a-modern-xmpp-client-born-from-a-holiday-coding-session/"
     ]
   ],
   [
