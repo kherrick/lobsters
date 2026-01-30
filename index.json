@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-30, 01:43:25",
+      "https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t"
+    ],
+    [
+      "No, Cloudflare's Matrix server isn't an earnest project",
+      "https://nexy.blog/2026/01/28/cf-matrix-workers/"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 00:37:02",
       "https://lobste.rs/s/fxro47/10_years_wasm_retrospective"
     ],
@@ -237,16 +247,6 @@
     [
       "\"a bootstrap chain for NixOS which builds the whole system from a small hand-auditable binary seed\"",
       "https://chaos.social/@nzbr/115973847897716839"
-    ]
-  ],
-  [
-    [
-      "2026-01-28, 13:44:48",
-      "https://lobste.rs/s/rcffs8/make_ts"
-    ],
-    [
-      "make.ts",
-      "https://matklad.github.io/2026/01/27/make-ts.html"
     ]
   ]
 ]
