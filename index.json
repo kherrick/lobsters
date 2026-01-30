@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-01-30, 06:19:20",
-      "https://lobste.rs/s/vtpnw6/gnu_units"
+      "2026-01-30, 06:48:08",
+      "https://lobste.rs/s/2skyzm/clojurewasmbeta"
     ],
     [
-      "GNU Units",
-      "https://www.gnu.org/software/units/"
+      "ClojureWasmBeta",
+      "https://github.com/chaploud/ClojureWasmBeta"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 06:10:18",
+      "https://lobste.rs/s/0r26qz/backseat_software"
+    ],
+    [
+      "Backseat Software",
+      "https://blog.mikeswanson.com/backseat-software/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Narwhal: an extensible pub/sub messaging server for edge applications",
       "https://github.com/narwhal-io/narwhal"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 14:08:34",
-      "https://lobste.rs/s/9hjydz/history_greenfield_browser_wayland"
-    ],
-    [
-      "History of Greenfield (in-browser Wayland compositor)",
-      "https://wayouttheresoftware.blogspot.com/2023/07/some-history-about-greenfield.html"
     ]
   ],
   [
