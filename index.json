@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-30, 06:19:20",
+      "https://lobste.rs/s/vtpnw6/gnu_units"
+    ],
+    [
+      "GNU Units",
+      "https://www.gnu.org/software/units/"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 04:24:57",
+      "https://lobste.rs/s/js7tql/google_disrupts_large_residential_proxy"
+    ],
+    [
+      "Google Disrupts Large Residential Proxy Network",
+      "https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 03:57:31",
       "https://lobste.rs/s/pou5h2/dank_case_for_scrolling_window_managers"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-01-29, 12:45:52",
-      "https://lobste.rs/s/ruibzy/looi_minimal_customizable_new_tab_page"
-    ],
-    [
-      "Looi — A Minimal, Customizable New Tab Page for Firefox, Chrome(with Widgets & GitHub Sync)",
-      "https://github.com/prinzpiuz/looi"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 12:05:49",
       "https://lobste.rs/s/xnjpyv/announcing_winapp_windows_app"
     ],
@@ -207,16 +217,6 @@
     [
       "30 years of ReactOS",
       "https://reactos.org/blogs/30yrs-of-ros/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 05:31:07",
-      "https://lobste.rs/s/651hoq/bf_tree_modern_concurrent_larger_than"
-    ],
-    [
-      "Bf-Tree A Modern Concurrent Larger-Than-Memory Range Index",
-      "https://github.com/microsoft/bf-tree/"
     ]
   ],
   [
