@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 19:18:00](https://lobste.rs/s/6abrie/story_computer_use_where_we_started_where) - [A Story of Computer-Use: Where We Started, Where We're Headed](https://cua.ai/blog/clawdbot-computer-use-history)
 * [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
