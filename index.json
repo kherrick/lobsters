@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-01-30, 15:36:45",
+      "https://lobste.rs/s/kfo7mc/building_breakwater_with_ai"
+    ],
+    [
+      "Building Breakwater with AI",
+      "https://www.bencurtis.com/2026/01/building-breakwater-with-ai/"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 13:57:02",
       "https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell"
     ],
     [
       "cli-stash: TUI tool to save and recall shell commands with fuzzy search",
       "https://github.com/itcaat/cli-stash"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 13:26:50",
+      "https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken"
+    ],
+    [
+      "Full AI Suite for LispE: llama.cpp, tiktoken, MLX and PyTorch",
+      "https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-01-29, 16:41:09",
-      "https://lobste.rs/s/gc7ase/pagelove_building_better_web_for_humans"
-    ],
-    [
-      "Pagelove: Building a better web — for humans and machines",
-      "https://page.love/blog/04-the-shape-of-pagelove.html"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 16:07:35",
       "https://lobste.rs/s/b7lh3o/beta_testing_webusbunpinner_tool"
     ],
@@ -227,16 +237,6 @@
     [
       "30 years of ReactOS",
       "https://reactos.org/blogs/30yrs-of-ros/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 04:39:10",
-      "https://lobste.rs/s/hcw4pb/some_notes_on_starting_use_django"
-    ],
-    [
-      "Some notes on starting to use Django",
-      "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/"
     ]
   ],
   [
