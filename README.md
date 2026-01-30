@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-30, 15:36:45](https://lobste.rs/s/kfo7mc/building_breakwater_with_ai) - [Building Breakwater with AI](https://www.bencurtis.com/2026/01/building-breakwater-with-ai/)
 * [2026-01-30, 13:57:02](https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell) - [cli-stash: TUI tool to save and recall shell commands with fuzzy search](https://github.com/itcaat/cli-stash)
+* [2026-01-30, 13:26:50](https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken) - [Full AI Suite for LispE: llama.cpp, tiktoken, MLX and PyTorch](https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken)
 * [2026-01-30, 12:02:49](https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive) - [Coding Is When We’re Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
 * [2026-01-30, 11:58:07](https://lobste.rs/s/862tn2/email_experiments_filtering_out) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
 * [2026-01-30, 10:00:54](https://lobste.rs/s/k6fjcb/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
@@ -17,13 +19,11 @@
 * [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil's ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 20:15:48](https://lobste.rs/s/vt1xac/gadgetbridge) - [Gadgetbridge](https://gadgetbridge.org)
 * [2026-01-29, 19:42:26](https://lobste.rs/s/9dqubn/crazy_jumpman) - [crazy-jumpman](https://codeberg.org/pgeorgi/crazy-jumpman/#english)
-* [2026-01-29, 16:41:09](https://lobste.rs/s/gc7ase/pagelove_building_better_web_for_humans) - [Pagelove: Building a better web — for humans and machines](https://page.love/blog/04-the-shape-of-pagelove.html)
 * [2026-01-29, 16:07:35](https://lobste.rs/s/b7lh3o/beta_testing_webusbunpinner_tool) - [Beta testing of WebUSBUnpinner - a tool to investigate platform worker's privacy and rights violations](https://reversing.works/posts/2026/01/help-reversing.works-empower-workers-by-testing-our-tool/)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 15:05:55](https://lobste.rs/s/x2pwi5/introducing_fluux_messenger_modern_xmpp) - [Introducing Fluux Messenger: A Modern XMPP Client Born from a Holiday Coding Session](https://www.process-one.net/blog/introducing-fluux-messenger-a-modern-xmpp-client-born-from-a-holiday-coding-session/)
 * [2026-01-29, 09:34:06](https://lobste.rs/s/97wsdw/phantom_obligation) - [Phantom Obligation](https://terrygodier.com/phantom-obligation)
 * [2026-01-29, 09:20:16](https://lobste.rs/s/g0ep2s/30_years_reactos) - [30 years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
-* [2026-01-29, 04:39:10](https://lobste.rs/s/hcw4pb/some_notes_on_starting_use_django) - [Some notes on starting to use Django](https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/)
 * [2026-01-29, 01:30:42](https://lobste.rs/s/0f7x2a/i_still_don_t_understand_this_syn_attack) - [I still don't understand this SYN attack, but now I can block it easily](https://boston.conman.org/2026/01/28.2)
 
 ## [Archives](archives/index.md)
