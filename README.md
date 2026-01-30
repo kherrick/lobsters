@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-30, 15:59:33](https://lobste.rs/s/schhxu/pure_go_linux_environment_ported_by) - [A \"Pure Go\" Linux environment, ported by Claude, inspired by Fabrice Bellard](https://www.jtolio.com/2026/01/tinyemu-go/)
 * [2026-01-30, 15:36:45](https://lobste.rs/s/kfo7mc/building_breakwater_with_ai) - [Building Breakwater with AI](https://www.bencurtis.com/2026/01/building-breakwater-with-ai/)
 * [2026-01-30, 13:57:02](https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell) - [cli-stash: TUI tool to save and recall shell commands with fuzzy search](https://github.com/itcaat/cli-stash)
 * [2026-01-30, 13:26:50](https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken) - [Full AI Suite for LispE: llama.cpp, tiktoken, MLX and PyTorch](https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken)
@@ -24,7 +25,6 @@
 * [2026-01-29, 15:05:55](https://lobste.rs/s/x2pwi5/introducing_fluux_messenger_modern_xmpp) - [Introducing Fluux Messenger: A Modern XMPP Client Born from a Holiday Coding Session](https://www.process-one.net/blog/introducing-fluux-messenger-a-modern-xmpp-client-born-from-a-holiday-coding-session/)
 * [2026-01-29, 09:34:06](https://lobste.rs/s/97wsdw/phantom_obligation) - [Phantom Obligation](https://terrygodier.com/phantom-obligation)
 * [2026-01-29, 09:20:16](https://lobste.rs/s/g0ep2s/30_years_reactos) - [30 years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
-* [2026-01-29, 01:30:42](https://lobste.rs/s/0f7x2a/i_still_don_t_understand_this_syn_attack) - [I still don't understand this SYN attack, but now I can block it easily](https://boston.conman.org/2026/01/28.2)
 
 ## [Archives](archives/index.md)
 
