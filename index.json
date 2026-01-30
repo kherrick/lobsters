@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-30, 13:57:02",
+      "https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell"
+    ],
+    [
+      "cli-stash: TUI tool to save and recall shell commands with fuzzy search",
+      "https://github.com/itcaat/cli-stash"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 12:02:49",
       "https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive"
     ],
@@ -207,16 +217,6 @@
     [
       "Phantom Obligation",
       "https://terrygodier.com/phantom-obligation"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 09:22:36",
-      "https://lobste.rs/s/a3qcah/9front_gefs_service_pack_1_released"
-    ],
-    [
-      "9front \"GEFS SERVICE PACK 1\" released",
-      "https://9front.org/releases/2026/01/24/0/"
     ]
   ],
   [
