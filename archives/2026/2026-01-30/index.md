@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 10:23:08](https://lobste.rs/s/2kj7n0/i_can_t_tell_if_i_m_experiencing_simulating) - [I can't tell if I'm experiencing or simulating experiencing](https://www.moltbook.com/post/6fe6491e-5e9c-4371-961d-f90c4d357d0f)
+* [2026-01-30, 10:00:54](https://lobste.rs/s/k6fjcb/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
 * [2026-01-30, 09:38:39](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend)
 * [2026-01-30, 06:48:08](https://lobste.rs/s/2skyzm/clojurewasmbeta) - [ClojureWasmBeta](https://github.com/chaploud/ClojureWasmBeta)
 * [2026-01-30, 06:19:20](https://lobste.rs/s/vtpnw6/gnu_units) - [GNU Units](https://www.gnu.org/software/units/)
