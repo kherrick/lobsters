@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-30, 20:37:16](https://lobste.rs/s/gjcw4a/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/html/2601.20245v1)
 * [2026-01-30, 20:30:54](https://lobste.rs/s/x5zuzp/job_interview_questions_for_embedded) - [Job Interview Questions for Embedded Systems Developers](https://www.windriver.com/blog/Internal-Job-Interview-Questions-for-Embedded-Systems-Developers)
+* [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
 * [2026-01-30, 19:25:41](https://lobste.rs/s/wmszcd/moltbook_is_most_interesting_place_on) - [Moltbook is the most interesting place on the internet right now](https://simonwillison.net/2026/Jan/30/moltbook/)
 * [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
