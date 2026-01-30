@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-01-30, 18:06:26",
+      "https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding"
+    ],
+    [
+      "Amdahl’s law and agentic coding",
+      "https://evnm.substack.com/p/amdahls-law-and-agentic-coding"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 18:05:46",
+      "https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure"
+    ],
+    [
+      "Subtypes and status-dependent data: pure relational approach",
+      "https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 17:37:23",
       "https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes"
     ],
     [
       "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
       "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 17:09:17",
-      "https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever"
-    ],
-    [
-      "Paty: The most human-like AI agent you'll ever use",
-      "https://github.com/gjtorikian/paty"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Litestream Writable VFS",
       "https://fly.io/blog/litestream-writable-vfs/"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 23:15:55",
-      "https://lobste.rs/s/wmsanp/colorblind_friendly_design_guide_for"
-    ],
-    [
-      "Colorblind-Friendly Design Guide for Developing Apps",
-      "https://github.com/Terryc21/XcodeResources/blob/main/Colorblind_Accessibility_Guide.md"
     ]
   ],
   [
