@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
 * [2026-01-30, 17:09:17](https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever) - [Paty: The most human-like AI agent you'll ever use](https://github.com/gjtorikian/paty)
 * [2026-01-30, 16:47:59](https://lobste.rs/s/5piakr/how_we_interfaced_single_threaded_c_with) - [How we interfaced single-threaded C++ with multi-threaded Rust](https://antithesis.com/blog/2026/rust_cpp/)
 * [2026-01-30, 15:59:33](https://lobste.rs/s/schhxu/pure_go_linux_environment_ported_by) - [A \"Pure Go\" Linux environment, ported by Claude, inspired by Fabrice Bellard](https://www.jtolio.com/2026/01/tinyemu-go/)
