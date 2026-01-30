@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-30, 17:37:23",
+      "https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes"
+    ],
+    [
+      "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
+      "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 17:09:17",
       "https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever"
     ],
@@ -27,16 +37,6 @@
     [
       "cli-stash: TUI tool to save and recall shell commands with fuzzy search",
       "https://github.com/itcaat/cli-stash"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 13:26:50",
-      "https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken"
-    ],
-    [
-      "Full AI Suite for LispE: llama.cpp, tiktoken, MLX and PyTorch",
-      "https://lobste.rs/s/clng5d/full_ai_suite_for_lispe_llama_cpp_tiktoken"
     ]
   ],
   [
