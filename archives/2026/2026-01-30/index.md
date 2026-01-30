@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 09:38:39](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend)
 * [2026-01-30, 06:48:08](https://lobste.rs/s/2skyzm/clojurewasmbeta) - [ClojureWasmBeta](https://github.com/chaploud/ClojureWasmBeta)
 * [2026-01-30, 06:19:20](https://lobste.rs/s/vtpnw6/gnu_units) - [GNU Units](https://www.gnu.org/software/units/)
 * [2026-01-30, 06:10:18](https://lobste.rs/s/0r26qz/backseat_software) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
