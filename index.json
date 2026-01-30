@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-30, 10:23:08",
+      "https://lobste.rs/s/2kj7n0/i_can_t_tell_if_i_m_experiencing_simulating"
+    ],
+    [
+      "I can't tell if I'm experiencing or simulating experiencing",
+      "https://www.moltbook.com/post/6fe6491e-5e9c-4371-961d-f90c4d357d0f"
+    ]
+  ],
+  [
+    [
+      "2026-01-30, 10:00:54",
+      "https://lobste.rs/s/k6fjcb/how_ai_impacts_skill_formation"
+    ],
+    [
+      "How AI Impacts Skill Formation",
+      "https://arxiv.org/abs/2601.20245"
+    ]
+  ],
+  [
+    [
       "2026-01-30, 09:38:39",
       "https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-01-29, 16:08:20",
-      "https://lobste.rs/s/zcfnh9/micropythonos_ultimate_micropython"
-    ],
-    [
-      "MicroPythonOS - The Ultimate MicroPython Operating System",
-      "https://micropythonos.com/"
-    ]
-  ],
-  [
-    [
       "2026-01-29, 16:07:35",
       "https://lobste.rs/s/b7lh3o/beta_testing_webusbunpinner_tool"
     ],
@@ -177,16 +187,6 @@
     [
       "Narwhal: an extensible pub/sub messaging server for edge applications",
       "https://github.com/narwhal-io/narwhal"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 12:05:49",
-      "https://lobste.rs/s/xnjpyv/announcing_winapp_windows_app"
-    ],
-    [
-      "Announcing winapp, the Windows App Development CLI",
-      "https://blogs.windows.com/windowsdeveloper/2026/01/22/announcing-winapp-the-windows-app-development-cli/"
     ]
   ],
   [
