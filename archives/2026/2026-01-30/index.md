@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 22:33:58](https://lobste.rs/s/uybkwe/community_considerations_around_ai) - [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 * [2026-01-30, 20:37:16](https://lobste.rs/s/gjcw4a/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/html/2601.20245v1)
 * [2026-01-30, 20:30:54](https://lobste.rs/s/x5zuzp/job_interview_questions_for_embedded) - [Job Interview Questions for Embedded Systems Developers](https://www.windriver.com/blog/Internal-Job-Interview-Questions-for-Embedded-Systems-Developers)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
