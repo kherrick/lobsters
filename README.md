@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
 * [2026-01-30, 22:33:58](https://lobste.rs/s/uybkwe/community_considerations_around_ai) - [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 * [2026-01-30, 20:30:54](https://lobste.rs/s/x5zuzp/job_interview_questions_for_embedded) - [Job Interview Questions for Embedded Systems Developers](https://www.windriver.com/blog/Internal-Job-Interview-Questions-for-Embedded-Systems-Developers)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
@@ -19,7 +20,6 @@
 * [2026-01-30, 03:57:31](https://lobste.rs/s/pou5h2/dank_case_for_scrolling_window_managers) - [The Dank Case For Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
 * [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare's Matrix server isn't an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 * [2026-01-30, 00:37:02](https://lobste.rs/s/fxro47/10_years_wasm_retrospective) - [10 Years of Wasm: A Retrospective](https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective)
-* [2026-01-30, 00:06:53](https://lobste.rs/s/lrlmqz/litestream_writable_vfs) - [Litestream Writable VFS](https://fly.io/blog/litestream-writable-vfs/)
 * [2026-01-29, 21:19:58](https://lobste.rs/s/vxjeui/building_docs_like_product) - [Building Docs Like a Product](https://emschwartz.me/building-docs-like-a-product/)
 * [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil's ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
