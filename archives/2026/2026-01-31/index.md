@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
+* [2026-01-31, 18:07:28](https://lobste.rs/s/plz66x/improving_unnesting_complex_queries) - [Improving Unnesting of Complex Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf)
 * [2026-01-31, 17:27:24](https://lobste.rs/s/e3nshe/faster_package_builds_using_icecream_mac) - [Faster package builds using Icecream and a Mac](https://iovec.net/2026-01-26)
 * [2026-01-31, 15:12:02](https://lobste.rs/s/2q6eo2/manual_programming) - [Manual programming](https://illegalcode.net/rfcs/manual_programming.html)
 * [2026-01-31, 13:51:44](https://lobste.rs/s/jpn821/step_behind_bleeding_edge_philosophy_on) - [A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
