@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-01-31, 11:24:03",
+      "https://lobste.rs/s/rboeor/automatic_programming"
+    ],
+    [
+      "Automatic programming",
+      "https://antirez.com/news/159"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 11:19:32",
+      "https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user"
+    ],
+    [
+      "Guix System First Impressions as a Nix User",
+      "https://nemin.hu/guix.html"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 10:13:01",
       "https://lobste.rs/s/h3v479/qeep_deep_learning_framework_go_with"
     ],
     [
       "qeep: Deep Learning framework in Go with Tensors, AutoGrad, and GPU acceleration",
       "https://github.com/sahandsafizadeh/qeep"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 09:34:48",
-      "https://lobste.rs/s/gl2hqe/openvms_9_2_3_x64_now_has_local_console_on"
-    ],
-    [
-      "OpenVMS 9.2-3 x64 now has local console on OPA0",
-      "https://virtuallyfun.com/2026/01/31/openvms-9-2-3-x64-now-has-local-console-on-opa0/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Book of Verse",
       "https://verselang.github.io/book/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 19:30:31",
-      "https://lobste.rs/s/sly5xe/notification_underload"
-    ],
-    [
-      "Notification underload",
-      "https://zuma9pt5.com/notification-underload/"
     ]
   ],
   [
