@@ -1,15 +1,16 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
+* [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
+* [2026-01-30, 23:59:21](https://lobste.rs/s/ihzsov/when_does_technology_pass_from_being_tool) - [When does technology pass from being a tool to being a crutch? (2009)](https://boston.conman.org/2009/11/03.1)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
 * [2026-01-30, 22:33:58](https://lobste.rs/s/uybkwe/community_considerations_around_ai) - [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
-* [2026-01-30, 20:30:54](https://lobste.rs/s/x5zuzp/job_interview_questions_for_embedded) - [Job Interview Questions for Embedded Systems Developers](https://www.windriver.com/blog/Internal-Job-Interview-Questions-for-Embedded-Systems-Developers)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
 * [2026-01-30, 19:30:31](https://lobste.rs/s/sly5xe/notification_underload) - [Notification underload](https://zuma9pt5.com/notification-underload/)
 * [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
 * [2026-01-30, 17:09:17](https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever) - [Paty: The most human-like AI agent you'll ever use](https://github.com/gjtorikian/paty)
-* [2026-01-30, 15:36:45](https://lobste.rs/s/kfo7mc/building_breakwater_with_ai) - [Building Breakwater with AI](https://www.bencurtis.com/2026/01/building-breakwater-with-ai/)
 * [2026-01-30, 13:57:02](https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell) - [cli-stash: TUI tool to save and recall shell commands with fuzzy search](https://github.com/itcaat/cli-stash)
 * [2026-01-30, 12:02:49](https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive) - [Coding Is When We’re Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
 * [2026-01-30, 11:58:07](https://lobste.rs/s/862tn2/email_experiments_filtering_out) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
@@ -24,7 +25,6 @@
 * [2026-01-29, 20:57:07](https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171) - [Solving Fossil's ASCII art CAPTCHA in 171 characters](https://blog.nns.ee/2026/01/29/fossil-captcha-solver/)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
 * [2026-01-29, 09:34:06](https://lobste.rs/s/97wsdw/phantom_obligation) - [Phantom Obligation](https://terrygodier.com/phantom-obligation)
-* [2026-01-29, 09:20:16](https://lobste.rs/s/g0ep2s/30_years_reactos) - [30 years of ReactOS](https://reactos.org/blogs/30yrs-of-ros/)
 
 ## [Archives](archives/index.md)
 

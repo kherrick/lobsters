@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-30](index.md)
 
+* [2026-01-30, 23:59:21](https://lobste.rs/s/ihzsov/when_does_technology_pass_from_being_tool) - [When does technology pass from being a tool to being a crutch? (2009)](https://boston.conman.org/2009/11/03.1)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
 * [2026-01-30, 22:33:58](https://lobste.rs/s/uybkwe/community_considerations_around_ai) - [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 * [2026-01-30, 20:37:16](https://lobste.rs/s/gjcw4a/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/html/2601.20245v1)
