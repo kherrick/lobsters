@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-01-31, 08:51:46",
+      "https://lobste.rs/s/u8vgmv/six_simple_sudoku_solvers_prolog"
+    ],
+    [
+      "Six Simple Sudoku Solvers: Prolog",
+      "https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 08:50:58",
+      "https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl"
+    ],
+    [
+      "Simple Sudoku Solvers: Dyalog APL",
+      "https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 07:20:43",
       "https://lobste.rs/s/znn5pn/trustworthy_technology"
     ],
@@ -67,16 +87,6 @@
     [
       "The imminent risk of vibe coding",
       "https://basta.substack.com/p/the-imminent-risk-of-vibe-coding"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 22:33:58",
-      "https://lobste.rs/s/uybkwe/community_considerations_around_ai"
-    ],
-    [
-      "Community Considerations Around AI Contributions",
-      "https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "No, Cloudflare's Matrix server isn't an earnest project",
       "https://nexy.blog/2026/01/28/cf-matrix-workers/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 00:37:02",
-      "https://lobste.rs/s/fxro47/10_years_wasm_retrospective"
-    ],
-    [
-      "10 Years of Wasm: A Retrospective",
-      "https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective"
     ]
   ],
   [
