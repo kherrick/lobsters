@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-01-31, 10:13:01",
+      "https://lobste.rs/s/h3v479/qeep_deep_learning_framework_go_with"
+    ],
+    [
+      "qeep: Deep Learning framework in Go with Tensors, AutoGrad, and GPU acceleration",
+      "https://github.com/sahandsafizadeh/qeep"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 09:34:48",
       "https://lobste.rs/s/gl2hqe/openvms_9_2_3_x64_now_has_local_console_on"
     ],
@@ -137,16 +147,6 @@
     [
       "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
       "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 13:57:02",
-      "https://lobste.rs/s/zvcae4/cli_stash_tui_tool_save_recall_shell"
-    ],
-    [
-      "cli-stash: TUI tool to save and recall shell commands with fuzzy search",
-      "https://github.com/itcaat/cli-stash"
     ]
   ],
   [
