@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 13:51:44](https://lobste.rs/s/jpn821/step_behind_bleeding_edge_philosophy_on) - [A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+* [2026-01-31, 13:51:42](https://lobste.rs/s/gid1h8/building_browser_api_one_shot) - [Building a browser API in one shot](https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/)
 * [2026-01-31, 11:24:03](https://lobste.rs/s/rboeor/automatic_programming) - [Automatic programming](https://antirez.com/news/159)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:13:01](https://lobste.rs/s/h3v479/qeep_deep_learning_framework_go_with) - [qeep: Deep Learning framework in Go with Tensors, AutoGrad, and GPU acceleration](https://github.com/sahandsafizadeh/qeep)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-31, 13:51:44](https://lobste.rs/s/jpn821/step_behind_bleeding_edge_philosophy_on) - [A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
+* [2026-01-31, 13:51:42](https://lobste.rs/s/gid1h8/building_browser_api_one_shot) - [Building a browser API in one shot](https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/)
 * [2026-01-31, 11:24:03](https://lobste.rs/s/rboeor/automatic_programming) - [Automatic programming](https://antirez.com/news/159)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:13:01](https://lobste.rs/s/h3v479/qeep_deep_learning_framework_go_with) - [qeep: Deep Learning framework in Go with Tensors, AutoGrad, and GPU acceleration](https://github.com/sahandsafizadeh/qeep)
@@ -13,7 +15,6 @@
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
-* [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
 * [2026-01-30, 12:02:49](https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive) - [Coding Is When We’re Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
@@ -23,7 +24,6 @@
 * [2026-01-30, 06:19:20](https://lobste.rs/s/vtpnw6/gnu_units) - [GNU Units](https://www.gnu.org/software/units/)
 * [2026-01-30, 06:10:18](https://lobste.rs/s/0r26qz/backseat_software) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
 * [2026-01-30, 04:24:57](https://lobste.rs/s/js7tql/google_disrupts_large_residential_proxy) - [Google Disrupts Large Residential Proxy Network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network)
-* [2026-01-30, 03:57:31](https://lobste.rs/s/pou5h2/dank_case_for_scrolling_window_managers) - [The Dank Case For Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
 * [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare's Matrix server isn't an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 
 ## [Archives](archives/index.md)
