@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-31, 17:27:24](https://lobste.rs/s/e3nshe/faster_package_builds_using_icecream_mac) - [Faster package builds using Icecream and a Mac](https://iovec.net/2026-01-26)
-* [2026-01-31, 15:12:02](https://lobste.rs/s/2q6eo2/manual_programming) - [Manual programming](https://illegalcode.net/rfcs/manual_programming.html)
 * [2026-01-31, 13:51:42](https://lobste.rs/s/gid1h8/building_browser_api_one_shot) - [Building a browser API in one shot](https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/)
 * [2026-01-31, 11:24:03](https://lobste.rs/s/rboeor/automatic_programming) - [Automatic programming](https://antirez.com/news/159)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
@@ -24,6 +23,7 @@
 * [2026-01-30, 09:38:39](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/p3nxq9/what_are_you_doing_this_weekend)
 * [2026-01-30, 06:19:20](https://lobste.rs/s/vtpnw6/gnu_units) - [GNU Units](https://www.gnu.org/software/units/)
 * [2026-01-30, 06:10:18](https://lobste.rs/s/0r26qz/backseat_software) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
+* [2026-01-30, 04:24:57](https://lobste.rs/s/js7tql/google_disrupts_large_residential_proxy) - [Google Disrupts Large Residential Proxy Network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network)
 * [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare's Matrix server isn't an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 
 ## [Archives](archives/index.md)
