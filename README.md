@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-31, 19:50:04](https://lobste.rs/s/w2xy0f/bryan_cantrill_andreessen_s_folly_false) - [Bryan Cantrill: Andreessen’s Folly - The False Dichotomy of Software and Hardware](https://www.youtube.com/watch?v=v0JjG0Qfwi8)
+* [2026-01-31, 19:54:09](https://lobste.rs/s/4vowap/9m_parameter_mandarin_pronunciation) - [A 9M-parameter Mandarin pronunciation tutor](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
 * [2026-01-31, 18:07:28](https://lobste.rs/s/plz66x/improving_unnesting_complex_queries) - [Improving Unnesting of Complex Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf)
