@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-31, 08:51:46](https://lobste.rs/s/u8vgmv/six_simple_sudoku_solvers_prolog) - [Six Simple Sudoku Solvers: Prolog](https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html)
+* [2026-01-31, 08:50:58](https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl) - [Simple Sudoku Solvers: Dyalog APL](https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html)
 * [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
 * [2026-01-31, 07:20:22](https://lobste.rs/s/a74osl/fosdem_2026_live_streaming) - [FOSDEM 2026 - Live Streaming](https://fosdem.org/2026/schedule/streaming/)
 * [2026-01-31, 05:34:59](https://lobste.rs/s/tuzm7h/pydoit) - [pydoit](https://pydoit.org)
@@ -7,7 +9,6 @@
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
-* [2026-01-30, 22:33:58](https://lobste.rs/s/uybkwe/community_considerations_around_ai) - [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
 * [2026-01-30, 19:30:31](https://lobste.rs/s/sly5xe/notification_underload) - [Notification underload](https://zuma9pt5.com/notification-underload/)
 * [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
@@ -23,7 +24,6 @@
 * [2026-01-30, 04:24:57](https://lobste.rs/s/js7tql/google_disrupts_large_residential_proxy) - [Google Disrupts Large Residential Proxy Network](https://cloud.google.com/blog/topics/threat-intelligence/disrupting-largest-residential-proxy-network)
 * [2026-01-30, 03:57:31](https://lobste.rs/s/pou5h2/dank_case_for_scrolling_window_managers) - [The Dank Case For Scrolling Window Managers](https://tedium.co/2026/01/29/niri-danklinux-scrolling-window-managers/)
 * [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare's Matrix server isn't an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
-* [2026-01-30, 00:37:02](https://lobste.rs/s/fxro47/10_years_wasm_retrospective) - [10 Years of Wasm: A Retrospective](https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective)
 * [2026-01-29, 15:20:12](https://lobste.rs/s/g0te8h/how_choose_colors_for_your_cli) - [How to Choose Colors for Your CLI Applications (2023)](https://blog.xoria.org/terminal-colors/)
 
 ## [Archives](archives/index.md)
