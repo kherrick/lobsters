@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-31, 21:42:30](https://lobste.rs/s/fiuesm/this_year_llvm_2025) - [This year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
 * [2026-01-31, 21:04:40](https://lobste.rs/s/uxigje/outsourcing_thinking) - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 * [2026-01-31, 19:54:09](https://lobste.rs/s/4vowap/9m_parameter_mandarin_pronunciation) - [A 9M-parameter Mandarin pronunciation tutor](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 19:50:04](https://lobste.rs/s/w2xy0f/bryan_cantrill_andreessen_s_folly_false) - [Bryan Cantrill: Andreessen’s Folly - The False Dichotomy of Software and Hardware](https://www.youtube.com/watch?v=v0JjG0Qfwi8)
@@ -15,16 +16,15 @@
 * [2026-01-31, 08:50:58](https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl) - [Simple Sudoku Solvers: Dyalog APL](https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html)
 * [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
 * [2026-01-31, 07:20:22](https://lobste.rs/s/a74osl/fosdem_2026_live_streaming) - [FOSDEM 2026 - Live Streaming](https://fosdem.org/2026/schedule/streaming/)
+* [2026-01-31, 05:34:59](https://lobste.rs/s/tuzm7h/pydoit) - [pydoit](https://pydoit.org)
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
-* [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
 * [2026-01-30, 12:02:49](https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive) - [Coding Is When We’re Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
 * [2026-01-30, 11:58:07](https://lobste.rs/s/862tn2/email_experiments_filtering_out) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
 * [2026-01-30, 06:10:18](https://lobste.rs/s/0r26qz/backseat_software) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
-* [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare's Matrix server isn't an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 
 ## [Archives](archives/index.md)
 
