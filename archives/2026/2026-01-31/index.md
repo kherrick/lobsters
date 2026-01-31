@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
+* [2026-01-31, 07:20:22](https://lobste.rs/s/a74osl/fosdem_2026_live_streaming) - [FOSDEM 2026 - Live Streaming](https://fosdem.org/2026/schedule/streaming/)
 * [2026-01-31, 05:34:59](https://lobste.rs/s/tuzm7h/pydoit) - [pydoit](https://pydoit.org)
 * [2026-01-31, 05:29:21](https://lobste.rs/s/bdqbs1/reference_target_having_your) - [Reference Target: having your encapsulation and eating it too](https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/)
 * [2026-01-31, 05:22:06](https://lobste.rs/s/c6vef1/deploying_distributed_system_type) - [Deploying a distributed system? A type system helps a lot](http://catern.com/progsys.html)
