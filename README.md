@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-01-31, 02:32:11](https://lobste.rs/s/tyrur6/exploiting_mediatek_s_download_agent) - [Exploiting MediaTek's Download Agent](https://blog.r0rt1z2.com/posts/exploiting-mediatek-datwo/)
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:59:21](https://lobste.rs/s/ihzsov/when_does_technology_pass_from_being_tool) - [When does technology pass from being a tool to being a crutch? (2009)](https://boston.conman.org/2009/11/03.1)
@@ -8,6 +7,7 @@
 * [2026-01-30, 22:33:58](https://lobste.rs/s/uybkwe/community_considerations_around_ai) - [Community Considerations Around AI Contributions](https://blog.scientific-python.org/scientific-python/community-considerations-around-ai/)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
 * [2026-01-30, 19:30:31](https://lobste.rs/s/sly5xe/notification_underload) - [Notification underload](https://zuma9pt5.com/notification-underload/)
+* [2026-01-30, 19:18:00](https://lobste.rs/s/6abrie/story_computer_use_where_we_started_where) - [A Story of Computer-Use: Where We Started, Where We're Headed](https://cua.ai/blog/clawdbot-computer-use-history)
 * [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
