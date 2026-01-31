@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-31, 11:24:03](https://lobste.rs/s/rboeor/automatic_programming) - [Automatic programming](https://antirez.com/news/159)
+* [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 10:13:01](https://lobste.rs/s/h3v479/qeep_deep_learning_framework_go_with) - [qeep: Deep Learning framework in Go with Tensors, AutoGrad, and GPU acceleration](https://github.com/sahandsafizadeh/qeep)
-* [2026-01-31, 09:34:48](https://lobste.rs/s/gl2hqe/openvms_9_2_3_x64_now_has_local_console_on) - [OpenVMS 9.2-3 x64 now has local console on OPA0](https://virtuallyfun.com/2026/01/31/openvms-9-2-3-x64-now-has-local-console-on-opa0/)
 * [2026-01-31, 08:51:46](https://lobste.rs/s/u8vgmv/six_simple_sudoku_solvers_prolog) - [Six Simple Sudoku Solvers: Prolog](https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html)
 * [2026-01-31, 08:50:58](https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl) - [Simple Sudoku Solvers: Dyalog APL](https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html)
 * [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
@@ -12,7 +13,6 @@
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
 * [2026-01-30, 19:55:53](https://lobste.rs/s/ffpbht/book_verse) - [Book of Verse](https://verselang.github.io/book/)
-* [2026-01-30, 19:30:31](https://lobste.rs/s/sly5xe/notification_underload) - [Notification underload](https://zuma9pt5.com/notification-underload/)
 * [2026-01-30, 18:06:26](https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding) - [Amdahl’s law and agentic coding](https://evnm.substack.com/p/amdahls-law-and-agentic-coding)
 * [2026-01-30, 18:05:46](https://lobste.rs/s/5rjh8v/subtypes_status_dependent_data_pure) - [Subtypes and status-dependent data: pure relational approach](https://minimalmodeling.substack.com/p/subtypes-and-status-dependent-data)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
