@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 19:32:01](https://lobste.rs/s/px16o4/libreboot_26_01_magnanimous_max_released) - [Libreboot 26.01 “Magnanimous Max” released](https://libreboot.org/news/libreboot2601.html)
 * [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:47:23](https://lobste.rs/s/cik6ip/moose_crossing_construction_community) - [MOOSE Crossing: Construction, Community, and Learning in a Networked Virtual World for Kids (1997)](https://ic.media.mit.edu/Publications/Thesis/asbPHD/HTML/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
