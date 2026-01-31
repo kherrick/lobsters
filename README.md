@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
+* [2026-01-31, 18:47:23](https://lobste.rs/s/cik6ip/moose_crossing_construction_community) - [MOOSE Crossing: Construction, Community, and Learning in a Networked Virtual World for Kids (1997)](https://ic.media.mit.edu/Publications/Thesis/asbPHD/HTML/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
 * [2026-01-31, 18:07:28](https://lobste.rs/s/plz66x/improving_unnesting_complex_queries) - [Improving Unnesting of Complex Queries](https://15799.courses.cs.cmu.edu/spring2025/papers/11-unnesting/neumann-btw2025.pdf)
 * [2026-01-31, 17:27:24](https://lobste.rs/s/e3nshe/faster_package_builds_using_icecream_mac) - [Faster package builds using Icecream and a Mac](https://iovec.net/2026-01-26)
@@ -12,7 +14,6 @@
 * [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
 * [2026-01-31, 07:20:22](https://lobste.rs/s/a74osl/fosdem_2026_live_streaming) - [FOSDEM 2026 - Live Streaming](https://fosdem.org/2026/schedule/streaming/)
 * [2026-01-31, 05:34:59](https://lobste.rs/s/tuzm7h/pydoit) - [pydoit](https://pydoit.org)
-* [2026-01-31, 05:29:21](https://lobste.rs/s/bdqbs1/reference_target_having_your) - [Reference Target: having your encapsulation and eating it too](https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/)
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
@@ -22,7 +23,6 @@
 * [2026-01-30, 12:02:49](https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive) - [Coding Is When We’re Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
 * [2026-01-30, 11:58:07](https://lobste.rs/s/862tn2/email_experiments_filtering_out) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
 * [2026-01-30, 10:00:54](https://lobste.rs/s/k6fjcb/how_ai_impacts_skill_formation) - [How AI Impacts Skill Formation](https://arxiv.org/abs/2601.20245)
-* [2026-01-30, 06:19:20](https://lobste.rs/s/vtpnw6/gnu_units) - [GNU Units](https://www.gnu.org/software/units/)
 * [2026-01-30, 06:10:18](https://lobste.rs/s/0r26qz/backseat_software) - [Backseat Software](https://blog.mikeswanson.com/backseat-software/)
 * [2026-01-30, 01:43:25](https://lobste.rs/s/izh4dt/no_cloudflare_s_matrix_server_isn_t) - [No, Cloudflare's Matrix server isn't an earnest project](https://nexy.blog/2026/01/28/cf-matrix-workers/)
 
