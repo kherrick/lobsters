@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-01-31, 21:04:40](https://lobste.rs/s/uxigje/outsourcing_thinking) - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
+* [2026-01-31, 19:54:09](https://lobste.rs/s/4vowap/9m_parameter_mandarin_pronunciation) - [A 9M-parameter Mandarin pronunciation tutor](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 19:50:04](https://lobste.rs/s/w2xy0f/bryan_cantrill_andreessen_s_folly_false) - [Bryan Cantrill: Andreessen’s Folly - The False Dichotomy of Software and Hardware](https://www.youtube.com/watch?v=v0JjG0Qfwi8)
 * [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
@@ -14,7 +15,6 @@
 * [2026-01-31, 08:50:58](https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl) - [Simple Sudoku Solvers: Dyalog APL](https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html)
 * [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
 * [2026-01-31, 07:20:22](https://lobste.rs/s/a74osl/fosdem_2026_live_streaming) - [FOSDEM 2026 - Live Streaming](https://fosdem.org/2026/schedule/streaming/)
-* [2026-01-31, 05:34:59](https://lobste.rs/s/tuzm7h/pydoit) - [pydoit](https://pydoit.org)
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 23:04:28](https://lobste.rs/s/rzw4wd/imminent_risk_vibe_coding) - [The imminent risk of vibe coding](https://basta.substack.com/p/the-imminent-risk-of-vibe-coding)
