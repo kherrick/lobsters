@@ -8,6 +8,7 @@
 * [2026-01-31, 21:04:40](https://lobste.rs/s/uxigje/outsourcing_thinking) - [Outsourcing thinking](https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html)
 * [2026-01-31, 19:54:09](https://lobste.rs/s/4vowap/9m_parameter_mandarin_pronunciation) - [A 9M-parameter Mandarin pronunciation tutor](https://simedw.com/2026/01/31/ear-pronunication-via-ctc/)
 * [2026-01-31, 19:50:04](https://lobste.rs/s/w2xy0f/bryan_cantrill_andreessen_s_folly_false) - [Bryan Cantrill: Andreessen’s Folly - The False Dichotomy of Software and Hardware](https://www.youtube.com/watch?v=v0JjG0Qfwi8)
+* [2026-01-31, 19:50:04](https://lobste.rs/s/w2xy0f/andreessen_s_folly_false_dichotomy) - [Andreessen’s Folly - The False Dichotomy of Software and Hardware](https://www.youtube.com/watch?v=v0JjG0Qfwi8)
 * [2026-01-31, 19:32:01](https://lobste.rs/s/px16o4/libreboot_26_01_magnanimous_max_released) - [Libreboot 26.01 “Magnanimous Max” released](https://libreboot.org/news/libreboot2601.html)
 * [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:47:23](https://lobste.rs/s/cik6ip/moose_crossing_construction_community) - [MOOSE Crossing: Construction, Community, and Learning in a Networked Virtual World for Kids (1997)](https://ic.media.mit.edu/Publications/Thesis/asbPHD/HTML/)
