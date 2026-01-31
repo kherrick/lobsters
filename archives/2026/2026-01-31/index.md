@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 09:34:48](https://lobste.rs/s/gl2hqe/openvms_9_2_3_x64_now_has_local_console_on) - [OpenVMS 9.2-3 x64 now has local console on OPA0](https://virtuallyfun.com/2026/01/31/openvms-9-2-3-x64-now-has-local-console-on-opa0/)
 * [2026-01-31, 08:51:46](https://lobste.rs/s/u8vgmv/six_simple_sudoku_solvers_prolog) - [Six Simple Sudoku Solvers: Prolog](https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html)
 * [2026-01-31, 08:50:58](https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl) - [Simple Sudoku Solvers: Dyalog APL](https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html)
 * [2026-01-31, 07:20:43](https://lobste.rs/s/znn5pn/trustworthy_technology) - [Trustworthy Technology](https://aol.codeberg.page/eci/)
