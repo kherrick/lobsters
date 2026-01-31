@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-01-31](index.md)
 
+* [2026-01-31, 15:12:02](https://lobste.rs/s/2q6eo2/manual_programming) - [Manual programming](https://illegalcode.net/rfcs/manual_programming.html)
 * [2026-01-31, 13:51:44](https://lobste.rs/s/jpn821/step_behind_bleeding_edge_philosophy_on) - [A Step Behind the Bleeding Edge: A Philosophy on AI in Dev](https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/)
 * [2026-01-31, 13:51:42](https://lobste.rs/s/gid1h8/building_browser_api_one_shot) - [Building a browser API in one shot](https://nolanlawson.com/2026/01/31/building-a-browser-api-in-one-shot/)
 * [2026-01-31, 11:24:03](https://lobste.rs/s/rboeor/automatic_programming) - [Automatic programming](https://antirez.com/news/159)
