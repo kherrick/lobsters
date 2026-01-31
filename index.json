@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-01-31, 05:34:59",
+      "https://lobste.rs/s/tuzm7h/pydoit"
+    ],
+    [
+      "pydoit",
+      "https://pydoit.org"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 05:29:21",
+      "https://lobste.rs/s/bdqbs1/reference_target_having_your"
+    ],
+    [
+      "Reference Target: having your encapsulation and eating it too",
+      "https://blogs.igalia.com/alice/reference-target-having-your-encapsulation-and-eating-it-too/"
+    ]
+  ],
+  [
+    [
+      "2026-01-31, 05:22:06",
+      "https://lobste.rs/s/c6vef1/deploying_distributed_system_type"
+    ],
+    [
+      "Deploying a distributed system? A type system helps a lot",
+      "http://catern.com/progsys.html"
+    ]
+  ],
+  [
+    [
       "2026-01-31, 01:44:52",
       "https://lobste.rs/s/6n7rzd/some_data_should_be_code"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-01-30, 19:18:00",
-      "https://lobste.rs/s/6abrie/story_computer_use_where_we_started_where"
-    ],
-    [
-      "A Story of Computer-Use: Where We Started, Where We're Headed",
-      "https://cua.ai/blog/clawdbot-computer-use-history"
-    ]
-  ],
-  [
-    [
       "2026-01-30, 18:06:26",
       "https://lobste.rs/s/kcnqgp/amdahl_s_law_agentic_coding"
     ],
@@ -107,16 +127,6 @@
     [
       "Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees",
       "https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/"
-    ]
-  ],
-  [
-    [
-      "2026-01-30, 17:09:17",
-      "https://lobste.rs/s/w8d5zt/paty_most_human_like_ai_agent_you_ll_ever"
-    ],
-    [
-      "Paty: The most human-like AI agent you'll ever use",
-      "https://github.com/gjtorikian/paty"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "10 Years of Wasm: A Retrospective",
       "https://bytecodealliance.org/articles/ten-years-of-webassembly-a-retrospective"
-    ]
-  ],
-  [
-    [
-      "2026-01-29, 20:57:07",
-      "https://lobste.rs/s/t02552/solving_fossil_s_ascii_art_captcha_171"
-    ],
-    [
-      "Solving Fossil's ASCII art CAPTCHA in 171 characters",
-      "https://blog.nns.ee/2026/01/29/fossil-captcha-solver/"
     ]
   ],
   [
