@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 15:44:59](https://lobste.rs/s/sazoao/converting_floats_strings_quickly) - [Converting floats to strings quickly](https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/)
 * [2026-02-01, 13:52:55](https://lobste.rs/s/eumqts/ashby_taught_us_we_have_fight_fire_with) - [Ashby taught us we have to fight fire with fire](https://surfingcomplexity.blog/2026/01/31/ashby-taught-us-we-have-to-fight-fire-with-fire/)
 * [2026-02-01, 13:38:13](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are) - [The API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/)
 * [2026-02-01, 13:25:18](https://lobste.rs/s/vkvr2e/code_signing_windows_apps_with_azure) - [Code signing Windows apps with Azure Artifact service](https://devclass.com/2026/01/14/code-signing-windows-apps-may-be-easier-and-more-secure-with-new-azure-artifact-service/)
