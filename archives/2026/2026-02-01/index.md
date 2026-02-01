@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-02-01](index.md)
+
+* [2026-02-01, 00:28:52](https://lobste.rs/s/jnttzy/praise_dry_run) - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
