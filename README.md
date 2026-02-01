@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-01, 13:52:55](https://lobste.rs/s/eumqts/ashby_taught_us_we_have_fight_fire_with) - [Ashby taught us we have to fight fire with fire](https://surfingcomplexity.blog/2026/01/31/ashby-taught-us-we-have-to-fight-fire-with-fire/)
 * [2026-02-01, 13:38:13](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are) - [The API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/)
 * [2026-02-01, 13:25:18](https://lobste.rs/s/vkvr2e/code_signing_windows_apps_with_azure) - [Code signing Windows apps with Azure Artifact service](https://devclass.com/2026/01/14/code-signing-windows-apps-may-be-easier-and-more-secure-with-new-azure-artifact-service/)
-* [2026-02-01, 10:29:04](https://lobste.rs/s/pijpqs/building_modern_databases_with_fdap) - [Building Modern Databases with the FDAP Stack](https://gotopia.tech/articles/412/building-modern-databases-with-the-fdap-stack)
 * [2026-02-01, 09:53:57](https://lobste.rs/s/8o4mel/ship_your_toolchain_not_just) - [Ship Your Toolchain, Not Just Infrastructure](https://www.maxdaten.io/2026-01-31-ship-your-toolchain-not-just-infrastructure)
 * [2026-02-01, 09:51:39](https://lobste.rs/s/h6atjk/way_run_ansible_2_19_on_old_operating) - [A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt](https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html)
 * [2026-02-01, 08:25:03](https://lobste.rs/s/vwwnjc/cg_sql_sql_dialect_compiler_c_for_sqlite3) - [CG/SQL - SQL dialect compiler to C for sqlite3 mimicking stored procedures](https://ricomariani.github.io/CG-SQL-author/)
