@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-01, 19:39:19",
+      "https://lobste.rs/s/vldzbz/this_year_i_will_write_gui_for_my_emacs"
+    ],
+    [
+      "This year, I will write a GUI for my Emacs clone",
+      "https://kyo.iroiro.party/en/posts/this-year-a-shitty-gui/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 19:11:46",
       "https://lobste.rs/s/p8kpy0/remarkable_pro_colors"
     ],
@@ -237,16 +247,6 @@
     [
       "FOSDEM 2026 - Live Streaming",
       "https://fosdem.org/2026/schedule/streaming/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 01:41:19",
-      "https://lobste.rs/s/dughq7/state_garnet_2026"
-    ],
-    [
-      "The State Of Garnet, 2026",
-      "https://wiki.alopex.li/TheStateOfGarnet2026"
     ]
   ]
 ]
