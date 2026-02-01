@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-01, 22:51:19",
+      "https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection"
+    ],
+    [
+      "Defeating a 40-year-old copy protection dongle",
+      "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 21:57:17",
       "https://lobste.rs/s/uveyjh/my_very_fast_zero_allocation_webserver"
     ],
@@ -177,16 +187,6 @@
     [
       "git-cola: The highly caffeinated Git GUI",
       "https://github.com/git-cola/git-cola"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 03:30:40",
-      "https://lobste.rs/s/g9mizf/how_apple_hooks_fifty_thousand_methods"
-    ],
-    [
-      "How Apple Hooks Fifty Thousand Methods",
-      "https://www.youtube.com/watch?v=SuQGQ1vh9k0"
     ]
   ],
   [
