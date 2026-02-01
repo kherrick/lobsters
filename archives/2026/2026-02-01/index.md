@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-01](index.md)
 
+* [2026-02-01, 10:29:04](https://lobste.rs/s/pijpqs/building_modern_databases_with_fdap) - [Building Modern Databases with the FDAP Stack](https://gotopia.tech/articles/412/building-modern-databases-with-the-fdap-stack)
 * [2026-02-01, 09:53:57](https://lobste.rs/s/8o4mel/ship_your_toolchain_not_just) - [Ship Your Toolchain, Not Just Infrastructure](https://www.maxdaten.io/2026-01-31-ship-your-toolchain-not-just-infrastructure)
 * [2026-02-01, 09:51:39](https://lobste.rs/s/h6atjk/way_run_ansible_2_19_on_old_operating) - [A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt](https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html)
 * [2026-02-01, 08:25:03](https://lobste.rs/s/vwwnjc/cg_sql_sql_dialect_compiler_c_for_sqlite3) - [CG/SQL - SQL dialect compiler to C for sqlite3 mimicking stored procedures](https://ricomariani.github.io/CG-SQL-author/)
