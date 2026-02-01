@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-01, 08:25:03](https://lobste.rs/s/vwwnjc/cg_sql_sql_dialect_compiler_c_for_sqlite3) - [CG/SQL - SQL dialect compiler to C for sqlite3 mimicking stored procedures](https://ricomariani.github.io/CG-SQL-author/)
 * [2026-02-01, 08:13:04](https://lobste.rs/s/eug4ie/contracts_nix) - [Contracts in Nix](https://sraka.xyz/posts/contracts.html)
 * [2026-02-01, 08:02:25](https://lobste.rs/s/zhhlod/coding_agent_vms_on_nixos_with_microvm_nix) - [Coding Agent VMs on NixOS with microvm.nix](https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/)
 * [2026-02-01, 06:20:02](https://lobste.rs/s/rc9mvx/solving_package_management_via) - [Solving Package Management via Hypergraph Dependency Resolution](https://arxiv.org/pdf/2506.10803)
@@ -23,7 +24,6 @@
 * [2026-01-31, 01:44:52](https://lobste.rs/s/6n7rzd/some_data_should_be_code) - [Some Data Should Be Code](https://borretti.me/article/some-data-should-be-code)
 * [2026-01-31, 01:41:19](https://lobste.rs/s/dughq7/state_garnet_2026) - [The State Of Garnet, 2026](https://wiki.alopex.li/TheStateOfGarnet2026)
 * [2026-01-30, 17:37:23](https://lobste.rs/s/bhoyfm/ingress_nginx_statement_from_kubernetes) - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/)
-* [2026-01-30, 12:02:49](https://lobste.rs/s/s9ey3g/coding_is_when_we_re_least_productive) - [Coding Is When We’re Least Productive](https://codemanship.wordpress.com/2026/01/30/coding-is-when-were-least-productive/)
 * [2026-01-30, 11:58:07](https://lobste.rs/s/862tn2/email_experiments_filtering_out) - [Email experiments: filtering out external images](https://www.terracrypt.net/posts/email-experiments-image-filtering.html)
 
 ## [Archives](archives/index.md)
