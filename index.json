@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-01, 08:13:04",
+      "https://lobste.rs/s/eug4ie/contracts_nix"
+    ],
+    [
+      "Contracts in Nix",
+      "https://sraka.xyz/posts/contracts.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 08:02:25",
+      "https://lobste.rs/s/zhhlod/coding_agent_vms_on_nixos_with_microvm_nix"
+    ],
+    [
+      "Coding Agent VMs on NixOS with microvm.nix",
+      "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/"
+    ]
+  ],
+  [
+    [
       "2026-02-01, 06:20:02",
       "https://lobste.rs/s/rc9mvx/solving_package_management_via"
     ],
@@ -167,26 +187,6 @@
     [
       "Six Simple Sudoku Solvers: Prolog",
       "https://blog.veitheller.de/Six_Simple_Sudoku_Solvers_III:_Prolog.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 08:50:58",
-      "https://lobste.rs/s/wgebnx/simple_sudoku_solvers_dyalog_apl"
-    ],
-    [
-      "Simple Sudoku Solvers: Dyalog APL",
-      "https://blog.veitheller.de/Simple_Sudoku_Solvers_SII,_EI:_Dyalog_APL.html"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 07:20:43",
-      "https://lobste.rs/s/znn5pn/trustworthy_technology"
-    ],
-    [
-      "Trustworthy Technology",
-      "https://aol.codeberg.page/eci/"
     ]
   ],
   [
