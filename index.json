@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-02-01, 08:25:03",
-      "https://lobste.rs/s/vwwnjc/cg_sql_sql_dialect_compiler_c_for_sqlite3"
-    ],
-    [
-      "CG/SQL - SQL dialect compiler to C for sqlite3 mimicking stored procedures",
-      "https://ricomariani.github.io/CG-SQL-author/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 08:13:04",
       "https://lobste.rs/s/eug4ie/contracts_nix"
     ],
@@ -187,6 +177,16 @@
     [
       "git-cola: The highly caffeinated Git GUI",
       "https://github.com/git-cola/git-cola"
+    ]
+  ],
+  [
+    [
+      "2026-02-01, 03:30:40",
+      "https://lobste.rs/s/g9mizf/how_apple_hooks_fifty_thousand_methods"
+    ],
+    [
+      "How Apple Hooks Fifty Thousand Methods",
+      "https://www.youtube.com/watch?v=SuQGQ1vh9k0"
     ]
   ],
   [
