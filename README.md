@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-01, 20:33:27](https://lobste.rs/s/z0mdor/archive_today_is_directing_ddos_attack) - [archive.today is directing a DDOS attack against my blog](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/)
 * [2026-02-01, 19:39:19](https://lobste.rs/s/vldzbz/this_year_i_will_write_gui_for_my_emacs) - [This year, I will write a GUI for my Emacs clone](https://kyo.iroiro.party/en/posts/this-year-a-shitty-gui/)
 * [2026-02-01, 19:11:46](https://lobste.rs/s/p8kpy0/remarkable_pro_colors) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 19:09:24](https://lobste.rs/s/fprlzs/building_blocks_for_peer_peer) - [Building blocks for peer-to-peer applications](https://p2panda.org/)
@@ -22,7 +23,6 @@
 * [2026-01-31, 19:50:04](https://lobste.rs/s/w2xy0f/andreessen_s_folly_false_dichotomy) - [Andreessen’s Folly - The False Dichotomy of Software and Hardware](https://www.youtube.com/watch?v=v0JjG0Qfwi8)
 * [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
-* [2026-01-31, 17:27:24](https://lobste.rs/s/e3nshe/faster_package_builds_using_icecream_mac) - [Faster package builds using Icecream and a Mac](https://iovec.net/2026-01-26)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 * [2026-01-31, 07:20:22](https://lobste.rs/s/a74osl/fosdem_2026_live_streaming) - [FOSDEM 2026 - Live Streaming](https://fosdem.org/2026/schedule/streaming/)
 
