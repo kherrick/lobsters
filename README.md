@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-02-02, 10:19:47](https://lobste.rs/s/9ychvo/trust_ranking) - [Trust in Ranking](https://www.marginalia.nu/log/a_130_trust_in_ranking/)
+* [2026-02-02, 10:12:23](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week)
 * [2026-02-02, 09:14:14](https://lobste.rs/s/jtmd88/purely_functional_games_2018) - [Purely Functional Games (2018)](https://soupi.github.io/rfc/pfgames/)
 * [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
@@ -21,7 +22,6 @@
 * [2026-02-01, 19:11:46](https://lobste.rs/s/p8kpy0/remarkable_pro_colors) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
 * [2026-02-01, 19:09:24](https://lobste.rs/s/fprlzs/building_blocks_for_peer_peer) - [Building blocks for peer-to-peer applications](https://p2panda.org/)
 * [2026-02-01, 18:05:11](https://lobste.rs/s/rzptdh/forget_technical_debt) - [Forget technical debt](https://www.ufried.com/blog/forget_technical_debt/)
-* [2026-02-01, 15:44:59](https://lobste.rs/s/sazoao/converting_floats_strings_quickly) - [Converting floats to strings quickly](https://lemire.me/blog/2026/02/01/converting-floats-to-strings-quickly/)
 * [2026-02-01, 13:38:13](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are) - [The API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/)
 * [2026-02-01, 08:02:25](https://lobste.rs/s/zhhlod/coding_agent_vms_on_nixos_with_microvm_nix) - [Coding Agent VMs on NixOS with microvm.nix](https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/)
 * [2026-02-01, 00:28:52](https://lobste.rs/s/jnttzy/praise_dry_run) - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)

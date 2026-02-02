@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
 * [2026-02-02, 10:19:47](https://lobste.rs/s/9ychvo/trust_ranking) - [Trust in Ranking](https://www.marginalia.nu/log/a_130_trust_in_ranking/)
+* [2026-02-02, 10:12:23](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week)
 * [2026-02-02, 09:14:14](https://lobste.rs/s/jtmd88/purely_functional_games_2018) - [Purely Functional Games (2018)](https://soupi.github.io/rfc/pfgames/)
 * [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
