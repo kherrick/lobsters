@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-02, 06:39:46",
+      "https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling"
+    ],
+    [
+      "Ending 15 years of subprocess polling",
+      "https://gmpy.dev/blog/2026/event-driven-process-waiting"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 06:13:41",
+      "https://lobste.rs/s/rtkmpd/selfish_ai"
+    ],
+    [
+      "Selfish AI",
+      "https://www.garfieldtech.com/blog/selfish-ai"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 06:05:37",
+      "https://lobste.rs/s/h46dxr/compiling_rust_readable_c_with_eurydice"
+    ],
+    [
+      "Compiling Rust to readable C with Eurydice",
+      "https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 05:14:25",
       "https://lobste.rs/s/6ifznf/vibe_easy_vm_sandboxes_for_llm_agents_on"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-02-01, 13:52:55",
-      "https://lobste.rs/s/eumqts/ashby_taught_us_we_have_fight_fire_with"
-    ],
-    [
-      "Ashby taught us we have to fight fire with fire",
-      "https://surfingcomplexity.blog/2026/01/31/ashby-taught-us-we-have-to-fight-fire-with-fire/"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 13:38:13",
       "https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-02-01, 06:20:02",
-      "https://lobste.rs/s/rc9mvx/solving_package_management_via"
-    ],
-    [
-      "Solving Package Management via Hypergraph Dependency Resolution",
-      "https://arxiv.org/pdf/2506.10803"
-    ]
-  ],
-  [
-    [
       "2026-02-01, 04:00:22",
       "https://lobste.rs/s/zr3igq/git_cola_highly_caffeinated_git_gui"
     ],
@@ -227,16 +237,6 @@
     [
       "In Praise of –dry-run",
       "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 18:07:41",
-      "https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev"
-    ],
-    [
-      "The surprising attention on sprites, exe.dev, and shellbox",
-      "https://lalitm.com/trying-sprites-exedev-shellbox/"
     ]
   ],
   [
