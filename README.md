@@ -2,6 +2,7 @@
 
 * [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
+* [2026-02-02, 06:57:17](https://lobste.rs/s/v2ci9h/tablam) - [TablaM](https://www.tablam.org)
 * [2026-02-02, 06:51:05](https://lobste.rs/s/vj2zkd/migrating_gtk3_re_factor) - [Migrating to GTK3 – Re: Factor](https://re.factorcode.org/2025/12/migrating-to-gtk3.html)
 * [2026-02-02, 06:39:46](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling) - [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting)
 * [2026-02-02, 06:13:41](https://lobste.rs/s/rtkmpd/selfish_ai) - [Selfish AI](https://www.garfieldtech.com/blog/selfish-ai)
@@ -11,7 +12,6 @@
 * [2026-02-02, 04:21:13](https://lobste.rs/s/5ylh4f/programming_principles_age_ai_dry) - [Programming Principles in the Age of AI: DRY](https://kirilltolmachev.dev/is-dry-dying)
 * [2026-02-02, 02:27:40](https://lobste.rs/s/et8pfu/resurrecting_crimsonland) - [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/)
 * [2026-02-02, 01:46:20](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) - [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset)
-* [2026-02-02, 00:01:55](https://lobste.rs/s/szch6i/beyond_smoothed_analysis_analyzing) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
 * [2026-02-01, 22:51:19](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 21:57:17](https://lobste.rs/s/uveyjh/my_very_fast_zero_allocation_webserver) - [My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
 * [2026-02-01, 21:53:49](https://lobste.rs/s/skbved/audio_on_hp300) - [Audio on hp300](http://miod.online.fr/software/openbsd/stories/arcofi.html)
