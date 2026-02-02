@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-02, 04:21:13](https://lobste.rs/s/5ylh4f/programming_principles_age_ai_dry) - [Programming Principles in the Age of AI: DRY](https://kirilltolmachev.dev/is-dry-dying)
+* [2026-02-02, 02:27:40](https://lobste.rs/s/et8pfu/resurrecting_crimsonland) - [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/)
 * [2026-02-02, 01:46:20](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) - [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset)
 * [2026-02-02, 00:51:35](https://lobste.rs/s/yrhvq4/yak_power_shears_llms_are_pretty_good_at) - [Yak Power-Shears: LLMs are pretty good at Emacs](https://www.emoses.org/posts/llms-are-good-at-emacs/)
 * [2026-02-02, 00:01:55](https://lobste.rs/s/szch6i/beyond_smoothed_analysis_analyzing) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
@@ -21,8 +23,6 @@
 * [2026-02-01, 06:20:02](https://lobste.rs/s/rc9mvx/solving_package_management_via) - [Solving Package Management via Hypergraph Dependency Resolution](https://arxiv.org/pdf/2506.10803)
 * [2026-02-01, 04:00:22](https://lobste.rs/s/zr3igq/git_cola_highly_caffeinated_git_gui) - [git-cola: The highly caffeinated Git GUI](https://github.com/git-cola/git-cola)
 * [2026-02-01, 00:28:52](https://lobste.rs/s/jnttzy/praise_dry_run) - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
-* [2026-01-31, 21:42:30](https://lobste.rs/s/fiuesm/this_year_llvm_2025) - [This year in LLVM (2025)](https://www.npopov.com/2026/01/31/This-year-in-LLVM-2025.html)
-* [2026-01-31, 18:48:17](https://lobste.rs/s/bpe2ma/pi_minimal_agent_within_openclaw) - [Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
 * [2026-01-31, 18:07:41](https://lobste.rs/s/cnrtxl/surprising_attention_on_sprites_exe_dev) - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 
