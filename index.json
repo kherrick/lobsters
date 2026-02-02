@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-02-02, 09:14:14",
+      "https://lobste.rs/s/jtmd88/purely_functional_games_2018"
+    ],
+    [
+      "Purely Functional Games (2018)",
+      "https://soupi.github.io/rfc/pfgames/"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 08:12:25",
       "https://lobste.rs/s/re5z0g/disconnected_git_workflow"
     ],
@@ -167,16 +177,6 @@
     [
       "My (very) fast zero-allocation webserver using OxCaml",
       "https://anil.recoil.org/notes/oxcaml-httpz"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 21:53:49",
-      "https://lobste.rs/s/skbved/audio_on_hp300"
-    ],
-    [
-      "Audio on hp300",
-      "http://miod.online.fr/software/openbsd/stories/arcofi.html"
     ]
   ],
   [
