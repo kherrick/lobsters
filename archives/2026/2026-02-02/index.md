@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 11:05:14](https://lobste.rs/s/u5jcwz/apple_s_macbook_pro_dfu_port) - [Apple’s MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 * [2026-02-02, 10:19:47](https://lobste.rs/s/9ychvo/trust_ranking) - [Trust in Ranking](https://www.marginalia.nu/log/a_130_trust_in_ranking/)
 * [2026-02-02, 10:12:23](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week)
 * [2026-02-02, 09:14:14](https://lobste.rs/s/jtmd88/purely_functional_games_2018) - [Purely Functional Games (2018)](https://soupi.github.io/rfc/pfgames/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-02, 11:05:14](https://lobste.rs/s/u5jcwz/apple_s_macbook_pro_dfu_port) - [Apple’s MacBook Pro DFU port documentation is wrong](https://lapcatsoftware.com/articles/2026/2/1.html)
 * [2026-02-02, 10:19:47](https://lobste.rs/s/9ychvo/trust_ranking) - [Trust in Ranking](https://www.marginalia.nu/log/a_130_trust_in_ranking/)
 * [2026-02-02, 10:12:23](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qgioeo/what_are_you_doing_this_week)
 * [2026-02-02, 09:14:14](https://lobste.rs/s/jtmd88/purely_functional_games_2018) - [Purely Functional Games (2018)](https://soupi.github.io/rfc/pfgames/)
@@ -16,7 +17,6 @@
 * [2026-02-02, 01:46:20](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) - [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset)
 * [2026-02-01, 22:51:19](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 21:57:17](https://lobste.rs/s/uveyjh/my_very_fast_zero_allocation_webserver) - [My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
-* [2026-02-01, 21:53:49](https://lobste.rs/s/skbved/audio_on_hp300) - [Audio on hp300](http://miod.online.fr/software/openbsd/stories/arcofi.html)
 * [2026-02-01, 20:33:27](https://lobste.rs/s/z0mdor/archive_today_is_directing_ddos_attack) - [archive.today is directing a DDOS attack against my blog](https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/)
 * [2026-02-01, 19:39:19](https://lobste.rs/s/vldzbz/this_year_i_will_write_gui_for_my_emacs) - [This year, I will write a GUI for my Emacs clone](https://kyo.iroiro.party/en/posts/this-year-a-shitty-gui/)
 * [2026-02-01, 19:11:46](https://lobste.rs/s/p8kpy0/remarkable_pro_colors) - [Remarkable Pro Colors](https://www.thregr.org/wavexx/rnd/20260201-remarkable_pro_colors/)
