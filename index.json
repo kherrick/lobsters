@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-02, 10:19:47",
+      "https://lobste.rs/s/9ychvo/trust_ranking"
+    ],
+    [
+      "Trust in Ranking",
+      "https://www.marginalia.nu/log/a_130_trust_in_ranking/"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 09:14:14",
+      "https://lobste.rs/s/jtmd88/purely_functional_games_2018"
+    ],
+    [
+      "Purely Functional Games (2018)",
+      "https://soupi.github.io/rfc/pfgames/"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 08:12:25",
       "https://lobste.rs/s/re5z0g/disconnected_git_workflow"
     ],
@@ -17,16 +37,6 @@
     [
       "Lambda cube",
       "https://en.wikipedia.org/wiki/Lambda_cube"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 06:57:17",
-      "https://lobste.rs/s/v2ci9h/tablam"
-    ],
-    [
-      "TablaM",
-      "https://www.tablam.org"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
       "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 09:51:39",
-      "https://lobste.rs/s/h6atjk/way_run_ansible_2_19_on_old_operating"
-    ],
-    [
-      "A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt",
-      "https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html"
     ]
   ],
   [
