@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
 * [2026-02-02, 06:58:38](https://lobste.rs/s/xugddk/concepts_forking) - [The concepts of forking](http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html)
 * [2026-02-02, 06:57:17](https://lobste.rs/s/v2ci9h/tablam) - [TablaM](https://www.tablam.org)
