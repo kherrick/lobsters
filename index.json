@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-02, 08:12:25",
+      "https://lobste.rs/s/re5z0g/disconnected_git_workflow"
+    ],
+    [
+      "The Disconnected Git Workflow",
+      "https://ploum.net/2026-01-31-offline-git-send-email.html"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 07:28:39",
       "https://lobste.rs/s/ekr6c0/lambda_cube"
     ],
@@ -237,16 +247,6 @@
     [
       "In Praise of –dry-run",
       "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/"
-    ]
-  ],
-  [
-    [
-      "2026-01-31, 11:19:32",
-      "https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user"
-    ],
-    [
-      "Guix System First Impressions as a Nix User",
-      "https://nemin.hu/guix.html"
     ]
   ]
 ]
