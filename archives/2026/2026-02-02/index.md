@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-02](index.md)
 
+* [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
+* [2026-02-02, 06:58:38](https://lobste.rs/s/xugddk/concepts_forking) - [The concepts of forking](http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html)
+* [2026-02-02, 06:57:17](https://lobste.rs/s/v2ci9h/tablam) - [TablaM](https://www.tablam.org)
 * [2026-02-02, 06:39:46](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling) - [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting)
 * [2026-02-02, 06:13:41](https://lobste.rs/s/rtkmpd/selfish_ai) - [Selfish AI](https://www.garfieldtech.com/blog/selfish-ai)
 * [2026-02-02, 06:05:37](https://lobste.rs/s/h46dxr/compiling_rust_readable_c_with_eurydice) - [Compiling Rust to readable C with Eurydice](https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/)

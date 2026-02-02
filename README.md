@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-02, 06:39:46](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling) - [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting)
+* [2026-02-02, 07:28:39](https://lobste.rs/s/ekr6c0/lambda_cube) - [Lambda cube](https://en.wikipedia.org/wiki/Lambda_cube)
+* [2026-02-02, 06:58:38](https://lobste.rs/s/xugddk/concepts_forking) - [The concepts of forking](http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html)
+* [2026-02-02, 06:57:17](https://lobste.rs/s/v2ci9h/tablam) - [TablaM](https://www.tablam.org)
 * [2026-02-02, 06:13:41](https://lobste.rs/s/rtkmpd/selfish_ai) - [Selfish AI](https://www.garfieldtech.com/blog/selfish-ai)
 * [2026-02-02, 06:05:37](https://lobste.rs/s/h46dxr/compiling_rust_readable_c_with_eurydice) - [Compiling Rust to readable C with Eurydice](https://lwn.net/SubscriberLink/1055211/6f51ebe751ce69a9/)
 * [2026-02-02, 05:14:25](https://lobste.rs/s/6ifznf/vibe_easy_vm_sandboxes_for_llm_agents_on) - [Vibe: Easy VM sandboxes for LLM agents on MacOS](https://github.com/lynaghk/vibe/)
@@ -8,7 +10,6 @@
 * [2026-02-02, 04:21:13](https://lobste.rs/s/5ylh4f/programming_principles_age_ai_dry) - [Programming Principles in the Age of AI: DRY](https://kirilltolmachev.dev/is-dry-dying)
 * [2026-02-02, 02:27:40](https://lobste.rs/s/et8pfu/resurrecting_crimsonland) - [Resurrecting Crimsonland](https://banteg.xyz/posts/crimsonland/)
 * [2026-02-02, 01:46:20](https://lobste.rs/s/nrwrh1/inside_lodash_s_security_reset) - [Inside Lodash’s Security Reset and Maintenance Reboot](https://socket.dev/blog/inside-lodash-security-reset)
-* [2026-02-02, 00:51:35](https://lobste.rs/s/yrhvq4/yak_power_shears_llms_are_pretty_good_at) - [Yak Power-Shears: LLMs are pretty good at Emacs](https://www.emoses.org/posts/llms-are-good-at-emacs/)
 * [2026-02-02, 00:01:55](https://lobste.rs/s/szch6i/beyond_smoothed_analysis_analyzing) - [Beyond Smoothed Analysis: Analyzing the Simplex Method by the Book](https://arxiv.org/abs/2510.21613)
 * [2026-02-01, 22:51:19](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 * [2026-02-01, 21:57:17](https://lobste.rs/s/uveyjh/my_very_fast_zero_allocation_webserver) - [My (very) fast zero-allocation webserver using OxCaml](https://anil.recoil.org/notes/oxcaml-httpz)
@@ -22,7 +23,6 @@
 * [2026-02-01, 13:38:13](https://lobste.rs/s/lgnaoi/api_tooling_crisis_why_developers_are) - [The API Tooling Crisis: Why developers are abandoning Postman and its clones?](https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/)
 * [2026-02-01, 09:51:39](https://lobste.rs/s/h6atjk/way_run_ansible_2_19_on_old_operating) - [A way to run Ansible 2.19 on old operating systems like Ubuntu 18.04 with working Apt](https://raymii.org/s/blog/Ansible_2.19_on_old_ubuntu_18.04_with_working_apt.html)
 * [2026-02-01, 08:02:25](https://lobste.rs/s/zhhlod/coding_agent_vms_on_nixos_with_microvm_nix) - [Coding Agent VMs on NixOS with microvm.nix](https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/)
-* [2026-02-01, 04:00:22](https://lobste.rs/s/zr3igq/git_cola_highly_caffeinated_git_gui) - [git-cola: The highly caffeinated Git GUI](https://github.com/git-cola/git-cola)
 * [2026-02-01, 00:28:52](https://lobste.rs/s/jnttzy/praise_dry_run) - [In Praise of –dry-run](https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/)
 * [2026-01-31, 11:19:32](https://lobste.rs/s/koagyg/guix_system_first_impressions_as_nix_user) - [Guix System First Impressions as a Nix User](https://nemin.hu/guix.html)
 
