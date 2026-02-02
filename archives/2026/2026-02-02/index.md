@@ -9,6 +9,7 @@
 * [2026-02-02, 21:34:25](https://lobste.rs/s/pfhei9/zig_libc) - [zig libc](https://ziglang.org/devlog/2026/#2026-01-31)
 * [2026-02-02, 19:56:51](https://lobste.rs/s/2yk8ao/stelvio_ship_python_aws) - [Stelvio: ship Python to AWS](http://github.com/stelviodev/stelvio)
 * [2026-02-02, 19:32:12](https://lobste.rs/s/bp8ru2/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2026/01/28/largest-number-revised)
+* [2026-02-02, 19:00:16](https://lobste.rs/s/fb8jur/retro_web) - [The Retro Web](https://theretroweb.com/)
 * [2026-02-02, 17:43:19](https://lobste.rs/s/7xegog/removing_tahoe_s_unwanted_menu_icons) - [Removing Tahoe’s Unwanted Menu Icons](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/)
 * [2026-02-02, 16:56:50](https://lobste.rs/s/8llm9z/rust_1_93_performance_improvements) - [Rust 1.93 performance improvements in format! and friends](https://hachyderm.io/@Mara/115542621720999480)
 * [2026-02-02, 15:59:58](https://lobste.rs/s/htsg2w/uk_fuel_price_map_web_ui_for_uk_fuel_price) - [uk-fuel-price-map: A web ui for the uk fuel price data](https://github.com/markwylde/uk-fuel-price-map)
