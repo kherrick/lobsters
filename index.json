@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-02, 15:59:58",
+      "https://lobste.rs/s/htsg2w/uk_fuel_price_map_web_ui_for_uk_fuel_price"
+    ],
+    [
+      "uk-fuel-price-map: A web ui for the uk fuel price data",
+      "https://github.com/markwylde/uk-fuel-price-map"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 15:34:49",
       "https://lobste.rs/s/igyhgw/my_experience_with_vibe_coding"
     ],
@@ -237,16 +247,6 @@
     [
       "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
       "https://efpasia.github.io/blog/2025/12/24/api-tooling-crisis/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 08:02:25",
-      "https://lobste.rs/s/zhhlod/coding_agent_vms_on_nixos_with_microvm_nix"
-    ],
-    [
-      "Coding Agent VMs on NixOS with microvm.nix",
-      "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/"
     ]
   ]
 ]
