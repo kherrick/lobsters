@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-02, 06:39:46",
-      "https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling"
+      "2026-02-02, 07:28:39",
+      "https://lobste.rs/s/ekr6c0/lambda_cube"
     ],
     [
-      "Ending 15 years of subprocess polling",
-      "https://gmpy.dev/blog/2026/event-driven-process-waiting"
+      "Lambda cube",
+      "https://en.wikipedia.org/wiki/Lambda_cube"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 06:58:38",
+      "https://lobste.rs/s/xugddk/concepts_forking"
+    ],
+    [
+      "The concepts of forking",
+      "http://monty-says.blogspot.com/2026/01/the-concepts-of-forking.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-02, 06:57:17",
+      "https://lobste.rs/s/v2ci9h/tablam"
+    ],
+    [
+      "TablaM",
+      "https://www.tablam.org"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Inside Lodash’s Security Reset and Maintenance Reboot",
       "https://socket.dev/blog/inside-lodash-security-reset"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 00:51:35",
-      "https://lobste.rs/s/yrhvq4/yak_power_shears_llms_are_pretty_good_at"
-    ],
-    [
-      "Yak Power-Shears: LLMs are pretty good at Emacs",
-      "https://www.emoses.org/posts/llms-are-good-at-emacs/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Coding Agent VMs on NixOS with microvm.nix",
       "https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 04:00:22",
-      "https://lobste.rs/s/zr3igq/git_cola_highly_caffeinated_git_gui"
-    ],
-    [
-      "git-cola: The highly caffeinated Git GUI",
-      "https://github.com/git-cola/git-cola"
     ]
   ],
   [
