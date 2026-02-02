@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-02, 11:05:14",
+      "https://lobste.rs/s/u5jcwz/apple_s_macbook_pro_dfu_port"
+    ],
+    [
+      "Apple’s MacBook Pro DFU port documentation is wrong",
+      "https://lapcatsoftware.com/articles/2026/2/1.html"
+    ]
+  ],
+  [
+    [
       "2026-02-02, 10:19:47",
       "https://lobste.rs/s/9ychvo/trust_ranking"
     ],
@@ -157,16 +167,6 @@
     [
       "My (very) fast zero-allocation webserver using OxCaml",
       "https://anil.recoil.org/notes/oxcaml-httpz"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 21:53:49",
-      "https://lobste.rs/s/skbved/audio_on_hp300"
-    ],
-    [
-      "Audio on hp300",
-      "http://miod.online.fr/software/openbsd/stories/arcofi.html"
     ]
   ],
   [
