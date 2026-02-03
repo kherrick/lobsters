@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-02-03, 11:55:22",
+      "https://lobste.rs/s/jtfvkp/floppinux_embedded_linux_on_single"
+    ],
+    [
+      "FLOPPINUX - An Embedded Linux on a Single Floppy - 2025 Edition",
+      "https://krzysztofjankowski.com/floppinux/floppinux-2025.html"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 09:26:48",
       "https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network"
     ],
@@ -227,16 +237,6 @@
     [
       "The Disconnected Git Workflow",
       "https://ploum.net/2026-01-31-offline-git-send-email.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 06:39:46",
-      "https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling"
-    ],
-    [
-      "Ending 15 years of subprocess polling",
-      "https://gmpy.dev/blog/2026/event-driven-process-waiting"
     ]
   ],
   [
