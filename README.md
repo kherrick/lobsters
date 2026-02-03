@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-03, 19:09:00](https://lobste.rs/s/dw3fy3/osmc_2025_easy_logging_refinement_with) - [OSMC 2025 - Easy logging refinement with FlowG](https://www.youtube.com/watch?v=zrvc6hPmNYI)
 * [2026-02-03, 18:14:03](https://lobste.rs/s/aiewta/gdpr_enforcement_is_broken) - [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/)
 * [2026-02-03, 18:10:37](https://lobste.rs/s/kphf9n/java_sucks_2000) - [java sucks (2000)](https://www.jwz.org/doc/java.html)
 * [2026-02-03, 17:55:56](https://lobste.rs/s/qwer0m/mechanical_sympathy_2014) - [Mechanical Sympathy (2014)](https://www.infoq.com/presentations/mechanical-sympathy/)
@@ -23,7 +24,6 @@
 * [2026-02-02, 15:34:49](https://lobste.rs/s/igyhgw/my_experience_with_vibe_coding) - [My experience with vibe coding](https://haskellforall.com/2026/02/my-experience-with-vibe-coding)
 * [2026-02-02, 14:14:34](https://lobste.rs/s/9esltl/intro_cstml_xml_meets_json) - [Intro to CSTML (or: XML meets JSON)](https://docs.bablr.org/guides/cstml/)
 * [2026-02-02, 11:21:09](https://lobste.rs/s/rcojcc/technology_nearly_perfect_usb_cable) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
-* [2026-02-02, 08:12:25](https://lobste.rs/s/re5z0g/disconnected_git_workflow) - [The Disconnected Git Workflow](https://ploum.net/2026-01-31-offline-git-send-email.html)
 * [2026-02-02, 04:49:12](https://lobste.rs/s/pt7myu/notepad_hijacked_by_state_sponsored) - [Notepad++ Hijacked by State-Sponsored Hackers](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 
 ## [Archives](archives/index.md)
