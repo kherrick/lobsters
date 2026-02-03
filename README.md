@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-03, 16:49:46](https://lobste.rs/s/40e15l/your_claude_md_is_doing_too_much) - [Your CLAUDE.md is doing too much](https://visr.dev/)
 * [2026-02-03, 15:44:35](https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler) - [Easily write Bash with a transpiler](https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/)
 * [2026-02-03, 14:55:48](https://lobste.rs/s/7c0zpv/implementing_temporal_proposal) - [Implementing the Temporal proposal in JavaScriptCore](https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/)
 * [2026-02-03, 13:26:20](https://lobste.rs/s/efg3rf/your_app_shouldn_t_have_happy_path) - [Your App Shouldn't Have a Happy Path](https://erickhun.com/posts/coding-agents-no-happy-path/)
-* [2026-02-03, 12:35:33](https://lobste.rs/s/sbmtxh/millets_practical_memory_safety_thread) - [Millets: a practical memory-safety and thread-safety experiment](https://eagledot.xyz/millets.md.html)
 * [2026-02-03, 11:55:22](https://lobste.rs/s/jtfvkp/floppinux_embedded_linux_on_single) - [FLOPPINUX - An Embedded Linux on a Single Floppy - 2025 Edition](https://krzysztofjankowski.com/floppinux/floppinux-2025.html)
 * [2026-02-03, 09:26:48](https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network) - [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
 * [2026-02-03, 09:07:06](https://lobste.rs/s/iq3bp6/eigen_building_workspace) - [Eigen: Building a Workspace](https://reindernijhoff.net/2025/10/eigen-building-a-workspace/)

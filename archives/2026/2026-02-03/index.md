@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 16:49:46](https://lobste.rs/s/40e15l/your_claude_md_is_doing_too_much) - [Your CLAUDE.md is doing too much](https://visr.dev/)
 * [2026-02-03, 15:44:35](https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler) - [Easily write Bash with a transpiler](https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/)
 * [2026-02-03, 14:55:48](https://lobste.rs/s/7c0zpv/implementing_temporal_proposal) - [Implementing the Temporal proposal in JavaScriptCore](https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/)
 * [2026-02-03, 13:26:20](https://lobste.rs/s/efg3rf/your_app_shouldn_t_have_happy_path) - [Your App Shouldn't Have a Happy Path](https://erickhun.com/posts/coding-agents-no-happy-path/)
