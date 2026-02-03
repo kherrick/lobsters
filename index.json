@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-03, 09:07:06",
+      "https://lobste.rs/s/iq3bp6/eigen_building_workspace"
+    ],
+    [
+      "Eigen: Building a Workspace",
+      "https://reindernijhoff.net/2025/10/eigen-building-a-workspace/"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 09:03:57",
       "https://lobste.rs/s/nccupe/whatsapp_encryption_lawsuit_lot_noise"
     ],
@@ -227,16 +237,6 @@
     [
       "Ending 15 years of subprocess polling",
       "https://gmpy.dev/blog/2026/event-driven-process-waiting"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 05:14:25",
-      "https://lobste.rs/s/6ifznf/vibe_easy_vm_sandboxes_for_llm_agents_on"
-    ],
-    [
-      "Vibe: Easy VM sandboxes for LLM agents on MacOS",
-      "https://github.com/lynaghk/vibe/"
     ]
   ],
   [
