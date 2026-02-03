@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 18:14:03](https://lobste.rs/s/aiewta/gdpr_enforcement_is_broken) - [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/)
+* [2026-02-03, 18:10:37](https://lobste.rs/s/kphf9n/java_sucks_2000) - [java sucks (2000)](https://www.jwz.org/doc/java.html)
+* [2026-02-03, 17:55:56](https://lobste.rs/s/qwer0m/mechanical_sympathy_2014) - [Mechanical Sympathy (2014)](https://www.infoq.com/presentations/mechanical-sympathy/)
+* [2026-02-03, 17:51:16](https://lobste.rs/s/kzugo4/smallest_build_system) - [The smallest build system](https://neugierig.org/software/blog/2026/01/smallest-build-system.html)
+* [2026-02-03, 17:50:55](https://lobste.rs/s/0stawc/expensively_quadratic_llm_agent_cost) - [Expensively Quadratic: the LLM Agent Cost Curve](https://blog.exe.dev/expensively-quadratic)
 * [2026-02-03, 17:11:29](https://lobste.rs/s/wrduhe/defining_safe_hardware_design) - [Defining Safe Hardware Design](https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf)
 * [2026-02-03, 16:49:46](https://lobste.rs/s/40e15l/your_claude_md_is_doing_too_much) - [Your CLAUDE.md is doing too much](https://visr.dev/)
 * [2026-02-03, 15:44:35](https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler) - [Easily write Bash with a transpiler](https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/)
