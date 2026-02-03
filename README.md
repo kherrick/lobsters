@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-03, 00:16:41](https://lobste.rs/s/ecrnwg/one_machine_can_go_pretty_far_if_you_build) - [One machine can go pretty far if you build things properly (2022)](https://rachelbythebay.com/w/2022/01/27/scale/)
 * [2026-02-02, 21:43:21](https://lobste.rs/s/bywnqo/what_s_your_email_setup) - [What's your email setup?](https://lobste.rs/s/bywnqo/what_s_your_email_setup)
 * [2026-02-02, 21:34:25](https://lobste.rs/s/pfhei9/zig_libc) - [zig libc](https://ziglang.org/devlog/2026/#2026-01-31)
 * [2026-02-02, 19:56:51](https://lobste.rs/s/2yk8ao/stelvio_ship_python_aws) - [Stelvio: ship Python to AWS](http://github.com/stelviodev/stelvio)
@@ -8,7 +9,6 @@
 * [2026-02-02, 17:43:19](https://lobste.rs/s/7xegog/removing_tahoe_s_unwanted_menu_icons) - [Removing Tahoe’s Unwanted Menu Icons](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/)
 * [2026-02-02, 16:56:50](https://lobste.rs/s/8llm9z/rust_1_93_performance_improvements) - [Rust 1.93 performance improvements in format! and friends](https://hachyderm.io/@Mara/115542621720999480)
 * [2026-02-02, 16:53:01](https://lobste.rs/s/halc0a/game_trees_hub_s_web_interface_is_live_we) - [Game of Trees Hub's web interface is live. And we need more subscribers](https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers)
-* [2026-02-02, 15:59:58](https://lobste.rs/s/htsg2w/uk_fuel_price_map_web_ui_for_uk_fuel_price) - [uk-fuel-price-map: A web ui for the uk fuel price data](https://github.com/markwylde/uk-fuel-price-map)
 * [2026-02-02, 15:45:19](https://lobste.rs/s/0wd2al/maliciouscorgi_cute_looking_ai) - [MaliciousCorgi: The Cute-Looking AI Extensions Leaking Code from 1.5 Million Developers](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 * [2026-02-02, 15:40:48](https://lobste.rs/s/c3vvtw/rust_coreutils_continues_working_toward) - [Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)
 * [2026-02-02, 15:34:49](https://lobste.rs/s/igyhgw/my_experience_with_vibe_coding) - [My experience with vibe coding](https://haskellforall.com/2026/02/my-experience-with-vibe-coding)
