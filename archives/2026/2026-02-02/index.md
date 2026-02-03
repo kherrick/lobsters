@@ -12,6 +12,7 @@
 * [2026-02-02, 19:00:16](https://lobste.rs/s/fb8jur/retro_web) - [The Retro Web](https://theretroweb.com/)
 * [2026-02-02, 17:43:19](https://lobste.rs/s/7xegog/removing_tahoe_s_unwanted_menu_icons) - [Removing Tahoe’s Unwanted Menu Icons](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/)
 * [2026-02-02, 16:56:50](https://lobste.rs/s/8llm9z/rust_1_93_performance_improvements) - [Rust 1.93 performance improvements in format! and friends](https://hachyderm.io/@Mara/115542621720999480)
+* [2026-02-02, 16:53:01](https://lobste.rs/s/halc0a/game_trees_hub_s_web_interface_is_live_we) - [Game of Trees Hub's web interface is live. And we need more subscribers](https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers)
 * [2026-02-02, 15:59:58](https://lobste.rs/s/htsg2w/uk_fuel_price_map_web_ui_for_uk_fuel_price) - [uk-fuel-price-map: A web ui for the uk fuel price data](https://github.com/markwylde/uk-fuel-price-map)
 * [2026-02-02, 15:45:19](https://lobste.rs/s/0wd2al/maliciouscorgi_cute_looking_ai) - [MaliciousCorgi: The Cute-Looking AI Extensions Leaking Code from 1.5 Million Developers](https://www.koi.ai/blog/maliciouscorgi-the-cute-looking-ai-extensions-leaking-code-from-1-5-million-developers)
 * [2026-02-02, 15:40:48](https://lobste.rs/s/c3vvtw/rust_coreutils_continues_working_toward) - [Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)
