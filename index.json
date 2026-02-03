@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-03, 13:26:20",
+      "https://lobste.rs/s/efg3rf/your_app_shouldn_t_have_happy_path"
+    ],
+    [
+      "Your App Shouldn't Have a Happy Path",
+      "https://erickhun.com/posts/coding-agents-no-happy-path/"
+    ]
+  ],
+  [
+    [
+      "2026-02-03, 12:35:33",
+      "https://lobste.rs/s/sbmtxh/millets_practical_memory_safety_thread"
+    ],
+    [
+      "Millets: a practical memory-safety and thread-safety experiment",
+      "https://eagledot.xyz/millets.md.html"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 09:26:48",
       "https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-02-02, 10:12:23",
-      "https://lobste.rs/s/qgioeo/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/qgioeo/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2026-02-02, 08:12:25",
       "https://lobste.rs/s/re5z0g/disconnected_git_workflow"
     ],
     [
       "The Disconnected Git Workflow",
       "https://ploum.net/2026-01-31-offline-git-send-email.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 06:51:05",
-      "https://lobste.rs/s/vj2zkd/migrating_gtk3_re_factor"
-    ],
-    [
-      "Migrating to GTK3 – Re: Factor",
-      "https://re.factorcode.org/2025/12/migrating-to-gtk3.html"
     ]
   ],
   [
