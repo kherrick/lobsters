@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-03, 03:20:36",
+      "https://lobste.rs/s/dktw14/plasma_effect"
+    ],
+    [
+      "Plasma Effect",
+      "https://www.4rknova.com/blog/2016/11/01/plasma"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 00:16:41",
       "https://lobste.rs/s/ecrnwg/one_machine_can_go_pretty_far_if_you_build"
     ],
@@ -115,7 +125,7 @@
       "https://lobste.rs/s/c3vvtw/rust_coreutils_continues_working_toward"
     ],
     [
-      "Rust Coreutils Continues Working Toward 100% GNU Compatibility, Proving Trolls Wrong",
+      "Rust Coreutils Continues Working Toward 100% GNU Compatibility",
       "https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Defeating a 40-year-old copy protection dongle",
       "https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle"
-    ]
-  ],
-  [
-    [
-      "2026-02-01, 21:57:17",
-      "https://lobste.rs/s/uveyjh/my_very_fast_zero_allocation_webserver"
-    ],
-    [
-      "My (very) fast zero-allocation webserver using OxCaml",
-      "https://anil.recoil.org/notes/oxcaml-httpz"
     ]
   ],
   [
