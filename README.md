@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-03, 07:26:43](https://lobste.rs/s/gh9rrz/glang) - [glang](https://github.com/pouyathe/glang/blob/main/source/dub/source/app.d)
+* [2026-02-03, 09:26:48](https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network) - [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
+* [2026-02-03, 09:03:57](https://lobste.rs/s/nccupe/whatsapp_encryption_lawsuit_lot_noise) - [WhatsApp Encryption, a Lawsuit, and a Lot of Noise](https://blog.cryptographyengineering.com/2026/02/02/whatsapp-encryption-a-lawsuit-and-a-lot-of-noise/)
+* [2026-02-03, 08:49:51](https://lobste.rs/s/xcg4j6/what_s_up_with_all_those_equals_signs) - [What’s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 * [2026-02-03, 03:22:25](https://lobste.rs/s/4wlhhv/rust_netbsd_kernel_other_odd_decisions) - [Rust in the NetBSD Kernel, and other odd decisions](https://bentsukun.ch/posts/netbsd-rust-kernel/)
 * [2026-02-03, 03:20:36](https://lobste.rs/s/dktw14/plasma_effect) - [Plasma Effect](https://www.4rknova.com/blog/2016/11/01/plasma)
 * [2026-02-03, 03:02:05](https://lobste.rs/s/zloybk/writing_async_runtime_rust) - [Writing an Async Runtime in Rust](https://michaelhelvey.dev/posts/rust_async_runtime)
@@ -13,7 +15,6 @@
 * [2026-02-02, 19:00:16](https://lobste.rs/s/fb8jur/retro_web) - [The Retro Web](https://theretroweb.com/)
 * [2026-02-02, 17:43:19](https://lobste.rs/s/7xegog/removing_tahoe_s_unwanted_menu_icons) - [Removing Tahoe’s Unwanted Menu Icons](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/)
 * [2026-02-02, 16:56:50](https://lobste.rs/s/8llm9z/rust_1_93_performance_improvements) - [Rust 1.93 performance improvements in format! and friends](https://hachyderm.io/@Mara/115542621720999480)
-* [2026-02-02, 16:53:01](https://lobste.rs/s/halc0a/game_trees_hub_s_web_interface_is_live_we) - [Game of Trees Hub's web interface is live. And we need more subscribers](https://opencollective.com/gothub/updates/web-interface-is-now-enabled-and-we-need-more-subscribers)
 * [2026-02-02, 15:40:48](https://lobste.rs/s/c3vvtw/rust_coreutils_continues_working_toward) - [Rust Coreutils Continues Working Toward 100% GNU Compatibility](https://www.phoronix.com/news/Rust-Coreutils-FOSDEM-2026)
 * [2026-02-02, 15:34:49](https://lobste.rs/s/igyhgw/my_experience_with_vibe_coding) - [My experience with vibe coding](https://haskellforall.com/2026/02/my-experience-with-vibe-coding)
 * [2026-02-02, 14:14:34](https://lobste.rs/s/9esltl/intro_cstml_xml_meets_json) - [Intro to CSTML (or: XML meets JSON)](https://docs.bablr.org/guides/cstml/)
@@ -24,7 +25,6 @@
 * [2026-02-02, 06:39:46](https://lobste.rs/s/rdmyjo/ending_15_years_subprocess_polling) - [Ending 15 years of subprocess polling](https://gmpy.dev/blog/2026/event-driven-process-waiting)
 * [2026-02-02, 05:14:25](https://lobste.rs/s/6ifznf/vibe_easy_vm_sandboxes_for_llm_agents_on) - [Vibe: Easy VM sandboxes for LLM agents on MacOS](https://github.com/lynaghk/vibe/)
 * [2026-02-02, 04:49:12](https://lobste.rs/s/pt7myu/notepad_hijacked_by_state_sponsored) - [Notepad++ Hijacked by State-Sponsored Hackers](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
-* [2026-02-01, 22:51:19](https://lobste.rs/s/lk7gze/defeating_40_year_old_copy_protection) - [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 
 ## [Archives](archives/index.md)
 
