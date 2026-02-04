@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-04, 18:30:29",
+      "https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs"
+    ],
+    [
+      "A few CPU hardware bugs",
+      "https://www.taricorp.net/2026/a-few-cpu-bugs/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 16:11:44",
       "https://lobste.rs/s/qjcvvp/distributing_go_binaries_like_sqlite"
     ],
@@ -27,16 +37,6 @@
     [
       "Xikipedia Algorithm",
       "https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 13:18:11",
-      "https://lobste.rs/s/dv7cyo/introducing_bunny_database_sqlite"
-    ],
-    [
-      "Introducing Bunny Database: The SQLite-Compatible Edge DB",
-      "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/"
     ]
   ],
   [
