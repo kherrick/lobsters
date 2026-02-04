@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-04, 05:18:36](https://lobste.rs/s/o8tg6n/why_charging_overnight_doesn_t_ruin) - [Why charging overnight doesn't ruin the battery anymore](https://lowendmac.com/2026/why-charging-overnight-doesnt-ruin-the-battery-anymore/)
 * [2026-02-04, 03:49:48](https://lobste.rs/s/dxeokh/what_arguments_was_python_called_with) - [What arguments was Python called with?](https://davidism.com/python-args/)
 * [2026-02-04, 03:15:33](https://lobste.rs/s/m4cbzy/33_hot_takes_on_systems_programming) - [33 Hot Takes on Systems Programming](https://m.youtube.com/watch?v=g5rgIdy51vQ)
 * [2026-02-03, 23:26:21](https://lobste.rs/s/brpotl/html_tables_revisted) - [html tables revisted](https://www.toolofthought.com/posts/html-tables-revisited)
@@ -7,7 +8,6 @@
 * [2026-02-03, 21:35:52](https://lobste.rs/s/eu12b9/taming_flat_ast_ergonomics_age_zero) - [Taming the Flat AST: Ergonomics in the Age of Zero Allocations](http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html)
 * [2026-02-03, 18:14:03](https://lobste.rs/s/aiewta/gdpr_enforcement_is_broken) - [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/)
 * [2026-02-03, 18:10:37](https://lobste.rs/s/kphf9n/java_sucks_2000) - [java sucks (2000)](https://www.jwz.org/doc/java.html)
-* [2026-02-03, 17:55:56](https://lobste.rs/s/qwer0m/mechanical_sympathy_2014) - [Mechanical Sympathy (2014)](https://www.infoq.com/presentations/mechanical-sympathy/)
 * [2026-02-03, 17:51:16](https://lobste.rs/s/kzugo4/smallest_build_system) - [The smallest build system](https://neugierig.org/software/blog/2026/01/smallest-build-system.html)
 * [2026-02-03, 17:50:55](https://lobste.rs/s/0stawc/expensively_quadratic_llm_agent_cost) - [Expensively Quadratic: the LLM Agent Cost Curve](https://blog.exe.dev/expensively-quadratic)
 * [2026-02-03, 17:11:29](https://lobste.rs/s/wrduhe/defining_safe_hardware_design) - [Defining Safe Hardware Design](https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf)
