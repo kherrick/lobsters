@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-04, 07:00:18](https://lobste.rs/s/m2ucyy/rust_dlopen_dynamic_linker_fully) - [rust-dlopen: A dynamic linker fully implemented in Rust](https://github.com/weizhiao/rust-dlopen)
+* [2026-02-04, 06:55:26](https://lobste.rs/s/bg1mw2/mobile_carriers_can_get_your_gps_location) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-02-04, 05:18:36](https://lobste.rs/s/o8tg6n/why_charging_overnight_doesn_t_ruin) - [Why charging overnight doesn't ruin the battery anymore](https://lowendmac.com/2026/why-charging-overnight-doesnt-ruin-the-battery-anymore/)
 * [2026-02-04, 03:49:48](https://lobste.rs/s/dxeokh/what_arguments_was_python_called_with) - [What arguments was Python called with?](https://davidism.com/python-args/)
 * [2026-02-04, 03:15:33](https://lobste.rs/s/m4cbzy/33_hot_takes_on_systems_programming) - [33 Hot Takes on Systems Programming](https://m.youtube.com/watch?v=g5rgIdy51vQ)
@@ -21,9 +23,7 @@
 * [2026-02-03, 00:16:41](https://lobste.rs/s/ecrnwg/one_machine_can_go_pretty_far_if_you_build) - [One machine can go pretty far if you build things properly (2022)](https://rachelbythebay.com/w/2022/01/27/scale/)
 * [2026-02-02, 21:43:21](https://lobste.rs/s/bywnqo/what_s_your_email_setup) - [What's your email setup?](https://lobste.rs/s/bywnqo/what_s_your_email_setup)
 * [2026-02-02, 21:34:25](https://lobste.rs/s/pfhei9/zig_libc) - [zig libc](https://ziglang.org/devlog/2026/#2026-01-31)
-* [2026-02-02, 17:43:19](https://lobste.rs/s/7xegog/removing_tahoe_s_unwanted_menu_icons) - [Removing Tahoe’s Unwanted Menu Icons](https://weblog.rogueamoeba.com/2026/01/10/removing-tahoes-unwanted-menu-icons/)
 * [2026-02-02, 15:34:49](https://lobste.rs/s/igyhgw/my_experience_with_vibe_coding) - [My experience with vibe coding](https://haskellforall.com/2026/02/my-experience-with-vibe-coding)
-* [2026-02-02, 11:21:09](https://lobste.rs/s/rcojcc/technology_nearly_perfect_usb_cable) - [Technology: The (nearly) perfect USB cable tester does exist](https://blog.literarily-starved.com/2026/02/technology-the-nearly-perfect-usb-cable-tester-does-exist/)
 * [2026-02-02, 04:49:12](https://lobste.rs/s/pt7myu/notepad_hijacked_by_state_sponsored) - [Notepad++ Hijacked by State-Sponsored Hackers](https://notepad-plus-plus.org/news/hijacked-incident-info-update/)
 
 ## [Archives](archives/index.md)
