@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-03](index.md)
 
+* [2026-02-03, 23:26:21](https://lobste.rs/s/brpotl/html_tables_revisted) - [html tables revisted](https://www.toolofthought.com/posts/html-tables-revisited)
 * [2026-02-03, 22:41:09](https://lobste.rs/s/ylrpaj/fitting_some_files_through_stdout_shaped) - [Fitting Some Files Through A Stdout-Shaped Hole](https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/)
 * [2026-02-03, 21:35:52](https://lobste.rs/s/eu12b9/taming_flat_ast_ergonomics_age_zero) - [Taming the Flat AST: Ergonomics in the Age of Zero Allocations](http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html)
 * [2026-02-03, 19:09:00](https://lobste.rs/s/dw3fy3/osmc_2025_easy_logging_refinement_with) - [OSMC 2025 - Easy logging refinement with FlowG](https://www.youtube.com/watch?v=zrvc6hPmNYI)
