@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 08:17:00](https://lobste.rs/s/jckhbk/i_prefer_pass_secrets_between_programs) - [I prefer to pass secrets between programs through standard input](https://utcc.utoronto.ca/~cks/space/blog/programming/PassingSecretsViaStdin)
+* [2026-02-04, 07:54:14](https://lobste.rs/s/y04ll5/microsoft_has_killed_widgets_six_times) - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 07:21:50](https://lobste.rs/s/2svv99/competence_as_tragedy) - [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy)
 * [2026-02-04, 07:00:18](https://lobste.rs/s/m2ucyy/rust_dlopen_dynamic_linker_fully) - [rust-dlopen: A dynamic linker fully implemented in Rust](https://github.com/weizhiao/rust-dlopen)
 * [2026-02-04, 06:55:26](https://lobste.rs/s/bg1mw2/mobile_carriers_can_get_your_gps_location) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
