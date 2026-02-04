@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
+* [2026-02-04, 18:34:10](https://lobste.rs/s/pcki6p/earlybinder_instantiating_parameters) - [EarlyBinder and instantiating parameters](https://rustc-dev-guide.rust-lang.org/ty-module/early-binder.html)
 * [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 16:11:44](https://lobste.rs/s/qjcvvp/distributing_go_binaries_like_sqlite) - [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
