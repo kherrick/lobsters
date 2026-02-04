@@ -7,7 +7,7 @@
 * [2026-02-04, 07:54:14](https://lobste.rs/s/y04ll5/microsoft_has_killed_widgets_six_times) - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 07:21:50](https://lobste.rs/s/2svv99/competence_as_tragedy) - [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy)
 * [2026-02-04, 06:55:26](https://lobste.rs/s/bg1mw2/mobile_carriers_can_get_your_gps_location) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
-* [2026-02-04, 02:37:12](https://lobste.rs/s/kupf4f/commodore_ibm_os_2_arexx_deal_no_deal) - [Commodore, IBM, OS/2, ARexx: Deal or no deal?](https://datagubbe.se/os2/)
+* [2026-02-04, 03:49:48](https://lobste.rs/s/dxeokh/what_arguments_was_python_called_with) - [What arguments was Python called with?](https://davidism.com/python-args/)
 * [2026-02-03, 23:26:21](https://lobste.rs/s/brpotl/html_tables_revisted) - [html tables revisted](https://www.toolofthought.com/posts/html-tables-revisited)
 * [2026-02-03, 22:41:09](https://lobste.rs/s/ylrpaj/fitting_some_files_through_stdout_shaped) - [Fitting Some Files Through A Stdout-Shaped Hole](https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/)
 * [2026-02-03, 21:35:52](https://lobste.rs/s/eu12b9/taming_flat_ast_ergonomics_age_zero) - [Taming the Flat AST: Ergonomics in the Age of Zero Allocations](http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html)
