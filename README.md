@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 16:11:44](https://lobste.rs/s/qjcvvp/distributing_go_binaries_like_sqlite) - [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_algorithm) - [Xikipedia Algorithm](https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm)
-* [2026-02-04, 13:18:11](https://lobste.rs/s/dv7cyo/introducing_bunny_database_sqlite) - [Introducing Bunny Database: The SQLite-Compatible Edge DB](https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/)
 * [2026-02-04, 12:22:36](https://lobste.rs/s/e0ngxl/wirth_s_revenge) - [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
 * [2026-02-04, 12:22:13](https://lobste.rs/s/mxzbwh/raylib_12_year_adventure_as_solo) - [raylib: a 12-year adventure as a solo-maintainer](https://fosdem.org/2026/schedule/event/883PBF-raylib-12-year-adventure/)
 * [2026-02-04, 11:56:42](https://lobste.rs/s/fbdcm5/broken_proofs_broken_provers) - [Broken proofs and broken provers](https://lawrencecpaulson.github.io/2026/01/15/Broken_proofs.html)
