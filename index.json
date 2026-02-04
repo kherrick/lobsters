@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-04, 19:41:53",
+      "https://lobste.rs/s/dkjllb/building_24_bit_arcade_crt_display"
+    ],
+    [
+      "Building a 24-bit Arcade CRT Display Adapter, From Scratch",
+      "https://www.scd31.com/posts/building-an-arcade-display-adapter"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 19:20:32",
       "https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded"
     ],
@@ -217,16 +227,6 @@
     [
       "Easily write Bash with a transpiler",
       "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 09:26:48",
-      "https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network"
-    ],
-    [
-      "Hacking Moltbook: AI Social Network Reveals 1.5M API Keys",
-      "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys"
     ]
   ],
   [
