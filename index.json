@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2026-02-03, 17:51:16",
+      "https://lobste.rs/s/kzugo4/smallest_build_system"
+    ],
+    [
+      "The smallest build system",
+      "https://neugierig.org/software/blog/2026/01/smallest-build-system.html"
+    ]
+  ],
+  [
+    [
       "2026-02-03, 15:44:35",
       "https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler"
     ],
@@ -237,16 +247,6 @@
     [
       "What’s up with all those equals signs anyway?",
       "https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/"
-    ]
-  ],
-  [
-    [
-      "2026-02-02, 21:34:25",
-      "https://lobste.rs/s/pfhei9/zig_libc"
-    ],
-    [
-      "zig libc",
-      "https://ziglang.org/devlog/2026/#2026-01-31"
     ]
   ]
 ]
