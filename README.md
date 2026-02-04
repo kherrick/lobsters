@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-04, 16:11:44](https://lobste.rs/s/qjcvvp/distributing_go_binaries_like_sqlite) - [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_algorithm) - [Xikipedia Algorithm](https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm)
 * [2026-02-04, 13:18:11](https://lobste.rs/s/dv7cyo/introducing_bunny_database_sqlite) - [Introducing Bunny Database: The SQLite-Compatible Edge DB](https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/)
@@ -23,7 +24,6 @@
 * [2026-02-03, 15:44:35](https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler) - [Easily write Bash with a transpiler](https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/)
 * [2026-02-03, 09:26:48](https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network) - [Hacking Moltbook: AI Social Network Reveals 1.5M API Keys](https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys)
 * [2026-02-03, 08:49:51](https://lobste.rs/s/xcg4j6/what_s_up_with_all_those_equals_signs) - [What’s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
-* [2026-02-03, 03:22:25](https://lobste.rs/s/4wlhhv/rust_netbsd_kernel_other_odd_decisions) - [Rust in the NetBSD Kernel, and other odd decisions](https://bentsukun.ch/posts/netbsd-rust-kernel/)
 * [2026-02-02, 21:34:25](https://lobste.rs/s/pfhei9/zig_libc) - [zig libc](https://ziglang.org/devlog/2026/#2026-01-31)
 
 ## [Archives](archives/index.md)

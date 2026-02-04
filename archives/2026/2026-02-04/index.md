@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 16:11:44](https://lobste.rs/s/qjcvvp/distributing_go_binaries_like_sqlite) - [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_potentially_nsfw) - [Xikipedia (potentially NSFW)](https://xikipedia.org/)
 * [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_algorithm) - [Xikipedia Algorithm](https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm)
