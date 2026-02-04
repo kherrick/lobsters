@@ -6,6 +6,7 @@
 
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_potentially_nsfw) - [Xikipedia (potentially NSFW)](https://xikipedia.org/)
+* [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_algorithm) - [Xikipedia Algorithm](https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm)
 * [2026-02-04, 13:18:11](https://lobste.rs/s/dv7cyo/introducing_bunny_database_sqlite) - [Introducing Bunny Database: The SQLite-Compatible Edge DB](https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/)
 * [2026-02-04, 13:10:49](https://lobste.rs/s/tzzyx5/personal_ai_is_already_here_you_re) - [Personal AI is Already Here (And You’re Probably Not Ready)](https://www.robert-glaser.de/personal-ai-is-already-here/)
 * [2026-02-04, 12:22:36](https://lobste.rs/s/e0ngxl/wirth_s_revenge) - [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
