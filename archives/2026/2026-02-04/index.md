@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 12:22:36](https://lobste.rs/s/e0ngxl/wirth_s_revenge) - [Wirth's Revenge](https://jmoiron.net/blog/wirths-revenge/)
 * [2026-02-04, 09:50:49](https://lobste.rs/s/najof9/writing_rss_reader_80_lines_bash) - [writing an RSS reader in 80 lines of bash](https://yobibyte.github.io/yr.html)
 * [2026-02-04, 08:44:39](https://lobste.rs/s/6xpxg9/lfs_blfs_will_no_longer_be_developing) - [LFS/BLFS will no longer be developing the System V versions](https://lists.linuxfromscratch.org/sympa/arc/lfs-announce/2026-02/msg00000.html)
 * [2026-02-04, 08:35:56](https://lobste.rs/s/hfuiti/i_miss_thinking_hard) - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
