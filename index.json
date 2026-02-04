@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-04, 18:34:10",
+      "https://lobste.rs/s/pcki6p/earlybinder_instantiating_parameters"
+    ],
+    [
+      "EarlyBinder and instantiating parameters",
+      "https://rustc-dev-guide.rust-lang.org/ty-module/early-binder.html"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 18:30:29",
       "https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs"
     ],
@@ -197,16 +207,6 @@
     [
       "The smallest build system",
       "https://neugierig.org/software/blog/2026/01/smallest-build-system.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 17:11:29",
-      "https://lobste.rs/s/wrduhe/defining_safe_hardware_design"
-    ],
-    [
-      "Defining Safe Hardware Design",
-      "https://people.csail.mit.edu/rachit/files/pubs/safe-hdls.pdf"
     ]
   ],
   [
