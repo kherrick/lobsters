@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-02-04, 13:18:11",
+      "https://lobste.rs/s/dv7cyo/introducing_bunny_database_sqlite"
+    ],
+    [
+      "Introducing Bunny Database: The SQLite-Compatible Edge DB",
+      "https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 13:10:49",
+      "https://lobste.rs/s/tzzyx5/personal_ai_is_already_here_you_re"
+    ],
+    [
+      "Personal AI is Already Here (And You’re Probably Not Ready)",
+      "https://www.robert-glaser.de/personal-ai-is-already-here/"
+    ]
+  ],
+  [
+    [
       "2026-02-04, 12:22:36",
       "https://lobste.rs/s/e0ngxl/wirth_s_revenge"
     ],
     [
       "Wirth's Revenge",
       "https://jmoiron.net/blog/wirths-revenge/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 12:22:13",
+      "https://lobste.rs/s/mxzbwh/raylib_12_year_adventure_as_solo"
+    ],
+    [
+      "raylib: a 12-year adventure as a solo-maintainer",
+      "https://fosdem.org/2026/schedule/event/883PBF-raylib-12-year-adventure/"
+    ]
+  ],
+  [
+    [
+      "2026-02-04, 10:44:48",
+      "https://lobste.rs/s/wxijhv/how_not_program_dyalog_apl"
+    ],
+    [
+      "How not to program in Dyalog APL",
+      "https://www.toolofthought.com/donts"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Mobile carriers can get your GPS location",
       "https://an.dywa.ng/carrier-gnss.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 03:49:48",
-      "https://lobste.rs/s/dxeokh/what_arguments_was_python_called_with"
-    ],
-    [
-      "What arguments was Python called with?",
-      "https://davidism.com/python-args/"
     ]
   ],
   [
@@ -171,26 +201,6 @@
   ],
   [
     [
-      "2026-02-03, 14:55:48",
-      "https://lobste.rs/s/7c0zpv/implementing_temporal_proposal"
-    ],
-    [
-      "Implementing the Temporal proposal in JavaScriptCore",
-      "https://blogs.igalia.com/compilers/2026/02/02/implementing-the-temporal-proposal-in-javascriptcore/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 11:55:22",
-      "https://lobste.rs/s/jtfvkp/floppinux_embedded_linux_on_single"
-    ],
-    [
-      "FLOPPINUX - An Embedded Linux on a Single Floppy - 2025 Edition",
-      "https://krzysztofjankowski.com/floppinux/floppinux-2025.html"
-    ]
-  ],
-  [
-    [
       "2026-02-03, 09:26:48",
       "https://lobste.rs/s/xyrr0q/hacking_moltbook_ai_social_network"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust in the NetBSD Kernel, and other odd decisions",
       "https://bentsukun.ch/posts/netbsd-rust-kernel/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 00:16:41",
-      "https://lobste.rs/s/ecrnwg/one_machine_can_go_pretty_far_if_you_build"
-    ],
-    [
-      "One machine can go pretty far if you build things properly (2022)",
-      "https://rachelbythebay.com/w/2022/01/27/scale/"
     ]
   ],
   [
