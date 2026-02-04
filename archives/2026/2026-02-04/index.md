@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-04](index.md)
 
+* [2026-02-04, 20:49:37](https://lobste.rs/s/8xtcbp/indiewebify_me_yes_please) - [IndieWebify.Me? Yes please](https://blog.rickardlindberg.me/2026/02/04/indie-webify-me-yes-please.html)
 * [2026-02-04, 19:41:53](https://lobste.rs/s/dkjllb/building_24_bit_arcade_crt_display) - [Building a 24-bit Arcade CRT Display Adapter, From Scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 19:35:19](https://lobste.rs/s/kazsev/stack_overflow_launches_2008) - [Stack Overflow Launches (2008)](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
