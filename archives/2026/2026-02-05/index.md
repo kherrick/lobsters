@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 14:05:33](https://lobste.rs/s/fklihk/owning_5m_data_center) - [Owning a $5M data center](https://blog.comma.ai/datacenter/)
+* [2026-02-05, 13:43:45](https://lobste.rs/s/yiwt27/future_was_federated) - [The Future Was Federated](https://news.dyne.org/the-future-was-federated/)
 * [2026-02-05, 12:27:04](https://lobste.rs/s/1xyudo/we_are_qa_engineers_now) - [We are QA Engineers now](https://serce.me/posts/2026-02-05-we-are-qa-engineers-now)
 * [2026-02-05, 12:25:44](https://lobste.rs/s/j2mblu/fosdem_26_my_hallway_track_takeaways) - [FOSDEM 26 - My Hallway Track Takeaways](https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways)
 * [2026-02-05, 11:11:38](https://lobste.rs/s/rsm7xh/getting_main_thing_right) - [Getting the main thing right](https://www.seangoedecke.com/getting-the-main-thing-right/)
