@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:41:52](https://lobste.rs/s/o66n1w/llm_spectrum_responsible_llm_use) - [The LLM spectrum and responsible LLM use](https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html)
 * [2026-02-05, 19:27:11](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel) - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
 * [2026-02-05, 17:01:44](https://lobste.rs/s/vhvbr8/on_promises_high_assurance_cryptography) - [On the Promises of 'High-Assurance' Cryptography](https://symbolic.software/blog/2026-02-05-cryspen/)
@@ -16,7 +17,6 @@
 * [2026-02-05, 11:11:38](https://lobste.rs/s/rsm7xh/getting_main_thing_right) - [Getting the main thing right](https://www.seangoedecke.com/getting-the-main-thing-right/)
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
 * [2026-02-05, 06:34:35](https://lobste.rs/s/0om9ct/slint_1_15_released) - [Slint 1.15 Released](https://slint.dev/blog/slint-1.15-released)
-* [2026-02-05, 06:16:57](https://lobste.rs/s/9vtidf/customizable_nice_select) - [Customizable Nice <select>](https://nerdy.dev/nice-select)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)

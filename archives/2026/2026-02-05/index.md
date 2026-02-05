@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:41:52](https://lobste.rs/s/o66n1w/llm_spectrum_responsible_llm_use) - [The LLM spectrum and responsible LLM use](https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html)
 * [2026-02-05, 19:27:11](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel) - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
 * [2026-02-05, 18:46:10](https://lobste.rs/s/axh9zo/agentic_proof_oriented_programming) - [Agentic Proof-Oriented Programming](https://risemsr.github.io/blog/2026-02-04-nik-agentic-pop/)
