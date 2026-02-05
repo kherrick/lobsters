@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-05, 01:17:49](https://lobste.rs/s/csqt6p/same_image_different_score) - [Same Image, Different Score?](https://halide.cx/blog/chroma-handling)
+* [2026-02-05, 01:07:50](https://lobste.rs/s/dj0pba/recent_trends_work_django_security_team) - [Recent trends in the work of the Django Security Team](https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/)
 * [2026-02-04, 20:49:37](https://lobste.rs/s/8xtcbp/indiewebify_me_yes_please) - [IndieWebify.Me? Yes please](https://blog.rickardlindberg.me/2026/02/04/indie-webify-me-yes-please.html)
 * [2026-02-04, 19:41:53](https://lobste.rs/s/dkjllb/building_24_bit_arcade_crt_display) - [Building a 24-bit Arcade CRT Display Adapter, From Scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 19:35:19](https://lobste.rs/s/kazsev/stack_overflow_launches_2008) - [Stack Overflow Launches (2008)](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/)
@@ -21,10 +23,8 @@
 * [2026-02-04, 06:55:26](https://lobste.rs/s/bg1mw2/mobile_carriers_can_get_your_gps_location) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 * [2026-02-03, 22:41:09](https://lobste.rs/s/ylrpaj/fitting_some_files_through_stdout_shaped) - [Fitting Some Files Through A Stdout-Shaped Hole](https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/)
 * [2026-02-03, 21:35:52](https://lobste.rs/s/eu12b9/taming_flat_ast_ergonomics_age_zero) - [Taming the Flat AST: Ergonomics in the Age of Zero Allocations](http://modern-c.blogspot.com/2026/02/taming-flat-ast-ergonomics-in-age-of.html)
-* [2026-02-03, 18:14:03](https://lobste.rs/s/aiewta/gdpr_enforcement_is_broken) - [GDPR Enforcement Is Broken](https://nikolak.com/gdpr-failure/)
 * [2026-02-03, 18:10:37](https://lobste.rs/s/kphf9n/java_sucks_2000) - [java sucks (2000)](https://www.jwz.org/doc/java.html)
 * [2026-02-03, 15:44:35](https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler) - [Easily write Bash with a transpiler](https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/)
-* [2026-02-03, 08:49:51](https://lobste.rs/s/xcg4j6/what_s_up_with_all_those_equals_signs) - [What’s up with all those equals signs anyway?](https://lars.ingebrigtsen.no/2026/02/02/whats-up-with-all-those-equals-signs-anyway/)
 
 ## [Archives](archives/index.md)
 
