@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-05, 20:27:15](https://lobste.rs/s/vwsdqu/vibe_coding_kills_open_source) - [Vibe Coding Kills Open Source](https://arxiv.org/pdf/2601.15494)
 * [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:41:52](https://lobste.rs/s/o66n1w/llm_spectrum_responsible_llm_use) - [The LLM spectrum and responsible LLM use](https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html)
 * [2026-02-05, 19:27:11](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel) - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
@@ -21,7 +22,6 @@
 * [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 09:50:49](https://lobste.rs/s/najof9/writing_rss_reader_80_lines_bash) - [writing an RSS reader in 80 lines of bash](https://yobibyte.github.io/yr.html)
-* [2026-02-04, 08:35:56](https://lobste.rs/s/hfuiti/i_miss_thinking_hard) - [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 * [2026-02-04, 07:54:14](https://lobste.rs/s/y04ll5/microsoft_has_killed_widgets_six_times) - [Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back](https://xakpc.dev/windows-widgets/history/)
 * [2026-02-04, 07:21:50](https://lobste.rs/s/2svv99/competence_as_tragedy) - [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy)
 * [2026-02-04, 06:55:26](https://lobste.rs/s/bg1mw2/mobile_carriers_can_get_your_gps_location) - [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
