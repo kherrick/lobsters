@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-05, 12:27:04",
+      "https://lobste.rs/s/1xyudo/we_are_qa_engineers_now"
+    ],
+    [
+      "We are QA Engineers now",
+      "https://serce.me/posts/2026-02-05-we-are-qa-engineers-now"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 12:25:44",
+      "https://lobste.rs/s/j2mblu/fosdem_26_my_hallway_track_takeaways"
+    ],
+    [
+      "FOSDEM 26 - My Hallway Track Takeaways",
+      "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 11:11:38",
       "https://lobste.rs/s/rsm7xh/getting_main_thing_right"
     ],
@@ -27,16 +47,6 @@
     [
       "On craft and AI",
       "https://slightknack.dev/daily/2026-02-04/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 07:59:47",
-      "https://lobste.rs/s/bw1bsc/rewriting_pycparser_with_help_llm"
-    ],
-    [
-      "Rewriting pycparser with the help of an LLM",
-      "https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Fitting Some Files Through A Stdout-Shaped Hole",
       "https://rtpg.co/2026/02/03/fitting-some-files-through-a-stdout-shaped-hole/"
-    ]
-  ],
-  [
-    [
-      "2026-02-03, 15:44:35",
-      "https://lobste.rs/s/xfwfns/easily_write_bash_with_transpiler"
-    ],
-    [
-      "Easily write Bash with a transpiler",
-      "https://fosdem.org/2026/schedule/event/GGLZS9-amber-lang-bash-transpiler/"
     ]
   ]
 ]
