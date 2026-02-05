@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-05, 15:49:03](https://lobste.rs/s/wmlxsc/set_up_bazel_build_targets_mcu) - [Set up a Bazel build that targets an MCU](https://pigweed.dev/build/bazel/mcu-setup.html)
 * [2026-02-05, 15:42:35](https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released) - [jujutsu v0.38.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.38.0)
+* [2026-02-05, 15:23:40](https://lobste.rs/s/hn9ny5/un_portable_defer_c) - [(Un)portable defer in C](https://antonz.org/defer-in-c/)
 * [2026-02-05, 14:59:41](https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your) - [GitHub Actions Is Slowly Killing Your Engineering Team](https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 * [2026-02-05, 14:15:38](https://lobste.rs/s/vjvtr8/csrf_protection_phoenix_with_sec_fetch) - [CSRF protection in Phoenix with Sec-Fetch-Site](https://mediremi.com/writing/phoenix-csrf-protection-with-sec-fetch-site/)
 * [2026-02-05, 14:13:42](https://lobste.rs/s/mzvnod/trust_signals_are_broken) - [Trust signals are broken](https://ordep.dev/posts/trust-signals-are-broken)
