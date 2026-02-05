@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-05, 18:46:10](https://lobste.rs/s/axh9zo/agentic_proof_oriented_programming) - [Agentic Proof-Oriented Programming](https://risemsr.github.io/blog/2026-02-04-nik-agentic-pop/)
+* [2026-02-05, 18:30:27](https://lobste.rs/s/gwhnrh/search_for_meaning_through) - [The Search for Meaning Through Collaboration and Code](https://clojurecivitas.github.io/civitas/why/village/scene.html)
 * [2026-02-05, 17:01:44](https://lobste.rs/s/vhvbr8/on_promises_high_assurance_cryptography) - [On the Promises of 'High-Assurance' Cryptography](https://symbolic.software/blog/2026-02-05-cryspen/)
 * [2026-02-05, 15:52:11](https://lobste.rs/s/w2lcci/build_systems_build_philosophy) - [Build Systems and Build Philosophy](https://abseil.io/resources/swe-book/html/ch18.html)
 * [2026-02-05, 15:42:35](https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released) - [jujutsu v0.38.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.38.0)
@@ -15,8 +17,6 @@
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
 * [2026-02-05, 06:34:35](https://lobste.rs/s/0om9ct/slint_1_15_released) - [Slint 1.15 Released](https://slint.dev/blog/slint-1.15-released)
 * [2026-02-05, 06:16:57](https://lobste.rs/s/9vtidf/customizable_nice_select) - [Customizable Nice <select>](https://nerdy.dev/nice-select)
-* [2026-02-04, 20:49:37](https://lobste.rs/s/8xtcbp/indiewebify_me_yes_please) - [IndieWebify.Me? Yes please](https://blog.rickardlindberg.me/2026/02/04/indie-webify-me-yes-please.html)
-* [2026-02-04, 19:35:19](https://lobste.rs/s/kazsev/stack_overflow_launches_2008) - [Stack Overflow Launches (2008)](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
