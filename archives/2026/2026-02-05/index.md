@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 21:05:13](https://lobste.rs/s/nanyth/django_profile_memory_usage_with_memray) - [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/)
+* [2026-02-05, 21:03:17](https://lobste.rs/s/ollcmo/calling_lean_functions_as_python) - [Calling Lean Functions As Python Functions](https://www.philipzucker.com/leancall/)
 * [2026-02-05, 20:27:15](https://lobste.rs/s/vwsdqu/vibe_coding_kills_open_source) - [Vibe Coding Kills Open Source](https://arxiv.org/pdf/2601.15494)
 * [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:41:52](https://lobste.rs/s/o66n1w/llm_spectrum_responsible_llm_use) - [The LLM spectrum and responsible LLM use](https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html)
