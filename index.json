@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-05, 21:05:13",
+      "https://lobste.rs/s/nanyth/django_profile_memory_usage_with_memray"
+    ],
+    [
+      "Django: profile memory usage with Memray",
+      "https://adamj.eu/tech/2026/01/29/django-profile-memray/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 21:03:17",
+      "https://lobste.rs/s/ollcmo/calling_lean_functions_as_python"
+    ],
+    [
+      "Calling Lean Functions As Python Functions",
+      "https://www.philipzucker.com/leancall/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 20:27:15",
       "https://lobste.rs/s/vwsdqu/vibe_coding_kills_open_source"
     ],
@@ -207,26 +227,6 @@
     [
       "Sukr: A minimal static site compiler in Rust with zero-JS output",
       "https://sukr.io"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 09:50:49",
-      "https://lobste.rs/s/najof9/writing_rss_reader_80_lines_bash"
-    ],
-    [
-      "writing an RSS reader in 80 lines of bash",
-      "https://yobibyte.github.io/yr.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 07:54:14",
-      "https://lobste.rs/s/y04ll5/microsoft_has_killed_widgets_six_times"
-    ],
-    [
-      "Microsoft Has Killed Widgets Six Times. Here's Why They Keep Coming Back",
-      "https://xakpc.dev/windows-widgets/history/"
     ]
   ],
   [
