@@ -8,6 +8,7 @@
 * [2026-02-04, 19:41:53](https://lobste.rs/s/dkjllb/building_24_bit_arcade_crt_display) - [Building a 24-bit Arcade CRT Display Adapter, From Scratch](https://www.scd31.com/posts/building-an-arcade-display-adapter)
 * [2026-02-04, 19:35:19](https://lobste.rs/s/kazsev/stack_overflow_launches_2008) - [Stack Overflow Launches (2008)](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
+* [2026-02-04, 18:52:21](https://lobste.rs/s/9y863y/someone_made_real_life_versoin_bmo_with) - [Someone made a real life versoin of BMO with Ollama, a raspberry PI, and a 3d printer](https://www.youtube.com/watch?v=l5ggH-YhuAw)
 * [2026-02-04, 18:34:10](https://lobste.rs/s/pcki6p/earlybinder_instantiating_parameters) - [EarlyBinder and instantiating parameters](https://rustc-dev-guide.rust-lang.org/ty-module/early-binder.html)
 * [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 16:11:44](https://lobste.rs/s/qjcvvp/distributing_go_binaries_like_sqlite) - [Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/)
