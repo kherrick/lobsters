@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-02-05, 15:49:03",
-      "https://lobste.rs/s/wmlxsc/set_up_bazel_build_targets_mcu"
-    ],
-    [
-      "Set up a Bazel build that targets an MCU",
-      "https://pigweed.dev/build/bazel/mcu-setup.html"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 15:42:35",
       "https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released"
     ],
     [
       "jujutsu v0.38.0 released",
       "https://github.com/jj-vcs/jj/releases/tag/v0.38.0"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 15:23:40",
+      "https://lobste.rs/s/hn9ny5/un_portable_defer_c"
+    ],
+    [
+      "(Un)portable defer in C",
+      "https://antonz.org/defer-in-c/"
     ]
   ],
   [
