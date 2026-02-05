@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-05, 14:59:41",
+      "https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your"
+    ],
+    [
+      "GitHub Actions Is Slowly Killing Your Engineering Team",
+      "https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 14:15:38",
+      "https://lobste.rs/s/vjvtr8/csrf_protection_phoenix_with_sec_fetch"
+    ],
+    [
+      "CSRF protection in Phoenix with Sec-Fetch-Site",
+      "https://mediremi.com/writing/phoenix-csrf-protection-with-sec-fetch-site/"
+    ]
+  ],
+  [
+    [
+      "2026-02-05, 14:13:42",
+      "https://lobste.rs/s/mzvnod/trust_signals_are_broken"
+    ],
+    [
+      "Trust signals are broken",
+      "https://ordep.dev/posts/trust-signals-are-broken"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 14:05:33",
       "https://lobste.rs/s/fklihk/owning_5m_data_center"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-02-05, 07:59:47",
-      "https://lobste.rs/s/bw1bsc/rewriting_pycparser_with_help_llm"
-    ],
-    [
-      "Rewriting pycparser with the help of an LLM",
-      "https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 06:34:35",
       "https://lobste.rs/s/0om9ct/slint_1_15_released"
     ],
@@ -147,26 +167,6 @@
     [
       "Sukr: A minimal static site compiler in Rust with zero-JS output",
       "https://sukr.io"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 12:22:36",
-      "https://lobste.rs/s/e0ngxl/wirth_s_revenge"
-    ],
-    [
-      "Wirth's Revenge",
-      "https://jmoiron.net/blog/wirths-revenge/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 12:22:13",
-      "https://lobste.rs/s/mxzbwh/raylib_12_year_adventure_as_solo"
-    ],
-    [
-      "raylib: a 12-year adventure as a solo-maintainer",
-      "https://fosdem.org/2026/schedule/event/883PBF-raylib-12-year-adventure/"
     ]
   ],
   [
