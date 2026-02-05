@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-05](index.md)
 
+* [2026-02-05, 11:11:38](https://lobste.rs/s/rsm7xh/getting_main_thing_right) - [Getting the main thing right](https://www.seangoedecke.com/getting-the-main-thing-right/)
 * [2026-02-05, 09:50:57](https://lobste.rs/s/lydge6/so_yeah_i_vibe_coded_log_colorizer_i_feel) - [So yeah, I vibe-coded a log colorizer—and I feel good about it](https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/)
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
 * [2026-02-05, 07:59:47](https://lobste.rs/s/bw1bsc/rewriting_pycparser_with_help_llm) - [Rewriting pycparser with the help of an LLM](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/)

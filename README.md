@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-05, 11:11:38](https://lobste.rs/s/rsm7xh/getting_main_thing_right) - [Getting the main thing right](https://www.seangoedecke.com/getting-the-main-thing-right/)
 * [2026-02-05, 09:50:57](https://lobste.rs/s/lydge6/so_yeah_i_vibe_coded_log_colorizer_i_feel) - [So yeah, I vibe-coded a log colorizer—and I feel good about it](https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/)
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
 * [2026-02-05, 07:59:47](https://lobste.rs/s/bw1bsc/rewriting_pycparser_with_help_llm) - [Rewriting pycparser with the help of an LLM](https://eli.thegreenplace.net/2026/rewriting-pycparser-with-the-help-of-an-llm/)
@@ -9,7 +10,6 @@
 * [2026-02-04, 20:49:37](https://lobste.rs/s/8xtcbp/indiewebify_me_yes_please) - [IndieWebify.Me? Yes please](https://blog.rickardlindberg.me/2026/02/04/indie-webify-me-yes-please.html)
 * [2026-02-04, 19:35:19](https://lobste.rs/s/kazsev/stack_overflow_launches_2008) - [Stack Overflow Launches (2008)](https://www.joelonsoftware.com/2008/09/15/stack-overflow-launches/)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
-* [2026-02-04, 18:34:10](https://lobste.rs/s/pcki6p/earlybinder_instantiating_parameters) - [EarlyBinder and instantiating parameters](https://rustc-dev-guide.rust-lang.org/ty-module/early-binder.html)
 * [2026-02-04, 18:30:29](https://lobste.rs/s/tegjjy/few_cpu_hardware_bugs) - [A few CPU hardware bugs](https://www.taricorp.net/2026/a-few-cpu-bugs/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 13:55:00](https://lobste.rs/s/f4um7d/xikipedia_algorithm) - [Xikipedia Algorithm](https://github.com/rebane2001/xikipedia?tab=readme-ov-file#algorithm)
