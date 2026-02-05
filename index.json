@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-05, 11:11:38",
+      "https://lobste.rs/s/rsm7xh/getting_main_thing_right"
+    ],
+    [
+      "Getting the main thing right",
+      "https://www.seangoedecke.com/getting-the-main-thing-right/"
+    ]
+  ],
+  [
+    [
       "2026-02-05, 09:50:57",
       "https://lobste.rs/s/lydge6/so_yeah_i_vibe_coded_log_colorizer_i_feel"
     ],
@@ -87,16 +97,6 @@
     [
       "Recreating Epstein PDFs from raw encoded attachments",
       "https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/"
-    ]
-  ],
-  [
-    [
-      "2026-02-04, 18:34:10",
-      "https://lobste.rs/s/pcki6p/earlybinder_instantiating_parameters"
-    ],
-    [
-      "EarlyBinder and instantiating parameters",
-      "https://rustc-dev-guide.rust-lang.org/ty-module/early-binder.html"
     ]
   ],
   [
