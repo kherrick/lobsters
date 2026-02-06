@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 19:36:16](https://lobste.rs/s/gmdaeu/openrun_declarative_web_app_deployments) - [OpenRun: Declarative web app deployments on single-host or Kubernetes](https://github.com/openrundev/openrun)
 * [2026-02-06, 17:48:50](https://lobste.rs/s/vv8349/fosdem_2026_making_web_components_work) - [FOSDEM 2026 - Making Web Components work: a framework's perspective](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/)
 * [2026-02-06, 17:45:56](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend)
 * [2026-02-06, 17:39:17](https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress) - [Updates on GNU/Hurd progress](https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/)
