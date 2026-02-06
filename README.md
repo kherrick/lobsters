@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-06, 07:00:55](https://lobste.rs/s/8rnhnq/monty_minimal_secure_python_interpreter) - [monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [2026-02-06, 06:04:26](https://lobste.rs/s/vzzqes/elfconv_aot_binary_translator_linux_elf) - [elfconv: AOT binary translator of Linux/ELF -> WebAssembly](https://github.com/yomaytk/elfconv)
 * [2026-02-06, 05:16:29](https://lobste.rs/s/qsde8d/olimex_hot_aims_be_lightweight_easier_use) - [Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant](https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/)
 * [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
@@ -10,7 +11,6 @@
 * [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:41:52](https://lobste.rs/s/o66n1w/llm_spectrum_responsible_llm_use) - [The LLM spectrum and responsible LLM use](https://martin.janiczek.cz/2026/02/05/the-llm-spectrum-and-responsible-llm-use.html)
 * [2026-02-05, 19:27:11](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel) - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)
-* [2026-02-05, 18:46:10](https://lobste.rs/s/axh9zo/agentic_proof_oriented_programming) - [Agentic Proof-Oriented Programming](https://risemsr.github.io/blog/2026-02-04-nik-agentic-pop/)
 * [2026-02-05, 17:01:44](https://lobste.rs/s/vhvbr8/on_promises_high_assurance_cryptography) - [On the Promises of 'High-Assurance' Cryptography](https://symbolic.software/blog/2026-02-05-cryspen/)
 * [2026-02-05, 15:52:11](https://lobste.rs/s/w2lcci/build_systems_build_philosophy_2020) - [Build Systems and Build Philosophy (2020)](https://abseil.io/resources/swe-book/html/ch18.html)
 * [2026-02-05, 15:42:35](https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released) - [jujutsu v0.38.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.38.0)
