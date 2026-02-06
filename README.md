@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
 * [2026-02-06, 01:49:13](https://lobste.rs/s/5k4et9/how_program_computers_kos) - [How to program computers (kOS)](https://fall.tr/kos)
 * [2026-02-05, 21:05:13](https://lobste.rs/s/nanyth/django_profile_memory_usage_with_memray) - [Django: profile memory usage with Memray](https://adamj.eu/tech/2026/01/29/django-profile-memray/)
 * [2026-02-05, 21:03:17](https://lobste.rs/s/ollcmo/calling_lean_functions_as_python) - [Calling Lean Functions As Python Functions](https://www.philipzucker.com/leancall/)
@@ -21,7 +22,6 @@
 * [2026-02-05, 12:25:44](https://lobste.rs/s/j2mblu/fosdem_26_my_hallway_track_takeaways) - [FOSDEM 26 - My Hallway Track Takeaways](https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways)
 * [2026-02-05, 11:11:38](https://lobste.rs/s/rsm7xh/getting_main_thing_right) - [Getting the main thing right](https://www.seangoedecke.com/getting-the-main-thing-right/)
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
-* [2026-02-05, 06:34:35](https://lobste.rs/s/0om9ct/slint_1_15_released) - [Slint 1.15 Released](https://slint.dev/blog/slint-1.15-released)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
 * [2026-02-04, 07:21:50](https://lobste.rs/s/2svv99/competence_as_tragedy) - [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy)
