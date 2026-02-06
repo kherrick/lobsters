@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
+* [2026-02-06, 14:31:18](https://lobste.rs/s/vjur4q/introducing_villagesql_new_path_for) - [Introducing VillageSQL: A New Path for MySQL in the Agentic AI Era](https://villagesql.com/blog/introducing-villagesql/)
 * [2026-02-06, 14:02:24](https://lobste.rs/s/wntf10/using_microvm_nix_sandbox_openclaw) - [Using microvm.nix to sandbox Openclaw](https://buduroiu.com/blog/openclaw-microvm/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:18:28](https://lobste.rs/s/vljse7/bliss_music_analyzer_library) - [bliss music analyzer library](https://lelele.io/bliss.html)
@@ -18,9 +20,7 @@
 * [2026-02-05, 15:42:35](https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released) - [jujutsu v0.38.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.38.0)
 * [2026-02-05, 15:23:40](https://lobste.rs/s/hn9ny5/un_portable_defer_c) - [(Un)portable defer in C](https://antonz.org/defer-in-c/)
 * [2026-02-05, 14:59:41](https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your) - [GitHub Actions Is Slowly Killing Your Engineering Team](https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
-* [2026-02-05, 14:13:42](https://lobste.rs/s/mzvnod/trust_signals_are_broken) - [Trust signals are broken](https://ordep.dev/posts/trust-signals-are-broken)
 * [2026-02-05, 14:05:33](https://lobste.rs/s/fklihk/owning_5m_data_center) - [Owning a $5M data center](https://blog.comma.ai/datacenter/)
-* [2026-02-05, 13:43:45](https://lobste.rs/s/yiwt27/future_was_federated) - [The Future Was Federated](https://news.dyne.org/the-future-was-federated/)
 * [2026-02-05, 12:27:04](https://lobste.rs/s/1xyudo/we_are_qa_engineers_now) - [We are QA Engineers now](https://serce.me/posts/2026-02-05-we-are-qa-engineers-now)
 * [2026-02-05, 12:25:44](https://lobste.rs/s/j2mblu/fosdem_26_my_hallway_track_takeaways) - [FOSDEM 26 - My Hallway Track Takeaways](https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways)
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)

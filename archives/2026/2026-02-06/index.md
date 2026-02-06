@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
+* [2026-02-06, 14:31:18](https://lobste.rs/s/vjur4q/introducing_villagesql_new_path_for) - [Introducing VillageSQL: A New Path for MySQL in the Agentic AI Era](https://villagesql.com/blog/introducing-villagesql/)
 * [2026-02-06, 14:02:24](https://lobste.rs/s/wntf10/using_microvm_nix_sandbox_openclaw) - [Using microvm.nix to sandbox Openclaw](https://buduroiu.com/blog/openclaw-microvm/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:18:28](https://lobste.rs/s/vljse7/bliss_music_analyzer_library) - [bliss music analyzer library](https://lelele.io/bliss.html)
