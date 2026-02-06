@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
-* [2026-02-06, 14:31:18](https://lobste.rs/s/vjur4q/introducing_villagesql_new_path_for) - [Introducing VillageSQL: A New Path for MySQL in the Agentic AI Era](https://villagesql.com/blog/introducing-villagesql/)
 * [2026-02-06, 14:02:24](https://lobste.rs/s/wntf10/using_microvm_nix_sandbox_openclaw) - [Using microvm.nix to sandbox Openclaw](https://buduroiu.com/blog/openclaw-microvm/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:18:28](https://lobste.rs/s/vljse7/bliss_music_analyzer_library) - [bliss music analyzer library](https://lelele.io/bliss.html)
 * [2026-02-06, 13:11:13](https://lobste.rs/s/axcylc/text_classification_with_python_3_14_s) - [Text classification with Python 3.14's zstd module](https://maxhalford.github.io/blog/text-classification-zstd/)
+* [2026-02-06, 12:54:53](https://lobste.rs/s/j4tnwj/blinc_declarative_reactive_ui_system) - [Blinc: A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering](https://github.com/project-blinc/Blinc)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 10:25:12](https://lobste.rs/s/eytevq/nix_run_run_nix_derivations_without_nix3) - [nix-run: run nix derivations without nix3 or flakes](https://tangled.org/weethet.bsky.social/nix-run)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
