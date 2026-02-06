@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-02-06, 14:31:18",
-      "https://lobste.rs/s/vjur4q/introducing_villagesql_new_path_for"
-    ],
-    [
-      "Introducing VillageSQL: A New Path for MySQL in the Agentic AI Era",
-      "https://villagesql.com/blog/introducing-villagesql/"
-    ]
-  ],
-  [
-    [
       "2026-02-06, 14:02:24",
       "https://lobste.rs/s/wntf10/using_microvm_nix_sandbox_openclaw"
     ],
@@ -57,6 +47,16 @@
     [
       "Text classification with Python 3.14's zstd module",
       "https://maxhalford.github.io/blog/text-classification-zstd/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 12:54:53",
+      "https://lobste.rs/s/j4tnwj/blinc_declarative_reactive_ui_system"
+    ],
+    [
+      "Blinc: A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering",
+      "https://github.com/project-blinc/Blinc"
     ]
   ],
   [
