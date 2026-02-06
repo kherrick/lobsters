@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-06, 19:36:16",
+      "https://lobste.rs/s/gmdaeu/openrun_declarative_web_app_deployments"
+    ],
+    [
+      "OpenRun: Declarative web app deployments on single-host or Kubernetes",
+      "https://github.com/openrundev/openrun"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 17:48:50",
       "https://lobste.rs/s/vv8349/fosdem_2026_making_web_components_work"
     ],
@@ -157,16 +167,6 @@
     [
       "monty: A minimal, secure Python interpreter written in Rust for use by AI",
       "https://github.com/pydantic/monty"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 06:04:26",
-      "https://lobste.rs/s/vzzqes/elfconv_aot_binary_translator_linux_elf"
-    ],
-    [
-      "elfconv: AOT binary translator of Linux/ELF -> WebAssembly",
-      "https://github.com/yomaytk/elfconv"
     ]
   ],
   [
