@@ -7,6 +7,7 @@
 * [2026-02-06, 17:48:50](https://lobste.rs/s/vv8349/fosdem_2026_making_web_components_work) - [FOSDEM 2026 - Making Web Components work: a framework's perspective](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/)
 * [2026-02-06, 17:45:56](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend)
 * [2026-02-06, 17:39:17](https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress) - [Updates on GNU/Hurd progress](https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/)
+* [2026-02-06, 17:26:47](https://lobste.rs/s/7mohwd/anatomy_python_function) - [Anatomy of a Python Function](https://www.mostlypython.com/anatomy-of-a-python-function/)
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 16:37:42](https://lobste.rs/s/fdg7bl/3mdeb_talks_up_amd_opensil_open_source) - [3mdeb Talks Up AMD openSIL & Open-Source Firmware Efforts For Confidential Compute - Phoronix](https://www.phoronix.com/news/3mdeb-FOSDEM-2026-Firmware)
 * [2026-02-06, 16:04:23](https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open) - [Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games](https://eblong.com/zarf/essays/seltani-talk/)
