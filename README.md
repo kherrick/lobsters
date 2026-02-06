@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 * [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
 * [2026-02-06, 19:36:16](https://lobste.rs/s/gmdaeu/openrun_declarative_web_app_deployments) - [OpenRun: Declarative web app deployments on single-host or Kubernetes](https://github.com/openrundev/openrun)
 * [2026-02-06, 19:06:28](https://lobste.rs/s/ixvyln/ahead_time_wasm_gc_wastrel) - [ahead-of-time wasm gc in wastrel](https://wingolog.org/archives/2026/02/06/ahead-of-time-wasm-gc-in-wastrel)
@@ -16,7 +17,6 @@
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 10:25:12](https://lobste.rs/s/eytevq/nix_run_run_nix_derivations_without_nix3) - [nix-run: run nix derivations without nix3 or flakes](https://tangled.org/weethet.bsky.social/nix-run)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
-* [2026-02-06, 07:00:55](https://lobste.rs/s/8rnhnq/monty_minimal_secure_python_interpreter) - [monty: A minimal, secure Python interpreter written in Rust for use by AI](https://github.com/pydantic/monty)
 * [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
 * [2026-02-05, 19:58:49](https://lobste.rs/s/87rudf/my_ai_adoption_journey) - [My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 * [2026-02-05, 19:27:11](https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel) - [Building a C compiler with a team of parallel Claudes](https://www.anthropic.com/engineering/building-c-compiler)

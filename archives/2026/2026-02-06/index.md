@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 * [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
 * [2026-02-06, 19:36:16](https://lobste.rs/s/gmdaeu/openrun_declarative_web_app_deployments) - [OpenRun: Declarative web app deployments on single-host or Kubernetes](https://github.com/openrundev/openrun)
 * [2026-02-06, 19:06:28](https://lobste.rs/s/ixvyln/ahead_time_wasm_gc_wastrel) - [ahead-of-time wasm gc in wastrel](https://wingolog.org/archives/2026/02/06/ahead-of-time-wasm-gc-in-wastrel)
