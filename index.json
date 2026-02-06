@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-06, 14:33:11",
+      "https://lobste.rs/s/thvt6l/sysadmin_llm_age"
+    ],
+    [
+      "Sysadmin In The LLM Age",
+      "https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/"
+    ]
+  ],
+  [
+    [
+      "2026-02-06, 14:31:18",
+      "https://lobste.rs/s/vjur4q/introducing_villagesql_new_path_for"
+    ],
+    [
+      "Introducing VillageSQL: A New Path for MySQL in the Agentic AI Era",
+      "https://villagesql.com/blog/introducing-villagesql/"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 14:02:24",
       "https://lobste.rs/s/wntf10/using_microvm_nix_sandbox_openclaw"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-02-05, 14:13:42",
-      "https://lobste.rs/s/mzvnod/trust_signals_are_broken"
-    ],
-    [
-      "Trust signals are broken",
-      "https://ordep.dev/posts/trust-signals-are-broken"
-    ]
-  ],
-  [
-    [
       "2026-02-05, 14:05:33",
       "https://lobste.rs/s/fklihk/owning_5m_data_center"
     ],
     [
       "Owning a $5M data center",
       "https://blog.comma.ai/datacenter/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 13:43:45",
-      "https://lobste.rs/s/yiwt27/future_was_federated"
-    ],
-    [
-      "The Future Was Federated",
-      "https://news.dyne.org/the-future-was-federated/"
     ]
   ],
   [
