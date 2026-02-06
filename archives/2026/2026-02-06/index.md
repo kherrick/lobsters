@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
 * [2026-02-06, 19:36:16](https://lobste.rs/s/gmdaeu/openrun_declarative_web_app_deployments) - [OpenRun: Declarative web app deployments on single-host or Kubernetes](https://github.com/openrundev/openrun)
 * [2026-02-06, 19:06:28](https://lobste.rs/s/ixvyln/ahead_time_wasm_gc_wastrel) - [ahead-of-time wasm gc in wastrel](https://wingolog.org/archives/2026/02/06/ahead-of-time-wasm-gc-in-wastrel)
 * [2026-02-06, 17:48:50](https://lobste.rs/s/vv8349/fosdem_2026_making_web_components_work) - [FOSDEM 2026 - Making Web Components work: a framework's perspective](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/)
