@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 16:04:23](https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open) - [Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games](https://eblong.com/zarf/essays/seltani-talk/)
-* [2026-02-06, 15:57:16](https://lobste.rs/s/eyxhgt/canvas_ity_tiny_single_header_canvas_like) - [canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:18:28](https://lobste.rs/s/vljse7/bliss_music_analyzer_library) - [bliss music analyzer library](https://lelele.io/bliss.html)

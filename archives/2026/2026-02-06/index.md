@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-06](index.md)
 
+* [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 16:04:23](https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open) - [Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games](https://eblong.com/zarf/essays/seltani-talk/)
 * [2026-02-06, 15:57:16](https://lobste.rs/s/eyxhgt/canvas_ity_tiny_single_header_canvas_like) - [canvas_ity: A tiny, single-header <canvas>-like 2D rasterizer for C++](https://github.com/a-e-k/canvas_ity)
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
