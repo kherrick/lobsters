@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-06, 06:04:26](https://lobste.rs/s/vzzqes/elfconv_aot_binary_translator_linux_elf) - [elfconv: AOT binary translator of Linux/ELF -> WebAssembly](https://github.com/yomaytk/elfconv)
 * [2026-02-06, 05:16:29](https://lobste.rs/s/qsde8d/olimex_hot_aims_be_lightweight_easier_use) - [Olimex HoT aims to be lightweight, easier-to-use alternative to Home Assistant](https://www.cnx-software.com/2026/02/06/olimex-hot-aims-to-be-lightweight-easier-to-use-alternative-to-home-assistant/)
 * [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
 * [2026-02-06, 01:49:13](https://lobste.rs/s/5k4et9/how_program_computers_kos_2015) - [How to program computers (kOS) (2015)](https://fall.tr/kos)
@@ -24,7 +25,6 @@
 * [2026-02-05, 08:45:48](https://lobste.rs/s/hjytin/on_craft_ai) - [On craft and AI](https://slightknack.dev/daily/2026-02-04/)
 * [2026-02-04, 19:20:32](https://lobste.rs/s/iyu0f8/recreating_epstein_pdfs_from_raw_encoded) - [Recreating Epstein PDFs from raw encoded attachments](https://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/)
 * [2026-02-04, 14:05:14](https://lobste.rs/s/jjoj8t/sukr_minimal_static_site_compiler_rust) - [Sukr: A minimal static site compiler in Rust with zero-JS output](https://sukr.io)
-* [2026-02-04, 07:21:50](https://lobste.rs/s/2svv99/competence_as_tragedy) - [Competence as Tragedy](https://crowprose.com/blog/competence-as-tragedy)
 
 ## [Archives](archives/index.md)
 
