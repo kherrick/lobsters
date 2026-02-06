@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-02-06, 17:26:47",
+      "https://lobste.rs/s/7mohwd/anatomy_python_function"
+    ],
+    [
+      "Anatomy of a Python Function",
+      "https://www.mostlypython.com/anatomy-of-a-python-function/"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 16:42:40",
       "https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different"
     ],
@@ -151,22 +161,22 @@
   ],
   [
     [
+      "2026-02-06, 06:04:26",
+      "https://lobste.rs/s/vzzqes/elfconv_aot_binary_translator_linux_elf"
+    ],
+    [
+      "elfconv: AOT binary translator of Linux/ELF -> WebAssembly",
+      "https://github.com/yomaytk/elfconv"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 03:22:40",
       "https://lobste.rs/s/rsmqux/rce_amd_won_t_fix"
     ],
     [
       "The RCE that AMD won't fix",
       "https://mrbruh.com/amd/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 20:27:15",
-      "https://lobste.rs/s/vwsdqu/vibe_coding_kills_open_source"
-    ],
-    [
-      "Vibe Coding Kills Open Source",
-      "https://arxiv.org/pdf/2601.15494"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Building a C compiler with a team of parallel Claudes",
       "https://www.anthropic.com/engineering/building-c-compiler"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 17:01:44",
-      "https://lobste.rs/s/vhvbr8/on_promises_high_assurance_cryptography"
-    ],
-    [
-      "On the Promises of 'High-Assurance' Cryptography",
-      "https://symbolic.software/blog/2026-02-05-cryspen/"
     ]
   ],
   [
