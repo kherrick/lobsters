@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-07, 07:10:30",
+      "https://lobste.rs/s/cvmcg5/legalargumentexception_from"
+    ],
+    [
+      "LegalArgumentException: From Courtrooms to Clojure - Sen",
+      "https://www.youtube.com/watch?v=cmMQbsOTX-o"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 06:57:24",
+      "https://lobste.rs/s/zqbq7k/it_s_2026_just_use_postgres_tiger_data"
+    ],
+    [
+      "It’s 2026, Just Use Postgres | Tiger Data",
+      "https://www.tigerdata.com/blog/its-2026-just-use-postgres"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 05:37:01",
       "https://lobste.rs/s/pb0c7b/why_i_joined_openai"
     ],
@@ -37,26 +57,6 @@
     [
       "jasonisnthappy: embeddable document database with acid guarantees in rust",
       "https://github.com/sohzm/jasonisnthappy"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 00:34:26",
-      "https://lobste.rs/s/gja0tt/system_time_clocks_their_syncing_macos"
-    ],
-    [
-      "System time, clocks and their syncing in macOS",
-      "https://eclecticlight.co/2025/05/21/system-time-clocks-and-their-syncing-in-macos/"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 22:26:33",
-      "https://lobste.rs/s/dpfr6u/spacemolt_massively_multiplayer_gaming"
-    ],
-    [
-      "SpaceMolt - Massively Multiplayer Gaming for AI Agents",
-      "https://www.spacemolt.com"
     ]
   ],
   [
