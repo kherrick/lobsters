@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-07, 22:08:32",
+      "https://lobste.rs/s/8zjknc/why_every_r_package_wrapping_external"
+    ],
+    [
+      "Why Every R Package Wrapping External Tools Needs a sitrep() Function",
+      "https://drmowinckels.io/blog/2026/sitrep-functions/"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 22:03:31",
+      "https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management"
+    ],
+    [
+      "vouch: a contributor trust management system based on explicit vouches to participate",
+      "https://github.com/mitchellh/vouch"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 21:07:18",
       "https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-02-06, 17:39:17",
-      "https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress"
-    ],
-    [
-      "Updates on GNU/Hurd progress",
-      "https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/"
-    ]
-  ],
-  [
-    [
       "2026-02-06, 16:42:40",
       "https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different"
     ],
     [
       "How much \"boilerplate tax\" different languages have: a 400M LOC analysis",
       "https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 14:33:11",
-      "https://lobste.rs/s/thvt6l/sysadmin_llm_age"
-    ],
-    [
-      "Sysadmin In The LLM Age",
-      "https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/"
     ]
   ],
   [
