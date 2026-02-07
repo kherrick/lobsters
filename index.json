@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-07, 05:37:01",
+      "https://lobste.rs/s/pb0c7b/why_i_joined_openai"
+    ],
+    [
+      "Why I joined OpenAI",
+      "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 05:15:15",
       "https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi"
     ],
@@ -227,16 +237,6 @@
     [
       "Building a C compiler with a team of parallel Claudes",
       "https://www.anthropic.com/engineering/building-c-compiler"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 15:42:35",
-      "https://lobste.rs/s/xhtyv7/jujutsu_v0_38_0_released"
-    ],
-    [
-      "jujutsu v0.38.0 released",
-      "https://github.com/jj-vcs/jj/releases/tag/v0.38.0"
     ]
   ],
   [
