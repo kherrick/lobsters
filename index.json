@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-07, 14:13:48",
+      "https://lobste.rs/s/abmubf/hacking_up_your_own_shell_completion_2020"
+    ],
+    [
+      "Hacking up your own shell completion (2020)",
+      "https://www.feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 13:23:48",
       "https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers"
     ],
@@ -197,16 +207,6 @@
     [
       "Tactical tornado is the new default",
       "https://olano.dev/blog/tactical-tornado"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 10:25:12",
-      "https://lobste.rs/s/eytevq/nix_run_run_nix_derivations_without_nix3"
-    ],
-    [
-      "nix-run: run nix derivations without nix3 or flakes",
-      "https://tangled.org/weethet.bsky.social/nix-run"
     ]
   ],
   [
