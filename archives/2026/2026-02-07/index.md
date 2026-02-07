@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 05:37:01](https://lobste.rs/s/pb0c7b/why_i_joined_openai) - [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
 * [2026-02-07, 05:15:15](https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi) - [Bob Beck (OpenBSD) on why vi should stay vi](https://marc.info/?l=openbsd-misc&m=115820462402673&w=2)
 * [2026-02-07, 02:40:04](https://lobste.rs/s/tplqv1/emacs_tramp_rpc_high_performance_tramp) - [emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing](https://github.com/ArthurHeymans/emacs-tramp-rpc)
 * [2026-02-07, 00:53:44](https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document) - [jasonisnthappy: embeddable document database with acid guarantees in rust](https://github.com/sohzm/jasonisnthappy)
