@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-07, 22:08:32](https://lobste.rs/s/8zjknc/why_every_r_package_wrapping_external) - [Why Every R Package Wrapping External Tools Needs a sitrep() Function](https://drmowinckels.io/blog/2026/sitrep-functions/)
+* [2026-02-07, 22:34:11](https://lobste.rs/s/zxbykd/golfing_apl_k_90_lines_python) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
+* [2026-02-07, 22:32:51](https://lobste.rs/s/7yorzl/compiling_prolog_forth) - [Compiling Prolog to Forth](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
 * [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
 * [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
@@ -22,7 +23,6 @@
 * [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 * [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
-* [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
 
