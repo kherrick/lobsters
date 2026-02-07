@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-07, 14:41:37](https://lobste.rs/s/yictml/impl_rust_avro_idl_tool_rust_via_antlr) - [Impl Rust - Avro IDL tool in Rust via ANTLR](https://youtu.be/vmKvw73V394)
 * [2026-02-07, 14:13:48](https://lobste.rs/s/abmubf/hacking_up_your_own_shell_completion_2020) - [Hacking up your own shell completion (2020)](https://www.feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html)
 * [2026-02-07, 13:23:48](https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers) - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 * [2026-02-07, 13:20:25](https://lobste.rs/s/w3wixc/horrible_conclusion) - [A Horrible Conclusion](https://addisoncrump.info/research/a-horrible-conclusion/)
@@ -12,7 +13,6 @@
 * [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 * [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
 * [2026-02-06, 19:06:28](https://lobste.rs/s/ixvyln/ahead_time_wasm_gc_wastrel) - [ahead-of-time wasm gc in wastrel](https://wingolog.org/archives/2026/02/06/ahead-of-time-wasm-gc-in-wastrel)
-* [2026-02-06, 17:48:50](https://lobste.rs/s/vv8349/making_web_components_work_framework_s) - [Making Web Components work: a framework's perspective](https://fosdem.org/2026/schedule/event/9MJ8LX-making-web-components-work/)
 * [2026-02-06, 17:45:56](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend)
 * [2026-02-06, 17:39:17](https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress) - [Updates on GNU/Hurd progress](https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/)
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
