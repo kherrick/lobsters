@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-02-07, 22:32:51",
+      "https://lobste.rs/s/7yorzl/compiling_prolog_forth"
+    ],
+    [
+      "Compiling Prolog to Forth",
+      "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 22:29:13",
+      "https://lobste.rs/s/rfys8y/tinyapl"
+    ],
+    [
+      "TinyAPL",
+      "https://github.com/RubenVerg/TinyAPL"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 22:08:32",
       "https://lobste.rs/s/8zjknc/why_every_r_package_wrapping_external"
     ],
@@ -47,16 +67,6 @@
     [
       "Adventures in Guix Packaging",
       "https://nemin.hu/guix-packaging.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 20:19:39",
-      "https://lobste.rs/s/vqjoe3/first_proof"
-    ],
-    [
-      "First Proof",
-      "https://arxiv.org/abs/2602.05192"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Bob Beck (OpenBSD) on why vi should stay vi (2006)",
       "https://marc.info/?l=openbsd-misc&m=115820462402673&w=2"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 02:40:04",
-      "https://lobste.rs/s/tplqv1/emacs_tramp_rpc_high_performance_tramp"
-    ],
-    [
-      "emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing",
-      "https://github.com/ArthurHeymans/emacs-tramp-rpc"
     ]
   ],
   [
