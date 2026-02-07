@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-07, 17:57:19](https://lobste.rs/s/irkhbb/reverse_engineering_raiders_lost_ark_for) - [Reverse-engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
 * [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
 * [2026-02-07, 15:30:09](https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail) - [The purpose of Continuous Integration is to fail](https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail)
@@ -20,7 +21,6 @@
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
-* [2026-02-06, 13:11:13](https://lobste.rs/s/axcylc/text_classification_with_python_3_14_s) - [Text classification with Python 3.14's zstd module](https://maxhalford.github.io/blog/text-classification-zstd/)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
 * [2026-02-06, 03:22:40](https://lobste.rs/s/rsmqux/rce_amd_won_t_fix) - [The RCE that AMD won't fix](https://mrbruh.com/amd/)
