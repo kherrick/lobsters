@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-07, 14:58:44](https://lobste.rs/s/ocspc1/rememory_split_recovery_key_among) - [ReMemory - Split a recovery key among friends](https://eljojo.github.io/rememory/)
 * [2026-02-07, 14:41:37](https://lobste.rs/s/yictml/impl_rust_avro_idl_tool_rust_via_antlr) - [Impl Rust - Avro IDL tool in Rust via ANTLR](https://youtu.be/vmKvw73V394)
 * [2026-02-07, 14:13:48](https://lobste.rs/s/abmubf/hacking_up_your_own_shell_completion_2020) - [Hacking up your own shell completion (2020)](https://www.feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html)
 * [2026-02-07, 13:23:48](https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers) - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
@@ -16,7 +17,6 @@
 * [2026-02-06, 17:45:56](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend)
 * [2026-02-06, 17:39:17](https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress) - [Updates on GNU/Hurd progress](https://fosdem.org/2026/schedule/event/7FZXHF-updates_on_gnuhurd_progress_rump_drivers_64bit_smp_software_bootstrapping/)
 * [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
-* [2026-02-06, 16:04:23](https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open) - [Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games (2013)](https://eblong.com/zarf/essays/seltani-talk/)
 * [2026-02-06, 14:33:11](https://lobste.rs/s/thvt6l/sysadmin_llm_age) - [Sysadmin In The LLM Age](https://nullrouted.space/2026/02/05/sysadmin-in-the-llm-age/)
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 13:11:13](https://lobste.rs/s/axcylc/text_classification_with_python_3_14_s) - [Text classification with Python 3.14's zstd module](https://maxhalford.github.io/blog/text-classification-zstd/)
