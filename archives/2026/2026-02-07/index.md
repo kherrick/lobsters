@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 19:18:28](https://lobste.rs/s/xd7x2w/going_through_snowden_documents_part_1) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2026-02-07, 18:55:50](https://lobste.rs/s/m8nxql/game_boy_advance_d_pad_capacitor) - [Game Boy Advance d-pad capacitor measurements](https://gekkio.fi/blog/2026/game-boy-advance-d-pad-capacitor-measurements/)
 * [2026-02-07, 17:57:19](https://lobste.rs/s/irkhbb/reverse_engineering_raiders_lost_ark_for) - [Reverse-engineering Raiders of the Lost Ark for the Atari 2600](https://github.com/joshuanwalker/Raiders2600)
 * [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
