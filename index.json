@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-07, 20:34:42",
-      "https://lobste.rs/s/ipes8i/8vim_virtual_android_keyboard_drawing"
+      "2026-02-07, 21:07:18",
+      "https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong"
     ],
     [
-      "8VIM: a virtual Android keyboard drawing inspiration from 8pen and Vim",
-      "https://github.com/8VIM/8VIM"
+      "Your Best Thinking Is Wasted on the Wrong Decisions",
+      "https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 21:03:39",
+      "https://lobste.rs/s/uysha5/adventures_guix_packaging"
+    ],
+    [
+      "Adventures in Guix Packaging",
+      "https://nemin.hu/guix-packaging.html"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway",
       "https://davmail.sourceforge.net/"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 19:18:28",
+      "https://lobste.rs/s/xd7x2w/going_through_snowden_documents_part_1"
+    ],
+    [
+      "Going Through Snowden Documents, Part 1",
+      "https://libroot.org/posts/going-through-snowden-documents-part-1/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Flirt: The Native Backend",
       "https://blog.buenzli.dev/flirt-native-backend/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 05:37:01",
-      "https://lobste.rs/s/pb0c7b/why_i_joined_openai"
-    ],
-    [
-      "Why I joined OpenAI",
-      "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
       "https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 14:59:41",
-      "https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your"
-    ],
-    [
-      "GitHub Actions Is Slowly Killing Your Engineering Team",
-      "https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"
     ]
   ]
 ]
