@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-07, 00:53:44",
+      "https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document"
+    ],
+    [
+      "jasonisnthappy: embeddable document database with acid guarantees in rust",
+      "https://github.com/sohzm/jasonisnthappy"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 00:34:26",
+      "https://lobste.rs/s/gja0tt/system_time_clocks_their_syncing_macos"
+    ],
+    [
+      "System time, clocks and their syncing in macOS",
+      "https://eclecticlight.co/2025/05/21/system-time-clocks-and-their-syncing-in-macos/"
+    ]
+  ],
+  [
+    [
       "2026-02-06, 22:26:33",
       "https://lobste.rs/s/dpfr6u/spacemolt_massively_multiplayer_gaming"
     ],
@@ -227,26 +247,6 @@
     [
       "GitHub Actions Is Slowly Killing Your Engineering Team",
       "https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 14:05:33",
-      "https://lobste.rs/s/fklihk/owning_5m_data_center"
-    ],
-    [
-      "Owning a $5M data center",
-      "https://blog.comma.ai/datacenter/"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 12:25:44",
-      "https://lobste.rs/s/j2mblu/fosdem_26_my_hallway_track_takeaways"
-    ],
-    [
-      "FOSDEM 26 - My Hallway Track Takeaways",
-      "https://sluongng.substack.com/p/fosdem-26-my-hallway-track-takeaways"
     ]
   ]
 ]
