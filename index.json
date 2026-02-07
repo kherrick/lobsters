@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-07, 20:34:42",
+      "https://lobste.rs/s/ipes8i/8vim_virtual_android_keyboard_drawing"
+    ],
+    [
+      "8VIM: a virtual Android keyboard drawing inspiration from 8pen and Vim",
+      "https://github.com/8VIM/8VIM"
+    ]
+  ],
+  [
+    [
+      "2026-02-07, 20:19:39",
+      "https://lobste.rs/s/vqjoe3/first_proof"
+    ],
+    [
+      "First Proof",
+      "https://arxiv.org/abs/2602.05192"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 20:09:47",
       "https://lobste.rs/s/cnjgfj/davmail_pop_imap_smtp_caldav_carddav_ldap"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-02-06, 17:45:56",
-      "https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/aciwnc/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
       "2026-02-06, 17:39:17",
       "https://lobste.rs/s/open3d/updates_on_gnu_hurd_progress"
     ],
@@ -227,16 +237,6 @@
     [
       "No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator",
       "https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 03:22:40",
-      "https://lobste.rs/s/rsmqux/rce_amd_won_t_fix"
-    ],
-    [
-      "The RCE that AMD won't fix",
-      "https://mrbruh.com/amd/"
     ]
   ],
   [
