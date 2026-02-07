@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 11:30:30](https://lobste.rs/s/8dkwea/flirt_native_backend) - [Flirt: The Native Backend](https://blog.buenzli.dev/flirt-native-backend/)
 * [2026-02-07, 07:10:30](https://lobste.rs/s/cvmcg5/legalargumentexception_from) - [LegalArgumentException: From Courtrooms to Clojure - Sen](https://www.youtube.com/watch?v=cmMQbsOTX-o)
 * [2026-02-07, 06:57:24](https://lobste.rs/s/zqbq7k/it_s_2026_just_use_postgres_tiger_data) - [It’s 2026, Just Use Postgres | Tiger Data](https://www.tigerdata.com/blog/its-2026-just-use-postgres)
 * [2026-02-07, 05:37:01](https://lobste.rs/s/pb0c7b/why_i_joined_openai) - [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
