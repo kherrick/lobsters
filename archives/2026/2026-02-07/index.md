@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-07](index.md)
 
+* [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
 * [2026-02-07, 15:30:09](https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail) - [The purpose of Continuous Integration is to fail](https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail)
 * [2026-02-07, 14:58:44](https://lobste.rs/s/ocspc1/rememory_split_recovery_key_among) - [ReMemory - Split a recovery key among friends](https://eljojo.github.io/rememory/)
 * [2026-02-07, 14:41:37](https://lobste.rs/s/yictml/impl_rust_avro_idl_tool_rust_via_antlr) - [Impl Rust - Avro IDL tool in Rust via ANTLR](https://youtu.be/vmKvw73V394)
