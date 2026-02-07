@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-07, 20:34:42](https://lobste.rs/s/ipes8i/8vim_virtual_android_keyboard_drawing) - [8VIM: a virtual Android keyboard drawing inspiration from 8pen and Vim](https://github.com/8VIM/8VIM)
+* [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
+* [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
 * [2026-02-07, 20:19:39](https://lobste.rs/s/vqjoe3/first_proof) - [First Proof](https://arxiv.org/abs/2602.05192)
 * [2026-02-07, 20:09:47](https://lobste.rs/s/cnjgfj/davmail_pop_imap_smtp_caldav_carddav_ldap) - [DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway](https://davmail.sourceforge.net/)
+* [2026-02-07, 19:18:28](https://lobste.rs/s/xd7x2w/going_through_snowden_documents_part_1) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2026-02-07, 18:55:50](https://lobste.rs/s/m8nxql/game_boy_advance_d_pad_capacitor) - [Game Boy Advance d-pad capacitor measurements](https://gekkio.fi/blog/2026/game-boy-advance-d-pad-capacitor-measurements/)
 * [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
@@ -12,7 +14,6 @@
 * [2026-02-07, 13:20:25](https://lobste.rs/s/w3wixc/horrible_conclusion) - [A Horrible Conclusion](https://addisoncrump.info/research/a-horrible-conclusion/)
 * [2026-02-07, 12:27:25](https://lobste.rs/s/lrnqdz/stories_from_25_years_software) - [Stories From 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 * [2026-02-07, 11:30:30](https://lobste.rs/s/8dkwea/flirt_native_backend) - [Flirt: The Native Backend](https://blog.buenzli.dev/flirt-native-backend/)
-* [2026-02-07, 05:37:01](https://lobste.rs/s/pb0c7b/why_i_joined_openai) - [Why I joined OpenAI](https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html)
 * [2026-02-07, 05:15:15](https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi) - [Bob Beck (OpenBSD) on why vi should stay vi (2006)](https://marc.info/?l=openbsd-misc&m=115820462402673&w=2)
 * [2026-02-07, 02:40:04](https://lobste.rs/s/tplqv1/emacs_tramp_rpc_high_performance_tramp) - [emacs-tramp-rpc: High-performance TRAMP backend using JSON-RPC instead of shell parsing](https://github.com/ArthurHeymans/emacs-tramp-rpc)
 * [2026-02-07, 00:53:44](https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document) - [jasonisnthappy: embeddable document database with acid guarantees in rust](https://github.com/sohzm/jasonisnthappy)
@@ -24,7 +25,6 @@
 * [2026-02-06, 13:48:21](https://lobste.rs/s/ckdr4f/hackers_1995_animated_experience) - [Hackers (1995) Animated Experience](https://hackers-1995.vercel.app/)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
-* [2026-02-05, 14:59:41](https://lobste.rs/s/hkqnro/github_actions_is_slowly_killing_your) - [GitHub Actions Is Slowly Killing Your Engineering Team](https://iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team/)
 
 ## [Archives](archives/index.md)
 
