@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-07, 15:30:09",
+      "https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail"
+    ],
+    [
+      "The purpose of Continuous Integration is to fail",
+      "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 14:58:44",
       "https://lobste.rs/s/ocspc1/rememory_split_recovery_key_among"
     ],
@@ -17,16 +27,6 @@
     [
       "Impl Rust - Avro IDL tool in Rust via ANTLR",
       "https://youtu.be/vmKvw73V394"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 14:13:48",
-      "https://lobste.rs/s/abmubf/hacking_up_your_own_shell_completion_2020"
-    ],
-    [
-      "Hacking up your own shell completion (2020)",
-      "https://www.feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html"
     ]
   ],
   [
