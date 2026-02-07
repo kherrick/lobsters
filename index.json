@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-07, 11:30:30",
+      "https://lobste.rs/s/8dkwea/flirt_native_backend"
+    ],
+    [
+      "Flirt: The Native Backend",
+      "https://blog.buenzli.dev/flirt-native-backend/"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 07:10:30",
       "https://lobste.rs/s/cvmcg5/legalargumentexception_from"
     ],
@@ -227,16 +237,6 @@
     [
       "My AI Adoption Journey",
       "https://mitchellh.com/writing/my-ai-adoption-journey"
-    ]
-  ],
-  [
-    [
-      "2026-02-05, 19:27:11",
-      "https://lobste.rs/s/6nahuh/building_c_compiler_with_team_parallel"
-    ],
-    [
-      "Building a C compiler with a team of parallel Claudes",
-      "https://www.anthropic.com/engineering/building-c-compiler"
     ]
   ],
   [
