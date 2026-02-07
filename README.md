@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-07, 15:30:09](https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail) - [The purpose of Continuous Integration is to fail](https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail)
 * [2026-02-07, 14:58:44](https://lobste.rs/s/ocspc1/rememory_split_recovery_key_among) - [ReMemory - Split a recovery key among friends](https://eljojo.github.io/rememory/)
 * [2026-02-07, 14:41:37](https://lobste.rs/s/yictml/impl_rust_avro_idl_tool_rust_via_antlr) - [Impl Rust - Avro IDL tool in Rust via ANTLR](https://youtu.be/vmKvw73V394)
-* [2026-02-07, 14:13:48](https://lobste.rs/s/abmubf/hacking_up_your_own_shell_completion_2020) - [Hacking up your own shell completion (2020)](https://www.feltrac.co/environment/2020/01/18/build-your-own-shell-completion.html)
 * [2026-02-07, 13:23:48](https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers) - [LLMs could be, but shouldn't be compilers](https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/)
 * [2026-02-07, 13:20:25](https://lobste.rs/s/w3wixc/horrible_conclusion) - [A Horrible Conclusion](https://addisoncrump.info/research/a-horrible-conclusion/)
 * [2026-02-07, 12:27:25](https://lobste.rs/s/lrnqdz/stories_from_25_years_software) - [Stories From 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
