@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-07, 05:15:15",
+      "https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi"
+    ],
+    [
+      "Bob Beck (OpenBSD) on why vi should stay vi",
+      "https://marc.info/?l=openbsd-misc&m=115820462402673&w=2"
+    ]
+  ],
+  [
+    [
       "2026-02-07, 02:40:04",
       "https://lobste.rs/s/tplqv1/emacs_tramp_rpc_high_performance_tramp"
     ],
@@ -115,7 +125,7 @@
       "https://lobste.rs/s/gn5079/seltani_online_shared_text_based_open"
     ],
     [
-      "Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games",
+      "Seltani: an online, shared, text-based, open-source fan project based on the Myst series of games (2013)",
       "https://eblong.com/zarf/essays/seltani-talk/"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Text classification with Python 3.14's zstd module",
       "https://maxhalford.github.io/blog/text-classification-zstd/"
-    ]
-  ],
-  [
-    [
-      "2026-02-06, 12:54:53",
-      "https://lobste.rs/s/j4tnwj/blinc_declarative_reactive_ui_system"
-    ],
-    [
-      "Blinc: A declarative, reactive UI system with first-class state machines, spring physics animations, and GPU-accelerated rendering",
-      "https://github.com/project-blinc/Blinc"
     ]
   ],
   [
