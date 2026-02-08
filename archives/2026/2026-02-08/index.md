@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 14:39:17](https://lobste.rs/s/nibwes/exploiting_signed_bootloaders) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
 * [2026-02-08, 14:26:20](https://lobste.rs/s/k2kwv0/testing_can_be_fun_actually) - [Testing can be fun, actually](https://giacomocavalieri.me/writing/testing-can-be-fun-actually)
 * [2026-02-08, 13:59:54](https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr) - [Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:31:14](https://lobste.rs/s/zyyx6b/software_engineering_is_back) - [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
