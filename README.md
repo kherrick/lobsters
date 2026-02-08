@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-08, 14:26:20](https://lobste.rs/s/k2kwv0/testing_can_be_fun_actually) - [Testing can be fun, actually](https://giacomocavalieri.me/writing/testing-can-be-fun-actually)
 * [2026-02-08, 13:59:54](https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr) - [Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
 * [2026-02-08, 13:31:14](https://lobste.rs/s/zyyx6b/software_engineering_is_back) - [Software Engineering is back](https://blog.alaindichiappari.dev/p/software-engineering-is-back)
 * [2026-02-08, 13:13:49](https://lobste.rs/s/qveid2/rustcast_open_source_raycast_style) - [RustCast -open-source Raycast-style launcher written in Rust](https://github.com/unsecretised/rustcast)
 * [2026-02-08, 11:04:07](https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde) - [Beating an old, but not dead horse: what to do with the KDE Oxygen and Air themes?](https://filipfila.wordpress.com/2026/02/08/beating-an-old-but-not-dead-horse-what-to-do-with-the-oxygen-and-air-themes/)
-* [2026-02-08, 09:18:30](https://lobste.rs/s/cqg4os/large_tech_companies_don_t_need_heroes) - [Large tech companies don't need heroes](https://www.seangoedecke.com/heroism/)
 * [2026-02-08, 08:49:59](https://lobste.rs/s/m5v4gb/willow_protocols_for_uncertain_future) - [Willow - Protocols for an uncertain future](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-08, 07:13:10](https://lobste.rs/s/9z1smp/npm_nodejs_should_do_more_make_es_modules) - [NPM and NodeJS should do more to make ES Modules easy to use (2024)](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 * [2026-02-08, 03:51:58](https://lobste.rs/s/jbfw5x/busy_months_kde_linux) - [Busy months in KDE Linux](https://pointieststick.com/2026/02/06/busy-months-in-kde-linux/)
