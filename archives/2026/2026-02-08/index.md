@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 20:12:27](https://lobste.rs/s/n4ddir/don_t_get_distracted_2017) - [Don't Get Distracted (2017)](https://calebhearth.com/dont-get-distracted)
 * [2026-02-08, 19:11:43](https://lobste.rs/s/bnldoy/i_am_happier_writing_code_by_hand) - [I Am Happier Writing Code by Hand](https://abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
 * [2026-02-08, 18:08:56](https://lobste.rs/s/gfsl25/ai_fatigue_is_real_nobody_talks_about_it) - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [2026-02-08, 18:07:42](https://lobste.rs/s/bic9qr/rebuilding_my_home_network_with_vlans) - [Rebuilding my home network with VLANs and 10Gbps](https://clintonboys.com/projects/homelab/03-network/)

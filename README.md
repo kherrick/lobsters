@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-08, 20:12:27](https://lobste.rs/s/n4ddir/don_t_get_distracted_2017) - [Don't Get Distracted (2017)](https://calebhearth.com/dont-get-distracted)
 * [2026-02-08, 19:11:43](https://lobste.rs/s/bnldoy/i_am_happier_writing_code_by_hand) - [I Am Happier Writing Code by Hand](https://abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
 * [2026-02-08, 18:08:56](https://lobste.rs/s/gfsl25/ai_fatigue_is_real_nobody_talks_about_it) - [AI fatigue is real and nobody talks about it](https://siddhantkhare.com/writing/ai-fatigue-is-real)
 * [2026-02-08, 18:07:42](https://lobste.rs/s/bic9qr/rebuilding_my_home_network_with_vlans) - [Rebuilding my home network with VLANs and 10Gbps](https://clintonboys.com/projects/homelab/03-network/)
@@ -19,7 +20,6 @@
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
 * [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
 * [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
-* [2026-02-07, 18:55:50](https://lobste.rs/s/m8nxql/game_boy_advance_d_pad_capacitor) - [Game Boy Advance d-pad capacitor measurements](https://gekkio.fi/blog/2026/game-boy-advance-d-pad-capacitor-measurements/)
 * [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
 * [2026-02-07, 13:20:25](https://lobste.rs/s/w3wixc/horrible_conclusion) - [A Horrible Conclusion](https://addisoncrump.info/research/a-horrible-conclusion/)
