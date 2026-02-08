@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-08, 14:39:17",
+      "https://lobste.rs/s/nibwes/exploiting_signed_bootloaders"
+    ],
+    [
+      "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
+      "https://habr.com/en/articles/446238/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 14:26:20",
       "https://lobste.rs/s/k2kwv0/testing_can_be_fun_actually"
     ],
@@ -27,16 +37,6 @@
     [
       "Software Engineering is back",
       "https://blog.alaindichiappari.dev/p/software-engineering-is-back"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 13:13:49",
-      "https://lobste.rs/s/qveid2/rustcast_open_source_raycast_style"
-    ],
-    [
-      "RustCast -open-source Raycast-style launcher written in Rust",
-      "https://github.com/unsecretised/rustcast"
     ]
   ],
   [
