@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 17:15:52](https://lobste.rs/s/fgeokt/code_injections_through_git_commit) - [Code injections through Git commit messages](https://mas.to/@zekjur/116022397626943871)
 * [2026-02-08, 16:08:51](https://lobste.rs/s/v35dfg/currency_rates_on_github_pages) - [Currency Rates on GitHub Pages](https://currency-rates.github.io)
 * [2026-02-08, 15:32:29](https://lobste.rs/s/h3jg8m/beta_release_predicated_recursive) - [Beta release: Predicated Recursive Descent for Rust](https://wareya.wordpress.com/2026/02/01/beta-release-predicated-recursive-descent-for-rust/)
 * [2026-02-08, 14:39:17](https://lobste.rs/s/nibwes/exploiting_signed_bootloaders) - [Exploiting signed bootloaders to circumvent UEFI Secure Boot](https://habr.com/en/articles/446238/)
