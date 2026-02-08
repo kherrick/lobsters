@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-08, 00:24:04](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore) - [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/)
 * [2026-02-07, 22:34:11](https://lobste.rs/s/zxbykd/golfing_apl_k_90_lines_python) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
 * [2026-02-07, 22:32:51](https://lobste.rs/s/7yorzl/compiling_prolog_forth) - [Compiling Prolog to Forth](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 * [2026-02-07, 22:29:13](https://lobste.rs/s/rfys8y/tinyapl) - [TinyAPL](https://github.com/RubenVerg/TinyAPL)
-* [2026-02-07, 22:08:32](https://lobste.rs/s/8zjknc/why_every_r_package_wrapping_external) - [Why Every R Package Wrapping External Tools Needs a sitrep() Function](https://drmowinckels.io/blog/2026/sitrep-functions/)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
 * [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
 * [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
+* [2026-02-07, 20:34:42](https://lobste.rs/s/ipes8i/8vim_virtual_android_keyboard_drawing) - [8VIM: a virtual Android keyboard drawing inspiration from 8pen and Vim](https://github.com/8VIM/8VIM)
 * [2026-02-07, 20:09:47](https://lobste.rs/s/cnjgfj/davmail_pop_imap_smtp_caldav_carddav_ldap) - [DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange Gateway](https://davmail.sourceforge.net/)
 * [2026-02-07, 19:18:28](https://lobste.rs/s/xd7x2w/going_through_snowden_documents_part_1) - [Going Through Snowden Documents, Part 1](https://libroot.org/posts/going-through-snowden-documents-part-1/)
 * [2026-02-07, 18:55:50](https://lobste.rs/s/m8nxql/game_boy_advance_d_pad_capacitor) - [Game Boy Advance d-pad capacitor measurements](https://gekkio.fi/blog/2026/game-boy-advance-d-pad-capacitor-measurements/)
@@ -22,7 +23,6 @@
 * [2026-02-07, 00:53:44](https://lobste.rs/s/rgkxpg/jasonisnthappy_embeddable_document) - [jasonisnthappy: embeddable document database with acid guarantees in rust](https://github.com/sohzm/jasonisnthappy)
 * [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
 * [2026-02-06, 21:21:02](https://lobste.rs/s/s8awlf/programming_is_dead_future_software) - [Programming is Dead: The Future of Software Engineering](https://hamptonmakes.com/blog/2026/02/06/programming-is-dead.html)
-* [2026-02-06, 16:42:40](https://lobste.rs/s/z8glob/how_much_boilerplate_tax_different) - [How much \"boilerplate tax\" different languages have: a 400M LOC analysis](https://boyter.org/posts/boilerplate-tax-ranking-popular-languages-by-density/)
 * [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 * [2026-02-06, 09:41:11](https://lobste.rs/s/5mzzfq/no_really_bash_is_not_enough_why_large) - [No, Really, Bash Is Not Enough: Why Large-Scale CI Needs an Orchestrator](https://iankduncan.com/engineering/2026-02-06-bash-is-not-enough/)
 
