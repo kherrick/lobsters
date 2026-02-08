@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-08, 13:59:54",
+      "https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr"
+    ],
+    [
+      "Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
+      "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 13:31:14",
       "https://lobste.rs/s/zyyx6b/software_engineering_is_back"
     ],
@@ -137,16 +147,6 @@
     [
       "Adventures in Guix Packaging",
       "https://nemin.hu/guix-packaging.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 20:34:42",
-      "https://lobste.rs/s/ipes8i/8vim_virtual_android_keyboard_drawing"
-    ],
-    [
-      "8VIM: a virtual Android keyboard drawing inspiration from 8pen and Vim",
-      "https://github.com/8VIM/8VIM"
     ]
   ],
   [
