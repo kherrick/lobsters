@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-08, 11:40:04",
-      "https://lobste.rs/s/g3qyfv/circumstantial_complexity_llms_large"
+      "2026-02-08, 13:31:14",
+      "https://lobste.rs/s/zyyx6b/software_engineering_is_back"
     ],
     [
-      "Circumstantial Complexity, LLMs and Large Scale Architecture",
-      "https://www.datagubbe.se/aiarch/"
+      "Software Engineering is back",
+      "https://blog.alaindichiappari.dev/p/software-engineering-is-back"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 13:13:49",
+      "https://lobste.rs/s/qveid2/rustcast_open_source_raycast_style"
+    ],
+    [
+      "RustCast -open-source Raycast-style launcher written in Rust",
+      "https://github.com/unsecretised/rustcast"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"",
       "https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 15:30:09",
-      "https://lobste.rs/s/ab9jza/purpose_continuous_integration_is_fail"
-    ],
-    [
-      "The purpose of Continuous Integration is to fail",
-      "https://blog.nix-ci.com/post/2026-02-05_the-purpose-of-ci-is-to-fail"
     ]
   ],
   [
