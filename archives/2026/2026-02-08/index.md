@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 11:40:04](https://lobste.rs/s/g3qyfv/circumstantial_complexity_llms_large) - [Circumstantial Complexity, LLMs and Large Scale Architecture](https://www.datagubbe.se/aiarch/)
 * [2026-02-08, 11:04:07](https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde) - [Beating an old, but not dead horse: what to do with the KDE Oxygen and Air themes?](https://filipfila.wordpress.com/2026/02/08/beating-an-old-but-not-dead-horse-what-to-do-with-the-oxygen-and-air-themes/)
 * [2026-02-08, 09:18:30](https://lobste.rs/s/cqg4os/large_tech_companies_don_t_need_heroes) - [Large tech companies don't need heroes](https://www.seangoedecke.com/heroism/)
 * [2026-02-08, 08:49:59](https://lobste.rs/s/m5v4gb/willow_protocols_for_uncertain_future) - [Willow - Protocols for an uncertain future](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
