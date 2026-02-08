@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-08, 11:40:04",
+      "https://lobste.rs/s/g3qyfv/circumstantial_complexity_llms_large"
+    ],
+    [
+      "Circumstantial Complexity, LLMs and Large Scale Architecture",
+      "https://www.datagubbe.se/aiarch/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 11:04:07",
       "https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde"
     ],
@@ -227,16 +237,6 @@
     [
       "Flirt: The Native Backend",
       "https://blog.buenzli.dev/flirt-native-backend/"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 05:15:15",
-      "https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi"
-    ],
-    [
-      "Bob Beck (OpenBSD) on why vi should stay vi (2006)",
-      "https://marc.info/?l=openbsd-misc&m=115820462402673&w=2"
     ]
   ],
   [
