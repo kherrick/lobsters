@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-08, 18:08:56",
+      "https://lobste.rs/s/gfsl25/ai_fatigue_is_real_nobody_talks_about_it"
+    ],
+    [
+      "AI fatigue is real and nobody talks about it",
+      "https://siddhantkhare.com/writing/ai-fatigue-is-real"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 18:07:42",
+      "https://lobste.rs/s/bic9qr/rebuilding_my_home_network_with_vlans"
+    ],
+    [
+      "Rebuilding my home network with VLANs and 10Gbps",
+      "https://clintonboys.com/projects/homelab/03-network/"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 17:26:15",
+      "https://lobste.rs/s/eavqzf/updates_bot_wars"
+    ],
+    [
+      "Updates and Bot Wars",
+      "https://marisabel.nl/public/blog/Updates_and_Bot_Wars"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 17:15:52",
       "https://lobste.rs/s/fgeokt/code_injections_through_git_commit"
     ],
@@ -17,6 +47,16 @@
     [
       "Currency Rates on GitHub Pages",
       "https://currency-rates.github.io"
+    ]
+  ],
+  [
+    [
+      "2026-02-08, 16:08:23",
+      "https://lobste.rs/s/i4idvz/fallen_apple"
+    ],
+    [
+      "The Fallen Apple",
+      "https://mattgemmell.scot/the-fallen-apple/"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-02-08, 02:08:37",
-      "https://lobste.rs/s/iszba0/scriptovision_super_micro_script_video"
-    ],
-    [
-      "The Scriptovision Super Micro Script video titler is almost a home computer",
-      "http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 01:23:32",
       "https://lobste.rs/s/1mwu6x/implementing_auto_tiling_with_just_5"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2026-02-07, 22:32:51",
-      "https://lobste.rs/s/7yorzl/compiling_prolog_forth"
-    ],
-    [
-      "Compiling Prolog to Forth",
-      "https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 22:03:31",
       "https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management"
     ],
     [
       "vouch: a contributor trust management system based on explicit vouches to participate",
       "https://github.com/mitchellh/vouch"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 21:07:18",
-      "https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong"
-    ],
-    [
-      "Your Best Thinking Is Wasted on the Wrong Decisions",
-      "https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"",
       "https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 13:23:48",
-      "https://lobste.rs/s/ihzxzs/llms_could_be_shouldn_t_be_compilers"
-    ],
-    [
-      "LLMs could be, but shouldn't be compilers",
-      "https://alperenkeles.com/posts/llms-could-be-but-shouldnt-be-compilers/"
     ]
   ],
   [
