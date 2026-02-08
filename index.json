@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-08, 19:11:43",
+      "https://lobste.rs/s/bnldoy/i_am_happier_writing_code_by_hand"
+    ],
+    [
+      "I Am Happier Writing Code by Hand",
+      "https://abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/"
+    ]
+  ],
+  [
+    [
       "2026-02-08, 18:08:56",
       "https://lobste.rs/s/gfsl25/ai_fatigue_is_real_nobody_talks_about_it"
     ],
@@ -57,16 +67,6 @@
     [
       "Beta release: Predicated Recursive Descent for Rust",
       "https://wareya.wordpress.com/2026/02/01/beta-release-predicated-recursive-descent-for-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 14:39:17",
-      "https://lobste.rs/s/nibwes/exploiting_signed_bootloaders"
-    ],
-    [
-      "Exploiting signed bootloaders to circumvent UEFI Secure Boot",
-      "https://habr.com/en/articles/446238/"
     ]
   ],
   [
