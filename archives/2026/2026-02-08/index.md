@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-08](index.md)
 
+* [2026-02-08, 07:13:10](https://lobste.rs/s/9z1smp/npm_nodejs_should_do_more_make_es_modules) - [NPM and NodeJS should do more to make ES Modules easy to use (2024)](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 * [2026-02-08, 03:51:58](https://lobste.rs/s/jbfw5x/busy_months_kde_linux) - [Busy months in KDE Linux](https://pointieststick.com/2026/02/06/busy-months-in-kde-linux/)
 * [2026-02-08, 02:08:37](https://lobste.rs/s/iszba0/scriptovision_super_micro_script_video) - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 * [2026-02-08, 01:39:56](https://lobste.rs/s/eevngu/goto_considered_awesome) - [goto considered awesome](https://www.youtube.com/watch?v=1UKVEUGEk6Y)
