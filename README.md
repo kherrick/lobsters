@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-08, 11:04:07](https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde) - [Beating an old, but not dead horse: what to do with the KDE Oxygen and Air themes?](https://filipfila.wordpress.com/2026/02/08/beating-an-old-but-not-dead-horse-what-to-do-with-the-oxygen-and-air-themes/)
+* [2026-02-08, 09:18:30](https://lobste.rs/s/cqg4os/large_tech_companies_don_t_need_heroes) - [Large tech companies don't need heroes](https://www.seangoedecke.com/heroism/)
 * [2026-02-08, 08:49:59](https://lobste.rs/s/m5v4gb/willow_protocols_for_uncertain_future) - [Willow - Protocols for an uncertain future](https://fosdem.org/2026/schedule/event/CVGZAV-willow/)
 * [2026-02-08, 07:13:10](https://lobste.rs/s/9z1smp/npm_nodejs_should_do_more_make_es_modules) - [NPM and NodeJS should do more to make ES Modules easy to use (2024)](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 * [2026-02-08, 03:51:58](https://lobste.rs/s/jbfw5x/busy_months_kde_linux) - [Busy months in KDE Linux](https://pointieststick.com/2026/02/06/busy-months-in-kde-linux/)
 * [2026-02-08, 02:08:37](https://lobste.rs/s/iszba0/scriptovision_super_micro_script_video) - [The Scriptovision Super Micro Script video titler is almost a home computer](http://oldvcr.blogspot.com/2026/02/the-scriptovision-super-micro-script.html)
 * [2026-02-08, 01:23:32](https://lobste.rs/s/1mwu6x/implementing_auto_tiling_with_just_5) - [Implementing Auto Tiling With Just 5 Tiles](https://kyledunbar.dev/2026/02/05/Implementing-auto-tiling-with-just-5-tiles.html)
 * [2026-02-08, 00:24:04](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore) - [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/)
-* [2026-02-07, 22:34:11](https://lobste.rs/s/zxbykd/golfing_apl_k_90_lines_python) - [Golfing APL/K in 90 Lines of Python](https://aljamal.substack.com/p/golfing-aplk-in-90-lines-of-python)
 * [2026-02-07, 22:32:51](https://lobste.rs/s/7yorzl/compiling_prolog_forth) - [Compiling Prolog to Forth](https://vfxforth.com/flag/jfar/vol4/no4/article4.pdf)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
 * [2026-02-07, 21:07:18](https://lobste.rs/s/2jczsd/your_best_thinking_is_wasted_on_wrong) - [Your Best Thinking Is Wasted on the Wrong Decisions](https://iankduncan.com/engineering/2026-02-07-your-best-thinking-is-wasted-on-the-wrong-decisions/)
@@ -24,7 +25,6 @@
 * [2026-02-07, 11:30:30](https://lobste.rs/s/8dkwea/flirt_native_backend) - [Flirt: The Native Backend](https://blog.buenzli.dev/flirt-native-backend/)
 * [2026-02-07, 05:15:15](https://lobste.rs/s/kbr1er/bob_beck_openbsd_on_why_vi_should_stay_vi) - [Bob Beck (OpenBSD) on why vi should stay vi (2006)](https://marc.info/?l=openbsd-misc&m=115820462402673&w=2)
 * [2026-02-06, 21:40:16](https://lobste.rs/s/ahca9t/maple_mono_open_source_monospace_font) - [Maple Mono: Open source monospace font](https://font.subf.dev/en/)
-* [2026-02-06, 12:36:01](https://lobste.rs/s/xq1ta4/tactical_tornado_is_new_default) - [Tactical tornado is the new default](https://olano.dev/blog/tactical-tornado)
 
 ## [Archives](archives/index.md)
 
