@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-09, 10:35:55",
+      "https://lobste.rs/s/manrbz/offpunk_3_0"
+    ],
+    [
+      "Offpunk 3.0",
+      "https://ploum.net/2026-02-09-offpunk3.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 10:12:06",
+      "https://lobste.rs/s/8959u3/algorithmically_finding_longest_line"
+    ],
+    [
+      "Algorithmically Finding the Longest Line of Sight on Earth",
+      "https://lobste.rs/s/8959u3/algorithmically_finding_longest_line"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 09:40:30",
       "https://lobste.rs/s/7qnakp/claude_c_compiler_vs_gcc"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2026-02-09, 07:10:31",
-      "https://lobste.rs/s/g9qmmb/web_space_invaders"
+      "2026-02-09, 08:16:03",
+      "https://lobste.rs/s/ahdqrf/let_s_compile_quake_like_it_s_1997"
     ],
     [
-      "Web­space Invaders",
-      "https://matthiasott.com/articles/webspace-invaders"
+      "Let's compile Quake like it's 1997",
+      "https://fabiensanglard.net/compile_like_1997/index.html"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Nobody knows how the whole system works",
       "https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 04:21:24",
+      "https://lobste.rs/s/6lutpb/secretspec_0_7_declarative_secret"
+    ],
+    [
+      "SecretSpec 0.7: Declarative Secret Generation - devenv",
+      "https://devenv.sh/blog/2026/02/09/secretspec-07-declarative-secret-generation/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-02-08, 11:04:07",
-      "https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde"
-    ],
-    [
-      "Beating an old, but not dead horse: what to do with the KDE Oxygen and Air themes?",
-      "https://filipfila.wordpress.com/2026/02/08/beating-an-old-but-not-dead-horse-what-to-do-with-the-oxygen-and-air-themes/"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 08:49:59",
       "https://lobste.rs/s/m5v4gb/willow_protocols_for_uncertain_future"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-02-08, 00:24:04",
-      "https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore"
-    ],
-    [
-      "The source code was the moat. But not anymore",
-      "https://philipotoole.com/the-source-code-was-the-moat-no-longer/"
-    ]
-  ],
-  [
-    [
       "2026-02-07, 22:03:31",
       "https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management"
     ],
     [
       "vouch: a contributor trust management system based on explicit vouches to participate",
       "https://github.com/mitchellh/vouch"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 17:01:24",
-      "https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into"
-    ],
-    [
-      "(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"",
-      "https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s"
     ]
   ]
 ]
