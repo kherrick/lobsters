@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-02-09, 17:19:20",
+      "https://lobste.rs/s/vje4gy/hard_braking_events_as_indicators_road"
+    ],
+    [
+      "Hard-braking events as indicators of road segment crash risk",
+      "https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 15:39:47",
       "https://lobste.rs/s/vrczh6/discord_launches_teen_by_default"
     ],
@@ -237,16 +247,6 @@
     [
       "Code injections through Git commit messages",
       "https://mas.to/@zekjur/116022397626943871"
-    ]
-  ],
-  [
-    [
-      "2026-02-08, 13:59:54",
-      "https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr"
-    ],
-    [
-      "Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing",
-      "https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/"
     ]
   ]
 ]
