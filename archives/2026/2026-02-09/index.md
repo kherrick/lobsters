@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 09:40:30](https://lobste.rs/s/7qnakp/claude_c_compiler_vs_gcc) - [Claude C Compiler vs GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 * [2026-02-09, 07:10:31](https://lobste.rs/s/g9qmmb/web_space_invaders) - [Web­space Invaders](https://matthiasott.com/articles/webspace-invaders)
 * [2026-02-09, 06:53:58](https://lobste.rs/s/mhgciz/alice_caml) - [Alice the Caml](https://www.gridbugs.org/alice-the-caml/)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here_marc_s_blog) - [You Are Here - Marc's Blog](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
