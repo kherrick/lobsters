@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-02-09, 07:10:31](https://lobste.rs/s/g9qmmb/web_space_invaders) - [Web­space Invaders](https://matthiasott.com/articles/webspace-invaders)
+* [2026-02-09, 06:53:58](https://lobste.rs/s/mhgciz/alice_caml) - [Alice the Caml](https://www.gridbugs.org/alice-the-caml/)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
 * [2026-02-09, 05:36:51](https://lobste.rs/s/2oray0/stop_generating_start_thinking) - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
 * [2026-02-09, 05:28:38](https://lobste.rs/s/jnqnqe/nobody_knows_how_whole_system_works) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
 * [2026-02-09, 04:21:24](https://lobste.rs/s/6lutpb/secretspec_0_7_declarative_secret) - [SecretSpec 0.7: Declarative Secret Generation - devenv](https://devenv.sh/blog/2026/02/09/secretspec-07-declarative-secret-generation/)
-* [2026-02-09, 03:45:05](https://lobste.rs/s/9zeao0/fun_with_dada) - [Fun With Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/08/fun-with-dada)
 * [2026-02-09, 03:03:29](https://lobste.rs/s/dndxmu/little_bool_doom) - [The little bool of doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-09, 01:29:03](https://lobste.rs/s/svjxze/reverse_engineering_prom_for_sgi_o2) - [Reverse-engineering the PROM for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
@@ -16,6 +16,7 @@
 * [2026-02-08, 18:07:42](https://lobste.rs/s/bic9qr/rebuilding_my_home_network_with_vlans) - [Rebuilding my home network with VLANs and 10Gbps](https://clintonboys.com/projects/homelab/03-network/)
 * [2026-02-08, 17:19:38](https://lobste.rs/s/cqso4h/constraint_propagation_for_fun) - [Constraint propagation for fun](https://eli.li/constraint-propagation-for-fun)
 * [2026-02-08, 17:15:52](https://lobste.rs/s/fgeokt/code_injections_through_git_commit) - [Code injections through Git commit messages](https://mas.to/@zekjur/116022397626943871)
+* [2026-02-08, 16:08:23](https://lobste.rs/s/i4idvz/fallen_apple) - [The Fallen Apple](https://mattgemmell.scot/the-fallen-apple/)
 * [2026-02-08, 15:32:29](https://lobste.rs/s/h3jg8m/beta_release_predicated_recursive) - [Beta release: Predicated Recursive Descent for Rust](https://wareya.wordpress.com/2026/02/01/beta-release-predicated-recursive-descent-for-rust/)
 * [2026-02-08, 14:26:20](https://lobste.rs/s/k2kwv0/testing_can_be_fun_actually) - [Testing can be fun, actually](https://giacomocavalieri.me/writing/testing-can-be-fun-actually)
 * [2026-02-08, 13:59:54](https://lobste.rs/s/oy8aqi/running_your_own_as_bgp_on_freebsd_with_frr) - [Running Your Own AS: BGP on FreeBSD with FRR, GRE Tunnels, and Policy Routing](https://blog.hofstede.it/running-your-own-as-bgp-on-freebsd-with-frr-gre-tunnels-and-policy-routing/)
@@ -24,7 +25,6 @@
 * [2026-02-08, 00:24:04](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore) - [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
-* [2026-02-07, 12:27:25](https://lobste.rs/s/lrnqdz/stories_from_25_years_software) - [Stories From 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 
 ## [Archives](archives/index.md)
 

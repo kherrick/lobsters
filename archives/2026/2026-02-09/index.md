@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
 * [2026-02-09, 07:10:31](https://lobste.rs/s/g9qmmb/web_space_invaders) - [Web­space Invaders](https://matthiasott.com/articles/webspace-invaders)
+* [2026-02-09, 06:53:58](https://lobste.rs/s/mhgciz/alice_caml) - [Alice the Caml](https://www.gridbugs.org/alice-the-caml/)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here_marc_s_blog) - [You Are Here - Marc's Blog](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
 * [2026-02-09, 05:36:51](https://lobste.rs/s/2oray0/stop_generating_start_thinking) - [Stop generating, start thinking](https://localghost.dev/blog/stop-generating-start-thinking/)
