@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-09, 07:10:31",
+      "https://lobste.rs/s/g9qmmb/web_space_invaders"
+    ],
+    [
+      "Web­space Invaders",
+      "https://matthiasott.com/articles/webspace-invaders"
+    ]
+  ],
+  [
+    [
       "2026-02-09, 06:10:08",
       "https://lobste.rs/s/ycshwd/you_are_here_marc_s_blog"
     ],
@@ -47,6 +57,16 @@
     [
       "Fun With Dada",
       "https://smallcultfollowing.com/babysteps/blog/2026/02/08/fun-with-dada"
+    ]
+  ],
+  [
+    [
+      "2026-02-09, 03:03:29",
+      "https://lobste.rs/s/dndxmu/little_bool_doom"
+    ],
+    [
+      "The little bool of doom",
+      "https://blog.svgames.pl/article/the-little-bool-of-doom"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-02-08, 13:31:14",
-      "https://lobste.rs/s/zyyx6b/software_engineering_is_back"
-    ],
-    [
-      "Software Engineering is back",
-      "https://blog.alaindichiappari.dev/p/software-engineering-is-back"
-    ]
-  ],
-  [
-    [
       "2026-02-08, 11:04:07",
       "https://lobste.rs/s/zm0luj/beating_old_not_dead_horse_what_do_with_kde"
     ],
@@ -217,16 +227,6 @@
     [
       "vouch: a contributor trust management system based on explicit vouches to participate",
       "https://github.com/mitchellh/vouch"
-    ]
-  ],
-  [
-    [
-      "2026-02-07, 21:03:39",
-      "https://lobste.rs/s/uysha5/adventures_guix_packaging"
-    ],
-    [
-      "Adventures in Guix Packaging",
-      "https://nemin.hu/guix-packaging.html"
     ]
   ],
   [
