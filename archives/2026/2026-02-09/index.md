@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 22:23:12](https://lobste.rs/s/lvmhyd/implementing_custom_error_types_rust) - [Implementing custom error types in Rust + Axum](https://rup12.net/posts/learning-rust-custom-errors/)
 * [2026-02-09, 21:50:37](https://lobste.rs/s/dsptog/can_my_sparc_server_host_website) - [Can my SPARC server host a website?](https://rup12.net/posts/can-my-sparc-server-host-my-website/)
+* [2026-02-09, 21:42:56](https://lobste.rs/s/aciykz/better_python_tests_with_inline_snapshot) - [Better Python tests with inline-snapshot](https://pydantic.dev/articles/inline-snapshot)
 * [2026-02-09, 18:25:21](https://lobste.rs/s/myybyg/it_s_not_about_api_fast_flexible_simple) - [It's Not About the API - Fast, Flexible, and Simple Rendering in Vulkan](https://gamesbymason.com/blog/2026/vulkan/)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
 * [2026-02-09, 17:23:31](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock) - [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
