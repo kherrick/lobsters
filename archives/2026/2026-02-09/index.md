@@ -7,6 +7,7 @@
 * [2026-02-09, 18:25:21](https://lobste.rs/s/myybyg/it_s_not_about_api_fast_flexible_simple) - [It's Not About the API - Fast, Flexible, and Simple Rendering in Vulkan](https://gamesbymason.com/blog/2026/vulkan/)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
 * [2026-02-09, 17:23:31](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock) - [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
+* [2026-02-09, 17:19:20](https://lobste.rs/s/vje4gy/hard_braking_events_as_indicators_road) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
 * [2026-02-09, 15:39:47](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 * [2026-02-09, 14:59:56](https://lobste.rs/s/arddyl/trying_out_thunderbird_appointment) - [Trying out Thunderbird Appointment While I Patiently Wait For An Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
 * [2026-02-09, 14:47:19](https://lobste.rs/s/daazxz/ruby_newbie_is_joining_ruby_users_forum) - [Ruby Newbie is joining the Ruby Users Forum](https://www.rubyforum.org/tag/getting-started)
