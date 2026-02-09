@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 14:59:56](https://lobste.rs/s/arddyl/trying_out_thunderbird_appointment) - [Trying out Thunderbird Appointment While I Patiently Wait For An Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
+* [2026-02-09, 14:47:19](https://lobste.rs/s/daazxz/ruby_newbie_is_joining_ruby_users_forum) - [Ruby Newbie is joining the Ruby Users Forum](https://www.rubyforum.org/tag/getting-started)
+* [2026-02-09, 14:26:25](https://lobste.rs/s/frdt4w/learnings_from_creating_gui_library) - [Learnings from creating a GUI library](https://blog.s-schoener.com/2026-02-09-gui/)
+* [2026-02-09, 14:18:43](https://lobste.rs/s/j8jnqq/six_thoughts_on_generating_c) - [six thoughts on generating c](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 13:23:42](https://lobste.rs/s/xr8ppc/computers_can_be_understood) - [Computers can be understood](https://blog.nelhage.com/post/computers-can-be-understood/)
 * [2026-02-09, 11:55:23](https://lobste.rs/s/pef25i/language_for_agents) - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/)
 * [2026-02-09, 11:09:53](https://lobste.rs/s/zk4cmn/case_for_contextual_copyleft_licensing) - [The Case for Contextual Copyleft: Licensing Open Source Training Data and Generative AI](https://arxiv.org/pdf/2507.12713)
