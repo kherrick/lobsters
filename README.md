@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-09, 04:21:24](https://lobste.rs/s/6lutpb/secretspec_0_7_declarative_secret) - [SecretSpec 0.7: Declarative Secret Generation - devenv](https://devenv.sh/blog/2026/02/09/secretspec-07-declarative-secret-generation/)
+* [2026-02-09, 03:45:05](https://lobste.rs/s/9zeao0/fun_with_dada) - [Fun With Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/08/fun-with-dada)
 * [2026-02-09, 03:03:29](https://lobste.rs/s/dndxmu/little_bool_doom) - [The little bool of doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
-* [2026-02-09, 02:50:28](https://lobste.rs/s/m4lvr0/concerns_about_low_quality_prs_beeing) - [Concerns about low-quality PRs beeing merged into main](https://discourse.llvm.org/t/concerns-about-low-quality-prs-beeing-merged-into-main/89748)
 * [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-09, 01:29:03](https://lobste.rs/s/svjxze/reverse_engineering_prom_for_sgi_o2) - [Reverse-engineering the PROM for the SGI O2](https://mattst88.com/blog/2026/02/08/Reverse_Engineering_the_PROM_for_the_SGI_O2/)
 * [2026-02-08, 22:13:34](https://lobste.rs/s/es2peg/minikanren_org) - [miniKanren.org](https://minikanren.org/)
@@ -22,7 +23,6 @@
 * [2026-02-08, 00:24:04](https://lobste.rs/s/gxdha5/source_code_was_moat_not_anymore) - [The source code was the moat. But not anymore](https://philipotoole.com/the-source-code-was-the-moat-no-longer/)
 * [2026-02-07, 22:03:31](https://lobste.rs/s/cgxhwz/vouch_contributor_trust_management) - [vouch: a contributor trust management system based on explicit vouches to participate](https://github.com/mitchellh/vouch)
 * [2026-02-07, 21:03:39](https://lobste.rs/s/uysha5/adventures_guix_packaging) - [Adventures in Guix Packaging](https://nemin.hu/guix-packaging.html)
-* [2026-02-07, 17:27:49](https://lobste.rs/s/gvlmu1/beyond_agentic_coding) - [Beyond agentic coding](https://haskellforall.com/2026/02/beyond-agentic-coding)
 * [2026-02-07, 17:01:24](https://lobste.rs/s/nhbnjf/bsky_thread_this_turns_maintainer_into) - [(Bsky thread) \"This turns the maintainer into an unwitting vibe coder\"](https://bsky.app/profile/fullmoon.id/post/3meadfaulhk2s)
 * [2026-02-07, 12:27:25](https://lobste.rs/s/lrnqdz/stories_from_25_years_software) - [Stories From 25 Years of Software Development](https://susam.net/twenty-five-years-of-computing.html)
 
