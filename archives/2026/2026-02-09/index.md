@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 11:09:53](https://lobste.rs/s/zk4cmn/case_for_contextual_copyleft_licensing) - [The Case for Contextual Copyleft: Licensing Open Source Training Data and Generative AI](https://arxiv.org/pdf/2507.12713)
 * [2026-02-09, 10:35:55](https://lobste.rs/s/manrbz/offpunk_3_0) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 * [2026-02-09, 10:12:06](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line)
 * [2026-02-09, 09:40:30](https://lobste.rs/s/7qnakp/claude_c_compiler_vs_gcc) - [Claude C Compiler vs GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
