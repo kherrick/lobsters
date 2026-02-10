@@ -16,6 +16,7 @@
 * [2026-02-10, 11:28:45](https://lobste.rs/s/6os1a6/fun_python_puzzle_with_circular_imports) - [A fun Python puzzle with circular imports](https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle)
 * [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
 * [2026-02-10, 05:31:41](https://lobste.rs/s/v59ykl/c_2008) - [c-- (2008)](https://www.cs.tufts.edu/%7Enr/c--/)
+* [2026-02-10, 03:58:58](https://lobste.rs/s/dcjrur/browser_html_web_browser_built_with_web) - [browser.html - a web browser built with web technologies using Servo as web rendering engine](https://tangled.org/me.webbeef.org/browser.html)
 * [2026-02-10, 03:02:47](https://lobste.rs/s/r2koiq/what_functional_programmers_get_wrong) - [What Functional Programmers Get Wrong About Systems](https://iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
 * [2026-02-10, 00:28:30](https://lobste.rs/s/gtjqqn/electricity_use_ai_coding_agents) - [Electricity use of AI coding agents](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
 * [2026-02-10, 00:11:15](https://lobste.rs/s/9kb1xw/fine_i_ll_try_ai) - [Fine, I'll Try AI](https://technobabble.bearblog.dev/fine-ill-try-ai/)
@@ -23,7 +24,6 @@
 * [2026-02-09, 21:42:56](https://lobste.rs/s/aciykz/better_python_tests_with_inline_snapshot) - [Better Python tests with inline-snapshot](https://pydantic.dev/articles/inline-snapshot)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
 * [2026-02-09, 15:39:47](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
-* [2026-02-09, 14:18:43](https://lobste.rs/s/j8jnqq/six_thoughts_on_generating_c) - [six thoughts on generating c](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
 * [2026-02-09, 10:35:55](https://lobste.rs/s/manrbz/offpunk_3_0) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 
 ## [Archives](archives/index.md)
