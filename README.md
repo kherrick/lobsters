@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-10, 12:18:06](https://lobste.rs/s/9dfnqa/freebsd_home_nas_part_10_monitoring_with) - [FreeBSD Home NAS, part 10: monitoring with VictoriaMetrics and Grafana](https://rtfm.co.ua/en/freebsd-home-nas-part-10-monitoring-with-victoriametrics-and-grafana/)
+* [2026-02-10, 11:59:10](https://lobste.rs/s/t5fcfw/ssh_agent_forwarding_tmux_done_right_2023) - [SSH agent forwarding and tmux done right (2023)](https://blogsystem5.substack.com/p/ssh-agent-forwarding-and-tmux-done)
 * [2026-02-10, 11:28:45](https://lobste.rs/s/6os1a6/fun_python_puzzle_with_circular_imports) - [A fun Python puzzle with circular imports](https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle)
 * [2026-02-10, 10:05:37](https://lobste.rs/s/zuy0o3/making_software) - [Making Software](https://www.makingsoftware.com/)
 * [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
@@ -14,7 +16,6 @@
 * [2026-02-09, 21:50:37](https://lobste.rs/s/dsptog/can_my_sparc_server_host_website) - [Can my SPARC server host a website?](https://rup12.net/posts/can-my-sparc-server-host-my-website/)
 * [2026-02-09, 21:42:56](https://lobste.rs/s/aciykz/better_python_tests_with_inline_snapshot) - [Better Python tests with inline-snapshot](https://pydantic.dev/articles/inline-snapshot)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
-* [2026-02-09, 17:23:31](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock) - [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
 * [2026-02-09, 15:39:47](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 * [2026-02-09, 14:59:56](https://lobste.rs/s/arddyl/trying_out_thunderbird_appointment) - [Trying out Thunderbird Appointment While I Patiently Wait For An Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
 * [2026-02-09, 14:18:43](https://lobste.rs/s/j8jnqq/six_thoughts_on_generating_c) - [six thoughts on generating c](https://wingolog.org/archives/2026/02/09/six-thoughts-on-generating-c)
@@ -23,7 +24,6 @@
 * [2026-02-09, 10:35:55](https://lobste.rs/s/manrbz/offpunk_3_0) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 * [2026-02-09, 10:12:06](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
-* [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-08, 20:12:27](https://lobste.rs/s/n4ddir/don_t_get_distracted_2017) - [Don't Get Distracted (2017)](https://calebhearth.com/dont-get-distracted)
 
 ## [Archives](archives/index.md)

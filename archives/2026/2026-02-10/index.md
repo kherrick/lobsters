@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 12:18:06](https://lobste.rs/s/9dfnqa/freebsd_home_nas_part_10_monitoring_with) - [FreeBSD Home NAS, part 10: monitoring with VictoriaMetrics and Grafana](https://rtfm.co.ua/en/freebsd-home-nas-part-10-monitoring-with-victoriametrics-and-grafana/)
+* [2026-02-10, 11:59:10](https://lobste.rs/s/t5fcfw/ssh_agent_forwarding_tmux_done_right_2023) - [SSH agent forwarding and tmux done right (2023)](https://blogsystem5.substack.com/p/ssh-agent-forwarding-and-tmux-done)
 * [2026-02-10, 11:28:45](https://lobste.rs/s/6os1a6/fun_python_puzzle_with_circular_imports) - [A fun Python puzzle with circular imports](https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle)
 * [2026-02-10, 10:26:09](https://lobste.rs/s/vcgzed/sarvam_arya_orchestration_stack_for) - [Sarvam Arya: Orchestration stack for production-grade agents](https://www.sarvam.ai/blogs/introducing-sarvam-arya)
 * [2026-02-10, 10:05:37](https://lobste.rs/s/zuy0o3/making_software) - [Making Software](https://www.makingsoftware.com/)
