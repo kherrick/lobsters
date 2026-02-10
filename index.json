@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-10, 08:02:16",
+      "https://lobste.rs/s/w5ibgj/portablecc"
+    ],
+    [
+      "PortableCC",
+      "https://github.com/PortableCC"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 06:33:30",
       "https://lobste.rs/s/ovmayf/few_design_decisions_for_new_chat"
     ],
@@ -197,16 +207,6 @@
     [
       "Algorithmically Finding the Longest Line of Sight on Earth",
       "https://lobste.rs/s/8959u3/algorithmically_finding_longest_line"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 08:16:03",
-      "https://lobste.rs/s/ahdqrf/let_s_compile_quake_like_it_s_1997"
-    ],
-    [
-      "Let's compile Quake like it's 1997",
-      "https://fabiensanglard.net/compile_like_1997/index.html"
     ]
   ],
   [
