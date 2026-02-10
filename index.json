@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-10, 12:18:06",
+      "https://lobste.rs/s/9dfnqa/freebsd_home_nas_part_10_monitoring_with"
+    ],
+    [
+      "FreeBSD Home NAS, part 10: monitoring with VictoriaMetrics and Grafana",
+      "https://rtfm.co.ua/en/freebsd-home-nas-part-10-monitoring-with-victoriametrics-and-grafana/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 11:59:10",
+      "https://lobste.rs/s/t5fcfw/ssh_agent_forwarding_tmux_done_right_2023"
+    ],
+    [
+      "SSH agent forwarding and tmux done right (2023)",
+      "https://blogsystem5.substack.com/p/ssh-agent-forwarding-and-tmux-done"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 11:28:45",
       "https://lobste.rs/s/6os1a6/fun_python_puzzle_with_circular_imports"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-09, 17:23:31",
-      "https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock"
-    ],
-    [
-      "ESP8266 WiFi Analog Clock",
-      "https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock"
-    ]
-  ],
-  [
-    [
       "2026-02-09, 15:39:47",
       "https://lobste.rs/s/vrczh6/discord_launches_teen_by_default"
     ],
@@ -227,16 +237,6 @@
     [
       "You Are Here",
       "https://brooker.co.za/blog/2026/02/07/you-are-here.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-09, 01:51:31",
-      "https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time"
-    ],
-    [
-      "The original vi is a product of its time (and its time has passed)",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime"
     ]
   ],
   [
