@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 10:26:09](https://lobste.rs/s/vcgzed/sarvam_arya_orchestration_stack_for) - [Sarvam Arya: Orchestration stack for production-grade agents](https://www.sarvam.ai/blogs/introducing-sarvam-arya)
 * [2026-02-10, 10:05:37](https://lobste.rs/s/zuy0o3/making_software) - [Making Software](https://www.makingsoftware.com/)
 * [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
 * [2026-02-10, 08:02:16](https://lobste.rs/s/w5ibgj/portablecc) - [PortableCC](https://github.com/PortableCC)
