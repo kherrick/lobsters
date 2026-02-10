@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 21:44:21](https://lobste.rs/s/wy3mws/what_they_copied) - [What They Copied](https://www.prndlcars.com/p/what-they-copied-ferrari-luce-jony-ive)
 * [2026-02-10, 21:02:03](https://lobste.rs/s/gipvta/cysqlite_new_sqlite_driver) - [cysqlite - a new sqlite driver](https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/)
 * [2026-02-10, 20:33:41](https://lobste.rs/s/hhjrpk/setting_up_zed) - [Setting Up Zed](https://ljb.fyi/setting-up-zed/)
 * [2026-02-10, 20:32:53](https://lobste.rs/s/pybtso/go_1_26_is_released) - [Go 1.26 is released](https://go.dev/blog/go1.26)
