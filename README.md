@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-10, 05:31:41](https://lobste.rs/s/v59ykl/c) - [c--](https://www.cs.tufts.edu/%7Enr/c--/)
 * [2026-02-10, 04:33:56](https://lobste.rs/s/86y3bb/grumpy_julio_plays_with_cli_coding_agents) - [Grumpy Julio plays with CLI coding agents](https://jmmv.dev/2026/02/one-week-with-claude-code.html)
 * [2026-02-10, 03:02:47](https://lobste.rs/s/r2koiq/what_functional_programmers_get_wrong) - [What Functional Programmers Get Wrong About Systems](https://iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
 * [2026-02-10, 00:28:30](https://lobste.rs/s/gtjqqn/electricity_use_ai_coding_agents) - [Electricity use of AI coding agents](https://www.simonpcouch.com/blog/2026-01-20-cc-impact/)
@@ -24,7 +25,6 @@
 * [2026-02-09, 03:03:29](https://lobste.rs/s/dndxmu/little_bool_doom) - [The little bool of doom](https://blog.svgames.pl/article/the-little-bool-of-doom)
 * [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
 * [2026-02-08, 20:12:27](https://lobste.rs/s/n4ddir/don_t_get_distracted_2017) - [Don't Get Distracted (2017)](https://calebhearth.com/dont-get-distracted)
-* [2026-02-08, 17:15:52](https://lobste.rs/s/fgeokt/code_injections_through_git_commit) - [Code injections through Git commit messages](https://mas.to/@zekjur/116022397626943871)
 
 ## [Archives](archives/index.md)
 
