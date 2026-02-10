@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-09](index.md)
 
+* [2026-02-09, 23:23:05](https://lobste.rs/s/wz8ghc/any_general_programming_forums_mailing) - [Any \"General\" Programming Forums Or Mailing Lists?](https://lobste.rs/s/wz8ghc/any_general_programming_forums_mailing)
 * [2026-02-09, 22:23:12](https://lobste.rs/s/lvmhyd/implementing_custom_error_types_rust) - [Implementing custom error types in Rust + Axum](https://rup12.net/posts/learning-rust-custom-errors/)
 * [2026-02-09, 21:50:37](https://lobste.rs/s/dsptog/can_my_sparc_server_host_website) - [Can my SPARC server host a website?](https://rup12.net/posts/can-my-sparc-server-host-my-website/)
 * [2026-02-09, 21:42:56](https://lobste.rs/s/aciykz/better_python_tests_with_inline_snapshot) - [Better Python tests with inline-snapshot](https://pydantic.dev/articles/inline-snapshot)
@@ -11,6 +12,7 @@
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
 * [2026-02-09, 17:23:31](https://lobste.rs/s/qyhfb7/esp8266_wifi_analog_clock) - [ESP8266 WiFi Analog Clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
 * [2026-02-09, 17:19:20](https://lobste.rs/s/vje4gy/hard_braking_events_as_indicators_road) - [Hard-braking events as indicators of road segment crash risk](https://research.google/blog/hard-braking-events-as-indicators-of-road-segment-crash-risk/)
+* [2026-02-09, 16:50:33](https://lobste.rs/s/w8uju4/custom_firmware_for_mz_rh1_minidisc) - [Custom Firmware for the MZ-RH1 (MiniDisc player)](https://sir68k.re/posts/rh1-firmware-available/)
 * [2026-02-09, 15:39:47](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 * [2026-02-09, 14:59:56](https://lobste.rs/s/arddyl/trying_out_thunderbird_appointment) - [Trying out Thunderbird Appointment While I Patiently Wait For An Invite](https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/)
 * [2026-02-09, 14:47:19](https://lobste.rs/s/daazxz/ruby_newbie_is_joining_ruby_users_forum) - [Ruby Newbie is joining the Ruby Users Forum](https://www.rubyforum.org/tag/getting-started)
