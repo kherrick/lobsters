@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 10:05:37](https://lobste.rs/s/zuy0o3/making_software) - [Making Software](https://www.makingsoftware.com/)
+* [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
 * [2026-02-10, 08:02:16](https://lobste.rs/s/w5ibgj/portablecc) - [PortableCC](https://github.com/PortableCC)
 * [2026-02-10, 06:33:30](https://lobste.rs/s/ovmayf/few_design_decisions_for_new_chat) - [A few design decisions for a new chat platform](https://sporks.space/2026/02/10/a-few-design-decisions-for-a-new-chat-platform/)
 * [2026-02-10, 05:31:41](https://lobste.rs/s/v59ykl/c) - [c--](https://www.cs.tufts.edu/%7Enr/c--/)
