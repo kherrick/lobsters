@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 15:12:16](https://lobste.rs/s/naa5fq/postmarketos_at_fosdem_2026_hackathon) - [postmarketOS at FOSDEM 2026 + Hackathon](https://postmarketos.org/blog/2026/02/10/fosdem-and-hackathon/)
+* [2026-02-10, 15:09:47](https://lobste.rs/s/ogr30w/how_i_cut_my_google_search_dependence_half) - [How I Cut My Google Search Dependence in Half](https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/)
+* [2026-02-10, 15:01:01](https://lobste.rs/s/qni92w/how_bus_route_falls_apart_2025) - [How a Bus Route Falls Apart (2025)](https://homesignalblog.wordpress.com/2025/06/29/how-a-bus-route-falls-apart/)
+* [2026-02-10, 14:46:30](https://lobste.rs/s/e5vqhs/simplifying_vulkan_one_subsystem_at_time) - [Simplifying Vulkan one subsystem at a time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
 * [2026-02-10, 14:13:47](https://lobste.rs/s/oayzoz/redefining_go_functions) - [Redefining Go Functions](https://pboyd.io/posts/redefining-go-functions/)
 * [2026-02-10, 12:18:06](https://lobste.rs/s/9dfnqa/freebsd_home_nas_part_10_monitoring_with) - [FreeBSD Home NAS, part 10: monitoring with VictoriaMetrics and Grafana](https://rtfm.co.ua/en/freebsd-home-nas-part-10-monitoring-with-victoriametrics-and-grafana/)
 * [2026-02-10, 11:59:10](https://lobste.rs/s/t5fcfw/ssh_agent_forwarding_tmux_done_right_2023) - [SSH agent forwarding and tmux done right (2023)](https://blogsystem5.substack.com/p/ssh-agent-forwarding-and-tmux-done)
