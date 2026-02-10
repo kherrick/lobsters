@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 08:02:16](https://lobste.rs/s/w5ibgj/portablecc) - [PortableCC](https://github.com/PortableCC)
 * [2026-02-10, 06:33:30](https://lobste.rs/s/ovmayf/few_design_decisions_for_new_chat) - [A few design decisions for a new chat platform](https://sporks.space/2026/02/10/a-few-design-decisions-for-a-new-chat-platform/)
 * [2026-02-10, 05:31:41](https://lobste.rs/s/v59ykl/c) - [c--](https://www.cs.tufts.edu/%7Enr/c--/)
 * [2026-02-10, 05:18:46](https://lobste.rs/s/pcgyje/qfuture_3_c_coroutines) - [QFuture <3 C++ coroutines](https://www.arnorehn.de/blog/2026/02/09/qfuture-c-coroutines/)

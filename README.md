@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-10, 08:02:16](https://lobste.rs/s/w5ibgj/portablecc) - [PortableCC](https://github.com/PortableCC)
 * [2026-02-10, 06:33:30](https://lobste.rs/s/ovmayf/few_design_decisions_for_new_chat) - [A few design decisions for a new chat platform](https://sporks.space/2026/02/10/a-few-design-decisions-for-a-new-chat-platform/)
 * [2026-02-10, 05:31:41](https://lobste.rs/s/v59ykl/c) - [c--](https://www.cs.tufts.edu/%7Enr/c--/)
 * [2026-02-10, 05:18:46](https://lobste.rs/s/pcgyje/qfuture_3_c_coroutines) - [QFuture <3 C++ coroutines](https://www.arnorehn.de/blog/2026/02/09/qfuture-c-coroutines/)
@@ -20,7 +21,6 @@
 * [2026-02-09, 11:55:23](https://lobste.rs/s/pef25i/language_for_agents) - [A Language For Agents](https://lucumr.pocoo.org/2026/2/9/a-language-for-agents/)
 * [2026-02-09, 10:35:55](https://lobste.rs/s/manrbz/offpunk_3_0) - [Offpunk 3.0](https://ploum.net/2026-02-09-offpunk3.html)
 * [2026-02-09, 10:12:06](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line) - [Algorithmically Finding the Longest Line of Sight on Earth](https://lobste.rs/s/8959u3/algorithmically_finding_longest_line)
-* [2026-02-09, 08:16:03](https://lobste.rs/s/ahdqrf/let_s_compile_quake_like_it_s_1997) - [Let's compile Quake like it's 1997](https://fabiensanglard.net/compile_like_1997/index.html)
 * [2026-02-09, 06:10:08](https://lobste.rs/s/ycshwd/you_are_here) - [You Are Here](https://brooker.co.za/blog/2026/02/07/you-are-here.html)
 * [2026-02-09, 05:28:38](https://lobste.rs/s/jnqnqe/nobody_knows_how_whole_system_works) - [Nobody knows how the whole system works](https://surfingcomplexity.blog/2026/02/08/nobody-knows-how-the-whole-system-works/)
 * [2026-02-09, 01:51:31](https://lobste.rs/s/2omooc/original_vi_is_product_its_time_its_time) - [The original vi is a product of its time (and its time has passed)](https://utcc.utoronto.ca/~cks/space/blog/unix/ViIsAProductOfItsTime)
