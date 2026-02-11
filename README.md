@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-11, 16:07:19](https://lobste.rs/s/noawjw/functional_programming_m4) - [Functional programming in m4](https://www.tuhs.org/pipermail/tuhs/2020-August/022108.html)
 * [2026-02-11, 14:48:51](https://lobste.rs/s/4fla1s/re_identification_risk_vs_k_anonymity) - [Re-Identification Risk vs k-Anonymity](https://www.testingbranch.com/re_identification/)
 * [2026-02-11, 12:43:26](https://lobste.rs/s/xhfkrz/webmentions_with_batteries_included) - [Webmentions with batteries included](https://blog.fabiomanganiello.com/article/webmentions-with-batteries-included)
 * [2026-02-11, 12:29:50](https://lobste.rs/s/6yn5pe/modular_monolith_microservices) - [Modular Monolith and Microservices: Modularity is what truly matters (2023)](https://binaryigor.com/modular-monolith-and-microservices-modularity-is-what-truly-matters.html)
@@ -8,7 +9,6 @@
 * [2026-02-11, 11:57:10](https://lobste.rs/s/tqttgj/forwardly_evaluated_build_systems) - [Forwardly-evaluated build systems](https://garnix.io/blog/garn2/)
 * [2026-02-11, 10:37:49](https://lobste.rs/s/yyh1rg/pax_cache_performance_you_re_looking_for) - [PAX: The Cache Performance You're Looking For](https://mydbanotebook.org/posts/pax-the-cache-performance-youre-looking-for/)
 * [2026-02-11, 10:30:22](https://lobste.rs/s/irxjid/ai_vampire) - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
-* [2026-02-11, 08:48:58](https://lobste.rs/s/ujqgsx/memoriam_marijn_meijles) - [In memoriam Marijn Meijles](https://vasilis.nl/nerd/2026/rip-marijn/)
 * [2026-02-11, 08:17:48](https://lobste.rs/s/vvg4oz/transducer_ate_our_heap) - [The Transducer That Ate Our Heap](https://www.reddit.com/r/Clojure/comments/1r179s1/the_transducer_that_ate_our_heap/)
 * [2026-02-11, 07:17:46](https://lobste.rs/s/wepiig/breaking_down_cve_2026_25049_how) - [Breaking Down CVE-2026-25049: How TypeScript Types Failed n8n's Security](https://hetmehta.com/posts/n8n-type-confusion-rce/)
 * [2026-02-11, 05:08:39](https://lobste.rs/s/gx9hvu/how_level_up_fediverse) - [How to level up the fediverse](https://fosdem.org/2026/schedule/event/HVJRNV-how_to_level_up_the_fediverse/)
