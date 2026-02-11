@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-11, 12:29:50](https://lobste.rs/s/6yn5pe/modular_monolith_microservices) - [Modular Monolith and Microservices: Modularity is what truly matters (2023)](https://binaryigor.com/modular-monolith-and-microservices-modularity-is-what-truly-matters.html)
+* [2026-02-11, 11:57:10](https://lobste.rs/s/tqttgj/forwardly_evaluated_build_systems) - [Forwardly-evaluated build systems](https://garnix.io/blog/garn2/)
 * [2026-02-11, 11:43:55](https://lobste.rs/s/eqzhan/experimental_zones_protocol_merged) - [Experimental Zones Protocol Merged To Wayland After 2+ Years, 620+ Comments - Phoronix](https://www.phoronix.com/news/Wayland-Experimental-Zones)
-* [2026-02-11, 09:13:20](https://lobste.rs/s/6gs983/deferred_member_initialization_c) - [Deferred member initialization in C++](https://www.sandordargo.com/blog/2026/02/11/deferred-map-initialization)
+* [2026-02-11, 10:37:49](https://lobste.rs/s/yyh1rg/pax_cache_performance_you_re_looking_for) - [PAX: The Cache Performance You're Looking For](https://mydbanotebook.org/posts/pax-the-cache-performance-youre-looking-for/)
+* [2026-02-11, 10:30:22](https://lobste.rs/s/irxjid/ai_vampire) - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
 * [2026-02-11, 08:17:48](https://lobste.rs/s/vvg4oz/transducer_ate_our_heap) - [The Transducer That Ate Our Heap](https://www.reddit.com/r/Clojure/comments/1r179s1/the_transducer_that_ate_our_heap/)
 * [2026-02-11, 07:17:46](https://lobste.rs/s/wepiig/breaking_down_cve_2026_25049_how) - [Breaking Down CVE-2026-25049: How TypeScript Types Failed n8n's Security](https://hetmehta.com/posts/n8n-type-confusion-rce/)
 * [2026-02-11, 05:08:39](https://lobste.rs/s/gx9hvu/how_level_up_fediverse) - [How to level up the fediverse](https://fosdem.org/2026/schedule/event/HVJRNV-how_to_level_up_the_fediverse/)
@@ -20,11 +23,8 @@
 * [2026-02-10, 15:09:47](https://lobste.rs/s/ogr30w/how_i_cut_my_google_search_dependence_half) - [How I Cut My Google Search Dependence in Half](https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/)
 * [2026-02-10, 15:01:01](https://lobste.rs/s/qni92w/how_bus_route_falls_apart_2025) - [How a Bus Route Falls Apart (2025)](https://homesignalblog.wordpress.com/2025/06/29/how-a-bus-route-falls-apart/)
 * [2026-02-10, 14:13:47](https://lobste.rs/s/oayzoz/redefining_go_functions) - [Redefining Go Functions](https://pboyd.io/posts/redefining-go-functions/)
-* [2026-02-10, 11:59:10](https://lobste.rs/s/t5fcfw/ssh_agent_forwarding_tmux_done_right_2023) - [SSH agent forwarding and tmux done right (2023)](https://blogsystem5.substack.com/p/ssh-agent-forwarding-and-tmux-done)
 * [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
-* [2026-02-10, 03:02:47](https://lobste.rs/s/r2koiq/what_functional_programmers_get_wrong) - [What Functional Programmers Get Wrong About Systems](https://iankduncan.com/engineering/2026-02-09-what-functional-programmers-get-wrong-about-systems/)
 * [2026-02-09, 18:09:42](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding) - [Proposal: Add Hotness -.25 to Vibe Coding](https://lobste.rs/s/rqsjod/proposal_add_hotness_25_vibe_coding)
-* [2026-02-09, 15:39:47](https://lobste.rs/s/vrczh6/discord_launches_teen_by_default) - [Discord Launches Teen-by-Default Settings Globally](https://discord.com/press-releases/discord-launches-teen-by-default-settings-globally)
 
 ## [Archives](archives/index.md)
 
