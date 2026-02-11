@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-11, 19:04:15",
+      "https://lobste.rs/s/xgacfj/using_databases_without_putting_domain"
+    ],
+    [
+      "Using Databases Without Putting Domain Logic in Them (2023)",
+      "https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 18:42:38",
       "https://lobste.rs/s/jkqgrt/majutsu_magit_for_jujutsu"
     ],
@@ -167,16 +177,6 @@
     [
       "cysqlite - a new sqlite driver",
       "https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 20:33:41",
-      "https://lobste.rs/s/hhjrpk/setting_up_zed"
-    ],
-    [
-      "Setting Up Zed",
-      "https://ljb.fyi/setting-up-zed/"
     ]
   ],
   [
