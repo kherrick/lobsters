@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-11, 18:42:38",
+      "https://lobste.rs/s/jkqgrt/majutsu_magit_for_jujutsu"
+    ],
+    [
+      "Majutsu, Magit for jujutsu",
+      "https://github.com/0WD0/majutsu"
+    ]
+  ],
+  [
+    [
+      "2026-02-11, 16:10:37",
+      "https://lobste.rs/s/7hjn6w/problem_with_llms"
+    ],
+    [
+      "The Problem With LLMs",
+      "https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/"
+    ]
+  ],
+  [
+    [
       "2026-02-11, 16:07:19",
       "https://lobste.rs/s/noawjw/functional_programming_m4"
     ],
@@ -47,16 +67,6 @@
     [
       "Windows Notepad App Remote Code Execution Vulnerability",
       "https://www.cve.org/CVERecord?id=CVE-2026-20841"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 11:59:34",
-      "https://lobste.rs/s/ghqflm/cve_2026_1529_keycloak_unauthorized"
-    ],
-    [
-      "CVE-2026-1529 - keycloak: unauthorized organization registration via improper invitation token validation",
-      "https://cvefeed.io/vuln/detail/CVE-2026-1529"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How I Cut My Google Search Dependence in Half",
       "https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 09:11:43",
-      "https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good"
-    ],
-    [
-      "GitButler CLI Is Really Good",
-      "https://matduggan.com/gitbutler-cli-is-really-good/"
     ]
   ]
 ]
