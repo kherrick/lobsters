@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-10](index.md)
 
+* [2026-02-10, 23:47:35](https://lobste.rs/s/wcak3g/hylo_systems_programming_language_all_on) - [Hylo: A Systems Programming Language All in on Value Semantics and Generic Programming](https://hylo-lang.org/)
+* [2026-02-10, 22:17:33](https://lobste.rs/s/kjbrep/day_telnet_died) - [The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 * [2026-02-10, 21:44:21](https://lobste.rs/s/wy3mws/what_they_copied) - [What They Copied](https://www.prndlcars.com/p/what-they-copied-ferrari-luce-jony-ive)
 * [2026-02-10, 21:02:03](https://lobste.rs/s/gipvta/cysqlite_new_sqlite_driver) - [cysqlite - a new sqlite driver](https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/)
 * [2026-02-10, 20:33:41](https://lobste.rs/s/hhjrpk/setting_up_zed) - [Setting Up Zed](https://ljb.fyi/setting-up-zed/)
