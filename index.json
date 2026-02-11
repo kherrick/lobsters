@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-02-11, 07:17:46",
-      "https://lobste.rs/s/wepiig/breaking_down_cve_2026_25049_how"
-    ],
-    [
-      "Breaking Down CVE-2026-25049: How TypeScript Types Failed n8n's Security",
-      "https://hetmehta.com/posts/n8n-type-confusion-rce/"
-    ]
-  ],
-  [
-    [
       "2026-02-11, 05:08:39",
       "https://lobste.rs/s/gx9hvu/how_level_up_fediverse"
     ],
@@ -187,6 +177,16 @@
     [
       "Go 1.26 is released",
       "https://go.dev/blog/go1.26"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 19:56:05",
+      "https://lobste.rs/s/kbf0f4/how_i_built_fluxer_discord_like_chat_app"
+    ],
+    [
+      "How I built Fluxer, a Discord-like chat app",
+      "https://blog.fluxer.app/how-i-built-fluxer-a-discord-like-chat-app/"
     ]
   ],
   [
