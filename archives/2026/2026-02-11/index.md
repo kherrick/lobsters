@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-11](index.md)
 
+* [2026-02-11, 21:50:23](https://lobste.rs/s/vbob0l/reports_telnet_s_death_have_been_greatly) - [Reports of Telnet’s Death Have Been Greatly Exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing)
 * [2026-02-11, 20:56:46](https://lobste.rs/s/fmxfwt/how_i_turned_my_anki_side_project_into) - [How I turned my Anki side project into a Kickstarter: A Walkthrough](https://alt-romes.github.io/posts/2026-01-30-from-side-project-to-kickstarter-a-walkthrough.html)
 * [2026-02-11, 19:04:31](https://lobste.rs/s/jljsx4/programming_aphorisms) - [Programming Aphorisms](https://matklad.github.io/2026/02/11/programming-aphorisms.html)
 * [2026-02-11, 19:04:15](https://lobste.rs/s/xgacfj/using_databases_without_putting_domain) - [Using Databases Without Putting Domain Logic in Them (2023)](https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/)
