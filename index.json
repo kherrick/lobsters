@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-10, 23:47:35",
+      "https://lobste.rs/s/wcak3g/hylo_systems_programming_language_all_on"
+    ],
+    [
+      "Hylo: A Systems Programming Language All in on Value Semantics and Generic Programming",
+      "https://hylo-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-10, 22:17:33",
+      "https://lobste.rs/s/kjbrep/day_telnet_died"
+    ],
+    [
+      "The Day the telnet Died",
+      "https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/"
+    ]
+  ],
+  [
+    [
       "2026-02-10, 21:02:03",
       "https://lobste.rs/s/gipvta/cysqlite_new_sqlite_driver"
     ],
@@ -47,16 +67,6 @@
     [
       "I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed",
       "https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 17:06:57",
-      "https://lobste.rs/s/xlj4xd/spec_driven_development_doesn_t_work_if"
-    ],
-    [
-      "Spec-driven development doesn't work if you're too confused to write the spec",
-      "https://publish.obsidian.md/deontologician/Posts/Spec-driven+development+doesn't+work+if+you're+too+confused+to+write+the+spec"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "SSH agent forwarding and tmux done right (2023)",
       "https://blogsystem5.substack.com/p/ssh-agent-forwarding-and-tmux-done"
-    ]
-  ],
-  [
-    [
-      "2026-02-10, 11:28:45",
-      "https://lobste.rs/s/6os1a6/fun_python_puzzle_with_circular_imports"
-    ],
-    [
-      "A fun Python puzzle with circular imports",
-      "https://utcc.utoronto.ca/~cks/space/blog/python/PythonCircularImportPuzzle"
     ]
   ],
   [
