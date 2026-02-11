@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-11, 18:42:38](https://lobste.rs/s/jkqgrt/majutsu_magit_for_jujutsu) - [Majutsu, Magit for jujutsu](https://github.com/0WD0/majutsu)
+* [2026-02-11, 16:10:37](https://lobste.rs/s/7hjn6w/problem_with_llms) - [The Problem With LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
 * [2026-02-11, 16:07:19](https://lobste.rs/s/noawjw/functional_programming_m4) - [Functional programming in m4](https://www.tuhs.org/pipermail/tuhs/2020-August/022108.html)
 * [2026-02-11, 14:48:51](https://lobste.rs/s/4fla1s/re_identification_risk_vs_k_anonymity) - [Re-Identification Risk vs k-Anonymity](https://www.testingbranch.com/re_identification/)
 * [2026-02-11, 12:43:26](https://lobste.rs/s/xhfkrz/webmentions_with_batteries_included) - [Webmentions with batteries included](https://blog.fabiomanganiello.com/article/webmentions-with-batteries-included)
 * [2026-02-11, 12:29:50](https://lobste.rs/s/6yn5pe/modular_monolith_microservices) - [Modular Monolith and Microservices: Modularity is what truly matters (2023)](https://binaryigor.com/modular-monolith-and-microservices-modularity-is-what-truly-matters.html)
 * [2026-02-11, 12:09:23](https://lobste.rs/s/kp7jlq/windows_notepad_app_remote_code) - [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
-* [2026-02-11, 11:59:34](https://lobste.rs/s/ghqflm/cve_2026_1529_keycloak_unauthorized) - [CVE-2026-1529 - keycloak: unauthorized organization registration via improper invitation token validation](https://cvefeed.io/vuln/detail/CVE-2026-1529)
 * [2026-02-11, 11:57:10](https://lobste.rs/s/tqttgj/forwardly_evaluated_build_systems) - [Forwardly-evaluated build systems](https://garnix.io/blog/garn2/)
 * [2026-02-11, 10:37:49](https://lobste.rs/s/yyh1rg/pax_cache_performance_you_re_looking_for) - [PAX: The Cache Performance You're Looking For](https://mydbanotebook.org/posts/pax-the-cache-performance-youre-looking-for/)
 * [2026-02-11, 10:30:22](https://lobste.rs/s/irxjid/ai_vampire) - [The AI Vampire](https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163)
@@ -24,7 +25,6 @@
 * [2026-02-10, 16:19:44](https://lobste.rs/s/elol3n/i_wrote_scheme_2025) - [I Wrote a Scheme in 2025](https://maplant.com/2026-02-09-I-Wrote-a-Scheme-in-2025.html)
 * [2026-02-10, 15:12:16](https://lobste.rs/s/naa5fq/postmarketos_at_fosdem_2026_hackathon) - [postmarketOS at FOSDEM 2026 + Hackathon](https://postmarketos.org/blog/2026/02/10/fosdem-and-hackathon/)
 * [2026-02-10, 15:09:47](https://lobste.rs/s/ogr30w/how_i_cut_my_google_search_dependence_half) - [How I Cut My Google Search Dependence in Half](https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/)
-* [2026-02-10, 09:11:43](https://lobste.rs/s/dlmxra/gitbutler_cli_is_really_good) - [GitButler CLI Is Really Good](https://matduggan.com/gitbutler-cli-is-really-good/)
 
 ## [Archives](archives/index.md)
 
