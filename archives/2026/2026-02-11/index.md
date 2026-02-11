@@ -11,6 +11,7 @@
 * [2026-02-11, 18:45:50](https://lobste.rs/s/befswy/it_s_all_blur) - [It's all a blur](https://lcamtuf.substack.com/p/its-all-a-blur)
 * [2026-02-11, 18:42:38](https://lobste.rs/s/jkqgrt/majutsu_magit_for_jujutsu) - [Majutsu, Magit for jujutsu](https://github.com/0WD0/majutsu)
 * [2026-02-11, 16:10:37](https://lobste.rs/s/7hjn6w/problem_with_llms) - [The Problem With LLMs](https://www.deobald.ca/essays/2026-02-10-the-problem-with-llms/)
+* [2026-02-11, 16:07:19](https://lobste.rs/s/noawjw/functional_programming_m4_2020) - [Functional programming in m4 (2020)](https://www.tuhs.org/pipermail/tuhs/2020-August/022108.html)
 * [2026-02-11, 16:07:19](https://lobste.rs/s/noawjw/functional_programming_m4) - [Functional programming in m4](https://www.tuhs.org/pipermail/tuhs/2020-August/022108.html)
 * [2026-02-11, 14:48:51](https://lobste.rs/s/4fla1s/re_identification_risk_vs_k_anonymity) - [Re-Identification Risk vs k-Anonymity](https://www.testingbranch.com/re_identification/)
 * [2026-02-11, 12:43:26](https://lobste.rs/s/xhfkrz/webmentions_with_batteries_included) - [Webmentions with batteries included](https://blog.fabiomanganiello.com/article/webmentions-with-batteries-included)
