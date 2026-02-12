@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 21:02:23](https://lobste.rs/s/kfg1pf/goto_considered_good_actually) - [GOTO Considered Good, Actually](https://adamledoux.net/blog/posts/2026-02-09-GOTO-Considered-Good--Actually--or--i-made-a-tool-for-writing-casio-calculator-games-using-twine-.html)
+* [2026-02-12, 20:54:23](https://lobste.rs/s/3yq7cc/how_build_distributed_queue_single_json) - [How to build a distributed queue in a single JSON file on object storage](https://turbopuffer.com/blog/object-storage-queue)
 * [2026-02-12, 20:35:35](https://lobste.rs/s/p3l1yp/codespeak_software_engineering_with_ai) - [CodeSpeak: Software Engineering with AI](https://codespeak.dev)
 * [2026-02-12, 20:14:57](https://lobste.rs/s/ehw8fx/scripting_on_jvm_with_java_scala_kotlin) - [Scripting on the JVM with Java, Scala, and Kotlin](https://mill-build.org/blog/19-scripting-on-the-jvm.html)
 * [2026-02-12, 19:28:54](https://lobste.rs/s/zsufmx/launching_interop_2026) - [Launching Interop 2026](https://hacks.mozilla.org/2026/02/launching-interop-2026/)
