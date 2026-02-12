@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-12, 15:50:13](https://lobste.rs/s/bddcer/glm_5_from_vibe_coding_agentic) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
 * [2026-02-12, 15:16:00](https://lobste.rs/s/i0xmbk/inspecting_source_go_modules) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
-* [2026-02-12, 15:00:41](https://lobste.rs/s/rw7hqt/don_t_do_this_2013) - [Don't Do This (2013)](https://www.youtube.com/watch?v=H2yfXnUb1S4)
 * [2026-02-12, 15:00:05](https://lobste.rs/s/0fjf0h/technical_whitepaper_for_afl_fuzz) - [Technical \"whitepaper\" for afl-fuzz](https://lcamtuf.coredump.cx/afl/technical_details.txt)
 * [2026-02-12, 14:43:25](https://lobste.rs/s/jagwef/css_clicker) - [CSS Clicker](https://lyra.horse/css-clicker/)
 * [2026-02-12, 14:15:20](https://lobste.rs/s/lzn4pr/future_for_tyr_rust_gpu_driver_for_arm_mali) - [The future for Tyr, a Rust GPU driver for Arm Mali hardware](https://lwn.net/Articles/1055590/)
@@ -9,8 +9,8 @@
 * [2026-02-12, 13:52:33](https://lobste.rs/s/8lbusp/deobfuscation_analysis_ring_1_io) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
 * [2026-02-12, 12:10:37](https://lobste.rs/s/s5xudm/recursive_language_models) - [Recursive Language Models](https://alexzhang13.github.io/blog/2025/rlm/)
 * [2026-02-12, 11:07:57](https://lobste.rs/s/rhdobh/proposal_js_required_tag) - [Proposal: JS-required tag](https://lobste.rs/s/rhdobh/proposal_js_required_tag)
+* [2026-02-12, 07:59:50](https://lobste.rs/s/e7de3g/lessons_from_calyxos_signing_process) - [Lessons from CalyxOS signing process redesign](https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/)
 * [2026-02-12, 04:22:26](https://lobste.rs/s/dixmkp/proof_oriented_programming_f) - [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial)
-* [2026-02-12, 00:50:04](https://lobste.rs/s/v1bn0w/technical_issues_separation_function) - [Technical Issues of Separation in Function Cells and Value Cells (1988)](https://www.nhplace.com/kent/Papers/Technical-Issues.html)
 * [2026-02-11, 22:37:08](https://lobste.rs/s/dunvco/new_upcoming_ircv3_features) - [New And Upcoming IRCv3 Features](https://libera.chat/news/new-and-upcoming-features-3)
 * [2026-02-11, 21:54:31](https://lobste.rs/s/vrrdhz/do_not_apologize_for_replying_late_my) - [Do not apologize for replying late to my email](https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html)
 * [2026-02-11, 21:50:23](https://lobste.rs/s/vbob0l/reports_telnet_s_death_have_been_greatly) - [Reports of Telnet’s Death Have Been Greatly Exaggerated](https://www.terracenetworks.com/blog/2026-02-11-telnet-routing)

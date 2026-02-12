@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 15:50:13](https://lobste.rs/s/bddcer/glm_5_from_vibe_coding_agentic) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
 * [2026-02-12, 15:16:00](https://lobste.rs/s/i0xmbk/inspecting_source_go_modules) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
 * [2026-02-12, 15:00:41](https://lobste.rs/s/rw7hqt/don_t_do_this_2013) - [Don't Do This (2013)](https://www.youtube.com/watch?v=H2yfXnUb1S4)
 * [2026-02-12, 15:00:05](https://lobste.rs/s/0fjf0h/technical_whitepaper_for_afl_fuzz) - [Technical \"whitepaper\" for afl-fuzz](https://lcamtuf.coredump.cx/afl/technical_details.txt)
