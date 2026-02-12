@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-12, 11:07:57](https://lobste.rs/s/rhdobh/proposal_js_required_tag) - [Proposal: JS-required tag](https://lobste.rs/s/rhdobh/proposal_js_required_tag)
 * [2026-02-12, 07:59:50](https://lobste.rs/s/e7de3g/lessons_from_calyxos_signing_process) - [Lessons from CalyxOS signing process redesign](https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/)
 * [2026-02-12, 04:22:26](https://lobste.rs/s/dixmkp/proof_oriented_programming_f) - [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial)
 * [2026-02-12, 00:50:04](https://lobste.rs/s/v1bn0w/technical_issues_separation_function) - [Technical Issues of Separation in Function Cells and Value Cells (1988)](https://www.nhplace.com/kent/Papers/Technical-Issues.html)
@@ -19,7 +20,6 @@
 * [2026-02-11, 01:32:18](https://lobste.rs/s/tryiax/google_chrome_145_released_with_jpeg_xl) - [Google Chrome 145 Released With JPEG-XL Image Support](https://www.phoronix.com/news/Chrome-145-Released)
 * [2026-02-10, 23:47:35](https://lobste.rs/s/wcak3g/hylo_systems_programming_language_all_on) - [Hylo: A Systems Programming Language All in on Value Semantics and Generic Programming](https://hylo-lang.org/)
 * [2026-02-10, 22:17:33](https://lobste.rs/s/kjbrep/day_telnet_died) - [The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
-* [2026-02-10, 21:02:03](https://lobste.rs/s/gipvta/cysqlite_new_sqlite_driver) - [cysqlite - a new sqlite driver](https://charlesleifer.com/blog/cysqlite---a-new-sqlite-driver/)
 * [2026-02-10, 20:32:53](https://lobste.rs/s/pybtso/go_1_26_is_released) - [Go 1.26 is released](https://go.dev/blog/go1.26)
 * [2026-02-10, 19:23:09](https://lobste.rs/s/00edzp/missing_github_status_page) - [The Missing GitHub Status Page](https://mrshu.github.io/github-statuses/)
 * [2026-02-10, 17:26:23](https://lobste.rs/s/7iford/i_started_programming_when_i_was_7_i_m_50_now) - [I Started Programming When I Was 7. I'm 50 Now, and the Thing I Loved Has Changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
