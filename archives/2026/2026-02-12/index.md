@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 15:16:00](https://lobste.rs/s/i0xmbk/inspecting_source_go_modules) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
+* [2026-02-12, 15:00:41](https://lobste.rs/s/rw7hqt/don_t_do_this_2013) - [Don't Do This (2013)](https://www.youtube.com/watch?v=H2yfXnUb1S4)
+* [2026-02-12, 15:00:05](https://lobste.rs/s/0fjf0h/technical_whitepaper_for_afl_fuzz) - [Technical \"whitepaper\" for afl-fuzz](https://lcamtuf.coredump.cx/afl/technical_details.txt)
+* [2026-02-12, 14:43:25](https://lobste.rs/s/jagwef/css_clicker) - [CSS Clicker](https://lyra.horse/css-clicker/)
 * [2026-02-12, 14:15:20](https://lobste.rs/s/lzn4pr/future_for_tyr_rust_gpu_driver_for_arm_mali) - [The future for Tyr, a Rust GPU driver for Arm Mali hardware](https://lwn.net/Articles/1055590/)
 * [2026-02-12, 13:55:50](https://lobste.rs/s/vyvtz5/commet_matrix_client) - [Commet - Matrix Client](https://commet.chat/)
 * [2026-02-12, 13:52:33](https://lobste.rs/s/8lbusp/deobfuscation_analysis_ring_1_io) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
