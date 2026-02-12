@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-12, 19:28:54",
-      "https://lobste.rs/s/zsufmx/launching_interop_2026"
+      "2026-02-12, 20:35:35",
+      "https://lobste.rs/s/p3l1yp/codespeak_software_engineering_with_ai"
     ],
     [
-      "Launching Interop 2026",
-      "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
+      "CodeSpeak: Software Engineering with AI",
+      "https://codespeak.dev"
+    ]
+  ],
+  [
+    [
+      "2026-02-12, 20:14:57",
+      "https://lobste.rs/s/ehw8fx/scripting_on_jvm_with_java_scala_kotlin"
+    ],
+    [
+      "Scripting on the JVM with Java, Scala, and Kotlin",
+      "https://mill-build.org/blog/19-scripting-on-the-jvm.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Proposal: JS-required tag",
       "https://lobste.rs/s/rhdobh/proposal_js_required_tag"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 07:59:50",
-      "https://lobste.rs/s/e7de3g/lessons_from_calyxos_signing_process"
-    ],
-    [
-      "Lessons from CalyxOS signing process redesign",
-      "https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/"
     ]
   ],
   [
