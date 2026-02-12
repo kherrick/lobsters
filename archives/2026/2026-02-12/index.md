@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 17:14:31](https://lobste.rs/s/n4kbuj/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+* [2026-02-12, 16:43:42](https://lobste.rs/s/vxkq0z/stargazing_buddy_practical_guide) - [Stargazing Buddy: A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
+* [2026-02-12, 16:12:39](https://lobste.rs/s/fna9yv/request_for_sources_discord) - [Request for sources: Discord alternatives](https://lobste.rs/s/fna9yv/request_for_sources_discord)
 * [2026-02-12, 15:50:13](https://lobste.rs/s/bddcer/glm_5_from_vibe_coding_agentic) - [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
 * [2026-02-12, 15:16:00](https://lobste.rs/s/i0xmbk/inspecting_source_go_modules) - [Inspecting the Source of Go Modules](https://words.filippo.io/go-source/)
 * [2026-02-12, 15:00:41](https://lobste.rs/s/rw7hqt/don_t_do_this_2013) - [Don't Do This (2013)](https://www.youtube.com/watch?v=H2yfXnUb1S4)
