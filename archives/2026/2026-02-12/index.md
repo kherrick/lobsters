@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-12](index.md)
 
+* [2026-02-12, 18:18:40](https://lobste.rs/s/qtxw92/workledger_offline_first_engineering) - [Workledger - An offline first  engineering notebook](https://about.workledger.org/)
 * [2026-02-12, 17:14:31](https://lobste.rs/s/n4kbuj/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 * [2026-02-12, 16:43:42](https://lobste.rs/s/vxkq0z/stargazing_buddy_practical_guide) - [Stargazing Buddy: A practical guide to observing the night sky for real skies and real equipment](https://stargazingbuddy.com/)
 * [2026-02-12, 16:12:39](https://lobste.rs/s/fna9yv/request_for_sources_discord) - [Request for sources: Discord alternatives](https://lobste.rs/s/fna9yv/request_for_sources_discord)
