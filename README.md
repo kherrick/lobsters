@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-12, 19:28:54](https://lobste.rs/s/zsufmx/launching_interop_2026) - [Launching Interop 2026](https://hacks.mozilla.org/2026/02/launching-interop-2026/)
+* [2026-02-12, 20:35:35](https://lobste.rs/s/p3l1yp/codespeak_software_engineering_with_ai) - [CodeSpeak: Software Engineering with AI](https://codespeak.dev)
+* [2026-02-12, 20:14:57](https://lobste.rs/s/ehw8fx/scripting_on_jvm_with_java_scala_kotlin) - [Scripting on the JVM with Java, Scala, and Kotlin](https://mill-build.org/blog/19-scripting-on-the-jvm.html)
 * [2026-02-12, 18:52:26](https://lobste.rs/s/lel7zt/allocators_from_c_zig) - [Allocators from C to Zig](https://antonz.org/allocators/)
 * [2026-02-12, 18:18:40](https://lobste.rs/s/qtxw92/workledger_offline_first_engineering) - [Workledger - An offline first  engineering notebook](https://about.workledger.org/)
 * [2026-02-12, 17:14:31](https://lobste.rs/s/n4kbuj/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
@@ -14,7 +15,6 @@
 * [2026-02-12, 13:52:33](https://lobste.rs/s/8lbusp/deobfuscation_analysis_ring_1_io) - [Deobfuscation and Analysis of Ring-1.io](https://back.engineering/blog/04/02/2026/)
 * [2026-02-12, 12:10:37](https://lobste.rs/s/s5xudm/recursive_language_models) - [Recursive Language Models](https://alexzhang13.github.io/blog/2025/rlm/)
 * [2026-02-12, 11:07:57](https://lobste.rs/s/rhdobh/proposal_js_required_tag) - [Proposal: JS-required tag](https://lobste.rs/s/rhdobh/proposal_js_required_tag)
-* [2026-02-12, 07:59:50](https://lobste.rs/s/e7de3g/lessons_from_calyxos_signing_process) - [Lessons from CalyxOS signing process redesign](https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/)
 * [2026-02-12, 04:22:26](https://lobste.rs/s/dixmkp/proof_oriented_programming_f) - [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial)
 * [2026-02-11, 22:37:08](https://lobste.rs/s/dunvco/new_upcoming_ircv3_features) - [New And Upcoming IRCv3 Features](https://libera.chat/news/new-and-upcoming-features-3)
 * [2026-02-11, 21:54:31](https://lobste.rs/s/vrrdhz/do_not_apologize_for_replying_late_my) - [Do not apologize for replying late to my email](https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html)
