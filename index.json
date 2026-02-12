@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-12, 04:22:26",
+      "https://lobste.rs/s/dixmkp/proof_oriented_programming_f"
+    ],
+    [
+      "Proof-oriented Programming in F*",
+      "https://fstar-lang.org/tutorial"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 00:50:04",
       "https://lobste.rs/s/v1bn0w/technical_issues_separation_function"
     ],
@@ -137,16 +147,6 @@
     [
       "Forwardly-evaluated build systems",
       "https://garnix.io/blog/garn2/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 10:37:49",
-      "https://lobste.rs/s/yyh1rg/pax_cache_performance_you_re_looking_for"
-    ],
-    [
-      "PAX: The Cache Performance You're Looking For",
-      "https://mydbanotebook.org/posts/pax-the-cache-performance-youre-looking-for/"
     ]
   ],
   [
