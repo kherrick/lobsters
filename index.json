@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-12, 12:10:37",
+      "https://lobste.rs/s/s5xudm/recursive_language_models"
+    ],
+    [
+      "Recursive Language Models",
+      "https://alexzhang13.github.io/blog/2025/rlm/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 11:07:57",
       "https://lobste.rs/s/rhdobh/proposal_js_required_tag"
     ],
@@ -157,16 +167,6 @@
     [
       "Forwardly-evaluated build systems",
       "https://garnix.io/blog/garn2/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 08:17:48",
-      "https://lobste.rs/s/vvg4oz/transducer_ate_our_heap"
-    ],
-    [
-      "The Transducer That Ate Our Heap",
-      "https://www.reddit.com/r/Clojure/comments/1r179s1/the_transducer_that_ate_our_heap/"
     ]
   ],
   [
