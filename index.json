@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-12, 07:59:50",
+      "https://lobste.rs/s/e7de3g/lessons_from_calyxos_signing_process"
+    ],
+    [
+      "Lessons from CalyxOS signing process redesign",
+      "https://calyxos.org/news/2026/02/10/calyxos-hsm-signing/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 04:22:26",
       "https://lobste.rs/s/dixmkp/proof_oriented_programming_f"
     ],
@@ -137,16 +147,6 @@
     [
       "Forwardly-evaluated build systems",
       "https://garnix.io/blog/garn2/"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 10:37:49",
-      "https://lobste.rs/s/yyh1rg/pax_cache_performance_you_re_looking_for"
-    ],
-    [
-      "PAX: The Cache Performance You're Looking For",
-      "https://mydbanotebook.org/posts/pax-the-cache-performance-youre-looking-for/"
     ]
   ],
   [
