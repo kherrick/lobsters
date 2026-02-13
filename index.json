@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-13, 03:03:33",
+      "https://lobste.rs/s/x3vd7h/many_flavors_ignore_files"
+    ],
+    [
+      "The Many Flavors of Ignore Files",
+      "https://nesbitt.io/2026/02/12/the-many-flavors-of-ignore-files.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 01:51:55",
+      "https://lobste.rs/s/cd6n7w/stack_buffer_overflow_exercise_with"
+    ],
+    [
+      "A stack-buffer-overflow exercise with AddressSanitizer and PostgreSQL",
+      "https://www.enterprisedb.com/blog/stack-buffer-overflow-exercise-addresssanitizer-and-postgresql"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 23:19:34",
       "https://lobste.rs/s/bsprvp/apple_has_transparency_issue"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-02-11, 21:50:23",
-      "https://lobste.rs/s/vbob0l/reports_telnet_s_death_have_been_greatly"
-    ],
-    [
-      "Reports of Telnet’s Death Have Been Greatly Exaggerated",
-      "https://www.terracenetworks.com/blog/2026-02-11-telnet-routing"
-    ]
-  ],
-  [
-    [
       "2026-02-11, 19:04:31",
       "https://lobste.rs/s/jljsx4/programming_aphorisms"
     ],
@@ -217,16 +227,6 @@
     [
       "Majutsu, Magit for jujutsu",
       "https://github.com/0WD0/majutsu"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 12:43:26",
-      "https://lobste.rs/s/xhfkrz/webmentions_with_batteries_included"
-    ],
-    [
-      "Webmentions with batteries included",
-      "https://blog.fabiomanganiello.com/article/webmentions-with-batteries-included"
     ]
   ],
   [
