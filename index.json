@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-13, 15:21:06",
+      "https://lobste.rs/s/misukt/thanks_for_all_frames_rust_gui"
+    ],
+    [
+      "Thanks for All the Frames: Rust GUI Observations",
+      "https://tritium.legal/blog/desktop"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 15:09:58",
+      "https://lobste.rs/s/kegsv1/resizing_windows_on_macos_tahoe_saga"
+    ],
+    [
+      "Resizing windows on macOS Tahoe – the saga continues",
+      "https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 15:07:14",
+      "https://lobste.rs/s/glhu0d/deterministic_simulation_testing"
+    ],
+    [
+      "Deterministic Simulation Testing: BUGGIFY",
+      "https://transactional.blog/simulation/buggify"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 14:13:23",
       "https://lobste.rs/s/9ltmes/moss_kernel_rust_linux_compatible_kernel"
     ],
@@ -27,16 +57,6 @@
     [
       "Hare 0.26.0 released",
       "https://harelang.org/blog/2026-02-13-hare-0.26.0-released/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 11:24:17",
-      "https://lobste.rs/s/mwwbnx/flemish_elmish_architecture_for_fltk_rs"
-    ],
-    [
-      "flemish: An elmish architecture for fltk-rs",
-      "https://github.com/fltk-rs/flemish"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-12, 19:28:54",
-      "https://lobste.rs/s/zsufmx/launching_interop_2026"
-    ],
-    [
-      "Launching Interop 2026",
-      "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
-    ]
-  ],
-  [
-    [
       "2026-02-12, 18:52:26",
       "https://lobste.rs/s/lel7zt/allocators_from_c_zig"
     ],
@@ -177,16 +187,6 @@
     [
       "An AI Agent Published a Hit Piece on Me",
       "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 16:43:42",
-      "https://lobste.rs/s/vxkq0z/stargazing_buddy_practical_guide"
-    ],
-    [
-      "Stargazing Buddy: A practical guide to observing the night sky for real skies and real equipment",
-      "https://stargazingbuddy.com/"
     ]
   ],
   [
