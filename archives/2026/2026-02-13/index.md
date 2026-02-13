@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 19:26:48](https://lobste.rs/s/ytym8l/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://fdsa-book.net)
 * [2026-02-13, 18:47:25](https://lobste.rs/s/y6wjav/i_used_local_llm_analyze_my_journal) - [I used a local LLM to analyze my journal entries](https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/)
 * [2026-02-13, 18:43:15](https://lobste.rs/s/pgem2t/ann_i_built_new_ada_build_tool_for_personal) - [ANN: I built a new Ada build tool for personal use](https://github.com/tomekw/tada)
 * [2026-02-13, 18:09:21](https://lobste.rs/s/jcio2j/evolving_git_for_next_decade) - [Evolving Git for the next decade](https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/)
