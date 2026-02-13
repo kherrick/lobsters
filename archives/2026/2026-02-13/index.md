@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 14:02:40](https://lobste.rs/s/jw9fjn/my_first_vulkan_extension) - [My first Vulkan extension](https://christian-gmeiner.info/2026-02-13-my-first-vulkan-extension/)
+* [2026-02-13, 13:14:23](https://lobste.rs/s/wqzxyu/hare_0_26_0_released) - [Hare 0.26.0 released](https://harelang.org/blog/2026-02-13-hare-0.26.0-released/)
 * [2026-02-13, 11:24:17](https://lobste.rs/s/mwwbnx/flemish_elmish_architecture_for_fltk_rs) - [flemish: An elmish architecture for fltk-rs](https://github.com/fltk-rs/flemish)
 * [2026-02-13, 09:15:45](https://lobste.rs/s/mclhjq/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mclhjq/what_are_you_doing_this_weekend)
 * [2026-02-13, 05:17:21](https://lobste.rs/s/hkrawz/google_might_think_your_website_is_down) - [Google might think your Website is down](https://codeinput.com/blog/google-seo)
