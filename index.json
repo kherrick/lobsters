@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-02-12, 19:28:54",
+      "https://lobste.rs/s/zsufmx/launching_interop_2026"
+    ],
+    [
+      "Launching Interop 2026",
+      "https://hacks.mozilla.org/2026/02/launching-interop-2026/"
+    ]
+  ],
+  [
+    [
       "2026-02-12, 18:52:26",
       "https://lobste.rs/s/lel7zt/allocators_from_c_zig"
     ],
@@ -237,16 +247,6 @@
     [
       "Majutsu, Magit for jujutsu",
       "https://github.com/0WD0/majutsu"
-    ]
-  ],
-  [
-    [
-      "2026-02-11, 11:57:10",
-      "https://lobste.rs/s/tqttgj/forwardly_evaluated_build_systems"
-    ],
-    [
-      "Forwardly-evaluated build systems",
-      "https://garnix.io/blog/garn2/"
     ]
   ]
 ]
