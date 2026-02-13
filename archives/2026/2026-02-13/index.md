@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 16:45:07](https://lobste.rs/s/gibxel/nixtamal_1_0_0_released) - [Nixtamal 1.0.0 released](https://nixtamal.toast.al/changelog/)
+* [2026-02-13, 16:39:41](https://lobste.rs/s/uttn9z/catalog_refactorings) - [Catalog of Refactorings](https://refactoring.com/catalog/)
+* [2026-02-13, 16:28:07](https://lobste.rs/s/z6myes/deep_dive_into_apple_s_car_file_format) - [A Deep Dive into Apple's .car File Format](https://dbg.re/posts/car-file-format/)
 * [2026-02-13, 16:11:18](https://lobste.rs/s/qxmhjm/future_software_engineering_future) - [The future of software engineering - The future of software development retreat](https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future%20_of_software_development_retreat_%20key_takeaways.pdf)
 * [2026-02-13, 16:08:13](https://lobste.rs/s/uyjjtz/microgpt) - [microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 * [2026-02-13, 15:36:54](https://lobste.rs/s/t7jbfe/12_factor_app_15_years_later_does_it_still) - [The 12-Factor App - 15 Years later. Does it Still Hold Up in 2026?](https://lukasniessen.medium.com/the-12-factor-app-15-years-later-does-it-still-hold-up-in-2026-c8af494e8465)
