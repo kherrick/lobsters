@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-13](index.md)
 
+* [2026-02-13, 15:21:06](https://lobste.rs/s/misukt/thanks_for_all_frames_rust_gui) - [Thanks for All the Frames: Rust GUI Observations](https://tritium.legal/blog/desktop)
+* [2026-02-13, 15:09:58](https://lobste.rs/s/kegsv1/resizing_windows_on_macos_tahoe_saga) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
+* [2026-02-13, 15:07:14](https://lobste.rs/s/glhu0d/deterministic_simulation_testing) - [Deterministic Simulation Testing: BUGGIFY](https://transactional.blog/simulation/buggify)
 * [2026-02-13, 14:13:23](https://lobste.rs/s/9ltmes/moss_kernel_rust_linux_compatible_kernel) - [moss-kernel: Rust Linux-compatible kernel](https://github.com/hexagonal-sun/moss-kernel)
 * [2026-02-13, 14:02:40](https://lobste.rs/s/jw9fjn/my_first_vulkan_extension) - [My first Vulkan extension](https://christian-gmeiner.info/2026-02-13-my-first-vulkan-extension/)
 * [2026-02-13, 13:14:23](https://lobste.rs/s/wqzxyu/hare_0_26_0_released) - [Hare 0.26.0 released](https://harelang.org/blog/2026-02-13-hare-0.26.0-released/)
