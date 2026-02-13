@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-13, 21:06:10",
+      "https://lobste.rs/s/kdygio/10th_person"
+    ],
+    [
+      "10th Person",
+      "https://blainsmith.com/articles/10th-person/"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 19:26:48",
       "https://lobste.rs/s/ytym8l/functional_data_structures_algorithms"
     ],
@@ -17,16 +27,6 @@
     [
       "ANN: I built a new Ada build tool for personal use",
       "https://github.com/tomekw/tada"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 18:30:19",
-      "https://lobste.rs/s/2codpm/how_we_allowed_remote_code_execution"
-    ],
-    [
-      "How we allowed remote code execution (but safely)",
-      "https://tumuchdata.club/post/coding-challenge-infrastructure/"
     ]
   ],
   [
