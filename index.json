@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-13, 16:45:07",
+      "https://lobste.rs/s/gibxel/nixtamal_1_0_0_released"
+    ],
+    [
+      "Nixtamal 1.0.0 released",
+      "https://nixtamal.toast.al/changelog/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 16:39:41",
+      "https://lobste.rs/s/uttn9z/catalog_refactorings"
+    ],
+    [
+      "Catalog of Refactorings",
+      "https://refactoring.com/catalog/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 16:28:07",
+      "https://lobste.rs/s/z6myes/deep_dive_into_apple_s_car_file_format"
+    ],
+    [
+      "A Deep Dive into Apple's .car File Format",
+      "https://dbg.re/posts/car-file-format/"
+    ]
+  ],
+  [
+    [
       "2026-02-13, 16:11:18",
       "https://lobste.rs/s/qxmhjm/future_software_engineering_future"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-02-13, 15:07:14",
-      "https://lobste.rs/s/glhu0d/deterministic_simulation_testing"
-    ],
-    [
-      "Deterministic Simulation Testing: BUGGIFY",
-      "https://transactional.blog/simulation/buggify"
-    ]
-  ],
-  [
-    [
       "2026-02-13, 14:13:23",
       "https://lobste.rs/s/9ltmes/moss_kernel_rust_linux_compatible_kernel"
     ],
@@ -77,16 +97,6 @@
     [
       "Hare 0.26.0 released",
       "https://harelang.org/blog/2026-02-13-hare-0.26.0-released/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 11:24:17",
-      "https://lobste.rs/s/mwwbnx/flemish_elmish_architecture_for_fltk_rs"
-    ],
-    [
-      "flemish: An elmish architecture for fltk-rs",
-      "https://github.com/fltk-rs/flemish"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "CSS Clicker",
       "https://lyra.horse/css-clicker/"
-    ]
-  ],
-  [
-    [
-      "2026-02-12, 14:15:20",
-      "https://lobste.rs/s/lzn4pr/future_for_tyr_rust_gpu_driver_for_arm_mali"
-    ],
-    [
-      "The future for Tyr, a Rust GPU driver for Arm Mali hardware",
-      "https://lwn.net/Articles/1055590/"
     ]
   ],
   [
