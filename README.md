@@ -11,6 +11,7 @@
 * [2026-02-12, 21:02:23](https://lobste.rs/s/kfg1pf/goto_considered_good_actually) - [GOTO Considered Good, Actually](https://adamledoux.net/blog/posts/2026-02-09-GOTO-Considered-Good--Actually--or--i-made-a-tool-for-writing-casio-calculator-games-using-twine-.html)
 * [2026-02-12, 20:54:23](https://lobste.rs/s/3yq7cc/how_build_distributed_queue_single_json) - [How to build a distributed queue in a single JSON file on object storage](https://turbopuffer.com/blog/object-storage-queue)
 * [2026-02-12, 20:14:57](https://lobste.rs/s/ehw8fx/scripting_on_jvm_with_java_scala_kotlin) - [Scripting on the JVM with Java, Scala, and Kotlin](https://mill-build.org/blog/19-scripting-on-the-jvm.html)
+* [2026-02-12, 19:28:54](https://lobste.rs/s/zsufmx/launching_interop_2026) - [Launching Interop 2026](https://hacks.mozilla.org/2026/02/launching-interop-2026/)
 * [2026-02-12, 18:52:26](https://lobste.rs/s/lel7zt/allocators_from_c_zig) - [Allocators from C to Zig](https://antonz.org/allocators/)
 * [2026-02-12, 18:18:40](https://lobste.rs/s/qtxw92/workledger_offline_first_engineering) - [Workledger - An offline first  engineering notebook](https://about.workledger.org/)
 * [2026-02-12, 17:14:31](https://lobste.rs/s/n4kbuj/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
@@ -24,7 +25,6 @@
 * [2026-02-12, 04:22:26](https://lobste.rs/s/dixmkp/proof_oriented_programming_f) - [Proof-oriented Programming in F*](https://fstar-lang.org/tutorial)
 * [2026-02-11, 21:54:31](https://lobste.rs/s/vrrdhz/do_not_apologize_for_replying_late_my) - [Do not apologize for replying late to my email](https://ploum.net/2026-02-11-do_not_apologize_for_replying_to_my_email.html)
 * [2026-02-11, 18:42:38](https://lobste.rs/s/jkqgrt/majutsu_magit_for_jujutsu) - [Majutsu, Magit for jujutsu](https://github.com/0WD0/majutsu)
-* [2026-02-11, 11:57:10](https://lobste.rs/s/tqttgj/forwardly_evaluated_build_systems) - [Forwardly-evaluated build systems](https://garnix.io/blog/garn2/)
 
 ## [Archives](archives/index.md)
 
