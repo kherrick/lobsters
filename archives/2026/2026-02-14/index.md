@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 15:02:44](https://lobste.rs/s/wjylco/tactical_tornado_2_different_blog_posts) - [Tactical tornado (2 different blog posts)](https://lobste.rs/s/wjylco/tactical_tornado_2_different_blog_posts)
+* [2026-02-14, 14:32:42](https://lobste.rs/s/q57iuj/i_love_work_archwiki_maintainers) - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 * [2026-02-14, 13:55:28](https://lobste.rs/s/vuin9c/building_new_excel_library_one_week) - [Building a New Excel Library in One Week](https://hackers.pub/@nebuleto/2026/en-us-sheetkit-in-one-week)
 * [2026-02-14, 13:35:47](https://lobste.rs/s/l4p4oc/story_wall_street_raider) - [The Story of Wall Street Raider](https://www.wallstreetraider.com/story.html)
 * [2026-02-14, 12:19:34](https://lobste.rs/s/m1mkjm/programmer_s_loss_identity) - [A programmer's loss of identity](https://ratfactor.com/tech-nope2)
