@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-14, 18:52:28](https://lobste.rs/s/z1fphj/instruction_decoding_intel_8087) - [Instruction decoding in the Intel 8087 floating-point chip](http://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 18:12:37](https://lobste.rs/s/qpezqk/commodore_64_birth_cultural_icon) - [The Commodore 64: The Birth of a Cultural Icon](https://www.kickstarter.com/projects/graciousfilms/the-commodore-64-the-birth-of-a-cultural-icon)
-* [2026-02-14, 17:11:56](https://lobste.rs/s/vuoucy/just_5_weeks_brain_training_may_protect) - [Just 5 weeks of brain training may protect against dementia for 20 years](https://www.sciencedaily.com/releases/2026/02/260211073023.htm)
 * [2026-02-14, 17:01:16](https://lobste.rs/s/gz3pa6/font_rendering_from_first_principles) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 * [2026-02-14, 16:22:54](https://lobste.rs/s/k5dqmn/new_repository_settings_for_configuring) - [New repository settings for configuring pull request access - GitHub Changelog](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
 * [2026-02-14, 16:06:04](https://lobste.rs/s/mn4o1h/sharing_dada) - [Sharing in Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/14/sharing-in-dada/)
