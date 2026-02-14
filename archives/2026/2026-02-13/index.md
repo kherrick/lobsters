@@ -7,6 +7,7 @@
 * [2026-02-13, 23:49:14](https://lobste.rs/s/fynfup/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers](https://dacav.org/projects/supercazzola/)
 * [2026-02-13, 21:06:10](https://lobste.rs/s/kdygio/10th_person) - [10th Person](https://blainsmith.com/articles/10th-person/)
 * [2026-02-13, 19:26:48](https://lobste.rs/s/ytym8l/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://fdsa-book.net)
+* [2026-02-13, 19:06:14](https://lobste.rs/s/2fhb28/final_bottleneck) - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
 * [2026-02-13, 18:47:25](https://lobste.rs/s/y6wjav/i_used_local_llm_analyze_my_journal) - [I used a local LLM to analyze my journal entries](https://ankursethi.com/blog/i-used-a-local-llm-to-analyze-my-journal-entries/)
 * [2026-02-13, 18:43:15](https://lobste.rs/s/pgem2t/ann_i_built_new_ada_build_tool_for_personal) - [ANN: I built a new Ada build tool for personal use](https://github.com/tomekw/tada)
 * [2026-02-13, 18:30:19](https://lobste.rs/s/2codpm/how_we_allowed_remote_code_execution) - [How we allowed remote code execution (but safely)](https://tumuchdata.club/post/coding-challenge-infrastructure/)
