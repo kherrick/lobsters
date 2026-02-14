@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 22:21:17](https://lobste.rs/s/yzvbbt/rfc_9110_http_semantics) - [RFC 9110: HTTP Semantics](https://datatracker.ietf.org/doc/html/rfc9110)
 * [2026-02-14, 22:03:48](https://lobste.rs/s/unpaan/arborium_is_ai_slopware_should_not_be) - [Arborium is AI slopware and should not be trusted](https://ewie.online/posts/20260214-arborium-is-ai-slopw/)
 * [2026-02-14, 21:55:10](https://lobste.rs/s/xgoe2y/windows_nt_design_workbook_1990) - [Windows NT Design Workbook (1990)](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/)
 * [2026-02-14, 21:14:32](https://lobste.rs/s/x4vtpq/hacking_pharmacy_get_free_prescription) - [Hacking a pharmacy to get free prescription drugs and more](https://eaton-works.com/2026/02/13/dava-india-hack/)

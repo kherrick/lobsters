@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-14, 22:21:17](https://lobste.rs/s/yzvbbt/rfc_9110_http_semantics) - [RFC 9110: HTTP Semantics](https://datatracker.ietf.org/doc/html/rfc9110)
 * [2026-02-14, 22:03:48](https://lobste.rs/s/unpaan/arborium_is_ai_slopware_should_not_be) - [Arborium is AI slopware and should not be trusted](https://ewie.online/posts/20260214-arborium-is-ai-slopw/)
 * [2026-02-14, 21:55:10](https://lobste.rs/s/xgoe2y/windows_nt_design_workbook_1990) - [Windows NT Design Workbook (1990)](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/)
 * [2026-02-14, 21:14:32](https://lobste.rs/s/x4vtpq/hacking_pharmacy_get_free_prescription) - [Hacking a pharmacy to get free prescription drugs and more](https://eaton-works.com/2026/02/13/dava-india-hack/)
@@ -7,7 +8,6 @@
 * [2026-02-14, 19:32:17](https://lobste.rs/s/tmdwac/borrowed_tuple_indexing_for_hashmap) - [Borrowed tuple indexing for HashMap](https://traxys.me/tuple_borrow.html)
 * [2026-02-14, 19:09:26](https://lobste.rs/s/zao3mz/leaning_into_coding_interview_lean_4_vs) - [Leaning Into the Coding Interview: Lean 4 vs Dafny cage-match](https://ntaylor.ca/posts/proving-the-coding-interview-lean/)
 * [2026-02-14, 18:53:57](https://lobste.rs/s/m8imnx/gitdatamodel_documentation) - [gitdatamodel documentation](https://git-scm.com/docs/gitdatamodel)
-* [2026-02-14, 18:52:28](https://lobste.rs/s/z1fphj/instruction_decoding_intel_8087) - [Instruction decoding in the Intel 8087 floating-point chip](http://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 17:01:16](https://lobste.rs/s/gz3pa6/font_rendering_from_first_principles) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 * [2026-02-14, 16:22:54](https://lobste.rs/s/k5dqmn/new_repository_settings_for_configuring) - [New repository settings for configuring pull request access](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
 * [2026-02-14, 16:06:04](https://lobste.rs/s/mn4o1h/sharing_dada) - [Sharing in Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/14/sharing-in-dada/)
