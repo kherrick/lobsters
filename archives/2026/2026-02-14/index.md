@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 19:32:17](https://lobste.rs/s/tmdwac/borrowed_tuple_indexing_for_hashmap) - [Borrowed tuple indexing for HashMap](https://traxys.me/tuple_borrow.html)
 * [2026-02-14, 19:09:26](https://lobste.rs/s/zao3mz/leaning_into_coding_interview_lean_4_vs) - [Leaning Into the Coding Interview: Lean 4 vs Dafny cage-match](https://ntaylor.ca/posts/proving-the-coding-interview-lean/)
 * [2026-02-14, 18:53:57](https://lobste.rs/s/m8imnx/gitdatamodel_documentation) - [gitdatamodel documentation](https://git-scm.com/docs/gitdatamodel)
 * [2026-02-14, 18:52:28](https://lobste.rs/s/z1fphj/instruction_decoding_intel_8087) - [Instruction decoding in the Intel 8087 floating-point chip](http://www.righto.com/2026/02/8087-instruction-decoding.html)
