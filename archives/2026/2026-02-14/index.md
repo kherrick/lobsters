@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 17:11:56](https://lobste.rs/s/vuoucy/just_5_weeks_brain_training_may_protect) - [Just 5 weeks of brain training may protect against dementia for 20 years](https://www.sciencedaily.com/releases/2026/02/260211073023.htm)
+* [2026-02-14, 17:01:16](https://lobste.rs/s/gz3pa6/font_rendering_from_first_principles) - [Font Rendering from First Principles](https://mccloskeybr.com/articles/font_rendering.html)
 * [2026-02-14, 16:22:54](https://lobste.rs/s/k5dqmn/new_repository_settings_for_configuring) - [New repository settings for configuring pull request access - GitHub Changelog](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
 * [2026-02-14, 16:06:04](https://lobste.rs/s/mn4o1h/sharing_dada) - [Sharing in Dada](https://smallcultfollowing.com/babysteps/blog/2026/02/14/sharing-in-dada/)
 * [2026-02-14, 15:52:11](https://lobste.rs/s/wukx2g/vim_9_2_released) - [Vim 9.2 released](https://www.vim.org/vim-9.2-released.php)
