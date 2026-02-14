@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 13:55:28](https://lobste.rs/s/vuin9c/building_new_excel_library_one_week) - [Building a New Excel Library in One Week](https://hackers.pub/@nebuleto/2026/en-us-sheetkit-in-one-week)
+* [2026-02-14, 13:35:47](https://lobste.rs/s/l4p4oc/story_wall_street_raider) - [The Story of Wall Street Raider](https://www.wallstreetraider.com/story.html)
 * [2026-02-14, 12:19:34](https://lobste.rs/s/m1mkjm/programmer_s_loss_identity) - [A programmer's loss of identity](https://ratfactor.com/tech-nope2)
 * [2026-02-14, 12:18:48](https://lobste.rs/s/br867g/offline_crossplatform_desktop_app_for) - [An offline crossplatform desktop app for cleaning dev caches](https://reclaimr.dev/)
 * [2026-02-14, 08:35:39](https://lobste.rs/s/qt3xs1/understanding_go_runtime_bootstrap) - [Understanding the Go Runtime: The Bootstrap](https://internals-for-interns.com/posts/understanding-go-runtime/)

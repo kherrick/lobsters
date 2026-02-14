@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-14, 13:55:28](https://lobste.rs/s/vuin9c/building_new_excel_library_one_week) - [Building a New Excel Library in One Week](https://hackers.pub/@nebuleto/2026/en-us-sheetkit-in-one-week)
+* [2026-02-14, 13:35:47](https://lobste.rs/s/l4p4oc/story_wall_street_raider) - [The Story of Wall Street Raider](https://www.wallstreetraider.com/story.html)
 * [2026-02-14, 12:19:34](https://lobste.rs/s/m1mkjm/programmer_s_loss_identity) - [A programmer's loss of identity](https://ratfactor.com/tech-nope2)
 * [2026-02-14, 12:18:48](https://lobste.rs/s/br867g/offline_crossplatform_desktop_app_for) - [An offline crossplatform desktop app for cleaning dev caches](https://reclaimr.dev/)
 * [2026-02-14, 08:35:39](https://lobste.rs/s/qt3xs1/understanding_go_runtime_bootstrap) - [Understanding the Go Runtime: The Bootstrap](https://internals-for-interns.com/posts/understanding-go-runtime/)
@@ -8,7 +10,6 @@
 * [2026-02-14, 03:31:32](https://lobste.rs/s/rkobr1/floppy_disks_best_tv_remote_for_kids) - [Floppy Disks: the best TV remote for kids](https://blog.smartere.dk/2026/01/floppy-disks-the-best-tv-remote-for-kids/)
 * [2026-02-14, 01:41:51](https://lobste.rs/s/8wck2c/ai_hater_s_guide_code_with_llms_overview) - [The AI hater's guide to code with LLMs (The Overview)](https://aredridel.dinhe.net/2026/02/12/the-ai-haters-guide-to-code-with-llms/)
 * [2026-02-13, 23:49:14](https://lobste.rs/s/fynfup/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers](https://dacav.org/projects/supercazzola/)
-* [2026-02-13, 19:26:48](https://lobste.rs/s/ytym8l/functional_data_structures_algorithms) - [Functional Data Structures and Algorithms. A Proof Assistant Approach](https://fdsa-book.net)
 * [2026-02-13, 19:06:14](https://lobste.rs/s/2fhb28/final_bottleneck) - [The Final Bottleneck](https://lucumr.pocoo.org/2026/2/13/the-final-bottleneck/)
 * [2026-02-13, 18:43:15](https://lobste.rs/s/pgem2t/ann_i_built_new_ada_build_tool_for_personal) - [ANN: I built a new Ada build tool for personal use](https://github.com/tomekw/tada)
 * [2026-02-13, 18:09:21](https://lobste.rs/s/jcio2j/evolving_git_for_next_decade) - [Evolving Git for the next decade](https://lwn.net/SubscriberLink/1057561/bddc1e61152fadf6/)
@@ -23,7 +24,6 @@
 * [2026-02-13, 14:13:23](https://lobste.rs/s/9ltmes/moss_kernel_rust_linux_compatible_kernel) - [moss-kernel: Rust Linux-compatible kernel](https://github.com/hexagonal-sun/moss-kernel)
 * [2026-02-13, 13:14:23](https://lobste.rs/s/wqzxyu/hare_0_26_0_released) - [Hare 0.26.0 released](https://harelang.org/blog/2026-02-13-hare-0.26.0-released/)
 * [2026-02-13, 09:15:45](https://lobste.rs/s/mclhjq/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mclhjq/what_are_you_doing_this_weekend)
-* [2026-02-12, 18:18:40](https://lobste.rs/s/qtxw92/workledger_offline_first_engineering) - [Workledger - An offline first  engineering notebook](https://about.workledger.org/)
 * [2026-02-12, 17:14:31](https://lobste.rs/s/n4kbuj/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
 
 ## [Archives](archives/index.md)
