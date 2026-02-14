@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2026-02-14, 12:18:48",
-      "https://lobste.rs/s/br867g/offline_crossplatform_desktop_app_for"
-    ],
-    [
-      "An offline crossplatform desktop app for cleaning dev caches",
-      "https://reclaimr.dev/"
-    ]
-  ],
-  [
-    [
       "2026-02-14, 08:35:39",
       "https://lobste.rs/s/qt3xs1/understanding_go_runtime_bootstrap"
     ],
@@ -167,6 +157,16 @@
     [
       "Nixtamal 1.0.0 released",
       "https://nixtamal.toast.al/changelog/"
+    ]
+  ],
+  [
+    [
+      "2026-02-13, 16:28:07",
+      "https://lobste.rs/s/z6myes/deep_dive_into_apple_s_car_file_format"
+    ],
+    [
+      "A Deep Dive into Apple's .car File Format",
+      "https://dbg.re/posts/car-file-format/"
     ]
   ],
   [
