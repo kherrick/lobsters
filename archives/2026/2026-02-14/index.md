@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 15:52:11](https://lobste.rs/s/wukx2g/vim_9_2_released) - [Vim 9.2 released](https://www.vim.org/vim-9.2-released.php)
 * [2026-02-14, 15:02:44](https://lobste.rs/s/wjylco/tactical_tornado_2_different_blog_posts) - [Tactical tornado (2 different blog posts)](https://lobste.rs/s/wjylco/tactical_tornado_2_different_blog_posts)
 * [2026-02-14, 14:32:42](https://lobste.rs/s/q57iuj/i_love_work_archwiki_maintainers) - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 * [2026-02-14, 13:55:28](https://lobste.rs/s/vuin9c/building_new_excel_library_one_week) - [Building a New Excel Library in One Week](https://hackers.pub/@nebuleto/2026/en-us-sheetkit-in-one-week)
