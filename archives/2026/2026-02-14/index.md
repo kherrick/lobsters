@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-14](index.md)
 
+* [2026-02-14, 19:09:26](https://lobste.rs/s/zao3mz/leaning_into_coding_interview_lean_4_vs) - [Leaning Into the Coding Interview: Lean 4 vs Dafny cage-match](https://ntaylor.ca/posts/proving-the-coding-interview-lean/)
+* [2026-02-14, 18:53:57](https://lobste.rs/s/m8imnx/gitdatamodel_documentation) - [gitdatamodel documentation](https://git-scm.com/docs/gitdatamodel)
 * [2026-02-14, 18:52:28](https://lobste.rs/s/z1fphj/instruction_decoding_intel_8087) - [Instruction decoding in the Intel 8087 floating-point chip](http://www.righto.com/2026/02/8087-instruction-decoding.html)
 * [2026-02-14, 18:12:37](https://lobste.rs/s/qpezqk/commodore_64_birth_cultural_icon) - [The Commodore 64: The Birth of a Cultural Icon](https://www.kickstarter.com/projects/graciousfilms/the-commodore-64-the-birth-of-a-cultural-icon)
 * [2026-02-14, 17:11:56](https://lobste.rs/s/vuoucy/just_5_weeks_brain_training_may_protect) - [Just 5 weeks of brain training may protect against dementia for 20 years](https://www.sciencedaily.com/releases/2026/02/260211073023.htm)
