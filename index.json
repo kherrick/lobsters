@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-15, 15:32:42",
+      "https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games"
+    ],
+    [
+      "A simple way to scale pixel art games",
+      "https://30fps.net/pages/pixelart-scaling/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 15:24:41",
       "https://lobste.rs/s/llcigc/ai_is_going_kill_app_subscriptions"
     ],
@@ -157,16 +167,6 @@
     [
       "uBlock filter list to hide all YouTube Shorts",
       "https://github.com/i5heu/ublock-hide-yt-shorts"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 19:32:17",
-      "https://lobste.rs/s/tmdwac/borrowed_tuple_indexing_for_hashmap"
-    ],
-    [
-      "Borrowed tuple indexing for HashMap",
-      "https://traxys.me/tuple_borrow.html"
     ]
   ],
   [
