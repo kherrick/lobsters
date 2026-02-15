@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 14:07:05](https://lobste.rs/s/uvdj0c/single_reason_not_vibe_code) - [A Single Reason To Not Vibe Code](https://asindu.xyz/a-single-reason-to-not-vibe-code)
 * [2026-02-15, 13:55:28](https://lobste.rs/s/dtzfkd/rendering_visible_spectrum) - [Rendering the Visible Spectrum](https://brandonli.net/spectra/doc/)
 * [2026-02-15, 13:36:33](https://lobste.rs/s/uyb4ej/picoclaw_openclaw_on_mcu) - [picoclaw: OpenClaw on an MCU](https://github.com/sipeed/picoclaw)
 * [2026-02-15, 11:45:21](https://lobste.rs/s/3cdwxo/how_michael_abrash_doubled_quake) - [How Michael Abrash doubled Quake framerate](https://fabiensanglard.net/quake_asm_optimizations/index.html)
