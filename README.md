@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-15, 15:32:42](https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2026-02-15, 15:24:41](https://lobste.rs/s/llcigc/ai_is_going_kill_app_subscriptions) - [AI is going to kill app subscriptions](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 * [2026-02-15, 15:06:00](https://lobste.rs/s/fgz5oa/mesa_s_kosmickrisp_vulkan_on_metal) - [Mesa's KosmicKrisp Vulkan-On-Metal Achieves MoltenVK Feature Parity](https://www.phoronix.com/news/KosmicKrisp-Parity)
 * [2026-02-15, 14:36:09](https://lobste.rs/s/qmjejh/ai_is_slowly_munching_away_my_passion) - [AI is slowly munching away my passion](https://whynot.fail/human/ai-is-slowly-munching-away-my-passion/)
@@ -16,7 +17,6 @@
 * [2026-02-14, 21:55:10](https://lobste.rs/s/xgoe2y/windows_nt_design_workbook_1990) - [Windows NT Design Workbook (1990)](https://computernewb.com/~lily/files/Documents/NTDesignWorkbook/)
 * [2026-02-14, 21:14:32](https://lobste.rs/s/x4vtpq/hacking_pharmacy_get_free_prescription) - [Hacking a pharmacy to get free prescription drugs and more](https://eaton-works.com/2026/02/13/dava-india-hack/)
 * [2026-02-14, 20:35:48](https://lobste.rs/s/7kjrtz/ublock_filter_list_hide_all_youtube) - [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
-* [2026-02-14, 19:32:17](https://lobste.rs/s/tmdwac/borrowed_tuple_indexing_for_hashmap) - [Borrowed tuple indexing for HashMap](https://traxys.me/tuple_borrow.html)
 * [2026-02-14, 19:09:26](https://lobste.rs/s/zao3mz/leaning_into_coding_interview_lean_4_vs) - [Leaning Into the Coding Interview: Lean 4 vs Dafny cage-match](https://ntaylor.ca/posts/proving-the-coding-interview-lean/)
 * [2026-02-14, 18:53:57](https://lobste.rs/s/m8imnx/gitdatamodel_documentation) - [gitdatamodel documentation](https://git-scm.com/docs/gitdatamodel)
 * [2026-02-14, 16:22:54](https://lobste.rs/s/k5dqmn/new_repository_settings_for_configuring) - [New repository settings for configuring pull request access](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)

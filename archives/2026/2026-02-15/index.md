@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 15:32:42](https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2026-02-15, 15:24:41](https://lobste.rs/s/llcigc/ai_is_going_kill_app_subscriptions) - [AI is going to kill app subscriptions](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 * [2026-02-15, 15:06:00](https://lobste.rs/s/fgz5oa/mesa_s_kosmickrisp_vulkan_on_metal) - [Mesa's KosmicKrisp Vulkan-On-Metal Achieves MoltenVK Feature Parity](https://www.phoronix.com/news/KosmicKrisp-Parity)
 * [2026-02-15, 14:36:09](https://lobste.rs/s/qmjejh/ai_is_slowly_munching_away_my_passion) - [AI is slowly munching away my passion](https://whynot.fail/human/ai-is-slowly-munching-away-my-passion/)
