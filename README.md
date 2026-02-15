@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-15, 05:39:56](https://lobste.rs/s/xdrdrm/understanding_std_shared_mutex_from_c_17) - [Understanding std::shared_mutex from C++17](https://www.cppstories.com/2026/shared_mutex/)
 * [2026-02-15, 00:57:23](https://lobste.rs/s/av1it1/zig_landed_io_uring_grand_central) - [Zig landed io_uring and Grand Central Dispatch std.Io implementations](https://ziglang.org/devlog/2026/?20260213#2026-02-13)
 * [2026-02-14, 22:21:17](https://lobste.rs/s/yzvbbt/rfc_9110_http_semantics) - [RFC 9110: HTTP Semantics](https://datatracker.ietf.org/doc/html/rfc9110)
 * [2026-02-14, 22:03:48](https://lobste.rs/s/unpaan/arborium_is_ai_slopware_should_not_be) - [Arborium is AI slopware and should not be trusted](https://ewie.online/posts/20260214-arborium-is-ai-slopw/)
@@ -24,7 +25,6 @@
 * [2026-02-13, 16:08:13](https://lobste.rs/s/uyjjtz/microgpt) - [microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 * [2026-02-13, 15:09:58](https://lobste.rs/s/kegsv1/resizing_windows_on_macos_tahoe_saga) - [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
 * [2026-02-13, 14:13:23](https://lobste.rs/s/9ltmes/moss_kernel_rust_linux_compatible_kernel) - [moss-kernel: Rust Linux-compatible kernel](https://github.com/hexagonal-sun/moss-kernel)
-* [2026-02-13, 13:14:23](https://lobste.rs/s/wqzxyu/hare_0_26_0_released) - [Hare 0.26.0 released](https://harelang.org/blog/2026-02-13-hare-0.26.0-released/)
 
 ## [Archives](archives/index.md)
 
