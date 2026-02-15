@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-15, 23:52:02](https://lobste.rs/s/vh9bgg/only_developer_productivity_metrics) - [The only developer productivity metrics that matter](https://genehack.blog/2026/02/the-only-developer-productivity-metrics-that-matter/)
 * [2026-02-15, 22:55:20](https://lobste.rs/s/orb96v/deep_blue) - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
 * [2026-02-15, 22:13:25](https://lobste.rs/s/m2cqe7/gwtar_static_efficient_single_file_html) - [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar)
 * [2026-02-15, 20:58:04](https://lobste.rs/s/dvwczg/is_end_end_encryption_optional_for_large) - [Is End-to-End Encryption Optional For Large Groups?](https://soatok.blog/2026/02/14/is-end-to-end-encryption-optional-for-large-groups/)
 * [2026-02-15, 19:30:21](https://lobste.rs/s/ozrdyz/defer_available_gcc_clang) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-15, 19:20:07](https://lobste.rs/s/kia98b/ideas_for_agent_oriented_programming) - [Ideas for an Agent-Oriented Programming Language](https://davi.sh/blog/2026/02/markov-ideas/)
 * [2026-02-15, 18:51:12](https://lobste.rs/s/nczjph/experiments_with_codemirror_building) - [Experiments with CodeMirror: Building a code review tool](https://aziis98.com/blog/codemirror-review-tool/)
-* [2026-02-15, 17:13:11](https://lobste.rs/s/vrtpl6/flood_fill_vs_magic_circle) - [Flood fill vs. the magic circle](https://www.robinsloan.com/winter-garden/magic-circle/)
 * [2026-02-15, 17:11:54](https://lobste.rs/s/wqzhei/lt6502_6502_based_laptop_design) - [LT6502: A 6502 based laptop design](https://github.com/TechPaula/LT6502)
 * [2026-02-15, 17:04:45](https://lobste.rs/s/vtqlec/towards_fearless_macros_2023) - [Towards Fearless Macros (2023)](https://lambdaland.org/posts/2023-10-17_fearless_macros/)
 * [2026-02-15, 17:04:32](https://lobste.rs/s/apoc9v/e2ee_be_all_end_all_chat) - [E2EE, the be all and end all of chat?](https://amy.is-a.dev/posts/no-e2ee/)
