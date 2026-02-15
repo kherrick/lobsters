@@ -6,6 +6,7 @@
 * [2026-02-15, 18:51:12](https://lobste.rs/s/nczjph/experiments_with_codemirror_building) - [Experiments with CodeMirror: Building a code review tool](https://aziis98.com/blog/codemirror-review-tool/)
 * [2026-02-15, 17:13:11](https://lobste.rs/s/vrtpl6/flood_fill_vs_magic_circle) - [Flood fill vs. the magic circle](https://www.robinsloan.com/winter-garden/magic-circle/)
 * [2026-02-15, 17:11:54](https://lobste.rs/s/wqzhei/lt6502_6502_based_laptop_design) - [LT6502: A 6502 based laptop design](https://github.com/TechPaula/LT6502)
+* [2026-02-15, 17:04:45](https://lobste.rs/s/vtqlec/towards_fearless_macros_2023) - [Towards Fearless Macros (2023)](https://lambdaland.org/posts/2023-10-17_fearless_macros/)
 * [2026-02-15, 17:04:32](https://lobste.rs/s/apoc9v/e2ee_be_all_end_all_chat) - [E2EE, the be all and end all of chat?](https://amy.is-a.dev/posts/no-e2ee/)
 * [2026-02-15, 15:32:42](https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2026-02-15, 15:06:00](https://lobste.rs/s/fgz5oa/mesa_s_kosmickrisp_vulkan_on_metal) - [Mesa's KosmicKrisp Vulkan-On-Metal Achieves MoltenVK Feature Parity](https://www.phoronix.com/news/KosmicKrisp-Parity)
@@ -23,7 +24,6 @@
 * [2026-02-14, 18:53:57](https://lobste.rs/s/m8imnx/gitdatamodel_documentation) - [gitdatamodel documentation](https://git-scm.com/docs/gitdatamodel)
 * [2026-02-14, 16:22:54](https://lobste.rs/s/k5dqmn/new_repository_settings_for_configuring) - [New repository settings for configuring pull request access](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
 * [2026-02-14, 15:52:11](https://lobste.rs/s/wukx2g/vim_9_2_released) - [Vim 9.2 released](https://www.vim.org/vim-9.2-released.php)
-* [2026-02-14, 14:32:42](https://lobste.rs/s/q57iuj/i_love_work_archwiki_maintainers) - [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 * [2026-02-14, 06:33:08](https://lobste.rs/s/fbaxhc/ai_agent_published_hit_piece_on_me_more) - [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 
 ## [Archives](archives/index.md)
