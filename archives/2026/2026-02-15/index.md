@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 19:57:52](https://lobste.rs/s/mudprj/editor_s_note_retraction_article) - [Editor’s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/)
+* [2026-02-15, 19:30:21](https://lobste.rs/s/ozrdyz/defer_available_gcc_clang) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-15, 19:20:07](https://lobste.rs/s/kia98b/ideas_for_agent_oriented_programming) - [Ideas for an Agent-Oriented Programming Language](https://davi.sh/blog/2026/02/markov-ideas/)
 * [2026-02-15, 18:51:12](https://lobste.rs/s/nczjph/experiments_with_codemirror_building) - [Experiments with CodeMirror: Building a code review tool](https://aziis98.com/blog/codemirror-review-tool/)
 * [2026-02-15, 17:40:20](https://lobste.rs/s/map9up/descent_web_browser) - [Descent in web browser](https://mrdoob.github.io/three-descent/)
