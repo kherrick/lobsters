@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-15, 22:13:25",
+      "https://lobste.rs/s/m2cqe7/gwtar_static_efficient_single_file_html"
+    ],
+    [
+      "Gwtar: a static efficient single-file HTML format",
+      "https://gwern.net/gwtar"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 20:58:04",
       "https://lobste.rs/s/dvwczg/is_end_end_encryption_optional_for_large"
     ],
@@ -197,16 +207,6 @@
     [
       "uBlock filter list to hide all YouTube Shorts",
       "https://github.com/i5heu/ublock-hide-yt-shorts"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 19:09:26",
-      "https://lobste.rs/s/zao3mz/leaning_into_coding_interview_lean_4_vs"
-    ],
-    [
-      "Leaning Into the Coding Interview: Lean 4 vs Dafny cage-match",
-      "https://ntaylor.ca/posts/proving-the-coding-interview-lean/"
     ]
   ],
   [
