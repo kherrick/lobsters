@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-15, 22:13:25](https://lobste.rs/s/m2cqe7/gwtar_static_efficient_single_file_html) - [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar)
 * [2026-02-15, 20:58:04](https://lobste.rs/s/dvwczg/is_end_end_encryption_optional_for_large) - [Is End-to-End Encryption Optional For Large Groups?](https://soatok.blog/2026/02/14/is-end-to-end-encryption-optional-for-large-groups/)
 * [2026-02-15, 19:30:21](https://lobste.rs/s/ozrdyz/defer_available_gcc_clang) - [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
 * [2026-02-15, 19:20:07](https://lobste.rs/s/kia98b/ideas_for_agent_oriented_programming) - [Ideas for an Agent-Oriented Programming Language](https://davi.sh/blog/2026/02/markov-ideas/)
@@ -20,7 +21,6 @@
 * [2026-02-14, 22:03:48](https://lobste.rs/s/unpaan/arborium_is_ai_slopware_should_not_be) - [Arborium is AI slopware and should not be trusted](https://ewie.online/posts/20260214-arborium-is-ai-slopw/)
 * [2026-02-14, 21:14:32](https://lobste.rs/s/x4vtpq/hacking_pharmacy_get_free_prescription) - [Hacking a pharmacy to get free prescription drugs and more](https://eaton-works.com/2026/02/13/dava-india-hack/)
 * [2026-02-14, 20:35:48](https://lobste.rs/s/7kjrtz/ublock_filter_list_hide_all_youtube) - [uBlock filter list to hide all YouTube Shorts](https://github.com/i5heu/ublock-hide-yt-shorts)
-* [2026-02-14, 19:09:26](https://lobste.rs/s/zao3mz/leaning_into_coding_interview_lean_4_vs) - [Leaning Into the Coding Interview: Lean 4 vs Dafny cage-match](https://ntaylor.ca/posts/proving-the-coding-interview-lean/)
 * [2026-02-14, 18:53:57](https://lobste.rs/s/m8imnx/gitdatamodel_documentation) - [gitdatamodel documentation](https://git-scm.com/docs/gitdatamodel)
 * [2026-02-14, 16:22:54](https://lobste.rs/s/k5dqmn/new_repository_settings_for_configuring) - [New repository settings for configuring pull request access](https://github.blog/changelog/2026-02-13-new-repository-settings-for-configuring-pull-request-access/)
 * [2026-02-14, 15:52:11](https://lobste.rs/s/wukx2g/vim_9_2_released) - [Vim 9.2 released](https://www.vim.org/vim-9.2-released.php)
