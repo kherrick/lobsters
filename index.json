@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-15, 13:55:28",
+      "https://lobste.rs/s/dtzfkd/rendering_visible_spectrum"
+    ],
+    [
+      "Rendering the Visible Spectrum",
+      "https://brandonli.net/spectra/doc/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 13:36:33",
+      "https://lobste.rs/s/uyb4ej/picoclaw_openclaw_on_mcu"
+    ],
+    [
+      "picoclaw: OpenClaw on an MCU",
+      "https://github.com/sipeed/picoclaw"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 11:45:21",
       "https://lobste.rs/s/3cdwxo/how_michael_abrash_doubled_quake"
     ],
@@ -57,16 +77,6 @@
     [
       "Zig landed io_uring and Grand Central Dispatch std.Io implementations",
       "https://ziglang.org/devlog/2026/?20260213#2026-02-13"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 22:21:17",
-      "https://lobste.rs/s/yzvbbt/rfc_9110_http_semantics"
-    ],
-    [
-      "RFC 9110: HTTP Semantics",
-      "https://datatracker.ietf.org/doc/html/rfc9110"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "I love the work of the ArchWiki maintainers",
       "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 13:35:47",
-      "https://lobste.rs/s/l4p4oc/story_wall_street_raider"
-    ],
-    [
-      "The Story of Wall Street Raider",
-      "https://www.wallstreetraider.com/story.html"
     ]
   ],
   [
