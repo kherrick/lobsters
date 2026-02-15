@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-15](index.md)
 
+* [2026-02-15, 17:29:35](https://lobste.rs/s/bj9okd/how_i_bypassed_microsoft_s_console_ban) - [How I Bypassed Microsoft's Console Ban](https://www.youtube.com/watch?v=wYvaXIC7uu8)
+* [2026-02-15, 17:13:11](https://lobste.rs/s/vrtpl6/flood_fill_vs_magic_circle) - [Flood fill vs. the magic circle](https://www.robinsloan.com/winter-garden/magic-circle/)
 * [2026-02-15, 15:32:42](https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games) - [A simple way to scale pixel art games](https://30fps.net/pages/pixelart-scaling/)
 * [2026-02-15, 15:24:41](https://lobste.rs/s/llcigc/ai_is_going_kill_app_subscriptions) - [AI is going to kill app subscriptions](https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions)
 * [2026-02-15, 15:06:00](https://lobste.rs/s/fgz5oa/mesa_s_kosmickrisp_vulkan_on_metal) - [Mesa's KosmicKrisp Vulkan-On-Metal Achieves MoltenVK Feature Parity](https://www.phoronix.com/news/KosmicKrisp-Parity)
