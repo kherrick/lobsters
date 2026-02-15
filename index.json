@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-15, 05:39:56",
+      "https://lobste.rs/s/xdrdrm/understanding_std_shared_mutex_from_c_17"
+    ],
+    [
+      "Understanding std::shared_mutex from C++17",
+      "https://www.cppstories.com/2026/shared_mutex/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 00:57:23",
       "https://lobste.rs/s/av1it1/zig_landed_io_uring_grand_central"
     ],
@@ -237,16 +247,6 @@
     [
       "moss-kernel: Rust Linux-compatible kernel",
       "https://github.com/hexagonal-sun/moss-kernel"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 13:14:23",
-      "https://lobste.rs/s/wqzxyu/hare_0_26_0_released"
-    ],
-    [
-      "Hare 0.26.0 released",
-      "https://harelang.org/blog/2026-02-13-hare-0.26.0-released/"
     ]
   ]
 ]
