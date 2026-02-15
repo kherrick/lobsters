@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-15, 18:51:12",
+      "https://lobste.rs/s/nczjph/experiments_with_codemirror_building"
+    ],
+    [
+      "Experiments with CodeMirror: Building a code review tool",
+      "https://aziis98.com/blog/codemirror-review-tool/"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 17:13:11",
+      "https://lobste.rs/s/vrtpl6/flood_fill_vs_magic_circle"
+    ],
+    [
+      "Flood fill vs. the magic circle",
+      "https://www.robinsloan.com/winter-garden/magic-circle/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 17:11:54",
       "https://lobste.rs/s/wqzhei/lt6502_6502_based_laptop_design"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2026-02-15, 17:04:32",
+      "https://lobste.rs/s/apoc9v/e2ee_be_all_end_all_chat"
+    ],
+    [
+      "E2EE, the be all and end all of chat?",
+      "https://amy.is-a.dev/posts/no-e2ee/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 15:32:42",
       "https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games"
     ],
@@ -37,16 +67,6 @@
     [
       "AI is going to kill app subscriptions",
       "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 15:06:00",
-      "https://lobste.rs/s/fgz5oa/mesa_s_kosmickrisp_vulkan_on_metal"
-    ],
-    [
-      "Mesa's KosmicKrisp Vulkan-On-Metal Achieves MoltenVK Feature Parity",
-      "https://www.phoronix.com/news/KosmicKrisp-Parity"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "I Fixed Windows Native Development",
       "https://marler8997.github.io/blog/fixed-windows/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 05:39:56",
-      "https://lobste.rs/s/xdrdrm/understanding_std_shared_mutex_from_c_17"
-    ],
-    [
-      "Understanding std::shared_mutex from C++17",
-      "https://www.cppstories.com/2026/shared_mutex/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I love the work of the ArchWiki maintainers",
       "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 12:19:34",
-      "https://lobste.rs/s/m1mkjm/programmer_s_loss_identity"
-    ],
-    [
-      "A programmer's loss of identity",
-      "https://ratfactor.com/tech-nope2"
     ]
   ],
   [
