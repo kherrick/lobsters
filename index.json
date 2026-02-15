@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-15, 17:29:35",
+      "https://lobste.rs/s/bj9okd/how_i_bypassed_microsoft_s_console_ban"
+    ],
+    [
+      "How I Bypassed Microsoft's Console Ban",
+      "https://www.youtube.com/watch?v=wYvaXIC7uu8"
+    ]
+  ],
+  [
+    [
+      "2026-02-15, 17:13:11",
+      "https://lobste.rs/s/vrtpl6/flood_fill_vs_magic_circle"
+    ],
+    [
+      "Flood fill vs. the magic circle",
+      "https://www.robinsloan.com/winter-garden/magic-circle/"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 15:32:42",
       "https://lobste.rs/s/mosgwl/simple_way_scale_pixel_art_games"
     ],
@@ -57,16 +77,6 @@
     [
       "Rendering the Visible Spectrum",
       "https://brandonli.net/spectra/doc/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 13:36:33",
-      "https://lobste.rs/s/uyb4ej/picoclaw_openclaw_on_mcu"
-    ],
-    [
-      "picoclaw: OpenClaw on an MCU",
-      "https://github.com/sipeed/picoclaw"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
       "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/"
-    ]
-  ],
-  [
-    [
-      "2026-02-13, 23:49:14",
-      "https://lobste.rs/s/fynfup/supercazzola_generate_spam_for_web"
-    ],
-    [
-      "Supercazzola - Generate spam for web scrapers",
-      "https://dacav.org/projects/supercazzola/"
     ]
   ]
 ]
