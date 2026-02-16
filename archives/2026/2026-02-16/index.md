@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 22:03:22](https://lobste.rs/s/n23i2x/r_i_p_rest_prompt) - [R.I.P. Rest In Prompt](https://hugodaniel.com/posts/why-llms-keep-editing-the-wrong-file/)
 * [2026-02-16, 20:21:02](https://lobste.rs/s/rjcaly/let_s_practice_bsd_rd) - [Let's practice! (bsd.rd)](https://openbsdjumpstart.org/bsd.rd/)
 * [2026-02-16, 19:12:05](https://lobste.rs/s/btfvud/type_based_alias_analysis_toy_optimizer) - [Type-based alias analysis in the Toy Optimizer](https://bernsteinbear.com/blog/toy-tbaa/)
 * [2026-02-16, 17:23:55](https://lobste.rs/s/twefpn/disko_zfs_declaratively_managing_zfs) - [disko-zfs: Declaratively Managing ZFS Datasets](https://redalder.org/blog/disko-zfs-declaratively-managing-zfs-datasets.html)
