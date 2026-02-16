@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-16](index.md)
 
+* [2026-02-16, 11:57:45](https://lobste.rs/s/nmprop/hardware_totp_authenticator_with_8_layer) - [Hardware TOTP authenticator with 8-layer security architecture (ESP32)](https://github.com/makepkg/SecureGen)
 * [2026-02-16, 10:23:17](https://lobste.rs/s/hzljsi/messageformat_unicode_standard_for) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 * [2026-02-16, 09:28:12](https://lobste.rs/s/uncb9g/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uncb9g/what_are_you_doing_this_week)
 * [2026-02-16, 08:54:07](https://lobste.rs/s/3gc0z4/relationship_between_collatz) - [A relationship between the Collatz conjecture and the Fibonacci numbers](https://vincentrolfs.dev/blog/collatz)

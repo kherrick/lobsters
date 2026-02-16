@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-16, 11:57:45](https://lobste.rs/s/nmprop/hardware_totp_authenticator_with_8_layer) - [Hardware TOTP authenticator with 8-layer security architecture (ESP32)](https://github.com/makepkg/SecureGen)
 * [2026-02-16, 10:23:17](https://lobste.rs/s/hzljsi/messageformat_unicode_standard_for) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
 * [2026-02-16, 09:28:12](https://lobste.rs/s/uncb9g/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/uncb9g/what_are_you_doing_this_week)
 * [2026-02-16, 08:54:07](https://lobste.rs/s/3gc0z4/relationship_between_collatz) - [A relationship between the Collatz conjecture and the Fibonacci numbers](https://vincentrolfs.dev/blog/collatz)
 * [2026-02-16, 06:16:59](https://lobste.rs/s/iisnbr/error_payloads_zig) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 * [2026-02-16, 01:20:28](https://lobste.rs/s/ytqpkb/how_i_manage_my_guix_system_configs) - [How I manage my Guix System configs](https://www.terracrypt.net/posts/guix-config.html)
-* [2026-02-16, 00:36:04](https://lobste.rs/s/53dbtc/quamina_claude_case_1) - [Quamina + Claude, Case 1](https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1)
 * [2026-02-15, 23:57:53](https://lobste.rs/s/jdwug1/runtime_validation_type_annotations) - [Runtime validation in type annotations](https://blog.natfu.be/validation-in-type-annotations/)
 * [2026-02-15, 23:56:56](https://lobste.rs/s/limdiq/more_work_on_tbdfs_database_like_file) - [More work on TBDFS; database-like file system for Plan9](https://www.youtube.com/watch?v=N19XR8VgzdQ)
 * [2026-02-15, 23:52:02](https://lobste.rs/s/vh9bgg/only_developer_productivity_metrics) - [The only developer productivity metrics that matter](https://genehack.blog/2026/02/the-only-developer-productivity-metrics-that-matter/)
