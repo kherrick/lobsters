@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 08:54:07",
+      "https://lobste.rs/s/3gc0z4/relationship_between_collatz"
+    ],
+    [
+      "A relationship between the Collatz conjecture and the Fibonacci numbers",
+      "https://vincentrolfs.dev/blog/collatz"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 08:46:42",
+      "https://lobste.rs/s/rqdfpj/open_source_games_list_open_source_games"
+    ],
+    [
+      "open-source-games: A list of open source games",
+      "https://github.com/bobeff/open-source-games"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 06:16:59",
       "https://lobste.rs/s/iisnbr/error_payloads_zig"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-02-15, 23:56:56",
+      "https://lobste.rs/s/limdiq/more_work_on_tbdfs_database_like_file"
+    ],
+    [
+      "More work on TBDFS; database-like file system for Plan9",
+      "https://www.youtube.com/watch?v=N19XR8VgzdQ"
+    ]
+  ],
+  [
+    [
       "2026-02-15, 23:52:02",
       "https://lobste.rs/s/vh9bgg/only_developer_productivity_metrics"
     ],
@@ -97,26 +127,6 @@
     [
       "Defer available in gcc and clang",
       "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 19:20:07",
-      "https://lobste.rs/s/kia98b/ideas_for_agent_oriented_programming"
-    ],
-    [
-      "Ideas for an Agent-Oriented Programming Language",
-      "https://davi.sh/blog/2026/02/markov-ideas/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 18:51:12",
-      "https://lobste.rs/s/nczjph/experiments_with_codemirror_building"
-    ],
-    [
-      "Experiments with CodeMirror: Building a code review tool",
-      "https://aziis98.com/blog/codemirror-review-tool/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "uBlock filter list to hide all YouTube Shorts",
       "https://github.com/i5heu/ublock-hide-yt-shorts"
-    ]
-  ],
-  [
-    [
-      "2026-02-14, 15:52:11",
-      "https://lobste.rs/s/wukx2g/vim_9_2_released"
-    ],
-    [
-      "Vim 9.2 released",
-      "https://www.vim.org/vim-9.2-released.php"
     ]
   ]
 ]
