@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-16, 06:16:59",
+      "https://lobste.rs/s/iisnbr/error_payloads_zig"
+    ],
+    [
+      "Error payloads in Zig",
+      "https://srcreigh.ca/posts/error-payloads-in-zig/"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 01:37:32",
       "https://lobste.rs/s/frlrci/fosdem_2026_matrix_state_union"
     ],
@@ -37,16 +47,6 @@
     [
       "Runtime validation in type annotations",
       "https://blog.natfu.be/validation-in-type-annotations/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 23:56:56",
-      "https://lobste.rs/s/limdiq/more_work_on_tbdfs_database_like_file"
-    ],
-    [
-      "More work on TBDFS; database-like file system for Plan9",
-      "https://www.youtube.com/watch?v=N19XR8VgzdQ"
     ]
   ],
   [
