@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-16, 06:16:59](https://lobste.rs/s/iisnbr/error_payloads_zig) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
 * [2026-02-16, 01:37:32](https://lobste.rs/s/frlrci/fosdem_2026_matrix_state_union) - [FOSDEM 2026 - Matrix State of the Union](https://fosdem.org/2026/schedule/event/URX89L-matrix-state-of-the-union/)
 * [2026-02-16, 01:20:28](https://lobste.rs/s/ytqpkb/how_i_manage_my_guix_system_configs) - [How I manage my Guix System configs](https://www.terracrypt.net/posts/guix-config.html)
 * [2026-02-16, 00:36:04](https://lobste.rs/s/53dbtc/quamina_claude_case_1) - [Quamina + Claude, Case 1](https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1)
 * [2026-02-15, 23:57:53](https://lobste.rs/s/jdwug1/runtime_validation_type_annotations) - [Runtime validation in type annotations](https://blog.natfu.be/validation-in-type-annotations/)
-* [2026-02-15, 23:56:56](https://lobste.rs/s/limdiq/more_work_on_tbdfs_database_like_file) - [More work on TBDFS; database-like file system for Plan9](https://www.youtube.com/watch?v=N19XR8VgzdQ)
 * [2026-02-15, 23:52:02](https://lobste.rs/s/vh9bgg/only_developer_productivity_metrics) - [The only developer productivity metrics that matter](https://genehack.blog/2026/02/the-only-developer-productivity-metrics-that-matter/)
 * [2026-02-15, 22:55:20](https://lobste.rs/s/orb96v/deep_blue) - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
 * [2026-02-15, 22:13:25](https://lobste.rs/s/m2cqe7/gwtar_static_efficient_single_file_html) - [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar)
