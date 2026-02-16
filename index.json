@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-16, 17:23:55",
-      "https://lobste.rs/s/twefpn/disko_zfs_declaratively_managing_zfs"
+      "2026-02-16, 19:12:05",
+      "https://lobste.rs/s/btfvud/type_based_alias_analysis_toy_optimizer"
     ],
     [
-      "disko-zfs: Declaratively Managing ZFS Datasets",
-      "https://redalder.org/blog/disko-zfs-declaratively-managing-zfs-datasets.html"
+      "Type-based alias analysis in the Toy Optimizer",
+      "https://bernsteinbear.com/blog/toy-tbaa/"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://lobste.rs/s/i2llks/ggml_gguf_file_format_vulnerabilities"
     ],
     [
-      "GGML GGUF File Format Vulnerabilities",
+      "GGML GGUF File Format Vulnerabilities (2024)",
       "https://www.databricks.com/blog/ggml-gguf-file-format-vulnerabilities"
     ]
   ],
