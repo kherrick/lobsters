@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-16, 14:24:01",
+      "https://lobste.rs/s/stwus1/i_sold_out_for_20_month_all_i_got_was_this"
+    ],
+    [
+      "I Sold Out for $20 a Month and All I Got Was This Perfectly Generated Terraform",
+      "https://matduggan.com/i-sold-out-for-200-a-month-and-all-i-got-was-this-perfectly-generated-terraform/"
+    ]
+  ],
+  [
+    [
+      "2026-02-16, 13:44:50",
+      "https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding"
+    ],
+    [
+      "Please consider tagging a vibecoding griefpost or hypepost as a rant",
+      "https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding"
+    ]
+  ],
+  [
+    [
       "2026-02-16, 11:57:45",
       "https://lobste.rs/s/nmprop/hardware_totp_authenticator_with_8_layer"
     ],
@@ -57,16 +77,6 @@
     [
       "Error payloads in Zig",
       "https://srcreigh.ca/posts/error-payloads-in-zig/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 01:20:28",
-      "https://lobste.rs/s/ytqpkb/how_i_manage_my_guix_system_configs"
-    ],
-    [
-      "How I manage my Guix System configs",
-      "https://www.terracrypt.net/posts/guix-config.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I Fixed Windows Native Development",
       "https://marler8997.github.io/blog/fixed-windows/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 00:57:23",
-      "https://lobste.rs/s/av1it1/zig_landed_io_uring_grand_central"
-    ],
-    [
-      "Zig landed io_uring and Grand Central Dispatch std.Io implementations",
-      "https://ziglang.org/devlog/2026/?20260213#2026-02-13"
     ]
   ],
   [
