@@ -8,6 +8,7 @@
 * [2026-02-16, 20:21:02](https://lobste.rs/s/rjcaly/let_s_practice_bsd_rd) - [Let's practice! (bsd.rd)](https://openbsdjumpstart.org/bsd.rd/)
 * [2026-02-16, 19:12:05](https://lobste.rs/s/btfvud/type_based_alias_analysis_toy_optimizer) - [Type-based alias analysis in the Toy Optimizer](https://bernsteinbear.com/blog/toy-tbaa/)
 * [2026-02-16, 17:23:55](https://lobste.rs/s/twefpn/disko_zfs_declaratively_managing_zfs) - [disko-zfs: Declaratively Managing ZFS Datasets](https://redalder.org/blog/disko-zfs-declaratively-managing-zfs-datasets.html)
+* [2026-02-16, 16:59:41](https://lobste.rs/s/kvlbpa/i_joined_mariadb_foundation) - [I joined the MariaDB Foundation](https://lefred.be/content/i-joined-the-mariadb-foundation/)
 * [2026-02-16, 15:58:51](https://lobste.rs/s/rybouo/browse_code_by_meaning) - [Browse code by meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)
 * [2026-02-16, 15:58:15](https://lobste.rs/s/pqn3u0/til_docker_log_rotation) - [TIL: Docker log rotation](https://ntietz.com/blog/til-docker-log-rotation/)
 * [2026-02-16, 15:47:49](https://lobste.rs/s/3bzakb/building_foss_live_streaming_camera) - [Building a FOSS live streaming camera](https://blog.brixit.nl/building-a-custom-live-streaming-camera/)
