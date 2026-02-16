@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-16, 20:21:02](https://lobste.rs/s/rjcaly/let_s_practice_bsd_rd) - [Let's practice! (bsd.rd)](https://openbsdjumpstart.org/bsd.rd/)
 * [2026-02-16, 19:12:05](https://lobste.rs/s/btfvud/type_based_alias_analysis_toy_optimizer) - [Type-based alias analysis in the Toy Optimizer](https://bernsteinbear.com/blog/toy-tbaa/)
+* [2026-02-16, 17:23:55](https://lobste.rs/s/twefpn/disko_zfs_declaratively_managing_zfs) - [disko-zfs: Declaratively Managing ZFS Datasets](https://redalder.org/blog/disko-zfs-declaratively-managing-zfs-datasets.html)
 * [2026-02-16, 15:58:51](https://lobste.rs/s/rybouo/browse_code_by_meaning) - [Browse code by meaning](https://haskellforall.com/2026/02/browse-code-by-meaning)
 * [2026-02-16, 15:58:15](https://lobste.rs/s/pqn3u0/til_docker_log_rotation) - [TIL: Docker log rotation](https://ntietz.com/blog/til-docker-log-rotation/)
 * [2026-02-16, 15:47:49](https://lobste.rs/s/3bzakb/building_foss_live_streaming_camera) - [Building a FOSS live streaming camera](https://blog.brixit.nl/building-a-custom-live-streaming-camera/)
@@ -14,7 +16,6 @@
 * [2026-02-16, 08:54:07](https://lobste.rs/s/3gc0z4/relationship_between_collatz) - [A relationship between the Collatz conjecture and the Fibonacci numbers](https://vincentrolfs.dev/blog/collatz)
 * [2026-02-16, 08:46:42](https://lobste.rs/s/rqdfpj/open_source_games_list_open_source_games) - [open-source-games: A list of open source games](https://github.com/bobeff/open-source-games)
 * [2026-02-16, 06:16:59](https://lobste.rs/s/iisnbr/error_payloads_zig) - [Error payloads in Zig](https://srcreigh.ca/posts/error-payloads-in-zig/)
-* [2026-02-15, 23:57:53](https://lobste.rs/s/jdwug1/runtime_validation_type_annotations) - [Runtime validation in type annotations](https://blog.natfu.be/validation-in-type-annotations/)
 * [2026-02-15, 23:52:02](https://lobste.rs/s/vh9bgg/only_developer_productivity_metrics) - [The only developer productivity metrics that matter](https://genehack.blog/2026/02/the-only-developer-productivity-metrics-that-matter/)
 * [2026-02-15, 22:55:20](https://lobste.rs/s/orb96v/deep_blue) - [Deep Blue](https://simonwillison.net/2026/Feb/15/deep-blue/)
 * [2026-02-15, 22:13:25](https://lobste.rs/s/m2cqe7/gwtar_static_efficient_single_file_html) - [Gwtar: a static efficient single-file HTML format](https://gwern.net/gwtar)
@@ -24,7 +25,6 @@
 * [2026-02-15, 14:36:09](https://lobste.rs/s/qmjejh/ai_is_slowly_munching_away_my_passion) - [AI is slowly munching away my passion](https://whynot.fail/human/ai-is-slowly-munching-away-my-passion/)
 * [2026-02-15, 14:07:05](https://lobste.rs/s/uvdj0c/single_reason_not_vibe_code) - [A Single Reason To Not Vibe Code](https://asindu.xyz/a-single-reason-to-not-vibe-code)
 * [2026-02-15, 11:45:21](https://lobste.rs/s/3cdwxo/how_michael_abrash_doubled_quake) - [How Michael Abrash doubled Quake framerate](https://fabiensanglard.net/quake_asm_optimizations/index.html)
-* [2026-02-15, 07:51:52](https://lobste.rs/s/hirsns/i_fixed_windows_native_development) - [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
 
 ## [Archives](archives/index.md)
 
