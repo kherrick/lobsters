@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 10:14:39](https://lobste.rs/s/p8whjc/building_sqlite_with_small_swarm) - [building sqlite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
+* [2026-02-17, 10:12:51](https://lobste.rs/s/qs7usa/lcm_lossless_context_management) - [LCM: Lossless Context Management](https://papers.voltropy.com/LCM)
+* [2026-02-17, 10:11:31](https://lobste.rs/s/m6gttd/long_tail_llm_assisted_decompilation) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
 * [2026-02-17, 09:56:36](https://lobste.rs/s/w66m3a/java_evolved_code_snippets) - [java.evolved Code Snippets](https://javaevolved.github.io)
 * [2026-02-17, 09:34:34](https://lobste.rs/s/psvif8/broken_heart) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
 * [2026-02-17, 08:35:05](https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform) - [The Servo project and its impact on the web platform ecosystem](https://servo.org/slides/2026-02-fosdem-servo-web-platform/)
