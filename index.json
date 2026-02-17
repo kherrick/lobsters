@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-17, 03:45:34",
+      "https://lobste.rs/s/xxvo3g/from_text_token_how_tokenization"
+    ],
+    [
+      "From Text to Token: How Tokenization Pipelines Work",
+      "https://www.paradedb.com/blog/when-tokenization-becomes-token"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 02:11:33",
+      "https://lobste.rs/s/ov9qvf/poor_deming_never_stood_chance"
+    ],
+    [
+      "Poor Deming never stood a chance",
+      "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 02:00:48",
       "https://lobste.rs/s/qk00ml/fixapl"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-02-15, 22:13:25",
-      "https://lobste.rs/s/m2cqe7/gwtar_static_efficient_single_file_html"
-    ],
-    [
-      "Gwtar: a static efficient single-file HTML format",
-      "https://gwern.net/gwtar"
-    ]
-  ],
-  [
-    [
       "2026-02-15, 20:58:04",
       "https://lobste.rs/s/dvwczg/is_end_end_encryption_optional_for_large"
     ],
@@ -237,16 +247,6 @@
     [
       "A Single Reason To Not Vibe Code",
       "https://asindu.xyz/a-single-reason-to-not-vibe-code"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 11:45:21",
-      "https://lobste.rs/s/3cdwxo/how_michael_abrash_doubled_quake"
-    ],
-    [
-      "How Michael Abrash doubled Quake framerate",
-      "https://fabiensanglard.net/quake_asm_optimizations/index.html"
     ]
   ]
 ]
