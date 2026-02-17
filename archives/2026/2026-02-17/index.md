@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 11:23:33](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design) - [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
 * [2026-02-17, 10:14:39](https://lobste.rs/s/p8whjc/building_sqlite_with_small_swarm) - [building sqlite with a small swarm](https://kiankyars.github.io/machine_learning/2026/02/12/sqlite.html)
 * [2026-02-17, 10:12:51](https://lobste.rs/s/qs7usa/lcm_lossless_context_management) - [LCM: Lossless Context Management](https://papers.voltropy.com/LCM)
 * [2026-02-17, 10:11:31](https://lobste.rs/s/m6gttd/long_tail_llm_assisted_decompilation) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
