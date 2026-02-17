@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-17, 11:23:33",
+      "https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design"
+    ],
+    [
+      "Fast sorting, branchless by design",
+      "https://00f.net/2026/02/17/sorting-without-leaking-secrets/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 10:14:39",
       "https://lobste.rs/s/p8whjc/building_sqlite_with_small_swarm"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2026-02-17, 09:56:36",
-      "https://lobste.rs/s/w66m3a/java_evolved_code_snippets"
-    ],
-    [
-      "java.evolved Code Snippets",
-      "https://javaevolved.github.io"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 09:34:34",
       "https://lobste.rs/s/psvif8/broken_heart"
     ],
@@ -65,7 +65,7 @@
       "https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic"
     ],
     [
-      "An AI Called Winter: Neurosymbolic Computation or Illusion? -- Dustycloud Brainstorms",
+      "An AI Called Winter: Neurosymbolic Computation or Illusion?",
       "https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/"
     ]
   ],
