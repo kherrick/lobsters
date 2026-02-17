@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-17, 18:53:45",
+      "https://lobste.rs/s/eec8ez/oat_ultra_lightweight_ui_library"
+    ],
+    [
+      "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
+      "https://oat.ink/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 18:21:22",
+      "https://lobste.rs/s/yn5zjh/terminals_should_generate_256_color"
+    ],
+    [
+      "Terminals should generate the 256-color palette",
+      "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 17:10:44",
       "https://lobste.rs/s/vudtax/plasma_6_6_released"
     ],
@@ -57,16 +77,6 @@
     [
       "How a single typo led to RCE in Firefox",
       "https://kqx.io/post/firefox0day/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 14:24:13",
-      "https://lobste.rs/s/shc2qg/zero_knowledge_about_encryption"
-    ],
-    [
-      "Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers",
-      "https://eprint.iacr.org/2026/058.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "TIL: Docker log rotation",
       "https://ntietz.com/blog/til-docker-log-rotation/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 13:44:50",
-      "https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding"
-    ],
-    [
-      "Please consider tagging a vibecoding griefpost or hypepost as a rant",
-      "https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding"
     ]
   ]
 ]
