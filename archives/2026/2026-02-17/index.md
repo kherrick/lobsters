@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 14:05:43](https://lobste.rs/s/jxacm8/doctor_xaelong_how_i_learnt_stop_worrying) - [Doctor Xælong, or: How I learnt to stop worrying and love AI](https://tweag.io/blog/2026-02-12-doctor-xaelong/)
+* [2026-02-17, 13:53:39](https://lobste.rs/s/syv21m/dangerously_skip_reading_code) - [--dangerously-skip-reading-code](https://olano.dev/blog/dangerously-skip)
+* [2026-02-17, 13:45:56](https://lobste.rs/s/hax4cv/undo_vi_its_successors) - [Undo in Vi and its successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
+* [2026-02-17, 13:44:25](https://lobste.rs/s/rvckuy/sometimes_giving_syndication_feed) - [Sometimes giving syndication feed readers good errors is a mistake](https://utcc.utoronto.ca/~cks/space/blog/web/FeedReaderErrorsProblemII)
 * [2026-02-17, 12:00:07](https://lobste.rs/s/0xodyl/ai_agent_lands_prs_major_oss_projects) - [AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
 * [2026-02-17, 11:48:07](https://lobste.rs/s/c6cg0b/next_version_curling_io) - [The Next Version of Curling IO](https://curling.io/blog/the-next-version-of-curling-io)
 * [2026-02-17, 11:23:33](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design) - [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
