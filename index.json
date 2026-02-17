@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-02-17, 14:59:45",
+      "https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis"
+    ],
+    [
+      "Babashka 1.12.215: Revenge of the TUIs",
+      "https://blog.michielborkent.nl/babashka-1.12.215.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 14:52:14",
+      "https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox"
+    ],
+    [
+      "How a single typo led to RCE in Firefox",
+      "https://kqx.io/post/firefox0day/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 14:14:24",
+      "https://lobste.rs/s/e7u05i/evolution_x86_simd_from_sse_avx_512"
+    ],
+    [
+      "The Evolution of x86 SIMD: From SSE to AVX-512",
+      "https://bgslabs.org/blog/evolution-of-x86-simd/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 14:05:43",
       "https://lobste.rs/s/jxacm8/doctor_xaelong_how_i_learnt_stop_worrying"
     ],
     [
       "Doctor Xælong, or: How I learnt to stop worrying and love AI",
       "https://tweag.io/blog/2026-02-12-doctor-xaelong/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 14:04:09",
+      "https://lobste.rs/s/tt6ieg/vinyl_cache_has_left_github"
+    ],
+    [
+      "Vinyl Cache has left github",
+      "https://vinyl-cache.org/organization/moving.html"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2026-02-17, 03:14:26",
-      "https://lobste.rs/s/e7ljnr/level_detail"
-    ],
-    [
-      "Level of Detail",
-      "https://phinze.com/writing/level-of-detail"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 02:11:33",
       "https://lobste.rs/s/ov9qvf/poor_deming_never_stood_chance"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-02-16, 17:23:55",
-      "https://lobste.rs/s/twefpn/disko_zfs_declaratively_managing_zfs"
-    ],
-    [
-      "disko-zfs: Declaratively Managing ZFS Datasets",
-      "https://redalder.org/blog/disko-zfs-declaratively-managing-zfs-datasets.html"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 15:58:51",
       "https://lobste.rs/s/rybouo/browse_code_by_meaning"
     ],
@@ -197,16 +217,6 @@
     [
       "TIL: Docker log rotation",
       "https://ntietz.com/blog/til-docker-log-rotation/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 14:18:44",
-      "https://lobste.rs/s/uzeauh/diagnostics_factory"
-    ],
-    [
-      "Diagnostics Factory",
-      "https://matklad.github.io/2026/02/16/diagnostics-factory.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A relationship between the Collatz conjecture and the Fibonacci numbers",
       "https://vincentrolfs.dev/blog/collatz"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 08:46:42",
-      "https://lobste.rs/s/rqdfpj/open_source_games_list_open_source_games"
-    ],
-    [
-      "open-source-games: A list of open source games",
-      "https://github.com/bobeff/open-source-games"
     ]
   ]
 ]
