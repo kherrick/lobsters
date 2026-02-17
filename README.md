@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-17, 15:56:39](https://lobste.rs/s/wnpnzu/please_don_t_at_here_on_slack) - [Please don't at-here on Slack](https://noathere.org)
+* [2026-02-17, 15:44:55](https://lobste.rs/s/f8za1d/what_is_messaging_layer_security_mls) - [What is Messaging Layer Security (MLS)?](https://messaginglayersecurity.rocks/)
 * [2026-02-17, 14:59:45](https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis) - [Babashka 1.12.215: Revenge of the TUIs](https://blog.michielborkent.nl/babashka-1.12.215.html)
 * [2026-02-17, 14:52:14](https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox) - [How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
 * [2026-02-17, 14:14:24](https://lobste.rs/s/e7u05i/evolution_x86_simd_from_sse_avx_512) - [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)
@@ -11,7 +13,6 @@
 * [2026-02-17, 12:00:07](https://lobste.rs/s/0xodyl/ai_agent_lands_prs_major_oss_projects) - [AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
 * [2026-02-17, 11:48:07](https://lobste.rs/s/c6cg0b/next_version_curling_io) - [The Next Version of Curling IO](https://curling.io/blog/the-next-version-of-curling-io)
 * [2026-02-17, 11:23:33](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design) - [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
-* [2026-02-17, 10:11:31](https://lobste.rs/s/m6gttd/long_tail_llm_assisted_decompilation) - [The Long Tail of LLM-Assisted Decompilation](https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/)
 * [2026-02-17, 09:34:34](https://lobste.rs/s/psvif8/broken_heart) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
 * [2026-02-17, 08:35:05](https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform) - [The Servo project and its impact on the web platform ecosystem](https://servo.org/slides/2026-02-fosdem-servo-web-platform/)
 * [2026-02-17, 07:33:44](https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic) - [An AI Called Winter: Neurosymbolic Computation or Illusion?](https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/)
@@ -24,7 +25,6 @@
 * [2026-02-16, 15:58:15](https://lobste.rs/s/pqn3u0/til_docker_log_rotation) - [TIL: Docker log rotation](https://ntietz.com/blog/til-docker-log-rotation/)
 * [2026-02-16, 13:44:50](https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding) - [Please consider tagging a vibecoding griefpost or hypepost as a rant](https://lobste.rs/s/jdoe4x/please_consider_tagging_vibecoding)
 * [2026-02-16, 10:23:17](https://lobste.rs/s/hzljsi/messageformat_unicode_standard_for) - [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
-* [2026-02-16, 08:54:07](https://lobste.rs/s/3gc0z4/relationship_between_collatz) - [A relationship between the Collatz conjecture and the Fibonacci numbers](https://vincentrolfs.dev/blog/collatz)
 
 ## [Archives](archives/index.md)
 

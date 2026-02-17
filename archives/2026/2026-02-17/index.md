@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
+* [2026-02-17, 15:56:39](https://lobste.rs/s/wnpnzu/please_don_t_at_here_on_slack) - [Please don't at-here on Slack](https://noathere.org)
+* [2026-02-17, 15:44:55](https://lobste.rs/s/f8za1d/what_is_messaging_layer_security_mls) - [What is Messaging Layer Security (MLS)?](https://messaginglayersecurity.rocks/)
 * [2026-02-17, 14:59:45](https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis) - [Babashka 1.12.215: Revenge of the TUIs](https://blog.michielborkent.nl/babashka-1.12.215.html)
 * [2026-02-17, 14:52:14](https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox) - [How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
 * [2026-02-17, 14:14:24](https://lobste.rs/s/e7u05i/evolution_x86_simd_from_sse_avx_512) - [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)
