@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-17, 09:56:36",
+      "https://lobste.rs/s/w66m3a/java_evolved_code_snippets"
+    ],
+    [
+      "java.evolved Code Snippets",
+      "https://javaevolved.github.io"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 09:34:34",
+      "https://lobste.rs/s/psvif8/broken_heart"
+    ],
+    [
+      "A Broken Heart",
+      "https://allenpike.com/2026/a-broken-heart/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 08:35:05",
       "https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform"
     ],
@@ -17,6 +37,16 @@
     [
       "An AI Called Winter: Neurosymbolic Computation or Illusion? -- Dustycloud Brainstorms",
       "https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 03:45:34",
+      "https://lobste.rs/s/xxvo3g/from_text_token_how_tokenization"
+    ],
+    [
+      "From Text to Token: How Tokenization Pipelines Work",
+      "https://www.paradedb.com/blog/when-tokenization-becomes-token"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "Let's practice! (bsd.rd)",
       "https://openbsdjumpstart.org/bsd.rd/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 19:12:05",
-      "https://lobste.rs/s/btfvud/type_based_alias_analysis_toy_optimizer"
-    ],
-    [
-      "Type-based alias analysis in the Toy Optimizer",
-      "https://bernsteinbear.com/blog/toy-tbaa/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-02-16, 09:28:12",
-      "https://lobste.rs/s/uncb9g/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/uncb9g/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2026-02-16, 08:54:07",
       "https://lobste.rs/s/3gc0z4/relationship_between_collatz"
     ],
@@ -227,16 +237,6 @@
     [
       "Is End-to-End Encryption Optional For Large Groups?",
       "https://soatok.blog/2026/02/14/is-end-to-end-encryption-optional-for-large-groups/"
-    ]
-  ],
-  [
-    [
-      "2026-02-15, 19:30:21",
-      "https://lobste.rs/s/ozrdyz/defer_available_gcc_clang"
-    ],
-    [
-      "Defer available in gcc and clang",
-      "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/"
     ]
   ],
   [
