@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-17, 15:56:39",
+      "https://lobste.rs/s/wnpnzu/please_don_t_at_here_on_slack"
+    ],
+    [
+      "Please don't at-here on Slack",
+      "https://noathere.org"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 15:44:55",
+      "https://lobste.rs/s/f8za1d/what_is_messaging_layer_security_mls"
+    ],
+    [
+      "What is Messaging Layer Security (MLS)?",
+      "https://messaginglayersecurity.rocks/"
+    ]
+  ],
+  [
+    [
       "2026-02-17, 14:59:45",
       "https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis"
     ],
@@ -107,16 +127,6 @@
     [
       "Fast sorting, branchless by design",
       "https://00f.net/2026/02/17/sorting-without-leaking-secrets/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 10:11:31",
-      "https://lobste.rs/s/m6gttd/long_tail_llm_assisted_decompilation"
-    ],
-    [
-      "The Long Tail of LLM-Assisted Decompilation",
-      "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "MessageFormat: Unicode standard for localizable message strings",
       "https://github.com/unicode-org/message-format-wg"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 08:54:07",
-      "https://lobste.rs/s/3gc0z4/relationship_between_collatz"
-    ],
-    [
-      "A relationship between the Collatz conjecture and the Fibonacci numbers",
-      "https://vincentrolfs.dev/blog/collatz"
     ]
   ]
 ]
