@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-17, 15:56:39](https://lobste.rs/s/wnpnzu/please_don_t_at_here_on_slack) - [Please don't at-here on Slack](https://noathere.org)
+* [2026-02-17, 16:30:33](https://lobste.rs/s/40ndqz/using_go_fix_modernize_go_code) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
 * [2026-02-17, 15:44:55](https://lobste.rs/s/f8za1d/what_is_messaging_layer_security_mls) - [What is Messaging Layer Security (MLS)?](https://messaginglayersecurity.rocks/)
 * [2026-02-17, 14:59:45](https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis) - [Babashka 1.12.215: Revenge of the TUIs](https://blog.michielborkent.nl/babashka-1.12.215.html)
 * [2026-02-17, 14:52:14](https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox) - [How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
+* [2026-02-17, 14:24:13](https://lobste.rs/s/shc2qg/zero_knowledge_about_encryption) - [Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers](https://eprint.iacr.org/2026/058.pdf)
 * [2026-02-17, 14:14:24](https://lobste.rs/s/e7u05i/evolution_x86_simd_from_sse_avx_512) - [The Evolution of x86 SIMD: From SSE to AVX-512](https://bgslabs.org/blog/evolution-of-x86-simd/)
-* [2026-02-17, 14:05:43](https://lobste.rs/s/jxacm8/doctor_xaelong_how_i_learnt_stop_worrying) - [Doctor Xælong, or: How I learnt to stop worrying and love AI](https://tweag.io/blog/2026-02-12-doctor-xaelong/)
 * [2026-02-17, 14:04:09](https://lobste.rs/s/tt6ieg/vinyl_cache_has_left_github) - [Vinyl Cache has left github](https://vinyl-cache.org/organization/moving.html)
 * [2026-02-17, 13:53:39](https://lobste.rs/s/syv21m/dangerously_skip_reading_code) - [--dangerously-skip-reading-code](https://olano.dev/blog/dangerously-skip)
 * [2026-02-17, 13:45:56](https://lobste.rs/s/hax4cv/undo_vi_its_successors) - [Undo in Vi and its successors](https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews)
