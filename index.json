@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-18, 22:34:38",
+      "https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent"
+    ],
+    [
+      "Why I don't think AGI is imminent",
+      "https://dlants.me/agi-not-imminent.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 21:23:46",
+      "https://lobste.rs/s/mzfdcf/130k_lines_formal_topology_two_weeks"
+    ],
+    [
+      "130k Lines of Formal Topology in Two Weeks: Simple and Cheap Autoformalization for Everyone?",
+      "https://arxiv.org/abs/2601.03298"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 20:17:21",
       "https://lobste.rs/s/m2ouss/current_rss_reader"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-02-17, 18:53:45",
-      "https://lobste.rs/s/eec8ez/oat_ultra_lightweight_ui_library"
-    ],
-    [
-      "Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies",
-      "https://oat.ink/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 18:21:22",
       "https://lobste.rs/s/yn5zjh/terminals_should_generate_256_color"
     ],
@@ -227,16 +237,6 @@
     [
       "Babashka 1.12.215: Revenge of the TUIs",
       "https://blog.michielborkent.nl/babashka-1.12.215.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 14:52:14",
-      "https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox"
-    ],
-    [
-      "How a single typo led to RCE in Firefox",
-      "https://kqx.io/post/firefox0day/"
     ]
   ],
   [
