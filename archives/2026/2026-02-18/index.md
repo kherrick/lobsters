@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 17:48:18](https://lobste.rs/s/zk2u9e/dns_persist_01_new_model_for_dns_based) - [DNS-PERSIST-01: A New Model for DNS-based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
 * [2026-02-18, 14:59:22](https://lobste.rs/s/mzlywv/global_trust_register_1999) - [The Global Trust Register (1999)](https://www.cl.cam.ac.uk/research/security/OLD/Trust-Register/index-1998.html)
 * [2026-02-18, 14:14:09](https://lobste.rs/s/osljfj/understanding_whole_program_paths_path) - [Understanding Whole Program Paths and Path Profiling](https://abhamra.com/blog/path-profiling/)
 * [2026-02-18, 14:09:45](https://lobste.rs/s/gyyxad/avx2_is_slower_than_sse2_4_x_under_windows) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
