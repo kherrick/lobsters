@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-18, 23:20:08](https://lobste.rs/s/es58bi/rust_on_cheriot_status_update_0) - [Rust on CHERIoT: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
 * [2026-02-18, 22:34:38](https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 * [2026-02-18, 21:23:46](https://lobste.rs/s/mzfdcf/130k_lines_formal_topology_two_weeks) - [130k Lines of Formal Topology in Two Weeks: Simple and Cheap Autoformalization for Everyone?](https://arxiv.org/abs/2601.03298)
 * [2026-02-18, 20:17:21](https://lobste.rs/s/m2ouss/current_rss_reader) - [Current - An RSS reader](https://www.terrygodier.com/current)
@@ -7,7 +8,6 @@
 * [2026-02-18, 18:27:59](https://lobste.rs/s/9dgwdo/bruteforcing_bitwarden_master_password) - [Bruteforcing the Bitwarden master password I forgor](https://compilercrim.es/forgor/)
 * [2026-02-18, 18:20:17](https://lobste.rs/s/at68gm/f9_kernel) - [F9 Kernel](https://github.com/f9micro/f9-kernel)
 * [2026-02-18, 17:48:18](https://lobste.rs/s/zk2u9e/dns_persist_01_new_model_for_dns_based) - [DNS-PERSIST-01: A New Model for DNS-based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
-* [2026-02-18, 14:14:09](https://lobste.rs/s/osljfj/understanding_whole_program_paths_path) - [Understanding Whole Program Paths and Path Profiling](https://abhamra.com/blog/path-profiling/)
 * [2026-02-18, 14:09:45](https://lobste.rs/s/gyyxad/avx2_is_slower_than_sse2_4_x_under_windows) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 * [2026-02-18, 12:33:10](https://lobste.rs/s/mv7rkh/dank_linux_desktop_environment_for) - [Dank Linux - Desktop Environment for Wayland and Niri](https://danklinux.com)
 * [2026-02-18, 10:27:44](https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026) - [What's cooking on SourceHut? Q1 2026](https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/)
