@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-18, 02:57:58](https://lobste.rs/s/cp1ssa/claimcheck_narrowing_gap_between_proof) - [claimcheck: Narrowing the Gap between Proof and Intent](https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/)
 * [2026-02-18, 00:11:18](https://lobste.rs/s/oukhsl/cryptographic_issues_matrix_s_rust) - [Cryptographic Issues in Matrix’s Rust Library Vodozemac](https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/)
 * [2026-02-18, 00:03:34](https://lobste.rs/s/4iqnda/assembler_compiles_printf_loop) - [An assembler that compiles to a printf loop](https://git.sr.ht/~sebsite/printfasm)
 * [2026-02-17, 23:43:10](https://lobste.rs/s/fwoooe/lebron_james_is_president_exploiting) - [LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection](https://github.com/skavanagh/lebron-james-is-president)
+* [2026-02-17, 23:41:11](https://lobste.rs/s/ilv5ju/vendoring_is_vile_anti_pattern_2014) - [\"Vendoring\" is a vile anti-pattern (2014)](https://gist.github.com/datagrok/8577287)
 * [2026-02-17, 21:14:08](https://lobste.rs/s/zvcupc/are_we_becoming_architects_butlers_llms) - [Are We Becoming Architects or Butlers to LLMs?](http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html)
 * [2026-02-17, 19:38:35](https://lobste.rs/s/xqld8c/one_page_async_rust) - [One page of async Rust](https://dotat.at/@/2026-02-16-async.html)
 * [2026-02-17, 18:53:45](https://lobste.rs/s/eec8ez/oat_ultra_lightweight_ui_library) - [Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies](https://oat.ink/)
@@ -19,12 +21,10 @@
 * [2026-02-17, 12:00:07](https://lobste.rs/s/0xodyl/ai_agent_lands_prs_major_oss_projects) - [AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach](https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach)
 * [2026-02-17, 11:48:07](https://lobste.rs/s/c6cg0b/next_version_curling_io) - [The Next Version of Curling IO](https://curling.io/blog/the-next-version-of-curling-io)
 * [2026-02-17, 11:23:33](https://lobste.rs/s/stgsof/fast_sorting_branchless_by_design) - [Fast sorting, branchless by design](https://00f.net/2026/02/17/sorting-without-leaking-secrets/)
-* [2026-02-17, 09:34:34](https://lobste.rs/s/psvif8/broken_heart) - [A Broken Heart](https://allenpike.com/2026/a-broken-heart/)
 * [2026-02-17, 08:35:05](https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform) - [The Servo project and its impact on the web platform ecosystem](https://servo.org/slides/2026-02-fosdem-servo-web-platform/)
 * [2026-02-17, 07:33:44](https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic) - [An AI Called Winter: Neurosymbolic Computation or Illusion?](https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/)
 * [2026-02-17, 02:11:33](https://lobste.rs/s/ov9qvf/poor_deming_never_stood_chance) - [Poor Deming never stood a chance](https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/)
 * [2026-02-16, 23:24:39](https://lobste.rs/s/b8ec4x/rise_triforce) - [Rise of the Triforce](https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/)
-* [2026-02-16, 22:47:58](https://lobste.rs/s/c4c5ri/modern_css_code_snippets) - [Modern CSS Code Snippets](https://modern-css.com)
 
 ## [Archives](archives/index.md)
 

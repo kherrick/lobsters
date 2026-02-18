@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-17](index.md)
 
 * [2026-02-17, 23:43:10](https://lobste.rs/s/fwoooe/lebron_james_is_president_exploiting) - [LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection](https://github.com/skavanagh/lebron-james-is-president)
+* [2026-02-17, 23:41:11](https://lobste.rs/s/ilv5ju/vendoring_is_vile_anti_pattern_2014) - [\"Vendoring\" is a vile anti-pattern (2014)](https://gist.github.com/datagrok/8577287)
 * [2026-02-17, 21:14:08](https://lobste.rs/s/zvcupc/are_we_becoming_architects_butlers_llms) - [Are We Becoming Architects or Butlers to LLMs?](http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html)
 * [2026-02-17, 20:08:32](https://lobste.rs/s/x52tif/asteroidos_2_0_has_landed) - [AsteroidOS 2.0 Has Landed](https://asteroidos.org/news/2-0-release/)
 * [2026-02-17, 19:38:35](https://lobste.rs/s/xqld8c/one_page_async_rust) - [One page of async Rust](https://dotat.at/@/2026-02-16-async.html)
