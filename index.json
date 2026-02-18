@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-18, 03:01:57",
+      "https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug"
+    ],
+    [
+      "6502 Emulation - The Jump Indirect Bug",
+      "https://markjames.dev/blog/6502-jump-indirect-bug"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 02:57:58",
       "https://lobste.rs/s/cp1ssa/claimcheck_narrowing_gap_between_proof"
     ],
@@ -217,16 +227,6 @@
     [
       "The Servo project and its impact on the web platform ecosystem",
       "https://servo.org/slides/2026-02-fosdem-servo-web-platform/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 07:33:44",
-      "https://lobste.rs/s/mnmell/ai_called_winter_neurosymbolic"
-    ],
-    [
-      "An AI Called Winter: Neurosymbolic Computation or Illusion?",
-      "https://dustycloud.org/blog/an-ai-called-winter-neurosymbolic-computation-or-illusion/"
     ]
   ],
   [
