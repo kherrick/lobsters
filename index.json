@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-02-18, 18:20:17",
+      "https://lobste.rs/s/at68gm/f9_kernel"
+    ],
+    [
+      "F9 Kernel",
+      "https://github.com/f9micro/f9-kernel"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 17:48:18",
       "https://lobste.rs/s/zk2u9e/dns_persist_01_new_model_for_dns_based"
     ],
     [
       "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
       "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 14:59:22",
-      "https://lobste.rs/s/mzlywv/global_trust_register_1999"
-    ],
-    [
-      "The Global Trust Register (1999)",
-      "https://www.cl.cam.ac.uk/research/security/OLD/Trust-Register/index-1998.html"
     ]
   ],
   [
@@ -101,22 +101,22 @@
   ],
   [
     [
+      "2026-02-18, 03:01:57",
+      "https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug"
+    ],
+    [
+      "6502 Emulation - The Jump Indirect Bug",
+      "https://markjames.dev/blog/6502-jump-indirect-bug"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 02:57:58",
       "https://lobste.rs/s/cp1ssa/claimcheck_narrowing_gap_between_proof"
     ],
     [
       "claimcheck: Narrowing the Gap between Proof and Intent",
       "https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 00:11:18",
-      "https://lobste.rs/s/oukhsl/cryptographic_issues_matrix_s_rust"
-    ],
-    [
-      "Cryptographic Issues in Matrix’s Rust Library Vodozemac",
-      "https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/"
     ]
   ],
   [
