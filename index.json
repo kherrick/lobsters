@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-18, 02:57:58",
+      "https://lobste.rs/s/cp1ssa/claimcheck_narrowing_gap_between_proof"
+    ],
+    [
+      "claimcheck: Narrowing the Gap between Proof and Intent",
+      "https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 00:11:18",
       "https://lobste.rs/s/oukhsl/cryptographic_issues_matrix_s_rust"
     ],
@@ -27,6 +37,16 @@
     [
       "LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection",
       "https://github.com/skavanagh/lebron-james-is-president"
+    ]
+  ],
+  [
+    [
+      "2026-02-17, 23:41:11",
+      "https://lobste.rs/s/ilv5ju/vendoring_is_vile_anti_pattern_2014"
+    ],
+    [
+      "\"Vendoring\" is a vile anti-pattern (2014)",
+      "https://gist.github.com/datagrok/8577287"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-02-17, 09:34:34",
-      "https://lobste.rs/s/psvif8/broken_heart"
-    ],
-    [
-      "A Broken Heart",
-      "https://allenpike.com/2026/a-broken-heart/"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 08:35:05",
       "https://lobste.rs/s/ulht8t/servo_project_its_impact_on_web_platform"
     ],
@@ -237,16 +247,6 @@
     [
       "Rise of the Triforce",
       "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 22:47:58",
-      "https://lobste.rs/s/c4c5ri/modern_css_code_snippets"
-    ],
-    [
-      "Modern CSS Code Snippets",
-      "https://modern-css.com"
     ]
   ]
 ]
