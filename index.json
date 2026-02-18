@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-18, 19:40:40",
-      "https://lobste.rs/s/xrugll/non_contributory_keys_matrix"
+      "2026-02-18, 20:17:21",
+      "https://lobste.rs/s/m2ouss/current_rss_reader"
     ],
     [
-      "Non-Contributory Keys in the Matrix",
-      "https://blog.erinshepherd.net/2026/02/non-contributory-keys-in-the-matrix/"
+      "Current - An RSS reader",
+      "https://www.terrygodier.com/current"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 19:53:12",
+      "https://lobste.rs/s/sspnba/what_your_bluetooth_devices_reveal_about"
+    ],
+    [
+      "What Your Bluetooth Devices Reveal About You",
+      "https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Gentoo on Codeberg",
       "https://www.gentoo.org/news/2026/02/16/codeberg.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 16:30:33",
-      "https://lobste.rs/s/40ndqz/using_go_fix_modernize_go_code"
-    ],
-    [
-      "Using go fix to modernize Go code",
-      "https://go.dev/blog/gofix"
     ]
   ],
   [
