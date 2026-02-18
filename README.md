@@ -2,7 +2,8 @@
 
 * [2026-02-18, 10:27:44](https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026) - [What's cooking on SourceHut? Q1 2026](https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/)
 * [2026-02-18, 09:45:38](https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
-* [2026-02-18, 05:16:36](https://lobste.rs/s/nhocn5/minimal_x86_kernel_zig) - [Minimal x86 Kernel in Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
+* [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
+* [2026-02-18, 08:50:09](https://lobste.rs/s/2ssdbm/case_for_gatekeeping_why_medieval_guilds) - [The case for gatekeeping, or: why medieval guilds had it figured out](https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/)
 * [2026-02-18, 03:02:03](https://lobste.rs/s/czch6e/barracuda_open_source_cuda_compiler) - [BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!)](https://github.com/Zaneham/BarraCUDA)
 * [2026-02-18, 03:01:57](https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug) - [6502 Emulation - The Jump Indirect Bug](https://markjames.dev/blog/6502-jump-indirect-bug)
 * [2026-02-18, 02:57:58](https://lobste.rs/s/cp1ssa/claimcheck_narrowing_gap_between_proof) - [claimcheck: Narrowing the Gap between Proof and Intent](https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/)
@@ -15,7 +16,6 @@
 * [2026-02-17, 18:21:22](https://lobste.rs/s/yn5zjh/terminals_should_generate_256_color) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 * [2026-02-17, 17:10:44](https://lobste.rs/s/vudtax/plasma_6_6_released) - [Plasma 6.6 released](https://kde.org/announcements/plasma/6/6.6.0/)
 * [2026-02-17, 17:09:18](https://lobste.rs/s/2y5l47/gentoo_on_codeberg) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
-* [2026-02-17, 17:09:08](https://lobste.rs/s/m4bj7v/gpu_code_can_now_use_rust_s_async_await) - [GPU code can now use Rust's async/await](https://vectorware.com/blog/async-await-on-gpu/)
 * [2026-02-17, 16:30:33](https://lobste.rs/s/40ndqz/using_go_fix_modernize_go_code) - [Using go fix to modernize Go code](https://go.dev/blog/gofix)
 * [2026-02-17, 14:59:45](https://lobste.rs/s/vpbnek/babashka_1_12_215_revenge_tuis) - [Babashka 1.12.215: Revenge of the TUIs](https://blog.michielborkent.nl/babashka-1.12.215.html)
 * [2026-02-17, 14:52:14](https://lobste.rs/s/2tpg37/how_single_typo_led_rce_firefox) - [How a single typo led to RCE in Firefox](https://kqx.io/post/firefox0day/)
