@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-18, 23:20:08",
+      "https://lobste.rs/s/es58bi/rust_on_cheriot_status_update_0"
+    ],
+    [
+      "Rust on CHERIoT: Status update #0",
+      "https://rust.cheriot.org/2026/02/15/status-update.html"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 22:34:38",
       "https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent"
     ],
@@ -67,16 +77,6 @@
     [
       "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
       "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 14:14:09",
-      "https://lobste.rs/s/osljfj/understanding_whole_program_paths_path"
-    ],
-    [
-      "Understanding Whole Program Paths and Path Profiling",
-      "https://abhamra.com/blog/path-profiling/"
     ]
   ],
   [
