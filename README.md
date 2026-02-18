@@ -2,6 +2,7 @@
 
 * [2026-02-18, 23:20:08](https://lobste.rs/s/es58bi/rust_on_cheriot_status_update_0) - [Rust on CHERIoT: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
 * [2026-02-18, 22:34:38](https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
+* [2026-02-18, 22:21:39](https://lobste.rs/s/zpifkh/notes_on_clarifying_man_pages) - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/)
 * [2026-02-18, 21:23:46](https://lobste.rs/s/mzfdcf/130k_lines_formal_topology_two_weeks) - [130k Lines of Formal Topology in Two Weeks: Simple and Cheap Autoformalization for Everyone?](https://arxiv.org/abs/2601.03298)
 * [2026-02-18, 20:17:21](https://lobste.rs/s/m2ouss/current_rss_reader) - [Current - An RSS reader](https://www.terrygodier.com/current)
 * [2026-02-18, 19:53:12](https://lobste.rs/s/sspnba/what_your_bluetooth_devices_reveal_about) - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
@@ -14,7 +15,6 @@
 * [2026-02-18, 09:45:38](https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 * [2026-02-18, 08:50:09](https://lobste.rs/s/2ssdbm/case_for_gatekeeping_why_medieval_guilds) - [The case for gatekeeping, or: why medieval guilds had it figured out](https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/)
-* [2026-02-18, 03:02:03](https://lobste.rs/s/czch6e/barracuda_open_source_cuda_compiler) - [BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!)](https://github.com/Zaneham/BarraCUDA)
 * [2026-02-18, 03:01:57](https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug) - [6502 Emulation - The Jump Indirect Bug](https://markjames.dev/blog/6502-jump-indirect-bug)
 * [2026-02-18, 00:03:34](https://lobste.rs/s/4iqnda/assembler_compiles_printf_loop) - [An assembler that compiles to a printf loop](https://git.sr.ht/~sebsite/printfasm)
 * [2026-02-17, 23:43:10](https://lobste.rs/s/fwoooe/lebron_james_is_president_exploiting) - [LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection](https://github.com/skavanagh/lebron-james-is-president)
