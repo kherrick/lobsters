@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-18, 10:27:44",
+      "https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026"
+    ],
+    [
+      "What's cooking on SourceHut? Q1 2026",
+      "https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-02-18, 09:45:38",
+      "https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19"
+    ],
+    [
+      "Asahi Linux Progress Report: Linux 6.19",
+      "https://asahilinux.org/2026/02/progress-report-6-19/"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 05:16:36",
       "https://lobste.rs/s/nhocn5/minimal_x86_kernel_zig"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-02-17, 13:53:39",
-      "https://lobste.rs/s/syv21m/dangerously_skip_reading_code"
-    ],
-    [
-      "--dangerously-skip-reading-code",
-      "https://olano.dev/blog/dangerously-skip"
-    ]
-  ],
-  [
-    [
       "2026-02-17, 13:45:56",
       "https://lobste.rs/s/hax4cv/undo_vi_its_successors"
     ],
     [
       "Undo in Vi and its successors",
       "https://utcc.utoronto.ca/~cks/space/blog/unix/ViUndoMyViews"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 12:00:07",
-      "https://lobste.rs/s/0xodyl/ai_agent_lands_prs_major_oss_projects"
-    ],
-    [
-      "AI Agent Lands PRs in Major OSS Projects, Targets Maintainers via Cold Outreach",
-      "https://socket.dev/blog/ai-agent-lands-prs-in-major-oss-projects-targets-maintainers-via-cold-outreach"
     ]
   ],
   [
