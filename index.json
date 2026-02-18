@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-18, 03:02:03",
+      "https://lobste.rs/s/czch6e/barracuda_open_source_cuda_compiler"
+    ],
+    [
+      "BarraCUDA: Open-source CUDA compiler targeting AMD GPUs (and more in the future!)",
+      "https://github.com/Zaneham/BarraCUDA"
+    ]
+  ],
+  [
+    [
       "2026-02-18, 03:01:57",
       "https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug"
     ],
@@ -237,16 +247,6 @@
     [
       "Poor Deming never stood a chance",
       "https://surfingcomplexity.blog/2026/02/16/poor-deming-never-stood-a-chance/"
-    ]
-  ],
-  [
-    [
-      "2026-02-16, 23:24:39",
-      "https://lobste.rs/s/b8ec4x/rise_triforce"
-    ],
-    [
-      "Rise of the Triforce",
-      "https://dolphin-emu.org/blog/2026/02/16/rise-of-the-triforce/"
     ]
   ]
 ]
