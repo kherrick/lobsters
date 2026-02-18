@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
+* [2026-02-18, 19:40:40](https://lobste.rs/s/xrugll/non_contributory_keys_matrix) - [Non-Contributory Keys in the Matrix](https://blog.erinshepherd.net/2026/02/non-contributory-keys-in-the-matrix/)
 * [2026-02-18, 18:20:17](https://lobste.rs/s/at68gm/f9_kernel) - [F9 Kernel](https://github.com/f9micro/f9-kernel)
 * [2026-02-18, 17:48:18](https://lobste.rs/s/zk2u9e/dns_persist_01_new_model_for_dns_based) - [DNS-PERSIST-01: A New Model for DNS-based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
 * [2026-02-18, 14:59:22](https://lobste.rs/s/mzlywv/global_trust_register_1999) - [The Global Trust Register (1999)](https://www.cl.cam.ac.uk/research/security/OLD/Trust-Register/index-1998.html)
