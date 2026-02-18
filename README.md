@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-18, 05:16:36](https://lobste.rs/s/nhocn5/minimal_x86_kernel_zig) - [Minimal x86 Kernel in Zig](https://github.com/lopespm/zig-minimal-kernel-x86)
 * [2026-02-18, 03:01:57](https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug) - [6502 Emulation - The Jump Indirect Bug](https://markjames.dev/blog/6502-jump-indirect-bug)
 * [2026-02-18, 02:57:58](https://lobste.rs/s/cp1ssa/claimcheck_narrowing_gap_between_proof) - [claimcheck: Narrowing the Gap between Proof and Intent](https://midspiral.com/blog/claimcheck-narrowing-the-gap-between-proof-and-intent/)
 * [2026-02-18, 00:11:18](https://lobste.rs/s/oukhsl/cryptographic_issues_matrix_s_rust) - [Cryptographic Issues in Matrix’s Rust Library Vodozemac](https://soatok.blog/2026/02/17/cryptographic-issues-in-matrixs-rust-library-vodozemac/)
 * [2026-02-18, 00:03:34](https://lobste.rs/s/4iqnda/assembler_compiles_printf_loop) - [An assembler that compiles to a printf loop](https://git.sr.ht/~sebsite/printfasm)
 * [2026-02-17, 23:43:10](https://lobste.rs/s/fwoooe/lebron_james_is_president_exploiting) - [LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection](https://github.com/skavanagh/lebron-james-is-president)
-* [2026-02-17, 23:41:11](https://lobste.rs/s/ilv5ju/vendoring_is_vile_anti_pattern_2014) - [\"Vendoring\" is a vile anti-pattern (2014)](https://gist.github.com/datagrok/8577287)
 * [2026-02-17, 21:14:08](https://lobste.rs/s/zvcupc/are_we_becoming_architects_butlers_llms) - [Are We Becoming Architects or Butlers to LLMs?](http://muratbuffalo.blogspot.com/2026/02/butlers-or-architects.html)
 * [2026-02-17, 19:38:35](https://lobste.rs/s/xqld8c/one_page_async_rust) - [One page of async Rust](https://dotat.at/@/2026-02-16-async.html)
 * [2026-02-17, 18:53:45](https://lobste.rs/s/eec8ez/oat_ultra_lightweight_ui_library) - [Oat, Ultra-lightweight UI library, Semantic, minimal, zero dependencies](https://oat.ink/)
