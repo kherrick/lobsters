@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
 * [2026-02-19, 22:11:50](https://lobste.rs/s/9zos31/every_app_you_ve_built_is_etl_pipeline_you) - [Every app you've built is an ETL pipeline (you just didn't call it that)](https://www.inngest.com/blog/etl-via-inngest)
+* [2026-02-19, 21:55:53](https://lobste.rs/s/7xjjol/towards_real_world_industrial_scale) - [Towards Real-World Industrial-Scale Verification: LLM-Driven Theorem Proving on seL4](https://arxiv.org/abs/2602.08384)
 * [2026-02-19, 20:21:23](https://lobste.rs/s/df1p8i/resurrecting_why_s_dream) - [Resurrecting _why's Dream](https://schwadlabs.io/blog/resurrecting-whys-dream)
 * [2026-02-19, 19:09:38](https://lobste.rs/s/qsypky/concrete_syntax_matters_actually) - [Concrete syntax matters, actually](https://www.youtube.com/live/kQjrcSMYpaA)
 * [2026-02-19, 18:45:21](https://lobste.rs/s/fgkcxo/ai_makes_you_boring) - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
