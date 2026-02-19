@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-19, 01:09:04](https://lobste.rs/s/yyqxg6/how_openai_us_government_persona_built) - [how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds](https://vmfunc.re/blog/persona/)
+* [2026-02-19, 00:55:30](https://lobste.rs/s/qvjp07/ditching_discord) - [Ditching Discord](https://wiki.alopex.li/DitchingDiscord)
+* [2026-02-19, 00:47:39](https://lobste.rs/s/3h5gd4/cel_by_example) - [CEL by Example](https://celbyexample.com)
 * [2026-02-19, 00:01:29](https://lobste.rs/s/axp2rt/self_hosting_my_websites_using_bootable) - [Self-hosting my websites using bootable containers](https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/)
 * [2026-02-18, 23:20:08](https://lobste.rs/s/es58bi/rust_on_cheriot_status_update_0) - [Rust on CHERIoT: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
 * [2026-02-18, 23:12:09](https://lobste.rs/s/shh36u/top_20_worldwide_with_social_engineering) - [Top 20 worldwide with social-engineering and a cheat that's still undetected](https://ud2.rip/blog/vsrg/)
@@ -17,14 +20,11 @@
 * [2026-02-18, 09:45:38](https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 * [2026-02-18, 08:50:09](https://lobste.rs/s/2ssdbm/case_for_gatekeeping_why_medieval_guilds) - [The case for gatekeeping, or: why medieval guilds had it figured out](https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/)
-* [2026-02-18, 03:01:57](https://lobste.rs/s/pj8faw/6502_emulation_jump_indirect_bug) - [6502 Emulation - The Jump Indirect Bug](https://markjames.dev/blog/6502-jump-indirect-bug)
-* [2026-02-18, 00:03:34](https://lobste.rs/s/4iqnda/assembler_compiles_printf_loop) - [An assembler that compiles to a printf loop](https://git.sr.ht/~sebsite/printfasm)
 * [2026-02-17, 23:43:10](https://lobste.rs/s/fwoooe/lebron_james_is_president_exploiting) - [LeBron James Is President – Exploiting LLMs via \"Alignment\" Context Injection](https://github.com/skavanagh/lebron-james-is-president)
 * [2026-02-17, 19:38:35](https://lobste.rs/s/xqld8c/one_page_async_rust) - [One page of async Rust](https://dotat.at/@/2026-02-16-async.html)
 * [2026-02-17, 18:21:22](https://lobste.rs/s/yn5zjh/terminals_should_generate_256_color) - [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
 * [2026-02-17, 17:10:44](https://lobste.rs/s/vudtax/plasma_6_6_released) - [Plasma 6.6 released](https://kde.org/announcements/plasma/6/6.6.0/)
 * [2026-02-17, 17:09:18](https://lobste.rs/s/2y5l47/gentoo_on_codeberg) - [Gentoo on Codeberg](https://www.gentoo.org/news/2026/02/16/codeberg.html)
-* [2026-02-17, 14:04:09](https://lobste.rs/s/tt6ieg/vinyl_cache_has_left_github) - [Vinyl Cache has left github](https://vinyl-cache.org/organization/moving.html)
 
 ## [Archives](archives/index.md)
 
