@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-02-19, 12:16:07",
+      "https://lobste.rs/s/bzqteq/paged_out_8"
+    ],
+    [
+      "Paged Out! #8",
+      "https://pagedout.institute/download/PagedOut_008.pdf"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 10:57:56",
       "https://lobste.rs/s/eos5kb/pg_here_run_local_postgresql_instance"
     ],
     [
       "pg-here: Run a local PostgreSQL instance in your project folder with one command",
       "https://github.com/mayfer/pg-here"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 09:59:09",
+      "https://lobste.rs/s/h75wx0/state_clojure_2025_results"
+    ],
+    [
+      "State of Clojure 2025 Results",
+      "https://clojure.org/news/2026/02/18/state-of-clojure-2025"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-02-18, 21:23:46",
-      "https://lobste.rs/s/mzfdcf/130k_lines_formal_topology_two_weeks"
-    ],
-    [
-      "130k Lines of Formal Topology in Two Weeks: Simple and Cheap Autoformalization for Everyone?",
-      "https://arxiv.org/abs/2601.03298"
-    ]
-  ],
-  [
-    [
       "2026-02-18, 20:17:21",
       "https://lobste.rs/s/m2ouss/current_rss_reader"
     ],
@@ -217,16 +227,6 @@
     [
       "The case for gatekeeping, or: why medieval guilds had it figured out",
       "https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/"
-    ]
-  ],
-  [
-    [
-      "2026-02-17, 18:21:22",
-      "https://lobste.rs/s/yn5zjh/terminals_should_generate_256_color"
-    ],
-    [
-      "Terminals should generate the 256-color palette",
-      "https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783"
     ]
   ],
   [
