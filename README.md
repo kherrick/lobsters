@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-19, 22:11:50](https://lobste.rs/s/9zos31/every_app_you_ve_built_is_etl_pipeline_you) - [Every app you've built is an ETL pipeline (you just didn't call it that)](https://www.inngest.com/blog/etl-via-inngest)
 * [2026-02-19, 20:21:23](https://lobste.rs/s/df1p8i/resurrecting_why_s_dream) - [Resurrecting _why's Dream](https://schwadlabs.io/blog/resurrecting-whys-dream)
 * [2026-02-19, 19:09:38](https://lobste.rs/s/qsypky/concrete_syntax_matters_actually) - [Concrete syntax matters, actually](https://www.youtube.com/live/kQjrcSMYpaA)
 * [2026-02-19, 18:45:21](https://lobste.rs/s/fgkcxo/ai_makes_you_boring) - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 * [2026-02-19, 17:15:20](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education) - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-* [2026-02-19, 17:09:36](https://lobste.rs/s/fmu8ts/clawshell_process_level_isolation_for) - [ClawShell, Process-Level Isolation for OpenClaw Credentials](https://github.com/clawshell/clawshell)
 * [2026-02-19, 17:04:20](https://lobste.rs/s/ailcbn/netbase_port_netbsd_utilities_for_linux) - [Netbase a port of the netbsd utilities for linux](https://github.com/littlefly365/Netbase)
 * [2026-02-19, 16:54:23](https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax) - [Choosing a Language Based on its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
 * [2026-02-19, 16:13:36](https://lobste.rs/s/vrru3d/using_browser_s_canvas_for_data) - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/)
