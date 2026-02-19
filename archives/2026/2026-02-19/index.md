@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 16:13:36](https://lobste.rs/s/vrru3d/using_browser_s_canvas_for_data) - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/)
 * [2026-02-19, 15:25:00](https://lobste.rs/s/rn4g9a/linux_cve_assignment_process) - [Linux CVE assignment process](http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/)
 * [2026-02-19, 14:47:57](https://lobste.rs/s/xbe859/clinejection_compromising_cline_s) - [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://adnanthekhan.com/posts/clinejection/)
 * [2026-02-19, 13:23:02](https://lobste.rs/s/pz9jrj/salt_systems_programming) - [Salt: Systems programming, mathematically verified](https://salt-lang.dev/)

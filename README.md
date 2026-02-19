@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-19, 16:13:36](https://lobste.rs/s/vrru3d/using_browser_s_canvas_for_data) - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/)
 * [2026-02-19, 15:25:00](https://lobste.rs/s/rn4g9a/linux_cve_assignment_process) - [Linux CVE assignment process](http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/)
 * [2026-02-19, 14:47:57](https://lobste.rs/s/xbe859/clinejection_compromising_cline_s) - [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://adnanthekhan.com/posts/clinejection/)
 * [2026-02-19, 13:23:02](https://lobste.rs/s/pz9jrj/salt_systems_programming) - [Salt: Systems programming, mathematically verified](https://salt-lang.dev/)
@@ -14,6 +15,7 @@
 * [2026-02-19, 00:47:39](https://lobste.rs/s/3h5gd4/cel_by_example) - [CEL by Example](https://celbyexample.com)
 * [2026-02-19, 00:01:29](https://lobste.rs/s/axp2rt/self_hosting_my_websites_using_bootable) - [Self-hosting my websites using bootable containers](https://yorickpeterse.com/articles/self-hosting-my-websites-using-bootable-containers/)
 * [2026-02-18, 23:20:08](https://lobste.rs/s/es58bi/rust_on_cheriot_status_update_0) - [Rust on CHERIoT: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
+* [2026-02-18, 23:12:09](https://lobste.rs/s/shh36u/top_20_worldwide_with_social_engineering) - [Top 20 worldwide with social-engineering and a cheat that's still undetected](https://ud2.rip/blog/vsrg/)
 * [2026-02-18, 22:34:38](https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 * [2026-02-18, 22:21:39](https://lobste.rs/s/zpifkh/notes_on_clarifying_man_pages) - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/)
 * [2026-02-18, 20:17:21](https://lobste.rs/s/m2ouss/current_rss_reader) - [Current - An RSS reader](https://www.terrygodier.com/current)
@@ -23,8 +25,6 @@
 * [2026-02-18, 10:27:44](https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026) - [What's cooking on SourceHut? Q1 2026](https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/)
 * [2026-02-18, 09:45:38](https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
-* [2026-02-18, 08:50:09](https://lobste.rs/s/2ssdbm/case_for_gatekeeping_why_medieval_guilds) - [The case for gatekeeping, or: why medieval guilds had it figured out](https://www.joanwestenberg.com/the-case-for-gatekeeping-or-why-medieval-guilds-had-it-figured-out/)
-* [2026-02-17, 17:10:44](https://lobste.rs/s/vudtax/plasma_6_6_released) - [Plasma 6.6 released](https://kde.org/announcements/plasma/6/6.6.0/)
 
 ## [Archives](archives/index.md)
 
