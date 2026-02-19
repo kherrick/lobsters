@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 13:23:02](https://lobste.rs/s/pz9jrj/salt_systems_programming) - [Salt: Systems programming, mathematically verified](https://salt-lang.dev/)
 * [2026-02-19, 12:47:17](https://lobste.rs/s/uj94kj/fairstream) - [Fairstream](https://blog.gluegadget.com/post/fairstream/)
 * [2026-02-19, 12:43:22](https://lobste.rs/s/uejqpb/lilush_static_luajit_runtime_with) - [Lilush: A static LuaJIT runtime with batteries](https://lilush.link/)
 * [2026-02-19, 12:16:07](https://lobste.rs/s/bzqteq/paged_out_8) - [Paged Out! #8](https://pagedout.institute/download/PagedOut_008.pdf)

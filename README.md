@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-19, 13:23:02](https://lobste.rs/s/pz9jrj/salt_systems_programming) - [Salt: Systems programming, mathematically verified](https://salt-lang.dev/)
 * [2026-02-19, 12:47:17](https://lobste.rs/s/uj94kj/fairstream) - [Fairstream](https://blog.gluegadget.com/post/fairstream/)
 * [2026-02-19, 12:43:22](https://lobste.rs/s/uejqpb/lilush_static_luajit_runtime_with) - [Lilush: A static LuaJIT runtime with batteries](https://lilush.link/)
 * [2026-02-19, 12:16:07](https://lobste.rs/s/bzqteq/paged_out_8) - [Paged Out! #8](https://pagedout.institute/download/PagedOut_008.pdf)
@@ -19,7 +20,6 @@
 * [2026-02-18, 19:53:12](https://lobste.rs/s/sspnba/what_your_bluetooth_devices_reveal_about) - [What Your Bluetooth Devices Reveal About You](https://blog.dmcc.io/journal/2026-bluetooth-privacy-bluehood/)
 * [2026-02-18, 18:27:59](https://lobste.rs/s/9dgwdo/bruteforcing_bitwarden_master_password) - [Bruteforcing the Bitwarden master password I forgor](https://compilercrim.es/forgor/)
 * [2026-02-18, 17:48:18](https://lobste.rs/s/zk2u9e/dns_persist_01_new_model_for_dns_based) - [DNS-PERSIST-01: A New Model for DNS-based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
-* [2026-02-18, 14:09:45](https://lobste.rs/s/gyyxad/avx2_is_slower_than_sse2_4_x_under_windows) - [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 * [2026-02-18, 10:27:44](https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026) - [What's cooking on SourceHut? Q1 2026](https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/)
 * [2026-02-18, 09:45:38](https://lobste.rs/s/idfeqo/asahi_linux_progress_report_linux_6_19) - [Asahi Linux Progress Report: Linux 6.19](https://asahilinux.org/2026/02/progress-report-6-19/)
 * [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
