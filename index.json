@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-19, 09:59:09",
-      "https://lobste.rs/s/h75wx0/state_clojure_2025_results"
+      "2026-02-19, 10:57:56",
+      "https://lobste.rs/s/eos5kb/pg_here_run_local_postgresql_instance"
     ],
     [
-      "State of Clojure 2025 Results",
-      "https://clojure.org/news/2026/02/18/state-of-clojure-2025"
+      "pg-here: Run a local PostgreSQL instance in your project folder with one command",
+      "https://github.com/mayfer/pg-here"
     ]
   ],
   [
