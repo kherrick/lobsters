@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 10:57:56](https://lobste.rs/s/eos5kb/pg_here_run_local_postgresql_instance) - [pg-here: Run a local PostgreSQL instance in your project folder with one command](https://github.com/mayfer/pg-here)
 * [2026-02-19, 09:59:09](https://lobste.rs/s/h75wx0/state_clojure_2025_results) - [State of Clojure 2025 Results](https://clojure.org/news/2026/02/18/state-of-clojure-2025)
 * [2026-02-19, 09:29:43](https://lobste.rs/s/viz5tb/update_on_upki) - [An update on upki](https://discourse.ubuntu.com/t/an-update-on-upki/77063)
 * [2026-02-19, 08:44:35](https://lobste.rs/s/6b26dm/tuple_spaces) - [Tuple Spaces](https://www.mcs.anl.gov/~itf/dbpp/text/node44.html#SECTION02550000000000000000)
