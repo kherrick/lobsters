@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 18:45:21](https://lobste.rs/s/fgkcxo/ai_makes_you_boring) - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 * [2026-02-19, 17:15:20](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education_2026) - [The Missing Semester of Your CS Education (2026)](https://missing.csail.mit.edu/)
 * [2026-02-19, 17:09:36](https://lobste.rs/s/fmu8ts/clawshell_process_level_isolation_for) - [ClawShell, Process-Level Isolation for OpenClaw Credentials](https://github.com/clawshell/clawshell)
 * [2026-02-19, 17:04:20](https://lobste.rs/s/ailcbn/netbase_port_netbsd_utilities_for_linux) - [Netbase a port of the netbsd utilities for linux](https://github.com/littlefly365/Netbase)
