@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-18](index.md)
 
 * [2026-02-18, 23:20:08](https://lobste.rs/s/es58bi/rust_on_cheriot_status_update_0) - [Rust on CHERIoT: Status update #0](https://rust.cheriot.org/2026/02/15/status-update.html)
+* [2026-02-18, 23:12:09](https://lobste.rs/s/shh36u/top_20_worldwide_with_social_engineering) - [Top 20 worldwide with social-engineering and a cheat that's still undetected](https://ud2.rip/blog/vsrg/)
 * [2026-02-18, 22:34:38](https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 * [2026-02-18, 22:21:39](https://lobste.rs/s/zpifkh/notes_on_clarifying_man_pages) - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/)
 * [2026-02-18, 21:23:46](https://lobste.rs/s/mzfdcf/130k_lines_formal_topology_two_weeks) - [130k Lines of Formal Topology in Two Weeks: Simple and Cheap Autoformalization for Everyone?](https://arxiv.org/abs/2601.03298)
