@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-19](index.md)
 
+* [2026-02-19, 17:15:20](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education_2026) - [The Missing Semester of Your CS Education (2026)](https://missing.csail.mit.edu/)
+* [2026-02-19, 17:09:36](https://lobste.rs/s/fmu8ts/clawshell_process_level_isolation_for) - [ClawShell, Process-Level Isolation for OpenClaw Credentials](https://github.com/clawshell/clawshell)
+* [2026-02-19, 17:04:20](https://lobste.rs/s/ailcbn/netbase_port_netbsd_utilities_for_linux) - [Netbase a port of the netbsd utilities for linux](https://github.com/littlefly365/Netbase)
+* [2026-02-19, 16:54:23](https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax) - [Choosing a Language Based on its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
+* [2026-02-19, 16:31:35](https://lobste.rs/s/2y6jlq/perils_isbn) - [The Perils of ISBN](https://rygoldstein.com/posts/perils-of-isbn)
 * [2026-02-19, 16:13:36](https://lobste.rs/s/vrru3d/using_browser_s_canvas_for_data) - [Using the Browser’s <canvas> for Data Compression](https://jstrieb.github.io/posts/canvas-compress/)
 * [2026-02-19, 15:25:00](https://lobste.rs/s/rn4g9a/linux_cve_assignment_process) - [Linux CVE assignment process](http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/)
 * [2026-02-19, 14:47:57](https://lobste.rs/s/xbe859/clinejection_compromising_cline_s) - [Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager](https://adnanthekhan.com/posts/clinejection/)
