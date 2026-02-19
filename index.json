@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-02-19, 17:15:20",
+      "https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education_2026"
+    ],
+    [
+      "The Missing Semester of Your CS Education (2026)",
+      "https://missing.csail.mit.edu/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 17:09:36",
+      "https://lobste.rs/s/fmu8ts/clawshell_process_level_isolation_for"
+    ],
+    [
+      "ClawShell, Process-Level Isolation for OpenClaw Credentials",
+      "https://github.com/clawshell/clawshell"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 17:04:20",
+      "https://lobste.rs/s/ailcbn/netbase_port_netbsd_utilities_for_linux"
+    ],
+    [
+      "Netbase a port of the netbsd utilities for linux",
+      "https://github.com/littlefly365/Netbase"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 16:54:23",
+      "https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax"
+    ],
+    [
+      "Choosing a Language Based on its Syntax?",
+      "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/"
+    ]
+  ],
+  [
+    [
+      "2026-02-19, 16:31:35",
+      "https://lobste.rs/s/2y6jlq/perils_isbn"
+    ],
+    [
+      "The Perils of ISBN",
+      "https://rygoldstein.com/posts/perils-of-isbn"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 16:13:36",
       "https://lobste.rs/s/vrru3d/using_browser_s_canvas_for_data"
     ],
@@ -21,32 +71,12 @@
   ],
   [
     [
-      "2026-02-19, 14:47:57",
-      "https://lobste.rs/s/xbe859/clinejection_compromising_cline_s"
-    ],
-    [
-      "Clinejection — Compromising Cline's Production Releases just by Prompting an Issue Triager",
-      "https://adnanthekhan.com/posts/clinejection/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 13:23:02",
       "https://lobste.rs/s/pz9jrj/salt_systems_programming"
     ],
     [
       "Salt: Systems programming, mathematically verified",
       "https://salt-lang.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 12:47:17",
-      "https://lobste.rs/s/uj94kj/fairstream"
-    ],
-    [
-      "Fairstream",
-      "https://blog.gluegadget.com/post/fairstream/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-02-19, 00:47:39",
-      "https://lobste.rs/s/3h5gd4/cel_by_example"
-    ],
-    [
-      "CEL by Example",
-      "https://celbyexample.com"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 00:01:29",
       "https://lobste.rs/s/axp2rt/self_hosting_my_websites_using_bootable"
     ],
@@ -147,16 +167,6 @@
     [
       "Rust on CHERIoT: Status update #0",
       "https://rust.cheriot.org/2026/02/15/status-update.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 23:12:09",
-      "https://lobste.rs/s/shh36u/top_20_worldwide_with_social_engineering"
-    ],
-    [
-      "Top 20 worldwide with social-engineering and a cheat that's still undetected",
-      "https://ud2.rip/blog/vsrg/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
       "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 10:27:44",
-      "https://lobste.rs/s/8xnajy/what_s_cooking_on_sourcehut_q1_2026"
-    ],
-    [
-      "What's cooking on SourceHut? Q1 2026",
-      "https://sourcehut.org/blog/2026-02-18-whats-cooking-q1-2026/"
     ]
   ],
   [
