@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-19, 13:23:02",
+      "https://lobste.rs/s/pz9jrj/salt_systems_programming"
+    ],
+    [
+      "Salt: Systems programming, mathematically verified",
+      "https://salt-lang.dev/"
+    ]
+  ],
+  [
+    [
       "2026-02-19, 12:47:17",
       "https://lobste.rs/s/uj94kj/fairstream"
     ],
@@ -187,16 +197,6 @@
     [
       "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
       "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 14:09:45",
-      "https://lobste.rs/s/gyyxad/avx2_is_slower_than_sse2_4_x_under_windows"
-    ],
-    [
-      "AVX2 is slower than SSE2-4.x under Windows ARM emulation",
-      "https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/"
     ]
   ],
   [
