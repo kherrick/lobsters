@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 19:18:35](https://lobste.rs/s/w1bsle/lobsters_interview_with_steveklabnik) - [Lobsters Interview with steveklabnik](https://alexalejandre.com/programming/steve-klabnik-interview/)
 * [2026-02-20, 17:20:06](https://lobste.rs/s/i4u55k/finding_credentials_msi_files_with) - [finding credentials in .msi files with msiexec](https://ljb.fyi/your-msi-isnt-an-executable/)
 * [2026-02-20, 16:58:16](https://lobste.rs/s/bi9wsi/death_scroll_fade) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-02-20, 16:57:52](https://lobste.rs/s/wul2hi/brat_parallel_tap_testing_harness_for) - [Brat, a parallel TAP testing harness for the POSIX shell](https://codeberg.org/sstephenson/brat)

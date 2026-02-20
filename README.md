@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-20, 19:18:35](https://lobste.rs/s/w1bsle/lobsters_interview_with_steveklabnik) - [Lobsters Interview with steveklabnik](https://alexalejandre.com/programming/steve-klabnik-interview/)
 * [2026-02-20, 17:20:06](https://lobste.rs/s/i4u55k/finding_credentials_msi_files_with) - [finding credentials in .msi files with msiexec](https://ljb.fyi/your-msi-isnt-an-executable/)
 * [2026-02-20, 16:58:16](https://lobste.rs/s/bi9wsi/death_scroll_fade) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-02-20, 16:57:52](https://lobste.rs/s/wul2hi/brat_parallel_tap_testing_harness_for) - [Brat, a parallel TAP testing harness for the POSIX shell](https://codeberg.org/sstephenson/brat)
@@ -24,7 +25,6 @@
 * [2026-02-19, 16:54:23](https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax) - [Choosing a Language Based on its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
 * [2026-02-19, 15:25:00](https://lobste.rs/s/rn4g9a/linux_cve_assignment_process) - [Linux CVE assignment process](http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/)
 * [2026-02-19, 12:16:07](https://lobste.rs/s/bzqteq/paged_out_8) - [Paged Out! #8](https://pagedout.institute/download/PagedOut_008.pdf)
-* [2026-02-19, 01:09:04](https://lobste.rs/s/yyqxg6/how_openai_us_government_persona_built) - [how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds](https://vmfunc.re/blog/persona/)
 
 ## [Archives](archives/index.md)
 
