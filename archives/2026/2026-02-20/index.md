@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 11:19:38](https://lobste.rs/s/ihsrgj/web_revival_internet_didn_t_die_you_re_just) - [A Web Revival: the Internet didn't die, you're just not on it](https://youtu.be/tkUgOT22F5s)
 * [2026-02-20, 10:55:11](https://lobste.rs/s/ickplq/your_personal_blog_should_have_comments) - [Your Personal Blog Should Have Comments](https://medv.io/blog/your-personal-blog-should-have-comments)
 * [2026-02-20, 09:23:49](https://lobste.rs/s/wejtbl/keep_android_open) - [Keep Android Open](https://keepandroidopen.org/)
 * [2026-02-20, 09:15:36](https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend)

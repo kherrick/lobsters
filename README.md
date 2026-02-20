@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-20, 11:19:38](https://lobste.rs/s/ihsrgj/web_revival_internet_didn_t_die_you_re_just) - [A Web Revival: the Internet didn't die, you're just not on it](https://youtu.be/tkUgOT22F5s)
 * [2026-02-20, 10:55:11](https://lobste.rs/s/ickplq/your_personal_blog_should_have_comments) - [Your Personal Blog Should Have Comments](https://medv.io/blog/your-personal-blog-should-have-comments)
 * [2026-02-20, 09:23:49](https://lobste.rs/s/wejtbl/keep_android_open) - [Keep Android Open](https://keepandroidopen.org/)
 * [2026-02-20, 09:15:36](https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend)
@@ -8,7 +9,6 @@
 * [2026-02-20, 04:39:29](https://lobste.rs/s/jmxzcr/how_i_made_shooter_game_64_kb) - [How I made a shooter game in 64 KB](https://youtu.be/qht68vFaa1M)
 * [2026-02-20, 04:10:37](https://lobste.rs/s/wk6rjh/claude_c_compiler_what_it_reveals_about) - [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
 * [2026-02-20, 03:36:56](https://lobste.rs/s/zddzgo/dillo_appreciation_post) - [The Dillo Appreciation Post](https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/)
-* [2026-02-20, 03:01:48](https://lobste.rs/s/qj1p4h/two_mechanisms_for_dynamic_type_checks) - [two mechanisms for dynamic type checks](https://wingolog.org/archives/2026/02/18/two-mechanisms-for-dynamic-type-checks)
 * [2026-02-20, 01:31:28](https://lobste.rs/s/b80lmi/reading_undocumented_mems) - [reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid](https://github.com/olvvier/apple-silicon-accelerometer)
 * [2026-02-20, 00:05:09](https://lobste.rs/s/zzlxaa/lindenmayer_systems) - [Lindenmayer Systems](https://justinpombrio.net/2026/02/16/l-systems.html)
 * [2026-02-19, 23:09:03](https://lobste.rs/s/zpotiy/hold_on_your_hardware) - [Hold on to Your Hardware](https://マリウス.com/hold-on-to-your-hardware/)
