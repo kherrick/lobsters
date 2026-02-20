@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-20, 10:55:11",
+      "https://lobste.rs/s/ickplq/your_personal_blog_should_have_comments"
+    ],
+    [
+      "Your Personal Blog Should Have Comments",
+      "https://medv.io/blog/your-personal-blog-should-have-comments"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 09:23:49",
+      "https://lobste.rs/s/wejtbl/keep_android_open"
+    ],
+    [
+      "Keep Android Open",
+      "https://keepandroidopen.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 09:15:36",
+      "https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/f7zq93/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 08:43:40",
       "https://lobste.rs/s/gkv4xd/internationalise_fediverse"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-02-19, 13:23:02",
-      "https://lobste.rs/s/pz9jrj/salt_systems_programming"
-    ],
-    [
-      "Salt: Systems programming, mathematically verified",
-      "https://salt-lang.dev/"
-    ]
-  ],
-  [
-    [
       "2026-02-19, 12:43:22",
       "https://lobste.rs/s/uejqpb/lilush_static_luajit_runtime_with"
     ],
@@ -227,26 +247,6 @@
     [
       "Why I don't think AGI is imminent",
       "https://dlants.me/agi-not-imminent.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 22:21:39",
-      "https://lobste.rs/s/zpifkh/notes_on_clarifying_man_pages"
-    ],
-    [
-      "Notes on clarifying man pages",
-      "https://jvns.ca/blog/2026/02/18/man-pages/"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 20:17:21",
-      "https://lobste.rs/s/m2ouss/current_rss_reader"
-    ],
-    [
-      "Current - An RSS reader",
-      "https://www.terrygodier.com/current"
     ]
   ]
 ]
