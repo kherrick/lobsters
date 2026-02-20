@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-20, 08:43:40](https://lobste.rs/s/gkv4xd/internationalise_fediverse) - [Internationalise The Fediverse](https://shkspr.mobi/blog/2024/02/internationalise-the-fediverse/)
 * [2026-02-20, 05:51:58](https://lobste.rs/s/2mkkpo/ai_agent_published_hit_piece_on_me) - [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 * [2026-02-20, 04:39:29](https://lobste.rs/s/jmxzcr/how_i_made_shooter_game_64_kb) - [How I made a shooter game in 64 KB](https://youtu.be/qht68vFaa1M)
 * [2026-02-20, 04:10:37](https://lobste.rs/s/wk6rjh/claude_c_compiler_what_it_reveals_about) - [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
@@ -20,7 +21,6 @@
 * [2026-02-19, 12:43:22](https://lobste.rs/s/uejqpb/lilush_static_luajit_runtime_with) - [Lilush: A static LuaJIT runtime with batteries](https://lilush.link/)
 * [2026-02-19, 12:16:07](https://lobste.rs/s/bzqteq/paged_out_8) - [Paged Out! #8](https://pagedout.institute/download/PagedOut_008.pdf)
 * [2026-02-19, 10:57:56](https://lobste.rs/s/eos5kb/pg_here_run_local_postgresql_instance) - [pg-here: Run a local PostgreSQL instance in your project folder with one command](https://github.com/mayfer/pg-here)
-* [2026-02-19, 09:59:09](https://lobste.rs/s/h75wx0/state_clojure_2025_results) - [State of Clojure 2025 Results](https://clojure.org/news/2026/02/18/state-of-clojure-2025)
 * [2026-02-19, 01:09:04](https://lobste.rs/s/yyqxg6/how_openai_us_government_persona_built) - [how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds](https://vmfunc.re/blog/persona/)
 * [2026-02-18, 22:34:38](https://lobste.rs/s/rrlcfb/why_i_don_t_think_agi_is_imminent) - [Why I don't think AGI is imminent](https://dlants.me/agi-not-imminent.html)
 * [2026-02-18, 22:21:39](https://lobste.rs/s/zpifkh/notes_on_clarifying_man_pages) - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/)
