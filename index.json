@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-02-20, 03:36:56",
-      "https://lobste.rs/s/zddzgo/dillo_appreciation_post"
+      "2026-02-20, 04:39:29",
+      "https://lobste.rs/s/jmxzcr/how_i_made_shooter_game_64_kb"
     ],
     [
-      "The Dillo Appreciation Post",
-      "https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/"
+      "How I made a shooter game in 64 KB",
+      "https://youtu.be/qht68vFaa1M"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 01:31:28",
+      "https://lobste.rs/s/b80lmi/reading_undocumented_mems"
+    ],
+    [
+      "reading the undocumented mems accelerometer on apple silicon macbooks via iokit hid",
+      "https://github.com/olvvier/apple-silicon-accelerometer"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "State of Clojure 2025 Results",
       "https://clojure.org/news/2026/02/18/state-of-clojure-2025"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 08:44:35",
-      "https://lobste.rs/s/6b26dm/tuple_spaces"
-    ],
-    [
-      "Tuple Spaces",
-      "https://www.mcs.anl.gov/~itf/dbpp/text/node44.html#SECTION02550000000000000000"
     ]
   ],
   [
