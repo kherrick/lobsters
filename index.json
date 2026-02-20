@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-20, 03:36:56",
+      "https://lobste.rs/s/zddzgo/dillo_appreciation_post"
+    ],
+    [
+      "The Dillo Appreciation Post",
+      "https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 00:05:09",
       "https://lobste.rs/s/zzlxaa/lindenmayer_systems"
     ],
@@ -237,16 +247,6 @@
     [
       "DNS-PERSIST-01: A New Model for DNS-based Challenge Validation",
       "https://letsencrypt.org/2026/02/18/dns-persist-01.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-18, 09:28:29",
-      "https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my"
-    ],
-    [
-      "15+ years later, Microsoft morged my diagram",
-      "https://nvie.com/posts/15-years-later/"
     ]
   ]
 ]
