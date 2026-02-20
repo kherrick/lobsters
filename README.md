@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-20, 20:29:06](https://lobste.rs/s/mbeyym/goatstack_project_scaffolding_tool_for) - [goatstack: project scaffolding tool for Go + Templ webapps](https://github.com/erodrigufer/goatstack)
 * [2026-02-20, 19:44:29](https://lobste.rs/s/t760l8/beginner_s_guide_split_keyboards) - [A Beginner’s Guide to Split Keyboards](https://justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 * [2026-02-20, 19:34:26](https://lobste.rs/s/zkby7e/lil_fun_langs) - [Lil' Fun Langs](https://taylor.town/scrapscript-000)
 * [2026-02-20, 19:18:35](https://lobste.rs/s/w1bsle/lobsters_interview_with_steveklabnik) - [Lobsters Interview with steveklabnik](https://alexalejandre.com/programming/steve-klabnik-interview/)
 * [2026-02-20, 17:20:06](https://lobste.rs/s/i4u55k/finding_credentials_msi_files_with) - [finding credentials in .msi files with msiexec](https://ljb.fyi/your-msi-isnt-an-executable/)
 * [2026-02-20, 16:58:16](https://lobste.rs/s/bi9wsi/death_scroll_fade) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-02-20, 16:57:52](https://lobste.rs/s/wul2hi/brat_parallel_tap_testing_harness_for) - [Brat, a parallel TAP testing harness for the POSIX shell](https://codeberg.org/sstephenson/brat)
+* [2026-02-20, 15:57:43](https://lobste.rs/s/g5gtog/relocating_rigor) - [Relocating Rigor](https://aicoding.leaflet.pub/3mbrvhyye4k2e)
 * [2026-02-20, 15:52:15](https://lobste.rs/s/rxsphs/ipv6_adoption_2026) - [IPv6 Adoption in 2026](https://www.netmeister.org/blog/ipv6-adoption.html)
 * [2026-02-20, 14:09:07](https://lobste.rs/s/mje6ui/everything_you_never_wanted_know_about) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
 * [2026-02-20, 14:03:18](https://lobste.rs/s/6yjefp/ebpf_hard_way) - [eBPF the Hard Way](https://feyor.sh/blog/ebpf-the-hard-way)
@@ -20,11 +22,9 @@
 * [2026-02-20, 04:10:37](https://lobste.rs/s/wk6rjh/claude_c_compiler_what_it_reveals_about) - [The Claude C Compiler: What It Reveals About the Future of Software](https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software)
 * [2026-02-20, 03:36:56](https://lobste.rs/s/zddzgo/dillo_appreciation_post) - [The Dillo Appreciation Post](https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/)
 * [2026-02-20, 00:05:09](https://lobste.rs/s/zzlxaa/lindenmayer_systems) - [Lindenmayer Systems](https://justinpombrio.net/2026/02/16/l-systems.html)
-* [2026-02-19, 20:21:23](https://lobste.rs/s/df1p8i/resurrecting_why_s_dream) - [Resurrecting _why's Dream](https://schwadlabs.io/blog/resurrecting-whys-dream)
 * [2026-02-19, 18:45:21](https://lobste.rs/s/fgkcxo/ai_makes_you_boring) - [AI makes you boring](https://www.marginalia.nu/log/a_132_ai_bores/)
 * [2026-02-19, 17:15:20](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education) - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [2026-02-19, 16:54:23](https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax) - [Choosing a Language Based on its Syntax?](https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/)
-* [2026-02-19, 12:16:07](https://lobste.rs/s/bzqteq/paged_out_8) - [Paged Out! #8](https://pagedout.institute/download/PagedOut_008.pdf)
 
 ## [Archives](archives/index.md)
 
