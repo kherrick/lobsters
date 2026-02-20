@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-02-20, 00:05:09](https://lobste.rs/s/zzlxaa/lindenmayer_systems) - [Lindenmayer Systems](https://justinpombrio.net/2026/02/16/l-systems.html)
-* [2026-02-19, 23:53:42](https://lobste.rs/s/stg864/using_candyfloss_do_neural_net_inference) - [Using candyfloss to do neural net inference](https://notes.hella.cheap/a-introductory-video-tutorial-for-candyfloss.html)
+* [2026-02-19, 23:12:15](https://lobste.rs/s/odtjwd/scheme_shell_1994) - [A Scheme Shell (1994)](https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-635.pdf)
 * [2026-02-19, 23:09:03](https://lobste.rs/s/zpotiy/hold_on_your_hardware) - [Hold on to Your Hardware](https://マリウス.com/hold-on-to-your-hardware/)
 * [2026-02-19, 22:11:50](https://lobste.rs/s/9zos31/every_app_you_ve_built_is_etl_pipeline_you) - [Every app you've built is an ETL pipeline (you just didn't call it that)](https://www.inngest.com/blog/etl-via-inngest)
 * [2026-02-19, 21:55:53](https://lobste.rs/s/7xjjol/towards_real_world_industrial_scale) - [Towards Real-World Industrial-Scale Verification: LLM-Driven Theorem Proving on seL4](https://arxiv.org/abs/2602.08384)
