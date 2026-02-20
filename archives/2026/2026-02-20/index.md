@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-20](index.md)
 
+* [2026-02-20, 16:03:24](https://lobste.rs/s/knvlia/path_ubiquitous_ai) - [The path to ubiquitous AI](https://taalas.com/the-path-to-ubiquitous-ai/)
+* [2026-02-20, 15:57:43](https://lobste.rs/s/g5gtog/relocating_rigor) - [Relocating Rigor](https://aicoding.leaflet.pub/3mbrvhyye4k2e)
+* [2026-02-20, 15:52:15](https://lobste.rs/s/rxsphs/ipv6_adoption_2026) - [IPv6 Adoption in 2026](https://www.netmeister.org/blog/ipv6-adoption.html)
 * [2026-02-20, 15:39:08](https://lobste.rs/s/wbtvf2/how_i_built_minimal_knowledge_sync_for) - [How I built a minimal-knowledge sync for WorkLedger](https://bastiangruber.ca/posts/how-i-built-a-minimal-knowledge-sync-for-workledger/)
 * [2026-02-20, 15:05:45](https://lobste.rs/s/nmc19l/ten_years_late_dbt_party_duckdb_edition) - [Ten years late to the dbt party (DuckDB edition)](https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/)
 * [2026-02-20, 14:09:07](https://lobste.rs/s/mje6ui/everything_you_never_wanted_know_about) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
