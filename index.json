@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-20, 19:18:35",
+      "https://lobste.rs/s/w1bsle/lobsters_interview_with_steveklabnik"
+    ],
+    [
+      "Lobsters Interview with steveklabnik",
+      "https://alexalejandre.com/programming/steve-klabnik-interview/"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 17:20:06",
       "https://lobste.rs/s/i4u55k/finding_credentials_msi_files_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Paged Out! #8",
       "https://pagedout.institute/download/PagedOut_008.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 01:09:04",
-      "https://lobste.rs/s/yyqxg6/how_openai_us_government_persona_built"
-    ],
-    [
-      "how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
-      "https://vmfunc.re/blog/persona/"
     ]
   ]
 ]
