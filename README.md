@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-20, 03:36:56](https://lobste.rs/s/zddzgo/dillo_appreciation_post) - [The Dillo Appreciation Post](https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/)
 * [2026-02-20, 00:05:09](https://lobste.rs/s/zzlxaa/lindenmayer_systems) - [Lindenmayer Systems](https://justinpombrio.net/2026/02/16/l-systems.html)
 * [2026-02-19, 23:12:15](https://lobste.rs/s/odtjwd/scheme_shell_1994) - [A Scheme Shell (1994)](https://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-635.pdf)
 * [2026-02-19, 23:09:03](https://lobste.rs/s/zpotiy/hold_on_your_hardware) - [Hold on to Your Hardware](https://マリウス.com/hold-on-to-your-hardware/)
@@ -24,7 +25,6 @@
 * [2026-02-18, 22:21:39](https://lobste.rs/s/zpifkh/notes_on_clarifying_man_pages) - [Notes on clarifying man pages](https://jvns.ca/blog/2026/02/18/man-pages/)
 * [2026-02-18, 20:17:21](https://lobste.rs/s/m2ouss/current_rss_reader) - [Current - An RSS reader](https://www.terrygodier.com/current)
 * [2026-02-18, 17:48:18](https://lobste.rs/s/zk2u9e/dns_persist_01_new_model_for_dns_based) - [DNS-PERSIST-01: A New Model for DNS-based Challenge Validation](https://letsencrypt.org/2026/02/18/dns-persist-01.html)
-* [2026-02-18, 09:28:29](https://lobste.rs/s/rfcbij/15_years_later_microsoft_morged_my) - [15+ years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 
 ## [Archives](archives/index.md)
 
