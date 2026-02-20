@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-02-20, 11:20:15",
-      "https://lobste.rs/s/gc4ygs/i_used_claude_code_gsd_build"
+      "2026-02-20, 12:09:18",
+      "https://lobste.rs/s/xe7vkq/django_orm_standalone_querying_existing"
     ],
     [
-      "I used Claude Code and GSD to build the accessibility tool I’ve always wanted",
-      "https://www.blakewatson.com/journal/i-used-claude-code-and-gsd-to-build-the-accessibility-tool-ive-always-wanted/"
+      "Django ORM Standalone⁽¹⁾: Querying an existing database",
+      "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "The Dillo Appreciation Post",
       "https://bobbyhiltz.com/posts/2026/02/dillo-appreciation/"
+    ]
+  ],
+  [
+    [
+      "2026-02-20, 03:01:48",
+      "https://lobste.rs/s/qj1p4h/two_mechanisms_for_dynamic_type_checks"
+    ],
+    [
+      "two mechanisms for dynamic type checks",
+      "https://wingolog.org/archives/2026/02/18/two-mechanisms-for-dynamic-type-checks"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Linux CVE assignment process",
       "http://www.kroah.com/log/blog/2026/02/16/linux-cve-assignment-process/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 12:43:22",
-      "https://lobste.rs/s/uejqpb/lilush_static_luajit_runtime_with"
-    ],
-    [
-      "Lilush: A static LuaJIT runtime with batteries",
-      "https://lilush.link/"
     ]
   ],
   [
