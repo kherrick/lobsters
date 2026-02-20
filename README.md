@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-20, 20:40:14](https://lobste.rs/s/vpxzhe/i_found_vulnerability_they_found_lawyer) - [I found a Vulnerability. They found a Lawyer](https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer)
 * [2026-02-20, 20:31:39](https://lobste.rs/s/gscaw3/turn_dependabot_off) - [Turn Dependabot Off](https://words.filippo.io/dependabot/)
 * [2026-02-20, 19:44:29](https://lobste.rs/s/t760l8/beginner_s_guide_split_keyboards) - [A Beginner’s Guide to Split Keyboards](https://justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/)
 * [2026-02-20, 19:34:26](https://lobste.rs/s/zkby7e/lil_fun_langs) - [Lil' Fun Langs](https://taylor.town/scrapscript-000)
@@ -7,7 +8,6 @@
 * [2026-02-20, 17:20:06](https://lobste.rs/s/i4u55k/finding_credentials_msi_files_with) - [finding credentials in .msi files with msiexec](https://ljb.fyi/your-msi-isnt-an-executable/)
 * [2026-02-20, 16:58:16](https://lobste.rs/s/bi9wsi/death_scroll_fade) - [Death to Scroll Fade](https://dbushell.com/2026/01/09/death-to-scroll-fade/)
 * [2026-02-20, 16:57:52](https://lobste.rs/s/wul2hi/brat_parallel_tap_testing_harness_for) - [Brat, a parallel TAP testing harness for the POSIX shell](https://codeberg.org/sstephenson/brat)
-* [2026-02-20, 15:57:43](https://lobste.rs/s/g5gtog/relocating_rigor) - [Relocating Rigor](https://aicoding.leaflet.pub/3mbrvhyye4k2e)
 * [2026-02-20, 15:52:15](https://lobste.rs/s/rxsphs/ipv6_adoption_2026) - [IPv6 Adoption in 2026](https://www.netmeister.org/blog/ipv6-adoption.html)
 * [2026-02-20, 14:09:07](https://lobste.rs/s/mje6ui/everything_you_never_wanted_know_about) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
 * [2026-02-20, 14:03:18](https://lobste.rs/s/6yjefp/ebpf_hard_way) - [eBPF the Hard Way](https://feyor.sh/blog/ebpf-the-hard-way)
