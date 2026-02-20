@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-02-20, 03:01:48",
+      "https://lobste.rs/s/qj1p4h/two_mechanisms_for_dynamic_type_checks"
+    ],
+    [
+      "two mechanisms for dynamic type checks",
+      "https://wingolog.org/archives/2026/02/18/two-mechanisms-for-dynamic-type-checks"
+    ]
+  ],
+  [
+    [
       "2026-02-20, 01:31:28",
       "https://lobste.rs/s/b80lmi/reading_undocumented_mems"
     ],
@@ -127,16 +137,6 @@
     [
       "The Missing Semester of Your CS Education",
       "https://missing.csail.mit.edu/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 17:04:20",
-      "https://lobste.rs/s/ailcbn/netbase_port_netbsd_utilities_for_linux"
-    ],
-    [
-      "Netbase a port of the netbsd utilities for linux",
-      "https://github.com/littlefly365/Netbase"
     ]
   ],
   [
