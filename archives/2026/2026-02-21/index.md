@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-21](index.md)
 
+* [2026-02-21, 21:53:26](https://lobste.rs/s/i3sveh/thunderkittens_2_0_even_faster_kernels) - [ThunderKittens 2.0: Even Faster Kernels for Your GPUs](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2)
 * [2026-02-21, 21:43:06](https://lobste.rs/s/9jpa8d/dumpling_fine_grained_differential) - [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://www.ndss-symposium.org/ndss-paper/dumpling-fine-grained-differential-javascript-engine-fuzzing/)
 * [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 * [2026-02-21, 21:03:28](https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism) - [Prefer If Statements To Polymorphism](https://htmx.org/essays/prefer-if-statements/)

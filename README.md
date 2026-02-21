@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-21, 21:53:26](https://lobste.rs/s/i3sveh/thunderkittens_2_0_even_faster_kernels) - [ThunderKittens 2.0: Even Faster Kernels for Your GPUs](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2)
 * [2026-02-21, 21:43:06](https://lobste.rs/s/9jpa8d/dumpling_fine_grained_differential) - [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://www.ndss-symposium.org/ndss-paper/dumpling-fine-grained-differential-javascript-engine-fuzzing/)
 * [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 * [2026-02-21, 21:03:28](https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism) - [Prefer If Statements To Polymorphism](https://htmx.org/essays/prefer-if-statements/)
 * [2026-02-21, 20:12:54](https://lobste.rs/s/o1i3rf/meshtnc_is_tool_for_turning_consumer) - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatible packet radio modems](https://github.com/datapartyjs/MeshTNC)
 * [2026-02-21, 19:37:47](https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design) - [Parse, don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
-* [2026-02-21, 16:45:03](https://lobste.rs/s/reslsr/ipv6_address_assignment) - [IPv6 address assignment](https://lpar.ATH0.com/posts/2026/02/ipv6-address-assignment/)
 * [2026-02-21, 15:37:09](https://lobste.rs/s/7jojhi/cereggii_thread_synchronization) - [cereggii: Thread synchronization utilities for Python](https://github.com/dpdani/cereggii)
 * [2026-02-21, 15:07:03](https://lobste.rs/s/wplgka/whale_fall) - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html)
 * [2026-02-21, 12:55:54](https://lobste.rs/s/l0gv3h/fastest_way_board_airplane) - [The Fastest Way to Board an Airplane](https://navendu.me/posts/airlines-hate-this-trick/)
