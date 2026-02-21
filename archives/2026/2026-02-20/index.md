@@ -19,6 +19,7 @@
 * [2026-02-20, 15:39:08](https://lobste.rs/s/wbtvf2/how_i_built_minimal_knowledge_sync_for) - [How I built a minimal-knowledge sync for WorkLedger](https://bastiangruber.ca/posts/how-i-built-a-minimal-knowledge-sync-for-workledger/)
 * [2026-02-20, 15:05:45](https://lobste.rs/s/nmc19l/ten_years_late_dbt_party_duckdb_edition) - [Ten years late to the dbt party (DuckDB edition)](https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/)
 * [2026-02-20, 14:09:07](https://lobste.rs/s/mje6ui/everything_you_never_wanted_know_about) - [Everything you never wanted to know about visually-hidden](https://dbushell.com/2026/02/20/visually-hidden/)
+* [2026-02-20, 14:03:18](https://lobste.rs/s/6yjefp/ebpf_on_hard_mode) - [eBPF on Hard Mode](https://feyor.sh/blog/ebpf-on-hard-mode/)
 * [2026-02-20, 14:03:18](https://lobste.rs/s/6yjefp/ebpf_hard_way) - [eBPF the Hard Way](https://feyor.sh/blog/ebpf-the-hard-way)
 * [2026-02-20, 14:01:24](https://lobste.rs/s/5iucri/made_eu_it_was_harder_than_i_thought) - [\"Made in EU\" - it was harder than I thought](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
 * [2026-02-20, 12:09:18](https://lobste.rs/s/xe7vkq/django_orm_standalone_querying_existing) - [Django ORM Standalone⁽¹⁾: Querying an existing database](https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/)
