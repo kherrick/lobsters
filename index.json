@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 19:37:47",
+      "https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design"
+    ],
+    [
+      "Parse, don't Validate and Type-Driven Design in Rust",
+      "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 16:45:03",
       "https://lobste.rs/s/reslsr/ipv6_address_assignment"
     ],
@@ -227,16 +237,6 @@
     [
       "Keep Android Open",
       "https://keepandroidopen.org/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 00:05:09",
-      "https://lobste.rs/s/zzlxaa/lindenmayer_systems"
-    ],
-    [
-      "Lindenmayer Systems",
-      "https://justinpombrio.net/2026/02/16/l-systems.html"
     ]
   ],
   [
