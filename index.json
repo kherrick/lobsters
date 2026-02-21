@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-21, 20:12:54",
+      "https://lobste.rs/s/o1i3rf/meshtnc_is_tool_for_turning_consumer"
+    ],
+    [
+      "MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatible packet radio modems",
+      "https://github.com/datapartyjs/MeshTNC"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 20:11:35",
+      "https://lobste.rs/s/i7fwn0/aesthetics_single_threading"
+    ],
+    [
+      "Aesthetics of Single Threading",
+      "https://ta.fo/aesthetics-of-single-threading/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 19:37:47",
       "https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-02-20, 11:19:38",
-      "https://lobste.rs/s/ihsrgj/web_revival_internet_didn_t_die_you_re_just"
-    ],
-    [
-      "A Web Revival: the Internet didn't die, you're just not on it",
-      "https://youtu.be/tkUgOT22F5s"
-    ]
-  ],
-  [
-    [
       "2026-02-20, 09:23:49",
       "https://lobste.rs/s/wejtbl/keep_android_open"
     ],
     [
       "Keep Android Open",
       "https://keepandroidopen.org/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 17:15:20",
-      "https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education"
-    ],
-    [
-      "The Missing Semester of Your CS Education",
-      "https://missing.csail.mit.edu/"
     ]
   ]
 ]
