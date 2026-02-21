@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-21, 19:37:47](https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design) - [Parse, don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 * [2026-02-21, 16:45:03](https://lobste.rs/s/reslsr/ipv6_address_assignment) - [IPv6 address assignment](https://lpar.ATH0.com/posts/2026/02/ipv6-address-assignment/)
 * [2026-02-21, 15:37:09](https://lobste.rs/s/7jojhi/cereggii_thread_synchronization) - [cereggii: Thread synchronization utilities for Python](https://github.com/dpdani/cereggii)
 * [2026-02-21, 15:07:03](https://lobste.rs/s/wplgka/whale_fall) - [Whale Fall](https://nesbitt.io/2026/02/21/whale-fall.html)
@@ -23,7 +24,6 @@
 * [2026-02-20, 12:09:18](https://lobste.rs/s/xe7vkq/django_orm_standalone_querying_existing) - [Django ORM Standalone⁽¹⁾: Querying an existing database](https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/)
 * [2026-02-20, 11:19:38](https://lobste.rs/s/ihsrgj/web_revival_internet_didn_t_die_you_re_just) - [A Web Revival: the Internet didn't die, you're just not on it](https://youtu.be/tkUgOT22F5s)
 * [2026-02-20, 09:23:49](https://lobste.rs/s/wejtbl/keep_android_open) - [Keep Android Open](https://keepandroidopen.org/)
-* [2026-02-20, 00:05:09](https://lobste.rs/s/zzlxaa/lindenmayer_systems) - [Lindenmayer Systems](https://justinpombrio.net/2026/02/16/l-systems.html)
 * [2026-02-19, 17:15:20](https://lobste.rs/s/q4ykw7/missing_semester_your_cs_education) - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## [Archives](archives/index.md)
