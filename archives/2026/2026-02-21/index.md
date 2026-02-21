@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-21](index.md)
 
+* [2026-02-21, 21:43:06](https://lobste.rs/s/9jpa8d/dumpling_fine_grained_differential) - [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://www.ndss-symposium.org/ndss-paper/dumpling-fine-grained-differential-javascript-engine-fuzzing/)
+* [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 * [2026-02-21, 21:03:28](https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism) - [Prefer If Statements To Polymorphism](https://htmx.org/essays/prefer-if-statements/)
 * [2026-02-21, 20:12:54](https://lobste.rs/s/o1i3rf/meshtnc_is_tool_for_turning_consumer) - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatible packet radio modems](https://github.com/datapartyjs/MeshTNC)
 * [2026-02-21, 20:11:35](https://lobste.rs/s/i7fwn0/aesthetics_single_threading) - [Aesthetics of Single Threading](https://ta.fo/aesthetics-of-single-threading/)

@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-21, 21:43:06](https://lobste.rs/s/9jpa8d/dumpling_fine_grained_differential) - [DUMPLING: Fine-grained Differential JavaScript Engine Fuzzing](https://www.ndss-symposium.org/ndss-paper/dumpling-fine-grained-differential-javascript-engine-fuzzing/)
+* [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 * [2026-02-21, 21:03:28](https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism) - [Prefer If Statements To Polymorphism](https://htmx.org/essays/prefer-if-statements/)
 * [2026-02-21, 20:12:54](https://lobste.rs/s/o1i3rf/meshtnc_is_tool_for_turning_consumer) - [MeshTNC is a tool for turning consumer grade LoRa radios into KISS TNC compatible packet radio modems](https://github.com/datapartyjs/MeshTNC)
-* [2026-02-21, 20:11:35](https://lobste.rs/s/i7fwn0/aesthetics_single_threading) - [Aesthetics of Single Threading](https://ta.fo/aesthetics-of-single-threading/)
 * [2026-02-21, 19:37:47](https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design) - [Parse, don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
 * [2026-02-21, 16:45:03](https://lobste.rs/s/reslsr/ipv6_address_assignment) - [IPv6 address assignment](https://lpar.ATH0.com/posts/2026/02/ipv6-address-assignment/)
 * [2026-02-21, 15:37:09](https://lobste.rs/s/7jojhi/cereggii_thread_synchronization) - [cereggii: Thread synchronization utilities for Python](https://github.com/dpdani/cereggii)
@@ -24,7 +25,6 @@
 * [2026-02-20, 15:52:15](https://lobste.rs/s/rxsphs/ipv6_adoption_2026) - [IPv6 Adoption in 2026](https://www.netmeister.org/blog/ipv6-adoption.html)
 * [2026-02-20, 14:03:18](https://lobste.rs/s/6yjefp/ebpf_on_hard_mode) - [eBPF on Hard Mode](https://feyor.sh/blog/ebpf-on-hard-mode/)
 * [2026-02-20, 14:01:24](https://lobste.rs/s/5iucri/made_eu_it_was_harder_than_i_thought) - [\"Made in EU\" - it was harder than I thought](https://www.coinerella.com/made-in-eu-it-was-harder-than-i-thought/)
-* [2026-02-20, 12:09:18](https://lobste.rs/s/xe7vkq/django_orm_standalone_querying_existing) - [Django ORM Standalone⁽¹⁾: Querying an existing database](https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/)
 
 ## [Archives](archives/index.md)
 
