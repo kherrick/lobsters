@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-21, 15:37:09",
+      "https://lobste.rs/s/7jojhi/cereggii_thread_synchronization"
+    ],
+    [
+      "cereggii: Thread synchronization utilities for Python",
+      "https://github.com/dpdani/cereggii"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 15:07:03",
+      "https://lobste.rs/s/wplgka/whale_fall"
+    ],
+    [
+      "Whale Fall",
+      "https://nesbitt.io/2026/02/21/whale-fall.html"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 12:55:54",
       "https://lobste.rs/s/l0gv3h/fastest_way_board_airplane"
     ],
@@ -37,16 +57,6 @@
     [
       "ajail: a basic jail for programs you don't completely trust",
       "https://github.com/jtolio/ajail"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 03:43:01",
-      "https://lobste.rs/s/bfzbim/process_isolation_on_netbsd_with_chroot"
-    ],
-    [
-      "Process Isolation on NetBSD with chroot",
-      "https://overeducated-redneck.net/blurgh/netbsd-chroot-isolation.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Internationalise The Fediverse (2024)",
       "https://shkspr.mobi/blog/2024/02/internationalise-the-fediverse/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 04:10:37",
-      "https://lobste.rs/s/wk6rjh/claude_c_compiler_what_it_reveals_about"
-    ],
-    [
-      "The Claude C Compiler: What It Reveals About the Future of Software",
-      "https://www.modular.com/blog/the-claude-c-compiler-what-it-reveals-about-the-future-of-software"
     ]
   ],
   [
