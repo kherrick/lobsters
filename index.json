@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 21:03:28",
+      "https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism"
+    ],
+    [
+      "Prefer If Statements To Polymorphism",
+      "https://htmx.org/essays/prefer-if-statements/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 20:12:54",
       "https://lobste.rs/s/o1i3rf/meshtnc_is_tool_for_turning_consumer"
     ],
@@ -237,16 +247,6 @@
     [
       "Django ORM Standalone⁽¹⁾: Querying an existing database",
       "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 09:23:49",
-      "https://lobste.rs/s/wejtbl/keep_android_open"
-    ],
-    [
-      "Keep Android Open",
-      "https://keepandroidopen.org/"
     ]
   ]
 ]
