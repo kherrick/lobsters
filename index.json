@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-21, 11:18:57",
+      "https://lobste.rs/s/haqwn0/wikipedia_blacklists_archive_today"
+    ],
+    [
+      "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
+      "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 06:26:12",
       "https://lobste.rs/s/rcewff/ajail_basic_jail_for_programs_you_don_t"
     ],
@@ -17,6 +27,16 @@
     [
       "Process Isolation on NetBSD with chroot",
       "https://overeducated-redneck.net/blurgh/netbsd-chroot-isolation.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 01:31:01",
+      "https://lobste.rs/s/ax5slr/rise_fall_scala_love_letter_language"
+    ],
+    [
+      "The Rise and Fall of Scala: A Love Letter to the Language That Broke My Heart",
+      "https://medium.com/@naveensky/the-language-that-made-me-feel-like-a-genius-until-it-didnt-my-breakup-with-scala-075a2ccfb24e"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "IPv6 Adoption in 2026",
       "https://www.netmeister.org/blog/ipv6-adoption.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 14:09:07",
-      "https://lobste.rs/s/mje6ui/everything_you_never_wanted_know_about"
-    ],
-    [
-      "Everything you never wanted to know about visually-hidden",
-      "https://dbushell.com/2026/02/20/visually-hidden/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Missing Semester of Your CS Education",
       "https://missing.csail.mit.edu/"
-    ]
-  ],
-  [
-    [
-      "2026-02-19, 16:54:23",
-      "https://lobste.rs/s/jkvtew/choosing_language_based_on_its_syntax"
-    ],
-    [
-      "Choosing a Language Based on its Syntax?",
-      "https://www.gingerbill.org/article/2026/02/19/choosing-a-language-based-on-syntax/"
     ]
   ]
 ]
