@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-02-22, 11:54:21",
+      "https://lobste.rs/s/sacz3z/running_risc_v_vm_test_my_snaps"
+    ],
+    [
+      "Running RISC-V in a VM to test my snaps",
+      "https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 09:23:54",
       "https://lobste.rs/s/vdueen/you_are_not_left_behind"
     ],
@@ -187,16 +197,6 @@
     [
       "cl-kawa: A Turducken of Programming Languages",
       "https://atgreen.github.io/repl-yell/posts/cl-kawa/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 02:48:35",
-      "https://lobste.rs/s/rzbstd/how_we_fixed_yaml_comment_preservation"
-    ],
-    [
-      "How We Fixed YAML Comment Preservation in Ruby (And Why We Sponsored It)",
-      "https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it/"
     ]
   ],
   [
