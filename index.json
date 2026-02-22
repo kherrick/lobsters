@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2026-02-22, 05:19:51",
+      "https://lobste.rs/s/kgatai/http_3_on_freebsd_getting_quic_working"
+    ],
+    [
+      "HTTP/3 on FreeBSD: Getting QUIC Working with nginx in a Bastille Jail",
+      "https://blog.hofstede.it/http3-on-freebsd-getting-quic-working-with-nginx-in-a-bastille-jail/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 02:53:48",
       "https://lobste.rs/s/pvfqcr/cl_kawa_turducken_programming_languages"
     ],
@@ -217,16 +227,6 @@
     [
       "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
       "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 06:26:12",
-      "https://lobste.rs/s/rcewff/ajail_basic_jail_for_programs_you_don_t"
-    ],
-    [
-      "ajail: a basic jail for programs you don't completely trust",
-      "https://github.com/jtolio/ajail"
     ]
   ],
   [
