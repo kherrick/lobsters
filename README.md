@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-22, 17:16:58](https://lobste.rs/s/y5dgkw/back_freebsd_part_1) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-22, 17:05:11](https://lobste.rs/s/qpatpu/are_compilers_deterministic) - [Are Compilers Deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)
 * [2026-02-22, 16:40:21](https://lobste.rs/s/kamh7k/four_color_theorem_1852_1976) - [The Four-Color Theorem 1852–1976](https://www.ams.org/journals/notices/202603/noti3305/noti3305.html)
 * [2026-02-22, 16:33:50](https://lobste.rs/s/czwaca/intent_developer_workspace_for_agent) - [Intent - The developer workspace for agent orchestration](https://www.augmentcode.com/product/intent)
@@ -10,7 +11,6 @@
 * [2026-02-22, 08:51:23](https://lobste.rs/s/931ohm/accessibility_is_civil_rights_ai_must) - [Accessibility Is Civil Rights. AI Must Stop Shipping Barriers](https://conesible.de/wab/)
 * [2026-02-22, 08:23:04](https://lobste.rs/s/4ypj10/cosmologically_unique_ids) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
 * [2026-02-22, 05:54:28](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason) - [Proposal: add \"AI generated\" as a flag reason](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason)
-* [2026-02-22, 05:19:51](https://lobste.rs/s/kgatai/http_3_on_freebsd_getting_quic_working) - [HTTP/3 on FreeBSD: Getting QUIC Working with nginx in a Bastille Jail](https://blog.hofstede.it/http3-on-freebsd-getting-quic-working-with-nginx-in-a-bastille-jail/)
 * [2026-02-22, 02:53:48](https://lobste.rs/s/pvfqcr/cl_kawa_turducken_programming_languages) - [cl-kawa: A Turducken of Programming Languages](https://atgreen.github.io/repl-yell/posts/cl-kawa/)
 * [2026-02-22, 02:48:35](https://lobste.rs/s/rzbstd/how_we_fixed_yaml_comment_preservation) - [How We Fixed YAML Comment Preservation in Ruby (And Why We Sponsored It)](https://blog.discourse.org/2026/02/how-we-fixed-yaml-comment-preservation-in-ruby-and-why-we-sponsored-it/)
 * [2026-02-22, 02:32:21](https://lobste.rs/s/s3en46/fix_your_tools) - [Fix your tools](https://ochagavia.nl/blog/fix-your-tools/)
