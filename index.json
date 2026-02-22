@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-22, 17:16:58",
+      "https://lobste.rs/s/y5dgkw/back_freebsd_part_1"
+    ],
+    [
+      "Back to FreeBSD: Part 1",
+      "https://hypha.pub/back-to-freebsd-part-1"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 17:05:11",
       "https://lobste.rs/s/qpatpu/are_compilers_deterministic"
     ],
@@ -97,16 +107,6 @@
     [
       "Proposal: add \"AI generated\" as a flag reason",
       "https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 05:19:51",
-      "https://lobste.rs/s/kgatai/http_3_on_freebsd_getting_quic_working"
-    ],
-    [
-      "HTTP/3 on FreeBSD: Getting QUIC Working with nginx in a Bastille Jail",
-      "https://blog.hofstede.it/http3-on-freebsd-getting-quic-working-with-nginx-in-a-bastille-jail/"
     ]
   ],
   [
