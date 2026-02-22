@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-22, 15:17:50",
+      "https://lobste.rs/s/dpzhs5/drowse_nix_dynamic_derivations_made_easy"
+    ],
+    [
+      "Drowse: Nix dynamic derivations made easy",
+      "https://github.com/figsoda/drowse"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 15:03:56",
+      "https://lobste.rs/s/vqcpbb/we_hid_backdoors_40mb_binaries_asked_ai"
+    ],
+    [
+      "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
+      "https://quesma.com/blog/introducing-binaryaudit/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 13:56:02",
       "https://lobste.rs/s/b5f1ni/parse_don_t_validate_aka_some_c_safety_tips"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-02-21, 21:53:26",
-      "https://lobste.rs/s/i3sveh/thunderkittens_2_0_even_faster_kernels"
-    ],
-    [
-      "ThunderKittens 2.0: Even Faster Kernels for Your GPUs",
-      "https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 21:30:11",
       "https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite"
     ],
@@ -217,16 +227,6 @@
     [
       "joinirc.at: Link to your IRC server on any client to onboard new users",
       "https://joinirc.at"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 20:40:14",
-      "https://lobste.rs/s/vpxzhe/i_found_vulnerability_they_found_lawyer"
-    ],
-    [
-      "I found a Vulnerability. They found a Lawyer",
-      "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer"
     ]
   ],
   [
