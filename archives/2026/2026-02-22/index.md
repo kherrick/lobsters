@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 13:56:02](https://lobste.rs/s/b5f1ni/parse_don_t_validate_aka_some_c_safety_tips) - [Parse, Don’t Validate AKA Some C Safety Tips](https://www.lelanthran.com/chap13/content.html)
 * [2026-02-22, 13:23:30](https://lobste.rs/s/pwdbgn/velocity_is_dead_ai_generated_compilers) - [Velocity Is Dead: AI-Generated Compilers and the Future of Software](https://www.openhands.dev/blog/20260219-velocity-is-dead)
 * [2026-02-22, 12:59:45](https://lobste.rs/s/4ntvrn/creator_bcachefs_seems_have) - [Creator of bcachefs seems to have anthropomorphized an LLM and is letting it work on the filesystem](https://poc.bcachefs.org/)
 * [2026-02-22, 11:54:21](https://lobste.rs/s/sacz3z/running_risc_v_vm_test_my_snaps) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)

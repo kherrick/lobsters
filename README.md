@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-22, 13:56:02](https://lobste.rs/s/b5f1ni/parse_don_t_validate_aka_some_c_safety_tips) - [Parse, Don’t Validate AKA Some C Safety Tips](https://www.lelanthran.com/chap13/content.html)
 * [2026-02-22, 13:23:30](https://lobste.rs/s/pwdbgn/velocity_is_dead_ai_generated_compilers) - [Velocity Is Dead: AI-Generated Compilers and the Future of Software](https://www.openhands.dev/blog/20260219-velocity-is-dead)
 * [2026-02-22, 12:59:45](https://lobste.rs/s/4ntvrn/creator_bcachefs_seems_have) - [Creator of bcachefs seems to have anthropomorphized an LLM and is letting it work on the filesystem](https://poc.bcachefs.org/)
 * [2026-02-22, 11:54:21](https://lobste.rs/s/sacz3z/running_risc_v_vm_test_my_snaps) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
@@ -13,7 +14,6 @@
 * [2026-02-22, 02:32:21](https://lobste.rs/s/s3en46/fix_your_tools) - [Fix your tools](https://ochagavia.nl/blog/fix-your-tools/)
 * [2026-02-22, 00:37:47](https://lobste.rs/s/awr4cx/how_why_local_llms_perform_on_framework_13) - [How and Why Local LLMs Perform On Framework 13 AMD Strix Point](https://msf.github.io/blogpost/local-llm-performance-framework13.html)
 * [2026-02-21, 22:00:24](https://lobste.rs/s/0blzao/loon_lisp_flies) - [Loon — A LISP that flies](https://loonlang.com)
-* [2026-02-21, 21:53:26](https://lobste.rs/s/i3sveh/thunderkittens_2_0_even_faster_kernels) - [ThunderKittens 2.0: Even Faster Kernels for Your GPUs](https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2)
 * [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
 * [2026-02-21, 21:03:28](https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism) - [Prefer If Statements To Polymorphism](https://htmx.org/essays/prefer-if-statements/)
 * [2026-02-21, 19:37:47](https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design) - [Parse, don't Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
