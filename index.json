@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-22, 16:40:21",
+      "https://lobste.rs/s/kamh7k/four_color_theorem_1852_1976"
+    ],
+    [
+      "The Four-Color Theorem 1852–1976",
+      "https://www.ams.org/journals/notices/202603/noti3305/noti3305.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 16:33:50",
+      "https://lobste.rs/s/czwaca/intent_developer_workspace_for_agent"
+    ],
+    [
+      "Intent - The developer workspace for agent orchestration",
+      "https://www.augmentcode.com/product/intent"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 15:17:50",
       "https://lobste.rs/s/dpzhs5/drowse_nix_dynamic_derivations_made_easy"
     ],
@@ -37,16 +57,6 @@
     [
       "Velocity Is Dead: AI-Generated Compilers and the Future of Software",
       "https://www.openhands.dev/blog/20260219-velocity-is-dead"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 11:54:21",
-      "https://lobste.rs/s/sacz3z/running_risc_v_vm_test_my_snaps"
-    ],
-    [
-      "Running RISC-V in a VM to test my snaps",
-      "https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "joinirc.at: Link to your IRC server on any client to onboard new users",
       "https://joinirc.at"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 20:31:39",
-      "https://lobste.rs/s/gscaw3/turn_dependabot_off"
-    ],
-    [
-      "Turn Dependabot Off",
-      "https://words.filippo.io/dependabot/"
     ]
   ],
   [
