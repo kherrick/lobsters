@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-22, 17:05:11",
+      "https://lobste.rs/s/qpatpu/are_compilers_deterministic"
+    ],
+    [
+      "Are Compilers Deterministic?",
+      "https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 16:40:21",
       "https://lobste.rs/s/kamh7k/four_color_theorem_1852_1976"
     ],
@@ -47,16 +57,6 @@
     [
       "Parse, Don’t Validate AKA Some C Safety Tips",
       "https://www.lelanthran.com/chap13/content.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 13:23:30",
-      "https://lobste.rs/s/pwdbgn/velocity_is_dead_ai_generated_compilers"
-    ],
-    [
-      "Velocity Is Dead: AI-Generated Compilers and the Future of Software",
-      "https://www.openhands.dev/blog/20260219-velocity-is-dead"
     ]
   ],
   [
