@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 19:25:15](https://lobste.rs/s/ch5jcd/documentary_about_mozilla_firefox_at) - [Documentary about Mozilla Firefox at pwn2own (part 1)](https://www.youtube.com/watch?v=YQEq5s4SRxY)
 * [2026-02-22, 18:52:05](https://lobste.rs/s/ihlgsi/cslib_lean_computer_science_library) - [CSLib: The Lean Computer Science Library](https://arxiv.org/abs/2602.04846)
 * [2026-02-22, 17:16:58](https://lobste.rs/s/y5dgkw/back_freebsd_part_1) - [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 * [2026-02-22, 17:05:11](https://lobste.rs/s/qpatpu/are_compilers_deterministic) - [Are Compilers Deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)
