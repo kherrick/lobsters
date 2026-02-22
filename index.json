@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-22, 13:56:02",
+      "https://lobste.rs/s/b5f1ni/parse_don_t_validate_aka_some_c_safety_tips"
+    ],
+    [
+      "Parse, Don’t Validate AKA Some C Safety Tips",
+      "https://www.lelanthran.com/chap13/content.html"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 13:23:30",
       "https://lobste.rs/s/pwdbgn/velocity_is_dead_ai_generated_compilers"
     ],
@@ -127,16 +137,6 @@
     [
       "Loon — A LISP that flies",
       "https://loonlang.com"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 21:53:26",
-      "https://lobste.rs/s/i3sveh/thunderkittens_2_0_even_faster_kernels"
-    ],
-    [
-      "ThunderKittens 2.0: Even Faster Kernels for Your GPUs",
-      "https://hazyresearch.stanford.edu/blog/2026-02-19-tk-2"
     ]
   ],
   [
