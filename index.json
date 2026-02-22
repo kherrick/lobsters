@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-22, 00:37:47",
+      "https://lobste.rs/s/awr4cx/how_why_local_llms_perform_on_framework_13"
+    ],
+    [
+      "How and Why Local LLMs Perform On Framework 13 AMD Strix Point",
+      "https://msf.github.io/blogpost/local-llm-performance-framework13.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 00:37:36",
+      "https://lobste.rs/s/5ax0gx/future_math_research_age_ai"
+    ],
+    [
+      "The Future of Math Research in the Age of AI",
+      "https://siliconreckoner.substack.com/p/the-future-of-math-research-in-the"
+    ]
+  ],
+  [
+    [
       "2026-02-21, 22:39:33",
       "https://lobste.rs/s/uwdci4/hemmi_post_1460_versalog_sliderule"
     ],
     [
       "Hemmi/Post 1460 Versalog (Sliderule emulator)",
       "https://thingsabove.github.io/Sliderule-Simulator-with-Solver/react/hemmi_versalog.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-21, 22:00:24",
+      "https://lobste.rs/s/0blzao/loon_lisp_flies"
+    ],
+    [
+      "Loon — A LISP that flies",
+      "https://loonlang.com"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-02-21, 15:37:09",
-      "https://lobste.rs/s/7jojhi/cereggii_thread_synchronization"
-    ],
-    [
-      "cereggii: Thread synchronization utilities for Python",
-      "https://github.com/dpdani/cereggii"
-    ]
-  ],
-  [
-    [
       "2026-02-21, 15:07:03",
       "https://lobste.rs/s/wplgka/whale_fall"
     ],
@@ -107,16 +127,6 @@
     [
       "The Fastest Way to Board an Airplane",
       "https://navendu.me/posts/airlines-hate-this-trick/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 12:27:23",
-      "https://lobste.rs/s/lbcdt3/c_iceberg"
-    ],
-    [
-      "The C Iceberg",
-      "https://www.youtube.com/watch?v=63zGtiv89bA"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "A Beginner’s Guide to Split Keyboards",
       "https://justinmklam.com/posts/2026/02/beginners-guide-split-keyboards/"
-    ]
-  ],
-  [
-    [
-      "2026-02-20, 19:34:26",
-      "https://lobste.rs/s/zkby7e/lil_fun_langs"
-    ],
-    [
-      "Lil' Fun Langs",
-      "https://taylor.town/scrapscript-000"
     ]
   ],
   [
