@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-22, 11:54:21](https://lobste.rs/s/sacz3z/running_risc_v_vm_test_my_snaps) - [Running RISC-V in a VM to test my snaps](https://blog.popey.com/2026/02/running-risc-v-in-a-vm-to-test-my-snaps/)
 * [2026-02-22, 10:13:42](https://lobste.rs/s/errsl1/how_taalas_prints_llm_onto_chip) - [How Taalas \"prints\" LLM onto a chip?](https://www.anuragk.com/blog/posts/Taalas.html)
 * [2026-02-22, 09:23:54](https://lobste.rs/s/vdueen/you_are_not_left_behind) - [You are not left behind](https://www.ufried.com/blog/not_left_behind/)
 * [2026-02-22, 09:16:02](https://lobste.rs/s/phgo6d/uts_39_unicode_security_mechanisms) - [UTS #39: Unicode Security Mechanisms](https://www.unicode.org/reports/tr39/)
-* [2026-02-22, 08:51:23](https://lobste.rs/s/931ohm/accessibility_is_civil_rights_ai_must) - [Accessibility Is Civil Rights. AI Must Stop Shipping Barriers](https://conesible.de/wab/)
 * [2026-02-22, 08:23:04](https://lobste.rs/s/4ypj10/cosmologically_unique_ids) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)
 * [2026-02-22, 05:54:28](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason) - [Proposal: add \"AI generated\" as a flag reason](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason)
 * [2026-02-22, 05:19:51](https://lobste.rs/s/kgatai/http_3_on_freebsd_getting_quic_working) - [HTTP/3 on FreeBSD: Getting QUIC Working with nginx in a Bastille Jail](https://blog.hofstede.it/http3-on-freebsd-getting-quic-working-with-nginx-in-a-bastille-jail/)
