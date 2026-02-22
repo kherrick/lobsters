@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 19:57:03](https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31) - [confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
+* [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:40:40](https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends) - [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
 * [2026-02-22, 19:32:54](https://lobste.rs/s/pnvimn/bit_fields) - [Bit-fields](https://mocelik.com/c/bit-fields/)
 * [2026-02-22, 19:25:15](https://lobste.rs/s/ch5jcd/documentary_about_mozilla_firefox_at) - [Documentary about Mozilla Firefox at pwn2own (part 1)](https://www.youtube.com/watch?v=YQEq5s4SRxY)
