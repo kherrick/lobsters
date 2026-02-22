@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-22, 19:57:03",
+      "https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31"
+    ],
+    [
+      "confusables.txt and NFKC disagree on 31 characters",
+      "https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 19:52:23",
+      "https://lobste.rs/s/cgo4vm/tears_donald_knuth"
+    ],
+    [
+      "The Tears of Donald Knuth",
+      "https://cacm.acm.org/opinion/the-tears-of-donald-knuth/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 19:40:40",
       "https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends"
     ],
@@ -197,26 +217,6 @@
     [
       "lobste.rs migrates from MariaDB to SQLite",
       "https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 21:03:28",
-      "https://lobste.rs/s/xgd19m/prefer_if_statements_polymorphism"
-    ],
-    [
-      "Prefer If Statements To Polymorphism",
-      "https://htmx.org/essays/prefer-if-statements/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 19:37:47",
-      "https://lobste.rs/s/ssfatg/parse_don_t_validate_type_driven_design"
-    ],
-    [
-      "Parse, don't Validate and Type-Driven Design in Rust",
-      "https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/"
     ]
   ],
   [
