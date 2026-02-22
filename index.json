@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-22, 19:40:40",
+      "https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends"
+    ],
+    [
+      "Read Locks Are Not Your Friends",
+      "https://eventual-consistency.vercel.app/posts/write-locks-faster"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 19:32:54",
+      "https://lobste.rs/s/pnvimn/bit_fields"
+    ],
+    [
+      "Bit-fields",
+      "https://mocelik.com/c/bit-fields/"
+    ]
+  ],
+  [
+    [
       "2026-02-22, 19:25:15",
       "https://lobste.rs/s/ch5jcd/documentary_about_mozilla_firefox_at"
     ],
@@ -87,16 +107,6 @@
     [
       "You are not left behind",
       "https://www.ufried.com/blog/not_left_behind/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 09:16:02",
-      "https://lobste.rs/s/phgo6d/uts_39_unicode_security_mechanisms"
-    ],
-    [
-      "UTS #39: Unicode Security Mechanisms",
-      "https://www.unicode.org/reports/tr39/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The Fastest Way to Board an Airplane",
       "https://navendu.me/posts/airlines-hate-this-trick/"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 11:18:57",
-      "https://lobste.rs/s/haqwn0/wikipedia_blacklists_archive_today"
-    ],
-    [
-      "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
-      "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/"
     ]
   ],
   [
