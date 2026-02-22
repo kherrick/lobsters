@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-22, 17:05:11](https://lobste.rs/s/qpatpu/are_compilers_deterministic) - [Are Compilers Deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)
 * [2026-02-22, 16:40:21](https://lobste.rs/s/kamh7k/four_color_theorem_1852_1976) - [The Four-Color Theorem 1852–1976](https://www.ams.org/journals/notices/202603/noti3305/noti3305.html)
 * [2026-02-22, 16:33:50](https://lobste.rs/s/czwaca/intent_developer_workspace_for_agent) - [Intent - The developer workspace for agent orchestration](https://www.augmentcode.com/product/intent)
 * [2026-02-22, 15:17:50](https://lobste.rs/s/dpzhs5/drowse_nix_dynamic_derivations_made_easy) - [Drowse: Nix dynamic derivations made easy](https://github.com/figsoda/drowse)
 * [2026-02-22, 15:03:56](https://lobste.rs/s/vqcpbb/we_hid_backdoors_40mb_binaries_asked_ai) - [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
 * [2026-02-22, 13:56:02](https://lobste.rs/s/b5f1ni/parse_don_t_validate_aka_some_c_safety_tips) - [Parse, Don’t Validate AKA Some C Safety Tips](https://www.lelanthran.com/chap13/content.html)
-* [2026-02-22, 13:23:30](https://lobste.rs/s/pwdbgn/velocity_is_dead_ai_generated_compilers) - [Velocity Is Dead: AI-Generated Compilers and the Future of Software](https://www.openhands.dev/blog/20260219-velocity-is-dead)
 * [2026-02-22, 09:23:54](https://lobste.rs/s/vdueen/you_are_not_left_behind) - [You are not left behind](https://www.ufried.com/blog/not_left_behind/)
 * [2026-02-22, 08:51:23](https://lobste.rs/s/931ohm/accessibility_is_civil_rights_ai_must) - [Accessibility Is Civil Rights. AI Must Stop Shipping Barriers](https://conesible.de/wab/)
 * [2026-02-22, 08:23:04](https://lobste.rs/s/4ypj10/cosmologically_unique_ids) - [Cosmologically Unique IDs](https://jasonfantl.com/posts/Universal-Unique-IDs/)

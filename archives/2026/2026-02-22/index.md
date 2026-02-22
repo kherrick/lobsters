@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-22](index.md)
 
+* [2026-02-22, 17:05:11](https://lobste.rs/s/qpatpu/are_compilers_deterministic) - [Are Compilers Deterministic?](https://blog.onepatchdown.net/2026/02/22/are-compilers-deterministic-nerd-version/)
 * [2026-02-22, 16:40:21](https://lobste.rs/s/kamh7k/four_color_theorem_1852_1976) - [The Four-Color Theorem 1852–1976](https://www.ams.org/journals/notices/202603/noti3305/noti3305.html)
 * [2026-02-22, 16:33:50](https://lobste.rs/s/czwaca/intent_developer_workspace_for_agent) - [Intent - The developer workspace for agent orchestration](https://www.augmentcode.com/product/intent)
 * [2026-02-22, 15:17:50](https://lobste.rs/s/dpzhs5/drowse_nix_dynamic_derivations_made_easy) - [Drowse: Nix dynamic derivations made easy](https://github.com/figsoda/drowse)
