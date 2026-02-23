@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
 * [2026-02-23, 11:27:53](https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates) - [Forgejo, AGit, and Pull Request Templates](https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html)
+* [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment_hetzner_docs) - [Hetzner Price Adjustment - Hetzner Docs](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
 * [2026-02-23, 09:12:27](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week)
 * [2026-02-23, 08:25:34](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer) - [microgpt - LLM visualizer](https://microgpt.boratto.ca/)
 * [2026-02-23, 07:49:16](https://lobste.rs/s/3mfu6y/crawling_billion_web_pages_just_over_24) - [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
