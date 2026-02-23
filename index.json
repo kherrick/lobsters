@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-02-23, 16:08:31",
-      "https://lobste.rs/s/3jljw5/rango_voice_control_for_browsers"
+      "2026-02-23, 17:26:55",
+      "https://lobste.rs/s/mzjtdn/brag_frog_brag_doc_builds_itself_from"
     ],
     [
-      "rango: Voice control for browsers",
-      "https://github.com/david-tejada/rango"
+      "Brag Frog – The brag doc that builds itself from GitHub, Jira and Co",
+      "https://brag-frog.org/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 17:13:55",
+      "https://lobste.rs/s/fvscnj/dmmsy_c99_implementation_single_source"
+    ],
+    [
+      "DMMSY: C99 implementation of Single-Source Shortest Path",
+      "https://github.com/danalec/DMMSY-SSSP"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 16:40:31",
+      "https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote"
+    ],
+    [
+      "Some Silly Z3 Scripts I Wrote",
+      "https://www.hillelwayne.com/post/z3-examples/"
     ]
   ],
   [
@@ -102,10 +122,10 @@
   [
     [
       "2026-02-23, 11:25:35",
-      "https://lobste.rs/s/yi5iu1/hetzner_price_adjustment_hetzner_docs"
+      "https://lobste.rs/s/yi5iu1/hetzner_price_adjustment"
     ],
     [
-      "Hetzner Price Adjustment - Hetzner Docs",
+      "Hetzner Price Adjustment",
       "https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-02-22, 19:57:03",
-      "https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31"
-    ],
-    [
-      "confusables.txt and NFKC disagree on 31 characters",
-      "https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 19:52:23",
       "https://lobste.rs/s/cgo4vm/tears_donald_knuth_2015"
     ],
@@ -237,16 +247,6 @@
     [
       "Proposal: add \"AI generated\" as a flag reason",
       "https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 02:32:21",
-      "https://lobste.rs/s/s3en46/fix_your_tools"
-    ],
-    [
-      "Fix your tools",
-      "https://ochagavia.nl/blog/fix-your-tools/"
     ]
   ]
 ]
