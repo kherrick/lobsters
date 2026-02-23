@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-23, 06:13:29",
+      "https://lobste.rs/s/dnyzhk/using_new_bridges_freebsd_15"
+    ],
+    [
+      "Using The New Bridges of FreeBSD 15",
+      "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 05:33:55",
+      "https://lobste.rs/s/qhoikt/efficient_acid_compliant_vector_search"
+    ],
+    [
+      "Efficient and ACID Compliant Vector Search Indexes in Firebolt",
+      "https://www.firebolt.io/blog/technical-deep-dive-efficient-and-acid-compliant-vector-search-indexes-in-firebolt"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 02:54:58",
       "https://lobste.rs/s/5rrpem/using_nsnotifyd_with_powerdns_secondary"
     ],
@@ -47,16 +67,6 @@
     [
       "codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required",
       "https://github.com/boyter/cs"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 20:43:58",
-      "https://lobste.rs/s/zyv3xz/swift_import_declarations_2019"
-    ],
-    [
-      "Swift Import Declarations (2019)",
-      "https://nshipster.com/import/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "lobste.rs migrates from MariaDB to SQLite",
       "https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite"
-    ]
-  ],
-  [
-    [
-      "2026-02-21, 12:55:54",
-      "https://lobste.rs/s/l0gv3h/fastest_way_board_airplane"
-    ],
-    [
-      "The Fastest Way to Board an Airplane",
-      "https://navendu.me/posts/airlines-hate-this-trick/"
     ]
   ]
 ]
