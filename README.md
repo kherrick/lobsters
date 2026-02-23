@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 20:33:19](https://lobste.rs/s/cyuyhm/300_days_rubocop) - [300 Days of RuboCop](https://lovro-bikic.github.io/300-days-of-rubocop/)
 * [2026-02-23, 19:31:40](https://lobste.rs/s/nelruh/verifpal_rewritten_rust) - [Verifpal, Rewritten in Rust](https://symbolic.software/blog/2026-02-23-verifpal-rust/)
 * [2026-02-23, 16:40:31](https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote) - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)
@@ -23,7 +24,6 @@
 * [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth_2015) - [The Tears of Donald Knuth (2015)](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:40:40](https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends) - [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
 * [2026-02-22, 15:17:50](https://lobste.rs/s/dpzhs5/drowse_nix_dynamic_derivations_made_easy) - [Drowse: Nix dynamic derivations made easy](https://github.com/figsoda/drowse)
-* [2026-02-22, 09:23:54](https://lobste.rs/s/vdueen/you_are_not_left_behind) - [You are not left behind](https://www.ufried.com/blog/not_left_behind/)
 * [2026-02-22, 05:54:28](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason) - [Proposal: add \"AI generated\" as a flag reason](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason)
 
 ## [Archives](archives/index.md)
