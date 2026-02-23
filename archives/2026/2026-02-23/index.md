@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 20:33:19](https://lobste.rs/s/cyuyhm/300_days_rubocop) - [300 Days of RuboCop](https://lovro-bikic.github.io/300-days-of-rubocop/)
 * [2026-02-23, 19:31:40](https://lobste.rs/s/nelruh/verifpal_rewritten_rust) - [Verifpal, Rewritten in Rust](https://symbolic.software/blog/2026-02-23-verifpal-rust/)
 * [2026-02-23, 17:26:55](https://lobste.rs/s/mzjtdn/brag_frog_brag_doc_builds_itself_from) - [Brag Frog – The brag doc that builds itself from GitHub, Jira and Co](https://brag-frog.org/)
 * [2026-02-23, 17:13:55](https://lobste.rs/s/fvscnj/dmmsy_c99_implementation_single_source) - [DMMSY: C99 implementation of Single-Source Shortest Path](https://github.com/danalec/DMMSY-SSSP)
