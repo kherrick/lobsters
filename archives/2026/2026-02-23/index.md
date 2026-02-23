@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 17:26:55](https://lobste.rs/s/mzjtdn/brag_frog_brag_doc_builds_itself_from) - [Brag Frog – The brag doc that builds itself from GitHub, Jira and Co](https://brag-frog.org/)
+* [2026-02-23, 17:13:55](https://lobste.rs/s/fvscnj/dmmsy_c99_implementation_single_source) - [DMMSY: C99 implementation of Single-Source Shortest Path](https://github.com/danalec/DMMSY-SSSP)
+* [2026-02-23, 16:40:31](https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote) - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)
 * [2026-02-23, 16:08:31](https://lobste.rs/s/3jljw5/rango_voice_control_for_browsers) - [rango: Voice control for browsers](https://github.com/david-tejada/rango)
 * [2026-02-23, 15:41:13](https://lobste.rs/s/ype4g3/disappointing_phones) - [Disappointing phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
 * [2026-02-23, 15:24:40](https://lobste.rs/s/bto9ju/tracking_nixos_option_values) - [Tracking NixOS option values and dependencies](https://oddlama.org/blog/tracking-options-in-nixos/)
@@ -16,6 +19,7 @@
 * [2026-02-23, 12:43:53](https://lobste.rs/s/w0hlpk/queues_for_kafka_ready_for_prime_time) - [Queues for Kafka ready for prime time](https://freedium-mirror.cfd/https://medium.com/@andrew_schofield/queues-for-kafka-ready-for-prime-time-988f5c58b8f7)
 * [2026-02-23, 11:27:53](https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates) - [Forgejo, AGit, and Pull Request Templates](https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html)
 * [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment_hetzner_docs) - [Hetzner Price Adjustment - Hetzner Docs](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
+* [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment) - [Hetzner Price Adjustment](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
 * [2026-02-23, 09:12:27](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week)
 * [2026-02-23, 08:25:34](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer) - [microgpt - LLM visualizer](https://microgpt.boratto.ca/)
 * [2026-02-23, 07:49:16](https://lobste.rs/s/3mfu6y/crawling_billion_web_pages_just_over_24) - [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
