@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-23, 14:15:27](https://lobste.rs/s/tmynah/using_haskell_s_newtype_c) - [Using Haskell's 'newtype' in C](https://blog.nelhage.com/2010/10/using-haskells-newtype-in-c/)
 * [2026-02-23, 13:28:15](https://lobste.rs/s/1ydlk8/ladybird_adopts_rust_with_help_from_ai) - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 13:20:43](https://lobste.rs/s/7zdq2s/you_don_t_need_free_lists) - [You don't need free lists](https://jakubtomsu.github.io/posts/bit_pools/)
 * [2026-02-23, 12:55:10](https://lobste.rs/s/0s4w9x/designing_odin_s_casting_syntax) - [Designing Odin's Casting Syntax](https://www.gingerbill.org/article/2026/02/23/designing-odins-casting-syntax/)
 * [2026-02-23, 12:47:33](https://lobste.rs/s/tbsdd4/cursed_engineering_jumping_randomly) - [Cursed engineering: jumping randomly through CSV files without hurting yourself](https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md)
-* [2026-02-23, 12:43:53](https://lobste.rs/s/w0hlpk/queues_for_kafka_ready_for_prime_time) - [Queues for Kafka ready for prime time](https://freedium-mirror.cfd/https://medium.com/@andrew_schofield/queues-for-kafka-ready-for-prime-time-988f5c58b8f7)
 * [2026-02-23, 11:27:53](https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates) - [Forgejo, AGit, and Pull Request Templates](https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html)
 * [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment_hetzner_docs) - [Hetzner Price Adjustment - Hetzner Docs](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
 * [2026-02-23, 09:12:27](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week)

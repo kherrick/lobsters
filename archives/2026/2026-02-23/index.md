@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-23](index.md)
 
+* [2026-02-23, 14:15:27](https://lobste.rs/s/tmynah/using_haskell_s_newtype_c) - [Using Haskell's 'newtype' in C](https://blog.nelhage.com/2010/10/using-haskells-newtype-in-c/)
 * [2026-02-23, 13:28:15](https://lobste.rs/s/1ydlk8/ladybird_adopts_rust_with_help_from_ai) - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
 * [2026-02-23, 13:20:43](https://lobste.rs/s/7zdq2s/you_don_t_need_free_lists) - [You don't need free lists](https://jakubtomsu.github.io/posts/bit_pools/)
 * [2026-02-23, 12:55:10](https://lobste.rs/s/0s4w9x/designing_odin_s_casting_syntax) - [Designing Odin's Casting Syntax](https://www.gingerbill.org/article/2026/02/23/designing-odins-casting-syntax/)
