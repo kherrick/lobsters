@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-23, 22:29:00](https://lobste.rs/s/yszlzn/coordinating_adversarial_ai_agents) - [Coordinating adversarial AI agents](https://s2.dev)
 * [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 20:33:19](https://lobste.rs/s/cyuyhm/300_days_rubocop) - [300 Days of RuboCop](https://lovro-bikic.github.io/300-days-of-rubocop/)
-* [2026-02-23, 19:31:40](https://lobste.rs/s/nelruh/verifpal_rewritten_rust) - [Verifpal, Rewritten in Rust](https://symbolic.software/blog/2026-02-23-verifpal-rust/)
 * [2026-02-23, 16:40:31](https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote) - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)
 * [2026-02-23, 15:41:13](https://lobste.rs/s/ype4g3/disappointing_phones) - [Disappointing phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
 * [2026-02-23, 15:24:40](https://lobste.rs/s/bto9ju/tracking_nixos_option_values) - [Tracking NixOS option values and dependencies](https://oddlama.org/blog/tracking-options-in-nixos/)
