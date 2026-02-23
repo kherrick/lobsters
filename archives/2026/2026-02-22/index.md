@@ -8,6 +8,7 @@
 * [2026-02-22, 21:42:53](https://lobste.rs/s/0eqbn3/comparing_c_c_unity_build_with_regular) - [Comparing C/C++ unity build with regular build on a large codebase (2024)](https://hereket.com/posts/cpp-unity-compile-inkscape/)
 * [2026-02-22, 20:43:58](https://lobste.rs/s/zyv3xz/swift_import_declarations_2019) - [Swift Import Declarations (2019)](https://nshipster.com/import/)
 * [2026-02-22, 19:57:03](https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31) - [confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
+* [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth_2015) - [The Tears of Donald Knuth (2015)](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:40:40](https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends) - [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
 * [2026-02-22, 19:32:54](https://lobste.rs/s/pnvimn/bit_fields) - [Bit-fields](https://mocelik.com/c/bit-fields/)
