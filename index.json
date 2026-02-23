@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2026-02-23, 12:43:53",
-      "https://lobste.rs/s/w0hlpk/queues_for_kafka_ready_for_prime_time"
-    ],
-    [
-      "Queues for Kafka ready for prime time",
-      "https://freedium-mirror.cfd/https://medium.com/@andrew_schofield/queues-for-kafka-ready-for-prime-time-988f5c58b8f7"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 11:27:53",
       "https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates"
     ],
@@ -197,6 +187,16 @@
     [
       "codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required",
       "https://github.com/boyter/cs"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 19:57:03",
+      "https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31"
+    ],
+    [
+      "confusables.txt and NFKC disagree on 31 characters",
+      "https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/"
     ]
   ],
   [
