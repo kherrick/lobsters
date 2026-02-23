@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-23, 23:16:48",
+      "https://lobste.rs/s/aeuhf7/signed_sealed_stolen_how_we_patched"
+    ],
+    [
+      "Signed, Sealed, Stolen: How We Patched Critical Vulnerabilities Under Fire",
+      "https://www.youtube.com/watch?v=CZ4nk9aWzYM"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 22:29:00",
       "https://lobste.rs/s/yszlzn/coordinating_adversarial_ai_agents"
     ],
@@ -217,16 +227,6 @@
     [
       "The Tears of Donald Knuth (2015)",
       "https://cacm.acm.org/opinion/the-tears-of-donald-knuth/"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 19:40:40",
-      "https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends"
-    ],
-    [
-      "Read Locks Are Not Your Friends",
-      "https://eventual-consistency.vercel.app/posts/write-locks-faster"
     ]
   ],
   [
