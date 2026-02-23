@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-23, 15:24:40",
+      "https://lobste.rs/s/bto9ju/tracking_nixos_option_values"
+    ],
+    [
+      "Tracking NixOS option values and dependencies",
+      "https://oddlama.org/blog/tracking-options-in-nixos/"
+    ]
+  ],
+  [
+    [
+      "2026-02-23, 15:23:11",
+      "https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site"
+    ],
+    [
+      "So I've Been Thinking About Static Site Generators",
+      "https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 14:15:27",
       "https://lobste.rs/s/tmynah/using_haskell_s_newtype_c"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-02-22, 17:16:58",
-      "https://lobste.rs/s/y5dgkw/back_freebsd_part_1"
-    ],
-    [
-      "Back to FreeBSD: Part 1",
-      "https://hypha.pub/back-to-freebsd-part-1"
-    ]
-  ],
-  [
-    [
       "2026-02-22, 15:17:50",
       "https://lobste.rs/s/dpzhs5/drowse_nix_dynamic_derivations_made_easy"
     ],
     [
       "Drowse: Nix dynamic derivations made easy",
       "https://github.com/figsoda/drowse"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 15:03:56",
-      "https://lobste.rs/s/vqcpbb/we_hid_backdoors_40mb_binaries_asked_ai"
-    ],
-    [
-      "We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them",
-      "https://quesma.com/blog/introducing-binaryaudit/"
     ]
   ],
   [
