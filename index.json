@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-23, 19:31:40",
+      "https://lobste.rs/s/nelruh/verifpal_rewritten_rust"
+    ],
+    [
+      "Verifpal, Rewritten in Rust",
+      "https://symbolic.software/blog/2026-02-23-verifpal-rust/"
+    ]
+  ],
+  [
+    [
       "2026-02-23, 16:40:31",
       "https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote"
     ],
@@ -187,16 +197,6 @@
     [
       "codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required",
       "https://github.com/boyter/cs"
-    ]
-  ],
-  [
-    [
-      "2026-02-22, 19:57:03",
-      "https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31"
-    ],
-    [
-      "confusables.txt and NFKC disagree on 31 characters",
-      "https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/"
     ]
   ],
   [
