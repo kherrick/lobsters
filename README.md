@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-23, 06:13:29](https://lobste.rs/s/dnyzhk/using_new_bridges_freebsd_15) - [Using The New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
+* [2026-02-23, 05:33:55](https://lobste.rs/s/qhoikt/efficient_acid_compliant_vector_search) - [Efficient and ACID Compliant Vector Search Indexes in Firebolt](https://www.firebolt.io/blog/technical-deep-dive-efficient-and-acid-compliant-vector-search-indexes-in-firebolt)
 * [2026-02-23, 02:54:58](https://lobste.rs/s/5rrpem/using_nsnotifyd_with_powerdns_secondary) - [Using nsnotifyd with a PowerDNS Secondary](https://blog.feld.me/posts/2026/02/nsnotifyd-with-powerdns-secondary/)
 * [2026-02-23, 02:49:31](https://lobste.rs/s/bysfi9/fast_starting_clojure_runtime_built_with) - [Fast starting Clojure runtime built with GraalVM native-image + Crema](https://github.com/borkdude/cream)
 * [2026-02-23, 02:31:46](https://lobste.rs/s/biattx/official_specification_reference_code) - [Official specification and reference code for Fast Lightweight Online Encryption (FLOE)](https://github.com/Snowflake-Labs/floe-specification)
 * [2026-02-23, 01:38:11](https://lobste.rs/s/zbirtc/jit_header_only_cross_platform_jit) - [jit: A header-only, cross-platform JIT compiler library in C. Targets x86-32, x86-64, ARM32 and ARM64](https://github.com/abdimoallim/jit)
 * [2026-02-22, 23:53:14](https://lobste.rs/s/nddlyy/codespelunker_cli_code_search_tool) - [codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required](https://github.com/boyter/cs)
-* [2026-02-22, 20:43:58](https://lobste.rs/s/zyv3xz/swift_import_declarations_2019) - [Swift Import Declarations (2019)](https://nshipster.com/import/)
 * [2026-02-22, 19:57:03](https://lobste.rs/s/xlgbrz/confusables_txt_nfkc_disagree_on_31) - [confusables.txt and NFKC disagree on 31 characters](https://paultendo.github.io/posts/unicode-confusables-nfkc-conflict/)
 * [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth) - [The Tears of Donald Knuth](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
 * [2026-02-22, 19:40:40](https://lobste.rs/s/qzwdla/read_locks_are_not_your_friends) - [Read Locks Are Not Your Friends](https://eventual-consistency.vercel.app/posts/write-locks-faster)
@@ -24,7 +25,6 @@
 * [2026-02-22, 02:32:21](https://lobste.rs/s/s3en46/fix_your_tools) - [Fix your tools](https://ochagavia.nl/blog/fix-your-tools/)
 * [2026-02-22, 00:37:47](https://lobste.rs/s/awr4cx/how_why_local_llms_perform_on_framework_13) - [How and Why Local LLMs Perform On Framework 13 AMD Strix Point](https://msf.github.io/blogpost/local-llm-performance-framework13.html)
 * [2026-02-21, 21:30:11](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite) - [lobste.rs migrates from MariaDB to SQLite](https://lobste.rs/s/oz7ebk/lobste_rs_migrates_from_mariadb_sqlite)
-* [2026-02-21, 12:55:54](https://lobste.rs/s/l0gv3h/fastest_way_board_airplane) - [The Fastest Way to Board an Airplane](https://navendu.me/posts/airlines-hate-this-trick/)
 
 ## [Archives](archives/index.md)
 
