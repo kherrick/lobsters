@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-02-23, 05:33:55",
-      "https://lobste.rs/s/qhoikt/efficient_acid_compliant_vector_search"
-    ],
-    [
-      "Efficient and ACID Compliant Vector Search Indexes in Firebolt",
-      "https://www.firebolt.io/blog/technical-deep-dive-efficient-and-acid-compliant-vector-search-indexes-in-firebolt"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 02:54:58",
       "https://lobste.rs/s/5rrpem/using_nsnotifyd_with_powerdns_secondary"
     ],
@@ -67,6 +57,16 @@
     [
       "codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required",
       "https://github.com/boyter/cs"
+    ]
+  ],
+  [
+    [
+      "2026-02-22, 21:42:53",
+      "https://lobste.rs/s/0eqbn3/comparing_c_c_unity_build_with_regular"
+    ],
+    [
+      "Comparing C/C++ unity build with regular build on a large codebase (2024)",
+      "https://hereket.com/posts/cpp-unity-compile-inkscape/"
     ]
   ],
   [
