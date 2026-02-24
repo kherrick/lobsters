@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 07:14:26](https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000) - [Speeding up HTML generation by 2000%](https://bobrubbens.nl/post/speeding-up-html-generation-2000/)
+* [2026-02-24, 06:29:51](https://lobste.rs/s/ed1qpa/trolley_run_terminal_apps_anywhere) - [trolley: Run terminal apps anywhere](https://github.com/weedonandscott/trolley)
 * [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
 * [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
 * [2026-02-23, 23:16:48](https://lobste.rs/s/aeuhf7/signed_sealed_stolen_how_we_patched) - [Signed, Sealed, Stolen: How We Patched Critical Vulnerabilities Under Fire](https://www.youtube.com/watch?v=CZ4nk9aWzYM)
 * [2026-02-23, 22:59:25](https://lobste.rs/s/xrtjlq/i_ported_coreboot_thinkpad_x270) - [I ported Coreboot to the Thinkpad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
-* [2026-02-23, 22:29:00](https://lobste.rs/s/yszlzn/coordinating_adversarial_ai_agents) - [Coordinating adversarial AI agents](https://s2.dev)
 * [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 20:33:19](https://lobste.rs/s/cyuyhm/300_days_rubocop) - [300 Days of RuboCop](https://lovro-bikic.github.io/300-days-of-rubocop/)
 * [2026-02-23, 16:40:31](https://lobste.rs/s/xsi6um/some_silly_z3_scripts_i_wrote) - [Some Silly Z3 Scripts I Wrote](https://www.hillelwayne.com/post/z3-examples/)
@@ -23,7 +24,6 @@
 * [2026-02-23, 09:12:27](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eaifa0/what_are_you_doing_this_week)
 * [2026-02-23, 08:25:34](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer) - [microgpt - LLM visualizer](https://microgpt.boratto.ca/)
 * [2026-02-23, 07:49:16](https://lobste.rs/s/3mfu6y/crawling_billion_web_pages_just_over_24) - [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
-* [2026-02-23, 06:13:29](https://lobste.rs/s/dnyzhk/using_new_bridges_freebsd_15) - [Using The New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-22, 23:53:14](https://lobste.rs/s/nddlyy/codespelunker_cli_code_search_tool) - [codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required](https://github.com/boyter/cs)
 
 ## [Archives](archives/index.md)
