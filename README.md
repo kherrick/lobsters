@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
+* [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
 * [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
 * [2026-02-23, 23:16:48](https://lobste.rs/s/aeuhf7/signed_sealed_stolen_how_we_patched) - [Signed, Sealed, Stolen: How We Patched Critical Vulnerabilities Under Fire](https://www.youtube.com/watch?v=CZ4nk9aWzYM)
 * [2026-02-23, 22:59:25](https://lobste.rs/s/xrtjlq/i_ported_coreboot_thinkpad_x270) - [I ported Coreboot to the Thinkpad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
@@ -23,8 +25,6 @@
 * [2026-02-23, 06:13:29](https://lobste.rs/s/dnyzhk/using_new_bridges_freebsd_15) - [Using The New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
 * [2026-02-23, 02:49:31](https://lobste.rs/s/bysfi9/fast_starting_clojure_runtime_built_with) - [Fast starting Clojure runtime built with GraalVM native-image + Crema](https://github.com/borkdude/cream)
 * [2026-02-22, 23:53:14](https://lobste.rs/s/nddlyy/codespelunker_cli_code_search_tool) - [codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required](https://github.com/boyter/cs)
-* [2026-02-22, 19:52:23](https://lobste.rs/s/cgo4vm/tears_donald_knuth_2015) - [The Tears of Donald Knuth (2015)](https://cacm.acm.org/opinion/the-tears-of-donald-knuth/)
-* [2026-02-22, 05:54:28](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason) - [Proposal: add \"AI generated\" as a flag reason](https://lobste.rs/s/rkjpob/proposal_add_ai_generated_as_flag_reason)
 
 ## [Archives](archives/index.md)
 
