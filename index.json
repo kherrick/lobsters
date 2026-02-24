@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 14:58:28",
+      "https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything"
+    ],
+    [
+      "“Just a little detail that wouldn’t sell anything”",
+      "https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 14:30:52",
       "https://lobste.rs/s/klb2o8/row_locks_with_joins_can_produce"
     ],
@@ -12,10 +22,10 @@
   [
     [
       "2026-02-24, 14:14:13",
-      "https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar_luca"
+      "https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar"
     ],
     [
-      "Can agentic coding raise the quality bar? | Luca Palmieri",
+      "Can agentic coding raise the quality bar?",
       "https://lpalmieri.com/posts/agentic-coding-raises-quality/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "Disappointing phones",
       "https://cadence.moe/blog/2026-02-08-disappointing-phones"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 15:24:40",
-      "https://lobste.rs/s/bto9ju/tracking_nixos_option_values"
-    ],
-    [
-      "Tracking NixOS option values and dependencies",
-      "https://oddlama.org/blog/tracking-options-in-nixos/"
     ]
   ],
   [
