@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 11:15:13",
+      "https://lobste.rs/s/eiqt3l/about_memory_pressure_lock_contention"
+    ],
+    [
+      "About memory pressure, lock contention, and Data-oriented Design",
+      "https://mnt.io/articles/about-memory-pressure-lock-contention-and-data-oriented-design/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 09:46:51",
       "https://lobste.rs/s/nmyrxg/how_i_got_claude_teach_me_dbt"
     ],
@@ -217,16 +227,6 @@
     [
       "Cursed engineering: jumping randomly through CSV files without hurting yourself",
       "https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 11:27:53",
-      "https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates"
-    ],
-    [
-      "Forgejo, AGit, and Pull Request Templates",
-      "https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html"
     ]
   ],
   [
