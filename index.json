@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 04:56:24",
+      "https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution"
+    ],
+    [
+      "Compiler Education Deserves a Revolution",
+      "https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 03:12:54",
       "https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr"
     ],
@@ -227,16 +237,6 @@
     [
       "Using The New Bridges of FreeBSD 15",
       "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 02:49:31",
-      "https://lobste.rs/s/bysfi9/fast_starting_clojure_runtime_built_with"
-    ],
-    [
-      "Fast starting Clojure runtime built with GraalVM native-image + Crema",
-      "https://github.com/borkdude/cream"
     ]
   ],
   [
