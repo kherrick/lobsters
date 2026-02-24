@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
+* [2026-02-24, 20:15:18](https://lobste.rs/s/x3ygqa/nsnotifyd_2_4_released) - [nsnotifyd-2.4 released](https://dotat.at/@/2026-02-24-nsnotifyd-2-4-released.html)
 * [2026-02-24, 18:09:58](https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server) - [Scheduling in a Bare-Metal Web Server](https://thasso.xyz/scheduling.html)
 * [2026-02-24, 18:09:27](https://lobste.rs/s/wvngfj/prolog_logic_programming_higher_order) - [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
 * [2026-02-24, 17:47:56](https://lobste.rs/s/5gitgu/why_keepass_format_should_be_based_on) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
-* [2026-02-24, 15:46:55](https://lobste.rs/s/3sakbd/how_macos_controls_performance_qos_on) - [How macOS controls performance: QoS on Intel and M1 processors (2022)](https://eclecticlight.co/2022/01/07/how-macos-controls-performance-qos-on-intel-and-m1-processors/)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
 * [2026-02-24, 14:30:52](https://lobste.rs/s/klb2o8/row_locks_with_joins_can_produce) - [Row Locks With Joins Can Produce Surprising Results in PostgreSQL](https://hakibenita.com/postgres-row-lock-with-join)
 * [2026-02-24, 14:14:13](https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar) - [Can agentic coding raise the quality bar?](https://lpalmieri.com/posts/agentic-coding-raises-quality/)
@@ -24,7 +25,6 @@
 * [2026-02-23, 15:41:13](https://lobste.rs/s/ype4g3/disappointing_phones) - [Disappointing phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
 * [2026-02-23, 15:23:11](https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site) - [So I've Been Thinking About Static Site Generators](https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/)
 * [2026-02-23, 13:28:15](https://lobste.rs/s/1ydlk8/ladybird_adopts_rust_with_help_from_ai) - [Ladybird adopts Rust, with help from AI](https://ladybird.org/posts/adopting-rust/)
-* [2026-02-23, 12:47:33](https://lobste.rs/s/tbsdd4/cursed_engineering_jumping_randomly) - [Cursed engineering: jumping randomly through CSV files without hurting yourself](https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md)
 
 ## [Archives](archives/index.md)
 

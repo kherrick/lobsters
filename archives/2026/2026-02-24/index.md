@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
+* [2026-02-24, 20:15:18](https://lobste.rs/s/x3ygqa/nsnotifyd_2_4_released) - [nsnotifyd-2.4 released](https://dotat.at/@/2026-02-24-nsnotifyd-2-4-released.html)
 * [2026-02-24, 18:37:58](https://lobste.rs/s/1j2oua/sometimes_it_s_just_better_load_all_data) - [Sometimes it's just better to load \"all\" the data](https://blog.codingmilitia.com/2026/02/15/sometimes-its-just-better-to-load-all-the-data/)
 * [2026-02-24, 18:09:58](https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server) - [Scheduling in a Bare-Metal Web Server](https://thasso.xyz/scheduling.html)
 * [2026-02-24, 18:09:27](https://lobste.rs/s/wvngfj/prolog_logic_programming_higher_order) - [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
