@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 07:19:52](https://lobste.rs/s/behvsc/ruby_is_best_language_for_building_ai_apps) - [Ruby Is the Best Language for Building AI Apps](https://paolino.me/ruby-is-the-best-language-for-ai-apps/)
+* [2026-02-24, 07:19:00](https://lobste.rs/s/nwhp2x/permacomputing) - [Permacomputing](http://permacomputing.net/)
 * [2026-02-24, 07:14:26](https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000) - [Speeding up HTML generation by 2000%](https://bobrubbens.nl/post/speeding-up-html-generation-2000/)
 * [2026-02-24, 06:29:51](https://lobste.rs/s/ed1qpa/trolley_run_terminal_apps_anywhere) - [trolley: Run terminal apps anywhere](https://github.com/weedonandscott/trolley)
 * [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
