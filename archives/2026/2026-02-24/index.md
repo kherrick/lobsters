@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 21:54:18](https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages) - [UK fines Reddit for not checking user ages aggressively enough](https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/)
 * [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
 * [2026-02-24, 20:15:18](https://lobste.rs/s/x3ygqa/nsnotifyd_2_4_released) - [nsnotifyd-2.4 released](https://dotat.at/@/2026-02-24-nsnotifyd-2-4-released.html)
 * [2026-02-24, 18:37:58](https://lobste.rs/s/1j2oua/sometimes_it_s_just_better_load_all_data) - [Sometimes it's just better to load \"all\" the data](https://blog.codingmilitia.com/2026/02/15/sometimes-its-just-better-to-load-all-the-data/)
