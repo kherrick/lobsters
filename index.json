@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 16:00:27",
+      "https://lobste.rs/s/a37hkg/tla_by_example"
+    ],
+    [
+      "TLA+ By Example",
+      "https://tlabyexample.com/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 14:58:28",
       "https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything"
     ],
@@ -177,16 +187,6 @@
     [
       "Binding port 0 to avoid port collisions",
       "https://ntietz.com/blog/binding-ephemeral-port/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 20:33:19",
-      "https://lobste.rs/s/cyuyhm/300_days_rubocop"
-    ],
-    [
-      "300 Days of RuboCop",
-      "https://lovro-bikic.github.io/300-days-of-rubocop/"
     ]
   ],
   [
