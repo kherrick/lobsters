@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 18:09:58](https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server) - [Scheduling in a Bare-Metal Web Server](https://thasso.xyz/scheduling.html)
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
 * [2026-02-24, 15:46:55](https://lobste.rs/s/3sakbd/how_macos_controls_performance_qos_on) - [How macOS controls performance: QoS on Intel and M1 processors (2022)](https://eclecticlight.co/2022/01/07/how-macos-controls-performance-qos-on-intel-and-m1-processors/)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
@@ -18,7 +19,6 @@
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
 * [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
-* [2026-02-23, 22:59:25](https://lobste.rs/s/xrtjlq/i_ported_coreboot_thinkpad_x270) - [I ported Coreboot to the Thinkpad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
 * [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 15:41:13](https://lobste.rs/s/ype4g3/disappointing_phones) - [Disappointing phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
 * [2026-02-23, 15:23:11](https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site) - [So I've Been Thinking About Static Site Generators](https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/)

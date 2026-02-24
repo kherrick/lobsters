@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 18:09:58](https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server) - [Scheduling in a Bare-Metal Web Server](https://thasso.xyz/scheduling.html)
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
 * [2026-02-24, 15:46:55](https://lobste.rs/s/3sakbd/how_macos_controls_performance_qos_on) - [How macOS controls performance: QoS on Intel and M1 processors (2022)](https://eclecticlight.co/2022/01/07/how-macos-controls-performance-qos-on-intel-and-m1-processors/)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
