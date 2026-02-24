@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 09:46:51](https://lobste.rs/s/nmyrxg/how_i_got_claude_teach_me_dbt) - [How I got Claude to teach me dbt](https://rmoff.net/2026/02/20/claude-the-instructor/)
+* [2026-02-24, 09:17:48](https://lobste.rs/s/aqtdow/rust_debugging_survey_2026) - [Rust debugging survey 2026](https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/)
 * [2026-02-24, 08:33:05](https://lobste.rs/s/jfydxy/desk_setup_from_multi_monitor_single) - [Desk Setup: From Multi-Monitor to Single Screen with Virtual Desktops](https://www.ssp.sh/brain/computer-desk-setup-monitor-workflow/)
-* [2026-02-24, 07:19:52](https://lobste.rs/s/behvsc/ruby_is_best_language_for_building_ai_apps) - [Ruby Is the Best Language for Building AI Apps](https://paolino.me/ruby-is-the-best-language-for-ai-apps/)
+* [2026-02-24, 08:11:56](https://lobste.rs/s/yw92gw/sprites_on_web) - [Sprites on the Web](https://www.joshwcomeau.com/animation/sprites/)
 * [2026-02-24, 07:19:00](https://lobste.rs/s/nwhp2x/permacomputing) - [Permacomputing](http://permacomputing.net/)
 * [2026-02-24, 07:14:26](https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000) - [Speeding up HTML generation by 2000%](https://bobrubbens.nl/post/speeding-up-html-generation-2000/)
 * [2026-02-24, 06:29:51](https://lobste.rs/s/ed1qpa/trolley_run_terminal_apps_anywhere) - [trolley: Run terminal apps anywhere](https://github.com/weedonandscott/trolley)
@@ -9,7 +11,6 @@
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
 * [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
-* [2026-02-23, 23:16:48](https://lobste.rs/s/aeuhf7/signed_sealed_stolen_how_we_patched) - [Signed, Sealed, Stolen: How We Patched Critical Vulnerabilities Under Fire](https://www.youtube.com/watch?v=CZ4nk9aWzYM)
 * [2026-02-23, 22:59:25](https://lobste.rs/s/xrtjlq/i_ported_coreboot_thinkpad_x270) - [I ported Coreboot to the Thinkpad X270](https://dork.dev/posts/2026-02-20-ported-coreboot/)
 * [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 20:33:19](https://lobste.rs/s/cyuyhm/300_days_rubocop) - [300 Days of RuboCop](https://lovro-bikic.github.io/300-days-of-rubocop/)
@@ -23,7 +24,6 @@
 * [2026-02-23, 12:47:33](https://lobste.rs/s/tbsdd4/cursed_engineering_jumping_randomly) - [Cursed engineering: jumping randomly through CSV files without hurting yourself](https://github.com/medialab/xan/blob/master/docs/blog/csv_base_jumping.md)
 * [2026-02-23, 11:27:53](https://lobste.rs/s/favfvi/forgejo_agit_pull_request_templates) - [Forgejo, AGit, and Pull Request Templates](https://carlo.zancanaro.id.au/posts/forgejo-agit-and-pull-request-templates.html)
 * [2026-02-23, 11:25:35](https://lobste.rs/s/yi5iu1/hetzner_price_adjustment) - [Hetzner Price Adjustment](https://docs.hetzner.com/general/infrastructure-and-availability/price-adjustment/)
-* [2026-02-23, 07:49:16](https://lobste.rs/s/3mfu6y/crawling_billion_web_pages_just_over_24) - [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
 * [2026-02-22, 23:53:14](https://lobste.rs/s/nddlyy/codespelunker_cli_code_search_tool) - [codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required](https://github.com/boyter/cs)
 
 ## [Archives](archives/index.md)
