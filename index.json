@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-24, 07:14:26",
+      "https://lobste.rs/s/r0z04d/speeding_up_html_generation_by_2000"
+    ],
+    [
+      "Speeding up HTML generation by 2000%",
+      "https://bobrubbens.nl/post/speeding-up-html-generation-2000/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 06:29:51",
+      "https://lobste.rs/s/ed1qpa/trolley_run_terminal_apps_anywhere"
+    ],
+    [
+      "trolley: Run terminal apps anywhere",
+      "https://github.com/weedonandscott/trolley"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 04:56:24",
       "https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution"
     ],
@@ -57,16 +77,6 @@
     [
       "I ported Coreboot to the Thinkpad X270",
       "https://dork.dev/posts/2026-02-20-ported-coreboot/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 22:29:00",
-      "https://lobste.rs/s/yszlzn/coordinating_adversarial_ai_agents"
-    ],
-    [
-      "Coordinating adversarial AI agents",
-      "https://s2.dev"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Crawling a billion web pages in just over 24 hours",
       "https://andrewkchan.dev/posts/crawler.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 06:13:29",
-      "https://lobste.rs/s/dnyzhk/using_new_bridges_freebsd_15"
-    ],
-    [
-      "Using The New Bridges of FreeBSD 15",
-      "https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/"
     ]
   ],
   [
