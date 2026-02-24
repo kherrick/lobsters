@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
 * [2026-02-24, 14:30:52](https://lobste.rs/s/klb2o8/row_locks_with_joins_can_produce) - [Row Locks With Joins Can Produce Surprising Results in PostgreSQL](https://hakibenita.com/postgres-row-lock-with-join)
 * [2026-02-24, 14:14:13](https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar_luca) - [Can agentic coding raise the quality bar? | Luca Palmieri](https://lpalmieri.com/posts/agentic-coding-raises-quality/)
+* [2026-02-24, 14:14:13](https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar) - [Can agentic coding raise the quality bar?](https://lpalmieri.com/posts/agentic-coding-raises-quality/)
 * [2026-02-24, 13:56:43](https://lobste.rs/s/tzyslr/reducing_size_go_binaries_by_up_77) - [Reducing the size of Go binaries by up to 77%](https://www.datadoghq.com/blog/engineering/agent-go-binaries/)
 * [2026-02-24, 13:11:30](https://lobste.rs/s/jm4lpb/framedeck_framework_mainboard_based) - [framedeck: A Framework mainboard based Cyberdeck](https://github.com/brickbots/framedeck)
 * [2026-02-24, 13:02:10](https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml) - [Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
