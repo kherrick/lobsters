@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
 * [2026-02-24, 14:30:52](https://lobste.rs/s/klb2o8/row_locks_with_joins_can_produce) - [Row Locks With Joins Can Produce Surprising Results in PostgreSQL](https://hakibenita.com/postgres-row-lock-with-join)
 * [2026-02-24, 14:14:13](https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar_luca) - [Can agentic coding raise the quality bar? | Luca Palmieri](https://lpalmieri.com/posts/agentic-coding-raises-quality/)
