@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
 * [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
@@ -23,7 +24,6 @@
 * [2026-02-23, 08:25:34](https://lobste.rs/s/kxyicr/microgpt_llm_visualizer) - [microgpt - LLM visualizer](https://microgpt.boratto.ca/)
 * [2026-02-23, 07:49:16](https://lobste.rs/s/3mfu6y/crawling_billion_web_pages_just_over_24) - [Crawling a billion web pages in just over 24 hours](https://andrewkchan.dev/posts/crawler.html)
 * [2026-02-23, 06:13:29](https://lobste.rs/s/dnyzhk/using_new_bridges_freebsd_15) - [Using The New Bridges of FreeBSD 15](https://blog.feld.me/posts/2026/02/using-new-bridges-freebsd-15/)
-* [2026-02-23, 02:49:31](https://lobste.rs/s/bysfi9/fast_starting_clojure_runtime_built_with) - [Fast starting Clojure runtime built with GraalVM native-image + Crema](https://github.com/borkdude/cream)
 * [2026-02-22, 23:53:14](https://lobste.rs/s/nddlyy/codespelunker_cli_code_search_tool) - [codespelunker - CLI code search tool that understands code structure and ranks results by relevance. No indexing required](https://github.com/boyter/cs)
 
 ## [Archives](archives/index.md)
