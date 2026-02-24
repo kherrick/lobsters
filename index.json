@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 22:43:07",
+      "https://lobste.rs/s/xkzo35/rfc_406i_rejection_artificially"
+    ],
+    [
+      "RFC 406i - The Rejection of Artificially Generated Slop (RAGS)",
+      "https://406.fail/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 21:54:18",
       "https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages"
     ],
@@ -11,32 +21,22 @@
   ],
   [
     [
+      "2026-02-24, 20:57:22",
+      "https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj"
+    ],
+    [
+      "Introducing jjq, a local merge queue for jj",
+      "https://pauladamsmith.com/blog/2026/02/introducing-jjq-a-local-merge-queue-for-jj.html"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 20:46:38",
       "https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip"
     ],
     [
       "Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go",
       "https://charm.land/blog/v2/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 20:15:18",
-      "https://lobste.rs/s/x3ygqa/nsnotifyd_2_4_released"
-    ],
-    [
-      "nsnotifyd-2.4 released",
-      "https://dotat.at/@/2026-02-24-nsnotifyd-2-4-released.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 18:09:58",
-      "https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server"
-    ],
-    [
-      "Scheduling in a Bare-Metal Web Server",
-      "https://thasso.xyz/scheduling.html"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://lobste.rs/s/jm4lpb/framedeck_framework_mainboard_based"
     ],
     [
-      "framedeck: A Framework mainboard based Cyberdeck",
+      "framedeck: A Framework mainboard based Cyberdeck (2022)",
       "https://github.com/brickbots/framedeck"
     ]
   ],
