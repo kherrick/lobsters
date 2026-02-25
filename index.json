@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-02-25, 22:15:04",
+      "https://lobste.rs/s/d5epfz/deterministic_programming_with_llms"
+    ],
+    [
+      "Deterministic Programming with LLMs",
+      "https://www.mcherm.com/deterministic-programming-with-llms.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 21:45:04",
+      "https://lobste.rs/s/jakwkg/slow_death_power_user"
+    ],
+    [
+      "The Slow Death of the Power User",
+      "https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 21:26:55",
+      "https://lobste.rs/s/ghsrqv/text_based_google_directions"
+    ],
+    [
+      "Text-Based Google Directions",
+      "https://gdir.telae.net/"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 21:16:34",
       "https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-02-25, 03:26:34",
-      "https://lobste.rs/s/qjdakc/turing_completeness_gnu_find_from_mkdir"
-    ],
-    [
-      "Turing Completeness of GNU find: From mkdir-assisted Loops to Standalone Computation",
-      "https://arxiv.org/pdf/2602.20762"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 01:43:23",
       "https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty"
     ],
@@ -167,26 +187,6 @@
     [
       "ansigpt: c89 implementation of microgpt",
       "https://github.com/yobibyte/ansigpt"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 22:31:58",
-      "https://lobste.rs/s/fjrzzm/how_we_rebuilt_next_js_with_ai_one_week"
-    ],
-    [
-      "How we rebuilt Next.js with AI in one week",
-      "https://blog.cloudflare.com/vinext/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 20:57:22",
-      "https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj"
-    ],
-    [
-      "Introducing jjq, a local merge queue for jj",
-      "https://pauladamsmith.com/blog/2026/02/introducing-jjq-a-local-merge-queue-for-jj.html"
     ]
   ],
   [
