@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-24](index.md)
 
+* [2026-02-24, 22:59:23](https://lobste.rs/s/rhoktj/ansigpt_c89_implementation_microgpt) - [ansigpt: c89 implementation of microgpt](https://github.com/yobibyte/ansigpt)
 * [2026-02-24, 22:43:07](https://lobste.rs/s/xkzo35/rfc_406i_rejection_artificially) - [RFC 406i - The Rejection of Artificially Generated Slop (RAGS)](https://406.fail/)
+* [2026-02-24, 22:31:58](https://lobste.rs/s/fjrzzm/how_we_rebuilt_next_js_with_ai_one_week) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
 * [2026-02-24, 21:54:18](https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages) - [UK fines Reddit for not checking user ages aggressively enough](https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/)
 * [2026-02-24, 20:57:22](https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj) - [Introducing jjq, a local merge queue for jj](https://pauladamsmith.com/blog/2026/02/introducing-jjq-a-local-merge-queue-for-jj.html)
 * [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)

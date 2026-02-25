@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-24, 22:59:23](https://lobste.rs/s/rhoktj/ansigpt_c89_implementation_microgpt) - [ansigpt: c89 implementation of microgpt](https://github.com/yobibyte/ansigpt)
 * [2026-02-24, 22:43:07](https://lobste.rs/s/xkzo35/rfc_406i_rejection_artificially) - [RFC 406i - The Rejection of Artificially Generated Slop (RAGS)](https://406.fail/)
-* [2026-02-24, 21:54:18](https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages) - [UK fines Reddit for not checking user ages aggressively enough](https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/)
+* [2026-02-24, 22:31:58](https://lobste.rs/s/fjrzzm/how_we_rebuilt_next_js_with_ai_one_week) - [How we rebuilt Next.js with AI in one week](https://blog.cloudflare.com/vinext/)
 * [2026-02-24, 20:57:22](https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj) - [Introducing jjq, a local merge queue for jj](https://pauladamsmith.com/blog/2026/02/introducing-jjq-a-local-merge-queue-for-jj.html)
 * [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
+* [2026-02-24, 18:09:58](https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server) - [Scheduling in a Bare-Metal Web Server](https://thasso.xyz/scheduling.html)
 * [2026-02-24, 18:09:27](https://lobste.rs/s/wvngfj/prolog_logic_programming_higher_order) - [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
 * [2026-02-24, 17:47:56](https://lobste.rs/s/5gitgu/why_keepass_format_should_be_based_on) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
@@ -21,9 +23,7 @@
 * [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
-* [2026-02-23, 23:55:26](https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard) - [C Enum Sizes; or, How MSVC Ignores The Standard Once Again](https://ettolrach.com/blog/c_enum_msvc.html)
 * [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
-* [2026-02-23, 15:41:13](https://lobste.rs/s/ype4g3/disappointing_phones) - [Disappointing phones](https://cadence.moe/blog/2026-02-08-disappointing-phones)
 * [2026-02-23, 15:23:11](https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site) - [So I've Been Thinking About Static Site Generators](https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/)
 
 ## [Archives](archives/index.md)
