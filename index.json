@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-25, 03:26:34",
+      "https://lobste.rs/s/qjdakc/turing_completeness_gnu_find_from_mkdir"
+    ],
+    [
+      "Turing Completeness of GNU find: From mkdir-assisted Loops to Standalone Computation",
+      "https://arxiv.org/pdf/2602.20762"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 01:43:23",
       "https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty"
     ],
@@ -77,16 +87,6 @@
     [
       "Scheduling in a Bare-Metal Web Server",
       "https://thasso.xyz/scheduling.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 18:09:27",
-      "https://lobste.rs/s/wvngfj/prolog_logic_programming_higher_order"
-    ],
-    [
-      "λProlog: Logic programming in higher-order logic",
-      "http://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2026-02-24, 09:17:48",
+      "https://lobste.rs/s/aqtdow/rust_debugging_survey_2026"
+    ],
+    [
+      "Rust debugging survey 2026",
+      "https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 07:19:00",
       "https://lobste.rs/s/nwhp2x/permacomputing"
     ],
@@ -227,16 +237,6 @@
     [
       "x86CSS - An x86 CPU emulator written in CSS",
       "https://lyra.horse/x86css/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 21:18:20",
-      "https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions"
-    ],
-    [
-      "Binding port 0 to avoid port collisions",
-      "https://ntietz.com/blog/binding-ephemeral-port/"
     ]
   ],
   [
