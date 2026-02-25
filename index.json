@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-24, 22:59:23",
+      "https://lobste.rs/s/rhoktj/ansigpt_c89_implementation_microgpt"
+    ],
+    [
+      "ansigpt: c89 implementation of microgpt",
+      "https://github.com/yobibyte/ansigpt"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 22:43:07",
       "https://lobste.rs/s/xkzo35/rfc_406i_rejection_artificially"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-02-24, 21:54:18",
-      "https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages"
+      "2026-02-24, 22:31:58",
+      "https://lobste.rs/s/fjrzzm/how_we_rebuilt_next_js_with_ai_one_week"
     ],
     [
-      "UK fines Reddit for not checking user ages aggressively enough",
-      "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/"
+      "How we rebuilt Next.js with AI in one week",
+      "https://blog.cloudflare.com/vinext/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go",
       "https://charm.land/blog/v2/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 18:09:58",
+      "https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server"
+    ],
+    [
+      "Scheduling in a Bare-Metal Web Server",
+      "https://thasso.xyz/scheduling.html"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-02-23, 23:55:26",
-      "https://lobste.rs/s/ttkuj8/c_enum_sizes_how_msvc_ignores_standard"
-    ],
-    [
-      "C Enum Sizes; or, How MSVC Ignores The Standard Once Again",
-      "https://ettolrach.com/blog/c_enum_msvc.html"
-    ]
-  ],
-  [
-    [
       "2026-02-23, 21:18:20",
       "https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions"
     ],
     [
       "Binding port 0 to avoid port collisions",
       "https://ntietz.com/blog/binding-ephemeral-port/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 15:41:13",
-      "https://lobste.rs/s/ype4g3/disappointing_phones"
-    ],
-    [
-      "Disappointing phones",
-      "https://cadence.moe/blog/2026-02-08-disappointing-phones"
     ]
   ],
   [
