@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 20:22:34](https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_2006) - [Recursive Make Considered Harmful [2006]](https://accu.org/journals/overload/14/71/miller_2004/)
+* [2026-02-25, 20:11:49](https://lobste.rs/s/sys4eu/practical_decentralization) - [Practical Decentralization](https://pfrazee.com/blog/practical-decentralization)
+* [2026-02-25, 19:50:10](https://lobste.rs/s/9zdqre/firefox_pwn2own_2025_documentary_part_2) - [Firefox pwn2own 2025 documentary part 2](https://m.youtube.com/watch?v=uXW_1hepfT4)
 * [2026-02-25, 18:50:02](https://lobste.rs/s/f38mb8/large_scale_online_deanonymization_with) - [Large-Scale Online Deanonymization with LLMs](https://substack.com/home/post/p-189015749)
 * [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
 * [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/fake_job_interviews_are_installing) - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
