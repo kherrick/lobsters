@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
+* [2026-02-25, 13:50:34](https://lobste.rs/s/d4lblv/lambda_world_2019_language_oriented) - [Lambda World 2019 - Language-Oriented Programming with Racket - Matthias Felleisen](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
 * [2026-02-25, 13:07:01](https://lobste.rs/s/qjl5xc/your_system_is_fine_your_users_aren_t) - [Your system is fine. Your users aren't](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
-* [2026-02-25, 12:51:55](https://lobste.rs/s/2sdod9/building_index_backed_query_plans) - [Building Index-Backed Query Plans in DataFusion](https://pierrezemb.fr/posts/datafusion-index-provider/)
 * [2026-02-25, 03:26:34](https://lobste.rs/s/qjdakc/turing_completeness_gnu_find_from_mkdir) - [Turing Completeness of GNU find: From mkdir-assisted Loops to Standalone Computation](https://arxiv.org/pdf/2602.20762)
 * [2026-02-25, 01:43:23](https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty) - [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
 * [2026-02-24, 22:59:23](https://lobste.rs/s/rhoktj/ansigpt_c89_implementation_microgpt) - [ansigpt: c89 implementation of microgpt](https://github.com/yobibyte/ansigpt)
@@ -15,7 +16,6 @@
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
 * [2026-02-24, 14:30:52](https://lobste.rs/s/klb2o8/row_locks_with_joins_can_produce) - [Row Locks With Joins Can Produce Surprising Results in PostgreSQL](https://hakibenita.com/postgres-row-lock-with-join)
-* [2026-02-24, 14:14:13](https://lobste.rs/s/rqus2y/can_agentic_coding_raise_quality_bar) - [Can agentic coding raise the quality bar?](https://lpalmieri.com/posts/agentic-coding-raises-quality/)
 * [2026-02-24, 13:56:43](https://lobste.rs/s/tzyslr/reducing_size_go_binaries_by_up_77) - [Reducing the size of Go binaries by up to 77%](https://www.datadoghq.com/blog/engineering/agent-go-binaries/)
 * [2026-02-24, 13:11:30](https://lobste.rs/s/jm4lpb/framedeck_framework_mainboard_based) - [framedeck: A Framework mainboard based Cyberdeck (2022)](https://github.com/brickbots/framedeck)
 * [2026-02-24, 13:02:10](https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml) - [Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
