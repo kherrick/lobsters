@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-02-25, 15:38:30",
+      "https://lobste.rs/s/4zhkwb/ann_tada_0_4_0_local_cached_dependencies"
+    ],
+    [
+      "ANN: Tada 0.4.0 - local (cached) dependencies support",
+      "https://github.com/tomekw/tada/releases/tag/v0.4.0"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 14:57:10",
+      "https://lobste.rs/s/10nlgf/how_ai_will_change_mobile_ecosystem"
+    ],
+    [
+      "How AI Will Change the Mobile Ecosystem",
+      "https://blog.bensontech.dev/posts/How-ai-will-change-mobile-development/"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 14:35:23",
       "https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em"
     ],
     [
       "New accounts on HN 10x more likely to use EM-dashes",
       "https://www.marginalia.nu/weird-ai-crap/hn/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 14:23:13",
+      "https://lobste.rs/s/8utm05/tests_are_new_moat"
+    ],
+    [
+      "Tests Are The New Moat",
+      "https://saewitz.com/tests-are-the-new-moat"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-02-24, 14:30:52",
-      "https://lobste.rs/s/klb2o8/row_locks_with_joins_can_produce"
-    ],
-    [
-      "Row Locks With Joins Can Produce Surprising Results in PostgreSQL",
-      "https://hakibenita.com/postgres-row-lock-with-join"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 13:56:43",
       "https://lobste.rs/s/tzyslr/reducing_size_go_binaries_by_up_77"
     ],
     [
       "Reducing the size of Go binaries by up to 77%",
       "https://www.datadoghq.com/blog/engineering/agent-go-binaries/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 13:11:30",
-      "https://lobste.rs/s/jm4lpb/framedeck_framework_mainboard_based"
-    ],
-    [
-      "framedeck: A Framework mainboard based Cyberdeck (2022)",
-      "https://github.com/brickbots/framedeck"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "x86CSS - An x86 CPU emulator written in CSS",
       "https://lyra.horse/x86css/"
-    ]
-  ],
-  [
-    [
-      "2026-02-23, 15:23:11",
-      "https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site"
-    ],
-    [
-      "So I've Been Thinking About Static Site Generators",
-      "https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/"
     ]
   ]
 ]
