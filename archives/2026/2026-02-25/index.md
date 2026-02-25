@@ -8,6 +8,7 @@
 * [2026-02-25, 21:45:04](https://lobste.rs/s/jakwkg/slow_death_power_user) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
 * [2026-02-25, 21:26:55](https://lobste.rs/s/ghsrqv/text_based_google_directions) - [Text-Based Google Directions](https://gdir.telae.net/)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
+* [2026-02-25, 20:47:50](https://lobste.rs/s/j3ke5e/gleam_is_boring_so_i_went_conference_about) - [Gleam is boring, so I went to a conference about it](https://builders.perk.com/gleam-is-boring-so-i-went-to-a-conference-about-it-8f08a52c3de3)
 * [2026-02-25, 20:47:38](https://lobste.rs/s/qerqwv/devirtualization_static_polymorphism) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 20:22:34](https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_2006) - [Recursive Make Considered Harmful [2006]](https://accu.org/journals/overload/14/71/miller_2004/)
 * [2026-02-25, 20:22:34](https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998) - [Recursive Make Considered Harmful [1998,2006]](https://accu.org/journals/overload/14/71/miller_2004/)
