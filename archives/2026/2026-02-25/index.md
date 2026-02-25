@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 16:41:12](https://lobste.rs/s/n54hg3/software_engineering_has_changed) - [Software Engineering Has Changed](https://open.substack.com/pub/lukesnotebook/p/software-engineering-has-changed?r=g5e5f&showWelcomeOnShare=true)
+* [2026-02-25, 16:41:12](https://lobste.rs/s/n54hg3/software_engineering_has_changed) - [Software Engineering Has Changed](https://lukesnotebook.substack.com/p/software-engineering-has-changed)
+* [2026-02-25, 16:41:09](https://lobste.rs/s/ocjdrt/dictionary_algorithms_data_structures) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2026-02-25, 15:38:30](https://lobste.rs/s/4zhkwb/ann_tada_0_4_0_local_cached_dependencies) - [ANN: Tada 0.4.0 - local (cached) dependencies support](https://github.com/tomekw/tada/releases/tag/v0.4.0)
 * [2026-02-25, 14:57:10](https://lobste.rs/s/10nlgf/how_ai_will_change_mobile_ecosystem) - [How AI Will Change the Mobile Ecosystem](https://blog.bensontech.dev/posts/How-ai-will-change-mobile-development/)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:26:21](https://lobste.rs/s/shzh0m/current_large_audio_language_models) - [Current Large Audio Language Models largely transcribe rather than listen](https://arxiv.org/abs/2510.10444)
 * [2026-02-25, 14:23:13](https://lobste.rs/s/8utm05/tests_are_new_moat) - [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
+* [2026-02-25, 13:50:34](https://lobste.rs/s/d4lblv/language_oriented_programming_with) - [Language-Oriented Programming with Racket (2019)](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
 * [2026-02-25, 13:50:34](https://lobste.rs/s/d4lblv/lambda_world_2019_language_oriented) - [Lambda World 2019 - Language-Oriented Programming with Racket - Matthias Felleisen](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
 * [2026-02-25, 13:07:01](https://lobste.rs/s/qjl5xc/your_system_is_fine_your_users_aren_t) - [Your system is fine. Your users aren't](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
 * [2026-02-25, 12:51:55](https://lobste.rs/s/2sdod9/building_index_backed_query_plans) - [Building Index-Backed Query Plans in DataFusion](https://pierrezemb.fr/posts/datafusion-index-provider/)
