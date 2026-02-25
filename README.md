@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-25, 18:11:23](https://lobste.rs/s/nqjzzh/i_verified_my_linkedin_identity_here_s) - [I Verified My LinkedIn Identity. Here's What I Actually Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 * [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
-* [2026-02-25, 16:41:12](https://lobste.rs/s/n54hg3/software_engineering_has_changed) - [Software Engineering Has Changed](https://lukesnotebook.substack.com/p/software-engineering-has-changed)
 * [2026-02-25, 16:41:09](https://lobste.rs/s/ocjdrt/dictionary_algorithms_data_structures) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:26:21](https://lobste.rs/s/shzh0m/current_large_audio_language_models) - [Current Large Audio Language Models largely transcribe rather than listen](https://arxiv.org/abs/2510.10444)
