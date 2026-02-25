@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-25, 01:43:23",
+      "https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty"
+    ],
+    [
+      "Justifying text-wrap: pretty",
+      "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html"
+    ]
+  ],
+  [
+    [
       "2026-02-24, 22:59:23",
       "https://lobste.rs/s/rhoktj/ansigpt_c89_implementation_microgpt"
     ],
@@ -27,6 +37,16 @@
     [
       "How we rebuilt Next.js with AI in one week",
       "https://blog.cloudflare.com/vinext/"
+    ]
+  ],
+  [
+    [
+      "2026-02-24, 21:54:18",
+      "https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages"
+    ],
+    [
+      "UK fines Reddit for not checking user ages aggressively enough",
+      "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/"
     ]
   ],
   [
@@ -167,26 +187,6 @@
     [
       "How I got Claude to teach me dbt",
       "https://rmoff.net/2026/02/20/claude-the-instructor/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 09:17:48",
-      "https://lobste.rs/s/aqtdow/rust_debugging_survey_2026"
-    ],
-    [
-      "Rust debugging survey 2026",
-      "https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 08:33:05",
-      "https://lobste.rs/s/jfydxy/desk_setup_from_multi_monitor_single"
-    ],
-    [
-      "Desk Setup: From Multi-Monitor to Single Screen with Virtual Desktops",
-      "https://www.ssp.sh/brain/computer-desk-setup-monitor-workflow/"
     ]
   ],
   [
