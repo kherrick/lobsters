@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-25, 03:26:34](https://lobste.rs/s/qjdakc/turing_completeness_gnu_find_from_mkdir) - [Turing Completeness of GNU find: From mkdir-assisted Loops to Standalone Computation](https://arxiv.org/pdf/2602.20762)
 * [2026-02-25, 01:43:23](https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty) - [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
 * [2026-02-24, 22:59:23](https://lobste.rs/s/rhoktj/ansigpt_c89_implementation_microgpt) - [ansigpt: c89 implementation of microgpt](https://github.com/yobibyte/ansigpt)
 * [2026-02-24, 22:43:07](https://lobste.rs/s/xkzo35/rfc_406i_rejection_artificially) - [RFC 406i - The Rejection of Artificially Generated Slop (RAGS)](https://406.fail/)
@@ -8,7 +9,6 @@
 * [2026-02-24, 20:57:22](https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj) - [Introducing jjq, a local merge queue for jj](https://pauladamsmith.com/blog/2026/02/introducing-jjq-a-local-merge-queue-for-jj.html)
 * [2026-02-24, 20:46:38](https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip) - [Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go](https://charm.land/blog/v2/)
 * [2026-02-24, 18:09:58](https://lobste.rs/s/mmdjzs/scheduling_bare_metal_web_server) - [Scheduling in a Bare-Metal Web Server](https://thasso.xyz/scheduling.html)
-* [2026-02-24, 18:09:27](https://lobste.rs/s/wvngfj/prolog_logic_programming_higher_order) - [λProlog: Logic programming in higher-order logic](http://www.lix.polytechnique.fr/Labo/Dale.Miller/lProlog/)
 * [2026-02-24, 17:47:56](https://lobste.rs/s/5gitgu/why_keepass_format_should_be_based_on) - [Why the KeePass format should be based on SQLite](https://mketab.org/blog/sqlite_kdbx/)
 * [2026-02-24, 16:00:27](https://lobste.rs/s/a37hkg/tla_by_example) - [TLA+ By Example](https://tlabyexample.com/)
 * [2026-02-24, 14:58:28](https://lobste.rs/s/vi9msd/just_little_detail_wouldn_t_sell_anything) - [“Just a little detail that wouldn’t sell anything”](https://unsung.aresluna.org/just-a-little-detail-that-wouldnt-sell-anything/)
@@ -19,11 +19,11 @@
 * [2026-02-24, 13:02:10](https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml) - [Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 * [2026-02-24, 12:10:38](https://lobste.rs/s/kx2sp3/lines_code_are_back_it_s_worse_than_before) - [Lines of Code Are Back (And It's Worse Than Before)](https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse)
 * [2026-02-24, 09:46:51](https://lobste.rs/s/nmyrxg/how_i_got_claude_teach_me_dbt) - [How I got Claude to teach me dbt](https://rmoff.net/2026/02/20/claude-the-instructor/)
+* [2026-02-24, 09:17:48](https://lobste.rs/s/aqtdow/rust_debugging_survey_2026) - [Rust debugging survey 2026](https://blog.rust-lang.org/2026/02/23/rust-debugging-survey-2026/)
 * [2026-02-24, 07:19:00](https://lobste.rs/s/nwhp2x/permacomputing) - [Permacomputing](http://permacomputing.net/)
 * [2026-02-24, 04:56:24](https://lobste.rs/s/hrw1mi/compiler_education_deserves_revolution) - [Compiler Education Deserves a Revolution](https://thunderseethe.dev/posts/compiler-education-deserves-a-revoluation/)
 * [2026-02-24, 03:12:54](https://lobste.rs/s/lq1dxr/huntarr_your_passwords_your_entire_arr) - [Huntarr - Your passwords and your entire arr stack's API keys are exposed to anyone on your network, or worse, the internet](https://reddit.com/r/selfhosted/comments/1rckopd/huntarr_your_passwords_and_your_entire_arr_stacks/)
 * [2026-02-24, 02:29:14](https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css) - [x86CSS - An x86 CPU emulator written in CSS](https://lyra.horse/x86css/)
-* [2026-02-23, 21:18:20](https://lobste.rs/s/vsl6hv/binding_port_0_avoid_port_collisions) - [Binding port 0 to avoid port collisions](https://ntietz.com/blog/binding-ephemeral-port/)
 * [2026-02-23, 15:23:11](https://lobste.rs/s/pgh4ss/so_i_ve_been_thinking_about_static_site) - [So I've Been Thinking About Static Site Generators](https://wolfgirl.dev/blog/2026-02-23-so-ive-been-thinking-about-static-site-generators/)
 
 ## [Archives](archives/index.md)
