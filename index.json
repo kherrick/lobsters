@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-02-25, 18:11:23",
-      "https://lobste.rs/s/nqjzzh/i_verified_my_linkedin_identity_here_s"
+      "2026-02-25, 18:50:02",
+      "https://lobste.rs/s/f38mb8/large_scale_online_deanonymization_with"
     ],
     [
-      "I Verified My LinkedIn Identity. Here's What I Actually Handed Over",
-      "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/"
+      "Large-Scale Online Deanonymization with LLMs",
+      "https://substack.com/home/post/p-189015749"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 18:49:09",
+      "https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone"
+    ],
+    [
+      "Porting Doom to a 20-year-old VoIP phone",
+      "https://0x19.co/post/snom360_doom/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 18:27:11",
+      "https://lobste.rs/s/llboto/fake_job_interviews_are_installing"
+    ],
+    [
+      "Fake Job Interviews Are Installing Backdoors on Developer Machines",
+      "https://threatroad.substack.com/p/fake-job-interviews-are-installing"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 18:18:40",
+      "https://lobste.rs/s/kejenj/computer_history_museum_recovers_rare"
+    ],
+    [
+      "Computer History Museum Recovers Rare UNIX History",
+      "https://youtu.be/-xlq_MPWNKk"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-02-24, 21:54:18",
-      "https://lobste.rs/s/ghhdme/uk_fines_reddit_for_not_checking_user_ages"
-    ],
-    [
-      "UK fines Reddit for not checking user ages aggressively enough",
-      "https://arstechnica.com/tech-policy/2026/02/uk-fines-reddit-for-not-checking-user-ages-aggressively-enough/"
-    ]
-  ],
-  [
-    [
       "2026-02-24, 20:57:22",
       "https://lobste.rs/s/d4qcmp/introducing_jjq_local_merge_queue_for_jj"
     ],
@@ -167,16 +187,6 @@
     [
       "Scheduling in a Bare-Metal Web Server",
       "https://thasso.xyz/scheduling.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 17:47:56",
-      "https://lobste.rs/s/5gitgu/why_keepass_format_should_be_based_on"
-    ],
-    [
-      "Why the KeePass format should be based on SQLite",
-      "https://mketab.org/blog/sqlite_kdbx/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Lines of Code Are Back (And It's Worse Than Before)",
       "https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 09:46:51",
-      "https://lobste.rs/s/nmyrxg/how_i_got_claude_teach_me_dbt"
-    ],
-    [
-      "How I got Claude to teach me dbt",
-      "https://rmoff.net/2026/02/20/claude-the-instructor/"
     ]
   ],
   [
