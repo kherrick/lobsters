@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-02-25](index.md)
 
+* [2026-02-25, 18:50:02](https://lobste.rs/s/f38mb8/large_scale_online_deanonymization_with) - [Large-Scale Online Deanonymization with LLMs](https://substack.com/home/post/p-189015749)
+* [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
+* [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/fake_job_interviews_are_installing) - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
+* [2026-02-25, 18:18:40](https://lobste.rs/s/kejenj/computer_history_museum_recovers_rare) - [Computer History Museum Recovers Rare UNIX History](https://youtu.be/-xlq_MPWNKk)
 * [2026-02-25, 18:11:23](https://lobste.rs/s/nqjzzh/i_verified_my_linkedin_identity_here_s) - [I Verified My LinkedIn Identity. Here's What I Actually Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
 * [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 16:41:12](https://lobste.rs/s/n54hg3/software_engineering_has_changed) - [Software Engineering Has Changed](https://open.substack.com/pub/lukesnotebook/p/software-engineering-has-changed?r=g5e5f&showWelcomeOnShare=true)
