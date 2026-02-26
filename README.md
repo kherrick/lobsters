@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-26, 22:32:32](https://lobste.rs/s/laqdft/lobsters_blog_carnival_on_april_1st) - [Lobsters Blog Carnival on April 1st - Submissions Open](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
 * [2026-02-26, 20:15:49](https://lobste.rs/s/whitom/will_vibe_coding_end_like_maker_movement) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
 * [2026-02-26, 19:09:36](https://lobste.rs/s/sxozst/introducing_pgbeam_globally) - [Introducing PgBeam, a globally distributed PostgreSQL proxy](https://pgbeam.com/launch)
 * [2026-02-26, 18:26:02](https://lobste.rs/s/5al9ui/airsnitch_demystifying_breaking_client) - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
@@ -15,7 +16,6 @@
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
 * [2026-02-26, 11:21:58](https://lobste.rs/s/ibkc72/git_postgres) - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
 * [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
-* [2026-02-26, 08:43:40](https://lobste.rs/s/adp9db/evolving_languages_faster_with_type) - [Evolving Languages Faster with Type Tailoring (2024)](https://lambdaland.org/posts/2024-07-15_type_tailoring/)
 * [2026-02-26, 07:58:03](https://lobste.rs/s/0pof41/buildkit_docker_s_hidden_gem_can_build) - [BuildKit: Docker's hidden gem that can build almost anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 07:42:39](https://lobste.rs/s/oj6hru/google_api_keys_weren_t_secrets_then) - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)

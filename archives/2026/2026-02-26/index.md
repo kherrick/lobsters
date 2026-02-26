@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 22:32:32](https://lobste.rs/s/laqdft/lobsters_blog_carnival_on_april_1st) - [Lobsters Blog Carnival on April 1st - Submissions Open](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
 * [2026-02-26, 20:15:49](https://lobste.rs/s/whitom/will_vibe_coding_end_like_maker_movement) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
 * [2026-02-26, 19:09:36](https://lobste.rs/s/sxozst/introducing_pgbeam_globally) - [Introducing PgBeam, a globally distributed PostgreSQL proxy](https://pgbeam.com/launch)
 * [2026-02-26, 18:26:02](https://lobste.rs/s/5al9ui/airsnitch_demystifying_breaking_client) - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
