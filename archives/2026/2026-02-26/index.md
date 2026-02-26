@@ -9,6 +9,7 @@
 * [2026-02-26, 18:13:44](https://lobste.rs/s/vgvzys/gilded_age_open_source_is_over) - [The Gilded Age of Open Source is over](https://www.youtube.com/watch?v=pTBgvhdz9VU)
 * [2026-02-26, 18:11:41](https://lobste.rs/s/hfnps5/osmand_s_faster_offline_navigation) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing)
 * [2026-02-26, 17:35:24](https://lobste.rs/s/bhzsdr/open_source_endowment_world_s_first) - [Open Source Endowment — World's First Endowment Fund for OSS](https://endowment.dev/)
+* [2026-02-26, 17:04:59](https://lobste.rs/s/gm4q46/palm_os_user_interface_guidelines_pdf) - [Palm OS User Interface Guidelines [pdf, 2003]](https://cs.uml.edu/~fredm/courses/91.308-spr05/files/palmdocs/uiguidelines.pdf)
 * [2026-02-26, 16:45:11](https://lobste.rs/s/o3cpxf/sliced_by_go_s_slices) - [Sliced by Go’s Slices](https://ohadravid.github.io/posts/2026-02-go-sliced/)
 * [2026-02-26, 16:25:09](https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
 * [2026-02-26, 16:23:31](https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second) - [snakes.run: rendering 100M pixels a second over ssh ·](https://eieio.games/blog/secure-massively-multiplayer-snake/)
