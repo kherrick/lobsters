@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 16:23:31](https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second) - [snakes.run: rendering 100M pixels a second over ssh ·](https://eieio.games/blog/secure-massively-multiplayer-snake/)
+* [2026-02-26, 15:21:35](https://lobste.rs/s/kj7g7j/ordered_dithering_with_arbitrary) - [Ordered Dithering with Arbitrary or Irregular Colour Palettes](https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/)
 * [2026-02-26, 14:50:46](https://lobste.rs/s/9p2h3l/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 2: Testing for speed changes](https://pythonspeed.com/articles/speed-unit-tests/)
 * [2026-02-26, 13:58:53](https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype) - [Model Collapse Ends AI Hype](https://youtu.be/ShusuVq32hc)
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)

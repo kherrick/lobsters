@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-26, 16:23:31](https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second) - [snakes.run: rendering 100M pixels a second over ssh ·](https://eieio.games/blog/secure-massively-multiplayer-snake/)
+* [2026-02-26, 15:21:35](https://lobste.rs/s/kj7g7j/ordered_dithering_with_arbitrary) - [Ordered Dithering with Arbitrary or Irregular Colour Palettes](https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/)
 * [2026-02-26, 14:50:46](https://lobste.rs/s/9p2h3l/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 2: Testing for speed changes](https://pythonspeed.com/articles/speed-unit-tests/)
 * [2026-02-26, 13:58:53](https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype) - [Model Collapse Ends AI Hype](https://youtu.be/ShusuVq32hc)
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
@@ -16,14 +18,12 @@
 * [2026-02-25, 22:54:26](https://lobste.rs/s/rscdhi/long_range_e_bike) - [Long Range E-Bike](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-25, 21:45:04](https://lobste.rs/s/jakwkg/slow_death_power_user) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
-* [2026-02-25, 20:47:50](https://lobste.rs/s/j3ke5e/gleam_is_boring_so_i_went_conference_about) - [Gleam is boring, so I went to a conference about it](https://builders.perk.com/gleam-is-boring-so-i-went-to-a-conference-about-it-8f08a52c3de3)
 * [2026-02-25, 20:22:34](https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998) - [Recursive Make Considered Harmful [1998,2006]](https://accu.org/journals/overload/14/71/miller_2004/)
 * [2026-02-25, 20:11:49](https://lobste.rs/s/sys4eu/practical_decentralization) - [Practical Decentralization](https://pfrazee.com/blog/practical-decentralization)
 * [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
 * [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/fake_job_interviews_are_installing) - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 * [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
-* [2026-02-25, 14:23:13](https://lobste.rs/s/8utm05/tests_are_new_moat) - [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
 * [2026-02-25, 13:07:01](https://lobste.rs/s/qjl5xc/your_system_is_fine_your_users_aren_t) - [Your system is fine. Your users aren't](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
 
 ## [Archives](archives/index.md)
