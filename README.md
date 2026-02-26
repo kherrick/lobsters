@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-26, 07:58:03](https://lobste.rs/s/0pof41/buildkit_docker_s_hidden_gem_can_build) - [BuildKit: Docker's hidden gem that can build almost anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 07:42:39](https://lobste.rs/s/oj6hru/google_api_keys_weren_t_secrets_then) - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
@@ -20,7 +21,6 @@
 * [2026-02-25, 16:41:09](https://lobste.rs/s/ocjdrt/dictionary_algorithms_data_structures) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:23:13](https://lobste.rs/s/8utm05/tests_are_new_moat) - [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
-* [2026-02-25, 13:50:34](https://lobste.rs/s/d4lblv/language_oriented_programming_with) - [Language-Oriented Programming with Racket (2019)](https://www.youtube.com/watch?v=z8Pz4bJV3Tk)
 * [2026-02-25, 13:07:01](https://lobste.rs/s/qjl5xc/your_system_is_fine_your_users_aren_t) - [Your system is fine. Your users aren't](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
 * [2026-02-25, 01:43:23](https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty) - [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
 * [2026-02-24, 13:56:43](https://lobste.rs/s/tzyslr/reducing_size_go_binaries_by_up_77) - [Reducing the size of Go binaries by up to 77%](https://www.datadoghq.com/blog/engineering/agent-go-binaries/)
