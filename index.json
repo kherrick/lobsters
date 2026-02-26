@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-26, 16:45:11",
+      "https://lobste.rs/s/o3cpxf/sliced_by_go_s_slices"
+    ],
+    [
+      "Sliced by Go’s Slices",
+      "https://ohadravid.github.io/posts/2026-02-go-sliced/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 16:25:09",
+      "https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language"
+    ],
+    [
+      "Making WebAssembly a first-class language on the Web",
+      "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 16:23:31",
       "https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2026-02-25, 21:45:04",
-      "https://lobste.rs/s/jakwkg/slow_death_power_user"
-    ],
-    [
-      "The Slow Death of the Power User",
-      "https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 21:16:34",
       "https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences"
     ],
     [
       "What interesting (and smaller) conferences are there in 2026?",
       "https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 20:22:34",
-      "https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998"
-    ],
-    [
-      "Recursive Make Considered Harmful [1998,2006]",
-      "https://accu.org/journals/overload/14/71/miller_2004/"
     ]
   ],
   [
