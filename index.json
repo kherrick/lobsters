@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-26, 06:07:48",
+      "https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory"
+    ],
+    [
+      "An Open Letter to Google regarding Mandatory Developer Registration for Android",
+      "https://keepandroidopen.org/open-letter/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 04:14:20",
       "https://lobste.rs/s/1y4gid/introducing_lyte2d_comfy_little_game"
     ],
@@ -207,16 +217,6 @@
     [
       "Justifying text-wrap: pretty",
       "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 20:46:38",
-      "https://lobste.rs/s/1to8sq/charm_v2_major_releases_for_bubble_tea_lip"
-    ],
-    [
-      "Charm v2: Major releases for Bubble Tea, Lip Gloss, and Bubbles for terminal UIs in Go",
-      "https://charm.land/blog/v2/"
     ]
   ],
   [
