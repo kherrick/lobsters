@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-26, 14:50:46",
+      "https://lobste.rs/s/9p2h3l/unit_testing_your_code_s_performance_part"
+    ],
+    [
+      "Unit testing your code’s performance, part 2: Testing for speed changes",
+      "https://pythonspeed.com/articles/speed-unit-tests/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 13:58:53",
+      "https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype"
+    ],
+    [
+      "Model Collapse Ends AI Hype",
+      "https://youtu.be/ShusuVq32hc"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 13:36:33",
       "https://lobste.rs/s/3kwdvv/can_llms_sat"
     ],
@@ -17,6 +37,16 @@
     [
       "Data Confidentiality via Storage Encryption on Embedded Linux Devices",
       "https://sigma-star.at/blog/2026/02/data-confidentiality-via-storage-encryption-on-embedded-linux-devices/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 11:54:23",
+      "https://lobste.rs/s/7jbycp/maiao_easy_gerrit_style_stacked_diffs"
+    ],
+    [
+      "maiao: easy, Gerrit-style, stacked diffs workflow for GitHub",
+      "https://github.com/adevinta/maiao"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-02-25, 20:47:38",
-      "https://lobste.rs/s/qerqwv/devirtualization_static_polymorphism"
-    ],
-    [
-      "Devirtualization and Static Polymorphism",
-      "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 20:22:34",
       "https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998"
     ],
@@ -227,26 +247,6 @@
     [
       "Your system is fine. Your users aren't",
       "https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 01:43:23",
-      "https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty"
-    ],
-    [
-      "Justifying text-wrap: pretty",
-      "https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 13:02:10",
-      "https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml"
-    ],
-    [
-      "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148",
-      "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
     ]
   ]
 ]
