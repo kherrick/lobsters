@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-26, 16:23:31",
+      "https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second"
+    ],
+    [
+      "snakes.run: rendering 100M pixels a second over ssh ·",
+      "https://eieio.games/blog/secure-massively-multiplayer-snake/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 15:21:35",
+      "https://lobste.rs/s/kj7g7j/ordered_dithering_with_arbitrary"
+    ],
+    [
+      "Ordered Dithering with Arbitrary or Irregular Colour Palettes",
+      "https://matejlou.blog/2023/12/06/ordered-dithering-for-arbitrary-or-irregular-palettes/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 14:50:46",
       "https://lobste.rs/s/9p2h3l/unit_testing_your_code_s_performance_part"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-02-25, 20:47:50",
-      "https://lobste.rs/s/j3ke5e/gleam_is_boring_so_i_went_conference_about"
-    ],
-    [
-      "Gleam is boring, so I went to a conference about it",
-      "https://builders.perk.com/gleam-is-boring-so-i-went-to-a-conference-about-it-8f08a52c3de3"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 20:22:34",
       "https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998"
     ],
@@ -227,16 +237,6 @@
     [
       "New accounts on HN 10x more likely to use EM-dashes",
       "https://www.marginalia.nu/weird-ai-crap/hn/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 14:23:13",
-      "https://lobste.rs/s/8utm05/tests_are_new_moat"
-    ],
-    [
-      "Tests Are The New Moat",
-      "https://saewitz.com/tests-are-the-new-moat"
     ]
   ],
   [
