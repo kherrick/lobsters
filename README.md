@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
+* [2026-02-26, 13:25:05](https://lobste.rs/s/mj2o3h/data_confidentiality_via_storage) - [Data Confidentiality via Storage Encryption on Embedded Linux Devices](https://sigma-star.at/blog/2026/02/data-confidentiality-via-storage-encryption-on-embedded-linux-devices/)
 * [2026-02-26, 11:21:58](https://lobste.rs/s/ibkc72/git_postgres) - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
 * [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-26, 08:43:40](https://lobste.rs/s/adp9db/evolving_languages_faster_with_type) - [Evolving Languages Faster with Type Tailoring (2024)](https://lambdaland.org/posts/2024-07-15_type_tailoring/)
@@ -8,7 +10,6 @@
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
 * [2026-02-26, 04:14:20](https://lobste.rs/s/1y4gid/introducing_lyte2d_comfy_little_game) - [Introducing Lyte2D: A comfy little game engine](https://lyte2d.com/lyte.html?zip=public/lyte-intro.zip)
 * [2026-02-26, 01:20:36](https://lobste.rs/s/yhv8lq/against_query_based_compilers) - [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)
-* [2026-02-25, 23:49:55](https://lobste.rs/s/yjky8h/managing_complexity_with_mycelium) - [Managing Complexity with Mycelium](https://yogthos.net/posts/2026-02-25-ai-at-scale.html)
 * [2026-02-25, 22:54:26](https://lobste.rs/s/rscdhi/long_range_e_bike) - [Long Range E-Bike](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-25, 21:45:04](https://lobste.rs/s/jakwkg/slow_death_power_user) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
@@ -19,7 +20,6 @@
 * [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
 * [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/fake_job_interviews_are_installing) - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 * [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
-* [2026-02-25, 16:41:09](https://lobste.rs/s/ocjdrt/dictionary_algorithms_data_structures) - [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:23:13](https://lobste.rs/s/8utm05/tests_are_new_moat) - [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
 * [2026-02-25, 13:07:01](https://lobste.rs/s/qjl5xc/your_system_is_fine_your_users_aren_t) - [Your system is fine. Your users aren't](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
