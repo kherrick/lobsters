@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 20:15:49](https://lobste.rs/s/whitom/will_vibe_coding_end_like_maker_movement) - [Will vibe coding end like the maker movement?](https://read.technically.dev/p/vibe-coding-and-the-maker-movement)
 * [2026-02-26, 19:09:36](https://lobste.rs/s/sxozst/introducing_pgbeam_globally) - [Introducing PgBeam, a globally distributed PostgreSQL proxy](https://pgbeam.com/launch)
 * [2026-02-26, 18:26:02](https://lobste.rs/s/5al9ui/airsnitch_demystifying_breaking_client) - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
 * [2026-02-26, 18:13:44](https://lobste.rs/s/vgvzys/gilded_age_open_source_is_over) - [The Gilded Age of Open Source is over](https://www.youtube.com/watch?v=pTBgvhdz9VU)
