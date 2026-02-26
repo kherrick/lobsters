@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
+* [2026-02-26, 08:43:40](https://lobste.rs/s/adp9db/evolving_languages_faster_with_type) - [Evolving Languages Faster with Type Tailoring (2024)](https://lambdaland.org/posts/2024-07-15_type_tailoring/)
 * [2026-02-26, 07:58:03](https://lobste.rs/s/0pof41/buildkit_docker_s_hidden_gem_can_build) - [BuildKit: Docker's hidden gem that can build almost anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 07:42:39](https://lobste.rs/s/oj6hru/google_api_keys_weren_t_secrets_then) - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
@@ -14,7 +15,6 @@
 * [2026-02-25, 20:47:38](https://lobste.rs/s/qerqwv/devirtualization_static_polymorphism) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 20:22:34](https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998) - [Recursive Make Considered Harmful [1998,2006]](https://accu.org/journals/overload/14/71/miller_2004/)
 * [2026-02-25, 20:11:49](https://lobste.rs/s/sys4eu/practical_decentralization) - [Practical Decentralization](https://pfrazee.com/blog/practical-decentralization)
-* [2026-02-25, 18:50:02](https://lobste.rs/s/f38mb8/large_scale_online_deanonymization_with) - [Large-Scale Online Deanonymization with LLMs](https://substack.com/home/post/p-189015749)
 * [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
 * [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/fake_job_interviews_are_installing) - [Fake Job Interviews Are Installing Backdoors on Developer Machines](https://threatroad.substack.com/p/fake-job-interviews-are-installing)
 * [2026-02-25, 17:16:59](https://lobste.rs/s/l4nw7u/windows_11_notepad_support_markdown) - [Windows 11 Notepad to support markdown](https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/)
