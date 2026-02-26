@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-25, 22:15:04](https://lobste.rs/s/d5epfz/deterministic_programming_with_llms) - [Deterministic Programming with LLMs](https://www.mcherm.com/deterministic-programming-with-llms.html)
+* [2026-02-25, 23:49:55](https://lobste.rs/s/yjky8h/managing_complexity_with_mycelium) - [Managing Complexity with Mycelium](https://yogthos.net/posts/2026-02-25-ai-at-scale.html)
 * [2026-02-25, 21:45:04](https://lobste.rs/s/jakwkg/slow_death_power_user) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
 * [2026-02-25, 21:26:55](https://lobste.rs/s/ghsrqv/text_based_google_directions) - [Text-Based Google Directions](https://gdir.telae.net/)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
