@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-26, 01:20:36",
+      "https://lobste.rs/s/yhv8lq/against_query_based_compilers"
+    ],
+    [
+      "Against Query Based Compilers",
+      "https://matklad.github.io/2026/02/25/against-query-based-compilers.html"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 23:49:55",
       "https://lobste.rs/s/yjky8h/managing_complexity_with_mycelium"
     ],
@@ -11,22 +21,32 @@
   ],
   [
     [
+      "2026-02-25, 22:54:26",
+      "https://lobste.rs/s/rscdhi/long_range_e_bike"
+    ],
+    [
+      "Long Range E-Bike",
+      "https://jacquesmattheij.com/long-range-ebike/"
+    ]
+  ],
+  [
+    [
+      "2026-02-25, 22:15:04",
+      "https://lobste.rs/s/d5epfz/deterministic_programming_with_llms"
+    ],
+    [
+      "Deterministic Programming with LLMs",
+      "https://www.mcherm.com/deterministic-programming-with-llms.html"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 21:45:04",
       "https://lobste.rs/s/jakwkg/slow_death_power_user"
     ],
     [
       "The Slow Death of the Power User",
       "https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 21:26:55",
-      "https://lobste.rs/s/ghsrqv/text_based_google_directions"
-    ],
-    [
-      "Text-Based Google Directions",
-      "https://gdir.telae.net/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-25, 14:26:21",
-      "https://lobste.rs/s/shzh0m/current_large_audio_language_models"
-    ],
-    [
-      "Current Large Audio Language Models largely transcribe rather than listen",
-      "https://arxiv.org/abs/2510.10444"
-    ]
-  ],
-  [
-    [
       "2026-02-25, 14:23:13",
       "https://lobste.rs/s/8utm05/tests_are_new_moat"
     ],
@@ -237,16 +247,6 @@
     [
       "Lines of Code Are Back (And It's Worse Than Before)",
       "https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 02:29:14",
-      "https://lobste.rs/s/rhgsiy/x86css_x86_cpu_emulator_written_css"
-    ],
-    [
-      "x86CSS - An x86 CPU emulator written in CSS",
-      "https://lyra.horse/x86css/"
     ]
   ]
 ]
