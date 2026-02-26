@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-26, 13:36:33",
+      "https://lobste.rs/s/3kwdvv/can_llms_sat"
+    ],
+    [
+      "Can LLMs SAT?",
+      "https://blog.aiono.dev/posts/can-llms-sat.html"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 13:25:05",
+      "https://lobste.rs/s/mj2o3h/data_confidentiality_via_storage"
+    ],
+    [
+      "Data Confidentiality via Storage Encryption on Embedded Linux Devices",
+      "https://sigma-star.at/blog/2026/02/data-confidentiality-via-storage-encryption-on-embedded-linux-devices/"
+    ]
+  ],
+  [
+    [
       "2026-02-26, 11:21:58",
       "https://lobste.rs/s/ibkc72/git_postgres"
     ],
@@ -77,16 +97,6 @@
     [
       "Against Query Based Compilers",
       "https://matklad.github.io/2026/02/25/against-query-based-compilers.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 23:49:55",
-      "https://lobste.rs/s/yjky8h/managing_complexity_with_mycelium"
-    ],
-    [
-      "Managing Complexity with Mycelium",
-      "https://yogthos.net/posts/2026-02-25-ai-at-scale.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Windows 11 Notepad to support markdown",
       "https://blogs.windows.com/windows-insider/2026/01/21/notepad-and-paint-updates-begin-rolling-out-to-windows-insiders/"
-    ]
-  ],
-  [
-    [
-      "2026-02-25, 16:41:09",
-      "https://lobste.rs/s/ocjdrt/dictionary_algorithms_data_structures"
-    ],
-    [
-      "Dictionary of Algorithms and Data Structures",
-      "https://xlinux.nist.gov/dads/"
     ]
   ],
   [
