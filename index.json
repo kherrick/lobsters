@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-02-25, 22:15:04",
+      "https://lobste.rs/s/d5epfz/deterministic_programming_with_llms"
+    ],
+    [
+      "Deterministic Programming with LLMs",
+      "https://www.mcherm.com/deterministic-programming-with-llms.html"
+    ]
+  ],
+  [
+    [
       "2026-02-25, 21:45:04",
       "https://lobste.rs/s/jakwkg/slow_death_power_user"
     ],
@@ -237,16 +247,6 @@
     [
       "Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148",
       "https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/"
-    ]
-  ],
-  [
-    [
-      "2026-02-24, 12:10:38",
-      "https://lobste.rs/s/kx2sp3/lines_code_are_back_it_s_worse_than_before"
-    ],
-    [
-      "Lines of Code Are Back (And It's Worse Than Before)",
-      "https://www.thepragmaticcto.com/p/lines-of-code-are-back-and-its-worse"
     ]
   ]
 ]
