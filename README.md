@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-26, 14:50:46](https://lobste.rs/s/9p2h3l/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 2: Testing for speed changes](https://pythonspeed.com/articles/speed-unit-tests/)
+* [2026-02-26, 13:58:53](https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype) - [Model Collapse Ends AI Hype](https://youtu.be/ShusuVq32hc)
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
 * [2026-02-26, 13:25:05](https://lobste.rs/s/mj2o3h/data_confidentiality_via_storage) - [Data Confidentiality via Storage Encryption on Embedded Linux Devices](https://sigma-star.at/blog/2026/02/data-confidentiality-via-storage-encryption-on-embedded-linux-devices/)
+* [2026-02-26, 11:54:23](https://lobste.rs/s/7jbycp/maiao_easy_gerrit_style_stacked_diffs) - [maiao: easy, Gerrit-style, stacked diffs workflow for GitHub](https://github.com/adevinta/maiao)
 * [2026-02-26, 11:21:58](https://lobste.rs/s/ibkc72/git_postgres) - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
 * [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-26, 08:43:40](https://lobste.rs/s/adp9db/evolving_languages_faster_with_type) - [Evolving Languages Faster with Type Tailoring (2024)](https://lambdaland.org/posts/2024-07-15_type_tailoring/)
@@ -14,7 +17,6 @@
 * [2026-02-25, 21:45:04](https://lobste.rs/s/jakwkg/slow_death_power_user) - [The Slow Death of the Power User](https://fireborn.mataroa.blog/blog/the-slow-death-of-the-power-user/)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
 * [2026-02-25, 20:47:50](https://lobste.rs/s/j3ke5e/gleam_is_boring_so_i_went_conference_about) - [Gleam is boring, so I went to a conference about it](https://builders.perk.com/gleam-is-boring-so-i-went-to-a-conference-about-it-8f08a52c3de3)
-* [2026-02-25, 20:47:38](https://lobste.rs/s/qerqwv/devirtualization_static_polymorphism) - [Devirtualization and Static Polymorphism](https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/)
 * [2026-02-25, 20:22:34](https://lobste.rs/s/to9uvq/recursive_make_considered_harmful_1998) - [Recursive Make Considered Harmful [1998,2006]](https://accu.org/journals/overload/14/71/miller_2004/)
 * [2026-02-25, 20:11:49](https://lobste.rs/s/sys4eu/practical_decentralization) - [Practical Decentralization](https://pfrazee.com/blog/practical-decentralization)
 * [2026-02-25, 18:49:09](https://lobste.rs/s/be27h4/porting_doom_20_year_old_voip_phone) - [Porting Doom to a 20-year-old VoIP phone](https://0x19.co/post/snom360_doom/)
@@ -23,8 +25,6 @@
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 * [2026-02-25, 14:23:13](https://lobste.rs/s/8utm05/tests_are_new_moat) - [Tests Are The New Moat](https://saewitz.com/tests-are-the-new-moat)
 * [2026-02-25, 13:07:01](https://lobste.rs/s/qjl5xc/your_system_is_fine_your_users_aren_t) - [Your system is fine. Your users aren't](https://blog.incrementalforgetting.tech/p/your-system-is-fine-your-users-arent)
-* [2026-02-25, 01:43:23](https://lobste.rs/s/mo0hgf/justifying_text_wrap_pretty) - [Justifying text-wrap: pretty](https://matklad.github.io/2026/02/14/justifying-text-wrap-pretty.html)
-* [2026-02-24, 13:02:10](https://lobste.rs/s/kwpvgy/goodbye_innerhtml_hello_sethtml) - [Goodbye innerHTML, Hello setHTML: Stronger XSS Protection in Firefox 148](https://hacks.mozilla.org/2026/02/goodbye-innerhtml-hello-sethtml-stronger-xss-protection-in-firefox-148/)
 
 ## [Archives](archives/index.md)
 

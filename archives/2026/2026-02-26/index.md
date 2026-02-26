@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-02-26](index.md)
 
+* [2026-02-26, 14:50:46](https://lobste.rs/s/9p2h3l/unit_testing_your_code_s_performance_part) - [Unit testing your code’s performance, part 2: Testing for speed changes](https://pythonspeed.com/articles/speed-unit-tests/)
+* [2026-02-26, 13:58:53](https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype) - [Model Collapse Ends AI Hype](https://youtu.be/ShusuVq32hc)
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
 * [2026-02-26, 13:25:05](https://lobste.rs/s/mj2o3h/data_confidentiality_via_storage) - [Data Confidentiality via Storage Encryption on Embedded Linux Devices](https://sigma-star.at/blog/2026/02/data-confidentiality-via-storage-encryption-on-embedded-linux-devices/)
+* [2026-02-26, 11:54:23](https://lobste.rs/s/7jbycp/maiao_easy_gerrit_style_stacked_diffs) - [maiao: easy, Gerrit-style, stacked diffs workflow for GitHub](https://github.com/adevinta/maiao)
 * [2026-02-26, 11:21:58](https://lobste.rs/s/ibkc72/git_postgres) - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
 * [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-26, 08:43:40](https://lobste.rs/s/adp9db/evolving_languages_faster_with_type) - [Evolving Languages Faster with Type Tailoring (2024)](https://lambdaland.org/posts/2024-07-15_type_tailoring/)
