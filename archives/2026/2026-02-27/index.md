@@ -7,6 +7,7 @@
 * [2026-02-27, 17:26:55](https://lobste.rs/s/d1j6ye/update_on_svg_gtk) - [An update on SVG in GTK](https://blogs.gnome.org/gtk/2026/02/25/an-update-on-svg-in-gtk/)
 * [2026-02-27, 17:10:37](https://lobste.rs/s/vlpddk/we_deserve_better_streams_api_for) - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 * [2026-02-27, 16:05:40](https://lobste.rs/s/vxrl1h/optimal_caverna_gameplay_via_formal) - [Optimal Caverna Gameplay via Formal Methods](https://www.stephendiehl.com/posts/caverna/)
+* [2026-02-27, 15:41:37](https://lobste.rs/s/43nydc/retrotick_browser_based_windows) - [RetroTick, browser-based Windows emulator](https://retrotick.com/)
 * [2026-02-27, 14:00:41](https://lobste.rs/s/fxljxx/fips_free_internetworking_peering) - [FIPS: Free Internetworking Peering System](https://github.com/jmcorgan/fips/blob/master/docs/design/fips-intro.md)
 * [2026-02-27, 13:56:20](https://lobste.rs/s/qnaeva/javascript_drms_are_stupid_useless) - [JavaScript DRMs are Stupid and Useless](https://the-ranty-dev.vercel.app/javascript-drms-are-stupid)
 * [2026-02-27, 13:36:05](https://lobste.rs/s/wrfca5/jails_for_netbsd) - [Jails for NetBSD](https://netbsd-jails.petermann-digital.de/)
