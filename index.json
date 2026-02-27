@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-02-27, 06:12:58",
-      "https://lobste.rs/s/ukzck5/proposal_for_generic_methods_for_go_has"
-    ],
-    [
-      "The proposal for generic methods for Go has been officially accepted",
-      "https://www.reddit.com/r/golang/comments/1rfmjbq/the_proposal_for_generic_methods_for_go_from/"
-    ]
-  ],
-  [
-    [
       "2026-02-26, 23:38:42",
       "https://lobste.rs/s/bohhcq/return_obra_dinn_spherical_mapped"
     ],
@@ -237,6 +227,16 @@
     [
       "BuildKit: Docker's hidden gem that can build almost anything",
       "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 07:42:39",
+      "https://lobste.rs/s/oj6hru/google_api_keys_weren_t_secrets_then"
+    ],
+    [
+      "Google API Keys Weren't Secrets. But then Gemini Changed the Rules",
+      "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules"
     ]
   ],
   [
