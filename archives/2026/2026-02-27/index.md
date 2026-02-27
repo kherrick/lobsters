@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-27](index.md)
 
+* [2026-02-27, 21:33:14](https://lobste.rs/s/wvjyad/cultivating_robust_efficient_quantum) - [Cultivating a robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 21:07:50](https://lobste.rs/s/spoqxt/disrupting_malicious_uses_our_openai) - [Disrupting malicious uses of our [OpenAI] models](https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf)
 * [2026-02-27, 20:20:51](https://lobste.rs/s/tf8j5h/please_stop_using_passkeys_for) - [Please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
 * [2026-02-27, 20:01:09](https://lobste.rs/s/l2nahy/instant_llm_updates_with_doc_lora_text) - [Instant LLM Updates with Doc-to-LoRA and Text-to-LoRA](https://pub.sakana.ai/doc-to-lora/)
