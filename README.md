@@ -2,6 +2,7 @@
 
 * [2026-02-27, 17:26:55](https://lobste.rs/s/d1j6ye/update_on_svg_gtk) - [An update on SVG in GTK](https://blogs.gnome.org/gtk/2026/02/25/an-update-on-svg-in-gtk/)
 * [2026-02-27, 17:10:37](https://lobste.rs/s/vlpddk/we_deserve_better_streams_api_for) - [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
+* [2026-02-27, 16:31:35](https://lobste.rs/s/ulxeaa/allocating_on_stack) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 16:05:40](https://lobste.rs/s/vxrl1h/optimal_caverna_gameplay_via_formal) - [Optimal Caverna Gameplay via Formal Methods](https://www.stephendiehl.com/posts/caverna/)
 * [2026-02-27, 15:41:37](https://lobste.rs/s/43nydc/retrotick_browser_based_windows) - [RetroTick, browser-based Windows emulator](https://retrotick.com/)
 * [2026-02-27, 14:00:41](https://lobste.rs/s/fxljxx/fips_free_internetworking_peering) - [FIPS: Free Internetworking Peering System](https://github.com/jmcorgan/fips/blob/master/docs/design/fips-intro.md)
@@ -23,7 +24,6 @@
 * [2026-02-26, 16:25:09](https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
 * [2026-02-26, 16:23:31](https://lobste.rs/s/nxmzzn/snakes_run_rendering_100m_pixels_second) - [snakes.run: rendering 100M pixels a second over ssh](https://eieio.games/blog/secure-massively-multiplayer-snake/)
 * [2026-02-26, 11:21:58](https://lobste.rs/s/ibkc72/git_postgres) - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
-* [2026-02-26, 07:58:03](https://lobste.rs/s/0pof41/buildkit_docker_s_hidden_gem_can_build) - [BuildKit: Docker's hidden gem that can build almost anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
 
 ## [Archives](archives/index.md)
