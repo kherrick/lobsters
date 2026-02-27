@@ -5,6 +5,7 @@
 * [2026-02-26, 22:32:32](https://lobste.rs/s/laqdft/lobsters_blog_carnival_on_april_1st) - [Lobsters Blog Carnival on April 1st - Submissions Open](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
 * [2026-02-26, 21:54:17](https://lobste.rs/s/wbpjmd/how_my_side_project_got_banned_from) - [How my side project got banned from the internet](https://trysound.io/how-my-side-project-got-banned-from-the-internet/)
 * [2026-02-26, 19:09:36](https://lobste.rs/s/sxozst/introducing_pgbeam_globally) - [Introducing PgBeam, a globally distributed PostgreSQL proxy](https://pgbeam.com/launch)
+* [2026-02-26, 18:26:02](https://lobste.rs/s/5al9ui/airsnitch_demystifying_breaking_client) - [AirSnitch: Demystifying and Breaking Client Isolation in Wi-Fi Networks](https://www.ndss-symposium.org/ndss-paper/airsnitch-demystifying-and-breaking-client-isolation-in-wi-fi-networks/)
 * [2026-02-26, 18:13:44](https://lobste.rs/s/vgvzys/gilded_age_open_source_is_over) - [The Gilded Age of Open Source is over](https://www.youtube.com/watch?v=pTBgvhdz9VU)
 * [2026-02-26, 18:11:41](https://lobste.rs/s/hfnps5/osmand_s_faster_offline_navigation) - [OsmAnd's Faster Offline Navigation](https://osmand.net/blog/fast-routing)
 * [2026-02-26, 17:35:24](https://lobste.rs/s/bhzsdr/open_source_endowment_world_s_first) - [Open Source Endowment — World's First Endowment Fund for OSS](https://endowment.dev/)
@@ -23,7 +24,6 @@
 * [2026-02-26, 01:20:36](https://lobste.rs/s/yhv8lq/against_query_based_compilers) - [Against Query Based Compilers](https://matklad.github.io/2026/02/25/against-query-based-compilers.html)
 * [2026-02-25, 22:54:26](https://lobste.rs/s/rscdhi/long_range_e_bike_2021) - [Long Range E-Bike (2021)](https://jacquesmattheij.com/long-range-ebike/)
 * [2026-02-25, 21:16:34](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences) - [What interesting (and smaller) conferences are there in 2026?](https://lobste.rs/s/vtyttw/what_interesting_smaller_conferences)
-* [2026-02-25, 18:27:11](https://lobste.rs/s/llboto/developer_targeting_campaign_using) - [Developer-targeting campaign using malicious Next.js repositories](https://www.microsoft.com/en-us/security/blog/2026/02/24/c2-developer-targeting-campaign/)
 * [2026-02-25, 14:35:23](https://lobste.rs/s/bwkwba/new_accounts_on_hn_10x_more_likely_use_em) - [New accounts on HN 10x more likely to use EM-dashes](https://www.marginalia.nu/weird-ai-crap/hn/)
 
 ## [Archives](archives/index.md)
