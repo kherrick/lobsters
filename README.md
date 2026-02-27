@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-27, 01:38:52](https://lobste.rs/s/qm55ud/man_who_stole_infinity) - [The Man Who Stole Infinity](https://www.quantamagazine.org/the-man-who-stole-infinity-20260225/)
 * [2026-02-26, 23:38:42](https://lobste.rs/s/bohhcq/return_obra_dinn_spherical_mapped) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp 1st-person game (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2026-02-26, 22:32:32](https://lobste.rs/s/laqdft/lobsters_blog_carnival_on_april_1st) - [Lobsters Blog Carnival on April 1st - Submissions Open](https://lobste.rs/s/lz7hxw/lobsters_blog_carnival_announcement)
 * [2026-02-26, 21:54:17](https://lobste.rs/s/wbpjmd/how_my_side_project_got_banned_from) - [How my side project got banned from the internet](https://trysound.io/how-my-side-project-got-banned-from-the-internet/)
@@ -15,7 +16,6 @@
 * [2026-02-26, 13:58:53](https://lobste.rs/s/ccworf/model_collapse_ends_ai_hype) - [Model Collapse Ends AI Hype](https://youtu.be/ShusuVq32hc)
 * [2026-02-26, 13:36:33](https://lobste.rs/s/3kwdvv/can_llms_sat) - [Can LLMs SAT?](https://blog.aiono.dev/posts/can-llms-sat.html)
 * [2026-02-26, 11:21:58](https://lobste.rs/s/ibkc72/git_postgres) - [Git in Postgres](https://nesbitt.io/2026/02/26/git-in-postgres.html)
-* [2026-02-26, 08:49:37](https://lobste.rs/s/2uvfwd/96_5_confusables_txt_from_unicode_is_not) - [96.5% of confusables.txt from Unicode is not high-risk](https://paultendo.github.io/posts/confusable-vision-visual-similarity/)
 * [2026-02-26, 07:58:03](https://lobste.rs/s/0pof41/buildkit_docker_s_hidden_gem_can_build) - [BuildKit: Docker's hidden gem that can build almost anything](https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/)
 * [2026-02-26, 07:42:39](https://lobste.rs/s/oj6hru/google_api_keys_weren_t_secrets_then) - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 * [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
