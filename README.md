@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-02-28, 17:05:10](https://lobste.rs/s/lwfseb/ruby_s_exceptional_creatures) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
+* [2026-02-28, 18:45:35](https://lobste.rs/s/kch6lb/block_upgrade_tahoe_alerts) - [Block the “Upgrade to Tahoe” alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 * [2026-02-28, 16:40:35](https://lobste.rs/s/gzqqun/breeze_qtwidgets_style_changes_help_us) - [Breeze QtWidgets style changes to help us prepare for Union](https://akselmo.dev/posts/breeze-and-union-preparing/)
 * [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
 * [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
