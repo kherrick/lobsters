@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 05:18:03",
+      "https://lobste.rs/s/moy2ld/what_s_cooking_git_git_feb_2026_11"
+    ],
+    [
+      "What's cooking in git.git (Feb 2026, #11)",
+      "https://lore.kernel.org/git/xmqq8qcdof3f.fsf@gitster.g/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 03:24:14",
       "https://lobste.rs/s/mhifoh/offlining_live_game_with_net_native_aot"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-02-27, 19:09:02",
-      "https://lobste.rs/s/zpjljr/bill_text_ab_1043_age_verification"
-    ],
-    [
-      "Bill Text  - AB-1043 Age verification signals: software applications and online services",
-      "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1043"
-    ]
-  ],
-  [
-    [
       "2026-02-27, 17:26:55",
       "https://lobste.rs/s/d1j6ye/update_on_svg_gtk"
     ],
@@ -107,16 +107,6 @@
     [
       "Allocating on the Stack",
       "https://go.dev/blog/allocation-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 15:41:37",
-      "https://lobste.rs/s/43nydc/retrotick_browser_based_windows"
-    ],
-    [
-      "RetroTick, browser-based Windows emulator",
-      "https://retrotick.com/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Making WebAssembly a first-class language on the Web",
       "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
+    ]
+  ],
+  [
+    [
+      "2026-02-26, 06:07:48",
+      "https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory"
+    ],
+    [
+      "An Open Letter to Google regarding Mandatory Developer Registration for Android",
+      "https://keepandroidopen.org/open-letter/"
     ]
   ]
 ]
