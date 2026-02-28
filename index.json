@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 08:16:27",
+      "https://lobste.rs/s/jbbux3/packaging_ai_ml_models_as_conda_packages"
+    ],
+    [
+      "Packaging AI/ML models as conda packages",
+      "https://prefix.dev/blog/packaging-ai-ml-models-as-conda-packages"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 05:18:03",
       "https://lobste.rs/s/moy2ld/what_s_cooking_git_git_feb_2026_11"
     ],
@@ -237,16 +247,6 @@
     [
       "Making WebAssembly a first-class language on the Web",
       "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 06:07:48",
-      "https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory"
-    ],
-    [
-      "An Open Letter to Google regarding Mandatory Developer Registration for Android",
-      "https://keepandroidopen.org/open-letter/"
     ]
   ]
 ]
