@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 03:24:14",
+      "https://lobste.rs/s/mhifoh/offlining_live_game_with_net_native_aot"
+    ],
+    [
+      "Offlining a Live Game With .NET Native AOT",
+      "https://sephnewman.substack.com/p/offlining-a-live-game-with-net-native"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 02:50:25",
       "https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent"
     ],
@@ -237,16 +247,6 @@
     [
       "Making WebAssembly a first-class language on the Web",
       "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 06:07:48",
-      "https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory"
-    ],
-    [
-      "An Open Letter to Google regarding Mandatory Developer Registration for Android",
-      "https://keepandroidopen.org/open-letter/"
     ]
   ]
 ]
