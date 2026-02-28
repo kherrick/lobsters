@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-02-28, 14:30:50",
+      "https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust"
+    ],
+    [
+      "Debugging Reproducibility Issues in Rust Software",
+      "https://notes.8pit.net/notes/iqfs.html"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 14:11:55",
       "https://lobste.rs/s/yixhnw/epoll_s_handle_centric_design_is_more"
     ],
@@ -237,16 +247,6 @@
     [
       "Accidentally disabling SSH access via scp",
       "https://sny.sh/hypha/blog/scp"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 21:54:17",
-      "https://lobste.rs/s/wbpjmd/how_my_side_project_got_banned_from"
-    ],
-    [
-      "How my side project got banned from the internet",
-      "https://trysound.io/how-my-side-project-got-banned-from-the-internet/"
     ]
   ]
 ]
