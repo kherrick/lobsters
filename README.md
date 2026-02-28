@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-28, 17:05:10](https://lobste.rs/s/lwfseb/ruby_s_exceptional_creatures) - [Ruby's Exceptional Creatures](https://www.exceptionalcreatures.com/)
 * [2026-02-28, 16:40:35](https://lobste.rs/s/gzqqun/breeze_qtwidgets_style_changes_help_us) - [Breeze QtWidgets style changes to help us prepare for Union](https://akselmo.dev/posts/breeze-and-union-preparing/)
 * [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
 * [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
 * [2026-02-28, 15:22:34](https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
-* [2026-02-28, 14:30:50](https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust) - [Debugging Reproducibility Issues in Rust Software](https://notes.8pit.net/notes/iqfs.html)
 * [2026-02-28, 14:11:55](https://lobste.rs/s/yixhnw/epoll_s_handle_centric_design_is_more) - [epoll's handle-centric design is more composable than kqueue's filter-centric design (2021)](https://ariadne.space/2021/06/05/actually-bsd-kqueue-is-a.html)
 * [2026-02-28, 13:34:13](https://lobste.rs/s/tmstaw/everything_changes_nothing_changes) - [Everything changes, and nothing changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
 * [2026-02-28, 11:26:08](https://lobste.rs/s/iedoot/ai_true_is_anti_pattern) - [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
