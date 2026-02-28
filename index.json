@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-28, 22:12:50",
+      "https://lobste.rs/s/j2gprn/triangle_power"
+    ],
+    [
+      "Triangle of Power",
+      "https://www.youtube.com/watch?v=sULa9Lc4pck"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 20:54:54",
+      "https://lobste.rs/s/uftmc7/apache_iggy_s_migration_journey_thread"
+    ],
+    [
+      "Apache Iggy's migration journey to thread-per-core architecture powered by io_uring",
+      "https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 19:51:11",
       "https://lobste.rs/s/szaazg/custom_data_structures_e_graphs"
     ],
@@ -77,16 +97,6 @@
     [
       "January in Servo: preloads, better forms, details styling, and more",
       "https://servo.org/blog/2026/02/28/january-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 14:30:50",
-      "https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust"
-    ],
-    [
-      "Debugging Reproducibility Issues in Rust Software",
-      "https://notes.8pit.net/notes/iqfs.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Please stop using passkeys for encrypting user data",
       "https://blog.timcappalli.me/p/passkeys-prf-warning/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 17:26:55",
-      "https://lobste.rs/s/d1j6ye/update_on_svg_gtk"
-    ],
-    [
-      "An update on SVG in GTK",
-      "https://blogs.gnome.org/gtk/2026/02/25/an-update-on-svg-in-gtk/"
     ]
   ],
   [
