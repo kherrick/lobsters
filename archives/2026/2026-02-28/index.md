@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 10:44:27](https://lobste.rs/s/mp1jk6/atomic_graphrag_demo_single_query) - [Atomic GraphRAG Demo: A Single Query Execution](https://memgraph.com/blog/atomic-graphrag-demo-highlights)
+* [2026-02-28, 10:40:34](https://lobste.rs/s/g6l9eg/eternal_promise_history_attempts) - [The Eternal Promise: A History of Attempts to Eliminate Programmers](https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/)
 * [2026-02-28, 09:10:38](https://lobste.rs/s/tza0zh/yes) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-02-28, 08:52:11](https://lobste.rs/s/4rspnx/unf_filesystem_flight_recorder) - [unf — filesystem flight recorder](https://www.unfudged.io/)
 * [2026-02-28, 08:47:27](https://lobste.rs/s/fm1eln/package_managers_la_carte_formal_model) - [Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602)
