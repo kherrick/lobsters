@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-02-28, 19:16:20",
+      "https://lobste.rs/s/kkslov/thinking_deeply_about_theming_color"
+    ],
+    [
+      "Thinking Deeply About Theming and Color Naming",
+      "https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 18:46:40",
+      "https://lobste.rs/s/ctxxsx/science_detecting_llm_generated_text"
+    ],
+    [
+      "The Science of Detecting LLM-Generated Text",
+      "https://dl.acm.org/doi/10.1145/3624725"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 18:45:35",
       "https://lobste.rs/s/kch6lb/block_upgrade_tahoe_alerts"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-02-28, 08:16:27",
-      "https://lobste.rs/s/jbbux3/packaging_ai_ml_models_as_conda_packages"
-    ],
-    [
-      "Packaging AI/ML models as conda packages",
-      "https://prefix.dev/blog/packaging-ai-ml-models-as-conda-packages"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 02:50:25",
       "https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent"
     ],
@@ -197,16 +207,6 @@
     [
       "An update on SVG in GTK",
       "https://blogs.gnome.org/gtk/2026/02/25/an-update-on-svg-in-gtk/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 17:10:37",
-      "https://lobste.rs/s/vlpddk/we_deserve_better_streams_api_for"
-    ],
-    [
-      "We deserve a better streams API for JavaScript",
-      "https://blog.cloudflare.com/a-better-web-streams-api/"
     ]
   ],
   [
