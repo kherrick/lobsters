@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 22:12:50](https://lobste.rs/s/j2gprn/triangle_power_2016) - [Triangle of Power (2016)](https://www.youtube.com/watch?v=sULa9Lc4pck)
 * [2026-02-28, 22:12:50](https://lobste.rs/s/j2gprn/triangle_power) - [Triangle of Power](https://www.youtube.com/watch?v=sULa9Lc4pck)
 * [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 20:54:54](https://lobste.rs/s/uftmc7/apache_iggy_s_migration_journey_thread) - [Apache Iggy's migration journey to thread-per-core architecture powered by io_uring](https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/)
