@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-28, 22:12:50](https://lobste.rs/s/j2gprn/triangle_power) - [Triangle of Power](https://www.youtube.com/watch?v=sULa9Lc4pck)
+* [2026-02-28, 20:54:54](https://lobste.rs/s/uftmc7/apache_iggy_s_migration_journey_thread) - [Apache Iggy's migration journey to thread-per-core architecture powered by io_uring](https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/)
 * [2026-02-28, 19:51:11](https://lobste.rs/s/szaazg/custom_data_structures_e_graphs) - [Custom Data Structures in E-Graphs](https://uwplse.org/2026/02/24/egglog-containers.html)
 * [2026-02-28, 19:16:20](https://lobste.rs/s/kkslov/thinking_deeply_about_theming_color) - [Thinking Deeply About Theming and Color Naming](https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/)
 * [2026-02-28, 18:46:40](https://lobste.rs/s/ctxxsx/science_detecting_llm_generated_text) - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
@@ -8,7 +10,6 @@
 * [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
 * [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
 * [2026-02-28, 15:22:34](https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
-* [2026-02-28, 14:30:50](https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust) - [Debugging Reproducibility Issues in Rust Software](https://notes.8pit.net/notes/iqfs.html)
 * [2026-02-28, 14:11:55](https://lobste.rs/s/yixhnw/epoll_s_handle_centric_design_is_more) - [epoll's handle-centric design is more composable than kqueue's filter-centric design (2021)](https://ariadne.space/2021/06/05/actually-bsd-kqueue-is-a.html)
 * [2026-02-28, 13:34:13](https://lobste.rs/s/tmstaw/everything_changes_nothing_changes) - [Everything changes, and nothing changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
 * [2026-02-28, 11:26:08](https://lobste.rs/s/iedoot/ai_true_is_anti_pattern) - [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
@@ -21,7 +22,6 @@
 * [2026-02-28, 02:08:15](https://lobste.rs/s/lf1hbk/elementary_os_8_1_1_available_now) - [elementary OS 8.1.1 Available Now](https://blog.elementary.io/os-8-1-1-available-now/)
 * [2026-02-28, 01:50:37](https://lobste.rs/s/eai9st/stop_putting_secrets_env_files) - [Stop Putting Secrets in .env Files](https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/)
 * [2026-02-27, 20:20:51](https://lobste.rs/s/tf8j5h/please_stop_using_passkeys_for) - [Please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
-* [2026-02-27, 17:26:55](https://lobste.rs/s/d1j6ye/update_on_svg_gtk) - [An update on SVG in GTK](https://blogs.gnome.org/gtk/2026/02/25/an-update-on-svg-in-gtk/)
 * [2026-02-27, 16:31:35](https://lobste.rs/s/ulxeaa/allocating_on_stack) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 07:34:09](https://lobste.rs/s/4pqmdx/mothlamp_problems) - [Mothlamp Problems](https://unfoldingdiagrams.leaflet.pub/3mft6olldos26)
 * [2026-02-27, 07:32:42](https://lobste.rs/s/aifnbl/accidentally_disabling_ssh_access_via) - [Accidentally disabling SSH access via scp](https://sny.sh/hypha/blog/scp)
