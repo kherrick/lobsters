@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 08:16:27](https://lobste.rs/s/jbbux3/packaging_ai_ml_models_as_conda_packages) - [Packaging AI/ML models as conda packages](https://prefix.dev/blog/packaging-ai-ml-models-as-conda-packages)
 * [2026-02-28, 05:18:03](https://lobste.rs/s/moy2ld/what_s_cooking_git_git_feb_2026_11) - [What's cooking in git.git (Feb 2026, #11)](https://lore.kernel.org/git/xmqq8qcdof3f.fsf@gitster.g/)
 * [2026-02-28, 03:24:14](https://lobste.rs/s/mhifoh/offlining_live_game_with_net_native_aot) - [Offlining a Live Game With .NET Native AOT](https://sephnewman.substack.com/p/offlining-a-live-game-with-net-native)
 * [2026-02-28, 02:50:25](https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent) - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/)
