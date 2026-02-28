@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-02-28, 15:22:34",
+      "https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms"
+    ],
+    [
+      "January in Servo: preloads, better forms, details styling, and more",
+      "https://servo.org/blog/2026/02/28/january-in-servo/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 14:11:55",
       "https://lobste.rs/s/yixhnw/epoll_s_handle_centric_design_is_more"
     ],
@@ -187,16 +197,6 @@
     [
       "Allocating on the Stack",
       "https://go.dev/blog/allocation-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 14:00:41",
-      "https://lobste.rs/s/fxljxx/fips_free_internetworking_peering"
-    ],
-    [
-      "FIPS: Free Internetworking Peering System",
-      "https://github.com/jmcorgan/fips/blob/master/docs/design/fips-intro.md"
     ]
   ],
   [
