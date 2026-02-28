@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-02-28, 10:40:34",
+      "https://lobste.rs/s/g6l9eg/eternal_promise_history_attempts"
+    ],
+    [
+      "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+      "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 09:10:38",
       "https://lobste.rs/s/tza0zh/yes"
     ],
@@ -67,6 +77,16 @@
     [
       "Bootc and OSTree: Modernizing Linux System Deployment",
       "https://a-cup-of.coffee/blog/ostree-bootc/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 08:16:27",
+      "https://lobste.rs/s/jbbux3/packaging_ai_ml_models_as_conda_packages"
+    ],
+    [
+      "Packaging AI/ML models as conda packages",
+      "https://prefix.dev/blog/packaging-ai-ml-models-as-conda-packages"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Stop Putting Secrets in .env Files",
       "https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 21:33:14",
-      "https://lobste.rs/s/wvjyad/cultivating_robust_efficient_quantum"
-    ],
-    [
-      "Cultivating a robust and efficient quantum-safe HTTPS",
-      "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How my side project got banned from the internet",
       "https://trysound.io/how-my-side-project-got-banned-from-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2026-02-26, 16:25:09",
-      "https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language"
-    ],
-    [
-      "Making WebAssembly a first-class language on the Web",
-      "https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/"
     ]
   ]
 ]
