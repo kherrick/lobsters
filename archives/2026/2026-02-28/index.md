@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-02-28](index.md)
 
+* [2026-02-28, 09:10:38](https://lobste.rs/s/tza0zh/yes) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-02-28, 08:52:11](https://lobste.rs/s/4rspnx/unf_filesystem_flight_recorder) - [unf — filesystem flight recorder](https://www.unfudged.io/)
 * [2026-02-28, 08:47:27](https://lobste.rs/s/fm1eln/package_managers_la_carte_formal_model) - [Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602)
 * [2026-02-28, 08:27:54](https://lobste.rs/s/we2t0t/bootc_ostree_modernizing_linux_system) - [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/)
