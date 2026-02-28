@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 01:50:37",
+      "https://lobste.rs/s/eai9st/stop_putting_secrets_env_files"
+    ],
+    [
+      "Stop Putting Secrets in .env Files",
+      "https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/"
+    ]
+  ],
+  [
+    [
       "2026-02-27, 21:33:14",
       "https://lobste.rs/s/wvjyad/cultivating_robust_efficient_quantum"
     ],
@@ -107,16 +117,6 @@
     [
       "Jails for NetBSD",
       "https://netbsd-jails.petermann-digital.de/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 13:18:19",
-      "https://lobste.rs/s/h2cv91/zsa_andrew_smith"
-    ],
-    [
-      "ZSA: Andrew Smith",
-      "https://people.zsa.io/andrew-smith"
     ]
   ],
   [
