@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 02:08:15",
+      "https://lobste.rs/s/lf1hbk/elementary_os_8_1_1_available_now"
+    ],
+    [
+      "elementary OS 8.1.1 Available Now",
+      "https://blog.elementary.io/os-8-1-1-available-now/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 01:50:37",
       "https://lobste.rs/s/eai9st/stop_putting_secrets_env_files"
     ],
@@ -177,16 +187,6 @@
     [
       "Accidentally disabling SSH access via scp",
       "https://sny.sh/hypha/blog/scp"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 06:41:38",
-      "https://lobste.rs/s/djammf/our_programs_are_fun_use"
-    ],
-    [
-      "“Our programs are fun to use.”",
-      "https://unsung.aresluna.org/our-programs-are-fun-to-use/"
     ]
   ],
   [
