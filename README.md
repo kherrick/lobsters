@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-28, 03:24:14](https://lobste.rs/s/mhifoh/offlining_live_game_with_net_native_aot) - [Offlining a Live Game With .NET Native AOT](https://sephnewman.substack.com/p/offlining-a-live-game-with-net-native)
 * [2026-02-28, 02:50:25](https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent) - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/)
 * [2026-02-28, 02:08:15](https://lobste.rs/s/lf1hbk/elementary_os_8_1_1_available_now) - [elementary OS 8.1.1 Available Now](https://blog.elementary.io/os-8-1-1-available-now/)
 * [2026-02-28, 01:50:37](https://lobste.rs/s/eai9st/stop_putting_secrets_env_files) - [Stop Putting Secrets in .env Files](https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/)
@@ -24,7 +25,6 @@
 * [2026-02-26, 21:54:17](https://lobste.rs/s/wbpjmd/how_my_side_project_got_banned_from) - [How my side project got banned from the internet](https://trysound.io/how-my-side-project-got-banned-from-the-internet/)
 * [2026-02-26, 16:45:11](https://lobste.rs/s/o3cpxf/sliced_by_go_s_slices) - [Sliced by Go’s Slices](https://ohadravid.github.io/posts/2026-02-go-sliced/)
 * [2026-02-26, 16:25:09](https://lobste.rs/s/ul9mjj/making_webassembly_first_class_language) - [Making WebAssembly a first-class language on the Web](https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/)
-* [2026-02-26, 06:07:48](https://lobste.rs/s/uikg3e/open_letter_google_regarding_mandatory) - [An Open Letter to Google regarding Mandatory Developer Registration for Android](https://keepandroidopen.org/open-letter/)
 
 ## [Archives](archives/index.md)
 
