@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 16:32:24",
+      "https://lobste.rs/s/v5nyjz/prek_better_pre_commit"
+    ],
+    [
+      "prek: a better `pre-commit`",
+      "https://github.com/j178/prek"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 15:37:41",
       "https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern"
     ],
@@ -17,6 +27,16 @@
     [
       "January in Servo: preloads, better forms, details styling, and more",
       "https://servo.org/blog/2026/02/28/january-in-servo/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 14:30:50",
+      "https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust"
+    ],
+    [
+      "Debugging Reproducibility Issues in Rust Software",
+      "https://notes.8pit.net/notes/iqfs.html"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-02-28, 05:18:03",
-      "https://lobste.rs/s/moy2ld/what_s_cooking_git_git_feb_2026_11"
-    ],
-    [
-      "What's cooking in git.git (Feb 2026, #11)",
-      "https://lore.kernel.org/git/xmqq8qcdof3f.fsf@gitster.g/"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 02:50:25",
       "https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent"
     ],
@@ -197,16 +207,6 @@
     [
       "Allocating on the Stack",
       "https://go.dev/blog/allocation-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 13:56:20",
-      "https://lobste.rs/s/qnaeva/javascript_drms_are_stupid_useless"
-    ],
-    [
-      "JavaScript DRMs are Stupid and Useless",
-      "https://the-ranty-dev.vercel.app/javascript-drms-are-stupid"
     ]
   ],
   [
