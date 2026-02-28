@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 19:51:11",
+      "https://lobste.rs/s/szaazg/custom_data_structures_e_graphs"
+    ],
+    [
+      "Custom Data Structures in E-Graphs",
+      "https://uwplse.org/2026/02/24/egglog-containers.html"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 19:16:20",
       "https://lobste.rs/s/kkslov/thinking_deeply_about_theming_color"
     ],
@@ -217,16 +227,6 @@
     [
       "Allocating on the Stack",
       "https://go.dev/blog/allocation-optimizations"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 13:36:05",
-      "https://lobste.rs/s/wrfca5/jails_for_netbsd"
-    ],
-    [
-      "Jails for NetBSD",
-      "https://netbsd-jails.petermann-digital.de/"
     ]
   ],
   [
