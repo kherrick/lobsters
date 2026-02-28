@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-02-28, 02:08:15](https://lobste.rs/s/lf1hbk/elementary_os_8_1_1_available_now) - [elementary OS 8.1.1 Available Now](https://blog.elementary.io/os-8-1-1-available-now/)
 * [2026-02-28, 01:50:37](https://lobste.rs/s/eai9st/stop_putting_secrets_env_files) - [Stop Putting Secrets in .env Files](https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/)
 * [2026-02-27, 21:33:14](https://lobste.rs/s/wvjyad/cultivating_robust_efficient_quantum) - [Cultivating a robust and efficient quantum-safe HTTPS](https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html)
 * [2026-02-27, 21:07:50](https://lobste.rs/s/spoqxt/disrupting_malicious_uses_our_openai) - [Disrupting malicious uses of our [OpenAI] models](https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf)
@@ -18,7 +19,6 @@
 * [2026-02-27, 07:45:44](https://lobste.rs/s/xm8vfl/linux_id_linux_explores_new_way) - [Linux ID: Linux explores new way of authenticating developers and their code](https://www.zdnet.com/article/linux-kernel-maintainers-new-way-of-authenticating-developers-and-code/)
 * [2026-02-27, 07:34:09](https://lobste.rs/s/4pqmdx/mothlamp_problems) - [Mothlamp Problems](https://unfoldingdiagrams.leaflet.pub/3mft6olldos26)
 * [2026-02-27, 07:32:42](https://lobste.rs/s/aifnbl/accidentally_disabling_ssh_access_via) - [Accidentally disabling SSH access via scp](https://sny.sh/hypha/blog/scp)
-* [2026-02-27, 06:41:38](https://lobste.rs/s/djammf/our_programs_are_fun_use) - [“Our programs are fun to use.”](https://unsung.aresluna.org/our-programs-are-fun-to-use/)
 * [2026-02-26, 23:38:42](https://lobste.rs/s/bohhcq/return_obra_dinn_spherical_mapped) - [Return of the Obra Dinn: spherical mapped dithering for a 1bpp 1st-person game (2017)](https://forums.tigsource.com/index.php?topic=40832.msg1363742#msg1363742)
 * [2026-02-26, 21:54:17](https://lobste.rs/s/wbpjmd/how_my_side_project_got_banned_from) - [How my side project got banned from the internet](https://trysound.io/how-my-side-project-got-banned-from-the-internet/)
 * [2026-02-26, 16:45:11](https://lobste.rs/s/o3cpxf/sliced_by_go_s_slices) - [Sliced by Go’s Slices](https://ohadravid.github.io/posts/2026-02-go-sliced/)
