@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-02-28, 08:27:54",
+      "https://lobste.rs/s/we2t0t/bootc_ostree_modernizing_linux_system"
+    ],
+    [
+      "Bootc and OSTree: Modernizing Linux System Deployment",
+      "https://a-cup-of.coffee/blog/ostree-bootc/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 08:16:27",
       "https://lobste.rs/s/jbbux3/packaging_ai_ml_models_as_conda_packages"
     ],
@@ -57,16 +67,6 @@
     [
       "Cultivating a robust and efficient quantum-safe HTTPS",
       "https://security.googleblog.com/2026/02/cultivating-robust-and-efficient.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 21:07:50",
-      "https://lobste.rs/s/spoqxt/disrupting_malicious_uses_our_openai"
-    ],
-    [
-      "Disrupting malicious uses of our [OpenAI] models",
-      "https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf"
     ]
   ],
   [
