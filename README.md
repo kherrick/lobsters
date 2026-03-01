@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
 * [2026-03-01, 00:50:28](https://lobste.rs/s/3bdydz/poet_with_no_verse) - [A Poet with No Verse](https://akshay.fyi/posts/a-poet-with-no-verse/)
 * [2026-02-28, 22:12:50](https://lobste.rs/s/j2gprn/triangle_power_2016) - [Triangle of Power (2016)](https://www.youtube.com/watch?v=sULa9Lc4pck)
 * [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
@@ -23,7 +24,6 @@
 * [2026-02-28, 02:50:25](https://lobste.rs/s/ykwb2z/ai_agent_coding_skeptic_tries_ai_agent) - [An AI agent coding skeptic tries AI agent coding, in excessive detail](https://minimaxir.com/2026/02/ai-agent-coding/)
 * [2026-02-28, 01:50:37](https://lobste.rs/s/eai9st/stop_putting_secrets_env_files) - [Stop Putting Secrets in .env Files](https://jonmagic.com/posts/stop-putting-secrets-in-dotenv-files/)
 * [2026-02-27, 20:20:51](https://lobste.rs/s/tf8j5h/please_stop_using_passkeys_for) - [Please stop using passkeys for encrypting user data](https://blog.timcappalli.me/p/passkeys-prf-warning/)
-* [2026-02-27, 16:31:35](https://lobste.rs/s/ulxeaa/allocating_on_stack) - [Allocating on the Stack](https://go.dev/blog/allocation-optimizations)
 * [2026-02-27, 07:34:09](https://lobste.rs/s/4pqmdx/mothlamp_problems) - [Mothlamp Problems](https://unfoldingdiagrams.leaflet.pub/3mft6olldos26)
 
 ## [Archives](archives/index.md)
