@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-01, 18:04:31](https://lobste.rs/s/bvuwss/what_even_are_breeze_qtquick_qtwidget) - [What even are Breeze, QtQuick, QtWidget, Union..?](https://akselmo.dev/posts/what-are-breeze-widgets-quick-union/)
 * [2026-03-01, 15:52:57](https://lobste.rs/s/6a5wiw/fooling_go_s_x_509_certificate) - [Fooling Go's X.509 Certificate Verification](https://danielmangum.com/posts/fooling-go-x509-certificate-verification/)
 * [2026-03-01, 15:48:10](https://lobste.rs/s/3tn917/agents_attacking_agents_ai_powered_bot) - [Agents attacking agents: AI-powered bot exploiting GitHub Actions](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 * [2026-03-01, 15:40:29](https://lobste.rs/s/39kel0/why_does_c_have_best_file_api) - [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
@@ -12,7 +13,6 @@
 * [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
 * [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 19:51:11](https://lobste.rs/s/szaazg/custom_data_structures_e_graphs) - [Custom Data Structures in E-Graphs](https://uwplse.org/2026/02/24/egglog-containers.html)
-* [2026-02-28, 19:16:20](https://lobste.rs/s/kkslov/thinking_deeply_about_theming_color) - [Thinking Deeply About Theming and Color Naming](https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/)
 * [2026-02-28, 18:46:40](https://lobste.rs/s/ctxxsx/science_detecting_llm_generated_text) - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
 * [2026-02-28, 18:45:35](https://lobste.rs/s/kch6lb/block_upgrade_tahoe_alerts) - [Block the “Upgrade to Tahoe” alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 * [2026-02-28, 16:40:35](https://lobste.rs/s/gzqqun/breeze_qtwidgets_style_changes_help_us) - [Breeze QtWidgets style changes to help us prepare for Union](https://akselmo.dev/posts/breeze-and-union-preparing/)
