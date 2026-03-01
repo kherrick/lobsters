@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 19:19:08",
+      "https://lobste.rs/s/zwdukd/tsink_embedded_time_series_database_for"
+    ],
+    [
+      "tsink - Embedded Time-Series Database for Rust",
+      "https://saturnine.cc/tsink"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 18:45:07",
       "https://lobste.rs/s/furd6t/python_type_checker_comparison_empty"
     ],
@@ -137,16 +147,6 @@
     [
       "Custom Data Structures in E-Graphs",
       "https://uwplse.org/2026/02/24/egglog-containers.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 18:46:40",
-      "https://lobste.rs/s/ctxxsx/science_detecting_llm_generated_text"
-    ],
-    [
-      "The Science of Detecting LLM-Generated Text",
-      "https://dl.acm.org/doi/10.1145/3624725"
     ]
   ],
   [
