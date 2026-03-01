@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 12:56:37",
+      "https://lobste.rs/s/8ixvz2/real_cost_random_i_o"
+    ],
+    [
+      "The real cost of random I/O",
+      "https://vondra.me/posts/the-real-cost-of-random-io/"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 09:45:27",
       "https://lobste.rs/s/ndm848/blogatto_gleam_framework_for_building"
     ],
@@ -227,16 +237,6 @@
     [
       "An AI agent coding skeptic tries AI agent coding, in excessive detail",
       "https://minimaxir.com/2026/02/ai-agent-coding/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 20:20:51",
-      "https://lobste.rs/s/tf8j5h/please_stop_using_passkeys_for"
-    ],
-    [
-      "Please stop using passkeys for encrypting user data",
-      "https://blog.timcappalli.me/p/passkeys-prf-warning/"
     ]
   ],
   [
