@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-02-28, 16:40:35",
+      "https://lobste.rs/s/gzqqun/breeze_qtwidgets_style_changes_help_us"
+    ],
+    [
+      "Breeze QtWidgets style changes to help us prepare for Union",
+      "https://akselmo.dev/posts/breeze-and-union-preparing/"
+    ]
+  ],
+  [
+    [
       "2026-02-28, 16:32:24",
       "https://lobste.rs/s/v5nyjz/prek_better_pre_commit"
     ],
@@ -187,16 +197,6 @@
     [
       "epoll's handle-centric design is more composable than kqueue's filter-centric design (2021)",
       "https://ariadne.space/2021/06/05/actually-bsd-kqueue-is-a.html"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 13:34:13",
-      "https://lobste.rs/s/tmstaw/everything_changes_nothing_changes"
-    ],
-    [
-      "Everything changes, and nothing changes",
-      "https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/"
     ]
   ],
   [
