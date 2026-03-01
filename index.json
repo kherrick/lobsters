@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-01, 00:50:28",
-      "https://lobste.rs/s/3bdydz/poet_with_no_verse"
-    ],
-    [
-      "A Poet with No Verse",
-      "https://akshay.fyi/posts/a-poet-with-no-verse/"
-    ]
-  ],
-  [
-    [
       "2026-02-28, 22:12:50",
       "https://lobste.rs/s/j2gprn/triangle_power_2016"
     ],
@@ -107,6 +97,16 @@
     [
       "January in Servo: preloads, better forms, details styling, and more",
       "https://servo.org/blog/2026/02/28/january-in-servo/"
+    ]
+  ],
+  [
+    [
+      "2026-02-28, 14:30:50",
+      "https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust"
+    ],
+    [
+      "Debugging Reproducibility Issues in Rust Software",
+      "https://notes.8pit.net/notes/iqfs.html"
     ]
   ],
   [
