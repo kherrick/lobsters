@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 18:45:07",
+      "https://lobste.rs/s/furd6t/python_type_checker_comparison_empty"
+    ],
+    [
+      "Python Type Checker Comparison: Empty Container Inference",
+      "https://pyrefly.org/blog/container-inference-comparison/"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 18:04:31",
       "https://lobste.rs/s/bvuwss/what_even_are_breeze_qtquick_qtwidget"
     ],
@@ -147,16 +157,6 @@
     [
       "Block the “Upgrade to Tahoe” alerts",
       "https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/"
-    ]
-  ],
-  [
-    [
-      "2026-02-28, 16:40:35",
-      "https://lobste.rs/s/gzqqun/breeze_qtwidgets_style_changes_help_us"
-    ],
-    [
-      "Breeze QtWidgets style changes to help us prepare for Union",
-      "https://akselmo.dev/posts/breeze-and-union-preparing/"
     ]
   ],
   [
