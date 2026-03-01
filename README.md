@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-01, 00:50:28](https://lobste.rs/s/3bdydz/poet_with_no_verse) - [A Poet with No Verse](https://akshay.fyi/posts/a-poet-with-no-verse/)
 * [2026-02-28, 22:12:50](https://lobste.rs/s/j2gprn/triangle_power_2016) - [Triangle of Power (2016)](https://www.youtube.com/watch?v=sULa9Lc4pck)
 * [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 19:51:11](https://lobste.rs/s/szaazg/custom_data_structures_e_graphs) - [Custom Data Structures in E-Graphs](https://uwplse.org/2026/02/24/egglog-containers.html)
@@ -11,6 +10,7 @@
 * [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
 * [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
 * [2026-02-28, 15:22:34](https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
+* [2026-02-28, 14:30:50](https://lobste.rs/s/oysfmo/debugging_reproducibility_issues_rust) - [Debugging Reproducibility Issues in Rust Software](https://notes.8pit.net/notes/iqfs.html)
 * [2026-02-28, 14:11:55](https://lobste.rs/s/yixhnw/epoll_s_handle_centric_design_is_more) - [epoll's handle-centric design is more composable than kqueue's filter-centric design (2021)](https://ariadne.space/2021/06/05/actually-bsd-kqueue-is-a.html)
 * [2026-02-28, 13:34:13](https://lobste.rs/s/tmstaw/everything_changes_nothing_changes) - [Everything changes, and nothing changes](https://btao.org/posts/2026-02-28-everything-changes-nothing-changes/)
 * [2026-02-28, 11:26:08](https://lobste.rs/s/iedoot/ai_true_is_anti_pattern) - [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
