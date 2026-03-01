@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-01, 07:08:49",
+      "https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls"
+    ],
+    [
+      "You can use newline characters in URLs",
+      "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/"
+    ]
+  ],
+  [
+    [
       "2026-03-01, 00:50:28",
       "https://lobste.rs/s/3bdydz/poet_with_no_verse"
     ],
@@ -227,16 +237,6 @@
     [
       "Please stop using passkeys for encrypting user data",
       "https://blog.timcappalli.me/p/passkeys-prf-warning/"
-    ]
-  ],
-  [
-    [
-      "2026-02-27, 16:31:35",
-      "https://lobste.rs/s/ulxeaa/allocating_on_stack"
-    ],
-    [
-      "Allocating on the Stack",
-      "https://go.dev/blog/allocation-optimizations"
     ]
   ],
   [
