@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-01, 20:17:43](https://lobste.rs/s/o1vthu/you_don_t_have_if_you_don_t_want) - [You don't have to if you don't want to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
 * [2026-03-01, 19:53:48](https://lobste.rs/s/zuh3zm/qman_more_modern_man_page_viewer_for_our) - [qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman)
 * [2026-03-01, 19:22:52](https://lobste.rs/s/pf4r2b/aws_middle_east_central_zone_uae_down) - [AWS Middle East Central Zone (UAE) down, apparently struck in war](https://health.aws.amazon.com/health/status)
 * [2026-03-01, 19:19:08](https://lobste.rs/s/zwdukd/tsink_embedded_time_series_database_for) - [tsink - Embedded Time-Series Database for Rust](https://saturnine.cc/tsink)
@@ -22,7 +23,6 @@
 * [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
 * [2026-02-28, 15:22:34](https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 * [2026-02-28, 11:26:08](https://lobste.rs/s/iedoot/ai_true_is_anti_pattern) - [AI=true is an Anti-Pattern](https://keleshev.com/ai-equals-true-is-an-anti-pattern)
-* [2026-02-28, 10:51:20](https://lobste.rs/s/asryy7/15_years_indie_dev_4_bits_advice) - [15 Years of Indie Dev In 4 Bits of Advice](https://www.pentadact.com/2026-01-08-15-years-of-indie-dev-in-4-bits-of-advice/)
 * [2026-02-28, 09:10:38](https://lobste.rs/s/tza0zh/yes) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-02-28, 08:47:27](https://lobste.rs/s/fm1eln/package_managers_la_carte_formal_model) - [Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602)
 

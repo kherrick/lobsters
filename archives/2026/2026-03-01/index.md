@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-01](index.md)
 
+* [2026-03-01, 20:17:43](https://lobste.rs/s/o1vthu/you_don_t_have_if_you_don_t_want) - [You don't have to if you don't want to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
 * [2026-03-01, 19:53:48](https://lobste.rs/s/zuh3zm/qman_more_modern_man_page_viewer_for_our) - [qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman)
 * [2026-03-01, 19:22:52](https://lobste.rs/s/pf4r2b/aws_middle_east_central_zone_uae_down) - [AWS Middle East Central Zone (UAE) down, apparently struck in war](https://health.aws.amazon.com/health/status)
 * [2026-03-01, 19:19:08](https://lobste.rs/s/zwdukd/tsink_embedded_time_series_database_for) - [tsink - Embedded Time-Series Database for Rust](https://saturnine.cc/tsink)
