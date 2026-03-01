@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-01, 00:50:28](https://lobste.rs/s/3bdydz/poet_with_no_verse) - [A Poet with No Verse](https://akshay.fyi/posts/a-poet-with-no-verse/)
 * [2026-02-28, 22:12:50](https://lobste.rs/s/j2gprn/triangle_power_2016) - [Triangle of Power (2016)](https://www.youtube.com/watch?v=sULa9Lc4pck)
 * [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
-* [2026-02-28, 20:54:54](https://lobste.rs/s/uftmc7/apache_iggy_s_migration_journey_thread) - [Apache Iggy's migration journey to thread-per-core architecture powered by io_uring](https://iggy.apache.org/blogs/2026/02/27/thread-per-core-io_uring/)
 * [2026-02-28, 19:51:11](https://lobste.rs/s/szaazg/custom_data_structures_e_graphs) - [Custom Data Structures in E-Graphs](https://uwplse.org/2026/02/24/egglog-containers.html)
 * [2026-02-28, 19:16:20](https://lobste.rs/s/kkslov/thinking_deeply_about_theming_color) - [Thinking Deeply About Theming and Color Naming](https://css-tricks.com/thinking-deeply-about-theming-and-color-naming/)
 * [2026-02-28, 18:46:40](https://lobste.rs/s/ctxxsx/science_detecting_llm_generated_text) - [The Science of Detecting LLM-Generated Text](https://dl.acm.org/doi/10.1145/3624725)
