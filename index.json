@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-02, 20:29:39",
+      "https://lobste.rs/s/kblbsx/state_haskell_2025_results"
+    ],
+    [
+      "State of Haskell 2025 results",
+      "https://discourse.haskell.org/t/state-of-haskell-2025-results/13755"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 20:26:39",
       "https://lobste.rs/s/1ozzrm/getopt_go_package_for_posix_gnu_style"
     ],
@@ -177,16 +187,6 @@
     [
       "Building a Quake PC",
       "https://fabiensanglard.net/quake_pc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 09:24:21",
-      "https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory"
-    ],
-    [
-      "Hardware hotplug events on Linux, the gory details",
-      "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html"
     ]
   ],
   [
