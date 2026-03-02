@@ -6,6 +6,7 @@
 
 * [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
 * [2026-03-02, 18:00:17](https://lobste.rs/s/drwadb/reverse_engineering_hello_world) - [Reverse engineering “Hello World” in QuickBASIC 3.0](https://marnetto.net/2026/03/01/brun-hello-world)
+* [2026-03-02, 17:38:23](https://lobste.rs/s/nnripc/generative_ai_policy_landscape_open) - [The Generative AI Policy Landscape in Open Source](https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/)
 * [2026-03-02, 16:10:55](https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
 * [2026-03-02, 16:09:15](https://lobste.rs/s/odsvns/what_127_5_million_forms_can_tell_you_about) - [What 127.5 million forms can tell you about the state of front-end input validation on the Web](https://amandastjerna.se/blog/127-million-forms/)
 * [2026-03-02, 16:05:58](https://lobste.rs/s/xncpfs/lil_fun_langs_guts) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
