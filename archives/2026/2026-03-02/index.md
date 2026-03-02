@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 11:21:20](https://lobste.rs/s/rlof2z/libxml2_enterprise_edition_agpl_from) - [libxml2 Enterprise Edition (AGPL, from the previous maintainer)](https://codeberg.org/nwellnhof/libxml2-ee)
 * [2026-03-02, 10:46:59](https://lobste.rs/s/uqpww1/building_quake_pc) - [Building a Quake PC](https://fabiensanglard.net/quake_pc/)
 * [2026-03-02, 10:41:45](https://lobste.rs/s/lroieg/sabela_reactive_haskell_notebook) - [Sabela: A Reactive Haskell Notebook](https://datahaskell.org/blog/2026/03/01/sabela-reactive-haskell-notebooks.html)
 * [2026-03-02, 09:24:21](https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)

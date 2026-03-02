@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-02, 11:21:20](https://lobste.rs/s/rlof2z/libxml2_enterprise_edition_agpl_from) - [libxml2 Enterprise Edition (AGPL, from the previous maintainer)](https://codeberg.org/nwellnhof/libxml2-ee)
 * [2026-03-02, 10:46:59](https://lobste.rs/s/uqpww1/building_quake_pc) - [Building a Quake PC](https://fabiensanglard.net/quake_pc/)
 * [2026-03-02, 10:41:45](https://lobste.rs/s/lroieg/sabela_reactive_haskell_notebook) - [Sabela: A Reactive Haskell Notebook](https://datahaskell.org/blog/2026/03/01/sabela-reactive-haskell-notebooks.html)
 * [2026-03-02, 09:24:21](https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
@@ -21,7 +22,6 @@
 * [2026-03-01, 15:40:29](https://lobste.rs/s/39kel0/why_does_c_have_best_file_api) - [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
 * [2026-03-01, 13:13:01](https://lobste.rs/s/6gcdzl/supercharge_rust_functions_with) - [Supercharge Rust functions with implicit arguments using CGP v0.7.0](https://contextgeneric.dev/blog/v0.7.0-release)
 * [2026-03-01, 12:56:37](https://lobste.rs/s/8ixvz2/real_cost_random_i_o) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
-* [2026-03-01, 09:45:27](https://lobste.rs/s/ndm848/blogatto_gleam_framework_for_building) - [Blogatto - A Gleam framework for building static blogs](https://blogat.to)
 * [2026-03-01, 09:39:40](https://lobste.rs/s/98geyn/64_bit_hurd_has_landed_guix) - [The 64-bit Hurd has landed in Guix](https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/)
 * [2026-03-01, 08:50:23](https://lobste.rs/s/xuv0vn/enshittificator) - [The Enshittificator](https://vimeo.com/1168468796)
 * [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
