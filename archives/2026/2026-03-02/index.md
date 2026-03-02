@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 19:42:02](https://lobste.rs/s/gmhq26/free_ip_geolocation_database) - [Free IP Geolocation Database](https://ip66.dev/)
 * [2026-03-02, 19:39:54](https://lobste.rs/s/rkzdmk/you_can_t_always_fix_it) - [You can't always fix it](https://ntietz.com/blog/you-cant-always-fix-it/)
 * [2026-03-02, 19:24:59](https://lobste.rs/s/rfjjwq/i_fuzzed_vibe_fixed_vibed_c_compiler) - [I Fuzzed, and Vibe Fixed, the Vibed C Compiler](https://john.regehr.org/writing/claude_c_compiler.html)
 * [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
@@ -16,6 +17,7 @@
 * [2026-03-02, 15:27:13](https://lobste.rs/s/cyavky/vibecoding_challenge_2_five_feathers) - [Vibecoding Challenge 2: The Five Feathers (Spring 2026)](https://gist.github.com/MostAwesomeDude/ebb60b9bec53c4795f54606e944fccd7)
 * [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
 * [2026-03-02, 15:15:15](https://lobste.rs/s/eyfjod/2025_state_rust_survey_results_rust_blog) - [2025 State of Rust Survey Results | Rust Blog](https://blog.rust-lang.org/2026/03/02/2025-State-Of-Rust-Survey-results/)
+* [2026-03-02, 15:15:15](https://lobste.rs/s/eyfjod/2025_state_rust_survey_results) - [2025 State of Rust Survey Results](https://blog.rust-lang.org/2026/03/02/2025-State-Of-Rust-Survey-results/)
 * [2026-03-02, 13:04:55](https://lobste.rs/s/rjgpkd/json_documents_performance_storage) - [JSON Documents Performance, Storage and Search: MongoDB vs PostgreSQL](https://binaryigor.com/json-documents-mongodb-vs-postgresql.html)
 * [2026-03-02, 12:45:23](https://lobste.rs/s/7fdbnh/apt_graph_colouring) - [APT Graph Colouring](https://github.com/RyanGibb/apt-graph-colouring)
 * [2026-03-02, 12:26:44](https://lobste.rs/s/fztjyg/narwhal_v0_5_0_pub_sub_messaging_server_now) - [Narwhal v0.5.0 – pub/sub messaging server, now powered by io_uring](https://github.com/narwhal-io/narwhal/releases/tag/narwhal-0.5.0)
