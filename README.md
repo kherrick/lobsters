@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-02, 08:50:11](https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering) - [Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)](https://happel.ai/posts/covering-spaces-geometries-visualized/)
+* [2026-03-02, 09:24:21](https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
+* [2026-03-02, 09:15:06](https://lobste.rs/s/dppelv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dppelv/what_are_you_doing_this_week)
 * [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola's new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-02, 08:12:13](https://lobste.rs/s/yyqowj/gram_zed_fork_without_all_ai) - [GRAM: A Zed fork without all the AI](https://gram.liten.app/)
 * [2026-03-02, 04:21:55](https://lobste.rs/s/xgyxgd/c64_copy_protection) - [C64 copy protection](https://www.commodoregames.net/copyprotection/)
@@ -23,7 +24,6 @@
 * [2026-03-01, 09:45:27](https://lobste.rs/s/ndm848/blogatto_gleam_framework_for_building) - [Blogatto - A Gleam framework for building static blogs](https://blogat.to)
 * [2026-03-01, 09:39:40](https://lobste.rs/s/98geyn/64_bit_hurd_has_landed_guix) - [The 64-bit Hurd has landed in Guix](https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/)
 * [2026-03-01, 08:50:23](https://lobste.rs/s/xuv0vn/enshittificator) - [The Enshittificator](https://vimeo.com/1168468796)
-* [2026-03-01, 08:22:21](https://lobste.rs/s/xbavlu/simple_made_inevitable_economics) - [Simple Made Inevitable: The Economics of Language Choice in the LLM Era](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
 * [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
 
 ## [Archives](archives/index.md)
