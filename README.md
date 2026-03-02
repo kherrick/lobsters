@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-02, 16:10:55](https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
+* [2026-03-02, 16:09:15](https://lobste.rs/s/odsvns/what_127_5_million_forms_can_tell_you_about) - [What 127.5 million forms can tell you about the state of front-end input validation on the Web](https://amandastjerna.se/blog/127-million-forms/)
 * [2026-03-02, 15:27:13](https://lobste.rs/s/cyavky/vibecoding_challenge_2_five_feathers) - [Vibecoding Challenge 2: The Five Feathers (Spring 2026)](https://gist.github.com/MostAwesomeDude/ebb60b9bec53c4795f54606e944fccd7)
 * [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
+* [2026-03-02, 15:15:15](https://lobste.rs/s/eyfjod/2025_state_rust_survey_results_rust_blog) - [2025 State of Rust Survey Results | Rust Blog](https://blog.rust-lang.org/2026/03/02/2025-State-Of-Rust-Survey-results/)
 * [2026-03-02, 13:04:55](https://lobste.rs/s/rjgpkd/json_documents_performance_storage) - [JSON Documents Performance, Storage and Search: MongoDB vs PostgreSQL](https://binaryigor.com/json-documents-mongodb-vs-postgresql.html)
 * [2026-03-02, 12:45:23](https://lobste.rs/s/7fdbnh/apt_graph_colouring) - [APT Graph Colouring](https://github.com/RyanGibb/apt-graph-colouring)
 * [2026-03-02, 12:26:44](https://lobste.rs/s/fztjyg/narwhal_v0_5_0_pub_sub_messaging_server_now) - [Narwhal v0.5.0 – pub/sub messaging server, now powered by io_uring](https://github.com/narwhal-io/narwhal/releases/tag/narwhal-0.5.0)
-* [2026-03-02, 11:44:12](https://lobste.rs/s/bp15oz/kovan_from_production_mvcc_systems_wait) - [Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation](https://vertexclique.com/blog/kovan-from-prod-to-mr/)
 * [2026-03-02, 11:21:20](https://lobste.rs/s/rlof2z/libxml2_enterprise_edition_agpl_from) - [libxml2 Enterprise Edition (AGPL, from the previous maintainer)](https://codeberg.org/nwellnhof/libxml2-ee)
 * [2026-03-02, 10:46:59](https://lobste.rs/s/uqpww1/building_quake_pc) - [Building a Quake PC](https://fabiensanglard.net/quake_pc/)
 * [2026-03-02, 10:41:45](https://lobste.rs/s/lroieg/sabela_reactive_haskell_notebook) - [Sabela: A Reactive Haskell Notebook](https://datahaskell.org/blog/2026/03/01/sabela-reactive-haskell-notebooks.html)
@@ -23,8 +25,6 @@
 * [2026-03-01, 18:04:31](https://lobste.rs/s/bvuwss/what_even_are_breeze_qtquick_qtwidget) - [What even are Breeze, QtQuick, QtWidget, Union..?](https://akselmo.dev/posts/what-are-breeze-widgets-quick-union/)
 * [2026-03-01, 15:40:29](https://lobste.rs/s/39kel0/why_does_c_have_best_file_api) - [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
 * [2026-03-01, 09:39:40](https://lobste.rs/s/98geyn/64_bit_hurd_has_landed_guix) - [The 64-bit Hurd has landed in Guix](https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/)
-* [2026-03-01, 08:50:23](https://lobste.rs/s/xuv0vn/enshittificator) - [The Enshittificator](https://vimeo.com/1168468796)
-* [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
 
 ## [Archives](archives/index.md)
 
