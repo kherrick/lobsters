@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-02, 16:10:55",
+      "https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single"
+    ],
+    [
+      "Packaging a Gleam app into a single executable",
+      "https://www.dhzdhd.dev/blog/gleam-executable"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 16:09:15",
+      "https://lobste.rs/s/odsvns/what_127_5_million_forms_can_tell_you_about"
+    ],
+    [
+      "What 127.5 million forms can tell you about the state of front-end input validation on the Web",
+      "https://amandastjerna.se/blog/127-million-forms/"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 15:27:13",
       "https://lobste.rs/s/cyavky/vibecoding_challenge_2_five_feathers"
     ],
@@ -17,6 +37,16 @@
     [
       "Gram 1.0 released",
       "https://gram.liten.app/posts/first-release/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 15:15:15",
+      "https://lobste.rs/s/eyfjod/2025_state_rust_survey_results_rust_blog"
+    ],
+    [
+      "2025 State of Rust Survey Results | Rust Blog",
+      "https://blog.rust-lang.org/2026/03/02/2025-State-Of-Rust-Survey-results/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "Narwhal v0.5.0 – pub/sub messaging server, now powered by io_uring",
       "https://github.com/narwhal-io/narwhal/releases/tag/narwhal-0.5.0"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 11:44:12",
-      "https://lobste.rs/s/bp15oz/kovan_from_production_mvcc_systems_wait"
-    ],
-    [
-      "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
-      "https://vertexclique.com/blog/kovan-from-prod-to-mr/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "The 64-bit Hurd has landed in Guix",
       "https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 08:50:23",
-      "https://lobste.rs/s/xuv0vn/enshittificator"
-    ],
-    [
-      "The Enshittificator",
-      "https://vimeo.com/1168468796"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 07:08:49",
-      "https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls"
-    ],
-    [
-      "You can use newline characters in URLs",
-      "https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/"
     ]
   ]
 ]
