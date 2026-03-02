@@ -2,6 +2,7 @@
 
 * [2026-03-02, 09:24:21](https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 09:15:06](https://lobste.rs/s/dppelv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dppelv/what_are_you_doing_this_week)
+* [2026-03-02, 08:50:11](https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering) - [Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)](https://happel.ai/posts/covering-spaces-geometries-visualized/)
 * [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola's new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-02, 08:12:13](https://lobste.rs/s/yyqowj/gram_zed_fork_without_all_ai) - [GRAM: A Zed fork without all the AI](https://gram.liten.app/)
 * [2026-03-02, 04:21:55](https://lobste.rs/s/xgyxgd/c64_copy_protection) - [C64 copy protection](https://www.commodoregames.net/copyprotection/)
@@ -9,7 +10,6 @@
 * [2026-03-02, 03:20:06](https://lobste.rs/s/mnvpnc/xuv_x11_user_daemon_automatically_run) - [xuv: X11 user daemon to automatically run commands triggered by user specified events](https://codeberg.org/NRK/xuv)
 * [2026-03-02, 01:57:21](https://lobste.rs/s/7vzrm3/espanso_open_source_cross_platform_text) - [Espanso - an open-source, cross-platform text expander](https://github.com/espanso/espanso)
 * [2026-03-02, 01:16:51](https://lobste.rs/s/3nuudi/explicit_resource_management_has_color) - [Explicit Resource Management Has a Color Problem](https://www.joshuaamaju.com/blog/the-pitfalls-of-explicit-resource-management)
-* [2026-03-02, 00:30:31](https://lobste.rs/s/s4ha0g/mcp_firewall_better_policy_engine_for_cli) - [mcp-firewall: A better policy-engine for CLI agents](https://github.com/dzervas/mcp-firewall)
 * [2026-03-01, 20:17:43](https://lobste.rs/s/o1vthu/you_don_t_have_if_you_don_t_want) - [You don't have to if you don't want to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
 * [2026-03-01, 19:53:48](https://lobste.rs/s/zuh3zm/qman_more_modern_man_page_viewer_for_our) - [qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman)
 * [2026-03-01, 19:22:52](https://lobste.rs/s/pf4r2b/aws_middle_east_central_zone_uae_down) - [AWS Middle East Central Zone (UAE) down, apparently struck in war](https://health.aws.amazon.com/health/status)
