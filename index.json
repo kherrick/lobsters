@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-02, 18:14:02",
+      "https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax"
+    ],
+    [
+      "Quantifying the Swiss marriage tax",
+      "https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 18:00:17",
+      "https://lobste.rs/s/drwadb/reverse_engineering_hello_world"
+    ],
+    [
+      "Reverse engineering “Hello World” in QuickBASIC 3.0",
+      "https://marnetto.net/2026/03/01/brun-hello-world"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 16:10:55",
       "https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single"
     ],
@@ -87,16 +107,6 @@
     [
       "Narwhal v0.5.0 – pub/sub messaging server, now powered by io_uring",
       "https://github.com/narwhal-io/narwhal/releases/tag/narwhal-0.5.0"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 11:44:12",
-      "https://lobste.rs/s/bp15oz/kovan_from_production_mvcc_systems_wait"
-    ],
-    [
-      "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
-      "https://vertexclique.com/blog/kovan-from-prod-to-mr/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why does C have the best file API?",
       "https://maurycyz.com/misc/c_files/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 09:39:40",
-      "https://lobste.rs/s/98geyn/64_bit_hurd_has_landed_guix"
-    ],
-    [
-      "The 64-bit Hurd has landed in Guix",
-      "https://guix.gnu.org/en/blog/2026/the-64-bit-hurd/"
     ]
   ]
 ]
