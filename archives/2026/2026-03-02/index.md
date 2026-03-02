@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 08:50:11](https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering) - [Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)](https://happel.ai/posts/covering-spaces-geometries-visualized/)
+* [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola's new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+* [2026-03-02, 08:12:13](https://lobste.rs/s/yyqowj/gram_zed_fork_without_all_ai) - [GRAM: A Zed fork without all the AI](https://gram.liten.app/)
 * [2026-03-02, 04:21:55](https://lobste.rs/s/xgyxgd/c64_copy_protection) - [C64 copy protection](https://www.commodoregames.net/copyprotection/)
 * [2026-03-02, 04:18:44](https://lobste.rs/s/dqb6hx/process_based_concurrency_why_beam_otp) - [Process-Based Concurrency: Why BEAM and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
 * [2026-03-02, 03:20:06](https://lobste.rs/s/mnvpnc/xuv_x11_user_daemon_automatically_run) - [xuv: X11 user daemon to automatically run commands triggered by user specified events](https://codeberg.org/NRK/xuv)

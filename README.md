@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-02, 08:50:11](https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering) - [Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)](https://happel.ai/posts/covering-spaces-geometries-visualized/)
+* [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola's new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+* [2026-03-02, 08:12:13](https://lobste.rs/s/yyqowj/gram_zed_fork_without_all_ai) - [GRAM: A Zed fork without all the AI](https://gram.liten.app/)
 * [2026-03-02, 04:21:55](https://lobste.rs/s/xgyxgd/c64_copy_protection) - [C64 copy protection](https://www.commodoregames.net/copyprotection/)
 * [2026-03-02, 04:18:44](https://lobste.rs/s/dqb6hx/process_based_concurrency_why_beam_otp) - [Process-Based Concurrency: Why BEAM and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
 * [2026-03-02, 03:20:06](https://lobste.rs/s/mnvpnc/xuv_x11_user_daemon_automatically_run) - [xuv: X11 user daemon to automatically run commands triggered by user specified events](https://codeberg.org/NRK/xuv)
@@ -22,9 +25,6 @@
 * [2026-03-01, 08:50:23](https://lobste.rs/s/xuv0vn/enshittificator) - [The Enshittificator](https://vimeo.com/1168468796)
 * [2026-03-01, 08:22:21](https://lobste.rs/s/xbavlu/simple_made_inevitable_economics) - [Simple Made Inevitable: The Economics of Language Choice in the LLM Era](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
 * [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
-* [2026-02-28, 18:45:35](https://lobste.rs/s/kch6lb/block_upgrade_tahoe_alerts) - [Block the “Upgrade to Tahoe” alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
-* [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
-* [2026-02-28, 08:47:27](https://lobste.rs/s/fm1eln/package_managers_la_carte_formal_model) - [Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602)
 
 ## [Archives](archives/index.md)
 
