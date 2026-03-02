@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-02, 19:39:54",
+      "https://lobste.rs/s/rkzdmk/you_can_t_always_fix_it"
+    ],
+    [
+      "You can't always fix it",
+      "https://ntietz.com/blog/you-cant-always-fix-it/"
+    ]
+  ],
+  [
+    [
+      "2026-03-02, 19:24:59",
+      "https://lobste.rs/s/rfjjwq/i_fuzzed_vibe_fixed_vibed_c_compiler"
+    ],
+    [
+      "I Fuzzed, and Vibe Fixed, the Vibed C Compiler",
+      "https://john.regehr.org/writing/claude_c_compiler.html"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 18:14:02",
       "https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-03-02, 17:38:23",
-      "https://lobste.rs/s/nnripc/generative_ai_policy_landscape_open"
+      "2026-03-02, 17:15:08",
+      "https://lobste.rs/s/umyumz/farewell_felix"
     ],
     [
-      "The Generative AI Policy Landscape in Open Source",
-      "https://redmonk.com/kholterhoff/2026/02/26/generative-ai-policy-landscape-in-open-source/"
+      "Farewell, Felix",
+      "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-02, 03:20:06",
-      "https://lobste.rs/s/mnvpnc/xuv_x11_user_daemon_automatically_run"
-    ],
-    [
-      "xuv: X11 user daemon to automatically run commands triggered by user specified events",
-      "https://codeberg.org/NRK/xuv"
-    ]
-  ],
-  [
-    [
       "2026-03-01, 19:53:48",
       "https://lobste.rs/s/zuh3zm/qman_more_modern_man_page_viewer_for_our"
     ],
@@ -237,16 +247,6 @@
     [
       "What even are Breeze, QtQuick, QtWidget, Union..?",
       "https://akselmo.dev/posts/what-are-breeze-widgets-quick-union/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 15:40:29",
-      "https://lobste.rs/s/39kel0/why_does_c_have_best_file_api"
-    ],
-    [
-      "Why does C have the best file API?",
-      "https://maurycyz.com/misc/c_files/"
     ]
   ]
 ]
