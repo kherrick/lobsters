@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-03-02, 11:44:12",
+      "https://lobste.rs/s/bp15oz/kovan_from_production_mvcc_systems_wait"
+    ],
+    [
+      "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
+      "https://vertexclique.com/blog/kovan-from-prod-to-mr/"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 11:21:20",
       "https://lobste.rs/s/rlof2z/libxml2_enterprise_edition_agpl_from"
     ],
@@ -207,16 +217,6 @@
     [
       "AWS Middle East Central Zone (UAE) down, apparently struck in war",
       "https://health.aws.amazon.com/health/status"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 19:19:08",
-      "https://lobste.rs/s/zwdukd/tsink_embedded_time_series_database_for"
-    ],
-    [
-      "tsink - Embedded Time-Series Database for Rust",
-      "https://saturnine.cc/tsink"
     ]
   ],
   [
