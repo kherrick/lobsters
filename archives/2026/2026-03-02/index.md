@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
+* [2026-03-02, 10:46:59](https://lobste.rs/s/uqpww1/building_quake_pc) - [Building a Quake PC](https://fabiensanglard.net/quake_pc/)
+* [2026-03-02, 10:41:45](https://lobste.rs/s/lroieg/sabela_reactive_haskell_notebook) - [Sabela: A Reactive Haskell Notebook](https://datahaskell.org/blog/2026/03/01/sabela-reactive-haskell-notebooks.html)
 * [2026-03-02, 09:24:21](https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 09:15:06](https://lobste.rs/s/dppelv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dppelv/what_are_you_doing_this_week)
 * [2026-03-02, 08:50:11](https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering) - [Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)](https://happel.ai/posts/covering-spaces-geometries-visualized/)

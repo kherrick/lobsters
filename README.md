@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-02, 10:46:59](https://lobste.rs/s/uqpww1/building_quake_pc) - [Building a Quake PC](https://fabiensanglard.net/quake_pc/)
+* [2026-03-02, 10:41:45](https://lobste.rs/s/lroieg/sabela_reactive_haskell_notebook) - [Sabela: A Reactive Haskell Notebook](https://datahaskell.org/blog/2026/03/01/sabela-reactive-haskell-notebooks.html)
 * [2026-03-02, 09:24:21](https://lobste.rs/s/esugjv/hardware_hotplug_events_on_linux_gory) - [Hardware hotplug events on Linux, the gory details](https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html)
 * [2026-03-02, 09:15:06](https://lobste.rs/s/dppelv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/dppelv/what_are_you_doing_this_week)
 * [2026-03-02, 08:50:11](https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering) - [Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)](https://happel.ai/posts/covering-spaces-geometries-visualized/)
@@ -9,7 +11,6 @@
 * [2026-03-02, 04:18:44](https://lobste.rs/s/dqb6hx/process_based_concurrency_why_beam_otp) - [Process-Based Concurrency: Why BEAM and OTP Keep Being Right](https://variantsystems.io/blog/beam-otp-process-concurrency)
 * [2026-03-02, 03:20:06](https://lobste.rs/s/mnvpnc/xuv_x11_user_daemon_automatically_run) - [xuv: X11 user daemon to automatically run commands triggered by user specified events](https://codeberg.org/NRK/xuv)
 * [2026-03-02, 01:57:21](https://lobste.rs/s/7vzrm3/espanso_open_source_cross_platform_text) - [Espanso - an open-source, cross-platform text expander](https://github.com/espanso/espanso)
-* [2026-03-02, 01:16:51](https://lobste.rs/s/3nuudi/explicit_resource_management_has_color) - [Explicit Resource Management Has a Color Problem](https://www.joshuaamaju.com/blog/the-pitfalls-of-explicit-resource-management)
 * [2026-03-01, 20:17:43](https://lobste.rs/s/o1vthu/you_don_t_have_if_you_don_t_want) - [You don't have to if you don't want to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
 * [2026-03-01, 19:53:48](https://lobste.rs/s/zuh3zm/qman_more_modern_man_page_viewer_for_our) - [qman: A more modern man page viewer for our terminals](https://github.com/plp13/qman)
 * [2026-03-01, 19:22:52](https://lobste.rs/s/pf4r2b/aws_middle_east_central_zone_uae_down) - [AWS Middle East Central Zone (UAE) down, apparently struck in war](https://health.aws.amazon.com/health/status)
@@ -17,7 +18,6 @@
 * [2026-03-01, 18:45:07](https://lobste.rs/s/furd6t/python_type_checker_comparison_empty) - [Python Type Checker Comparison: Empty Container Inference](https://pyrefly.org/blog/container-inference-comparison/)
 * [2026-03-01, 18:04:31](https://lobste.rs/s/bvuwss/what_even_are_breeze_qtquick_qtwidget) - [What even are Breeze, QtQuick, QtWidget, Union..?](https://akselmo.dev/posts/what-are-breeze-widgets-quick-union/)
 * [2026-03-01, 15:52:57](https://lobste.rs/s/6a5wiw/fooling_go_s_x_509_certificate) - [Fooling Go's X.509 Certificate Verification](https://danielmangum.com/posts/fooling-go-x509-certificate-verification/)
-* [2026-03-01, 15:48:10](https://lobste.rs/s/3tn917/agents_attacking_agents_ai_powered_bot) - [Agents attacking agents: AI-powered bot exploiting GitHub Actions](https://www.stepsecurity.io/blog/hackerbot-claw-github-actions-exploitation)
 * [2026-03-01, 15:40:29](https://lobste.rs/s/39kel0/why_does_c_have_best_file_api) - [Why does C have the best file API?](https://maurycyz.com/misc/c_files/)
 * [2026-03-01, 13:13:01](https://lobste.rs/s/6gcdzl/supercharge_rust_functions_with) - [Supercharge Rust functions with implicit arguments using CGP v0.7.0](https://contextgeneric.dev/blog/v0.7.0-release)
 * [2026-03-01, 12:56:37](https://lobste.rs/s/8ixvz2/real_cost_random_i_o) - [The real cost of random I/O](https://vondra.me/posts/the-real-cost-of-random-io/)
