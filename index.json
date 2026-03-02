@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-03-02, 08:50:11",
+      "https://lobste.rs/s/zxtpos/hacking_super_mario_64_using_covering"
+    ],
+    [
+      "Hacking Super Mario 64 using covering spaces (+ hyperbolic geometry)",
+      "https://happel.ai/posts/covering-spaces-geometries-visualized/"
+    ]
+  ],
+  [
+    [
       "2026-03-02, 08:16:47",
       "https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with"
     ],
@@ -87,16 +97,6 @@
     [
       "Explicit Resource Management Has a Color Problem",
       "https://www.joshuaamaju.com/blog/the-pitfalls-of-explicit-resource-management"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 00:30:31",
-      "https://lobste.rs/s/s4ha0g/mcp_firewall_better_policy_engine_for_cli"
-    ],
-    [
-      "mcp-firewall: A better policy-engine for CLI agents",
-      "https://github.com/dzervas/mcp-firewall"
     ]
   ],
   [
