@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-02, 03:20:06](https://lobste.rs/s/mnvpnc/xuv_x11_user_daemon_automatically_run) - [xuv: X11 user daemon to automatically run commands triggered by user specified events](https://codeberg.org/NRK/xuv)
+* [2026-03-02, 01:57:21](https://lobste.rs/s/7vzrm3/espanso_open_source_cross_platform_text) - [Espanso - an open-source, cross-platform text expander](https://github.com/espanso/espanso)
 * [2026-03-02, 01:16:51](https://lobste.rs/s/3nuudi/explicit_resource_management_has_color) - [Explicit Resource Management Has a Color Problem](https://www.joshuaamaju.com/blog/the-pitfalls-of-explicit-resource-management)
 * [2026-03-02, 00:30:31](https://lobste.rs/s/s4ha0g/mcp_firewall_better_policy_engine_for_cli) - [mcp-firewall: A better policy-engine for CLI agents](https://github.com/dzervas/mcp-firewall)
 * [2026-03-01, 20:17:43](https://lobste.rs/s/o1vthu/you_don_t_have_if_you_don_t_want) - [You don't have to if you don't want to](https://www.scottsmitelli.com/articles/you-dont-have-to/)
@@ -18,10 +20,8 @@
 * [2026-03-01, 08:50:23](https://lobste.rs/s/xuv0vn/enshittificator) - [The Enshittificator](https://vimeo.com/1168468796)
 * [2026-03-01, 08:22:21](https://lobste.rs/s/xbavlu/simple_made_inevitable_economics) - [Simple Made Inevitable: The Economics of Language Choice in the LLM Era](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
 * [2026-03-01, 07:08:49](https://lobste.rs/s/r9xqns/you_can_use_newline_characters_urls) - [You can use newline characters in URLs](https://lemire.me/blog/2026/02/28/you-can-use-newline-characters-in-urls/)
-* [2026-02-28, 21:27:55](https://lobste.rs/s/98pmg9/cash_issuing_terminals) - [Cash issuing terminals](https://computer.rip/2026-02-27-ibm-atm.html)
 * [2026-02-28, 18:45:35](https://lobste.rs/s/kch6lb/block_upgrade_tahoe_alerts) - [Block the “Upgrade to Tahoe” alerts](https://robservatory.com/block-the-upgrade-to-tahoe-alerts-and-system-settings-indicator/)
 * [2026-02-28, 16:32:24](https://lobste.rs/s/v5nyjz/prek_better_pre_commit) - [prek: a better `pre-commit`](https://github.com/j178/prek)
-* [2026-02-28, 15:37:41](https://lobste.rs/s/3fevyk/fast_servers_interesting_pattern) - [fast-servers: an interesting pattern](https://geocar.sdf1.org/fast-servers.html)
 * [2026-02-28, 15:22:34](https://lobste.rs/s/gpcwus/january_servo_preloads_better_forms) - [January in Servo: preloads, better forms, details styling, and more](https://servo.org/blog/2026/02/28/january-in-servo/)
 * [2026-02-28, 09:10:38](https://lobste.rs/s/tza0zh/yes) - [Yes, and](https://htmx.org/essays/yes-and/)
 * [2026-02-28, 08:47:27](https://lobste.rs/s/fm1eln/package_managers_la_carte_formal_model) - [Package Managers à la Carte: A Formal Model of Dependency Resolution](https://arxiv.org/abs/2602.18602)
