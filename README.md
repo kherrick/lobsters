@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-03, 12:05:06](https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for) - [Announcing npmx: a fast, modern browser for the npm registry](https://npmx.dev/blog/alpha-release)
 * [2026-03-03, 08:31:13](https://lobste.rs/s/ifhrnb/webhaptics_haptic_feedback_for_mobile) - [WebHaptics – Haptic feedback for the mobile web](https://haptics.lochie.me/)
 * [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
 * [2026-03-03, 02:19:54](https://lobste.rs/s/rygpdk/detecting_llm_generated_web_novels_using) - [Detecting LLM-Generated Web Novels Using \"Classical\" Machine Learning (AIGC Text Detection)](https://blog.lyc8503.net/en/post/llm-classifier/)
@@ -12,7 +13,6 @@
 * [2026-03-02, 19:39:54](https://lobste.rs/s/rkzdmk/you_can_t_always_fix_it) - [You can't always fix it](https://ntietz.com/blog/you-cant-always-fix-it/)
 * [2026-03-02, 19:24:59](https://lobste.rs/s/rfjjwq/i_fuzzed_vibe_fixed_vibed_c_compiler) - [I Fuzzed, and Vibe Fixed, the Vibed C Compiler](https://john.regehr.org/writing/claude_c_compiler.html)
 * [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
-* [2026-03-02, 18:00:17](https://lobste.rs/s/drwadb/reverse_engineering_hello_world) - [Reverse engineering “Hello World” in QuickBASIC 3.0](https://marnetto.net/2026/03/01/brun-hello-world)
 * [2026-03-02, 17:15:08](https://lobste.rs/s/umyumz/farewell_felix) - [Farewell, Felix](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
 * [2026-03-02, 16:10:55](https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
 * [2026-03-02, 15:27:13](https://lobste.rs/s/cyavky/vibecoding_challenge_2_five_feathers) - [Vibecoding Challenge 2: The Five Feathers (Spring 2026)](https://gist.github.com/MostAwesomeDude/ebb60b9bec53c4795f54606e944fccd7)
