@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-03, 21:53:54",
+      "https://lobste.rs/s/oe6l1z/interactive_intro_crdts"
+    ],
+    [
+      "An Interactive Intro to CRDTs",
+      "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 21:17:00",
       "https://lobste.rs/s/tahkfr/yj_nearbyglasses_attempting_detect"
     ],
@@ -27,16 +37,6 @@
     [
       "Don Knuth's \"Claude-like\" directed Hamiltonian cycles decompositions",
       "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 20:53:04",
-      "https://lobste.rs/s/aje9aj/log_messages_are_mostly_for_people"
-    ],
-    [
-      "Log messages are mostly for the people operating your software",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation"
     ]
   ],
   [
