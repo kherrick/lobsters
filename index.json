@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-03-03, 14:07:10",
+      "https://lobste.rs/s/wajvqx/type_systems_are_leaky_abstractions_case"
+    ],
+    [
+      "Type systems are leaky abstractions: the case of Map.take!/2",
+      "https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 14:03:44",
+      "https://lobste.rs/s/wsjqqf/embedding_tex_hyphenation_patterns_for"
+    ],
+    [
+      "Embedding TeX Hyphenation Patterns for 30 Languages in a 1.1 MB Rust Automaton (2022)",
+      "https://laurmaedje.github.io/posts/hypher/"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 13:40:42",
       "https://lobste.rs/s/valsxi/simple_screw_counter"
     ],
@@ -67,16 +87,6 @@
     [
       "I Put a Full JVM Inside a Browser Tab",
       "https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 02:19:54",
-      "https://lobste.rs/s/rygpdk/detecting_llm_generated_web_novels_using"
-    ],
-    [
-      "Detecting LLM-Generated Web Novels Using \"Classical\" Machine Learning (AIGC Text Detection)",
-      "https://blog.lyc8503.net/en/post/llm-classifier/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "libxml2 Enterprise Edition (AGPL, from the previous maintainer)",
       "https://codeberg.org/nwellnhof/libxml2-ee"
-    ]
-  ],
-  [
-    [
-      "2026-03-02, 10:46:59",
-      "https://lobste.rs/s/uqpww1/building_quake_pc"
-    ],
-    [
-      "Building a Quake PC",
-      "https://fabiensanglard.net/quake_pc/"
     ]
   ],
   [
