@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 15:58:52](https://lobste.rs/s/zv0pyh/when_ai_writes_world_s_software_who) - [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
+* [2026-03-03, 15:06:27](https://lobste.rs/s/boot5m/lilaq_advanced_data_visualization_typst) - [Lilaq: Advanced data visualization in Typst](https://lilaq.org/)
+* [2026-03-03, 14:46:43](https://lobste.rs/s/ymn7nc/introduction_data_centric_query) - [Introduction to Data-Centric Query Compilation](https://duckul.us/blog/data-centric-query-compilation)
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
 * [2026-03-03, 14:07:10](https://lobste.rs/s/wajvqx/type_systems_are_leaky_abstractions_case) - [Type systems are leaky abstractions: the case of Map.take!/2](https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take)
 * [2026-03-03, 14:03:44](https://lobste.rs/s/wsjqqf/embedding_tex_hyphenation_patterns_for) - [Embedding TeX Hyphenation Patterns for 30 Languages in a 1.1 MB Rust Automaton (2022)](https://laurmaedje.github.io/posts/hypher/)
