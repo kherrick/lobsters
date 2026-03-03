@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 20:34:58](https://lobste.rs/s/5cuaiv/anthropic_is_untrustworthy) - [Anthropic is untrustworthy](https://anthropic.ml/)
+* [2026-03-03, 20:00:27](https://lobste.rs/s/2gwqlh/rust_zero_cost_abstractions_vs_simd) - [Rust zero-cost abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost)
 * [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-03, 18:34:32](https://lobste.rs/s/bry484/deprecate_confusing_apis_like_os_path) - [Deprecate confusing APIs like “os.path.commonprefix()”](https://sethmlarson.dev/deprecate-confusing-apis-like-os-path-commonprefix)
 * [2026-03-03, 18:08:19](https://lobste.rs/s/3rt1s7/exploring_maturity_models_for_security) - [Exploring Maturity Models For Security](https://www.cloudsecuritypartners.com/blog/exploring-maturity-models)

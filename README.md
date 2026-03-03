@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-03, 20:34:58](https://lobste.rs/s/5cuaiv/anthropic_is_untrustworthy) - [Anthropic is untrustworthy](https://anthropic.ml/)
+* [2026-03-03, 20:00:27](https://lobste.rs/s/2gwqlh/rust_zero_cost_abstractions_vs_simd) - [Rust zero-cost abstractions vs. SIMD](https://turbopuffer.com/blog/zero-cost)
 * [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-03, 18:34:32](https://lobste.rs/s/bry484/deprecate_confusing_apis_like_os_path) - [Deprecate confusing APIs like “os.path.commonprefix()”](https://sethmlarson.dev/deprecate-confusing-apis-like-os-path-commonprefix)
-* [2026-03-03, 18:08:19](https://lobste.rs/s/3rt1s7/exploring_maturity_models_for_security) - [Exploring Maturity Models For Security](https://www.cloudsecuritypartners.com/blog/exploring-maturity-models)
 * [2026-03-03, 18:07:49](https://lobste.rs/s/uclhr1/hoot_0_8_0_released_scheme_wasm) - [Hoot 0.8.0 released! - Scheme in WASM](https://spritely.institute/news/hoot-0-8-0-released.html)
 * [2026-03-03, 16:08:22](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost) - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/)
 * [2026-03-03, 15:58:52](https://lobste.rs/s/zv0pyh/when_ai_writes_world_s_software_who) - [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
@@ -18,7 +19,6 @@
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
 * [2026-03-02, 20:35:20](https://lobste.rs/s/5fambh/plasma_bigscreen_10_foot_interface_for) - [Plasma Bigscreen - 10-foot interface for KDE plasma](https://plasma-bigscreen.org/)
-* [2026-03-02, 20:26:39](https://lobste.rs/s/1ozzrm/getopt_go_package_for_posix_gnu_style) - [getopt: Go package for POSIX/GNU-style command line parsing](https://pkg.go.dev/gitlab.com/natano/getopt)
 * [2026-03-02, 19:39:54](https://lobste.rs/s/rkzdmk/you_can_t_always_fix_it) - [You can't always fix it](https://ntietz.com/blog/you-cant-always-fix-it/)
 * [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
 * [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
