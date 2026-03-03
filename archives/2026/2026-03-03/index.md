@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
 * [2026-03-03, 12:05:06](https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for) - [Announcing npmx: a fast, modern browser for the npm registry](https://npmx.dev/blog/alpha-release)
+* [2026-03-03, 10:21:16](https://lobste.rs/s/8tjldu/dos_memory_management) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)
 * [2026-03-03, 08:31:13](https://lobste.rs/s/ifhrnb/webhaptics_haptic_feedback_for_mobile) - [WebHaptics – Haptic feedback for the mobile web](https://haptics.lochie.me/)
 * [2026-03-03, 05:22:29](https://lobste.rs/s/jqibwu/ublock_filter_hide_vibecoding_tag) - [uBlock filter to hide vibecoding tag](https://lobste.rs/s/jqibwu/ublock_filter_hide_vibecoding_tag)
 * [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
 * [2026-03-03, 02:19:54](https://lobste.rs/s/rygpdk/detecting_llm_generated_web_novels_using) - [Detecting LLM-Generated Web Novels Using \"Classical\" Machine Learning (AIGC Text Detection)](https://blog.lyc8503.net/en/post/llm-classifier/)
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
+* [2026-03-03, 01:36:11](https://lobste.rs/s/ele3bb/185_microsecond_type_hint) - [The 185-Microsecond Type Hint](https://blog.sturdystatistics.com/posts/type_hint/)
 * [2026-03-03, 01:15:18](https://lobste.rs/s/bkfg6b/pep_827_type_manipulation) - [PEP 827 – Type Manipulation](https://peps.python.org/pep-0827/)
