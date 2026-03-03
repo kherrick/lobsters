@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
+* [2026-03-03, 14:07:10](https://lobste.rs/s/wajvqx/type_systems_are_leaky_abstractions_case) - [Type systems are leaky abstractions: the case of Map.take!/2](https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take)
+* [2026-03-03, 14:03:44](https://lobste.rs/s/wsjqqf/embedding_tex_hyphenation_patterns_for) - [Embedding TeX Hyphenation Patterns for 30 Languages in a 1.1 MB Rust Automaton (2022)](https://laurmaedje.github.io/posts/hypher/)
 * [2026-03-03, 13:40:42](https://lobste.rs/s/valsxi/simple_screw_counter) - [Simple Screw Counter](https://mitxela.com/projects/screwcounter)
 * [2026-03-03, 13:07:38](https://lobste.rs/s/ooupsr/arm_s_cortex_x925_reaching_desktop) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 * [2026-03-03, 12:05:06](https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for) - [Announcing npmx: a fast, modern browser for the npm registry](https://npmx.dev/blog/alpha-release)
 * [2026-03-03, 10:21:16](https://lobste.rs/s/8tjldu/dos_memory_management) - [DOS Memory Management](https://www.os2museum.com/wp/dos-memory-management/)
 * [2026-03-03, 08:31:13](https://lobste.rs/s/ifhrnb/webhaptics_haptic_feedback_for_mobile) - [WebHaptics – Haptic feedback for the mobile web](https://haptics.lochie.me/)
 * [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
-* [2026-03-03, 02:19:54](https://lobste.rs/s/rygpdk/detecting_llm_generated_web_novels_using) - [Detecting LLM-Generated Web Novels Using \"Classical\" Machine Learning (AIGC Text Detection)](https://blog.lyc8503.net/en/post/llm-classifier/)
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
 * [2026-03-03, 01:15:18](https://lobste.rs/s/bkfg6b/pep_827_type_manipulation) - [PEP 827 – Type Manipulation](https://peps.python.org/pep-0827/)
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
@@ -22,7 +23,6 @@
 * [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
 * [2026-03-02, 15:15:15](https://lobste.rs/s/eyfjod/2025_state_rust_survey_results) - [2025 State of Rust Survey Results](https://blog.rust-lang.org/2026/03/02/2025-State-Of-Rust-Survey-results/)
 * [2026-03-02, 11:21:20](https://lobste.rs/s/rlof2z/libxml2_enterprise_edition_agpl_from) - [libxml2 Enterprise Edition (AGPL, from the previous maintainer)](https://codeberg.org/nwellnhof/libxml2-ee)
-* [2026-03-02, 10:46:59](https://lobste.rs/s/uqpww1/building_quake_pc) - [Building a Quake PC](https://fabiensanglard.net/quake_pc/)
 * [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola's new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 * [2026-03-02, 08:12:13](https://lobste.rs/s/yyqowj/gram_zed_fork_without_all_ai) - [GRAM: A Zed fork without all the AI](https://gram.liten.app/)
 

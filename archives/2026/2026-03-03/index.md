@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
+* [2026-03-03, 14:07:10](https://lobste.rs/s/wajvqx/type_systems_are_leaky_abstractions_case) - [Type systems are leaky abstractions: the case of Map.take!/2](https://dashbit.co/blog/type-systems-are-leaky-abstractions-map-take)
+* [2026-03-03, 14:03:44](https://lobste.rs/s/wsjqqf/embedding_tex_hyphenation_patterns_for) - [Embedding TeX Hyphenation Patterns for 30 Languages in a 1.1 MB Rust Automaton (2022)](https://laurmaedje.github.io/posts/hypher/)
 * [2026-03-03, 13:40:42](https://lobste.rs/s/valsxi/simple_screw_counter) - [Simple Screw Counter](https://mitxela.com/projects/screwcounter)
 * [2026-03-03, 13:07:38](https://lobste.rs/s/ooupsr/arm_s_cortex_x925_reaching_desktop) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 * [2026-03-03, 12:05:06](https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for) - [Announcing npmx: a fast, modern browser for the npm registry](https://npmx.dev/blog/alpha-release)
