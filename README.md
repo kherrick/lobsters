@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-03, 22:31:14](https://lobste.rs/s/g6moku/four_months_ruby_central_moving_ruby) - [Four months of Ruby Central moving Ruby backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/)
 * [2026-03-03, 21:17:00](https://lobste.rs/s/tahkfr/yj_nearbyglasses_attempting_detect) - [yj_nearbyglasses: attempting to detect smart glasses nearby and warn you](https://github.com/yjeanrenaud/yj_nearbyglasses)
 * [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/don_knuth_s_claude_like_directed) - [Don Knuth's \"Claude-like\" directed Hamiltonian cycles decompositions](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 20:53:04](https://lobste.rs/s/aje9aj/log_messages_are_mostly_for_people) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
@@ -19,7 +20,6 @@
 * [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
-* [2026-03-02, 20:35:20](https://lobste.rs/s/5fambh/plasma_bigscreen_10_foot_interface_for) - [Plasma Bigscreen - 10-foot interface for KDE plasma](https://plasma-bigscreen.org/)
 * [2026-03-02, 19:39:54](https://lobste.rs/s/rkzdmk/you_can_t_always_fix_it) - [You can't always fix it](https://ntietz.com/blog/you-cant-always-fix-it/)
 * [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
 * [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
