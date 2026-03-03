@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+* [2026-03-03, 18:34:32](https://lobste.rs/s/bry484/deprecate_confusing_apis_like_os_path) - [Deprecate confusing APIs like “os.path.commonprefix()”](https://sethmlarson.dev/deprecate-confusing-apis-like-os-path-commonprefix)
 * [2026-03-03, 18:08:19](https://lobste.rs/s/3rt1s7/exploring_maturity_models_for_security) - [Exploring Maturity Models For Security](https://www.cloudsecuritypartners.com/blog/exploring-maturity-models)
 * [2026-03-03, 18:07:49](https://lobste.rs/s/uclhr1/hoot_0_8_0_released_scheme_wasm) - [Hoot 0.8.0 released! - Scheme in WASM](https://spritely.institute/news/hoot-0-8-0-released.html)
 * [2026-03-03, 16:08:22](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost) - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/)
