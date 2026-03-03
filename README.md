@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
 * [2026-03-03, 01:15:18](https://lobste.rs/s/bkfg6b/pep_827_type_manipulation) - [PEP 827 – Type Manipulation](https://peps.python.org/pep-0827/)
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
@@ -12,7 +13,6 @@
 * [2026-03-02, 18:00:17](https://lobste.rs/s/drwadb/reverse_engineering_hello_world) - [Reverse engineering “Hello World” in QuickBASIC 3.0](https://marnetto.net/2026/03/01/brun-hello-world)
 * [2026-03-02, 17:15:08](https://lobste.rs/s/umyumz/farewell_felix) - [Farewell, Felix](https://blog.recurity-labs.com/2026-03-02/Farewell_Felix)
 * [2026-03-02, 16:10:55](https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single) - [Packaging a Gleam app into a single executable](https://www.dhzdhd.dev/blog/gleam-executable)
-* [2026-03-02, 16:05:58](https://lobste.rs/s/xncpfs/lil_fun_langs_guts) - [Lil' Fun Langs' Guts](https://taylor.town/scrapscript-001)
 * [2026-03-02, 15:27:13](https://lobste.rs/s/cyavky/vibecoding_challenge_2_five_feathers) - [Vibecoding Challenge 2: The Five Feathers (Spring 2026)](https://gist.github.com/MostAwesomeDude/ebb60b9bec53c4795f54606e944fccd7)
 * [2026-03-02, 15:24:03](https://lobste.rs/s/txfaym/gram_1_0_released) - [Gram 1.0 released](https://gram.liten.app/posts/first-release/)
 * [2026-03-02, 15:15:15](https://lobste.rs/s/eyfjod/2025_state_rust_survey_results) - [2025 State of Rust Survey Results](https://blog.rust-lang.org/2026/03/02/2025-State-Of-Rust-Survey-results/)
