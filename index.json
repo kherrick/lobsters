@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-03, 14:09:45",
+      "https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute"
+    ],
+    [
+      "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
+      "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 13:40:42",
+      "https://lobste.rs/s/valsxi/simple_screw_counter"
+    ],
+    [
+      "Simple Screw Counter",
+      "https://mitxela.com/projects/screwcounter"
+    ]
+  ],
+  [
+    [
+      "2026-03-03, 13:07:38",
+      "https://lobste.rs/s/ooupsr/arm_s_cortex_x925_reaching_desktop"
+    ],
+    [
+      "Arm's Cortex X925: Reaching Desktop Performance",
+      "https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 12:05:06",
       "https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for"
     ],
@@ -57,16 +87,6 @@
     [
       "Evolving Typst",
       "https://laurmaedje.github.io/posts/evolving-typst/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 01:36:11",
-      "https://lobste.rs/s/ele3bb/185_microsecond_type_hint"
-    ],
-    [
-      "The 185-Microsecond Type Hint",
-      "https://blog.sturdystatistics.com/posts/type_hint/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-03-02, 17:15:08",
-      "https://lobste.rs/s/umyumz/farewell_felix"
-    ],
-    [
-      "Farewell, Felix",
-      "https://blog.recurity-labs.com/2026-03-02/Farewell_Felix"
-    ]
-  ],
-  [
-    [
       "2026-03-02, 16:10:55",
       "https://lobste.rs/s/ba6cnk/packaging_gleam_app_into_single"
     ],
@@ -237,16 +247,6 @@
     [
       "GRAM: A Zed fork without all the AI",
       "https://gram.liten.app/"
-    ]
-  ],
-  [
-    [
-      "2026-03-01, 19:22:52",
-      "https://lobste.rs/s/pf4r2b/aws_middle_east_central_zone_uae_down"
-    ],
-    [
-      "AWS Middle East Central Zone (UAE) down, apparently struck in war",
-      "https://health.aws.amazon.com/health/status"
     ]
   ]
 ]
