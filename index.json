@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-03, 21:17:00",
+      "https://lobste.rs/s/tahkfr/yj_nearbyglasses_attempting_detect"
+    ],
+    [
+      "yj_nearbyglasses: attempting to detect smart glasses nearby and warn you",
+      "https://github.com/yjeanrenaud/yj_nearbyglasses"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 20:58:01",
       "https://lobste.rs/s/teexox/don_knuth_s_claude_like_directed"
     ],
@@ -107,16 +117,6 @@
     [
       "US Supreme Court declines to hear dispute over copyrights for AI-generated material",
       "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 14:03:44",
-      "https://lobste.rs/s/wsjqqf/embedding_tex_hyphenation_patterns_for"
-    ],
-    [
-      "Embedding TeX Hyphenation Patterns for 30 Languages in a 1.1 MB Rust Automaton (2022)",
-      "https://laurmaedje.github.io/posts/hypher/"
     ]
   ],
   [
