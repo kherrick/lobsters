@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-02](index.md)
 
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
+* [2026-03-02, 20:35:20](https://lobste.rs/s/5fambh/plasma_bigscreen_10_foot_interface_for) - [Plasma Bigscreen - 10-foot interface for KDE plasma](https://plasma-bigscreen.org/)
 * [2026-03-02, 20:29:39](https://lobste.rs/s/kblbsx/state_haskell_2025_results) - [State of Haskell 2025 results](https://discourse.haskell.org/t/state-of-haskell-2025-results/13755)
 * [2026-03-02, 20:26:39](https://lobste.rs/s/1ozzrm/getopt_go_package_for_posix_gnu_style) - [getopt: Go package for POSIX/GNU-style command line parsing](https://pkg.go.dev/gitlab.com/natano/getopt)
 * [2026-03-02, 19:42:02](https://lobste.rs/s/gmhq26/free_ip_geolocation_database) - [Free IP Geolocation Database](https://ip66.dev/)
