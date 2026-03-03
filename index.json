@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-03, 16:08:22",
+      "https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost"
+    ],
+    [
+      "Claude is an Electron App because we’ve lost native",
+      "https://tonsky.me/blog/fall-of-native/"
+    ]
+  ],
+  [
+    [
       "2026-03-03, 15:58:52",
       "https://lobste.rs/s/zv0pyh/when_ai_writes_world_s_software_who"
     ],
@@ -117,16 +127,6 @@
     [
       "Evolving Typst",
       "https://laurmaedje.github.io/posts/evolving-typst/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 01:15:18",
-      "https://lobste.rs/s/bkfg6b/pep_827_type_manipulation"
-    ],
-    [
-      "PEP 827 – Type Manipulation",
-      "https://peps.python.org/pep-0827/"
     ]
   ],
   [
