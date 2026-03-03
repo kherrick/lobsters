@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-03, 21:17:00](https://lobste.rs/s/tahkfr/yj_nearbyglasses_attempting_detect) - [yj_nearbyglasses: attempting to detect smart glasses nearby and warn you](https://github.com/yjeanrenaud/yj_nearbyglasses)
 * [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/don_knuth_s_claude_like_directed) - [Don Knuth's \"Claude-like\" directed Hamiltonian cycles decompositions](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 20:53:04](https://lobste.rs/s/aje9aj/log_messages_are_mostly_for_people) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
 * [2026-03-03, 20:34:58](https://lobste.rs/s/5cuaiv/anthropic_is_untrustworthy) - [Anthropic is untrustworthy](https://anthropic.ml/)
@@ -11,7 +12,6 @@
 * [2026-03-03, 15:58:52](https://lobste.rs/s/zv0pyh/when_ai_writes_world_s_software_who) - [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 * [2026-03-03, 15:06:27](https://lobste.rs/s/boot5m/lilaq_advanced_data_visualization_typst) - [Lilaq: Advanced data visualization in Typst](https://lilaq.org/)
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
-* [2026-03-03, 14:03:44](https://lobste.rs/s/wsjqqf/embedding_tex_hyphenation_patterns_for) - [Embedding TeX Hyphenation Patterns for 30 Languages in a 1.1 MB Rust Automaton (2022)](https://laurmaedje.github.io/posts/hypher/)
 * [2026-03-03, 13:40:42](https://lobste.rs/s/valsxi/simple_screw_counter) - [Simple Screw Counter](https://mitxela.com/projects/screwcounter)
 * [2026-03-03, 13:07:38](https://lobste.rs/s/ooupsr/arm_s_cortex_x925_reaching_desktop) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
 * [2026-03-03, 12:05:06](https://lobste.rs/s/6h04uj/announcing_npmx_fast_modern_browser_for) - [Announcing npmx: a fast, modern browser for the npm registry](https://npmx.dev/blog/alpha-release)

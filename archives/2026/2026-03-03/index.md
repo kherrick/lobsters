@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-03](index.md)
 
+* [2026-03-03, 21:17:00](https://lobste.rs/s/tahkfr/yj_nearbyglasses_attempting_detect) - [yj_nearbyglasses: attempting to detect smart glasses nearby and warn you](https://github.com/yjeanrenaud/yj_nearbyglasses)
 * [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/don_knuth_s_claude_like_directed) - [Don Knuth's \"Claude-like\" directed Hamiltonian cycles decompositions](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 20:53:04](https://lobste.rs/s/aje9aj/log_messages_are_mostly_for_people) - [Log messages are mostly for the people operating your software](https://utcc.utoronto.ca/~cks/space/blog/programming/LogMessagesAreForOperation)
 * [2026-03-03, 20:34:58](https://lobste.rs/s/5cuaiv/anthropic_is_untrustworthy) - [Anthropic is untrustworthy](https://anthropic.ml/)
