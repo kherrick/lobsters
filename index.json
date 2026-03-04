@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-03-04, 18:00:35",
+      "https://lobste.rs/s/dzcrf7/faster_c_software_with_dynamic_feature"
+    ],
+    [
+      "Faster C software with Dynamic Feature Detection",
+      "https://gist.github.com/jjl/d998164191af59a594500687a679b98d"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 16:48:36",
       "https://lobste.rs/s/nbsppn/au_revoir_eleventy"
     ],
@@ -227,16 +237,6 @@
     [
       "Claude is an Electron App because we’ve lost native",
       "https://tonsky.me/blog/fall-of-native/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 15:58:52",
-      "https://lobste.rs/s/zv0pyh/when_ai_writes_world_s_software_who"
-    ],
-    [
-      "When AI Writes the World's Software, Who Verifies It?",
-      "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
     ]
   ],
   [
