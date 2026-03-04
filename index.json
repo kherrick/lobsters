@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-04, 19:49:16",
+      "https://lobste.rs/s/dmdttx/jj_v0_39_0_released"
+    ],
+    [
+      "jj v0.39.0 released",
+      "https://github.com/jj-vcs/jj/releases/tag/v0.39.0"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 18:57:07",
       "https://lobste.rs/s/ii2iaw/singlefile_web_extension_for_saving"
     ],
@@ -91,12 +101,12 @@
   ],
   [
     [
-      "2026-03-04, 13:32:10",
-      "https://lobste.rs/s/wdsdho/rational_analysis_effects_sycophantic"
+      "2026-03-04, 13:44:51",
+      "https://lobste.rs/s/vkyalo/what_is_code_review_for"
     ],
     [
-      "A Rational Analysis of the Effects of Sycophantic AI",
-      "https://arxiv.org/html/2602.14270v1"
+      "What Is Code Review For?",
+      "https://blog.glyph.im/2026/03/what-is-code-review-for.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "An Interactive Intro to CRDTs",
       "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 21:17:00",
-      "https://lobste.rs/s/tahkfr/yj_nearbyglasses_attempting_detect"
-    ],
-    [
-      "yj_nearbyglasses: attempting to detect smart glasses nearby and warn you",
-      "https://github.com/yjeanrenaud/yj_nearbyglasses"
     ]
   ],
   [
