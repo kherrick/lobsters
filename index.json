@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-04, 18:57:07",
+      "https://lobste.rs/s/ii2iaw/singlefile_web_extension_for_saving"
+    ],
+    [
+      "SingleFile: Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+      "https://github.com/gildas-lormeau/SingleFile"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 18:26:47",
+      "https://lobste.rs/s/lw8rsa/pocket_id_easy_passkey_authentication"
+    ],
+    [
+      "Pocket ID: Easy Passkey Authentication",
+      "https://runtimeterror.dev/pocket-id-easy-passkey-authentication/"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 16:48:36",
       "https://lobste.rs/s/nbsppn/au_revoir_eleventy"
     ],
@@ -57,16 +77,6 @@
     [
       "Based base64 (now with more steganography!)",
       "https://blog.jordan.matelsky.com/bb64/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 13:44:51",
-      "https://lobste.rs/s/vkyalo/what_is_code_review_for"
-    ],
-    [
-      "What Is Code Review For?",
-      "https://blog.glyph.im/2026/03/what-is-code-review-for.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Nobody Gets Promoted for Simplicity",
       "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 18:07:49",
-      "https://lobste.rs/s/uclhr1/hoot_0_8_0_released_scheme_wasm"
-    ],
-    [
-      "Hoot 0.8.0 released! - Scheme in WASM",
-      "https://spritely.institute/news/hoot-0-8-0-released.html"
     ]
   ],
   [
