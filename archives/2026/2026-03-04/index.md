@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 16:38:36](https://lobste.rs/s/dzh1vd/advanced_terraform_performance) - [Advanced Terraform performance optimization](https://www.bejarano.io/terraform-performance/)
+* [2026-03-04, 16:37:47](https://lobste.rs/s/a1f0rc/matthew_explains) - [Matthew Explains](https://matthewexplains.com)
+* [2026-03-04, 16:34:33](https://lobste.rs/s/3df9bm/smalltalk_s_browser_unbeatable_yet_not) - [Smalltalk’s Browser: Unbeatable, Yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
 * [2026-03-04, 14:25:15](https://lobste.rs/s/46iep3/re_how_we_built_world_s_fastest_regex) - [RE#: how we built the world's fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
 * [2026-03-04, 14:11:43](https://lobste.rs/s/tmnv1c/based_base64_now_with_more_steganography) - [Based base64 (now with more steganography!)](https://blog.jordan.matelsky.com/bb64/)
+* [2026-03-04, 13:44:51](https://lobste.rs/s/vkyalo/what_is_code_review_for) - [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html)
 * [2026-03-04, 13:32:10](https://lobste.rs/s/wdsdho/rational_analysis_effects_sycophantic) - [A Rational Analysis of the Effects of Sycophantic AI](https://arxiv.org/html/2602.14270v1)
 * [2026-03-04, 11:58:25](https://lobste.rs/s/gozgx2/slopful_things) - [Slopful Things](https://kyefox.com/slopful-things/)
 * [2026-03-04, 11:32:11](https://lobste.rs/s/rqvdts/agentic_engineering_patterns) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
