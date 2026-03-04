@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 19:49:16](https://lobste.rs/s/dmdttx/jj_v0_39_0_released) - [jj v0.39.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.39.0)
 * [2026-03-04, 18:57:07](https://lobste.rs/s/ii2iaw/singlefile_web_extension_for_saving) - [SingleFile: Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [2026-03-04, 18:26:47](https://lobste.rs/s/lw8rsa/pocket_id_easy_passkey_authentication) - [Pocket ID: Easy Passkey Authentication](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)
 * [2026-03-04, 18:00:35](https://lobste.rs/s/dzcrf7/faster_c_software_with_dynamic_feature) - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
