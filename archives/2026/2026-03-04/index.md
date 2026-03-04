@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 11:58:25](https://lobste.rs/s/gozgx2/slopful_things) - [Slopful Things](https://kyefox.com/slopful-things/)
 * [2026-03-04, 11:11:02](https://lobste.rs/s/dc3ysd/package_managers_need_cool_down) - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
 * [2026-03-04, 11:00:05](https://lobste.rs/s/oh8r3r/object_oriented_programming_themes) - [Object-Oriented Programming: Themes and Variations](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/download/508/444)
 * [2026-03-04, 10:15:36](https://lobste.rs/s/oi2emm/pg_jitter_better_jit_for_postgres) - [pg_jitter: Better JIT for Postgres](https://github.com/vladich/pg_jitter)
