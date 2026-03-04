@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-04, 14:25:15](https://lobste.rs/s/46iep3/re_how_we_built_world_s_fastest_regex) - [RE#: how we built the world's fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
+* [2026-03-04, 14:11:43](https://lobste.rs/s/tmnv1c/based_base64_now_with_more_steganography) - [Based base64 (now with more steganography!)](https://blog.jordan.matelsky.com/bb64/)
 * [2026-03-04, 11:58:25](https://lobste.rs/s/gozgx2/slopful_things) - [Slopful Things](https://kyefox.com/slopful-things/)
 * [2026-03-04, 11:32:11](https://lobste.rs/s/rqvdts/agentic_engineering_patterns) - [Agentic Engineering Patterns](https://simonwillison.net/guides/agentic-engineering-patterns/)
 * [2026-03-04, 11:11:02](https://lobste.rs/s/dc3ysd/package_managers_need_cool_down) - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
@@ -23,8 +25,6 @@
 * [2026-03-03, 15:58:52](https://lobste.rs/s/zv0pyh/when_ai_writes_world_s_software_who) - [When AI Writes the World's Software, Who Verifies It?](https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html)
 * [2026-03-03, 15:06:27](https://lobste.rs/s/boot5m/lilaq_advanced_data_visualization_typst) - [Lilaq: Advanced data visualization in Typst](https://lilaq.org/)
 * [2026-03-03, 14:09:45](https://lobste.rs/s/of77cp/us_supreme_court_declines_hear_dispute) - [US Supreme Court declines to hear dispute over copyrights for AI-generated material](https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/)
-* [2026-03-03, 13:07:38](https://lobste.rs/s/ooupsr/arm_s_cortex_x925_reaching_desktop) - [Arm's Cortex X925: Reaching Desktop Performance](https://chipsandcheese.com/p/arms-cortex-x925-reaching-desktop)
-* [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
 
 ## [Archives](archives/index.md)
 
