@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
+* [2026-03-04, 16:48:36](https://lobste.rs/s/nbsppn/au_revoir_eleventy) - [Au revoir, Eleventy](https://hamatti.org/posts/au-revoir-eleventy/)
 * [2026-03-04, 16:38:36](https://lobste.rs/s/dzh1vd/advanced_terraform_performance) - [Advanced Terraform performance optimization](https://www.bejarano.io/terraform-performance/)
 * [2026-03-04, 16:37:47](https://lobste.rs/s/a1f0rc/matthew_explains) - [Matthew Explains](https://matthewexplains.com)
 * [2026-03-04, 16:34:33](https://lobste.rs/s/3df9bm/smalltalk_s_browser_unbeatable_yet_not) - [Smalltalk’s Browser: Unbeatable, Yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
+* [2026-03-04, 16:08:39](https://lobste.rs/s/brkdxd/what_alternatives_exist_for_anonymous) - [What alternatives exist for Anonymous Github?](https://lobste.rs/s/brkdxd/what_alternatives_exist_for_anonymous)
 * [2026-03-04, 14:25:15](https://lobste.rs/s/46iep3/re_how_we_built_world_s_fastest_regex) - [RE#: how we built the world's fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
 * [2026-03-04, 14:11:43](https://lobste.rs/s/tmnv1c/based_base64_now_with_more_steganography) - [Based base64 (now with more steganography!)](https://blog.jordan.matelsky.com/bb64/)
 * [2026-03-04, 13:44:51](https://lobste.rs/s/vkyalo/what_is_code_review_for) - [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html)
