@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-04, 19:48:05",
+      "https://lobste.rs/s/bxbytk/accepting_user_supplied_code_is_mostly"
+    ],
+    [
+      "Accepting user-supplied code is mostly fine",
+      "https://dimden.dev/blog/?id=15-webtiles-its-fine-to-accept-user-supplied-code-actually"
+    ]
+  ],
+  [
+    [
       "2026-03-04, 18:57:07",
       "https://lobste.rs/s/ii2iaw/singlefile_web_extension_for_saving"
     ],
@@ -27,6 +37,16 @@
     [
       "Pocket ID: Easy Passkey Authentication",
       "https://runtimeterror.dev/pocket-id-easy-passkey-authentication/"
+    ]
+  ],
+  [
+    [
+      "2026-03-04, 18:02:37",
+      "https://lobste.rs/s/fyyk6o/project_reject_ai_agents_via_agents_md"
+    ],
+    [
+      "A project to reject AI agents via AGENTS.md",
+      "https://codeberg.org/rossabaker/no-agents.md"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Based base64 (now with more steganography!)",
       "https://blog.jordan.matelsky.com/bb64/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 13:44:51",
-      "https://lobste.rs/s/vkyalo/what_is_code_review_for"
-    ],
-    [
-      "What Is Code Review For?",
-      "https://blog.glyph.im/2026/03/what-is-code-review-for.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Four months of Ruby Central moving Ruby backward",
       "https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 21:53:54",
-      "https://lobste.rs/s/oe6l1z/interactive_intro_crdts"
-    ],
-    [
-      "An Interactive Intro to CRDTs",
-      "https://jakelazaroff.com/words/an-interactive-intro-to-crdts/"
     ]
   ],
   [
