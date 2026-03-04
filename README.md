@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-04, 08:24:51](https://lobste.rs/s/ya5b5h/meta_add_guix_tag) - [Meta: Add `Guix` tag](https://lobste.rs/s/ya5b5h/meta_add_guix_tag)
 * [2026-03-04, 04:19:56](https://lobste.rs/s/ftnuxf/coruna_mysterious_journey_powerful_ios) - [Coruna: The Mysterious Journey of a Powerful iOS Exploit Kit](https://cloud.google.com/blog/topics/threat-intelligence/coruna-powerful-ios-exploit-kit)
 * [2026-03-04, 03:49:04](https://lobste.rs/s/isuqoa/never_snooze_future) - [Never snooze a future](https://jacko.io/snooze.html)
 * [2026-03-04, 03:32:02](https://lobste.rs/s/hz6vhv/california_s_digital_age_assurance_act) - [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
@@ -23,7 +24,6 @@
 * [2026-03-03, 04:49:32](https://lobste.rs/s/0pyshw/i_put_full_jvm_inside_browser_tab) - [I Put a Full JVM Inside a Browser Tab](https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser)
 * [2026-03-03, 01:38:24](https://lobste.rs/s/og7ihk/evolving_typst) - [Evolving Typst](https://laurmaedje.github.io/posts/evolving-typst/)
 * [2026-03-02, 20:58:48](https://lobste.rs/s/3cq649/two_kinds_error) - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/)
-* [2026-03-02, 18:14:02](https://lobste.rs/s/bvkanl/quantifying_swiss_marriage_tax) - [Quantifying the Swiss marriage tax](https://gendx.dev/blog/2026/03/02/swiss-marriage-tax.html)
 * [2026-03-02, 08:16:47](https://lobste.rs/s/awwhqz/motorola_s_new_partnership_with) - [Motorola's new partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 
 ## [Archives](archives/index.md)
