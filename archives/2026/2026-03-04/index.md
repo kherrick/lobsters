@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-03-04](index.md)
 
 * [2026-03-04, 19:49:16](https://lobste.rs/s/dmdttx/jj_v0_39_0_released) - [jj v0.39.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.39.0)
+* [2026-03-04, 19:48:05](https://lobste.rs/s/bxbytk/accepting_user_supplied_code_is_mostly) - [Accepting user-supplied code is mostly fine](https://dimden.dev/blog/?id=15-webtiles-its-fine-to-accept-user-supplied-code-actually)
 * [2026-03-04, 18:57:07](https://lobste.rs/s/ii2iaw/singlefile_web_extension_for_saving) - [SingleFile: Web Extension for saving a faithful copy of a complete web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [2026-03-04, 18:26:47](https://lobste.rs/s/lw8rsa/pocket_id_easy_passkey_authentication) - [Pocket ID: Easy Passkey Authentication](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)
+* [2026-03-04, 18:02:37](https://lobste.rs/s/fyyk6o/project_reject_ai_agents_via_agents_md) - [A project to reject AI agents via AGENTS.md](https://codeberg.org/rossabaker/no-agents.md)
 * [2026-03-04, 18:00:35](https://lobste.rs/s/dzcrf7/faster_c_software_with_dynamic_feature) - [Faster C software with Dynamic Feature Detection](https://gist.github.com/jjl/d998164191af59a594500687a679b98d)
 * [2026-03-04, 16:48:36](https://lobste.rs/s/nbsppn/au_revoir_eleventy) - [Au revoir, Eleventy](https://hamatti.org/posts/au-revoir-eleventy/)
 * [2026-03-04, 16:38:36](https://lobste.rs/s/dzh1vd/advanced_terraform_performance) - [Advanced Terraform performance optimization](https://www.bejarano.io/terraform-performance/)
