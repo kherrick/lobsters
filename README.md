@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-04, 23:10:13](https://lobste.rs/s/dghhq8/you_bought_zuck_s_ray_bans_now_someone) - [You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 * [2026-03-04, 19:50:44](https://lobste.rs/s/qh6y97/who_writes_bugs_deeper_look_at_125_000) - [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
 * [2026-03-04, 19:49:16](https://lobste.rs/s/dmdttx/jj_v0_39_0_released) - [jj v0.39.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.39.0)
 * [2026-03-04, 19:48:05](https://lobste.rs/s/bxbytk/accepting_user_supplied_code_is_mostly) - [Accepting user-supplied code is mostly fine](https://dimden.dev/blog/?id=15-webtiles-its-fine-to-accept-user-supplied-code-actually)
@@ -11,7 +12,6 @@
 * [2026-03-04, 16:34:33](https://lobste.rs/s/3df9bm/smalltalk_s_browser_unbeatable_yet_not) - [Smalltalk’s Browser: Unbeatable, Yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
 * [2026-03-04, 16:08:39](https://lobste.rs/s/brkdxd/what_alternatives_exist_for_anonymous) - [What alternatives exist for Anonymous Github?](https://lobste.rs/s/brkdxd/what_alternatives_exist_for_anonymous)
 * [2026-03-04, 14:25:15](https://lobste.rs/s/46iep3/re_how_we_built_world_s_fastest_regex) - [RE#: how we built the world's fastest regex engine in F#](https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/)
-* [2026-03-04, 13:44:51](https://lobste.rs/s/vkyalo/what_is_code_review_for) - [What Is Code Review For?](https://blog.glyph.im/2026/03/what-is-code-review-for.html)
 * [2026-03-04, 11:11:02](https://lobste.rs/s/dc3ysd/package_managers_need_cool_down) - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
 * [2026-03-04, 10:15:36](https://lobste.rs/s/oi2emm/pg_jitter_better_jit_for_postgres) - [pg_jitter: Better JIT for Postgres](https://github.com/vladich/pg_jitter)
 * [2026-03-04, 08:54:08](https://lobste.rs/s/2ng9uk/rtl_wtf_read_web_like_right_left_readers_do) - [RTL: WTF: Read the web like Right-to-Left readers do](https://rtl.wtf/)
