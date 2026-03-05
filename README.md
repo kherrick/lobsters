@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-05, 05:07:03](https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite) - [Relicensing with AI-assisted rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 * [2026-03-05, 04:06:11](https://lobste.rs/s/5uwt0u/how_does_ai_change_software_engineering) - [How does AI change Software Engineering?](https://dlants.me/ai-se.html)
 * [2026-03-05, 01:57:21](https://lobste.rs/s/kjb4gb/just_use_postgres) - [Just Use Postgres](http://amattn.com/p/just_use_postgres.html)
 * [2026-03-05, 01:00:31](https://lobste.rs/s/xhoyg7/grand_vision_for_rust) - [A grand vision for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
@@ -21,7 +22,6 @@
 * [2026-03-04, 08:54:08](https://lobste.rs/s/2ng9uk/rtl_wtf_read_web_like_right_left_readers_do) - [RTL: WTF: Read the web like Right-to-Left readers do](https://rtl.wtf/)
 * [2026-03-04, 03:49:04](https://lobste.rs/s/isuqoa/never_snooze_future) - [Never snooze a future](https://jacko.io/snooze.html)
 * [2026-03-04, 03:32:02](https://lobste.rs/s/hz6vhv/california_s_digital_age_assurance_act) - [California's Digital Age Assurance Act, and FOSS](https://runxiyu.org/comp/ab1043/)
-* [2026-03-03, 22:31:14](https://lobste.rs/s/g6moku/four_months_ruby_central_moving_ruby) - [Four months of Ruby Central moving Ruby backward](https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/)
 * [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/claude_s_cycles) - [Claude's Cycles](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-03, 16:08:22](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost) - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/)
