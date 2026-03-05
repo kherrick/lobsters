@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 13:53:57](https://lobste.rs/s/9pcxko/espflash_go_cli_library_for_flashing) - [espflash: Go CLI and library for flashing firmware to Espressif ESP8266 and ESP32-family microcontrollers](https://github.com/tinygo-org/espflash)
 * [2026-03-05, 13:25:12](https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 * [2026-03-05, 11:50:24](https://lobste.rs/s/0fuvw8/illustrated_tls_1_2_connection) - [The Illustrated TLS 1.2 Connection](https://tls12.xargs.org/)
 * [2026-03-05, 11:44:01](https://lobste.rs/s/qepjb9/microslop_microsoft_s_ai_slop_manifesto) - [MICROSLOP — Microsoft's AI Slop Manifesto](https://microslop.com/)
