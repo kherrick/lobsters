@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 19:05:31](https://lobste.rs/s/pfu01n/tracing_discord_s_elixir_systems_without) - [Tracing Discord's Elixir Systems (Without Melting Everything)](https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything)
+* [2026-03-05, 18:31:12](https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off) - [telemetry helps. you still get to turn it off](https://ritter.vg/blog-telemetry.html)
 * [2026-03-05, 18:17:39](https://lobste.rs/s/6zdvb7/new_major_release_devenv) - [New major release of devenv](https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/)
 * [2026-03-05, 17:45:15](https://lobste.rs/s/gvo1uo/building_database_on_s3) - [Building a Database on S3](http://muratbuffalo.blogspot.com/2026/03/building-database-on-s3.html)
 * [2026-03-05, 16:12:34](https://lobste.rs/s/vwqn0j/kill_cats_with_javascript_rts_game) - [Kill cats with JavaScript (RTS game)](https://yare.io)
 * [2026-03-05, 15:50:53](https://lobste.rs/s/3dtgmr/ai_ship_theseus) - [AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/)
+* [2026-03-05, 15:22:25](https://lobste.rs/s/3ukiwv/yet_another_strange_job_scheduler_bug) - [Yet another strange job scheduler bug](https://iafisher.com/notes/2026/03/scheduler-bug)
 * [2026-03-05, 14:38:04](https://lobste.rs/s/uqzytb/compound_engineering_make_every_unit) - [Compound Engineering: Make Every Unit of Work Compound Into the Next](https://every.to/guides/compound-engineering)
 * [2026-03-05, 13:53:57](https://lobste.rs/s/9pcxko/espflash_go_cli_library_for_flashing) - [espflash: Go CLI and library for flashing firmware to Espressif ESP8266 and ESP32-family microcontrollers](https://github.com/tinygo-org/espflash)
 * [2026-03-05, 13:25:12](https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
