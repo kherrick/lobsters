@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-05, 21:38:29](https://lobste.rs/s/iqfdk8/ladybird_browser_update_february_2026) - [Ladybird browser update (February 2026)](https://www.youtube.com/watch?v=Y3tteHSrJlY)
 * [2026-03-05, 21:25:03](https://lobste.rs/s/t429kz/async_programming_is_just_inject_time) - [Async Programming Is Just @Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
 * [2026-03-05, 21:06:13](https://lobste.rs/s/i7hyhy/ascend_run_python_functions_on) - [ascend : run Python functions on Kubernetes](https://ocramz.github.io/posts/2026-03-05-ascend.html)
 * [2026-03-05, 20:28:22](https://lobste.rs/s/lrgfpo/crosspoint_reader_firmware_for_xteink_x4) - [crosspoint-reader: Firmware for the Xteink X4 e-paper display reader](https://github.com/crosspoint-reader/crosspoint-reader)
@@ -16,7 +17,6 @@
 * [2026-03-05, 11:50:24](https://lobste.rs/s/0fuvw8/illustrated_tls_1_2_connection) - [The Illustrated TLS 1.2 Connection](https://tls12.xargs.org/)
 * [2026-03-05, 11:44:01](https://lobste.rs/s/qepjb9/microslop_microsoft_s_ai_slop_manifesto) - [MICROSLOP — Microsoft's AI Slop Manifesto](https://microslop.com/)
 * [2026-03-05, 09:36:20](https://lobste.rs/s/xew97m/openbsd_on_sgi_rollercoaster_story) - [OpenBSD on SGI: a rollercoaster story](http://miod.online.fr/software/openbsd/stories/sgiall.html)
-* [2026-03-05, 07:22:17](https://lobste.rs/s/u2elyz/styx_document_language) - [Styx document language](https://styx.bearcove.eu/)
 * [2026-03-05, 05:07:03](https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite) - [Relicensing with AI-assisted rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 * [2026-03-05, 04:24:28](https://lobste.rs/s/ma7lsz/your_ai_slop_bores_me) - [your ai slop bores me](https://www.youraislopbores.me/)
 * [2026-03-05, 01:57:21](https://lobste.rs/s/kjb4gb/just_use_postgres) - [Just Use Postgres](http://amattn.com/p/just_use_postgres.html)
