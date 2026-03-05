@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 15:50:53](https://lobste.rs/s/3dtgmr/ai_ship_theseus) - [AI And The Ship of Theseus](https://lucumr.pocoo.org/2026/3/5/theseus/)
+* [2026-03-05, 14:38:04](https://lobste.rs/s/uqzytb/compound_engineering_make_every_unit) - [Compound Engineering: Make Every Unit of Work Compound Into the Next](https://every.to/guides/compound-engineering)
 * [2026-03-05, 13:53:57](https://lobste.rs/s/9pcxko/espflash_go_cli_library_for_flashing) - [espflash: Go CLI and library for flashing firmware to Espressif ESP8266 and ESP32-family microcontrollers](https://github.com/tinygo-org/espflash)
 * [2026-03-05, 13:25:12](https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 * [2026-03-05, 11:50:24](https://lobste.rs/s/0fuvw8/illustrated_tls_1_2_connection) - [The Illustrated TLS 1.2 Connection](https://tls12.xargs.org/)
