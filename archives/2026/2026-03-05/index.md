@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 11:44:01](https://lobste.rs/s/qepjb9/microslop_microsoft_s_ai_slop_manifesto) - [MICROSLOP — Microsoft's AI Slop Manifesto](https://microslop.com/)
 * [2026-03-05, 09:36:20](https://lobste.rs/s/xew97m/openbsd_on_sgi_rollercoaster_story) - [OpenBSD on SGI: a rollercoaster story](http://miod.online.fr/software/openbsd/stories/sgiall.html)
 * [2026-03-05, 07:22:17](https://lobste.rs/s/u2elyz/styx_document_language) - [Styx document language](https://styx.bearcove.eu/)
 * [2026-03-05, 05:07:03](https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite) - [Relicensing with AI-assisted rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)

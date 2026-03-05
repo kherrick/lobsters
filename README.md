@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-05, 11:44:01](https://lobste.rs/s/qepjb9/microslop_microsoft_s_ai_slop_manifesto) - [MICROSLOP — Microsoft's AI Slop Manifesto](https://microslop.com/)
 * [2026-03-05, 09:36:20](https://lobste.rs/s/xew97m/openbsd_on_sgi_rollercoaster_story) - [OpenBSD on SGI: a rollercoaster story](http://miod.online.fr/software/openbsd/stories/sgiall.html)
 * [2026-03-05, 07:22:17](https://lobste.rs/s/u2elyz/styx_document_language) - [Styx document language](https://styx.bearcove.eu/)
 * [2026-03-05, 05:07:03](https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite) - [Relicensing with AI-assisted rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
@@ -22,7 +23,6 @@
 * [2026-03-04, 11:11:02](https://lobste.rs/s/dc3ysd/package_managers_need_cool_down) - [Package Managers Need to Cool Down](https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html)
 * [2026-03-04, 08:54:08](https://lobste.rs/s/2ng9uk/rtl_wtf_read_web_like_right_left_readers_do) - [RTL: WTF: Read the web like Right-to-Left readers do](https://rtl.wtf/)
 * [2026-03-04, 03:49:04](https://lobste.rs/s/isuqoa/never_snooze_future) - [Never snooze a future](https://jacko.io/snooze.html)
-* [2026-03-03, 20:58:01](https://lobste.rs/s/teexox/claude_s_cycles) - [Claude's Cycles](https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf)
 * [2026-03-03, 19:33:30](https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity) - [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
 * [2026-03-03, 16:08:22](https://lobste.rs/s/r8kjli/claude_is_electron_app_because_we_ve_lost) - [Claude is an Electron App because we’ve lost native](https://tonsky.me/blog/fall-of-native/)
 
