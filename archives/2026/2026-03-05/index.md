@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 19:56:38](https://lobste.rs/s/jrxj8b/gitgo_go_implementation_git_functions) - [gitgo: A Go implementation of Git functions (2016)](https://github.com/ChimeraCoder/gitgo)
 * [2026-03-05, 19:05:31](https://lobste.rs/s/pfu01n/tracing_discord_s_elixir_systems_without) - [Tracing Discord's Elixir Systems (Without Melting Everything)](https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything)
 * [2026-03-05, 18:31:12](https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off) - [telemetry helps. you still get to turn it off](https://ritter.vg/blog-telemetry.html)
 * [2026-03-05, 18:17:39](https://lobste.rs/s/6zdvb7/new_major_release_devenv) - [New major release of devenv](https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/)
