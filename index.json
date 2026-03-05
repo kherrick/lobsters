@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-05, 19:05:31",
+      "https://lobste.rs/s/pfu01n/tracing_discord_s_elixir_systems_without"
+    ],
+    [
+      "Tracing Discord's Elixir Systems (Without Melting Everything)",
+      "https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 18:31:12",
+      "https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off"
+    ],
+    [
+      "telemetry helps. you still get to turn it off",
+      "https://ritter.vg/blog-telemetry.html"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 18:17:39",
       "https://lobste.rs/s/6zdvb7/new_major_release_devenv"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2026-03-05, 14:38:04",
-      "https://lobste.rs/s/uqzytb/compound_engineering_make_every_unit"
+      "2026-03-05, 15:22:25",
+      "https://lobste.rs/s/3ukiwv/yet_another_strange_job_scheduler_bug"
     ],
     [
-      "Compound Engineering: Make Every Unit of Work Compound Into the Next",
-      "https://every.to/guides/compound-engineering"
+      "Yet another strange job scheduler bug",
+      "https://iafisher.com/notes/2026/03/scheduler-bug"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-04, 19:48:05",
-      "https://lobste.rs/s/bxbytk/accepting_user_supplied_code_is_mostly"
-    ],
-    [
-      "Accepting user-supplied code is mostly fine",
-      "https://dimden.dev/blog/?id=15-webtiles-its-fine-to-accept-user-supplied-code-actually"
-    ]
-  ],
-  [
-    [
       "2026-03-04, 18:26:47",
       "https://lobste.rs/s/lw8rsa/pocket_id_easy_passkey_authentication"
     ],
@@ -237,16 +247,6 @@
     [
       "RE#: how we built the world's fastest regex engine in F#",
       "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
-    ]
-  ],
-  [
-    [
-      "2026-03-03, 19:33:30",
-      "https://lobste.rs/s/tznewb/nobody_gets_promoted_for_simplicity"
-    ],
-    [
-      "Nobody Gets Promoted for Simplicity",
-      "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
     ]
   ]
 ]
