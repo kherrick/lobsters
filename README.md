@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-05, 21:06:13](https://lobste.rs/s/i7hyhy/ascend_run_python_functions_on) - [ascend : run Python functions on Kubernetes](https://ocramz.github.io/posts/2026-03-05-ascend.html)
+* [2026-03-05, 20:26:51](https://lobste.rs/s/efkl8m/github_issue_title_compromised_4_000) - [A GitHub Issue Title Compromised 4,000 Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [2026-03-05, 19:56:38](https://lobste.rs/s/jrxj8b/gitgo_go_implementation_git_functions) - [gitgo: A Go implementation of Git functions (2016)](https://github.com/ChimeraCoder/gitgo)
 * [2026-03-05, 19:29:42](https://lobste.rs/s/zonhzr/message_passing_is_shared_mutable_state) - [Message Passing Is Shared Mutable State](https://causality.blog/essays/message-passing-is-shared-mutable-state/)
 * [2026-03-05, 19:21:47](https://lobste.rs/s/i9akff/announcing_rust_1_94_0) - [Announcing Rust 1.94.0](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/)
@@ -22,9 +24,7 @@
 * [2026-03-04, 23:10:13](https://lobste.rs/s/dghhq8/you_bought_zuck_s_ray_bans_now_someone) - [You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 * [2026-03-04, 19:50:44](https://lobste.rs/s/qh6y97/who_writes_bugs_deeper_look_at_125_000) - [Who Writes the Bugs? A Deeper Look at 125,000 Kernel Vulnerabilities](https://pebblebed.com/blog/kernel-bugs-part2)
 * [2026-03-04, 19:49:16](https://lobste.rs/s/dmdttx/jj_v0_39_0_released) - [jj v0.39.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.39.0)
-* [2026-03-04, 18:26:47](https://lobste.rs/s/lw8rsa/pocket_id_easy_passkey_authentication) - [Pocket ID: Easy Passkey Authentication](https://runtimeterror.dev/pocket-id-easy-passkey-authentication/)
 * [2026-03-04, 16:48:36](https://lobste.rs/s/nbsppn/au_revoir_eleventy) - [Au revoir, Eleventy](https://hamatti.org/posts/au-revoir-eleventy/)
-* [2026-03-04, 16:34:33](https://lobste.rs/s/3df9bm/smalltalk_s_browser_unbeatable_yet_not) - [Smalltalk’s Browser: Unbeatable, Yet Not Enough](https://blog.lorenzano.eu/smalltalks-browser-unbeatable-yet-not-enough/)
 
 ## [Archives](archives/index.md)
 

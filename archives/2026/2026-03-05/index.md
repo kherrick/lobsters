@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 21:06:13](https://lobste.rs/s/i7hyhy/ascend_run_python_functions_on) - [ascend : run Python functions on Kubernetes](https://ocramz.github.io/posts/2026-03-05-ascend.html)
+* [2026-03-05, 20:26:51](https://lobste.rs/s/efkl8m/github_issue_title_compromised_4_000) - [A GitHub Issue Title Compromised 4,000 Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [2026-03-05, 19:56:38](https://lobste.rs/s/jrxj8b/gitgo_go_implementation_git_functions) - [gitgo: A Go implementation of Git functions (2016)](https://github.com/ChimeraCoder/gitgo)
 * [2026-03-05, 19:29:42](https://lobste.rs/s/zonhzr/message_passing_is_shared_mutable_state) - [Message Passing Is Shared Mutable State](https://causality.blog/essays/message-passing-is-shared-mutable-state/)
 * [2026-03-05, 19:21:47](https://lobste.rs/s/i9akff/announcing_rust_1_94_0) - [Announcing Rust 1.94.0](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/)
