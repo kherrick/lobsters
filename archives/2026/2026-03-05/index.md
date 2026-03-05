@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-05](index.md)
 
+* [2026-03-05, 21:25:03](https://lobste.rs/s/t429kz/async_programming_is_just_inject_time) - [Async Programming Is Just @Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
 * [2026-03-05, 21:06:13](https://lobste.rs/s/i7hyhy/ascend_run_python_functions_on) - [ascend : run Python functions on Kubernetes](https://ocramz.github.io/posts/2026-03-05-ascend.html)
 * [2026-03-05, 20:28:22](https://lobste.rs/s/lrgfpo/crosspoint_reader_firmware_for_xteink_x4) - [crosspoint-reader: Firmware for the Xteink X4 e-paper display reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [2026-03-05, 20:26:51](https://lobste.rs/s/efkl8m/github_issue_title_compromised_4_000) - [A GitHub Issue Title Compromised 4,000 Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
