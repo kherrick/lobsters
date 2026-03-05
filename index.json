@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-05, 09:36:20",
+      "https://lobste.rs/s/xew97m/openbsd_on_sgi_rollercoaster_story"
+    ],
+    [
+      "OpenBSD on SGI: a rollercoaster story",
+      "http://miod.online.fr/software/openbsd/stories/sgiall.html"
+    ]
+  ],
+  [
+    [
       "2026-03-05, 07:22:17",
       "https://lobste.rs/s/u2elyz/styx_document_language"
     ],
@@ -147,16 +157,6 @@
     [
       "Au revoir, Eleventy",
       "https://hamatti.org/posts/au-revoir-eleventy/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 16:38:36",
-      "https://lobste.rs/s/dzh1vd/advanced_terraform_performance"
-    ],
-    [
-      "Advanced Terraform performance optimization",
-      "https://www.bejarano.io/terraform-performance/"
     ]
   ],
   [
