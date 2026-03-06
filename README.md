@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-06, 03:55:47](https://lobste.rs/s/ssnawm/howard_abrams_literate_programming_with) - [Howard Abrams' Literate Programming with Org Mode](https://www.youtube.com/watch?v=OUuz9-CtCwY)
 * [2026-03-06, 03:26:24](https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle) - [Play the New York Times Connections puzzle with DuckDB](https://github.com/tomjakubowski/connections.duckdb)
 * [2026-03-06, 00:35:45](https://lobste.rs/s/fhhg1v/how_install_start_using_lineageos_on_your) - [How to Install and Start Using LineageOS on your Phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
 * [2026-03-05, 21:38:29](https://lobste.rs/s/iqfdk8/ladybird_browser_update_february_2026) - [Ladybird browser update (February 2026)](https://www.youtube.com/watch?v=Y3tteHSrJlY)
@@ -24,7 +25,6 @@
 * [2026-03-04, 23:28:48](https://lobste.rs/s/1rh6f3/introducing_wgsl_rs) - [Introducing wgsl-rs](https://renderling.xyz/articles/introducing-wgsl-rs.html)
 * [2026-03-04, 23:10:13](https://lobste.rs/s/dghhq8/you_bought_zuck_s_ray_bans_now_someone) - [You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 * [2026-03-04, 19:49:16](https://lobste.rs/s/dmdttx/jj_v0_39_0_released) - [jj v0.39.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.39.0)
-* [2026-03-04, 16:48:36](https://lobste.rs/s/nbsppn/au_revoir_eleventy) - [Au revoir, Eleventy](https://hamatti.org/posts/au-revoir-eleventy/)
 
 ## [Archives](archives/index.md)
 
