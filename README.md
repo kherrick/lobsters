@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-06, 07:52:00](https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released) - [OpenWrt 25.12.0 Released](https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228)
 * [2026-03-06, 07:45:11](https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy) - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/)
 * [2026-03-06, 06:40:47](https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun) - [Fixing a major evaluation order footgun in Rye 0.2](https://ryelang.org/blog/posts/rye-0.2-whats-new/)
 * [2026-03-06, 06:33:49](https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
@@ -7,7 +8,6 @@
 * [2026-03-06, 02:53:13](https://lobste.rs/s/zi8gx5/rustc_php_rust_compiler_with_ownership) - [rustc-php: A Rust compiler with ownership checking, written in PHP](https://github.com/mrconter1/rustc-php)
 * [2026-03-06, 00:35:45](https://lobste.rs/s/fhhg1v/how_install_start_using_lineageos_on_your) - [How to Install and Start Using LineageOS on your Phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
 * [2026-03-05, 21:38:29](https://lobste.rs/s/iqfdk8/ladybird_browser_update_february_2026) - [Ladybird browser update (February 2026)](https://www.youtube.com/watch?v=Y3tteHSrJlY)
-* [2026-03-05, 21:25:03](https://lobste.rs/s/t429kz/async_programming_is_just_inject_time) - [Async Programming Is Just @Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
 * [2026-03-05, 20:28:22](https://lobste.rs/s/lrgfpo/crosspoint_reader_firmware_for_xteink_x4) - [crosspoint-reader: Firmware for the Xteink X4 e-paper display reader](https://github.com/crosspoint-reader/crosspoint-reader)
 * [2026-03-05, 20:26:51](https://lobste.rs/s/efkl8m/github_issue_title_compromised_4_000) - [A GitHub Issue Title Compromised 4,000 Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [2026-03-05, 19:29:42](https://lobste.rs/s/zonhzr/message_passing_is_shared_mutable_state) - [Message Passing Is Shared Mutable State](https://causality.blog/essays/message-passing-is-shared-mutable-state/)
