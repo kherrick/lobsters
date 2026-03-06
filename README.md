@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-06, 18:19:48](https://lobste.rs/s/uztaai/why_go_can_t_try) - [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
 * [2026-03-06, 14:00:32](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend)
 * [2026-03-06, 13:21:41](https://lobste.rs/s/b5c83w/how_i_audit_legacy_rails_codebase_first) - [How I Audit a Legacy Rails Codebase in the First Week](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/)
 * [2026-03-06, 11:38:35](https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red) - [Hardening Firefox with Anthropic’s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
@@ -11,7 +12,6 @@
 * [2026-03-06, 09:24:40](https://lobste.rs/s/vtrqf1/elfconv_linux_apps_high_performance_wasm) - [elfconv: Linux Apps to High-Performance Wasm Binary Translator (2025)](https://medium.com/nttlabs/some-performance-improvements-in-the-binary-translator-that-converts-linux-applications-c6b26945cf39)
 * [2026-03-06, 07:52:00](https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released) - [OpenWrt 25.12.0 Released](https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228)
 * [2026-03-06, 07:45:11](https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy) - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/)
-* [2026-03-06, 06:40:47](https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun) - [Fixing a major evaluation order footgun in Rye 0.2](https://ryelang.org/blog/posts/rye-0.2-whats-new/)
 * [2026-03-06, 06:33:49](https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
 * [2026-03-06, 03:26:24](https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle) - [Play the New York Times Connections puzzle with DuckDB](https://github.com/tomjakubowski/connections.duckdb)
 * [2026-03-06, 02:53:13](https://lobste.rs/s/zi8gx5/rustc_php_rust_compiler_with_ownership) - [rustc-php: A Rust compiler with ownership checking, written in PHP](https://github.com/mrconter1/rustc-php)
