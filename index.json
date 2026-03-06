@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-03-06, 09:24:40",
+      "https://lobste.rs/s/vtrqf1/elfconv_linux_apps_high_performance_wasm"
+    ],
+    [
+      "elfconv: Linux Apps to High-Performance Wasm Binary Translator (2025)",
+      "https://medium.com/nttlabs/some-performance-improvements-in-the-binary-translator-that-converts-linux-applications-c6b26945cf39"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 07:52:00",
       "https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released"
     ],
@@ -87,16 +97,6 @@
     [
       "Ladybird browser update (February 2026)",
       "https://www.youtube.com/watch?v=Y3tteHSrJlY"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 20:28:22",
-      "https://lobste.rs/s/lrgfpo/crosspoint_reader_firmware_for_xteink_x4"
-    ],
-    [
-      "crosspoint-reader: Firmware for the Xteink X4 e-paper display reader",
-      "https://github.com/crosspoint-reader/crosspoint-reader"
     ]
   ],
   [
