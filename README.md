@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-06, 03:26:24](https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle) - [Play the New York Times Connections puzzle with DuckDB](https://github.com/tomjakubowski/connections.duckdb)
 * [2026-03-06, 00:35:45](https://lobste.rs/s/fhhg1v/how_install_start_using_lineageos_on_your) - [How to Install and Start Using LineageOS on your Phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
 * [2026-03-05, 21:38:29](https://lobste.rs/s/iqfdk8/ladybird_browser_update_february_2026) - [Ladybird browser update (February 2026)](https://www.youtube.com/watch?v=Y3tteHSrJlY)
 * [2026-03-05, 21:25:03](https://lobste.rs/s/t429kz/async_programming_is_just_inject_time) - [Async Programming Is Just @Inject Time](https://willhbr.net/2026/03/02/async-inject-and-effects/)
@@ -11,7 +12,6 @@
 * [2026-03-05, 18:31:12](https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off) - [telemetry helps. you still get to turn it off](https://ritter.vg/blog-telemetry.html)
 * [2026-03-05, 18:17:39](https://lobste.rs/s/6zdvb7/new_major_release_devenv) - [New major release of devenv](https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/)
 * [2026-03-05, 17:45:15](https://lobste.rs/s/gvo1uo/building_database_on_s3) - [Building a Database on S3](http://muratbuffalo.blogspot.com/2026/03/building-database-on-s3.html)
-* [2026-03-05, 16:12:34](https://lobste.rs/s/vwqn0j/kill_cats_with_javascript_rts_game) - [Kill cats with JavaScript (RTS game)](https://yare.io)
 * [2026-03-05, 13:53:57](https://lobste.rs/s/9pcxko/espflash_go_cli_library_for_flashing) - [espflash: Go CLI and library for flashing firmware to Espressif ESP8266 and ESP32-family microcontrollers](https://github.com/tinygo-org/espflash)
 * [2026-03-05, 13:25:12](https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 * [2026-03-05, 11:50:24](https://lobste.rs/s/0fuvw8/illustrated_tls_1_2_connection) - [The Illustrated TLS 1.2 Connection](https://tls12.xargs.org/)
