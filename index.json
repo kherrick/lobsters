@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 11:36:23",
+      "https://lobste.rs/s/kxlv27/clinejection_compromising_cline_s"
+    ],
+    [
+      "Clinejection — Compromising Cline’s Production Releases just by Prompting an Issue Triager",
+      "https://simonwillison.net/2026/Mar/6/clinejection/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 10:24:42",
       "https://lobste.rs/s/tx3f5n/ambiguity_c"
     ],
@@ -147,16 +157,6 @@
     [
       "New major release of devenv",
       "https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 17:45:15",
-      "https://lobste.rs/s/gvo1uo/building_database_on_s3"
-    ],
-    [
-      "Building a Database on S3",
-      "http://muratbuffalo.blogspot.com/2026/03/building-database-on-s3.html"
     ]
   ],
   [
