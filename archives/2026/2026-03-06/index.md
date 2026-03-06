@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 06:40:47](https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun) - [Fixing a major evaluation order footgun in Rye 0.2](https://ryelang.org/blog/posts/rye-0.2-whats-new/)
+* [2026-03-06, 06:33:49](https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
 * [2026-03-06, 03:55:47](https://lobste.rs/s/ssnawm/howard_abrams_literate_programming_with) - [Howard Abrams' Literate Programming with Org Mode](https://www.youtube.com/watch?v=OUuz9-CtCwY)
 * [2026-03-06, 03:26:24](https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle) - [Play the New York Times Connections puzzle with DuckDB](https://github.com/tomjakubowski/connections.duckdb)
+* [2026-03-06, 02:53:13](https://lobste.rs/s/zi8gx5/rustc_php_rust_compiler_with_ownership) - [rustc-php: A Rust compiler with ownership checking, written in PHP](https://github.com/mrconter1/rustc-php)
 * [2026-03-06, 00:35:45](https://lobste.rs/s/fhhg1v/how_install_start_using_lineageos_on_your) - [How to Install and Start Using LineageOS on your Phone](https://lockywolf.net/2026-02-19_How-to-install-and-start-using-LineageOS-on-your-phone.d/index.html)
