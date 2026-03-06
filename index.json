@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-06, 22:29:55",
+      "https://lobste.rs/s/cyvbof/fortify_your_app_essential_strategies"
+    ],
+    [
+      "Fortify your app: Essential strategies to strengthen security | Meet with Apple",
+      "https://www.youtube.com/watch?v=UZeSyodAszc"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 22:00:52",
+      "https://lobste.rs/s/m5fd0c/mycelium_framework"
+    ],
+    [
+      "Mycelium Framework",
+      "https://mycelium-clj.github.io/docs/guestbook.html"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 21:36:26",
       "https://lobste.rs/s/tqsgwm/how_irc_bot_spawned_world_s_most_prolific"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-05, 19:29:42",
-      "https://lobste.rs/s/zonhzr/message_passing_is_shared_mutable_state"
-    ],
-    [
-      "Message Passing Is Shared Mutable State",
-      "https://causality.blog/essays/message-passing-is-shared-mutable-state/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 19:21:47",
       "https://lobste.rs/s/i9akff/announcing_rust_1_94_0"
     ],
@@ -237,16 +247,6 @@
     [
       "Relicensing with AI-assisted rewrite",
       "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 01:57:21",
-      "https://lobste.rs/s/kjb4gb/just_use_postgres"
-    ],
-    [
-      "Just Use Postgres",
-      "http://amattn.com/p/just_use_postgres.html"
     ]
   ]
 ]
