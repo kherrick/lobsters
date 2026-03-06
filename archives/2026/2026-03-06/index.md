@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
 * [2026-03-06, 18:19:48](https://lobste.rs/s/uztaai/why_go_can_t_try) - [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
 * [2026-03-06, 14:00:32](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend)

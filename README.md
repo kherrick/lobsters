@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
 * [2026-03-06, 18:19:48](https://lobste.rs/s/uztaai/why_go_can_t_try) - [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
 * [2026-03-06, 14:00:32](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend)
@@ -10,7 +11,6 @@
 * [2026-03-06, 10:19:42](https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox) - [Mozilla is working on a big Firefox redesign, here is what it looks like](https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/)
 * [2026-03-06, 10:14:35](https://lobste.rs/s/msjuyz/eupl_european_union_public_license) - [EUPL: European Union Public License](https://eupl.eu/)
 * [2026-03-06, 09:40:08](https://lobste.rs/s/ewojng/xkcd_dependency_p5_js) - [XKCD dependency in p5.js](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
-* [2026-03-06, 09:24:40](https://lobste.rs/s/vtrqf1/elfconv_linux_apps_high_performance_wasm) - [elfconv: Linux Apps to High-Performance Wasm Binary Translator (2025)](https://medium.com/nttlabs/some-performance-improvements-in-the-binary-translator-that-converts-linux-applications-c6b26945cf39)
 * [2026-03-06, 07:52:00](https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released) - [OpenWrt 25.12.0 Released](https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228)
 * [2026-03-06, 07:45:11](https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy) - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/)
 * [2026-03-06, 06:33:49](https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
