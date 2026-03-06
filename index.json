@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2026-03-06, 22:00:52",
-      "https://lobste.rs/s/m5fd0c/mycelium_framework"
-    ],
-    [
-      "Mycelium Framework",
-      "https://mycelium-clj.github.io/docs/guestbook.html"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 21:36:26",
-      "https://lobste.rs/s/tqsgwm/how_irc_bot_spawned_world_s_most_prolific"
+      "https://lobste.rs/s/tqsgwm/how_irc_bot_inspired_creation_curl"
     ],
     [
-      "How an IRC bot spawned the world’s most prolific software",
+      "How an IRC bot inspired the creation of cURL",
       "https://www.youtube.com/watch?v=ohzzGy5K9Dk"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "A GitHub Issue Title Compromised 4,000 Developer Machines",
       "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another"
+    ]
+  ],
+  [
+    [
+      "2026-03-05, 19:29:42",
+      "https://lobste.rs/s/zonhzr/message_passing_is_shared_mutable_state"
+    ],
+    [
+      "Message Passing Is Shared Mutable State",
+      "https://causality.blog/essays/message-passing-is-shared-mutable-state/"
     ]
   ],
   [
