@@ -2,6 +2,7 @@
 
 * [2026-03-06, 11:38:35](https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red) - [Hardening Firefox with Anthropic’s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
 * [2026-03-06, 11:36:23](https://lobste.rs/s/kxlv27/clinejection_compromising_cline_s) - [Clinejection — Compromising Cline’s Production Releases just by Prompting an Issue Triager](https://simonwillison.net/2026/Mar/6/clinejection/)
+* [2026-03-06, 10:27:20](https://lobste.rs/s/bausem/ucode_javascript_like_language_with) - [ucode: JavaScript-like language with optional templating](https://github.com/jow-/ucode#about)
 * [2026-03-06, 10:24:42](https://lobste.rs/s/tx3f5n/ambiguity_c) - [Ambiguity in C](https://longtran2904.substack.com/p/ambiguity-in-c)
 * [2026-03-06, 10:19:42](https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox) - [Mozilla is working on a big Firefox redesign, here is what it looks like](https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/)
 * [2026-03-06, 10:14:35](https://lobste.rs/s/msjuyz/eupl_european_union_public_license) - [EUPL: European Union Public License](https://eupl.eu/)
@@ -23,7 +24,6 @@
 * [2026-03-05, 05:07:03](https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite) - [Relicensing with AI-assisted rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 * [2026-03-05, 01:57:21](https://lobste.rs/s/kjb4gb/just_use_postgres) - [Just Use Postgres](http://amattn.com/p/just_use_postgres.html)
 * [2026-03-05, 01:00:31](https://lobste.rs/s/xhoyg7/grand_vision_for_rust) - [A grand vision for Rust](https://blog.yoshuawuyts.com/a-grand-vision-for-rust/)
-* [2026-03-04, 23:28:48](https://lobste.rs/s/1rh6f3/introducing_wgsl_rs) - [Introducing wgsl-rs](https://renderling.xyz/articles/introducing-wgsl-rs.html)
 * [2026-03-04, 23:10:13](https://lobste.rs/s/dghhq8/you_bought_zuck_s_ray_bans_now_someone) - [You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop](https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/)
 
 ## [Archives](archives/index.md)
