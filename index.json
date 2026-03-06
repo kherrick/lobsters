@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 07:52:00",
+      "https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released"
+    ],
+    [
+      "OpenWrt 25.12.0 Released",
+      "https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 07:45:11",
       "https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy"
     ],
@@ -67,16 +77,6 @@
     [
       "Ladybird browser update (February 2026)",
       "https://www.youtube.com/watch?v=Y3tteHSrJlY"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 21:25:03",
-      "https://lobste.rs/s/t429kz/async_programming_is_just_inject_time"
-    ],
-    [
-      "Async Programming Is Just @Inject Time",
-      "https://willhbr.net/2026/03/02/async-inject-and-effects/"
     ]
   ],
   [
