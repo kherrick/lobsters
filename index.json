@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 19:40:25",
+      "https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el"
+    ],
+    [
+      "Reflections on vibecoding ticket.el",
+      "https://blogsystem5.substack.com/p/vibecoding-ticket-el"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 18:19:48",
       "https://lobste.rs/s/uztaai/why_go_can_t_try"
     ],
@@ -127,16 +137,6 @@
     [
       "10% of Firefox crashes are caused by bitflips",
       "https://mas.to/@gabrielesvelto/116171750653898304"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 03:26:24",
-      "https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle"
-    ],
-    [
-      "Play the New York Times Connections puzzle with DuckDB",
-      "https://github.com/tomjakubowski/connections.duckdb"
     ]
   ],
   [
