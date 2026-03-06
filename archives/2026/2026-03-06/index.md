@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 14:00:32](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend)
 * [2026-03-06, 11:38:35](https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red) - [Hardening Firefox with Anthropic’s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
 * [2026-03-06, 11:36:23](https://lobste.rs/s/kxlv27/clinejection_compromising_cline_s) - [Clinejection — Compromising Cline’s Production Releases just by Prompting an Issue Triager](https://simonwillison.net/2026/Mar/6/clinejection/)
 * [2026-03-06, 10:27:20](https://lobste.rs/s/bausem/ucode_javascript_like_language_with) - [ucode: JavaScript-like language with optional templating](https://github.com/jow-/ucode#about)
