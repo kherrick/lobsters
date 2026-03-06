@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 21:36:26](https://lobste.rs/s/tqsgwm/how_irc_bot_spawned_world_s_most_prolific) - [How an IRC bot spawned the world’s most prolific software](https://www.youtube.com/watch?v=ohzzGy5K9Dk)
+* [2026-03-06, 21:11:21](https://lobste.rs/s/fkxest/this_css_proves_me_human) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
+* [2026-03-06, 20:56:16](https://lobste.rs/s/vupk6p/announcing_typescript_6_0_rc) - [Announcing TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
 * [2026-03-06, 18:19:48](https://lobste.rs/s/uztaai/why_go_can_t_try) - [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
