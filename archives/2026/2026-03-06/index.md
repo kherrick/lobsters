@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 10:24:42](https://lobste.rs/s/tx3f5n/ambiguity_c) - [Ambiguity in C](https://longtran2904.substack.com/p/ambiguity-in-c)
+* [2026-03-06, 10:19:42](https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox) - [Mozilla is working on a big Firefox redesign, here is what it looks like](https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/)
 * [2026-03-06, 07:52:00](https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released) - [OpenWrt 25.12.0 Released](https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228)
 * [2026-03-06, 07:45:11](https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy) - [A new chapter for the Nix language, courtesy of WebAssembly](https://determinate.systems/blog/builtins-wasm/)
 * [2026-03-06, 06:40:47](https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun) - [Fixing a major evaluation order footgun in Rye 0.2](https://ryelang.org/blog/posts/rye-0.2-whats-new/)
