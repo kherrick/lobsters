@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-06, 06:40:47",
+      "https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun"
+    ],
+    [
+      "Fixing a major evaluation order footgun in Rye 0.2",
+      "https://ryelang.org/blog/posts/rye-0.2-whats-new/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 06:33:49",
+      "https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips"
+    ],
+    [
+      "10% of Firefox crashes are caused by bitflips",
+      "https://mas.to/@gabrielesvelto/116171750653898304"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 03:55:47",
       "https://lobste.rs/s/ssnawm/howard_abrams_literate_programming_with"
     ],
@@ -17,6 +37,16 @@
     [
       "Play the New York Times Connections puzzle with DuckDB",
       "https://github.com/tomjakubowski/connections.duckdb"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 02:53:13",
+      "https://lobste.rs/s/zi8gx5/rustc_php_rust_compiler_with_ownership"
+    ],
+    [
+      "rustc-php: A Rust compiler with ownership checking, written in PHP",
+      "https://github.com/mrconter1/rustc-php"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2026-03-05, 13:53:57",
-      "https://lobste.rs/s/9pcxko/espflash_go_cli_library_for_flashing"
-    ],
-    [
-      "espflash: Go CLI and library for flashing firmware to Espressif ESP8266 and ESP32-family microcontrollers",
-      "https://github.com/tinygo-org/espflash"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 13:25:12",
       "https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2026-03-05, 11:50:24",
-      "https://lobste.rs/s/0fuvw8/illustrated_tls_1_2_connection"
-    ],
-    [
-      "The Illustrated TLS 1.2 Connection",
-      "https://tls12.xargs.org/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 11:44:01",
       "https://lobste.rs/s/qepjb9/microslop_microsoft_s_ai_slop_manifesto"
     ],
     [
       "MICROSLOP — Microsoft's AI Slop Manifesto",
       "https://microslop.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 09:36:20",
-      "https://lobste.rs/s/xew97m/openbsd_on_sgi_rollercoaster_story"
-    ],
-    [
-      "OpenBSD on SGI: a rollercoaster story",
-      "http://miod.online.fr/software/openbsd/stories/sgiall.html"
     ]
   ],
   [
