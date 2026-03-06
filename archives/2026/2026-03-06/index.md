@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
 * [2026-03-06, 18:19:48](https://lobste.rs/s/uztaai/why_go_can_t_try) - [Why Go Can't Try](https://niketpatel.com/essays/why-go-cant-try)
 * [2026-03-06, 14:00:32](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tymxsx/what_are_you_doing_this_weekend)
 * [2026-03-06, 13:21:41](https://lobste.rs/s/b5c83w/how_i_audit_legacy_rails_codebase_first) - [How I Audit a Legacy Rails Codebase in the First Week](https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/)
