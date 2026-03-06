@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 20:39:27",
+      "https://lobste.rs/s/traf1f/jank_is_off_great_start_2026"
+    ],
+    [
+      "jank is off to a great start in 2026",
+      "https://jank-lang.org/blog/2026-03-06-great-start/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 19:40:25",
       "https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el"
     ],
@@ -97,16 +107,6 @@
     [
       "XKCD dependency in p5.js",
       "https://editor.p5js.org/isohedral/full/vJa5RiZWs"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 09:24:40",
-      "https://lobste.rs/s/vtrqf1/elfconv_linux_apps_high_performance_wasm"
-    ],
-    [
-      "elfconv: Linux Apps to High-Performance Wasm Binary Translator (2025)",
-      "https://medium.com/nttlabs/some-performance-improvements-in-the-binary-translator-that-converts-linux-applications-c6b26945cf39"
     ]
   ],
   [
