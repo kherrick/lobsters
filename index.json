@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 07:45:11",
+      "https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy"
+    ],
+    [
+      "A new chapter for the Nix language, courtesy of WebAssembly",
+      "https://determinate.systems/blog/builtins-wasm/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 06:40:47",
       "https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun"
     ],
@@ -117,16 +127,6 @@
     [
       "Announcing Rust 1.94.0",
       "https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 19:05:31",
-      "https://lobste.rs/s/pfu01n/tracing_discord_s_elixir_systems_without"
-    ],
-    [
-      "Tracing Discord's Elixir Systems (Without Melting Everything)",
-      "https://discord.com/blog/tracing-discords-elixir-systems-without-melting-everything"
     ]
   ],
   [
