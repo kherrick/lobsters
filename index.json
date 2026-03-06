@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 03:55:47",
+      "https://lobste.rs/s/ssnawm/howard_abrams_literate_programming_with"
+    ],
+    [
+      "Howard Abrams' Literate Programming with Org Mode",
+      "https://www.youtube.com/watch?v=OUuz9-CtCwY"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 03:26:24",
       "https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle"
     ],
@@ -237,16 +247,6 @@
     [
       "jj v0.39.0 released",
       "https://github.com/jj-vcs/jj/releases/tag/v0.39.0"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 16:48:36",
-      "https://lobste.rs/s/nbsppn/au_revoir_eleventy"
-    ],
-    [
-      "Au revoir, Eleventy",
-      "https://hamatti.org/posts/au-revoir-eleventy/"
     ]
   ]
 ]
