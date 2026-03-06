@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-06, 03:26:24",
+      "https://lobste.rs/s/weq6xq/play_new_york_times_connections_puzzle"
+    ],
+    [
+      "Play the New York Times Connections puzzle with DuckDB",
+      "https://github.com/tomjakubowski/connections.duckdb"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 00:35:45",
       "https://lobste.rs/s/fhhg1v/how_install_start_using_lineageos_on_your"
     ],
@@ -107,16 +117,6 @@
     [
       "Building a Database on S3",
       "http://muratbuffalo.blogspot.com/2026/03/building-database-on-s3.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 16:12:34",
-      "https://lobste.rs/s/vwqn0j/kill_cats_with_javascript_rts_game"
-    ],
-    [
-      "Kill cats with JavaScript (RTS game)",
-      "https://yare.io"
     ]
   ],
   [
