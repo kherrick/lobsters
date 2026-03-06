@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-03-06, 10:14:35",
+      "https://lobste.rs/s/msjuyz/eupl_european_union_public_license"
+    ],
+    [
+      "EUPL: European Union Public License",
+      "https://eupl.eu/"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 09:24:40",
       "https://lobste.rs/s/vtrqf1/elfconv_linux_apps_high_performance_wasm"
     ],
@@ -67,6 +77,16 @@
     [
       "A new chapter for the Nix language, courtesy of WebAssembly",
       "https://determinate.systems/blog/builtins-wasm/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 06:40:47",
+      "https://lobste.rs/s/wp02oa/fixing_major_evaluation_order_footgun"
+    ],
+    [
+      "Fixing a major evaluation order footgun in Rye 0.2",
+      "https://ryelang.org/blog/posts/rye-0.2-whats-new/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-05, 11:44:01",
-      "https://lobste.rs/s/qepjb9/microslop_microsoft_s_ai_slop_manifesto"
-    ],
-    [
-      "MICROSLOP — Microsoft's AI Slop Manifesto",
-      "https://microslop.com/"
-    ]
-  ],
-  [
-    [
       "2026-03-05, 05:07:03",
       "https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite"
     ],
@@ -237,16 +247,6 @@
     [
       "You Bought Zuck’s Ray-Bans. Now Someone in Nairobi Is Watching You Poop",
       "https://blog.adafruit.com/2026/03/04/you-bought-zucks-ray-bans-now-someone-in-nairobi-is-watching-you-poop/"
-    ]
-  ],
-  [
-    [
-      "2026-03-04, 19:49:16",
-      "https://lobste.rs/s/dmdttx/jj_v0_39_0_released"
-    ],
-    [
-      "jj v0.39.0 released",
-      "https://github.com/jj-vcs/jj/releases/tag/v0.39.0"
     ]
   ]
 ]
