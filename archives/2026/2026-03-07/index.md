@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 23:16:24](https://lobste.rs/s/sjgh3k/grow_fast_overload_things) - [Grow fast and overload things](https://surfingcomplexity.blog/2026/03/07/grow-fast-and-overload-things/)
 * [2026-03-07, 22:16:16](https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml) - [Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
+* [2026-03-07, 22:15:12](https://lobste.rs/s/w5czhm/nix_is_lie_s_ok) - [Nix is a lie, and that’s ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
 * [2026-03-07, 21:44:04](https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by) - [Roguelike music algorithm showcase by Nifflas](https://youtu.be/WbgdXalXPus)
 * [2026-03-07, 21:25:39](https://lobste.rs/s/dnhs6a/typst_meetup_2026_keynote) - [Typst Meetup 2026: Keynote](https://youtu.be/WOQXL6vRrJs)
 * [2026-03-07, 19:31:44](https://lobste.rs/s/ckqyfn/decade_docker_containers) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)

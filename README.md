@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-07, 23:16:24](https://lobste.rs/s/sjgh3k/grow_fast_overload_things) - [Grow fast and overload things](https://surfingcomplexity.blog/2026/03/07/grow-fast-and-overload-things/)
 * [2026-03-07, 22:16:16](https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml) - [Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
+* [2026-03-07, 22:15:12](https://lobste.rs/s/w5czhm/nix_is_lie_s_ok) - [Nix is a lie, and that’s ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
 * [2026-03-07, 21:44:04](https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by) - [Roguelike music algorithm showcase by Nifflas](https://youtu.be/WbgdXalXPus)
 * [2026-03-07, 21:25:39](https://lobste.rs/s/dnhs6a/typst_meetup_2026_keynote) - [Typst Meetup 2026: Keynote](https://youtu.be/WOQXL6vRrJs)
 * [2026-03-07, 19:31:44](https://lobste.rs/s/ckqyfn/decade_docker_containers) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
@@ -20,11 +22,9 @@
 * [2026-03-07, 00:43:00](https://lobste.rs/s/drtput/some_words_on_wigglypaint) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-07, 00:30:08](https://lobste.rs/s/qorrgl/i_m_not_consulting_llm) - [I'm not consulting an LLM](https://lr0.org/blog/p/gpt/)
 * [2026-03-06, 23:38:43](https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance) - [SPA vs. Hypermedia: Real-World Performance Under Load](https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load)
-* [2026-03-06, 21:36:26](https://lobste.rs/s/tqsgwm/how_irc_bot_inspired_creation_curl) - [How an IRC bot inspired the creation of cURL](https://www.youtube.com/watch?v=ohzzGy5K9Dk)
 * [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 10:19:42](https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox) - [Mozilla is working on a big Firefox redesign, here is what it looks like](https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/)
 * [2026-03-06, 10:14:35](https://lobste.rs/s/msjuyz/eupl_european_union_public_license) - [EUPL: European Union Public License](https://eupl.eu/)
-* [2026-03-06, 06:33:49](https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips) - [10% of Firefox crashes are caused by bitflips](https://mas.to/@gabrielesvelto/116171750653898304)
 
 ## [Archives](archives/index.md)
 
