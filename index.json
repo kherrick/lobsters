@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-07, 00:30:08",
+      "https://lobste.rs/s/qorrgl/i_m_not_consulting_llm"
+    ],
+    [
+      "I'm not consulting an LLM",
+      "https://lr0.org/blog/p/gpt/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 00:22:34",
+      "https://lobste.rs/s/zocl5m/fosdemflix"
+    ],
+    [
+      "fosdemflix",
+      "https://fosdemflix.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 23:38:43",
+      "https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance"
+    ],
+    [
+      "SPA vs. Hypermedia: Real-World Performance Under Load",
+      "https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load"
+    ]
+  ],
+  [
+    [
       "2026-03-06, 22:29:55",
       "https://lobste.rs/s/cyvbof/fortify_your_app_essential_strategies"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2026-03-06, 13:21:41",
-      "https://lobste.rs/s/b5c83w/how_i_audit_legacy_rails_codebase_first"
-    ],
-    [
-      "How I Audit a Legacy Rails Codebase in the First Week",
-      "https://piechowski.io/post/how-i-audit-a-legacy-rails-codebase/"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 11:38:35",
       "https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red"
     ],
     [
       "Hardening Firefox with Anthropic’s Red Team",
       "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 10:27:20",
-      "https://lobste.rs/s/bausem/ucode_javascript_like_language_with"
-    ],
-    [
-      "ucode: JavaScript-like language with optional templating",
-      "https://github.com/jow-/ucode#about"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "A GitHub Issue Title Compromised 4,000 Developer Machines",
       "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 19:29:42",
-      "https://lobste.rs/s/zonhzr/message_passing_is_shared_mutable_state"
-    ],
-    [
-      "Message Passing Is Shared Mutable State",
-      "https://causality.blog/essays/message-passing-is-shared-mutable-state/"
     ]
   ],
   [
