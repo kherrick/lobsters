@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-07, 16:28:12",
+      "https://lobste.rs/s/nfdkkg/implicitcad_programmatic_cad_haskell"
+    ],
+    [
+      "ImplicitCAD –  Programmatic CAD in Haskell",
+      "https://implicitcad.org/"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 16:03:22",
       "https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor"
     ],
     [
       "Ki Editor | Multi-cursor structural editor",
       "https://ki-editor.org/"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 15:07:02",
+      "https://lobste.rs/s/ekhniu/rewriting_our_database_rust"
+    ],
+    [
+      "Rewriting Our Database in Rust",
+      "https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-03-07, 00:22:34",
-      "https://lobste.rs/s/zocl5m/fosdemflix"
-    ],
-    [
-      "fosdemflix",
-      "https://fosdemflix.netlify.app/"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 23:38:43",
       "https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance"
     ],
@@ -217,16 +227,6 @@
     [
       "EUPL: European Union Public License",
       "https://eupl.eu/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 07:52:00",
-      "https://lobste.rs/s/m0ajbc/openwrt_25_12_0_released"
-    ],
-    [
-      "OpenWrt 25.12.0 Released",
-      "https://forum.openwrt.org/t/openwrt-25-12-0-stable-release/247228"
     ]
   ],
   [
