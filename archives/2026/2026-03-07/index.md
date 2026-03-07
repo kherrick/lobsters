@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 21:44:04](https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by) - [Roguelike music algorithm showcase by Nifflas](https://youtu.be/WbgdXalXPus)
 * [2026-03-07, 21:25:39](https://lobste.rs/s/dnhs6a/typst_meetup_2026_keynote) - [Typst Meetup 2026: Keynote](https://youtu.be/WOQXL6vRrJs)
 * [2026-03-07, 19:31:44](https://lobste.rs/s/ckqyfn/decade_docker_containers) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 19:16:11](https://lobste.rs/s/rtpdyy/obuilder_on_windows_bringing_native) - [OBuilder on Windows: Bringing Native Container Builds with the HCS Backend](https://www.tunbury.org/2026/02/19/obuilder-hcs/)

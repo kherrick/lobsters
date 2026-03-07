@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-07, 21:25:39](https://lobste.rs/s/dnhs6a/typst_meetup_2026_keynote) - [Typst Meetup 2026: Keynote](https://youtu.be/WOQXL6vRrJs)
+* [2026-03-07, 21:44:04](https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by) - [Roguelike music algorithm showcase by Nifflas](https://youtu.be/WbgdXalXPus)
 * [2026-03-07, 19:31:44](https://lobste.rs/s/ckqyfn/decade_docker_containers) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 19:03:04](https://lobste.rs/s/hgqhp4/my_favorite_39c3_talks) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
 * [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
