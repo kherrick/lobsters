@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-07, 01:12:37](https://lobste.rs/s/oual8j/netbird_open_source_zero_trust) - [NetBird - Open Source Zero Trust Networking](https://netbird.io/)
 * [2026-03-07, 00:43:00](https://lobste.rs/s/drtput/some_words_on_wigglypaint) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-07, 00:30:08](https://lobste.rs/s/qorrgl/i_m_not_consulting_llm) - [I'm not consulting an LLM](https://lr0.org/blog/p/gpt/)
 * [2026-03-07, 00:22:34](https://lobste.rs/s/zocl5m/fosdemflix) - [fosdemflix](https://fosdemflix.netlify.app/)
@@ -23,7 +24,6 @@
 * [2026-03-05, 20:26:51](https://lobste.rs/s/efkl8m/github_issue_title_compromised_4_000) - [A GitHub Issue Title Compromised 4,000 Developer Machines](https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another)
 * [2026-03-05, 19:21:47](https://lobste.rs/s/i9akff/announcing_rust_1_94_0) - [Announcing Rust 1.94.0](https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/)
 * [2026-03-05, 18:31:12](https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off) - [telemetry helps. you still get to turn it off](https://ritter.vg/blog-telemetry.html)
-* [2026-03-05, 18:17:39](https://lobste.rs/s/6zdvb7/new_major_release_devenv) - [New major release of devenv](https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/)
 * [2026-03-05, 13:25:12](https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
 
 ## [Archives](archives/index.md)
