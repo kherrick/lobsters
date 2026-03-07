@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-07, 23:16:24",
+      "https://lobste.rs/s/sjgh3k/grow_fast_overload_things"
+    ],
+    [
+      "Grow fast and overload things",
+      "https://surfingcomplexity.blog/2026/03/07/grow-fast-and-overload-things/"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 22:16:16",
       "https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml"
     ],
     [
       "Perfect types with `setHTML()`",
       "https://frederikbraun.de/perfect-types-with-sethtml.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 22:15:12",
+      "https://lobste.rs/s/w5czhm/nix_is_lie_s_ok"
+    ],
+    [
+      "Nix is a lie, and that’s ok",
+      "https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-06, 21:36:26",
-      "https://lobste.rs/s/tqsgwm/how_irc_bot_inspired_creation_curl"
-    ],
-    [
-      "How an IRC bot inspired the creation of cURL",
-      "https://www.youtube.com/watch?v=ohzzGy5K9Dk"
-    ]
-  ],
-  [
-    [
       "2026-03-06, 20:39:27",
       "https://lobste.rs/s/traf1f/jank_is_off_great_start_2026"
     ],
@@ -237,16 +247,6 @@
     [
       "EUPL: European Union Public License",
       "https://eupl.eu/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 06:33:49",
-      "https://lobste.rs/s/e5vqyc/10_firefox_crashes_are_caused_by_bitflips"
-    ],
-    [
-      "10% of Firefox crashes are caused by bitflips",
-      "https://mas.to/@gabrielesvelto/116171750653898304"
     ]
   ]
 ]
