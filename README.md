@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-07, 00:43:00](https://lobste.rs/s/drtput/some_words_on_wigglypaint) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-07, 00:30:08](https://lobste.rs/s/qorrgl/i_m_not_consulting_llm) - [I'm not consulting an LLM](https://lr0.org/blog/p/gpt/)
 * [2026-03-07, 00:22:34](https://lobste.rs/s/zocl5m/fosdemflix) - [fosdemflix](https://fosdemflix.netlify.app/)
 * [2026-03-06, 23:38:43](https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance) - [SPA vs. Hypermedia: Real-World Performance Under Load](https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load)
@@ -24,7 +25,6 @@
 * [2026-03-05, 18:31:12](https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off) - [telemetry helps. you still get to turn it off](https://ritter.vg/blog-telemetry.html)
 * [2026-03-05, 18:17:39](https://lobste.rs/s/6zdvb7/new_major_release_devenv) - [New major release of devenv](https://devenv.sh/blog/2026/03/05/devenv-20-a-fresh-interface-to-nix/)
 * [2026-03-05, 13:25:12](https://lobste.rs/s/ncsx3a/gpl_upgrades_via_section_14_proxy) - [GPL upgrades via section 14 proxy delegation](https://runxiyu.org/comp/gplproxy/)
-* [2026-03-05, 05:07:03](https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite) - [Relicensing with AI-assisted rewrite](https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/)
 
 ## [Archives](archives/index.md)
 
