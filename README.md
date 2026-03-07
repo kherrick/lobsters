@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
+* [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 16:28:12](https://lobste.rs/s/nfdkkg/implicitcad_programmatic_cad_haskell) - [ImplicitCAD –  Programmatic CAD in Haskell](https://implicitcad.org/)
 * [2026-03-07, 16:03:22](https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor) - [Ki Editor | Multi-cursor structural editor](https://ki-editor.org/)
 * [2026-03-07, 15:07:02](https://lobste.rs/s/ekhniu/rewriting_our_database_rust) - [Rewriting Our Database in Rust](https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef)
@@ -16,8 +18,6 @@
 * [2026-03-06, 23:38:43](https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance) - [SPA vs. Hypermedia: Real-World Performance Under Load](https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load)
 * [2026-03-06, 22:29:55](https://lobste.rs/s/cyvbof/fortify_your_app_essential_strategies) - [Fortify your app: Essential strategies to strengthen security](https://www.youtube.com/watch?v=UZeSyodAszc)
 * [2026-03-06, 21:36:26](https://lobste.rs/s/tqsgwm/how_irc_bot_inspired_creation_curl) - [How an IRC bot inspired the creation of cURL](https://www.youtube.com/watch?v=ohzzGy5K9Dk)
-* [2026-03-06, 21:11:21](https://lobste.rs/s/fkxest/this_css_proves_me_human) - [this css proves me human](https://will-keleher.com/posts/this-css-makes-me-human/)
-* [2026-03-06, 20:56:16](https://lobste.rs/s/vupk6p/announcing_typescript_6_0_rc) - [Announcing TypeScript 6.0 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0-rc/)
 * [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
 * [2026-03-06, 11:38:35](https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red) - [Hardening Firefox with Anthropic’s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)

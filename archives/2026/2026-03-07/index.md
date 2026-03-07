@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
+* [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
 * [2026-03-07, 16:28:12](https://lobste.rs/s/nfdkkg/implicitcad_programmatic_cad_haskell) - [ImplicitCAD –  Programmatic CAD in Haskell](https://implicitcad.org/)
 * [2026-03-07, 16:03:22](https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor) - [Ki Editor | Multi-cursor structural editor](https://ki-editor.org/)
 * [2026-03-07, 15:07:02](https://lobste.rs/s/ekhniu/rewriting_our_database_rust) - [Rewriting Our Database in Rust](https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef)
