@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-07, 08:47:27",
+      "https://lobste.rs/s/upwrm3/internals_postgresql"
+    ],
+    [
+      "The Internals of PostgreSQL",
+      "https://www.interdb.jp/pg/"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 08:13:46",
       "https://lobste.rs/s/r6hdqf/editing_changes_patch_format_with"
     ],
@@ -237,16 +247,6 @@
     [
       "10% of Firefox crashes are caused by bitflips",
       "https://mas.to/@gabrielesvelto/116171750653898304"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 19:21:47",
-      "https://lobste.rs/s/i9akff/announcing_rust_1_94_0"
-    ],
-    [
-      "Announcing Rust 1.94.0",
-      "https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/"
     ]
   ]
 ]
