@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-07](index.md)
 
+* [2026-03-07, 16:03:22](https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor) - [Ki Editor | Multi-cursor structural editor](https://ki-editor.org/)
 * [2026-03-07, 15:07:02](https://lobste.rs/s/ekhniu/rewriting_our_database_rust) - [Rewriting Our Database in Rust](https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef)
 * [2026-03-07, 13:32:44](https://lobste.rs/s/jreugl/how_stop_fighting_with_coherence_start) - [How to stop fighting with coherence and start writing context-generic trait impls](https://contextgeneric.dev/blog/rustlab-2025-coherence)
 * [2026-03-07, 11:21:36](https://lobste.rs/s/9o02lu/how_apple_used_design_its_laptops_for) - [How Apple Used to Design Its Laptops for Repairability](https://www.ifixit.com/News/115995/how-apple-used-to-design-its-laptops-for-repairability)
