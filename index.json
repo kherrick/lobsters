@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-07, 19:16:11",
+      "https://lobste.rs/s/rtpdyy/obuilder_on_windows_bringing_native"
+    ],
+    [
+      "OBuilder on Windows: Bringing Native Container Builds with the HCS Backend",
+      "https://www.tunbury.org/2026/02/19/obuilder-hcs/"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 19:03:04",
       "https://lobste.rs/s/hgqhp4/my_favorite_39c3_talks"
     ],
@@ -197,16 +207,6 @@
     [
       "Reflections on vibecoding ticket.el",
       "https://blogsystem5.substack.com/p/vibecoding-ticket-el"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 11:38:35",
-      "https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red"
-    ],
-    [
-      "Hardening Firefox with Anthropic’s Red Team",
-      "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/"
     ]
   ],
   [
