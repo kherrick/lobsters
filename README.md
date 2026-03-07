@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-07, 19:16:11](https://lobste.rs/s/rtpdyy/obuilder_on_windows_bringing_native) - [OBuilder on Windows: Bringing Native Container Builds with the HCS Backend](https://www.tunbury.org/2026/02/19/obuilder-hcs/)
+* [2026-03-07, 19:31:44](https://lobste.rs/s/ckqyfn/decade_docker_containers) - [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 * [2026-03-07, 19:03:04](https://lobste.rs/s/hgqhp4/my_favorite_39c3_talks) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
 * [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
 * [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
