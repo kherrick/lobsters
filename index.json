@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-07, 22:16:16",
+      "https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml"
+    ],
+    [
+      "Perfect types with `setHTML()`",
+      "https://frederikbraun.de/perfect-types-with-sethtml.html"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 21:44:04",
       "https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by"
     ],
     [
       "Roguelike music algorithm showcase by Nifflas",
       "https://youtu.be/WbgdXalXPus"
+    ]
+  ],
+  [
+    [
+      "2026-03-07, 21:25:39",
+      "https://lobste.rs/s/dnhs6a/typst_meetup_2026_keynote"
+    ],
+    [
+      "Typst Meetup 2026: Keynote",
+      "https://youtu.be/WOQXL6vRrJs"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-03-07, 08:13:46",
-      "https://lobste.rs/s/r6hdqf/editing_changes_patch_format_with"
-    ],
-    [
-      "Editing changes in patch format with Jujutsu",
-      "https://www.knifepoint.net/~kat/kb-jj-patchedit.html"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 05:34:58",
       "https://lobste.rs/s/osvwbe/first_ai_agent_worm_is_months_away_if"
     ],
@@ -227,16 +237,6 @@
     [
       "EUPL: European Union Public License",
       "https://eupl.eu/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 07:45:11",
-      "https://lobste.rs/s/uwdjjy/new_chapter_for_nix_language_courtesy"
-    ],
-    [
-      "A new chapter for the Nix language, courtesy of WebAssembly",
-      "https://determinate.systems/blog/builtins-wasm/"
     ]
   ],
   [
