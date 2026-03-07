@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-07, 03:52:56",
+      "https://lobste.rs/s/lsk3gq/ply_build_cross_platform_apps_rust"
+    ],
+    [
+      "Ply: Build cross-platform apps in Rust",
+      "https://plyx.iz.rs/blog/introducing-ply/"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 01:12:37",
       "https://lobste.rs/s/oual8j/netbird_open_source_zero_trust"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing Rust 1.94.0",
       "https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 18:31:12",
-      "https://lobste.rs/s/zpvdwb/telemetry_helps_you_still_get_turn_it_off"
-    ],
-    [
-      "telemetry helps. you still get to turn it off",
-      "https://ritter.vg/blog-telemetry.html"
     ]
   ],
   [
