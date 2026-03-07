@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-07, 00:43:00",
+      "https://lobste.rs/s/drtput/some_words_on_wigglypaint"
+    ],
+    [
+      "Some Words on WigglyPaint",
+      "https://beyondloom.com/blog/onwigglypaint.html"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 00:30:08",
       "https://lobste.rs/s/qorrgl/i_m_not_consulting_llm"
     ],
@@ -237,16 +247,6 @@
     [
       "GPL upgrades via section 14 proxy delegation",
       "https://runxiyu.org/comp/gplproxy/"
-    ]
-  ],
-  [
-    [
-      "2026-03-05, 05:07:03",
-      "https://lobste.rs/s/jr3zym/relicensing_with_ai_assisted_rewrite"
-    ],
-    [
-      "Relicensing with AI-assisted rewrite",
-      "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/"
     ]
   ]
 ]
