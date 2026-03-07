@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-03-07, 13:32:44](https://lobste.rs/s/jreugl/how_stop_fighting_with_coherence_start) - [How to stop fighting with coherence and start writing context-generic trait impls](https://contextgeneric.dev/blog/rustlab-2025-coherence)
+* [2026-03-07, 11:21:36](https://lobste.rs/s/9o02lu/how_apple_used_design_its_laptops_for) - [How Apple Used to Design Its Laptops for Repairability](https://www.ifixit.com/News/115995/how-apple-used-to-design-its-laptops-for-repairability)
 * [2026-03-07, 09:39:13](https://lobste.rs/s/azkace/lenovo_s_new_t_series_thinkpads_score_10_10) - [Lenovo’s New T-Series ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
 * [2026-03-07, 08:47:27](https://lobste.rs/s/upwrm3/internals_postgresql) - [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 * [2026-03-07, 08:13:46](https://lobste.rs/s/r6hdqf/editing_changes_patch_format_with) - [Editing changes in patch format with Jujutsu](https://www.knifepoint.net/~kat/kb-jj-patchedit.html)
@@ -18,7 +19,6 @@
 * [2026-03-06, 20:39:27](https://lobste.rs/s/traf1f/jank_is_off_great_start_2026) - [jank is off to a great start in 2026](https://jank-lang.org/blog/2026-03-06-great-start/)
 * [2026-03-06, 19:40:25](https://lobste.rs/s/uaavl6/reflections_on_vibecoding_ticket_el) - [Reflections on vibecoding ticket.el](https://blogsystem5.substack.com/p/vibecoding-ticket-el)
 * [2026-03-06, 11:38:35](https://lobste.rs/s/wxltff/hardening_firefox_with_anthropic_s_red) - [Hardening Firefox with Anthropic’s Red Team](https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/)
-* [2026-03-06, 10:24:42](https://lobste.rs/s/tx3f5n/ambiguity_c) - [Ambiguity in C](https://longtran2904.substack.com/p/ambiguity-in-c)
 * [2026-03-06, 10:19:42](https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox) - [Mozilla is working on a big Firefox redesign, here is what it looks like](https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/)
 * [2026-03-06, 10:14:35](https://lobste.rs/s/msjuyz/eupl_european_union_public_license) - [EUPL: European Union Public License](https://eupl.eu/)
 * [2026-03-06, 09:40:08](https://lobste.rs/s/ewojng/xkcd_dependency_p5_js) - [XKCD dependency in p5.js](https://editor.p5js.org/isohedral/full/vJa5RiZWs)
