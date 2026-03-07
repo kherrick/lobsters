@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-07, 13:32:44",
+      "https://lobste.rs/s/jreugl/how_stop_fighting_with_coherence_start"
+    ],
+    [
+      "How to stop fighting with coherence and start writing context-generic trait impls",
+      "https://contextgeneric.dev/blog/rustlab-2025-coherence"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 09:39:13",
       "https://lobste.rs/s/azkace/lenovo_s_new_t_series_thinkpads_score_10_10"
     ],
@@ -157,16 +167,6 @@
     [
       "Reflections on vibecoding ticket.el",
       "https://blogsystem5.substack.com/p/vibecoding-ticket-el"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 18:19:48",
-      "https://lobste.rs/s/uztaai/why_go_can_t_try"
-    ],
-    [
-      "Why Go Can't Try",
-      "https://niketpatel.com/essays/why-go-cant-try"
     ]
   ],
   [
