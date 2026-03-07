@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-06](index.md)
 
+* [2026-03-06, 23:38:43](https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance) - [SPA vs. Hypermedia: Real-World Performance Under Load](https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load)
 * [2026-03-06, 22:29:55](https://lobste.rs/s/cyvbof/fortify_your_app_essential_strategies) - [Fortify your app: Essential strategies to strengthen security | Meet with Apple](https://www.youtube.com/watch?v=UZeSyodAszc)
 * [2026-03-06, 22:00:52](https://lobste.rs/s/m5fd0c/mycelium_framework) - [Mycelium Framework](https://mycelium-clj.github.io/docs/guestbook.html)
 * [2026-03-06, 21:36:26](https://lobste.rs/s/tqsgwm/how_irc_bot_spawned_world_s_most_prolific) - [How an IRC bot spawned the world’s most prolific software](https://www.youtube.com/watch?v=ohzzGy5K9Dk)
