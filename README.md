@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-08, 00:13:00](https://lobste.rs/s/e174yb/mujs_lightweight_javascript) - [MuJS - lightweight Javascript interpreter designed for embedding in other software](https://mujs.com/)
 * [2026-03-07, 23:16:24](https://lobste.rs/s/sjgh3k/grow_fast_overload_things) - [Grow fast and overload things](https://surfingcomplexity.blog/2026/03/07/grow-fast-and-overload-things/)
 * [2026-03-07, 22:16:16](https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml) - [Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
 * [2026-03-07, 22:15:12](https://lobste.rs/s/w5czhm/nix_is_lie_s_ok) - [Nix is a lie, and that’s ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
@@ -18,7 +19,6 @@
 * [2026-03-07, 08:47:27](https://lobste.rs/s/upwrm3/internals_postgresql) - [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
 * [2026-03-07, 05:34:58](https://lobste.rs/s/osvwbe/first_ai_agent_worm_is_months_away_if) - [The first AI agent worm is months away, if that](https://dustycloud.org/blog/the-first-ai-agent-worm-is-months-away-if-that/)
 * [2026-03-07, 03:52:56](https://lobste.rs/s/lsk3gq/ply_build_cross_platform_apps_rust) - [Ply: Build cross-platform apps in Rust](https://plyx.iz.rs/blog/introducing-ply/)
-* [2026-03-07, 01:12:37](https://lobste.rs/s/oual8j/netbird_open_source_zero_trust) - [NetBird - Open Source Zero Trust Networking](https://netbird.io/)
 * [2026-03-07, 00:43:00](https://lobste.rs/s/drtput/some_words_on_wigglypaint) - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 * [2026-03-07, 00:30:08](https://lobste.rs/s/qorrgl/i_m_not_consulting_llm) - [I'm not consulting an LLM](https://lr0.org/blog/p/gpt/)
 * [2026-03-06, 23:38:43](https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance) - [SPA vs. Hypermedia: Real-World Performance Under Load](https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load)
