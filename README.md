@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-08, 17:21:36](https://lobste.rs/s/ohmnbx/bending_emacs_episode_13_agent_shell) - [Bending Emacs - Episode 13: agent-shell charting](https://xenodium.com/bending-emacs-episode-13-agent-shell-charting)
 * [2026-03-08, 16:58:35](https://lobste.rs/s/brz5mw/libreoffice_writer_now_supports) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
-* [2026-03-08, 16:48:02](https://lobste.rs/s/c3wozs/orchestration_for_zero_human_companies) - [Orchestration for zero-human companies](https://paperclip.ing)
 * [2026-03-08, 16:39:30](https://lobste.rs/s/ooandv/gnu_ai_reimplementations) - [GNU and the AI reimplementations](https://antirez.com/news/162)
 * [2026-03-08, 16:31:00](https://lobste.rs/s/j17fxk/lightweight_protocol_assert_authorship) - [Lightweight protocol to assert authorship of content and vouch for humanity of others](https://codeberg.org/robida/human.json)
 * [2026-03-08, 15:19:12](https://lobste.rs/s/9thupi/framebook) - [FrameBook](https://fb.edoo.gg)
