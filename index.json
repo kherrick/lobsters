@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-08, 03:07:32",
+      "https://lobste.rs/s/nylilr/juno_j_web_ide"
+    ],
+    [
+      "Juno - J Web IDE",
+      "https://jsoftware.github.io/juno/app/"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 02:27:29",
       "https://lobste.rs/s/w047bo/coloring_for_colorblindness"
     ],
@@ -147,16 +157,6 @@
     [
       "Rewriting Our Database in Rust",
       "https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 13:32:44",
-      "https://lobste.rs/s/jreugl/how_stop_fighting_with_coherence_start"
-    ],
-    [
-      "How to stop fighting with coherence and start writing context-generic trait impls",
-      "https://contextgeneric.dev/blog/rustlab-2025-coherence"
     ]
   ],
   [
