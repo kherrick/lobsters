@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-08, 00:13:00",
+      "https://lobste.rs/s/e174yb/mujs_lightweight_javascript"
+    ],
+    [
+      "MuJS - lightweight Javascript interpreter designed for embedding in other software",
+      "https://mujs.com/"
+    ]
+  ],
+  [
+    [
       "2026-03-07, 23:16:24",
       "https://lobste.rs/s/sjgh3k/grow_fast_overload_things"
     ],
@@ -177,16 +187,6 @@
     [
       "Ply: Build cross-platform apps in Rust",
       "https://plyx.iz.rs/blog/introducing-ply/"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 01:12:37",
-      "https://lobste.rs/s/oual8j/netbird_open_source_zero_trust"
-    ],
-    [
-      "NetBird - Open Source Zero Trust Networking",
-      "https://netbird.io/"
     ]
   ],
   [
