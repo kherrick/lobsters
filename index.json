@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-08, 02:27:29",
+      "https://lobste.rs/s/w047bo/coloring_for_colorblindness"
+    ],
+    [
+      "Coloring for Colorblindness",
+      "https://davidmathlogic.com/colorblind"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 02:03:13",
+      "https://lobste.rs/s/8dz5tt/primitive_proposal_for_human_interface"
+    ],
+    [
+      "Primitive proposal for human-interface improvement on Lobste.rs",
+      "https://www.figma.com/proto/wyDB0nvSiZCmvlsSLCf4eY/Websites?node-id=244-252&p=f&t=hi5Tfa6PoucMf2hW-1&scaling=scale-down-width&content-scaling=fixed&page-id=140%3A126"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 00:58:16",
+      "https://lobste.rs/s/bjb3dz/window_chrome_our_discontent"
+    ],
+    [
+      "The Window Chrome of Our Discontent",
+      "https://pxlnv.com/blog/window-chrome-of-our-discontent/"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 00:13:00",
       "https://lobste.rs/s/e174yb/mujs_lightweight_javascript"
     ],
@@ -37,16 +67,6 @@
     [
       "Nix is a lie, and that’s ok",
       "https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 21:44:04",
-      "https://lobste.rs/s/psx7nu/roguelike_music_algorithm_showcase_by"
-    ],
-    [
-      "Roguelike music algorithm showcase by Nifflas",
-      "https://youtu.be/WbgdXalXPus"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "jank is off to a great start in 2026",
       "https://jank-lang.org/blog/2026-03-06-great-start/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 10:19:42",
-      "https://lobste.rs/s/lx1wc2/mozilla_is_working_on_big_firefox"
-    ],
-    [
-      "Mozilla is working on a big Firefox redesign, here is what it looks like",
-      "https://www.neowin.net/news/mozilla-is-working-on-a-big-firefox-redesign-here-is-what-it-looks-like/"
-    ]
-  ],
-  [
-    [
-      "2026-03-06, 10:14:35",
-      "https://lobste.rs/s/msjuyz/eupl_european_union_public_license"
-    ],
-    [
-      "EUPL: European Union Public License",
-      "https://eupl.eu/"
     ]
   ]
 ]
