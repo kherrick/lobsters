@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2026-03-07, 15:07:02",
-      "https://lobste.rs/s/ekhniu/rewriting_our_database_rust"
-    ],
-    [
-      "Rewriting Our Database in Rust",
-      "https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef"
-    ]
-  ],
-  [
-    [
       "2026-03-07, 11:21:36",
       "https://lobste.rs/s/9o02lu/how_apple_used_design_its_laptops_for"
     ],
@@ -237,6 +227,16 @@
     [
       "I'm not consulting an LLM",
       "https://lr0.org/blog/p/gpt/"
+    ]
+  ],
+  [
+    [
+      "2026-03-06, 23:38:43",
+      "https://lobste.rs/s/mktb13/spa_vs_hypermedia_real_world_performance"
+    ],
+    [
+      "SPA vs. Hypermedia: Real-World Performance Under Load",
+      "https://zweiundeins.gmbh/en/methodology/spa-vs-hypermedia-real-world-performance-under-load"
     ]
   ],
   [
