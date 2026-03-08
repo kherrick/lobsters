@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-08, 03:07:32](https://lobste.rs/s/nylilr/juno_j_web_ide) - [Juno - J Web IDE](https://jsoftware.github.io/juno/app/)
 * [2026-03-08, 02:27:29](https://lobste.rs/s/w047bo/coloring_for_colorblindness) - [Coloring for Colorblindness](https://davidmathlogic.com/colorblind)
 * [2026-03-08, 02:03:13](https://lobste.rs/s/8dz5tt/primitive_proposal_for_human_interface) - [Primitive proposal for human-interface improvement on Lobste.rs](https://www.figma.com/proto/wyDB0nvSiZCmvlsSLCf4eY/Websites?node-id=244-252&p=f&t=hi5Tfa6PoucMf2hW-1&scaling=scale-down-width&content-scaling=fixed&page-id=140%3A126)
 * [2026-03-08, 00:58:16](https://lobste.rs/s/bjb3dz/window_chrome_our_discontent) - [The Window Chrome of Our Discontent](https://pxlnv.com/blog/window-chrome-of-our-discontent/)
@@ -15,7 +16,6 @@
 * [2026-03-07, 16:28:12](https://lobste.rs/s/nfdkkg/implicitcad_programmatic_cad_haskell) - [ImplicitCAD –  Programmatic CAD in Haskell](https://implicitcad.org/)
 * [2026-03-07, 16:03:22](https://lobste.rs/s/u8x6xv/ki_editor_multi_cursor_structural_editor) - [Ki Editor | Multi-cursor structural editor](https://ki-editor.org/)
 * [2026-03-07, 15:07:02](https://lobste.rs/s/ekhniu/rewriting_our_database_rust) - [Rewriting Our Database in Rust](https://medium.com/airtable-eng/rewriting-our-database-in-rust-f64e37a482ef)
-* [2026-03-07, 13:32:44](https://lobste.rs/s/jreugl/how_stop_fighting_with_coherence_start) - [How to stop fighting with coherence and start writing context-generic trait impls](https://contextgeneric.dev/blog/rustlab-2025-coherence)
 * [2026-03-07, 11:21:36](https://lobste.rs/s/9o02lu/how_apple_used_design_its_laptops_for) - [How Apple Used to Design Its Laptops for Repairability](https://www.ifixit.com/News/115995/how-apple-used-to-design-its-laptops-for-repairability)
 * [2026-03-07, 09:39:13](https://lobste.rs/s/azkace/lenovo_s_new_t_series_thinkpads_score_10_10) - [Lenovo’s New T-Series ThinkPads Score 10/10 for Repairability](https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability)
 * [2026-03-07, 08:47:27](https://lobste.rs/s/upwrm3/internals_postgresql) - [The Internals of PostgreSQL](https://www.interdb.jp/pg/)
