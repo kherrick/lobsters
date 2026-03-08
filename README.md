@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-08, 15:19:12](https://lobste.rs/s/9thupi/framebook) - [FrameBook](https://fb.edoo.gg)
 * [2026-03-08, 14:28:29](https://lobste.rs/s/4ze6ia/we_should_revisit_literate_programming) - [We Should Revisit Literate Programming in the Agent Era](https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/)
 * [2026-03-08, 13:14:20](https://lobste.rs/s/fkhami/cli_rss_atom_feed_reader_inspired_by) - [CLI RSS/Atom feed reader inspired by Taskwarrior, synced using git](https://github.com/kantord/blogtato)
 * [2026-03-08, 13:08:56](https://lobste.rs/s/z765ue/symbolic_derivatives_rust_rewrite_re) - [symbolic derivatives and the rust rewrite of RE#](https://iev.ee/blog/symbolic-derivatives-and-the-rust-rewrite-of-resharp/)
@@ -13,7 +14,6 @@
 * [2026-03-08, 00:13:00](https://lobste.rs/s/e174yb/mujs_lightweight_javascript) - [MuJS - lightweight Javascript interpreter designed for embedding in other software](https://mujs.com/)
 * [2026-03-07, 22:16:16](https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml) - [Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
 * [2026-03-07, 22:15:12](https://lobste.rs/s/w5czhm/nix_is_lie_s_ok) - [Nix is a lie, and that’s ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
-* [2026-03-07, 21:25:39](https://lobste.rs/s/dnhs6a/typst_meetup_2026_keynote) - [Typst Meetup 2026: Keynote](https://youtu.be/WOQXL6vRrJs)
 * [2026-03-07, 19:03:04](https://lobste.rs/s/hgqhp4/my_favorite_39c3_talks) - [My Favorite 39C3 Talks](https://asindu.xyz/my-favorite-39c3-talks/)
 * [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)
 * [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)
