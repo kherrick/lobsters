@@ -6,6 +6,7 @@
 
 * [2026-03-08, 20:25:25](https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3) - [Solving Regex Crosswords Without Z3](https://danielalp.com/blog/regex_crossword/)
 * [2026-03-08, 20:15:46](https://lobste.rs/s/hbybe3/z80_sans_opentype_font_disassembles_z80) - [z80-sans: OpenType font that disassembles Z80 instructions](https://github.com/nevesnunes/z80-sans)
+* [2026-03-08, 19:06:13](https://lobste.rs/s/t319re/interpreting_whiteout_files_docker) - [Interpreting whiteout files in Docker image layers](https://www.madebymikal.com/interpreting-whiteout-files-in-docker-image-layers/)
 * [2026-03-08, 18:14:28](https://lobste.rs/s/cytiqp/ensuring_correctness_through_type) - [Ensuring correctness through the type system](https://lindbakk.com/blog/ensuring-correctness-through-the-type-system)
 * [2026-03-08, 17:57:58](https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002) - [Impressions from Mozilla 1.2b (2002)](https://movq.de/blog/postings/2026-03-08/0/POSTING-en.html)
 * [2026-03-08, 17:35:34](https://lobste.rs/s/exxoe2/blocking_http1_1) - [Blocking HTTP1.1](https://sheep.horse/2026/3/blocking_http1.1_-_some_results.html)
