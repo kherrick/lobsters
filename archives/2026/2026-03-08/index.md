@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
 * [2026-03-08, 21:00:44](https://lobste.rs/s/jkq80y/cakelisp) - [Cakelisp](https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org)
+* [2026-03-08, 20:53:04](https://lobste.rs/s/sdrpbx/why_octal_notation_should_be_used_for_utf_8) - [Why octal notation should be used for UTF-8 (and Unicode) (2016)](https://movq.de/blog/postings/2016-10-05/0/POSTING-en.html)
 * [2026-03-08, 20:25:25](https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3) - [Solving Regex Crosswords Without Z3](https://danielalp.com/blog/regex_crossword/)
 * [2026-03-08, 20:15:46](https://lobste.rs/s/hbybe3/z80_sans_opentype_font_disassembles_z80) - [z80-sans: OpenType font that disassembles Z80 instructions](https://github.com/nevesnunes/z80-sans)
+* [2026-03-08, 19:13:04](https://lobste.rs/s/moirx6/cambridge_battlecode_code_bots_compete) - [Cambridge Battlecode: Code bots that compete in a turn-based strategy game](https://battlecode.cam/)
 * [2026-03-08, 19:06:13](https://lobste.rs/s/t319re/interpreting_whiteout_files_docker) - [Interpreting whiteout files in Docker image layers](https://www.madebymikal.com/interpreting-whiteout-files-in-docker-image-layers/)
 * [2026-03-08, 18:14:28](https://lobste.rs/s/cytiqp/ensuring_correctness_through_type) - [Ensuring correctness through the type system](https://lindbakk.com/blog/ensuring-correctness-through-the-type-system)
 * [2026-03-08, 17:57:58](https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002) - [Impressions from Mozilla 1.2b (2002)](https://movq.de/blog/postings/2026-03-08/0/POSTING-en.html)
