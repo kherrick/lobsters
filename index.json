@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-08, 20:25:25",
+      "https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3"
+    ],
+    [
+      "Solving Regex Crosswords Without Z3",
+      "https://danielalp.com/blog/regex_crossword/"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 20:15:46",
+      "https://lobste.rs/s/hbybe3/z80_sans_opentype_font_disassembles_z80"
+    ],
+    [
+      "z80-sans: OpenType font that disassembles Z80 instructions",
+      "https://github.com/nevesnunes/z80-sans"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 18:14:28",
+      "https://lobste.rs/s/cytiqp/ensuring_correctness_through_type"
+    ],
+    [
+      "Ensuring correctness through the type system",
+      "https://lindbakk.com/blog/ensuring-correctness-through-the-type-system"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 17:57:58",
       "https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002"
     ],
@@ -37,16 +67,6 @@
     [
       "LibreOffice Writer now supports Markdown",
       "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 16:48:02",
-      "https://lobste.rs/s/c3wozs/orchestration_for_zero_human_companies"
-    ],
-    [
-      "Orchestration for zero-human companies",
-      "https://paperclip.ing"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "symbolic derivatives and the rust rewrite of RE#",
       "https://iev.ee/blog/symbolic-derivatives-and-the-rust-rewrite-of-resharp/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 12:50:13",
-      "https://lobste.rs/s/guir7q/adm_grace_hopper_on_future_possibilities"
-    ],
-    [
-      "Adm. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)",
-      "https://www.nsa.gov/helpful-links/nsa-foia/declassification-transparency-initiatives/historical-releases/view/article/3880193/capt-grace-hopper-on-future-possibilities-data-hardware-software-and-people-1982/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Some Words on WigglyPaint",
       "https://beyondloom.com/blog/onwigglypaint.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-07, 00:30:08",
-      "https://lobste.rs/s/qorrgl/i_m_not_consulting_llm"
-    ],
-    [
-      "I'm not consulting an LLM",
-      "https://lr0.org/blog/p/gpt/"
     ]
   ]
 ]
