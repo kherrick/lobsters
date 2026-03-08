@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-08, 17:57:58](https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002) - [Impressions from Mozilla 1.2b (2002)](https://movq.de/blog/postings/2026-03-08/0/POSTING-en.html)
 * [2026-03-08, 17:35:34](https://lobste.rs/s/exxoe2/blocking_http1_1) - [Blocking HTTP1.1](https://sheep.horse/2026/3/blocking_http1.1_-_some_results.html)
 * [2026-03-08, 17:21:36](https://lobste.rs/s/ohmnbx/bending_emacs_episode_13_agent_shell) - [Bending Emacs - Episode 13: agent-shell charting](https://xenodium.com/bending-emacs-episode-13-agent-shell-charting)
 * [2026-03-08, 16:58:35](https://lobste.rs/s/brz5mw/libreoffice_writer_now_supports) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
@@ -15,7 +16,6 @@
 * [2026-03-08, 02:27:29](https://lobste.rs/s/w047bo/coloring_for_colorblindness) - [Coloring for Colorblindness](https://davidmathlogic.com/colorblind)
 * [2026-03-08, 02:03:13](https://lobste.rs/s/8dz5tt/primitive_proposal_for_human_interface) - [Primitive proposal for human-interface improvement on Lobste.rs](https://www.figma.com/proto/wyDB0nvSiZCmvlsSLCf4eY/Websites?node-id=244-252&p=f&t=hi5Tfa6PoucMf2hW-1&scaling=scale-down-width&content-scaling=fixed&page-id=140%3A126)
 * [2026-03-08, 00:58:16](https://lobste.rs/s/bjb3dz/window_chrome_our_discontent) - [The Window Chrome of Our Discontent](https://pxlnv.com/blog/window-chrome-of-our-discontent/)
-* [2026-03-08, 00:13:00](https://lobste.rs/s/e174yb/mujs_lightweight_javascript) - [MuJS - lightweight Javascript interpreter designed for embedding in other software](https://mujs.com/)
 * [2026-03-07, 22:16:16](https://lobste.rs/s/c7tzjs/perfect_types_with_sethtml) - [Perfect types with `setHTML()`](https://frederikbraun.de/perfect-types-with-sethtml.html)
 * [2026-03-07, 22:15:12](https://lobste.rs/s/w5czhm/nix_is_lie_s_ok) - [Nix is a lie, and that’s ok](https://fzakaria.com/2026/03/07/nix-is-a-lie-and-that-s-ok)
 * [2026-03-07, 17:04:46](https://lobste.rs/s/xndrk0/usage_specification) - [Usage Specification](https://usage.jdx.dev/spec/)

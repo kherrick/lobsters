@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-08](index.md)
 
+* [2026-03-08, 17:57:58](https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002) - [Impressions from Mozilla 1.2b (2002)](https://movq.de/blog/postings/2026-03-08/0/POSTING-en.html)
 * [2026-03-08, 17:35:34](https://lobste.rs/s/exxoe2/blocking_http1_1) - [Blocking HTTP1.1](https://sheep.horse/2026/3/blocking_http1.1_-_some_results.html)
 * [2026-03-08, 17:21:36](https://lobste.rs/s/ohmnbx/bending_emacs_episode_13_agent_shell) - [Bending Emacs - Episode 13: agent-shell charting](https://xenodium.com/bending-emacs-episode-13-agent-shell-charting)
 * [2026-03-08, 16:58:35](https://lobste.rs/s/brz5mw/libreoffice_writer_now_supports) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
