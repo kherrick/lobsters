@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-09, 03:19:28",
+      "https://lobste.rs/s/kefmyt/thinnings_sublist_witnesses_de_bruijn"
+    ],
+    [
+      "Thinnings: Sublist Witnesses and de Bruijn Index Shift Clumping",
+      "https://www.philipzucker.com/thin1/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 02:17:18",
+      "https://lobste.rs/s/ycoyzd/coding_agents_wrote_chess_engine_pure_tex"
+    ],
+    [
+      "Coding Agents Wrote a Chess Engine in Pure TeX",
+      "https://blog.mathieuacher.com/TeXCCChessEngine/"
+    ]
+  ],
+  [
+    [
       "2026-03-08, 23:58:14",
       "https://lobste.rs/s/wevip9/webpki_you"
     ],
@@ -26,7 +46,7 @@
     ],
     [
       "Cakelisp",
-      "https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org"
+      "https://macoy.me/blog/programming/CakelispIntro"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "z80-sans: OpenType font that disassembles Z80 instructions",
       "https://github.com/nevesnunes/z80-sans"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 19:13:04",
-      "https://lobste.rs/s/moirx6/cambridge_battlecode_code_bots_compete"
-    ],
-    [
-      "Cambridge Battlecode: Code bots that compete in a turn-based strategy game",
-      "https://battlecode.cam/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Put the ZIP code first",
       "https://zipcodefirst.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 00:58:16",
-      "https://lobste.rs/s/bjb3dz/window_chrome_our_discontent"
-    ],
-    [
-      "The Window Chrome of Our Discontent",
-      "https://pxlnv.com/blog/window-chrome-of-our-discontent/"
     ]
   ],
   [
