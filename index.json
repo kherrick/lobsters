@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-03-08, 21:08:18",
-      "https://lobste.rs/s/zwci4v/getting_started_with_clickhouse_13"
-    ],
-    [
-      "Getting started with ClickHouse? 13 mistakes and how to avoid them",
-      "https://clickhouse.com/blog/common-getting-started-issues-with-clickhouse"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 21:00:44",
       "https://lobste.rs/s/jkq80y/cakelisp"
     ],
@@ -77,6 +67,16 @@
     [
       "z80-sans: OpenType font that disassembles Z80 instructions",
       "https://github.com/nevesnunes/z80-sans"
+    ]
+  ],
+  [
+    [
+      "2026-03-08, 19:13:04",
+      "https://lobste.rs/s/moirx6/cambridge_battlecode_code_bots_compete"
+    ],
+    [
+      "Cambridge Battlecode: Code bots that compete in a turn-based strategy game",
+      "https://battlecode.cam/"
     ]
   ],
   [
