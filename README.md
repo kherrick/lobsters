@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-09, 09:43:51](https://lobste.rs/s/6pvtem/ai_will_fuck_you_up_if_you_re_not_on_board) - [AI will fuck you up if you’re not on board](https://rmoff.net/2026/03/06/ai-will-fuck-you-up-if-youre-not-on-board/)
 * [2026-03-09, 08:52:32](https://lobste.rs/s/gczw9t/open_sores) - [Open Sores](https://richwhitehouse.com/index.php?postid=77)
 * [2026-03-09, 08:43:08](https://lobste.rs/s/eab8au/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/eab8au/what_are_you_doing_this_week)
 * [2026-03-09, 08:09:31](https://lobste.rs/s/av8fcx/linux_internals_how_proc_self_mem_writes) - [Linux Internals: How /proc/self/mem writes to unwritable memory](https://offlinemark.com/an-obscure-quirk-of-proc/)
@@ -10,7 +11,6 @@
 * [2026-03-08, 20:53:04](https://lobste.rs/s/sdrpbx/why_octal_notation_should_be_used_for_utf_8) - [Why octal notation should be used for UTF-8 (and Unicode) (2016)](https://movq.de/blog/postings/2016-10-05/0/POSTING-en.html)
 * [2026-03-08, 20:25:25](https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3) - [Solving Regex Crosswords Without Z3](https://danielalp.com/blog/regex_crossword/)
 * [2026-03-08, 20:15:46](https://lobste.rs/s/hbybe3/z80_sans_opentype_font_disassembles_z80) - [z80-sans: OpenType font that disassembles Z80 instructions](https://github.com/nevesnunes/z80-sans)
-* [2026-03-08, 19:13:04](https://lobste.rs/s/moirx6/cambridge_battlecode_code_bots_compete) - [Cambridge Battlecode: Code bots that compete in a turn-based strategy game](https://battlecode.cam/)
 * [2026-03-08, 17:57:58](https://lobste.rs/s/e72lgq/impressions_from_mozilla_1_2b_2002) - [Impressions from Mozilla 1.2b (2002)](https://movq.de/blog/postings/2026-03-08/0/POSTING-en.html)
 * [2026-03-08, 17:35:34](https://lobste.rs/s/exxoe2/blocking_http1_1) - [Blocking HTTP1.1](https://sheep.horse/2026/3/blocking_http1.1_-_some_results.html)
 * [2026-03-08, 16:58:35](https://lobste.rs/s/brz5mw/libreoffice_writer_now_supports) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
