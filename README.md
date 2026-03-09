@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-09, 22:56:45](https://lobste.rs/s/h392de/memoriam_tony_hoare) - [In memoriam, Tony Hoare](http://lefenetrou.blogspot.com/2026/03/in-memoriam-tony-hoare.html)
+* [2026-03-09, 22:34:46](https://lobste.rs/s/gzrqey/catching_malicious_contributions_open) - [Catching malicious contributions in open source repos](https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/)
 * [2026-03-09, 19:21:59](https://lobste.rs/s/vhvdme/reversing_russian_spyware_i_installed_on) - [Reversing Russian spyware I installed on my iPhone](https://www.youtube.com/watch?v=XQvZ2mLnZVI)
 * [2026-03-09, 19:02:27](https://lobste.rs/s/0r64cv/aws_sdk_for_rust_using_s3_compatible_apis) - [AWS SDK for Rust: Using S3-Compatible APIs with Other Clouds](https://rup12.net/posts/s3-api-compatibility-is-awesome)
 * [2026-03-09, 18:52:35](https://lobste.rs/s/flbwoi/ghostty_1_3_0) - [Ghostty 1.3.0](https://ghostty.org/docs/install/release-notes/1-3-0)
