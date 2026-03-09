@@ -7,6 +7,7 @@
 * [2026-03-08, 23:58:14](https://lobste.rs/s/wevip9/webpki_you) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-08, 21:08:18](https://lobste.rs/s/zwci4v/getting_started_with_clickhouse_13) - [Getting started with ClickHouse? 13 mistakes and how to avoid them](https://clickhouse.com/blog/common-getting-started-issues-with-clickhouse)
 * [2026-03-08, 21:00:44](https://lobste.rs/s/jkq80y/cakelisp) - [Cakelisp](https://macoy.me/code/macoy/cakelisp/src/branch/master/doc/Cakelisp.org)
+* [2026-03-08, 21:00:44](https://lobste.rs/s/jkq80y/cakelisp) - [Cakelisp](https://macoy.me/blog/programming/CakelispIntro)
 * [2026-03-08, 20:53:04](https://lobste.rs/s/sdrpbx/why_octal_notation_should_be_used_for_utf_8) - [Why octal notation should be used for UTF-8 (and Unicode) (2016)](https://movq.de/blog/postings/2016-10-05/0/POSTING-en.html)
 * [2026-03-08, 20:25:25](https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3) - [Solving Regex Crosswords Without Z3](https://danielalp.com/blog/regex_crossword/)
 * [2026-03-08, 20:15:46](https://lobste.rs/s/hbybe3/z80_sans_opentype_font_disassembles_z80) - [z80-sans: OpenType font that disassembles Z80 instructions](https://github.com/nevesnunes/z80-sans)
