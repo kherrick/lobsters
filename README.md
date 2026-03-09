@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-09, 15:12:17](https://lobste.rs/s/52jd6f/is_legal_same_as_legitimate_ai) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+* [2026-03-09, 14:47:32](https://lobste.rs/s/bv55sb/removing_recursion_via_explicit) - [Removing recursion via explicit callstack simulation](https://jnkr.tech/blog/removing-recursion)
 * [2026-03-09, 14:20:29](https://lobste.rs/s/qp4zl6/notes_on_writing_voxel_game_dyalog_apl) - [Notes on writing a voxel game in Dyalog APL](https://homewithinnowhere.com/blog/voxel_game/)
 * [2026-03-09, 14:01:44](https://lobste.rs/s/sd1rsy/i_don_t_know_if_my_job_will_still_exist_ten) - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
 * [2026-03-09, 13:55:14](https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it) - [Your LLM Doesn't Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
@@ -18,10 +20,8 @@
 * [2026-03-08, 17:35:34](https://lobste.rs/s/exxoe2/blocking_http1_1) - [Blocking HTTP1.1](https://sheep.horse/2026/3/blocking_http1.1_-_some_results.html)
 * [2026-03-08, 16:58:35](https://lobste.rs/s/brz5mw/libreoffice_writer_now_supports) - [LibreOffice Writer now supports Markdown](https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/)
 * [2026-03-08, 16:39:30](https://lobste.rs/s/ooandv/gnu_ai_reimplementations) - [GNU and the AI reimplementations](https://antirez.com/news/162)
-* [2026-03-08, 16:37:50](https://lobste.rs/s/mljwva/apple_s_512gb_mac_studio_vanishes_quiet) - [Apple's 512GB Mac Studio vanishes, a quiet acknowledgment of the RAM shortage](https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/)
 * [2026-03-08, 16:31:00](https://lobste.rs/s/j17fxk/lightweight_protocol_assert_authorship) - [Lightweight protocol to assert authorship of content and vouch for humanity of others](https://codeberg.org/robida/human.json)
 * [2026-03-08, 15:19:12](https://lobste.rs/s/9thupi/framebook) - [FrameBook](https://fb.edoo.gg)
-* [2026-03-08, 13:08:56](https://lobste.rs/s/z765ue/symbolic_derivatives_rust_rewrite_re) - [symbolic derivatives and the rust rewrite of RE#](https://iev.ee/blog/symbolic-derivatives-and-the-rust-rewrite-of-resharp/)
 * [2026-03-08, 11:27:41](https://lobste.rs/s/hekrwd/if_it_quacks_like_package_manager) - [If It Quacks Like a Package Manager](https://nesbitt.io/2026/03/08/if-it-quacks-like-a-package-manager.html)
 * [2026-03-08, 11:10:14](https://lobste.rs/s/kgpyat/put_zip_code_first) - [Put the ZIP code first](https://zipcodefirst.com/)
 * [2026-03-07, 16:52:29](https://lobste.rs/s/2zk3oe/pushing_pulling_three_reactivity) - [Pushing and Pulling: Three Reactivity Algorithms](https://jonathan-frere.com/posts/reactivity-algorithms/)

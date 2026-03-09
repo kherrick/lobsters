@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-09](index.md)
 
+* [2026-03-09, 15:12:17](https://lobste.rs/s/52jd6f/is_legal_same_as_legitimate_ai) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
+* [2026-03-09, 14:47:32](https://lobste.rs/s/bv55sb/removing_recursion_via_explicit) - [Removing recursion via explicit callstack simulation](https://jnkr.tech/blog/removing-recursion)
 * [2026-03-09, 14:20:29](https://lobste.rs/s/qp4zl6/notes_on_writing_voxel_game_dyalog_apl) - [Notes on writing a voxel game in Dyalog APL](https://homewithinnowhere.com/blog/voxel_game/)
 * [2026-03-09, 14:01:44](https://lobste.rs/s/sd1rsy/i_don_t_know_if_my_job_will_still_exist_ten) - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
 * [2026-03-09, 13:55:14](https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it) - [Your LLM Doesn't Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
