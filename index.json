@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-09, 17:24:53",
+      "https://lobste.rs/s/k6vpjh/meta_s_renewed_commitment_jemalloc"
+    ],
+    [
+      "Meta’s Renewed Commitment to jemalloc",
+      "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 15:28:31",
       "https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host"
     ],
@@ -137,16 +147,6 @@
     [
       "WebPKI and You",
       "https://blog.brycekerley.net/2026/03/08/webpki-and-you.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 21:00:44",
-      "https://lobste.rs/s/jkq80y/cakelisp"
-    ],
-    [
-      "Cakelisp",
-      "https://macoy.me/blog/programming/CakelispIntro"
     ]
   ],
   [
