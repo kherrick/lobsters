@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-09, 14:20:29",
+      "https://lobste.rs/s/qp4zl6/notes_on_writing_voxel_game_dyalog_apl"
+    ],
+    [
+      "Notes on writing a voxel game in Dyalog APL",
+      "https://homewithinnowhere.com/blog/voxel_game/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 14:01:44",
+      "https://lobste.rs/s/sd1rsy/i_don_t_know_if_my_job_will_still_exist_ten"
+    ],
+    [
+      "I don't know if my job will still exist in ten years",
+      "https://www.seangoedecke.com/will-my-job-still-exist/"
+    ]
+  ],
+  [
+    [
+      "2026-03-09, 13:55:14",
+      "https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it"
+    ],
+    [
+      "Your LLM Doesn't Write Correct Code. It Writes Plausible Code",
+      "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 13:04:26",
       "https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-03-08, 20:25:25",
-      "https://lobste.rs/s/jt2yn5/solving_regex_crosswords_without_z3"
-    ],
-    [
-      "Solving Regex Crosswords Without Z3",
-      "https://danielalp.com/blog/regex_crossword/"
-    ]
-  ],
-  [
-    [
       "2026-03-08, 20:15:46",
       "https://lobste.rs/s/hbybe3/z80_sans_opentype_font_disassembles_z80"
     ],
@@ -187,26 +207,6 @@
     [
       "FrameBook",
       "https://fb.edoo.gg"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 14:28:29",
-      "https://lobste.rs/s/4ze6ia/we_should_revisit_literate_programming"
-    ],
-    [
-      "We Should Revisit Literate Programming in the Agent Era",
-      "https://silly.business/blog/we-should-revisit-literate-programming-in-the-agent-era/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 13:14:20",
-      "https://lobste.rs/s/fkhami/cli_rss_atom_feed_reader_inspired_by"
-    ],
-    [
-      "CLI RSS/Atom feed reader inspired by Taskwarrior, synced using git",
-      "https://github.com/kantord/blogtato"
     ]
   ],
   [
