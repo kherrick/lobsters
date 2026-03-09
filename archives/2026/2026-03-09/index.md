@@ -6,8 +6,10 @@
 
 * [2026-03-09, 19:02:27](https://lobste.rs/s/0r64cv/aws_sdk_for_rust_using_s3_compatible_apis) - [AWS SDK for Rust: Using S3-Compatible APIs with Other Clouds](https://rup12.net/posts/s3-api-compatibility-is-awesome)
 * [2026-03-09, 18:52:35](https://lobste.rs/s/flbwoi/ghostty_1_3_0) - [Ghostty 1.3.0](https://ghostty.org/docs/install/release-notes/1-3-0)
+* [2026-03-09, 18:04:05](https://lobste.rs/s/nkmxnp/price_checking_zerocopy_s_zero_cost) - [Price-Checking Zerocopy's Zero Cost Abstractions](https://jack.wrenn.fyi/blog/price-check/)
 * [2026-03-09, 17:24:53](https://lobste.rs/s/k6vpjh/meta_s_renewed_commitment_jemalloc) - [Meta’s Renewed Commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-09, 17:11:41](https://lobste.rs/s/yg9m2q/video_conferencing_with_postgres) - [Video Conferencing with Postgres](https://planetscale.com/blog/video-conferencing-with-postgres)
+* [2026-03-09, 17:01:52](https://lobste.rs/s/sxlo6h/building_procedural_hex_map_with_wave) - [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
 * [2026-03-09, 16:54:31](https://lobste.rs/s/kl1gd6/seccomp_unsafe_at_any_speed_2022) - [seccomp — Unsafe at any speed (2022)](https://blog.habets.se/2022/03/seccomp-unsafe-at-any-speed.html)
 * [2026-03-09, 15:28:31](https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host) - [Abusing .arpa, the TLD that isn’t supposed to host anything](https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/)
 * [2026-03-09, 15:12:17](https://lobste.rs/s/52jd6f/is_legal_same_as_legitimate_ai) - [Is legal the same as legitimate: AI reimplementation and the erosion of copyleft](https://writings.hongminhee.org/2026/03/legal-vs-legitimate/)
