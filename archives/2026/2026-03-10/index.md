@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 18:53:19](https://lobste.rs/s/8goxn3/llms_are_bad_at_vibing_specifications) - [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/)
 * [2026-03-10, 16:51:20](https://lobste.rs/s/j4wpft/load_bearing_walls) - [Load-Bearing Walls](https://brianschrader.com/archive/load-bearing-walls/)
+* [2026-03-10, 16:45:35](https://lobste.rs/s/ktzbfa/i_built_programming_language_using) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 * [2026-03-10, 16:25:58](https://lobste.rs/s/lmjmig/ruby_users_forum_february_march_update) - [Ruby Users Forum February–March Update](https://www.rubyforum.org/t/monthly-update-february-wrap-up-march-preview/177/2)
 * [2026-03-10, 15:45:04](https://lobste.rs/s/ysvfji/source_available_projects_their_ai) - [Source-available projects and their AI contribution policies](https://theconsensus.dev/p/2026/03/02/source-available-projects-and-their-ai-contribution-policies.html)
 * [2026-03-10, 15:42:09](https://lobste.rs/s/lyktdk/tony_hoare_1934_2026) - [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
