@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 12:13:03](https://lobste.rs/s/cpqm9i/too_much_color) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
+* [2026-03-10, 11:51:21](https://lobste.rs/s/gh0mwq/nominal_types_webassembly) - [nominal types in webassembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
 * [2026-03-10, 11:38:07](https://lobste.rs/s/izdkzi/tcxo_failure_analysis) - [TCXO failure analysis](https://serd.es/2026/03/06/TCXO-failure-analysis.html)
 * [2026-03-10, 10:07:13](https://lobste.rs/s/vkxmwj/redox_os_has_adopted_certificate_origin) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 10:06:13](https://lobste.rs/s/qfkqct/working_decentralize_fedcm) - [Working to Decentralize FedCM](https://atproto.com/blog/working-to-decentralize-fedcm)

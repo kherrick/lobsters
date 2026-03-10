@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-10, 11:38:07](https://lobste.rs/s/izdkzi/tcxo_failure_analysis) - [TCXO failure analysis](https://serd.es/2026/03/06/TCXO-failure-analysis.html)
+* [2026-03-10, 12:13:03](https://lobste.rs/s/cpqm9i/too_much_color) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
+* [2026-03-10, 11:51:21](https://lobste.rs/s/gh0mwq/nominal_types_webassembly) - [nominal types in webassembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
 * [2026-03-10, 10:07:13](https://lobste.rs/s/vkxmwj/redox_os_has_adopted_certificate_origin) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
 * [2026-03-10, 10:06:13](https://lobste.rs/s/qfkqct/working_decentralize_fedcm) - [Working to Decentralize FedCM](https://atproto.com/blog/working-to-decentralize-fedcm)
 * [2026-03-10, 08:56:02](https://lobste.rs/s/evjtiq/lambda_calculus_explorer) - [Lambda Calculus Explorer](http://kmicinski.com/cis352-s26/lambda-playground/)
@@ -22,7 +23,6 @@
 * [2026-03-09, 15:28:31](https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host) - [Abusing .arpa, the TLD that isn’t supposed to host anything](https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/)
 * [2026-03-09, 14:01:44](https://lobste.rs/s/sd1rsy/i_don_t_know_if_my_job_will_still_exist_ten) - [I don't know if my job will still exist in ten years](https://www.seangoedecke.com/will-my-job-still-exist/)
 * [2026-03-09, 13:55:14](https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it) - [Your LLM Doesn't Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
-* [2026-03-09, 13:04:26](https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript) - [Rust-like Error Handling in TypeScript](https://codeinput.com/blog/typescript-result)
 * [2026-03-09, 10:52:19](https://lobste.rs/s/o8vbb7/production_query_plans_without) - [Production query plans without production data](https://boringsql.com/posts/portable-stats/)
 * [2026-03-09, 10:33:30](https://lobste.rs/s/jreqtw/returning_rails_2026) - [Returning To Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
 
