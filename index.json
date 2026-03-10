@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-10, 11:38:07",
-      "https://lobste.rs/s/izdkzi/tcxo_failure_analysis"
+      "2026-03-10, 12:13:03",
+      "https://lobste.rs/s/cpqm9i/too_much_color"
     ],
     [
-      "TCXO failure analysis",
-      "https://serd.es/2026/03/06/TCXO-failure-analysis.html"
+      "Too Much Color",
+      "https://www.keithcirkel.co.uk/too-much-color/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 11:51:21",
+      "https://lobste.rs/s/gh0mwq/nominal_types_webassembly"
+    ],
+    [
+      "nominal types in webassembly",
+      "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Your LLM Doesn't Write Correct Code. It Writes Plausible Code",
       "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 13:04:26",
-      "https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript"
-    ],
-    [
-      "Rust-like Error Handling in TypeScript",
-      "https://codeinput.com/blog/typescript-result"
     ]
   ],
   [
