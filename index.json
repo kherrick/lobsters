@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 14:05:15",
+      "https://lobste.rs/s/5mf3cb/rebasing_magit"
+    ],
+    [
+      "Rebasing in Magit",
+      "https://entropicthoughts.com/rebasing-in-magit"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 12:55:54",
       "https://lobste.rs/s/9nzeu7/madblog_turn_markdown_folder_into"
     ],
@@ -47,16 +57,6 @@
     [
       "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 08:57:01",
-      "https://lobste.rs/s/0lbjbs/troubleshooting_bsd_tcp_network"
-    ],
-    [
-      "troubleshooting BSD TCP network performance: part 2 (fixing NetBSD)",
-      "https://omaera.org/wlog/tech/bsd_network_p2"
     ]
   ],
   [
