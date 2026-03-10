@@ -2,8 +2,10 @@
 
 * [2026-03-10, 05:30:30](https://lobste.rs/s/eh90sq/ddr4_sdram_initialization_training) - [DDR4 SDRAM - Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
 * [2026-03-10, 04:29:56](https://lobste.rs/s/baqt4i/pwning_netbsd_aarch64_arm) - [pwning NetBSD-aarch64 ARM](https://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20260308_1932.html)
+* [2026-03-10, 03:44:33](https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck) - [The Reviewer Isn't the Bottleneck](https://rishi.baldawa.com/posts/review-isnt-the-bottleneck/)
 * [2026-03-10, 03:27:45](https://lobste.rs/s/ivb0bn/nextvi_4_0_small_hackable_vi_ex_editor_with) - [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi)
 * [2026-03-10, 03:01:00](https://lobste.rs/s/apygc2/first_hacked_emacs_package) - [First (?) hacked Emacs package](https://old.reddit.com/r/emacs/comments/1rowm5i/first_hacked_emacs_package/)
+* [2026-03-10, 02:44:13](https://lobste.rs/s/f9fepw/spacetimedb_short_technical_review) - [SpacetimeDB: a short technical review](https://strn.cat/w/articles/spacetime/)
 * [2026-03-10, 02:32:31](https://lobste.rs/s/ckr3r2/do_illegible) - [Do the Illegible](https://ashwinsundar.com/posts/legibility-and-programming/)
 * [2026-03-10, 00:28:30](https://lobste.rs/s/lqrai2/freebsd_14_4_release_announcement) - [FreeBSD 14.4-RELEASE Announcement](https://www.freebsd.org/releases/14.4R/announce/)
 * [2026-03-09, 22:27:20](https://lobste.rs/s/q60htr/jslinux_now_supports_x86_64) - [JSLinux now supports x86_64](https://bellard.org/jslinux/)
@@ -14,7 +16,6 @@
 * [2026-03-09, 17:11:41](https://lobste.rs/s/yg9m2q/video_conferencing_with_postgres) - [Video Conferencing with Postgres](https://planetscale.com/blog/video-conferencing-with-postgres)
 * [2026-03-09, 17:01:52](https://lobste.rs/s/sxlo6h/building_procedural_hex_map_with_wave) - [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
 * [2026-03-09, 16:54:31](https://lobste.rs/s/kl1gd6/seccomp_unsafe_at_any_speed_2022) - [seccomp — Unsafe at any speed (2022)](https://blog.habets.se/2022/03/seccomp-unsafe-at-any-speed.html)
-* [2026-03-09, 16:47:22](https://lobste.rs/s/dcqmlk/what_i_always_wanted_know_about_second) - [What I Always Wanted to Know about Second Class Values](https://dl.acm.org/doi/epdf/10.1145/3759427.3760373)
 * [2026-03-09, 15:28:31](https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host) - [Abusing .arpa, the TLD that isn’t supposed to host anything](https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/)
 * [2026-03-09, 14:47:32](https://lobste.rs/s/bv55sb/removing_recursion_via_explicit) - [Removing recursion via explicit callstack simulation](https://jnkr.tech/blog/removing-recursion)
 * [2026-03-09, 14:20:29](https://lobste.rs/s/qp4zl6/notes_on_writing_voxel_game_dyalog_apl) - [Notes on writing a voxel game in Dyalog APL](https://homewithinnowhere.com/blog/voxel_game/)
@@ -23,7 +24,6 @@
 * [2026-03-09, 13:04:26](https://lobste.rs/s/lcvctc/rust_like_error_handling_typescript) - [Rust-like Error Handling in TypeScript](https://codeinput.com/blog/typescript-result)
 * [2026-03-09, 10:52:19](https://lobste.rs/s/o8vbb7/production_query_plans_without) - [Production query plans without production data](https://boringsql.com/posts/portable-stats/)
 * [2026-03-09, 10:33:30](https://lobste.rs/s/jreqtw/returning_rails_2026) - [Returning To Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
-* [2026-03-08, 23:58:14](https://lobste.rs/s/wevip9/webpki_you) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-08, 16:31:00](https://lobste.rs/s/j17fxk/lightweight_protocol_assert_authorship) - [Lightweight protocol to assert authorship of content and vouch for humanity of others](https://codeberg.org/robida/human.json)
 
 ## [Archives](archives/index.md)
