@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 20:12:41](https://lobste.rs/s/zzjjyo/llm_neuroanatomy_how_i_topped_ai) - [LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight](https://dnhkng.github.io/posts/rys/)
 * [2026-03-10, 19:49:53](https://lobste.rs/s/ta3jjk/risc_v_is_sloooow) - [RISC-V is sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 18:53:19](https://lobste.rs/s/8goxn3/llms_are_bad_at_vibing_specifications) - [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/)
 * [2026-03-10, 16:51:20](https://lobste.rs/s/j4wpft/load_bearing_walls) - [Load-Bearing Walls](https://brianschrader.com/archive/load-bearing-walls/)
