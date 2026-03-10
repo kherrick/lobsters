@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-03-10, 00:28:30",
+      "https://lobste.rs/s/lqrai2/freebsd_14_4_release_announcement"
+    ],
+    [
+      "FreeBSD 14.4-RELEASE Announcement",
+      "https://www.freebsd.org/releases/14.4R/announce/"
+    ]
+  ],
+  [
+    [
       "2026-03-09, 22:27:20",
       "https://lobste.rs/s/q60htr/jslinux_now_supports_x86_64"
     ],
@@ -237,16 +247,6 @@
     [
       "Lightweight protocol to assert authorship of content and vouch for humanity of others",
       "https://codeberg.org/robida/human.json"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 11:10:14",
-      "https://lobste.rs/s/kgpyat/put_zip_code_first"
-    ],
-    [
-      "Put the ZIP code first",
-      "https://zipcodefirst.com/"
     ]
   ]
 ]
