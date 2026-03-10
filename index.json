@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 05:30:30",
+      "https://lobste.rs/s/eh90sq/ddr4_sdram_initialization_training"
+    ],
+    [
+      "DDR4 SDRAM - Initialization, Training and Calibration",
+      "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 03:44:33",
       "https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck"
     ],
@@ -37,16 +47,6 @@
     [
       "Do the Illegible",
       "https://ashwinsundar.com/posts/legibility-and-programming/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 00:28:30",
-      "https://lobste.rs/s/lqrai2/freebsd_14_4_release_announcement"
-    ],
-    [
-      "FreeBSD 14.4-RELEASE Announcement",
-      "https://www.freebsd.org/releases/14.4R/announce/"
     ]
   ],
   [
