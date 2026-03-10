@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-03-10, 21:41:15",
+      "https://lobste.rs/s/imwkxe/unions_merged_into_dotnet_11_preview_3"
+    ],
+    [
+      "Unions merged into dotnet 11 preview 3",
+      "https://github.com/dotnet/csharplang/blob/main/proposals/unions.md"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 21:12:44",
       "https://lobste.rs/s/wvewpi/debian_decides_not_decide_on_ai_generated"
     ],
@@ -157,16 +167,6 @@
     [
       "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
       "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 08:57:01",
-      "https://lobste.rs/s/0lbjbs/troubleshooting_bsd_tcp_network"
-    ],
-    [
-      "troubleshooting BSD TCP network performance: part 2 (fixing NetBSD)",
-      "https://omaera.org/wlog/tech/bsd_network_p2"
     ]
   ],
   [
