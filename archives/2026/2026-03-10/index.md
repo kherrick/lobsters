@@ -13,6 +13,7 @@
 * [2026-03-10, 14:25:25](https://lobste.rs/s/t5dvs5/amazon_holds_engineering_meeting_about) - [Amazon holds engineering meeting about GenAI based outages](https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de)
 * [2026-03-10, 14:25:25](https://lobste.rs/s/t5dvs5/amazon_holds_engineering_meeting_about) - [Amazon holds engineering meeting about GenAI based outages](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
 * [2026-03-10, 14:05:15](https://lobste.rs/s/5mf3cb/rebasing_magit) - [Rebasing in Magit](https://entropicthoughts.com/rebasing-in-magit)
+* [2026-03-10, 13:04:43](https://lobste.rs/s/g6gfvg/what_s_my_jnd) - [What's My JND?](https://www.keithcirkel.co.uk/whats-my-jnd)
 * [2026-03-10, 12:55:54](https://lobste.rs/s/9nzeu7/madblog_turn_markdown_folder_into) - [Madblog: Turn a Markdown folder into a federated blog](https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown)
 * [2026-03-10, 12:13:03](https://lobste.rs/s/cpqm9i/too_much_color) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
 * [2026-03-10, 11:51:21](https://lobste.rs/s/gh0mwq/nominal_types_webassembly) - [nominal types in webassembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
