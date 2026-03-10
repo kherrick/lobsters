@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-09, 22:34:46](https://lobste.rs/s/gzrqey/catching_malicious_contributions_open) - [Catching malicious contributions in open source repos](https://www.datadoghq.com/blog/engineering/stopping-hackerbot-claw-with-bewaire/)
-* [2026-03-09, 19:21:59](https://lobste.rs/s/vhvdme/reversing_russian_spyware_i_installed_on) - [Reversing Russian spyware I installed on my iPhone](https://www.youtube.com/watch?v=XQvZ2mLnZVI)
+* [2026-03-10, 00:28:30](https://lobste.rs/s/lqrai2/freebsd_14_4_release_announcement) - [FreeBSD 14.4-RELEASE Announcement](https://www.freebsd.org/releases/14.4R/announce/)
+* [2026-03-09, 22:27:20](https://lobste.rs/s/q60htr/jslinux_now_supports_x86_64) - [JSLinux now supports x86_64](https://bellard.org/jslinux/)
 * [2026-03-09, 19:02:27](https://lobste.rs/s/0r64cv/aws_sdk_for_rust_using_s3_compatible_apis) - [AWS SDK for Rust: Using S3-Compatible APIs with Other Clouds](https://rup12.net/posts/s3-api-compatibility-is-awesome)
 * [2026-03-09, 18:52:35](https://lobste.rs/s/flbwoi/ghostty_1_3_0) - [Ghostty 1.3.0](https://ghostty.org/docs/install/release-notes/1-3-0)
 * [2026-03-09, 18:04:05](https://lobste.rs/s/nkmxnp/price_checking_zerocopy_s_zero_cost) - [Price-Checking Zerocopy's Zero Cost Abstractions](https://jack.wrenn.fyi/blog/price-check/)
