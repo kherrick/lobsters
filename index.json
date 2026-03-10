@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-10, 16:25:58",
+      "https://lobste.rs/s/lmjmig/ruby_users_forum_february_march_update"
+    ],
+    [
+      "Ruby Users Forum February–March Update",
+      "https://www.rubyforum.org/t/monthly-update-february-wrap-up-march-preview/177/2"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 15:45:04",
+      "https://lobste.rs/s/ysvfji/source_available_projects_their_ai"
+    ],
+    [
+      "Source-available projects and their AI contribution policies",
+      "https://theconsensus.dev/p/2026/03/02/source-available-projects-and-their-ai-contribution-policies.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 15:42:09",
+      "https://lobste.rs/s/lyktdk/tony_hoare_1934_2026"
+    ],
+    [
+      "Tony Hoare (1934-2026)",
+      "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 14:05:15",
       "https://lobste.rs/s/5mf3cb/rebasing_magit"
     ],
@@ -61,12 +91,12 @@
   ],
   [
     [
-      "2026-03-10, 08:56:02",
-      "https://lobste.rs/s/evjtiq/lambda_calculus_explorer"
+      "2026-03-10, 08:57:01",
+      "https://lobste.rs/s/0lbjbs/troubleshooting_bsd_tcp_network"
     ],
     [
-      "Lambda Calculus Explorer",
-      "http://kmicinski.com/cis352-s26/lambda-playground/"
+      "troubleshooting BSD TCP network performance: part 2 (fixing NetBSD)",
+      "https://omaera.org/wlog/tech/bsd_network_p2"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-03-09, 18:04:05",
-      "https://lobste.rs/s/nkmxnp/price_checking_zerocopy_s_zero_cost"
-    ],
-    [
-      "Price-Checking Zerocopy's Zero Cost Abstractions",
-      "https://jack.wrenn.fyi/blog/price-check/"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 17:24:53",
       "https://lobste.rs/s/k6vpjh/meta_s_renewed_commitment_jemalloc"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-03-09, 16:54:31",
-      "https://lobste.rs/s/kl1gd6/seccomp_unsafe_at_any_speed_2022"
-    ],
-    [
-      "seccomp — Unsafe at any speed (2022)",
-      "https://blog.habets.se/2022/03/seccomp-unsafe-at-any-speed.html"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 15:28:31",
       "https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host"
     ],
     [
       "Abusing .arpa, the TLD that isn’t supposed to host anything",
       "https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 14:01:44",
-      "https://lobste.rs/s/sd1rsy/i_don_t_know_if_my_job_will_still_exist_ten"
-    ],
-    [
-      "I don't know if my job will still exist in ten years",
-      "https://www.seangoedecke.com/will-my-job-still-exist/"
     ]
   ],
   [
