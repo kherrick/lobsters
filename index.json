@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 20:12:41",
+      "https://lobste.rs/s/zzjjyo/llm_neuroanatomy_how_i_topped_ai"
+    ],
+    [
+      "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
+      "https://dnhkng.github.io/posts/rys/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 19:49:53",
       "https://lobste.rs/s/ta3jjk/risc_v_is_sloooow"
     ],
@@ -227,16 +237,6 @@
     [
       "Your LLM Doesn't Write Correct Code. It Writes Plausible Code",
       "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 10:52:19",
-      "https://lobste.rs/s/o8vbb7/production_query_plans_without"
-    ],
-    [
-      "Production query plans without production data",
-      "https://boringsql.com/posts/portable-stats/"
     ]
   ],
   [
