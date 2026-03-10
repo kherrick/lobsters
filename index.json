@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-10, 11:38:07",
+      "https://lobste.rs/s/izdkzi/tcxo_failure_analysis"
+    ],
+    [
+      "TCXO failure analysis",
+      "https://serd.es/2026/03/06/TCXO-failure-analysis.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 10:07:13",
+      "https://lobste.rs/s/vkxmwj/redox_os_has_adopted_certificate_origin"
+    ],
+    [
+      "Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy",
+      "https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 10:06:13",
       "https://lobste.rs/s/qfkqct/working_decentralize_fedcm"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-09, 14:47:32",
-      "https://lobste.rs/s/bv55sb/removing_recursion_via_explicit"
-    ],
-    [
-      "Removing recursion via explicit callstack simulation",
-      "https://jnkr.tech/blog/removing-recursion"
-    ]
-  ],
-  [
-    [
       "2026-03-09, 14:01:44",
       "https://lobste.rs/s/sd1rsy/i_don_t_know_if_my_job_will_still_exist_ten"
     ],
@@ -237,16 +247,6 @@
     [
       "Returning To Rails in 2026",
       "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-03-08, 16:31:00",
-      "https://lobste.rs/s/j17fxk/lightweight_protocol_assert_authorship"
-    ],
-    [
-      "Lightweight protocol to assert authorship of content and vouch for humanity of others",
-      "https://codeberg.org/robida/human.json"
     ]
   ]
 ]
