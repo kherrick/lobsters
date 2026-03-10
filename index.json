@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-03-10, 03:44:33",
-      "https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck"
+      "2026-03-10, 04:29:56",
+      "https://lobste.rs/s/baqt4i/pwning_netbsd_aarch64_arm"
     ],
     [
-      "The Reviewer Isn't the Bottleneck",
-      "https://rishi.baldawa.com/posts/review-isnt-the-bottleneck/"
+      "pwning NetBSD-aarch64 ARM",
+      "https://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20260308_1932.html"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Do the Illegible",
       "https://ashwinsundar.com/posts/legibility-and-programming/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 00:28:30",
+      "https://lobste.rs/s/lqrai2/freebsd_14_4_release_announcement"
+    ],
+    [
+      "FreeBSD 14.4-RELEASE Announcement",
+      "https://www.freebsd.org/releases/14.4R/announce/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Returning To Rails in 2026",
       "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 09:43:51",
-      "https://lobste.rs/s/6pvtem/ai_will_fuck_you_up_if_you_re_not_on_board"
-    ],
-    [
-      "AI will fuck you up if you’re not on board",
-      "https://rmoff.net/2026/03/06/ai-will-fuck-you-up-if-youre-not-on-board/"
     ]
   ],
   [
