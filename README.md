@@ -4,6 +4,7 @@
 * [2026-03-10, 03:27:45](https://lobste.rs/s/ivb0bn/nextvi_4_0_small_hackable_vi_ex_editor_with) - [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi)
 * [2026-03-10, 03:01:00](https://lobste.rs/s/apygc2/first_hacked_emacs_package) - [First (?) hacked Emacs package](https://old.reddit.com/r/emacs/comments/1rowm5i/first_hacked_emacs_package/)
 * [2026-03-10, 02:32:31](https://lobste.rs/s/ckr3r2/do_illegible) - [Do the Illegible](https://ashwinsundar.com/posts/legibility-and-programming/)
+* [2026-03-10, 00:28:30](https://lobste.rs/s/lqrai2/freebsd_14_4_release_announcement) - [FreeBSD 14.4-RELEASE Announcement](https://www.freebsd.org/releases/14.4R/announce/)
 * [2026-03-09, 22:27:20](https://lobste.rs/s/q60htr/jslinux_now_supports_x86_64) - [JSLinux now supports x86_64](https://bellard.org/jslinux/)
 * [2026-03-09, 19:02:27](https://lobste.rs/s/0r64cv/aws_sdk_for_rust_using_s3_compatible_apis) - [AWS SDK for Rust: Using S3-Compatible APIs with Other Clouds](https://rup12.net/posts/s3-api-compatibility-is-awesome)
 * [2026-03-09, 18:52:35](https://lobste.rs/s/flbwoi/ghostty_1_3_0) - [Ghostty 1.3.0](https://ghostty.org/docs/install/release-notes/1-3-0)
@@ -24,7 +25,6 @@
 * [2026-03-09, 09:43:51](https://lobste.rs/s/6pvtem/ai_will_fuck_you_up_if_you_re_not_on_board) - [AI will fuck you up if you’re not on board](https://rmoff.net/2026/03/06/ai-will-fuck-you-up-if-youre-not-on-board/)
 * [2026-03-08, 23:58:14](https://lobste.rs/s/wevip9/webpki_you) - [WebPKI and You](https://blog.brycekerley.net/2026/03/08/webpki-and-you.html)
 * [2026-03-08, 16:31:00](https://lobste.rs/s/j17fxk/lightweight_protocol_assert_authorship) - [Lightweight protocol to assert authorship of content and vouch for humanity of others](https://codeberg.org/robida/human.json)
-* [2026-03-08, 11:10:14](https://lobste.rs/s/kgpyat/put_zip_code_first) - [Put the ZIP code first](https://zipcodefirst.com/)
 
 ## [Archives](archives/index.md)
 
