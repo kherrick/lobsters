@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-10, 16:51:20",
+      "https://lobste.rs/s/j4wpft/load_bearing_walls"
+    ],
+    [
+      "Load-Bearing Walls",
+      "https://brianschrader.com/archive/load-bearing-walls/"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 16:25:58",
       "https://lobste.rs/s/lmjmig/ruby_users_forum_february_march_update"
     ],
@@ -27,6 +37,16 @@
     [
       "Tony Hoare (1934-2026)",
       "https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 14:25:25",
+      "https://lobste.rs/s/t5dvs5/amazon_holds_engineering_meeting_about"
+    ],
+    [
+      "Amazon holds engineering meeting about GenAI based outages",
+      "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Meta’s Renewed Commitment to jemalloc",
       "https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 17:11:41",
-      "https://lobste.rs/s/yg9m2q/video_conferencing_with_postgres"
-    ],
-    [
-      "Video Conferencing with Postgres",
-      "https://planetscale.com/blog/video-conferencing-with-postgres"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 15:28:31",
-      "https://lobste.rs/s/hsegku/abusing_arpa_tld_isn_t_supposed_host"
-    ],
-    [
-      "Abusing .arpa, the TLD that isn’t supposed to host anything",
-      "https://www.infoblox.com/blog/threat-intelligence/abusing-arpa-the-tld-that-isnt-supposed-to-host-anything/"
     ]
   ],
   [
