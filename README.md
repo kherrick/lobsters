@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-10, 19:49:53](https://lobste.rs/s/ta3jjk/risc_v_is_sloooow) - [RISC-V is sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 18:53:19](https://lobste.rs/s/8goxn3/llms_are_bad_at_vibing_specifications) - [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/)
 * [2026-03-10, 16:45:35](https://lobste.rs/s/ktzbfa/i_built_programming_language_using) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 * [2026-03-10, 15:45:04](https://lobste.rs/s/ysvfji/source_available_projects_their_ai) - [Source-available projects and their AI contribution policies](https://theconsensus.dev/p/2026/03/02/source-available-projects-and-their-ai-contribution-policies.html)
@@ -21,7 +22,6 @@
 * [2026-03-10, 02:44:13](https://lobste.rs/s/f9fepw/spacetimedb_short_technical_review) - [SpacetimeDB: a short technical review](https://strn.cat/w/articles/spacetime/)
 * [2026-03-10, 02:32:31](https://lobste.rs/s/ckr3r2/do_illegible) - [Do the Illegible](https://ashwinsundar.com/posts/legibility-and-programming/)
 * [2026-03-09, 18:52:35](https://lobste.rs/s/flbwoi/ghostty_1_3_0) - [Ghostty 1.3.0](https://ghostty.org/docs/install/release-notes/1-3-0)
-* [2026-03-09, 17:24:53](https://lobste.rs/s/k6vpjh/meta_s_renewed_commitment_jemalloc) - [Meta’s Renewed Commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 * [2026-03-09, 13:55:14](https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it) - [Your LLM Doesn't Write Correct Code. It Writes Plausible Code](https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code)
 * [2026-03-09, 10:52:19](https://lobste.rs/s/o8vbb7/production_query_plans_without) - [Production query plans without production data](https://boringsql.com/posts/portable-stats/)
 * [2026-03-09, 10:33:30](https://lobste.rs/s/jreqtw/returning_rails_2026) - [Returning To Rails in 2026](https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/)
