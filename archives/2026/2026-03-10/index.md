@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 10:06:13](https://lobste.rs/s/qfkqct/working_decentralize_fedcm) - [Working to Decentralize FedCM](https://atproto.com/blog/working-to-decentralize-fedcm)
+* [2026-03-10, 08:57:01](https://lobste.rs/s/0lbjbs/troubleshooting_bsd_tcp_network) - [troubleshooting BSD TCP network performance: part 2 (fixing NetBSD)](https://omaera.org/wlog/tech/bsd_network_p2)
+* [2026-03-10, 08:56:02](https://lobste.rs/s/evjtiq/lambda_calculus_explorer) - [Lambda Calculus Explorer](http://kmicinski.com/cis352-s26/lambda-playground/)
 * [2026-03-10, 08:51:15](https://lobste.rs/s/izprt4/evi_hard_fork_vim) - [EVi, a hard-fork of Vim](https://codeberg.org/NerdNextDoor/evi)
 * [2026-03-10, 08:47:35](https://lobste.rs/s/lsjk8m/dependency_tracking_is_hard) - [Dependency Tracking is Hard](https://daniel.haxx.se/blog/2026/03/10/dependency-tracking-is-hard/)
 * [2026-03-10, 05:30:30](https://lobste.rs/s/eh90sq/ddr4_sdram_initialization_training) - [DDR4 SDRAM - Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
