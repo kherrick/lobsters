@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-10, 08:51:15](https://lobste.rs/s/izprt4/evi_hard_fork_vim) - [EVi, a hard-fork of Vim](https://codeberg.org/NerdNextDoor/evi)
+* [2026-03-10, 08:47:35](https://lobste.rs/s/lsjk8m/dependency_tracking_is_hard) - [Dependency Tracking is Hard](https://daniel.haxx.se/blog/2026/03/10/dependency-tracking-is-hard/)
 * [2026-03-10, 05:30:30](https://lobste.rs/s/eh90sq/ddr4_sdram_initialization_training) - [DDR4 SDRAM - Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
-* [2026-03-10, 04:29:56](https://lobste.rs/s/baqt4i/pwning_netbsd_aarch64_arm) - [pwning NetBSD-aarch64 ARM](https://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20260308_1932.html)
-* [2026-03-10, 03:44:33](https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck) - [The Reviewer Isn't the Bottleneck](https://rishi.baldawa.com/posts/review-isnt-the-bottleneck/)
 * [2026-03-10, 03:27:45](https://lobste.rs/s/ivb0bn/nextvi_4_0_small_hackable_vi_ex_editor_with) - [Nextvi 4.0 – A small, hackable vi/ex editor with an optional patch system](https://github.com/kyx0r/nextvi)
 * [2026-03-10, 03:01:00](https://lobste.rs/s/apygc2/first_hacked_emacs_package) - [First (?) hacked Emacs package](https://old.reddit.com/r/emacs/comments/1rowm5i/first_hacked_emacs_package/)
 * [2026-03-10, 02:44:13](https://lobste.rs/s/f9fepw/spacetimedb_short_technical_review) - [SpacetimeDB: a short technical review](https://strn.cat/w/articles/spacetime/)

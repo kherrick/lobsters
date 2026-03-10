@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 08:51:15](https://lobste.rs/s/izprt4/evi_hard_fork_vim) - [EVi, a hard-fork of Vim](https://codeberg.org/NerdNextDoor/evi)
+* [2026-03-10, 08:47:35](https://lobste.rs/s/lsjk8m/dependency_tracking_is_hard) - [Dependency Tracking is Hard](https://daniel.haxx.se/blog/2026/03/10/dependency-tracking-is-hard/)
 * [2026-03-10, 05:30:30](https://lobste.rs/s/eh90sq/ddr4_sdram_initialization_training) - [DDR4 SDRAM - Initialization, Training and Calibration](https://www.systemverilog.io/design/ddr4-initialization-and-calibration/)
 * [2026-03-10, 04:29:56](https://lobste.rs/s/baqt4i/pwning_netbsd_aarch64_arm) - [pwning NetBSD-aarch64 ARM](https://www.feyrer.de/NetBSD/bx/blosxom.cgi/nb_20260308_1932.html)
 * [2026-03-10, 03:44:33](https://lobste.rs/s/lt5wqs/reviewer_isn_t_bottleneck) - [The Reviewer Isn't the Bottleneck](https://rishi.baldawa.com/posts/review-isnt-the-bottleneck/)
