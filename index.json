@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-11, 10:58:59",
+      "https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking"
+    ],
+    [
+      "Why should we have user age tracking in Operating Systems and websites?",
+      "https://wiki.alcidesfonseca.com/blog/age-verification-in-operating-systems-and-the-internet/"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 09:18:52",
       "https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug"
     ],
@@ -87,16 +97,6 @@
     [
       "Enamored with Macy",
       "https://addisoncrump.info/research/enamored-with-macy/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 21:41:15",
-      "https://lobste.rs/s/imwkxe/unions_merged_into_dotnet_11_preview_3"
-    ],
-    [
-      "Unions merged into dotnet 11 preview 3",
-      "https://github.com/dotnet/csharplang/blob/main/proposals/unions.md"
     ]
   ],
   [
