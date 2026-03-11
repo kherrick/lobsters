@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 18:06:57](https://lobste.rs/s/vb7ipx/my_postgresql_database_got_nuked_lol) - [My PostgreSQL database got nuked lol](https://akselmo.dev/posts/they-broke-my-server/)
+* [2026-03-11, 18:04:41](https://lobste.rs/s/vjsm2q/go_fix_inline_source_level_inliner) - [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)
+* [2026-03-11, 17:20:13](https://lobste.rs/s/ndtuji/using_unicode_half_stars_symbols_ratings) - [Using Unicode Half-Stars Symbols in Ratings](https://hyperborea.org/tech-tips/half-stars/)
 * [2026-03-11, 16:20:45](https://lobste.rs/s/t43mh5/okmain_you_have_image_you_want_colour) - [Okmain: you have an image but you want a colour](https://dgroshev.com/blog/okmain/)
 * [2026-03-11, 16:07:15](https://lobste.rs/s/ei0ans/temporal_9_year_journey_fix_time) - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 * [2026-03-11, 16:05:49](https://lobste.rs/s/ggify2/openbsd_ext4fs_update) - [OpenBSD ext4fs update](https://www.kmx.io/blog/openbsd-ext4fs-update)
