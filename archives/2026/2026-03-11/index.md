@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-11](index.md)
 
+* [2026-03-11, 08:33:31](https://lobste.rs/s/dhk0do/code_reviews_do_find_bugs) - [Code reviews do find bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
+* [2026-03-11, 08:11:35](https://lobste.rs/s/1911az/c_26_safety_features_won_t_safe_you) - [C++26 safety features won't safe you](https://lucisqr.substack.com/p/c26-safety-features-wont-save-you)
 * [2026-03-11, 04:14:33](https://lobste.rs/s/5vuaul/state_allocators_2026) - [The State of Allocators in 2026](https://cetra3.github.io/blog/state-of-allocators-2026/)
 * [2026-03-11, 03:07:37](https://lobste.rs/s/e8lebp/u_237c_is_azimuth) - [U+237C is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
 * [2026-03-11, 02:13:47](https://lobste.rs/s/ev2hsx/type_resolution_redesign_with_language) - [Type resolution redesign, with language changes to taste](https://ziglang.org/devlog/2026/#2026-03-10)

@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-11, 04:14:33](https://lobste.rs/s/5vuaul/state_allocators_2026) - [The State of Allocators in 2026](https://cetra3.github.io/blog/state-of-allocators-2026/)
+* [2026-03-11, 08:33:31](https://lobste.rs/s/dhk0do/code_reviews_do_find_bugs) - [Code reviews do find bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
+* [2026-03-11, 08:11:35](https://lobste.rs/s/1911az/c_26_safety_features_won_t_safe_you) - [C++26 safety features won't safe you](https://lucisqr.substack.com/p/c26-safety-features-wont-save-you)
 * [2026-03-11, 03:07:37](https://lobste.rs/s/e8lebp/u_237c_is_azimuth) - [U+237C is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
 * [2026-03-11, 02:13:47](https://lobste.rs/s/ev2hsx/type_resolution_redesign_with_language) - [Type resolution redesign, with language changes to taste](https://ziglang.org/devlog/2026/#2026-03-10)
 * [2026-03-11, 01:53:01](https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
@@ -12,7 +13,6 @@
 * [2026-03-10, 20:12:41](https://lobste.rs/s/zzjjyo/llm_neuroanatomy_how_i_topped_ai) - [LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight](https://dnhkng.github.io/posts/rys/)
 * [2026-03-10, 19:49:53](https://lobste.rs/s/ta3jjk/risc_v_is_sloooow) - [RISC-V is sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 18:53:19](https://lobste.rs/s/8goxn3/llms_are_bad_at_vibing_specifications) - [LLMs are bad at vibing specifications](https://buttondown.com/hillelwayne/archive/llms-are-bad-at-vibing-specifications/)
-* [2026-03-10, 16:45:35](https://lobste.rs/s/ktzbfa/i_built_programming_language_using) - [I built a programming language using Claude Code](https://ankursethi.com/blog/programming-language-claude-code/)
 * [2026-03-10, 15:45:04](https://lobste.rs/s/ysvfji/source_available_projects_their_ai) - [Source-available projects and their AI contribution policies](https://theconsensus.dev/p/2026/03/02/source-available-projects-and-their-ai-contribution-policies.html)
 * [2026-03-10, 15:42:09](https://lobste.rs/s/lyktdk/tony_hoare_1934_2026) - [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 * [2026-03-10, 14:25:25](https://lobste.rs/s/t5dvs5/amazon_holds_engineering_meeting_about) - [Amazon holds engineering meeting about GenAI based outages](https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/)
