@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-11, 01:53:01",
+      "https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving"
+    ],
+    [
+      "Writing my own text editor, and daily-driving it",
+      "https://blog.jsbarretto.com/post/text-editor"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 22:58:43",
+      "https://lobste.rs/s/1ygngg/embrace_uncertainty"
+    ],
+    [
+      "Embrace the uncertainty",
+      "https://brittanyellich.com/embrace-the-uncertainty"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 22:38:37",
       "https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code"
     ],
@@ -17,6 +37,16 @@
     [
       "Enamored with Macy",
       "https://addisoncrump.info/research/enamored-with-macy/"
+    ]
+  ],
+  [
+    [
+      "2026-03-10, 21:41:15",
+      "https://lobste.rs/s/imwkxe/unions_merged_into_dotnet_11_preview_3"
+    ],
+    [
+      "Unions merged into dotnet 11 preview 3",
+      "https://github.com/dotnet/csharplang/blob/main/proposals/unions.md"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-03-10, 03:01:00",
-      "https://lobste.rs/s/apygc2/first_hacked_emacs_package"
-    ],
-    [
-      "First (?) hacked Emacs package",
-      "https://old.reddit.com/r/emacs/comments/1rowm5i/first_hacked_emacs_package/"
-    ]
-  ],
-  [
-    [
       "2026-03-10, 02:32:31",
       "https://lobste.rs/s/ckr3r2/do_illegible"
     ],
@@ -227,26 +247,6 @@
     [
       "Ghostty 1.3.0",
       "https://ghostty.org/docs/install/release-notes/1-3-0"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 13:55:14",
-      "https://lobste.rs/s/dnqcvh/your_llm_doesn_t_write_correct_code_it"
-    ],
-    [
-      "Your LLM Doesn't Write Correct Code. It Writes Plausible Code",
-      "https://blog.katanaquant.com/p/your-llm-doesnt-write-correct-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-09, 10:33:30",
-      "https://lobste.rs/s/jreqtw/returning_rails_2026"
-    ],
-    [
-      "Returning To Rails in 2026",
-      "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/"
     ]
   ]
 ]
