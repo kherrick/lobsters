@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-11, 09:18:52](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug) - [SQLite WAL-reset database corruption bug](https://sqlite.org/wal.html#walresetbug)
 * [2026-03-11, 08:33:31](https://lobste.rs/s/dhk0do/code_reviews_do_find_bugs) - [Code reviews do find bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
 * [2026-03-11, 08:11:35](https://lobste.rs/s/1911az/c_26_safety_features_won_t_safe_you) - [C++26 safety features won't safe you](https://lucisqr.substack.com/p/c26-safety-features-wont-save-you)
 * [2026-03-11, 03:07:37](https://lobste.rs/s/e8lebp/u_237c_is_azimuth) - [U+237C is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
@@ -8,7 +9,6 @@
 * [2026-03-10, 23:07:47](https://lobste.rs/s/c3dfjr/cellpond_spatial_programming_without) - [Cellpond: Spatial programming without escape](https://www.youtube.com/watch?v=eQgxFuw8f1U)
 * [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
 * [2026-03-10, 22:36:45](https://lobste.rs/s/6ctfpa/enamored_with_macy) - [Enamored with Macy](https://addisoncrump.info/research/enamored-with-macy/)
-* [2026-03-10, 21:41:15](https://lobste.rs/s/imwkxe/unions_merged_into_dotnet_11_preview_3) - [Unions merged into dotnet 11 preview 3](https://github.com/dotnet/csharplang/blob/main/proposals/unions.md)
 * [2026-03-10, 21:12:44](https://lobste.rs/s/wvewpi/debian_decides_not_decide_on_ai_generated) - [Debian decides not to decide on AI-generated contributions](https://lwn.net/SubscriberLink/1061544/125f911834966dd0/)
 * [2026-03-10, 20:12:41](https://lobste.rs/s/zzjjyo/llm_neuroanatomy_how_i_topped_ai) - [LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight](https://dnhkng.github.io/posts/rys/)
 * [2026-03-10, 19:49:53](https://lobste.rs/s/ta3jjk/risc_v_is_sloooow) - [RISC-V is sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
