@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2026-03-10, 21:41:15",
+      "https://lobste.rs/s/imwkxe/unions_merged_into_dotnet_11_preview_3"
+    ],
+    [
+      "Unions merged into dotnet 11 preview 3",
+      "https://github.com/dotnet/csharplang/blob/main/proposals/unions.md"
+    ]
+  ],
+  [
+    [
       "2026-03-10, 21:12:44",
       "https://lobste.rs/s/wvewpi/debian_decides_not_decide_on_ai_generated"
     ],
@@ -167,16 +177,6 @@
     [
       "Rebasing in Magit",
       "https://entropicthoughts.com/rebasing-in-magit"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 12:55:54",
-      "https://lobste.rs/s/9nzeu7/madblog_turn_markdown_folder_into"
-    ],
-    [
-      "Madblog: Turn a Markdown folder into a federated blog",
-      "https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown"
     ]
   ],
   [
