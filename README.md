@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-11, 22:16:55](https://lobste.rs/s/6lqnhh/lobsters_interview_with_ngoldbaum) - [Lobsters Interview with ngoldbaum](https://alexalejandre.com/programming/interview-with-ngoldbaum/)
 * [2026-03-11, 21:25:23](https://lobste.rs/s/wxk0ka/on_need_for_understanding) - [On The Need For Understanding](https://blog.information-superhighway.net/on-the-need-for-understanding)
 * [2026-03-11, 18:06:57](https://lobste.rs/s/vb7ipx/my_postgresql_database_got_nuked_lol) - [My PostgreSQL database got nuked lol](https://akselmo.dev/posts/they-broke-my-server/)
 * [2026-03-11, 18:04:41](https://lobste.rs/s/vjsm2q/go_fix_inline_source_level_inliner) - [//go:fix inline and the source-level inliner](https://go.dev/blog/inliner)
@@ -16,7 +17,6 @@
 * [2026-03-11, 10:58:59](https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking) - [Why should we have user age tracking in Operating Systems and websites?](https://wiki.alcidesfonseca.com/blog/age-verification-in-operating-systems-and-the-internet/)
 * [2026-03-11, 09:18:52](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug) - [SQLite WAL-reset database corruption bug](https://sqlite.org/wal.html#walresetbug)
 * [2026-03-11, 08:33:31](https://lobste.rs/s/dhk0do/code_reviews_do_find_bugs) - [Code reviews do find bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
-* [2026-03-11, 08:11:35](https://lobste.rs/s/1911az/c_26_safety_features_won_t_save_you) - [C++26 safety features won't save you](https://lucisqr.substack.com/p/c26-safety-features-wont-save-you)
 * [2026-03-11, 03:07:37](https://lobste.rs/s/e8lebp/u_237c_is_azimuth) - [U+237C is Azimuth](https://ionathan.ch/2026/02/16/angzarr.html)
 * [2026-03-11, 02:13:47](https://lobste.rs/s/ev2hsx/type_resolution_redesign_with_language) - [Type resolution redesign, with language changes to taste](https://ziglang.org/devlog/2026/#2026-03-10)
 * [2026-03-11, 01:53:01](https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
