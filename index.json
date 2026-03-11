@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-11, 11:48:12",
+      "https://lobste.rs/s/eeib2q/full_source_binary_seed_bootstrap_guix"
+    ],
+    [
+      "Full-Source Binary Seed Bootstrap of the Guix System",
+      "https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/"
+    ]
+  ],
+  [
+    [
       "2026-03-11, 10:58:59",
       "https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking"
     ],
@@ -187,16 +197,6 @@
     [
       "Too Much Color",
       "https://www.keithcirkel.co.uk/too-much-color/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 11:51:21",
-      "https://lobste.rs/s/gh0mwq/nominal_types_webassembly"
-    ],
-    [
-      "nominal types in webassembly",
-      "https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly"
     ]
   ],
   [
