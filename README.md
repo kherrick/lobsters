@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-11, 02:13:47](https://lobste.rs/s/ev2hsx/type_resolution_redesign_with_language) - [Type resolution redesign, with language changes to taste](https://ziglang.org/devlog/2026/#2026-03-10)
 * [2026-03-11, 01:53:01](https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
+* [2026-03-10, 23:07:47](https://lobste.rs/s/c3dfjr/cellpond_spatial_programming_without) - [Cellpond: Spatial programming without escape](https://www.youtube.com/watch?v=eQgxFuw8f1U)
 * [2026-03-10, 22:58:43](https://lobste.rs/s/1ygngg/embrace_uncertainty) - [Embrace the uncertainty](https://brittanyellich.com/embrace-the-uncertainty)
 * [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
 * [2026-03-10, 22:36:45](https://lobste.rs/s/6ctfpa/enamored_with_macy) - [Enamored with Macy](https://addisoncrump.info/research/enamored-with-macy/)
@@ -18,9 +20,7 @@
 * [2026-03-10, 12:55:54](https://lobste.rs/s/9nzeu7/madblog_turn_markdown_folder_into) - [Madblog: Turn a Markdown folder into a federated blog](https://blog.fabiomanganiello.com/article/Madblog-federated-blogging-from-markdown)
 * [2026-03-10, 12:13:03](https://lobste.rs/s/cpqm9i/too_much_color) - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/)
 * [2026-03-10, 11:51:21](https://lobste.rs/s/gh0mwq/nominal_types_webassembly) - [nominal types in webassembly](https://wingolog.org/archives/2026/03/10/nominal-types-in-webassembly)
-* [2026-03-10, 11:38:07](https://lobste.rs/s/izdkzi/tcxo_failure_analysis) - [TCXO failure analysis](https://serd.es/2026/03/06/TCXO-failure-analysis.html)
 * [2026-03-10, 10:07:13](https://lobste.rs/s/vkxmwj/redox_os_has_adopted_certificate_origin) - [Redox OS has adopted a Certificate of Origin policy and a strict no-LLM policy](https://gitlab.redox-os.org/redox-os/redox/-/blob/master/CONTRIBUTING.md)
-* [2026-03-10, 08:53:12](https://lobste.rs/s/v6p9go/two_years_emacs_solo_35_modules_zero) - [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 * [2026-03-10, 08:51:15](https://lobste.rs/s/izprt4/evi_hard_fork_vim) - [EVi, a hard-fork of Vim](https://codeberg.org/NerdNextDoor/evi)
 * [2026-03-10, 08:47:35](https://lobste.rs/s/lsjk8m/dependency_tracking_is_hard) - [Dependency Tracking is Hard](https://daniel.haxx.se/blog/2026/03/10/dependency-tracking-is-hard/)
 * [2026-03-10, 02:32:31](https://lobste.rs/s/ckr3r2/do_illegible) - [Do the Illegible](https://ashwinsundar.com/posts/legibility-and-programming/)

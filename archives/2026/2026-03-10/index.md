@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-10](index.md)
 
+* [2026-03-10, 23:07:47](https://lobste.rs/s/c3dfjr/cellpond_spatial_programming_without) - [Cellpond: Spatial programming without escape](https://www.youtube.com/watch?v=eQgxFuw8f1U)
 * [2026-03-10, 22:58:43](https://lobste.rs/s/1ygngg/embrace_uncertainty) - [Embrace the uncertainty](https://brittanyellich.com/embrace-the-uncertainty)
 * [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
 * [2026-03-10, 22:36:45](https://lobste.rs/s/6ctfpa/enamored_with_macy) - [Enamored with Macy](https://addisoncrump.info/research/enamored-with-macy/)
