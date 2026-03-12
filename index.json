@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-12, 19:32:33",
+      "https://lobste.rs/s/uwaqnj/batching_redis_lookups_with_dataloader"
+    ],
+    [
+      "Batching Redis lookups with DataLoader and MGET",
+      "https://gajus.com/blog/batching-redis-lookups-with-dataloader-and-mget"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 19:19:34",
+      "https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys"
+    ],
+    [
+      "How do you manage SSH keys?",
+      "https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 18:29:15",
       "https://lobste.rs/s/8xccbo/on_making"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-03-11, 16:07:15",
-      "https://lobste.rs/s/ei0ans/temporal_9_year_journey_fix_time"
-    ],
-    [
-      "Temporal: The 9-Year Journey to Fix Time in JavaScript",
-      "https://bloomberg.github.io/js-blog/post/temporal/"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 16:00:20",
       "https://lobste.rs/s/bunmdv/faster_asin_was_hiding_plain_sight"
     ],
@@ -237,16 +247,6 @@
     [
       "Why should we have user age tracking in Operating Systems and websites?",
       "https://wiki.alcidesfonseca.com/blog/age-verification-in-operating-systems-and-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 09:18:52",
-      "https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug"
-    ],
-    [
-      "SQLite WAL-reset database corruption bug",
-      "https://sqlite.org/wal.html#walresetbug"
     ]
   ]
 ]
