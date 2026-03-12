@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-12, 09:31:01](https://lobste.rs/s/rz6gak/lowdown_manpage_support) - [Lowdown Manpage Support](https://kristaps.bsd.lv/lowdown/mdoc.html)
 * [2026-03-12, 09:25:16](https://lobste.rs/s/mcwe1g/claude_code_isn_t_going_replace_data) - [Claude Code isn’t going to replace data engineers (yet)](https://rmoff.net/2026/03/11/claude-code-isnt-going-to-replace-data-engineers-yet/)
 * [2026-03-12, 06:48:59](https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers) - [Parametricity, or Comptime is Bonkers](https://noelwelsh.com/posts/comptime-is-bonkers/)
 * [2026-03-12, 05:17:51](https://lobste.rs/s/wssz9m/grief_ai_split) - [Grief and the AI Split](https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/)
+* [2026-03-12, 03:37:14](https://lobste.rs/s/zzhh6z/i_ditched_elasticsearch_for_meilisearch) - [I Ditched Elasticsearch for Meilisearch](https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/)
 * [2026-03-12, 02:42:35](https://lobste.rs/s/wxxxuc/building_new_flash) - [Building a new Flash](https://bill.newgrounds.com/news/post/1607118)
 * [2026-03-12, 00:35:43](https://lobste.rs/s/g3qpeu/generative_ai_vegetarianism) - [Generative AI vegetarianism](https://sboots.ca/2026/03/11/generative-ai-vegetarianism/)
 * [2026-03-11, 23:54:29](https://lobste.rs/s/d2skzd/secure_communication_buried_news_app) - [Secure Communication, Buried In A News App](https://hackaday.com/2026/03/09/secure-communication-buried-in-a-news-app/)
@@ -13,7 +15,6 @@
 * [2026-03-11, 17:20:13](https://lobste.rs/s/ndtuji/using_unicode_half_stars_symbols_ratings) - [Using Unicode Half-Stars Symbols in Ratings](https://hyperborea.org/tech-tips/half-stars/)
 * [2026-03-11, 16:20:45](https://lobste.rs/s/t43mh5/okmain_you_have_image_you_want_colour) - [Okmain: you have an image but you want a colour](https://dgroshev.com/blog/okmain/)
 * [2026-03-11, 16:07:15](https://lobste.rs/s/ei0ans/temporal_9_year_journey_fix_time) - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
-* [2026-03-11, 16:05:49](https://lobste.rs/s/ggify2/openbsd_ext4fs_update) - [OpenBSD ext4fs update](https://www.kmx.io/blog/openbsd-ext4fs-update)
 * [2026-03-11, 16:00:20](https://lobste.rs/s/bunmdv/faster_asin_was_hiding_plain_sight) - [Faster asin() Was Hiding In Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
 * [2026-03-11, 15:01:23](https://lobste.rs/s/wrpqt6/why_i_still_blog_why_future_blogging_is) - [Why I Still Blog — and Why the Future of Blogging Is Connected](https://www.ssp.sh/blog/why-i-still-blog/)
 * [2026-03-11, 14:06:36](https://lobste.rs/s/tyeo20/moonforge_yocto_based_linux_os) - [Moonforge, A Yocto-Based Linux OS](https://www.igalia.com/2026/03/09/Introducing-Moonforge-A-Yocto-Based-Linux-OS.html)
@@ -23,7 +24,6 @@
 * [2026-03-11, 08:33:31](https://lobste.rs/s/dhk0do/code_reviews_do_find_bugs) - [Code reviews do find bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
 * [2026-03-11, 01:53:01](https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
 * [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
-* [2026-03-10, 19:49:53](https://lobste.rs/s/ta3jjk/risc_v_is_sloooow) - [RISC-V is sloooow](https://marcin.juszkiewicz.com.pl/2026/03/10/risc-v-is-sloooow/)
 * [2026-03-10, 15:42:09](https://lobste.rs/s/lyktdk/tony_hoare_1934_2026) - [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 
 ## [Archives](archives/index.md)
