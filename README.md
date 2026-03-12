@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-12, 11:05:29](https://lobste.rs/s/z5qqob/announcing_mercurial_sprint_london_may) - [Announcing Mercurial sprint in London, May 27-29th](https://mercurial-scm.org/news/2026/0001-london-sprint)
+* [2026-03-12, 10:00:42](https://lobste.rs/s/sgzjhu/intune_compromise_allows_attackers) - [InTune Compromise Allows Attackers to Remotely Wipe Medical Supply Company Devices](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 * [2026-03-12, 09:31:01](https://lobste.rs/s/rz6gak/lowdown_manpage_support) - [Lowdown Manpage Support](https://kristaps.bsd.lv/lowdown/mdoc.html)
 * [2026-03-12, 09:25:16](https://lobste.rs/s/mcwe1g/claude_code_isn_t_going_replace_data) - [Claude Code isn’t going to replace data engineers (yet)](https://rmoff.net/2026/03/11/claude-code-isnt-going-to-replace-data-engineers-yet/)
 * [2026-03-12, 06:48:59](https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers) - [Parametricity, or Comptime is Bonkers](https://noelwelsh.com/posts/comptime-is-bonkers/)
@@ -16,7 +18,6 @@
 * [2026-03-11, 16:20:45](https://lobste.rs/s/t43mh5/okmain_you_have_image_you_want_colour) - [Okmain: you have an image but you want a colour](https://dgroshev.com/blog/okmain/)
 * [2026-03-11, 16:07:15](https://lobste.rs/s/ei0ans/temporal_9_year_journey_fix_time) - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 * [2026-03-11, 16:00:20](https://lobste.rs/s/bunmdv/faster_asin_was_hiding_plain_sight) - [Faster asin() Was Hiding In Plain Sight](https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/)
-* [2026-03-11, 15:01:23](https://lobste.rs/s/wrpqt6/why_i_still_blog_why_future_blogging_is) - [Why I Still Blog — and Why the Future of Blogging Is Connected](https://www.ssp.sh/blog/why-i-still-blog/)
 * [2026-03-11, 14:06:36](https://lobste.rs/s/tyeo20/moonforge_yocto_based_linux_os) - [Moonforge, A Yocto-Based Linux OS](https://www.igalia.com/2026/03/09/Introducing-Moonforge-A-Yocto-Based-Linux-OS.html)
 * [2026-03-11, 13:59:37](https://lobste.rs/s/eu5uiz/fully_snapshotable_wasm_interpreter) - [A fully snapshotable Wasm interpreter](https://github.com/friendlymatthew/gabagool?tab=readme-ov-file#gabagool)
 * [2026-03-11, 10:58:59](https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking) - [Why should we have user age tracking in Operating Systems and websites?](https://wiki.alcidesfonseca.com/blog/age-verification-in-operating-systems-and-the-internet/)
@@ -24,7 +25,6 @@
 * [2026-03-11, 08:33:31](https://lobste.rs/s/dhk0do/code_reviews_do_find_bugs) - [Code reviews do find bugs](https://entropicthoughts.com/code-reviews-do-find-bugs)
 * [2026-03-11, 01:53:01](https://lobste.rs/s/ufczx8/writing_my_own_text_editor_daily_driving) - [Writing my own text editor, and daily-driving it](https://blog.jsbarretto.com/post/text-editor)
 * [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
-* [2026-03-10, 15:42:09](https://lobste.rs/s/lyktdk/tony_hoare_1934_2026) - [Tony Hoare (1934-2026)](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 
 ## [Archives](archives/index.md)
 
