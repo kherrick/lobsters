@@ -12,6 +12,7 @@
 * [2026-03-12, 16:28:03](https://lobste.rs/s/fzgcjh/arcaos_5_1_2_now_available_os_2_warp) - [ArcaOS 5.1.2 now available (OS/2 Warp)](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
 * [2026-03-12, 16:17:40](https://lobste.rs/s/eng6mr/dreaming_ten_year_computer) - [Dreaming of a ten-year computer](https://alexwlchan.net/2026/ten-year-computer/)
 * [2026-03-12, 16:03:54](https://lobste.rs/s/wxfznm/malus_clean_room_as_service) - [MALUS - Clean Room as a Service](https://malus.sh/)
+* [2026-03-12, 14:20:29](https://lobste.rs/s/xfpo1g/how_far_can_you_go_with_ix_route_servers) - [How far can you go with IX Route Servers only?](https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers)
 * [2026-03-12, 14:01:38](https://lobste.rs/s/saneyn/emacs_internal_03_tagged_union_tagged) - [Emacs Internal #03: Tagged Union, Tagged Pointer, and Poor Man's Inheritance](https://thecloudlet.github.io/blog/project/emacs-03/)
 * [2026-03-12, 11:05:29](https://lobste.rs/s/z5qqob/announcing_mercurial_sprint_london_may) - [Announcing Mercurial sprint in London, May 27-29th](https://mercurial-scm.org/news/2026/0001-london-sprint)
 * [2026-03-12, 10:00:42](https://lobste.rs/s/sgzjhu/intune_compromise_allows_attackers) - [InTune Compromise Allows Attackers to Remotely Wipe Medical Supply Company Devices](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
