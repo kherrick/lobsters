@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-12, 09:25:16",
+      "https://lobste.rs/s/mcwe1g/claude_code_isn_t_going_replace_data"
+    ],
+    [
+      "Claude Code isn’t going to replace data engineers (yet)",
+      "https://rmoff.net/2026/03/11/claude-code-isnt-going-to-replace-data-engineers-yet/"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 06:48:59",
       "https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2026-03-12, 03:37:14",
-      "https://lobste.rs/s/zzhh6z/i_ditched_elasticsearch_for_meilisearch"
+      "2026-03-12, 05:17:51",
+      "https://lobste.rs/s/wssz9m/grief_ai_split"
     ],
     [
-      "I Ditched Elasticsearch for Meilisearch",
-      "https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/"
+      "Grief and the AI Split",
+      "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Code reviews do find bugs",
       "https://entropicthoughts.com/code-reviews-do-find-bugs"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 03:07:37",
-      "https://lobste.rs/s/e8lebp/u_237c_is_azimuth"
-    ],
-    [
-      "U+237C is Azimuth",
-      "https://ionathan.ch/2026/02/16/angzarr.html"
     ]
   ],
   [
