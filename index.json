@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-12, 23:30:25",
+      "https://lobste.rs/s/efhaws/games_postscript_play_chess_against_your"
+    ],
+    [
+      "Games in PostScript - Play Chess Against Your Printer",
+      "https://www.youtube.com/watch?v=2YCATafErA8"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 20:12:06",
+      "https://lobste.rs/s/koymkj/guix_system_one_month_later"
+    ],
+    [
+      "Guix System - One Month Later",
+      "https://nemin.hu/guix-one-month-later.html"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 19:32:33",
       "https://lobste.rs/s/uwaqnj/batching_redis_lookups_with_dataloader"
     ],
@@ -77,16 +97,6 @@
     [
       "MALUS - Clean Room as a Service",
       "https://malus.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 14:20:29",
-      "https://lobste.rs/s/xfpo1g/how_far_can_you_go_with_ix_route_servers"
-    ],
-    [
-      "How far can you go with IX Route Servers only?",
-      "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A fully snapshotable Wasm interpreter",
       "https://github.com/friendlymatthew/gabagool?tab=readme-ov-file#gabagool"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 10:58:59",
-      "https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking"
-    ],
-    [
-      "Why should we have user age tracking in Operating Systems and websites?",
-      "https://wiki.alcidesfonseca.com/blog/age-verification-in-operating-systems-and-the-internet/"
     ]
   ]
 ]
