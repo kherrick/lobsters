@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-03-12, 14:20:29",
+      "https://lobste.rs/s/xfpo1g/how_far_can_you_go_with_ix_route_servers"
+    ],
+    [
+      "How far can you go with IX Route Servers only?",
+      "https://blog.benjojo.co.uk/post/how-far-can-you-get-with-ix-route-servers"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 11:05:29",
       "https://lobste.rs/s/z5qqob/announcing_mercurial_sprint_london_may"
     ],
@@ -207,16 +217,6 @@
     [
       "//go:fix inline and the source-level inliner",
       "https://go.dev/blog/inliner"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 16:20:45",
-      "https://lobste.rs/s/t43mh5/okmain_you_have_image_you_want_colour"
-    ],
-    [
-      "Okmain: you have an image but you want a colour",
-      "https://dgroshev.com/blog/okmain/"
     ]
   ],
   [
