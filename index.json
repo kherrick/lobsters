@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-12, 06:48:59",
+      "https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers"
+    ],
+    [
+      "Parametricity, or Comptime is Bonkers",
+      "https://noelwelsh.com/posts/comptime-is-bonkers/"
+    ]
+  ],
+  [
+    [
+      "2026-03-12, 03:37:14",
+      "https://lobste.rs/s/zzhh6z/i_ditched_elasticsearch_for_meilisearch"
+    ],
+    [
+      "I Ditched Elasticsearch for Meilisearch",
+      "https://anisafifi.com/blog/i-ditched-elasticsearch-for-meilisearch-heres-what-nobody-tells-you/"
+    ]
+  ],
+  [
+    [
       "2026-03-12, 02:42:35",
       "https://lobste.rs/s/wxxxuc/building_new_flash"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-03-11, 11:48:12",
-      "https://lobste.rs/s/eeib2q/full_source_binary_seed_bootstrap_guix"
-    ],
-    [
-      "Full-Source Binary Seed Bootstrap of the Guix System (2023)",
-      "https://guix.gnu.org/en/blog/2023/the-full-source-bootstrap-building-from-source-all-the-way-down/"
-    ]
-  ],
-  [
-    [
       "2026-03-11, 10:58:59",
       "https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking"
     ],
@@ -217,16 +227,6 @@
     [
       "AI should help us produce better code",
       "https://simonwillison.net/guides/agentic-engineering-patterns/better-code/"
-    ]
-  ],
-  [
-    [
-      "2026-03-10, 20:12:41",
-      "https://lobste.rs/s/zzjjyo/llm_neuroanatomy_how_i_topped_ai"
-    ],
-    [
-      "LLM Neuroanatomy: How I Topped the AI Leaderboard Without Changing a Single Weight",
-      "https://dnhkng.github.io/posts/rys/"
     ]
   ],
   [
