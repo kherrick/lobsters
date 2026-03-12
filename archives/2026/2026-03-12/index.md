@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 23:30:25](https://lobste.rs/s/efhaws/games_postscript_play_chess_against_your) - [Games in PostScript - Play Chess Against Your Printer](https://www.youtube.com/watch?v=2YCATafErA8)
+* [2026-03-12, 20:12:06](https://lobste.rs/s/koymkj/guix_system_one_month_later) - [Guix System - One Month Later](https://nemin.hu/guix-one-month-later.html)
 * [2026-03-12, 19:32:33](https://lobste.rs/s/uwaqnj/batching_redis_lookups_with_dataloader) - [Batching Redis lookups with DataLoader and MGET](https://gajus.com/blog/batching-redis-lookups-with-dataloader-and-mget)
 * [2026-03-12, 19:19:34](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys) - [How do you manage SSH keys?](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys)
 * [2026-03-12, 18:29:15](https://lobste.rs/s/8xccbo/on_making) - [On Making](https://beej.us/blog/data/ai-making/)
