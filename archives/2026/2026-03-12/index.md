@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-12](index.md)
 
+* [2026-03-12, 14:01:38](https://lobste.rs/s/saneyn/emacs_internal_03_tagged_union_tagged) - [Emacs Internal #03: Tagged Union, Tagged Pointer, and Poor Man's Inheritance](https://thecloudlet.github.io/blog/project/emacs-03/)
 * [2026-03-12, 11:05:29](https://lobste.rs/s/z5qqob/announcing_mercurial_sprint_london_may) - [Announcing Mercurial sprint in London, May 27-29th](https://mercurial-scm.org/news/2026/0001-london-sprint)
 * [2026-03-12, 10:00:42](https://lobste.rs/s/sgzjhu/intune_compromise_allows_attackers) - [InTune Compromise Allows Attackers to Remotely Wipe Medical Supply Company Devices](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 * [2026-03-12, 09:31:01](https://lobste.rs/s/rz6gak/lowdown_manpage_support) - [Lowdown Manpage Support](https://kristaps.bsd.lv/lowdown/mdoc.html)
