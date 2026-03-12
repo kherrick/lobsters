@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-12, 18:29:15](https://lobste.rs/s/8xccbo/on_making) - [On Making](https://beej.us/blog/data/ai-making/)
 * [2026-03-12, 17:33:35](https://lobste.rs/s/lle7ol/agent_shell_0_47_updates) - [agent-shell 0.47 updates](https://xenodium.com/agent-shell-0-47-1-updates)
 * [2026-03-12, 16:43:27](https://lobste.rs/s/zyt5uz/this_is_not_computer_for_you) - [This Is Not The Computer For You](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 * [2026-03-12, 16:28:03](https://lobste.rs/s/fzgcjh/arcaos_5_1_2_now_available_os_2_warp) - [ArcaOS 5.1.2 now available (OS/2 Warp)](https://www.arcanoae.com/arcaos-5-1-2-now-available/)
@@ -24,7 +25,6 @@
 * [2026-03-11, 13:59:37](https://lobste.rs/s/eu5uiz/fully_snapshotable_wasm_interpreter) - [A fully snapshotable Wasm interpreter](https://github.com/friendlymatthew/gabagool?tab=readme-ov-file#gabagool)
 * [2026-03-11, 10:58:59](https://lobste.rs/s/oyb3u8/why_should_we_have_user_age_tracking) - [Why should we have user age tracking in Operating Systems and websites?](https://wiki.alcidesfonseca.com/blog/age-verification-in-operating-systems-and-the-internet/)
 * [2026-03-11, 09:18:52](https://lobste.rs/s/mqpba7/sqlite_wal_reset_database_corruption_bug) - [SQLite WAL-reset database corruption bug](https://sqlite.org/wal.html#walresetbug)
-* [2026-03-10, 22:38:37](https://lobste.rs/s/tiktds/ai_should_help_us_produce_better_code) - [AI should help us produce better code](https://simonwillison.net/guides/agentic-engineering-patterns/better-code/)
 
 ## [Archives](archives/index.md)
 
