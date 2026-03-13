@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-13, 19:12:01](https://lobste.rs/s/eipd7u/good_old_pointers_2015) - [Good Old Pointers (2015)](https://medium.com/@rsx11/good-old-pointers-cfe8e2727e51)
 * [2026-03-13, 18:44:22](https://lobste.rs/s/rya8rs/marknote_1_5_released_for_kde) - [Marknote 1.5 released for KDE](https://blogs.kde.org/2026/03/13/marknote-1.5/)
 * [2026-03-13, 17:19:11](https://lobste.rs/s/btf0gu/software_bonkers) - [Software Bonkers](https://craigmod.com/essays/software_bonkers/)
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
@@ -24,7 +25,6 @@
 * [2026-03-12, 16:43:27](https://lobste.rs/s/zyt5uz/this_is_not_computer_for_you) - [This Is Not The Computer For You](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 * [2026-03-12, 16:17:40](https://lobste.rs/s/eng6mr/dreaming_ten_year_computer) - [Dreaming of a ten-year computer](https://alexwlchan.net/2026/ten-year-computer/)
 * [2026-03-12, 06:48:59](https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers) - [Parametricity, or Comptime is Bonkers](https://noelwelsh.com/posts/comptime-is-bonkers/)
-* [2026-03-11, 18:06:57](https://lobste.rs/s/vb7ipx/my_postgresql_database_got_nuked_lol) - [My PostgreSQL database got nuked lol](https://akselmo.dev/posts/they-broke-my-server/)
 
 ## [Archives](archives/index.md)
 
