@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-13, 10:25:04](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend)
 * [2026-03-13, 09:29:23](https://lobste.rs/s/3elkxf/well_being_times_algorithms) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
-* [2026-03-13, 09:25:09](https://lobste.rs/s/g0gzn3/vs_code_adds_autopilot_mode_moves_weekly) - [VS Code adds Autopilot mode and moves to a weekly release cycle](https://visualstudiomagazine.com/articles/2026/03/11/vs-code-1-111-debuts-weekly-stable-cadence-expands-agent-controls.aspx)
 * [2026-03-13, 06:37:56](https://lobste.rs/s/jn7yoi/best_darn_grid_shader_yet) - [The Best Darn Grid Shader (Yet)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
 * [2026-03-13, 06:01:40](https://lobste.rs/s/cbryfr/blog_mitigating_url_based_exfiltration) - [Blog: Mitigating URL-based Exfiltration in Gemini](https://bughunters.google.com/blog/mitigating-url-based-exfiltration-in-gemini)
 * [2026-03-13, 04:54:39](https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator) - [How to make your own static site generator](https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html)
