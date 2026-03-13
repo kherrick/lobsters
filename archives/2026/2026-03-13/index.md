@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
 * [2026-03-13, 20:40:29](https://lobste.rs/s/wbnpgw/conditional_impls) - [Conditional Impls](https://www.possiblerust.com/pattern/conditional-impls)
+* [2026-03-13, 20:39:22](https://lobste.rs/s/sbsszu/awash_revisionist_histories_about_apple) - [Awash in revisionist histories about Apple's web efforts, a look at the evidence](https://infrequently.org/2025/09/cupertinos-comforting-myths/)
 * [2026-03-13, 20:03:08](https://lobste.rs/s/4ji19h/rust_shined_over_python_for_my_cli_tool) - [Rust Shined Over Python for My CLI Tool](https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/)
 * [2026-03-13, 19:47:37](https://lobste.rs/s/i2xkrm/xml_is_cheap_dsl) - [XML is a cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-13, 19:12:01](https://lobste.rs/s/eipd7u/good_old_pointers_2015) - [Good Old Pointers (2015)](https://medium.com/@rsx11/good-old-pointers-cfe8e2727e51)
