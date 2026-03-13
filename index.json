@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-03-13, 18:44:22",
+      "https://lobste.rs/s/rya8rs/marknote_1_5_released_for_kde"
+    ],
+    [
+      "Marknote 1.5 released for KDE",
+      "https://blogs.kde.org/2026/03/13/marknote-1.5/"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 17:19:11",
       "https://lobste.rs/s/btf0gu/software_bonkers"
     ],
@@ -237,16 +247,6 @@
     [
       "This Is Not The Computer For You",
       "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 06:48:59",
-      "https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers"
-    ],
-    [
-      "Parametricity, or Comptime is Bonkers",
-      "https://noelwelsh.com/posts/comptime-is-bonkers/"
     ]
   ]
 ]
