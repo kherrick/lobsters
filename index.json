@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-13, 04:54:39",
+      "https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator"
+    ],
+    [
+      "How to make your own static site generator",
+      "https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 04:12:55",
+      "https://lobste.rs/s/gpwpji/learn_haskell_two_weeks"
+    ],
+    [
+      "Learn Haskell in Two Weeks",
+      "https://vitez.me/learn-haskell-in-two-weeks"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 03:54:26",
       "https://lobste.rs/s/x9znhg/plan_9_s_acme_un_terminal_text_based_guis"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-12, 09:25:16",
-      "https://lobste.rs/s/mcwe1g/claude_code_isn_t_going_replace_data"
-    ],
-    [
-      "Claude Code isn’t going to replace data engineers (yet)",
-      "https://rmoff.net/2026/03/11/claude-code-isnt-going-to-replace-data-engineers-yet/"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 06:48:59",
       "https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers"
     ],
@@ -227,16 +237,6 @@
     [
       "My PostgreSQL database got nuked lol",
       "https://akselmo.dev/posts/they-broke-my-server/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 16:00:20",
-      "https://lobste.rs/s/bunmdv/faster_asin_was_hiding_plain_sight"
-    ],
-    [
-      "Faster asin() Was Hiding In Plain Sight",
-      "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/"
     ]
   ],
   [
