@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-13, 17:19:11](https://lobste.rs/s/btf0gu/software_bonkers) - [Software Bonkers](https://craigmod.com/essays/software_bonkers/)
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
 * [2026-03-13, 15:17:02](https://lobste.rs/s/ehohsb/plumbing_everyday_magic) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com)
@@ -15,7 +16,6 @@
 * [2026-03-13, 04:12:55](https://lobste.rs/s/gpwpji/learn_haskell_two_weeks) - [Learn Haskell in Two Weeks](https://vitez.me/learn-haskell-in-two-weeks)
 * [2026-03-13, 03:54:26](https://lobste.rs/s/x9znhg/plan_9_s_acme_un_terminal_text_based_guis) - [Plan 9's Acme: The Un-Terminal and Text-Based GUIs](https://www.danielmoch.com/posts/2025/01/acme/)
 * [2026-03-13, 03:09:23](https://lobste.rs/s/jow6ea/how_many_times_can_dvd_rw_be_rewritten) - [How Many Times Can a DVD±RW Be Rewritten?](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%c2%b1rw-be-rewritten-part-2-methodology-results/)
-* [2026-03-12, 23:30:25](https://lobste.rs/s/efhaws/games_postscript_play_chess_against_your) - [Games in PostScript - Play Chess Against Your Printer](https://www.youtube.com/watch?v=2YCATafErA8)
 * [2026-03-12, 20:12:06](https://lobste.rs/s/koymkj/guix_system_one_month_later) - [Guix System - One Month Later](https://nemin.hu/guix-one-month-later.html)
 * [2026-03-12, 19:19:34](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys) - [How do you manage SSH keys?](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys)
 * [2026-03-12, 18:29:15](https://lobste.rs/s/8xccbo/on_making) - [On Making](https://beej.us/blog/data/ai-making/)
