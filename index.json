@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-13, 15:17:52",
+      "https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio"
+    ],
+    [
+      "Reinventing Python's AsyncIO",
+      "https://blog.baro.dev/p/reinventing-pythons-asyncio"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 15:17:02",
+      "https://lobste.rs/s/ehohsb/plumbing_everyday_magic"
+    ],
+    [
+      "The Plumbing of Everyday Magic",
+      "https://plumbing-of-everyday-magic.hyperclay.com"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 15:16:55",
+      "https://lobste.rs/s/i6kerf/afim_academic_fraud_inclination_metric"
+    ],
+    [
+      "AFIM: Academic Fraud Inclination Metric",
+      "https://www.alexalemi.com/arxiv-metric/docs.html?page=readme"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 15:15:03",
+      "https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay"
+    ],
+    [
+      "Windows 11 after two decades of macOS: okay, but also awful",
+      "https://rakhim.exotext.com/windows-11-experience"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 14:08:08",
       "https://lobste.rs/s/hfypk8/how_use_storytelling_fit_inline_assembly"
     ],
@@ -71,16 +111,6 @@
   ],
   [
     [
-      "2026-03-13, 06:01:40",
-      "https://lobste.rs/s/cbryfr/blog_mitigating_url_based_exfiltration"
-    ],
-    [
-      "Blog: Mitigating URL-based Exfiltration in Gemini",
-      "https://bughunters.google.com/blog/mitigating-url-based-exfiltration-in-gemini"
-    ]
-  ],
-  [
-    [
       "2026-03-13, 04:54:39",
       "https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator"
     ],
@@ -127,16 +157,6 @@
     [
       "Games in PostScript - Play Chess Against Your Printer",
       "https://www.youtube.com/watch?v=2YCATafErA8"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 20:23:58",
-      "https://lobste.rs/s/gpbzcn/vite_8_0_is_out"
-    ],
-    [
-      "Vite 8.0 is out",
-      "https://vite.dev/blog/announcing-vite8"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-12, 09:31:01",
-      "https://lobste.rs/s/rz6gak/lowdown_manpage_support"
-    ],
-    [
-      "Lowdown Manpage Support",
-      "https://kristaps.bsd.lv/lowdown/mdoc.html"
-    ]
-  ],
-  [
-    [
       "2026-03-12, 06:48:59",
       "https://lobste.rs/s/l3rkdl/parametricity_comptime_is_bonkers"
     ],
@@ -227,16 +237,6 @@
     [
       "Grief and the AI Split",
       "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 22:16:55",
-      "https://lobste.rs/s/6lqnhh/lobsters_interview_with_ngoldbaum"
-    ],
-    [
-      "Lobsters Interview with ngoldbaum",
-      "https://alexalejandre.com/programming/interview-with-ngoldbaum/"
     ]
   ],
   [
