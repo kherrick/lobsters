@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-13, 20:40:29",
-      "https://lobste.rs/s/wbnpgw/conditional_impls"
+      "2026-03-13, 20:03:08",
+      "https://lobste.rs/s/4ji19h/rust_shined_over_python_for_my_cli_tool"
     ],
     [
-      "Conditional Impls",
-      "https://www.possiblerust.com/pattern/conditional-impls"
+      "Rust Shined Over Python for My CLI Tool",
+      "https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Good Old Pointers (2015)",
       "https://medium.com/@rsx11/good-old-pointers-cfe8e2727e51"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 18:44:22",
+      "https://lobste.rs/s/rya8rs/marknote_1_5_released_for_kde"
+    ],
+    [
+      "Marknote 1.5 released for KDE",
+      "https://blogs.kde.org/2026/03/13/marknote-1.5/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "How Many Times Can a DVD±RW Be Rewritten?",
       "https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%c2%b1rw-be-rewritten-part-2-methodology-results/"
-    ]
-  ],
-  [
-    [
-      "2026-03-12, 20:12:06",
-      "https://lobste.rs/s/koymkj/guix_system_one_month_later"
-    ],
-    [
-      "Guix System - One Month Later",
-      "https://nemin.hu/guix-one-month-later.html"
     ]
   ],
   [
