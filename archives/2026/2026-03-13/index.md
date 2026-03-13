@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 11:58:11](https://lobste.rs/s/na64fm/i_traced_2b_grants_45_states_lobbying) - [I traced $2B in grants and 45 states' lobbying behind age‑verification bills](https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/)
+* [2026-03-13, 11:41:55](https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45) - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E)
 * [2026-03-13, 11:06:24](https://lobste.rs/s/bspgu4/bucketsquatting_is_finally_dead) - [Bucketsquatting is (Finally) Dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
 * [2026-03-13, 10:25:04](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend)
 * [2026-03-13, 09:29:23](https://lobste.rs/s/3elkxf/well_being_times_algorithms) - [Well Being in Times of Algorithms](https://www.ssp.sh/blog/well-being-algorithms/)
