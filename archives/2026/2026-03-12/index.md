@@ -6,6 +6,7 @@
 
 * [2026-03-12, 23:30:25](https://lobste.rs/s/efhaws/games_postscript_play_chess_against_your) - [Games in PostScript - Play Chess Against Your Printer](https://www.youtube.com/watch?v=2YCATafErA8)
 * [2026-03-12, 22:29:41](https://lobste.rs/s/2oob2h/oss_security_re_multiple) - [oss-security - Re: Multiple vulnerabilities in AppArmor](https://www.openwall.com/lists/oss-security/2026/03/12/7)
+* [2026-03-12, 20:23:58](https://lobste.rs/s/gpbzcn/vite_8_0_is_out) - [Vite 8.0 is out](https://vite.dev/blog/announcing-vite8)
 * [2026-03-12, 20:22:27](https://lobste.rs/s/eqkxoo/ai_agents_love_gleam) - [AI Agents Love Gleam](https://curling.io/blog/21-reasons-ai-agents-love-gleam)
 * [2026-03-12, 20:12:06](https://lobste.rs/s/koymkj/guix_system_one_month_later) - [Guix System - One Month Later](https://nemin.hu/guix-one-month-later.html)
 * [2026-03-12, 19:32:33](https://lobste.rs/s/uwaqnj/batching_redis_lookups_with_dataloader) - [Batching Redis lookups with DataLoader and MGET](https://gajus.com/blog/batching-redis-lookups-with-dataloader-and-mget)
