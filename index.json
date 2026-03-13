@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-13, 11:58:11",
+      "https://lobste.rs/s/na64fm/i_traced_2b_grants_45_states_lobbying"
+    ],
+    [
+      "I traced $2B in grants and 45 states' lobbying behind age‑verification bills",
+      "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/"
+    ]
+  ],
+  [
+    [
+      "2026-03-13, 11:41:55",
+      "https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45"
+    ],
+    [
+      "I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills",
+      "https://www.reddit.com/r/linux/s/WqwsCnFE8E"
+    ]
+  ],
+  [
+    [
       "2026-03-13, 11:06:24",
       "https://lobste.rs/s/bspgu4/bucketsquatting_is_finally_dead"
     ],
@@ -37,16 +57,6 @@
     [
       "The Best Darn Grid Shader (Yet)",
       "https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 06:01:40",
-      "https://lobste.rs/s/cbryfr/blog_mitigating_url_based_exfiltration"
-    ],
-    [
-      "Blog: Mitigating URL-based Exfiltration in Gemini",
-      "https://bughunters.google.com/blog/mitigating-url-based-exfiltration-in-gemini"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "My PostgreSQL database got nuked lol",
       "https://akselmo.dev/posts/they-broke-my-server/"
-    ]
-  ],
-  [
-    [
-      "2026-03-11, 13:59:37",
-      "https://lobste.rs/s/eu5uiz/fully_snapshotable_wasm_interpreter"
-    ],
-    [
-      "A fully snapshotable Wasm interpreter",
-      "https://github.com/friendlymatthew/gabagool?tab=readme-ov-file#gabagool"
     ]
   ]
 ]
