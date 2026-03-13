@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-13](index.md)
 
+* [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
 * [2026-03-13, 15:17:02](https://lobste.rs/s/ehohsb/plumbing_everyday_magic) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com)
 * [2026-03-13, 15:16:55](https://lobste.rs/s/i6kerf/afim_academic_fraud_inclination_metric) - [AFIM: Academic Fraud Inclination Metric](https://www.alexalemi.com/arxiv-metric/docs.html?page=readme)
