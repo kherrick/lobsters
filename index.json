@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-03-14, 16:45:53",
+      "https://lobste.rs/s/rxtnpg/fatal_core_dump_debugging_murder_mystery"
+    ],
+    [
+      "Fatal Core Dump (a debugging murder mystery played with GDB)",
+      "https://www.robopenguins.com/fatal_core_dump/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 15:57:25",
       "https://lobste.rs/s/kzm8tb/why_mathematica_does_not_simplify_sinh"
     ],
@@ -217,16 +227,6 @@
     [
       "How to use storytelling to fit inline assembly into Rust",
       "https://www.ralfj.de/blog/2026/03/13/inline-asm.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 13:34:02",
-      "https://lobste.rs/s/czj5p4/computing_freedom_with_gnu_emacs"
-    ],
-    [
-      "Computing in freedom with GNU Emacs",
-      "https://protesilaos.com/codelog/2026-03-13-computing-in-freedom-with-gnu-emacs/"
     ]
   ],
   [
