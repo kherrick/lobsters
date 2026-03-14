@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-14, 08:40:09](https://lobste.rs/s/dempb5/emacs_vim_age_ai) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-14, 05:51:57](https://lobste.rs/s/ec6xnf/torturing_rustc_by_emulating_hkts) - [Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler](https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/)
 * [2026-03-14, 05:04:36](https://lobste.rs/s/y4es5f/ai_agents_are_recruiting_humans_observe) - [AI Agents Are Recruiting Humans To Observe The Offline World](https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world)
 * [2026-03-14, 04:15:41](https://lobste.rs/s/vo4mb2/plans_possibly_retire_big_endian_powerpc) - [Plans to possibly retire the big-endian PowerPC/POWER platforms](https://chimera-linux.org/news/2026/03/retiring-powerpc.html)
@@ -11,7 +12,6 @@
 * [2026-03-13, 20:03:08](https://lobste.rs/s/4ji19h/rust_shined_over_python_for_my_cli_tool) - [Rust Shined Over Python for My CLI Tool](https://smiling.dev/blog/rust-shined-over-python-for-my-cli-tool/)
 * [2026-03-13, 19:47:37](https://lobste.rs/s/i2xkrm/xml_is_cheap_dsl) - [XML is a cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-13, 19:12:01](https://lobste.rs/s/eipd7u/good_old_pointers_2015) - [Good Old Pointers (2015)](https://medium.com/@rsx11/good-old-pointers-cfe8e2727e51)
-* [2026-03-13, 18:44:22](https://lobste.rs/s/rya8rs/marknote_1_5_released_for_kde) - [Marknote 1.5 released for KDE](https://blogs.kde.org/2026/03/13/marknote-1.5/)
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
 * [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
