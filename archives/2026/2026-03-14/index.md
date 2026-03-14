@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
+* [2026-03-14, 18:21:57](https://lobste.rs/s/l5ompx/jpeg_compression) - [JPEG compression](https://www.sophielwang.com/blog/jpeg)
+* [2026-03-14, 18:21:09](https://lobste.rs/s/kyrt0i/sunsetting_jazzband) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
+* [2026-03-14, 18:09:45](https://lobste.rs/s/dvkasd/companies_house_vulnerability_enabled) - [Companies House vulnerability enabled company hijacking](https://taxpolicy.org.uk/2026/03/13/companies-house-security-vulnerability-directors-addresses/)
+* [2026-03-14, 17:56:47](https://lobste.rs/s/gsg6fc/humanities_machine) - [Humanities in the Machine](https://blainsmith.com/essays/humanities-in-the-machine/)
 * [2026-03-14, 17:25:17](https://lobste.rs/s/ypes5v/thoughts_on_generative_i) - [Thoughts on generative A.I](https://kghose.github.io/generative-ai/)
 * [2026-03-14, 16:56:21](https://lobste.rs/s/d8phrk/how_seed_cloud) - [How to Seed a Cloud](https://generalresearch.com/detail-oriented/how-to-seed-a-cloud/)
 * [2026-03-14, 16:50:32](https://lobste.rs/s/b4vncq/developing_2fa_desktop_client_go) - [Developing a 2FA Desktop Client in Go](https://www.youtube.com/watch?v=HFu3CUtrOQ8)
