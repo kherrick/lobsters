@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-14, 05:51:57",
+      "https://lobste.rs/s/ec6xnf/torturing_rustc_by_emulating_hkts"
+    ],
+    [
+      "Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler",
+      "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 05:04:36",
       "https://lobste.rs/s/y4es5f/ai_agents_are_recruiting_humans_observe"
     ],
@@ -107,16 +117,6 @@
     [
       "Marknote 1.5 released for KDE",
       "https://blogs.kde.org/2026/03/13/marknote-1.5/"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 17:19:11",
-      "https://lobste.rs/s/btf0gu/software_bonkers"
-    ],
-    [
-      "Software Bonkers",
-      "https://craigmod.com/essays/software_bonkers/"
     ]
   ],
   [
