@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 16:56:21](https://lobste.rs/s/d8phrk/how_seed_cloud) - [How to Seed a Cloud](https://generalresearch.com/detail-oriented/how-to-seed-a-cloud/)
+* [2026-03-14, 16:50:32](https://lobste.rs/s/b4vncq/developing_2fa_desktop_client_go) - [Developing a 2FA Desktop Client in Go](https://www.youtube.com/watch?v=HFu3CUtrOQ8)
+* [2026-03-14, 16:45:53](https://lobste.rs/s/rxtnpg/fatal_core_dump_debugging_murder_mystery) - [Fatal Core Dump (a debugging murder mystery played with GDB)](https://www.robopenguins.com/fatal_core_dump/)
 * [2026-03-14, 15:57:25](https://lobste.rs/s/kzm8tb/why_mathematica_does_not_simplify_sinh) - [Why Mathematica does not simplify Sinh[ArcCosh[x]]](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-14, 13:45:11](https://lobste.rs/s/yvqmjl/direnv_is_all_you_need_parallelize) - [Direnv is All You Need to Parallelize Agentic Programming with Git Worktrees](https://waldencui.com/post/direnv_is_all_you_need_to_parallelize_claude_code_with_git_worktrees/)
 * [2026-03-14, 13:31:43](https://lobste.rs/s/u3cc1e/compose_key_is_magic) - [The Compose key is magic](https://crescentro.se/posts/compose-key/)
