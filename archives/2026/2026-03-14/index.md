@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 13:45:11](https://lobste.rs/s/yvqmjl/direnv_is_all_you_need_parallelize) - [Direnv is All You Need to Parallelize Agentic Programming with Git Worktrees](https://waldencui.com/post/direnv_is_all_you_need_to_parallelize_claude_code_with_git_worktrees/)
+* [2026-03-14, 13:31:43](https://lobste.rs/s/u3cc1e/compose_key_is_magic) - [The Compose key is magic](https://crescentro.se/posts/compose-key/)
+* [2026-03-14, 13:11:34](https://lobste.rs/s/rmemq6/guide_vim_pack_neovim_built_plugin) - [A Guide to vim.pack (Neovim built-in plugin manager)](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
 * [2026-03-14, 12:00:34](https://lobste.rs/s/vnkkp5/baochip_what_it_is_why_i_m_doing_it_now_how_it) - [Baochip: What It Is, Why I'm Doing It Now, and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
 * [2026-03-14, 11:20:04](https://lobste.rs/s/k0cm8c/getting_started_with_claude_for_software) - [Getting started with Claude for software development](https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/)
 * [2026-03-14, 11:05:08](https://lobste.rs/s/e2xtjq/crackarmor_multiple_vulnerabilities) - [CrackArmor: Multiple vulnerabilities in AppArmor](https://www.qualys.com/2026/03/10/crack-armor.txt)
