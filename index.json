@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-14, 11:20:04",
+      "https://lobste.rs/s/k0cm8c/getting_started_with_claude_for_software"
+    ],
+    [
+      "Getting started with Claude for software development",
+      "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/"
+    ]
+  ],
+  [
+    [
+      "2026-03-14, 11:05:08",
+      "https://lobste.rs/s/e2xtjq/crackarmor_multiple_vulnerabilities"
+    ],
+    [
+      "CrackArmor: Multiple vulnerabilities in AppArmor",
+      "https://www.qualys.com/2026/03/10/crack-armor.txt"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 08:40:09",
       "https://lobste.rs/s/dempb5/emacs_vim_age_ai"
     ],
@@ -17,16 +37,6 @@
     [
       "Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler",
       "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 05:04:36",
-      "https://lobste.rs/s/y4es5f/ai_agents_are_recruiting_humans_observe"
-    ],
-    [
-      "AI Agents Are Recruiting Humans To Observe The Offline World",
-      "https://www.noemamag.com/ai-agents-are-recruiting-humans-to-observe-the-offline-world"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Bucketsquatting is (Finally) Dead",
       "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 10:25:04",
-      "https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend"
     ]
   ],
   [
