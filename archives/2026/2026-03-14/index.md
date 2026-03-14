@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 17:25:17](https://lobste.rs/s/ypes5v/thoughts_on_generative_i) - [Thoughts on generative A.I](https://kghose.github.io/generative-ai/)
 * [2026-03-14, 16:56:21](https://lobste.rs/s/d8phrk/how_seed_cloud) - [How to Seed a Cloud](https://generalresearch.com/detail-oriented/how-to-seed-a-cloud/)
 * [2026-03-14, 16:50:32](https://lobste.rs/s/b4vncq/developing_2fa_desktop_client_go) - [Developing a 2FA Desktop Client in Go](https://www.youtube.com/watch?v=HFu3CUtrOQ8)
 * [2026-03-14, 16:45:53](https://lobste.rs/s/rxtnpg/fatal_core_dump_debugging_murder_mystery) - [Fatal Core Dump (a debugging murder mystery played with GDB)](https://www.robopenguins.com/fatal_core_dump/)
