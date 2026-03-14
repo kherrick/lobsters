@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-14, 04:15:41",
+      "https://lobste.rs/s/vo4mb2/plans_possibly_retire_big_endian_powerpc"
+    ],
+    [
+      "Plans to possibly retire the big-endian PowerPC/POWER platforms",
+      "https://chimera-linux.org/news/2026/03/retiring-powerpc.html"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 02:15:23",
       "https://lobste.rs/s/twup3y/libadwaita_1_9"
     ],
@@ -197,16 +207,6 @@
     [
       "How to make your own static site generator",
       "https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 04:12:55",
-      "https://lobste.rs/s/gpwpji/learn_haskell_two_weeks"
-    ],
-    [
-      "Learn Haskell in Two Weeks",
-      "https://vitez.me/learn-haskell-in-two-weeks"
     ]
   ],
   [
