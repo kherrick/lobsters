@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-14, 15:57:25",
+      "https://lobste.rs/s/kzm8tb/why_mathematica_does_not_simplify_sinh"
+    ],
+    [
+      "Why Mathematica does not simplify Sinh[ArcCosh[x]]",
+      "https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/"
+    ]
+  ],
+  [
+    [
       "2026-03-14, 13:45:11",
       "https://lobste.rs/s/yvqmjl/direnv_is_all_you_need_parallelize"
     ],
@@ -207,16 +217,6 @@
     [
       "Bucketsquatting is (Finally) Dead",
       "https://onecloudplease.com/blog/bucketsquatting-is-finally-dead"
-    ]
-  ],
-  [
-    [
-      "2026-03-13, 04:54:39",
-      "https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator"
-    ],
-    [
-      "How to make your own static site generator",
-      "https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html"
     ]
   ],
   [
