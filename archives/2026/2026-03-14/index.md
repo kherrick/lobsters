@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-14](index.md)
 
+* [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_2_0) - [A Preview of Coalton 2.0](https://coalton-lang.github.io/20260312-coalton0p2/)
 * [2026-03-14, 19:56:25](https://lobste.rs/s/zbo422/fedora_44_on_raspberry_pi_5) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 * [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-14, 18:21:57](https://lobste.rs/s/l5ompx/jpeg_compression) - [JPEG compression](https://www.sophielwang.com/blog/jpeg)
