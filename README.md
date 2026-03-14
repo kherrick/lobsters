@@ -11,6 +11,7 @@
 * [2026-03-13, 19:47:37](https://lobste.rs/s/i2xkrm/xml_is_cheap_dsl) - [XML is a cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-13, 19:12:01](https://lobste.rs/s/eipd7u/good_old_pointers_2015) - [Good Old Pointers (2015)](https://medium.com/@rsx11/good-old-pointers-cfe8e2727e51)
 * [2026-03-13, 18:44:22](https://lobste.rs/s/rya8rs/marknote_1_5_released_for_kde) - [Marknote 1.5 released for KDE](https://blogs.kde.org/2026/03/13/marknote-1.5/)
+* [2026-03-13, 17:19:11](https://lobste.rs/s/btf0gu/software_bonkers) - [Software Bonkers](https://craigmod.com/essays/software_bonkers/)
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
 * [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
@@ -22,7 +23,6 @@
 * [2026-03-13, 06:37:56](https://lobste.rs/s/jn7yoi/best_darn_grid_shader_yet) - [The Best Darn Grid Shader (Yet)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
 * [2026-03-13, 04:54:39](https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator) - [How to make your own static site generator](https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html)
 * [2026-03-13, 03:54:26](https://lobste.rs/s/x9znhg/plan_9_s_acme_un_terminal_text_based_guis) - [Plan 9's Acme: The Un-Terminal and Text-Based GUIs](https://www.danielmoch.com/posts/2025/01/acme/)
-* [2026-03-13, 03:09:23](https://lobste.rs/s/jow6ea/how_many_times_can_dvd_rw_be_rewritten) - [How Many Times Can a DVD±RW Be Rewritten?](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%c2%b1rw-be-rewritten-part-2-methodology-results/)
 * [2026-03-12, 19:19:34](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys) - [How do you manage SSH keys?](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys)
 * [2026-03-12, 16:43:27](https://lobste.rs/s/zyt5uz/this_is_not_computer_for_you) - [This Is Not The Computer For You](https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/)
 
