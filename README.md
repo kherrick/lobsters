@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-14, 02:15:23](https://lobste.rs/s/twup3y/libadwaita_1_9) - [Libadwaita 1.9](https://nyaa.place/blog/libadwaita-1-9/)
 * [2026-03-14, 00:09:35](https://lobste.rs/s/ub7a5k/ode_bzip) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 00:06:05](https://lobste.rs/s/rb8pas/i_beg_you_follow_crocker_s_rules_even_if_you) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-13, 20:40:29](https://lobste.rs/s/wbnpgw/conditional_impls) - [Conditional Impls](https://www.possiblerust.com/pattern/conditional-impls)
@@ -11,7 +12,6 @@
 * [2026-03-13, 17:19:11](https://lobste.rs/s/btf0gu/software_bonkers) - [Software Bonkers](https://craigmod.com/essays/software_bonkers/)
 * [2026-03-13, 15:49:15](https://lobste.rs/s/dm1j3a/openclaw_dream_free_labour) - [OpenClaw and the Dream of Free Labour](https://entropytown.com/articles/2026-03-12-openclaw-sandbox/)
 * [2026-03-13, 15:17:52](https://lobste.rs/s/jadk6d/reinventing_python_s_asyncio) - [Reinventing Python's AsyncIO](https://blog.baro.dev/p/reinventing-pythons-asyncio)
-* [2026-03-13, 15:17:02](https://lobste.rs/s/ehohsb/plumbing_everyday_magic) - [The Plumbing of Everyday Magic](https://plumbing-of-everyday-magic.hyperclay.com)
 * [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
 * [2026-03-13, 14:08:08](https://lobste.rs/s/hfypk8/how_use_storytelling_fit_inline_assembly) - [How to use storytelling to fit inline assembly into Rust](https://www.ralfj.de/blog/2026/03/13/inline-asm.html)
 * [2026-03-13, 13:34:02](https://lobste.rs/s/czj5p4/computing_freedom_with_gnu_emacs) - [Computing in freedom with GNU Emacs](https://protesilaos.com/codelog/2026-03-13-computing-in-freedom-with-gnu-emacs/)
