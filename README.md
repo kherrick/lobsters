@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-14, 04:15:41](https://lobste.rs/s/vo4mb2/plans_possibly_retire_big_endian_powerpc) - [Plans to possibly retire the big-endian PowerPC/POWER platforms](https://chimera-linux.org/news/2026/03/retiring-powerpc.html)
 * [2026-03-14, 02:15:23](https://lobste.rs/s/twup3y/libadwaita_1_9) - [Libadwaita 1.9](https://nyaa.place/blog/libadwaita-1-9/)
 * [2026-03-14, 00:09:35](https://lobste.rs/s/ub7a5k/ode_bzip) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
 * [2026-03-14, 00:06:05](https://lobste.rs/s/rb8pas/i_beg_you_follow_crocker_s_rules_even_if_you) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
@@ -20,7 +21,6 @@
 * [2026-03-13, 10:25:04](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jwdr0q/what_are_you_doing_this_weekend)
 * [2026-03-13, 06:37:56](https://lobste.rs/s/jn7yoi/best_darn_grid_shader_yet) - [The Best Darn Grid Shader (Yet)](https://bgolus.medium.com/the-best-darn-grid-shader-yet-727f9278b9d8)
 * [2026-03-13, 04:54:39](https://lobste.rs/s/qnnok5/how_make_your_own_static_site_generator) - [How to make your own static site generator](https://gaultier.github.io/blog/how_to_make_your_own_static_site_generator.html)
-* [2026-03-13, 04:12:55](https://lobste.rs/s/gpwpji/learn_haskell_two_weeks) - [Learn Haskell in Two Weeks](https://vitez.me/learn-haskell-in-two-weeks)
 * [2026-03-13, 03:54:26](https://lobste.rs/s/x9znhg/plan_9_s_acme_un_terminal_text_based_guis) - [Plan 9's Acme: The Un-Terminal and Text-Based GUIs](https://www.danielmoch.com/posts/2025/01/acme/)
 * [2026-03-13, 03:09:23](https://lobste.rs/s/jow6ea/how_many_times_can_dvd_rw_be_rewritten) - [How Many Times Can a DVD±RW Be Rewritten?](https://goughlui.com/2026/03/07/tested-how-many-times-can-a-dvd%c2%b1rw-be-rewritten-part-2-methodology-results/)
 * [2026-03-12, 19:19:34](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys) - [How do you manage SSH keys?](https://lobste.rs/s/zcoz8h/how_do_you_manage_ssh_keys)
