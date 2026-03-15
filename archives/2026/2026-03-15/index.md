@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+* [2026-03-15, 21:34:44](https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch) - [I let Claude Code configure my Arch install](https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles)
 * [2026-03-15, 21:08:36](https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma) - [C++26: The Oxford variadic comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
 * [2026-03-15, 20:49:29](https://lobste.rs/s/2cbd5h/sane_directory_structure_for_software) - [A Sane Directory Structure for Software Projects](https://trop.in/blog/a-sane-directory-structure-for-software-projects)
 * [2026-03-15, 20:46:40](https://lobste.rs/s/mkyfah/bcachefs_1_37_released_with_linux_7_0) - [Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable & New Sub-Commands](https://www.phoronix.com/news/Bcachefs-1.37-Released)
