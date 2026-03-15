@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 22:51:00](https://lobste.rs/s/rwh6et/what_is_sequence_data) - [What is Sequence Data ?](https://thesis.lucblassel.com/what-is-sequence-data.html)
 * [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 21:34:44](https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch) - [I let Claude Code configure my Arch install](https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles)
 * [2026-03-15, 21:08:36](https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma) - [C++26: The Oxford variadic comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
