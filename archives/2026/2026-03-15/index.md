@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
+* [2026-03-15, 19:09:25](https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with) - [Bypassing deep packet inspection with socat and HTTPS tunnels](https://blog.bofh.it/debian/id_472)
 * [2026-03-15, 18:50:21](https://lobste.rs/s/fr3efj/my_first_fully_agentic_coding_project) - [My First Fully Agentic Coding Project: GitTop](https://hjr265.me/blog/building-gittop-with-agentic-coding/)
 * [2026-03-15, 18:30:37](https://lobste.rs/s/yx1efi/learning_creative_coding) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 * [2026-03-15, 17:27:56](https://lobste.rs/s/mwntzg/ksynth) - [ksynth](https://octetta.github.io/k-synth/)
