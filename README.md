@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
 * [2026-03-15, 13:15:58](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm) - [A most elegant TCP hole punching algorithm — Aul Ma's research facility](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 13:01:28](https://lobste.rs/s/3n0um7/mass_produced_software_components) - [Mass-Produced Software Components](https://www.cs.dartmouth.edu/~doug/components.txt)
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
@@ -11,7 +12,6 @@
 * [2026-03-15, 04:53:03](https://lobste.rs/s/xnfsd4/gentle_introduction_mercury) - [A Gentle Introduction to Mercury](https://bctnry.github.io/gentle-introduction-to-mercury/)
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
-* [2026-03-15, 02:21:53](https://lobste.rs/s/wcncyj/storagereview_sets_new_pi_record_314) - [StorageReview Sets New Pi Record: 314 Trillion Digits on a Dell PowerEdge R7725](https://www.storagereview.com/review/storagereview-sets-new-pi-record-314-trillion-digits-on-a-dell-poweredge-r7725)
 * [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
 * [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_0_2) - [A Preview of Coalton 0.2](https://coalton-lang.github.io/20260312-coalton0p2/)
 * [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)

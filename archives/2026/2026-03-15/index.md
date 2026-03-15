@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
 * [2026-03-15, 13:15:58](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm) - [A most elegant TCP hole punching algorithm — Aul Ma's research facility](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 13:01:28](https://lobste.rs/s/3n0um7/mass_produced_software_components) - [Mass-Produced Software Components](https://www.cs.dartmouth.edu/~doug/components.txt)
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
