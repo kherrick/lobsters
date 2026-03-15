@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-03-15, 19:09:25",
-      "https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with"
-    ],
-    [
-      "Bypassing deep packet inspection with socat and HTTPS tunnels",
-      "https://blog.bofh.it/debian/id_472"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 18:30:37",
       "https://lobste.rs/s/yx1efi/learning_creative_coding"
     ],
@@ -47,6 +37,16 @@
     [
       "Separating the Wayland Compositor and Window Manager",
       "https://isaacfreund.com/blog/river-window-management/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 13:38:39",
+      "https://lobste.rs/s/4jgfcx/llm_time"
+    ],
+    [
+      "LLM time",
+      "https://graydon2.dreamwidth.org/322732.html"
     ]
   ],
   [
