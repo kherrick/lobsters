@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_2_0) - [A Preview of Coalton 2.0](https://coalton-lang.github.io/20260312-coalton0p2/)
+* [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
+* [2026-03-14, 23:30:07](https://lobste.rs/s/feireu/54kb_minecraft_clone_made_without) - [54kb minecraft clone made without a graphics library](https://www.youtube.com/watch?v=JO8EnzNfEk4)
+* [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_0_2) - [A Preview of Coalton 0.2](https://coalton-lang.github.io/20260312-coalton0p2/)
 * [2026-03-14, 19:56:25](https://lobste.rs/s/zbo422/fedora_44_on_raspberry_pi_5) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 * [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-14, 18:21:57](https://lobste.rs/s/l5ompx/jpeg_compression) - [JPEG compression](https://www.sophielwang.com/blog/jpeg)
@@ -9,7 +11,6 @@
 * [2026-03-14, 17:56:47](https://lobste.rs/s/gsg6fc/humanities_machine) - [Humanities in the Machine](https://blainsmith.com/essays/humanities-in-the-machine/)
 * [2026-03-14, 17:25:17](https://lobste.rs/s/ypes5v/thoughts_on_generative_i) - [Thoughts on generative A.I](https://kghose.github.io/generative-ai/)
 * [2026-03-14, 16:50:32](https://lobste.rs/s/b4vncq/developing_2fa_desktop_client_go) - [Developing a 2FA Desktop Client in Go](https://www.youtube.com/watch?v=HFu3CUtrOQ8)
-* [2026-03-14, 16:45:53](https://lobste.rs/s/rxtnpg/fatal_core_dump_debugging_murder_mystery) - [Fatal Core Dump (a debugging murder mystery played with GDB)](https://www.robopenguins.com/fatal_core_dump/)
 * [2026-03-14, 15:57:25](https://lobste.rs/s/kzm8tb/why_mathematica_does_not_simplify_sinh) - [Why Mathematica does not simplify Sinh[ArcCosh[x]]](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-14, 13:31:43](https://lobste.rs/s/u3cc1e/compose_key_is_magic) - [The Compose key is magic](https://crescentro.se/posts/compose-key/)
 * [2026-03-14, 13:11:34](https://lobste.rs/s/rmemq6/guide_vim_pack_neovim_built_plugin) - [A Guide to vim.pack (Neovim built-in plugin manager)](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
@@ -23,7 +24,6 @@
 * [2026-03-14, 00:06:05](https://lobste.rs/s/rb8pas/i_beg_you_follow_crocker_s_rules_even_if_you) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-13, 19:47:37](https://lobste.rs/s/i2xkrm/xml_is_cheap_dsl) - [XML is a cheap DSL](https://unplannedobsolescence.com/blog/xml-cheap-dsl/)
 * [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
-* [2026-03-13, 14:08:08](https://lobste.rs/s/hfypk8/how_use_storytelling_fit_inline_assembly) - [How to use storytelling to fit inline assembly into Rust](https://www.ralfj.de/blog/2026/03/13/inline-asm.html)
 * [2026-03-13, 11:41:55](https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45) - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E)
 
 ## [Archives](archives/index.md)
