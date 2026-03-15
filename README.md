@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
-* [2026-03-15, 19:09:25](https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with) - [Bypassing deep packet inspection with socat and HTTPS tunnels](https://blog.bofh.it/debian/id_472)
 * [2026-03-15, 18:30:37](https://lobste.rs/s/yx1efi/learning_creative_coding) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 * [2026-03-15, 17:16:39](https://lobste.rs/s/oahtd6/codegen_is_not_productivity) - [Codegen is not productivity](https://www.antifound.com/posts/codegen-is-not-productivity/)
 * [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
+* [2026-03-15, 13:38:39](https://lobste.rs/s/4jgfcx/llm_time) - [LLM time](https://graydon2.dreamwidth.org/322732.html)
 * [2026-03-15, 13:15:58](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm) - [A most elegant TCP hole punching algorithm](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
 * [2026-03-15, 13:01:28](https://lobste.rs/s/3n0um7/mass_produced_software_components_1968) - [Mass-Produced Software Components (1968)](https://www.cs.dartmouth.edu/~doug/components.txt)
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
