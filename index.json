@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-15, 18:50:21",
+      "https://lobste.rs/s/fr3efj/my_first_fully_agentic_coding_project"
+    ],
+    [
+      "My First Fully Agentic Coding Project: GitTop",
+      "https://hjr265.me/blog/building-gittop-with-agentic-coding/"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 18:30:37",
       "https://lobste.rs/s/yx1efi/learning_creative_coding"
     ],
@@ -27,6 +37,16 @@
     [
       "Separating the Wayland Compositor and Window Manager",
       "https://isaacfreund.com/blog/river-window-management/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 13:38:39",
+      "https://lobste.rs/s/4jgfcx/llm_time"
+    ],
+    [
+      "LLM time",
+      "https://graydon2.dreamwidth.org/322732.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "A Guide to vim.pack (Neovim built-in plugin manager)",
       "https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 12:00:34",
-      "https://lobste.rs/s/vnkkp5/baochip_what_it_is_why_i_m_doing_it_now_how_it"
-    ],
-    [
-      "Baochip: What It Is, Why I'm Doing It Now, and How It Came About",
-      "https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 11:20:04",
-      "https://lobste.rs/s/k0cm8c/getting_started_with_claude_for_software"
-    ],
-    [
-      "Getting started with Claude for software development",
-      "https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/"
     ]
   ]
 ]
