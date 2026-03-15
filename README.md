@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-15, 09:04:43](https://lobste.rs/s/g1spid/microsoft_hasn_t_had_coherent_gui) - [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
+* [2026-03-15, 07:43:27](https://lobste.rs/s/1wdfzi/mount_mayhem_at_netflix_scaling) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-15, 05:19:49](https://lobste.rs/s/nc3c14/changes_openttd_distribution_on_steam) - [Changes to OpenTTD distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-15, 04:53:03](https://lobste.rs/s/xnfsd4/gentle_introduction_mercury) - [A Gentle Introduction to Mercury](https://bctnry.github.io/gentle-introduction-to-mercury/)
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 * [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
 * [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_0_2) - [A Preview of Coalton 0.2](https://coalton-lang.github.io/20260312-coalton0p2/)
-* [2026-03-14, 19:56:25](https://lobste.rs/s/zbo422/fedora_44_on_raspberry_pi_5) - [Fedora 44 on the Raspberry Pi 5](https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/)
 * [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-14, 18:21:57](https://lobste.rs/s/l5ompx/jpeg_compression) - [JPEG compression](https://www.sophielwang.com/blog/jpeg)
 * [2026-03-14, 18:21:09](https://lobste.rs/s/kyrt0i/sunsetting_jazzband) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
@@ -22,7 +23,6 @@
 * [2026-03-14, 08:40:09](https://lobste.rs/s/dempb5/emacs_vim_age_ai) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-14, 05:51:57](https://lobste.rs/s/ec6xnf/torturing_rustc_by_emulating_hkts) - [Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler](https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/)
 * [2026-03-14, 00:09:35](https://lobste.rs/s/ub7a5k/ode_bzip) - [An ode to bzip](https://purplesyringa.moe/blog/an-ode-to-bzip/)
-* [2026-03-14, 00:06:05](https://lobste.rs/s/rb8pas/i_beg_you_follow_crocker_s_rules_even_if_you) - [I beg you to follow Crocker's Rules, even if you will be rude to me](https://lr0.org/blog/p/crocker/)
 * [2026-03-13, 15:15:03](https://lobste.rs/s/zcmoab/windows_11_after_two_decades_macos_okay) - [Windows 11 after two decades of macOS: okay, but also awful](https://rakhim.exotext.com/windows-11-experience)
 * [2026-03-13, 11:41:55](https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45) - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E)
 

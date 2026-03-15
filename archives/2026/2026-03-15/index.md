@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 09:04:43](https://lobste.rs/s/g1spid/microsoft_hasn_t_had_coherent_gui) - [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
+* [2026-03-15, 07:43:27](https://lobste.rs/s/1wdfzi/mount_mayhem_at_netflix_scaling) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-15, 05:19:49](https://lobste.rs/s/nc3c14/changes_openttd_distribution_on_steam) - [Changes to OpenTTD distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-15, 04:53:03](https://lobste.rs/s/xnfsd4/gentle_introduction_mercury) - [A Gentle Introduction to Mercury](https://bctnry.github.io/gentle-introduction-to-mercury/)
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
