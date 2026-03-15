@@ -14,6 +14,7 @@
 * [2026-03-15, 13:55:20](https://lobste.rs/s/50tanv/snail_mail_sign_ups) - [Snail Mail Sign-Ups](https://btxx.org/posts/snail-mail-signups/)
 * [2026-03-15, 13:38:39](https://lobste.rs/s/4jgfcx/llm_time) - [LLM time](https://graydon2.dreamwidth.org/322732.html)
 * [2026-03-15, 13:15:58](https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm) - [A most elegant TCP hole punching algorithm — Aul Ma's research facility](https://robertsdotpm.github.io/cryptography/tcp_hole_punching.html)
+* [2026-03-15, 13:01:28](https://lobste.rs/s/3n0um7/mass_produced_software_components_1968) - [Mass-Produced Software Components (1968)](https://www.cs.dartmouth.edu/~doug/components.txt)
 * [2026-03-15, 13:01:28](https://lobste.rs/s/3n0um7/mass_produced_software_components) - [Mass-Produced Software Components](https://www.cs.dartmouth.edu/~doug/components.txt)
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 * [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
