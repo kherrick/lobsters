@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
+* [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 * [2026-03-15, 09:04:43](https://lobste.rs/s/g1spid/microsoft_hasn_t_had_coherent_gui) - [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
 * [2026-03-15, 07:43:27](https://lobste.rs/s/1wdfzi/mount_mayhem_at_netflix_scaling) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-15, 07:11:12](https://lobste.rs/s/mizmno/summary_rust_project_perspectives_on_ai) - [Summary - Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
