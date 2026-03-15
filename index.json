@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-15, 10:28:30",
+      "https://lobste.rs/s/8wjbsa/optimization_ladder"
+    ],
+    [
+      "The Optimization Ladder",
+      "https://cemrehancavdar.com/2026/03/10/optimization-ladder/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 10:23:43",
+      "https://lobste.rs/s/yqnihu/gothub_is_live"
+    ],
+    [
+      "Gothub is live",
+      "https://x61.sh/log/2026/03/14032026191148-gothub.html"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 09:04:43",
       "https://lobste.rs/s/g1spid/microsoft_hasn_t_had_coherent_gui"
     ],
@@ -217,26 +237,6 @@
     [
       "Emacs and Vim in the Age of AI",
       "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 05:51:57",
-      "https://lobste.rs/s/ec6xnf/torturing_rustc_by_emulating_hkts"
-    ],
-    [
-      "Torturing rustc by Emulating HKTs, Causing an Inductive Cycle and Borking the Compiler",
-      "https://www.harudagondi.space/blog/torturing-rustc-by-emulating-hkts/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 00:09:35",
-      "https://lobste.rs/s/ub7a5k/ode_bzip"
-    ],
-    [
-      "An ode to bzip",
-      "https://purplesyringa.moe/blog/an-ode-to-bzip/"
     ]
   ],
   [
