@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 21:08:36](https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma) - [C++26: The Oxford variadic comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
+* [2026-03-15, 20:49:29](https://lobste.rs/s/2cbd5h/sane_directory_structure_for_software) - [A Sane Directory Structure for Software Projects](https://trop.in/blog/a-sane-directory-structure-for-software-projects)
 * [2026-03-15, 20:46:40](https://lobste.rs/s/mkyfah/bcachefs_1_37_released_with_linux_7_0) - [Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable & New Sub-Commands](https://www.phoronix.com/news/Bcachefs-1.37-Released)
 * [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
 * [2026-03-15, 19:09:25](https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with) - [Bypassing deep packet inspection with socat and HTTPS tunnels](https://blog.bofh.it/debian/id_472)

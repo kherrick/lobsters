@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-15, 20:46:40](https://lobste.rs/s/mkyfah/bcachefs_1_37_released_with_linux_7_0) - [Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable & New Sub-Commands](https://www.phoronix.com/news/Bcachefs-1.37-Released)
+* [2026-03-15, 21:08:36](https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma) - [C++26: The Oxford variadic comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
+* [2026-03-15, 20:49:29](https://lobste.rs/s/2cbd5h/sane_directory_structure_for_software) - [A Sane Directory Structure for Software Projects](https://trop.in/blog/a-sane-directory-structure-for-software-projects)
 * [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
 * [2026-03-15, 18:50:21](https://lobste.rs/s/fr3efj/my_first_fully_agentic_coding_project) - [My First Fully Agentic Coding Project: GitTop](https://hjr265.me/blog/building-gittop-with-agentic-coding/)
 * [2026-03-15, 18:30:37](https://lobste.rs/s/yx1efi/learning_creative_coding) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
@@ -19,7 +20,6 @@
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 * [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
-* [2026-03-14, 20:53:02](https://lobste.rs/s/8wq1vi/preview_coalton_0_2) - [A Preview of Coalton 0.2](https://coalton-lang.github.io/20260312-coalton0p2/)
 * [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-14, 18:21:09](https://lobste.rs/s/kyrt0i/sunsetting_jazzband) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
 * [2026-03-14, 17:56:47](https://lobste.rs/s/gsg6fc/humanities_machine) - [Humanities in the Machine](https://blainsmith.com/essays/humanities-in-the-machine/)
