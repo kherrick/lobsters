@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-15, 20:46:40",
-      "https://lobste.rs/s/mkyfah/bcachefs_1_37_released_with_linux_7_0"
+      "2026-03-15, 21:08:36",
+      "https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma"
     ],
     [
-      "Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable & New Sub-Commands",
-      "https://www.phoronix.com/news/Bcachefs-1.37-Released"
+      "C++26: The Oxford variadic comma",
+      "https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 20:49:29",
+      "https://lobste.rs/s/2cbd5h/sane_directory_structure_for_software"
+    ],
+    [
+      "A Sane Directory Structure for Software Projects",
+      "https://trop.in/blog/a-sane-directory-structure-for-software-projects"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Ageless Linux — Software for Humans of Indeterminate Age",
       "https://agelesslinux.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 20:53:02",
-      "https://lobste.rs/s/8wq1vi/preview_coalton_0_2"
-    ],
-    [
-      "A Preview of Coalton 0.2",
-      "https://coalton-lang.github.io/20260312-coalton0p2/"
     ]
   ],
   [
