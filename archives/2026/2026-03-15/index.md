@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 * [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 * [2026-03-15, 09:04:43](https://lobste.rs/s/g1spid/microsoft_hasn_t_had_coherent_gui) - [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)

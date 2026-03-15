@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 * [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 * [2026-03-15, 09:04:43](https://lobste.rs/s/g1spid/microsoft_hasn_t_had_coherent_gui) - [Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold](https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/)
@@ -23,7 +24,6 @@
 * [2026-03-14, 13:11:34](https://lobste.rs/s/rmemq6/guide_vim_pack_neovim_built_plugin) - [A Guide to vim.pack (Neovim built-in plugin manager)](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
 * [2026-03-14, 12:00:34](https://lobste.rs/s/vnkkp5/baochip_what_it_is_why_i_m_doing_it_now_how_it) - [Baochip: What It Is, Why I'm Doing It Now, and How It Came About](https://www.crowdsupply.com/baochip/dabao/updates/what-it-is-why-im-doing-it-now-and-how-it-came-about)
 * [2026-03-14, 11:20:04](https://lobste.rs/s/k0cm8c/getting_started_with_claude_for_software) - [Getting started with Claude for software development](https://steveklabnik.com/writing/getting-started-with-claude-for-software-development/)
-* [2026-03-14, 08:40:09](https://lobste.rs/s/dempb5/emacs_vim_age_ai) - [Emacs and Vim in the Age of AI](https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/)
 * [2026-03-13, 11:41:55](https://lobste.rs/s/ddrcpa/i_traced_2_billion_nonprofit_grants_45) - [I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills](https://www.reddit.com/r/linux/s/WqwsCnFE8E)
 
 ## [Archives](archives/index.md)
