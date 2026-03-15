@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-15, 20:46:40](https://lobste.rs/s/mkyfah/bcachefs_1_37_released_with_linux_7_0) - [Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable & New Sub-Commands](https://www.phoronix.com/news/Bcachefs-1.37-Released)
 * [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
+* [2026-03-15, 18:50:21](https://lobste.rs/s/fr3efj/my_first_fully_agentic_coding_project) - [My First Fully Agentic Coding Project: GitTop](https://hjr265.me/blog/building-gittop-with-agentic-coding/)
 * [2026-03-15, 18:30:37](https://lobste.rs/s/yx1efi/learning_creative_coding) - [Learning Creative Coding](https://stigmollerhansen.dk/resume/learning-creative-coding/)
 * [2026-03-15, 17:16:39](https://lobste.rs/s/oahtd6/codegen_is_not_productivity) - [Codegen is not productivity](https://www.antifound.com/posts/codegen-is-not-productivity/)
 * [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
@@ -21,8 +23,6 @@
 * [2026-03-14, 18:22:55](https://lobste.rs/s/jh5ljk/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 2: Why we don't use Yjs](https://www.moment.dev/blog/lies-i-was-told-pt-2)
 * [2026-03-14, 18:21:09](https://lobste.rs/s/kyrt0i/sunsetting_jazzband) - [Sunsetting Jazzband](https://jazzband.co/news/2026/03/14/sunsetting-jazzband)
 * [2026-03-14, 17:56:47](https://lobste.rs/s/gsg6fc/humanities_machine) - [Humanities in the Machine](https://blainsmith.com/essays/humanities-in-the-machine/)
-* [2026-03-14, 17:25:17](https://lobste.rs/s/ypes5v/thoughts_on_generative_i) - [Thoughts on generative A.I](https://kghose.github.io/generative-ai/)
-* [2026-03-14, 15:57:25](https://lobste.rs/s/kzm8tb/why_mathematica_does_not_simplify_sinh) - [Why Mathematica does not simplify Sinh[ArcCosh[x]]](https://www.johndcook.com/blog/2026/03/10/sinh-arccosh/)
 * [2026-03-14, 13:31:43](https://lobste.rs/s/u3cc1e/compose_key_is_magic) - [The Compose key is magic](https://crescentro.se/posts/compose-key/)
 * [2026-03-14, 13:11:34](https://lobste.rs/s/rmemq6/guide_vim_pack_neovim_built_plugin) - [A Guide to vim.pack (Neovim built-in plugin manager)](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
 

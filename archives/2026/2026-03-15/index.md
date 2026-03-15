@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-15](index.md)
 
+* [2026-03-15, 20:46:40](https://lobste.rs/s/mkyfah/bcachefs_1_37_released_with_linux_7_0) - [Bcachefs 1.37 Released With Linux 7.0 Support, Erasure Coding Stable & New Sub-Commands](https://www.phoronix.com/news/Bcachefs-1.37-Released)
 * [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
 * [2026-03-15, 19:09:25](https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with) - [Bypassing deep packet inspection with socat and HTTPS tunnels](https://blog.bofh.it/debian/id_472)
 * [2026-03-15, 18:50:21](https://lobste.rs/s/fr3efj/my_first_fully_agentic_coding_project) - [My First Fully Agentic Coding Project: GitTop](https://hjr265.me/blog/building-gittop-with-agentic-coding/)
