@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-16, 07:43:31](https://lobste.rs/s/9aztse/ghosts_demons_undefined_behavior_c2y) - [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf)
+* [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
+* [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 * [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
 * [2026-03-16, 04:07:43](https://lobste.rs/s/q7izua/llm_architecture_gallery) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-16, 04:03:00](https://lobste.rs/s/oevwjg/anthropic_authoritarian_ethic) - [Anthropic and The Authoritarian Ethic](https://blog.giovanh.com/blog/2026/03/03/anthropic-and-the-authoritarian-ethic/)
-* [2026-03-15, 22:51:00](https://lobste.rs/s/rwh6et/what_is_sequence_data) - [What is Sequence Data ?](https://thesis.lucblassel.com/what-is-sequence-data.html)
 * [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 21:34:44](https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch) - [I let Claude Code configure my Arch install](https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles)
 * [2026-03-15, 21:08:36](https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma) - [C++26: The Oxford variadic comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
@@ -22,9 +24,7 @@
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 * [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)
-* [2026-03-14, 17:56:47](https://lobste.rs/s/gsg6fc/humanities_machine) - [Humanities in the Machine](https://blainsmith.com/essays/humanities-in-the-machine/)
 * [2026-03-14, 13:31:43](https://lobste.rs/s/u3cc1e/compose_key_is_magic) - [The Compose key is magic](https://crescentro.se/posts/compose-key/)
-* [2026-03-14, 13:11:34](https://lobste.rs/s/rmemq6/guide_vim_pack_neovim_built_plugin) - [A Guide to vim.pack (Neovim built-in plugin manager)](https://echasnovski.com/blog/2026-03-13-a-guide-to-vim-pack)
 
 ## [Archives](archives/index.md)
 

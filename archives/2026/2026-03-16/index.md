@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 07:43:31](https://lobste.rs/s/9aztse/ghosts_demons_undefined_behavior_c2y) - [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf)
+* [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
+* [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 * [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
 * [2026-03-16, 04:07:43](https://lobste.rs/s/q7izua/llm_architecture_gallery) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-16, 04:03:00](https://lobste.rs/s/oevwjg/anthropic_authoritarian_ethic) - [Anthropic and The Authoritarian Ethic](https://blog.giovanh.com/blog/2026/03/03/anthropic-and-the-authoritarian-ethic/)
