@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-16, 12:50:33",
+      "https://lobste.rs/s/tskynu/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/tskynu/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 09:34:03",
       "https://lobste.rs/s/vif92k/visicalc_reconstructed"
     ],
@@ -17,6 +27,16 @@
     [
       "How Can Governments Pay Open Source Maintainers?",
       "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 08:37:01",
+      "https://lobste.rs/s/hjioma/matrix_multiplication_2020"
+    ],
+    [
+      "Matrix multiplication (2020)",
+      "https://yaikhom.com/2020-05-26-matrix-multiplication.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-03-15, 13:38:39",
-      "https://lobste.rs/s/4jgfcx/llm_time"
-    ],
-    [
-      "LLM time",
-      "https://graydon2.dreamwidth.org/322732.html"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 13:15:58",
       "https://lobste.rs/s/vvrsz3/most_elegant_tcp_hole_punching_algorithm"
     ],
@@ -237,16 +247,6 @@
     [
       "tree-style invite systems reduce AI slop",
       "https://abyss.fish/tree-style_invite_systems_reduce_AI_slop"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 13:31:43",
-      "https://lobste.rs/s/u3cc1e/compose_key_is_magic"
-    ],
-    [
-      "The Compose key is magic",
-      "https://crescentro.se/posts/compose-key/"
     ]
   ]
 ]
