@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-15, 22:51:00",
-      "https://lobste.rs/s/rwh6et/what_is_sequence_data"
-    ],
-    [
-      "What is Sequence Data ?",
-      "https://thesis.lucblassel.com/what-is-sequence-data.html"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 21:40:39",
       "https://lobste.rs/s/vio5wq/rack_mount_hydroponics"
     ],
@@ -57,6 +47,16 @@
     [
       "A Linux distribution designed to eliminate single points of failure",
       "https://stagex.tools/"
+    ]
+  ],
+  [
+    [
+      "2026-03-15, 19:09:25",
+      "https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with"
+    ],
+    [
+      "Bypassing deep packet inspection with socat and HTTPS tunnels",
+      "https://blog.bofh.it/debian/id_472"
     ]
   ],
   [
