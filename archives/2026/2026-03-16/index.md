@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 17:07:11](https://lobste.rs/s/bpeg4o/gleam_v1_15_0_released) - [Gleam v1.15.0 released](https://gleam.run/news/upgrading-hex-security/)
 * [2026-03-16, 16:28:54](https://lobste.rs/s/acbfik/clangd_for_cuda_device_code) - [clangd for CUDA device code](https://docs.scale-lang.com/stable/manual/tutorials/editors/editors/)
 * [2026-03-16, 16:04:48](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional) - [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8)
 * [2026-03-16, 16:02:25](https://lobste.rs/s/gahsrj/hacking_xbox_one) - [Hacking the Xbox One](https://www.youtube.com/watch?v=FTFn4UZsA5U)
