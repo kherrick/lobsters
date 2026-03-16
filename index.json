@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-16, 18:33:47",
+      "https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes"
+    ],
+    [
+      "When perfection is table stakes",
+      "https://lukeplant.me.uk/blog/posts/when-perfection-is-table-stakes/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 17:47:57",
+      "https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla"
+    ],
+    [
+      "Modeling Token Buckets in PlusCal and TLA+",
+      "http://muratbuffalo.blogspot.com/2026/03/modeling-token-buckets-in-pluscal-and.html"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 17:07:11",
       "https://lobste.rs/s/bpeg4o/gleam_v1_15_0_released"
     ],
@@ -71,22 +91,22 @@
   ],
   [
     [
+      "2026-03-16, 15:05:11",
+      "https://lobste.rs/s/4l6adm/two_worlds_programming_why_developers"
+    ],
+    [
+      "The two worlds of programming: why developers who make the same observations about LLMs come to opposite conclusions",
+      "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 15:02:32",
       "https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu"
     ],
     [
       "Reviewing large changes with Jujutsu",
       "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 14:56:57",
-      "https://lobste.rs/s/m6ksen/local_first_personal_database_you_can"
-    ],
-    [
-      "A local-first personal database you can extend with apps and manage with AI",
-      "https://superego.dev/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "How Can Governments Pay Open Source Maintainers?",
       "https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 08:17:40",
-      "https://lobste.rs/s/vibzwd/ncpu_cpu_implemented_using_neural"
-    ],
-    [
-      "nCPU: a CPU implemented using neural networks, runs completely on GPU",
-      "https://github.com/robertcprice/nCPU"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "LLM Architecture Gallery",
       "https://sebastianraschka.com/llm-architecture-gallery/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 04:03:00",
-      "https://lobste.rs/s/oevwjg/anthropic_authoritarian_ethic"
-    ],
-    [
-      "Anthropic and The Authoritarian Ethic",
-      "https://blog.giovanh.com/blog/2026/03/03/anthropic-and-the-authoritarian-ethic/"
     ]
   ],
   [
