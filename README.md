@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
 * [2026-03-16, 04:07:43](https://lobste.rs/s/q7izua/llm_architecture_gallery) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
 * [2026-03-16, 04:03:00](https://lobste.rs/s/oevwjg/anthropic_authoritarian_ethic) - [Anthropic and The Authoritarian Ethic](https://blog.giovanh.com/blog/2026/03/03/anthropic-and-the-authoritarian-ethic/)
-* [2026-03-16, 02:09:39](https://lobste.rs/s/uweff0/year_wordhopper_development) - [A Year of WordHopper - Development Retrospective (2024)](https://kokoscript.com/2024/015.html)
+* [2026-03-15, 22:51:00](https://lobste.rs/s/rwh6et/what_is_sequence_data) - [What is Sequence Data ?](https://thesis.lucblassel.com/what-is-sequence-data.html)
 * [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 21:34:44](https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch) - [I let Claude Code configure my Arch install](https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles)
 * [2026-03-15, 21:08:36](https://lobste.rs/s/wfrpsb/c_26_oxford_variadic_comma) - [C++26: The Oxford variadic comma](https://www.sandordargo.com/blog/2026/03/11/cpp26-oxford-variadic-comma)
@@ -15,7 +16,6 @@
 * [2026-03-15, 11:44:08](https://lobste.rs/s/5cxzuq/one_hundred_curl_graphs) - [One hundred curl graphs](https://daniel.haxx.se/blog/2026/03/15/one-hundred-curl-graphs/)
 * [2026-03-15, 10:28:30](https://lobste.rs/s/8wjbsa/optimization_ladder) - [The Optimization Ladder](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
-* [2026-03-15, 07:43:27](https://lobste.rs/s/1wdfzi/mount_mayhem_at_netflix_scaling) - [Mount Mayhem at Netflix: Scaling Containers on Modern CPUs](https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac)
 * [2026-03-15, 07:11:12](https://lobste.rs/s/mizmno/summary_rust_project_perspectives_on_ai) - [Summary - Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-15, 05:19:49](https://lobste.rs/s/nc3c14/changes_openttd_distribution_on_steam) - [Changes to OpenTTD distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
 * [2026-03-15, 04:53:03](https://lobste.rs/s/xnfsd4/gentle_introduction_mercury) - [A Gentle Introduction to Mercury](https://bctnry.github.io/gentle-introduction-to-mercury/)
