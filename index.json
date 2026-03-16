@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-16, 04:07:43",
+      "https://lobste.rs/s/q7izua/llm_architecture_gallery"
+    ],
+    [
+      "LLM Architecture Gallery",
+      "https://sebastianraschka.com/llm-architecture-gallery/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 04:03:00",
+      "https://lobste.rs/s/oevwjg/anthropic_authoritarian_ethic"
+    ],
+    [
+      "Anthropic and The Authoritarian Ethic",
+      "https://blog.giovanh.com/blog/2026/03/03/anthropic-and-the-authoritarian-ethic/"
+    ]
+  ],
+  [
+    [
+      "2026-03-16, 02:09:39",
+      "https://lobste.rs/s/uweff0/year_wordhopper_development"
+    ],
+    [
+      "A Year of WordHopper - Development Retrospective (2024)",
+      "https://kokoscript.com/2024/015.html"
+    ]
+  ],
+  [
+    [
       "2026-03-15, 21:40:39",
       "https://lobste.rs/s/vio5wq/rack_mount_hydroponics"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-03-15, 19:09:25",
-      "https://lobste.rs/s/e0dgqd/bypassing_deep_packet_inspection_with"
-    ],
-    [
-      "Bypassing deep packet inspection with socat and HTTPS tunnels",
-      "https://blog.bofh.it/debian/id_472"
-    ]
-  ],
-  [
-    [
       "2026-03-15, 17:16:39",
       "https://lobste.rs/s/oahtd6/codegen_is_not_productivity"
     ],
@@ -77,16 +97,6 @@
     [
       "Separating the Wayland Compositor and Window Manager",
       "https://isaacfreund.com/blog/river-window-management/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 13:55:20",
-      "https://lobste.rs/s/50tanv/snail_mail_sign_ups"
-    ],
-    [
-      "Snail Mail Sign-Ups",
-      "https://btxx.org/posts/snail-mail-signups/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Ageless Linux — Software for Humans of Indeterminate Age",
       "https://agelesslinux.org/"
-    ]
-  ],
-  [
-    [
-      "2026-03-14, 18:21:09",
-      "https://lobste.rs/s/kyrt0i/sunsetting_jazzband"
-    ],
-    [
-      "Sunsetting Jazzband",
-      "https://jazzband.co/news/2026/03/14/sunsetting-jazzband"
     ]
   ],
   [
