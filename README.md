@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-16, 20:04:10](https://lobste.rs/s/o9zwv3/video_encoding_decoding_with_vulkan) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 * [2026-03-16, 18:33:47](https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes) - [When perfection is table stakes](https://lukeplant.me.uk/blog/posts/when-perfection-is-table-stakes/)
 * [2026-03-16, 17:47:57](https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla) - [Modeling Token Buckets in PlusCal and TLA+](http://muratbuffalo.blogspot.com/2026/03/modeling-token-buckets-in-pluscal-and.html)
 * [2026-03-16, 17:07:11](https://lobste.rs/s/bpeg4o/gleam_v1_15_0_released) - [Gleam v1.15.0 released](https://gleam.run/news/upgrading-hex-security/)
@@ -14,7 +15,6 @@
 * [2026-03-16, 09:34:03](https://lobste.rs/s/vif92k/visicalc_reconstructed) - [VisiCalc reconstructed](https://zserge.com/posts/visicalc/)
 * [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_can_governments_pay_open_source) - [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
 * [2026-03-16, 08:03:03](https://lobste.rs/s/bzllmf/why_i_love_freebsd) - [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
-* [2026-03-16, 07:43:31](https://lobste.rs/s/9aztse/ghosts_demons_undefined_behavior_c2y) - [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf)
 * [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
 * [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 * [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
