@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 09:34:03](https://lobste.rs/s/vif92k/visicalc_reconstructed) - [VisiCalc reconstructed](https://zserge.com/posts/visicalc/)
 * [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_get_money_from_government_for_your) - [How to get money from the government for your open source project](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
 * [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_can_governments_pay_open_source) - [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
 * [2026-03-16, 08:17:40](https://lobste.rs/s/vibzwd/ncpu_cpu_implemented_using_neural) - [nCPU: a CPU implemented using neural networks, runs completely on GPU](https://github.com/robertcprice/nCPU)
