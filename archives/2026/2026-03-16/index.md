@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 15:02:32](https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu) - [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/)
+* [2026-03-16, 14:56:57](https://lobste.rs/s/m6ksen/local_first_personal_database_you_can) - [A local-first personal database you can extend with apps and manage with AI](https://superego.dev/)
 * [2026-03-16, 12:50:33](https://lobste.rs/s/tskynu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tskynu/what_are_you_doing_this_week)
 * [2026-03-16, 09:34:03](https://lobste.rs/s/vif92k/visicalc_reconstructed) - [VisiCalc reconstructed](https://zserge.com/posts/visicalc/)
 * [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_get_money_from_government_for_your) - [How to get money from the government for your open source project](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
