@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-16, 21:01:10](https://lobste.rs/s/1br6fz/free_airport_ride_exchange_platform) - [Free airport ride exchange platform](https://airportswap.com/)
 * [2026-03-16, 20:04:10](https://lobste.rs/s/o9zwv3/video_encoding_decoding_with_vulkan) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 * [2026-03-16, 18:33:47](https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes) - [When perfection is table stakes](https://lukeplant.me.uk/blog/posts/when-perfection-is-table-stakes/)
 * [2026-03-16, 17:47:57](https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla) - [Modeling Token Buckets in PlusCal and TLA+](http://muratbuffalo.blogspot.com/2026/03/modeling-token-buckets-in-pluscal-and.html)
@@ -24,7 +25,6 @@
 * [2026-03-15, 19:12:06](https://lobste.rs/s/e1skzj/linux_distribution_designed_eliminate) - [A Linux distribution designed to eliminate single points of failure](https://stagex.tools/)
 * [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
-* [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 
 ## [Archives](archives/index.md)
 
