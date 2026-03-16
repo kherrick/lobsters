@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
 * [2026-03-16, 21:01:10](https://lobste.rs/s/1br6fz/free_airport_ride_exchange_platform) - [Free airport ride exchange platform](https://airportswap.com/)
 * [2026-03-16, 20:04:10](https://lobste.rs/s/o9zwv3/video_encoding_decoding_with_vulkan) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 * [2026-03-16, 18:33:47](https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes) - [When perfection is table stakes](https://lukeplant.me.uk/blog/posts/when-perfection-is-table-stakes/)
