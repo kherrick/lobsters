@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-16, 08:17:40](https://lobste.rs/s/vibzwd/ncpu_cpu_implemented_using_neural) - [nCPU: a CPU implemented using neural networks, runs completely on GPU](https://github.com/robertcprice/nCPU)
+* [2026-03-16, 08:03:03](https://lobste.rs/s/bzllmf/why_i_love_freebsd) - [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 07:43:31](https://lobste.rs/s/9aztse/ghosts_demons_undefined_behavior_c2y) - [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf)
-* [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
 * [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 * [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
 * [2026-03-16, 04:07:43](https://lobste.rs/s/q7izua/llm_architecture_gallery) - [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/)
@@ -20,7 +21,6 @@
 * [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 * [2026-03-15, 07:11:12](https://lobste.rs/s/mizmno/summary_rust_project_perspectives_on_ai) - [Summary - Rust Project Perspectives on AI](https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html)
 * [2026-03-15, 05:19:49](https://lobste.rs/s/nc3c14/changes_openttd_distribution_on_steam) - [Changes to OpenTTD distribution on Steam](https://www.openttd.org/news/2026/03/14/steam-changes)
-* [2026-03-15, 04:53:03](https://lobste.rs/s/xnfsd4/gentle_introduction_mercury) - [A Gentle Introduction to Mercury](https://bctnry.github.io/gentle-introduction-to-mercury/)
 * [2026-03-15, 04:05:08](https://lobste.rs/s/dvynxz/lotusnotes) - [LotusNotes](https://computer.rip/2026-03-14-lotusnotes.html)
 * [2026-03-15, 02:57:26](https://lobste.rs/s/dw0hx5/tree_style_invite_systems_reduce_ai_slop) - [tree-style invite systems reduce AI slop](https://abyss.fish/tree-style_invite_systems_reduce_AI_slop)
 * [2026-03-15, 01:17:17](https://lobste.rs/s/cxiddw/ageless_linux_software_for_humans) - [Ageless Linux — Software for Humans of Indeterminate Age](https://agelesslinux.org/)

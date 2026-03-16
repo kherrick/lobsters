@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 08:17:40](https://lobste.rs/s/vibzwd/ncpu_cpu_implemented_using_neural) - [nCPU: a CPU implemented using neural networks, runs completely on GPU](https://github.com/robertcprice/nCPU)
+* [2026-03-16, 08:03:03](https://lobste.rs/s/bzllmf/why_i_love_freebsd) - [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 07:43:31](https://lobste.rs/s/9aztse/ghosts_demons_undefined_behavior_c2y) - [Ghosts and Demons: Undefined Behavior in C2Y](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3861.pdf)
 * [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
 * [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
