@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-16](index.md)
 
+* [2026-03-16, 16:28:54](https://lobste.rs/s/acbfik/clangd_for_cuda_device_code) - [clangd for CUDA device code](https://docs.scale-lang.com/stable/manual/tutorials/editors/editors/)
+* [2026-03-16, 16:04:48](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional) - [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8)
+* [2026-03-16, 16:02:25](https://lobste.rs/s/gahsrj/hacking_xbox_one) - [Hacking the Xbox One](https://www.youtube.com/watch?v=FTFn4UZsA5U)
+* [2026-03-16, 15:59:26](https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s) - [Patching LMDB: How We Made Meilisearch’s Vector Store 3x Faster](https://blog.kerollmops.com/patching-lmdb-how-we-made-meilisearch-s-vector-store-333-faster)
+* [2026-03-16, 15:56:31](https://lobste.rs/s/po4poj/even_faster_asin_was_staring_right_at_me) - [Even Faster asin() Was Staring Right At Me](https://16bpp.net/blog/post/even-faster-asin-was-staring-right-at-me/)
+* [2026-03-16, 15:16:16](https://lobste.rs/s/jgd1il/give_django_your_time_money_not_your) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
 * [2026-03-16, 15:02:32](https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu) - [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/)
 * [2026-03-16, 14:56:57](https://lobste.rs/s/m6ksen/local_first_personal_database_you_can) - [A local-first personal database you can extend with apps and manage with AI](https://superego.dev/)
 * [2026-03-16, 12:50:33](https://lobste.rs/s/tskynu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tskynu/what_are_you_doing_this_week)
