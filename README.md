@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-17, 18:41:43](https://lobste.rs/s/3ixbzr/decade_slug) - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 17:59:12](https://lobste.rs/s/qpqawd/paxos_algorithm_when_presented_plain) - [The Paxos algorithm, when presented in plain English, is very simple (2021)](https://www.mydistributed.systems/2021/04/paxos.html)
 * [2026-03-17, 17:08:16](https://lobste.rs/s/nvlqyc/python_3_15_s_jit_is_now_back_on_track) - [Python 3.15’s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 15:30:34](https://lobste.rs/s/ebjelg/introducing_postmarketos_duranium_more) - [Introducing postmarketOS Duranium: a more reliable postmarketOS](https://postmarketos.org/blog/2026/03/17/introducing-duranium/)
 * [2026-03-17, 14:46:37](https://lobste.rs/s/6dm3po/i_haven_t_made_anything_with_at_proto_yet) - [I haven't made anything with AT Proto yet](https://macwright.com/2026/03/16/atproto)
-* [2026-03-17, 14:33:39](https://lobste.rs/s/rzkoce/small_proposal_for_mixing_pq_kems_into) - [A small proposal for mixing PQ KEMs into Noise](https://runxiyu.org/comp/nkem1/)
 * [2026-03-17, 14:17:56](https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [2026-03-17, 14:00:19](https://lobste.rs/s/c2eiao/syntaqlite_high_fidelity_devtools) - [syntaqlite: high-fidelity devtools that SQLite deserves](https://lalitm.com/post/syntaqlite/)
 * [2026-03-17, 13:30:42](https://lobste.rs/s/jchpgd/building_shell) - [Building a Shell](https://healeycodes.com/building-a-shell)
