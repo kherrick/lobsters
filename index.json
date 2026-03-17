@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-17, 15:30:34",
+      "https://lobste.rs/s/ebjelg/introducing_postmarketos_duranium_more"
+    ],
+    [
+      "Introducing postmarketOS Duranium: a more reliable postmarketOS",
+      "https://postmarketos.org/blog/2026/03/17/introducing-duranium/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 14:46:37",
       "https://lobste.rs/s/6dm3po/i_haven_t_made_anything_with_at_proto_yet"
     ],
     [
       "I haven't made anything with AT Proto yet",
       "https://macwright.com/2026/03/16/atproto"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 14:33:39",
+      "https://lobste.rs/s/rzkoce/small_proposal_for_mixing_pq_kems_into"
+    ],
+    [
+      "A small proposal for mixing PQ KEMs into Noise",
+      "https://runxiyu.org/comp/nkem1/"
     ]
   ],
   [
@@ -67,6 +87,16 @@
     [
       "Ways of Seeing the Web",
       "https://inkdroid.org/2026/03/16/seeing-the-web/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 11:20:09",
+      "https://lobste.rs/s/qepntz/data_center_as_computer"
+    ],
+    [
+      "The Data Center as a Computer",
+      "https://datacenter-book.org/"
     ]
   ],
   [
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2026-03-17, 00:40:32",
-      "https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven"
-    ],
-    [
-      "Oxyde ORM - Django-like Pydantic-driven Async ORM",
-      "https://oxyde.fatalyst.dev/0.5/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 22:49:25",
-      "https://lobste.rs/s/p6ihyc/avian_physics_0_6"
-    ],
-    [
-      "Avian Physics 0.6",
-      "https://joonaa.dev/blog/12/avian-0-6"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 22:16:34",
       "https://lobste.rs/s/h6ntut/typenix_full_typing_for_nix_based_on"
     ],
@@ -187,16 +197,6 @@
     [
       "The Gemini Protocol in 2026",
       "https://kevinboone.me/gemini_2026.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 21:01:10",
-      "https://lobste.rs/s/1br6fz/free_airport_ride_exchange_platform"
-    ],
-    [
-      "Free airport ride exchange platform",
-      "https://airportswap.com/"
     ]
   ],
   [
