@@ -7,6 +7,7 @@
 * [2026-03-17, 05:32:09](https://lobste.rs/s/3sxwnf/silent_struggle_anxiety_software) - [The Silent Struggle: Anxiety in Software Development](https://caio.ca/blog/anxiety-software-development.html)
 * [2026-03-17, 05:13:50](https://lobste.rs/s/gjmri9/memory_allocation_strategies) - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
 * [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
+* [2026-03-17, 03:52:05](https://lobste.rs/s/3ezrbn/road_not_taken_world_where_ipv4_evolved) - [The Road Not Taken: A World Where IPv4 Evolved](https://owl.billpg.com/ipv4x/)
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 02:20:55](https://lobste.rs/s/wskuet/building_software_protection_system) - [building a software protection system from first principles](https://seg6.space/posts/software-protection-system/)
 * [2026-03-17, 01:37:49](https://lobste.rs/s/atcriy/i_ve_added_human_json_my_website) - [I’ve added human.json to my website](https://sethmlarson.dev/ive-added-human-dot-json-to-my-website)
