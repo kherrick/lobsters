@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
+* [2026-03-17, 10:19:55](https://lobste.rs/s/xr2lv8/linkedin_speak_was_added_kagi_translate) - [\"LinkedIn Speak\" was added to Kagi Translate](https://bsky.app/profile/kagi.com/post/3mh7v3y6m2c2d)
 * [2026-03-17, 08:47:51](https://lobste.rs/s/limy4i/how_we_made_payload_search_60x_faster) - [How We Made Payload Search 60x Faster in ClickHouse](https://hookdeck.com/blog/how-we-made-payload-search-60x-faster-in-clickhouse)
 * [2026-03-17, 06:26:20](https://lobste.rs/s/wa5ghq/few_notes_about_macbook_neo) - [A few notes about the MacBook Neo](https://morrick.me/archives/10286)
 * [2026-03-17, 05:32:09](https://lobste.rs/s/3sxwnf/silent_struggle_anxiety_software) - [The Silent Struggle: Anxiety in Software Development](https://caio.ca/blog/anxiety-software-development.html)
