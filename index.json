@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-17, 12:07:40",
+      "https://lobste.rs/s/tcn4gl/leanstral_open_source_foundation_for"
+    ],
+    [
+      "Leanstral: Open-Source foundation for trustworthy vibe-coding | Mistral AI",
+      "https://mistral.ai/news/leanstral"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 11:58:40",
+      "https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time"
+    ],
+    [
+      "yes, all longest regex matches in linear time is possible",
+      "https://iev.ee/blog/all-longest-regex-matches-in-linear-time/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 11:37:19",
+      "https://lobste.rs/s/wqy4el/self_hosted_search"
+    ],
+    [
+      "Self Hosted Search",
+      "https://blog.kemonine.info/blog/2026-03-10-self-hosted-search/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 11:32:26",
       "https://lobste.rs/s/sfvqfr/ways_seeing_web"
     ],
@@ -27,16 +57,6 @@
     [
       "\"LinkedIn Speak\" was added to Kagi Translate",
       "https://bsky.app/profile/kagi.com/post/3mh7v3y6m2c2d"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 08:47:51",
-      "https://lobste.rs/s/limy4i/how_we_made_payload_search_60x_faster"
-    ],
-    [
-      "How We Made Payload Search 60x Faster in ClickHouse",
-      "https://hookdeck.com/blog/how-we-made-payload-search-60x-faster-in-clickhouse"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "building a software protection system from first principles",
       "https://seg6.space/posts/software-protection-system/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 01:37:49",
-      "https://lobste.rs/s/atcriy/i_ve_added_human_json_my_website"
-    ],
-    [
-      "I’ve added human.json to my website",
-      "https://sethmlarson.dev/ive-added-human-dot-json-to-my-website"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Hacking the Xbox One",
       "https://www.youtube.com/watch?v=FTFn4UZsA5U"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 15:59:26",
-      "https://lobste.rs/s/q1c7it/patching_lmdb_how_we_made_meilisearch_s"
-    ],
-    [
-      "Patching LMDB: How We Made Meilisearch’s Vector Store 3x Faster",
-      "https://blog.kerollmops.com/patching-lmdb-how-we-made-meilisearch-s-vector-store-333-faster"
     ]
   ],
   [
