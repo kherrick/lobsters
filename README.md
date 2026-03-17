@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
+* [2026-03-17, 02:20:55](https://lobste.rs/s/wskuet/building_software_protection_system) - [building a software protection system from first principles](https://seg6.space/posts/software-protection-system/)
+* [2026-03-17, 01:37:49](https://lobste.rs/s/atcriy/i_ve_added_human_json_my_website) - [I’ve added human.json to my website](https://sethmlarson.dev/ive-added-human-dot-json-to-my-website)
 * [2026-03-17, 00:40:32](https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven) - [Oxyde ORM - Django-like Pydantic-driven Async ORM](https://oxyde.fatalyst.dev/0.5/)
-* [2026-03-17, 00:18:22](https://lobste.rs/s/b7ufpg/lightweight_linux_flow_data_collector) - [Lightweight Linux flow data collector](https://github.com/stepbrobd/rfm)
 * [2026-03-16, 22:49:25](https://lobste.rs/s/p6ihyc/avian_physics_0_6) - [Avian Physics 0.6](https://joonaa.dev/blog/12/avian-0-6)
 * [2026-03-16, 22:16:34](https://lobste.rs/s/h6ntut/typenix_full_typing_for_nix_based_on) - [typenix: Full typing for Nix based on TypeScript](https://github.com/ryanrasti/typenix)
 * [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
@@ -16,7 +18,6 @@
 * [2026-03-16, 15:16:16](https://lobste.rs/s/jgd1il/give_django_your_time_money_not_your) - [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
 * [2026-03-16, 15:02:32](https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu) - [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/)
 * [2026-03-16, 12:50:33](https://lobste.rs/s/tskynu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/tskynu/what_are_you_doing_this_week)
-* [2026-03-16, 09:34:03](https://lobste.rs/s/vif92k/visicalc_reconstructed) - [VisiCalc reconstructed](https://zserge.com/posts/visicalc/)
 * [2026-03-16, 09:08:43](https://lobste.rs/s/tqjosq/how_can_governments_pay_open_source) - [How Can Governments Pay Open Source Maintainers?](https://shkspr.mobi/blog/2026/03/how-can-governments-pay-open-source-maintainers/)
 * [2026-03-16, 08:03:03](https://lobste.rs/s/bzllmf/why_i_love_freebsd) - [Why I Love FreeBSD](https://it-notes.dragas.net/2026/03/16/why-i-love-freebsd/)
 * [2026-03-16, 07:14:45](https://lobste.rs/s/zqorsc/good_haskell_libraries) - [Good Haskell Libraries](http://jackkelly.name/wiki/haskell/libraries.html)
@@ -24,7 +25,6 @@
 * [2026-03-16, 05:08:26](https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client) - [Introducing pgtui, a Postgres TUI client](https://kdwarn.net/programming/blog/227)
 * [2026-03-15, 21:40:39](https://lobste.rs/s/vio5wq/rack_mount_hydroponics) - [rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 * [2026-03-15, 13:59:00](https://lobste.rs/s/pk2axu/separating_wayland_compositor_window) - [Separating the Wayland Compositor and Window Manager](https://isaacfreund.com/blog/river-window-management/)
-* [2026-03-15, 10:23:43](https://lobste.rs/s/yqnihu/gothub_is_live) - [Gothub is live](https://x61.sh/log/2026/03/14032026191148-gothub.html)
 
 ## [Archives](archives/index.md)
 
