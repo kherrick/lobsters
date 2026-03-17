@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 08:47:51](https://lobste.rs/s/limy4i/how_we_made_payload_search_60x_faster) - [How We Made Payload Search 60x Faster in ClickHouse](https://hookdeck.com/blog/how-we-made-payload-search-60x-faster-in-clickhouse)
+* [2026-03-17, 06:26:20](https://lobste.rs/s/wa5ghq/few_notes_about_macbook_neo) - [A few notes about the MacBook Neo](https://morrick.me/archives/10286)
 * [2026-03-17, 05:32:09](https://lobste.rs/s/3sxwnf/silent_struggle_anxiety_software) - [The Silent Struggle: Anxiety in Software Development](https://caio.ca/blog/anxiety-software-development.html)
 * [2026-03-17, 05:13:50](https://lobste.rs/s/gjmri9/memory_allocation_strategies) - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
 * [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
