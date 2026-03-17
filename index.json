@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-17, 00:40:32",
+      "https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven"
+    ],
+    [
+      "Oxyde ORM - Django-like Pydantic-driven Async ORM",
+      "https://oxyde.fatalyst.dev/0.5/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 00:18:22",
+      "https://lobste.rs/s/b7ufpg/lightweight_linux_flow_data_collector"
+    ],
+    [
+      "Lightweight Linux flow data collector",
+      "https://github.com/stepbrobd/rfm"
+    ]
+  ],
+  [
+    [
       "2026-03-16, 22:49:25",
       "https://lobste.rs/s/p6ihyc/avian_physics_0_6"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-03-16, 15:05:11",
-      "https://lobste.rs/s/4l6adm/two_worlds_programming_why_developers"
-    ],
-    [
-      "The two worlds of programming: why developers who make the same observations about LLMs come to opposite conclusions",
-      "https://www.baldurbjarnason.com/2026/the-two-worlds-of-programming/"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 15:02:32",
       "https://lobste.rs/s/8is8ya/reviewing_large_changes_with_jujutsu"
     ],
@@ -217,16 +227,6 @@
     [
       "rack-mount hydroponics",
       "https://sa.lj.am/rack-mount-hydroponics/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 21:34:44",
-      "https://lobste.rs/s/8pfxqy/i_let_claude_code_configure_my_arch"
-    ],
-    [
-      "I let Claude Code configure my Arch install",
-      "https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles"
     ]
   ],
   [
