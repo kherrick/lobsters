@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-17, 11:32:26",
+      "https://lobste.rs/s/sfvqfr/ways_seeing_web"
+    ],
+    [
+      "Ways of Seeing the Web",
+      "https://inkdroid.org/2026/03/16/seeing-the-web/"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 10:53:54",
       "https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about"
     ],
@@ -101,6 +111,16 @@
   ],
   [
     [
+      "2026-03-17, 01:37:49",
+      "https://lobste.rs/s/atcriy/i_ve_added_human_json_my_website"
+    ],
+    [
+      "I’ve added human.json to my website",
+      "https://sethmlarson.dev/ive-added-human-dot-json-to-my-website"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 00:40:32",
       "https://lobste.rs/s/hh3pyy/oxyde_orm_django_like_pydantic_driven"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-03-16, 20:04:10",
-      "https://lobste.rs/s/o9zwv3/video_encoding_decoding_with_vulkan"
-    ],
-    [
-      "Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg",
-      "https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg"
-    ]
-  ],
-  [
-    [
       "2026-03-16, 18:33:47",
       "https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes"
     ],
@@ -177,16 +187,6 @@
     [
       "Gleam v1.15.0 released",
       "https://gleam.run/news/upgrading-hex-security/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 16:04:48",
-      "https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional"
-    ],
-    [
-      "AI is making CEOs delusional",
-      "https://www.youtube.com/watch?v=Q6nem-F8AG8"
     ]
   ],
   [
