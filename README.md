@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-17, 19:41:08](https://lobste.rs/s/0qgr1l/from_wsl_bare_metal_linux) - [From WSL to bare-metal Linux](https://ochagavia.nl/blog/from-wsl-to-bare-metal-linux/)
 * [2026-03-17, 18:41:43](https://lobste.rs/s/3ixbzr/decade_slug) - [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 * [2026-03-17, 17:59:12](https://lobste.rs/s/qpqawd/paxos_algorithm_when_presented_plain) - [The Paxos algorithm, when presented in plain English, is very simple (2021)](https://www.mydistributed.systems/2021/04/paxos.html)
 * [2026-03-17, 17:08:16](https://lobste.rs/s/nvlqyc/python_3_15_s_jit_is_now_back_on_track) - [Python 3.15’s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
@@ -10,7 +11,6 @@
 * [2026-03-17, 13:30:42](https://lobste.rs/s/jchpgd/building_shell) - [Building a Shell](https://healeycodes.com/building-a-shell)
 * [2026-03-17, 12:13:01](https://lobste.rs/s/avyqzl/web_1000_lines_c) - [The web in 1000 lines of C](https://maurycyz.com/projects/tinyweb/)
 * [2026-03-17, 11:58:40](https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time) - [yes, all longest regex matches in linear time is possible](https://iev.ee/blog/all-longest-regex-matches-in-linear-time/)
-* [2026-03-17, 11:32:26](https://lobste.rs/s/sfvqfr/ways_seeing_web) - [Ways of Seeing the Web](https://inkdroid.org/2026/03/16/seeing-the-web/)
 * [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
 * [2026-03-17, 10:19:55](https://lobste.rs/s/xr2lv8/linkedin_speak_was_added_kagi_translate) - [\"LinkedIn Speak\" was added to Kagi Translate](https://bsky.app/profile/kagi.com/post/3mh7v3y6m2c2d)
 * [2026-03-17, 06:26:20](https://lobste.rs/s/wa5ghq/few_notes_about_macbook_neo) - [A few notes about the MacBook Neo](https://morrick.me/archives/10286)
