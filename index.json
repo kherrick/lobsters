@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-17, 08:47:51",
+      "https://lobste.rs/s/limy4i/how_we_made_payload_search_60x_faster"
+    ],
+    [
+      "How We Made Payload Search 60x Faster in ClickHouse",
+      "https://hookdeck.com/blog/how-we-made-payload-search-60x-faster-in-clickhouse"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 06:26:20",
+      "https://lobste.rs/s/wa5ghq/few_notes_about_macbook_neo"
+    ],
+    [
+      "A few notes about the MacBook Neo",
+      "https://morrick.me/archives/10286"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 05:32:09",
       "https://lobste.rs/s/3sxwnf/silent_struggle_anxiety_software"
     ],
@@ -57,16 +77,6 @@
     [
       "building a software protection system from first principles",
       "https://seg6.space/posts/software-protection-system/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 01:37:49",
-      "https://lobste.rs/s/atcriy/i_ve_added_human_json_my_website"
-    ],
-    [
-      "I’ve added human.json to my website",
-      "https://sethmlarson.dev/ive-added-human-dot-json-to-my-website"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Try not to get scammed while looking for work",
       "https://trysound.io/try-not-to-get-scammed-while-looking-for-work/"
-    ]
-  ],
-  [
-    [
-      "2026-03-16, 05:08:26",
-      "https://lobste.rs/s/mbljtb/introducing_pgtui_postgres_tui_client"
-    ],
-    [
-      "Introducing pgtui, a Postgres TUI client",
-      "https://kdwarn.net/programming/blog/227"
     ]
   ],
   [
