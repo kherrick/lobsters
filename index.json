@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-17, 14:17:56",
+      "https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code"
+    ],
+    [
+      "A sufficiently detailed spec is code",
+      "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 14:00:19",
+      "https://lobste.rs/s/c2eiao/syntaqlite_high_fidelity_devtools"
+    ],
+    [
+      "syntaqlite: high-fidelity devtools that SQLite deserves",
+      "https://lalitm.com/post/syntaqlite/"
+    ]
+  ],
+  [
+    [
+      "2026-03-17, 13:30:42",
+      "https://lobste.rs/s/jchpgd/building_shell"
+    ],
+    [
+      "Building a Shell",
+      "https://healeycodes.com/building-a-shell"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 12:07:40",
       "https://lobste.rs/s/tcn4gl/leanstral_open_source_foundation_for"
     ],
@@ -17,16 +47,6 @@
     [
       "yes, all longest regex matches in linear time is possible",
       "https://iev.ee/blog/all-longest-regex-matches-in-linear-time/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 11:37:19",
-      "https://lobste.rs/s/wqy4el/self_hosted_search"
-    ],
-    [
-      "Self Hosted Search",
-      "https://blog.kemonine.info/blog/2026-03-10-self-hosted-search/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Jepsen: MariaDB Galera Cluster 12.1.2",
       "https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 02:20:55",
-      "https://lobste.rs/s/wskuet/building_software_protection_system"
-    ],
-    [
-      "building a software protection system from first principles",
-      "https://seg6.space/posts/software-protection-system/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Try not to get scammed while looking for work",
       "https://trysound.io/try-not-to-get-scammed-while-looking-for-work/"
-    ]
-  ],
-  [
-    [
-      "2026-03-15, 13:59:00",
-      "https://lobste.rs/s/pk2axu/separating_wayland_compositor_window"
-    ],
-    [
-      "Separating the Wayland Compositor and Window Manager",
-      "https://isaacfreund.com/blog/river-window-management/"
     ]
   ]
 ]
