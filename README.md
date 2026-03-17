@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-17, 05:13:50](https://lobste.rs/s/gjmri9/memory_allocation_strategies) - [Memory Allocation Strategies](https://www.gingerbill.org/series/memory-allocation-strategies/)
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-17, 02:20:55](https://lobste.rs/s/wskuet/building_software_protection_system) - [building a software protection system from first principles](https://seg6.space/posts/software-protection-system/)
 * [2026-03-17, 01:37:49](https://lobste.rs/s/atcriy/i_ve_added_human_json_my_website) - [I’ve added human.json to my website](https://sethmlarson.dev/ive-added-human-dot-json-to-my-website)
@@ -10,7 +11,6 @@
 * [2026-03-16, 21:01:10](https://lobste.rs/s/1br6fz/free_airport_ride_exchange_platform) - [Free airport ride exchange platform](https://airportswap.com/)
 * [2026-03-16, 20:04:10](https://lobste.rs/s/o9zwv3/video_encoding_decoding_with_vulkan) - [Video Encoding and Decoding with Vulkan Compute Shaders in FFmpeg](https://www.khronos.org/blog/video-encoding-and-decoding-with-vulkan-compute-shaders-in-ffmpeg)
 * [2026-03-16, 18:33:47](https://lobste.rs/s/mnkmag/when_perfection_is_table_stakes) - [When perfection is table stakes](https://lukeplant.me.uk/blog/posts/when-perfection-is-table-stakes/)
-* [2026-03-16, 17:47:57](https://lobste.rs/s/wus9u4/modeling_token_buckets_pluscal_tla) - [Modeling Token Buckets in PlusCal and TLA+](http://muratbuffalo.blogspot.com/2026/03/modeling-token-buckets-in-pluscal-and.html)
 * [2026-03-16, 17:07:11](https://lobste.rs/s/bpeg4o/gleam_v1_15_0_released) - [Gleam v1.15.0 released](https://gleam.run/news/upgrading-hex-security/)
 * [2026-03-16, 16:04:48](https://lobste.rs/s/6ge7xn/ai_is_making_ceos_delusional) - [AI is making CEOs delusional](https://www.youtube.com/watch?v=Q6nem-F8AG8)
 * [2026-03-16, 16:02:25](https://lobste.rs/s/gahsrj/hacking_xbox_one) - [Hacking the Xbox One](https://www.youtube.com/watch?v=FTFn4UZsA5U)
