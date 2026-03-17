@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-17, 18:41:43",
+      "https://lobste.rs/s/3ixbzr/decade_slug"
+    ],
+    [
+      "A Decade of Slug",
+      "https://terathon.com/blog/decade-slug.html"
+    ]
+  ],
+  [
+    [
       "2026-03-17, 17:59:12",
       "https://lobste.rs/s/qpqawd/paxos_algorithm_when_presented_plain"
     ],
@@ -37,16 +47,6 @@
     [
       "I haven't made anything with AT Proto yet",
       "https://macwright.com/2026/03/16/atproto"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 14:33:39",
-      "https://lobste.rs/s/rzkoce/small_proposal_for_mixing_pq_kems_into"
-    ],
-    [
-      "A small proposal for mixing PQ KEMs into Noise",
-      "https://runxiyu.org/comp/nkem1/"
     ]
   ],
   [
