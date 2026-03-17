@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 17:59:12](https://lobste.rs/s/qpqawd/paxos_algorithm_when_presented_plain) - [The Paxos algorithm, when presented in plain English, is very simple (2021)](https://www.mydistributed.systems/2021/04/paxos.html)
+* [2026-03-17, 17:08:16](https://lobste.rs/s/nvlqyc/python_3_15_s_jit_is_now_back_on_track) - [Python 3.15’s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 15:30:34](https://lobste.rs/s/ebjelg/introducing_postmarketos_duranium_more) - [Introducing postmarketOS Duranium: a more reliable postmarketOS](https://postmarketos.org/blog/2026/03/17/introducing-duranium/)
 * [2026-03-17, 14:46:37](https://lobste.rs/s/6dm3po/i_haven_t_made_anything_with_at_proto_yet) - [I haven't made anything with AT Proto yet](https://macwright.com/2026/03/16/atproto)
 * [2026-03-17, 14:33:39](https://lobste.rs/s/rzkoce/small_proposal_for_mixing_pq_kems_into) - [A small proposal for mixing PQ KEMs into Noise](https://runxiyu.org/comp/nkem1/)
