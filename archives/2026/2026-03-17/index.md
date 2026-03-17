@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 14:46:37](https://lobste.rs/s/6dm3po/i_haven_t_made_anything_with_at_proto_yet) - [I haven't made anything with AT Proto yet](https://macwright.com/2026/03/16/atproto)
 * [2026-03-17, 14:17:56](https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [2026-03-17, 14:00:19](https://lobste.rs/s/c2eiao/syntaqlite_high_fidelity_devtools) - [syntaqlite: high-fidelity devtools that SQLite deserves](https://lalitm.com/post/syntaqlite/)
 * [2026-03-17, 13:30:42](https://lobste.rs/s/jchpgd/building_shell) - [Building a Shell](https://healeycodes.com/building-a-shell)
+* [2026-03-17, 12:13:01](https://lobste.rs/s/avyqzl/web_1000_lines_c) - [The web in 1000 lines of C](https://maurycyz.com/projects/tinyweb/)
 * [2026-03-17, 12:07:40](https://lobste.rs/s/tcn4gl/leanstral_open_source_foundation_for) - [Leanstral: Open-Source foundation for trustworthy vibe-coding | Mistral AI](https://mistral.ai/news/leanstral)
 * [2026-03-17, 11:58:40](https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time) - [yes, all longest regex matches in linear time is possible](https://iev.ee/blog/all-longest-regex-matches-in-linear-time/)
 * [2026-03-17, 11:37:19](https://lobste.rs/s/wqy4el/self_hosted_search) - [Self Hosted Search](https://blog.kemonine.info/blog/2026-03-10-self-hosted-search/)
