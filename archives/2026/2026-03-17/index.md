@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-17](index.md)
 
+* [2026-03-17, 12:07:40](https://lobste.rs/s/tcn4gl/leanstral_open_source_foundation_for) - [Leanstral: Open-Source foundation for trustworthy vibe-coding | Mistral AI](https://mistral.ai/news/leanstral)
+* [2026-03-17, 11:58:40](https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time) - [yes, all longest regex matches in linear time is possible](https://iev.ee/blog/all-longest-regex-matches-in-linear-time/)
+* [2026-03-17, 11:37:19](https://lobste.rs/s/wqy4el/self_hosted_search) - [Self Hosted Search](https://blog.kemonine.info/blog/2026-03-10-self-hosted-search/)
 * [2026-03-17, 11:32:26](https://lobste.rs/s/sfvqfr/ways_seeing_web) - [Ways of Seeing the Web](https://inkdroid.org/2026/03/16/seeing-the-web/)
 * [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
 * [2026-03-17, 10:19:55](https://lobste.rs/s/xr2lv8/linkedin_speak_was_added_kagi_translate) - [\"LinkedIn Speak\" was added to Kagi Translate](https://bsky.app/profile/kagi.com/post/3mh7v3y6m2c2d)
