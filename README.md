@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-18, 09:04:38](https://lobste.rs/s/jlgau3/c_26_span_improvements) - [C++26: Span improvements](https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements)
 * [2026-03-18, 08:54:47](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 04:53:55](https://lobste.rs/s/dsi02i/ai_assassinating_intelligence) - [AI - Assassinating Intelligence](https://yashgarg.dev/posts/ai-slop/)
@@ -24,7 +25,6 @@
 * [2026-03-17, 03:52:05](https://lobste.rs/s/3ezrbn/road_not_taken_world_where_ipv4_evolved) - [The Road Not Taken: A World Where IPv4 Evolved](https://owl.billpg.com/ipv4x/)
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 * [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
-* [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 09:04:38](https://lobste.rs/s/jlgau3/c_26_span_improvements) - [C++26: Span improvements](https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements)
 * [2026-03-18, 08:54:47](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_explore_small_web_with) - [Wander: Explore the small web with a decentralised network of recommendations](https://susam.net/wander/)
