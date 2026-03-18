@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_explore_small_web_with) - [Wander: Explore the small web with a decentralised network of recommendations](https://susam.net/wander/)
 * [2026-03-18, 04:53:55](https://lobste.rs/s/dsi02i/ai_assassinating_intelligence) - [AI - Assassinating Intelligence](https://yashgarg.dev/posts/ai-slop/)
 * [2026-03-18, 02:41:12](https://lobste.rs/s/j5m4fq/most_important_software_innovations) - [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html)
 * [2026-03-18, 00:05:45](https://lobste.rs/s/ldjzqh/first_package_written_algol_68_lands) - [First package written in Algol 68 lands in Gentoo](https://jemarch.net/20260205-gentoo-algol68.html)
-* [2026-03-17, 22:28:40](https://lobste.rs/s/14dsoq/hugo2nostr_bridge) - [hugo2nostr bridge](https://github.com/delirehberi/hugo2nostr)
 * [2026-03-17, 22:06:09](https://lobste.rs/s/u5gqg6/lhcb_collaboration_discovers_new_proton) - [LHCb Collaboration discovers new proton-like particle](https://home.cern/news/news/physics/lhcb-collaboration-discovers-new-proton-particle)
 * [2026-03-17, 22:05:57](https://lobste.rs/s/8t1bpx/methods_languages_for_systems) - [Methods in Languages for Systems Programming (2023)](https://blog.xoria.org/methods/)
 * [2026-03-17, 18:49:35](https://lobste.rs/s/qusrlu/tale_about_fixing_ebpf_spinlock_issues) - [A tale about fixing eBPF spinlock issues in the Linux kernel](https://www.rovarma.com/articles/a-tale-about-fixing-ebpf-spinlock-issues-in-the-linux-kernel/)
