@@ -1,11 +1,21 @@
 [
   [
     [
-      "2026-03-18, 16:54:40",
-      "https://lobste.rs/s/qleyyk/writing_consistent_tools"
+      "2026-03-18, 19:41:26",
+      "https://lobste.rs/s/y9q0oe/how_burn_30m_on_javascript_framework"
     ],
     [
-      "Writing Consistent Tools",
+      "How to burn $30m on a JavaScript framework",
+      "https://www.youtube.com/watch?v=ReAnFFqvCeA"
+    ]
+  ],
+  [
+    [
+      "2026-03-18, 16:54:40",
+      "https://lobste.rs/s/qleyyk/writing_consistent_tools_2019"
+    ],
+    [
+      "Writing Consistent Tools (2019)",
       "https://www.netmeister.org/blog/consistent-tools.html"
     ]
   ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2026-03-18, 09:04:38",
+      "https://lobste.rs/s/jlgau3/c_26_span_improvements"
+    ],
+    [
+      "C++26: Span improvements",
+      "https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 08:54:47",
       "https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building"
     ],
@@ -155,7 +175,7 @@
       "https://lobste.rs/s/j5m4fq/most_important_software_innovations"
     ],
     [
-      "The Most Important Software Innovations",
+      "The Most Important Software Innovations (2021)",
       "https://dwheeler.com/innovation/innovation.html"
     ]
   ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-03-17, 15:30:34",
-      "https://lobste.rs/s/ebjelg/introducing_postmarketos_duranium_more"
-    ],
-    [
-      "Introducing postmarketOS Duranium: a more reliable postmarketOS",
-      "https://postmarketos.org/blog/2026/03/17/introducing-duranium/"
-    ]
-  ],
-  [
-    [
       "2026-03-17, 14:17:56",
       "https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code"
     ],
     [
       "A sufficiently detailed spec is code",
       "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 11:58:40",
-      "https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time"
-    ],
-    [
-      "yes, all longest regex matches in linear time is possible",
-      "https://iev.ee/blog/all-longest-regex-matches-in-linear-time/"
     ]
   ],
   [
