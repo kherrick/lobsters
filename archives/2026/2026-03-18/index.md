@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 15:16:13](https://lobste.rs/s/raomjk/beyond_hypermodern_python_is_easy_now) - [Beyond Hypermodern: Python is easy now](https://rdrn.me/postmodern-python/)
+* [2026-03-18, 15:09:04](https://lobste.rs/s/rpwavv/hijacking_chrome_s_network_tab_debug) - [hijacking chrome's network tab to debug an electron app](https://seg6.space/posts/debug-proxy-ffi/)
 * [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 13:04:47](https://lobste.rs/s/tr5qdg/celebrating_tony_hoare_s_mark_on_computer) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 * [2026-03-18, 12:54:27](https://lobste.rs/s/h6ai7b/seeing_types_where_others_don_t) - [Seeing types where others don't](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html)
