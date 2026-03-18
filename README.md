@@ -8,6 +8,7 @@
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
 * [2026-03-18, 15:53:18](https://lobste.rs/s/fbyvmx/go_home_windows_exe_you_re_drunk) - [Go Home, Windows EXE, You're Drunk](https://gpfault.net/posts/drunk-exe.html)
 * [2026-03-18, 15:44:05](https://lobste.rs/s/2tspe2/beam_metrics_clickhouse) - [BEAM Metrics in ClickHouse](https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/)
+* [2026-03-18, 15:33:14](https://lobste.rs/s/rpeiwl/accessing_hardware_rust) - [Accessing Hardware in Rust](https://ferrous-systems.com/blog/hardware-access-rust/)
 * [2026-03-18, 15:16:13](https://lobste.rs/s/raomjk/beyond_hypermodern_python_is_easy_now) - [Beyond Hypermodern: Python is easy now](https://rdrn.me/postmodern-python/)
 * [2026-03-18, 15:09:04](https://lobste.rs/s/rpwavv/hijacking_chrome_s_network_tab_debug) - [hijacking chrome's network tab to debug an electron app](https://seg6.space/posts/debug-proxy-ffi/)
 * [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
@@ -24,7 +25,6 @@
 * [2026-03-17, 14:17:56](https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
 * [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
-* [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
 
 ## [Archives](archives/index.md)
 
