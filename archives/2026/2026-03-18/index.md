@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 23:29:12](https://lobste.rs/s/tioyif/very_lightweight_nixos_router_server) - [Very lightweight NixOS router/server flow data collector](https://discourse.nixos.org/t/very-lightweight-nixos-router-server-flow-data-collector/76309)
+* [2026-03-18, 23:03:30](https://lobste.rs/s/vuk8lc/nvidia_greenboost_transparently_extend) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 * [2026-03-18, 21:29:51](https://lobste.rs/s/5ebeb4/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers (update)](https://dacav.org/projects/supercazzola/)
 * [2026-03-18, 19:53:19](https://lobste.rs/s/ywrcll/java_26_is_here_with_it_solid_foundation) - [Java 26 Is Here, And With It a Solid Foundation for the Future](https://hanno.codes/2026/03/17/java-26-is-here/)
 * [2026-03-18, 19:41:26](https://lobste.rs/s/y9q0oe/how_burn_30m_on_javascript_framework) - [How to burn $30m on a JavaScript framework](https://www.youtube.com/watch?v=ReAnFFqvCeA)
