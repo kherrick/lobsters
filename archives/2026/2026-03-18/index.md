@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 21:29:51](https://lobste.rs/s/5ebeb4/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers (update)](https://dacav.org/projects/supercazzola/)
 * [2026-03-18, 19:53:19](https://lobste.rs/s/ywrcll/java_26_is_here_with_it_solid_foundation) - [Java 26 Is Here, And With It a Solid Foundation for the Future](https://hanno.codes/2026/03/17/java-26-is-here/)
 * [2026-03-18, 19:41:26](https://lobste.rs/s/y9q0oe/how_burn_30m_on_javascript_framework) - [How to burn $30m on a JavaScript framework](https://www.youtube.com/watch?v=ReAnFFqvCeA)
 * [2026-03-18, 16:54:40](https://lobste.rs/s/qleyyk/writing_consistent_tools_2019) - [Writing Consistent Tools (2019)](https://www.netmeister.org/blog/consistent-tools.html)
