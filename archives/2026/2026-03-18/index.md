@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
 * [2026-03-18, 16:54:40](https://lobste.rs/s/qleyyk/writing_consistent_tools) - [Writing Consistent Tools](https://www.netmeister.org/blog/consistent-tools.html)
+* [2026-03-18, 16:40:29](https://lobste.rs/s/xvmquo/how_kernel_anti_cheats_work_deep_dive_into) - [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-18, 16:37:32](https://lobste.rs/s/ith92s/radicle_1_7_0_daffodil) - [Radicle 1.7.0 – Daffodil](https://radicle.xyz/2026/03/18/radicle-1.7.0)
 * [2026-03-18, 16:30:13](https://lobste.rs/s/njbefh/open_source_gave_me_everything_until_i_had) - [Open Source Gave Me Everything Until I Had Nothing Left to Give](https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give)
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
