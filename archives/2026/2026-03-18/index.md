@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 16:54:40](https://lobste.rs/s/qleyyk/writing_consistent_tools) - [Writing Consistent Tools](https://www.netmeister.org/blog/consistent-tools.html)
+* [2026-03-18, 16:37:32](https://lobste.rs/s/ith92s/radicle_1_7_0_daffodil) - [Radicle 1.7.0 – Daffodil](https://radicle.xyz/2026/03/18/radicle-1.7.0)
+* [2026-03-18, 16:30:13](https://lobste.rs/s/njbefh/open_source_gave_me_everything_until_i_had) - [Open Source Gave Me Everything Until I Had Nothing Left to Give](https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give)
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
 * [2026-03-18, 15:53:18](https://lobste.rs/s/fbyvmx/go_home_windows_exe_you_re_drunk) - [Go Home, Windows EXE, You're Drunk](https://gpfault.net/posts/drunk-exe.html)
 * [2026-03-18, 15:44:05](https://lobste.rs/s/2tspe2/beam_metrics_clickhouse) - [BEAM Metrics in ClickHouse](https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/)
+* [2026-03-18, 15:33:14](https://lobste.rs/s/rpeiwl/accessing_hardware_rust) - [Accessing Hardware in Rust](https://ferrous-systems.com/blog/hardware-access-rust/)
 * [2026-03-18, 15:16:13](https://lobste.rs/s/raomjk/beyond_hypermodern_python_is_easy_now) - [Beyond Hypermodern: Python is easy now](https://rdrn.me/postmodern-python/)
 * [2026-03-18, 15:09:04](https://lobste.rs/s/rpwavv/hijacking_chrome_s_network_tab_debug) - [hijacking chrome's network tab to debug an electron app](https://seg6.space/posts/debug-proxy-ffi/)
 * [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
