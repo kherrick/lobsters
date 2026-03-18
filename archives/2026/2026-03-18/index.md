@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-18](index.md)
 
+* [2026-03-18, 19:41:26](https://lobste.rs/s/y9q0oe/how_burn_30m_on_javascript_framework) - [How to burn $30m on a JavaScript framework](https://www.youtube.com/watch?v=ReAnFFqvCeA)
+* [2026-03-18, 16:54:40](https://lobste.rs/s/qleyyk/writing_consistent_tools_2019) - [Writing Consistent Tools (2019)](https://www.netmeister.org/blog/consistent-tools.html)
 * [2026-03-18, 16:54:40](https://lobste.rs/s/qleyyk/writing_consistent_tools) - [Writing Consistent Tools](https://www.netmeister.org/blog/consistent-tools.html)
 * [2026-03-18, 16:40:29](https://lobste.rs/s/xvmquo/how_kernel_anti_cheats_work_deep_dive_into) - [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-18, 16:37:32](https://lobste.rs/s/ith92s/radicle_1_7_0_daffodil) - [Radicle 1.7.0 – Daffodil](https://radicle.xyz/2026/03/18/radicle-1.7.0)
