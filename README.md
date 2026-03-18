@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-18, 04:53:55](https://lobste.rs/s/dsi02i/ai_assassinating_intelligence) - [AI - Assassinating Intelligence](https://yashgarg.dev/posts/ai-slop/)
 * [2026-03-18, 02:41:12](https://lobste.rs/s/j5m4fq/most_important_software_innovations) - [The Most Important Software Innovations](https://dwheeler.com/innovation/innovation.html)
 * [2026-03-18, 00:05:45](https://lobste.rs/s/ldjzqh/first_package_written_algol_68_lands) - [First package written in Algol 68 lands in Gentoo](https://jemarch.net/20260205-gentoo-algol68.html)
 * [2026-03-17, 22:28:40](https://lobste.rs/s/14dsoq/hugo2nostr_bridge) - [hugo2nostr bridge](https://github.com/delirehberi/hugo2nostr)
@@ -22,7 +23,6 @@
 * [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
 * [2026-03-17, 03:52:05](https://lobste.rs/s/3ezrbn/road_not_taken_world_where_ipv4_evolved) - [The Road Not Taken: A World Where IPv4 Evolved](https://owl.billpg.com/ipv4x/)
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
-* [2026-03-16, 22:16:34](https://lobste.rs/s/h6ntut/typenix_full_typing_for_nix_based_on) - [typenix: Full typing for Nix based on TypeScript](https://github.com/ryanrasti/typenix)
 * [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
 * [2026-03-16, 06:16:34](https://lobste.rs/s/yhc5ug/try_not_get_scammed_while_looking_for_work) - [Try not to get scammed while looking for work](https://trysound.io/try-not-to-get-scammed-while-looking-for-work/)
 
