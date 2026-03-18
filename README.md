@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
+* [2026-03-18, 13:04:47](https://lobste.rs/s/tr5qdg/celebrating_tony_hoare_s_mark_on_computer) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
+* [2026-03-18, 12:54:27](https://lobste.rs/s/h6ai7b/seeing_types_where_others_don_t) - [Seeing types where others don't](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html)
 * [2026-03-18, 09:04:38](https://lobste.rs/s/jlgau3/c_26_span_improvements) - [C++26: Span improvements](https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements)
 * [2026-03-18, 08:54:47](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
@@ -19,12 +22,9 @@
 * [2026-03-17, 12:13:01](https://lobste.rs/s/avyqzl/web_1000_lines_c) - [The web in 1000 lines of C](https://maurycyz.com/projects/tinyweb/)
 * [2026-03-17, 11:58:40](https://lobste.rs/s/jtp62p/yes_all_longest_regex_matches_linear_time) - [yes, all longest regex matches in linear time is possible](https://iev.ee/blog/all-longest-regex-matches-in-linear-time/)
 * [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
-* [2026-03-17, 10:19:55](https://lobste.rs/s/xr2lv8/linkedin_speak_was_added_kagi_translate) - [\"LinkedIn Speak\" was added to Kagi Translate](https://bsky.app/profile/kagi.com/post/3mh7v3y6m2c2d)
-* [2026-03-17, 06:26:20](https://lobste.rs/s/wa5ghq/few_notes_about_macbook_neo) - [A few notes about the MacBook Neo](https://morrick.me/archives/10286)
 * [2026-03-17, 04:58:19](https://lobste.rs/s/elfva4/every_layer_review_makes_you_10x_slower) - [Every layer of review makes you 10x slower](https://apenwarr.ca/log/20260316)
 * [2026-03-17, 03:52:05](https://lobste.rs/s/3ezrbn/road_not_taken_world_where_ipv4_evolved) - [The Road Not Taken: A World Where IPv4 Evolved](https://owl.billpg.com/ipv4x/)
 * [2026-03-17, 03:46:34](https://lobste.rs/s/7olqjk/jepsen_mariadb_galera_cluster_12_1_2) - [Jepsen: MariaDB Galera Cluster 12.1.2](https://jepsen.io/analyses/mariadb-galera-cluster-12.1.2)
-* [2026-03-16, 21:33:41](https://lobste.rs/s/eoj99q/gemini_protocol_2026) - [The Gemini Protocol in 2026](https://kevinboone.me/gemini_2026.html)
 
 ## [Archives](archives/index.md)
 
