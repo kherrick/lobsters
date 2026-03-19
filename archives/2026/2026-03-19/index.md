@@ -6,6 +6,7 @@
 
 * [2026-03-19, 19:55:14](https://lobste.rs/s/mvcoda/acdc_asciidoc_tooling_rust) - [acdc - AsciiDoc tooling in Rust](https://acdc.nlopes.dev/)
 * [2026-03-19, 19:22:58](https://lobste.rs/s/740euz/monuses_heaps) - [Monuses and Heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
+* [2026-03-19, 18:52:28](https://lobste.rs/s/5d6qru/how_many_branches_can_your_cpu_predict) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-19, 18:20:53](https://lobste.rs/s/evllsj/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters (2022)](https://dl.acm.org/doi/pdf/10.1145/3510449?download=true)
 * [2026-03-19, 17:50:28](https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor) - [Getting Ziggy With It – Re: Factor](https://re.factorcode.org/2026/03/getting-ziggy-with-it.html)
 * [2026-03-19, 17:32:34](https://lobste.rs/s/g1ktjl/android_developer_verification) - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
