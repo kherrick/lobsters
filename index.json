@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-19, 12:04:07",
+      "https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is"
+    ],
+    [
+      "Building an LSP Server with Rust is surprisingly easy and fun",
+      "https://codeinput.com/blog/lsp-server"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 11:56:19",
       "https://lobste.rs/s/cllyvq/modular_monolith_dependencies"
     ],
     [
       "Modular Monolith: dependencies and communication between Modules",
       "https://binaryigor.com/modular-monolith-dependencies-and-communication.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 11:21:38",
+      "https://lobste.rs/s/gqdltt/comprehension_debt_hidden_cost_ai"
+    ],
+    [
+      "Comprehension Debt - the hidden cost of AI generated code",
+      "https://addyosmani.com/blog/comprehension-debt/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Java 26 Is Here, And With It a Solid Foundation for the Future",
       "https://hanno.codes/2026/03/17/java-26-is-here/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 16:40:29",
-      "https://lobste.rs/s/xvmquo/how_kernel_anti_cheats_work_deep_dive_into"
-    ],
-    [
-      "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
-      "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A sufficiently detailed spec is code",
       "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 10:53:54",
-      "https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about"
-    ],
-    [
-      "Age-Gating Isn’t About Kids, It’s About Control",
-      "https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control"
     ]
   ]
 ]
