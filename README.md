@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-19, 06:02:05](https://lobste.rs/s/8e6kdv/turning_chinese_character_structure) - [Turning Chinese Character Structure into a Strategy Game](https://store.steampowered.com/app/4218330/WordJoy/)
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
 * [2026-03-18, 23:29:12](https://lobste.rs/s/tioyif/very_lightweight_nixos_router_server) - [Very lightweight NixOS router/server flow data collector](https://discourse.nixos.org/t/very-lightweight-nixos-router-server-flow-data-collector/76309)
 * [2026-03-18, 23:03:30](https://lobste.rs/s/vuk8lc/nvidia_greenboost_transparently_extend) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
@@ -8,7 +9,6 @@
 * [2026-03-18, 16:54:40](https://lobste.rs/s/qleyyk/writing_consistent_tools_2019) - [Writing Consistent Tools (2019)](https://www.netmeister.org/blog/consistent-tools.html)
 * [2026-03-18, 16:40:29](https://lobste.rs/s/xvmquo/how_kernel_anti_cheats_work_deep_dive_into) - [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-18, 16:37:32](https://lobste.rs/s/ith92s/radicle_1_7_0_daffodil) - [Radicle 1.7.0 – Daffodil](https://radicle.xyz/2026/03/18/radicle-1.7.0)
-* [2026-03-18, 16:30:13](https://lobste.rs/s/njbefh/open_source_gave_me_everything_until_i_had) - [Open Source Gave Me Everything Until I Had Nothing Left to Give](https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give)
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
 * [2026-03-18, 15:53:18](https://lobste.rs/s/fbyvmx/go_home_windows_exe_you_re_drunk) - [Go Home, Windows EXE, You're Drunk](https://gpfault.net/posts/drunk-exe.html)
 * [2026-03-18, 15:44:05](https://lobste.rs/s/2tspe2/beam_metrics_clickhouse) - [BEAM Metrics in ClickHouse](https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/)
