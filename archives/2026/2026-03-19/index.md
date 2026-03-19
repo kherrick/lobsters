@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
 * [2026-03-19, 19:55:14](https://lobste.rs/s/mvcoda/acdc_asciidoc_tooling_rust) - [acdc - AsciiDoc tooling in Rust](https://acdc.nlopes.dev/)
+* [2026-03-19, 19:33:38](https://lobste.rs/s/gm6wyt/bug_report_macos_26_breaks_etc_resolver) - [Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
 * [2026-03-19, 19:22:58](https://lobste.rs/s/740euz/monuses_heaps) - [Monuses and Heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
 * [2026-03-19, 18:52:28](https://lobste.rs/s/5d6qru/how_many_branches_can_your_cpu_predict) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-19, 18:20:53](https://lobste.rs/s/evllsj/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters (2022)](https://dl.acm.org/doi/pdf/10.1145/3510449?download=true)
