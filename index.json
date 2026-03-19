@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-19, 04:41:45",
+      "https://lobste.rs/s/09wmcz/no_semicolons_needed"
+    ],
+    [
+      "No Semicolons Needed",
+      "https://terts.dev/blog/no-semicolons-needed/"
+    ]
+  ],
+  [
+    [
       "2026-03-18, 23:29:12",
       "https://lobste.rs/s/tioyif/very_lightweight_nixos_router_server"
     ],
@@ -167,16 +177,6 @@
     [
       "Seeing types where others don't",
       "https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 09:04:38",
-      "https://lobste.rs/s/jlgau3/c_26_span_improvements"
-    ],
-    [
-      "C++26: Span improvements",
-      "https://www.sandordargo.com/blog/2026/03/18/cpp26-span-improvements"
     ]
   ],
   [
