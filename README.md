@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-19, 12:04:07](https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is) - [Building an LSP Server with Rust is surprisingly easy and fun](https://codeinput.com/blog/lsp-server)
 * [2026-03-19, 11:56:19](https://lobste.rs/s/cllyvq/modular_monolith_dependencies) - [Modular Monolith: dependencies and communication between Modules](https://binaryigor.com/modular-monolith-dependencies-and-communication.html)
+* [2026-03-19, 11:21:38](https://lobste.rs/s/gqdltt/comprehension_debt_hidden_cost_ai) - [Comprehension Debt - the hidden cost of AI generated code](https://addyosmani.com/blog/comprehension-debt/)
 * [2026-03-19, 11:04:51](https://lobste.rs/s/audam9/shape_inequalities) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 09:45:13](https://lobste.rs/s/q01yur/warranty_void_if_regenerated) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
@@ -11,7 +13,6 @@
 * [2026-03-18, 23:03:30](https://lobste.rs/s/vuk8lc/nvidia_greenboost_transparently_extend) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 * [2026-03-18, 21:29:51](https://lobste.rs/s/5ebeb4/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers (update)](https://dacav.org/projects/supercazzola/)
 * [2026-03-18, 19:53:19](https://lobste.rs/s/ywrcll/java_26_is_here_with_it_solid_foundation) - [Java 26 Is Here, And With It a Solid Foundation for the Future](https://hanno.codes/2026/03/17/java-26-is-here/)
-* [2026-03-18, 16:40:29](https://lobste.rs/s/xvmquo/how_kernel_anti_cheats_work_deep_dive_into) - [How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection](https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/)
 * [2026-03-18, 16:37:32](https://lobste.rs/s/ith92s/radicle_1_7_0_daffodil) - [Radicle 1.7.0 – Daffodil](https://radicle.xyz/2026/03/18/radicle-1.7.0)
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
 * [2026-03-18, 15:53:18](https://lobste.rs/s/fbyvmx/go_home_windows_exe_you_re_drunk) - [Go Home, Windows EXE, You're Drunk](https://gpfault.net/posts/drunk-exe.html)
@@ -24,7 +25,6 @@
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 02:41:12](https://lobste.rs/s/j5m4fq/most_important_software_innovations) - [The Most Important Software Innovations (2021)](https://dwheeler.com/innovation/innovation.html)
 * [2026-03-17, 14:17:56](https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
-* [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
 
 ## [Archives](archives/index.md)
 

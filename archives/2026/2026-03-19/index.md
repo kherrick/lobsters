@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 12:04:07](https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is) - [Building an LSP Server with Rust is surprisingly easy and fun](https://codeinput.com/blog/lsp-server)
 * [2026-03-19, 11:56:19](https://lobste.rs/s/cllyvq/modular_monolith_dependencies) - [Modular Monolith: dependencies and communication between Modules](https://binaryigor.com/modular-monolith-dependencies-and-communication.html)
+* [2026-03-19, 11:21:38](https://lobste.rs/s/gqdltt/comprehension_debt_hidden_cost_ai) - [Comprehension Debt - the hidden cost of AI generated code](https://addyosmani.com/blog/comprehension-debt/)
 * [2026-03-19, 11:04:51](https://lobste.rs/s/audam9/shape_inequalities) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 09:45:13](https://lobste.rs/s/q01yur/warranty_void_if_regenerated) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-19, 07:34:13](https://lobste.rs/s/s5s19r/so_you_think_you_understand_ip) - [So you think you understand IP fragmentation? (2024)](https://lwn.net/Articles/960913/)
