@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-19, 13:28:54",
-      "https://lobste.rs/s/238xzb/openai_acquire_astral"
+      "2026-03-19, 14:01:12",
+      "https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through"
     ],
     [
-      "OpenAI to Acquire Astral",
-      "https://openai.com/index/openai-to-acquire-astral/"
+      "Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)",
+      "https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "AI's impact on mathematics is analogous to the car's impact on cities",
       "https://mathstodon.xyz/@tao/116252708577614828"
+    ]
+  ],
+  [
+    [
+      "2026-03-19, 12:14:46",
+      "https://lobste.rs/s/deodzu/snap_confine_systemd_tmpfiles_root_cve"
+    ],
+    [
+      "snap-confine + systemd-tmpfiles = root (CVE-2026-3888)",
+      "https://cdn2.qualys.com/advisory/2026/03/17/snap-confine-systemd-tmpfiles.txt"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
       "https://susam.net/wander/"
-    ]
-  ],
-  [
-    [
-      "2026-03-17, 14:17:56",
-      "https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code"
-    ],
-    [
-      "A sufficiently detailed spec is code",
-      "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code"
     ]
   ]
 ]
