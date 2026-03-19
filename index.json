@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-19, 03:47:25",
+      "https://lobste.rs/s/oeqmbx/data_is_code_2016"
+    ],
+    [
+      "Data is Code (2016)",
+      "https://haskellforall.com/2016/04/data-is-code"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 03:10:56",
       "https://lobste.rs/s/vba3az/49mb_web_page"
     ],
@@ -147,16 +157,6 @@
     [
       "Beyond Hypermodern: Python is easy now",
       "https://rdrn.me/postmodern-python/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 15:09:04",
-      "https://lobste.rs/s/rpwavv/hijacking_chrome_s_network_tab_debug"
-    ],
-    [
-      "hijacking chrome's network tab to debug an electron app",
-      "https://seg6.space/posts/debug-proxy-ffi/"
     ]
   ],
   [
