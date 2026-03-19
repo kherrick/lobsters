@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-19, 17:50:28](https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor) - [Getting Ziggy With It – Re: Factor](https://re.factorcode.org/2026/03/getting-ziggy-with-it.html)
 * [2026-03-19, 16:39:31](https://lobste.rs/s/nzg621/things_turbo_pascal_is_smaller_than_2011) - [Things That Turbo Pascal is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-03-19, 15:14:27](https://lobste.rs/s/ckreil/introducing_dial9_flight_recorder_for) - [Introducing dial9: a flight recorder for Tokio](https://tokio.rs/blog/2026-03-18-dial9)
 * [2026-03-19, 14:01:12](https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through) - [Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)](https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/)
@@ -15,7 +16,6 @@
 * [2026-03-18, 23:03:30](https://lobste.rs/s/vuk8lc/nvidia_greenboost_transparently_extend) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
 * [2026-03-18, 21:29:51](https://lobste.rs/s/5ebeb4/supercazzola_generate_spam_for_web) - [Supercazzola - Generate spam for web scrapers (update)](https://dacav.org/projects/supercazzola/)
 * [2026-03-18, 19:53:19](https://lobste.rs/s/ywrcll/java_26_is_here_with_it_solid_foundation) - [Java 26 Is Here, And With It a Solid Foundation for the Future](https://hanno.codes/2026/03/17/java-26-is-here/)
-* [2026-03-18, 16:37:32](https://lobste.rs/s/ith92s/radicle_1_7_0_daffodil) - [Radicle 1.7.0 – Daffodil](https://radicle.xyz/2026/03/18/radicle-1.7.0)
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
 * [2026-03-18, 15:53:18](https://lobste.rs/s/fbyvmx/go_home_windows_exe_you_re_drunk) - [Go Home, Windows EXE, You're Drunk](https://gpfault.net/posts/drunk-exe.html)
 * [2026-03-18, 15:44:05](https://lobste.rs/s/2tspe2/beam_metrics_clickhouse) - [BEAM Metrics in ClickHouse](https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/)
