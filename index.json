@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-03-19, 14:11:07",
+      "https://lobste.rs/s/xd4fd7/anthropic_s_hidden_vercel_competitor"
+    ],
+    [
+      "Anthropic's Hidden Vercel Competitor \"Antspace\"",
+      "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 14:01:12",
       "https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through"
     ],
@@ -237,16 +247,6 @@
     [
       "Self-Host and Tech Independence: The Joy of Building Your Own",
       "https://www.ssp.sh/blog/self-host-self-independence/"
-    ]
-  ],
-  [
-    [
-      "2026-03-18, 07:23:38",
-      "https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2"
-    ],
-    [
-      "Wander – A tiny, decentralised tool (just 2 files) to explore the small web",
-      "https://susam.net/wander/"
     ]
   ]
 ]
