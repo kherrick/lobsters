@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-19, 19:33:38",
+      "https://lobste.rs/s/gm6wyt/bug_report_macos_26_breaks_etc_resolver"
+    ],
+    [
+      "Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs",
+      "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a"
+    ]
+  ],
+  [
+    [
       "2026-03-19, 19:22:58",
       "https://lobste.rs/s/740euz/monuses_heaps"
     ],
@@ -77,16 +87,6 @@
     [
       "Introducing dial9: a flight recorder for Tokio",
       "https://tokio.rs/blog/2026-03-18-dial9"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 14:11:07",
-      "https://lobste.rs/s/xd4fd7/anthropic_s_hidden_vercel_competitor"
-    ],
-    [
-      "Anthropic's Hidden Vercel Competitor \"Antspace\"",
-      "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace"
     ]
   ],
   [
