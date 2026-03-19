@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
-* [2026-03-19, 03:47:25](https://lobste.rs/s/oeqmbx/data_is_code_2016) - [Data is Code (2016)](https://haskellforall.com/2016/04/data-is-code)
+* [2026-03-19, 03:10:56](https://lobste.rs/s/vba3az/49mb_web_page) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 * [2026-03-19, 02:56:11](https://lobste.rs/s/ccys1t/cve_2026_3888_snap_flaw_local_privilege) - [CVE-2026-3888: Snap Flaw, Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 * [2026-03-18, 23:29:12](https://lobste.rs/s/tioyif/very_lightweight_nixos_router_server) - [Very lightweight NixOS router/server flow data collector](https://discourse.nixos.org/t/very-lightweight-nixos-router-server-flow-data-collector/76309)
 * [2026-03-18, 23:03:30](https://lobste.rs/s/vuk8lc/nvidia_greenboost_transparently_extend) - [Nvidia greenboost: transparently extend GPU VRAM using system RAM/NVMe](https://gitlab.com/IsolatedOctopi/nvidia_greenboost)
@@ -15,6 +15,7 @@
 * [2026-03-18, 15:44:05](https://lobste.rs/s/2tspe2/beam_metrics_clickhouse) - [BEAM Metrics in ClickHouse](https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/)
 * [2026-03-18, 15:33:14](https://lobste.rs/s/rpeiwl/accessing_hardware_rust) - [Accessing Hardware in Rust](https://ferrous-systems.com/blog/hardware-access-rust/)
 * [2026-03-18, 15:16:13](https://lobste.rs/s/raomjk/beyond_hypermodern_python_is_easy_now) - [Beyond Hypermodern: Python is easy now](https://rdrn.me/postmodern-python/)
+* [2026-03-18, 15:09:04](https://lobste.rs/s/rpwavv/hijacking_chrome_s_network_tab_debug) - [hijacking chrome's network tab to debug an electron app](https://seg6.space/posts/debug-proxy-ffi/)
 * [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 * [2026-03-18, 13:04:47](https://lobste.rs/s/tr5qdg/celebrating_tony_hoare_s_mark_on_computer) - [Celebrating Tony Hoare's mark on computer science](https://bertrandmeyer.com/2026/03/16/celebrating-tony-hoares-mark-on-computer-science/)
 * [2026-03-18, 12:54:27](https://lobste.rs/s/h6ai7b/seeing_types_where_others_don_t) - [Seeing types where others don't](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html)
@@ -22,7 +23,6 @@
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
 * [2026-03-18, 04:53:55](https://lobste.rs/s/dsi02i/ai_assassinating_intelligence) - [AI - Assassinating Intelligence](https://yashgarg.dev/posts/ai-slop/)
 * [2026-03-18, 02:41:12](https://lobste.rs/s/j5m4fq/most_important_software_innovations) - [The Most Important Software Innovations (2021)](https://dwheeler.com/innovation/innovation.html)
-* [2026-03-17, 17:08:16](https://lobste.rs/s/nvlqyc/python_3_15_s_jit_is_now_back_on_track) - [Python 3.15’s JIT is now back on track](https://fidget-spinner.github.io/posts/jit-on-track.html)
 * [2026-03-17, 14:17:56](https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 * [2026-03-17, 10:53:54](https://lobste.rs/s/3hojx1/age_gating_isn_t_about_kids_it_s_about) - [Age-Gating Isn’t About Kids, It’s About Control](https://www.eff.org/deeplinks/2026/03/rep-finke-was-right-age-gating-isnt-about-kids-its-about-control)
 
