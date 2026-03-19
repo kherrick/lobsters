@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-19, 13:28:54](https://lobste.rs/s/238xzb/openai_acquire_astral) - [OpenAI to Acquire Astral](https://openai.com/index/openai-to-acquire-astral/)
+* [2026-03-19, 12:32:27](https://lobste.rs/s/nfkpw4/ai_s_impact_on_mathematics_is_analogous) - [AI's impact on mathematics is analogous to the car's impact on cities](https://mathstodon.xyz/@tao/116252708577614828)
 * [2026-03-19, 12:04:07](https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is) - [Building an LSP Server with Rust is surprisingly easy and fun](https://codeinput.com/blog/lsp-server)
 * [2026-03-19, 11:56:19](https://lobste.rs/s/cllyvq/modular_monolith_dependencies) - [Modular Monolith: dependencies and communication between Modules](https://binaryigor.com/modular-monolith-dependencies-and-communication.html)
 * [2026-03-19, 11:21:38](https://lobste.rs/s/gqdltt/comprehension_debt_hidden_cost_ai) - [Comprehension Debt - the hidden cost of AI generated code](https://addyosmani.com/blog/comprehension-debt/)
 * [2026-03-19, 11:04:51](https://lobste.rs/s/audam9/shape_inequalities) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 09:45:13](https://lobste.rs/s/q01yur/warranty_void_if_regenerated) - [Warranty Void If Regenerated](https://nearzero.software/p/warranty-void-if-regenerated)
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
-* [2026-03-19, 03:47:25](https://lobste.rs/s/oeqmbx/data_is_code_2016) - [Data is Code (2016)](https://haskellforall.com/2016/04/data-is-code)
 * [2026-03-19, 03:10:56](https://lobste.rs/s/vba3az/49mb_web_page) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 * [2026-03-19, 02:56:11](https://lobste.rs/s/ccys1t/cve_2026_3888_snap_flaw_local_privilege) - [CVE-2026-3888: Snap Flaw, Local Privilege Escalation to Root](https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root)
 * [2026-03-18, 23:29:12](https://lobste.rs/s/tioyif/very_lightweight_nixos_router_server) - [Very lightweight NixOS router/server flow data collector](https://discourse.nixos.org/t/very-lightweight-nixos-router-server-flow-data-collector/76309)
@@ -23,7 +24,6 @@
 * [2026-03-18, 12:54:27](https://lobste.rs/s/h6ai7b/seeing_types_where_others_don_t) - [Seeing types where others don't](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html)
 * [2026-03-18, 08:54:47](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 * [2026-03-18, 07:23:38](https://lobste.rs/s/hjipba/wander_tiny_decentralised_tool_just_2) - [Wander – A tiny, decentralised tool (just 2 files) to explore the small web](https://susam.net/wander/)
-* [2026-03-18, 02:41:12](https://lobste.rs/s/j5m4fq/most_important_software_innovations) - [The Most Important Software Innovations (2021)](https://dwheeler.com/innovation/innovation.html)
 * [2026-03-17, 14:17:56](https://lobste.rs/s/nlyezv/sufficiently_detailed_spec_is_code) - [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
 
 ## [Archives](archives/index.md)
