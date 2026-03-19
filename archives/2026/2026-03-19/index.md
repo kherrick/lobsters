@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-19](index.md)
 
+* [2026-03-19, 18:20:53](https://lobste.rs/s/evllsj/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters (2022)](https://dl.acm.org/doi/pdf/10.1145/3510449?download=true)
 * [2026-03-19, 17:50:28](https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor) - [Getting Ziggy With It – Re: Factor](https://re.factorcode.org/2026/03/getting-ziggy-with-it.html)
+* [2026-03-19, 17:27:06](https://lobste.rs/s/esdaue/update_on_steam_gog_changes_for_openttd) - [An update on Steam / GOG changes for OpenTTD](https://www.openttd.org/news/2026/03/19/steam-changes-update)
 * [2026-03-19, 16:39:31](https://lobste.rs/s/nzg621/things_turbo_pascal_is_smaller_than_2011) - [Things That Turbo Pascal is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-03-19, 15:14:27](https://lobste.rs/s/ckreil/introducing_dial9_flight_recorder_for) - [Introducing dial9: a flight recorder for Tokio](https://tokio.rs/blog/2026-03-18-dial9)
+* [2026-03-19, 14:11:07](https://lobste.rs/s/xd4fd7/anthropic_s_hidden_vercel_competitor) - [Anthropic's Hidden Vercel Competitor \"Antspace\"](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace)
 * [2026-03-19, 14:01:12](https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through) - [Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)](https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/)
 * [2026-03-19, 13:28:54](https://lobste.rs/s/238xzb/openai_acquire_astral) - [OpenAI to Acquire Astral](https://openai.com/index/openai-to-acquire-astral/)
 * [2026-03-19, 12:32:27](https://lobste.rs/s/nfkpw4/ai_s_impact_on_mathematics_is_analogous) - [AI's impact on mathematics is analogous to the car's impact on cities](https://mathstodon.xyz/@tao/116252708577614828)
