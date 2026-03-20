@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-20, 14:42:37](https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare) - [Life TV: Video with 2 bits to spare](https://maurycyz.com/projects/lifetv/)
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 13:47:35](https://lobste.rs/s/fg34ds/good_bad_leaky_jemalloc_bumpalo_mimalloc) - [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch)
 * [2026-03-20, 12:51:15](https://lobste.rs/s/cz3ux0/beat_paxos) - [Beat Paxos](http://muratbuffalo.blogspot.com/2026/03/break-paxos.html)
+* [2026-03-20, 12:30:38](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend)
 * [2026-03-20, 12:16:15](https://lobste.rs/s/5pkjai/wayland_set_linux_desktop_back_by_10_years) - [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
 * [2026-03-20, 11:59:40](https://lobste.rs/s/ozandm/social_smolnet) - [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html)
 * [2026-03-20, 11:16:14](https://lobste.rs/s/wictlh/unified_modules_for_your_nixfiles) - [Unified Modules For Your Nixfiles](https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/)
@@ -11,7 +13,6 @@
 * [2026-03-20, 10:21:12](https://lobste.rs/s/cvt7fd/enshittifaication) - [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/)
 * [2026-03-20, 08:12:32](https://lobste.rs/s/4zl7y3/atuin_v18_13_better_search_pty_proxy_ai_for) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 * [2026-03-20, 07:05:38](https://lobste.rs/s/1qcwfl/video_conferencing_with_durable_streams) - [Video Conferencing with Durable Streams](https://s2.dev/blog/video-conferencing)
-* [2026-03-20, 05:42:43](https://lobste.rs/s/bfhaih/minecraft_source_code_is_interesting) - [Minecraft Source Code is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
 * [2026-03-20, 04:55:43](https://lobste.rs/s/h008ee/100_kernel_bugs_30_days) - [100+ Kernel Bugs in 30 Days](https://substack.com/home/post/p-188916866)
 * [2026-03-20, 04:44:20](https://lobste.rs/s/fqwk8a/supply_chain_attack_using_invisible_code) - [Supply-chain attack using invisible code hits GitHub and other repositories](https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/)
 * [2026-03-20, 03:27:11](https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head (2025)](https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/)
@@ -24,7 +25,6 @@
 * [2026-03-19, 14:01:12](https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through) - [Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)](https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/)
 * [2026-03-19, 12:32:27](https://lobste.rs/s/nfkpw4/ai_s_impact_on_mathematics_is_analogous) - [AI's impact on mathematics is analogous to the car's impact on cities](https://mathstodon.xyz/@tao/116252708577614828)
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
-* [2026-03-19, 03:10:56](https://lobste.rs/s/vba3az/49mb_web_page) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
 
 ## [Archives](archives/index.md)
 
