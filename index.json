@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-20, 18:43:40",
+      "https://lobste.rs/s/vfsjtm/linear_temporal_logic_visualizer"
+    ],
+    [
+      "Linear Temporal Logic Visualizer",
+      "https://quickstrom.github.io/ltl-visualizer/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 18:08:40",
       "https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator"
     ],
@@ -97,16 +107,6 @@
     [
       "The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch",
       "https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 12:51:15",
-      "https://lobste.rs/s/cz3ux0/beat_paxos"
-    ],
-    [
-      "Beat Paxos",
-      "http://muratbuffalo.blogspot.com/2026/03/break-paxos.html"
     ]
   ],
   [
