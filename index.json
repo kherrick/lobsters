@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-20, 18:08:40",
+      "https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator"
+    ],
+    [
+      "Adding Live Reload to a Static Site Generator Written in Go",
+      "https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 17:55:57",
+      "https://lobste.rs/s/4fhlaz/trivy_compromised_second_time_malicious"
+    ],
+    [
+      "Trivy Compromised a Second Time - Malicious v0.69.4 Release",
+      "https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 17:42:40",
       "https://lobste.rs/s/8iyfng/related_ui_elements_should_not_appear"
     ],
@@ -21,22 +41,22 @@
   ],
   [
     [
+      "2026-03-20, 16:24:22",
+      "https://lobste.rs/s/phidcq/emacs_internal_01_is_lisp_runtime_c_not"
+    ],
+    [
+      "Emacs Internal #01: is a Lisp Runtime in C, Not an Editor",
+      "https://thecloudlet.github.io/technical/project/emacs-01/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 16:14:06",
       "https://lobste.rs/s/eewvj8/what_we_heard_about_rust_s_challenges_how"
     ],
     [
       "What we heard about Rust's challenges, and how we can address them",
       "https://blog.rust-lang.org/2026/03/20/rust-challenges.md/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 15:47:10",
-      "https://lobste.rs/s/ia6pyu/why_your_next_mobile_app_is_probably"
-    ],
-    [
-      "Why your next mobile app is probably headless",
-      "https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-03-19, 18:52:28",
-      "https://lobste.rs/s/5d6qru/how_many_branches_can_your_cpu_predict"
-    ],
-    [
-      "How many branches can your CPU predict?",
-      "https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 17:50:28",
       "https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor"
     ],
@@ -227,16 +237,6 @@
     [
       "Things That Turbo Pascal is Smaller Than (2011)",
       "https://prog21.dadgum.com/116.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 14:01:12",
-      "https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through"
-    ],
-    [
-      "Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)",
-      "https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/"
     ]
   ],
   [
