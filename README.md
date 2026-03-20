@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-03-20, 19:51:54](https://lobste.rs/s/4ovp13/developer_spotlight_somtochi_onyekwere) - [Developer Spotlight: Somtochi Onyekwere from Fly.io](https://theconsensus.dev/p/2026/03/19/developer-spotlight-somtochi-onyekwere.html)
+* [2026-03-20, 18:43:40](https://lobste.rs/s/vfsjtm/linear_temporal_logic_visualizer) - [Linear Temporal Logic Visualizer](https://quickstrom.github.io/ltl-visualizer/)
 * [2026-03-20, 18:08:40](https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator) - [Adding Live Reload to a Static Site Generator Written in Go](https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html)
 * [2026-03-20, 17:55:57](https://lobste.rs/s/4fhlaz/trivy_compromised_second_time_malicious) - [Trivy Compromised a Second Time - Malicious v0.69.4 Release](https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release)
 * [2026-03-20, 17:42:40](https://lobste.rs/s/8iyfng/related_ui_elements_should_not_appear) - [Related UI elements should not appear unrelated](https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated)
@@ -10,7 +11,6 @@
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 13:47:35](https://lobste.rs/s/fg34ds/good_bad_leaky_jemalloc_bumpalo_mimalloc) - [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch)
-* [2026-03-20, 12:51:15](https://lobste.rs/s/cz3ux0/beat_paxos) - [Beat Paxos](http://muratbuffalo.blogspot.com/2026/03/break-paxos.html)
 * [2026-03-20, 12:30:38](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend)
 * [2026-03-20, 12:16:15](https://lobste.rs/s/5pkjai/wayland_set_linux_desktop_back_by_10_years) - [Wayland set the Linux Desktop back by 10 years](https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years)
 * [2026-03-20, 11:59:40](https://lobste.rs/s/ozandm/social_smolnet) - [The Social Smolnet](https://ploum.net/2026-03-20-social-smolnet.html)
