@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-20](index.md)
+
+* [2026-03-20, 01:11:39](https://lobste.rs/s/s40j01/what_languages_is_arthur_whitney_style) - [What Languages is Arthur Whitney Style Code Possible in?](https://lobste.rs/s/s40j01/what_languages_is_arthur_whitney_style)

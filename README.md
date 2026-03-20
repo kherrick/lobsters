@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-20, 01:11:39](https://lobste.rs/s/s40j01/what_languages_is_arthur_whitney_style) - [What Languages is Arthur Whitney Style Code Possible in?](https://lobste.rs/s/s40j01/what_languages_is_arthur_whitney_style)
 * [2026-03-19, 19:55:14](https://lobste.rs/s/mvcoda/acdc_asciidoc_tooling_rust) - [acdc - AsciiDoc tooling in Rust](https://acdc.nlopes.dev/)
 * [2026-03-19, 19:33:38](https://lobste.rs/s/gm6wyt/bug_report_macos_26_breaks_etc_resolver) - [Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
 * [2026-03-19, 19:22:58](https://lobste.rs/s/740euz/monuses_heaps) - [Monuses and Heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
@@ -9,6 +10,7 @@
 * [2026-03-19, 17:32:34](https://lobste.rs/s/g1ktjl/android_developer_verification) - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
 * [2026-03-19, 16:39:31](https://lobste.rs/s/nzg621/things_turbo_pascal_is_smaller_than_2011) - [Things That Turbo Pascal is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
 * [2026-03-19, 15:14:27](https://lobste.rs/s/ckreil/introducing_dial9_flight_recorder_for) - [Introducing dial9: a flight recorder for Tokio](https://tokio.rs/blog/2026-03-18-dial9)
+* [2026-03-19, 14:11:07](https://lobste.rs/s/xd4fd7/anthropic_s_hidden_vercel_competitor) - [Anthropic's Hidden Vercel Competitor \"Antspace\"](https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace)
 * [2026-03-19, 14:01:12](https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through) - [Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)](https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/)
 * [2026-03-19, 12:32:27](https://lobste.rs/s/nfkpw4/ai_s_impact_on_mathematics_is_analogous) - [AI's impact on mathematics is analogous to the car's impact on cities](https://mathstodon.xyz/@tao/116252708577614828)
 * [2026-03-19, 12:04:07](https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is) - [Building an LSP Server with Rust is surprisingly easy and fun](https://codeinput.com/blog/lsp-server)
@@ -23,8 +25,6 @@
 * [2026-03-18, 16:13:42](https://lobste.rs/s/hoarih/gnome_50_released) - [GNOME 50 released](https://release.gnome.org/50/)
 * [2026-03-18, 15:53:18](https://lobste.rs/s/fbyvmx/go_home_windows_exe_you_re_drunk) - [Go Home, Windows EXE, You're Drunk](https://gpfault.net/posts/drunk-exe.html)
 * [2026-03-18, 13:29:14](https://lobste.rs/s/9keraw/rob_pike_s_5_rules_programming) - [Rob Pike's 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
-* [2026-03-18, 12:54:27](https://lobste.rs/s/h6ai7b/seeing_types_where_others_don_t) - [Seeing types where others don't](https://theconsensus.dev/p/2026/03/06/seeing-types-where-others-dont.html)
-* [2026-03-18, 08:54:47](https://lobste.rs/s/uxqiub/self_host_tech_independence_joy_building) - [Self-Host and Tech Independence: The Joy of Building Your Own](https://www.ssp.sh/blog/self-host-self-independence/)
 
 ## [Archives](archives/index.md)
 
