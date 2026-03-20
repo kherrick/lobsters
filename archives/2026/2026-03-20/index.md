@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 09:57:55](https://lobste.rs/s/5qq9iv/raphtory_temporal_graph_engine) - [Raphtory: The temporal graph engine](https://www.raphtory.com/)
 * [2026-03-20, 08:12:32](https://lobste.rs/s/4zl7y3/atuin_v18_13_better_search_pty_proxy_ai_for) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 * [2026-03-20, 07:05:38](https://lobste.rs/s/1qcwfl/video_conferencing_with_durable_streams) - [Video Conferencing with Durable Streams](https://s2.dev/blog/video-conferencing)
 * [2026-03-20, 05:42:43](https://lobste.rs/s/bfhaih/minecraft_source_code_is_interesting) - [Minecraft Source Code is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
