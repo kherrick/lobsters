@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-20, 15:47:10](https://lobste.rs/s/ia6pyu/why_your_next_mobile_app_is_probably) - [Why your next mobile app is probably headless](https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/)
 * [2026-03-20, 14:42:37](https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare) - [Life TV: Video with 2 bits to spare](https://maurycyz.com/projects/lifetv/)
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
@@ -21,7 +22,6 @@
 * [2026-03-19, 17:50:28](https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor) - [Getting Ziggy With It – Re: Factor](https://re.factorcode.org/2026/03/getting-ziggy-with-it.html)
 * [2026-03-19, 17:32:34](https://lobste.rs/s/g1ktjl/android_developer_verification) - [Android developer verification: Balancing openness and choice with safety](https://android-developers.googleblog.com/2026/03/android-developer-verification.html)
 * [2026-03-19, 16:39:31](https://lobste.rs/s/nzg621/things_turbo_pascal_is_smaller_than_2011) - [Things That Turbo Pascal is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
-* [2026-03-19, 15:14:27](https://lobste.rs/s/ckreil/introducing_dial9_flight_recorder_for) - [Introducing dial9: a flight recorder for Tokio](https://tokio.rs/blog/2026-03-18-dial9)
 * [2026-03-19, 14:01:12](https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through) - [Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)](https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/)
 * [2026-03-19, 12:32:27](https://lobste.rs/s/nfkpw4/ai_s_impact_on_mathematics_is_analogous) - [AI's impact on mathematics is analogous to the car's impact on cities](https://mathstodon.xyz/@tao/116252708577614828)
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)

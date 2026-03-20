@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 15:47:10](https://lobste.rs/s/ia6pyu/why_your_next_mobile_app_is_probably) - [Why your next mobile app is probably headless](https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/)
 * [2026-03-20, 14:42:37](https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare) - [Life TV: Video with 2 bits to spare](https://maurycyz.com/projects/lifetv/)
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
