@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-20, 04:55:43",
+      "https://lobste.rs/s/h008ee/100_kernel_bugs_30_days"
+    ],
+    [
+      "100+ Kernel Bugs in 30 Days",
+      "https://substack.com/home/post/p-188916866"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 04:44:20",
+      "https://lobste.rs/s/fqwk8a/supply_chain_attack_using_invisible_code"
+    ],
+    [
+      "Supply-chain attack using invisible code hits GitHub and other repositories",
+      "https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 03:27:11",
       "https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-03-19, 11:56:19",
-      "https://lobste.rs/s/cllyvq/modular_monolith_dependencies"
-    ],
-    [
-      "Modular Monolith: dependencies and communication between Modules",
-      "https://binaryigor.com/modular-monolith-dependencies-and-communication.html"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 11:21:38",
       "https://lobste.rs/s/gqdltt/comprehension_debt_hidden_cost_ai"
     ],
@@ -187,16 +197,6 @@
     [
       "The 49MB Web Page",
       "https://thatshubham.com/blog/news-audit"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 02:56:11",
-      "https://lobste.rs/s/ccys1t/cve_2026_3888_snap_flaw_local_privilege"
-    ],
-    [
-      "CVE-2026-3888: Snap Flaw, Local Privilege Escalation to Root",
-      "https://blog.qualys.com/vulnerabilities-threat-research/2026/03/17/cve-2026-3888-important-snap-flaw-enables-local-privilege-escalation-to-root"
     ]
   ],
   [
