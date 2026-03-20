@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-03-20, 12:51:15",
+      "https://lobste.rs/s/cz3ux0/beat_paxos"
+    ],
+    [
+      "Beat Paxos",
+      "http://muratbuffalo.blogspot.com/2026/03/break-paxos.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 12:30:38",
+      "https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 12:16:15",
       "https://lobste.rs/s/5pkjai/wayland_set_linux_desktop_back_by_10_years"
     ],
     [
       "Wayland set the Linux Desktop back by 10 years",
       "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 11:59:40",
+      "https://lobste.rs/s/ozandm/social_smolnet"
+    ],
+    [
+      "The Social Smolnet",
+      "https://ploum.net/2026-03-20-social-smolnet.html"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-03-19, 19:22:58",
-      "https://lobste.rs/s/740euz/monuses_heaps"
-    ],
-    [
-      "Monuses and Heaps",
-      "https://doisinkidney.com/posts/2026-03-03-monus-heaps.html"
-    ]
-  ],
-  [
-    [
       "2026-03-19, 18:52:28",
       "https://lobste.rs/s/5d6qru/how_many_branches_can_your_cpu_predict"
     ],
@@ -197,26 +217,6 @@
     [
       "AI's impact on mathematics is analogous to the car's impact on cities",
       "https://mathstodon.xyz/@tao/116252708577614828"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 12:04:07",
-      "https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is"
-    ],
-    [
-      "Building an LSP Server with Rust is surprisingly easy and fun",
-      "https://codeinput.com/blog/lsp-server"
-    ]
-  ],
-  [
-    [
-      "2026-03-19, 11:04:51",
-      "https://lobste.rs/s/audam9/shape_inequalities"
-    ],
-    [
-      "The Shape of Inequalities",
-      "https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/"
     ]
   ],
   [
