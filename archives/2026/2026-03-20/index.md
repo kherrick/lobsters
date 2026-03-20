@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
+* [2026-03-20, 07:05:38](https://lobste.rs/s/1qcwfl/video_conferencing_with_durable_streams) - [Video Conferencing with Durable Streams](https://s2.dev/blog/video-conferencing)
 * [2026-03-20, 05:42:43](https://lobste.rs/s/bfhaih/minecraft_source_code_is_interesting) - [Minecraft Source Code is Interesting](https://www.karanjanthe.me/posts/minecraft-source/)
 * [2026-03-20, 04:55:43](https://lobste.rs/s/h008ee/100_kernel_bugs_30_days) - [100+ Kernel Bugs in 30 Days](https://substack.com/home/post/p-188916866)
 * [2026-03-20, 04:44:20](https://lobste.rs/s/fqwk8a/supply_chain_attack_using_invisible_code) - [Supply-chain attack using invisible code hits GitHub and other repositories](https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/)
