@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-20](index.md)
 
 * [2026-03-20, 16:27:31](https://lobste.rs/s/bekb7j/lobsters_interview_with_internet) - [Lobsters Interview with Internet_Jannitor](https://alexalejandre.com/programming/interview-with-john-earnest/)
+* [2026-03-20, 16:24:22](https://lobste.rs/s/phidcq/emacs_internal_01_is_lisp_runtime_c_not) - [Emacs Internal #01: is a Lisp Runtime in C, Not an Editor](https://thecloudlet.github.io/technical/project/emacs-01/)
 * [2026-03-20, 16:14:06](https://lobste.rs/s/eewvj8/what_we_heard_about_rust_s_challenges_how) - [What we heard about Rust's challenges, and how we can address them](https://blog.rust-lang.org/2026/03/20/rust-challenges.md/)
 * [2026-03-20, 15:47:10](https://lobste.rs/s/ia6pyu/why_your_next_mobile_app_is_probably) - [Why your next mobile app is probably headless](https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/)
 * [2026-03-20, 14:42:37](https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare) - [Life TV: Video with 2 bits to spare](https://maurycyz.com/projects/lifetv/)
