@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-20, 10:43:55](https://lobste.rs/s/oh23lt/fedora_asahi_remix_43_is_now_available) - [Fedora Asahi Remix 43 is now available](https://fedoramagazine.org/fedora-asahi-remix-43-is-now-available/)
+* [2026-03-20, 10:21:12](https://lobste.rs/s/cvt7fd/enshittifaication) - [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/)
 * [2026-03-20, 09:57:55](https://lobste.rs/s/5qq9iv/raphtory_temporal_graph_engine) - [Raphtory: The temporal graph engine](https://www.raphtory.com/)
 * [2026-03-20, 08:12:32](https://lobste.rs/s/4zl7y3/atuin_v18_13_better_search_pty_proxy_ai_for) - [Atuin v18.13 – better search, a PTY proxy, and AI for your shell](https://blog.atuin.sh/atuin-v18-13/)
 * [2026-03-20, 07:05:38](https://lobste.rs/s/1qcwfl/video_conferencing_with_durable_streams) - [Video Conferencing with Durable Streams](https://s2.dev/blog/video-conferencing)
@@ -8,7 +10,6 @@
 * [2026-03-20, 04:44:20](https://lobste.rs/s/fqwk8a/supply_chain_attack_using_invisible_code) - [Supply-chain attack using invisible code hits GitHub and other repositories](https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/)
 * [2026-03-20, 03:27:11](https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head (2025)](https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 * [2026-03-20, 01:11:39](https://lobste.rs/s/s40j01/what_languages_is_arthur_whitney_style) - [What Languages is Arthur Whitney Style Code Possible in?](https://lobste.rs/s/s40j01/what_languages_is_arthur_whitney_style)
-* [2026-03-19, 19:33:38](https://lobste.rs/s/gm6wyt/bug_report_macos_26_breaks_etc_resolver) - [Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs](https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a)
 * [2026-03-19, 19:22:58](https://lobste.rs/s/740euz/monuses_heaps) - [Monuses and Heaps](https://doisinkidney.com/posts/2026-03-03-monus-heaps.html)
 * [2026-03-19, 18:52:28](https://lobste.rs/s/5d6qru/how_many_branches_can_your_cpu_predict) - [How many branches can your CPU predict?](https://lemire.me/blog/2026/03/18/how-many-branches-can-your-cpu-predict/)
 * [2026-03-19, 17:50:28](https://lobste.rs/s/3qhmza/getting_ziggy_with_it_re_factor) - [Getting Ziggy With It – Re: Factor](https://re.factorcode.org/2026/03/getting-ziggy-with-it.html)
@@ -18,7 +19,6 @@
 * [2026-03-19, 14:01:12](https://lobste.rs/s/vteijd/root_from_parking_lot_openwrt_xss_through) - [Root from the parking lot: OpenWRT XSS through SSID scanning (CVE-2026-32721)](https://mxsasha.eu/posts/openwrt-ssid-xss-to-root/)
 * [2026-03-19, 12:32:27](https://lobste.rs/s/nfkpw4/ai_s_impact_on_mathematics_is_analogous) - [AI's impact on mathematics is analogous to the car's impact on cities](https://mathstodon.xyz/@tao/116252708577614828)
 * [2026-03-19, 12:04:07](https://lobste.rs/s/qsbva3/building_lsp_server_with_rust_is) - [Building an LSP Server with Rust is surprisingly easy and fun](https://codeinput.com/blog/lsp-server)
-* [2026-03-19, 11:21:38](https://lobste.rs/s/gqdltt/comprehension_debt_hidden_cost_ai) - [Comprehension Debt - the hidden cost of AI generated code](https://addyosmani.com/blog/comprehension-debt/)
 * [2026-03-19, 11:04:51](https://lobste.rs/s/audam9/shape_inequalities) - [The Shape of Inequalities](https://www.andreinc.net/2026/03/16/the-shape-of-inequalities/)
 * [2026-03-19, 04:41:45](https://lobste.rs/s/09wmcz/no_semicolons_needed) - [No Semicolons Needed](https://terts.dev/blog/no-semicolons-needed/)
 * [2026-03-19, 03:10:56](https://lobste.rs/s/vba3az/49mb_web_page) - [The 49MB Web Page](https://thatshubham.com/blog/news-audit)
