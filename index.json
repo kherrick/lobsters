@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-21, 16:46:30",
+      "https://lobste.rs/s/fad6ua/using_go_dynamic_static_shared_libraries"
+    ],
+    [
+      "Using Go Dynamic and Static Shared libraries in C/C++ Programs",
+      "https://xuri.me/2022/04/15/go-shared-libraries.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 16:40:05",
+      "https://lobste.rs/s/hlsbcu/antix_26_released_with_5_init_systems"
+    ],
+    [
+      "antiX-26 released with 5 init systems",
+      "https://antixlinux.com/antix-26-released/"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 15:32:51",
       "https://lobste.rs/s/xfaivk/pigeon_s_device"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-20, 14:24:28",
-      "https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public"
-    ],
-    [
-      "Thunderbird: Introducing our Public Roadmaps",
-      "https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 13:53:48",
       "https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks"
     ],
@@ -227,16 +237,6 @@
     [
       "EnshittifAIcation",
       "https://it-notes.dragas.net/2026/03/20/enshittifaication/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 08:12:32",
-      "https://lobste.rs/s/4zl7y3/atuin_v18_13_better_search_pty_proxy_ai_for"
-    ],
-    [
-      "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
-      "https://blog.atuin.sh/atuin-v18-13/"
     ]
   ],
   [
