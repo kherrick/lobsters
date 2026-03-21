@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-21, 15:32:51](https://lobste.rs/s/xfaivk/pigeon_s_device) - [Pigeon's Device](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
 * [2026-03-21, 15:16:27](https://lobste.rs/s/uqeo3m/solod_go_can_be_better_c) - [Solod: Go can be a better C](https://antonz.org/solod/)
 * [2026-03-21, 14:58:47](https://lobste.rs/s/vxsjiv/why_craft_lovers_are_losing_their_craft) - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
 * [2026-03-21, 13:45:22](https://lobste.rs/s/72zcea/binary_dependencies_identifying_hidden) - [Binary Dependencies: Identifying the Hidden Packages We All Depend On](https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/)
@@ -17,7 +18,6 @@
 * [2026-03-20, 17:22:25](https://lobste.rs/s/svge6y/bio_bao_i_o_coprocessor) - [BIO: The Bao I/O Coprocessor](https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/)
 * [2026-03-20, 17:22:15](https://lobste.rs/s/rygnej/with_based_effect_notation) - [A with-based effect notation](https://blog.yoshuawuyts.com/a-with-based-effect-notation)
 * [2026-03-20, 16:27:31](https://lobste.rs/s/bekb7j/lobsters_interview_with_internet) - [Lobsters Interview with Internet_Jannitor](https://alexalejandre.com/programming/interview-with-john-earnest/)
-* [2026-03-20, 16:24:22](https://lobste.rs/s/phidcq/emacs_internal_01_is_lisp_runtime_c_not) - [Emacs Internal #01: is a Lisp Runtime in C, Not an Editor](https://thecloudlet.github.io/technical/project/emacs-01/)
 * [2026-03-20, 16:14:06](https://lobste.rs/s/eewvj8/what_we_heard_about_rust_s_challenges_how) - [What we heard about Rust's challenges, and how we can address them](https://blog.rust-lang.org/2026/03/20/rust-challenges.md/)
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
