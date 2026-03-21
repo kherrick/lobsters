@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-21, 06:14:17",
-      "https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root"
-    ],
-    [
-      "H&R Block tax software installs a TLS root certificate with bundled private key",
-      "https://news.ycombinator.com/item?id=47457162"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 04:23:02",
       "https://lobste.rs/s/dttagp/unix_philosophy_is_dead_long_live"
     ],
@@ -47,6 +37,16 @@
     [
       "Developer Spotlight: Somtochi Onyekwere from Fly.io",
       "https://theconsensus.dev/p/2026/03/19/developer-spotlight-somtochi-onyekwere.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 18:43:40",
+      "https://lobste.rs/s/vfsjtm/linear_temporal_logic_visualizer"
+    ],
+    [
+      "Linear Temporal Logic Visualizer",
+      "https://quickstrom.github.io/ltl-visualizer/"
     ]
   ],
   [
