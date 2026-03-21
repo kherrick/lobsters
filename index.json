@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-21, 15:32:51",
+      "https://lobste.rs/s/xfaivk/pigeon_s_device"
+    ],
+    [
+      "Pigeon's Device",
+      "http://pigeonsnest.co.uk/stuff/pigeons-device.html"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 15:16:27",
       "https://lobste.rs/s/uqeo3m/solod_go_can_be_better_c"
     ],
@@ -167,16 +177,6 @@
     [
       "Lobsters Interview with Internet_Jannitor",
       "https://alexalejandre.com/programming/interview-with-john-earnest/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 16:24:22",
-      "https://lobste.rs/s/phidcq/emacs_internal_01_is_lisp_runtime_c_not"
-    ],
-    [
-      "Emacs Internal #01: is a Lisp Runtime in C, Not an Editor",
-      "https://thecloudlet.github.io/technical/project/emacs-01/"
     ]
   ],
   [
