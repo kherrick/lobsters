@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-21, 19:47:14](https://lobste.rs/s/oexujn/engineer_who_tried_put_age_verification) - [The Engineer Who Tried to Put Age Verification Into Linux](https://www.sambent.com/the-engineer-who-tried-to-put-age-verification-into-linux-5/)
+* [2026-03-21, 19:58:06](https://lobste.rs/s/mznrvv/common_lisp_development_tooling) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
 * [2026-03-21, 19:07:09](https://lobste.rs/s/zoyqdb/monsterbook) - [MonsterBook](https://github.com/gladir/MonsterBook)
 * [2026-03-21, 18:14:32](https://lobste.rs/s/ufxrc1/predicting_home_electricity_usage_based) - [Predicting home electricity usage based on historical patterns in Home Assistant](https://blog.cyplo.dev/posts/2026/03/load-prediction-in-home-assistant/)
 * [2026-03-21, 18:11:40](https://lobste.rs/s/dgiw0r/when_writing_becomes_detached_from) - [When Writing Becomes Detached From Thought](https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-writing-becomes-detached-from-thought)
