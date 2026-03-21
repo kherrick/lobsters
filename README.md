@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-21, 19:07:09](https://lobste.rs/s/zoyqdb/monsterbook) - [MonsterBook](https://github.com/gladir/MonsterBook)
 * [2026-03-21, 18:14:32](https://lobste.rs/s/ufxrc1/predicting_home_electricity_usage_based) - [Predicting home electricity usage based on historical patterns in Home Assistant](https://blog.cyplo.dev/posts/2026/03/load-prediction-in-home-assistant/)
 * [2026-03-21, 18:11:40](https://lobste.rs/s/dgiw0r/when_writing_becomes_detached_from) - [When Writing Becomes Detached From Thought](https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-writing-becomes-detached-from-thought)
 * [2026-03-21, 17:40:43](https://lobste.rs/s/f598ob/infinite_lists_lean) - [Infinite Lists in Lean](https://unnamed.website/posts/infinite-lists-lean/)
@@ -24,7 +25,6 @@
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 12:30:38](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend)
 * [2026-03-20, 10:21:12](https://lobste.rs/s/cvt7fd/enshittifaication) - [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/)
-* [2026-03-20, 03:27:11](https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head (2025)](https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/)
 
 ## [Archives](archives/index.md)
 

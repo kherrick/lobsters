@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 19:07:09](https://lobste.rs/s/zoyqdb/monsterbook) - [MonsterBook](https://github.com/gladir/MonsterBook)
 * [2026-03-21, 18:14:32](https://lobste.rs/s/ufxrc1/predicting_home_electricity_usage_based) - [Predicting home electricity usage based on historical patterns in Home Assistant](https://blog.cyplo.dev/posts/2026/03/load-prediction-in-home-assistant/)
 * [2026-03-21, 18:11:40](https://lobste.rs/s/dgiw0r/when_writing_becomes_detached_from) - [When Writing Becomes Detached From Thought](https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-writing-becomes-detached-from-thought)
 * [2026-03-21, 17:43:07](https://lobste.rs/s/d46a3y/manifesto_for_rights_conscious) - [Manifesto for the Rights of Conscious Artificial Intelligence](https://abolitionist.ai/)
