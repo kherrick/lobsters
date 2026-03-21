@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 18:14:32](https://lobste.rs/s/ufxrc1/predicting_home_electricity_usage_based) - [Predicting home electricity usage based on historical patterns in Home Assistant](https://blog.cyplo.dev/posts/2026/03/load-prediction-in-home-assistant/)
+* [2026-03-21, 18:11:40](https://lobste.rs/s/dgiw0r/when_writing_becomes_detached_from) - [When Writing Becomes Detached From Thought](https://www.psychologytoday.com/us/blog/the-digital-self/202603/when-writing-becomes-detached-from-thought)
 * [2026-03-21, 17:43:07](https://lobste.rs/s/d46a3y/manifesto_for_rights_conscious) - [Manifesto for the Rights of Conscious Artificial Intelligence](https://abolitionist.ai/)
 * [2026-03-21, 17:40:43](https://lobste.rs/s/f598ob/infinite_lists_lean) - [Infinite Lists in Lean](https://unnamed.website/posts/infinite-lists-lean/)
 * [2026-03-21, 16:46:30](https://lobste.rs/s/fad6ua/using_go_dynamic_static_shared_libraries) - [Using Go Dynamic and Static Shared libraries in C/C++ Programs](https://xuri.me/2022/04/15/go-shared-libraries.html)
