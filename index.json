@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-21, 02:27:43",
+      "https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours"
+    ],
+    [
+      "What creative technical outlets of yours have been ruined by generative AI?",
+      "https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 00:11:38",
+      "https://lobste.rs/s/hvq58r/looking_at_unity_finally_made_me"
+    ],
+    [
+      "Looking at Unity finally made me understand the point of C++ coroutines",
+      "https://mropert.github.io/2026/03/20/unity_cpp_coroutines/"
+    ]
+  ],
+  [
+    [
       "2026-03-20, 19:51:54",
       "https://lobste.rs/s/4ovp13/developer_spotlight_somtochi_onyekwere"
     ],
     [
       "Developer Spotlight: Somtochi Onyekwere from Fly.io",
       "https://theconsensus.dev/p/2026/03/19/developer-spotlight-somtochi-onyekwere.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 18:43:40",
-      "https://lobste.rs/s/vfsjtm/linear_temporal_logic_visualizer"
-    ],
-    [
-      "Linear Temporal Logic Visualizer",
-      "https://quickstrom.github.io/ltl-visualizer/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "What we heard about Rust's challenges, and how we can address them",
       "https://blog.rust-lang.org/2026/03/20/rust-challenges.md/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 14:42:37",
-      "https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare"
-    ],
-    [
-      "Life TV: Video with 2 bits to spare",
-      "https://maurycyz.com/projects/lifetv/"
     ]
   ],
   [
