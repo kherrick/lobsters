@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-21, 06:14:17",
+      "https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root"
+    ],
+    [
+      "H&R Block tax software installs a TLS root certificate with bundled private key",
+      "https://news.ycombinator.com/item?id=47457162"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 04:23:02",
       "https://lobste.rs/s/dttagp/unix_philosophy_is_dead_long_live"
     ],
@@ -107,16 +117,6 @@
     [
       "What we heard about Rust's challenges, and how we can address them",
       "https://blog.rust-lang.org/2026/03/20/rust-challenges.md/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 14:42:37",
-      "https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare"
-    ],
-    [
-      "Life TV: Video with 2 bits to spare",
-      "https://maurycyz.com/projects/lifetv/"
     ]
   ],
   [
