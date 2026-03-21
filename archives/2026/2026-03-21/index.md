@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 21:38:55](https://lobste.rs/s/rnfqfd/maximally_minimal_view_types_baby_steps) - [Maximally minimal view types · baby steps](https://smallcultfollowing.com/babysteps/blog/2026/03/21/view-types-max-min/)
+* [2026-03-21, 21:37:27](https://lobste.rs/s/jr9zx6/ssh_certificates_git_signing) - [SSH certificates and git signing](https://codon.org.uk/~mjg59/blog/p/ssh-certificates-and-git-signing/)
 * [2026-03-21, 21:31:44](https://lobste.rs/s/6c0xve/console_debugger_for_async_rust) - [console: a debugger for async rust](https://github.com/tokio-rs/console)
 * [2026-03-21, 21:30:49](https://lobste.rs/s/jkoqlv/lok_digital) - [LOK Digital](https://lok-digital.com/)
 * [2026-03-21, 21:04:37](https://lobste.rs/s/nsnlxi/bye_bye_rtmp) - [bye bye RTMP](https://daniel.haxx.se/blog/2026/03/21/bye-bye-rtmp/)
