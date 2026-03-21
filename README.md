@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-21, 06:14:17](https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root) - [H&R Block tax software installs a TLS root certificate with bundled private key](https://news.ycombinator.com/item?id=47457162)
 * [2026-03-21, 04:23:02](https://lobste.rs/s/dttagp/unix_philosophy_is_dead_long_live) - [Unix philosophy is dead! Long live... something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/)
 * [2026-03-21, 02:27:43](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours) - [What creative technical outlets of yours have been ruined by generative AI?](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours)
 * [2026-03-21, 00:11:38](https://lobste.rs/s/hvq58r/looking_at_unity_finally_made_me) - [Looking at Unity finally made me understand the point of C++ coroutines](https://mropert.github.io/2026/03/20/unity_cpp_coroutines/)
@@ -11,7 +12,6 @@
 * [2026-03-20, 16:27:31](https://lobste.rs/s/bekb7j/lobsters_interview_with_internet) - [Lobsters Interview with Internet_Jannitor](https://alexalejandre.com/programming/interview-with-john-earnest/)
 * [2026-03-20, 16:24:22](https://lobste.rs/s/phidcq/emacs_internal_01_is_lisp_runtime_c_not) - [Emacs Internal #01: is a Lisp Runtime in C, Not an Editor](https://thecloudlet.github.io/technical/project/emacs-01/)
 * [2026-03-20, 16:14:06](https://lobste.rs/s/eewvj8/what_we_heard_about_rust_s_challenges_how) - [What we heard about Rust's challenges, and how we can address them](https://blog.rust-lang.org/2026/03/20/rust-challenges.md/)
-* [2026-03-20, 14:42:37](https://lobste.rs/s/gq80mb/life_tv_video_with_2_bits_spare) - [Life TV: Video with 2 bits to spare](https://maurycyz.com/projects/lifetv/)
 * [2026-03-20, 14:24:28](https://lobste.rs/s/htjtfq/thunderbird_introducing_our_public) - [Thunderbird: Introducing our Public Roadmaps](https://blog.thunderbird.net/2026/03/introducing-our-public-roadmaps/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 13:47:35](https://lobste.rs/s/fg34ds/good_bad_leaky_jemalloc_bumpalo_mimalloc) - [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch)
