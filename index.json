@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-21, 21:31:44",
+      "https://lobste.rs/s/6c0xve/console_debugger_for_async_rust"
+    ],
+    [
+      "console: a debugger for async rust",
+      "https://github.com/tokio-rs/console"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 21:30:49",
+      "https://lobste.rs/s/jkoqlv/lok_digital"
+    ],
+    [
+      "LOK Digital",
+      "https://lok-digital.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-21, 21:04:37",
+      "https://lobste.rs/s/nsnlxi/bye_bye_rtmp"
+    ],
+    [
+      "bye bye RTMP",
+      "https://daniel.haxx.se/blog/2026/03/21/bye-bye-rtmp/"
+    ]
+  ],
+  [
+    [
       "2026-03-21, 19:58:06",
       "https://lobste.rs/s/mznrvv/common_lisp_development_tooling"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-03-21, 14:10:33",
-      "https://lobste.rs/s/p3k4b2/typechecking_mcrl2"
-    ],
-    [
-      "Typechecking mCRL2",
-      "https://emi-h.com/articles/typechecking-mcrl2"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 13:45:22",
       "https://lobste.rs/s/72zcea/binary_dependencies_identifying_hidden"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-20, 17:55:57",
-      "https://lobste.rs/s/4fhlaz/trivy_compromised_second_time_malicious"
-    ],
-    [
-      "Trivy Compromised a Second Time - Malicious v0.69.4 Release",
-      "https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 17:42:40",
       "https://lobste.rs/s/8iyfng/related_ui_elements_should_not_appear"
     ],
@@ -227,16 +237,6 @@
     [
       "I'm OK being left behind, thanks",
       "https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 12:30:38",
-      "https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend"
     ]
   ],
   [
