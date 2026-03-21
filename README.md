@@ -2,7 +2,7 @@
 
 * [2026-03-21, 22:43:05](https://lobste.rs/s/q8ojwv/our_commitment_windows_quality) - [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-21, 22:36:10](https://lobste.rs/s/gn3gok/acme_device_attestation_smallstep) - [ACME device attestation, smallstep and pkcs11: attezt](https://linderud.dev/blog/acme-device-attestation-smallstep-and-pkcs11-attezt/)
-* [2026-03-21, 21:38:55](https://lobste.rs/s/rnfqfd/maximally_minimal_view_types_baby_steps) - [Maximally minimal view types · baby steps](https://smallcultfollowing.com/babysteps/blog/2026/03/21/view-types-max-min/)
+* [2026-03-21, 21:38:55](https://lobste.rs/s/rnfqfd/maximally_minimal_view_types) - [Maximally minimal view types](https://smallcultfollowing.com/babysteps/blog/2026/03/21/view-types-max-min/)
 * [2026-03-21, 21:31:44](https://lobste.rs/s/6c0xve/console_debugger_for_async_rust) - [console: a debugger for async rust](https://github.com/tokio-rs/console)
 * [2026-03-21, 21:04:37](https://lobste.rs/s/nsnlxi/bye_bye_rtmp) - [bye bye RTMP](https://daniel.haxx.se/blog/2026/03/21/bye-bye-rtmp/)
 * [2026-03-21, 19:58:06](https://lobste.rs/s/mznrvv/common_lisp_development_tooling) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
