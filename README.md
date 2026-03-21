@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-21, 17:43:07](https://lobste.rs/s/d46a3y/manifesto_for_rights_conscious) - [Manifesto for the Rights of Conscious Artificial Intelligence](https://abolitionist.ai/)
+* [2026-03-21, 17:40:43](https://lobste.rs/s/f598ob/infinite_lists_lean) - [Infinite Lists in Lean](https://unnamed.website/posts/infinite-lists-lean/)
 * [2026-03-21, 16:46:30](https://lobste.rs/s/fad6ua/using_go_dynamic_static_shared_libraries) - [Using Go Dynamic and Static Shared libraries in C/C++ Programs](https://xuri.me/2022/04/15/go-shared-libraries.html)
 * [2026-03-21, 16:40:05](https://lobste.rs/s/hlsbcu/antix_26_released_with_5_init_systems) - [antiX-26 released with 5 init systems](https://antixlinux.com/antix-26-released/)
 * [2026-03-21, 15:32:51](https://lobste.rs/s/xfaivk/pigeon_s_device) - [Pigeon's Device](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
@@ -13,7 +15,6 @@
 * [2026-03-21, 06:14:17](https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root) - [H&R Block tax software installs a TLS root certificate with bundled private key](https://news.ycombinator.com/item?id=47457162)
 * [2026-03-21, 04:23:02](https://lobste.rs/s/dttagp/unix_philosophy_is_dead_long_live) - [Unix philosophy is dead! Long live... something else?](https://sdomi.pl/weblog/27-manifesto-of-a-burnt-out-hacker/)
 * [2026-03-21, 02:27:43](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours) - [What creative technical outlets of yours have been ruined by generative AI?](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours)
-* [2026-03-20, 19:51:54](https://lobste.rs/s/4ovp13/developer_spotlight_somtochi_onyekwere) - [Developer Spotlight: Somtochi Onyekwere from Fly.io](https://theconsensus.dev/p/2026/03/19/developer-spotlight-somtochi-onyekwere.html)
 * [2026-03-20, 18:08:40](https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator) - [Adding Live Reload to a Static Site Generator Written in Go](https://jon.chrt.dev/2026/03/20/adding-live-reload-to-a-static-site-generator-written-in-go.html)
 * [2026-03-20, 17:55:57](https://lobste.rs/s/4fhlaz/trivy_compromised_second_time_malicious) - [Trivy Compromised a Second Time - Malicious v0.69.4 Release](https://www.stepsecurity.io/blog/trivy-compromised-a-second-time---malicious-v0-69-4-release)
 * [2026-03-20, 17:42:40](https://lobste.rs/s/8iyfng/related_ui_elements_should_not_appear) - [Related UI elements should not appear unrelated](https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated)
@@ -21,7 +22,6 @@
 * [2026-03-20, 16:27:31](https://lobste.rs/s/bekb7j/lobsters_interview_with_internet) - [Lobsters Interview with Internet_Jannitor](https://alexalejandre.com/programming/interview-with-john-earnest/)
 * [2026-03-20, 16:14:06](https://lobste.rs/s/eewvj8/what_we_heard_about_rust_s_challenges_how) - [What we heard about Rust's challenges, and how we can address them](https://blog.rust-lang.org/2026/03/20/rust-challenges.md/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
-* [2026-03-20, 13:47:35](https://lobste.rs/s/fg34ds/good_bad_leaky_jemalloc_bumpalo_mimalloc) - [The Good, the Bad, and the Leaky: jemalloc, bumpalo, and mimalloc in meilisearch](https://blog.kerollmops.com/the-good-the-bad-and-the-leaky-jemalloc-bumpalo-and-mimalloc-in-meilisearch)
 * [2026-03-20, 12:30:38](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lzg26o/what_are_you_doing_this_weekend)
 * [2026-03-20, 10:21:12](https://lobste.rs/s/cvt7fd/enshittifaication) - [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/)
 * [2026-03-20, 03:27:11](https://lobste.rs/s/hjr72q/be_better_programmer_write_little_proofs) - [To be a better programmer, write little proofs in your head (2025)](https://blog.get-nerve.com/to-be-a-better-programmer-write-little-proofs-in-your-head/)

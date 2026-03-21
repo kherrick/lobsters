@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 17:43:07](https://lobste.rs/s/d46a3y/manifesto_for_rights_conscious) - [Manifesto for the Rights of Conscious Artificial Intelligence](https://abolitionist.ai/)
+* [2026-03-21, 17:40:43](https://lobste.rs/s/f598ob/infinite_lists_lean) - [Infinite Lists in Lean](https://unnamed.website/posts/infinite-lists-lean/)
 * [2026-03-21, 16:46:30](https://lobste.rs/s/fad6ua/using_go_dynamic_static_shared_libraries) - [Using Go Dynamic and Static Shared libraries in C/C++ Programs](https://xuri.me/2022/04/15/go-shared-libraries.html)
 * [2026-03-21, 16:40:05](https://lobste.rs/s/hlsbcu/antix_26_released_with_5_init_systems) - [antiX-26 released with 5 init systems](https://antixlinux.com/antix-26-released/)
 * [2026-03-21, 15:32:51](https://lobste.rs/s/xfaivk/pigeon_s_device) - [Pigeon's Device](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
