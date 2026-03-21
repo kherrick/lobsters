@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-21](index.md)
 
+* [2026-03-21, 13:45:22](https://lobste.rs/s/72zcea/binary_dependencies_identifying_hidden) - [Binary Dependencies: Identifying the Hidden Packages We All Depend On](https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/)
 * [2026-03-21, 13:04:53](https://lobste.rs/s/xyb6jw/agentic_pre_commit_hook_with_opencode_go) - [Agentic pre-commit hook with Opencode Go SDK](https://youtu.be/3j_Oh525Xrs)
 * [2026-03-21, 10:30:58](https://lobste.rs/s/jiqeom/is_simple_actually_good) - [Is simple actually good?](https://darth.games/posts/is-simple-good/)
 * [2026-03-21, 09:38:09](https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv) - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/)
