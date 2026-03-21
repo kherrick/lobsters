@@ -2,6 +2,7 @@
 
 * [2026-03-21, 22:43:05](https://lobste.rs/s/q8ojwv/our_commitment_windows_quality) - [Our commitment to Windows quality](https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/)
 * [2026-03-21, 22:36:10](https://lobste.rs/s/gn3gok/acme_device_attestation_smallstep) - [ACME device attestation, smallstep and pkcs11: attezt](https://linderud.dev/blog/acme-device-attestation-smallstep-and-pkcs11-attezt/)
+* [2026-03-21, 21:38:55](https://lobste.rs/s/rnfqfd/maximally_minimal_view_types_baby_steps) - [Maximally minimal view types · baby steps](https://smallcultfollowing.com/babysteps/blog/2026/03/21/view-types-max-min/)
 * [2026-03-21, 21:31:44](https://lobste.rs/s/6c0xve/console_debugger_for_async_rust) - [console: a debugger for async rust](https://github.com/tokio-rs/console)
 * [2026-03-21, 21:04:37](https://lobste.rs/s/nsnlxi/bye_bye_rtmp) - [bye bye RTMP](https://daniel.haxx.se/blog/2026/03/21/bye-bye-rtmp/)
 * [2026-03-21, 19:58:06](https://lobste.rs/s/mznrvv/common_lisp_development_tooling) - [Common Lisp Development Tooling](https://www.creativetension.co/posts/common-lisp-development-tooling)
@@ -12,7 +13,6 @@
 * [2026-03-21, 15:32:51](https://lobste.rs/s/xfaivk/pigeon_s_device) - [Pigeon's Device](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
 * [2026-03-21, 15:16:27](https://lobste.rs/s/uqeo3m/solod_go_can_be_better_c) - [Solod: Go can be a better C](https://antonz.org/solod/)
 * [2026-03-21, 14:58:47](https://lobste.rs/s/vxsjiv/why_craft_lovers_are_losing_their_craft) - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
-* [2026-03-21, 13:45:22](https://lobste.rs/s/72zcea/binary_dependencies_identifying_hidden) - [Binary Dependencies: Identifying the Hidden Packages We All Depend On](https://vlad.website/binary-dependencies-identifying-the-hidden-packages-we-all-depend-on/)
 * [2026-03-21, 13:42:31](https://lobste.rs/s/xxfivf/rant_about_resolutions) - [A rant about resolutions](https://blog.brixit.nl/rant-about-resolutions/)
 * [2026-03-21, 10:30:58](https://lobste.rs/s/jiqeom/is_simple_actually_good) - [Is simple actually good?](https://darth.games/posts/is-simple-good/)
 * [2026-03-21, 09:38:09](https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv) - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/)
