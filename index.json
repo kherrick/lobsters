@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-03-20, 18:43:40",
-      "https://lobste.rs/s/vfsjtm/linear_temporal_logic_visualizer"
-    ],
-    [
-      "Linear Temporal Logic Visualizer",
-      "https://quickstrom.github.io/ltl-visualizer/"
-    ]
-  ],
-  [
-    [
       "2026-03-20, 18:08:40",
       "https://lobste.rs/s/ldglpx/adding_live_reload_static_site_generator"
     ],
@@ -87,6 +77,16 @@
     [
       "BIO: The Bao I/O Coprocessor",
       "https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/"
+    ]
+  ],
+  [
+    [
+      "2026-03-20, 17:22:15",
+      "https://lobste.rs/s/rygnej/with_based_effect_notation"
+    ],
+    [
+      "A with-based effect notation",
+      "https://blog.yoshuawuyts.com/a-with-based-effect-notation"
     ]
   ],
   [
