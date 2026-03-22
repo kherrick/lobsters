@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-22, 19:03:35](https://lobste.rs/s/nfz13a/fear_loathing_vibe_coding_abyss) - [Fear and Loathing in the vibe-coding abyss](https://www.linkedin.com/pulse/fear-loathing-vibe-coding-abyss-mark-musson-r2age)
 * [2026-03-22, 16:38:38](https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser) - [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
 * [2026-03-22, 16:18:42](https://lobste.rs/s/qhtpe5/slow_collapse_mkdocs) - [The Slow Collapse of MkDocs](https://fpgmaas.com/blog/collapse-of-mkdocs/)
 * [2026-03-22, 16:15:55](https://lobste.rs/s/lchmcm/all_tests_pass_short_story) - [All tests pass: a short story](https://evanhahn.com/all-tests-pass-a-short-story/)
@@ -10,7 +11,6 @@
 * [2026-03-22, 14:12:13](https://lobste.rs/s/oe0qp1/my_home_network_observes_bedtime_with) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-22, 13:30:45](https://lobste.rs/s/xpek6g/windows_native_app_development_is_mess) - [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/)
 * [2026-03-22, 12:40:43](https://lobste.rs/s/ebvrrh/floci_light_fluffy_always_free_aws_local) - [floci: Light, fluffy, and always free - AWS Local Emulator](https://github.com/hectorvent/floci)
-* [2026-03-22, 09:03:32](https://lobste.rs/s/8cdg1q/little_known_development_methods_2009) - [Little Known Development Methods (2009)](https://lr0.org/blog/p/lkdm/)
 * [2026-03-22, 07:12:14](https://lobste.rs/s/hmb3mz/security_advisory_for_cargo) - [Security advisory for Cargo](https://blog.rust-lang.org/2026/03/21/cve-2026-33056/)
 * [2026-03-22, 06:05:18](https://lobste.rs/s/hun60m/ubuntu_26_04_ends_46_years_silent_sudo) - [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
 * [2026-03-22, 06:04:06](https://lobste.rs/s/uaxpxu/hide_macos_tahoe_s_menu_icons) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
