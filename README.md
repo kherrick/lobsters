@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-03-22, 06:05:18](https://lobste.rs/s/hun60m/ubuntu_26_04_ends_46_years_silent_sudo) - [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
+* [2026-03-22, 06:03:46](https://lobste.rs/s/gukzip/three_pillars_javascript_bloat) - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 * [2026-03-22, 04:08:27](https://lobste.rs/s/bc45sc/burrow_gopher_browser_written_html) - [Burrow - A gopher browser written in HTML](https://burrow.din.gy/)
 * [2026-03-22, 03:18:18](https://lobste.rs/s/l8e0vj/refurb_weekend_double_header_alpha_micro) - [Refurb weekend double header: Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
 * [2026-03-22, 00:43:12](https://lobste.rs/s/f7pgng/what_if_i_stored_data_my_mouse) - [What if I stored data in my mouse](https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/)
@@ -16,7 +17,6 @@
 * [2026-03-21, 15:32:51](https://lobste.rs/s/xfaivk/pigeon_s_device) - [Pigeon's Device](http://pigeonsnest.co.uk/stuff/pigeons-device.html)
 * [2026-03-21, 15:16:27](https://lobste.rs/s/uqeo3m/solod_go_can_be_better_c) - [Solod: Go can be a better C](https://antonz.org/solod/)
 * [2026-03-21, 14:58:47](https://lobste.rs/s/vxsjiv/why_craft_lovers_are_losing_their_craft) - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
-* [2026-03-21, 13:42:31](https://lobste.rs/s/xxfivf/rant_about_resolutions) - [A rant about resolutions](https://blog.brixit.nl/rant-about-resolutions/)
 * [2026-03-21, 10:30:58](https://lobste.rs/s/jiqeom/is_simple_actually_good) - [Is simple actually good?](https://darth.games/posts/is-simple-good/)
 * [2026-03-21, 09:38:09](https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv) - [Thoughts on OpenAI acquiring Astral and uv/ruff/ty](https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/)
 * [2026-03-21, 06:14:17](https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root) - [H&R Block tax software installs a TLS root certificate with bundled private key](https://news.ycombinator.com/item?id=47457162)
