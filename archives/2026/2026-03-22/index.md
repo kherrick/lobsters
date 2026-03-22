@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 15:15:46](https://lobste.rs/s/1vcuqm/manyana_coherent_vision_for_future) - [Manyana: A Coherent Vision For The Future Of Version Control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 15:09:32](https://lobste.rs/s/4cw9wq/ntlm_smb_go_opt_curl) - [NTLM and SMB go opt-in in curl](https://daniel.haxx.se/blog/2026/03/22/ntlm-and-smb-go-opt-in/)
 * [2026-03-22, 14:12:13](https://lobste.rs/s/oe0qp1/my_home_network_observes_bedtime_with) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-22, 13:30:45](https://lobste.rs/s/xpek6g/windows_native_app_development_is_mess) - [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/)
