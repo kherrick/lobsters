@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 16:15:55](https://lobste.rs/s/lchmcm/all_tests_pass_short_story) - [All tests pass: a short story](https://evanhahn.com/all-tests-pass-a-short-story/)
+* [2026-03-22, 16:11:14](https://lobste.rs/s/gwp3b9/i_hate_programming_wayland_applications) - [I Hate: Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
+* [2026-03-22, 16:03:42](https://lobste.rs/s/bgawym/my_first_patch_linux_kernel) - [my first patch to the linux kernel](https://pooladkhay.com/posts/first-kernel-patch/)
+* [2026-03-22, 15:29:02](https://lobste.rs/s/w2x9dq/case_against_currying) - [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html)
 * [2026-03-22, 15:15:46](https://lobste.rs/s/1vcuqm/manyana_coherent_vision_for_future) - [Manyana: A Coherent Vision For The Future Of Version Control](https://bramcohen.com/p/manyana)
 * [2026-03-22, 15:09:32](https://lobste.rs/s/4cw9wq/ntlm_smb_go_opt_curl) - [NTLM and SMB go opt-in in curl](https://daniel.haxx.se/blog/2026/03/22/ntlm-and-smb-go-opt-in/)
 * [2026-03-22, 14:12:13](https://lobste.rs/s/oe0qp1/my_home_network_observes_bedtime_with) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
