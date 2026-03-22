@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-22, 07:12:14](https://lobste.rs/s/hmb3mz/security_advisory_for_cargo) - [Security advisory for Cargo](https://blog.rust-lang.org/2026/03/21/cve-2026-33056/)
 * [2026-03-22, 06:05:18](https://lobste.rs/s/hun60m/ubuntu_26_04_ends_46_years_silent_sudo) - [Ubuntu 26.04 Ends 46 Years of Silent sudo Passwords](https://pbxscience.com/ubuntu-26-04-ends-46-years-of-silent-sudo-passwords/)
 * [2026-03-22, 06:03:46](https://lobste.rs/s/gukzip/three_pillars_javascript_bloat) - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 * [2026-03-22, 04:08:27](https://lobste.rs/s/bc45sc/burrow_gopher_browser_written_html) - [Burrow - A gopher browser written in HTML](https://burrow.din.gy/)
@@ -22,7 +23,6 @@
 * [2026-03-21, 06:14:17](https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root) - [H&R Block tax software installs a TLS root certificate with bundled private key](https://news.ycombinator.com/item?id=47457162)
 * [2026-03-21, 02:27:43](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours) - [What creative technical outlets of yours have been ruined by generative AI?](https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours)
 * [2026-03-20, 17:42:40](https://lobste.rs/s/8iyfng/related_ui_elements_should_not_appear) - [Related UI elements should not appear unrelated](https://rakhim.exotext.com/related-ui-elements-should-not-appear-unrelated)
-* [2026-03-20, 16:27:31](https://lobste.rs/s/bekb7j/lobsters_interview_with_internet) - [Lobsters Interview with Internet_Jannitor](https://alexalejandre.com/programming/interview-with-john-earnest/)
 * [2026-03-20, 13:53:48](https://lobste.rs/s/ghtnpx/i_m_ok_being_left_behind_thanks) - [I'm OK being left behind, thanks](https://shkspr.mobi/blog/2026/03/im-ok-being-left-behind-thanks/)
 * [2026-03-20, 10:21:12](https://lobste.rs/s/cvt7fd/enshittifaication) - [EnshittifAIcation](https://it-notes.dragas.net/2026/03/20/enshittifaication/)
 
