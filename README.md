@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-22, 21:55:33](https://lobste.rs/s/g4sj0m/diminished_art_coding) - [The diminished art of coding](https://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/)
 * [2026-03-22, 19:03:35](https://lobste.rs/s/nfz13a/fear_loathing_vibe_coding_abyss) - [Fear and Loathing in the vibe-coding abyss](https://www.linkedin.com/pulse/fear-loathing-vibe-coding-abyss-mark-musson-r2age)
 * [2026-03-22, 16:38:38](https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser) - [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
 * [2026-03-22, 16:36:57](https://lobste.rs/s/qbjadi/improving_animations) - [Improving animations](https://blog.vladzahorodnii.com/2026/03/22/improving-animations/)
@@ -8,7 +9,6 @@
 * [2026-03-22, 16:11:14](https://lobste.rs/s/gwp3b9/i_hate_programming_wayland_applications) - [I Hate Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
 * [2026-03-22, 15:29:02](https://lobste.rs/s/w2x9dq/case_against_currying) - [A Case Against Currying](https://emi-h.com/articles/a-case-against-currying.html)
 * [2026-03-22, 15:15:46](https://lobste.rs/s/1vcuqm/manyana_coherent_vision_for_future) - [Manyana: A Coherent Vision For The Future Of Version Control](https://bramcohen.com/p/manyana)
-* [2026-03-22, 15:09:32](https://lobste.rs/s/4cw9wq/ntlm_smb_go_opt_curl) - [NTLM and SMB go opt-in in curl](https://daniel.haxx.se/blog/2026/03/22/ntlm-and-smb-go-opt-in/)
 * [2026-03-22, 14:12:13](https://lobste.rs/s/oe0qp1/my_home_network_observes_bedtime_with) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-22, 13:30:45](https://lobste.rs/s/xpek6g/windows_native_app_development_is_mess) - [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/)
 * [2026-03-22, 12:40:43](https://lobste.rs/s/ebvrrh/floci_light_fluffy_always_free_aws_local) - [floci: Light, fluffy, and always free - AWS Local Emulator](https://github.com/hectorvent/floci)

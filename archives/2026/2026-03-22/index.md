@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 21:55:33](https://lobste.rs/s/g4sj0m/diminished_art_coding) - [The diminished art of coding](https://nolanlawson.com/2026/03/22/the-diminished-art-of-coding/)
 * [2026-03-22, 19:03:35](https://lobste.rs/s/nfz13a/fear_loathing_vibe_coding_abyss) - [Fear and Loathing in the vibe-coding abyss](https://www.linkedin.com/pulse/fear-loathing-vibe-coding-abyss-mark-musson-r2age)
 * [2026-03-22, 16:38:38](https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser) - [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
 * [2026-03-22, 16:36:57](https://lobste.rs/s/qbjadi/improving_animations) - [Improving animations](https://blog.vladzahorodnii.com/2026/03/22/improving-animations/)
