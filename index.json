@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-22, 16:38:38",
+      "https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser"
+    ],
+    [
+      "Let's see Paul Allen's SIMD CSV parser",
+      "https://chunkofcoal.com/posts/simd-csv/"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 16:15:55",
       "https://lobste.rs/s/lchmcm/all_tests_pass_short_story"
     ],
@@ -15,7 +25,7 @@
       "https://lobste.rs/s/gwp3b9/i_hate_programming_wayland_applications"
     ],
     [
-      "I Hate: Programming Wayland Applications",
+      "I Hate Programming Wayland Applications",
       "https://www.p4m.dev/posts/29/index.html"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
       "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 02:27:43",
-      "https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours"
-    ],
-    [
-      "What creative technical outlets of yours have been ruined by generative AI?",
-      "https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours"
     ]
   ]
 ]
