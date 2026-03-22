@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-22, 16:15:55",
+      "https://lobste.rs/s/lchmcm/all_tests_pass_short_story"
+    ],
+    [
+      "All tests pass: a short story",
+      "https://evanhahn.com/all-tests-pass-a-short-story/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 16:11:14",
+      "https://lobste.rs/s/gwp3b9/i_hate_programming_wayland_applications"
+    ],
+    [
+      "I Hate: Programming Wayland Applications",
+      "https://www.p4m.dev/posts/29/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 16:03:42",
+      "https://lobste.rs/s/bgawym/my_first_patch_linux_kernel"
+    ],
+    [
+      "my first patch to the linux kernel",
+      "https://pooladkhay.com/posts/first-kernel-patch/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 15:29:02",
+      "https://lobste.rs/s/w2x9dq/case_against_currying"
+    ],
+    [
+      "A Case Against Currying",
+      "https://emi-h.com/articles/a-case-against-currying.html"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 15:15:46",
       "https://lobste.rs/s/1vcuqm/manyana_coherent_vision_for_future"
     ],
@@ -101,32 +141,12 @@
   ],
   [
     [
-      "2026-03-22, 03:18:18",
-      "https://lobste.rs/s/l8e0vj/refurb_weekend_double_header_alpha_micro"
-    ],
-    [
-      "Refurb weekend double header: Alpha Micro AM-1000E and AM-1200",
-      "http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 00:43:12",
       "https://lobste.rs/s/f7pgng/what_if_i_stored_data_my_mouse"
     ],
     [
       "What if I stored data in my mouse",
       "https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 22:43:05",
-      "https://lobste.rs/s/q8ojwv/our_commitment_windows_quality"
-    ],
-    [
-      "Our commitment to Windows quality",
-      "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/"
     ]
   ],
   [
@@ -157,16 +177,6 @@
     [
       "SSH certificates and git signing",
       "https://codon.org.uk/~mjg59/blog/p/ssh-certificates-and-git-signing/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 21:31:44",
-      "https://lobste.rs/s/6c0xve/console_debugger_for_async_rust"
-    ],
-    [
-      "console: a debugger for async rust",
-      "https://github.com/tokio-rs/console"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Thoughts on OpenAI acquiring Astral and uv/ruff/ty",
       "https://simonwillison.net/2026/Mar/19/openai-acquiring-astral/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 06:14:17",
-      "https://lobste.rs/s/d5nvf5/h_r_block_tax_software_installs_tls_root"
-    ],
-    [
-      "H&R Block tax software installs a TLS root certificate with bundled private key",
-      "https://news.ycombinator.com/item?id=47457162"
     ]
   ],
   [
