@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-22](index.md)
 
+* [2026-03-22, 14:12:13](https://lobste.rs/s/oe0qp1/my_home_network_observes_bedtime_with) - [My home network observes bedtime with OpenBSD and pf](https://ratfactor.com/openbsd/pf-gateway-bedtime)
 * [2026-03-22, 13:30:45](https://lobste.rs/s/xpek6g/windows_native_app_development_is_mess) - [Windows Native App Development Is a Mess](https://domenic.me/windows-native-dev/)
+* [2026-03-22, 12:40:43](https://lobste.rs/s/ebvrrh/floci_light_fluffy_always_free_aws_local) - [floci: Light, fluffy, and always free - AWS Local Emulator](https://github.com/hectorvent/floci)
 * [2026-03-22, 10:58:07](https://lobste.rs/s/23blpi/new_vivaldi_feature_ui_auto_hide) - [New vivaldi feature: ui auto-hide](https://vivaldi.com/blog/vivaldi-on-desktop-7-9/)
 * [2026-03-22, 09:03:32](https://lobste.rs/s/8cdg1q/little_known_development_methods_2009) - [Little Known Development Methods (2009)](https://lr0.org/blog/p/lkdm/)
 * [2026-03-22, 07:12:14](https://lobste.rs/s/hmb3mz/security_advisory_for_cargo) - [Security advisory for Cargo](https://blog.rust-lang.org/2026/03/21/cve-2026-33056/)
