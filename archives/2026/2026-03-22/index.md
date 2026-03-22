@@ -1,0 +1,10 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-03-22](index.md)
+
+* [2026-03-22, 04:08:27](https://lobste.rs/s/bc45sc/burrow_gopher_browser_written_html) - [Burrow - A gopher browser written in HTML](https://burrow.din.gy/)
+* [2026-03-22, 03:18:18](https://lobste.rs/s/l8e0vj/refurb_weekend_double_header_alpha_micro) - [Refurb weekend double header: Alpha Micro AM-1000E and AM-1200](http://oldvcr.blogspot.com/2026/03/refurb-weekend-double-header-alpha.html)
+* [2026-03-22, 00:52:09](https://lobste.rs/s/v9ju75/humanity_cs_pl_now_more_than_ever) - [Humanity in CS & PL, now more than ever](https://koronkevi.ch/posts/humanity.html)
+* [2026-03-22, 00:43:12](https://lobste.rs/s/f7pgng/what_if_i_stored_data_my_mouse) - [What if I stored data in my mouse](https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/)
