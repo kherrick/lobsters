@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-03-22, 14:12:13",
+      "https://lobste.rs/s/oe0qp1/my_home_network_observes_bedtime_with"
+    ],
+    [
+      "My home network observes bedtime with OpenBSD and pf",
+      "https://ratfactor.com/openbsd/pf-gateway-bedtime"
+    ]
+  ],
+  [
+    [
       "2026-03-22, 13:30:45",
       "https://lobste.rs/s/xpek6g/windows_native_app_development_is_mess"
     ],
     [
       "Windows Native App Development Is a Mess",
       "https://domenic.me/windows-native-dev/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 12:40:43",
+      "https://lobste.rs/s/ebvrrh/floci_light_fluffy_always_free_aws_local"
+    ],
+    [
+      "floci: Light, fluffy, and always free - AWS Local Emulator",
+      "https://github.com/hectorvent/floci"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-03-21, 10:30:58",
-      "https://lobste.rs/s/jiqeom/is_simple_actually_good"
-    ],
-    [
-      "Is simple actually good?",
-      "https://darth.games/posts/is-simple-good/"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 09:38:09",
       "https://lobste.rs/s/dhogio/thoughts_on_openai_acquiring_astral_uv"
     ],
@@ -237,16 +247,6 @@
     [
       "What creative technical outlets of yours have been ruined by generative AI?",
       "https://lobste.rs/s/vvt1fh/what_creative_technical_outlets_yours"
-    ]
-  ],
-  [
-    [
-      "2026-03-20, 10:21:12",
-      "https://lobste.rs/s/cvt7fd/enshittifaication"
-    ],
-    [
-      "EnshittifAIcation",
-      "https://it-notes.dragas.net/2026/03/20/enshittifaication/"
     ]
   ]
 ]
