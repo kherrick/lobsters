@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 09:25:32](https://lobste.rs/s/90mywl/canonical_joins_rust_foundation_as_gold) - [Canonical Joins the Rust Foundation as a Gold Member](https://rustfoundation.org/media/canonical-joins-the-rust-foundation-as-a-gold-member/)
+* [2026-03-23, 08:10:20](https://lobste.rs/s/sndfxf/way_ctrl_c_postgres_cli_cancels_queries_is) - [The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
 * [2026-03-23, 05:01:30](https://lobste.rs/s/yc3olx/so_many_new_systems_programming) - [So Many New Systems Programming Languages II](https://colinsblog.net/2023-03-22-systems-languages-details/)
 * [2026-03-23, 04:31:27](https://lobste.rs/s/frjxsc/stryker_cyberattack_exposes_healthcare) - [Stryker Cyberattack Exposes Healthcare Supply Chain Vulnerability](https://www.linkedin.com/posts/jonathangovette_your-surgical-supplies-just-became-a-national-activity-7439683352036741121-n1qU)
 * [2026-03-23, 02:55:47](https://lobste.rs/s/2hkvoo/does_computer_science_still_exist) - [Does Computer Science still exist?](https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html)

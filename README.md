@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-23, 09:25:32](https://lobste.rs/s/90mywl/canonical_joins_rust_foundation_as_gold) - [Canonical Joins the Rust Foundation as a Gold Member](https://rustfoundation.org/media/canonical-joins-the-rust-foundation-as-a-gold-member/)
+* [2026-03-23, 08:10:20](https://lobste.rs/s/sndfxf/way_ctrl_c_postgres_cli_cancels_queries_is) - [The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
 * [2026-03-23, 05:01:30](https://lobste.rs/s/yc3olx/so_many_new_systems_programming) - [So Many New Systems Programming Languages II (2023)](https://colinsblog.net/2023-03-22-systems-languages-details/)
 * [2026-03-23, 04:31:27](https://lobste.rs/s/frjxsc/stryker_cyberattack_exposes_healthcare) - [Stryker Cyberattack Exposes Healthcare Supply Chain Vulnerability](https://www.linkedin.com/posts/jonathangovette_your-surgical-supplies-just-became-a-national-activity-7439683352036741121-n1qU)
 * [2026-03-23, 02:55:47](https://lobste.rs/s/2hkvoo/does_computer_science_still_exist) - [Does Computer Science still exist?](https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html)
@@ -10,7 +12,6 @@
 * [2026-03-22, 19:30:01](https://lobste.rs/s/uacwjr/gea_lightweight_reactive_ui_framework) - [Gea — Lightweight Reactive UI Framework](https://geajs.com/)
 * [2026-03-22, 19:05:16](https://lobste.rs/s/aceajo/passport_globe_visa_free_travel) - [Passport Globe — Visa-Free Travel Visualizer](https://hariharan.uno/globe)
 * [2026-03-22, 16:38:38](https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser) - [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
-* [2026-03-22, 16:36:57](https://lobste.rs/s/qbjadi/improving_animations) - [Improving animations](https://blog.vladzahorodnii.com/2026/03/22/improving-animations/)
 * [2026-03-22, 16:18:42](https://lobste.rs/s/qhtpe5/slow_collapse_mkdocs) - [The Slow Collapse of MkDocs](https://fpgmaas.com/blog/collapse-of-mkdocs/)
 * [2026-03-22, 16:15:55](https://lobste.rs/s/lchmcm/all_tests_pass_short_story) - [All tests pass: a short story](https://evanhahn.com/all-tests-pass-a-short-story/)
 * [2026-03-22, 16:11:14](https://lobste.rs/s/gwp3b9/i_hate_programming_wayland_applications) - [I Hate Programming Wayland Applications](https://www.p4m.dev/posts/29/index.html)
@@ -23,7 +24,6 @@
 * [2026-03-22, 06:04:06](https://lobste.rs/s/uaxpxu/hide_macos_tahoe_s_menu_icons) - [Hide macOS Tahoe's Menu Icons](https://512pixels.net/2026/03/hide-macos-tahoes-menu-icons-with-this-one-simple-trick/)
 * [2026-03-22, 06:03:46](https://lobste.rs/s/gukzip/three_pillars_javascript_bloat) - [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 * [2026-03-22, 04:08:27](https://lobste.rs/s/bc45sc/burrow_gopher_browser_written_html) - [Burrow - A gopher browser written in HTML](https://burrow.din.gy/)
-* [2026-03-21, 22:36:10](https://lobste.rs/s/gn3gok/acme_device_attestation_smallstep) - [ACME device attestation, smallstep and pkcs11: attezt](https://linderud.dev/blog/acme-device-attestation-smallstep-and-pkcs11-attezt/)
 * [2026-03-21, 14:58:47](https://lobste.rs/s/vxsjiv/why_craft_lovers_are_losing_their_craft) - [Why craft-lovers are losing their craft](https://writings.hongminhee.org/2026/03/craft-alienation-llm/)
 
 ## [Archives](archives/index.md)
