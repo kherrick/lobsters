@@ -5,8 +5,18 @@
       "https://lobste.rs/s/yc3olx/so_many_new_systems_programming"
     ],
     [
-      "So Many New Systems Programming Languages II",
+      "So Many New Systems Programming Languages II (2023)",
       "https://colinsblog.net/2023-03-22-systems-languages-details/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 04:31:27",
+      "https://lobste.rs/s/frjxsc/stryker_cyberattack_exposes_healthcare"
+    ],
+    [
+      "Stryker Cyberattack Exposes Healthcare Supply Chain Vulnerability",
+      "https://www.linkedin.com/posts/jonathangovette_your-surgical-supplies-just-became-a-national-activity-7439683352036741121-n1qU"
     ]
   ],
   [
@@ -87,6 +97,16 @@
     [
       "Let's see Paul Allen's SIMD CSV parser",
       "https://chunkofcoal.com/posts/simd-csv/"
+    ]
+  ],
+  [
+    [
+      "2026-03-22, 16:36:57",
+      "https://lobste.rs/s/qbjadi/improving_animations"
+    ],
+    [
+      "Improving animations",
+      "https://blog.vladzahorodnii.com/2026/03/22/improving-animations/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-03-22, 00:43:12",
-      "https://lobste.rs/s/f7pgng/what_if_i_stored_data_my_mouse"
-    ],
-    [
-      "What if I stored data in my mouse",
-      "https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/"
-    ]
-  ],
-  [
-    [
       "2026-03-21, 22:36:10",
       "https://lobste.rs/s/gn3gok/acme_device_attestation_smallstep"
     ],
     [
       "ACME device attestation, smallstep and pkcs11: attezt",
       "https://linderud.dev/blog/acme-device-attestation-smallstep-and-pkcs11-attezt/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 21:04:37",
-      "https://lobste.rs/s/nsnlxi/bye_bye_rtmp"
-    ],
-    [
-      "bye bye RTMP",
-      "https://daniel.haxx.se/blog/2026/03/21/bye-bye-rtmp/"
     ]
   ],
   [
