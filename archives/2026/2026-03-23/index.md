@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 12:18:32](https://lobste.rs/s/1umutj/designing_spatula_haskell_video) - [Designing a Spatula (in Haskell) (Video)](https://www.youtube.com/watch?v=R_uQ7Y31e50)
+* [2026-03-23, 12:12:53](https://lobste.rs/s/he8mhk/death_character_game_console_interfaces) - [The Death of Character in Game Console Interfaces](https://vale.rocks/posts/game-console-interfaces)
+* [2026-03-23, 12:08:54](https://lobste.rs/s/tsxpzy/my_google_recruitment_journey_part_1) - [My Google Recruitment Journey (Part 1): Brute-Forcing My Algorithmic Ignorance](http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
 * [2026-03-23, 11:54:39](https://lobste.rs/s/cwdzd6/gram_1_1_0_released) - [Gram 1.1.0 released](https://gram.liten.app/posts/release-1-1-0/)
 * [2026-03-23, 11:15:11](https://lobste.rs/s/xsrgdn/gren_26_03_parser_improvements) - [Gren 26.03: Parser improvements](https://gren-lang.org/news/260323_gren_26_03)
 * [2026-03-23, 11:09:12](https://lobste.rs/s/ogfxq9/on_becoming_day_person) - [On becoming a day person](https://herman.bearblog.dev/becoming-a-day-person/)
