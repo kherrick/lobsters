@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-23, 09:25:32",
+      "https://lobste.rs/s/90mywl/canonical_joins_rust_foundation_as_gold"
+    ],
+    [
+      "Canonical Joins the Rust Foundation as a Gold Member",
+      "https://rustfoundation.org/media/canonical-joins-the-rust-foundation-as-a-gold-member/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 08:10:20",
+      "https://lobste.rs/s/sndfxf/way_ctrl_c_postgres_cli_cancels_queries_is"
+    ],
+    [
+      "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
+      "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 05:01:30",
       "https://lobste.rs/s/yc3olx/so_many_new_systems_programming"
     ],
@@ -97,16 +117,6 @@
     [
       "Let's see Paul Allen's SIMD CSV parser",
       "https://chunkofcoal.com/posts/simd-csv/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 16:36:57",
-      "https://lobste.rs/s/qbjadi/improving_animations"
-    ],
-    [
-      "Improving animations",
-      "https://blog.vladzahorodnii.com/2026/03/22/improving-animations/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Burrow - A gopher browser written in HTML",
       "https://burrow.din.gy/"
-    ]
-  ],
-  [
-    [
-      "2026-03-21, 22:36:10",
-      "https://lobste.rs/s/gn3gok/acme_device_attestation_smallstep"
-    ],
-    [
-      "ACME device attestation, smallstep and pkcs11: attezt",
-      "https://linderud.dev/blog/acme-device-attestation-smallstep-and-pkcs11-attezt/"
     ]
   ],
   [
