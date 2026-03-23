@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-23, 10:04:00",
+      "https://lobste.rs/s/6br2rv/from_virtio_snd_0_day_hypervisor_escape"
+    ],
+    [
+      "From virtio-snd 0-Day to Hypervisor Escape: Exploiting QEMU with an Uncontrolled Heap Overflow",
+      "https://osec.io/blog/2026-03-17-virtio-snd-qemu-hypervisor-escape/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 09:39:39",
+      "https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos"
+    ],
+    [
+      "Native Instant Space Switching on MacOS",
+      "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
+    ]
+  ],
+  [
+    [
       "2026-03-23, 09:25:32",
       "https://lobste.rs/s/90mywl/canonical_joins_rust_foundation_as_gold"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2026-03-22, 19:30:01",
-      "https://lobste.rs/s/uacwjr/gea_lightweight_reactive_ui_framework"
-    ],
-    [
-      "Gea — Lightweight Reactive UI Framework",
-      "https://geajs.com/"
-    ]
-  ],
-  [
-    [
       "2026-03-22, 19:05:16",
       "https://lobste.rs/s/aceajo/passport_globe_visa_free_travel"
     ],
@@ -127,16 +137,6 @@
     [
       "The Slow Collapse of MkDocs",
       "https://fpgmaas.com/blog/collapse-of-mkdocs/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 16:15:55",
-      "https://lobste.rs/s/lchmcm/all_tests_pass_short_story"
-    ],
-    [
-      "All tests pass: a short story",
-      "https://evanhahn.com/all-tests-pass-a-short-story/"
     ]
   ],
   [
