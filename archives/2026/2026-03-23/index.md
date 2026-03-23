@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-23](index.md)
 
+* [2026-03-23, 19:23:42](https://lobste.rs/s/vlvpgo/qt_6_11_released) - [Qt 6.11 Released](https://www.qt.io/blog/qt-6.11-released)
+* [2026-03-23, 19:11:08](https://lobste.rs/s/joe31h/tla_mental_models) - [TLA+ mental models](http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html)
 * [2026-03-23, 18:43:27](https://lobste.rs/s/jbyzxt/rewriting_20_year_old_python_library) - [Rewriting a 20-year-old Python library](https://www.b-list.org/weblog/2026/mar/23/20-year-library/)
 * [2026-03-23, 18:27:06](https://lobste.rs/s/rm0dux/history_uw_central_computing_cyber_era) - [A History of UW Central Computing: The Cyber Era](https://www.uwyo.edu/infotech/aboutit/history/cyber-era.asp)
 * [2026-03-23, 16:59:04](https://lobste.rs/s/jmfor8/from_error_handling_structured) - [From error-handling to structured concurrency](https://blog.nelhage.com/post/concurrent-error-handling/)

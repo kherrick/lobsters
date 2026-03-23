@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-23, 19:23:42](https://lobste.rs/s/vlvpgo/qt_6_11_released) - [Qt 6.11 Released](https://www.qt.io/blog/qt-6.11-released)
+* [2026-03-23, 19:11:08](https://lobste.rs/s/joe31h/tla_mental_models) - [TLA+ mental models](http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html)
 * [2026-03-23, 18:43:27](https://lobste.rs/s/jbyzxt/rewriting_20_year_old_python_library) - [Rewriting a 20-year-old Python library](https://www.b-list.org/weblog/2026/mar/23/20-year-library/)
-* [2026-03-23, 18:27:06](https://lobste.rs/s/rm0dux/history_uw_central_computing_cyber_era) - [A History of UW Central Computing: The Cyber Era](https://www.uwyo.edu/infotech/aboutit/history/cyber-era.asp)
 * [2026-03-23, 16:59:04](https://lobste.rs/s/jmfor8/from_error_handling_structured) - [From error-handling to structured concurrency](https://blog.nelhage.com/post/concurrent-error-handling/)
 * [2026-03-23, 16:32:05](https://lobste.rs/s/e42ezg/arturo_programming_language) - [Arturo programming language](https://arturo-lang.io/)
 * [2026-03-23, 15:04:47](https://lobste.rs/s/7dzkuh/generators_lone_lisp) - [Generators in lone lisp](https://www.matheusmoreira.com/articles/generators-in-lone-lisp)
@@ -10,7 +11,6 @@
 * [2026-03-23, 14:06:01](https://lobste.rs/s/i0cskl/incoherent_rust) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
 * [2026-03-23, 12:18:32](https://lobste.rs/s/1umutj/designing_spatula_haskell) - [Designing a Spatula (in Haskell)](https://www.youtube.com/watch?v=R_uQ7Y31e50)
 * [2026-03-23, 12:12:53](https://lobste.rs/s/he8mhk/death_character_game_console_interfaces) - [The Death of Character in Game Console Interfaces](https://vale.rocks/posts/game-console-interfaces)
-* [2026-03-23, 12:08:54](https://lobste.rs/s/tsxpzy/my_google_recruitment_journey_part_1) - [My Google Recruitment Journey (Part 1): Brute-Forcing My Algorithmic Ignorance](http://blog.dominikrudnik.pl/my-google-recruitment-journey-part-1)
 * [2026-03-23, 11:54:39](https://lobste.rs/s/cwdzd6/gram_1_1_0_released) - [Gram 1.1.0 released](https://gram.liten.app/posts/release-1-1-0/)
 * [2026-03-23, 11:15:11](https://lobste.rs/s/xsrgdn/gren_26_03_parser_improvements) - [Gren 26.03: Parser improvements](https://gren-lang.org/news/260323_gren_26_03)
 * [2026-03-23, 09:39:39](https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos) - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
