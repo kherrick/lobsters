@@ -5,7 +5,7 @@
       "https://lobste.rs/s/aewrgf/can_it_resolve_doom_game_engine_2_000_dns"
     ],
     [
-      "Can it Resolve DOOM? Game Engine in 2,000 DNS Records – blog.rice.is",
+      "Can it Resolve DOOM? Game Engine in 2,000 DNS Records",
       "https://blog.rice.is/post/doom-over-dns/"
     ]
   ],
@@ -117,6 +117,16 @@
     [
       "From error-handling to structured concurrency",
       "https://blog.nelhage.com/post/concurrent-error-handling/"
+    ]
+  ],
+  [
+    [
+      "2026-03-23, 16:32:05",
+      "https://lobste.rs/s/e42ezg/arturo_programming_language"
+    ],
+    [
+      "Arturo programming language",
+      "https://arturo-lang.io/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Let's see Paul Allen's SIMD CSV parser",
       "https://chunkofcoal.com/posts/simd-csv/"
-    ]
-  ],
-  [
-    [
-      "2026-03-22, 16:18:42",
-      "https://lobste.rs/s/qhtpe5/slow_collapse_mkdocs"
-    ],
-    [
-      "The Slow Collapse of MkDocs",
-      "https://fpgmaas.com/blog/collapse-of-mkdocs/"
     ]
   ]
 ]
