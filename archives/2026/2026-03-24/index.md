@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 13:35:11](https://lobste.rs/s/2l28rh/how_io_uring_overtook_libaio_performance) - [How io_uring Overtook libaio: Performance Across Linux Kernels — and an Unexpected IOMMU Trap](https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14)
 * [2026-03-24, 13:32:17](https://lobste.rs/s/c8k9tt/slopification_its_discontents) - [Slopification and its Discontents](https://charlesleifer.com/blog/slopification-and-its-discontents/)
 * [2026-03-24, 12:00:56](https://lobste.rs/s/brcq3a/curl_dev_sda) - [curl > dev/sda](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
 * [2026-03-24, 10:54:53](https://lobste.rs/s/flmhja/debunking_zswap_zram_myths) - [Debunking zswap and zram myths](https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html)
