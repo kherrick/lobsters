@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-24, 13:35:11",
+      "https://lobste.rs/s/2l28rh/how_io_uring_overtook_libaio_performance"
+    ],
+    [
+      "How io_uring Overtook libaio: Performance Across Linux Kernels — and an Unexpected IOMMU Trap",
+      "https://blog.ydb.tech/how-io-uring-overtook-libaio-performance-across-linux-kernels-and-an-unexpected-iommu-trap-ea6126d9ef14"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 13:32:17",
       "https://lobste.rs/s/c8k9tt/slopification_its_discontents"
     ],
@@ -237,16 +247,6 @@
     [
       "Native Instant Space Switching on MacOS",
       "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 08:10:20",
-      "https://lobste.rs/s/sndfxf/way_ctrl_c_postgres_cli_cancels_queries_is"
-    ],
-    [
-      "The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y",
-      "https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies"
     ]
   ]
 ]
