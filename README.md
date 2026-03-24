@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-23, 22:58:41](https://lobste.rs/s/up2chu/rocksdb_development_finds_cpu_bug) - [RocksDB development finds a CPU bug](http://rocksdb.org/blog/2026/02/17/cpu-bug.html)
 * [2026-03-23, 21:32:59](https://lobste.rs/s/nhnfob/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhnfob/what_are_you_doing_this_week)
-* [2026-03-23, 20:46:56](https://lobste.rs/s/r6ul1w/pony_gets_template_engine) - [Pony Gets a Template Engine](https://www.ponylang.io/blog/2026/03/pony-gets-a-template-engine/)
 * [2026-03-23, 20:09:54](https://lobste.rs/s/msgigh/guideline_rust_style) - [Guideline: Rust Style](https://epage.github.io/dev/rust-style/)
 * [2026-03-23, 19:23:42](https://lobste.rs/s/vlvpgo/qt_6_11_released) - [Qt 6.11 Released](https://www.qt.io/blog/qt-6.11-released)
 * [2026-03-23, 19:11:08](https://lobste.rs/s/joe31h/tla_mental_models) - [TLA+ mental models](http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html)
