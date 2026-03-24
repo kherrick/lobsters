@@ -5,6 +5,7 @@
 * [2026-03-24, 08:44:54](https://lobste.rs/s/6fpjhn/ironies_automation_1983) - [Ironies of Automation (1983)](http://www.complexcognition.co.uk/2021/06/ironies-of-automation.html)
 * [2026-03-24, 05:24:40](https://lobste.rs/s/aewrgf/can_it_resolve_doom_game_engine_2_000_dns) - [Can it Resolve DOOM? Game Engine in 2,000 DNS Records](https://blog.rice.is/post/doom-over-dns/)
 * [2026-03-24, 01:41:33](https://lobste.rs/s/g53l7b/mouse_programming_language_on_cp_m) - [The Mouse Programming Language on CP/M](https://techtinkering.com/articles/the-mouse-programming-language-on-cpm/)
+* [2026-03-24, 01:38:17](https://lobste.rs/s/9qmuj9/building_ats2_from_source_2026) - [Building ATS2 from Source in 2026](https://bluishcoder.co.nz/2026/03/23/building-ats2-from-source-in-2026/)
 * [2026-03-23, 22:58:41](https://lobste.rs/s/up2chu/rocksdb_development_finds_cpu_bug) - [RocksDB development finds a CPU bug](http://rocksdb.org/blog/2026/02/17/cpu-bug.html)
 * [2026-03-23, 22:20:31](https://lobste.rs/s/pem3or/playbit_runtime) - [Playbit runtime](https://playbit.app/)
 * [2026-03-23, 21:32:59](https://lobste.rs/s/nhnfob/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhnfob/what_are_you_doing_this_week)
@@ -23,7 +24,6 @@
 * [2026-03-23, 11:54:39](https://lobste.rs/s/cwdzd6/gram_1_1_0_released) - [Gram 1.1.0 released](https://gram.liten.app/posts/release-1-1-0/)
 * [2026-03-23, 09:39:39](https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos) - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
 * [2026-03-23, 08:10:20](https://lobste.rs/s/sndfxf/way_ctrl_c_postgres_cli_cancels_queries_is) - [The way CTRL-C in Postgres CLI cancels queries is incredibly hack-y](https://neon.com/blog/ctrl-c-in-psql-gives-me-the-heebie-jeebies)
-* [2026-03-22, 22:32:15](https://lobste.rs/s/n1h2tl/is_local_future_ai) - [Is Local the Future of AI?](https://tombedor.dev/open-source-models/)
 * [2026-03-22, 16:38:38](https://lobste.rs/s/702zix/let_s_see_paul_allen_s_simd_csv_parser) - [Let's see Paul Allen's SIMD CSV parser](https://chunkofcoal.com/posts/simd-csv/)
 
 ## [Archives](archives/index.md)
