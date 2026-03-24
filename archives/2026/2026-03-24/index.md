@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
+* [2026-03-24, 20:14:51](https://lobste.rs/s/ucympz/structuring_go_projects) - [Structuring Go projects](https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects)
 * [2026-03-24, 19:04:48](https://lobste.rs/s/4sfusf/choose_boring_technology_innovative) - [Choose Boring Technology and Innovative Practices](https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/)
 * [2026-03-24, 17:46:49](https://lobste.rs/s/xt8q7u/adding_structured_concurrency) - [Adding structured concurrency to JavaScript](https://github.com/bakkot/structured-concurrency-for-js)
 * [2026-03-24, 17:24:59](https://lobste.rs/s/qzf76s/addressing_global_removal_race_wayland) - [Addressing global removal race in Wayland](https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/)

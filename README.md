@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-24, 20:14:51](https://lobste.rs/s/ucympz/structuring_go_projects) - [Structuring Go projects](https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects)
 * [2026-03-24, 19:04:48](https://lobste.rs/s/4sfusf/choose_boring_technology_innovative) - [Choose Boring Technology and Innovative Practices](https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/)
 * [2026-03-24, 17:46:49](https://lobste.rs/s/xt8q7u/adding_structured_concurrency) - [Adding structured concurrency to JavaScript](https://github.com/bakkot/structured-concurrency-for-js)
-* [2026-03-24, 17:24:59](https://lobste.rs/s/qzf76s/addressing_global_removal_race_wayland) - [Addressing global removal race in Wayland](https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/)
 * [2026-03-24, 17:08:32](https://lobste.rs/s/xarlmy/go_naming_conventions_practical_guide) - [Go Naming Conventions: A Practical Guide](https://www.alexedwards.net/blog/go-naming-conventions)
 * [2026-03-24, 16:26:03](https://lobste.rs/s/swmqhe/announcing_guile_knots) - [Announcing Guile Knots](https://www.cbaines.net/posts/announcing_guile_knots/)
 * [2026-03-24, 16:11:42](https://lobste.rs/s/f0xdeo/missile_defense_is_np_complete) - [Missile Defense is NP-Complete](https://smu160.github.io/posts/missile-defense-is-np-complete/)
