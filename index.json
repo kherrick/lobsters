@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-24, 19:04:48",
+      "https://lobste.rs/s/4sfusf/choose_boring_technology_innovative"
+    ],
+    [
+      "Choose Boring Technology and Innovative Practices",
+      "https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 17:46:49",
       "https://lobste.rs/s/xt8q7u/adding_structured_concurrency"
     ],
@@ -87,16 +97,6 @@
     [
       "Proposing Botwatch",
       "https://7hird.dev/3mhr2nnuhh22m"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:20:01",
-      "https://lobste.rs/s/0amepo/when_upserts_don_t_update_still_write"
-    ],
-    [
-      "When upserts don't update but still write: Debugging Postgres performance at scale",
-      "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/"
     ]
   ],
   [
