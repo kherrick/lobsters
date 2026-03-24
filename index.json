@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-24, 17:08:32",
+      "https://lobste.rs/s/xarlmy/go_naming_conventions_practical_guide"
+    ],
+    [
+      "Go Naming Conventions: A Practical Guide",
+      "https://www.alexedwards.net/blog/go-naming-conventions"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 16:26:03",
       "https://lobste.rs/s/swmqhe/announcing_guile_knots"
     ],
@@ -167,16 +177,6 @@
     [
       "RocksDB development finds a CPU bug",
       "http://rocksdb.org/blog/2026/02/17/cpu-bug.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 22:20:31",
-      "https://lobste.rs/s/pem3or/playbit_runtime"
-    ],
-    [
-      "Playbit runtime",
-      "https://playbit.app/"
     ]
   ],
   [
