@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-03-24, 17:24:59",
+      "https://lobste.rs/s/qzf76s/addressing_global_removal_race_wayland"
+    ],
+    [
+      "Addressing global removal race in Wayland",
+      "https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 17:08:32",
       "https://lobste.rs/s/xarlmy/go_naming_conventions_practical_guide"
     ],
@@ -197,16 +207,6 @@
     [
       "Rewriting a 20-year-old Python library",
       "https://www.b-list.org/weblog/2026/mar/23/20-year-library/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 14:30:45",
-      "https://lobste.rs/s/tuyk3l/semi_retirement_really_changing_my"
-    ],
-    [
-      "Semi-retirement, or, really, changing my relationship with the BSDs",
-      "https://briancallahan.net/blog/20260322.html"
     ]
   ],
   [
