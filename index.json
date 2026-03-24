@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-03-24, 16:26:03",
+      "https://lobste.rs/s/swmqhe/announcing_guile_knots"
+    ],
+    [
+      "Announcing Guile Knots",
+      "https://www.cbaines.net/posts/announcing_guile_knots/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 16:11:42",
+      "https://lobste.rs/s/f0xdeo/missile_defense_is_np_complete"
+    ],
+    [
+      "Missile Defense is NP-Complete",
+      "https://smu160.github.io/posts/missile-defense-is-np-complete/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 15:58:57",
       "https://lobste.rs/s/plmvuv/litellm_compromised_by_credential"
     ],
     [
       "LiteLLM Compromised by Credential Stealer",
       "https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:58:33",
-      "https://lobste.rs/s/juc8ix/hegel_universal_property_based_testing"
-    ],
-    [
-      "Hegel, a universal property-based testing protocol and family of PBT libraries",
-      "https://hegel.dev"
     ]
   ],
   [
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2026-03-24, 14:37:29",
+      "https://lobste.rs/s/wjhc9g/rust_threads_on_gpu"
+    ],
+    [
+      "Rust threads on the GPU",
+      "https://vectorware.com/blog/threads-on-gpu/"
+    ]
+  ],
+  [
+    [
       "2026-03-24, 13:32:17",
       "https://lobste.rs/s/c8k9tt/slopification_its_discontents"
     ],
@@ -97,16 +117,6 @@
     [
       "Announcing TypeScript 6.0",
       "https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 08:44:54",
-      "https://lobste.rs/s/6fpjhn/ironies_automation_1983"
-    ],
-    [
-      "Ironies of Automation (1983)",
-      "http://www.complexcognition.co.uk/2021/06/ironies-of-automation.html"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Guideline: Rust Style",
       "https://epage.github.io/dev/rust-style/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 19:11:08",
-      "https://lobste.rs/s/joe31h/tla_mental_models"
-    ],
-    [
-      "TLA+ mental models",
-      "http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html"
     ]
   ],
   [
