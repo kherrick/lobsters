@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-03-24, 20:14:50",
-      "https://lobste.rs/s/wh73bt/turboquant_redefining_ai_efficiency"
-    ],
-    [
-      "TurboQuant: Redefining AI efficiency with extreme compression",
-      "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 19:04:48",
       "https://lobste.rs/s/4sfusf/choose_boring_technology_innovative"
     ],
@@ -47,6 +37,16 @@
     [
       "Adding structured concurrency to JavaScript",
       "https://github.com/bakkot/structured-concurrency-for-js"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 17:24:59",
+      "https://lobste.rs/s/qzf76s/addressing_global_removal_race_wayland"
+    ],
+    [
+      "Addressing global removal race in Wayland",
+      "https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Proposing Botwatch",
       "https://7hird.dev/3mhr2nnuhh22m"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 15:20:01",
+      "https://lobste.rs/s/0amepo/when_upserts_don_t_update_still_write"
+    ],
+    [
+      "When upserts don't update but still write: Debugging Postgres performance at scale",
+      "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Guideline: Rust Style",
       "https://epage.github.io/dev/rust-style/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 18:43:27",
-      "https://lobste.rs/s/jbyzxt/rewriting_20_year_old_python_library"
-    ],
-    [
-      "Rewriting a 20-year-old Python library",
-      "https://www.b-list.org/weblog/2026/mar/23/20-year-library/"
     ]
   ],
   [
