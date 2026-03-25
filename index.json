@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-25, 22:43:44",
+      "https://lobste.rs/s/xpx9vi/shell_tricks_actually_make_life_easier"
+    ],
+    [
+      "Shell Tricks That Actually Make Life Easier (And Save Your Sanity)",
+      "https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 19:45:05",
       "https://lobste.rs/s/urwusf/updates_github_copilot_interaction_data"
     ],
@@ -97,6 +107,16 @@
     [
       "OpenBSD on Motorola 88000 processors",
       "http://miod.online.fr/software/openbsd/stories/m88k1.html"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 16:09:52",
+      "https://lobste.rs/s/om9yw4/replacing_disqus_with_mastodon_comments"
+    ],
+    [
+      "Replacing Disqus with Mastodon Comments",
+      "https://jonhnnyweslley.net/blog/mastodon-comments/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-03-24, 15:58:57",
-      "https://lobste.rs/s/plmvuv/litellm_compromised_by_credential"
-    ],
-    [
-      "LiteLLM Compromised by Credential Stealer",
-      "https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 15:58:33",
       "https://lobste.rs/s/juc8ix/hegel_universal_property_based_testing"
     ],
     [
       "Hegel, a universal property-based testing protocol and family of PBT libraries",
       "https://hegel.dev"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 12:00:56",
-      "https://lobste.rs/s/brcq3a/curl_dev_sda"
-    ],
-    [
-      "curl > dev/sda",
-      "https://astrid.tech/2026/03/24/0/curl-to-dev-sda/"
     ]
   ],
   [
