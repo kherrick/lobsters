@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 19:17:13](https://lobste.rs/s/wcw7hb/one_file_what_if_your_lockfile_your) - [One File - What if your lockfile and your package list were the same file?](https://merelinux.org/posts/one-file/)
 * [2026-03-25, 18:53:18](https://lobste.rs/s/qnxnwk/apple_s_macos_unix_certification_is_lie) - [Apple’s macOS UNIX certification is a lie](https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/)
 * [2026-03-25, 18:26:13](https://lobste.rs/s/yeoe5q/which_design_doc_did_human_write) - [Which Design Doc Did a Human Write?](https://refactoringenglish.com/blog/ai-vs-human-design-doc/)
 * [2026-03-25, 17:35:54](https://lobste.rs/s/fagjz6/jon_gjengset_cost_concurrency) - [Jon Gjengset: The Cost of Concurrency Coordination](https://www.youtube.com/watch?v=tND-wBBZ8RY)
