@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-25, 11:44:38",
-      "https://lobste.rs/s/cw9nu5/i_used_openclaw_analyze_trustmrr_s_top_200"
-    ],
-    [
-      "I used OpenClaw to analyze TrustMRR's top 200 startups",
-      "https://www.webscraperapi.ai/blog/i-used-openclaw-to-analyze-trustmrrs-top-200-startups"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 10:36:39",
       "https://lobste.rs/s/xv13en/vitruvianos"
     ],
@@ -67,6 +57,16 @@
     [
       "acwj: A Compiler Writing Journey",
       "https://github.com/DoctorWkt/acwj"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 05:17:42",
+      "https://lobste.rs/s/kuzyto/scan_scatter_fusion"
+    ],
+    [
+      "Scan-scatter fusion",
+      "https://futhark-lang.org/blog/2026-03-24-scan-scatter-fusion.html"
     ]
   ],
   [
