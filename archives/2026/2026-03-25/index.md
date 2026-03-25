@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 18:26:13](https://lobste.rs/s/yeoe5q/which_design_doc_did_human_write) - [Which Design Doc Did a Human Write?](https://refactoringenglish.com/blog/ai-vs-human-design-doc/)
+* [2026-03-25, 17:35:54](https://lobste.rs/s/fagjz6/jon_gjengset_cost_concurrency) - [Jon Gjengset: The Cost of Concurrency Coordination](https://www.youtube.com/watch?v=tND-wBBZ8RY)
+* [2026-03-25, 17:14:43](https://lobste.rs/s/4i8uad/thoughts_on_slowing_fuck_down) - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 17:02:45](https://lobste.rs/s/ogjhf1/your_first_parser) - [Your First Parser](https://davesnx.github.io/parseff/guides/first-parser/)
 * [2026-03-25, 16:50:49](https://lobste.rs/s/tntlde/mojo_s_not_yet_python) - [Mojo's not (yet) Python](https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html)
 * [2026-03-25, 16:46:23](https://lobste.rs/s/xpwhi1/jensen_huang_on_ai_token_factories_future) - [Jensen Huang on AI 'Token Factories', The Future of Labor, and 'Dying on the Job'](https://founderboat.com/interviews/2026-03-24-jensen-nvidia/)
