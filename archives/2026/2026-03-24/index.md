@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-03-24](index.md)
 
 * [2026-03-24, 23:46:36](https://lobste.rs/s/bfgcx7/swift_6_3_released) - [Swift 6.3 released](https://swift.org/blog/swift-6.3-released/)
+* [2026-03-24, 22:26:48](https://lobste.rs/s/oemks0/status_update_2026_02) - [Status update 2026-02](https://whynothugo.nl/journal/2026/02/28/status-update-2026-02/)
 * [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)
 * [2026-03-24, 20:14:51](https://lobste.rs/s/ucympz/structuring_go_projects) - [Structuring Go projects](https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects)
 * [2026-03-24, 20:14:50](https://lobste.rs/s/wh73bt/turboquant_redefining_ai_efficiency) - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)

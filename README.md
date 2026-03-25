@@ -2,6 +2,7 @@
 
 * [2026-03-25, 02:00:03](https://lobste.rs/s/67mppl/amiga_directory_bomb) - [Amiga directory… bomb?](https://heckmeck.de/blog/amiga-directory-bomb/)
 * [2026-03-24, 23:46:36](https://lobste.rs/s/bfgcx7/swift_6_3_released) - [Swift 6.3 released](https://swift.org/blog/swift-6.3-released/)
+* [2026-03-24, 22:26:48](https://lobste.rs/s/oemks0/status_update_2026_02) - [Status update 2026-02](https://whynothugo.nl/journal/2026/02/28/status-update-2026-02/)
 * [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)
 * [2026-03-24, 20:14:51](https://lobste.rs/s/ucympz/structuring_go_projects) - [Structuring Go projects](https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects)
 * [2026-03-24, 19:04:48](https://lobste.rs/s/4sfusf/choose_boring_technology_innovative) - [Choose Boring Technology and Innovative Practices](https://buttondown.com/hillelwayne/archive/choose-boring-technology-and-innovative-practices/)
@@ -22,7 +23,6 @@
 * [2026-03-24, 09:36:16](https://lobste.rs/s/hb04np/announcing_typescript_6_0) - [Announcing TypeScript 6.0](https://devblogs.microsoft.com/typescript/announcing-typescript-6-0/)
 * [2026-03-24, 05:24:40](https://lobste.rs/s/aewrgf/can_it_resolve_doom_game_engine_2_000_dns) - [Can it Resolve DOOM? Game Engine in 2,000 DNS Records](https://blog.rice.is/post/doom-over-dns/)
 * [2026-03-23, 14:14:41](https://lobste.rs/s/cxpn2j/markdown_ate_world) - [Markdown Ate the World](https://matduggan.com/markdown-ate-the-world/)
-* [2026-03-23, 14:06:01](https://lobste.rs/s/i0cskl/incoherent_rust) - [An Incoherent Rust](https://www.boxyuwu.blog/posts/an-incoherent-rust/)
 * [2026-03-23, 12:12:53](https://lobste.rs/s/he8mhk/death_character_game_console_interfaces) - [The Death of Character in Game Console Interfaces](https://vale.rocks/posts/game-console-interfaces)
 * [2026-03-23, 09:39:39](https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos) - [Native Instant Space Switching on MacOS](https://arhan.sh/blog/native-instant-space-switching-on-macos/)
 
