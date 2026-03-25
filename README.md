@@ -4,7 +4,7 @@
 * [2026-03-25, 19:17:13](https://lobste.rs/s/wcw7hb/one_file_what_if_your_lockfile_your) - [One File - What if your lockfile and your package list were the same file?](https://merelinux.org/posts/one-file/)
 * [2026-03-25, 18:53:18](https://lobste.rs/s/qnxnwk/apple_s_macos_unix_certification_is_lie) - [Apple’s macOS UNIX certification is a lie(2025)](https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/)
 * [2026-03-25, 18:26:13](https://lobste.rs/s/yeoe5q/which_design_doc_did_human_write) - [Which Design Doc Did a Human Write?](https://refactoringenglish.com/blog/ai-vs-human-design-doc/)
-* [2026-03-25, 17:35:54](https://lobste.rs/s/fagjz6/jon_gjengset_cost_concurrency) - [Jon Gjengset: The Cost of Concurrency Coordination](https://www.youtube.com/watch?v=tND-wBBZ8RY)
+* [2026-03-25, 17:35:54](https://lobste.rs/s/fagjz6/cost_concurrency_coordination) - [The Cost of Concurrency Coordination](https://www.youtube.com/watch?v=tND-wBBZ8RY)
 * [2026-03-25, 17:14:43](https://lobste.rs/s/4i8uad/thoughts_on_slowing_fuck_down) - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 17:02:45](https://lobste.rs/s/ogjhf1/your_first_parser) - [Your First Parser](https://davesnx.github.io/parseff/guides/first-parser/)
 * [2026-03-25, 16:50:49](https://lobste.rs/s/tntlde/mojo_s_not_yet_python) - [Mojo's not (yet) Python](https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html)
