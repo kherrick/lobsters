@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 17:02:45](https://lobste.rs/s/ogjhf1/your_first_parser) - [Your First Parser](https://davesnx.github.io/parseff/guides/first-parser/)
+* [2026-03-25, 16:50:49](https://lobste.rs/s/tntlde/mojo_s_not_yet_python) - [Mojo's not (yet) Python](https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html)
+* [2026-03-25, 16:46:23](https://lobste.rs/s/xpwhi1/jensen_huang_on_ai_token_factories_future) - [Jensen Huang on AI 'Token Factories', The Future of Labor, and 'Dying on the Job'](https://founderboat.com/interviews/2026-03-24-jensen-nvidia/)
 * [2026-03-25, 16:26:02](https://lobste.rs/s/4qpylt/compiler_crates) - [Compiler Crates](https://sdiehl.github.io/compiler-crates/)
 * [2026-03-25, 16:20:18](https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors) - [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
 * [2026-03-25, 14:30:51](https://lobste.rs/s/ocrjck/disregard_attacks) - [\"Disregard that!\" attacks](https://calpaterson.com/disregard.html)
