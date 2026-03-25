@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-25, 08:37:47",
+      "https://lobste.rs/s/tponua/forking_httpx_as_httpxyz"
+    ],
+    [
+      "Forking httpx as httpxyz",
+      "https://tildeweb.nl/~michiel/httpxyz.html"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 06:00:32",
       "https://lobste.rs/s/lzxb0m/magic_link_pitfalls"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2026-03-25, 05:32:47",
+      "https://lobste.rs/s/frsbgh/istat_menus_7_20_5_local_privilege"
+    ],
+    [
+      "iStat Menus < 7.20.5 local privilege escalation",
+      "https://markuta.com/istat-menus-local-privilege-escalation/"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 02:00:03",
       "https://lobste.rs/s/67mppl/amiga_directory_bomb"
     ],
@@ -37,6 +57,16 @@
     [
       "Swift 6.3 released",
       "https://swift.org/blog/swift-6.3-released/"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 22:26:48",
+      "https://lobste.rs/s/oemks0/status_update_2026_02"
+    ],
+    [
+      "Status update 2026-02",
+      "https://whynothugo.nl/journal/2026/02/28/status-update-2026-02/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-03-24, 15:20:01",
-      "https://lobste.rs/s/0amepo/when_upserts_don_t_update_still_write"
-    ],
-    [
-      "When upserts don't update but still write: Debugging Postgres performance at scale",
-      "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 14:45:31",
       "https://lobste.rs/s/zbe88n/pine64_fosdem_2026_update"
     ],
@@ -227,26 +247,6 @@
     [
       "Can it Resolve DOOM? Game Engine in 2,000 DNS Records",
       "https://blog.rice.is/post/doom-over-dns/"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 12:12:53",
-      "https://lobste.rs/s/he8mhk/death_character_game_console_interfaces"
-    ],
-    [
-      "The Death of Character in Game Console Interfaces",
-      "https://vale.rocks/posts/game-console-interfaces"
-    ]
-  ],
-  [
-    [
-      "2026-03-23, 09:39:39",
-      "https://lobste.rs/s/sz4bzf/native_instant_space_switching_on_macos"
-    ],
-    [
-      "Native Instant Space Switching on MacOS",
-      "https://arhan.sh/blog/native-instant-space-switching-on-macos/"
     ]
   ]
 ]
