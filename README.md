@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-25, 11:44:38](https://lobste.rs/s/cw9nu5/i_used_openclaw_analyze_trustmrr_s_top_200) - [I used OpenClaw to analyze TrustMRR's top 200 startups](https://www.webscraperapi.ai/blog/i-used-openclaw-to-analyze-trustmrrs-top-200-startups)
 * [2026-03-25, 10:36:39](https://lobste.rs/s/xv13en/vitruvianos) - [VitruvianOS](https://v-os.dev/)
 * [2026-03-25, 10:07:52](https://lobste.rs/s/zy8rgm/fyrox_1_0_0) - [Fyrox 1.0.0](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0/)
 * [2026-03-25, 08:37:47](https://lobste.rs/s/tponua/forking_httpx_as_httpxyz) - [Forking httpx as httpxyz](https://tildeweb.nl/~michiel/httpxyz.html)
 * [2026-03-25, 07:08:02](https://lobste.rs/s/udbivp/32_year_old_bug_walks_into_telnet_server) - [A 32-Year-Old Bug Walks Into A Telnet Server (GNU inetutils CVE-2026-32746)](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
 * [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
 * [2026-03-25, 05:32:47](https://lobste.rs/s/vlnjkf/acwj_compiler_writing_journey) - [acwj: A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
+* [2026-03-25, 05:17:42](https://lobste.rs/s/kuzyto/scan_scatter_fusion) - [Scan-scatter fusion](https://futhark-lang.org/blog/2026-03-24-scan-scatter-fusion.html)
 * [2026-03-25, 02:00:03](https://lobste.rs/s/67mppl/amiga_directory_bomb) - [Amiga directory… bomb?](https://heckmeck.de/blog/amiga-directory-bomb/)
 * [2026-03-24, 23:46:36](https://lobste.rs/s/bfgcx7/swift_6_3_released) - [Swift 6.3 released](https://swift.org/blog/swift-6.3-released/)
 * [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)

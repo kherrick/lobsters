@@ -13,4 +13,5 @@
 * [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
 * [2026-03-25, 05:32:47](https://lobste.rs/s/vlnjkf/acwj_compiler_writing_journey) - [acwj: A Compiler Writing Journey](https://github.com/DoctorWkt/acwj)
 * [2026-03-25, 05:32:47](https://lobste.rs/s/frsbgh/istat_menus_7_20_5_local_privilege) - [iStat Menus < 7.20.5 local privilege escalation](https://markuta.com/istat-menus-local-privilege-escalation/)
+* [2026-03-25, 05:17:42](https://lobste.rs/s/kuzyto/scan_scatter_fusion) - [Scan-scatter fusion](https://futhark-lang.org/blog/2026-03-24-scan-scatter-fusion.html)
 * [2026-03-25, 02:00:03](https://lobste.rs/s/67mppl/amiga_directory_bomb) - [Amiga directory… bomb?](https://heckmeck.de/blog/amiga-directory-bomb/)
