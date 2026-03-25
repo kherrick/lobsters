@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-25, 14:11:49",
+      "https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori"
+    ],
+    [
+      "Announcing Lix 2.95 “Kakigōri”",
+      "https://lix.systems/blog/2026-03-25-lix-2.95-release/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 13:07:40",
+      "https://lobste.rs/s/epq3vv/introducing_ipxlat_stateless_ipv4_ipv6"
+    ],
+    [
+      "Introducing ipxlat: a stateless IPv4/IPv6 translation device",
+      "https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 11:07:43",
+      "https://lobste.rs/s/i8q7uf/ubuntu_looks_strip_grub_bare_minimum_for"
+    ],
+    [
+      "Ubuntu Looks To Strip GRUB To The Bare Minimum For Better Security",
+      "https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 10:36:39",
       "https://lobste.rs/s/xv13en/vitruvianos"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2026-03-25, 05:17:42",
-      "https://lobste.rs/s/kuzyto/scan_scatter_fusion"
-    ],
-    [
-      "Scan-scatter fusion",
-      "https://futhark-lang.org/blog/2026-03-24-scan-scatter-fusion.html"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 02:00:03",
       "https://lobste.rs/s/67mppl/amiga_directory_bomb"
     ],
@@ -117,16 +137,6 @@
     [
       "Adding structured concurrency to JavaScript",
       "https://github.com/bakkot/structured-concurrency-for-js"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 17:24:59",
-      "https://lobste.rs/s/qzf76s/addressing_global_removal_race_wayland"
-    ],
-    [
-      "Addressing global removal race in Wayland",
-      "https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Inside Ohm's PEG-to-Wasm compiler",
       "https://ohmjs.org/blog/2026/03/12/peg-to-wasm"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:32:35",
-      "https://lobste.rs/s/ftfy60/proposing_botwatch"
-    ],
-    [
-      "Proposing Botwatch",
-      "https://7hird.dev/3mhr2nnuhh22m"
     ]
   ],
   [
