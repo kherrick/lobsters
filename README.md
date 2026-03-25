@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-25, 22:43:44](https://lobste.rs/s/xpx9vi/shell_tricks_actually_make_life_easier) - [Shell Tricks That Actually Make Life Easier (And Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)
 * [2026-03-25, 19:45:05](https://lobste.rs/s/urwusf/updates_github_copilot_interaction_data) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 * [2026-03-25, 19:17:13](https://lobste.rs/s/wcw7hb/one_file_what_if_your_lockfile_your) - [One File - What if your lockfile and your package list were the same file?](https://merelinux.org/posts/one-file/)
 * [2026-03-25, 18:53:18](https://lobste.rs/s/qnxnwk/apple_s_macos_unix_certification_is_lie) - [Apple’s macOS UNIX certification is a lie (2025)](https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/)
@@ -10,6 +11,7 @@
 * [2026-03-25, 16:50:49](https://lobste.rs/s/tntlde/mojo_s_not_yet_python) - [Mojo's not (yet) Python](https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html)
 * [2026-03-25, 16:26:02](https://lobste.rs/s/4qpylt/compiler_crates) - [Compiler Crates](https://sdiehl.github.io/compiler-crates/)
 * [2026-03-25, 16:20:18](https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors) - [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
+* [2026-03-25, 16:09:52](https://lobste.rs/s/om9yw4/replacing_disqus_with_mastodon_comments) - [Replacing Disqus with Mastodon Comments](https://jonhnnyweslley.net/blog/mastodon-comments/)
 * [2026-03-25, 14:30:51](https://lobste.rs/s/ocrjck/disregard_attacks) - [\"Disregard that!\" attacks](https://calpaterson.com/disregard.html)
 * [2026-03-25, 14:11:49](https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori) - [Announcing Lix 2.95 “Kakigōri”](https://lix.systems/blog/2026-03-25-lix-2.95-release/)
 * [2026-03-25, 14:03:06](https://lobste.rs/s/oxkpme/introducing_gnome_fellowship_program) - [Introducing the GNOME Fellowship program](https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/)
@@ -21,9 +23,7 @@
 * [2026-03-25, 07:08:02](https://lobste.rs/s/udbivp/32_year_old_bug_walks_into_telnet_server) - [A 32-Year-Old Bug Walks Into A Telnet Server (GNU inetutils CVE-2026-32746)](https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/)
 * [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
 * [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)
-* [2026-03-24, 15:58:57](https://lobste.rs/s/plmvuv/litellm_compromised_by_credential) - [LiteLLM Compromised by Credential Stealer](https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/)
 * [2026-03-24, 15:58:33](https://lobste.rs/s/juc8ix/hegel_universal_property_based_testing) - [Hegel, a universal property-based testing protocol and family of PBT libraries](https://hegel.dev)
-* [2026-03-24, 12:00:56](https://lobste.rs/s/brcq3a/curl_dev_sda) - [curl > dev/sda](https://astrid.tech/2026/03/24/0/curl-to-dev-sda/)
 * [2026-03-24, 10:54:53](https://lobste.rs/s/flmhja/debunking_zswap_zram_myths) - [Debunking zswap and zram myths](https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html)
 
 ## [Archives](archives/index.md)

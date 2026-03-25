@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-25](index.md)
 
+* [2026-03-25, 22:43:44](https://lobste.rs/s/xpx9vi/shell_tricks_actually_make_life_easier) - [Shell Tricks That Actually Make Life Easier (And Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)
 * [2026-03-25, 19:45:05](https://lobste.rs/s/urwusf/updates_github_copilot_interaction_data) - [Updates to GitHub Copilot interaction data usage policy](https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/)
 * [2026-03-25, 19:17:13](https://lobste.rs/s/wcw7hb/one_file_what_if_your_lockfile_your) - [One File - What if your lockfile and your package list were the same file?](https://merelinux.org/posts/one-file/)
 * [2026-03-25, 18:53:18](https://lobste.rs/s/qnxnwk/apple_s_macos_unix_certification_is_lie) - [Apple’s macOS UNIX certification is a lie](https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/)
@@ -16,6 +17,7 @@
 * [2026-03-25, 16:46:23](https://lobste.rs/s/xpwhi1/jensen_huang_on_ai_token_factories_future) - [Jensen Huang on AI 'Token Factories', The Future of Labor, and 'Dying on the Job'](https://founderboat.com/interviews/2026-03-24-jensen-nvidia/)
 * [2026-03-25, 16:26:02](https://lobste.rs/s/4qpylt/compiler_crates) - [Compiler Crates](https://sdiehl.github.io/compiler-crates/)
 * [2026-03-25, 16:20:18](https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors) - [OpenBSD on Motorola 88000 processors](http://miod.online.fr/software/openbsd/stories/m88k1.html)
+* [2026-03-25, 16:09:52](https://lobste.rs/s/om9yw4/replacing_disqus_with_mastodon_comments) - [Replacing Disqus with Mastodon Comments](https://jonhnnyweslley.net/blog/mastodon-comments/)
 * [2026-03-25, 14:30:51](https://lobste.rs/s/ocrjck/disregard_attacks) - [\"Disregard that!\" attacks](https://calpaterson.com/disregard.html)
 * [2026-03-25, 14:11:49](https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori) - [Announcing Lix 2.95 “Kakigōri”](https://lix.systems/blog/2026-03-25-lix-2.95-release/)
 * [2026-03-25, 14:03:06](https://lobste.rs/s/oxkpme/introducing_gnome_fellowship_program) - [Introducing the GNOME Fellowship program](https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/)
