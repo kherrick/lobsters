@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-25, 18:26:13",
+      "https://lobste.rs/s/yeoe5q/which_design_doc_did_human_write"
+    ],
+    [
+      "Which Design Doc Did a Human Write?",
+      "https://refactoringenglish.com/blog/ai-vs-human-design-doc/"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 17:35:54",
+      "https://lobste.rs/s/fagjz6/jon_gjengset_cost_concurrency"
+    ],
+    [
+      "Jon Gjengset: The Cost of Concurrency Coordination",
+      "https://www.youtube.com/watch?v=tND-wBBZ8RY"
+    ]
+  ],
+  [
+    [
+      "2026-03-25, 17:14:43",
+      "https://lobste.rs/s/4i8uad/thoughts_on_slowing_fuck_down"
+    ],
+    [
+      "Thoughts on slowing the fuck down",
+      "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 17:02:45",
       "https://lobste.rs/s/ogjhf1/your_first_parser"
     ],
@@ -17,16 +47,6 @@
     [
       "Mojo's not (yet) Python",
       "https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 16:46:23",
-      "https://lobste.rs/s/xpwhi1/jensen_huang_on_ai_token_factories_future"
-    ],
-    [
-      "Jensen Huang on AI 'Token Factories', The Future of Labor, and 'Dying on the Job'",
-      "https://founderboat.com/interviews/2026-03-24-jensen-nvidia/"
     ]
   ],
   [
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2026-03-24, 17:46:49",
-      "https://lobste.rs/s/xt8q7u/adding_structured_concurrency"
-    ],
-    [
-      "Adding structured concurrency to JavaScript",
-      "https://github.com/bakkot/structured-concurrency-for-js"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 17:08:32",
       "https://lobste.rs/s/xarlmy/go_naming_conventions_practical_guide"
     ],
     [
       "Go Naming Conventions: A Practical Guide",
       "https://www.alexedwards.net/blog/go-naming-conventions"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 16:11:42",
-      "https://lobste.rs/s/f0xdeo/missile_defense_is_np_complete"
-    ],
-    [
-      "Missile Defense is NP-Complete",
-      "https://smu160.github.io/posts/missile-defense-is-np-complete/"
     ]
   ],
   [
