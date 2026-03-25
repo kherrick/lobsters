@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2026-03-24, 20:14:51",
-      "https://lobste.rs/s/ucympz/structuring_go_projects"
-    ],
-    [
-      "Structuring Go projects",
-      "https://www.alexedwards.net/blog/11-tips-for-structuring-your-go-projects"
-    ]
-  ],
-  [
-    [
       "2026-03-24, 19:04:48",
       "https://lobste.rs/s/4sfusf/choose_boring_technology_innovative"
     ],
@@ -157,6 +147,16 @@
     [
       "Proposing Botwatch",
       "https://7hird.dev/3mhr2nnuhh22m"
+    ]
+  ],
+  [
+    [
+      "2026-03-24, 15:20:01",
+      "https://lobste.rs/s/0amepo/when_upserts_don_t_update_still_write"
+    ],
+    [
+      "When upserts don't update but still write: Debugging Postgres performance at scale",
+      "https://www.datadoghq.com/blog/engineering/debugging-postgres-performance/"
     ]
   ],
   [
