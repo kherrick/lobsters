@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 06:06:21](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
+* [2026-03-26, 06:01:42](https://lobste.rs/s/cibkd8/lines_code_are_useful) - [Lines of code are useful](https://entropicthoughts.com/lines-of-code)
+* [2026-03-26, 05:27:27](https://lobste.rs/s/quxmzz/vim_racing) - [Vim Racing](https://www.vimgym.app/)
 * [2026-03-26, 04:15:29](https://lobste.rs/s/w15igx/zero_copy_protobuf_connectrpc_for_rust) - [Zero-copy protobuf and ConnectRPC for Rust](https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02)
 * [2026-03-26, 02:31:50](https://lobste.rs/s/cug5gu/verilog_factorio_compiler_simulator) - [A Verilog to Factorio compiler and simulator (working RISC-V CPU)](https://www.reddit.com/r/rust/comments/1s03w2o/my_first_rust_project_a_verilog_to_factorio/)
 * [2026-03-26, 01:57:23](https://lobste.rs/s/vyixek/electric_motorcycles_are_security) - [Electric Motorcycles are a Security Nightmare](https://persephonekarnstein.github.io/post/zero-days/)

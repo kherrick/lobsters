@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-26, 04:15:29](https://lobste.rs/s/w15igx/zero_copy_protobuf_connectrpc_for_rust) - [Zero-copy protobuf and ConnectRPC for Rust](https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02)
+* [2026-03-26, 06:06:21](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
+* [2026-03-26, 06:01:42](https://lobste.rs/s/cibkd8/lines_code_are_useful) - [Lines of code are useful](https://entropicthoughts.com/lines-of-code)
+* [2026-03-26, 05:27:27](https://lobste.rs/s/quxmzz/vim_racing) - [Vim Racing](https://www.vimgym.app/)
 * [2026-03-26, 02:31:50](https://lobste.rs/s/cug5gu/verilog_factorio_compiler_simulator) - [A Verilog to Factorio compiler and simulator (working RISC-V CPU)](https://www.reddit.com/r/rust/comments/1s03w2o/my_first_rust_project_a_verilog_to_factorio/)
 * [2026-03-26, 01:57:23](https://lobste.rs/s/vyixek/electric_motorcycles_are_security) - [Electric Motorcycles are a Security Nightmare](https://persephonekarnstein.github.io/post/zero-days/)
 * [2026-03-26, 01:32:17](https://lobste.rs/s/xwl4yi/read_receipts_imessage_simulator) - [Read Receipts: An iMessage Simulator](https://readreceipts.org/create?thread=266ca5fb-3c60-4486-8c98-7579590a3b7f)
@@ -18,13 +20,11 @@
 * [2026-03-25, 14:30:51](https://lobste.rs/s/ocrjck/disregard_attacks) - [\"Disregard that!\" attacks](https://calpaterson.com/disregard.html)
 * [2026-03-25, 14:11:49](https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori) - [Announcing Lix 2.95 “Kakigōri”](https://lix.systems/blog/2026-03-25-lix-2.95-release/)
 * [2026-03-25, 14:03:06](https://lobste.rs/s/oxkpme/introducing_gnome_fellowship_program) - [Introducing the GNOME Fellowship program](https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/)
-* [2026-03-25, 13:07:40](https://lobste.rs/s/epq3vv/introducing_ipxlat_stateless_ipv4_ipv6) - [Introducing ipxlat: a stateless IPv4/IPv6 translation device](https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/)
 * [2026-03-25, 11:07:43](https://lobste.rs/s/i8q7uf/ubuntu_looks_strip_grub_bare_minimum_for) - [Ubuntu Looks To Strip GRUB To The Bare Minimum For Better Security](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069)
 * [2026-03-25, 10:36:39](https://lobste.rs/s/xv13en/vitruvianos) - [VitruvianOS](https://v-os.dev/)
 * [2026-03-25, 10:07:52](https://lobste.rs/s/zy8rgm/fyrox_1_0_0) - [Fyrox 1.0.0](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0/)
 * [2026-03-25, 08:37:47](https://lobste.rs/s/tponua/forking_httpx_as_httpxyz) - [Forking httpx as httpxyz](https://tildeweb.nl/~michiel/httpxyz.html)
 * [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
-* [2026-03-24, 21:38:44](https://lobste.rs/s/7s4sjp/u_fdfd_arabic_ligature_bismillah_ar) - [\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)](https://unicodeplus.com/U+FDFD)
 
 ## [Archives](archives/index.md)
 
