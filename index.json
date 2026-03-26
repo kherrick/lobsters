@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-03-26, 17:31:41",
-      "https://lobste.rs/s/juftjl/500_gpu_outperforms_claude_sonnet_on"
+      "2026-03-26, 18:35:36",
+      "https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision"
     ],
     [
-      "$500 GPU outperforms Claude Sonnet on coding benchmarks using open-source AI system",
-      "https://github.com/itigges22/ATLAS"
+      "I can't See Apple's Vision",
+      "https://matduggan.com/i-cant-see-apples-vision/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 18:16:00",
+      "https://lobste.rs/s/rnvrel/ubuntu_adopt_ntpd_rs_as_default_time"
+    ],
+    [
+      "Ubuntu to adopt ntpd-rs as the default time synchronization client and server - Trifecta Tech Foundation",
+      "https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Optimization lessons from a Minecraft structure locator",
       "https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 10:13:26",
+      "https://lobste.rs/s/hjxi2b/deploying_go_apps_google_cloud_run"
+    ],
+    [
+      "Deploying Go Apps to Google Cloud Run",
+      "https://www.josephspurrier.com/google-cloud-run-deployment"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-03-25, 18:53:18",
-      "https://lobste.rs/s/qnxnwk/apple_s_macos_unix_certification_is_lie"
-    ],
-    [
-      "Apple’s macOS UNIX certification is a lie (2025)",
-      "https://www.osnews.com/story/141633/apples-macos-unix-certification-is-a-lie/"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 18:26:13",
       "https://lobste.rs/s/yeoe5q/which_design_doc_did_human_write"
     ],
@@ -237,16 +247,6 @@
     [
       "VitruvianOS",
       "https://v-os.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 06:00:32",
-      "https://lobste.rs/s/lzxb0m/magic_link_pitfalls"
-    ],
-    [
-      "Magic Link Pitfalls",
-      "https://etodd.io/2026/03/22/magic-link-pitfalls/"
     ]
   ]
 ]
