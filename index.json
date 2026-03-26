@@ -1,12 +1,52 @@
 [
   [
     [
+      "2026-03-26, 13:31:14",
+      "https://lobste.rs/s/1stari/when_vectorized_arrays_aren_t_enough"
+    ],
+    [
+      "When Vectorized Arrays Aren't Enough",
+      "https://nrposner.com/blog/when-vectorized-arrays-arent-enough/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 13:01:54",
+      "https://lobste.rs/s/e4y5ps/two_studies_compiler_optimisations"
+    ],
+    [
+      "Two studies in compiler optimisations",
+      "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 11:11:30",
       "https://lobste.rs/s/xlmyob/cesil_other_programming_languages"
     ],
     [
       "CESIL and other programming languages",
       "http://blog.scribblings.com/progaming-languages-1-cesil"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 10:13:26",
+      "https://lobste.rs/s/hjxi2b/deploying_go_apps_google_cloud_run"
+    ],
+    [
+      "Deploying Go Apps to Google Cloud Run",
+      "https://www.josephspurrier.com/google-cloud-run-deployment"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 09:27:34",
+      "https://lobste.rs/s/6w8rqm/engineers_do_get_promoted_for_writing"
+    ],
+    [
+      "Engineers do get promoted for writing simple code",
+      "https://www.seangoedecke.com/simple-work-gets-rewarded/"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2026-03-26, 04:15:29",
-      "https://lobste.rs/s/w15igx/zero_copy_protobuf_connectrpc_for_rust"
-    ],
-    [
-      "Zero-copy protobuf and ConnectRPC for Rust",
-      "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 02:31:50",
       "https://lobste.rs/s/cug5gu/verilog_factorio_compiler_simulator"
     ],
@@ -87,16 +117,6 @@
     [
       "Electric Motorcycles are a Security Nightmare",
       "https://persephonekarnstein.github.io/post/zero-days/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 01:32:17",
-      "https://lobste.rs/s/xwl4yi/read_receipts_imessage_simulator"
-    ],
-    [
-      "Read Receipts: An iMessage Simulator",
-      "https://readreceipts.org/create?thread=266ca5fb-3c60-4486-8c98-7579590a3b7f"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-03-25, 17:35:54",
-      "https://lobste.rs/s/fagjz6/cost_concurrency_coordination"
-    ],
-    [
-      "The Cost of Concurrency Coordination",
-      "https://www.youtube.com/watch?v=tND-wBBZ8RY"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 17:14:43",
       "https://lobste.rs/s/4i8uad/thoughts_on_slowing_fuck_down"
     ],
@@ -187,16 +197,6 @@
     [
       "Mojo's not (yet) Python",
       "https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 16:20:18",
-      "https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors"
-    ],
-    [
-      "OpenBSD on Motorola 88000 processors",
-      "http://miod.online.fr/software/openbsd/stories/m88k1.html"
     ]
   ],
   [
