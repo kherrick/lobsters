@@ -7,6 +7,7 @@
 * [2026-03-26, 14:17:45](https://lobste.rs/s/sazeyn/don_t_trust_software_verify_it) - [Don’t trust software, verify it](https://daniel.haxx.se/blog/2026/03/26/dont-trust-verify/)
 * [2026-03-26, 13:31:14](https://lobste.rs/s/1stari/when_vectorized_arrays_aren_t_enough) - [When Vectorized Arrays Aren't Enough](https://nrposner.com/blog/when-vectorized-arrays-arent-enough/)
 * [2026-03-26, 13:01:54](https://lobste.rs/s/e4y5ps/two_studies_compiler_optimisations) - [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/)
+* [2026-03-26, 12:13:39](https://lobste.rs/s/4izjll/optimization_lessons_from_minecraft) - [Optimization lessons from a Minecraft structure locator](https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/)
 * [2026-03-26, 11:11:30](https://lobste.rs/s/xlmyob/cesil_other_programming_languages) - [CESIL and other programming languages](http://blog.scribblings.com/progaming-languages-1-cesil)
 * [2026-03-26, 10:13:26](https://lobste.rs/s/hjxi2b/deploying_go_apps_google_cloud_run) - [Deploying Go Apps to Google Cloud Run](https://www.josephspurrier.com/google-cloud-run-deployment)
 * [2026-03-26, 09:27:34](https://lobste.rs/s/6w8rqm/engineers_do_get_promoted_for_writing) - [Engineers do get promoted for writing simple code](https://www.seangoedecke.com/simple-work-gets-rewarded/)
