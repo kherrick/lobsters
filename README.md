@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-26, 20:23:01](https://lobste.rs/s/oua8lg/using_firewire_on_raspberry_pi) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
+* [2026-03-26, 20:20:03](https://lobste.rs/s/haqvra/ssereload_1_introduction) - [ssereload(1) introduction](https://timmarinin.net/2026/ssereload/)
 * [2026-03-26, 19:41:26](https://lobste.rs/s/i7z3ru/eyg_is_now_open_source) - [EYG is now open source](https://eyg.run/news/editions/6)
 * [2026-03-26, 18:35:36](https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision) - [I can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/)
 * [2026-03-26, 17:09:12](https://lobste.rs/s/pcq6zg/building_runtime_with_quickjs) - [Building a Runtime with QuickJS](https://healeycodes.com/building-a-runtime-with-quickjs)
@@ -7,7 +9,6 @@
 * [2026-03-26, 13:31:14](https://lobste.rs/s/1stari/when_vectorized_arrays_aren_t_enough) - [When Vectorized Arrays Aren't Enough](https://nrposner.com/blog/when-vectorized-arrays-arent-enough/)
 * [2026-03-26, 13:01:54](https://lobste.rs/s/e4y5ps/two_studies_compiler_optimisations) - [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/)
 * [2026-03-26, 12:13:39](https://lobste.rs/s/4izjll/optimization_lessons_from_minecraft) - [Optimization lessons from a Minecraft structure locator](https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/)
-* [2026-03-26, 10:13:26](https://lobste.rs/s/hjxi2b/deploying_go_apps_google_cloud_run) - [Deploying Go Apps to Google Cloud Run](https://www.josephspurrier.com/google-cloud-run-deployment)
 * [2026-03-26, 09:27:34](https://lobste.rs/s/6w8rqm/engineers_do_get_promoted_for_writing) - [Engineers do get promoted for writing simple code](https://www.seangoedecke.com/simple-work-gets-rewarded/)
 * [2026-03-26, 07:58:59](https://lobste.rs/s/51ekgy/fedora_moving_from_pagure_forgejo) - [Fedora moving from Pagure to Forgejo](https://communityblog.fedoraproject.org/the-forge-is-our-new-home/)
 * [2026-03-26, 06:06:21](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
@@ -23,7 +24,6 @@
 * [2026-03-25, 17:14:43](https://lobste.rs/s/4i8uad/thoughts_on_slowing_fuck_down) - [Thoughts on slowing the fuck down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)
 * [2026-03-25, 16:50:49](https://lobste.rs/s/tntlde/mojo_s_not_yet_python) - [Mojo's not (yet) Python](https://theconsensus.dev/p/2026/03/12/mojos-not-yet-python.html)
 * [2026-03-25, 14:30:51](https://lobste.rs/s/ocrjck/disregard_attacks) - [\"Disregard that!\" attacks](https://calpaterson.com/disregard.html)
-* [2026-03-25, 14:11:49](https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori) - [Announcing Lix 2.95 “Kakigōri”](https://lix.systems/blog/2026-03-25-lix-2.95-release/)
 * [2026-03-25, 10:36:39](https://lobste.rs/s/xv13en/vitruvianos) - [VitruvianOS](https://v-os.dev/)
 
 ## [Archives](archives/index.md)
