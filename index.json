@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2026-03-26, 02:31:50",
-      "https://lobste.rs/s/cug5gu/verilog_factorio_compiler_simulator"
+      "2026-03-26, 04:15:29",
+      "https://lobste.rs/s/w15igx/zero_copy_protobuf_connectrpc_for_rust"
     ],
     [
-      "A Verilog to Factorio compiler and simulator (working RISC-V CPU)",
-      "https://www.reddit.com/r/rust/comments/1s03w2o/my_first_rust_project_a_verilog_to_factorio/"
+      "Zero-copy protobuf and ConnectRPC for Rust",
+      "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02"
     ]
   ],
   [
