@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-26, 20:45:24",
-      "https://lobste.rs/s/rnuukq/tutorial_analyzing_shell_scripts"
-    ],
-    [
-      "Tutorial: Analyzing shell scripts",
-      "https://blog.greenberg.science/posts/popl2026-tutorial/"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 20:23:01",
       "https://lobste.rs/s/oua8lg/using_firewire_on_raspberry_pi"
     ],
@@ -67,6 +57,16 @@
     [
       "Ubuntu to adopt ntpd-rs as the default time synchronization client and server",
       "https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 17:31:41",
+      "https://lobste.rs/s/juftjl/500_gpu_outperforms_claude_sonnet_on"
+    ],
+    [
+      "$500 GPU outperforms Claude Sonnet on coding benchmarks using open-source AI system",
+      "https://github.com/itigges22/ATLAS"
     ]
   ],
   [
