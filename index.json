@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-26, 20:45:24",
+      "https://lobste.rs/s/rnuukq/tutorial_analyzing_shell_scripts"
+    ],
+    [
+      "Tutorial: Analyzing shell scripts",
+      "https://blog.greenberg.science/posts/popl2026-tutorial/"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 20:23:01",
       "https://lobste.rs/s/oua8lg/using_firewire_on_raspberry_pi"
     ],
@@ -187,16 +197,6 @@
     [
       "Updates to GitHub Copilot interaction data usage policy",
       "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 19:17:13",
-      "https://lobste.rs/s/wcw7hb/one_file_what_if_your_lockfile_your"
-    ],
-    [
-      "One File - What if your lockfile and your package list were the same file?",
-      "https://merelinux.org/posts/one-file/"
     ]
   ],
   [
