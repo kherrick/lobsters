@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 13:31:14](https://lobste.rs/s/1stari/when_vectorized_arrays_aren_t_enough) - [When Vectorized Arrays Aren't Enough](https://nrposner.com/blog/when-vectorized-arrays-arent-enough/)
+* [2026-03-26, 13:01:54](https://lobste.rs/s/e4y5ps/two_studies_compiler_optimisations) - [Two studies in compiler optimisations](https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/)
 * [2026-03-26, 11:11:30](https://lobste.rs/s/xlmyob/cesil_other_programming_languages) - [CESIL and other programming languages](http://blog.scribblings.com/progaming-languages-1-cesil)
+* [2026-03-26, 10:13:26](https://lobste.rs/s/hjxi2b/deploying_go_apps_google_cloud_run) - [Deploying Go Apps to Google Cloud Run](https://www.josephspurrier.com/google-cloud-run-deployment)
+* [2026-03-26, 09:27:34](https://lobste.rs/s/6w8rqm/engineers_do_get_promoted_for_writing) - [Engineers do get promoted for writing simple code](https://www.seangoedecke.com/simple-work-gets-rewarded/)
 * [2026-03-26, 07:58:59](https://lobste.rs/s/51ekgy/fedora_moving_from_pagure_forgejo) - [Fedora moving from Pagure to Forgejo](https://communityblog.fedoraproject.org/the-forge-is-our-new-home/)
 * [2026-03-26, 06:54:58](https://lobste.rs/s/iwockq/node_js_developing_minimally_hashdos) - [Node.js — Developing a minimally HashDoS resistant, yet quickly reversible integer hash for V8](https://nodejs.org/en/blog/vulnerability/march-2026-hashdos)
 * [2026-03-26, 06:06:21](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
