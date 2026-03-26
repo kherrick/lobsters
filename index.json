@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-26, 07:58:59",
-      "https://lobste.rs/s/51ekgy/fedora_moving_from_pagure_forgejo"
-    ],
-    [
-      "Fedora moving from Pagure to Forgejo",
-      "https://communityblog.fedoraproject.org/the-forge-is-our-new-home/"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 06:06:21",
       "https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with"
     ],
@@ -47,6 +37,16 @@
     [
       "Zero-copy protobuf and ConnectRPC for Rust",
       "https://medium.com/@iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-69bda8ac0f02"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 02:31:50",
+      "https://lobste.rs/s/cug5gu/verilog_factorio_compiler_simulator"
+    ],
+    [
+      "A Verilog to Factorio compiler and simulator (working RISC-V CPU)",
+      "https://www.reddit.com/r/rust/comments/1s03w2o/my_first_rust_project_a_verilog_to_factorio/"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-03-25, 14:03:06",
-      "https://lobste.rs/s/oxkpme/introducing_gnome_fellowship_program"
+      "2026-03-25, 13:07:40",
+      "https://lobste.rs/s/epq3vv/introducing_ipxlat_stateless_ipv4_ipv6"
     ],
     [
-      "Introducing the GNOME Fellowship program",
-      "https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/"
+      "Introducing ipxlat: a stateless IPv4/IPv6 translation device",
+      "https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/"
     ]
   ],
   [
