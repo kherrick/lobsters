@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-26, 01:57:23",
+      "https://lobste.rs/s/vyixek/electric_motorcycles_are_security"
+    ],
+    [
+      "Electric Motorcycles are a Security Nightmare",
+      "https://persephonekarnstein.github.io/post/zero-days/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 01:32:17",
+      "https://lobste.rs/s/xwl4yi/read_receipts_imessage_simulator"
+    ],
+    [
+      "Read Receipts: An iMessage Simulator",
+      "https://readreceipts.org/create?thread=266ca5fb-3c60-4486-8c98-7579590a3b7f"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 23:56:51",
       "https://lobste.rs/s/iqctrn/vim_classic_long_term_maintenance_vim_8_x"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-03-25, 07:08:02",
-      "https://lobste.rs/s/udbivp/32_year_old_bug_walks_into_telnet_server"
-    ],
-    [
-      "A 32-Year-Old Bug Walks Into A Telnet Server (GNU inetutils CVE-2026-32746)",
-      "https://labs.watchtowr.com/a-32-year-old-bug-walks-into-a-telnet-server-gnu-inetutils-telnetd-cve-2026-32746/"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 06:00:32",
       "https://lobste.rs/s/lzxb0m/magic_link_pitfalls"
     ],
@@ -237,16 +247,6 @@
     [
       "\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)",
       "https://unicodeplus.com/U+FDFD"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 10:54:53",
-      "https://lobste.rs/s/flmhja/debunking_zswap_zram_myths"
-    ],
-    [
-      "Debunking zswap and zram myths",
-      "https://chrisdown.name/2026/03/24/zswap-vs-zram-when-to-use-what.html"
     ]
   ]
 ]
