@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-03-26, 18:16:00",
+      "https://lobste.rs/s/rnvrel/ubuntu_adopt_ntpd_rs_as_default_time"
+    ],
+    [
+      "Ubuntu to adopt ntpd-rs as the default time synchronization client and server",
+      "https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 17:09:12",
       "https://lobste.rs/s/pcq6zg/building_runtime_with_quickjs"
     ],
@@ -237,16 +247,6 @@
     [
       "\"Disregard that!\" attacks",
       "https://calpaterson.com/disregard.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 10:36:39",
-      "https://lobste.rs/s/xv13en/vitruvianos"
-    ],
-    [
-      "VitruvianOS",
-      "https://v-os.dev/"
     ]
   ]
 ]
