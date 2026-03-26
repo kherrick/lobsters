@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-26, 11:11:30",
+      "https://lobste.rs/s/xlmyob/cesil_other_programming_languages"
+    ],
+    [
+      "CESIL and other programming languages",
+      "http://blog.scribblings.com/progaming-languages-1-cesil"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 07:58:59",
+      "https://lobste.rs/s/51ekgy/fedora_moving_from_pagure_forgejo"
+    ],
+    [
+      "Fedora moving from Pagure to Forgejo",
+      "https://communityblog.fedoraproject.org/the-forge-is-our-new-home/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 06:54:58",
+      "https://lobste.rs/s/iwockq/node_js_developing_minimally_hashdos"
+    ],
+    [
+      "Node.js — Developing a minimally HashDoS resistant, yet quickly reversible integer hash for V8",
+      "https://nodejs.org/en/blog/vulnerability/march-2026-hashdos"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 06:06:21",
       "https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-03-25, 16:26:02",
-      "https://lobste.rs/s/4qpylt/compiler_crates"
-    ],
-    [
-      "Compiler Crates",
-      "https://sdiehl.github.io/compiler-crates/"
-    ]
-  ],
-  [
-    [
       "2026-03-25, 16:20:18",
       "https://lobste.rs/s/r1kw47/openbsd_on_motorola_88000_processors"
     ],
@@ -197,26 +217,6 @@
     [
       "Announcing Lix 2.95 “Kakigōri”",
       "https://lix.systems/blog/2026-03-25-lix-2.95-release/"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 13:07:40",
-      "https://lobste.rs/s/epq3vv/introducing_ipxlat_stateless_ipv4_ipv6"
-    ],
-    [
-      "Introducing ipxlat: a stateless IPv4/IPv6 translation device",
-      "https://lore.kernel.org/netdev/20260319151230.655687-1-ralf@mandelbit.com/"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 11:07:43",
-      "https://lobste.rs/s/i8q7uf/ubuntu_looks_strip_grub_bare_minimum_for"
-    ],
-    [
-      "Ubuntu Looks To Strip GRUB To The Bare Minimum For Better Security",
-      "https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069"
     ]
   ],
   [
