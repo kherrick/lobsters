@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-26, 07:58:59](https://lobste.rs/s/51ekgy/fedora_moving_from_pagure_forgejo) - [Fedora moving from Pagure to Forgejo](https://communityblog.fedoraproject.org/the-forge-is-our-new-home/)
 * [2026-03-26, 06:06:21](https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with) - [Large-scale online deanonymization with LLMs](https://arxiv.org/abs/2602.16800)
 * [2026-03-26, 06:01:42](https://lobste.rs/s/cibkd8/lines_code_are_useful) - [Lines of code are useful](https://entropicthoughts.com/lines-of-code)
 * [2026-03-26, 05:27:27](https://lobste.rs/s/quxmzz/vim_racing) - [Vim Racing](https://www.vimgym.app/)
@@ -22,7 +23,6 @@
 * [2026-03-25, 14:03:06](https://lobste.rs/s/oxkpme/introducing_gnome_fellowship_program) - [Introducing the GNOME Fellowship program](https://blogs.gnome.org/foundation/2026/03/24/introducing-gnome-fellowship/)
 * [2026-03-25, 11:07:43](https://lobste.rs/s/i8q7uf/ubuntu_looks_strip_grub_bare_minimum_for) - [Ubuntu Looks To Strip GRUB To The Bare Minimum For Better Security](https://discourse.ubuntu.com/t/streamlining-secure-boot-for-26-10/79069)
 * [2026-03-25, 10:36:39](https://lobste.rs/s/xv13en/vitruvianos) - [VitruvianOS](https://v-os.dev/)
-* [2026-03-25, 10:07:52](https://lobste.rs/s/zy8rgm/fyrox_1_0_0) - [Fyrox 1.0.0](https://fyrox.rs/blog/post/fyrox-game-engine-1-0-0/)
 * [2026-03-25, 08:37:47](https://lobste.rs/s/tponua/forking_httpx_as_httpxyz) - [Forking httpx as httpxyz](https://tildeweb.nl/~michiel/httpxyz.html)
 * [2026-03-25, 06:00:32](https://lobste.rs/s/lzxb0m/magic_link_pitfalls) - [Magic Link Pitfalls](https://etodd.io/2026/03/22/magic-link-pitfalls/)
 
