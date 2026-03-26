@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-25, 23:56:51",
+      "https://lobste.rs/s/iqctrn/vim_classic_long_term_maintenance_vim_8_x"
+    ],
+    [
+      "vim-classic: Long-term maintenance of Vim 8.x",
+      "https://sr.ht/~sircmpwn/vim-classic/"
+    ]
+  ],
+  [
+    [
       "2026-03-25, 22:43:44",
       "https://lobste.rs/s/xpx9vi/shell_tricks_actually_make_life_easier"
     ],
@@ -227,16 +237,6 @@
     [
       "\"﷽\" U+FDFD: ARABIC LIGATURE BISMILLAH AR-RAHMAN AR-RAHEEM (Unicode Character)",
       "https://unicodeplus.com/U+FDFD"
-    ]
-  ],
-  [
-    [
-      "2026-03-24, 15:58:33",
-      "https://lobste.rs/s/juc8ix/hegel_universal_property_based_testing"
-    ],
-    [
-      "Hegel, a universal property-based testing protocol and family of PBT libraries",
-      "https://hegel.dev"
     ]
   ],
   [
