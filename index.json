@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-26, 20:23:01",
+      "https://lobste.rs/s/oua8lg/using_firewire_on_raspberry_pi"
+    ],
+    [
+      "Using FireWire on a Raspberry Pi",
+      "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/"
+    ]
+  ],
+  [
+    [
+      "2026-03-26, 20:20:03",
+      "https://lobste.rs/s/haqvra/ssereload_1_introduction"
+    ],
+    [
+      "ssereload(1) introduction",
+      "https://timmarinin.net/2026/ssereload/"
+    ]
+  ],
+  [
+    [
       "2026-03-26, 19:41:26",
       "https://lobste.rs/s/i7z3ru/eyg_is_now_open_source"
     ],
@@ -67,16 +87,6 @@
     [
       "Optimization lessons from a Minecraft structure locator",
       "https://purplesyringa.moe/blog/optimization-lessons-from-a-minecraft-structure-locator/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 10:13:26",
-      "https://lobste.rs/s/hjxi2b/deploying_go_apps_google_cloud_run"
-    ],
-    [
-      "Deploying Go Apps to Google Cloud Run",
-      "https://www.josephspurrier.com/google-cloud-run-deployment"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "\"Disregard that!\" attacks",
       "https://calpaterson.com/disregard.html"
-    ]
-  ],
-  [
-    [
-      "2026-03-25, 14:11:49",
-      "https://lobste.rs/s/b1kdqd/announcing_lix_2_95_kakigori"
-    ],
-    [
-      "Announcing Lix 2.95 “Kakigōri”",
-      "https://lix.systems/blog/2026-03-25-lix-2.95-release/"
     ]
   ],
   [
