@@ -9,6 +9,7 @@
 * [2026-03-26, 20:20:03](https://lobste.rs/s/haqvra/ssereload_1_introduction) - [ssereload(1) introduction](https://timmarinin.net/2026/ssereload/)
 * [2026-03-26, 19:41:26](https://lobste.rs/s/i7z3ru/eyg_is_now_open_source) - [EYG is now open source](https://eyg.run/news/editions/6)
 * [2026-03-26, 18:35:36](https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision) - [I can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/)
+* [2026-03-26, 18:30:20](https://lobste.rs/s/ob2ijp/rocm_7_1_1_you_can_not_build) - [ROCm 7.1.1: you can (not) build](https://lunnova.dev/articles/rocm-711-you-can-not-build/)
 * [2026-03-26, 18:16:00](https://lobste.rs/s/rnvrel/ubuntu_adopt_ntpd_rs_as_default_time) - [Ubuntu to adopt ntpd-rs as the default time synchronization client and server - Trifecta Tech Foundation](https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/)
 * [2026-03-26, 17:31:41](https://lobste.rs/s/juftjl/500_gpu_outperforms_claude_sonnet_on) - [$500 GPU outperforms Claude Sonnet on coding benchmarks using open-source AI system](https://github.com/itigges22/ATLAS)
 * [2026-03-26, 17:09:12](https://lobste.rs/s/pcq6zg/building_runtime_with_quickjs) - [Building a Runtime with QuickJS](https://healeycodes.com/building-a-runtime-with-quickjs)
