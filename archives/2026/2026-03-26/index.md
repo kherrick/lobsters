@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 19:41:26](https://lobste.rs/s/i7z3ru/eyg_is_now_open_source) - [EYG is now open source](https://eyg.run/news/editions/6)
 * [2026-03-26, 18:35:36](https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision) - [I can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/)
 * [2026-03-26, 18:16:00](https://lobste.rs/s/rnvrel/ubuntu_adopt_ntpd_rs_as_default_time) - [Ubuntu to adopt ntpd-rs as the default time synchronization client and server - Trifecta Tech Foundation](https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/)
 * [2026-03-26, 17:31:41](https://lobste.rs/s/juftjl/500_gpu_outperforms_claude_sonnet_on) - [$500 GPU outperforms Claude Sonnet on coding benchmarks using open-source AI system](https://github.com/itigges22/ATLAS)
