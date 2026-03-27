@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
+* [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
 * [2026-03-27, 20:01:30](https://lobste.rs/s/ffzm7u/perceus_garbage_free_reference_counting) - [Perceus: Garbage Free Reference Counting with Reuse (2020)](https://www.microsoft.com/en-us/research/wp-content/uploads/2020/11/perceus-tr-v4.pdf)
+* [2026-03-27, 19:43:28](https://lobste.rs/s/2zlp7e/how_make_programming_terrible_for) - [how to make programming terrible for everyone](https://jneen.ca/posts/2026-03-27-how-to-make-programming-terrible-for-everyone/)
 * [2026-03-27, 19:25:37](https://lobste.rs/s/bhtmcw/profiler_performance_engineering_story) - [Profiler Performance Engineering: A Story of What It Does and Doesn't Show](https://redhatperf.github.io/post/the-profiler-performance-engineering/)
+* [2026-03-27, 19:22:41](https://lobste.rs/s/zcqrvb/you_have_know_what_wish_for) - [You have to know what to wish for](https://www.neversaw.us/2026/03/26/you-have-to-know-what-to-wish-for/)
 * [2026-03-27, 18:38:45](https://lobste.rs/s/x7re3z/pondering_effects) - [Pondering Effects](https://wiki.alopex.li/PonderingEffects)
 * [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
 * [2026-03-27, 16:33:46](https://lobste.rs/s/pvym1k/cssdoom) - [cssDOOM](https://cssdoom.wtf/)
