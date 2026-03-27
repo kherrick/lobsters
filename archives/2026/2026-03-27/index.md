@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 13:53:41](https://lobste.rs/s/noyefo/c_preprocessor_tricks_tips_idioms) - [C Preprocessor tricks, tips, and idioms](https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms)
+* [2026-03-27, 13:07:14](https://lobste.rs/s/op46vm/hold_on_your_hardware) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
+* [2026-03-27, 13:05:11](https://lobste.rs/s/he46nq/distraction_free_writing_with_micro) - [Distraction-Free Writing with the Micro Journal Rev.2 (and Neovim)](https://www.ssp.sh/brain/my-distraction-free-typewriter-micro-journal/)
+* [2026-03-27, 13:03:06](https://lobste.rs/s/ucp0wf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucp0wf/what_are_you_doing_this_weekend)
 * [2026-03-27, 11:29:15](https://lobste.rs/s/pxnyf9/immich_vs_ente_photos_photo_backup) - [immich vs ente photos - the photo backup showdown](https://alexandmanu.com/blog/immich-vs-ente-photos/)
 * [2026-03-27, 10:36:45](https://lobste.rs/s/vo6q1a/back_freebsd_part_2_jails) - [Back to FreeBSD: Part 2 — Jails](https://hypha.pub/back-to-freebsd-part-2)
 * [2026-03-27, 09:26:19](https://lobste.rs/s/vtqrep/jsongrep_is_faster_than_jq_jmespath) - [jsongrep is faster than {jq, jmespath, jsonpath-rust, jql}](https://micahkepe.com/blog/jsongrep/)
