@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 14:44:09](https://lobste.rs/s/ueynff/applying_accessibility_fixes_with) - [Applying accessibility fixes with stealth for the greater good](https://piccalil.li/blog/applying-accessibility-fixes-with-stealth-for-the-greater-good/)
 * [2026-03-27, 13:53:41](https://lobste.rs/s/noyefo/c_preprocessor_tricks_tips_idioms) - [C Preprocessor tricks, tips, and idioms](https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms)
 * [2026-03-27, 13:07:14](https://lobste.rs/s/op46vm/hold_on_your_hardware) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 * [2026-03-27, 13:05:11](https://lobste.rs/s/he46nq/distraction_free_writing_with_micro) - [Distraction-Free Writing with the Micro Journal Rev.2 (and Neovim)](https://www.ssp.sh/brain/my-distraction-free-typewriter-micro-journal/)
