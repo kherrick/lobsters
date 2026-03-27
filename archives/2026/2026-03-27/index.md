@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
+* [2026-03-27, 16:33:46](https://lobste.rs/s/pvym1k/cssdoom) - [cssDOOM](https://cssdoom.wtf/)
+* [2026-03-27, 16:04:49](https://lobste.rs/s/4lntz7/bigoish_test_empirical_computational) - [Bigoish: Test the empirical computational complexity of Rust algorithms](https://docs.rs/bigoish/)
 * [2026-03-27, 15:36:17](https://lobste.rs/s/jxqn5s/one_line_kubernetes_fix_saved_600_hours) - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/)
 * [2026-03-27, 15:31:02](https://lobste.rs/s/kpznsv/firefox_gtk_emoji_picker) - [Firefox & Gtk Emoji picker](https://mastransky.wordpress.com/2026/03/20/firefox-gtk-emoji-picker/)
 * [2026-03-27, 15:24:57](https://lobste.rs/s/fbgxkb/uses_for_nested_promises) - [Uses for nested promises](https://blog.jcoglan.com//2026/03/23/uses-for-nested-promises/)
