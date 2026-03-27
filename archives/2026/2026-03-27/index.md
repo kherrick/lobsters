@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 15:36:17](https://lobste.rs/s/jxqn5s/one_line_kubernetes_fix_saved_600_hours) - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/)
+* [2026-03-27, 15:31:02](https://lobste.rs/s/kpznsv/firefox_gtk_emoji_picker) - [Firefox & Gtk Emoji picker](https://mastransky.wordpress.com/2026/03/20/firefox-gtk-emoji-picker/)
+* [2026-03-27, 15:24:57](https://lobste.rs/s/fbgxkb/uses_for_nested_promises) - [Uses for nested promises](https://blog.jcoglan.com//2026/03/23/uses-for-nested-promises/)
 * [2026-03-27, 14:44:09](https://lobste.rs/s/ueynff/applying_accessibility_fixes_with) - [Applying accessibility fixes with stealth for the greater good](https://piccalil.li/blog/applying-accessibility-fixes-with-stealth-for-the-greater-good/)
 * [2026-03-27, 13:53:41](https://lobste.rs/s/noyefo/c_preprocessor_tricks_tips_idioms) - [C Preprocessor tricks, tips, and idioms](https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms)
 * [2026-03-27, 13:07:14](https://lobste.rs/s/op46vm/hold_on_your_hardware) - [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
