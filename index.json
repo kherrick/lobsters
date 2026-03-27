@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-27, 23:25:35",
+      "https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for"
+    ],
+    [
+      "Which Programming Language Is Best for Claude Code?",
+      "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 22:58:15",
+      "https://lobste.rs/s/tv3lof/antiox_tokio_like_async_primitives_for"
+    ],
+    [
+      "Antiox – Tokio-like async primitives for TypeScript",
+      "https://github.com/rivet-dev/antiox"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 22:08:20",
       "https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized"
     ],
@@ -47,16 +67,6 @@
     [
       "how to make programming terrible for everyone",
       "https://jneen.ca/posts/2026-03-27-how-to-make-programming-terrible-for-everyone/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 19:22:41",
-      "https://lobste.rs/s/zcqrvb/you_have_know_what_wish_for"
-    ],
-    [
-      "You have to know what to wish for",
-      "https://www.neversaw.us/2026/03/26/you-have-to-know-what-to-wish-for/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Uses for nested promises",
       "https://blog.jcoglan.com//2026/03/23/uses-for-nested-promises/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 13:53:41",
-      "https://lobste.rs/s/noyefo/c_preprocessor_tricks_tips_idioms"
-    ],
-    [
-      "C Preprocessor tricks, tips, and idioms",
-      "https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms"
     ]
   ],
   [
