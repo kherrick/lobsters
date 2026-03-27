@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-03-26](index.md)
 
+* [2026-03-26, 23:33:07](https://lobste.rs/s/2debab/seed_adding_vau_with_immutable_dynamic) - [seed: Adding `vau` with an immutable dynamic environment to Chez Scheme](https://github.com/amirouche/seed)
 * [2026-03-26, 20:45:24](https://lobste.rs/s/rnuukq/tutorial_analyzing_shell_scripts) - [Tutorial: Analyzing shell scripts](https://blog.greenberg.science/posts/popl2026-tutorial/)
 * [2026-03-26, 20:23:01](https://lobste.rs/s/oua8lg/using_firewire_on_raspberry_pi) - [Using FireWire on a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/)
 * [2026-03-26, 20:20:03](https://lobste.rs/s/haqvra/ssereload_1_introduction) - [ssereload(1) introduction](https://timmarinin.net/2026/ssereload/)
 * [2026-03-26, 19:41:26](https://lobste.rs/s/i7z3ru/eyg_is_now_open_source) - [EYG is now open source](https://eyg.run/news/editions/6)
+* [2026-03-26, 19:07:57](https://lobste.rs/s/xoigmj/macintosh_human_interface_guidelines) - [Macintosh Human Interface Guidelines (1992)](https://vintageapple.org/inside_r/pdf/Human_Interface_Guidelines_1992.pdf)
 * [2026-03-26, 18:35:36](https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision) - [I can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/)
 * [2026-03-26, 18:30:20](https://lobste.rs/s/ob2ijp/rocm_7_1_1_you_can_not_build) - [ROCm 7.1.1: you can (not) build](https://lunnova.dev/articles/rocm-711-you-can-not-build/)
 * [2026-03-26, 18:16:00](https://lobste.rs/s/rnvrel/ubuntu_adopt_ntpd_rs_as_default_time) - [Ubuntu to adopt ntpd-rs as the default time synchronization client and server - Trifecta Tech Foundation](https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/)
