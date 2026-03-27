@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-27, 10:36:45",
+      "https://lobste.rs/s/vo6q1a/back_freebsd_part_2_jails"
+    ],
+    [
+      "Back to FreeBSD: Part 2 — Jails",
+      "https://hypha.pub/back-to-freebsd-part-2"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 06:51:01",
       "https://lobste.rs/s/9l6ggc/how_i_built_open_world_engine_for_n64"
     ],
@@ -157,16 +167,6 @@
     [
       "Two studies in compiler optimisations",
       "https://www.hmpcabral.com/2026/03/20/two-studies-in-compiler-optimisations/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 09:27:34",
-      "https://lobste.rs/s/6w8rqm/engineers_do_get_promoted_for_writing"
-    ],
-    [
-      "Engineers do get promoted for writing simple code",
-      "https://www.seangoedecke.com/simple-work-gets-rewarded/"
     ]
   ],
   [
