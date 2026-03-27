@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-27, 16:56:16",
+      "https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing"
+    ],
+    [
+      "Tailscale’d Into Homelabbing",
+      "https://rugu.dev/en/blog/homelabbing_01/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 16:33:46",
+      "https://lobste.rs/s/pvym1k/cssdoom"
+    ],
+    [
+      "cssDOOM",
+      "https://cssdoom.wtf/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 16:04:49",
+      "https://lobste.rs/s/4lntz7/bigoish_test_empirical_computational"
+    ],
+    [
+      "Bigoish: Test the empirical computational complexity of Rust algorithms",
+      "https://docs.rs/bigoish/"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 15:36:17",
       "https://lobste.rs/s/jxqn5s/one_line_kubernetes_fix_saved_600_hours"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-03-26, 20:23:01",
-      "https://lobste.rs/s/oua8lg/using_firewire_on_raspberry_pi"
-    ],
-    [
-      "Using FireWire on a Raspberry Pi",
-      "https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 20:20:03",
       "https://lobste.rs/s/haqvra/ssereload_1_introduction"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-03-26, 18:16:00",
-      "https://lobste.rs/s/rnvrel/ubuntu_adopt_ntpd_rs_as_default_time"
-    ],
-    [
-      "Ubuntu to adopt ntpd-rs as the default time synchronization client and server",
-      "https://trifectatech.org/blog/announcing-ntpd-rs-as-default-on-ubuntu/"
-    ]
-  ],
-  [
-    [
       "2026-03-26, 14:17:45",
       "https://lobste.rs/s/sazeyn/don_t_trust_software_verify_it"
     ],
     [
       "Don’t trust software, verify it",
       "https://daniel.haxx.se/blog/2026/03/26/dont-trust-verify/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 07:58:59",
-      "https://lobste.rs/s/51ekgy/fedora_moving_from_pagure_forgejo"
-    ],
-    [
-      "Fedora moving from Pagure to Forgejo",
-      "https://communityblog.fedoraproject.org/the-forge-is-our-new-home/"
     ]
   ],
   [
