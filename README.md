@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-27, 18:38:45](https://lobste.rs/s/x7re3z/pondering_effects) - [Pondering Effects](https://wiki.alopex.li/PonderingEffects)
 * [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
 * [2026-03-27, 16:33:46](https://lobste.rs/s/pvym1k/cssdoom) - [cssDOOM](https://cssdoom.wtf/)
 * [2026-03-27, 16:04:49](https://lobste.rs/s/4lntz7/bigoish_test_empirical_computational) - [Bigoish: Test the empirical computational complexity of Rust algorithms](https://docs.rs/bigoish/)
@@ -22,7 +23,6 @@
 * [2026-03-26, 18:35:36](https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision) - [I can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/)
 * [2026-03-26, 18:30:20](https://lobste.rs/s/ob2ijp/rocm_7_1_1_you_can_not_build) - [ROCm 7.1.1: you can (not) build](https://lunnova.dev/articles/rocm-711-you-can-not-build/)
 * [2026-03-26, 14:17:45](https://lobste.rs/s/sazeyn/don_t_trust_software_verify_it) - [Don’t trust software, verify it](https://daniel.haxx.se/blog/2026/03/26/dont-trust-verify/)
-* [2026-03-26, 06:01:42](https://lobste.rs/s/cibkd8/lines_code_are_useful) - [Lines of code are useful](https://entropicthoughts.com/lines-of-code)
 * [2026-03-25, 23:56:51](https://lobste.rs/s/iqctrn/vim_classic_long_term_maintenance_vim_8_x) - [vim-classic: Long-term maintenance of Vim 8.x](https://sr.ht/~sircmpwn/vim-classic/)
 * [2026-03-25, 22:43:44](https://lobste.rs/s/xpx9vi/shell_tricks_actually_make_life_easier) - [Shell Tricks That Actually Make Life Easier (And Save Your Sanity)](https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/)
 
