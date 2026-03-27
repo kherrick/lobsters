@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-27, 06:32:57",
+      "https://lobste.rs/s/suqhsn/scaling_monolith_1m_loc_113_pragmatic"
+    ],
+    [
+      "Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO",
+      "https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 04:24:54",
+      "https://lobste.rs/s/i0nueo/fast_regex_matching_with_indexing"
+    ],
+    [
+      "Fast regex Matching with Indexing",
+      "https://cursor.com/blog/fast-regex-search"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 03:55:32",
       "https://lobste.rs/s/tkofyq/ip_addresses_through_2025"
     ],
@@ -57,16 +77,6 @@
     [
       "EYG is now open source",
       "https://eyg.run/news/editions/6"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 19:07:57",
-      "https://lobste.rs/s/xoigmj/macintosh_human_interface_guidelines"
-    ],
-    [
-      "Macintosh Human Interface Guidelines (1992)",
-      "https://vintageapple.org/inside_r/pdf/Human_Interface_Guidelines_1992.pdf"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Fedora moving from Pagure to Forgejo",
       "https://communityblog.fedoraproject.org/the-forge-is-our-new-home/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 06:06:21",
-      "https://lobste.rs/s/wxl81t/large_scale_online_deanonymization_with"
-    ],
-    [
-      "Large-scale online deanonymization with LLMs",
-      "https://arxiv.org/abs/2602.16800"
     ]
   ],
   [
