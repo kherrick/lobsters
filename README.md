@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-27, 22:08:20](https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized) - [TUI for managing parallel containerized code agent sessions (Rust)](https://github.com/prettysmartdev/amux)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
 * [2026-03-27, 19:43:28](https://lobste.rs/s/2zlp7e/how_make_programming_terrible_for) - [how to make programming terrible for everyone](https://jneen.ca/posts/2026-03-27-how-to-make-programming-terrible-for-everyone/)
@@ -21,7 +22,6 @@
 * [2026-03-27, 06:51:01](https://lobste.rs/s/9l6ggc/how_i_built_open_world_engine_for_n64) - [How I Built an Open-World Engine for the N64](https://www.youtube.com/watch?v=lXxmIw9axWw)
 * [2026-03-27, 06:32:57](https://lobste.rs/s/suqhsn/scaling_monolith_1m_loc_113_pragmatic) - [Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO](https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)
 * [2026-03-27, 03:55:32](https://lobste.rs/s/tkofyq/ip_addresses_through_2025) - [IP addresses through 2025](https://blog.apnic.net/2026/01/20/ip-addresses-through-2025/)
-* [2026-03-26, 20:20:03](https://lobste.rs/s/haqvra/ssereload_1_introduction) - [ssereload(1) introduction](https://timmarinin.net/2026/ssereload/)
 * [2026-03-26, 19:41:26](https://lobste.rs/s/i7z3ru/eyg_is_now_open_source) - [EYG is now open source](https://eyg.run/news/editions/6)
 * [2026-03-26, 18:35:36](https://lobste.rs/s/znjvvf/i_can_t_see_apple_s_vision) - [I can't See Apple's Vision](https://matduggan.com/i-cant-see-apples-vision/)
 * [2026-03-26, 18:30:20](https://lobste.rs/s/ob2ijp/rocm_7_1_1_you_can_not_build) - [ROCm 7.1.1: you can (not) build](https://lunnova.dev/articles/rocm-711-you-can-not-build/)

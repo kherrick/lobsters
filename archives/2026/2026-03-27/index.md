@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 22:08:20](https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized) - [TUI for managing parallel containerized code agent sessions (Rust)](https://github.com/prettysmartdev/amux)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
 * [2026-03-27, 20:01:30](https://lobste.rs/s/ffzm7u/perceus_garbage_free_reference_counting) - [Perceus: Garbage Free Reference Counting with Reuse (2020)](https://www.microsoft.com/en-us/research/wp-content/uploads/2020/11/perceus-tr-v4.pdf)
