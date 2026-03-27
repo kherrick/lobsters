@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-27](index.md)
 
+* [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
+* [2026-03-27, 22:58:15](https://lobste.rs/s/tv3lof/antiox_tokio_like_async_primitives_for) - [Antiox – Tokio-like async primitives for TypeScript](https://github.com/rivet-dev/antiox)
 * [2026-03-27, 22:08:20](https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized) - [TUI for managing parallel containerized code agent sessions (Rust)](https://github.com/prettysmartdev/amux)
 * [2026-03-27, 21:59:32](https://lobste.rs/s/ky99wz/telnyx_pypi_package_compromised) - [Telnyx PyPI package compromised](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
