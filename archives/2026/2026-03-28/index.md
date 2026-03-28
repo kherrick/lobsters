@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
+* [2026-03-28, 12:21:02](https://lobste.rs/s/rag5xk/ironfleet_proving_practical) - [IronFleet: proving practical distributed systems correct](https://www.youtube.com/watch?v=KRmItldCU-Y)
 * [2026-03-28, 10:58:24](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with) - [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/)
 * [2026-03-28, 09:29:56](https://lobste.rs/s/dttund/openttd_for_windows_nt_risc) - [OpenTTD for Windows NT RISC](https://virtuallyfun.com/2026/03/28/openttd-windows-nt-risc/)
 * [2026-03-28, 09:17:01](https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded) - [Building a guitar trainer with embedded Rust](https://blog.orhun.dev/introducing-tuitar/)
