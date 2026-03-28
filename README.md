@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 19:29:59](https://lobste.rs/s/wbzimj/learn_something_old_every_day_part_xviii) - [Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?](http://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/)
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
 * [2026-03-28, 18:41:08](https://lobste.rs/s/wy4ndf/linux_is_interpreter) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
@@ -19,7 +20,6 @@
 * [2026-03-27, 19:43:28](https://lobste.rs/s/2zlp7e/how_make_programming_terrible_for) - [how to make programming terrible for everyone](https://jneen.ca/posts/2026-03-27-how-to-make-programming-terrible-for-everyone/)
 * [2026-03-27, 18:38:45](https://lobste.rs/s/x7re3z/pondering_effects) - [Pondering Effects](https://wiki.alopex.li/PonderingEffects)
 * [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
-* [2026-03-27, 16:33:46](https://lobste.rs/s/pvym1k/cssdoom) - [cssDOOM](https://cssdoom.wtf/)
 * [2026-03-27, 16:04:49](https://lobste.rs/s/4lntz7/bigoish_test_empirical_computational) - [Bigoish: Test the empirical computational complexity of Rust algorithms](https://docs.rs/bigoish/)
 * [2026-03-27, 15:36:17](https://lobste.rs/s/jxqn5s/one_line_kubernetes_fix_saved_600_hours) - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/)
 * [2026-03-27, 13:05:11](https://lobste.rs/s/he46nq/distraction_free_writing_with_micro) - [Distraction-Free Writing with the Micro Journal Rev.2 (and Neovim)](https://www.ssp.sh/brain/my-distraction-free-typewriter-micro-journal/)
