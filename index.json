@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2026-03-27, 22:08:20",
-      "https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized"
-    ],
-    [
-      "TUI for managing parallel containerized code agent sessions (Rust)",
-      "https://github.com/prettysmartdev/amux"
-    ]
-  ],
-  [
-    [
       "2026-03-27, 21:59:32",
       "https://lobste.rs/s/ky99wz/telnyx_pypi_package_compromised"
     ],
@@ -137,6 +127,16 @@
     [
       "Uses for nested promises",
       "https://blog.jcoglan.com//2026/03/23/uses-for-nested-promises/"
+    ]
+  ],
+  [
+    [
+      "2026-03-27, 13:53:41",
+      "https://lobste.rs/s/noyefo/c_preprocessor_tricks_tips_idioms"
+    ],
+    [
+      "C Preprocessor tricks, tips, and idioms",
+      "https://github.com/pfultz2/Cloak/wiki/C-Preprocessor-tricks,-tips,-and-idioms"
     ]
   ],
   [
