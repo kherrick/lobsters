@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-03-28, 16:02:49](https://lobste.rs/s/asqnh5/anatomy_claude_folder) - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+* [2026-03-28, 16:59:58](https://lobste.rs/s/vhfsjt/enabling_non_protected_vms_for_android) - [Enabling non-protected VMS for Android Terminal application on the Samsung S26 Ultra (Snapdragon 8 Elite Gen 5 for Galaxy)](https://lobste.rs/s/vhfsjt/enabling_non_protected_vms_for_android)
 * [2026-03-28, 13:19:46](https://lobste.rs/s/ivuryd/how_implement_outbox_pattern_go_postgres) - [How to implement the Outbox pattern in Go and Postgres](https://youtu.be/hJ4S-5MirvU)
 * [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 * [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
