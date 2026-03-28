@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-03-27, 22:08:20",
+      "https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized"
+    ],
+    [
+      "TUI for managing parallel containerized code agent sessions (Rust)",
+      "https://github.com/prettysmartdev/amux"
+    ]
+  ],
+  [
+    [
       "2026-03-27, 21:59:32",
       "https://lobste.rs/s/ky99wz/telnyx_pypi_package_compromised"
     ],
@@ -237,16 +247,6 @@
     [
       "I can't See Apple's Vision",
       "https://matduggan.com/i-cant-see-apples-vision/"
-    ]
-  ],
-  [
-    [
-      "2026-03-26, 18:30:20",
-      "https://lobste.rs/s/ob2ijp/rocm_7_1_1_you_can_not_build"
-    ],
-    [
-      "ROCm 7.1.1: you can (not) build",
-      "https://lunnova.dev/articles/rocm-711-you-can-not-build/"
     ]
   ]
 ]
