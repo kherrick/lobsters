@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-28, 19:29:59](https://lobste.rs/s/wbzimj/learn_something_old_every_day_part_xviii) - [Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?](http://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/)
+* [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
 * [2026-03-28, 18:41:08](https://lobste.rs/s/wy4ndf/linux_is_interpreter) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 18:40:47](https://lobste.rs/s/i95lfw/adventures_cellular_location_services) - [Adventures in cellular location services](https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/)
-* [2026-03-28, 16:59:58](https://lobste.rs/s/vhfsjt/enabling_non_protected_vms_for_android) - [Enabling non-protected VMS for Android Terminal application on the Samsung S26 Ultra (Snapdragon 8 Elite Gen 5 for Galaxy)](https://lobste.rs/s/vhfsjt/enabling_non_protected_vms_for_android)
 * [2026-03-28, 13:19:46](https://lobste.rs/s/ivuryd/how_implement_outbox_pattern_go_postgres) - [How to implement the Outbox pattern in Go and Postgres](https://youtu.be/hJ4S-5MirvU)
 * [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 * [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
@@ -12,7 +13,6 @@
 * [2026-03-28, 03:16:01](https://lobste.rs/s/wsv6sz/forget_spreadsheets_i_wrote_my_own_visual) - [Forget Spreadsheets, I Wrote My Own Visual Game Script Editor](http://mistys-internet.website/blog/blog/2026/03/27/forget-spreadsheets)
 * [2026-03-28, 02:18:42](https://lobste.rs/s/5cuqzy/capability_based_security_for_redox) - [Capability-based Security for Redox: Namespace and CWD as capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
 * [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
-* [2026-03-27, 22:56:12](https://lobste.rs/s/8f9fbd/it_s_people_matter) - [It's the people that matter](https://donsz.nl/blog/externally-implementable-items/)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
 * [2026-03-27, 19:43:28](https://lobste.rs/s/2zlp7e/how_make_programming_terrible_for) - [how to make programming terrible for everyone](https://jneen.ca/posts/2026-03-27-how-to-make-programming-terrible-for-everyone/)

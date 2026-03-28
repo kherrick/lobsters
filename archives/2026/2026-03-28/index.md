@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 19:29:59](https://lobste.rs/s/wbzimj/learn_something_old_every_day_part_xviii) - [Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?](http://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/)
+* [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
 * [2026-03-28, 18:41:08](https://lobste.rs/s/wy4ndf/linux_is_interpreter) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 18:40:47](https://lobste.rs/s/i95lfw/adventures_cellular_location_services) - [Adventures in cellular location services](https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/)
 * [2026-03-28, 16:59:58](https://lobste.rs/s/vhfsjt/enabling_non_protected_vms_for_android) - [Enabling non-protected VMS for Android Terminal application on the Samsung S26 Ultra (Snapdragon 8 Elite Gen 5 for Galaxy)](https://lobste.rs/s/vhfsjt/enabling_non_protected_vms_for_android)
