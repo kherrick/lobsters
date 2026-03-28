@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-28, 09:17:01](https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded) - [Building a guitar trainer with embedded Rust](https://blog.orhun.dev/introducing-tuitar/)
 * [2026-03-28, 03:16:01](https://lobste.rs/s/wsv6sz/forget_spreadsheets_i_wrote_my_own_visual) - [Forget Spreadsheets, I Wrote My Own Visual Game Script Editor](http://mistys-internet.website/blog/blog/2026/03/27/forget-spreadsheets)
 * [2026-03-28, 02:18:42](https://lobste.rs/s/5cuqzy/capability_based_security_for_redox) - [Capability-based Security for Redox: Namespace and CWD as capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
 * [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
 * [2026-03-27, 22:58:15](https://lobste.rs/s/tv3lof/antiox_tokio_like_async_primitives_for) - [Antiox – Tokio-like async primitives for TypeScript](https://github.com/rivet-dev/antiox)
-* [2026-03-27, 22:08:20](https://lobste.rs/s/8jl24f/tui_for_managing_parallel_containerized) - [TUI for managing parallel containerized code agent sessions (Rust)](https://github.com/prettysmartdev/amux)
 * [2026-03-27, 21:59:32](https://lobste.rs/s/ky99wz/telnyx_pypi_package_compromised) - [Telnyx PyPI package compromised](https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
