@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-28](index.md)
 
+* [2026-03-28, 21:17:32](https://lobste.rs/s/nzckry/when_all_you_can_do_is_all_nothing_do) - [When All You Can Do Is All or Nothing, Do Nothing](https://csswizardry.com/2026/03/when-all-you-can-do-is-all-or-nothing-do-nothing/)
 * [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 19:29:59](https://lobste.rs/s/wbzimj/learn_something_old_every_day_part_xviii) - [Learn Something Old Every Day, Part XVIII: How Does FPU Detection Work?](http://www.os2museum.com/wp/learn-something-old-every-day-part-xviii-how-does-fpu-detection-work/)
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
