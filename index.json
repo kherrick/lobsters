@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-28, 09:29:56",
+      "https://lobste.rs/s/dttund/openttd_for_windows_nt_risc"
+    ],
+    [
+      "OpenTTD for Windows NT RISC",
+      "https://virtuallyfun.com/2026/03/28/openttd-windows-nt-risc/"
+    ]
+  ],
+  [
+    [
       "2026-03-28, 09:17:01",
       "https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded"
     ],
@@ -37,16 +47,6 @@
     [
       "Which Programming Language Is Best for Claude Code?",
       "https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 22:58:15",
-      "https://lobste.rs/s/tv3lof/antiox_tokio_like_async_primitives_for"
-    ],
-    [
-      "Antiox – Tokio-like async primitives for TypeScript",
-      "https://github.com/rivet-dev/antiox"
     ]
   ],
   [
