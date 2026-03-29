@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
+* [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE - Alienchow](https://alienchow.dev/post/ai_takeaways_mar_2026/)
 * [2026-03-29, 02:32:10](https://lobste.rs/s/sy7ctg/6o6_v1_1_faster_6502_on_6502) - [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html)
 * [2026-03-29, 01:39:06](https://lobste.rs/s/bywfs1/legacy_pc_design_misery) - [Legacy PC design misery](https://mjg59.livejournal.com/118098.html)
 * [2026-03-28, 21:17:32](https://lobste.rs/s/nzckry/when_all_you_can_do_is_all_nothing_do) - [When All You Can Do Is All or Nothing, Do Nothing](https://csswizardry.com/2026/03/when-all-you-can-do-is-all-or-nothing-do-nothing/)
@@ -8,12 +10,12 @@
 * [2026-03-28, 18:41:08](https://lobste.rs/s/wy4ndf/linux_is_interpreter) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 18:40:47](https://lobste.rs/s/i95lfw/adventures_cellular_location_services) - [Adventures in cellular location services](https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/)
 * [2026-03-28, 16:02:49](https://lobste.rs/s/asqnh5/anatomy_claude_folder) - [Anatomy of the .claude/ Folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+* [2026-03-28, 13:27:42](https://lobste.rs/s/a2oex7/second_wave_api_first_economy) - [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first)
 * [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 * [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
 * [2026-03-28, 10:58:24](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with) - [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/)
 * [2026-03-28, 09:29:56](https://lobste.rs/s/dttund/openttd_for_windows_nt_risc) - [OpenTTD for Windows NT RISC](https://virtuallyfun.com/2026/03/28/openttd-windows-nt-risc/)
 * [2026-03-28, 09:17:01](https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded) - [Building a guitar trainer with embedded Rust](https://blog.orhun.dev/introducing-tuitar/)
-* [2026-03-28, 03:16:01](https://lobste.rs/s/wsv6sz/forget_spreadsheets_i_wrote_my_own_visual) - [Forget Spreadsheets, I Wrote My Own Visual Game Script Editor](http://mistys-internet.website/blog/blog/2026/03/27/forget-spreadsheets)
 * [2026-03-28, 02:18:42](https://lobste.rs/s/5cuqzy/capability_based_security_for_redox) - [Capability-based Security for Redox: Namespace and CWD as capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
 * [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
 * [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
@@ -22,9 +24,7 @@
 * [2026-03-27, 18:38:45](https://lobste.rs/s/x7re3z/pondering_effects) - [Pondering Effects](https://wiki.alopex.li/PonderingEffects)
 * [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
 * [2026-03-27, 16:04:49](https://lobste.rs/s/4lntz7/bigoish_test_empirical_computational) - [Bigoish: Test the empirical computational complexity of Rust algorithms](https://docs.rs/bigoish/)
-* [2026-03-27, 15:36:17](https://lobste.rs/s/jxqn5s/one_line_kubernetes_fix_saved_600_hours) - [A one-line Kubernetes fix that saved 600 hours a year](https://blog.cloudflare.com/one-line-kubernetes-fix-saved-600-hours-a-year/)
 * [2026-03-27, 11:29:15](https://lobste.rs/s/pxnyf9/immich_vs_ente_photos_photo_backup) - [immich vs ente photos - the photo backup showdown](https://alexandmanu.com/blog/immich-vs-ente-photos/)
-* [2026-03-27, 06:32:57](https://lobste.rs/s/suqhsn/scaling_monolith_1m_loc_113_pragmatic) - [Scaling a Monolith to 1M LOC: 113 Pragmatic Lessons from Tech Lead to CTO](https://www.semicolonandsons.com/articles/scaling-a-monolith-to-1m-loc-113-pragmatic-lessons-from-tech-lead-to-cto)
 
 ## [Archives](archives/index.md)
 
