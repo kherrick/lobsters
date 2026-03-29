@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-29, 08:41:41](https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim) - [fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies](https://github.com/vim-fuzzbox/fuzzbox.vim)
 * [2026-03-29, 06:01:31](https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes) - [heerich.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich)
 * [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
 * [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE - Alienchow](https://alienchow.dev/post/ai_takeaways_mar_2026/)
@@ -10,7 +11,6 @@
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
 * [2026-03-28, 18:41:08](https://lobste.rs/s/wy4ndf/linux_is_interpreter) - [Linux is an interpreter](https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/)
 * [2026-03-28, 18:40:47](https://lobste.rs/s/i95lfw/adventures_cellular_location_services) - [Adventures in cellular location services](https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/)
-* [2026-03-28, 13:27:42](https://lobste.rs/s/a2oex7/second_wave_api_first_economy) - [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first)
 * [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 * [2026-03-28, 12:29:50](https://lobste.rs/s/oppbjm/trillion_transactions) - [A trillion transactions](https://youtu.be/y2_BqkKTbD8)
 * [2026-03-28, 10:58:24](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with) - [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/)
