@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-29, 15:08:49](https://lobste.rs/s/wpjsws/oneluapro_v5_5_0_1_released) - [OneLuaPro v5.5.0.1 released](https://github.com/OneLuaPro/OneLuaPro/releases/tag/v5.5.0.1)
 * [2026-03-29, 13:21:28](https://lobste.rs/s/isaccy/introduction_pinetime_pro) - [Introduction to the PineTime Pro](https://pine64.org/2026/03/28/pinetime_march_2026/)
 * [2026-03-29, 10:29:00](https://lobste.rs/s/ntmv9j/what_category_theory_teaches_us_about) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
 * [2026-03-29, 08:41:41](https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim) - [fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies](https://github.com/vim-fuzzbox/fuzzbox.vim)
@@ -7,7 +8,7 @@
 * [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
 * [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/)
 * [2026-03-29, 02:32:10](https://lobste.rs/s/sy7ctg/6o6_v1_1_faster_6502_on_6502) - [6o6 v1.1: Faster 6502-on-6502 virtualization for a C64/Apple II Apple-1 emulator](http://oldvcr.blogspot.com/2026/03/6o6-v11-faster-6502-on-6502.html)
-* [2026-03-29, 01:39:06](https://lobste.rs/s/bywfs1/legacy_pc_design_misery) - [Legacy PC design misery](https://mjg59.livejournal.com/118098.html)
+* [2026-03-29, 01:39:06](https://lobste.rs/s/bywfs1/legacy_pc_design_misery_2009) - [Legacy PC design misery (2009)](https://mjg59.livejournal.com/118098.html)
 * [2026-03-28, 21:17:32](https://lobste.rs/s/nzckry/when_all_you_can_do_is_all_nothing_do) - [When All You Can Do Is All or Nothing, Do Nothing](https://csswizardry.com/2026/03/when-all-you-can-do-is-all-or-nothing-do-nothing/)
 * [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
@@ -20,7 +21,6 @@
 * [2026-03-28, 09:17:01](https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded) - [Building a guitar trainer with embedded Rust](https://blog.orhun.dev/introducing-tuitar/)
 * [2026-03-28, 02:18:42](https://lobste.rs/s/5cuqzy/capability_based_security_for_redox) - [Capability-based Security for Redox: Namespace and CWD as capabilities](https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/)
 * [2026-03-27, 23:25:35](https://lobste.rs/s/j5rw8d/which_programming_language_is_best_for) - [Which Programming Language Is Best for Claude Code?](https://dev.to/mame/which-programming-language-is-best-for-claude-code-508a)
-* [2026-03-27, 20:09:14](https://lobste.rs/s/j4hrbx/vibe_coded_ext4_for_openbsd) - [Vibe-coded ext4 for OpenBSD](https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
 * [2026-03-27, 18:38:45](https://lobste.rs/s/x7re3z/pondering_effects) - [Pondering Effects](https://wiki.alopex.li/PonderingEffects)
 * [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
