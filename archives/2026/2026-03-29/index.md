@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 19:06:19](https://lobste.rs/s/xv3s8d/rise_fall_ibm_s_4_pi_aerospace_computers) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 * [2026-03-29, 18:19:58](https://lobste.rs/s/gx94qn/pretext_pure_javascript_typescript) - [pretext: Pure JavaScript/TypeScript library for multiline text measurement & layout](https://github.com/chenglou/pretext)
 * [2026-03-29, 18:15:48](https://lobste.rs/s/igtv7m/navigating_ai_critical_thinking_age_llms) - [Navigating AI: Critical Thinking in the Age of LLMs](https://mcuoneclipse.com/2025/12/31/navigating-ai-critical-thinking-in-the-age-of-llms/)
 * [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who's hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)

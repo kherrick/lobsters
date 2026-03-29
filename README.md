@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-29, 19:06:19](https://lobste.rs/s/xv3s8d/rise_fall_ibm_s_4_pi_aerospace_computers) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
 * [2026-03-29, 18:19:58](https://lobste.rs/s/gx94qn/pretext_pure_javascript_typescript) - [pretext: Pure JavaScript/TypeScript library for multiline text measurement & layout](https://github.com/chenglou/pretext)
 * [2026-03-29, 18:15:48](https://lobste.rs/s/igtv7m/navigating_ai_critical_thinking_age_llms) - [Navigating AI: Critical Thinking in the Age of LLMs](https://mcuoneclipse.com/2025/12/31/navigating-ai-critical-thinking-in-the-age-of-llms/)
 * [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who's hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)
@@ -24,7 +25,6 @@
 * [2026-03-28, 10:58:24](https://lobste.rs/s/rlhm21/translating_non_trivial_codebases_with) - [Translating non-trivial codebases with Claude](https://blog.danieljanus.pl/2026/03/26/claude-nlp/)
 * [2026-03-28, 09:17:01](https://lobste.rs/s/zb2rqd/building_guitar_trainer_with_embedded) - [Building a guitar trainer with embedded Rust](https://blog.orhun.dev/introducing-tuitar/)
 * [2026-03-27, 20:09:12](https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning) - [The Comforting Lie Of SHA Pinning](https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/)
-* [2026-03-27, 16:56:16](https://lobste.rs/s/abrpfr/tailscale_d_into_homelabbing) - [Tailscale’d Into Homelabbing](https://rugu.dev/en/blog/homelabbing_01/)
 
 ## [Archives](archives/index.md)
 
