@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-29](index.md)
 
+* [2026-03-29, 18:19:58](https://lobste.rs/s/gx94qn/pretext_pure_javascript_typescript) - [pretext: Pure JavaScript/TypeScript library for multiline text measurement & layout](https://github.com/chenglou/pretext)
+* [2026-03-29, 18:15:48](https://lobste.rs/s/igtv7m/navigating_ai_critical_thinking_age_llms) - [Navigating AI: Critical Thinking in the Age of LLMs](https://mcuoneclipse.com/2025/12/31/navigating-ai-critical-thinking-in-the-age-of-llms/)
+* [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who's hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)
+* [2026-03-29, 18:01:25](https://lobste.rs/s/jok8al/r_language_for_data_analysis_graphics) - [R: A Language for Data Analysis and Graphics (1996)](https://www.stat.auckland.ac.nz/%7Eihaka/downloads/R-paper.pdf)
 * [2026-03-29, 17:44:38](https://lobste.rs/s/64hfnw/neovim_0_12_0) - [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
 * [2026-03-29, 15:46:50](https://lobste.rs/s/bpotqb/cognitive_dark_forest) - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
 * [2026-03-29, 15:08:49](https://lobste.rs/s/wpjsws/oneluapro_v5_5_0_1_released) - [OneLuaPro v5.5.0.1 released](https://github.com/OneLuaPro/OneLuaPro/releases/tag/v5.5.0.1)
