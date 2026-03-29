@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-29, 20:04:51",
+      "https://lobste.rs/s/gjahwq/repair_2_agilent_54831_oscilloscopes"
+    ],
+    [
+      "Repair of 2 Agilent 54831 Oscilloscopes",
+      "https://tomverbeure.github.io/2026/03/28/Repair-of-Two-Agilent-54831-Oscilloscopes.html"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 19:06:19",
       "https://lobste.rs/s/xv3s8d/rise_fall_ibm_s_4_pi_aerospace_computers"
     ],
@@ -237,16 +247,6 @@
     [
       "Building a guitar trainer with embedded Rust",
       "https://blog.orhun.dev/introducing-tuitar/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 20:09:12",
-      "https://lobste.rs/s/qtu40j/comforting_lie_sha_pinning"
-    ],
-    [
-      "The Comforting Lie Of SHA Pinning",
-      "https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/"
     ]
   ]
 ]
