@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-29, 13:21:28",
+      "https://lobste.rs/s/isaccy/introduction_pinetime_pro"
+    ],
+    [
+      "Introduction to the PineTime Pro",
+      "https://pine64.org/2026/03/28/pinetime_march_2026/"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 10:29:00",
       "https://lobste.rs/s/ntmv9j/what_category_theory_teaches_us_about"
     ],
@@ -237,16 +247,6 @@
     [
       "Bigoish: Test the empirical computational complexity of Rust algorithms",
       "https://docs.rs/bigoish/"
-    ]
-  ],
-  [
-    [
-      "2026-03-27, 11:29:15",
-      "https://lobste.rs/s/pxnyf9/immich_vs_ente_photos_photo_backup"
-    ],
-    [
-      "immich vs ente photos - the photo backup showdown",
-      "https://alexandmanu.com/blog/immich-vs-ente-photos/"
     ]
   ]
 ]
