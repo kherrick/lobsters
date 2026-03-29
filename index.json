@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-29, 08:41:41",
+      "https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim"
+    ],
+    [
+      "fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies",
+      "https://github.com/vim-fuzzbox/fuzzbox.vim"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 06:01:31",
       "https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes"
     ],
@@ -97,16 +107,6 @@
     [
       "Adventures in cellular location services",
       "https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 13:27:42",
-      "https://lobste.rs/s/a2oex7/second_wave_api_first_economy"
-    ],
-    [
-      "The Second Wave of the API-first Economy",
-      "https://brandur.org/second-wave-api-first"
     ]
   ],
   [
