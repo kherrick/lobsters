@@ -1,8 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-30, 14:42:27](https://lobste.rs/s/vxqecz/working_software_runs_locally) - [Working software runs locally](https://nickmonad.blog/2026/working-software-runs-locally/)
+* [2026-03-30, 14:37:32](https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for) - [How would you design parallel grep for huge JSONL files?](https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for)
+* [2026-03-30, 14:32:20](https://lobste.rs/s/h1hr9m/fast_compact_immutable_map_from_strings) - [A fast, compact, immutable map from strings to uint64 values in Go](https://github.com/lemire/constmap)
+* [2026-03-30, 14:21:25](https://lobste.rs/s/k0byor/analyzing_round_trip_query_latency) - [Analyzing round trip query latency](https://www.datadoghq.com/blog/analyzing-roundtrip-query-latency/)
 * [2026-03-30, 14:07:40](https://lobste.rs/s/y5hfo9/i_made_terminal_pager) - [I Made a Terminal Pager](https://theleo.zone/posts/pager/)
 * [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
-* [2026-03-30, 12:40:55](https://lobste.rs/s/fpduu7/history_memoir) - [A History and a Memoir](https://www.youtube.com/watch?v=WEb_YL1K1Qg)
+* [2026-03-30, 13:18:39](https://lobste.rs/s/6jlrx2/2026_has_been_most_pivotal_year_my_career) - [2026 has been the most pivotal year in my career… and it's only March](https://nullprogram.com/blog/2026/03/29/)
 * [2026-03-30, 11:31:01](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week)
 * [2026-03-30, 11:29:24](https://lobste.rs/s/iprjpk/category_theory_illustrated_types) - [Category Theory Illustrated - Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
 * [2026-03-30, 11:25:06](https://lobste.rs/s/ye0e0z/three_little_rust_crates) - [Three Little Rust Crates](https://blog.sebastianwick.net/posts/three-little-rust-crates/)
@@ -14,9 +18,6 @@
 * [2026-03-30, 05:19:22](https://lobste.rs/s/lxzmm2/clojure_documentary_trailer) - [Clojure: The Documentary (Trailer)](https://youtu.be/JJEyffSdBsk)
 * [2026-03-30, 05:12:51](https://lobste.rs/s/wkukvc/steam_controller_d0ggle_adventure) - [The Steam Controller D0ggle Adventure](https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/)
 * [2026-03-30, 01:15:11](https://lobste.rs/s/zgkb0z/this_gorgeous_diy_camera_looks_straight) - [This gorgeous DIY camera looks straight out of Severance](https://www.dpreview.com/articles/9055612016/saturnix-diy-camera-alien-sci-fi-raspberry-pi)
-* [2026-03-30, 00:57:59](https://lobste.rs/s/ttyfeb/ai_agents_could_make_free_software_matter) - [AI Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
-* [2026-03-30, 00:19:51](https://lobste.rs/s/eelhis/free_native_risc_v_rv64gc_ci_on_github) - [Free, native RISC-V (RV64GC) CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
-* [2026-03-29, 23:52:53](https://lobste.rs/s/uh3cha/telecheck_tyms_past) - [telecheck and tyms past](https://computer.rip/2026-03-29-telecheck-and-tyms-past.html)
 * [2026-03-29, 22:57:08](https://lobste.rs/s/350aqk/c_26_is_done_trip_report_march_2026_iso_c) - [C++26 is done! — Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)](https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/)
 * [2026-03-29, 22:36:35](https://lobste.rs/s/wnuuoj/oxcaml_labs) - [OxCaml Labs](https://anil.recoil.org/projects/oxcaml)
 * [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who's hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)
@@ -24,7 +25,6 @@
 * [2026-03-29, 15:46:50](https://lobste.rs/s/bpotqb/cognitive_dark_forest) - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
 * [2026-03-29, 13:21:28](https://lobste.rs/s/isaccy/introduction_pinetime_pro) - [Introduction to the PineTime Pro](https://pine64.org/2026/03/28/pinetime_march_2026/)
 * [2026-03-29, 10:29:00](https://lobste.rs/s/ntmv9j/what_category_theory_teaches_us_about) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
-* [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 
 ## [Archives](archives/index.md)
 

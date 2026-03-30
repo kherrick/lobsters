@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 14:42:27](https://lobste.rs/s/vxqecz/working_software_runs_locally) - [Working software runs locally](https://nickmonad.blog/2026/working-software-runs-locally/)
+* [2026-03-30, 14:37:32](https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for) - [How would you design parallel grep for huge JSONL files?](https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for)
+* [2026-03-30, 14:32:20](https://lobste.rs/s/h1hr9m/fast_compact_immutable_map_from_strings) - [A fast, compact, immutable map from strings to uint64 values in Go](https://github.com/lemire/constmap)
+* [2026-03-30, 14:21:25](https://lobste.rs/s/k0byor/analyzing_round_trip_query_latency) - [Analyzing round trip query latency](https://www.datadoghq.com/blog/analyzing-roundtrip-query-latency/)
 * [2026-03-30, 14:07:40](https://lobste.rs/s/y5hfo9/i_made_terminal_pager) - [I Made a Terminal Pager](https://theleo.zone/posts/pager/)
 * [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+* [2026-03-30, 13:18:39](https://lobste.rs/s/6jlrx2/2026_has_been_most_pivotal_year_my_career) - [2026 has been the most pivotal year in my career… and it's only March](https://nullprogram.com/blog/2026/03/29/)
 * [2026-03-30, 12:40:55](https://lobste.rs/s/fpduu7/history_memoir) - [A History and a Memoir](https://www.youtube.com/watch?v=WEb_YL1K1Qg)
 * [2026-03-30, 11:31:01](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week)
 * [2026-03-30, 11:29:24](https://lobste.rs/s/iprjpk/category_theory_illustrated_types) - [Category Theory Illustrated - Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
