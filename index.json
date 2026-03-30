@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-30, 17:13:50",
+      "https://lobste.rs/s/zudaci/joins_are_not_expensive"
+    ],
+    [
+      "Joins are NOT Expensive",
+      "https://www.database-doctor.com/posts/joins-are-not-expensive"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 15:55:11",
       "https://lobste.rs/s/fug4fz/your_job_isn_t_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "The Cognitive Dark Forest",
       "https://ryelang.org/blog/posts/cognitive-dark-forest/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 13:21:28",
-      "https://lobste.rs/s/isaccy/introduction_pinetime_pro"
-    ],
-    [
-      "Introduction to the PineTime Pro",
-      "https://pine64.org/2026/03/28/pinetime_march_2026/"
     ]
   ]
 ]
