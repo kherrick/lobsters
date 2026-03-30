@@ -7,6 +7,7 @@
 * [2026-03-30, 05:21:21](https://lobste.rs/s/yyxyjy/15_years_forking_waterfox) - [15 Years of Forking (Waterfox)](https://www.waterfox.com/blog/15-years-of-forking/)
 * [2026-03-30, 05:19:22](https://lobste.rs/s/lxzmm2/clojure_documentary_trailer) - [Clojure: The Documentary (Trailer)](https://youtu.be/JJEyffSdBsk)
 * [2026-03-30, 05:12:51](https://lobste.rs/s/wkukvc/steam_controller_d0ggle_adventure) - [The Steam Controller D0ggle Adventure](https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/)
+* [2026-03-30, 01:15:11](https://lobste.rs/s/zgkb0z/this_gorgeous_diy_camera_looks_straight) - [This gorgeous DIY camera looks straight out of Severance](https://www.dpreview.com/articles/9055612016/saturnix-diy-camera-alien-sci-fi-raspberry-pi)
 * [2026-03-30, 00:57:59](https://lobste.rs/s/ttyfeb/ai_agents_could_make_free_software_matter) - [AI Agents Could Make Free Software Matter Again](https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/)
 * [2026-03-30, 00:19:51](https://lobste.rs/s/eelhis/free_native_risc_v_rv64gc_ci_on_github) - [Free, native RISC-V (RV64GC) CI on GitHub](https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/)
 * [2026-03-29, 23:52:53](https://lobste.rs/s/uh3cha/telecheck_tyms_past) - [telecheck and tyms past](https://computer.rip/2026-03-29-telecheck-and-tyms-past.html)
@@ -22,7 +23,6 @@
 * [2026-03-29, 13:21:28](https://lobste.rs/s/isaccy/introduction_pinetime_pro) - [Introduction to the PineTime Pro](https://pine64.org/2026/03/28/pinetime_march_2026/)
 * [2026-03-29, 10:29:00](https://lobste.rs/s/ntmv9j/what_category_theory_teaches_us_about) - [What Category Theory Teaches Us About DataFrames](https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/)
 * [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
-* [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/)
 * [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
 
