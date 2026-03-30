@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-30, 17:13:50](https://lobste.rs/s/zudaci/joins_are_not_expensive) - [Joins are NOT Expensive](https://www.database-doctor.com/posts/joins-are-not-expensive)
 * [2026-03-30, 15:55:11](https://lobste.rs/s/fug4fz/your_job_isn_t_programming) - [Your job isn't programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
 * [2026-03-30, 15:43:47](https://lobste.rs/s/uliqp4/how_turn_anything_into_router) - [How to turn anything into a router](https://nbailey.ca/post/router/)
 * [2026-03-30, 15:31:55](https://lobste.rs/s/v8agk2/numpy_as_synth_engine) - [NumPy as Synth Engine](https://kennethreitz.org/essays/2026-03-29-numpy_as_synth_engine)
@@ -24,7 +25,6 @@
 * [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who's hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)
 * [2026-03-29, 17:44:38](https://lobste.rs/s/64hfnw/neovim_0_12_0) - [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
 * [2026-03-29, 15:46:50](https://lobste.rs/s/bpotqb/cognitive_dark_forest) - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
-* [2026-03-29, 13:21:28](https://lobste.rs/s/isaccy/introduction_pinetime_pro) - [Introduction to the PineTime Pro](https://pine64.org/2026/03/28/pinetime_march_2026/)
 
 ## [Archives](archives/index.md)
 
