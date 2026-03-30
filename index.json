@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-03-30, 15:23:01",
+      "https://lobste.rs/s/z0wm9i/fixing_our_own_problems_rust_compiler"
+    ],
+    [
+      "Fixing our own problems in the Rust compiler",
+      "https://trifectatech.org/blog/fixing-our-own-problems-in-the-rust-compiler/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 14:42:27",
       "https://lobste.rs/s/vxqecz/working_software_runs_locally"
     ],
@@ -197,16 +207,6 @@
     [
       "C++26 is done! — Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)",
       "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 22:36:35",
-      "https://lobste.rs/s/wnuuoj/oxcaml_labs"
-    ],
-    [
-      "OxCaml Labs",
-      "https://anil.recoil.org/projects/oxcaml"
     ]
   ],
   [
