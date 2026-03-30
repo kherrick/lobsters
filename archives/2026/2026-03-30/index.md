@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 09:04:59](https://lobste.rs/s/0ivjey/fully_local_code_embeds) - [Fully Local Code Embeds](https://www.aleksandrhovhannisyan.com/blog/local-code-embeds/)
 * [2026-03-30, 07:51:55](https://lobste.rs/s/sqne7q/pgconf_eu_2025_establishing_postgresql) - [PGConf.EU 2025 Establishing the PostgreSQL standard What is Postgres compatible](https://wiki.postgresql.org/wiki/PGConf.EU_2025_Establishing_the_PostgreSQL_standard_What_is_Postgres_compatible)
 * [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
 * [2026-03-30, 06:16:09](https://lobste.rs/s/zkg4wr/uvwatauavawh_pushy_string) - [UVWATAUAVAWH, The Pushy String](https://www.hexacorn.com/blog/2013/05/16/uvwatauavawh-meet-the-pushy-string/)
