@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-03-30, 14:42:27",
+      "https://lobste.rs/s/vxqecz/working_software_runs_locally"
+    ],
+    [
+      "Working software runs locally",
+      "https://nickmonad.blog/2026/working-software-runs-locally/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:37:32",
+      "https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for"
+    ],
+    [
+      "How would you design parallel grep for huge JSONL files?",
+      "https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:32:20",
+      "https://lobste.rs/s/h1hr9m/fast_compact_immutable_map_from_strings"
+    ],
+    [
+      "A fast, compact, immutable map from strings to uint64 values in Go",
+      "https://github.com/lemire/constmap"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 14:21:25",
+      "https://lobste.rs/s/k0byor/analyzing_round_trip_query_latency"
+    ],
+    [
+      "Analyzing round trip query latency",
+      "https://www.datadoghq.com/blog/analyzing-roundtrip-query-latency/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 14:07:40",
       "https://lobste.rs/s/y5hfo9/i_made_terminal_pager"
     ],
@@ -21,12 +61,12 @@
   ],
   [
     [
-      "2026-03-30, 12:40:55",
-      "https://lobste.rs/s/fpduu7/history_memoir"
+      "2026-03-30, 13:18:39",
+      "https://lobste.rs/s/6jlrx2/2026_has_been_most_pivotal_year_my_career"
     ],
     [
-      "A History and a Memoir",
-      "https://www.youtube.com/watch?v=WEb_YL1K1Qg"
+      "2026 has been the most pivotal year in my career… and it's only March",
+      "https://nullprogram.com/blog/2026/03/29/"
     ]
   ],
   [
@@ -141,36 +181,6 @@
   ],
   [
     [
-      "2026-03-30, 00:57:59",
-      "https://lobste.rs/s/ttyfeb/ai_agents_could_make_free_software_matter"
-    ],
-    [
-      "AI Agents Could Make Free Software Matter Again",
-      "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 00:19:51",
-      "https://lobste.rs/s/eelhis/free_native_risc_v_rv64gc_ci_on_github"
-    ],
-    [
-      "Free, native RISC-V (RV64GC) CI on GitHub",
-      "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 23:52:53",
-      "https://lobste.rs/s/uh3cha/telecheck_tyms_past"
-    ],
-    [
-      "telecheck and tyms past",
-      "https://computer.rip/2026-03-29-telecheck-and-tyms-past.html"
-    ]
-  ],
-  [
-    [
       "2026-03-29, 22:57:08",
       "https://lobste.rs/s/350aqk/c_26_is_done_trip_report_march_2026_iso_c"
     ],
@@ -237,16 +247,6 @@
     [
       "What Category Theory Teaches Us About DataFrames",
       "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 20:25:19",
-      "https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app"
-    ],
-    [
-      "I Decompiled the White House's New App",
-      "https://blog.thereallo.dev/blog/decompiling-the-white-house-app"
     ]
   ]
 ]
