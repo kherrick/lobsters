@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-03-30, 14:37:32",
+      "https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for"
+    ],
+    [
+      "How would you design parallel grep for huge JSONL files?",
+      "https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 14:32:20",
       "https://lobste.rs/s/h1hr9m/fast_compact_immutable_map_from_strings"
     ],
@@ -137,16 +147,6 @@
     [
       "Category Theory Illustrated - Types",
       "https://abuseofnotation.github.io/category-theory-illustrated/06_type/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 11:25:06",
-      "https://lobste.rs/s/ye0e0z/three_little_rust_crates"
-    ],
-    [
-      "Three Little Rust Crates",
-      "https://blog.sebastianwick.net/posts/three-little-rust-crates/"
     ]
   ],
   [
