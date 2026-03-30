@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 11:31:01](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week)
+* [2026-03-30, 11:29:24](https://lobste.rs/s/iprjpk/category_theory_illustrated_types) - [Category Theory Illustrated - Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
+* [2026-03-30, 11:25:06](https://lobste.rs/s/ye0e0z/three_little_rust_crates) - [Three Little Rust Crates](https://blog.sebastianwick.net/posts/three-little-rust-crates/)
+* [2026-03-30, 11:06:34](https://lobste.rs/s/yhunoz/disclosure_replay_attack_vulnerability) - [Disclosure of Replay Attack Vulnerability in Signed References](https://radicle.xyz/2026/03/30/disclosure-of-vulnerability-in-signed-references)
 * [2026-03-30, 09:04:59](https://lobste.rs/s/0ivjey/fully_local_code_embeds) - [Fully Local Code Embeds](https://www.aleksandrhovhannisyan.com/blog/local-code-embeds/)
 * [2026-03-30, 07:51:55](https://lobste.rs/s/sqne7q/pgconf_eu_2025_establishing_postgresql) - [PGConf.EU 2025 Establishing the PostgreSQL standard What is Postgres compatible](https://wiki.postgresql.org/wiki/PGConf.EU_2025_Establishing_the_PostgreSQL_standard_What_is_Postgres_compatible)
 * [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
