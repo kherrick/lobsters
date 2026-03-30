@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-30, 20:58:22",
+      "https://lobste.rs/s/3gxqwe/running_plan_9_network_on_openbsd"
+    ],
+    [
+      "Running a Plan 9 network on OpenBSD",
+      "https://www.ueber.net/who/mjl/plan9/plan9-obsd.html"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 17:13:50",
       "https://lobste.rs/s/zudaci/joins_are_not_expensive"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2026-03-30, 14:37:32",
-      "https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for"
-    ],
-    [
-      "How would you design parallel grep for huge JSONL files?",
-      "https://lobste.rs/s/9ufhbw/how_would_you_design_parallel_grep_for"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 14:32:20",
       "https://lobste.rs/s/h1hr9m/fast_compact_immutable_map_from_strings"
     ],
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-03-30, 11:25:06",
+      "https://lobste.rs/s/ye0e0z/three_little_rust_crates"
+    ],
+    [
+      "Three Little Rust Crates",
+      "https://blog.sebastianwick.net/posts/three-little-rust-crates/"
+    ]
+  ],
+  [
+    [
       "2026-03-30, 07:14:21",
       "https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit"
     ],
@@ -207,16 +217,6 @@
     [
       "The Steam Controller D0ggle Adventure",
       "https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 22:57:08",
-      "https://lobste.rs/s/350aqk/c_26_is_done_trip_report_march_2026_iso_c"
-    ],
-    [
-      "C++26 is done! — Trip report: March 2026 ISO C++ standards meeting (London Croydon, UK)",
-      "https://herbsutter.com/2026/03/29/c26-is-done-trip-report-march-2026-iso-c-standards-meeting-london-croydon-uk/"
     ]
   ],
   [
