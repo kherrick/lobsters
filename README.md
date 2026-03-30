@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-30, 07:51:55](https://lobste.rs/s/sqne7q/pgconf_eu_2025_establishing_postgresql) - [PGConf.EU 2025 Establishing the PostgreSQL standard What is Postgres compatible](https://wiki.postgresql.org/wiki/PGConf.EU_2025_Establishing_the_PostgreSQL_standard_What_is_Postgres_compatible)
+* [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
+* [2026-03-30, 06:16:09](https://lobste.rs/s/zkg4wr/uvwatauavawh_pushy_string) - [UVWATAUAVAWH, The Pushy String](https://www.hexacorn.com/blog/2013/05/16/uvwatauavawh-meet-the-pushy-string/)
 * [2026-03-30, 05:41:18](https://lobste.rs/s/lxkqhp/chatgpt_won_t_let_you_type_until) - [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
 * [2026-03-30, 05:21:21](https://lobste.rs/s/yyxyjy/15_years_forking_waterfox) - [15 Years of Forking (Waterfox)](https://www.waterfox.com/blog/15-years-of-forking/)
 * [2026-03-30, 05:19:22](https://lobste.rs/s/lxzmm2/clojure_documentary_trailer) - [Clojure: The Documentary (Trailer)](https://youtu.be/JJEyffSdBsk)
@@ -12,7 +15,6 @@
 * [2026-03-29, 22:36:35](https://lobste.rs/s/wnuuoj/oxcaml_labs) - [OxCaml Labs](https://anil.recoil.org/projects/oxcaml)
 * [2026-03-29, 20:04:51](https://lobste.rs/s/gjahwq/repair_2_agilent_54831_oscilloscopes) - [Repair of 2 Agilent 54831 Oscilloscopes](https://tomverbeure.github.io/2026/03/28/Repair-of-Two-Agilent-54831-Oscilloscopes.html)
 * [2026-03-29, 19:06:19](https://lobste.rs/s/xv3s8d/rise_fall_ibm_s_4_pi_aerospace_computers) - [The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history](http://www.righto.com/2026/03/ibm-4-pi-computer-history.html)
-* [2026-03-29, 18:19:58](https://lobste.rs/s/gx94qn/pretext_pure_javascript_typescript) - [pretext: Pure JavaScript/TypeScript library for multiline text measurement & layout](https://github.com/chenglou/pretext)
 * [2026-03-29, 18:01:55](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026) - [Who's hiring? Q2 2026](https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026)
 * [2026-03-29, 17:44:38](https://lobste.rs/s/64hfnw/neovim_0_12_0) - [Neovim 0.12.0](https://github.com/neovim/neovim/releases/tag/v0.12.0)
 * [2026-03-29, 15:46:50](https://lobste.rs/s/bpotqb/cognitive_dark_forest) - [The Cognitive Dark Forest](https://ryelang.org/blog/posts/cognitive-dark-forest/)
@@ -21,10 +23,8 @@
 * [2026-03-29, 06:01:31](https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes) - [heerich.js - A tiny engine for 3D voxel scenes rendered to SVG](https://meodai.github.io/heerich)
 * [2026-03-29, 04:49:25](https://lobste.rs/s/dblov3/libeatmydata_disable_fsync_save) - [libeatmydata - disable fsync and SAVE](https://www.flamingspork.com/projects/libeatmydata/)
 * [2026-03-29, 04:47:03](https://lobste.rs/s/vodhvg/ai_hot_takes_from_platform_engineer_sre) - [AI Hot Takes From A Platform Engineer / SRE](https://alienchow.dev/post/ai_takeaways_mar_2026/)
-* [2026-03-29, 01:39:06](https://lobste.rs/s/bywfs1/legacy_pc_design_misery_2009) - [Legacy PC design misery (2009)](https://mjg59.livejournal.com/118098.html)
 * [2026-03-28, 20:25:19](https://lobste.rs/s/2zvgxm/i_decompiled_white_house_s_new_app) - [I Decompiled the White House's New App](https://blog.thereallo.dev/blog/decompiling-the-white-house-app)
 * [2026-03-28, 19:13:02](https://lobste.rs/s/u4bws9/bubblewrap_your_dev_env_agents) - [BubbleWrap your dev env and agents](https://dpc.pw/posts/bubblewrap-your-dev-env-and-agents/)
-* [2026-03-28, 13:02:13](https://lobste.rs/s/bwyqi9/linux_finally_for_everyone) - [Linux, finally for everyone](https://yololinux.com)
 
 ## [Archives](archives/index.md)
 
