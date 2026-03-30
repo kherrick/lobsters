@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 14:07:40](https://lobste.rs/s/y5hfo9/i_made_terminal_pager) - [I Made a Terminal Pager](https://theleo.zone/posts/pager/)
+* [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+* [2026-03-30, 12:40:55](https://lobste.rs/s/fpduu7/history_memoir) - [A History and a Memoir](https://www.youtube.com/watch?v=WEb_YL1K1Qg)
 * [2026-03-30, 11:31:01](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week)
 * [2026-03-30, 11:29:24](https://lobste.rs/s/iprjpk/category_theory_illustrated_types) - [Category Theory Illustrated - Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
 * [2026-03-30, 11:25:06](https://lobste.rs/s/ye0e0z/three_little_rust_crates) - [Three Little Rust Crates](https://blog.sebastianwick.net/posts/three-little-rust-crates/)
