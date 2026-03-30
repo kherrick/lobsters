@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-03-30, 00:57:59",
+      "https://lobste.rs/s/ttyfeb/ai_agents_could_make_free_software_matter"
+    ],
+    [
+      "AI Agents Could Make Free Software Matter Again",
+      "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/"
+    ]
+  ],
+  [
+    [
+      "2026-03-30, 00:19:51",
+      "https://lobste.rs/s/eelhis/free_native_risc_v_rv64gc_ci_on_github"
+    ],
+    [
+      "Free, native RISC-V (RV64GC) CI on GitHub",
+      "https://riseproject.dev/2026/03/24/announcing-the-rise-risc-v-runners-free-native-risc-v-ci-on-github/"
+    ]
+  ],
+  [
+    [
+      "2026-03-29, 23:52:53",
+      "https://lobste.rs/s/uh3cha/telecheck_tyms_past"
+    ],
+    [
+      "telecheck and tyms past",
+      "https://computer.rip/2026-03-29-telecheck-and-tyms-past.html"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 22:59:34",
       "https://lobste.rs/s/zxtsba/making_hnsw_actually_work_with_where"
     ],
@@ -57,16 +87,6 @@
     [
       "pretext: Pure JavaScript/TypeScript library for multiline text measurement & layout",
       "https://github.com/chenglou/pretext"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 18:15:48",
-      "https://lobste.rs/s/igtv7m/navigating_ai_critical_thinking_age_llms"
-    ],
-    [
-      "Navigating AI: Critical Thinking in the Age of LLMs",
-      "https://mcuoneclipse.com/2025/12/31/navigating-ai-critical-thinking-in-the-age-of-llms/"
     ]
   ],
   [
@@ -137,16 +157,6 @@
     [
       "What Category Theory Teaches Us About DataFrames",
       "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 08:41:41",
-      "https://lobste.rs/s/q1s3vs/fuzzbox_vim_modern_fuzzy_finder_for_vim"
-    ],
-    [
-      "fuzzbox.vim: Modern fuzzy finder for Vim with minimal dependencies",
-      "https://github.com/vim-fuzzbox/fuzzbox.vim"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Linux is an interpreter",
       "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2026-03-28, 18:40:47",
-      "https://lobste.rs/s/i95lfw/adventures_cellular_location_services"
-    ],
-    [
-      "Adventures in cellular location services",
-      "https://nickvsnetworking.com/somebodys-watching-me-adventures-in-cellular-locating/"
     ]
   ],
   [
