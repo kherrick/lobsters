@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-03-30, 07:51:55",
-      "https://lobste.rs/s/sqne7q/pgconf_eu_2025_establishing_postgresql"
+      "2026-03-30, 09:04:59",
+      "https://lobste.rs/s/0ivjey/fully_local_code_embeds"
     ],
     [
-      "PGConf.EU 2025 Establishing the PostgreSQL standard What is Postgres compatible",
-      "https://wiki.postgresql.org/wiki/PGConf.EU_2025_Establishing_the_PostgreSQL_standard_What_is_Postgres_compatible"
+      "Fully Local Code Embeds",
+      "https://www.aleksandrhovhannisyan.com/blog/local-code-embeds/"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-03-29, 18:19:58",
+      "https://lobste.rs/s/gx94qn/pretext_pure_javascript_typescript"
+    ],
+    [
+      "pretext: Pure JavaScript/TypeScript library for multiline text measurement & layout",
+      "https://github.com/chenglou/pretext"
+    ]
+  ],
+  [
+    [
       "2026-03-29, 18:01:55",
       "https://lobste.rs/s/vixzkq/who_s_hiring_q2_2026"
     ],
@@ -197,16 +207,6 @@
     [
       "What Category Theory Teaches Us About DataFrames",
       "https://mchav.github.io/what-category-theory-teaches-us-about-dataframes/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 06:01:31",
-      "https://lobste.rs/s/qqpc7k/heerich_js_tiny_engine_for_3d_voxel_scenes"
-    ],
-    [
-      "heerich.js - A tiny engine for 3D voxel scenes rendered to SVG",
-      "https://meodai.github.io/heerich"
     ]
   ],
   [
