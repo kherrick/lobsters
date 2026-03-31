@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 18:33:46](https://lobste.rs/s/iexiw9/pipevals_evaluation_pipelines_for_every) - [Pipevals: Evaluation pipelines for every LLM application](https://www.pipevals.com)
+* [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 16:42:48](https://lobste.rs/s/9frrpm/runtime_type_checking_is_great_2023) - [Runtime type checking is great (2023)](https://blog.jez.io/runtime-type-checking/)
 * [2026-03-31, 15:44:03](https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on) - [Software You Can Love 2026 tickets are on sale](https://mattnite.net/blog/sycl-2026-tickets-are-here/)
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 14:48:34](https://lobste.rs/s/po4bfv/objections_systemd_age_attestation) - [Objections to systemd age-attestation changes go overboard](https://lwn.net/SubscriberLink/1064706/ba8e449d224f5067/)
 * [2026-03-31, 14:08:03](https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
+* [2026-03-31, 13:05:57](https://lobste.rs/s/fbxzte/february_servo_faster_layout_pause) - [February in Servo: faster layout, pause and resume scripts, and more](https://servo.org/blog/2026/03/31/february-in-servo/)
 * [2026-03-31, 12:53:06](https://lobste.rs/s/wlgi4a/data_indexing_golang) - [Data Indexing in Golang](https://hister.org/posts/data-indexing-in-golang)
 * [2026-03-31, 11:29:40](https://lobste.rs/s/uf8z1b/autoscaling_ci_for_gitea_rust) - [Autoscaling CI for Gitea in Rust](https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/)
 * [2026-03-31, 10:04:00](https://lobste.rs/s/faygn8/trivially_breaking_confidential_vms) - [Trivially breaking confidential VMs](https://katexochen.aro.bz/posts/badaml/)
