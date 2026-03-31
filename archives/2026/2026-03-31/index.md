@@ -12,3 +12,4 @@
 * [2026-03-31, 06:11:10](https://lobste.rs/s/us9noo/cocoa_way_native_macos_wayland) - [cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay](https://github.com/J-x-Z/cocoa-way)
 * [2026-03-31, 04:12:15](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - [Why have supply chain attacks become a near daily occurrence ?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 * [2026-03-31, 03:26:52](https://lobste.rs/s/pbx5yu/claude_finds_rce_vim_emacs) - [Claude finds RCE in Vim and Emacs](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
+* [2026-03-31, 01:24:40](https://lobste.rs/s/gghd7a/onlyoffice_flags_license_violations) - [ONLYOFFICE flags license violations in “Euro-Office” project](https://www.onlyoffice.com/blog/2026/03/onlyoffice-flags-license-violations-in-euro-office-project-by-nextcloud-and-ionos)
