@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-03-30](index.md)
 
+* [2026-03-30, 20:58:23](https://lobste.rs/s/ahbt4t/rust_s_next_generation_trait_solver) - [Rust's next-generation trait solver](https://lwn.net/SubscriberLink/1063124/81483612b1c8a493/)
 * [2026-03-30, 20:58:22](https://lobste.rs/s/3gxqwe/running_plan_9_network_on_openbsd) - [Running a Plan 9 network on OpenBSD](https://www.ueber.net/who/mjl/plan9/plan9-obsd.html)
+* [2026-03-30, 19:32:04](https://lobste.rs/s/etenwb/vulnerability_research_is_cooked) - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
 * [2026-03-30, 19:22:12](https://lobste.rs/s/lcv3lx/move_github_private_repos_google_drive) - [Move GitHub Private Repos to Google Drive in Minutes](https://tonym.us/move-github-repos-to-google-drive.html)
 * [2026-03-30, 17:13:50](https://lobste.rs/s/zudaci/joins_are_not_expensive) - [Joins are NOT Expensive](https://www.database-doctor.com/posts/joins-are-not-expensive)
 * [2026-03-30, 17:13:40](https://lobste.rs/s/ls2fsj/couple_million_lines_haskell_production) - [A Couple Million Lines of Haskell: Production Engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
