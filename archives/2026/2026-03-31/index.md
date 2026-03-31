@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 16:42:48](https://lobste.rs/s/9frrpm/runtime_type_checking_is_great_2023) - [Runtime type checking is great (2023)](https://blog.jez.io/runtime-type-checking/)
 * [2026-03-31, 15:44:03](https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on) - [Software You Can Love 2026 tickets are on sale](https://mattnite.net/blog/sycl-2026-tickets-are-here/)
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 14:48:34](https://lobste.rs/s/po4bfv/objections_systemd_age_attestation) - [Objections to systemd age-attestation changes go overboard](https://lwn.net/SubscriberLink/1064706/ba8e449d224f5067/)
