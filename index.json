@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-03-31, 08:21:25",
-      "https://lobste.rs/s/czr1hj/jsse_javascript_engine_built_by_agent"
-    ],
-    [
-      "JSSE: A JavaScript Engine Built by an Agent",
-      "https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 07:28:23",
       "https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios"
     ],
@@ -67,6 +57,16 @@
     [
       "Claude finds RCE in Vim and Emacs",
       "https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 01:24:40",
+      "https://lobste.rs/s/gghd7a/onlyoffice_flags_license_violations"
+    ],
+    [
+      "ONLYOFFICE flags license violations in “Euro-Office” project",
+      "https://www.onlyoffice.com/blog/2026/03/onlyoffice-flags-license-violations-in-euro-office-project-by-nextcloud-and-ionos"
     ]
   ],
   [
