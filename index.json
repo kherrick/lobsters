@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-03-31, 15:44:03",
+      "https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on"
+    ],
+    [
+      "Software You Can Love 2026 tickets are on sale",
+      "https://mattnite.net/blog/sycl-2026-tickets-are-here/"
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 15:17:40",
+      "https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis"
+    ],
+    [
+      "The Subprime Technical Debt Crisis",
+      "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 14:08:03",
       "https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report"
     ],
@@ -77,16 +97,6 @@
     [
       "Tree of functions, called during boot of Linux kernel v7.0-rc1",
       "https://zerobin.net/?e19cf19c9589d7f4#x4dHmryKSRUAVekqQC+1bTOA82A5HQid55jyiKXikIA="
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 06:55:20",
-      "https://lobste.rs/s/hhoksx/good_cte_bad_cte"
-    ],
-    [
-      "Good CTE, bad CTE",
-      "https://boringsql.com/posts/good-cte-bad-cte/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Okapi, or “What if ripgrep Could Edit?”",
       "https://kocharhook.com/post/6/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 05:41:18",
-      "https://lobste.rs/s/lxkqhp/chatgpt_won_t_let_you_type_until"
-    ],
-    [
-      "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It",
-      "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/"
     ]
   ],
   [
