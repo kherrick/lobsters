@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 11:29:40](https://lobste.rs/s/uf8z1b/autoscaling_ci_for_gitea_rust) - [Autoscaling CI for Gitea in Rust](https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/)
 * [2026-03-31, 10:04:00](https://lobste.rs/s/faygn8/trivially_breaking_confidential_vms) - [Trivially breaking confidential VMs](https://katexochen.aro.bz/posts/badaml/)
 * [2026-03-31, 08:21:25](https://lobste.rs/s/czr1hj/jsse_javascript_engine_built_by_agent) - [JSSE: A JavaScript Engine Built by an Agent](https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html)
 * [2026-03-31, 07:28:23](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios) - [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised)
