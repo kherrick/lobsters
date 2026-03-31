@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-31, 10:04:00",
+      "https://lobste.rs/s/faygn8/trivially_breaking_confidential_vms"
+    ],
+    [
+      "Trivially breaking confidential VMs",
+      "https://katexochen.aro.bz/posts/badaml/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 07:28:23",
       "https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios"
     ],
@@ -237,16 +247,6 @@
     [
       "The Steam Controller D0ggle Adventure",
       "https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/"
-    ]
-  ],
-  [
-    [
-      "2026-03-29, 15:46:50",
-      "https://lobste.rs/s/bpotqb/cognitive_dark_forest"
-    ],
-    [
-      "The Cognitive Dark Forest",
-      "https://ryelang.org/blog/posts/cognitive-dark-forest/"
     ]
   ]
 ]
