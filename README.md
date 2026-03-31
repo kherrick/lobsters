@@ -2,7 +2,7 @@
 
 * [2026-03-31, 18:33:46](https://lobste.rs/s/iexiw9/pipevals_evaluation_pipelines_for_every) - [Pipevals: Evaluation pipelines for every LLM application](https://www.pipevals.com)
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
-* [2026-03-31, 16:42:48](https://lobste.rs/s/9frrpm/runtime_type_checking_is_great_2023) - [Runtime type checking is great (2023)](https://blog.jez.io/runtime-type-checking/)
+* [2026-03-31, 17:05:31](https://lobste.rs/s/1ifbos/rfc_clang_reforge_automatic_whole) - [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283)
 * [2026-03-31, 15:44:03](https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on) - [Software You Can Love 2026 tickets are on sale](https://mattnite.net/blog/sycl-2026-tickets-are-here/)
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 14:48:34](https://lobste.rs/s/po4bfv/objections_systemd_age_attestation) - [Objections to systemd age-attestation changes go overboard](https://lwn.net/SubscriberLink/1064706/ba8e449d224f5067/)
