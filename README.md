@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-31, 15:44:03](https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on) - [Software You Can Love 2026 tickets are on sale](https://mattnite.net/blog/sycl-2026-tickets-are-here/)
+* [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 14:08:03](https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 * [2026-03-31, 12:53:06](https://lobste.rs/s/wlgi4a/data_indexing_golang) - [Data Indexing in Golang](https://hister.org/posts/data-indexing-in-golang)
 * [2026-03-31, 11:29:40](https://lobste.rs/s/uf8z1b/autoscaling_ci_for_gitea_rust) - [Autoscaling CI for Gitea in Rust](https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/)
@@ -8,7 +10,6 @@
 * [2026-03-31, 07:28:23](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios) - [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised)
 * [2026-03-31, 07:02:06](https://lobste.rs/s/qmb53b/let_commits_tell_story) - [Let the commits tell the story](https://chrismaiorana.com/git-commits-tell-the-story/)
 * [2026-03-31, 06:58:40](https://lobste.rs/s/ybrnlc/tree_functions_called_during_boot_linux) - [Tree of functions, called during boot of Linux kernel v7.0-rc1](https://zerobin.net/?e19cf19c9589d7f4#x4dHmryKSRUAVekqQC+1bTOA82A5HQid55jyiKXikIA=)
-* [2026-03-31, 06:55:20](https://lobste.rs/s/hhoksx/good_cte_bad_cte) - [Good CTE, bad CTE](https://boringsql.com/posts/good-cte-bad-cte/)
 * [2026-03-31, 06:11:10](https://lobste.rs/s/us9noo/cocoa_way_native_macos_wayland) - [cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay](https://github.com/J-x-Z/cocoa-way)
 * [2026-03-31, 04:12:15](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - [Why have supply chain attacks become a near daily occurrence ?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 * [2026-03-31, 03:26:52](https://lobste.rs/s/pbx5yu/claude_finds_rce_vim_emacs) - [Claude finds RCE in Vim and Emacs](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
@@ -22,7 +23,6 @@
 * [2026-03-30, 14:26:39](https://lobste.rs/s/zsute2/github_monaspace_case_study) - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
 * [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
-* [2026-03-30, 05:41:18](https://lobste.rs/s/lxkqhp/chatgpt_won_t_let_you_type_until) - [ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It](https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/)
 * [2026-03-30, 05:21:21](https://lobste.rs/s/yyxyjy/15_years_forking_waterfox) - [15 Years of Forking (Waterfox)](https://www.waterfox.com/blog/15-years-of-forking/)
 * [2026-03-30, 05:12:51](https://lobste.rs/s/wkukvc/steam_controller_d0ggle_adventure) - [The Steam Controller D0ggle Adventure](https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/)
 
