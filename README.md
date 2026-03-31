@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-31, 04:12:15](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - [Why have supply chain attacks become a near daily occurrence ?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 * [2026-03-30, 20:58:23](https://lobste.rs/s/ahbt4t/rust_s_next_generation_trait_solver) - [Rust's next-generation trait solver](https://lwn.net/SubscriberLink/1063124/81483612b1c8a493/)
 * [2026-03-30, 20:58:22](https://lobste.rs/s/3gxqwe/running_plan_9_network_on_openbsd) - [Running a Plan 9 network on OpenBSD](https://www.ueber.net/who/mjl/plan9/plan9-obsd.html)
 * [2026-03-30, 19:32:04](https://lobste.rs/s/etenwb/vulnerability_research_is_cooked) - [Vulnerability Research Is Cooked](https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/)
@@ -15,7 +16,6 @@
 * [2026-03-30, 14:26:39](https://lobste.rs/s/zsute2/github_monaspace_case_study) - [GitHub Monaspace Case Study](https://lettermatic.com/custom/monaspace-case-study)
 * [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [2026-03-30, 13:18:39](https://lobste.rs/s/6jlrx2/2026_has_been_most_pivotal_year_my_career) - [2026 has been the most pivotal year in my career… and it's only March](https://nullprogram.com/blog/2026/03/29/)
-* [2026-03-30, 11:31:01](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/xnfqw6/what_are_you_doing_this_week)
 * [2026-03-30, 11:29:24](https://lobste.rs/s/iprjpk/category_theory_illustrated_types) - [Category Theory Illustrated - Types](https://abuseofnotation.github.io/category-theory-illustrated/06_type/)
 * [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
 * [2026-03-30, 06:16:09](https://lobste.rs/s/zkg4wr/uvwatauavawh_pushy_string) - [UVWATAUAVAWH, The Pushy String](https://www.hexacorn.com/blog/2013/05/16/uvwatauavawh-meet-the-pushy-string/)
