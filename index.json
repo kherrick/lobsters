@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-03-31, 14:48:34",
+      "https://lobste.rs/s/po4bfv/objections_systemd_age_attestation"
+    ],
+    [
+      "Objections to systemd age-attestation changes go overboard",
+      "https://lwn.net/SubscriberLink/1064706/ba8e449d224f5067/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 14:08:03",
       "https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report"
     ],
@@ -97,6 +107,16 @@
     [
       "Tree of functions, called during boot of Linux kernel v7.0-rc1",
       "https://zerobin.net/?e19cf19c9589d7f4#x4dHmryKSRUAVekqQC+1bTOA82A5HQid55jyiKXikIA="
+    ]
+  ],
+  [
+    [
+      "2026-03-31, 06:55:20",
+      "https://lobste.rs/s/hhoksx/good_cte_bad_cte"
+    ],
+    [
+      "Good CTE, bad CTE",
+      "https://boringsql.com/posts/good-cte-bad-cte/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-03-30, 15:43:47",
-      "https://lobste.rs/s/uliqp4/how_turn_anything_into_router"
-    ],
-    [
-      "How to turn anything into a router",
-      "https://nbailey.ca/post/router/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 14:42:27",
       "https://lobste.rs/s/vxqecz/working_software_runs_locally"
     ],
@@ -237,16 +247,6 @@
     [
       "15 Years of Forking (Waterfox)",
       "https://www.waterfox.com/blog/15-years-of-forking/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 05:12:51",
-      "https://lobste.rs/s/wkukvc/steam_controller_d0ggle_adventure"
-    ],
-    [
-      "The Steam Controller D0ggle Adventure",
-      "https://im-just-lee.ing/steam-controller-d0ggle-54682aa4/"
     ]
   ]
 ]
