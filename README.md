@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-03-31, 20:31:41](https://lobste.rs/s/n42iq0/pidgin_3_0_alpha_1_2_95_0_has_been_released) - [Pidgin 3.0 Alpha 1 2.95.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-1-2-95-0-has-been-released/378)
+* [2026-03-31, 19:03:06](https://lobste.rs/s/hssl4e/your_hex_editor_should_color_code_bytes) - [your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 * [2026-03-31, 18:33:46](https://lobste.rs/s/iexiw9/pipevals_evaluation_pipelines_for_every) - [Pipevals: Evaluation pipelines for every LLM application](https://www.pipevals.com)
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
-* [2026-03-31, 17:05:31](https://lobste.rs/s/1ifbos/rfc_clang_reforge_automatic_whole) - [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283)
 * [2026-03-31, 15:44:03](https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on) - [Software You Can Love 2026 tickets are on sale](https://mattnite.net/blog/sycl-2026-tickets-are-here/)
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 14:48:34](https://lobste.rs/s/po4bfv/objections_systemd_age_attestation) - [Objections to systemd age-attestation changes go overboard](https://lwn.net/SubscriberLink/1064706/ba8e449d224f5067/)
@@ -22,7 +23,6 @@
 * [2026-03-30, 20:58:23](https://lobste.rs/s/ahbt4t/rust_s_next_generation_trait_solver) - [Rust's next-generation trait solver](https://lwn.net/SubscriberLink/1063124/81483612b1c8a493/)
 * [2026-03-30, 17:13:50](https://lobste.rs/s/zudaci/joins_are_not_expensive) - [Joins are NOT Expensive](https://www.database-doctor.com/posts/joins-are-not-expensive)
 * [2026-03-30, 15:55:11](https://lobste.rs/s/fug4fz/your_job_isn_t_programming) - [Your job isn't programming](https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming)
-* [2026-03-30, 14:42:27](https://lobste.rs/s/vxqecz/working_software_runs_locally) - [Working software runs locally](https://nickmonad.blog/2026/working-software-runs-locally/)
 * [2026-03-30, 13:18:43](https://lobste.rs/s/0o60nu/copilot_edited_ad_into_my_pr) - [copilot edited an ad into my pr](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 * [2026-03-30, 07:14:21](https://lobste.rs/s/kqnoi9/okapi_what_if_ripgrep_could_edit) - [Okapi, or “What if ripgrep Could Edit?”](https://kocharhook.com/post/6/)
 

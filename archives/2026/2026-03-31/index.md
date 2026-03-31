@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-03-31](index.md)
 
+* [2026-03-31, 20:31:41](https://lobste.rs/s/n42iq0/pidgin_3_0_alpha_1_2_95_0_has_been_released) - [Pidgin 3.0 Alpha 1 2.95.0 has been released](https://discourse.imfreedom.org/t/pidgin-3-0-alpha-1-2-95-0-has-been-released/378)
+* [2026-03-31, 19:03:06](https://lobste.rs/s/hssl4e/your_hex_editor_should_color_code_bytes) - [your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 * [2026-03-31, 18:33:46](https://lobste.rs/s/iexiw9/pipevals_evaluation_pipelines_for_every) - [Pipevals: Evaluation pipelines for every LLM application](https://www.pipevals.com)
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 17:05:31](https://lobste.rs/s/1ifbos/rfc_clang_reforge_automatic_whole) - [[RFC] clang-reforge: Automatic whole-codebase source code rewriting tool for security hardening](https://discourse.llvm.org/t/rfc-clang-reforge-automatic-whole-codebase-source-code-rewriting-tool-for-security-hardening/90283)
