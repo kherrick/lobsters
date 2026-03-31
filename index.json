@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-31, 16:42:48",
+      "https://lobste.rs/s/9frrpm/runtime_type_checking_is_great_2023"
+    ],
+    [
+      "Runtime type checking is great (2023)",
+      "https://blog.jez.io/runtime-type-checking/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 15:44:03",
       "https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2026-03-31, 08:21:25",
+      "https://lobste.rs/s/czr1hj/jsse_javascript_engine_built_by_agent"
+    ],
+    [
+      "JSSE: A JavaScript Engine Built by an Agent",
+      "https://p.ocmatos.com/blog/jsse-a-javascript-engine-built-by-an-agent.html"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 07:43:21",
       "https://lobste.rs/s/2b2kes/why_your_engineering_team_is_slow_it_s"
     ],
@@ -107,16 +127,6 @@
     [
       "Tree of functions, called during boot of Linux kernel v7.0-rc1",
       "https://zerobin.net/?e19cf19c9589d7f4#x4dHmryKSRUAVekqQC+1bTOA82A5HQid55jyiKXikIA="
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 06:55:20",
-      "https://lobste.rs/s/hhoksx/good_cte_bad_cte"
-    ],
-    [
-      "Good CTE, bad CTE",
-      "https://boringsql.com/posts/good-cte-bad-cte/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Okapi, or “What if ripgrep Could Edit?”",
       "https://kocharhook.com/post/6/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 05:21:21",
-      "https://lobste.rs/s/yyxyjy/15_years_forking_waterfox"
-    ],
-    [
-      "15 Years of Forking (Waterfox)",
-      "https://www.waterfox.com/blog/15-years-of-forking/"
     ]
   ]
 ]
