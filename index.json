@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-03-31, 14:08:03",
+      "https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report"
+    ],
+    [
+      "RubyGems Fracture Incident Report",
+      "https://rubycentral.org/news/rubygems-fracture-incident-report/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 12:53:06",
       "https://lobste.rs/s/wlgi4a/data_indexing_golang"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2026-03-31, 06:55:20",
+      "https://lobste.rs/s/hhoksx/good_cte_bad_cte"
+    ],
+    [
+      "Good CTE, bad CTE",
+      "https://boringsql.com/posts/good-cte-bad-cte/"
+    ]
+  ],
+  [
+    [
       "2026-03-31, 06:11:10",
       "https://lobste.rs/s/us9noo/cocoa_way_native_macos_wayland"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-03-30, 19:32:04",
-      "https://lobste.rs/s/etenwb/vulnerability_research_is_cooked"
-    ],
-    [
-      "Vulnerability Research Is Cooked",
-      "https://sockpuppet.org/blog/2026/03/30/vulnerability-research-is-cooked/"
-    ]
-  ],
-  [
-    [
       "2026-03-30, 17:13:50",
       "https://lobste.rs/s/zudaci/joins_are_not_expensive"
     ],
@@ -167,16 +177,6 @@
     [
       "How to turn anything into a router",
       "https://nbailey.ca/post/router/"
-    ]
-  ],
-  [
-    [
-      "2026-03-30, 15:31:55",
-      "https://lobste.rs/s/v8agk2/numpy_as_synth_engine"
-    ],
-    [
-      "NumPy as Synth Engine",
-      "https://kennethreitz.org/essays/2026-03-29-numpy_as_synth_engine"
     ]
   ],
   [
