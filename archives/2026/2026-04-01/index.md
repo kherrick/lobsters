@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 17:49:53](https://lobste.rs/s/gtb0fc/game_with_programmable_space_combat) - [A game with programmable space combat written in Go](https://store.steampowered.com/app/3024370/NebuLeet)
+* [2026-04-01, 17:29:50](https://lobste.rs/s/d4fw6e/institutional_ai_surrogacy_future_work) - [Institutional AI, Surrogacy, and the Future of Work](https://alnewkirk.com/frameworks/iai)
+* [2026-04-01, 17:16:28](https://lobste.rs/s/xiy7vz/i_traced_my_traffic_through_home) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
 * [2026-04-01, 16:31:50](https://lobste.rs/s/clzjuu/timesliced_reservoir_sampling_new) - [Timesliced reservoir sampling: a new(?) algorithm for profilers](https://pythonspeed.com/articles/reservoir-sampling-profilers/)
 * [2026-04-01, 15:53:03](https://lobste.rs/s/n9i5uw/flowg_road_1_0) - [FlowG - Road to 1.0](https://link-society.github.io/flowg/blog/road-to-stable)
 * [2026-04-01, 13:23:23](https://lobste.rs/s/pzl1g9/linear_types_proposal_for_hare) - [Linear types proposal for Hare](https://yerinalexey.srht.site/borrow/notes.html)
