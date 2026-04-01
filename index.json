@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-01, 13:23:23",
+      "https://lobste.rs/s/pzl1g9/linear_types_proposal_for_hare"
+    ],
+    [
+      "Linear types proposal for Hare",
+      "https://yerinalexey.srht.site/borrow/notes.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 12:52:08",
+      "https://lobste.rs/s/qvpjl2/review_measuring_ai_ability_complete"
+    ],
+    [
+      "Review: Measuring AI Ability to Complete Long Software Tasks",
+      "https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 11:09:34",
+      "https://lobste.rs/s/4qxrg6/don_t_let_ai_write_for_you"
+    ],
+    [
+      "Don't Let AI Write For You",
+      "https://alexhwoods.com/dont-let-ai-write-for-you/"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 10:52:30",
       "https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast"
     ],
@@ -27,6 +57,16 @@
     [
       "Rubysyn: clarifying Ruby's syntax and semantics",
       "https://github.com/squadette/rubysyn/blob/master/README.md"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 09:06:13",
+      "https://lobste.rs/s/jrackt/watch_out_for_missed_warnings_on_vendor_c"
+    ],
+    [
+      "Watch out for missed warnings on vendor C++ toolchains",
+      "https://blog.poly.nomial.co.uk/2026-03-31-watch-out-for-missed-warnings-on-vendor-cpp-toolchains.html"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-03-31, 21:03:30",
-      "https://lobste.rs/s/lqyne4/wastrelly_wabbits"
-    ],
-    [
-      "wastrelly wabbits",
-      "https://wingolog.org/archives/2026/03/31/wastrelly-wabbits"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 20:31:41",
       "https://lobste.rs/s/n42iq0/pidgin_3_0_alpha_1_2_95_0_has_been_released"
     ],
@@ -201,42 +231,12 @@
   ],
   [
     [
-      "2026-03-31, 13:05:57",
-      "https://lobste.rs/s/fbxzte/february_servo_faster_layout_pause"
-    ],
-    [
-      "February in Servo: faster layout, pause and resume scripts, and more",
-      "https://servo.org/blog/2026/03/31/february-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 11:29:40",
-      "https://lobste.rs/s/uf8z1b/autoscaling_ci_for_gitea_rust"
-    ],
-    [
-      "Autoscaling CI for Gitea in Rust",
-      "https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/"
-    ]
-  ],
-  [
-    [
       "2026-03-31, 07:28:23",
       "https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios"
     ],
     [
       "Supply Chain Attack on Axios",
       "https://socket.dev/blog/axios-npm-package-compromised"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 07:02:06",
-      "https://lobste.rs/s/qmb53b/let_commits_tell_story"
-    ],
-    [
-      "Let the commits tell the story",
-      "https://chrismaiorana.com/git-commits-tell-the-story/"
     ]
   ],
   [
