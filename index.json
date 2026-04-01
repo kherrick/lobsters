@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-01, 02:42:24",
+      "https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled"
+    ],
+    [
+      "DSTs Are Just Polymorphically Compiled Generics",
+      "https://faultlore.com/blah/dsts-are-polymorphic-generics/"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 01:11:36",
       "https://lobste.rs/s/olipz6/early_observations_from_interviews_with"
     ],
@@ -157,16 +167,6 @@
     [
       "Autoscaling CI for Gitea in Rust",
       "https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 10:04:00",
-      "https://lobste.rs/s/faygn8/trivially_breaking_confidential_vms"
-    ],
-    [
-      "Trivially breaking confidential VMs",
-      "https://katexochen.aro.bz/posts/badaml/"
     ]
   ],
   [
