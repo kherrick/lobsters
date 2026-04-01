@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-01, 19:18:25",
+      "https://lobste.rs/s/h9zb89/git_bayesect_bayesian_git_bisect"
+    ],
+    [
+      "git_bayesect: Bayesian git bisect",
+      "https://github.com/hauntsaninja/git_bayesect"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 18:19:30",
       "https://lobste.rs/s/xcknxz/indexical_private_local_first_memory_for"
     ],
@@ -137,16 +147,6 @@
     [
       "After 40 years, arbitrary code execution has been achieved in Super Mario Bros",
       "https://youtu.be/bNulp6cDqUU"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 02:42:24",
-      "https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled"
-    ],
-    [
-      "DSTs Are Just Polymorphically Compiled Generics",
-      "https://faultlore.com/blah/dsts-are-polymorphic-generics/"
     ]
   ],
   [
