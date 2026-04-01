@@ -2,8 +2,11 @@
 
 * [2026-04-01, 21:33:58](https://lobste.rs/s/zgnphc/what_would_you_see_changed_haskell) - [What Would You See Changed in Haskell?](https://blog.haskell.org/what-would-you-see-changed-in-haskell/)
 * [2026-04-01, 19:18:25](https://lobste.rs/s/h9zb89/git_bayesect_bayesian_git_bisect) - [git_bayesect: Bayesian git bisect](https://github.com/hauntsaninja/git_bayesect)
+* [2026-04-01, 18:51:19](https://lobste.rs/s/culejy/blogging_typst_is_not_hard) - [Blogging in Typst is not that hard](https://natri.fyi/blogging-in-typst.typ/1.html)
 * [2026-04-01, 18:19:30](https://lobste.rs/s/xcknxz/indexical_private_local_first_memory_for) - [Indexical: Private, local-first memory for everything you read on the web](https://github.com/deejayy/indexical)
 * [2026-04-01, 17:49:53](https://lobste.rs/s/gtb0fc/game_with_programmable_space_combat) - [A game with programmable space combat written in Go](https://store.steampowered.com/app/3024370/NebuLeet)
+* [2026-04-01, 17:16:28](https://lobste.rs/s/xiy7vz/i_traced_my_traffic_through_home) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
+* [2026-04-01, 16:50:21](https://lobste.rs/s/8i7qez/pgit_i_imported_linux_kernel_into) - [pgit: I Imported the Linux Kernel into PostgreSQL](https://oseifert.ch/blog/linux-kernel-pgit)
 * [2026-04-01, 16:31:50](https://lobste.rs/s/clzjuu/timesliced_reservoir_sampling_new) - [Timesliced reservoir sampling: a new(?) algorithm for profilers](https://pythonspeed.com/articles/reservoir-sampling-profilers/)
 * [2026-04-01, 13:23:23](https://lobste.rs/s/pzl1g9/linear_types_proposal_for_hare) - [Linear types proposal for Hare](https://yerinalexey.srht.site/borrow/notes.html)
 * [2026-04-01, 11:20:08](https://lobste.rs/s/xqf5ex/coreutils_comprehensive_review_2023) - [coreutils: a comprehensive review (2023)](https://ratfactor.com/slackware/pkgblog/coreutils)
@@ -12,10 +15,8 @@
 * [2026-04-01, 09:55:03](https://lobste.rs/s/oox3oi/css_bs) - [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs)
 * [2026-04-01, 09:20:54](https://lobste.rs/s/5ffpcd/rubysyn_clarifying_ruby_s_syntax) - [Rubysyn: clarifying Ruby's syntax and semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
 * [2026-04-01, 09:00:36](https://lobste.rs/s/zd797w/red_black_tree_lean_4_prover_with) - [Red-black tree in Lean 4 prover with everything proved](https://rentry.co/8sfon8ez)
-* [2026-04-01, 07:52:02](https://lobste.rs/s/mwhuaq/why_don_t_you_use_string_views_instead) - [Why Don’t You Use String Views Instead of Passing strings by const&?](https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/)
 * [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
 * [2026-04-01, 02:53:15](https://lobste.rs/s/vnlthc/after_40_years_arbitrary_code_execution) - [After 40 years, arbitrary code execution has been achieved in Super Mario Bros](https://youtu.be/bNulp6cDqUU)
-* [2026-04-01, 01:11:36](https://lobste.rs/s/olipz6/early_observations_from_interviews_with) - [Early observations from Interviews with Engineering Teams Adopting AI](https://jonathannen.com/observations-from-interviews/)
 * [2026-04-01, 00:16:22](https://lobste.rs/s/rqzqjz/i_made_keyboard_nobody_asked_for_my) - [I Made a Keyboard Nobody Asked For: My Experience Making TapType](https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/)
 * [2026-03-31, 22:55:39](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code) - [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/)
 * [2026-03-31, 22:15:23](https://lobste.rs/s/sgpxyf/gaim_3_exists) - [Gaim 3 Exists](https://gaim.imfreedom.org/)
@@ -24,7 +25,6 @@
 * [2026-03-31, 19:03:06](https://lobste.rs/s/hssl4e/your_hex_editor_should_color_code_bytes) - [your hex editor should color-code bytes](https://simonomi.dev/blog/color-code-your-bytes/)
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
-* [2026-03-31, 14:08:03](https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 
 ## [Archives](archives/index.md)
 
