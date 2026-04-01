@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-01, 02:42:24](https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled) - [DSTs Are Just Polymorphically Compiled Generics](https://faultlore.com/blah/dsts-are-polymorphic-generics/)
 * [2026-04-01, 01:11:36](https://lobste.rs/s/olipz6/early_observations_from_interviews_with) - [Early observations from Interviews with Engineering Teams Adopting AI](https://jonathannen.com/observations-from-interviews/)
 * [2026-04-01, 00:16:22](https://lobste.rs/s/rqzqjz/i_made_keyboard_nobody_asked_for_my) - [I Made a Keyboard Nobody Asked For: My Experience Making TapType](https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/)
 * [2026-03-31, 22:55:39](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code) - [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/)
@@ -16,7 +17,6 @@
 * [2026-03-31, 13:05:57](https://lobste.rs/s/fbxzte/february_servo_faster_layout_pause) - [February in Servo: faster layout, pause and resume scripts, and more](https://servo.org/blog/2026/03/31/february-in-servo/)
 * [2026-03-31, 12:53:06](https://lobste.rs/s/wlgi4a/data_indexing_golang) - [Data Indexing in Golang](https://hister.org/posts/data-indexing-in-golang)
 * [2026-03-31, 11:29:40](https://lobste.rs/s/uf8z1b/autoscaling_ci_for_gitea_rust) - [Autoscaling CI for Gitea in Rust](https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/)
-* [2026-03-31, 10:04:00](https://lobste.rs/s/faygn8/trivially_breaking_confidential_vms) - [Trivially breaking confidential VMs](https://katexochen.aro.bz/posts/badaml/)
 * [2026-03-31, 07:28:23](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios) - [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised)
 * [2026-03-31, 07:02:06](https://lobste.rs/s/qmb53b/let_commits_tell_story) - [Let the commits tell the story](https://chrismaiorana.com/git-commits-tell-the-story/)
 * [2026-03-31, 06:11:10](https://lobste.rs/s/us9noo/cocoa_way_native_macos_wayland) - [cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay](https://github.com/J-x-Z/cocoa-way)
