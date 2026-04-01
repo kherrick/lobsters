@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-01, 15:53:03](https://lobste.rs/s/n9i5uw/flowg_road_1_0) - [FlowG - Road to 1.0](https://link-society.github.io/flowg/blog/road-to-stable)
 * [2026-04-01, 13:23:23](https://lobste.rs/s/pzl1g9/linear_types_proposal_for_hare) - [Linear types proposal for Hare](https://yerinalexey.srht.site/borrow/notes.html)
 * [2026-04-01, 12:52:08](https://lobste.rs/s/qvpjl2/review_measuring_ai_ability_complete) - [Review: Measuring AI Ability to Complete Long Software Tasks](https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/)
+* [2026-04-01, 11:20:08](https://lobste.rs/s/xqf5ex/coreutils_comprehensive_review_2023) - [coreutils: a comprehensive review (2023)](https://ratfactor.com/slackware/pkgblog/coreutils)
 * [2026-04-01, 11:09:34](https://lobste.rs/s/4qxrg6/don_t_let_ai_write_for_you) - [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you/)
 * [2026-04-01, 10:52:30](https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast) - [SQLite DB: simple, in-process, reliable, fast (2024)](https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html)
 * [2026-04-01, 09:55:03](https://lobste.rs/s/oox3oi/css_bs) - [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs)
 * [2026-04-01, 09:20:54](https://lobste.rs/s/5ffpcd/rubysyn_clarifying_ruby_s_syntax) - [Rubysyn: clarifying Ruby's syntax and semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
-* [2026-04-01, 09:06:13](https://lobste.rs/s/jrackt/watch_out_for_missed_warnings_on_vendor_c) - [Watch out for missed warnings on vendor C++ toolchains](https://blog.poly.nomial.co.uk/2026-03-31-watch-out-for-missed-warnings-on-vendor-cpp-toolchains.html)
 * [2026-04-01, 09:00:36](https://lobste.rs/s/zd797w/red_black_tree_lean_4_prover_with) - [Red-black tree in Lean 4 prover with everything proved](https://rentry.co/8sfon8ez)
 * [2026-04-01, 07:52:02](https://lobste.rs/s/mwhuaq/why_don_t_you_use_string_views_instead) - [Why Don’t You Use String Views Instead of Passing strings by const&?](https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/)
 * [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
@@ -24,7 +25,6 @@
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
 * [2026-03-31, 14:08:03](https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 * [2026-03-31, 07:28:23](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios) - [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised)
-* [2026-03-31, 04:12:15](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - [Why have supply chain attacks become a near daily occurrence ?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 
 ## [Archives](archives/index.md)
 

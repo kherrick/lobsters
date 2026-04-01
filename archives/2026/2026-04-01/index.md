@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 15:53:03](https://lobste.rs/s/n9i5uw/flowg_road_1_0) - [FlowG - Road to 1.0](https://link-society.github.io/flowg/blog/road-to-stable)
 * [2026-04-01, 13:23:23](https://lobste.rs/s/pzl1g9/linear_types_proposal_for_hare) - [Linear types proposal for Hare](https://yerinalexey.srht.site/borrow/notes.html)
 * [2026-04-01, 12:52:08](https://lobste.rs/s/qvpjl2/review_measuring_ai_ability_complete) - [Review: Measuring AI Ability to Complete Long Software Tasks](https://emptysqua.re/blog/review-measuring-ai-ability-to-complete-long-software-tasks/)
+* [2026-04-01, 11:20:08](https://lobste.rs/s/xqf5ex/coreutils_comprehensive_review_2023) - [coreutils: a comprehensive review (2023)](https://ratfactor.com/slackware/pkgblog/coreutils)
 * [2026-04-01, 11:09:34](https://lobste.rs/s/4qxrg6/don_t_let_ai_write_for_you) - [Don't Let AI Write For You](https://alexhwoods.com/dont-let-ai-write-for-you/)
 * [2026-04-01, 10:52:30](https://lobste.rs/s/1zpy4w/sqlite_db_simple_process_reliable_fast) - [SQLite DB: simple, in-process, reliable, fast (2024)](https://binaryigor.com/sqlite-db-simple-in-process-reliable-fast.html)
 * [2026-04-01, 09:55:03](https://lobste.rs/s/oox3oi/css_bs) - [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs)
