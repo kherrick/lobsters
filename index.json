@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-04-01, 18:51:19",
+      "https://lobste.rs/s/culejy/blogging_typst_is_not_hard"
+    ],
+    [
+      "Blogging in Typst is not that hard",
+      "https://natri.fyi/blogging-in-typst.typ/1.html"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 18:19:30",
       "https://lobste.rs/s/xcknxz/indexical_private_local_first_memory_for"
     ],
@@ -37,6 +47,26 @@
     [
       "A game with programmable space combat written in Go",
       "https://store.steampowered.com/app/3024370/NebuLeet"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 17:16:28",
+      "https://lobste.rs/s/xiy7vz/i_traced_my_traffic_through_home"
+    ],
+    [
+      "I Traced My Traffic Through a Home Tailscale Exit Node",
+      "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 16:50:21",
+      "https://lobste.rs/s/8i7qez/pgit_i_imported_linux_kernel_into"
+    ],
+    [
+      "pgit: I Imported the Linux Kernel into PostgreSQL",
+      "https://oseifert.ch/blog/linux-kernel-pgit"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-04-01, 07:52:02",
-      "https://lobste.rs/s/mwhuaq/why_don_t_you_use_string_views_instead"
-    ],
-    [
-      "Why Don’t You Use String Views Instead of Passing strings by const&?",
-      "https://giodicanio.com/2024/05/14/why-dont-you-use-string-views-like-std-wstring_view-instead-of-passing-std-wstring-by-const-reference/"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 06:07:52",
       "https://lobste.rs/s/6gqiqy/self_cancelling_subscription"
     ],
@@ -147,16 +167,6 @@
     [
       "After 40 years, arbitrary code execution has been achieved in Super Mario Bros",
       "https://youtu.be/bNulp6cDqUU"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 01:11:36",
-      "https://lobste.rs/s/olipz6/early_observations_from_interviews_with"
-    ],
-    [
-      "Early observations from Interviews with Engineering Teams Adopting AI",
-      "https://jonathannen.com/observations-from-interviews/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Subprime Technical Debt Crisis",
       "https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 14:08:03",
-      "https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report"
-    ],
-    [
-      "RubyGems Fracture Incident Report",
-      "https://rubycentral.org/news/rubygems-fracture-incident-report/"
     ]
   ]
 ]
