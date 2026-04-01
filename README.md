@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-01, 07:27:03](https://lobste.rs/s/womghi/reconstructing_full_linux_history) - [Reconstructing full Linux history](https://rentry.co/sv4de7ty)
 * [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
 * [2026-04-01, 02:53:15](https://lobste.rs/s/vnlthc/after_40_years_arbitrary_code_execution) - [After 40 years, arbitrary code execution has been achieved in Super Mario Bros](https://youtu.be/bNulp6cDqUU)
 * [2026-04-01, 02:42:24](https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled) - [DSTs Are Just Polymorphically Compiled Generics](https://faultlore.com/blah/dsts-are-polymorphic-generics/)
@@ -14,7 +15,6 @@
 * [2026-03-31, 18:27:16](https://lobste.rs/s/s5z94j/historical_github_uptime_charts) - [Historical GitHub Uptime Charts](https://damrnelson.github.io/github-historical-uptime/)
 * [2026-03-31, 15:44:03](https://lobste.rs/s/g2v6oe/software_you_can_love_2026_tickets_are_on) - [Software You Can Love 2026 tickets are on sale](https://mattnite.net/blog/sycl-2026-tickets-are-here/)
 * [2026-03-31, 15:17:40](https://lobste.rs/s/kp6eap/subprime_technical_debt_crisis) - [The Subprime Technical Debt Crisis](https://blog.happyfellow.dev/the-subprime-technical-debt-crisis/)
-* [2026-03-31, 14:48:34](https://lobste.rs/s/po4bfv/objections_systemd_age_attestation) - [Objections to systemd age-attestation changes go overboard](https://lwn.net/SubscriberLink/1064706/ba8e449d224f5067/)
 * [2026-03-31, 14:08:03](https://lobste.rs/s/jaibqs/rubygems_fracture_incident_report) - [RubyGems Fracture Incident Report](https://rubycentral.org/news/rubygems-fracture-incident-report/)
 * [2026-03-31, 13:05:57](https://lobste.rs/s/fbxzte/february_servo_faster_layout_pause) - [February in Servo: faster layout, pause and resume scripts, and more](https://servo.org/blog/2026/03/31/february-in-servo/)
 * [2026-03-31, 12:53:06](https://lobste.rs/s/wlgi4a/data_indexing_golang) - [Data Indexing in Golang](https://hister.org/posts/data-indexing-in-golang)
