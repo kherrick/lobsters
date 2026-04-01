@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-01, 01:11:36](https://lobste.rs/s/olipz6/early_observations_from_interviews_with) - [Early observations from Interviews with Engineering Teams Adopting AI](https://jonathannen.com/observations-from-interviews/)
+* [2026-04-01, 00:16:22](https://lobste.rs/s/rqzqjz/i_made_keyboard_nobody_asked_for_my) - [I Made a Keyboard Nobody Asked For: My Experience Making TapType](https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/)
 * [2026-03-31, 22:55:39](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code) - [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/)
 * [2026-03-31, 22:15:23](https://lobste.rs/s/sgpxyf/gaim_3_exists) - [Gaim 3 Exists](https://gaim.imfreedom.org/)
 * [2026-03-31, 21:16:35](https://lobste.rs/s/lv540l/plakar_openbsd) - [plakar + openbsd](https://x61.sh/log/2026/03/25032026151800-plakar.html)
@@ -15,10 +17,8 @@
 * [2026-03-31, 12:53:06](https://lobste.rs/s/wlgi4a/data_indexing_golang) - [Data Indexing in Golang](https://hister.org/posts/data-indexing-in-golang)
 * [2026-03-31, 11:29:40](https://lobste.rs/s/uf8z1b/autoscaling_ci_for_gitea_rust) - [Autoscaling CI for Gitea in Rust](https://rustunit.com/blog/2026/03-30-gitea-ci-autoscaler/)
 * [2026-03-31, 10:04:00](https://lobste.rs/s/faygn8/trivially_breaking_confidential_vms) - [Trivially breaking confidential VMs](https://katexochen.aro.bz/posts/badaml/)
-* [2026-03-31, 07:43:21](https://lobste.rs/s/2b2kes/why_your_engineering_team_is_slow_it_s) - [Why Your Engineering Team Is Slow (It's the Codebase, Not the People)](https://piechowski.io/post/codebase-drag-audit/)
 * [2026-03-31, 07:28:23](https://lobste.rs/s/l57wuc/supply_chain_attack_on_axios) - [Supply Chain Attack on Axios](https://socket.dev/blog/axios-npm-package-compromised)
 * [2026-03-31, 07:02:06](https://lobste.rs/s/qmb53b/let_commits_tell_story) - [Let the commits tell the story](https://chrismaiorana.com/git-commits-tell-the-story/)
-* [2026-03-31, 06:58:40](https://lobste.rs/s/ybrnlc/tree_functions_called_during_boot_linux) - [Tree of functions, called during boot of Linux kernel v7.0-rc1](https://zerobin.net/?e19cf19c9589d7f4#x4dHmryKSRUAVekqQC+1bTOA82A5HQid55jyiKXikIA=)
 * [2026-03-31, 06:11:10](https://lobste.rs/s/us9noo/cocoa_way_native_macos_wayland) - [cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay](https://github.com/J-x-Z/cocoa-way)
 * [2026-03-31, 04:12:15](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near) - [Why have supply chain attacks become a near daily occurrence ?](https://lobste.rs/s/nz2wdr/why_have_supply_chain_attacks_become_near)
 * [2026-03-31, 03:26:52](https://lobste.rs/s/pbx5yu/claude_finds_rce_vim_emacs) - [Claude finds RCE in Vim and Emacs](https://blog.calif.io/p/mad-bugs-vim-vs-emacs-vs-claude)
