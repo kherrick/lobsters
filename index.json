@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-04-01, 02:53:15",
+      "https://lobste.rs/s/vnlthc/after_40_years_arbitrary_code_execution"
+    ],
+    [
+      "After 40 years, arbitrary code execution has been achieved in Super Mario Bros",
+      "https://youtu.be/bNulp6cDqUU"
+    ]
+  ],
+  [
+    [
       "2026-04-01, 02:42:24",
       "https://lobste.rs/s/mgga0o/dsts_are_just_polymorphically_compiled"
     ],
@@ -177,16 +187,6 @@
     [
       "February in Servo: faster layout, pause and resume scripts, and more",
       "https://servo.org/blog/2026/03/31/february-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 12:53:06",
-      "https://lobste.rs/s/wlgi4a/data_indexing_golang"
-    ],
-    [
-      "Data Indexing in Golang",
-      "https://hister.org/posts/data-indexing-in-golang"
     ]
   ],
   [
