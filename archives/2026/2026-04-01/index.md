@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-01](index.md)
 
+* [2026-04-01, 18:19:30](https://lobste.rs/s/xcknxz/indexical_private_local_first_memory_for) - [Indexical: Private, local-first memory for everything you read on the web](https://github.com/deejayy/indexical)
 * [2026-04-01, 17:49:53](https://lobste.rs/s/gtb0fc/game_with_programmable_space_combat) - [A game with programmable space combat written in Go](https://store.steampowered.com/app/3024370/NebuLeet)
 * [2026-04-01, 17:29:50](https://lobste.rs/s/d4fw6e/institutional_ai_surrogacy_future_work) - [Institutional AI, Surrogacy, and the Future of Work](https://alnewkirk.com/frameworks/iai)
 * [2026-04-01, 17:16:28](https://lobste.rs/s/xiy7vz/i_traced_my_traffic_through_home) - [I Traced My Traffic Through a Home Tailscale Exit Node](https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/)
