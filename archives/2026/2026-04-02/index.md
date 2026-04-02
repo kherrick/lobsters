@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 14:55:39](https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem) - [I may have solved a long standing problem with Object Oriented systems](https://blog.mempko.com/an-abject-horror/)
+* [2026-04-02, 14:47:18](https://lobste.rs/s/mawxww/taking_multi_master_mariadb_for_spin) - [Taking multi-master MariaDB for a spin, reproducing a Jepsen report](https://theconsensus.dev/p/2026/03/29/taking-galera-for-a-spin.html)
 * [2026-04-02, 14:15:21](https://lobste.rs/s/va209y/jj_v0_40_0_released) - [jj v0.40.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.40.0)
+* [2026-04-02, 13:53:55](https://lobste.rs/s/sc5cbx/quick_look_at_pledge_open_2) - [A quick look at __pledge_open(2)](https://dustri.org/b/a-quick-look-at-__pledge_open2.html)
 * [2026-04-02, 12:39:45](https://lobste.rs/s/adidni/reverse_engineering_crazy_taxi) - [Reverse Engineering Crazy Taxi](https://wretched.computer/post/crazytaxi)
 * [2026-04-02, 12:22:29](https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule) - [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
