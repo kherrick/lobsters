@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-02, 12:39:45",
+      "https://lobste.rs/s/adidni/reverse_engineering_crazy_taxi"
+    ],
+    [
+      "Reverse Engineering Crazy Taxi",
+      "https://wretched.computer/post/crazytaxi"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 12:22:29",
+      "https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule"
+    ],
+    [
+      "Evolving the Node.js Release Schedule",
+      "https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 11:58:52",
       "https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain"
     ],
@@ -67,16 +87,6 @@
     [
       "Libinput Hit By Worrying Security Issues With Its Lua Plug-In System",
       "https://www.phoronix.com/news/Libinput-Lua-Security-Issues"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 05:45:12",
-      "https://lobste.rs/s/kpizkt/ruby_3_2_is_eol_what_you_actually_need_do"
-    ],
-    [
-      "Ruby 3.2 Is EOL: What You Actually Need to Do",
-      "https://piechowski.io/post/ruby-3-2-eol/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Reading leaked Claude Code source code",
       "https://lr0.org/blog/p/claude-code-source/"
-    ]
-  ],
-  [
-    [
-      "2026-03-31, 22:15:23",
-      "https://lobste.rs/s/sgpxyf/gaim_3_exists"
-    ],
-    [
-      "Gaim 3 Exists",
-      "https://gaim.imfreedom.org/"
     ]
   ]
 ]
