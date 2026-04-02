@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-02, 16:35:10",
+      "https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser"
+    ],
+    [
+      "LinkedIn Is Scanning for Browser Extensions",
+      "https://browsergate.eu/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 16:28:45",
       "https://lobste.rs/s/gie57r/rewrites_bio_60x_speedup_genomics_qc_ai"
     ],
@@ -27,6 +37,16 @@
     [
       "Euro-Office, ONLYOFFICE, and their licensing dispute",
       "https://blog.ensko.at/2026/04/02/euro-office/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 15:32:34",
+      "https://lobste.rs/s/yoq0e6/validating_hare_s_sort_module_using"
+    ],
+    [
+      "Validating Hare’s Sort Module using Symbolic Execution",
+      "https://notes.8pit.net/notes/y7n8.html"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-04-02, 06:01:22",
-      "https://lobste.rs/s/es2tfh/libinput_hit_by_worrying_security_issues"
-    ],
-    [
-      "Libinput Hit By Worrying Security Issues With Its Lua Plug-In System",
-      "https://www.phoronix.com/news/Libinput-Lua-Security-Issues"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 03:13:50",
       "https://lobste.rs/s/mrtzbt/quantum_computing_bombshells_are_not"
     ],
@@ -217,16 +227,6 @@
     [
       "Linear types proposal for Hare",
       "https://yerinalexey.srht.site/borrow/notes.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 09:55:03",
-      "https://lobste.rs/s/oox3oi/css_bs"
-    ],
-    [
-      "CSS or BS?",
-      "https://www.keithcirkel.co.uk/css-or-bs"
     ]
   ],
   [
