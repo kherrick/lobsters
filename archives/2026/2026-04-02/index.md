@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 16:35:10](https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser) - [LinkedIn Is Scanning for Browser Extensions](https://browsergate.eu/)
 * [2026-04-02, 16:28:45](https://lobste.rs/s/gie57r/rewrites_bio_60x_speedup_genomics_qc_ai) - [Rewrites.bio: 60x speedup in Genomics QC + AI rewrite guidelines for Science](https://rewrites.bio/)
 * [2026-04-02, 16:25:28](https://lobste.rs/s/8lbmm8/activating_two_trap_cards_at_once_gentle) - [Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding](https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735)
 * [2026-04-02, 15:59:49](https://lobste.rs/s/jtey8e/euro_office_onlyoffice_their_licensing) - [Euro-Office, ONLYOFFICE, and their licensing dispute](https://blog.ensko.at/2026/04/02/euro-office/)
+* [2026-04-02, 15:32:34](https://lobste.rs/s/yoq0e6/validating_hare_s_sort_module_using) - [Validating Hare’s Sort Module using Symbolic Execution](https://notes.8pit.net/notes/y7n8.html)
 * [2026-04-02, 14:55:39](https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem) - [I may have solved a long standing problem with Object Oriented systems](https://blog.mempko.com/an-abject-horror/)
 * [2026-04-02, 14:47:18](https://lobste.rs/s/mawxww/taking_multi_master_mariadb_for_spin) - [Taking multi-master MariaDB for a spin, reproducing a Jepsen report](https://theconsensus.dev/p/2026/03/29/taking-galera-for-a-spin.html)
 * [2026-04-02, 14:15:21](https://lobste.rs/s/va209y/jj_v0_40_0_released) - [jj v0.40.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.40.0)
