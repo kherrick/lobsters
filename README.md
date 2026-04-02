@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-02, 02:00:03](https://lobste.rs/s/phjtbx/python_yet_reforged_entirely) - [Python Yet Reforged Entirely](https://pyre-lang.org/)
+* [2026-04-01, 22:00:23](https://lobste.rs/s/bmujfc/cutting_python_web_app_memory_over_31) - [Cutting Python Web App Memory Over 31%](https://mkennedy.codes/posts/cutting-python-web-app-memory-over-31-percent/)
 * [2026-04-01, 21:33:58](https://lobste.rs/s/zgnphc/what_would_you_see_changed_haskell) - [What Would You See Changed in Haskell?](https://blog.haskell.org/what-would-you-see-changed-in-haskell/)
 * [2026-04-01, 19:18:25](https://lobste.rs/s/h9zb89/git_bayesect_bayesian_git_bisect) - [git_bayesect: Bayesian git bisect](https://github.com/hauntsaninja/git_bayesect)
 * [2026-04-01, 18:51:19](https://lobste.rs/s/culejy/blogging_typst_is_not_hard) - [Blogging in Typst is not that hard](https://natri.fyi/blogging-in-typst.typ/1.html)
@@ -16,8 +18,6 @@
 * [2026-04-01, 09:20:54](https://lobste.rs/s/5ffpcd/rubysyn_clarifying_ruby_s_syntax) - [Rubysyn: clarifying Ruby's syntax and semantics](https://github.com/squadette/rubysyn/blob/master/README.md)
 * [2026-04-01, 09:00:36](https://lobste.rs/s/zd797w/red_black_tree_lean_4_prover_with) - [Red-black tree in Lean 4 prover with everything proved](https://rentry.co/8sfon8ez)
 * [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
-* [2026-04-01, 02:53:15](https://lobste.rs/s/vnlthc/after_40_years_arbitrary_code_execution) - [After 40 years, arbitrary code execution has been achieved in Super Mario Bros](https://youtu.be/bNulp6cDqUU)
-* [2026-04-01, 00:16:22](https://lobste.rs/s/rqzqjz/i_made_keyboard_nobody_asked_for_my) - [I Made a Keyboard Nobody Asked For: My Experience Making TapType](https://fireborn.mataroa.blog/blog/i-made-a-keyboard-nobody-asked-for-my-experience-making-taptype/)
 * [2026-03-31, 22:55:39](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code) - [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/)
 * [2026-03-31, 22:15:23](https://lobste.rs/s/sgpxyf/gaim_3_exists) - [Gaim 3 Exists](https://gaim.imfreedom.org/)
 * [2026-03-31, 21:16:35](https://lobste.rs/s/lv540l/plakar_openbsd) - [plakar + openbsd](https://x61.sh/log/2026/03/25032026151800-plakar.html)
