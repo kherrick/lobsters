@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 23:49:34](https://lobste.rs/s/hp00yw/gentoo_gnu_hurd) - [Gentoo GNU/Hurd](https://www.gentoo.org/news/2026/04/01/gentoo-hurd.html)
 * [2026-04-02, 22:05:05](https://lobste.rs/s/veyrwi/rave_review_superpowers_for_claude_code) - [A Rave Review of Superpowers (for Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 * [2026-04-02, 20:29:18](https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it) - [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
 * [2026-04-02, 19:41:29](https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell) - [landdown - Simple sandboxing for shell scripts](https://git.sr.ht/~marcc/landdown)
