@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-04-02, 14:55:39",
+      "https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem"
+    ],
+    [
+      "I may have solved a long standing problem with Object Oriented systems",
+      "https://blog.mempko.com/an-abject-horror/"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 14:15:21",
       "https://lobste.rs/s/va209y/jj_v0_40_0_released"
     ],
@@ -207,16 +217,6 @@
     [
       "What Would You See Changed in Haskell?",
       "https://blog.haskell.org/what-would-you-see-changed-in-haskell/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 19:18:25",
-      "https://lobste.rs/s/h9zb89/git_bayesect_bayesian_git_bisect"
-    ],
-    [
-      "git_bayesect: Bayesian git bisect",
-      "https://github.com/hauntsaninja/git_bayesect"
     ]
   ],
   [
