@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-04-02, 14:55:39",
+      "https://lobste.rs/s/yk91rd/i_may_have_solved_long_standing_problem"
+    ],
+    [
+      "I may have solved a long standing problem with Object Oriented systems",
+      "https://blog.mempko.com/an-abject-horror/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 14:47:18",
+      "https://lobste.rs/s/mawxww/taking_multi_master_mariadb_for_spin"
+    ],
+    [
+      "Taking multi-master MariaDB for a spin, reproducing a Jepsen report",
+      "https://theconsensus.dev/p/2026/03/29/taking-galera-for-a-spin.html"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 14:15:21",
       "https://lobste.rs/s/va209y/jj_v0_40_0_released"
     ],
     [
       "jj v0.40.0 released",
       "https://github.com/jj-vcs/jj/releases/tag/v0.40.0"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 13:53:55",
+      "https://lobste.rs/s/sc5cbx/quick_look_at_pledge_open_2"
+    ],
+    [
+      "A quick look at __pledge_open(2)",
+      "https://dustri.org/b/a-quick-look-at-__pledge_open2.html"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-04-01, 18:51:19",
-      "https://lobste.rs/s/culejy/blogging_typst_is_not_hard"
-    ],
-    [
-      "Blogging in Typst is not that hard",
-      "https://natri.fyi/blogging-in-typst.typ/1.html"
-    ]
-  ],
-  [
-    [
       "2026-04-01, 18:19:30",
       "https://lobste.rs/s/xcknxz/indexical_private_local_first_memory_for"
     ],
@@ -177,26 +197,6 @@
     [
       "A game with programmable space combat written in Go",
       "https://store.steampowered.com/app/3024370/NebuLeet"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 17:16:28",
-      "https://lobste.rs/s/xiy7vz/i_traced_my_traffic_through_home"
-    ],
-    [
-      "I Traced My Traffic Through a Home Tailscale Exit Node",
-      "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 16:31:50",
-      "https://lobste.rs/s/clzjuu/timesliced_reservoir_sampling_new"
-    ],
-    [
-      "Timesliced reservoir sampling: a new(?) algorithm for profilers",
-      "https://pythonspeed.com/articles/reservoir-sampling-profilers/"
     ]
   ],
   [
