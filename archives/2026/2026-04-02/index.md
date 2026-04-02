@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 12:39:45](https://lobste.rs/s/adidni/reverse_engineering_crazy_taxi) - [Reverse Engineering Crazy Taxi](https://wretched.computer/post/crazytaxi)
+* [2026-04-02, 12:22:29](https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule) - [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 * [2026-04-02, 11:22:50](https://lobste.rs/s/cuomux/martian_time_hare) - [Martian time in Hare](https://harelang.org/blog/2022-08-01-martian-time-in-hare/)
 * [2026-04-02, 10:04:37](https://lobste.rs/s/gugkgj/we_built_postgres_compatibility_for_our) - [We built Postgres compatibility for our database and made it reusable libraries](https://greptime.com/blogs/2026-04-01-greptimedb-postgresql-compatibility)

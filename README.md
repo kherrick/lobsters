@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-02, 12:39:45](https://lobste.rs/s/adidni/reverse_engineering_crazy_taxi) - [Reverse Engineering Crazy Taxi](https://wretched.computer/post/crazytaxi)
+* [2026-04-02, 12:22:29](https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule) - [Evolving the Node.js Release Schedule](https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 * [2026-04-02, 11:22:50](https://lobste.rs/s/cuomux/martian_time_hare) - [Martian time in Hare](https://harelang.org/blog/2022-08-01-martian-time-in-hare/)
 * [2026-04-02, 10:04:37](https://lobste.rs/s/gugkgj/we_built_postgres_compatibility_for_our) - [We built Postgres compatibility for our database and made it reusable libraries](https://greptime.com/blogs/2026-04-01-greptimedb-postgresql-compatibility)
@@ -7,7 +9,6 @@
 * [2026-04-02, 08:21:40](https://lobste.rs/s/idoeyr/running_out_disk_space_on_launch) - [Running out of Disk Space on Launch](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
 * [2026-04-02, 08:01:26](https://lobste.rs/s/ovtazh/packaging_128_languages_with_nix) - [Packaging 128 languages with Nix](https://invariant.club/articles/packaging-128-programming-languages-with-nix.html)
 * [2026-04-02, 06:01:22](https://lobste.rs/s/es2tfh/libinput_hit_by_worrying_security_issues) - [Libinput Hit By Worrying Security Issues With Its Lua Plug-In System](https://www.phoronix.com/news/Libinput-Lua-Security-Issues)
-* [2026-04-02, 05:45:12](https://lobste.rs/s/kpizkt/ruby_3_2_is_eol_what_you_actually_need_do) - [Ruby 3.2 Is EOL: What You Actually Need to Do](https://piechowski.io/post/ruby-3-2-eol/)
 * [2026-04-02, 03:13:50](https://lobste.rs/s/mrtzbt/quantum_computing_bombshells_are_not) - [Quantum computing bombshells that are not April Fools](https://scottaaronson.blog/?p=9665)
 * [2026-04-02, 02:00:03](https://lobste.rs/s/phjtbx/python_yet_reforged_entirely) - [Python Yet Reforged Entirely](https://pyre-lang.org/)
 * [2026-04-01, 22:07:10](https://lobste.rs/s/m3b3fk/email_obfuscation_what_works_2026) - [Email obfuscation: What works in 2026?](https://spencermortensen.com/articles/email-obfuscation/)
@@ -24,7 +25,6 @@
 * [2026-04-01, 09:55:03](https://lobste.rs/s/oox3oi/css_bs) - [CSS or BS?](https://www.keithcirkel.co.uk/css-or-bs)
 * [2026-04-01, 06:07:52](https://lobste.rs/s/6gqiqy/self_cancelling_subscription) - [The Self-Cancelling Subscription](https://predr.ag/blog/the-self-cancelling-subscription/)
 * [2026-03-31, 22:55:39](https://lobste.rs/s/6c8cwq/reading_leaked_claude_code_source_code) - [Reading leaked Claude Code source code](https://lr0.org/blog/p/claude-code-source/)
-* [2026-03-31, 22:15:23](https://lobste.rs/s/sgpxyf/gaim_3_exists) - [Gaim 3 Exists](https://gaim.imfreedom.org/)
 
 ## [Archives](archives/index.md)
 
