@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 22:05:05](https://lobste.rs/s/veyrwi/rave_review_superpowers_for_claude_code) - [A Rave Review of Superpowers (for Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
+* [2026-04-02, 20:29:18](https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it) - [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
 * [2026-04-02, 19:41:29](https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell) - [landdown - Simple sandboxing for shell scripts](https://git.sr.ht/~marcc/landdown)
 * [2026-04-02, 19:18:59](https://lobste.rs/s/orqp4v/how_we_built_virtual_filesystem_for_our) - [How we built a virtual filesystem for our Assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 * [2026-04-02, 16:35:10](https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser) - [LinkedIn Is Scanning for Browser Extensions](https://browsergate.eu/)
