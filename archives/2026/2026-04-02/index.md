@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 19:41:29](https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell) - [landdown - Simple sandboxing for shell scripts](https://git.sr.ht/~marcc/landdown)
+* [2026-04-02, 19:18:59](https://lobste.rs/s/orqp4v/how_we_built_virtual_filesystem_for_our) - [How we built a virtual filesystem for our Assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)
 * [2026-04-02, 16:35:10](https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser) - [LinkedIn Is Scanning for Browser Extensions](https://browsergate.eu/)
 * [2026-04-02, 16:28:45](https://lobste.rs/s/gie57r/rewrites_bio_60x_speedup_genomics_qc_ai) - [Rewrites.bio: 60x speedup in Genomics QC + AI rewrite guidelines for Science](https://rewrites.bio/)
 * [2026-04-02, 16:25:28](https://lobste.rs/s/8lbmm8/activating_two_trap_cards_at_once_gentle) - [Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding](https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735)
