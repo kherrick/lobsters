@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-02](index.md)
 
+* [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
+* [2026-04-02, 11:22:50](https://lobste.rs/s/cuomux/martian_time_hare) - [Martian time in Hare](https://harelang.org/blog/2022-08-01-martian-time-in-hare/)
 * [2026-04-02, 10:04:37](https://lobste.rs/s/gugkgj/we_built_postgres_compatibility_for_our) - [We built Postgres compatibility for our database and made it reusable libraries](https://greptime.com/blogs/2026-04-01-greptimedb-postgresql-compatibility)
 * [2026-04-02, 08:24:11](https://lobste.rs/s/thfvnd/pgenie_sql_first_code_generator_for) - [pGenie – SQL-first code generator for PostgreSQL (Haskell, Rust, Java)](https://pgenie.io/)
 * [2026-04-02, 08:21:40](https://lobste.rs/s/idoeyr/running_out_disk_space_on_launch) - [Running out of Disk Space on Launch](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
