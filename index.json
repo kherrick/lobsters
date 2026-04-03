@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2026-04-03, 12:17:43",
+      "https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime"
+    ],
+    [
+      "Lisette — Rust syntax, Go runtime",
+      "https://lisette.run"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 11:18:16",
       "https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend"
     ],
@@ -207,16 +217,6 @@
     [
       "Every dependency you add is a supply chain attack waiting to happen",
       "https://benhoyt.com/writings/dependencies/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 08:24:11",
-      "https://lobste.rs/s/thfvnd/pgenie_sql_first_code_generator_for"
-    ],
-    [
-      "pGenie – SQL-first code generator for PostgreSQL (Haskell, Rust, Java)",
-      "https://pgenie.io/"
     ]
   ],
   [
