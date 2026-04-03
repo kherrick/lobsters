@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-03, 21:56:30](https://lobste.rs/s/fqtput/proposal_for_voluntary_ai_disclosure) - [A Proposal for Voluntary AI Disclosure in OCaml Code](https://anil.recoil.org/notes/opam-ai-disclosure)
 * [2026-04-03, 21:44:29](https://lobste.rs/s/mksk9n/rails_on_beam) - [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html)
 * [2026-04-03, 20:49:12](https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your) - [Why Nobody Can Verify What Booted Your Server](https://unmitigatedrisk.com/?p=1231)
 * [2026-04-03, 18:14:06](https://lobste.rs/s/8iqxqc/design_ai_memory_systems) - [The Design of AI Memory Systems](https://tombedor.dev/approaches-to-agent-memory/)
@@ -17,7 +18,6 @@
 * [2026-04-03, 09:52:11](https://lobste.rs/s/unme8t/ssh_certificates_better_ssh_experience) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 * [2026-04-03, 08:29:40](https://lobste.rs/s/yy4uyc/800_rust_terminal_projects_3_years) - [800 Rust terminal projects in 3 years](https://blog.orhun.dev/800-rust-projects/)
 * [2026-04-03, 04:54:13](https://lobste.rs/s/1jf9b5/1subml_experimental_ml_like_programming) - [1SubMl: experimental ML-like programming language with a unified module and value language, and more](https://github.com/Storyyeller/1subml?tab=readme-ov-file)
-* [2026-04-03, 02:14:29](https://lobste.rs/s/6rq90r/css_engine_ocaml) - [A CSS Engine in OCaml](https://gazagnaire.org/blog/2026-04-02-cascade.html)
 * [2026-04-02, 22:05:05](https://lobste.rs/s/veyrwi/rave_review_superpowers_for_claude_code) - [A Rave Review of Superpowers (for Claude Code)](https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/)
 * [2026-04-02, 20:29:18](https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it) - [I used AI. It worked. I hated it](https://taggart-tech.com/reckoning/)
 * [2026-04-02, 19:41:29](https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell) - [landdown - Simple sandboxing for shell scripts](https://git.sr.ht/~marcc/landdown)

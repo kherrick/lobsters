@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 21:56:30](https://lobste.rs/s/fqtput/proposal_for_voluntary_ai_disclosure) - [A Proposal for Voluntary AI Disclosure in OCaml Code](https://anil.recoil.org/notes/opam-ai-disclosure)
 * [2026-04-03, 21:44:29](https://lobste.rs/s/mksk9n/rails_on_beam) - [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html)
 * [2026-04-03, 20:49:12](https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your) - [Why Nobody Can Verify What Booted Your Server](https://unmitigatedrisk.com/?p=1231)
 * [2026-04-03, 20:25:28](https://lobste.rs/s/sapeid/private_open_source) - [Private Open Source](https://brokenco.de/2026/04/01/private-open-source.html)
