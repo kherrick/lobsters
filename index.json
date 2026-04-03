@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-03, 20:01:33",
-      "https://lobste.rs/s/vuua7z/understanding_ultrahonk_verifier"
+      "2026-04-03, 20:49:12",
+      "https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your"
     ],
     [
-      "Understanding the Ultrahonk Verifier",
-      "https://hashcloak.com/blog/understanding-the-ultrahonk-verifier"
+      "Why Nobody Can Verify What Booted Your Server",
+      "https://unmitigatedrisk.com/?p=1231"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 20:25:28",
+      "https://lobste.rs/s/sapeid/private_open_source"
+    ],
+    [
+      "Private Open Source",
+      "https://brokenco.de/2026/04/01/private-open-source.html"
     ]
   ],
   [
@@ -61,32 +71,12 @@
   ],
   [
     [
-      "2026-04-03, 14:50:47",
-      "https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability"
-    ],
-    [
-      "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-      "https://mtlynch.io/claude-code-found-linux-vulnerability/"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 14:30:48",
       "https://lobste.rs/s/3fprl8/slap_functional_concatenative_language"
     ],
     [
       "Slap: Functional Concatenative Language... with a Borrow Checker?",
       "https://taylor.town/slap-000"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 12:29:22",
-      "https://lobste.rs/s/rsarce/apfel_free_ai_already_on_your_mac"
-    ],
-    [
-      "apfel: Free AI already on your Mac",
-      "https://apfel.franzai.com"
     ]
   ],
   [
@@ -181,26 +171,6 @@
   ],
   [
     [
-      "2026-04-02, 22:05:05",
-      "https://lobste.rs/s/veyrwi/rave_review_superpowers_for_claude_code"
-    ],
-    [
-      "A Rave Review of Superpowers (for Claude Code)",
-      "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 20:29:18",
-      "https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it"
-    ],
-    [
-      "I used AI. It worked. I hated it",
-      "https://taggart-tech.com/reckoning/"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 19:41:29",
       "https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell"
     ],
@@ -221,12 +191,12 @@
   ],
   [
     [
-      "2026-04-02, 16:25:28",
-      "https://lobste.rs/s/8lbmm8/activating_two_trap_cards_at_once_gentle"
+      "2026-04-02, 15:59:49",
+      "https://lobste.rs/s/jtey8e/euro_office_onlyoffice_their_licensing"
     ],
     [
-      "Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding",
-      "https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735"
+      "Euro-Office, ONLYOFFICE, and their licensing dispute",
+      "https://blog.ensko.at/2026/04/02/euro-office/"
     ]
   ],
   [
@@ -247,6 +217,36 @@
     [
       "Every dependency you add is a supply chain attack waiting to happen",
       "https://benhoyt.com/writings/dependencies/"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 08:21:40",
+      "https://lobste.rs/s/idoeyr/running_out_disk_space_production"
+    ],
+    [
+      "Running out of Disk Space in Production",
+      "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-02, 08:01:26",
+      "https://lobste.rs/s/ovtazh/packaging_128_languages_with_nix"
+    ],
+    [
+      "Packaging 128 languages with Nix",
+      "https://invariant.club/articles/packaging-128-programming-languages-with-nix.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-01, 21:33:58",
+      "https://lobste.rs/s/zgnphc/what_would_you_see_changed_haskell"
+    ],
+    [
+      "What Would You See Changed in Haskell?",
+      "https://blog.haskell.org/what-would-you-see-changed-in-haskell/"
     ]
   ]
 ]
