@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-04-03, 09:53:22",
+      "https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file"
+    ],
+    [
+      "Adobe wrote to my hosts file",
+      "https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 09:52:11",
+      "https://lobste.rs/s/unme8t/ssh_certificates_better_ssh_experience"
+    ],
+    [
+      "SSH certificates: the better SSH experience",
+      "https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 08:29:40",
       "https://lobste.rs/s/yy4uyc/800_rust_terminal_projects_3_years"
     ],
     [
       "800 Rust terminal projects in 3 years",
       "https://blog.orhun.dev/800-rust-projects/"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 05:01:26",
-      "https://lobste.rs/s/cwzmdl/offensive_cybersecurity_time_horizons"
-    ],
-    [
-      "Offensive Cybersecurity Time Horizons",
-      "https://lyptusresearch.org/research/offensive-cyber-time-horizons"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Euro-Office, ONLYOFFICE, and their licensing dispute",
       "https://blog.ensko.at/2026/04/02/euro-office/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 15:32:34",
-      "https://lobste.rs/s/yoq0e6/validating_hare_s_sort_module_using"
-    ],
-    [
-      "Validating Hare’s Sort Module using Symbolic Execution",
-      "https://notes.8pit.net/notes/y7n8.html"
     ]
   ],
   [
