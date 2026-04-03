@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-03, 13:28:50",
-      "https://lobste.rs/s/aaaw7y/big_endian_testing_with_qemu"
+      "2026-04-03, 12:29:22",
+      "https://lobste.rs/s/rsarce/apfel_free_ai_already_on_your_mac"
     ],
     [
-      "Big-Endian Testing with QEMU",
-      "https://www.hanshq.net/big-endian-qemu.html"
+      "apfel: Free AI already on your Mac",
+      "https://apfel.franzai.com"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-04-02, 19:18:59",
+      "https://lobste.rs/s/orqp4v/how_we_built_virtual_filesystem_for_our"
+    ],
+    [
+      "How we built a virtual filesystem for our Assistant",
+      "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
+    ]
+  ],
+  [
+    [
       "2026-04-02, 16:35:10",
       "https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser"
     ],
@@ -227,16 +237,6 @@
     [
       "Packaging 128 languages with Nix",
       "https://invariant.club/articles/packaging-128-programming-languages-with-nix.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-01, 22:07:10",
-      "https://lobste.rs/s/m3b3fk/email_obfuscation_what_works_2026"
-    ],
-    [
-      "Email obfuscation: What works in 2026?",
-      "https://spencermortensen.com/articles/email-obfuscation/"
     ]
   ],
   [
