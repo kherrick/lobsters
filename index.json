@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-03, 13:28:50",
+      "https://lobste.rs/s/aaaw7y/big_endian_testing_with_qemu"
+    ],
+    [
+      "Big-Endian Testing with QEMU",
+      "https://www.hanshq.net/big-endian-qemu.html"
+    ]
+  ],
+  [
+    [
       "2026-04-03, 11:18:16",
       "https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend"
     ],
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2026-04-03, 11:08:54",
+      "https://lobste.rs/s/vtqfx7/idiomatic_lisp_nbody_benchmark"
+    ],
+    [
+      "Idiomatic Lisp and the nbody benchmark",
+      "https://www.stylewarning.com/posts/nbody/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-04-02, 19:18:59",
-      "https://lobste.rs/s/orqp4v/how_we_built_virtual_filesystem_for_our"
-    ],
-    [
-      "How we built a virtual filesystem for our Assistant",
-      "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant"
-    ]
-  ],
-  [
-    [
       "2026-04-02, 16:35:10",
       "https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser"
     ],
@@ -177,16 +187,6 @@
     [
       "Reverse Engineering Crazy Taxi",
       "https://wretched.computer/post/crazytaxi"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 12:22:29",
-      "https://lobste.rs/s/ad1syc/evolving_node_js_release_schedule"
-    ],
-    [
-      "Evolving the Node.js Release Schedule",
-      "https://nodejs.org/en/blog/announcements/evolving-the-nodejs-release-schedule"
     ]
   ],
   [
