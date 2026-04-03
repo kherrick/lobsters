@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-03, 17:36:21](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix) - [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix)
 * [2026-04-03, 16:09:55](https://lobste.rs/s/vplcij/baby_s_second_garbage_collector) - [Baby’s Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
 * [2026-04-03, 15:41:17](https://lobste.rs/s/4vcjwj/signals_push_pull_based_algorithm) - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
+* [2026-04-03, 15:37:25](https://lobste.rs/s/s04of3/build_your_own_dial_up_isp_with_raspberry) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 * [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
 * [2026-04-03, 12:29:22](https://lobste.rs/s/rsarce/apfel_free_ai_already_on_your_mac) - [apfel: Free AI already on your Mac](https://apfel.franzai.com)
@@ -19,12 +21,10 @@
 * [2026-04-02, 19:41:29](https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell) - [landdown - Simple sandboxing for shell scripts](https://git.sr.ht/~marcc/landdown)
 * [2026-04-02, 16:35:10](https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser) - [LinkedIn Is Scanning for Browser Extensions](https://browsergate.eu/)
 * [2026-04-02, 16:25:28](https://lobste.rs/s/8lbmm8/activating_two_trap_cards_at_once_gentle) - [Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding](https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735)
-* [2026-04-02, 15:59:49](https://lobste.rs/s/jtey8e/euro_office_onlyoffice_their_licensing) - [Euro-Office, ONLYOFFICE, and their licensing dispute](https://blog.ensko.at/2026/04/02/euro-office/)
 * [2026-04-02, 14:15:21](https://lobste.rs/s/va209y/jj_v0_40_0_released) - [jj v0.40.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.40.0)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 * [2026-04-02, 08:21:40](https://lobste.rs/s/idoeyr/running_out_disk_space_production) - [Running out of Disk Space in Production](https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html)
 * [2026-04-02, 08:01:26](https://lobste.rs/s/ovtazh/packaging_128_languages_with_nix) - [Packaging 128 languages with Nix](https://invariant.club/articles/packaging-128-programming-languages-with-nix.html)
-* [2026-04-01, 21:33:58](https://lobste.rs/s/zgnphc/what_would_you_see_changed_haskell) - [What Would You See Changed in Haskell?](https://blog.haskell.org/what-would-you-see-changed-in-haskell/)
 
 ## [Archives](archives/index.md)
 
