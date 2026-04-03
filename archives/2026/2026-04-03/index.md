@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-03](index.md)
 
+* [2026-04-03, 18:14:06](https://lobste.rs/s/8iqxqc/design_ai_memory_systems) - [The Design of AI Memory Systems](https://tombedor.dev/approaches-to-agent-memory/)
 * [2026-04-03, 17:36:21](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix) - [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix)
 * [2026-04-03, 16:09:55](https://lobste.rs/s/vplcij/baby_s_second_garbage_collector) - [Baby’s Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
 * [2026-04-03, 15:41:17](https://lobste.rs/s/4vcjwj/signals_push_pull_based_algorithm) - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
