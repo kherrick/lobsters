@@ -10,6 +10,7 @@
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
 * [2026-04-03, 13:28:50](https://lobste.rs/s/aaaw7y/big_endian_testing_with_qemu) - [Big-Endian Testing with QEMU](https://www.hanshq.net/big-endian-qemu.html)
 * [2026-04-03, 12:29:22](https://lobste.rs/s/rsarce/apfel_free_ai_already_on_your_mac) - [apfel: Free AI already on your Mac](https://apfel.franzai.com)
+* [2026-04-03, 12:17:43](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime) - [Lisette — Rust syntax, Go runtime](https://lisette.run)
 * [2026-04-03, 11:18:16](https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend)
 * [2026-04-03, 11:08:54](https://lobste.rs/s/vtqfx7/idiomatic_lisp_nbody_benchmark) - [Idiomatic Lisp and the nbody benchmark](https://www.stylewarning.com/posts/nbody/)
 * [2026-04-03, 09:53:22](https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file) - [Adobe wrote to my hosts file](https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/)
