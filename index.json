@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-04, 11:28:31",
-      "https://lobste.rs/s/xqttxu/absurd_production"
+      "2026-04-04, 13:38:41",
+      "https://lobste.rs/s/b3vgkb/days_since_openclaw_cve"
     ],
     [
-      "Absurd In Production",
-      "https://lucumr.pocoo.org/2026/4/4/absurd-in-production/"
+      "Days Since Openclaw CVE",
+      "https://days-since-openclaw-cve.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-04, 13:34:43",
+      "https://lobste.rs/s/bor4wy/embarrassingly_simple_self"
+    ],
+    [
+      "Embarrassingly Simple Self-Distillation Improves Code Generation",
+      "https://arxiv.org/abs/2604.01193"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Why Nobody Can Verify What Booted Your Server",
       "https://unmitigatedrisk.com/?p=1231"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 18:14:06",
-      "https://lobste.rs/s/8iqxqc/design_ai_memory_systems"
-    ],
-    [
-      "The Design of AI Memory Systems",
-      "https://tombedor.dev/approaches-to-agent-memory/"
     ]
   ],
   [
