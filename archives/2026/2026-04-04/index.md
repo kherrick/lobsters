@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 20:02:38](https://lobste.rs/s/tdjklb/mathematical_methods_human_thought_age) - [Mathematical methods and human thought in the age of AI](https://arxiv.org/pdf/2603.26524)
 * [2026-04-04, 19:18:09](https://lobste.rs/s/o7ulwh/cva6_cfi_first_glance_at_risc_v_control) - [CVA6-CFI: A First Glance at RISC-V Control-Flow Integrity Extensions](https://arxiv.org/pdf/2602.04991)
 * [2026-04-04, 18:36:53](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived) - [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
 * [2026-04-04, 16:30:19](https://lobste.rs/s/gxtycj/what_kind_productivity_tools_do_you_use_if) - [What kind of productivity tools do you use, if any?](https://lobste.rs/s/gxtycj/what_kind_productivity_tools_do_you_use_if)
