@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-04, 13:34:43](https://lobste.rs/s/bor4wy/embarrassingly_simple_self) - [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
+* [2026-04-04, 11:28:31](https://lobste.rs/s/xqttxu/absurd_production) - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
 * [2026-04-04, 09:21:44](https://lobste.rs/s/063ldo/why_lean) - [Why Lean?](https://leodemoura.github.io/blog/2026-4-2-why-lean/)
 * [2026-04-04, 05:01:33](https://lobste.rs/s/8sqd2j/feature_has_never_worked_broken_auto_live) - [The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code](https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html)
 * [2026-04-04, 04:18:54](https://lobste.rs/s/wdq10i/your_code_is_worthless) - [Your code is worthless](https://nathanielfishel.substack.com/p/your-code-is-worthless)
@@ -9,7 +10,6 @@
 * [2026-04-03, 23:55:14](https://lobste.rs/s/59wywf/c89cc_sh_standalone_c89_elf64_compiler) - [c89cc.sh - standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
 * [2026-04-03, 21:44:29](https://lobste.rs/s/mksk9n/rails_on_beam) - [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html)
 * [2026-04-03, 20:49:12](https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your) - [Why Nobody Can Verify What Booted Your Server](https://unmitigatedrisk.com/?p=1231)
-* [2026-04-03, 18:14:06](https://lobste.rs/s/8iqxqc/design_ai_memory_systems) - [The Design of AI Memory Systems](https://tombedor.dev/approaches-to-agent-memory/)
 * [2026-04-03, 17:36:21](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix) - [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix)
 * [2026-04-03, 16:09:55](https://lobste.rs/s/vplcij/baby_s_second_garbage_collector) - [Baby’s Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
 * [2026-04-03, 15:41:17](https://lobste.rs/s/4vcjwj/signals_push_pull_based_algorithm) - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
