@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-04-04](index.md)
+
+* [2026-04-04, 02:10:13](https://lobste.rs/s/lqthae/functional_algorithms_verified) - [Functional Algorithms, Verified](https://www21.in.tum.de/teaching/fds/SS21/assets/book-draft.pdf)
