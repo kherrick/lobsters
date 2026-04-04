@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-04, 20:02:38",
+      "https://lobste.rs/s/tdjklb/mathematical_methods_human_thought_age"
+    ],
+    [
+      "Mathematical methods and human thought in the age of AI",
+      "https://arxiv.org/pdf/2603.26524"
+    ]
+  ],
+  [
+    [
       "2026-04-04, 19:18:09",
       "https://lobste.rs/s/o7ulwh/cva6_cfi_first_glance_at_risc_v_control"
     ],
@@ -237,16 +247,6 @@
     [
       "800 Rust terminal projects in 3 years",
       "https://blog.orhun.dev/800-rust-projects/"
-    ]
-  ],
-  [
-    [
-      "2026-04-02, 20:29:18",
-      "https://lobste.rs/s/7d8dxv/i_used_ai_it_worked_i_hated_it"
-    ],
-    [
-      "I used AI. It worked. I hated it",
-      "https://taggart-tech.com/reckoning/"
     ]
   ]
 ]
