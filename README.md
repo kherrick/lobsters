@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-04, 05:01:33](https://lobste.rs/s/8sqd2j/feature_has_never_worked_broken_auto_live) - [The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code](https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html)
 * [2026-04-04, 04:18:54](https://lobste.rs/s/wdq10i/your_code_is_worthless) - [Your code is worthless](https://nathanielfishel.substack.com/p/your-code-is-worthless)
 * [2026-04-04, 02:10:13](https://lobste.rs/s/lqthae/functional_algorithms_verified) - [Functional Algorithms, Verified](https://www21.in.tum.de/teaching/fds/SS21/assets/book-draft.pdf)
 * [2026-04-03, 23:55:14](https://lobste.rs/s/59wywf/c89cc_sh_standalone_c89_elf64_compiler) - [c89cc.sh - standalone C89/ELF64 compiler in pure portable shell](https://gist.github.com/alganet/2b89c4368f8d23d033961d8a3deb5c19)
@@ -24,6 +23,7 @@
 * [2026-04-02, 19:41:29](https://lobste.rs/s/fpkia4/landdown_simple_sandboxing_for_shell) - [landdown - Simple sandboxing for shell scripts](https://git.sr.ht/~marcc/landdown)
 * [2026-04-02, 16:35:10](https://lobste.rs/s/d5lzvy/linkedin_is_scanning_for_browser) - [LinkedIn Is Scanning for Browser Extensions](https://browsergate.eu/)
 * [2026-04-02, 16:25:28](https://lobste.rs/s/8lbmm8/activating_two_trap_cards_at_once_gentle) - [Activating Two Trap Cards at Once, or: A Gentle Response to the Popularity of Vibecoding](https://gist.github.com/MostAwesomeDude/560185c24f959f6fec229739cb5a6735)
+* [2026-04-02, 14:15:21](https://lobste.rs/s/va209y/jj_v0_40_0_released) - [jj v0.40.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.40.0)
 * [2026-04-02, 11:58:52](https://lobste.rs/s/j6uemk/every_dependency_you_add_is_supply_chain) - [Every dependency you add is a supply chain attack waiting to happen](https://benhoyt.com/writings/dependencies/)
 
 ## [Archives](archives/index.md)
