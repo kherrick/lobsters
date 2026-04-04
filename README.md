@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-04, 15:42:27](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
 * [2026-04-04, 13:34:43](https://lobste.rs/s/bor4wy/embarrassingly_simple_self) - [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 11:28:31](https://lobste.rs/s/xqttxu/absurd_production) - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
 * [2026-04-04, 09:21:44](https://lobste.rs/s/063ldo/why_lean) - [Why Lean?](https://leodemoura.github.io/blog/2026-4-2-why-lean/)
@@ -16,7 +17,6 @@
 * [2026-04-03, 15:37:25](https://lobste.rs/s/s04of3/build_your_own_dial_up_isp_with_raspberry) - [Build your own Dial-up ISP with a Raspberry Pi](https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/)
 * [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
-* [2026-04-03, 12:29:22](https://lobste.rs/s/rsarce/apfel_free_ai_already_on_your_mac) - [apfel: Free AI already on your Mac](https://apfel.franzai.com)
 * [2026-04-03, 12:17:43](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime) - [Lisette — Rust syntax, Go runtime](https://lisette.run)
 * [2026-04-03, 11:18:16](https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/v5xax7/what_are_you_doing_this_weekend)
 * [2026-04-03, 11:08:54](https://lobste.rs/s/vtqfx7/idiomatic_lisp_nbody_benchmark) - [Idiomatic Lisp and the nbody benchmark](https://www.stylewarning.com/posts/nbody/)

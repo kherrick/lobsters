@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-04](index.md)
 
+* [2026-04-04, 15:42:27](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
 * [2026-04-04, 13:38:41](https://lobste.rs/s/b3vgkb/days_since_openclaw_cve) - [Days Since Openclaw CVE](https://days-since-openclaw-cve.com/)
 * [2026-04-04, 13:34:43](https://lobste.rs/s/bor4wy/embarrassingly_simple_self) - [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
 * [2026-04-04, 11:28:31](https://lobste.rs/s/xqttxu/absurd_production) - [Absurd In Production](https://lucumr.pocoo.org/2026/4/4/absurd-in-production/)
