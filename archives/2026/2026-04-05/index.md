@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 19:36:05](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments) - [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix)
 * [2026-04-05, 17:49:21](https://lobste.rs/s/vw7mod/neomd_minimal_email_tui_where_you_read) - [neomd: A minimal email TUI where you read with Markdown and write in Neovim](https://github.com/ssp-data/neomd)
 * [2026-04-05, 17:28:16](https://lobste.rs/s/6yzx8a/artificial_intelligence_saturation) - [(Artificial) Intelligence saturation and the future of work](https://www.brookings.edu/articles/artificial-intelligence-saturation-and-the-future-of-work/)
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
