@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 23:47:57](https://lobste.rs/s/cwpulr/turn_based_collaboration_ai_agents_with) - [Turn-Based Collaboration: AI Agents with Multiple Personalities](https://alnewkirk.com/projects/tbc)
 * [2026-04-05, 21:37:38](https://lobste.rs/s/xtaigx/agentic_coding_at_clickhouse) - [Agentic coding at Clickhouse](https://clickhouse.com/blog/agentic-coding)
 * [2026-04-05, 19:52:41](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog) - [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc)
 * [2026-04-05, 19:47:13](https://lobste.rs/s/avubpi/can_we_measure_software_slop_experiment) - [Can We Measure Software Slop? An Experiment](https://pscanf.com/s/352/)

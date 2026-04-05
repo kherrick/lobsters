@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-05, 23:47:57](https://lobste.rs/s/cwpulr/turn_based_collaboration_ai_agents_with) - [Turn-Based Collaboration: AI Agents with Multiple Personalities](https://alnewkirk.com/projects/tbc)
 * [2026-04-05, 21:37:38](https://lobste.rs/s/xtaigx/agentic_coding_at_clickhouse) - [Agentic coding at Clickhouse](https://clickhouse.com/blog/agentic-coding)
 * [2026-04-05, 19:52:41](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog) - [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc)
 * [2026-04-05, 19:47:13](https://lobste.rs/s/avubpi/can_we_measure_software_slop_experiment) - [Can We Measure Software Slop? An Experiment](https://pscanf.com/s/352/)
@@ -24,7 +25,6 @@
 * [2026-04-04, 15:42:27](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
 * [2026-04-04, 05:01:33](https://lobste.rs/s/8sqd2j/feature_has_never_worked_broken_auto_live) - [The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code](https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html)
 * [2026-04-04, 04:18:54](https://lobste.rs/s/wdq10i/your_code_is_worthless) - [Your code is worthless](https://nathanielfishel.substack.com/p/your-code-is-worthless)
-* [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 
 ## [Archives](archives/index.md)
 
