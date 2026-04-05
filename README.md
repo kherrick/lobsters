@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 16:16:35](https://lobste.rs/s/teftmt/components_coding_agent) - [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-05, 16:07:30](https://lobste.rs/s/vw1uir/mvidia_game_where_you_build_gpu) - [Mvidia: A game where you build a GPU](https://jaso1024.com/mvidia/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
@@ -12,7 +13,6 @@
 * [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad) - [Writing Lisp is AI Resistant and I'm Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 * [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 * [2026-04-05, 01:53:07](https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint) - [setting up the atkey.pro usb fingerprint reader in linux](https://gist.github.com/charmparticle/a3f3ccb804f9f79115e9d88892363e7f)
-* [2026-04-05, 01:22:36](https://lobste.rs/s/uvd41y/what_are_senders_good_for_anyway_2024) - [What are Senders Good For, Anyway? (2024)](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
 * [2026-04-04, 22:36:09](https://lobste.rs/s/gx4ato/making_gamedev_tooling_for_windows_3_1) - [Making Gamedev Tooling For Windows 3.1 in Turbo C++](https://www.youtube.com/watch?v=-7mc-D5V4L8)
 * [2026-04-04, 20:49:42](https://lobste.rs/s/fqjzje/value_numbering) - [Value numbering](https://bernsteinbear.com/blog/value-numbering/)
 * [2026-04-04, 20:31:56](https://lobste.rs/s/5kuph5/cathedral_bazaar_winchester_mystery) - [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)

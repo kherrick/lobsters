@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 16:16:35](https://lobste.rs/s/teftmt/components_coding_agent) - [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
 * [2026-04-05, 16:07:30](https://lobste.rs/s/vw1uir/mvidia_game_where_you_build_gpu) - [Mvidia: A game where you build a GPU](https://jaso1024.com/mvidia/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
