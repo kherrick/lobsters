@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 14:25:45](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls) - [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit)
 * [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 12:58:46](https://lobste.rs/s/uffroj/building_slogbox) - [Building slogbox](https://alexrios.me/blog/slogbox-devlog/)
 * [2026-04-05, 09:42:46](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine) - [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
