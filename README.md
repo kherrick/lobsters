@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad_dan_s) - [Writing Lisp is AI Resistant and I'm Sad — Dan's Musings](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+* [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 * [2026-04-05, 01:53:07](https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint) - [setting up the atkey.pro usb fingerprint reader in linux -- this should also work for any fido2 u2p usb fingerprint reader; maybe even those $20 ones](https://gist.github.com/charmparticle/a3f3ccb804f9f79115e9d88892363e7f)
 * [2026-04-05, 01:22:36](https://lobste.rs/s/uvd41y/what_are_senders_good_for_anyway_2024) - [What are Senders Good For, Anyway? (2024)](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
 * [2026-04-04, 22:36:09](https://lobste.rs/s/gx4ato/making_gamedev_tooling_for_windows_3_1) - [Making Gamedev Tooling For Windows 3.1 in Turbo C++](https://www.youtube.com/watch?v=-7mc-D5V4L8)
@@ -14,7 +16,6 @@
 * [2026-04-04, 05:01:33](https://lobste.rs/s/8sqd2j/feature_has_never_worked_broken_auto_live) - [The Feature That Has Never Worked · A broken auto-live poller, and what perceived urgency does to Claude Code](https://christophermeiklejohn.com/ai/zabriskie/reliability/2026/04/03/the-feature-that-has-never-worked.html)
 * [2026-04-04, 04:18:54](https://lobste.rs/s/wdq10i/your_code_is_worthless) - [Your code is worthless](https://nathanielfishel.substack.com/p/your-code-is-worthless)
 * [2026-04-04, 01:40:11](https://lobste.rs/s/exmliu/legibility_is_ruining_you) - [Legibility is Ruining You](https://jimmyhmiller.com/legibility-is-ruining-you)
-* [2026-04-03, 21:44:29](https://lobste.rs/s/mksk9n/rails_on_beam) - [Rails on the BEAM](https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html)
 * [2026-04-03, 20:49:12](https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your) - [Why Nobody Can Verify What Booted Your Server](https://unmitigatedrisk.com/?p=1231)
 * [2026-04-03, 17:36:21](https://lobste.rs/s/vintrg/making_type_checker_lsp_for_nix) - [Making a Type Checker/LSP for Nix](https://johns.codes/blog/making-a-type-checker-lsp-for-nix)
 * [2026-04-03, 16:09:55](https://lobste.rs/s/vplcij/baby_s_second_garbage_collector) - [Baby’s Second Garbage Collector](https://www.matheusmoreira.com/articles/babys-second-garbage-collector)
@@ -22,7 +23,6 @@
 * [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
 * [2026-04-03, 12:17:43](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime) - [Lisette — Rust syntax, Go runtime](https://lisette.run)
-* [2026-04-03, 11:08:54](https://lobste.rs/s/vtqfx7/idiomatic_lisp_nbody_benchmark) - [Idiomatic Lisp and the nbody benchmark](https://www.stylewarning.com/posts/nbody/)
 * [2026-04-03, 09:53:22](https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file) - [Adobe wrote to my hosts file](https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/)
 * [2026-04-03, 09:52:11](https://lobste.rs/s/unme8t/ssh_certificates_better_ssh_experience) - [SSH certificates: the better SSH experience](https://jpmens.net/2026/04/03/ssh-certificates-the-better-ssh-experience/)
 
