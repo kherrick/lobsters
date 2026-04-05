@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-05, 19:36:05",
+      "https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments"
+    ],
+    [
+      "unnix: Reproducible Nix environments without installing Nix",
+      "https://github.com/figsoda/unnix"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 17:49:21",
       "https://lobste.rs/s/vw7mod/neomd_minimal_email_tui_where_you_read"
     ],
@@ -197,16 +207,6 @@
     [
       "Where can I find the old internet?",
       "https://lobste.rs/s/v7r423/where_can_i_find_old_internet"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 09:21:44",
-      "https://lobste.rs/s/063ldo/why_lean"
-    ],
-    [
-      "Why Lean?",
-      "https://leodemoura.github.io/blog/2026-4-2-why-lean/"
     ]
   ],
   [
