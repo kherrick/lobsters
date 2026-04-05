@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
+* [2026-04-05, 12:58:46](https://lobste.rs/s/uffroj/building_slogbox) - [Building slogbox](https://alexrios.me/blog/slogbox-devlog/)
 * [2026-04-05, 09:42:46](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine) - [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
 * [2026-04-05, 07:56:24](https://lobste.rs/s/zmevgd/sam_text_editor_tips) - [Sam text editor tips](https://9lab.org/plan9/sam/)
 * [2026-04-05, 06:45:23](https://lobste.rs/s/3m7sbl/rethinking_open_source_mentorship_ai_era) - [Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)
