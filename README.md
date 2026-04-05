@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-05, 16:16:35](https://lobste.rs/s/teftmt/components_coding_agent) - [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
+* [2026-04-05, 16:07:30](https://lobste.rs/s/vw1uir/mvidia_game_where_you_build_gpu) - [Mvidia: A game where you build a GPU](https://jaso1024.com/mvidia/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 15:00:50](https://lobste.rs/s/7sgdhv/building_dry_run_mode_for_opentelemetry) - [Building a dry-run mode for the OpenTelemetry Collector](https://simme.dev/posts/building-a-dry-run-mode-for-the-opentelemetry-collector/)
 * [2026-04-05, 14:25:45](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls) - [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit)
@@ -7,14 +9,13 @@
 * [2026-04-05, 12:58:46](https://lobste.rs/s/uffroj/building_slogbox) - [Building slogbox](https://alexrios.me/blog/slogbox-devlog/)
 * [2026-04-05, 09:42:46](https://lobste.rs/s/8o6hst/roogle_rust_api_search_engine) - [Roogle: A Rust API search engine](https://github.com/roogle-rs/roogle)
 * [2026-04-05, 07:56:24](https://lobste.rs/s/zmevgd/sam_text_editor_tips) - [Sam text editor tips](https://9lab.org/plan9/sam/)
-* [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad_dan_s) - [Writing Lisp is AI Resistant and I'm Sad — Dan's Musings](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+* [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad) - [Writing Lisp is AI Resistant and I'm Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 * [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 * [2026-04-05, 01:53:07](https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint) - [setting up the atkey.pro usb fingerprint reader in linux](https://gist.github.com/charmparticle/a3f3ccb804f9f79115e9d88892363e7f)
 * [2026-04-05, 01:22:36](https://lobste.rs/s/uvd41y/what_are_senders_good_for_anyway_2024) - [What are Senders Good For, Anyway? (2024)](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
 * [2026-04-04, 22:36:09](https://lobste.rs/s/gx4ato/making_gamedev_tooling_for_windows_3_1) - [Making Gamedev Tooling For Windows 3.1 in Turbo C++](https://www.youtube.com/watch?v=-7mc-D5V4L8)
 * [2026-04-04, 20:49:42](https://lobste.rs/s/fqjzje/value_numbering) - [Value numbering](https://bernsteinbear.com/blog/value-numbering/)
 * [2026-04-04, 20:31:56](https://lobste.rs/s/5kuph5/cathedral_bazaar_winchester_mystery) - [The Cathedral, the Bazaar, and the Winchester Mystery House](https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html)
-* [2026-04-04, 19:18:09](https://lobste.rs/s/o7ulwh/cva6_cfi_first_glance_at_risc_v_control) - [CVA6-CFI: A First Glance at RISC-V Control-Flow Integrity Extensions](https://arxiv.org/pdf/2602.04991)
 * [2026-04-04, 18:36:53](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived) - [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
 * [2026-04-04, 15:42:27](https://lobste.rs/s/v7r423/where_can_i_find_old_internet) - [Where can I find the old internet?](https://lobste.rs/s/v7r423/where_can_i_find_old_internet)
 * [2026-04-04, 13:34:43](https://lobste.rs/s/bor4wy/embarrassingly_simple_self) - [Embarrassingly Simple Self-Distillation Improves Code Generation](https://arxiv.org/abs/2604.01193)
@@ -24,7 +25,6 @@
 * [2026-04-04, 04:18:54](https://lobste.rs/s/wdq10i/your_code_is_worthless) - [Your code is worthless](https://nathanielfishel.substack.com/p/your-code-is-worthless)
 * [2026-04-03, 14:50:47](https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability) - [Claude Code Found a Linux Vulnerability Hidden for 23 Years](https://mtlynch.io/claude-code-found-linux-vulnerability/)
 * [2026-04-03, 14:30:48](https://lobste.rs/s/3fprl8/slap_functional_concatenative_language) - [Slap: Functional Concatenative Language... with a Borrow Checker?](https://taylor.town/slap-000)
-* [2026-04-03, 12:17:43](https://lobste.rs/s/rw62j7/lisette_rust_syntax_go_runtime) - [Lisette — Rust syntax, Go runtime](https://lisette.run)
 
 ## [Archives](archives/index.md)
 

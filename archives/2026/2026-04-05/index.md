@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-05](index.md)
 
+* [2026-04-05, 16:16:35](https://lobste.rs/s/teftmt/components_coding_agent) - [Components of A Coding Agent](https://magazine.sebastianraschka.com/p/components-of-a-coding-agent)
+* [2026-04-05, 16:07:30](https://lobste.rs/s/vw1uir/mvidia_game_where_you_build_gpu) - [Mvidia: A game where you build a GPU](https://jaso1024.com/mvidia/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 15:00:50](https://lobste.rs/s/7sgdhv/building_dry_run_mode_for_opentelemetry) - [Building a dry-run mode for the OpenTelemetry Collector](https://simme.dev/posts/building-a-dry-run-mode-for-the-opentelemetry-collector/)
 * [2026-04-05, 14:25:45](https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls) - [DPI bypass using eBPF sock_ops and fake TLS ClientHello injection](https://github.com/boratanrikulu/gecit)
@@ -13,6 +15,7 @@
 * [2026-04-05, 07:56:24](https://lobste.rs/s/zmevgd/sam_text_editor_tips) - [Sam text editor tips](https://9lab.org/plan9/sam/)
 * [2026-04-05, 06:45:23](https://lobste.rs/s/3m7sbl/rethinking_open_source_mentorship_ai_era) - [Rethinking open source mentorship in the AI era](https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/)
 * [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad_dan_s) - [Writing Lisp is AI Resistant and I'm Sad — Dan's Musings](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
+* [2026-04-05, 04:36:01](https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad) - [Writing Lisp is AI Resistant and I'm Sad](https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/)
 * [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 * [2026-04-05, 01:53:07](https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint) - [setting up the atkey.pro usb fingerprint reader in linux -- this should also work for any fido2 u2p usb fingerprint reader; maybe even those $20 ones](https://gist.github.com/charmparticle/a3f3ccb804f9f79115e9d88892363e7f)
 * [2026-04-05, 01:22:36](https://lobste.rs/s/uvd41y/what_are_senders_good_for_anyway_2024) - [What are Senders Good For, Anyway? (2024)](https://ericniebler.com/2024/02/04/what-are-senders-good-for-anyway/)
