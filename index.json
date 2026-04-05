@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-05, 15:12:55",
+      "https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months"
+    ],
+    [
+      "Eight years of wanting, three months of building with AI",
+      "https://lalitm.com/post/building-syntaqlite-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 15:00:50",
+      "https://lobste.rs/s/7sgdhv/building_dry_run_mode_for_opentelemetry"
+    ],
+    [
+      "Building a dry-run mode for the OpenTelemetry Collector",
+      "https://simme.dev/posts/building-a-dry-run-mode-for-the-opentelemetry-collector/"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 14:25:45",
       "https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-03, 20:49:12",
-      "https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your"
-    ],
-    [
-      "Why Nobody Can Verify What Booted Your Server",
-      "https://unmitigatedrisk.com/?p=1231"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 14:50:47",
       "https://lobste.rs/s/lh9rmv/claude_code_found_linux_vulnerability"
     ],
@@ -237,16 +247,6 @@
     [
       "Lisette — Rust syntax, Go runtime",
       "https://lisette.run"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 09:53:22",
-      "https://lobste.rs/s/kltbuq/adobe_wrote_my_hosts_file"
-    ],
-    [
-      "Adobe wrote to my hosts file",
-      "https://www.reddit.com/r/webdev/comments/1sb6hzk/adobe_wrote_to_my_hosts_file_ive_never_had_an_app/"
     ]
   ]
 ]
