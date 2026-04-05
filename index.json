@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-05, 14:25:45",
+      "https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls"
+    ],
+    [
+      "DPI bypass using eBPF sock_ops and fake TLS ClientHello injection",
+      "https://github.com/boratanrikulu/gecit"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 13:19:50",
       "https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust"
     ],
@@ -197,16 +207,6 @@
     [
       "Why Nobody Can Verify What Booted Your Server",
       "https://unmitigatedrisk.com/?p=1231"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 16:09:55",
-      "https://lobste.rs/s/vplcij/baby_s_second_garbage_collector"
-    ],
-    [
-      "Baby’s Second Garbage Collector",
-      "https://www.matheusmoreira.com/articles/babys-second-garbage-collector"
     ]
   ],
   [
