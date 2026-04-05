@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-05, 04:36:01",
+      "https://lobste.rs/s/hfwu86/writing_lisp_is_ai_resistant_i_m_sad_dan_s"
+    ],
+    [
+      "Writing Lisp is AI Resistant and I'm Sad — Dan's Musings",
+      "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/"
+    ]
+  ],
+  [
+    [
+      "2026-04-05, 03:47:51",
+      "https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your"
+    ],
+    [
+      "If you thought the speed of writing code was your problem - you have bigger problems",
+      "https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems"
+    ]
+  ],
+  [
+    [
       "2026-04-05, 01:53:07",
       "https://lobste.rs/s/uai6zz/setting_up_atkey_pro_usb_fingerprint"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-04-03, 21:44:29",
-      "https://lobste.rs/s/mksk9n/rails_on_beam"
-    ],
-    [
-      "Rails on the BEAM",
-      "https://intertwingly.net/blog/2026/04/02/Rails-on-the-BEAM.html"
-    ]
-  ],
-  [
-    [
       "2026-04-03, 20:49:12",
       "https://lobste.rs/s/uagdwq/why_nobody_can_verify_what_booted_your"
     ],
@@ -217,16 +227,6 @@
     [
       "Lisette — Rust syntax, Go runtime",
       "https://lisette.run"
-    ]
-  ],
-  [
-    [
-      "2026-04-03, 11:08:54",
-      "https://lobste.rs/s/vtqfx7/idiomatic_lisp_nbody_benchmark"
-    ],
-    [
-      "Idiomatic Lisp and the nbody benchmark",
-      "https://www.stylewarning.com/posts/nbody/"
     ]
   ],
   [
