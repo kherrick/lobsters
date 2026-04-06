@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
+* [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
+* [2026-04-06, 16:16:13](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week)
 * [2026-04-06, 16:00:20](https://lobste.rs/s/dltblc/overlayfs_for_redoxos) - [OverlayFS for RedoxOS](https://scientiac.space/blog/redox-overlayfs/)
 * [2026-04-06, 14:18:47](https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not) - [I Tried Vibing an RSS Reader and My Dreams Did Not Come True](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/)
+* [2026-04-06, 14:15:59](https://lobste.rs/s/bwckmz/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/accumulated/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
 * [2026-04-06, 13:21:04](https://lobste.rs/s/p8mdic/building_diy_openclaw) - [Building a DIY OpenClaw](https://ben.page/claude-mac)
 * [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
