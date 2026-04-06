@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-06, 16:38:37",
+      "https://lobste.rs/s/q49re5/returning_work_after_year_long_illness"
+    ],
+    [
+      "Returning to work after a year-long illness - what AI tools & workflows are you using nowadays?",
+      "https://lobste.rs/s/q49re5/returning_work_after_year_long_illness"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 16:23:07",
       "https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design"
     ],
@@ -27,6 +37,16 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/izy0eh/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 16:00:20",
+      "https://lobste.rs/s/dltblc/overlayfs_for_redoxos"
+    ],
+    [
+      "OverlayFS for RedoxOS",
+      "https://scientiac.space/blog/redox-overlayfs/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "The machines are fine. I'm worried about us",
       "https://ergosphere.blog/posts/the-machines-are-fine/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 10:46:03",
-      "https://lobste.rs/s/jgvhjn/introducing_profiling_explorer"
-    ],
-    [
-      "Introducing profiling-explorer",
-      "https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "If you thought the speed of writing code was your problem - you have bigger problems",
       "https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems"
-    ]
-  ],
-  [
-    [
-      "2026-04-04, 18:36:53",
-      "https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived"
-    ],
-    [
-      "The nvim-treesitter repository was archived",
-      "https://github.com/nvim-treesitter/nvim-treesitter"
     ]
   ]
 ]
