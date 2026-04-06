@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
+* [2026-04-06, 19:20:23](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key) - [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172)
 * [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 * [2026-04-06, 16:38:37](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness) - [Returning to work after a year-long illness - what AI tools & workflows are you using nowadays?](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness)
 * [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
@@ -10,7 +12,6 @@
 * [2026-04-06, 14:15:59](https://lobste.rs/s/bwckmz/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/accumulated/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
 * [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
-* [2026-04-06, 12:20:29](https://lobste.rs/s/6hrzg5/growing_yggdrasil_world_tree_with_ash) - [Growing Yggdrasil, the World Tree, with Ash](https://www.newresalhaider.com/post/yggdrasil/)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
@@ -20,7 +21,6 @@
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)
 * [2026-04-06, 02:07:55](https://lobste.rs/s/g0kwsq/endian_wars_anti_portability) - [Endian wars and anti-portability](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
-* [2026-04-05, 19:36:05](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments) - [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix)
 * [2026-04-05, 17:49:21](https://lobste.rs/s/vw7mod/neomd_minimal_email_tui_where_you_read) - [neomd: A minimal email TUI where you read with Markdown and write in Neovim](https://github.com/ssp-data/neomd)
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
