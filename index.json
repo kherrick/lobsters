@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-06, 05:35:46",
+      "https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented"
+    ],
+    [
+      "Should developer tooling be reinvented for AI-assisted programming?",
+      "https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 05:01:47",
+      "https://lobste.rs/s/miurfk/gabe_newell_is_shitting_yacht_money_into"
+    ],
+    [
+      "Gabe Newell Is Shitting Yacht Money into Flatpak and You're Still Arguing about Init Systems",
+      "https://s3kshun8.games/blog/flatpak-won/"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 03:44:40",
       "https://lobste.rs/s/omgusm/make_your_own_colecovision_at_home_part_5"
     ],
@@ -12,10 +32,10 @@
   [
     [
       "2026-04-06, 03:12:39",
-      "https://lobste.rs/s/cwbgnf/size_matters_with_tcp"
+      "https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast"
     ],
     [
-      "Size matters with TCP",
+      "Size matters, even on very fast connections",
       "https://maurycyz.com/misc/13kb/"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "Turn-Based Collaboration: AI Agents with Multiple Personalities",
       "https://alnewkirk.com/projects/tbc"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 21:37:38",
-      "https://lobste.rs/s/xtaigx/agentic_coding_at_clickhouse"
-    ],
-    [
-      "Agentic coding at Clickhouse",
-      "https://clickhouse.com/blog/agentic-coding"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "A tail-call interpreter in (nightly) Rust",
       "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 12:58:46",
-      "https://lobste.rs/s/uffroj/building_slogbox"
-    ],
-    [
-      "Building slogbox",
-      "https://alexrios.me/blog/slogbox-devlog/"
     ]
   ],
   [
