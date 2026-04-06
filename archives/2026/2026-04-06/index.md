@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
+* [2026-04-06, 13:21:04](https://lobste.rs/s/p8mdic/building_diy_openclaw) - [Building a DIY OpenClaw](https://ben.page/claude-mac)
 * [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
 * [2026-04-06, 12:20:29](https://lobste.rs/s/6hrzg5/growing_yggdrasil_world_tree_with_ash) - [Growing Yggdrasil, the World Tree, with Ash](https://www.newresalhaider.com/post/yggdrasil/)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
@@ -16,6 +17,7 @@
 * [2026-04-06, 06:31:02](https://lobste.rs/s/kimmfm/it_has_never_been_about_code) - [It has never been about code](https://www.ufried.com/blog/never_been_about_code/)
 * [2026-04-06, 06:13:31](https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css) - [dev.css: tiny, simple, classless CSS framework inspired by new.css](https://tangled.org/devins.page/dev.css)
 * [2026-04-06, 05:35:46](https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented) - [Should developer tooling be reinvented for AI-assisted programming?](https://lobste.rs/s/das5h0/should_developer_tooling_be_reinvented)
+* [2026-04-06, 05:01:47](https://lobste.rs/s/miurfk/packaging_init_systems) - [Packaging and Init Systems](https://s3kshun8.games/blog/flatpak-won/)
 * [2026-04-06, 05:01:47](https://lobste.rs/s/miurfk/gabe_newell_is_shitting_yacht_money_into) - [Gabe Newell Is Shitting Yacht Money into Flatpak and You're Still Arguing about Init Systems](https://s3kshun8.games/blog/flatpak-won/)
 * [2026-04-06, 03:44:40](https://lobste.rs/s/omgusm/make_your_own_colecovision_at_home_part_5) - [Make your own ColecoVision at home, part 5](https://www.leadedsolder.com/2026/03/24/colecovision-diy-part-5.html)
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_with_tcp) - [Size matters with TCP](https://maurycyz.com/misc/13kb/)
