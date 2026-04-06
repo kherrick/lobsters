@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-06, 10:46:03",
+      "https://lobste.rs/s/jgvhjn/introducing_profiling_explorer"
+    ],
+    [
+      "Introducing profiling-explorer",
+      "https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 10:20:56",
       "https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users"
     ],
@@ -157,16 +167,6 @@
     [
       "Stamp It! All Programs Must Report Their Version",
       "https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 16:07:30",
-      "https://lobste.rs/s/vw1uir/mvidia_game_where_you_build_gpu"
-    ],
-    [
-      "Mvidia: A game where you build a GPU",
-      "https://jaso1024.com/mvidia/"
     ]
   ],
   [
