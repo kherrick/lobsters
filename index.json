@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-04-06, 13:21:35",
+      "https://lobste.rs/s/qiva5o/using_discord_on_plan_9"
+    ],
+    [
+      "Using Discord on Plan 9",
+      "https://pmikkelsen.com/plan9/discord"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 12:53:58",
+      "https://lobste.rs/s/h1yxwk/real_world_case_property_based"
+    ],
+    [
+      "A real-world case of property-based verification",
+      "https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 12:20:29",
+      "https://lobste.rs/s/6hrzg5/growing_yggdrasil_world_tree_with_ash"
+    ],
+    [
+      "Growing Yggdrasil, the World Tree, with Ash",
+      "https://www.newresalhaider.com/post/yggdrasil/"
+    ]
+  ],
+  [
+    [
+      "2026-04-06, 12:08:46",
+      "https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us"
+    ],
+    [
+      "The machines are fine. I'm worried about us",
+      "https://ergosphere.blog/posts/the-machines-are-fine/"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 10:46:03",
       "https://lobste.rs/s/jgvhjn/introducing_profiling_explorer"
     ],
@@ -51,32 +91,12 @@
   ],
   [
     [
-      "2026-04-06, 06:31:02",
-      "https://lobste.rs/s/kimmfm/it_has_never_been_about_code"
-    ],
-    [
-      "It has never been about code",
-      "https://www.ufried.com/blog/never_been_about_code/"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 06:13:31",
       "https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css"
     ],
     [
       "dev.css: tiny, simple, classless CSS framework inspired by new.css",
       "https://tangled.org/devins.page/dev.css"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 05:01:47",
-      "https://lobste.rs/s/miurfk/gabe_newell_is_shitting_yacht_money_into"
-    ],
-    [
-      "Gabe Newell Is Shitting Yacht Money into Flatpak and You're Still Arguing about Init Systems",
-      "https://s3kshun8.games/blog/flatpak-won/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-04-05, 15:00:50",
-      "https://lobste.rs/s/7sgdhv/building_dry_run_mode_for_opentelemetry"
-    ],
-    [
-      "Building a dry-run mode for the OpenTelemetry Collector",
-      "https://simme.dev/posts/building-a-dry-run-mode-for-the-opentelemetry-collector/"
-    ]
-  ],
-  [
-    [
       "2026-04-05, 14:25:45",
       "https://lobste.rs/s/dmdvje/dpi_bypass_using_ebpf_sock_ops_fake_tls"
     ],
@@ -217,16 +227,6 @@
     [
       "Roogle: A Rust API search engine",
       "https://github.com/roogle-rs/roogle"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 07:56:24",
-      "https://lobste.rs/s/zmevgd/sam_text_editor_tips"
-    ],
-    [
-      "Sam text editor tips",
-      "https://9lab.org/plan9/sam/"
     ]
   ],
   [
