@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 21:06:13](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp) - [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 * [2026-04-06, 20:02:45](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery) - [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
 * [2026-04-06, 19:20:23](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key) - [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172)
@@ -24,7 +25,6 @@
 * [2026-04-05, 17:49:21](https://lobste.rs/s/vw7mod/neomd_minimal_email_tui_where_you_read) - [neomd: A minimal email TUI where you read with Markdown and write in Neovim](https://github.com/ssp-data/neomd)
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
-* [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 
 ## [Archives](archives/index.md)
 
