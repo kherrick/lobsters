@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
 * [2026-04-06, 07:03:43](https://lobste.rs/s/nnh9qk/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
 * [2026-04-06, 06:31:02](https://lobste.rs/s/kimmfm/it_has_never_been_about_code) - [It has never been about code](https://www.ufried.com/blog/never_been_about_code/)
@@ -10,7 +11,6 @@
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)
 * [2026-04-06, 02:07:55](https://lobste.rs/s/g0kwsq/endian_wars_anti_portability) - [Endian wars and anti-portability](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
-* [2026-04-05, 23:47:57](https://lobste.rs/s/cwpulr/turn_based_collaboration_ai_agents_with) - [Turn-Based Collaboration: AI Agents with Multiple Personalities](https://alnewkirk.com/projects/tbc)
 * [2026-04-05, 19:52:41](https://lobste.rs/s/z4zroy/parsing_asciidoc_prolog) - [Parsing AsciiDoc in Prolog](https://github.com/alexpdp7/prolog-asciidoc/blob/main/parsing-asciidoc-in-prolog.adoc)
 * [2026-04-05, 19:47:13](https://lobste.rs/s/avubpi/can_we_measure_software_slop_experiment) - [Can We Measure Software Slop? An Experiment](https://pscanf.com/s/352/)
 * [2026-04-05, 19:36:05](https://lobste.rs/s/itmyc4/unnix_reproducible_nix_environments) - [unnix: Reproducible Nix environments without installing Nix](https://github.com/figsoda/unnix)
