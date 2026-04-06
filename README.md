@@ -1,15 +1,16 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 16:38:37](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness) - [Returning to work after a year-long illness - what AI tools & workflows are you using nowadays?](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness)
 * [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
 * [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 * [2026-04-06, 16:16:13](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week)
+* [2026-04-06, 16:00:20](https://lobste.rs/s/dltblc/overlayfs_for_redoxos) - [OverlayFS for RedoxOS](https://scientiac.space/blog/redox-overlayfs/)
 * [2026-04-06, 14:18:47](https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not) - [I Tried Vibing an RSS Reader and My Dreams Did Not Come True](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/)
 * [2026-04-06, 14:15:59](https://lobste.rs/s/bwckmz/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/accumulated/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
 * [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
 * [2026-04-06, 12:20:29](https://lobste.rs/s/6hrzg5/growing_yggdrasil_world_tree_with_ash) - [Growing Yggdrasil, the World Tree, with Ash](https://www.newresalhaider.com/post/yggdrasil/)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
-* [2026-04-06, 10:46:03](https://lobste.rs/s/jgvhjn/introducing_profiling_explorer) - [Introducing profiling-explorer](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
@@ -24,7 +25,6 @@
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
 * [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
-* [2026-04-04, 18:36:53](https://lobste.rs/s/jr4acs/nvim_treesitter_repository_was_archived) - [The nvim-treesitter repository was archived](https://github.com/nvim-treesitter/nvim-treesitter)
 
 ## [Archives](archives/index.md)
 
