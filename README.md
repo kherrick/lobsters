@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 * [2026-04-06, 16:38:37](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness) - [Returning to work after a year-long illness - what AI tools & workflows are you using nowadays?](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness)
 * [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
 * [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
@@ -24,7 +25,6 @@
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 * [2026-04-05, 13:19:50](https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust) - [A tail-call interpreter in (nightly) Rust](https://www.mattkeeter.com/blog/2026-04-05-tailcall/)
-* [2026-04-05, 03:47:51](https://lobste.rs/s/05o8yu/if_you_thought_speed_writing_code_was_your) - [If you thought the speed of writing code was your problem - you have bigger problems](https://debuggingleadership.com/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 * [2026-04-06, 16:38:37](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness) - [Returning to work after a year-long illness - what AI tools & workflows are you using nowadays?](https://lobste.rs/s/q49re5/returning_work_after_year_long_illness)
 * [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
 * [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
