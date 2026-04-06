@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 20:02:45](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery) - [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
 * [2026-04-06, 19:20:23](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key) - [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172)
 * [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)

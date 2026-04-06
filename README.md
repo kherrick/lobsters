@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 20:02:45](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery) - [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
 * [2026-04-06, 19:20:23](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key) - [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172)
 * [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
@@ -9,7 +10,6 @@
 * [2026-04-06, 16:16:13](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week)
 * [2026-04-06, 16:00:20](https://lobste.rs/s/dltblc/overlayfs_for_redoxos) - [OverlayFS for RedoxOS](https://scientiac.space/blog/redox-overlayfs/)
 * [2026-04-06, 14:18:47](https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not) - [I Tried Vibing an RSS Reader and My Dreams Did Not Come True](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/)
-* [2026-04-06, 14:15:59](https://lobste.rs/s/bwckmz/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/accumulated/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
 * [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
