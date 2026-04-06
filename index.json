@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-06, 21:06:13",
+      "https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp"
+    ],
+    [
+      "We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days",
+      "https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking"
+    ]
+  ],
+  [
+    [
       "2026-04-06, 20:02:45",
       "https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery"
     ],
@@ -237,16 +247,6 @@
     [
       "Eight years of wanting, three months of building with AI",
       "https://lalitm.com/post/building-syntaqlite-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-05, 13:19:50",
-      "https://lobste.rs/s/ektobz/tail_call_interpreter_nightly_rust"
-    ],
-    [
-      "A tail-call interpreter in (nightly) Rust",
-      "https://www.mattkeeter.com/blog/2026-04-05-tailcall/"
     ]
   ]
 ]
