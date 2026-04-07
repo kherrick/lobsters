@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/oatmeal_seed_beneath_snow) - [Oatmeal - The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 05:50:20](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is) - [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-07, 04:07:39](https://lobste.rs/s/mvfdga/clojure_on_fennel_part_one_persistent) - [Clojure on Fennel part one: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
 * [2026-04-06, 21:35:29](https://lobste.rs/s/etfkgx/retargeting_jit_compilers_by_using_c) - [Retargeting JIT compilers by using C-compiler generated executable code (2004)](https://www.cs.arizona.edu/~collberg/Teaching/553/2011/Resources/jit.pdf)
@@ -14,7 +15,6 @@
 * [2026-04-06, 16:16:13](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/izy0eh/what_are_you_doing_this_week)
 * [2026-04-06, 14:18:47](https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not) - [I Tried Vibing an RSS Reader and My Dreams Did Not Come True](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
-* [2026-04-06, 12:53:58](https://lobste.rs/s/h1yxwk/real_world_case_property_based) - [A real-world case of property-based verification](https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
