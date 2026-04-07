@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-07, 10:47:45",
-      "https://lobste.rs/s/x0wbel/terragrunt_v1_0_0"
+      "2026-04-07, 11:49:48",
+      "https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator"
     ],
     [
-      "Terragrunt v1.0.0",
-      "https://github.com/gruntwork-io/terragrunt/releases/tag/v1.0.0"
+      "A Conversation with Paul Masurel, Creator of Tantivy",
+      "https://www.paradedb.com/blog/tantivy-interview"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 11:29:59",
+      "https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating"
+    ],
+    [
+      "Plan 9 is a Uniquely Complete Operating System",
+      "https://posixcafe.org/blogs/2024/07/27/0/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 11:18:15",
+      "https://lobste.rs/s/wcuz3b/what_next_for_compute_crunch"
+    ],
+    [
+      "What next for the compute crunch?",
+      "https://martinalderson.com/posts/what-next-for-the-compute-crunch/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-04-06, 16:16:13",
-      "https://lobste.rs/s/izy0eh/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/izy0eh/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 14:18:47",
       "https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not"
     ],
@@ -167,16 +177,6 @@
     [
       "Using Discord on Plan 9",
       "https://pmikkelsen.com/plan9/discord"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 12:53:58",
-      "https://lobste.rs/s/h1yxwk/real_world_case_property_based"
-    ],
-    [
-      "A real-world case of property-based verification",
-      "https://ochagavia.nl/blog/a-real-world-case-of-property-based-verification/"
     ]
   ],
   [
