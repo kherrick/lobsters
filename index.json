@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-07, 19:19:09",
-      "https://lobste.rs/s/enkaal/last_quiet_thing"
+      "2026-04-07, 18:46:31",
+      "https://lobste.rs/s/pgkwml/project_glasswing_securing_critical"
     ],
     [
-      "The Last Quiet Thing",
-      "https://www.terrygodier.com/the-last-quiet-thing"
+      "Project Glasswing: Securing critical software for the AI era",
+      "https://www.anthropic.com/glasswing"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 18:21:32",
+      "https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s"
+    ],
+    [
+      "Assessing Claude Mythos Preview’s cybersecurity capabilities",
+      "https://red.anthropic.com/2026/mythos-preview/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "What text editor (cli or gui) are you using for writing non-code?",
       "https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 14:24:48",
-      "https://lobste.rs/s/th1r1c/add_concurrently_option_repack"
-    ],
-    [
-      "Add CONCURRENTLY option to REPACK (PostgreSQL)",
-      "https://github.com/postgres/postgres/commit/28d534e2ae0ac888b5460f977a10cd9bb017ef98"
     ]
   ],
   [
