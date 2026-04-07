@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-07, 15:49:16](https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as) - [defuddle: Get the main content of any page as Markdown](https://github.com/kepano/defuddle)
+* [2026-04-07, 15:14:48](https://lobste.rs/s/8s4tuz/two_years_valkey) - [Two Years of Valkey](https://redmonk.com/sogrady/2026/04/06/valkey-at-two/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
+* [2026-04-07, 14:24:48](https://lobste.rs/s/th1r1c/add_concurrently_option_repack) - [Add CONCURRENTLY option to REPACK (PostgreSQL)](https://github.com/postgres/postgres/commit/28d534e2ae0ac888b5460f977a10cd9bb017ef98)
 * [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
 * [2026-04-07, 11:49:48](https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator) - [A Conversation with Paul Masurel, Creator of Tantivy](https://www.paradedb.com/blog/tantivy-interview)
 * [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
@@ -22,9 +25,6 @@
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
-* [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
-* [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)
-* [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 
 ## [Archives](archives/index.md)
 

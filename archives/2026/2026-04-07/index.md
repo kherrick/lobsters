@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 15:49:16](https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as) - [defuddle: Get the main content of any page as Markdown](https://github.com/kepano/defuddle)
+* [2026-04-07, 15:14:48](https://lobste.rs/s/8s4tuz/two_years_valkey) - [Two Years of Valkey](https://redmonk.com/sogrady/2026/04/06/valkey-at-two/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
+* [2026-04-07, 14:24:48](https://lobste.rs/s/th1r1c/add_concurrently_option_repack) - [Add CONCURRENTLY option to REPACK (PostgreSQL)](https://github.com/postgres/postgres/commit/28d534e2ae0ac888b5460f977a10cd9bb017ef98)
 * [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
 * [2026-04-07, 11:49:48](https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator) - [A Conversation with Paul Masurel, Creator of Tantivy](https://www.paradedb.com/blog/tantivy-interview)
 * [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
