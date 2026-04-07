@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-07, 16:55:42](https://lobste.rs/s/8fuoqd/wet_sidewalks_odd_numbers) - [Wet Sidewalks and Odd Numbers](https://philcrissman.net/posts/wet-sidewalks-and-odd-numbers/)
 * [2026-04-07, 16:23:42](https://lobste.rs/s/exrybd/hazmat_os_level_containment_for_ai_coding) - [Hazmat: OS-level containment for AI coding agents on macOS](https://github.com/dredozubov/hazmat)
 * [2026-04-07, 16:21:50](https://lobste.rs/s/ltdyov/great_nix_flake_check) - [The Great Nix Flake Check](https://goldstein.lol/posts/great-nix-flake-check/)
