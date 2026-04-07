@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 09:44:46](https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key) - [OpenSSH begins warning for non-PQC key exchanges](https://www.openssh.com/pq.html)
+* [2026-04-07, 09:36:02](https://lobste.rs/s/qfcxc6/cult_vibe_coding_is_insane) - [The Cult Of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)
 * [2026-04-07, 08:26:07](https://lobste.rs/s/9gitce/pinnacle_enshittification_large) - [The pinnacle of enshittification, or Large Language Models](https://blogs.gentoo.org/mgorny/2026/04/05/the-pinnacle-of-enshittification-or-large-language-models/)
 * [2026-04-07, 08:10:46](https://lobste.rs/s/kd89zp/death_ide) - [Death of the IDE?](https://addyo.substack.com/p/death-of-the-ide)
 * [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
