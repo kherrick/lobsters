@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 20:24:13](https://lobste.rs/s/m5ufxm/blackholing_my_email) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
+* [2026-04-07, 20:14:14](https://lobste.rs/s/csxbgu/cloudflare_targets_2029_for_full_post) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
+* [2026-04-07, 20:05:22](https://lobste.rs/s/bgvhjs/no_js_web_irc_client_uses_forms_persistent) - [No-JS web IRC client that uses forms and a persistent HTTP connection](https://github.com/dgl/cgiirc/)
+* [2026-04-07, 19:52:54](https://lobste.rs/s/tok8pz/s3_files_changing_face_s3) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-07, 18:46:31](https://lobste.rs/s/pgkwml/project_glasswing_securing_critical) - [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 * [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
