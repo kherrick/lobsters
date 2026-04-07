@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-06, 21:35:29](https://lobste.rs/s/etfkgx/retargeting_jit_compilers_by_using_c) - [Retargeting JIT compilers by using C-compiler generated executable code (2004)](https://www.cs.arizona.edu/~collberg/Teaching/553/2011/Resources/jit.pdf)
 * [2026-04-06, 21:06:13](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp) - [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 * [2026-04-06, 20:02:45](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery) - [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
@@ -17,7 +18,6 @@
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
-* [2026-04-06, 07:03:43](https://lobste.rs/s/nnh9qk/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
 * [2026-04-06, 06:13:31](https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css) - [dev.css: tiny, simple, classless CSS framework inspired by new.css](https://tangled.org/devins.page/dev.css)
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)

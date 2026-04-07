@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-06](index.md)
 
+* [2026-04-06, 21:35:29](https://lobste.rs/s/etfkgx/retargeting_jit_compilers_by_using_c) - [Retargeting JIT compilers by using C-compiler generated executable code (2004)](https://www.cs.arizona.edu/~collberg/Teaching/553/2011/Resources/jit.pdf)
 * [2026-04-06, 21:06:13](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp) - [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 * [2026-04-06, 20:02:45](https://lobste.rs/s/yhyshg/clmystery_command_line_murder_mystery) - [clmystery: A command-line murder mystery](https://github.com/veltman/clmystery)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
