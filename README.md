@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
+* [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
 * [2026-04-07, 20:24:13](https://lobste.rs/s/m5ufxm/blackholing_my_email) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
-* [2026-04-07, 20:14:14](https://lobste.rs/s/csxbgu/cloudflare_targets_2029_for_full_post) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [2026-04-07, 20:05:22](https://lobste.rs/s/bgvhjs/no_js_web_irc_client_uses_forms_persistent) - [No-JS web IRC client that uses forms and a persistent HTTP connection](https://github.com/dgl/cgiirc/)
 * [2026-04-07, 19:52:54](https://lobste.rs/s/tok8pz/s3_files_changing_face_s3) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
@@ -13,7 +14,6 @@
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 * [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
 * [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
-* [2026-04-07, 11:18:15](https://lobste.rs/s/wcuz3b/what_next_for_compute_crunch) - [What next for the compute crunch?](https://martinalderson.com/posts/what-next-for-the-compute-crunch/)
 * [2026-04-07, 10:24:35](https://lobste.rs/s/4r5nkb/floating_point_from_scratch_hard_mode) - [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/)
 * [2026-04-07, 09:44:46](https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key) - [OpenSSH begins warning for non-PQC key exchanges](https://www.openssh.com/pq.html)
 * [2026-04-07, 09:36:02](https://lobste.rs/s/qfcxc6/cult_vibe_coding_is_insane) - [The Cult Of Vibe Coding Is Insane](https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane)

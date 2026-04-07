@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
+* [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
 * [2026-04-07, 20:24:13](https://lobste.rs/s/m5ufxm/blackholing_my_email) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
 * [2026-04-07, 20:14:14](https://lobste.rs/s/csxbgu/cloudflare_targets_2029_for_full_post) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [2026-04-07, 20:05:22](https://lobste.rs/s/bgvhjs/no_js_web_irc_client_uses_forms_persistent) - [No-JS web IRC client that uses forms and a persistent HTTP connection](https://github.com/dgl/cgiirc/)
