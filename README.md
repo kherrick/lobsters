@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-07, 04:19:33](https://lobste.rs/s/7x2quj/optimising_pipelined_risc_v_core_from) - [Optimising a Pipelined RISC-V Core: From Naive Pipeline to Near-Superscalar Performance](https://mummanajagadeesh.github.io/blogs/optm-riscv-core/)
+* [2026-04-07, 05:50:20](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is) - [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-07, 04:07:39](https://lobste.rs/s/mvfdga/clojure_on_fennel_part_one_persistent) - [Clojure on Fennel part one: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
 * [2026-04-06, 21:35:29](https://lobste.rs/s/etfkgx/retargeting_jit_compilers_by_using_c) - [Retargeting JIT compilers by using C-compiler generated executable code (2004)](https://www.cs.arizona.edu/~collberg/Teaching/553/2011/Resources/jit.pdf)
 * [2026-04-06, 21:06:13](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp) - [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
