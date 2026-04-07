@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-04-07, 15:49:16",
+      "https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as"
+    ],
+    [
+      "defuddle: Get the main content of any page as Markdown",
+      "https://github.com/kepano/defuddle"
+    ]
+  ],
+  [
+    [
       "2026-04-07, 15:14:48",
       "https://lobste.rs/s/8s4tuz/two_years_valkey"
     ],
@@ -227,16 +237,6 @@
     [
       "A Cryptography Engineer’s Perspective on Quantum Computing Timelines",
       "https://words.filippo.io/crqc-timeline/"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 10:20:56",
-      "https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users"
-    ],
-    [
-      "Someone at BrowserStack is Leaking Users' Email Address",
-      "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/"
     ]
   ],
   [
