@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 11:49:48](https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator) - [A Conversation with Paul Masurel, Creator of Tantivy](https://www.paradedb.com/blog/tantivy-interview)
+* [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
+* [2026-04-07, 11:18:15](https://lobste.rs/s/wcuz3b/what_next_for_compute_crunch) - [What next for the compute crunch?](https://martinalderson.com/posts/what-next-for-the-compute-crunch/)
 * [2026-04-07, 10:47:45](https://lobste.rs/s/x0wbel/terragrunt_v1_0_0) - [Terragrunt v1.0.0](https://github.com/gruntwork-io/terragrunt/releases/tag/v1.0.0)
 * [2026-04-07, 10:24:35](https://lobste.rs/s/4r5nkb/floating_point_from_scratch_hard_mode) - [Floating point from scratch: Hard Mode](https://essenceia.github.io/projects/floating_dragon/)
 * [2026-04-07, 09:44:46](https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key) - [OpenSSH begins warning for non-PQC key exchanges](https://www.openssh.com/pq.html)
