@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
 * [2026-04-07, 11:49:48](https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator) - [A Conversation with Paul Masurel, Creator of Tantivy](https://www.paradedb.com/blog/tantivy-interview)
 * [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
 * [2026-04-07, 11:18:15](https://lobste.rs/s/wcuz3b/what_next_for_compute_crunch) - [What next for the compute crunch?](https://martinalderson.com/posts/what-next-for-the-compute-crunch/)
