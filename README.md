@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 * [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
 * [2026-04-07, 11:49:48](https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator) - [A Conversation with Paul Masurel, Creator of Tantivy](https://www.paradedb.com/blog/tantivy-interview)
 * [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
@@ -11,7 +12,6 @@
 * [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 05:50:20](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is) - [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-07, 04:07:39](https://lobste.rs/s/mvfdga/clojure_on_fennel_part_one_persistent) - [Clojure on Fennel part one: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
-* [2026-04-06, 21:06:13](https://lobste.rs/s/hjei19/we_found_ticking_time_bomb_macos_tcp) - [We Found a Ticking Time Bomb in macOS TCP Networking — It Detonates After Exactly 49 Days](https://photon.codes/blog/we-found-a-ticking-time-bomb-in-macos-tcp-networking)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
 * [2026-04-06, 19:20:23](https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key) - [BrowserStack local leaking private key](https://infosec.exchange/@badkeys/116359377342260172)
 * [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
