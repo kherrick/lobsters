@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 08:26:07](https://lobste.rs/s/9gitce/pinnacle_enshittification_large) - [The pinnacle of enshittification, or Large Language Models](https://blogs.gentoo.org/mgorny/2026/04/05/the-pinnacle-of-enshittification-or-large-language-models/)
+* [2026-04-07, 08:10:46](https://lobste.rs/s/kd89zp/death_ide) - [Death of the IDE?](https://addyo.substack.com/p/death-of-the-ide)
+* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/oatmeal_seed_beneath_snow) - [Oatmeal - The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 05:50:20](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is) - [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-07, 04:19:33](https://lobste.rs/s/7x2quj/optimising_pipelined_risc_v_core_from) - [Optimising a Pipelined RISC-V Core: From Naive Pipeline to Near-Superscalar Performance](https://mummanajagadeesh.github.io/blogs/optm-riscv-core/)

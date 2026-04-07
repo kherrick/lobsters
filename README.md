@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/oatmeal_seed_beneath_snow) - [Oatmeal - The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
+* [2026-04-07, 08:26:07](https://lobste.rs/s/9gitce/pinnacle_enshittification_large) - [The pinnacle of enshittification, or Large Language Models](https://blogs.gentoo.org/mgorny/2026/04/05/the-pinnacle-of-enshittification-or-large-language-models/)
+* [2026-04-07, 08:10:46](https://lobste.rs/s/kd89zp/death_ide) - [Death of the IDE?](https://addyo.substack.com/p/death-of-the-ide)
+* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 05:50:20](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is) - [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-07, 04:07:39](https://lobste.rs/s/mvfdga/clojure_on_fennel_part_one_persistent) - [Clojure on Fennel part one: Persistent Data Structures](https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/)
 * [2026-04-06, 21:35:29](https://lobste.rs/s/etfkgx/retargeting_jit_compilers_by_using_c) - [Retargeting JIT compilers by using C-compiler generated executable code (2004)](https://www.cs.arizona.edu/~collberg/Teaching/553/2011/Resources/jit.pdf)
@@ -17,12 +19,10 @@
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
 * [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
-* [2026-04-06, 08:12:51](https://lobste.rs/s/hxiivt/elm_inspired_language_compiles_go) - [An Elm-inspired language that compiles to Go, Hindley-Milner types, server-driven UI, single binary output](https://github.com/anzellai/sky)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
 * [2026-04-06, 06:13:31](https://lobste.rs/s/dpkqgr/dev_css_tiny_simple_classless_css) - [dev.css: tiny, simple, classless CSS framework inspired by new.css](https://tangled.org/devins.page/dev.css)
 * [2026-04-06, 03:12:39](https://lobste.rs/s/cwbgnf/size_matters_even_on_very_fast) - [Size matters, even on very fast connections](https://maurycyz.com/misc/13kb/)
 * [2026-04-06, 02:24:30](https://lobste.rs/s/ufd7j8/best_paper_awards_computer_science_over) - [Best Paper Awards in Computer Science over the past 30 years](https://jeffhuang.com/best_paper_awards/)
-* [2026-04-06, 02:07:55](https://lobste.rs/s/g0kwsq/endian_wars_anti_portability) - [Endian wars and anti-portability](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/)
 * [2026-04-05, 16:59:29](https://lobste.rs/s/faksz1/stamp_it_all_programs_must_report_their) - [Stamp It! All Programs Must Report Their Version](https://michael.stapelberg.ch/posts/2026-04-05-stamp-it-all-programs-must-report-their-version/)
 * [2026-04-05, 15:12:55](https://lobste.rs/s/gpqkcx/eight_years_wanting_three_months) - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 
