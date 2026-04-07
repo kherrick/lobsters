@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-07, 15:49:16](https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as) - [defuddle: Get the main content of any page as Markdown](https://github.com/kepano/defuddle)
+* [2026-04-07, 16:55:42](https://lobste.rs/s/8fuoqd/wet_sidewalks_odd_numbers) - [Wet Sidewalks and Odd Numbers](https://philcrissman.net/posts/wet-sidewalks-and-odd-numbers/)
+* [2026-04-07, 16:23:42](https://lobste.rs/s/exrybd/hazmat_os_level_containment_for_ai_coding) - [Hazmat: OS-level containment for AI coding agents on macOS](https://github.com/dredozubov/hazmat)
+* [2026-04-07, 15:54:13](https://lobste.rs/s/ytfkkm/nash_equilibrium_for_terminal_maneuvers) - [Nash Equilibrium for Terminal Maneuvers](https://r6.ca/blog/20260402T135216Z.html)
 * [2026-04-07, 15:14:48](https://lobste.rs/s/8s4tuz/two_years_valkey) - [Two Years of Valkey](https://redmonk.com/sogrady/2026/04/06/valkey-at-two/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 * [2026-04-07, 14:24:48](https://lobste.rs/s/th1r1c/add_concurrently_option_repack) - [Add CONCURRENTLY option to REPACK (PostgreSQL)](https://github.com/postgres/postgres/commit/28d534e2ae0ac888b5460f977a10cd9bb017ef98)
@@ -20,9 +22,7 @@
 * [2026-04-06, 17:53:46](https://lobste.rs/s/xvz6m7/git_s_magic_files) - [Git’s Magic Files](https://nesbitt.io/2026/02/05/git-magic-files.html)
 * [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
 * [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
-* [2026-04-06, 14:18:47](https://lobste.rs/s/uud7zb/i_tried_vibing_rss_reader_my_dreams_did_not) - [I Tried Vibing an RSS Reader and My Dreams Did Not Come True](https://blog.jim-nielsen.com/2026/vibe-dreams-didnt-come-true/)
 * [2026-04-06, 13:21:35](https://lobste.rs/s/qiva5o/using_discord_on_plan_9) - [Using Discord on Plan 9](https://pmikkelsen.com/plan9/discord)
-* [2026-04-06, 12:08:46](https://lobste.rs/s/3w0o3y/machines_are_fine_i_m_worried_about_us) - [The machines are fine. I'm worried about us](https://ergosphere.blog/posts/the-machines-are-fine/)
 * [2026-04-06, 10:20:56](https://lobste.rs/s/7qqnze/someone_at_browserstack_is_leaking_users) - [Someone at BrowserStack is Leaking Users' Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 * [2026-04-06, 07:08:17](https://lobste.rs/s/qzvvbv/free_market_lie_why_switzerland_has_25) - [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't](https://sschueller.github.io/posts/the-free-market-lie/)
 

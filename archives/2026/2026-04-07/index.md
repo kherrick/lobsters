@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 16:55:42](https://lobste.rs/s/8fuoqd/wet_sidewalks_odd_numbers) - [Wet Sidewalks and Odd Numbers](https://philcrissman.net/posts/wet-sidewalks-and-odd-numbers/)
+* [2026-04-07, 16:23:42](https://lobste.rs/s/exrybd/hazmat_os_level_containment_for_ai_coding) - [Hazmat: OS-level containment for AI coding agents on macOS](https://github.com/dredozubov/hazmat)
+* [2026-04-07, 15:54:13](https://lobste.rs/s/ytfkkm/nash_equilibrium_for_terminal_maneuvers) - [Nash Equilibrium for Terminal Maneuvers](https://r6.ca/blog/20260402T135216Z.html)
 * [2026-04-07, 15:49:16](https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as) - [defuddle: Get the main content of any page as Markdown](https://github.com/kepano/defuddle)
 * [2026-04-07, 15:14:48](https://lobste.rs/s/8s4tuz/two_years_valkey) - [Two Years of Valkey](https://redmonk.com/sogrady/2026/04/06/valkey-at-two/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
