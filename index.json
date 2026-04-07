@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-04-07, 18:46:31",
-      "https://lobste.rs/s/pgkwml/project_glasswing_securing_critical"
+      "2026-04-07, 20:24:13",
+      "https://lobste.rs/s/m5ufxm/blackholing_my_email"
     ],
     [
-      "Project Glasswing: Securing critical software for the AI era",
-      "https://www.anthropic.com/glasswing"
+      "Blackholing My Email",
+      "https://www.johnsto.co.uk/blog/blackholing-my-email/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 20:14:14",
+      "https://lobste.rs/s/csxbgu/cloudflare_targets_2029_for_full_post"
+    ],
+    [
+      "Cloudflare targets 2029 for full post-quantum security",
+      "https://blog.cloudflare.com/post-quantum-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 20:05:22",
+      "https://lobste.rs/s/bgvhjs/no_js_web_irc_client_uses_forms_persistent"
+    ],
+    [
+      "No-JS web IRC client that uses forms and a persistent HTTP connection",
+      "https://github.com/dgl/cgiirc/"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 19:52:54",
+      "https://lobste.rs/s/tok8pz/s3_files_changing_face_s3"
+    ],
+    [
+      "S3 Files and the changing face of S3",
+      "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 19:19:09",
+      "https://lobste.rs/s/enkaal/last_quiet_thing"
+    ],
+    [
+      "The Last Quiet Thing",
+      "https://www.terrygodier.com/the-last-quiet-thing"
     ]
   ],
   [
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-04-07, 15:49:16",
-      "https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as"
-    ],
-    [
-      "defuddle: Get the main content of any page as Markdown",
-      "https://github.com/kepano/defuddle"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 15:14:48",
       "https://lobste.rs/s/8s4tuz/two_years_valkey"
     ],
@@ -77,16 +107,6 @@
     [
       "the value of a performance oracle",
       "https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 11:49:48",
-      "https://lobste.rs/s/9eg0hs/conversation_with_paul_masurel_creator"
-    ],
-    [
-      "A Conversation with Paul Masurel, Creator of Tantivy",
-      "https://www.paradedb.com/blog/tantivy-interview"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "The Downfall and Enshittification of Microsoft in 2026",
       "https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 19:20:23",
-      "https://lobste.rs/s/exqgps/browserstack_local_leaking_private_key"
-    ],
-    [
-      "BrowserStack local leaking private key",
-      "https://infosec.exchange/@badkeys/116359377342260172"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 17:53:46",
-      "https://lobste.rs/s/xvz6m7/git_s_magic_files"
-    ],
-    [
-      "Git’s Magic Files",
-      "https://nesbitt.io/2026/02/05/git-magic-files.html"
     ]
   ],
   [
