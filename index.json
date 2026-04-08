@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-08, 22:35:43",
+      "https://lobste.rs/s/uambkp/keychron_keyboards_hardware_design_all"
+    ],
+    [
+      "Keychron-Keyboards-Hardware-Design: All the industrial design files for Keychron keyboards and mice",
+      "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 21:39:09",
       "https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Assessing Claude Mythos Preview’s cybersecurity capabilities",
       "https://red.anthropic.com/2026/mythos-preview/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 16:21:50",
-      "https://lobste.rs/s/ltdyov/great_nix_flake_check"
-    ],
-    [
-      "The Great Nix Flake Check",
-      "https://goldstein.lol/posts/great-nix-flake-check/"
     ]
   ],
   [
