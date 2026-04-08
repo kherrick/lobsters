@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
+* [2026-04-08, 17:11:40](https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail) - [tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-08, 16:16:57](https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii) - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
 * [2026-04-08, 15:35:46](https://lobste.rs/s/fdybbj/verifying_human_authorship_with_human) - [Verifying human authorship with human.json](https://joelchrono.xyz/blog/implementing-human-json/)
 * [2026-04-08, 15:25:29](https://lobste.rs/s/qayr1f/open_source_security_at_astral) - [Open source security at Astral](https://astral.sh/blog/open-source-security-at-astral)
