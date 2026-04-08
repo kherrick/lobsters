@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-08, 09:20:30](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend) - [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
+* [2026-04-08, 08:54:06](https://lobste.rs/s/zmdfbk/stricline_meta_framework_help_you_easily) - [stricline: A meta-framework to help you easily build robust CLI apps with stricli](https://npmx.dev/package/stricline)
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \"Programming Without Pointers\" to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
 * [2026-04-08, 06:03:04](https://lobste.rs/s/f3qxk6/1subml_plan_vs_reality) - [1SubML: Plan vs Reality](https://blog.polybdenum.com/2026/04/05/1subml-plan-vs-reality.html)
 * [2026-04-08, 04:41:53](https://lobste.rs/s/3yvhkz/rfc_jsir_high_level_ir_for_javascript) - [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
@@ -13,7 +15,6 @@
 * [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 * [2026-04-07, 16:55:42](https://lobste.rs/s/8fuoqd/wet_sidewalks_odd_numbers) - [Wet Sidewalks and Odd Numbers](https://philcrissman.net/posts/wet-sidewalks-and-odd-numbers/)
 * [2026-04-07, 16:21:50](https://lobste.rs/s/ltdyov/great_nix_flake_check) - [The Great Nix Flake Check](https://goldstein.lol/posts/great-nix-flake-check/)
-* [2026-04-07, 15:49:16](https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as) - [defuddle: Get the main content of any page as Markdown](https://github.com/kepano/defuddle)
 * [2026-04-07, 15:14:48](https://lobste.rs/s/8s4tuz/two_years_valkey) - [Two Years of Valkey](https://redmonk.com/sogrady/2026/04/06/valkey-at-two/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 * [2026-04-07, 13:25:06](https://lobste.rs/s/sibep0/value_performance_oracle) - [the value of a performance oracle](https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle)
@@ -23,7 +24,6 @@
 * [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-07, 05:50:20](https://lobste.rs/s/vjcymq/multi_agentic_software_development_is) - [Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)](https://kirancodes.me/posts/log-distributed-llms.html)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
-* [2026-04-06, 16:23:07](https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design) - [Someone good at CSS help, my website design is dying](https://ahti.space/~nortti/writeups/my-website-design-is-dying.html)
 * [2026-04-06, 16:20:54](https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on) - [A Cryptography Engineer’s Perspective on Quantum Computing Timelines](https://words.filippo.io/crqc-timeline/)
 
 ## [Archives](archives/index.md)
