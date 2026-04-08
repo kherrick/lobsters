@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-07](index.md)
 
+* [2026-04-07, 23:35:34](https://lobste.rs/s/214wj4/when_compiler_lies_breaking_memory) - [When the compiler lies: breaking memory safety in safe Go](https://ciolek.dev/posts/when-the-compiler-lies)
 * [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
 * [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
 * [2026-04-07, 20:45:05](https://lobste.rs/s/1oe6sa/apple_charging_situation) - [The Apple Charging Situation](https://randsinrepose.com/guides/apple-charging-guide.html)
