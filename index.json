@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-08, 16:16:57",
+      "https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii"
+    ],
+    [
+      "Porting Mac OS X to the Nintendo Wii",
+      "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 15:35:46",
+      "https://lobste.rs/s/fdybbj/verifying_human_authorship_with_human"
+    ],
+    [
+      "Verifying human authorship with human.json",
+      "https://joelchrono.xyz/blog/implementing-human-json/"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 15:25:29",
       "https://lobste.rs/s/qayr1f/open_source_security_at_astral"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-04-07, 20:45:05",
-      "https://lobste.rs/s/1oe6sa/apple_charging_situation"
-    ],
-    [
-      "The Apple Charging Situation",
-      "https://randsinrepose.com/guides/apple-charging-guide.html"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 20:24:13",
       "https://lobste.rs/s/m5ufxm/blackholing_my_email"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2026-04-07, 15:14:48",
-      "https://lobste.rs/s/8s4tuz/two_years_valkey"
-    ],
-    [
-      "Two Years of Valkey",
-      "https://redmonk.com/sogrady/2026/04/06/valkey-at-two/"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 14:40:14",
       "https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for"
     ],
@@ -222,10 +222,10 @@
   [
     [
       "2026-04-07, 09:44:46",
-      "https://lobste.rs/s/edkm8d/openssh_begins_warning_for_non_pqc_key"
+      "https://lobste.rs/s/edkm8d/openssh_post_quantum_cryptography_2025"
     ],
     [
-      "OpenSSH begins warning for non-PQC key exchanges",
+      "OpenSSH Post-Quantum Cryptography (2025)",
       "https://www.openssh.com/pq.html"
     ]
   ],
