@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 15:25:29](https://lobste.rs/s/qayr1f/open_source_security_at_astral) - [Open source security at Astral](https://astral.sh/blog/open-source-security-at-astral)
+* [2026-04-08, 15:20:42](https://lobste.rs/s/itjrwp/on_vinyl_cache_varnish_cache) - [On Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html)
 * [2026-04-08, 14:04:03](https://lobste.rs/s/phhjvs/future_everything_is_lies_i_guess) - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 * [2026-04-08, 13:35:34](https://lobste.rs/s/oh8rgj/audio_reactive_led_strips_are) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 * [2026-04-08, 13:35:27](https://lobste.rs/s/9xjhfm/full_text_search_with_indexeddb) - [Full Text Search with IndexedDB](https://blog.jmp.chat/b/2026-full-text-search-indexeddb)
