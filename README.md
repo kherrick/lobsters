@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-08, 06:03:04](https://lobste.rs/s/f3qxk6/1subml_plan_vs_reality) - [1SubML: Plan vs Reality](https://blog.polybdenum.com/2026/04/05/1subml-plan-vs-reality.html)
 * [2026-04-08, 04:41:53](https://lobste.rs/s/3yvhkz/rfc_jsir_high_level_ir_for_javascript) - [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 * [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
 * [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
 * [2026-04-07, 20:24:13](https://lobste.rs/s/m5ufxm/blackholing_my_email) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
-* [2026-04-07, 20:14:14](https://lobste.rs/s/csxbgu/cloudflare_targets_2029_for_full_post) - [Cloudflare targets 2029 for full post-quantum security](https://blog.cloudflare.com/post-quantum-roadmap/)
 * [2026-04-07, 20:05:22](https://lobste.rs/s/bgvhjs/no_js_web_irc_client_uses_forms_persistent) - [No-JS web IRC client that uses forms and a persistent HTTP connection](https://github.com/dgl/cgiirc/)
 * [2026-04-07, 19:52:54](https://lobste.rs/s/tok8pz/s3_files_changing_face_s3) - [S3 Files and the changing face of S3](https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
