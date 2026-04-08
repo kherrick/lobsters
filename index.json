@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-08, 15:25:29",
+      "https://lobste.rs/s/qayr1f/open_source_security_at_astral"
+    ],
+    [
+      "Open source security at Astral",
+      "https://astral.sh/blog/open-source-security-at-astral"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 15:20:42",
+      "https://lobste.rs/s/itjrwp/on_vinyl_cache_varnish_cache"
+    ],
+    [
+      "On Vinyl Cache and Varnish Cache",
+      "https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 14:04:03",
       "https://lobste.rs/s/phhjvs/future_everything_is_lies_i_guess"
     ],
@@ -37,16 +57,6 @@
     [
       "Under the hood of MDN's new frontend",
       "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 08:54:06",
-      "https://lobste.rs/s/zmdfbk/stricline_meta_framework_help_you_easily"
-    ],
-    [
-      "stricline: A meta-framework to help you easily build robust CLI apps with stricli",
-      "https://npmx.dev/package/stricline"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Plan 9 is a Uniquely Complete Operating System",
       "https://posixcafe.org/blogs/2024/07/27/0/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 10:24:35",
-      "https://lobste.rs/s/4r5nkb/floating_point_from_scratch_hard_mode"
-    ],
-    [
-      "Floating point from scratch: Hard Mode",
-      "https://essenceia.github.io/projects/floating_dragon/"
     ]
   ],
   [
