@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-08, 14:04:03",
+      "https://lobste.rs/s/phhjvs/future_everything_is_lies_i_guess"
+    ],
+    [
+      "The Future of Everything is Lies, I Guess",
+      "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 13:35:34",
+      "https://lobste.rs/s/oh8rgj/audio_reactive_led_strips_are"
+    ],
+    [
+      "Audio Reactive LED Strips Are Diabolically Hard",
+      "https://scottlawsonbc.com/post/audio-led"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 13:35:27",
+      "https://lobste.rs/s/9xjhfm/full_text_search_with_indexeddb"
+    ],
+    [
+      "Full Text Search with IndexedDB",
+      "https://blog.jmp.chat/b/2026-full-text-search-indexeddb"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 09:20:30",
       "https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend"
     ],
@@ -47,6 +77,16 @@
     [
       "[RFC] JSIR: A High-Level IR for JavaScript",
       "https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 23:35:34",
+      "https://lobste.rs/s/214wj4/when_compiler_lies_breaking_memory"
+    ],
+    [
+      "When the compiler lies: breaking memory safety in safe Go",
+      "https://ciolek.dev/posts/when-the-compiler-lies"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2026-04-07, 16:55:42",
-      "https://lobste.rs/s/8fuoqd/wet_sidewalks_odd_numbers"
-    ],
-    [
-      "Wet Sidewalks and Odd Numbers",
-      "https://philcrissman.net/posts/wet-sidewalks-and-odd-numbers/"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 16:21:50",
       "https://lobste.rs/s/ltdyov/great_nix_flake_check"
     ],
@@ -167,16 +197,6 @@
     [
       "What text editor (cli or gui) are you using for writing non-code?",
       "https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 13:25:06",
-      "https://lobste.rs/s/sibep0/value_performance_oracle"
-    ],
-    [
-      "the value of a performance oracle",
-      "https://wingolog.org/archives/2026/04/07/the-value-of-a-performance-oracle"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-04-07, 05:50:20",
-      "https://lobste.rs/s/vjcymq/multi_agentic_software_development_is"
-    ],
-    [
-      "Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)",
-      "https://kirancodes.me/posts/log-distributed-llms.html"
-    ]
-  ],
-  [
-    [
       "2026-04-06, 19:21:34",
       "https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft"
     ],
     [
       "The Downfall and Enshittification of Microsoft in 2026",
       "https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 16:20:54",
-      "https://lobste.rs/s/pfoohx/cryptography_engineer_s_perspective_on"
-    ],
-    [
-      "A Cryptography Engineer’s Perspective on Quantum Computing Timelines",
-      "https://words.filippo.io/crqc-timeline/"
     ]
   ]
 ]
