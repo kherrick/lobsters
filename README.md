@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-08, 18:27:30](https://lobste.rs/s/6k8cyc/zsh_select_generated_files_with_om_1_glob) - [Zsh: select generated files with (om[1]) glob qualifiers](https://adamj.eu/tech/2026/01/27/zsh-om1-glob-qualifiers/)
+* [2026-04-08, 17:58:26](https://lobste.rs/s/3a1dpx/tailslayer_technique_for_reducing_tail) - [Tailslayer: A technique for reducing tail latency in DRAM operations](https://www.youtube.com/watch?v=KKbgulTp3FE)
 * [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
 * [2026-04-08, 17:11:40](https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail) - [tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-08, 16:16:57](https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii) - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
@@ -21,9 +23,7 @@
 * [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 * [2026-04-07, 16:21:50](https://lobste.rs/s/ltdyov/great_nix_flake_check) - [The Great Nix Flake Check](https://goldstein.lol/posts/great-nix-flake-check/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
-* [2026-04-07, 11:29:59](https://lobste.rs/s/fxmqsf/plan_9_is_uniquely_complete_operating) - [Plan 9 is a Uniquely Complete Operating System](https://posixcafe.org/blogs/2024/07/27/0/)
 * [2026-04-07, 09:44:46](https://lobste.rs/s/edkm8d/openssh_post_quantum_cryptography_2025) - [OpenSSH Post-Quantum Cryptography (2025)](https://www.openssh.com/pq.html)
-* [2026-04-07, 07:58:04](https://lobste.rs/s/fibtuz/seed_beneath_snow) - [The Seed Beneath the Snow](https://eli.li/the-seed-beneath-the-snow)
 * [2026-04-06, 19:21:34](https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft) - [The Downfall and Enshittification of Microsoft in 2026](https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html)
 
 ## [Archives](archives/index.md)
