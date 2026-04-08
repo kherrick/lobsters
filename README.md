@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-08, 20:18:34](https://lobste.rs/s/2zrhn4/little_snitch_for_linux) - [Little Snitch for Linux](https://obdev.at/blog/little-snitch-for-linux/)
 * [2026-04-08, 18:27:30](https://lobste.rs/s/6k8cyc/zsh_select_generated_files_with_om_1_glob) - [Zsh: select generated files with (om[1]) glob qualifiers](https://adamj.eu/tech/2026/01/27/zsh-om1-glob-qualifiers/)
 * [2026-04-08, 17:58:26](https://lobste.rs/s/3a1dpx/tailslayer_technique_for_reducing_tail) - [Tailslayer: A technique for reducing tail latency in DRAM operations](https://www.youtube.com/watch?v=KKbgulTp3FE)
 * [2026-04-08, 17:46:45](https://lobste.rs/s/i32p79/aws_engineer_reports_postgresql) - [AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
@@ -14,7 +15,6 @@
 * [2026-04-08, 13:35:27](https://lobste.rs/s/9xjhfm/full_text_search_with_indexeddb) - [Full Text Search with IndexedDB](https://blog.jmp.chat/b/2026-full-text-search-indexeddb)
 * [2026-04-08, 09:20:30](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend) - [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \"Programming Without Pointers\" to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
-* [2026-04-08, 06:03:04](https://lobste.rs/s/f3qxk6/1subml_plan_vs_reality) - [1SubML: Plan vs Reality](https://blog.polybdenum.com/2026/04/05/1subml-plan-vs-reality.html)
 * [2026-04-08, 04:41:53](https://lobste.rs/s/3yvhkz/rfc_jsir_high_level_ir_for_javascript) - [[RFC] JSIR: A High-Level IR for JavaScript](https://discourse.llvm.org/t/rfc-jsir-a-high-level-ir-for-javascript/90456)
 * [2026-04-07, 23:35:34](https://lobste.rs/s/214wj4/when_compiler_lies_breaking_memory) - [When the compiler lies: breaking memory safety in safe Go](https://ciolek.dev/posts/when-the-compiler-lies)
 * [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
