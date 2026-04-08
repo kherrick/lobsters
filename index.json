@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-08, 09:20:30",
+      "https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend"
+    ],
+    [
+      "Under the hood of MDN's new frontend",
+      "https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/"
+    ]
+  ],
+  [
+    [
+      "2026-04-08, 08:54:06",
+      "https://lobste.rs/s/zmdfbk/stricline_meta_framework_help_you_easily"
+    ],
+    [
+      "stricline: A meta-framework to help you easily build robust CLI apps with stricli",
+      "https://npmx.dev/package/stricline"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 07:40:46",
       "https://lobste.rs/s/ejaimk/applying_programming_without_pointers"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-04-07, 15:49:16",
-      "https://lobste.rs/s/jz63s2/defuddle_get_main_content_any_page_as"
-    ],
-    [
-      "defuddle: Get the main content of any page as Markdown",
-      "https://github.com/kepano/defuddle"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 15:14:48",
       "https://lobste.rs/s/8s4tuz/two_years_valkey"
     ],
@@ -227,16 +237,6 @@
     [
       "The Downfall and Enshittification of Microsoft in 2026",
       "https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 16:23:07",
-      "https://lobste.rs/s/aqaobg/someone_good_at_css_help_my_website_design"
-    ],
-    [
-      "Someone good at CSS help, my website design is dying",
-      "https://ahti.space/~nortti/writeups/my-website-design-is-dying.html"
     ]
   ],
   [
