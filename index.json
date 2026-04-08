@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-08, 07:40:46",
+      "https://lobste.rs/s/ejaimk/applying_programming_without_pointers"
+    ],
+    [
+      "Applying \"Programming Without Pointers\" to an mbox indexer using Zig",
+      "https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 06:03:04",
       "https://lobste.rs/s/f3qxk6/1subml_plan_vs_reality"
     ],
@@ -37,6 +47,16 @@
     [
       "All of the String types",
       "https://lambdalemon.gay/posts/string-types"
+    ]
+  ],
+  [
+    [
+      "2026-04-07, 20:45:05",
+      "https://lobste.rs/s/1oe6sa/apple_charging_situation"
+    ],
+    [
+      "The Apple Charging Situation",
+      "https://randsinrepose.com/guides/apple-charging-guide.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-04-07, 09:36:02",
-      "https://lobste.rs/s/qfcxc6/cult_vibe_coding_is_insane"
-    ],
-    [
-      "The Cult Of Vibe Coding Is Insane",
-      "https://bramcohen.com/p/the-cult-of-vibe-coding-is-insane"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 07:58:04",
       "https://lobste.rs/s/fibtuz/seed_beneath_snow"
     ],
@@ -207,16 +217,6 @@
     [
       "Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you)",
       "https://kirancodes.me/posts/log-distributed-llms.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 04:07:39",
-      "https://lobste.rs/s/mvfdga/clojure_on_fennel_part_one_persistent"
-    ],
-    [
-      "Clojure on Fennel part one: Persistent Data Structures",
-      "https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/"
     ]
   ],
   [
