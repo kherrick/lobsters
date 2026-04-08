@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-08, 22:35:43](https://lobste.rs/s/uambkp/keychron_keyboards_hardware_design_all) - [Keychron-Keyboards-Hardware-Design: All the industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 * [2026-04-08, 21:39:09](https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for) - [Giving LLMs a Formal Reasoning Engine for Code Analysis](https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html)
 * [2026-04-08, 21:00:45](https://lobste.rs/s/msuent/now_for_something_completely_different) - [And now for something completely different: IngoDB](https://blog.nyrkio.com/2026/04/08/and-now-for-something-completely-different-ingodb/)
 * [2026-04-08, 20:18:34](https://lobste.rs/s/2zrhn4/little_snitch_for_linux) - [Little Snitch for Linux](https://obdev.at/blog/little-snitch-for-linux/)
@@ -23,7 +24,6 @@
 * [2026-04-07, 20:24:13](https://lobste.rs/s/m5ufxm/blackholing_my_email) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
-* [2026-04-07, 16:21:50](https://lobste.rs/s/ltdyov/great_nix_flake_check) - [The Great Nix Flake Check](https://goldstein.lol/posts/great-nix-flake-check/)
 * [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 
 ## [Archives](archives/index.md)

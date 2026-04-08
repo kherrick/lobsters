@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-08](index.md)
 
+* [2026-04-08, 22:35:43](https://lobste.rs/s/uambkp/keychron_keyboards_hardware_design_all) - [Keychron-Keyboards-Hardware-Design: All the industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 * [2026-04-08, 21:39:09](https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for) - [Giving LLMs a Formal Reasoning Engine for Code Analysis](https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html)
 * [2026-04-08, 21:00:45](https://lobste.rs/s/msuent/now_for_something_completely_different) - [And now for something completely different: IngoDB](https://blog.nyrkio.com/2026/04/08/and-now-for-something-completely-different-ingodb/)
 * [2026-04-08, 20:18:34](https://lobste.rs/s/2zrhn4/little_snitch_for_linux) - [Little Snitch for Linux](https://obdev.at/blog/little-snitch-for-linux/)
