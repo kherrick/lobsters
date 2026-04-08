@@ -6,6 +6,7 @@
 
 * [2026-04-08, 18:27:30](https://lobste.rs/s/6k8cyc/zsh_select_generated_files_with_om_1_glob) - [Zsh: select generated files with (om[1]) glob qualifiers](https://adamj.eu/tech/2026/01/27/zsh-om1-glob-qualifiers/)
 * [2026-04-08, 17:58:26](https://lobste.rs/s/3a1dpx/tailslayer_technique_for_reducing_tail) - [Tailslayer: A technique for reducing tail latency in DRAM operations](https://www.youtube.com/watch?v=KKbgulTp3FE)
+* [2026-04-08, 17:46:45](https://lobste.rs/s/i32p79/aws_engineer_reports_postgresql) - [AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
 * [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
 * [2026-04-08, 17:11:40](https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail) - [tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-08, 16:16:57](https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii) - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
