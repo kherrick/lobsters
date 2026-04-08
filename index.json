@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-04-08, 17:46:45",
+      "https://lobste.rs/s/i32p79/aws_engineer_reports_postgresql"
+    ],
+    [
+      "AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy",
+      "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 17:37:29",
       "https://lobste.rs/s/lgdejq/borrow_checking_surprises"
     ],
@@ -237,16 +247,6 @@
     [
       "OpenSSH Post-Quantum Cryptography (2025)",
       "https://www.openssh.com/pq.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-06, 19:21:34",
-      "https://lobste.rs/s/jxw4nj/downfall_enshittification_microsoft"
-    ],
-    [
-      "The Downfall and Enshittification of Microsoft in 2026",
-      "https://caio.ca/blog/the-downfall-and-enshittification-of-microsoft.html"
     ]
   ]
 ]
