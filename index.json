@@ -1,22 +1,22 @@
 [
   [
     [
+      "2026-04-09, 21:05:30",
+      "https://lobste.rs/s/wnizjm/my_login_shell_assembly"
+    ],
+    [
+      "My Login Shell in Assembly",
+      "https://isene.org/2026/04/Bare.html"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 19:24:45",
       "https://lobste.rs/s/v188hd/preact_react_reconciler_turn_preact_into"
     ],
     [
       "preact-react-reconciler: turn preact into a react reconciler",
       "https://github.com/easrng/preact-react-reconciler"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 19:02:43",
-      "https://lobste.rs/s/e0w1cf/fixing_amdgpu_s_vram_management_for_low"
-    ],
-    [
-      "Fixing AMDGPU's VRAM management for low-end GPUs",
-      "https://pixelcluster.github.io/VRAM-Mgmt-fixed/"
     ]
   ],
   [
