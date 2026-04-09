@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-09, 19:24:45](https://lobste.rs/s/v188hd/preact_react_reconciler_turn_preact_into) - [preact-react-reconciler: turn preact into a react reconciler](https://github.com/easrng/preact-react-reconciler)
+* [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
 * [2026-04-09, 17:12:05](https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos) - [Running NixOS Micro VMs on MacOS](https://abhinavsarkar.net/notes/2026-microvm-nix/)
-* [2026-04-09, 16:55:42](https://lobste.rs/s/cpblsp/entering_architecture_age) - [Entering The Architecture Age](https://blog.mempko.com/entering-the-architecture-age/)
 * [2026-04-09, 13:53:11](https://lobste.rs/s/foa69e/wastrel_milestone_full_hoot_support_with) - [Wastrel milestone: full hoot support, with generational gc as a treat](https://wingolog.org/archives/2026/04/09/wastrel-milestone-full-hoot-support-with-generational-gc-as-a-treat)
 * [2026-04-09, 13:35:13](https://lobste.rs/s/vuphp4/i_made_productivity_device_for_less_than) - [I made a productivity device for less than 50 bucks](https://thelibre.news/i-made-the-ultimate-productivity-device/)
 * [2026-04-09, 12:54:44](https://lobste.rs/s/s51wss/you_can_absolutely_have_rss_dependent) - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
@@ -18,7 +19,6 @@
 * [2026-04-08, 22:35:43](https://lobste.rs/s/uambkp/keychron_keyboards_hardware_design_all) - [Keychron-Keyboards-Hardware-Design: All the industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 * [2026-04-08, 21:39:09](https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for) - [Giving LLMs a Formal Reasoning Engine for Code Analysis](https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html)
 * [2026-04-08, 20:18:34](https://lobste.rs/s/2zrhn4/little_snitch_for_linux) - [Little Snitch for Linux](https://obdev.at/blog/little-snitch-for-linux/)
-* [2026-04-08, 17:46:45](https://lobste.rs/s/i32p79/aws_engineer_reports_postgresql) - [AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
 * [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
 * [2026-04-08, 17:11:40](https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail) - [tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-08, 16:16:57](https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii) - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)

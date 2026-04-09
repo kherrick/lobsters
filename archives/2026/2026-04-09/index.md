@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 19:24:45](https://lobste.rs/s/v188hd/preact_react_reconciler_turn_preact_into) - [preact-react-reconciler: turn preact into a react reconciler](https://github.com/easrng/preact-react-reconciler)
+* [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
 * [2026-04-09, 17:12:05](https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos) - [Running NixOS Micro VMs on MacOS](https://abhinavsarkar.net/notes/2026-microvm-nix/)
 * [2026-04-09, 16:55:42](https://lobste.rs/s/cpblsp/entering_architecture_age) - [Entering The Architecture Age](https://blog.mempko.com/entering-the-architecture-age/)
 * [2026-04-09, 13:53:11](https://lobste.rs/s/foa69e/wastrel_milestone_full_hoot_support_with) - [Wastrel milestone: full hoot support, with generational gc as a treat](https://wingolog.org/archives/2026/04/09/wastrel-milestone-full-hoot-support-with-generational-gc-as-a-treat)
