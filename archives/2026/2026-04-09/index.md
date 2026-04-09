@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 13:53:11](https://lobste.rs/s/foa69e/wastrel_milestone_full_hoot_support_with) - [Wastrel milestone: full hoot support, with generational gc as a treat](https://wingolog.org/archives/2026/04/09/wastrel-milestone-full-hoot-support-with-generational-gc-as-a-treat)
+* [2026-04-09, 13:35:13](https://lobste.rs/s/vuphp4/i_made_productivity_device_for_less_than) - [I made a productivity device for less than 50 bucks](https://thelibre.news/i-made-the-ultimate-productivity-device/)
 * [2026-04-09, 12:10:56](https://lobste.rs/s/j2l2ya/let_s_talk_about_llms) - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 * [2026-04-09, 11:41:57](https://lobste.rs/s/nfrinx/what_about_k) - [But what about K?](https://tony-zorman.com/posts/whitney-k.html)
 * [2026-04-09, 11:26:58](https://lobste.rs/s/1iwyg7/til_helix_typst_are_match_made_heaven) - [TIL that Helix and Typst are a match made in heaven](https://ergaster.org/til/helix-typst-match-in-heaven/)
 * [2026-04-09, 10:42:38](https://lobste.rs/s/wynohh/embedding_eyg_gleam_programs) - [Embedding EYG in Gleam programs](https://github.com/CrowdHailer/eyg-lang/blob/main/guides/embedding_in_gleam.md)
 * [2026-04-09, 09:56:58](https://lobste.rs/s/tbd39w/internet_needs_antibotty_immune_system) - [The Internet needs an antibotty immune system, stat](https://anil.recoil.org/notes/internet-immune-system)
+* [2026-04-09, 09:35:05](https://lobste.rs/s/nomyva/how_nasa_built_artemis_ii_s_fault_tolerant) - [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you) - [What are your pgoramming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you)
 * [2026-04-09, 07:28:26](https://lobste.rs/s/4ipmr0/how_much_linear_memory_access_is_enough) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
