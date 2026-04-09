@@ -6,7 +6,6 @@
 * [2026-04-09, 11:41:57](https://lobste.rs/s/nfrinx/what_about_k) - [But what about K?](https://tony-zorman.com/posts/whitney-k.html)
 * [2026-04-09, 11:26:58](https://lobste.rs/s/1iwyg7/til_helix_typst_are_match_made_heaven) - [TIL that Helix and Typst are a match made in heaven](https://ergaster.org/til/helix-typst-match-in-heaven/)
 * [2026-04-09, 10:42:38](https://lobste.rs/s/wynohh/embedding_eyg_gleam_programs) - [Embedding EYG in Gleam programs](https://github.com/CrowdHailer/eyg-lang/blob/main/guides/embedding_in_gleam.md)
-* [2026-04-09, 09:56:58](https://lobste.rs/s/tbd39w/internet_needs_antibotty_immune_system) - [The Internet needs an antibotty immune system, stat](https://anil.recoil.org/notes/internet-immune-system)
 * [2026-04-09, 09:35:05](https://lobste.rs/s/nomyva/how_nasa_built_artemis_ii_s_fault_tolerant) - [How NASA Built Artemis II’s Fault-Tolerant Computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 * [2026-04-09, 07:28:26](https://lobste.rs/s/4ipmr0/how_much_linear_memory_access_is_enough) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
@@ -24,6 +23,7 @@
 * [2026-04-08, 15:20:42](https://lobste.rs/s/itjrwp/on_vinyl_cache_varnish_cache) - [On Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html)
 * [2026-04-08, 14:04:03](https://lobste.rs/s/phhjvs/future_everything_is_lies_i_guess) - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 * [2026-04-08, 13:35:27](https://lobste.rs/s/9xjhfm/full_text_search_with_indexeddb) - [Full Text Search with IndexedDB](https://blog.jmp.chat/b/2026-full-text-search-indexeddb)
+* [2026-04-08, 09:20:30](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend) - [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \"Programming Without Pointers\" to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
 
 ## [Archives](archives/index.md)
