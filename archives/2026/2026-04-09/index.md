@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 10:42:38](https://lobste.rs/s/wynohh/embedding_eyg_gleam_programs) - [Embedding EYG in Gleam programs](https://github.com/CrowdHailer/eyg-lang/blob/main/guides/embedding_in_gleam.md)
 * [2026-04-09, 09:56:58](https://lobste.rs/s/tbd39w/internet_needs_antibotty_immune_system) - [The Internet needs an antibotty immune system, stat](https://anil.recoil.org/notes/internet-immune-system)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you) - [What are your pgoramming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you)
