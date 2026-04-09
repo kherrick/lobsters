@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2026-04-09, 19:02:43",
+      "https://lobste.rs/s/e0w1cf/fixing_amdgpu_s_vram_management_for_low"
+    ],
+    [
+      "Fixing AMDGPU's VRAM management for low-end GPUs",
+      "https://pixelcluster.github.io/VRAM-Mgmt-fixed/"
+    ]
+  ],
+  [
+    [
       "2026-04-09, 18:33:20",
       "https://lobste.rs/s/pli6nn/elastic_tabstops_2006"
     ],
     [
       "Elastic tabstops (2006)",
       "https://nick-gravgaard.com/elastic-tabstops/"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 17:12:05",
+      "https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos"
+    ],
+    [
+      "Running NixOS Micro VMs on MacOS",
+      "https://abhinavsarkar.net/notes/2026-microvm-nix/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-08, 17:11:40",
-      "https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail"
-    ],
-    [
-      "tailslayer: Library for reducing tail latency in RAM reads",
-      "https://github.com/LaurieWired/tailslayer"
-    ]
-  ],
-  [
-    [
       "2026-04-08, 16:16:57",
       "https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii"
     ],
@@ -237,16 +247,6 @@
     [
       "The Future of Everything is Lies, I Guess",
       "https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 07:40:46",
-      "https://lobste.rs/s/ejaimk/applying_programming_without_pointers"
-    ],
-    [
-      "Applying \"Programming Without Pointers\" to an mbox indexer using Zig",
-      "https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig"
     ]
   ]
 ]
