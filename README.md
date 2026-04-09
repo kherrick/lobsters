@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-09, 12:10:56](https://lobste.rs/s/j2l2ya/let_s_talk_about_llms) - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
+* [2026-04-09, 11:41:57](https://lobste.rs/s/nfrinx/what_about_k) - [But what about K?](https://tony-zorman.com/posts/whitney-k.html)
+* [2026-04-09, 11:26:58](https://lobste.rs/s/1iwyg7/til_helix_typst_are_match_made_heaven) - [TIL that Helix and Typst are a match made in heaven](https://ergaster.org/til/helix-typst-match-in-heaven/)
 * [2026-04-09, 10:42:38](https://lobste.rs/s/wynohh/embedding_eyg_gleam_programs) - [Embedding EYG in Gleam programs](https://github.com/CrowdHailer/eyg-lang/blob/main/guides/embedding_in_gleam.md)
 * [2026-04-09, 09:56:58](https://lobste.rs/s/tbd39w/internet_needs_antibotty_immune_system) - [The Internet needs an antibotty immune system, stat](https://anil.recoil.org/notes/internet-immune-system)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
@@ -16,15 +19,12 @@
 * [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
 * [2026-04-08, 17:11:40](https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail) - [tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
 * [2026-04-08, 16:16:57](https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii) - [Porting Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
-* [2026-04-08, 15:35:46](https://lobste.rs/s/fdybbj/verifying_human_authorship_with_human) - [Verifying human authorship with human.json](https://joelchrono.xyz/blog/implementing-human-json/)
 * [2026-04-08, 15:25:29](https://lobste.rs/s/qayr1f/open_source_security_at_astral) - [Open source security at Astral](https://astral.sh/blog/open-source-security-at-astral)
 * [2026-04-08, 15:20:42](https://lobste.rs/s/itjrwp/on_vinyl_cache_varnish_cache) - [On Vinyl Cache and Varnish Cache](https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html)
 * [2026-04-08, 14:04:03](https://lobste.rs/s/phhjvs/future_everything_is_lies_i_guess) - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
-* [2026-04-08, 13:35:34](https://lobste.rs/s/oh8rgj/audio_reactive_led_strips_are) - [Audio Reactive LED Strips Are Diabolically Hard](https://scottlawsonbc.com/post/audio-led)
 * [2026-04-08, 13:35:27](https://lobste.rs/s/9xjhfm/full_text_search_with_indexeddb) - [Full Text Search with IndexedDB](https://blog.jmp.chat/b/2026-full-text-search-indexeddb)
 * [2026-04-08, 09:20:30](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend) - [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \"Programming Without Pointers\" to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
-* [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 
 ## [Archives](archives/index.md)
 
