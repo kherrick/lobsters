@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-09, 02:21:46](https://lobste.rs/s/cjbxsj/flatpak_complete_sandbox_escape) - [Flatpak: Complete Sandbox Escape](https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg)
+* [2026-04-09, 00:17:14](https://lobste.rs/s/9gzcnv/how_pizza_tycoon_simulated_traffic_on_25) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
 * [2026-04-08, 22:35:43](https://lobste.rs/s/uambkp/keychron_keyboards_hardware_design_all) - [Keychron-Keyboards-Hardware-Design: All the industrial design files for Keychron keyboards and mice](https://github.com/Keychron/Keychron-Keyboards-Hardware-Design)
 * [2026-04-08, 21:39:09](https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for) - [Giving LLMs a Formal Reasoning Engine for Code Analysis](https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html)
 * [2026-04-08, 21:00:45](https://lobste.rs/s/msuent/now_for_something_completely_different) - [And now for something completely different: IngoDB](https://blog.nyrkio.com/2026/04/08/and-now-for-something-completely-different-ingodb/)
@@ -18,13 +20,11 @@
 * [2026-04-08, 13:35:27](https://lobste.rs/s/9xjhfm/full_text_search_with_indexeddb) - [Full Text Search with IndexedDB](https://blog.jmp.chat/b/2026-full-text-search-indexeddb)
 * [2026-04-08, 09:20:30](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend) - [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \"Programming Without Pointers\" to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
-* [2026-04-07, 23:35:34](https://lobste.rs/s/214wj4/when_compiler_lies_breaking_memory) - [When the compiler lies: breaking memory safety in safe Go](https://ciolek.dev/posts/when-the-compiler-lies)
 * [2026-04-07, 22:41:54](https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege) - [Nix security advisory: Privilege escalation via symlink following during FOD output registration](https://discourse.nixos.org/t/nix-security-advisory-privilege-escalation-via-symlink-following-during-fod-output-registration/76900)
 * [2026-04-07, 21:58:48](https://lobste.rs/s/khf0ye/all_string_types) - [All of the String types](https://lambdalemon.gay/posts/string-types)
 * [2026-04-07, 20:24:13](https://lobste.rs/s/m5ufxm/blackholing_my_email) - [Blackholing My Email](https://www.johnsto.co.uk/blog/blackholing-my-email/)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
 * [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
-* [2026-04-07, 14:40:14](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for) - [What text editor (cli or gui) are you using for writing non-code?](https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for)
 
 ## [Archives](archives/index.md)
 
