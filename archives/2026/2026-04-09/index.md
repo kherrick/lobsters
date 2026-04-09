@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 17:12:05](https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos) - [Running NixOS Micro VMs on MacOS](https://abhinavsarkar.net/notes/2026-microvm-nix/)
+* [2026-04-09, 16:55:42](https://lobste.rs/s/cpblsp/entering_architecture_age) - [Entering The Architecture Age](https://blog.mempko.com/entering-the-architecture-age/)
 * [2026-04-09, 13:53:11](https://lobste.rs/s/foa69e/wastrel_milestone_full_hoot_support_with) - [Wastrel milestone: full hoot support, with generational gc as a treat](https://wingolog.org/archives/2026/04/09/wastrel-milestone-full-hoot-support-with-generational-gc-as-a-treat)
 * [2026-04-09, 13:35:13](https://lobste.rs/s/vuphp4/i_made_productivity_device_for_less_than) - [I made a productivity device for less than 50 bucks](https://thelibre.news/i-made-the-ultimate-productivity-device/)
+* [2026-04-09, 12:54:44](https://lobste.rs/s/s51wss/you_can_absolutely_have_rss_dependent) - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
 * [2026-04-09, 12:10:56](https://lobste.rs/s/j2l2ya/let_s_talk_about_llms) - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 * [2026-04-09, 11:41:57](https://lobste.rs/s/nfrinx/what_about_k) - [But what about K?](https://tony-zorman.com/posts/whitney-k.html)
 * [2026-04-09, 11:26:58](https://lobste.rs/s/1iwyg7/til_helix_typst_are_match_made_heaven) - [TIL that Helix and Typst are a match made in heaven](https://ergaster.org/til/helix-typst-match-in-heaven/)
