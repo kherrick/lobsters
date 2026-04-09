@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you) - [What are your pgoramming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you)
+* [2026-04-09, 09:56:58](https://lobste.rs/s/tbd39w/internet_needs_antibotty_immune_system) - [The Internet needs an antibotty immune system, stat](https://anil.recoil.org/notes/internet-immune-system)
+* [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 * [2026-04-09, 07:28:26](https://lobste.rs/s/4ipmr0/how_much_linear_memory_access_is_enough) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
 * [2026-04-09, 06:18:12](https://lobste.rs/s/nwpcjt/understanding_traceroute) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
+* [2026-04-09, 06:01:08](https://lobste.rs/s/w6bwob/wikimapped_1_3m_geolocated_wikipedia) - [WikiMapped – 1.3M geolocated Wikipedia articles on an interactive world map](https://wikimapped.mukul-mehta.in/)
 * [2026-04-09, 04:43:58](https://lobste.rs/s/nmhkdl/ai_great_leap_forward) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 * [2026-04-09, 02:21:46](https://lobste.rs/s/cjbxsj/flatpak_complete_sandbox_escape) - [Flatpak: Complete Sandbox Escape](https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg)
 * [2026-04-09, 00:17:14](https://lobste.rs/s/9gzcnv/how_pizza_tycoon_simulated_traffic_on_25) - [How Pizza Tycoon simulated traffic on a 25 MHz CPU](https://pizzalegacy.nl/blog/traffic-system.html)
@@ -10,7 +12,6 @@
 * [2026-04-08, 21:39:09](https://lobste.rs/s/fu9wcm/giving_llms_formal_reasoning_engine_for) - [Giving LLMs a Formal Reasoning Engine for Code Analysis](https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html)
 * [2026-04-08, 20:18:34](https://lobste.rs/s/2zrhn4/little_snitch_for_linux) - [Little Snitch for Linux](https://obdev.at/blog/little-snitch-for-linux/)
 * [2026-04-08, 18:27:30](https://lobste.rs/s/6k8cyc/zsh_select_generated_files_with_om_1_glob) - [Zsh: select generated files with (om[1]) glob qualifiers](https://adamj.eu/tech/2026/01/27/zsh-om1-glob-qualifiers/)
-* [2026-04-08, 17:58:26](https://lobste.rs/s/3a1dpx/tailslayer_technique_for_reducing_tail) - [Tailslayer: A technique for reducing tail latency in DRAM operations](https://www.youtube.com/watch?v=KKbgulTp3FE)
 * [2026-04-08, 17:46:45](https://lobste.rs/s/i32p79/aws_engineer_reports_postgresql) - [AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy](https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop)
 * [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
 * [2026-04-08, 17:11:40](https://lobste.rs/s/9pipxp/tailslayer_library_for_reducing_tail) - [tailslayer: Library for reducing tail latency in RAM reads](https://github.com/LaurieWired/tailslayer)
@@ -24,7 +25,6 @@
 * [2026-04-08, 09:20:30](https://lobste.rs/s/kz6rvd/under_hood_mdn_s_new_frontend) - [Under the hood of MDN's new frontend](https://developer.mozilla.org/en-US/blog/mdn-front-end-deep-dive/)
 * [2026-04-08, 07:40:46](https://lobste.rs/s/ejaimk/applying_programming_without_pointers) - [Applying \"Programming Without Pointers\" to an mbox indexer using Zig](https://simonhartcher.com/posts/2026-04-08-applying-programming-without-pointers-to-an-mbox-indexer-using-zig)
 * [2026-04-07, 19:19:09](https://lobste.rs/s/enkaal/last_quiet_thing) - [The Last Quiet Thing](https://www.terrygodier.com/the-last-quiet-thing)
-* [2026-04-07, 18:21:32](https://lobste.rs/s/aw2jr4/assessing_claude_mythos_preview_s) - [Assessing Claude Mythos Preview’s cybersecurity capabilities](https://red.anthropic.com/2026/mythos-preview/)
 
 ## [Archives](archives/index.md)
 

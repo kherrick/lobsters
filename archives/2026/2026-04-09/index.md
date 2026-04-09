@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
+* [2026-04-09, 09:56:58](https://lobste.rs/s/tbd39w/internet_needs_antibotty_immune_system) - [The Internet needs an antibotty immune system, stat](https://anil.recoil.org/notes/internet-immune-system)
+* [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you) - [What are your pgoramming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_pgoramming_hunches_you)
 * [2026-04-09, 07:28:26](https://lobste.rs/s/4ipmr0/how_much_linear_memory_access_is_enough) - [How Much Linear Memory Access Is Enough?](https://solidean.com/blog/2026/how-much-linear-memory-access-is-enough/)
 * [2026-04-09, 06:18:12](https://lobste.rs/s/nwpcjt/understanding_traceroute) - [Understanding Traceroute](https://tech.stonecharioteer.com/posts/2026/traceroute/)
