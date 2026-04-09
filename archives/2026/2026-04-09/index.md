@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-09](index.md)
 
 * [2026-04-09, 19:24:45](https://lobste.rs/s/v188hd/preact_react_reconciler_turn_preact_into) - [preact-react-reconciler: turn preact into a react reconciler](https://github.com/easrng/preact-react-reconciler)
+* [2026-04-09, 19:02:43](https://lobste.rs/s/e0w1cf/fixing_amdgpu_s_vram_management_for_low) - [Fixing AMDGPU's VRAM management for low-end GPUs](https://pixelcluster.github.io/VRAM-Mgmt-fixed/)
 * [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
 * [2026-04-09, 17:12:05](https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos) - [Running NixOS Micro VMs on MacOS](https://abhinavsarkar.net/notes/2026-microvm-nix/)
 * [2026-04-09, 16:55:42](https://lobste.rs/s/cpblsp/entering_architecture_age) - [Entering The Architecture Age](https://blog.mempko.com/entering-the-architecture-age/)

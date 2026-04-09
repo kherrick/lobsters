@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-09, 19:24:45](https://lobste.rs/s/v188hd/preact_react_reconciler_turn_preact_into) - [preact-react-reconciler: turn preact into a react reconciler](https://github.com/easrng/preact-react-reconciler)
+* [2026-04-09, 19:02:43](https://lobste.rs/s/e0w1cf/fixing_amdgpu_s_vram_management_for_low) - [Fixing AMDGPU's VRAM management for low-end GPUs](https://pixelcluster.github.io/VRAM-Mgmt-fixed/)
 * [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
-* [2026-04-09, 17:12:05](https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos) - [Running NixOS Micro VMs on MacOS](https://abhinavsarkar.net/notes/2026-microvm-nix/)
 * [2026-04-09, 13:53:11](https://lobste.rs/s/foa69e/wastrel_milestone_full_hoot_support_with) - [Wastrel milestone: full hoot support, with generational gc as a treat](https://wingolog.org/archives/2026/04/09/wastrel-milestone-full-hoot-support-with-generational-gc-as-a-treat)
 * [2026-04-09, 13:35:13](https://lobste.rs/s/vuphp4/i_made_productivity_device_for_less_than) - [I made a productivity device for less than 50 bucks](https://thelibre.news/i-made-the-ultimate-productivity-device/)
 * [2026-04-09, 12:54:44](https://lobste.rs/s/s51wss/you_can_absolutely_have_rss_dependent) - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
