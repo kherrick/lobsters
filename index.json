@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-09, 02:21:46",
+      "https://lobste.rs/s/cjbxsj/flatpak_complete_sandbox_escape"
+    ],
+    [
+      "Flatpak: Complete Sandbox Escape",
+      "https://github.com/flatpak/flatpak/security/advisories/GHSA-cc2q-qc34-jprg"
+    ]
+  ],
+  [
+    [
+      "2026-04-09, 00:17:14",
+      "https://lobste.rs/s/9gzcnv/how_pizza_tycoon_simulated_traffic_on_25"
+    ],
+    [
+      "How Pizza Tycoon simulated traffic on a 25 MHz CPU",
+      "https://pizzalegacy.nl/blog/traffic-system.html"
+    ]
+  ],
+  [
+    [
       "2026-04-08, 22:35:43",
       "https://lobste.rs/s/uambkp/keychron_keyboards_hardware_design_all"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-04-07, 23:35:34",
-      "https://lobste.rs/s/214wj4/when_compiler_lies_breaking_memory"
-    ],
-    [
-      "When the compiler lies: breaking memory safety in safe Go",
-      "https://ciolek.dev/posts/when-the-compiler-lies"
-    ]
-  ],
-  [
-    [
       "2026-04-07, 22:41:54",
       "https://lobste.rs/s/lwdzn1/nix_security_advisory_privilege"
     ],
@@ -237,16 +247,6 @@
     [
       "Assessing Claude Mythos Preview’s cybersecurity capabilities",
       "https://red.anthropic.com/2026/mythos-preview/"
-    ]
-  ],
-  [
-    [
-      "2026-04-07, 14:40:14",
-      "https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for"
-    ],
-    [
-      "What text editor (cli or gui) are you using for writing non-code?",
-      "https://lobste.rs/s/vq6o44/what_text_editor_cli_gui_are_you_using_for"
     ]
   ]
 ]
