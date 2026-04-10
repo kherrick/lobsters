@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-10, 17:41:38",
+      "https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is"
+    ],
+    [
+      "The difficulty of making sure your website is broken",
+      "https://letsencrypt.org/2026/04/10/test-sites.html"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 17:32:45",
       "https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2026-04-10, 08:25:47",
+      "https://lobste.rs/s/nyorr5/protecting_cookies_with_device_bound"
+    ],
+    [
+      "Protecting Cookies with Device Bound Session Credentials",
+      "https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 07:59:27",
       "https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-04-09, 20:37:12",
-      "https://lobste.rs/s/ylkrnu/yacc_is_not_dead_2010"
-    ],
-    [
-      "Yacc is Not Dead (2010)",
-      "https://research.swtch.com/yaccalive"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 18:33:20",
       "https://lobste.rs/s/pli6nn/elastic_tabstops_2006"
     ],
     [
       "Elastic tabstops (2006)",
       "https://nick-gravgaard.com/elastic-tabstops/"
-    ]
-  ],
-  [
-    [
-      "2026-04-09, 13:35:13",
-      "https://lobste.rs/s/vuphp4/i_made_productivity_device_for_less_than"
-    ],
-    [
-      "I made a productivity device for less than 50 bucks",
-      "https://thelibre.news/i-made-the-ultimate-productivity-device/"
     ]
   ],
   [
