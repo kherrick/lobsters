@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-10, 15:05:46](https://lobste.rs/s/kfm1ph/honest_climate_case_for_ai) - [The Honest Climate Case for AI](https://dev.to/dcc/the-honest-climate-case-for-ai-5hg5)
+* [2026-04-10, 14:31:31](https://lobste.rs/s/1sqv11/selective_test_execution_at_stripe_fast) - [Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo](https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo)
 * [2026-04-10, 13:34:03](https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet) - [Why Aren't We uv Yet?](https://aleyan.com/blog/2026-why-arent-we-uv-yet)
 * [2026-04-10, 12:55:19](https://lobste.rs/s/gfuvjw/git_repositories_as_module_system) - [Git Repositories as a Module System](https://alnewkirk.com/projects/git-from)
 * [2026-04-10, 11:38:16](https://lobste.rs/s/pulywh/watgo_webassembly_toolkit_for_go_eli) - [watgo - a WebAssembly Toolkit for Go - Eli Bendersky's website](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
@@ -23,8 +25,6 @@
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 * [2026-04-09, 04:43:58](https://lobste.rs/s/nmhkdl/ai_great_leap_forward) - [The AI Great Leap Forward](https://leehanchung.github.io/blogs/2026/04/05/the-ai-great-leap-forward/)
 * [2026-04-08, 20:18:34](https://lobste.rs/s/2zrhn4/little_snitch_for_linux) - [Little Snitch for Linux](https://obdev.at/blog/little-snitch-for-linux/)
-* [2026-04-08, 17:37:29](https://lobste.rs/s/lgdejq/borrow_checking_surprises) - [Borrow-checking surprises](https://www.scattered-thoughts.net/writing/borrow-checking-surprises/)
-* [2026-04-08, 14:04:03](https://lobste.rs/s/phhjvs/future_everything_is_lies_i_guess) - [The Future of Everything is Lies, I Guess](https://aphyr.com/posts/411-the-future-of-everything-is-lies-i-guess)
 
 ## [Archives](archives/index.md)
 
