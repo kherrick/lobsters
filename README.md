@@ -2,6 +2,7 @@
 
 * [2026-04-10, 13:34:03](https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet) - [Why Aren't We uv Yet?](https://aleyan.com/blog/2026-why-arent-we-uv-yet)
 * [2026-04-10, 12:55:19](https://lobste.rs/s/gfuvjw/git_repositories_as_module_system) - [Git Repositories as a Module System](https://alnewkirk.com/projects/git-from)
+* [2026-04-10, 11:38:16](https://lobste.rs/s/pulywh/watgo_webassembly_toolkit_for_go_eli) - [watgo - a WebAssembly Toolkit for Go - Eli Bendersky's website](https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/)
 * [2026-04-10, 10:29:37](https://lobste.rs/s/3ukqqt/installing_every_firefox_extension) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension/)
 * [2026-04-10, 09:53:52](https://lobste.rs/s/iq7i4f/favorite_programmer_website) - [Favorite programmer website?](https://lobste.rs/s/iq7i4f/favorite_programmer_website)
 * [2026-04-10, 09:50:37](https://lobste.rs/s/fqk6re/repository_pattern_with_hygienic_macros) - [Repository Pattern with Hygienic Macros in Scheme – Lisp](https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html)
@@ -13,7 +14,6 @@
 * [2026-04-10, 02:27:14](https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm) - [Incremental compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
 * [2026-04-09, 21:05:30](https://lobste.rs/s/wnizjm/my_login_shell_assembly) - [My Login Shell in Assembly](https://isene.org/2026/04/Bare.html)
 * [2026-04-09, 20:37:12](https://lobste.rs/s/ylkrnu/yacc_is_not_dead_2010) - [Yacc is Not Dead (2010)](https://research.swtch.com/yaccalive)
-* [2026-04-09, 19:02:43](https://lobste.rs/s/e0w1cf/fixing_amdgpu_s_vram_management_for_low) - [Fixing AMDGPU's VRAM management for low-end GPUs](https://pixelcluster.github.io/VRAM-Mgmt-fixed/)
 * [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
 * [2026-04-09, 13:35:13](https://lobste.rs/s/vuphp4/i_made_productivity_device_for_less_than) - [I made a productivity device for less than 50 bucks](https://thelibre.news/i-made-the-ultimate-productivity-device/)
 * [2026-04-09, 12:54:44](https://lobste.rs/s/s51wss/you_can_absolutely_have_rss_dependent) - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
