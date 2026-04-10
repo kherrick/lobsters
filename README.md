@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-10, 07:59:27](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend)
 * [2026-04-10, 03:29:03](https://lobste.rs/s/tmbbhl/installing_openbsd_on_pomera_dm250_xy) - [Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250)
 * [2026-04-10, 02:27:14](https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm) - [Incremental compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
 * [2026-04-09, 21:05:30](https://lobste.rs/s/wnizjm/my_login_shell_assembly) - [My Login Shell in Assembly](https://isene.org/2026/04/Bare.html)
 * [2026-04-09, 20:37:12](https://lobste.rs/s/ylkrnu/yacc_is_not_dead_2010) - [Yacc is Not Dead (2010)](https://research.swtch.com/yaccalive)
-* [2026-04-09, 19:24:45](https://lobste.rs/s/v188hd/preact_react_reconciler_turn_preact_into) - [preact-react-reconciler: turn preact into a react reconciler](https://github.com/easrng/preact-react-reconciler)
 * [2026-04-09, 19:02:43](https://lobste.rs/s/e0w1cf/fixing_amdgpu_s_vram_management_for_low) - [Fixing AMDGPU's VRAM management for low-end GPUs](https://pixelcluster.github.io/VRAM-Mgmt-fixed/)
 * [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
 * [2026-04-09, 17:12:05](https://lobste.rs/s/jqwrhe/running_nixos_micro_vms_on_macos) - [Running NixOS Micro VMs on MacOS](https://abhinavsarkar.net/notes/2026-microvm-nix/)
