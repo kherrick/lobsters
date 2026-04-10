@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-10, 09:35:12",
-      "https://lobste.rs/s/344h4c/protecting_rubygems_org_from_outside_dos"
+      "2026-04-10, 09:53:52",
+      "https://lobste.rs/s/iq7i4f/favorite_programmer_website"
     ],
     [
-      "Protecting rubygems.org from the outside in: DoS prevention and compromised passwords",
-      "https://blog.rubygems.org/2026/04/09/protecting-rubygems-from-the-outside-in.html"
+      "Favorite programmer website?",
+      "https://lobste.rs/s/iq7i4f/favorite_programmer_website"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 09:50:37",
+      "https://lobste.rs/s/fqk6re/repository_pattern_with_hygienic_macros"
+    ],
+    [
+      "Repository Pattern with Hygienic Macros in Scheme – Lisp",
+      "https://jointhefreeworld.org/blog/articles/lisps/functional-repository-pattern-in-scheme-with-macros/index.html"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "The acyclic e-graph: Cranelift's mid-end optimizer",
       "https://cfallin.org/blog/2026/04/09/aegraph/"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 08:25:47",
+      "https://lobste.rs/s/nyorr5/protecting_cookies_with_device_bound"
+    ],
+    [
+      "Protecting Cookies with Device Bound Session Credentials",
+      "https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-09, 09:35:05",
-      "https://lobste.rs/s/nomyva/how_nasa_built_artemis_ii_s_fault_tolerant"
-    ],
-    [
-      "How NASA Built Artemis II’s Fault-Tolerant Computer",
-      "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/"
-    ]
-  ],
-  [
-    [
       "2026-04-09, 08:55:25",
       "https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you"
     ],
@@ -227,16 +237,6 @@
     [
       "Borrow-checking surprises",
       "https://www.scattered-thoughts.net/writing/borrow-checking-surprises/"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 16:16:57",
-      "https://lobste.rs/s/i0vvrs/porting_mac_os_x_nintendo_wii"
-    ],
-    [
-      "Porting Mac OS X to the Nintendo Wii",
-      "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html"
     ]
   ],
   [
