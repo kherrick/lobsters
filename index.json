@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-10, 17:32:45",
+      "https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip"
+    ],
+    [
+      "Put your SSH keys in your TPM chip",
+      "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-10, 17:30:35",
+      "https://lobste.rs/s/cwxvlh/meet_kiki_array_language"
+    ],
+    [
+      "Meet Kiki - an array language",
+      "https://eli.li/kiki"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 15:55:34",
       "https://lobste.rs/s/lnicis/ursa_new_iceberg_first_storage_engine_for"
     ],
@@ -107,16 +127,6 @@
     [
       "The acyclic e-graph: Cranelift's mid-end optimizer",
       "https://cfallin.org/blog/2026/04/09/aegraph/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 08:25:47",
-      "https://lobste.rs/s/nyorr5/protecting_cookies_with_device_bound"
-    ],
-    [
-      "Protecting Cookies with Device Bound Session Credentials",
-      "https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "What are your programming \"hunches\" you haven't yet investigated?",
       "https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you"
-    ]
-  ],
-  [
-    [
-      "2026-04-08, 20:18:34",
-      "https://lobste.rs/s/2zrhn4/little_snitch_for_linux"
-    ],
-    [
-      "Little Snitch for Linux",
-      "https://obdev.at/blog/little-snitch-for-linux/"
     ]
   ]
 ]
