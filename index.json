@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-10, 19:49:46",
+      "https://lobste.rs/s/gh1rks/defense_github_s_poor_uptime"
+    ],
+    [
+      "In defense of GitHub's poor uptime",
+      "https://evanhahn.com/in-defense-of-githubs-poor-uptime/"
+    ]
+  ],
+  [
+    [
       "2026-04-10, 17:41:38",
       "https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is"
     ],
@@ -137,16 +147,6 @@
     [
       "The acyclic e-graph: Cranelift's mid-end optimizer",
       "https://cfallin.org/blog/2026/04/09/aegraph/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 08:25:47",
-      "https://lobste.rs/s/nyorr5/protecting_cookies_with_device_bound"
-    ],
-    [
-      "Protecting Cookies with Device Bound Session Credentials",
-      "https://security.googleblog.com/2026/04/protecting-cookies-with-device-bound.html"
     ]
   ],
   [
