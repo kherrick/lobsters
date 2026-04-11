@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-11, 11:32:24](https://lobste.rs/s/gvg4lv/how_passive_radar_works) - [How passive radar works](https://www.passiveradar.com/how-passive-radar-works/)
+* [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
 * [2026-04-11, 10:53:58](https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack) - [Windows Defender is being used to hack Windows](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
 * [2026-04-11, 09:58:56](https://lobste.rs/s/t1uxjh/i_just_want_simple_s3) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [2026-04-11, 09:56:23](https://lobste.rs/s/hxmlaf/why_do_we_tell_ourselves_scary_stories) - [Why Do We Tell Ourselves Scary Stories About AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
 * [2026-04-11, 09:54:15](https://lobste.rs/s/buppqa/linux_kernel_ai_coding_assistants_policy) - [Linux Kernel AI Coding Assistants Policy](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
-* [2026-04-11, 09:20:24](https://lobste.rs/s/jqpkvs/write_less_code_be_more_responsible) - [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)
 * [2026-04-11, 07:09:41](https://lobste.rs/s/1areqp/how_rust_is_susceptible_supply_chain) - [How Rust is susceptible to supply chain attacks and what we can do to mitigate the inevitable](https://kerkour.com/rust-supply-chain-nightmare)
 * [2026-04-11, 06:57:36](https://lobste.rs/s/lynvme/20_years_on_aws_never_not_my_job) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 * [2026-04-11, 06:01:41](https://lobste.rs/s/qywh3s/with_ai_you_barely_need_frontend) - [With AI, you barely need a frontend framework](https://dlants.me/vamp.html)
@@ -23,7 +24,6 @@
 * [2026-04-10, 09:53:52](https://lobste.rs/s/iq7i4f/favorite_programmer_website) - [Favorite programmer website?](https://lobste.rs/s/iq7i4f/favorite_programmer_website)
 * [2026-04-10, 07:59:27](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend)
 * [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
-* [2026-04-10, 02:27:14](https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm) - [Incremental compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 
 ## [Archives](archives/index.md)
