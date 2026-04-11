@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-11, 19:17:47",
+      "https://lobste.rs/s/dbm3sa/writing_design_docs"
+    ],
+    [
+      "Writing design docs",
+      "https://blog.ceejbot.com/posts/design-docs/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 19:00:34",
+      "https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband"
+    ],
+    [
+      "Bringing Rust to the Pixel Baseband",
+      "https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 15:44:05",
       "https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-04-10, 17:41:38",
-      "https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is"
-    ],
-    [
-      "The difficulty of making sure your website is broken",
-      "https://letsencrypt.org/2026/04/10/test-sites.html"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 17:32:45",
       "https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip"
     ],
@@ -207,16 +217,6 @@
     [
       "Meet Kiki - an array language",
       "https://eli.li/kiki"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 15:41:05",
-      "https://lobste.rs/s/hbirya/capsicum_vs_seccomp_process_sandboxing"
-    ],
-    [
-      "Capsicum vs seccomp: Process Sandboxing",
-      "https://vivianvoss.net/blog/capsicum-vs-seccomp"
     ]
   ],
   [
