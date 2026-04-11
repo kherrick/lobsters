@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 21:00:27](https://lobste.rs/s/cxwidw/no_one_owes_you_supply_chain_security) - [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
 * [2026-04-11, 20:26:47](https://lobste.rs/s/0ddkvb/brocards_for_vulnerability_triage) - [Brocards for vulnerability triage](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
 * [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
