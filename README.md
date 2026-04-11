@@ -20,11 +20,11 @@
 * [2026-04-10, 17:32:45](https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip) - [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
 * [2026-04-10, 17:30:35](https://lobste.rs/s/cwxvlh/meet_kiki_array_language) - [Meet Kiki - an array language](https://eli.li/kiki)
 * [2026-04-10, 15:41:05](https://lobste.rs/s/hbirya/capsicum_vs_seccomp_process_sandboxing) - [Capsicum vs seccomp: Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
-* [2026-04-10, 15:05:46](https://lobste.rs/s/kfm1ph/honest_climate_case_for_ai) - [The Honest Climate Case for AI](https://dev.to/dcc/the-honest-climate-case-for-ai-5hg5)
 * [2026-04-10, 14:31:31](https://lobste.rs/s/1sqv11/selective_test_execution_at_stripe_fast) - [Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo](https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo)
 * [2026-04-10, 13:34:03](https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet) - [Why Aren't We uv Yet?](https://aleyan.com/blog/2026-why-arent-we-uv-yet)
 * [2026-04-10, 10:29:37](https://lobste.rs/s/3ukqqt/installing_every_firefox_extension) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension/)
 * [2026-04-10, 09:53:52](https://lobste.rs/s/iq7i4f/favorite_programmer_website) - [Favorite programmer website?](https://lobste.rs/s/iq7i4f/favorite_programmer_website)
+* [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
 
 ## [Archives](archives/index.md)
 
