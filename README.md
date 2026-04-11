@@ -23,7 +23,7 @@
 * [2026-04-10, 07:59:27](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend)
 * [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
 * [2026-04-10, 02:27:14](https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm) - [Incremental compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
-* [2026-04-09, 21:05:30](https://lobste.rs/s/wnizjm/my_login_shell_assembly) - [My Login Shell in Assembly](https://isene.org/2026/04/Bare.html)
+* [2026-04-09, 12:10:56](https://lobste.rs/s/j2l2ya/let_s_talk_about_llms) - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 
 ## [Archives](archives/index.md)
