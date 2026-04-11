@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-11, 11:32:24",
+      "https://lobste.rs/s/gvg4lv/how_passive_radar_works"
+    ],
+    [
+      "How passive radar works",
+      "https://www.passiveradar.com/how-passive-radar-works/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 11:18:56",
+      "https://lobste.rs/s/sqsb24/sqlite_3_53_0"
+    ],
+    [
+      "SQLite 3.53.0",
+      "https://sqlite.org/releaselog/3_53_0.html"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 10:53:58",
       "https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack"
     ],
@@ -37,16 +57,6 @@
     [
       "Linux Kernel AI Coding Assistants Policy",
       "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 09:20:24",
-      "https://lobste.rs/s/jqpkvs/write_less_code_be_more_responsible"
-    ],
-    [
-      "Write less code, be more responsible",
-      "https://blog.orhun.dev/code-responsibly/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "maki - the efficient coder (AI agent)",
       "https://maki.sh/"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 02:27:14",
-      "https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm"
-    ],
-    [
-      "Incremental compilation with LLVM",
-      "https://ziglang.org/devlog/2026/#2026-04-08"
     ]
   ],
   [
