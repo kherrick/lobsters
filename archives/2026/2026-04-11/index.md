@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
+* [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
 * [2026-04-11, 15:44:05](https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator) - [fakecloud – Free, open-source AWS emulator (LocalStack alternative)](https://github.com/faiscadev/fakecloud)
 * [2026-04-11, 15:40:18](https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with) - [Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script](https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/)
 * [2026-04-11, 15:32:38](https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
