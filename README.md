@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-11, 01:13:34](https://lobste.rs/s/sxvq6g/bet_on_whether_ml_kem_768_x25519_will_break) - [A bet on whether ML-KEM-768 or X25519 will break first](https://github.com/FiloSottile/ecc-vs-lattices-long-bet)
 * [2026-04-10, 19:49:46](https://lobste.rs/s/gh1rks/defense_github_s_poor_uptime) - [In defense of GitHub's poor uptime](https://evanhahn.com/in-defense-of-githubs-poor-uptime/)
 * [2026-04-10, 17:41:38](https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is) - [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)
 * [2026-04-10, 17:32:45](https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip) - [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
@@ -17,7 +18,6 @@
 * [2026-04-10, 08:47:37](https://lobste.rs/s/qsoxgf/acyclic_e_graph_cranelift_s_mid_end) - [The acyclic e-graph: Cranelift's mid-end optimizer](https://cfallin.org/blog/2026/04/09/aegraph/)
 * [2026-04-10, 07:59:27](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend)
 * [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
-* [2026-04-10, 03:29:03](https://lobste.rs/s/tmbbhl/installing_openbsd_on_pomera_dm250_xy) - [Installing OpenBSD on the Pomera DM250{,XY?}](https://jcs.org/2026/04/09/openbsd-dm250)
 * [2026-04-10, 02:27:14](https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm) - [Incremental compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
 * [2026-04-09, 21:05:30](https://lobste.rs/s/wnizjm/my_login_shell_assembly) - [My Login Shell in Assembly](https://isene.org/2026/04/Bare.html)
 * [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
