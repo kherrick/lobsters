@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 09:58:56](https://lobste.rs/s/t1uxjh/i_just_want_simple_s3) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
+* [2026-04-11, 09:56:23](https://lobste.rs/s/hxmlaf/why_do_we_tell_ourselves_scary_stories) - [Why Do We Tell Ourselves Scary Stories About AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
+* [2026-04-11, 09:54:15](https://lobste.rs/s/buppqa/linux_kernel_ai_coding_assistants_policy) - [Linux Kernel AI Coding Assistants Policy](https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst)
 * [2026-04-11, 09:20:24](https://lobste.rs/s/jqpkvs/write_less_code_be_more_responsible) - [Write less code, be more responsible](https://blog.orhun.dev/code-responsibly/)
 * [2026-04-11, 07:09:41](https://lobste.rs/s/1areqp/how_rust_is_susceptible_supply_chain) - [How Rust is susceptible to supply chain attacks and what we can do to mitigate the inevitable](https://kerkour.com/rust-supply-chain-nightmare)
 * [2026-04-11, 06:57:36](https://lobste.rs/s/lynvme/20_years_on_aws_never_not_my_job) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
