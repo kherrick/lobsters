@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-11, 15:44:05",
+      "https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator"
+    ],
+    [
+      "fakecloud – Free, open-source AWS emulator (LocalStack alternative)",
+      "https://github.com/faiscadev/fakecloud"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 15:40:18",
+      "https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with"
+    ],
+    [
+      "Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script",
+      "https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/"
+    ]
+  ],
+  [
+    [
+      "2026-04-11, 15:32:38",
+      "https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64"
+    ],
+    [
+      "Investigating Split Locks on x86-64",
+      "https://chipsandcheese.com/p/investigating-split-locks-on-x86"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 13:18:19",
       "https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-04-10, 19:49:46",
-      "https://lobste.rs/s/gh1rks/defense_github_s_poor_uptime"
-    ],
-    [
-      "In defense of GitHub's poor uptime",
-      "https://evanhahn.com/in-defense-of-githubs-poor-uptime/"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 17:41:38",
       "https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-10, 14:31:31",
-      "https://lobste.rs/s/1sqv11/selective_test_execution_at_stripe_fast"
-    ],
-    [
-      "Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo",
-      "https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo"
-    ]
-  ],
-  [
-    [
       "2026-04-10, 13:34:03",
       "https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet"
     ],
@@ -237,16 +247,6 @@
     [
       "Favorite programmer website?",
       "https://lobste.rs/s/iq7i4f/favorite_programmer_website"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 07:35:09",
-      "https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent"
-    ],
-    [
-      "maki - the efficient coder (AI agent)",
-      "https://maki.sh/"
     ]
   ]
 ]
