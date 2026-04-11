@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-11, 06:01:41](https://lobste.rs/s/qywh3s/with_ai_you_barely_need_frontend) - [With AI, you barely need a frontend framework](https://dlants.me/vamp.html)
+* [2026-04-11, 05:05:11](https://lobste.rs/s/yysxis/advanced_mac_substitute) - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/)
 * [2026-04-11, 01:13:34](https://lobste.rs/s/sxvq6g/bet_on_whether_ml_kem_768_x25519_will_break) - [A bet on whether ML-KEM-768 or X25519 will break first](https://github.com/FiloSottile/ecc-vs-lattices-long-bet)
 * [2026-04-10, 19:49:46](https://lobste.rs/s/gh1rks/defense_github_s_poor_uptime) - [In defense of GitHub's poor uptime](https://evanhahn.com/in-defense-of-githubs-poor-uptime/)
 * [2026-04-10, 17:41:38](https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is) - [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)
@@ -20,10 +22,8 @@
 * [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
 * [2026-04-10, 02:27:14](https://lobste.rs/s/tbud4j/incremental_compilation_with_llvm) - [Incremental compilation with LLVM](https://ziglang.org/devlog/2026/#2026-04-08)
 * [2026-04-09, 21:05:30](https://lobste.rs/s/wnizjm/my_login_shell_assembly) - [My Login Shell in Assembly](https://isene.org/2026/04/Bare.html)
-* [2026-04-09, 18:33:20](https://lobste.rs/s/pli6nn/elastic_tabstops_2006) - [Elastic tabstops (2006)](https://nick-gravgaard.com/elastic-tabstops/)
 * [2026-04-09, 12:54:44](https://lobste.rs/s/s51wss/you_can_absolutely_have_rss_dependent) - [You can absolutely have an RSS dependent website in 2026](https://matduggan.com/you-can-absolutely-have-an-rss-dependent-website-in-2026/)
 * [2026-04-09, 12:10:56](https://lobste.rs/s/j2l2ya/let_s_talk_about_llms) - [Let’s talk about LLMs](https://www.b-list.org/weblog/2026/apr/09/llms/)
-* [2026-04-09, 11:26:58](https://lobste.rs/s/1iwyg7/til_helix_typst_are_match_made_heaven) - [TIL that Helix and Typst are a match made in heaven](https://ergaster.org/til/helix-typst-match-in-heaven/)
 * [2026-04-09, 08:55:25](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you) - [What are your programming \"hunches\" you haven't yet investigated?](https://lobste.rs/s/gns27z/what_are_your_programming_hunches_you)
 
 ## [Archives](archives/index.md)
