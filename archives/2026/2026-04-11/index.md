@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
+* [2026-04-11, 13:07:41](https://lobste.rs/s/jcohup/eu_s_ees_fingerprint_photo_travel_rules) - [EU's EES fingerprint and photo travel rules come into force](https://www.bbc.com/news/articles/c39rkpe8mj2o)
+* [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 12:04:58](https://lobste.rs/s/yp747p/using_wireshark_reverse_engineer_usb) - [Using Wireshark to reverse-engineer a USB device](https://crescentro.se/posts/wireshark-usb/)
 * [2026-04-11, 11:58:54](https://lobste.rs/s/mr6zro/analyzing_kde_project_health_with_git) - [Analyzing KDE Project Health With git](https://pointieststick.com/2026/04/10/analyzing-kde-project-health-with-git/)
 * [2026-04-11, 11:32:24](https://lobste.rs/s/gvg4lv/how_passive_radar_works) - [How passive radar works](https://www.passiveradar.com/how-passive-radar-works/)

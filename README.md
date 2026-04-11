@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-11, 12:04:58](https://lobste.rs/s/yp747p/using_wireshark_reverse_engineer_usb) - [Using Wireshark to reverse-engineer a USB device](https://crescentro.se/posts/wireshark-usb/)
-* [2026-04-11, 11:58:54](https://lobste.rs/s/mr6zro/analyzing_kde_project_health_with_git) - [Analyzing KDE Project Health With git](https://pointieststick.com/2026/04/10/analyzing-kde-project-health-with-git/)
+* [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
+* [2026-04-11, 13:07:41](https://lobste.rs/s/jcohup/eu_s_ees_fingerprint_photo_travel_rules) - [EU's EES fingerprint and photo travel rules come into force](https://www.bbc.com/news/articles/c39rkpe8mj2o)
+* [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 11:32:24](https://lobste.rs/s/gvg4lv/how_passive_radar_works) - [How passive radar works](https://www.passiveradar.com/how-passive-radar-works/)
 * [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
 * [2026-04-11, 10:53:58](https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack) - [Windows Defender is being used to hack Windows](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
@@ -23,7 +24,6 @@
 * [2026-04-10, 13:34:03](https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet) - [Why Aren't We uv Yet?](https://aleyan.com/blog/2026-why-arent-we-uv-yet)
 * [2026-04-10, 10:29:37](https://lobste.rs/s/3ukqqt/installing_every_firefox_extension) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension/)
 * [2026-04-10, 09:53:52](https://lobste.rs/s/iq7i4f/favorite_programmer_website) - [Favorite programmer website?](https://lobste.rs/s/iq7i4f/favorite_programmer_website)
-* [2026-04-10, 07:59:27](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/rcom8t/what_are_you_doing_this_weekend)
 * [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
 
 ## [Archives](archives/index.md)
