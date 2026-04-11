@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-11, 10:53:58",
+      "https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack"
+    ],
+    [
+      "Windows Defender is being used to hack Windows",
+      "https://hackingpassion.com/bluehammer-windows-defender-zero-day/"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 09:58:56",
       "https://lobste.rs/s/t1uxjh/i_just_want_simple_s3"
     ],
@@ -127,16 +137,6 @@
     [
       "Meet Kiki - an array language",
       "https://eli.li/kiki"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 15:55:34",
-      "https://lobste.rs/s/lnicis/ursa_new_iceberg_first_storage_engine_for"
-    ],
-    [
-      "Ursa - a new Iceberg-first storage engine for Kafka",
-      "https://topicpartition.io/blog/ursa-a-new-lakehouse-first-storage-engine-for-kafka"
     ]
   ],
   [
