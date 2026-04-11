@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-11, 22:44:05](https://lobste.rs/s/8uuu0j/productive_procrastination) - [Productive procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
+* [2026-04-11, 22:25:07](https://lobste.rs/s/wm1uxw/optimization_32_bit_unsigned_division_by) - [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)
 * [2026-04-11, 21:00:27](https://lobste.rs/s/cxwidw/no_one_owes_you_supply_chain_security) - [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
 * [2026-04-11, 20:26:47](https://lobste.rs/s/0ddkvb/brocards_for_vulnerability_triage) - [Brocards for vulnerability triage](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
 * [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
-* [2026-04-11, 15:44:05](https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator) - [fakecloud – Free, open-source AWS emulator (LocalStack alternative)](https://github.com/faiscadev/fakecloud)
 * [2026-04-11, 15:40:18](https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with) - [Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script](https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/)
 * [2026-04-11, 15:32:38](https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 * [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
 * [2026-04-11, 22:44:05](https://lobste.rs/s/8uuu0j/productive_procrastination) - [Productive procrastination](https://www.maxvanijsselmuiden.nl/blog/productive-procrastination/)
+* [2026-04-11, 22:25:07](https://lobste.rs/s/wm1uxw/optimization_32_bit_unsigned_division_by) - [Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets](https://arxiv.org/abs/2604.07902)
 * [2026-04-11, 21:00:27](https://lobste.rs/s/cxwidw/no_one_owes_you_supply_chain_security) - [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
 * [2026-04-11, 20:26:47](https://lobste.rs/s/0ddkvb/brocards_for_vulnerability_triage) - [Brocards for vulnerability triage](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
