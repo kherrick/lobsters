@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-04-11, 22:25:07",
+      "https://lobste.rs/s/wm1uxw/optimization_32_bit_unsigned_division_by"
+    ],
+    [
+      "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
+      "https://arxiv.org/abs/2604.07902"
+    ]
+  ],
+  [
+    [
       "2026-04-11, 21:00:27",
       "https://lobste.rs/s/cxwidw/no_one_owes_you_supply_chain_security"
     ],
@@ -47,16 +57,6 @@
     [
       "Bringing Rust to the Pixel Baseband",
       "https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 15:44:05",
-      "https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator"
-    ],
-    [
-      "fakecloud – Free, open-source AWS emulator (LocalStack alternative)",
-      "https://github.com/faiscadev/fakecloud"
     ]
   ],
   [
