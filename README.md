@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-11, 15:44:05](https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator) - [fakecloud – Free, open-source AWS emulator (LocalStack alternative)](https://github.com/faiscadev/fakecloud)
+* [2026-04-11, 15:40:18](https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with) - [Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script](https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/)
+* [2026-04-11, 15:32:38](https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 * [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 12:04:58](https://lobste.rs/s/yp747p/using_wireshark_reverse_engineer_usb) - [Using Wireshark to reverse-engineer a USB device](https://crescentro.se/posts/wireshark-usb/)
@@ -15,16 +18,13 @@
 * [2026-04-11, 06:01:41](https://lobste.rs/s/qywh3s/with_ai_you_barely_need_frontend) - [With AI, you barely need a frontend framework](https://dlants.me/vamp.html)
 * [2026-04-11, 05:05:11](https://lobste.rs/s/yysxis/advanced_mac_substitute) - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/)
 * [2026-04-11, 01:13:34](https://lobste.rs/s/sxvq6g/bet_on_whether_ml_kem_768_x25519_will_break) - [A bet on whether ML-KEM-768 or X25519 will break first](https://github.com/FiloSottile/ecc-vs-lattices-long-bet)
-* [2026-04-10, 19:49:46](https://lobste.rs/s/gh1rks/defense_github_s_poor_uptime) - [In defense of GitHub's poor uptime](https://evanhahn.com/in-defense-of-githubs-poor-uptime/)
 * [2026-04-10, 17:41:38](https://lobste.rs/s/k11wgv/difficulty_making_sure_your_website_is) - [The difficulty of making sure your website is broken](https://letsencrypt.org/2026/04/10/test-sites.html)
 * [2026-04-10, 17:32:45](https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip) - [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
 * [2026-04-10, 17:30:35](https://lobste.rs/s/cwxvlh/meet_kiki_array_language) - [Meet Kiki - an array language](https://eli.li/kiki)
 * [2026-04-10, 15:41:05](https://lobste.rs/s/hbirya/capsicum_vs_seccomp_process_sandboxing) - [Capsicum vs seccomp: Process Sandboxing](https://vivianvoss.net/blog/capsicum-vs-seccomp)
-* [2026-04-10, 14:31:31](https://lobste.rs/s/1sqv11/selective_test_execution_at_stripe_fast) - [Selective Test Execution at Stripe: Fast CI for a 50M-line Ruby monorepo](https://stripe.dev/blog/selective-test-execution-at-stripe-fast-ci-for-a-50m-line-ruby-monorepo)
 * [2026-04-10, 13:34:03](https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet) - [Why Aren't We uv Yet?](https://aleyan.com/blog/2026-why-arent-we-uv-yet)
 * [2026-04-10, 10:29:37](https://lobste.rs/s/3ukqqt/installing_every_firefox_extension) - [Installing every* Firefox extension](https://jack.cab/blog/every-firefox-extension/)
 * [2026-04-10, 09:53:52](https://lobste.rs/s/iq7i4f/favorite_programmer_website) - [Favorite programmer website?](https://lobste.rs/s/iq7i4f/favorite_programmer_website)
-* [2026-04-10, 07:35:09](https://lobste.rs/s/0vuzbv/maki_efficient_coder_ai_agent) - [maki - the efficient coder (AI agent)](https://maki.sh/)
 
 ## [Archives](archives/index.md)
 

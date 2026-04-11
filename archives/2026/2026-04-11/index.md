@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-11](index.md)
 
+* [2026-04-11, 15:44:05](https://lobste.rs/s/gjclmd/fakecloud_free_open_source_aws_emulator) - [fakecloud – Free, open-source AWS emulator (LocalStack alternative)](https://github.com/faiscadev/fakecloud)
+* [2026-04-11, 15:40:18](https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with) - [Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script](https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/)
+* [2026-04-11, 15:32:38](https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 * [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 * [2026-04-11, 13:07:41](https://lobste.rs/s/jcohup/eu_s_ees_fingerprint_photo_travel_rules) - [EU's EES fingerprint and photo travel rules come into force](https://www.bbc.com/news/articles/c39rkpe8mj2o)
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
