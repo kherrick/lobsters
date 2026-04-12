@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-04-12, 06:46:36",
+      "https://lobste.rs/s/iy5upt/irda"
+    ],
+    [
+      "IrDA",
+      "https://computer.rip/2026-04-11-IrDA.html"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 05:56:33",
       "https://lobste.rs/s/s8znzv/end_eleventy"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2026-04-12, 02:15:08",
+      "https://lobste.rs/s/xwxhuz/how_gran_turismo_s_creator_snuck_sim_into"
+    ],
+    [
+      "How Gran Turismo's Creator Snuck a Sim Into a Mario Kart Rival to Persuade Sony Execs",
+      "https://www.thedrive.com/features/how-gran-turismos-creator-snuck-a-sim-into-a-mario-kart-rival-to-persuade-sony-execs"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 00:10:54",
       "https://lobste.rs/s/66gclj/surely_there_must_be_way_make_container"
     ],
     [
       "Surely there must be a way to make container secrets less dangerous?",
       "https://dalmatian.life/2026/04/11/surely-there-must-be-a-way-to-make-container-secrets-less-dangerous/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 22:25:07",
-      "https://lobste.rs/s/wm1uxw/optimization_32_bit_unsigned_division_by"
-    ],
-    [
-      "Optimization of 32-bit Unsigned Division by Constants on 64-bit Targets",
-      "https://arxiv.org/abs/2604.07902"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Git fixup is magic (and Magit is too)",
       "https://arialdomartini.github.io/git-fixup"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 11:32:24",
-      "https://lobste.rs/s/gvg4lv/how_passive_radar_works"
-    ],
-    [
-      "How passive radar works",
-      "https://www.passiveradar.com/how-passive-radar-works/"
     ]
   ],
   [
