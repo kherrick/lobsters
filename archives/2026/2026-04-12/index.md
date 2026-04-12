@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 23:32:00](https://lobste.rs/s/6wxsq3/native_raspberry_pi_3b_version_oberon) - [Native Raspberry Pi 3b version of the Oberon System 3](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10)
 * [2026-04-12, 21:34:10](https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance) - [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
 * [2026-04-12, 21:19:55](https://lobste.rs/s/kulbhu/mark_s_magic_multiply) - [Mark’s Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
 * [2026-04-12, 20:50:50](https://lobste.rs/s/tphqlg/i_want_better_build_action_graph) - [I want a better [build] action graph serialization](https://jyn.dev/i-want-a-better-action-graph-serialization/)
