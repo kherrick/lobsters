@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-12, 20:31:59](https://lobste.rs/s/9ihinj/business_case_for_vanilla_js) - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html)
+* [2026-04-12, 19:53:57](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000) - [48 hours ago lobste.rs surpassed 20,000 users](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000)
 * [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:01:46](https://lobste.rs/s/o2b59m/forgejo_monthly_report_march_2026) - [Forgejo monthly report - March 2026](https://forgejo.org/2026-03-monthly-report/)
 * [2026-04-12, 18:32:46](https://lobste.rs/s/vpdpkq/llm_reviews_cargo_crev) - [LLM Reviews in cargo-crev](https://dpc.pw/posts/llm-reviews-in-cargo-crev/)
 * [2026-04-12, 17:56:19](https://lobste.rs/s/hkmwlc/speeding_up_access_openstreetmap_vector) - [Speeding up access to OpenStreetMap vector tiles](https://www.openstreetmap.org/user/SomeoneElse/diary/408501)
-* [2026-04-12, 17:26:27](https://lobste.rs/s/xduz1v/technical_irrational) - [The Technical Irrational](https://blog.joinmeonmy.quest/the-technical-irrational/)
 * [2026-04-12, 16:19:15](https://lobste.rs/s/5ywxzh/bring_back_idiomatic_design) - [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 * [2026-04-12, 15:53:24](https://lobste.rs/s/gptqt7/how_i_run_multiple_10k_mrr_companies_on_20) - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 * [2026-04-12, 14:56:18](https://lobste.rs/s/ogz2ro/what_is_property) - [What is a property?](https://alperenkeles.com/posts/what-is-a-property/)
@@ -24,7 +25,6 @@
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
 * [2026-04-11, 09:58:56](https://lobste.rs/s/t1uxjh/i_just_want_simple_s3) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
-* [2026-04-11, 06:57:36](https://lobste.rs/s/lynvme/20_years_on_aws_never_not_my_job) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 
 ## [Archives](archives/index.md)
 
