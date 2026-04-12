@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-12, 18:32:46",
+      "https://lobste.rs/s/vpdpkq/llm_reviews_cargo_crev"
+    ],
+    [
+      "LLM Reviews in cargo-crev",
+      "https://dpc.pw/posts/llm-reviews-in-cargo-crev/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 17:56:19",
+      "https://lobste.rs/s/hkmwlc/speeding_up_access_openstreetmap_vector"
+    ],
+    [
+      "Speeding up access to OpenStreetMap vector tiles",
+      "https://www.openstreetmap.org/user/SomeoneElse/diary/408501"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 17:15:32",
       "https://lobste.rs/s/8uzwtc/introduction_icon_animation_techniques"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-11, 15:40:18",
-      "https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with"
-    ],
-    [
-      "Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script",
-      "https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 13:18:19",
       "https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with"
     ],
@@ -227,16 +237,6 @@
     [
       "I Just Want Simple S3",
       "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 09:54:15",
-      "https://lobste.rs/s/buppqa/linux_kernel_ai_coding_assistants_policy"
-    ],
-    [
-      "Linux Kernel AI Coding Assistants Policy",
-      "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst"
     ]
   ],
   [
