@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-12, 07:40:27",
+      "https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline"
+    ],
+    [
+      "The quest for the perfect 2D sprite pipeline",
+      "https://www.coldbytesgames.com/blog/sprite_pipeline/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 07:25:13",
+      "https://lobste.rs/s/xkayyn/how_build_git_diff_driver"
+    ],
+    [
+      "How to build a git diff driver",
+      "https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 05:56:33",
       "https://lobste.rs/s/s8znzv/end_eleventy"
     ],
@@ -227,26 +247,6 @@
     [
       "Put your SSH keys in your TPM chip",
       "https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 17:30:35",
-      "https://lobste.rs/s/cwxvlh/meet_kiki_array_language"
-    ],
-    [
-      "Meet Kiki - an array language",
-      "https://eli.li/kiki"
-    ]
-  ],
-  [
-    [
-      "2026-04-10, 13:34:03",
-      "https://lobste.rs/s/xfbwic/why_aren_t_we_uv_yet"
-    ],
-    [
-      "Why Aren't We uv Yet?",
-      "https://aleyan.com/blog/2026-why-arent-we-uv-yet"
     ]
   ]
 ]
