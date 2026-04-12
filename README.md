@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
+* [2026-04-12, 19:01:46](https://lobste.rs/s/o2b59m/forgejo_monthly_report_march_2026) - [Forgejo monthly report - March 2026](https://forgejo.org/2026-03-monthly-report/)
 * [2026-04-12, 18:32:46](https://lobste.rs/s/vpdpkq/llm_reviews_cargo_crev) - [LLM Reviews in cargo-crev](https://dpc.pw/posts/llm-reviews-in-cargo-crev/)
 * [2026-04-12, 17:56:19](https://lobste.rs/s/hkmwlc/speeding_up_access_openstreetmap_vector) - [Speeding up access to OpenStreetMap vector tiles](https://www.openstreetmap.org/user/SomeoneElse/diary/408501)
 * [2026-04-12, 17:15:32](https://lobste.rs/s/8uzwtc/introduction_icon_animation_techniques) - [An Introduction to Icon Animation Techniques (2016)](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
@@ -19,10 +21,8 @@
 * [2026-04-11, 20:26:47](https://lobste.rs/s/0ddkvb/brocards_for_vulnerability_triage) - [Brocards for vulnerability triage](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
 * [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
-* [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
-* [2026-04-11, 10:53:58](https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack) - [Windows Defender is being used to hack Windows](https://hackingpassion.com/bluehammer-windows-defender-zero-day/)
 * [2026-04-11, 09:58:56](https://lobste.rs/s/t1uxjh/i_just_want_simple_s3) - [I Just Want Simple S3](https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/)
 * [2026-04-11, 06:57:36](https://lobste.rs/s/lynvme/20_years_on_aws_never_not_my_job) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 

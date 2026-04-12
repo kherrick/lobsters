@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
+* [2026-04-12, 19:01:46](https://lobste.rs/s/o2b59m/forgejo_monthly_report_march_2026) - [Forgejo monthly report - March 2026](https://forgejo.org/2026-03-monthly-report/)
 * [2026-04-12, 18:32:46](https://lobste.rs/s/vpdpkq/llm_reviews_cargo_crev) - [LLM Reviews in cargo-crev](https://dpc.pw/posts/llm-reviews-in-cargo-crev/)
 * [2026-04-12, 17:56:19](https://lobste.rs/s/hkmwlc/speeding_up_access_openstreetmap_vector) - [Speeding up access to OpenStreetMap vector tiles](https://www.openstreetmap.org/user/SomeoneElse/diary/408501)
 * [2026-04-12, 17:15:32](https://lobste.rs/s/8uzwtc/introduction_icon_animation_techniques) - [An Introduction to Icon Animation Techniques (2016)](https://www.androiddesignpatterns.com/2016/11/introduction-to-icon-animation-techniques.html)
