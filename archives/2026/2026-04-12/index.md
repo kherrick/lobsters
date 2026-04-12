@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-12](index.md)
 
+* [2026-04-12, 20:50:50](https://lobste.rs/s/tphqlg/i_want_better_build_action_graph) - [I want a better [build] action graph serialization](https://jyn.dev/i-want-a-better-action-graph-serialization/)
 * [2026-04-12, 20:31:59](https://lobste.rs/s/9ihinj/business_case_for_vanilla_js) - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html)
 * [2026-04-12, 19:53:57](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000) - [48 hours ago lobste.rs surpassed 20,000 users](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000)
 * [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
