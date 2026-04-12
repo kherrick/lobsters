@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-12, 21:34:10",
+      "https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance"
+    ],
+    [
+      "An undocumented bug in the Apollo 11 guidance computer code",
+      "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 21:19:55",
+      "https://lobste.rs/s/kulbhu/mark_s_magic_multiply"
+    ],
+    [
+      "Mark’s Magic Multiply",
+      "https://wren.wtf/shower-thoughts/marks-magic-multiply/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 20:50:50",
       "https://lobste.rs/s/tphqlg/i_want_better_build_action_graph"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-04-12, 02:15:08",
-      "https://lobste.rs/s/xwxhuz/how_gran_turismo_s_creator_snuck_sim_into"
-    ],
-    [
-      "How Gran Turismo's Creator Snuck a Sim Into a Mario Kart Rival to Persuade Sony Execs",
-      "https://www.thedrive.com/features/how-gran-turismos-creator-snuck-a-sim-into-a-mario-kart-rival-to-persuade-sony-execs"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 00:10:54",
       "https://lobste.rs/s/66gclj/surely_there_must_be_way_make_container"
     ],
@@ -207,16 +217,6 @@
     [
       "Writing design docs",
       "https://blog.ceejbot.com/posts/design-docs/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 19:00:34",
-      "https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband"
-    ],
-    [
-      "Bringing Rust to the Pixel Baseband",
-      "https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html"
     ]
   ],
   [
