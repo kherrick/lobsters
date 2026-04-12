@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-12, 10:04:37",
+      "https://lobste.rs/s/apczke/doom_played_over_curl"
+    ],
+    [
+      "DOOM, played over cURL",
+      "https://github.com/xsawyerx/curl-doom"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 07:40:27",
       "https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline"
     ],
@@ -117,16 +127,6 @@
     [
       "Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script",
       "https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 15:32:38",
-      "https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64"
-    ],
-    [
-      "Investigating Split Locks on x86-64",
-      "https://chipsandcheese.com/p/investigating-split-locks-on-x86"
     ]
   ],
   [
