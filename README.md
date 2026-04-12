@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-12, 10:04:37](https://lobste.rs/s/apczke/doom_played_over_curl) - [DOOM, played over cURL](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 07:40:27](https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline) - [The quest for the perfect 2D sprite pipeline](https://www.coldbytesgames.com/blog/sprite_pipeline/)
 * [2026-04-12, 07:25:13](https://lobste.rs/s/xkayyn/how_build_git_diff_driver) - [How to build a git diff driver](https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/)
 * [2026-04-12, 06:46:36](https://lobste.rs/s/iy5upt/irda) - [IrDA](https://computer.rip/2026-04-11-IrDA.html)
@@ -12,7 +13,6 @@
 * [2026-04-11, 19:17:47](https://lobste.rs/s/dbm3sa/writing_design_docs) - [Writing design docs](https://blog.ceejbot.com/posts/design-docs/)
 * [2026-04-11, 19:00:34](https://lobste.rs/s/wbdjkp/bringing_rust_pixel_baseband) - [Bringing Rust to the Pixel Baseband](https://security.googleblog.com/2026/04/bringing-rust-to-pixel-baseband.html)
 * [2026-04-11, 15:40:18](https://lobste.rs/s/qhsyjh/replacing_lenovo_s_wwan_unlock_blob_with) - [Replacing Lenovo’s WWAN Unlock Blob with a 100-Line Bash Script](https://blog.hofstede.it/replacing-lenovos-wwan-unlock-blob-with-a-100-line-bash-script/)
-* [2026-04-11, 15:32:38](https://lobste.rs/s/b4z82c/investigating_split_locks_on_x86_64) - [Investigating Split Locks on x86-64](https://chipsandcheese.com/p/investigating-split-locks-on-x86)
 * [2026-04-11, 13:18:19](https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with) - [High-Level Rust: Getting 80% of the Benefits with 20% of the Pain](https://hamy.xyz/blog/2026-01_high-level-rust)
 * [2026-04-11, 13:05:45](https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too) - [Git fixup is magic (and Magit is too)](https://arialdomartini.github.io/git-fixup)
 * [2026-04-11, 11:18:56](https://lobste.rs/s/sqsb24/sqlite_3_53_0) - [SQLite 3.53.0](https://sqlite.org/releaselog/3_53_0.html)
