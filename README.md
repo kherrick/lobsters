@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-12, 14:56:18](https://lobste.rs/s/ogz2ro/what_is_property) - [What is a property?](https://alperenkeles.com/posts/what-is-a-property/)
 * [2026-04-12, 11:36:00](https://lobste.rs/s/4kticv/rust_is_just_tool) - [Rust is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
 * [2026-04-12, 10:04:37](https://lobste.rs/s/apczke/doom_played_over_curl) - [DOOM, played over cURL](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 07:40:27](https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline) - [The quest for the perfect 2D sprite pipeline](https://www.coldbytesgames.com/blog/sprite_pipeline/)
@@ -22,7 +23,6 @@
 * [2026-04-11, 07:09:41](https://lobste.rs/s/1areqp/how_rust_is_susceptible_supply_chain) - [How Rust is susceptible to supply chain attacks and what we can do to mitigate the inevitable](https://kerkour.com/rust-supply-chain-nightmare)
 * [2026-04-11, 06:57:36](https://lobste.rs/s/lynvme/20_years_on_aws_never_not_my_job) - [20 Years on AWS and Never Not My Job](https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html)
 * [2026-04-11, 06:01:41](https://lobste.rs/s/qywh3s/with_ai_you_barely_need_frontend) - [With AI, you barely need a frontend framework](https://dlants.me/vamp.html)
-* [2026-04-11, 05:05:11](https://lobste.rs/s/yysxis/advanced_mac_substitute) - [Advanced Mac Substitute](https://www.v68k.org/advanced-mac-substitute/)
 * [2026-04-11, 01:13:34](https://lobste.rs/s/sxvq6g/bet_on_whether_ml_kem_768_x25519_will_break) - [A bet on whether ML-KEM-768 or X25519 will break first](https://github.com/FiloSottile/ecc-vs-lattices-long-bet)
 * [2026-04-10, 17:32:45](https://lobste.rs/s/ggum7f/put_your_ssh_keys_your_tpm_chip) - [Put your SSH keys in your TPM chip](https://raymii.org/s/tutorials/Put_your_SSH_keys_in_your_TPM_chip.html)
 
