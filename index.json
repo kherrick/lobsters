@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-12, 19:17:36",
+      "https://lobste.rs/s/tmddcs/peril_laziness_lost"
+    ],
+    [
+      "The peril of laziness lost",
+      "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/"
+    ]
+  ],
+  [
+    [
+      "2026-04-12, 19:01:46",
+      "https://lobste.rs/s/o2b59m/forgejo_monthly_report_march_2026"
+    ],
+    [
+      "Forgejo monthly report - March 2026",
+      "https://forgejo.org/2026-03-monthly-report/"
+    ]
+  ],
+  [
+    [
       "2026-04-12, 18:32:46",
       "https://lobste.rs/s/vpdpkq/llm_reviews_cargo_crev"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-04-11, 13:18:19",
-      "https://lobste.rs/s/ubqgew/high_level_rust_getting_80_benefits_with"
-    ],
-    [
-      "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
-      "https://hamy.xyz/blog/2026-01_high-level-rust"
-    ]
-  ],
-  [
-    [
       "2026-04-11, 13:05:45",
       "https://lobste.rs/s/2urycz/git_fixup_is_magic_magit_is_too"
     ],
@@ -217,16 +227,6 @@
     [
       "SQLite 3.53.0",
       "https://sqlite.org/releaselog/3_53_0.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 10:53:58",
-      "https://lobste.rs/s/hihcnv/windows_defender_is_being_used_hack"
-    ],
-    [
-      "Windows Defender is being used to hack Windows",
-      "https://hackingpassion.com/bluehammer-windows-defender-zero-day/"
     ]
   ],
   [
