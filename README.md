@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-13, 12:37:13](https://lobste.rs/s/gtngfg/show_digest_claude_code_skill_for_daily) - [Show: /digest – a Claude Code skill for daily dev news digest](https://github.com/camilleroux/tech-digest)
+* [2026-04-13, 12:02:51](https://lobste.rs/s/3ci3hd/reflecting_on_deserialization_why_you) - [Reflecting on deserialization. Why you should explicitly decode your JSON](https://hashset.dev/article/2026/03/21/reflecting-on-deserialization-why-you-should-explicitly-decode-your-json/)
+* [2026-04-13, 11:43:10](https://lobste.rs/s/sslbph/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sslbph/what_are_you_doing_this_week)
 * [2026-04-13, 10:30:59](https://lobste.rs/s/rnx6fh/all_elementary_functions_from_single) - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-* [2026-04-13, 10:02:00](https://lobste.rs/s/kerk4o/live_bag_tricks) - [Live++: A Bag of Tricks](https://liveplusplus.tech/downloads/Guerrilla_Games_2026_Live++_A_Bag_of_Tricks.pdf)
-* [2026-04-13, 08:53:40](https://lobste.rs/s/kw3twy/xtrace_command_line_cpu_profiling_for) - [xtrace — Command-line CPU Profiling for macOS as a skill](https://github.com/Kr1sso/xtrace-skill)
 * [2026-04-13, 08:08:30](https://lobste.rs/s/o7zxmn/programming_used_be_free) - [Programming used to be free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 07:04:28](https://lobste.rs/s/j663ld/curl_dns_2026) - [curl DNS 2026](https://eissing.org/icing/posts/curl-dns-threads/)
@@ -22,7 +23,6 @@
 * [2026-04-12, 14:56:18](https://lobste.rs/s/ogz2ro/what_is_property) - [What is a property?](https://alperenkeles.com/posts/what-is-a-property/)
 * [2026-04-12, 11:36:00](https://lobste.rs/s/4kticv/rust_is_just_tool) - [Rust is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
 * [2026-04-12, 06:46:36](https://lobste.rs/s/iy5upt/irda) - [IrDA](https://computer.rip/2026-04-11-IrDA.html)
-* [2026-04-12, 00:10:54](https://lobste.rs/s/66gclj/surely_there_must_be_way_make_container) - [Surely there must be a way to make container secrets less dangerous?](https://dalmatian.life/2026/04/11/surely-there-must-be-a-way-to-make-container-secrets-less-dangerous/)
 * [2026-04-11, 21:00:27](https://lobste.rs/s/cxwidw/no_one_owes_you_supply_chain_security) - [No one owes you supply-chain security](https://purplesyringa.moe/blog/no-one-owes-you-supply-chain-security/)
 * [2026-04-11, 20:26:47](https://lobste.rs/s/0ddkvb/brocards_for_vulnerability_triage) - [Brocards for vulnerability triage](https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage)
 
