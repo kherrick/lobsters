@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-13, 10:02:00",
+      "https://lobste.rs/s/kerk4o/live_bag_tricks"
+    ],
+    [
+      "Live++: A Bag of Tricks",
+      "https://liveplusplus.tech/downloads/Guerrilla_Games_2026_Live++_A_Bag_of_Tricks.pdf"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 08:53:40",
+      "https://lobste.rs/s/kw3twy/xtrace_command_line_cpu_profiling_for"
+    ],
+    [
+      "xtrace — Command-line CPU Profiling for macOS as a skill",
+      "https://github.com/Kr1sso/xtrace-skill"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 08:08:30",
+      "https://lobste.rs/s/o7zxmn/programming_used_be_free"
+    ],
+    [
+      "Programming used to be free",
+      "https://purplesyringa.moe/blog/programming-used-to-be-free/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 07:47:03",
       "https://lobste.rs/s/c1tlxi/dumb_introduction_z3"
     ],
@@ -77,16 +107,6 @@
     [
       "Mark’s Magic Multiply",
       "https://wren.wtf/shower-thoughts/marks-magic-multiply/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 20:50:50",
-      "https://lobste.rs/s/tphqlg/i_want_better_build_action_graph"
-    ],
-    [
-      "I want a better [build] action graph serialization",
-      "https://jyn.dev/i-want-a-better-action-graph-serialization/"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "IrDA",
       "https://computer.rip/2026-04-11-IrDA.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 05:56:33",
-      "https://lobste.rs/s/s8znzv/end_eleventy"
-    ],
-    [
-      "The End of Eleventy",
-      "https://brennan.day/the-end-of-eleventy/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 05:51:20",
-      "https://lobste.rs/s/uahlqe/why_i_m_building_database_engine_c"
-    ],
-    [
-      "Why I'm Building a Database Engine in C#",
-      "https://nockawa.github.io/blog/why-building-database-engine-in-csharp/"
     ]
   ],
   [
