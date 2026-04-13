@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 15:48:45](https://lobste.rs/s/9w4iju/app_store_reviews_are_busted) - [App Store Reviews are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html)
+* [2026-04-13, 15:28:32](https://lobste.rs/s/v30zok/autoscaling_forgejo_runner) - [Autoscaling Forgejo Runner](https://aahlenst.dev/blog/autoscaling-forgejo-runner/)
 * [2026-04-13, 15:12:52](https://lobste.rs/s/pvawq1/configuration_flags_are_where_software) - [Configuration flags are where software goes to rot](https://00f.net/2026/04/11/config-flags/)
 * [2026-04-13, 14:36:49](https://lobste.rs/s/cyzmjq/recovering_lost_document_habitat) - [Recovering a Lost Document: Habitat Anecdotes (1988)](https://habitatchronicles.com/2026/04/habitat-anecdotes/)
 * [2026-04-13, 13:52:04](https://lobste.rs/s/brblmp/malleable_software) - [Malleable Software](https://blog.cemunalan.com.tr/2026/02/01/malleable-software/)
