@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-13, 17:38:21](https://lobste.rs/s/n6j8tr/hybrid_constructions_post_quantum) - [Hybrid Constructions: The Post-Quantum Safety Blanket](https://soatok.blog/2026/04/13/hybrid-constructions-the-post-quantum-safety-blanket/)
+* [2026-04-13, 17:23:50](https://lobste.rs/s/rkxqhq/running_first_program) - [Running the first program](https://enigmaticcode.wordpress.com/tag/bernoulli-numbers/)
 * [2026-04-13, 16:28:30](https://lobste.rs/s/9muqc5/debloat_your_async_rust) - [Debloat your async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 15:48:45](https://lobste.rs/s/9w4iju/app_store_reviews_are_busted) - [App Store Reviews are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html)
@@ -16,8 +18,6 @@
 * [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
 * [2026-04-12, 23:32:00](https://lobste.rs/s/6wxsq3/native_raspberry_pi_3b_version_oberon) - [Native Raspberry Pi 3b version of the Oberon System 3](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10)
-* [2026-04-12, 21:34:10](https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance) - [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
-* [2026-04-12, 21:19:55](https://lobste.rs/s/kulbhu/mark_s_magic_multiply) - [Mark’s Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
 * [2026-04-12, 20:31:59](https://lobste.rs/s/9ihinj/business_case_for_vanilla_js) - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html)
 * [2026-04-12, 19:53:57](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000) - [48 hours ago lobste.rs surpassed 20,000 users](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000)
 * [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)

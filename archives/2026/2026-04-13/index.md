@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 17:38:21](https://lobste.rs/s/n6j8tr/hybrid_constructions_post_quantum) - [Hybrid Constructions: The Post-Quantum Safety Blanket](https://soatok.blog/2026/04/13/hybrid-constructions-the-post-quantum-safety-blanket/)
+* [2026-04-13, 17:23:50](https://lobste.rs/s/rkxqhq/running_first_program) - [Running the first program](https://enigmaticcode.wordpress.com/tag/bernoulli-numbers/)
 * [2026-04-13, 16:28:30](https://lobste.rs/s/9muqc5/debloat_your_async_rust) - [Debloat your async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 15:48:45](https://lobste.rs/s/9w4iju/app_store_reviews_are_busted) - [App Store Reviews are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html)
