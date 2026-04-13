@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-04-13, 18:56:12",
+      "https://lobste.rs/s/2331yj/introducing_brunost_nynorsk"
+    ],
+    [
+      "Introducing Brunost: The Nynorsk Programming Language",
+      "https://lindbakk.com/blog/introducing-brunost"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 17:38:21",
       "https://lobste.rs/s/n6j8tr/hybrid_constructions_post_quantum"
     ],
@@ -177,16 +187,6 @@
     [
       "Did you notice the command error exit in the shell?",
       "https://monzool.net/blog/2026/04/10/error-banner-in-shell/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 23:32:00",
-      "https://lobste.rs/s/6wxsq3/native_raspberry_pi_3b_version_oberon"
-    ],
-    [
-      "Native Raspberry Pi 3b version of the Oberon System 3",
-      "https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10"
     ]
   ],
   [
