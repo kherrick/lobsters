@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-13, 10:30:59](https://lobste.rs/s/rnx6fh/all_elementary_functions_from_single) - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
 * [2026-04-13, 10:02:00](https://lobste.rs/s/kerk4o/live_bag_tricks) - [Live++: A Bag of Tricks](https://liveplusplus.tech/downloads/Guerrilla_Games_2026_Live++_A_Bag_of_Tricks.pdf)
 * [2026-04-13, 08:53:40](https://lobste.rs/s/kw3twy/xtrace_command_line_cpu_profiling_for) - [xtrace — Command-line CPU Profiling for macOS as a skill](https://github.com/Kr1sso/xtrace-skill)
 * [2026-04-13, 08:08:30](https://lobste.rs/s/o7zxmn/programming_used_be_free) - [Programming used to be free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 07:04:28](https://lobste.rs/s/j663ld/curl_dns_2026) - [curl DNS 2026](https://eissing.org/icing/posts/curl-dns-threads/)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
-* [2026-04-13, 04:27:17](https://lobste.rs/s/ixvtox/global_api_injection_pattern) - [The Global API Injection Pattern](https://www.elbeno.com/blog/?p=1831)
 * [2026-04-13, 00:53:28](https://lobste.rs/s/yiiupr/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL (2024)](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2026-04-12, 23:32:00](https://lobste.rs/s/6wxsq3/native_raspberry_pi_3b_version_oberon) - [Native Raspberry Pi 3b version of the Oberon System 3](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10)
 * [2026-04-12, 21:34:10](https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance) - [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)

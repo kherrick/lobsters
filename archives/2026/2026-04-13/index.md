@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 10:30:59](https://lobste.rs/s/rnx6fh/all_elementary_functions_from_single) - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
 * [2026-04-13, 10:02:00](https://lobste.rs/s/kerk4o/live_bag_tricks) - [Live++: A Bag of Tricks](https://liveplusplus.tech/downloads/Guerrilla_Games_2026_Live++_A_Bag_of_Tricks.pdf)
 * [2026-04-13, 08:53:40](https://lobste.rs/s/kw3twy/xtrace_command_line_cpu_profiling_for) - [xtrace — Command-line CPU Profiling for macOS as a skill](https://github.com/Kr1sso/xtrace-skill)
 * [2026-04-13, 08:08:30](https://lobste.rs/s/o7zxmn/programming_used_be_free) - [Programming used to be free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
