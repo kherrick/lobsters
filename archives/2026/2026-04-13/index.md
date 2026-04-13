@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 16:28:30](https://lobste.rs/s/9muqc5/debloat_your_async_rust) - [Debloat your async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 15:48:45](https://lobste.rs/s/9w4iju/app_store_reviews_are_busted) - [App Store Reviews are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html)
 * [2026-04-13, 15:28:32](https://lobste.rs/s/v30zok/autoscaling_forgejo_runner) - [Autoscaling Forgejo Runner](https://aahlenst.dev/blog/autoscaling-forgejo-runner/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-13, 16:28:30](https://lobste.rs/s/9muqc5/debloat_your_async_rust) - [Debloat your async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
 * [2026-04-13, 15:48:45](https://lobste.rs/s/9w4iju/app_store_reviews_are_busted) - [App Store Reviews are Busted](https://blog.terrygodier.com/2026/04/13/app-store-reviews-are-busted.html)
 * [2026-04-13, 15:28:32](https://lobste.rs/s/v30zok/autoscaling_forgejo_runner) - [Autoscaling Forgejo Runner](https://aahlenst.dev/blog/autoscaling-forgejo-runner/)
@@ -14,7 +15,6 @@
 * [2026-04-13, 08:08:30](https://lobste.rs/s/o7zxmn/programming_used_be_free) - [Programming used to be free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
-* [2026-04-13, 00:53:28](https://lobste.rs/s/yiiupr/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL (2024)](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2026-04-12, 23:32:00](https://lobste.rs/s/6wxsq3/native_raspberry_pi_3b_version_oberon) - [Native Raspberry Pi 3b version of the Oberon System 3](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10)
 * [2026-04-12, 21:34:10](https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance) - [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
 * [2026-04-12, 21:19:55](https://lobste.rs/s/kulbhu/mark_s_magic_multiply) - [Mark’s Magic Multiply](https://wren.wtf/shower-thoughts/marks-magic-multiply/)
