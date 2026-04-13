@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 19:24:49](https://lobste.rs/s/uqhwj1/how_make_firefox_builds_17_faster) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
+* [2026-04-13, 19:23:18](https://lobste.rs/s/5lux00/ducklake_v1_0_lightweight_lakehouse) - [DuckLake v1.0 – The Lightweight Lakehouse Format Reaches Production-Readiness](https://ducklake.select/2026/04/13/ducklake-10/)
 * [2026-04-13, 17:38:21](https://lobste.rs/s/n6j8tr/hybrid_constructions_post_quantum) - [Hybrid Constructions: The Post-Quantum Safety Blanket](https://soatok.blog/2026/04/13/hybrid-constructions-the-post-quantum-safety-blanket/)
 * [2026-04-13, 17:23:50](https://lobste.rs/s/rkxqhq/running_first_program) - [Running the first program](https://enigmaticcode.wordpress.com/tag/bernoulli-numbers/)
 * [2026-04-13, 16:28:30](https://lobste.rs/s/9muqc5/debloat_your_async_rust) - [Debloat your async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust)
