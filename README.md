@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-13, 01:48:22](https://lobste.rs/s/ky0igg/introduction_spherical_harmonics_for) - [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html)
 * [2026-04-13, 00:53:28](https://lobste.rs/s/yiiupr/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL (2024)](https://research.google/pubs/sql-has-problems-we-can-fix-them-pipe-syntax-in-sql/)
 * [2026-04-12, 23:32:00](https://lobste.rs/s/6wxsq3/native_raspberry_pi_3b_version_oberon) - [Native Raspberry Pi 3b version of the Oberon System 3](https://github.com/rochus-keller/OberonSystem3Native/releases/tag/2026-04-10)
 * [2026-04-12, 21:34:10](https://lobste.rs/s/pel3uq/undocumented_bug_apollo_11_guidance) - [An undocumented bug in the Apollo 11 guidance computer code](https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/)
@@ -15,7 +16,6 @@
 * [2026-04-12, 15:53:24](https://lobste.rs/s/gptqt7/how_i_run_multiple_10k_mrr_companies_on_20) - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 * [2026-04-12, 14:56:18](https://lobste.rs/s/ogz2ro/what_is_property) - [What is a property?](https://alperenkeles.com/posts/what-is-a-property/)
 * [2026-04-12, 11:36:00](https://lobste.rs/s/4kticv/rust_is_just_tool) - [Rust is Just a Tool](https://lewiscampbell.tech/blog/260204.html)
-* [2026-04-12, 10:04:37](https://lobste.rs/s/apczke/doom_played_over_curl) - [DOOM, played over cURL](https://github.com/xsawyerx/curl-doom)
 * [2026-04-12, 07:40:27](https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline) - [The quest for the perfect 2D sprite pipeline](https://www.coldbytesgames.com/blog/sprite_pipeline/)
 * [2026-04-12, 06:46:36](https://lobste.rs/s/iy5upt/irda) - [IrDA](https://computer.rip/2026-04-11-IrDA.html)
 * [2026-04-12, 05:56:33](https://lobste.rs/s/s8znzv/end_eleventy) - [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
