@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 13:52:04](https://lobste.rs/s/brblmp/malleable_software) - [Malleable Software](https://blog.cemunalan.com.tr/2026/02/01/malleable-software/)
+* [2026-04-13, 13:42:04](https://lobste.rs/s/f8vyzy/servo_0_1_0_first_lts_version_is_now) - [Servo 0.1.0 (first LTS version) is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
+* [2026-04-13, 13:18:10](https://lobste.rs/s/xcurde/little_latex_pearls) - [Little LaTeX Pearls](https://ionathan.ch/2026/04/08/LaTeX.html)
+* [2026-04-13, 12:53:14](https://lobste.rs/s/v3hvsl/point_cloud_allemansratten) - [Point cloud allemansrätten](https://digitalflapjack.com/weeknotes/point-cloud-allemansr%C3%A4tten/)
 * [2026-04-13, 12:37:13](https://lobste.rs/s/gtngfg/show_digest_claude_code_skill_for_daily) - [Show: /digest – a Claude Code skill for daily dev news digest](https://github.com/camilleroux/tech-digest)
 * [2026-04-13, 12:02:51](https://lobste.rs/s/3ci3hd/reflecting_on_deserialization_why_you) - [Reflecting on deserialization. Why you should explicitly decode your JSON](https://hashset.dev/article/2026/03/21/reflecting-on-deserialization-why-you-should-explicitly-decode-your-json/)
 * [2026-04-13, 11:43:10](https://lobste.rs/s/sslbph/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sslbph/what_are_you_doing_this_week)
