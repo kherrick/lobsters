@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 10:02:00](https://lobste.rs/s/kerk4o/live_bag_tricks) - [Live++: A Bag of Tricks](https://liveplusplus.tech/downloads/Guerrilla_Games_2026_Live++_A_Bag_of_Tricks.pdf)
+* [2026-04-13, 08:53:40](https://lobste.rs/s/kw3twy/xtrace_command_line_cpu_profiling_for) - [xtrace — Command-line CPU Profiling for macOS as a skill](https://github.com/Kr1sso/xtrace-skill)
+* [2026-04-13, 08:08:30](https://lobste.rs/s/o7zxmn/programming_used_be_free) - [Programming used to be free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 07:04:28](https://lobste.rs/s/j663ld/curl_dns_2026) - [curl DNS 2026](https://eissing.org/icing/posts/curl-dns-threads/)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
