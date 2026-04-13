@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-13](index.md)
 
+* [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
+* [2026-04-13, 07:04:28](https://lobste.rs/s/j663ld/curl_dns_2026) - [curl DNS 2026](https://eissing.org/icing/posts/curl-dns-threads/)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
 * [2026-04-13, 04:27:17](https://lobste.rs/s/ixvtox/global_api_injection_pattern) - [The Global API Injection Pattern](https://www.elbeno.com/blog/?p=1831)
 * [2026-04-13, 01:48:22](https://lobste.rs/s/ky0igg/introduction_spherical_harmonics_for) - [Introduction to Spherical Harmonics for Graphics Programmers](https://gpfault.net/posts/sph.html)
