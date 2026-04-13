@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-13, 01:48:22",
+      "https://lobste.rs/s/ky0igg/introduction_spherical_harmonics_for"
+    ],
+    [
+      "Introduction to Spherical Harmonics for Graphics Programmers",
+      "https://gpfault.net/posts/sph.html"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 00:53:28",
       "https://lobste.rs/s/yiiupr/sql_has_problems_we_can_fix_them_pipe"
     ],
@@ -147,16 +157,6 @@
     [
       "Rust is Just a Tool",
       "https://lewiscampbell.tech/blog/260204.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 10:04:37",
-      "https://lobste.rs/s/apczke/doom_played_over_curl"
-    ],
-    [
-      "DOOM, played over cURL",
-      "https://github.com/xsawyerx/curl-doom"
     ]
   ],
   [
