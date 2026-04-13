@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-13, 10:30:59",
+      "https://lobste.rs/s/rnx6fh/all_elementary_functions_from_single"
+    ],
+    [
+      "All elementary functions from a single binary operator",
+      "https://arxiv.org/abs/2603.21852"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 10:02:00",
       "https://lobste.rs/s/kerk4o/live_bag_tricks"
     ],
@@ -57,16 +67,6 @@
     [
       "Did you notice the command error exit in the shell?",
       "https://monzool.net/blog/2026/04/10/error-banner-in-shell/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 04:27:17",
-      "https://lobste.rs/s/ixvtox/global_api_injection_pattern"
-    ],
-    [
-      "The Global API Injection Pattern",
-      "https://www.elbeno.com/blog/?p=1831"
     ]
   ],
   [
