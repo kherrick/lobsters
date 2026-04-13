@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-13, 07:47:03",
+      "https://lobste.rs/s/c1tlxi/dumb_introduction_z3"
+    ],
+    [
+      "A Dumb Introduction to z3",
+      "https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 07:04:28",
+      "https://lobste.rs/s/j663ld/curl_dns_2026"
+    ],
+    [
+      "curl DNS 2026",
+      "https://eissing.org/icing/posts/curl-dns-threads/"
+    ]
+  ],
+  [
+    [
       "2026-04-13, 05:53:07",
       "https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-12, 07:40:27",
-      "https://lobste.rs/s/ipqq90/quest_for_perfect_2d_sprite_pipeline"
-    ],
-    [
-      "The quest for the perfect 2D sprite pipeline",
-      "https://www.coldbytesgames.com/blog/sprite_pipeline/"
-    ]
-  ],
-  [
-    [
       "2026-04-12, 06:46:36",
       "https://lobste.rs/s/iy5upt/irda"
     ],
@@ -237,16 +247,6 @@
     [
       "Brocards for vulnerability triage",
       "https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 09:58:56",
-      "https://lobste.rs/s/t1uxjh/i_just_want_simple_s3"
-    ],
-    [
-      "I Just Want Simple S3",
-      "https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/"
     ]
   ]
 ]
