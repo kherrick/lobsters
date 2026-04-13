@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-04-13, 01:48:22",
-      "https://lobste.rs/s/ky0igg/introduction_spherical_harmonics_for"
+      "2026-04-13, 05:53:07",
+      "https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell"
     ],
     [
-      "Introduction to Spherical Harmonics for Graphics Programmers",
-      "https://gpfault.net/posts/sph.html"
+      "Did you notice the command error exit in the shell?",
+      "https://monzool.net/blog/2026/04/10/error-banner-in-shell/"
+    ]
+  ],
+  [
+    [
+      "2026-04-13, 04:27:17",
+      "https://lobste.rs/s/ixvtox/global_api_injection_pattern"
+    ],
+    [
+      "The Global API Injection Pattern",
+      "https://www.elbeno.com/blog/?p=1831"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Brocards for vulnerability triage",
       "https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage"
-    ]
-  ],
-  [
-    [
-      "2026-04-11, 11:18:56",
-      "https://lobste.rs/s/sqsb24/sqlite_3_53_0"
-    ],
-    [
-      "SQLite 3.53.0",
-      "https://sqlite.org/releaselog/3_53_0.html"
     ]
   ],
   [
