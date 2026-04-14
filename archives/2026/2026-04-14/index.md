@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 06:25:48](https://lobste.rs/s/0hmccr/tessera_pixel_wise_earth_observation) - [TESSERA — A pixel-wise earth observation foundation model](https://geotessera.org)
+* [2026-04-14, 05:24:38](https://lobste.rs/s/qqfsfo/moonbit_0_9_introducing_first_class) - [MoonBit 0.9: Introducing First-Class Formal Verification](https://www.moonbitlang.com/blog/moonbit-0-9-release)
 * [2026-04-14, 04:04:29](https://lobste.rs/s/okihff/someone_bought_30_wordpress_plugins) - [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
 * [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
