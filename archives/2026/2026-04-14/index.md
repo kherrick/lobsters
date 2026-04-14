@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 20:22:31](https://lobste.rs/s/uaipwe/quiche_browser_beautifully) - [Quiche Browser — Beautifully customizable web browser](https://quiche.industries/browser/)
 * [2026-04-14, 19:46:52](https://lobste.rs/s/l79aep/release_openssl_4_0_0) - [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
 * [2026-04-14, 19:38:04](https://lobste.rs/s/hvq8gc/nineteen_features_zero_architecture) - [Nineteen Features, Zero Architecture](https://fffej.substack.com/p/nineteen-features-zero-architecture)
 * [2026-04-14, 18:07:37](https://lobste.rs/s/iayq9d/thrilling_adventures_lovelace_babbage) - [The thrilling adventures of Lovelace and Babbage](https://archive.org/details/thrillingadventu0000padu_a0v1)
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
+* [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_not_ok_compare_floating_points_using) - [It's NOT OK to compare floating-points using epsilons](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
 * [2026-04-14, 16:20:21](https://lobste.rs/s/iygpmx/jemalloc_5_3_1_released) - [jemalloc 5.3.1 released](https://github.com/jemalloc/jemalloc/releases/tag/5.3.1)
 * [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
