@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
+* [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
 * [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
 * [2026-04-14, 16:13:26](https://lobste.rs/s/ko3ur4/faith_based_computing_versus_unnatural) - [Faith-based computing versus the unnatural science](https://queue.acm.org/detail.cfm?id=3806209)
 * [2026-04-14, 15:10:25](https://lobste.rs/s/1fwhvf/ark_vcs_version_control_for_games) - [Ark VCS - Version Control For Games](https://ark-vcs.com/)
