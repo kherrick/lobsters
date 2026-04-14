@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-14, 22:05:23",
+      "https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4"
+    ],
+    [
+      "TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups",
+      "https://truffleruby.dev/blog/truffleruby-34-is-released"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 20:22:31",
       "https://lobste.rs/s/uaipwe/quiche_browser_beautifully"
     ],
@@ -157,16 +167,6 @@
     [
       "Claude Code's Source: 3,167-Line Function, Regex Sentiment",
       "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 08:54:44",
-      "https://lobste.rs/s/iw7kz1/sem_semantic_version_control_cli"
-    ],
-    [
-      "sem: Semantic version control CLI",
-      "https://github.com/Ataraxy-Labs/sem"
     ]
   ],
   [
