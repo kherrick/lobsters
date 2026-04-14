@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-14, 19:46:52",
+      "https://lobste.rs/s/l79aep/release_openssl_4_0_0"
+    ],
+    [
+      "Release OpenSSL 4.0.0",
+      "https://github.com/openssl/openssl/releases/tag/openssl-4.0.0"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 18:07:37",
+      "https://lobste.rs/s/iayq9d/thrilling_adventures_lovelace_babbage"
+    ],
+    [
+      "The thrilling adventures of Lovelace and Babbage",
+      "https://archive.org/details/thrillingadventu0000padu_a0v1"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 17:38:40",
       "https://lobste.rs/s/ovlmz5/object_oriented_programming_ada"
     ],
@@ -51,12 +71,12 @@
   ],
   [
     [
-      "2026-04-14, 13:33:16",
-      "https://lobste.rs/s/wu3gry/pola_would_have_prevented_event_stream"
+      "2026-04-14, 15:10:25",
+      "https://lobste.rs/s/1fwhvf/ark_vcs_version_control_for_games"
     ],
     [
-      "POLA Would Have Prevented the Event-Stream Incident (2018)",
-      "https://agoric.com/blog/technology/pola-would-have-prevented-the-event-stream-incident"
+      "Ark VCS - Version Control For Games",
+      "https://ark-vcs.com/"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "GitHub Stacked PRs",
       "https://github.github.com/gh-stack/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 18:56:34",
-      "https://lobste.rs/s/fxh7ma/can_we_finally_use_c_modules_2026"
-    ],
-    [
-      "Can we finally use C++ Modules in 2026?",
-      "https://mropert.github.io/2026/04/13/modules_in_2026/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 16:28:30",
-      "https://lobste.rs/s/9muqc5/debloat_your_async_rust"
-    ],
-    [
-      "Debloat your async Rust",
-      "https://tweedegolf.nl/en/blog/235/debloat-your-async-rust"
     ]
   ],
   [
