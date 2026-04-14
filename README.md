@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
+* [2026-04-13, 23:23:31](https://lobste.rs/s/ucjode/microsoft_exec_suggests_ai_agents_will) - [Microsoft exec suggests AI agents will need to buy software licenses, just like employees](https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4)
 * [2026-04-13, 21:05:39](https://lobste.rs/s/xr9g5d/github_stacked_prs) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [2026-04-13, 19:24:49](https://lobste.rs/s/uqhwj1/how_make_firefox_builds_17_faster) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
 * [2026-04-13, 19:23:18](https://lobste.rs/s/5lux00/ducklake_v1_0_lightweight_lakehouse) - [DuckLake v1.0 – The Lightweight Lakehouse Format Reaches Production-Readiness](https://ducklake.select/2026/04/13/ducklake-10/)
@@ -16,14 +18,12 @@
 * [2026-04-13, 13:18:10](https://lobste.rs/s/xcurde/little_latex_pearls) - [Little LaTeX Pearls](https://ionathan.ch/2026/04/08/LaTeX.html)
 * [2026-04-13, 11:43:10](https://lobste.rs/s/sslbph/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/sslbph/what_are_you_doing_this_week)
 * [2026-04-13, 10:30:59](https://lobste.rs/s/rnx6fh/all_elementary_functions_from_single) - [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
-* [2026-04-13, 08:08:30](https://lobste.rs/s/o7zxmn/programming_used_be_free) - [Programming used to be free](https://purplesyringa.moe/blog/programming-used-to-be-free/)
 * [2026-04-13, 07:47:03](https://lobste.rs/s/c1tlxi/dumb_introduction_z3) - [A Dumb Introduction to z3](https://ar-ms.me/thoughts/a-gentle-introduction-to-z3/)
 * [2026-04-13, 05:53:07](https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell) - [Did you notice the command error exit in the shell?](https://monzool.net/blog/2026/04/10/error-banner-in-shell/)
 * [2026-04-12, 20:31:59](https://lobste.rs/s/9ihinj/business_case_for_vanilla_js) - [The Business Case for Vanilla JS](https://lewiscampbell.tech/blog/250430.html)
 * [2026-04-12, 19:53:57](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000) - [48 hours ago lobste.rs surpassed 20,000 users](https://lobste.rs/s/7fhahl/48_hours_ago_lobste_rs_surpassed_20_000)
 * [2026-04-12, 19:17:36](https://lobste.rs/s/tmddcs/peril_laziness_lost) - [The peril of laziness lost](https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/)
 * [2026-04-12, 19:01:46](https://lobste.rs/s/o2b59m/forgejo_monthly_report_march_2026) - [Forgejo monthly report - March 2026](https://forgejo.org/2026-03-monthly-report/)
-* [2026-04-12, 16:19:15](https://lobste.rs/s/5ywxzh/bring_back_idiomatic_design) - [Bring Back Idiomatic Design](https://essays.johnloeber.com/p/4-bring-back-idiomatic-design)
 * [2026-04-12, 15:53:24](https://lobste.rs/s/gptqt7/how_i_run_multiple_10k_mrr_companies_on_20) - [How I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 
 ## [Archives](archives/index.md)
