@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-14, 13:32:20](https://lobste.rs/s/ytim7h/collection_small_low_stakes_low_effort) - [A collection of small, low stakes and low effort tools](https://tools.rmv.fyi)
 * [2026-04-14, 13:04:11](https://lobste.rs/s/nabvvv/modifying_filezilla_workaround_bambu_3d) - [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
 * [2026-04-14, 12:30:43](https://lobste.rs/s/abl7vj/embed_you_ponyc_for_great_good) - [Embed You a ponyc for Great Good](https://www.ponylang.io/blog/2026/04/embed-you-a-ponyc-for-great-good/)
 * [2026-04-14, 11:34:55](https://lobste.rs/s/dl4jb6/dependency_cooldowns_turn_you_into_free) - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
@@ -9,7 +10,6 @@
 * [2026-04-14, 08:54:44](https://lobste.rs/s/iw7kz1/sem_semantic_version_control_cli) - [sem: Semantic version control CLI](https://github.com/Ataraxy-Labs/sem)
 * [2026-04-14, 07:40:30](https://lobste.rs/s/fj8fzm/5nf_database_design) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 * [2026-04-14, 07:27:57](https://lobste.rs/s/iiykct/razor1911_razor1911) - [Razor1911 – Razor1911](https://www.youtube.com/watch?v=2AnbYNudAyM)
-* [2026-04-14, 05:24:38](https://lobste.rs/s/qqfsfo/moonbit_0_9_introducing_first_class) - [MoonBit 0.9: Introducing First-Class Formal Verification](https://www.moonbitlang.com/blog/moonbit-0-9-release)
 * [2026-04-14, 03:09:12](https://lobste.rs/s/mrlfu8/tracking_down_25_regression_on_llvm_risc_v) - [Tracking down a 25% Regression on LLVM RISC-V](https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/)
 * [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
 * [2026-04-13, 23:23:31](https://lobste.rs/s/ucjode/microsoft_exec_suggests_ai_agents_will) - [Microsoft exec suggests AI agents will need to buy software licenses, just like employees](https://www.businessinsider.com/microsoft-executive-suggests-ai-agents-buy-software-licenses-seats-2026-4)

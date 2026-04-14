@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 13:32:20](https://lobste.rs/s/ytim7h/collection_small_low_stakes_low_effort) - [A collection of small, low stakes and low effort tools](https://tools.rmv.fyi)
 * [2026-04-14, 13:04:11](https://lobste.rs/s/nabvvv/modifying_filezilla_workaround_bambu_3d) - [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
 * [2026-04-14, 12:30:43](https://lobste.rs/s/abl7vj/embed_you_ponyc_for_great_good) - [Embed You a ponyc for Great Good](https://www.ponylang.io/blog/2026/04/embed-you-a-ponyc-for-great-good/)
 * [2026-04-14, 11:34:55](https://lobste.rs/s/dl4jb6/dependency_cooldowns_turn_you_into_free) - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
