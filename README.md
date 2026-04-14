@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-14, 22:05:23](https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4) - [TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups](https://truffleruby.dev/blog/truffleruby-34-is-released)
 * [2026-04-14, 20:22:31](https://lobste.rs/s/uaipwe/quiche_browser_beautifully) - [Quiche Browser — Beautifully customizable web browser](https://quiche.industries/browser/)
 * [2026-04-14, 19:46:52](https://lobste.rs/s/l79aep/release_openssl_4_0_0) - [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
@@ -16,7 +17,6 @@
 * [2026-04-14, 11:04:21](https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls) - [Rust should have stable tail calls](https://trifectatech.org/blog/tail-calls-project-goal/)
 * [2026-04-14, 10:56:57](https://lobste.rs/s/bvuhnp/120_icons_counting) - [120+ Icons and Counting](https://blog.jimmac.eu/posts/app-icon-requests/)
 * [2026-04-14, 09:08:18](https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function) - [Claude Code's Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)
-* [2026-04-14, 08:54:44](https://lobste.rs/s/iw7kz1/sem_semantic_version_control_cli) - [sem: Semantic version control CLI](https://github.com/Ataraxy-Labs/sem)
 * [2026-04-14, 07:40:30](https://lobste.rs/s/fj8fzm/5nf_database_design) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 * [2026-04-14, 07:27:57](https://lobste.rs/s/iiykct/razor1911_razor1911) - [Razor1911 – Razor1911](https://www.youtube.com/watch?v=2AnbYNudAyM)
 * [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
