@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 19:46:52](https://lobste.rs/s/l79aep/release_openssl_4_0_0) - [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
+* [2026-04-14, 18:07:37](https://lobste.rs/s/iayq9d/thrilling_adventures_lovelace_babbage) - [The thrilling adventures of Lovelace and Babbage](https://archive.org/details/thrillingadventu0000padu_a0v1)
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
 * [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
 * [2026-04-14, 16:20:21](https://lobste.rs/s/iygpmx/jemalloc_5_3_1_released) - [jemalloc 5.3.1 released](https://github.com/jemalloc/jemalloc/releases/tag/5.3.1)
