@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
+* [2026-04-14, 16:13:26](https://lobste.rs/s/ko3ur4/faith_based_computing_versus_unnatural) - [Faith-based computing versus the unnatural science](https://queue.acm.org/detail.cfm?id=3806209)
+* [2026-04-14, 15:10:25](https://lobste.rs/s/1fwhvf/ark_vcs_version_control_for_games) - [Ark VCS - Version Control For Games](https://ark-vcs.com/)
 * [2026-04-14, 13:32:20](https://lobste.rs/s/ytim7h/collection_small_low_stakes_low_effort) - [A collection of small, low stakes and low effort tools](https://tools.rmv.fyi)
 * [2026-04-14, 13:04:11](https://lobste.rs/s/nabvvv/modifying_filezilla_workaround_bambu_3d) - [Modifying FileZilla to Workaround Bambu 3D Printer's FTP Issue](https://lantian.pub/en/article/modify-computer/modify-filezilla-workaround-bambu-3d-printer-ftp-issue.lantian/)
 * [2026-04-14, 12:30:43](https://lobste.rs/s/abl7vj/embed_you_ponyc_for_great_good) - [Embed You a ponyc for Great Good](https://www.ponylang.io/blog/2026/04/embed-you-a-ponyc-for-great-good/)
