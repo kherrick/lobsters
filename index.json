@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-14, 11:34:55",
+      "https://lobste.rs/s/dl4jb6/dependency_cooldowns_turn_you_into_free"
+    ],
+    [
+      "Dependency cooldowns turn you into a free-rider",
+      "https://calpaterson.com/deps.html"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 11:04:21",
       "https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls"
     ],
     [
       "Rust should have stable tail calls",
       "https://trifectatech.org/blog/tail-calls-project-goal/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 10:56:57",
+      "https://lobste.rs/s/bvuhnp/120_icons_counting"
+    ],
+    [
+      "120+ Icons and Counting",
+      "https://blog.jimmac.eu/posts/app-icon-requests/"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2026-04-14, 07:30:48",
-      "https://lobste.rs/s/9b3iu5/our_evaluation_claude_mythos_preview_s"
-    ],
-    [
-      "Our evaluation of Claude Mythos Preview’s cyber capabilities",
-      "https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 07:27:57",
       "https://lobste.rs/s/iiykct/razor1911_razor1911"
     ],
@@ -77,6 +87,16 @@
     [
       "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
       "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 03:09:12",
+      "https://lobste.rs/s/mrlfu8/tracking_down_25_regression_on_llvm_risc_v"
+    ],
+    [
+      "Tracking down a 25% Regression on LLVM RISC-V",
+      "https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "How to make Firefox builds 17% faster",
       "https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 19:23:18",
-      "https://lobste.rs/s/5lux00/ducklake_v1_0_lightweight_lakehouse"
-    ],
-    [
-      "DuckLake v1.0 – The Lightweight Lakehouse Format Reaches Production-Readiness",
-      "https://ducklake.select/2026/04/13/ducklake-10/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Did you notice the command error exit in the shell?",
       "https://monzool.net/blog/2026/04/10/error-banner-in-shell/"
-    ]
-  ],
-  [
-    [
-      "2026-04-12, 19:17:36",
-      "https://lobste.rs/s/tmddcs/peril_laziness_lost"
-    ],
-    [
-      "The peril of laziness lost",
-      "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/"
     ]
   ]
 ]
