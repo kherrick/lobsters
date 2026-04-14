@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-04-14, 18:07:37",
-      "https://lobste.rs/s/iayq9d/thrilling_adventures_lovelace_babbage"
+      "2026-04-14, 19:38:04",
+      "https://lobste.rs/s/hvq8gc/nineteen_features_zero_architecture"
     ],
     [
-      "The thrilling adventures of Lovelace and Babbage",
-      "https://archive.org/details/thrillingadventu0000padu_a0v1"
+      "Nineteen Features, Zero Architecture",
+      "https://fffej.substack.com/p/nineteen-features-zero-architecture"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Ark VCS - Version Control For Games",
       "https://ark-vcs.com/"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 13:33:16",
+      "https://lobste.rs/s/wu3gry/pola_would_have_prevented_event_stream"
+    ],
+    [
+      "POLA Would Have Prevented the Event-Stream Incident (2018)",
+      "https://agoric.com/blog/technology/pola-would-have-prevented-the-event-stream-incident"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Servo 0.1.0 (first LTS version) is now available on crates.io",
       "https://servo.org/blog/2026/04/13/servo-0.1.0-release/"
-    ]
-  ],
-  [
-    [
-      "2026-04-13, 05:53:07",
-      "https://lobste.rs/s/eqawpx/did_you_notice_command_error_exit_shell"
-    ],
-    [
-      "Did you notice the command error exit in the shell?",
-      "https://monzool.net/blog/2026/04/10/error-banner-in-shell/"
     ]
   ]
 ]
