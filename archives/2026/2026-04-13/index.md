@@ -7,6 +7,7 @@
 * [2026-04-13, 21:05:39](https://lobste.rs/s/xr9g5d/github_stacked_prs) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [2026-04-13, 19:24:49](https://lobste.rs/s/uqhwj1/how_make_firefox_builds_17_faster) - [How to make Firefox builds 17% faster](https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/)
 * [2026-04-13, 19:23:18](https://lobste.rs/s/5lux00/ducklake_v1_0_lightweight_lakehouse) - [DuckLake v1.0 – The Lightweight Lakehouse Format Reaches Production-Readiness](https://ducklake.select/2026/04/13/ducklake-10/)
+* [2026-04-13, 18:56:34](https://lobste.rs/s/fxh7ma/can_we_finally_use_c_modules_2026) - [Can we finally use C++ Modules in 2026?](https://mropert.github.io/2026/04/13/modules_in_2026/)
 * [2026-04-13, 18:56:12](https://lobste.rs/s/2331yj/introducing_brunost_nynorsk) - [Introducing Brunost: The Nynorsk Programming Language](https://lindbakk.com/blog/introducing-brunost)
 * [2026-04-13, 17:38:21](https://lobste.rs/s/n6j8tr/hybrid_constructions_post_quantum) - [Hybrid Constructions: The Post-Quantum Safety Blanket](https://soatok.blog/2026/04/13/hybrid-constructions-the-post-quantum-safety-blanket/)
 * [2026-04-13, 17:24:20](https://lobste.rs/s/0isw7j/netbsd_macppc_9_4_installation_on_qemu) - [NetBSD/MacPPC 9.4 Installation on a QEMU emulated PowerPC Macintosh](http://www.rabbitfarm.com/cgi-bin/blosxom/2026/04/12#macppc_9-4_qemu)
