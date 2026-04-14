@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-14, 09:08:18](https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function) - [Claude Code's Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)
 * [2026-04-14, 07:40:30](https://lobste.rs/s/fj8fzm/5nf_database_design) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 * [2026-04-14, 07:30:48](https://lobste.rs/s/9b3iu5/our_evaluation_claude_mythos_preview_s) - [Our evaluation of Claude Mythos Preview’s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
 * [2026-04-14, 07:27:57](https://lobste.rs/s/iiykct/razor1911_razor1911) - [Razor1911 – Razor1911](https://www.youtube.com/watch?v=2AnbYNudAyM)
@@ -15,7 +16,6 @@
 * [2026-04-13, 17:24:20](https://lobste.rs/s/0isw7j/netbsd_macppc_9_4_installation_on_qemu) - [NetBSD/MacPPC 9.4 Installation on a QEMU emulated PowerPC Macintosh](http://www.rabbitfarm.com/cgi-bin/blosxom/2026/04/12#macppc_9-4_qemu)
 * [2026-04-13, 16:28:30](https://lobste.rs/s/9muqc5/debloat_your_async_rust) - [Debloat your async Rust](https://tweedegolf.nl/en/blog/235/debloat-your-async-rust)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-* [2026-04-13, 15:28:32](https://lobste.rs/s/v30zok/autoscaling_forgejo_runner) - [Autoscaling Forgejo Runner](https://aahlenst.dev/blog/autoscaling-forgejo-runner/)
 * [2026-04-13, 15:12:52](https://lobste.rs/s/pvawq1/configuration_flags_are_where_software) - [Configuration flags are where software goes to rot](https://00f.net/2026/04/11/config-flags/)
 * [2026-04-13, 14:36:49](https://lobste.rs/s/cyzmjq/recovering_lost_document_habitat) - [Recovering a Lost Document: Habitat Anecdotes (1988)](https://habitatchronicles.com/2026/04/habitat-anecdotes/)
 * [2026-04-13, 13:42:04](https://lobste.rs/s/f8vyzy/servo_0_1_0_first_lts_version_is_now) - [Servo 0.1.0 (first LTS version) is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)

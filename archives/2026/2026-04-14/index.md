@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-14](index.md)
 
+* [2026-04-14, 09:08:18](https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function) - [Claude Code's Source: 3,167-Line Function, Regex Sentiment](https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude)
 * [2026-04-14, 07:40:30](https://lobste.rs/s/fj8fzm/5nf_database_design) - [5NF and Database Design](https://kb.databasedesignbook.com/posts/5nf/)
 * [2026-04-14, 07:30:48](https://lobste.rs/s/9b3iu5/our_evaluation_claude_mythos_preview_s) - [Our evaluation of Claude Mythos Preview’s cyber capabilities](https://www.aisi.gov.uk/blog/our-evaluation-of-claude-mythos-previews-cyber-capabilities)
 * [2026-04-14, 07:27:57](https://lobste.rs/s/iiykct/razor1911_razor1911) - [Razor1911 – Razor1911](https://www.youtube.com/watch?v=2AnbYNudAyM)
