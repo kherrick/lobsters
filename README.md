@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-15, 08:16:22](https://lobste.rs/s/51obiz/testing_opengraph_on_localhost_from_cli) - [Testing OpenGraph on localhost from the CLI before you go public](https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli)
 * [2026-04-15, 05:32:07](https://lobste.rs/s/orvtly/fixing_20_year_old_bug_enlightenment_e16) - [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
 * [2026-04-15, 03:43:06](https://lobste.rs/s/vb70md/i_don_t_care_it_s_x_times_faster) - [I don't care that it's X times faster](https://tinkering.xyz/faster/)
+* [2026-04-15, 01:57:20](https://lobste.rs/s/1v94sk/what_really_happened_y2k) - [What Really Happened in Y2K?](https://www.gresham.ac.uk/sites/default/files/2017-04-04-MartynThomas_Y2K-T.pdf)
 * [2026-04-14, 23:43:14](https://lobste.rs/s/zubxux/saying_goodbye_agile) - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
 * [2026-04-14, 23:12:51](https://lobste.rs/s/fwvw1q/single_module_lambda_calculus_from) - [Single Module Lambda Calculus from Simply Typed to Martin Lof Type Theory](https://github.com/solomon-b/lambda-calculus-hs)
 * [2026-04-14, 23:04:55](https://lobste.rs/s/guy1vp/what_happened_metalink) - [What happened to Metalink?](https://lobste.rs/s/guy1vp/what_happened_metalink)
@@ -14,7 +16,6 @@
 * [2026-04-14, 16:20:21](https://lobste.rs/s/iygpmx/jemalloc_5_3_1_released) - [jemalloc 5.3.1 released](https://github.com/jemalloc/jemalloc/releases/tag/5.3.1)
 * [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
 * [2026-04-14, 13:32:20](https://lobste.rs/s/ytim7h/collection_small_low_stakes_low_effort) - [A collection of small, low stakes and low effort tools](https://tools.rmv.fyi)
-* [2026-04-14, 12:30:43](https://lobste.rs/s/abl7vj/embed_you_ponyc_for_great_good) - [Embed You a ponyc for Great Good](https://www.ponylang.io/blog/2026/04/embed-you-a-ponyc-for-great-good/)
 * [2026-04-14, 11:34:55](https://lobste.rs/s/dl4jb6/dependency_cooldowns_turn_you_into_free) - [Dependency cooldowns turn you into a free-rider](https://calpaterson.com/deps.html)
 * [2026-04-14, 11:04:21](https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls) - [Rust should have stable tail calls](https://trifectatech.org/blog/tail-calls-project-goal/)
 * [2026-04-14, 10:56:57](https://lobste.rs/s/bvuhnp/120_icons_counting) - [120+ Icons and Counting](https://blog.jimmac.eu/posts/app-icon-requests/)
@@ -24,7 +25,6 @@
 * [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
 * [2026-04-13, 21:05:39](https://lobste.rs/s/xr9g5d/github_stacked_prs) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-* [2026-04-13, 13:42:04](https://lobste.rs/s/f8vyzy/servo_0_1_0_first_lts_version_is_now) - [Servo 0.1.0 (first LTS version) is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 
 ## [Archives](archives/index.md)
 
