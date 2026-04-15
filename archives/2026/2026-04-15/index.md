@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 22:50:38](https://lobste.rs/s/dzlbeb/cybersecurity_looks_like_proof_work_now) - [Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
 * [2026-04-15, 21:17:18](https://lobste.rs/s/ydlsfn/app_element_io_matrix_lead_cloudflare_451) - [app.element.io and matrix.to lead to Cloudflare 451 - Unavailable For Legal Reasons](https://app.element.io)
 * [2026-04-15, 20:55:42](https://lobste.rs/s/z9ccd2/multi_agent_gvisor_isolation) - [Multi-Agent gVisor Isolation](https://gvisor.dev/blog/2026/04/15/magi-multi-agent-gvisor-isolation/)
 * [2026-04-15, 19:59:39](https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software) - [You cannot use the GNU (A)GPL to take software freedom away](https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away)
