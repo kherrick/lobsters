@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-04-15, 20:55:42",
+      "https://lobste.rs/s/z9ccd2/multi_agent_gvisor_isolation"
+    ],
+    [
+      "Multi-Agent gVisor Isolation",
+      "https://gvisor.dev/blog/2026/04/15/magi-multi-agent-gvisor-isolation/"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 19:59:39",
       "https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software"
     ],
@@ -77,16 +87,6 @@
     [
       "Let Sleeping CPUs Lie — S0ix",
       "https://freebsdfoundation.org/our-work/journal/browser-based-edition/laptop-desktop/let-sleeping-cpus-lie-s0ix"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 15:39:35",
-      "https://lobste.rs/s/66cgid/rewriting_every_syscall_linux_binary_at"
-    ],
-    [
-      "Rewriting Every Syscall in a Linux Binary at Load Time",
-      "https://substack.com/home/post/p-194037971"
     ]
   ],
   [
