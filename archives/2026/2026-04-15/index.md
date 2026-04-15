@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 * [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
 * [2026-04-15, 10:46:41](https://lobste.rs/s/yyuuhy/my_14_year_journey_away_from_orms_series) - [My 14-Year Journey Away from ORMs - a Series of Insights Leading to Creation of a SQL-First Code Generator](https://nikita-volkov.github.io/pgenie-in-production-part-1/)
 * [2026-04-15, 10:09:07](https://lobste.rs/s/tb3mga/modern_common_lisp_with_fset) - [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
