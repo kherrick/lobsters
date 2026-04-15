@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-15, 10:46:41",
+      "https://lobste.rs/s/yyuuhy/my_14_year_journey_away_from_orms_series"
+    ],
+    [
+      "My 14-Year Journey Away from ORMs - a Series of Insights Leading to Creation of a SQL-First Code Generator",
+      "https://nikita-volkov.github.io/pgenie-in-production-part-1/"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 10:09:07",
+      "https://lobste.rs/s/tb3mga/modern_common_lisp_with_fset"
+    ],
+    [
+      "Modern Common Lisp with FSet",
+      "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 08:16:22",
       "https://lobste.rs/s/51obiz/testing_opengraph_on_localhost_from_cli"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-04-14, 09:08:18",
-      "https://lobste.rs/s/fsudf4/claude_code_s_source_3_167_line_function"
-    ],
-    [
-      "Claude Code's Source: 3,167-Line Function, Regex Sentiment",
-      "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 07:40:30",
       "https://lobste.rs/s/fj8fzm/5nf_database_design"
     ],
@@ -217,16 +227,6 @@
     [
       "Razor1911 – Razor1911",
       "https://www.youtube.com/watch?v=2AnbYNudAyM"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 02:31:46",
-      "https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website"
-    ],
-    [
-      "No one can force me to have a secure website",
-      "https://tom7.org/httpv/httpv.pdf"
     ]
   ],
   [
