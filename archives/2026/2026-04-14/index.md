@@ -6,10 +6,12 @@
 
 * [2026-04-14, 23:43:14](https://lobste.rs/s/zubxux/saying_goodbye_agile) - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
 * [2026-04-14, 23:12:51](https://lobste.rs/s/fwvw1q/single_module_lambda_calculus_from) - [Single Module Lambda Calculus from Simply Typed to Martin Lof Type Theory](https://github.com/solomon-b/lambda-calculus-hs)
+* [2026-04-14, 23:04:55](https://lobste.rs/s/guy1vp/what_happened_metalink) - [What happened to Metalink?](https://lobste.rs/s/guy1vp/what_happened_metalink)
 * [2026-04-14, 22:05:23](https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4) - [TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups](https://truffleruby.dev/blog/truffleruby-34-is-released)
 * [2026-04-14, 20:22:31](https://lobste.rs/s/uaipwe/quiche_browser_beautifully) - [Quiche Browser — Beautifully customizable web browser](https://quiche.industries/browser/)
 * [2026-04-14, 19:46:52](https://lobste.rs/s/l79aep/release_openssl_4_0_0) - [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
 * [2026-04-14, 19:38:04](https://lobste.rs/s/hvq8gc/nineteen_features_zero_architecture) - [Nineteen Features, Zero Architecture](https://fffej.substack.com/p/nineteen-features-zero-architecture)
+* [2026-04-14, 18:57:07](https://lobste.rs/s/7lmezq/fediverse_deserves_dumb_graphical) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 18:07:37](https://lobste.rs/s/iayq9d/thrilling_adventures_lovelace_babbage) - [The thrilling adventures of Lovelace and Babbage](https://archive.org/details/thrillingadventu0000padu_a0v1)
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
 * [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_not_ok_compare_floating_points_using) - [It's NOT OK to compare floating-points using epsilons](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)

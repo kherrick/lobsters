@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-14, 23:43:14](https://lobste.rs/s/zubxux/saying_goodbye_agile) - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
-* [2026-04-14, 23:12:51](https://lobste.rs/s/fwvw1q/single_module_lambda_calculus_from) - [Single Module Lambda Calculus from Simply Typed to Martin Lof Type Theory](https://github.com/solomon-b/lambda-calculus-hs)
+* [2026-04-14, 23:04:55](https://lobste.rs/s/guy1vp/what_happened_metalink) - [What happened to Metalink?](https://lobste.rs/s/guy1vp/what_happened_metalink)
 * [2026-04-14, 22:05:23](https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4) - [TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups](https://truffleruby.dev/blog/truffleruby-34-is-released)
 * [2026-04-14, 20:22:31](https://lobste.rs/s/uaipwe/quiche_browser_beautifully) - [Quiche Browser — Beautifully customizable web browser](https://quiche.industries/browser/)
 * [2026-04-14, 19:46:52](https://lobste.rs/s/l79aep/release_openssl_4_0_0) - [Release OpenSSL 4.0.0](https://github.com/openssl/openssl/releases/tag/openssl-4.0.0)
+* [2026-04-14, 18:57:07](https://lobste.rs/s/7lmezq/fediverse_deserves_dumb_graphical) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
 * [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_not_ok_compare_floating_points_using) - [It's NOT OK to compare floating-points using epsilons](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
@@ -23,7 +24,6 @@
 * [2026-04-14, 02:31:46](https://lobste.rs/s/gvgrij/no_one_can_force_me_have_secure_website) - [No one can force me to have a secure website](https://tom7.org/httpv/httpv.pdf)
 * [2026-04-13, 21:05:39](https://lobste.rs/s/xr9g5d/github_stacked_prs) - [GitHub Stacked PRs](https://github.github.com/gh-stack/)
 * [2026-04-13, 16:04:27](https://lobste.rs/s/wwr6zu/lean_proved_this_program_was_correct_then) - [Lean proved this program was correct; then I found a bug](https://kirancodes.me/posts/log-who-watches-the-watchers.html)
-* [2026-04-13, 15:12:52](https://lobste.rs/s/pvawq1/configuration_flags_are_where_software) - [Configuration flags are where software goes to rot](https://00f.net/2026/04/11/config-flags/)
 * [2026-04-13, 13:42:04](https://lobste.rs/s/f8vyzy/servo_0_1_0_first_lts_version_is_now) - [Servo 0.1.0 (first LTS version) is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 
 ## [Archives](archives/index.md)
