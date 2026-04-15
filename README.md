@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
+* [2026-04-15, 18:06:55](https://lobste.rs/s/xt0wqm/i_don_t_want_screenshot_your_claude) - [I don’t want a screenshot of your Claude conversation](https://daverupert.com/2026/04/claude-no/)
 * [2026-04-15, 16:57:15](https://lobste.rs/s/8disen/xata_open_source_postgres_platform_with) - [Xata: Open source Postgres platform with copy-on-write branching and scale-to-zero](https://github.com/xataio/xata)
 * [2026-04-15, 16:29:31](https://lobste.rs/s/inohss/not_all_elementary_functions_can_be) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 * [2026-04-15, 16:12:55](https://lobste.rs/s/jbyxup/sdl3_add_dos_platform_support) - [SDL3 - Add DOS platform support](https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o)
@@ -21,7 +22,6 @@
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
 * [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_ok_compare_floating_points_for) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
-* [2026-04-14, 16:20:21](https://lobste.rs/s/iygpmx/jemalloc_5_3_1_released) - [jemalloc 5.3.1 released](https://github.com/jemalloc/jemalloc/releases/tag/5.3.1)
 * [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
 * [2026-04-14, 11:04:21](https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls) - [Rust should have stable tail calls](https://trifectatech.org/blog/tail-calls-project-goal/)
 * [2026-04-14, 10:56:57](https://lobste.rs/s/bvuhnp/120_icons_counting) - [120+ Icons and Counting](https://blog.jimmac.eu/posts/app-icon-requests/)
