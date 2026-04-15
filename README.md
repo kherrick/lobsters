@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-15, 15:39:35](https://lobste.rs/s/66cgid/rewriting_every_syscall_linux_binary_at) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://substack.com/home/post/p-194037971)
 * [2026-04-15, 13:05:31](https://lobste.rs/s/hphrhd/direct_win32_api_weird_shaped_windows_why) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
 * [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 * [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
-* [2026-04-15, 10:46:41](https://lobste.rs/s/yyuuhy/my_14_year_journey_away_from_orms_series) - [My 14-Year Journey Away from ORMs - a Series of Insights Leading to Creation of a SQL-First Code Generator](https://nikita-volkov.github.io/pgenie-in-production-part-1/)
 * [2026-04-15, 10:09:07](https://lobste.rs/s/tb3mga/modern_common_lisp_with_fset) - [Modern Common Lisp with FSet](https://fset.common-lisp.dev/Modern-CL/Top_html/index.html)
 * [2026-04-15, 08:16:22](https://lobste.rs/s/51obiz/testing_opengraph_on_localhost_from_cli) - [Testing OpenGraph on localhost from the CLI before you go public](https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli)
 * [2026-04-15, 05:32:07](https://lobste.rs/s/orvtly/fixing_20_year_old_bug_enlightenment_e16) - [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)

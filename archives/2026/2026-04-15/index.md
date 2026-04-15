@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 15:39:35](https://lobste.rs/s/66cgid/rewriting_every_syscall_linux_binary_at) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://substack.com/home/post/p-194037971)
 * [2026-04-15, 13:05:31](https://lobste.rs/s/hphrhd/direct_win32_api_weird_shaped_windows_why) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
 * [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 * [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
