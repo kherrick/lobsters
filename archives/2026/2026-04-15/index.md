@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 21:17:18](https://lobste.rs/s/ydlsfn/app_element_io_matrix_lead_cloudflare_451) - [app.element.io and matrix.to lead to Cloudflare 451 - Unavailable For Legal Reasons](https://app.element.io)
+* [2026-04-15, 19:59:39](https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software) - [You cannot use the GNU (A)GPL to take software freedom away](https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away)
 * [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
 * [2026-04-15, 18:06:55](https://lobste.rs/s/xt0wqm/i_don_t_want_screenshot_your_claude) - [I don’t want a screenshot of your Claude conversation](https://daverupert.com/2026/04/claude-no/)
 * [2026-04-15, 16:57:15](https://lobste.rs/s/8disen/xata_open_source_postgres_platform_with) - [Xata: Open source Postgres platform with copy-on-write branching and scale-to-zero](https://github.com/xataio/xata)
