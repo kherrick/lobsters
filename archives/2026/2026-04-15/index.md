@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-15](index.md)
 
+* [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
 * [2026-04-15, 16:57:15](https://lobste.rs/s/8disen/xata_open_source_postgres_platform_with) - [Xata: Open source Postgres platform with copy-on-write branching and scale-to-zero](https://github.com/xataio/xata)
 * [2026-04-15, 16:29:31](https://lobste.rs/s/inohss/not_all_elementary_functions_can_be) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 * [2026-04-15, 16:12:55](https://lobste.rs/s/jbyxup/sdl3_add_dos_platform_support) - [SDL3 - Add DOS platform support](https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o)
+* [2026-04-15, 16:07:47](https://lobste.rs/s/9ooaxp/let_sleeping_cpus_lie_s0ix) - [Let Sleeping CPUs Lie — S0ix](https://freebsdfoundation.org/our-work/journal/browser-based-edition/laptop-desktop/let-sleeping-cpus-lie-s0ix)
 * [2026-04-15, 15:39:35](https://lobste.rs/s/66cgid/rewriting_every_syscall_linux_binary_at) - [Rewriting Every Syscall in a Linux Binary at Load Time](https://substack.com/home/post/p-194037971)
 * [2026-04-15, 15:35:47](https://lobste.rs/s/mt33ed/formal_typing_rules_presentation) - [Formal typing rules and presentation materials for Swift 6.2's concurrency type system, focusing on Capability and Region](https://github.com/inamiy/swift-concurrency-type-system)
 * [2026-04-15, 13:05:31](https://lobste.rs/s/hphrhd/direct_win32_api_weird_shaped_windows_why) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)

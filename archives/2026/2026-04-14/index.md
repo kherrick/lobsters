@@ -14,6 +14,7 @@
 * [2026-04-14, 18:57:07](https://lobste.rs/s/7lmezq/fediverse_deserves_dumb_graphical) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 18:07:37](https://lobste.rs/s/iayq9d/thrilling_adventures_lovelace_babbage) - [The thrilling adventures of Lovelace and Babbage](https://archive.org/details/thrillingadventu0000padu_a0v1)
 * [2026-04-14, 17:38:40](https://lobste.rs/s/ovlmz5/object_oriented_programming_ada) - [Object oriented programming in Ada](https://entropicthoughts.com/object-oriented-programming-in-ada)
+* [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_ok_compare_floating_points_for) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_not_ok_compare_floating_points_using) - [It's NOT OK to compare floating-points using epsilons](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
 * [2026-04-14, 16:20:21](https://lobste.rs/s/iygpmx/jemalloc_5_3_1_released) - [jemalloc 5.3.1 released](https://github.com/jemalloc/jemalloc/releases/tag/5.3.1)
