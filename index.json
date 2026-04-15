@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-04-15, 03:43:06",
+      "https://lobste.rs/s/vb70md/i_don_t_care_it_s_x_times_faster"
+    ],
+    [
+      "I don't care that it's X times faster",
+      "https://tinkering.xyz/faster/"
+    ]
+  ],
+  [
+    [
       "2026-04-14, 23:43:14",
       "https://lobste.rs/s/zubxux/saying_goodbye_agile"
     ],
     [
       "Saying Goodbye to Agile",
       "https://lewiscampbell.tech/blog/260414.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-14, 23:12:51",
+      "https://lobste.rs/s/fwvw1q/single_module_lambda_calculus_from"
+    ],
+    [
+      "Single Module Lambda Calculus from Simply Typed to Martin Lof Type Theory",
+      "https://github.com/solomon-b/lambda-calculus-hs"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups",
       "https://truffleruby.dev/blog/truffleruby-34-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 20:22:31",
-      "https://lobste.rs/s/uaipwe/quiche_browser_beautifully"
-    ],
-    [
-      "Quiche Browser — Beautifully customizable web browser",
-      "https://quiche.industries/browser/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Faith-based computing versus the unnatural science",
       "https://queue.acm.org/detail.cfm?id=3806209"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 15:10:25",
-      "https://lobste.rs/s/1fwhvf/ark_vcs_version_control_for_games"
-    ],
-    [
-      "Ark VCS - Version Control For Games",
-      "https://ark-vcs.com/"
     ]
   ],
   [
