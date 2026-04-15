@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-15, 18:12:33",
+      "https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts"
+    ],
+    [
+      "AI Assistance Reduces Persistence and Hurts Independent Performance",
+      "https://arxiv.org/pdf/2604.04721"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 16:57:15",
       "https://lobste.rs/s/8disen/xata_open_source_postgres_platform_with"
     ],
@@ -27,6 +37,16 @@
     [
       "SDL3 - Add DOS platform support",
       "https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o"
+    ]
+  ],
+  [
+    [
+      "2026-04-15, 16:07:47",
+      "https://lobste.rs/s/9ooaxp/let_sleeping_cpus_lie_s0ix"
+    ],
+    [
+      "Let Sleeping CPUs Lie — S0ix",
+      "https://freebsdfoundation.org/our-work/journal/browser-based-edition/laptop-desktop/let-sleeping-cpus-lie-s0ix"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-04-15, 01:57:20",
-      "https://lobste.rs/s/1v94sk/what_really_happened_y2k"
-    ],
-    [
-      "What Really Happened in Y2K?",
-      "https://www.gresham.ac.uk/sites/default/files/2017-04-04-MartynThomas_Y2K-T.pdf"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 00:22:56",
       "https://lobste.rs/s/nfelvb/my_pr_has_been_waiting_year_exponential"
     ],
@@ -182,10 +192,10 @@
   [
     [
       "2026-04-14, 17:35:12",
-      "https://lobste.rs/s/l6c9wi/it_s_not_ok_compare_floating_points_using"
+      "https://lobste.rs/s/l6c9wi/it_s_ok_compare_floating_points_for"
     ],
     [
-      "It's NOT OK to compare floating-points using epsilons",
+      "It's OK to compare floating-points for equality",
       "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "Zig 0.16.0 Release Notes",
       "https://ziglang.org/download/0.16.0/release-notes.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 13:32:20",
-      "https://lobste.rs/s/ytim7h/collection_small_low_stakes_low_effort"
-    ],
-    [
-      "A collection of small, low stakes and low effort tools",
-      "https://tools.rmv.fyi"
     ]
   ],
   [
