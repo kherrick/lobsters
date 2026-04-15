@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-15, 15:39:35",
+      "https://lobste.rs/s/66cgid/rewriting_every_syscall_linux_binary_at"
+    ],
+    [
+      "Rewriting Every Syscall in a Linux Binary at Load Time",
+      "https://substack.com/home/post/p-194037971"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 13:05:31",
       "https://lobste.rs/s/hphrhd/direct_win32_api_weird_shaped_windows_why"
     ],
@@ -27,16 +37,6 @@
     [
       "Retrofitting JIT Compilers into C Interpreters",
       "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 10:46:41",
-      "https://lobste.rs/s/yyuuhy/my_14_year_journey_away_from_orms_series"
-    ],
-    [
-      "My 14-Year Journey Away from ORMs - a Series of Insights Leading to Creation of a SQL-First Code Generator",
-      "https://nikita-volkov.github.io/pgenie-in-production-part-1/"
     ]
   ],
   [
