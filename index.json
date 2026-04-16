@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-16, 04:24:07",
+      "https://lobste.rs/s/5wgwbz/mathematics_library_babel"
+    ],
+    [
+      "Mathematics in the Library of Babel",
+      "https://www.daniellitt.com/blog/2026/2/20/mathematics-in-the-library-of-babel"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 03:29:30",
+      "https://lobste.rs/s/y8j7by/internet_draft_internet_protocol"
+    ],
+    [
+      "Internet-Draft Internet Protocol Version 8 (IPv8)",
+      "https://datatracker.ietf.org/doc/draft-thain-ipv8/00/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 03:05:54",
+      "https://lobste.rs/s/qoexc7/c_26_structured_bindings_conditions"
+    ],
+    [
+      "C++26: Structured bindings in conditions",
+      "https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition"
+    ]
+  ],
+  [
+    [
       "2026-04-15, 22:50:38",
       "https://lobste.rs/s/dzlbeb/cybersecurity_looks_like_proof_work_now"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-04-15, 00:22:56",
-      "https://lobste.rs/s/nfelvb/my_pr_has_been_waiting_year_exponential"
-    ],
-    [
-      "My PR has been waiting a year, or the exponential curve behind open source backlogs",
-      "https://armanckeser.com/writing/jellyfin-flow"
-    ]
-  ],
-  [
-    [
       "2026-04-14, 23:43:14",
       "https://lobste.rs/s/zubxux/saying_goodbye_agile"
     ],
@@ -197,16 +217,6 @@
     [
       "TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups",
       "https://truffleruby.dev/blog/truffleruby-34-is-released"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 18:57:07",
-      "https://lobste.rs/s/7lmezq/fediverse_deserves_dumb_graphical"
-    ],
-    [
-      "The Fediverse deserves a dumb graphical client",
-      "https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Zig 0.16.0 Release Notes",
       "https://ziglang.org/download/0.16.0/release-notes.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-14, 11:04:21",
-      "https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls"
-    ],
-    [
-      "Rust should have stable tail calls",
-      "https://trifectatech.org/blog/tail-calls-project-goal/"
     ]
   ]
 ]
