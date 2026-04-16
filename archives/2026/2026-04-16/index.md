@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 10:44:04](https://lobste.rs/s/t8xjpi/kde_gear_26_04) - [KDE Gear 26.04](https://kde.org/announcements/gear/26.04.0/)
+* [2026-04-16, 10:19:26](https://lobste.rs/s/sbtemt/age_snarky_ui) - [The age of snarky UI](https://thoughtbot.com/blog/the-age-of-snarky-ui)
+* [2026-04-16, 10:08:16](https://lobste.rs/s/djnmmd/inside_2026_ram_crunch_how_ai_will_make) - [Inside the 2026 'RAM Crunch': How AI Will Make Your Next Laptop Much Pricier](https://www.pcmag.com/explainers/inside-2026-ram-crunch-why-ai-will-make-your-next-laptop-much-pricier)
 * [2026-04-16, 09:57:55](https://lobste.rs/s/0qggzn/mastodon_don_t_use_mastodon_mstdn_domain) - [Mastodon: Don't use \"mastodon\" or \"mstdn\" in domain names](https://github.com/mastodon/mastodon/commit/1d1be8f9245a0b00f3dafd6204f47523544bee21)
 * [2026-04-16, 09:56:15](https://lobste.rs/s/xkxbq3/i_let_claude_opus_write_chrome_exploit) - [I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?](https://www.hacktron.ai)
 * [2026-04-16, 08:47:04](https://lobste.rs/s/xijpr1/ipv6_traffic_crosses_50_mark) - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
