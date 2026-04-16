@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-16, 04:24:07](https://lobste.rs/s/5wgwbz/mathematics_library_babel) - [Mathematics in the Library of Babel](https://www.daniellitt.com/blog/2026/2/20/mathematics-in-the-library-of-babel)
+* [2026-04-16, 06:48:12](https://lobste.rs/s/aaf2z6/simdutf_can_now_be_used_without_libc_libc) - [Simdutf Can Now Be Used Without libc++ or libc++abi](https://mitchellh.com/writing/simdutf-no-libcxx)
+* [2026-04-16, 04:01:47](https://lobste.rs/s/57picr/zero_copy_pages_rust_how_i_learned_stop) - [Zero-Copy Pages in Rust: Or How I Learned To Stop Worrying And Love Lifetimes](https://redixhumayun.github.io/databases/2026/04/14/zero-copy-pages-in-rust.html)
 * [2026-04-16, 03:29:30](https://lobste.rs/s/y8j7by/internet_draft_internet_protocol) - [Internet-Draft Internet Protocol Version 8 (IPv8)](https://datatracker.ietf.org/doc/draft-thain-ipv8/00/)
 * [2026-04-16, 03:05:54](https://lobste.rs/s/qoexc7/c_26_structured_bindings_conditions) - [C++26: Structured bindings in conditions](https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition)
 * [2026-04-15, 22:50:38](https://lobste.rs/s/dzlbeb/cybersecurity_looks_like_proof_work_now) - [Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
@@ -12,7 +13,6 @@
 * [2026-04-15, 16:29:31](https://lobste.rs/s/inohss/not_all_elementary_functions_can_be) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 * [2026-04-15, 16:12:55](https://lobste.rs/s/jbyxup/sdl3_add_dos_platform_support) - [SDL3 - Add DOS platform support](https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o)
 * [2026-04-15, 16:07:47](https://lobste.rs/s/9ooaxp/let_sleeping_cpus_lie_s0ix) - [Let Sleeping CPUs Lie — S0ix](https://freebsdfoundation.org/our-work/journal/browser-based-edition/laptop-desktop/let-sleeping-cpus-lie-s0ix)
-* [2026-04-15, 15:35:47](https://lobste.rs/s/mt33ed/formal_typing_rules_presentation) - [Formal typing rules and presentation materials for Swift 6.2's concurrency type system, focusing on Capability and Region](https://github.com/inamiy/swift-concurrency-type-system)
 * [2026-04-15, 13:05:31](https://lobste.rs/s/hphrhd/direct_win32_api_weird_shaped_windows_why) - [Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared](https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows)
 * [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 * [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
