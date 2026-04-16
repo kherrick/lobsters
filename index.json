@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-04-16, 15:32:52",
+      "https://lobste.rs/s/kvf7u1/from_five_optional_fields_discriminated"
+    ],
+    [
+      "From five optional fields to a discriminated union: CLI parsing with Optique 1.0",
+      "https://hackers.pub/@hongminhee/2026/optique-10-discriminated-unions-for-cli"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 15:14:10",
+      "https://lobste.rs/s/pmxhem/announcing_rust_1_95_0"
+    ],
+    [
+      "Announcing Rust 1.95.0",
+      "https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 14:10:16",
+      "https://lobste.rs/s/ouzdjl/time_travel_debugger_for_webassembly"
+    ],
+    [
+      "A time travel debugger for WebAssembly",
+      "https://github.com/friendlymatthew/gabagool/tree/main/gabagool-debug-adapter#gabagool-debug-adapter"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 14:01:20",
+      "https://lobste.rs/s/yhbjpt/future_everything_is_lies_i_guess_where_do"
+    ],
+    [
+      "The Future of Everything is Lies, I Guess: Where Do We Go From Here?",
+      "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 13:56:48",
+      "https://lobste.rs/s/fzwy8c/esonatlangs_bring_complexity_natural"
+    ],
+    [
+      "EsoNatLangs Bring the Complexity of Natural Language into Code",
+      "https://esoteric.codes/blog/five-esonatlangs"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 13:05:54",
       "https://lobste.rs/s/wa4xvo/compiling_java_as_target_language"
     ],
@@ -51,26 +101,6 @@
   ],
   [
     [
-      "2026-04-16, 10:08:16",
-      "https://lobste.rs/s/djnmmd/inside_2026_ram_crunch_how_ai_will_make"
-    ],
-    [
-      "Inside the 2026 'RAM Crunch': How AI Will Make Your Next Laptop Much Pricier",
-      "https://www.pcmag.com/explainers/inside-2026-ram-crunch-why-ai-will-make-your-next-laptop-much-pricier"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 10:02:25",
-      "https://lobste.rs/s/dsjczh/halloy_open_source_ircv3_client"
-    ],
-    [
-      "Halloy: An Open Source IRCv3 Client",
-      "https://halloy.chat/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 09:57:55",
       "https://lobste.rs/s/0qggzn/mastodon_don_t_use_mastodon_mstdn_domain"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2026-04-16, 09:56:15",
-      "https://lobste.rs/s/xkxbq3/i_let_claude_opus_write_chrome_exploit"
-    ],
-    [
-      "I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?",
-      "https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 08:47:04",
       "https://lobste.rs/s/xijpr1/ipv6_traffic_crosses_50_mark"
     ],
     [
       "IPv6 traffic crosses the 50% mark",
       "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 08:40:23",
-      "https://lobste.rs/s/htdiau/reimplementing_space_protocol_stack"
-    ],
-    [
-      "Reimplementing the Space Protocol Stack from Scratch",
-      "https://gazagnaire.org/blog/2026-04-15-ccsds-protocol-stack.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Retrofitting JIT Compilers into C Interpreters",
       "https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 03:43:06",
-      "https://lobste.rs/s/vb70md/i_don_t_care_it_s_x_times_faster"
-    ],
-    [
-      "I don't care that it's X times faster",
-      "https://tinkering.xyz/faster/"
     ]
   ]
 ]
