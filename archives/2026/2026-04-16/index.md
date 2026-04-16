@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 17:34:44](https://lobste.rs/s/myzsbg/stop_using_jwts) - [Stop using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 * [2026-04-16, 15:32:52](https://lobste.rs/s/kvf7u1/from_five_optional_fields_discriminated) - [From five optional fields to a discriminated union: CLI parsing with Optique 1.0](https://hackers.pub/@hongminhee/2026/optique-10-discriminated-unions-for-cli)
 * [2026-04-16, 15:14:10](https://lobste.rs/s/pmxhem/announcing_rust_1_95_0) - [Announcing Rust 1.95.0](https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/)
 * [2026-04-16, 14:10:16](https://lobste.rs/s/ouzdjl/time_travel_debugger_for_webassembly) - [A time travel debugger for WebAssembly](https://github.com/friendlymatthew/gabagool/tree/main/gabagool-debug-adapter#gabagool-debug-adapter)
