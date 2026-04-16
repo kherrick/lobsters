@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-04-16, 18:44:27",
+      "https://lobste.rs/s/rswccw/tech_note_sidenotes"
+    ],
+    [
+      "Tech Note: Sidenotes",
+      "https://unbreaking.org/blog/tech-note-sidenotes/"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 17:34:44",
       "https://lobste.rs/s/myzsbg/stop_using_jwts"
     ],
@@ -157,16 +167,6 @@
     [
       "Mastodon: Don't use \"mastodon\" or \"mstdn\" in domain names",
       "https://github.com/mastodon/mastodon/commit/d6f8ac97e808821180e9ae0c66879b7a2d64e690"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 09:56:15",
-      "https://lobste.rs/s/xkxbq3/i_let_claude_opus_write_chrome_exploit"
-    ],
-    [
-      "I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?",
-      "https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit"
     ]
   ],
   [
