@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-16, 04:24:07](https://lobste.rs/s/5wgwbz/mathematics_library_babel) - [Mathematics in the Library of Babel](https://www.daniellitt.com/blog/2026/2/20/mathematics-in-the-library-of-babel)
+* [2026-04-16, 03:29:30](https://lobste.rs/s/y8j7by/internet_draft_internet_protocol) - [Internet-Draft Internet Protocol Version 8 (IPv8)](https://datatracker.ietf.org/doc/draft-thain-ipv8/00/)
+* [2026-04-16, 03:05:54](https://lobste.rs/s/qoexc7/c_26_structured_bindings_conditions) - [C++26: Structured bindings in conditions](https://www.sandordargo.com/blog/2026/04/15/cpp26-structured-bindings-condition)
 * [2026-04-15, 22:50:38](https://lobste.rs/s/dzlbeb/cybersecurity_looks_like_proof_work_now) - [Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
 * [2026-04-15, 19:59:39](https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software) - [You cannot use the GNU (A)GPL to take software freedom away](https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away)
 * [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
@@ -17,14 +20,11 @@
 * [2026-04-15, 08:16:22](https://lobste.rs/s/51obiz/testing_opengraph_on_localhost_from_cli) - [Testing OpenGraph on localhost from the CLI before you go public](https://simonhartcher.com/posts/2026-04-15-testing-opengraph-on-localhost-from-the-cli)
 * [2026-04-15, 05:32:07](https://lobste.rs/s/orvtly/fixing_20_year_old_bug_enlightenment_e16) - [Fixing a 20-year-old bug in Enlightenment E16](https://iczelia.net/posts/e16-20-year-old-bug/)
 * [2026-04-15, 03:43:06](https://lobste.rs/s/vb70md/i_don_t_care_it_s_x_times_faster) - [I don't care that it's X times faster](https://tinkering.xyz/faster/)
-* [2026-04-15, 00:22:56](https://lobste.rs/s/nfelvb/my_pr_has_been_waiting_year_exponential) - [My PR has been waiting a year, or the exponential curve behind open source backlogs](https://armanckeser.com/writing/jellyfin-flow)
 * [2026-04-14, 23:43:14](https://lobste.rs/s/zubxux/saying_goodbye_agile) - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
 * [2026-04-14, 22:05:23](https://lobste.rs/s/krdjnf/truffleruby_34_full_ruby_3_4) - [TruffleRuby 34: full Ruby 3.4 compatibility, up to 23% faster parsing, and a new Prism-based Ripper with 20x speedups](https://truffleruby.dev/blog/truffleruby-34-is-released)
-* [2026-04-14, 18:57:07](https://lobste.rs/s/7lmezq/fediverse_deserves_dumb_graphical) - [The Fediverse deserves a dumb graphical client](https://adele.pages.casa/md/blog/the-fediverse-deserves-a-dumb-graphical-client.md)
 * [2026-04-14, 17:35:12](https://lobste.rs/s/l6c9wi/it_s_ok_compare_floating_points_for) - [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html)
 * [2026-04-14, 16:40:28](https://lobste.rs/s/ak5mgm/keepass_keepassxc_fork) - [KeePassχ - a KeePassXC fork](https://codeberg.org/keepasschi)
 * [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
-* [2026-04-14, 11:04:21](https://lobste.rs/s/hedf1w/rust_should_have_stable_tail_calls) - [Rust should have stable tail calls](https://trifectatech.org/blog/tail-calls-project-goal/)
 
 ## [Archives](archives/index.md)
 
