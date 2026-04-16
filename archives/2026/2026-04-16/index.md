@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 09:57:55](https://lobste.rs/s/0qggzn/mastodon_don_t_use_mastodon_mstdn_domain) - [Mastodon: Don't use \"mastodon\" or \"mstdn\" in domain names](https://github.com/mastodon/mastodon/commit/1d1be8f9245a0b00f3dafd6204f47523544bee21)
+* [2026-04-16, 09:56:15](https://lobste.rs/s/xkxbq3/i_let_claude_opus_write_chrome_exploit) - [I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?](https://www.hacktron.ai)
 * [2026-04-16, 08:47:04](https://lobste.rs/s/xijpr1/ipv6_traffic_crosses_50_mark) - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
+* [2026-04-16, 08:40:23](https://lobste.rs/s/htdiau/reimplementing_space_protocol_stack) - [Reimplementing the Space Protocol Stack from Scratch](https://gazagnaire.org/blog/2026-04-15-ccsds-protocol-stack.html)
 * [2026-04-16, 08:07:15](https://lobste.rs/s/cazzpf/cltrace_dtrace_inspired_tracing) - [CLTRACE: DTrace inspired tracing and observability framework for Common Lisp applications](https://github.com/MarceColl/CLTRACE)
 * [2026-04-16, 07:44:11](https://lobste.rs/s/gsxwzt/switching_higher_order_streams_first) - [Switching higher-order streams to first-order streams](https://mnt.io/articles/switching-higher-order-streams-to-first-order-streams/)
 * [2026-04-16, 06:48:12](https://lobste.rs/s/aaf2z6/simdutf_can_now_be_used_without_libc_libc) - [Simdutf Can Now Be Used Without libc++ or libc++abi](https://mitchellh.com/writing/simdutf-no-libcxx)
