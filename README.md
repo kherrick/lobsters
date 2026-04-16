@@ -1,11 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-16, 13:05:54](https://lobste.rs/s/wa4xvo/compiling_java_as_target_language) - [Compiling to Java as a target language](https://matt.might.net/articles/compiling-to-java/)
+* [2026-04-16, 12:48:35](https://lobste.rs/s/y8shi7/many_step_sequences_go) - [Many-Step Sequences in Go](https://lesiw.dev/go/step/)
 * [2026-04-16, 11:38:21](https://lobste.rs/s/2byom8/too_much_discussion_xor_swap_trick) - [Too much Discussion of the XOR swap trick](https://heather.cafe/posts/too_much_xor_swap_trick/)
-* [2026-04-16, 11:32:16](https://lobste.rs/s/ttvlyt/boy_cried_mythos_verification_is) - [The Boy That Cried Mythos: Verification is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/)
 * [2026-04-16, 10:44:04](https://lobste.rs/s/t8xjpi/kde_gear_26_04) - [KDE Gear 26.04](https://kde.org/announcements/gear/26.04.0/)
 * [2026-04-16, 10:19:26](https://lobste.rs/s/sbtemt/age_snarky_ui) - [The age of snarky UI](https://thoughtbot.com/blog/the-age-of-snarky-ui)
 * [2026-04-16, 10:08:16](https://lobste.rs/s/djnmmd/inside_2026_ram_crunch_how_ai_will_make) - [Inside the 2026 'RAM Crunch': How AI Will Make Your Next Laptop Much Pricier](https://www.pcmag.com/explainers/inside-2026-ram-crunch-why-ai-will-make-your-next-laptop-much-pricier)
+* [2026-04-16, 10:02:25](https://lobste.rs/s/dsjczh/halloy_open_source_ircv3_client) - [Halloy: An Open Source IRCv3 Client](https://halloy.chat/)
 * [2026-04-16, 09:57:55](https://lobste.rs/s/0qggzn/mastodon_don_t_use_mastodon_mstdn_domain) - [Mastodon: Don't use \"mastodon\" or \"mstdn\" in domain names](https://github.com/mastodon/mastodon/commit/d6f8ac97e808821180e9ae0c66879b7a2d64e690)
+* [2026-04-16, 09:56:15](https://lobste.rs/s/xkxbq3/i_let_claude_opus_write_chrome_exploit) - [I Let Claude Opus Write a Chrome Exploit: The Next Model (Mythos?) Won't Need My Help?](https://www.hacktron.ai/blog/i-let-claude-opus-to-write-me-a-chrome-exploit)
 * [2026-04-16, 08:47:04](https://lobste.rs/s/xijpr1/ipv6_traffic_crosses_50_mark) - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
 * [2026-04-16, 08:40:23](https://lobste.rs/s/htdiau/reimplementing_space_protocol_stack) - [Reimplementing the Space Protocol Stack from Scratch](https://gazagnaire.org/blog/2026-04-15-ccsds-protocol-stack.html)
 * [2026-04-16, 08:07:15](https://lobste.rs/s/cazzpf/cltrace_dtrace_inspired_tracing) - [CLTRACE: DTrace inspired tracing and observability framework for Common Lisp applications](https://github.com/MarceColl/CLTRACE)
@@ -14,7 +17,6 @@
 * [2026-04-15, 22:50:38](https://lobste.rs/s/dzlbeb/cybersecurity_looks_like_proof_work_now) - [Cybersecurity Looks Like Proof of Work Now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
 * [2026-04-15, 19:59:39](https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software) - [You cannot use the GNU (A)GPL to take software freedom away](https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away)
 * [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
-* [2026-04-15, 18:06:55](https://lobste.rs/s/xt0wqm/i_don_t_want_screenshot_your_claude) - [I don’t want a screenshot of your Claude conversation](https://daverupert.com/2026/04/claude-no/)
 * [2026-04-15, 16:57:15](https://lobste.rs/s/8disen/xata_open_source_postgres_platform_with) - [Xata: Open source Postgres platform with copy-on-write branching and scale-to-zero](https://github.com/xataio/xata)
 * [2026-04-15, 16:29:31](https://lobste.rs/s/inohss/not_all_elementary_functions_can_be) - [Not all elementary functions can be expressed with exp-minus-log](https://www.stylewarning.com/posts/not-all-elementary/)
 * [2026-04-15, 16:12:55](https://lobste.rs/s/jbyxup/sdl3_add_dos_platform_support) - [SDL3 - Add DOS platform support](https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o)
@@ -23,8 +25,6 @@
 * [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 * [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
 * [2026-04-15, 03:43:06](https://lobste.rs/s/vb70md/i_don_t_care_it_s_x_times_faster) - [I don't care that it's X times faster](https://tinkering.xyz/faster/)
-* [2026-04-14, 23:43:14](https://lobste.rs/s/zubxux/saying_goodbye_agile) - [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
-* [2026-04-14, 16:15:51](https://lobste.rs/s/4vvozb/zig_0_16_0_release_notes) - [Zig 0.16.0 Release Notes](https://ziglang.org/download/0.16.0/release-notes.html)
 
 ## [Archives](archives/index.md)
 
