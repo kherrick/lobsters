@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 19:16:00](https://lobste.rs/s/xaicu8/claude_coding_vibes_are_getting_worse) - [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/)
+* [2026-04-16, 19:12:07](https://lobste.rs/s/nvzsa5/clojure_documentary) - [Clojure: The Documentary](https://www.youtube.com/watch?v=Y24vK_QDLFg)
 * [2026-04-16, 17:34:44](https://lobste.rs/s/myzsbg/stop_using_jwts) - [Stop using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 * [2026-04-16, 15:32:52](https://lobste.rs/s/kvf7u1/from_five_optional_fields_discriminated) - [From five optional fields to a discriminated union: CLI parsing with Optique 1.0](https://hackers.pub/@hongminhee/2026/optique-10-discriminated-unions-for-cli)
 * [2026-04-16, 15:14:10](https://lobste.rs/s/pmxhem/announcing_rust_1_95_0) - [Announcing Rust 1.95.0](https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/)
+* [2026-04-16, 14:42:07](https://lobste.rs/s/ebltpu/detecting_dosbox_from_within_box) - [Detecting DOSBox from within the Box](http://datagirl.xyz/posts/dos_inside_the_box.html)
 * [2026-04-16, 14:10:16](https://lobste.rs/s/ouzdjl/time_travel_debugger_for_webassembly) - [A time travel debugger for WebAssembly](https://github.com/friendlymatthew/gabagool/tree/main/gabagool-debug-adapter#gabagool-debug-adapter)
 * [2026-04-16, 14:01:20](https://lobste.rs/s/yhbjpt/future_everything_is_lies_i_guess_where_do) - [The Future of Everything is Lies, I Guess: Where Do We Go From Here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
 * [2026-04-16, 13:56:48](https://lobste.rs/s/fzwy8c/esonatlangs_bring_complexity_natural) - [EsoNatLangs Bring the Complexity of Natural Language into Code](https://esoteric.codes/blog/five-esonatlangs)
