@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-16, 19:16:00",
+      "https://lobste.rs/s/xaicu8/claude_coding_vibes_are_getting_worse"
+    ],
+    [
+      "The Claude Coding Vibes Are Getting Worse",
+      "https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 19:12:07",
+      "https://lobste.rs/s/nvzsa5/clojure_documentary"
+    ],
+    [
+      "Clojure: The Documentary",
+      "https://www.youtube.com/watch?v=Y24vK_QDLFg"
+    ]
+  ],
+  [
+    [
       "2026-04-16, 17:34:44",
       "https://lobste.rs/s/myzsbg/stop_using_jwts"
     ],
@@ -27,6 +47,16 @@
     [
       "Announcing Rust 1.95.0",
       "https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/"
+    ]
+  ],
+  [
+    [
+      "2026-04-16, 14:42:07",
+      "https://lobste.rs/s/ebltpu/detecting_dosbox_from_within_box"
+    ],
+    [
+      "Detecting DOSBox from within the Box",
+      "http://datagirl.xyz/posts/dos_inside_the_box.html"
     ]
   ],
   [
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2026-04-16, 03:29:30",
-      "https://lobste.rs/s/y8j7by/internet_draft_internet_protocol"
-    ],
-    [
-      "Internet-Draft Internet Protocol Version 8 (IPv8)",
-      "https://datatracker.ietf.org/doc/draft-thain-ipv8/00/"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 22:50:38",
-      "https://lobste.rs/s/dzlbeb/cybersecurity_looks_like_proof_work_now"
-    ],
-    [
-      "Cybersecurity Looks Like Proof of Work Now",
-      "https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html"
-    ]
-  ],
-  [
-    [
       "2026-04-15, 19:59:39",
       "https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software"
     ],
@@ -217,16 +227,6 @@
     [
       "SDL3 - Add DOS platform support",
       "https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 13:05:31",
-      "https://lobste.rs/s/hphrhd/direct_win32_api_weird_shaped_windows_why"
-    ],
-    [
-      "Direct Win32 API, Weird-Shaped Windows, and Why They Mostly Disappeared",
-      "https://warped3.substack.com/p/direct-win32-api-weird-shaped-windows"
     ]
   ],
   [
