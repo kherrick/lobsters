@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-16, 20:32:27](https://lobste.rs/s/dlxlvj/okay_what_actually_uses_rust) - [Okay, what actually uses Rust](https://blog.goose.love/posts/what-actually-uses-rust/)
 * [2026-04-16, 19:16:00](https://lobste.rs/s/xaicu8/claude_coding_vibes_are_getting_worse) - [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/)
 * [2026-04-16, 19:12:07](https://lobste.rs/s/nvzsa5/clojure_documentary) - [Clojure: The Documentary](https://www.youtube.com/watch?v=Y24vK_QDLFg)
 * [2026-04-16, 17:34:44](https://lobste.rs/s/myzsbg/stop_using_jwts) - [Stop using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
@@ -21,7 +22,6 @@
 * [2026-04-16, 07:44:11](https://lobste.rs/s/gsxwzt/switching_higher_order_streams_first) - [Switching higher-order streams to first-order streams](https://mnt.io/articles/switching-higher-order-streams-to-first-order-streams/)
 * [2026-04-15, 19:59:39](https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software) - [You cannot use the GNU (A)GPL to take software freedom away](https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away)
 * [2026-04-15, 18:12:33](https://lobste.rs/s/r4dspa/ai_assistance_reduces_persistence_hurts) - [AI Assistance Reduces Persistence and Hurts Independent Performance](https://arxiv.org/pdf/2604.04721)
-* [2026-04-15, 16:57:15](https://lobste.rs/s/8disen/xata_open_source_postgres_platform_with) - [Xata: Open source Postgres platform with copy-on-write branching and scale-to-zero](https://github.com/xataio/xata)
 * [2026-04-15, 16:12:55](https://lobste.rs/s/jbyxup/sdl3_add_dos_platform_support) - [SDL3 - Add DOS platform support](https://bsky.app/profile/dosnostalgic.bsky.social/post/3mjfdos7iok2o)
 * [2026-04-15, 12:57:28](https://lobste.rs/s/otzxqs/things_you_didn_t_know_about_indexes) - [Things you didn't know about indexes](https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html)
 * [2026-04-15, 11:57:24](https://lobste.rs/s/q6j2fu/retrofitting_jit_compilers_into_c) - [Retrofitting JIT Compilers into C Interpreters](https://tratt.net/laurie/blog/2026/retrofitting_jit_compilers_into_c_interpreters.html)
