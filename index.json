@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-17, 08:47:07",
+      "https://lobste.rs/s/eec2qq/500_lines_less_python_interpreter"
+    ],
+    [
+      "500 Lines or Less: A Python Interpreter Written in Python",
+      "https://aosabook.org/en/500L/a-python-interpreter-written-in-python.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 07:15:22",
+      "https://lobste.rs/s/lcjbr0/demystifying_assemblers"
+    ],
+    [
+      "Demystifying assemblers",
+      "https://briancallahan.net/blog/20210408.html"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 05:43:07",
       "https://lobste.rs/s/yr2mcf/folk_computer"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2026-04-16, 15:32:52",
-      "https://lobste.rs/s/kvf7u1/from_five_optional_fields_discriminated"
-    ],
-    [
-      "From five optional fields to a discriminated union: CLI parsing with Optique 1.0",
-      "https://hackers.pub/@hongminhee/2026/optique-10-discriminated-unions-for-cli"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 15:14:10",
       "https://lobste.rs/s/pmxhem/announcing_rust_1_95_0"
     ],
@@ -117,16 +127,6 @@
     [
       "The Future of Everything is Lies, I Guess: Where Do We Go From Here?",
       "https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 13:56:48",
-      "https://lobste.rs/s/fzwy8c/esonatlangs_bring_complexity_natural"
-    ],
-    [
-      "EsoNatLangs Bring the Complexity of Natural Language into Code",
-      "https://esoteric.codes/blog/five-esonatlangs"
     ]
   ],
   [
