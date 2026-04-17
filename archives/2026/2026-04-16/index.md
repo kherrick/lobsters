@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-16](index.md)
 
+* [2026-04-16, 21:38:52](https://lobste.rs/s/boluto/better_r_programming_experience_thanks) - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
 * [2026-04-16, 20:32:27](https://lobste.rs/s/dlxlvj/okay_what_actually_uses_rust) - [Okay, what actually uses Rust](https://blog.goose.love/posts/what-actually-uses-rust/)
 * [2026-04-16, 19:16:00](https://lobste.rs/s/xaicu8/claude_coding_vibes_are_getting_worse) - [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/)
 * [2026-04-16, 19:12:07](https://lobste.rs/s/nvzsa5/clojure_documentary) - [Clojure: The Documentary](https://www.youtube.com/watch?v=Y24vK_QDLFg)
 * [2026-04-16, 18:44:27](https://lobste.rs/s/rswccw/tech_note_sidenotes) - [Tech Note: Sidenotes](https://unbreaking.org/blog/tech-note-sidenotes/)
+* [2026-04-16, 17:34:44](https://lobste.rs/s/myzsbg/stop_using_jwts_2019) - [Stop using JWTs (2019)](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 * [2026-04-16, 17:34:44](https://lobste.rs/s/myzsbg/stop_using_jwts) - [Stop using JWTs](https://gist.github.com/samsch/0d1f3d3b4745d778f78b230cf6061452)
 * [2026-04-16, 15:32:52](https://lobste.rs/s/kvf7u1/from_five_optional_fields_discriminated) - [From five optional fields to a discriminated union: CLI parsing with Optique 1.0](https://hackers.pub/@hongminhee/2026/optique-10-discriminated-unions-for-cli)
 * [2026-04-16, 15:14:10](https://lobste.rs/s/pmxhem/announcing_rust_1_95_0) - [Announcing Rust 1.95.0](https://blog.rust-lang.org/2026/04/16/Rust-1.95.0/)
