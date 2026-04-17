@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-17, 16:06:02",
+      "https://lobste.rs/s/9vw47d/practical_antiforgery_software_design"
+    ],
+    [
+      "Practical Antiforgery in Software Design",
+      "https://hudlow.org/2026/practical-antiforgery"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 14:58:04",
       "https://lobste.rs/s/tirqno/healthchecks_io_now_uses_self_hosted"
     ],
@@ -97,6 +107,16 @@
     [
       "An early look at tailscale-rs, a tsnet library in Rust",
       "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 07:15:22",
+      "https://lobste.rs/s/lcjbr0/demystifying_assemblers"
+    ],
+    [
+      "Demystifying assemblers",
+      "https://briancallahan.net/blog/20210408.html"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-16, 13:05:54",
-      "https://lobste.rs/s/wa4xvo/compiling_java_as_target_language"
-    ],
-    [
-      "Compiling to Java as a target language",
-      "https://matt.might.net/articles/compiling-to-java/"
-    ]
-  ],
-  [
-    [
       "2026-04-16, 10:19:26",
       "https://lobste.rs/s/sbtemt/age_snarky_ui"
     ],
@@ -237,16 +247,6 @@
     [
       "IPv6 traffic crosses the 50% mark",
       "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197"
-    ]
-  ],
-  [
-    [
-      "2026-04-15, 19:59:39",
-      "https://lobste.rs/s/nihbc8/you_cannot_use_gnu_gpl_take_software"
-    ],
-    [
-      "You cannot use the GNU (A)GPL to take software freedom away",
-      "https://www.fsf.org/blogs/licensing/agpl-is-not-a-tool-for-taking-freedom-away"
     ]
   ]
 ]
