@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-17, 14:58:04](https://lobste.rs/s/tirqno/healthchecks_io_now_uses_self_hosted) - [Healthchecks.io Now Uses Self-hosted Object Storage](https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/)
 * [2026-04-17, 13:49:55](https://lobste.rs/s/d55yj0/we_beat_google_s_zero_knowledge_proof) - [We beat Google’s zero-knowledge proof of quantum cryptanalysis](https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/)
 * [2026-04-17, 13:02:52](https://lobste.rs/s/y8jlwv/tangled_newsletter_01_hello) - [tangled newsletter 01 — hello](https://blog.tangled.org/newsletter-01/)
 * [2026-04-17, 12:22:14](https://lobste.rs/s/oozbdu/zmx_run_local_code_agents_on_remote) - [zmx - run local code agents on remote machines](https://bower.sh/zmx-ai-portal)
@@ -20,7 +21,6 @@
 * [2026-04-16, 14:10:16](https://lobste.rs/s/ouzdjl/time_travel_debugger_for_webassembly) - [A time travel debugger for WebAssembly](https://github.com/friendlymatthew/gabagool/tree/main/gabagool-debug-adapter#gabagool-debug-adapter)
 * [2026-04-16, 14:01:20](https://lobste.rs/s/yhbjpt/future_everything_is_lies_i_guess_where_do) - [The Future of Everything is Lies, I Guess: Where Do We Go From Here?](https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here)
 * [2026-04-16, 13:05:54](https://lobste.rs/s/wa4xvo/compiling_java_as_target_language) - [Compiling to Java as a target language](https://matt.might.net/articles/compiling-to-java/)
-* [2026-04-16, 11:38:21](https://lobste.rs/s/2byom8/too_much_discussion_xor_swap_trick) - [Too much Discussion of the XOR swap trick](https://heather.cafe/posts/too_much_xor_swap_trick/)
 * [2026-04-16, 10:19:26](https://lobste.rs/s/sbtemt/age_snarky_ui) - [The age of snarky UI](https://thoughtbot.com/blog/the-age-of-snarky-ui)
 * [2026-04-16, 09:57:55](https://lobste.rs/s/0qggzn/mastodon_don_t_use_mastodon_mstdn_domain) - [Mastodon: Don't use \"mastodon\" or \"mstdn\" in domain names](https://github.com/mastodon/mastodon/commit/d6f8ac97e808821180e9ae0c66879b7a2d64e690)
 * [2026-04-16, 08:47:04](https://lobste.rs/s/xijpr1/ipv6_traffic_crosses_50_mark) - [IPv6 traffic crosses the 50% mark](https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197)
