@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-17, 14:58:04",
+      "https://lobste.rs/s/tirqno/healthchecks_io_now_uses_self_hosted"
+    ],
+    [
+      "Healthchecks.io Now Uses Self-hosted Object Storage",
+      "https://blog.healthchecks.io/2026/04/healthchecks-io-now-uses-self-hosted-object-storage/"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 13:49:55",
       "https://lobste.rs/s/d55yj0/we_beat_google_s_zero_knowledge_proof"
     ],
@@ -197,16 +207,6 @@
     [
       "Compiling to Java as a target language",
       "https://matt.might.net/articles/compiling-to-java/"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 11:38:21",
-      "https://lobste.rs/s/2byom8/too_much_discussion_xor_swap_trick"
-    ],
-    [
-      "Too much Discussion of the XOR swap trick",
-      "https://heather.cafe/posts/too_much_xor_swap_trick/"
     ]
   ],
   [
