@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-17, 10:41:24",
-      "https://lobste.rs/s/l08ols/encrypting_external_device_with_luks"
+      "2026-04-17, 11:59:40",
+      "https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying"
     ],
     [
-      "Encrypting an external device with LUKS",
-      "https://iagoleal.com/posts/usb-crypt/"
+      "HTTP desync in Discord's media proxy: Spying on a whole platform",
+      "https://tmctmt.com/posts/http-desync-in-discord/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 11:50:11",
+      "https://lobste.rs/s/ku8hlz/discourse_is_not_going_closed_source"
+    ],
+    [
+      "Discourse is Not Going Closed Source",
+      "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 11:37:05",
+      "https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Clojure: The Documentary",
       "https://www.youtube.com/watch?v=Y24vK_QDLFg"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 18:44:27",
-      "https://lobste.rs/s/rswccw/tech_note_sidenotes"
-    ],
-    [
-      "Tech Note: Sidenotes",
-      "https://unbreaking.org/blog/tech-note-sidenotes/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "IPv6 traffic crosses the 50% mark",
       "https://www.google.com/intl/en/ipv6/statistics.html?yzh=28197"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 08:07:15",
-      "https://lobste.rs/s/cazzpf/cltrace_dtrace_inspired_tracing"
-    ],
-    [
-      "CLTRACE: DTrace inspired tracing and observability framework for Common Lisp applications",
-      "https://github.com/MarceColl/CLTRACE"
     ]
   ],
   [
