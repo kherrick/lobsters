@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-17, 05:43:07",
+      "https://lobste.rs/s/yr2mcf/folk_computer"
+    ],
+    [
+      "Folk Computer",
+      "https://folk.computer/start"
+    ]
+  ],
+  [
+    [
       "2026-04-17, 04:11:13",
       "https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git"
     ],
@@ -197,16 +207,6 @@
     [
       "CLTRACE: DTrace inspired tracing and observability framework for Common Lisp applications",
       "https://github.com/MarceColl/CLTRACE"
-    ]
-  ],
-  [
-    [
-      "2026-04-16, 07:44:11",
-      "https://lobste.rs/s/gsxwzt/switching_higher_order_streams_first"
-    ],
-    [
-      "Switching higher-order streams to first-order streams",
-      "https://mnt.io/articles/switching-higher-order-streams-to-first-order-streams/"
     ]
   ],
   [
