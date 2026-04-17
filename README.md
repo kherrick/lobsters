@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-17, 21:33:13](https://lobste.rs/s/tyxxnd/building_ezli_me_link_shortener_rust) - [Building ezli.me, a link shortener in Rust](https://rustunit.com/blog/2026/04-17-ezlime-link-shortener-in-rust/)
 * [2026-04-17, 21:00:34](https://lobste.rs/s/m0c78b/why_is_ipv6_so_complicated) - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
 * [2026-04-17, 20:27:16](https://lobste.rs/s/rp1yrv/simplified_model_fil_c) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
 * [2026-04-17, 20:01:54](https://lobste.rs/s/u1fill/apparmor_s_experimental_permissions) - [AppArmor's experimental permissions prompting](https://discourse.ubuntu.com/t/ubuntu-desktop-s-24-10-dev-cycle-part-5-introducing-permissions-prompting/47963)
@@ -13,7 +14,6 @@
 * [2026-04-17, 11:59:40](https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying) - [HTTP desync in Discord's media proxy: Spying on a whole platform](https://tmctmt.com/posts/http-desync-in-discord/)
 * [2026-04-17, 11:50:11](https://lobste.rs/s/ku8hlz/discourse_is_not_going_closed_source) - [Discourse is Not Going Closed Source](https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/)
 * [2026-04-17, 11:37:05](https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend)
-* [2026-04-17, 09:09:48](https://lobste.rs/s/fsryww/collaborative_autoresearch_on_peer_peer) - [Collaborative Autoresearch on a Peer-to-Peer Network](https://community.computer)
 * [2026-04-17, 07:54:45](https://lobste.rs/s/vbid4k/early_look_at_tailscale_rs_tsnet_library) - [An early look at tailscale-rs, a tsnet library in Rust](https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview)
 * [2026-04-17, 06:53:27](https://lobste.rs/s/ql5jpq/history_teapots_unix) - [A history of teapots and UNIX](https://discuss.systems/@thalia/116417242648384997)
 * [2026-04-17, 05:43:07](https://lobste.rs/s/yr2mcf/folk_computer) - [Folk Computer](https://folk.computer/start)
