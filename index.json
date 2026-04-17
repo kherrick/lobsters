@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-04-16, 21:38:52",
-      "https://lobste.rs/s/boluto/better_r_programming_experience_thanks"
+      "2026-04-17, 04:11:13",
+      "https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git"
     ],
     [
-      "A Better R Programming Experience Thanks to Tree-sitter",
-      "https://ropensci.org/blog/2026/04/02/tree-sitter-overview/"
+      "git-kv: Key-value store attached to git commits using Git notes",
+      "https://github.com/sebastien/git-kv"
     ]
   ],
   [
