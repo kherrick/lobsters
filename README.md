@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-16, 21:38:52](https://lobste.rs/s/boluto/better_r_programming_experience_thanks) - [A Better R Programming Experience Thanks to Tree-sitter](https://ropensci.org/blog/2026/04/02/tree-sitter-overview/)
+* [2026-04-17, 04:11:13](https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git) - [git-kv: Key-value store attached to git commits using Git notes](https://github.com/sebastien/git-kv)
 * [2026-04-16, 20:32:27](https://lobste.rs/s/dlxlvj/okay_what_actually_uses_rust) - [Okay, what actually uses Rust](https://blog.goose.love/posts/what-actually-uses-rust/)
 * [2026-04-16, 19:16:00](https://lobste.rs/s/xaicu8/claude_coding_vibes_are_getting_worse) - [The Claude Coding Vibes Are Getting Worse](https://blog.matthewbrunelle.com/the-claude-coding-vibes-are-getting-worse/)
 * [2026-04-16, 19:12:07](https://lobste.rs/s/nvzsa5/clojure_documentary) - [Clojure: The Documentary](https://www.youtube.com/watch?v=Y24vK_QDLFg)
