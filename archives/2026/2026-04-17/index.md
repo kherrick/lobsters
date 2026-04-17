@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-17](index.md)
 
+* [2026-04-17, 20:01:54](https://lobste.rs/s/u1fill/apparmor_s_experimental_permissions) - [AppArmor's experimental permissions prompting](https://discourse.ubuntu.com/t/ubuntu-desktop-s-24-10-dev-cycle-part-5-introducing-permissions-prompting/47963)
 * [2026-04-17, 17:46:45](https://lobste.rs/s/my3lu9/lost_thesis_dennis_ritchie) - [The lost thesis of Dennis Ritchie](https://archive.computerhistory.org/resources/access/text/2020/05/102790971/Ritchie_dissertation.pdf)
 * [2026-04-17, 17:40:49](https://lobste.rs/s/b75v6m/reflections_on_30_years_hpc_programming) - [Reflections on 30 Years of HPC Programming: So many hardware advances, so little adoption of new languages](https://chapel-lang.org/blog/posts/30years/)
 * [2026-04-17, 16:06:02](https://lobste.rs/s/9vw47d/practical_antiforgery_software_design) - [Practical Antiforgery in Software Design](https://hudlow.org/2026/practical-antiforgery)
