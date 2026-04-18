@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 22:28:13](https://lobste.rs/s/8teb8e/pgque_zero_bloat_postgres_queue) - [PgQue: Zero-bloat Postgres queue](https://github.com/NikolayS/pgque)
 * [2026-04-18, 21:46:44](https://lobste.rs/s/nbt8uq/some_secret_management_belongs_your_http) - [Some secret management belongs in your HTTP proxy](https://blog.exe.dev/http-proxy-secrets)
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
 * [2026-04-18, 17:11:42](https://lobste.rs/s/gisyhv/optimizing_ruby_path_methods) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
