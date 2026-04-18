@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2026-04-17, 11:50:11",
-      "https://lobste.rs/s/ku8hlz/discourse_is_not_going_closed_source"
-    ],
-    [
-      "Discourse is Not Going Closed Source",
-      "https://blog.discourse.org/2026/04/discourse-is-not-going-closed-source/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 11:37:05",
       "https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend"
     ],
@@ -207,6 +197,16 @@
     [
       "Folk Computer",
       "https://folk.computer/start"
+    ]
+  ],
+  [
+    [
+      "2026-04-17, 04:11:13",
+      "https://lobste.rs/s/ygjm5d/git_kv_key_value_store_attached_git"
+    ],
+    [
+      "git-kv: Key-value store attached to git commits using Git notes",
+      "https://github.com/sebastien/git-kv"
     ]
   ],
   [
