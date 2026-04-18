@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-18, 14:58:19",
+      "https://lobste.rs/s/lhcktd/mad_bugs_even_cat_readme_txt_is_not_safe"
+    ],
+    [
+      "MAD Bugs: Even \"cat readme.txt\" is not safe",
+      "https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 14:35:30",
       "https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with"
     ],
@@ -127,16 +137,6 @@
     [
       "A simplified model of Fil-C",
       "https://www.corsix.org/content/simplified-model-of-fil-c"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 20:01:54",
-      "https://lobste.rs/s/u1fill/apparmor_s_experimental_permissions"
-    ],
-    [
-      "AppArmor's experimental permissions prompting (2024)",
-      "https://discourse.ubuntu.com/t/ubuntu-desktop-s-24-10-dev-cycle-part-5-introducing-permissions-prompting/47963"
     ]
   ],
   [
