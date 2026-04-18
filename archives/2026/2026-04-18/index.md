@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-18](index.md)
 
+* [2026-04-18, 14:58:19](https://lobste.rs/s/lhcktd/mad_bugs_even_cat_readme_txt_is_not_safe) - [MAD Bugs: Even \"cat readme.txt\" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
 * [2026-04-18, 14:01:51](https://lobste.rs/s/tnogqh/native_ipv6_kubernetes_for_true_edge) - [Native IPv6 Kubernetes for true edge routing](https://henrikgerdes.me/blog/2026-04-k8s-native-ipv6-edge/)
 * [2026-04-18, 13:53:19](https://lobste.rs/s/hsrqhj/state_kdenlive_2026) - [State of Kdenlive - 2026](https://kdenlive.org/news/2026/state-2026/)

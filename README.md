@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-18, 14:58:19](https://lobste.rs/s/lhcktd/mad_bugs_even_cat_readme_txt_is_not_safe) - [MAD Bugs: Even \"cat readme.txt\" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
 * [2026-04-18, 14:01:51](https://lobste.rs/s/tnogqh/native_ipv6_kubernetes_for_true_edge) - [Native IPv6 Kubernetes for true edge routing](https://henrikgerdes.me/blog/2026-04-k8s-native-ipv6-edge/)
 * [2026-04-18, 13:53:19](https://lobste.rs/s/hsrqhj/state_kdenlive_2026) - [State of Kdenlive - 2026](https://kdenlive.org/news/2026/state-2026/)
@@ -13,7 +14,6 @@
 * [2026-04-17, 21:33:13](https://lobste.rs/s/tyxxnd/building_ezli_me_link_shortener_rust) - [Building ezli.me, a link shortener in Rust](https://rustunit.com/blog/2026/04-17-ezlime-link-shortener-in-rust/)
 * [2026-04-17, 21:00:34](https://lobste.rs/s/m0c78b/why_is_ipv6_so_complicated) - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
 * [2026-04-17, 20:27:16](https://lobste.rs/s/rp1yrv/simplified_model_fil_c) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
-* [2026-04-17, 20:01:54](https://lobste.rs/s/u1fill/apparmor_s_experimental_permissions) - [AppArmor's experimental permissions prompting (2024)](https://discourse.ubuntu.com/t/ubuntu-desktop-s-24-10-dev-cycle-part-5-introducing-permissions-prompting/47963)
 * [2026-04-17, 17:46:45](https://lobste.rs/s/my3lu9/lost_thesis_dennis_ritchie) - [The lost thesis of Dennis Ritchie](https://archive.computerhistory.org/resources/access/text/2020/05/102790971/Ritchie_dissertation.pdf)
 * [2026-04-17, 17:40:49](https://lobste.rs/s/b75v6m/reflections_on_30_years_hpc_programming) - [Reflections on 30 Years of HPC Programming: So many hardware advances, so little adoption of new languages](https://chapel-lang.org/blog/posts/30years/)
 * [2026-04-17, 16:06:02](https://lobste.rs/s/9vw47d/practical_antiforgery_software_design) - [Practical Antiforgery in Software Design](https://hudlow.org/2026/practical-antiforgery)
