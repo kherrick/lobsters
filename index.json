@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-18, 14:01:51",
+      "https://lobste.rs/s/tnogqh/native_ipv6_kubernetes_for_true_edge"
+    ],
+    [
+      "Native IPv6 Kubernetes for true edge routing",
+      "https://henrikgerdes.me/blog/2026-04-k8s-native-ipv6-edge/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 13:53:19",
+      "https://lobste.rs/s/hsrqhj/state_kdenlive_2026"
+    ],
+    [
+      "State of Kdenlive - 2026",
+      "https://kdenlive.org/news/2026/state-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-04-18, 13:19:17",
+      "https://lobste.rs/s/zjqc4a/running_minecraft_server_more_on_1960s"
+    ],
+    [
+      "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
+      "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 12:30:57",
       "https://lobste.rs/s/jzgjbm/how_why_we_rewrote_our_production_c"
     ],
@@ -37,16 +67,6 @@
     [
       "How GitHub uses eBPF to improve deployment safety",
       "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 07:21:31",
-      "https://lobste.rs/s/wwdso3/complete_c_programming_roadmap_for"
-    ],
-    [
-      "The Complete C Programming Roadmap for Beginners (2026) — From Zero to Confident Programmer",
-      "https://medium.com/@suyashnagane438/the-complete-c-programming-roadmap-for-beginners-2026-from-zero-to-confident-programmer-a9f13e255f2a"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/tbvl30/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 07:54:45",
-      "https://lobste.rs/s/vbid4k/early_look_at_tailscale_rs_tsnet_library"
-    ],
-    [
-      "An early look at tailscale-rs, a tsnet library in Rust",
-      "https://tailscale.com/blog/tailscale-rs-rust-tsnet-library-preview"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 05:43:07",
-      "https://lobste.rs/s/yr2mcf/folk_computer"
-    ],
-    [
-      "Folk Computer",
-      "https://folk.computer/start"
     ]
   ],
   [
