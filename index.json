@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-18, 14:35:30",
+      "https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with"
+    ],
+    [
+      "SQLite prefixes its temp files with `etilqs_`",
+      "https://avi.im/blag/2026/etilqs/"
+    ]
+  ],
+  [
+    [
       "2026-04-18, 14:01:51",
       "https://lobste.rs/s/tnogqh/native_ipv6_kubernetes_for_true_edge"
     ],
@@ -37,16 +47,6 @@
     [
       "How (and why) we rewrote our production C++ frontend infrastructure in Rust",
       "https://blog.nearlyfreespeech.net/2026/04/17/how-and-why-we-rewrote-our-production-c-frontend-infrastructure-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 12:17:05",
-      "https://lobste.rs/s/t1zl6m/unicode_variation_selectors_2007"
-    ],
-    [
-      "Unicode Variation Selectors (2007)",
-      "https://www.babelstone.co.uk/Blog/2007/06/secret-life-of-variation-selectors.html"
     ]
   ],
   [
