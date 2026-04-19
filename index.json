@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-19, 06:40:31",
+      "https://lobste.rs/s/uxjpyz/optimizing_xreferee_with_elemindex"
+    ],
+    [
+      "Optimizing xreferee with elemIndex",
+      "https://brandonchinn178.github.io/posts/2026/04/17/optimizing-xreferee-with-elemindex/"
+    ]
+  ],
+  [
+    [
+      "2026-04-19, 05:34:20",
+      "https://lobste.rs/s/vugypt/when_compilers_surprise_you"
+    ],
+    [
+      "When compilers surprise you",
+      "https://xania.org/202512/24-cunning-clang"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 01:08:29",
       "https://lobste.rs/s/dluyzo/electromechanical_angle_computer"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-04-17, 21:33:13",
-      "https://lobste.rs/s/tyxxnd/building_ezli_me_link_shortener_rust"
-    ],
-    [
-      "Building ezli.me, a link shortener in Rust",
-      "https://rustunit.com/blog/2026/04-17-ezlime-link-shortener-in-rust/"
-    ]
-  ],
-  [
-    [
       "2026-04-17, 21:00:34",
       "https://lobste.rs/s/m0c78b/why_is_ipv6_so_complicated"
     ],
@@ -217,16 +227,6 @@
     [
       "A simplified model of Fil-C",
       "https://www.corsix.org/content/simplified-model-of-fil-c"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 13:49:55",
-      "https://lobste.rs/s/d55yj0/we_beat_google_s_zero_knowledge_proof"
-    ],
-    [
-      "We beat Google’s zero-knowledge proof of quantum cryptanalysis",
-      "https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/"
     ]
   ],
   [
