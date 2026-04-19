@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-19, 16:59:08",
+      "https://lobste.rs/s/xitxrt/hot_wiring_lisp_machine"
+    ],
+    [
+      "Hot Wiring the Lisp Machine",
+      "https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 16:15:10",
       "https://lobste.rs/s/6sgks3/working_around_missing_feature_apple"
     ],
@@ -217,16 +227,6 @@
     [
       "How GitHub uses eBPF to improve deployment safety",
       "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 02:42:46",
-      "https://lobste.rs/s/i0tuyd/lenses_rust_my_solution"
-    ],
-    [
-      "Lenses in Rust and My Solution",
-      "https://lambdalemon.gay/posts/grist-lens"
     ]
   ],
   [
