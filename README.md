@@ -10,7 +10,6 @@
 * [2026-04-18, 21:46:44](https://lobste.rs/s/nbt8uq/some_secret_management_belongs_your_http) - [Some secret management belongs in your HTTP proxy](https://blog.exe.dev/http-proxy-secrets)
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
 * [2026-04-18, 17:11:42](https://lobste.rs/s/gisyhv/optimizing_ruby_path_methods) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
-* [2026-04-18, 16:08:31](https://lobste.rs/s/1kgeq0/anthropic_s_claude_mythos_launch_is_built) - [Anthropic's Claude Mythos Launch Is Built on Misinformation](https://www.artificialintelligencemadesimple.com/p/anthropics-claude-mythos-launch-is)
 * [2026-04-18, 15:46:02](https://lobste.rs/s/hwdd5o/secret_life_circuits) - [The Secret Life of Circuits](https://lcamtuf.coredump.cx/electronics/)
 * [2026-04-18, 14:58:19](https://lobste.rs/s/lhcktd/mad_bugs_even_cat_readme_txt_is_not_safe) - [MAD Bugs: Even \"cat readme.txt\" is not safe](https://blog.calif.io/p/mad-bugs-even-cat-readmetxt-is-not)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
@@ -22,9 +21,10 @@
 * [2026-04-18, 09:17:46](https://lobste.rs/s/9xgleb/how_github_uses_ebpf_improve_deployment) - [How GitHub uses eBPF to improve deployment safety](https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/)
 * [2026-04-18, 02:42:46](https://lobste.rs/s/i0tuyd/lenses_rust_my_solution) - [Lenses in Rust and My Solution](https://lambdalemon.gay/posts/grist-lens)
 * [2026-04-18, 01:19:05](https://lobste.rs/s/muofgb/deleteduser_com_15_pii_magnet) - [Deleteduser.com —a $15 PII Magnet](https://mike-sheward.medium.com/deleteduser-com-a-15-pii-magnet-c4396eb21061)
-* [2026-04-17, 23:59:56](https://lobste.rs/s/a6ztsz/it_is_time_ban_sale_precise_geolocation) - [It Is Time to Ban the Sale of Precise Geolocation Data](https://www.lawfaremedia.org/article/it-is-time-to-ban-the-sale-of-precise-geolocation)
 * [2026-04-17, 21:00:34](https://lobste.rs/s/m0c78b/why_is_ipv6_so_complicated) - [Why is IPv6 so complicated?](https://github.com/becarpenter/misc/blob/main/why6why.md)
 * [2026-04-17, 20:27:16](https://lobste.rs/s/rp1yrv/simplified_model_fil_c) - [A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c)
+* [2026-04-17, 13:02:52](https://lobste.rs/s/y8jlwv/tangled_newsletter_01_hello) - [tangled newsletter 01 — hello](https://blog.tangled.org/newsletter-01/)
+* [2026-04-17, 11:59:40](https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying) - [HTTP desync in Discord's media proxy: Spying on a whole platform](https://tmctmt.com/posts/http-desync-in-discord/)
 
 ## [Archives](archives/index.md)
 
