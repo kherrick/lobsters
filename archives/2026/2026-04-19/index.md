@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 09:04:50](https://lobste.rs/s/x5hnnp/si_units_for_request_rate) - [SI Units for Request Rate](https://entropicthoughts.com/si-units-for-request-rate)
 * [2026-04-19, 07:32:29](https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes) - [Yojam: a macOS default-browser shim that routes URLs through a rule engine](https://github.com/fluffypony/yojam)
 * [2026-04-19, 06:40:31](https://lobste.rs/s/uxjpyz/optimizing_xreferee_with_elemindex) - [Optimizing xreferee with elemIndex](https://brandonchinn178.github.io/posts/2026/04/17/optimizing-xreferee-with-elemindex/)
 * [2026-04-19, 05:34:20](https://lobste.rs/s/vugypt/when_compilers_surprise_you) - [When compilers surprise you](https://xania.org/202512/24-cunning-clang)
