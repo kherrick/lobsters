@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-19, 23:17:56](https://lobste.rs/s/u1a0fd/fastest_way_match_characters_on_arm) - [The fastest way to match characters on ARM processors?](https://lemire.me/blog/2026/04/19/the-fastest-way-to-match-characters-on-arm-processors/)
 * [2026-04-19, 21:12:33](https://lobste.rs/s/ghsneu/defense_depth_practical_guide_python) - [Defense in Depth: A Practical Guide to Python Supply Chain Security](https://bernat.tech/posts/securing-python-supply-chain/)
 * [2026-04-19, 21:12:29](https://lobste.rs/s/it5xwh/stupid_rcu_tricks_corner_case_rcu) - [Stupid RCU Tricks: Corner-Case RCU Implementations](https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations)
 * [2026-04-19, 19:39:51](https://lobste.rs/s/qxhzxh/corpus_self_hosted_listenbrainz_last_fm) - [corpus: self-hosted listenbrainz and last.fm frontend](https://github.com/mtmn/corpus)
@@ -20,7 +21,6 @@
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
 * [2026-04-18, 15:46:02](https://lobste.rs/s/hwdd5o/secret_life_circuits) - [The Secret Life of Circuits](https://lcamtuf.coredump.cx/electronics/)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
-* [2026-04-18, 13:53:19](https://lobste.rs/s/hsrqhj/state_kdenlive_2026) - [State of Kdenlive - 2026](https://kdenlive.org/news/2026/state-2026/)
 * [2026-04-18, 13:19:17](https://lobste.rs/s/zjqc4a/running_minecraft_server_more_on_1960s) - [Running a Minecraft Server and more on a 1960s UNIVAC Computer](https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer)
 * [2026-04-18, 12:30:57](https://lobste.rs/s/jzgjbm/how_why_we_rewrote_our_production_c) - [How (and why) we rewrote our production C++ frontend infrastructure in Rust](https://blog.nearlyfreespeech.net/2026/04/17/how-and-why-we-rewrote-our-production-c-frontend-infrastructure-in-rust/)
 * [2026-04-18, 12:15:03](https://lobste.rs/s/qmk3ph/towards_trust_emacs) - [Towards Trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)

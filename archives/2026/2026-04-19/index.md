@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 23:17:56](https://lobste.rs/s/u1a0fd/fastest_way_match_characters_on_arm) - [The fastest way to match characters on ARM processors?](https://lemire.me/blog/2026/04/19/the-fastest-way-to-match-characters-on-arm-processors/)
 * [2026-04-19, 21:12:33](https://lobste.rs/s/ghsneu/defense_depth_practical_guide_python) - [Defense in Depth: A Practical Guide to Python Supply Chain Security](https://bernat.tech/posts/securing-python-supply-chain/)
 * [2026-04-19, 21:12:29](https://lobste.rs/s/it5xwh/stupid_rcu_tricks_corner_case_rcu) - [Stupid RCU Tricks: Corner-Case RCU Implementations](https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations)
 * [2026-04-19, 19:39:51](https://lobste.rs/s/qxhzxh/corpus_self_hosted_listenbrainz_last_fm) - [corpus: self-hosted listenbrainz and last.fm frontend](https://github.com/mtmn/corpus)
