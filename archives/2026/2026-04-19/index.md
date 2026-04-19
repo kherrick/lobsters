@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 16:15:10](https://lobste.rs/s/6sgks3/working_around_missing_feature_apple) - [Working Around a Missing Feature in Apple Notes](https://jimleff.blogspot.com/2026/04/working-around-missing-feature-in-apple.html)
 * [2026-04-19, 15:27:10](https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era) - [What we once had (at the height of the XMPP era of the Internet) (2023)](https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet)
 * [2026-04-19, 15:21:16](https://lobste.rs/s/aaqbdy/vercel_april_2026_security_incident) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
 * [2026-04-19, 14:36:53](https://lobste.rs/s/9ohf8f/postmarketos_conference) - [postmarketOS Conference](https://postmarketos.org/conference/)
