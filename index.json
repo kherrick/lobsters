@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-19, 07:32:29",
+      "https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes"
+    ],
+    [
+      "Yojam: a macOS default-browser shim that routes URLs through a rule engine",
+      "https://github.com/fluffypony/yojam"
+    ]
+  ],
+  [
+    [
       "2026-04-19, 06:40:31",
       "https://lobste.rs/s/uxjpyz/optimizing_xreferee_with_elemindex"
     ],
@@ -237,16 +247,6 @@
     [
       "tangled newsletter 01 — hello",
       "https://blog.tangled.org/newsletter-01/"
-    ]
-  ],
-  [
-    [
-      "2026-04-17, 11:59:40",
-      "https://lobste.rs/s/zxgmfx/http_desync_discord_s_media_proxy_spying"
-    ],
-    [
-      "HTTP desync in Discord's media proxy: Spying on a whole platform",
-      "https://tmctmt.com/posts/http-desync-in-discord/"
     ]
   ]
 ]
