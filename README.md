@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-19, 21:12:33](https://lobste.rs/s/ghsneu/defense_depth_practical_guide_python) - [Defense in Depth: A Practical Guide to Python Supply Chain Security](https://bernat.tech/posts/securing-python-supply-chain/)
+* [2026-04-19, 21:12:29](https://lobste.rs/s/it5xwh/stupid_rcu_tricks_corner_case_rcu) - [Stupid RCU Tricks: Corner-Case RCU Implementations](https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations)
 * [2026-04-19, 19:39:51](https://lobste.rs/s/qxhzxh/corpus_self_hosted_listenbrainz_last_fm) - [corpus: self-hosted listenbrainz and last.fm frontend](https://github.com/mtmn/corpus)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 * [2026-04-19, 16:59:08](https://lobste.rs/s/xitxrt/hot_wiring_lisp_machine) - [Hot Wiring the Lisp Machine](https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/)
@@ -15,9 +17,7 @@
 * [2026-04-19, 01:08:29](https://lobste.rs/s/dluyzo/electromechanical_angle_computer) - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-19, 00:59:30](https://lobste.rs/s/nxfvyw/anthropic_claude_code_leak_reveals) - [Anthropic Claude Code Leak Reveals Critical Command Injection Vulnerabilities](https://beyondmachines.net/event_details/anthropic-claude-code-leak-reveals-critical-command-injection-vulnerabilities-e-6-c-1-k/gD2P6Ple2L)
 * [2026-04-18, 22:28:13](https://lobste.rs/s/8teb8e/pgque_zero_bloat_postgres_queue) - [PgQue: Zero-bloat Postgres queue](https://github.com/NikolayS/pgque)
-* [2026-04-18, 21:46:44](https://lobste.rs/s/nbt8uq/some_secret_management_belongs_your_http) - [Some secret management belongs in your HTTP proxy](https://blog.exe.dev/http-proxy-secrets)
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
-* [2026-04-18, 17:11:42](https://lobste.rs/s/gisyhv/optimizing_ruby_path_methods) - [Optimizing Ruby Path Methods](https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html)
 * [2026-04-18, 15:46:02](https://lobste.rs/s/hwdd5o/secret_life_circuits) - [The Secret Life of Circuits](https://lcamtuf.coredump.cx/electronics/)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
 * [2026-04-18, 13:53:19](https://lobste.rs/s/hsrqhj/state_kdenlive_2026) - [State of Kdenlive - 2026](https://kdenlive.org/news/2026/state-2026/)

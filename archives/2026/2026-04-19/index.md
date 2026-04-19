@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 21:12:33](https://lobste.rs/s/ghsneu/defense_depth_practical_guide_python) - [Defense in Depth: A Practical Guide to Python Supply Chain Security](https://bernat.tech/posts/securing-python-supply-chain/)
+* [2026-04-19, 21:12:29](https://lobste.rs/s/it5xwh/stupid_rcu_tricks_corner_case_rcu) - [Stupid RCU Tricks: Corner-Case RCU Implementations](https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations)
 * [2026-04-19, 19:39:51](https://lobste.rs/s/qxhzxh/corpus_self_hosted_listenbrainz_last_fm) - [corpus: self-hosted listenbrainz and last.fm frontend](https://github.com/mtmn/corpus)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 * [2026-04-19, 16:59:08](https://lobste.rs/s/xitxrt/hot_wiring_lisp_machine) - [Hot Wiring the Lisp Machine](https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/)
