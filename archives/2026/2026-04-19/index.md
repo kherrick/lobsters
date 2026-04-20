@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-19](index.md)
 
+* [2026-04-19, 23:47:02](https://lobste.rs/s/0wq9ns/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2025-Laurenz-Thesis.pdf)
 * [2026-04-19, 23:17:56](https://lobste.rs/s/u1a0fd/fastest_way_match_characters_on_arm) - [The fastest way to match characters on ARM processors?](https://lemire.me/blog/2026/04/19/the-fastest-way-to-match-characters-on-arm-processors/)
 * [2026-04-19, 21:12:33](https://lobste.rs/s/ghsneu/defense_depth_practical_guide_python) - [Defense in Depth: A Practical Guide to Python Supply Chain Security](https://bernat.tech/posts/securing-python-supply-chain/)
 * [2026-04-19, 21:12:29](https://lobste.rs/s/it5xwh/stupid_rcu_tricks_corner_case_rcu) - [Stupid RCU Tricks: Corner-Case RCU Implementations](https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations)
