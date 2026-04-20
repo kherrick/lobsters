@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 12:30:39](https://lobste.rs/s/b14yf4/creusot_0_11_0_verifythis_winner) - [Creusot 0.11.0: VerifyThis winner](https://devlog.creusot.rs/2026-04-20/)
+* [2026-04-20, 12:27:58](https://lobste.rs/s/jpftwz/optimizing_for_reviewers_three_step_ai) - [Optimizing for Reviewers: The Three Step AI Dev Loop](https://npf.io/2026/04/optimize-for-reviewers/)
+* [2026-04-20, 11:51:38](https://lobste.rs/s/hagsaq/webusb_extension_for_firefox) - [WebUSB extension for Firefox](https://github.com/ArcaneNibble/awawausb)
+* [2026-04-20, 11:50:49](https://lobste.rs/s/b5klfi/how_llvm_optimizes_power_sums_2019) - [How LLVM optimizes power sums (2019)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html)
 * [2026-04-20, 11:05:54](https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it) - [Your engineering team looks healthy. It probably isn't](https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy)
 * [2026-04-20, 10:24:36](https://lobste.rs/s/dantuo/casilda_1_2_4_released) - [Casilda 1.2.4 Released](https://blogs.gnome.org/xjuan/2026/04/19/casilda-1-2-4-released/)
 * [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
