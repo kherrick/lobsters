@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-20, 09:16:49",
+      "https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes"
+    ],
+    [
+      "Diagnosing Random MariaDB Freezes",
+      "https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 09:09:21",
+      "https://lobste.rs/s/30vbek/bpfvet_analyzes_compiled_bpf_o_files"
+    ],
+    [
+      "bpfvet: analyzes compiled .bpf.o files and reports minimum kernel version, helpers, maps, and portability issues",
+      "https://github.com/boratanrikulu/bpfvet"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 09:07:49",
+      "https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential"
+    ],
+    [
+      "Modern Frontend Complexity: essential or accidental?",
+      "https://binaryigor.com/modern-frontend-complexity.html"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 08:17:56",
       "https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-04-19, 09:04:50",
-      "https://lobste.rs/s/x5hnnp/si_units_for_request_rate_2024"
-    ],
-    [
-      "SI Units for Request Rate (2024)",
-      "https://entropicthoughts.com/si-units-for-request-rate"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 07:32:29",
       "https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes"
     ],
@@ -207,26 +227,6 @@
     [
       "When compilers surprise you",
       "https://xania.org/202512/24-cunning-clang"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 01:08:29",
-      "https://lobste.rs/s/dluyzo/electromechanical_angle_computer"
-    ],
-    [
-      "The electromechanical angle computer inside the B-52 bomber's star tracker",
-      "http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 00:59:30",
-      "https://lobste.rs/s/nxfvyw/anthropic_claude_code_leak_reveals"
-    ],
-    [
-      "Anthropic Claude Code Leak Reveals Critical Command Injection Vulnerabilities",
-      "https://beyondmachines.net/event_details/anthropic-claude-code-leak-reveals-critical-command-injection-vulnerabilities-e-6-c-1-k/gD2P6Ple2L"
     ]
   ],
   [
