@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
+* [2026-04-20, 09:09:21](https://lobste.rs/s/30vbek/bpfvet_analyzes_compiled_bpf_o_files) - [bpfvet: analyzes compiled .bpf.o files and reports minimum kernel version, helpers, maps, and portability issues](https://github.com/boratanrikulu/bpfvet)
+* [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
 * [2026-04-20, 08:17:56](https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron) - [Obelisk 0.37: JavaScript, Deployments, Cron](https://obeli.sk/blog/announcing-obelisk-0-37/)
 * [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
 * [2026-04-20, 07:32:38](https://lobste.rs/s/jfk5fg/closing_usability_gap_naked_objects) - [Closing the Usability Gap in Naked Objects](https://strvct.net/docs/Naked%20Objects/index.html)
@@ -18,11 +21,8 @@
 * [2026-04-19, 15:21:16](https://lobste.rs/s/aaqbdy/vercel_april_2026_security_incident) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
 * [2026-04-19, 14:36:53](https://lobste.rs/s/9ohf8f/postmarketos_conference) - [postmarketOS Conference](https://postmarketos.org/conference/)
 * [2026-04-19, 14:16:08](https://lobste.rs/s/vt2fxe/waves_particles) - [waves & particles](https://taylor.town/waves)
-* [2026-04-19, 09:04:50](https://lobste.rs/s/x5hnnp/si_units_for_request_rate_2024) - [SI Units for Request Rate (2024)](https://entropicthoughts.com/si-units-for-request-rate)
 * [2026-04-19, 07:32:29](https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes) - [Yojam: a macOS default-browser shim that routes URLs through a rule engine](https://github.com/fluffypony/yojam)
 * [2026-04-19, 05:34:20](https://lobste.rs/s/vugypt/when_compilers_surprise_you) - [When compilers surprise you](https://xania.org/202512/24-cunning-clang)
-* [2026-04-19, 01:08:29](https://lobste.rs/s/dluyzo/electromechanical_angle_computer) - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
-* [2026-04-19, 00:59:30](https://lobste.rs/s/nxfvyw/anthropic_claude_code_leak_reveals) - [Anthropic Claude Code Leak Reveals Critical Command Injection Vulnerabilities](https://beyondmachines.net/event_details/anthropic-claude-code-leak-reveals-critical-command-injection-vulnerabilities-e-6-c-1-k/gD2P6Ple2L)
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
 

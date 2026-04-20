@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
+* [2026-04-20, 09:09:21](https://lobste.rs/s/30vbek/bpfvet_analyzes_compiled_bpf_o_files) - [bpfvet: analyzes compiled .bpf.o files and reports minimum kernel version, helpers, maps, and portability issues](https://github.com/boratanrikulu/bpfvet)
+* [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
 * [2026-04-20, 08:17:56](https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron) - [Obelisk 0.37: JavaScript, Deployments, Cron](https://obeli.sk/blog/announcing-obelisk-0-37/)
 * [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
 * [2026-04-20, 07:32:38](https://lobste.rs/s/jfk5fg/closing_usability_gap_naked_objects) - [Closing the Usability Gap in Naked Objects](https://strvct.net/docs/Naked%20Objects/index.html)
