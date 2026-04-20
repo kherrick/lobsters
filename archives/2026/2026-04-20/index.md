@@ -6,6 +6,7 @@
 
 * [2026-04-20, 22:08:39](https://lobste.rs/s/etrtmp/jujutsu_megamerges_for_fun_profit) - [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
 * [2026-04-20, 20:54:37](https://lobste.rs/s/47iclr/stalwart_v0_16_new_foundation_stalwart) - [Stalwart v0.16: A New Foundation | Stalwart Labs](https://stalw.art/blog/stalwart-0-16)
+* [2026-04-20, 20:54:37](https://lobste.rs/s/47iclr/stalwart_v0_16_new_foundation) - [Stalwart v0.16: A New Foundation](https://stalw.art/blog/stalwart-0-16)
 * [2026-04-20, 18:40:55](https://lobste.rs/s/ea0xug/quantum_computers_are_not_threat_128_bit) - [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 17:07:22](https://lobste.rs/s/7mqzck/journey_optimising_elixir_application) - [Journey in optimising Elixir application](https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/)
 * [2026-04-20, 16:16:54](https://lobste.rs/s/ky2eoq/effectful_recursion_schemes) - [Effectful Recursion Schemes](https://effekt-lang.org/blog/recursion-schemes/)
