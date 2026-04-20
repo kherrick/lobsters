@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 05:20:47](https://lobste.rs/s/cwnraw/missing_bundler_features) - [The Missing Bundler Features](https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html)
 * [2026-04-20, 03:30:19](https://lobste.rs/s/7ivkkf/why_birds_were_only_dinosaurs_survive) - [Why birds were the only dinosaurs to survive mass extinction](https://www.scientificamerican.com/article/an-asteroid-extinguished-all-the-dinosaurs-except-for-birds-heres-why/)
 * [2026-04-20, 03:27:54](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented) - [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
 * [2026-04-20, 00:43:12](https://lobste.rs/s/dfe90i/theseus_static_windows_emulator) - [Theseus, a static Windows emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
