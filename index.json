@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-20, 08:17:56",
+      "https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron"
+    ],
+    [
+      "Obelisk 0.37: JavaScript, Deployments, Cron",
+      "https://obeli.sk/blog/announcing-obelisk-0-37/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 08:08:15",
+      "https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 07:32:38",
+      "https://lobste.rs/s/jfk5fg/closing_usability_gap_naked_objects"
+    ],
+    [
+      "Closing the Usability Gap in Naked Objects",
+      "https://strvct.net/docs/Naked%20Objects/index.html"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 05:20:47",
       "https://lobste.rs/s/cwnraw/missing_bundler_features"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2026-04-19, 16:15:10",
-      "https://lobste.rs/s/6sgks3/working_around_missing_feature_apple"
-    ],
-    [
-      "Working Around a Missing Feature in Apple Notes",
-      "https://jimleff.blogspot.com/2026/04/working-around-missing-feature-in-apple.html"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 15:27:10",
       "https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era"
     ],
@@ -227,26 +247,6 @@
     [
       "SQLite prefixes its temp files with `etilqs_`",
       "https://avi.im/blag/2026/etilqs/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 12:30:57",
-      "https://lobste.rs/s/jzgjbm/how_why_we_rewrote_our_production_c"
-    ],
-    [
-      "How (and why) we rewrote our production C++ frontend infrastructure in Rust",
-      "https://blog.nearlyfreespeech.net/2026/04/17/how-and-why-we-rewrote-our-production-c-frontend-infrastructure-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2026-04-18, 01:19:05",
-      "https://lobste.rs/s/muofgb/deleteduser_com_15_pii_magnet"
-    ],
-    [
-      "Deleteduser.com —a $15 PII Magnet",
-      "https://mike-sheward.medium.com/deleteduser-com-a-15-pii-magnet-c4396eb21061"
     ]
   ]
 ]
