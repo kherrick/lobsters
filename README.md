@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-20, 18:40:55](https://lobste.rs/s/ea0xug/quantum_computers_are_not_threat_128_bit) - [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 17:07:22](https://lobste.rs/s/7mqzck/journey_optimising_elixir_application) - [Journey in optimising Elixir application](https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/)
 * [2026-04-20, 16:16:54](https://lobste.rs/s/ky2eoq/effectful_recursion_schemes) - [Effectful Recursion Schemes](https://effekt-lang.org/blog/recursion-schemes/)
 * [2026-04-20, 16:02:35](https://lobste.rs/s/ugbrsp/pytexas_2026_recap) - [PyTexas 2026 Recap](https://bernat.tech/posts/pytexas-2026-recap/)
@@ -10,9 +11,9 @@
 * [2026-04-20, 12:37:45](https://lobste.rs/s/41tx1p/418_i_m_teapot) - [418 I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418)
 * [2026-04-20, 12:30:39](https://lobste.rs/s/b14yf4/creusot_0_11_0_verifythis_winner) - [Creusot 0.11.0: VerifyThis winner](https://devlog.creusot.rs/2026-04-20/)
 * [2026-04-20, 11:51:38](https://lobste.rs/s/hagsaq/webusb_extension_for_firefox) - [WebUSB extension for Firefox](https://github.com/ArcaneNibble/awawausb)
+* [2026-04-20, 11:50:49](https://lobste.rs/s/b5klfi/how_llvm_optimizes_power_sums_2019) - [How LLVM optimizes power sums (2019)](https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html)
 * [2026-04-20, 11:05:54](https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it) - [Your engineering team looks healthy. It probably isn't](https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy)
 * [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
-* [2026-04-20, 09:09:21](https://lobste.rs/s/30vbek/bpfvet_analyzes_compiled_bpf_o_files) - [bpfvet: analyzes compiled .bpf.o files and reports minimum kernel version, helpers, maps, and portability issues](https://github.com/boratanrikulu/bpfvet)
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
 * [2026-04-20, 08:17:56](https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron) - [Obelisk 0.37: JavaScript, Deployments, Cron](https://obeli.sk/blog/announcing-obelisk-0-37/)
 * [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2026-04-19, 23:47:02](https://lobste.rs/s/0wq9ns/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2025-Laurenz-Thesis.pdf)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 * [2026-04-19, 15:27:10](https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era) - [What we once had (at the height of the XMPP era of the Internet) (2023)](https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet)
-* [2026-04-19, 15:21:16](https://lobste.rs/s/aaqbdy/vercel_april_2026_security_incident) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
 * [2026-04-19, 14:16:08](https://lobste.rs/s/vt2fxe/waves_particles) - [waves & particles](https://taylor.town/waves)
 * [2026-04-19, 07:32:29](https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes) - [Yojam: a macOS default-browser shim that routes URLs through a rule engine](https://github.com/fluffypony/yojam)
 

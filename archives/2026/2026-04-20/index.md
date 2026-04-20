@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 18:40:55](https://lobste.rs/s/ea0xug/quantum_computers_are_not_threat_128_bit) - [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 17:07:22](https://lobste.rs/s/7mqzck/journey_optimising_elixir_application) - [Journey in optimising Elixir application](https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/)
 * [2026-04-20, 16:16:54](https://lobste.rs/s/ky2eoq/effectful_recursion_schemes) - [Effectful Recursion Schemes](https://effekt-lang.org/blog/recursion-schemes/)
 * [2026-04-20, 16:02:35](https://lobste.rs/s/ugbrsp/pytexas_2026_recap) - [PyTexas 2026 Recap](https://bernat.tech/posts/pytexas-2026-recap/)
