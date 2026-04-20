@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-20, 03:30:19](https://lobste.rs/s/7ivkkf/why_birds_were_only_dinosaurs_survive) - [Why birds were the only dinosaurs to survive mass extinction](https://www.scientificamerican.com/article/an-asteroid-extinguished-all-the-dinosaurs-except-for-birds-heres-why/)
+* [2026-04-20, 03:27:54](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented) - [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
 * [2026-04-20, 00:43:12](https://lobste.rs/s/dfe90i/theseus_static_windows_emulator) - [Theseus, a static Windows emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
 * [2026-04-20, 00:35:58](https://lobste.rs/s/7ovybf/this_week_plasma_per_screen_virtual) - [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/)
 * [2026-04-19, 23:47:02](https://lobste.rs/s/0wq9ns/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2025-Laurenz-Thesis.pdf)
@@ -19,11 +21,9 @@
 * [2026-04-19, 05:34:20](https://lobste.rs/s/vugypt/when_compilers_surprise_you) - [When compilers surprise you](https://xania.org/202512/24-cunning-clang)
 * [2026-04-19, 01:08:29](https://lobste.rs/s/dluyzo/electromechanical_angle_computer) - [The electromechanical angle computer inside the B-52 bomber's star tracker](http://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html)
 * [2026-04-19, 00:59:30](https://lobste.rs/s/nxfvyw/anthropic_claude_code_leak_reveals) - [Anthropic Claude Code Leak Reveals Critical Command Injection Vulnerabilities](https://beyondmachines.net/event_details/anthropic-claude-code-leak-reveals-critical-command-injection-vulnerabilities-e-6-c-1-k/gD2P6Ple2L)
-* [2026-04-18, 22:28:13](https://lobste.rs/s/8teb8e/pgque_zero_bloat_postgres_queue) - [PgQue: Zero-bloat Postgres queue](https://github.com/NikolayS/pgque)
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
 * [2026-04-18, 12:30:57](https://lobste.rs/s/jzgjbm/how_why_we_rewrote_our_production_c) - [How (and why) we rewrote our production C++ frontend infrastructure in Rust](https://blog.nearlyfreespeech.net/2026/04/17/how-and-why-we-rewrote-our-production-c-frontend-infrastructure-in-rust/)
-* [2026-04-18, 12:15:03](https://lobste.rs/s/qmk3ph/towards_trust_emacs) - [Towards Trust in Emacs](https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html)
 * [2026-04-18, 01:19:05](https://lobste.rs/s/muofgb/deleteduser_com_15_pii_magnet) - [Deleteduser.com —a $15 PII Magnet](https://mike-sheward.medium.com/deleteduser-com-a-15-pii-magnet-c4396eb21061)
 
 ## [Archives](archives/index.md)
