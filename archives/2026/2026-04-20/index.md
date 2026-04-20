@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 14:18:56](https://lobste.rs/s/hqfiqi/building_opnsense_router) - [Building an OPNsense router](https://clintonboys.com/projects/homelab/04-router/)
+* [2026-04-20, 14:16:49](https://lobste.rs/s/ygbtbm/graalvm_javascript_sandboxing) - [GraalVM JavaScript Sandboxing](https://www.graalvm.org/latest/security-guide/sandboxing/)
+* [2026-04-20, 13:06:15](https://lobste.rs/s/uxkvmr/forgejo_v15_0_is_available) - [Forgejo v15.0 is available](https://forgejo.org/2026-04-release-v15-0/)
 * [2026-04-20, 12:30:39](https://lobste.rs/s/b14yf4/creusot_0_11_0_verifythis_winner) - [Creusot 0.11.0: VerifyThis winner](https://devlog.creusot.rs/2026-04-20/)
 * [2026-04-20, 12:27:58](https://lobste.rs/s/jpftwz/optimizing_for_reviewers_three_step_ai) - [Optimizing for Reviewers: The Three Step AI Dev Loop](https://npf.io/2026/04/optimize-for-reviewers/)
 * [2026-04-20, 11:51:38](https://lobste.rs/s/hagsaq/webusb_extension_for_firefox) - [WebUSB extension for Firefox](https://github.com/ArcaneNibble/awawausb)
