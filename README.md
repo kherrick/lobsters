@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-20, 11:05:54](https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it) - [Your engineering team looks healthy. It probably isn't](https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy)
+* [2026-04-20, 10:24:36](https://lobste.rs/s/dantuo/casilda_1_2_4_released) - [Casilda 1.2.4 Released](https://blogs.gnome.org/xjuan/2026/04/19/casilda-1-2-4-released/)
 * [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
 * [2026-04-20, 09:09:21](https://lobste.rs/s/30vbek/bpfvet_analyzes_compiled_bpf_o_files) - [bpfvet: analyzes compiled .bpf.o files and reports minimum kernel version, helpers, maps, and portability issues](https://github.com/boratanrikulu/bpfvet)
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
@@ -12,8 +14,6 @@
 * [2026-04-20, 00:35:58](https://lobste.rs/s/7ovybf/this_week_plasma_per_screen_virtual) - [This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore](https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/)
 * [2026-04-19, 23:47:02](https://lobste.rs/s/0wq9ns/high_performance_2d_graphics_rendering) - [High-performance 2D graphics rendering on the CPU using sparse strips](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-pls/plf-dam/documents/StudentProjects/MasterTheses/2025-Laurenz-Thesis.pdf)
 * [2026-04-19, 23:17:56](https://lobste.rs/s/u1a0fd/fastest_way_match_characters_on_arm) - [The fastest way to match characters on ARM processors?](https://lemire.me/blog/2026/04/19/the-fastest-way-to-match-characters-on-arm-processors/)
-* [2026-04-19, 21:12:33](https://lobste.rs/s/ghsneu/defense_depth_practical_guide_python) - [Defense in Depth: A Practical Guide to Python Supply Chain Security](https://bernat.tech/posts/securing-python-supply-chain/)
-* [2026-04-19, 21:12:29](https://lobste.rs/s/it5xwh/stupid_rcu_tricks_corner_case_rcu) - [Stupid RCU Tricks: Corner-Case RCU Implementations](https://people.kernel.org/paulmck/stupid-rcu-tricks-corner-case-rcu-implementations)
 * [2026-04-19, 19:39:51](https://lobste.rs/s/qxhzxh/corpus_self_hosted_listenbrainz_last_fm) - [corpus: self-hosted listenbrainz and last.fm frontend](https://github.com/mtmn/corpus)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 * [2026-04-19, 16:59:08](https://lobste.rs/s/xitxrt/hot_wiring_lisp_machine) - [Hot Wiring the Lisp Machine](https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/)

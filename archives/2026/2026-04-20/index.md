@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-20](index.md)
 
+* [2026-04-20, 11:05:54](https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it) - [Your engineering team looks healthy. It probably isn't](https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy)
+* [2026-04-20, 10:24:36](https://lobste.rs/s/dantuo/casilda_1_2_4_released) - [Casilda 1.2.4 Released](https://blogs.gnome.org/xjuan/2026/04/19/casilda-1-2-4-released/)
 * [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
 * [2026-04-20, 09:09:21](https://lobste.rs/s/30vbek/bpfvet_analyzes_compiled_bpf_o_files) - [bpfvet: analyzes compiled .bpf.o files and reports minimum kernel version, helpers, maps, and portability issues](https://github.com/boratanrikulu/bpfvet)
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
