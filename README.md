@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-20, 08:17:56](https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron) - [Obelisk 0.37: JavaScript, Deployments, Cron](https://obeli.sk/blog/announcing-obelisk-0-37/)
+* [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
+* [2026-04-20, 07:32:38](https://lobste.rs/s/jfk5fg/closing_usability_gap_naked_objects) - [Closing the Usability Gap in Naked Objects](https://strvct.net/docs/Naked%20Objects/index.html)
 * [2026-04-20, 05:20:47](https://lobste.rs/s/cwnraw/missing_bundler_features) - [The Missing Bundler Features](https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html)
 * [2026-04-20, 03:27:54](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented) - [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
 * [2026-04-20, 00:43:12](https://lobste.rs/s/dfe90i/theseus_static_windows_emulator) - [Theseus, a static Windows emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
@@ -11,7 +14,6 @@
 * [2026-04-19, 19:39:51](https://lobste.rs/s/qxhzxh/corpus_self_hosted_listenbrainz_last_fm) - [corpus: self-hosted listenbrainz and last.fm frontend](https://github.com/mtmn/corpus)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 * [2026-04-19, 16:59:08](https://lobste.rs/s/xitxrt/hot_wiring_lisp_machine) - [Hot Wiring the Lisp Machine](https://scheatkode.com/blog/019d463d-38b3-7e63-80fd-6ed97bd8815e/hot-wiring-the-lisp-machine/)
-* [2026-04-19, 16:15:10](https://lobste.rs/s/6sgks3/working_around_missing_feature_apple) - [Working Around a Missing Feature in Apple Notes](https://jimleff.blogspot.com/2026/04/working-around-missing-feature-in-apple.html)
 * [2026-04-19, 15:27:10](https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era) - [What we once had (at the height of the XMPP era of the Internet) (2023)](https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet)
 * [2026-04-19, 15:21:16](https://lobste.rs/s/aaqbdy/vercel_april_2026_security_incident) - [Vercel April 2026 security incident](https://vercel.com/kb/bulletin/vercel-april-2026-security-incident)
 * [2026-04-19, 14:36:53](https://lobste.rs/s/9ohf8f/postmarketos_conference) - [postmarketOS Conference](https://postmarketos.org/conference/)
@@ -23,8 +25,6 @@
 * [2026-04-19, 00:59:30](https://lobste.rs/s/nxfvyw/anthropic_claude_code_leak_reveals) - [Anthropic Claude Code Leak Reveals Critical Command Injection Vulnerabilities](https://beyondmachines.net/event_details/anthropic-claude-code-leak-reveals-critical-command-injection-vulnerabilities-e-6-c-1-k/gD2P6Ple2L)
 * [2026-04-18, 17:34:40](https://lobste.rs/s/2htlsp/hello_old_new_projects_directory) - [Hello old new “Projects” directory](https://blog.tenstral.net/2026/04/hello-projects-directory.html)
 * [2026-04-18, 14:35:30](https://lobste.rs/s/tttexr/sqlite_prefixes_its_temp_files_with) - [SQLite prefixes its temp files with `etilqs_`](https://avi.im/blag/2026/etilqs/)
-* [2026-04-18, 12:30:57](https://lobste.rs/s/jzgjbm/how_why_we_rewrote_our_production_c) - [How (and why) we rewrote our production C++ frontend infrastructure in Rust](https://blog.nearlyfreespeech.net/2026/04/17/how-and-why-we-rewrote-our-production-c-frontend-infrastructure-in-rust/)
-* [2026-04-18, 01:19:05](https://lobste.rs/s/muofgb/deleteduser_com_15_pii_magnet) - [Deleteduser.com —a $15 PII Magnet](https://mike-sheward.medium.com/deleteduser-com-a-15-pii-magnet-c4396eb21061)
 
 ## [Archives](archives/index.md)
 
