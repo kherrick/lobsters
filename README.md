@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-21, 05:43:49](https://lobste.rs/s/mfy7oi/command_execution_via_drag_drop_terminal) - [Command Execution via Drag-and-Drop in Terminal Emulators](https://sdushantha.github.io/post/drop-it-like-its-hot)
 * [2026-04-21, 03:38:21](https://lobste.rs/s/eu5n2j/256_lines_less_test_case_minimization) - [256 Lines or Less: Test Case Minimization](https://matklad.github.io/2026/04/20/test-case-minimization.html)
 * [2026-04-21, 01:45:20](https://lobste.rs/s/axllpn/good_egg_trust_scoring_for_github_pr) - [good-egg: Trust scoring for GitHub PR authors based on contribution history](https://github.com/2ndSetAI/good-egg)
 * [2026-04-21, 01:14:08](https://lobste.rs/s/jnl6e7/signal_shot_project_verify_signal) - [Signal Shot: a project to verify the Signal protocol and its Rust implementation using Lean](https://leodemoura.github.io/blog/2026-4-20-signal-shot-the-platform-is-ready/)
@@ -21,7 +22,6 @@
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
 * [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
 * [2026-04-20, 03:27:54](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented) - [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
-* [2026-04-20, 00:43:12](https://lobste.rs/s/dfe90i/theseus_static_windows_emulator) - [Theseus, a static Windows emulator](https://neugierig.org/software/blog/2026/04/theseus.html)
 * [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 * [2026-04-19, 15:27:10](https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era) - [What we once had (at the height of the XMPP era of the Internet) (2023)](https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet)
 * [2026-04-19, 07:32:29](https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes) - [Yojam: a macOS default-browser shim that routes URLs through a rule engine](https://github.com/fluffypony/yojam)
