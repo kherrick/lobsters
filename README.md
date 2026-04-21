@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-21, 10:18:50](https://lobste.rs/s/5ktlik/narwhal_v0_6_0_message_broker_for_edge_apps) - [Narwhal v0.6.0 – message broker for edge apps, now with channel persistence](https://github.com/lonewolf-io/narwhal/releases/tag/narwhal-0.6.0)
+* [2026-04-21, 10:17:18](https://lobste.rs/s/p3fzyr/finishing_things) - [Finishing Things](https://ratfactor.com/finishing-things)
+* [2026-04-21, 10:09:48](https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new) - [What is your go-to project for learning a new language?](https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new)
 * [2026-04-21, 09:48:45](https://lobste.rs/s/wt6xvx/wait_is_over_coreboot_on_amd_starbook) - [Wait is over - coreboot on the AMD StarBook](https://starlabs.systems/blogs/news/coreboot-on-the-amd-starbook-finally)
 * [2026-04-21, 09:37:13](https://lobste.rs/s/vrmjge/how_make_fast_dynamic_language) - [How To Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)
 * [2026-04-21, 05:43:49](https://lobste.rs/s/mfy7oi/command_execution_via_drag_drop_terminal) - [Command Execution via Drag-and-Drop in Terminal Emulators](https://sdushantha.github.io/post/drop-it-like-its-hot)
@@ -17,14 +20,11 @@
 * [2026-04-20, 14:18:56](https://lobste.rs/s/hqfiqi/building_opnsense_router) - [Building an OPNsense router](https://clintonboys.com/projects/homelab/04-router/)
 * [2026-04-20, 13:06:15](https://lobste.rs/s/uxkvmr/forgejo_v15_0_is_available) - [Forgejo v15.0 is available](https://forgejo.org/2026-04-release-v15-0/)
 * [2026-04-20, 12:37:45](https://lobste.rs/s/41tx1p/418_i_m_teapot) - [418 I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/418)
-* [2026-04-20, 12:30:39](https://lobste.rs/s/b14yf4/creusot_0_11_0_verifythis_winner) - [Creusot 0.11.0: VerifyThis winner](https://devlog.creusot.rs/2026-04-20/)
 * [2026-04-20, 11:51:38](https://lobste.rs/s/hagsaq/webusb_extension_for_firefox) - [WebUSB extension for Firefox](https://github.com/ArcaneNibble/awawausb)
 * [2026-04-20, 11:05:54](https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it) - [Your engineering team looks healthy. It probably isn't](https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy)
-* [2026-04-20, 09:16:49](https://lobste.rs/s/4p1oys/diagnosing_random_mariadb_freezes) - [Diagnosing Random MariaDB Freezes](https://frappe.io/blog/frappe-cloud/diagnosing-random-mariadb-freezes-on-frappe-cloud)
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)
 * [2026-04-20, 08:08:15](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hqvxoj/what_are_you_doing_this_week)
 * [2026-04-20, 03:27:54](https://lobste.rs/s/pfqxak/claude_desktop_installs_undocumented) - [Claude Desktop installs undocumented browser extensions for Chrome and other browsers](https://www.thatprivacyguy.com/blog/anthropic-spyware/)
-* [2026-04-19, 18:06:29](https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for) - [Introducing Glyph Protocol for Terminals](https://rapha.land/introducing-glyph-protocol-for-terminals/)
 
 ## [Archives](archives/index.md)
 
