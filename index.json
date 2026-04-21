@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2026-04-21, 15:59:05",
-      "https://lobste.rs/s/hiawu3/pixel_bit_depth_increase_by_bit"
+      "2026-04-21, 15:55:07",
+      "https://lobste.rs/s/6vx5uy/features_everyone_should_steal_from_npmx"
     ],
     [
-      "Pixel Bit-Depth Increase by Bit Replication (1998)",
-      "https://cv.ulichney.com/papers/1998-bit-replication.pdf"
+      "Features everyone should steal from npmx",
+      "https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2026-04-20, 15:53:24",
+      "https://lobste.rs/s/xeb6yb/transpiling_from_python_into_lisp"
+    ],
+    [
+      "Transpiling from Python into Lisp",
+      "https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 15:32:47",
       "https://lobste.rs/s/tf7ngv/ggsql_grammar_graphics_for_sql"
     ],
@@ -217,16 +227,6 @@
     [
       "Forgejo v15.0 is available",
       "https://forgejo.org/2026-04-release-v15-0/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 11:51:38",
-      "https://lobste.rs/s/hagsaq/webusb_extension_for_firefox"
-    ],
-    [
-      "WebUSB extension for Firefox",
-      "https://github.com/ArcaneNibble/awawausb"
     ]
   ],
   [
