@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-21, 20:18:32](https://lobste.rs/s/48omfn/announcing_typescript_7_0_beta) - [Announcing TypeScript 7.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/)
+* [2026-04-21, 21:50:54](https://lobste.rs/s/jlgdk6/stay_on_credits_discover_best_value_for) - [Stay On Credits — Discover the best value for your points and travel credits](https://stayoncredits.com/)
 * [2026-04-21, 20:02:21](https://lobste.rs/s/p8idoc/i_don_t_want_your_prs_anymore) - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
 * [2026-04-21, 19:25:26](https://lobste.rs/s/uczgez/switching_from_uv_pdm) - [Switching from uv to PDM](https://stuartm.nz/2026/04/pdm-rocks/)
 * [2026-04-21, 19:24:03](https://lobste.rs/s/0rzs0d/framework_laptop_13_pro_intel_core_ultra_3) - [Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://frame.work/laptop13pro)
