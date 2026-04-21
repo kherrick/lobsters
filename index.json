@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-21, 09:48:45",
+      "https://lobste.rs/s/wt6xvx/wait_is_over_coreboot_on_amd_starbook"
+    ],
+    [
+      "Wait is over - coreboot on the AMD StarBook",
+      "https://starlabs.systems/blogs/news/coreboot-on-the-amd-starbook-finally"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 09:37:13",
+      "https://lobste.rs/s/vrmjge/how_make_fast_dynamic_language"
+    ],
+    [
+      "How To Make a Fast Dynamic Language Interpreter",
+      "https://zef-lang.dev/implementation"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 05:43:49",
       "https://lobste.rs/s/mfy7oi/command_execution_via_drag_drop_terminal"
     ],
@@ -227,26 +247,6 @@
     [
       "Introducing Glyph Protocol for Terminals",
       "https://rapha.land/introducing-glyph-protocol-for-terminals/"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 15:27:10",
-      "https://lobste.rs/s/ktmwly/what_we_once_had_at_height_xmpp_era"
-    ],
-    [
-      "What we once had (at the height of the XMPP era of the Internet) (2023)",
-      "https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 07:32:29",
-      "https://lobste.rs/s/na7cxg/yojam_macos_default_browser_shim_routes"
-    ],
-    [
-      "Yojam: a macOS default-browser shim that routes URLs through a rule engine",
-      "https://github.com/fluffypony/yojam"
     ]
   ]
 ]
