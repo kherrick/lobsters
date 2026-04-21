@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-21, 16:06:59",
+      "https://lobste.rs/s/2jqoor/force_all_app_traffic_into_tunnel"
+    ],
+    [
+      "Force all app traffic into the tunnel",
+      "https://mullvad.net/en/blog/force-all-app-traffic-into-the-tunnel"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 15:59:05",
+      "https://lobste.rs/s/hiawu3/pixel_bit_depth_increase_by_bit"
+    ],
+    [
+      "Pixel Bit-Depth Increase by Bit Replication (1998)",
+      "https://cv.ulichney.com/papers/1998-bit-replication.pdf"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 14:03:20",
       "https://lobste.rs/s/fgwvua/performance_wren_programming_language"
     ],
@@ -37,6 +57,16 @@
     [
       "LixCon 2026",
       "https://media.ccc.de/c/lixcon2026"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 12:30:49",
+      "https://lobste.rs/s/prquts/emacs_is_my_browser"
+    ],
+    [
+      "Emacs is my browser",
+      "https://joshblais.com/blog/emacs-as-my-browser/"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2026-04-20, 16:16:54",
-      "https://lobste.rs/s/ky2eoq/effectful_recursion_schemes"
-    ],
-    [
-      "Effectful Recursion Schemes",
-      "https://effekt-lang.org/blog/recursion-schemes/"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 16:02:35",
       "https://lobste.rs/s/ugbrsp/pytexas_2026_recap"
     ],
     [
       "PyTexas 2026 Recap",
       "https://bernat.tech/posts/pytexas-2026-recap/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 15:53:24",
-      "https://lobste.rs/s/xeb6yb/transpiling_from_python_into_lisp"
-    ],
-    [
-      "Transpiling from Python into Lisp",
-      "https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "WebUSB extension for Firefox",
       "https://github.com/ArcaneNibble/awawausb"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 11:05:54",
-      "https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it"
-    ],
-    [
-      "Your engineering team looks healthy. It probably isn't",
-      "https://dbarabashh.com/thoughts-and-experience/your-engineering-team-looks-healthy"
     ]
   ],
   [
