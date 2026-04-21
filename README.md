@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-21, 18:17:05](https://lobste.rs/s/ojh2aq/highlights_from_git_2_54) - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
 * [2026-04-21, 16:06:59](https://lobste.rs/s/2jqoor/force_all_app_traffic_into_tunnel) - [Force all app traffic into the tunnel](https://mullvad.net/en/blog/force-all-app-traffic-into-the-tunnel)
 * [2026-04-21, 15:55:07](https://lobste.rs/s/6vx5uy/features_everyone_should_steal_from_npmx) - [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html)
 * [2026-04-21, 14:03:20](https://lobste.rs/s/fgwvua/performance_wren_programming_language) - [Performance of the Wren programming language](https://wren.io/performance.html)
@@ -20,7 +21,6 @@
 * [2026-04-20, 20:54:37](https://lobste.rs/s/47iclr/stalwart_v0_16_new_foundation) - [Stalwart v0.16: A New Foundation](https://stalw.art/blog/stalwart-0-16)
 * [2026-04-20, 18:40:55](https://lobste.rs/s/ea0xug/quantum_computers_are_not_threat_128_bit) - [Quantum Computers Are Not a Threat to 128-bit Symmetric Keys](https://words.filippo.io/128-bits/)
 * [2026-04-20, 16:02:35](https://lobste.rs/s/ugbrsp/pytexas_2026_recap) - [PyTexas 2026 Recap](https://bernat.tech/posts/pytexas-2026-recap/)
-* [2026-04-20, 15:53:24](https://lobste.rs/s/xeb6yb/transpiling_from_python_into_lisp) - [Transpiling from Python into Lisp](https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE)
 * [2026-04-20, 15:32:47](https://lobste.rs/s/tf7ngv/ggsql_grammar_graphics_for_sql) - [ggsql: A grammar of graphics for SQL](https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/)
 * [2026-04-20, 13:06:15](https://lobste.rs/s/uxkvmr/forgejo_v15_0_is_available) - [Forgejo v15.0 is available](https://forgejo.org/2026-04-release-v15-0/)
 * [2026-04-20, 09:07:49](https://lobste.rs/s/y5nowq/modern_frontend_complexity_essential) - [Modern Frontend Complexity: essential or accidental?](https://binaryigor.com/modern-frontend-complexity.html)

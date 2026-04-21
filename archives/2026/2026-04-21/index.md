@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 18:17:05](https://lobste.rs/s/ojh2aq/highlights_from_git_2_54) - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
 * [2026-04-21, 16:06:59](https://lobste.rs/s/2jqoor/force_all_app_traffic_into_tunnel) - [Force all app traffic into the tunnel](https://mullvad.net/en/blog/force-all-app-traffic-into-the-tunnel)
 * [2026-04-21, 15:59:05](https://lobste.rs/s/hiawu3/pixel_bit_depth_increase_by_bit) - [Pixel Bit-Depth Increase by Bit Replication (1998)](https://cv.ulichney.com/papers/1998-bit-replication.pdf)
 * [2026-04-21, 15:55:07](https://lobste.rs/s/6vx5uy/features_everyone_should_steal_from_npmx) - [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html)
