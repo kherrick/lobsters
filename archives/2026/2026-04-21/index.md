@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 09:48:45](https://lobste.rs/s/wt6xvx/wait_is_over_coreboot_on_amd_starbook) - [Wait is over - coreboot on the AMD StarBook](https://starlabs.systems/blogs/news/coreboot-on-the-amd-starbook-finally)
+* [2026-04-21, 09:37:13](https://lobste.rs/s/vrmjge/how_make_fast_dynamic_language) - [How To Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)
 * [2026-04-21, 05:43:49](https://lobste.rs/s/mfy7oi/command_execution_via_drag_drop_terminal) - [Command Execution via Drag-and-Drop in Terminal Emulators](https://sdushantha.github.io/post/drop-it-like-its-hot)
 * [2026-04-21, 03:38:21](https://lobste.rs/s/eu5n2j/256_lines_less_test_case_minimization) - [256 Lines or Less: Test Case Minimization](https://matklad.github.io/2026/04/20/test-case-minimization.html)
 * [2026-04-21, 01:45:20](https://lobste.rs/s/axllpn/good_egg_trust_scoring_for_github_pr) - [good-egg: Trust scoring for GitHub PR authors based on contribution history](https://github.com/2ndSetAI/good-egg)
