@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 19:24:03](https://lobste.rs/s/0rzs0d/framework_laptop_13_pro_intel_core_ultra_3) - [Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://frame.work/laptop13pro)
+* [2026-04-21, 19:11:02](https://lobste.rs/s/glpz3r/zero_days_are_numbered) - [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
 * [2026-04-21, 18:17:05](https://lobste.rs/s/ojh2aq/highlights_from_git_2_54) - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
+* [2026-04-21, 17:40:43](https://lobste.rs/s/mrmvl5/using_quic_backscatter_infer_hypergiant) - [Using QUIC backscatter to infer hypergiant deployment configurations](https://blog.apnic.net/2026/04/21/using-quic-backscatter-to-infer-hypergiant-deployment-configurations/)
 * [2026-04-21, 16:06:59](https://lobste.rs/s/2jqoor/force_all_app_traffic_into_tunnel) - [Force all app traffic into the tunnel](https://mullvad.net/en/blog/force-all-app-traffic-into-the-tunnel)
 * [2026-04-21, 15:59:05](https://lobste.rs/s/hiawu3/pixel_bit_depth_increase_by_bit) - [Pixel Bit-Depth Increase by Bit Replication (1998)](https://cv.ulichney.com/papers/1998-bit-replication.pdf)
 * [2026-04-21, 15:55:07](https://lobste.rs/s/6vx5uy/features_everyone_should_steal_from_npmx) - [Features everyone should steal from npmx](https://nesbitt.io/2026/04/16/features-everyone-should-steal-from-npmx.html)
