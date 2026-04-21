@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-21, 03:38:21",
+      "https://lobste.rs/s/eu5n2j/256_lines_less_test_case_minimization"
+    ],
+    [
+      "256 Lines or Less: Test Case Minimization",
+      "https://matklad.github.io/2026/04/20/test-case-minimization.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 01:45:20",
+      "https://lobste.rs/s/axllpn/good_egg_trust_scoring_for_github_pr"
+    ],
+    [
+      "good-egg: Trust scoring for GitHub PR authors based on contribution history",
+      "https://github.com/2ndSetAI/good-egg"
+    ]
+  ],
+  [
+    [
+      "2026-04-21, 01:14:08",
+      "https://lobste.rs/s/jnl6e7/signal_shot_project_verify_signal"
+    ],
+    [
+      "Signal Shot: a project to verify the Signal protocol and its Rust implementation using Lean",
+      "https://leodemoura.github.io/blog/2026-4-20-signal-shot-the-platform-is-ready/"
+    ]
+  ],
+  [
+    [
       "2026-04-20, 22:08:39",
       "https://lobste.rs/s/etrtmp/jujutsu_megamerges_for_fun_profit"
     ],
@@ -27,6 +57,16 @@
     [
       "Quantum Computers Are Not a Threat to 128-bit Symmetric Keys",
       "https://words.filippo.io/128-bits/"
+    ]
+  ],
+  [
+    [
+      "2026-04-20, 17:07:22",
+      "https://lobste.rs/s/7mqzck/journey_optimising_elixir_application"
+    ],
+    [
+      "Journey in optimising Elixir application",
+      "https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2026-04-20, 11:50:49",
-      "https://lobste.rs/s/b5klfi/how_llvm_optimizes_power_sums_2019"
-    ],
-    [
-      "How LLVM optimizes power sums (2019)",
-      "https://kristerw.blogspot.com/2019/04/how-llvm-optimizes-geometric-sums.html"
-    ]
-  ],
-  [
-    [
       "2026-04-20, 11:05:54",
       "https://lobste.rs/s/cjbxjv/your_engineering_team_looks_healthy_it"
     ],
@@ -157,16 +187,6 @@
     [
       "Modern Frontend Complexity: essential or accidental?",
       "https://binaryigor.com/modern-frontend-complexity.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 08:17:56",
-      "https://lobste.rs/s/1akblt/obelisk_0_37_javascript_deployments_cron"
-    ],
-    [
-      "Obelisk 0.37: JavaScript, Deployments, Cron",
-      "https://obeli.sk/blog/announcing-obelisk-0-37/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-04-20, 00:35:58",
-      "https://lobste.rs/s/7ovybf/this_week_plasma_per_screen_virtual"
-    ],
-    [
-      "This Week in Plasma: Per-Screen Virtual Desktops and Wayland Session Restore",
-      "https://blogs.kde.org/2026/04/18/this-week-in-plasma-per-screen-virtual-desktops-and-wayland-session-restore/"
-    ]
-  ],
-  [
-    [
       "2026-04-19, 18:06:29",
       "https://lobste.rs/s/uevqfc/introducing_glyph_protocol_for"
     ],
@@ -227,16 +237,6 @@
     [
       "What we once had (at the height of the XMPP era of the Internet) (2023)",
       "https://www.kirsle.net/what-we-once-had-at-the-height-of-the-xmpp-era-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2026-04-19, 14:16:08",
-      "https://lobste.rs/s/vt2fxe/waves_particles"
-    ],
-    [
-      "waves & particles",
-      "https://taylor.town/waves"
     ]
   ],
   [
