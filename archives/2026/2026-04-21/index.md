@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-21](index.md)
 
+* [2026-04-21, 10:58:25](https://lobste.rs/s/msy3ri/good_architecture_shouldn_t_need_carrot) - [Good architecture shouldn't need a carrot or a stick](https://frederickvanbrabant.com/blog/2026-04-17-good-architecture-shouldnt-need-a-carrot-or-a-stick/)
 * [2026-04-21, 10:18:50](https://lobste.rs/s/5ktlik/narwhal_v0_6_0_message_broker_for_edge_apps) - [Narwhal v0.6.0 – message broker for edge apps, now with channel persistence](https://github.com/lonewolf-io/narwhal/releases/tag/narwhal-0.6.0)
 * [2026-04-21, 10:17:18](https://lobste.rs/s/p3fzyr/finishing_things) - [Finishing Things](https://ratfactor.com/finishing-things)
 * [2026-04-21, 10:09:48](https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new) - [What is your go-to project for learning a new language?](https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new)
