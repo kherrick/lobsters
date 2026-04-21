@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-21, 18:17:05",
+      "https://lobste.rs/s/ojh2aq/highlights_from_git_2_54"
+    ],
+    [
+      "Highlights from Git 2.54",
+      "https://github.blog/open-source/git/highlights-from-git-2-54/"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 16:06:59",
       "https://lobste.rs/s/2jqoor/force_all_app_traffic_into_tunnel"
     ],
@@ -197,16 +207,6 @@
     [
       "PyTexas 2026 Recap",
       "https://bernat.tech/posts/pytexas-2026-recap/"
-    ]
-  ],
-  [
-    [
-      "2026-04-20, 15:53:24",
-      "https://lobste.rs/s/xeb6yb/transpiling_from_python_into_lisp"
-    ],
-    [
-      "Transpiling from Python into Lisp",
-      "https://github.com/naver/lispe/wiki/6.22-Transpiling-Python-into-LispE"
     ]
   ],
   [
