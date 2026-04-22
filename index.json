@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-22, 02:57:34",
+      "https://lobste.rs/s/0qdgc0/is_claude_code_going_cost_100_month"
+    ],
+    [
+      "Is Claude Code going to cost $100/month? Probably not—it’s all very confusing",
+      "https://simonwillison.net/2026/Apr/22/claude-code-confusion/"
+    ]
+  ],
+  [
+    [
       "2026-04-21, 20:18:32",
       "https://lobste.rs/s/48omfn/announcing_typescript_7_0_beta"
     ],
@@ -187,16 +197,6 @@
     [
       "How To Make a Fast Dynamic Language Interpreter",
       "https://zef-lang.dev/implementation"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 05:43:49",
-      "https://lobste.rs/s/mfy7oi/command_execution_via_drag_drop_terminal"
-    ],
-    [
-      "Command Execution via Drag-and-Drop in Terminal Emulators",
-      "https://sdushantha.github.io/post/drop-it-like-its-hot"
     ]
   ],
   [
