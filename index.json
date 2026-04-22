@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-22, 20:56:45",
+      "https://lobste.rs/s/ivj2o8/nondescript_simple_embedded"
+    ],
+    [
+      "nondescript: a simple embedded programming language",
+      "https://github.com/deadpixi/nondescript"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 20:54:39",
+      "https://lobste.rs/s/unbgyx/olive_css_lisp_powered_vanilla_css"
+    ],
+    [
+      "Olive CSS: Lisp powered vanilla CSS utility-class a la Tailwind",
+      "https://codeberg.org/jjba23/olive-css"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 19:23:18",
       "https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier"
     ],
@@ -17,16 +37,6 @@
     [
       "Arch Linux now has a bit-for-bit reproducible Docker image",
       "https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 18:52:34",
-      "https://lobste.rs/s/bonwlu/telemetry_driven_development"
-    ],
-    [
-      "Telemetry-Driven Development",
-      "https://www.youtube.com/watch?v=irQicdafnyM"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "LemmaScript: A Verification Toolchain for TypeScript via Dafny",
       "https://midspiral.com/blog/lemmascript-a-verification-toolchain-for-typescript/"
+    ]
+  ],
+  [
+    [
+      "2026-04-22, 17:17:09",
+      "https://lobste.rs/s/lfkjpt/algorithmic_reconstruction"
+    ],
+    [
+      "An Algorithmic Reconstruction of Normalisation by Evaluation",
+      "https://yangzhixuan.github.io/NbE.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-21, 20:18:32",
-      "https://lobste.rs/s/48omfn/announcing_typescript_7_0_beta"
-    ],
-    [
-      "Announcing TypeScript 7.0 Beta",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/"
-    ]
-  ],
-  [
-    [
       "2026-04-21, 20:02:21",
       "https://lobste.rs/s/p8idoc/i_don_t_want_your_prs_anymore"
     ],
@@ -237,16 +247,6 @@
     [
       "grasp: a simple protocol for decentralized git",
       "https://gitgrasp.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 10:09:48",
-      "https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new"
-    ],
-    [
-      "What is your go-to project for learning a new language?",
-      "https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new"
     ]
   ]
 ]
