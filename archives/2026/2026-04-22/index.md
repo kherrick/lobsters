@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 19:23:18](https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier) - [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
+* [2026-04-22, 19:04:20](https://lobste.rs/s/wps0js/arch_linux_now_has_bit_for_bit) - [Arch Linux now has a bit-for-bit reproducible Docker image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
+* [2026-04-22, 18:52:34](https://lobste.rs/s/bonwlu/telemetry_driven_development) - [Telemetry-Driven Development](https://www.youtube.com/watch?v=irQicdafnyM)
 * [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
+* [2026-04-22, 18:26:48](https://lobste.rs/s/guiymx/forge) - [Forge](https://nesbitt.io/2026/03/13/forge.html)
 * [2026-04-22, 17:57:39](https://lobste.rs/s/k2tj4p/linux_application_sandboxing_old_tech) - [Linux application sandboxing - old tech for the future](https://www.dedoimedo.com/computers/linux-sandbox-firejail-xpra.html)
 * [2026-04-22, 17:33:29](https://lobste.rs/s/0dej4c/secret_history_recursion_schemes) - [The secret history of Recursion Schemes](https://www.youtube.com/watch?v=JzMCwokUTl4)
 * [2026-04-22, 17:19:38](https://lobste.rs/s/4tuujf/lemmascript_verification_toolchain_for) - [LemmaScript: A Verification Toolchain for TypeScript via Dafny](https://midspiral.com/blog/lemmascript-a-verification-toolchain-for-typescript/)
