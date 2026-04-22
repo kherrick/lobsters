@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
+* [2026-04-22, 17:57:39](https://lobste.rs/s/k2tj4p/linux_application_sandboxing_old_tech) - [Linux application sandboxing - old tech for the future](https://www.dedoimedo.com/computers/linux-sandbox-firejail-xpra.html)
 * [2026-04-22, 17:33:29](https://lobste.rs/s/0dej4c/secret_history_recursion_schemes) - [The secret history of Recursion Schemes](https://www.youtube.com/watch?v=JzMCwokUTl4)
 * [2026-04-22, 17:19:38](https://lobste.rs/s/4tuujf/lemmascript_verification_toolchain_for) - [LemmaScript: A Verification Toolchain for TypeScript via Dafny](https://midspiral.com/blog/lemmascript-a-verification-toolchain-for-typescript/)
 * [2026-04-22, 17:17:09](https://lobste.rs/s/lfkjpt/algorithmic_reconstruction) - [An Algorithmic Reconstruction of Normalisation by Evaluation](https://yangzhixuan.github.io/NbE.html)

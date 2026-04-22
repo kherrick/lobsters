@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-22, 17:33:29](https://lobste.rs/s/0dej4c/secret_history_recursion_schemes) - [The secret history of Recursion Schemes](https://www.youtube.com/watch?v=JzMCwokUTl4)
+* [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
+* [2026-04-22, 17:57:39](https://lobste.rs/s/k2tj4p/linux_application_sandboxing_old_tech) - [Linux application sandboxing - old tech for the future](https://www.dedoimedo.com/computers/linux-sandbox-firejail-xpra.html)
 * [2026-04-22, 17:19:38](https://lobste.rs/s/4tuujf/lemmascript_verification_toolchain_for) - [LemmaScript: A Verification Toolchain for TypeScript via Dafny](https://midspiral.com/blog/lemmascript-a-verification-toolchain-for-typescript/)
-* [2026-04-22, 17:17:09](https://lobste.rs/s/lfkjpt/algorithmic_reconstruction) - [An Algorithmic Reconstruction of Normalisation by Evaluation](https://yangzhixuan.github.io/NbE.html)
 * [2026-04-22, 16:46:37](https://lobste.rs/s/gjegzz/it_s_all_just_trees_with_web_origami) - [It's All Just Trees With Web Origami](https://vale.rocks/posts/web-origami)
 * [2026-04-22, 15:00:19](https://lobste.rs/s/fnvugl/using_llms_find_python_c_extension_bugs) - [Using LLMs to find Python C-extension bugs](https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/)
 * [2026-04-22, 14:02:30](https://lobste.rs/s/hkwyrc/edge_safe_rust) - [The Edge of Safe Rust](https://kyju.org/blog/tokioconf-2026/)
