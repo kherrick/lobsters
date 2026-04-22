@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 20:56:45](https://lobste.rs/s/ivj2o8/nondescript_simple_embedded) - [nondescript: a simple embedded programming language](https://github.com/deadpixi/nondescript)
+* [2026-04-22, 20:54:39](https://lobste.rs/s/unbgyx/olive_css_lisp_powered_vanilla_css) - [Olive CSS: Lisp powered vanilla CSS utility-class a la Tailwind](https://codeberg.org/jjba23/olive-css)
 * [2026-04-22, 19:23:18](https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier) - [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 * [2026-04-22, 19:04:20](https://lobste.rs/s/wps0js/arch_linux_now_has_bit_for_bit) - [Arch Linux now has a bit-for-bit reproducible Docker image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 * [2026-04-22, 18:52:34](https://lobste.rs/s/bonwlu/telemetry_driven_development) - [Telemetry-Driven Development](https://www.youtube.com/watch?v=irQicdafnyM)
