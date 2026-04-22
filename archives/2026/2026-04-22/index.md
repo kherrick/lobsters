@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-22](index.md)
 
+* [2026-04-22, 15:00:19](https://lobste.rs/s/fnvugl/using_llms_find_python_c_extension_bugs) - [Using LLMs to find Python C-extension bugs](https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/)
 * [2026-04-22, 14:02:30](https://lobste.rs/s/hkwyrc/edge_safe_rust) - [The Edge of Safe Rust](https://kyju.org/blog/tokioconf-2026/)
 * [2026-04-22, 13:39:12](https://lobste.rs/s/5plavs/some_general_notes_on_network_booting) - [Some general notes on network booting UEFI machines](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes)
 * [2026-04-22, 13:19:27](https://lobste.rs/s/uthsad/impeccable_design_skills_for_ai) - [Impeccable: Design skills for AI harnesses](https://impeccable.style)

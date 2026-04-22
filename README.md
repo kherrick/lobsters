@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-22, 15:00:19](https://lobste.rs/s/fnvugl/using_llms_find_python_c_extension_bugs) - [Using LLMs to find Python C-extension bugs](https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/)
 * [2026-04-22, 14:02:30](https://lobste.rs/s/hkwyrc/edge_safe_rust) - [The Edge of Safe Rust](https://kyju.org/blog/tokioconf-2026/)
 * [2026-04-22, 13:39:12](https://lobste.rs/s/5plavs/some_general_notes_on_network_booting) - [Some general notes on network booting UEFI machines](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFINetworkBootNotes)
 * [2026-04-22, 13:19:27](https://lobste.rs/s/uthsad/impeccable_design_skills_for_ai) - [Impeccable: Design skills for AI harnesses](https://impeccable.style)
@@ -22,7 +23,6 @@
 * [2026-04-21, 12:30:49](https://lobste.rs/s/prquts/emacs_is_my_browser) - [Emacs is my browser](https://joshblais.com/blog/emacs-as-my-browser/)
 * [2026-04-21, 10:17:18](https://lobste.rs/s/p3fzyr/finishing_things) - [Finishing Things](https://ratfactor.com/finishing-things)
 * [2026-04-21, 10:09:48](https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new) - [What is your go-to project for learning a new language?](https://lobste.rs/s/xqmug2/what_is_your_go_project_for_learning_new)
-* [2026-04-21, 09:48:45](https://lobste.rs/s/wt6xvx/wait_is_over_coreboot_on_amd_starbook) - [Wait is over - coreboot on the AMD StarBook](https://starlabs.systems/blogs/news/coreboot-on-the-amd-starbook-finally)
 * [2026-04-21, 09:37:13](https://lobste.rs/s/vrmjge/how_make_fast_dynamic_language) - [How To Make a Fast Dynamic Language Interpreter](https://zef-lang.dev/implementation)
 * [2026-04-20, 22:08:39](https://lobste.rs/s/etrtmp/jujutsu_megamerges_for_fun_profit) - [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit)
 
