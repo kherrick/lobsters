@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-23, 11:35:57",
+      "https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered"
+    ],
+    [
+      "Single-pass palette refinement and ordered dithering",
+      "https://30fps.net/pages/bayer-order-online-kmeans/"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 10:52:57",
+      "https://lobste.rs/s/u16jsm/overview_nvme_its_support_on_maestro"
+    ],
+    [
+      "An overview of NVMe and its support on Maestro",
+      "https://blog.lenot.re/a/nvme"
+    ]
+  ],
+  [
+    [
+      "2026-04-23, 10:46:49",
+      "https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many"
+    ],
+    [
+      "Who even uses jemalloc in 2026 anyway? (many major projects)",
+      "https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html"
+    ]
+  ],
+  [
+    [
       "2026-04-23, 08:42:44",
       "https://lobste.rs/s/yghhn6/i_am_building_cloud"
     ],
@@ -37,16 +67,6 @@
     [
       "How The Heck Does Shazam Work?",
       "https://perthirtysix.com/how-the-heck-does-shazam-work"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 03:55:37",
-      "https://lobste.rs/s/o9zkq0/reversing_synthid"
-    ],
-    [
-      "Reversing SynthID",
-      "https://hackerfactor.com/blog/index.php?/archives/1092-Reversing-SynthID.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-04-22, 15:00:19",
-      "https://lobste.rs/s/fnvugl/using_llms_find_python_c_extension_bugs"
-    ],
-    [
-      "Using LLMs to find Python C-extension bugs",
-      "https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/"
-    ]
-  ],
-  [
-    [
       "2026-04-22, 14:02:30",
       "https://lobste.rs/s/hkwyrc/edge_safe_rust"
     ],
@@ -217,16 +227,6 @@
     [
       "Is Claude Code going to cost $100/month? Probably not—it’s all very confusing",
       "https://simonwillison.net/2026/Apr/22/claude-code-confusion/"
-    ]
-  ],
-  [
-    [
-      "2026-04-21, 20:02:21",
-      "https://lobste.rs/s/p8idoc/i_don_t_want_your_prs_anymore"
-    ],
-    [
-      "I don't want your PRs anymore",
-      "https://dpc.pw/posts/i-dont-want-your-prs-anymore/"
     ]
   ],
   [
