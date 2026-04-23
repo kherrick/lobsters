@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 17:20:42](https://lobste.rs/s/9p8j3s/113_issues_found_within_rust_coreutils) - [113 issues found within rust-coreutils](https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773)
+* [2026-04-23, 16:23:43](https://lobste.rs/s/nlaxri/serving_for_you_feed) - [Serving the For You Feed](https://atproto.com/blog/serving-the-for-you-feed)
+* [2026-04-23, 16:23:35](https://lobste.rs/s/nepijn/everyone_wants_servers_nobody_wants) - [Everyone Wants Servers And Nobody Wants Servers](https://connectedplaces.online/reports/fr160-everyone-wants-servers-and-nobody-wants-servers/)
+* [2026-04-23, 16:13:36](https://lobste.rs/s/izqocw/meshcore_io_why_split) - [Meshcore.io - Why The Split?](https://blog.meshcore.io/2026/04/23/the-split)
+* [2026-04-23, 15:49:07](https://lobste.rs/s/aphwpq/how_grep_video) - [How to grep video](https://blog.cloudglue.dev/how-to-grep-video/)
+* [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 13:43:02](https://lobste.rs/s/nbxmlr/trustworthy_technology) - [Trustworthy Technology](https://trustworthy.technology/)
 * [2026-04-23, 12:16:39](https://lobste.rs/s/wkaiwv/kubernetes_v1_36_haru) - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/)
 * [2026-04-23, 11:57:45](https://lobste.rs/s/3l5gw0/email_could_have_been_x_400_times_better) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
