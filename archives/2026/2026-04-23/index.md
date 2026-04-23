@@ -7,6 +7,7 @@
 * [2026-04-23, 21:47:13](https://lobste.rs/s/wx9ozr/using_perfetto_zjit) - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/)
 * [2026-04-23, 20:58:32](https://lobste.rs/s/9csbvp/configuring_firefox) - [Configuring Firefox](https://sciops.net/information/technology/firefox)
 * [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
+* [2026-04-23, 20:19:21](https://lobste.rs/s/wyvcvr/running_bare_metal_rust_alongside_esp_idf) - [Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core](https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core)
 * [2026-04-23, 19:52:08](https://lobste.rs/s/c6j0fh/how_we_built_elasticsearch_simdvec_make) - [How we built Elasticsearch simdvec to make vector search one of the fastest in the world](https://www.elastic.co/search-labs/blog/elasticsearch-vector-search-simdvec-engine)
 * [2026-04-23, 19:26:51](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release) - [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/)
 * [2026-04-23, 18:59:50](https://lobste.rs/s/ney8qz/http_security_headers_for_python_web) - [HTTP security headers for Python web applications](https://github.com/TypeError/secure)
