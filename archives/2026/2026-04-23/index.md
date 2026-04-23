@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 11:35:57](https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered) - [Single-pass palette refinement and ordered dithering](https://30fps.net/pages/bayer-order-online-kmeans/)
+* [2026-04-23, 10:52:57](https://lobste.rs/s/u16jsm/overview_nvme_its_support_on_maestro) - [An overview of NVMe and its support on Maestro](https://blog.lenot.re/a/nvme)
+* [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
 * [2026-04-23, 08:42:44](https://lobste.rs/s/yghhn6/i_am_building_cloud) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 08:22:39](https://lobste.rs/s/l4eo1q/linux_desktop_x86_64_assembly) - [A Linux desktop in x86_64 Assembly](https://isene.org/2026/04/MyTools.html)
 * [2026-04-23, 07:16:54](https://lobste.rs/s/dotsw2/protovoters_free_accessible_voter_files) - [Protovoters: Free, accessible voter files for democracy](https://protovoters.org)
