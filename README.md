@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-23, 03:03:53](https://lobste.rs/s/qvfr0h/modern_rendering_culling_techniques) - [Modern rendering culling techniques](https://krupitskas.com/posts/modern_culling_techniques/)
+* [2026-04-23, 02:53:48](https://lobste.rs/s/5jkwmc/borrow_checking_without_type_checking) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
 * [2026-04-22, 20:56:45](https://lobste.rs/s/ivj2o8/nondescript_simple_embedded) - [nondescript: a simple embedded programming language](https://github.com/deadpixi/nondescript)
 * [2026-04-22, 20:54:39](https://lobste.rs/s/unbgyx/olive_css_lisp_powered_vanilla_css) - [Olive CSS: Lisp powered vanilla CSS utility-class a la Tailwind](https://codeberg.org/jjba23/olive-css)
 * [2026-04-22, 19:23:18](https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier) - [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
@@ -18,13 +20,11 @@
 * [2026-04-22, 06:33:53](https://lobste.rs/s/ipyknz/wsl9x_windows_9x_subsystem_for_linux) - [wsl9x: Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
 * [2026-04-22, 05:17:23](https://lobste.rs/s/nvwn1i/math_is_hard_openbsd_on_vax) - [Math is hard (OpenBSD on VAX)](http://miod.online.fr/software/openbsd/stories/vaxfp.html)
 * [2026-04-22, 02:57:34](https://lobste.rs/s/0qdgc0/is_claude_code_going_cost_100_month) - [Is Claude Code going to cost $100/month? Probably not—it’s all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/)
-* [2026-04-21, 20:18:32](https://lobste.rs/s/48omfn/announcing_typescript_7_0_beta) - [Announcing TypeScript 7.0 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/)
 * [2026-04-21, 20:02:21](https://lobste.rs/s/p8idoc/i_don_t_want_your_prs_anymore) - [I don't want your PRs anymore](https://dpc.pw/posts/i-dont-want-your-prs-anymore/)
 * [2026-04-21, 19:25:26](https://lobste.rs/s/uczgez/switching_from_uv_pdm) - [Switching from uv to PDM](https://stuartm.nz/2026/04/pdm-rocks/)
 * [2026-04-21, 19:24:03](https://lobste.rs/s/0rzs0d/framework_laptop_13_pro_intel_core_ultra_3) - [Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://frame.work/laptop13pro)
 * [2026-04-21, 19:11:02](https://lobste.rs/s/glpz3r/zero_days_are_numbered) - [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
 * [2026-04-21, 18:17:05](https://lobste.rs/s/ojh2aq/highlights_from_git_2_54) - [Highlights from Git 2.54](https://github.blog/open-source/git/highlights-from-git-2-54/)
-* [2026-04-21, 13:48:53](https://lobste.rs/s/ual4t5/grasp_simple_protocol_for_decentralized) - [grasp: a simple protocol for decentralized git](https://gitgrasp.com/)
 
 ## [Archives](archives/index.md)
 
