@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2026-04-22, 15:00:19",
+      "https://lobste.rs/s/fnvugl/using_llms_find_python_c_extension_bugs"
+    ],
+    [
+      "Using LLMs to find Python C-extension bugs",
+      "https://lwn.net/SubscriberLink/1067234/e5312bed2037a102/"
+    ]
+  ],
+  [
+    [
       "2026-04-22, 14:02:30",
       "https://lobste.rs/s/hkwyrc/edge_safe_rust"
     ],
@@ -167,16 +177,6 @@
     [
       "Markdown (2004)",
       "http://www.aaronsw.com/weblog/001189"
-    ]
-  ],
-  [
-    [
-      "2026-04-22, 12:31:29",
-      "https://lobste.rs/s/zjceyu/github_actions_for_gleam_monorepo"
-    ],
-    [
-      "GitHub Actions for a Gleam monorepo",
-      "https://crowdhailer.me/2026-04-21/github-actions-for-a-gleam-monorepo/"
     ]
   ],
   [
