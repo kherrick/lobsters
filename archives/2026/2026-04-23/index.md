@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 12:16:39](https://lobste.rs/s/wkaiwv/kubernetes_v1_36_haru) - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/)
 * [2026-04-23, 11:35:57](https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered) - [Single-pass palette refinement and ordered dithering](https://30fps.net/pages/bayer-order-online-kmeans/)
 * [2026-04-23, 10:52:57](https://lobste.rs/s/u16jsm/overview_nvme_its_support_on_maestro) - [An overview of NVMe and its support on Maestro](https://blog.lenot.re/a/nvme)
 * [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)

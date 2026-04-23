@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-23, 12:16:39](https://lobste.rs/s/wkaiwv/kubernetes_v1_36_haru) - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/)
 * [2026-04-23, 11:35:57](https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered) - [Single-pass palette refinement and ordered dithering](https://30fps.net/pages/bayer-order-online-kmeans/)
 * [2026-04-23, 10:52:57](https://lobste.rs/s/u16jsm/overview_nvme_its_support_on_maestro) - [An overview of NVMe and its support on Maestro](https://blog.lenot.re/a/nvme)
 * [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
@@ -16,7 +17,6 @@
 * [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
 * [2026-04-22, 18:26:48](https://lobste.rs/s/guiymx/forge) - [Forge](https://nesbitt.io/2026/03/13/forge.html)
 * [2026-04-22, 17:19:38](https://lobste.rs/s/4tuujf/lemmascript_verification_toolchain_for) - [LemmaScript: A Verification Toolchain for TypeScript via Dafny](https://midspiral.com/blog/lemmascript-a-verification-toolchain-for-typescript/)
-* [2026-04-22, 16:46:37](https://lobste.rs/s/gjegzz/it_s_all_just_trees_with_web_origami) - [It's All Just Trees With Web Origami](https://vale.rocks/posts/web-origami)
 * [2026-04-22, 14:02:30](https://lobste.rs/s/hkwyrc/edge_safe_rust) - [The Edge of Safe Rust](https://kyju.org/blog/tokioconf-2026/)
 * [2026-04-22, 12:51:17](https://lobste.rs/s/qetyqh/markdown_2004) - [Markdown (2004)](http://www.aaronsw.com/weblog/001189)
 * [2026-04-22, 12:17:43](https://lobste.rs/s/xs2xus/what_async_promised_what_it_delivered) - [What Async Promised and What it Delivered](https://causality.blog/essays/what-async-promised/)
