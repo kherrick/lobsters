@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-23, 12:16:39](https://lobste.rs/s/wkaiwv/kubernetes_v1_36_haru) - [Kubernetes v1.36: ハル (Haru)](https://kubernetes.io/blog/2026/04/22/kubernetes-v1-36-release/)
+* [2026-04-23, 13:43:02](https://lobste.rs/s/nbxmlr/trustworthy_technology) - [Trustworthy Technology](https://trustworthy.technology/)
+* [2026-04-23, 11:57:45](https://lobste.rs/s/3l5gw0/email_could_have_been_x_400_times_better) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
 * [2026-04-23, 11:35:57](https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered) - [Single-pass palette refinement and ordered dithering](https://30fps.net/pages/bayer-order-online-kmeans/)
 * [2026-04-23, 10:52:57](https://lobste.rs/s/u16jsm/overview_nvme_its_support_on_maestro) - [An overview of NVMe and its support on Maestro](https://blog.lenot.re/a/nvme)
 * [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
@@ -23,7 +24,6 @@
 * [2026-04-22, 11:34:24](https://lobste.rs/s/cs4kew/ai_as_fascist_artifact) - [AI as a Fascist Artifact](https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/)
 * [2026-04-22, 06:33:53](https://lobste.rs/s/ipyknz/wsl9x_windows_9x_subsystem_for_linux) - [wsl9x: Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
 * [2026-04-22, 02:57:34](https://lobste.rs/s/0qdgc0/is_claude_code_going_cost_100_month) - [Is Claude Code going to cost $100/month? Probably not—it’s all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/)
-* [2026-04-21, 19:24:03](https://lobste.rs/s/0rzs0d/framework_laptop_13_pro_intel_core_ultra_3) - [Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2](https://frame.work/laptop13pro)
 * [2026-04-21, 19:11:02](https://lobste.rs/s/glpz3r/zero_days_are_numbered) - [The zero-days are numbered](https://blog.mozilla.org/en/privacy-security/ai-security-zero-day-vulnerabilities/)
 
 ## [Archives](archives/index.md)
