@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
+* [2026-04-23, 19:52:08](https://lobste.rs/s/c6j0fh/how_we_built_elasticsearch_simdvec_make) - [How we built Elasticsearch simdvec to make vector search one of the fastest in the world](https://www.elastic.co/search-labs/blog/elasticsearch-vector-search-simdvec-engine)
 * [2026-04-23, 19:26:51](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release) - [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/)
 * [2026-04-23, 18:59:50](https://lobste.rs/s/ney8qz/http_security_headers_for_python_web) - [HTTP security headers for Python web applications](https://github.com/TypeError/secure)
 * [2026-04-23, 17:20:42](https://lobste.rs/s/9p8j3s/113_issues_found_within_rust_coreutils) - [113 issues found within rust-coreutils](https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773)
