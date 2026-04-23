@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 18:59:50](https://lobste.rs/s/ney8qz/http_security_headers_for_python_web) - [HTTP security headers for Python web applications](https://github.com/TypeError/secure)
 * [2026-04-23, 17:20:42](https://lobste.rs/s/9p8j3s/113_issues_found_within_rust_coreutils) - [113 issues found within rust-coreutils](https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773)
+* [2026-04-23, 16:32:47](https://lobste.rs/s/4wzsn8/ht_nrc_high_throughput_noise_resilient) - [HT-NRC: A high-throughput and noise-resilient lossless image compression architecture for deep-space CMOS cameras](https://www.mdpi.com/2076-3417/16/6/2873)
 * [2026-04-23, 16:23:43](https://lobste.rs/s/nlaxri/serving_for_you_feed) - [Serving the For You Feed](https://atproto.com/blog/serving-the-for-you-feed)
 * [2026-04-23, 16:23:35](https://lobste.rs/s/nepijn/everyone_wants_servers_nobody_wants) - [Everyone Wants Servers And Nobody Wants Servers](https://connectedplaces.online/reports/fr160-everyone-wants-servers-and-nobody-wants-servers/)
 * [2026-04-23, 16:13:36](https://lobste.rs/s/izqocw/meshcore_io_why_split) - [Meshcore.io - Why The Split?](https://blog.meshcore.io/2026/04/23/the-split)
