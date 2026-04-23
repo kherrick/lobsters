@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-23, 19:26:51](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release) - [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/)
 * [2026-04-23, 18:59:50](https://lobste.rs/s/ney8qz/http_security_headers_for_python_web) - [HTTP security headers for Python web applications](https://github.com/TypeError/secure)
 * [2026-04-23, 17:20:42](https://lobste.rs/s/9p8j3s/113_issues_found_within_rust_coreutils) - [113 issues found within rust-coreutils](https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773)
 * [2026-04-23, 16:32:47](https://lobste.rs/s/4wzsn8/ht_nrc_high_throughput_noise_resilient) - [HT-NRC: A high-throughput and noise-resilient lossless image compression architecture for deep-space CMOS cameras](https://www.mdpi.com/2076-3417/16/6/2873)
@@ -24,7 +25,6 @@
 * [2026-04-22, 14:02:30](https://lobste.rs/s/hkwyrc/edge_safe_rust) - [The Edge of Safe Rust](https://kyju.org/blog/tokioconf-2026/)
 * [2026-04-22, 12:51:17](https://lobste.rs/s/qetyqh/markdown_2004) - [Markdown (2004)](http://www.aaronsw.com/weblog/001189)
 * [2026-04-22, 06:33:53](https://lobste.rs/s/ipyknz/wsl9x_windows_9x_subsystem_for_linux) - [wsl9x: Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
-* [2026-04-22, 02:57:34](https://lobste.rs/s/0qdgc0/is_claude_code_going_cost_100_month) - [Is Claude Code going to cost $100/month? Probably not—it’s all very confusing](https://simonwillison.net/2026/Apr/22/claude-code-confusion/)
 
 ## [Archives](archives/index.md)
 
