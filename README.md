@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-24, 08:15:21](https://lobste.rs/s/oyj3nd/shibuya_haskell_data_pipelines) - [Shibuya – Haskell Data Pipelines](https://github.com/shinzui/shibuya)
+* [2026-04-24, 07:01:08](https://lobste.rs/s/esidgp/pure_borrow_linear_haskell_meets_rust) - [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
 * [2026-04-24, 02:13:47](https://lobste.rs/s/crspm5/vibin_with_erlang) - [Vibin' With Erlang](https://blog.whenhen.com/posts/vibin-with-erlang.html)
 * [2026-04-24, 01:59:16](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built) - [What are the best developer tools built around Markdown?](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built)
 * [2026-04-24, 01:50:57](https://lobste.rs/s/emcmxd/llm_rb_is_ruby_s_most_capable_ai_runtime) - [llm.rb is Ruby's most capable AI runtime](https://github.com/llmrb/llm.rb#readme)
@@ -22,8 +24,6 @@
 * [2026-04-23, 06:18:22](https://lobste.rs/s/chsbgc/gecko_fast_glr_parser_with_automatic) - [Gecko: a fast GLR parser with automatic syntax error recovery](https://vnmakarov.github.io/parsing/compilers/c/open-source/2026/04/22/gecko-glr.html)
 * [2026-04-23, 04:04:05](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work) - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
 * [2026-04-23, 02:53:48](https://lobste.rs/s/5jkwmc/borrow_checking_without_type_checking) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
-* [2026-04-22, 19:23:18](https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier) - [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
-* [2026-04-22, 19:04:20](https://lobste.rs/s/wps0js/arch_linux_now_has_bit_for_bit) - [Arch Linux now has a bit-for-bit reproducible Docker image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 * [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
 
 ## [Archives](archives/index.md)
