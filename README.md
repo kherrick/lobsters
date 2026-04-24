@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-24, 02:13:47](https://lobste.rs/s/crspm5/vibin_with_erlang) - [Vibin' With Erlang](https://blog.whenhen.com/posts/vibin-with-erlang.html)
+* [2026-04-24, 01:59:16](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built) - [What are the best developer tools built around Markdown?](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built)
+* [2026-04-24, 01:50:57](https://lobste.rs/s/emcmxd/llm_rb_is_ruby_s_most_capable_ai_runtime) - [llm.rb is Ruby's most capable AI runtime](https://github.com/llmrb/llm.rb#readme)
 * [2026-04-24, 00:12:47](https://lobste.rs/s/fbfu56/how_hard_is_it_open_file) - [How Hard Is It To Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
 * [2026-04-23, 23:27:12](https://lobste.rs/s/p76mlf/box_save_memory) - [Box to save memory](https://dystroy.org/blog/box-to-save-memory/)
 * [2026-04-23, 21:47:13](https://lobste.rs/s/wx9ozr/using_perfetto_zjit) - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/)
 * [2026-04-23, 20:58:32](https://lobste.rs/s/9csbvp/configuring_firefox) - [Configuring Firefox](https://sciops.net/information/technology/firefox)
 * [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
-* [2026-04-23, 20:19:21](https://lobste.rs/s/wyvcvr/running_bare_metal_rust_alongside_esp_idf) - [Running Bare-Metal Rust Alongside ESP-IDF on the ESP32-S3's Second Core](https://tingouw.com/blog/embedded/esp32/run_rust_on_app_core)
 * [2026-04-23, 19:26:51](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release) - [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/)
 * [2026-04-23, 17:20:42](https://lobste.rs/s/9p8j3s/security_issues_found_within_rust) - [Security issues found within rust-coreutils](https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773)
 * [2026-04-23, 16:23:43](https://lobste.rs/s/nlaxri/serving_for_you_feed) - [Serving the For You Feed](https://atproto.com/blog/serving-the-for-you-feed)
@@ -19,12 +21,10 @@
 * [2026-04-23, 08:22:39](https://lobste.rs/s/l4eo1q/linux_desktop_x86_64_assembly) - [A Linux desktop in x86_64 Assembly](https://isene.org/2026/04/MyTools.html)
 * [2026-04-23, 06:18:22](https://lobste.rs/s/chsbgc/gecko_fast_glr_parser_with_automatic) - [Gecko: a fast GLR parser with automatic syntax error recovery](https://vnmakarov.github.io/parsing/compilers/c/open-source/2026/04/22/gecko-glr.html)
 * [2026-04-23, 04:04:05](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work) - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
-* [2026-04-23, 03:03:53](https://lobste.rs/s/qvfr0h/modern_rendering_culling_techniques) - [Modern rendering culling techniques](https://krupitskas.com/posts/modern_culling_techniques/)
 * [2026-04-23, 02:53:48](https://lobste.rs/s/5jkwmc/borrow_checking_without_type_checking) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
 * [2026-04-22, 19:23:18](https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier) - [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 * [2026-04-22, 19:04:20](https://lobste.rs/s/wps0js/arch_linux_now_has_bit_for_bit) - [Arch Linux now has a bit-for-bit reproducible Docker image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 * [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
-* [2026-04-22, 18:26:48](https://lobste.rs/s/guiymx/forge) - [Forge](https://nesbitt.io/2026/03/13/forge.html)
 
 ## [Archives](archives/index.md)
 
