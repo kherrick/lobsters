@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-24, 21:17:47](https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide) - [Introducing mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
 * [2026-04-24, 18:10:03](https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0) - [Gleam gets source maps, 1.16.0](https://gleam.run/news/javascript-source-maps/)
 * [2026-04-24, 17:59:45](https://lobste.rs/s/ytzaui/cloudflare_email_service_is) - [Cloudflare Email Service is a deliverability bet dressed as an agents launch](https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html)
 * [2026-04-24, 17:55:48](https://lobste.rs/s/83ighu/nintendo_switch_switch_2019) - [The Nintendo Switch Switch (2019)](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)
@@ -24,7 +25,6 @@
 * [2026-04-23, 16:13:36](https://lobste.rs/s/izqocw/meshcore_io_why_split) - [Meshcore.io - Why The Split?](https://blog.meshcore.io/2026/04/23/the-split)
 * [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
-* [2026-04-23, 08:42:44](https://lobste.rs/s/yghhn6/i_am_building_cloud) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 
 ## [Archives](archives/index.md)
 

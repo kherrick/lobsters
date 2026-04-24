@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 21:17:47](https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide) - [Introducing mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
 * [2026-04-24, 18:10:03](https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0) - [Gleam gets source maps, 1.16.0](https://gleam.run/news/javascript-source-maps/)
 * [2026-04-24, 17:59:45](https://lobste.rs/s/ytzaui/cloudflare_email_service_is) - [Cloudflare Email Service is a deliverability bet dressed as an agents launch](https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html)
 * [2026-04-24, 17:57:44](https://lobste.rs/s/kwwpdt/pi_minimal_agent_for_real_devs_youtube) - [Pi: The Minimal Agent for REAL Devs - YouTube](https://www.youtube.com/watch?v=OMFIPv8a4qA)
