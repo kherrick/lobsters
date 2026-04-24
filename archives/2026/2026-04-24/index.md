@@ -14,6 +14,7 @@
 * [2026-04-24, 14:00:54](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment) - [Did we lose notifications for comment replies?](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment)
 * [2026-04-24, 12:43:58](https://lobste.rs/s/edbvsd/junkyard_computing_repurposing) - [Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon](https://arxiv.org/abs/2110.06870)
 * [2026-04-24, 10:45:42](https://lobste.rs/s/vksnyl/tribe_has_outlive_model) - [The Tribe Has to Outlive the Model](https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/04/23/the-tribe-has-to-outlive-the-model.html)
+* [2026-04-24, 10:30:50](https://lobste.rs/s/kd4xkt/spinel_ruby_aot_native_compiler) - [spinel - Ruby AOT native compiler](https://github.com/matz/spinel)
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:18:22](https://lobste.rs/s/j9rvye/i_found_old_telephone_made_it_control) - [i found an old telephone and made it control spotify](https://natya.is-a.dev/the-beetel/)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
