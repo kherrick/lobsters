@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 14:45:02](https://lobste.rs/s/i2wzkb/using_internet_like_its_1999) - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+* [2026-04-24, 14:00:54](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment) - [Did we lose notifications for comment replies?](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment)
+* [2026-04-24, 12:43:58](https://lobste.rs/s/edbvsd/junkyard_computing_repurposing) - [Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon](https://arxiv.org/abs/2110.06870)
 * [2026-04-24, 10:45:42](https://lobste.rs/s/vksnyl/tribe_has_outlive_model) - [The Tribe Has to Outlive the Model](https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/04/23/the-tribe-has-to-outlive-the-model.html)
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)

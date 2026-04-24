@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-24, 14:45:02](https://lobste.rs/s/i2wzkb/using_internet_like_its_1999) - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
+* [2026-04-24, 14:00:54](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment) - [Did we lose notifications for comment replies?](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment)
+* [2026-04-24, 12:43:58](https://lobste.rs/s/edbvsd/junkyard_computing_repurposing) - [Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon](https://arxiv.org/abs/2110.06870)
 * [2026-04-24, 10:45:42](https://lobste.rs/s/vksnyl/tribe_has_outlive_model) - [The Tribe Has to Outlive the Model](https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/04/23/the-tribe-has-to-outlive-the-model.html)
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
@@ -18,13 +21,10 @@
 * [2026-04-23, 16:13:36](https://lobste.rs/s/izqocw/meshcore_io_why_split) - [Meshcore.io - Why The Split?](https://blog.meshcore.io/2026/04/23/the-split)
 * [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 11:57:45](https://lobste.rs/s/3l5gw0/email_could_have_been_x_400_times_better) - [Email could have been X.400 times better](https://buttondown.com/blog/x400-vs-smtp-email)
-* [2026-04-23, 11:35:57](https://lobste.rs/s/tzws72/single_pass_palette_refinement_ordered) - [Single-pass palette refinement and ordered dithering](https://30fps.net/pages/bayer-order-online-kmeans/)
 * [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
 * [2026-04-23, 08:42:44](https://lobste.rs/s/yghhn6/i_am_building_cloud) - [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 * [2026-04-23, 08:22:39](https://lobste.rs/s/l4eo1q/linux_desktop_x86_64_assembly) - [A Linux desktop in x86_64 Assembly](https://isene.org/2026/04/MyTools.html)
 * [2026-04-23, 04:04:05](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work) - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
-* [2026-04-23, 02:53:48](https://lobste.rs/s/5jkwmc/borrow_checking_without_type_checking) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
-* [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
 
 ## [Archives](archives/index.md)
 
