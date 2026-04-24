@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-24, 21:17:47",
+      "https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide"
+    ],
+    [
+      "Introducing mine, a Coalton and Common Lisp IDE",
+      "https://coalton-lang.github.io/20260424-mine/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 18:10:03",
       "https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0"
     ],
@@ -237,16 +247,6 @@
     [
       "Who even uses jemalloc in 2026 anyway? (many major projects)",
       "https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 08:42:44",
-      "https://lobste.rs/s/yghhn6/i_am_building_cloud"
-    ],
-    [
-      "I am building a cloud",
-      "https://crawshaw.io/blog/building-a-cloud"
     ]
   ]
 ]
