@@ -8,6 +8,7 @@
 * [2026-04-24, 17:59:45](https://lobste.rs/s/ytzaui/cloudflare_email_service_is) - [Cloudflare Email Service is a deliverability bet dressed as an agents launch](https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html)
 * [2026-04-24, 17:57:44](https://lobste.rs/s/kwwpdt/pi_minimal_agent_for_real_devs_youtube) - [Pi: The Minimal Agent for REAL Devs - YouTube](https://www.youtube.com/watch?v=OMFIPv8a4qA)
 * [2026-04-24, 17:55:48](https://lobste.rs/s/83ighu/nintendo_switch_switch) - [The Nintendo Switch Switch](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)
+* [2026-04-24, 17:42:15](https://lobste.rs/s/kczxr0/qt_no_contextless_connect) - [Qt No Contextless Connect](https://blog.broulik.de/2026/04/qt-no-contextless-connect/)
 * [2026-04-24, 17:07:28](https://lobste.rs/s/gs8hy3/beyond_line_charts) - [Beyond Line Charts](https://youtu.be/vUu4s2vQne0?is=mm4NWy2VsNWWFBfu)
 * [2026-04-24, 17:03:04](https://lobste.rs/s/lawef3/multiple_things_can_be_true_at_same_time) - [Multiple things can be true at the same time](https://frederikbraun.de/feels-and-llms.html)
 * [2026-04-24, 14:45:02](https://lobste.rs/s/i2wzkb/using_internet_like_its_1999) - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
