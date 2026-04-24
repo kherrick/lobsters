@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-24, 17:07:28](https://lobste.rs/s/gs8hy3/beyond_line_charts) - [Beyond Line Charts](https://youtu.be/vUu4s2vQne0?is=mm4NWy2VsNWWFBfu)
+* [2026-04-24, 17:57:44](https://lobste.rs/s/kwwpdt/pi_minimal_agent_for_real_devs_youtube) - [Pi: The Minimal Agent for REAL Devs - YouTube](https://www.youtube.com/watch?v=OMFIPv8a4qA)
+* [2026-04-24, 17:03:04](https://lobste.rs/s/lawef3/multiple_things_can_be_true_at_same_time) - [Multiple things can be true at the same time](https://frederikbraun.de/feels-and-llms.html)
 * [2026-04-24, 14:45:02](https://lobste.rs/s/i2wzkb/using_internet_like_its_1999) - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 * [2026-04-24, 14:00:54](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment) - [Did we lose notifications for comment replies?](https://lobste.rs/s/g3dptp/did_we_lose_notifications_for_comment)
 * [2026-04-24, 12:43:58](https://lobste.rs/s/edbvsd/junkyard_computing_repurposing) - [Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon](https://arxiv.org/abs/2110.06870)
-* [2026-04-24, 10:45:42](https://lobste.rs/s/vksnyl/tribe_has_outlive_model) - [The Tribe Has to Outlive the Model](https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/04/23/the-tribe-has-to-outlive-the-model.html)
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:18:22](https://lobste.rs/s/j9rvye/i_found_old_telephone_made_it_control) - [i found an old telephone and made it control spotify](https://natya.is-a.dev/the-beetel/)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
