@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-24, 10:02:19",
+      "https://lobste.rs/s/qtytfe/sloppy_copies"
+    ],
+    [
+      "Sloppy Copies",
+      "https://www.markround.com/blog/2026/04/19/sloppy-copies/"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 09:03:26",
+      "https://lobste.rs/s/qswdiq/composition_shouldn_t_be_this_hard"
+    ],
+    [
+      "Composition Shouldn't be this Hard",
+      "https://cambra.dev/blog/announcement/"
+    ]
+  ],
+  [
+    [
       "2026-04-24, 08:15:21",
       "https://lobste.rs/s/oyj3nd/shibuya_haskell_data_pipelines"
     ],
@@ -67,16 +87,6 @@
     [
       "Box to save memory",
       "https://dystroy.org/blog/box-to-save-memory/"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 21:47:13",
-      "https://lobste.rs/s/wx9ozr/using_perfetto_zjit"
-    ],
-    [
-      "Using Perfetto in ZJIT",
-      "https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "A Linux desktop in x86_64 Assembly",
       "https://isene.org/2026/04/MyTools.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-23, 06:18:22",
-      "https://lobste.rs/s/chsbgc/gecko_fast_glr_parser_with_automatic"
-    ],
-    [
-      "Gecko: a fast GLR parser with automatic syntax error recovery",
-      "https://vnmakarov.github.io/parsing/compilers/c/open-source/2026/04/22/gecko-glr.html"
     ]
   ],
   [
