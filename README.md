@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-24, 00:12:47](https://lobste.rs/s/fbfu56/how_hard_is_it_open_file) - [How Hard Is It To Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
+* [2026-04-23, 23:27:12](https://lobste.rs/s/p76mlf/box_save_memory) - [Box to save memory](https://dystroy.org/blog/box-to-save-memory/)
 * [2026-04-23, 21:47:13](https://lobste.rs/s/wx9ozr/using_perfetto_zjit) - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/)
 * [2026-04-23, 20:58:32](https://lobste.rs/s/9csbvp/configuring_firefox) - [Configuring Firefox](https://sciops.net/information/technology/firefox)
 * [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
@@ -19,12 +21,10 @@
 * [2026-04-23, 04:04:05](https://lobste.rs/s/t04nvc/how_heck_does_shazam_work) - [How The Heck Does Shazam Work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
 * [2026-04-23, 03:03:53](https://lobste.rs/s/qvfr0h/modern_rendering_culling_techniques) - [Modern rendering culling techniques](https://krupitskas.com/posts/modern_culling_techniques/)
 * [2026-04-23, 02:53:48](https://lobste.rs/s/5jkwmc/borrow_checking_without_type_checking) - [Borrow-checking without type-checking](https://www.scattered-thoughts.net/writing/borrow-checking-without-type-checking/)
-* [2026-04-22, 20:56:45](https://lobste.rs/s/ivj2o8/nondescript_simple_embedded) - [nondescript: a simple embedded programming language](https://github.com/deadpixi/nondescript)
 * [2026-04-22, 19:23:18](https://lobste.rs/s/fbwdco/we_found_stable_firefox_identifier) - [We Found a Stable Firefox Identifier Linking All Your Private Tor Identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 * [2026-04-22, 19:04:20](https://lobste.rs/s/wps0js/arch_linux_now_has_bit_for_bit) - [Arch Linux now has a bit-for-bit reproducible Docker image](https://antiz.fr/blog/archlinux-now-has-a-reproducible-docker-image/)
 * [2026-04-22, 18:39:32](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages) - [What are your favorite Emacs packages?](https://lobste.rs/s/sz3gab/what_are_your_favorite_emacs_packages)
 * [2026-04-22, 18:26:48](https://lobste.rs/s/guiymx/forge) - [Forge](https://nesbitt.io/2026/03/13/forge.html)
-* [2026-04-22, 06:33:53](https://lobste.rs/s/ipyknz/wsl9x_windows_9x_subsystem_for_linux) - [wsl9x: Windows 9x subsystem for Linux](https://codeberg.org/hails/wsl9x)
 
 ## [Archives](archives/index.md)
 

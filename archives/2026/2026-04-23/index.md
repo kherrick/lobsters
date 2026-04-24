@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-23](index.md)
 
+* [2026-04-23, 23:27:12](https://lobste.rs/s/p76mlf/box_save_memory) - [Box to save memory](https://dystroy.org/blog/box-to-save-memory/)
 * [2026-04-23, 21:47:13](https://lobste.rs/s/wx9ozr/using_perfetto_zjit) - [Using Perfetto in ZJIT](https://railsatscale.com/2026-03-27-using-perfetto-in-zjit/)
 * [2026-04-23, 20:58:32](https://lobste.rs/s/9csbvp/configuring_firefox) - [Configuring Firefox](https://sciops.net/information/technology/firefox)
 * [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
