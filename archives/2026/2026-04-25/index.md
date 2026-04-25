@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
+* [2026-04-25, 18:06:43](https://lobste.rs/s/3v9wvu/new_10_gbe_usb_adapters_are_cooler_smaller) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
 * [2026-04-25, 16:22:30](https://lobste.rs/s/9exagw/martin_galway_s_music_assembly_player) - [Martin Galway's music assembly player from Commodore 64 games](https://github.com/MartinGalway/C64_music)
 * [2026-04-25, 15:13:01](https://lobste.rs/s/vkngyl/removing_auicgp_instruction) - [Removing the AUICGP instruction](https://cheriot.org/isa/toolchain/2026/03/23/removing-auicgp.html)
