@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
 * [2026-04-25, 16:22:30](https://lobste.rs/s/9exagw/martin_galway_s_music_assembly_player) - [Martin Galway's music assembly player from Commodore 64 games](https://github.com/MartinGalway/C64_music)
 * [2026-04-25, 15:13:01](https://lobste.rs/s/vkngyl/removing_auicgp_instruction) - [Removing the AUICGP instruction](https://cheriot.org/isa/toolchain/2026/03/23/removing-auicgp.html)
 * [2026-04-25, 14:45:09](https://lobste.rs/s/o45fm1/you_don_t_want_long_lived_keys) - [You don't want long-lived keys](https://argemma.com/blog/long-lived-keys/)
