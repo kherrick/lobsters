@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 14:15:56](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend)
+* [2026-04-25, 13:46:27](https://lobste.rs/s/u0pix1/build_yourself_flowers) - [Build yourself flowers](https://vickiboykis.com/2026/04/20/build-yourself-flowers/)
 * [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
 * [2026-04-25, 12:50:27](https://lobste.rs/s/wkpzft/metal_lossy_compression_format) - [Metal Lossy Compression Format](https://www.ludicon.com/castano/blog/2026/04/metal-lossy-compression-format/)
 * [2026-04-25, 12:17:49](https://lobste.rs/s/qqahyp/comparing_compression_tools) - [Comparing compression tools](https://www.arp242.net/cmp-compress.html)
