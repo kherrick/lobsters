@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-25, 19:48:15](https://lobste.rs/s/uiqamk/hyper_derp_c_io_uring_derp_relay_same) - [Hyper-DERP: C++/io_uring DERP relay - Same throughput as Tailscale's derper, half the cores](https://hyper-derp.dev/blog/hyper-derp-announcement/)
-* [2026-04-25, 19:40:00](https://lobste.rs/s/spm1cr/revocation_x_509_certificates) - [Revocation of X.509 certificates](https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
 * [2026-04-25, 18:06:43](https://lobste.rs/s/3v9wvu/new_10_gbe_usb_adapters_are_cooler_smaller) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
 * [2026-04-25, 16:22:30](https://lobste.rs/s/9exagw/martin_galway_s_music_assembly_player) - [Martin Galway's music assembly player from Commodore 64 games](https://github.com/MartinGalway/C64_music)
+* [2026-04-25, 15:13:01](https://lobste.rs/s/vkngyl/removing_auicgp_instruction) - [Removing the AUICGP instruction](https://cheriot.org/isa/toolchain/2026/03/23/removing-auicgp.html)
 * [2026-04-25, 14:45:09](https://lobste.rs/s/o45fm1/you_don_t_want_long_lived_keys) - [You don't want long-lived keys](https://argemma.com/blog/long-lived-keys/)
 * [2026-04-25, 14:15:56](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend)
 * [2026-04-25, 13:46:27](https://lobste.rs/s/u0pix1/build_yourself_flowers) - [Build yourself flowers](https://vickiboykis.com/2026/04/20/build-yourself-flowers/)
