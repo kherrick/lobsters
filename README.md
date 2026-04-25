@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-25, 14:45:09](https://lobste.rs/s/o45fm1/you_don_t_want_long_lived_keys) - [You don't want long-lived keys](https://argemma.com/blog/long-lived-keys/)
 * [2026-04-25, 14:15:56](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/syfxqg/what_are_you_doing_this_weekend)
 * [2026-04-25, 13:46:27](https://lobste.rs/s/u0pix1/build_yourself_flowers) - [Build yourself flowers](https://vickiboykis.com/2026/04/20/build-yourself-flowers/)
 * [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
@@ -20,7 +21,6 @@
 * [2026-04-24, 17:59:45](https://lobste.rs/s/ytzaui/cloudflare_email_service_is) - [Cloudflare Email Service is a deliverability bet dressed as an agents launch](https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html)
 * [2026-04-24, 17:55:48](https://lobste.rs/s/83ighu/nintendo_switch_switch_2019) - [The Nintendo Switch Switch (2019)](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)
 * [2026-04-24, 17:03:04](https://lobste.rs/s/lawef3/multiple_things_can_be_true_at_same_time) - [Multiple things can be true at the same time](https://frederikbraun.de/feels-and-llms.html)
-* [2026-04-24, 14:45:02](https://lobste.rs/s/i2wzkb/using_internet_like_its_1999) - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:18:22](https://lobste.rs/s/j9rvye/i_found_old_telephone_made_it_control) - [i found an old telephone and made it control spotify](https://natya.is-a.dev/the-beetel/)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
