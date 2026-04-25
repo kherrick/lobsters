@@ -1,13 +1,15 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-25, 09:17:19](https://lobste.rs/s/rd9x6c/gmail_bringing_easy_end_end_encryption) - [Gmail: Bringing easy end-to-end encryption to all businesses](https://workspace.google.com/blog/identity-and-security/gmail-easy-end-to-end-encryption-all-businesses)
 * [2026-04-25, 07:54:38](https://lobste.rs/s/qniwyu/online_chat_rooms_inside_markdown_editor) - [Online chat rooms inside a markdown editor app](https://kraa.io/kraa/trees)
 * [2026-04-25, 07:16:35](https://lobste.rs/s/mt4nkh/browser_based_offline_first_recreation) - [A browser-based offline-first recreation of the classic MS-DOS Editor](https://pascar.run)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
 * [2026-04-25, 01:57:18](https://lobste.rs/s/s795p7/annotated_source_code_for_elite) - [Annotated source code for the Elite Demonstration Disc](https://elite.bbcelite.com/demo/)
 * [2026-04-25, 00:55:41](https://lobste.rs/s/ivdh3a/automatic_brightness_plasma) - [Automatic brightness in Plasma](https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html)
+* [2026-04-25, 00:35:31](https://lobste.rs/s/gdlaj1/aging_programmer_2024) - [The Aging Programmer (2024)](https://www.youtube.com/watch?v=hs8EGgoJpdQ&list=PLsAtvvJ8KXBT-Tx67H5P3TgkiW6llnoBE&index=3)
 * [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-24, 21:17:47](https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide) - [Introducing mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
-* [2026-04-24, 20:36:26](https://lobste.rs/s/7va7at/turning_git_commits_into_changelog_with) - [Turning Git commits into changelog with Git-Cliff - YouTube](https://www.youtube.com/watch?v=RWh8qbiLRts)
+* [2026-04-24, 20:36:26](https://lobste.rs/s/7va7at/turning_git_commits_into_changelog_with) - [Turning Git commits into changelog with Git-Cliff](https://www.youtube.com/watch?v=RWh8qbiLRts)
 * [2026-04-24, 18:10:03](https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0) - [Gleam gets source maps, 1.16.0](https://gleam.run/news/javascript-source-maps/)
 * [2026-04-24, 17:59:45](https://lobste.rs/s/ytzaui/cloudflare_email_service_is) - [Cloudflare Email Service is a deliverability bet dressed as an agents launch](https://lord.technology/2026/04/20/cloudflare-email-service-is-a-deliverability-bet-dressed-as-an-agents-launch.html)
 * [2026-04-24, 17:55:48](https://lobste.rs/s/83ighu/nintendo_switch_switch_2019) - [The Nintendo Switch Switch (2019)](https://blog.cynthia.re/post/nintendo-switch-ethernet-switch)
@@ -21,10 +23,8 @@
 * [2026-04-24, 07:01:08](https://lobste.rs/s/esidgp/pure_borrow_linear_haskell_meets_rust) - [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
 * [2026-04-24, 01:59:16](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built) - [What are the best developer tools built around Markdown?](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built)
 * [2026-04-24, 00:12:47](https://lobste.rs/s/fbfu56/how_hard_is_it_open_file) - [How Hard Is It To Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
-* [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
 * [2026-04-23, 19:26:51](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release) - [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/)
 * [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
-* [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
 
 ## [Archives](archives/index.md)
 
