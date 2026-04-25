@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-25, 07:54:38](https://lobste.rs/s/qniwyu/online_chat_rooms_inside_markdown_editor) - [Online chat rooms inside a markdown editor app](https://kraa.io/kraa/trees)
+* [2026-04-25, 07:16:35](https://lobste.rs/s/mt4nkh/browser_based_offline_first_recreation) - [A browser-based offline-first recreation of the classic MS-DOS Editor](https://pascar.run)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
-* [2026-04-25, 01:57:18](https://lobste.rs/s/s795p7/annotated_source_code_for_elite) - [Annotated source code for the Elite Demonstration Disc](https://elite.bbcelite.com/demo/)
 * [2026-04-25, 00:55:41](https://lobste.rs/s/ivdh3a/automatic_brightness_plasma) - [Automatic brightness in Plasma](https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html)
 * [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-24, 21:17:47](https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide) - [Introducing mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
@@ -13,7 +14,6 @@
 * [2026-04-24, 17:03:04](https://lobste.rs/s/lawef3/multiple_things_can_be_true_at_same_time) - [Multiple things can be true at the same time](https://frederikbraun.de/feels-and-llms.html)
 * [2026-04-24, 14:45:02](https://lobste.rs/s/i2wzkb/using_internet_like_its_1999) - [Using the internet like its 1999](https://joshblais.com/blog/using-the-internet-like-its-1999/)
 * [2026-04-24, 12:43:58](https://lobste.rs/s/edbvsd/junkyard_computing_repurposing) - [Junkyard Computing: Repurposing Discarded Smartphones to Minimize Carbon](https://arxiv.org/abs/2110.06870)
-* [2026-04-24, 10:30:50](https://lobste.rs/s/kd4xkt/spinel_ruby_aot_native_compiler) - [spinel - Ruby AOT native compiler](https://github.com/matz/spinel)
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:18:22](https://lobste.rs/s/j9rvye/i_found_old_telephone_made_it_control) - [i found an old telephone and made it control spotify](https://natya.is-a.dev/the-beetel/)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
