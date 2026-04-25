@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-25, 10:36:28](https://lobste.rs/s/bvh1dq/why_i_m_done_making_desktop_applications) - [Why I’m Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
-* [2026-04-25, 10:08:53](https://lobste.rs/s/35b0rp/topics_high_performance_messaging) - [Topics in High-Performance Messaging](https://ultramessaging.github.io/thpm/thpm.html)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 09:17:19](https://lobste.rs/s/rd9x6c/gmail_bringing_easy_end_end_encryption) - [Gmail: Bringing easy end-to-end encryption to all businesses](https://workspace.google.com/blog/identity-and-security/gmail-easy-end-to-end-encryption-all-businesses)
 * [2026-04-25, 07:54:38](https://lobste.rs/s/qniwyu/online_chat_rooms_inside_markdown_editor) - [Online chat rooms inside a markdown editor app](https://kraa.io/kraa/trees)
@@ -22,6 +21,7 @@
 * [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 * [2026-04-24, 10:18:22](https://lobste.rs/s/j9rvye/i_found_old_telephone_made_it_control) - [i found an old telephone and made it control spotify](https://natya.is-a.dev/the-beetel/)
 * [2026-04-24, 10:02:19](https://lobste.rs/s/qtytfe/sloppy_copies) - [Sloppy Copies](https://www.markround.com/blog/2026/04/19/sloppy-copies/)
+* [2026-04-24, 07:01:08](https://lobste.rs/s/esidgp/pure_borrow_linear_haskell_meets_rust) - [Pure Borrow: Linear Haskell Meets Rust-Style Borrowing](https://discourse.haskell.org/t/pure-borrow-linear-haskell-meets-rust-style-borrowing/13975)
 * [2026-04-24, 01:59:16](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built) - [What are the best developer tools built around Markdown?](https://lobste.rs/s/g9jlyl/what_are_best_developer_tools_built)
 * [2026-04-24, 00:12:47](https://lobste.rs/s/fbfu56/how_hard_is_it_open_file) - [How Hard Is It To Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
 * [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
