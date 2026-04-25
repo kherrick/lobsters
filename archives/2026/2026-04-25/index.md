@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
+* [2026-04-25, 12:50:27](https://lobste.rs/s/wkpzft/metal_lossy_compression_format) - [Metal Lossy Compression Format](https://www.ludicon.com/castano/blog/2026/04/metal-lossy-compression-format/)
+* [2026-04-25, 12:17:49](https://lobste.rs/s/qqahyp/comparing_compression_tools) - [Comparing compression tools](https://www.arp242.net/cmp-compress.html)
+* [2026-04-25, 12:15:50](https://lobste.rs/s/yhzg6d/basic_type_system_terminology) - [Basic Type System Terminology](https://lewiscampbell.tech/blog/250817.html)
 * [2026-04-25, 10:36:28](https://lobste.rs/s/bvh1dq/why_i_m_done_making_desktop_applications) - [Why I’m Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 * [2026-04-25, 10:08:53](https://lobste.rs/s/35b0rp/topics_high_performance_messaging) - [Topics in High-Performance Messaging](https://ultramessaging.github.io/thpm/thpm.html)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
