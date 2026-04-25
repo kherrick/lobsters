@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-25, 19:48:15",
+      "https://lobste.rs/s/uiqamk/hyper_derp_c_io_uring_derp_relay_same"
+    ],
+    [
+      "Hyper-DERP: C++/io_uring DERP relay - Same throughput as Tailscale's derper, half the cores",
+      "https://hyper-derp.dev/blog/hyper-derp-announcement/"
+    ]
+  ],
+  [
+    [
+      "2026-04-25, 19:40:00",
+      "https://lobste.rs/s/spm1cr/revocation_x_509_certificates"
+    ],
+    [
+      "Revocation of X.509 certificates",
+      "https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 18:24:40",
       "https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai"
     ],
@@ -37,16 +57,6 @@
     [
       "Martin Galway's music assembly player from Commodore 64 games",
       "https://github.com/MartinGalway/C64_music"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 15:13:01",
-      "https://lobste.rs/s/vkngyl/removing_auicgp_instruction"
-    ],
-    [
-      "Removing the AUICGP instruction",
-      "https://cheriot.org/isa/toolchain/2026/03/23/removing-auicgp.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Hire based on the conversation about code, not the code itself",
       "https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 10:18:22",
-      "https://lobste.rs/s/j9rvye/i_found_old_telephone_made_it_control"
-    ],
-    [
-      "i found an old telephone and made it control spotify",
-      "https://natya.is-a.dev/the-beetel/"
     ]
   ],
   [
