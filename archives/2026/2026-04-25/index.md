@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 23:21:06](https://lobste.rs/s/dtkjsz/it_s_ok_use_coding_assistance_tools_revive) - [It's OK to use coding assistance tools to revive the projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 20:10:21](https://lobste.rs/s/bwg33l/my_homemade_pbx) - [My Homemade PBX](https://wandel.ca/homepage/pbx.html)
 * [2026-04-25, 19:48:15](https://lobste.rs/s/uiqamk/hyper_derp_c_io_uring_derp_relay_same) - [Hyper-DERP: C++/io_uring DERP relay - Same throughput as Tailscale's derper, half the cores](https://hyper-derp.dev/blog/hyper-derp-announcement/)
 * [2026-04-25, 19:40:00](https://lobste.rs/s/spm1cr/revocation_x_509_certificates) - [Revocation of X.509 certificates](https://blog.apnic.net/2026/04/24/revocation-of-x-509-certificates/)
