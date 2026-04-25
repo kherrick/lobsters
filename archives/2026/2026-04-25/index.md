@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-25](index.md)
 
+* [2026-04-25, 10:36:28](https://lobste.rs/s/bvh1dq/why_i_m_done_making_desktop_applications) - [Why I’m Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
+* [2026-04-25, 10:08:53](https://lobste.rs/s/35b0rp/topics_high_performance_messaging) - [Topics in High-Performance Messaging](https://ultramessaging.github.io/thpm/thpm.html)
+* [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 09:17:19](https://lobste.rs/s/rd9x6c/gmail_bringing_easy_end_end_encryption) - [Gmail: Bringing easy end-to-end encryption to all businesses](https://workspace.google.com/blog/identity-and-security/gmail-easy-end-to-end-encryption-all-businesses)
 * [2026-04-25, 07:54:38](https://lobste.rs/s/qniwyu/online_chat_rooms_inside_markdown_editor) - [Online chat rooms inside a markdown editor app](https://kraa.io/kraa/trees)
 * [2026-04-25, 07:16:35](https://lobste.rs/s/mt4nkh/browser_based_offline_first_recreation) - [A browser-based offline-first recreation of the classic MS-DOS Editor](https://pascar.run)
