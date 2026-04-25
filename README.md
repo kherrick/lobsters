@@ -3,6 +3,7 @@
 * [2026-04-25, 07:54:38](https://lobste.rs/s/qniwyu/online_chat_rooms_inside_markdown_editor) - [Online chat rooms inside a markdown editor app](https://kraa.io/kraa/trees)
 * [2026-04-25, 07:16:35](https://lobste.rs/s/mt4nkh/browser_based_offline_first_recreation) - [A browser-based offline-first recreation of the classic MS-DOS Editor](https://pascar.run)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
+* [2026-04-25, 01:57:18](https://lobste.rs/s/s795p7/annotated_source_code_for_elite) - [Annotated source code for the Elite Demonstration Disc](https://elite.bbcelite.com/demo/)
 * [2026-04-25, 00:55:41](https://lobste.rs/s/ivdh3a/automatic_brightness_plasma) - [Automatic brightness in Plasma](https://zamundaaa.github.io/wayland,display/2026/04/24/automatic-brightness.html)
 * [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-24, 21:17:47](https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide) - [Introducing mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
@@ -22,7 +23,6 @@
 * [2026-04-24, 00:12:47](https://lobste.rs/s/fbfu56/how_hard_is_it_open_file) - [How Hard Is It To Open a File?](https://blog.sebastianwick.net/posts/how-hard-is-it-to-open-a-file/)
 * [2026-04-23, 20:36:50](https://lobste.rs/s/eiwtub/raylib_v6_0) - [raylib v6.0](https://github.com/raysan5/raylib/releases/tag/6.0)
 * [2026-04-23, 19:26:51](https://lobste.rs/s/2mpjlh/ubuntu_26_04_lts_release) - [Ubuntu 26.04 LTS Release](https://documentation.ubuntu.com/release-notes/26.04/)
-* [2026-04-23, 17:20:42](https://lobste.rs/s/9p8j3s/security_issues_found_within_rust) - [Security issues found within rust-coreutils](https://discourse.ubuntu.com/t/an-update-on-rust-coreutils/80773)
 * [2026-04-23, 15:26:22](https://lobste.rs/s/x79usb/bitwarden_cli_compromised_ongoing) - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain](https://socket.dev/blog/bitwarden-cli-compromised)
 * [2026-04-23, 10:46:49](https://lobste.rs/s/vr4rsc/who_even_uses_jemalloc_2026_anyway_many) - [Who even uses jemalloc in 2026 anyway? (many major projects)](https://theconsensus.dev/p/2026/04/16/who-even-uses-jemalloc-anyway.html)
 
