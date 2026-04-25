@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-25, 16:22:30",
+      "https://lobste.rs/s/9exagw/martin_galway_s_music_assembly_player"
+    ],
+    [
+      "Martin Galway's music assembly player from Commodore 64 games",
+      "https://github.com/MartinGalway/C64_music"
+    ]
+  ],
+  [
+    [
       "2026-04-25, 15:13:01",
       "https://lobste.rs/s/vkngyl/removing_auicgp_instruction"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2026-04-25, 07:16:35",
-      "https://lobste.rs/s/mt4nkh/browser_based_offline_first_recreation"
-    ],
-    [
-      "A browser-based offline-first recreation of the classic MS-DOS Editor",
-      "https://pascar.run"
-    ]
-  ],
-  [
-    [
       "2026-04-25, 05:41:01",
       "https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore"
     ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2026-04-24, 20:36:26",
-      "https://lobste.rs/s/7va7at/turning_git_commits_into_changelog_with"
-    ],
-    [
-      "Turning Git commits into changelog with Git-Cliff",
-      "https://www.youtube.com/watch?v=RWh8qbiLRts"
-    ]
-  ],
-  [
-    [
       "2026-04-24, 18:10:03",
       "https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0"
     ],
@@ -207,6 +197,16 @@
     [
       "Multiple things can be true at the same time",
       "https://frederikbraun.de/feels-and-llms.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-24, 14:45:02",
+      "https://lobste.rs/s/i2wzkb/using_internet_like_its_1999"
+    ],
+    [
+      "Using the internet like its 1999",
+      "https://joshblais.com/blog/using-the-internet-like-its-1999/"
     ]
   ],
   [
