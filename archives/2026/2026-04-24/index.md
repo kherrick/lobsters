@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-24](index.md)
 
+* [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-24, 21:17:47](https://lobste.rs/s/hk4nsp/introducing_mine_coalton_common_lisp_ide) - [Introducing mine, a Coalton and Common Lisp IDE](https://coalton-lang.github.io/20260424-mine/)
 * [2026-04-24, 20:36:26](https://lobste.rs/s/7va7at/turning_git_commits_into_changelog_with) - [Turning Git commits into changelog with Git-Cliff - YouTube](https://www.youtube.com/watch?v=RWh8qbiLRts)
 * [2026-04-24, 18:10:03](https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0) - [Gleam gets source maps, 1.16.0](https://gleam.run/news/javascript-source-maps/)
