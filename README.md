@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 06:51:36](https://lobste.rs/s/plertt/i_have_officially_retired_from_emacs) - [I have officially retired from Emacs](https://nullprogram.com/blog/2026/04/26/)
 * [2026-04-26, 05:06:02](https://lobste.rs/s/g2jq2n/new_perspective_on_drawing_venn_diagrams) - [A New Perspective on Drawing Venn Diagrams for Data Visualization](https://arxiv.org/abs/2601.06980)
 * [2026-04-26, 00:08:22](https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management) - [A breakthrough in C/C++ dependency management](https://lcamtuf.substack.com/p/a-breakthrough-in-cc-dependency-management)
 * [2026-04-26, 00:02:26](https://lobste.rs/s/hllfeo/npm_slop_wonky_software_supply_chains) - [Npm Slop & Wonky Software Supply Chains](https://simonramstedt.com/blog/2026-04-09-npm-slop-and-wonky-software-supply-chains/)
@@ -19,7 +20,6 @@
 * [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
 * [2026-04-25, 12:50:27](https://lobste.rs/s/wkpzft/metal_lossy_compression_format) - [Metal Lossy Compression Format](https://www.ludicon.com/castano/blog/2026/04/metal-lossy-compression-format/)
 * [2026-04-25, 12:17:49](https://lobste.rs/s/qqahyp/comparing_compression_tools) - [Comparing compression tools](https://www.arp242.net/cmp-compress.html)
-* [2026-04-25, 10:36:28](https://lobste.rs/s/bvh1dq/why_i_m_done_making_desktop_applications) - [Why I’m Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 09:17:19](https://lobste.rs/s/rd9x6c/gmail_bringing_easy_end_end_encryption) - [Gmail: Bringing easy end-to-end encryption to all businesses](https://workspace.google.com/blog/identity-and-security/gmail-easy-end-to-end-encryption-all-businesses)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
