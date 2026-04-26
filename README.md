@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 17:33:57](https://lobste.rs/s/q3ffiu/on_interaction_nets_hardware) - [On Interaction Nets and Hardware](https://tendrils.co/background)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 15:54:22](https://lobste.rs/s/vwncrg/world_s_most_complex_machine) - [The world’s most complex machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
@@ -17,7 +18,6 @@
 * [2026-04-25, 23:37:44](https://lobste.rs/s/n8i2wl/it_s_ok_use_floating_point_for_money) - [It's OK To Use Floating Point for Money](https://suricrasia.online/blog/its-ok-to-use/)
 * [2026-04-25, 23:21:06](https://lobste.rs/s/dtkjsz/it_s_ok_use_coding_assistance_tools_revive) - [It's OK to use coding assistance tools to revive the projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 20:10:21](https://lobste.rs/s/bwg33l/my_homemade_pbx) - [My Homemade PBX](https://wandel.ca/homepage/pbx.html)
-* [2026-04-25, 19:48:15](https://lobste.rs/s/uiqamk/hyper_derp_c_io_uring_derp_relay_same) - [Hyper-DERP: C++/io_uring DERP relay - Same throughput as Tailscale's derper, half the cores](https://hyper-derp.dev/blog/hyper-derp-announcement/)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
 * [2026-04-25, 18:06:43](https://lobste.rs/s/3v9wvu/new_10_gbe_usb_adapters_are_cooler_smaller) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)

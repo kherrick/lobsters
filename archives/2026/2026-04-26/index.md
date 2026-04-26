@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 17:33:57](https://lobste.rs/s/q3ffiu/on_interaction_nets_hardware) - [On Interaction Nets and Hardware](https://tendrils.co/background)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 15:54:22](https://lobste.rs/s/vwncrg/world_s_most_complex_machine) - [The world’s most complex machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
 * [2026-04-26, 14:38:30](https://lobste.rs/s/p6gyqf/using_obsidian_with_ai) - [Using Obsidian with AI](https://www.ssp.sh/brain/using-obsidian-with-ai/)
