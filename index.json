@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-26, 05:06:02",
+      "https://lobste.rs/s/g2jq2n/new_perspective_on_drawing_venn_diagrams"
+    ],
+    [
+      "A New Perspective on Drawing Venn Diagrams for Data Visualization",
+      "https://arxiv.org/abs/2601.06980"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 00:08:22",
       "https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam gets source maps, 1.16.0",
       "https://gleam.run/news/javascript-source-maps/"
-    ]
-  ],
-  [
-    [
-      "2026-04-24, 10:23:05",
-      "https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not"
-    ],
-    [
-      "Hire based on the conversation about code, not the code itself",
-      "https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code"
     ]
   ]
 ]
