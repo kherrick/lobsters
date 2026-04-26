@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 15:54:22](https://lobste.rs/s/vwncrg/world_s_most_complex_machine) - [The world’s most complex machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
 * [2026-04-26, 14:38:30](https://lobste.rs/s/p6gyqf/using_obsidian_with_ai) - [Using Obsidian with AI](https://www.ssp.sh/brain/using-obsidian-with-ai/)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
 * [2026-04-26, 14:19:48](https://lobste.rs/s/3yydcj/west_forgot_how_build_now_it_s_forgetting) - [The West Forgot How to Build. Now It's Forgetting Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
