@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 23:28:05](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
 * [2026-04-26, 19:38:47](https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic) - [LLM-assisted coding is not deterministic. Does it matter?](https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/)
 * [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn't Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
@@ -19,7 +20,6 @@
 * [2026-04-26, 06:51:36](https://lobste.rs/s/plertt/i_have_officially_retired_from_emacs) - [I have officially retired from Emacs](https://nullprogram.com/blog/2026/04/26/)
 * [2026-04-26, 00:08:22](https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management) - [A breakthrough in C/C++ dependency management](https://lcamtuf.substack.com/p/a-breakthrough-in-cc-dependency-management)
 * [2026-04-25, 23:38:38](https://lobste.rs/s/jzuifo/lute_standalone_runtime_for_luau) - [Lute: a standalone runtime for Luau](https://lute.luau.org)
-* [2026-04-25, 23:37:44](https://lobste.rs/s/n8i2wl/it_s_ok_use_floating_point_for_money) - [It's OK To Use Floating Point for Money](https://suricrasia.online/blog/its-ok-to-use/)
 * [2026-04-25, 23:21:06](https://lobste.rs/s/dtkjsz/it_s_ok_use_coding_assistance_tools_revive) - [It's OK to use coding assistance tools to revive the projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
