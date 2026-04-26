@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 13:32:19](https://lobste.rs/s/tvolib/things_c_26_define_static_array_can_t_do) - [Things C++26 define_static_array can’t do](https://quuxplusone.github.io/blog/2026/04/24/define-static-array/)
+* [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:13:41](https://lobste.rs/s/gbzdnm/nightmare_javascript_optimization) - [Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html#funny-section)
 * [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 10:57:44](https://lobste.rs/s/rdcc8o/raiders_lost_hard_drive_reinstalling_qnx) - [Raiders of the lost hard drive: reinstalling QNX on a CBM 900](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)

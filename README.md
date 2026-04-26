@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 13:32:19](https://lobste.rs/s/tvolib/things_c_26_define_static_array_can_t_do) - [Things C++26 define_static_array can’t do](https://quuxplusone.github.io/blog/2026/04/24/define-static-array/)
+* [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:13:41](https://lobste.rs/s/gbzdnm/nightmare_javascript_optimization) - [Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html#funny-section)
 * [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
-* [2026-04-26, 10:57:44](https://lobste.rs/s/rdcc8o/raiders_lost_hard_drive_reinstalling_qnx) - [Raiders of the lost hard drive: reinstalling QNX on a CBM 900](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
 * [2026-04-26, 10:47:45](https://lobste.rs/s/diksad/event_sourcing_explained_using_football) - [Event Sourcing Explained using Football - YouTube](https://www.youtube.com/watch?v=xPmQxYIi5fA&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
 * [2026-04-26, 09:38:21](https://lobste.rs/s/lb065m/why_c_remains_gold_standard_for) - [Why C Remains the Gold Standard for Cryptographic Software](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/)
 * [2026-04-26, 08:49:42](https://lobste.rs/s/cpu221/i_left_port_22_open_on_internet_for_54_days) - [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
@@ -22,7 +23,6 @@
 * [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
 * [2026-04-25, 12:17:49](https://lobste.rs/s/qqahyp/comparing_compression_tools) - [Comparing compression tools](https://www.arp242.net/cmp-compress.html)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
-* [2026-04-25, 09:17:19](https://lobste.rs/s/rd9x6c/gmail_bringing_easy_end_end_encryption) - [Gmail: Bringing easy end-to-end encryption to all businesses](https://workspace.google.com/blog/identity-and-security/gmail-easy-end-to-end-encryption-all-businesses)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
 * [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 
