@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 12:13:41](https://lobste.rs/s/gbzdnm/nightmare_javascript_optimization) - [Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html#funny-section)
+* [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 10:57:44](https://lobste.rs/s/rdcc8o/raiders_lost_hard_drive_reinstalling_qnx) - [Raiders of the lost hard drive: reinstalling QNX on a CBM 900](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
 * [2026-04-26, 10:47:45](https://lobste.rs/s/diksad/event_sourcing_explained_using_football) - [Event Sourcing Explained using Football - YouTube](https://www.youtube.com/watch?v=xPmQxYIi5fA&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
 * [2026-04-26, 09:38:21](https://lobste.rs/s/lb065m/why_c_remains_gold_standard_for) - [Why C Remains the Gold Standard for Cryptographic Software](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/)
