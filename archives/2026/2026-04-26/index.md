@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
 * [2026-04-26, 19:38:47](https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic) - [LLM-assisted coding is not deterministic. Does it matter?](https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/)
+* [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn't Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 18:24:31](https://lobste.rs/s/vnnpwe/plfm_radar_open_source_low_cost_10_5_ghz) - [PLFM_RADAR: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system](https://github.com/NawfalMotii79/PLFM_RADAR)
 * [2026-04-26, 18:07:14](https://lobste.rs/s/to23a4/i_built_wireless_dactyl_manuform_2024) - [I Built A Wireless Dactyl Manuform (2024)](https://tuxtower.net/blog/dactylmanuform/#the-assembly)

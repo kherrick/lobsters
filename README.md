@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-26, 19:38:47](https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic) - [LLM-assisted coding is not deterministic. Does it matter?](https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/)
+* [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn't Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 18:24:31](https://lobste.rs/s/vnnpwe/plfm_radar_open_source_low_cost_10_5_ghz) - [PLFM_RADAR: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system](https://github.com/NawfalMotii79/PLFM_RADAR)
 * [2026-04-26, 18:07:14](https://lobste.rs/s/to23a4/i_built_wireless_dactyl_manuform_2024) - [I Built A Wireless Dactyl Manuform (2024)](https://tuxtower.net/blog/dactylmanuform/#the-assembly)
@@ -20,7 +21,6 @@
 * [2026-04-25, 23:38:38](https://lobste.rs/s/jzuifo/lute_standalone_runtime_for_luau) - [Lute: a standalone runtime for Luau](https://lute.luau.org)
 * [2026-04-25, 23:37:44](https://lobste.rs/s/n8i2wl/it_s_ok_use_floating_point_for_money) - [It's OK To Use Floating Point for Money](https://suricrasia.online/blog/its-ok-to-use/)
 * [2026-04-25, 23:21:06](https://lobste.rs/s/dtkjsz/it_s_ok_use_coding_assistance_tools_revive) - [It's OK to use coding assistance tools to revive the projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
-* [2026-04-25, 20:10:21](https://lobste.rs/s/bwg33l/my_homemade_pbx) - [My Homemade PBX](https://wandel.ca/homepage/pbx.html)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
