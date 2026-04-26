@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 15:54:22](https://lobste.rs/s/vwncrg/world_s_most_complex_machine) - [The world’s most complex machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
 * [2026-04-26, 14:19:48](https://lobste.rs/s/3yydcj/west_forgot_how_build_now_it_s_forgetting) - [The West Forgot How to Build. Now It's Forgetting Code](https://techtrenches.dev/p/the-west-forgot-how-to-make-things)
@@ -7,7 +8,6 @@
 * [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:13:41](https://lobste.rs/s/gbzdnm/nightmare_javascript_optimization) - [Nightmare of the Javascript Optimization](https://blog.reg.rip/exploiting-the-ladybird-browser.html#funny-section)
 * [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
-* [2026-04-26, 10:57:44](https://lobste.rs/s/rdcc8o/raiders_lost_hard_drive_reinstalling_qnx) - [Raiders of the lost hard drive: reinstalling QNX on a CBM 900](https://archive.fosdem.org/2025/schedule/event/fosdem-2025-5479-raiders-of-the-lost-hard-drive/)
 * [2026-04-26, 10:47:45](https://lobste.rs/s/diksad/event_sourcing_explained_using_football) - [Event Sourcing Explained using Football - YouTube](https://www.youtube.com/watch?v=xPmQxYIi5fA&list=PLCl5BUbK0jXt5l18S5UNAoUc4eQ2PJDye)
 * [2026-04-26, 09:38:21](https://lobste.rs/s/lb065m/why_c_remains_gold_standard_for) - [Why C Remains the Gold Standard for Cryptographic Software](https://www.wolfssl.com/why-c-remains-the-gold-standard-for-cryptographic-software/)
 * [2026-04-26, 08:49:42](https://lobste.rs/s/cpu221/i_left_port_22_open_on_internet_for_54_days) - [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
