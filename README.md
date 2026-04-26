@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 05:06:02](https://lobste.rs/s/g2jq2n/new_perspective_on_drawing_venn_diagrams) - [A New Perspective on Drawing Venn Diagrams for Data Visualization](https://arxiv.org/abs/2601.06980)
 * [2026-04-26, 00:08:22](https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management) - [A breakthrough in C/C++ dependency management](https://lcamtuf.substack.com/p/a-breakthrough-in-cc-dependency-management)
 * [2026-04-26, 00:02:26](https://lobste.rs/s/hllfeo/npm_slop_wonky_software_supply_chains) - [Npm Slop & Wonky Software Supply Chains](https://simonramstedt.com/blog/2026-04-09-npm-slop-and-wonky-software-supply-chains/)
 * [2026-04-25, 23:38:38](https://lobste.rs/s/jzuifo/lute_standalone_runtime_for_luau) - [Lute: a standalone runtime for Luau](https://lute.luau.org)
@@ -24,7 +25,6 @@
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
 * [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 * [2026-04-24, 18:10:03](https://lobste.rs/s/ckacgl/gleam_gets_source_maps_1_16_0) - [Gleam gets source maps, 1.16.0](https://gleam.run/news/javascript-source-maps/)
-* [2026-04-24, 10:23:05](https://lobste.rs/s/zroip2/hire_based_on_conversation_about_code_not) - [Hire based on the conversation about code, not the code itself](https://dbarabashh.com/thoughts-and-experience/hire-for-the-conversation-not-the-code)
 
 ## [Archives](archives/index.md)
 
