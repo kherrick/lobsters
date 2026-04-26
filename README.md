@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-26, 19:38:47](https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic) - [LLM-assisted coding is not deterministic. Does it matter?](https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 18:24:31](https://lobste.rs/s/vnnpwe/plfm_radar_open_source_low_cost_10_5_ghz) - [PLFM_RADAR: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system](https://github.com/NawfalMotii79/PLFM_RADAR)
 * [2026-04-26, 18:07:14](https://lobste.rs/s/to23a4/i_built_wireless_dactyl_manuform_2024) - [I Built A Wireless Dactyl Manuform (2024)](https://tuxtower.net/blog/dactylmanuform/#the-assembly)
@@ -22,7 +23,6 @@
 * [2026-04-25, 20:10:21](https://lobste.rs/s/bwg33l/my_homemade_pbx) - [My Homemade PBX](https://wandel.ca/homepage/pbx.html)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
-* [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
 
