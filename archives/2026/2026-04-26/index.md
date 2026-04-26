@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-26](index.md)
 
+* [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
+* [2026-04-26, 18:24:31](https://lobste.rs/s/vnnpwe/plfm_radar_open_source_low_cost_10_5_ghz) - [PLFM_RADAR: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system](https://github.com/NawfalMotii79/PLFM_RADAR)
+* [2026-04-26, 18:07:14](https://lobste.rs/s/to23a4/i_built_wireless_dactyl_manuform_2024) - [I Built A Wireless Dactyl Manuform (2024)](https://tuxtower.net/blog/dactylmanuform/#the-assembly)
 * [2026-04-26, 17:33:57](https://lobste.rs/s/q3ffiu/on_interaction_nets_hardware) - [On Interaction Nets and Hardware](https://tendrils.co/background)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 15:54:22](https://lobste.rs/s/vwncrg/world_s_most_complex_machine) - [The world’s most complex machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)

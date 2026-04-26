@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-26, 17:33:57](https://lobste.rs/s/q3ffiu/on_interaction_nets_hardware) - [On Interaction Nets and Hardware](https://tendrils.co/background)
+* [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
+* [2026-04-26, 18:24:31](https://lobste.rs/s/vnnpwe/plfm_radar_open_source_low_cost_10_5_ghz) - [PLFM_RADAR: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system](https://github.com/NawfalMotii79/PLFM_RADAR)
+* [2026-04-26, 18:07:14](https://lobste.rs/s/to23a4/i_built_wireless_dactyl_manuform_2024) - [I Built A Wireless Dactyl Manuform (2024)](https://tuxtower.net/blog/dactylmanuform/#the-assembly)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 15:54:22](https://lobste.rs/s/vwncrg/world_s_most_complex_machine) - [The world’s most complex machine](https://worksinprogress.co/issue/the-worlds-most-complex-machine/)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
@@ -19,12 +21,10 @@
 * [2026-04-25, 23:21:06](https://lobste.rs/s/dtkjsz/it_s_ok_use_coding_assistance_tools_revive) - [It's OK to use coding assistance tools to revive the projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 20:10:21](https://lobste.rs/s/bwg33l/my_homemade_pbx) - [My Homemade PBX](https://wandel.ca/homepage/pbx.html)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
-* [2026-04-25, 18:06:43](https://lobste.rs/s/3v9wvu/new_10_gbe_usb_adapters_are_cooler_smaller) - [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
 * [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
 * [2026-04-25, 13:07:04](https://lobste.rs/s/2jvgsq/your_cpu_has_more_registers_than_you_d) - [Your CPU Has More Registers Than You'd Think](https://fp32.org/register_renaming.html)
 * [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
-* [2026-04-24, 22:53:25](https://lobste.rs/s/gp02rx/people_do_not_yearn_for_automation) - [The people do not yearn for automation](https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation)
 
 ## [Archives](archives/index.md)
 
