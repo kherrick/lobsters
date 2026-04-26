@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-26, 17:33:57",
+      "https://lobste.rs/s/q3ffiu/on_interaction_nets_hardware"
+    ],
+    [
+      "On Interaction Nets and Hardware",
+      "https://tendrils.co/background"
+    ]
+  ],
+  [
+    [
       "2026-04-26, 16:45:45",
       "https://lobste.rs/s/v247np/dillo_release_3_3_0"
     ],
@@ -167,16 +177,6 @@
     [
       "My Homemade PBX",
       "https://wandel.ca/homepage/pbx.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-25, 19:48:15",
-      "https://lobste.rs/s/uiqamk/hyper_derp_c_io_uring_derp_relay_same"
-    ],
-    [
-      "Hyper-DERP: C++/io_uring DERP relay - Same throughput as Tailscale's derper, half the cores",
-      "https://hyper-derp.dev/blog/hyper-derp-announcement/"
     ]
   ],
   [
