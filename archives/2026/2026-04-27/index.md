@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 15:47:31](https://lobste.rs/s/kxnxyv/i_won_my_foia_against_twelve_south_open_up) - [I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W](https://archive.org/details/pb120-us)
+* [2026-04-27, 14:59:11](https://lobste.rs/s/yszhgw/compositing_blending) - [Compositing & Blending](https://nik.digital/posts/compositing-blending)
+* [2026-04-27, 14:38:12](https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor) - [HTML written only using the C preprocessor](https://chaos.social/@citizen428/116138240021584394)
 * [2026-04-27, 14:25:42](https://lobste.rs/s/nmnp96/voice_modems) - [voice modems](https://computer.rip/2026-04-26-voice-modems.html)
 * [2026-04-27, 14:16:15](https://lobste.rs/s/h0izqx/abject_v0_3_9) - [Abject v0.3.9](https://abject.world)
 * [2026-04-27, 14:01:00](https://lobste.rs/s/esrk11/email_is_crazy) - [Email is crazy](https://samkhawase.com/blog/email-is-crazy/)

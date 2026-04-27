@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-27, 15:47:31](https://lobste.rs/s/kxnxyv/i_won_my_foia_against_twelve_south_open_up) - [I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W](https://archive.org/details/pb120-us)
+* [2026-04-27, 14:59:11](https://lobste.rs/s/yszhgw/compositing_blending) - [Compositing & Blending](https://nik.digital/posts/compositing-blending)
+* [2026-04-27, 14:38:12](https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor) - [HTML written only using the C preprocessor](https://chaos.social/@citizen428/116138240021584394)
 * [2026-04-27, 14:25:42](https://lobste.rs/s/nmnp96/voice_modems) - [voice modems](https://computer.rip/2026-04-26-voice-modems.html)
 * [2026-04-27, 14:16:15](https://lobste.rs/s/h0izqx/abject_v0_3_9) - [Abject v0.3.9](https://abject.world)
 * [2026-04-27, 14:01:00](https://lobste.rs/s/esrk11/email_is_crazy) - [Email is crazy](https://samkhawase.com/blog/email-is-crazy/)
@@ -10,12 +13,10 @@
 * [2026-04-27, 09:08:32](https://lobste.rs/s/mytuvk/running_gauntlet_tiny_nodejs_test_runner) - [Running the Gauntlet: a tiny nodejs test runner](https://robey.lag.net/2026/04/26/running-gauntlet.html)
 * [2026-04-27, 08:55:46](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20) - [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/)
 * [2026-04-27, 08:52:04](https://lobste.rs/s/99jbw2/gold_standard_optimization_look_under) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
-* [2026-04-27, 08:27:19](https://lobste.rs/s/up9qm4/golden_testing_cad_library) - [Golden Testing a CAD Library](https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html)
 * [2026-04-27, 06:20:36](https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine) - [Wasm is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
 * [2026-04-27, 05:32:27](https://lobste.rs/s/9ckz9x/let_s_build_terminal_pt_1) - [Let's Build the Terminal Pt. 1](https://chauhankiran.blogspot.com/2026/04/lets-build-terminal-pt-1.html)
 * [2026-04-27, 02:50:01](https://lobste.rs/s/l4kgqg/cryptographic_registries_considered) - [(Cryptographic) Registries Considered Harmful (2020)](https://words.filippo.io/registries-considered-harmful/)
 * [2026-04-26, 23:28:05](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
-* [2026-04-26, 19:38:47](https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic) - [LLM-assisted coding is not deterministic. Does it matter?](https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/)
 * [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn't Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
@@ -24,7 +25,6 @@
 * [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 * [2026-04-26, 08:49:42](https://lobste.rs/s/cpu221/i_left_port_22_open_on_internet_for_54_days) - [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
-* [2026-04-26, 00:08:22](https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management) - [A breakthrough in C/C++ dependency management](https://lcamtuf.substack.com/p/a-breakthrough-in-cc-dependency-management)
 
 ## [Archives](archives/index.md)
 
