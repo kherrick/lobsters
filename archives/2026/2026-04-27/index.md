@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 10:51:27](https://lobste.rs/s/uf38bg/niri_v26_04) - [Niri v26.04](https://github.com/niri-wm/niri/releases/tag/v26.04)
+* [2026-04-27, 10:43:00](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week)
+* [2026-04-27, 10:32:05](https://lobste.rs/s/00eboi/httpxyz_one_month) - [httpxyz one month in](https://tildeweb.nl/~michiel/httpxyz-one-month-in.html)
+* [2026-04-27, 09:08:32](https://lobste.rs/s/mytuvk/running_gauntlet_tiny_nodejs_test_runner) - [Running the Gauntlet: a tiny nodejs test runner](https://robey.lag.net/2026/04/26/running-gauntlet.html)
 * [2026-04-27, 08:55:46](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20) - [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/)
 * [2026-04-27, 08:52:19](https://lobste.rs/s/mndexe/how_i_built_ariatype_without_writing_any) - [How I Built AriaType Without Writing Any Code](https://joe223.github.io/posts/how-i-built-ariatype-without-writing-any-code/)
 * [2026-04-27, 08:52:04](https://lobste.rs/s/99jbw2/gold_standard_optimization_look_under) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
