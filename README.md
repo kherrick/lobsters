@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-27, 22:02:17](https://lobste.rs/s/hphnx4/compu_global_hyper_mega_net_retro) - [Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)](https://www.youtube.com/watch?v=cSJsGNIDjtc)
+* [2026-04-27, 18:24:51](https://lobste.rs/s/b4lu09/mixing_numeric_attributes_into_text) - [Mixing numeric attributes into text search for better first-stage relevance](https://turbopuffer.com/blog/rank-by-attribute)
 * [2026-04-27, 17:11:35](https://lobste.rs/s/qnle9l/hacking_last_z80_computer_ever_cidco) - [Hacking the last Z80 computer ever, the Cidco Mailstation](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-04-27, 17:04:19](https://lobste.rs/s/wtgh6b/how_rust_compiles_2025) - [How Rust Compiles (2025)](https://www.youtube.com/watch?v=G1g6Me1FHmE)
 * [2026-04-27, 16:42:24](https://lobste.rs/s/d27llp/why_not_just_use_lean) - [\"Why not just use Lean?\"](https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html)
@@ -18,13 +20,11 @@
 * [2026-04-27, 05:32:27](https://lobste.rs/s/9ckz9x/let_s_build_terminal_pt_1) - [Let's Build the Terminal Pt. 1](https://chauhankiran.blogspot.com/2026/04/lets-build-terminal-pt-1.html)
 * [2026-04-27, 02:50:01](https://lobste.rs/s/l4kgqg/cryptographic_registries_considered) - [(Cryptographic) Registries Considered Harmful (2020)](https://words.filippo.io/registries-considered-harmful/)
 * [2026-04-26, 23:28:05](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
-* [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn't Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
 * [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
 * [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
-* [2026-04-26, 08:49:42](https://lobste.rs/s/cpu221/i_left_port_22_open_on_internet_for_54_days) - [I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up](https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up)
 
 ## [Archives](archives/index.md)
 
