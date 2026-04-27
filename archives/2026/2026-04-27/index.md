@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 14:25:42](https://lobste.rs/s/nmnp96/voice_modems) - [voice modems](https://computer.rip/2026-04-26-voice-modems.html)
+* [2026-04-27, 14:16:15](https://lobste.rs/s/h0izqx/abject_v0_3_9) - [Abject v0.3.9](https://abject.world)
+* [2026-04-27, 14:01:00](https://lobste.rs/s/esrk11/email_is_crazy) - [Email is crazy](https://samkhawase.com/blog/email-is-crazy/)
+* [2026-04-27, 12:50:05](https://lobste.rs/s/bwm12z/freebsd_device_driver_book) - [FreeBSD Device Driver Book](https://github.com/ebrandi/FDD-book)
 * [2026-04-27, 12:50:05](https://lobste.rs/s/bwm12z/fdd_book_freebsd_device_driver_book) - [FDD-book: FreeBSD Device Driver Book](https://github.com/ebrandi/FDD-book)
 * [2026-04-27, 10:51:27](https://lobste.rs/s/uf38bg/niri_v26_04) - [Niri v26.04](https://github.com/niri-wm/niri/releases/tag/v26.04)
 * [2026-04-27, 10:43:00](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week)
