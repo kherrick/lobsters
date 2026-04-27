@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 18:24:51](https://lobste.rs/s/b4lu09/mixing_numeric_attributes_into_text) - [Mixing numeric attributes into text search for better first-stage relevance](https://turbopuffer.com/blog/rank-by-attribute)
 * [2026-04-27, 17:11:35](https://lobste.rs/s/qnle9l/hacking_last_z80_computer_ever_cidco) - [Hacking the last Z80 computer ever, the Cidco Mailstation](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-04-27, 17:04:19](https://lobste.rs/s/wtgh6b/how_rust_compiles_2025) - [How Rust Compiles (2025)](https://www.youtube.com/watch?v=G1g6Me1FHmE)
 * [2026-04-27, 16:42:24](https://lobste.rs/s/d27llp/why_not_just_use_lean) - [\"Why not just use Lean?\"](https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html)
