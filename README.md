@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-27, 02:50:40](https://lobste.rs/s/bnvmia/let_s_all_agree_use_seeds_as_ml_kem_keys_2024) - [Let’s All Agree to Use Seeds as ML-KEM Keys (2024)](https://words.filippo.io/ml-kem-seeds/)
+* [2026-04-27, 02:50:01](https://lobste.rs/s/l4kgqg/cryptographic_registries_considered) - [(Cryptographic) Registries Considered Harmful (2020)](https://words.filippo.io/registries-considered-harmful/)
 * [2026-04-26, 23:28:05](https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle) - [HardenedBSD Is Now Officially on Radicle](https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle)
 * [2026-04-26, 19:38:47](https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic) - [LLM-assisted coding is not deterministic. Does it matter?](https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/)
 * [2026-04-26, 19:35:38](https://lobste.rs/s/b2tvhe/why_future_doesn_t_need_us_bill_joy_2000) - [Why the Future Doesn't Need Us (Bill Joy, 2000)](https://web.archive.org/web/20160210081017/https://www.wired.com/2000/04/joy-2/)
@@ -22,8 +24,6 @@
 * [2026-04-25, 23:38:38](https://lobste.rs/s/jzuifo/lute_standalone_runtime_for_luau) - [Lute: a standalone runtime for Luau](https://lute.luau.org)
 * [2026-04-25, 23:21:06](https://lobste.rs/s/dtkjsz/it_s_ok_use_coding_assistance_tools_revive) - [It's OK to use coding assistance tools to revive the projects you never were going to finish](https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/)
 * [2026-04-25, 18:24:40](https://lobste.rs/s/88pksu/linux_may_drop_old_network_drivers_now_ai) - [Linux May Drop Old Network Drivers Now That AI-Driven Bug Reports Are Causing A Burden](https://www.phoronix.com/news/Linux-Old-Network-AI)
-* [2026-04-25, 17:55:22](https://lobste.rs/s/8xd0x7/mac_app_gold_rush_age_vibe_coding) - [The Mac App Gold Rush in the Age of Vibe Coding](https://caio.ca/blog/ai-vibe-coded-mac-apps.html)
-* [2026-04-25, 10:05:46](https://lobste.rs/s/gikmcc/avoid_shipping_your_org_chart) - [Avoid Shipping Your Org Chart](https://chronicbuildfailure.co/how-to-avoid-shipping-your-org-chart-c086effe751c)
 * [2026-04-25, 05:41:01](https://lobste.rs/s/xgtyyu/do_i_belong_tech_anymore) - [Do I belong in tech anymore?](https://ky.fyi/posts/ai-burnout)
 
 ## [Archives](archives/index.md)
