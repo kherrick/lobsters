@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-27, 15:47:31",
+      "https://lobste.rs/s/kxnxyv/i_won_my_foia_against_twelve_south_open_up"
+    ],
+    [
+      "I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W",
+      "https://archive.org/details/pb120-us"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 14:59:11",
+      "https://lobste.rs/s/yszhgw/compositing_blending"
+    ],
+    [
+      "Compositing & Blending",
+      "https://nik.digital/posts/compositing-blending"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 14:38:12",
+      "https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor"
+    ],
+    [
+      "HTML written only using the C preprocessor",
+      "https://chaos.social/@citizen428/116138240021584394"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 14:25:42",
       "https://lobste.rs/s/nmnp96/voice_modems"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-04-27, 08:27:19",
-      "https://lobste.rs/s/up9qm4/golden_testing_cad_library"
-    ],
-    [
-      "Golden Testing a CAD Library",
-      "https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 06:20:36",
       "https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine"
     ],
@@ -147,16 +167,6 @@
     [
       "HardenedBSD Is Now Officially on Radicle",
       "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 19:38:47",
-      "https://lobste.rs/s/npaxtp/llm_assisted_coding_is_not_deterministic"
-    ],
-    [
-      "LLM-assisted coding is not deterministic. Does it matter?",
-      "https://blog.vrypan.net/2026/04/23/llm-assisted-coding-is-not-deterministic-does-it-matter/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up",
       "https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 00:08:22",
-      "https://lobste.rs/s/cn89rt/breakthrough_c_c_dependency_management"
-    ],
-    [
-      "A breakthrough in C/C++ dependency management",
-      "https://lcamtuf.substack.com/p/a-breakthrough-in-cc-dependency-management"
     ]
   ]
 ]
