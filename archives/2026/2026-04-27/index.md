@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-04-27](index.md)
 
+* [2026-04-27, 08:55:46](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20) - [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/)
+* [2026-04-27, 08:52:19](https://lobste.rs/s/mndexe/how_i_built_ariatype_without_writing_any) - [How I Built AriaType Without Writing Any Code](https://joe223.github.io/posts/how-i-built-ariatype-without-writing-any-code/)
+* [2026-04-27, 08:52:04](https://lobste.rs/s/99jbw2/gold_standard_optimization_look_under) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
+* [2026-04-27, 08:39:09](https://lobste.rs/s/hqxwko/everything_went_wrong_with_claude) - [Everything That Went Wrong With Claude](https://clawd.rip/)
+* [2026-04-27, 08:27:19](https://lobste.rs/s/up9qm4/golden_testing_cad_library) - [Golden Testing a CAD Library](https://doscienceto.it/blog/posts/2026-04-27-golden-testing-cad.html)
 * [2026-04-27, 06:20:36](https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine) - [Wasm is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
 * [2026-04-27, 06:12:04](https://lobste.rs/s/0qqjyi/it_s_not_about_api_fast_flexible_simple) - [It's Not About The API - Fast, Flexible, and Simple Rendering in Vulkan (2024)](https://www.youtube.com/watch?v=7bSzp-QildA)
 * [2026-04-27, 05:32:27](https://lobste.rs/s/9ckz9x/let_s_build_terminal_pt_1) - [Let's Build the Terminal Pt. 1](https://chauhankiran.blogspot.com/2026/04/lets-build-terminal-pt-1.html)
