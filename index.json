@@ -1,11 +1,41 @@
 [
   [
     [
-      "2026-04-27, 12:50:05",
-      "https://lobste.rs/s/bwm12z/fdd_book_freebsd_device_driver_book"
+      "2026-04-27, 14:25:42",
+      "https://lobste.rs/s/nmnp96/voice_modems"
     ],
     [
-      "FDD-book: FreeBSD Device Driver Book",
+      "voice modems",
+      "https://computer.rip/2026-04-26-voice-modems.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 14:16:15",
+      "https://lobste.rs/s/h0izqx/abject_v0_3_9"
+    ],
+    [
+      "Abject v0.3.9",
+      "https://abject.world"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 14:01:00",
+      "https://lobste.rs/s/esrk11/email_is_crazy"
+    ],
+    [
+      "Email is crazy",
+      "https://samkhawase.com/blog/email-is-crazy/"
+    ]
+  ],
+  [
+    [
+      "2026-04-27, 12:50:05",
+      "https://lobste.rs/s/bwm12z/freebsd_device_driver_book"
+    ],
+    [
+      "FreeBSD Device Driver Book",
       "https://github.com/ebrandi/FDD-book"
     ]
   ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-04-26, 18:07:14",
-      "https://lobste.rs/s/to23a4/i_built_wireless_dactyl_manuform_2024"
-    ],
-    [
-      "I Built A Wireless Dactyl Manuform (2024)",
-      "https://tuxtower.net/blog/dactylmanuform/#the-assembly"
-    ]
-  ],
-  [
-    [
       "2026-04-26, 16:45:45",
       "https://lobste.rs/s/v247np/dillo_release_3_3_0"
     ],
     [
       "Dillo release 3.3.0",
       "https://dillo-browser.org/release/3.3.0/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 15:54:22",
-      "https://lobste.rs/s/vwncrg/world_s_most_complex_machine"
-    ],
-    [
-      "The world’s most complex machine",
-      "https://worksinprogress.co/issue/the-worlds-most-complex-machine/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I Left Port 22 Open on the Internet for 54 Days. Here's Who Showed Up",
       "https://arman-bd.hashnode.dev/i-left-port-22-open-on-the-internet-for-54-days-here-s-who-showed-up"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 06:51:36",
-      "https://lobste.rs/s/plertt/i_have_officially_retired_from_emacs"
-    ],
-    [
-      "I have officially retired from Emacs",
-      "https://nullprogram.com/blog/2026/04/26/"
     ]
   ],
   [
