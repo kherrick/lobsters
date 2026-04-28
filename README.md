@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-28, 20:01:50](https://lobste.rs/s/cmov68/ghostty_is_leaving_github) - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+* [2026-04-28, 19:19:50](https://lobste.rs/s/nrbfzz/using_1978_terminal_2026_dec_vt_100) - [Using a 1978 terminal in 2026 (DEC VT-100)](https://nikhiljha.com/posts/vt100/)
+* [2026-04-28, 18:57:56](https://lobste.rs/s/8fxgx7/github_rce_vulnerability_cve_2026_3854) - [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
 * [2026-04-28, 16:45:32](https://lobste.rs/s/uhsedd/7_reasons_i_switched_back_php_after_2_years) - [7 reasons I switched back to PHP after 2 years on Rails (2007)](https://sive.rs/rails2php)
 * [2026-04-28, 16:43:54](https://lobste.rs/s/jgsiqa/on_limits_self_improving_large_language) - [On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis](https://arxiv.org/html/2601.05280v2)
 * [2026-04-28, 15:58:51](https://lobste.rs/s/layfq8/rust_india_conference_2026_full_talk) - [Rust India Conference 2026 - Full Talk Recordings](http://www.youtube.com/playlist?list=PLbcv9d2YUhnbCxJmjB_4RbjUBgq6exSGs)
 * [2026-04-28, 15:40:05](https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states) - [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/)
 * [2026-04-28, 14:30:43](https://lobste.rs/s/a7aoor/best_query_plans_mice_men) - [The Best (Query) Plans of Mice and Men](https://ohadravid.github.io/posts/2026-04-query-plans/)
 * [2026-04-28, 14:18:35](https://lobste.rs/s/ywatcf/babylon_square_root_2_2011) - [Babylon and the Square Root of 2 (2011)](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
-* [2026-04-28, 13:52:46](https://lobste.rs/s/e8jkxr/unison_new_distributed_programming) - [Unison: a new distributed programming language](https://www.youtube.com/watch?v=gCWtkvDQ2ZI)
-* [2026-04-28, 13:22:06](https://lobste.rs/s/xaodm9/tasty_cache_nix_style_test_caching_for) - [tasty-cache: Nix-style test caching for Haskell](https://github.com/silky/tasty-cache)
 * [2026-04-28, 12:34:00](https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy) - [Bypassing DPI with eBPF, no VPN or proxy needed](https://bora.sh/bypassing-dpi-with-ebpf/)
 * [2026-04-28, 12:25:54](https://lobste.rs/s/pv23xq/who_owns_code_claude_wrote) - [Who Owns the Code Claude Wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
 * [2026-04-28, 11:20:06](https://lobste.rs/s/tknct7/update_on_github_availability) - [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
@@ -24,7 +25,6 @@
 * [2026-04-27, 15:47:31](https://lobste.rs/s/kxnxyv/i_won_my_foia_against_twelve_south_open_up) - [I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W](https://archive.org/details/pb120-us)
 * [2026-04-27, 14:01:00](https://lobste.rs/s/esrk11/email_is_crazy) - [Email is crazy](https://samkhawase.com/blog/email-is-crazy/)
 * [2026-04-27, 10:51:27](https://lobste.rs/s/uf38bg/niri_v26_04) - [Niri v26.04](https://github.com/niri-wm/niri/releases/tag/v26.04)
-* [2026-04-27, 08:55:46](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20) - [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/)
 
 ## [Archives](archives/index.md)
 
