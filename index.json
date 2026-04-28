@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-28, 21:34:31",
+      "https://lobste.rs/s/cv2rg6/from_github_codeberg_forgejo"
+    ],
+    [
+      "From GitHub to Codeberg/Forgejo",
+      "https://www.jonashietala.se/blog/2026/04/28/from_github_to_codebergforgejo"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 21:13:07",
+      "https://lobste.rs/s/o8ycev/ditching_github"
+    ],
+    [
+      "Ditching GitHub",
+      "https://lonami.dev/blog/ditching-github/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 20:58:56",
+      "https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo"
+    ],
+    [
+      "Carrot disclosure: Forgejo",
+      "https://dustri.org/b/carrot-disclosure-forgejo.html"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 20:01:50",
       "https://lobste.rs/s/cmov68/ghostty_is_leaving_github"
     ],
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-04-28, 08:08:52",
-      "https://lobste.rs/s/ub60jl/high_performance_git"
-    ],
-    [
-      "High Performance Git",
-      "https://gitperf.com/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 06:51:45",
       "https://lobste.rs/s/5wj0a2/gtfobins"
     ],
@@ -197,26 +217,6 @@
     [
       "How I Broke the Anti-Bot Behind Nike, Kick, and Twitch",
       "https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 21:50:13",
-      "https://lobste.rs/s/jl0d5b/using_rust_build_1_handheld_gaming"
-    ],
-    [
-      "Using Rust to Build a $1 Handheld Gaming Console",
-      "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 16:42:24",
-      "https://lobste.rs/s/d27llp/why_not_just_use_lean"
-    ],
-    [
-      "\"Why not just use Lean?\"",
-      "https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html"
     ]
   ],
   [
