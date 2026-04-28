@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-28, 12:34:00",
+      "https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy"
+    ],
+    [
+      "Bypassing DPI with eBPF, no VPN or proxy needed",
+      "https://bora.sh/bypassing-dpi-with-ebpf/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:21:35",
+      "https://lobste.rs/s/omgaso/hal_by_any_other_name"
+    ],
+    [
+      "HAL by any other name",
+      "https://www.zarl.dev/posts/hal-by-any-other-name"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 11:20:06",
+      "https://lobste.rs/s/tknct7/update_on_github_availability"
+    ],
+    [
+      "An update on GitHub availability",
+      "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 10:50:00",
       "https://lobste.rs/s/ngogon/github_actions_is_weakest_link"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-04-27, 10:43:00",
-      "https://lobste.rs/s/kjk44q/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/kjk44q/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 10:32:05",
       "https://lobste.rs/s/00eboi/httpxyz_one_month"
     ],
@@ -217,26 +237,6 @@
     [
       "Wasm is not quite a stack machine",
       "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 23:28:05",
-      "https://lobste.rs/s/5dbg0u/hardenedbsd_is_now_officially_on_radicle"
-    ],
-    [
-      "HardenedBSD Is Now Officially on Radicle",
-      "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 18:31:47",
-      "https://lobste.rs/s/fyev5y/smolwebifying_my_site"
-    ],
-    [
-      "Smolwebifying my site",
-      "https://akselmo.dev/posts/smolwebifying-my-site/"
     ]
   ],
   [
