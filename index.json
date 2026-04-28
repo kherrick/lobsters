@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-04-28, 14:30:43",
+      "https://lobste.rs/s/a7aoor/best_query_plans_mice_men"
+    ],
+    [
+      "The Best (Query) Plans of Mice and Men",
+      "https://ohadravid.github.io/posts/2026-04-query-plans/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 14:18:35",
+      "https://lobste.rs/s/ywatcf/babylon_square_root_2_2011"
+    ],
+    [
+      "Babylon and the Square Root of 2 (2011)",
+      "https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 13:49:10",
+      "https://lobste.rs/s/5yzndr/bot_tax_who_s_measuring_cost_our_ai"
+    ],
+    [
+      "The Bot Tax: Who's measuring the cost of our AI-assisted loops?",
+      "https://blog.incrementalforgetting.tech/p/the-bot-tax"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 13:22:06",
+      "https://lobste.rs/s/xaodm9/tasty_cache_nix_style_test_caching_for"
+    ],
+    [
+      "tasty-cache: Nix-style test caching for Haskell",
+      "https://github.com/silky/tasty-cache"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 12:34:00",
       "https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy"
     ],
     [
       "Bypassing DPI with eBPF, no VPN or proxy needed",
       "https://bora.sh/bypassing-dpi-with-ebpf/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 12:25:54",
+      "https://lobste.rs/s/pv23xq/who_owns_code_claude_wrote"
+    ],
+    [
+      "Who Owns the Code Claude Wrote?",
+      "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"
     ]
   ],
   [
@@ -111,42 +161,12 @@
   ],
   [
     [
-      "2026-04-27, 22:04:21",
-      "https://lobste.rs/s/uy7ynl/fix_your_game_s_input_latency"
-    ],
-    [
-      "Fix Your Game's Input Latency",
-      "https://www.youtube.com/watch?v=EM9utsGhaYs"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 22:02:17",
-      "https://lobste.rs/s/hphnx4/compu_global_hyper_mega_net_retro"
-    ],
-    [
-      "Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)",
-      "https://www.youtube.com/watch?v=cSJsGNIDjtc"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 21:50:13",
       "https://lobste.rs/s/jl0d5b/using_rust_build_1_handheld_gaming"
     ],
     [
       "Using Rust to Build a $1 Handheld Gaming Console",
       "https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 21:31:17",
-      "https://lobste.rs/s/w2oiaq/what_s_new_pip_26_1_lockfiles_dependency"
-    ],
-    [
-      "What's new in pip 26.1 - lockfiles and dependency cooldowns",
-      "https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-04-27, 10:32:05",
-      "https://lobste.rs/s/00eboi/httpxyz_one_month"
-    ],
-    [
-      "httpxyz one month in",
-      "https://tildeweb.nl/~michiel/httpxyz-one-month-in.html"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 08:55:46",
       "https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20"
     ],
@@ -237,16 +247,6 @@
     [
       "Wasm is not quite a stack machine",
       "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/"
-    ]
-  ],
-  [
-    [
-      "2026-04-26, 14:22:59",
-      "https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating"
-    ],
-    [
-      "Lua can be a really cool HTML templating engine",
-      "https://riki.house/lua-html"
     ]
   ]
 ]
