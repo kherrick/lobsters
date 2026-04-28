@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 15:40:05](https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states) - [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/)
 * [2026-04-28, 14:30:43](https://lobste.rs/s/a7aoor/best_query_plans_mice_men) - [The Best (Query) Plans of Mice and Men](https://ohadravid.github.io/posts/2026-04-query-plans/)
 * [2026-04-28, 14:18:35](https://lobste.rs/s/ywatcf/babylon_square_root_2_2011) - [Babylon and the Square Root of 2 (2011)](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
 * [2026-04-28, 13:49:10](https://lobste.rs/s/5yzndr/bot_tax_who_s_measuring_cost_our_ai) - [The Bot Tax: Who's measuring the cost of our AI-assisted loops?](https://blog.incrementalforgetting.tech/p/the-bot-tax)

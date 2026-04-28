@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-28, 15:40:05](https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states) - [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/)
 * [2026-04-28, 14:30:43](https://lobste.rs/s/a7aoor/best_query_plans_mice_men) - [The Best (Query) Plans of Mice and Men](https://ohadravid.github.io/posts/2026-04-query-plans/)
 * [2026-04-28, 14:18:35](https://lobste.rs/s/ywatcf/babylon_square_root_2_2011) - [Babylon and the Square Root of 2 (2011)](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
 * [2026-04-28, 13:49:10](https://lobste.rs/s/5yzndr/bot_tax_who_s_measuring_cost_our_ai) - [The Bot Tax: Who's measuring the cost of our AI-assisted loops?](https://blog.incrementalforgetting.tech/p/the-bot-tax)
 * [2026-04-28, 13:22:06](https://lobste.rs/s/xaodm9/tasty_cache_nix_style_test_caching_for) - [tasty-cache: Nix-style test caching for Haskell](https://github.com/silky/tasty-cache)
 * [2026-04-28, 12:34:00](https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy) - [Bypassing DPI with eBPF, no VPN or proxy needed](https://bora.sh/bypassing-dpi-with-ebpf/)
 * [2026-04-28, 12:25:54](https://lobste.rs/s/pv23xq/who_owns_code_claude_wrote) - [Who Owns the Code Claude Wrote?](https://legallayer.substack.com/p/who-owns-the-claude-code-wrote)
-* [2026-04-28, 11:21:35](https://lobste.rs/s/omgaso/hal_by_any_other_name) - [HAL by any other name](https://www.zarl.dev/posts/hal-by-any-other-name)
 * [2026-04-28, 11:20:06](https://lobste.rs/s/tknct7/update_on_github_availability) - [An update on GitHub availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 * [2026-04-28, 10:50:00](https://lobste.rs/s/ngogon/github_actions_is_weakest_link) - [GitHub Actions is the weakest link](https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html)
 * [2026-04-28, 10:21:43](https://lobste.rs/s/tchcjd/fosdem_2026_all_fosdem_2026_videos_are) - [FOSDEM 2026 - All FOSDEM 2026 videos are online](https://fosdem.org/2026/news/2026-04-26-all-videos-published/)
