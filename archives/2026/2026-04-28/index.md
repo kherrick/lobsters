@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-28](index.md)
 
+* [2026-04-28, 21:34:31](https://lobste.rs/s/cv2rg6/from_github_codeberg_forgejo) - [From GitHub to Codeberg/Forgejo](https://www.jonashietala.se/blog/2026/04/28/from_github_to_codebergforgejo)
+* [2026-04-28, 21:13:07](https://lobste.rs/s/o8ycev/ditching_github) - [Ditching GitHub](https://lonami.dev/blog/ditching-github/)
+* [2026-04-28, 20:58:56](https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo) - [Carrot disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 * [2026-04-28, 20:01:50](https://lobste.rs/s/cmov68/ghostty_is_leaving_github) - [Ghostty Is Leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 * [2026-04-28, 19:19:50](https://lobste.rs/s/nrbfzz/using_1978_terminal_2026_dec_vt_100) - [Using a 1978 terminal in 2026 (DEC VT-100)](https://nikhiljha.com/posts/vt100/)
 * [2026-04-28, 18:57:56](https://lobste.rs/s/8fxgx7/github_rce_vulnerability_cve_2026_3854) - [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
