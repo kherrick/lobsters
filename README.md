@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-28, 05:23:54](https://lobste.rs/s/rmujw3/donating_open_source) - [Donating to open source](https://entropicthoughts.com/open-source-donation)
 * [2026-04-28, 01:52:15](https://lobste.rs/s/jpohft/how_i_broke_anti_bot_behind_nike_kick) - [How I Broke the Anti-Bot Behind Nike, Kick, and Twitch](https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/)
 * [2026-04-27, 22:04:21](https://lobste.rs/s/uy7ynl/fix_your_game_s_input_latency) - [Fix Your Game's Input Latency](https://www.youtube.com/watch?v=EM9utsGhaYs)
 * [2026-04-27, 22:02:17](https://lobste.rs/s/hphnx4/compu_global_hyper_mega_net_retro) - [Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)](https://www.youtube.com/watch?v=cSJsGNIDjtc)
@@ -16,7 +17,6 @@
 * [2026-04-27, 10:51:27](https://lobste.rs/s/uf38bg/niri_v26_04) - [Niri v26.04](https://github.com/niri-wm/niri/releases/tag/v26.04)
 * [2026-04-27, 10:43:00](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kjk44q/what_are_you_doing_this_week)
 * [2026-04-27, 10:32:05](https://lobste.rs/s/00eboi/httpxyz_one_month) - [httpxyz one month in](https://tildeweb.nl/~michiel/httpxyz-one-month-in.html)
-* [2026-04-27, 09:08:32](https://lobste.rs/s/mytuvk/running_gauntlet_tiny_nodejs_test_runner) - [Running the Gauntlet: a tiny nodejs test runner](https://robey.lag.net/2026/04/26/running-gauntlet.html)
 * [2026-04-27, 08:55:46](https://lobste.rs/s/trap9p/from_milliseconds_26_nanoseconds_how_20) - [From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup](https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/)
 * [2026-04-27, 08:52:04](https://lobste.rs/s/99jbw2/gold_standard_optimization_look_under) - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/)
 * [2026-04-27, 06:20:36](https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine) - [Wasm is not quite a stack machine](https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/)
