@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-27, 22:04:21](https://lobste.rs/s/uy7ynl/fix_your_game_s_input_latency) - [Fix Your Game's Input Latency](https://www.youtube.com/watch?v=EM9utsGhaYs)
 * [2026-04-27, 22:02:17](https://lobste.rs/s/hphnx4/compu_global_hyper_mega_net_retro) - [Compu-Global-Hyper-Mega-Net: A Retro Internet for Retro Computers (LFNW 2026)](https://www.youtube.com/watch?v=cSJsGNIDjtc)
 * [2026-04-27, 21:50:13](https://lobste.rs/s/jl0d5b/using_rust_build_1_handheld_gaming) - [Using Rust to Build a $1 Handheld Gaming Console](https://chrisdell.info/using-rust-to-build-a-1-dollar-handheld-gaming-console/)
+* [2026-04-27, 21:31:17](https://lobste.rs/s/w2oiaq/what_s_new_pip_26_1_lockfiles_dependency) - [What's new in pip 26.1 - lockfiles and dependency cooldowns](https://ichard26.github.io/blog/2026/04/whats-new-in-pip-26.1/)
 * [2026-04-27, 17:11:35](https://lobste.rs/s/qnle9l/hacking_last_z80_computer_ever_cidco) - [Hacking the last Z80 computer ever, the Cidco Mailstation](https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/)
 * [2026-04-27, 17:04:19](https://lobste.rs/s/wtgh6b/how_rust_compiles_2025) - [How Rust Compiles (2025)](https://www.youtube.com/watch?v=G1g6Me1FHmE)
 * [2026-04-27, 16:42:24](https://lobste.rs/s/d27llp/why_not_just_use_lean) - [\"Why not just use Lean?\"](https://lawrencecpaulson.github.io/2026/04/23/Why_not_Lean.html)
@@ -23,8 +25,6 @@
 * [2026-04-26, 18:31:47](https://lobste.rs/s/fyev5y/smolwebifying_my_site) - [Smolwebifying my site](https://akselmo.dev/posts/smolwebifying-my-site/)
 * [2026-04-26, 16:45:45](https://lobste.rs/s/v247np/dillo_release_3_3_0) - [Dillo release 3.3.0](https://dillo-browser.org/release/3.3.0/)
 * [2026-04-26, 14:22:59](https://lobste.rs/s/ukar7d/lua_can_be_really_cool_html_templating) - [Lua can be a really cool HTML templating engine](https://riki.house/lua-html)
-* [2026-04-26, 13:01:54](https://lobste.rs/s/viax22/fastest_linux_timestamps) - [The fastest Linux timestamps](https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/)
-* [2026-04-26, 12:10:21](https://lobste.rs/s/bzrow5/asahi_linux_progress_report_linux_7_0) - [Asahi Linux Progress Report: Linux 7.0](https://asahilinux.org/2026/04/progress-report-7-0/)
 
 ## [Archives](archives/index.md)
 
