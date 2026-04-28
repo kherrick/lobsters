@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-28, 01:52:15",
+      "https://lobste.rs/s/jpohft/how_i_broke_anti_bot_behind_nike_kick"
+    ],
+    [
+      "How I Broke the Anti-Bot Behind Nike, Kick, and Twitch",
+      "https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 22:04:21",
       "https://lobste.rs/s/uy7ynl/fix_your_game_s_input_latency"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
+      "2026-04-27, 20:13:04",
+      "https://lobste.rs/s/foxx1z/woes_sanitizing_svgs"
+    ],
+    [
+      "The woes of sanitizing SVGs",
+      "https://muffin.ink/blog/scratch-svg-sanitization/"
+    ]
+  ],
+  [
+    [
       "2026-04-27, 17:11:35",
       "https://lobste.rs/s/qnle9l/hacking_last_z80_computer_ever_cidco"
     ],
     [
       "Hacking the last Z80 computer ever, the Cidco Mailstation",
       "https://fosdem.org/2026/schedule/event/FEHLHY-hacking_the_last_z80_computer_ever_made/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 17:04:19",
-      "https://lobste.rs/s/wtgh6b/how_rust_compiles_2025"
-    ],
-    [
-      "How Rust Compiles (2025)",
-      "https://www.youtube.com/watch?v=G1g6Me1FHmE"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Let's Build the Terminal Pt. 1",
       "https://chauhankiran.blogspot.com/2026/04/lets-build-terminal-pt-1.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 02:50:01",
-      "https://lobste.rs/s/l4kgqg/cryptographic_registries_considered"
-    ],
-    [
-      "(Cryptographic) Registries Considered Harmful (2020)",
-      "https://words.filippo.io/registries-considered-harmful/"
     ]
   ],
   [
