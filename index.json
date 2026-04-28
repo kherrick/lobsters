@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-28, 16:45:32",
+      "https://lobste.rs/s/uhsedd/7_reasons_i_switched_back_php_after_2_years"
+    ],
+    [
+      "7 reasons I switched back to PHP after 2 years on Rails (2007)",
+      "https://sive.rs/rails2php"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 16:43:54",
+      "https://lobste.rs/s/jgsiqa/on_limits_self_improving_large_language"
+    ],
+    [
+      "On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis",
+      "https://arxiv.org/html/2601.05280v2"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 15:58:51",
+      "https://lobste.rs/s/layfq8/rust_india_conference_2026_full_talk"
+    ],
+    [
+      "Rust India Conference 2026 - Full Talk Recordings",
+      "http://www.youtube.com/playlist?list=PLbcv9d2YUhnbCxJmjB_4RbjUBgq6exSGs"
+    ]
+  ],
+  [
+    [
       "2026-04-28, 15:40:05",
       "https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states"
     ],
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2026-04-28, 13:49:10",
-      "https://lobste.rs/s/5yzndr/bot_tax_who_s_measuring_cost_our_ai"
+      "2026-04-28, 13:52:46",
+      "https://lobste.rs/s/e8jkxr/unison_new_distributed_programming"
     ],
     [
-      "The Bot Tax: Who's measuring the cost of our AI-assisted loops?",
-      "https://blog.incrementalforgetting.tech/p/the-bot-tax"
+      "Unison: a new distributed programming language",
+      "https://www.youtube.com/watch?v=gCWtkvDQ2ZI"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-04-27, 20:13:04",
-      "https://lobste.rs/s/foxx1z/woes_sanitizing_svgs"
-    ],
-    [
-      "The woes of sanitizing SVGs",
-      "https://muffin.ink/blog/scratch-svg-sanitization/"
-    ]
-  ],
-  [
-    [
       "2026-04-27, 16:42:24",
       "https://lobste.rs/s/d27llp/why_not_just_use_lean"
     ],
@@ -197,16 +217,6 @@
     [
       "I won my FOIA against Twelve South to open up the electrical information for the PlugBug 120W",
       "https://archive.org/details/pb120-us"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 14:38:12",
-      "https://lobste.rs/s/5wxd5b/html_written_only_using_c_preprocessor"
-    ],
-    [
-      "HTML written only using the C preprocessor",
-      "https://chaos.social/@citizen428/116138240021584394"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "From Milliseconds to 26 Nanoseconds: How a $20 eBay SFP Module Beat My Entire NTP Setup",
       "https://austinsnerdythings.com/2026/04/26/ptp-osa5401-26-nanoseconds-raspberry-pi/"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 06:20:36",
-      "https://lobste.rs/s/h8hlp7/wasm_is_not_quite_stack_machine"
-    ],
-    [
-      "Wasm is not quite a stack machine",
-      "https://purplesyringa.moe/blog/wasm-is-not-quite-a-stack-machine/"
     ]
   ]
 ]
