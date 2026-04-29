@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-29, 10:16:11",
+      "https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain"
+    ],
+    [
+      "RIPE NCC RPKI exploit chain",
+      "https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 10:06:32",
+      "https://lobste.rs/s/tz1ra7/github_banned_me_for_no_understandable"
+    ],
+    [
+      "Github banned me for no understandable reason",
+      "https://blog.hellbeast.eu.org/Github%20banned%20me%20for%20no%20understandable%20reason"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 08:43:45",
+      "https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead"
+    ],
+    [
+      "Why I Still Reach for Lisp (& Scheme) Instead of Haskell",
+      "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 08:07:16",
       "https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4"
     ],
@@ -37,16 +67,6 @@
     [
       "Code-golfing riki's HTML templating engine in Julia",
       "https://gist.github.com/OTDE/96584a4a83c73fb02e463eef83170cc3"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 00:04:13",
-      "https://lobste.rs/s/ontr2p/ai_agent_just_deleted_company_s_entire"
-    ],
-    [
-      "An AI agent just deleted a company’s entire database during routine task",
-      "https://www.independent.co.uk/tech/claude-ai-agent-deletes-startup-anthropic-b2966176.html"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Using a 1978 terminal in 2026 (DEC VT-100)",
       "https://nikhiljha.com/posts/vt100/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 18:57:56",
-      "https://lobste.rs/s/8fxgx7/github_rce_vulnerability_cve_2026_3854"
-    ],
-    [
-      "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown",
-      "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Donating to open source",
       "https://entropicthoughts.com/open-source-donation"
-    ]
-  ],
-  [
-    [
-      "2026-04-27, 14:01:00",
-      "https://lobste.rs/s/esrk11/email_is_crazy"
-    ],
-    [
-      "Email is crazy",
-      "https://samkhawase.com/blog/email-is-crazy/"
     ]
   ]
 ]
