@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 18:58:11](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
+* [2026-04-29, 17:58:14](https://lobste.rs/s/wsmc8s/copy_fail_732_bytes_root_on_every_major) - [Copy Fail: 732 Bytes to Root on Every Major Linux Distributions](https://xint.io/blog/copy-fail-linux-distributions)
+* [2026-04-29, 17:27:20](https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better) - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 17:03:12](https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox) - [Early Impressions of Chrome from a Firefox User](https://www.abefehr.com/posts/early-impressions-of-chrome)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 * [2026-04-29, 16:08:37](https://lobste.rs/s/szqcwk/how_many_frames_per_second_do_you_need) - [How Many Frames Per Second Do You Need?](https://hooby.blog/posts/how-many-frames-per-second-do-you-need/)
