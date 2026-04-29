@@ -2,6 +2,7 @@
 
 * [2026-04-29, 03:16:18](https://lobste.rs/s/ccbjxb/warp_is_now_open_source) - [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source)
 * [2026-04-29, 03:01:06](https://lobste.rs/s/lpozc6/apple_wants_kill_your_time_capsule_they) - [Apple wants to kill your Time Capsule, but they run NetBSD so they can’t](https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/)
+* [2026-04-29, 01:11:54](https://lobste.rs/s/a50exb/code_golfing_riki_s_html_templating) - [Code-golfing riki's HTML templating engine in Julia](https://gist.github.com/OTDE/96584a4a83c73fb02e463eef83170cc3)
 * [2026-04-28, 23:43:02](https://lobste.rs/s/bui1eh/before_github) - [Before GitHub](https://lucumr.pocoo.org/2026/4/28/before-github/)
 * [2026-04-28, 21:34:31](https://lobste.rs/s/cv2rg6/from_github_codeberg_forgejo) - [From GitHub to Codeberg/Forgejo](https://www.jonashietala.se/blog/2026/04/28/from_github_to_codebergforgejo)
 * [2026-04-28, 21:18:39](https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine) - [I Built My Own Hair Electrolysis Machine](https://www.scd31.com/posts/diy-hair-electrolysis-machine)
@@ -12,7 +13,6 @@
 * [2026-04-28, 18:57:56](https://lobste.rs/s/8fxgx7/github_rce_vulnerability_cve_2026_3854) - [GitHub RCE Vulnerability: CVE-2026-3854 Breakdown](https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854)
 * [2026-04-28, 16:45:32](https://lobste.rs/s/uhsedd/7_reasons_i_switched_back_php_after_2_years) - [7 reasons I switched back to PHP after 2 years on Rails (2007)](https://sive.rs/rails2php)
 * [2026-04-28, 16:43:54](https://lobste.rs/s/jgsiqa/on_limits_self_improving_large_language) - [On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis](https://arxiv.org/html/2601.05280v2)
-* [2026-04-28, 15:58:51](https://lobste.rs/s/layfq8/rust_india_conference_2026_full_talk) - [Rust India Conference 2026 - Full Talk Recordings](http://www.youtube.com/playlist?list=PLbcv9d2YUhnbCxJmjB_4RbjUBgq6exSGs)
 * [2026-04-28, 15:40:05](https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states) - [Illegal vs Unwanted States](https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/)
 * [2026-04-28, 14:30:43](https://lobste.rs/s/a7aoor/best_query_plans_mice_men) - [The Best (Query) Plans of Mice and Men](https://ohadravid.github.io/posts/2026-04-query-plans/)
 * [2026-04-28, 14:18:35](https://lobste.rs/s/ywatcf/babylon_square_root_2_2011) - [Babylon and the Square Root of 2 (2011)](https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/)
