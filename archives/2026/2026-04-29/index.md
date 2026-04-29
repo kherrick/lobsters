@@ -4,11 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 14:57:23](https://lobste.rs/s/gcljqi/final_form_software_development) - [The Final Form of Software Development](https://blog.zksecurity.xyz/posts/end-coding/)
+* [2026-04-29, 14:57:07](https://lobste.rs/s/pqqrxx/consequences_passing_too_few_register) - [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271)
+* [2026-04-29, 14:51:56](https://lobste.rs/s/dsomuk/end_responsive_images) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
+* [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 14:06:18](https://lobste.rs/s/1y5ydl/we_need_federation_forges) - [we need a federation of forges](https://blog.tangled.org/federation/)
 * [2026-04-29, 13:56:38](https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool) - [Declarative git repo sync/migration tool and self hosted code search engine](https://github.com/stepbrobd/miroir)
+* [2026-04-29, 13:47:02](https://lobste.rs/s/xtvxmg/localisation_engineering_platform) - [Localisation Engineering Platform - Lingo.dev](https://lingo.dev/en/blog/introducing-lingodotdev-v1)
+* [2026-04-29, 13:36:08](https://lobste.rs/s/ghmidi/secure_signatures_without_private_key) - [Secure signatures without a private key](https://katexochen.aro.bz/posts/reproducible-secure-signatures/)
 * [2026-04-29, 12:24:02](https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics) - [Blessed Syntax and Ergonomics](https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/)
 * [2026-04-29, 10:16:11](https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain) - [RIPE NCC RPKI exploit chain](https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/)
 * [2026-04-29, 10:06:32](https://lobste.rs/s/tz1ra7/github_banned_me_for_no_understandable) - [Github banned me for no understandable reason](https://blog.hellbeast.eu.org/Github%20banned%20me%20for%20no%20understandable%20reason)
+* [2026-04-29, 09:36:45](https://lobste.rs/s/mgne1y/timecapsulesmb_hacking_apple_time) - [TimeCapsuleSMB: Hacking the Apple Time Capsule to run modern Samba](https://github.com/jamesyc/TimeCapsuleSMB)
 * [2026-04-29, 09:10:49](https://lobste.rs/s/fxwarz/stable_specialization_rust) - [Stable specialization in Rust](https://goldstein.lol/posts/stable-specialization/)
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 * [2026-04-29, 08:07:16](https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4) - [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/)
