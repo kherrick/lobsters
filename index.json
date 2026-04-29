@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-04-29, 17:03:12",
-      "https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox"
+      "2026-04-29, 18:58:11",
+      "https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at"
     ],
     [
-      "Early Impressions of Chrome from a Firefox User",
-      "https://www.abefehr.com/posts/early-impressions-of-chrome"
+      "Functional Programmers need to take a look at Zig",
+      "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 17:58:14",
+      "https://lobste.rs/s/wsmc8s/copy_fail_732_bytes_root_on_every_major"
+    ],
+    [
+      "Copy Fail: 732 Bytes to Root on Every Major Linux Distributions",
+      "https://xint.io/blog/copy-fail-linux-distributions"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 17:27:20",
+      "https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better"
+    ],
+    [
+      "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+      "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
     ]
   ],
   [
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2026-04-29, 14:57:23",
+      "https://lobste.rs/s/gcljqi/final_form_software_development"
+    ],
+    [
+      "The Final Form of Software Development",
+      "https://blog.zksecurity.xyz/posts/end-coding/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 14:57:07",
       "https://lobste.rs/s/pqqrxx/consequences_passing_too_few_register"
     ],
@@ -67,26 +97,6 @@
     [
       "Zed is 1.0",
       "https://zed.dev/blog/zed-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 13:56:38",
-      "https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool"
-    ],
-    [
-      "Declarative git repo sync/migration tool and self hosted code search engine",
-      "https://github.com/stepbrobd/miroir"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 13:36:08",
-      "https://lobste.rs/s/ghmidi/secure_signatures_without_private_key"
-    ],
-    [
-      "Secure signatures without a private key",
-      "https://katexochen.aro.bz/posts/reproducible-secure-signatures/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "An update on GitHub availability",
       "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 10:50:00",
-      "https://lobste.rs/s/ngogon/github_actions_is_weakest_link"
-    ],
-    [
-      "GitHub Actions is the weakest link",
-      "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
     ]
   ],
   [
