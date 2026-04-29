@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-04-29, 09:10:49",
+      "https://lobste.rs/s/fxwarz/stable_specialization_rust"
+    ],
+    [
+      "Stable specialization in Rust",
+      "https://goldstein.lol/posts/stable-specialization/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 08:43:45",
       "https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead"
     ],
@@ -37,6 +47,16 @@
     [
       "The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS",
       "https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 04:17:13",
+      "https://lobste.rs/s/yn7tfr/bugs_rust_won_t_catch"
+    ],
+    [
+      "Bugs Rust Won't Catch",
+      "https://corrode.dev/blog/bugs-rust-wont-catch/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-04-28, 16:43:54",
-      "https://lobste.rs/s/jgsiqa/on_limits_self_improving_large_language"
-    ],
-    [
-      "On the Limits of Self-Improving in Large Language Models: The Singularity Is Not Near Without Symbolic Model Synthesis",
-      "https://arxiv.org/html/2601.05280v2"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 15:40:05",
       "https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states"
     ],
@@ -237,16 +247,6 @@
     [
       "jjj",
       "https://oppi.li/posts/jjj/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 05:23:54",
-      "https://lobste.rs/s/rmujw3/donating_open_source"
-    ],
-    [
-      "Donating to open source",
-      "https://entropicthoughts.com/open-source-donation"
     ]
   ]
 ]
