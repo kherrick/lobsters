@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-04-29, 14:57:23",
-      "https://lobste.rs/s/gcljqi/final_form_software_development"
+      "2026-04-29, 17:03:12",
+      "https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox"
     ],
     [
-      "The Final Form of Software Development",
-      "https://blog.zksecurity.xyz/posts/end-coding/"
+      "Early Impressions of Chrome from a Firefox User",
+      "https://www.abefehr.com/posts/early-impressions-of-chrome"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:12:55",
+      "https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban"
+    ],
+    [
+      "Contributor Poker and Zig's AI Ban",
+      "https://kristoff.it/blog/contributor-poker-and-ai/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:08:37",
+      "https://lobste.rs/s/szqcwk/how_many_frames_per_second_do_you_need"
+    ],
+    [
+      "How Many Frames Per Second Do You Need?",
+      "https://hooby.blog/posts/how-many-frames-per-second-do-you-need/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 15:16:21",
+      "https://lobste.rs/s/djfjlg/kde_s_30th_anniversary"
+    ],
+    [
+      "KDE’s 30th anniversary",
+      "https://kde.org/anniversaries/30/"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2026-04-29, 13:47:02",
-      "https://lobste.rs/s/xtvxmg/localisation_engineering_platform"
-    ],
-    [
-      "Localisation Engineering Platform - Lingo.dev",
-      "https://lingo.dev/en/blog/introducing-lingodotdev-v1"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 13:36:08",
       "https://lobste.rs/s/ghmidi/secure_signatures_without_private_key"
     ],
@@ -87,16 +107,6 @@
     [
       "RIPE NCC RPKI exploit chain",
       "https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 09:36:45",
-      "https://lobste.rs/s/mgne1y/timecapsulesmb_hacking_apple_time"
-    ],
-    [
-      "TimeCapsuleSMB: Hacking the Apple Time Capsule to run modern Samba",
-      "https://github.com/jamesyc/TimeCapsuleSMB"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Illegal vs Unwanted States",
       "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 12:34:00",
-      "https://lobste.rs/s/mhflmp/bypassing_dpi_with_ebpf_no_vpn_proxy"
-    ],
-    [
-      "Bypassing DPI with eBPF, no VPN or proxy needed",
-      "https://bora.sh/bypassing-dpi-with-ebpf/"
     ]
   ],
   [
