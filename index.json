@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-29, 21:08:48",
+      "https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root"
+    ],
+    [
+      "Copy Fail — 732 Bytes to Root",
+      "https://copy.fail/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 18:58:11",
       "https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at"
     ],
@@ -27,6 +37,16 @@
     [
       "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
       "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 17:03:12",
+      "https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox"
+    ],
+    [
+      "Early Impressions of Chrome from a Firefox User",
+      "https://www.abefehr.com/posts/early-impressions-of-chrome"
     ]
   ],
   [
@@ -61,26 +81,6 @@
   ],
   [
     [
-      "2026-04-29, 14:57:23",
-      "https://lobste.rs/s/gcljqi/final_form_software_development"
-    ],
-    [
-      "The Final Form of Software Development",
-      "https://blog.zksecurity.xyz/posts/end-coding/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 14:57:07",
-      "https://lobste.rs/s/pqqrxx/consequences_passing_too_few_register"
-    ],
-    [
-      "Consequences of passing too few register parameters to a C function",
-      "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 14:51:56",
       "https://lobste.rs/s/dsomuk/end_responsive_images"
     ],
@@ -97,6 +97,26 @@
     [
       "Zed is 1.0",
       "https://zed.dev/blog/zed-1-0"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:56:38",
+      "https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool"
+    ],
+    [
+      "Declarative git repo sync/migration tool and self hosted code search engine",
+      "https://github.com/stepbrobd/miroir"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:36:08",
+      "https://lobste.rs/s/ghmidi/secure_signatures_without_private_key"
+    ],
+    [
+      "Secure signatures without a private key",
+      "https://katexochen.aro.bz/posts/reproducible-secure-signatures/"
     ]
   ],
   [
@@ -217,26 +237,6 @@
     [
       "Using a 1978 terminal in 2026 (DEC VT-100)",
       "https://nikhiljha.com/posts/vt100/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 15:40:05",
-      "https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states"
-    ],
-    [
-      "Illegal vs Unwanted States",
-      "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 11:20:06",
-      "https://lobste.rs/s/tknct7/update_on_github_availability"
-    ],
-    [
-      "An update on GitHub availability",
-      "https://github.blog/news-insights/company-news/an-update-on-github-availability/"
     ]
   ],
   [
