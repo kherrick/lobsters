@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-04-29, 20:30:57",
+      "https://lobste.rs/s/p4nlr3/how_linux_7_0_broke_postgresql_preemption"
+    ],
+    [
+      "How Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained",
+      "https://read.thecoder.cafe/p/linux-broke-postgresql"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 18:58:11",
       "https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at"
     ],
@@ -97,16 +107,6 @@
     [
       "Zed is 1.0",
       "https://zed.dev/blog/zed-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 13:56:38",
-      "https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool"
-    ],
-    [
-      "Declarative git repo sync/migration tool and self hosted code search engine",
-      "https://github.com/stepbrobd/miroir"
     ]
   ],
   [
