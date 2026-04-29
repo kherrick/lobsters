@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-04-29, 14:06:18",
-      "https://lobste.rs/s/1y5ydl/we_need_federation_forges"
+      "2026-04-29, 14:57:23",
+      "https://lobste.rs/s/gcljqi/final_form_software_development"
     ],
     [
-      "we need a federation of forges",
-      "https://blog.tangled.org/federation/"
+      "The Final Form of Software Development",
+      "https://blog.zksecurity.xyz/posts/end-coding/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 14:57:07",
+      "https://lobste.rs/s/pqqrxx/consequences_passing_too_few_register"
+    ],
+    [
+      "Consequences of passing too few register parameters to a C function",
+      "https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 14:51:56",
+      "https://lobste.rs/s/dsomuk/end_responsive_images"
+    ],
+    [
+      "The end of responsive images",
+      "https://piccalil.li/blog/the-end-of-responsive-images/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 14:40:20",
+      "https://lobste.rs/s/ddrcj1/zed_is_1_0"
+    ],
+    [
+      "Zed is 1.0",
+      "https://zed.dev/blog/zed-1-0"
     ]
   ],
   [
@@ -17,6 +47,26 @@
     [
       "Declarative git repo sync/migration tool and self hosted code search engine",
       "https://github.com/stepbrobd/miroir"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:47:02",
+      "https://lobste.rs/s/xtvxmg/localisation_engineering_platform"
+    ],
+    [
+      "Localisation Engineering Platform - Lingo.dev",
+      "https://lingo.dev/en/blog/introducing-lingodotdev-v1"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:36:08",
+      "https://lobste.rs/s/ghmidi/secure_signatures_without_private_key"
+    ],
+    [
+      "Secure signatures without a private key",
+      "https://katexochen.aro.bz/posts/reproducible-secure-signatures/"
     ]
   ],
   [
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2026-04-29, 10:06:32",
-      "https://lobste.rs/s/tz1ra7/github_banned_me_for_no_understandable"
+      "2026-04-29, 09:36:45",
+      "https://lobste.rs/s/mgne1y/timecapsulesmb_hacking_apple_time"
     ],
     [
-      "Github banned me for no understandable reason",
-      "https://blog.hellbeast.eu.org/Github%20banned%20me%20for%20no%20understandable%20reason"
+      "TimeCapsuleSMB: Hacking the Apple Time Capsule to run modern Samba",
+      "https://github.com/jamesyc/TimeCapsuleSMB"
     ]
   ],
   [
@@ -121,26 +171,6 @@
   ],
   [
     [
-      "2026-04-28, 23:43:02",
-      "https://lobste.rs/s/bui1eh/before_github"
-    ],
-    [
-      "Before GitHub",
-      "https://lucumr.pocoo.org/2026/4/28/before-github/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 21:34:31",
-      "https://lobste.rs/s/cv2rg6/from_github_codeberg_forgejo"
-    ],
-    [
-      "From GitHub to Codeberg/Forgejo",
-      "https://www.jonashietala.se/blog/2026/04/28/from_github_to_codebergforgejo"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 21:18:39",
       "https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine"
     ],
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2026-04-28, 21:13:07",
-      "https://lobste.rs/s/o8ycev/ditching_github"
-    ],
-    [
-      "Ditching GitHub",
-      "https://lonami.dev/blog/ditching-github/"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 20:58:56",
       "https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo"
     ],
     [
       "Carrot disclosure: Forgejo",
       "https://dustri.org/b/carrot-disclosure-forgejo.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 20:01:50",
-      "https://lobste.rs/s/cmov68/ghostty_is_leaving_github"
-    ],
-    [
-      "Ghostty Is Leaving GitHub",
-      "https://mitchellh.com/writing/ghostty-leaving-github"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Bypassing DPI with eBPF, no VPN or proxy needed",
       "https://bora.sh/bypassing-dpi-with-ebpf/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 12:25:54",
-      "https://lobste.rs/s/pv23xq/who_owns_code_claude_wrote"
-    ],
-    [
-      "Who Owns the Code Claude Wrote?",
-      "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote"
     ]
   ],
   [
