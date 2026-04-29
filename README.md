@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-04-29, 21:08:48](https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root) - [Copy Fail — 732 Bytes to Root](https://copy.fail/)
+* [2026-04-29, 20:30:57](https://lobste.rs/s/p4nlr3/how_linux_7_0_broke_postgresql_preemption) - [How Linux 7.0 Broke PostgreSQL: The Preemption Regression Explained](https://read.thecoder.cafe/p/linux-broke-postgresql)
 * [2026-04-29, 18:58:11](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
 * [2026-04-29, 17:58:14](https://lobste.rs/s/wsmc8s/copy_fail_732_bytes_root_on_every_major) - [Copy Fail: 732 Bytes to Root on Every Major Linux Distributions](https://xint.io/blog/copy-fail-linux-distributions)
 * [2026-04-29, 17:27:20](https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better) - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
@@ -10,7 +11,6 @@
 * [2026-04-29, 15:16:21](https://lobste.rs/s/djfjlg/kde_s_30th_anniversary) - [KDE’s 30th anniversary](https://kde.org/anniversaries/30/)
 * [2026-04-29, 14:51:56](https://lobste.rs/s/dsomuk/end_responsive_images) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
-* [2026-04-29, 13:56:38](https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool) - [Declarative git repo sync/migration tool and self hosted code search engine](https://github.com/stepbrobd/miroir)
 * [2026-04-29, 13:36:08](https://lobste.rs/s/ghmidi/secure_signatures_without_private_key) - [Secure signatures without a private key](https://katexochen.aro.bz/posts/reproducible-secure-signatures/)
 * [2026-04-29, 12:24:02](https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics) - [Blessed Syntax and Ergonomics](https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/)
 * [2026-04-29, 10:16:11](https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain) - [RIPE NCC RPKI exploit chain](https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/)
