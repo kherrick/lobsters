@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-04-29, 14:06:18",
+      "https://lobste.rs/s/1y5ydl/we_need_federation_forges"
+    ],
+    [
+      "we need a federation of forges",
+      "https://blog.tangled.org/federation/"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:56:38",
+      "https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool"
+    ],
+    [
+      "Declarative git repo sync/migration tool and self hosted code search engine",
+      "https://github.com/stepbrobd/miroir"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 12:24:02",
+      "https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics"
+    ],
+    [
+      "Blessed Syntax and Ergonomics",
+      "https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/"
+    ]
+  ],
+  [
+    [
       "2026-04-29, 10:16:11",
       "https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2026-04-28, 16:45:32",
-      "https://lobste.rs/s/uhsedd/7_reasons_i_switched_back_php_after_2_years"
-    ],
-    [
-      "7 reasons I switched back to PHP after 2 years on Rails (2007)",
-      "https://sive.rs/rails2php"
-    ]
-  ],
-  [
-    [
       "2026-04-28, 15:40:05",
       "https://lobste.rs/s/szrxqe/illegal_vs_unwanted_states"
     ],
     [
       "Illegal vs Unwanted States",
       "https://buttondown.com/hillelwayne/archive/illegal-vs-unwanted-states/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 14:30:43",
-      "https://lobste.rs/s/a7aoor/best_query_plans_mice_men"
-    ],
-    [
-      "The Best (Query) Plans of Mice and Men",
-      "https://ohadravid.github.io/posts/2026-04-query-plans/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "GitHub Actions is the weakest link",
       "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 10:21:43",
-      "https://lobste.rs/s/tchcjd/fosdem_2026_all_fosdem_2026_videos_are"
-    ],
-    [
-      "FOSDEM 2026 - All FOSDEM 2026 videos are online",
-      "https://fosdem.org/2026/news/2026-04-26-all-videos-published/"
     ]
   ],
   [
