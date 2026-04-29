@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2026-04-29, 16:08:37",
-      "https://lobste.rs/s/szqcwk/how_many_frames_per_second_do_you_need"
-    ],
-    [
-      "How Many Frames Per Second Do You Need?",
-      "https://hooby.blog/posts/how-many-frames-per-second-do-you-need/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 15:16:21",
       "https://lobste.rs/s/djfjlg/kde_s_30th_anniversary"
     ],
@@ -107,6 +97,16 @@
     [
       "Zed is 1.0",
       "https://zed.dev/blog/zed-1-0"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 13:56:38",
+      "https://lobste.rs/s/zukup5/declarative_git_repo_sync_migration_tool"
+    ],
+    [
+      "Declarative git repo sync/migration tool and self hosted code search engine",
+      "https://github.com/stepbrobd/miroir"
     ]
   ],
   [
