@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-04-29](index.md)
 
+* [2026-04-29, 17:03:12](https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox) - [Early Impressions of Chrome from a Firefox User](https://www.abefehr.com/posts/early-impressions-of-chrome)
+* [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
+* [2026-04-29, 16:08:37](https://lobste.rs/s/szqcwk/how_many_frames_per_second_do_you_need) - [How Many Frames Per Second Do You Need?](https://hooby.blog/posts/how-many-frames-per-second-do-you-need/)
+* [2026-04-29, 15:16:21](https://lobste.rs/s/djfjlg/kde_s_30th_anniversary) - [KDE’s 30th anniversary](https://kde.org/anniversaries/30/)
 * [2026-04-29, 14:57:23](https://lobste.rs/s/gcljqi/final_form_software_development) - [The Final Form of Software Development](https://blog.zksecurity.xyz/posts/end-coding/)
 * [2026-04-29, 14:57:07](https://lobste.rs/s/pqqrxx/consequences_passing_too_few_register) - [Consequences of passing too few register parameters to a C function](https://devblogs.microsoft.com/oldnewthing/20260427-00/?p=112271)
 * [2026-04-29, 14:51:56](https://lobste.rs/s/dsomuk/end_responsive_images) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
