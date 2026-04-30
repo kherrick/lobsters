@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-04-30, 20:10:30",
+      "https://lobste.rs/s/n6hyce/printing_zig_structs"
+    ],
+    [
+      "Printing Zig Structs",
+      "https://blog.edwardloveall.com/printing-zig-structs"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 19:25:55",
       "https://lobste.rs/s/riped5/guide_building_gleam_apps_for_web_desktop"
     ],
@@ -197,16 +207,6 @@
     [
       "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
       "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 17:03:12",
-      "https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox"
-    ],
-    [
-      "Early Impressions of Chrome from a Firefox User",
-      "https://www.abefehr.com/posts/early-impressions-of-chrome"
     ]
   ],
   [
