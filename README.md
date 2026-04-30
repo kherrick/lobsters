@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-04-30, 04:12:10](https://lobste.rs/s/wedwdu/breaking_ten_years_c_api_compatibility) - [Breaking ten years of C API compatibility in Futhark](https://futhark-lang.org/blog/2026-04-29-breaking-api-compatibility.html)
+* [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what's new](https://docs.amber-lang.com/getting_started/whats_new)
+* [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
 * [2026-04-30, 02:07:21](https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code) - [in which more paths are charted towards code independence](https://technomancy.us/204)
 * [2026-04-30, 00:42:09](https://lobste.rs/s/ujihmj/github_is_sinking) - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
 * [2026-04-30, 00:41:09](https://lobste.rs/s/8wsxnj/your_clippy_config_should_be_stricter) - [Your Clippy Config Should Be Stricter](https://emschwartz.me/your-clippy-config-should-be-stricter/)
@@ -11,7 +12,6 @@
 * [2026-04-29, 17:27:20](https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better) - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 17:03:12](https://lobste.rs/s/htkb9t/early_impressions_chrome_from_firefox) - [Early Impressions of Chrome from a Firefox User](https://www.abefehr.com/posts/early-impressions-of-chrome)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
-* [2026-04-29, 16:08:37](https://lobste.rs/s/szqcwk/how_many_frames_per_second_do_you_need) - [How Many Frames Per Second Do You Need?](https://hooby.blog/posts/how-many-frames-per-second-do-you-need/)
 * [2026-04-29, 15:16:21](https://lobste.rs/s/djfjlg/kde_s_30th_anniversary) - [KDE’s 30th anniversary](https://kde.org/anniversaries/30/)
 * [2026-04-29, 14:51:56](https://lobste.rs/s/dsomuk/end_responsive_images) - [The end of responsive images](https://piccalil.li/blog/the-end-of-responsive-images/)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
