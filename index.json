@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-30, 18:13:58",
+      "https://lobste.rs/s/dthrf4/i_built_game_boy_emulator_f"
+    ],
+    [
+      "I built a Game Boy emulator in F#",
+      "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 17:47:05",
+      "https://lobste.rs/s/gnxiff/posits_tapered_precision_real_numbers"
+    ],
+    [
+      "Posits: tapered precision real numbers (2018)",
+      "https://www.johndcook.com/blog/2018/04/11/anatomy-of-a-posit-number/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 16:56:15",
       "https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer"
     ],
@@ -22,10 +42,10 @@
   [
     [
       "2026-04-30, 16:08:37",
-      "https://lobste.rs/s/zbcg79/gnu_gcc_16"
+      "https://lobste.rs/s/zbcg79/gcc_16_release_series_changes_new"
     ],
     [
-      "Gnu Gcc 16",
+      "GCC 16 Release Series: Changes, New Features, and Fixes",
       "https://gcc.gnu.org/gcc-16/changes.html"
     ]
   ],
@@ -37,6 +57,16 @@
     [
       "You can beat the binary search",
       "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 13:50:20",
+      "https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work"
+    ],
+    [
+      "ECH Is Done, But Can We Make It Work?",
+      "https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "A text editor as a user interface",
       "https://ratfactor.com/cards/text-editor-as-ui"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 06:38:54",
-      "https://lobste.rs/s/hbmd5q/where_goblins_came_from"
-    ],
-    [
-      "Where the goblins came from",
-      "https://openai.com/index/where-the-goblins-came-from/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-04-29, 12:24:02",
-      "https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics"
-    ],
-    [
-      "Blessed Syntax and Ergonomics",
-      "https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 08:43:45",
       "https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead"
     ],
     [
       "Why I Still Reach for Lisp (& Scheme) Instead of Haskell",
       "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 08:07:16",
-      "https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4"
-    ],
-    [
-      "The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS",
-      "https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/"
     ]
   ],
   [
