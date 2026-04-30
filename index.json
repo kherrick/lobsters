@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-30, 19:25:55",
+      "https://lobste.rs/s/riped5/guide_building_gleam_apps_for_web_desktop"
+    ],
+    [
+      "A guide to building Gleam apps for web, desktop, and mobile",
+      "https://lukwol.github.io/gleam-guide/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 18:14:02",
+      "https://lobste.rs/s/efm106/monad_tutorials_timeline"
+    ],
+    [
+      "Monad tutorials timeline",
+      "https://wiki.haskell.org/Monad_tutorials_timeline"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 18:13:58",
       "https://lobste.rs/s/dthrf4/i_built_game_boy_emulator_f"
     ],
@@ -77,16 +97,6 @@
     [
       "CSS Zen Garden: The Beauty of CSS Design",
       "https://csszengarden.com/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 10:37:22",
-      "https://lobste.rs/s/nnl3sq/lectures_on_history_programming"
-    ],
-    [
-      "Lectures on history of programming languages",
-      "https://lobste.rs/s/nnl3sq/lectures_on_history_programming"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why I Still Reach for Lisp (& Scheme) Instead of Haskell",
       "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 04:17:13",
-      "https://lobste.rs/s/yn7tfr/bugs_rust_won_t_catch"
-    ],
-    [
-      "Bugs Rust Won't Catch",
-      "https://corrode.dev/blog/bugs-rust-wont-catch/"
     ]
   ]
 ]
