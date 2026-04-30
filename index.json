@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-30, 09:30:52",
+      "https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api"
+    ],
+    [
+      "Mozilla's position on the Prompt API",
+      "https://mastodon.social/@firefoxwebdevs/116492853483021978"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 09:20:06",
+      "https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements"
+    ],
+    [
+      "C++26: string and string_view improvements",
+      "https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 09:00:30",
       "https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-04-29, 10:16:11",
-      "https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain"
-    ],
-    [
-      "RIPE NCC RPKI exploit chain",
-      "https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/"
-    ]
-  ],
-  [
-    [
       "2026-04-29, 09:10:49",
       "https://lobste.rs/s/fxwarz/stable_specialization_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "Apple wants to kill your Time Capsule, but they run NetBSD so they can’t",
       "https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/"
-    ]
-  ],
-  [
-    [
-      "2026-04-28, 21:18:39",
-      "https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine"
-    ],
-    [
-      "I Built My Own Hair Electrolysis Machine",
-      "https://www.scd31.com/posts/diy-hair-electrolysis-machine"
     ]
   ],
   [
