@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 20:10:30](https://lobste.rs/s/n6hyce/printing_zig_structs) - [Printing Zig Structs](https://blog.edwardloveall.com/printing-zig-structs)
 * [2026-04-30, 19:25:55](https://lobste.rs/s/riped5/guide_building_gleam_apps_for_web_desktop) - [A guide to building Gleam apps for web, desktop, and mobile](https://lukwol.github.io/gleam-guide/)
 * [2026-04-30, 18:14:02](https://lobste.rs/s/efm106/monad_tutorials_timeline) - [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [2026-04-30, 18:13:58](https://lobste.rs/s/dthrf4/i_built_game_boy_emulator_f) - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
