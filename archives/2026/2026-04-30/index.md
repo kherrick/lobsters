@@ -4,15 +4,18 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gnu_gcc_16) - [Gnu Gcc 16](https://gcc.gnu.org/gcc-16/changes.html)
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
 * [2026-04-30, 13:50:20](https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work) - [ECH Is Done, But Can We Make It Work?](https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work)
 * [2026-04-30, 12:42:34](https://lobste.rs/s/t9rqj3/css_zen_garden_beauty_css_design) - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 * [2026-04-30, 12:14:27](https://lobste.rs/s/7jll50/tries_for_polynomials) - [Tries for Polynomials](https://doisinkidney.com/posts/2026-04-28-poly-trie.html)
+* [2026-04-30, 10:37:22](https://lobste.rs/s/nnl3sq/lectures_on_history_programming) - [Lectures on history of programming languages](https://lobste.rs/s/nnl3sq/lectures_on_history_programming)
 * [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
 * [2026-04-30, 09:20:06](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements) - [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements)
 * [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what's new](https://docs.amber-lang.com/getting_started/whats_new)
 * [2026-04-30, 08:51:00](https://lobste.rs/s/ijkf8e/march_servo_keyboard_navigation_better) - [March in Servo: keyboard navigation, better debugging, FreeBSD support, and more](https://servo.org/blog/2026/04/30/march-in-servo/)
 * [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
+* [2026-04-30, 06:38:54](https://lobste.rs/s/hbmd5q/where_goblins_came_from) - [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
 * [2026-04-30, 04:12:10](https://lobste.rs/s/wedwdu/breaking_ten_years_c_api_compatibility) - [Breaking ten years of C API compatibility in Futhark](https://futhark-lang.org/blog/2026-04-29-breaking-api-compatibility.html)
 * [2026-04-30, 02:07:21](https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code) - [in which more paths are charted towards code independence](https://technomancy.us/204)
 * [2026-04-30, 01:52:38](https://lobste.rs/s/beebjw/what_it_takes_transpose_matrix_2024) - [What it takes to transpose a matrix (2024)](https://gudok.xyz/transpose/)
