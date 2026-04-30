@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 16:56:15](https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer) - [The LLM Is Not a Junior Engineer](https://jacobharr.is/personal/llm-not-junior-engineer)
+* [2026-04-30, 16:42:48](https://lobste.rs/s/ygpiza/techniques_for_better_software_testing) - [Techniques for better software testing](https://antithesis.com/docs/resources/testing_techniques/)
 * [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gnu_gcc_16) - [Gnu Gcc 16](https://gcc.gnu.org/gcc-16/changes.html)
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
 * [2026-04-30, 13:50:20](https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work) - [ECH Is Done, But Can We Make It Work?](https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work)

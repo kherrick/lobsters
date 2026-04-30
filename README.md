@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-30, 16:56:15](https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer) - [The LLM Is Not a Junior Engineer](https://jacobharr.is/personal/llm-not-junior-engineer)
+* [2026-04-30, 16:42:48](https://lobste.rs/s/ygpiza/techniques_for_better_software_testing) - [Techniques for better software testing](https://antithesis.com/docs/resources/testing_techniques/)
 * [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gnu_gcc_16) - [Gnu Gcc 16](https://gcc.gnu.org/gcc-16/changes.html)
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
-* [2026-04-30, 13:50:20](https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work) - [ECH Is Done, But Can We Make It Work?](https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work)
 * [2026-04-30, 12:42:34](https://lobste.rs/s/t9rqj3/css_zen_garden_beauty_css_design) - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 * [2026-04-30, 12:14:27](https://lobste.rs/s/7jll50/tries_for_polynomials) - [Tries for Polynomials](https://doisinkidney.com/posts/2026-04-28-poly-trie.html)
 * [2026-04-30, 10:37:22](https://lobste.rs/s/nnl3sq/lectures_on_history_programming) - [Lectures on history of programming languages](https://lobste.rs/s/nnl3sq/lectures_on_history_programming)
@@ -21,7 +22,6 @@
 * [2026-04-29, 15:16:21](https://lobste.rs/s/djfjlg/kde_s_30th_anniversary) - [KDE’s 30th anniversary](https://kde.org/anniversaries/30/)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 12:24:02](https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics) - [Blessed Syntax and Ergonomics](https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/)
-* [2026-04-29, 09:10:49](https://lobste.rs/s/fxwarz/stable_specialization_rust) - [Stable specialization in Rust](https://goldstein.lol/posts/stable-specialization/)
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 * [2026-04-29, 08:07:16](https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4) - [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/)
 * [2026-04-29, 04:17:13](https://lobste.rs/s/yn7tfr/bugs_rust_won_t_catch) - [Bugs Rust Won't Catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
