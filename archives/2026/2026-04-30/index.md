@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-04-30](index.md)
 
+* [2026-04-30, 19:25:55](https://lobste.rs/s/riped5/guide_building_gleam_apps_for_web_desktop) - [A guide to building Gleam apps for web, desktop, and mobile](https://lukwol.github.io/gleam-guide/)
+* [2026-04-30, 18:14:02](https://lobste.rs/s/efm106/monad_tutorials_timeline) - [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [2026-04-30, 18:13:58](https://lobste.rs/s/dthrf4/i_built_game_boy_emulator_f) - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
 * [2026-04-30, 17:47:05](https://lobste.rs/s/gnxiff/posits_tapered_precision_real_numbers) - [Posits: tapered precision real numbers (2018)](https://www.johndcook.com/blog/2018/04/11/anatomy-of-a-posit-number/)
 * [2026-04-30, 16:56:15](https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer) - [The LLM Is Not a Junior Engineer](https://jacobharr.is/personal/llm-not-junior-engineer)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-30, 19:25:55](https://lobste.rs/s/riped5/guide_building_gleam_apps_for_web_desktop) - [A guide to building Gleam apps for web, desktop, and mobile](https://lukwol.github.io/gleam-guide/)
+* [2026-04-30, 18:14:02](https://lobste.rs/s/efm106/monad_tutorials_timeline) - [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [2026-04-30, 18:13:58](https://lobste.rs/s/dthrf4/i_built_game_boy_emulator_f) - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
 * [2026-04-30, 17:47:05](https://lobste.rs/s/gnxiff/posits_tapered_precision_real_numbers) - [Posits: tapered precision real numbers (2018)](https://www.johndcook.com/blog/2018/04/11/anatomy-of-a-posit-number/)
 * [2026-04-30, 16:56:15](https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer) - [The LLM Is Not a Junior Engineer](https://jacobharr.is/personal/llm-not-junior-engineer)
@@ -8,7 +10,6 @@
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
 * [2026-04-30, 13:50:20](https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work) - [ECH Is Done, But Can We Make It Work?](https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work)
 * [2026-04-30, 12:42:34](https://lobste.rs/s/t9rqj3/css_zen_garden_beauty_css_design) - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
-* [2026-04-30, 10:37:22](https://lobste.rs/s/nnl3sq/lectures_on_history_programming) - [Lectures on history of programming languages](https://lobste.rs/s/nnl3sq/lectures_on_history_programming)
 * [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
 * [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what's new](https://docs.amber-lang.com/getting_started/whats_new)
 * [2026-04-30, 08:51:00](https://lobste.rs/s/ijkf8e/march_servo_keyboard_navigation_better) - [March in Servo: keyboard navigation, better debugging, FreeBSD support, and more](https://servo.org/blog/2026/04/30/march-in-servo/)
@@ -24,7 +25,6 @@
 * [2026-04-29, 15:16:21](https://lobste.rs/s/djfjlg/kde_s_30th_anniversary) - [KDE’s 30th anniversary](https://kde.org/anniversaries/30/)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
-* [2026-04-29, 04:17:13](https://lobste.rs/s/yn7tfr/bugs_rust_won_t_catch) - [Bugs Rust Won't Catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
 
 ## [Archives](archives/index.md)
 
