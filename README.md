@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
+* [2026-04-30, 09:20:06](https://lobste.rs/s/tgu1zo/c_26_string_string_view_improvements) - [C++26: string and string_view improvements](https://www.sandordargo.com/blog/2026/04/29/cpp26-string-string_view-improvements)
 * [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what's new](https://docs.amber-lang.com/getting_started/whats_new)
 * [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
 * [2026-04-30, 02:07:21](https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code) - [in which more paths are charted towards code independence](https://technomancy.us/204)
@@ -17,13 +19,11 @@
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 13:36:08](https://lobste.rs/s/ghmidi/secure_signatures_without_private_key) - [Secure signatures without a private key](https://katexochen.aro.bz/posts/reproducible-secure-signatures/)
 * [2026-04-29, 12:24:02](https://lobste.rs/s/ejsrso/blessed_syntax_ergonomics) - [Blessed Syntax and Ergonomics](https://www.gingerbill.org/article/2026/04/29/blessed-syntax-and-ergonomics/)
-* [2026-04-29, 10:16:11](https://lobste.rs/s/ewwdm4/ripe_ncc_rpki_exploit_chain) - [RIPE NCC RPKI exploit chain](https://mxsasha.eu/posts/ripe-ncc-rpki-exploit-chain/)
 * [2026-04-29, 09:10:49](https://lobste.rs/s/fxwarz/stable_specialization_rust) - [Stable specialization in Rust](https://goldstein.lol/posts/stable-specialization/)
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 * [2026-04-29, 08:07:16](https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4) - [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/)
 * [2026-04-29, 04:17:13](https://lobste.rs/s/yn7tfr/bugs_rust_won_t_catch) - [Bugs Rust Won't Catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
 * [2026-04-29, 03:01:06](https://lobste.rs/s/lpozc6/apple_wants_kill_your_time_capsule_they) - [Apple wants to kill your Time Capsule, but they run NetBSD so they can’t](https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/)
-* [2026-04-28, 21:18:39](https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine) - [I Built My Own Hair Electrolysis Machine](https://www.scd31.com/posts/diy-hair-electrolysis-machine)
 * [2026-04-28, 20:58:56](https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo) - [Carrot disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
 
 ## [Archives](archives/index.md)
