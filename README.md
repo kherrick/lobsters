@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-04-30, 02:07:21](https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code) - [in which more paths are charted towards code independence](https://technomancy.us/204)
+* [2026-04-30, 01:52:38](https://lobste.rs/s/beebjw/what_it_takes_transpose_matrix_2024) - [What it takes to transpose a matrix (2024)](https://gudok.xyz/transpose/)
 * [2026-04-30, 00:42:09](https://lobste.rs/s/ujihmj/github_is_sinking) - [GitHub is sinking](https://dbushell.com/2026/04/29/github-is-sinking/)
 * [2026-04-30, 00:41:09](https://lobste.rs/s/8wsxnj/your_clippy_config_should_be_stricter) - [Your Clippy Config Should Be Stricter](https://emschwartz.me/your-clippy-config-should-be-stricter/)
 * [2026-04-29, 21:08:48](https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root) - [Copy Fail — 732 Bytes to Root](https://copy.fail/)
@@ -20,11 +22,9 @@
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 * [2026-04-29, 08:07:16](https://lobste.rs/s/9bkq7o/day_i_logged_1_every_2000_public_ipv4) - [The Day I Logged 1 In Every 2000 Public IPv4: Visualizing The AI Scraper DDoS](https://vulpinecitrus.info/blog/one-in-every-2000-ipv4-visualizing-ddos-ai-web-scrapers/)
 * [2026-04-29, 04:17:13](https://lobste.rs/s/yn7tfr/bugs_rust_won_t_catch) - [Bugs Rust Won't Catch](https://corrode.dev/blog/bugs-rust-wont-catch/)
-* [2026-04-29, 03:16:18](https://lobste.rs/s/ccbjxb/warp_is_now_open_source) - [Warp is now open-source](https://www.warp.dev/blog/warp-is-now-open-source)
 * [2026-04-29, 03:01:06](https://lobste.rs/s/lpozc6/apple_wants_kill_your_time_capsule_they) - [Apple wants to kill your Time Capsule, but they run NetBSD so they can’t](https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/)
 * [2026-04-28, 21:18:39](https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine) - [I Built My Own Hair Electrolysis Machine](https://www.scd31.com/posts/diy-hair-electrolysis-machine)
 * [2026-04-28, 20:58:56](https://lobste.rs/s/swbkcl/carrot_disclosure_forgejo) - [Carrot disclosure: Forgejo](https://dustri.org/b/carrot-disclosure-forgejo.html)
-* [2026-04-28, 09:43:40](https://lobste.rs/s/exlogg/jjj) - [jjj](https://oppi.li/posts/jjj/)
 
 ## [Archives](archives/index.md)
 
