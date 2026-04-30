@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-04-30, 08:51:00",
+      "https://lobste.rs/s/ijkf8e/march_servo_keyboard_navigation_better"
+    ],
+    [
+      "March in Servo: keyboard navigation, better debugging, FreeBSD support, and more",
+      "https://servo.org/blog/2026/04/30/march-in-servo/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 08:09:07",
       "https://lobste.rs/s/b9vrje/text_editor_as_user_interface"
     ],
@@ -41,22 +51,12 @@
   ],
   [
     [
-      "2026-04-30, 02:07:21",
-      "https://lobste.rs/s/7smldd/which_more_paths_are_charted_towards_code"
+      "2026-04-30, 04:12:10",
+      "https://lobste.rs/s/wedwdu/breaking_ten_years_c_api_compatibility"
     ],
     [
-      "in which more paths are charted towards code independence",
-      "https://technomancy.us/204"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 00:42:09",
-      "https://lobste.rs/s/ujihmj/github_is_sinking"
-    ],
-    [
-      "GitHub is sinking",
-      "https://dbushell.com/2026/04/29/github-is-sinking/"
+      "Breaking ten years of C API compatibility in Futhark",
+      "https://futhark-lang.org/blog/2026-04-29-breaking-api-compatibility.html"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Functional Programmers need to take a look at Zig",
       "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 17:58:14",
-      "https://lobste.rs/s/wsmc8s/copy_fail_732_bytes_root_on_every_major"
-    ],
-    [
-      "Copy Fail: 732 Bytes to Root on Every Major Linux Distributions",
-      "https://xint.io/blog/copy-fail-linux-distributions"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Apple wants to kill your Time Capsule, but they run NetBSD so they can’t",
       "https://www.osnews.com/story/144845/apple-wants-to-kill-your-time-capsule-but-they-run-netbsd-so-they-cant/"
+    ]
+  ],
+  [
+    [
+      "2026-04-28, 21:18:39",
+      "https://lobste.rs/s/lm0mlt/i_built_my_own_hair_electrolysis_machine"
+    ],
+    [
+      "I Built My Own Hair Electrolysis Machine",
+      "https://www.scd31.com/posts/diy-hair-electrolysis-machine"
     ]
   ],
   [
