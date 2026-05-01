@@ -4,7 +4,7 @@
 * [2026-05-01, 20:56:02](https://lobste.rs/s/hb9tdr/inverse_sapir_whorf_programming) - [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
 * [2026-05-01, 20:00:59](https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines) - [Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)](https://pu.dev)
 * [2026-05-01, 19:07:28](https://lobste.rs/s/am6k7v/problems_with_escapeshellarg) - [Problems with escapeshellarg](https://deployer.org/blog/quote-vs-escapeshellarg)
-* [2026-05-01, 17:35:30](https://lobste.rs/s/zrbrki/maintenant_drop_container_your_stack_is) - [maintenant: Drop a container. Your stack is monitored](https://github.com/kOlapsis/maintenant)
+* [2026-05-01, 18:20:04](https://lobste.rs/s/qdhn90/xitlog_patch_based_merging_is_now_enabled) - [XITLOG - patch-based merging is now enabled by default](https://xit-vcs.github.io/xitlog/devlog-patch-merge-default.html)
 * [2026-05-01, 17:17:13](https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust) - [combat LLM spam by building a web of trust](https://blog.tangled.org/vouching/)
 * [2026-05-01, 15:14:22](https://lobste.rs/s/tkcood/progressive_web_components) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-05-01, 14:24:27](https://lobste.rs/s/havzoc/micro_benchmarks_don_t_tell_whole_story) - [micro-benchmarks don’t tell the whole story](https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/)
