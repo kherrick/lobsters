@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-01, 17:35:30",
+      "https://lobste.rs/s/zrbrki/maintenant_drop_container_your_stack_is"
+    ],
+    [
+      "maintenant: Drop a container. Your stack is monitored",
+      "https://github.com/kOlapsis/maintenant"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 17:17:13",
       "https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust"
     ],
@@ -17,16 +27,6 @@
     [
       "Progressive Web Components",
       "https://arielsalminen.com/2026/progressive-web-components/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 14:35:25",
-      "https://lobste.rs/s/np7jsb/bug_bash_2_attack_clones"
-    ],
-    [
-      "Bug Bash 2: Attack of the Clones",
-      "https://concerningquality.com/bug-bash-two/"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "A life update from Zach Oakes: Zig, AI, unemployment, and more",
       "https://www.youtube.com/watch?v=DhhPUrizZcw"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 12:08:30",
+      "https://lobste.rs/s/ckczrr/typing_your_django_project_2026"
+    ],
+    [
+      "Typing Your Django Project in 2026",
+      "https://blog.pecar.me/typing-your-django-project-in-2026/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A text editor as a user interface",
       "https://ratfactor.com/cards/text-editor-as-ui"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 18:58:11",
-      "https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at"
-    ],
-    [
-      "Functional Programmers need to take a look at Zig",
-      "https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html"
     ]
   ],
   [
