@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 14:35:25](https://lobste.rs/s/np7jsb/bug_bash_2_attack_clones) - [Bug Bash 2: Attack of the Clones](https://concerningquality.com/bug-bash-two/)
+* [2026-05-01, 14:24:27](https://lobste.rs/s/havzoc/micro_benchmarks_don_t_tell_whole_story) - [micro-benchmarks don’t tell the whole story](https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/)
+* [2026-05-01, 14:20:24](https://lobste.rs/s/q5e6jo/groth16_intuitively) - [Groth16, Intuitively](https://blog.zksecurity.xyz/posts/groth16/)
 * [2026-05-01, 13:43:22](https://lobste.rs/s/idjbqh/what_even_is_ecma_part_1) - [What even is Ecma? (Part 1)](https://www.ryzokuken.dev/blog/about-ecma-1/)
 * [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
 * [2026-05-01, 11:25:16](https://lobste.rs/s/xhka1e/git_your_freedom_back_beginner_s_guide) - [Git Your Freedom Back: A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
