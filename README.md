@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-01, 11:25:16](https://lobste.rs/s/xhka1e/git_your_freedom_back_beginner_s_guide) - [Git Your Freedom Back: A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2026-05-01, 10:14:40](https://lobste.rs/s/m8t9px/cpanel_whm_authentication_bypass_cve) - [cPanel & WHM Authentication Bypass (CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
+* [2026-05-01, 10:11:37](https://lobste.rs/s/kyuax8/shigeru_miyamoto_has_probably_never) - [Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you](https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/)
 * [2026-05-01, 07:11:08](https://lobste.rs/s/uxcdlw/life_packet_amazon_eks) - [Life of a Packet in Amazon EKS](https://samof76.space/life-of-a-packet-in-aws-eks.html)
 * [2026-05-01, 06:51:04](https://lobste.rs/s/inndga/supersimple_lightweight_opencode) - [Supersimple: Lightweight OpenCode profile for routine dev work with focused agents, local skills, and conductor-based track management](https://github.com/gc-victor/supersimple)
 * [2026-05-01, 06:49:12](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend)
@@ -8,7 +10,6 @@
 * [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
 * [2026-04-30, 23:04:30](https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn) - [Android VPN IP Leak Even If Always-On VPN Enabled](https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/)
 * [2026-04-30, 22:31:39](https://lobste.rs/s/bzdkdz/ruby_for_shell_scripting_2024) - [Ruby for \"shell scripting\" (2024)](https://ratfactor.com/cards/ruby-shell-scripts)
-* [2026-04-30, 20:10:30](https://lobste.rs/s/n6hyce/printing_zig_structs) - [Printing Zig Structs](https://blog.edwardloveall.com/printing-zig-structs)
 * [2026-04-30, 19:25:55](https://lobste.rs/s/riped5/guide_building_gleam_apps_for_web_desktop) - [A guide to building Gleam apps for web, desktop, and mobile](https://lukwol.github.io/gleam-guide/)
 * [2026-04-30, 18:14:02](https://lobste.rs/s/efm106/monad_tutorials_timeline) - [Monad tutorials timeline](https://wiki.haskell.org/Monad_tutorials_timeline)
 * [2026-04-30, 18:13:58](https://lobste.rs/s/dthrf4/i_built_game_boy_emulator_f) - [I built a Game Boy emulator in F#](https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/)
@@ -24,7 +25,6 @@
 * [2026-04-29, 21:08:48](https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root) - [Copy Fail — 732 Bytes to Root](https://copy.fail/)
 * [2026-04-29, 18:58:11](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
-* [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 
 ## [Archives](archives/index.md)
 
