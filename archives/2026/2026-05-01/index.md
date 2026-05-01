@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 10:14:40](https://lobste.rs/s/m8t9px/cpanel_whm_authentication_bypass_cve) - [cPanel & WHM Authentication Bypass (CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
 * [2026-05-01, 07:11:08](https://lobste.rs/s/uxcdlw/life_packet_amazon_eks) - [Life of a Packet in Amazon EKS](https://samof76.space/life-of-a-packet-in-aws-eks.html)
 * [2026-05-01, 06:51:04](https://lobste.rs/s/inndga/supersimple_lightweight_opencode) - [Supersimple: Lightweight OpenCode profile for routine dev work with focused agents, local skills, and conductor-based track management](https://github.com/gc-victor/supersimple)
 * [2026-05-01, 06:49:12](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend)
