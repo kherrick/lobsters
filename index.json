@@ -1,12 +1,32 @@
 [
   [
     [
-      "2026-05-01, 06:01:36",
-      "https://lobste.rs/s/ygusar/personal_history_apl_1982_michael_s"
+      "2026-05-01, 07:11:08",
+      "https://lobste.rs/s/uxcdlw/life_packet_amazon_eks"
     ],
     [
-      "A Personal History of APL (1982) - Michael S. Montalbano",
-      "https://ed-thelen.org/comp-hist/APL-hist.html"
+      "Life of a Packet in Amazon EKS",
+      "https://samof76.space/life-of-a-packet-in-aws-eks.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 06:51:04",
+      "https://lobste.rs/s/inndga/supersimple_lightweight_opencode"
+    ],
+    [
+      "Supersimple: Lightweight OpenCode profile for routine dev work with focused agents, local skills, and conductor-based track management",
+      "https://github.com/gc-victor/supersimple"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 06:49:12",
+      "https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-04-30, 13:50:20",
-      "https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work"
-    ],
-    [
-      "ECH Is Done, But Can We Make It Work?",
-      "https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 12:42:34",
       "https://lobste.rs/s/t9rqj3/css_zen_garden_beauty_css_design"
     ],
@@ -237,16 +247,6 @@
     [
       "Zed is 1.0",
       "https://zed.dev/blog/zed-1-0"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 08:43:45",
-      "https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead"
-    ],
-    [
-      "Why I Still Reach for Lisp (& Scheme) Instead of Haskell",
-      "https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html"
     ]
   ]
 ]
