@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-01, 20:00:59](https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines) - [Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)](https://pu.dev)
 * [2026-05-01, 19:07:28](https://lobste.rs/s/am6k7v/problems_with_escapeshellarg) - [Problems with escapeshellarg](https://deployer.org/blog/quote-vs-escapeshellarg)
 * [2026-05-01, 17:35:30](https://lobste.rs/s/zrbrki/maintenant_drop_container_your_stack_is) - [maintenant: Drop a container. Your stack is monitored](https://github.com/kOlapsis/maintenant)
 * [2026-05-01, 17:17:13](https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust) - [combat LLM spam by building a web of trust](https://blog.tangled.org/vouching/)
@@ -19,7 +20,6 @@
 * [2026-04-30, 23:04:30](https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn) - [Android VPN IP Leak Even If Always-On VPN Enabled](https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/)
 * [2026-04-30, 22:31:39](https://lobste.rs/s/bzdkdz/ruby_for_shell_scripting_2024) - [Ruby for \"shell scripting\" (2024)](https://ratfactor.com/cards/ruby-shell-scripts)
 * [2026-04-30, 16:56:15](https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer) - [The LLM Is Not a Junior Engineer](https://jacobharr.is/personal/llm-not-junior-engineer)
-* [2026-04-30, 16:42:48](https://lobste.rs/s/ygpiza/techniques_for_better_software_testing) - [Techniques for better software testing](https://antithesis.com/docs/resources/testing_techniques/)
 * [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gcc_16_release_series_changes_new) - [GCC 16 Release Series: Changes, New Features, and Fixes](https://gcc.gnu.org/gcc-16/changes.html)
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
 * [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
