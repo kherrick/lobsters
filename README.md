@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-01, 06:01:36](https://lobste.rs/s/ygusar/personal_history_apl_1982_michael_s) - [A Personal History of APL (1982) - Michael S. Montalbano](https://ed-thelen.org/comp-hist/APL-hist.html)
+* [2026-05-01, 07:11:08](https://lobste.rs/s/uxcdlw/life_packet_amazon_eks) - [Life of a Packet in Amazon EKS](https://samof76.space/life-of-a-packet-in-aws-eks.html)
+* [2026-05-01, 06:51:04](https://lobste.rs/s/inndga/supersimple_lightweight_opencode) - [Supersimple: Lightweight OpenCode profile for routine dev work with focused agents, local skills, and conductor-based track management](https://github.com/gc-victor/supersimple)
+* [2026-05-01, 06:49:12](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend)
 * [2026-05-01, 00:34:31](https://lobste.rs/s/uch4e0/porting_microgpt_futhark_part_i) - [Porting microgpt to Futhark, Part I](https://www.kmjn.org/notes/microgpt_futhark.html)
 * [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
 * [2026-04-30, 23:04:30](https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn) - [Android VPN IP Leak Even If Always-On VPN Enabled](https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/)
@@ -13,7 +15,6 @@
 * [2026-04-30, 16:42:48](https://lobste.rs/s/ygpiza/techniques_for_better_software_testing) - [Techniques for better software testing](https://antithesis.com/docs/resources/testing_techniques/)
 * [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gcc_16_release_series_changes_new) - [GCC 16 Release Series: Changes, New Features, and Fixes](https://gcc.gnu.org/gcc-16/changes.html)
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
-* [2026-04-30, 13:50:20](https://lobste.rs/s/dd8udo/ech_is_done_can_we_make_it_work) - [ECH Is Done, But Can We Make It Work?](https://www.feistyduck.com/newsletter/issue_136_ech_is_done_but_can_we_make_it_work)
 * [2026-04-30, 12:42:34](https://lobste.rs/s/t9rqj3/css_zen_garden_beauty_css_design) - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 * [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
 * [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what's new](https://docs.amber-lang.com/getting_started/whats_new)
@@ -24,7 +25,6 @@
 * [2026-04-29, 17:27:20](https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better) - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
-* [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 
 ## [Archives](archives/index.md)
 
