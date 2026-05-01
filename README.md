@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-01, 03:11:49](https://lobste.rs/s/jdtrlq/smart_app_control) - [Smart App Control](https://textslashplain.com/2026/04/28/smart-app-control/)
+* [2026-05-01, 00:34:31](https://lobste.rs/s/uch4e0/porting_microgpt_futhark_part_i) - [Porting microgpt to Futhark, Part I](https://www.kmjn.org/notes/microgpt_futhark.html)
 * [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
 * [2026-04-30, 23:04:30](https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn) - [Android VPN IP Leak Even If Always-On VPN Enabled](https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/)
 * [2026-04-30, 20:10:30](https://lobste.rs/s/n6hyce/printing_zig_structs) - [Printing Zig Structs](https://blog.edwardloveall.com/printing-zig-structs)
@@ -16,13 +18,11 @@
 * [2026-04-30, 09:00:30](https://lobste.rs/s/heoyfd/amber_lang_0_6_0_new_release_check_what_s_new) - [Amber-Lang 0.6.0 - New release, check what's new](https://docs.amber-lang.com/getting_started/whats_new)
 * [2026-04-30, 08:51:00](https://lobste.rs/s/ijkf8e/march_servo_keyboard_navigation_better) - [March in Servo: keyboard navigation, better debugging, FreeBSD support, and more](https://servo.org/blog/2026/04/30/march-in-servo/)
 * [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
-* [2026-04-30, 04:12:10](https://lobste.rs/s/wedwdu/breaking_ten_years_c_api_compatibility) - [Breaking ten years of C API compatibility in Futhark](https://futhark-lang.org/blog/2026-04-29-breaking-api-compatibility.html)
 * [2026-04-30, 00:41:09](https://lobste.rs/s/8wsxnj/your_clippy_config_should_be_stricter) - [Your Clippy Config Should Be Stricter](https://emschwartz.me/your-clippy-config-should-be-stricter/)
 * [2026-04-29, 21:08:48](https://lobste.rs/s/eeifdc/copy_fail_732_bytes_root) - [Copy Fail — 732 Bytes to Root](https://copy.fail/)
 * [2026-04-29, 18:58:11](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
 * [2026-04-29, 17:27:20](https://lobste.rs/s/m6z3gm/fastcgi_30_years_old_still_better) - [FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies](https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
-* [2026-04-29, 15:16:21](https://lobste.rs/s/djfjlg/kde_s_30th_anniversary) - [KDE’s 30th anniversary](https://kde.org/anniversaries/30/)
 * [2026-04-29, 14:40:20](https://lobste.rs/s/ddrcj1/zed_is_1_0) - [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 * [2026-04-29, 08:43:45](https://lobste.rs/s/tzqafn/why_i_still_reach_for_lisp_scheme_instead) - [Why I Still Reach for Lisp (& Scheme) Instead of Haskell](https://jointhefreeworld.org/blog/articles/lisps/why-i-still-reach-for-scheme-instead-of-haskell/index.html)
 
