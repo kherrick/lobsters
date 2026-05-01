@@ -7,6 +7,7 @@
 * [2026-05-01, 21:00:24](https://lobste.rs/s/h3q3ku/canonical_is_under_attack) - [Canonical is under attack](https://status.canonical.com/)
 * [2026-05-01, 20:56:02](https://lobste.rs/s/hb9tdr/inverse_sapir_whorf_programming) - [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
 * [2026-05-01, 20:00:59](https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines) - [Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)](https://pu.dev)
+* [2026-05-01, 19:33:44](https://lobste.rs/s/iz1rct/palantir_workers_are_finally_noticing) - [Palantir Workers Are Finally Noticing The Skulls On Their Caps](https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/)
 * [2026-05-01, 19:07:28](https://lobste.rs/s/am6k7v/problems_with_escapeshellarg) - [Problems with escapeshellarg](https://deployer.org/blog/quote-vs-escapeshellarg)
 * [2026-05-01, 18:20:04](https://lobste.rs/s/qdhn90/xitlog_patch_based_merging_is_now_enabled) - [XITLOG - patch-based merging is now enabled by default](https://xit-vcs.github.io/xitlog/devlog-patch-merge-default.html)
 * [2026-05-01, 17:35:30](https://lobste.rs/s/zrbrki/maintenant_drop_container_your_stack_is) - [maintenant: Drop a container. Your stack is monitored](https://github.com/kOlapsis/maintenant)
