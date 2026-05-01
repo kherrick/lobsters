@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 15:14:22](https://lobste.rs/s/tkcood/progressive_web_components) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-05-01, 14:35:25](https://lobste.rs/s/np7jsb/bug_bash_2_attack_clones) - [Bug Bash 2: Attack of the Clones](https://concerningquality.com/bug-bash-two/)
 * [2026-05-01, 14:24:27](https://lobste.rs/s/havzoc/micro_benchmarks_don_t_tell_whole_story) - [micro-benchmarks don’t tell the whole story](https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/)
+* [2026-05-01, 14:22:46](https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code) - [Why I Don’t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
 * [2026-05-01, 14:20:24](https://lobste.rs/s/q5e6jo/groth16_intuitively) - [Groth16, Intuitively](https://blog.zksecurity.xyz/posts/groth16/)
 * [2026-05-01, 13:43:22](https://lobste.rs/s/idjbqh/what_even_is_ecma_part_1) - [What even is Ecma? (Part 1)](https://www.ryzokuken.dev/blog/about-ecma-1/)
 * [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
