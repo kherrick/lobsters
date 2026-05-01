@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-05-01, 11:25:16",
+      "https://lobste.rs/s/xhka1e/git_your_freedom_back_beginner_s_guide"
+    ],
+    [
+      "Git Your Freedom Back: A Beginner's Guide to SourceHut",
+      "https://btxx.org/posts/beginners-guide-sourcehut/"
+    ]
+  ],
+  [
+    [
       "2026-05-01, 10:14:40",
       "https://lobste.rs/s/m8t9px/cpanel_whm_authentication_bypass_cve"
     ],
     [
       "cPanel & WHM Authentication Bypass (CVE-2026-41940)",
       "https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 10:11:37",
+      "https://lobste.rs/s/kyuax8/shigeru_miyamoto_has_probably_never"
+    ],
+    [
+      "Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you",
+      "https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Ruby for \"shell scripting\" (2024)",
       "https://ratfactor.com/cards/ruby-shell-scripts"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 20:10:30",
-      "https://lobste.rs/s/n6hyce/printing_zig_structs"
-    ],
-    [
-      "Printing Zig Structs",
-      "https://blog.edwardloveall.com/printing-zig-structs"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Contributor Poker and Zig's AI Ban",
       "https://kristoff.it/blog/contributor-poker-and-ai/"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 14:40:20",
-      "https://lobste.rs/s/ddrcj1/zed_is_1_0"
-    ],
-    [
-      "Zed is 1.0",
-      "https://zed.dev/blog/zed-1-0"
     ]
   ]
 ]
