@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-01, 17:35:30](https://lobste.rs/s/zrbrki/maintenant_drop_container_your_stack_is) - [maintenant: Drop a container. Your stack is monitored](https://github.com/kOlapsis/maintenant)
 * [2026-05-01, 17:17:13](https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust) - [combat LLM spam by building a web of trust](https://blog.tangled.org/vouching/)
 * [2026-05-01, 15:14:22](https://lobste.rs/s/tkcood/progressive_web_components) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
-* [2026-05-01, 14:35:25](https://lobste.rs/s/np7jsb/bug_bash_2_attack_clones) - [Bug Bash 2: Attack of the Clones](https://concerningquality.com/bug-bash-two/)
 * [2026-05-01, 14:24:27](https://lobste.rs/s/havzoc/micro_benchmarks_don_t_tell_whole_story) - [micro-benchmarks don’t tell the whole story](https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/)
 * [2026-05-01, 14:22:46](https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code) - [Why I Don’t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
 * [2026-05-01, 14:20:24](https://lobste.rs/s/q5e6jo/groth16_intuitively) - [Groth16, Intuitively](https://blog.zksecurity.xyz/posts/groth16/)
 * [2026-05-01, 13:43:22](https://lobste.rs/s/idjbqh/what_even_is_ecma_part_1) - [What even is Ecma? (Part 1)](https://www.ryzokuken.dev/blog/about-ecma-1/)
 * [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
+* [2026-05-01, 12:08:30](https://lobste.rs/s/ckczrr/typing_your_django_project_2026) - [Typing Your Django Project in 2026](https://blog.pecar.me/typing-your-django-project-in-2026/)
 * [2026-05-01, 10:14:40](https://lobste.rs/s/m8t9px/cpanel_whm_authentication_bypass_cve) - [cPanel & WHM Authentication Bypass (CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
 * [2026-05-01, 10:11:37](https://lobste.rs/s/kyuax8/shigeru_miyamoto_has_probably_never) - [Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you](https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/)
 * [2026-05-01, 07:11:08](https://lobste.rs/s/uxcdlw/life_packet_amazon_eks) - [Life of a Packet in Amazon EKS](https://samof76.space/life-of-a-packet-in-aws-eks.html)
@@ -23,7 +24,6 @@
 * [2026-04-30, 12:42:34](https://lobste.rs/s/t9rqj3/css_zen_garden_beauty_css_design) - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/)
 * [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
 * [2026-04-30, 08:09:07](https://lobste.rs/s/b9vrje/text_editor_as_user_interface) - [A text editor as a user interface](https://ratfactor.com/cards/text-editor-as-ui)
-* [2026-04-29, 18:58:11](https://lobste.rs/s/b57uhm/functional_programmers_need_take_look_at) - [Functional Programmers need to take a look at Zig](https://pure-systems.org/posts/2026-04-29-functional-programmers-need-to-take-a-look-at-zig.html)
 * [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 
 ## [Archives](archives/index.md)

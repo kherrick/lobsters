@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 17:35:30](https://lobste.rs/s/zrbrki/maintenant_drop_container_your_stack_is) - [maintenant: Drop a container. Your stack is monitored](https://github.com/kOlapsis/maintenant)
 * [2026-05-01, 17:17:13](https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust) - [combat LLM spam by building a web of trust](https://blog.tangled.org/vouching/)
 * [2026-05-01, 15:14:22](https://lobste.rs/s/tkcood/progressive_web_components) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-05-01, 14:35:25](https://lobste.rs/s/np7jsb/bug_bash_2_attack_clones) - [Bug Bash 2: Attack of the Clones](https://concerningquality.com/bug-bash-two/)
@@ -12,6 +13,7 @@
 * [2026-05-01, 14:20:24](https://lobste.rs/s/q5e6jo/groth16_intuitively) - [Groth16, Intuitively](https://blog.zksecurity.xyz/posts/groth16/)
 * [2026-05-01, 13:43:22](https://lobste.rs/s/idjbqh/what_even_is_ecma_part_1) - [What even is Ecma? (Part 1)](https://www.ryzokuken.dev/blog/about-ecma-1/)
 * [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
+* [2026-05-01, 12:08:30](https://lobste.rs/s/ckczrr/typing_your_django_project_2026) - [Typing Your Django Project in 2026](https://blog.pecar.me/typing-your-django-project-in-2026/)
 * [2026-05-01, 11:25:16](https://lobste.rs/s/xhka1e/git_your_freedom_back_beginner_s_guide) - [Git Your Freedom Back: A Beginner's Guide to SourceHut](https://btxx.org/posts/beginners-guide-sourcehut/)
 * [2026-05-01, 10:14:40](https://lobste.rs/s/m8t9px/cpanel_whm_authentication_bypass_cve) - [cPanel & WHM Authentication Bypass (CVE-2026-41940)](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
 * [2026-05-01, 10:11:37](https://lobste.rs/s/kyuax8/shigeru_miyamoto_has_probably_never) - [Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you](https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/)
