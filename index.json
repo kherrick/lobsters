@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-04-30, 23:11:52",
+      "https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github"
+    ],
+    [
+      "If I Could Make My Own GitHub",
+      "https://matduggan.com/if-i-could-make-my-own-github/"
+    ]
+  ],
+  [
+    [
+      "2026-04-30, 23:04:30",
+      "https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn"
+    ],
+    [
+      "Android VPN IP Leak Even If Always-On VPN Enabled",
+      "https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/"
+    ]
+  ],
+  [
+    [
       "2026-04-30, 20:10:30",
       "https://lobste.rs/s/n6hyce/printing_zig_structs"
     ],
@@ -37,16 +57,6 @@
     [
       "I built a Game Boy emulator in F#",
       "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 17:47:05",
-      "https://lobste.rs/s/gnxiff/posits_tapered_precision_real_numbers"
-    ],
-    [
-      "Posits: tapered precision real numbers (2018)",
-      "https://www.johndcook.com/blog/2018/04/11/anatomy-of-a-posit-number/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "A text editor as a user interface",
       "https://ratfactor.com/cards/text-editor-as-ui"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 06:38:54",
-      "https://lobste.rs/s/hbmd5q/where_goblins_came_from"
-    ],
-    [
-      "Where the goblins came from",
-      "https://openai.com/index/where-the-goblins-came-from/"
     ]
   ],
   [
