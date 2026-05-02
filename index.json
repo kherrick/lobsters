@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-02, 17:26:59",
+      "https://lobste.rs/s/mi9xrw/pep_661_sentinel_values_accepted_5_years"
+    ],
+    [
+      "PEP 661 – Sentinel Values, accepted 5 years later",
+      "https://peps.python.org/pep-0661/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 17:05:19",
+      "https://lobste.rs/s/ncngka/what_fun_websites_do_you_know"
+    ],
+    [
+      "What fun websites do you know?",
+      "https://lobste.rs/s/ncngka/what_fun_websites_do_you_know"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 16:34:51",
       "https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-05-01, 18:20:04",
-      "https://lobste.rs/s/qdhn90/xitlog_patch_based_merging_is_now_enabled"
-    ],
-    [
-      "XITLOG - patch-based merging is now enabled by default",
-      "https://xit-vcs.github.io/xitlog/devlog-patch-merge-default.html"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 17:17:13",
       "https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust"
     ],
     [
       "combat LLM spam by building a web of trust",
       "https://blog.tangled.org/vouching/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 15:14:22",
-      "https://lobste.rs/s/tkcood/progressive_web_components"
-    ],
-    [
-      "Progressive Web Components",
-      "https://arielsalminen.com/2026/progressive-web-components/"
     ]
   ],
   [
