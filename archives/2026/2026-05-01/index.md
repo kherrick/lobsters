@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-01](index.md)
 
+* [2026-05-01, 22:19:27](https://lobste.rs/s/lplm9j/finding_rce_my_old_tp_link_router) - [Finding a RCE in my old TP-Link router](https://mrbruh.com/tplink/)
 * [2026-05-01, 21:00:24](https://lobste.rs/s/h3q3ku/canonical_is_under_attack) - [Canonical is under attack](https://status.canonical.com/)
 * [2026-05-01, 20:56:02](https://lobste.rs/s/hb9tdr/inverse_sapir_whorf_programming) - [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
 * [2026-05-01, 20:00:59](https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines) - [Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)](https://pu.dev)
