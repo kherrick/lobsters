@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 10:42:15](https://lobste.rs/s/le8yxh/programmer_s_guide_common_lisp_1987) - [A Programmer's Guide to COMMON LISP (1987)](https://archive.org/details/a-programmers-guide-to-common-lisp)
+* [2026-05-02, 10:29:49](https://lobste.rs/s/jtzbv8/protect_your_shed) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
+* [2026-05-02, 10:23:22](https://lobste.rs/s/rz9ayu/fast16_high_precision_software_sabotage) - [fast16 | High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/)
+* [2026-05-02, 10:17:09](https://lobste.rs/s/quulrs/why_tuis_are_back) - [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-02, 09:19:04](https://lobste.rs/s/scz8vc/adventures_not_building_3g_umts_rncs) - [Adventures not building 3G UMTS RNCs](https://nickvsnetworking.com/adventures-not-building-3g-umts-rncs/)
-* [2026-05-02, 08:24:17](https://lobste.rs/s/q54gzh/chacha20_brainfuck) - [ChaCha20 in Brainfuck](https://mid.net.ua/posts/bfchacha.html)
 * [2026-05-02, 06:39:18](https://lobste.rs/s/miwd1w/i_do_not_recommend_bitwarden) - [I Do Not Recommend Bitwarden](https://マリウス.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 06:33:50](https://lobste.rs/s/gm1hcc/stackless_coroutines_for_gamedev_200) - [stackless coroutines for gamedev in ~200 lines of C++](https://vittorioromeo.com/index/blog/sfex_coroutine.html)
 * [2026-05-02, 04:57:24](https://lobste.rs/s/yhhh4j/architect_s_instinct) - [The Architect's Instinct](https://webframp.com/posts/architects-instinct/)
@@ -17,14 +20,11 @@
 * [2026-05-01, 15:14:22](https://lobste.rs/s/tkcood/progressive_web_components) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-05-01, 14:24:27](https://lobste.rs/s/havzoc/micro_benchmarks_don_t_tell_whole_story) - [micro-benchmarks don’t tell the whole story](https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/)
 * [2026-05-01, 14:22:46](https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code) - [Why I Don’t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
-* [2026-05-01, 13:43:22](https://lobste.rs/s/idjbqh/what_even_is_ecma_part_1) - [What even is Ecma? (Part 1)](https://www.ryzokuken.dev/blog/about-ecma-1/)
 * [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
-* [2026-05-01, 12:08:30](https://lobste.rs/s/ckczrr/typing_your_django_project_2026) - [Typing Your Django Project in 2026](https://blog.pecar.me/typing-your-django-project-in-2026/)
 * [2026-05-01, 10:11:37](https://lobste.rs/s/kyuax8/shigeru_miyamoto_has_probably_never) - [Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you](https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/)
 * [2026-05-01, 06:49:12](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend)
 * [2026-05-01, 00:34:31](https://lobste.rs/s/uch4e0/porting_microgpt_futhark_part_i) - [Porting microgpt to Futhark, Part I](https://www.kmjn.org/notes/microgpt_futhark.html)
 * [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
-* [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gcc_16_release_series_changes_new) - [GCC 16 Release Series: Changes, New Features, and Fixes](https://gcc.gnu.org/gcc-16/changes.html)
 
 ## [Archives](archives/index.md)
 
