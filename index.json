@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-02, 13:00:31",
+      "https://lobste.rs/s/n7ypui/openloco_version_26_04"
+    ],
+    [
+      "OpenLoco version 26.04",
+      "https://openloco.io/news/2026/04/openloco-v26.04.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 12:34:13",
+      "https://lobste.rs/s/3gnkeu/letter_from_dijkstra_on_apl_1982"
+    ],
+    [
+      "A Letter from Dijkstra on APL(1982)",
+      "https://www.jsoftware.com/papers/Dijkstra_Letter.htm"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 12:25:14",
+      "https://lobste.rs/s/ebqqq8/kirigami_forms_configurations"
+    ],
+    [
+      "Kirigami forms and configurations",
+      "https://notmart.org/blog/2026/04/kirigami-forms-and-configurations/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 12:18:38",
+      "https://lobste.rs/s/aunywc/screw_you_realtek"
+    ],
+    [
+      "Screw you Realtek",
+      "https://www.growse.com/2026/05/02/screw-you-realtek.html"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 10:42:15",
       "https://lobste.rs/s/le8yxh/programmer_s_guide_common_lisp_1987"
     ],
@@ -27,16 +67,6 @@
     [
       "fast16 | High-Precision Software Sabotage 5 Years Before Stuxnet",
       "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 10:22:34",
-      "https://lobste.rs/s/b39dpz/project_wycheproof_tests_crypto"
-    ],
-    [
-      "Project Wycheproof tests crypto libraries against known attacks",
-      "https://github.com/C2SP/wycheproof"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-05-01, 14:24:27",
-      "https://lobste.rs/s/havzoc/micro_benchmarks_don_t_tell_whole_story"
-    ],
-    [
-      "micro-benchmarks don’t tell the whole story",
-      "https://hyper.dev/2026/chez-scheme-letloop-transparent-async-microbenchmark/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 14:22:46",
       "https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-05-01, 10:11:37",
-      "https://lobste.rs/s/kyuax8/shigeru_miyamoto_has_probably_never"
-    ],
-    [
-      "Shigeru Miyamoto has probably never compiled a line of code in his life and is still a better coder than most of you",
-      "https://indiepixel.de/blog/posts/shigeru-miyamoto-has-probably-never-compiled-a-line-of-code-in-his-life-and-is-still-a-better-coder-than-most-of-you/"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 06:49:12",
       "https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend"
     ],
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 00:34:31",
-      "https://lobste.rs/s/uch4e0/porting_microgpt_futhark_part_i"
-    ],
-    [
-      "Porting microgpt to Futhark, Part I",
-      "https://www.kmjn.org/notes/microgpt_futhark.html"
     ]
   ],
   [
