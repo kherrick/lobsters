@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-02, 09:19:04",
+      "https://lobste.rs/s/scz8vc/adventures_not_building_3g_umts_rncs"
+    ],
+    [
+      "Adventures not building 3G UMTS RNCs",
+      "https://nickvsnetworking.com/adventures-not-building-3g-umts-rncs/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 08:24:17",
       "https://lobste.rs/s/q54gzh/chacha20_brainfuck"
     ],
@@ -237,16 +247,6 @@
     [
       "GCC 16 Release Series: Changes, New Features, and Fixes",
       "https://gcc.gnu.org/gcc-16/changes.html"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 14:54:15",
-      "https://lobste.rs/s/lvr02w/you_can_beat_binary_search"
-    ],
-    [
-      "You can beat the binary search",
-      "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/"
     ]
   ]
 ]
