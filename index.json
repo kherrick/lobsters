@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2026-05-01, 20:00:59",
-      "https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines"
-    ],
-    [
-      "Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)",
-      "https://pu.dev"
-    ]
-  ],
-  [
-    [
       "2026-05-01, 19:33:44",
       "https://lobste.rs/s/iz1rct/palantir_workers_are_finally_noticing"
     ],
@@ -247,6 +237,16 @@
     [
       "Mozilla's position on the Prompt API",
       "https://mastodon.social/@firefoxwebdevs/116492853483021978"
+    ]
+  ],
+  [
+    [
+      "2026-04-29, 16:12:55",
+      "https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban"
+    ],
+    [
+      "Contributor Poker and Zig's AI Ban",
+      "https://kristoff.it/blog/contributor-poker-and-ai/"
     ]
   ]
 ]
