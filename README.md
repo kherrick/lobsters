@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 19:49:07](https://lobste.rs/s/vk8as6/fabrica_terminal_based_minimal_coding) - [fabrica - A terminal-based minimal coding agent harness](https://github.com/Endi1/fabrica)
 * [2026-05-02, 18:41:09](https://lobste.rs/s/imuls4/age_fast_food) - [The age of fast food](https://www.abareplace.com/blog/ai_fastfood/)
 * [2026-05-02, 18:13:57](https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source) - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
 * [2026-05-02, 17:57:43](https://lobste.rs/s/s1yqiu/debian_adds_spf_record_debian_org) - [Debian adds an SPF record to debian.org](https://lists.debian.org/debian-devel-announce/2026/04/msg00010.html)
@@ -15,7 +16,6 @@
 * [2026-05-02, 10:42:15](https://lobste.rs/s/le8yxh/programmer_s_guide_common_lisp_1987) - [A Programmer's Guide to COMMON LISP (1987)](https://archive.org/details/a-programmers-guide-to-common-lisp)
 * [2026-05-02, 10:29:49](https://lobste.rs/s/jtzbv8/protect_your_shed) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
 * [2026-05-02, 10:23:22](https://lobste.rs/s/rz9ayu/fast16_high_precision_software_sabotage) - [fast16 | High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/)
-* [2026-05-02, 10:22:34](https://lobste.rs/s/b39dpz/project_wycheproof_tests_crypto) - [Project Wycheproof tests crypto libraries against known attacks](https://github.com/C2SP/wycheproof)
 * [2026-05-02, 10:17:09](https://lobste.rs/s/quulrs/why_tuis_are_back) - [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-02, 06:39:18](https://lobste.rs/s/miwd1w/i_do_not_recommend_bitwarden) - [I Do Not Recommend Bitwarden](https://マリウス.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 06:33:50](https://lobste.rs/s/gm1hcc/stackless_coroutines_for_gamedev_200) - [stackless coroutines for gamedev in ~200 lines of C++](https://vittorioromeo.com/index/blog/sfex_coroutine.html)
