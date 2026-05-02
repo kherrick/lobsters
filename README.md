@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-02, 22:11:49](https://lobste.rs/s/bzltqt/c3_blog_unsigned_sizes_five_year_mistake) - [C3 | Blog | Unsigned sizes: a five year mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
+* [2026-05-02, 22:11:49](https://lobste.rs/s/bzltqt/unsigned_sizes_five_year_mistake) - [Unsigned sizes: a five year mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 * [2026-05-02, 22:06:04](https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
 * [2026-05-02, 21:04:50](https://lobste.rs/s/5knn5x/onionlink_2_5k_lines_c_connect_v3_onion) - [onionlink: 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS](https://github.com/h2337/onionlink)
 * [2026-05-02, 19:49:07](https://lobste.rs/s/vk8as6/fabrica_terminal_based_minimal_coding) - [fabrica - A terminal-based minimal coding agent harness](https://github.com/Endi1/fabrica)
