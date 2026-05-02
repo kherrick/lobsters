@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 22:11:49](https://lobste.rs/s/bzltqt/c3_blog_unsigned_sizes_five_year_mistake) - [C3 | Blog | Unsigned sizes: a five year mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
+* [2026-05-02, 22:06:04](https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
 * [2026-05-02, 21:04:50](https://lobste.rs/s/5knn5x/onionlink_2_5k_lines_c_connect_v3_onion) - [onionlink: 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS](https://github.com/h2337/onionlink)
 * [2026-05-02, 19:49:07](https://lobste.rs/s/vk8as6/fabrica_terminal_based_minimal_coding) - [fabrica - A terminal-based minimal coding agent harness](https://github.com/Endi1/fabrica)
 * [2026-05-02, 18:41:09](https://lobste.rs/s/imuls4/age_fast_food) - [The age of fast food](https://www.abareplace.com/blog/ai_fastfood/)
@@ -9,7 +11,6 @@
 * [2026-05-02, 17:05:19](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know) - [What fun websites do you know?](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know)
 * [2026-05-02, 16:34:51](https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out) - [Agentic Coding is Burning Me Out](https://0xsid.com/blog/agentic-coding-fatigue)
 * [2026-05-02, 14:17:11](https://lobste.rs/s/a0jdo0/servers_with_personality) - [Servers with Personality](https://caolan.uk/links/servers/)
-* [2026-05-02, 12:59:53](https://lobste.rs/s/c2xlzf/libera_bot_llm_policy_update) - [Libera Bot/LLM policy update](https://libera.chat/news/bot-policy-update)
 * [2026-05-02, 12:34:13](https://lobste.rs/s/3gnkeu/letter_from_dijkstra_on_apl_1982) - [A Letter from Dijkstra on APL(1982)](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 * [2026-05-02, 12:25:14](https://lobste.rs/s/ebqqq8/kirigami_forms_configurations) - [Kirigami forms and configurations](https://notmart.org/blog/2026/04/kirigami-forms-and-configurations/)
 * [2026-05-02, 12:18:38](https://lobste.rs/s/aunywc/screw_you_realtek) - [Screw you Realtek](https://www.growse.com/2026/05/02/screw-you-realtek.html)
@@ -24,7 +25,6 @@
 * [2026-05-01, 20:56:02](https://lobste.rs/s/hb9tdr/inverse_sapir_whorf_programming) - [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
 * [2026-05-01, 17:17:13](https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust) - [combat LLM spam by building a web of trust](https://blog.tangled.org/vouching/)
 * [2026-05-01, 14:22:46](https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code) - [Why I Don’t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
-* [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
 
 ## [Archives](archives/index.md)
 
