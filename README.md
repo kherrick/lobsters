@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 14:19:39](https://lobste.rs/s/pcrluk/testing_vue_components_browser) - [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/)
+* [2026-05-02, 14:17:11](https://lobste.rs/s/a0jdo0/servers_with_personality) - [Servers with Personality](https://caolan.uk/links/servers/)
 * [2026-05-02, 13:00:31](https://lobste.rs/s/n7ypui/openloco_version_26_04) - [OpenLoco version 26.04](https://openloco.io/news/2026/04/openloco-v26.04.html)
 * [2026-05-02, 12:34:13](https://lobste.rs/s/3gnkeu/letter_from_dijkstra_on_apl_1982) - [A Letter from Dijkstra on APL(1982)](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 * [2026-05-02, 12:25:14](https://lobste.rs/s/ebqqq8/kirigami_forms_configurations) - [Kirigami forms and configurations](https://notmart.org/blog/2026/04/kirigami-forms-and-configurations/)
@@ -7,10 +9,10 @@
 * [2026-05-02, 10:42:15](https://lobste.rs/s/le8yxh/programmer_s_guide_common_lisp_1987) - [A Programmer's Guide to COMMON LISP (1987)](https://archive.org/details/a-programmers-guide-to-common-lisp)
 * [2026-05-02, 10:29:49](https://lobste.rs/s/jtzbv8/protect_your_shed) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
 * [2026-05-02, 10:23:22](https://lobste.rs/s/rz9ayu/fast16_high_precision_software_sabotage) - [fast16 | High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/)
+* [2026-05-02, 10:22:34](https://lobste.rs/s/b39dpz/project_wycheproof_tests_crypto) - [Project Wycheproof tests crypto libraries against known attacks](https://github.com/C2SP/wycheproof)
 * [2026-05-02, 10:17:09](https://lobste.rs/s/quulrs/why_tuis_are_back) - [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-02, 06:39:18](https://lobste.rs/s/miwd1w/i_do_not_recommend_bitwarden) - [I Do Not Recommend Bitwarden](https://マリウス.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 06:33:50](https://lobste.rs/s/gm1hcc/stackless_coroutines_for_gamedev_200) - [stackless coroutines for gamedev in ~200 lines of C++](https://vittorioromeo.com/index/blog/sfex_coroutine.html)
-* [2026-05-02, 04:57:24](https://lobste.rs/s/yhhh4j/architect_s_instinct) - [The Architect's Instinct](https://webframp.com/posts/architects-instinct/)
 * [2026-05-02, 04:49:00](https://lobste.rs/s/ixqnxw/reducing_ml_kem_768_encapsulation_key) - [Reducing ML-KEM-768 encapsulation key sizes by 24 octets](https://runxiyu.org/comp/mlkem768pack/)
 * [2026-05-02, 00:31:22](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend) - [What Conferences are You Excited to Attend in the Next 12 Months?](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend)
 * [2026-05-01, 22:19:27](https://lobste.rs/s/lplm9j/finding_rce_my_old_tp_link_router) - [Finding a RCE in my old TP-Link router](https://mrbruh.com/tplink/)
@@ -23,8 +25,6 @@
 * [2026-05-01, 15:14:22](https://lobste.rs/s/tkcood/progressive_web_components) - [Progressive Web Components](https://arielsalminen.com/2026/progressive-web-components/)
 * [2026-05-01, 14:22:46](https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code) - [Why I Don’t Vibe Code](https://jacobharr.is/personal/i-dont-vibe-code)
 * [2026-05-01, 12:10:28](https://lobste.rs/s/x8z1yc/life_update_from_zach_oakes_zig_ai) - [A life update from Zach Oakes: Zig, AI, unemployment, and more](https://www.youtube.com/watch?v=DhhPUrizZcw)
-* [2026-05-01, 06:49:12](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend)
-* [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
 
 ## [Archives](archives/index.md)
 
