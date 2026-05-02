@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-02, 14:19:39",
+      "https://lobste.rs/s/pcrluk/testing_vue_components_browser"
+    ],
+    [
+      "Testing Vue components in the browser",
+      "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 14:17:11",
+      "https://lobste.rs/s/a0jdo0/servers_with_personality"
+    ],
+    [
+      "Servers with Personality",
+      "https://caolan.uk/links/servers/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 13:00:31",
       "https://lobste.rs/s/n7ypui/openloco_version_26_04"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2026-05-02, 10:22:34",
+      "https://lobste.rs/s/b39dpz/project_wycheproof_tests_crypto"
+    ],
+    [
+      "Project Wycheproof tests crypto libraries against known attacks",
+      "https://github.com/C2SP/wycheproof"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 10:17:09",
       "https://lobste.rs/s/quulrs/why_tuis_are_back"
     ],
@@ -97,16 +127,6 @@
     [
       "stackless coroutines for gamedev in ~200 lines of C++",
       "https://vittorioromeo.com/index/blog/sfex_coroutine.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 04:57:24",
-      "https://lobste.rs/s/yhhh4j/architect_s_instinct"
-    ],
-    [
-      "The Architect's Instinct",
-      "https://webframp.com/posts/architects-instinct/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "A life update from Zach Oakes: Zig, AI, unemployment, and more",
       "https://www.youtube.com/watch?v=DhhPUrizZcw"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 06:49:12",
-      "https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 23:11:52",
-      "https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github"
-    ],
-    [
-      "If I Could Make My Own GitHub",
-      "https://matduggan.com/if-i-could-make-my-own-github/"
     ]
   ]
 ]
