@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 09:19:04](https://lobste.rs/s/scz8vc/adventures_not_building_3g_umts_rncs) - [Adventures not building 3G UMTS RNCs](https://nickvsnetworking.com/adventures-not-building-3g-umts-rncs/)
 * [2026-05-02, 08:24:17](https://lobste.rs/s/q54gzh/chacha20_brainfuck) - [ChaCha20 in Brainfuck](https://mid.net.ua/posts/bfchacha.html)
 * [2026-05-02, 06:39:18](https://lobste.rs/s/miwd1w/i_do_not_recommend_bitwarden) - [I Do Not Recommend Bitwarden](https://マリウス.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 06:33:50](https://lobste.rs/s/gm1hcc/stackless_coroutines_for_gamedev_200) - [stackless coroutines for gamedev in ~200 lines of C++](https://vittorioromeo.com/index/blog/sfex_coroutine.html)
@@ -24,7 +25,6 @@
 * [2026-05-01, 00:34:31](https://lobste.rs/s/uch4e0/porting_microgpt_futhark_part_i) - [Porting microgpt to Futhark, Part I](https://www.kmjn.org/notes/microgpt_futhark.html)
 * [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
 * [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gcc_16_release_series_changes_new) - [GCC 16 Release Series: Changes, New Features, and Fixes](https://gcc.gnu.org/gcc-16/changes.html)
-* [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
 
 ## [Archives](archives/index.md)
 
