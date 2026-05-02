@@ -1,9 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 04:57:24](https://lobste.rs/s/yhhh4j/architect_s_instinct) - [The Architect's Instinct](https://webframp.com/posts/architects-instinct/)
+* [2026-05-02, 04:49:00](https://lobste.rs/s/ixqnxw/reducing_ml_kem_768_encapsulation_key) - [Reducing ML-KEM-768 encapsulation key sizes by 24 octets](https://runxiyu.org/comp/mlkem768pack/)
 * [2026-05-02, 00:31:22](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend) - [What Conferences are You Excited to Attend in the Next 12 Months?](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend)
 * [2026-05-01, 22:19:27](https://lobste.rs/s/lplm9j/finding_rce_my_old_tp_link_router) - [Finding a RCE in my old TP-Link router](https://mrbruh.com/tplink/)
 * [2026-05-01, 21:00:24](https://lobste.rs/s/h3q3ku/canonical_is_under_attack) - [Canonical is under attack](https://status.canonical.com/)
 * [2026-05-01, 20:56:02](https://lobste.rs/s/hb9tdr/inverse_sapir_whorf_programming) - [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
+* [2026-05-01, 20:00:59](https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines) - [Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)](https://pu.dev)
 * [2026-05-01, 19:33:44](https://lobste.rs/s/iz1rct/palantir_workers_are_finally_noticing) - [Palantir Workers Are Finally Noticing The Skulls On Their Caps](https://www.techdirt.com/2026/04/30/palantir-workers-are-finally-noticing-the-skulls-on-their-caps/)
 * [2026-05-01, 18:20:04](https://lobste.rs/s/qdhn90/xitlog_patch_based_merging_is_now_enabled) - [XITLOG - patch-based merging is now enabled by default](https://xit-vcs.github.io/xitlog/devlog-patch-merge-default.html)
 * [2026-05-01, 17:17:13](https://lobste.rs/s/kghyn5/combat_llm_spam_by_building_web_trust) - [combat LLM spam by building a web of trust](https://blog.tangled.org/vouching/)
@@ -19,12 +22,9 @@
 * [2026-05-01, 06:49:12](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/sfgjzn/what_are_you_doing_this_weekend)
 * [2026-05-01, 00:34:31](https://lobste.rs/s/uch4e0/porting_microgpt_futhark_part_i) - [Porting microgpt to Futhark, Part I](https://www.kmjn.org/notes/microgpt_futhark.html)
 * [2026-04-30, 23:11:52](https://lobste.rs/s/2ttor3/if_i_could_make_my_own_github) - [If I Could Make My Own GitHub](https://matduggan.com/if-i-could-make-my-own-github/)
-* [2026-04-30, 23:04:30](https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn) - [Android VPN IP Leak Even If Always-On VPN Enabled](https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/)
 * [2026-04-30, 16:56:15](https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer) - [The LLM Is Not a Junior Engineer](https://jacobharr.is/personal/llm-not-junior-engineer)
 * [2026-04-30, 16:08:37](https://lobste.rs/s/zbcg79/gcc_16_release_series_changes_new) - [GCC 16 Release Series: Changes, New Features, and Fixes](https://gcc.gnu.org/gcc-16/changes.html)
 * [2026-04-30, 14:54:15](https://lobste.rs/s/lvr02w/you_can_beat_binary_search) - [You can beat the binary search](https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/)
-* [2026-04-30, 09:30:52](https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api) - [Mozilla's position on the Prompt API](https://mastodon.social/@firefoxwebdevs/116492853483021978)
-* [2026-04-29, 16:12:55](https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban) - [Contributor Poker and Zig's AI Ban](https://kristoff.it/blog/contributor-poker-and-ai/)
 
 ## [Archives](archives/index.md)
 
