@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 16:34:51](https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out) - [Agentic Coding is Burning Me Out](https://0xsid.com/blog/agentic-coding-fatigue)
+* [2026-05-02, 16:26:40](https://lobste.rs/s/areye8/ansible_playbook_mitigate_copy_fail) - [An ansible playbook to mitigate the copy-fail vulnerability](https://gist.github.com/crodjer/9726b30887a9e2ed37ad2d0385bd5b91)
 * [2026-05-02, 14:19:39](https://lobste.rs/s/pcrluk/testing_vue_components_browser) - [Testing Vue components in the browser](https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/)
 * [2026-05-02, 14:17:11](https://lobste.rs/s/a0jdo0/servers_with_personality) - [Servers with Personality](https://caolan.uk/links/servers/)
 * [2026-05-02, 13:00:31](https://lobste.rs/s/n7ypui/openloco_version_26_04) - [OpenLoco version 26.04](https://openloco.io/news/2026/04/openloco-v26.04.html)
