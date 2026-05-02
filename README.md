@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-02, 21:04:50](https://lobste.rs/s/5knn5x/onionlink_2_5k_lines_c_connect_v3_onion) - [onionlink: 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS](https://github.com/h2337/onionlink)
 * [2026-05-02, 19:49:07](https://lobste.rs/s/vk8as6/fabrica_terminal_based_minimal_coding) - [fabrica - A terminal-based minimal coding agent harness](https://github.com/Endi1/fabrica)
 * [2026-05-02, 18:41:09](https://lobste.rs/s/imuls4/age_fast_food) - [The age of fast food](https://www.abareplace.com/blog/ai_fastfood/)
 * [2026-05-02, 18:13:57](https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source) - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
@@ -8,7 +9,6 @@
 * [2026-05-02, 17:05:19](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know) - [What fun websites do you know?](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know)
 * [2026-05-02, 16:34:51](https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out) - [Agentic Coding is Burning Me Out](https://0xsid.com/blog/agentic-coding-fatigue)
 * [2026-05-02, 14:17:11](https://lobste.rs/s/a0jdo0/servers_with_personality) - [Servers with Personality](https://caolan.uk/links/servers/)
-* [2026-05-02, 13:00:31](https://lobste.rs/s/n7ypui/openloco_version_26_04) - [OpenLoco version 26.04](https://openloco.io/news/2026/04/openloco-v26.04.html)
 * [2026-05-02, 12:59:53](https://lobste.rs/s/c2xlzf/libera_bot_llm_policy_update) - [Libera Bot/LLM policy update](https://libera.chat/news/bot-policy-update)
 * [2026-05-02, 12:34:13](https://lobste.rs/s/3gnkeu/letter_from_dijkstra_on_apl_1982) - [A Letter from Dijkstra on APL(1982)](https://www.jsoftware.com/papers/Dijkstra_Letter.htm)
 * [2026-05-02, 12:25:14](https://lobste.rs/s/ebqqq8/kirigami_forms_configurations) - [Kirigami forms and configurations](https://notmart.org/blog/2026/04/kirigami-forms-and-configurations/)
