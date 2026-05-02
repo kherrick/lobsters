@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 18:19:18](https://lobste.rs/s/rlbrog/videolan_publishes_dav2d_for_open_source) - [VideoLAN Publishes Dav2d For Open-Source AV2 Decoder](https://www.phoronix.com/news/Dav2d-Open-Source-AV2-Decode)
+* [2026-05-02, 18:13:57](https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source) - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
+* [2026-05-02, 17:57:43](https://lobste.rs/s/s1yqiu/debian_adds_spf_record_debian_org) - [Debian adds an SPF record to debian.org](https://lists.debian.org/debian-devel-announce/2026/04/msg00010.html)
 * [2026-05-02, 17:26:59](https://lobste.rs/s/mi9xrw/pep_661_sentinel_values_accepted_5_years) - [PEP 661 – Sentinel Values, accepted 5 years later](https://peps.python.org/pep-0661/)
 * [2026-05-02, 17:05:19](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know) - [What fun websites do you know?](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know)
 * [2026-05-02, 16:34:51](https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out) - [Agentic Coding is Burning Me Out](https://0xsid.com/blog/agentic-coding-fatigue)
