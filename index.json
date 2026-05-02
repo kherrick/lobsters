@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-02, 04:57:24",
+      "https://lobste.rs/s/yhhh4j/architect_s_instinct"
+    ],
+    [
+      "The Architect's Instinct",
+      "https://webframp.com/posts/architects-instinct/"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 04:49:00",
+      "https://lobste.rs/s/ixqnxw/reducing_ml_kem_768_encapsulation_key"
+    ],
+    [
+      "Reducing ML-KEM-768 encapsulation key sizes by 24 octets",
+      "https://runxiyu.org/comp/mlkem768pack/"
+    ]
+  ],
+  [
+    [
       "2026-05-02, 00:31:22",
       "https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend"
     ],
@@ -37,6 +57,16 @@
     [
       "Inverse Sapir-Whorf and programming languages",
       "https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/"
+    ]
+  ],
+  [
+    [
+      "2026-05-01, 20:00:59",
+      "https://lobste.rs/s/spicjg/pu_sh_full_coding_agent_harness_400_lines"
+    ],
+    [
+      "Pu.sh – a full coding-agent harness in 400 lines of shell (pu.dev)",
+      "https://pu.dev"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-04-30, 23:04:30",
-      "https://lobste.rs/s/31gbt3/android_vpn_ip_leak_even_if_always_on_vpn"
-    ],
-    [
-      "Android VPN IP Leak Even If Always-On VPN Enabled",
-      "https://lowlevel.fun/posts/tiny-udp-cannon-android-vpn-bypass/"
-    ]
-  ],
-  [
-    [
       "2026-04-30, 16:56:15",
       "https://lobste.rs/s/rhsst0/llm_is_not_junior_engineer"
     ],
@@ -227,26 +247,6 @@
     [
       "You can beat the binary search",
       "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/"
-    ]
-  ],
-  [
-    [
-      "2026-04-30, 09:30:52",
-      "https://lobste.rs/s/pcymmp/mozilla_s_position_on_prompt_api"
-    ],
-    [
-      "Mozilla's position on the Prompt API",
-      "https://mastodon.social/@firefoxwebdevs/116492853483021978"
-    ]
-  ],
-  [
-    [
-      "2026-04-29, 16:12:55",
-      "https://lobste.rs/s/ifcyr1/contributor_poker_zig_s_ai_ban"
-    ],
-    [
-      "Contributor Poker and Zig's AI Ban",
-      "https://kristoff.it/blog/contributor-poker-and-ai/"
     ]
   ]
 ]
