@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-02, 14:19:39",
-      "https://lobste.rs/s/pcrluk/testing_vue_components_browser"
+      "2026-05-02, 16:34:51",
+      "https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out"
     ],
     [
-      "Testing Vue components in the browser",
-      "https://jvns.ca/blog/2026/05/02/testing-vue-components-in-the-browser/"
+      "Agentic Coding is Burning Me Out",
+      "https://0xsid.com/blog/agentic-coding-fatigue"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 16:26:40",
+      "https://lobste.rs/s/areye8/ansible_playbook_mitigate_copy_fail"
+    ],
+    [
+      "An ansible playbook to mitigate the copy-fail vulnerability",
+      "https://gist.github.com/crodjer/9726b30887a9e2ed37ad2d0385bd5b91"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "What Conferences are You Excited to Attend in the Next 12 Months?",
       "https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 22:19:27",
-      "https://lobste.rs/s/lplm9j/finding_rce_my_old_tp_link_router"
-    ],
-    [
-      "Finding a RCE in my old TP-Link router",
-      "https://mrbruh.com/tplink/"
     ]
   ],
   [
