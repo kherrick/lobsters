@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-02](index.md)
 
+* [2026-05-02, 18:41:09](https://lobste.rs/s/imuls4/age_fast_food) - [The age of fast food](https://www.abareplace.com/blog/ai_fastfood/)
 * [2026-05-02, 18:19:18](https://lobste.rs/s/rlbrog/videolan_publishes_dav2d_for_open_source) - [VideoLAN Publishes Dav2d For Open-Source AV2 Decoder](https://www.phoronix.com/news/Dav2d-Open-Source-AV2-Decode)
 * [2026-05-02, 18:13:57](https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source) - [NHS Goes To War Against Open Source](https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/)
 * [2026-05-02, 17:57:43](https://lobste.rs/s/s1yqiu/debian_adds_spf_record_debian_org) - [Debian adds an SPF record to debian.org](https://lists.debian.org/debian-devel-announce/2026/04/msg00010.html)
