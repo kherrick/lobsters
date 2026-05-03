@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-03, 07:59:44](https://lobste.rs/s/85wpyb/quickheap_fastest_comparison_based_heap) - [Quickheap: the fastest comparison-based heap?](https://curiouscoding.nl/posts/quickheap/)
+* [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
+* [2026-05-03, 08:46:07](https://lobste.rs/s/qbfu36/toptout) - [Toptout](https://toptout.me/)
 * [2026-05-03, 06:52:34](https://lobste.rs/s/bnfmcw/testing_macos_on_apple_network_server_2_0) - [Testing MacOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
 * [2026-05-03, 04:18:45](https://lobste.rs/s/jmxtiq/nethack_5_0_0_released) - [NetHack 5.0.0 Released](https://github.com/NetHack/NetHack/releases/tag/NetHack-5.0.0_Released)
 * [2026-05-03, 03:26:59](https://lobste.rs/s/crcktq/adding_author_context_rss) - [Adding author context to RSS](https://coywolf.com/notes/adding-author-context-to-rss/)
@@ -19,7 +20,6 @@
 * [2026-05-02, 16:34:51](https://lobste.rs/s/k3delj/agentic_coding_is_burning_me_out) - [Agentic Coding is Burning Me Out](https://0xsid.com/blog/agentic-coding-fatigue)
 * [2026-05-02, 14:17:11](https://lobste.rs/s/a0jdo0/servers_with_personality) - [Servers with Personality](https://caolan.uk/links/servers/)
 * [2026-05-02, 12:18:38](https://lobste.rs/s/aunywc/screw_you_realtek) - [Screw you Realtek](https://www.growse.com/2026/05/02/screw-you-realtek.html)
-* [2026-05-02, 10:29:49](https://lobste.rs/s/jtzbv8/protect_your_shed) - [Protect Your Shed](https://dylanbutler.dev/blog/protect-your-shed/)
 * [2026-05-02, 10:17:09](https://lobste.rs/s/quulrs/why_tuis_are_back) - [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-02, 06:39:18](https://lobste.rs/s/miwd1w/i_do_not_recommend_bitwarden) - [I Do Not Recommend Bitwarden](https://マリウス.com/i-do-not-recommend-bitwarden/)
 * [2026-05-02, 00:31:22](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend) - [What Conferences are You Excited to Attend in the Next 12 Months?](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend)

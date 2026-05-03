@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
+* [2026-05-03, 08:46:07](https://lobste.rs/s/qbfu36/toptout) - [Toptout](https://toptout.me/)
 * [2026-05-03, 07:59:44](https://lobste.rs/s/85wpyb/quickheap_fastest_comparison_based_heap) - [Quickheap: the fastest comparison-based heap?](https://curiouscoding.nl/posts/quickheap/)
 * [2026-05-03, 06:52:34](https://lobste.rs/s/bnfmcw/testing_macos_on_apple_network_server_2_0) - [Testing MacOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
 * [2026-05-03, 04:18:45](https://lobste.rs/s/jmxtiq/nethack_5_0_0_released) - [NetHack 5.0.0 Released](https://github.com/NetHack/NetHack/releases/tag/NetHack-5.0.0_Released)
