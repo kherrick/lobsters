@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-05-03, 15:21:24",
+      "https://lobste.rs/s/a2mdys/c8s_confidential_kubernetes"
+    ],
+    [
+      "C8s: A Confidential Kubernetes Architecture",
+      "https://arxiv.org/abs/2604.26974"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 14:49:25",
       "https://lobste.rs/s/klw6bu/desktop_made_for_one"
     ],
@@ -57,16 +67,6 @@
     [
       "The text mode lie: why modern TUIs are a nightmare for accessibility",
       "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 10:57:37",
-      "https://lobste.rs/s/ypm74r/losrs_spaced_repetition_terminal_with"
-    ],
-    [
-      "Losrs - Spaced Repetition in the terminal with markdown cards",
-      "https://github.com/blin/losrs"
     ]
   ],
   [
