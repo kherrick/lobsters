@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-05-03, 15:21:24",
+      "https://lobste.rs/s/a2mdys/c8s_confidential_kubernetes"
+    ],
+    [
+      "C8s: A Confidential Kubernetes Architecture",
+      "https://arxiv.org/abs/2604.26974"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 14:49:25",
+      "https://lobste.rs/s/klw6bu/desktop_made_for_one"
+    ],
+    [
+      "A desktop made for one",
+      "https://isene.org/2026/05/Audience-of-One.html"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 13:59:30",
       "https://lobste.rs/s/pwwn0j/git_async_web_demo_git_browser_browser"
     ],
     [
       "git-async web demo - A git browser in the browser",
       "https://git-async.donk.systems/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 13:50:54",
-      "https://lobste.rs/s/cfgtdp/minimal_viable_zig_error_contexts"
-    ],
-    [
-      "Minimal Viable Zig Error Contexts",
-      "https://matklad.github.io/2026/05/03/zig-error-context.html"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "pgBackRest is dead. Now what?",
       "https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 08:46:07",
+      "https://lobste.rs/s/qbfu36/toptout"
+    ],
+    [
+      "Toptout",
+      "https://toptout.me/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-02, 17:57:43",
-      "https://lobste.rs/s/s1yqiu/debian_adds_spf_record_debian_org"
-    ],
-    [
-      "Debian adds an SPF record to debian.org",
-      "https://lists.debian.org/debian-devel-announce/2026/04/msg00010.html"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 17:26:59",
       "https://lobste.rs/s/mi9xrw/pep_661_sentinel_values_accepted_5_years"
     ],
@@ -197,16 +207,6 @@
     [
       "Agentic Coding is Burning Me Out",
       "https://0xsid.com/blog/agentic-coding-fatigue"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 14:17:11",
-      "https://lobste.rs/s/a0jdo0/servers_with_personality"
-    ],
-    [
-      "Servers with Personality",
-      "https://caolan.uk/links/servers/"
     ]
   ],
   [
