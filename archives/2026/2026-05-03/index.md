@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 10:57:37](https://lobste.rs/s/ypm74r/losrs_spaced_repetition_terminal_with) - [Losrs - Spaced Repetition in the terminal with markdown cards](https://github.com/blin/losrs)
+* [2026-05-03, 10:06:50](https://lobste.rs/s/nthsyb/git_stupid_content_tracker) - [GIT - the stupid content tracker](https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 * [2026-05-03, 08:46:07](https://lobste.rs/s/qbfu36/toptout) - [Toptout](https://toptout.me/)
 * [2026-05-03, 07:59:44](https://lobste.rs/s/85wpyb/quickheap_fastest_comparison_based_heap) - [Quickheap: the fastest comparison-based heap?](https://curiouscoding.nl/posts/quickheap/)
