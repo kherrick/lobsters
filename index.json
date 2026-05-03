@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-03, 04:18:45",
+      "https://lobste.rs/s/jmxtiq/nethack_5_0_0_released"
+    ],
+    [
+      "NetHack 5.0.0 Released",
+      "https://github.com/NetHack/NetHack/releases/tag/NetHack-5.0.0_Released"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 03:26:59",
+      "https://lobste.rs/s/crcktq/adding_author_context_rss"
+    ],
+    [
+      "Adding author context to RSS",
+      "https://coywolf.com/notes/adding-author-context-to-rss/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 02:40:11",
+      "https://lobste.rs/s/7cwjub/spec_cpu_2026_overview_what_s_new"
+    ],
+    [
+      "SPEC CPU 2026 Overview / What's New?",
+      "https://www.spec.org/auto/cpu2026/Docs/overview.html"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 01:28:31",
       "https://lobste.rs/s/jhuf5a/nethack_5_0_0"
     ],
@@ -17,6 +47,16 @@
     [
       "This Month in Ladybird - April 2026",
       "https://ladybird.org/newsletter/2026-04-30/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 00:35:18",
+      "https://lobste.rs/s/bwppor/github_for_maintainers"
+    ],
+    [
+      "A GitHub for maintainers",
+      "https://nesbitt.io/2026/05/02/a-github-for-maintainers.html"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "onionlink: 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS",
       "https://github.com/h2337/onionlink"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 19:49:07",
-      "https://lobste.rs/s/vk8as6/fabrica_terminal_based_minimal_coding"
-    ],
-    [
-      "fabrica - A terminal-based minimal coding agent harness",
-      "https://github.com/Endi1/fabrica"
     ]
   ],
   [
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2026-05-02, 12:34:13",
-      "https://lobste.rs/s/3gnkeu/letter_from_dijkstra_on_apl_1982"
-    ],
-    [
-      "A Letter from Dijkstra on APL(1982)",
-      "https://www.jsoftware.com/papers/Dijkstra_Letter.htm"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 12:18:38",
       "https://lobste.rs/s/aunywc/screw_you_realtek"
     ],
     [
       "Screw you Realtek",
       "https://www.growse.com/2026/05/02/screw-you-realtek.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 10:42:15",
-      "https://lobste.rs/s/le8yxh/programmer_s_guide_common_lisp_1987"
-    ],
-    [
-      "A Programmer's Guide to COMMON LISP (1987)",
-      "https://archive.org/details/a-programmers-guide-to-common-lisp"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "stackless coroutines for gamedev in ~200 lines of C++",
       "https://vittorioromeo.com/index/blog/sfex_coroutine.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 04:49:00",
-      "https://lobste.rs/s/ixqnxw/reducing_ml_kem_768_encapsulation_key"
-    ],
-    [
-      "Reducing ML-KEM-768 encapsulation key sizes by 24 octets",
-      "https://runxiyu.org/comp/mlkem768pack/"
     ]
   ],
   [
