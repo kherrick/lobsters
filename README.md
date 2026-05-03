@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-03, 13:59:30](https://lobste.rs/s/pwwn0j/git_async_web_demo_git_browser_browser) - [git-async web demo - A git browser in the browser](https://git-async.donk.systems/)
+* [2026-05-03, 13:50:54](https://lobste.rs/s/cfgtdp/minimal_viable_zig_error_contexts) - [Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html)
 * [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 * [2026-05-03, 10:57:37](https://lobste.rs/s/ypm74r/losrs_spaced_repetition_terminal_with) - [Losrs - Spaced Repetition in the terminal with markdown cards](https://github.com/blin/losrs)
 * [2026-05-03, 10:06:50](https://lobste.rs/s/nthsyb/git_stupid_content_tracker) - [GIT - the stupid content tracker](https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
-* [2026-05-03, 08:46:07](https://lobste.rs/s/qbfu36/toptout) - [Toptout](https://toptout.me/)
 * [2026-05-03, 06:52:34](https://lobste.rs/s/bnfmcw/testing_macos_on_apple_network_server_2_0) - [Testing MacOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
 * [2026-05-03, 04:18:45](https://lobste.rs/s/jmxtiq/nethack_5_0_0_released) - [NetHack 5.0.0 Released](https://github.com/NetHack/NetHack/releases/tag/NetHack-5.0.0_Released)
 * [2026-05-03, 03:26:59](https://lobste.rs/s/crcktq/adding_author_context_rss) - [Adding author context to RSS](https://coywolf.com/notes/adding-author-context-to-rss/)
@@ -23,7 +24,6 @@
 * [2026-05-02, 12:18:38](https://lobste.rs/s/aunywc/screw_you_realtek) - [Screw you Realtek](https://www.growse.com/2026/05/02/screw-you-realtek.html)
 * [2026-05-02, 10:17:09](https://lobste.rs/s/quulrs/why_tuis_are_back) - [Why TUIs are back](https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/)
 * [2026-05-02, 06:39:18](https://lobste.rs/s/miwd1w/i_do_not_recommend_bitwarden) - [I Do Not Recommend Bitwarden](https://マリウス.com/i-do-not-recommend-bitwarden/)
-* [2026-05-02, 00:31:22](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend) - [What Conferences are You Excited to Attend in the Next 12 Months?](https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend)
 * [2026-05-01, 20:56:02](https://lobste.rs/s/hb9tdr/inverse_sapir_whorf_programming) - [Inverse Sapir-Whorf and programming languages](https://lukeplant.me.uk/blog/posts/inverse-sapir-whorf-and-programming-languages/)
 
 ## [Archives](archives/index.md)

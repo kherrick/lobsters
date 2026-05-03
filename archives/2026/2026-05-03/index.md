@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 13:59:30](https://lobste.rs/s/pwwn0j/git_async_web_demo_git_browser_browser) - [git-async web demo - A git browser in the browser](https://git-async.donk.systems/)
+* [2026-05-03, 13:50:54](https://lobste.rs/s/cfgtdp/minimal_viable_zig_error_contexts) - [Minimal Viable Zig Error Contexts](https://matklad.github.io/2026/05/03/zig-error-context.html)
 * [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 * [2026-05-03, 10:57:37](https://lobste.rs/s/ypm74r/losrs_spaced_repetition_terminal_with) - [Losrs - Spaced Repetition in the terminal with markdown cards](https://github.com/blin/losrs)
