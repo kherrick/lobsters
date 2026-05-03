@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2026-05-02, 21:04:50",
-      "https://lobste.rs/s/5knn5x/onionlink_2_5k_lines_c_connect_v3_onion"
-    ],
-    [
-      "onionlink: 2.5k lines of C++ to connect to v3 onion services, using only libsodium and mbedTLS",
-      "https://github.com/h2337/onionlink"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 18:13:57",
       "https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source"
     ],
@@ -187,6 +177,16 @@
     [
       "Agentic Coding is Burning Me Out",
       "https://0xsid.com/blog/agentic-coding-fatigue"
+    ]
+  ],
+  [
+    [
+      "2026-05-02, 14:17:11",
+      "https://lobste.rs/s/a0jdo0/servers_with_personality"
+    ],
+    [
+      "Servers with Personality",
+      "https://caolan.uk/links/servers/"
     ]
   ],
   [
