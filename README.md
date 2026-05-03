@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
 * [2026-05-03, 15:48:56](https://lobste.rs/s/bznmaf/your_container_is_not_sandbox) - [Your Container Is Not a Sandbox](https://emirb.github.io/blog/microvm-2026/)
 * [2026-05-03, 15:21:24](https://lobste.rs/s/a2mdys/c8s_confidential_kubernetes) - [C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974)
 * [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
@@ -11,7 +12,6 @@
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 * [2026-05-03, 08:46:07](https://lobste.rs/s/qbfu36/toptout) - [Toptout](https://toptout.me/)
 * [2026-05-03, 06:52:34](https://lobste.rs/s/bnfmcw/testing_macos_on_apple_network_server_2_0) - [Testing MacOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
-* [2026-05-03, 04:18:45](https://lobste.rs/s/jmxtiq/nethack_5_0_0_released) - [NetHack 5.0.0 Released](https://github.com/NetHack/NetHack/releases/tag/NetHack-5.0.0_Released)
 * [2026-05-03, 03:26:59](https://lobste.rs/s/crcktq/adding_author_context_rss) - [Adding author context to RSS](https://coywolf.com/notes/adding-author-context-to-rss/)
 * [2026-05-03, 01:28:31](https://lobste.rs/s/jhuf5a/nethack_5_0_0) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
 * [2026-05-03, 01:27:10](https://lobste.rs/s/ba3cac/this_month_ladybird_april_2026) - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
