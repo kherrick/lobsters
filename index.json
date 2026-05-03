@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-03, 07:59:44",
+      "https://lobste.rs/s/85wpyb/quickheap_fastest_comparison_based_heap"
+    ],
+    [
+      "Quickheap: the fastest comparison-based heap?",
+      "https://curiouscoding.nl/posts/quickheap/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 06:52:34",
+      "https://lobste.rs/s/bnfmcw/testing_macos_on_apple_network_server_2_0"
+    ],
+    [
+      "Testing MacOS on the Apple Network Server 2.0 ROMs",
+      "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 04:18:45",
       "https://lobste.rs/s/jmxtiq/nethack_5_0_0_released"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-05-02, 06:33:50",
-      "https://lobste.rs/s/gm1hcc/stackless_coroutines_for_gamedev_200"
-    ],
-    [
-      "stackless coroutines for gamedev in ~200 lines of C++",
-      "https://vittorioromeo.com/index/blog/sfex_coroutine.html"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 00:31:22",
       "https://lobste.rs/s/rtnzfj/what_conferences_are_you_excited_attend"
     ],
@@ -237,16 +247,6 @@
     [
       "combat LLM spam by building a web of trust",
       "https://blog.tangled.org/vouching/"
-    ]
-  ],
-  [
-    [
-      "2026-05-01, 14:22:46",
-      "https://lobste.rs/s/vwmojf/why_i_don_t_vibe_code"
-    ],
-    [
-      "Why I Don’t Vibe Code",
-      "https://jacobharr.is/personal/i-dont-vibe-code"
     ]
   ]
 ]
