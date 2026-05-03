@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
+* [2026-05-03, 16:48:53](https://lobste.rs/s/mkwtsj/for_thirty_years_i_programmed_with_phish) - [For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work](https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html)
 * [2026-05-03, 15:48:56](https://lobste.rs/s/bznmaf/your_container_is_not_sandbox) - [Your Container Is Not a Sandbox](https://emirb.github.io/blog/microvm-2026/)
 * [2026-05-03, 15:21:24](https://lobste.rs/s/a2mdys/c8s_confidential_kubernetes) - [C8s: A Confidential Kubernetes Architecture](https://arxiv.org/abs/2604.26974)
 * [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
