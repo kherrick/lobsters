@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-03, 23:59:21",
-      "https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for"
+      "2026-05-04, 03:59:57",
+      "https://lobste.rs/s/60qq1o/designing_microkernel_ipc"
     ],
     [
-      "On (not) using “cryptographic hashes” for hash table keys",
-      "https://runxiyu.org/comp/ch4ht/"
+      "Designing microkernel IPC",
+      "https://seiya.me/blog/microkernel-ipc-design"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 00:30:55",
+      "https://lobste.rs/s/cqomz3/continuing_story_early_dos_development"
+    ],
+    [
+      "Continuing the story of early DOS development",
+      "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "NetHack 5.0.0",
       "https://nethack.org/v500/release.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 01:27:10",
-      "https://lobste.rs/s/ba3cac/this_month_ladybird_april_2026"
-    ],
-    [
-      "This Month in Ladybird - April 2026",
-      "https://ladybird.org/newsletter/2026-04-30/"
     ]
   ],
   [
