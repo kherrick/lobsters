@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
+* [2026-05-04, 19:06:29](https://lobste.rs/s/jh9f2r/release_v0_9_0_foxboron_ssh_tpm_agent) - [Release v0.9.0 · Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0)
 * [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
 * [2026-05-04, 16:38:00](https://lobste.rs/s/2iabwb/thec64_handheld) - [THEC64 Handheld](https://www.c64os.com/post/thec64handheld)
 * [2026-05-04, 15:46:18](https://lobste.rs/s/onby0z/byline_structured_identity_for) - [Byline: Structured Identity for Syndication Feeds](https://www.bylinespec.org/)
