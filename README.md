@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-03, 23:59:21](https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for) - [On (not) using “cryptographic hashes” for hash table keys](https://runxiyu.org/comp/ch4ht/)
+* [2026-05-04, 03:59:57](https://lobste.rs/s/60qq1o/designing_microkernel_ipc) - [Designing microkernel IPC](https://seiya.me/blog/microkernel-ipc-design)
+* [2026-05-04, 00:30:55](https://lobste.rs/s/cqomz3/continuing_story_early_dos_development) - [Continuing the story of early DOS development](https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/)
 * [2026-05-03, 23:12:36](https://lobste.rs/s/gzosvk/blue_ridge_ruby_2026) - [Blue Ridge Ruby 2026](https://microblog.thomascannon.me/2026/05/03/blue-ridge-ruby.html)
 * [2026-05-03, 23:03:32](https://lobste.rs/s/jwzowr/dithering_with_css) - [dithering with css](https://ikesau.co/blog/dithering-with-css/)
 * [2026-05-03, 22:52:54](https://lobste.rs/s/dyq1jw/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
@@ -18,7 +19,6 @@
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 * [2026-05-03, 06:52:34](https://lobste.rs/s/bnfmcw/testing_macos_on_apple_network_server_2_0) - [Testing MacOS on the Apple Network Server 2.0 ROMs](http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html)
 * [2026-05-03, 01:28:31](https://lobste.rs/s/jhuf5a/nethack_5_0_0) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
-* [2026-05-03, 01:27:10](https://lobste.rs/s/ba3cac/this_month_ladybird_april_2026) - [This Month in Ladybird - April 2026](https://ladybird.org/newsletter/2026-04-30/)
 * [2026-05-03, 00:35:18](https://lobste.rs/s/bwppor/github_for_maintainers) - [A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html)
 * [2026-05-02, 22:11:49](https://lobste.rs/s/bzltqt/unsigned_sizes_five_year_mistake) - [Unsigned sizes: a five year mistake](https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/)
 * [2026-05-02, 22:06:04](https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
