@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
+* [2026-05-04, 16:38:00](https://lobste.rs/s/2iabwb/thec64_handheld) - [THEC64 Handheld](https://www.c64os.com/post/thec64handheld)
 * [2026-05-04, 15:46:18](https://lobste.rs/s/onby0z/byline_structured_identity_for) - [Byline: Structured Identity for Syndication Feeds](https://www.bylinespec.org/)
 * [2026-05-04, 15:00:50](https://lobste.rs/s/rfsdu4/redis_array_type_short_story_long) - [Redis array type: short story of a long development](https://antirez.com/news/164)
 * [2026-05-04, 14:42:34](https://lobste.rs/s/da9oc0/6_828_operating_system_engineering_2012) - [6.828: Operating System Engineering (2012)](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)
@@ -15,7 +17,6 @@
 * [2026-05-04, 06:36:50](https://lobste.rs/s/6cmh6h/reminder_you_can_stitch_together_lots) - [Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
 * [2026-05-04, 05:52:27](https://lobste.rs/s/rks8da/i_accidentally_made_law_enforcement_shut) - [I accidentally made law enforcement shut down their stresser honeypot](https://lina.sh/blog/ddos-honeypot)
 * [2026-05-04, 03:59:57](https://lobste.rs/s/60qq1o/designing_microkernel_ipc) - [Designing microkernel IPC](https://seiya.me/blog/microkernel-ipc-design)
-* [2026-05-03, 23:12:36](https://lobste.rs/s/gzosvk/blue_ridge_ruby_2026) - [Blue Ridge Ruby 2026](https://microblog.thomascannon.me/2026/05/03/blue-ridge-ruby.html)
 * [2026-05-03, 22:52:54](https://lobste.rs/s/dyq1jw/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 * [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
@@ -24,7 +25,6 @@
 * [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 * [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-* [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 
 ## [Archives](archives/index.md)
 

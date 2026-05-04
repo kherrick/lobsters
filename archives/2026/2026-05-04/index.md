@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
+* [2026-05-04, 16:38:00](https://lobste.rs/s/2iabwb/thec64_handheld) - [THEC64 Handheld](https://www.c64os.com/post/thec64handheld)
 * [2026-05-04, 15:46:18](https://lobste.rs/s/onby0z/byline_structured_identity_for) - [Byline: Structured Identity for Syndication Feeds](https://www.bylinespec.org/)
 * [2026-05-04, 15:00:50](https://lobste.rs/s/rfsdu4/redis_array_type_short_story_long) - [Redis array type: short story of a long development](https://antirez.com/news/164)
 * [2026-05-04, 14:42:34](https://lobste.rs/s/da9oc0/6_828_operating_system_engineering_2012) - [6.828: Operating System Engineering (2012)](https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/)
