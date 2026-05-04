@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/2022_tragedy_gethostbyname) - [[2022] the tragedy of gethostbyname](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
+* [2026-05-04, 11:06:16](https://lobste.rs/s/txbgo5/do_ai_summaries_hurt_critical_thinking) - [Do AI summaries hurt critical thinking?](https://medium.com/blueprint-for-disaster/ai-summaries-are-a-threat-to-our-cognitive-sovereignty-917afc37692f)
 * [2026-05-04, 10:13:20](https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda) - [Writing middlewares for Rust Lambda functions](https://loige.co/writing-middlewares-for-rust-lambda-functions/)
 * [2026-05-04, 08:40:01](https://lobste.rs/s/abg2mj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abg2mj/what_are_you_doing_this_week)
 * [2026-05-04, 08:16:03](https://lobste.rs/s/pjuxhr/native_macos_app_track_youtube_channels) - [Native macOS app to track YouTube channels, no Google login required](https://github.com/agentcooper/Telik)
@@ -21,9 +23,7 @@
 * [2026-05-03, 10:06:50](https://lobste.rs/s/nthsyb/git_stupid_content_tracker_2005) - [GIT - the stupid content tracker (2005)](https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 * [2026-05-03, 01:28:31](https://lobste.rs/s/jhuf5a/nethack_5_0_0) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
-* [2026-05-03, 00:35:18](https://lobste.rs/s/bwppor/github_for_maintainers) - [A GitHub for maintainers](https://nesbitt.io/2026/05/02/a-github-for-maintainers.html)
 * [2026-05-02, 22:06:04](https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
-* [2026-05-02, 17:26:59](https://lobste.rs/s/mi9xrw/pep_661_sentinel_values_accepted_5_years) - [PEP 661 – Sentinel Values, accepted 5 years later](https://peps.python.org/pep-0661/)
 * [2026-05-02, 17:05:19](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know) - [What fun websites do you know?](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know)
 
 ## [Archives](archives/index.md)
