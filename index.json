@@ -1,12 +1,62 @@
 [
   [
     [
+      "2026-05-04, 15:46:18",
+      "https://lobste.rs/s/onby0z/byline_structured_identity_for"
+    ],
+    [
+      "Byline: Structured Identity for Syndication Feeds",
+      "https://www.bylinespec.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 15:00:50",
+      "https://lobste.rs/s/rfsdu4/redis_array_type_short_story_long"
+    ],
+    [
+      "Redis array type: short story of a long development",
+      "https://antirez.com/news/164"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 14:42:34",
+      "https://lobste.rs/s/da9oc0/6_828_operating_system_engineering_2012"
+    ],
+    [
+      "6.828: Operating System Engineering (2012)",
+      "https://ocw.mit.edu/courses/6-828-operating-system-engineering-fall-2012/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 14:26:01",
+      "https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state"
+    ],
+    [
+      "Async Rust never left the MVP state",
+      "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 14:05:05",
       "https://lobste.rs/s/o9hnbc/how_i_create_static_websites_for_tiny"
     ],
     [
       "How I create static websites for tiny archives (2025)",
       "https://alexwlchan.net/2025/mildly-dynamic-websites/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 14:03:16",
+      "https://lobste.rs/s/psurdf/package_manager_cwes"
+    ],
+    [
+      "Package Manager CWEs",
+      "https://nesbitt.io/2026/05/04/package-manager-cwes.html"
     ]
   ],
   [
@@ -47,16 +97,6 @@
     [
       "Do AI summaries hurt critical thinking?",
       "https://medium.com/blueprint-for-disaster/ai-summaries-are-a-threat-to-our-cognitive-sovereignty-917afc37692f"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 10:13:20",
-      "https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda"
-    ],
-    [
-      "Writing middlewares for Rust Lambda functions",
-      "https://loige.co/writing-middlewares-for-rust-lambda-functions/"
     ]
   ],
   [
@@ -107,26 +147,6 @@
     [
       "Designing microkernel IPC",
       "https://seiya.me/blog/microkernel-ipc-design"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 00:30:55",
-      "https://lobste.rs/s/cqomz3/continuing_story_early_dos_development"
-    ],
-    [
-      "Continuing the story of early DOS development",
-      "https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 23:59:21",
-      "https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for"
-    ],
-    [
-      "On (not) using “cryptographic hashes” for hash table keys",
-      "https://runxiyu.org/comp/ch4ht/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "pgBackRest is dead. Now what?",
       "https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 01:28:31",
-      "https://lobste.rs/s/jhuf5a/nethack_5_0_0"
-    ],
-    [
-      "NetHack 5.0.0",
-      "https://nethack.org/v500/release.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 22:06:04",
-      "https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community"
-    ],
-    [
-      "Open Source Does Not Imply Open Community",
-      "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
     ]
   ]
 ]
