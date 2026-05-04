@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
+* [2026-05-04, 19:41:43](https://lobste.rs/s/juyhsy/uutils_coreutils_cves) - [uutils coreutils CVEs](https://seclists.org/oss-sec/2026/q2/332)
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
 * [2026-05-04, 19:06:29](https://lobste.rs/s/jh9f2r/release_v0_9_0_foxboron_ssh_tpm_agent) - [Release v0.9.0 · Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0)
 * [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
@@ -21,9 +23,7 @@
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 * [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-* [2026-05-03, 15:48:56](https://lobste.rs/s/bznmaf/your_container_is_not_sandbox) - [Your Container Is Not a Sandbox](https://emirb.github.io/blog/microvm-2026/)
 * [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
-* [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 
 ## [Archives](archives/index.md)
