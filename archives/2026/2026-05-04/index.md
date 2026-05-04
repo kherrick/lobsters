@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism's not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
 * [2026-05-04, 19:41:43](https://lobste.rs/s/juyhsy/uutils_coreutils_cves) - [uutils coreutils CVEs](https://seclists.org/oss-sec/2026/q2/332)
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)

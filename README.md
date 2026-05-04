@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism's not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
 * [2026-05-04, 19:41:43](https://lobste.rs/s/juyhsy/uutils_coreutils_cves) - [uutils coreutils CVEs](https://seclists.org/oss-sec/2026/q2/332)
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
@@ -10,7 +11,6 @@
 * [2026-05-04, 15:00:50](https://lobste.rs/s/rfsdu4/redis_array_type_short_story_long) - [Redis array type: short story of a long development](https://antirez.com/news/164)
 * [2026-05-04, 14:26:01](https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 * [2026-05-04, 14:05:05](https://lobste.rs/s/o9hnbc/how_i_create_static_websites_for_tiny) - [How I create static websites for tiny archives (2025)](https://alexwlchan.net/2025/mildly-dynamic-websites/)
-* [2026-05-04, 14:03:16](https://lobste.rs/s/psurdf/package_manager_cwes) - [Package Manager CWEs](https://nesbitt.io/2026/05/04/package-manager-cwes.html)
 * [2026-05-04, 13:17:06](https://lobste.rs/s/4t1gps/oops_cubic_macro) - [oops, cubic macro](https://bal-e.org/blog/2026/oops-cubic-macro/)
 * [2026-05-04, 12:24:41](https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language) - [How LLMs Distort Our Written Language](https://sites.google.com/view/llmwritingdistortion/home)
 * [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/tragedy_gethostbyname_2022) - [the tragedy of gethostbyname (2022)](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
