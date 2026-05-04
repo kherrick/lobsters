@@ -1,12 +1,42 @@
 [
   [
     [
+      "2026-05-03, 23:59:21",
+      "https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for"
+    ],
+    [
+      "On (not) using “cryptographic hashes” for hash table keys",
+      "https://runxiyu.org/comp/ch4ht/"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 23:12:36",
       "https://lobste.rs/s/gzosvk/blue_ridge_ruby_2026"
     ],
     [
       "Blue Ridge Ruby 2026",
       "https://microblog.thomascannon.me/2026/05/03/blue-ridge-ruby.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 23:03:32",
+      "https://lobste.rs/s/jwzowr/dithering_with_css"
+    ],
+    [
+      "dithering with css",
+      "https://ikesau.co/blog/dithering-with-css/"
+    ]
+  ],
+  [
+    [
+      "2026-05-03, 22:52:54",
+      "https://lobste.rs/s/dyq1jw/agentic_coding_is_trap"
+    ],
+    [
+      "Agentic Coding is a Trap",
+      "https://larsfaye.com/articles/agentic-coding-is-a-trap"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-05-03, 15:21:24",
-      "https://lobste.rs/s/a2mdys/c8s_confidential_kubernetes"
-    ],
-    [
-      "C8s: A Confidential Kubernetes Architecture",
-      "https://arxiv.org/abs/2604.26974"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 14:49:25",
       "https://lobste.rs/s/klw6bu/desktop_made_for_one"
     ],
@@ -121,21 +141,11 @@
   ],
   [
     [
-      "2026-05-03, 10:57:37",
-      "https://lobste.rs/s/ypm74r/losrs_spaced_repetition_terminal_with"
-    ],
-    [
-      "Losrs - Spaced Repetition in the terminal with markdown cards",
-      "https://github.com/blin/losrs"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 10:06:50",
-      "https://lobste.rs/s/nthsyb/git_stupid_content_tracker"
+      "https://lobste.rs/s/nthsyb/git_stupid_content_tracker_2005"
     ],
     [
-      "GIT - the stupid content tracker",
+      "GIT - the stupid content tracker (2005)",
       "https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Testing MacOS on the Apple Network Server 2.0 ROMs",
       "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 03:26:59",
-      "https://lobste.rs/s/crcktq/adding_author_context_rss"
-    ],
-    [
-      "Adding author context to RSS",
-      "https://coywolf.com/notes/adding-author-context-to-rss/"
     ]
   ],
   [
