@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-04, 11:50:22",
+      "https://lobste.rs/s/v1hrs7/2022_tragedy_gethostbyname"
+    ],
+    [
+      "[2022] the tragedy of gethostbyname",
+      "https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 11:06:16",
+      "https://lobste.rs/s/txbgo5/do_ai_summaries_hurt_critical_thinking"
+    ],
+    [
+      "Do AI summaries hurt critical thinking?",
+      "https://medium.com/blueprint-for-disaster/ai-summaries-are-a-threat-to-our-cognitive-sovereignty-917afc37692f"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 10:13:20",
       "https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-05-03, 00:35:18",
-      "https://lobste.rs/s/bwppor/github_for_maintainers"
-    ],
-    [
-      "A GitHub for maintainers",
-      "https://nesbitt.io/2026/05/02/a-github-for-maintainers.html"
-    ]
-  ],
-  [
-    [
       "2026-05-02, 22:06:04",
       "https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community"
     ],
     [
       "Open Source Does Not Imply Open Community",
       "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 17:26:59",
-      "https://lobste.rs/s/mi9xrw/pep_661_sentinel_values_accepted_5_years"
-    ],
-    [
-      "PEP 661 – Sentinel Values, accepted 5 years later",
-      "https://peps.python.org/pep-0661/"
     ]
   ],
   [
