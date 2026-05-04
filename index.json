@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-04, 22:20:57",
+      "https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail"
+    ],
+    [
+      "Podman rootless containers and the Copy Fail exploit",
+      "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 20:38:33",
       "https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem"
     ],
@@ -227,16 +237,6 @@
     [
       "Fake Notepad++ for Mac",
       "https://notepad-plus-plus.org/news/npp-trademark-infringement/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 14:49:25",
-      "https://lobste.rs/s/klw6bu/desktop_made_for_one"
-    ],
-    [
-      "A desktop made for one",
-      "https://isene.org/2026/05/Audience-of-One.html"
     ]
   ],
   [
