@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-03](index.md)
 
+* [2026-05-03, 23:59:21](https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for) - [On (not) using “cryptographic hashes” for hash table keys](https://runxiyu.org/comp/ch4ht/)
 * [2026-05-03, 23:12:36](https://lobste.rs/s/gzosvk/blue_ridge_ruby_2026) - [Blue Ridge Ruby 2026](https://microblog.thomascannon.me/2026/05/03/blue-ridge-ruby.html)
+* [2026-05-03, 23:03:32](https://lobste.rs/s/jwzowr/dithering_with_css) - [dithering with css](https://ikesau.co/blog/dithering-with-css/)
+* [2026-05-03, 22:52:54](https://lobste.rs/s/dyq1jw/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 * [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
@@ -18,6 +21,7 @@
 * [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 * [2026-05-03, 10:57:37](https://lobste.rs/s/ypm74r/losrs_spaced_repetition_terminal_with) - [Losrs - Spaced Repetition in the terminal with markdown cards](https://github.com/blin/losrs)
+* [2026-05-03, 10:06:50](https://lobste.rs/s/nthsyb/git_stupid_content_tracker_2005) - [GIT - the stupid content tracker (2005)](https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 * [2026-05-03, 10:06:50](https://lobste.rs/s/nthsyb/git_stupid_content_tracker) - [GIT - the stupid content tracker](https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 * [2026-05-03, 08:46:07](https://lobste.rs/s/qbfu36/toptout) - [Toptout](https://toptout.me/)
