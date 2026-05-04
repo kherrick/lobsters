@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/2022_tragedy_gethostbyname) - [[2022] the tragedy of gethostbyname](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
+* [2026-05-04, 14:05:05](https://lobste.rs/s/o9hnbc/how_i_create_static_websites_for_tiny) - [How I create static websites for tiny archives (2025)](https://alexwlchan.net/2025/mildly-dynamic-websites/)
+* [2026-05-04, 13:17:06](https://lobste.rs/s/4t1gps/oops_cubic_macro) - [oops, cubic macro](https://bal-e.org/blog/2026/oops-cubic-macro/)
+* [2026-05-04, 12:24:41](https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language) - [How LLMs Distort Our Written Language](https://sites.google.com/view/llmwritingdistortion/home)
+* [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/tragedy_gethostbyname_2022) - [the tragedy of gethostbyname (2022)](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
 * [2026-05-04, 11:06:16](https://lobste.rs/s/txbgo5/do_ai_summaries_hurt_critical_thinking) - [Do AI summaries hurt critical thinking?](https://medium.com/blueprint-for-disaster/ai-summaries-are-a-threat-to-our-cognitive-sovereignty-917afc37692f)
 * [2026-05-04, 10:13:20](https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda) - [Writing middlewares for Rust Lambda functions](https://loige.co/writing-middlewares-for-rust-lambda-functions/)
 * [2026-05-04, 08:40:01](https://lobste.rs/s/abg2mj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/abg2mj/what_are_you_doing_this_week)
@@ -15,16 +18,13 @@
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 * [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-* [2026-05-03, 16:47:03](https://lobste.rs/s/222h0a/how_broken_bike_sync_led_me_reverse) - [How a Broken Bike Sync Led Me to Reverse Engineering My Wahoo’s Hidden Debug Mode](https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/)
 * [2026-05-03, 15:48:56](https://lobste.rs/s/bznmaf/your_container_is_not_sandbox) - [Your Container Is Not a Sandbox](https://emirb.github.io/blog/microvm-2026/)
 * [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 * [2026-05-03, 12:43:53](https://lobste.rs/s/ffu7l8/my_favorite_device_is_chromebook_without) - [My favorite device is a Chromebook, without ChromeOS](https://kokada.dev/blog/my-favorite-device-is-a-chromebook-without-chromeos/)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
-* [2026-05-03, 10:06:50](https://lobste.rs/s/nthsyb/git_stupid_content_tracker_2005) - [GIT - the stupid content tracker (2005)](https://raw.githubusercontent.com/git/git/e83c5163316f89bfbde7d9ab23ca2e25604af290/README)
 * [2026-05-03, 09:38:28](https://lobste.rs/s/dp3tdn/pgbackrest_is_dead_now_what) - [pgBackRest is dead. Now what?](https://mydbanotebook.org/posts/pgbackrest-is-dead.-now-what/)
 * [2026-05-03, 01:28:31](https://lobste.rs/s/jhuf5a/nethack_5_0_0) - [NetHack 5.0.0](https://nethack.org/v500/release.html)
 * [2026-05-02, 22:06:04](https://lobste.rs/s/rp1lti/open_source_does_not_imply_open_community) - [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
-* [2026-05-02, 17:05:19](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know) - [What fun websites do you know?](https://lobste.rs/s/ncngka/what_fun_websites_do_you_know)
 
 ## [Archives](archives/index.md)
 

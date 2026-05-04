@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-04](index.md)
 
+* [2026-05-04, 14:05:05](https://lobste.rs/s/o9hnbc/how_i_create_static_websites_for_tiny) - [How I create static websites for tiny archives (2025)](https://alexwlchan.net/2025/mildly-dynamic-websites/)
+* [2026-05-04, 13:17:06](https://lobste.rs/s/4t1gps/oops_cubic_macro) - [oops, cubic macro](https://bal-e.org/blog/2026/oops-cubic-macro/)
+* [2026-05-04, 12:24:41](https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language) - [How LLMs Distort Our Written Language](https://sites.google.com/view/llmwritingdistortion/home)
+* [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/tragedy_gethostbyname_2022) - [the tragedy of gethostbyname (2022)](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
 * [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/2022_tragedy_gethostbyname) - [[2022] the tragedy of gethostbyname](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
 * [2026-05-04, 11:06:16](https://lobste.rs/s/txbgo5/do_ai_summaries_hurt_critical_thinking) - [Do AI summaries hurt critical thinking?](https://medium.com/blueprint-for-disaster/ai-summaries-are-a-threat-to-our-cognitive-sovereignty-917afc37692f)
 * [2026-05-04, 10:13:20](https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda) - [Writing middlewares for Rust Lambda functions](https://loige.co/writing-middlewares-for-rust-lambda-functions/)
