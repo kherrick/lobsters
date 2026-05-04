@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-04, 10:13:20",
+      "https://lobste.rs/s/pp5yza/writing_middlewares_for_rust_lambda"
+    ],
+    [
+      "Writing middlewares for Rust Lambda functions",
+      "https://loige.co/writing-middlewares-for-rust-lambda-functions/"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 08:40:01",
+      "https://lobste.rs/s/abg2mj/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/abg2mj/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-05-04, 08:16:03",
+      "https://lobste.rs/s/pjuxhr/native_macos_app_track_youtube_channels"
+    ],
+    [
+      "Native macOS app to track YouTube channels, no Google login required",
+      "https://github.com/agentcooper/Telik"
+    ]
+  ],
+  [
+    [
       "2026-05-04, 06:36:50",
       "https://lobste.rs/s/6cmh6h/reminder_you_can_stitch_together_lots"
     ],
@@ -41,22 +71,22 @@
   ],
   [
     [
+      "2026-05-03, 23:59:21",
+      "https://lobste.rs/s/0u4fin/on_not_using_cryptographic_hashes_for"
+    ],
+    [
+      "On (not) using “cryptographic hashes” for hash table keys",
+      "https://runxiyu.org/comp/ch4ht/"
+    ]
+  ],
+  [
+    [
       "2026-05-03, 23:12:36",
       "https://lobste.rs/s/gzosvk/blue_ridge_ruby_2026"
     ],
     [
       "Blue Ridge Ruby 2026",
       "https://microblog.thomascannon.me/2026/05/03/blue-ridge-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 23:03:32",
-      "https://lobste.rs/s/jwzowr/dithering_with_css"
-    ],
-    [
-      "dithering with css",
-      "https://ikesau.co/blog/dithering-with-css/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-05-03, 16:48:53",
-      "https://lobste.rs/s/mkwtsj/for_thirty_years_i_programmed_with_phish"
-    ],
-    [
-      "For thirty years I programmed with Phish on, every day. In 2026, the music is out of phase with the work",
-      "https://christophermeiklejohn.com/ai/personal/phish/flow/agents/2026/05/03/rift.html"
-    ]
-  ],
-  [
-    [
       "2026-05-03, 16:47:03",
       "https://lobste.rs/s/222h0a/how_broken_bike_sync_led_me_reverse"
     ],
@@ -137,16 +157,6 @@
     [
       "A desktop made for one",
       "https://isene.org/2026/05/Audience-of-One.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 13:59:30",
-      "https://lobste.rs/s/pwwn0j/git_async_web_demo_git_browser_browser"
-    ],
-    [
-      "git-async web demo - A git browser in the browser",
-      "https://git-async.donk.systems/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Open Source Does Not Imply Open Community",
       "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/"
-    ]
-  ],
-  [
-    [
-      "2026-05-02, 18:13:57",
-      "https://lobste.rs/s/qp0vi5/nhs_goes_war_against_open_source"
-    ],
-    [
-      "NHS Goes To War Against Open Source",
-      "https://shkspr.mobi/blog/2026/05/nhs-goes-to-war-against-open-source/"
     ]
   ],
   [
