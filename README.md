@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
 * [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism's not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
 * [2026-05-04, 19:41:43](https://lobste.rs/s/juyhsy/uutils_coreutils_cves) - [uutils coreutils CVEs](https://seclists.org/oss-sec/2026/q2/332)
@@ -23,7 +24,6 @@
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 * [2026-05-03, 18:00:05](https://lobste.rs/s/bmhm7k/this_wasm_interpreter_fits_qr_code) - [This Wasm interpreter fits in a QR code](https://purplesyringa.moe/blog/this-wasm-interpreter-fits-in-a-qr-code/)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-* [2026-05-03, 14:49:25](https://lobste.rs/s/klw6bu/desktop_made_for_one) - [A desktop made for one](https://isene.org/2026/05/Audience-of-One.html)
 * [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 
 ## [Archives](archives/index.md)
