@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 12:32:59](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd) - [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/)
+* [2026-05-05, 11:56:50](https://lobste.rs/s/nlbld5/rolling_root_key) - [Rolling the root key](https://blog.apnic.net/2026/05/05/rolling-the-root-key/)
 * [2026-05-05, 11:11:33](https://lobste.rs/s/yn0x8k/agent_metaskills) - [Agent MetaSKILLs](https://swival.dev/pages/metaskills.html)
 * [2026-05-05, 10:20:30](https://lobste.rs/s/ewpr4z/post_quantum_vpn_based_on_quic) - [Post-Quantum VPN Based on QUIC](https://github.com/quincy-rs/quincy)
 * [2026-05-05, 10:03:18](https://lobste.rs/s/kriejt/what_i_m_hearing_about_cognitive_debt_so) - [What I’m Hearing About Cognitive Debt (So Far)](http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
