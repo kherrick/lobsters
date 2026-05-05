@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-05, 22:22:30",
+      "https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler"
+    ],
+    [
+      "krabby: making a fast Rust compiler",
+      "https://bal-e.org/speed/krabby/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 21:30:29",
+      "https://lobste.rs/s/sywxsk/starfighter_16_inch"
+    ],
+    [
+      "StarFighter 16-inch",
+      "https://us.starlabs.systems/pages/starfighter"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 18:40:49",
+      "https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos"
+    ],
+    [
+      "SLAM: s6/synit based NixOS",
+      "https://worker.informatics.coop/slam/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 17:40:08",
       "https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-05-05, 05:57:19",
-      "https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log"
-    ],
-    [
-      "Inexpressibility in Exp-Minus-Log",
-      "https://arxiv.org/abs/2605.01636"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 03:07:03",
       "https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-05-04, 17:14:49",
-      "https://lobste.rs/s/mfizts/losing_skills"
-    ],
-    [
-      "Losing Skills",
-      "https://noahbogart.com/posts/2026-05-03-losing-skills/"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 14:26:01",
       "https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state"
     ],
@@ -237,16 +247,6 @@
     [
       "How LLMs Distort Our Written Language",
       "https://sites.google.com/view/llmwritingdistortion/home"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 06:36:50",
-      "https://lobste.rs/s/6cmh6h/reminder_you_can_stitch_together_lots"
-    ],
-    [
-      "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
-      "https://blog.jim-nielsen.com/2026/small-html-pages/"
     ]
   ]
 ]
