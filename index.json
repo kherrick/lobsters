@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-05, 12:32:59",
+      "https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd"
+    ],
+    [
+      "A Caddy Cert Expired Because systemd-resolved Was Selectively Broken",
+      "https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 11:56:50",
+      "https://lobste.rs/s/nlbld5/rolling_root_key"
+    ],
+    [
+      "Rolling the root key",
+      "https://blog.apnic.net/2026/05/05/rolling-the-root-key/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 11:11:33",
       "https://lobste.rs/s/yn0x8k/agent_metaskills"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-04, 16:38:00",
-      "https://lobste.rs/s/2iabwb/thec64_handheld"
-    ],
-    [
-      "THEC64 Handheld",
-      "https://www.c64os.com/post/thec64handheld"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 14:26:01",
       "https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state"
     ],
@@ -197,16 +207,6 @@
     [
       "How LLMs Distort Our Written Language",
       "https://sites.google.com/view/llmwritingdistortion/home"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 08:40:01",
-      "https://lobste.rs/s/abg2mj/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/abg2mj/what_are_you_doing_this_week"
     ]
   ],
   [
