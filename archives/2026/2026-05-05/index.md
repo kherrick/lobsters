@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 11:11:33](https://lobste.rs/s/yn0x8k/agent_metaskills) - [Agent MetaSKILLs](https://swival.dev/pages/metaskills.html)
 * [2026-05-05, 10:20:30](https://lobste.rs/s/ewpr4z/post_quantum_vpn_based_on_quic) - [Post-Quantum VPN Based on QUIC](https://github.com/quincy-rs/quincy)
+* [2026-05-05, 10:03:18](https://lobste.rs/s/kriejt/what_i_m_hearing_about_cognitive_debt_so) - [What I’m Hearing About Cognitive Debt (So Far)](http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+* [2026-05-05, 09:48:54](https://lobste.rs/s/yfuber/minipgp6_very_lean_interpretation) - [minipgp6: A very lean interpretation of modern OpenPGP](https://codeberg.org/minipgp6/minipgp6)
 * [2026-05-05, 07:44:59](https://lobste.rs/s/3dp42s/macbook_neo_deep_dive_benchmarks_wafer) - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 * [2026-05-05, 06:45:59](https://lobste.rs/s/fk5hpa/ace_template_go_from_rails_new_deployed) - [Ace Template: go from `rails new` to deployed in under 5 minutes (self-hosted or PaaS)](https://github.com/jeromedalbert/ace-template)
 * [2026-05-05, 05:57:19](https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log) - [Inexpressibility in Exp-Minus-Log](https://arxiv.org/abs/2605.01636)
