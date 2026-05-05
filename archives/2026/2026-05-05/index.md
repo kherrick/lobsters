@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
+* [2026-05-05, 21:30:29](https://lobste.rs/s/sywxsk/starfighter_16_inch) - [StarFighter 16-inch](https://us.starlabs.systems/pages/starfighter)
 * [2026-05-05, 20:07:07](https://lobste.rs/s/6a3u0y/google_chrome_silently_installs_4_gb_ai) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)
+* [2026-05-05, 18:40:49](https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos) - [SLAM: s6/synit based NixOS](https://worker.informatics.coop/slam/)
 * [2026-05-05, 17:40:08](https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
 * [2026-05-05, 16:44:33](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve) - [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/)
 * [2026-05-05, 15:53:32](https://lobste.rs/s/opwgjp/one_week_view_types) - [One week of view_types](https://scrabsha.dev/articles/one-week-of-view-types.html)
