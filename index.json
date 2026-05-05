@@ -1,6 +1,96 @@
 [
   [
     [
+      "2026-05-05, 16:44:33",
+      "https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve"
+    ],
+    [
+      "An exploitable integer overflow in Lix (CVE-2026-44028)",
+      "https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:15:49",
+      "https://lobste.rs/s/njja19/we_re_announcing_mikan_proof_assistant"
+    ],
+    [
+      "We're announcing Mikan: a proof assistant for cubical type theory, forked from the Agda codebase",
+      "https://types.pl/@amy/116522250630340534"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 14:46:08",
+      "https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google"
+    ],
+    [
+      "RSS Feeds Send Me More Traffic Than Google",
+      "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 14:00:58",
+      "https://lobste.rs/s/gsjskz/behavior_oriented_concurrency_for"
+    ],
+    [
+      "Behavior-Oriented Concurrency for Python: Lock-less, Deadlock-free, Ownership-based",
+      "https://microsoft.github.io/bocpy/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:46:37",
+      "https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network"
+    ],
+    [
+      "Why didn’t IPv6 work in my home network?",
+      "https://gowtham.dev/blog/ipv6-problems.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:28:42",
+      "https://lobste.rs/s/3c4ba9/tokens_dreams"
+    ],
+    [
+      "Tokens and Dreams",
+      "https://charlesleifer.com/blog/tokens-and-dreams/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:27:10",
+      "https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product"
+    ],
+    [
+      "claude code is not making your product better",
+      "https://ethanding.substack.com/p/claude-code-is-not-making-your-product"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:21:28",
+      "https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle"
+    ],
+    [
+      "A bidirectional typechecking puzzle",
+      "https://haskellforall.com/2026/05/a-bidirectional-typechecking-puzzle"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 13:17:51",
+      "https://lobste.rs/s/ib8cgq/building_my_own_vi_text_editor_basic"
+    ],
+    [
+      "Building my own Vi text editor in BASIC",
+      "https://leetusman.com/nosebook/yvi"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 12:32:59",
       "https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd"
     ],
@@ -11,42 +101,12 @@
   ],
   [
     [
-      "2026-05-05, 11:56:50",
-      "https://lobste.rs/s/nlbld5/rolling_root_key"
-    ],
-    [
-      "Rolling the root key",
-      "https://blog.apnic.net/2026/05/05/rolling-the-root-key/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 11:11:33",
-      "https://lobste.rs/s/yn0x8k/agent_metaskills"
-    ],
-    [
-      "Agent MetaSKILLs",
-      "https://swival.dev/pages/metaskills.html"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 10:20:30",
       "https://lobste.rs/s/ewpr4z/post_quantum_vpn_based_on_quic"
     ],
     [
       "Post-Quantum VPN Based on QUIC",
       "https://github.com/quincy-rs/quincy"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 10:03:18",
-      "https://lobste.rs/s/kriejt/what_i_m_hearing_about_cognitive_debt_so"
-    ],
-    [
-      "What I’m Hearing About Cognitive Debt (So Far)",
-      "http://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/"
     ]
   ],
   [
@@ -101,16 +161,6 @@
   ],
   [
     [
-      "2026-05-05, 00:57:00",
-      "https://lobste.rs/s/pxb7yu/little_comparison_between_r_kap"
-    ],
-    [
-      "A little comparison between R and Kap",
-      "https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 22:20:57",
       "https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail"
     ],
@@ -137,16 +187,6 @@
     [
       "Security Advisory: Local privilege escalation in Lix and Nix",
       "https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 19:41:43",
-      "https://lobste.rs/s/juyhsy/uutils_coreutils_cves"
-    ],
-    [
-      "uutils coreutils CVEs",
-      "https://seclists.org/oss-sec/2026/q2/332"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2026-05-04, 13:17:06",
-      "https://lobste.rs/s/4t1gps/oops_cubic_macro"
-    ],
-    [
-      "oops, cubic macro",
-      "https://bal-e.org/blog/2026/oops-cubic-macro/"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 12:24:41",
       "https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2026-05-04, 08:16:03",
-      "https://lobste.rs/s/pjuxhr/native_macos_app_track_youtube_channels"
-    ],
-    [
-      "Native macOS app to track YouTube channels, no Google login required",
-      "https://github.com/agentcooper/Telik"
-    ]
-  ],
-  [
-    [
       "2026-05-04, 06:36:50",
       "https://lobste.rs/s/6cmh6h/reminder_you_can_stitch_together_lots"
     ],
     [
       "Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions",
       "https://blog.jim-nielsen.com/2026/small-html-pages/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 05:52:27",
-      "https://lobste.rs/s/rks8da/i_accidentally_made_law_enforcement_shut"
-    ],
-    [
-      "I accidentally made law enforcement shut down their stresser honeypot",
-      "https://lina.sh/blog/ddos-honeypot"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 21:18:17",
-      "https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network"
-    ],
-    [
-      "Broadcasting GPS on the local network",
-      "https://evertpot.com/broadcasting-gps-on-local-network/"
     ]
   ]
 ]
