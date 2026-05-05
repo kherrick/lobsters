@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-05-05](index.md)
+
+* [2026-05-05, 00:23:59](https://lobste.rs/s/5ond6x/sectorllm_llama2_inference_1500_bytes) - [sectorllm: llama2 inference in < 1500 bytes of x86 assembly](https://github.com/rdmsr/sectorllm)
