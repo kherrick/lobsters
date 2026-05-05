@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-05, 20:07:07](https://lobste.rs/s/6a3u0y/google_chrome_silently_installs_4_gb_ai) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)
 * [2026-05-05, 17:40:08](https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
 * [2026-05-05, 16:44:33](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve) - [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/)
 * [2026-05-05, 15:53:32](https://lobste.rs/s/opwgjp/one_week_view_types) - [One week of view_types](https://scrabsha.dev/articles/one-week-of-view-types.html)
@@ -15,6 +14,7 @@
 * [2026-05-05, 12:32:59](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd) - [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/)
 * [2026-05-05, 10:20:30](https://lobste.rs/s/ewpr4z/post_quantum_vpn_based_on_quic) - [Post-Quantum VPN Based on QUIC](https://github.com/quincy-rs/quincy)
 * [2026-05-05, 07:44:59](https://lobste.rs/s/3dp42s/macbook_neo_deep_dive_benchmarks_wafer) - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
+* [2026-05-05, 05:57:19](https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log) - [Inexpressibility in Exp-Minus-Log](https://arxiv.org/abs/2605.01636)
 * [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
 * [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
 * [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism's not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
