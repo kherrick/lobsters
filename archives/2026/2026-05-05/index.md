@@ -4,6 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 16:44:33](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve) - [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/)
+* [2026-05-05, 15:15:49](https://lobste.rs/s/njja19/we_re_announcing_mikan_proof_assistant) - [We're announcing Mikan: a proof assistant for cubical type theory, forked from the Agda codebase](https://types.pl/@amy/116522250630340534)
+* [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
+* [2026-05-05, 14:00:58](https://lobste.rs/s/gsjskz/behavior_oriented_concurrency_for) - [Behavior-Oriented Concurrency for Python: Lock-less, Deadlock-free, Ownership-based](https://microsoft.github.io/bocpy/)
+* [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
+* [2026-05-05, 13:28:42](https://lobste.rs/s/3c4ba9/tokens_dreams) - [Tokens and Dreams](https://charlesleifer.com/blog/tokens-and-dreams/)
+* [2026-05-05, 13:27:10](https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product) - [claude code is not making your product better](https://ethanding.substack.com/p/claude-code-is-not-making-your-product)
+* [2026-05-05, 13:21:28](https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle) - [A bidirectional typechecking puzzle](https://haskellforall.com/2026/05/a-bidirectional-typechecking-puzzle)
+* [2026-05-05, 13:17:51](https://lobste.rs/s/ib8cgq/building_my_own_vi_text_editor_basic) - [Building my own Vi text editor in BASIC](https://leetusman.com/nosebook/yvi)
 * [2026-05-05, 12:32:59](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd) - [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/)
 * [2026-05-05, 11:56:50](https://lobste.rs/s/nlbld5/rolling_root_key) - [Rolling the root key](https://blog.apnic.net/2026/05/05/rolling-the-root-key/)
 * [2026-05-05, 11:11:33](https://lobste.rs/s/yn0x8k/agent_metaskills) - [Agent MetaSKILLs](https://swival.dev/pages/metaskills.html)
