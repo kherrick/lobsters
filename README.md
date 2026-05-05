@@ -1,16 +1,17 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-05, 00:23:59](https://lobste.rs/s/5ond6x/sectorllm_llama2_inference_1500_bytes) - [sectorllm: llama2 inference in < 1500 bytes of x86 assembly](https://github.com/rdmsr/sectorllm)
+* [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
+* [2026-05-05, 01:21:42](https://lobste.rs/s/bc2zth/embedded_rust_c_firmware_lessons_from) - [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case with Ariel OS](https://arxiv.org/pdf/2604.25679)
+* [2026-05-05, 00:57:00](https://lobste.rs/s/pxb7yu/little_comparison_between_r_kap) - [A little comparison between R and Kap](https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap)
 * [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
 * [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism's not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
 * [2026-05-04, 19:41:43](https://lobste.rs/s/juyhsy/uutils_coreutils_cves) - [uutils coreutils CVEs](https://seclists.org/oss-sec/2026/q2/332)
+* [2026-05-04, 19:11:53](https://lobste.rs/s/zyjkpd/openmythos_theoretical_reconstruction) - [OpenMythos: A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature](https://github.com/kyegomez/OpenMythos)
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
 * [2026-05-04, 19:06:29](https://lobste.rs/s/jh9f2r/release_v0_9_0_foxboron_ssh_tpm_agent) - [Release v0.9.0 · Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0)
 * [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
 * [2026-05-04, 16:38:00](https://lobste.rs/s/2iabwb/thec64_handheld) - [THEC64 Handheld](https://www.c64os.com/post/thec64handheld)
-* [2026-05-04, 15:46:18](https://lobste.rs/s/onby0z/byline_structured_identity_for) - [Byline: Structured Identity for Syndication Feeds](https://www.bylinespec.org/)
-* [2026-05-04, 15:00:50](https://lobste.rs/s/rfsdu4/redis_array_type_short_story_long) - [Redis array type: short story of a long development](https://antirez.com/news/164)
 * [2026-05-04, 14:26:01](https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 * [2026-05-04, 14:05:05](https://lobste.rs/s/o9hnbc/how_i_create_static_websites_for_tiny) - [How I create static websites for tiny archives (2025)](https://alexwlchan.net/2025/mildly-dynamic-websites/)
 * [2026-05-04, 13:17:06](https://lobste.rs/s/4t1gps/oops_cubic_macro) - [oops, cubic macro](https://bal-e.org/blog/2026/oops-cubic-macro/)
@@ -24,7 +25,6 @@
 * [2026-05-03, 22:52:54](https://lobste.rs/s/dyq1jw/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 * [2026-05-03, 17:34:49](https://lobste.rs/s/xvtq0l/fake_notepad_for_mac) - [Fake Notepad++ for Mac](https://notepad-plus-plus.org/news/npp-trademark-infringement/)
-* [2026-05-03, 12:03:54](https://lobste.rs/s/ifbdw1/text_mode_lie_why_modern_tuis_are) - [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 
 ## [Archives](archives/index.md)
 
