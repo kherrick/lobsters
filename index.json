@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-05, 06:45:59",
+      "https://lobste.rs/s/fk5hpa/ace_template_go_from_rails_new_deployed"
+    ],
+    [
+      "Ace Template: go from `rails new` to deployed in under 5 minutes (self-hosted or PaaS)",
+      "https://github.com/jeromedalbert/ace-template"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 05:57:19",
       "https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log"
     ],
@@ -237,16 +247,6 @@
     [
       "Broadcasting GPS on the local network",
       "https://evertpot.com/broadcasting-gps-on-local-network/"
-    ]
-  ],
-  [
-    [
-      "2026-05-03, 17:34:49",
-      "https://lobste.rs/s/xvtq0l/fake_notepad_for_mac"
-    ],
-    [
-      "Fake Notepad++ for Mac",
-      "https://notepad-plus-plus.org/news/npp-trademark-infringement/"
     ]
   ]
 ]
