@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-05](index.md)
 
+* [2026-05-05, 17:40:08](https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
 * [2026-05-05, 16:44:33](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve) - [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/)
 * [2026-05-05, 15:15:49](https://lobste.rs/s/njja19/we_re_announcing_mikan_proof_assistant) - [We're announcing Mikan: a proof assistant for cubical type theory, forked from the Agda codebase](https://types.pl/@amy/116522250630340534)
 * [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
