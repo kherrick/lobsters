@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-05, 10:20:30](https://lobste.rs/s/ewpr4z/post_quantum_vpn_based_on_quic) - [Post-Quantum VPN Based on QUIC](https://github.com/quincy-rs/quincy)
+* [2026-05-05, 07:44:59](https://lobste.rs/s/3dp42s/macbook_neo_deep_dive_benchmarks_wafer) - [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/)
 * [2026-05-05, 06:45:59](https://lobste.rs/s/fk5hpa/ace_template_go_from_rails_new_deployed) - [Ace Template: go from `rails new` to deployed in under 5 minutes (self-hosted or PaaS)](https://github.com/jeromedalbert/ace-template)
 * [2026-05-05, 05:57:19](https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log) - [Inexpressibility in Exp-Minus-Log](https://arxiv.org/abs/2605.01636)
 * [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
@@ -14,7 +16,6 @@
 * [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
 * [2026-05-04, 16:38:00](https://lobste.rs/s/2iabwb/thec64_handheld) - [THEC64 Handheld](https://www.c64os.com/post/thec64handheld)
 * [2026-05-04, 14:26:01](https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
-* [2026-05-04, 14:05:05](https://lobste.rs/s/o9hnbc/how_i_create_static_websites_for_tiny) - [How I create static websites for tiny archives (2025)](https://alexwlchan.net/2025/mildly-dynamic-websites/)
 * [2026-05-04, 13:17:06](https://lobste.rs/s/4t1gps/oops_cubic_macro) - [oops, cubic macro](https://bal-e.org/blog/2026/oops-cubic-macro/)
 * [2026-05-04, 12:24:41](https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language) - [How LLMs Distort Our Written Language](https://sites.google.com/view/llmwritingdistortion/home)
 * [2026-05-04, 11:50:22](https://lobste.rs/s/v1hrs7/tragedy_gethostbyname_2022) - [the tragedy of gethostbyname (2022)](https://ariadne.space/2022/03/26/the-tragedy-of-gethostbyname.html)
@@ -22,7 +23,6 @@
 * [2026-05-04, 08:16:03](https://lobste.rs/s/pjuxhr/native_macos_app_track_youtube_channels) - [Native macOS app to track YouTube channels, no Google login required](https://github.com/agentcooper/Telik)
 * [2026-05-04, 06:36:50](https://lobste.rs/s/6cmh6h/reminder_you_can_stitch_together_lots) - [Reminder: You Can Stitch Together Lots of Little HTML Pages With Navigations For Interactions](https://blog.jim-nielsen.com/2026/small-html-pages/)
 * [2026-05-04, 05:52:27](https://lobste.rs/s/rks8da/i_accidentally_made_law_enforcement_shut) - [I accidentally made law enforcement shut down their stresser honeypot](https://lina.sh/blog/ddos-honeypot)
-* [2026-05-04, 03:59:57](https://lobste.rs/s/60qq1o/designing_microkernel_ipc) - [Designing microkernel IPC](https://seiya.me/blog/microkernel-ipc-design)
 * [2026-05-03, 22:52:54](https://lobste.rs/s/dyq1jw/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap)
 * [2026-05-03, 21:18:17](https://lobste.rs/s/4n38xw/broadcasting_gps_on_local_network) - [Broadcasting GPS on the local network](https://evertpot.com/broadcasting-gps-on-local-network/)
 
