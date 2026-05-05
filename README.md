@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-05, 05:57:19](https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log) - [Inexpressibility in Exp-Minus-Log](https://arxiv.org/abs/2605.01636)
 * [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
 * [2026-05-05, 01:21:42](https://lobste.rs/s/bc2zth/embedded_rust_c_firmware_lessons_from) - [Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case with Ariel OS](https://arxiv.org/pdf/2604.25679)
 * [2026-05-05, 00:57:00](https://lobste.rs/s/pxb7yu/little_comparison_between_r_kap) - [A little comparison between R and Kap](https://blog.dhsdevelopments.com/a-little-comparison-between-r-and-kap)
@@ -7,7 +8,6 @@
 * [2026-05-04, 20:38:33](https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem) - [Nondeterminism's not the problem](https://isaacvando.com/nondeterminisms-not-the-problem)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
 * [2026-05-04, 19:41:43](https://lobste.rs/s/juyhsy/uutils_coreutils_cves) - [uutils coreutils CVEs](https://seclists.org/oss-sec/2026/q2/332)
-* [2026-05-04, 19:11:53](https://lobste.rs/s/zyjkpd/openmythos_theoretical_reconstruction) - [OpenMythos: A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature](https://github.com/kyegomez/OpenMythos)
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
 * [2026-05-04, 19:06:29](https://lobste.rs/s/jh9f2r/release_v0_9_0_foxboron_ssh_tpm_agent) - [Release v0.9.0 · Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0)
 * [2026-05-04, 17:14:49](https://lobste.rs/s/mfizts/losing_skills) - [Losing Skills](https://noahbogart.com/posts/2026-05-03-losing-skills/)
