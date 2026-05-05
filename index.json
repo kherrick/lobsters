@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-05, 20:07:07",
+      "https://lobste.rs/s/6a3u0y/google_chrome_silently_installs_4_gb_ai"
+    ],
+    [
+      "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 17:40:08",
       "https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives"
     ],
@@ -17,6 +27,16 @@
     [
       "An exploitable integer overflow in Lix (CVE-2026-44028)",
       "https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/"
+    ]
+  ],
+  [
+    [
+      "2026-05-05, 15:53:32",
+      "https://lobste.rs/s/opwgjp/one_week_view_types"
+    ],
+    [
+      "One week of view_types",
+      "https://scrabsha.dev/articles/one-week-of-view-types.html"
     ]
   ],
   [
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2026-05-05, 05:57:19",
-      "https://lobste.rs/s/hmunw6/inexpressibility_exp_minus_log"
-    ],
-    [
-      "Inexpressibility in Exp-Minus-Log",
-      "https://arxiv.org/abs/2605.01636"
-    ]
-  ],
-  [
-    [
       "2026-05-05, 03:07:03",
       "https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from"
     ],
     [
       "Bun (the js runtime) is being vibe-ported from zig to rust",
       "https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 01:21:42",
-      "https://lobste.rs/s/bc2zth/embedded_rust_c_firmware_lessons_from"
-    ],
-    [
-      "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case with Ariel OS",
-      "https://arxiv.org/pdf/2604.25679"
     ]
   ],
   [
