@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2026-05-05, 17:57:24",
+      "https://lobste.rs/s/qausao/dispute_over_tab_key_between_microsoft"
+    ],
+    [
+      "A dispute over the TAB key between Microsoft and IBM organizational structures",
+      "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 17:40:08",
       "https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives"
     ],
@@ -237,16 +247,6 @@
     [
       "Async Rust never left the MVP state",
       "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 12:24:41",
-      "https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language"
-    ],
-    [
-      "How LLMs Distort Our Written Language",
-      "https://sites.google.com/view/llmwritingdistortion/home"
     ]
   ]
 ]
