@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-06, 22:29:43](https://lobste.rs/s/bcau52/branimir_lambov_from_ibm_on_cassandra) - [Branimir Lambov from IBM on Cassandra](https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html)
 * [2026-05-06, 22:04:39](https://lobste.rs/s/lwjndk/plastic_flowers_protect_hive) - [Plastic Flowers to Protect the Hive](https://phildini.dev/slopsquatting-for-good)
 * [2026-05-06, 17:06:57](https://lobste.rs/s/t3f6br/original_super_mario_64_is_now_playable_on) - [The Original Super Mario 64 Is Now Playable On GBA](https://retrododo.com/the-original-super-mario-64-is-now-playable-on-gba/)
 * [2026-05-06, 16:48:39](https://lobste.rs/s/4wsk2b/arguments_parsing_guile) - [Arguments parsing in Guile](https://fishinthecalculator.me/blog/arguments-parsing-in-guile.html)
@@ -20,7 +21,6 @@
 * [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 * [2026-05-06, 00:49:05](https://lobste.rs/s/4wi5q4/vi_family) - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
 * [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
-* [2026-05-05, 21:30:29](https://lobste.rs/s/sywxsk/starfighter_16_inch) - [StarFighter 16-inch](https://us.starlabs.systems/pages/starfighter)
 * [2026-05-05, 18:40:49](https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos) - [SLAM: s6/synit based NixOS](https://worker.informatics.coop/slam/)
 * [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
 * [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
