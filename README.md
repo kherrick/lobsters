@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-06, 07:13:50](https://lobste.rs/s/78htxr/working_was_beginning) - [Working was the beginning](https://themackabu.dev/blog/ant-part-two)
+* [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC (video)](https://www.chiply.dev/post-vompeccc-showcase)
+* [2026-05-06, 07:19:31](https://lobste.rs/s/pzx24l/iphone_dumbphone) - [iPhone dumbphone](https://stopa.io/post/297)
+* [2026-05-06, 07:13:50](https://lobste.rs/s/78htxr/working_was_beginning_part_two_ant) - [Working was the beginning (Part two of Ant)](https://themackabu.dev/blog/ant-part-two)
 * [2026-05-06, 04:42:18](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified) - [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247)
 * [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 * [2026-05-06, 00:49:05](https://lobste.rs/s/4wi5q4/vi_family) - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
@@ -23,8 +25,6 @@
 * [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
 * [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
 * [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
-* [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
-* [2026-05-04, 14:26:01](https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 
 ## [Archives](archives/index.md)
 
