@@ -6,6 +6,7 @@
 
 * [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
 * [2026-05-05, 21:30:29](https://lobste.rs/s/sywxsk/starfighter_16_inch) - [StarFighter 16-inch](https://us.starlabs.systems/pages/starfighter)
+* [2026-05-05, 20:49:14](https://lobste.rs/s/pgisix/understanding_wi_fi_4_5_6_6e_7_8_802_11_n_ac_ax) - [Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/ac/ax/be/bn)](https://www.wiisfi.com/)
 * [2026-05-05, 20:07:07](https://lobste.rs/s/6a3u0y/google_chrome_silently_installs_4_gb_ai) - [Google Chrome silently installs a 4 GB AI model on your device without consent](https://www.thatprivacyguy.com/blog/chrome-silent-nano-install)
 * [2026-05-05, 18:40:49](https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos) - [SLAM: s6/synit based NixOS](https://worker.informatics.coop/slam/)
 * [2026-05-05, 17:57:24](https://lobste.rs/s/qausao/dispute_over_tab_key_between_microsoft) - [A dispute over the TAB key between Microsoft and IBM organizational structures](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
