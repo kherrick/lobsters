@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 11:08:33](https://lobste.rs/s/t9esuf/1000_third_parties_could_have_stolen_ripe) - [1000 third parties could have stolen RIPE NCC session tokens - by design](https://mxsasha.eu/posts/ripe-ncc-sso-cookie-exposure/)
+* [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC (video)](https://www.chiply.dev/post-vompeccc-showcase)
+* [2026-05-06, 09:13:55](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai) - [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/)
+* [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds) - [A new filesystem for pidfds](https://lwn.net/Articles/963749/)
 * [2026-05-06, 07:19:31](https://lobste.rs/s/pzx24l/iphone_dumbphone) - [iPhone dumbphone](https://stopa.io/post/297)
 * [2026-05-06, 07:13:50](https://lobste.rs/s/78htxr/working_was_beginning_part_two_ant) - [Working was the beginning (Part two of Ant)](https://themackabu.dev/blog/ant-part-two)
 * [2026-05-06, 07:13:50](https://lobste.rs/s/78htxr/working_was_beginning) - [Working was the beginning](https://themackabu.dev/blog/ant-part-two)
+* [2026-05-06, 06:21:40](https://lobste.rs/s/bgjmvk/we_re_not_building_ai_features_for_money) - [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money)
 * [2026-05-06, 04:42:18](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified) - [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247)
 * [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 * [2026-05-06, 00:49:05](https://lobste.rs/s/4wi5q4/vi_family) - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)

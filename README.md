@@ -1,8 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-06, 11:08:33](https://lobste.rs/s/t9esuf/1000_third_parties_could_have_stolen_ripe) - [1000 third parties could have stolen RIPE NCC session tokens - by design](https://mxsasha.eu/posts/ripe-ncc-sso-cookie-exposure/)
+* [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC (video)](https://www.chiply.dev/post-vompeccc-showcase)
+* [2026-05-06, 09:13:55](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai) - [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/)
+* [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds) - [A new filesystem for pidfds](https://lwn.net/Articles/963749/)
 * [2026-05-06, 07:19:31](https://lobste.rs/s/pzx24l/iphone_dumbphone) - [iPhone dumbphone](https://stopa.io/post/297)
-* [2026-05-06, 07:13:50](https://lobste.rs/s/78htxr/working_was_beginning_part_two_ant) - [Working was the beginning (Part two of Ant)](https://themackabu.dev/blog/ant-part-two)
+* [2026-05-06, 06:21:40](https://lobste.rs/s/bgjmvk/we_re_not_building_ai_features_for_money) - [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money)
 * [2026-05-06, 04:42:18](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified) - [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247)
 * [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 * [2026-05-06, 00:49:05](https://lobste.rs/s/4wi5q4/vi_family) - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
@@ -12,11 +16,8 @@
 * [2026-05-05, 18:40:49](https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos) - [SLAM: s6/synit based NixOS](https://worker.informatics.coop/slam/)
 * [2026-05-05, 17:57:24](https://lobste.rs/s/qausao/dispute_over_tab_key_between_microsoft) - [A dispute over the TAB key between Microsoft and IBM organizational structures](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
 * [2026-05-05, 17:40:08](https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
-* [2026-05-05, 16:44:33](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve) - [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/)
 * [2026-05-05, 15:53:32](https://lobste.rs/s/opwgjp/one_week_view_types) - [One week of view_types](https://scrabsha.dev/articles/one-week-of-view-types.html)
-* [2026-05-05, 15:15:49](https://lobste.rs/s/njja19/we_re_announcing_mikan_proof_assistant) - [We're announcing Mikan: a proof assistant for cubical type theory, forked from the Agda codebase](https://types.pl/@amy/116522250630340534)
 * [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-* [2026-05-05, 14:00:58](https://lobste.rs/s/gsjskz/behavior_oriented_concurrency_for) - [Behavior-Oriented Concurrency for Python: Lock-less, Deadlock-free, Ownership-based](https://microsoft.github.io/bocpy/)
 * [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
 * [2026-05-05, 13:28:42](https://lobste.rs/s/3c4ba9/tokens_dreams) - [Tokens and Dreams](https://charlesleifer.com/blog/tokens-and-dreams/)
 * [2026-05-05, 13:27:10](https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product) - [claude code is not making your product better](https://ethanding.substack.com/p/claude-code-is-not-making-your-product)
@@ -24,7 +25,6 @@
 * [2026-05-05, 12:32:59](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd) - [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/)
 * [2026-05-05, 03:07:03](https://lobste.rs/s/otxkjw/bun_js_runtime_is_being_vibe_ported_from) - [Bun (the js runtime) is being vibe-ported from zig to rust](https://github.com/oven-sh/bun/blob/claude/phase-a-port/docs/PORTING.md)
 * [2026-05-04, 22:20:57](https://lobste.rs/s/pdckk8/podman_rootless_containers_copy_fail) - [Podman rootless containers and the Copy Fail exploit](https://garrido.io/notes/podman-rootless-containers-copy-fail/)
-* [2026-05-04, 20:17:53](https://lobste.rs/s/g0crsm/security_advisory_local_privilege) - [Security Advisory: Local privilege escalation in Lix and Nix](https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407)
 
 ## [Archives](archives/index.md)
 
