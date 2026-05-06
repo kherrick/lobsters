@@ -20,10 +20,10 @@
 * [2026-05-06, 00:49:05](https://lobste.rs/s/4wi5q4/vi_family) - [The vi family](https://lpar.ATH0.com/posts/2026/05/the-vi-family/)
 * [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
 * [2026-05-05, 21:30:29](https://lobste.rs/s/sywxsk/starfighter_16_inch) - [StarFighter 16-inch](https://us.starlabs.systems/pages/starfighter)
+* [2026-05-05, 20:49:14](https://lobste.rs/s/pgisix/understanding_wi_fi_4_5_6_6e_7_8_802_11_n_ac_ax) - [Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/ac/ax/be/bn)](https://www.wiisfi.com/)
 * [2026-05-05, 18:40:49](https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos) - [SLAM: s6/synit based NixOS](https://worker.informatics.coop/slam/)
 * [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
 * [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
-* [2026-05-05, 13:27:10](https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product) - [claude code is not making your product better](https://ethanding.substack.com/p/claude-code-is-not-making-your-product)
 * [2026-05-05, 13:21:28](https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle) - [A bidirectional typechecking puzzle](https://haskellforall.com/2026/05/a-bidirectional-typechecking-puzzle)
 
 ## [Archives](archives/index.md)
