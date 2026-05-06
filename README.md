@@ -3,6 +3,7 @@
 * [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
 * [2026-05-05, 21:30:29](https://lobste.rs/s/sywxsk/starfighter_16_inch) - [StarFighter 16-inch](https://us.starlabs.systems/pages/starfighter)
 * [2026-05-05, 18:40:49](https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos) - [SLAM: s6/synit based NixOS](https://worker.informatics.coop/slam/)
+* [2026-05-05, 17:57:24](https://lobste.rs/s/qausao/dispute_over_tab_key_between_microsoft) - [A dispute over the TAB key between Microsoft and IBM organizational structures](https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298)
 * [2026-05-05, 17:40:08](https://lobste.rs/s/qynufo/comparing_z80_6502_their_relatives) - [Comparing the Z80 and 6502 to Their Relatives](https://bumbershootsoft.wordpress.com/2026/05/02/comparing-the-z80-and-6502-to-their-relatives/)
 * [2026-05-05, 16:44:33](https://lobste.rs/s/ebv5qy/exploitable_integer_overflow_lix_cve) - [An exploitable integer overflow in Lix (CVE-2026-44028)](https://lix.systems/blog/2026-05-05-lix-unsigned-integer-overflow/)
 * [2026-05-05, 15:53:32](https://lobste.rs/s/opwgjp/one_week_view_types) - [One week of view_types](https://scrabsha.dev/articles/one-week-of-view-types.html)
@@ -24,7 +25,6 @@
 * [2026-05-04, 19:07:09](https://lobste.rs/s/tzewx3/oasis_linux) - [Oasis Linux](https://git.sr.ht/~mcf/oasis)
 * [2026-05-04, 19:06:29](https://lobste.rs/s/jh9f2r/release_v0_9_0_foxboron_ssh_tpm_agent) - [Release v0.9.0 · Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent/releases/tag/v0.9.0)
 * [2026-05-04, 14:26:01](https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state) - [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
-* [2026-05-04, 12:24:41](https://lobste.rs/s/pidcaz/how_llms_distort_our_written_language) - [How LLMs Distort Our Written Language](https://sites.google.com/view/llmwritingdistortion/home)
 
 ## [Archives](archives/index.md)
 
