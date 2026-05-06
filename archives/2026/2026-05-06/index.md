@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 17:06:57](https://lobste.rs/s/t3f6br/original_super_mario_64_is_now_playable_on) - [The Original Super Mario 64 Is Now Playable On GBA](https://retrododo.com/the-original-super-mario-64-is-now-playable-on-gba/)
+* [2026-05-06, 16:48:39](https://lobste.rs/s/4wsk2b/arguments_parsing_guile) - [Arguments parsing in Guile](https://fishinthecalculator.me/blog/arguments-parsing-in-guile.html)
 * [2026-05-06, 15:18:27](https://lobste.rs/s/yjjtpk/hardware_assisted_arm_vms_for_s390) - [Hardware-assisted Arm VMs for s390](https://lwn.net/SubscriberLink/1069954/989b1d8343bfe078/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
