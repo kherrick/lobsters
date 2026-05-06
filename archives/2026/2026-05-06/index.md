@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
+* [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
 * [2026-05-06, 12:39:32](https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib) - [Solod v0.1: Go ergonomics, practical stdlib, native C interop](https://antonz.org/solod-v0-1/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 11:15:21](https://lobste.rs/s/zn53g8/scroll_driven_animations) - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/)
@@ -11,6 +13,7 @@
 * [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC (video)](https://www.chiply.dev/post-vompeccc-showcase)
 * [2026-05-06, 09:13:55](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai) - [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/)
+* [2026-05-06, 08:54:03](https://lobste.rs/s/xw14qb/text_editor_as_ui_implementation) - [A text editor as UI: implementation](https://softwaremaniacs.org/blog/2026/05/05/nfp-e/)
 * [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds_2024) - [A new filesystem for pidfds (2024)](https://lwn.net/Articles/963749/)
 * [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds) - [A new filesystem for pidfds](https://lwn.net/Articles/963749/)
 * [2026-05-06, 07:19:31](https://lobste.rs/s/pzx24l/iphone_dumbphone) - [iPhone dumbphone](https://stopa.io/post/297)
