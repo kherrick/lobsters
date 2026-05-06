@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 22:04:39](https://lobste.rs/s/lwjndk/plastic_flowers_protect_hive) - [Plastic Flowers to Protect the Hive](https://phildini.dev/slopsquatting-for-good)
 * [2026-05-06, 17:06:57](https://lobste.rs/s/t3f6br/original_super_mario_64_is_now_playable_on) - [The Original Super Mario 64 Is Now Playable On GBA](https://retrododo.com/the-original-super-mario-64-is-now-playable-on-gba/)
 * [2026-05-06, 16:48:39](https://lobste.rs/s/4wsk2b/arguments_parsing_guile) - [Arguments parsing in Guile](https://fishinthecalculator.me/blog/arguments-parsing-in-guile.html)
 * [2026-05-06, 15:18:27](https://lobste.rs/s/yjjtpk/hardware_assisted_arm_vms_for_s390) - [Hardware-assisted Arm VMs for s390](https://lwn.net/SubscriberLink/1069954/989b1d8343bfe078/)
