@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-06, 15:18:27](https://lobste.rs/s/yjjtpk/hardware_assisted_arm_vms_for_s390) - [Hardware-assisted Arm VMs for s390](https://lwn.net/SubscriberLink/1069954/989b1d8343bfe078/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
+* [2026-05-06, 13:48:49](https://lobste.rs/s/fhcmxu/peer_production_license) - [Peer Production License](https://worker.informatics.coop/PPL.html)
 * [2026-05-06, 12:39:32](https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib) - [Solod v0.1: Go ergonomics, practical stdlib, native C interop](https://antonz.org/solod-v0-1/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 11:15:21](https://lobste.rs/s/zn53g8/scroll_driven_animations) - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/)
-* [2026-05-06, 11:08:33](https://lobste.rs/s/t9esuf/1000_third_parties_could_have_stolen_ripe) - [1000 third parties could have stolen RIPE NCC session tokens - by design](https://mxsasha.eu/posts/ripe-ncc-sso-cookie-exposure/)
 * [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
-* [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC (video)](https://www.chiply.dev/post-vompeccc-showcase)
+* [2026-05-06, 09:18:32](https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc) - [Emacs Completion Showcase with VOMPECCC](https://www.chiply.dev/post-vompeccc-showcase)
 * [2026-05-06, 09:13:55](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai) - [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/)
 * [2026-05-06, 08:54:03](https://lobste.rs/s/xw14qb/text_editor_as_ui_implementation) - [A text editor as UI: implementation](https://softwaremaniacs.org/blog/2026/05/05/nfp-e/)
 * [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds_2024) - [A new filesystem for pidfds (2024)](https://lwn.net/Articles/963749/)
@@ -24,7 +25,6 @@
 * [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
 * [2026-05-05, 13:27:10](https://lobste.rs/s/kn0jwm/claude_code_is_not_making_your_product) - [claude code is not making your product better](https://ethanding.substack.com/p/claude-code-is-not-making-your-product)
 * [2026-05-05, 13:21:28](https://lobste.rs/s/rsj8sx/bidirectional_typechecking_puzzle) - [A bidirectional typechecking puzzle](https://haskellforall.com/2026/05/a-bidirectional-typechecking-puzzle)
-* [2026-05-05, 12:32:59](https://lobste.rs/s/z0ozbb/caddy_cert_expired_because_systemd) - [A Caddy Cert Expired Because systemd-resolved Was Selectively Broken](https://rant.mvh.dev/a-caddy-cert-expired-because-systemd-resolved-was-selectively-broken/)
 
 ## [Archives](archives/index.md)
 

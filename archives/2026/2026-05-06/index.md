@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 15:18:27](https://lobste.rs/s/yjjtpk/hardware_assisted_arm_vms_for_s390) - [Hardware-assisted Arm VMs for s390](https://lwn.net/SubscriberLink/1069954/989b1d8343bfe078/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
+* [2026-05-06, 13:48:49](https://lobste.rs/s/fhcmxu/peer_production_license) - [Peer Production License](https://worker.informatics.coop/PPL.html)
 * [2026-05-06, 12:39:32](https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib) - [Solod v0.1: Go ergonomics, practical stdlib, native C interop](https://antonz.org/solod-v0-1/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 11:15:21](https://lobste.rs/s/zn53g8/scroll_driven_animations) - [Scroll-Driven Animations](https://www.joshwcomeau.com/animation/scroll-driven-animations/)
