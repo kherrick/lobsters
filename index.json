@@ -1,11 +1,31 @@
 [
   [
     [
-      "2026-05-06, 07:13:50",
-      "https://lobste.rs/s/78htxr/working_was_beginning"
+      "2026-05-06, 09:18:32",
+      "https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc"
     ],
     [
-      "Working was the beginning",
+      "Emacs Completion Showcase with VOMPECCC (video)",
+      "https://www.chiply.dev/post-vompeccc-showcase"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 07:19:31",
+      "https://lobste.rs/s/pzx24l/iphone_dumbphone"
+    ],
+    [
+      "iPhone dumbphone",
+      "https://stopa.io/post/297"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 07:13:50",
+      "https://lobste.rs/s/78htxr/working_was_beginning_part_two_ant"
+    ],
+    [
+      "Working was the beginning (Part two of Ant)",
       "https://themackabu.dev/blog/ant-part-two"
     ]
   ],
@@ -227,26 +247,6 @@
     [
       "Security Advisory: Local privilege escalation in Lix and Nix",
       "https://discourse.nixos.org/t/security-advisory-local-privilege-escalation-in-lix-and-nix/77407"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 19:07:09",
-      "https://lobste.rs/s/tzewx3/oasis_linux"
-    ],
-    [
-      "Oasis Linux",
-      "https://git.sr.ht/~mcf/oasis"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 14:26:01",
-      "https://lobste.rs/s/flowcy/async_rust_never_left_mvp_state"
-    ],
-    [
-      "Async Rust never left the MVP state",
-      "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state"
     ]
   ]
 ]
