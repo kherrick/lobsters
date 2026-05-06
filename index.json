@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-05-05, 20:49:14",
+      "https://lobste.rs/s/pgisix/understanding_wi_fi_4_5_6_6e_7_8_802_11_n_ac_ax"
+    ],
+    [
+      "Understanding Wi-Fi 4/5/6/6E/7/8 (802.11 n/ac/ax/be/bn)",
+      "https://www.wiisfi.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-05, 18:40:49",
       "https://lobste.rs/s/espq8j/slam_s6_synit_based_nixos"
     ],
@@ -197,16 +207,6 @@
     [
       "Podman rootless containers and the Copy Fail exploit",
       "https://garrido.io/notes/podman-rootless-containers-copy-fail/"
-    ]
-  ],
-  [
-    [
-      "2026-05-04, 20:38:33",
-      "https://lobste.rs/s/nmnmnq/nondeterminism_s_not_problem"
-    ],
-    [
-      "Nondeterminism's not the problem",
-      "https://isaacvando.com/nondeterminisms-not-the-problem"
     ]
   ],
   [
