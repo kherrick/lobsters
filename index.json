@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-07, 08:00:18",
+      "https://lobste.rs/s/qbh60z/try_lispe_browser"
+    ],
+    [
+      "Try LispE in the Browser",
+      "https://naver.github.io/lispe/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 07:03:27",
+      "https://lobste.rs/s/pk0e1r/programming_still_sucks"
+    ],
+    [
+      "Programming Still Sucks",
+      "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 07:01:21",
+      "https://lobste.rs/s/gwjycd/dnssec_disruption_affecting_de_domains"
+    ],
+    [
+      "DNSSEC disruption affecting .de domains",
+      "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 05:26:18",
       "https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-05-06, 08:45:13",
-      "https://lobste.rs/s/1mecju/new_filesystem_for_pidfds_2024"
-    ],
-    [
-      "A new filesystem for pidfds (2024)",
-      "https://lwn.net/Articles/963749/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 07:19:31",
       "https://lobste.rs/s/pzx24l/iphone_dumbphone"
     ],
@@ -227,26 +247,6 @@
     [
       "Principia Softwarica",
       "https://principia-softwarica.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 22:22:30",
-      "https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler"
-    ],
-    [
-      "krabby: making a fast Rust compiler",
-      "https://bal-e.org/speed/krabby/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 14:46:08",
-      "https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google"
-    ],
-    [
-      "RSS Feeds Send Me More Traffic Than Google",
-      "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
     ]
   ]
 ]
