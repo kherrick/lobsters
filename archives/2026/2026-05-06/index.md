@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-06](index.md)
 
+* [2026-05-06, 23:45:14](https://lobste.rs/s/at9lwa/google_s_prompt_api) - [Google’s Prompt API](https://wil.to/posts/googles-prompt-api/)
+* [2026-05-06, 23:02:08](https://lobste.rs/s/ik5vhe/path_not_taken_for_oxcaml) - [A Path Not Taken for OxCaml](https://joel.place/blog/path-not-taken/)
+* [2026-05-06, 22:36:57](https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no) - [cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page](https://github.com/scosman/cursed_browser)
 * [2026-05-06, 22:29:43](https://lobste.rs/s/bcau52/branimir_lambov_from_ibm_on_cassandra) - [Branimir Lambov from IBM on Cassandra](https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html)
 * [2026-05-06, 22:04:39](https://lobste.rs/s/lwjndk/plastic_flowers_protect_hive) - [Plastic Flowers to Protect the Hive](https://phildini.dev/slopsquatting-for-good)
+* [2026-05-06, 17:57:18](https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are) - [Vibe coding and agentic engineering are getting closer than I’d like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 17:06:57](https://lobste.rs/s/t3f6br/original_super_mario_64_is_now_playable_on) - [The Original Super Mario 64 Is Now Playable On GBA](https://retrododo.com/the-original-super-mario-64-is-now-playable-on-gba/)
 * [2026-05-06, 16:48:39](https://lobste.rs/s/4wsk2b/arguments_parsing_guile) - [Arguments parsing in Guile](https://fishinthecalculator.me/blog/arguments-parsing-in-guile.html)
 * [2026-05-06, 15:18:27](https://lobste.rs/s/yjjtpk/hardware_assisted_arm_vms_for_s390) - [Hardware-assisted Arm VMs for s390](https://lwn.net/SubscriberLink/1069954/989b1d8343bfe078/)
