@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-07, 21:13:41",
+      "https://lobste.rs/s/uahtro/cloudflare_lays_off_1_100_employees"
+    ],
+    [
+      "Cloudflare lays off 1,100 employees",
+      "https://blog.cloudflare.com/building-for-the-future/"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 19:52:46",
+      "https://lobste.rs/s/dpu6ym/building_transit_tracker"
+    ],
+    [
+      "Building Transit Tracker",
+      "https://blog.horner.tj/building-transit-tracker/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 19:23:45",
       "https://lobste.rs/s/zys8hd/mojo_v1_0_0b1"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-05-06, 23:02:08",
-      "https://lobste.rs/s/ik5vhe/path_not_taken_for_oxcaml"
-    ],
-    [
-      "A Path Not Taken for OxCaml",
-      "https://joel.place/blog/path-not-taken/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 22:36:57",
       "https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no"
     ],
@@ -237,16 +247,6 @@
     [
       "Multi-stroke text effect in CSS",
       "https://yuanchuan.dev/multi-stroke-text-effect-in-css"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 04:14:58",
-      "https://lobste.rs/s/iswtil/principia_softwarica"
-    ],
-    [
-      "Principia Softwarica",
-      "https://principia-softwarica.org/"
     ]
   ]
 ]
