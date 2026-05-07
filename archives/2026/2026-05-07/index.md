@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 10:42:37](https://lobste.rs/s/gprclr/major_dns_outage_hits_de_domains_dnssec) - [Major DNS Outage Hits .de Domains: DNSSEC Failure on May 5, 2026](https://www.ip.network/blog/de-domain-dnssec-outage-may-2026)
+* [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 08:00:18](https://lobste.rs/s/qbh60z/try_lispe_browser) - [Try LispE in the Browser](https://naver.github.io/lispe/)
 * [2026-05-07, 07:03:27](https://lobste.rs/s/pk0e1r/programming_still_sucks) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 * [2026-05-07, 07:01:21](https://lobste.rs/s/gwjycd/dnssec_disruption_affecting_de_domains) - [DNSSEC disruption affecting .de domains](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
