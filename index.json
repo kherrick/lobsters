@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-07, 11:48:35",
-      "https://lobste.rs/s/418jcl/vrl_log_splitting_flowg_v0_55_0"
+      "2026-05-07, 16:35:57",
+      "https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out"
     ],
     [
-      "VRL Log Splitting | FlowG v0.55.0",
-      "https://flowg.cloud/blog/vrl-log-splitting"
+      "jj v0.41.0 is out",
+      "https://github.com/jj-vcs/jj/releases/tag/v0.41.0"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 16:09:44",
+      "https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with"
+    ],
+    [
+      "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Major DNS Outage Hits .de Domains: DNSSEC Failure on May 5, 2026",
       "https://www.ip.network/blog/de-domain-dnssec-outage-may-2026"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 09:45:18",
+      "https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities"
+    ],
+    [
+      "AI Slop is Killing Online Communities",
+      "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2026-05-07, 04:28:44",
+      "https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager"
+    ],
+    [
+      "aube, a fast Node.js package manager",
+      "https://aube.en.dev/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 01:12:36",
       "https://lobste.rs/s/lmmkb5/new_hash_table_for_lwan_web_server"
     ],
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2026-05-06, 22:36:57",
+      "https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no"
+    ],
+    [
+      "cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page",
+      "https://github.com/scosman/cursed_browser"
+    ]
+  ],
+  [
+    [
       "2026-05-06, 22:29:43",
       "https://lobste.rs/s/bcau52/branimir_lambov_from_ibm_on_cassandra"
     ],
@@ -121,12 +161,22 @@
   ],
   [
     [
-      "2026-05-06, 17:06:57",
-      "https://lobste.rs/s/t3f6br/original_super_mario_64_is_now_playable_on"
+      "2026-05-06, 22:04:39",
+      "https://lobste.rs/s/lwjndk/plastic_flowers_protect_hive"
     ],
     [
-      "The Original Super Mario 64 Is Now Playable On GBA",
-      "https://retrododo.com/the-original-super-mario-64-is-now-playable-on-gba/"
+      "Plastic Flowers to Protect the Hive",
+      "https://phildini.dev/slopsquatting-for-good"
+    ]
+  ],
+  [
+    [
+      "2026-05-06, 17:57:18",
+      "https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are"
+    ],
+    [
+      "Vibe coding and agentic engineering are getting closer than I’d like",
+      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/"
     ]
   ],
   [
@@ -161,22 +211,12 @@
   ],
   [
     [
-      "2026-05-06, 12:39:32",
-      "https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib"
+      "2026-05-06, 11:50:33",
+      "https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had"
     ],
     [
-      "Solod v0.1: Go ergonomics, practical stdlib, native C interop",
-      "https://antonz.org/solod-v0-1/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 11:15:21",
-      "https://lobste.rs/s/zn53g8/scroll_driven_animations"
-    ],
-    [
-      "Scroll-Driven Animations",
-      "https://www.joshwcomeau.com/animation/scroll-driven-animations/"
+      "Building the deployment tool I wish I had",
+      "https://ruuda.nl/2026/deptool"
     ]
   ],
   [
@@ -187,36 +227,6 @@
     [
       "Multi-stroke text effect in CSS",
       "https://yuanchuan.dev/multi-stroke-text-effect-in-css"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 09:18:32",
-      "https://lobste.rs/s/ixlzlj/emacs_completion_showcase_with_vompeccc"
-    ],
-    [
-      "Emacs Completion Showcase with VOMPECCC",
-      "https://www.chiply.dev/post-vompeccc-showcase"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 08:45:13",
-      "https://lobste.rs/s/1mecju/new_filesystem_for_pidfds_2024"
-    ],
-    [
-      "A new filesystem for pidfds (2024)",
-      "https://lwn.net/Articles/963749/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 07:19:31",
-      "https://lobste.rs/s/pzx24l/iphone_dumbphone"
-    ],
-    [
-      "iPhone dumbphone",
-      "https://stopa.io/post/297"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Principia Softwarica",
       "https://principia-softwarica.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 14:46:08",
-      "https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google"
-    ],
-    [
-      "RSS Feeds Send Me More Traffic Than Google",
-      "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
     ]
   ]
 ]
