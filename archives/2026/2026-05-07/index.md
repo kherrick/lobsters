@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 21:13:41](https://lobste.rs/s/uahtro/cloudflare_lays_off_1_100_employees) - [Cloudflare lays off 1,100 employees](https://blog.cloudflare.com/building-for-the-future/)
+* [2026-05-07, 19:52:46](https://lobste.rs/s/dpu6ym/building_transit_tracker) - [Building Transit Tracker](https://blog.horner.tj/building-transit-tracker/)
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:05:15](https://lobste.rs/s/lmymmr/affordances_screenless_writing) - [Affordances of a screenless writing interface](https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface)

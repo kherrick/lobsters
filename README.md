@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-07, 21:13:41](https://lobste.rs/s/uahtro/cloudflare_lays_off_1_100_employees) - [Cloudflare lays off 1,100 employees](https://blog.cloudflare.com/building-for-the-future/)
+* [2026-05-07, 19:52:46](https://lobste.rs/s/dpu6ym/building_transit_tracker) - [Building Transit Tracker](https://blog.horner.tj/building-transit-tracker/)
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:05:15](https://lobste.rs/s/lmymmr/affordances_screenless_writing) - [Affordances of a screenless writing interface](https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface)
@@ -17,14 +19,12 @@
 * [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
 * [2026-05-06, 23:45:14](https://lobste.rs/s/at9lwa/google_s_prompt_api) - [Google’s Prompt API](https://wil.to/posts/googles-prompt-api/)
-* [2026-05-06, 23:02:08](https://lobste.rs/s/ik5vhe/path_not_taken_for_oxcaml) - [A Path Not Taken for OxCaml](https://joel.place/blog/path-not-taken/)
 * [2026-05-06, 22:36:57](https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no) - [cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page](https://github.com/scosman/cursed_browser)
 * [2026-05-06, 17:57:18](https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are) - [Vibe coding and agentic engineering are getting closer than I’d like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
-* [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 
 ## [Archives](archives/index.md)
 
