@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-07, 05:26:18",
+      "https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is"
+    ],
+    [
+      "Making your own programming language is easier than you think (but also harder)",
+      "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 04:28:44",
+      "https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager"
+    ],
+    [
+      "aube, a fast Node.js package manager",
+      "https://aube.en.dev/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 01:12:36",
       "https://lobste.rs/s/lmmkb5/new_hash_table_for_lwan_web_server"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-06, 06:21:40",
-      "https://lobste.rs/s/bgjmvk/we_re_not_building_ai_features_for_money"
-    ],
-    [
-      "We're Not Building AI Features for the Money",
-      "https://zed.dev/blog/not-building-ai-for-the-money"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 04:42:18",
       "https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified"
     ],
@@ -237,16 +247,6 @@
     [
       "RSS Feeds Send Me More Traffic Than Google",
       "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/"
-    ]
-  ],
-  [
-    [
-      "2026-05-05, 13:46:37",
-      "https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network"
-    ],
-    [
-      "Why didn’t IPv6 work in my home network?",
-      "https://gowtham.dev/blog/ipv6-problems.html"
     ]
   ]
 ]
