@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII? – Tyler Hillery](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 21:13:41](https://lobste.rs/s/uahtro/cloudflare_lays_off_1_100_employees) - [Cloudflare lays off 1,100 employees](https://blog.cloudflare.com/building-for-the-future/)
 * [2026-05-07, 19:52:46](https://lobste.rs/s/dpu6ym/building_transit_tracker) - [Building Transit Tracker](https://blog.horner.tj/building-transit-tracker/)
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
@@ -18,7 +19,6 @@
 * [2026-05-07, 07:01:21](https://lobste.rs/s/gwjycd/dnssec_disruption_affecting_de_domains) - [DNSSEC disruption affecting .de domains](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 * [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
-* [2026-05-06, 23:45:14](https://lobste.rs/s/at9lwa/google_s_prompt_api) - [Google’s Prompt API](https://wil.to/posts/googles-prompt-api/)
 * [2026-05-06, 22:36:57](https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no) - [cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page](https://github.com/scosman/cursed_browser)
 * [2026-05-06, 17:57:18](https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are) - [Vibe coding and agentic engineering are getting closer than I’d like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
