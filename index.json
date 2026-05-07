@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-07, 17:53:35",
+      "https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line"
+    ],
+    [
+      "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
+      "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 17:24:01",
+      "https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint"
+    ],
+    [
+      "Ploopy Bean - external trackpoint",
+      "https://ploopy.co/bean/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 16:35:57",
       "https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-05-07, 01:12:36",
-      "https://lobste.rs/s/lmmkb5/new_hash_table_for_lwan_web_server"
-    ],
-    [
-      "A new hash table for the Lwan web server",
-      "https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 23:45:14",
       "https://lobste.rs/s/at9lwa/google_s_prompt_api"
     ],
@@ -197,16 +207,6 @@
     [
       "How an HTTP header caused time.gov to skew from UTC",
       "https://alexsci.com/blog/how-time-gov-works/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 13:48:49",
-      "https://lobste.rs/s/fhcmxu/peer_production_license"
-    ],
-    [
-      "Peer Production License",
-      "https://worker.informatics.coop/PPL.html"
     ]
   ],
   [
