@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
+* [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
 * [2026-05-07, 01:12:36](https://lobste.rs/s/lmmkb5/new_hash_table_for_lwan_web_server) - [A new hash table for the Lwan web server](https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html)
 * [2026-05-06, 23:45:14](https://lobste.rs/s/at9lwa/google_s_prompt_api) - [Google’s Prompt API](https://wil.to/posts/googles-prompt-api/)
 * [2026-05-06, 23:02:08](https://lobste.rs/s/ik5vhe/path_not_taken_for_oxcaml) - [A Path Not Taken for OxCaml](https://joel.place/blog/path-not-taken/)
@@ -19,12 +21,10 @@
 * [2026-05-06, 09:13:55](https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai) - [Programming Is Real Engineering, And AI Proves It](https://jerf.org/iri/post/2026/programming_is_engineering/)
 * [2026-05-06, 08:45:13](https://lobste.rs/s/1mecju/new_filesystem_for_pidfds_2024) - [A new filesystem for pidfds (2024)](https://lwn.net/Articles/963749/)
 * [2026-05-06, 07:19:31](https://lobste.rs/s/pzx24l/iphone_dumbphone) - [iPhone dumbphone](https://stopa.io/post/297)
-* [2026-05-06, 06:21:40](https://lobste.rs/s/bgjmvk/we_re_not_building_ai_features_for_money) - [We're Not Building AI Features for the Money](https://zed.dev/blog/not-building-ai-for-the-money)
 * [2026-05-06, 04:42:18](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified) - [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247)
 * [2026-05-06, 04:14:58](https://lobste.rs/s/iswtil/principia_softwarica) - [Principia Softwarica](https://principia-softwarica.org/)
 * [2026-05-05, 22:22:30](https://lobste.rs/s/zrnuhi/krabby_making_fast_rust_compiler) - [krabby: making a fast Rust compiler](https://bal-e.org/speed/krabby/)
 * [2026-05-05, 14:46:08](https://lobste.rs/s/z0nkyf/rss_feeds_send_me_more_traffic_than_google) - [RSS Feeds Send Me More Traffic Than Google](https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/)
-* [2026-05-05, 13:46:37](https://lobste.rs/s/yhk0mq/why_didn_t_ipv6_work_my_home_network) - [Why didn’t IPv6 work in my home network?](https://gowtham.dev/blog/ipv6-problems.html)
 
 ## [Archives](archives/index.md)
 
