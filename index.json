@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-07, 19:23:45",
+      "https://lobste.rs/s/zys8hd/mojo_v1_0_0b1"
+    ],
+    [
+      "Mojo v1.0.0b1",
+      "https://mojolang.org/releases/v1.0.0b1"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 19:06:55",
+      "https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe"
+    ],
+    [
+      "Dirty Frag: Universal Linux LPE",
+      "https://www.openwall.com/lists/oss-security/2026/05/07/8"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 19:05:15",
+      "https://lobste.rs/s/lmymmr/affordances_screenless_writing"
+    ],
+    [
+      "Affordances of a screenless writing interface",
+      "https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 17:53:35",
       "https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line"
     ],
@@ -161,26 +191,6 @@
   ],
   [
     [
-      "2026-05-06, 22:29:43",
-      "https://lobste.rs/s/bcau52/branimir_lambov_from_ibm_on_cassandra"
-    ],
-    [
-      "Branimir Lambov from IBM on Cassandra",
-      "https://theconsensus.dev/p/2026/04/26/branimir-lambov-from-ibm-on-cassandra.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 22:04:39",
-      "https://lobste.rs/s/lwjndk/plastic_flowers_protect_hive"
-    ],
-    [
-      "Plastic Flowers to Protect the Hive",
-      "https://phildini.dev/slopsquatting-for-good"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 17:57:18",
       "https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are"
     ],
@@ -227,16 +237,6 @@
     [
       "Multi-stroke text effect in CSS",
       "https://yuanchuan.dev/multi-stroke-text-effect-in-css"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 04:42:18",
-      "https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified"
-    ],
-    [
-      "Go is FIPS 140-3 certified",
-      "https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247"
     ]
   ],
   [
