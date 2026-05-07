@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-07, 10:42:37",
+      "https://lobste.rs/s/gprclr/major_dns_outage_hits_de_domains_dnssec"
+    ],
+    [
+      "Major DNS Outage Hits .de Domains: DNSSEC Failure on May 5, 2026",
+      "https://www.ip.network/blog/de-domain-dnssec-outage-may-2026"
+    ]
+  ],
+  [
+    [
+      "2026-05-07, 09:45:18",
+      "https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities"
+    ],
+    [
+      "AI Slop is Killing Online Communities",
+      "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 08:00:18",
       "https://lobste.rs/s/qbh60z/try_lispe_browser"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-06, 12:39:32",
-      "https://lobste.rs/s/otb6fk/solod_v0_1_go_ergonomics_practical_stdlib"
-    ],
-    [
-      "Solod v0.1: Go ergonomics, practical stdlib, native C interop",
-      "https://antonz.org/solod-v0-1/"
-    ]
-  ],
-  [
-    [
       "2026-05-06, 11:50:33",
       "https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had"
     ],
@@ -207,16 +217,6 @@
     [
       "Emacs Completion Showcase with VOMPECCC",
       "https://www.chiply.dev/post-vompeccc-showcase"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 09:13:55",
-      "https://lobste.rs/s/mvv0ch/programming_is_real_engineering_ai"
-    ],
-    [
-      "Programming Is Real Engineering, And AI Proves It",
-      "https://jerf.org/iri/post/2026/programming_is_engineering/"
     ]
   ],
   [
