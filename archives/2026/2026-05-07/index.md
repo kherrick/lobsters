@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-07](index.md)
 
+* [2026-05-07, 17:53:35](https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line) - [Formatting an entire 25 million line codebase overnight: the rubyfmt story](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
+* [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
 * [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
 * [2026-05-07, 16:09:44](https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with) - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 11:48:35](https://lobste.rs/s/418jcl/vrl_log_splitting_flowg_v0_55_0) - [VRL Log Splitting | FlowG v0.55.0](https://flowg.cloud/blog/vrl-log-splitting)

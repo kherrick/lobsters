@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-07, 17:53:35](https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line) - [Formatting an entire 25 million line codebase overnight: the rubyfmt story](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
+* [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
 * [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
 * [2026-05-07, 16:09:44](https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with) - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 10:56:47](https://lobste.rs/s/azajfp/php_license_change_is_imminent) - [A PHP license change is imminent](https://lwn.net/Articles/1063993/)
@@ -11,7 +13,6 @@
 * [2026-05-07, 07:01:21](https://lobste.rs/s/gwjycd/dnssec_disruption_affecting_de_domains) - [DNSSEC disruption affecting .de domains](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 * [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
-* [2026-05-07, 01:12:36](https://lobste.rs/s/lmmkb5/new_hash_table_for_lwan_web_server) - [A new hash table for the Lwan web server](https://tia.mat.br/posts/2026/05/06/a-new-hash-table-for-lwan.html)
 * [2026-05-06, 23:45:14](https://lobste.rs/s/at9lwa/google_s_prompt_api) - [Google’s Prompt API](https://wil.to/posts/googles-prompt-api/)
 * [2026-05-06, 23:02:08](https://lobste.rs/s/ik5vhe/path_not_taken_for_oxcaml) - [A Path Not Taken for OxCaml](https://joel.place/blog/path-not-taken/)
 * [2026-05-06, 22:36:57](https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no) - [cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page](https://github.com/scosman/cursed_browser)
@@ -20,7 +21,6 @@
 * [2026-05-06, 17:57:18](https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are) - [Vibe coding and agentic engineering are getting closer than I’d like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
-* [2026-05-06, 13:48:49](https://lobste.rs/s/fhcmxu/peer_production_license) - [Peer Production License](https://worker.informatics.coop/PPL.html)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 * [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 * [2026-05-06, 04:42:18](https://lobste.rs/s/feqwqw/go_is_fips_140_3_certified) - [Go is FIPS 140-3 certified](https://csrc.nist.gov/projects/cryptographic-module-validation-program/certificate/5247)
