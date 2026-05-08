@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 21:01:03](https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir) - [jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
 * [2026-05-08, 20:04:48](https://lobste.rs/s/0xnfql/vulnerability_garden_growing_list_named) - [Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits](https://vulnerability.garden/)

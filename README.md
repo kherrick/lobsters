@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-08, 21:01:03](https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir) - [jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
 * [2026-05-08, 20:04:48](https://lobste.rs/s/0xnfql/vulnerability_garden_growing_list_named) - [Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits](https://vulnerability.garden/)
@@ -20,7 +21,6 @@
 * [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
-* [2026-05-07, 17:53:35](https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line) - [Formatting an entire 25 million line codebase overnight: the rubyfmt story](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
 * [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
 * [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
 * [2026-05-07, 16:09:44](https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with) - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
