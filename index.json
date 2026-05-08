@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-08, 20:54:05",
+      "https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for"
+    ],
+    [
+      "Let's Encrypt Stopping Issuance for Potential Incident",
+      "https://letsencrypt.status.io/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 20:13:15",
+      "https://lobste.rs/s/w2nz01/nixos_secrets"
+    ],
+    [
+      "NixOS and Secrets",
+      "https://isabelroses.com/blog/nixos-and-secrets/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 20:04:48",
       "https://lobste.rs/s/0xnfql/vulnerability_garden_growing_list_named"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-05-08, 08:45:13",
-      "https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for"
-    ],
-    [
-      "hpke-ng: Faster, Smaller, Harder HPKE for Rust",
-      "https://symbolic.software/blog/2026-05-08-hpke-ng/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 06:54:42",
       "https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal"
     ],
@@ -147,16 +157,6 @@
     [
       "From Supabase to Clerk to Better Auth",
       "https://blog.val.town/better-auth"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 01:44:18",
-      "https://lobste.rs/s/h7nu14/cuda_oxide_book"
-    ],
-    [
-      "The cuda-oxide Book",
-      "https://nvlabs.github.io/cuda-oxide/"
     ]
   ],
   [
