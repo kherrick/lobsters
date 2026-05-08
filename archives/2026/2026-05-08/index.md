@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 08:45:13](https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for) - [hpke-ng: Faster, Smaller, Harder HPKE for Rust](https://symbolic.software/blog/2026-05-08-hpke-ng/)
+* [2026-05-08, 08:07:27](https://lobste.rs/s/o6fdba/just_fucking_use_react) - [Just Fucking Use React](https://justfuckingusereact.com)
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
 * [2026-05-08, 05:41:13](https://lobste.rs/s/gxogzo/from_supabase_clerk_better_auth) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
 * [2026-05-08, 04:38:19](https://lobste.rs/s/6ctipx/revisiting_pq_wireguard) - [Revisiting PQ WireGuard](https://eprint.iacr.org/2025/1758.pdf)
