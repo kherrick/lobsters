@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
+* [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
 * [2026-05-08, 20:04:48](https://lobste.rs/s/0xnfql/vulnerability_garden_growing_list_named) - [Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits](https://vulnerability.garden/)
 * [2026-05-08, 18:39:49](https://lobste.rs/s/jfe19u/rooting_vmc2040_security_camera) - [Rooting a VMC2040 security camera](https://www.marcusfolkesson.se/blog/arlo-vmc2040-part1/)
 * [2026-05-08, 16:55:25](https://lobste.rs/s/eabrz3/what_we_lost_last_time_code_got_cheap) - [What We Lost the Last Time Code Got Cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
