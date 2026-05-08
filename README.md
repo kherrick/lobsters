@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
+* [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
 * [2026-05-08, 08:45:13](https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for) - [hpke-ng: Faster, Smaller, Harder HPKE for Rust](https://symbolic.software/blog/2026-05-08-hpke-ng/)
-* [2026-05-08, 08:07:27](https://lobste.rs/s/o6fdba/just_fucking_use_react) - [Just Fucking Use React](https://justfuckingusereact.com)
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
 * [2026-05-08, 05:41:13](https://lobste.rs/s/gxogzo/from_supabase_clerk_better_auth) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
 * [2026-05-08, 04:38:19](https://lobste.rs/s/6ctipx/revisiting_pq_wireguard) - [Revisiting PQ WireGuard](https://eprint.iacr.org/2025/1758.pdf)
@@ -22,7 +23,6 @@
 * [2026-05-07, 10:51:47](https://lobste.rs/s/o1p8ee/potential_consequences_using_postgres) - [Potential Consequences of Using Postgres as a Job Queue](http://richyen.com/postgres/2026/05/04/postgres_job_queue.html)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
-* [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
 

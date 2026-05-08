@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
+* [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
 * [2026-05-08, 08:45:13](https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for) - [hpke-ng: Faster, Smaller, Harder HPKE for Rust](https://symbolic.software/blog/2026-05-08-hpke-ng/)
 * [2026-05-08, 08:07:27](https://lobste.rs/s/o6fdba/just_fucking_use_react) - [Just Fucking Use React](https://justfuckingusereact.com)
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
