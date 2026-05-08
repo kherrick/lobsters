@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-08, 20:04:48](https://lobste.rs/s/0xnfql/vulnerability_garden_growing_list_named) - [Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits](https://vulnerability.garden/)
 * [2026-05-08, 18:39:49](https://lobste.rs/s/jfe19u/rooting_vmc2040_security_camera) - [Rooting a VMC2040 security camera](https://www.marcusfolkesson.se/blog/arlo-vmc2040-part1/)
 * [2026-05-08, 16:55:25](https://lobste.rs/s/eabrz3/what_we_lost_last_time_code_got_cheap) - [What We Lost the Last Time Code Got Cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
 * [2026-05-08, 15:12:55](https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for) - [The `Sync` bound nobody asked for](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/)
@@ -23,7 +24,6 @@
 * [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
 * [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
 * [2026-05-07, 16:09:44](https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with) - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
-* [2026-05-07, 10:56:47](https://lobste.rs/s/azajfp/php_license_change_is_imminent) - [A PHP license change is imminent](https://lwn.net/Articles/1063993/)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 
 ## [Archives](archives/index.md)
