@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-08, 15:12:55](https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for) - [The `Sync` bound nobody asked for](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/)
 * [2026-05-08, 13:55:31](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero) - [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/)
+* [2026-05-08, 13:31:11](https://lobste.rs/s/5swwi0/surprisingly_complex_journey_text) - [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 12:01:18](https://lobste.rs/s/3kjqec/wii_ip6_webserver) - [Wii IP6 webserver](http://wii.sjmulder.nl)
 * [2026-05-08, 12:00:44](https://lobste.rs/s/m77efo/getting_peak_tops_on_ryzen_ai_7_350_npu) - [Getting peak TOPS on a Ryzen AI 7 350 NPU](https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/)
@@ -15,7 +17,6 @@
 * [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-07, 22:31:33](https://lobste.rs/s/pavhcb/additive_blending_on_nintendo_64) - [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
-* [2026-05-07, 19:52:46](https://lobste.rs/s/dpu6ym/building_transit_tracker) - [Building Transit Tracker](https://blog.horner.tj/building-transit-tracker/)
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 17:53:35](https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line) - [Formatting an entire 25 million line codebase overnight: the rubyfmt story](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
@@ -24,7 +25,6 @@
 * [2026-05-07, 16:09:44](https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with) - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 10:56:47](https://lobste.rs/s/azajfp/php_license_change_is_imminent) - [A PHP license change is imminent](https://lwn.net/Articles/1063993/)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
-* [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 
 ## [Archives](archives/index.md)
 

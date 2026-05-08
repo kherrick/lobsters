@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 15:12:55](https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for) - [The `Sync` bound nobody asked for](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/)
 * [2026-05-08, 13:55:31](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero) - [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/)
+* [2026-05-08, 13:31:11](https://lobste.rs/s/5swwi0/surprisingly_complex_journey_text) - [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 12:01:18](https://lobste.rs/s/3kjqec/wii_ip6_webserver) - [Wii IP6 webserver](http://wii.sjmulder.nl)
 * [2026-05-08, 12:00:44](https://lobste.rs/s/m77efo/getting_peak_tops_on_ryzen_ai_7_350_npu) - [Getting peak TOPS on a Ryzen AI 7 350 NPU](https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/)
