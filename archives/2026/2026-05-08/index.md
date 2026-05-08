@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
 * [2026-05-08, 05:41:13](https://lobste.rs/s/gxogzo/from_supabase_clerk_better_auth) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
 * [2026-05-08, 04:38:19](https://lobste.rs/s/6ctipx/revisiting_pq_wireguard) - [Revisiting PQ WireGuard](https://eprint.iacr.org/2025/1758.pdf)
 * [2026-05-08, 01:44:18](https://lobste.rs/s/h7nu14/cuda_oxide_book) - [The cuda-oxide Book](https://nvlabs.github.io/cuda-oxide/)
