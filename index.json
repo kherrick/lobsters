@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-05-08, 15:12:55",
+      "https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for"
+    ],
+    [
+      "The `Sync` bound nobody asked for",
+      "https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 13:55:31",
       "https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero"
     ],
     [
       "Serving a Website on a Raspberry Pi Zero Running Entirely in RAM",
       "https://btxx.org/posts/memory/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 13:31:11",
+      "https://lobste.rs/s/5swwi0/surprisingly_complex_journey_text"
+    ],
+    [
+      "The surprisingly complex journey to text-selectable client-side generated PDFs",
+      "https://sdocs.dev/blogs/journey-to-pdf-generation"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-07, 19:52:46",
-      "https://lobste.rs/s/dpu6ym/building_transit_tracker"
-    ],
-    [
-      "Building Transit Tracker",
-      "https://blog.horner.tj/building-transit-tracker/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 19:23:45",
       "https://lobste.rs/s/zys8hd/mojo_v1_0_0b1"
     ],
@@ -237,16 +247,6 @@
     [
       "AI Slop is Killing Online Communities",
       "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 05:26:18",
-      "https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is"
-    ],
-    [
-      "Making your own programming language is easier than you think (but also harder)",
-      "https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html"
     ]
   ]
 ]
