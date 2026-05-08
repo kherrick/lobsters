@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 13:55:31](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero) - [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/)
+* [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
+* [2026-05-08, 12:01:18](https://lobste.rs/s/3kjqec/wii_ip6_webserver) - [Wii IP6 webserver](http://wii.sjmulder.nl)
+* [2026-05-08, 12:00:44](https://lobste.rs/s/m77efo/getting_peak_tops_on_ryzen_ai_7_350_npu) - [Getting peak TOPS on a Ryzen AI 7 350 NPU](https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/)
 * [2026-05-08, 11:26:11](https://lobste.rs/s/q5bds7/stop_mitm_on_first_ssh_connection_on_any) - [Stop MITM on the first SSH connection, on any VPS or cloud provider](https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html)
 * [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
 * [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
