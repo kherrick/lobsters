@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-08, 01:44:18](https://lobste.rs/s/h7nu14/cuda_oxide_book) - [The cuda-oxide Book](https://nvlabs.github.io/cuda-oxide/)
+* [2026-05-08, 01:41:53](https://lobste.rs/s/rwjmjm/cuda_oxide_cuda_oxide_is_experimental) - [cuda-oxide: cuda-oxide is an experimental Rust-to-CUDA compiler](https://github.com/NVlabs/cuda-oxide)
 * [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-07, 22:31:33](https://lobste.rs/s/pavhcb/additive_blending_on_nintendo_64) - [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
@@ -7,6 +9,7 @@
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:05:15](https://lobste.rs/s/lmymmr/affordances_screenless_writing) - [Affordances of a screenless writing interface](https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface)
+* [2026-05-07, 18:25:16](https://lobste.rs/s/r8v2bx/jlearn_machine_learning_library_j) - [jlearn: Machine Learning Library in J](https://github.com/jonghough/jlearn)
 * [2026-05-07, 17:53:35](https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line) - [Formatting an entire 25 million line codebase overnight: the rubyfmt story](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
 * [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
 * [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
@@ -15,16 +18,13 @@
 * [2026-05-07, 10:51:47](https://lobste.rs/s/o1p8ee/potential_consequences_using_postgres) - [Potential Consequences of Using Postgres as a Job Queue](http://richyen.com/postgres/2026/05/04/postgres_job_queue.html)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 08:00:18](https://lobste.rs/s/qbh60z/try_lispe_browser) - [Try LispE in the Browser](https://naver.github.io/lispe/)
-* [2026-05-07, 07:03:27](https://lobste.rs/s/pk0e1r/programming_still_sucks) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
 * [2026-05-07, 07:01:21](https://lobste.rs/s/gwjycd/dnssec_disruption_affecting_de_domains) - [DNSSEC disruption affecting .de domains](https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38)
 * [2026-05-07, 05:26:18](https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is) - [Making your own programming language is easier than you think (but also harder)](https://lisyarus.github.io/blog/posts/making-your-own-programming-language.html)
 * [2026-05-07, 04:28:44](https://lobste.rs/s/wgufge/aube_fast_node_js_package_manager) - [aube, a fast Node.js package manager](https://aube.en.dev/)
 * [2026-05-06, 22:36:57](https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no) - [cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page](https://github.com/scosman/cursed_browser)
-* [2026-05-06, 17:57:18](https://lobste.rs/s/435bmi/vibe_coding_agentic_engineering_are) - [Vibe coding and agentic engineering are getting closer than I’d like](https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/)
 * [2026-05-06, 14:47:37](https://lobste.rs/s/jvvtif/open_weights_are_quietly_closing_up_s) - [Open weights are quietly closing up - and that's a problem](https://martinalderson.com/posts/open-weights-are-quietly-closing-up/)
 * [2026-05-06, 13:55:20](https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from) - [How an HTTP header caused time.gov to skew from UTC](https://alexsci.com/blog/how-time-gov-works/)
 * [2026-05-06, 11:50:33](https://lobste.rs/s/ze6pao/building_deployment_tool_i_wish_i_had) - [Building the deployment tool I wish I had](https://ruuda.nl/2026/deptool)
-* [2026-05-06, 10:35:46](https://lobste.rs/s/9f2djs/multi_stroke_text_effect_css) - [Multi-stroke text effect in CSS](https://yuanchuan.dev/multi-stroke-text-effect-in-css)
 
 ## [Archives](archives/index.md)
 

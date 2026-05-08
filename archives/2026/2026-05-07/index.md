@@ -11,6 +11,7 @@
 * [2026-05-07, 19:23:45](https://lobste.rs/s/zys8hd/mojo_v1_0_0b1) - [Mojo v1.0.0b1](https://mojolang.org/releases/v1.0.0b1)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 19:05:15](https://lobste.rs/s/lmymmr/affordances_screenless_writing) - [Affordances of a screenless writing interface](https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface)
+* [2026-05-07, 18:25:16](https://lobste.rs/s/r8v2bx/jlearn_machine_learning_library_j) - [jlearn: Machine Learning Library in J](https://github.com/jonghough/jlearn)
 * [2026-05-07, 17:53:35](https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line) - [Formatting an entire 25 million line codebase overnight: the rubyfmt story](https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story)
 * [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
 * [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
