@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-08, 21:01:03](https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir) - [jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
+* [2026-05-08, 23:29:12](https://lobste.rs/s/gvceit/cadara_i_made_open_source_fully_browser) - [CADara - I made an open-source fully in-browser CAD](https://cadara.app)
+* [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
+* [2026-05-08, 21:20:47](https://lobste.rs/s/ksg1es/cve_2026_31431_copy_fail) - [CVE-2026-31431: Copy Fail](https://retr0.zip/blog/cve-2026-31431-copy-fail.html)
 * [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
 * [2026-05-08, 20:04:48](https://lobste.rs/s/0xnfql/vulnerability_garden_growing_list_named) - [Vulnerability Garden: A growing list of named vulnerabilities, attack techniques and exploits](https://vulnerability.garden/)
@@ -16,8 +18,6 @@
 * [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
 * [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
-* [2026-05-08, 05:41:13](https://lobste.rs/s/gxogzo/from_supabase_clerk_better_auth) - [From Supabase to Clerk to Better Auth](https://blog.val.town/better-auth)
-* [2026-05-08, 01:41:53](https://lobste.rs/s/rwjmjm/cuda_oxide_cuda_oxide_is_experimental) - [cuda-oxide: cuda-oxide is an experimental Rust-to-CUDA compiler](https://github.com/NVlabs/cuda-oxide)
 * [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)

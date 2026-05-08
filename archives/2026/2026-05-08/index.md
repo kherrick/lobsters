@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-08](index.md)
 
+* [2026-05-08, 23:29:12](https://lobste.rs/s/gvceit/cadara_i_made_open_source_fully_browser) - [CADara - I made an open-source fully in-browser CAD](https://cadara.app)
+* [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
+* [2026-05-08, 21:20:47](https://lobste.rs/s/ksg1es/cve_2026_31431_copy_fail) - [CVE-2026-31431: Copy Fail](https://retr0.zip/blog/cve-2026-31431-copy-fail.html)
 * [2026-05-08, 21:01:03](https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir) - [jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
