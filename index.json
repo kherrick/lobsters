@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-08, 08:45:13",
+      "https://lobste.rs/s/fap65c/hpke_ng_faster_smaller_harder_hpke_for"
+    ],
+    [
+      "hpke-ng: Faster, Smaller, Harder HPKE for Rust",
+      "https://symbolic.software/blog/2026-05-08-hpke-ng/"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 08:07:27",
+      "https://lobste.rs/s/o6fdba/just_fucking_use_react"
+    ],
+    [
+      "Just Fucking Use React",
+      "https://justfuckingusereact.com"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 06:54:42",
       "https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-07, 08:00:18",
-      "https://lobste.rs/s/qbh60z/try_lispe_browser"
-    ],
-    [
-      "Try LispE in the Browser",
-      "https://naver.github.io/lispe/"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 05:26:18",
       "https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is"
     ],
@@ -227,16 +237,6 @@
     [
       "Open weights are quietly closing up - and that's a problem",
       "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 13:55:20",
-      "https://lobste.rs/s/3i1ulr/how_http_header_caused_time_gov_skew_from"
-    ],
-    [
-      "How an HTTP header caused time.gov to skew from UTC",
-      "https://alexsci.com/blog/how-time-gov-works/"
     ]
   ],
   [
