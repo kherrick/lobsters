@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-08, 21:01:03",
+      "https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir"
+    ],
+    [
+      "jank now has its own custom IR",
+      "https://jank-lang.org/blog/2026-05-08-optimization/"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 20:54:05",
       "https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Dirty Frag: Universal Linux LPE",
       "https://www.openwall.com/lists/oss-security/2026/05/07/8"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 17:53:35",
-      "https://lobste.rs/s/pv9i7j/formatting_entire_25_million_line"
-    ],
-    [
-      "Formatting an entire 25 million line codebase overnight: the rubyfmt story",
-      "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story"
     ]
   ],
   [
