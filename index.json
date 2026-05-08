@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-08, 05:41:13",
+      "https://lobste.rs/s/gxogzo/from_supabase_clerk_better_auth"
+    ],
+    [
+      "From Supabase to Clerk to Better Auth",
+      "https://blog.val.town/better-auth"
+    ]
+  ],
+  [
+    [
+      "2026-05-08, 04:38:19",
+      "https://lobste.rs/s/6ctipx/revisiting_pq_wireguard"
+    ],
+    [
+      "Revisiting PQ WireGuard",
+      "https://eprint.iacr.org/2025/1758.pdf"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 01:44:18",
       "https://lobste.rs/s/h7nu14/cuda_oxide_book"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2026-05-07, 19:55:17",
+      "https://lobste.rs/s/8dpdxy/agent_principal_agent_problem"
+    ],
+    [
+      "The agent principal-agent problem",
+      "https://crawshaw.io/blog/agent-principal-agent"
+    ]
+  ],
+  [
+    [
       "2026-05-07, 19:52:46",
       "https://lobste.rs/s/dpu6ym/building_transit_tracker"
     ],
@@ -87,16 +117,6 @@
     [
       "Affordances of a screenless writing interface",
       "https://jamesg.blog/2026/05/07/affordances-of-a-screenless-writing-interface"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 18:25:16",
-      "https://lobste.rs/s/r8v2bx/jlearn_machine_learning_library_j"
-    ],
-    [
-      "jlearn: Machine Learning Library in J",
-      "https://github.com/jonghough/jlearn"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-05-07, 07:01:21",
-      "https://lobste.rs/s/gwjycd/dnssec_disruption_affecting_de_domains"
-    ],
-    [
-      "DNSSEC disruption affecting .de domains",
-      "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38"
-    ]
-  ],
-  [
-    [
       "2026-05-07, 05:26:18",
       "https://lobste.rs/s/vqjc0e/making_your_own_programming_language_is"
     ],
@@ -207,16 +217,6 @@
     [
       "aube, a fast Node.js package manager",
       "https://aube.en.dev/"
-    ]
-  ],
-  [
-    [
-      "2026-05-06, 22:36:57",
-      "https://lobste.rs/s/njcvka/cursed_browser_web_browser_with_no"
-    ],
-    [
-      "cursed_browser: A web browser with no rendering engine — the VLM reads the HTML and hallucinates the page",
-      "https://github.com/scosman/cursed_browser"
     ]
   ],
   [
