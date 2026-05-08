@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-07, 22:31:33](https://lobste.rs/s/pavhcb/additive_blending_on_nintendo_64) - [Additive Blending on the Nintendo 64](https://phoboslab.org/log/2026/05/n64-additive-blending)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 19:52:46](https://lobste.rs/s/dpu6ym/building_transit_tracker) - [Building Transit Tracker](https://blog.horner.tj/building-transit-tracker/)
@@ -12,7 +13,6 @@
 * [2026-05-07, 16:09:44](https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with) - [Behind the Scenes Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)
 * [2026-05-07, 10:56:47](https://lobste.rs/s/azajfp/php_license_change_is_imminent) - [A PHP license change is imminent](https://lwn.net/Articles/1063993/)
 * [2026-05-07, 10:51:47](https://lobste.rs/s/o1p8ee/potential_consequences_using_postgres) - [Potential Consequences of Using Postgres as a Job Queue](http://richyen.com/postgres/2026/05/04/postgres_job_queue.html)
-* [2026-05-07, 10:42:37](https://lobste.rs/s/gprclr/major_dns_outage_hits_de_domains_dnssec) - [Major DNS Outage Hits .de Domains: DNSSEC Failure on May 5, 2026](https://www.ip.network/blog/de-domain-dnssec-outage-may-2026)
 * [2026-05-07, 09:45:18](https://lobste.rs/s/szi49u/ai_slop_is_killing_online_communities) - [AI Slop is Killing Online Communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)
 * [2026-05-07, 08:00:18](https://lobste.rs/s/qbh60z/try_lispe_browser) - [Try LispE in the Browser](https://naver.github.io/lispe/)
 * [2026-05-07, 07:03:27](https://lobste.rs/s/pk0e1r/programming_still_sucks) - [Programming Still Sucks](https://www.stvn.sh/writing/programming-still-sucks-fqffhyp)
