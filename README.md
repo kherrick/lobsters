@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-09, 17:24:19](https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library) - [Yggdrasil Network as an Embedded Go Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
+* [2026-05-09, 17:12:41](https://lobste.rs/s/7muoji/hacking_time_spoofing_atomic_clocks_with) - [Hacking Time: Spoofing Atomic Clocks with Audio Harmonics](https://josephhall.org/blog/texture-of-time-wwvb/)
 * [2026-05-09, 16:38:26](https://lobste.rs/s/1at5w8/my_agentic_trust_issues_from_prompt) - [My Agentic Trust Issues: From Prompt Injection to Supply-Chain Compromise on gemini-cli](https://www.pillar.security/blog/my-agentic-trust-issues-from-prompt-injection-to-supply-chain-compromise-on-gemini-cli)
 * [2026-05-09, 16:12:57](https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls) - [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
 * [2026-05-09, 15:10:34](https://lobste.rs/s/39xkt3/webrtc_is_problem) - [WebRTC is the Problem](https://moq.dev/blog/webrtc-is-the-problem/)
@@ -12,7 +14,6 @@
 * [2026-05-09, 05:02:46](https://lobste.rs/s/o7mnzo/12th_international_workshop_on_plan_9) - [12th International Workshop on Plan 9 (Presentations)](https://www.youtube.com/playlist?list=PLEZEb6vVXSE_Mc6cekYcp5f23Hvjj3pTt)
 * [2026-05-09, 04:27:11](https://lobste.rs/s/zlcctc/randomized_scheduler_with) - [A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf)
 * [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
-* [2026-05-08, 21:20:47](https://lobste.rs/s/ksg1es/cve_2026_31431_copy_fail) - [CVE-2026-31431: Copy Fail](https://retr0.zip/blog/cve-2026-31431-copy-fail.html)
 * [2026-05-08, 21:01:03](https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir) - [jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
@@ -23,7 +24,6 @@
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 11:26:11](https://lobste.rs/s/q5bds7/stop_mitm_on_first_ssh_connection_on_any) - [Stop MITM on the first SSH connection, on any VPS or cloud provider](https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html)
 * [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
-* [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 
 ## [Archives](archives/index.md)
