@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-09, 08:06:45",
+      "https://lobste.rs/s/epmnhp/inflorescence_cross_platform_native_gui"
+    ],
+    [
+      "Inflorescence – A cross-platform native GUI for Pijul",
+      "https://nest.pijul.com/tzemanovic/inflorescence"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 08:03:09",
+      "https://lobste.rs/s/viodre/chrome_s_ai_features_may_be_hogging_4gb"
+    ],
+    [
+      "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 05:46:15",
       "https://lobste.rs/s/thvzt6/killswitch_per_function_short_circuit"
     ],
@@ -17,6 +37,16 @@
     [
       "Steering Zig Fmt",
       "https://matklad.github.io/2026/05/08/steering-zig-fmt.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 05:02:46",
+      "https://lobste.rs/s/o7mnzo/12th_international_workshop_on_plan_9"
+    ],
+    [
+      "12th International Workshop on Plan 9 (Presentations)",
+      "https://www.youtube.com/playlist?list=PLEZEb6vVXSE_Mc6cekYcp5f23Hvjj3pTt"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "I learned something about GPUs today",
       "https://foon.uk/blackshift-sand-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 21:20:47",
-      "https://lobste.rs/s/ksg1es/cve_2026_31431_copy_fail"
-    ],
-    [
-      "CVE-2026-31431: Copy Fail",
-      "https://retr0.zip/blog/cve-2026-31431-copy-fail.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-08, 12:00:44",
-      "https://lobste.rs/s/m77efo/getting_peak_tops_on_ryzen_ai_7_350_npu"
-    ],
-    [
-      "Getting peak TOPS on a Ryzen AI 7 350 NPU",
-      "https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 11:26:11",
       "https://lobste.rs/s/q5bds7/stop_mitm_on_first_ssh_connection_on_any"
     ],
@@ -237,16 +247,6 @@
     [
       "jj v0.41.0 is out",
       "https://github.com/jj-vcs/jj/releases/tag/v0.41.0"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 16:09:44",
-      "https://lobste.rs/s/7zppv1/behind_scenes_hardening_firefox_with"
-    ],
-    [
-      "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/"
     ]
   ]
 ]
