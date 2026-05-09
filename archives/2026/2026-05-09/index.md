@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-09](index.md)
 
+* [2026-05-09, 21:13:46](https://lobste.rs/s/xxmuqx/getting_llms_drunk_find_remote_linux) - [Getting LLMs Drunk to Find Remote Linux Kernel OOB Writes (and More)](https://heyitsas.im/posts/drinking-llms/)
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 18:40:44](https://lobste.rs/s/gcd4yl/acme_ca_comparison) - [ACME CA Comparison](https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/)
+* [2026-05-09, 18:29:56](https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system) - [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes)
 * [2026-05-09, 18:08:47](https://lobste.rs/s/symlbk/fixing_quicklook_2023) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2026-05-09, 17:24:19](https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library) - [Yggdrasil Network as an Embedded Go Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
 * [2026-05-09, 17:12:41](https://lobste.rs/s/7muoji/hacking_time_spoofing_atomic_clocks_with) - [Hacking Time: Spoofing Atomic Clocks with Audio Harmonics](https://josephhall.org/blog/texture-of-time-wwvb/)

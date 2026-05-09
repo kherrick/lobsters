@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-09, 21:13:46](https://lobste.rs/s/xxmuqx/getting_llms_drunk_find_remote_linux) - [Getting LLMs Drunk to Find Remote Linux Kernel OOB Writes (and More)](https://heyitsas.im/posts/drinking-llms/)
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 18:40:44](https://lobste.rs/s/gcd4yl/acme_ca_comparison) - [ACME CA Comparison](https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/)
+* [2026-05-09, 18:29:56](https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system) - [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes)
 * [2026-05-09, 18:08:47](https://lobste.rs/s/symlbk/fixing_quicklook_2023) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2026-05-09, 17:24:19](https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library) - [Yggdrasil Network as an Embedded Go Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
 * [2026-05-09, 17:12:41](https://lobste.rs/s/7muoji/hacking_time_spoofing_atomic_clocks_with) - [Hacking Time: Spoofing Atomic Clocks with Audio Harmonics](https://josephhall.org/blog/texture-of-time-wwvb/)
@@ -17,14 +19,12 @@
 * [2026-05-09, 05:02:46](https://lobste.rs/s/o7mnzo/12th_international_workshop_on_plan_9) - [12th International Workshop on Plan 9 (Presentations)](https://www.youtube.com/playlist?list=PLEZEb6vVXSE_Mc6cekYcp5f23Hvjj3pTt)
 * [2026-05-09, 04:27:11](https://lobste.rs/s/zlcctc/randomized_scheduler_with) - [A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf)
 * [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
-* [2026-05-08, 21:01:03](https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir) - [jank now has its own custom IR](https://jank-lang.org/blog/2026-05-08-optimization/)
 * [2026-05-08, 20:54:05](https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for) - [Let's Encrypt Stopping Issuance for Potential Incident](https://letsencrypt.status.io/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
 * [2026-05-08, 16:55:25](https://lobste.rs/s/eabrz3/what_we_lost_last_time_code_got_cheap) - [What We Lost the Last Time Code Got Cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
 * [2026-05-08, 13:55:31](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero) - [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 11:26:11](https://lobste.rs/s/q5bds7/stop_mitm_on_first_ssh_connection_on_any) - [Stop MITM on the first SSH connection, on any VPS or cloud provider](https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html)
-* [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
 
 ## [Archives](archives/index.md)
 
