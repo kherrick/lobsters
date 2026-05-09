@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2026-05-08, 21:20:47",
+      "https://lobste.rs/s/ksg1es/cve_2026_31431_copy_fail"
+    ],
+    [
+      "CVE-2026-31431: Copy Fail",
+      "https://retr0.zip/blog/cve-2026-31431-copy-fail.html"
+    ]
+  ],
+  [
+    [
       "2026-05-08, 21:01:03",
       "https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir"
     ],
@@ -227,16 +237,6 @@
     [
       "Dirty Frag: Universal Linux LPE",
       "https://www.openwall.com/lists/oss-security/2026/05/07/8"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 17:24:01",
-      "https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint"
-    ],
-    [
-      "Ploopy Bean - external trackpoint",
-      "https://ploopy.co/bean/"
     ]
   ],
   [
