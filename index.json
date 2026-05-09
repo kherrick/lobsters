@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-09, 21:13:46",
+      "https://lobste.rs/s/xxmuqx/getting_llms_drunk_find_remote_linux"
+    ],
+    [
+      "Getting LLMs Drunk to Find Remote Linux Kernel OOB Writes (and More)",
+      "https://heyitsas.im/posts/drinking-llms/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 19:14:38",
       "https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware"
     ],
@@ -27,6 +37,16 @@
     [
       "ACME CA Comparison",
       "https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 18:29:56",
+      "https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system"
+    ],
+    [
+      "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-05-08, 21:01:03",
-      "https://lobste.rs/s/miutfd/jank_now_has_its_own_custom_ir"
-    ],
-    [
-      "jank now has its own custom IR",
-      "https://jank-lang.org/blog/2026-05-08-optimization/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 20:54:05",
       "https://lobste.rs/s/bnfm0h/let_s_encrypt_stopping_issuance_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Stop MITM on the first SSH connection, on any VPS or cloud provider",
       "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 10:01:15",
-      "https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly"
-    ],
-    [
-      "building a web server in aarch64 assembly to give my life (a lack of) meaning",
-      "https://imtomt.github.io/ymawky/"
     ]
   ]
 ]
