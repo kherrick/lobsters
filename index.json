@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-09, 18:43:45",
+      "https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens"
+    ],
+    [
+      "Laptops all have built-in security tokens these days",
+      "https://ahelwer.ca/post/2026-05-08-builtin-u2f/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 18:40:44",
+      "https://lobste.rs/s/gcd4yl/acme_ca_comparison"
+    ],
+    [
+      "ACME CA Comparison",
+      "https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 18:08:47",
+      "https://lobste.rs/s/symlbk/fixing_quicklook_2023"
+    ],
+    [
+      "Fixing QuickLook (2023)",
+      "https://foon.uk/fixing-quicklook/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 17:24:19",
       "https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library"
     ],
@@ -17,16 +47,6 @@
     [
       "Hacking Time: Spoofing Atomic Clocks with Audio Harmonics",
       "https://josephhall.org/blog/texture-of-time-wwvb/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 16:38:26",
-      "https://lobste.rs/s/1at5w8/my_agentic_trust_issues_from_prompt"
-    ],
-    [
-      "My Agentic Trust Issues: From Prompt Injection to Supply-Chain Compromise on gemini-cli",
-      "https://www.pillar.security/blog/my-agentic-trust-issues-from-prompt-injection-to-supply-chain-compromise-on-gemini-cli"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-08, 15:12:55",
-      "https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for"
-    ],
-    [
-      "The `Sync` bound nobody asked for",
-      "https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 13:55:31",
       "https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero"
     ],
@@ -237,16 +247,6 @@
     [
       "building a web server in aarch64 assembly to give my life (a lack of) meaning",
       "https://imtomt.github.io/ymawky/"
-    ]
-  ],
-  [
-    [
-      "2026-05-07, 19:06:55",
-      "https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe"
-    ],
-    [
-      "Dirty Frag: Universal Linux LPE",
-      "https://www.openwall.com/lists/oss-security/2026/05/07/8"
     ]
   ]
 ]
