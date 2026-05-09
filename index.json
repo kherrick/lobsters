@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-09, 15:10:34",
+      "https://lobste.rs/s/39xkt3/webrtc_is_problem"
+    ],
+    [
+      "WebRTC is the Problem",
+      "https://moq.dev/blog/webrtc-is-the-problem/"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 14:19:46",
       "https://lobste.rs/s/lwihzw/react2shell_story_what_happened_next_js"
     ],
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 06:54:42",
-      "https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal"
-    ],
-    [
-      "blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8",
-      "https://github.com/graemeg/blaise"
     ]
   ],
   [
