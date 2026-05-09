@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-09, 05:46:15",
+      "https://lobste.rs/s/thvzt6/killswitch_per_function_short_circuit"
+    ],
+    [
+      "killswitch: per-function short-circuit mitigation primitive",
+      "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-09, 05:21:04",
+      "https://lobste.rs/s/auxtwd/steering_zig_fmt"
+    ],
+    [
+      "Steering Zig Fmt",
+      "https://matklad.github.io/2026/05/08/steering-zig-fmt.html"
+    ]
+  ],
+  [
+    [
       "2026-05-09, 04:27:11",
       "https://lobste.rs/s/zlcctc/randomized_scheduler_with"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-05-08, 13:31:11",
-      "https://lobste.rs/s/5swwi0/surprisingly_complex_journey_text"
-    ],
-    [
-      "The surprisingly complex journey to text-selectable client-side generated PDFs",
-      "https://sdocs.dev/blogs/journey-to-pdf-generation"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 12:58:28",
       "https://lobste.rs/s/znlkib/just_fucking_use_go"
     ],
@@ -187,16 +197,6 @@
     [
       "blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8",
       "https://github.com/graemeg/blaise"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 00:26:45",
-      "https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo"
-    ],
-    [
-      "Copy Fail 2: Electric Boogaloo",
-      "https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo"
     ]
   ],
   [
