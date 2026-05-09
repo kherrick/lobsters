@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-09, 05:46:15](https://lobste.rs/s/thvzt6/killswitch_per_function_short_circuit) - [killswitch: per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
+* [2026-05-09, 05:21:04](https://lobste.rs/s/auxtwd/steering_zig_fmt) - [Steering Zig Fmt](https://matklad.github.io/2026/05/08/steering-zig-fmt.html)
 * [2026-05-09, 04:27:11](https://lobste.rs/s/zlcctc/randomized_scheduler_with) - [A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf)
 * [2026-05-08, 23:29:12](https://lobste.rs/s/gvceit/cadara_i_made_open_source_fully_browser) - [CADara - I made an open-source fully in-browser CAD](https://cadara.app)
 * [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
@@ -11,7 +13,6 @@
 * [2026-05-08, 16:55:25](https://lobste.rs/s/eabrz3/what_we_lost_last_time_code_got_cheap) - [What We Lost the Last Time Code Got Cheap](https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap)
 * [2026-05-08, 15:12:55](https://lobste.rs/s/c8cv7a/sync_bound_nobody_asked_for) - [The `Sync` bound nobody asked for](https://verrchu.github.io/blog/1-the-sync-bound-nobody-asked-for/)
 * [2026-05-08, 13:55:31](https://lobste.rs/s/fsueos/serving_website_on_raspberry_pi_zero) - [Serving a Website on a Raspberry Pi Zero Running Entirely in RAM](https://btxx.org/posts/memory/)
-* [2026-05-08, 13:31:11](https://lobste.rs/s/5swwi0/surprisingly_complex_journey_text) - [The surprisingly complex journey to text-selectable client-side generated PDFs](https://sdocs.dev/blogs/journey-to-pdf-generation)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 * [2026-05-08, 12:01:18](https://lobste.rs/s/3kjqec/wii_ip6_webserver) - [Wii IP6 webserver](http://wii.sjmulder.nl)
 * [2026-05-08, 12:00:44](https://lobste.rs/s/m77efo/getting_peak_tops_on_ryzen_ai_7_350_npu) - [Getting peak TOPS on a Ryzen AI 7 350 NPU](https://destevez.net/2026/05/getting-peak-tops-on-a-ryzen-ai-7-350-npu/)
@@ -19,7 +20,6 @@
 * [2026-05-08, 10:01:15](https://lobste.rs/s/wfqsc4/building_web_server_aarch64_assembly) - [building a web server in aarch64 assembly to give my life (a lack of) meaning](https://imtomt.github.io/ymawky/)
 * [2026-05-08, 09:43:25](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mhzcfc/what_are_you_doing_this_weekend)
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
-* [2026-05-08, 00:26:45](https://lobste.rs/s/n4fmkx/copy_fail_2_electric_boogaloo) - [Copy Fail 2: Electric Boogaloo](https://github.com/0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
 * [2026-05-07, 17:24:01](https://lobste.rs/s/kkzpdd/ploopy_bean_external_trackpoint) - [Ploopy Bean - external trackpoint](https://ploopy.co/bean/)
