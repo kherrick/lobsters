@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-09, 14:19:46](https://lobste.rs/s/lwihzw/react2shell_story_what_happened_next_js) - [The React2Shell Story and What Happened Next.js](https://sylvie.fyi/posts/react2shell/)
 * [2026-05-09, 10:03:17](https://lobste.rs/s/ho7nqt/on_forking_web) - [On forking the Web](https://dillo-browser.org/lab/web-fork/)
 * [2026-05-09, 08:06:45](https://lobste.rs/s/epmnhp/inflorescence_cross_platform_native_gui) - [Inflorescence – A cross-platform native GUI for Pijul](https://nest.pijul.com/tzemanovic/inflorescence)
 * [2026-05-09, 08:03:09](https://lobste.rs/s/viodre/chrome_s_ai_features_may_be_hogging_4gb) - [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
@@ -24,7 +25,6 @@
 * [2026-05-08, 06:54:42](https://lobste.rs/s/ot6g23/blaise_modern_self_hosting_object_pascal) - [blaise: A modern, self-hosting Object Pascal compiler built for the 2020s. Zero legacy, full ARC, and unified UTF-8](https://github.com/graemeg/blaise)
 * [2026-05-07, 22:13:16](https://lobste.rs/s/lecxsm/why_don_t_lowercase_letters_come_right) - [Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII?](https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/)
 * [2026-05-07, 19:06:55](https://lobste.rs/s/lu4efg/dirty_frag_universal_linux_lpe) - [Dirty Frag: Universal Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/07/8)
-* [2026-05-07, 16:35:57](https://lobste.rs/s/h1srjn/jj_v0_41_0_is_out) - [jj v0.41.0 is out](https://github.com/jj-vcs/jj/releases/tag/v0.41.0)
 
 ## [Archives](archives/index.md)
 
