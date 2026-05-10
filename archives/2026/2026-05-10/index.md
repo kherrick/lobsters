@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 07:25:35](https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages) - [A principled rethinking of array languages like APL](https://dercuano.github.io/notes/principled-apl.html)
+* [2026-05-10, 07:01:30](https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability) - [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 * [2026-05-10, 06:27:42](https://lobste.rs/s/deceli/relational_modeling_apl) - [Relational modeling and APL](https://dercuano.github.io/notes/relational-modeling-and-apl.html)
 * [2026-05-10, 06:14:30](https://lobste.rs/s/hbctt2/point_free_logic_programming) - [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151)
 * [2026-05-10, 05:10:35](https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025) - [Unlocking sudoku's secrets (2025)](https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/)
