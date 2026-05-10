@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-10, 11:42:30](https://lobste.rs/s/xb2edj/replacing_3_gb_sqlite_database_with_10_mb) - [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
+* [2026-05-10, 11:21:53](https://lobste.rs/s/jmp373/space_cadet_pinball_on_linux) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 * [2026-05-10, 10:49:36](https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open) - [Good First Issue: Make your first open-source contribution](https://goodfirstissue.dev/)
 * [2026-05-10, 10:35:23](https://lobste.rs/s/ajbrdr/idempotency_is_easy_until_second_request) - [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
 * [2026-05-10, 10:10:48](https://lobste.rs/s/fpxg9k/fast_fourier_transforms_part_1_cooley) - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
@@ -13,7 +15,6 @@
 * [2026-05-09, 23:48:57](https://lobste.rs/s/ioiepg/three_cultures_math) - [Three Cultures of Math](https://rkirov.github.io/posts/three-cultures-of-math/)
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
-* [2026-05-09, 18:40:44](https://lobste.rs/s/gcd4yl/acme_ca_comparison) - [ACME CA Comparison](https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/)
 * [2026-05-09, 18:29:56](https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system) - [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes)
 * [2026-05-09, 18:08:47](https://lobste.rs/s/symlbk/fixing_quicklook_2023) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2026-05-09, 17:24:19](https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library) - [Yggdrasil Network as an Embedded Go Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
@@ -21,7 +22,6 @@
 * [2026-05-09, 15:10:34](https://lobste.rs/s/39xkt3/webrtc_is_problem) - [WebRTC is the Problem](https://moq.dev/blog/webrtc-is-the-problem/)
 * [2026-05-09, 14:19:46](https://lobste.rs/s/lwihzw/react2shell_story_what_happened_next_js) - [The React2Shell Story and What Happened Next.js](https://sylvie.fyi/posts/react2shell/)
 * [2026-05-09, 10:03:17](https://lobste.rs/s/ho7nqt/on_forking_web) - [On forking the Web](https://dillo-browser.org/lab/web-fork/)
-* [2026-05-09, 08:06:45](https://lobste.rs/s/epmnhp/inflorescence_cross_platform_native_gui) - [Inflorescence – A cross-platform native GUI for Pijul](https://nest.pijul.com/tzemanovic/inflorescence)
 * [2026-05-09, 08:03:09](https://lobste.rs/s/viodre/chrome_s_ai_features_may_be_hogging_4gb) - [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 * [2026-05-09, 05:21:04](https://lobste.rs/s/auxtwd/steering_zig_fmt) - [Steering Zig Fmt](https://matklad.github.io/2026/05/08/steering-zig-fmt.html)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
