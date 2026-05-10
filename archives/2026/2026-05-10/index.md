@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 20:59:58](https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua) - [Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever](https://github.com/bytexenon/Tiny-Lua-Compiler)
+* [2026-05-10, 20:07:57](https://lobste.rs/s/njobov/let_go_almost_clojure_written_go) - [let-go: Almost Clojure written in Go](https://github.com/nooga/let-go)
 * [2026-05-10, 18:06:47](https://lobste.rs/s/qxkdgl/90_day_disclosure_policy_is_dead) - [the 90 day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)
 * [2026-05-10, 15:49:49](https://lobste.rs/s/dqzo2u/training_llm_swift_part_1_taking_matrix) - [Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)
 * [2026-05-10, 15:40:37](https://lobste.rs/s/iuctn9/we_see_something_works_then_we_understand) - [We see something that works, and then we understand it](https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/)
