@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-10, 21:51:34](https://lobste.rs/s/r1eihn/claudebleed_flaw_claude_s_browser) - [ClaudeBleed: A Flaw In Claude's Browser Extension Allows Any Extension to Hijack It](https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/)
 * [2026-05-10, 21:04:55](https://lobste.rs/s/6f9o6w/robot_dogs_are_security_nightmare) - [Robot Dogs Are a Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)
+* [2026-05-10, 20:59:58](https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua) - [Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever](https://github.com/bytexenon/Tiny-Lua-Compiler)
 * [2026-05-10, 20:07:57](https://lobste.rs/s/njobov/let_go_almost_clojure_written_go) - [let-go: Almost Clojure written in Go](https://github.com/nooga/let-go)
 * [2026-05-10, 18:06:47](https://lobste.rs/s/qxkdgl/90_day_disclosure_policy_is_dead) - [the 90 day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)
 * [2026-05-10, 15:40:37](https://lobste.rs/s/iuctn9/we_see_something_works_then_we_understand) - [We see something that works, and then we understand it](https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/)
