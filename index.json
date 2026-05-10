@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-10, 20:59:58",
-      "https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua"
+      "2026-05-10, 21:51:34",
+      "https://lobste.rs/s/r1eihn/claudebleed_flaw_claude_s_browser"
     ],
     [
-      "Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever",
-      "https://github.com/bytexenon/Tiny-Lua-Compiler"
+      "ClaudeBleed: A Flaw In Claude's Browser Extension Allows Any Extension to Hijack It",
+      "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 21:04:55",
+      "https://lobste.rs/s/6f9o6w/robot_dogs_are_security_nightmare"
+    ],
+    [
+      "Robot Dogs Are a Security Nightmare",
+      "https://www.youtube.com/watch?v=lA8WuXDXfcI"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "AI is Breaking Two Vulnerability Cultures",
       "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 06:27:42",
-      "https://lobste.rs/s/deceli/relational_modeling_apl"
-    ],
-    [
-      "Relational modeling and APL",
-      "https://dercuano.github.io/notes/relational-modeling-and-apl.html"
     ]
   ],
   [
