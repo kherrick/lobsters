@@ -8,6 +8,7 @@
 * [2026-05-10, 11:21:53](https://lobste.rs/s/jmp373/space_cadet_pinball_on_linux) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 * [2026-05-10, 10:49:36](https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open) - [Good First Issue: Make your first open-source contribution](https://goodfirstissue.dev/)
 * [2026-05-10, 10:35:23](https://lobste.rs/s/ajbrdr/idempotency_is_easy_until_second_request) - [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
+* [2026-05-10, 10:26:22](https://lobste.rs/s/oenret/intolerable_hypocrisy) - [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
 * [2026-05-10, 10:10:48](https://lobste.rs/s/fpxg9k/fast_fourier_transforms_part_1_cooley) - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 * [2026-05-10, 07:25:35](https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages) - [A principled rethinking of array languages like APL](https://dercuano.github.io/notes/principled-apl.html)
 * [2026-05-10, 07:01:30](https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability) - [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
