@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-09, 21:13:46](https://lobste.rs/s/xxmuqx/getting_llms_drunk_find_remote_linux) - [Getting LLMs Drunk to Find Remote Linux Kernel OOB Writes (and More)](https://heyitsas.im/posts/drinking-llms/)
+* [2026-05-09, 23:48:57](https://lobste.rs/s/ioiepg/three_cultures_math) - [Three Cultures of Math](https://rkirov.github.io/posts/three-cultures-of-math/)
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 18:40:44](https://lobste.rs/s/gcd4yl/acme_ca_comparison) - [ACME CA Comparison](https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/)
