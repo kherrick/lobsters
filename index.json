@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-10, 10:49:36",
+      "https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open"
+    ],
+    [
+      "Good First Issue: Make your first open-source contribution",
+      "https://goodfirstissue.dev/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 10:35:23",
+      "https://lobste.rs/s/ajbrdr/idempotency_is_easy_until_second_request"
+    ],
+    [
+      "Idempotency Is Easy Until the Second Request Is Different",
+      "https://blog.dochia.dev/blog/idempotency/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 10:10:48",
+      "https://lobste.rs/s/fpxg9k/fast_fourier_transforms_part_1_cooley"
+    ],
+    [
+      "Fast Fourier Transforms Part 1: Cooley-Tukey",
+      "https://connorboyle.io/2025/09/11/fft-cooley-tukey.html"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 07:25:35",
       "https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages"
     ],
@@ -67,16 +97,6 @@
     [
       "On DOS, floppies, NetBSD and nostalgia",
       "https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 01:52:06",
-      "https://lobste.rs/s/7yy79j/abstract_machines_for_logic_programs"
-    ],
-    [
-      "Abstract Machines for Logic Programs",
-      "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-09, 17:12:41",
-      "https://lobste.rs/s/7muoji/hacking_time_spoofing_atomic_clocks_with"
-    ],
-    [
-      "Hacking Time: Spoofing Atomic Clocks with Audio Harmonics",
-      "https://josephhall.org/blog/texture-of-time-wwvb/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 16:12:57",
       "https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls"
     ],
@@ -227,16 +237,6 @@
     [
       "Steering Zig Fmt",
       "https://matklad.github.io/2026/05/08/steering-zig-fmt.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 21:28:48",
-      "https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today"
-    ],
-    [
-      "I learned something about GPUs today",
-      "https://foon.uk/blackshift-sand-bug/"
     ]
   ],
   [
