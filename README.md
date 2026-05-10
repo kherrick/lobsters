@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-05-10, 18:06:47](https://lobste.rs/s/qxkdgl/90_day_disclosure_policy_is_dead) - [the 90 day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)
+* [2026-05-10, 15:49:49](https://lobste.rs/s/dqzo2u/training_llm_swift_part_1_taking_matrix) - [Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)
 * [2026-05-10, 15:40:37](https://lobste.rs/s/iuctn9/we_see_something_works_then_we_understand) - [We see something that works, and then we understand it](https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/)
 * [2026-05-10, 15:29:24](https://lobste.rs/s/1rix0p/patching_forking_package_managers) - [Patching and forking in package managers](https://nesbitt.io/2026/05/01/patching-and-forking-in-package-managers.html)
 * [2026-05-10, 15:05:18](https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special) - [wayland.fyi minimalist wayland special interest group](https://wayland.fyi/)
@@ -18,7 +19,6 @@
 * [2026-05-10, 07:01:30](https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability) - [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 * [2026-05-10, 06:27:42](https://lobste.rs/s/deceli/relational_modeling_apl) - [Relational modeling and APL](https://dercuano.github.io/notes/relational-modeling-and-apl.html)
 * [2026-05-10, 06:14:30](https://lobste.rs/s/hbctt2/point_free_logic_programming) - [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151)
-* [2026-05-10, 05:10:35](https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025) - [Unlocking sudoku's secrets (2025)](https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/)
 * [2026-05-10, 03:14:27](https://lobste.rs/s/bfiq9k/flipping_bozo_bit_on_flips_learning_off) - [Flipping the bozo bit on flips the learning off](https://surfingcomplexity.blog/2026/05/09/flipping-the-bozo-bit-on-flips-the-learning-off/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 16:12:57](https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls) - [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
