@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
 * [2026-05-10, 15:49:49](https://lobste.rs/s/dqzo2u/training_llm_swift_part_1_taking_matrix) - [Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)
+* [2026-05-10, 15:40:37](https://lobste.rs/s/iuctn9/we_see_something_works_then_we_understand) - [We see something that works, and then we understand it](https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/)
 * [2026-05-10, 15:05:18](https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special) - [wayland.fyi minimalist wayland special interest group](https://wayland.fyi/)
 * [2026-05-10, 15:01:19](https://lobste.rs/s/kabx8f/recent_experience_with_chatgpt_5_5_pro) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
 * [2026-05-10, 14:55:11](https://lobste.rs/s/b6fyzj/so_you_ve_installed_fzf_now_what_2023) - [So you've installed `fzf`. Now what? (2023)](https://andrew-quinn.me/fzf/)
