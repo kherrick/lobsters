@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 23:17:43](https://lobste.rs/s/wnylwv/my_pastebin_clone_vivipara_language) - [My pastebin clone Vivipara and language musings](https://akselmo.dev/posts/vivipara-and-languages/)
 * [2026-05-10, 21:51:34](https://lobste.rs/s/r1eihn/claudebleed_flaw_claude_s_browser) - [ClaudeBleed: A Flaw In Claude's Browser Extension Allows Any Extension to Hijack It](https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/)
 * [2026-05-10, 21:04:55](https://lobste.rs/s/6f9o6w/robot_dogs_are_security_nightmare) - [Robot Dogs Are a Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)
 * [2026-05-10, 20:59:58](https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua) - [Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever](https://github.com/bytexenon/Tiny-Lua-Compiler)
