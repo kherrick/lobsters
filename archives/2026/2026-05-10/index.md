@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 15:49:49](https://lobste.rs/s/dqzo2u/training_llm_swift_part_1_taking_matrix) - [Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s](https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html)
 * [2026-05-10, 15:05:18](https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special) - [wayland.fyi minimalist wayland special interest group](https://wayland.fyi/)
 * [2026-05-10, 15:01:19](https://lobste.rs/s/kabx8f/recent_experience_with_chatgpt_5_5_pro) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
 * [2026-05-10, 14:55:11](https://lobste.rs/s/b6fyzj/so_you_ve_installed_fzf_now_what_2023) - [So you've installed `fzf`. Now what? (2023)](https://andrew-quinn.me/fzf/)
+* [2026-05-10, 14:20:23](https://lobste.rs/s/bybg7e/9p_file_server_daemon_for_unix_like) - [9p file server daemon for UNIX-like systems](https://kamid.omarpolo.com/)
 * [2026-05-10, 14:16:12](https://lobste.rs/s/tlir8n/plass_manage_passwords) - [plass: manage passwords](https://projects.omarpolo.com/plass.html)
 * [2026-05-10, 13:12:55](https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 * [2026-05-10, 13:12:22](https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers) - [Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem](https://spectrum.ieee.org/quantum-computing-cosmic-rays)
