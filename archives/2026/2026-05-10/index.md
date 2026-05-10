@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 13:12:55](https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
+* [2026-05-10, 13:12:22](https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers) - [Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem](https://spectrum.ieee.org/quantum-computing-cosmic-rays)
+* [2026-05-10, 12:58:29](https://lobste.rs/s/1p2yun/freebsd_local_privilege_escalation_via) - [FreeBSD: Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
 * [2026-05-10, 11:42:30](https://lobste.rs/s/xb2edj/replacing_3_gb_sqlite_database_with_10_mb) - [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
 * [2026-05-10, 11:21:53](https://lobste.rs/s/jmp373/space_cadet_pinball_on_linux) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 * [2026-05-10, 10:49:36](https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open) - [Good First Issue: Make your first open-source contribution](https://goodfirstissue.dev/)
