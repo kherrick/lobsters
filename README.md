@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-10, 06:27:42](https://lobste.rs/s/deceli/relational_modeling_apl) - [Relational modeling and APL](https://dercuano.github.io/notes/relational-modeling-and-apl.html)
+* [2026-05-10, 06:14:30](https://lobste.rs/s/hbctt2/point_free_logic_programming) - [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151)
+* [2026-05-10, 05:10:35](https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025) - [Unlocking sudoku's secrets (2025)](https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/)
 * [2026-05-10, 03:14:27](https://lobste.rs/s/bfiq9k/flipping_bozo_bit_on_flips_learning_off) - [Flipping the bozo bit on flips the learning off](https://surfingcomplexity.blog/2026/05/09/flipping-the-bozo-bit-on-flips-the-learning-off/)
 * [2026-05-10, 03:09:36](https://lobste.rs/s/yrjcuu/on_dos_floppies_netbsd_nostalgia) - [On DOS, floppies, NetBSD and nostalgia](https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF)
-* [2026-05-10, 01:52:06](https://lobste.rs/s/7yy79j/abstract_machines_for_logic_programs) - [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/)
 * [2026-05-09, 23:48:57](https://lobste.rs/s/ioiepg/three_cultures_math) - [Three Cultures of Math](https://rkirov.github.io/posts/three-cultures-of-math/)
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
@@ -19,12 +21,10 @@
 * [2026-05-09, 08:03:09](https://lobste.rs/s/viodre/chrome_s_ai_features_may_be_hogging_4gb) - [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 * [2026-05-09, 05:46:15](https://lobste.rs/s/thvzt6/killswitch_per_function_short_circuit) - [killswitch: per-function short-circuit mitigation primitive](https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/)
 * [2026-05-09, 05:21:04](https://lobste.rs/s/auxtwd/steering_zig_fmt) - [Steering Zig Fmt](https://matklad.github.io/2026/05/08/steering-zig-fmt.html)
-* [2026-05-09, 05:02:46](https://lobste.rs/s/o7mnzo/12th_international_workshop_on_plan_9) - [12th International Workshop on Plan 9 (Presentations)](https://www.youtube.com/playlist?list=PLEZEb6vVXSE_Mc6cekYcp5f23Hvjj3pTt)
 * [2026-05-09, 04:27:11](https://lobste.rs/s/zlcctc/randomized_scheduler_with) - [A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf)
 * [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
 * [2026-05-08, 20:13:15](https://lobste.rs/s/w2nz01/nixos_secrets) - [NixOS and Secrets](https://isabelroses.com/blog/nixos-and-secrets/)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
-* [2026-05-08, 11:26:11](https://lobste.rs/s/q5bds7/stop_mitm_on_first_ssh_connection_on_any) - [Stop MITM on the first SSH connection, on any VPS or cloud provider](https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html)
 
 ## [Archives](archives/index.md)
 
