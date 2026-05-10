@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-10, 13:12:55",
+      "https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages"
+    ],
+    [
+      "Debian must ship reproducible packages",
+      "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 13:12:22",
+      "https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers"
+    ],
+    [
+      "Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem",
+      "https://spectrum.ieee.org/quantum-computing-cosmic-rays"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 12:58:29",
+      "https://lobste.rs/s/1p2yun/freebsd_local_privilege_escalation_via"
+    ],
+    [
+      "FreeBSD: Local privilege escalation via execve()",
+      "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 11:42:30",
       "https://lobste.rs/s/xb2edj/replacing_3_gb_sqlite_database_with_10_mb"
     ],
@@ -17,16 +47,6 @@
     [
       "Space Cadet Pinball on Linux",
       "https://brennan.io/2026/05/09/pinball-and-escrow/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 10:49:36",
-      "https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open"
-    ],
-    [
-      "Good First Issue: Make your first open-source contribution",
-      "https://goodfirstissue.dev/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-05-09, 23:48:57",
-      "https://lobste.rs/s/ioiepg/three_cultures_math"
-    ],
-    [
-      "Three Cultures of Math",
-      "https://rkirov.github.io/posts/three-cultures-of-math/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 19:14:38",
       "https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware"
     ],
@@ -147,16 +157,6 @@
     [
       "Laptops all have built-in security tokens these days",
       "https://ahelwer.ca/post/2026-05-08-builtin-u2f/"
-    ]
-  ],
-  [
-    [
-      "2026-05-09, 18:29:56",
-      "https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system"
-    ],
-    [
-      "Notes on using GNU Emacs' Tramp system in an unusual shell environment",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes"
     ]
   ],
   [
