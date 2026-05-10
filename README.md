@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-10, 10:49:36](https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open) - [Good First Issue: Make your first open-source contribution](https://goodfirstissue.dev/)
+* [2026-05-10, 10:35:23](https://lobste.rs/s/ajbrdr/idempotency_is_easy_until_second_request) - [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
+* [2026-05-10, 10:10:48](https://lobste.rs/s/fpxg9k/fast_fourier_transforms_part_1_cooley) - [Fast Fourier Transforms Part 1: Cooley-Tukey](https://connorboyle.io/2025/09/11/fft-cooley-tukey.html)
 * [2026-05-10, 07:25:35](https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages) - [A principled rethinking of array languages like APL](https://dercuano.github.io/notes/principled-apl.html)
 * [2026-05-10, 07:01:30](https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability) - [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
 * [2026-05-10, 06:27:42](https://lobste.rs/s/deceli/relational_modeling_apl) - [Relational modeling and APL](https://dercuano.github.io/notes/relational-modeling-and-apl.html)
@@ -7,7 +10,6 @@
 * [2026-05-10, 05:10:35](https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025) - [Unlocking sudoku's secrets (2025)](https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/)
 * [2026-05-10, 03:14:27](https://lobste.rs/s/bfiq9k/flipping_bozo_bit_on_flips_learning_off) - [Flipping the bozo bit on flips the learning off](https://surfingcomplexity.blog/2026/05/09/flipping-the-bozo-bit-on-flips-the-learning-off/)
 * [2026-05-10, 03:09:36](https://lobste.rs/s/yrjcuu/on_dos_floppies_netbsd_nostalgia) - [On DOS, floppies, NetBSD and nostalgia](https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF)
-* [2026-05-10, 01:52:06](https://lobste.rs/s/7yy79j/abstract_machines_for_logic_programs) - [Abstract Machines for Logic Programs](https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/)
 * [2026-05-09, 23:48:57](https://lobste.rs/s/ioiepg/three_cultures_math) - [Three Cultures of Math](https://rkirov.github.io/posts/three-cultures-of-math/)
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
@@ -15,7 +17,6 @@
 * [2026-05-09, 18:29:56](https://lobste.rs/s/vwjrsl/notes_on_using_gnu_emacs_tramp_system) - [Notes on using GNU Emacs' Tramp system in an unusual shell environment](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsTrampNotes)
 * [2026-05-09, 18:08:47](https://lobste.rs/s/symlbk/fixing_quicklook_2023) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2026-05-09, 17:24:19](https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library) - [Yggdrasil Network as an Embedded Go Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
-* [2026-05-09, 17:12:41](https://lobste.rs/s/7muoji/hacking_time_spoofing_atomic_clocks_with) - [Hacking Time: Spoofing Atomic Clocks with Audio Harmonics](https://josephhall.org/blog/texture-of-time-wwvb/)
 * [2026-05-09, 16:12:57](https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls) - [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
 * [2026-05-09, 15:10:34](https://lobste.rs/s/39xkt3/webrtc_is_problem) - [WebRTC is the Problem](https://moq.dev/blog/webrtc-is-the-problem/)
 * [2026-05-09, 14:19:46](https://lobste.rs/s/lwihzw/react2shell_story_what_happened_next_js) - [The React2Shell Story and What Happened Next.js](https://sylvie.fyi/posts/react2shell/)
@@ -23,7 +24,6 @@
 * [2026-05-09, 08:06:45](https://lobste.rs/s/epmnhp/inflorescence_cross_platform_native_gui) - [Inflorescence – A cross-platform native GUI for Pijul](https://nest.pijul.com/tzemanovic/inflorescence)
 * [2026-05-09, 08:03:09](https://lobste.rs/s/viodre/chrome_s_ai_features_may_be_hogging_4gb) - [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 * [2026-05-09, 05:21:04](https://lobste.rs/s/auxtwd/steering_zig_fmt) - [Steering Zig Fmt](https://matklad.github.io/2026/05/08/steering-zig-fmt.html)
-* [2026-05-08, 21:28:48](https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today) - [I learned something about GPUs today](https://foon.uk/blackshift-sand-bug/)
 * [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 
 ## [Archives](archives/index.md)
