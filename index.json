@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-10, 15:40:37",
+      "https://lobste.rs/s/iuctn9/we_see_something_works_then_we_understand"
+    ],
+    [
+      "We see something that works, and then we understand it",
+      "https://lemire.me/blog/2025/12/04/we-see-something-that-works-and-then-we-understand-it/"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 15:05:18",
       "https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2026-05-10, 13:12:22",
-      "https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers"
-    ],
-    [
-      "Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem",
-      "https://spectrum.ieee.org/quantum-computing-cosmic-rays"
-    ]
-  ],
-  [
-    [
       "2026-05-10, 12:58:29",
       "https://lobste.rs/s/1p2yun/freebsd_local_privilege_escalation_via"
     ],
@@ -97,6 +97,16 @@
     [
       "Space Cadet Pinball on Linux",
       "https://brennan.io/2026/05/09/pinball-and-escrow/"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 10:49:36",
+      "https://lobste.rs/s/why3sb/good_first_issue_make_your_first_open"
+    ],
+    [
+      "Good First Issue: Make your first open-source contribution",
+      "https://goodfirstissue.dev/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Point-Free Logic Programming",
       "https://forum.malleable.systems/t/point-free-logic-programming/151"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 05:10:35",
-      "https://lobste.rs/s/zuib1a/unlocking_sudoku_s_secrets_2025"
-    ],
-    [
-      "Unlocking sudoku's secrets (2025)",
-      "https://chalkdustmagazine.com/features/unlocking-sudokus-secrets/"
     ]
   ],
   [
