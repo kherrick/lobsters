@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-05-10, 20:59:58",
+      "https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua"
+    ],
+    [
+      "Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever",
+      "https://github.com/bytexenon/Tiny-Lua-Compiler"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 20:07:57",
+      "https://lobste.rs/s/njobov/let_go_almost_clojure_written_go"
+    ],
+    [
+      "let-go: Almost Clojure written in Go",
+      "https://github.com/nooga/let-go"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 18:06:47",
       "https://lobste.rs/s/qxkdgl/90_day_disclosure_policy_is_dead"
     ],
     [
       "the 90 day disclosure policy is dead",
       "https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 15:49:49",
-      "https://lobste.rs/s/dqzo2u/training_llm_swift_part_1_taking_matrix"
-    ],
-    [
-      "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
-      "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "So you've installed `fzf`. Now what? (2023)",
       "https://andrew-quinn.me/fzf/"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 14:20:23",
-      "https://lobste.rs/s/bybg7e/9p_file_server_daemon_for_unix_like"
-    ],
-    [
-      "9p file server daemon for UNIX-like systems",
-      "https://kamid.omarpolo.com/"
     ]
   ],
   [
