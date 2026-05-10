@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-05-10, 15:49:49",
-      "https://lobste.rs/s/dqzo2u/training_llm_swift_part_1_taking_matrix"
-    ],
-    [
-      "Training an LLM in Swift, Part 1: Taking matrix multiplication from Gflop/s to Tflop/s",
-      "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html"
-    ]
-  ],
-  [
-    [
       "2026-05-10, 15:05:18",
       "https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special"
     ],
@@ -67,6 +57,16 @@
     [
       "Debian must ship reproducible packages",
       "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 13:12:22",
+      "https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers"
+    ],
+    [
+      "Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem",
+      "https://spectrum.ieee.org/quantum-computing-cosmic-rays"
     ]
   ],
   [
