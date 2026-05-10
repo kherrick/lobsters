@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-10, 07:25:35",
+      "https://lobste.rs/s/zpuqvx/principled_rethinking_array_languages"
+    ],
+    [
+      "A principled rethinking of array languages like APL",
+      "https://dercuano.github.io/notes/principled-apl.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 07:01:30",
+      "https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability"
+    ],
+    [
+      "AI is Breaking Two Vulnerability Cultures",
+      "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures"
+    ]
+  ],
+  [
+    [
       "2026-05-10, 06:27:42",
       "https://lobste.rs/s/deceli/relational_modeling_apl"
     ],
@@ -47,6 +67,16 @@
     [
       "On DOS, floppies, NetBSD and nostalgia",
       "https://exquisite.tube/w/dkV6kWiT9sp2y6xVwkH1iF"
+    ]
+  ],
+  [
+    [
+      "2026-05-10, 01:52:06",
+      "https://lobste.rs/s/7yy79j/abstract_machines_for_logic_programs"
+    ],
+    [
+      "Abstract Machines for Logic Programs",
+      "https://chrisistyping.bearblog.dev/abstract-machines-for-logic-programs/"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2026-05-09, 05:46:15",
-      "https://lobste.rs/s/thvzt6/killswitch_per_function_short_circuit"
-    ],
-    [
-      "killswitch: per-function short-circuit mitigation primitive",
-      "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/"
-    ]
-  ],
-  [
-    [
       "2026-05-09, 05:21:04",
       "https://lobste.rs/s/auxtwd/steering_zig_fmt"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-05-09, 04:27:11",
-      "https://lobste.rs/s/zlcctc/randomized_scheduler_with"
-    ],
-    [
-      "A Randomized Scheduler with Probabilistic Guarantees of Finding Bugs",
-      "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/asplos277-pct.pdf"
-    ]
-  ],
-  [
-    [
       "2026-05-08, 21:28:48",
       "https://lobste.rs/s/rrelxd/i_learned_something_about_gpus_today"
     ],
     [
       "I learned something about GPUs today",
       "https://foon.uk/blackshift-sand-bug/"
-    ]
-  ],
-  [
-    [
-      "2026-05-08, 20:13:15",
-      "https://lobste.rs/s/w2nz01/nixos_secrets"
-    ],
-    [
-      "NixOS and Secrets",
-      "https://isabelroses.com/blog/nixos-and-secrets/"
     ]
   ],
   [
