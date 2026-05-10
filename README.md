@@ -1,7 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-10, 15:05:18](https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special) - [wayland.fyi minimalist wayland special interest group](https://wayland.fyi/)
+* [2026-05-10, 15:01:19](https://lobste.rs/s/kabx8f/recent_experience_with_chatgpt_5_5_pro) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
+* [2026-05-10, 14:55:11](https://lobste.rs/s/b6fyzj/so_you_ve_installed_fzf_now_what_2023) - [So you've installed `fzf`. Now what? (2023)](https://andrew-quinn.me/fzf/)
+* [2026-05-10, 14:16:12](https://lobste.rs/s/tlir8n/plass_manage_passwords) - [plass: manage passwords](https://projects.omarpolo.com/plass.html)
 * [2026-05-10, 13:12:55](https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
-* [2026-05-10, 13:12:22](https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers) - [Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem](https://spectrum.ieee.org/quantum-computing-cosmic-rays)
 * [2026-05-10, 12:58:29](https://lobste.rs/s/1p2yun/freebsd_local_privilege_escalation_via) - [FreeBSD: Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
 * [2026-05-10, 11:42:30](https://lobste.rs/s/xb2edj/replacing_3_gb_sqlite_database_with_10_mb) - [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
 * [2026-05-10, 11:21:53](https://lobste.rs/s/jmp373/space_cadet_pinball_on_linux) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
@@ -17,14 +20,11 @@
 * [2026-05-09, 19:14:38](https://lobste.rs/s/sq70nc/where_have_all_complex_windows_malware) - [Where Have All the Complex Windows Malware and Their Analyses Gone?](https://r136a1.dev/2026/05/07/where-have-all-the-complex-malware-and-their-analyses-gone/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 18:08:47](https://lobste.rs/s/symlbk/fixing_quicklook_2023) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
-* [2026-05-09, 17:24:19](https://lobste.rs/s/sjbrlg/yggdrasil_network_as_embedded_go_library) - [Yggdrasil Network as an Embedded Go Library](https://dev.to/asciimoth/yggdrasil-network-as-an-embedded-go-library-9h)
 * [2026-05-09, 16:12:57](https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls) - [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
 * [2026-05-09, 15:10:34](https://lobste.rs/s/39xkt3/webrtc_is_problem) - [WebRTC is the Problem](https://moq.dev/blog/webrtc-is-the-problem/)
-* [2026-05-09, 14:19:46](https://lobste.rs/s/lwihzw/react2shell_story_what_happened_next_js) - [The React2Shell Story and What Happened Next.js](https://sylvie.fyi/posts/react2shell/)
 * [2026-05-09, 10:03:17](https://lobste.rs/s/ho7nqt/on_forking_web) - [On forking the Web](https://dillo-browser.org/lab/web-fork/)
 * [2026-05-09, 08:03:09](https://lobste.rs/s/viodre/chrome_s_ai_features_may_be_hogging_4gb) - [Chrome’s AI features may be hogging 4GB of your computer storage](https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features)
 * [2026-05-09, 05:21:04](https://lobste.rs/s/auxtwd/steering_zig_fmt) - [Steering Zig Fmt](https://matklad.github.io/2026/05/08/steering-zig-fmt.html)
-* [2026-05-08, 12:58:28](https://lobste.rs/s/znlkib/just_fucking_use_go) - [Just Fucking Use Go](https://blainsmith.com/articles/just-fucking-use-go/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
+* [2026-05-10, 15:05:18](https://lobste.rs/s/qbliwt/wayland_fyi_minimalist_wayland_special) - [wayland.fyi minimalist wayland special interest group](https://wayland.fyi/)
+* [2026-05-10, 15:01:19](https://lobste.rs/s/kabx8f/recent_experience_with_chatgpt_5_5_pro) - [A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)
+* [2026-05-10, 14:55:11](https://lobste.rs/s/b6fyzj/so_you_ve_installed_fzf_now_what_2023) - [So you've installed `fzf`. Now what? (2023)](https://andrew-quinn.me/fzf/)
+* [2026-05-10, 14:16:12](https://lobste.rs/s/tlir8n/plass_manage_passwords) - [plass: manage passwords](https://projects.omarpolo.com/plass.html)
 * [2026-05-10, 13:12:55](https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 * [2026-05-10, 13:12:22](https://lobste.rs/s/2doxzd/cosmic_rays_are_quantum_computers) - [Cosmic Rays Are Quantum Computers' Kryptonite—Software might just solve the problem](https://spectrum.ieee.org/quantum-computing-cosmic-rays)
 * [2026-05-10, 12:58:29](https://lobste.rs/s/1p2yun/freebsd_local_privilege_escalation_via) - [FreeBSD: Local privilege escalation via execve()](https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc)
