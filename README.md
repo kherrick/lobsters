@@ -2,6 +2,7 @@
 
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 * [2026-05-11, 19:14:58](https://lobste.rs/s/cnydxv/unusually_practical_update_for_eyg) - [An unusually practical update for EYG](https://eyg.run/news/editions/8)
+* [2026-05-11, 19:01:06](https://lobste.rs/s/a87c2i/iwp9_2026) - [iwp9 2026](http://n-gate.com/_iwp9/2026)
 * [2026-05-11, 18:30:09](https://lobste.rs/s/wugfx4/fighting_hyrum_s_law_llvm) - [Fighting Hyrum's Law in LLVM](https://maskray.me/blog/2026-05-10-fighting-hyrums-law-in-llvm)
 * [2026-05-11, 16:33:14](https://lobste.rs/s/fwutce/respectful_yaml_patching_rust) - [\"Respectful\" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
 * [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
@@ -9,7 +10,6 @@
 * [2026-05-11, 14:12:47](https://lobste.rs/s/g3i12k/running_my_agents_vps) - [Running my agents in a VPS](https://crowdhailer.me/2026-05-11/running-my-agents-in-a-vps/)
 * [2026-05-11, 13:31:04](https://lobste.rs/s/wubhf9/what_is_random_generation) - [What is random generation?](https://alperenkeles.com/posts/what-is-random-generation/)
 * [2026-05-11, 11:34:59](https://lobste.rs/s/spxvp4/web_feeds_2026_survey) - [Web Feeds in 2026: A Survey](https://mnot.net/blog/2026/feed-survey)
-* [2026-05-11, 11:09:31](https://lobste.rs/s/nqwrqf/omlx_llm_inference_server_with) - [omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
 * [2026-05-11, 10:57:56](https://lobste.rs/s/vxf6cq/programmable_whitelist_based_configs) - [Programmable Whitelist-based Configs: Embedding Rye in Go](https://ryelang.org/blog/posts/whitelist-config-with-rye/)
 * [2026-05-11, 10:10:49](https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d) - [Ratty: A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 * [2026-05-11, 09:13:58](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week)
