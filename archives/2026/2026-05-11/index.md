@@ -6,8 +6,10 @@
 
 * [2026-05-11, 16:33:14](https://lobste.rs/s/fwutce/respectful_yaml_patching_rust) - [\"Respectful\" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
 * [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
+* [2026-05-11, 15:05:29](https://lobste.rs/s/sumyip/tom_s_namespaces_odin_fanfic) - [Tom's Namespaces: An Odin Fanfic](https://zylinski.se/posts/toms-namespaces/)
 * [2026-05-11, 14:50:11](https://lobste.rs/s/4guexz/anti_minimalist_backlash_is_bigger_story) - [The anti-minimalist backlash is the bigger story behind Oxygen’s revival](https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/)
 * [2026-05-11, 14:23:42](https://lobste.rs/s/vzfi8i/modern_feed_reader_2024) - [A modern feed reader (2024)](https://unterwaditzer.net/2024/feed-reader.html)
+* [2026-05-11, 14:12:47](https://lobste.rs/s/g3i12k/running_my_agents_vps) - [Running my agents in a VPS](https://crowdhailer.me/2026-05-11/running-my-agents-in-a-vps/)
 * [2026-05-11, 13:31:04](https://lobste.rs/s/wubhf9/what_is_random_generation) - [What is random generation?](https://alperenkeles.com/posts/what-is-random-generation/)
 * [2026-05-11, 11:34:59](https://lobste.rs/s/spxvp4/web_feeds_2026_survey) - [Web Feeds in 2026: A Survey](https://mnot.net/blog/2026/feed-survey)
 * [2026-05-11, 11:09:31](https://lobste.rs/s/nqwrqf/omlx_llm_inference_server_with) - [omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
