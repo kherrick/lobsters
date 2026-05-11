@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 16:33:14](https://lobste.rs/s/fwutce/respectful_yaml_patching_rust) - [\"Respectful\" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
+* [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
+* [2026-05-11, 14:50:11](https://lobste.rs/s/4guexz/anti_minimalist_backlash_is_bigger_story) - [The anti-minimalist backlash is the bigger story behind Oxygen’s revival](https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/)
+* [2026-05-11, 14:23:42](https://lobste.rs/s/vzfi8i/modern_feed_reader_2024) - [A modern feed reader (2024)](https://unterwaditzer.net/2024/feed-reader.html)
+* [2026-05-11, 13:31:04](https://lobste.rs/s/wubhf9/what_is_random_generation) - [What is random generation?](https://alperenkeles.com/posts/what-is-random-generation/)
+* [2026-05-11, 11:34:59](https://lobste.rs/s/spxvp4/web_feeds_2026_survey) - [Web Feeds in 2026: A Survey](https://mnot.net/blog/2026/feed-survey)
 * [2026-05-11, 11:09:31](https://lobste.rs/s/nqwrqf/omlx_llm_inference_server_with) - [omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
 * [2026-05-11, 10:57:56](https://lobste.rs/s/vxf6cq/programmable_whitelist_based_configs) - [Programmable Whitelist-based Configs: Embedding Rye in Go](https://ryelang.org/blog/posts/whitelist-config-with-rye/)
 * [2026-05-11, 10:10:49](https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d) - [Ratty: A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+* [2026-05-11, 09:13:58](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week)
 * [2026-05-11, 09:09:52](https://lobste.rs/s/jchezk/local_ai_needs_be_norm) - [Local AI Needs to be the Norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 * [2026-05-11, 09:07:38](https://lobste.rs/s/vokark/im_going_back_writing_code_by_hand) - [Im going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
 * [2026-05-11, 08:42:28](https://lobste.rs/s/pdhf7w/piping_terminal_output_browser_using) - [Piping terminal output to the browser using systemfd](https://blog.izissise.net/posts/webdev-livecompile/)
