@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-11, 21:54:04](https://lobste.rs/s/fnhsha/zig_vs_rust_2026) - [Zig vs Rust in 2026](https://zackoverflow.dev/writing/zig-vs-rust-in-2026/)
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 * [2026-05-11, 19:14:58](https://lobste.rs/s/cnydxv/unusually_practical_update_for_eyg) - [An unusually practical update for EYG](https://eyg.run/news/editions/8)
 * [2026-05-11, 19:01:06](https://lobste.rs/s/a87c2i/iwp9_2026) - [iwp9 2026](http://n-gate.com/_iwp9/2026)
@@ -12,7 +13,6 @@
 * [2026-05-11, 11:34:59](https://lobste.rs/s/spxvp4/web_feeds_2026_survey) - [Web Feeds in 2026: A Survey](https://mnot.net/blog/2026/feed-survey)
 * [2026-05-11, 10:57:56](https://lobste.rs/s/vxf6cq/programmable_whitelist_based_configs) - [Programmable Whitelist-based Configs: Embedding Rye in Go](https://ryelang.org/blog/posts/whitelist-config-with-rye/)
 * [2026-05-11, 10:10:49](https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d) - [Ratty: A terminal emulator with inline 3D graphics](https://ratty-term.org/)
-* [2026-05-11, 09:13:58](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week)
 * [2026-05-11, 09:09:52](https://lobste.rs/s/jchezk/local_ai_needs_be_norm) - [Local AI Needs to be the Norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 * [2026-05-11, 09:07:38](https://lobste.rs/s/vokark/im_going_back_writing_code_by_hand) - [Im going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
 * [2026-05-11, 07:24:32](https://lobste.rs/s/am7evd/mythos_finds_curl_vulnerability) - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
