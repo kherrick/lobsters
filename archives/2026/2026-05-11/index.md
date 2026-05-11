@@ -6,6 +6,7 @@
 
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 * [2026-05-11, 19:14:58](https://lobste.rs/s/cnydxv/unusually_practical_update_for_eyg) - [An unusually practical update for EYG](https://eyg.run/news/editions/8)
+* [2026-05-11, 18:30:09](https://lobste.rs/s/wugfx4/fighting_hyrum_s_law_llvm) - [Fighting Hyrum's Law in LLVM](https://maskray.me/blog/2026-05-10-fighting-hyrums-law-in-llvm)
 * [2026-05-11, 16:33:14](https://lobste.rs/s/fwutce/respectful_yaml_patching_rust) - [\"Respectful\" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
 * [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
 * [2026-05-11, 15:05:29](https://lobste.rs/s/sumyip/tom_s_namespaces_odin_fanfic) - [Tom's Namespaces: An Odin Fanfic](https://zylinski.se/posts/toms-namespaces/)

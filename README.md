@@ -2,9 +2,9 @@
 
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 * [2026-05-11, 19:14:58](https://lobste.rs/s/cnydxv/unusually_practical_update_for_eyg) - [An unusually practical update for EYG](https://eyg.run/news/editions/8)
+* [2026-05-11, 18:30:09](https://lobste.rs/s/wugfx4/fighting_hyrum_s_law_llvm) - [Fighting Hyrum's Law in LLVM](https://maskray.me/blog/2026-05-10-fighting-hyrums-law-in-llvm)
 * [2026-05-11, 16:33:14](https://lobste.rs/s/fwutce/respectful_yaml_patching_rust) - [\"Respectful\" YAML patching in Rust](https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/)
 * [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
-* [2026-05-11, 15:05:29](https://lobste.rs/s/sumyip/tom_s_namespaces_odin_fanfic) - [Tom's Namespaces: An Odin Fanfic](https://zylinski.se/posts/toms-namespaces/)
 * [2026-05-11, 14:50:11](https://lobste.rs/s/4guexz/anti_minimalist_backlash_is_bigger_story) - [The anti-minimalist backlash is the bigger story behind Oxygen’s revival](https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/)
 * [2026-05-11, 14:12:47](https://lobste.rs/s/g3i12k/running_my_agents_vps) - [Running my agents in a VPS](https://crowdhailer.me/2026-05-11/running-my-agents-in-a-vps/)
 * [2026-05-11, 13:31:04](https://lobste.rs/s/wubhf9/what_is_random_generation) - [What is random generation?](https://alperenkeles.com/posts/what-is-random-generation/)
@@ -12,6 +12,7 @@
 * [2026-05-11, 11:09:31](https://lobste.rs/s/nqwrqf/omlx_llm_inference_server_with) - [omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar](https://github.com/jundot/omlx)
 * [2026-05-11, 10:57:56](https://lobste.rs/s/vxf6cq/programmable_whitelist_based_configs) - [Programmable Whitelist-based Configs: Embedding Rye in Go](https://ryelang.org/blog/posts/whitelist-config-with-rye/)
 * [2026-05-11, 10:10:49](https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d) - [Ratty: A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+* [2026-05-11, 09:13:58](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxvyvx/what_are_you_doing_this_week)
 * [2026-05-11, 09:09:52](https://lobste.rs/s/jchezk/local_ai_needs_be_norm) - [Local AI Needs to be the Norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 * [2026-05-11, 09:07:38](https://lobste.rs/s/vokark/im_going_back_writing_code_by_hand) - [Im going back to writing code by hand](https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/)
 * [2026-05-11, 07:24:32](https://lobste.rs/s/am7evd/mythos_finds_curl_vulnerability) - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
@@ -22,7 +23,6 @@
 * [2026-05-10, 21:07:33](https://lobste.rs/s/ni8b3e/childhood_computing) - [Childhood Computing](https://lilysthings.org/blog/childhood-computing/)
 * [2026-05-10, 20:07:57](https://lobste.rs/s/njobov/let_go_almost_clojure_written_go) - [let-go: Almost Clojure written in Go](https://github.com/nooga/let-go)
 * [2026-05-10, 18:06:47](https://lobste.rs/s/qxkdgl/90_day_disclosure_policy_is_dead) - [the 90 day disclosure policy is dead](https://blog.himanshuanand.com/2026/05/the-90-day-disclosure-policy-is-dead/)
-* [2026-05-10, 14:55:11](https://lobste.rs/s/b6fyzj/so_you_ve_installed_fzf_now_what_2023) - [So you've installed `fzf`. Now what? (2023)](https://andrew-quinn.me/fzf/)
 * [2026-05-10, 13:12:55](https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 * [2026-05-10, 11:42:30](https://lobste.rs/s/xb2edj/replacing_3_gb_sqlite_database_with_10_mb) - [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
 
