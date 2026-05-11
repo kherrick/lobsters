@@ -1,7 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-11, 04:47:23](https://lobste.rs/s/dpzgbc/dbase_1979_2026) - [dBase: 1979-2026](https://delphinightmares.substack.com/p/dbase-1979-2026)
+* [2026-05-11, 03:30:32](https://lobste.rs/s/m9c8st/unlocking_encrypted_zfs_volumes_with) - [Unlocking Encrypted ZFS Volumes with a Passkey](https://withblue.ink/2026/05/09/revaulter-encrypted-zfs-passkey.html)
+* [2026-05-11, 02:19:28](https://lobste.rs/s/fy4spr/you_need_ai_reduces_maintenance_costs) - [You Need AI That Reduces Maintenance Costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
 * [2026-05-10, 23:17:43](https://lobste.rs/s/wnylwv/my_pastebin_clone_vivipara_language) - [My pastebin clone Vivipara and language musings](https://akselmo.dev/posts/vivipara-and-languages/)
 * [2026-05-10, 23:09:39](https://lobste.rs/s/zocyee/replacing_ctrl_r_bash_without_tiocsti) - [Replacing Ctrl-R in Bash without TIOCSTI](https://blog.rickardlindberg.me/2025/01/19/replacing-ctrlr-in-bash-without.html)
+* [2026-05-10, 21:51:34](https://lobste.rs/s/r1eihn/claudebleed_flaw_claude_s_browser) - [ClaudeBleed: A Flaw In Claude's Browser Extension Allows Any Extension to Hijack It](https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/)
 * [2026-05-10, 21:07:33](https://lobste.rs/s/ni8b3e/childhood_computing) - [Childhood Computing](https://lilysthings.org/blog/childhood-computing/)
 * [2026-05-10, 21:04:55](https://lobste.rs/s/6f9o6w/robot_dogs_are_security_nightmare) - [Robot Dogs Are a Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)
 * [2026-05-10, 20:59:58](https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua) - [Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever](https://github.com/bytexenon/Tiny-Lua-Compiler)
@@ -17,14 +21,10 @@
 * [2026-05-10, 11:42:30](https://lobste.rs/s/xb2edj/replacing_3_gb_sqlite_database_with_10_mb) - [Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
 * [2026-05-10, 11:21:53](https://lobste.rs/s/jmp373/space_cadet_pinball_on_linux) - [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 * [2026-05-10, 10:35:23](https://lobste.rs/s/ajbrdr/idempotency_is_easy_until_second_request) - [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
-* [2026-05-10, 10:26:22](https://lobste.rs/s/oenret/intolerable_hypocrisy) - [The Intolerable Hypocrisy of Cyberlibertarianism](https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/)
 * [2026-05-10, 07:01:30](https://lobste.rs/s/kuhmb0/ai_is_breaking_two_vulnerability) - [AI is Breaking Two Vulnerability Cultures](https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures)
-* [2026-05-10, 06:14:30](https://lobste.rs/s/hbctt2/point_free_logic_programming) - [Point-Free Logic Programming](https://forum.malleable.systems/t/point-free-logic-programming/151)
 * [2026-05-10, 03:14:27](https://lobste.rs/s/bfiq9k/flipping_bozo_bit_on_flips_learning_off) - [Flipping the bozo bit on flips the learning off](https://surfingcomplexity.blog/2026/05/09/flipping-the-bozo-bit-on-flips-the-learning-off/)
 * [2026-05-09, 18:43:45](https://lobste.rs/s/ebg5hg/laptops_all_have_built_security_tokens) - [Laptops all have built-in security tokens these days](https://ahelwer.ca/post/2026-05-08-builtin-u2f/)
 * [2026-05-09, 16:12:57](https://lobste.rs/s/vbit2a/i_will_not_add_query_strings_your_urls) - [I Will Not Add Query Strings to Your URLs](https://susam.net/no-query-strings.html)
-* [2026-05-09, 15:10:34](https://lobste.rs/s/39xkt3/webrtc_is_problem) - [WebRTC is the Problem](https://moq.dev/blog/webrtc-is-the-problem/)
-* [2026-05-09, 10:03:17](https://lobste.rs/s/ho7nqt/on_forking_web) - [On forking the Web](https://dillo-browser.org/lab/web-fork/)
 
 ## [Archives](archives/index.md)
 
