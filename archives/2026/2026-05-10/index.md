@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2026-05-10](index.md)
 
 * [2026-05-10, 23:17:43](https://lobste.rs/s/wnylwv/my_pastebin_clone_vivipara_language) - [My pastebin clone Vivipara and language musings](https://akselmo.dev/posts/vivipara-and-languages/)
+* [2026-05-10, 23:09:39](https://lobste.rs/s/zocyee/replacing_ctrl_r_bash_without_tiocsti) - [Replacing Ctrl-R in Bash without TIOCSTI](https://blog.rickardlindberg.me/2025/01/19/replacing-ctrlr-in-bash-without.html)
 * [2026-05-10, 21:51:34](https://lobste.rs/s/r1eihn/claudebleed_flaw_claude_s_browser) - [ClaudeBleed: A Flaw In Claude's Browser Extension Allows Any Extension to Hijack It](https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/)
+* [2026-05-10, 21:07:33](https://lobste.rs/s/ni8b3e/childhood_computing) - [Childhood Computing](https://lilysthings.org/blog/childhood-computing/)
 * [2026-05-10, 21:04:55](https://lobste.rs/s/6f9o6w/robot_dogs_are_security_nightmare) - [Robot Dogs Are a Security Nightmare](https://www.youtube.com/watch?v=lA8WuXDXfcI)
 * [2026-05-10, 20:59:58](https://lobste.rs/s/np3vpy/tiny_lua_compiler_possibly_smallest_lua) - [Tiny-Lua-Compiler: Possibly the smallest Lua compiler ever](https://github.com/bytexenon/Tiny-Lua-Compiler)
 * [2026-05-10, 20:07:57](https://lobste.rs/s/njobov/let_go_almost_clojure_written_go) - [let-go: Almost Clojure written in Go](https://github.com/nooga/let-go)
