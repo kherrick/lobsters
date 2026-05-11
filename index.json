@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-05-11, 19:01:06",
+      "https://lobste.rs/s/a87c2i/iwp9_2026"
+    ],
+    [
+      "iwp9 2026",
+      "http://n-gate.com/_iwp9/2026"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 18:30:09",
       "https://lobste.rs/s/wugfx4/fighting_hyrum_s_law_llvm"
     ],
@@ -87,16 +97,6 @@
     [
       "Web Feeds in 2026: A Survey",
       "https://mnot.net/blog/2026/feed-survey"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 11:09:31",
-      "https://lobste.rs/s/nqwrqf/omlx_llm_inference_server_with"
-    ],
-    [
-      "omlx: LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "https://github.com/jundot/omlx"
     ]
   ],
   [
