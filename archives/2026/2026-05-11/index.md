@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-11](index.md)
 
+* [2026-05-11, 23:24:59](https://lobste.rs/s/nritfj/annotated_digest_12th_international) - [An annotated digest of the 12th International Workshop on Plan 9](http://n-gate.com/_iwp9/)
 * [2026-05-11, 21:54:04](https://lobste.rs/s/fnhsha/zig_vs_rust_2026) - [Zig vs Rust in 2026](https://zackoverflow.dev/writing/zig-vs-rust-in-2026/)
+* [2026-05-11, 21:12:34](https://lobste.rs/s/iaankl/cathedral_bazaar_kitchen) - [The Cathedral, the Bazaar and the Kitchen](https://blog.vrypan.net/2026/05/11/the-cathedral-the-bazaar-and-the-kitchen/)
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 * [2026-05-11, 19:14:58](https://lobste.rs/s/cnydxv/unusually_practical_update_for_eyg) - [An unusually practical update for EYG](https://eyg.run/news/editions/8)
 * [2026-05-11, 19:01:06](https://lobste.rs/s/a87c2i/iwp9_2026) - [iwp9 2026](http://n-gate.com/_iwp9/2026)
