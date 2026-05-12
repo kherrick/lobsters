@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-12, 09:23:52",
+      "https://lobste.rs/s/zihixw/technical_guide_compiling_emacs_for"
+    ],
+    [
+      "A Technical Guide to Compiling Emacs for Performance on Linux and Unix systems",
+      "https://www.jamescherti.com/compiling-emacs/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 09:19:16",
+      "https://lobste.rs/s/oagkyy/gitlab_act_2"
+    ],
+    [
+      "GitLab Act 2",
+      "https://about.gitlab.com/blog/gitlab-act-2/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 07:43:29",
+      "https://lobste.rs/s/ztrxoj/problem_pedagogy_advanced_mathematics"
+    ],
+    [
+      "The Problem of Pedagogy in Advanced Mathematics",
+      "https://susam.net/advanced-mathematics-pedagogy.html"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 06:10:06",
       "https://lobste.rs/s/bvqio4/css_vertical_rhythm_for_text_images"
     ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2026-05-11, 19:14:58",
-      "https://lobste.rs/s/cnydxv/unusually_practical_update_for_eyg"
-    ],
-    [
-      "An unusually practical update for EYG",
-      "https://eyg.run/news/editions/8"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 19:01:06",
       "https://lobste.rs/s/a87c2i/iwp9_2026"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-11, 11:34:59",
-      "https://lobste.rs/s/spxvp4/web_feeds_2026_survey"
-    ],
-    [
-      "Web Feeds in 2026: A Survey",
-      "https://mnot.net/blog/2026/feed-survey"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 10:57:56",
       "https://lobste.rs/s/vxf6cq/programmable_whitelist_based_configs"
     ],
@@ -227,16 +237,6 @@
     [
       "You Need AI That Reduces Maintenance Costs",
       "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs"
-    ]
-  ],
-  [
-    [
-      "2026-05-10, 20:07:57",
-      "https://lobste.rs/s/njobov/let_go_almost_clojure_written_go"
-    ],
-    [
-      "let-go: Almost Clojure written in Go",
-      "https://github.com/nooga/let-go"
     ]
   ],
   [
