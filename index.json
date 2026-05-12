@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-05-12, 06:10:06",
+      "https://lobste.rs/s/bvqio4/css_vertical_rhythm_for_text_images"
+    ],
+    [
+      "CSS & vertical rhythm for text, images, and tables",
+      "https://vincent.bernat.ch/en/blog/2026-css-vertical-rhythm"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 03:49:30",
       "https://lobste.rs/s/7rpqbo/popular_go_library_fsnotify_raises"
     ],
     [
       "Popular Go library fsnotify raises supply chain alarms after maintainer access changes",
       "https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 03:38:16",
+      "https://lobste.rs/s/pu6cxi/kettle_attested_builds_for_verifiable"
+    ],
+    [
+      "Kettle: Attested builds for verifiable software provenance",
+      "https://arxiv.org/pdf/2605.08363"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "taken",
       "https://sinceyouarrived.world/taken"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 23:24:59",
-      "https://lobste.rs/s/nritfj/annotated_digest_12th_international"
-    ],
-    [
-      "An annotated digest of the 12th International Workshop on Plan 9",
-      "http://n-gate.com/_iwp9/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Fully Preserving Fisher-Price Pixter",
       "https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 05:38:44",
-      "https://lobste.rs/s/2r03i7/how_factorio_syncs_million_objects_over"
-    ],
-    [
-      "How Factorio Syncs A Million Objects over the network",
-      "https://www.youtube.com/watch?v=0FHSZ1hani0"
     ]
   ],
   [
