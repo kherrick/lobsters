@@ -1,6 +1,66 @@
 [
   [
     [
+      "2026-05-12, 17:01:37",
+      "https://lobste.rs/s/oznirn/redis_cost_ambition"
+    ],
+    [
+      "Redis and the Cost of Ambition",
+      "https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:48:20",
+      "https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social"
+    ],
+    [
+      "Bambu Lab is abusing the open source social contract",
+      "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:17:25",
+      "https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code"
+    ],
+    [
+      "All the ways to mock your Rust code",
+      "https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:11:47",
+      "https://lobste.rs/s/gz9o6e/time_travel_without_borders"
+    ],
+    [
+      "Time travel without borders",
+      "https://guix.gnu.org/en/blog/2026/time-travel-without-borders/"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:11:25",
+      "https://lobste.rs/s/04sbxd/agentic_coding_is_trap"
+    ],
+    [
+      "Agentic Coding is a Trap",
+      "https://larsfaye.com/articles/agentic-coding-is-a-trap?ref=sidebar"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 15:10:13",
+      "https://lobste.rs/s/9nngwi/killing_cow_made_my_json_formatter_42"
+    ],
+    [
+      "Killing a `Cow` made my JSON formatter 42% faster",
+      "https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 14:11:26",
       "https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into"
     ],
@@ -91,16 +151,6 @@
   ],
   [
     [
-      "2026-05-12, 03:38:16",
-      "https://lobste.rs/s/pu6cxi/kettle_attested_builds_for_verifiable"
-    ],
-    [
-      "Kettle: Attested builds for verifiable software provenance",
-      "https://arxiv.org/pdf/2605.08363"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 02:38:25",
       "https://lobste.rs/s/gp48cv/extraordinary_ordinals"
     ],
@@ -117,16 +167,6 @@
     [
       "taken",
       "https://sinceyouarrived.world/taken"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 02:01:50",
-      "https://lobste.rs/s/d8iunk/postmortem_tanstack_npm_supply_chain"
-    ],
-    [
-      "Postmortem: TanStack npm supply-chain compromise",
-      "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
     ]
   ],
   [
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2026-05-11, 18:30:09",
-      "https://lobste.rs/s/wugfx4/fighting_hyrum_s_law_llvm"
-    ],
-    [
-      "Fighting Hyrum's Law in LLVM",
-      "https://maskray.me/blog/2026-05-10-fighting-hyrums-law-in-llvm"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 16:33:14",
-      "https://lobste.rs/s/fwutce/respectful_yaml_patching_rust"
-    ],
-    [
-      "\"Respectful\" YAML patching in Rust",
-      "https://verrchu.github.io/blog/2-respectful-yaml-patching-in-rust/"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 15:35:21",
       "https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2026-05-11, 10:57:56",
-      "https://lobste.rs/s/vxf6cq/programmable_whitelist_based_configs"
-    ],
-    [
-      "Programmable Whitelist-based Configs: Embedding Rye in Go",
-      "https://ryelang.org/blog/posts/whitelist-config-with-rye/"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 10:10:49",
       "https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d"
     ],
     [
       "Ratty: A terminal emulator with inline 3D graphics",
       "https://ratty-term.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 09:09:52",
-      "https://lobste.rs/s/jchezk/local_ai_needs_be_norm"
-    ],
-    [
-      "Local AI Needs to be the Norm",
-      "https://unix.foo/posts/local-ai-needs-to-be-norm/"
     ]
   ],
   [
