@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-12, 14:11:26",
+      "https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into"
+    ],
+    [
+      "How Rockstar fit an entire city into PlayStation 2 memory",
+      "https://www.youtube.com/watch?v=cIbCxbrBCys"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 12:04:48",
+      "https://lobste.rs/s/ulnrmv/any_app_on_recent_android_versions_can"
+    ],
+    [
+      "Any app on recent Android versions can leak certain traffic",
+      "https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 11:50:34",
       "https://lobste.rs/s/f47lxm/learning_software_architecture"
     ],
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2026-05-12, 02:01:50",
+      "https://lobste.rs/s/d8iunk/postmortem_tanstack_npm_supply_chain"
+    ],
+    [
+      "Postmortem: TanStack npm supply-chain compromise",
+      "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem"
+    ]
+  ],
+  [
+    [
       "2026-05-11, 21:54:04",
       "https://lobste.rs/s/fnhsha/zig_vs_rust_2026"
     ],
@@ -127,16 +157,6 @@
     [
       "Gram 2.0.0 released",
       "https://gram-editor.com/posts/release-2.0-0/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 19:01:06",
-      "https://lobste.rs/s/a87c2i/iwp9_2026"
-    ],
-    [
-      "iwp9 2026",
-      "http://n-gate.com/_iwp9/2026"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "The anti-minimalist backlash is the bigger story behind Oxygen’s revival",
       "https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 14:12:47",
-      "https://lobste.rs/s/g3i12k/running_my_agents_vps"
-    ],
-    [
-      "Running my agents in a VPS",
-      "https://crowdhailer.me/2026-05-11/running-my-agents-in-a-vps/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 13:31:04",
-      "https://lobste.rs/s/wubhf9/what_is_random_generation"
-    ],
-    [
-      "What is random generation?",
-      "https://alperenkeles.com/posts/what-is-random-generation/"
     ]
   ],
   [
