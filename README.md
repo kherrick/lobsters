@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-12, 11:50:34](https://lobste.rs/s/f47lxm/learning_software_architecture) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+* [2026-05-12, 11:27:38](https://lobste.rs/s/z4nd1a/fuzzing_fork_go_toolchain) - [Fuzzing fork of go toolchain](https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./)
+* [2026-05-12, 10:44:19](https://lobste.rs/s/bml5i5/unison_anger) - [Unison In Anger](https://blog.feld.me/posts/2026/05/unison-in-anger/)
 * [2026-05-12, 09:23:52](https://lobste.rs/s/zihixw/technical_guide_compiling_emacs_for) - [A Technical Guide to Compiling Emacs for Performance on Linux and Unix systems](https://www.jamescherti.com/compiling-emacs/)
-* [2026-05-12, 09:19:16](https://lobste.rs/s/oagkyy/gitlab_act_2) - [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/)
 * [2026-05-12, 07:43:29](https://lobste.rs/s/ztrxoj/problem_pedagogy_advanced_mathematics) - [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html)
 * [2026-05-12, 06:10:06](https://lobste.rs/s/bvqio4/css_vertical_rhythm_for_text_images) - [CSS & vertical rhythm for text, images, and tables](https://vincent.bernat.ch/en/blog/2026-css-vertical-rhythm)
 * [2026-05-12, 03:49:30](https://lobste.rs/s/7rpqbo/popular_go_library_fsnotify_raises) - [Popular Go library fsnotify raises supply chain alarms after maintainer access changes](https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns)
@@ -23,8 +25,6 @@
 * [2026-05-11, 09:09:52](https://lobste.rs/s/jchezk/local_ai_needs_be_norm) - [Local AI Needs to be the Norm](https://unix.foo/posts/local-ai-needs-to-be-norm/)
 * [2026-05-11, 07:24:32](https://lobste.rs/s/am7evd/mythos_finds_curl_vulnerability) - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 * [2026-05-11, 06:54:03](https://lobste.rs/s/jqr0fm/fully_preserving_fisher_price_pixter) - [Fully Preserving Fisher-Price Pixter](https://dmitry.gr/?r=05.Projects&proj=37.%20Pixter)
-* [2026-05-11, 02:19:28](https://lobste.rs/s/fy4spr/you_need_ai_reduces_maintenance_costs) - [You Need AI That Reduces Maintenance Costs](https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs)
-* [2026-05-10, 13:12:55](https://lobste.rs/s/q0bvq9/debian_must_ship_reproducible_packages) - [Debian must ship reproducible packages](https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html)
 
 ## [Archives](archives/index.md)
 

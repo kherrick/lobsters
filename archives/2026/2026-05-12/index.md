@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 11:50:34](https://lobste.rs/s/f47lxm/learning_software_architecture) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+* [2026-05-12, 11:27:38](https://lobste.rs/s/z4nd1a/fuzzing_fork_go_toolchain) - [Fuzzing fork of go toolchain](https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./)
+* [2026-05-12, 10:44:19](https://lobste.rs/s/bml5i5/unison_anger) - [Unison In Anger](https://blog.feld.me/posts/2026/05/unison-in-anger/)
 * [2026-05-12, 09:23:52](https://lobste.rs/s/zihixw/technical_guide_compiling_emacs_for) - [A Technical Guide to Compiling Emacs for Performance on Linux and Unix systems](https://www.jamescherti.com/compiling-emacs/)
 * [2026-05-12, 09:19:16](https://lobste.rs/s/oagkyy/gitlab_act_2) - [GitLab Act 2](https://about.gitlab.com/blog/gitlab-act-2/)
 * [2026-05-12, 07:43:29](https://lobste.rs/s/ztrxoj/problem_pedagogy_advanced_mathematics) - [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html)
