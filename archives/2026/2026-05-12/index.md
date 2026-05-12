@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 14:11:26](https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into) - [How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)
+* [2026-05-12, 12:04:48](https://lobste.rs/s/ulnrmv/any_app_on_recent_android_versions_can) - [Any app on recent Android versions can leak certain traffic](https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic)
 * [2026-05-12, 11:50:34](https://lobste.rs/s/f47lxm/learning_software_architecture) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
 * [2026-05-12, 11:27:38](https://lobste.rs/s/z4nd1a/fuzzing_fork_go_toolchain) - [Fuzzing fork of go toolchain](https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./)
 * [2026-05-12, 10:44:19](https://lobste.rs/s/bml5i5/unison_anger) - [Unison In Anger](https://blog.feld.me/posts/2026/05/unison-in-anger/)
@@ -15,3 +17,4 @@
 * [2026-05-12, 03:38:16](https://lobste.rs/s/pu6cxi/kettle_attested_builds_for_verifiable) - [Kettle: Attested builds for verifiable software provenance](https://arxiv.org/pdf/2605.08363)
 * [2026-05-12, 02:38:25](https://lobste.rs/s/gp48cv/extraordinary_ordinals) - [Extraordinary Ordinals](https://text.marvinborner.de/2026-04-09-17.html)
 * [2026-05-12, 02:21:27](https://lobste.rs/s/b8gee9/taken) - [taken](https://sinceyouarrived.world/taken)
+* [2026-05-12, 02:01:50](https://lobste.rs/s/d8iunk/postmortem_tanstack_npm_supply_chain) - [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
