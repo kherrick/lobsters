@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-12, 19:10:35](https://lobste.rs/s/tvhqam/six_cves_for_serious_security) - [\"six CVEs for serious security vulnerabilities in dnsmasq\"](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
+* [2026-05-12, 17:54:44](https://lobste.rs/s/9dalas/quack_duckdb_client_server_protocol) - [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol.html)
 * [2026-05-12, 17:46:08](https://lobste.rs/s/msrczi/what_is_busybox) - [What is BusyBox?](https://specular.fi/post/what-is-busybox)
 * [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
 * [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
@@ -16,10 +18,8 @@
 * [2026-05-12, 07:43:29](https://lobste.rs/s/ztrxoj/problem_pedagogy_advanced_mathematics) - [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html)
 * [2026-05-12, 06:10:06](https://lobste.rs/s/bvqio4/css_vertical_rhythm_for_text_images) - [CSS & vertical rhythm for text, images, and tables](https://vincent.bernat.ch/en/blog/2026-css-vertical-rhythm)
 * [2026-05-12, 03:49:30](https://lobste.rs/s/7rpqbo/popular_go_library_fsnotify_raises) - [Popular Go library fsnotify raises supply chain alarms after maintainer access changes](https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns)
-* [2026-05-12, 02:38:25](https://lobste.rs/s/gp48cv/extraordinary_ordinals) - [Extraordinary Ordinals](https://text.marvinborner.de/2026-04-09-17.html)
 * [2026-05-12, 02:21:27](https://lobste.rs/s/b8gee9/taken) - [taken](https://sinceyouarrived.world/taken)
 * [2026-05-11, 21:54:04](https://lobste.rs/s/fnhsha/zig_vs_rust_2026) - [Zig vs Rust in 2026](https://zackoverflow.dev/writing/zig-vs-rust-in-2026/)
-* [2026-05-11, 21:12:34](https://lobste.rs/s/iaankl/cathedral_bazaar_kitchen) - [The Cathedral, the Bazaar and the Kitchen](https://blog.vrypan.net/2026/05/11/the-cathedral-the-bazaar-and-the-kitchen/)
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 * [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
 * [2026-05-11, 14:50:11](https://lobste.rs/s/4guexz/anti_minimalist_backlash_is_bigger_story) - [The anti-minimalist backlash is the bigger story behind Oxygen’s revival](https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/)
