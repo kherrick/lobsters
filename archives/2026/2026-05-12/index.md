@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
+* [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
+* [2026-05-12, 15:17:25](https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code) - [All the ways to mock your Rust code](https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code)
+* [2026-05-12, 15:11:47](https://lobste.rs/s/gz9o6e/time_travel_without_borders) - [Time travel without borders](https://guix.gnu.org/en/blog/2026/time-travel-without-borders/)
+* [2026-05-12, 15:11:25](https://lobste.rs/s/04sbxd/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?ref=sidebar)
+* [2026-05-12, 15:10:13](https://lobste.rs/s/9nngwi/killing_cow_made_my_json_formatter_42) - [Killing a `Cow` made my JSON formatter 42% faster](https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/)
 * [2026-05-12, 14:11:26](https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into) - [How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)
 * [2026-05-12, 12:04:48](https://lobste.rs/s/ulnrmv/any_app_on_recent_android_versions_can) - [Any app on recent Android versions can leak certain traffic](https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic)
 * [2026-05-12, 11:50:34](https://lobste.rs/s/f47lxm/learning_software_architecture) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
