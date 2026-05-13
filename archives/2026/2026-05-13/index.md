@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 11:20:45](https://lobste.rs/s/5fw1oe/claude_code_rce_exploiting_deeplink) - [Claude Code RCE: Exploiting Deeplink Handlers via Settings Injection](https://0day.click/recipe/2026-05-12-cc-rce/)
+* [2026-05-13, 11:02:22](https://lobste.rs/s/rnpff5/erlang_otp_29_0_release) - [Erlang/OTP 29.0 Release](https://www.erlang.org/news/188)
+* [2026-05-13, 10:57:11](https://lobste.rs/s/4ybgjp/update_on_east_river_source_control) - [An update on East River Source Control availability](https://ersc.io/blog/ersc-availability)
 * [2026-05-13, 09:22:26](https://lobste.rs/s/qwoixg/dart_live_compiler_vm_analyzer_hot_reload) - [Dart Live, a compiler, VM, analyzer and hot reload on the web via Wasm](https://modulovalue.github.io/dart-live/)
 * [2026-05-13, 09:05:34](https://lobste.rs/s/7n4j6j/macbook_neo_review_laptop_for_rest_us) - [MacBook Neo Review: The Laptop For The Rest Of Us](https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/)
 * [2026-05-13, 09:01:47](https://lobste.rs/s/wbitfz/tolaria_rust_questions_about_what_makes) - [Tolaria, Rust, and Questions About What Makes a Mac App Feel Good to Me](https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html)

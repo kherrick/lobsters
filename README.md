@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-13, 11:20:45](https://lobste.rs/s/5fw1oe/claude_code_rce_exploiting_deeplink) - [Claude Code RCE: Exploiting Deeplink Handlers via Settings Injection](https://0day.click/recipe/2026-05-12-cc-rce/)
+* [2026-05-13, 11:02:22](https://lobste.rs/s/rnpff5/erlang_otp_29_0_release) - [Erlang/OTP 29.0 Release](https://www.erlang.org/news/188)
+* [2026-05-13, 10:57:11](https://lobste.rs/s/4ybgjp/update_on_east_river_source_control) - [An update on East River Source Control availability](https://ersc.io/blog/ersc-availability)
 * [2026-05-13, 09:22:26](https://lobste.rs/s/qwoixg/dart_live_compiler_vm_analyzer_hot_reload) - [Dart Live, a compiler, VM, analyzer and hot reload on the web via Wasm](https://modulovalue.github.io/dart-live/)
 * [2026-05-13, 09:05:34](https://lobste.rs/s/7n4j6j/macbook_neo_review_laptop_for_rest_us) - [MacBook Neo Review: The Laptop For The Rest Of Us](https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/)
 * [2026-05-13, 09:01:47](https://lobste.rs/s/wbitfz/tolaria_rust_questions_about_what_makes) - [Tolaria, Rust, and Questions About What Makes a Mac App Feel Good to Me](https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html)
@@ -18,13 +21,10 @@
 * [2026-05-12, 14:11:26](https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into) - [How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)
 * [2026-05-12, 12:04:48](https://lobste.rs/s/ulnrmv/any_app_on_recent_android_versions_can) - [Any app on recent Android versions can leak certain traffic](https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic)
 * [2026-05-12, 11:50:34](https://lobste.rs/s/f47lxm/learning_software_architecture) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
-* [2026-05-12, 10:44:19](https://lobste.rs/s/bml5i5/unison_anger) - [Unison In Anger](https://blog.feld.me/posts/2026/05/unison-in-anger/)
-* [2026-05-12, 09:23:52](https://lobste.rs/s/zihixw/technical_guide_compiling_emacs_for) - [A Technical Guide to Compiling Emacs for Performance on Linux and Unix systems](https://www.jamescherti.com/compiling-emacs/)
 * [2026-05-12, 07:43:29](https://lobste.rs/s/ztrxoj/problem_pedagogy_advanced_mathematics) - [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html)
 * [2026-05-12, 03:49:30](https://lobste.rs/s/7rpqbo/popular_go_library_fsnotify_raises) - [Popular Go library fsnotify raises supply chain alarms after maintainer access changes](https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns)
 * [2026-05-12, 02:21:27](https://lobste.rs/s/b8gee9/taken) - [taken](https://sinceyouarrived.world/taken)
 * [2026-05-11, 21:54:04](https://lobste.rs/s/fnhsha/zig_vs_rust_2026) - [Zig vs Rust in 2026](https://zackoverflow.dev/writing/zig-vs-rust-in-2026/)
-* [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
 
 ## [Archives](archives/index.md)
 
