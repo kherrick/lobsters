@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-13, 09:22:26",
+      "https://lobste.rs/s/qwoixg/dart_live_compiler_vm_analyzer_hot_reload"
+    ],
+    [
+      "Dart Live, a compiler, VM, analyzer and hot reload on the web via Wasm",
+      "https://modulovalue.github.io/dart-live/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 09:05:34",
+      "https://lobste.rs/s/7n4j6j/macbook_neo_review_laptop_for_rest_us"
+    ],
+    [
+      "MacBook Neo Review: The Laptop For The Rest Of Us",
+      "https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 09:01:47",
+      "https://lobste.rs/s/wbitfz/tolaria_rust_questions_about_what_makes"
+    ],
+    [
+      "Tolaria, Rust, and Questions About What Makes a Mac App Feel Good to Me",
+      "https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 06:09:32",
+      "https://lobste.rs/s/gyiahc/detailed_introduction_kakoune_for"
+    ],
+    [
+      "A detailed introduction to Kakoune for the aspiring power user",
+      "https://ficd.sh/blog/kakoune-is-a-text-editor/"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 04:50:11",
       "https://lobste.rs/s/c2zvef/partial_static_single_information_form"
     ],
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-05-12, 11:27:38",
-      "https://lobste.rs/s/z4nd1a/fuzzing_fork_go_toolchain"
-    ],
-    [
-      "Fuzzing fork of go toolchain",
-      "https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./"
-    ]
-  ],
-  [
-    [
       "2026-05-12, 10:44:19",
       "https://lobste.rs/s/bml5i5/unison_anger"
     ],
@@ -177,16 +207,6 @@
     [
       "The Problem of Pedagogy in Advanced Mathematics",
       "https://susam.net/advanced-mathematics-pedagogy.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 06:10:06",
-      "https://lobste.rs/s/bvqio4/css_vertical_rhythm_for_text_images"
-    ],
-    [
-      "CSS & vertical rhythm for text, images, and tables",
-      "https://vincent.bernat.ch/en/blog/2026-css-vertical-rhythm"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Gram 2.0.0 released",
       "https://gram-editor.com/posts/release-2.0-0/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 10:10:49",
-      "https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d"
-    ],
-    [
-      "Ratty: A terminal emulator with inline 3D graphics",
-      "https://ratty-term.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 07:24:32",
-      "https://lobste.rs/s/am7evd/mythos_finds_curl_vulnerability"
-    ],
-    [
-      "Mythos finds a curl vulnerability",
-      "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/"
     ]
   ]
 ]
