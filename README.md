@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-13, 03:12:22](https://lobste.rs/s/d72zvn/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered](https://iev.ee/blog/what-262715-regex-questions-havent-answered/)
+* [2026-05-13, 01:32:35](https://lobste.rs/s/wqrcez/bebox_beos_hardware_photos_apple_deal) - [The BeBox: BeOS Hardware, Photos, and the Apple Deal That Wasn't](https://www.jdhodges.com/blog/bebox-beautifully-overbuilt-computer/)
 * [2026-05-12, 20:36:24](https://lobste.rs/s/txgfvc/soon_we_can_finally_banish_javascript) - [Soon We Can Finally Banish JavaScript to the ShadowRealm](https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/)
 * [2026-05-12, 19:10:35](https://lobste.rs/s/tvhqam/six_cves_for_serious_security) - [\"six CVEs for serious security vulnerabilities in dnsmasq\"](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 * [2026-05-12, 17:46:08](https://lobste.rs/s/msrczi/what_is_busybox) - [What is BusyBox?](https://specular.fi/post/what-is-busybox)
-* [2026-05-12, 17:19:49](https://lobste.rs/s/jihmlg/hidden_cost_mpsc_channels) - [The hidden cost of mpsc channels](https://blog.howardjohn.info/posts/mpsc-cost/)
 * [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
 * [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 * [2026-05-12, 15:17:25](https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code) - [All the ways to mock your Rust code](https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code)
@@ -22,7 +23,6 @@
 * [2026-05-12, 02:21:27](https://lobste.rs/s/b8gee9/taken) - [taken](https://sinceyouarrived.world/taken)
 * [2026-05-11, 21:54:04](https://lobste.rs/s/fnhsha/zig_vs_rust_2026) - [Zig vs Rust in 2026](https://zackoverflow.dev/writing/zig-vs-rust-in-2026/)
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
-* [2026-05-11, 15:35:21](https://lobste.rs/s/bojb9a/moving_from_lsp_mode_gnu_emacs_eglot) - [Moving from lsp-mode in GNU Emacs to Eglot](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot)
 * [2026-05-11, 10:10:49](https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d) - [Ratty: A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 * [2026-05-11, 07:24:32](https://lobste.rs/s/am7evd/mythos_finds_curl_vulnerability) - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 
