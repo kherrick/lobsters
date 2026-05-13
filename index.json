@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-13, 20:02:10",
+      "https://lobste.rs/s/ryvlps/catching_typos_on_my_website_with_browser"
+    ],
+    [
+      "Catching Typos on My Website with Browser Testing",
+      "https://wickstrom.tech/2026-05-13-catching-typos-website-browser-testing.html"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 17:31:03",
       "https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write"
     ],
@@ -227,16 +237,6 @@
     [
       "Bambu Lab is abusing the open source social contract",
       "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 15:17:25",
-      "https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code"
-    ],
-    [
-      "All the ways to mock your Rust code",
-      "https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code"
     ]
   ],
   [
