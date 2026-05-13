@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-13, 09:22:26](https://lobste.rs/s/qwoixg/dart_live_compiler_vm_analyzer_hot_reload) - [Dart Live, a compiler, VM, analyzer and hot reload on the web via Wasm](https://modulovalue.github.io/dart-live/)
+* [2026-05-13, 09:05:34](https://lobste.rs/s/7n4j6j/macbook_neo_review_laptop_for_rest_us) - [MacBook Neo Review: The Laptop For The Rest Of Us](https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/)
+* [2026-05-13, 09:01:47](https://lobste.rs/s/wbitfz/tolaria_rust_questions_about_what_makes) - [Tolaria, Rust, and Questions About What Makes a Mac App Feel Good to Me](https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html)
+* [2026-05-13, 06:09:32](https://lobste.rs/s/gyiahc/detailed_introduction_kakoune_for) - [A detailed introduction to Kakoune for the aspiring power user](https://ficd.sh/blog/kakoune-is-a-text-editor/)
 * [2026-05-13, 04:50:11](https://lobste.rs/s/c2zvef/partial_static_single_information_form) - [Partial static single information form](https://bernsteinbear.com/blog/partial-ssi/)
 * [2026-05-13, 03:12:22](https://lobste.rs/s/d72zvn/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered](https://iev.ee/blog/what-262715-regex-questions-havent-answered/)
 * [2026-05-13, 01:32:35](https://lobste.rs/s/wqrcez/bebox_beos_hardware_photos_apple_deal) - [The BeBox: BeOS Hardware, Photos, and the Apple Deal That Wasn't](https://www.jdhodges.com/blog/bebox-beautifully-overbuilt-computer/)
@@ -14,17 +18,13 @@
 * [2026-05-12, 14:11:26](https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into) - [How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)
 * [2026-05-12, 12:04:48](https://lobste.rs/s/ulnrmv/any_app_on_recent_android_versions_can) - [Any app on recent Android versions can leak certain traffic](https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic)
 * [2026-05-12, 11:50:34](https://lobste.rs/s/f47lxm/learning_software_architecture) - [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
-* [2026-05-12, 11:27:38](https://lobste.rs/s/z4nd1a/fuzzing_fork_go_toolchain) - [Fuzzing fork of go toolchain](https://blog.trailofbits.com/2026/05/12/go-fuzzing-was-missing-half-the-toolkit.-we-forked-the-toolchain-to-fix-it./)
 * [2026-05-12, 10:44:19](https://lobste.rs/s/bml5i5/unison_anger) - [Unison In Anger](https://blog.feld.me/posts/2026/05/unison-in-anger/)
 * [2026-05-12, 09:23:52](https://lobste.rs/s/zihixw/technical_guide_compiling_emacs_for) - [A Technical Guide to Compiling Emacs for Performance on Linux and Unix systems](https://www.jamescherti.com/compiling-emacs/)
 * [2026-05-12, 07:43:29](https://lobste.rs/s/ztrxoj/problem_pedagogy_advanced_mathematics) - [The Problem of Pedagogy in Advanced Mathematics](https://susam.net/advanced-mathematics-pedagogy.html)
-* [2026-05-12, 06:10:06](https://lobste.rs/s/bvqio4/css_vertical_rhythm_for_text_images) - [CSS & vertical rhythm for text, images, and tables](https://vincent.bernat.ch/en/blog/2026-css-vertical-rhythm)
 * [2026-05-12, 03:49:30](https://lobste.rs/s/7rpqbo/popular_go_library_fsnotify_raises) - [Popular Go library fsnotify raises supply chain alarms after maintainer access changes](https://socket.dev/blog/fsnotify-maintainer-dispute-sparks-supply-chain-concerns)
 * [2026-05-12, 02:21:27](https://lobste.rs/s/b8gee9/taken) - [taken](https://sinceyouarrived.world/taken)
 * [2026-05-11, 21:54:04](https://lobste.rs/s/fnhsha/zig_vs_rust_2026) - [Zig vs Rust in 2026](https://zackoverflow.dev/writing/zig-vs-rust-in-2026/)
 * [2026-05-11, 19:29:34](https://lobste.rs/s/5jdbwv/gram_2_0_0_released) - [Gram 2.0.0 released](https://gram-editor.com/posts/release-2.0-0/)
-* [2026-05-11, 10:10:49](https://lobste.rs/s/ij94sb/ratty_terminal_emulator_with_inline_3d) - [Ratty: A terminal emulator with inline 3D graphics](https://ratty-term.org/)
-* [2026-05-11, 07:24:32](https://lobste.rs/s/am7evd/mythos_finds_curl_vulnerability) - [Mythos finds a curl vulnerability](https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/)
 
 ## [Archives](archives/index.md)
 
