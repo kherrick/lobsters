@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-13, 17:31:03",
+      "https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write"
+    ],
+    [
+      "How (and why) rqlite takes control of the SQLite Write-Ahead Log",
+      "https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 17:02:44",
+      "https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit"
+    ],
+    [
+      "Points are a weird and inconsistent unit of measure",
+      "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 16:29:52",
       "https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege"
     ],
@@ -47,16 +67,6 @@
     [
       "C++26: Standard library hardening",
       "https://www.sandordargo.com/blog/2026/05/13/cpp26-library-hardening"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 14:04:09",
-      "https://lobste.rs/s/v065ia/reverting_incremental_gc_python_3_14_3_15"
-    ],
-    [
-      "Reverting the incremental GC in Python 3.14 and 3.15",
-      "https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "An update on East River Source Control availability",
       "https://ersc.io/blog/ersc-availability"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 09:22:26",
-      "https://lobste.rs/s/qwoixg/dart_live_compiler_vm_analyzer_hot_reload"
-    ],
-    [
-      "Dart Live, a compiler, VM, analyzer and hot reload on the web via Wasm",
-      "https://modulovalue.github.io/dart-live/"
     ]
   ],
   [
