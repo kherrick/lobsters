@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 16:29:52](https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege) - [Fragnesia: New Linux Privilege Escalation Exploit](https://github.com/v12-security/pocs/tree/main/fragnesia)
+* [2026-05-13, 16:06:14](https://lobste.rs/s/wjfzrk/what_if_there_was_no_basic_endbasic) - [What if there was no BASIC in EndBASIC?](https://blogsystem5.substack.com/p/no-basic-in-endbasic)
+* [2026-05-13, 15:49:46](https://lobste.rs/s/g4lj0n/setting_up_free_city_state_us_locality) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
+* [2026-05-13, 14:59:59](https://lobste.rs/s/v34c5h/lua_as_practical_soft_bedrock_language) - [Lua as a practical \"soft-bedrock\" language](https://portal.mozz.us/gemini/zaibatsu.circumlunar.space/users/solderpunk/gemlog/lua-as-a-practical-soft-bedrock-language.gmi)
 * [2026-05-13, 14:15:32](https://lobste.rs/s/5xg2wq/c_26_standard_library_hardening) - [C++26: Standard library hardening](https://www.sandordargo.com/blog/2026/05/13/cpp26-library-hardening)
 * [2026-05-13, 14:04:09](https://lobste.rs/s/v065ia/reverting_incremental_gc_python_3_14_3_15) - [Reverting the incremental GC in Python 3.14 and 3.15](https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014)
 * [2026-05-13, 13:28:22](https://lobste.rs/s/c5tybg/designing_custom_query_language_for_non) - [Designing a Custom Query Language for Non-Technical Analysts](https://nchammas.com/writing/custom-query-language-design)
