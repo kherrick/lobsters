@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 14:15:32](https://lobste.rs/s/5xg2wq/c_26_standard_library_hardening) - [C++26: Standard library hardening](https://www.sandordargo.com/blog/2026/05/13/cpp26-library-hardening)
+* [2026-05-13, 14:04:09](https://lobste.rs/s/v065ia/reverting_incremental_gc_python_3_14_3_15) - [Reverting the incremental GC in Python 3.14 and 3.15](https://discuss.python.org/t/reverting-the-incremental-gc-in-python-3-14-and-3-15/107014)
+* [2026-05-13, 13:28:22](https://lobste.rs/s/c5tybg/designing_custom_query_language_for_non) - [Designing a Custom Query Language for Non-Technical Analysts](https://nchammas.com/writing/custom-query-language-design)
+* [2026-05-13, 13:25:30](https://lobste.rs/s/jgmrz0/most_emacs_bzr_saga) - [The Most Emacs Bzr Saga](https://thanosapollo.org/posts/bzr-saga/)
+* [2026-05-13, 12:55:59](https://lobste.rs/s/aovfvz/yellowkey_bitlocker_bypass) - [YellowKey Bitlocker Bypass Vulnerability](https://github.com/Nightmare-Eclipse/YellowKey)
+* [2026-05-13, 12:23:45](https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1) - [Sovereign Tech Fund invests over €1 million in KDE software development](https://kde.org/announcements/sovereign-tech-fund-invests-kde/)
+* [2026-05-13, 12:19:44](https://lobste.rs/s/vlpdgd/ai_as_social_technology) - [AI as Social Technology](https://knightcolumbia.org/content/ai-as-social-technology)
 * [2026-05-13, 11:20:45](https://lobste.rs/s/5fw1oe/claude_code_rce_exploiting_deeplink) - [Claude Code RCE: Exploiting Deeplink Handlers via Settings Injection](https://0day.click/recipe/2026-05-12-cc-rce/)
 * [2026-05-13, 11:02:22](https://lobste.rs/s/rnpff5/erlang_otp_29_0_release) - [Erlang/OTP 29.0 Release](https://www.erlang.org/news/188)
 * [2026-05-13, 10:57:11](https://lobste.rs/s/4ybgjp/update_on_east_river_source_control) - [An update on East River Source Control availability](https://ersc.io/blog/ersc-availability)
