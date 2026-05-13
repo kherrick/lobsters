@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-12, 20:36:24",
+      "https://lobste.rs/s/txgfvc/soon_we_can_finally_banish_javascript"
+    ],
+    [
+      "Soon We Can Finally Banish JavaScript to the ShadowRealm",
+      "https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/"
+    ]
+  ],
+  [
+    [
       "2026-05-12, 19:10:35",
       "https://lobste.rs/s/tvhqam/six_cves_for_serious_security"
     ],
@@ -17,6 +27,16 @@
     [
       "What is BusyBox?",
       "https://specular.fi/post/what-is-busybox"
+    ]
+  ],
+  [
+    [
+      "2026-05-12, 17:19:49",
+      "https://lobste.rs/s/jihmlg/hidden_cost_mpsc_channels"
+    ],
+    [
+      "The hidden cost of mpsc channels",
+      "https://blog.howardjohn.info/posts/mpsc-cost/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-11, 21:12:34",
-      "https://lobste.rs/s/iaankl/cathedral_bazaar_kitchen"
-    ],
-    [
-      "The Cathedral, the Bazaar and the Kitchen",
-      "https://blog.vrypan.net/2026/05/11/the-cathedral-the-bazaar-and-the-kitchen/"
-    ]
-  ],
-  [
-    [
       "2026-05-11, 19:29:34",
       "https://lobste.rs/s/5jdbwv/gram_2_0_0_released"
     ],
@@ -217,16 +227,6 @@
     [
       "Moving from lsp-mode in GNU Emacs to Eglot",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsLspModeToEglot"
-    ]
-  ],
-  [
-    [
-      "2026-05-11, 14:50:11",
-      "https://lobste.rs/s/4guexz/anti_minimalist_backlash_is_bigger_story"
-    ],
-    [
-      "The anti-minimalist backlash is the bigger story behind Oxygen’s revival",
-      "https://filipfila.wordpress.com/2026/05/10/the-anti-minimalist-backlash-is-the-bigger-story-behind-oxygens-revival/"
     ]
   ],
   [
