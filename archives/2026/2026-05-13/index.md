@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 17:31:03](https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write) - [How (and why) rqlite takes control of the SQLite Write-Ahead Log](https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/)
+* [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 16:29:52](https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege) - [Fragnesia: New Linux Privilege Escalation Exploit](https://github.com/v12-security/pocs/tree/main/fragnesia)
 * [2026-05-13, 16:06:14](https://lobste.rs/s/wjfzrk/what_if_there_was_no_basic_endbasic) - [What if there was no BASIC in EndBASIC?](https://blogsystem5.substack.com/p/no-basic-in-endbasic)
 * [2026-05-13, 15:49:46](https://lobste.rs/s/g4lj0n/setting_up_free_city_state_us_locality) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
