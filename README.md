@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-13, 04:50:11](https://lobste.rs/s/c2zvef/partial_static_single_information_form) - [Partial static single information form](https://bernsteinbear.com/blog/partial-ssi/)
 * [2026-05-13, 03:12:22](https://lobste.rs/s/d72zvn/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered](https://iev.ee/blog/what-262715-regex-questions-havent-answered/)
 * [2026-05-13, 01:32:35](https://lobste.rs/s/wqrcez/bebox_beos_hardware_photos_apple_deal) - [The BeBox: BeOS Hardware, Photos, and the Apple Deal That Wasn't](https://www.jdhodges.com/blog/bebox-beautifully-overbuilt-computer/)
 * [2026-05-12, 20:36:24](https://lobste.rs/s/txgfvc/soon_we_can_finally_banish_javascript) - [Soon We Can Finally Banish JavaScript to the ShadowRealm](https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/)
@@ -9,7 +10,6 @@
 * [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 * [2026-05-12, 15:17:25](https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code) - [All the ways to mock your Rust code](https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code)
 * [2026-05-12, 15:11:47](https://lobste.rs/s/gz9o6e/time_travel_without_borders) - [Time travel without borders](https://guix.gnu.org/en/blog/2026/time-travel-without-borders/)
-* [2026-05-12, 15:11:25](https://lobste.rs/s/04sbxd/agentic_coding_is_trap) - [Agentic Coding is a Trap](https://larsfaye.com/articles/agentic-coding-is-a-trap?ref=sidebar)
 * [2026-05-12, 15:10:13](https://lobste.rs/s/9nngwi/killing_cow_made_my_json_formatter_42) - [Killing a `Cow` made my JSON formatter 42% faster](https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/)
 * [2026-05-12, 14:11:26](https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into) - [How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)
 * [2026-05-12, 12:04:48](https://lobste.rs/s/ulnrmv/any_app_on_recent_android_versions_can) - [Any app on recent Android versions can leak certain traffic](https://mullvad.net/en/blog/any-app-on-recent-android-versions-can-leak-certain-traffic)
