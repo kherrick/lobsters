@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
 * [2026-05-13, 20:02:10](https://lobste.rs/s/ryvlps/catching_typos_on_my_website_with_browser) - [Catching Typos on My Website with Browser Testing](https://wickstrom.tech/2026-05-13-catching-typos-website-browser-testing.html)
+* [2026-05-13, 19:04:42](https://lobste.rs/s/xnoqe8/achieving_nginx_remote_code_execution) - [Achieving NGINX Remote Code Execution via an 18-Year-Old Vulnerability](https://depthfirst.com/research/nginx-rift-achieving-nginx-rce-via-an-18-year-old-vulnerability)
 * [2026-05-13, 17:31:03](https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write) - [How (and why) rqlite takes control of the SQLite Write-Ahead Log](https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 16:29:52](https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege) - [Fragnesia: New Linux Privilege Escalation Exploit](https://github.com/v12-security/pocs/tree/main/fragnesia)
