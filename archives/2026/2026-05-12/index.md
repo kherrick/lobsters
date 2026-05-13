@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-12](index.md)
 
+* [2026-05-12, 20:36:24](https://lobste.rs/s/txgfvc/soon_we_can_finally_banish_javascript) - [Soon We Can Finally Banish JavaScript to the ShadowRealm](https://css-tricks.com/soon-we-can-finally-banish-javascript-to-the-shadowrealm/)
 * [2026-05-12, 19:10:35](https://lobste.rs/s/tvhqam/six_cves_for_serious_security) - [\"six CVEs for serious security vulnerabilities in dnsmasq\"](https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html)
 * [2026-05-12, 17:54:44](https://lobste.rs/s/9dalas/quack_duckdb_client_server_protocol) - [Quack: The DuckDB Client-Server Protocol](https://duckdb.org/2026/05/12/quack-remote-protocol.html)
 * [2026-05-12, 17:46:08](https://lobste.rs/s/msrczi/what_is_busybox) - [What is BusyBox?](https://specular.fi/post/what-is-busybox)
+* [2026-05-12, 17:19:49](https://lobste.rs/s/jihmlg/hidden_cost_mpsc_channels) - [The hidden cost of mpsc channels](https://blog.howardjohn.info/posts/mpsc-cost/)
 * [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
 * [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 * [2026-05-12, 15:17:25](https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code) - [All the ways to mock your Rust code](https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code)
