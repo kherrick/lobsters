@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-13, 20:02:10](https://lobste.rs/s/ryvlps/catching_typos_on_my_website_with_browser) - [Catching Typos on My Website with Browser Testing](https://wickstrom.tech/2026-05-13-catching-typos-website-browser-testing.html)
 * [2026-05-13, 17:31:03](https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write) - [How (and why) rqlite takes control of the SQLite Write-Ahead Log](https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 16:29:52](https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege) - [Fragnesia: New Linux Privilege Escalation Exploit](https://github.com/v12-security/pocs/tree/main/fragnesia)
@@ -23,7 +24,6 @@
 * [2026-05-12, 17:46:08](https://lobste.rs/s/msrczi/what_is_busybox) - [What is BusyBox?](https://specular.fi/post/what-is-busybox)
 * [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
 * [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
-* [2026-05-12, 15:17:25](https://lobste.rs/s/tdugvv/all_ways_mock_your_rust_code) - [All the ways to mock your Rust code](https://blog.appliedcomputing.io/p/all-the-ways-to-mock-your-rust-code)
 * [2026-05-12, 14:11:26](https://lobste.rs/s/i6pafc/how_rockstar_fit_entire_city_into) - [How Rockstar fit an entire city into PlayStation 2 memory](https://www.youtube.com/watch?v=cIbCxbrBCys)
 
 ## [Archives](archives/index.md)
