@@ -1,12 +1,62 @@
 [
   [
     [
-      "2026-05-14, 17:03:08",
-      "https://lobste.rs/s/mithjg/linux_compromises_broken_embargoes"
+      "2026-05-14, 20:24:58",
+      "https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026"
     ],
     [
-      "Linux Compromises, Broken Embargoes, and the Shrinking Patch Window",
-      "https://www.askbaize.com/blog/linux-compromises-broken-embargoes-and-the-shrinking-patch-window"
+      "Core Team Panel - Gleam Gathering 2026",
+      "https://youtu.be/LgfzH_WBlr4"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 19:43:13",
+      "https://lobste.rs/s/pegkgv/postgresql_18_4_17_10_closing_11_cves"
+    ],
+    [
+      "PostgreSQL 18.4, 17.10 closing 11 CVEs",
+      "https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 18:52:15",
+      "https://lobste.rs/s/qmlp53/spam_resistant_forges"
+    ],
+    [
+      "Spam Resistant Forges",
+      "https://blog.feld.me/posts/2026/05/spam-resistant-forges/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 18:41:17",
+      "https://lobste.rs/s/qfbsno/first_public_macos_kernel_memory"
+    ],
+    [
+      "First public macOS kernel memory corruption exploit on Apple M5",
+      "https://blog.calif.io/p/first-public-kernel-memory-corruption"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 17:07:11",
+      "https://lobste.rs/s/zp6fnc/sql_s_order_by_has_come_long_way"
+    ],
+    [
+      "SQL’s ORDER BY Has Come a Long Way",
+      "https://modern-sql.com/blog/2026-05/order-by-history"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 17:00:24",
+      "https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be"
+    ],
+    [
+      "\"This is written by an LLM\" comments should be flagged as off-topic",
+      "https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be"
     ]
   ],
   [
@@ -87,26 +137,6 @@
     [
       "Bun's Rust rewrite has been merged",
       "https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 13:02:01",
-      "https://lobste.rs/s/ojvhq9/coding_is_thinking_why_i_still_write_code"
-    ],
-    [
-      "Coding Is Thinking: Why I Still Write Code by Hand",
-      "https://dev.to/diamantino_almeida/coding-is-thinking-why-i-still-write-code-by-hand-4nf2"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 12:12:53",
-      "https://lobste.rs/s/dcq4nh/age_amplifier"
-    ],
-    [
-      "The Age of the Amplifier",
-      "https://www.construction-physics.com/p/the-age-of-the-amplifier"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-05-13, 14:59:59",
-      "https://lobste.rs/s/v34c5h/lua_as_practical_soft_bedrock_language"
-    ],
-    [
-      "Lua as a practical \"soft-bedrock\" language",
-      "https://portal.mozz.us/gemini/zaibatsu.circumlunar.space/users/solderpunk/gemlog/lua-as-a-practical-soft-bedrock-language.gmi"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 13:25:30",
       "https://lobste.rs/s/jgmrz0/most_emacs_bzr_saga"
     ],
@@ -227,26 +247,6 @@
     [
       "Sovereign Tech Fund invests over €1 million in KDE software development",
       "https://kde.org/announcements/sovereign-tech-fund-invests-kde/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 11:02:22",
-      "https://lobste.rs/s/rnpff5/erlang_otp_29_0_release"
-    ],
-    [
-      "Erlang/OTP 29.0 Release",
-      "https://www.erlang.org/news/188"
-    ]
-  ],
-  [
-    [
-      "2026-05-12, 17:01:37",
-      "https://lobste.rs/s/oznirn/redis_cost_ambition"
-    ],
-    [
-      "Redis and the Cost of Ambition",
-      "https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/"
     ]
   ]
 ]
