@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-14, 07:03:08](https://lobste.rs/s/ba9zly/classic_7_is_windows_10_ltsc_mod_look_1_1) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 * [2026-05-14, 03:44:38](https://lobste.rs/s/8gpopi/sculpt_os_release_26_04) - [Sculpt OS release 26.04](https://genode.org/news/sculpt-os-release-26.04)
 * [2026-05-14, 00:49:20](https://lobste.rs/s/nzqsjf/httpx2_fork_by_pydantic) - [httpx2 - Fork by Pydantic](https://tildeweb.nl/~michiel/httpx2.html)
 * [2026-05-13, 20:19:37](https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new) - [5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake](https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake)
@@ -24,7 +25,6 @@
 * [2026-05-13, 03:12:22](https://lobste.rs/s/d72zvn/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered](https://iev.ee/blog/what-262715-regex-questions-havent-answered/)
 * [2026-05-12, 17:46:08](https://lobste.rs/s/msrczi/what_is_busybox) - [What is BusyBox?](https://specular.fi/post/what-is-busybox)
 * [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
-* [2026-05-12, 15:48:20](https://lobste.rs/s/n5ytdh/bambu_lab_is_abusing_open_source_social) - [Bambu Lab is abusing the open source social contract](https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/)
 
 ## [Archives](archives/index.md)
 
