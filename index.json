@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-14, 00:11:04",
+      "https://lobste.rs/s/obgrgd/so_you_want_deploy_fn_dsa"
+    ],
+    [
+      "So you want to deploy FN-DSA",
+      "https://keymaterial.net/2026/05/13/so-you-want-to-deploy-fn-dsa/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 20:19:37",
+      "https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new"
+    ],
+    [
+      "5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp",
+      "https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake"
+    ]
+  ],
+  [
+    [
       "2026-05-13, 19:04:42",
       "https://lobste.rs/s/xnoqe8/achieving_nginx_remote_code_execution"
     ],
@@ -27,6 +47,16 @@
     [
       "How (and why) rqlite takes control of the SQLite Write-Ahead Log",
       "https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/"
+    ]
+  ],
+  [
+    [
+      "2026-05-13, 17:23:06",
+      "https://lobste.rs/s/rnpigi/may_i_recommend_understanding_emacs_s"
+    ],
+    [
+      "May I recommend… understanding Emacs's patterns",
+      "https://www.chiply.dev/post-emacs-carnival-may"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2026-05-13, 09:01:47",
-      "https://lobste.rs/s/wbitfz/tolaria_rust_questions_about_what_makes"
-    ],
-    [
-      "Tolaria, Rust, and Questions About What Makes a Mac App Feel Good to Me",
-      "https://shapeof.com/archives/2026/4/tolaria_ai_and_rust.html"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 06:09:32",
       "https://lobste.rs/s/gyiahc/detailed_introduction_kakoune_for"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-05-13, 04:50:11",
-      "https://lobste.rs/s/c2zvef/partial_static_single_information_form"
-    ],
-    [
-      "Partial static single information form",
-      "https://bernsteinbear.com/blog/partial-ssi/"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 03:12:22",
       "https://lobste.rs/s/d72zvn/what_262_715_regex_questions_on_stack"
     ],
     [
       "what 262,715 regex questions on stack overflow haven't answered",
       "https://iev.ee/blog/what-262715-regex-questions-havent-answered/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 01:32:35",
-      "https://lobste.rs/s/wqrcez/bebox_beos_hardware_photos_apple_deal"
-    ],
-    [
-      "The BeBox: BeOS Hardware, Photos, and the Apple Deal That Wasn't",
-      "https://www.jdhodges.com/blog/bebox-beautifully-overbuilt-computer/"
     ]
   ],
   [
