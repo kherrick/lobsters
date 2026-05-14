@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-14, 09:56:40",
+      "https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently"
+    ],
+    [
+      "Browsers Treat Big Sites Differently",
+      "https://denodell.com/blog/browsers-treat-big-sites-differently"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 07:03:08",
       "https://lobste.rs/s/ba9zly/classic_7_is_windows_10_ltsc_mod_look_1_1"
     ],
@@ -57,16 +67,6 @@
     [
       "Pyrefly v1.0 is here",
       "https://pyrefly.org/blog/v1.0/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 17:31:03",
-      "https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write"
-    ],
-    [
-      "How (and why) rqlite takes control of the SQLite Write-Ahead Log",
-      "https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/"
     ]
   ],
   [
