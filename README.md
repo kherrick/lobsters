@@ -1,6 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-14, 17:03:08](https://lobste.rs/s/mithjg/linux_compromises_broken_embargoes) - [Linux Compromises, Broken Embargoes, and the Shrinking Patch Window](https://www.askbaize.com/blog/linux-compromises-broken-embargoes-and-the-shrinking-patch-window)
+* [2026-05-14, 20:24:58](https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026) - [Core Team Panel - Gleam Gathering 2026](https://youtu.be/LgfzH_WBlr4)
+* [2026-05-14, 19:43:13](https://lobste.rs/s/pegkgv/postgresql_18_4_17_10_closing_11_cves) - [PostgreSQL 18.4, 17.10 closing 11 CVEs](https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/)
+* [2026-05-14, 18:52:15](https://lobste.rs/s/qmlp53/spam_resistant_forges) - [Spam Resistant Forges](https://blog.feld.me/posts/2026/05/spam-resistant-forges/)
+* [2026-05-14, 18:41:17](https://lobste.rs/s/qfbsno/first_public_macos_kernel_memory) - [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
+* [2026-05-14, 17:07:11](https://lobste.rs/s/zp6fnc/sql_s_order_by_has_come_long_way) - [SQL’s ORDER BY Has Come a Long Way](https://modern-sql.com/blog/2026-05/order-by-history)
+* [2026-05-14, 17:00:24](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be) - [\"This is written by an LLM\" comments should be flagged as off-topic](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 * [2026-05-14, 15:52:48](https://lobste.rs/s/x3jzgx/hdd_firmware_hacking_part_1) - [HDD Firmware Hacking Part 1](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:33:51](https://lobste.rs/s/26xxyq/noscript_element_as_trap) - [The <noscript> element as a trap](https://hacktivis.me/articles/no-noscript-element)
@@ -9,8 +14,6 @@
 * [2026-05-14, 14:14:09](https://lobste.rs/s/upcqrm/mandy_activitypub_on_goblins) - [Mandy: ActivityPub on Goblins](https://spritely.institute/news/mandy-activitypub-on-goblins.html)
 * [2026-05-14, 13:53:43](https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests) - [How do I write Elixir tests?](https://hauleth.dev/post/writing-tests/)
 * [2026-05-14, 13:16:26](https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged) - [Bun's Rust rewrite has been merged](https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
-* [2026-05-14, 13:02:01](https://lobste.rs/s/ojvhq9/coding_is_thinking_why_i_still_write_code) - [Coding Is Thinking: Why I Still Write Code by Hand](https://dev.to/diamantino_almeida/coding-is-thinking-why-i-still-write-code-by-hand-4nf2)
-* [2026-05-14, 12:12:53](https://lobste.rs/s/dcq4nh/age_amplifier) - [The Age of the Amplifier](https://www.construction-physics.com/p/the-age-of-the-amplifier)
 * [2026-05-14, 11:37:44](https://lobste.rs/s/9drz1z/hoot_0_9_0_released) - [Hoot 0.9.0 released](https://spritely.institute/news/hoot-0-9-0-released.html)
 * [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
 * [2026-05-14, 07:03:08](https://lobste.rs/s/ba9zly/classic_7_is_windows_10_ltsc_mod_look_1_1) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
@@ -20,11 +23,8 @@
 * [2026-05-13, 17:23:06](https://lobste.rs/s/rnpigi/may_i_recommend_understanding_emacs_s) - [May I recommend… understanding Emacs's patterns](https://www.chiply.dev/post-emacs-carnival-may)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 15:49:46](https://lobste.rs/s/g4lj0n/setting_up_free_city_state_us_locality) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
-* [2026-05-13, 14:59:59](https://lobste.rs/s/v34c5h/lua_as_practical_soft_bedrock_language) - [Lua as a practical \"soft-bedrock\" language](https://portal.mozz.us/gemini/zaibatsu.circumlunar.space/users/solderpunk/gemlog/lua-as-a-practical-soft-bedrock-language.gmi)
 * [2026-05-13, 13:25:30](https://lobste.rs/s/jgmrz0/most_emacs_bzr_saga) - [The Most Emacs Bzr Saga](https://thanosapollo.org/posts/bzr-saga/)
 * [2026-05-13, 12:23:45](https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1) - [Sovereign Tech Fund invests over €1 million in KDE software development](https://kde.org/announcements/sovereign-tech-fund-invests-kde/)
-* [2026-05-13, 11:02:22](https://lobste.rs/s/rnpff5/erlang_otp_29_0_release) - [Erlang/OTP 29.0 Release](https://www.erlang.org/news/188)
-* [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
 
 ## [Archives](archives/index.md)
 

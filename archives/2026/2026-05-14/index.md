@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 20:24:58](https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026) - [Core Team Panel - Gleam Gathering 2026](https://youtu.be/LgfzH_WBlr4)
+* [2026-05-14, 19:43:13](https://lobste.rs/s/pegkgv/postgresql_18_4_17_10_closing_11_cves) - [PostgreSQL 18.4, 17.10 closing 11 CVEs](https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/)
+* [2026-05-14, 18:52:15](https://lobste.rs/s/qmlp53/spam_resistant_forges) - [Spam Resistant Forges](https://blog.feld.me/posts/2026/05/spam-resistant-forges/)
+* [2026-05-14, 18:41:17](https://lobste.rs/s/qfbsno/first_public_macos_kernel_memory) - [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
+* [2026-05-14, 17:07:11](https://lobste.rs/s/zp6fnc/sql_s_order_by_has_come_long_way) - [SQL’s ORDER BY Has Come a Long Way](https://modern-sql.com/blog/2026-05/order-by-history)
 * [2026-05-14, 17:03:08](https://lobste.rs/s/mithjg/linux_compromises_broken_embargoes) - [Linux Compromises, Broken Embargoes, and the Shrinking Patch Window](https://www.askbaize.com/blog/linux-compromises-broken-embargoes-and-the-shrinking-patch-window)
+* [2026-05-14, 17:00:24](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be) - [\"This is written by an LLM\" comments should be flagged as off-topic](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 * [2026-05-14, 15:52:48](https://lobste.rs/s/x3jzgx/hdd_firmware_hacking_part_1) - [HDD Firmware Hacking Part 1](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:33:51](https://lobste.rs/s/26xxyq/noscript_element_as_trap) - [The <noscript> element as a trap](https://hacktivis.me/articles/no-noscript-element)
