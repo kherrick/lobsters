@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+* [2026-05-14, 15:33:51](https://lobste.rs/s/26xxyq/noscript_element_as_trap) - [The <noscript> element as a trap](https://hacktivis.me/articles/no-noscript-element)
+* [2026-05-14, 15:22:06](https://lobste.rs/s/5wy2mq/c_26_shipped_simd_library_nobody_asked_for) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-14, 14:37:38](https://lobste.rs/s/oyo7dd/passwords_suck_can_passkeys_replace_them) - [Passwords suck. Can passkeys replace them?](https://kerkour.com/passkeys)
 * [2026-05-14, 14:14:09](https://lobste.rs/s/upcqrm/mandy_activitypub_on_goblins) - [Mandy: ActivityPub on Goblins](https://spritely.institute/news/mandy-activitypub-on-goblins.html)
 * [2026-05-14, 13:53:43](https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests) - [How do I write Elixir tests?](https://hauleth.dev/post/writing-tests/)
