@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-14, 00:11:04](https://lobste.rs/s/obgrgd/so_you_want_deploy_fn_dsa) - [So you want to deploy FN-DSA](https://keymaterial.net/2026/05/13/so-you-want-to-deploy-fn-dsa/)
-* [2026-05-13, 20:19:37](https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new) - [5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp](https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake)
+* [2026-05-14, 03:44:38](https://lobste.rs/s/8gpopi/sculpt_os_release_26_04) - [Sculpt OS release 26.04](https://genode.org/news/sculpt-os-release-26.04)
+* [2026-05-14, 00:49:20](https://lobste.rs/s/nzqsjf/httpx2_fork_by_pydantic) - [httpx2 - Fork by Pydantic](https://tildeweb.nl/~michiel/httpx2.html)
+* [2026-05-13, 20:19:37](https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new) - [5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake](https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake)
 * [2026-05-13, 19:04:42](https://lobste.rs/s/xnoqe8/achieving_nginx_remote_code_execution) - [Achieving NGINX Remote Code Execution via an 18-Year-Old Vulnerability](https://depthfirst.com/research/nginx-rift-achieving-nginx-rce-via-an-18-year-old-vulnerability)
 * [2026-05-13, 18:51:40](https://lobste.rs/s/qevzpl/pyrefly_v1_0_is_here) - [Pyrefly v1.0 is here](https://pyrefly.org/blog/v1.0/)
 * [2026-05-13, 17:31:03](https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write) - [How (and why) rqlite takes control of the SQLite Write-Ahead Log](https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/)
@@ -16,7 +17,6 @@
 * [2026-05-13, 13:25:30](https://lobste.rs/s/jgmrz0/most_emacs_bzr_saga) - [The Most Emacs Bzr Saga](https://thanosapollo.org/posts/bzr-saga/)
 * [2026-05-13, 12:55:59](https://lobste.rs/s/aovfvz/yellowkey_bitlocker_bypass) - [YellowKey Bitlocker Bypass Vulnerability](https://github.com/Nightmare-Eclipse/YellowKey)
 * [2026-05-13, 12:23:45](https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1) - [Sovereign Tech Fund invests over €1 million in KDE software development](https://kde.org/announcements/sovereign-tech-fund-invests-kde/)
-* [2026-05-13, 12:19:44](https://lobste.rs/s/vlpdgd/ai_as_social_technology) - [AI as Social Technology](https://knightcolumbia.org/content/ai-as-social-technology)
 * [2026-05-13, 11:02:22](https://lobste.rs/s/rnpff5/erlang_otp_29_0_release) - [Erlang/OTP 29.0 Release](https://www.erlang.org/news/188)
 * [2026-05-13, 10:57:11](https://lobste.rs/s/4ybgjp/update_on_east_river_source_control) - [An update on East River Source Control availability](https://ersc.io/blog/ersc-availability)
 * [2026-05-13, 09:05:34](https://lobste.rs/s/7n4j6j/macbook_neo_review_laptop_for_rest_us) - [MacBook Neo Review: The Laptop For The Rest Of Us](https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/)
