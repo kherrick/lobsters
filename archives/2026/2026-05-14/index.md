@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 17:03:08](https://lobste.rs/s/mithjg/linux_compromises_broken_embargoes) - [Linux Compromises, Broken Embargoes, and the Shrinking Patch Window](https://www.askbaize.com/blog/linux-compromises-broken-embargoes-and-the-shrinking-patch-window)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+* [2026-05-14, 15:52:48](https://lobste.rs/s/x3jzgx/hdd_firmware_hacking_part_1) - [HDD Firmware Hacking Part 1](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:33:51](https://lobste.rs/s/26xxyq/noscript_element_as_trap) - [The <noscript> element as a trap](https://hacktivis.me/articles/no-noscript-element)
 * [2026-05-14, 15:22:06](https://lobste.rs/s/5wy2mq/c_26_shipped_simd_library_nobody_asked_for) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-14, 14:37:38](https://lobste.rs/s/oyo7dd/passwords_suck_can_passkeys_replace_them) - [Passwords suck. Can passkeys replace them?](https://kerkour.com/passkeys)

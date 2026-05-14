@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-14, 17:03:08](https://lobste.rs/s/mithjg/linux_compromises_broken_embargoes) - [Linux Compromises, Broken Embargoes, and the Shrinking Patch Window](https://www.askbaize.com/blog/linux-compromises-broken-embargoes-and-the-shrinking-patch-window)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
+* [2026-05-14, 15:52:48](https://lobste.rs/s/x3jzgx/hdd_firmware_hacking_part_1) - [HDD Firmware Hacking Part 1](https://icode4.coffee/?p=1465)
 * [2026-05-14, 15:33:51](https://lobste.rs/s/26xxyq/noscript_element_as_trap) - [The <noscript> element as a trap](https://hacktivis.me/articles/no-noscript-element)
 * [2026-05-14, 15:22:06](https://lobste.rs/s/5wy2mq/c_26_shipped_simd_library_nobody_asked_for) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-14, 14:37:38](https://lobste.rs/s/oyo7dd/passwords_suck_can_passkeys_replace_them) - [Passwords suck. Can passkeys replace them?](https://kerkour.com/passkeys)
@@ -15,7 +17,6 @@
 * [2026-05-14, 03:44:38](https://lobste.rs/s/8gpopi/sculpt_os_release_26_04) - [Sculpt OS release 26.04](https://genode.org/news/sculpt-os-release-26.04)
 * [2026-05-14, 00:49:20](https://lobste.rs/s/nzqsjf/httpx2_fork_by_pydantic) - [httpx2 - Fork by Pydantic](https://tildeweb.nl/~michiel/httpx2.html)
 * [2026-05-13, 20:19:37](https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new) - [5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake](https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake)
-* [2026-05-13, 19:04:42](https://lobste.rs/s/xnoqe8/achieving_nginx_remote_code_execution) - [Achieving NGINX Remote Code Execution via an 18-Year-Old Vulnerability](https://depthfirst.com/research/nginx-rift-achieving-nginx-rce-via-an-18-year-old-vulnerability)
 * [2026-05-13, 17:23:06](https://lobste.rs/s/rnpigi/may_i_recommend_understanding_emacs_s) - [May I recommend… understanding Emacs's patterns](https://www.chiply.dev/post-emacs-carnival-may)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 15:49:46](https://lobste.rs/s/g4lj0n/setting_up_free_city_state_us_locality) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
@@ -23,7 +24,6 @@
 * [2026-05-13, 13:25:30](https://lobste.rs/s/jgmrz0/most_emacs_bzr_saga) - [The Most Emacs Bzr Saga](https://thanosapollo.org/posts/bzr-saga/)
 * [2026-05-13, 12:23:45](https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1) - [Sovereign Tech Fund invests over €1 million in KDE software development](https://kde.org/announcements/sovereign-tech-fund-invests-kde/)
 * [2026-05-13, 11:02:22](https://lobste.rs/s/rnpff5/erlang_otp_29_0_release) - [Erlang/OTP 29.0 Release](https://www.erlang.org/news/188)
-* [2026-05-13, 09:05:34](https://lobste.rs/s/7n4j6j/macbook_neo_review_laptop_for_rest_us) - [MacBook Neo Review: The Laptop For The Rest Of Us](https://fireborn.mataroa.blog/blog/macbook-neo-review-the-laptop-for-the-rest-of-us/)
 * [2026-05-12, 17:01:37](https://lobste.rs/s/oznirn/redis_cost_ambition) - [Redis and the Cost of Ambition](https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/)
 
 ## [Archives](archives/index.md)
