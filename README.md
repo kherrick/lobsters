@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
 * [2026-05-14, 07:03:08](https://lobste.rs/s/ba9zly/classic_7_is_windows_10_ltsc_mod_look_1_1) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 * [2026-05-14, 03:44:38](https://lobste.rs/s/8gpopi/sculpt_os_release_26_04) - [Sculpt OS release 26.04](https://genode.org/news/sculpt-os-release-26.04)
 * [2026-05-14, 00:49:20](https://lobste.rs/s/nzqsjf/httpx2_fork_by_pydantic) - [httpx2 - Fork by Pydantic](https://tildeweb.nl/~michiel/httpx2.html)
 * [2026-05-13, 20:19:37](https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new) - [5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake](https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake)
 * [2026-05-13, 19:04:42](https://lobste.rs/s/xnoqe8/achieving_nginx_remote_code_execution) - [Achieving NGINX Remote Code Execution via an 18-Year-Old Vulnerability](https://depthfirst.com/research/nginx-rift-achieving-nginx-rce-via-an-18-year-old-vulnerability)
 * [2026-05-13, 18:51:40](https://lobste.rs/s/qevzpl/pyrefly_v1_0_is_here) - [Pyrefly v1.0 is here](https://pyrefly.org/blog/v1.0/)
-* [2026-05-13, 17:31:03](https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write) - [How (and why) rqlite takes control of the SQLite Write-Ahead Log](https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/)
 * [2026-05-13, 17:23:06](https://lobste.rs/s/rnpigi/may_i_recommend_understanding_emacs_s) - [May I recommend… understanding Emacs's patterns](https://www.chiply.dev/post-emacs-carnival-may)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 16:29:52](https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege) - [Fragnesia: New Linux Privilege Escalation Exploit](https://github.com/v12-security/pocs/tree/main/fragnesia)
