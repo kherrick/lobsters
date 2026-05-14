@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-13](index.md)
 
+* [2026-05-13, 20:19:37](https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new) - [5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp](https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake)
 * [2026-05-13, 20:02:10](https://lobste.rs/s/ryvlps/catching_typos_on_my_website_with_browser) - [Catching Typos on My Website with Browser Testing](https://wickstrom.tech/2026-05-13-catching-typos-website-browser-testing.html)
 * [2026-05-13, 19:04:42](https://lobste.rs/s/xnoqe8/achieving_nginx_remote_code_execution) - [Achieving NGINX Remote Code Execution via an 18-Year-Old Vulnerability](https://depthfirst.com/research/nginx-rift-achieving-nginx-rce-via-an-18-year-old-vulnerability)
 * [2026-05-13, 18:51:40](https://lobste.rs/s/qevzpl/pyrefly_v1_0_is_here) - [Pyrefly v1.0 is here](https://pyrefly.org/blog/v1.0/)
 * [2026-05-13, 17:31:03](https://lobste.rs/s/pdcnxa/how_why_rqlite_takes_control_sqlite_write) - [How (and why) rqlite takes control of the SQLite Write-Ahead Log](https://philipotoole.com/how-and-why-rqlite-takes-control-of-the-sqlite-write-ahead-log/)
+* [2026-05-13, 17:23:06](https://lobste.rs/s/rnpigi/may_i_recommend_understanding_emacs_s) - [May I recommend… understanding Emacs's patterns](https://www.chiply.dev/post-emacs-carnival-may)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
 * [2026-05-13, 16:29:52](https://lobste.rs/s/zz251k/fragnesia_new_linux_privilege) - [Fragnesia: New Linux Privilege Escalation Exploit](https://github.com/v12-security/pocs/tree/main/fragnesia)
 * [2026-05-13, 16:06:14](https://lobste.rs/s/wjfzrk/what_if_there_was_no_basic_endbasic) - [What if there was no BASIC in EndBASIC?](https://blogsystem5.substack.com/p/no-basic-in-endbasic)
