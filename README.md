@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-15, 08:14:09](https://lobste.rs/s/ouayo0/community_building_at_edge_internet) - [Community building at the edge of the Internet](https://news.dyne.org/the-edge-of-the-internet/)
+* [2026-05-15, 07:02:03](https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap) - [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/)
+* [2026-05-15, 03:40:21](https://lobste.rs/s/c6nclb/mullvad_exit_ips_as_fingerprinting) - [Mullvad exit IPs as a fingerprinting vector](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
 * [2026-05-15, 03:13:37](https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
 * [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 * [2026-05-15, 00:50:15](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist) - [In what way if any are you a tech minimalist while maintaining your job/love for tech?](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist)
@@ -12,8 +15,6 @@
 * [2026-05-14, 18:41:17](https://lobste.rs/s/qfbsno/first_public_macos_kernel_memory) - [First public macOS kernel memory corruption exploit on Apple M5](https://blog.calif.io/p/first-public-kernel-memory-corruption)
 * [2026-05-14, 17:00:24](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be) - [\"This is written by an LLM\" comments should be flagged as off-topic](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
-* [2026-05-14, 15:52:48](https://lobste.rs/s/x3jzgx/hdd_firmware_hacking_part_1) - [HDD Firmware Hacking Part 1](https://icode4.coffee/?p=1465)
-* [2026-05-14, 15:33:51](https://lobste.rs/s/26xxyq/noscript_element_as_trap) - [The <noscript> element as a trap](https://hacktivis.me/articles/no-noscript-element)
 * [2026-05-14, 15:22:06](https://lobste.rs/s/5wy2mq/c_26_shipped_simd_library_nobody_asked_for) - [C++26 Shipped a SIMD Library Nobody Asked For](https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody)
 * [2026-05-14, 14:37:38](https://lobste.rs/s/oyo7dd/passwords_suck_can_passkeys_replace_them) - [Passwords suck. Can passkeys replace them?](https://kerkour.com/passkeys)
 * [2026-05-14, 14:14:09](https://lobste.rs/s/upcqrm/mandy_activitypub_on_goblins) - [Mandy: ActivityPub on Goblins](https://spritely.institute/news/mandy-activitypub-on-goblins.html)
@@ -23,7 +24,6 @@
 * [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
 * [2026-05-14, 07:03:08](https://lobste.rs/s/ba9zly/classic_7_is_windows_10_ltsc_mod_look_1_1) - [Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7](https://classic7.lol/)
 * [2026-05-13, 17:02:44](https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit) - [Points are a weird and inconsistent unit of measure](https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/)
-* [2026-05-13, 15:49:46](https://lobste.rs/s/g4lj0n/setting_up_free_city_state_us_locality) - [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
 * [2026-05-13, 12:23:45](https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1) - [Sovereign Tech Fund invests over €1 million in KDE software development](https://kde.org/announcements/sovereign-tech-fund-invests-kde/)
 
 ## [Archives](archives/index.md)
