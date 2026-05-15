@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
+* [2026-05-15, 14:11:52](https://lobste.rs/s/aoatq6/bug_archeology_solving_decade_old_swift_c) - [Bug Archeology: Solving a decade-old Swift/C++ mystery (with LLMs)](https://samkhawase.com/blog/bug-archeology-using-LLM/)
 * [2026-05-15, 13:58:32](https://lobste.rs/s/amjzxm/welcome_order_by_jungle) - [Welcome to ORDER BY jungle](https://boringsql.com/posts/order-by-jungle/)
 * [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 13:02:41](https://lobste.rs/s/f4alia/security_mitigations_ansible_role) - [security mitigations ansible role](https://git.sig-io.nl/sigio/mitigations)
@@ -15,7 +17,6 @@
 * [2026-05-15, 03:13:37](https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
 * [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 * [2026-05-15, 00:50:15](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist) - [In what way if any are you a tech minimalist while maintaining your job/love for tech?](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist)
-* [2026-05-15, 00:49:11](https://lobste.rs/s/yn8h7o/porting_3d_movie_maker_linux) - [Porting 3D Movie Maker to Linux](https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/)
 * [2026-05-14, 23:43:38](https://lobste.rs/s/e1eqdm/simple_runtime_invariant_miner) - [A Simple Runtime Invariant Miner](https://rahul.gopinath.org/post/2026/05/09/simple-invariant-miner/)
 * [2026-05-14, 23:42:38](https://lobste.rs/s/yos02p/amazonbot_is_finally_respecting_robots) - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
 * [2026-05-14, 23:37:02](https://lobste.rs/s/vbsonz/int_5_2011) - [int a = 5; a = a++ + ++a; a = ? (2011)](https://gynvael.coldwind.pl/?id=372)
@@ -23,7 +24,6 @@
 * [2026-05-14, 17:00:24](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be) - [\"This is written by an LLM\" comments should be flagged as off-topic](https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 * [2026-05-14, 13:16:26](https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged) - [Bun's Rust rewrite has been merged](https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
-* [2026-05-14, 11:37:44](https://lobste.rs/s/9drz1z/hoot_0_9_0_released) - [Hoot 0.9.0 released](https://spritely.institute/news/hoot-0-9-0-released.html)
 * [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
 
 ## [Archives](archives/index.md)
