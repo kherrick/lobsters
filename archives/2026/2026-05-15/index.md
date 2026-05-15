@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 12:03:48](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend)
+* [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
 * [2026-05-15, 10:16:43](https://lobste.rs/s/eaxtmb/claude_for_legal_suite_plugins_for_legal) - [claude-for-legal: A suite of plugins for legal workflows](https://github.com/anthropics/claude-for-legal)
 * [2026-05-15, 10:09:55](https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation) - [why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)
 * [2026-05-15, 08:40:24](https://lobste.rs/s/nbceks/volkswagen_detects_when_your_tests_are) - [Volkswagen- detects when your tests are being run in a CI server, and makes them pass (2015)](https://github.com/auchenberg/volkswagen)

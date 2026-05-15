@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-15, 10:16:43](https://lobste.rs/s/eaxtmb/claude_for_legal_suite_plugins_for_legal) - [claude-for-legal: A suite of plugins for legal workflows](https://github.com/anthropics/claude-for-legal)
+* [2026-05-15, 12:03:48](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend)
+* [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
 * [2026-05-15, 10:09:55](https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation) - [why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)
 * [2026-05-15, 08:40:24](https://lobste.rs/s/nbceks/volkswagen_detects_when_your_tests_are) - [Volkswagen- detects when your tests are being run in a CI server, and makes them pass (2015)](https://github.com/auchenberg/volkswagen)
 * [2026-05-15, 08:14:09](https://lobste.rs/s/ouayo0/community_building_at_edge_internet) - [Community building at the edge of the Internet](https://news.dyne.org/the-edge-of-the-internet/)
@@ -24,7 +25,6 @@
 * [2026-05-14, 13:16:26](https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged) - [Bun's Rust rewrite has been merged](https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
 * [2026-05-14, 11:37:44](https://lobste.rs/s/9drz1z/hoot_0_9_0_released) - [Hoot 0.9.0 released](https://spritely.institute/news/hoot-0-9-0-released.html)
 * [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
-* [2026-05-13, 12:23:45](https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1) - [Sovereign Tech Fund invests over €1 million in KDE software development](https://kde.org/announcements/sovereign-tech-fund-invests-kde/)
 
 ## [Archives](archives/index.md)
 
