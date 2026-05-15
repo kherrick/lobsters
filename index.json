@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-15, 16:28:17",
+      "https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning"
+    ],
+    [
+      "Moving away from Tailwind, and learning to structure my CSS",
+      "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 14:11:52",
+      "https://lobste.rs/s/aoatq6/bug_archeology_solving_decade_old_swift_c"
+    ],
+    [
+      "Bug Archeology: Solving a decade-old Swift/C++ mystery (with LLMs)",
+      "https://samkhawase.com/blog/bug-archeology-using-LLM/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 13:58:32",
       "https://lobste.rs/s/amjzxm/welcome_order_by_jungle"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-15, 00:49:11",
-      "https://lobste.rs/s/yn8h7o/porting_3d_movie_maker_linux"
-    ],
-    [
-      "Porting 3D Movie Maker to Linux",
-      "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 23:43:38",
       "https://lobste.rs/s/e1eqdm/simple_runtime_invariant_miner"
     ],
@@ -227,16 +237,6 @@
     [
       "Bun's Rust rewrite has been merged",
       "https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 11:37:44",
-      "https://lobste.rs/s/9drz1z/hoot_0_9_0_released"
-    ],
-    [
-      "Hoot 0.9.0 released",
-      "https://spritely.institute/news/hoot-0-9-0-released.html"
     ]
   ],
   [
