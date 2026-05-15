@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-05-15, 09:36:04",
+      "https://lobste.rs/s/qgyscr/emacsification_software"
+    ],
+    [
+      "The Emacsification of Software",
+      "https://sockpuppet.org/blog/2026/05/12/emacsification/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 08:40:24",
       "https://lobste.rs/s/nbceks/volkswagen_detects_when_your_tests_are"
     ],
@@ -177,16 +187,6 @@
     [
       "int a = 5; a = a++ + ++a; a = ? (2011)",
       "https://gynvael.coldwind.pl/?id=372"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 20:24:58",
-      "https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026"
-    ],
-    [
-      "Core Team Panel - Gleam Gathering 2026",
-      "https://youtu.be/LgfzH_WBlr4"
     ]
   ],
   [
