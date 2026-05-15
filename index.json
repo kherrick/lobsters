@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-15, 13:58:32",
+      "https://lobste.rs/s/amjzxm/welcome_order_by_jungle"
+    ],
+    [
+      "Welcome to ORDER BY jungle",
+      "https://boringsql.com/posts/order-by-jungle/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:04:52",
+      "https://lobste.rs/s/ktqfov/open_source_resistance"
+    ],
+    [
+      "Open Source Resistance",
+      "https://ossresistance.com/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 13:02:41",
+      "https://lobste.rs/s/f4alia/security_mitigations_ansible_role"
+    ],
+    [
+      "security mitigations ansible role",
+      "https://git.sig-io.nl/sigio/mitigations"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 12:03:48",
       "https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend"
     ],
@@ -17,6 +47,16 @@
     [
       "SQL: Incorrect by Construction",
       "https://chreke.com/posts/sql-incorrect-by-construction"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 11:18:51",
+      "https://lobste.rs/s/grynsa/old_world_tech_is_dying_new_cannot_be_born"
+    ],
+    [
+      "The old world of tech is dying and the new cannot be born",
+      "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2026-05-14, 18:41:17",
-      "https://lobste.rs/s/qfbsno/first_public_macos_kernel_memory"
-    ],
-    [
-      "First public macOS kernel memory corruption exploit on Apple M5",
-      "https://blog.calif.io/p/first-public-kernel-memory-corruption"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 17:00:24",
       "https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be"
     ],
@@ -187,36 +217,6 @@
     [
       "How I Moved My Digital Stack to Europe",
       "https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 15:22:06",
-      "https://lobste.rs/s/5wy2mq/c_26_shipped_simd_library_nobody_asked_for"
-    ],
-    [
-      "C++26 Shipped a SIMD Library Nobody Asked For",
-      "https://lucisqr.substack.com/p/c26-shipped-a-simd-library-nobody"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 14:37:38",
-      "https://lobste.rs/s/oyo7dd/passwords_suck_can_passkeys_replace_them"
-    ],
-    [
-      "Passwords suck. Can passkeys replace them?",
-      "https://kerkour.com/passkeys"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 13:53:43",
-      "https://lobste.rs/s/4xgljh/how_do_i_write_elixir_tests"
-    ],
-    [
-      "How do I write Elixir tests?",
-      "https://hauleth.dev/post/writing-tests/"
     ]
   ],
   [
