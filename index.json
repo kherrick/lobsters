@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-05-15, 10:16:43",
-      "https://lobste.rs/s/eaxtmb/claude_for_legal_suite_plugins_for_legal"
+      "2026-05-15, 12:03:48",
+      "https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend"
     ],
     [
-      "claude-for-legal: A suite of plugins for legal workflows",
-      "https://github.com/anthropics/claude-for-legal"
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 11:53:41",
+      "https://lobste.rs/s/wehmq6/sql_incorrect_by_construction"
+    ],
+    [
+      "SQL: Incorrect by Construction",
+      "https://chreke.com/posts/sql-incorrect-by-construction"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Browsers Treat Big Sites Differently",
       "https://denodell.com/blog/browsers-treat-big-sites-differently"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 12:23:45",
-      "https://lobste.rs/s/yyfjd1/sovereign_tech_fund_invests_over_1"
-    ],
-    [
-      "Sovereign Tech Fund invests over €1 million in KDE software development",
-      "https://kde.org/announcements/sovereign-tech-fund-invests-kde/"
     ]
   ]
 ]
