@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-15, 01:14:21",
+      "https://lobste.rs/s/wskhre/ssh_keysign_pwn_read_root_owned_files_as"
+    ],
+    [
+      "ssh-keysign-pwn: Read root-owned files as an unprivileged user",
+      "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 00:50:15",
+      "https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist"
+    ],
+    [
+      "In what way if any are you a tech minimalist while maintaining your job/love for tech?",
+      "https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 00:49:11",
+      "https://lobste.rs/s/yn8h7o/porting_3d_movie_maker_linux"
+    ],
+    [
+      "Porting 3D Movie Maker to Linux",
+      "https://benstoneonline.com/posts/porting-3d-movie-maker-to-linux/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 23:43:38",
+      "https://lobste.rs/s/e1eqdm/simple_runtime_invariant_miner"
+    ],
+    [
+      "A Simple Runtime Invariant Miner",
+      "https://rahul.gopinath.org/post/2026/05/09/simple-invariant-miner/"
+    ]
+  ],
+  [
+    [
+      "2026-05-14, 23:42:38",
+      "https://lobste.rs/s/yos02p/amazonbot_is_finally_respecting_robots"
+    ],
+    [
+      "Amazonbot is finally respecting robots.txt",
+      "https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 20:24:58",
       "https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026"
     ],
@@ -77,16 +127,6 @@
     [
       "HDD Firmware Hacking Part 1",
       "https://icode4.coffee/?p=1465"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 15:39:54",
-      "https://lobste.rs/s/tt58t8/libreops"
-    ],
-    [
-      "LibreOps",
-      "https://libreops.cc/about/"
     ]
   ],
   [
@@ -181,36 +221,6 @@
   ],
   [
     [
-      "2026-05-14, 00:49:20",
-      "https://lobste.rs/s/nzqsjf/httpx2_fork_by_pydantic"
-    ],
-    [
-      "httpx2 - Fork by Pydantic",
-      "https://tildeweb.nl/~michiel/httpx2.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 20:19:37",
-      "https://lobste.rs/s/pfbph4/5_years_5m_later_inventing_new"
-    ],
-    [
-      "5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake",
-      "https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 17:23:06",
-      "https://lobste.rs/s/rnpigi/may_i_recommend_understanding_emacs_s"
-    ],
-    [
-      "May I recommend… understanding Emacs's patterns",
-      "https://www.chiply.dev/post-emacs-carnival-may"
-    ]
-  ],
-  [
-    [
       "2026-05-13, 17:02:44",
       "https://lobste.rs/s/xsifwf/points_are_weird_inconsistent_unit"
     ],
@@ -227,16 +237,6 @@
     [
       "Setting up a free *.city.state.us locality domain",
       "https://fredchan.org/blog/locality-domains-guide/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 13:25:30",
-      "https://lobste.rs/s/jgmrz0/most_emacs_bzr_saga"
-    ],
-    [
-      "The Most Emacs Bzr Saga",
-      "https://thanosapollo.org/posts/bzr-saga/"
     ]
   ],
   [
