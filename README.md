@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-15, 19:34:27](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be) - [LLM generated submissions should be disallowed](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be)
 * [2026-05-15, 17:58:21](https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs) - [5× faster fast_blur in image-rs](https://apas.tel/blog/optimizing-image-rs-blur)
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
 * [2026-05-15, 14:11:52](https://lobste.rs/s/aoatq6/bug_archeology_solving_decade_old_swift_c) - [Bug Archeology: Solving a decade-old Swift/C++ mystery (with LLMs)](https://samkhawase.com/blog/bug-archeology-using-LLM/)
@@ -21,7 +22,6 @@
 * [2026-05-14, 23:43:38](https://lobste.rs/s/e1eqdm/simple_runtime_invariant_miner) - [A Simple Runtime Invariant Miner](https://rahul.gopinath.org/post/2026/05/09/simple-invariant-miner/)
 * [2026-05-14, 23:42:38](https://lobste.rs/s/yos02p/amazonbot_is_finally_respecting_robots) - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
 * [2026-05-14, 23:37:02](https://lobste.rs/s/vbsonz/int_5_2011) - [int a = 5; a = a++ + ++a; a = ? (2011)](https://gynvael.coldwind.pl/?id=372)
-* [2026-05-14, 19:43:13](https://lobste.rs/s/pegkgv/postgresql_18_4_17_10_closing_11_cves) - [PostgreSQL 18.4, 17.10 closing 11 CVEs](https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/)
 * [2026-05-14, 16:12:49](https://lobste.rs/s/ci0tgq/how_i_moved_my_digital_stack_europe) - [How I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 * [2026-05-14, 13:16:26](https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged) - [Bun's Rust rewrite has been merged](https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
 * [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
