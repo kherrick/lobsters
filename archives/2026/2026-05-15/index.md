@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 17:58:21](https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs) - [5× faster fast_blur in image-rs](https://apas.tel/blog/optimizing-image-rs-blur)
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
 * [2026-05-15, 14:11:52](https://lobste.rs/s/aoatq6/bug_archeology_solving_decade_old_swift_c) - [Bug Archeology: Solving a decade-old Swift/C++ mystery (with LLMs)](https://samkhawase.com/blog/bug-archeology-using-LLM/)
 * [2026-05-15, 13:58:32](https://lobste.rs/s/amjzxm/welcome_order_by_jungle) - [Welcome to ORDER BY jungle](https://boringsql.com/posts/order-by-jungle/)
+* [2026-05-15, 13:22:41](https://lobste.rs/s/gmhzai/what_we_learned_using_ai_agents_refactor) - [What we learned using AI agents to refactor a monolith](https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith)
 * [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 13:02:41](https://lobste.rs/s/f4alia/security_mitigations_ansible_role) - [security mitigations ansible role](https://git.sig-io.nl/sigio/mitigations)
 * [2026-05-15, 12:03:48](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend)
