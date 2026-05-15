@@ -12,6 +12,7 @@
 * [2026-05-15, 11:18:51](https://lobste.rs/s/grynsa/old_world_tech_is_dying_new_cannot_be_born) - [The old world of tech is dying and the new cannot be born](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/)
 * [2026-05-15, 10:16:43](https://lobste.rs/s/eaxtmb/claude_for_legal_suite_plugins_for_legal) - [claude-for-legal: A suite of plugins for legal workflows](https://github.com/anthropics/claude-for-legal)
 * [2026-05-15, 10:09:55](https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation) - [why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)
+* [2026-05-15, 09:36:04](https://lobste.rs/s/qgyscr/emacsification_software) - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/)
 * [2026-05-15, 08:40:24](https://lobste.rs/s/nbceks/volkswagen_detects_when_your_tests_are) - [Volkswagen- detects when your tests are being run in a CI server, and makes them pass (2015)](https://github.com/auchenberg/volkswagen)
 * [2026-05-15, 08:14:09](https://lobste.rs/s/ouayo0/community_building_at_edge_internet) - [Community building at the edge of the Internet](https://news.dyne.org/the-edge-of-the-internet/)
 * [2026-05-15, 07:02:03](https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap) - [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/)
