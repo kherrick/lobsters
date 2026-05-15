@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-14](index.md)
 
+* [2026-05-14, 23:43:38](https://lobste.rs/s/e1eqdm/simple_runtime_invariant_miner) - [A Simple Runtime Invariant Miner](https://rahul.gopinath.org/post/2026/05/09/simple-invariant-miner/)
+* [2026-05-14, 23:42:38](https://lobste.rs/s/yos02p/amazonbot_is_finally_respecting_robots) - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
 * [2026-05-14, 20:24:58](https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026) - [Core Team Panel - Gleam Gathering 2026](https://youtu.be/LgfzH_WBlr4)
 * [2026-05-14, 19:43:13](https://lobste.rs/s/pegkgv/postgresql_18_4_17_10_closing_11_cves) - [PostgreSQL 18.4, 17.10 closing 11 CVEs](https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/)
 * [2026-05-14, 18:52:15](https://lobste.rs/s/qmlp53/spam_resistant_forges) - [Spam Resistant Forges](https://blog.feld.me/posts/2026/05/spam-resistant-forges/)
