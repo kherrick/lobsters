@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-15, 17:58:21",
+      "https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs"
+    ],
+    [
+      "5× faster fast_blur in image-rs",
+      "https://apas.tel/blog/optimizing-image-rs-blur"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 16:28:17",
       "https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2026-05-15, 13:22:41",
+      "https://lobste.rs/s/gmhzai/what_we_learned_using_ai_agents_refactor"
+    ],
+    [
+      "What we learned using AI agents to refactor a monolith",
+      "https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 13:04:52",
       "https://lobste.rs/s/ktqfov/open_source_resistance"
     ],
     [
       "Open Source Resistance",
       "https://ossresistance.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 13:02:41",
-      "https://lobste.rs/s/f4alia/security_mitigations_ansible_role"
-    ],
-    [
-      "security mitigations ansible role",
-      "https://git.sig-io.nl/sigio/mitigations"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "PostgreSQL 18.4, 17.10 closing 11 CVEs",
       "https://www.postgresql.org/about/news/postgresql-184-1710-1614-1518-and-1423-released-3297/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 17:00:24",
-      "https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be"
-    ],
-    [
-      "\"This is written by an LLM\" comments should be flagged as off-topic",
-      "https://lobste.rs/s/wee21u/this_is_written_by_llm_comments_should_be"
     ]
   ],
   [
