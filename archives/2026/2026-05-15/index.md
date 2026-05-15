@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-15](index.md)
 
+* [2026-05-15, 20:28:04](https://lobste.rs/s/2whryd/announcing_zulip_foundation) - [Announcing the Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
 * [2026-05-15, 19:34:27](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be) - [LLM generated submissions should be disallowed](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be)
+* [2026-05-15, 19:11:56](https://lobste.rs/s/szsqdd/git_is_not_fine) - [Git Is Not Fine](https://www.billjings.com/posts/title/git-is-not-fine/)
 * [2026-05-15, 17:58:21](https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs) - [5× faster fast_blur in image-rs](https://apas.tel/blog/optimizing-image-rs-blur)
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
 * [2026-05-15, 14:11:52](https://lobste.rs/s/aoatq6/bug_archeology_solving_decade_old_swift_c) - [Bug Archeology: Solving a decade-old Swift/C++ mystery (with LLMs)](https://samkhawase.com/blog/bug-archeology-using-LLM/)
