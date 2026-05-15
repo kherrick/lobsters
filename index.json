@@ -1,11 +1,21 @@
 [
   [
     [
-      "2026-05-15, 01:14:21",
-      "https://lobste.rs/s/wskhre/ssh_keysign_pwn_read_root_owned_files_as"
+      "2026-05-15, 03:13:37",
+      "https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon"
     ],
     [
-      "ssh-keysign-pwn: Read root-owned files as an unprivileged user",
+      "Prolog Basics Explained with Pokémon",
+      "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 01:14:21",
+      "https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as"
+    ],
+    [
+      "linux 0-day, access root-owned files as an unprivileged user",
       "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/"
     ]
   ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2026-05-14, 23:37:02",
+      "https://lobste.rs/s/vbsonz/int_5_2011"
+    ],
+    [
+      "int a = 5; a = a++ + ++a; a = ? (2011)",
+      "https://gynvael.coldwind.pl/?id=372"
+    ]
+  ],
+  [
+    [
       "2026-05-14, 20:24:58",
       "https://lobste.rs/s/njd25h/core_team_panel_gleam_gathering_2026"
     ],
@@ -71,32 +91,12 @@
   ],
   [
     [
-      "2026-05-14, 18:52:15",
-      "https://lobste.rs/s/qmlp53/spam_resistant_forges"
-    ],
-    [
-      "Spam Resistant Forges",
-      "https://blog.feld.me/posts/2026/05/spam-resistant-forges/"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 18:41:17",
       "https://lobste.rs/s/qfbsno/first_public_macos_kernel_memory"
     ],
     [
       "First public macOS kernel memory corruption exploit on Apple M5",
       "https://blog.calif.io/p/first-public-kernel-memory-corruption"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 17:07:11",
-      "https://lobste.rs/s/zp6fnc/sql_s_order_by_has_come_long_way"
-    ],
-    [
-      "SQL’s ORDER BY Has Come a Long Way",
-      "https://modern-sql.com/blog/2026-05/order-by-history"
     ]
   ],
   [
