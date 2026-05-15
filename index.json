@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-15, 08:14:09",
+      "https://lobste.rs/s/ouayo0/community_building_at_edge_internet"
+    ],
+    [
+      "Community building at the edge of the Internet",
+      "https://news.dyne.org/the-edge-of-the-internet/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 07:02:03",
+      "https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap"
+    ],
+    [
+      "PyCon US 2026 Typing Summit Recap",
+      "https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 03:40:21",
+      "https://lobste.rs/s/c6nclb/mullvad_exit_ips_as_fingerprinting"
+    ],
+    [
+      "Mullvad exit IPs as a fingerprinting vector",
+      "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 03:13:37",
       "https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon"
     ],
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2026-05-14, 15:52:48",
-      "https://lobste.rs/s/x3jzgx/hdd_firmware_hacking_part_1"
-    ],
-    [
-      "HDD Firmware Hacking Part 1",
-      "https://icode4.coffee/?p=1465"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 15:33:51",
-      "https://lobste.rs/s/26xxyq/noscript_element_as_trap"
-    ],
-    [
-      "The <noscript> element as a trap",
-      "https://hacktivis.me/articles/no-noscript-element"
-    ]
-  ],
-  [
-    [
       "2026-05-14, 15:22:06",
       "https://lobste.rs/s/5wy2mq/c_26_shipped_simd_library_nobody_asked_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Points are a weird and inconsistent unit of measure",
       "https://buttondown.com/hillelwayne/archive/points-are-a-weird-and-inconsistent-unit-of/"
-    ]
-  ],
-  [
-    [
-      "2026-05-13, 15:49:46",
-      "https://lobste.rs/s/g4lj0n/setting_up_free_city_state_us_locality"
-    ],
-    [
-      "Setting up a free *.city.state.us locality domain",
-      "https://fredchan.org/blog/locality-domains-guide/"
     ]
   ],
   [
