@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 21:33:40](https://lobste.rs/s/fqqewk/experimental_openbsd_map_e_ce_support) - [experimental OpenBSD MAP-E CE support (feedback)](https://git.sr.ht/~atmosx/openbsd-mape-ce)
 * [2026-05-16, 18:44:02](https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack) - [Subscription Bombing: Email under Attack](https://cacm.acm.org/practice/subscription-bombing-email-under-attack/)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
+* [2026-05-16, 16:38:55](https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml) - [Data race freedom in OxCaml](https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/)
 * [2026-05-16, 14:54:07](https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for) - [triad: data-oriented window manager for the River Wayland compositor](https://github.com/greenm01/triad)
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
@@ -22,9 +24,7 @@
 * [2026-05-15, 19:11:56](https://lobste.rs/s/szsqdd/git_is_not_fine) - [Git Is Not Fine](https://www.billjings.com/posts/title/git-is-not-fine/)
 * [2026-05-15, 17:58:21](https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs) - [5× faster fast_blur in image-rs](https://apas.tel/blog/optimizing-image-rs-blur)
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
-* [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
-* [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 
 ## [Archives](archives/index.md)
 
