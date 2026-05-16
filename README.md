@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
 * [2026-05-16, 11:55:48](https://lobste.rs/s/aljull/starting_systems_programming_pt_1) - [Starting Systems Programming, Pt 1: Programmers Write Programs (2025)](https://eblog.fly.dev/startingsystems1.html)
 * [2026-05-16, 11:05:45](https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours) - [A few ways of specifying per-theme colours in only CSS](https://chrismorgan.info/css-themed-colours)
@@ -21,7 +22,6 @@
 * [2026-05-15, 17:58:21](https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs) - [5× faster fast_blur in image-rs](https://apas.tel/blog/optimizing-image-rs-blur)
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
 * [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
-* [2026-05-15, 12:03:48](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend)
 * [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
 * [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 * [2026-05-15, 00:50:15](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist) - [In what way if any are you a tech minimalist while maintaining your job/love for tech?](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist)
