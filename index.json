@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2026-05-16, 10:26:03",
-      "https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite"
-    ],
-    [
-      "My Thoughts on Bun's Rust Rewrite",
-      "https://en.liujiacai.net/2026/05/16/bun-rust-port/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 09:58:42",
       "https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on"
     ],
@@ -117,16 +107,6 @@
     [
       "Cheap smart doorbell allows fleet-wide account takeover and call hijacking",
       "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 08:51:04",
-      "https://lobste.rs/s/duyp69/ctf_scene_is_dead"
-    ],
-    [
-      "The CTF scene is dead",
-      "https://kabir.au/blog/the-ctf-scene-is-dead"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2026-05-15, 13:04:52",
+      "https://lobste.rs/s/ktqfov/open_source_resistance"
+    ],
+    [
+      "Open Source Resistance",
+      "https://ossresistance.com/"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 11:53:41",
       "https://lobste.rs/s/wehmq6/sql_incorrect_by_construction"
     ],
     [
       "SQL: Incorrect by Construction",
       "https://chreke.com/posts/sql-incorrect-by-construction"
+    ]
+  ],
+  [
+    [
+      "2026-05-15, 01:14:21",
+      "https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as"
+    ],
+    [
+      "linux 0-day, access root-owned files as an unprivileged user",
+      "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/"
     ]
   ]
 ]
