@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 18:44:02](https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack) - [Subscription Bombing: Email under Attack](https://cacm.acm.org/practice/subscription-bombing-email-under-attack/)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
 * [2026-05-16, 16:38:55](https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml) - [Data race freedom in OxCaml](https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/)
 * [2026-05-16, 14:54:07](https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for) - [triad: data-oriented window manager for the River Wayland compositor](https://github.com/greenm01/triad)
