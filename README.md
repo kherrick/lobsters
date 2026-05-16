@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 22:25:20](https://lobste.rs/s/uezaeb/checkbox_enable_django_debug_toolbar) - [A checkbox to enable the Django debug toolbar](https://mdk.fr/blog/django-debug-toolbar-checkbox.html)
 * [2026-05-16, 21:33:40](https://lobste.rs/s/fqqewk/experimental_openbsd_map_e_ce_support) - [experimental OpenBSD MAP-E CE support (feedback)](https://git.sr.ht/~atmosx/openbsd-mape-ce)
 * [2026-05-16, 18:44:02](https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack) - [Subscription Bombing: Email under Attack](https://cacm.acm.org/practice/subscription-bombing-email-under-attack/)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
 * [2026-05-16, 16:38:55](https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml) - [Data race freedom in OxCaml](https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/)
-* [2026-05-16, 14:54:07](https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for) - [triad: data-oriented window manager for the River Wayland compositor](https://github.com/greenm01/triad)
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
 * [2026-05-16, 11:05:45](https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours) - [A few ways of specifying per-theme colours in only CSS](https://chrismorgan.info/css-themed-colours)

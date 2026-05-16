@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 22:25:20](https://lobste.rs/s/uezaeb/checkbox_enable_django_debug_toolbar) - [A checkbox to enable the Django debug toolbar](https://mdk.fr/blog/django-debug-toolbar-checkbox.html)
 * [2026-05-16, 21:33:40](https://lobste.rs/s/fqqewk/experimental_openbsd_map_e_ce_support) - [experimental OpenBSD MAP-E CE support (feedback)](https://git.sr.ht/~atmosx/openbsd-mape-ce)
 * [2026-05-16, 18:44:02](https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack) - [Subscription Bombing: Email under Attack](https://cacm.acm.org/practice/subscription-bombing-email-under-attack/)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
