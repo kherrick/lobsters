@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 14:54:07](https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for) - [triad: data-oriented window manager for the River Wayland compositor](https://github.com/greenm01/triad)
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
 * [2026-05-16, 11:55:48](https://lobste.rs/s/aljull/starting_systems_programming_pt_1) - [Starting Systems Programming, Pt 1: Programmers Write Programs (2025)](https://eblog.fly.dev/startingsystems1.html)
