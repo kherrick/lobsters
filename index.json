@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-16, 11:05:45",
+      "https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours"
+    ],
+    [
+      "A few ways of specifying per-theme colours in only CSS",
+      "https://chrismorgan.info/css-themed-colours"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 10:26:03",
+      "https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite"
+    ],
+    [
+      "My Thoughts on Bun's Rust Rewrite",
+      "https://en.liujiacai.net/2026/05/16/bun-rust-port/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 09:58:42",
       "https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-05-15, 11:18:51",
-      "https://lobste.rs/s/grynsa/old_world_tech_is_dying_new_cannot_be_born"
-    ],
-    [
-      "The old world of tech is dying and the new cannot be born",
-      "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 10:09:55",
       "https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation"
     ],
     [
       "why use F# for scripting and automation?",
       "https://iev.ee/blog/why-use-fsharp/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 08:14:09",
-      "https://lobste.rs/s/ouayo0/community_building_at_edge_internet"
-    ],
-    [
-      "Community building at the edge of the Internet",
-      "https://news.dyne.org/the-edge-of-the-internet/"
     ]
   ],
   [
