@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-16, 22:25:20",
+      "https://lobste.rs/s/uezaeb/checkbox_enable_django_debug_toolbar"
+    ],
+    [
+      "A checkbox to enable the Django debug toolbar",
+      "https://mdk.fr/blog/django-debug-toolbar-checkbox.html"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 21:33:40",
       "https://lobste.rs/s/fqqewk/experimental_openbsd_map_e_ce_support"
     ],
@@ -37,16 +47,6 @@
     [
       "Data race freedom in OxCaml",
       "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 14:54:07",
-      "https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for"
-    ],
-    [
-      "triad: data-oriented window manager for the River Wayland compositor",
-      "https://github.com/greenm01/triad"
     ]
   ],
   [
