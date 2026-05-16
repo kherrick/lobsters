@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-05-16, 07:36:31",
+      "https://lobste.rs/s/jr7x5l/starting_my_own_content_delivery_network"
+    ],
+    [
+      "Starting my own Content Delivery Network",
+      "https://www.youtube.com/watch?v=LCJIQufZeeg"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 06:10:32",
       "https://lobste.rs/s/fbietj/prolog_projects_tips"
     ],
@@ -157,16 +167,6 @@
     [
       "A History of IDEs at Google",
       "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 05:00:21",
-      "https://lobste.rs/s/lwtmzl/cve_2026_40369_arbitrary_kernel_address"
-    ],
-    [
-      "CVE-2026-40369: Arbitrary Kernel Address Increment via NtQuerySystemInformation",
-      "https://github.com/orinimron123/CVE-2026-40369-EXPLOIT"
     ]
   ],
   [
