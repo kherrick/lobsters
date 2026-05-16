@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-16, 09:58:42",
+      "https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on"
+    ],
+    [
+      "Virtual Bevy Meetup 13 Recordings now on YouTube",
+      "https://rustunit.com/bevy-meetup/bevy-meetup-13/"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 09:45:51",
+      "https://lobste.rs/s/4g74mw/ascetic_computing"
+    ],
+    [
+      "Ascetic Computing",
+      "https://ratfactor.com/ascetic-computing"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 08:57:51",
+      "https://lobste.rs/s/yxj57x/cheap_smart_doorbell_allows_fleet_wide"
+    ],
+    [
+      "Cheap smart doorbell allows fleet-wide account takeover and call hijacking",
+      "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 08:51:04",
       "https://lobste.rs/s/duyp69/ctf_scene_is_dead"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2026-05-15, 07:02:03",
-      "https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap"
-    ],
-    [
-      "PyCon US 2026 Typing Summit Recap",
-      "https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 03:40:21",
-      "https://lobste.rs/s/c6nclb/mullvad_exit_ips_as_fingerprinting"
-    ],
-    [
-      "Mullvad exit IPs as a fingerprinting vector",
-      "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 03:13:37",
       "https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon"
     ],
@@ -237,16 +247,6 @@
     [
       "In what way if any are you a tech minimalist while maintaining your job/love for tech?",
       "https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 13:16:26",
-      "https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged"
-    ],
-    [
-      "Bun's Rust rewrite has been merged",
-      "https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/"
     ]
   ]
 ]
