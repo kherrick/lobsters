@@ -8,11 +8,9 @@
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
 * [2026-05-16, 11:05:45](https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours) - [A few ways of specifying per-theme colours in only CSS](https://chrismorgan.info/css-themed-colours)
-* [2026-05-16, 10:26:03](https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite) - [My Thoughts on Bun's Rust Rewrite](https://en.liujiacai.net/2026/05/16/bun-rust-port/)
 * [2026-05-16, 09:58:42](https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on) - [Virtual Bevy Meetup 13 Recordings now on YouTube](https://rustunit.com/bevy-meetup/bevy-meetup-13/)
 * [2026-05-16, 09:45:51](https://lobste.rs/s/4g74mw/ascetic_computing) - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
 * [2026-05-16, 08:57:51](https://lobste.rs/s/yxj57x/cheap_smart_doorbell_allows_fleet_wide) - [Cheap smart doorbell allows fleet-wide account takeover and call hijacking](https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell/)
-* [2026-05-16, 08:51:04](https://lobste.rs/s/duyp69/ctf_scene_is_dead) - [The CTF scene is dead](https://kabir.au/blog/the-ctf-scene-is-dead)
 * [2026-05-16, 08:28:22](https://lobste.rs/s/m9r5px/how_write_ssds) - [How to Write to SSDs](https://arxiv.org/pdf/2603.09927)
 * [2026-05-16, 08:27:44](https://lobste.rs/s/lrpbpg/explore_wikipedia_like_windows_xp) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
 * [2026-05-16, 08:14:42](https://lobste.rs/s/7qxxww/using_rust_parse_godot_tres_files_walk) - [Using Rust to parse Godot .tres files and walk the resource graph](https://assethoard.com/blog/parsing-godot-tres-files)
@@ -24,7 +22,9 @@
 * [2026-05-15, 19:11:56](https://lobste.rs/s/szsqdd/git_is_not_fine) - [Git Is Not Fine](https://www.billjings.com/posts/title/git-is-not-fine/)
 * [2026-05-15, 17:58:21](https://lobste.rs/s/n1fgpt/5x_faster_fast_blur_image_rs) - [5× faster fast_blur in image-rs](https://apas.tel/blog/optimizing-image-rs-blur)
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
+* [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
+* [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 
 ## [Archives](archives/index.md)
 
