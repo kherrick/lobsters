@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 06:10:32](https://lobste.rs/s/fbietj/prolog_projects_tips) - [Prolog Projects Tips](https://occasionallycogent.com/prolog_project_helpers/index.html)
+* [2026-05-16, 05:48:37](https://lobste.rs/s/qkmfzf/history_ides_at_google) - [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
+* [2026-05-16, 05:00:21](https://lobste.rs/s/lwtmzl/cve_2026_40369_arbitrary_kernel_address) - [CVE-2026-40369: Arbitrary Kernel Address Increment via NtQuerySystemInformation](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
 * [2026-05-15, 20:28:04](https://lobste.rs/s/2whryd/announcing_zulip_foundation) - [Announcing the Zulip Foundation](https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/)
 * [2026-05-15, 19:34:27](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be) - [LLM generated submissions should be disallowed](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be)
 * [2026-05-15, 19:11:56](https://lobste.rs/s/szsqdd/git_is_not_fine) - [Git Is Not Fine](https://www.billjings.com/posts/title/git-is-not-fine/)
@@ -7,14 +10,12 @@
 * [2026-05-15, 16:28:17](https://lobste.rs/s/7a6atx/moving_away_from_tailwind_learning) - [Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/)
 * [2026-05-15, 14:11:52](https://lobste.rs/s/aoatq6/bug_archeology_solving_decade_old_swift_c) - [Bug Archeology: Solving a decade-old Swift/C++ mystery (with LLMs)](https://samkhawase.com/blog/bug-archeology-using-LLM/)
 * [2026-05-15, 13:58:32](https://lobste.rs/s/amjzxm/welcome_order_by_jungle) - [Welcome to ORDER BY jungle](https://boringsql.com/posts/order-by-jungle/)
-* [2026-05-15, 13:22:41](https://lobste.rs/s/gmhzai/what_we_learned_using_ai_agents_refactor) - [What we learned using AI agents to refactor a monolith](https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith)
 * [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 12:03:48](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend)
 * [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
 * [2026-05-15, 11:18:51](https://lobste.rs/s/grynsa/old_world_tech_is_dying_new_cannot_be_born) - [The old world of tech is dying and the new cannot be born](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/)
 * [2026-05-15, 10:09:55](https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation) - [why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)
 * [2026-05-15, 09:36:04](https://lobste.rs/s/qgyscr/emacsification_software) - [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/)
-* [2026-05-15, 08:40:24](https://lobste.rs/s/nbceks/volkswagen_detects_when_your_tests_are) - [Volkswagen- detects when your tests are being run in a CI server, and makes them pass (2015)](https://github.com/auchenberg/volkswagen)
 * [2026-05-15, 08:14:09](https://lobste.rs/s/ouayo0/community_building_at_edge_internet) - [Community building at the edge of the Internet](https://news.dyne.org/the-edge-of-the-internet/)
 * [2026-05-15, 07:02:03](https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap) - [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/)
 * [2026-05-15, 03:40:21](https://lobste.rs/s/c6nclb/mullvad_exit_ips_as_fingerprinting) - [Mullvad exit IPs as a fingerprinting vector](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
@@ -24,7 +25,6 @@
 * [2026-05-14, 23:43:38](https://lobste.rs/s/e1eqdm/simple_runtime_invariant_miner) - [A Simple Runtime Invariant Miner](https://rahul.gopinath.org/post/2026/05/09/simple-invariant-miner/)
 * [2026-05-14, 23:42:38](https://lobste.rs/s/yos02p/amazonbot_is_finally_respecting_robots) - [Amazonbot is finally respecting robots.txt](https://xeiaso.net/notes/2026/amazonbot-respecting-robots-txt/)
 * [2026-05-14, 13:16:26](https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged) - [Bun's Rust rewrite has been merged](https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
-* [2026-05-14, 09:56:40](https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently) - [Browsers Treat Big Sites Differently](https://denodell.com/blog/browsers-treat-big-sites-differently)
 
 ## [Archives](archives/index.md)
 
