@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-16, 21:33:40",
+      "https://lobste.rs/s/fqqewk/experimental_openbsd_map_e_ce_support"
+    ],
+    [
+      "experimental OpenBSD MAP-E CE support (feedback)",
+      "https://git.sr.ht/~atmosx/openbsd-mape-ce"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 18:44:02",
       "https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack"
     ],
@@ -17,6 +27,16 @@
     [
       "The Futility of Lava Lamps: What Random Really Means",
       "https://loup-vaillant.fr/articles/lava-lamps-and-randomness"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 16:38:55",
+      "https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml"
+    ],
+    [
+      "Data race freedom in OxCaml",
+      "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-05-15, 13:04:52",
-      "https://lobste.rs/s/ktqfov/open_source_resistance"
-    ],
-    [
-      "Open Source Resistance",
-      "https://ossresistance.com/"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 11:53:41",
       "https://lobste.rs/s/wehmq6/sql_incorrect_by_construction"
     ],
     [
       "SQL: Incorrect by Construction",
       "https://chreke.com/posts/sql-incorrect-by-construction"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 01:14:21",
-      "https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as"
-    ],
-    [
-      "linux 0-day, access root-owned files as an unprivileged user",
-      "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/"
     ]
   ]
 ]
