@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-16, 17:54:27",
+      "https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really"
+    ],
+    [
+      "The Futility of Lava Lamps: What Random Really Means",
+      "https://loup-vaillant.fr/articles/lava-lamps-and-randomness"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 16:38:55",
+      "https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml"
+    ],
+    [
+      "Data race freedom in OxCaml",
+      "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/"
+    ]
+  ],
+  [
+    [
       "2026-05-16, 14:54:07",
       "https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2026-05-16, 07:36:31",
-      "https://lobste.rs/s/jr7x5l/starting_my_own_content_delivery_network"
-    ],
-    [
-      "Starting my own Content Delivery Network",
-      "https://www.youtube.com/watch?v=LCJIQufZeeg"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 06:10:32",
       "https://lobste.rs/s/fbietj/prolog_projects_tips"
     ],
@@ -237,16 +247,6 @@
     [
       "linux 0-day, access root-owned files as an unprivileged user",
       "https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 00:50:15",
-      "https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist"
-    ],
-    [
-      "In what way if any are you a tech minimalist while maintaining your job/love for tech?",
-      "https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist"
     ]
   ]
 ]
