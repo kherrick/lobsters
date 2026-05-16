@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
+* [2026-05-16, 16:38:55](https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml) - [Data race freedom in OxCaml](https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/)
 * [2026-05-16, 14:54:07](https://lobste.rs/s/hcicuz/triad_data_oriented_window_manager_for) - [triad: data-oriented window manager for the River Wayland compositor](https://github.com/greenm01/triad)
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
@@ -12,7 +14,6 @@
 * [2026-05-16, 08:28:22](https://lobste.rs/s/m9r5px/how_write_ssds) - [How to Write to SSDs](https://arxiv.org/pdf/2603.09927)
 * [2026-05-16, 08:27:44](https://lobste.rs/s/lrpbpg/explore_wikipedia_like_windows_xp) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
 * [2026-05-16, 08:14:42](https://lobste.rs/s/7qxxww/using_rust_parse_godot_tres_files_walk) - [Using Rust to parse Godot .tres files and walk the resource graph](https://assethoard.com/blog/parsing-godot-tres-files)
-* [2026-05-16, 07:36:31](https://lobste.rs/s/jr7x5l/starting_my_own_content_delivery_network) - [Starting my own Content Delivery Network](https://www.youtube.com/watch?v=LCJIQufZeeg)
 * [2026-05-16, 06:10:32](https://lobste.rs/s/fbietj/prolog_projects_tips) - [Prolog Projects Tips](https://occasionallycogent.com/prolog_project_helpers/index.html)
 * [2026-05-16, 05:48:37](https://lobste.rs/s/qkmfzf/history_ides_at_google) - [A History of IDEs at Google](https://laurent.le-brun.eu/blog/a-history-of-ides-at-google)
 * [2026-05-16, 05:00:21](https://lobste.rs/s/lwtmzl/cve_2026_40369_arbitrary_kernel_address) - [CVE-2026-40369: Arbitrary Kernel Address Increment via NtQuerySystemInformation](https://github.com/orinimron123/CVE-2026-40369-EXPLOIT)
@@ -24,7 +25,6 @@
 * [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
 * [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
-* [2026-05-15, 00:50:15](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist) - [In what way if any are you a tech minimalist while maintaining your job/love for tech?](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist)
 
 ## [Archives](archives/index.md)
 
