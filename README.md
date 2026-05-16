@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
+* [2026-05-16, 11:55:48](https://lobste.rs/s/aljull/starting_systems_programming_pt_1) - [Starting Systems Programming, Pt 1: Programmers Write Programs (2025)](https://eblog.fly.dev/startingsystems1.html)
 * [2026-05-16, 11:05:45](https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours) - [A few ways of specifying per-theme colours in only CSS](https://chrismorgan.info/css-themed-colours)
 * [2026-05-16, 10:26:03](https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite) - [My Thoughts on Bun's Rust Rewrite](https://en.liujiacai.net/2026/05/16/bun-rust-port/)
 * [2026-05-16, 09:58:42](https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on) - [Virtual Bevy Meetup 13 Recordings now on YouTube](https://rustunit.com/bevy-meetup/bevy-meetup-13/)
@@ -21,8 +23,6 @@
 * [2026-05-15, 13:04:52](https://lobste.rs/s/ktqfov/open_source_resistance) - [Open Source Resistance](https://ossresistance.com/)
 * [2026-05-15, 12:03:48](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ylq7sd/what_are_you_doing_this_weekend)
 * [2026-05-15, 11:53:41](https://lobste.rs/s/wehmq6/sql_incorrect_by_construction) - [SQL: Incorrect by Construction](https://chreke.com/posts/sql-incorrect-by-construction)
-* [2026-05-15, 10:09:55](https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation) - [why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)
-* [2026-05-15, 03:13:37](https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
 * [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 * [2026-05-15, 00:50:15](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist) - [In what way if any are you a tech minimalist while maintaining your job/love for tech?](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist)
 

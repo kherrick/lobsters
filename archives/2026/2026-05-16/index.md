@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-16](index.md)
 
+* [2026-05-16, 13:36:08](https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux) - [A 90's era Keygen-like for X11 for Unix/Linux](https://github.com/sbz/keygen)
+* [2026-05-16, 11:55:48](https://lobste.rs/s/aljull/starting_systems_programming_pt_1) - [Starting Systems Programming, Pt 1: Programmers Write Programs (2025)](https://eblog.fly.dev/startingsystems1.html)
 * [2026-05-16, 11:05:45](https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours) - [A few ways of specifying per-theme colours in only CSS](https://chrismorgan.info/css-themed-colours)
 * [2026-05-16, 10:26:03](https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite) - [My Thoughts on Bun's Rust Rewrite](https://en.liujiacai.net/2026/05/16/bun-rust-port/)
 * [2026-05-16, 09:58:42](https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on) - [Virtual Bevy Meetup 13 Recordings now on YouTube](https://rustunit.com/bevy-meetup/bevy-meetup-13/)
