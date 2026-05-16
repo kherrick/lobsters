@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-16, 09:58:42](https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on) - [Virtual Bevy Meetup 13 Recordings now on YouTube](https://rustunit.com/bevy-meetup/bevy-meetup-13/)
+* [2026-05-16, 09:45:51](https://lobste.rs/s/4g74mw/ascetic_computing) - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
+* [2026-05-16, 08:57:51](https://lobste.rs/s/yxj57x/cheap_smart_doorbell_allows_fleet_wide) - [Cheap smart doorbell allows fleet-wide account takeover and call hijacking](https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell/)
 * [2026-05-16, 08:51:04](https://lobste.rs/s/duyp69/ctf_scene_is_dead) - [The CTF scene is dead](https://kabir.au/blog/the-ctf-scene-is-dead)
 * [2026-05-16, 08:28:22](https://lobste.rs/s/m9r5px/how_write_ssds) - [How to Write to SSDs](https://arxiv.org/pdf/2603.09927)
 * [2026-05-16, 08:27:44](https://lobste.rs/s/lrpbpg/explore_wikipedia_like_windows_xp) - [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
@@ -19,12 +22,9 @@
 * [2026-05-15, 11:18:51](https://lobste.rs/s/grynsa/old_world_tech_is_dying_new_cannot_be_born) - [The old world of tech is dying and the new cannot be born](https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/)
 * [2026-05-15, 10:09:55](https://lobste.rs/s/yvm1dh/why_use_f_for_scripting_automation) - [why use F# for scripting and automation?](https://iev.ee/blog/why-use-fsharp/)
 * [2026-05-15, 08:14:09](https://lobste.rs/s/ouayo0/community_building_at_edge_internet) - [Community building at the edge of the Internet](https://news.dyne.org/the-edge-of-the-internet/)
-* [2026-05-15, 07:02:03](https://lobste.rs/s/bxvzyy/pycon_us_2026_typing_summit_recap) - [PyCon US 2026 Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/)
-* [2026-05-15, 03:40:21](https://lobste.rs/s/c6nclb/mullvad_exit_ips_as_fingerprinting) - [Mullvad exit IPs as a fingerprinting vector](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
 * [2026-05-15, 03:13:37](https://lobste.rs/s/0cvxwk/prolog_basics_explained_with_pokemon) - [Prolog Basics Explained with Pokémon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/)
 * [2026-05-15, 01:14:21](https://lobste.rs/s/wskhre/linux_0_day_access_root_owned_files_as) - [linux 0-day, access root-owned files as an unprivileged user](https://github.com/0xdeadbeefnetwork/ssh-keysign-pwn/)
 * [2026-05-15, 00:50:15](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist) - [In what way if any are you a tech minimalist while maintaining your job/love for tech?](https://lobste.rs/s/kxmdvj/what_way_if_any_are_you_tech_minimalist)
-* [2026-05-14, 13:16:26](https://lobste.rs/s/lapqbz/bun_s_rust_rewrite_has_been_merged) - [Bun's Rust rewrite has been merged](https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/)
 
 ## [Archives](archives/index.md)
 
