@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-16, 06:10:32",
+      "https://lobste.rs/s/fbietj/prolog_projects_tips"
+    ],
+    [
+      "Prolog Projects Tips",
+      "https://occasionallycogent.com/prolog_project_helpers/index.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 05:48:37",
+      "https://lobste.rs/s/qkmfzf/history_ides_at_google"
+    ],
+    [
+      "A History of IDEs at Google",
+      "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google"
+    ]
+  ],
+  [
+    [
+      "2026-05-16, 05:00:21",
+      "https://lobste.rs/s/lwtmzl/cve_2026_40369_arbitrary_kernel_address"
+    ],
+    [
+      "CVE-2026-40369: Arbitrary Kernel Address Increment via NtQuerySystemInformation",
+      "https://github.com/orinimron123/CVE-2026-40369-EXPLOIT"
+    ]
+  ],
+  [
+    [
       "2026-05-15, 20:28:04",
       "https://lobste.rs/s/2whryd/announcing_zulip_foundation"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2026-05-15, 13:22:41",
-      "https://lobste.rs/s/gmhzai/what_we_learned_using_ai_agents_refactor"
-    ],
-    [
-      "What we learned using AI agents to refactor a monolith",
-      "https://1password.com/blog/what-we-learned-using-ai-agents-to-refactor-a-monolith"
-    ]
-  ],
-  [
-    [
       "2026-05-15, 13:04:52",
       "https://lobste.rs/s/ktqfov/open_source_resistance"
     ],
@@ -137,16 +157,6 @@
     [
       "The Emacsification of Software",
       "https://sockpuppet.org/blog/2026/05/12/emacsification/"
-    ]
-  ],
-  [
-    [
-      "2026-05-15, 08:40:24",
-      "https://lobste.rs/s/nbceks/volkswagen_detects_when_your_tests_are"
-    ],
-    [
-      "Volkswagen- detects when your tests are being run in a CI server, and makes them pass (2015)",
-      "https://github.com/auchenberg/volkswagen"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Bun's Rust rewrite has been merged",
       "https://www.reddit.com/r/rust/comments/1tcrmjs/rewrite_bun_in_rust_has_been_merged/"
-    ]
-  ],
-  [
-    [
-      "2026-05-14, 09:56:40",
-      "https://lobste.rs/s/wij1pq/browsers_treat_big_sites_differently"
-    ],
-    [
-      "Browsers Treat Big Sites Differently",
-      "https://denodell.com/blog/browsers-treat-big-sites-differently"
     ]
   ]
 ]
