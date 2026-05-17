@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-05-17, 12:57:07",
+      "https://lobste.rs/s/neclbs/native_all_way_until_you_need_text"
+    ],
+    [
+      "Native all the way, until you need text",
+      "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 12:03:58",
       "https://lobste.rs/s/btrxft/go_european_discover_european_products"
     ],
     [
       "Go European — Discover European products and services",
       "https://www.goeuropean.org/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 09:30:07",
+      "https://lobste.rs/s/hetkyy/cutting_gordian_hairball"
+    ],
+    [
+      "Cutting the Gordian Hairball",
+      "https://buttondown.com/dorian/archive/cutting-the-gordian-hairball/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Savepoint Project",
       "https://www.namtao.com/savepoint/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 06:15:12",
-      "https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is"
-    ],
-    [
-      "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "https://www.seangoedecke.com/steering-vectors/"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2026-05-17, 02:27:13",
+      "https://lobste.rs/s/kiimof/rust_x_gba_setup_pixels"
+    ],
+    [
+      "Rust x GBA: Setup and Pixels",
+      "https://jonahnestrick.com/blog/rust-gba-tutorial-1/"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 01:14:20",
       "https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers"
     ],
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2026-05-17, 00:20:51",
-      "https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today"
+      "2026-05-17, 00:20:09",
+      "https://lobste.rs/s/29finy/manual_memory_management"
     ],
     [
-      "Async I/O in Zig 0.16, today",
-      "https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html"
+      "Manual Memory Management",
+      "https://dayvster.com/blog/manual-memory-management/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-16, 10:26:03",
-      "https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite"
-    ],
-    [
-      "My Thoughts on Bun's Rust Rewrite",
-      "https://en.liujiacai.net/2026/05/16/bun-rust-port/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 09:45:51",
       "https://lobste.rs/s/4g74mw/ascetic_computing"
     ],
@@ -187,16 +197,6 @@
     [
       "Cheap smart doorbell allows fleet-wide account takeover and call hijacking",
       "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 08:51:04",
-      "https://lobste.rs/s/duyp69/ctf_scene_is_dead"
-    ],
-    [
-      "The CTF scene is dead",
-      "https://kabir.au/blog/the-ctf-scene-is-dead"
     ]
   ],
   [
