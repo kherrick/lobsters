@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
 * [2026-05-17, 09:30:07](https://lobste.rs/s/hetkyy/cutting_gordian_hairball) - [Cutting the Gordian Hairball](https://buttondown.com/dorian/archive/cutting-the-gordian-hairball/)
 * [2026-05-17, 08:30:13](https://lobste.rs/s/suyqvr/fast16_pre_stuxnet_sabotage_tool_was) - [Fast16: Pre-Stuxnet Sabotage Tool Was Built to Subvert Nuclear Weapons Simulations](https://www.security.com/threat-intelligence/fast16-nuclear-sabotage)
 * [2026-05-17, 06:40:43](https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap) - [PyCon US 2026 Packaging Summit Recap](https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2)

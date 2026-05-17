@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-17, 09:30:07](https://lobste.rs/s/hetkyy/cutting_gordian_hairball) - [Cutting the Gordian Hairball](https://buttondown.com/dorian/archive/cutting-the-gordian-hairball/)
+* [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
 * [2026-05-17, 06:40:43](https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap) - [PyCon US 2026 Packaging Summit Recap](https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2)
 * [2026-05-17, 06:26:49](https://lobste.rs/s/fq5huz/savepoint_project) - [Savepoint Project](https://www.namtao.com/savepoint/)
 * [2026-05-17, 06:15:12](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
