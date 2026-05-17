@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 20:19:33](https://lobste.rs/s/p0ok2r/postmarketos_2026_04_new_boot_splash) - [postmarketOS in 2026-04: new boot splash](https://postmarketos.org/blog/2026/05/10/pmOS-update-2026-04/)
 * [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
 * [2026-05-17, 18:18:38](https://lobste.rs/s/hg4sew/bitsocial_open_source_p2p_network_for) - [Bitsocial: Open Source P2P Network for Social Apps](https://bitsocial.net/)
 * [2026-05-17, 16:37:47](https://lobste.rs/s/9hiu10/bun_s_problem_may_be_developing_open) - [Bun's problem may be developing in the open](https://00f.net/2026/05/17/developping-in-the-open/)
