@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
+* [2026-05-17, 18:18:38](https://lobste.rs/s/hg4sew/bitsocial_open_source_p2p_network_for) - [Bitsocial: Open Source P2P Network for Social Apps](https://bitsocial.net/)
 * [2026-05-17, 16:37:47](https://lobste.rs/s/9hiu10/bun_s_problem_may_be_developing_open) - [Bun's problem may be developing in the open](https://00f.net/2026/05/17/developping-in-the-open/)
 * [2026-05-17, 16:28:54](https://lobste.rs/s/dt92ad/don_t_answer_first_question) - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
 * [2026-05-17, 15:40:32](https://lobste.rs/s/6fc7qu/reviewing_so_called_pull_requests_at) - [Reviewing so called Pull Requests at $dayjob](https://rkta.de/dayjob-pr-review.html)
@@ -12,7 +14,6 @@
 * [2026-05-17, 06:15:12](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 * [2026-05-17, 04:07:41](https://lobste.rs/s/c1j43n/introducing_incremental_2015) - [Introducing Incremental (2015)](https://blog.janestreet.com/introducing-incremental/)
 * [2026-05-17, 03:29:58](https://lobste.rs/s/bklf9j/content_defined_chunking_bazel_s_remote) - [Content-defined chunking in Bazel's remote cache](https://www.buildbuddy.io/blog/content-defined-chunking)
-* [2026-05-17, 03:28:25](https://lobste.rs/s/gpxvb1/thinking_states) - [Thinking in States](https://www.metalevel.at/tist/)
 * [2026-05-17, 03:20:45](https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
 * [2026-05-17, 01:14:20](https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers) - [The Tomy Tutor and the state of 1983 home computers](http://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html)
 * [2026-05-17, 00:20:51](https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today) - [Async I/O in Zig 0.16, today](https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html)
@@ -23,7 +24,6 @@
 * [2026-05-16, 11:05:45](https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours) - [A few ways of specifying per-theme colours in only CSS](https://chrismorgan.info/css-themed-colours)
 * [2026-05-16, 10:26:03](https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite) - [My Thoughts on Bun's Rust Rewrite](https://en.liujiacai.net/2026/05/16/bun-rust-port/)
 * [2026-05-16, 09:45:51](https://lobste.rs/s/4g74mw/ascetic_computing) - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
-* [2026-05-16, 08:51:04](https://lobste.rs/s/duyp69/ctf_scene_is_dead) - [The CTF scene is dead](https://kabir.au/blog/the-ctf-scene-is-dead)
 * [2026-05-15, 19:34:27](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be) - [LLM generated submissions should be disallowed](https://lobste.rs/s/29pm2f/llm_generated_submissions_should_be)
 
 ## [Archives](archives/index.md)

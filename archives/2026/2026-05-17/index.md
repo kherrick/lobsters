@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
+* [2026-05-17, 18:18:38](https://lobste.rs/s/hg4sew/bitsocial_open_source_p2p_network_for) - [Bitsocial: Open Source P2P Network for Social Apps](https://bitsocial.net/)
 * [2026-05-17, 16:37:47](https://lobste.rs/s/9hiu10/bun_s_problem_may_be_developing_open) - [Bun's problem may be developing in the open](https://00f.net/2026/05/17/developping-in-the-open/)
 * [2026-05-17, 16:28:54](https://lobste.rs/s/dt92ad/don_t_answer_first_question) - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
 * [2026-05-17, 15:40:32](https://lobste.rs/s/6fc7qu/reviewing_so_called_pull_requests_at) - [Reviewing so called Pull Requests at $dayjob](https://rkta.de/dayjob-pr-review.html)
