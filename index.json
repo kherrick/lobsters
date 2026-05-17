@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-17, 04:07:41",
+      "https://lobste.rs/s/c1j43n/introducing_incremental"
+    ],
+    [
+      "Introducing Incremental",
+      "https://blog.janestreet.com/introducing-incremental/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 03:29:58",
+      "https://lobste.rs/s/bklf9j/content_defined_chunking_bazel_s_remote"
+    ],
+    [
+      "Content-defined chunking in Bazel's remote cache",
+      "https://www.buildbuddy.io/blog/content-defined-chunking"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 03:20:45",
+      "https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket"
+    ],
+    [
+      "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "https://hyperpolyglot.org/lisp"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 01:14:20",
       "https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers"
     ],
@@ -17,16 +47,6 @@
     [
       "Async I/O in Zig 0.16, today",
       "https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 22:25:20",
-      "https://lobste.rs/s/uezaeb/checkbox_enable_django_debug_toolbar"
-    ],
-    [
-      "A checkbox to enable the Django debug toolbar",
-      "https://mdk.fr/blog/django-debug-toolbar-checkbox.html"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "Explore Wikipedia Like a Windows XP Desktop",
       "https://explorer.samismith.com/"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 08:14:42",
-      "https://lobste.rs/s/7qxxww/using_rust_parse_godot_tres_files_walk"
-    ],
-    [
-      "Using Rust to parse Godot .tres files and walk the resource graph",
-      "https://assethoard.com/blog/parsing-godot-tres-files"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 06:10:32",
-      "https://lobste.rs/s/fbietj/prolog_projects_tips"
-    ],
-    [
-      "Prolog Projects Tips",
-      "https://occasionallycogent.com/prolog_project_helpers/index.html"
     ]
   ],
   [
