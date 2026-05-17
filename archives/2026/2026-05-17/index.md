@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 16:37:47](https://lobste.rs/s/9hiu10/bun_s_problem_may_be_developing_open) - [Bun's problem may be developing in the open](https://00f.net/2026/05/17/developping-in-the-open/)
+* [2026-05-17, 16:28:54](https://lobste.rs/s/dt92ad/don_t_answer_first_question) - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
 * [2026-05-17, 15:40:32](https://lobste.rs/s/6fc7qu/reviewing_so_called_pull_requests_at) - [Reviewing so called Pull Requests at $dayjob](https://rkta.de/dayjob-pr-review.html)
 * [2026-05-17, 15:28:30](https://lobste.rs/s/huqdtj/coding_on_paper) - [Coding on Paper](https://wickstrom.tech/2026-05-16-coding-on-paper.html)
 * [2026-05-17, 12:58:13](https://lobste.rs/s/l34yuj/claude_code_managed_get_adobe_lightroom) - [Claude Code managed to get Adobe Lightroom working on Linux](https://github.com/sander110419/lightroom-cc-on-linux)
