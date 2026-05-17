@@ -1,22 +1,52 @@
 [
   [
     [
-      "2026-05-17, 04:07:41",
-      "https://lobste.rs/s/c1j43n/introducing_incremental"
+      "2026-05-17, 06:40:43",
+      "https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap"
     ],
     [
-      "Introducing Incremental",
+      "PyCon US 2026 Packaging Summit Recap",
+      "https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 06:26:49",
+      "https://lobste.rs/s/fq5huz/savepoint_project"
+    ],
+    [
+      "Savepoint Project",
+      "https://www.namtao.com/savepoint/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 06:15:12",
+      "https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is"
+    ],
+    [
+      "DeepSeek-V4-Flash means LLM steering is interesting again",
+      "https://www.seangoedecke.com/steering-vectors/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 04:07:41",
+      "https://lobste.rs/s/c1j43n/introducing_incremental_2015"
+    ],
+    [
+      "Introducing Incremental (2015)",
       "https://blog.janestreet.com/introducing-incremental/"
     ]
   ],
   [
     [
-      "2026-05-17, 03:29:58",
-      "https://lobste.rs/s/bklf9j/content_defined_chunking_bazel_s_remote"
+      "2026-05-17, 03:28:25",
+      "https://lobste.rs/s/gpxvb1/thinking_states"
     ],
     [
-      "Content-defined chunking in Bazel's remote cache",
-      "https://www.buildbuddy.io/blog/content-defined-chunking"
+      "Thinking in States",
+      "https://www.metalevel.at/tist/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-05-16, 16:38:55",
-      "https://lobste.rs/s/yv4j6i/data_race_freedom_oxcaml"
-    ],
-    [
-      "Data race freedom in OxCaml",
-      "https://kcsrk.info/ocaml/oxcaml/x-ocaml/blogging/2026/05/07/data-race-freedom-in-oxcaml/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 14:18:47",
       "https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-05-16, 09:58:42",
-      "https://lobste.rs/s/ffquwg/virtual_bevy_meetup_13_recordings_now_on"
-    ],
-    [
-      "Virtual Bevy Meetup 13 Recordings now on YouTube",
-      "https://rustunit.com/bevy-meetup/bevy-meetup-13/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 09:45:51",
       "https://lobste.rs/s/4g74mw/ascetic_computing"
     ],
@@ -177,16 +187,6 @@
     [
       "The CTF scene is dead",
       "https://kabir.au/blog/the-ctf-scene-is-dead"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 08:28:22",
-      "https://lobste.rs/s/m9r5px/how_write_ssds"
-    ],
-    [
-      "How to Write to SSDs",
-      "https://arxiv.org/pdf/2603.09927"
     ]
   ],
   [
