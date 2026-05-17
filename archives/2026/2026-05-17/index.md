@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 08:30:13](https://lobste.rs/s/suyqvr/fast16_pre_stuxnet_sabotage_tool_was) - [Fast16: Pre-Stuxnet Sabotage Tool Was Built to Subvert Nuclear Weapons Simulations](https://www.security.com/threat-intelligence/fast16-nuclear-sabotage)
 * [2026-05-17, 06:40:43](https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap) - [PyCon US 2026 Packaging Summit Recap](https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2)
 * [2026-05-17, 06:26:49](https://lobste.rs/s/fq5huz/savepoint_project) - [Savepoint Project](https://www.namtao.com/savepoint/)
 * [2026-05-17, 06:15:12](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
