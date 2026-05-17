@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-17, 21:14:23](https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small) - [Fits on a Floppy - A Manifesto for Small Software](https://fitsonafloppy.com)
 * [2026-05-17, 20:19:33](https://lobste.rs/s/p0ok2r/postmarketos_2026_04_new_boot_splash) - [postmarketOS in 2026-04: new boot splash](https://postmarketos.org/blog/2026/05/10/pmOS-update-2026-04/)
 * [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
 * [2026-05-17, 18:18:38](https://lobste.rs/s/hg4sew/bitsocial_open_source_p2p_network_for) - [Bitsocial: Open Source P2P Network for Social Apps](https://bitsocial.net/)
@@ -10,7 +11,6 @@
 * [2026-05-17, 12:58:13](https://lobste.rs/s/l34yuj/claude_code_managed_get_adobe_lightroom) - [Claude Code managed to get Adobe Lightroom working on Linux](https://github.com/sander110419/lightroom-cc-on-linux)
 * [2026-05-17, 12:57:07](https://lobste.rs/s/neclbs/native_all_way_until_you_need_text) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 * [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
-* [2026-05-17, 06:40:43](https://lobste.rs/s/e06upg/pycon_us_2026_packaging_summit_recap) - [PyCon US 2026 Packaging Summit Recap](https://discuss.python.org/t/packaging-summit-at-pycon-us-2026/106911/2)
 * [2026-05-17, 06:26:49](https://lobste.rs/s/fq5huz/savepoint_project) - [Savepoint Project](https://www.namtao.com/savepoint/)
 * [2026-05-17, 06:15:12](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 * [2026-05-17, 04:07:41](https://lobste.rs/s/c1j43n/introducing_incremental_2015) - [Introducing Incremental (2015)](https://blog.janestreet.com/introducing-incremental/)
