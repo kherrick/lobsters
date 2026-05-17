@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 12:57:07](https://lobste.rs/s/neclbs/native_all_way_until_you_need_text) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 * [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
 * [2026-05-17, 09:30:07](https://lobste.rs/s/hetkyy/cutting_gordian_hairball) - [Cutting the Gordian Hairball](https://buttondown.com/dorian/archive/cutting-the-gordian-hairball/)
 * [2026-05-17, 08:30:13](https://lobste.rs/s/suyqvr/fast16_pre_stuxnet_sabotage_tool_was) - [Fast16: Pre-Stuxnet Sabotage Tool Was Built to Subvert Nuclear Weapons Simulations](https://www.security.com/threat-intelligence/fast16-nuclear-sabotage)
@@ -15,5 +16,7 @@
 * [2026-05-17, 03:29:58](https://lobste.rs/s/bklf9j/content_defined_chunking_bazel_s_remote) - [Content-defined chunking in Bazel's remote cache](https://www.buildbuddy.io/blog/content-defined-chunking)
 * [2026-05-17, 03:28:25](https://lobste.rs/s/gpxvb1/thinking_states) - [Thinking in States](https://www.metalevel.at/tist/)
 * [2026-05-17, 03:20:45](https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
+* [2026-05-17, 02:27:13](https://lobste.rs/s/kiimof/rust_x_gba_setup_pixels) - [Rust x GBA: Setup and Pixels](https://jonahnestrick.com/blog/rust-gba-tutorial-1/)
 * [2026-05-17, 01:14:20](https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers) - [The Tomy Tutor and the state of 1983 home computers](http://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html)
 * [2026-05-17, 00:20:51](https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today) - [Async I/O in Zig 0.16, today](https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html)
+* [2026-05-17, 00:20:09](https://lobste.rs/s/29finy/manual_memory_management) - [Manual Memory Management](https://dayvster.com/blog/manual-memory-management/)
