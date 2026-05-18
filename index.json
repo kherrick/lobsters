@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-18, 04:28:13",
+      "https://lobste.rs/s/dvsuag/review_sylve_on_freebsd"
+    ],
+    [
+      "Review: Sylve on FreeBSD",
+      "https://distrowatch.com/weekly-mobile.php?issue=20260518#sylve"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 04:22:48",
+      "https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github"
+    ],
+    [
+      "spr: Stacked Pull Requests on GitHub",
+      "https://github.com/ejoffe/spr"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 03:06:03",
+      "https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly"
+    ],
+    [
+      "Researcher says Microsoft secretly built a backdoor into BitLocker",
+      "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 02:13:10",
+      "https://lobste.rs/s/b5hrqb/reverse_engineering_android_malware"
+    ],
+    [
+      "Reverse engineering Android malware with Claude Code",
+      "https://zanestjohn.com/blog/reing-with-claude-code"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 01:46:23",
+      "https://lobste.rs/s/61uxxo/reversing_grateful_dead_d2s2_on_mac_2022"
+    ],
+    [
+      "Reversing ‘Grateful Dead: D2S2’ on Mac (2022)",
+      "https://blog.os9.ca/2022/04/21/001-reversing-grateful-dead-d2s2/"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 00:28:51",
       "https://lobste.rs/s/eeqdfc/rust_async_arm_generic_timer"
     ],
@@ -131,26 +181,6 @@
   ],
   [
     [
-      "2026-05-17, 04:07:41",
-      "https://lobste.rs/s/c1j43n/introducing_incremental_2015"
-    ],
-    [
-      "Introducing Incremental (2015)",
-      "https://blog.janestreet.com/introducing-incremental/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 03:29:58",
-      "https://lobste.rs/s/bklf9j/content_defined_chunking_bazel_s_remote"
-    ],
-    [
-      "Content-defined chunking in Bazel's remote cache",
-      "https://www.buildbuddy.io/blog/content-defined-chunking"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 03:20:45",
       "https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2026-05-16, 18:44:02",
-      "https://lobste.rs/s/c5akjg/subscription_bombing_email_under_attack"
-    ],
-    [
-      "Subscription Bombing: Email under Attack",
-      "https://cacm.acm.org/practice/subscription-bombing-email-under-attack/"
-    ]
-  ],
-  [
-    [
       "2026-05-16, 17:54:27",
       "https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really"
     ],
@@ -207,26 +227,6 @@
     [
       "Recent Kernel exploits, attack surface reduction, example IPSEC",
       "https://www.openwall.com/lists/oss-security/2026/05/16/3"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 13:36:08",
-      "https://lobste.rs/s/98momh/90_s_era_keygen_like_for_x11_for_unix_linux"
-    ],
-    [
-      "A 90's era Keygen-like for X11 for Unix/Linux",
-      "https://github.com/sbz/keygen"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 11:05:45",
-      "https://lobste.rs/s/budvjr/few_ways_specifying_per_theme_colours"
-    ],
-    [
-      "A few ways of specifying per-theme colours in only CSS",
-      "https://chrismorgan.info/css-themed-colours"
     ]
   ],
   [
