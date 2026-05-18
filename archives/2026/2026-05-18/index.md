@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 17:08:29](https://lobste.rs/s/qntbqq/git_blame_for_code_comprehension) - [Git blame for code comprehension](https://matklad.github.io/2026/05/18/always-be-blaming.html)
+* [2026-05-18, 16:33:33](https://lobste.rs/s/fkoh4s/how_select_mobile_os) - [How to select a mobile OS](https://blog.gridranger.dev/mobile-oses-featuring-fairphone-5/)
+* [2026-05-18, 16:05:34](https://lobste.rs/s/xc3bsr/implementation_select_go) - [The implementation of select in Go](https://internals-for-interns.com/posts/go-runtime-select/)
 * [2026-05-18, 15:41:09](https://lobste.rs/s/evwqcs/ai_agent_security_mit_6_566_guest_lecture) - [AI Agent Security - MIT 6.566 guest lecture](https://github.com/anishathalye/ai-agent-security-lecture)
 * [2026-05-18, 15:34:43](https://lobste.rs/s/4hnsdc/cross_document_view_transitions_gotchas) - [Cross-Document View Transitions: The Gotchas Nobody Mentions](https://css-tricks.com/cross-document-view-transitions-part-1/)
 * [2026-05-18, 15:00:12](https://lobste.rs/s/s3wqhi/linux_like_kernel_browser_tab_deep_dive) - [A Linux-like kernel in a browser tab - deep dive in the BrowserPod architecture](https://labs.leaningtech.com/blog/browserpod-deep-dive.html)
