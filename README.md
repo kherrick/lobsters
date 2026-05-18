@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-18, 10:25:30](https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week)
+* [2026-05-18, 09:51:24](https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama) - [Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6](http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html)
+* [2026-05-18, 09:30:30](https://lobste.rs/s/kpl98p/fedimeteo_haproxy_art_not_wasting_snac) - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/)
 * [2026-05-18, 06:42:29](https://lobste.rs/s/z306ya/occasional_econnreset) - [The occasional `ECONNRESET`](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
 * [2026-05-18, 06:35:14](https://lobste.rs/s/k6e1ma/calvin_determinism_distributed_acid) - [Calvin - Determinism, Distributed ACID transactions (2020)](https://www.mydistributed.systems/2020/08/calvin.html)
 * [2026-05-18, 04:28:13](https://lobste.rs/s/dvsuag/review_sylve_on_freebsd) - [Review: Sylve on FreeBSD](https://distrowatch.com/weekly-mobile.php?issue=20260518#sylve)
@@ -19,11 +22,8 @@
 * [2026-05-17, 12:58:13](https://lobste.rs/s/l34yuj/claude_code_managed_get_adobe_lightroom) - [Claude Code managed to get Adobe Lightroom working on Linux](https://github.com/sander110419/lightroom-cc-on-linux)
 * [2026-05-17, 12:57:07](https://lobste.rs/s/neclbs/native_all_way_until_you_need_text) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 * [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
-* [2026-05-17, 06:15:12](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
-* [2026-05-17, 03:20:45](https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
 * [2026-05-17, 00:20:51](https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today) - [Async I/O in Zig 0.16, today](https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
-* [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
 * [2026-05-16, 09:45:51](https://lobste.rs/s/4g74mw/ascetic_computing) - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
 
 ## [Archives](archives/index.md)
