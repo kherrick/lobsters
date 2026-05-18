@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-18, 17:08:29](https://lobste.rs/s/qntbqq/git_blame_for_code_comprehension) - [Git blame for code comprehension](https://matklad.github.io/2026/05/18/always-be-blaming.html)
+* [2026-05-18, 19:06:00](https://lobste.rs/s/mjblex/running_doom_on_e_coli_cells_very_very) - [Running ‘Doom’ on E. coli cells… very, very slowly](https://www.popsci.com/science/doom-e-coli-cells/)
+* [2026-05-18, 18:29:26](https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
+* [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
+* [2026-05-18, 18:27:37](https://lobste.rs/s/dysrh2/misconceptions_about_unix_philosophy) - [Misconceptions about the UNIX Philosophy (2024)](https://posixcafe.org/blogs/2024/01/05/0/)
 * [2026-05-18, 16:33:33](https://lobste.rs/s/fkoh4s/how_select_mobile_os) - [How to select a mobile OS](https://blog.gridranger.dev/mobile-oses-featuring-fairphone-5/)
 * [2026-05-18, 16:05:34](https://lobste.rs/s/xc3bsr/implementation_select_go) - [The implementation of select in Go](https://internals-for-interns.com/posts/go-runtime-select/)
 * [2026-05-18, 15:41:09](https://lobste.rs/s/evwqcs/ai_agent_security_mit_6_566_guest_lecture) - [AI Agent Security - MIT 6.566 guest lecture](https://github.com/anishathalye/ai-agent-security-lecture)
@@ -11,8 +14,6 @@
 * [2026-05-18, 09:51:24](https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama) - [Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6](http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html)
 * [2026-05-18, 09:30:30](https://lobste.rs/s/kpl98p/fedimeteo_haproxy_art_not_wasting_snac) - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/)
 * [2026-05-18, 06:42:29](https://lobste.rs/s/z306ya/occasional_econnreset) - [The occasional `ECONNRESET`](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
-* [2026-05-18, 06:35:14](https://lobste.rs/s/k6e1ma/calvin_determinism_distributed_acid) - [Calvin - Determinism, Distributed ACID transactions (2020)](https://www.mydistributed.systems/2020/08/calvin.html)
-* [2026-05-18, 04:28:13](https://lobste.rs/s/dvsuag/review_sylve_on_freebsd) - [Review: Sylve on FreeBSD](https://distrowatch.com/weekly-mobile.php?issue=20260518#sylve)
 * [2026-05-18, 04:22:48](https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github) - [spr: Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)
 * [2026-05-18, 03:06:03](https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly) - [Researcher says Microsoft secretly built a backdoor into BitLocker](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 * [2026-05-18, 02:13:10](https://lobste.rs/s/b5hrqb/reverse_engineering_android_malware) - [Reverse engineering Android malware with Claude Code](https://zanestjohn.com/blog/reing-with-claude-code)
@@ -23,7 +24,6 @@
 * [2026-05-17, 16:28:54](https://lobste.rs/s/dt92ad/don_t_answer_first_question) - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
 * [2026-05-17, 15:40:32](https://lobste.rs/s/6fc7qu/reviewing_so_called_pull_requests_at) - [Reviewing so called Pull Requests at $dayjob](https://rkta.de/dayjob-pr-review.html)
 * [2026-05-17, 15:28:30](https://lobste.rs/s/huqdtj/coding_on_paper) - [Coding on Paper](https://wickstrom.tech/2026-05-16-coding-on-paper.html)
-* [2026-05-17, 12:58:13](https://lobste.rs/s/l34yuj/claude_code_managed_get_adobe_lightroom) - [Claude Code managed to get Adobe Lightroom working on Linux](https://github.com/sander110419/lightroom-cc-on-linux)
 * [2026-05-17, 12:57:07](https://lobste.rs/s/neclbs/native_all_way_until_you_need_text) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 
 ## [Archives](archives/index.md)

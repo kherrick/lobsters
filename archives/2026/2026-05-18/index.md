@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 19:06:00](https://lobste.rs/s/mjblex/running_doom_on_e_coli_cells_very_very) - [Running ‘Doom’ on E. coli cells… very, very slowly](https://www.popsci.com/science/doom-e-coli-cells/)
+* [2026-05-18, 18:29:26](https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
+* [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
+* [2026-05-18, 18:27:37](https://lobste.rs/s/dysrh2/misconceptions_about_unix_philosophy) - [Misconceptions about the UNIX Philosophy (2024)](https://posixcafe.org/blogs/2024/01/05/0/)
 * [2026-05-18, 17:08:29](https://lobste.rs/s/qntbqq/git_blame_for_code_comprehension) - [Git blame for code comprehension](https://matklad.github.io/2026/05/18/always-be-blaming.html)
 * [2026-05-18, 16:33:33](https://lobste.rs/s/fkoh4s/how_select_mobile_os) - [How to select a mobile OS](https://blog.gridranger.dev/mobile-oses-featuring-fairphone-5/)
 * [2026-05-18, 16:05:34](https://lobste.rs/s/xc3bsr/implementation_select_go) - [The implementation of select in Go](https://internals-for-interns.com/posts/go-runtime-select/)
