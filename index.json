@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-18, 10:25:30",
+      "https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 09:51:24",
+      "https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama"
+    ],
+    [
+      "Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6",
+      "http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 09:30:30",
+      "https://lobste.rs/s/kpl98p/fedimeteo_haproxy_art_not_wasting_snac"
+    ],
+    [
+      "FediMeteo, HAProxy, and the art of not wasting snac threads",
+      "https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 06:42:29",
       "https://lobste.rs/s/z306ya/occasional_econnreset"
     ],
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2026-05-17, 06:15:12",
-      "https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is"
-    ],
-    [
-      "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "https://www.seangoedecke.com/steering-vectors/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 03:20:45",
-      "https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket"
-    ],
-    [
-      "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "https://hyperpolyglot.org/lisp"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 00:20:51",
       "https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today"
     ],
@@ -227,16 +237,6 @@
     [
       "The Futility of Lava Lamps: What Random Really Means",
       "https://loup-vaillant.fr/articles/lava-lamps-and-randomness"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 14:18:47",
-      "https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface"
-    ],
-    [
-      "Recent Kernel exploits, attack surface reduction, example IPSEC",
-      "https://www.openwall.com/lists/oss-security/2026/05/16/3"
     ]
   ],
   [
