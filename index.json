@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-18, 06:42:29",
+      "https://lobste.rs/s/z306ya/occasional_econnreset"
+    ],
+    [
+      "The occasional `ECONNRESET`",
+      "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 06:35:14",
+      "https://lobste.rs/s/k6e1ma/calvin_determinism_distributed_acid"
+    ],
+    [
+      "Calvin - Determinism, Distributed ACID transactions (2020)",
+      "https://www.mydistributed.systems/2020/08/calvin.html"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 04:28:13",
       "https://lobste.rs/s/dvsuag/review_sylve_on_freebsd"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-17, 01:14:20",
-      "https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers"
-    ],
-    [
-      "The Tomy Tutor and the state of 1983 home computers",
-      "http://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 00:20:51",
       "https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today"
     ],
@@ -227,16 +237,6 @@
     [
       "Recent Kernel exploits, attack surface reduction, example IPSEC",
       "https://www.openwall.com/lists/oss-security/2026/05/16/3"
-    ]
-  ],
-  [
-    [
-      "2026-05-16, 10:26:03",
-      "https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite"
-    ],
-    [
-      "My Thoughts on Bun's Rust Rewrite",
-      "https://en.liujiacai.net/2026/05/16/bun-rust-port/"
     ]
   ],
   [
