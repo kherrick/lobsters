@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-05-18, 00:28:51",
+      "https://lobste.rs/s/eeqdfc/rust_async_arm_generic_timer"
+    ],
+    [
+      "Rust async and the ARM generic timer",
+      "https://thejpster.org.uk/blog/blog-2026-05-17/"
+    ]
+  ],
+  [
+    [
+      "2026-05-17, 23:41:06",
+      "https://lobste.rs/s/96kz5p/may_i_recommend_eww_for_emacs_s_innovative"
+    ],
+    [
+      "May I recommend eww for Emacs’s innovative UI?",
+      "https://www.matem.unam.mx/~omar/apropos-emacs.html#may-i-recommend-eww-for-emacs-innovative-ui"
+    ]
+  ],
+  [
+    [
       "2026-05-17, 21:14:23",
       "https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small"
     ],
     [
       "Fits on a Floppy - A Manifesto for Small Software",
       "https://fitsonafloppy.com"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 20:19:33",
-      "https://lobste.rs/s/p0ok2r/postmarketos_2026_04_new_boot_splash"
-    ],
-    [
-      "postmarketOS in 2026-04: new boot splash",
-      "https://postmarketos.org/blog/2026/05/10/pmOS-update-2026-04/"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Bitsocial: Open Source P2P Network for Social Apps",
       "https://bitsocial.net/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 16:44:35",
-      "https://lobste.rs/s/vsrtfq/designing_scientific_calculator_from"
-    ],
-    [
-      "Designing a Scientific Calculator from scratch in FPGA",
-      "https://baltazarstudios.com/calculator/"
     ]
   ],
   [
