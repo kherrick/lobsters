@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-18, 20:16:05",
+      "https://lobste.rs/s/saldxa/cargo_crap_finding_untested_complexity"
+    ],
+    [
+      "cargo-crap: Finding Untested Complexity in AI-Generated Rust Code",
+      "https://minikin.me/blog/cargo-crap/"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 19:06:00",
       "https://lobste.rs/s/mjblex/running_doom_on_e_coli_cells_very_very"
     ],
@@ -37,6 +47,16 @@
     [
       "Misconceptions about the UNIX Philosophy (2024)",
       "https://posixcafe.org/blogs/2024/01/05/0/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 17:08:29",
+      "https://lobste.rs/s/qntbqq/git_blame_for_code_comprehension"
+    ],
+    [
+      "Git blame for code comprehension",
+      "https://matklad.github.io/2026/05/18/always-be-blaming.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-05-18, 04:22:48",
-      "https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github"
-    ],
-    [
-      "spr: Stacked Pull Requests on GitHub",
-      "https://github.com/ejoffe/spr"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 03:06:03",
       "https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly"
     ],
@@ -167,16 +177,6 @@
     [
       "Reverse engineering Android malware with Claude Code",
       "https://zanestjohn.com/blog/reing-with-claude-code"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 00:28:51",
-      "https://lobste.rs/s/eeqdfc/rust_async_arm_generic_timer"
-    ],
-    [
-      "Rust async and the ARM generic timer",
-      "https://thejpster.org.uk/blog/blog-2026-05-17/"
     ]
   ],
   [
