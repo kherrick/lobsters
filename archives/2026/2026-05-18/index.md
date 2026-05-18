@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 06:42:29](https://lobste.rs/s/z306ya/occasional_econnreset) - [The occasional `ECONNRESET`](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
+* [2026-05-18, 06:35:14](https://lobste.rs/s/k6e1ma/calvin_determinism_distributed_acid) - [Calvin - Determinism, Distributed ACID transactions (2020)](https://www.mydistributed.systems/2020/08/calvin.html)
 * [2026-05-18, 04:28:13](https://lobste.rs/s/dvsuag/review_sylve_on_freebsd) - [Review: Sylve on FreeBSD](https://distrowatch.com/weekly-mobile.php?issue=20260518#sylve)
 * [2026-05-18, 04:22:48](https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github) - [spr: Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)
 * [2026-05-18, 03:06:03](https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly) - [Researcher says Microsoft secretly built a backdoor into BitLocker](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)

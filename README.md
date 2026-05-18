@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-18, 06:42:29](https://lobste.rs/s/z306ya/occasional_econnreset) - [The occasional `ECONNRESET`](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
+* [2026-05-18, 06:35:14](https://lobste.rs/s/k6e1ma/calvin_determinism_distributed_acid) - [Calvin - Determinism, Distributed ACID transactions (2020)](https://www.mydistributed.systems/2020/08/calvin.html)
 * [2026-05-18, 04:28:13](https://lobste.rs/s/dvsuag/review_sylve_on_freebsd) - [Review: Sylve on FreeBSD](https://distrowatch.com/weekly-mobile.php?issue=20260518#sylve)
 * [2026-05-18, 04:22:48](https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github) - [spr: Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)
 * [2026-05-18, 03:06:03](https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly) - [Researcher says Microsoft secretly built a backdoor into BitLocker](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
@@ -19,11 +21,9 @@
 * [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
 * [2026-05-17, 06:15:12](https://lobste.rs/s/wycfiy/deepseek_v4_flash_means_llm_steering_is) - [DeepSeek-V4-Flash means LLM steering is interesting again](https://www.seangoedecke.com/steering-vectors/)
 * [2026-05-17, 03:20:45](https://lobste.rs/s/dg2sx7/hyperpolyglot_lisp_common_lisp_racket) - [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](https://hyperpolyglot.org/lisp)
-* [2026-05-17, 01:14:20](https://lobste.rs/s/9ro8pd/tomy_tutor_state_1983_home_computers) - [The Tomy Tutor and the state of 1983 home computers](http://oldvcr.blogspot.com/2026/05/the-tomy-tutor-and-state-of-1983-home.html)
 * [2026-05-17, 00:20:51](https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today) - [Async I/O in Zig 0.16, today](https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html)
 * [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
 * [2026-05-16, 14:18:47](https://lobste.rs/s/kep6ok/recent_kernel_exploits_attack_surface) - [Recent Kernel exploits, attack surface reduction, example IPSEC](https://www.openwall.com/lists/oss-security/2026/05/16/3)
-* [2026-05-16, 10:26:03](https://lobste.rs/s/idx42n/my_thoughts_on_bun_s_rust_rewrite) - [My Thoughts on Bun's Rust Rewrite](https://en.liujiacai.net/2026/05/16/bun-rust-port/)
 * [2026-05-16, 09:45:51](https://lobste.rs/s/4g74mw/ascetic_computing) - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
 
 ## [Archives](archives/index.md)
