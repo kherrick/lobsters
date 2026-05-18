@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-18, 23:04:25",
+      "https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based"
+    ],
+    [
+      "Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative",
+      "https://casuarina.org/news/introducing-casuarina-linux/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 22:24:09",
+      "https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3"
+    ],
+    [
+      "Comprehensive Response to Bambu's AGPLv3 Violations",
+      "https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 22:20:51",
+      "https://lobste.rs/s/vypafm/cisa_admin_leaked_aws_govcloud_keys_on"
+    ],
+    [
+      "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 21:42:46",
       "https://lobste.rs/s/ac0akx/programming_as_theory_building_1985"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-05-18, 15:41:09",
-      "https://lobste.rs/s/evwqcs/ai_agent_security_mit_6_566_guest_lecture"
-    ],
-    [
-      "AI Agent Security - MIT 6.566 guest lecture",
-      "https://github.com/anishathalye/ai-agent-security-lecture"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 15:00:12",
       "https://lobste.rs/s/s3wqhi/linux_like_kernel_browser_tab_deep_dive"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-05-18, 02:13:10",
-      "https://lobste.rs/s/b5hrqb/reverse_engineering_android_malware"
-    ],
-    [
-      "Reverse engineering Android malware with Claude Code",
-      "https://zanestjohn.com/blog/reing-with-claude-code"
-    ]
-  ],
-  [
-    [
       "2026-05-17, 23:41:06",
       "https://lobste.rs/s/96kz5p/may_i_recommend_eww_for_emacs_s_innovative"
     ],
@@ -227,16 +237,6 @@
     [
       "Don't answer the first question",
       "https://lalitm.com/post/dont-answer-the-first-question/"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 15:28:30",
-      "https://lobste.rs/s/huqdtj/coding_on_paper"
-    ],
-    [
-      "Coding on Paper",
-      "https://wickstrom.tech/2026-05-16-coding-on-paper.html"
     ]
   ],
   [
