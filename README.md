@@ -1,5 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-18, 15:41:09](https://lobste.rs/s/evwqcs/ai_agent_security_mit_6_566_guest_lecture) - [AI Agent Security - MIT 6.566 guest lecture](https://github.com/anishathalye/ai-agent-security-lecture)
+* [2026-05-18, 15:34:43](https://lobste.rs/s/4hnsdc/cross_document_view_transitions_gotchas) - [Cross-Document View Transitions: The Gotchas Nobody Mentions](https://css-tricks.com/cross-document-view-transitions-part-1/)
+* [2026-05-18, 15:00:12](https://lobste.rs/s/s3wqhi/linux_like_kernel_browser_tab_deep_dive) - [A Linux-like kernel in a browser tab - deep dive in the BrowserPod architecture](https://labs.leaningtech.com/blog/browserpod-deep-dive.html)
+* [2026-05-18, 13:55:20](https://lobste.rs/s/lynqdm/de_bloating_javascript) - [De‐bloating Javascript](https://github.com/naver/lispe/wiki/6.23-De%E2%80%90bloating-Javascript)
+* [2026-05-18, 12:40:10](https://lobste.rs/s/akooh9/16_byte_x86_demo_matrix_rain_with_sound) - [A 16-byte x86 demo: Matrix rain with sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
 * [2026-05-18, 10:25:30](https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week)
 * [2026-05-18, 09:51:24](https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama) - [Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6](http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html)
 * [2026-05-18, 09:30:30](https://lobste.rs/s/kpl98p/fedimeteo_haproxy_art_not_wasting_snac) - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/)
@@ -9,7 +14,6 @@
 * [2026-05-18, 04:22:48](https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github) - [spr: Stacked Pull Requests on GitHub](https://github.com/ejoffe/spr)
 * [2026-05-18, 03:06:03](https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly) - [Researcher says Microsoft secretly built a backdoor into BitLocker](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
 * [2026-05-18, 02:13:10](https://lobste.rs/s/b5hrqb/reverse_engineering_android_malware) - [Reverse engineering Android malware with Claude Code](https://zanestjohn.com/blog/reing-with-claude-code)
-* [2026-05-18, 01:46:23](https://lobste.rs/s/61uxxo/reversing_grateful_dead_d2s2_on_mac_2022) - [Reversing ‘Grateful Dead: D2S2’ on Mac (2022)](https://blog.os9.ca/2022/04/21/001-reversing-grateful-dead-d2s2/)
 * [2026-05-18, 00:28:51](https://lobste.rs/s/eeqdfc/rust_async_arm_generic_timer) - [Rust async and the ARM generic timer](https://thejpster.org.uk/blog/blog-2026-05-17/)
 * [2026-05-17, 23:41:06](https://lobste.rs/s/96kz5p/may_i_recommend_eww_for_emacs_s_innovative) - [May I recommend eww for Emacs’s innovative UI?](https://www.matem.unam.mx/~omar/apropos-emacs.html#may-i-recommend-eww-for-emacs-innovative-ui)
 * [2026-05-17, 21:14:23](https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small) - [Fits on a Floppy - A Manifesto for Small Software](https://fitsonafloppy.com)
@@ -21,10 +25,6 @@
 * [2026-05-17, 15:28:30](https://lobste.rs/s/huqdtj/coding_on_paper) - [Coding on Paper](https://wickstrom.tech/2026-05-16-coding-on-paper.html)
 * [2026-05-17, 12:58:13](https://lobste.rs/s/l34yuj/claude_code_managed_get_adobe_lightroom) - [Claude Code managed to get Adobe Lightroom working on Linux](https://github.com/sander110419/lightroom-cc-on-linux)
 * [2026-05-17, 12:57:07](https://lobste.rs/s/neclbs/native_all_way_until_you_need_text) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
-* [2026-05-17, 12:03:58](https://lobste.rs/s/btrxft/go_european_discover_european_products) - [Go European — Discover European products and services](https://www.goeuropean.org/)
-* [2026-05-17, 00:20:51](https://lobste.rs/s/1udl0j/async_i_o_zig_0_16_today) - [Async I/O in Zig 0.16, today](https://lalinsky.com/2026/05/11/async-io-in-zig-016-today.html)
-* [2026-05-16, 17:54:27](https://lobste.rs/s/obxoph/futility_lava_lamps_what_random_really) - [The Futility of Lava Lamps: What Random Really Means](https://loup-vaillant.fr/articles/lava-lamps-and-randomness)
-* [2026-05-16, 09:45:51](https://lobste.rs/s/4g74mw/ascetic_computing) - [Ascetic Computing](https://ratfactor.com/ascetic-computing)
 
 ## [Archives](archives/index.md)
 

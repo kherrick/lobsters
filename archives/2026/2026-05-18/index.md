@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 15:41:09](https://lobste.rs/s/evwqcs/ai_agent_security_mit_6_566_guest_lecture) - [AI Agent Security - MIT 6.566 guest lecture](https://github.com/anishathalye/ai-agent-security-lecture)
+* [2026-05-18, 15:34:43](https://lobste.rs/s/4hnsdc/cross_document_view_transitions_gotchas) - [Cross-Document View Transitions: The Gotchas Nobody Mentions](https://css-tricks.com/cross-document-view-transitions-part-1/)
+* [2026-05-18, 15:00:12](https://lobste.rs/s/s3wqhi/linux_like_kernel_browser_tab_deep_dive) - [A Linux-like kernel in a browser tab - deep dive in the BrowserPod architecture](https://labs.leaningtech.com/blog/browserpod-deep-dive.html)
+* [2026-05-18, 13:55:20](https://lobste.rs/s/lynqdm/de_bloating_javascript) - [De‐bloating Javascript](https://github.com/naver/lispe/wiki/6.23-De%E2%80%90bloating-Javascript)
+* [2026-05-18, 12:40:10](https://lobste.rs/s/akooh9/16_byte_x86_demo_matrix_rain_with_sound) - [A 16-byte x86 demo: Matrix rain with sound](https://hellmood.111mb.de//wake_up_16b_writeup.html)
 * [2026-05-18, 10:25:30](https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wiwqnw/what_are_you_doing_this_week)
 * [2026-05-18, 09:51:24](https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama) - [Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6](http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html)
 * [2026-05-18, 09:30:30](https://lobste.rs/s/kpl98p/fedimeteo_haproxy_art_not_wasting_snac) - [FediMeteo, HAProxy, and the art of not wasting snac threads](https://it-notes.dragas.net/2026/05/18/fedimeteo-haproxy-and-the-art-of-not-wasting-snac-threads/)
