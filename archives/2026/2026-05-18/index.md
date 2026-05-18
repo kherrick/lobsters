@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-18](index.md)
 
+* [2026-05-18, 23:04:25](https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based) - [Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative](https://casuarina.org/news/introducing-casuarina-linux/)
+* [2026-05-18, 22:24:09](https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3) - [Comprehensive Response to Bambu's AGPLv3 Violations](https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/)
+* [2026-05-18, 22:20:51](https://lobste.rs/s/vypafm/cisa_admin_leaked_aws_govcloud_keys_on) - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [2026-05-18, 21:42:46](https://lobste.rs/s/ac0akx/programming_as_theory_building_1985) - [Programming as Theory Building (1985)](https://gwern.net/doc/cs/algorithm/1985-naur.pdf)
 * [2026-05-18, 21:07:08](https://lobste.rs/s/5mnt43/fil_c_optimized_calling_convention) - [The Fil-C Optimized Calling Convention](https://fil-c.org/calling_convention)
 * [2026-05-18, 20:16:05](https://lobste.rs/s/saldxa/cargo_crap_finding_untested_complexity) - [cargo-crap: Finding Untested Complexity in AI-Generated Rust Code](https://minikin.me/blog/cargo-crap/)
