@@ -1,12 +1,42 @@
 [
   [
     [
-      "2026-05-18, 17:08:29",
-      "https://lobste.rs/s/qntbqq/git_blame_for_code_comprehension"
+      "2026-05-18, 19:06:00",
+      "https://lobste.rs/s/mjblex/running_doom_on_e_coli_cells_very_very"
     ],
     [
-      "Git blame for code comprehension",
-      "https://matklad.github.io/2026/05/18/always-be-blaming.html"
+      "Running ‘Doom’ on E. coli cells… very, very slowly",
+      "https://www.popsci.com/science/doom-e-coli-cells/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:29:26",
+      "https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now"
+    ],
+    [
+      "Haiku OS runs on M1 Macs now",
+      "https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:28:13",
+      "https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden"
+    ],
+    [
+      "The Quiet Renovation at Bitwarden",
+      "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden"
+    ]
+  ],
+  [
+    [
+      "2026-05-18, 18:27:37",
+      "https://lobste.rs/s/dysrh2/misconceptions_about_unix_philosophy"
+    ],
+    [
+      "Misconceptions about the UNIX Philosophy (2024)",
+      "https://posixcafe.org/blogs/2024/01/05/0/"
     ]
   ],
   [
@@ -111,26 +141,6 @@
   ],
   [
     [
-      "2026-05-18, 06:35:14",
-      "https://lobste.rs/s/k6e1ma/calvin_determinism_distributed_acid"
-    ],
-    [
-      "Calvin - Determinism, Distributed ACID transactions (2020)",
-      "https://www.mydistributed.systems/2020/08/calvin.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 04:28:13",
-      "https://lobste.rs/s/dvsuag/review_sylve_on_freebsd"
-    ],
-    [
-      "Review: Sylve on FreeBSD",
-      "https://distrowatch.com/weekly-mobile.php?issue=20260518#sylve"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 04:22:48",
       "https://lobste.rs/s/txnyjt/spr_stacked_pull_requests_on_github"
     ],
@@ -227,16 +237,6 @@
     [
       "Coding on Paper",
       "https://wickstrom.tech/2026-05-16-coding-on-paper.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-17, 12:58:13",
-      "https://lobste.rs/s/l34yuj/claude_code_managed_get_adobe_lightroom"
-    ],
-    [
-      "Claude Code managed to get Adobe Lightroom working on Linux",
-      "https://github.com/sander110419/lightroom-cc-on-linux"
     ]
   ],
   [
