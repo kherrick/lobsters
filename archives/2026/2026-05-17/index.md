@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-17](index.md)
 
+* [2026-05-17, 23:41:06](https://lobste.rs/s/96kz5p/may_i_recommend_eww_for_emacs_s_innovative) - [May I recommend eww for Emacs’s innovative UI?](https://www.matem.unam.mx/~omar/apropos-emacs.html#may-i-recommend-eww-for-emacs-innovative-ui)
 * [2026-05-17, 21:14:23](https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small) - [Fits on a Floppy - A Manifesto for Small Software](https://fitsonafloppy.com)
 * [2026-05-17, 20:19:33](https://lobste.rs/s/p0ok2r/postmarketos_2026_04_new_boot_splash) - [postmarketOS in 2026-04: new boot splash](https://postmarketos.org/blog/2026/05/10/pmOS-update-2026-04/)
 * [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
