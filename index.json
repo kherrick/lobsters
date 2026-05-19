@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-19, 20:06:09",
+      "https://lobste.rs/s/2fqahd/i_am_not_software_engineer"
+    ],
+    [
+      "I am not a Software Engineer",
+      "https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 19:24:51",
+      "https://lobste.rs/s/z2pm16/pgbackrest_with_continue"
+    ],
+    [
+      "pgBackRest with continue",
+      "https://pgbackrest.org/news.html#will-continue"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 18:45:35",
       "https://lobste.rs/s/wefsg8/pokemon_compression_myth"
     ],
@@ -17,16 +37,6 @@
     [
       "Better generated branch names with jj",
       "https://ddbeck.com/notes/jj-git-push-bookmark-template/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 16:22:32",
-      "https://lobste.rs/s/rqhxpk/human_bottlenecks"
-    ],
-    [
-      "Human Bottlenecks",
-      "https://borretti.me/article/human-bottlenecks"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The just-say-no engineer was a ZIRP phenomenon",
       "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 21:07:08",
-      "https://lobste.rs/s/5mnt43/fil_c_optimized_calling_convention"
-    ],
-    [
-      "The Fil-C Optimized Calling Convention",
-      "https://fil-c.org/calling_convention"
     ]
   ],
   [
