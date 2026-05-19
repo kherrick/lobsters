@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-19, 05:44:18](https://lobste.rs/s/4bixij/end_semester) - [End of the semester](https://mtendekuyokwa.github.io/blog/end-of-semester/)
 * [2026-05-19, 04:02:31](https://lobste.rs/s/efrtxm/using_algebra_llms_verify_flight_plan_bug) - [Using algebra and LLMs to verify a flight-plan bug fix in Lean](https://jameshaydon.github.io/algebra-llms-lean-flight-plan/)
 * [2026-05-19, 02:46:09](https://lobste.rs/s/q1m7cr/spork_posix_spawn_you_can_use_as_fork) - [Spork: A posix_spawn you can use as a fork](https://dl.acm.org/doi/pdf/10.1145/3713082.3730396)
 * [2026-05-18, 23:04:25](https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based) - [Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative](https://casuarina.org/news/introducing-casuarina-linux/)
@@ -10,7 +11,6 @@
 * [2026-05-18, 21:07:08](https://lobste.rs/s/5mnt43/fil_c_optimized_calling_convention) - [The Fil-C Optimized Calling Convention](https://fil-c.org/calling_convention)
 * [2026-05-18, 20:16:05](https://lobste.rs/s/saldxa/cargo_crap_finding_untested_complexity) - [cargo-crap: Finding Untested Complexity in AI-Generated Rust Code](https://minikin.me/blog/cargo-crap/)
 * [2026-05-18, 19:56:26](https://lobste.rs/s/g20jxv/bournegol_2014) - [Bournegol (2014)](https://oldhome.schmorp.de/marc/bournegol.html)
-* [2026-05-18, 19:06:00](https://lobste.rs/s/mjblex/running_doom_on_e_coli_cells_very_very) - [Running ‘Doom’ on E. coli cells… very, very slowly](https://www.popsci.com/science/doom-e-coli-cells/)
 * [2026-05-18, 18:29:26](https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
 * [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
 * [2026-05-18, 18:27:37](https://lobste.rs/s/dysrh2/misconceptions_about_unix_philosophy) - [Misconceptions about the UNIX Philosophy (2024)](https://posixcafe.org/blogs/2024/01/05/0/)
