@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 20:55:03](https://lobste.rs/s/ihqekl/chasing_down_why_installing_kernel) - [Chasing down why installing the kernel segfaulted](https://sporks.space/2026/05/19/chasing-down-why-installing-the-kernel-segfaulted/)
 * [2026-05-19, 20:06:09](https://lobste.rs/s/2fqahd/i_am_not_software_engineer) - [I am not a Software Engineer](https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/)
 * [2026-05-19, 19:24:51](https://lobste.rs/s/z2pm16/pgbackrest_with_continue) - [pgBackRest with continue](https://pgbackrest.org/news.html#will-continue)
 * [2026-05-19, 18:45:35](https://lobste.rs/s/wefsg8/pokemon_compression_myth) - [Pokemon compression myth](https://www.reddit.com/r/TruePokemon/comments/hwluk9/while_it_is_true_that_iwata_did_write_a_new/)
+* [2026-05-19, 17:45:33](https://lobste.rs/s/raxtyp/pintheft_linux_lpe) - [PinTheft Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/19/6)
 * [2026-05-19, 17:02:39](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj) - [Better generated branch names with jj](https://ddbeck.com/notes/jj-git-push-bookmark-template/)
 * [2026-05-19, 16:22:32](https://lobste.rs/s/rqhxpk/human_bottlenecks) - [Human Bottlenecks](https://borretti.me/article/human-bottlenecks)
 * [2026-05-19, 15:43:19](https://lobste.rs/s/maqmo2/how_we_used_quint_find_over_10_bugs_sqlite) - [How we used Quint to find over 10 bugs in SQLite while hardening Turso](https://turso.tech/blog/how-we-used-quint-to-find-over-10-bugs-in-sqlite)
