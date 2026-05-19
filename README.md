@@ -1,9 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-19, 04:02:31](https://lobste.rs/s/efrtxm/using_algebra_llms_verify_flight_plan_bug) - [Using algebra and LLMs to verify a flight-plan bug fix in Lean](https://jameshaydon.github.io/algebra-llms-lean-flight-plan/)
+* [2026-05-19, 02:46:09](https://lobste.rs/s/q1m7cr/spork_posix_spawn_you_can_use_as_fork) - [Spork: A posix_spawn you can use as a fork](https://dl.acm.org/doi/pdf/10.1145/3713082.3730396)
 * [2026-05-18, 23:04:25](https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based) - [Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative](https://casuarina.org/news/introducing-casuarina-linux/)
 * [2026-05-18, 22:24:09](https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3) - [Comprehensive Response to Bambu's AGPLv3 Violations](https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/)
 * [2026-05-18, 22:20:51](https://lobste.rs/s/vypafm/cisa_admin_leaked_aws_govcloud_keys_on) - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 * [2026-05-18, 21:42:46](https://lobste.rs/s/ac0akx/programming_as_theory_building_1985) - [Programming as Theory Building (1985)](https://gwern.net/doc/cs/algorithm/1985-naur.pdf)
+* [2026-05-18, 21:15:33](https://lobste.rs/s/i2szle/just_say_no_engineer_was_zirp_phenomenon) - [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
 * [2026-05-18, 21:07:08](https://lobste.rs/s/5mnt43/fil_c_optimized_calling_convention) - [The Fil-C Optimized Calling Convention](https://fil-c.org/calling_convention)
 * [2026-05-18, 20:16:05](https://lobste.rs/s/saldxa/cargo_crap_finding_untested_complexity) - [cargo-crap: Finding Untested Complexity in AI-Generated Rust Code](https://minikin.me/blog/cargo-crap/)
 * [2026-05-18, 19:56:26](https://lobste.rs/s/g20jxv/bournegol_2014) - [Bournegol (2014)](https://oldhome.schmorp.de/marc/bournegol.html)
@@ -20,11 +23,8 @@
 * [2026-05-18, 09:51:24](https://lobste.rs/s/ap9dum/find_bugs_your_code_using_opencode_llama) - [Find bugs in YOUR code using OpenCode, Llama.cpp and Qwen3.6](http://wtarreau.blogspot.com/2026/05/find-bugs-in-your-code-using-opencode.html)
 * [2026-05-18, 06:42:29](https://lobste.rs/s/z306ya/occasional_econnreset) - [The occasional `ECONNRESET`](https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html)
 * [2026-05-18, 03:06:03](https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly) - [Researcher says Microsoft secretly built a backdoor into BitLocker](https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html)
-* [2026-05-17, 23:41:06](https://lobste.rs/s/96kz5p/may_i_recommend_eww_for_emacs_s_innovative) - [May I recommend eww for Emacs’s innovative UI?](https://www.matem.unam.mx/~omar/apropos-emacs.html#may-i-recommend-eww-for-emacs-innovative-ui)
-* [2026-05-17, 21:14:23](https://lobste.rs/s/sdylhl/fits_on_floppy_manifesto_for_small) - [Fits on a Floppy - A Manifesto for Small Software](https://fitsonafloppy.com)
 * [2026-05-17, 18:36:41](https://lobste.rs/s/03djyt/new_design_for_freebsd_website) - [New design for the FreeBSD website](https://www.freebsd.org/)
 * [2026-05-17, 16:28:54](https://lobste.rs/s/dt92ad/don_t_answer_first_question) - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
-* [2026-05-17, 12:57:07](https://lobste.rs/s/neclbs/native_all_way_until_you_need_text) - [Native all the way, until you need text](https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/)
 
 ## [Archives](archives/index.md)
 
