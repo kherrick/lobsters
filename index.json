@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2026-05-18, 19:56:26",
+      "https://lobste.rs/s/g20jxv/bournegol_2014"
+    ],
+    [
+      "Bournegol (2014)",
+      "https://oldhome.schmorp.de/marc/bournegol.html"
+    ]
+  ],
+  [
+    [
       "2026-05-18, 19:06:00",
       "https://lobste.rs/s/mjblex/running_doom_on_e_coli_cells_very_very"
     ],
@@ -117,16 +127,6 @@
     [
       "How to select a mobile OS",
       "https://blog.gridranger.dev/mobile-oses-featuring-fairphone-5/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 16:05:34",
-      "https://lobste.rs/s/xc3bsr/implementation_select_go"
-    ],
-    [
-      "The implementation of select in Go",
-      "https://internals-for-interns.com/posts/go-runtime-select/"
     ]
   ],
   [
