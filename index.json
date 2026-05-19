@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-19, 18:45:35",
+      "https://lobste.rs/s/wefsg8/pokemon_compression_myth"
+    ],
+    [
+      "Pokemon compression myth",
+      "https://www.reddit.com/r/TruePokemon/comments/hwluk9/while_it_is_true_that_iwata_did_write_a_new/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 17:02:39",
+      "https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj"
+    ],
+    [
+      "Better generated branch names with jj",
+      "https://ddbeck.com/notes/jj-git-push-bookmark-template/"
+    ]
+  ],
+  [
+    [
+      "2026-05-19, 16:22:32",
+      "https://lobste.rs/s/rqhxpk/human_bottlenecks"
+    ],
+    [
+      "Human Bottlenecks",
+      "https://borretti.me/article/human-bottlenecks"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 15:43:19",
       "https://lobste.rs/s/maqmo2/how_we_used_quint_find_over_10_bugs_sqlite"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2026-05-18, 18:27:37",
-      "https://lobste.rs/s/dysrh2/misconceptions_about_unix_philosophy"
-    ],
-    [
-      "Misconceptions about the UNIX Philosophy (2024)",
-      "https://posixcafe.org/blogs/2024/01/05/0/"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 13:55:20",
       "https://lobste.rs/s/lynqdm/de_bloating_javascript"
     ],
     [
       "De‐bloating Javascript",
       "https://github.com/naver/lispe/wiki/6.23-De%E2%80%90bloating-Javascript"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 12:40:10",
-      "https://lobste.rs/s/akooh9/16_byte_x86_demo_matrix_rain_with_sound"
-    ],
-    [
-      "A 16-byte x86 demo: Matrix rain with sound",
-      "https://hellmood.111mb.de//wake_up_16b_writeup.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 03:06:03",
-      "https://lobste.rs/s/ynxkj6/researcher_says_microsoft_secretly"
-    ],
-    [
-      "Researcher says Microsoft secretly built a backdoor into BitLocker",
-      "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html"
     ]
   ]
 ]
