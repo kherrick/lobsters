@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-19](index.md)
 
+* [2026-05-19, 13:50:35](https://lobste.rs/s/pk139i/super_tiny_compiler_ada) - [The Super Tiny Compiler, but in Ada](https://github.com/tomekw/stcc)
+* [2026-05-19, 13:30:09](https://lobste.rs/s/wwcjoc/openbsd_7_9_released) - [OpenBSD 7.9 released](https://www.openbsd.org/79.html)
+* [2026-05-19, 12:53:39](https://lobste.rs/s/prer9l/software_s_centaur_era) - [Software's Centaur Era](https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html)
+* [2026-05-19, 12:29:28](https://lobste.rs/s/zsjasr/my_domain_got_abused_on_github_pages) - [My domain got abused on Github Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
+* [2026-05-19, 11:52:27](https://lobste.rs/s/syambe/unreasonable_effectiveness) - [The Unreasonable Effectiveness of ProseMirror Model in Rich Text Transformation](https://smoores.dev/post/unreasonable_effectiveness_of_prosemirror/)
 * [2026-05-19, 09:50:49](https://lobste.rs/s/hpoydf/windows_dll_loader_lock_how_rust_thread) - [The Windows DLL loader lock: how a Rust thread can hang your JVM](https://questdb.com/blog/windows-dll-loader-lock-rust-jni-deadlock/)
 * [2026-05-19, 09:39:09](https://lobste.rs/s/w89v6a/how_write_ssds) - [How to Write to SSDs](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
 * [2026-05-19, 08:58:05](https://lobste.rs/s/xd5afy/even_more_tagged_union_subsets_with) - [Even More Tagged Union Subsets with Comptime](https://sinclairtarget.com/blog/2026/05/18/even-more-tagged-union-subsets-with-comptime/)
