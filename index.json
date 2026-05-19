@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2026-05-19, 16:22:32",
+      "https://lobste.rs/s/rqhxpk/human_bottlenecks"
+    ],
+    [
+      "Human Bottlenecks",
+      "https://borretti.me/article/human-bottlenecks"
+    ]
+  ],
+  [
+    [
       "2026-05-19, 15:43:19",
       "https://lobste.rs/s/maqmo2/how_we_used_quint_find_over_10_bugs_sqlite"
     ],
@@ -137,16 +147,6 @@
     [
       "The Windows DLL loader lock: how a Rust thread can hang your JVM",
       "https://questdb.com/blog/windows-dll-loader-lock-rust-jni-deadlock/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 09:39:09",
-      "https://lobste.rs/s/w89v6a/how_write_ssds"
-    ],
-    [
-      "How to Write to SSDs",
-      "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf"
     ]
   ],
   [
