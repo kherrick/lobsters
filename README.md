@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-20, 04:45:34](https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
+* [2026-05-20, 04:25:35](https://lobste.rs/s/n1gytv/why_ruby_still_feels_like_home_after_all) - [Why Ruby Still Feels Like Home After All These Years](https://caio.ca/blog/why-ruby-still-feels-like-home)
+* [2026-05-20, 02:04:54](https://lobste.rs/s/vlrgls/i_ve_built_virtual_museum_with_nearly) - [I've built a virtual museum with nearly every operating system you can think of](https://www.youtube.com/watch?v=jqcuqWTxTNw)
 * [2026-05-19, 23:13:22](https://lobste.rs/s/b4vpj6/emacs_after_magit) - [Emacs after Magit](https://sdf.org/~pkal/blog/emacs/sans-magit.html)
 * [2026-05-19, 22:57:01](https://lobste.rs/s/9ygtid/tonic_is_joining_grpc_project) - [Tonic is joining the gRPC project](https://luciofranco.com/blog/tonic-joins-grpc/)
 * [2026-05-19, 20:55:03](https://lobste.rs/s/ihqekl/chasing_down_why_installing_kernel) - [Chasing down why installing the kernel segfaulted](https://sporks.space/2026/05/19/chasing-down-why-installing-the-kernel-segfaulted/)
@@ -17,12 +20,9 @@
 * [2026-05-19, 12:53:39](https://lobste.rs/s/prer9l/software_s_centaur_era) - [Software's Centaur Era](https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html)
 * [2026-05-19, 12:29:28](https://lobste.rs/s/zsjasr/my_domain_got_abused_on_github_pages) - [My domain got abused on Github Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
 * [2026-05-19, 11:52:27](https://lobste.rs/s/syambe/unreasonable_effectiveness) - [The Unreasonable Effectiveness of ProseMirror Model in Rich Text Transformation](https://smoores.dev/post/unreasonable_effectiveness_of_prosemirror/)
-* [2026-05-19, 09:50:49](https://lobste.rs/s/hpoydf/windows_dll_loader_lock_how_rust_thread) - [The Windows DLL loader lock: how a Rust thread can hang your JVM](https://questdb.com/blog/windows-dll-loader-lock-rust-jni-deadlock/)
 * [2026-05-19, 08:58:05](https://lobste.rs/s/xd5afy/even_more_tagged_union_subsets_with) - [Even More Tagged Union Subsets with Comptime](https://sinclairtarget.com/blog/2026/05/18/even-more-tagged-union-subsets-with-comptime/)
-* [2026-05-19, 02:46:09](https://lobste.rs/s/q1m7cr/spork_posix_spawn_you_can_use_as_fork) - [Spork: A posix_spawn you can use as a fork](https://dl.acm.org/doi/pdf/10.1145/3713082.3730396)
 * [2026-05-18, 23:04:25](https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based) - [Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative](https://casuarina.org/news/introducing-casuarina-linux/)
 * [2026-05-18, 22:24:09](https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3) - [Comprehensive Response to Bambu's AGPLv3 Violations](https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/)
-* [2026-05-18, 21:15:33](https://lobste.rs/s/i2szle/just_say_no_engineer_was_zirp_phenomenon) - [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
 * [2026-05-18, 18:29:26](https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
 * [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
 
