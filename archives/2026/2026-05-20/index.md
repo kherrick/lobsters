@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 20:29:05](https://lobste.rs/s/e7lsqn/chromium_publishes_fixed_exploit_4_years) - [Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed](https://infosec.exchange/@rebane2001/116606719764376414)
 * [2026-05-20, 19:20:32](https://lobste.rs/s/k8mkgs/xss_is_deadly_for_passkeys_hidden_risk) - [XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None](https://scotthelme.co.uk/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/)
 * [2026-05-20, 19:04:37](https://lobste.rs/s/nwdn3w/logic_bug_linux_kernel_s_ptrace_may_access) - [Logic bug in the Linux kernel's __ptrace_may_access() function (CVE-2026-46333)](https://cdn2.qualys.com/advisory/2026/05/20/cve-2026-46333-ptrace.txt)
+* [2026-05-20, 18:57:27](https://lobste.rs/s/rimd7l/yearslong_fight_over_users_right_tweak) - [Yearslong fight over users' right to tweak smart TV software heads to trial](https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/)
 * [2026-05-20, 18:52:40](https://lobste.rs/s/akyfrt/notes_on_i2c) - [Notes on I2C](https://rana-emaan.com/read/notes/i2c/)
 * [2026-05-20, 16:11:09](https://lobste.rs/s/bb8f7o/how_cross_thread_double_free_detection) - [How cross-thread double free detection could work in glibc malloc](https://kallus.org/blog_tcache_key.html)
 * [2026-05-20, 15:02:39](https://lobste.rs/s/2ruarm/may_2026_fedi_software_vulnerability) - [the may 2026 fedi software vulnerability](https://w.on-t.work/activitypub/may-2026-vulnerability)
