@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 16:11:09](https://lobste.rs/s/bb8f7o/how_cross_thread_double_free_detection) - [How cross-thread double free detection could work in glibc malloc](https://kallus.org/blog_tcache_key.html)
+* [2026-05-20, 15:02:39](https://lobste.rs/s/2ruarm/may_2026_fedi_software_vulnerability) - [the may 2026 fedi software vulnerability](https://w.on-t.work/activitypub/may-2026-vulnerability)
+* [2026-05-20, 14:52:47](https://lobste.rs/s/wqeqgc/c_26_more_function_wrappers) - [C++26: More function wrappers](https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function)
+* [2026-05-20, 14:46:53](https://lobste.rs/s/xugaho/modulejail_proactively_shrink_linux) - [modulejail: Proactively shrink a Linux host's kernel-module attack surface by blacklisting every module not currently in use](https://github.com/jnuyens/modulejail/)
+* [2026-05-20, 14:05:11](https://lobste.rs/s/agojmb/golfing_zig_elf_binaries_2025) - [Golfing Zig ELF Binaries (2025)](https://ctf.gg/blog/zig-binary-golfing)
 * [2026-05-20, 13:45:05](https://lobste.rs/s/asu0u9/erasing_existentials) - [Erasing Existentials](https://wolfgirl.dev/blog/2026-05-20-erasing-existentials/)
+* [2026-05-20, 12:57:56](https://lobste.rs/s/anamgr/saying_goodbye_asm_js) - [Saying goodbye to asm.js](https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html)
 * [2026-05-20, 12:41:04](https://lobste.rs/s/kdqqzb/annotate_place_notes_with_emacs_org) - [Annotate-in-Place Notes with Emacs and org-remark](https://www.chiply.dev/post-annotate-in-place)
 * [2026-05-20, 12:20:23](https://lobste.rs/s/i1xwo5/llemdashes) - [LLemdashes](https://wil.to/posts/llemdashes/)
 * [2026-05-20, 11:53:47](https://lobste.rs/s/puwxrr/teampcp_interview) - [TeamPCP Interview](https://buymeacoffee.com/insidedarknet/teampcp-interview)
+* [2026-05-20, 10:33:37](https://lobste.rs/s/fnie3k/grafana_labs_github_repos_breached_via) - [Grafana Labs GitHub repos breached via TanStack npm supply chain attack](https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/)
 * [2026-05-20, 08:49:48](https://lobste.rs/s/gq8stb/github_internal_repositories_have_been) - [Github: internal repositories have been accessed](https://nitter.net/github/status/2056884788179726685)
 * [2026-05-20, 07:26:17](https://lobste.rs/s/dtcfd6/everything_c_is_undefined_behavior) - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 * [2026-05-20, 07:08:51](https://lobste.rs/s/ges2gt/github_source_code_breach_teampcp_claims) - [GitHub Source Code Breach - TeamPCP Claims Access to Internal Source Code](https://cybersecuritynews.com/github-source-code-breach/)
