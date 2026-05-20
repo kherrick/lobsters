@@ -1,9 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-20, 13:45:05](https://lobste.rs/s/asu0u9/erasing_existentials) - [Erasing Existentials](https://wolfgirl.dev/blog/2026-05-20-erasing-existentials/)
+* [2026-05-20, 12:41:04](https://lobste.rs/s/kdqqzb/annotate_place_notes_with_emacs_org) - [Annotate-in-Place Notes with Emacs and org-remark](https://www.chiply.dev/post-annotate-in-place)
+* [2026-05-20, 12:20:23](https://lobste.rs/s/i1xwo5/llemdashes) - [LLemdashes](https://wil.to/posts/llemdashes/)
+* [2026-05-20, 11:53:47](https://lobste.rs/s/puwxrr/teampcp_interview) - [TeamPCP Interview](https://buymeacoffee.com/insidedarknet/teampcp-interview)
 * [2026-05-20, 08:49:48](https://lobste.rs/s/gq8stb/github_internal_repositories_have_been) - [Github: internal repositories have been accessed](https://nitter.net/github/status/2056884788179726685)
 * [2026-05-20, 07:26:17](https://lobste.rs/s/dtcfd6/everything_c_is_undefined_behavior) - [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
 * [2026-05-20, 07:08:51](https://lobste.rs/s/ges2gt/github_source_code_breach_teampcp_claims) - [GitHub Source Code Breach - TeamPCP Claims Access to Internal Source Code](https://cybersecuritynews.com/github-source-code-breach/)
-* [2026-05-20, 04:45:34](https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
+* [2026-05-20, 04:45:34](https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly (2024)](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2026-05-20, 04:25:35](https://lobste.rs/s/n1gytv/why_ruby_still_feels_like_home_after_all) - [Why Ruby Still Feels Like Home After All These Years](https://caio.ca/blog/why-ruby-still-feels-like-home)
 * [2026-05-20, 02:04:54](https://lobste.rs/s/vlrgls/i_ve_built_virtual_museum_with_nearly) - [I've built a virtual museum with nearly every operating system you can think of](https://www.youtube.com/watch?v=jqcuqWTxTNw)
 * [2026-05-19, 23:13:22](https://lobste.rs/s/b4vpj6/emacs_after_magit) - [Emacs after Magit](https://sdf.org/~pkal/blog/emacs/sans-magit.html)
@@ -20,11 +24,7 @@
 * [2026-05-19, 13:30:09](https://lobste.rs/s/wwcjoc/openbsd_7_9_released) - [OpenBSD 7.9 released](https://www.openbsd.org/79.html)
 * [2026-05-19, 12:53:39](https://lobste.rs/s/prer9l/software_s_centaur_era) - [Software's Centaur Era](https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html)
 * [2026-05-19, 12:29:28](https://lobste.rs/s/zsjasr/my_domain_got_abused_on_github_pages) - [My domain got abused on Github Pages](https://meertens.dev/blog/github-enables-domain-abuse/)
-* [2026-05-19, 11:52:27](https://lobste.rs/s/syambe/unreasonable_effectiveness) - [The Unreasonable Effectiveness of ProseMirror Model in Rich Text Transformation](https://smoores.dev/post/unreasonable_effectiveness_of_prosemirror/)
-* [2026-05-19, 08:58:05](https://lobste.rs/s/xd5afy/even_more_tagged_union_subsets_with) - [Even More Tagged Union Subsets with Comptime](https://sinclairtarget.com/blog/2026/05/18/even-more-tagged-union-subsets-with-comptime/)
-* [2026-05-18, 23:04:25](https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based) - [Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative](https://casuarina.org/news/introducing-casuarina-linux/)
 * [2026-05-18, 22:24:09](https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3) - [Comprehensive Response to Bambu's AGPLv3 Violations](https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/)
-* [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
 
 ## [Archives](archives/index.md)
 
