@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 19:20:32](https://lobste.rs/s/k8mkgs/xss_is_deadly_for_passkeys_hidden_risk) - [XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None](https://scotthelme.co.uk/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/)
+* [2026-05-20, 19:04:37](https://lobste.rs/s/nwdn3w/logic_bug_linux_kernel_s_ptrace_may_access) - [Logic bug in the Linux kernel's __ptrace_may_access() function (CVE-2026-46333)](https://cdn2.qualys.com/advisory/2026/05/20/cve-2026-46333-ptrace.txt)
+* [2026-05-20, 18:52:40](https://lobste.rs/s/akyfrt/notes_on_i2c) - [Notes on I2C](https://rana-emaan.com/read/notes/i2c/)
 * [2026-05-20, 16:11:09](https://lobste.rs/s/bb8f7o/how_cross_thread_double_free_detection) - [How cross-thread double free detection could work in glibc malloc](https://kallus.org/blog_tcache_key.html)
 * [2026-05-20, 15:02:39](https://lobste.rs/s/2ruarm/may_2026_fedi_software_vulnerability) - [the may 2026 fedi software vulnerability](https://w.on-t.work/activitypub/may-2026-vulnerability)
 * [2026-05-20, 14:52:47](https://lobste.rs/s/wqeqgc/c_26_more_function_wrappers) - [C++26: More function wrappers](https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function)
