@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2026-05-20, 20:13:46",
+      "https://lobste.rs/s/omounu/who_builds_house_without_drawing"
+    ],
+    [
+      "Who Builds a House Without Drawing Blueprints? (2015)",
+      "https://cacm.acm.org/opinion/who-builds-a-house-without-drawing-blueprints/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 20:12:38",
+      "https://lobste.rs/s/garq37/why_does_arrow_operator_c_exist"
+    ],
+    [
+      "Why does the arrow (->) operator in C exist?",
+      "https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 19:20:32",
       "https://lobste.rs/s/k8mkgs/xss_is_deadly_for_passkeys_hidden_risk"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-05-19, 19:24:51",
-      "https://lobste.rs/s/z2pm16/pgbackrest_will_continue"
-    ],
-    [
-      "pgBackRest will continue",
-      "https://pgbackrest.org/news.html#will-continue"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 18:45:35",
       "https://lobste.rs/s/wefsg8/pokemon_gen2_compression_myth"
     ],
@@ -237,16 +247,6 @@
     [
       "OpenBSD 7.9 released",
       "https://www.openbsd.org/79.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 12:29:28",
-      "https://lobste.rs/s/zsjasr/my_domain_got_abused_on_github_pages"
-    ],
-    [
-      "My domain got abused on Github Pages",
-      "https://meertens.dev/blog/github-enables-domain-abuse/"
     ]
   ]
 ]
