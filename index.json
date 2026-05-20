@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-20, 13:45:05",
+      "https://lobste.rs/s/asu0u9/erasing_existentials"
+    ],
+    [
+      "Erasing Existentials",
+      "https://wolfgirl.dev/blog/2026-05-20-erasing-existentials/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 12:41:04",
+      "https://lobste.rs/s/kdqqzb/annotate_place_notes_with_emacs_org"
+    ],
+    [
+      "Annotate-in-Place Notes with Emacs and org-remark",
+      "https://www.chiply.dev/post-annotate-in-place"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 12:20:23",
+      "https://lobste.rs/s/i1xwo5/llemdashes"
+    ],
+    [
+      "LLemdashes",
+      "https://wil.to/posts/llemdashes/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 11:53:47",
+      "https://lobste.rs/s/puwxrr/teampcp_interview"
+    ],
+    [
+      "TeamPCP Interview",
+      "https://buymeacoffee.com/insidedarknet/teampcp-interview"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 08:49:48",
       "https://lobste.rs/s/gq8stb/github_internal_repositories_have_been"
     ],
@@ -35,7 +75,7 @@
       "https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing"
     ],
     [
-      "If you're just going to sit there doing nothing, at least do nothing correctly",
+      "If you're just going to sit there doing nothing, at least do nothing correctly (2024)",
       "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409"
     ]
   ],
@@ -201,52 +241,12 @@
   ],
   [
     [
-      "2026-05-19, 11:52:27",
-      "https://lobste.rs/s/syambe/unreasonable_effectiveness"
-    ],
-    [
-      "The Unreasonable Effectiveness of ProseMirror Model in Rich Text Transformation",
-      "https://smoores.dev/post/unreasonable_effectiveness_of_prosemirror/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 08:58:05",
-      "https://lobste.rs/s/xd5afy/even_more_tagged_union_subsets_with"
-    ],
-    [
-      "Even More Tagged Union Subsets with Comptime",
-      "https://sinclairtarget.com/blog/2026/05/18/even-more-tagged-union-subsets-with-comptime/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 23:04:25",
-      "https://lobste.rs/s/5pjoom/introducing_casuarina_linux_glibc_based"
-    ],
-    [
-      "Introducing Casuarina Linux: A glibc-Based Chimera Linux Derivative",
-      "https://casuarina.org/news/introducing-casuarina-linux/"
-    ]
-  ],
-  [
-    [
       "2026-05-18, 22:24:09",
       "https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3"
     ],
     [
       "Comprehensive Response to Bambu's AGPLv3 Violations",
       "https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 18:28:13",
-      "https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden"
-    ],
-    [
-      "The Quiet Renovation at Bitwarden",
-      "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden"
     ]
   ]
 ]
