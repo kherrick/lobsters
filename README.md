@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-20, 22:45:06](https://lobste.rs/s/hqzkqg/openai_model_has_disproved_central) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 * [2026-05-20, 20:29:05](https://lobste.rs/s/e7lsqn/chromium_publishes_fixed_exploit_4_years) - [Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed](https://infosec.exchange/@rebane2001/116606719764376414)
 * [2026-05-20, 20:13:46](https://lobste.rs/s/omounu/who_builds_house_without_drawing) - [Who Builds a House Without Drawing Blueprints? (2015)](https://cacm.acm.org/opinion/who-builds-a-house-without-drawing-blueprints/)
 * [2026-05-20, 20:12:38](https://lobste.rs/s/garq37/why_does_arrow_operator_c_exist) - [Why does the arrow (->) operator in C exist?](https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist)
@@ -20,7 +21,6 @@
 * [2026-05-20, 04:45:34](https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly (2024)](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2026-05-20, 04:25:35](https://lobste.rs/s/n1gytv/why_ruby_still_feels_like_home_after_all) - [Why Ruby Still Feels Like Home After All These Years](https://caio.ca/blog/why-ruby-still-feels-like-home)
 * [2026-05-19, 20:06:09](https://lobste.rs/s/2fqahd/i_am_not_software_engineer) - [I am not a Software Engineer](https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/)
-* [2026-05-19, 18:45:35](https://lobste.rs/s/wefsg8/pokemon_gen2_compression_myth) - [Pokemon Gen2 compression myth](https://www.reddit.com/r/TruePokemon/comments/hwluk9/while_it_is_true_that_iwata_did_write_a_new/)
 * [2026-05-19, 17:02:39](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj) - [Better generated branch names with jj](https://ddbeck.com/notes/jj-git-push-bookmark-template/)
 * [2026-05-19, 14:37:27](https://lobste.rs/s/zotppg/type_out_code) - [Type out the code](https://haskellforall.com/2026/05/type-out-the-code)
 * [2026-05-19, 14:29:40](https://lobste.rs/s/wed6lj/what_would_you_want_from_forge) - [What would you want from a forge?](https://lobste.rs/s/wed6lj/what_would_you_want_from_forge)
