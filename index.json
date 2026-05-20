@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-20, 16:11:09",
+      "https://lobste.rs/s/bb8f7o/how_cross_thread_double_free_detection"
+    ],
+    [
+      "How cross-thread double free detection could work in glibc malloc",
+      "https://kallus.org/blog_tcache_key.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 15:02:39",
+      "https://lobste.rs/s/2ruarm/may_2026_fedi_software_vulnerability"
+    ],
+    [
+      "the may 2026 fedi software vulnerability",
+      "https://w.on-t.work/activitypub/may-2026-vulnerability"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 14:52:47",
+      "https://lobste.rs/s/wqeqgc/c_26_more_function_wrappers"
+    ],
+    [
+      "C++26: More function wrappers",
+      "https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 14:46:53",
+      "https://lobste.rs/s/xugaho/modulejail_proactively_shrink_linux"
+    ],
+    [
+      "modulejail: Proactively shrink a Linux host's kernel-module attack surface by blacklisting every module not currently in use",
+      "https://github.com/jnuyens/modulejail/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 14:05:11",
+      "https://lobste.rs/s/agojmb/golfing_zig_elf_binaries_2025"
+    ],
+    [
+      "Golfing Zig ELF Binaries (2025)",
+      "https://ctf.gg/blog/zig-binary-golfing"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 13:45:05",
       "https://lobste.rs/s/asu0u9/erasing_existentials"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2026-05-20, 12:41:04",
-      "https://lobste.rs/s/kdqqzb/annotate_place_notes_with_emacs_org"
+      "2026-05-20, 12:57:56",
+      "https://lobste.rs/s/anamgr/saying_goodbye_asm_js"
     ],
     [
-      "Annotate-in-Place Notes with Emacs and org-remark",
-      "https://www.chiply.dev/post-annotate-in-place"
+      "Saying goodbye to asm.js",
+      "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html"
     ]
   ],
   [
@@ -41,12 +91,12 @@
   ],
   [
     [
-      "2026-05-20, 08:49:48",
-      "https://lobste.rs/s/gq8stb/github_internal_repositories_have_been"
+      "2026-05-20, 10:33:37",
+      "https://lobste.rs/s/fnie3k/grafana_labs_github_repos_breached_via"
     ],
     [
-      "Github: internal repositories have been accessed",
-      "https://nitter.net/github/status/2056884788179726685"
+      "Grafana Labs GitHub repos breached via TanStack npm supply chain attack",
+      "https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/"
     ]
   ],
   [
@@ -107,26 +157,6 @@
     [
       "Emacs after Magit",
       "https://sdf.org/~pkal/blog/emacs/sans-magit.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 22:57:01",
-      "https://lobste.rs/s/9ygtid/tonic_is_joining_grpc_project"
-    ],
-    [
-      "Tonic is joining the gRPC project",
-      "https://luciofranco.com/blog/tonic-joins-grpc/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 20:55:03",
-      "https://lobste.rs/s/ihqekl/chasing_down_why_installing_kernel"
-    ],
-    [
-      "Chasing down why installing the kernel segfaulted",
-      "https://sporks.space/2026/05/19/chasing-down-why-installing-the-kernel-segfaulted/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-05-19, 13:50:35",
-      "https://lobste.rs/s/pk139i/super_tiny_compiler_ada"
-    ],
-    [
-      "The Super Tiny Compiler, but in Ada",
-      "https://github.com/tomekw/stcc"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 13:30:09",
       "https://lobste.rs/s/wwcjoc/openbsd_7_9_released"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-05-19, 12:53:39",
-      "https://lobste.rs/s/prer9l/software_s_centaur_era"
-    ],
-    [
-      "Software's Centaur Era",
-      "https://twitchard.github.io/posts/2026-05-18-softwares-centaur-era.html"
-    ]
-  ],
-  [
-    [
       "2026-05-19, 12:29:28",
       "https://lobste.rs/s/zsjasr/my_domain_got_abused_on_github_pages"
     ],
     [
       "My domain got abused on Github Pages",
       "https://meertens.dev/blog/github-enables-domain-abuse/"
-    ]
-  ],
-  [
-    [
-      "2026-05-18, 22:24:09",
-      "https://lobste.rs/s/cjwt5c/comprehensive_response_bambu_s_agplv3"
-    ],
-    [
-      "Comprehensive Response to Bambu's AGPLv3 Violations",
-      "https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/"
     ]
   ]
 ]
