@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-20, 19:20:32",
+      "https://lobste.rs/s/k8mkgs/xss_is_deadly_for_passkeys_hidden_risk"
+    ],
+    [
+      "XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None",
+      "https://scotthelme.co.uk/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 19:04:37",
+      "https://lobste.rs/s/nwdn3w/logic_bug_linux_kernel_s_ptrace_may_access"
+    ],
+    [
+      "Logic bug in the Linux kernel's __ptrace_may_access() function (CVE-2026-46333)",
+      "https://cdn2.qualys.com/advisory/2026/05/20/cve-2026-46333-ptrace.txt"
+    ]
+  ],
+  [
+    [
+      "2026-05-20, 18:52:40",
+      "https://lobste.rs/s/akyfrt/notes_on_i2c"
+    ],
+    [
+      "Notes on I2C",
+      "https://rana-emaan.com/read/notes/i2c/"
+    ]
+  ],
+  [
+    [
       "2026-05-20, 16:11:09",
       "https://lobste.rs/s/bb8f7o/how_cross_thread_double_free_detection"
     ],
@@ -77,26 +107,6 @@
     [
       "LLemdashes",
       "https://wil.to/posts/llemdashes/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 11:53:47",
-      "https://lobste.rs/s/puwxrr/teampcp_interview"
-    ],
-    [
-      "TeamPCP Interview",
-      "https://buymeacoffee.com/insidedarknet/teampcp-interview"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 10:33:37",
-      "https://lobste.rs/s/fnie3k/grafana_labs_github_repos_breached_via"
-    ],
-    [
-      "Grafana Labs GitHub repos breached via TanStack npm supply chain attack",
-      "https://grafana.com/blog/grafana-labs-security-update-latest-on-tanstack-npm-supply-chain-ransomware-incident/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Better generated branch names with jj",
       "https://ddbeck.com/notes/jj-git-push-bookmark-template/"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 15:43:19",
-      "https://lobste.rs/s/maqmo2/how_we_used_quint_find_over_10_bugs_sqlite"
-    ],
-    [
-      "How we used Quint to find over 10 bugs in SQLite while hardening Turso",
-      "https://turso.tech/blog/how-we-used-quint-to-find-over-10-bugs-in-sqlite"
     ]
   ],
   [
