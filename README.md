@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-19, 23:13:22](https://lobste.rs/s/b4vpj6/emacs_after_magit) - [Emacs after Magit](https://sdf.org/~pkal/blog/emacs/sans-magit.html)
+* [2026-05-19, 22:57:01](https://lobste.rs/s/9ygtid/tonic_is_joining_grpc_project) - [Tonic is joining the gRPC project](https://luciofranco.com/blog/tonic-joins-grpc/)
 * [2026-05-19, 20:55:03](https://lobste.rs/s/ihqekl/chasing_down_why_installing_kernel) - [Chasing down why installing the kernel segfaulted](https://sporks.space/2026/05/19/chasing-down-why-installing-the-kernel-segfaulted/)
 * [2026-05-19, 20:06:09](https://lobste.rs/s/2fqahd/i_am_not_software_engineer) - [I am not a Software Engineer](https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/)
-* [2026-05-19, 19:24:51](https://lobste.rs/s/z2pm16/pgbackrest_with_continue) - [pgBackRest with continue](https://pgbackrest.org/news.html#will-continue)
-* [2026-05-19, 18:45:35](https://lobste.rs/s/wefsg8/pokemon_compression_myth) - [Pokemon compression myth](https://www.reddit.com/r/TruePokemon/comments/hwluk9/while_it_is_true_that_iwata_did_write_a_new/)
-* [2026-05-19, 17:45:33](https://lobste.rs/s/raxtyp/pintheft_linux_lpe) - [PinTheft Linux LPE](https://www.openwall.com/lists/oss-security/2026/05/19/6)
+* [2026-05-19, 19:24:51](https://lobste.rs/s/z2pm16/pgbackrest_will_continue) - [pgBackRest will continue](https://pgbackrest.org/news.html#will-continue)
+* [2026-05-19, 18:45:35](https://lobste.rs/s/wefsg8/pokemon_gen2_compression_myth) - [Pokemon Gen2 compression myth](https://www.reddit.com/r/TruePokemon/comments/hwluk9/while_it_is_true_that_iwata_did_write_a_new/)
 * [2026-05-19, 17:02:39](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj) - [Better generated branch names with jj](https://ddbeck.com/notes/jj-git-push-bookmark-template/)
 * [2026-05-19, 16:22:32](https://lobste.rs/s/rqhxpk/human_bottlenecks) - [Human Bottlenecks](https://borretti.me/article/human-bottlenecks)
 * [2026-05-19, 15:43:19](https://lobste.rs/s/maqmo2/how_we_used_quint_find_over_10_bugs_sqlite) - [How we used Quint to find over 10 bugs in SQLite while hardening Turso](https://turso.tech/blog/how-we-used-quint-to-find-over-10-bugs-in-sqlite)
@@ -24,7 +25,6 @@
 * [2026-05-18, 21:15:33](https://lobste.rs/s/i2szle/just_say_no_engineer_was_zirp_phenomenon) - [The just-say-no engineer was a ZIRP phenomenon](https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/)
 * [2026-05-18, 18:29:26](https://lobste.rs/s/0wbazw/haiku_os_runs_on_m1_macs_now) - [Haiku OS runs on M1 Macs now](https://www.osnews.com/story/144985/haiku-os-runs-on-m1-macs-now/)
 * [2026-05-18, 18:28:13](https://lobste.rs/s/xckxda/quiet_renovation_at_bitwarden) - [The Quiet Renovation at Bitwarden](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden)
-* [2026-05-18, 13:55:20](https://lobste.rs/s/lynqdm/de_bloating_javascript) - [De‐bloating Javascript](https://github.com/naver/lispe/wiki/6.23-De%E2%80%90bloating-Javascript)
 
 ## [Archives](archives/index.md)
 
