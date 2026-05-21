@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-21, 20:41:26",
+      "https://lobste.rs/s/blhd1c/cve_2026_47243_kata_containers_guest_root"
+    ],
+    [
+      "CVE-2026-47243: Kata Containers guest-root to host-root escape via virtiofs",
+      "https://www.openwall.com/lists/oss-security/2026/05/21/14"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 20:02:05",
       "https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox"
     ],
@@ -71,22 +81,22 @@
   ],
   [
     [
+      "2026-05-21, 15:35:29",
+      "https://lobste.rs/s/gl13es/john_regehr_s_integers_c_quiz"
+    ],
+    [
+      "John Regehr's Integers in C Quiz",
+      "https://acepace.net/integerQuiz/"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 15:09:32",
       "https://lobste.rs/s/r87zln/internships_for_early_university_no"
     ],
     [
       "Internships for early university / no former employment",
       "https://lobste.rs/s/r87zln/internships_for_early_university_no"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 14:04:37",
-      "https://lobste.rs/s/aezmj2/l1_instruction_cache_set_conflicts"
-    ],
-    [
-      "L1 instruction cache set conflicts, associativity, and code alignment in Go",
-      "https://blog.andr2i.com/posts/2026-05-19-a-regression-in-code-i-didn-t-touch.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None",
       "https://scotthelme.co.uk/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 13:45:05",
-      "https://lobste.rs/s/asu0u9/erasing_existentials"
-    ],
-    [
-      "Erasing Existentials",
-      "https://wolfgirl.dev/blog/2026-05-20-erasing-existentials/"
     ]
   ],
   [
