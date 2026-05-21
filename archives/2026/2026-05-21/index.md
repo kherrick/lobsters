@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-21](index.md)
 
+* [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
+* [2026-05-21, 20:00:59](https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box) - [How to open calc.exe from S&Box](https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/)
 * [2026-05-21, 19:14:04](https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we) - [Dependency cooldowns are unfair; we should use phased rollouts instead](https://illegalcode.net/rfcs/phased_rollouts.html)
 * [2026-05-21, 19:13:40](https://lobste.rs/s/ae6wd0/introducing_arkts_huawei_s_next) - [Introducing ArkTS, Huawei’s Next-Generation Development Language](https://dev.to/harmonyos/introducing-arkts-huaweis-next-generation-development-language-jg7)
 * [2026-05-21, 18:24:08](https://lobste.rs/s/8mamqh/speeding_up_back_end_with_graph_theory) - [Speeding Up the Back End with Graph Theory (2019)](https://sensortower.com/blog/speeding-up-the-backend-with-graph-theory)

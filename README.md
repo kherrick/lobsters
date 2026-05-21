@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
+* [2026-05-21, 20:00:59](https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box) - [How to open calc.exe from S&Box](https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/)
 * [2026-05-21, 19:14:04](https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we) - [Dependency cooldowns are unfair; we should use phased rollouts instead](https://illegalcode.net/rfcs/phased_rollouts.html)
 * [2026-05-21, 19:13:40](https://lobste.rs/s/ae6wd0/introducing_arkts_huawei_s_next) - [Introducing ArkTS, Huawei’s Next-Generation Development Language](https://dev.to/harmonyos/introducing-arkts-huaweis-next-generation-development-language-jg7)
-* [2026-05-21, 18:24:08](https://lobste.rs/s/8mamqh/speeding_up_back_end_with_graph_theory) - [Speeding Up the Back End with Graph Theory (2019)](https://sensortower.com/blog/speeding-up-the-backend-with-graph-theory)
 * [2026-05-21, 17:47:22](https://lobste.rs/s/ggqpxg/private_pkg_repo_behind_mutual_tls) - [A Private pkg Repo Behind Mutual TLS](https://oshogbo.com/blog/88/)
 * [2026-05-21, 17:37:58](https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help) - [Flipper One — we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 * [2026-05-21, 17:08:19](https://lobste.rs/s/52g7rz/gobee_write_ebpf_programs_go_transpiled) - [Gobee: write eBPF programs in Go, transpiled via clang](https://github.com/boratanrikulu/gobee)
@@ -23,7 +24,6 @@
 * [2026-05-20, 20:12:38](https://lobste.rs/s/garq37/why_does_arrow_operator_c_exist) - [Why does the arrow (->) operator in C exist?](https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist)
 * [2026-05-20, 19:20:32](https://lobste.rs/s/k8mkgs/xss_is_deadly_for_passkeys_hidden_risk) - [XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None](https://scotthelme.co.uk/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/)
 * [2026-05-20, 13:45:05](https://lobste.rs/s/asu0u9/erasing_existentials) - [Erasing Existentials](https://wolfgirl.dev/blog/2026-05-20-erasing-existentials/)
-* [2026-05-20, 07:08:51](https://lobste.rs/s/ges2gt/github_source_code_breach_teampcp_claims) - [GitHub Source Code Breach - TeamPCP Claims Access to Internal Source Code](https://cybersecuritynews.com/github-source-code-breach/)
 * [2026-05-20, 04:25:35](https://lobste.rs/s/n1gytv/why_ruby_still_feels_like_home_after_all) - [Why Ruby Still Feels Like Home After All These Years](https://caio.ca/blog/why-ruby-still-feels-like-home)
 
 ## [Archives](archives/index.md)
