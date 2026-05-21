@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-20](index.md)
 
+* [2026-05-20, 23:20:33](https://lobste.rs/s/lgflsz/staged_publishing_for_npm_packages) - [Staged publishing for npm packages](https://docs.npmjs.com/staged-publishing/)
 * [2026-05-20, 22:45:06](https://lobste.rs/s/hqzkqg/openai_model_has_disproved_central) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 * [2026-05-20, 20:29:05](https://lobste.rs/s/e7lsqn/chromium_publishes_fixed_exploit_4_years) - [Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed](https://infosec.exchange/@rebane2001/116606719764376414)
 * [2026-05-20, 20:13:46](https://lobste.rs/s/omounu/who_builds_house_without_drawing) - [Who Builds a House Without Drawing Blueprints? (2015)](https://cacm.acm.org/opinion/who-builds-a-house-without-drawing-blueprints/)

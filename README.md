@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-21, 01:07:08](https://lobste.rs/s/rwu7ah/mislabeled_bricks_utopia) - [The Mislabeled Bricks of Utopia](https://orib.dev/nexus.html)
+* [2026-05-21, 00:26:53](https://lobste.rs/s/xatdny/waterfox_release_6_6_13_removes_startpage) - [Waterfox Release 6.6.13 removes Startpage as default search provider](https://www.waterfox.com/releases/6.6.13/)
+* [2026-05-20, 23:20:33](https://lobste.rs/s/lgflsz/staged_publishing_for_npm_packages) - [Staged publishing for npm packages](https://docs.npmjs.com/staged-publishing/)
 * [2026-05-20, 22:45:06](https://lobste.rs/s/hqzkqg/openai_model_has_disproved_central) - [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 * [2026-05-20, 20:29:05](https://lobste.rs/s/e7lsqn/chromium_publishes_fixed_exploit_4_years) - [Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed](https://infosec.exchange/@rebane2001/116606719764376414)
 * [2026-05-20, 20:13:46](https://lobste.rs/s/omounu/who_builds_house_without_drawing) - [Who Builds a House Without Drawing Blueprints? (2015)](https://cacm.acm.org/opinion/who-builds-a-house-without-drawing-blueprints/)
@@ -8,7 +11,6 @@
 * [2026-05-20, 19:04:37](https://lobste.rs/s/nwdn3w/logic_bug_linux_kernel_s_ptrace_may_access) - [Logic bug in the Linux kernel's __ptrace_may_access() function (CVE-2026-46333)](https://cdn2.qualys.com/advisory/2026/05/20/cve-2026-46333-ptrace.txt)
 * [2026-05-20, 18:57:27](https://lobste.rs/s/rimd7l/yearslong_fight_over_users_right_tweak) - [Yearslong fight over users' right to tweak smart TV software heads to trial](https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/)
 * [2026-05-20, 18:52:40](https://lobste.rs/s/akyfrt/notes_on_i2c) - [Notes on I2C](https://rana-emaan.com/read/notes/i2c/)
-* [2026-05-20, 16:11:09](https://lobste.rs/s/bb8f7o/how_cross_thread_double_free_detection) - [How cross-thread double free detection could work in glibc malloc](https://kallus.org/blog_tcache_key.html)
 * [2026-05-20, 15:02:39](https://lobste.rs/s/2ruarm/may_2026_fedi_software_vulnerability) - [the may 2026 fedi software vulnerability](https://w.on-t.work/activitypub/may-2026-vulnerability)
 * [2026-05-20, 14:52:47](https://lobste.rs/s/wqeqgc/c_26_more_function_wrappers) - [C++26: More function wrappers](https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function)
 * [2026-05-20, 14:46:53](https://lobste.rs/s/xugaho/modulejail_proactively_shrink_linux) - [modulejail: Proactively shrink a Linux host's kernel-module attack surface by blacklisting every module not currently in use](https://github.com/jnuyens/modulejail/)
@@ -20,10 +22,8 @@
 * [2026-05-20, 07:08:51](https://lobste.rs/s/ges2gt/github_source_code_breach_teampcp_claims) - [GitHub Source Code Breach - TeamPCP Claims Access to Internal Source Code](https://cybersecuritynews.com/github-source-code-breach/)
 * [2026-05-20, 04:45:34](https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing) - [If you're just going to sit there doing nothing, at least do nothing correctly (2024)](https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409)
 * [2026-05-20, 04:25:35](https://lobste.rs/s/n1gytv/why_ruby_still_feels_like_home_after_all) - [Why Ruby Still Feels Like Home After All These Years](https://caio.ca/blog/why-ruby-still-feels-like-home)
-* [2026-05-19, 20:06:09](https://lobste.rs/s/2fqahd/i_am_not_software_engineer) - [I am not a Software Engineer](https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/)
 * [2026-05-19, 17:02:39](https://lobste.rs/s/r4xf2n/better_generated_branch_names_with_jj) - [Better generated branch names with jj](https://ddbeck.com/notes/jj-git-push-bookmark-template/)
 * [2026-05-19, 14:37:27](https://lobste.rs/s/zotppg/type_out_code) - [Type out the code](https://haskellforall.com/2026/05/type-out-the-code)
-* [2026-05-19, 14:29:40](https://lobste.rs/s/wed6lj/what_would_you_want_from_forge) - [What would you want from a forge?](https://lobste.rs/s/wed6lj/what_would_you_want_from_forge)
 * [2026-05-19, 13:30:09](https://lobste.rs/s/wwcjoc/openbsd_7_9_released) - [OpenBSD 7.9 released](https://www.openbsd.org/79.html)
 
 ## [Archives](archives/index.md)
