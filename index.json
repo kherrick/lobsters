@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-21, 10:27:31",
+      "https://lobste.rs/s/iggblv/kubernetes_anger"
+    ],
+    [
+      "Kubernetes In Anger",
+      "https://samof76.space/kubernetes-in-anger.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 07:20:24",
+      "https://lobste.rs/s/w0uimq/tailwind_suffering_from_success"
+    ],
+    [
+      "Tailwind: Suffering From Success",
+      "https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 06:59:14",
+      "https://lobste.rs/s/fu5qzo/on_google_declaring_war_on_web"
+    ],
+    [
+      "On Google declaring war on the Web",
+      "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 06:51:15",
+      "https://lobste.rs/s/vfxdtu/rfc_llvm_foundation_statement_favor_open"
+    ],
+    [
+      "[RFC] LLVM Foundation statement in favor of open access to standards documents",
+      "https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 05:00:13",
+      "https://lobste.rs/s/mqvfc0/no_query_strings_here_either"
+    ],
+    [
+      "No query strings here either",
+      "https://furrer.life/~timo/writings/2026/05/19/no-query-strings/"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 04:27:58",
       "https://lobste.rs/s/qmvgke/opensmtpd_is_mail_server_for_future"
     ],
@@ -41,16 +91,6 @@
   ],
   [
     [
-      "2026-05-20, 23:20:33",
-      "https://lobste.rs/s/lgflsz/staged_publishing_for_npm_packages"
-    ],
-    [
-      "Staged publishing for npm packages",
-      "https://docs.npmjs.com/staged-publishing/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 22:45:06",
       "https://lobste.rs/s/hqzkqg/openai_model_has_disproved_central"
     ],
@@ -67,16 +107,6 @@
     [
       "Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed",
       "https://infosec.exchange/@rebane2001/116606719764376414"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 20:13:46",
-      "https://lobste.rs/s/omounu/who_builds_house_without_drawing"
-    ],
-    [
-      "Who Builds a House Without Drawing Blueprints? (2015)",
-      "https://cacm.acm.org/opinion/who-builds-a-house-without-drawing-blueprints/"
     ]
   ],
   [
@@ -137,26 +167,6 @@
     [
       "the may 2026 fedi software vulnerability",
       "https://w.on-t.work/activitypub/may-2026-vulnerability"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 14:52:47",
-      "https://lobste.rs/s/wqeqgc/c_26_more_function_wrappers"
-    ],
-    [
-      "C++26: More function wrappers",
-      "https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 14:05:11",
-      "https://lobste.rs/s/agojmb/golfing_zig_elf_binaries_2025"
-    ],
-    [
-      "Golfing Zig ELF Binaries (2025)",
-      "https://ctf.gg/blog/zig-binary-golfing"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Type out the code",
       "https://haskellforall.com/2026/05/type-out-the-code"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 13:30:09",
-      "https://lobste.rs/s/wwcjoc/openbsd_7_9_released"
-    ],
-    [
-      "OpenBSD 7.9 released",
-      "https://www.openbsd.org/79.html"
     ]
   ]
 ]
