@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-05-21, 17:47:22",
+      "https://lobste.rs/s/ggqpxg/private_pkg_repo_behind_mutual_tls"
+    ],
+    [
+      "A Private pkg Repo Behind Mutual TLS",
+      "https://oshogbo.com/blog/88/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 17:37:58",
+      "https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help"
+    ],
+    [
+      "Flipper One — we need your help",
+      "https://blog.flipper.net/flipper-one-we-need-your-help/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 17:08:19",
+      "https://lobste.rs/s/52g7rz/gobee_write_ebpf_programs_go_transpiled"
+    ],
+    [
+      "Gobee: write eBPF programs in Go, transpiled via clang",
+      "https://github.com/boratanrikulu/gobee"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 15:53:05",
       "https://lobste.rs/s/fzce4h/ursula_thread_per_core_multi_raft_rust"
     ],
     [
       "Ursula: thread-per-core, multi-Raft Rust runtime for HTTP event streams",
       "https://github.com/tonbo-io/ursula"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 15:35:29",
-      "https://lobste.rs/s/gl13es/john_regehr_s_integers_c_quiz"
-    ],
-    [
-      "John Regehr's Integers in C Quiz",
-      "https://acepace.net/integerQuiz/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-20, 18:52:40",
-      "https://lobste.rs/s/akyfrt/notes_on_i2c"
-    ],
-    [
-      "Notes on I2C",
-      "https://rana-emaan.com/read/notes/i2c/"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 13:45:05",
       "https://lobste.rs/s/asu0u9/erasing_existentials"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Ruby Still Feels Like Home After All These Years",
       "https://caio.ca/blog/why-ruby-still-feels-like-home"
-    ]
-  ],
-  [
-    [
-      "2026-05-19, 14:37:27",
-      "https://lobste.rs/s/zotppg/type_out_code"
-    ],
-    [
-      "Type out the code",
-      "https://haskellforall.com/2026/05/type-out-the-code"
     ]
   ]
 ]
