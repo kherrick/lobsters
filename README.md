@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-21, 20:41:26](https://lobste.rs/s/blhd1c/cve_2026_47243_kata_containers_guest_root) - [CVE-2026-47243: Kata Containers guest-root to host-root escape via virtiofs](https://www.openwall.com/lists/oss-security/2026/05/21/14)
 * [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
 * [2026-05-21, 20:00:59](https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box) - [How to open calc.exe from S&Box](https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/)
 * [2026-05-21, 19:14:04](https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we) - [Dependency cooldowns are unfair; we should use phased rollouts instead](https://illegalcode.net/rfcs/phased_rollouts.html)
@@ -7,8 +8,8 @@
 * [2026-05-21, 17:47:22](https://lobste.rs/s/ggqpxg/private_pkg_repo_behind_mutual_tls) - [A Private pkg Repo Behind Mutual TLS](https://oshogbo.com/blog/88/)
 * [2026-05-21, 17:37:58](https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help) - [Flipper One — we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 * [2026-05-21, 17:08:19](https://lobste.rs/s/52g7rz/gobee_write_ebpf_programs_go_transpiled) - [Gobee: write eBPF programs in Go, transpiled via clang](https://github.com/boratanrikulu/gobee)
+* [2026-05-21, 15:35:29](https://lobste.rs/s/gl13es/john_regehr_s_integers_c_quiz) - [John Regehr's Integers in C Quiz](https://acepace.net/integerQuiz/)
 * [2026-05-21, 15:09:32](https://lobste.rs/s/r87zln/internships_for_early_university_no) - [Internships for early university / no former employment](https://lobste.rs/s/r87zln/internships_for_early_university_no)
-* [2026-05-21, 14:04:37](https://lobste.rs/s/aezmj2/l1_instruction_cache_set_conflicts) - [L1 instruction cache set conflicts, associativity, and code alignment in Go](https://blog.andr2i.com/posts/2026-05-19-a-regression-in-code-i-didn-t-touch.html)
 * [2026-05-21, 13:42:03](https://lobste.rs/s/yy3xax/fatgid_freebsd_14_x_kernel_lpe) - [FatGid - FreeBSD 14.x kernel LPE](https://fatgid.io/)
 * [2026-05-21, 13:34:58](https://lobste.rs/s/ulkriy/church_encoding_parametricity_yoneda) - [Church Encoding, Parametricity, and the Yoneda Lemma](https://blog.wybxc.cc/blog/parametricity/)
 * [2026-05-21, 13:16:44](https://lobste.rs/s/n5qtds/python_3_15_features_didn_t_make_headlines) - [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
@@ -23,7 +24,6 @@
 * [2026-05-20, 20:29:05](https://lobste.rs/s/e7lsqn/chromium_publishes_fixed_exploit_4_years) - [Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed](https://infosec.exchange/@rebane2001/116606719764376414)
 * [2026-05-20, 20:12:38](https://lobste.rs/s/garq37/why_does_arrow_operator_c_exist) - [Why does the arrow (->) operator in C exist?](https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist)
 * [2026-05-20, 19:20:32](https://lobste.rs/s/k8mkgs/xss_is_deadly_for_passkeys_hidden_risk) - [XSS Is Deadly for Passkeys: The Hidden Risk of Attestation None](https://scotthelme.co.uk/xss-is-deadly-for-passkeys-the-hidden-risk-of-attestation-none/)
-* [2026-05-20, 13:45:05](https://lobste.rs/s/asu0u9/erasing_existentials) - [Erasing Existentials](https://wolfgirl.dev/blog/2026-05-20-erasing-existentials/)
 * [2026-05-20, 04:25:35](https://lobste.rs/s/n1gytv/why_ruby_still_feels_like_home_after_all) - [Why Ruby Still Feels Like Home After All These Years](https://caio.ca/blog/why-ruby-still-feels-like-home)
 
 ## [Archives](archives/index.md)
