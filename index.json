@@ -1,6 +1,76 @@
 [
   [
     [
+      "2026-05-21, 15:53:05",
+      "https://lobste.rs/s/fzce4h/ursula_thread_per_core_multi_raft_rust"
+    ],
+    [
+      "Ursula: thread-per-core, multi-Raft Rust runtime for HTTP event streams",
+      "https://github.com/tonbo-io/ursula"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 15:35:29",
+      "https://lobste.rs/s/gl13es/john_regehr_s_integers_c_quiz"
+    ],
+    [
+      "John Regehr's Integers in C Quiz",
+      "https://acepace.net/integerQuiz/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 15:09:32",
+      "https://lobste.rs/s/r87zln/internships_for_early_university_no"
+    ],
+    [
+      "Internships for early university / no former employment",
+      "https://lobste.rs/s/r87zln/internships_for_early_university_no"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 14:04:37",
+      "https://lobste.rs/s/aezmj2/l1_instruction_cache_set_conflicts"
+    ],
+    [
+      "L1 instruction cache set conflicts, associativity, and code alignment in Go",
+      "https://blog.andr2i.com/posts/2026-05-19-a-regression-in-code-i-didn-t-touch.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 13:42:03",
+      "https://lobste.rs/s/yy3xax/fatgid_freebsd_14_x_kernel_lpe"
+    ],
+    [
+      "FatGid - FreeBSD 14.x kernel LPE",
+      "https://fatgid.io/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 13:34:58",
+      "https://lobste.rs/s/ulkriy/church_encoding_parametricity_yoneda"
+    ],
+    [
+      "Church Encoding, Parametricity, and the Yoneda Lemma",
+      "https://blog.wybxc.cc/blog/parametricity/"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 13:16:44",
+      "https://lobste.rs/s/n5qtds/python_3_15_features_didn_t_make_headlines"
+    ],
+    [
+      "Python 3.15: features that didn't make the headlines",
+      "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 10:27:31",
       "https://lobste.rs/s/iggblv/kubernetes_anger"
     ],
@@ -21,32 +91,12 @@
   ],
   [
     [
-      "2026-05-21, 06:59:14",
-      "https://lobste.rs/s/fu5qzo/on_google_declaring_war_on_web"
-    ],
-    [
-      "On Google declaring war on the Web",
-      "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 06:51:15",
       "https://lobste.rs/s/vfxdtu/rfc_llvm_foundation_statement_favor_open"
     ],
     [
       "[RFC] LLVM Foundation statement in favor of open access to standards documents",
       "https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 05:00:13",
-      "https://lobste.rs/s/mqvfc0/no_query_strings_here_either"
-    ],
-    [
-      "No query strings here either",
-      "https://furrer.life/~timo/writings/2026/05/19/no-query-strings/"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2026-05-20, 19:04:37",
-      "https://lobste.rs/s/nwdn3w/logic_bug_linux_kernel_s_ptrace_may_access"
-    ],
-    [
-      "Logic bug in the Linux kernel's __ptrace_may_access() function (CVE-2026-46333)",
-      "https://cdn2.qualys.com/advisory/2026/05/20/cve-2026-46333-ptrace.txt"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 18:57:27",
       "https://lobste.rs/s/rimd7l/yearslong_fight_over_users_right_tweak"
     ],
@@ -157,16 +197,6 @@
     [
       "Notes on I2C",
       "https://rana-emaan.com/read/notes/i2c/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 15:02:39",
-      "https://lobste.rs/s/2ruarm/may_2026_fedi_software_vulnerability"
-    ],
-    [
-      "the may 2026 fedi software vulnerability",
-      "https://w.on-t.work/activitypub/may-2026-vulnerability"
     ]
   ],
   [
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2026-05-20, 12:20:23",
-      "https://lobste.rs/s/i1xwo5/llemdashes"
-    ],
-    [
-      "LLemdashes",
-      "https://wil.to/posts/llemdashes/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 07:26:17",
-      "https://lobste.rs/s/dtcfd6/everything_c_is_undefined_behavior"
-    ],
-    [
-      "Everything in C is undefined behavior",
-      "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html"
-    ]
-  ],
-  [
-    [
       "2026-05-20, 07:08:51",
       "https://lobste.rs/s/ges2gt/github_source_code_breach_teampcp_claims"
     ],
     [
       "GitHub Source Code Breach - TeamPCP Claims Access to Internal Source Code",
       "https://cybersecuritynews.com/github-source-code-breach/"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 04:45:34",
-      "https://lobste.rs/s/2xm9a2/if_you_re_just_going_sit_there_doing"
-    ],
-    [
-      "If you're just going to sit there doing nothing, at least do nothing correctly (2024)",
-      "https://devblogs.microsoft.com/oldnewthing/20240216-00/?p=109409"
     ]
   ],
   [
