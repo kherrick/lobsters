@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-05-21](index.md)
 
+* [2026-05-21, 15:53:05](https://lobste.rs/s/fzce4h/ursula_thread_per_core_multi_raft_rust) - [Ursula: thread-per-core, multi-Raft Rust runtime for HTTP event streams](https://github.com/tonbo-io/ursula)
+* [2026-05-21, 15:35:29](https://lobste.rs/s/gl13es/john_regehr_s_integers_c_quiz) - [John Regehr's Integers in C Quiz](https://acepace.net/integerQuiz/)
+* [2026-05-21, 15:09:32](https://lobste.rs/s/r87zln/internships_for_early_university_no) - [Internships for early university / no former employment](https://lobste.rs/s/r87zln/internships_for_early_university_no)
+* [2026-05-21, 14:04:37](https://lobste.rs/s/aezmj2/l1_instruction_cache_set_conflicts) - [L1 instruction cache set conflicts, associativity, and code alignment in Go](https://blog.andr2i.com/posts/2026-05-19-a-regression-in-code-i-didn-t-touch.html)
+* [2026-05-21, 13:42:03](https://lobste.rs/s/yy3xax/fatgid_freebsd_14_x_kernel_lpe) - [FatGid - FreeBSD 14.x kernel LPE](https://fatgid.io/)
+* [2026-05-21, 13:34:58](https://lobste.rs/s/ulkriy/church_encoding_parametricity_yoneda) - [Church Encoding, Parametricity, and the Yoneda Lemma](https://blog.wybxc.cc/blog/parametricity/)
+* [2026-05-21, 13:16:44](https://lobste.rs/s/n5qtds/python_3_15_features_didn_t_make_headlines) - [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
 * [2026-05-21, 10:27:31](https://lobste.rs/s/iggblv/kubernetes_anger) - [Kubernetes In Anger](https://samof76.space/kubernetes-in-anger.html)
 * [2026-05-21, 07:20:24](https://lobste.rs/s/w0uimq/tailwind_suffering_from_success) - [Tailwind: Suffering From Success](https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/)
 * [2026-05-21, 06:59:14](https://lobste.rs/s/fu5qzo/on_google_declaring_war_on_web) - [On Google declaring war on the Web](https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/)
