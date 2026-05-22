@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-22, 22:14:59",
+      "https://lobste.rs/s/rlpzut/cve_2026_46529_10_year_old_rce_linux_pdf"
+    ],
+    [
+      "CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)",
+      "https://medeiros.zip/posts/CVE-2026-46529-evince"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 21:59:01",
+      "https://lobste.rs/s/xha7ff/announcing_isabelle_support_for_saw"
+    ],
+    [
+      "Announcing Isabelle support for SAW",
+      "https://www.galois.com/articles/announcing-isabelle-support-for-saw"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 20:54:35",
       "https://lobste.rs/s/tbizqg/mysterious_xf86audioplay_issue"
     ],
@@ -37,16 +57,6 @@
     [
       "A blueprint for formal verification of Apple corecrypto",
       "https://security.apple.com/blog/formal-verification-corecrypto/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 17:39:56",
-      "https://lobste.rs/s/iqjiw4/account_center_self_hosted_oidc"
-    ],
-    [
-      "account-center: Self-hosted, OIDC-authenticated portal for internal services and knowledge base articles",
-      "https://git.sr.ht/~icikowski/account-center"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Announcing Web Serial Support in Firefox",
       "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 20:00:59",
-      "https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box"
-    ],
-    [
-      "How to open calc.exe from S&Box",
-      "https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/"
     ]
   ],
   [
