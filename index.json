@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-22, 09:48:59",
+      "https://lobste.rs/s/qwytbf/secure_boot_ca_rollover_heads_up_for"
+    ],
+    [
+      "Secure Boot and CA Rollover - a heads-up for distributions",
+      "https://blog.einval.com/2026/05/22#secure_boot_ca_rollover"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 09:05:54",
+      "https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring"
+    ],
+    [
+      "Megalodon: Mass GitHub Repo Backdooring via CI Workflows",
+      "https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 09:02:45",
+      "https://lobste.rs/s/z1o5ru/this_blog_ran_on_ubuntu_16_04_for_10_years_i"
+    ],
+    [
+      "This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 08:38:40",
+      "https://lobste.rs/s/flehm8/designing_firefox_for_future"
+    ],
+    [
+      "Designing Firefox for the future",
+      "https://blog.mozilla.org/en/firefox/new-firefox-design/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 06:49:30",
+      "https://lobste.rs/s/4vhivn/c_programming_language_quiz"
+    ],
+    [
+      "C Programming Language Quiz",
+      "https://stefansf.de/c-quiz/"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 04:53:32",
       "https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly"
     ],
@@ -51,6 +101,16 @@
   ],
   [
     [
+      "2026-05-21, 23:23:12",
+      "https://lobste.rs/s/jr1uo9/uv_is_fantastic_its_package_management_ux"
+    ],
+    [
+      "uv is fantastic, but its package management UX is a mess",
+      "https://www.loopwerk.io/articles/2026/uv-ux-mess/"
+    ]
+  ],
+  [
+    [
       "2026-05-21, 20:02:05",
       "https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox"
     ],
@@ -91,42 +151,12 @@
   ],
   [
     [
-      "2026-05-21, 18:58:07",
-      "https://lobste.rs/s/njsz36/reviving_old_scanners_with_browser_linux"
-    ],
-    [
-      "Reviving old scanners with an in-browser Linux VM bridged to WebUSB over USB/IP",
-      "https://yes-we-scan.app/details"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 17:47:22",
-      "https://lobste.rs/s/ggqpxg/private_pkg_repo_behind_mutual_tls"
-    ],
-    [
-      "A Private pkg Repo Behind Mutual TLS",
-      "https://oshogbo.com/blog/88/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 17:37:58",
       "https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help"
     ],
     [
       "Flipper One — we need your help",
       "https://blog.flipper.net/flipper-one-we-need-your-help/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 17:08:19",
-      "https://lobste.rs/s/52g7rz/gobee_write_ebpf_programs_go_transpiled"
-    ],
-    [
-      "Gobee: write eBPF programs in Go, transpiled via clang",
-      "https://github.com/boratanrikulu/gobee"
     ]
   ],
   [
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2026-05-21, 07:20:24",
-      "https://lobste.rs/s/w0uimq/tailwind_suffering_from_success"
-    ],
-    [
-      "Tailwind: Suffering From Success",
-      "https://blog.sebin-nyshkim.net/posts/tailwind-suffering-from-success/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 06:51:15",
       "https://lobste.rs/s/vfxdtu/rfc_llvm_foundation_statement_favor_open"
     ],
     [
       "[RFC] LLVM Foundation statement in favor of open access to standards documents",
       "https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 04:27:58",
-      "https://lobste.rs/s/qmvgke/opensmtpd_is_mail_server_for_future"
-    ],
-    [
-      "OpenSMTPD Is The Mail Server For The Future",
-      "https://bsdly.blogspot.com/2026/05/opensmtpd-is-mail-server-for-future.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Chromium publishes fixed exploit 4 years later, turns out it's actually unfixed",
       "https://infosec.exchange/@rebane2001/116606719764376414"
-    ]
-  ],
-  [
-    [
-      "2026-05-20, 20:12:38",
-      "https://lobste.rs/s/garq37/why_does_arrow_operator_c_exist"
-    ],
-    [
-      "Why does the arrow (->) operator in C exist?",
-      "https://stackoverflow.com/questions/13366083/why-does-the-arrow-operator-in-c-exist"
     ]
   ]
 ]
