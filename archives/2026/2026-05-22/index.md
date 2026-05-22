@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 09:48:59](https://lobste.rs/s/qwytbf/secure_boot_ca_rollover_heads_up_for) - [Secure Boot and CA Rollover - a heads-up for distributions](https://blog.einval.com/2026/05/22#secure_boot_ca_rollover)
+* [2026-05-22, 09:05:54](https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring) - [Megalodon: Mass GitHub Repo Backdooring via CI Workflows](https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows)
+* [2026-05-22, 09:02:45](https://lobste.rs/s/z1o5ru/this_blog_ran_on_ubuntu_16_04_for_10_years_i) - [This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
+* [2026-05-22, 08:38:40](https://lobste.rs/s/flehm8/designing_firefox_for_future) - [Designing Firefox for the future](https://blog.mozilla.org/en/firefox/new-firefox-design/)
+* [2026-05-22, 06:49:30](https://lobste.rs/s/4vhivn/c_programming_language_quiz) - [C Programming Language Quiz](https://stefansf.de/c-quiz/)
 * [2026-05-22, 04:53:32](https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly) - [FTC to Require Cox Media Group to Pay Nearly $1million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived)
 * [2026-05-22, 04:13:19](https://lobste.rs/s/7s1uf4/google_api_keys_keep_working_after_you) - [Google API keys keep working after you delete them long enough to be exploited](https://www.aikido.dev/blog/google-api-keys-deletion)
 * [2026-05-22, 02:37:06](https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world) - [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2026-05-21](index.md)
 
 * [2026-05-21, 23:46:32](https://lobste.rs/s/0532zk/stop_using_pull_requests) - [Stop Using Pull Requests](https://a4al6a.substack.com/p/stop-using-pull-requests)
+* [2026-05-21, 23:23:12](https://lobste.rs/s/jr1uo9/uv_is_fantastic_its_package_management_ux) - [uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 * [2026-05-21, 20:41:26](https://lobste.rs/s/blhd1c/cve_2026_47243_kata_containers_guest_root) - [CVE-2026-47243: Kata Containers guest-root to host-root escape via virtiofs](https://www.openwall.com/lists/oss-security/2026/05/21/14)
 * [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
 * [2026-05-21, 20:00:59](https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box) - [How to open calc.exe from S&Box](https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/)
