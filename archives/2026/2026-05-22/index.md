@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 17:36:14](https://lobste.rs/s/zevrur/end_end_procedural_generation_caves_qud) - [End-to-End Procedural Generation in Caves of Qud (2019)](https://www.youtube.com/watch?v=jV-DZqdKlnE)
 * [2026-05-22, 13:22:52](https://lobste.rs/s/k96psg/wordpress_7_0) - [WordPress 7.0](https://wordpress.org/download/releases/7-0/)
 * [2026-05-22, 12:16:10](https://lobste.rs/s/gfjzwa/maintainer_s_dilemma) - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/)
 * [2026-05-22, 11:47:46](https://lobste.rs/s/1acyon/forth_inspired_language_for_writing) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-22, 17:36:14](https://lobste.rs/s/zevrur/end_end_procedural_generation_caves_qud) - [End-to-End Procedural Generation in Caves of Qud (2019)](https://www.youtube.com/watch?v=jV-DZqdKlnE)
 * [2026-05-22, 13:22:52](https://lobste.rs/s/k96psg/wordpress_7_0) - [WordPress 7.0](https://wordpress.org/download/releases/7-0/)
 * [2026-05-22, 12:16:10](https://lobste.rs/s/gfjzwa/maintainer_s_dilemma) - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/)
 * [2026-05-22, 11:47:46](https://lobste.rs/s/1acyon/forth_inspired_language_for_writing) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
@@ -7,7 +8,6 @@
 * [2026-05-22, 09:06:33](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hwyrwd/what_are_you_doing_this_weekend)
 * [2026-05-22, 09:05:54](https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring) - [Megalodon: Mass GitHub Repo Backdooring via CI Workflows](https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows)
 * [2026-05-22, 09:02:45](https://lobste.rs/s/z1o5ru/this_blog_ran_on_ubuntu_16_04_for_10_years_i) - [This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
-* [2026-05-22, 08:54:56](https://lobste.rs/s/zipfsh/minc_minimal_language_for_building) - [minc — A minimal language for building native software](https://minc.dev/)
 * [2026-05-22, 08:38:40](https://lobste.rs/s/flehm8/designing_firefox_for_future) - [Designing Firefox for the future](https://blog.mozilla.org/en/firefox/new-firefox-design/)
 * [2026-05-22, 06:49:30](https://lobste.rs/s/4vhivn/c_programming_language_quiz) - [C Programming Language Quiz](https://stefansf.de/c-quiz/)
 * [2026-05-22, 04:53:32](https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly) - [FTC to Require Cox Media Group to Pay Nearly $1million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived)
