@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 20:19:50](https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products) - [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/)
+* [2026-05-22, 19:40:05](https://lobste.rs/s/7crjja/blueprint_for_formal_verification_apple) - [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
+* [2026-05-22, 17:39:56](https://lobste.rs/s/iqjiw4/account_center_self_hosted_oidc) - [account-center: Self-hosted, OIDC-authenticated portal for internal services and knowledge base articles](https://git.sr.ht/~icikowski/account-center)
 * [2026-05-22, 17:36:14](https://lobste.rs/s/zevrur/end_end_procedural_generation_caves_qud) - [End-to-End Procedural Generation in Caves of Qud (2019)](https://www.youtube.com/watch?v=jV-DZqdKlnE)
+* [2026-05-22, 17:21:49](https://lobste.rs/s/xgwq0o/burnout_open_source_structural_problem) - [Burnout in Open Source: A Structural Problem We Can Fix Together](https://opensourcepledge.com/blog/burnout-in-open-source-a-structural-problem-we-can-fix-together/)
 * [2026-05-22, 13:22:52](https://lobste.rs/s/k96psg/wordpress_7_0) - [WordPress 7.0](https://wordpress.org/download/releases/7-0/)
 * [2026-05-22, 12:16:10](https://lobste.rs/s/gfjzwa/maintainer_s_dilemma) - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/)
 * [2026-05-22, 11:47:46](https://lobste.rs/s/1acyon/forth_inspired_language_for_writing) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)

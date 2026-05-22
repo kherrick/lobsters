@@ -1,6 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-22, 20:19:50](https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products) - [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/)
+* [2026-05-22, 19:40:05](https://lobste.rs/s/7crjja/blueprint_for_formal_verification_apple) - [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
+* [2026-05-22, 17:39:56](https://lobste.rs/s/iqjiw4/account_center_self_hosted_oidc) - [account-center: Self-hosted, OIDC-authenticated portal for internal services and knowledge base articles](https://git.sr.ht/~icikowski/account-center)
 * [2026-05-22, 17:36:14](https://lobste.rs/s/zevrur/end_end_procedural_generation_caves_qud) - [End-to-End Procedural Generation in Caves of Qud (2019)](https://www.youtube.com/watch?v=jV-DZqdKlnE)
+* [2026-05-22, 17:21:49](https://lobste.rs/s/xgwq0o/burnout_open_source_structural_problem) - [Burnout in Open Source: A Structural Problem We Can Fix Together](https://opensourcepledge.com/blog/burnout-in-open-source-a-structural-problem-we-can-fix-together/)
 * [2026-05-22, 13:22:52](https://lobste.rs/s/k96psg/wordpress_7_0) - [WordPress 7.0](https://wordpress.org/download/releases/7-0/)
 * [2026-05-22, 12:16:10](https://lobste.rs/s/gfjzwa/maintainer_s_dilemma) - [The Maintainer's Dilemma](https://spf13.com/p/the-maintainers-dilemma/)
 * [2026-05-22, 11:47:46](https://lobste.rs/s/1acyon/forth_inspired_language_for_writing) - [A Forth-inspired language for writing websites](https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites)
@@ -14,17 +18,13 @@
 * [2026-05-22, 04:13:19](https://lobste.rs/s/7s1uf4/google_api_keys_keep_working_after_you) - [Google API keys keep working after you delete them long enough to be exploited](https://www.aikido.dev/blog/google-api-keys-deletion)
 * [2026-05-22, 02:37:06](https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world) - [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)
 * [2026-05-22, 01:33:43](https://lobste.rs/s/90cyc3/introducing_pkg_go_dev_api) - [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api)
-* [2026-05-21, 23:23:12](https://lobste.rs/s/jr1uo9/uv_is_fantastic_its_package_management_ux) - [uv is fantastic, but its package management UX is a mess](https://www.loopwerk.io/articles/2026/uv-ux-mess/)
 * [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
 * [2026-05-21, 20:00:59](https://lobste.rs/s/r6lw7v/how_open_calc_exe_from_s_box) - [How to open calc.exe from S&Box](https://slugcat.systems/post/26-05-21-how-to-open-calc-exe-from-sbox/)
 * [2026-05-21, 19:14:04](https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we) - [Dependency cooldowns are unfair; we should use phased rollouts instead](https://illegalcode.net/rfcs/phased_rollouts.html)
 * [2026-05-21, 17:37:58](https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help) - [Flipper One — we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 * [2026-05-21, 15:09:32](https://lobste.rs/s/r87zln/internships_for_early_university_no) - [Internships for early university / no former employment](https://lobste.rs/s/r87zln/internships_for_early_university_no)
-* [2026-05-21, 13:16:44](https://lobste.rs/s/n5qtds/python_3_15_features_didn_t_make_headlines) - [Python 3.15: features that didn't make the headlines](https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html)
 * [2026-05-21, 10:27:31](https://lobste.rs/s/iggblv/kubernetes_anger) - [Kubernetes In Anger](https://samof76.space/kubernetes-in-anger.html)
-* [2026-05-21, 06:51:15](https://lobste.rs/s/vfxdtu/rfc_llvm_foundation_statement_favor_open) - [[RFC] LLVM Foundation statement in favor of open access to standards documents](https://discourse.llvm.org/t/rfc-open-access-to-standards-documents/90856)
 * [2026-05-21, 03:51:01](https://lobste.rs/s/k21pdb/aggressive_ai_scrapers_are_making_it) - [Aggressive AI scrapers are making it kinda suck to run wikis](https://weirdgloop.org/blog/clankers)
-* [2026-05-21, 03:07:20](https://lobste.rs/s/3ltdmy/twelve_ways_be_wrong_about_ai_assisted) - [Twelve Ways to Be Wrong About AI-Assisted Coding](https://third-bit.com/2026/05/20/twelve-ways-to-be-wrong/)
 
 ## [Archives](archives/index.md)
 
