@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 22:14:59](https://lobste.rs/s/rlpzut/cve_2026_46529_10_year_old_rce_linux_pdf) - [CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)](https://medeiros.zip/posts/CVE-2026-46529-evince)
+* [2026-05-22, 21:59:01](https://lobste.rs/s/xha7ff/announcing_isabelle_support_for_saw) - [Announcing Isabelle support for SAW](https://www.galois.com/articles/announcing-isabelle-support-for-saw)
 * [2026-05-22, 20:54:35](https://lobste.rs/s/tbizqg/mysterious_xf86audioplay_issue) - [The mysterious XF86AudioPlay issue](https://michael-prokop.at/blog/2026/05/20/the-mysterious-xf86audioplay-issue/)
 * [2026-05-22, 20:40:35](https://lobste.rs/s/xsnzi6/noroboto_lying_fonts_mitigation_rust) - [Noroboto: Lying fonts and mitigation in Rust](https://tritium.legal/blog/noroboto)
 * [2026-05-22, 20:19:50](https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products) - [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/)
