@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-22, 04:53:32",
+      "https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly"
+    ],
+    [
+      "FTC to Require Cox Media Group to Pay Nearly $1million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service",
+      "https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 04:13:19",
+      "https://lobste.rs/s/7s1uf4/google_api_keys_keep_working_after_you"
+    ],
+    [
+      "Google API keys keep working after you delete them long enough to be exploited",
+      "https://www.aikido.dev/blog/google-api-keys-deletion"
+    ]
+  ],
+  [
+    [
       "2026-05-22, 02:37:06",
       "https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world"
     ],
@@ -17,6 +37,16 @@
     [
       "Introducing the pkg.go.dev API",
       "https://go.dev/blog/pkgsite-api"
+    ]
+  ],
+  [
+    [
+      "2026-05-21, 23:46:32",
+      "https://lobste.rs/s/0532zk/stop_using_pull_requests"
+    ],
+    [
+      "Stop Using Pull Requests",
+      "https://a4al6a.substack.com/p/stop-using-pull-requests"
     ]
   ],
   [
@@ -101,42 +131,12 @@
   ],
   [
     [
-      "2026-05-21, 15:35:29",
-      "https://lobste.rs/s/gl13es/john_regehr_s_integers_c_quiz"
-    ],
-    [
-      "John Regehr's Integers in C Quiz",
-      "https://acepace.net/integerQuiz/"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 15:09:32",
       "https://lobste.rs/s/r87zln/internships_for_early_university_no"
     ],
     [
       "Internships for early university / no former employment",
       "https://lobste.rs/s/r87zln/internships_for_early_university_no"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 13:42:03",
-      "https://lobste.rs/s/yy3xax/fatgid_freebsd_14_x_kernel_lpe"
-    ],
-    [
-      "FatGid - FreeBSD 14.x kernel LPE",
-      "https://fatgid.io/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 13:34:58",
-      "https://lobste.rs/s/ulkriy/church_encoding_parametricity_yoneda"
-    ],
-    [
-      "Church Encoding, Parametricity, and the Yoneda Lemma",
-      "https://blog.wybxc.cc/blog/parametricity/"
     ]
   ],
   [
