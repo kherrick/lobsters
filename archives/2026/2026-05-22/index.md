@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-22](index.md)
 
+* [2026-05-22, 20:54:35](https://lobste.rs/s/tbizqg/mysterious_xf86audioplay_issue) - [The mysterious XF86AudioPlay issue](https://michael-prokop.at/blog/2026/05/20/the-mysterious-xf86audioplay-issue/)
+* [2026-05-22, 20:40:35](https://lobste.rs/s/xsnzi6/noroboto_lying_fonts_mitigation_rust) - [Noroboto: Lying fonts and mitigation in Rust](https://tritium.legal/blog/noroboto)
 * [2026-05-22, 20:19:50](https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products) - [Only 17% of all 64-bit Integers are products of two 32-bit integers](https://lemire.me/blog/2026/05/22/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers/)
 * [2026-05-22, 19:40:05](https://lobste.rs/s/7crjja/blueprint_for_formal_verification_apple) - [A blueprint for formal verification of Apple corecrypto](https://security.apple.com/blog/formal-verification-corecrypto/)
 * [2026-05-22, 17:39:56](https://lobste.rs/s/iqjiw4/account_center_self_hosted_oidc) - [account-center: Self-hosted, OIDC-authenticated portal for internal services and knowledge base articles](https://git.sr.ht/~icikowski/account-center)
