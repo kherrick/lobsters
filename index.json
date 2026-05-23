@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-23, 15:24:02",
+      "https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around"
+    ],
+    [
+      "z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro",
+      "https://nand2mario.github.io/posts/2026/z386/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 15:18:35",
+      "https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed"
+    ],
+    [
+      "C Constructs That Still Don’t Work in C++ — and a Few That Changed",
+      "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 14:07:31",
       "https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-05-23, 05:19:26",
-      "https://lobste.rs/s/vda4gq/adjusting_mac_s_system_volume_on_command"
-    ],
-    [
-      "Adjusting a Mac's System Volume on the Command Line",
-      "https://excessivelyadequate.com/posts/vol.html"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 02:57:49",
       "https://lobste.rs/s/m2kldy/comparing_lz4_decompressor_on_four"
     ],
@@ -227,16 +237,6 @@
     [
       "Gnutella: A Protocol Outliving the World That Created It",
       "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 20:02:05",
-      "https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox"
-    ],
-    [
-      "Announcing Web Serial Support in Firefox",
-      "https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/"
     ]
   ],
   [
