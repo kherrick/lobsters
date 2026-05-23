@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-05-23, 15:24:02",
-      "https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around"
+      "2026-05-23, 15:50:15",
+      "https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format"
     ],
     [
-      "z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro",
-      "https://nand2mario.github.io/posts/2026/z386/"
+      "Hershey is a textual vector font format",
+      "https://wiki.xxiivv.com/site/hershey.html"
     ]
   ],
   [
     [
-      "2026-05-23, 15:18:35",
-      "https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed"
+      "2026-05-23, 15:05:29",
+      "https://lobste.rs/s/5zonsl/cuneiforth_forth_for_your_chifir"
     ],
     [
-      "C Constructs That Still Don’t Work in C++ — and a Few That Changed",
-      "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/"
+      "Cuneiforth: A Forth for your Chifir",
+      "https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Wayland compositor implemented as a mod in Minecraft",
       "https://modrinth.com/project/9yAfrPwH"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 13:47:12",
+      "https://lobste.rs/s/8k4omy/dropping_privileges_go"
+    ],
+    [
+      "Dropping Privileges in Go",
+      "https://log.0x21.biz/posts/go-privdrop/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Gnutella: A Protocol Outliving the World That Created It",
       "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 17:37:58",
-      "https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help"
-    ],
-    [
-      "Flipper One — we need your help",
-      "https://blog.flipper.net/flipper-one-we-need-your-help/"
     ]
   ]
 ]
