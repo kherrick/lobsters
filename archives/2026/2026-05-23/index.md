@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 18:57:06](https://lobste.rs/s/dqig3h/on_dl) - [On the <dl>](https://benmyers.dev/blog/on-the-dl/)
+* [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
 * [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
 * [2026-05-23, 15:24:02](https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around) - [z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro](https://nand2mario.github.io/posts/2026/z386/)
 * [2026-05-23, 15:18:35](https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed) - [C Constructs That Still Don’t Work in C++ — and a Few That Changed](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
+* [2026-05-23, 15:11:47](https://lobste.rs/s/zcchf1/improving_my_self_hosted_actions_runner) - [Improving my self-hosted actions runner setup](https://excipio.tech/blog/improving-my-self-hosted-actions-runner-setup/)
 * [2026-05-23, 15:05:29](https://lobste.rs/s/5zonsl/cuneiforth_forth_for_your_chifir) - [Cuneiforth: A Forth for your Chifir](https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F)
 * [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
 * [2026-05-23, 13:47:12](https://lobste.rs/s/8k4omy/dropping_privileges_go) - [Dropping Privileges in Go](https://log.0x21.biz/posts/go-privdrop/)
