@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 07:44:27](https://lobste.rs/s/ztam3w/don_t_roll_your_own) - [Don't Roll Your Own …](https://susam.net/do-not-roll-your-own.html)
 * [2026-05-23, 06:06:49](https://lobste.rs/s/ujrw32/staged_publishing_new_install_time) - [Staged publishing and new install-time controls for NPM](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
 * [2026-05-23, 06:04:52](https://lobste.rs/s/z17p7a/price_humans) - [The price of humans](https://blog.umangsurana.com/blog/price_of_humans/)
 * [2026-05-23, 05:51:38](https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically) - [SPy: an interpreter and a compiler for a statically typed variant of Python](https://github.com/spylang/spy)
