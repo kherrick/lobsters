@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-23, 06:06:49](https://lobste.rs/s/ujrw32/staged_publishing_new_install_time) - [Staged publishing and new install-time controls for NPM](https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/)
+* [2026-05-23, 06:04:52](https://lobste.rs/s/z17p7a/price_humans) - [The price of humans](https://blog.umangsurana.com/blog/price_of_humans/)
+* [2026-05-23, 05:51:38](https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically) - [SPy: an interpreter and a compiler for a statically typed variant of Python](https://github.com/spylang/spy)
+* [2026-05-23, 05:31:13](https://lobste.rs/s/cvwsxk/sp_h_is_standard_library_c_deserves) - [sp.h is the standard library that C deserves](https://spader.zone/sp/)
 * [2026-05-23, 02:57:49](https://lobste.rs/s/m2kldy/comparing_lz4_decompressor_on_four) - [Comparing an LZ4 Decompressor on four legacy CPUs](https://bumbershootsoft.wordpress.com/2026/05/09/comparing-an-lz4-decompressor-on-four-legacy-cpus/)
 * [2026-05-23, 02:20:30](https://lobste.rs/s/bo9ecf/planescape_torment_part_1_from_tabletop) - [Planescape: Torment, Part 1: From the Tabletop](https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/)
 * [2026-05-22, 22:14:59](https://lobste.rs/s/rlpzut/cve_2026_46529_10_year_old_rce_linux_pdf) - [CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)](https://medeiros.zip/posts/CVE-2026-46529-evince)
@@ -18,13 +22,9 @@
 * [2026-05-22, 08:38:40](https://lobste.rs/s/flehm8/designing_firefox_for_future) - [Designing Firefox for the future](https://blog.mozilla.org/en/firefox/new-firefox-design/)
 * [2026-05-22, 06:49:30](https://lobste.rs/s/4vhivn/c_programming_language_quiz) - [C Programming Language Quiz](https://stefansf.de/c-quiz/)
 * [2026-05-22, 04:53:32](https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly) - [FTC to Require Cox Media Group to Pay Nearly $1million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived)
-* [2026-05-22, 04:13:19](https://lobste.rs/s/7s1uf4/google_api_keys_keep_working_after_you) - [Google API keys keep working after you delete them long enough to be exploited](https://www.aikido.dev/blog/google-api-keys-deletion)
 * [2026-05-22, 02:37:06](https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world) - [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)
-* [2026-05-22, 01:33:43](https://lobste.rs/s/90cyc3/introducing_pkg_go_dev_api) - [Introducing the pkg.go.dev API](https://go.dev/blog/pkgsite-api)
 * [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
-* [2026-05-21, 19:14:04](https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we) - [Dependency cooldowns are unfair; we should use phased rollouts instead](https://illegalcode.net/rfcs/phased_rollouts.html)
 * [2026-05-21, 17:37:58](https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help) - [Flipper One — we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
-* [2026-05-21, 15:09:32](https://lobste.rs/s/r87zln/internships_for_early_university_no) - [Internships for early university / no former employment](https://lobste.rs/s/r87zln/internships_for_early_university_no)
 
 ## [Archives](archives/index.md)
 
