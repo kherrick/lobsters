@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 21:28:40](https://lobste.rs/s/5ob3rh/net_ok_c_finally_gets_union_types) - [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
 * [2026-05-23, 20:38:20](https://lobste.rs/s/fmdyt7/architecture_berkeleydb) - [The Architecture of BerkeleyDB](https://aosabook.org/en/v1/bdb.html)
 * [2026-05-23, 20:11:14](https://lobste.rs/s/yfpl8d/procedural_fascicle_for_r7rs_large) - [Procedural Fascicle for R7RS Large Scheme](https://r7rs.org/large/fascicles/proc/)
 * [2026-05-23, 19:11:33](https://lobste.rs/s/8dnsat/reverse_engineering_circuitry_spacelab) - [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
