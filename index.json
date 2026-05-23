@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-23, 20:11:14",
+      "https://lobste.rs/s/yfpl8d/procedural_fascicle_for_r7rs_large"
+    ],
+    [
+      "Procedural Fascicle for R7RS Large Scheme",
+      "https://r7rs.org/large/fascicles/proc/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 19:11:33",
+      "https://lobste.rs/s/8dnsat/reverse_engineering_circuitry_spacelab"
+    ],
+    [
+      "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 18:57:06",
       "https://lobste.rs/s/dqig3h/on_dl"
     ],
@@ -151,42 +171,22 @@
   ],
   [
     [
-      "2026-05-23, 06:04:52",
-      "https://lobste.rs/s/z17p7a/price_humans"
-    ],
-    [
-      "The price of humans",
-      "https://blog.umangsurana.com/blog/price_of_humans/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 05:51:38",
-      "https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically"
-    ],
-    [
-      "SPy: an interpreter and a compiler for a statically typed variant of Python",
-      "https://github.com/spylang/spy"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 05:31:13",
-      "https://lobste.rs/s/cvwsxk/sp_h_is_standard_library_c_deserves"
-    ],
-    [
-      "sp.h is the standard library that C deserves",
-      "https://spader.zone/sp/"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 02:20:30",
       "https://lobste.rs/s/bo9ecf/planescape_torment_part_1_from_tabletop"
     ],
     [
       "Planescape: Torment, Part 1: From the Tabletop",
       "https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/"
+    ]
+  ],
+  [
+    [
+      "2026-05-22, 22:14:59",
+      "https://lobste.rs/s/rlpzut/cve_2026_46529_10_year_old_rce_linux_pdf"
+    ],
+    [
+      "CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)",
+      "https://medeiros.zip/posts/CVE-2026-46529-evince"
     ]
   ],
   [
