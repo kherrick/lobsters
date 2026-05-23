@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-23, 06:06:49",
+      "https://lobste.rs/s/ujrw32/staged_publishing_new_install_time"
+    ],
+    [
+      "Staged publishing and new install-time controls for NPM",
+      "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 06:04:52",
+      "https://lobste.rs/s/z17p7a/price_humans"
+    ],
+    [
+      "The price of humans",
+      "https://blog.umangsurana.com/blog/price_of_humans/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 05:51:38",
+      "https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically"
+    ],
+    [
+      "SPy: an interpreter and a compiler for a statically typed variant of Python",
+      "https://github.com/spylang/spy"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 05:31:13",
+      "https://lobste.rs/s/cvwsxk/sp_h_is_standard_library_c_deserves"
+    ],
+    [
+      "sp.h is the standard library that C deserves",
+      "https://spader.zone/sp/"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 02:57:49",
       "https://lobste.rs/s/m2kldy/comparing_lz4_decompressor_on_four"
     ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2026-05-22, 04:13:19",
-      "https://lobste.rs/s/7s1uf4/google_api_keys_keep_working_after_you"
-    ],
-    [
-      "Google API keys keep working after you delete them long enough to be exploited",
-      "https://www.aikido.dev/blog/google-api-keys-deletion"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 02:37:06",
       "https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world"
     ],
     [
       "Gnutella: A Protocol Outliving the World That Created It",
       "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 01:33:43",
-      "https://lobste.rs/s/90cyc3/introducing_pkg_go_dev_api"
-    ],
-    [
-      "Introducing the pkg.go.dev API",
-      "https://go.dev/blog/pkgsite-api"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-05-21, 19:14:04",
-      "https://lobste.rs/s/jyhbzg/dependency_cooldowns_are_unfair_we"
-    ],
-    [
-      "Dependency cooldowns are unfair; we should use phased rollouts instead",
-      "https://illegalcode.net/rfcs/phased_rollouts.html"
-    ]
-  ],
-  [
-    [
       "2026-05-21, 17:37:58",
       "https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help"
     ],
     [
       "Flipper One — we need your help",
       "https://blog.flipper.net/flipper-one-we-need-your-help/"
-    ]
-  ],
-  [
-    [
-      "2026-05-21, 15:09:32",
-      "https://lobste.rs/s/r87zln/internships_for_early_university_no"
-    ],
-    [
-      "Internships for early university / no former employment",
-      "https://lobste.rs/s/r87zln/internships_for_early_university_no"
     ]
   ]
 ]
