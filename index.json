@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-23, 18:57:06",
+      "https://lobste.rs/s/dqig3h/on_dl"
+    ],
+    [
+      "On the <dl>",
+      "https://benmyers.dev/blog/on-the-dl/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 18:55:05",
+      "https://lobste.rs/s/6rwldo/jira_is_turing_complete"
+    ],
+    [
+      "Jira is Turing-Complete",
+      "https://seriot.ch/computation/jira.html"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 15:50:15",
       "https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format"
     ],
@@ -27,16 +47,6 @@
     [
       "C Constructs That Still Don’t Work in C++ — and a Few That Changed",
       "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 15:11:47",
-      "https://lobste.rs/s/zcchf1/improving_my_self_hosted_actions_runner"
-    ],
-    [
-      "Improving my self-hosted actions runner setup",
-      "https://excipio.tech/blog/improving-my-self-hosted-actions-runner-setup/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Planescape: Torment, Part 1: From the Tabletop",
       "https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 22:14:59",
-      "https://lobste.rs/s/rlpzut/cve_2026_46529_10_year_old_rce_linux_pdf"
-    ],
-    [
-      "CVE-2026-46529: 10-year-old RCE in Linux PDF Viewer (XReader/Evince/Atril)",
-      "https://medeiros.zip/posts/CVE-2026-46529-evince"
     ]
   ],
   [
