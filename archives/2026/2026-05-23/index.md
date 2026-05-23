@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 20:11:14](https://lobste.rs/s/yfpl8d/procedural_fascicle_for_r7rs_large) - [Procedural Fascicle for R7RS Large Scheme](https://r7rs.org/large/fascicles/proc/)
+* [2026-05-23, 19:11:33](https://lobste.rs/s/8dnsat/reverse_engineering_circuitry_spacelab) - [Reverse engineering circuitry in a Spacelab computer from 1980](http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html)
 * [2026-05-23, 18:57:06](https://lobste.rs/s/dqig3h/on_dl) - [On the <dl>](https://benmyers.dev/blog/on-the-dl/)
 * [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
 * [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
