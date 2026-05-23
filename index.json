@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-23, 11:57:36",
+      "https://lobste.rs/s/whdhza/highest_random_weight_elixir"
+    ],
+    [
+      "Highest Random Weight in Elixir",
+      "https://jola.dev/posts/highest-random-weight-in-elixir"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 11:11:03",
+      "https://lobste.rs/s/ip7rdd/hp_bought_hyperspace_once_offered_3"
+    ],
+    [
+      "HP bought Hyperspace, & once offered 3 different pre-boot or in-boot OSs, including Quickweb",
+      "https://gekk.info/articles/hp-quickweb.htm"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 10:39:09",
       "https://lobste.rs/s/fms0x0/mvm_fast_virtual_machine_for_go"
     ],
@@ -71,6 +91,16 @@
   ],
   [
     [
+      "2026-05-23, 05:19:26",
+      "https://lobste.rs/s/vda4gq/adjusting_mac_s_system_volume_on_command"
+    ],
+    [
+      "Adjusting a Mac's System Volume on the Command Line",
+      "https://excessivelyadequate.com/posts/vol.html"
+    ]
+  ],
+  [
+    [
       "2026-05-23, 02:57:49",
       "https://lobste.rs/s/m2kldy/comparing_lz4_decompressor_on_four"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-05-22, 20:40:35",
-      "https://lobste.rs/s/xsnzi6/noroboto_lying_fonts_mitigation_rust"
-    ],
-    [
-      "Noroboto: Lying fonts and mitigation in Rust",
-      "https://tritium.legal/blog/noroboto"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 20:19:50",
       "https://lobste.rs/s/fkrpjw/only_17_all_64_bit_integers_are_products"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2026-05-22, 17:36:14",
-      "https://lobste.rs/s/zevrur/end_end_procedural_generation_caves_qud"
-    ],
-    [
-      "End-to-End Procedural Generation in Caves of Qud (2019)",
-      "https://www.youtube.com/watch?v=jV-DZqdKlnE"
-    ]
-  ],
-  [
-    [
       "2026-05-22, 12:16:10",
       "https://lobste.rs/s/gfjzwa/maintainer_s_dilemma"
     ],
@@ -177,16 +187,6 @@
     [
       "A Forth-inspired language for writing websites",
       "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 09:05:54",
-      "https://lobste.rs/s/k2ifb5/megalodon_mass_github_repo_backdooring"
-    ],
-    [
-      "Megalodon: Mass GitHub Repo Backdooring via CI Workflows",
-      "https://safedep.io/megalodon-mass-github-repo-backdooring-ci-workflows"
     ]
   ],
   [
