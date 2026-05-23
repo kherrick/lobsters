@@ -2,6 +2,7 @@
 
 * [2026-05-23, 10:39:09](https://lobste.rs/s/fms0x0/mvm_fast_virtual_machine_for_go) - [mvm - a fast virtual machine for Go](https://mvm.sh/)
 * [2026-05-23, 09:57:28](https://lobste.rs/s/arfalj/one_time_i_used_go_panics_for_flow_control) - [That one time I used Go panics for flow control](https://noncrab.net/posts/panic-as-flow-control/)
+* [2026-05-23, 07:53:07](https://lobste.rs/s/luyrv4/new_suite_modern_tools_coming_for_editing) - [A new suite of modern tools coming for editing and publishing RFCs](https://www.ietf.org/blog/new-tools-coming-for-editing-and-publishing-rfcs/)
 * [2026-05-23, 07:44:27](https://lobste.rs/s/ztam3w/don_t_roll_your_own) - [Don't Roll Your Own …](https://susam.net/do-not-roll-your-own.html)
 * [2026-05-23, 06:04:52](https://lobste.rs/s/z17p7a/price_humans) - [The price of humans](https://blog.umangsurana.com/blog/price_of_humans/)
 * [2026-05-23, 05:51:38](https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically) - [SPy: an interpreter and a compiler for a statically typed variant of Python](https://github.com/spylang/spy)
@@ -21,7 +22,6 @@
 * [2026-05-22, 09:02:45](https://lobste.rs/s/z1o5ru/this_blog_ran_on_ubuntu_16_04_for_10_years_i) - [This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD](https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/)
 * [2026-05-22, 08:38:40](https://lobste.rs/s/flehm8/designing_firefox_for_future) - [Designing Firefox for the future](https://blog.mozilla.org/en/firefox/new-firefox-design/)
 * [2026-05-22, 06:49:30](https://lobste.rs/s/4vhivn/c_programming_language_quiz) - [C Programming Language Quiz](https://stefansf.de/c-quiz/)
-* [2026-05-22, 04:53:32](https://lobste.rs/s/2ddikd/ftc_require_cox_media_group_pay_nearly) - [FTC to Require Cox Media Group to Pay Nearly $1million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service](https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived)
 * [2026-05-22, 02:37:06](https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world) - [Gnutella: A Protocol Outliving the World That Created It](https://rickcarlino.com/notes/p2p/gnutella-explanation.html)
 * [2026-05-21, 20:02:05](https://lobste.rs/s/tbxmm1/announcing_web_serial_support_firefox) - [Announcing Web Serial Support in Firefox](https://hacks.mozilla.org/2026/05/web-serial-support-in-firefox/)
 * [2026-05-21, 17:37:58](https://lobste.rs/s/fxqjqu/flipper_one_we_need_your_help) - [Flipper One — we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
