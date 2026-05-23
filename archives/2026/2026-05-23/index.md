@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 15:24:02](https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around) - [z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro](https://nand2mario.github.io/posts/2026/z386/)
+* [2026-05-23, 15:18:35](https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed) - [C Constructs That Still Don’t Work in C++ — and a Few That Changed](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
 * [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
 * [2026-05-23, 12:52:23](https://lobste.rs/s/yq1t6f/baby_s_first_dds_signal_generator) - [Baby's First DDS Signal Generator](https://tomscii.sig7.se/2026/05/Babys-First-DDS-Signal-Generator)
 * [2026-05-23, 11:57:36](https://lobste.rs/s/whdhza/highest_random_weight_elixir) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
