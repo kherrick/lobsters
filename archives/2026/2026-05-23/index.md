@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-05-23](index.md)
 
+* [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
 * [2026-05-23, 15:24:02](https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around) - [z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro](https://nand2mario.github.io/posts/2026/z386/)
 * [2026-05-23, 15:18:35](https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed) - [C Constructs That Still Don’t Work in C++ — and a Few That Changed](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
+* [2026-05-23, 15:05:29](https://lobste.rs/s/5zonsl/cuneiforth_forth_for_your_chifir) - [Cuneiforth: A Forth for your Chifir](https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F)
 * [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
+* [2026-05-23, 13:47:12](https://lobste.rs/s/8k4omy/dropping_privileges_go) - [Dropping Privileges in Go](https://log.0x21.biz/posts/go-privdrop/)
 * [2026-05-23, 12:52:23](https://lobste.rs/s/yq1t6f/baby_s_first_dds_signal_generator) - [Baby's First DDS Signal Generator](https://tomscii.sig7.se/2026/05/Babys-First-DDS-Signal-Generator)
 * [2026-05-23, 11:57:36](https://lobste.rs/s/whdhza/highest_random_weight_elixir) - [Highest Random Weight in Elixir](https://jola.dev/posts/highest-random-weight-in-elixir)
 * [2026-05-23, 11:11:03](https://lobste.rs/s/ip7rdd/hp_bought_hyperspace_once_offered_3) - [HP bought Hyperspace, & once offered 3 different pre-boot or in-boot OSs, including Quickweb](https://gekk.info/articles/hp-quickweb.htm)
