@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
+* [2026-05-24, 14:41:12](https://lobste.rs/s/5xwplk/no_linux_support_on_free_version_vivado) - [No Linux support on free version of Vivado 2026.1](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/vivado-licensing-options.html)
+* [2026-05-24, 14:38:34](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers) - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
+* [2026-05-24, 14:22:54](https://lobste.rs/s/vqivdq/from_afsk_goertzel) - [From AFSK to Goertzel](https://uart.cz/2959/from-afsk-to-goertzel/)
 * [2026-05-24, 13:43:11](https://lobste.rs/s/d3uwf1/libwce_entropy_layer_wavelet_codec_on_its) - [libwce: the entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
 * [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler - Rob Durst - Gleam Gathering 2026](https://www.youtube.com/watch?v=wVQLEAHrwrI)
 * [2026-05-24, 11:37:11](https://lobste.rs/s/jlhsqw/debian_se_linux_pintheft) - [Debian SE Linux and PinTheft](https://etbe.coker.com.au/2026/05/24/debian-selinux-pintheft/)
