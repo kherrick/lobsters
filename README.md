@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-24, 10:37:11](https://lobste.rs/s/rzs4bq/fht_compositor_dynamic_tiling_wayland) - [fht-compositor: A dynamic tiling Wayland compositor](https://github.com/nferhat/fht-compositor)
 * [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
 * [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
 * [2026-05-24, 03:32:14](https://lobste.rs/s/9mu7tv/wake_up_16b_demo_writeup) - [wake up! 16b (demo writeup)](https://hellmood.111mb.de/wake_up_16b_writeup.html)
@@ -16,7 +17,6 @@
 * [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
 * [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
 * [2026-05-23, 15:24:02](https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around) - [z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro](https://nand2mario.github.io/posts/2026/z386/)
-* [2026-05-23, 15:18:35](https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed) - [C Constructs That Still Don’t Work in C++ — and a Few That Changed](https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/)
 * [2026-05-23, 15:05:29](https://lobste.rs/s/5zonsl/cuneiforth_forth_for_your_chifir) - [Cuneiforth: A Forth for your Chifir](https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F)
 * [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
 * [2026-05-23, 11:11:03](https://lobste.rs/s/ip7rdd/hp_bought_hyperspace_once_offered_3) - [HP bought Hyperspace, & once offered 3 different pre-boot or in-boot OSs, including Quickweb](https://gekk.info/articles/hp-quickweb.htm)
