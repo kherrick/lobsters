@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 23:38:12](https://lobste.rs/s/nkrgmr/js_crossword_crossword_where_clue_eval) - [JS Crossword - a crossword where the clue = eval(answer)](https://lyra.horse/fun/jscrossword/)
+* [2026-05-24, 22:57:46](https://lobste.rs/s/26wkdp/discussion_about_c_array_type_semantics) - [Discussion about C array type semantics](https://anselmschueler.com/blogposts/2025-c-pointers/)
 * [2026-05-24, 21:24:12](https://lobste.rs/s/gfbpgq/flatpak_will_depend_on_systemd) - [Flatpak will depend on systemd](https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/)
 * [2026-05-24, 21:00:34](https://lobste.rs/s/ydqlgv/soul_maintaining_new_machine) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3)
 * [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
