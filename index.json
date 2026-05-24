@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-24, 10:37:11",
+      "https://lobste.rs/s/rzs4bq/fht_compositor_dynamic_tiling_wayland"
+    ],
+    [
+      "fht-compositor: A dynamic tiling Wayland compositor",
+      "https://github.com/nferhat/fht-compositor"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 08:31:24",
       "https://lobste.rs/s/obnccl/network_allow_list_won_t_stop"
     ],
@@ -157,16 +167,6 @@
     [
       "z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro",
       "https://nand2mario.github.io/posts/2026/z386/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 15:18:35",
-      "https://lobste.rs/s/za6jjo/c_constructs_still_don_t_work_c_few_changed"
-    ],
-    [
-      "C Constructs That Still Don’t Work in C++ — and a Few That Changed",
-      "https://lospino.so/blog/c-constructs-that-still-dont-work-in-cpp/"
     ]
   ],
   [
