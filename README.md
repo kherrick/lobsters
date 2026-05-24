@@ -5,7 +5,7 @@
 * [2026-05-24, 14:38:34](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers) - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
 * [2026-05-24, 14:22:54](https://lobste.rs/s/vqivdq/from_afsk_goertzel) - [From AFSK to Goertzel](https://uart.cz/2959/from-afsk-to-goertzel/)
 * [2026-05-24, 13:43:11](https://lobste.rs/s/d3uwf1/libwce_entropy_layer_wavelet_codec_on_its) - [libwce: the entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
-* [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler - Rob Durst - Gleam Gathering 2026](https://www.youtube.com/watch?v=wVQLEAHrwrI)
+* [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler](https://www.youtube.com/watch?v=wVQLEAHrwrI)
 * [2026-05-24, 11:37:11](https://lobste.rs/s/jlhsqw/debian_se_linux_pintheft) - [Debian SE Linux and PinTheft](https://etbe.coker.com.au/2026/05/24/debian-selinux-pintheft/)
 * [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
 * [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
