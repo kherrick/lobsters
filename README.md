@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
 * [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
-* [2026-05-24, 05:17:04](https://lobste.rs/s/rh9r9j/does_bulk_memmove_speed_up_std_remove_if_no) - [Does bulk memmove speed up std::remove_if? (No.)](https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/)
 * [2026-05-24, 03:32:14](https://lobste.rs/s/9mu7tv/wake_up_16b_demo_writeup) - [wake up! 16b (demo writeup)](https://hellmood.111mb.de/wake_up_16b_writeup.html)
 * [2026-05-24, 03:12:32](https://lobste.rs/s/q63zwr/what_is_git_made_2022) - [What is Git made of? (2022)](https://zserge.com/posts/git/)
 * [2026-05-24, 00:10:25](https://lobste.rs/s/ymgsrp/pardon_mie) - [Pardon MIE?](https://ironpeak.be/blog/bypassing-apple-mie/)
 * [2026-05-23, 22:01:32](https://lobste.rs/s/sbe8ln/remind_1_calendar_alarm_program) - [remind(1) -- calendar and alarm program](https://dianne.skoll.ca/projects/remind/)
 * [2026-05-23, 22:01:32](https://lobste.rs/s/oyzqgz/it_s_time_talk_about_my_writerdeck) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+* [2026-05-23, 21:44:43](https://lobste.rs/s/kz0m2n/long_term_support_doesn_t_mean_what_you) - [“Long-Term Support” doesn’t mean what you think](https://pointieststick.com/2026/05/23/long-term-support-doesnt-mean-what-you-think/)
 * [2026-05-23, 21:28:40](https://lobste.rs/s/5ob3rh/net_ok_c_finally_gets_union_types) - [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
 * [2026-05-23, 20:38:20](https://lobste.rs/s/fmdyt7/architecture_berkeleydb) - [The Architecture of BerkeleyDB](https://aosabook.org/en/v1/bdb.html)
 * [2026-05-23, 20:11:14](https://lobste.rs/s/yfpl8d/procedural_fascicle_for_r7rs_large) - [Procedural Fascicle for R7RS Large Scheme](https://r7rs.org/large/fascicles/proc/)
@@ -23,7 +24,6 @@
 * [2026-05-23, 09:57:28](https://lobste.rs/s/arfalj/one_time_i_used_go_panics_for_flow_control) - [That one time I used Go panics for flow control](https://noncrab.net/posts/panic-as-flow-control/)
 * [2026-05-23, 07:53:07](https://lobste.rs/s/luyrv4/new_suite_modern_tools_coming_for_editing) - [A new suite of modern tools coming for editing and publishing RFCs](https://www.ietf.org/blog/new-tools-coming-for-editing-and-publishing-rfcs/)
 * [2026-05-23, 07:44:27](https://lobste.rs/s/ztam3w/don_t_roll_your_own) - [Don't Roll Your Own …](https://susam.net/do-not-roll-your-own.html)
-* [2026-05-23, 05:31:13](https://lobste.rs/s/cvwsxk/sp_h_is_standard_library_c_deserves) - [sp.h is the standard library that C deserves](https://spader.zone/sp/)
 * [2026-05-23, 02:20:30](https://lobste.rs/s/bo9ecf/planescape_torment_part_1_from_tabletop) - [Planescape: Torment, Part 1: From the Tabletop](https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/)
 
 ## [Archives](archives/index.md)
