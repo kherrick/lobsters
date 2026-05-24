@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-24, 05:17:04",
+      "https://lobste.rs/s/rh9r9j/does_bulk_memmove_speed_up_std_remove_if_no"
+    ],
+    [
+      "Does bulk memmove speed up std::remove_if? (No.)",
+      "https://quuxplusone.github.io/blog/2026/05/23/chunked-remove/"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 03:32:14",
+      "https://lobste.rs/s/9mu7tv/wake_up_16b_demo_writeup"
+    ],
+    [
+      "wake up! 16b (demo writeup)",
+      "https://hellmood.111mb.de/wake_up_16b_writeup.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-24, 03:12:32",
+      "https://lobste.rs/s/q63zwr/what_is_git_made_2022"
+    ],
+    [
+      "What is Git made of? (2022)",
+      "https://zserge.com/posts/git/"
+    ]
+  ],
+  [
+    [
       "2026-05-24, 00:10:25",
       "https://lobste.rs/s/ymgsrp/pardon_mie"
     ],
@@ -57,6 +87,16 @@
     [
       "Procedural Fascicle for R7RS Large Scheme",
       "https://r7rs.org/large/fascicles/proc/"
+    ]
+  ],
+  [
+    [
+      "2026-05-23, 19:11:33",
+      "https://lobste.rs/s/8dnsat/reverse_engineering_circuitry_spacelab"
+    ],
+    [
+      "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "http://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html"
     ]
   ],
   [
@@ -131,26 +171,6 @@
   ],
   [
     [
-      "2026-05-23, 13:47:12",
-      "https://lobste.rs/s/8k4omy/dropping_privileges_go"
-    ],
-    [
-      "Dropping Privileges in Go",
-      "https://log.0x21.biz/posts/go-privdrop/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 11:57:36",
-      "https://lobste.rs/s/whdhza/highest_random_weight_elixir"
-    ],
-    [
-      "Highest Random Weight in Elixir",
-      "https://jola.dev/posts/highest-random-weight-in-elixir"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 11:11:03",
       "https://lobste.rs/s/ip7rdd/hp_bought_hyperspace_once_offered_3"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-05-23, 05:51:38",
-      "https://lobste.rs/s/z9lnpe/spy_interpreter_compiler_for_statically"
-    ],
-    [
-      "SPy: an interpreter and a compiler for a statically typed variant of Python",
-      "https://github.com/spylang/spy"
-    ]
-  ],
-  [
-    [
       "2026-05-23, 05:31:13",
       "https://lobste.rs/s/cvwsxk/sp_h_is_standard_library_c_deserves"
     ],
@@ -237,16 +247,6 @@
     [
       "Planescape: Torment, Part 1: From the Tabletop",
       "https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/"
-    ]
-  ],
-  [
-    [
-      "2026-05-22, 02:37:06",
-      "https://lobste.rs/s/ptvaan/gnutella_protocol_outliving_world"
-    ],
-    [
-      "Gnutella: A Protocol Outliving the World That Created It",
-      "https://rickcarlino.com/notes/p2p/gnutella-explanation.html"
     ]
   ]
 ]
