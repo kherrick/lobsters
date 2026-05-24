@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-24, 13:43:11](https://lobste.rs/s/d3uwf1/libwce_entropy_layer_wavelet_codec_on_its) - [libwce: the entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
+* [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler - Rob Durst - Gleam Gathering 2026](https://www.youtube.com/watch?v=wVQLEAHrwrI)
 * [2026-05-24, 11:37:11](https://lobste.rs/s/jlhsqw/debian_se_linux_pintheft) - [Debian SE Linux and PinTheft](https://etbe.coker.com.au/2026/05/24/debian-selinux-pintheft/)
 * [2026-05-24, 10:37:11](https://lobste.rs/s/rzs4bq/fht_compositor_dynamic_tiling_wayland) - [fht-compositor: A dynamic tiling Wayland compositor](https://github.com/nferhat/fht-compositor)
 * [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
@@ -19,12 +21,10 @@
 * [2026-05-23, 15:24:02](https://lobste.rs/s/lcrlcb/z386_open_source_80386_built_around) - [z386: An Open-Source 80386 Built Around Original Microcode - Small Things Retro](https://nand2mario.github.io/posts/2026/z386/)
 * [2026-05-23, 15:05:29](https://lobste.rs/s/5zonsl/cuneiforth_forth_for_your_chifir) - [Cuneiforth: A Forth for your Chifir](https://gopher.floodgap.com/gopher/gw?a=gopher%3A%2F%2Fthelambdalab.xyz%2F1cuneiforth%2F)
 * [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
-* [2026-05-23, 11:11:03](https://lobste.rs/s/ip7rdd/hp_bought_hyperspace_once_offered_3) - [HP bought Hyperspace, & once offered 3 different pre-boot or in-boot OSs, including Quickweb](https://gekk.info/articles/hp-quickweb.htm)
 * [2026-05-23, 10:39:09](https://lobste.rs/s/fms0x0/mvm_fast_virtual_machine_for_go) - [mvm - a fast virtual machine for Go](https://mvm.sh/)
 * [2026-05-23, 09:57:28](https://lobste.rs/s/arfalj/one_time_i_used_go_panics_for_flow_control) - [That one time I used Go panics for flow control](https://noncrab.net/posts/panic-as-flow-control/)
 * [2026-05-23, 07:53:07](https://lobste.rs/s/luyrv4/new_suite_modern_tools_coming_for_editing) - [A new suite of modern tools coming for editing and publishing RFCs](https://www.ietf.org/blog/new-tools-coming-for-editing-and-publishing-rfcs/)
 * [2026-05-23, 07:44:27](https://lobste.rs/s/ztam3w/don_t_roll_your_own) - [Don't Roll Your Own …](https://susam.net/do-not-roll-your-own.html)
-* [2026-05-23, 02:20:30](https://lobste.rs/s/bo9ecf/planescape_torment_part_1_from_tabletop) - [Planescape: Torment, Part 1: From the Tabletop](https://www.filfre.net/2026/05/planescape-torment-part-1-from-the-tabletop/)
 
 ## [Archives](archives/index.md)
 

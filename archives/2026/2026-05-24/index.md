@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-24](index.md)
 
+* [2026-05-24, 13:43:11](https://lobste.rs/s/d3uwf1/libwce_entropy_layer_wavelet_codec_on_its) - [libwce: the entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
+* [2026-05-24, 13:11:13](https://lobste.rs/s/snppmc/10_000_lines_later_when_tool_became) - [10,000 Lines Later: When a Tool Became a Compiler - Rob Durst - Gleam Gathering 2026](https://www.youtube.com/watch?v=wVQLEAHrwrI)
 * [2026-05-24, 11:37:11](https://lobste.rs/s/jlhsqw/debian_se_linux_pintheft) - [Debian SE Linux and PinTheft](https://etbe.coker.com.au/2026/05/24/debian-selinux-pintheft/)
 * [2026-05-24, 10:37:11](https://lobste.rs/s/rzs4bq/fht_compositor_dynamic_tiling_wayland) - [fht-compositor: A dynamic tiling Wayland compositor](https://github.com/nferhat/fht-compositor)
 * [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
