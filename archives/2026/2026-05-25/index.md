@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 20:26:47](https://lobste.rs/s/zwys2f/announcing_bablr) - [Announcing BABLR](https://bablr.org/blog/announcing-bablr)
+* [2026-05-25, 20:11:24](https://lobste.rs/s/k7vttz/splitting_konsole_views_from_helix_run) - [Splitting Konsole views from Helix to run tools](https://akselmo.dev/posts/splitting-konsole-views-from-helix-to-run-tools/)
+* [2026-05-25, 19:00:03](https://lobste.rs/s/a51cam/performance_rust_language) - [Performance of Rust language](https://github.com/yugr/rust-slides)
 * [2026-05-25, 17:37:14](https://lobste.rs/s/h1wgii/serving_files_over_http_three_ways) - [Serving files over HTTP three ways: synchronous, epoll, and io_uring](https://theconsensus.dev/p/2026/05/18/serving-files-three-ways.html)
 * [2026-05-25, 17:29:47](https://lobste.rs/s/1a09ad/user_is_visibly_frustrated) - [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
 * [2026-05-25, 17:23:48](https://lobste.rs/s/0ucyzn/uv_must_be_installed_build_standalone) - [uv must be installed to build a standalone Python distribution](https://github.com/astral-sh/python-build-standalone/commit/c9c40c56eb53136587f0a32382cad9e5cd8d184a)
