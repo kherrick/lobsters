@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-05-25, 17:37:14",
+      "https://lobste.rs/s/h1wgii/serving_files_over_http_three_ways"
+    ],
+    [
+      "Serving files over HTTP three ways: synchronous, epoll, and io_uring",
+      "https://theconsensus.dev/p/2026/05/18/serving-files-three-ways.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 17:23:48",
+      "https://lobste.rs/s/0ucyzn/uv_must_be_installed_build_standalone"
+    ],
+    [
+      "uv must be installed to build a standalone Python distribution",
+      "https://github.com/astral-sh/python-build-standalone/commit/c9c40c56eb53136587f0a32382cad9e5cd8d184a"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 17:07:48",
+      "https://lobste.rs/s/eedsds/encyclical_letter_his_holiness_leo_xiv"
+    ],
+    [
+      "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas",
+      "http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 16:19:14",
+      "https://lobste.rs/s/lkv0sh/using_ai_write_better_code_more_slowly"
+    ],
+    [
+      "Using AI to write better code more slowly",
+      "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 16:17:21",
+      "https://lobste.rs/s/qfzcpl/open_closed_problem_ai"
+    ],
+    [
+      "The Open/Closed Problem in AI",
+      "https://blog.mempko.com/the-open-closed-problem-in-ai/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 14:44:03",
       "https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008"
     ],
@@ -111,32 +161,12 @@
   ],
   [
     [
-      "2026-05-25, 05:52:51",
-      "https://lobste.rs/s/cwvbah/scaling_akvorado_bmp_rib_with_sharding"
-    ],
-    [
-      "Scaling Akvorado BMP RIB with sharding",
-      "https://vincent.bernat.ch/en/blog/2026-akvorado-rib-sharding"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 05:50:44",
       "https://lobste.rs/s/c8fuwg/building_pi_with_pi"
     ],
     [
       "Building Pi with Pi",
       "https://lucumr.pocoo.org/2026/5/24/pi-oss/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 05:46:04",
-      "https://lobste.rs/s/qv4wl7/eyg_host_cli_improvements_new_guides_new"
-    ],
-    [
-      "EYG: Host of CLI improvements, new guides and new effects",
-      "https://eyg.run/news/editions/9"
     ]
   ],
   [
@@ -217,36 +247,6 @@
     [
       "How my minimal, memory-safe Go rsync steers clear of vulnerabilities",
       "https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 07:47:58",
-      "https://lobste.rs/s/qgq6ur/declarative_partial_updates"
-    ],
-    [
-      "Declarative partial updates",
-      "https://developer.chrome.com/blog/declarative-partial-updates"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 22:01:32",
-      "https://lobste.rs/s/oyzqgz/it_s_time_talk_about_my_writerdeck"
-    ],
-    [
-      "It's time to talk about my writerdeck",
-      "https://veronicaexplains.net/my-first-writerdeck/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 18:55:05",
-      "https://lobste.rs/s/6rwldo/jira_is_turing_complete"
-    ],
-    [
-      "Jira is Turing-Complete",
-      "https://seriot.ch/computation/jira.html"
     ]
   ]
 ]
