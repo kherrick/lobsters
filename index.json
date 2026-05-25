@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-25, 14:44:03",
+      "https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008"
+    ],
+    [
+      "A Simple Makefile Tutorial (2008)",
+      "https://cs.colby.edu/maxwell/courses/tutorials/maketutor/"
+    ]
+  ],
+  [
+    [
+      "2026-05-25, 14:01:30",
+      "https://lobste.rs/s/mcgtsh/on_c_extensions_portability_alternative"
+    ],
+    [
+      "On C extensions, portability, and alternative compilers",
+      "https://lemon.rip/w/6-c-extensions-compilers/"
+    ]
+  ],
+  [
+    [
       "2026-05-25, 12:09:24",
       "https://lobste.rs/s/kgem4b/social_contract_writing"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-05-24, 14:22:54",
-      "https://lobste.rs/s/vqivdq/from_afsk_goertzel"
-    ],
-    [
-      "From AFSK to Goertzel",
-      "https://uart.cz/2959/from-afsk-to-goertzel/"
-    ]
-  ],
-  [
-    [
       "2026-05-24, 07:47:58",
       "https://lobste.rs/s/qgq6ur/declarative_partial_updates"
     ],
@@ -227,16 +237,6 @@
     [
       "It's time to talk about my writerdeck",
       "https://veronicaexplains.net/my-first-writerdeck/"
-    ]
-  ],
-  [
-    [
-      "2026-05-23, 18:57:06",
-      "https://lobste.rs/s/dqig3h/on_dl_2021"
-    ],
-    [
-      "On the <dl> (2021)",
-      "https://benmyers.dev/blog/on-the-dl/"
     ]
   ],
   [
