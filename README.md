@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-25, 00:35:59](https://lobste.rs/s/pwnqab/eternal_sloptember) - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
 * [2026-05-24, 23:38:12](https://lobste.rs/s/nkrgmr/js_crossword_crossword_where_clue_eval) - [JS Crossword - a crossword where the clue = eval(answer)](https://lyra.horse/fun/jscrossword/)
 * [2026-05-24, 22:57:46](https://lobste.rs/s/26wkdp/discussion_about_c_array_type_semantics) - [Discussion about C array type semantics](https://anselmschueler.com/blogposts/2025-c-pointers/)
 * [2026-05-24, 21:24:12](https://lobste.rs/s/gfbpgq/flatpak_will_depend_on_systemd) - [Flatpak will depend on systemd](https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/)
@@ -19,7 +20,6 @@
 * [2026-05-23, 22:01:32](https://lobste.rs/s/oyzqgz/it_s_time_talk_about_my_writerdeck) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
 * [2026-05-23, 21:44:43](https://lobste.rs/s/kz0m2n/long_term_support_doesn_t_mean_what_you) - [“Long-Term Support” doesn’t mean what you think](https://pointieststick.com/2026/05/23/long-term-support-doesnt-mean-what-you-think/)
 * [2026-05-23, 21:28:40](https://lobste.rs/s/5ob3rh/net_ok_c_finally_gets_union_types) - [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
-* [2026-05-23, 20:11:14](https://lobste.rs/s/yfpl8d/procedural_fascicle_for_r7rs_large) - [Procedural Fascicle for R7RS Large Scheme](https://r7rs.org/large/fascicles/proc/)
 * [2026-05-23, 18:57:06](https://lobste.rs/s/dqig3h/on_dl_2021) - [On the <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
 * [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
 * [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
