@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 14:44:03](https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008) - [A Simple Makefile Tutorial (2008)](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+* [2026-05-25, 14:01:30](https://lobste.rs/s/mcgtsh/on_c_extensions_portability_alternative) - [On C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 * [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
 * [2026-05-25, 11:38:59](https://lobste.rs/s/c7dq7x/host_tuned_gcc_for_faster_compilation) - [Host-Tuned GCC for Faster Compilation](https://peter0x44.github.io/posts/super-gcc/)
 * [2026-05-25, 11:23:24](https://lobste.rs/s/3izfup/switching_colemak) - [Switching to Colemak](https://pta2002.com/blog/colemak/)

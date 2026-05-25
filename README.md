@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-25, 14:44:03](https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008) - [A Simple Makefile Tutorial (2008)](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+* [2026-05-25, 14:01:30](https://lobste.rs/s/mcgtsh/on_c_extensions_portability_alternative) - [On C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 * [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
 * [2026-05-25, 11:38:59](https://lobste.rs/s/c7dq7x/host_tuned_gcc_for_faster_compilation) - [Host-Tuned GCC for Faster Compilation](https://peter0x44.github.io/posts/super-gcc/)
 * [2026-05-25, 11:23:24](https://lobste.rs/s/3izfup/switching_colemak) - [Switching to Colemak](https://pta2002.com/blog/colemak/)
@@ -20,10 +22,8 @@
 * [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:41:12](https://lobste.rs/s/5xwplk/no_linux_support_on_free_version_vivado) - [No Linux support on free version of Vivado 2026.1](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/vivado-licensing-options.html)
 * [2026-05-24, 14:38:34](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers) - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
-* [2026-05-24, 14:22:54](https://lobste.rs/s/vqivdq/from_afsk_goertzel) - [From AFSK to Goertzel](https://uart.cz/2959/from-afsk-to-goertzel/)
 * [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
 * [2026-05-23, 22:01:32](https://lobste.rs/s/oyzqgz/it_s_time_talk_about_my_writerdeck) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-* [2026-05-23, 18:57:06](https://lobste.rs/s/dqig3h/on_dl_2021) - [On the <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
 * [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
 
 ## [Archives](archives/index.md)
