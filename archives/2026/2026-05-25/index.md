@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
+* [2026-05-25, 11:38:59](https://lobste.rs/s/c7dq7x/host_tuned_gcc_for_faster_compilation) - [Host-Tuned GCC for Faster Compilation](https://peter0x44.github.io/posts/super-gcc/)
+* [2026-05-25, 11:23:24](https://lobste.rs/s/3izfup/switching_colemak) - [Switching to Colemak](https://pta2002.com/blog/colemak/)
+* [2026-05-25, 11:19:36](https://lobste.rs/s/vvb79k/fully_browser_container_builds) - [Fully in-browser container builds](https://ochagavia.nl/blog/fully-in-browser-container-builds/)
+* [2026-05-25, 10:57:33](https://lobste.rs/s/2ibvbm/nix_s_substituter_list_is_not_routing) - [Nix's Substituter List Is Not a Routing Table](https://notashelf.dev/posts/nix-cache-proxy)
 * [2026-05-25, 10:28:29](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week)
 * [2026-05-25, 06:51:29](https://lobste.rs/s/kmbmt1/scoped_error_rust) - [Scoped Error in Rust](https://kanru.info/scoped-error/)
 * [2026-05-25, 06:37:47](https://lobste.rs/s/kizott/lambda_on_lambda_serverless_haskell_on) - [Lambda on Lambda: Serverless Haskell on AWS](http://jackkelly.name/blog/archives/2026/06/24/lambda_on_lambda_serverless_haskell_on_aws/index.html)
