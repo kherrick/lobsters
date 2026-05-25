@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 22:44:37](https://lobste.rs/s/emyyfu/human_proof_for_foss_contributions) - [Human proof for FOSS contributions](https://dillo-browser.org/lab/human-proof/)
 * [2026-05-25, 20:26:47](https://lobste.rs/s/zwys2f/announcing_bablr) - [Announcing BABLR](https://bablr.org/blog/announcing-bablr)
 * [2026-05-25, 20:11:24](https://lobste.rs/s/k7vttz/splitting_konsole_views_from_helix_run) - [Splitting Konsole views from Helix to run tools](https://akselmo.dev/posts/splitting-konsole-views-from-helix-to-run-tools/)
 * [2026-05-25, 19:00:03](https://lobste.rs/s/a51cam/performance_rust_language) - [Performance of Rust language](https://github.com/yugr/rust-slides)
