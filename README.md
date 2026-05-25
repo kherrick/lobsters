@@ -1,5 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-25, 17:37:14](https://lobste.rs/s/h1wgii/serving_files_over_http_three_ways) - [Serving files over HTTP three ways: synchronous, epoll, and io_uring](https://theconsensus.dev/p/2026/05/18/serving-files-three-ways.html)
+* [2026-05-25, 17:23:48](https://lobste.rs/s/0ucyzn/uv_must_be_installed_build_standalone) - [uv must be installed to build a standalone Python distribution](https://github.com/astral-sh/python-build-standalone/commit/c9c40c56eb53136587f0a32382cad9e5cd8d184a)
+* [2026-05-25, 17:07:48](https://lobste.rs/s/eedsds/encyclical_letter_his_holiness_leo_xiv) - [Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+* [2026-05-25, 16:19:14](https://lobste.rs/s/lkv0sh/using_ai_write_better_code_more_slowly) - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+* [2026-05-25, 16:17:21](https://lobste.rs/s/qfzcpl/open_closed_problem_ai) - [The Open/Closed Problem in AI](https://blog.mempko.com/the-open-closed-problem-in-ai/)
 * [2026-05-25, 14:44:03](https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008) - [A Simple Makefile Tutorial (2008)](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 * [2026-05-25, 14:01:30](https://lobste.rs/s/mcgtsh/on_c_extensions_portability_alternative) - [On C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 * [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
@@ -11,9 +16,7 @@
 * [2026-05-25, 06:51:29](https://lobste.rs/s/kmbmt1/scoped_error_rust) - [Scoped Error in Rust](https://kanru.info/scoped-error/)
 * [2026-05-25, 06:37:47](https://lobste.rs/s/kizott/lambda_on_lambda_serverless_haskell_on) - [Lambda on Lambda: Serverless Haskell on AWS](http://jackkelly.name/blog/archives/2026/06/24/lambda_on_lambda_serverless_haskell_on_aws/index.html)
 * [2026-05-25, 06:24:53](https://lobste.rs/s/yp2w5p/announcing_feed_repeat_v1_0) - [Announcing feed-repeat v1.0](https://abhinavsarkar.net/notes/2026-feed-repeat/)
-* [2026-05-25, 05:52:51](https://lobste.rs/s/cwvbah/scaling_akvorado_bmp_rib_with_sharding) - [Scaling Akvorado BMP RIB with sharding](https://vincent.bernat.ch/en/blog/2026-akvorado-rib-sharding)
 * [2026-05-25, 05:50:44](https://lobste.rs/s/c8fuwg/building_pi_with_pi) - [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
-* [2026-05-25, 05:46:04](https://lobste.rs/s/qv4wl7/eyg_host_cli_improvements_new_guides_new) - [EYG: Host of CLI improvements, new guides and new effects](https://eyg.run/news/editions/9)
 * [2026-05-25, 00:35:59](https://lobste.rs/s/pwnqab/eternal_sloptember) - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
 * [2026-05-24, 23:38:12](https://lobste.rs/s/nkrgmr/js_crossword_crossword_where_clue_eval) - [JS Crossword - a crossword where the clue = eval(answer)](https://lyra.horse/fun/jscrossword/)
 * [2026-05-24, 22:57:46](https://lobste.rs/s/26wkdp/discussion_about_c_array_type_semantics) - [Discussion about C array type semantics](https://anselmschueler.com/blogposts/2025-c-pointers/)
@@ -22,9 +25,6 @@
 * [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 * [2026-05-24, 14:41:12](https://lobste.rs/s/5xwplk/no_linux_support_on_free_version_vivado) - [No Linux support on free version of Vivado 2026.1](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado/vivado-licensing-options.html)
 * [2026-05-24, 14:38:34](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers) - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
-* [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
-* [2026-05-23, 22:01:32](https://lobste.rs/s/oyzqgz/it_s_time_talk_about_my_writerdeck) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
-* [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
 
 ## [Archives](archives/index.md)
 
