@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-05-25, 17:37:14](https://lobste.rs/s/h1wgii/serving_files_over_http_three_ways) - [Serving files over HTTP three ways: synchronous, epoll, and io_uring](https://theconsensus.dev/p/2026/05/18/serving-files-three-ways.html)
-* [2026-05-25, 17:23:48](https://lobste.rs/s/0ucyzn/uv_must_be_installed_build_standalone) - [uv must be installed to build a standalone Python distribution](https://github.com/astral-sh/python-build-standalone/commit/c9c40c56eb53136587f0a32382cad9e5cd8d184a)
+* [2026-05-25, 17:29:47](https://lobste.rs/s/1a09ad/user_is_visibly_frustrated) - [The User Is Visibly Frustrated](https://pscanf.com/s/354/)
 * [2026-05-25, 17:07:48](https://lobste.rs/s/eedsds/encyclical_letter_his_holiness_leo_xiv) - [Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 * [2026-05-25, 16:19:14](https://lobste.rs/s/lkv0sh/using_ai_write_better_code_more_slowly) - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 * [2026-05-25, 16:17:21](https://lobste.rs/s/qfzcpl/open_closed_problem_ai) - [The Open/Closed Problem in AI](https://blog.mempko.com/the-open-closed-problem-in-ai/)
