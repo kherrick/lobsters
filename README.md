@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-25, 10:28:29](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week)
+* [2026-05-25, 06:51:29](https://lobste.rs/s/kmbmt1/scoped_error_rust) - [Scoped Error in Rust](https://kanru.info/scoped-error/)
+* [2026-05-25, 06:37:47](https://lobste.rs/s/kizott/lambda_on_lambda_serverless_haskell_on) - [Lambda on Lambda: Serverless Haskell on AWS](http://jackkelly.name/blog/archives/2026/06/24/lambda_on_lambda_serverless_haskell_on_aws/index.html)
+* [2026-05-25, 06:24:53](https://lobste.rs/s/yp2w5p/announcing_feed_repeat_v1_0) - [Announcing feed-repeat v1.0](https://abhinavsarkar.net/notes/2026-feed-repeat/)
 * [2026-05-25, 05:52:51](https://lobste.rs/s/cwvbah/scaling_akvorado_bmp_rib_with_sharding) - [Scaling Akvorado BMP RIB with sharding](https://vincent.bernat.ch/en/blog/2026-akvorado-rib-sharding)
 * [2026-05-25, 05:50:44](https://lobste.rs/s/c8fuwg/building_pi_with_pi) - [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
 * [2026-05-25, 05:46:04](https://lobste.rs/s/qv4wl7/eyg_host_cli_improvements_new_guides_new) - [EYG: Host of CLI improvements, new guides and new effects](https://eyg.run/news/editions/9)
@@ -13,8 +17,6 @@
 * [2026-05-24, 14:38:34](https://lobste.rs/s/5y9u93/how_my_minimal_memory_safe_go_rsync_steers) - [How my minimal, memory-safe Go rsync steers clear of vulnerabilities](https://michael.stapelberg.ch/posts/2026-05-24-minimal-memory-safe-go-rsync-vulns/)
 * [2026-05-24, 14:22:54](https://lobste.rs/s/vqivdq/from_afsk_goertzel) - [From AFSK to Goertzel](https://uart.cz/2959/from-afsk-to-goertzel/)
 * [2026-05-24, 13:43:11](https://lobste.rs/s/d3uwf1/libwce_entropy_layer_wavelet_codec_on_its) - [libwce: the entropy layer of a wavelet codec, on its own](https://yogthos.net/posts/2026-05-24-libwce.html)
-* [2026-05-24, 11:37:11](https://lobste.rs/s/jlhsqw/debian_se_linux_pintheft) - [Debian SE Linux and PinTheft](https://etbe.coker.com.au/2026/05/24/debian-selinux-pintheft/)
-* [2026-05-24, 08:31:24](https://lobste.rs/s/obnccl/network_allow_list_won_t_stop) - [A Network Allow-List Won't Stop Exfiltration](https://www.dergraf.org/notes/canister-egress-proxy-dlp/)
 * [2026-05-24, 07:47:58](https://lobste.rs/s/qgq6ur/declarative_partial_updates) - [Declarative partial updates](https://developer.chrome.com/blog/declarative-partial-updates)
 * [2026-05-24, 03:32:14](https://lobste.rs/s/9mu7tv/wake_up_16b_demo_writeup) - [wake up! 16b (demo writeup)](https://hellmood.111mb.de/wake_up_16b_writeup.html)
 * [2026-05-23, 22:01:32](https://lobste.rs/s/oyzqgz/it_s_time_talk_about_my_writerdeck) - [It's time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
@@ -22,8 +24,6 @@
 * [2026-05-23, 21:28:40](https://lobste.rs/s/5ob3rh/net_ok_c_finally_gets_union_types) - [.NET (OK, C#) finally gets union types](https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/)
 * [2026-05-23, 18:57:06](https://lobste.rs/s/dqig3h/on_dl_2021) - [On the <dl> (2021)](https://benmyers.dev/blog/on-the-dl/)
 * [2026-05-23, 18:55:05](https://lobste.rs/s/6rwldo/jira_is_turing_complete) - [Jira is Turing-Complete](https://seriot.ch/computation/jira.html)
-* [2026-05-23, 15:50:15](https://lobste.rs/s/ilahdq/hershey_is_textual_vector_font_format) - [Hershey is a textual vector font format](https://wiki.xxiivv.com/site/hershey.html)
-* [2026-05-23, 14:07:31](https://lobste.rs/s/yvkqco/wayland_compositor_implemented_as_mod) - [Wayland compositor implemented as a mod in Minecraft](https://modrinth.com/project/9yAfrPwH)
 * [2026-05-23, 07:44:27](https://lobste.rs/s/ztam3w/don_t_roll_your_own) - [Don't Roll Your Own …](https://susam.net/do-not-roll-your-own.html)
 
 ## [Archives](archives/index.md)
