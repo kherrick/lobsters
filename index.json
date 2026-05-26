@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-26, 03:17:54",
+      "https://lobste.rs/s/igsekj/just_how_bad_was_intel_iapx432"
+    ],
+    [
+      "Just How Bad Was The Intel IAPX432?",
+      "https://hackaday.com/2026/05/25/just-how-bad-was-the-intel-iapx432/"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 02:08:54",
       "https://lobste.rs/s/rfkain/common_lisp_portability_library_status"
     ],
@@ -197,16 +207,6 @@
     [
       "Scoped Error in Rust",
       "https://kanru.info/scoped-error/"
-    ]
-  ],
-  [
-    [
-      "2026-05-25, 05:50:44",
-      "https://lobste.rs/s/c8fuwg/building_pi_with_pi"
-    ],
-    [
-      "Building Pi with Pi",
-      "https://lucumr.pocoo.org/2026/5/24/pi-oss/"
     ]
   ],
   [
