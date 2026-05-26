@@ -8,6 +8,7 @@
 * [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 * [2026-05-26, 17:20:51](https://lobste.rs/s/nkafrw/introducing_doombench_can_your_data) - [Introducing DoomBench - Can Your Data Stack Run DOOM?](https://cedardb.com/blog/doombench/)
 * [2026-05-26, 16:35:09](https://lobste.rs/s/nkh1nz/software_for_my_new_home_server) - [Software For My New Home Server](https://nathangrigg.com/2026/05/home-server-software/)
+* [2026-05-26, 16:23:51](https://lobste.rs/s/gbxsuf/building_scalable_ingestion_pipeline) - [Building a Scalable Ingestion Pipeline with Temporal (Part 1)](https://blog.rapidflare.ai/blog/temporal-ingestion-pipeline-part1/)
 * [2026-05-26, 15:05:24](https://lobste.rs/s/dm1j7b/are_you_member_any_professional) - [Are you a member of any professional associations?](https://lobste.rs/s/dm1j7b/are_you_member_any_professional)
 * [2026-05-26, 15:01:02](https://lobste.rs/s/tqxsky/building_asyncio_executor_for_3ds) - [Building an AsyncIO executor for the 3DS](https://blog.cat-girl.gay/3ds-async-part-one/)
 * [2026-05-26, 14:04:27](https://lobste.rs/s/noahb3/readable_css) - [readable.css](https://readable-css.freedomtowrite.org/)
