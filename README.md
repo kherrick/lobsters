@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-05-25, 23:56:37](https://lobste.rs/s/3rfye9/demonstration_deployment_haskell_on_aws) - [A demonstration deployment of Haskell on AWS Lambda](https://git.sr.ht/~jack/lambda-on-lambda)
+* [2026-05-26, 02:08:54](https://lobste.rs/s/rfkain/common_lisp_portability_library_status) - [Common Lisp Portability Library Status](https://portability.cl/)
 * [2026-05-25, 22:44:37](https://lobste.rs/s/emyyfu/human_proof_for_foss_contributions) - [Human proof for FOSS contributions](https://dillo-browser.org/lab/human-proof/)
 * [2026-05-25, 22:12:51](https://lobste.rs/s/bt76vp/extremely_simple_internet_radio) - [Extremely simple internet radio controlled via IRC](https://codeberg.org/lindenii/tunecat/)
 * [2026-05-25, 20:26:47](https://lobste.rs/s/zwys2f/announcing_bablr) - [Announcing BABLR](https://bablr.org/blog/announcing-bablr)
