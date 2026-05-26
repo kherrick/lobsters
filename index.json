@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-26, 19:24:03",
+      "https://lobste.rs/s/t1es6x/folding_parallel"
+    ],
+    [
+      "Folding in Parallel",
+      "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 17:56:24",
+      "https://lobste.rs/s/w1gpe7/stop_advertising_your_commits"
+    ],
+    [
+      "Stop advertising in your commits",
+      "https://akselmo.dev/posts/stop-advertising-in-your-commits/"
+    ]
+  ],
+  [
+    [
       "2026-05-26, 17:20:51",
       "https://lobste.rs/s/nkafrw/introducing_doombench_can_your_data"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-25, 14:44:03",
-      "https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008"
-    ],
-    [
-      "A Simple Makefile Tutorial (2008)",
-      "https://cs.colby.edu/maxwell/courses/tutorials/maketutor/"
-    ]
-  ],
-  [
-    [
       "2026-05-25, 14:01:30",
       "https://lobste.rs/s/mcgtsh/on_c_extensions_portability_alternative"
     ],
@@ -227,16 +237,6 @@
     [
       "Switching to Colemak",
       "https://pta2002.com/blog/colemak/"
-    ]
-  ],
-  [
-    [
-      "2026-05-24, 23:38:12",
-      "https://lobste.rs/s/nkrgmr/js_crossword_crossword_where_clue_eval"
-    ],
-    [
-      "JS Crossword - a crossword where the clue = eval(answer)",
-      "https://lyra.horse/fun/jscrossword/"
     ]
   ],
   [
