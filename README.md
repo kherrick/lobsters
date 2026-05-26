@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
+* [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 * [2026-05-26, 17:20:51](https://lobste.rs/s/nkafrw/introducing_doombench_can_your_data) - [Introducing DoomBench - Can Your Data Stack Run DOOM?](https://cedardb.com/blog/doombench/)
 * [2026-05-26, 16:35:09](https://lobste.rs/s/nkh1nz/software_for_my_new_home_server) - [Software For My New Home Server](https://nathangrigg.com/2026/05/home-server-software/)
 * [2026-05-26, 15:05:24](https://lobste.rs/s/dm1j7b/are_you_member_any_professional) - [Are you a member of any professional associations?](https://lobste.rs/s/dm1j7b/are_you_member_any_professional)
@@ -19,11 +21,9 @@
 * [2026-05-25, 17:07:48](https://lobste.rs/s/eedsds/encyclical_letter_his_holiness_leo_xiv) - [Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 * [2026-05-25, 16:19:14](https://lobste.rs/s/lkv0sh/using_ai_write_better_code_more_slowly) - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 * [2026-05-25, 16:17:21](https://lobste.rs/s/qfzcpl/open_closed_problem_ai) - [The Open/Closed Problem in AI](https://blog.mempko.com/the-open-closed-problem-in-ai/)
-* [2026-05-25, 14:44:03](https://lobste.rs/s/owa9kn/simple_makefile_tutorial_2008) - [A Simple Makefile Tutorial (2008)](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 * [2026-05-25, 14:01:30](https://lobste.rs/s/mcgtsh/on_c_extensions_portability_alternative) - [On C extensions, portability, and alternative compilers](https://lemon.rip/w/6-c-extensions-compilers/)
 * [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
 * [2026-05-25, 11:23:24](https://lobste.rs/s/3izfup/switching_colemak) - [Switching to Colemak](https://pta2002.com/blog/colemak/)
-* [2026-05-24, 23:38:12](https://lobste.rs/s/nkrgmr/js_crossword_crossword_where_clue_eval) - [JS Crossword - a crossword where the clue = eval(answer)](https://lyra.horse/fun/jscrossword/)
 * [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
+* [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
+* [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 * [2026-05-26, 17:20:51](https://lobste.rs/s/nkafrw/introducing_doombench_can_your_data) - [Introducing DoomBench - Can Your Data Stack Run DOOM?](https://cedardb.com/blog/doombench/)
 * [2026-05-26, 16:35:09](https://lobste.rs/s/nkh1nz/software_for_my_new_home_server) - [Software For My New Home Server](https://nathangrigg.com/2026/05/home-server-software/)
 * [2026-05-26, 15:05:24](https://lobste.rs/s/dm1j7b/are_you_member_any_professional) - [Are you a member of any professional associations?](https://lobste.rs/s/dm1j7b/are_you_member_any_professional)
