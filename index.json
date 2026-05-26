@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-05-26, 19:24:03",
-      "https://lobste.rs/s/t1es6x/folding_parallel"
-    ],
-    [
-      "Folding in Parallel",
-      "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 17:56:24",
       "https://lobste.rs/s/w1gpe7/stop_advertising_your_commits"
     ],
@@ -37,6 +27,16 @@
     [
       "Software For My New Home Server",
       "https://nathangrigg.com/2026/05/home-server-software/"
+    ]
+  ],
+  [
+    [
+      "2026-05-26, 16:23:51",
+      "https://lobste.rs/s/gbxsuf/building_scalable_ingestion_pipeline"
+    ],
+    [
+      "Building a Scalable Ingestion Pipeline with Temporal (Part 1)",
+      "https://blog.rapidflare.ai/blog/temporal-ingestion-pipeline-part1/"
     ]
   ],
   [
