@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
+* [2026-05-26, 22:19:00](https://lobste.rs/s/7mmfnb/canada_s_bill_c_22_security_cost) - [Canada’s Bill C-22 and the security cost of collecting more data](https://tailscale.com/blog/bill-c22-canada)
+* [2026-05-26, 21:41:58](https://lobste.rs/s/czctjh/intent_prototype_embedding_api) - [Intent to Prototype: Embedding API](https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ)
 * [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
 * [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 * [2026-05-26, 17:20:51](https://lobste.rs/s/nkafrw/introducing_doombench_can_your_data) - [Introducing DoomBench - Can Your Data Stack Run DOOM?](https://cedardb.com/blog/doombench/)
