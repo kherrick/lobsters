@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-26](index.md)
 
+* [2026-05-26, 23:39:16](https://lobste.rs/s/gcjxps/space_cadet_pinball_real_life) - [Space Cadet Pinball in Real Life](https://www.youtube.com/watch?v=BU_02HABZ4s)
+* [2026-05-26, 23:30:23](https://lobste.rs/s/pkr2xs/agent_trace_rfc) - [Agent Trace RFC](https://agent-trace.dev/)
 * [2026-05-26, 22:19:00](https://lobste.rs/s/7mmfnb/canada_s_bill_c_22_security_cost) - [Canada’s Bill C-22 and the security cost of collecting more data](https://tailscale.com/blog/bill-c22-canada)
 * [2026-05-26, 21:41:58](https://lobste.rs/s/czctjh/intent_prototype_embedding_api) - [Intent to Prototype: Embedding API](https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ)
 * [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
