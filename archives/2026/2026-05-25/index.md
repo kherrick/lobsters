@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-25](index.md)
 
+* [2026-05-25, 23:56:37](https://lobste.rs/s/3rfye9/demonstration_deployment_haskell_on_aws) - [A demonstration deployment of Haskell on AWS Lambda](https://git.sr.ht/~jack/lambda-on-lambda)
 * [2026-05-25, 22:44:37](https://lobste.rs/s/emyyfu/human_proof_for_foss_contributions) - [Human proof for FOSS contributions](https://dillo-browser.org/lab/human-proof/)
+* [2026-05-25, 22:12:51](https://lobste.rs/s/bt76vp/extremely_simple_internet_radio) - [Extremely simple internet radio controlled via IRC](https://codeberg.org/lindenii/tunecat/)
 * [2026-05-25, 20:26:47](https://lobste.rs/s/zwys2f/announcing_bablr) - [Announcing BABLR](https://bablr.org/blog/announcing-bablr)
 * [2026-05-25, 20:11:24](https://lobste.rs/s/k7vttz/splitting_konsole_views_from_helix_run) - [Splitting Konsole views from Helix to run tools](https://akselmo.dev/posts/splitting-konsole-views-from-helix-to-run-tools/)
 * [2026-05-25, 19:00:03](https://lobste.rs/s/a51cam/performance_rust_language) - [Performance of Rust language](https://github.com/yugr/rust-slides)

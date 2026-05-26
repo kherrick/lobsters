@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-25, 23:56:37](https://lobste.rs/s/3rfye9/demonstration_deployment_haskell_on_aws) - [A demonstration deployment of Haskell on AWS Lambda](https://git.sr.ht/~jack/lambda-on-lambda)
 * [2026-05-25, 22:44:37](https://lobste.rs/s/emyyfu/human_proof_for_foss_contributions) - [Human proof for FOSS contributions](https://dillo-browser.org/lab/human-proof/)
+* [2026-05-25, 22:12:51](https://lobste.rs/s/bt76vp/extremely_simple_internet_radio) - [Extremely simple internet radio controlled via IRC](https://codeberg.org/lindenii/tunecat/)
 * [2026-05-25, 20:26:47](https://lobste.rs/s/zwys2f/announcing_bablr) - [Announcing BABLR](https://bablr.org/blog/announcing-bablr)
 * [2026-05-25, 20:11:24](https://lobste.rs/s/k7vttz/splitting_konsole_views_from_helix_run) - [Splitting Konsole views from Helix to run tools](https://akselmo.dev/posts/splitting-konsole-views-from-helix-to-run-tools/)
 * [2026-05-25, 19:00:03](https://lobste.rs/s/a51cam/performance_rust_language) - [Performance of Rust language](https://github.com/yugr/rust-slides)
@@ -18,9 +20,7 @@
 * [2026-05-25, 10:57:33](https://lobste.rs/s/2ibvbm/nix_s_substituter_list_is_not_routing) - [Nix's Substituter List Is Not a Routing Table](https://notashelf.dev/posts/nix-cache-proxy)
 * [2026-05-25, 10:28:29](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vf66rg/what_are_you_doing_this_week)
 * [2026-05-25, 06:51:29](https://lobste.rs/s/kmbmt1/scoped_error_rust) - [Scoped Error in Rust](https://kanru.info/scoped-error/)
-* [2026-05-25, 06:24:53](https://lobste.rs/s/yp2w5p/announcing_feed_repeat_v1_0) - [Announcing feed-repeat v1.0](https://abhinavsarkar.net/notes/2026-feed-repeat/)
 * [2026-05-25, 05:50:44](https://lobste.rs/s/c8fuwg/building_pi_with_pi) - [Building Pi with Pi](https://lucumr.pocoo.org/2026/5/24/pi-oss/)
-* [2026-05-25, 00:35:59](https://lobste.rs/s/pwnqab/eternal_sloptember) - [The Eternal Sloptember](https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html)
 * [2026-05-24, 23:38:12](https://lobste.rs/s/nkrgmr/js_crossword_crossword_where_clue_eval) - [JS Crossword - a crossword where the clue = eval(answer)](https://lyra.horse/fun/jscrossword/)
 * [2026-05-24, 21:24:12](https://lobste.rs/s/gfbpgq/flatpak_will_depend_on_systemd) - [Flatpak will depend on systemd](https://www.osnews.com/story/145071/flatpak-will-depend-on-systemd/)
 * [2026-05-24, 15:03:22](https://lobste.rs/s/t1spjc/omarchy_is_not_distro) - [omarchy is not a distro](https://abyss.fish/your_dotfiles_are_not_a_distro)
