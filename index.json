@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-27, 05:53:58",
+      "https://lobste.rs/s/ffs7xz/rethinking_gnome_clipboard_issues"
+    ],
+    [
+      "Rethinking the GNOME clipboard issues",
+      "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 05:40:47",
+      "https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer"
+    ],
+    [
+      "What are some of your favourite developer tools?",
+      "https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 03:21:37",
+      "https://lobste.rs/s/sgqbvg/build_system_reworked"
+    ],
+    [
+      "Build System Reworked",
+      "https://ziglang.org/devlog/2026/#2026-05-26"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 02:39:58",
+      "https://lobste.rs/s/kgcvtj/back_building_blocks_building_blocks"
+    ],
+    [
+      "Back to the Building Blocks’ Building Blocks",
+      "https://www.cs.cornell.edu/~asampson/blog/buildingblocks.html"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 01:45:01",
       "https://lobste.rs/s/ll8sr1/theseus_translating_win32_wasm"
     ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2026-05-26, 21:41:58",
-      "https://lobste.rs/s/czctjh/intent_prototype_embedding_api"
-    ],
-    [
-      "Intent to Prototype: Embedding API",
-      "https://groups.google.com/a/chromium.org/g/blink-dev/c/EjL1gAy3k3Q/m/31Cnh22MBgAJ"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 19:24:03",
       "https://lobste.rs/s/t1es6x/folding_parallel"
     ],
@@ -87,26 +117,6 @@
     [
       "Software For My New Home Server",
       "https://nathangrigg.com/2026/05/home-server-software/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 16:23:51",
-      "https://lobste.rs/s/gbxsuf/building_scalable_ingestion_pipeline"
-    ],
-    [
-      "Building a Scalable Ingestion Pipeline with Temporal (Part 1)",
-      "https://blog.rapidflare.ai/blog/temporal-ingestion-pipeline-part1/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 15:05:24",
-      "https://lobste.rs/s/dm1j7b/are_you_member_any_professional"
-    ],
-    [
-      "Are you a member of any professional associations?",
-      "https://lobste.rs/s/dm1j7b/are_you_member_any_professional"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "The pressure",
       "https://daniel.haxx.se/blog/2026/05/26/the-pressure/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 03:17:54",
-      "https://lobste.rs/s/igsekj/just_how_bad_was_intel_iapx432"
-    ],
-    [
-      "Just How Bad Was The Intel IAPX432?",
-      "https://hackaday.com/2026/05/25/just-how-bad-was-the-intel-iapx432/"
     ]
   ],
   [
