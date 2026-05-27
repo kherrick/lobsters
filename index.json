@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-27, 20:44:08",
+      "https://lobste.rs/s/es9wmf/making_wl_shm_fast"
+    ],
+    [
+      "Making wl_shm fast",
+      "https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 18:47:03",
+      "https://lobste.rs/s/o3wyud/css_vs_javascript"
+    ],
+    [
+      "CSS vs. JavaScript",
+      "https://www.joshwcomeau.com/animation/css-vs-javascript/"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 17:30:28",
       "https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-05-26, 19:24:03",
-      "https://lobste.rs/s/t1es6x/folding_parallel"
-    ],
-    [
-      "Folding in Parallel",
-      "https://okmij.org/ftp/Algorithms/map-monoid-reduce.html"
-    ]
-  ],
-  [
-    [
       "2026-05-26, 17:56:24",
       "https://lobste.rs/s/w1gpe7/stop_advertising_your_commits"
     ],
@@ -237,16 +247,6 @@
     [
       "Using SwiftUI to Build a Mac-assed App in 2026",
       "https://pfandrade.me/blog/mac-assed-swiftui-app/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 06:47:38",
-      "https://lobste.rs/s/dw02ye/pressure"
-    ],
-    [
-      "The pressure",
-      "https://daniel.haxx.se/blog/2026/05/26/the-pressure/"
     ]
   ]
 ]
