@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-27, 20:44:08](https://lobste.rs/s/es9wmf/making_wl_shm_fast) - [Making wl_shm fast](https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html)
+* [2026-05-27, 18:47:03](https://lobste.rs/s/o3wyud/css_vs_javascript) - [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/)
 * [2026-05-27, 17:30:28](https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam) - [Happy almost 2nd Birthday Gleam](https://youtu.be/iMHVglCQyf0)
 * [2026-05-27, 16:53:22](https://lobste.rs/s/jegctv/i_m_tired_talking_ai) - [I’m tired of talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 * [2026-05-27, 16:53:16](https://lobste.rs/s/h9b8ik/new_register_allocator_for_zjit) - [A new register allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/)
@@ -19,12 +21,10 @@
 * [2026-05-27, 03:21:37](https://lobste.rs/s/sgqbvg/build_system_reworked) - [Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 * [2026-05-27, 01:45:01](https://lobste.rs/s/ll8sr1/theseus_translating_win32_wasm) - [Theseus: translating win32 to wasm](https://neugierig.org/software/blog/2026/05/theseus-wasm.html)
 * [2026-05-27, 01:39:11](https://lobste.rs/s/o2ylrh/fast_is_better_than_slow) - [Fast is better than slow](https://dubroy.com/blog/fast-is-better-than-slow/)
-* [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
 * [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 * [2026-05-26, 14:04:27](https://lobste.rs/s/noahb3/readable_css) - [readable.css](https://readable-css.freedomtowrite.org/)
 * [2026-05-26, 12:33:39](https://lobste.rs/s/goq5ha/what_is_harmonic_interactive_comic_about) - [What is a harmonic? An interactive comic about additive synthesis](https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/)
 * [2026-05-26, 10:40:40](https://lobste.rs/s/kbaepn/using_swiftui_build_mac_assed_app_2026) - [Using SwiftUI to Build a Mac-assed App in 2026](https://pfandrade.me/blog/mac-assed-swiftui-app/)
-* [2026-05-26, 06:47:38](https://lobste.rs/s/dw02ye/pressure) - [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/)
 
 ## [Archives](archives/index.md)
 

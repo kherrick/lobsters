@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 20:44:08](https://lobste.rs/s/es9wmf/making_wl_shm_fast) - [Making wl_shm fast](https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html)
+* [2026-05-27, 18:47:03](https://lobste.rs/s/o3wyud/css_vs_javascript) - [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/)
 * [2026-05-27, 17:30:28](https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam) - [Happy almost 2nd Birthday Gleam](https://youtu.be/iMHVglCQyf0)
 * [2026-05-27, 16:53:22](https://lobste.rs/s/jegctv/i_m_tired_talking_ai) - [I’m tired of talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 * [2026-05-27, 16:53:16](https://lobste.rs/s/h9b8ik/new_register_allocator_for_zjit) - [A new register allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/)
