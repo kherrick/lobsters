@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 13:31:50](https://lobste.rs/s/iuv7kw/raft_consensus_with_minority_nodes) - [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/)
+* [2026-05-27, 11:57:38](https://lobste.rs/s/zfm1lc/space_tree_workspace_management_trees) - [space-tree: Workspace Management Trees in Emacs](https://www.chiply.dev/post-emacs-space-tree)
 * [2026-05-27, 10:04:18](https://lobste.rs/s/ktwvtk/5_postgresql_locking_behaviors_trip) - [5 PostgreSQL locking behaviors that trip people up](https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n)
 * [2026-05-27, 10:02:10](https://lobste.rs/s/cvyshr/converting_shallow_git_bundles_into) - [Converting shallow Git bundles into normal repositories](https://runxiyu.org/comp/shallowbundle/)
 * [2026-05-27, 10:01:18](https://lobste.rs/s/rzdtx8/may_i_recommend_thinking_emacs_as_your) - [May I recommend thinking of Emacs as your Fortress of Solitude](https://martinsos.com/posts/may-recommend-emacs-home-base)

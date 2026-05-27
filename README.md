@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-27, 13:31:50](https://lobste.rs/s/iuv7kw/raft_consensus_with_minority_nodes) - [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/)
+* [2026-05-27, 11:57:38](https://lobste.rs/s/zfm1lc/space_tree_workspace_management_trees) - [space-tree: Workspace Management Trees in Emacs](https://www.chiply.dev/post-emacs-space-tree)
 * [2026-05-27, 10:04:18](https://lobste.rs/s/ktwvtk/5_postgresql_locking_behaviors_trip) - [5 PostgreSQL locking behaviors that trip people up](https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n)
 * [2026-05-27, 10:02:10](https://lobste.rs/s/cvyshr/converting_shallow_git_bundles_into) - [Converting shallow Git bundles into normal repositories](https://runxiyu.org/comp/shallowbundle/)
 * [2026-05-27, 10:01:18](https://lobste.rs/s/rzdtx8/may_i_recommend_thinking_emacs_as_your) - [May I recommend thinking of Emacs as your Fortress of Solitude](https://martinsos.com/posts/may-recommend-emacs-home-base)
@@ -10,7 +12,6 @@
 * [2026-05-27, 03:21:37](https://lobste.rs/s/sgqbvg/build_system_reworked) - [Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 * [2026-05-27, 01:45:01](https://lobste.rs/s/ll8sr1/theseus_translating_win32_wasm) - [Theseus: translating win32 to wasm](https://neugierig.org/software/blog/2026/05/theseus-wasm.html)
 * [2026-05-27, 01:39:11](https://lobste.rs/s/o2ylrh/fast_is_better_than_slow) - [Fast is better than slow](https://dubroy.com/blog/fast-is-better-than-slow/)
-* [2026-05-26, 23:30:23](https://lobste.rs/s/pkr2xs/agent_trace_rfc) - [Agent Trace RFC](https://agent-trace.dev/)
 * [2026-05-26, 22:19:00](https://lobste.rs/s/7mmfnb/canada_s_bill_c_22_security_cost) - [Canada’s Bill C-22 and the security cost of collecting more data](https://tailscale.com/blog/bill-c22-canada)
 * [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
 * [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
@@ -20,7 +21,6 @@
 * [2026-05-26, 12:33:39](https://lobste.rs/s/goq5ha/what_is_harmonic_interactive_comic_about) - [What is a harmonic? An interactive comic about additive synthesis](https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/)
 * [2026-05-26, 12:32:44](https://lobste.rs/s/kzslib/how_virtual_tables_work_itanium_c_abi) - [How Virtual Tables Work in the Itanium C++ ABI](https://peter0x44.github.io/posts/vtables-itanium-abi/)
 * [2026-05-26, 10:40:40](https://lobste.rs/s/kbaepn/using_swiftui_build_mac_assed_app_2026) - [Using SwiftUI to Build a Mac-assed App in 2026](https://pfandrade.me/blog/mac-assed-swiftui-app/)
-* [2026-05-26, 09:13:18](https://lobste.rs/s/urkvou/portentous_reunion) - [A portentous reunion](https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/)
 * [2026-05-26, 06:47:38](https://lobste.rs/s/dw02ye/pressure) - [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/)
 * [2026-05-25, 17:07:48](https://lobste.rs/s/eedsds/encyclical_letter_his_holiness_leo_xiv) - [Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 * [2026-05-25, 16:19:14](https://lobste.rs/s/lkv0sh/using_ai_write_better_code_more_slowly) - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
