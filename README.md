@@ -1,6 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-27, 17:30:28](https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam) - [Happy almost 2nd Birthday Gleam](https://youtu.be/iMHVglCQyf0)
+* [2026-05-27, 16:53:22](https://lobste.rs/s/jegctv/i_m_tired_talking_ai) - [I’m tired of talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+* [2026-05-27, 16:53:16](https://lobste.rs/s/h9b8ik/new_register_allocator_for_zjit) - [A new register allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/)
 * [2026-05-27, 16:48:05](https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one) - [Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs](https://erlef.org/blog/security/atom-exhaustion)
+* [2026-05-27, 16:16:38](https://lobste.rs/s/rgybfv/macsurf_netsurf_for_mac_os_9) - [MacSurf: NetSurf for Mac OS 9](https://github.com/mplsllc/macsurf)
 * [2026-05-27, 15:50:11](https://lobste.rs/s/mzxmnh/brief_note_about_slot_access_cost_common) - [A brief note about slot access cost in Common Lisp](https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html)
 * [2026-05-27, 15:36:02](https://lobste.rs/s/yjwa9q/interview_with_zig_creator_andrew_kelley) - [Interview with Zig creator Andrew Kelley](https://www.youtube.com/watch?v=iqddnwKF8HQ)
 * [2026-05-27, 13:31:50](https://lobste.rs/s/iuv7kw/raft_consensus_with_minority_nodes) - [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/)
@@ -15,16 +19,12 @@
 * [2026-05-27, 03:21:37](https://lobste.rs/s/sgqbvg/build_system_reworked) - [Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 * [2026-05-27, 01:45:01](https://lobste.rs/s/ll8sr1/theseus_translating_win32_wasm) - [Theseus: translating win32 to wasm](https://neugierig.org/software/blog/2026/05/theseus-wasm.html)
 * [2026-05-27, 01:39:11](https://lobste.rs/s/o2ylrh/fast_is_better_than_slow) - [Fast is better than slow](https://dubroy.com/blog/fast-is-better-than-slow/)
-* [2026-05-26, 22:19:00](https://lobste.rs/s/7mmfnb/canada_s_bill_c_22_security_cost) - [Canada’s Bill C-22 and the security cost of collecting more data](https://tailscale.com/blog/bill-c22-canada)
 * [2026-05-26, 19:24:03](https://lobste.rs/s/t1es6x/folding_parallel) - [Folding in Parallel](https://okmij.org/ftp/Algorithms/map-monoid-reduce.html)
 * [2026-05-26, 17:56:24](https://lobste.rs/s/w1gpe7/stop_advertising_your_commits) - [Stop advertising in your commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
-* [2026-05-26, 16:35:09](https://lobste.rs/s/nkh1nz/software_for_my_new_home_server) - [Software For My New Home Server](https://nathangrigg.com/2026/05/home-server-software/)
-* [2026-05-26, 15:01:02](https://lobste.rs/s/tqxsky/building_asyncio_executor_for_3ds) - [Building an AsyncIO executor for the 3DS](https://blog.cat-girl.gay/3ds-async-part-one/)
 * [2026-05-26, 14:04:27](https://lobste.rs/s/noahb3/readable_css) - [readable.css](https://readable-css.freedomtowrite.org/)
 * [2026-05-26, 12:33:39](https://lobste.rs/s/goq5ha/what_is_harmonic_interactive_comic_about) - [What is a harmonic? An interactive comic about additive synthesis](https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/)
 * [2026-05-26, 10:40:40](https://lobste.rs/s/kbaepn/using_swiftui_build_mac_assed_app_2026) - [Using SwiftUI to Build a Mac-assed App in 2026](https://pfandrade.me/blog/mac-assed-swiftui-app/)
 * [2026-05-26, 06:47:38](https://lobste.rs/s/dw02ye/pressure) - [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/)
-* [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
 
 ## [Archives](archives/index.md)
 

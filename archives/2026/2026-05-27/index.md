@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 17:30:28](https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam) - [Happy almost 2nd Birthday Gleam](https://youtu.be/iMHVglCQyf0)
+* [2026-05-27, 16:53:22](https://lobste.rs/s/jegctv/i_m_tired_talking_ai) - [I’m tired of talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+* [2026-05-27, 16:53:16](https://lobste.rs/s/h9b8ik/new_register_allocator_for_zjit) - [A new register allocator for ZJIT](https://railsatscale.com/2026-05-27-a-new-register-allocator-for-zjit/)
 * [2026-05-27, 16:48:05](https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one) - [Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs](https://erlef.org/blog/security/atom-exhaustion)
+* [2026-05-27, 16:16:38](https://lobste.rs/s/rgybfv/macsurf_netsurf_for_mac_os_9) - [MacSurf: NetSurf for Mac OS 9](https://github.com/mplsllc/macsurf)
 * [2026-05-27, 15:50:11](https://lobste.rs/s/mzxmnh/brief_note_about_slot_access_cost_common) - [A brief note about slot access cost in Common Lisp](https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html)
 * [2026-05-27, 15:36:02](https://lobste.rs/s/yjwa9q/interview_with_zig_creator_andrew_kelley) - [Interview with Zig creator Andrew Kelley](https://www.youtube.com/watch?v=iqddnwKF8HQ)
 * [2026-05-27, 13:31:50](https://lobste.rs/s/iuv7kw/raft_consensus_with_minority_nodes) - [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/)
