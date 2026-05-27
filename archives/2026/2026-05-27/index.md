@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 16:48:05](https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one) - [Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs](https://erlef.org/blog/security/atom-exhaustion)
+* [2026-05-27, 15:50:11](https://lobste.rs/s/mzxmnh/brief_note_about_slot_access_cost_common) - [A brief note about slot access cost in Common Lisp](https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html)
+* [2026-05-27, 15:36:02](https://lobste.rs/s/yjwa9q/interview_with_zig_creator_andrew_kelley) - [Interview with Zig creator Andrew Kelley](https://www.youtube.com/watch?v=iqddnwKF8HQ)
 * [2026-05-27, 13:31:50](https://lobste.rs/s/iuv7kw/raft_consensus_with_minority_nodes) - [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/)
 * [2026-05-27, 11:57:38](https://lobste.rs/s/zfm1lc/space_tree_workspace_management_trees) - [space-tree: Workspace Management Trees in Emacs](https://www.chiply.dev/post-emacs-space-tree)
 * [2026-05-27, 10:04:18](https://lobste.rs/s/ktwvtk/5_postgresql_locking_behaviors_trip) - [5 PostgreSQL locking behaviors that trip people up](https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n)

@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-27, 16:48:05](https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one) - [Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs](https://erlef.org/blog/security/atom-exhaustion)
+* [2026-05-27, 15:50:11](https://lobste.rs/s/mzxmnh/brief_note_about_slot_access_cost_common) - [A brief note about slot access cost in Common Lisp](https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html)
+* [2026-05-27, 15:36:02](https://lobste.rs/s/yjwa9q/interview_with_zig_creator_andrew_kelley) - [Interview with Zig creator Andrew Kelley](https://www.youtube.com/watch?v=iqddnwKF8HQ)
 * [2026-05-27, 13:31:50](https://lobste.rs/s/iuv7kw/raft_consensus_with_minority_nodes) - [Raft Consensus with a Minority of Nodes](https://padhye.org/raft-minority/)
 * [2026-05-27, 11:57:38](https://lobste.rs/s/zfm1lc/space_tree_workspace_management_trees) - [space-tree: Workspace Management Trees in Emacs](https://www.chiply.dev/post-emacs-space-tree)
 * [2026-05-27, 10:04:18](https://lobste.rs/s/ktwvtk/5_postgresql_locking_behaviors_trip) - [5 PostgreSQL locking behaviors that trip people up](https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n)
@@ -19,11 +22,8 @@
 * [2026-05-26, 15:01:02](https://lobste.rs/s/tqxsky/building_asyncio_executor_for_3ds) - [Building an AsyncIO executor for the 3DS](https://blog.cat-girl.gay/3ds-async-part-one/)
 * [2026-05-26, 14:04:27](https://lobste.rs/s/noahb3/readable_css) - [readable.css](https://readable-css.freedomtowrite.org/)
 * [2026-05-26, 12:33:39](https://lobste.rs/s/goq5ha/what_is_harmonic_interactive_comic_about) - [What is a harmonic? An interactive comic about additive synthesis](https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/)
-* [2026-05-26, 12:32:44](https://lobste.rs/s/kzslib/how_virtual_tables_work_itanium_c_abi) - [How Virtual Tables Work in the Itanium C++ ABI](https://peter0x44.github.io/posts/vtables-itanium-abi/)
 * [2026-05-26, 10:40:40](https://lobste.rs/s/kbaepn/using_swiftui_build_mac_assed_app_2026) - [Using SwiftUI to Build a Mac-assed App in 2026](https://pfandrade.me/blog/mac-assed-swiftui-app/)
 * [2026-05-26, 06:47:38](https://lobste.rs/s/dw02ye/pressure) - [The pressure](https://daniel.haxx.se/blog/2026/05/26/the-pressure/)
-* [2026-05-25, 17:07:48](https://lobste.rs/s/eedsds/encyclical_letter_his_holiness_leo_xiv) - [Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas](http://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-* [2026-05-25, 16:19:14](https://lobste.rs/s/lkv0sh/using_ai_write_better_code_more_slowly) - [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 * [2026-05-25, 12:09:24](https://lobste.rs/s/kgem4b/social_contract_writing) - [The social contract of writing](https://jola.dev/posts/the-social-contract-of-writing)
 
 ## [Archives](archives/index.md)
