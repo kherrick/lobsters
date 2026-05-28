@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-05-28, 10:46:28",
+      "https://lobste.rs/s/jowjkj/what_s_cooking_on_sourcehut_q2_2026"
+    ],
+    [
+      "What's cooking on SourceHut? Q2 2026",
+      "https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 10:01:05",
+      "https://lobste.rs/s/dfz7tg/tenth_openpgp_email_summit"
+    ],
+    [
+      "The tenth OpenPGP email summit",
+      "https://lwn.net/Articles/1072870/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 09:52:05",
+      "https://lobste.rs/s/nx1xwo/why_gentoo"
+    ],
+    [
+      "Why Gentoo?",
+      "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 09:11:32",
       "https://lobste.rs/s/jiwsnj/state_curl_2026_with_daniel_stenberg"
     ],
     [
       "The state of curl 2026 with Daniel Stenberg",
       "https://www.youtube.com/watch?v=zt4qMZN2xDU"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 07:53:13",
-      "https://lobste.rs/s/jifvgs/cybersecurity_challenge_be_nice_each"
-    ],
-    [
-      "Cybersecurity challenge: be nice to each other [IMPOSSIBLE]",
-      "https://sdomi.pl/weblog/29-please-do-better-thanks/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "WordPress at 23",
       "https://wordpress.org/news/2026/05/wp23/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 04:54:17",
+      "https://lobste.rs/s/k1q4tr/finding_miscompiles_for_fun_not_profit"
+    ],
+    [
+      "Finding miscompiles for fun, not profit",
+      "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit"
     ]
   ],
   [
@@ -111,12 +141,12 @@
   ],
   [
     [
-      "2026-05-27, 17:30:28",
-      "https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam"
+      "2026-05-27, 16:53:22",
+      "https://lobste.rs/s/jegctv/i_m_tired_talking_ai"
     ],
     [
-      "Happy almost 2nd Birthday Gleam",
-      "https://youtu.be/iMHVglCQyf0"
+      "I’m tired of talking to AI",
+      "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
     ]
   ],
   [
@@ -137,6 +167,16 @@
     [
       "Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs",
       "https://erlef.org/blog/security/atom-exhaustion"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 16:16:38",
+      "https://lobste.rs/s/rgybfv/macsurf_netsurf_for_mac_os_9"
+    ],
+    [
+      "MacSurf: NetSurf for Mac OS 9",
+      "https://github.com/mplsllc/macsurf"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2026-05-27, 10:04:18",
-      "https://lobste.rs/s/ktwvtk/5_postgresql_locking_behaviors_trip"
-    ],
-    [
-      "5 PostgreSQL locking behaviors that trip people up",
-      "https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 10:01:18",
       "https://lobste.rs/s/rzdtx8/may_i_recommend_thinking_emacs_as_your"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2026-05-27, 07:32:12",
-      "https://lobste.rs/s/cmsgwo/cve_2026_48710_starlette_host_header_auth"
-    ],
-    [
-      "CVE-2026-48710 Starlette Host-Header Auth Bypass",
-      "https://badhost.org"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 05:40:47",
       "https://lobste.rs/s/2jdvxa/what_are_some_your_favourite_developer"
     ],
@@ -227,26 +247,6 @@
     [
       "Build System Reworked",
       "https://ziglang.org/devlog/2026/#2026-05-26"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 01:39:11",
-      "https://lobste.rs/s/o2ylrh/fast_is_better_than_slow"
-    ],
-    [
-      "Fast is better than slow",
-      "https://dubroy.com/blog/fast-is-better-than-slow/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 12:33:39",
-      "https://lobste.rs/s/goq5ha/what_is_harmonic_interactive_comic_about"
-    ],
-    [
-      "What is a harmonic? An interactive comic about additive synthesis",
-      "https://melatonin.dev/additive-synth-comic/what-is-a-harmonic/"
     ]
   ]
 ]
