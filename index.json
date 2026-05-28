@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-28, 00:18:18",
+      "https://lobste.rs/s/xtydht/creusot_helps_you_prove_your_rust_code_is"
+    ],
+    [
+      "Creusot helps you prove your Rust code is correct",
+      "https://github.com/creusot-rs/creusot/tree/master"
+    ]
+  ],
+  [
+    [
+      "2026-05-27, 23:54:16",
+      "https://lobste.rs/s/m57z5f/love_letter_neovim"
+    ],
+    [
+      "A Love Letter to Neovim",
+      "https://caio.ca/blog/a-love-letter-to-neovim"
+    ]
+  ],
+  [
+    [
       "2026-05-27, 23:46:37",
       "https://lobste.rs/s/mlfx3s/rust_slint_on_jailbroken_kindle"
     ],
@@ -37,16 +57,6 @@
     [
       "CSS vs. JavaScript",
       "https://www.joshwcomeau.com/animation/css-vs-javascript/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 17:30:28",
-      "https://lobste.rs/s/fvhvkn/happy_almost_2nd_birthday_gleam"
-    ],
-    [
-      "Happy almost 2nd Birthday Gleam",
-      "https://youtu.be/iMHVglCQyf0"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "5 PostgreSQL locking behaviors that trip people up",
       "https://dev.to/shinyakato_/5-postgresql-locking-behaviors-that-trip-people-up-4k7n"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 10:02:10",
-      "https://lobste.rs/s/cvyshr/converting_shallow_git_bundles_into"
-    ],
-    [
-      "Converting shallow Git bundles into normal repositories",
-      "https://runxiyu.org/comp/shallowbundle/"
     ]
   ],
   [
