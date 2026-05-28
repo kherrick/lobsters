@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-27](index.md)
 
+* [2026-05-27, 23:54:16](https://lobste.rs/s/m57z5f/love_letter_neovim) - [A Love Letter to Neovim](https://caio.ca/blog/a-love-letter-to-neovim)
 * [2026-05-27, 23:46:37](https://lobste.rs/s/mlfx3s/rust_slint_on_jailbroken_kindle) - [Rust (and Slint) on a jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
 * [2026-05-27, 23:37:48](https://lobste.rs/s/tw3jle/csci_1377_tools_for_thought_spring_2026) - [CSCI 1377: Tools for Thought (Spring 2026)](https://cel.cs.brown.edu/csci-1377-s26/)
 * [2026-05-27, 20:44:08](https://lobste.rs/s/es9wmf/making_wl_shm_fast) - [Making wl_shm fast](https://zamundaaa.github.io/wayland/2026/05/06/making-wl-shm-fast.html)
