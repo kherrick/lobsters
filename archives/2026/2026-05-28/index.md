@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 21:01:28](https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting) - [One year of Roto, the compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
+* [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
+* [2026-05-28, 18:17:46](https://lobste.rs/s/yvs9nm/cifswitch_non_universal_linux_local_root) - [CIFSwitch: a non-universal Linux local root vulnerability](https://heyitsas.im/posts/cifswitch/)
 * [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 * [2026-05-28, 17:30:47](https://lobste.rs/s/4msjpt/garnix_is_shutting_down) - [Garnix is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
 * [2026-05-28, 16:53:17](https://lobste.rs/s/9s41s0/ripe_ncc_session_fixation_poaching) - [RIPE NCC session fixation: poaching logins with an Atlas probe](https://mxsasha.eu/posts/ripe-ncc-session-fixation/)
