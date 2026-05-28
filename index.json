@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-28, 21:01:28",
+      "https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting"
+    ],
+    [
+      "One year of Roto, the compiled scripting language for Rust",
+      "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 19:28:08",
+      "https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0"
+    ],
+    [
+      "Announcing Rust 1.96.0",
+      "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:17:46",
+      "https://lobste.rs/s/yvs9nm/cifswitch_non_universal_linux_local_root"
+    ],
+    [
+      "CIFSwitch: a non-universal Linux local root vulnerability",
+      "https://heyitsas.im/posts/cifswitch/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 18:17:31",
       "https://lobste.rs/s/brusu8/protestware_for_coding_agents"
     ],
@@ -37,16 +67,6 @@
     [
       "GNOME 2.20 but its Web Components",
       "https://bennypowers.dev/posts/GNOME-2-web/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 16:06:37",
-      "https://lobste.rs/s/sfdb0q/agentic_search_for_context_engineering"
-    ],
-    [
-      "Agentic Search for Context Engineering",
-      "https://leoniemonigatti.com/blog/agentic-search-for-context-engineering.html"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2026-05-27, 16:53:22",
-      "https://lobste.rs/s/jegctv/i_m_tired_talking_ai"
-    ],
-    [
-      "I’m tired of talking to AI",
-      "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 16:48:05",
       "https://lobste.rs/s/lfusbg/atom_exhaustion_is_not_footgun_it_s_one"
     ],
     [
       "Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs",
       "https://erlef.org/blog/security/atom-exhaustion"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 15:50:11",
-      "https://lobste.rs/s/mzxmnh/brief_note_about_slot_access_cost_common"
-    ],
-    [
-      "A brief note about slot access cost in Common Lisp",
-      "https://turtleware.eu/posts/A-brief-note-about-slot-access-cost-in-Common-Lisp.html"
     ]
   ],
   [
