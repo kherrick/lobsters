@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+* [2026-05-28, 17:30:47](https://lobste.rs/s/4msjpt/garnix_is_shutting_down) - [Garnix is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
+* [2026-05-28, 16:53:17](https://lobste.rs/s/9s41s0/ripe_ncc_session_fixation_poaching) - [RIPE NCC session fixation: poaching logins with an Atlas probe](https://mxsasha.eu/posts/ripe-ncc-session-fixation/)
+* [2026-05-28, 16:39:09](https://lobste.rs/s/n2mhi4/gnome_2_20_its_web_components) - [GNOME 2.20 but its Web Components](https://bennypowers.dev/posts/GNOME-2-web/)
+* [2026-05-28, 16:06:37](https://lobste.rs/s/sfdb0q/agentic_search_for_context_engineering) - [Agentic Search for Context Engineering](https://leoniemonigatti.com/blog/agentic-search-for-context-engineering.html)
 * [2026-05-28, 15:59:46](https://lobste.rs/s/w4vsvq/jjc_non_interactive_hunk_level) - [jjc: Non-interactive hunk-level operations for Jujutsu](https://tangled.org/akashina.tngl.sh/jjc)
 * [2026-05-28, 15:15:35](https://lobste.rs/s/dt7jn8/concerning_emacs_jazz) - [Concerning Emacs (and Jazz)](https://omidmash.de/blog/concerning-emacs)
 * [2026-05-28, 14:51:40](https://lobste.rs/s/eh9gja/what_kache_actually_caches) - [What kache actually caches](https://kunobi.ninja/blog/what-kache-actually-caches)
