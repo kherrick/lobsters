@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-05-28, 09:11:32",
+      "https://lobste.rs/s/jiwsnj/state_curl_2026_with_daniel_stenberg"
+    ],
+    [
+      "The state of curl 2026 with Daniel Stenberg",
+      "https://www.youtube.com/watch?v=zt4qMZN2xDU"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 07:53:13",
+      "https://lobste.rs/s/jifvgs/cybersecurity_challenge_be_nice_each"
+    ],
+    [
+      "Cybersecurity challenge: be nice to each other [IMPOSSIBLE]",
+      "https://sdomi.pl/weblog/29-please-do-better-thanks/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 05:59:15",
+      "https://lobste.rs/s/qtno6s/clojure_on_fennel_part_three_parsing"
+    ],
+    [
+      "Clojure on Fennel part three: parsing",
+      "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 05:11:41",
       "https://lobste.rs/s/jrnaem/wordpress_at_23"
     ],
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2026-05-27, 16:53:22",
-      "https://lobste.rs/s/jegctv/i_m_tired_talking_ai"
-    ],
-    [
-      "I’m tired of talking to AI",
-      "https://orchidfiles.com/im-tired-of-ai-generated-answers/"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 16:53:16",
       "https://lobste.rs/s/h9b8ik/new_register_allocator_for_zjit"
     ],
@@ -117,16 +137,6 @@
     [
       "Atom Exhaustion Is Not a Footgun. It's One Third of Our CVEs",
       "https://erlef.org/blog/security/atom-exhaustion"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 16:16:38",
-      "https://lobste.rs/s/rgybfv/macsurf_netsurf_for_mac_os_9"
-    ],
-    [
-      "MacSurf: NetSurf for Mac OS 9",
-      "https://github.com/mplsllc/macsurf"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2026-05-27, 05:53:58",
-      "https://lobste.rs/s/ffs7xz/rethinking_gnome_clipboard_issues"
+      "2026-05-27, 07:32:12",
+      "https://lobste.rs/s/cmsgwo/cve_2026_48710_starlette_host_header_auth"
     ],
     [
-      "Rethinking the GNOME clipboard issues",
-      "https://edu4rdshl.dev/posts/rethinking-the-gnome-clipboard-issues/"
+      "CVE-2026-48710 Starlette Host-Header Auth Bypass",
+      "https://badhost.org"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Fast is better than slow",
       "https://dubroy.com/blog/fast-is-better-than-slow/"
-    ]
-  ],
-  [
-    [
-      "2026-05-26, 17:56:24",
-      "https://lobste.rs/s/w1gpe7/stop_advertising_your_commits"
-    ],
-    [
-      "Stop advertising in your commits",
-      "https://akselmo.dev/posts/stop-advertising-in-your-commits/"
     ]
   ],
   [
