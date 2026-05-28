@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 15:59:46](https://lobste.rs/s/w4vsvq/jjc_non_interactive_hunk_level) - [jjc: Non-interactive hunk-level operations for Jujutsu](https://tangled.org/akashina.tngl.sh/jjc)
+* [2026-05-28, 15:15:35](https://lobste.rs/s/dt7jn8/concerning_emacs_jazz) - [Concerning Emacs (and Jazz)](https://omidmash.de/blog/concerning-emacs)
+* [2026-05-28, 14:51:40](https://lobste.rs/s/eh9gja/what_kache_actually_caches) - [What kache actually caches](https://kunobi.ninja/blog/what-kache-actually-caches)
+* [2026-05-28, 13:04:36](https://lobste.rs/s/re4ztm/package_managers_package_package) - [Package managers that package package managers](https://nesbitt.io/2026/05/28/package-managers-that-package-package-managers.html)
+* [2026-05-28, 12:42:33](https://lobste.rs/s/0zltfs/nitpicking_shell_history_scene_tron) - [Nitpicking the shell history scene in ‘Tron: Legacy’](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/)
 * [2026-05-28, 10:46:28](https://lobste.rs/s/jowjkj/what_s_cooking_on_sourcehut_q2_2026) - [What's cooking on SourceHut? Q2 2026](https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/)
 * [2026-05-28, 10:01:05](https://lobste.rs/s/dfz7tg/tenth_openpgp_email_summit) - [The tenth OpenPGP email summit](https://lwn.net/Articles/1072870/)
 * [2026-05-28, 09:52:05](https://lobste.rs/s/nx1xwo/why_gentoo) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
