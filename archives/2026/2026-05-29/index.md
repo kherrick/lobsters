@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
+* [2026-05-29, 15:02:24](https://lobste.rs/s/40broz/bijou64_variable_length_integer) - [bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
+* [2026-05-29, 14:47:14](https://lobste.rs/s/yszuka/emacs_bra_size_calculator) - [Emacs bra size calculator](https://pulusound.fi/blog/emacs-bra-size-calculator)
+* [2026-05-29, 14:09:19](https://lobste.rs/s/qxzf2k/racket_v9_2) - [Racket v9.2](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
 * [2026-05-29, 12:56:23](https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions) - [Flathub disallows LLM-based submissions](https://social.treehouse.systems/@barthalion/116657011366876079)
 * [2026-05-29, 12:35:09](https://lobste.rs/s/xhucas/scriba_structured_logging_lisp_with) - [Scriba: Structured logging in Lisp with multiple backends and auto-config (Scheme library)](https://codeberg.org/jjba23/scriba)
 * [2026-05-29, 11:45:57](https://lobste.rs/s/memnyj/reed_specification_better_prefix) - [Reed Specification or Better Prefix Authentication (2023)](https://worm-blossom.github.io/reed/)
