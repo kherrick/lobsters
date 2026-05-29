@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-29, 03:25:25",
+      "https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code"
+    ],
+    [
+      "SQLite Does Not Accept Agentic Code",
+      "https://simonwillison.net/2026/May/27/sqlite-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 00:07:10",
+      "https://lobste.rs/s/d9n2yd/tail_ci_logs_over_ssh"
+    ],
+    [
+      "tail CI logs over SSH",
+      "https://blog.tangled.org/ssh/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 23:55:44",
+      "https://lobste.rs/s/3zzn9g/introducing_neptune_direct3d"
+    ],
+    [
+      "Introducing Neptune: Direct3D virtualization for QEMU",
+      "https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 23:36:16",
+      "https://lobste.rs/s/eowso1/acme_caa_extensions_become_mandatory"
+    ],
+    [
+      "ACME CAA Extensions to Become Mandatory",
+      "https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 23:28:39",
       "https://lobste.rs/s/jomfmw/silent_critic"
     ],
@@ -27,16 +67,6 @@
     [
       "Announcing Rust 1.96.0",
       "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 18:17:46",
-      "https://lobste.rs/s/yvs9nm/cifswitch_non_universal_linux_local_root"
-    ],
-    [
-      "CIFSwitch: a non-universal Linux local root vulnerability",
-      "https://heyitsas.im/posts/cifswitch/"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-05-28, 14:51:40",
-      "https://lobste.rs/s/eh9gja/what_kache_actually_caches"
-    ],
-    [
-      "What kache actually caches",
-      "https://kunobi.ninja/blog/what-kache-actually-caches"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 13:04:36",
       "https://lobste.rs/s/re4ztm/package_managers_package_package"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2026-05-28, 00:18:18",
-      "https://lobste.rs/s/xtydht/creusot_helps_you_prove_your_rust_code_is"
-    ],
-    [
-      "Creusot helps you prove your Rust code is correct",
-      "https://github.com/creusot-rs/creusot/tree/master"
-    ]
-  ],
-  [
-    [
       "2026-05-27, 23:54:16",
       "https://lobste.rs/s/m57z5f/love_letter_neovim"
     ],
@@ -227,16 +237,6 @@
     [
       "Interview with Zig creator Andrew Kelley",
       "https://www.youtube.com/watch?v=iqddnwKF8HQ"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 10:01:18",
-      "https://lobste.rs/s/rzdtx8/may_i_recommend_thinking_emacs_as_your"
-    ],
-    [
-      "May I recommend thinking of Emacs as your Fortress of Solitude",
-      "https://martinsos.com/posts/may-recommend-emacs-home-base"
     ]
   ],
   [
