@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-05-29](index.md)
 
+* [2026-05-29, 12:56:23](https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions) - [Flathub disallows LLM-based submissions](https://social.treehouse.systems/@barthalion/116657011366876079)
+* [2026-05-29, 12:35:09](https://lobste.rs/s/xhucas/scriba_structured_logging_lisp_with) - [Scriba: Structured logging in Lisp with multiple backends and auto-config (Scheme library)](https://codeberg.org/jjba23/scriba)
+* [2026-05-29, 11:45:57](https://lobste.rs/s/memnyj/reed_specification_better_prefix) - [Reed Specification or Better Prefix Authentication (2023)](https://worm-blossom.github.io/reed/)
 * [2026-05-29, 10:15:46](https://lobste.rs/s/nhppxf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nhppxf/what_are_you_doing_this_weekend)
 * [2026-05-29, 10:03:21](https://lobste.rs/s/l9qosq/avoid_using_cdata_rss) - [Avoid using \"<![CDATA[ ... ]]>\" in RSS](https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss)
 * [2026-05-29, 09:37:25](https://lobste.rs/s/xmio29/what_are_important_data_systems_problems) - [What are important data systems problems, ignored by research? (2024)](http://databasearchitects.blogspot.com/2024/12/what-are-important-data-systems.html)
