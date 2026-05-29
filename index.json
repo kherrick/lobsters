@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-28, 23:28:39",
+      "https://lobste.rs/s/jomfmw/silent_critic"
+    ],
+    [
+      "The Silent Critic",
+      "https://www.tft.io/the-silent-critic/"
+    ]
+  ],
+  [
+    [
       "2026-05-28, 21:01:28",
       "https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting"
     ],
@@ -157,16 +167,6 @@
     [
       "Clojure on Fennel part three: parsing",
       "https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 02:30:43",
-      "https://lobste.rs/s/v1jbbe/using_gcc_s_nested_functions_with_wide"
-    ],
-    [
-      "Using GCC's Nested Functions with Wide Pointers and no Trampolines",
-      "https://uecker.codeberg.page/2026-01-06.html"
     ]
   ],
   [
