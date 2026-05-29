@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-29, 18:52:09](https://lobste.rs/s/lwnweu/it_happened_casey_muratori_s_comment_on) - [\"But it happened.\" - Casey Muratori's comment on Eric Schmidt's commencement speech](https://youtu.be/tlQ7EoJDTQY)
 * [2026-05-29, 17:51:55](https://lobste.rs/s/xvdvko/cve_2026_48710_maintainer_s_perspective) - [CVE-2026-48710: A Maintainer's Perspective](https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/)
 * [2026-05-29, 16:59:42](https://lobste.rs/s/2cjb1z/why_i_am_against_genai_everything_it) - [Why I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
 * [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
@@ -23,7 +24,6 @@
 * [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 * [2026-05-28, 17:30:47](https://lobste.rs/s/4msjpt/garnix_is_shutting_down) - [Garnix is shutting down](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
-* [2026-05-28, 10:46:28](https://lobste.rs/s/jowjkj/what_s_cooking_on_sourcehut_q2_2026) - [What's cooking on SourceHut? Q2 2026](https://sourcehut.org/blog/2026-05-28-whats-cooking-q2-2026/)
 * [2026-05-28, 09:52:05](https://lobste.rs/s/nx1xwo/why_gentoo) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 
 ## [Archives](archives/index.md)
