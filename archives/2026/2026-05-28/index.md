@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 23:55:44](https://lobste.rs/s/3zzn9g/introducing_neptune_direct3d) - [Introducing Neptune: Direct3D virtualization for QEMU](https://blog.getutm.app/2026/introducing-neptune-direct3d-virtualization-for-qemu/)
+* [2026-05-28, 23:36:16](https://lobste.rs/s/eowso1/acme_caa_extensions_become_mandatory) - [ACME CAA Extensions to Become Mandatory](https://www.feistyduck.com/newsletter/issue_137_acme_caa__extensions_to_become_mandatory)
 * [2026-05-28, 23:28:39](https://lobste.rs/s/jomfmw/silent_critic) - [The Silent Critic](https://www.tft.io/the-silent-critic/)
 * [2026-05-28, 21:01:28](https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting) - [One year of Roto, the compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
