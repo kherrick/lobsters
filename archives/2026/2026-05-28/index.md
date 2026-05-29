@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-28](index.md)
 
+* [2026-05-28, 23:28:39](https://lobste.rs/s/jomfmw/silent_critic) - [The Silent Critic](https://www.tft.io/the-silent-critic/)
 * [2026-05-28, 21:01:28](https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting) - [One year of Roto, the compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 18:17:46](https://lobste.rs/s/yvs9nm/cifswitch_non_universal_linux_local_root) - [CIFSwitch: a non-universal Linux local root vulnerability](https://heyitsas.im/posts/cifswitch/)

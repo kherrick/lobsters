@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-28, 23:28:39](https://lobste.rs/s/jomfmw/silent_critic) - [The Silent Critic](https://www.tft.io/the-silent-critic/)
 * [2026-05-28, 21:01:28](https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting) - [One year of Roto, the compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 18:17:46](https://lobste.rs/s/yvs9nm/cifswitch_non_universal_linux_local_root) - [CIFSwitch: a non-universal Linux local root vulnerability](https://heyitsas.im/posts/cifswitch/)
@@ -16,7 +17,6 @@
 * [2026-05-28, 10:01:05](https://lobste.rs/s/dfz7tg/tenth_openpgp_email_summit) - [The tenth OpenPGP email summit](https://lwn.net/Articles/1072870/)
 * [2026-05-28, 09:52:05](https://lobste.rs/s/nx1xwo/why_gentoo) - [Why Gentoo?](https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/)
 * [2026-05-28, 05:59:15](https://lobste.rs/s/qtno6s/clojure_on_fennel_part_three_parsing) - [Clojure on Fennel part three: parsing](https://andreyor.st/posts/2026-04-27-clojure-on-fennel-part-three-parsing/)
-* [2026-05-28, 02:30:43](https://lobste.rs/s/v1jbbe/using_gcc_s_nested_functions_with_wide) - [Using GCC's Nested Functions with Wide Pointers and no Trampolines](https://uecker.codeberg.page/2026-01-06.html)
 * [2026-05-28, 00:18:18](https://lobste.rs/s/xtydht/creusot_helps_you_prove_your_rust_code_is) - [Creusot helps you prove your Rust code is correct](https://github.com/creusot-rs/creusot/tree/master)
 * [2026-05-27, 23:54:16](https://lobste.rs/s/m57z5f/love_letter_neovim) - [A Love Letter to Neovim](https://caio.ca/blog/a-love-letter-to-neovim)
 * [2026-05-27, 23:46:37](https://lobste.rs/s/mlfx3s/rust_slint_on_jailbroken_kindle) - [Rust (and Slint) on a jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/)
