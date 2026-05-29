@@ -1,6 +1,46 @@
 [
   [
     [
+      "2026-05-29, 16:31:14",
+      "https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline"
+    ],
+    [
+      "I Am Retiring from Tech to Live Offline",
+      "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 15:02:24",
+      "https://lobste.rs/s/40broz/bijou64_variable_length_integer"
+    ],
+    [
+      "bijou64: A variable-length integer encoding",
+      "https://www.inkandswitch.com/tangents/bijou64/"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 14:47:14",
+      "https://lobste.rs/s/yszuka/emacs_bra_size_calculator"
+    ],
+    [
+      "Emacs bra size calculator",
+      "https://pulusound.fi/blog/emacs-bra-size-calculator"
+    ]
+  ],
+  [
+    [
+      "2026-05-29, 14:09:19",
+      "https://lobste.rs/s/qxzf2k/racket_v9_2"
+    ],
+    [
+      "Racket v9.2",
+      "https://blog.racket-lang.org/2026/05/racket-v9-2.html"
+    ]
+  ],
+  [
+    [
       "2026-05-29, 12:56:23",
       "https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions"
     ],
@@ -17,16 +57,6 @@
     [
       "Scriba: Structured logging in Lisp with multiple backends and auto-config (Scheme library)",
       "https://codeberg.org/jjba23/scriba"
-    ]
-  ],
-  [
-    [
-      "2026-05-29, 11:45:57",
-      "https://lobste.rs/s/memnyj/reed_specification_better_prefix"
-    ],
-    [
-      "Reed Specification or Better Prefix Authentication (2023)",
-      "https://worm-blossom.github.io/reed/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-05-28, 23:28:39",
-      "https://lobste.rs/s/jomfmw/silent_critic"
-    ],
-    [
-      "The Silent Critic",
-      "https://www.tft.io/the-silent-critic/"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 21:01:28",
       "https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-05-28, 15:59:46",
-      "https://lobste.rs/s/w4vsvq/jjc_non_interactive_hunk_level"
-    ],
-    [
-      "jjc: Non-interactive hunk-level operations for Jujutsu",
-      "https://tangled.org/akashina.tngl.sh/jjc"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 12:42:33",
       "https://lobste.rs/s/0zltfs/nitpicking_shell_history_scene_tron"
     ],
@@ -237,16 +247,6 @@
     [
       "Why Gentoo?",
       "https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/"
-    ]
-  ],
-  [
-    [
-      "2026-05-27, 23:54:16",
-      "https://lobste.rs/s/m57z5f/love_letter_neovim"
-    ],
-    [
-      "A Love Letter to Neovim",
-      "https://caio.ca/blog/a-love-letter-to-neovim"
     ]
   ]
 ]
