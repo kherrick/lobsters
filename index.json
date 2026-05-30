@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-30, 20:24:36",
+      "https://lobste.rs/s/oktynl/am_i_bad_friend"
+    ],
+    [
+      "Am I a Bad Friend?",
+      "https://drobinin.com/posts/am-i-a-bad-friend/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 20:00:19",
+      "https://lobste.rs/s/jc0jsn/claw_patrol_open_source_security"
+    ],
+    [
+      "Claw Patrol: an open-source security firewall for agents",
+      "https://deno.com/blog/clawpatrol"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 18:15:21",
       "https://lobste.rs/s/auvxjf/navigating_mte_landscape_ios_memory"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-05-29, 05:44:56",
-      "https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis"
-    ],
-    [
-      "How do you version public web APIs?",
-      "https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 03:25:25",
       "https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code"
     ],
     [
       "SQLite Does Not Accept Agentic Code",
       "https://simonwillison.net/2026/May/27/sqlite-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 18:17:31",
-      "https://lobste.rs/s/brusu8/protestware_for_coding_agents"
-    ],
-    [
-      "Protestware for coding agents",
-      "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
     ]
   ]
 ]
