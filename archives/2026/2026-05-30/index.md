@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
+* [2026-05-30, 21:49:58](https://lobste.rs/s/jedgbs/parallel_reconstruction_lawful_tls) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 * [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
 * [2026-05-30, 20:51:18](https://lobste.rs/s/r1zexi/detect_profile_fonts_on_any_website) - [Detect and profile fonts on any website, revealing their properties and metadata](https://typicalhq.vercel.app/)
 * [2026-05-30, 20:24:36](https://lobste.rs/s/oktynl/am_i_bad_friend) - [Am I a Bad Friend?](https://drobinin.com/posts/am-i-a-bad-friend/)

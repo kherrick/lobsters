@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
+* [2026-05-30, 21:49:58](https://lobste.rs/s/jedgbs/parallel_reconstruction_lawful_tls) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 * [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
-* [2026-05-30, 20:51:18](https://lobste.rs/s/r1zexi/detect_profile_fonts_on_any_website) - [Detect and profile fonts on any website, revealing their properties and metadata](https://typicalhq.vercel.app/)
 * [2026-05-30, 20:24:36](https://lobste.rs/s/oktynl/am_i_bad_friend) - [Am I a Bad Friend?](https://drobinin.com/posts/am-i-a-bad-friend/)
 * [2026-05-30, 20:00:19](https://lobste.rs/s/jc0jsn/claw_patrol_open_source_security) - [Claw Patrol: an open-source security firewall for agents](https://deno.com/blog/clawpatrol)
 * [2026-05-30, 18:15:21](https://lobste.rs/s/auvxjf/navigating_mte_landscape_ios_memory) - [Navigating the MTE Landscape: iOS Memory Protection Deep Dive](https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf)
@@ -13,7 +14,6 @@
 * [2026-05-30, 11:56:30](https://lobste.rs/s/pxuzbr/marknote_1_6_0) - [Marknote 1.6.0](https://carlschwan.eu/2026/05/30/marknote-1.6.0/)
 * [2026-05-30, 07:22:51](https://lobste.rs/s/e1kdrn/on_rendering_diffs) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
 * [2026-05-30, 07:17:22](https://lobste.rs/s/mlm7ne/critical_state_cyberspace) - [The Critical State of Cyberspace](https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false)
-* [2026-05-30, 06:00:19](https://lobste.rs/s/sgbvmj/openrct2_v0_5_1_swamp_castle_released_last) - [OpenRCT2 v0.5.1 “Swamp Castle\" released! Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 * [2026-05-30, 01:09:37](https://lobste.rs/s/xsurh7/what_is_dickover) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
 * [2026-05-29, 20:54:43](https://lobste.rs/s/vyi4gp/ev_stupidity_checklist) - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
 * [2026-05-29, 17:51:55](https://lobste.rs/s/xvdvko/cve_2026_48710_maintainer_s_perspective) - [CVE-2026-48710: A Maintainer's Perspective](https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/)
