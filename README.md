@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
+* [2026-05-30, 14:05:57](https://lobste.rs/s/awqcgc/nix_on_sailfish_x_sailfish_os_for_sony) - [Nix on Sailfish X (Sailfish OS for Sony Xperia)](https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/)
 * [2026-05-30, 13:41:46](https://lobste.rs/s/grqzwv/coalgebras_automata) - [Coalgebras and Automata](https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html)
 * [2026-05-30, 11:56:30](https://lobste.rs/s/pxuzbr/marknote_1_6_0) - [Marknote 1.6.0](https://carlschwan.eu/2026/05/30/marknote-1.6.0/)
 * [2026-05-30, 07:22:51](https://lobste.rs/s/e1kdrn/on_rendering_diffs) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
@@ -9,7 +11,6 @@
 * [2026-05-29, 20:54:43](https://lobste.rs/s/vyi4gp/ev_stupidity_checklist) - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
 * [2026-05-29, 18:52:09](https://lobste.rs/s/lwnweu/it_happened_casey_muratori_s_comment_on) - [\"But it happened.\" - Casey Muratori's comment on Eric Schmidt's commencement speech](https://youtu.be/tlQ7EoJDTQY)
 * [2026-05-29, 17:51:55](https://lobste.rs/s/xvdvko/cve_2026_48710_maintainer_s_perspective) - [CVE-2026-48710: A Maintainer's Perspective](https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/)
-* [2026-05-29, 17:27:07](https://lobste.rs/s/swa6iv/go_language_server_can_do_some_impressive) - [The Go language server can do some impressive code navigation](https://utcc.utoronto.ca/~cks/space/blog/programming/GoLSPImpressiveCodeNavigation)
 * [2026-05-29, 16:59:42](https://lobste.rs/s/2cjb1z/why_i_am_against_genai_everything_it) - [Why I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
 * [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
 * [2026-05-29, 15:29:40](https://lobste.rs/s/vdojf3/nnn_stack_nixos_niri_noctalia) - [NNN Stack: NixOS, Niri, Noctalia](https://the-nnn-stack.github.io)
@@ -17,7 +18,6 @@
 * [2026-05-29, 14:47:14](https://lobste.rs/s/yszuka/emacs_bra_size_calculator) - [Emacs bra size calculator](https://pulusound.fi/blog/emacs-bra-size-calculator)
 * [2026-05-29, 14:09:19](https://lobste.rs/s/qxzf2k/racket_v9_2) - [Racket v9.2](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
 * [2026-05-29, 12:56:23](https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions) - [Flathub disallows LLM-based submissions](https://social.treehouse.systems/@barthalion/116657011366876079)
-* [2026-05-29, 10:03:21](https://lobste.rs/s/l9qosq/avoid_using_cdata_rss) - [Avoid using \"<![CDATA[ ... ]]>\" in RSS](https://waspdev.com/articles/2026-05-11/avoid-using-cdata-in-rss)
 * [2026-05-29, 09:18:06](https://lobste.rs/s/7lrk2t/leaving_performance_on_table) - [Leaving performance on the table](https://fzakaria.com/2026/05/23/leaving-performance-on-the-table)
 * [2026-05-29, 09:08:12](https://lobste.rs/s/jp3nva/you_probably_don_t_need_yocto_s_fine) - [You probably don't need Yocto, and that's fine](https://sigma-star.at/blog/2026/05/you-probably-dont-need-yocto-and-thats-fine/)
 * [2026-05-29, 05:58:06](https://lobste.rs/s/1fkt8w/patching_my_guitar_amp_s_firmware) - [Patching my guitar amp's firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html)
