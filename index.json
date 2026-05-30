@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2026-05-29, 18:52:09",
-      "https://lobste.rs/s/lwnweu/it_happened_casey_muratori_s_comment_on"
-    ],
-    [
-      "\"But it happened.\" - Casey Muratori's comment on Eric Schmidt's commencement speech",
-      "https://youtu.be/tlQ7EoJDTQY"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 17:51:55",
       "https://lobste.rs/s/xvdvko/cve_2026_48710_maintainer_s_perspective"
     ],
@@ -247,6 +237,16 @@
     [
       "SQLite Does Not Accept Agentic Code",
       "https://simonwillison.net/2026/May/27/sqlite-agents/"
+    ]
+  ],
+  [
+    [
+      "2026-05-28, 18:17:31",
+      "https://lobste.rs/s/brusu8/protestware_for_coding_agents"
+    ],
+    [
+      "Protestware for coding agents",
+      "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
     ]
   ]
 ]
