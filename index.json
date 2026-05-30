@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-30, 18:15:21",
+      "https://lobste.rs/s/auvxjf/navigating_mte_landscape_ios_memory"
+    ],
+    [
+      "Navigating the MTE Landscape: iOS Memory Protection Deep Dive",
+      "https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 17:29:47",
       "https://lobste.rs/s/fcoley/voxel_space"
     ],
@@ -237,16 +247,6 @@
     [
       "SQLite Does Not Accept Agentic Code",
       "https://simonwillison.net/2026/May/27/sqlite-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 18:17:31",
-      "https://lobste.rs/s/brusu8/protestware_for_coding_agents"
-    ],
-    [
-      "Protestware for coding agents",
-      "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
     ]
   ]
 ]
