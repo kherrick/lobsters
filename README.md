@@ -12,7 +12,6 @@
 * [2026-05-30, 06:00:19](https://lobste.rs/s/sgbvmj/openrct2_v0_5_1_swamp_castle_released_last) - [OpenRCT2 v0.5.1 “Swamp Castle\" released! Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
 * [2026-05-30, 01:09:37](https://lobste.rs/s/xsurh7/what_is_dickover) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
 * [2026-05-29, 20:54:43](https://lobste.rs/s/vyi4gp/ev_stupidity_checklist) - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
-* [2026-05-29, 18:52:09](https://lobste.rs/s/lwnweu/it_happened_casey_muratori_s_comment_on) - [\"But it happened.\" - Casey Muratori's comment on Eric Schmidt's commencement speech](https://youtu.be/tlQ7EoJDTQY)
 * [2026-05-29, 17:51:55](https://lobste.rs/s/xvdvko/cve_2026_48710_maintainer_s_perspective) - [CVE-2026-48710: A Maintainer's Perspective](https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/)
 * [2026-05-29, 16:59:42](https://lobste.rs/s/2cjb1z/why_i_am_against_genai_everything_it) - [Why I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
 * [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
@@ -25,6 +24,7 @@
 * [2026-05-29, 05:58:06](https://lobste.rs/s/1fkt8w/patching_my_guitar_amp_s_firmware) - [Patching my guitar amp's firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html)
 * [2026-05-29, 05:44:56](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis) - [How do you version public web APIs?](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis)
 * [2026-05-29, 03:25:25](https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code) - [SQLite Does Not Accept Agentic Code](https://simonwillison.net/2026/May/27/sqlite-agents/)
+* [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 
 ## [Archives](archives/index.md)
 
