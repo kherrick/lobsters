@@ -1,12 +1,32 @@
 [
   [
     [
+      "2026-05-30, 07:22:51",
+      "https://lobste.rs/s/e1kdrn/on_rendering_diffs"
+    ],
+    [
+      "On Rendering Diffs",
+      "https://pierre.computer/writing/on-rendering-diffs"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 07:17:22",
       "https://lobste.rs/s/mlm7ne/critical_state_cyberspacs"
     ],
     [
       "The Critical State of Cyberspacs",
       "https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 06:00:19",
+      "https://lobste.rs/s/sgbvmj/openrct2_v0_5_1_swamp_castle_released_last"
+    ],
+    [
+      "OpenRCT2 v0.5.1 “Swamp Castle\" released! Last version to support Windows 7",
+      "https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-05-29, 00:07:10",
-      "https://lobste.rs/s/d9n2yd/tail_ci_logs_over_ssh"
-    ],
-    [
-      "tail CI logs over SSH",
-      "https://blog.tangled.org/ssh/"
-    ]
-  ],
-  [
-    [
       "2026-05-28, 21:01:28",
       "https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting"
     ],
@@ -237,16 +247,6 @@
     [
       "Protestware for coding agents",
       "https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 17:30:47",
-      "https://lobste.rs/s/4msjpt/garnix_is_shutting_down"
-    ],
-    [
-      "Garnix is shutting down",
-      "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895"
     ]
   ]
 ]
