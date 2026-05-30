@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-30, 17:29:47",
+      "https://lobste.rs/s/fcoley/voxel_space"
+    ],
+    [
+      "Voxel Space",
+      "https://s-macke.github.io/VoxelSpace/"
+    ]
+  ],
+  [
+    [
+      "2026-05-30, 17:05:39",
+      "https://lobste.rs/s/wht0iv/canonical_takes_over_flutter_desktop"
+    ],
+    [
+      "Canonical takes over Flutter desktop maintenance & roadmap",
+      "https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 14:47:40",
       "https://lobste.rs/s/pudkct/nixos_26_05_released"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2026-05-29, 14:09:19",
-      "https://lobste.rs/s/qxzf2k/racket_v9_2"
-    ],
-    [
-      "Racket v9.2",
-      "https://blog.racket-lang.org/2026/05/racket-v9-2.html"
-    ]
-  ],
-  [
-    [
       "2026-05-29, 12:56:23",
       "https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions"
     ],
@@ -227,16 +237,6 @@
     [
       "SQLite Does Not Accept Agentic Code",
       "https://simonwillison.net/2026/May/27/sqlite-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 19:28:08",
-      "https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0"
-    ],
-    [
-      "Announcing Rust 1.96.0",
-      "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/"
     ]
   ],
   [
