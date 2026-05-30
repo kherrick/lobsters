@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 11:56:30](https://lobste.rs/s/pxuzbr/marknote_1_6_0) - [Marknote 1.6.0](https://carlschwan.eu/2026/05/30/marknote-1.6.0/)
 * [2026-05-30, 07:22:51](https://lobste.rs/s/e1kdrn/on_rendering_diffs) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
 * [2026-05-30, 07:17:22](https://lobste.rs/s/mlm7ne/critical_state_cyberspacs) - [The Critical State of Cyberspacs](https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false)
 * [2026-05-30, 07:17:22](https://lobste.rs/s/mlm7ne/critical_state_cyberspace) - [The Critical State of Cyberspace](https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false)

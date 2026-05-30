@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-30, 11:56:30](https://lobste.rs/s/pxuzbr/marknote_1_6_0) - [Marknote 1.6.0](https://carlschwan.eu/2026/05/30/marknote-1.6.0/)
 * [2026-05-30, 07:22:51](https://lobste.rs/s/e1kdrn/on_rendering_diffs) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
 * [2026-05-30, 07:17:22](https://lobste.rs/s/mlm7ne/critical_state_cyberspace) - [The Critical State of Cyberspace](https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false)
 * [2026-05-30, 06:00:19](https://lobste.rs/s/sgbvmj/openrct2_v0_5_1_swamp_castle_released_last) - [OpenRCT2 v0.5.1 “Swamp Castle\" released! Last version to support Windows 7](https://openrct2.io/blog/2026/05/openrct2-v0.5.1-released)
@@ -22,7 +23,6 @@
 * [2026-05-29, 05:58:06](https://lobste.rs/s/1fkt8w/patching_my_guitar_amp_s_firmware) - [Patching my guitar amp's firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html)
 * [2026-05-29, 05:44:56](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis) - [How do you version public web APIs?](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis)
 * [2026-05-29, 03:25:25](https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code) - [SQLite Does Not Accept Agentic Code](https://simonwillison.net/2026/May/27/sqlite-agents/)
-* [2026-05-28, 21:01:28](https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting) - [One year of Roto, the compiled scripting language for Rust](https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/)
 * [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 
