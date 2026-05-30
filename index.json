@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-05-30, 11:56:30",
+      "https://lobste.rs/s/pxuzbr/marknote_1_6_0"
+    ],
+    [
+      "Marknote 1.6.0",
+      "https://carlschwan.eu/2026/05/30/marknote-1.6.0/"
+    ]
+  ],
+  [
+    [
       "2026-05-30, 07:22:51",
       "https://lobste.rs/s/e1kdrn/on_rendering_diffs"
     ],
@@ -217,16 +227,6 @@
     [
       "SQLite Does Not Accept Agentic Code",
       "https://simonwillison.net/2026/May/27/sqlite-agents/"
-    ]
-  ],
-  [
-    [
-      "2026-05-28, 21:01:28",
-      "https://lobste.rs/s/pd8aug/one_year_roto_compiled_scripting"
-    ],
-    [
-      "One year of Roto, the compiled scripting language for Rust",
-      "https://blog.nlnetlabs.nl/one-year-of-roto-the-compiled-scripting-language-for-rust/"
     ]
   ],
   [
