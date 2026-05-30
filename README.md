@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-30, 23:32:14](https://lobste.rs/s/b1yg8b/microcode_inside_intel_8087_floating) - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
+* [2026-05-30, 23:01:52](https://lobste.rs/s/8ukphx/data_types_la_carte_2008) - [Data types à la carte (2008)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409)
+* [2026-05-30, 22:41:02](https://lobste.rs/s/zq8r0f/custom_errors_are_non_negotiable_my_rust) - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
 * [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
 * [2026-05-30, 21:49:58](https://lobste.rs/s/jedgbs/parallel_reconstruction_lawful_tls) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 * [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
@@ -11,7 +14,6 @@
 * [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
 * [2026-05-30, 14:05:57](https://lobste.rs/s/awqcgc/nix_on_sailfish_x_sailfish_os_for_sony) - [Nix on Sailfish X (Sailfish OS for Sony Xperia)](https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/)
 * [2026-05-30, 13:41:46](https://lobste.rs/s/grqzwv/coalgebras_automata) - [Coalgebras and Automata](https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html)
-* [2026-05-30, 11:56:30](https://lobste.rs/s/pxuzbr/marknote_1_6_0) - [Marknote 1.6.0](https://carlschwan.eu/2026/05/30/marknote-1.6.0/)
 * [2026-05-30, 07:22:51](https://lobste.rs/s/e1kdrn/on_rendering_diffs) - [On Rendering Diffs](https://pierre.computer/writing/on-rendering-diffs)
 * [2026-05-30, 07:17:22](https://lobste.rs/s/mlm7ne/critical_state_cyberspace) - [The Critical State of Cyberspace](https://www.jstor.org/content/pdf/oa_chapter_edited/jj.40494811.19?acceptTC=true&coverpage=false&addFooter=false)
 * [2026-05-30, 01:09:37](https://lobste.rs/s/xsurh7/what_is_dickover) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
@@ -19,12 +21,10 @@
 * [2026-05-29, 17:51:55](https://lobste.rs/s/xvdvko/cve_2026_48710_maintainer_s_perspective) - [CVE-2026-48710: A Maintainer's Perspective](https://marcelotryle.com/blog/2026/05/28/cve-2026-48710-a-maintainers-perspective/)
 * [2026-05-29, 16:59:42](https://lobste.rs/s/2cjb1z/why_i_am_against_genai_everything_it) - [Why I am against GenAI and everything it stands for](https://lpcvoid.com/blog/0018_why_i_am_against_genai/index.html)
 * [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
-* [2026-05-29, 15:29:40](https://lobste.rs/s/vdojf3/nnn_stack_nixos_niri_noctalia) - [NNN Stack: NixOS, Niri, Noctalia](https://the-nnn-stack.github.io)
 * [2026-05-29, 15:02:24](https://lobste.rs/s/40broz/bijou64_variable_length_integer) - [bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 * [2026-05-29, 14:47:14](https://lobste.rs/s/yszuka/emacs_bra_size_calculator) - [Emacs bra size calculator](https://pulusound.fi/blog/emacs-bra-size-calculator)
 * [2026-05-29, 12:56:23](https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions) - [Flathub disallows LLM-based submissions](https://social.treehouse.systems/@barthalion/116657011366876079)
 * [2026-05-29, 09:08:12](https://lobste.rs/s/jp3nva/you_probably_don_t_need_yocto_s_fine) - [You probably don't need Yocto, and that's fine](https://sigma-star.at/blog/2026/05/you-probably-dont-need-yocto-and-thats-fine/)
-* [2026-05-29, 03:25:25](https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code) - [SQLite Does Not Accept Agentic Code](https://simonwillison.net/2026/May/27/sqlite-agents/)
 
 ## [Archives](archives/index.md)
 
