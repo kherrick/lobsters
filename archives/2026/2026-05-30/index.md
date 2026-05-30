@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
+* [2026-05-30, 20:51:18](https://lobste.rs/s/r1zexi/detect_profile_fonts_on_any_website) - [Detect and profile fonts on any website, revealing their properties and metadata](https://typicalhq.vercel.app/)
 * [2026-05-30, 20:24:36](https://lobste.rs/s/oktynl/am_i_bad_friend) - [Am I a Bad Friend?](https://drobinin.com/posts/am-i-a-bad-friend/)
 * [2026-05-30, 20:00:19](https://lobste.rs/s/jc0jsn/claw_patrol_open_source_security) - [Claw Patrol: an open-source security firewall for agents](https://deno.com/blog/clawpatrol)
 * [2026-05-30, 18:15:21](https://lobste.rs/s/auvxjf/navigating_mte_landscape_ios_memory) - [Navigating the MTE Landscape: iOS Memory Protection Deep Dive](https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf)
