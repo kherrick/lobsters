@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-30, 17:29:47](https://lobste.rs/s/fcoley/voxel_space) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
+* [2026-05-30, 17:05:39](https://lobste.rs/s/wht0iv/canonical_takes_over_flutter_desktop) - [Canonical takes over Flutter desktop maintenance & roadmap](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 * [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
 * [2026-05-30, 14:05:57](https://lobste.rs/s/awqcgc/nix_on_sailfish_x_sailfish_os_for_sony) - [Nix on Sailfish X (Sailfish OS for Sony Xperia)](https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/)
 * [2026-05-30, 13:41:46](https://lobste.rs/s/grqzwv/coalgebras_automata) - [Coalgebras and Automata](https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html)
@@ -16,14 +18,12 @@
 * [2026-05-29, 15:29:40](https://lobste.rs/s/vdojf3/nnn_stack_nixos_niri_noctalia) - [NNN Stack: NixOS, Niri, Noctalia](https://the-nnn-stack.github.io)
 * [2026-05-29, 15:02:24](https://lobste.rs/s/40broz/bijou64_variable_length_integer) - [bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 * [2026-05-29, 14:47:14](https://lobste.rs/s/yszuka/emacs_bra_size_calculator) - [Emacs bra size calculator](https://pulusound.fi/blog/emacs-bra-size-calculator)
-* [2026-05-29, 14:09:19](https://lobste.rs/s/qxzf2k/racket_v9_2) - [Racket v9.2](https://blog.racket-lang.org/2026/05/racket-v9-2.html)
 * [2026-05-29, 12:56:23](https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions) - [Flathub disallows LLM-based submissions](https://social.treehouse.systems/@barthalion/116657011366876079)
 * [2026-05-29, 09:18:06](https://lobste.rs/s/7lrk2t/leaving_performance_on_table) - [Leaving performance on the table](https://fzakaria.com/2026/05/23/leaving-performance-on-the-table)
 * [2026-05-29, 09:08:12](https://lobste.rs/s/jp3nva/you_probably_don_t_need_yocto_s_fine) - [You probably don't need Yocto, and that's fine](https://sigma-star.at/blog/2026/05/you-probably-dont-need-yocto-and-thats-fine/)
 * [2026-05-29, 05:58:06](https://lobste.rs/s/1fkt8w/patching_my_guitar_amp_s_firmware) - [Patching my guitar amp's firmware](https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html)
 * [2026-05-29, 05:44:56](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis) - [How do you version public web APIs?](https://lobste.rs/s/g9u6b7/how_do_you_version_public_web_apis)
 * [2026-05-29, 03:25:25](https://lobste.rs/s/lc26ar/sqlite_does_not_accept_agentic_code) - [SQLite Does Not Accept Agentic Code](https://simonwillison.net/2026/May/27/sqlite-agents/)
-* [2026-05-28, 19:28:08](https://lobste.rs/s/4jgpkn/announcing_rust_1_96_0) - [Announcing Rust 1.96.0](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [2026-05-28, 18:17:31](https://lobste.rs/s/brusu8/protestware_for_coding_agents) - [Protestware for coding agents](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
 
 ## [Archives](archives/index.md)
