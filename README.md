@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-31, 20:15:09](https://lobste.rs/s/ng3xwc/adding_offline_mode_custom_servers) - [Adding Offline Mode and Custom Servers to an MMORPG](https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/)
 * [2026-05-31, 18:41:26](https://lobste.rs/s/tsgoap/vibecoding_as_adhd_multiplier) - [vibecoding as adhd multiplier](https://thoughts.hmmz.org/2026-05-31.html)
 * [2026-05-31, 17:18:37](https://lobste.rs/s/2balua/unlawful_by_design_exposing_human_rights) - [Unlawful by design: Exposing the human rights costs of generative AI](https://www.amnesty.org/en/documents/pol40/0996/2026/en/)
 * [2026-05-31, 16:30:09](https://lobste.rs/s/u3a9d0/blorp_language) - [Blorp Language](https://blorp-lang.org/)
@@ -24,7 +25,6 @@
 * [2026-05-30, 23:55:50](https://lobste.rs/s/253fit/elf_linker_improvements_zig) - [ELF Linker Improvements in Zig](https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30)
 * [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
 * [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
-* [2026-05-30, 01:09:37](https://lobste.rs/s/xsurh7/what_is_dickover) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
 
 ## [Archives](archives/index.md)
 
