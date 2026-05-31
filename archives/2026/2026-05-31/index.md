@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 17:18:37](https://lobste.rs/s/2balua/unlawful_by_design_exposing_human_rights) - [Unlawful by design: Exposing the human rights costs of generative AI](https://www.amnesty.org/en/documents/pol40/0996/2026/en/)
 * [2026-05-31, 16:30:09](https://lobste.rs/s/u3a9d0/blorp_language) - [Blorp Language](https://blorp-lang.org/)
 * [2026-05-31, 15:18:10](https://lobste.rs/s/8eaumi/front_end_s_missing_metric_tbt_window) - [Front-End’s Missing Metric: The TBT Window](https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/)
 * [2026-05-31, 14:45:12](https://lobste.rs/s/72alqa/sops_age_sealed_secrets) - [SOPS + Age and Sealed Secrets](https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/)
