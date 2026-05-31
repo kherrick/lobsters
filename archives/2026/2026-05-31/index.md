@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 14:03:20](https://lobste.rs/s/2jd5yg/croft_tui_vscode_clone) - [Croft - TUI VSCode Clone](https://codeberg.org/vitali87/croft)
+* [2026-05-31, 13:20:42](https://lobste.rs/s/ls3ris/cloudflare_turnstile_requiring) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+* [2026-05-31, 12:57:16](https://lobste.rs/s/qn9jdp/i_found_seashell_middle_desert) - [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert)
+* [2026-05-31, 12:28:57](https://lobste.rs/s/ycplhh/you_must_fix_your_asserts) - [You Must Fix Your Asserts](https://kristoff.it/blog/fix-your-asserts/)
 * [2026-05-31, 11:12:12](https://lobste.rs/s/flliys/pragmatic_set_modern_colour_space) - [A pragmatic set of modern colour space transforms for the Odin language](https://github.com/heavyrain266/colourspace)
 * [2026-05-31, 09:43:06](https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200) - [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/)
 * [2026-05-31, 09:40:35](https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating) - [securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations](https://github.com/cloud-gouv/securix)
