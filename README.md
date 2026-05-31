@@ -1,10 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-31, 16:30:09](https://lobste.rs/s/u3a9d0/blorp_language) - [Blorp Language](https://blorp-lang.org/)
 * [2026-05-31, 15:18:10](https://lobste.rs/s/8eaumi/front_end_s_missing_metric_tbt_window) - [Front-End’s Missing Metric: The TBT Window](https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/)
+* [2026-05-31, 14:45:12](https://lobste.rs/s/72alqa/sops_age_sealed_secrets) - [SOPS + Age and Sealed Secrets](https://www.jonashietala.se/blog/2026/05/31/sops_age_and_sealed_secrets/)
 * [2026-05-31, 14:03:20](https://lobste.rs/s/2jd5yg/croft_tui_vscode_clone) - [Croft - TUI VSCode Clone](https://codeberg.org/vitali87/croft)
 * [2026-05-31, 13:20:42](https://lobste.rs/s/ls3ris/cloudflare_turnstile_requiring) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
 * [2026-05-31, 12:57:16](https://lobste.rs/s/qn9jdp/i_found_seashell_middle_desert) - [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert)
 * [2026-05-31, 12:28:57](https://lobste.rs/s/ycplhh/you_must_fix_your_asserts) - [You Must Fix Your Asserts](https://kristoff.it/blog/fix-your-asserts/)
+* [2026-05-31, 12:23:54](https://lobste.rs/s/ikwaz2/cost_ai) - [The Cost of AI](https://alextardif.com/AI.html)
 * [2026-05-31, 11:12:12](https://lobste.rs/s/flliys/pragmatic_set_modern_colour_space) - [A pragmatic set of modern colour space transforms for the Odin language](https://github.com/heavyrain266/colourspace)
 * [2026-05-31, 09:43:06](https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200) - [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/)
 * [2026-05-31, 09:40:35](https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating) - [securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations](https://github.com/cloud-gouv/securix)
@@ -19,12 +22,9 @@
 * [2026-05-30, 23:55:50](https://lobste.rs/s/253fit/elf_linker_improvements_zig) - [ELF Linker Improvements in Zig](https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30)
 * [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
 * [2026-05-30, 20:24:36](https://lobste.rs/s/oktynl/am_i_bad_friend) - [Am I a Bad Friend?](https://drobinin.com/posts/am-i-a-bad-friend/)
-* [2026-05-30, 17:29:47](https://lobste.rs/s/fcoley/voxel_space) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 17:05:39](https://lobste.rs/s/wht0iv/canonical_takes_over_flutter_desktop) - [Canonical takes over Flutter desktop maintenance & roadmap](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
 * [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
-* [2026-05-30, 14:05:57](https://lobste.rs/s/awqcgc/nix_on_sailfish_x_sailfish_os_for_sony) - [Nix on Sailfish X (Sailfish OS for Sony Xperia)](https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/)
 * [2026-05-30, 01:09:37](https://lobste.rs/s/xsurh7/what_is_dickover) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
-* [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
 
 ## [Archives](archives/index.md)
 
