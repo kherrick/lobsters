@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 15:18:10](https://lobste.rs/s/8eaumi/front_end_s_missing_metric_tbt_window) - [Front-End’s Missing Metric: The TBT Window](https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/)
 * [2026-05-31, 14:03:20](https://lobste.rs/s/2jd5yg/croft_tui_vscode_clone) - [Croft - TUI VSCode Clone](https://codeberg.org/vitali87/croft)
 * [2026-05-31, 13:20:42](https://lobste.rs/s/ls3ris/cloudflare_turnstile_requiring) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
 * [2026-05-31, 12:57:16](https://lobste.rs/s/qn9jdp/i_found_seashell_middle_desert) - [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert)

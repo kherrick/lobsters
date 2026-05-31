@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-31, 15:18:10](https://lobste.rs/s/8eaumi/front_end_s_missing_metric_tbt_window) - [Front-End’s Missing Metric: The TBT Window](https://csswizardry.com/2026/06/front-ends-missing-metric-the-tbt-window/)
 * [2026-05-31, 14:03:20](https://lobste.rs/s/2jd5yg/croft_tui_vscode_clone) - [Croft - TUI VSCode Clone](https://codeberg.org/vitali87/croft)
 * [2026-05-31, 13:20:42](https://lobste.rs/s/ls3ris/cloudflare_turnstile_requiring) - [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
 * [2026-05-31, 12:57:16](https://lobste.rs/s/qn9jdp/i_found_seashell_middle_desert) - [I found a seashell in the middle of the desert](https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert#i-found-a-seashell-in-the-middle-of-the-desert)
@@ -23,7 +24,6 @@
 * [2026-05-30, 14:47:40](https://lobste.rs/s/pudkct/nixos_26_05_released) - [NixOS 26.05 released](https://nixos.org/blog/announcements/2026/nixos-2605/)
 * [2026-05-30, 14:05:57](https://lobste.rs/s/awqcgc/nix_on_sailfish_x_sailfish_os_for_sony) - [Nix on Sailfish X (Sailfish OS for Sony Xperia)](https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/)
 * [2026-05-30, 01:09:37](https://lobste.rs/s/xsurh7/what_is_dickover) - [What Is a Dickover?](https://daringfireball.net/2026/05/what_is_a_dickover)
-* [2026-05-29, 20:54:43](https://lobste.rs/s/vyi4gp/ev_stupidity_checklist) - [EV Stupidity Checklist](http://hypercritical.co/2026/05/29/ev-stupidity-checklist)
 * [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
 
 ## [Archives](archives/index.md)
