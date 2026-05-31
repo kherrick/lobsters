@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-31, 11:12:12](https://lobste.rs/s/flliys/pragmatic_set_modern_colour_space) - [A pragmatic set of modern colour space transforms for the Odin language](https://github.com/heavyrain266/colourspace)
 * [2026-05-31, 09:43:06](https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200) - [I Put a Datacenter GPU in My Gaming PC for £200](https://blog.tymscar.com/posts/v100localllm/)
 * [2026-05-31, 09:40:35](https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating) - [securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations](https://github.com/cloud-gouv/securix)
 * [2026-05-31, 09:13:13](https://lobste.rs/s/1xzofw/s_interoperability) - [The S in interoperability](https://frederikbraun.de/the-s-in-interoperability.html)
@@ -13,7 +14,6 @@
 * [2026-05-31, 00:38:11](https://lobste.rs/s/eitko7/simple_sprite_editor_j) - [Simple Sprite Editor in J](https://www.youtube.com/watch?v=CzK2SazvCxM)
 * [2026-05-30, 23:55:50](https://lobste.rs/s/253fit/elf_linker_improvements_zig) - [ELF Linker Improvements in Zig](https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30)
 * [2026-05-30, 23:32:14](https://lobste.rs/s/b1yg8b/microcode_inside_intel_8087_floating) - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
-* [2026-05-30, 23:01:52](https://lobste.rs/s/8ukphx/data_types_la_carte_2008) - [Data types à la carte (2008)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409)
 * [2026-05-30, 21:55:47](https://lobste.rs/s/wa3gxl/new_design_for_pretty_printer) - [A New Design for Pretty Printer Implementations in Rust](https://blog.wybxc.cc/blog/pretty-printer-pye/)
 * [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
 * [2026-05-30, 20:24:36](https://lobste.rs/s/oktynl/am_i_bad_friend) - [Am I a Bad Friend?](https://drobinin.com/posts/am-i-a-bad-friend/)
