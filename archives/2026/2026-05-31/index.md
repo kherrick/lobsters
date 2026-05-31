@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-31](index.md)
 
+* [2026-05-31, 22:47:43](https://lobste.rs/s/mqate3/homomorphic_static_analysis) - [Homomorphic static analysis](http://marcosh.github.io/post/2026/05/21/homomorphic-static-analysis.html)
 * [2026-05-31, 20:15:09](https://lobste.rs/s/ng3xwc/adding_offline_mode_custom_servers) - [Adding Offline Mode and Custom Servers to an MMORPG](https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/)
 * [2026-05-31, 18:41:26](https://lobste.rs/s/tsgoap/vibecoding_as_adhd_multiplier) - [vibecoding as adhd multiplier](https://thoughts.hmmz.org/2026-05-31.html)
 * [2026-05-31, 17:18:37](https://lobste.rs/s/2balua/unlawful_by_design_exposing_human_rights) - [Unlawful by design: Exposing the human rights costs of generative AI](https://www.amnesty.org/en/documents/pol40/0996/2026/en/)
