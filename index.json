@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-05-31, 09:43:06",
+      "https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200"
+    ],
+    [
+      "I Put a Datacenter GPU in My Gaming PC for £200",
+      "https://blog.tymscar.com/posts/v100localllm/"
+    ]
+  ],
+  [
+    [
+      "2026-05-31, 09:40:35",
+      "https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating"
+    ],
+    [
+      "securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations",
+      "https://github.com/cloud-gouv/securix"
+    ]
+  ],
+  [
+    [
       "2026-05-31, 09:13:13",
       "https://lobste.rs/s/1xzofw/s_interoperability"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-05-30, 21:49:58",
-      "https://lobste.rs/s/jedgbs/parallel_reconstruction_lawful_tls"
-    ],
-    [
-      "Parallel Reconstruction of Lawful TLS Wiretapping",
-      "https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/"
-    ]
-  ],
-  [
-    [
       "2026-05-30, 21:04:14",
       "https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum"
     ],
@@ -197,16 +207,6 @@
     [
       "Nix on Sailfish X (Sailfish OS for Sony Xperia)",
       "https://toast.al/posts/techlore/2026-05-30_nix-on-sailfish-os/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 13:41:46",
-      "https://lobste.rs/s/grqzwv/coalgebras_automata"
-    ],
-    [
-      "Coalgebras and Automata",
-      "https://web.archive.org/web/20071014215938/http://homepage.mac.com/sigfpe/Computing/fold.html"
     ]
   ],
   [
