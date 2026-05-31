@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-05-31, 00:38:11](https://lobste.rs/s/eitko7/simple_sprite_editor_j) - [Simple Sprite Editor in J](https://www.youtube.com/watch?v=CzK2SazvCxM)
+* [2026-05-30, 23:55:50](https://lobste.rs/s/253fit/elf_linker_improvements_zig) - [ELF Linker Improvements in Zig](https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30)
 * [2026-05-30, 23:32:14](https://lobste.rs/s/b1yg8b/microcode_inside_intel_8087_floating) - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 * [2026-05-30, 23:01:52](https://lobste.rs/s/8ukphx/data_types_la_carte_2008) - [Data types à la carte (2008)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409)
 * [2026-05-30, 22:41:02](https://lobste.rs/s/zq8r0f/custom_errors_are_non_negotiable_my_rust) - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
@@ -7,7 +9,6 @@
 * [2026-05-30, 21:49:58](https://lobste.rs/s/jedgbs/parallel_reconstruction_lawful_tls) - [Parallel Reconstruction of Lawful TLS Wiretapping](https://remyhax.xyz/posts/reproducing-lawful-tls-wiretapping/)
 * [2026-05-30, 21:04:14](https://lobste.rs/s/nwf2cq/real_origin_lorem_ipsum) - [The real origin of Lorem Ipsum](https://www.youtube.com/watch?v=kL1PDqzqhM4)
 * [2026-05-30, 20:24:36](https://lobste.rs/s/oktynl/am_i_bad_friend) - [Am I a Bad Friend?](https://drobinin.com/posts/am-i-a-bad-friend/)
-* [2026-05-30, 20:00:19](https://lobste.rs/s/jc0jsn/claw_patrol_open_source_security) - [Claw Patrol: an open-source security firewall for agents](https://deno.com/blog/clawpatrol)
 * [2026-05-30, 18:15:21](https://lobste.rs/s/auvxjf/navigating_mte_landscape_ios_memory) - [Navigating the MTE Landscape: iOS Memory Protection Deep Dive](https://fuzzinglabs.com/wp-content/uploads/2026/05/Navigating_iOS_MTE_Landscape.pdf)
 * [2026-05-30, 17:29:47](https://lobste.rs/s/fcoley/voxel_space) - [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 * [2026-05-30, 17:05:39](https://lobste.rs/s/wht0iv/canonical_takes_over_flutter_desktop) - [Canonical takes over Flutter desktop maintenance & roadmap](https://www.omgubuntu.co.uk/2026/05/flutter-desktop-canonical-maintained)
@@ -23,7 +24,6 @@
 * [2026-05-29, 16:31:14](https://lobste.rs/s/axg3ga/i_am_retiring_from_tech_live_offline) - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/)
 * [2026-05-29, 15:02:24](https://lobste.rs/s/40broz/bijou64_variable_length_integer) - [bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 * [2026-05-29, 14:47:14](https://lobste.rs/s/yszuka/emacs_bra_size_calculator) - [Emacs bra size calculator](https://pulusound.fi/blog/emacs-bra-size-calculator)
-* [2026-05-29, 12:56:23](https://lobste.rs/s/l4qeud/flathub_disallows_llm_based_submissions) - [Flathub disallows LLM-based submissions](https://social.treehouse.systems/@barthalion/116657011366876079)
 * [2026-05-29, 09:08:12](https://lobste.rs/s/jp3nva/you_probably_don_t_need_yocto_s_fine) - [You probably don't need Yocto, and that's fine](https://sigma-star.at/blog/2026/05/you-probably-dont-need-yocto-and-thats-fine/)
 
 ## [Archives](archives/index.md)

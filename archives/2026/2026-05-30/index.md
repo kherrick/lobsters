@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-05-30](index.md)
 
+* [2026-05-30, 23:55:50](https://lobste.rs/s/253fit/elf_linker_improvements_zig) - [ELF Linker Improvements in Zig](https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30)
 * [2026-05-30, 23:32:14](https://lobste.rs/s/b1yg8b/microcode_inside_intel_8087_floating) - [Microcode inside the Intel 8087 floating-point chip: register exchange](http://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html)
 * [2026-05-30, 23:01:52](https://lobste.rs/s/8ukphx/data_types_la_carte_2008) - [Data types à la carte (2008)](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/data-types-a-la-carte/14416CB20C4637164EA9F77097909409)
 * [2026-05-30, 22:41:02](https://lobste.rs/s/zq8r0f/custom_errors_are_non_negotiable_my_rust) - [Custom Errors Are Non-Negotiable in My Rust Applications](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
