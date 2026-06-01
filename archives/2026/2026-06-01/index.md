@@ -4,6 +4,16 @@
 
 ### [Archives](../../index.md) for [2026-06-01](index.md)
 
+* [2026-06-01, 16:14:40](https://lobste.rs/s/geifl2/programmatic_tool_calling_for_any_mcp) - [Programmatic Tool Calling for any MCP](https://r33drichards.github.io/mcp-js/concepts/mcp-pass-through/)
+* [2026-06-01, 15:36:49](https://lobste.rs/s/vkoa7r/github_crime_against_software) - [github and the crime against software](https://eblog.fly.dev/githubbad.html)
+* [2026-06-01, 13:37:12](https://lobste.rs/s/lmfm5b/go_experiments_explained) - [Go Experiments Explained](https://www.alexedwards.net/blog/go-experiments-explained)
+* [2026-06-01, 13:30:13](https://lobste.rs/s/uuvuhv/should_you_normalize_rgb_values_by_255_256) - [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
+* [2026-06-01, 13:11:00](https://lobste.rs/s/jhbndn/announcing_zstandard_rust) - [Announcing Zstandard in Rust](https://trifectatech.org/blog/announcing-zstandard-in-rust/)
+* [2026-06-01, 12:46:27](https://lobste.rs/s/usw42s/syncing_lights_with_music_estimating) - [Syncing lights with music: estimating precise seek time from truncated timestamps](https://aaronjanse.substack.com/p/syncing-lights-with-music-marzullos)
+* [2026-06-01, 12:09:34](https://lobste.rs/s/8043lu/h2jvm_haskell_library_for_writing_jvm) - [H2JVM - A Haskell Library for writing JVM Bytecode](https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182)
+* [2026-06-01, 11:57:04](https://lobste.rs/s/aahxxs/qbe_compiler_backend_version_1_3) - [QBE - Compiler Backend: Version 1.3](https://c9x.me/compile/release/qbe-1.3.html)
+* [2026-06-01, 11:21:28](https://lobste.rs/s/fv8ptx/tracing_http_requests_with_go_s_net_http) - [Tracing HTTP Requests with Go's net/http/httptrace](https://blainsmith.com/articles/httptrace-with-go/)
+* [2026-06-01, 11:05:31](https://lobste.rs/s/2wenns/arch_linux_breaking_changes_for_all_users) - [Arch Linux: Breaking changes for all users of `varnish`, which is renamed to `vinyl-cache`](https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/)
 * [2026-06-01, 10:08:35](https://lobste.rs/s/im9muq/reasons_resources_for_learning_gleam) - [Reasons and Resources for Learning The Gleam Programming Language](https://www.youtube.com/watch?v=RCNtPZBu-ho)
 * [2026-06-01, 09:57:04](https://lobste.rs/s/degtqh/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/degtqh/what_are_you_doing_this_week)
 * [2026-06-01, 08:37:35](https://lobste.rs/s/ngfuvo/sysadmining_like_it_s_2009) - [Sysadmining like it's 2009](https://lambdacreate.com/posts/sysadmining-like-its-2009)
