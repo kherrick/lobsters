@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-01](index.md)
 
+* [2026-06-01, 21:13:28](https://lobste.rs/s/yohvez/art_engineering_silpheed) - [The art and engineering of Silpheed](https://fabiensanglard.net/silpheed/)
+* [2026-06-01, 19:45:35](https://lobste.rs/s/sg1z79/battletris_two_player_networked_tetris) - [BattleTris: Two-player networked tetris with a twist](https://github.com/bcantrill/BattleTris)
 * [2026-06-01, 18:25:24](https://lobste.rs/s/exezj2/iscsi_chap_heap_buffer_overflow_linux) - [iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel](https://ahossu.ro/blog/iscsi-chap-base64-overflow)
 * [2026-06-01, 17:47:32](https://lobste.rs/s/97uskt/hating_ai_is_good_actually) - [Hating AI is good, actually](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 * [2026-06-01, 17:46:54](https://lobste.rs/s/mdi231/nbd_vram_use_your_nvidia_gpu_s_vram_as_swap) - [nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+* [2026-06-01, 17:38:50](https://lobste.rs/s/pmkmil/newest_instagram_exploit_is_goofiest_i_ve) - [The Newest Instagram \"Exploit\" is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+* [2026-06-01, 17:29:39](https://lobste.rs/s/da3ffr/postmodern_build_system) - [The postmodern build system](https://jade.fyi/blog/the-postmodern-build-system/)
 * [2026-06-01, 17:28:15](https://lobste.rs/s/9vt4ng/you_don_t_love_systemd_timers_enough) - [You Don't Love systemd Timers Enough](https://blog.tjll.net/you-dont-love-systemd-timers-enough/)
 * [2026-06-01, 16:57:53](https://lobste.rs/s/vcrjmk/arm_desktop_so_many_cores_not_enough_speed) - [Arm desktop: so many cores, not enough speed](https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/)
 * [2026-06-01, 16:30:23](https://lobste.rs/s/uroflh/exploring_japanese_xd_firstclass) - [Exploring the Japanese XD FirstClass Network BBS](https://cdrom.ca/games/2026/05/30/xd.html)
