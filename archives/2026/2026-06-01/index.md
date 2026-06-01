@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-01](index.md)
 
+* [2026-06-01, 18:25:24](https://lobste.rs/s/exezj2/iscsi_chap_heap_buffer_overflow_linux) - [iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel](https://ahossu.ro/blog/iscsi-chap-base64-overflow)
+* [2026-06-01, 17:47:32](https://lobste.rs/s/97uskt/hating_ai_is_good_actually) - [Hating AI is good, actually](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
+* [2026-06-01, 17:46:54](https://lobste.rs/s/mdi231/nbd_vram_use_your_nvidia_gpu_s_vram_as_swap) - [nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+* [2026-06-01, 17:28:15](https://lobste.rs/s/9vt4ng/you_don_t_love_systemd_timers_enough) - [You Don't Love systemd Timers Enough](https://blog.tjll.net/you-dont-love-systemd-timers-enough/)
+* [2026-06-01, 16:57:53](https://lobste.rs/s/vcrjmk/arm_desktop_so_many_cores_not_enough_speed) - [Arm desktop: so many cores, not enough speed](https://marcin.juszkiewicz.com.pl/2026/06/01/arm-desktop-so-many-cores-not-enough-speed/)
+* [2026-06-01, 16:30:23](https://lobste.rs/s/uroflh/exploring_japanese_xd_firstclass) - [Exploring the Japanese XD FirstClass Network BBS](https://cdrom.ca/games/2026/05/30/xd.html)
 * [2026-06-01, 16:14:40](https://lobste.rs/s/geifl2/programmatic_tool_calling_for_any_mcp) - [Programmatic Tool Calling for any MCP](https://r33drichards.github.io/mcp-js/concepts/mcp-pass-through/)
 * [2026-06-01, 15:36:49](https://lobste.rs/s/vkoa7r/github_crime_against_software) - [github and the crime against software](https://eblog.fly.dev/githubbad.html)
 * [2026-06-01, 13:37:12](https://lobste.rs/s/lmfm5b/go_experiments_explained) - [Go Experiments Explained](https://www.alexedwards.net/blog/go-experiments-explained)
