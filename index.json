@@ -1,12 +1,102 @@
 [
   [
     [
-      "2026-06-01, 10:08:35",
-      "https://lobste.rs/s/im9muq/reasons_resources_for_learning_gleam"
+      "2026-06-01, 16:14:40",
+      "https://lobste.rs/s/geifl2/programmatic_tool_calling_for_any_mcp"
     ],
     [
-      "Reasons and Resources for Learning The Gleam Programming Language",
-      "https://www.youtube.com/watch?v=RCNtPZBu-ho"
+      "Programmatic Tool Calling for any MCP",
+      "https://r33drichards.github.io/mcp-js/concepts/mcp-pass-through/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 15:36:49",
+      "https://lobste.rs/s/vkoa7r/github_crime_against_software"
+    ],
+    [
+      "github and the crime against software",
+      "https://eblog.fly.dev/githubbad.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 13:37:12",
+      "https://lobste.rs/s/lmfm5b/go_experiments_explained"
+    ],
+    [
+      "Go Experiments Explained",
+      "https://www.alexedwards.net/blog/go-experiments-explained"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 13:30:13",
+      "https://lobste.rs/s/uuvuhv/should_you_normalize_rgb_values_by_255_256"
+    ],
+    [
+      "Should you normalize RGB values by 255 or 256?",
+      "https://30fps.net/pages/255-vs-256-division/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 13:11:00",
+      "https://lobste.rs/s/jhbndn/announcing_zstandard_rust"
+    ],
+    [
+      "Announcing Zstandard in Rust",
+      "https://trifectatech.org/blog/announcing-zstandard-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 12:46:27",
+      "https://lobste.rs/s/usw42s/syncing_lights_with_music_estimating"
+    ],
+    [
+      "Syncing lights with music: estimating precise seek time from truncated timestamps",
+      "https://aaronjanse.substack.com/p/syncing-lights-with-music-marzullos"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 12:09:34",
+      "https://lobste.rs/s/8043lu/h2jvm_haskell_library_for_writing_jvm"
+    ],
+    [
+      "H2JVM - A Haskell Library for writing JVM Bytecode",
+      "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 11:57:04",
+      "https://lobste.rs/s/aahxxs/qbe_compiler_backend_version_1_3"
+    ],
+    [
+      "QBE - Compiler Backend: Version 1.3",
+      "https://c9x.me/compile/release/qbe-1.3.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 11:21:28",
+      "https://lobste.rs/s/fv8ptx/tracing_http_requests_with_go_s_net_http"
+    ],
+    [
+      "Tracing HTTP Requests with Go's net/http/httptrace",
+      "https://blainsmith.com/articles/httptrace-with-go/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 11:05:31",
+      "https://lobste.rs/s/2wenns/arch_linux_breaking_changes_for_all_users"
+    ],
+    [
+      "Arch Linux: Breaking changes for all users of `varnish`, which is renamed to `vinyl-cache`",
+      "https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/"
     ]
   ],
   [
@@ -91,26 +181,6 @@
   ],
   [
     [
-      "2026-06-01, 01:19:27",
-      "https://lobste.rs/s/ek75hg/why_does_astc_use_ise_when_almost_nothing"
-    ],
-    [
-      "Why does ASTC use ISE when almost nothing else does?",
-      "https://fgiesen.wordpress.com/2026/05/29/why-does-astc-use-ise-when-almost-nothing-else-does/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 20:15:09",
-      "https://lobste.rs/s/ng3xwc/adding_offline_mode_custom_servers"
-    ],
-    [
-      "Adding Offline Mode and Custom Servers to an MMORPG",
-      "https://plantbasedgames.io/blog/posts/09-adding-offline-mode-and-custom-servers-to-an-mmorpg/"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 18:41:26",
       "https://lobste.rs/s/tsgoap/vibecoding_as_adhd_multiplier"
     ],
@@ -127,16 +197,6 @@
     [
       "Unlawful by design: Exposing the human rights costs of generative AI",
       "https://www.amnesty.org/en/documents/pol40/0996/2026/en/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 14:03:20",
-      "https://lobste.rs/s/2jd5yg/croft_tui_vscode_clone"
-    ],
-    [
-      "Croft - TUI VSCode Clone",
-      "https://codeberg.org/vitali87/croft"
     ]
   ],
   [
@@ -181,72 +241,12 @@
   ],
   [
     [
-      "2026-05-31, 09:40:35",
-      "https://lobste.rs/s/45dqvh/securix_nixos_based_secure_operating"
-    ],
-    [
-      "securix: NixOS-based secure operating system. Provides a hardened environment with strong isolation, reproducibility, and policy-driven configurations",
-      "https://github.com/cloud-gouv/securix"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 09:13:13",
-      "https://lobste.rs/s/1xzofw/s_interoperability"
-    ],
-    [
-      "The S in interoperability",
-      "https://frederikbraun.de/the-s-in-interoperability.html"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 06:43:48",
-      "https://lobste.rs/s/mem2md/simple_project_switcher_for_kakoune"
-    ],
-    [
-      "A simple project switcher for Kakoune",
-      "https://bhoot.org/2026/kakoune-project-switcher/"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 02:04:34",
       "https://lobste.rs/s/giktao/my_accessibility_stack_future_on_wayland"
     ],
     [
       "My Accessibility Stack and the future on Wayland",
       "https://nocoffei.com/?p=451"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 01:49:17",
-      "https://lobste.rs/s/w7sajs/av2_v1_0_0_specification"
-    ],
-    [
-      "AV2 v1.0.0 specification",
-      "https://av2.aomedia.org/"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 23:55:50",
-      "https://lobste.rs/s/253fit/elf_linker_improvements_zig"
-    ],
-    [
-      "ELF Linker Improvements in Zig",
-      "https://ziglang.org/devlog/2026/?2026-05-30#2026-05-30"
-    ]
-  ],
-  [
-    [
-      "2026-05-30, 14:47:40",
-      "https://lobste.rs/s/pudkct/nixos_26_05_released"
-    ],
-    [
-      "NixOS 26.05 released",
-      "https://nixos.org/blog/announcements/2026/nixos-2605/"
     ]
   ]
 ]
