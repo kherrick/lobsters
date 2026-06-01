@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-01, 10:08:35",
+      "https://lobste.rs/s/im9muq/reasons_resources_for_learning_gleam"
+    ],
+    [
+      "Reasons and Resources for Learning The Gleam Programming Language",
+      "https://www.youtube.com/watch?v=RCNtPZBu-ho"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 09:57:04",
+      "https://lobste.rs/s/degtqh/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/degtqh/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 08:37:35",
+      "https://lobste.rs/s/ngfuvo/sysadmining_like_it_s_2009"
+    ],
+    [
+      "Sysadmining like it's 2009",
+      "https://lambdacreate.com/posts/sysadmining-like-its-2009"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 06:12:21",
+      "https://lobste.rs/s/fsltyn/five_years_trying_add_recursion_lychee"
+    ],
+    [
+      "Five Years of Trying to Add Recursion to lychee",
+      "https://endler.dev/2026/lychee-recursion/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 06:11:13",
+      "https://lobste.rs/s/uobd71/zsh_5_9_1_released"
+    ],
+    [
+      "zsh 5.9.1 released",
+      "https://www.zsh.org/mla/announce/msg00135.html"
+    ]
+  ],
+  [
+    [
       "2026-06-01, 05:03:10",
       "https://lobste.rs/s/acsqgj/utf8_email_with_dma_dragonfly_mail_agent"
     ],
@@ -51,16 +101,6 @@
   ],
   [
     [
-      "2026-05-31, 22:47:43",
-      "https://lobste.rs/s/mqate3/homomorphic_static_analysis"
-    ],
-    [
-      "Homomorphic static analysis",
-      "http://marcosh.github.io/post/2026/05/21/homomorphic-static-analysis.html"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 20:15:09",
       "https://lobste.rs/s/ng3xwc/adding_offline_mode_custom_servers"
     ],
@@ -87,16 +127,6 @@
     [
       "Unlawful by design: Exposing the human rights costs of generative AI",
       "https://www.amnesty.org/en/documents/pol40/0996/2026/en/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 16:30:09",
-      "https://lobste.rs/s/u3a9d0/blorp_language"
-    ],
-    [
-      "Blorp Language",
-      "https://blorp-lang.org/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-05-31, 11:12:12",
-      "https://lobste.rs/s/flliys/pragmatic_set_modern_colour_space"
-    ],
-    [
-      "A pragmatic set of modern colour space transforms for the Odin language",
-      "https://github.com/heavyrain266/colourspace"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 09:43:06",
       "https://lobste.rs/s/2tskyy/i_put_datacenter_gpu_my_gaming_pc_for_200"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2026-05-31, 06:45:21",
-      "https://lobste.rs/s/np6twr/apple_m1_chip_deep_dive"
-    ],
-    [
-      "Apple M1 Chip Deep-Dive",
-      "https://www.youtube.com/watch?v=mHEWMiHgyU8"
-    ]
-  ],
-  [
-    [
       "2026-05-31, 06:43:48",
       "https://lobste.rs/s/mem2md/simple_project_switcher_for_kakoune"
     ],
     [
       "A simple project switcher for Kakoune",
       "https://bhoot.org/2026/kakoune-project-switcher/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 02:20:15",
-      "https://lobste.rs/s/e7n06u/ahoy_decmate_ii_little_pdp_8_could"
-    ],
-    [
-      "Ahoy, DECmate II! the little PDP-8 that could",
-      "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html"
     ]
   ],
   [
