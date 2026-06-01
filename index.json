@@ -1,12 +1,22 @@
 [
   [
     [
-      "2026-06-01, 18:25:24",
-      "https://lobste.rs/s/exezj2/iscsi_chap_heap_buffer_overflow_linux"
+      "2026-06-01, 21:13:28",
+      "https://lobste.rs/s/yohvez/art_engineering_silpheed"
     ],
     [
-      "iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel",
-      "https://ahossu.ro/blog/iscsi-chap-base64-overflow"
+      "The art and engineering of Silpheed",
+      "https://fabiensanglard.net/silpheed/"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 19:45:35",
+      "https://lobste.rs/s/sg1z79/battletris_two_player_networked_tetris"
+    ],
+    [
+      "BattleTris: Two-player networked tetris with a twist",
+      "https://github.com/bcantrill/BattleTris"
     ]
   ],
   [
@@ -27,6 +37,26 @@
     [
       "nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux",
       "https://github.com/c0dejedi/nbd-vram"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 17:38:50",
+      "https://lobste.rs/s/pmkmil/newest_instagram_exploit_is_goofiest_i_ve"
+    ],
+    [
+      "The Newest Instagram \"Exploit\" is the Goofiest I've Seen",
+      "https://www.0xsid.com/blog/meta-account-takeover-fiasco"
+    ]
+  ],
+  [
+    [
+      "2026-06-01, 17:29:39",
+      "https://lobste.rs/s/da3ffr/postmodern_build_system"
+    ],
+    [
+      "The postmodern build system",
+      "https://jade.fyi/blog/the-postmodern-build-system/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-06-01, 08:37:35",
-      "https://lobste.rs/s/ngfuvo/sysadmining_like_it_s_2009"
-    ],
-    [
-      "Sysadmining like it's 2009",
-      "https://lambdacreate.com/posts/sysadmining-like-its-2009"
-    ]
-  ],
-  [
-    [
       "2026-06-01, 06:12:21",
       "https://lobste.rs/s/fsltyn/five_years_trying_add_recursion_lychee"
     ],
@@ -217,26 +237,6 @@
     [
       "Unlawful by design: Exposing the human rights costs of generative AI",
       "https://www.amnesty.org/en/documents/pol40/0996/2026/en/"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 13:20:42",
-      "https://lobste.rs/s/ls3ris/cloudflare_turnstile_requiring"
-    ],
-    [
-      "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting"
-    ]
-  ],
-  [
-    [
-      "2026-05-31, 12:28:57",
-      "https://lobste.rs/s/ycplhh/you_must_fix_your_asserts"
-    ],
-    [
-      "You Must Fix Your Asserts",
-      "https://kristoff.it/blog/fix-your-asserts/"
     ]
   ],
   [
