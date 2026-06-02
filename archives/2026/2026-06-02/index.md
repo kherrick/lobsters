@@ -4,6 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 17:03:11](https://lobste.rs/s/mbejmj/no_let_no_rec_no_problem_gentler) - [No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z combinators](https://irfanali.org/blog/zcom)
+* [2026-06-02, 16:54:12](https://lobste.rs/s/o78n3y/self_calling_executables) - [Self-calling executables](https://log.pfad.fr/2026/self-calling-executable/)
+* [2026-06-02, 16:20:18](https://lobste.rs/s/6eyhii/iddqd_hardest_kind_unsafe_rust) - [iddqd, or the hardest kind of unsafe Rust](https://oxide.computer/blog/iddqd-unsafe)
+* [2026-06-02, 15:43:50](https://lobste.rs/s/xvmmvb/recent_improvements_swift_type_checker) - [Recent improvements to the Swift type checker](https://forums.swift.org/t/recent-improvements-to-the-type-checker/87048)
+* [2026-06-02, 14:16:20](https://lobste.rs/s/jy1xaa/preparing_for_kde_plasma_s_last_x11) - [Preparing for KDE Plasma’s Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
+* [2026-06-02, 14:07:42](https://lobste.rs/s/67tqpz/memory_safety_is_matter_life_death) - [Memory safety is a matter of life and death](https://joshlf.com/posts/memory-safety-life-and-death/)
+* [2026-06-02, 11:58:33](https://lobste.rs/s/bygb9t/pinball_on_64_bit_alpha_axp_windows_nt) - [Pinball on 64-bit Alpha AXP Windows NT](https://virtuallyfun.com/2026/06/02/pinball-on-64-bit-alpha-axp-windows-nt/)
+* [2026-06-02, 11:53:11](https://lobste.rs/s/q5enyi/bpf_support_gcc_16_beyond) - [BPF support in GCC 16 and beyond](https://lwn.net/SubscriberLink/1071973/19e2866f07249dfb/)
 * [2026-06-02, 11:53:01](https://lobste.rs/s/6xwqvv/vim_classic_8_3_released) - [Vim Classic 8.3 released](https://vim-classic.org/news/vim-8.3-released.html)
 * [2026-06-02, 10:15:20](https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend) - [rustc_codegen_jvm: Rust compiler backend to emit JVM bytecode](https://github.com/IntegralPilot/rustc_codegen_jvm)
 * [2026-06-02, 09:11:39](https://lobste.rs/s/8ohth3/quality_age_slop) - [Quality in the Age of Slop](https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/)
