@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 18:55:14](https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for) - [Edsger – a handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+* [2026-06-02, 17:39:22](https://lobste.rs/s/ikkx3r/revo_programming_language) - [revo, the programming language](https://gills.pages.dev/revo/)
+* [2026-06-02, 17:38:22](https://lobste.rs/s/afaweo/dap_multiplexer_connect_your_editor_your) - [DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures](https://github.com/dap-mux/dap-mux)
+* [2026-06-02, 17:26:58](https://lobste.rs/s/8ntcw9/using_wavelets_entropy_coding_analyze) - [Using wavelets and entropy coding to analyze code structure](https://yogthos.net/posts/2026-06-02-wavescope.html)
 * [2026-06-02, 17:03:11](https://lobste.rs/s/mbejmj/no_let_no_rec_no_problem_gentler) - [No Let, No Rec, No Problem: A Gentler Introduction to the Y and Z combinators](https://irfanali.org/blog/zcom)
 * [2026-06-02, 16:54:12](https://lobste.rs/s/o78n3y/self_calling_executables) - [Self-calling executables](https://log.pfad.fr/2026/self-calling-executable/)
+* [2026-06-02, 16:50:27](https://lobste.rs/s/dvy8eg/dav2d_released) - [dav2d released](https://jbkempf.com/blog/2026/dav2d/)
 * [2026-06-02, 16:20:18](https://lobste.rs/s/6eyhii/iddqd_hardest_kind_unsafe_rust) - [iddqd, or the hardest kind of unsafe Rust](https://oxide.computer/blog/iddqd-unsafe)
 * [2026-06-02, 15:43:50](https://lobste.rs/s/xvmmvb/recent_improvements_swift_type_checker) - [Recent improvements to the Swift type checker](https://forums.swift.org/t/recent-improvements-to-the-type-checker/87048)
 * [2026-06-02, 14:16:20](https://lobste.rs/s/jy1xaa/preparing_for_kde_plasma_s_last_x11) - [Preparing for KDE Plasma’s Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
