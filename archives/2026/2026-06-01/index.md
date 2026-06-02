@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-01](index.md)
 
+* [2026-06-01, 23:19:12](https://lobste.rs/s/exv3wo/how_install_smartos_on_datacenter) - [How to install SmartOS on a datacenter machine (2025)](https://blog.jcea.es/posts/20250209-install_SmartOS.html)
 * [2026-06-01, 21:13:28](https://lobste.rs/s/yohvez/art_engineering_silpheed) - [The art and engineering of Silpheed](https://fabiensanglard.net/silpheed/)
 * [2026-06-01, 19:45:35](https://lobste.rs/s/sg1z79/battletris_two_player_networked_tetris) - [BattleTris: Two-player networked tetris with a twist](https://github.com/bcantrill/BattleTris)
 * [2026-06-01, 18:25:24](https://lobste.rs/s/exezj2/iscsi_chap_heap_buffer_overflow_linux) - [iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel](https://ahossu.ro/blog/iscsi-chap-base64-overflow)
