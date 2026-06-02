@@ -2,6 +2,7 @@
 
 * [2026-06-01, 21:13:28](https://lobste.rs/s/yohvez/art_engineering_silpheed) - [The art and engineering of Silpheed](https://fabiensanglard.net/silpheed/)
 * [2026-06-01, 19:45:35](https://lobste.rs/s/sg1z79/battletris_two_player_networked_tetris) - [BattleTris: Two-player networked tetris with a twist](https://github.com/bcantrill/BattleTris)
+* [2026-06-01, 18:25:24](https://lobste.rs/s/exezj2/iscsi_chap_heap_buffer_overflow_linux) - [iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel](https://ahossu.ro/blog/iscsi-chap-base64-overflow)
 * [2026-06-01, 17:47:32](https://lobste.rs/s/97uskt/hating_ai_is_good_actually) - [Hating AI is good, actually](https://www.thehandbasket.co/p/hating-ai-is-good-actually)
 * [2026-06-01, 17:46:54](https://lobste.rs/s/mdi231/nbd_vram_use_your_nvidia_gpu_s_vram_as_swap) - [nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
 * [2026-06-01, 17:38:50](https://lobste.rs/s/pmkmil/newest_instagram_exploit_is_goofiest_i_ve) - [The Newest Instagram \"Exploit\" is the Goofiest I've Seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
@@ -14,7 +15,6 @@
 * [2026-06-01, 13:30:13](https://lobste.rs/s/uuvuhv/should_you_normalize_rgb_values_by_255_256) - [Should you normalize RGB values by 255 or 256?](https://30fps.net/pages/255-vs-256-division/)
 * [2026-06-01, 13:11:00](https://lobste.rs/s/jhbndn/announcing_zstandard_rust) - [Announcing Zstandard in Rust](https://trifectatech.org/blog/announcing-zstandard-in-rust/)
 * [2026-06-01, 12:46:27](https://lobste.rs/s/usw42s/syncing_lights_with_music_estimating) - [Syncing lights with music: estimating precise seek time from truncated timestamps](https://aaronjanse.substack.com/p/syncing-lights-with-music-marzullos)
-* [2026-06-01, 12:09:34](https://lobste.rs/s/8043lu/h2jvm_haskell_library_for_writing_jvm) - [H2JVM - A Haskell Library for writing JVM Bytecode](https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182)
 * [2026-06-01, 11:57:04](https://lobste.rs/s/aahxxs/qbe_compiler_backend_version_1_3) - [QBE - Compiler Backend: Version 1.3](https://c9x.me/compile/release/qbe-1.3.html)
 * [2026-06-01, 11:21:28](https://lobste.rs/s/fv8ptx/tracing_http_requests_with_go_s_net_http) - [Tracing HTTP Requests with Go's net/http/httptrace](https://blainsmith.com/articles/httptrace-with-go/)
 * [2026-06-01, 11:05:31](https://lobste.rs/s/2wenns/arch_linux_breaking_changes_for_all_users) - [Arch Linux: Breaking changes for all users of `varnish`, which is renamed to `vinyl-cache`](https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/)
