@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-02, 04:01:30",
+      "https://lobste.rs/s/eoaytx/making_pebble_apps_2026"
+    ],
+    [
+      "Making pebble apps in 2026",
+      "https://coconauts.net/blog/2026/05/08/pebble-apps/"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 00:37:47",
+      "https://lobste.rs/s/hio1um/stealing_from_biologists_compile"
+    ],
+    [
+      "Stealing from Biologists to Compile Haskell Faster",
+      "https://iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/"
+    ]
+  ],
+  [
+    [
       "2026-06-01, 21:13:28",
       "https://lobste.rs/s/yohvez/art_engineering_silpheed"
     ],
@@ -37,16 +57,6 @@
     [
       "Hating AI is good, actually",
       "https://www.thehandbasket.co/p/hating-ai-is-good-actually"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 17:46:54",
-      "https://lobste.rs/s/mdi231/nbd_vram_use_your_nvidia_gpu_s_vram_as_swap"
-    ],
-    [
-      "nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux",
-      "https://github.com/c0dejedi/nbd-vram"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Five Years of Trying to Add Recursion to lychee",
       "https://endler.dev/2026/lychee-recursion/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 06:11:13",
-      "https://lobste.rs/s/uobd71/zsh_5_9_1_released"
-    ],
-    [
-      "zsh 5.9.1 released",
-      "https://www.zsh.org/mla/announce/msg00135.html"
     ]
   ],
   [
