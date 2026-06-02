@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2026](../index.md)
+
+### [Archives](../../index.md) for [2026-06-02](index.md)
+
+* [2026-06-02, 04:01:30](https://lobste.rs/s/eoaytx/making_pebble_apps_2026) - [Making pebble apps in 2026](https://coconauts.net/blog/2026/05/08/pebble-apps/)
+* [2026-06-02, 00:37:47](https://lobste.rs/s/hio1um/stealing_from_biologists_compile) - [Stealing from Biologists to Compile Haskell Faster](https://iankduncan.com/engineering/2026-05-30-stealing-from-biologists-to-compile-haskell-faster/)
