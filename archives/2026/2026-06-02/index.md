@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-02](index.md)
 
+* [2026-06-02, 21:34:11](https://lobste.rs/s/b4fy6z/pacever_alternative_semver_for_mobile) - [PaceVer (an alternative to SemVer, for mobile apps)](https://pacever.org/)
+* [2026-06-02, 20:57:41](https://lobste.rs/s/rlt5x6/oils_reviewing_our_nlnet_grants_after_4) - [Oils - Reviewing Our NLnet Grants After 4 Years](https://oils.pub/blog/2026/06/grants.html)
+* [2026-06-02, 20:25:23](https://lobste.rs/s/54wley/microsoft_ceo_we_re_moving_from_os_apps) - [Microsoft CEO: We’re moving from OS and apps to agents instead](https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/)
+* [2026-06-02, 20:03:10](https://lobste.rs/s/cnbztx/codex_discovered_hidden_http_2_bomb) - [Codex Discovered a Hidden HTTP/2 Bomb](https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb)
 * [2026-06-02, 18:55:14](https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for) - [Edsger – a handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 * [2026-06-02, 17:39:22](https://lobste.rs/s/ikkx3r/revo_programming_language) - [revo, the programming language](https://gills.pages.dev/revo/)
 * [2026-06-02, 17:38:22](https://lobste.rs/s/afaweo/dap_multiplexer_connect_your_editor_your) - [DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures](https://github.com/dap-mux/dap-mux)
