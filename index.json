@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-06-01, 18:25:24",
+      "https://lobste.rs/s/exezj2/iscsi_chap_heap_buffer_overflow_linux"
+    ],
+    [
+      "iSCSI CHAP: Heap Buffer Overflow in the Linux Kernel",
+      "https://ahossu.ro/blog/iscsi-chap-base64-overflow"
+    ]
+  ],
+  [
+    [
       "2026-06-01, 17:47:32",
       "https://lobste.rs/s/97uskt/hating_ai_is_good_actually"
     ],
@@ -137,16 +147,6 @@
     [
       "Syncing lights with music: estimating precise seek time from truncated timestamps",
       "https://aaronjanse.substack.com/p/syncing-lights-with-music-marzullos"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 12:09:34",
-      "https://lobste.rs/s/8043lu/h2jvm_haskell_library_for_writing_jvm"
-    ],
-    [
-      "H2JVM - A Haskell Library for writing JVM Bytecode",
-      "https://discourse.haskell.org/t/h2jvm-a-haskell-library-for-writing-jvm-bytecode/14182"
     ]
   ],
   [
