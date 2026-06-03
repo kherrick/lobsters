@@ -1,12 +1,52 @@
 [
   [
     [
-      "2026-06-03, 04:58:18",
-      "https://lobste.rs/s/pq3now/froscon_free_open_source_software"
+      "2026-06-03, 09:18:20",
+      "https://lobste.rs/s/g5mmir/how_typescript_distributes_unions"
     ],
     [
-      "FrOSCon — Free and Open Source Software Conference, August 15–16, DE",
-      "https://froscon.org/en/"
+      "How TypeScript distributes unions",
+      "https://norswap.com/typescript-distribute/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 09:05:35",
+      "https://lobste.rs/s/mmzyda/beyond_icr_incremental_suggesting_read"
+    ],
+    [
+      "Beyond ICR: Incremental 'Suggesting' Read in Emacs",
+      "https://www.chiply.dev/post-incremental-suggesting-read"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 07:55:57",
+      "https://lobste.rs/s/aw5hgu/revealing_frontier_with_stacks_queues"
+    ],
+    [
+      "Revealing the frontier with stacks and queues",
+      "https://dystroy.org/blog/stack-and-queues/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 06:59:03",
+      "https://lobste.rs/s/vxveln/gleam_v1_17_single_file_gleam_beam"
+    ],
+    [
+      "Gleam v1.17 - Single file Gleam BEAM programs with escript",
+      "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 05:50:07",
+      "https://lobste.rs/s/k1b0za/rsync_outrage"
+    ],
+    [
+      "rsync and outrage",
+      "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "The lone lisp heap",
       "https://www.matheusmoreira.com/articles/lone-lisp-heap"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 04:20:32",
+      "https://lobste.rs/s/u9rwxj/how_did_software_get_so_reliable_without"
+    ],
+    [
+      "How did software get so reliable without proof? (1996)",
+      "https://6826.csail.mit.edu/2020/papers/noproof.pdf"
     ]
   ],
   [
@@ -71,12 +121,32 @@
   ],
   [
     [
+      "2026-06-02, 20:03:10",
+      "https://lobste.rs/s/cnbztx/codex_discovered_hidden_http_2_bomb"
+    ],
+    [
+      "Codex Discovered a Hidden HTTP/2 Bomb",
+      "https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb"
+    ]
+  ],
+  [
+    [
       "2026-06-02, 18:55:14",
       "https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for"
     ],
     [
       "Edsger – a handwritten Clojure REPL for the reMarkable 2",
       "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-02, 18:24:49",
+      "https://lobste.rs/s/qcnd5q/cave_forgotten_dreams"
+    ],
+    [
+      "Cave of Forgotten Dreams",
+      "https://charlesleifer.com/blog/cave-of-forgotten-dreams/"
     ]
   ],
   [
@@ -121,16 +191,6 @@
   ],
   [
     [
-      "2026-06-02, 15:43:50",
-      "https://lobste.rs/s/xvmmvb/recent_improvements_swift_type_checker"
-    ],
-    [
-      "Recent improvements to the Swift type checker",
-      "https://forums.swift.org/t/recent-improvements-to-the-type-checker/87048"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 14:16:20",
       "https://lobste.rs/s/jy1xaa/preparing_for_kde_plasma_s_last_x11"
     ],
@@ -151,16 +211,6 @@
   ],
   [
     [
-      "2026-06-02, 11:53:11",
-      "https://lobste.rs/s/q5enyi/bpf_support_gcc_16_beyond"
-    ],
-    [
-      "BPF support in GCC 16 and beyond",
-      "https://lwn.net/SubscriberLink/1071973/19e2866f07249dfb/"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 11:53:01",
       "https://lobste.rs/s/6xwqvv/vim_classic_8_3_released"
     ],
@@ -171,42 +221,12 @@
   ],
   [
     [
-      "2026-06-02, 10:15:20",
-      "https://lobste.rs/s/lcldxn/rustc_codegen_jvm_rust_compiler_backend"
+      "2026-06-02, 09:11:39",
+      "https://lobste.rs/s/8ohth3/quality_age_slop"
     ],
     [
-      "rustc_codegen_jvm: Rust compiler backend to emit JVM bytecode",
-      "https://github.com/IntegralPilot/rustc_codegen_jvm"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 07:12:34",
-      "https://lobste.rs/s/2eaosl/kelvin_versioning"
-    ],
-    [
-      "kelvin versioning",
-      "https://wiki.xxiivv.com/site/kelvin_versioning.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 06:51:21",
-      "https://lobste.rs/s/4az1lx/browser_identification_through_header"
-    ],
-    [
-      "Browser identification through header order",
-      "https://geocar.sdf1.org/browser-verification.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 05:08:45",
-      "https://lobste.rs/s/iwtzvc/strace_ui_bonsai_term_tui_renaissance"
-    ],
-    [
-      "strace-ui, Bonsai_term, and the TUI renaissance",
-      "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/"
+      "Quality in the Age of Slop",
+      "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "You Don't Love systemd Timers Enough",
       "https://blog.tjll.net/you-dont-love-systemd-timers-enough/"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 15:36:49",
-      "https://lobste.rs/s/vkoa7r/github_crime_against_software"
-    ],
-    [
-      "github and the crime against software",
-      "https://eblog.fly.dev/githubbad.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-01, 13:11:00",
-      "https://lobste.rs/s/jhbndn/announcing_zstandard_rust"
-    ],
-    [
-      "Announcing Zstandard in Rust",
-      "https://trifectatech.org/blog/announcing-zstandard-in-rust/"
     ]
   ]
 ]
