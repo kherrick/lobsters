@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-03, 20:09:08",
+      "https://lobste.rs/s/g6lkw1/my_software_north_star"
+    ],
+    [
+      "My Software North Star",
+      "https://kristoff.it/blog/north-star/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 19:07:13",
+      "https://lobste.rs/s/djguny/post_quantum_future_for_let_s_encrypt"
+    ],
+    [
+      "A Post-Quantum Future for Let's Encrypt",
+      "https://letsencrypt.org/2026/06/03/pq-certs.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 19:05:36",
+      "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed"
+    ],
+    [
+      "Elixir v1.20 released: now a gradually typed language",
+      "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 17:51:05",
       "https://lobste.rs/s/ejogde/bloat"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-06-03, 09:18:20",
-      "https://lobste.rs/s/g5mmir/how_typescript_distributes_unions"
-    ],
-    [
-      "How TypeScript distributes unions",
-      "https://norswap.com/typescript-distribute/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 07:55:57",
       "https://lobste.rs/s/aw5hgu/revealing_frontier_with_stacks_queues"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2026-06-02, 20:03:10",
-      "https://lobste.rs/s/cnbztx/codex_discovered_hidden_http_2_bomb"
-    ],
-    [
-      "Codex Discovered a Hidden HTTP/2 Bomb",
-      "https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 18:55:14",
       "https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for"
     ],
@@ -217,16 +227,6 @@
     [
       "iddqd, or the hardest kind of unsafe Rust",
       "https://oxide.computer/blog/iddqd-unsafe"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 14:16:20",
-      "https://lobste.rs/s/jy1xaa/preparing_for_kde_plasma_s_last_x11"
-    ],
-    [
-      "Preparing for KDE Plasma’s Last X11-Supported Release",
-      "https://blog.davidedmundson.co.uk/blog/596/"
     ]
   ],
   [
