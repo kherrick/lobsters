@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 17:51:05](https://lobste.rs/s/ejogde/bloat) - [The Bloat](https://milkandcigarettes.com/notes/devlog/the-bloat)
+* [2026-06-03, 17:08:44](https://lobste.rs/s/5wgmnl/safe_made_easy_pt_1_single_ownership_is_not) - [Safe Made Easy Pt.1: Single Ownership is (Not) Optional](https://ergeysay.github.io/safe-made-easy-pt1.html)
+* [2026-06-03, 15:22:33](https://lobste.rs/s/jx44nm/parsing_xml_exif_from_avif_files_plus_rant) - [Parsing XML EXIF from .avif files (plus a rant)](https://sheep.horse/2026/6/parsing_xml_exif_from_.avif_files_(plus_a_rant).html)
+* [2026-06-03, 15:07:10](https://lobste.rs/s/ovbcr4/burntsushi_discusses_personal_medical) - [burntsushi discusses personal medical diagnosis](https://burntsushi.net/encephalitis/)
+* [2026-06-03, 14:56:16](https://lobste.rs/s/4h8pnc/kotlin_2_4_0_released) - [Kotlin 2.4.0 Released](https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/)
 * [2026-06-03, 13:36:27](https://lobste.rs/s/aduphf/mimalloc_new_high_performance_scalable) - [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/)
 * [2026-06-03, 13:33:22](https://lobste.rs/s/boq8pb/curatube_distraction_free_interface_for) - [Curatube: a distraction free interface for YT playlists to focus on learning](https://curatube-demo.vercel.app/)
+* [2026-06-03, 13:20:13](https://lobste.rs/s/ui45py/mean_hand) - [Mean Hand](https://portfolio.anna-zhang.com/projects/mean-hand)
 * [2026-06-03, 11:54:11](https://lobste.rs/s/mth4mj/pwnd_blaster_hacking_your_pc_using_your) - [Pwnd Blaster: Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 * [2026-06-03, 10:29:40](https://lobste.rs/s/d0ixpj/golang_code_review_notes_ii) - [Golang code review notes II](https://www.elttam.com/blog/golang-code-review-notes-ii)
 * [2026-06-03, 10:17:28](https://lobste.rs/s/1bie2j/furry_top_level_domain_for_furries) - [.furry - A Top-Level Domain for furries](https://www.dotfurry.org/)
