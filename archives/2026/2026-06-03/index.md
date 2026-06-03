@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2026-06-03](index.md)
 
+* [2026-06-03, 13:36:27](https://lobste.rs/s/aduphf/mimalloc_new_high_performance_scalable) - [mimalloc: A new, high-performance, scalable memory allocator for the modern era](https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era/)
+* [2026-06-03, 13:33:22](https://lobste.rs/s/boq8pb/curatube_distraction_free_interface_for) - [Curatube: a distraction free interface for YT playlists to focus on learning](https://curatube-demo.vercel.app/)
+* [2026-06-03, 11:54:11](https://lobste.rs/s/mth4mj/pwnd_blaster_hacking_your_pc_using_your) - [Pwnd Blaster: Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+* [2026-06-03, 10:29:40](https://lobste.rs/s/d0ixpj/golang_code_review_notes_ii) - [Golang code review notes II](https://www.elttam.com/blog/golang-code-review-notes-ii)
+* [2026-06-03, 10:17:28](https://lobste.rs/s/1bie2j/furry_top_level_domain_for_furries) - [.furry - A Top-Level Domain for furries](https://www.dotfurry.org/)
+* [2026-06-03, 10:15:13](https://lobste.rs/s/his6ee/wsl_containers_coreutils_for_windows) - [WSL containers, Coreutils for Windows, and agents](https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/)
 * [2026-06-03, 09:18:20](https://lobste.rs/s/g5mmir/how_typescript_distributes_unions) - [How TypeScript distributes unions](https://norswap.com/typescript-distribute/)
 * [2026-06-03, 09:05:35](https://lobste.rs/s/mmzyda/beyond_icr_incremental_suggesting_read) - [Beyond ICR: Incremental 'Suggesting' Read in Emacs](https://www.chiply.dev/post-incremental-suggesting-read)
 * [2026-06-03, 07:55:57](https://lobste.rs/s/aw5hgu/revealing_frontier_with_stacks_queues) - [Revealing the frontier with stacks and queues](https://dystroy.org/blog/stack-and-queues/)
