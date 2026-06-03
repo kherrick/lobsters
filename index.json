@@ -1,6 +1,56 @@
 [
   [
     [
+      "2026-06-03, 17:51:05",
+      "https://lobste.rs/s/ejogde/bloat"
+    ],
+    [
+      "The Bloat",
+      "https://milkandcigarettes.com/notes/devlog/the-bloat"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 17:08:44",
+      "https://lobste.rs/s/5wgmnl/safe_made_easy_pt_1_single_ownership_is_not"
+    ],
+    [
+      "Safe Made Easy Pt.1: Single Ownership is (Not) Optional",
+      "https://ergeysay.github.io/safe-made-easy-pt1.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 15:22:33",
+      "https://lobste.rs/s/jx44nm/parsing_xml_exif_from_avif_files_plus_rant"
+    ],
+    [
+      "Parsing XML EXIF from .avif files (plus a rant)",
+      "https://sheep.horse/2026/6/parsing_xml_exif_from_.avif_files_(plus_a_rant).html"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 15:07:10",
+      "https://lobste.rs/s/ovbcr4/burntsushi_discusses_personal_medical"
+    ],
+    [
+      "burntsushi discusses personal medical diagnosis",
+      "https://burntsushi.net/encephalitis/"
+    ]
+  ],
+  [
+    [
+      "2026-06-03, 14:56:16",
+      "https://lobste.rs/s/4h8pnc/kotlin_2_4_0_released"
+    ],
+    [
+      "Kotlin 2.4.0 Released",
+      "https://blog.jetbrains.com/kotlin/2026/06/kotlin-2-4-0-released/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 13:36:27",
       "https://lobste.rs/s/aduphf/mimalloc_new_high_performance_scalable"
     ],
@@ -11,12 +61,12 @@
   ],
   [
     [
-      "2026-06-03, 13:33:22",
-      "https://lobste.rs/s/boq8pb/curatube_distraction_free_interface_for"
+      "2026-06-03, 13:20:13",
+      "https://lobste.rs/s/ui45py/mean_hand"
     ],
     [
-      "Curatube: a distraction free interface for YT playlists to focus on learning",
-      "https://curatube-demo.vercel.app/"
+      "Mean Hand",
+      "https://portfolio.anna-zhang.com/projects/mean-hand"
     ]
   ],
   [
@@ -27,16 +77,6 @@
     [
       "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
       "https://blog.nns.ee/2026/06/03/katana-badusb/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 10:29:40",
-      "https://lobste.rs/s/d0ixpj/golang_code_review_notes_ii"
-    ],
-    [
-      "Golang code review notes II",
-      "https://www.elttam.com/blog/golang-code-review-notes-ii"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2026-06-02, 20:25:23",
-      "https://lobste.rs/s/54wley/microsoft_ceo_we_re_moving_from_os_apps"
-    ],
-    [
-      "Microsoft CEO: We’re moving from OS and apps to agents instead",
-      "https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 20:03:10",
       "https://lobste.rs/s/cnbztx/codex_discovered_hidden_http_2_bomb"
     ],
@@ -167,16 +197,6 @@
     [
       "Edsger – a handwritten Clojure REPL for the reMarkable 2",
       "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 18:24:49",
-      "https://lobste.rs/s/qcnd5q/cave_forgotten_dreams"
-    ],
-    [
-      "Cave of Forgotten Dreams",
-      "https://charlesleifer.com/blog/cave-of-forgotten-dreams/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-06-02, 14:07:42",
-      "https://lobste.rs/s/67tqpz/memory_safety_is_matter_life_death"
-    ],
-    [
-      "Memory safety is a matter of life and death",
-      "https://joshlf.com/posts/memory-safety-life-and-death/"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 11:53:01",
       "https://lobste.rs/s/6xwqvv/vim_classic_8_3_released"
     ],
@@ -237,16 +247,6 @@
     [
       "Quality in the Age of Slop",
       "https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 04:51:02",
-      "https://lobste.rs/s/y0euno/why_janet_2023"
-    ],
-    [
-      "Why Janet? (2023)",
-      "https://ianthehenry.com/posts/why-janet/"
     ]
   ]
 ]
