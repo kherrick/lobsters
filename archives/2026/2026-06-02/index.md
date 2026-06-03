@@ -9,6 +9,7 @@
 * [2026-06-02, 20:25:23](https://lobste.rs/s/54wley/microsoft_ceo_we_re_moving_from_os_apps) - [Microsoft CEO: We’re moving from OS and apps to agents instead](https://9to5mac.com/2026/06/02/microsoft-ceo-were-moving-from-os-and-apps-to-agents-instead/)
 * [2026-06-02, 20:03:10](https://lobste.rs/s/cnbztx/codex_discovered_hidden_http_2_bomb) - [Codex Discovered a Hidden HTTP/2 Bomb](https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb)
 * [2026-06-02, 18:55:14](https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for) - [Edsger – a handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+* [2026-06-02, 18:24:49](https://lobste.rs/s/qcnd5q/cave_forgotten_dreams) - [Cave of Forgotten Dreams](https://charlesleifer.com/blog/cave-of-forgotten-dreams/)
 * [2026-06-02, 17:39:22](https://lobste.rs/s/ikkx3r/revo_programming_language) - [revo, the programming language](https://gills.pages.dev/revo/)
 * [2026-06-02, 17:38:22](https://lobste.rs/s/afaweo/dap_multiplexer_connect_your_editor_your) - [DAP multiplexer: connect your editor, your REPL, your debugger (and more) all working together in a single debug session durable across tool failures](https://github.com/dap-mux/dap-mux)
 * [2026-06-02, 17:26:58](https://lobste.rs/s/8ntcw9/using_wavelets_entropy_coding_analyze) - [Using wavelets and entropy coding to analyze code structure](https://yogthos.net/posts/2026-06-02-wavescope.html)
