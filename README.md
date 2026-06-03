@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-03, 20:09:08](https://lobste.rs/s/g6lkw1/my_software_north_star) - [My Software North Star](https://kristoff.it/blog/north-star/)
+* [2026-06-03, 19:07:13](https://lobste.rs/s/djguny/post_quantum_future_for_let_s_encrypt) - [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs.html)
+* [2026-06-03, 19:05:36](https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed) - [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 * [2026-06-03, 17:51:05](https://lobste.rs/s/ejogde/bloat) - [The Bloat](https://milkandcigarettes.com/notes/devlog/the-bloat)
 * [2026-06-03, 17:08:44](https://lobste.rs/s/5wgmnl/safe_made_easy_pt_1_single_ownership_is_not) - [Safe Made Easy Pt.1: Single Ownership is (Not) Optional](https://ergeysay.github.io/safe-made-easy-pt1.html)
 * [2026-06-03, 15:22:33](https://lobste.rs/s/jx44nm/parsing_xml_exif_from_avif_files_plus_rant) - [Parsing XML EXIF from .avif files (plus a rant)](https://sheep.horse/2026/6/parsing_xml_exif_from_.avif_files_(plus_a_rant).html)
@@ -10,7 +13,6 @@
 * [2026-06-03, 11:54:11](https://lobste.rs/s/mth4mj/pwnd_blaster_hacking_your_pc_using_your) - [Pwnd Blaster: Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 * [2026-06-03, 10:17:28](https://lobste.rs/s/1bie2j/furry_top_level_domain_for_furries) - [.furry - A Top-Level Domain for furries](https://www.dotfurry.org/)
 * [2026-06-03, 10:15:13](https://lobste.rs/s/his6ee/wsl_containers_coreutils_for_windows) - [WSL containers, Coreutils for Windows, and agents](https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/)
-* [2026-06-03, 09:18:20](https://lobste.rs/s/g5mmir/how_typescript_distributes_unions) - [How TypeScript distributes unions](https://norswap.com/typescript-distribute/)
 * [2026-06-03, 07:55:57](https://lobste.rs/s/aw5hgu/revealing_frontier_with_stacks_queues) - [Revealing the frontier with stacks and queues](https://dystroy.org/blog/stack-and-queues/)
 * [2026-06-03, 06:59:03](https://lobste.rs/s/vxveln/gleam_v1_17_single_file_gleam_beam) - [Gleam v1.17 - Single file Gleam BEAM programs with escript](https://gleam.run/news/single-file-gleam-beam-programs-with-escript/)
 * [2026-06-03, 05:50:07](https://lobste.rs/s/k1b0za/rsync_outrage) - [rsync and outrage](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0)
@@ -18,11 +20,9 @@
 * [2026-06-03, 00:22:59](https://lobste.rs/s/fysuyw/full_disclosure_1_click_github_token) - [Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 * [2026-06-02, 21:34:11](https://lobste.rs/s/b4fy6z/pacever_alternative_semver_for_mobile) - [PaceVer (an alternative to SemVer, for mobile apps)](https://pacever.org/)
 * [2026-06-02, 20:57:41](https://lobste.rs/s/rlt5x6/oils_reviewing_our_nlnet_grants_after_4) - [Oils - Reviewing Our NLnet Grants After 4 Years](https://oils.pub/blog/2026/06/grants.html)
-* [2026-06-02, 20:03:10](https://lobste.rs/s/cnbztx/codex_discovered_hidden_http_2_bomb) - [Codex Discovered a Hidden HTTP/2 Bomb](https://blog.calif.io/p/codex-discovered-a-hidden-http2-bomb)
 * [2026-06-02, 18:55:14](https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for) - [Edsger – a handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 * [2026-06-02, 17:39:22](https://lobste.rs/s/ikkx3r/revo_programming_language) - [revo, the programming language](https://gills.pages.dev/revo/)
 * [2026-06-02, 16:20:18](https://lobste.rs/s/6eyhii/iddqd_hardest_kind_unsafe_rust) - [iddqd, or the hardest kind of unsafe Rust](https://oxide.computer/blog/iddqd-unsafe)
-* [2026-06-02, 14:16:20](https://lobste.rs/s/jy1xaa/preparing_for_kde_plasma_s_last_x11) - [Preparing for KDE Plasma’s Last X11-Supported Release](https://blog.davidedmundson.co.uk/blog/596/)
 * [2026-06-02, 11:53:01](https://lobste.rs/s/6xwqvv/vim_classic_8_3_released) - [Vim Classic 8.3 released](https://vim-classic.org/news/vim-8.3-released.html)
 * [2026-06-02, 09:11:39](https://lobste.rs/s/8ohth3/quality_age_slop) - [Quality in the Age of Slop](https://sinclairtarget.com/blog/2026/06/01/quality-in-the-age-of-slop/)
 
