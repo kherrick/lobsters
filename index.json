@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-04, 21:27:13",
+      "https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust"
+    ],
+    [
+      "A faster bump allocator for rust",
+      "https://owen.cafe/posts/stumpalo/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 21:09:47",
+      "https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake"
+    ],
+    [
+      "IPv6 zones in URLs are a mistake",
+      "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 20:20:21",
       "https://lobste.rs/s/aufohg/crashing_cars_improving_hover_detection"
     ],
@@ -17,6 +37,16 @@
     [
       "Reproducible Builds in May 2026",
       "https://reproducible-builds.org/reports/2026-05/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 19:39:01",
+      "https://lobste.rs/s/eriaol/terminal_tty_shell"
+    ],
+    [
+      "The terminal, the TTY, and the shell",
+      "https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2026-06-03, 19:07:13",
-      "https://lobste.rs/s/djguny/post_quantum_future_for_let_s_encrypt"
-    ],
-    [
-      "A Post-Quantum Future for Let's Encrypt",
-      "https://letsencrypt.org/2026/06/03/pq-certs.html"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 19:05:36",
       "https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2026-06-03, 11:54:11",
-      "https://lobste.rs/s/mth4mj/pwnd_blaster_hacking_your_pc_using_your"
-    ],
-    [
-      "Pwnd Blaster: Hacking your PC using your speaker without ever touching it",
-      "https://blog.nns.ee/2026/06/03/katana-badusb/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 10:17:28",
       "https://lobste.rs/s/1bie2j/furry_top_level_domain_for_furries"
     ],
@@ -237,16 +247,6 @@
     [
       "rsync and outrage",
       "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 00:22:59",
-      "https://lobste.rs/s/fysuyw/full_disclosure_1_click_github_token"
-    ],
-    [
-      "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug",
-      "https://blog.ammaraskar.com/github-token-stealing/"
     ]
   ]
 ]
