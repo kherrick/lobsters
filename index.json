@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-04, 11:25:40",
+      "https://lobste.rs/s/axxclh/designing_better_podcast_editor"
+    ],
+    [
+      "Designing a better podcast editor",
+      "https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 11:02:21",
+      "https://lobste.rs/s/jdhrhp/rp2040_dma_is_turing_complete_2023"
+    ],
+    [
+      "RP2040 DMA is Turing Complete (2023)",
+      "https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 09:32:30",
       "https://lobste.rs/s/humg0y/what_happened_tab_autocomplete"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-02, 20:57:41",
-      "https://lobste.rs/s/rlt5x6/oils_reviewing_our_nlnet_grants_after_4"
-    ],
-    [
-      "Oils - Reviewing Our NLnet Grants After 4 Years",
-      "https://oils.pub/blog/2026/06/grants.html"
-    ]
-  ],
-  [
-    [
       "2026-06-02, 18:55:14",
       "https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for"
     ],
     [
       "Edsger – a handwritten Clojure REPL for the reMarkable 2",
       "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 16:20:18",
-      "https://lobste.rs/s/6eyhii/iddqd_hardest_kind_unsafe_rust"
-    ],
-    [
-      "iddqd, or the hardest kind of unsafe Rust",
-      "https://oxide.computer/blog/iddqd-unsafe"
     ]
   ]
 ]
