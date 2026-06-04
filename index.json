@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-04, 05:07:24",
+      "https://lobste.rs/s/uw6wmo/floating_point_error_handling_c_what"
+    ],
+    [
+      "Floating-Point Error Handling in C++: What Actually Works",
+      "https://johnnysswlab.com/floating-point-error-handling-in-c-what-actually-works/"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 04:28:44",
+      "https://lobste.rs/s/xwhlul/announcing_mutation_testing_haskell"
+    ],
+    [
+      "Announcing Mutation Testing in Haskell",
+      "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 02:03:57",
+      "https://lobste.rs/s/daaryj/survey_inlining_heuristics"
+    ],
+    [
+      "A survey of inlining heuristics",
+      "https://bernsteinbear.com/blog/inlining-heuristics/"
+    ]
+  ],
+  [
+    [
       "2026-06-03, 20:09:08",
       "https://lobste.rs/s/g6lkw1/my_software_north_star"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2026-06-03, 10:15:13",
-      "https://lobste.rs/s/his6ee/wsl_containers_coreutils_for_windows"
-    ],
-    [
-      "WSL containers, Coreutils for Windows, and agents",
-      "https://blogs.windows.com/windowsdeveloper/2026/06/02/build-2026-furthering-windows-as-the-trusted-platform-for-development/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 07:55:57",
       "https://lobste.rs/s/aw5hgu/revealing_frontier_with_stacks_queues"
     ],
@@ -157,16 +177,6 @@
     [
       "rsync and outrage",
       "https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 04:55:26",
-      "https://lobste.rs/s/xxkmtf/lone_lisp_heap"
-    ],
-    [
-      "The lone lisp heap",
-      "https://www.matheusmoreira.com/articles/lone-lisp-heap"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Edsger – a handwritten Clojure REPL for the reMarkable 2",
       "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 17:39:22",
-      "https://lobste.rs/s/ikkx3r/revo_programming_language"
-    ],
-    [
-      "revo, the programming language",
-      "https://gills.pages.dev/revo/"
     ]
   ],
   [
