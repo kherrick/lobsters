@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-04, 16:21:41",
+      "https://lobste.rs/s/urcpnn/elda_unix_first_system_package_manager"
+    ],
+    [
+      "Elda: Unix-first system package manager in Rust",
+      "https://github.com/Mjoyufull/Elda"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 16:16:07",
+      "https://lobste.rs/s/rhxics/comchan_blazingly_fast_minimal_serial"
+    ],
+    [
+      "ComChan: A Blazingly Fast Minimal Serial Monitor with serial plottter TUI and more",
+      "https://github.com/Vaishnav-Sabari-Girish/ComChan"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 12:33:04",
+      "https://lobste.rs/s/ri4flr/ai_enthusiasts_are_race_against_time_ai"
+    ],
+    [
+      "AI enthusiasts are in a race against time, AI skeptics are in a race against entropy",
+      "https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against"
+    ]
+  ],
+  [
+    [
       "2026-06-04, 11:25:40",
       "https://lobste.rs/s/axxclh/designing_better_podcast_editor"
     ],
@@ -27,16 +57,6 @@
     [
       "What happened to tab autocomplete?",
       "https://lobste.rs/s/humg0y/what_happened_tab_autocomplete"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 07:56:40",
-      "https://lobste.rs/s/m0jxj7/working_open_comms"
-    ],
-    [
-      "Working in the open != comms",
-      "https://gilest.org/notes/2026/open/"
     ]
   ],
   [
@@ -87,6 +107,16 @@
     [
       "Announcing Mutation Testing in Haskell",
       "https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell"
+    ]
+  ],
+  [
+    [
+      "2026-06-04, 02:03:57",
+      "https://lobste.rs/s/daaryj/survey_inlining_heuristics"
+    ],
+    [
+      "A survey of inlining heuristics",
+      "https://bernsteinbear.com/blog/inlining-heuristics/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2026-06-03, 07:55:57",
-      "https://lobste.rs/s/aw5hgu/revealing_frontier_with_stacks_queues"
-    ],
-    [
-      "Revealing the frontier with stacks and queues",
-      "https://dystroy.org/blog/stack-and-queues/"
-    ]
-  ],
-  [
-    [
-      "2026-06-03, 06:59:03",
-      "https://lobste.rs/s/vxveln/gleam_v1_17_single_file_gleam_beam"
-    ],
-    [
-      "Gleam v1.17 - Single file Gleam BEAM programs with escript",
-      "https://gleam.run/news/single-file-gleam-beam-programs-with-escript/"
-    ]
-  ],
-  [
-    [
       "2026-06-03, 05:50:07",
       "https://lobste.rs/s/k1b0za/rsync_outrage"
     ],
@@ -237,16 +247,6 @@
     [
       "Full Disclosure: 1-Click GitHub Token Stealing via a VSCode Bug",
       "https://blog.ammaraskar.com/github-token-stealing/"
-    ]
-  ],
-  [
-    [
-      "2026-06-02, 18:55:14",
-      "https://lobste.rs/s/4u4znq/edsger_handwritten_clojure_repl_for"
-    ],
-    [
-      "Edsger – a handwritten Clojure REPL for the reMarkable 2",
-      "https://handwritten.danieljanus.pl/2026-06-01-edsger.html"
     ]
   ]
 ]
