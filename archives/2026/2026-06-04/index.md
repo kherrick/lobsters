@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 20:20:21](https://lobste.rs/s/aufohg/crashing_cars_improving_hover_detection) - [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)
+* [2026-06-04, 19:47:34](https://lobste.rs/s/cubjpv/reproducible_builds_may_2026) - [Reproducible Builds in May 2026](https://reproducible-builds.org/reports/2026-05/)
+* [2026-06-04, 19:07:50](https://lobste.rs/s/3khvsa/tmux_plugin_quickly_switch_between) - [Tmux plugin to quickly switch between sessions](https://github.com/maxonvim/tmux-underkeys)
 * [2026-06-04, 17:58:36](https://lobste.rs/s/afctwh/diagramming_program_values_by_spatial) - [Diagramming Program Values by Spatial Refinement](https://blog.brownplt.org/2026/05/22/spytial.html)
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
 * [2026-06-04, 16:53:12](https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released) - [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0)
