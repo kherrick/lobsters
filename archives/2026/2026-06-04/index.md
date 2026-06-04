@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
+* [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 20:20:21](https://lobste.rs/s/aufohg/crashing_cars_improving_hover_detection) - [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)
 * [2026-06-04, 19:47:34](https://lobste.rs/s/cubjpv/reproducible_builds_may_2026) - [Reproducible Builds in May 2026](https://reproducible-builds.org/reports/2026-05/)
+* [2026-06-04, 19:39:01](https://lobste.rs/s/eriaol/terminal_tty_shell) - [The terminal, the TTY, and the shell](https://lfg.popovicu.com/series/the-shell-as-a-language/terminal-tty-and-shell/)
 * [2026-06-04, 19:07:50](https://lobste.rs/s/3khvsa/tmux_plugin_quickly_switch_between) - [Tmux plugin to quickly switch between sessions](https://github.com/maxonvim/tmux-underkeys)
 * [2026-06-04, 17:58:36](https://lobste.rs/s/afctwh/diagramming_program_values_by_spatial) - [Diagramming Program Values by Spatial Refinement](https://blog.brownplt.org/2026/05/22/spytial.html)
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
