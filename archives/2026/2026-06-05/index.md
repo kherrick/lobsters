@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+* [2026-06-05, 05:29:28](https://lobste.rs/s/huexha/navigating_fog_war_age_empires_ai_agents) - [Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code](https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html)
 * [2026-06-05, 03:02:01](https://lobste.rs/s/giob6a/ladybird_browser_update_may_2026) - [Ladybird browser update (May 2026)](https://www.youtube.com/watch?v=GZoLy5e8y-4)
 * [2026-06-05, 02:06:52](https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 * [2026-06-05, 01:24:45](https://lobste.rs/s/onbcu5/code_is_cheap_er) - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
