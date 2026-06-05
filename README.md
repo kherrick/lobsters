@@ -1,8 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-05, 03:02:01](https://lobste.rs/s/giob6a/ladybird_browser_update_may_2026) - [Ladybird browser update (May 2026)](https://www.youtube.com/watch?v=GZoLy5e8y-4)
+* [2026-06-05, 02:06:52](https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
+* [2026-06-05, 01:24:45](https://lobste.rs/s/onbcu5/code_is_cheap_er) - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
 * [2026-06-05, 00:53:45](https://lobste.rs/s/pmduqk/when_su_replaced_login_for_becoming) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
 * [2026-06-05, 00:38:53](https://lobste.rs/s/jyuccr/i_was_laid_off_by_atlassian) - [I was laid off by Atlassian](https://youtu.be/55pTFVoclvE)
 * [2026-06-04, 23:25:37](https://lobste.rs/s/mcyag5/learning_j_part_i) - [Learning J – Part I](https://drj11.wordpress.com/2007/04/09/learning-j-part-i/)
+* [2026-06-04, 22:19:28](https://lobste.rs/s/jlw6bq/branchless_quicksort) - [Branchless Quicksort](https://tiki.li/blog/blqsort)
 * [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
 * [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 19:47:34](https://lobste.rs/s/cubjpv/reproducible_builds_may_2026) - [Reproducible Builds in May 2026](https://reproducible-builds.org/reports/2026-05/)
@@ -17,14 +21,10 @@
 * [2026-06-04, 09:32:30](https://lobste.rs/s/humg0y/what_happened_tab_autocomplete) - [What happened to tab autocomplete?](https://lobste.rs/s/humg0y/what_happened_tab_autocomplete)
 * [2026-06-04, 07:52:00](https://lobste.rs/s/7jt1ix/c_standard_library_has_been_walking) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 * [2026-06-04, 07:19:22](https://lobste.rs/s/r7by0p/extension_imitation_can_you_tell_valid) - [Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?](https://doscienceto.it/extension-or-imitation/)
-* [2026-06-04, 04:28:44](https://lobste.rs/s/xwhlul/announcing_mutation_testing_haskell) - [Announcing Mutation Testing in Haskell](https://cs-syd.eu/posts/2026-06-03-mutation-testing-in-haskell)
 * [2026-06-03, 20:09:08](https://lobste.rs/s/g6lkw1/my_software_north_star) - [My Software North Star](https://kristoff.it/blog/north-star/)
 * [2026-06-03, 19:05:36](https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed) - [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
-* [2026-06-03, 17:08:44](https://lobste.rs/s/5wgmnl/safe_made_easy_pt_1_single_ownership_is_not) - [Safe Made Easy Pt.1: Single Ownership is (Not) Optional](https://ergeysay.github.io/safe-made-easy-pt1.html)
-* [2026-06-03, 15:22:33](https://lobste.rs/s/jx44nm/parsing_xml_exif_from_avif_files_plus_rant) - [Parsing XML EXIF from .avif files (plus a rant)](https://sheep.horse/2026/6/parsing_xml_exif_from_.avif_files_(plus_a_rant).html)
 * [2026-06-03, 15:07:10](https://lobste.rs/s/ovbcr4/burntsushi_discusses_personal_medical) - [burntsushi discusses personal medical diagnosis](https://burntsushi.net/encephalitis/)
 * [2026-06-03, 10:17:28](https://lobste.rs/s/1bie2j/furry_top_level_domain_for_furries) - [.furry - A Top-Level Domain for furries](https://www.dotfurry.org/)
-* [2026-06-03, 05:50:07](https://lobste.rs/s/k1b0za/rsync_outrage) - [rsync and outrage](https://medium.com/@tridge60/rsync-and-outrage-d9849599e5a0)
 
 ## [Archives](archives/index.md)
 
