@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-05, 20:28:19](https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable) - [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 17:36:05](https://lobste.rs/s/ehxqv9/using_fedora_silverblue_for_compositor) - [Using Fedora Silverblue for Compositor Development](https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/)
@@ -20,7 +21,6 @@
 * [2026-06-04, 22:19:28](https://lobste.rs/s/jlw6bq/branchless_quicksort) - [Branchless Quicksort](https://tiki.li/blog/blqsort)
 * [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
 * [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
-* [2026-06-04, 19:47:34](https://lobste.rs/s/cubjpv/reproducible_builds_may_2026) - [Reproducible Builds in May 2026](https://reproducible-builds.org/reports/2026-05/)
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
 * [2026-06-04, 16:53:12](https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released) - [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0)
 * [2026-06-04, 07:52:00](https://lobste.rs/s/7jt1ix/c_standard_library_has_been_walking) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)

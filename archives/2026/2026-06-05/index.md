@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 20:28:19](https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable) - [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 17:36:05](https://lobste.rs/s/ehxqv9/using_fedora_silverblue_for_compositor) - [Using Fedora Silverblue for Compositor Development](https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/)
