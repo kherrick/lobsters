@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-05](index.md)
 
+* [2026-06-05, 17:26:44](https://lobste.rs/s/vyk80p/centrality_dns) - [Centrality in the DNS](https://www.potaroo.net/ispcol/2026-05/dns-centrality.html)
+* [2026-06-05, 17:13:13](https://lobste.rs/s/zpjc05/symbolica_2_0_programmable_symbols_for) - [Symbolica 2.0: programmable symbols for Python and Rust](https://symbolica.io/posts/symbolica_2_0_release/)
+* [2026-06-05, 15:54:53](https://lobste.rs/s/btax6j/polyform_licenses) - [PolyForm Licenses](https://polyformproject.org/licenses)
 * [2026-06-05, 13:40:18](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your) - [How do you sieve/filter/manage your internet mail?](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your)
 * [2026-06-05, 13:07:50](https://lobste.rs/s/a7v7e5/empty_field_wasn_t_gps_broadcasts_numbers) - [The Empty Field That Wasn't: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer)
 * [2026-06-05, 11:08:39](https://lobste.rs/s/u9j9u4/pivco_huffman) - [PivCo-Huffman](https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html)
