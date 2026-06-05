@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-05, 20:28:19",
+      "https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable"
+    ],
+    [
+      "pg_durable: PostgreSQL in-database durable execution",
+      "https://github.com/microsoft/pg_durable"
+    ]
+  ],
+  [
+    [
       "2026-06-05, 18:40:29",
       "https://lobste.rs/s/oqlpna/stop_using_conventional_commits"
     ],
@@ -197,16 +207,6 @@
     [
       "IPv6 zones in URLs are a mistake",
       "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 19:47:34",
-      "https://lobste.rs/s/cubjpv/reproducible_builds_may_2026"
-    ],
-    [
-      "Reproducible Builds in May 2026",
-      "https://reproducible-builds.org/reports/2026-05/"
     ]
   ],
   [
