@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-05, 08:57:48](https://lobste.rs/s/vzutqp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzutqp/what_are_you_doing_this_weekend)
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+* [2026-06-05, 06:32:38](https://lobste.rs/s/2bfsek/eu_tech_sovereignty_plan) - [The EU tech sovereignty plan](https://hamishcampbell.com/the-eus-tech-sovereignty-plan/)
+* [2026-06-05, 06:05:53](https://lobste.rs/s/2ofo2s/semantic_reification_new_paradigm_for) - [Semantic Reification: A new paradigm for random program generation](https://connglli.github.io/pdfs/reify_pldi26.pdf)
 * [2026-06-05, 05:29:28](https://lobste.rs/s/huexha/navigating_fog_war_age_empires_ai_agents) - [Navigating the Fog of War: Age of Empires, AI Agents, and the Rise of Dark Code](https://blog.waleson.com/2026/05/navigating-fog-of-war-age-of-empires-ai.html)
 * [2026-06-05, 03:02:01](https://lobste.rs/s/giob6a/ladybird_browser_update_may_2026) - [Ladybird browser update (May 2026)](https://www.youtube.com/watch?v=GZoLy5e8y-4)
 * [2026-06-05, 02:06:52](https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
@@ -18,12 +21,9 @@
 * [2026-06-04, 16:53:12](https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released) - [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0)
 * [2026-06-04, 15:15:36](https://lobste.rs/s/vlan0c/gaussian_point_splatting) - [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
 * [2026-06-04, 12:33:04](https://lobste.rs/s/ri4flr/ai_enthusiasts_are_race_against_time_ai) - [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charitydotwtf.substack.com/p/ai-enthusiasts-are-in-a-race-against)
-* [2026-06-04, 11:25:40](https://lobste.rs/s/axxclh/designing_better_podcast_editor) - [Designing a better podcast editor](https://www.adamsolove.com/ui/ducking/2026/06/03/better-podcast-ui.html)
-* [2026-06-04, 11:02:21](https://lobste.rs/s/jdhrhp/rp2040_dma_is_turing_complete_2023) - [RP2040 DMA is Turing Complete (2023)](https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html)
 * [2026-06-04, 07:52:00](https://lobste.rs/s/7jt1ix/c_standard_library_has_been_walking) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 * [2026-06-04, 07:19:22](https://lobste.rs/s/r7by0p/extension_imitation_can_you_tell_valid) - [Extension or Imitation? Can you tell the valid Haskell Language Extensions, from the Impostors?](https://doscienceto.it/extension-or-imitation/)
 * [2026-06-03, 20:09:08](https://lobste.rs/s/g6lkw1/my_software_north_star) - [My Software North Star](https://kristoff.it/blog/north-star/)
-* [2026-06-03, 19:05:36](https://lobste.rs/s/wq1csk/elixir_v1_20_released_now_gradually_typed) - [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 * [2026-06-03, 15:07:10](https://lobste.rs/s/ovbcr4/burntsushi_discusses_personal_medical) - [burntsushi discusses personal medical diagnosis](https://burntsushi.net/encephalitis/)
 
 ## [Archives](archives/index.md)
