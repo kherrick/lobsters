@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-05, 22:50:44](https://lobste.rs/s/vtlqfy/anatomy_learning_stall) - [The Anatomy of a Learning Stall](https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/)
 * [2026-06-05, 20:28:19](https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable) - [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
@@ -24,7 +25,6 @@
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
 * [2026-06-04, 16:53:12](https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released) - [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0)
 * [2026-06-04, 07:52:00](https://lobste.rs/s/7jt1ix/c_standard_library_has_been_walking) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
-* [2026-06-03, 15:07:10](https://lobste.rs/s/ovbcr4/burntsushi_discusses_personal_medical) - [burntsushi discusses personal medical diagnosis](https://burntsushi.net/encephalitis/)
 
 ## [Archives](archives/index.md)
 
