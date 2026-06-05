@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-04](index.md)
 
+* [2026-06-04, 23:25:37](https://lobste.rs/s/mcyag5/learning_j_part_i) - [Learning J – Part I](https://drj11.wordpress.com/2007/04/09/learning-j-part-i/)
 * [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
 * [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 20:20:21](https://lobste.rs/s/aufohg/crashing_cars_improving_hover_detection) - [Crashing cars and improving hover detection](https://motion.dev/magazine/collision-detection-in-hover-detection)
