@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-06, 11:46:28",
+      "https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node"
+    ],
+    [
+      "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
+      "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 10:29:43",
+      "https://lobste.rs/s/vrwnjw/ai_worm"
+    ],
+    [
+      "AI Worm",
+      "https://arxiv.org/abs/2606.03811"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 10:12:07",
       "https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2026-06-05, 02:06:52",
-      "https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial"
-    ],
-    [
-      "Warren's Abstract Machine: A Tutorial Reconstruction",
-      "https://github.com/a-yiorgos/wambook"
-    ]
-  ],
-  [
-    [
       "2026-06-05, 01:24:45",
       "https://lobste.rs/s/onbcu5/code_is_cheap_er"
     ],
@@ -237,16 +247,6 @@
     [
       "Reviewing code requires reading",
       "https://hauleth.dev/post/review-requires-reading/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 16:53:12",
-      "https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released"
-    ],
-    [
-      "jujutsu v0.42.0 released",
-      "https://github.com/jj-vcs/jj/releases/tag/v0.42.0"
     ]
   ]
 ]
