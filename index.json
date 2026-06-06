@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-06, 13:49:05",
+      "https://lobste.rs/s/cdlumr/url_parser_tester"
+    ],
+    [
+      "URL Parser Tester",
+      "https://timothygu.me/urltester/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 12:46:26",
+      "https://lobste.rs/s/puaytj/open_code_review"
+    ],
+    [
+      "Open Code Review",
+      "https://shaping.systems/blog/open-code-review/"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 12:40:37",
       "https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal"
     ],
@@ -227,26 +247,6 @@
     [
       "A faster bump allocator for rust",
       "https://owen.cafe/posts/stumpalo/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 21:09:47",
-      "https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake"
-    ],
-    [
-      "IPv6 zones in URLs are a mistake",
-      "https://xeiaso.net/notes/2026/ipv6-zones-go-url/"
-    ]
-  ],
-  [
-    [
-      "2026-06-04, 17:37:35",
-      "https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading"
-    ],
-    [
-      "Reviewing code requires reading",
-      "https://hauleth.dev/post/review-requires-reading/"
     ]
   ]
 ]
