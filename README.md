@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-06, 10:12:07](https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural) - [Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
+* [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 07:26:52](https://lobste.rs/s/evgsx7/magecart_skimmer_turns_stripe_into) - [Magecart skimmer turns Stripe into a malware command server](https://sansec.io/research/stripe-api-skimmer-infrastructure)
-* [2026-06-06, 03:28:53](https://lobste.rs/s/icyhpt/zml_model_metal) - [ZML: Model to Metal](https://zml.ai/)
 * [2026-06-06, 03:25:28](https://lobste.rs/s/oazsak/total_reciprocity_public_license) - [Total Reciprocity Public License](https://trplfoundation.org/)
 * [2026-06-06, 03:13:13](https://lobste.rs/s/tmzmta/announcement_from_steering_council) - [An announcement from the Steering Council regarding the JIT project](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 * [2026-06-06, 02:37:28](https://lobste.rs/s/eetcxi/smallest_c_binary) - [The smallest C binary](https://blog.weineng.me/posts/smallest_c/)
@@ -20,7 +21,6 @@
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 02:06:52](https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 * [2026-06-05, 01:24:45](https://lobste.rs/s/onbcu5/code_is_cheap_er) - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
-* [2026-06-05, 00:53:45](https://lobste.rs/s/pmduqk/when_su_replaced_login_for_becoming) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
 * [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
 * [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
