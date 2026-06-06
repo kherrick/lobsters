@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-06, 03:28:53](https://lobste.rs/s/icyhpt/zml_model_metal) - [ZML: Model to Metal](https://zml.ai/)
+* [2026-06-06, 03:25:28](https://lobste.rs/s/oazsak/total_reciprocity_public_license) - [Total Reciprocity Public License](https://trplfoundation.org/)
+* [2026-06-06, 03:13:13](https://lobste.rs/s/tmzmta/announcement_from_steering_council) - [An announcement from the Steering Council regarding the JIT project](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
+* [2026-06-06, 02:37:28](https://lobste.rs/s/eetcxi/smallest_c_binary) - [The smallest C binary](https://blog.weineng.me/posts/smallest_c/)
 * [2026-06-05, 22:50:44](https://lobste.rs/s/vtlqfy/anatomy_learning_stall) - [The Anatomy of a Learning Stall](https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/)
 * [2026-06-05, 20:28:19](https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable) - [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
@@ -13,18 +17,14 @@
 * [2026-06-05, 11:08:39](https://lobste.rs/s/u9j9u4/pivco_huffman) - [PivCo-Huffman](https://marcinzukowski.github.io/pivco-huffman/paper-1.0/ph.html)
 * [2026-06-05, 08:57:48](https://lobste.rs/s/vzutqp/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/vzutqp/what_are_you_doing_this_weekend)
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
-* [2026-06-05, 06:32:38](https://lobste.rs/s/2bfsek/eu_tech_sovereignty_plan) - [The EU tech sovereignty plan](https://hamishcampbell.com/the-eus-tech-sovereignty-plan/)
 * [2026-06-05, 02:06:52](https://lobste.rs/s/y6a6cg/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction](https://github.com/a-yiorgos/wambook)
 * [2026-06-05, 01:24:45](https://lobste.rs/s/onbcu5/code_is_cheap_er) - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
 * [2026-06-05, 00:53:45](https://lobste.rs/s/pmduqk/when_su_replaced_login_for_becoming) - [When su replaced login for becoming another Unix login](https://utcc.utoronto.ca/~cks/space/blog/unix/SuAsLoginReplacement)
-* [2026-06-05, 00:38:53](https://lobste.rs/s/jyuccr/i_was_laid_off_by_atlassian) - [I was laid off by Atlassian](https://youtu.be/55pTFVoclvE)
-* [2026-06-04, 23:25:37](https://lobste.rs/s/mcyag5/learning_j_part_i) - [Learning J – Part I](https://drj11.wordpress.com/2007/04/09/learning-j-part-i/)
 * [2026-06-04, 22:19:28](https://lobste.rs/s/jlw6bq/branchless_quicksort) - [Branchless Quicksort](https://tiki.li/blog/blqsort)
 * [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
 * [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
 * [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
 * [2026-06-04, 16:53:12](https://lobste.rs/s/jqkedb/jujutsu_v0_42_0_released) - [jujutsu v0.42.0 released](https://github.com/jj-vcs/jj/releases/tag/v0.42.0)
-* [2026-06-04, 07:52:00](https://lobste.rs/s/7jt1ix/c_standard_library_has_been_walking) - [The C++ Standard Library Has Been Walking Itself Back for Fifteen Years, and the Receipts Are Public](https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public)
 
 ## [Archives](archives/index.md)
 
