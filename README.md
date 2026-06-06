@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-06, 13:49:05](https://lobste.rs/s/cdlumr/url_parser_tester) - [URL Parser Tester](https://timothygu.me/urltester/)
+* [2026-06-06, 12:46:26](https://lobste.rs/s/puaytj/open_code_review) - [Open Code Review](https://shaping.systems/blog/open-code-review/)
 * [2026-06-06, 12:40:37](https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
 * [2026-06-06, 12:31:19](https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
@@ -23,8 +25,6 @@
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 * [2026-06-05, 01:24:45](https://lobste.rs/s/onbcu5/code_is_cheap_er) - [Code is Cheap(er)](https://htmx.org/essays/code-is-cheap/)
 * [2026-06-04, 21:27:13](https://lobste.rs/s/vta6wp/faster_bump_allocator_for_rust) - [A faster bump allocator for rust](https://owen.cafe/posts/stumpalo/)
-* [2026-06-04, 21:09:47](https://lobste.rs/s/lcnc5e/ipv6_zones_urls_are_mistake) - [IPv6 zones in URLs are a mistake](https://xeiaso.net/notes/2026/ipv6-zones-go-url/)
-* [2026-06-04, 17:37:35](https://lobste.rs/s/hb1s2k/reviewing_code_requires_reading) - [Reviewing code requires reading](https://hauleth.dev/post/review-requires-reading/)
 
 ## [Archives](archives/index.md)
 

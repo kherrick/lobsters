@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 13:49:05](https://lobste.rs/s/cdlumr/url_parser_tester) - [URL Parser Tester](https://timothygu.me/urltester/)
+* [2026-06-06, 12:46:26](https://lobste.rs/s/puaytj/open_code_review) - [Open Code Review](https://shaping.systems/blog/open-code-review/)
 * [2026-06-06, 12:40:37](https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
 * [2026-06-06, 12:31:19](https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
