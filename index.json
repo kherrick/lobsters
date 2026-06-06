@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-06, 21:08:43",
+      "https://lobste.rs/s/tnztgf/treehouse_isolate_multple_dev"
+    ],
+    [
+      "Treehouse – isolate multple dev environments on different Git worktrees",
+      "https://github.com/stemps/treehouse"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 21:03:44",
+      "https://lobste.rs/s/6ke1sq/orchard_security_bug"
+    ],
+    [
+      "Orchard Security Bug",
+      "https://drive.google.com/file/d/1SVK41y-ip3Vw9eB69E9QRy-Qn3idTOwV/view"
+    ]
+  ],
+  [
+    [
       "2026-06-06, 20:19:23",
       "https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2026-06-06, 19:37:24",
-      "https://lobste.rs/s/fexkdk/ast_matchers_clang_refactoring_tools"
+      "2026-06-06, 19:06:11",
+      "https://lobste.rs/s/xlvtoc/z2d_pure_zig_2d_graphics_library"
     ],
     [
-      "AST matchers and Clang refactoring tools (2014)",
-      "https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools"
+      "z2d: Pure Zig 2D graphics library",
+      "https://github.com/vancluever/z2d"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "AI Worm",
       "https://arxiv.org/abs/2606.03811"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 10:12:07",
-      "https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural"
-    ],
-    [
-      "Language models transmit behavioural traits through hidden signals in data",
-      "https://www.nature.com/articles/s41586-026-10319-8"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "How do you sieve/filter/manage your internet mail?",
       "https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your"
-    ]
-  ],
-  [
-    [
-      "2026-06-05, 13:07:50",
-      "https://lobste.rs/s/a7v7e5/empty_field_wasn_t_gps_broadcasts_numbers"
-    ],
-    [
-      "The Empty Field That Wasn't: GPS Broadcasts a Numbers Station",
-      "https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer"
     ]
   ],
   [
