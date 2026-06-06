@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 12:40:37](https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
+* [2026-06-06, 12:31:19](https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 * [2026-06-06, 10:29:43](https://lobste.rs/s/vrwnjw/ai_worm) - [AI Worm](https://arxiv.org/abs/2606.03811)
 * [2026-06-06, 10:12:07](https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural) - [Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
