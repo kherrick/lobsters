@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
+* [2026-06-06, 10:29:43](https://lobste.rs/s/vrwnjw/ai_worm) - [AI Worm](https://arxiv.org/abs/2606.03811)
 * [2026-06-06, 10:12:07](https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural) - [Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 07:26:52](https://lobste.rs/s/evgsx7/magecart_skimmer_turns_stripe_into) - [Magecart skimmer turns Stripe into a malware command server](https://sansec.io/research/stripe-api-skimmer-infrastructure)
