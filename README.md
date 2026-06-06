@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-06, 14:51:03](https://lobste.rs/s/yfj5qc/ergonomic_overrides_for_nixpkgs) - [Ergonomic overrides for Nixpkgs](https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs)
 * [2026-06-06, 13:49:05](https://lobste.rs/s/cdlumr/url_parser_tester) - [URL Parser Tester](https://timothygu.me/urltester/)
 * [2026-06-06, 12:46:26](https://lobste.rs/s/puaytj/open_code_review) - [Open Code Review](https://shaping.systems/blog/open-code-review/)
 * [2026-06-06, 12:40:37](https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
@@ -13,7 +14,6 @@
 * [2026-06-06, 03:13:13](https://lobste.rs/s/tmzmta/announcement_from_steering_council) - [An announcement from the Steering Council regarding the JIT project](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 * [2026-06-06, 02:37:28](https://lobste.rs/s/eetcxi/smallest_c_binary) - [The smallest C binary](https://blog.weineng.me/posts/smallest_c/)
 * [2026-06-05, 22:50:44](https://lobste.rs/s/vtlqfy/anatomy_learning_stall) - [The Anatomy of a Learning Stall](https://tagide.com/blog/llm/the-anatomy-of-a-learning-stall/)
-* [2026-06-05, 20:28:19](https://lobste.rs/s/k9wvkn/pg_durable_postgresql_database_durable) - [pg_durable: PostgreSQL in-database durable execution](https://github.com/microsoft/pg_durable)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 17:36:05](https://lobste.rs/s/ehxqv9/using_fedora_silverblue_for_compositor) - [Using Fedora Silverblue for Compositor Development](https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/)

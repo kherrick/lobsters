@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 14:51:03](https://lobste.rs/s/yfj5qc/ergonomic_overrides_for_nixpkgs) - [Ergonomic overrides for Nixpkgs](https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs)
 * [2026-06-06, 13:49:05](https://lobste.rs/s/cdlumr/url_parser_tester) - [URL Parser Tester](https://timothygu.me/urltester/)
 * [2026-06-06, 12:46:26](https://lobste.rs/s/puaytj/open_code_review) - [Open Code Review](https://shaping.systems/blog/open-code-review/)
 * [2026-06-06, 12:40:37](https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
