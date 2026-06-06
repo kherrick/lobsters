@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-06, 21:08:43](https://lobste.rs/s/tnztgf/treehouse_isolate_multple_dev) - [Treehouse – isolate multple dev environments on different Git worktrees](https://github.com/stemps/treehouse)
+* [2026-06-06, 21:03:44](https://lobste.rs/s/6ke1sq/orchard_security_bug) - [Orchard Security Bug](https://drive.google.com/file/d/1SVK41y-ip3Vw9eB69E9QRy-Qn3idTOwV/view)
 * [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
 * [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
-* [2026-06-06, 19:37:24](https://lobste.rs/s/fexkdk/ast_matchers_clang_refactoring_tools) - [AST matchers and Clang refactoring tools (2014)](https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools)
+* [2026-06-06, 19:06:11](https://lobste.rs/s/xlvtoc/z2d_pure_zig_2d_graphics_library) - [z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d)
 * [2026-06-06, 19:03:31](https://lobste.rs/s/h22iaq/running_python_code_sandbox_with) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 18:56:59](https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3) - [Getting silly with C, part &((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
 * [2026-06-06, 18:38:04](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law) - [A Little Explanation of Little's Law](https://rugu.dev/en/blog/littles-law/)
@@ -12,7 +14,6 @@
 * [2026-06-06, 12:31:19](https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 * [2026-06-06, 10:29:43](https://lobste.rs/s/vrwnjw/ai_worm) - [AI Worm](https://arxiv.org/abs/2606.03811)
-* [2026-06-06, 10:12:07](https://lobste.rs/s/wv1dx8/language_models_transmit_behavioural) - [Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 07:26:52](https://lobste.rs/s/evgsx7/magecart_skimmer_turns_stripe_into) - [Magecart skimmer turns Stripe into a malware command server](https://sansec.io/research/stripe-api-skimmer-infrastructure)
 * [2026-06-06, 03:25:28](https://lobste.rs/s/oazsak/total_reciprocity_public_license) - [Total Reciprocity Public License](https://trplfoundation.org/)
@@ -23,7 +24,6 @@
 * [2026-06-05, 17:36:05](https://lobste.rs/s/ehxqv9/using_fedora_silverblue_for_compositor) - [Using Fedora Silverblue for Compositor Development](https://bxt.rs/blog/using-fedora-silverblue-for-compositor-development/)
 * [2026-06-05, 15:54:53](https://lobste.rs/s/btax6j/polyform_licenses) - [PolyForm Licenses](https://polyformproject.org/licenses)
 * [2026-06-05, 13:40:18](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your) - [How do you sieve/filter/manage your internet mail?](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your)
-* [2026-06-05, 13:07:50](https://lobste.rs/s/a7v7e5/empty_field_wasn_t_gps_broadcasts_numbers) - [The Empty Field That Wasn't: GPS Broadcasts a Numbers Station](https://lsc-pagepro.mydigitalpublication.com/publication/?i=865273&p=62&view=issueViewer)
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 
 ## [Archives](archives/index.md)

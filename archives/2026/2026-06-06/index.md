@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-06](index.md)
 
+* [2026-06-06, 21:08:43](https://lobste.rs/s/tnztgf/treehouse_isolate_multple_dev) - [Treehouse – isolate multple dev environments on different Git worktrees](https://github.com/stemps/treehouse)
+* [2026-06-06, 21:03:44](https://lobste.rs/s/6ke1sq/orchard_security_bug) - [Orchard Security Bug](https://drive.google.com/file/d/1SVK41y-ip3Vw9eB69E9QRy-Qn3idTOwV/view)
 * [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
 * [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
 * [2026-06-06, 19:37:24](https://lobste.rs/s/fexkdk/ast_matchers_clang_refactoring_tools) - [AST matchers and Clang refactoring tools (2014)](https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools)
