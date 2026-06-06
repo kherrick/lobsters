@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
+* [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
 * [2026-06-06, 19:37:24](https://lobste.rs/s/fexkdk/ast_matchers_clang_refactoring_tools) - [AST matchers and Clang refactoring tools (2014)](https://eli.thegreenplace.net/2014/07/29/ast-matchers-and-clang-refactoring-tools)
-* [2026-06-06, 19:17:18](https://lobste.rs/s/3kniw7/mxc_internals_how_microsoft_s_execution) - [MXC Internals: How Microsoft's eXecution Containers Actually Isolate Agent Code](https://www.originhq.com/research/mxc-execution-containers-internals)
-* [2026-06-06, 19:06:11](https://lobste.rs/s/xlvtoc/z2d_pure_zig_2d_graphics_library) - [z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d)
 * [2026-06-06, 19:03:31](https://lobste.rs/s/h22iaq/running_python_code_sandbox_with) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 18:56:59](https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3) - [Getting silly with C, part &((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
 * [2026-06-06, 18:38:04](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law) - [A Little Explanation of Little's Law](https://rugu.dev/en/blog/littles-law/)
