@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-07, 18:45:28](https://lobste.rs/s/qyr73e/verifying_proc) - [verifying /proc](https://bal-e.org/blog/2026/verifying-proc/)
 * [2026-06-07, 17:41:49](https://lobste.rs/s/aml5vb/entropy) - [Entropy](https://arch.dog/bark/entropy)
 * [2026-06-07, 17:34:52](https://lobste.rs/s/3jks7l/recapping_london_mercurial_sprint) - [Recapping the London Mercurial sprint](https://mercurial-scm.org/news/2026/0005-london-sprint-recap)
 * [2026-06-07, 12:59:03](https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings) - [SIGBOVIK 2026 Conference Proceedings](https://sigbovik.org/2026/proceedings.pdf)
@@ -9,7 +10,6 @@
 * [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
-* [2026-06-07, 05:30:14](https://lobste.rs/s/wpv9ug/12_commandments_synchronization) - [The 12 Commandments of Synchronization](https://www.cs.cornell.edu/courses/cs4410/2012fa/papers/commandments.pdf)
 * [2026-06-07, 04:41:51](https://lobste.rs/s/jecmzc/guix_nix_abomination_leveraging_guix) - [The Guix Nix Abomination: Leveraging Guix derivations in Nix](https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix)
 * [2026-06-07, 03:16:34](https://lobste.rs/s/ez5plg/thoughts_on_starting_new_projects_with) - [Thoughts on starting new projects with LLM agents](https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/)
 * [2026-06-07, 02:26:56](https://lobste.rs/s/8tr6xi/moving_beyond_fork_exec) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
