@@ -7,6 +7,7 @@
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 * [2026-06-07, 05:30:14](https://lobste.rs/s/wpv9ug/12_commandments_synchronization) - [The 12 Commandments of Synchronization](https://www.cs.cornell.edu/courses/cs4410/2012fa/papers/commandments.pdf)
+* [2026-06-07, 04:49:58](https://lobste.rs/s/dmcanq/sdl_net_3_2_0_is_out) - [SDL_net 3.2.0 is out](https://github.com/libsdl-org/SDL_net/releases/tag/release-3.2.0)
 * [2026-06-07, 04:41:51](https://lobste.rs/s/jecmzc/guix_nix_abomination_leveraging_guix) - [The Guix Nix Abomination: Leveraging Guix derivations in Nix](https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix)
 * [2026-06-07, 03:16:34](https://lobste.rs/s/ez5plg/thoughts_on_starting_new_projects_with) - [Thoughts on starting new projects with LLM agents](https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/)
 * [2026-06-07, 02:26:56](https://lobste.rs/s/8tr6xi/moving_beyond_fork_exec) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
@@ -23,7 +24,6 @@
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 03:25:28](https://lobste.rs/s/oazsak/total_reciprocity_public_license) - [Total Reciprocity Public License](https://trplfoundation.org/)
-* [2026-06-06, 02:37:28](https://lobste.rs/s/eetcxi/smallest_c_binary) - [The smallest C++ binary](https://blog.weineng.me/posts/smallest_c/)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 
 ## [Archives](archives/index.md)
