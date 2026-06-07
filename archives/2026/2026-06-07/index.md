@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 20:48:13](https://lobste.rs/s/ge95n8/gleam_value_small) - [Gleam and the value of small](https://www.youtube.com/watch?v=E6_JqYMeNqs)
 * [2026-06-07, 19:34:27](https://lobste.rs/s/virlcj/making_game_visual_studio_from_1997) - [Making a game in Visual Studio from 1997](https://www.youtube.com/watch?v=nQrzB5P5NPE)
 * [2026-06-07, 18:45:28](https://lobste.rs/s/qyr73e/verifying_proc) - [verifying /proc](https://bal-e.org/blog/2026/verifying-proc/)
 * [2026-06-07, 18:38:04](https://lobste.rs/s/fmkvwk/dancing_mad_with_sandboxing) - [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/)
