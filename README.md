@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-07, 01:30:53](https://lobste.rs/s/th8a3c/harness_engineering_leveraging_codex) - [Harness engineering: leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
+* [2026-06-07, 00:53:58](https://lobste.rs/s/pumnjn/how_llms_actually_work) - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)
 * [2026-06-06, 21:08:43](https://lobste.rs/s/tnztgf/treehouse_isolate_multple_dev) - [Treehouse – isolate multple dev environments on different Git worktrees](https://github.com/stemps/treehouse)
 * [2026-06-06, 21:03:44](https://lobste.rs/s/6ke1sq/orchard_security_bug) - [Orchard Security Bug](https://drive.google.com/file/d/1SVK41y-ip3Vw9eB69E9QRy-Qn3idTOwV/view)
 * [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
 * [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
-* [2026-06-06, 19:17:18](https://lobste.rs/s/3kniw7/mxc_internals_how_microsoft_s_execution) - [MXC Internals: How Microsoft's eXecution Containers Actually Isolate Agent Code](https://www.originhq.com/research/mxc-execution-containers-internals)
 * [2026-06-06, 19:06:11](https://lobste.rs/s/xlvtoc/z2d_pure_zig_2d_graphics_library) - [z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d)
 * [2026-06-06, 19:03:31](https://lobste.rs/s/h22iaq/running_python_code_sandbox_with) - [Running Python code in a sandbox with MicroPython and WASM](https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/)
 * [2026-06-06, 18:56:59](https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3) - [Getting silly with C, part &((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
@@ -23,7 +24,6 @@
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 * [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 * [2026-06-05, 15:54:53](https://lobste.rs/s/btax6j/polyform_licenses) - [PolyForm Licenses](https://polyformproject.org/licenses)
-* [2026-06-05, 13:40:18](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your) - [How do you sieve/filter/manage your internet mail?](https://lobste.rs/s/dku5yb/how_do_you_sieve_filter_manage_your)
 * [2026-06-05, 08:27:32](https://lobste.rs/s/db2owo/changing_how_we_develop_ladybird) - [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
 
 ## [Archives](archives/index.md)
