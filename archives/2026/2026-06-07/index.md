@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 19:34:27](https://lobste.rs/s/virlcj/making_game_visual_studio_from_1997) - [Making a game in Visual Studio from 1997](https://www.youtube.com/watch?v=nQrzB5P5NPE)
 * [2026-06-07, 18:45:28](https://lobste.rs/s/qyr73e/verifying_proc) - [verifying /proc](https://bal-e.org/blog/2026/verifying-proc/)
+* [2026-06-07, 18:38:04](https://lobste.rs/s/fmkvwk/dancing_mad_with_sandboxing) - [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/)
+* [2026-06-07, 18:35:42](https://lobste.rs/s/i9o3xt/image_compression) - [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 * [2026-06-07, 17:41:49](https://lobste.rs/s/aml5vb/entropy) - [Entropy](https://arch.dog/bark/entropy)
 * [2026-06-07, 17:34:52](https://lobste.rs/s/3jks7l/recapping_london_mercurial_sprint) - [Recapping the London Mercurial sprint](https://mercurial-scm.org/news/2026/0005-london-sprint-recap)
 * [2026-06-07, 12:59:03](https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings) - [SIGBOVIK 2026 Conference Proceedings](https://sigbovik.org/2026/proceedings.pdf)

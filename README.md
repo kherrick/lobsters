@@ -1,6 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-07, 19:34:27](https://lobste.rs/s/virlcj/making_game_visual_studio_from_1997) - [Making a game in Visual Studio from 1997](https://www.youtube.com/watch?v=nQrzB5P5NPE)
 * [2026-06-07, 18:45:28](https://lobste.rs/s/qyr73e/verifying_proc) - [verifying /proc](https://bal-e.org/blog/2026/verifying-proc/)
+* [2026-06-07, 18:38:04](https://lobste.rs/s/fmkvwk/dancing_mad_with_sandboxing) - [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/)
+* [2026-06-07, 18:35:42](https://lobste.rs/s/i9o3xt/image_compression) - [Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 * [2026-06-07, 17:41:49](https://lobste.rs/s/aml5vb/entropy) - [Entropy](https://arch.dog/bark/entropy)
 * [2026-06-07, 17:34:52](https://lobste.rs/s/3jks7l/recapping_london_mercurial_sprint) - [Recapping the London Mercurial sprint](https://mercurial-scm.org/news/2026/0005-london-sprint-recap)
 * [2026-06-07, 12:59:03](https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings) - [SIGBOVIK 2026 Conference Proceedings](https://sigbovik.org/2026/proceedings.pdf)
@@ -16,15 +19,12 @@
 * [2026-06-07, 02:03:52](https://lobste.rs/s/e0vpej/diy_kobo_annotation_backup) - [DIY Kobo annotation backup](https://kghose.github.io/2026/06/06/kobo-annotations.html)
 * [2026-06-07, 00:53:58](https://lobste.rs/s/pumnjn/how_llms_actually_work) - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)
 * [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
-* [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
 * [2026-06-06, 18:56:59](https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3) - [Getting silly with C, part &((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
-* [2026-06-06, 18:38:04](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law) - [A Little Explanation of Little's Law](https://rugu.dev/en/blog/littles-law/)
 * [2026-06-06, 14:51:03](https://lobste.rs/s/yfj5qc/ergonomic_overrides_for_nixpkgs) - [Ergonomic overrides for Nixpkgs](https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs)
 * [2026-06-06, 12:40:37](https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal) - [Life is too short for a slow terminal](https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/)
 * [2026-06-06, 12:31:19](https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so) - [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](https://arxiv.org/pdf/2605.31514)
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
-* [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
 
 ## [Archives](archives/index.md)
 
