@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-07, 12:59:03",
+      "https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings"
+    ],
+    [
+      "SIGBOVIK 2026 Conference Proceedings",
+      "https://sigbovik.org/2026/proceedings.pdf"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 12:01:03",
       "https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2026-06-07, 04:49:58",
-      "https://lobste.rs/s/dmcanq/sdl_net_3_2_0_is_out"
-    ],
-    [
-      "SDL_net 3.2.0 is out",
-      "https://github.com/libsdl-org/SDL_net/releases/tag/release-3.2.0"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 04:41:51",
       "https://lobste.rs/s/jecmzc/guix_nix_abomination_leveraging_guix"
     ],
@@ -127,16 +127,6 @@
     [
       "How LLMs Actually Work",
       "https://0xkato.xyz/how-llms-actually-work/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 21:08:43",
-      "https://lobste.rs/s/tnztgf/treehouse_isolate_multple_dev"
-    ],
-    [
-      "Treehouse – isolate multple dev environments on different Git worktrees",
-      "https://github.com/stemps/treehouse"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Total Reciprocity Public License",
       "https://trplfoundation.org/"
+    ]
+  ],
+  [
+    [
+      "2026-06-06, 02:37:28",
+      "https://lobste.rs/s/eetcxi/smallest_c_binary"
+    ],
+    [
+      "The smallest C++ binary",
+      "https://blog.weineng.me/posts/smallest_c/"
     ]
   ],
   [
