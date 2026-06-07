@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-07, 12:01:03](https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do) - [Why Queues Don’t Fix Overload (And What To Do Instead)](https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead)
+* [2026-06-07, 11:48:48](https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should) - [The User Doesn't Care - But you should](https://lewiscampbell.tech/blog/260607.html)
+* [2026-06-07, 09:59:09](https://lobste.rs/s/hkgeeo/mold_desktop) - [mold-desktop](https://codeberg.org/mmontone/mold-desktop)
 * [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
@@ -12,7 +15,6 @@
 * [2026-06-06, 21:08:43](https://lobste.rs/s/tnztgf/treehouse_isolate_multple_dev) - [Treehouse – isolate multple dev environments on different Git worktrees](https://github.com/stemps/treehouse)
 * [2026-06-06, 20:19:23](https://lobste.rs/s/fccz7i/it_doesn_t_always_have_be_linux) - [It doesn’t always have to be Linux](https://media.ccc.de/v/gpn24-611-it-doesn-t-always-have-to-be-linux-an-intro-to-freebsd)
 * [2026-06-06, 20:18:32](https://lobste.rs/s/1nojpo/ntsc_rs_accurate_vhs_video_effect) - [ntsc-rs - an accurate VHS video effect](https://ntsc.rs/)
-* [2026-06-06, 19:06:11](https://lobste.rs/s/xlvtoc/z2d_pure_zig_2d_graphics_library) - [z2d: Pure Zig 2D graphics library](https://github.com/vancluever/z2d)
 * [2026-06-06, 18:56:59](https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3) - [Getting silly with C, part &((int*)-8)[3]](https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1)
 * [2026-06-06, 18:38:04](https://lobste.rs/s/bcrtaz/little_explanation_little_s_law) - [A Little Explanation of Little's Law](https://rugu.dev/en/blog/littles-law/)
 * [2026-06-06, 14:51:03](https://lobste.rs/s/yfj5qc/ergonomic_overrides_for_nixpkgs) - [Ergonomic overrides for Nixpkgs](https://haskellforall.com/2026/06/ergonomic-overrides-for-nixpkgs)
@@ -21,10 +23,8 @@
 * [2026-06-06, 11:46:28](https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node) - [The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy](https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/)
 * [2026-06-06, 08:08:45](https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite) - [The perils of UUID primary keys in SQLite](https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html)
 * [2026-06-06, 03:25:28](https://lobste.rs/s/oazsak/total_reciprocity_public_license) - [Total Reciprocity Public License](https://trplfoundation.org/)
-* [2026-06-06, 03:13:13](https://lobste.rs/s/tmzmta/announcement_from_steering_council) - [An announcement from the Steering Council regarding the JIT project](https://discuss.python.org/t/an-announcement-from-the-steering-council-regarding-the-jit-project/107638)
 * [2026-06-06, 02:37:28](https://lobste.rs/s/eetcxi/smallest_c_binary) - [The smallest C++ binary](https://blog.weineng.me/posts/smallest_c/)
 * [2026-06-05, 18:40:29](https://lobste.rs/s/oqlpna/stop_using_conventional_commits) - [Stop Using Conventional Commits](https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/)
-* [2026-06-05, 18:14:42](https://lobste.rs/s/mf5ryi/did_claude_increase_bugs_rsync) - [Did Claude Increase Bugs in rsync?](https://alexispurslane.github.io/rsync-analysis/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 12:01:03](https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do) - [Why Queues Don’t Fix Overload (And What To Do Instead)](https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead)
+* [2026-06-07, 11:48:48](https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should) - [The User Doesn't Care - But you should](https://lewiscampbell.tech/blog/260607.html)
+* [2026-06-07, 09:59:09](https://lobste.rs/s/hkgeeo/mold_desktop) - [mold-desktop](https://codeberg.org/mmontone/mold-desktop)
 * [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
