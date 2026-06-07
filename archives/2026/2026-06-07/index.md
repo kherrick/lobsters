@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 12:59:03](https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings) - [SIGBOVIK 2026 Conference Proceedings](https://sigbovik.org/2026/proceedings.pdf)
 * [2026-06-07, 12:01:03](https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do) - [Why Queues Don’t Fix Overload (And What To Do Instead)](https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead)
 * [2026-06-07, 11:48:48](https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should) - [The User Doesn't Care - But you should](https://lewiscampbell.tech/blog/260607.html)
 * [2026-06-07, 09:59:09](https://lobste.rs/s/hkgeeo/mold_desktop) - [mold-desktop](https://codeberg.org/mmontone/mold-desktop)
