@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
+* [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
+* [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 * [2026-06-07, 05:30:14](https://lobste.rs/s/wpv9ug/12_commandments_synchronization) - [The 12 Commandments of Synchronization](https://www.cs.cornell.edu/courses/cs4410/2012fa/papers/commandments.pdf)
 * [2026-06-07, 04:49:58](https://lobste.rs/s/dmcanq/sdl_net_3_2_0_is_out) - [SDL_net 3.2.0 is out](https://github.com/libsdl-org/SDL_net/releases/tag/release-3.2.0)
 * [2026-06-07, 04:41:51](https://lobste.rs/s/jecmzc/guix_nix_abomination_leveraging_guix) - [The Guix Nix Abomination: Leveraging Guix derivations in Nix](https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix)
