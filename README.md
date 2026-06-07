@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-07, 21:24:55](https://lobste.rs/s/otyrox/april_servo_new_android_ui_focus_forms) - [April in Servo: new Android UI, focus, forms, security fixes, and more](https://servo.org/blog/2026/05/31/april-in-servo/)
 * [2026-06-07, 20:48:13](https://lobste.rs/s/ge95n8/gleam_value_small) - [Gleam and the value of small](https://www.youtube.com/watch?v=E6_JqYMeNqs)
 * [2026-06-07, 19:34:27](https://lobste.rs/s/virlcj/making_game_visual_studio_from_1997) - [Making a game in Visual Studio from 1997](https://www.youtube.com/watch?v=nQrzB5P5NPE)
 * [2026-06-07, 18:45:28](https://lobste.rs/s/qyr73e/verifying_proc) - [verifying /proc](https://bal-e.org/blog/2026/verifying-proc/)
@@ -14,7 +15,6 @@
 * [2026-06-07, 07:47:40](https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management) - [Exploring automatic Buffer Management with io_uring](https://noteflakes.com/articles/2026-06-07-automatic-buffer-management)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 * [2026-06-07, 04:41:51](https://lobste.rs/s/jecmzc/guix_nix_abomination_leveraging_guix) - [The Guix Nix Abomination: Leveraging Guix derivations in Nix](https://fzakaria.com/2026/06/05/the-guix-nix-abomination-leveraging-guix-derivations-in-nix)
-* [2026-06-07, 03:16:34](https://lobste.rs/s/ez5plg/thoughts_on_starting_new_projects_with) - [Thoughts on starting new projects with LLM agents](https://eli.thegreenplace.net/2026/thoughts-on-starting-new-projects-with-llm-agents/)
 * [2026-06-07, 02:26:56](https://lobste.rs/s/8tr6xi/moving_beyond_fork_exec) - [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
 * [2026-06-07, 02:03:52](https://lobste.rs/s/e0vpej/diy_kobo_annotation_backup) - [DIY Kobo annotation backup](https://kghose.github.io/2026/06/06/kobo-annotations.html)
 * [2026-06-07, 00:53:58](https://lobste.rs/s/pumnjn/how_llms_actually_work) - [How LLMs Actually Work](https://0xkato.xyz/how-llms-actually-work/)
