@@ -1,22 +1,42 @@
 [
   [
     [
+      "2026-06-07, 08:12:40",
+      "https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c"
+    ],
+    [
+      "Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)",
+      "https://www.ioccc.org/2025/"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 07:47:40",
+      "https://lobste.rs/s/cxvlob/exploring_automatic_buffer_management"
+    ],
+    [
+      "Exploring automatic Buffer Management with io_uring",
+      "https://noteflakes.com/articles/2026-06-07-automatic-buffer-management"
+    ]
+  ],
+  [
+    [
+      "2026-06-07, 07:27:26",
+      "https://lobste.rs/s/ly0vif/my_students"
+    ],
+    [
+      "To my students",
+      "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 05:30:14",
       "https://lobste.rs/s/wpv9ug/12_commandments_synchronization"
     ],
     [
       "The 12 Commandments of Synchronization",
       "https://www.cs.cornell.edu/courses/cs4410/2012fa/papers/commandments.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 04:49:58",
-      "https://lobste.rs/s/dmcanq/sdl_net_3_2_0_is_out"
-    ],
-    [
-      "SDL_net 3.2.0 is out",
-      "https://github.com/libsdl-org/SDL_net/releases/tag/release-3.2.0"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-06, 13:49:05",
-      "https://lobste.rs/s/cdlumr/url_parser_tester"
-    ],
-    [
-      "URL Parser Tester",
-      "https://timothygu.me/urltester/"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 12:40:37",
       "https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal"
     ],
@@ -177,16 +187,6 @@
     [
       "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
       "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 10:29:43",
-      "https://lobste.rs/s/vrwnjw/ai_worm"
-    ],
-    [
-      "AI Worm",
-      "https://arxiv.org/abs/2606.03811"
     ]
   ],
   [
