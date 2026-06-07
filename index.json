@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2026-06-07, 04:49:58",
+      "https://lobste.rs/s/dmcanq/sdl_net_3_2_0_is_out"
+    ],
+    [
+      "SDL_net 3.2.0 is out",
+      "https://github.com/libsdl-org/SDL_net/releases/tag/release-3.2.0"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 04:41:51",
       "https://lobste.rs/s/jecmzc/guix_nix_abomination_leveraging_guix"
     ],
@@ -227,16 +237,6 @@
     [
       "Total Reciprocity Public License",
       "https://trplfoundation.org/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 02:37:28",
-      "https://lobste.rs/s/eetcxi/smallest_c_binary"
-    ],
-    [
-      "The smallest C++ binary",
-      "https://blog.weineng.me/posts/smallest_c/"
     ]
   ],
   [
