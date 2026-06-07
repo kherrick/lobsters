@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-07](index.md)
 
+* [2026-06-07, 17:41:49](https://lobste.rs/s/aml5vb/entropy) - [Entropy](https://arch.dog/bark/entropy)
+* [2026-06-07, 17:34:52](https://lobste.rs/s/3jks7l/recapping_london_mercurial_sprint) - [Recapping the London Mercurial sprint](https://mercurial-scm.org/news/2026/0005-london-sprint-recap)
 * [2026-06-07, 12:59:03](https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings) - [SIGBOVIK 2026 Conference Proceedings](https://sigbovik.org/2026/proceedings.pdf)
 * [2026-06-07, 12:01:03](https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do) - [Why Queues Don’t Fix Overload (And What To Do Instead)](https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead)
 * [2026-06-07, 11:48:48](https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should) - [The User Doesn't Care - But you should](https://lewiscampbell.tech/blog/260607.html)
