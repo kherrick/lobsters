@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-08, 01:36:33",
+      "https://lobste.rs/s/metnis/defense_yaml"
+    ],
+    [
+      "In Defense of YAML",
+      "https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 01:14:59",
+      "https://lobste.rs/s/wvsywp/critical_look_at_ux_various_linux"
+    ],
+    [
+      "A critical look at the UX of various linux desktops",
+      "https://www.youtube.com/watch?v=aDKhrLVm3ew"
+    ]
+  ],
+  [
+    [
       "2026-06-07, 21:24:55",
       "https://lobste.rs/s/otyrox/april_servo_new_android_ui_focus_forms"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2026-06-06, 12:31:19",
-      "https://lobste.rs/s/owclks/if_llms_have_human_like_attributes_then_so"
-    ],
-    [
-      "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-      "https://arxiv.org/pdf/2605.31514"
-    ]
-  ],
-  [
-    [
       "2026-06-06, 11:46:28",
       "https://lobste.rs/s/k67xnh/smart_tv_your_livingroom_is_node"
     ],
     [
       "The Smart TV in Your LivingRoom Is a Node in the AIScraping Economy",
       "https://blog.includesecurity.com/2026/06/the-smart-tv-in-your-livingroom-is-a-node-in-the-aiscraping-economy/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 08:08:45",
-      "https://lobste.rs/s/76plqm/perils_uuid_primary_keys_sqlite"
-    ],
-    [
-      "The perils of UUID primary keys in SQLite",
-      "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html"
     ]
   ]
 ]
