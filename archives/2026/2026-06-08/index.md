@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 23:35:02](https://lobste.rs/s/vyvofv/software_design_age_ai) - [Software Design in the Age of AI](https://self-service.mirdin.com/software-design-in-the-age-of-ai)
+* [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
 * [2026-06-08, 21:47:00](https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own) - [Self-hosting email the hard way from your own routable IPv4 block up](https://anil.recoil.org/notes/recoil-self-hosting-2026)
 * [2026-06-08, 18:41:21](https://lobste.rs/s/ewaxh7/forgejo_monthly_report_may_2026) - [Forgejo monthly report - May 2026](https://forgejo.org/2026-05-monthly-report/)
 * [2026-06-08, 17:11:36](https://lobste.rs/s/tvczml/programming_language_for_humans) - [A programming language for humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
