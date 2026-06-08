@@ -1,6 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2026-06-08, 15:21:54](https://lobste.rs/s/nwrobx/introduction_nixidy_kubernetes_gitops) - [Introduction to nixidy - Kubernetes GitOps with nix](https://codedbearder.com/posts/nixidy-part-1-introduction/)
+* [2026-06-08, 17:11:36](https://lobste.rs/s/tvczml/programming_language_for_humans) - [A programming language for humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
+* [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/worldwide_developers_conference_2026) - [Worldwide Developers Conference 2026](https://www.apple.com/apple-events/event-stream/)
+* [2026-06-08, 16:29:42](https://lobste.rs/s/mct5rz/vulnerability_malware_checks_uv) - [Vulnerability and malware checks in uv](https://astral.sh/blog/uv-audit)
+* [2026-06-08, 16:00:18](https://lobste.rs/s/qqq4sd/thunderbird_littering_my_home) - [Thunderbird littering my home](https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home)
+* [2026-06-08, 15:12:16](https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as) - [Can we stop tagging every thing as vibecoding?](https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as)
 * [2026-06-08, 13:33:45](https://lobste.rs/s/cpyxnw/i_wish_deno_would_keep_doing_what_it_does) - [I wish Deno would keep doing what it does best](https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best)
 * [2026-06-08, 13:13:16](https://lobste.rs/s/q3gqcs/release_fil_c_linux_x86_64_version_0_679) - [Release Fil-C Linux/x86_64 version 0.679 · pizlonator/fil-c](https://github.com/pizlonator/fil-c/releases/tag/v0.679)
 * [2026-06-08, 12:24:26](https://lobste.rs/s/bqjxzj/svg_line_better_status_bars_for_emacs) - [svg-line: Better Status Bars for Emacs](https://www.chiply.dev/post-svg-line)
@@ -19,11 +23,7 @@
 * [2026-06-08, 01:36:33](https://lobste.rs/s/metnis/defense_yaml) - [In Defense of YAML](https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/)
 * [2026-06-07, 21:24:55](https://lobste.rs/s/otyrox/april_servo_new_android_ui_focus_forms) - [April in Servo: new Android UI, focus, forms, security fixes, and more](https://servo.org/blog/2026/05/31/april-in-servo/)
 * [2026-06-07, 20:48:13](https://lobste.rs/s/ge95n8/gleam_value_small) - [Gleam and the value of small](https://www.youtube.com/watch?v=E6_JqYMeNqs)
-* [2026-06-07, 18:45:28](https://lobste.rs/s/qyr73e/verifying_proc) - [verifying /proc](https://bal-e.org/blog/2026/verifying-proc/)
-* [2026-06-07, 18:38:04](https://lobste.rs/s/fmkvwk/dancing_mad_with_sandboxing) - [Dancing mad with sandboxing](https://xeiaso.net/blog/2026/dancing-mad-sandboxing/)
-* [2026-06-07, 17:34:52](https://lobste.rs/s/3jks7l/recapping_london_mercurial_sprint) - [Recapping the London Mercurial sprint](https://mercurial-scm.org/news/2026/0005-london-sprint-recap)
 * [2026-06-07, 11:48:48](https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should) - [The User Doesn't Care - But you should](https://lewiscampbell.tech/blog/260607.html)
-* [2026-06-07, 08:12:40](https://lobste.rs/s/aekbzt/winners_2025_international_obfuscated_c) - [Winners of the 2025 International Obfuscated C Code Contest (IOCCC 29)](https://www.ioccc.org/2025/)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 
 ## [Archives](archives/index.md)
