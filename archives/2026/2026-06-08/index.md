@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 21:47:00](https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own) - [Self-hosting email the hard way from your own routable IPv4 block up](https://anil.recoil.org/notes/recoil-self-hosting-2026)
 * [2026-06-08, 18:41:21](https://lobste.rs/s/ewaxh7/forgejo_monthly_report_may_2026) - [Forgejo monthly report - May 2026](https://forgejo.org/2026-05-monthly-report/)
 * [2026-06-08, 17:11:36](https://lobste.rs/s/tvczml/programming_language_for_humans) - [A programming language for humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
 * [2026-06-08, 17:02:35](https://lobste.rs/s/6ixkjy/this_month_redox_may_2026_redox_your_next) - [This Month in Redox - May 2026 - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/this-month-260531/)

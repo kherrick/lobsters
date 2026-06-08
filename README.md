@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-08, 21:47:00](https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own) - [Self-hosting email the hard way from your own routable IPv4 block up](https://anil.recoil.org/notes/recoil-self-hosting-2026)
 * [2026-06-08, 18:41:21](https://lobste.rs/s/ewaxh7/forgejo_monthly_report_may_2026) - [Forgejo monthly report - May 2026](https://forgejo.org/2026-05-monthly-report/)
 * [2026-06-08, 17:11:36](https://lobste.rs/s/tvczml/programming_language_for_humans) - [A programming language for humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
 * [2026-06-08, 17:02:35](https://lobste.rs/s/6ixkjy/this_month_redox_may_2026_redox_your_next) - [This Month in Redox - May 2026 - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/this-month-260531/)
@@ -12,7 +13,6 @@
 * [2026-06-08, 13:13:16](https://lobste.rs/s/q3gqcs/release_fil_c_linux_x86_64_version_0_679) - [Release Fil-C Linux/x86_64 version 0.679 · pizlonator/fil-c](https://github.com/pizlonator/fil-c/releases/tag/v0.679)
 * [2026-06-08, 12:24:26](https://lobste.rs/s/bqjxzj/svg_line_better_status_bars_for_emacs) - [svg-line: Better Status Bars for Emacs](https://www.chiply.dev/post-svg-line)
 * [2026-06-08, 12:20:23](https://lobste.rs/s/8hiogg/htmx_is_so_cool_i_rolled_my_own_2024) - [HTMX Is So Cool I Rolled My Own (2024)](https://dbushell.com/2024/04/16/htmx-and-modern-javascript/)
-* [2026-06-08, 10:07:25](https://lobste.rs/s/lurkvp/zalloc_use_zig_allocators_your_c_code) - [zalloc: Use zig allocators in your c code](https://github.com/D-Berg/zalloc)
 * [2026-06-08, 09:49:21](https://lobste.rs/s/i7moeh/fast_zero_copy_transit_format_reader) - [A fast, zero-copy Transit-format reader and writer written in C](https://github.com/DotFox/transit.c)
 * [2026-06-08, 09:23:20](https://lobste.rs/s/yiwcln/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yiwcln/what_are_you_doing_this_week)
 * [2026-06-08, 08:57:39](https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32) - [GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
