@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 15:21:54](https://lobste.rs/s/nwrobx/introduction_nixidy_kubernetes_gitops) - [Introduction to nixidy - Kubernetes GitOps with nix](https://codedbearder.com/posts/nixidy-part-1-introduction/)
+* [2026-06-08, 13:33:45](https://lobste.rs/s/cpyxnw/i_wish_deno_would_keep_doing_what_it_does) - [I wish Deno would keep doing what it does best](https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best)
+* [2026-06-08, 13:13:16](https://lobste.rs/s/q3gqcs/release_fil_c_linux_x86_64_version_0_679) - [Release Fil-C Linux/x86_64 version 0.679 · pizlonator/fil-c](https://github.com/pizlonator/fil-c/releases/tag/v0.679)
+* [2026-06-08, 12:24:26](https://lobste.rs/s/bqjxzj/svg_line_better_status_bars_for_emacs) - [svg-line: Better Status Bars for Emacs](https://www.chiply.dev/post-svg-line)
+* [2026-06-08, 12:20:23](https://lobste.rs/s/8hiogg/htmx_is_so_cool_i_rolled_my_own_2024) - [HTMX Is So Cool I Rolled My Own (2024)](https://dbushell.com/2024/04/16/htmx-and-modern-javascript/)
 * [2026-06-08, 10:58:27](https://lobste.rs/s/bvtpjq/eu_open_source_strategy) - [The EU Open Source Strategy](https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy)
 * [2026-06-08, 10:07:25](https://lobste.rs/s/lurkvp/zalloc_use_zig_allocators_your_c_code) - [zalloc: Use zig allocators in your c code](https://github.com/D-Berg/zalloc)
 * [2026-06-08, 09:49:21](https://lobste.rs/s/i7moeh/fast_zero_copy_transit_format_reader) - [A fast, zero-copy Transit-format reader and writer written in C](https://github.com/DotFox/transit.c)
