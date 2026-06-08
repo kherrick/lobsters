@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2026-06-08](index.md)
 
+* [2026-06-08, 18:41:21](https://lobste.rs/s/ewaxh7/forgejo_monthly_report_may_2026) - [Forgejo monthly report - May 2026](https://forgejo.org/2026-05-monthly-report/)
 * [2026-06-08, 17:11:36](https://lobste.rs/s/tvczml/programming_language_for_humans) - [A programming language for humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
+* [2026-06-08, 17:02:35](https://lobste.rs/s/6ixkjy/this_month_redox_may_2026_redox_your_next) - [This Month in Redox - May 2026 - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/this-month-260531/)
+* [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/wwdc_2026) - [WWDC 2026](https://www.apple.com/apple-events/event-stream/)
 * [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/worldwide_developers_conference_2026) - [Worldwide Developers Conference 2026](https://www.apple.com/apple-events/event-stream/)
 * [2026-06-08, 16:29:42](https://lobste.rs/s/mct5rz/vulnerability_malware_checks_uv) - [Vulnerability and malware checks in uv](https://astral.sh/blog/uv-audit)
 * [2026-06-08, 16:00:18](https://lobste.rs/s/qqq4sd/thunderbird_littering_my_home) - [Thunderbird littering my home](https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home)
