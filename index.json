@@ -1,6 +1,86 @@
 [
   [
     [
+      "2026-06-08, 10:58:27",
+      "https://lobste.rs/s/bvtpjq/eu_open_source_strategy"
+    ],
+    [
+      "The EU Open Source Strategy",
+      "https://digital-strategy.ec.europa.eu/en/policies/open-source-strategy"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 10:07:25",
+      "https://lobste.rs/s/lurkvp/zalloc_use_zig_allocators_your_c_code"
+    ],
+    [
+      "zalloc: Use zig allocators in your c code",
+      "https://github.com/D-Berg/zalloc"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 09:49:21",
+      "https://lobste.rs/s/i7moeh/fast_zero_copy_transit_format_reader"
+    ],
+    [
+      "A fast, zero-copy Transit-format reader and writer written in C",
+      "https://github.com/DotFox/transit.c"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 09:23:20",
+      "https://lobste.rs/s/yiwcln/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/yiwcln/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 08:57:39",
+      "https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32"
+    ],
+    [
+      "GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+      "https://github.com/luke8086/gentleos32"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 08:55:09",
+      "https://lobste.rs/s/pfrdqs/tinysub_full_featured_web_player_for_open"
+    ],
+    [
+      "tinysub: full-featured web player for Open Subsonic compatible music servers",
+      "https://tangled.org/devins.page/tinysub"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 08:30:44",
+      "https://lobste.rs/s/huxou2/llms_performative_productivity"
+    ],
+    [
+      "LLMs and performative productivity",
+      "https://joshcollinsworth.com/blog/productivity"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 07:41:58",
+      "https://lobste.rs/s/109l2t/premature_optimization_is_fun_sometimes"
+    ],
+    [
+      "Premature Optimization is Fun Sometimes",
+      "https://invlpg.com/posts/2025-06-19-premature-optimization.html"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 06:02:27",
       "https://lobste.rs/s/cuh5an/how_much_do_amd64_microarchitecture"
     ],
@@ -101,52 +181,12 @@
   ],
   [
     [
-      "2026-06-07, 18:35:42",
-      "https://lobste.rs/s/i9o3xt/image_compression"
-    ],
-    [
-      "Image Compression",
-      "https://www.makingsoftware.com/chapters/image-compression"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 17:41:49",
-      "https://lobste.rs/s/aml5vb/entropy"
-    ],
-    [
-      "Entropy",
-      "https://arch.dog/bark/entropy"
-    ]
-  ],
-  [
-    [
       "2026-06-07, 17:34:52",
       "https://lobste.rs/s/3jks7l/recapping_london_mercurial_sprint"
     ],
     [
       "Recapping the London Mercurial sprint",
       "https://mercurial-scm.org/news/2026/0005-london-sprint-recap"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 12:59:03",
-      "https://lobste.rs/s/zm9jsq/sigbovik_2026_conference_proceedings"
-    ],
-    [
-      "SIGBOVIK 2026 Conference Proceedings",
-      "https://sigbovik.org/2026/proceedings.pdf"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 12:01:03",
-      "https://lobste.rs/s/exgvan/why_queues_don_t_fix_overload_what_do"
-    ],
-    [
-      "Why Queues Don’t Fix Overload (And What To Do Instead)",
-      "https://pmbanugo.me/blog/why-queues-dont-fix-overload-and-what-to-do-instead"
     ]
   ],
   [
@@ -207,46 +247,6 @@
     [
       "Moving beyond fork() + exec()",
       "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 02:03:52",
-      "https://lobste.rs/s/e0vpej/diy_kobo_annotation_backup"
-    ],
-    [
-      "DIY Kobo annotation backup",
-      "https://kghose.github.io/2026/06/06/kobo-annotations.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 00:53:58",
-      "https://lobste.rs/s/pumnjn/how_llms_actually_work"
-    ],
-    [
-      "How LLMs Actually Work",
-      "https://0xkato.xyz/how-llms-actually-work/"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 18:56:59",
-      "https://lobste.rs/s/iqazo4/getting_silly_with_c_part_int_8_3"
-    ],
-    [
-      "Getting silly with C, part &((int*)-8)[3]",
-      "https://lcamtuf.substack.com/p/getting-silly-with-c-part-and-int1"
-    ]
-  ],
-  [
-    [
-      "2026-06-06, 12:40:37",
-      "https://lobste.rs/s/k0sbbv/life_is_too_short_for_slow_terminal"
-    ],
-    [
-      "Life is too short for a slow terminal",
-      "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/"
     ]
   ]
 ]
