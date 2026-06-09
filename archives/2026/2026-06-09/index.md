@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 22:41:32](https://lobste.rs/s/a5kwdy/building_persistent_cognitive) - [Building a persistent cognitive architecture for LLM agents using Elixir and OTP](https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/)
 * [2026-06-09, 20:27:31](https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some) - [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark)
 * [2026-06-09, 20:25:50](https://lobste.rs/s/vnk1fh/ats_programming_language) - [ATS Programming Language](https://www.cs.bu.edu/~hwxi/atslangweb/)
 * [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
