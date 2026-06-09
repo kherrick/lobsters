@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-09, 09:51:00",
+      "https://lobste.rs/s/azfaop/now_what"
+    ],
+    [
+      "Now what?",
+      "https://blog.danieljanus.pl/now-what/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 09:10:50",
+      "https://lobste.rs/s/qa5xds/amule_3_0_0_alive_again_release"
+    ],
+    [
+      "aMule 3.0.0 - The “Alive Again” Release",
+      "https://amule-org.github.io/changelog/3.0.0"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 09:02:29",
+      "https://lobste.rs/s/yapgzf/safe_terraform_auto_apply_with_conftest"
+    ],
+    [
+      "Safe Terraform auto-apply with conftest",
+      "https://www.bejarano.io/terraform-autoapply/"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 07:04:13",
       "https://lobste.rs/s/5hk3s6/decline_search_engines_is_opportunity"
     ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2026-06-08, 13:13:16",
-      "https://lobste.rs/s/q3gqcs/release_fil_c_linux_x86_64_version_0_679"
-    ],
-    [
-      "Release Fil-C Linux/x86_64 version 0.679 · pizlonator/fil-c",
-      "https://github.com/pizlonator/fil-c/releases/tag/v0.679"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 12:24:26",
       "https://lobste.rs/s/bqjxzj/svg_line_better_status_bars_for_emacs"
     ],
@@ -167,26 +187,6 @@
     [
       "HTMX Is So Cool I Rolled My Own (2024)",
       "https://dbushell.com/2024/04/16/htmx-and-modern-javascript/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 09:49:21",
-      "https://lobste.rs/s/i7moeh/fast_zero_copy_transit_format_reader"
-    ],
-    [
-      "A fast, zero-copy Transit-format reader and writer written in C",
-      "https://github.com/DotFox/transit.c"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 09:23:20",
-      "https://lobste.rs/s/yiwcln/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/yiwcln/what_are_you_doing_this_week"
     ]
   ],
   [
