@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 11:29:27](https://lobste.rs/s/pfffbz/what_yahoo_killed_when_it_bought_maktoob) - [What Yahoo killed when it bought Maktoob](https://lr0.org/blog/p/yahoo/)
+* [2026-06-09, 11:01:23](https://lobste.rs/s/cebwpi/datatype_variable_font_turns_text_into) - [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 * [2026-06-09, 10:55:01](https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated) - [Test-case Reducers Are Underappreciated Debugging Tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 * [2026-06-09, 10:47:36](https://lobste.rs/s/28fdhn/forms_open_source_government) - [Forms of Open Source Government](https://nesbitt.io/2026/06/09/forms-of-open-source-government.html)
 * [2026-06-09, 09:51:00](https://lobste.rs/s/azfaop/now_what) - [Now what?](https://blog.danieljanus.pl/now-what/)
