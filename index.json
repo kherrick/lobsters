@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-09, 20:25:50",
+      "https://lobste.rs/s/vnk1fh/ats_programming_language"
+    ],
+    [
+      "ATS Programming Language",
+      "https://www.cs.bu.edu/~hwxi/atslangweb/"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 16:40:11",
       "https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2026-06-09, 13:32:15",
-      "https://lobste.rs/s/bgtvnw/blocking_asn_similar_from_my_sites"
+      "2026-06-09, 14:04:10",
+      "https://lobste.rs/s/cssoxa/arcan_10_years_online_obscurity"
     ],
     [
-      "Blocking an ASN (or similar) from my sites",
-      "https://dracos.co.uk/wrote/blocking-an-asn/"
+      "Arcan: 10 Years of Online Obscurity",
+      "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Looking Forward to Postgres 19: Query Hints",
       "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 12:13:04",
-      "https://lobste.rs/s/leq197/rng_flat_datacenter_networks_at_scale"
-    ],
-    [
-      "RNG: Flat Datacenter Networks at Scale",
-      "https://arxiv.org/abs/2604.15261"
     ]
   ],
   [
