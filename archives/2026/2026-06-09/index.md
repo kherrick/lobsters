@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 13:32:15](https://lobste.rs/s/bgtvnw/blocking_asn_similar_from_my_sites) - [Blocking an ASN (or similar) from my sites](https://dracos.co.uk/wrote/blocking-an-asn/)
+* [2026-06-09, 13:27:23](https://lobste.rs/s/oytnfw/catlantean_3d_making_graphics_like_it_s) - [Catlantean 3D - Making Graphics Like It's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+* [2026-06-09, 13:01:26](https://lobste.rs/s/srq2wf/only_bounds) - [Only Bounds](https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/)
 * [2026-06-09, 12:24:02](https://lobste.rs/s/dvcyyz/looking_forward_postgres_19_query_hints) - [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
 * [2026-06-09, 11:56:47](https://lobste.rs/s/9xlahj/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered (part 2)](https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/)
 * [2026-06-09, 11:48:34](https://lobste.rs/s/pwmlvz/css_unavoidable_bad_parts) - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
