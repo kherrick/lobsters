@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-09, 12:24:02](https://lobste.rs/s/dvcyyz/looking_forward_postgres_19_query_hints) - [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
+* [2026-06-09, 11:56:47](https://lobste.rs/s/9xlahj/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered (part 2)](https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/)
+* [2026-06-09, 11:48:34](https://lobste.rs/s/pwmlvz/css_unavoidable_bad_parts) - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
 * [2026-06-09, 11:29:27](https://lobste.rs/s/pfffbz/what_yahoo_killed_when_it_bought_maktoob) - [What Yahoo killed when it bought Maktoob](https://lr0.org/blog/p/yahoo/)
 * [2026-06-09, 11:01:23](https://lobste.rs/s/cebwpi/datatype_variable_font_turns_text_into) - [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 * [2026-06-09, 10:55:01](https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated) - [Test-case Reducers Are Underappreciated Debugging Tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
@@ -16,14 +19,11 @@
 * [2026-06-08, 17:02:35](https://lobste.rs/s/6ixkjy/this_month_redox_may_2026_redox_your_next) - [This Month in Redox - May 2026 - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/this-month-260531/)
 * [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/wwdc_2026) - [WWDC 2026](https://www.apple.com/apple-events/event-stream/)
 * [2026-06-08, 16:29:42](https://lobste.rs/s/mct5rz/vulnerability_malware_checks_uv) - [Vulnerability and malware checks in uv](https://astral.sh/blog/uv-audit)
-* [2026-06-08, 16:00:18](https://lobste.rs/s/qqq4sd/thunderbird_littering_my_home) - [Thunderbird littering my home](https://thefoggiest.dev/2026/06/04/thunderbird-littering-my-home)
-* [2026-06-08, 15:21:54](https://lobste.rs/s/nwrobx/introduction_nixidy_kubernetes_gitops) - [Introduction to nixidy - Kubernetes GitOps with nix](https://codedbearder.com/posts/nixidy-part-1-introduction/)
 * [2026-06-08, 15:12:16](https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as) - [Can we stop tagging every thing as vibecoding?](https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as)
 * [2026-06-08, 13:33:45](https://lobste.rs/s/cpyxnw/i_wish_deno_would_keep_doing_what_it_does) - [I wish Deno would keep doing what it does best](https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best)
 * [2026-06-08, 12:24:26](https://lobste.rs/s/bqjxzj/svg_line_better_status_bars_for_emacs) - [svg-line: Better Status Bars for Emacs](https://www.chiply.dev/post-svg-line)
 * [2026-06-08, 12:20:23](https://lobste.rs/s/8hiogg/htmx_is_so_cool_i_rolled_my_own_2024) - [HTMX Is So Cool I Rolled My Own (2024)](https://dbushell.com/2024/04/16/htmx-and-modern-javascript/)
 * [2026-06-08, 08:57:39](https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32) - [GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
-* [2026-06-08, 08:30:44](https://lobste.rs/s/huxou2/llms_performative_productivity) - [LLMs and performative productivity](https://joshcollinsworth.com/blog/productivity)
 * [2026-06-08, 07:41:58](https://lobste.rs/s/109l2t/premature_optimization_is_fun_sometimes) - [Premature Optimization is Fun Sometimes (2025)](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
 
 ## [Archives](archives/index.md)
