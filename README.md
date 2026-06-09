@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-09, 02:32:38](https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
+* [2026-06-09, 01:10:41](https://lobste.rs/s/ryxjww/for_2nd_time_weeks_microsoft_packages) - [For the 2nd time in weeks, Microsoft packages laced with credential stealer](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/)
 * [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
 * [2026-06-08, 22:13:46](https://lobste.rs/s/sbcasc/arbitrary_code_execution_objdump_g) - [Arbitrary code execution in objdump -g](https://blog.calif.io/p/oobdump-relocation-oriented-programming)
 * [2026-06-08, 21:47:00](https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own) - [Self-hosting email the hard way from your own routable IPv4 block up](https://anil.recoil.org/notes/recoil-self-hosting-2026)
@@ -18,7 +19,6 @@
 * [2026-06-08, 09:49:21](https://lobste.rs/s/i7moeh/fast_zero_copy_transit_format_reader) - [A fast, zero-copy Transit-format reader and writer written in C](https://github.com/DotFox/transit.c)
 * [2026-06-08, 09:23:20](https://lobste.rs/s/yiwcln/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yiwcln/what_are_you_doing_this_week)
 * [2026-06-08, 08:57:39](https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32) - [GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
-* [2026-06-08, 08:55:09](https://lobste.rs/s/pfrdqs/tinysub_full_featured_web_player_for_open) - [tinysub: full-featured web player for Open Subsonic compatible music servers](https://tangled.org/devins.page/tinysub)
 * [2026-06-08, 08:30:44](https://lobste.rs/s/huxou2/llms_performative_productivity) - [LLMs and performative productivity](https://joshcollinsworth.com/blog/productivity)
 * [2026-06-08, 07:41:58](https://lobste.rs/s/109l2t/premature_optimization_is_fun_sometimes) - [Premature Optimization is Fun Sometimes (2025)](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
 * [2026-06-08, 06:02:27](https://lobste.rs/s/cuh5an/how_much_do_amd64_microarchitecture) - [How much do amd64 microarchitecture levels help in Go?](https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/)
