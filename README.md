@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-09, 07:04:13](https://lobste.rs/s/5hk3s6/decline_search_engines_is_opportunity) - [The Decline of Search Engines is an Opportunity](https://lewiscampbell.tech/blog/260609.html)
 * [2026-06-09, 02:32:38](https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
 * [2026-06-09, 01:10:41](https://lobste.rs/s/ryxjww/for_2nd_time_weeks_microsoft_packages) - [For the 2nd time in weeks, Microsoft packages laced with credential stealer](https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/)
 * [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
@@ -23,7 +24,6 @@
 * [2026-06-08, 07:41:58](https://lobste.rs/s/109l2t/premature_optimization_is_fun_sometimes) - [Premature Optimization is Fun Sometimes (2025)](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
 * [2026-06-08, 06:02:27](https://lobste.rs/s/cuh5an/how_much_do_amd64_microarchitecture) - [How much do amd64 microarchitecture levels help in Go?](https://lemire.me/blog/2026/06/06/how-much-do-amd64-microarchitecture-levels-help-in-go/)
 * [2026-06-08, 01:36:33](https://lobste.rs/s/metnis/defense_yaml) - [In Defense of YAML](https://opensource.posit.co/blog/2026-05-21_in-defense-of-yaml/)
-* [2026-06-07, 21:24:55](https://lobste.rs/s/otyrox/april_servo_new_android_ui_focus_forms) - [April in Servo: new Android UI, focus, forms, security fixes, and more](https://servo.org/blog/2026/05/31/april-in-servo/)
 * [2026-06-07, 07:27:26](https://lobste.rs/s/ly0vif/my_students) - [To my students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 
 ## [Archives](archives/index.md)
