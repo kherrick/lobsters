@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-06-09, 13:32:15",
-      "https://lobste.rs/s/bgtvnw/blocking_asn_similar_from_my_sites"
-    ],
-    [
-      "Blocking an ASN (or similar) from my sites",
-      "https://dracos.co.uk/wrote/blocking-an-asn/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 13:27:23",
       "https://lobste.rs/s/oytnfw/catlantean_3d_making_graphics_like_it_s"
     ],
     [
       "Catlantean 3D - Making Graphics Like It's 1993",
       "https://staniks.github.io/articles/catlantean-3d-blog-1/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 13:14:55",
+      "https://lobste.rs/s/jxtxkj/passing_dbs_through_continuations"
+    ],
+    [
+      "Passing DBs Through Continuations",
+      "https://remy.wang/blog/cps.html"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2026-06-09, 01:10:41",
+      "https://lobste.rs/s/ryxjww/for_2nd_time_weeks_microsoft_packages"
+    ],
+    [
+      "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
+      "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 22:39:29",
       "https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals"
     ],
@@ -167,16 +177,6 @@
     [
       "Forgejo monthly report - May 2026",
       "https://forgejo.org/2026-05-monthly-report/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 17:02:35",
-      "https://lobste.rs/s/6ixkjy/this_month_redox_may_2026_redox_your_next"
-    ],
-    [
-      "This Month in Redox - May 2026 - Redox - Your Next(Gen) OS",
-      "https://www.redox-os.org/news/this-month-260531/"
     ]
   ],
   [
