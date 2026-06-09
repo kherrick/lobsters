@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 20:27:31](https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some) - [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark)
 * [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
 * [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
 * [2026-06-09, 16:32:50](https://lobste.rs/s/ncunjo/property_graphs) - [Property Graphs](https://www.postgresql.org/docs/19/ddl-property-graphs.html)
@@ -13,6 +14,7 @@
 * [2026-06-09, 13:14:55](https://lobste.rs/s/jxtxkj/passing_dbs_through_continuations) - [Passing DBs Through Continuations](https://remy.wang/blog/cps.html)
 * [2026-06-09, 13:01:26](https://lobste.rs/s/srq2wf/only_bounds) - [Only Bounds](https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/)
 * [2026-06-09, 12:24:02](https://lobste.rs/s/dvcyyz/looking_forward_postgres_19_query_hints) - [Looking Forward to Postgres 19: Query Hints](https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints)
+* [2026-06-09, 12:13:04](https://lobste.rs/s/leq197/rng_flat_datacenter_networks_at_scale) - [RNG: Flat Datacenter Networks at Scale](https://arxiv.org/abs/2604.15261)
 * [2026-06-09, 11:56:47](https://lobste.rs/s/9xlahj/what_262_715_regex_questions_on_stack) - [what 262,715 regex questions on stack overflow haven't answered (part 2)](https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/)
 * [2026-06-09, 11:48:34](https://lobste.rs/s/pwmlvz/css_unavoidable_bad_parts) - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
 * [2026-06-09, 11:29:27](https://lobste.rs/s/pfffbz/what_yahoo_killed_when_it_bought_maktoob) - [What Yahoo killed when it bought Maktoob](https://lr0.org/blog/p/yahoo/)
