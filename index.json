@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-06-08, 22:13:46",
+      "https://lobste.rs/s/sbcasc/arbitrary_code_execution_objdump_g"
+    ],
+    [
+      "Arbitrary code execution in objdump -g",
+      "https://blog.calif.io/p/oobdump-relocation-oriented-programming"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 21:47:00",
       "https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own"
     ],
@@ -227,16 +237,6 @@
     [
       "April in Servo: new Android UI, focus, forms, security fixes, and more",
       "https://servo.org/blog/2026/05/31/april-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2026-06-07, 11:48:48",
-      "https://lobste.rs/s/vufbvv/user_doesn_t_care_you_should"
-    ],
-    [
-      "The User Doesn't Care - But you should",
-      "https://lewiscampbell.tech/blog/260607.html"
     ]
   ],
   [
