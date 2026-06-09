@@ -1,22 +1,22 @@
 [
   [
     [
-      "2026-06-09, 09:51:00",
-      "https://lobste.rs/s/azfaop/now_what"
+      "2026-06-09, 10:55:01",
+      "https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated"
     ],
     [
-      "Now what?",
-      "https://blog.danieljanus.pl/now-what/"
+      "Test-case Reducers Are Underappreciated Debugging Tools",
+      "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html"
     ]
   ],
   [
     [
-      "2026-06-09, 09:10:50",
-      "https://lobste.rs/s/qa5xds/amule_3_0_0_alive_again_release"
+      "2026-06-09, 10:47:36",
+      "https://lobste.rs/s/28fdhn/forms_open_source_government"
     ],
     [
-      "aMule 3.0.0 - The “Alive Again” Release",
-      "https://amule-org.github.io/changelog/3.0.0"
+      "Forms of Open Source Government",
+      "https://nesbitt.io/2026/06/09/forms-of-open-source-government.html"
     ]
   ],
   [
@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2026-06-09, 02:32:38",
-      "https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers"
-    ],
-    [
-      "Cleaning up after AI rockstar developers",
-      "https://www.codingwithjesse.com/blog/rockstar-developers/"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 01:10:41",
       "https://lobste.rs/s/ryxjww/for_2nd_time_weeks_microsoft_packages"
     ],
     [
       "For the 2nd time in weeks, Microsoft packages laced with credential stealer",
       "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 01:04:04",
+      "https://lobste.rs/s/yc2eai/doom_on_neo_geo_progress"
+    ],
+    [
+      "DOOM on Neo Geo progress",
+      "https://www.youtube.com/watch?v=onKTVMmy-sA"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2026-06-08, 15:12:16",
-      "https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as"
-    ],
-    [
-      "Can we stop tagging every thing as vibecoding?",
-      "https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 13:33:45",
       "https://lobste.rs/s/cpyxnw/i_wish_deno_would_keep_doing_what_it_does"
     ],
@@ -171,12 +161,12 @@
   ],
   [
     [
-      "2026-06-08, 12:24:26",
-      "https://lobste.rs/s/bqjxzj/svg_line_better_status_bars_for_emacs"
+      "2026-06-08, 13:13:16",
+      "https://lobste.rs/s/q3gqcs/release_fil_c_linux_x86_64_version_0_679"
     ],
     [
-      "svg-line: Better Status Bars for Emacs",
-      "https://www.chiply.dev/post-svg-line"
+      "Release Fil-C Linux/x86_64 version 0.679 · pizlonator/fil-c",
+      "https://github.com/pizlonator/fil-c/releases/tag/v0.679"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2026-06-08, 09:23:20",
+      "https://lobste.rs/s/yiwcln/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/yiwcln/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 08:57:39",
       "https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32"
     ],
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2026-06-08, 08:30:44",
-      "https://lobste.rs/s/huxou2/llms_performative_productivity"
+      "2026-06-08, 08:55:09",
+      "https://lobste.rs/s/pfrdqs/tinysub_full_featured_web_player_for_open"
     ],
     [
-      "LLMs and performative productivity",
-      "https://joshcollinsworth.com/blog/productivity"
+      "tinysub: full-featured web player for Open Subsonic compatible music servers",
+      "https://tangled.org/devins.page/tinysub"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2026-06-07, 07:27:26",
-      "https://lobste.rs/s/ly0vif/my_students"
+      "2026-06-07, 21:24:55",
+      "https://lobste.rs/s/otyrox/april_servo_new_android_ui_focus_forms"
     ],
     [
-      "To my students",
-      "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml"
+      "April in Servo: new Android UI, focus, forms, security fixes, and more",
+      "https://servo.org/blog/2026/05/31/april-in-servo/"
     ]
   ]
 ]
