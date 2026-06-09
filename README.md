@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
 * [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
 * [2026-06-09, 16:32:50](https://lobste.rs/s/ncunjo/property_graphs) - [Property Graphs](https://www.postgresql.org/docs/19/ddl-property-graphs.html)
 * [2026-06-09, 16:05:42](https://lobste.rs/s/tgzdhf/are_we_harold_bloom) - [Are We Harold Bloom?](https://abner.page/post/are-we-harold-bloom/)
@@ -15,7 +16,6 @@
 * [2026-06-09, 10:55:01](https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated) - [Test-case Reducers Are Underappreciated Debugging Tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 * [2026-06-09, 09:51:00](https://lobste.rs/s/azfaop/now_what) - [Now what?](https://blog.danieljanus.pl/now-what/)
 * [2026-06-09, 09:10:50](https://lobste.rs/s/qa5xds/amule_3_0_0_alive_again_release) - [aMule 3.0.0 - The “Alive Again” Release](https://amule-org.github.io/changelog/3.0.0)
-* [2026-06-09, 09:02:29](https://lobste.rs/s/yapgzf/safe_terraform_auto_apply_with_conftest) - [Safe Terraform auto-apply with conftest](https://www.bejarano.io/terraform-autoapply/)
 * [2026-06-09, 07:04:13](https://lobste.rs/s/5hk3s6/decline_search_engines_is_opportunity) - [The Decline of Search Engines is an Opportunity](https://lewiscampbell.tech/blog/260609.html)
 * [2026-06-09, 02:32:38](https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
 * [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
