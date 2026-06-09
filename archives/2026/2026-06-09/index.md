@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-09](index.md)
 
+* [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
+* [2026-06-09, 16:32:50](https://lobste.rs/s/ncunjo/property_graphs) - [Property Graphs](https://www.postgresql.org/docs/19/ddl-property-graphs.html)
 * [2026-06-09, 13:32:15](https://lobste.rs/s/bgtvnw/blocking_asn_similar_from_my_sites) - [Blocking an ASN (or similar) from my sites](https://dracos.co.uk/wrote/blocking-an-asn/)
 * [2026-06-09, 13:27:23](https://lobste.rs/s/oytnfw/catlantean_3d_making_graphics_like_it_s) - [Catlantean 3D - Making Graphics Like It's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 13:14:55](https://lobste.rs/s/jxtxkj/passing_dbs_through_continuations) - [Passing DBs Through Continuations](https://remy.wang/blog/cps.html)
