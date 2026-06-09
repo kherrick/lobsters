@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-09, 18:36:28",
+      "https://lobste.rs/s/kacy2v/ios_27_system_prompts"
+    ],
+    [
+      "iOS 27 system prompts",
+      "https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 16:40:11",
       "https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just"
     ],
@@ -147,16 +157,6 @@
     [
       "aMule 3.0.0 - The “Alive Again” Release",
       "https://amule-org.github.io/changelog/3.0.0"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 09:02:29",
-      "https://lobste.rs/s/yapgzf/safe_terraform_auto_apply_with_conftest"
-    ],
-    [
-      "Safe Terraform auto-apply with conftest",
-      "https://www.bejarano.io/terraform-autoapply/"
     ]
   ],
   [
