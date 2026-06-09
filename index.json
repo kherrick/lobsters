@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-09, 02:32:38",
+      "https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers"
+    ],
+    [
+      "Cleaning up after AI rockstar developers",
+      "https://www.codingwithjesse.com/blog/rockstar-developers/"
+    ]
+  ],
+  [
+    [
       "2026-06-08, 22:39:29",
       "https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals"
     ],
@@ -137,16 +147,6 @@
     [
       "HTMX Is So Cool I Rolled My Own (2024)",
       "https://dbushell.com/2024/04/16/htmx-and-modern-javascript/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 10:07:25",
-      "https://lobste.rs/s/lurkvp/zalloc_use_zig_allocators_your_c_code"
-    ],
-    [
-      "zalloc: Use zig allocators in your c code",
-      "https://github.com/D-Berg/zalloc"
     ]
   ],
   [
