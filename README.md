@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-09, 20:27:31](https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some) - [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark)
-* [2026-06-09, 20:25:50](https://lobste.rs/s/vnk1fh/ats_programming_language) - [ATS Programming Language](https://www.cs.bu.edu/~hwxi/atslangweb/)
+* [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
 * [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
 * [2026-06-09, 16:32:50](https://lobste.rs/s/ncunjo/property_graphs) - [Property Graphs](https://www.postgresql.org/docs/19/ddl-property-graphs.html)
 * [2026-06-09, 16:05:42](https://lobste.rs/s/tgzdhf/are_we_harold_bloom) - [Are We Harold Bloom?](https://abner.page/post/are-we-harold-bloom/)
