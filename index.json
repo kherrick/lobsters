@@ -1,12 +1,12 @@
 [
   [
     [
-      "2026-06-09, 18:36:28",
-      "https://lobste.rs/s/kacy2v/ios_27_system_prompts"
+      "2026-06-09, 20:27:31",
+      "https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some"
     ],
     [
-      "iOS 27 system prompts",
-      "https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3"
+      "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Looking Forward to Postgres 19: Query Hints",
       "https://www.pgedge.com/blog/looking-forward-to-postgres-19-query-hints"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 12:13:04",
+      "https://lobste.rs/s/leq197/rng_flat_datacenter_networks_at_scale"
+    ],
+    [
+      "RNG: Flat Datacenter Networks at Scale",
+      "https://arxiv.org/abs/2604.15261"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "I wish Deno would keep doing what it does best",
       "https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 08:57:39",
-      "https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32"
-    ],
-    [
-      "GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
-      "https://github.com/luke8086/gentleos32"
     ]
   ],
   [
