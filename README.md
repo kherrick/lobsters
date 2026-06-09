@@ -2,6 +2,7 @@
 
 * [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
 * [2026-06-09, 16:32:50](https://lobste.rs/s/ncunjo/property_graphs) - [Property Graphs](https://www.postgresql.org/docs/19/ddl-property-graphs.html)
+* [2026-06-09, 16:05:42](https://lobste.rs/s/tgzdhf/are_we_harold_bloom) - [Are We Harold Bloom?](https://abner.page/post/are-we-harold-bloom/)
 * [2026-06-09, 13:32:15](https://lobste.rs/s/bgtvnw/blocking_asn_similar_from_my_sites) - [Blocking an ASN (or similar) from my sites](https://dracos.co.uk/wrote/blocking-an-asn/)
 * [2026-06-09, 13:27:23](https://lobste.rs/s/oytnfw/catlantean_3d_making_graphics_like_it_s) - [Catlantean 3D - Making Graphics Like It's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 * [2026-06-09, 13:14:55](https://lobste.rs/s/jxtxkj/passing_dbs_through_continuations) - [Passing DBs Through Continuations](https://remy.wang/blog/cps.html)
@@ -22,7 +23,6 @@
 * [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/wwdc_2026) - [WWDC 2026](https://www.apple.com/apple-events/event-stream/)
 * [2026-06-08, 15:12:16](https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as) - [Can we stop tagging every thing as vibecoding?](https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as)
 * [2026-06-08, 13:33:45](https://lobste.rs/s/cpyxnw/i_wish_deno_would_keep_doing_what_it_does) - [I wish Deno would keep doing what it does best](https://hackers.pub/@hongminhee/2026/i-wish-deno-would-keep-doing-what-it-does-best)
-* [2026-06-08, 12:20:23](https://lobste.rs/s/8hiogg/htmx_is_so_cool_i_rolled_my_own_2024) - [HTMX Is So Cool I Rolled My Own (2024)](https://dbushell.com/2024/04/16/htmx-and-modern-javascript/)
 * [2026-06-08, 08:57:39](https://lobste.rs/s/1umrbv/gentleos_pair_hobby_oses_for_vintage_32) - [GentleOS - A pair of hobby OSes for vintage 32-bit and 16-bit PCs](https://github.com/luke8086/gentleos32)
 * [2026-06-08, 07:41:58](https://lobste.rs/s/109l2t/premature_optimization_is_fun_sometimes) - [Premature Optimization is Fun Sometimes (2025)](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
 
