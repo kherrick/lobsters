@@ -1,16 +1,6 @@
 [
   [
     [
-      "2026-06-08, 23:35:02",
-      "https://lobste.rs/s/vyvofv/software_design_age_ai"
-    ],
-    [
-      "Software Design in the Age of AI",
-      "https://self-service.mirdin.com/software-design-in-the-age-of-ai"
-    ]
-  ],
-  [
-    [
       "2026-06-08, 22:39:29",
       "https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals"
     ],
@@ -147,6 +137,16 @@
     [
       "HTMX Is So Cool I Rolled My Own (2024)",
       "https://dbushell.com/2024/04/16/htmx-and-modern-javascript/"
+    ]
+  ],
+  [
+    [
+      "2026-06-08, 10:07:25",
+      "https://lobste.rs/s/lurkvp/zalloc_use_zig_allocators_your_c_code"
+    ],
+    [
+      "zalloc: Use zig allocators in your c code",
+      "https://github.com/D-Berg/zalloc"
     ]
   ],
   [
