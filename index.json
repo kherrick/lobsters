@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-10, 12:12:43",
+      "https://lobste.rs/s/ti42hu/trojaned_openssh_2002"
+    ],
+    [
+      "Trojaned OpenSSH (in 2002)",
+      "http://miod.online.fr/software/openbsd/stories/trojan.html"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 11:51:24",
+      "https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released"
+    ],
+    [
+      "macOS container tool v1.0.0 released",
+      "https://github.com/apple/container"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 11:13:17",
       "https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2026-06-09, 18:36:28",
-      "https://lobste.rs/s/kacy2v/ios_27_system_prompts"
-    ],
-    [
-      "iOS 27 system prompts",
-      "https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 16:40:11",
       "https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just"
     ],
@@ -217,16 +227,6 @@
     [
       "Test-case Reducers Are Underappreciated Debugging Tools",
       "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 09:51:00",
-      "https://lobste.rs/s/azfaop/now_what"
-    ],
-    [
-      "Now what?",
-      "https://blog.danieljanus.pl/now-what/"
     ]
   ],
   [
