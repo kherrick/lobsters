@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-10, 01:23:47](https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 * [2026-06-10, 01:08:08](https://lobste.rs/s/yg1xb2/cve_2026_45447_heap_use_after_free_openssl) - [CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function](https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447)
 * [2026-06-09, 21:49:00](https://lobste.rs/s/nrbriu/mmo_chip_from_microscope_verilog_hour) - [MMO-CHIP: From Microscope to Verilog in an hour](https://media.ccc.de/v/gpn24-616-mmo-chip-from-microscope-to-verilog-in-an-hour)
 * [2026-06-09, 20:56:40](https://lobste.rs/s/galkdh/grit_rewriting_git_rust_with_agents) - [Grit: rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit)
@@ -24,7 +25,6 @@
 * [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
 * [2026-06-08, 21:47:00](https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own) - [Self-hosting email the hard way from your own routable IPv4 block up](https://anil.recoil.org/notes/recoil-self-hosting-2026)
 * [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/wwdc_2026) - [WWDC 2026](https://www.apple.com/apple-events/event-stream/)
-* [2026-06-08, 07:41:58](https://lobste.rs/s/109l2t/premature_optimization_is_fun_sometimes) - [Premature Optimization is Fun Sometimes (2025)](https://invlpg.com/posts/2025-06-19-premature-optimization.html)
 
 ## [Archives](archives/index.md)
 
