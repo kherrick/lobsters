@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-10, 08:29:48",
+      "https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime"
+    ],
+    [
+      "A line-by-line translation of the OCaml runtime from C to Rust",
+      "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 07:52:37",
+      "https://lobste.rs/s/xxzzay/goodbye_leaf_spine_networks"
+    ],
+    [
+      "Goodbye, Leaf-and-Spine Networks?",
+      "https://blog.ipspace.net/2026/06/goodbye-leaf-spine-networks/"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 05:32:16",
       "https://lobste.rs/s/tdvu7a/blogging_with_llm_assistant"
     ],
@@ -57,26 +77,6 @@
     [
       "Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 20:25:50",
-      "https://lobste.rs/s/vnk1fh/ats_programming_language"
-    ],
-    [
-      "ATS Programming Language",
-      "https://www.cs.bu.edu/~hwxi/atslangweb/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 18:36:28",
-      "https://lobste.rs/s/kacy2v/ios_27_system_prompts"
-    ],
-    [
-      "iOS 27 system prompts",
-      "https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3"
     ]
   ],
   [
