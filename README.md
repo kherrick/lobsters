@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-10, 12:12:43](https://lobste.rs/s/ti42hu/trojaned_openssh_2002) - [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html)
+* [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 10:59:41](https://lobste.rs/s/5iuaxt/17_bugs_10_weeks_from_ai_security_scanning) - [17 bugs in 10 weeks from AI security scanning](https://lalitm.com/post/perfetto-security-bugs-ai/)
 * [2026-06-10, 10:14:49](https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12) - [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
@@ -11,7 +13,6 @@
 * [2026-06-09, 20:56:40](https://lobste.rs/s/galkdh/grit_rewriting_git_rust_with_agents) - [Grit: rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit)
 * [2026-06-09, 20:50:36](https://lobste.rs/s/g79vjn/alpine_linux_3_24_0_released) - [Alpine Linux 3.24.0 released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 20:27:31](https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some) - [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark)
-* [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
 * [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
 * [2026-06-09, 16:32:50](https://lobste.rs/s/ncunjo/property_graphs) - [Property Graphs](https://www.postgresql.org/docs/19/ddl-property-graphs.html)
 * [2026-06-09, 16:05:42](https://lobste.rs/s/tgzdhf/are_we_harold_bloom) - [Are We Harold Bloom?](https://abner.page/post/are-we-harold-bloom/)
@@ -22,7 +23,6 @@
 * [2026-06-09, 11:29:27](https://lobste.rs/s/pfffbz/what_yahoo_killed_when_it_bought_maktoob) - [What Yahoo killed when it bought Maktoob](https://lr0.org/blog/p/yahoo/)
 * [2026-06-09, 11:01:23](https://lobste.rs/s/cebwpi/datatype_variable_font_turns_text_into) - [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
 * [2026-06-09, 10:55:01](https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated) - [Test-case Reducers Are Underappreciated Debugging Tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
-* [2026-06-09, 09:51:00](https://lobste.rs/s/azfaop/now_what) - [Now what?](https://blog.danieljanus.pl/now-what/)
 * [2026-06-09, 07:04:13](https://lobste.rs/s/5hk3s6/decline_search_engines_is_opportunity) - [The Decline of Search Engines is an Opportunity](https://lewiscampbell.tech/blog/260609.html)
 * [2026-06-09, 02:32:38](https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
 
