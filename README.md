@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+* [2026-06-10, 10:59:41](https://lobste.rs/s/5iuaxt/17_bugs_10_weeks_from_ai_security_scanning) - [17 bugs in 10 weeks from AI security scanning](https://lalitm.com/post/perfetto-security-bugs-ai/)
 * [2026-06-10, 10:14:49](https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12) - [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 * [2026-06-10, 08:29:48](https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime) - [A line-by-line translation of the OCaml runtime from C to Rust](https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247)
@@ -23,8 +25,6 @@
 * [2026-06-09, 09:51:00](https://lobste.rs/s/azfaop/now_what) - [Now what?](https://blog.danieljanus.pl/now-what/)
 * [2026-06-09, 07:04:13](https://lobste.rs/s/5hk3s6/decline_search_engines_is_opportunity) - [The Decline of Search Engines is an Opportunity](https://lewiscampbell.tech/blog/260609.html)
 * [2026-06-09, 02:32:38](https://lobste.rs/s/uvwcdo/cleaning_up_after_ai_rockstar_developers) - [Cleaning up after AI rockstar developers](https://www.codingwithjesse.com/blog/rockstar-developers/)
-* [2026-06-08, 22:39:29](https://lobste.rs/s/pf0tx3/what_i_got_wrong_about_fast_terminals) - [What I got wrong about fast terminals](https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/)
-* [2026-06-08, 16:52:38](https://lobste.rs/s/awlukh/wwdc_2026) - [WWDC 2026](https://www.apple.com/apple-events/event-stream/)
 
 ## [Archives](archives/index.md)
 

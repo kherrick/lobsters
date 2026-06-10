@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+* [2026-06-10, 10:59:41](https://lobste.rs/s/5iuaxt/17_bugs_10_weeks_from_ai_security_scanning) - [17 bugs in 10 weeks from AI security scanning](https://lalitm.com/post/perfetto-security-bugs-ai/)
 * [2026-06-10, 10:14:49](https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12) - [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 * [2026-06-10, 08:29:48](https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime) - [A line-by-line translation of the OCaml runtime from C to Rust](https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247)
