@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-10, 21:06:06](https://lobste.rs/s/1mhgan/rebuilding_my_blog_with_machines_for) - [Rebuilding my blog with machines, for machines ·](https://blog.lvmbdv.dev/posts/rebuilding-my-blog-with-machines-for-machines/)
-* [2026-06-10, 18:13:56](https://lobste.rs/s/eiknm1/static_types_shovels_2026) - [Static types and shovels (2026)](https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html)
+* [2026-06-10, 18:13:56](https://lobste.rs/s/eiknm1/static_types_shovels) - [Static types and shovels](https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html)
 * [2026-06-10, 18:11:33](https://lobste.rs/s/wh4ug9/ai_agent_runs_amok_fedora_elsewhere) - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 * [2026-06-10, 16:49:45](https://lobste.rs/s/05t4zb/nontrailing_separators_do_not_spark_joy) - [Nontrailing separators do not spark joy](https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/)
 * [2026-06-10, 16:41:42](https://lobste.rs/s/gdn9cc/tao_datastar) - [The Tao of Datastar](https://data-star.dev/guide/the_tao_of_datastar)
