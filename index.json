@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-10, 05:32:16",
+      "https://lobste.rs/s/tdvu7a/blogging_with_llm_assistant"
+    ],
+    [
+      "Blogging with an LLM assistant",
+      "https://vincent.bernat.ch/en/blog/2026-blogging-llm"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 01:23:47",
       "https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
-      "2026-06-09, 21:49:00",
-      "https://lobste.rs/s/nrbriu/mmo_chip_from_microscope_verilog_hour"
-    ],
-    [
-      "MMO-CHIP: From Microscope to Verilog in an hour",
-      "https://media.ccc.de/v/gpn24-616-mmo-chip-from-microscope-to-verilog-in-an-hour"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 20:56:40",
       "https://lobste.rs/s/galkdh/grit_rewriting_git_rust_with_agents"
     ],
     [
       "Grit: rewriting Git in Rust with agents",
       "https://blog.gitbutler.com/true-grit"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 20:50:36",
+      "https://lobste.rs/s/g79vjn/alpine_linux_3_24_0_released"
+    ],
+    [
+      "Alpine Linux 3.24.0 released",
+      "https://alpinelinux.org/posts/Alpine-3.24.0-released.html"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Catlantean 3D - Making Graphics Like It's 1993",
       "https://staniks.github.io/articles/catlantean-3d-blog-1/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 13:14:55",
-      "https://lobste.rs/s/jxtxkj/passing_dbs_through_continuations"
-    ],
-    [
-      "Passing DBs Through Continuations",
-      "https://remy.wang/blog/cps.html"
     ]
   ],
   [
