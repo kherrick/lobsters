@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 16:40:36](https://lobste.rs/s/qgfagh/jqwik_anti_ai_affair) - [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
+* [2026-06-10, 16:18:11](https://lobste.rs/s/p4ey1w/human_control) - [A human in control](https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/)
+* [2026-06-10, 15:54:37](https://lobste.rs/s/pjpqxb/bootstrapping_rust_considered_harmful) - [Bootstrapping Rust Considered Harmful](https://www.ntecs.de/blog/2026-02-01-bootstrapping-rust-considered-harmful)
 * [2026-06-10, 14:26:33](https://lobste.rs/s/ywa9su/ai_ate_my_role_what_s_next_ajey_gore) - [AI ate my role! What's next? - Ajey Gore](https://ajeygore.in/content/ai-ate-my-role-whats-next)
 * [2026-06-10, 13:38:17](https://lobste.rs/s/4vb0bb/i_hate_most_keyboard_fn_keys) - [I Hate (Most) Keyboard ‘Fn’ Keys](https://danq.me/2026/06/09/fn-keys/)
 * [2026-06-10, 12:12:43](https://lobste.rs/s/ti42hu/trojaned_openssh_2002) - [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html)
