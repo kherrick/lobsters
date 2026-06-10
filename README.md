@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-10, 18:13:56](https://lobste.rs/s/eiknm1/static_types_shovels_2026) - [Static types and shovels (2026)](https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html)
 * [2026-06-10, 16:49:45](https://lobste.rs/s/05t4zb/nontrailing_separators_do_not_spark_joy) - [Nontrailing separators do not spark joy](https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/)
 * [2026-06-10, 16:41:42](https://lobste.rs/s/gdn9cc/tao_datastar) - [The Tao of Datastar](https://data-star.dev/guide/the_tao_of_datastar)
 * [2026-06-10, 16:40:36](https://lobste.rs/s/qgfagh/jqwik_anti_ai_affair) - [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
@@ -16,7 +17,6 @@
 * [2026-06-10, 05:32:16](https://lobste.rs/s/tdvu7a/blogging_with_llm_assistant) - [Blogging with an LLM assistant](https://vincent.bernat.ch/en/blog/2026-blogging-llm)
 * [2026-06-10, 01:23:47](https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 * [2026-06-10, 01:08:08](https://lobste.rs/s/yg1xb2/cve_2026_45447_heap_use_after_free_openssl) - [CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function](https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447)
-* [2026-06-09, 20:56:40](https://lobste.rs/s/galkdh/grit_rewriting_git_rust_with_agents) - [Grit: rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit)
 * [2026-06-09, 20:50:36](https://lobste.rs/s/g79vjn/alpine_linux_3_24_0_released) - [Alpine Linux 3.24.0 released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 16:40:11](https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just) - [An open letter to office suite users, just before the Euro-Office announcement](https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/)
 * [2026-06-09, 16:05:42](https://lobste.rs/s/tgzdhf/are_we_harold_bloom) - [Are We Harold Bloom?](https://abner.page/post/are-we-harold-bloom/)
