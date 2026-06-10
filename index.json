@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-10, 01:08:08",
+      "https://lobste.rs/s/yg1xb2/cve_2026_45447_heap_use_after_free_openssl"
+    ],
+    [
+      "CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function",
+      "https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 20:27:31",
       "https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some"
     ],
@@ -217,16 +227,6 @@
     [
       "WWDC 2026",
       "https://www.apple.com/apple-events/event-stream/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 15:12:16",
-      "https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as"
-    ],
-    [
-      "Can we stop tagging every thing as vibecoding?",
-      "https://lobste.rs/s/qgy6ak/can_we_stop_tagging_every_thing_as"
     ]
   ],
   [
