@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 13:38:17](https://lobste.rs/s/4vb0bb/i_hate_most_keyboard_fn_keys) - [I Hate (Most) Keyboard ‘Fn’ Keys](https://danq.me/2026/06/09/fn-keys/)
 * [2026-06-10, 12:12:43](https://lobste.rs/s/ti42hu/trojaned_openssh_2002) - [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html)
 * [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-10, 13:38:17](https://lobste.rs/s/4vb0bb/i_hate_most_keyboard_fn_keys) - [I Hate (Most) Keyboard ‘Fn’ Keys](https://danq.me/2026/06/09/fn-keys/)
 * [2026-06-10, 12:12:43](https://lobste.rs/s/ti42hu/trojaned_openssh_2002) - [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html)
 * [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
@@ -18,7 +19,6 @@
 * [2026-06-09, 16:05:42](https://lobste.rs/s/tgzdhf/are_we_harold_bloom) - [Are We Harold Bloom?](https://abner.page/post/are-we-harold-bloom/)
 * [2026-06-09, 14:04:10](https://lobste.rs/s/cssoxa/arcan_10_years_online_obscurity) - [Arcan: 10 Years of Online Obscurity](https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/)
 * [2026-06-09, 13:27:23](https://lobste.rs/s/oytnfw/catlantean_3d_making_graphics_like_it_s) - [Catlantean 3D - Making Graphics Like It's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
-* [2026-06-09, 13:01:26](https://lobste.rs/s/srq2wf/only_bounds) - [Only Bounds](https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/)
 * [2026-06-09, 11:48:34](https://lobste.rs/s/pwmlvz/css_unavoidable_bad_parts) - [CSS: Unavoidable Bad Parts](https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html)
 * [2026-06-09, 11:29:27](https://lobste.rs/s/pfffbz/what_yahoo_killed_when_it_bought_maktoob) - [What Yahoo killed when it bought Maktoob](https://lr0.org/blog/p/yahoo/)
 * [2026-06-09, 11:01:23](https://lobste.rs/s/cebwpi/datatype_variable_font_turns_text_into) - [Datatype — variable font that turns text into charts](https://franktisellano.github.io/datatype/)
