@@ -7,6 +7,7 @@
 * [2026-06-09, 22:41:32](https://lobste.rs/s/a5kwdy/building_persistent_cognitive) - [Building a persistent cognitive architecture for LLM agents using Elixir and OTP](https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/)
 * [2026-06-09, 21:49:00](https://lobste.rs/s/nrbriu/mmo_chip_from_microscope_verilog_hour) - [MMO-CHIP: From Microscope to Verilog in an hour](https://media.ccc.de/v/gpn24-616-mmo-chip-from-microscope-to-verilog-in-an-hour)
 * [2026-06-09, 20:56:40](https://lobste.rs/s/galkdh/grit_rewriting_git_rust_with_agents) - [Grit: rewriting Git in Rust with agents](https://blog.gitbutler.com/true-grit)
+* [2026-06-09, 20:50:36](https://lobste.rs/s/g79vjn/alpine_linux_3_24_0_released) - [Alpine Linux 3.24.0 released](https://alpinelinux.org/posts/Alpine-3.24.0-released.html)
 * [2026-06-09, 20:27:31](https://lobste.rs/s/secptg/understanding_embark_gnu_emacs_bit_some) - [Understanding Embark in GNU Emacs (a bit) and some 'stupid' Embark tricks](https://utcc.utoronto.ca/~cks/space/blog/programming/EmacsUnderstandingEmbark)
 * [2026-06-09, 20:25:50](https://lobste.rs/s/vnk1fh/ats_programming_language) - [ATS Programming Language](https://www.cs.bu.edu/~hwxi/atslangweb/)
 * [2026-06-09, 18:36:28](https://lobste.rs/s/kacy2v/ios_27_system_prompts) - [iOS 27 system prompts](https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3)
