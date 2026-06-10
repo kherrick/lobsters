@@ -1,22 +1,32 @@
 [
   [
     [
+      "2026-06-10, 10:14:49",
+      "https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12"
+    ],
+    [
+      "Upcoming breaking changes for npm v12",
+      "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
+    ]
+  ],
+  [
+    [
+      "2026-06-10, 09:34:14",
+      "https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones"
+    ],
+    [
+      "New reCaptcha requires approved phones to pass",
+      "https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/"
+    ]
+  ],
+  [
+    [
       "2026-06-10, 08:29:48",
       "https://lobste.rs/s/k85k6w/line_by_line_translation_ocaml_runtime"
     ],
     [
       "A line-by-line translation of the OCaml runtime from C to Rust",
       "https://discuss.ocaml.org/t/a-line-by-line-translation-of-the-ocaml-runtime-from-c-to-rust/18247"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 07:52:37",
-      "https://lobste.rs/s/xxzzay/goodbye_leaf_spine_networks"
-    ],
-    [
-      "Goodbye, Leaf-and-Spine Networks?",
-      "https://blog.ipspace.net/2026/06/goodbye-leaf-spine-networks/"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2026-06-09, 18:36:28",
+      "https://lobste.rs/s/kacy2v/ios_27_system_prompts"
+    ],
+    [
+      "iOS 27 system prompts",
+      "https://gist.github.com/samhenrigold/4d107eddf2c0a9d0afb428922adcc2c3"
+    ]
+  ],
+  [
+    [
       "2026-06-09, 16:40:11",
       "https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just"
     ],
@@ -137,16 +157,6 @@
     [
       "Only Bounds",
       "https://smallcultfollowing.com/babysteps/blog/2026/06/09/only-bounds/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 11:56:47",
-      "https://lobste.rs/s/9xlahj/what_262_715_regex_questions_on_stack"
-    ],
-    [
-      "what 262,715 regex questions on stack overflow haven't answered (part 2)",
-      "https://iev.ee/blog/what-262715-regex-questions-havent-answered-pt-2/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What I got wrong about fast terminals",
       "https://mijndertstuij.nl/posts/what-i-got-wrong-about-fast-terminals/"
-    ]
-  ],
-  [
-    [
-      "2026-06-08, 21:47:00",
-      "https://lobste.rs/s/cw7vxa/self_hosting_email_hard_way_from_your_own"
-    ],
-    [
-      "Self-hosting email the hard way from your own routable IPv4 block up",
-      "https://anil.recoil.org/notes/recoil-self-hosting-2026"
     ]
   ],
   [
