@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
+* [2026-06-11, 17:20:42](https://lobste.rs/s/qulbgz/agent_shell_0_55_updates) - [agent-shell 0.55 updates](https://xenodium.com/agent-shell-0-55-updates)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
 * [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
 * [2026-06-11, 14:58:25](https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine) - [EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
@@ -7,7 +9,6 @@
 * [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
 * [2026-06-11, 13:03:53](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust) - [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman)
 * [2026-06-11, 11:46:23](https://lobste.rs/s/emkaw1/odin_dev_2026_06_released) - [Odin dev-2026-06 Released](https://github.com/odin-lang/Odin/releases/tag/dev-2026-06)
-* [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 09:06:15](https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge) - [How We Moved Discord Voice to the Edge](https://discord.com/blog/how-we-moved-discord-voice-to-the-edge)
 * [2026-06-11, 07:49:26](https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt) - [Learning Regular Languages with the TTT Algorithm](https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/)
@@ -24,7 +25,6 @@
 * [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
-* [2026-06-10, 01:23:47](https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 
 ## [Archives](archives/index.md)
 
