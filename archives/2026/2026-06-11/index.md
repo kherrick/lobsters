@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
+* [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
+* [2026-06-11, 14:58:25](https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine) - [EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
 * [2026-06-11, 14:53:13](https://lobste.rs/s/hhjipg/vim_users_deserved_better_so_i_built_this) - [Vim Users Deserved Better, So I Built This](https://www.youtube.com/watch?v=661XzULWfVU)
 * [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
 * [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
+* [2026-06-11, 13:03:53](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust) - [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman)
 * [2026-06-11, 12:10:49](https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support) - [FlowG v0.59.0 is out, with Dark Mode support](https://flowg.cloud/blog/darkmode)
 * [2026-06-11, 11:46:23](https://lobste.rs/s/emkaw1/odin_dev_2026_06_released) - [Odin dev-2026-06 Released](https://github.com/odin-lang/Odin/releases/tag/dev-2026-06)
 * [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
