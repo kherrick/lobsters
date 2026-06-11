@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-11, 17:32:42",
+      "https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust"
+    ],
+    [
+      "There Is Life Before Main in Rust",
+      "https://grack.com/blog/2026/06/11/life-before-main/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 17:20:42",
+      "https://lobste.rs/s/qulbgz/agent_shell_0_55_updates"
+    ],
+    [
+      "agent-shell 0.55 updates",
+      "https://xenodium.com/agent-shell-0-55-updates"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 16:15:10",
       "https://lobste.rs/s/3mg7xo/reuse_less_software"
     ],
@@ -67,16 +87,6 @@
     [
       "Odin dev-2026-06 Released",
       "https://github.com/odin-lang/Odin/releases/tag/dev-2026-06"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 10:57:46",
-      "https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee"
-    ],
-    [
-      "TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M",
-      "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "New reCaptcha requires approved phones to pass",
       "https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 01:23:47",
-      "https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll"
-    ],
-    [
-      "If Claude Fable stops helping you, you'll never know",
-      "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html"
     ]
   ]
 ]
