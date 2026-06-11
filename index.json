@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-11, 10:57:46",
+      "https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee"
+    ],
+    [
+      "TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M",
+      "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 10:39:30",
+      "https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles"
+    ],
+    [
+      "Web Browsers on Video Game Consoles",
+      "https://vale.rocks/posts/game-console-browsers"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 07:49:26",
       "https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt"
     ],
@@ -47,16 +67,6 @@
     [
       "hax: A Rust verification tool",
       "https://github.com/cryspen/hax"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 02:53:22",
-      "https://lobste.rs/s/mvprmo/our_devenv_is_another_repo"
-    ],
-    [
-      "But Our Devenv Is In Another Repo",
-      "https://evantravers.com/articles/2026/06/10/but-our-devenv-is-in-another-repo/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "If Claude Fable stops helping you, you'll never know",
       "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 10:55:01",
-      "https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated"
-    ],
-    [
-      "Test-case Reducers Are Underappreciated Debugging Tools",
-      "https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html"
     ]
   ]
 ]
