@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-10](index.md)
 
+* [2026-06-10, 23:52:12](https://lobste.rs/s/fg2oe9/linux_latency_measurements_compositor) - [Linux latency measurements and compositor tuning](https://farnoy.dev/posts/linux-latency/)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-10, 23:19:18](https://lobste.rs/s/pfbet6/steady_hand_eeprom_programmer) - [Steady Hand EEPROM Programmer](https://codeberg.org/interrupt_tv/steadyhand)
 * [2026-06-10, 21:06:06](https://lobste.rs/s/1mhgan/rebuilding_my_blog_with_machines_for) - [Rebuilding my blog with machines, for machines ·](https://blog.lvmbdv.dev/posts/rebuilding-my-blog-with-machines-for-machines/)
