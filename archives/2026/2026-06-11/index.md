@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 14:53:13](https://lobste.rs/s/hhjipg/vim_users_deserved_better_so_i_built_this) - [Vim Users Deserved Better, So I Built This](https://www.youtube.com/watch?v=661XzULWfVU)
 * [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
 * [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
 * [2026-06-11, 12:10:49](https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support) - [FlowG v0.59.0 is out, with Dark Mode support](https://flowg.cloud/blog/darkmode)
@@ -18,3 +19,4 @@
 * [2026-06-11, 06:27:09](https://lobste.rs/s/rdbc5p/hax_rust_verification_tool) - [hax: A Rust verification tool](https://github.com/cryspen/hax)
 * [2026-06-11, 02:53:22](https://lobste.rs/s/mvprmo/our_devenv_is_another_repo) - [But Our Devenv Is In Another Repo](https://evantravers.com/articles/2026/06/10/but-our-devenv-is-in-another-repo/)
 * [2026-06-11, 02:05:26](https://lobste.rs/s/dlmkdx/shrubbery_syntax_for_racket) - [Shrubbery syntax for Racket](https://docs.racket-lang.org/shrubbery/index.html)
+* [2026-06-11, 00:13:18](https://lobste.rs/s/xo62fe/lets_encrypt_june_tos_update_no_more_for_us) - [Lets Encrypt June ToS Update: no more for US sanctioned people](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)

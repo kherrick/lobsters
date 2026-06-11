@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-11, 14:53:13](https://lobste.rs/s/hhjipg/vim_users_deserved_better_so_i_built_this) - [Vim Users Deserved Better, So I Built This](https://www.youtube.com/watch?v=661XzULWfVU)
 * [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
 * [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
-* [2026-06-11, 12:10:49](https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support) - [FlowG v0.59.0 is out, with Dark Mode support](https://flowg.cloud/blog/darkmode)
 * [2026-06-11, 11:46:23](https://lobste.rs/s/emkaw1/odin_dev_2026_06_released) - [Odin dev-2026-06 Released](https://github.com/odin-lang/Odin/releases/tag/dev-2026-06)
 * [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
@@ -13,6 +13,7 @@
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-11, 06:27:09](https://lobste.rs/s/rdbc5p/hax_rust_verification_tool) - [hax: A Rust verification tool](https://github.com/cryspen/hax)
 * [2026-06-11, 02:05:26](https://lobste.rs/s/dlmkdx/shrubbery_syntax_for_racket) - [Shrubbery syntax for Racket](https://docs.racket-lang.org/shrubbery/index.html)
+* [2026-06-11, 00:13:18](https://lobste.rs/s/xo62fe/lets_encrypt_june_tos_update_no_more_for_us) - [Lets Encrypt June ToS Update: no more for US sanctioned people](https://letsencrypt.org/documents/LE-SA-v1.7-June-04-2026-diff.pdf)
 * [2026-06-10, 23:52:12](https://lobste.rs/s/fg2oe9/linux_latency_measurements_compositor) - [Linux latency measurements and compositor tuning](https://farnoy.dev/posts/linux-latency/)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-10, 18:13:56](https://lobste.rs/s/eiknm1/static_types_shovels) - [Static types and shovels](https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html)
@@ -23,7 +24,6 @@
 * [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
-* [2026-06-10, 05:32:16](https://lobste.rs/s/tdvu7a/blogging_with_llm_assistant) - [Blogging with an LLM assistant](https://vincent.bernat.ch/en/blog/2026-blogging-llm)
 * [2026-06-10, 01:23:47](https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
 
 ## [Archives](archives/index.md)
