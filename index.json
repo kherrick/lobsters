@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2026-06-11, 16:57:35",
+      "https://lobste.rs/s/3vtdfz/those_old_modem_upgrades"
+    ],
+    [
+      "Those old modem upgrades",
+      "https://sals.place/blog/those-old-modem-upgrades/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 16:15:10",
       "https://lobste.rs/s/3mg7xo/reuse_less_software"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2026-06-11, 10:57:46",
+      "https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee"
+    ],
+    [
+      "TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M",
+      "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 10:39:30",
       "https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles"
     ],
@@ -157,26 +177,6 @@
     [
       "hax: A Rust verification tool",
       "https://github.com/cryspen/hax"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 02:05:26",
-      "https://lobste.rs/s/dlmkdx/shrubbery_syntax_for_racket"
-    ],
-    [
-      "Shrubbery syntax for Racket",
-      "https://docs.racket-lang.org/shrubbery/index.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 23:52:12",
-      "https://lobste.rs/s/fg2oe9/linux_latency_measurements_compositor"
-    ],
-    [
-      "Linux latency measurements and compositor tuning",
-      "https://farnoy.dev/posts/linux-latency/"
     ]
   ],
   [
