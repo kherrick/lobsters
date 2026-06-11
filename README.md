@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
+* [2026-06-11, 20:43:54](https://lobste.rs/s/b5k2ao/malicious_packages_spreading_aur) - [Malicious Packages Spreading in AUR](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
 * [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
 * [2026-06-11, 17:20:42](https://lobste.rs/s/qulbgz/agent_shell_0_55_updates) - [agent-shell 0.55 updates](https://xenodium.com/agent-shell-0-55-updates)
@@ -22,7 +23,6 @@
 * [2026-06-10, 18:13:56](https://lobste.rs/s/eiknm1/static_types_shovels) - [Static types and shovels](https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html)
 * [2026-06-10, 16:49:45](https://lobste.rs/s/05t4zb/nontrailing_separators_do_not_spark_joy) - [Nontrailing separators do not spark joy](https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/)
 * [2026-06-10, 16:40:36](https://lobste.rs/s/qgfagh/jqwik_anti_ai_affair) - [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
-* [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 
