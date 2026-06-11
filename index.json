@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2026-06-10, 21:06:06",
-      "https://lobste.rs/s/1mhgan/rebuilding_my_blog_with_machines_for"
-    ],
-    [
-      "Rebuilding my blog with machines, for machines ·",
-      "https://blog.lvmbdv.dev/posts/rebuilding-my-blog-with-machines-for-machines/"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 18:13:56",
       "https://lobste.rs/s/eiknm1/static_types_shovels"
     ],
@@ -217,6 +207,16 @@
     [
       "CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function",
       "https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447"
+    ]
+  ],
+  [
+    [
+      "2026-06-09, 20:50:36",
+      "https://lobste.rs/s/g79vjn/alpine_linux_3_24_0_released"
+    ],
+    [
+      "Alpine Linux 3.24.0 released",
+      "https://alpinelinux.org/posts/Alpine-3.24.0-released.html"
     ]
   ],
   [
