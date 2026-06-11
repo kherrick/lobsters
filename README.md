@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
+* [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
 * [2026-06-11, 12:10:49](https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support) - [FlowG v0.59.0 is out, with Dark Mode support](https://flowg.cloud/blog/darkmode)
 * [2026-06-11, 11:46:23](https://lobste.rs/s/emkaw1/odin_dev_2026_06_released) - [Odin dev-2026-06 Released](https://github.com/odin-lang/Odin/releases/tag/dev-2026-06)
 * [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
@@ -18,8 +20,6 @@
 * [2026-06-10, 16:49:45](https://lobste.rs/s/05t4zb/nontrailing_separators_do_not_spark_joy) - [Nontrailing separators do not spark joy](https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/)
 * [2026-06-10, 16:40:36](https://lobste.rs/s/qgfagh/jqwik_anti_ai_affair) - [The Jqwik Anti-AI Affair](https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/)
 * [2026-06-10, 16:18:11](https://lobste.rs/s/p4ey1w/human_control) - [A human in control](https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/)
-* [2026-06-10, 13:38:17](https://lobste.rs/s/4vb0bb/i_hate_most_keyboard_fn_keys) - [I Hate (Most) Keyboard ‘Fn’ Keys](https://danq.me/2026/06/09/fn-keys/)
-* [2026-06-10, 12:12:43](https://lobste.rs/s/ti42hu/trojaned_openssh_2002) - [Trojaned OpenSSH (in 2002)](http://miod.online.fr/software/openbsd/stories/trojan.html)
 * [2026-06-10, 11:51:24](https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released) - [macOS container tool v1.0.0 released](https://github.com/apple/container)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
+* [2026-06-11, 13:40:17](https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx) - [CVE-2026-45257: LPE in FreeBSD via kTLS-RX](https://bumsrake.de)
 * [2026-06-11, 12:10:49](https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support) - [FlowG v0.59.0 is out, with Dark Mode support](https://flowg.cloud/blog/darkmode)
 * [2026-06-11, 11:46:23](https://lobste.rs/s/emkaw1/odin_dev_2026_06_released) - [Odin dev-2026-06 Released](https://github.com/odin-lang/Odin/releases/tag/dev-2026-06)
 * [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
