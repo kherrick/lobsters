@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-11, 13:50:22",
+      "https://lobste.rs/s/khavt4/your_interface_has_two_channels"
+    ],
+    [
+      "Your Interface Has Two Channels",
+      "https://tomeraberba.ch/your-interface-has-two-channels"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 13:40:17",
+      "https://lobste.rs/s/bdyu6l/cve_2026_45257_lpe_freebsd_via_ktls_rx"
+    ],
+    [
+      "CVE-2026-45257: LPE in FreeBSD via kTLS-RX",
+      "https://bumsrake.de"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 12:10:49",
       "https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support"
     ],
@@ -177,26 +197,6 @@
     [
       "A human in control",
       "https://daniel.haxx.se/blog/2026/06/10/a-human-in-control/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 13:38:17",
-      "https://lobste.rs/s/4vb0bb/i_hate_most_keyboard_fn_keys"
-    ],
-    [
-      "I Hate (Most) Keyboard ‘Fn’ Keys",
-      "https://danq.me/2026/06/09/fn-keys/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 12:12:43",
-      "https://lobste.rs/s/ti42hu/trojaned_openssh_2002"
-    ],
-    [
-      "Trojaned OpenSSH (in 2002)",
-      "http://miod.online.fr/software/openbsd/stories/trojan.html"
     ]
   ],
   [
