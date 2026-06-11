@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
 * [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
 * [2026-06-11, 17:20:42](https://lobste.rs/s/qulbgz/agent_shell_0_55_updates) - [agent-shell 0.55 updates](https://xenodium.com/agent-shell-0-55-updates)
 * [2026-06-11, 17:14:56](https://lobste.rs/s/zrntog/software_is_made_between_commits) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
-* [2026-06-11, 16:57:35](https://lobste.rs/s/3vtdfz/those_old_modem_upgrades) - [Those old modem upgrades](https://sals.place/blog/those-old-modem-upgrades/)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
 * [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
 * [2026-06-11, 14:58:25](https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine) - [EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
