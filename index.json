@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-11, 12:10:49",
+      "https://lobste.rs/s/r6qxta/flowg_v0_59_0_is_out_with_dark_mode_support"
+    ],
+    [
+      "FlowG v0.59.0 is out, with Dark Mode support",
+      "https://flowg.cloud/blog/darkmode"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 11:46:23",
+      "https://lobste.rs/s/emkaw1/odin_dev_2026_06_released"
+    ],
+    [
+      "Odin dev-2026-06 Released",
+      "https://github.com/odin-lang/Odin/releases/tag/dev-2026-06"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 10:57:46",
       "https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee"
     ],
@@ -17,6 +37,16 @@
     [
       "Web Browsers on Video Game Consoles",
       "https://vale.rocks/posts/game-console-browsers"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 09:06:15",
+      "https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge"
+    ],
+    [
+      "How We Moved Discord Voice to the Edge",
+      "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-06-10, 23:19:18",
-      "https://lobste.rs/s/pfbet6/steady_hand_eeprom_programmer"
-    ],
-    [
-      "Steady Hand EEPROM Programmer",
-      "https://codeberg.org/interrupt_tv/steadyhand"
-    ]
-  ],
-  [
-    [
       "2026-06-10, 18:13:56",
       "https://lobste.rs/s/eiknm1/static_types_shovels"
     ],
@@ -137,16 +157,6 @@
     [
       "Nontrailing separators do not spark joy",
       "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 16:41:42",
-      "https://lobste.rs/s/gdn9cc/tao_datastar"
-    ],
-    [
-      "The Tao of Datastar",
-      "https://data-star.dev/guide/the_tao_of_datastar"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "How building an HTML-first site doubled our users overnight",
       "https://mohkohn.co.uk/writing/html-first/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 10:14:49",
-      "https://lobste.rs/s/drkeug/upcoming_breaking_changes_for_npm_v12"
-    ],
-    [
-      "Upcoming breaking changes for npm v12",
-      "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/"
     ]
   ],
   [
