@@ -1,6 +1,26 @@
 [
   [
     [
+      "2026-06-11, 06:47:18",
+      "https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai"
+    ],
+    [
+      "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+      "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 02:53:22",
+      "https://lobste.rs/s/mvprmo/our_devenv_is_another_repo"
+    ],
+    [
+      "But Our Devenv Is In Another Repo",
+      "https://evantravers.com/articles/2026/06/10/but-our-devenv-is-in-another-repo/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 02:05:26",
       "https://lobste.rs/s/dlmkdx/shrubbery_syntax_for_racket"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2026-06-10, 01:08:08",
-      "https://lobste.rs/s/yg1xb2/cve_2026_45447_heap_use_after_free_openssl"
-    ],
-    [
-      "CVE-2026-45447: Heap Use-After-Free in the OpenSSL PKCS7_verify() Function",
-      "https://openssl-library.org/news/vulnerabilities/#CVE-2026-45447"
-    ]
-  ],
-  [
-    [
       "2026-06-09, 16:40:11",
       "https://lobste.rs/s/fpgqm0/open_letter_office_suite_users_just"
     ],
     [
       "An open letter to office suite users, just before the Euro-Office announcement",
       "https://blog.documentfoundation.org/blog/2026/06/08/an-open-letter/"
-    ]
-  ],
-  [
-    [
-      "2026-06-09, 13:27:23",
-      "https://lobste.rs/s/oytnfw/catlantean_3d_making_graphics_like_it_s"
-    ],
-    [
-      "Catlantean 3D - Making Graphics Like It's 1993",
-      "https://staniks.github.io/articles/catlantean-3d-blog-1/"
     ]
   ],
   [
