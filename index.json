@@ -1,6 +1,16 @@
 [
   [
     [
+      "2026-06-11, 19:36:02",
+      "https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by"
+    ],
+    [
+      "Hundreds of AUR packages attacked by infostealer",
+      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 17:32:42",
       "https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust"
     ],
@@ -17,6 +27,16 @@
     [
       "agent-shell 0.55 updates",
       "https://xenodium.com/agent-shell-0-55-updates"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 17:14:56",
+      "https://lobste.rs/s/zrntog/software_is_made_between_commits"
+    ],
+    [
+      "Software Is Made Between Commits",
+      "https://zed.dev/blog/introducing-deltadb"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2026-06-11, 07:49:26",
-      "https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt"
-    ],
-    [
-      "Learning Regular Languages with the TTT Algorithm",
-      "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 07:47:23",
       "https://lobste.rs/s/vhp5x9/otp_gleam"
     ],
@@ -167,16 +177,6 @@
     [
       "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
       "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 06:27:09",
-      "https://lobste.rs/s/rdbc5p/hax_rust_verification_tool"
-    ],
-    [
-      "hax: A Rust verification tool",
-      "https://github.com/cryspen/hax"
     ]
   ],
   [
