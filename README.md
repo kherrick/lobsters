@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
+* [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 07:49:26](https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt) - [Learning Regular Languages with the TTT Algorithm](https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/)
 * [2026-06-11, 07:47:23](https://lobste.rs/s/vhp5x9/otp_gleam) - [OTP and Gleam](https://www.youtube.com/watch?v=DJwxAJoUUOU)
 * [2026-06-11, 07:18:03](https://lobste.rs/s/qsrmdw/brief_introduction_icon) - [A Brief Introduction to Icon](https://www2.cs.arizona.edu/icon/intro.htm)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-11, 06:27:09](https://lobste.rs/s/rdbc5p/hax_rust_verification_tool) - [hax: A Rust verification tool](https://github.com/cryspen/hax)
-* [2026-06-11, 02:53:22](https://lobste.rs/s/mvprmo/our_devenv_is_another_repo) - [But Our Devenv Is In Another Repo](https://evantravers.com/articles/2026/06/10/but-our-devenv-is-in-another-repo/)
 * [2026-06-11, 02:05:26](https://lobste.rs/s/dlmkdx/shrubbery_syntax_for_racket) - [Shrubbery syntax for Racket](https://docs.racket-lang.org/shrubbery/index.html)
 * [2026-06-10, 23:52:12](https://lobste.rs/s/fg2oe9/linux_latency_measurements_compositor) - [Linux latency measurements and compositor tuning](https://farnoy.dev/posts/linux-latency/)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
@@ -24,7 +25,6 @@
 * [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 * [2026-06-10, 05:32:16](https://lobste.rs/s/tdvu7a/blogging_with_llm_assistant) - [Blogging with an LLM assistant](https://vincent.bernat.ch/en/blog/2026-blogging-llm)
 * [2026-06-10, 01:23:47](https://lobste.rs/s/f2fwny/if_claude_fable_stops_helping_you_you_ll) - [If Claude Fable stops helping you, you'll never know](https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html)
-* [2026-06-09, 10:55:01](https://lobste.rs/s/zwn4xe/test_case_reducers_are_underappreciated) - [Test-case Reducers Are Underappreciated Debugging Tools](https://tratt.net/laurie/blog/2026/test_case_reducers_are_underappreciated_debugging_tools.html)
 
 ## [Archives](archives/index.md)
 

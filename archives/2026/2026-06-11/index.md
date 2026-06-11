@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 10:57:46](https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee) - [TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M](https://sigma-star.at/blog/2026/06/trustzone-intermezzo/)
+* [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 07:49:26](https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt) - [Learning Regular Languages with the TTT Algorithm](https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/)
 * [2026-06-11, 07:47:23](https://lobste.rs/s/vhp5x9/otp_gleam) - [OTP and Gleam](https://www.youtube.com/watch?v=DJwxAJoUUOU)
 * [2026-06-11, 07:18:03](https://lobste.rs/s/qsrmdw/brief_introduction_icon) - [A Brief Introduction to Icon](https://www2.cs.arizona.edu/icon/intro.htm)
