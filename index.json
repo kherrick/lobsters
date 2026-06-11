@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-11, 20:43:54",
+      "https://lobste.rs/s/b5k2ao/malicious_packages_spreading_aur"
+    ],
+    [
+      "Malicious Packages Spreading in AUR",
+      "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 19:36:02",
       "https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by"
     ],
@@ -217,16 +227,6 @@
     [
       "The Jqwik Anti-AI Affair",
       "https://blog.johanneslink.net/2026/06/09/the-jqwik-anti-ai-affair/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 11:51:24",
-      "https://lobste.rs/s/vlpi8y/macos_container_tool_v1_0_0_released"
-    ],
-    [
-      "macOS container tool v1.0.0 released",
-      "https://github.com/apple/container"
     ]
   ],
   [
