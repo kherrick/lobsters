@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2026-06-12, 05:44:29",
-      "https://lobste.rs/s/os0kus/comchan_terminal_based_serial_monitor"
-    ],
-    [
-      "ComChan: Terminal-based serial monitor with plotter TUI : r/tui",
-      "https://www.reddit.com/r/tui/comments/1u3mjfs/comchan_terminalbased_serial_monitor_with_plotter/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 05:39:08",
       "https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow"
     ],
@@ -41,12 +31,32 @@
   ],
   [
     [
+      "2026-06-12, 04:00:38",
+      "https://lobste.rs/s/byrh9c/faking_keyword_arguments_functions_c"
+    ],
+    [
+      "Faking keyword arguments to functions in C++",
+      "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html"
+    ]
+  ],
+  [
+    [
       "2026-06-11, 23:35:02",
       "https://lobste.rs/s/ve1lqr/homebrew_6_0_0"
     ],
     [
       "Homebrew 6.0.0",
       "https://brew.sh/2026/06/11/homebrew-6.0.0/"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 22:08:28",
+      "https://lobste.rs/s/mpotqq/formal_methods_future_programming"
+    ],
+    [
+      "Formal methods and the future of programming",
+      "https://blog.janestreet.com/formal-methods-at-jane-street-index"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Web Browsers on Video Game Consoles",
       "https://vale.rocks/posts/game-console-browsers"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 09:06:15",
-      "https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge"
-    ],
-    [
-      "How We Moved Discord Voice to the Edge",
-      "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge"
     ]
   ],
   [
