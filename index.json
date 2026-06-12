@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-12, 13:21:35",
+      "https://lobste.rs/s/xeyvb4/factoring_short_sleeve_rsa_keys_with"
+    ],
+    [
+      "Factoring \"short-sleeve\" RSA keys with polynomials",
+      "https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 13:09:04",
+      "https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames"
+    ],
+    [
+      "Unicode composition for filenames",
+      "https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 13:04:47",
+      "https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 11:56:25",
       "https://lobste.rs/s/fiiamm/orthodox_c_2016"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-06-11, 14:58:25",
-      "https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine"
-    ],
-    [
-      "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation",
-      "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 13:50:22",
       "https://lobste.rs/s/khavt4/your_interface_has_two_channels"
     ],
@@ -217,26 +237,6 @@
     [
       "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt",
       "https://lr0.org/blog/p/arabic/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 18:13:56",
-      "https://lobste.rs/s/eiknm1/static_types_shovels"
-    ],
-    [
-      "Static types and shovels",
-      "https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 16:49:45",
-      "https://lobste.rs/s/05t4zb/nontrailing_separators_do_not_spark_joy"
-    ],
-    [
-      "Nontrailing separators do not spark joy",
-      "https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/"
     ]
   ],
   [
