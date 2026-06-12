@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-11](index.md)
 
+* [2026-06-11, 23:35:02](https://lobste.rs/s/ve1lqr/homebrew_6_0_0) - [Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2026-06-11, 20:43:54](https://lobste.rs/s/b5k2ao/malicious_packages_spreading_aur) - [Malicious Packages Spreading in AUR](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/)
 * [2026-06-11, 20:32:45](https://lobste.rs/s/wcdzpt/bab_family_hashing_functions_for_p2p) - [Bab: a family of hashing functions for p2p networks](https://bab-hash.org/)
