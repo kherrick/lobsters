@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-12, 21:24:17](https://lobste.rs/s/o8i26c/swift_at_apple_migrating_truetype) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://swift.org/blog/migrating-truetype-hinting-to-swift/)
+* [2026-06-12, 20:08:44](https://lobste.rs/s/1yjftk/if_you_are_asking_for_human_attention) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-12, 17:43:25](https://lobste.rs/s/kosw9h/wasi_0_3_launched) - [WASI 0.3 Launched](https://bytecodealliance.org/articles/WASI-0.3)
 * [2026-06-12, 17:23:35](https://lobste.rs/s/n5gyfj/erm_local_cli_strips_ums_uhs_erms_from) - [erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
 * [2026-06-12, 17:06:44](https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure) - [A columnar database for analytics in pure Clojure](https://github.com/yogthos/flatiron)
@@ -17,12 +19,10 @@
 * [2026-06-12, 04:23:10](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from) - [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver)
 * [2026-06-11, 23:35:02](https://lobste.rs/s/ve1lqr/homebrew_6_0_0) - [Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
-* [2026-06-11, 20:32:45](https://lobste.rs/s/wcdzpt/bab_family_hashing_functions_for_p2p) - [Bab: a family of hashing functions for p2p networks](https://bab-hash.org/)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
 * [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
 * [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
-* [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
 

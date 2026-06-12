@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 21:24:17](https://lobste.rs/s/o8i26c/swift_at_apple_migrating_truetype) - [Swift at Apple: Migrating the TrueType Hinting Interpreter](https://swift.org/blog/migrating-truetype-hinting-to-swift/)
+* [2026-06-12, 20:08:44](https://lobste.rs/s/1yjftk/if_you_are_asking_for_human_attention) - [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 * [2026-06-12, 17:43:25](https://lobste.rs/s/kosw9h/wasi_0_3_launched) - [WASI 0.3 Launched](https://bytecodealliance.org/articles/WASI-0.3)
 * [2026-06-12, 17:23:35](https://lobste.rs/s/n5gyfj/erm_local_cli_strips_ums_uhs_erms_from) - [erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech](https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/)
 * [2026-06-12, 17:06:44](https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure) - [A columnar database for analytics in pure Clojure](https://github.com/yogthos/flatiron)
