@@ -13,6 +13,7 @@
 * [2026-06-11, 17:14:56](https://lobste.rs/s/zrntog/software_is_made_between_commits) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
 * [2026-06-11, 16:57:35](https://lobste.rs/s/3vtdfz/those_old_modem_upgrades) - [Those old modem upgrades](https://sals.place/blog/those-old-modem-upgrades/)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
+* [2026-06-11, 15:55:16](https://lobste.rs/s/8v2hjz/encrypted_spaces) - [Encrypted Spaces](https://encryptedspaces.org)
 * [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
 * [2026-06-11, 14:58:25](https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine) - [EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
 * [2026-06-11, 14:53:13](https://lobste.rs/s/hhjipg/vim_users_deserved_better_so_i_built_this) - [Vim Users Deserved Better, So I Built This](https://www.youtube.com/watch?v=661XzULWfVU)
