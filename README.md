@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-12, 11:56:25](https://lobste.rs/s/fiiamm/orthodox_c_2016) - [Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
 * [2026-06-12, 04:23:10](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from) - [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver)
@@ -12,7 +13,6 @@
 * [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
 * [2026-06-11, 17:20:42](https://lobste.rs/s/qulbgz/agent_shell_0_55_updates) - [agent-shell 0.55 updates](https://xenodium.com/agent-shell-0-55-updates)
 * [2026-06-11, 17:14:56](https://lobste.rs/s/zrntog/software_is_made_between_commits) - [Software Is Made Between Commits](https://zed.dev/blog/introducing-deltadb)
-* [2026-06-11, 16:57:35](https://lobste.rs/s/3vtdfz/those_old_modem_upgrades) - [Those old modem upgrades](https://sals.place/blog/those-old-modem-upgrades/)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
 * [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
 * [2026-06-11, 14:58:25](https://lobste.rs/s/efnxre/ec2_s_formally_verified_isolation_engine) - [EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation](https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation)
