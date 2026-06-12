@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2026-06-12](index.md)
 
+* [2026-06-12, 15:13:27](https://lobste.rs/s/5rxbmo/meet_new_sovereign_tech_fellows) - [Meet the new Sovereign Tech Fellows](https://www.sovereign.tech/news/meet-the-2026-sovereign-tech-fellows)
 * [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
 * [2026-06-12, 13:43:51](https://lobste.rs/s/vg5hdf/designing_lispy_dsls_part_1_scss_2012) - [Designing Lispy DSLs, part 1: SCSS (2012)](https://www.more-magic.net/posts/lispy-dsl-scss.html)
 * [2026-06-12, 13:21:35](https://lobste.rs/s/xeyvb4/factoring_short_sleeve_rsa_keys_with) - [Factoring \"short-sleeve\" RSA keys with polynomials](https://blog.trailofbits.com/2026/06/12/factoring-short-sleeve-rsa-keys-with-polynomials/)
+* [2026-06-12, 13:09:04](https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames_2008) - [Unicode composition for filenames (2008)](https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames)
 * [2026-06-12, 13:09:04](https://lobste.rs/s/g3jf3e/unicode_composition_for_filenames) - [Unicode composition for filenames](https://svn.apache.org/repos/asf/subversion/trunk/notes/unicode-composition-for-filenames)
 * [2026-06-12, 13:04:47](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qnv1dy/what_are_you_doing_this_weekend)
 * [2026-06-12, 11:56:25](https://lobste.rs/s/fiiamm/orthodox_c_2016) - [Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)
