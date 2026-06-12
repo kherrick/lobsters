@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2026-06-12, 17:23:35",
+      "https://lobste.rs/s/n5gyfj/erm_local_cli_strips_ums_uhs_erms_from"
+    ],
+    [
+      "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech",
+      "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 17:06:44",
       "https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure"
     ],
@@ -47,6 +57,16 @@
     [
       "Nix Flakes and their Guix Equivalents",
       "https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 14:01:51",
+      "https://lobste.rs/s/ivzqxi/looking_forward_postgres_19_it_s_about"
+    ],
+    [
+      "Looking Forward to Postgres 19: It's About Time",
+      "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2026-06-11, 22:08:28",
-      "https://lobste.rs/s/mpotqq/formal_methods_future_programming"
-    ],
-    [
-      "Formal methods and the future of programming",
-      "https://blog.janestreet.com/formal-methods-at-jane-street-index"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 20:53:25",
       "https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale"
     ],
@@ -217,16 +227,6 @@
     [
       "Your Interface Has Two Channels",
       "https://tomeraberba.ch/your-interface-has-two-channels"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 10:39:30",
-      "https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles"
-    ],
-    [
-      "Web Browsers on Video Game Consoles",
-      "https://vale.rocks/posts/game-console-browsers"
     ]
   ],
   [
