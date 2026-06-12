@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2026-06-11, 10:57:46",
-      "https://lobste.rs/s/uz1fle/trustzone_intermezzo_broken_op_tee"
-    ],
-    [
-      "TrustZone Intermezzo: Broken OP-TEE Memory Isolation on i.MX 8M",
-      "https://sigma-star.at/blog/2026/06/trustzone-intermezzo/"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 10:39:30",
       "https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles"
     ],
@@ -167,6 +157,16 @@
     [
       "How We Moved Discord Voice to the Edge",
       "https://discord.com/blog/how-we-moved-discord-voice-to-the-edge"
+    ]
+  ],
+  [
+    [
+      "2026-06-11, 07:49:26",
+      "https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt"
+    ],
+    [
+      "Learning Regular Languages with the TTT Algorithm",
+      "https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/"
     ]
   ],
   [
