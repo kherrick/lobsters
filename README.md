@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+* [2026-06-12, 05:44:29](https://lobste.rs/s/os0kus/comchan_terminal_based_serial_monitor) - [ComChan: Terminal-based serial monitor with plotter TUI : r/tui](https://www.reddit.com/r/tui/comments/1u3mjfs/comchan_terminalbased_serial_monitor_with_plotter/)
 * [2026-06-12, 04:23:10](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from) - [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver)
 * [2026-06-11, 23:35:02](https://lobste.rs/s/ve1lqr/homebrew_6_0_0) - [Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
@@ -17,14 +19,12 @@
 * [2026-06-11, 13:03:53](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust) - [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 09:06:15](https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge) - [How We Moved Discord Voice to the Edge](https://discord.com/blog/how-we-moved-discord-voice-to-the-edge)
-* [2026-06-11, 07:47:23](https://lobste.rs/s/vhp5x9/otp_gleam) - [OTP and Gleam](https://www.youtube.com/watch?v=DJwxAJoUUOU)
 * [2026-06-11, 07:18:03](https://lobste.rs/s/qsrmdw/brief_introduction_icon) - [A Brief Introduction to Icon](https://www2.cs.arizona.edu/icon/intro.htm)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
 * [2026-06-10, 18:13:56](https://lobste.rs/s/eiknm1/static_types_shovels) - [Static types and shovels](https://carefully.understood.systems/blog-2026-06-10-static-type-shovel.html)
 * [2026-06-10, 16:49:45](https://lobste.rs/s/05t4zb/nontrailing_separators_do_not_spark_joy) - [Nontrailing separators do not spark joy](https://buttondown.com/hillelwayne/archive/nontrailing-separators-do-not-spark-joy/)
 * [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
-* [2026-06-10, 09:34:14](https://lobste.rs/s/p07gv1/new_recaptcha_requires_approved_phones) - [New reCaptcha requires approved phones to pass](https://cybernews.com/privacy/google-qr-code-recaptcha-requires-approved-phone/)
 
 ## [Archives](archives/index.md)
 
