@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-12, 17:43:25",
+      "https://lobste.rs/s/kosw9h/wasi_0_3_launched"
+    ],
+    [
+      "WASI 0.3 Launched",
+      "https://bytecodealliance.org/articles/WASI-0.3"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 17:06:44",
+      "https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure"
+    ],
+    [
+      "A columnar database for analytics in pure Clojure",
+      "https://github.com/yogthos/flatiron"
+    ]
+  ],
+  [
+    [
+      "2026-06-12, 17:04:19",
+      "https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump"
+    ],
+    [
+      "Turn your site into a place people can bump into each other",
+      "https://cauenapier.com/blog/townsquare_release/"
+    ]
+  ],
+  [
+    [
       "2026-06-12, 15:13:27",
       "https://lobste.rs/s/5rxbmo/meet_new_sovereign_tech_fellows"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2026-06-12, 04:00:38",
-      "https://lobste.rs/s/byrh9c/faking_keyword_arguments_functions_c"
-    ],
-    [
-      "Faking keyword arguments to functions in C++",
-      "https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 23:35:02",
       "https://lobste.rs/s/ve1lqr/homebrew_6_0_0"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2026-06-11, 13:03:53",
-      "https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust"
-    ],
-    [
-      "merman: Mermaid.js, but headless, in Rust",
-      "https://github.com/Latias94/merman"
-    ]
-  ],
-  [
-    [
       "2026-06-11, 10:39:30",
       "https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles"
     ],
@@ -237,16 +247,6 @@
     [
       "An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt",
       "https://lr0.org/blog/p/arabic/"
-    ]
-  ],
-  [
-    [
-      "2026-06-10, 11:13:17",
-      "https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our"
-    ],
-    [
-      "How building an HTML-first site doubled our users overnight",
-      "https://mohkohn.co.uk/writing/html-first/"
     ]
   ]
 ]
