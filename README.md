@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-12, 17:43:25](https://lobste.rs/s/kosw9h/wasi_0_3_launched) - [WASI 0.3 Launched](https://bytecodealliance.org/articles/WASI-0.3)
+* [2026-06-12, 17:06:44](https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure) - [A columnar database for analytics in pure Clojure](https://github.com/yogthos/flatiron)
+* [2026-06-12, 17:04:19](https://lobste.rs/s/bsavh7/turn_your_site_into_place_people_can_bump) - [Turn your site into a place people can bump into each other](https://cauenapier.com/blog/townsquare_release/)
 * [2026-06-12, 15:13:27](https://lobste.rs/s/5rxbmo/meet_new_sovereign_tech_fellows) - [Meet the new Sovereign Tech Fellows](https://www.sovereign.tech/news/meet-the-2026-sovereign-tech-fellows)
 * [2026-06-12, 14:20:34](https://lobste.rs/s/fybei2/nix_flakes_their_guix_equivalents) - [Nix Flakes and their Guix Equivalents](https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca)
 * [2026-06-12, 13:43:51](https://lobste.rs/s/vg5hdf/designing_lispy_dsls_part_1_scss_2012) - [Designing Lispy DSLs, part 1: SCSS (2012)](https://www.more-magic.net/posts/lispy-dsl-scss.html)
@@ -10,7 +13,6 @@
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
 * [2026-06-12, 04:23:10](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from) - [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver)
-* [2026-06-12, 04:00:38](https://lobste.rs/s/byrh9c/faking_keyword_arguments_functions_c) - [Faking keyword arguments to functions in C++](https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html)
 * [2026-06-11, 23:35:02](https://lobste.rs/s/ve1lqr/homebrew_6_0_0) - [Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 22:08:28](https://lobste.rs/s/mpotqq/formal_methods_future_programming) - [Formal methods and the future of programming](https://blog.janestreet.com/formal-methods-at-jane-street-index)
 * [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
@@ -20,11 +22,9 @@
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
 * [2026-06-11, 15:13:02](https://lobste.rs/s/lrjceq/our_workplace_llm_mass_delusion) - [our workplace LLM mass delusion](https://blog.avas.space/llm-circus/)
 * [2026-06-11, 13:50:22](https://lobste.rs/s/khavt4/your_interface_has_two_channels) - [Your Interface Has Two Channels](https://tomeraberba.ch/your-interface-has-two-channels)
-* [2026-06-11, 13:03:53](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust) - [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
 * [2026-06-10, 23:19:43](https://lobste.rs/s/ptkd7x/interactive_introduction_terrific) - [An interactive introduction to the terrific experience of rendering Arabic typography and its technical debt](https://lr0.org/blog/p/arabic/)
-* [2026-06-10, 11:13:17](https://lobste.rs/s/esvncd/how_building_html_first_site_doubled_our) - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 
 ## [Archives](archives/index.md)
 
