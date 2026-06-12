@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-12, 04:23:10](https://lobste.rs/s/yy8je0/yserver_modern_x11_server_written_from) - [yserver: A modern X11 server written from scratch in Rust](https://github.com/joske/yserver)
 * [2026-06-11, 23:35:02](https://lobste.rs/s/ve1lqr/homebrew_6_0_0) - [Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
 * [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2026-06-11, 20:32:45](https://lobste.rs/s/wcdzpt/bab_family_hashing_functions_for_p2p) - [Bab: a family of hashing functions for p2p networks](https://bab-hash.org/)
@@ -16,7 +17,6 @@
 * [2026-06-11, 13:03:53](https://lobste.rs/s/qchywn/merman_mermaid_js_headless_rust) - [merman: Mermaid.js, but headless, in Rust](https://github.com/Latias94/merman)
 * [2026-06-11, 10:39:30](https://lobste.rs/s/fp6pal/web_browsers_on_video_game_consoles) - [Web Browsers on Video Game Consoles](https://vale.rocks/posts/game-console-browsers)
 * [2026-06-11, 09:06:15](https://lobste.rs/s/w6ptmr/how_we_moved_discord_voice_edge) - [How We Moved Discord Voice to the Edge](https://discord.com/blog/how-we-moved-discord-voice-to-the-edge)
-* [2026-06-11, 07:49:26](https://lobste.rs/s/zmwm1u/learning_regular_languages_with_ttt) - [Learning Regular Languages with the TTT Algorithm](https://rahul.gopinath.org/post/2026/06/09/ttt-grammar-inference/)
 * [2026-06-11, 07:47:23](https://lobste.rs/s/vhp5x9/otp_gleam) - [OTP and Gleam](https://www.youtube.com/watch?v=DJwxAJoUUOU)
 * [2026-06-11, 07:18:03](https://lobste.rs/s/qsrmdw/brief_introduction_icon) - [A Brief Introduction to Icon](https://www2.cs.arizona.edu/icon/intro.htm)
 * [2026-06-11, 06:47:18](https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai) - [German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)
