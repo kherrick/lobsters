@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-13, 00:21:57](https://lobste.rs/s/ejra5c/21_zero_days_ffmpeg) - [21 Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 * [2026-06-13, 00:09:38](https://lobste.rs/s/tfvd8h/service_bindings_better_way_connect_apps) - [Service Bindings - A Better Way to Connect Apps to Databases](https://openrun.dev/blog/service-binding/)
 * [2026-06-12, 22:24:37](https://lobste.rs/s/q0xeyu/aplr_1_algorithm_for_generating_compact) - [The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)](https://branchtaken.com/reports/aplr1/aplr1)
 * [2026-06-12, 21:39:49](https://lobste.rs/s/9a3nvt/why_i_wrote_game_boy_advance_game_zig_2024) - [Why I Wrote a Game Boy Advance Game in Zig (2024)](https://jonot.me/posts/zig-gba/)
@@ -18,7 +19,6 @@
 * [2026-06-12, 11:56:25](https://lobste.rs/s/fiiamm/orthodox_c_2016) - [Orthodox C++ (2016)](https://bkaradzic.github.io/posts/orthodoxc++/)
 * [2026-06-12, 05:59:29](https://lobste.rs/s/ishgbs/ai_agent_bankrupted_their_operator_while) - [AI Agent Bankrupted Their Operator While Trying to Scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 * [2026-06-12, 05:39:08](https://lobste.rs/s/wnn1ul/how_i_made_60fps_eink_monitor_modos_flow) - [How I made a 60fps Eink monitor, the Modos Flow](https://youtu.be/nHbA2-_qzH4)
-* [2026-06-11, 20:53:25](https://lobste.rs/s/o1dzcn/local_first_software_is_easier_scale) - [Local-First Software Is Easier to Scale](https://elijahpotter.dev/articles/local-first_software_is_easier_to_scale)
 * [2026-06-11, 19:36:02](https://lobste.rs/s/ta0sem/hundreds_aur_packages_attacked_by) - [Hundreds of AUR packages attacked by infostealer](https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/)
 * [2026-06-11, 17:32:42](https://lobste.rs/s/rs1t8s/there_is_life_before_main_rust) - [There Is Life Before Main in Rust](https://grack.com/blog/2026/06/11/life-before-main/)
 * [2026-06-11, 16:15:10](https://lobste.rs/s/3mg7xo/reuse_less_software) - [Reuse Less Software](https://wiki.alopex.li/ReuseLessSoftware)
