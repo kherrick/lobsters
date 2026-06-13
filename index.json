@@ -1,6 +1,36 @@
 [
   [
     [
+      "2026-06-13, 15:37:16",
+      "https://lobste.rs/s/7s8fwa/repo_slopscore_detecting_ai_llm"
+    ],
+    [
+      "repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
+      "https://slopscan.ava.pet/"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 15:31:46",
+      "https://lobste.rs/s/4rcwmh/talk_more_your_coding_agents"
+    ],
+    [
+      "Talk more to your coding agents",
+      "https://www.datawill.io/posts/2026-06-my-agent-workflow/"
+    ]
+  ],
+  [
+    [
+      "2026-06-13, 15:24:13",
+      "https://lobste.rs/s/jcpzqt/banning_noise_will_be_disaster_for"
+    ],
+    [
+      "Banning noise will be a disaster for statistical data products",
+      "https://desfontain.es/blog/banning-noise.html"
+    ]
+  ],
+  [
+    [
       "2026-06-13, 15:07:09",
       "https://lobste.rs/s/bt7rtp/every_frame_perfect"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2026-06-12, 17:23:35",
-      "https://lobste.rs/s/n5gyfj/erm_local_cli_strips_ums_uhs_erms_from"
-    ],
-    [
-      "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech",
-      "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/"
-    ]
-  ],
-  [
-    [
       "2026-06-12, 17:06:44",
       "https://lobste.rs/s/8mcck8/columnar_database_for_analytics_pure"
     ],
@@ -187,16 +207,6 @@
     [
       "Nix Flakes and their Guix Equivalents",
       "https://coopi.neocities.org/posts/nix-flakes-vs-guix#guix-purity-by-design_6eece251b1ca"
-    ]
-  ],
-  [
-    [
-      "2026-06-12, 14:01:51",
-      "https://lobste.rs/s/ivzqxi/looking_forward_postgres_19_it_s_about"
-    ],
-    [
-      "Looking Forward to Postgres 19: It's About Time",
-      "https://www.pgedge.com/blog/looking-forward-to-postgres-19-its-about-time"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Hundreds of AUR packages attacked by infostealer",
       "https://lists.archlinux.org/archives/list/aur-general@lists.archlinux.org/thread/FGXPCB3ZVCJIV7FX323SBAX2JHYB7ZS4/"
-    ]
-  ],
-  [
-    [
-      "2026-06-11, 06:47:18",
-      "https://lobste.rs/s/lxoosd/german_court_ruling_declares_google_s_ai"
-    ],
-    [
-      "German court ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
-      "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/"
     ]
   ]
 ]
