@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2026-06-13](index.md)
 
+* [2026-06-13, 21:44:13](https://lobste.rs/s/j9s7qr/software_as_craft_first_look_at_syntropy) - [Software as Craft: a First Look at Syntropy](https://noteflakes.com/articles/2026-06-13-syntropy)
 * [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 * [2026-06-13, 20:12:35](https://lobste.rs/s/ooggna/curse_depth_large_language_models) - [The Curse of Depth in Large Language Models](https://arxiv.org/pdf/2502.05795)
 * [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)

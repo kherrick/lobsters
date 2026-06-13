@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2026-06-13, 21:44:13](https://lobste.rs/s/j9s7qr/software_as_craft_first_look_at_syntropy) - [Software as Craft: a First Look at Syntropy](https://noteflakes.com/articles/2026-06-13-syntropy)
 * [2026-06-13, 20:32:10](https://lobste.rs/s/rnmkrg/extinction_level_capitalism) - [Extinction-level capitalism](https://matthewbutterick.com/extinction-level-capitalism.html)
 * [2026-06-13, 20:12:35](https://lobste.rs/s/ooggna/curse_depth_large_language_models) - [The Curse of Depth in Large Language Models](https://arxiv.org/pdf/2502.05795)
 * [2026-06-13, 20:04:04](https://lobste.rs/s/bilqbs/webxdc_secure_mini_apps_for_chats) - [Webxdc - Secure mini apps for chats](https://webxdc.org/)
@@ -14,7 +15,6 @@
 * [2026-06-13, 03:33:10](https://lobste.rs/s/nbaa0n/statement_on_us_government_directive) - [Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 * [2026-06-13, 02:17:54](https://lobste.rs/s/n3c04h/generic_dynamic_array_c_stores_no) - [A generic dynamic array in C that stores no capacity and needs no struct](https://gist.github.com/alurm/2ca14be134d719fe7431217a6b18d91e)
 * [2026-06-13, 02:17:01](https://lobste.rs/s/tigq8d/rejected_emoji_proposals) - [Rejected Emoji Proposals](https://charlottebuff.com/unicode/misc/rejected-emoji-proposals/)
-* [2026-06-13, 00:49:19](https://lobste.rs/s/yskrgb/tools_for_running_vms_on_apple_silicon) - [Tools for running VMs on apple silicon macs](https://eclecticlight.co/virtualisation-on-apple-silicon/)
 * [2026-06-13, 00:21:57](https://lobste.rs/s/ejra5c/21_zero_days_ffmpeg) - [21 Zero-Days in FFmpeg](https://depthfirst.com/research/21-zero-days-in-ffmpeg)
 * [2026-06-12, 22:24:37](https://lobste.rs/s/q0xeyu/aplr_1_algorithm_for_generating_compact) - [The APLR(1) Algorithm for Generating Compact LR(1) Parsers is Simpler and More Capable than IELR(1)](https://branchtaken.com/reports/aplr1/aplr1)
 * [2026-06-12, 21:39:49](https://lobste.rs/s/9a3nvt/why_i_wrote_game_boy_advance_game_zig_2024) - [Why I Wrote a Game Boy Advance Game in Zig (2024)](https://jonot.me/posts/zig-gba/)
